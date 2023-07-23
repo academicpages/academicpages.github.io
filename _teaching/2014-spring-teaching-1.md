@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Multimodal interfaces"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Master course"
+permalink: /teaching/2023-spring-teaching-1
+venue: "Aalborg University, Department of Architecture, Design and Media Technology"
+date: 2023
+location: "Copenhagen, Denmark"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Class on multisensory interactions part of the Master in Medialogy at Aalborg University.
