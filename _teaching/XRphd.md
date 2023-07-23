@@ -3,7 +3,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/XRphd
 venue: "Copenhagen University"
-date: 2023
+date: 2023-05-01
 location: "Copenhagen, Denmark"
 ---
 
