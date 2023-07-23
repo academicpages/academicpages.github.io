@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cumhur Erkut, Dr. Sc. (Tech)"
+title                    : "Stefania Serafin, Professor"
 title_separator          : "-"
 name                     : &name "Cumhur Erkut"
 description              : &description "Associate Professor of Sonic and Embodied Interaction"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cumhur Erkut, Dr. Sc. (Tech)"
+  name             : "Stefania Serafin, Professor"
   avatar           : "profile.jpeg"
-  bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into foundational models and MLOps from an academic point of view."
+  bio              : "I work on sonic ."
   location         : "Copenhagen, Denmark"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
   googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
