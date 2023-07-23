@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Ca' Foscari University, Venice, Italy, 1996.
+* M.S. in Acoustics, Signal Processing and Computer Science Applied to Music, University Paris VI, 1998.
+* Ph.D in Computer Based Music Theory and Acoustics, Stanford University, California, 2024.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-Present: Professor
+  * Professor in Sonic Interaction Design, Aalborg University
+  * Leader of Multisensory Experience Lab
+  * Principal Investigator of the Nordic Sound and Music Computing Network (Nordforsk)
+  * President of the Sound and Music Computing Association
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2006-2018: Associate Professor at Aalborg University
+* 2006-2018: Associate Professor at Aalborg University
+* 2003-2006: Assistant Professor at Aalborg University
+* 2002-2003: Visiting Researcher at Cambridge University and KTH Stockholm
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* sound and music computing
+* virtual, augmented and extended realities
+* technologies for individuals with hearing impairments
 
 Publications
 ======
