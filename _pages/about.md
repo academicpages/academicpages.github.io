@@ -24,7 +24,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 # Publications
 
   * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
-    * Working Paper
+    * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023)
     * With Yiding Feng and Rad Niazadeh
   * ### [Quantitative assessment can stabilize indirect reciprocity under imperfect information](https://www.nature.com/articles/s41467-023-37817-x)
     * Nature Communications 2023
