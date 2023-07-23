@@ -75,6 +75,7 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
 
 ## Contents
 
+ 1. **[Full Slides](https://shorturl.at/fhrDH)**. 
  1. **[Notions of Explainable IR](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
  2. **[Intrinsic Methods for ExIR](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
  3. **[Probing transformer models](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
