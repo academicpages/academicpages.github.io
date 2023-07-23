@@ -76,7 +76,7 @@ analytics:
 author:
   name: "Tim"
   avatar: "HeadShot.jpg"
-  bio: "Still working on this"
+  bio: "Connect on Socials\n Email for CV"
   location: "Baton Rouge"
   employer: "Louisiana State University"
   pubmed:
@@ -168,7 +168,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  portfolio-projects:
     output: true
     permalink: /:collection/:path/
 
@@ -204,7 +204,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: portfolio projects
     values:
       layout: single
       author_profile: false
