@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Professor in  Sonic interaction design at Aalborg University in Copenhagen and the leader of the Multisensory Experience Lab together with Rolf Nordahl.
+I am Professor in  Sonic interaction design at [Aalborg University in Copenhagen] (https://www.en.aau.dk/copenhagen) and leader of the [Multisensory Experience Lab](https://melcph.create.aau.dk) together with Rolf Nordahl.
 
-I am the President of the Sound and Music Computing association, Project Leader of the Nordic Sound and Music Computing network and lead of the Sound and music computing Master at Aalborg University.
+I am the President of the [Sound and Music Computing association], Project Leader of the Nordic Sound and Music Computing network and lead of the Sound and music computing Master at Aalborg University.
 
 I received my PhD entitled “The sound of friction: computer models, playability and musical applications” from Stanford University in 2004, supervised by Professor Julius Smith III.
 
