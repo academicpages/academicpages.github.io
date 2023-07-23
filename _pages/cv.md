@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Based Music Theory and Acoustics, Stanford University, California, 2004.
+*  M.S. in Acoustics, Signal Processing and Computer Science Applied to Music, University Paris VI, 1998.
 * B.S. in Computer Science, Ca' Foscari University, Venice, Italy, 1996.
-* M.S. in Acoustics, Signal Processing and Computer Science Applied to Music, University Paris VI, 1998.
-* Ph.D in Computer Based Music Theory and Acoustics, Stanford University, California, 2024.
 
 Work experience
 ======
