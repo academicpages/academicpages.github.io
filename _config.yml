@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Stefania Serafin, Professor"
+title                    : "Cumhur Erkut, Dr. Sc. (Tech)"
 title_separator          : "-"
-name                     : &name "Stefania Serafin"
-description              : &description "Professor in Sonic Interactions for Virtual Environments"
-url                      : https://stefaniaserafin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Cumhur Erkut"
+description              : &description "Associate Professor of Sonic and Embodied Interaction"
+url                      : https://cerkut.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stefaniaserafin/stefaniaserafin.github.io"
-teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "cerkut/cerkut.github.io"
+teaser                   : "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &stefasera
+  username               : &cerkut1
 facebook:
-  username               : 
+  username               : cumhur.erkut
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -68,7 +68,7 @@ og_image                 :  # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links: https://huggingface.co/spaces/cerkut # An array of links to social media profiles
 
 
 # Analytics
@@ -80,43 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefania Serafin, Professor"
-  avatar           : "IMG_0760.jpg"
-  bio              : "I work on sonic interactions for extended realities and individuals with hearing impairments"
+  name             : "Cumhur Erkut, Dr. Sc. (Tech)"
+  avatar           : "profile.jpeg"
+  bio              : "I work on sonic and embodied interaction: model-based, neural sound and motion synthesis. Currently I am looking into foundational models and MLOps from an academic point of view."
   location         : "Copenhagen, Denmark"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=stefania+serafin"
-  googlescholar    :   # "https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao"
- email            :  # 
-  researchgate     : "https://www.researchgate.net/profile/Stefania-Serafin"
-  uri              : "https://vbn.aau.dk/da/persons/107881"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cumhur+erkut"
+  googlescholar    : "https://scholar.google.dk/citations?user=NPYFs5EAAAAJ&hl=en"
+  email            : "cer@create.aau.dk"
+  researchgate     : "https://www.researchgate.net/profile/Cumhur-Erkut" 
+  uri              : "https://vbn.aau.dk/en/persons/130223"
   bitbucket        :
-  codepen          :
+  codepen          : "cerkut"
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "cumhur.erkut"
   foursquare       :
-  github           : "stefasera"
-  google_plus      :
+  github           : "cerkut"
+  google_plus      : "cerkut"
   keybase          :
-  instagram        :
+  instagram        : cerkut_dsmc
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "stefaniaserafin"
-  orcid            : "http://orcid.org/0000-0001-6971-1132"
-  pinterest        :
-  soundcloud       :
+  lastfm           : "cerkut"
+  linkedin         : "cerkut"
+  orcid            : "http://orcid.org/0000-0003-0750-1919"
+  pinterest        : 
+  soundcloud       : "cerkut"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "stefasera"
+  twitter          : "cerkut1"
   vine             :
   weibo            :
-  xing             :
-  youtube          :
-
-    
-  #  wikipedia       : "https://en.wikipedia.org/wiki/Stefania_Serafin"
+  xing             : 
+  youtube          : "cerkut"
+  wikipedia        :
 
 
 # Reading Files
@@ -182,6 +179,7 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
+    author.googlescholar: true
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -237,7 +235,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
