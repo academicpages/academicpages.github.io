@@ -86,8 +86,8 @@ author:
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=stefania+serafin"
-  # googlescholar    : "https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao"
-  # email            : 
+  googlescholar    :   # "https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao"
+ email            :  # 
   researchgate     : "https://www.researchgate.net/profile/Stefania-Serafin"
   uri              : "https://vbn.aau.dk/da/persons/107881"
   bitbucket        :
