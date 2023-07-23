@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Stefania Serafin, Professor"
 title_separator          : "-"
-name                     : &name "Cumhur Erkut"
+name                     : &name "Stefania Serafin"
 description              : &description "Associate Professor of Sonic and Embodied Interaction"
 url                      : https://cerkut.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
