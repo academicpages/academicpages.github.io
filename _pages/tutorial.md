@@ -95,4 +95,37 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
 
 <br>
 
-[1] Julius Adebayo, Justin Gilmer, Michael Muelly, Ian J. Goodfellow, Moritz Hardt, and Been Kim. 2018. Sanity Checks for Saliency Maps. In Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montréal, Canada, Samy Bengio, Hanna M. Wallach, Hugo Larochelle, Kristen Grauman, Nicolò Cesa-Bianchi, and Roman Garnett (Eds.). 9525–9536. https://proceedings. neurips.cc/paper/2018/hash/294a8ed24b1ad22ec2e7efea049b8737- Abstract.html
+[1] "Sanity Checks for Saliency Maps", Adebayo et al., NeurIPS 2018. 
+
+[2] "LIRME: Locally Interpretable Ranking Model Explanation", Verma and Ganguly, SIGIR 2019.
+
+[3] "The Curious Case of IR Explainability: Explaining Document Scores
+within and across Ranking Models", Sen et al., SIGIR 2020.
+
+[4] "Model agnostic interpretability of rankers via intent modelling", Singh and Anand, FAT 2020.
+
+[5] "Listwise Explanations for Ranking Models Using Multiple Explainers", Lyu et al., ECIR 2023.
+
+[6] "Query Understanding via Intent Description Generation", Zhang et al., CIKM 2020.
+
+[7] "A formal study of information retrieval heuristics", Fang et al., SIGIR 2004.
+
+[8] "Axiomatic Result Re-Ranking", Hagen et al., CIKM 2016.
+
+[9] "Aggregating inconsistent information: Ranking and clustering", Ailon et al., JACM 2008.
+
+[10] "Explainable k-Means and k-Medians Clustering", Dasgupta et al., ICML 2020.
+
+[11] "Towards Axiomatic Explanations for Neural Ranking Models", Volske et al., ICTIR 2021.
+
+[12] "An Axiomatic Approach to Diagnosing Neural IR Models", Rennings et al., ECIR 2019.
+
+[13] "Diagnosing BERT with Retrieval Heuristics", Camara and Hauff, ECIR 2020.
+
+
+
+
+
+
+
+
