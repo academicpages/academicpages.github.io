@@ -76,15 +76,15 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
 ## Contents
 
  1. **[Full Slides](https://shorturl.at/fhrDH)**. 
- 2. **[Notions of Explainable IR](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
- 3. **[Intrinsic Methods for ExIR](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
- 4. **[Probing transformer models](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](http://www.avishekanand.com). 
+ 2. **[Notions of Explainable IR](https://shorturl.at/apHJ8)** by [Avishek Anand](http://www.avishekanand.com). 
+ 3. **[Intrinsic Methods for ExIR](https://shorturl.at/dnrGW)** by [Avishek Anand](http://www.avishekanand.com). 
+ 4. **[Probing transformer models](https://shorturl.at/dnrGW)** by [Avishek Anand](http://www.avishekanand.com). 
 
 <br>    
 
-5. **[Posthoc approaches in ExIR](https://arxiv.org/pdf/2211.02405.pdf)** by [Procheta Sen](https://procheta.github.io/sprocheta/). 
-6. **[Axiomatic IR for Interpretability](https://arxiv.org/pdf/2211.02405.pdf)** by [Sourav Saha](https://souravsaha.github.io). 
-7. **[Outlook and Conclusion](https://arxiv.org/pdf/2211.02405.pdf)** by [Avishek Anand](https://www.avishekanand.com). 
+5. **[Posthoc approaches in ExIR](https://shorturl.at/pyBM1)** by [Procheta Sen](https://procheta.github.io/sprocheta/). 
+6. **[Axiomatic IR for Interpretability](https://shorturl.at/hzKR8)** by [Sourav Saha](https://souravsaha.github.io). 
+7. **[Outlook and Conclusion](https://shorturl.at/biK03)** by [Avishek Anand](https://www.avishekanand.com). 
 
 
 <br>
