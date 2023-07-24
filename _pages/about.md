@@ -44,7 +44,7 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
-Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic]()." Nature Humanities and Social Sciences Communication.
+Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://yongjunzhang.com/files/sinophobia.pdf)." Nature Humanities and Social Sciences Communication.
 
 Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://www.nature.com/articles/s41598-023-36946-z)." Scientific Reports.
 
