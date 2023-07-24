@@ -1,7 +1,10 @@
 # main links links
 main:
+  - title: "News"
+    tag: "news"
+
   - title: "Publications"
-    url: /publications/
+    # url: /publications/
     tag: "publications"
 
   - title: "Patents"
