@@ -1,20 +1,13 @@
----
-title: "Teaching experience 2"
+title: "XR PhD school"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/XRphd
+venue: "Copenhagen University"
+date: 2023-05-01
+location: "Copenhagen, Denmark"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I gave a lecture to the [CHI 2023 Summer School on Extended Realities]
+(https://www.aicentre.dk/events/chi23-summer-school-on-extended-reality-xr).
+The topic was: XR for All. Slides can be found here: 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
