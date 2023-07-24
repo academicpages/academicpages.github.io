@@ -7,6 +7,7 @@ date: 2022-01-01
 venue: 'Focal Press'
 paperurl: 'https://www.routledge.com/Auditory-Interfaces/Serafin-Buxton-Gaver-Bly/p/book/9781032196459'
 citation: 'Serafin, S., Buxton, B., Gaver, B., & Bly, S. (2022). Auditory Interfaces. Focal Press.'
+___
 
 This book was started in the 80s by Bill Buxton, Bill Gaver and Sara Bly and recently completed and published.
 Auditory Interfaces explores how human-computer interactions can be significantly enhanced through the improved use of the audio channel.
