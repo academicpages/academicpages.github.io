@@ -96,7 +96,8 @@ author:
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "dyyu@stu.suda.edu.cn"
+  # email            : "dyyu@stu.suda.edu.cn"
+  email            : "dongyangyu1999@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
