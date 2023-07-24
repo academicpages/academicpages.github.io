@@ -49,10 +49,18 @@
 }
 
 .page__content {
-
   h2 {
+    margin: -20px 0 0;
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
+  }
+
+  h2::before {  // 标签跳转的上边距
+    content: '';
+    display: block;
+    position: relative;
+    width: 0;
+    height: 30px;
   }
 
   p, li, dl {

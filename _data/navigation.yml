@@ -10,6 +10,11 @@ main:
   - title: "Software Copyrights"
     tag: "software-copyrights"
 
+  - title: "Selected Awards"
+    tag: "selected-awards"
+
+  - title: "Teachings"
+    tag: "teachings"
 
   # - title: "Blog Posts"
   #   url: /year-archive/

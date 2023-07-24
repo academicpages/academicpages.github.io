@@ -28,7 +28,7 @@ I would love to work with all people together on some interesting projects! **Fe
 2. **Yu, D.**, Wang, J., 2023. Software Copyright of Blockchain Supervision Platform for Agricultural Production. Software Application 2023R11S0925268, filed June 15, 2023. Pending.
 
 
-## Selected Honors
+## Selected Awards
 - Outstanding Graduate Student Cadre, Soochow University, *Jun. 2023*
 - Excellent League Member, Soochow University, *Mar. 2023*
 - The Samsung Scholarship <u>(5 places in total)</u>, Soochow University, *Nov. 2022*
@@ -39,7 +39,7 @@ I would love to work with all people together on some interesting projects! **Fe
 - Dean’s List, Northern Arizona University, *2018 – 2020*
 
 
-## Teaching Experience
+## Teachings
 - Teaching Assistant, COMS2022: Discrete Mathematics (*Fall 2021, Spring 2023*, SUDA)
 - Teaching Assistant, CS249: Data Structures and Algorithms (*Spring 2019, Fall 2019, Spring 2020*, NAU)
 - Teaching Assistant, CS480: Operating Systems (*Spring 2020*, NAU)
