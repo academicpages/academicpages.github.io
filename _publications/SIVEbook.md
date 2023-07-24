@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Sonic Interactions in Virtual Environments"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/SIVEbook
+excerpt: 'This is an open access book I edited with Michele Geronazzo on Sonic Interactions in Virtual Environments.'
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+paperurl: 'https://link.springer.com/book/10.1007/978-3-031-04021-4'
+citation: 'Geronazzo, Michele, and Stefania Serafin. Sonic Interactions in Virtual Environments. Springer Nature, 2023.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This open access book tackles the design of 3D spatial interactions in an audio-centered and audio-first perspective, providing the fundamental notions related to the creation and evaluation of immersive sonic experiences. The key elements that enhance the sensation of place in a virtual environment (VE) are: Immersive audio: the computational aspects of the acoustical-space properties of Virutal Reality (VR) technologies Sonic interaction: the human-computer interplay through auditory feedback in VE VR systems: naturally support multimodal integration, impacting different application domains Sonic Interactions in Virtual Environments will feature state-of-the-art research on real-time auralization, sonic interaction design in VR, quality of the experience in multimodal scenarios, and applications. Contributors and editors include interdisciplinary experts from the fields of computer science, engineering, acoustics, psychology, design, humanities, and beyond. Their mission is to shape an emerging new field of study at the intersection of sonic interaction design and immersive media, embracing an archipelago of existing research spread in different audio communities and to increase among the VR communities, researchers, and practitioners, the awareness of the importance of sonic elements when designing immersive environments.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download book here](https://library.oapen.org/handle/20.500.12657/59355)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Geronazzo, Michele, and Stefania Serafin. Sonic Interactions in Virtual Environments. Springer Nature, 2023.
