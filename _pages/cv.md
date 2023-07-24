@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* NeuralTechSoft (Neural Technologies Pvt Ltd)
+
+## NeuralTechSoft (Neural Technologies Pvt Ltd)
   * Created a web application using Django framework and Docker,
     incorporating machine learning models to enhance functionality and
     improve user experience.
@@ -33,7 +34,7 @@ Work experience
     authentication and served as a frontend for one of the previously
     developed web apps.
 
-* ToCan Analytics
+## ToCan Analytics
   * Built a deep learning NLP model for relation identification extraction
     from market reports
   * Developed a text extraction module for PDF and performed text
@@ -41,7 +42,7 @@ Work experience
   * Built a custom dataset and trained a BERT model variant called RBERT
     for relation extraction Deployed the model using Flask and Docker
 
-* KruXworks (Internship)
+## KruXworks (Internship)
   * Developed and executed advanced statistical and machine learning
   models to analyze market patterns and predict outcomes. Created a
   data retrieval and manipulation module for improved efficiency.
