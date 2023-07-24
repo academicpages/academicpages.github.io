@@ -55,4 +55,7 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*  Paper chair, [VRST 2023](https://vrst.acm.org/vrst2023/)
+*  Member of [SUI steering committee](https://sui.acm.org/2023/organization)
+* Member of the Department Research committee, Aalborg University
+
