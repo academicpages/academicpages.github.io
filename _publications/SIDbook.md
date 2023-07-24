@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Sonic Interaction Design"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+permalink: /publication/SIDbook
+excerpt: 'This is an edited book on Sonic Interaction Design'
+date: 2013-10-01
+venue: 'MIT Press'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Franinovic, K., & Serafin, S. (Eds.). (2013). Sonic interaction design. Mit Press.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This is a book about Sonic Interaction Design co-edited with Karmen Franinovic.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[More info here](https://direct.mit.edu/books/edited-volume/2983/Sonic-Interaction-Design)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Franinovic, K., & Serafin, S. (Eds.). (2013). Sonic interaction design. Mit Press.
