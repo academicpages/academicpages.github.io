@@ -2,16 +2,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    tag: "publications"
 
-  # - title: "Talks"
-  #   url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Patents"
+    tag: "patents"
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  - title: "Software Copyrights"
+    tag: "software-copyrights"
+
+
   - title: "Blog Posts"
     url: /year-archive/
     
@@ -20,3 +19,15 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Talks"
+  #   url: /talks/    
+        
+  # - title: "Teaching"
+  #   url: /teaching/    

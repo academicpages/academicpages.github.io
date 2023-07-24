@@ -73,3 +73,5 @@ To support this, all changes to the underlying code appear as a closed issue wit
 # Notes
 
 navigation list in `_data/navigation.yml`
+
+Update the edited time in `\_includes/footer.html`
