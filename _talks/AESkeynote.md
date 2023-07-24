@@ -1,11 +1,10 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "Keynote at AES Spatial Sound Conference"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: /talks/AESkeynote
+venue: "Huddersfield"
+date: 2023-08-22
+location: "Huddersfield, UK"
 ---
-
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+I have been invited to give a keynote speech to the [2023 AES conference on Spatial Sound:](https://aes2.org/event-extra/2023-aes-international-conference-on-spatial-and-immersive-audio-keynote-stefania-serafin/)
