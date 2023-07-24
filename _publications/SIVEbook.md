@@ -3,8 +3,8 @@ title: "Sonic Interactions in Virtual Environments"
 collection: publications
 permalink: /publication/SIVEbook
 excerpt: 'This is an open access book I edited with Michele Geronazzo on Sonic Interactions in Virtual Environments.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2022-10-01
+venue: 'Springer'
 paperurl: 'https://link.springer.com/book/10.1007/978-3-031-04021-4'
 citation: 'Geronazzo, Michele, and Stefania Serafin. Sonic Interactions in Virtual Environments. Springer Nature, 2023.'
 ---
