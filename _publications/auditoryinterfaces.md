@@ -15,5 +15,5 @@ Auditory Interfaces explores how human-computer interactions can be significantl
 Providing historical, theoretical and practical perspectives, the book begins with an introductory overview, before presenting cutting-edge research with chapters on embodied music recognition, nonspeech audio, and user interfaces.
 
 This book will be of interest to advanced students, researchers and professionals working in a range of fields, from audio sound systems, to human-computer interaction and computer science.
----
+
 Recommended citation: Serafin, S., Buxton, B., Gaver, B., & Bly, S. (2022). Auditory Interfaces. Focal Press.
