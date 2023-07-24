@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[A](##Patents)
-
 Hi! I am currently a postgraduate student at [Soochow University](http://www.suda.edu.cn) in the [School of Computer Science & Technology](http://scst.suda.edu.cn/) . My supervisor is [Prof. Jin Wang](http://web.suda.edu.cn/wjin1985/index.html). Piror to that, I received double B.S. degrees in computer science from Northern Arizona University & computer science and technology from Yangzhou University in 2020, respectively. My research interests include **blockchain security**, **coded computing** and **distributed systems**.<br>
 
 I would love to work with all people together on some interesting projects! **Feel free to drop me an email** if you have any ideas about blockchain to discuss!
