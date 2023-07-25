@@ -5,8 +5,8 @@ permalink: /publication/Sun_2017_TIST
 excerpt: ''
 date: 2018-10-23
 venue: 'ACM Transactions on Intelligent Systems and Technology'
-paperurl: ''
-citation: 'Sun, G., Tang, T., Peng, T. Q., Liang, R., & Wu, Y. (2018). SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media. <i>ACM Transactions on Intelligent Systems and Technology, 9</i>(2). https://doi.org/10.1145/3106775'
+paperurl: 'https://doi.org/10.1145/3106775'
+citation: 'Sun, G., Tang, T., Peng, T. Q., Liang, R., & Wu, Y. (2018). SocialWave: Visual Analysis of Spatio-temporal Diffusion of Information on Social Media. <i>ACM Transactions on Intelligent Systems and Technology, 9</i>(2).'
 ---
 
 Abstract
