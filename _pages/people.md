@@ -9,6 +9,7 @@ author_profile: true
 
 ## Faculty
 
+- Sainyam Galhotra
 - Immanuel Trummer
 
 ## PhD Students
