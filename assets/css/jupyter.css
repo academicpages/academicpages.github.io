@@ -1,0 +1,383 @@
+/******************************************************************************
+* Jupyter notebooks styles
+*
+* Created basically from exporting the notebook to HTML for both light and dark
+* modes with
+* jupyter nbconvert --execute --to html blog.ipynb --HTMLExporter.theme=light
+* and
+* jupyter nbconvert --execute --to html blog.ipynb --HTMLExporter.theme=dark
+* and diffing the results. Here are only the differences.
+******************************************************************************/
+:root {
+    /* Elevation
+    *
+    * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
+    *
+    * https://github.com/material-components/material-components-web
+    * https://material-components-web.appspot.com/elevation.html
+    */
+    --jp-shadow-base-lightness: 0;
+
+    /* Borders
+    *
+    * The following variables, specify the visual styling of borders in JupyterLab.
+    */
+    --jp-border-color0: var(--md-grey-400);
+    --jp-border-color1: var(--md-grey-400);
+    --jp-border-color2: var(--md-grey-300);
+    --jp-border-color3: var(--md-grey-200);
+
+    /*
+    * Use these font colors against the corresponding main layout colors.
+    * In a light theme, these go from dark to light.
+    */
+
+    /* Defaults use Material Design specification */
+    --jp-ui-font-color0: rgba(0, 0, 0, 1);
+    --jp-ui-font-color1: rgba(0, 0, 0, 0.87);
+    --jp-ui-font-color2: rgba(0, 0, 0, 0.54);
+    --jp-ui-font-color3: rgba(0, 0, 0, 0.38);
+
+    /*
+    * Use these against the brand/accent/warn/error colors.
+    * These will typically go from light to darker, in both a dark and light theme.
+    */
+    --jp-ui-inverse-font-color0: rgba(255, 255, 255, 1);
+    --jp-ui-inverse-font-color1: rgba(255, 255, 255, 1);
+    --jp-ui-inverse-font-color2: rgba(255, 255, 255, 0.7);
+    --jp-ui-inverse-font-color3: rgba(255, 255, 255, 0.5);
+
+    /* Content Fonts
+    *
+    * Content font variables are used for typography of user generated content.
+    *
+    * The font sizing here is done assuming that the body font size of --jp-content-font-size1
+    * is applied to a parent element. When children elements, such as headings, are sized
+    * in em all things will be computed relative to that body size.
+    */
+
+    /* Defaults use Material Design specification */
+    --jp-content-font-color0: rgba(0, 0, 0, 1);
+    --jp-content-font-color1: rgba(0, 0, 0, 0.87);
+    --jp-content-font-color2: rgba(0, 0, 0, 0.54);
+    --jp-content-font-color3: rgba(0, 0, 0, 0.38);
+
+    --jp-content-link-color: var(--md-blue-700);
+
+    /* Layout
+    *
+    * The following are the main layout colors use in JupyterLab. In a light
+    * theme these would go from light to dark.
+    */
+    --jp-layout-color0: white;
+    --jp-layout-color1: white;
+    --jp-layout-color2: var(--md-grey-200);
+    --jp-layout-color3: var(--md-grey-400);
+
+    /* Inverse Layout
+    *
+    * The following are the inverse layout colors use in JupyterLab. In a light
+    * theme these would go from dark to light.
+    */
+    --jp-inverse-layout-color0: #111111;
+    --jp-inverse-layout-color1: var(--md-grey-900);
+    --jp-inverse-layout-color2: var(--md-grey-800);
+    --jp-inverse-layout-color3: var(--md-grey-700);
+
+    /* Brand/accent */
+    --jp-brand-color0: var(--md-blue-900);
+    --jp-brand-color1: var(--md-blue-700);
+
+    --jp-accent-color0: var(--md-green-900);
+    --jp-accent-color1: var(--md-green-700);
+
+    /* State colors (warn, error, success, info) */
+    --jp-warn-color0: var(--md-orange-900);
+    --jp-warn-color1: var(--md-orange-700);
+
+    --jp-error-color0: var(--md-red-900);
+    --jp-error-color1: var(--md-red-700);
+
+    --jp-success-color0: var(--md-green-900);
+    --jp-success-color1: var(--md-green-700);
+
+    --jp-info-color0: var(--md-cyan-900);
+    --jp-info-color1: var(--md-cyan-700);
+
+    /* Cell specific styles */
+    --jp-cell-editor-background: var(--md-grey-100);
+    --jp-cell-editor-border-color: var(--md-grey-300);
+
+    --jp-cell-prompt-not-active-opacity: 0.5;
+    --jp-cell-prompt-not-active-font-color: var(--md-grey-700);
+
+    /* Notebook specific styles */
+    --jp-notebook-multiselected-color: var(--md-blue-50);
+
+    /* Rendermime styles */
+    --jp-rendermime-error-background: #fdd;
+    --jp-rendermime-table-row-background: var(--md-grey-100);
+    --jp-rendermime-table-row-hover-background: var(--md-light-blue-50);
+
+    /* Dialog specific styles */
+    --jp-dialog-background: rgba(0, 0, 0, 0.25);
+
+    /* Toolbar specific styles */
+    --jp-toolbar-border-color: var(--jp-border-color1);
+    --jp-toolbar-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.24);
+    --jp-toolbar-active-background: var(--md-grey-300);
+
+    /* Input field styles */
+    --jp-input-active-background: var(--jp-layout-color1);
+    --jp-input-hover-background: var(--jp-layout-color1);
+    --jp-input-background: var(--md-grey-100);
+
+    /* General editor styles */
+    --jp-editor-selected-background: #d9d9d9;
+    --jp-editor-selected-focused-background: #d7d4f0;
+
+    /* Code mirror specific styles */
+    --jp-mirror-editor-keyword-color: #008000;
+    --jp-mirror-editor-atom-color: #88f;
+    --jp-mirror-editor-number-color: #080;
+    --jp-mirror-editor-def-color: #00f;
+    --jp-mirror-editor-variable-color: var(--md-grey-900);
+    --jp-mirror-editor-variable-2-color: #05a;
+    --jp-mirror-editor-variable-3-color: #085;
+    --jp-mirror-editor-punctuation-color: #05a;
+    --jp-mirror-editor-property-color: #05a;
+    --jp-mirror-editor-string-color: #ba2121;
+    --jp-mirror-editor-string-2-color: #708;
+    --jp-mirror-editor-builtin-color: #008000;
+    --jp-mirror-editor-tag-color: #170;
+    --jp-mirror-editor-attribute-color: #00c;
+    --jp-mirror-editor-header-color: blue;
+    --jp-mirror-editor-quote-color: #090;
+    --jp-mirror-editor-link-color: #00c;
+
+    /*
+        RTC user specific colors.
+        These colors are used for the cursor, username in the editor,
+        and the icon of the user.
+    */
+    --jp-collaborator-color1: #ffad8e;
+    --jp-collaborator-color2: #dac83d;
+    --jp-collaborator-color3: #72dd76;
+    --jp-collaborator-color4: #00e4d0;
+    --jp-collaborator-color5: #45d4ff;
+    --jp-collaborator-color6: #e2b1ff;
+    --jp-collaborator-color7: #ff9de6;
+
+    /* Vega extension styles */
+    --jp-vega-background: white;
+
+    /* Search-related styles */
+    --jp-search-toggle-off-opacity: 0.5;
+    --jp-search-selected-match-background-color: rgb(245, 200, 0);
+
+    /* File or activity icons and switch semantic variables */
+    --jp-json-icon-color: var(--md-orange-700);
+    --jp-console-icon-background-color: var(--md-blue-700);
+    --jp-terminal-icon-background-color: var(--md-grey-800);
+    --jp-terminal-icon-color: var(--md-grey-200);
+    --jp-text-editor-icon-color: var(--md-grey-700);
+    --jp-inspector-icon-color: var(--md-grey-700);
+    --jp-switch-true-position-color: var(--md-orange-900);
+
+    @import "jupyter-grade3";
+}
+
+body[data-jp-theme-light="false"] {
+    /* Elevation
+    *
+    * We style box-shadows using Material Design's idea of elevation. These particular numbers are taken from here:
+    *
+    * https://github.com/material-components/material-components-web
+    * https://material-components-web.appspot.com/elevation.html
+    */
+
+    /* The dark theme shadows need a bit of work, but this will probably also require work on the core layout
+    * colors used in the theme as well.
+    */
+    --jp-shadow-base-lightness: 32;
+
+    /* Borders
+    *
+    * The following variables, specify the visual styling of borders in JupyterLab.
+    */
+    --jp-border-color0: var(--md-grey-700);
+    --jp-border-color1: var(--md-grey-700);
+    --jp-border-color2: var(--md-grey-800);
+    --jp-border-color3: var(--md-grey-900);
+
+    /*
+    * Use these font colors against the corresponding main layout colors.
+    * In a light theme, these go from dark to light.
+    */
+
+    /* Defaults use Material Design specification */
+    --jp-ui-font-color0: rgba(255, 255, 255, 1);
+    --jp-ui-font-color1: rgba(255, 255, 255, 0.87);
+    --jp-ui-font-color2: rgba(255, 255, 255, 0.54);
+    --jp-ui-font-color3: rgba(255, 255, 255, 0.38);
+
+    /*
+    * Use these against the brand/accent/warn/error colors.
+    * These will typically go from light to darker, in both a dark and light theme.
+    */
+    --jp-ui-inverse-font-color0: rgba(0, 0, 0, 1);
+    --jp-ui-inverse-font-color1: rgba(0, 0, 0, 0.8);
+    --jp-ui-inverse-font-color2: rgba(0, 0, 0, 0.5);
+    --jp-ui-inverse-font-color3: rgba(0, 0, 0, 0.3);
+
+    /* Content Fonts
+    *
+    * Content font variables are used for typography of user generated content.
+    *
+    * The font sizing here is done assuming that the body font size of --jp-content-font-size1
+    * is applied to a parent element. When children elements, such as headings, are sized
+    * in em all things will be computed relative to that body size.
+    */
+
+    /* Defaults use Material Design specification */
+    --jp-content-font-color0: rgba(255, 255, 255, 1);
+    --jp-content-font-color1: rgba(255, 255, 255, 1);
+    --jp-content-font-color2: rgba(255, 255, 255, 0.7);
+    --jp-content-font-color3: rgba(255, 255, 255, 0.5);
+
+    --jp-content-link-color: var(--md-blue-300);
+
+    /* Layout
+    *
+    * The following are the main layout colors use in JupyterLab. In a light
+    * theme these would go from light to dark.
+    */
+    --jp-layout-color0: var(--global-bg-color);
+    --jp-layout-color1: var(--md-grey-900);
+    --jp-layout-color2: var(--md-grey-800);
+    --jp-layout-color3: var(--md-grey-700);
+
+    /* Inverse Layout
+    *
+    * The following are the inverse layout colors use in JupyterLab. In a light
+    * theme these would go from dark to light.
+    */
+    --jp-inverse-layout-color0: white;
+    --jp-inverse-layout-color1: white;
+    --jp-inverse-layout-color2: var(--md-grey-200);
+    --jp-inverse-layout-color3: var(--md-grey-400);
+
+    /* Brand/accent */
+    --jp-brand-color0: var(--md-blue-700);
+    --jp-brand-color1: var(--md-blue-500);
+
+    --jp-accent-color0: var(--md-green-700);
+    --jp-accent-color1: var(--md-green-500);
+
+    /* State colors (warn, error, success, info) */
+    --jp-warn-color0: var(--md-orange-700);
+    --jp-warn-color1: var(--md-orange-500);
+
+    --jp-error-color0: var(--md-red-700);
+    --jp-error-color1: var(--md-red-500);
+
+    --jp-success-color0: var(--md-green-700);
+    --jp-success-color1: var(--md-green-500);
+
+    --jp-info-color0: var(--md-cyan-700);
+    --jp-info-color1: var(--md-cyan-500);
+
+    /* Cell specific styles */
+    --jp-cell-editor-background: var(--jp-layout-color1);
+    --jp-cell-editor-border-color: var(--md-grey-700);
+
+    --jp-cell-prompt-not-active-opacity: 1;
+    --jp-cell-prompt-not-active-font-color: var(--md-grey-300);
+
+    /* Notebook specific styles */
+    --jp-notebook-multiselected-color: rgba(33, 150, 243, 0.24);
+
+    /* Rendermime styles */
+    --jp-rendermime-error-background: rgba(244, 67, 54, 0.28);
+    --jp-rendermime-table-row-background: var(--md-grey-900);
+    --jp-rendermime-table-row-hover-background: rgba(3, 169, 244, 0.2);
+
+    /* Dialog specific styles */
+    --jp-dialog-background: rgba(0, 0, 0, 0.6);
+
+    /* Toolbar specific styles */
+    --jp-toolbar-border-color: var(--jp-border-color2);
+    --jp-toolbar-box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.8);
+    --jp-toolbar-active-background: var(--jp-layout-color0);
+
+    /* Input field styles */
+    --jp-input-active-background: var(--jp-layout-color0);
+    --jp-input-hover-background: var(--jp-layout-color2);
+    --jp-input-background: var(--md-grey-800);
+
+    /* General editor styles */
+    --jp-editor-selected-background: var(--jp-layout-color2);
+    --jp-editor-selected-focused-background: rgba(33, 150, 243, 0.24);
+
+    /* Code mirror specific styles */
+    --jp-mirror-editor-keyword-color: var(--md-green-500);
+    --jp-mirror-editor-atom-color: var(--md-blue-300);
+    --jp-mirror-editor-number-color: var(--md-green-400);
+    --jp-mirror-editor-def-color: var(--md-blue-600);
+    --jp-mirror-editor-variable-color: var(--md-grey-300);
+    --jp-mirror-editor-variable-2-color: var(--md-blue-400);
+    --jp-mirror-editor-variable-3-color: var(--md-green-600);
+    --jp-mirror-editor-punctuation-color: var(--md-blue-400);
+    --jp-mirror-editor-property-color: var(--md-blue-400);
+    --jp-mirror-editor-string-color: #ff7070;
+    --jp-mirror-editor-string-2-color: var(--md-purple-300);
+    --jp-mirror-editor-builtin-color: var(--md-green-600);
+    --jp-mirror-editor-tag-color: var(--md-green-700);
+    --jp-mirror-editor-attribute-color: var(--md-blue-700);
+    --jp-mirror-editor-header-color: var(--md-blue-500);
+    --jp-mirror-editor-quote-color: var(--md-green-300);
+    --jp-mirror-editor-link-color: var(--md-blue-700);
+
+    /*
+        RTC user specific colors.
+        These colors are used for the cursor, username in the editor,
+        and the icon of the user.
+    */
+    --jp-collaborator-color1: #ad4a00;
+    --jp-collaborator-color2: #7b6a00;
+    --jp-collaborator-color3: #007e00;
+    --jp-collaborator-color4: #008772;
+    --jp-collaborator-color5: #0079b9;
+    --jp-collaborator-color6: #8b45c6;
+    --jp-collaborator-color7: #be208b;
+
+    /* Vega extension styles */
+    --jp-vega-background: var(--md-grey-400);
+
+    /* Search-related styles */
+    --jp-search-toggle-off-opacity: 0.6;
+    --jp-search-selected-match-background-color: rgb(255, 225, 0);
+
+    /* scrollbar related styles. Supports every browser except Edge. */
+
+    /* colors based on JetBrain's Darcula theme */
+    --jp-scrollbar-background-color: #3f4244;
+    --jp-scrollbar-thumb-color: 88, 96, 97; /* need to specify thumb color as an RGB triplet */
+
+    --jp-scrollbar-endpad: 3px; /* the minimum gap between the thumb and the ends of a scrollbar */
+
+    /* hacks for setting the thumb shape. These do nothing in Firefox */
+    --jp-scrollbar-thumb-margin: 3.5px; /* the space in between the sides of the thumb and the track */
+    --jp-scrollbar-thumb-radius: 9px; /* set to a large-ish value for rounded endcaps on the thumb */
+
+    /* File or activity icons and switch semantic variables */
+    --jp-json-icon-color: var(--md-orange-500);
+    --jp-console-icon-background-color: var(--md-blue-500);
+    --jp-terminal-icon-background-color: var(--md-grey-200);
+    --jp-terminal-icon-color: var(--md-grey-800);
+    --jp-text-editor-icon-color: var(--md-grey-200);
+    --jp-inspector-icon-color: var(--md-grey-200);
+    --jp-switch-true-position-color: var(--md-orange-700);
+
+    @import "jupyter-monokai";
+}
