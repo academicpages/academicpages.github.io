@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/Xu_Peng_2023_HCR
 excerpt: ''
 date: 2023-07-31
-venue: 'Human Commmunication Research'
-paperurl: ''
-citation: 'Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>. [https://doi.org/10.1093/hcr/hqad028](https://doi.org/10.1093/hcr/hqad028)'
+venue: 'Human Communication Research'
+paperurl: 'https://doi.org/10.1093/hcr/hqad028'
+citation: 'Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>. https://doi.org/10.1093/hcr/hqad028'
 ---
 
 Abstract
