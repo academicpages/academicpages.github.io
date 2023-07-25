@@ -5,8 +5,8 @@ permalink: /publication/Wang_2022_TVCG
 excerpt: ''
 date: 2022-01-10
 venue: 'IEEE Transactions on Visualization and Computer Graphics'
-paperurl: ''
-citation: 'Wang, Y., Peng, T. Q., Lu, H., Wang, H., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers. <i>IEEE Transactions on Visualization and Computer Graphics, 28</i>(1), 475–485. https://doi.org/10.1109/TVCG.2021.3114790'
+paperurl: 'https://doi.org/10.1109/TVCG.2021.3114790'
+citation: 'Wang, Y., Peng, T. Q., Lu, H., Wang, H., Xie, X., Qu, H. M., & Wu, Y. C. (2022). Seek for Success: A Visualization Approach for Understanding the Dynamics of Academic Careers. <i>IEEE Transactions on Visualization and Computer Graphics, 28</i>(1), 475–485.'
 ---
 
 Abstract
