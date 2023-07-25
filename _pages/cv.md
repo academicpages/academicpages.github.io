@@ -37,11 +37,11 @@ Grasse, Don, <b><font color="#3e9c70">Pavlik, Melissa</font></b> Matfess, Hilary
 * Presented at Yale University's Political Violence and its Legacies Workshop (Fall 2020)
 * Download PDF [here]
 
-<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. “Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.” _Under Review._
+<b><font color="#3e9c70">Pavlik, Melissa</font></b>. 2023. “Assistance, resistance, and the “informalization incentive”: Rethinking the aid-conflict nexus in sub-Saharan Africa.” _Working paper._
 * Presented at APSA (2021), MPSA (2022)
 * View poster [here]; Draft available upon request
 
-Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Climate change, conflict, and property rights: Evidence from Nigeria.” _Under Review_.
+Grasse, Don and <b><font color="#3e9c70">Melissa Pavlik</font></b>. 2023. “Climate change, conflict, and property rights: Evidence from Nigeria.” _Working paper_.
 * Presented at MPSA (2023), Boston Area Working Group on African Political Economy [BGWAPE] (2023)
 * Draft available upon request
 
