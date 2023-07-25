@@ -5,8 +5,8 @@ permalink: /publication/Zhang_2022_EPJ
 excerpt: ''
 date: 2022-06-04
 venue: 'EPJ Data Science'
-paperurl: ''
-citation: 'Zhang, L., Li, Y.-N., Peng, T. Q., & Wu, Y. (2022). Dynamics of the social construction of knowledge: An empirical study of Zhihu in China. <i>EPJ Data Science, 11</i>(1), 35. https://doi.org/10.1140/epjds/s13688-022-00346-6'
+paperurl: 'https://doi.org/10.1140/epjds/s13688-022-00346-6'
+citation: 'Zhang, L., Li, Y.-N., Peng, T. Q., & Wu, Y. (2022). Dynamics of the social construction of knowledge: An empirical study of Zhihu in China. <i>EPJ Data Science, 11</i>(1), 35.'
 ---
 
 Abstract
