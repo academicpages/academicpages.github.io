@@ -1,0 +1,312 @@
+// ---------------------------------------------------------------------------
+// Imports
+
+@import "compass/utilities/general/clearfix";
+@import "compass/css3/box-sizing";
+
+// ---------------------------------------------------------------------------
+// Border-Box Sizing
+
+// Apply the border-box sizing model to all elements
+// and adjust the grid math appropriately.
+@mixin border-box-sizing {
+  $border-box-sizing: true !global;
+  * { @include box-sizing(border-box); }
+}
+
+// ---------------------------------------------------------------------------
+// Container
+
+// Set the width of a container
+//
+//  $columns  : The number of columns in the Grid Layout.
+@mixin set-container-width(
+  $columns  : $total-columns,
+  $style    : $container-style,
+  $px-vals  : $pixel-values-only
+){
+  $width: container-outer-width($columns);
+
+  @if $style == 'static' {
+    @if $px-vals == true {
+      width: round(convert-length($width, px));
+    } @else {
+      @include rem(width, $width);
+    }
+  } @else {
+    @if $style == 'fluid' {
+      @if unit($width) == '%' {
+        @if $px-vals == true {
+          width: round(convert-length($width, px));
+        } @else {
+          @include rem(width, $width);
+        }
+      }
+    } @else {
+      @if $px-vals == true {
+        max-width: round(convert-length($width, px));
+      } @else {
+        @include rem(max-width, $width);
+      }
+
+      @include for-legacy-browser(ie,"6") {
+        @if unit($width) == 'rem' {
+          _width: round(convert-length($width, px));
+        } @else {
+          _width: $width;
+        }
+      }
+    }
+  }
+}
+
+// Set the outer grid-containing element(s).
+//
+//  $columns  : The number of columns in the container.
+@mixin apply-container(
+  $columns  : $total-columns,
+  $px-vals  : $pixel-values-only
+){
+  @include pie-clearfix;
+  @include set-container-width($columns);
+  @if $px-vals == true {
+    padding-left: round(convert-length($grid-padding, px));
+    padding-right: round(convert-length($grid-padding, px));
+  } @else {
+    @include rem(padding-left, $grid-padding);
+    @include rem(padding-right, $grid-padding);
+  }
+  margin: { left: auto; right: auto; }
+}
+
+// Set one or more layouts on a grid-containing element at any number of media-query breakpoints.
+//
+// $media-layout-1        : [default:$total-columns] A list of values including -
+//                        : One unitless number (representing columns in a layout)
+//                        : Two optional lengths (representing min and max-width media-query breakpoints).
+// $media-layout-2 ...-10 : [optional] Same as $media-layout-1
+@mixin container(
+  $media-layouts...
+){
+  $media-layouts: if(length($media-layouts) > 0, $media-layouts, $total-columns);
+
+  @each $ml in $media-layouts {
+    @if is-default-layout($ml) {
+      @include apply-container;
+    } @else {
+      @include at-breakpoint($ml) {
+        @include apply-container;
+      }
+    }
+  }
+}
+
+// ---------------------------------------------------------------------------
+// Columns
+
+// Create a grid element spanning any number of 'columns' in a grid 'context'.
+// $columns : The number of columns to span.
+// $context : [optional] The context (columns spanned by parent).
+//          : Context is required on any nested elements.
+//          : Context MUST NOT be declared on a root element.
+// $padding : [optional] Padding applied to the inside of individual grid columns.
+//          : Padding is only output if one or two values are specified (e.g. 1em or 10px 20px)
+//          : Padding values are applied only on the horizontal axis in from-to order
+// $from    : The start direction of your layout (e.g. 'left' for ltr languages)
+// $style   : The container style to use.
+@mixin span-columns(
+  $columns,
+  $context       : $total-columns,
+  $padding       : false,
+  $from          : $from-direction,
+  $style         : fix-static-misalignment()
+) {
+  $from     : unquote($from);
+  $to       : opposite-position($from);
+  $pos      : split-columns-value($columns,position);
+  $cols     : split-columns-value($columns,columns);
+  $pad-from : if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
+  $pad-to   : if($style == static, 0 * $gutter-width, relative-width(0 * $gutter-width, $context));
+
+  @if $padding != false {
+    $pad-from : nth($padding, 1);
+
+    @if length($padding) > 1 {
+      $pad-to: nth($padding, 2);
+    } @else {
+      $pad-to: $pad-from;
+    }
+
+    $pad-from : if($style == static, $pad-from, relative-width($pad-from, $context));
+    $pad-to   : if($style == static, $pad-to, relative-width($pad-to, $context));
+
+    padding-#{$from}: $pad-from;
+    padding-#{$to}: $pad-to;
+  }
+
+  width: columns($cols, $context, $style) - if($border-box-sizing, 0, $pad-to + $pad-from);
+
+  @if ($pos == 'omega') {
+    @include omega($from);
+  } @else {
+    float: $from;
+    margin-#{$to}: gutter($context, $style);
+    @include for-legacy-browser(ie, "6") {
+      display: inline;
+    }
+  }
+}
+
+// Apply to elements spanning the last column, to account for the page edge.
+// Only needed as an override. Normally 'omega' can just be called by `columns`.
+//
+// $from    : The start-direction for your document.
+@mixin omega(
+  $from     : $from-direction
+) {
+  $from   : unquote($from);
+  $to     : opposite-position($from);
+  $hack   : opposite-position($omega-float);
+
+  float: $omega-float;
+  margin-#{$to}: 0;
+
+  @include for-legacy-browser(ie, "6", "7") {
+    *margin-#{$hack}: - $gutter-width;
+    @include for-legacy-browser(ie, "6") {
+      display: inline;
+    }
+  }
+}
+
+// Shortcut to apply omega to a specific subset of elements.
+//
+// $n         : [first | only | last | <equation>]
+// $selector  : [child | last-child | of-type | last-of-type ]
+// $from      : The start-direction for your document.
+@mixin nth-omega(
+  $n        : last,
+  $selector : child,
+  $from     : $from-direction
+) {
+  $from     : unquote($from);
+
+  &:#{format-nth($n,$selector)} {
+    @if $n == "first" {
+      @include omega($from);
+    } @else {
+      @include with-browser-ranges(css-sel3) {
+        @include omega($from);
+      }
+    }
+  }
+}
+
+
+
+// ---------------------------------------------------------------------------
+// Resets
+
+// Reset a '+columns' grid element to default block behavior
+//
+// $from  : The start direction of your layout (e.g. 'left' for ltr languages)
+@mixin reset-columns(
+  $from: $from-direction
+) {
+  $from   : unquote($from);
+  $to     : opposite-position($from);
+  $hack   : opposite-position($omega-float);
+
+  float: none;
+  width: auto;
+  margin-#{$to}: auto;
+
+  @include for-legacy-browser(ie, "6", "7") {
+    *margin-#{$hack}: auto;
+    @include for-legacy-browser(ie, "6") {
+      display: block;
+    }
+  }
+}
+
+// Apply to elements previously set as omega.
+// This will return floats and margins back to non-omega settigns.
+//
+// $context : [optional] The context (columns spanned by parent).
+// $from    : The start-direction for your document.
+// $style   : The container style to use.
+@mixin remove-omega(
+  $context  : $total-columns,
+  $from     : $from-direction,
+  $style    : fix-static-misalignment()
+) {
+  $from   : unquote($from);
+  $to     : opposite-position($from);
+  $hack   : opposite-position($omega-float);
+
+  float: $from;
+  margin-#{$to}: gutter($context, $style);
+
+  @include for-legacy-browser(ie, "6", "7") {
+    *margin-#{$hack}: auto;
+  }
+}
+
+// Shortcut to apply remove-omega to a specific subset of elements.
+//
+// $n         : [first | only | last | <equation>]
+// $selector  : [child | last-child | of-type | last-of-type ]
+// $context   : [optional] The context (columns spanned by parent).
+// $from      : The start-direction for your document.
+// $style     : The container style to use.
+@mixin remove-nth-omega(
+  $n        : last,
+  $selector : child,
+  $context  : $total-columns,
+  $from     : $from-direction,
+  $style    : fix-static-misalignment()
+) {
+  $from     : unquote($from);
+
+  &:#{format-nth($n,$selector)} {
+    @if $n == "first" {
+      @include remove-omega($context, $from, $style);
+    } @else {
+      @include with-browser-ranges(css-sel3) {
+        @include remove-omega($context, $from, $style);
+      }
+    }
+  }
+}
+
+
+// ---------------------------------------------------------------------------
+// Change Settings
+
+@mixin with-grid-settings(
+  $columns: $total-columns,
+  $width: $column-width,
+  $gutter: $gutter-width,
+  $padding: $grid-padding
+) {
+  // keep the defaults around
+  $default-columns: $total-columns;
+  $default-width: $column-width;
+  $default-gutter: $gutter-width;
+  $default-padding: $grid-padding;
+
+  // use the new settings
+  $total-columns: $columns !global;
+  $column-width: $width !global;
+  $gutter-width: $gutter !global;
+  $grid-padding: $padding !global;
+
+  // apply to contents
+  @content;
+
+  // re-instate the defaults
+  $total-columns: $default-columns !global;
+  $column-width: $default-width !global;
+  $gutter-width: $default-gutter !global;
+  $grid-padding: $default-padding !global;
+}

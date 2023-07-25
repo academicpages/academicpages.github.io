@@ -1,0 +1,57 @@
+// Math Validation
+// ===============
+
+
+// Valid Columns
+// -------------
+// Check that a column setting is valid.
+@function valid-columns(
+  $columns,
+  $silent: false
+) {
+  $type: type-of($columns);
+  $return: null;
+
+  @if $type == number and unitless($columns) {
+    $return: $columns;
+  } @else if $type == list {
+    $fail: null;
+    @each $col in $columns {
+      @if type-of($col) == number {
+        $fail: $fail or if(unitless($col), null, true);
+      } @else {
+        $fail: true;
+      }
+    }
+    $return: if($fail, $return, $columns);
+  }
+
+  @if $return != $columns and not($silent) {
+    $return: null;
+    $warn: '$columns must be a unitless number or list of unitless numbers.';
+    @warn $warn + ' Current value [#{$type}]: #{$columns}';
+  }
+
+  @return $return;
+}
+
+
+// Valid Gutters
+// -------------
+// Check that a gutter setting is valid.
+@function valid-gutters(
+  $gutters,
+  $silent: false
+) {
+  $type: type-of($gutters);
+  $return: null;
+
+  @if $type == number and unitless($gutters) {
+    $return: $gutters;
+  } @else if not($silent) {
+    $warn: '$gutters must be a unitless number.';
+    @warn $warn + ' Current value [#{$type}]: #{$gutters}';
+  }
+
+  @return $return;
+}

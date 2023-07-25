@@ -1,26 +1,38 @@
 ---
-layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+title: ""
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
+Research Interests
+======
+My current interests lie in statistical machine learning and computational data science with an emphasis on explainability and responsibility. I am most interested in applying these tools to model, better-understand, and improve environmental and social systems.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Current and Recent Projects
+======
+### Algorithmic Analysis of Predictive Policing Algorithms
+*Yale Computer Science Department, September 2022-Present*
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Investigating impacts of algorithmic policing on city communities
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+### Interpretable Machine Learning and Amazonian Deforestation
+*Yale School of the Environment, January 2022-Present*
+
+Building interpretable machine learning models to understand and predict where deforestation occurs in the Brazilian Amazon under [Dr. Luke Sanford](https://lcsanford.github.io) and [Dr. Kathryn Baragwanath](https://kathrynbaragwanath.com)
+<br/><br/>
+
+### Interpreting Neural Network Concept Discovery with Non Negative Matrix Factorization
+*August 2022*
+
+Applying NMF with Convolutional Neural Networks for interpretability with applications to medical diagnoses, particularly novel diseases such as monkeypox under [Dr. Elena Sizikova](https://esizikova.github.io)
+
+### Non Negative Matrix Factorization for Interpretable Population Analysis
+*UCLA Department of Mathematics, June 2022-August 2022*
+
+Uncovering latent information in data from Los Angeles community partners with Hierarchical NMF under [Dr. Deanna Needell](https://www.math.ucla.edu/~deanna/index.html)
+<br/><br/>
+
+
