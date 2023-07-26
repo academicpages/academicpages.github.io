@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Akhil Arularasu"
 title_separator          : "-"
 name                     : &name "Akhil Arularasu"
-description              : &description "Undergraduate CS @ Emory | Woodruff Scholar"
+description              : &description "CS @ Emory | Woodruff Scholar"
 url                      : "https://akhil-arularasu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/akhil.arularasu/" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Akhil Arularasu"
   avatar           : "profile.png"
-  bio              : "Undergraduate Researcher @ UCF | CS @ Emory University | Woodruff Scholar"
+  bio              : "CS @ Emory University | Woodruff Scholar"
   location         : "Bridgewater, New Jersey"
   employer         :
   pubmed           :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "helloakhil@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
