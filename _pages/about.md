@@ -13,6 +13,8 @@ I specifically focus on designing and building innovative and secure mobile sens
 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
+<span style="color:red">**I will be joining the University of California, Irvine, as an Assistant Professor in Fall 2023.**</span>
+
 
 
 Updates
