@@ -1,6 +1,6 @@
 ---
 title: 'Future Blog Post 🚀'
-date: 2023-00-00
+date: 2023-12-12
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
