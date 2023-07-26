@@ -1,6 +1,6 @@
 ---
 title: "Lyt Igen"
-excerpt: "Listen again: VR for teens with hearing impairment <br/><img src='/images/_NJ00708.jpg'>"
+excerpt: "Listen again: VR for teens with hearing impairment <br/><img src='https://github.com/stefaniaserafin/stefaniaserafin.github.io/blob/source/images/_NJ00708.jpg'>"
 collection: portfolio
 ---
 
