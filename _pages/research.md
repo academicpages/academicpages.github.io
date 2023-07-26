@@ -17,6 +17,9 @@ author_profile: true
 
 ## Working Papers
 
+> [**Old But Gold: Historical Pathways and Path Dependence**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4513384)   
+With Diogo Baerlocher, Diego Firmino, Guilherme Lambais, and Eustaquio Reis.
+
 > [**Do Bigger Legislatures Lead to Bigger Government? Evidence from a Brazilian Municipal Council Reform**](http://henriqueveras.github.io/files/2021_Municipal_Councils.pdf) *Accepted at Economía Journal - Lacea*   
 With Rodrigo Schneider
 
@@ -46,9 +49,6 @@ With T. Farias, F.R. de Moura, J. Júnior, and A. Melo.
 With Ecio de Farias Costa, Emanoel de Souza Barros, and Leonardo Ferraz Xavier.
 
 ## Selected Work in Progress
-
-> **The Long-Run Impact of Historical Pathways on Economic Development**   
-With Diogo Baerlocher, Diego Firmino, Guilherme Lambais, and Eustaquio Reis.
 
 > **From Stagnation to Growth: The Role of Expropriation Risk on the Fertility Transition.**   
 With Diogo Baerlocher and Stephen L. Parente.
