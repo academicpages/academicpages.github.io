@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 ## Experience
-
 ## [Cervest](https://cervest.earth/)
 **Senior Data Scientist** <br/> 
 *Oct 2021 – June 2023*
@@ -39,3 +38,8 @@ Thesis: “Analysis of the Turbulent /Non- Turbulent Interface of the Axisymmetr
 *Sept 2013 – Sept 2019*
 
 Aerospace Vehicles Specialization. Thesis "Design of a two-dimensional structured mesh to analyse the flow around the airfoils of a wind turbine blade using CFD code"
+
+
+Check out full CV [here](/assets/cv-anaprieto.pdf)  
+
+
