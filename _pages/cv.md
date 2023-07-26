@@ -40,6 +40,4 @@ Thesis: “Analysis of the Turbulent /Non- Turbulent Interface of the Axisymmetr
 Aerospace Vehicles Specialization. Thesis "Design of a two-dimensional structured mesh to analyse the flow around the airfoils of a wind turbine blade using CFD code"
 
 
-Check out full CV [here](/assets/cv-anaprieto.pdf)  
-
-
+## Check out full CV [here](/assets/docs/cv-anaprieto.pdf)  
