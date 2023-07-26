@@ -5,7 +5,7 @@ permalink: /publication/Peng_Zhu_CR_2022
 excerpt: ''
 date: 2022-10-01
 venue: 'Communication Research'
-paperurl: 'https://doi.org/10.1177/0093650222112506'
+paperurl: 'https://doi.org/10.1177/00936502221125067'
 citation: 'Peng, T. Q., & Zhu, J. J. H. (2022). Competition, Cooperation, and Coexistence: An Ecological Approach to Public Agenda Dynamics in the United States (1958–2020). <i>Communication Research</i>'
 ---
 
