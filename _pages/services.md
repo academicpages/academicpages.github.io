@@ -16,6 +16,7 @@ author_profile: true
   - [Conference abstracts (8 in total)] [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting), Oct 12-15, 2022. San Antonio, TX.
   - [Book proposal] An Expert’s Quick Guide to Diabetes Mellitus by [Elsevier](https://www.elsevier.com)
   - [Book proposal] Diabetes Mellitus; Target enzymes and Drugs by [Elsevier](https://www.elsevier.com)
+  - [Journal] [Signal Transduction and Targeted Therapy](https://www.nature.com/sigtrans/)
   - [Journal] [Journal of Computational Physics](https://www.journals.elsevier.com/journal-of-computational-physics)
   - [Journal] [Advanced Biology](https://onlinelibrary.wiley.com/journal/27010198)
   - [Journal] [Extreme Mechanics Letter](https://www.sciencedirect.com/journal/extreme-mechanics-letters)
