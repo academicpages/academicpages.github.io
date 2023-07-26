@@ -32,5 +32,5 @@ author_profile: true
   * Contribution to the development of interactive web app to showcase generated products to end-users. Functionalities spans over statistical reports to interactive geospatial visualizations using Streamlit and Kepler.gl.
 
 
-## 🛰️ GMV - GNSS Ionopshere Modelling  - HARMONY 🛰️
+### 🛰️ GMV - GNSS Ionopshere Modelling  - HARMONY 🛰️
   * Machine Learning to Model GNSS Systems focuses on the development of a Machine Learning GNSS demonstrator capable of showcasing the benefit of ML for the GNSS sector. Use cases to be considered include the use of Deep Learning for Ionospheric Delay Modeling and IGS Products forecasting.
