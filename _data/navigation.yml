@@ -1,13 +1,7 @@
 # main links links
 main:
-  # - title: "Publications"
-  # url: /publications/
-
   - title: "Talks"
     url: /talks/    
-
-  # #- title: "Teaching"
-  #   url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -15,8 +9,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Resume"
-    url: /assets/docs/cv-anaprieto.pdf
+  - title: "CV"
+    url: /cv/
     
-  # - title: "Guide"
-  #  url: /markdown/
+  - title: "Guide"
+    url: /markdown/
