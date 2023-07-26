@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ana Prieto Nemesio"
-  avatar           : "profile.jpg"
+  avatar           : "profile2.jpg"
   bio              : "Senior Data Scientist"
   location         : "Spain"
   employer         :
@@ -181,7 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -227,10 +227,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true

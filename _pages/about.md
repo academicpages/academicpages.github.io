@@ -8,5 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the academicpages template and hosted on GitHub pages. GitHub pages is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the Minimal Mistakes Jekyll Theme created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork this repository right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at stuartgeiger.com, which uses this Github repository.
+Hey there, it´s Ana! I have a background in Aerospace Engineering from in Universidad Politécnica of Madrid. After this I decided to pursue a master of science degree at Imperial College London where I specialised in advanced computational methods and flow management. This postgraduate degree allowed me to deepen my programming skills and upon its termination, I started my professional career as Machine Learning Engineer at GMV NSL Space division in the UK.  
+
+
+During my time at GMV, I worked for different research projects founded by ESA, the EC or the UK SA, with a portfolio of applications that included EO applications like smallholder agriculture in Africa, GNSS Systems, Weather Nowcasting, and Smart Railway Gauging. Go check the projects section if you want to know more about them! 
+
+After GMV, I joined a climate tech start-up called Cercvest as a data scientist specialised in Computer Vision to contribute to developing physical climate-related signals for asset risk quantification. Mainly, I focused on leading the technical implementation of a global in-house digital terrain model for flooding applications, and provide support as ML Subject Matter Expert to other workstreams, such as wildfire.  
+
+
+
+
+
 
