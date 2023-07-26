@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Future Blog Post 🚀'
+date: 2023-00-00
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
@@ -8,4 +8,4 @@ tags:
   - category2
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+This is still a work in progress that I hope I can share soon, so keep an eye out!

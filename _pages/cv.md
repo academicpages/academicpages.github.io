@@ -7,21 +7,15 @@ author_profile: true
 
 ## Experience
 
-### Cervest 
+## [Cervest](https://cervest.earth/)
 **Senior Data Scientist** <br/> 
 *Oct 2021 – June 2023*
 
-* Lead the technical implementation of a global in-house digital terrain model for flooding applications, empowered by the fusion of multiple remote-sensing satellite data with a DL model
-* Provided support as ML Subject Matter Expert to other workstreams, such as wildfire
+* Lead the technical implementation of a global in-house digital terrain model for flooding applications, empowered by the fusion of multiple remote-sensing satellite data with a DL model and provided support as ML Subject Matter Expert to other workstreams, such as wildfire.
 * Support company planning about the identification of new opportunities where ML can boost our climate science by providing additional business value (i.e., Computational performance, spatiotemporal resolution, etc.)
 * Coordinated team of up to 4 members across the different stages of the product implementation: prototyping, scaling, and deployment.
-* Built modeling framework for quick refinement and prototyping, using Pytorch Lightning, Ray Tune, and Mlflow. Carried out parameter tunning of models in parallel using multiple GPU and multi-CPUs in-house servers.
-* Architected bespoke attention based UNet model to produce high-quality terrain reconstructions.
-* Coordinated the development of scalable data pipelines, including geospatial ML data processing workflows and those focused on the inference stage. Pipelines were designed to comply with computational requirements and scalability performance, using Argo CD and Kubernetes.
 
-
-
-### GMV NSL
+## [GMV](https://www.gmv.com/en-es)
 **Machine Learning Engineer** <br/> 
 *Sept 2019 – Oct 2021*
 

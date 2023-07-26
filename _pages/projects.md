@@ -6,6 +6,11 @@ author_profile: true
 ---
 ## Professional Projects
 
+### ⛰️ Cervest - Global Digital Terrain Model ⛰️
+  * Implemented end-to-end ML workflow to build a global Digital Elevation Model that has allowed to correct under- prediction of flood risk in several urban areas and to derive valuable auxiliary information to other work streams.
+  * Built modeling framework for quick refinement and prototyping, using Pytorch Lightning, Ray Tune, and Mlflow. Carried out parameter tunning of models in parallel using multiple GPU and multi-CPUs in-house servers.
+  * Architected bespoke attention based UNet model to produce high-quality terrain reconstructions.
+  * Coordinated the development of scalable data pipelines, including geospatial ML data processing workflows and those focused on the inference stage. Pipelines were designed to comply with computational requirements and scalability performance, using Argo CD and Kubernetes.
 
 ### 🌾 GMV - BIGMIG DEMO - Use of Space Based Big Data to Prevent Forced Migration 🌾
   * Development of a hybrid bespoke spatio-temporal Convolutional LSTM deep neural architecture for semantic segmentation of a time series of multispectral satellite imagery. Nowcasting of agriculture, land use identification, and geospatial feature extraction in remote areas of Mozambique.
