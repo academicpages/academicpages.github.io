@@ -5,6 +5,25 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Universidade Federal de Pernambuco (Brazil)
+
+> Macroeconomic Theory 2 
+    - <sub>Spring 2023
+    
+> Topics in Development Economics   
+    - <sub>Spring 2022
+
+### Forward College
+
+> Macroeconomic Theory   
+    - <sub>2022-2023 acedemic year
+    
+> Microeconomic Theory    
+    - <sub>2022-2023 acedemic year
+
+> Elements of Econometrics    
+    - <sub>2022-2023 acedemic year
+
 ### Centre College
 
 > Seminar on Causal Inference    
