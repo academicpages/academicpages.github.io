@@ -1,7 +1,7 @@
 ---
 title: "Lyt Igen"
 excerpt: "Listen again: VR for teens with hearing impairment. A collaborative projects between [Copenhagen Hearing and Balance Center](https://www.rigshospitalet.dk/english/departments/centre-of-head-and-orthopaedics/department-of-otorhinolaryngology-head-and-neck-surgery-and-audiology/Centres-and-Units/Pages/Copenhagen-Hearing-and-Balance-Centre.aspx), [Multisensory Experience Lab](http://melcph.create.aau.dk) and Decibel supported by the Velux foundation. <br/>
-<img src='https://github.com/stefaniaserafin/stefaniaserafin.github.io/blob/source/images/_NJ00708.jpg'>"
+<img src='/images/lytigen.jpg'>"
 collection: portfolio
 ---
 
