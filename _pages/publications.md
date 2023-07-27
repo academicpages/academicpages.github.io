@@ -57,7 +57,7 @@ author, <b>Zifeng Weng</b>, Rémy Mével*<br>
 </li> -->
 <li>
 <p>
-<b>title</b><br>
+<b>On the Critical Initiation of Planar Detonation in Noble-Abel and van der Waals Gas</b><br>
 <b>Zifeng Weng</b>, Rémy Mével*, Chung K Law<br>
 <i>Combustion and Flame</i> <br>
 <a href="javascript:toggleBibtex('WengCNF2023b')" class="textlink">[bib]</a>
@@ -67,7 +67,7 @@ author, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <div id="wengIJHE2023" class="bibtex noshow">
 <pre>
 @article{WengCNF2023b,
-  title = {On the Critical Initiation of Planar Detonation in {{Noble-Abel}} and van Der {{Waals}} Gas},
+  title = {On the Critical Initiation of Planar Detonation in {{Noble-Abel}} and van der {{Waals}} Gas},
   author = {Weng, Zifeng and M{\'e}vel, R{\'e}my and Law, Chung K.},
   year = {2023},
   journal = {Combustion and Flame},
