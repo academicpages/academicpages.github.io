@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tai-Quan "Winson" Peng, a professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng), Michigan State University.
+I am Tai-Quan "Winson" Peng, a Professor in the [Department of Communication](https://comartsci.msu.edu/our-people/taiquan-winson-peng), Michigan State University.
 
 My research interest includes computational social science, health communication, mobile analytics, and political communication. I am particularly interested in unraveling the structure & dynamics of human communication phenomena with various computational methods (e.g., network modeling, text mining, temporal and sequential modeling).
 
