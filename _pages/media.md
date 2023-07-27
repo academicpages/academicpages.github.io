@@ -25,6 +25,7 @@ I write op-eds, essays and book reviews regularly, and I've been interviewed in 
 * [”Marc arbejder med Bjørn Lomborg: ”Jeg har fået et større perspektiv på verden””](https://www.djoefbladet.dk/artikler/2020/11/marc-arbejder-sammen-med-bj-oe-rn-lomborg-jeg-har-f-aa-et-et-st-oe-rre-perspektiv-p-aa--verden.aspx), Djøf Bladet, 04.11.2020
 * [”Hvis vi tænker vi ens, tænker vi ikke”](https://radioloud.dk/podcast/18-09-20-hvis-vi-taenker-vi-ens-taenker-vi-ikke), Radio Loud, 18.09.2020
 * [”Drop cancel-kultur og hyld dem, der går mod strømmen”](https://180grader.dk/sektioner/kommentarer/debat/artikel/drop-cancel-kultur-og-hyld-dem-der-gar-mod-strommen), 180grader, 13.09.2020
+* ["Privat- og friskoler rummer den mangfoldighed, som folkeskolen mistede med folkeskolereformen"](https://jyllands-posten.dk/debat/breve/ECE12385685/privat-og-friskoler-rummer-den-mangfoldighed-som-folkeskolen-mistede-med-folkeskolereformen/), Jyllands-Posten, 04.09.2020
 * [”William F. Buckley: Taberen der sejrede”](http://aarsskriftet-critique.dk/2020/08/william-f-buckley-taberen-der-sejrede), Årsskriftet Critique, 23.08.2020
 * [“Superrige som Bill Gates kommer til at redde os fra den næste katastrofe - ikke politikerne”](https://www.berlingske.dk/kommentarer/superrige-som-bill-gates-kommer-til-at-redde-os-fra-den-naeste), Berlingske, 10.07.2020
 * [”Alderpopulisme skæmmer debatten”](https://www.berlingske.dk/laesere/alderspopulisme-skaemmer-debatten), Berlingske, 06.06.2020
