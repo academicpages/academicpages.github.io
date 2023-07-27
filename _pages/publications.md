@@ -55,6 +55,17 @@ author, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <a href="researchgate download address" class="textlink" target="_blank">[pdf]</a>
 </p>
 </li> -->
+
+<li>
+<p>
+<b>Implementation of an OpenFOAM solver for shock and detonation simulation at high pressure</b><br>
+<b>Zifeng Weng</b>, Rémy Mével*<br>
+<i>Computers & Fluids</i> <br>
+<!-- <a href="javascript:toggleBibtex('xxx')" class="textlink">[bib]</a> -->
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/372678897_Implementation_of_an_OpenFOAM_solver_for_shock_and_detonation_simulation_at_high_pressure/links/64c29e106f28555d86d7fe8b/Implementation-of-an-OpenFOAM-solver-for-shock-and-detonation-simulation-at-high-pressure.pdf?origin=publicationDetail&_sg%5B0%5D=Zp8RUhvh3Em_8cjC5A7jjZbRfUlXy65fzJFQpgh8kf2QDHhce_Ftlqt5cev0jboKfHlEa4m0m1c4rOe_I7i9KA.6B5r8uR9u-b780PPeFPWsJ9sd6DAlyIFV57jOEY1bTHJQvL3pbBSVRDBTCDgXOzv_2cVREcLl16zjPHAkaXHkg&_sg%5B1%5D=HjmzqMdUd72wPeaRzNrgTxHkLtoPBFNygKesqeEkRvvQDIyY-IzrK_vCak6UM0DTHiAKMxJjz1IAFjhhwuc3mA4ljNJ4ie3AFbKVmEfLnB4M.6B5r8uR9u-b780PPeFPWsJ9sd6DAlyIFV57jOEY1bTHJQvL3pbBSVRDBTCDgXOzv_2cVREcLl16zjPHAkaXHkg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
+</p>
+</li> 
+
 <li>
 <p>
 <b>On the Critical Initiation of Planar Detonation in Noble-Abel and van der Waals Gas</b><br>
@@ -287,4 +298,9 @@ Suyang Qin, <b>Zifeng Weng</b>, Zhuoqi Li, Yang Xiang*, Hong Liu<br>
 </pre></div>
 </li>
 
+</ol>
+
+## 📗 Peer-reviewed Conference Papers 
+<ol>
+To update
 </ol>
