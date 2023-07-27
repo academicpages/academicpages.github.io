@@ -45,14 +45,59 @@ function toggleBibtex(articleid) {
 ## 📗 Peer-reviewed Journal Articles 
 <ol>
 
+<!-- 
+<li>
+<p>
+<b>title</b><br>
+author, <b>Zifeng Weng</b>, Rémy Mével*<br>
+<i>journal</i> <br>
+<a href="javascript:toggleBibtex('xxx')" class="textlink">[bib]</a>
+<a href="researchgate download address" class="textlink" target="_blank">[pdf]</a>
+</p>
+</li> -->
+<li>
+<p>
+<b>title</b><br>
+<b>Zifeng Weng</b>, Rémy Mével*, Chung K Law<br>
+<i>Combustion and Flame</i> <br>
+<a href="javascript:toggleBibtex('WengCNF2023b')" class="textlink">[bib]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/371315501_On_the_Critical_Initiation_of_Planar_Detonation_in_Noble-Abel_and_van_der_Waals_Gas/links/647f0b2879a72237651394b4/On-the-Critical-Initiation-of-Planar-Detonation-in-Noble-Abel-and-van-der-Waals-Gas.pdf?origin=publicationDetail&_sg%5B0%5D=RatPQKKKnU4L7wcA9QeVfTxtJLci427HfeC4lWfSaRG2YtEI-DLVSPk4zMJArzzqSEok_gK02Bd8DROLaMaz-A.xy_aCG1P8b7IqLtfY-eBtZAhXGSSVUYVdY-bjgbOmBvZI-uNRFyXpp7pXgBmsvIs6fXQDAvZWK9sNbPpJ6SoFQ&_sg%5B1%5D=NyzlJSpWTSw3355A23PSmUTRQZ7moP-P1ix-F7tix7BqrIvSlv1krA8wGfXWs_WJ7N5Z9x5AhIVgazeigm9hB0K9vcppt2P-jteP3Muq5mOY.xy_aCG1P8b7IqLtfY-eBtZAhXGSSVUYVdY-bjgbOmBvZI-uNRFyXpp7pXgBmsvIs6fXQDAvZWK9sNbPpJ6SoFQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
+</p>
+
+<div id="wengIJHE2023" class="bibtex noshow">
+<pre>
+@article{WengCNF2023b,
+  title = {On the Critical Initiation of Planar Detonation in {{Noble-Abel}} and van Der {{Waals}} Gas},
+  author = {Weng, Zifeng and M{\'e}vel, R{\'e}my and Law, Chung K.},
+  year = {2023},
+  journal = {Combustion and Flame},
+  volume = {255},
+  pages = {112890},
+  doi = {10.1016/j.combustflame.2023.112890}
+}
+</pre></div>
+</li> 
+
+
+<li>
+<p>
+<b>Entropy and Nitrogen Oxides Production in Steady Detonation Wave Propagating in Hydrogen-Air Mixtures</b><br>
+Zituo Chen, <b>Zifeng Weng</b>, Rémy Mével*<br>
+<i>International Journal of Hydrogen Energy</i> <br>
+<!-- <a href="javascript:toggleBibtex('wengIJHE2023')" class="textlink">[bib]</a> -->
+<a href="https://www.researchgate.net/profile/R-Mevel/publication/372109517_Entropy_and_Nitrogen_Oxides_Production_in_Steady_Detonation_Wave_Propagating_in_Hydrogen-Air_Mixtures/links/64a528fa95bbbe0c6e15001e/Entropy-and-Nitrogen-Oxides-Production-in-Steady-Detonation-Wave-Propagating-in-Hydrogen-Air-Mixtures.pdf?origin=publicationDetail&_sg%5B0%5D=TImkkuGkuBGuMqXs68x1FbydM1_VbUjqPhe5In8tDL4XcwTm0IszcDqHX4_RpvTLU46j2Ly8X0Tdx4ZQjz-OKQ.G2qYgKN1apWWPo4Fm4WC-MdrckKX75YQh6clbxWQEJPNOnOQdmC8oHD4ZDn21flA4IOuSpiL_hxSKgI0GoE1qw&_sg%5B1%5D=Nu-Fw37zzbB0LJBDGa3BdfXq-GqMfsjBWQXLXw4gyNjf0rO824nH2ih4y3ReJx_ZEy3GCyumcjG3ROrLRFGLIlqylelZ60cNOTPy-TQ3ogLJ.G2qYgKN1apWWPo4Fm4WC-MdrckKX75YQh6clbxWQEJPNOnOQdmC8oHD4ZDn21flA4IOuSpiL_hxSKgI0GoE1qw&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
+</p>
+</li>
+
 <li>
 <p>
 <b>Discontinuity in Cubic Equations of State: Impact of Attraction Term Mixing Rule on Combustion Simulation</b><br>
 <b>Zifeng Weng</b>, Rémy Mével*<br>
 <i>International Journal of Hydrogen Energy</i> <br>
 <a href="javascript:toggleBibtex('wengIJHE2023')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/wengIJHE2023.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/370604150_Discontinuity_in_Cubic_Equation_of_State_Impact_of_Attraction_Term_Mixing_Rule_on_Combustion_Simulation/links/6459b2b84af788735268beeb/Discontinuity-in-Cubic-Equation-of-State-Impact-of-Attraction-Term-Mixing-Rule-on-Combustion-Simulation.pdf?origin=publicationDetail&_sg%5B0%5D=qMvBd_m7g25Ilsm3DSx93rTicAnHJ1zisSs6HepN3MOuDjJJsyrZTN60JmzDI8VjqqfnJxoEDvAzL4pzlqMAkA.zEXDWf3u925Q6gTxDERUqqaB09Kd4ntnGWTlM9czGXH1gL_QLr6jtFWexqzErk0Mi_JrZq-lnJCS0BgHxd8MZQ&_sg%5B1%5D=EXfrj_YfNcqfTxJDBkqcxT804o9NTywhVV553yWsO29HcJklPL-Yh-hvXdyjREzYCclznyNcKePKy1-VGsEcYEDlyMFCqDhJudNnCLnZdfyg.zEXDWf3u925Q6gTxDERUqqaB09Kd4ntnGWTlM9czGXH1gL_QLr6jtFWexqzErk0Mi_JrZq-lnJCS0BgHxd8MZQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
+
   
 <div id="wengIJHE2023" class="bibtex noshow">
 <pre>
