@@ -1,7 +1,7 @@
 ---
 title: ""
-collection: Other
-permalink: /other/
+collection: Others
+permalink: /others/
 venue: "The University of Adelaide"
 location: "Adelaide, Australia"
 ---
