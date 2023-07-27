@@ -7,11 +7,11 @@ author_profile: true
 
 ### Universidade Federal de Pernambuco (Brazil)
 
-> Macroeconomic Theory 2 
+> Macroeconomic Theory 2   
     - <sub>Spring 2023
     
 > Topics in Development Economics   
-    - <sub>Spring 2022
+    - <sub>Spring 2023
 
 ### Forward College
 
