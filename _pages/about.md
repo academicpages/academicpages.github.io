@@ -15,7 +15,6 @@ Actualmente sigo como docente y en mirás de iniciar un magister para especializ
 
 🔬 Áreas de interes :
 
-
-    *   Visión por computador
-    *   Reconocimiento de patrones
+  * Visión por computador
+  * Reconocimiento de patrones
  
