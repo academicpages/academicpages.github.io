@@ -51,11 +51,13 @@ The real gas model, which is based on RK EoS, and is available since Cantera v2.
 
 
 ## <img src="https://wengzf20.github.io/images/CFDfoundationLogoDark-600x600.png" style="height: 2em;vertical-align: middle;"> RSDFoam (Real gas shock and detonation solver in OpenFOAM)
-To be updated <br>
+The high pressure condition widely used in industry makes it necessary to evaluate the impact of real gas behaviour in numerical simulation, especially for shock and detonation problems. The solver considers the nonidealities in the equation of state, thermodynamic functions and mass action law brought about by the interaction between the fluid particles and by their finite volume. Connection between blastFoam and Cantera was built to utilize the CFD capabilities from the former and the efficient chemistry solver and real gas models in Cantera. The new solver has been thoroughly validated against analytical solutions, previous numerical simulation results and experimental data. For non-reactive flow, shock tube and oblique shock problems were solved. For reactive cases, constant volume reactor, steady detonation speed, reaction zone structure, and cellular structure were numerically studied. The satisfactory agreement demonstrates the accuracy and robustness of the solver
+for real gas based shock and detonation simulation.
+<br>
 <a href="javascript:toggleBibtex('RSDFoam')" class="textlink">[ref.]</a>
 <div id="RSDFoam" class="bibtex noshow">
 <pre>
-[1] to be updated.
+[1] Z. Weng, and R. Mével, “Implementation of an OpenFOAM solver for shock and detonation simulation at high pressure,” Computers & Fluid, in press (2023).
 </pre></div>
 
 ## <img src="https://wengzf20.github.io/images/edl-logo.gif" style="height: 2em;vertical-align: middle;"> RSDToolbox (Real gas shock and detonation toolbox)
