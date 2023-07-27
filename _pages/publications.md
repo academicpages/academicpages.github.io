@@ -64,7 +64,7 @@ author, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/371315501_On_the_Critical_Initiation_of_Planar_Detonation_in_Noble-Abel_and_van_der_Waals_Gas/links/647f0b2879a72237651394b4/On-the-Critical-Initiation-of-Planar-Detonation-in-Noble-Abel-and-van-der-Waals-Gas.pdf?origin=publicationDetail&_sg%5B0%5D=RatPQKKKnU4L7wcA9QeVfTxtJLci427HfeC4lWfSaRG2YtEI-DLVSPk4zMJArzzqSEok_gK02Bd8DROLaMaz-A.xy_aCG1P8b7IqLtfY-eBtZAhXGSSVUYVdY-bjgbOmBvZI-uNRFyXpp7pXgBmsvIs6fXQDAvZWK9sNbPpJ6SoFQ&_sg%5B1%5D=NyzlJSpWTSw3355A23PSmUTRQZ7moP-P1ix-F7tix7BqrIvSlv1krA8wGfXWs_WJ7N5Z9x5AhIVgazeigm9hB0K9vcppt2P-jteP3Muq5mOY.xy_aCG1P8b7IqLtfY-eBtZAhXGSSVUYVdY-bjgbOmBvZI-uNRFyXpp7pXgBmsvIs6fXQDAvZWK9sNbPpJ6SoFQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 
-<div id="wengIJHE2023" class="bibtex noshow">
+<div id="WengCNF2023b" class="bibtex noshow">
 <pre>
 @article{WengCNF2023b,
   title = {On the Critical Initiation of Planar Detonation in {{Noble-Abel}} and van der {{Waals}} Gas},
