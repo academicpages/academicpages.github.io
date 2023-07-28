@@ -1,6 +1,11 @@
----
+<!-- ---
 title: ![Example Image](/images/500x300.png "This is an example image")
 # excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+--- -->
+---
+title: "<figure><img src='/images/500x300.png'><figcaption>Caption for the image</figcaption></figure>"
+excerpt: "Short description of portfolio item number 1"
 collection: portfolio
 ---
 
