@@ -16,11 +16,6 @@ Education
 Work experience
 ======
 * Docente - Departamento de Ingeniería y Tecnologías, Universidad de Tarapacá , 2022 - hoy
-  
-Certificaciones y diplomados
-======
-* Diploma de Postítulo en Ciencia e ingeniería de Datos, Universidad de Chile, 2021
-* Cambridge English Entry Level Certificate in ESOL International (Level A2), 2019
 
 Publications
 ======
@@ -45,3 +40,8 @@ Actividades extracurriculares
 * Integrante del comité de la carrera(ICIN), 2017-2019 
 * Integrante del comité de Rediseño curricular (ICIN)2017-2019
 * Presidenta de la carrera Ingeniera Civil Informática (ICIN) 2016
+
+Certificaciones y diplomados
+======
+* Diploma de Postítulo en Ciencia e ingeniería de Datos, Universidad de Chile, 2021
+* Cambridge English Entry Level Certificate in ESOL International (Level A2), 2019
