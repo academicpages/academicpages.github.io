@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "CC716 GESTION DE SOLUCIONES TI"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Pregrado"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Universidad de Tarapacá, Departamento de Ingeniería y Tecnologías"
+date: 2023-08-07
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Años: 2022-2023
+Asignatura que integra y adopta los estándares para un buen Gobierno de TI, además de tratar temas de proyectos y normativas relacionadas a esta área
