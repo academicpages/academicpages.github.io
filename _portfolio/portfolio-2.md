@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/sootfoil.png'><br/> Detonation at elevated pressure"
+title: "<img src='/images/500x300.png'><br/> Supercritical laminar flame"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
