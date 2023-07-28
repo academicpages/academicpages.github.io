@@ -15,7 +15,7 @@ Educación
 
 Experiencia
 ======
-* Docente - Departamento de Ingeniería y Tecnologías, Universidad de Tarapacá , 2022 - hoy
+* Profesor instructor - Departamento de Ingeniería y Tecnologías, Universidad de Tarapacá , 2022 - hoy
 
 Publicaciones
 ======
