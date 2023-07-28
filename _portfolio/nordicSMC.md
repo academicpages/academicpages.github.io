@@ -2,7 +2,7 @@
 title: "Nordic Sound and Music Computing"
 excerpt: "Nordic Sound and Music Computing: a nordic university hub between [Aalborg University Copenhagen](https://www.en.aau.dk/copenhagen,
   University of Oslo, KTH Stockholm, Aalto University and University of Iceland, supported by [Nordforsk](https://www.nordforsk.org). <br/>
-<img src='/images/500x300.png'>"
+<img src='/images/nord.png'>"
 collection: portfolio
 ---
 [The Nordic Sound and Music Computing Network](https://nordicsmc.create.aau.dk) (NordicSMC) brings together a group of internationally leading sound and music computing researchers from all five Nordic countries, from Aalborg University (AAU), Aalto University (AALTO), KTH Royal Institute of Technology (KTH), University of Iceland (UoI), and University of Oslo (UiO).
