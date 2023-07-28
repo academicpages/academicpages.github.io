@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zifeng Weng"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "PhD candidate"
