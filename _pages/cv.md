@@ -9,27 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Ingeniera Civil en Informática, Universidad de Tarapacá, 2019
 
-Work experience
+Experiencia
 ======
 * Docente - Departamento de Ingeniería y Tecnologías, Universidad de Tarapacá , 2022 - hoy
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Difusión
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Academia
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
