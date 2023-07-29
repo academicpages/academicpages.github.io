@@ -37,6 +37,9 @@ Skills
 
 Publications
 ======
+A full list of publications can be found [here](https://scholar.google.com/citations?user=OPdehucAAAAJ&hl=en&oi=ao).
+Below some recent books:
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -55,7 +58,12 @@ Teaching
   
 Service and leadership
 ======
-*  Paper chair, [VRST 2023](https://vrst.acm.org/vrst2023/)
+* President of the [Sound and Music Computing Association](https://smcnetwork.org)
+* Principal Investigator of the Nordic Sound and Music Computing Network (Nordforsk)
+* Leader of the [Multisensory Experience Lab](https://melcph.create.aau.dk) 
+* Paper chair, [VRST 2023](https://vrst.acm.org/vrst2023/)
 *  Member of [SUI steering committee](https://sui.acm.org/2023/organization)
-* Member of the Department Research committee, Aalborg University
+* Member of the Department Research committee, Aalborg University, Department of Architecture, Design and Media Technology
+* Member of the [Sonicom](https://www.sonicom.eu/external-expert/stefania-serafin/) advisory board
+* Member of the Danish Sound Cluster group on Creative Sound Solutions.
 
