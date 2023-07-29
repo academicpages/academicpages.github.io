@@ -10,10 +10,8 @@ permalink: /teaching/2014-spring-teaching-1
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-N2Convection1
+Heading 1
 ======
-<img src='/images/N2Convection1.png'><br/>
-<img src='/images/N2Convection2.png'>
 
 Heading 2
 ======

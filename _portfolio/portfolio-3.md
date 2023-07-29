@@ -4,5 +4,9 @@ title: "<img src='/images/rho_field.png'><br/> Supercritical Jet"
 collection: portfolio
 ---
 
+This is a description of Detonation at elevated pressure.
+
+Heading 1
+======
 <img src='/images/N2Convection1.png'><br/>
 <img src='/images/N2Convection2.png'>
