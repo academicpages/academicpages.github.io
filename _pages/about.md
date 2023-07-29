@@ -14,3 +14,7 @@ I graduated from Shahrood University of Technology with a B.Sc. in Electrical En
 My research focuses on image processing, with an emphasis on AI and machine learning algorithms and embedded implementation of this algorithm.
 Currently, I am a member of the R&D team of Fin company.
 My fields of interest include **machine learning, deep learning, signal processing, embedded systems and image and video analysis**.
+
+[normal link](https://www.google.com/)
+
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
