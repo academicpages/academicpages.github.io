@@ -7,13 +7,13 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2023
-*  Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935.
-*  Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teacher-Student with Human Feedback Model for Human-AI Collaboration in Cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 1040–1042.
-*  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2023). A Scalable Double Oracle Algorithm for Hardening Large Active Directory Systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 993–1003.
-* Guo, M., Ward, M., Neumann, A., Neumann, F., & Nguyen, H. (2023). Scalable edge blocking algorithms for defending active directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, _37_, 5649–5656.
+*  Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935. ** CORE A **
+*  Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teacher-Student with Human Feedback Model for Human-AI Collaboration in Cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 1040–1042. ** CORE A **
+*  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2023). A Scalable Double Oracle Algorithm for Hardening Large Active Directory Systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 993–1003. ** CORE A **
+* Guo, M., Ward, M., Neumann, A., Neumann, F., & Nguyen, H. (2023). Scalable edge blocking algorithms for defending active directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, _37_, 5649–5656. ** CORE A* **
 *  Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. (2023). Limited Query Graph Connectivity Test. _arXiv Preprint arXiv:2302. 13036_.
 *  Goel, D., Neumann, A., Neumann, F., Nguyen, H., & Guo, M. (2023). Evolving Reinforcement Learning Environment to Minimize Learner's Achievable Reward: An Application on Hardening Active Directory Systems. _arXiv Preprint arXiv:2304. 03998_.
-*  Ngo, H. Q., Guo, M., & Nguyen, H. (2023). Near Optimal Strategies for Honeypots Placement in Dynamic and Large Active Directory Networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems_, 2517–2519.
+*  Ngo, H. Q., Guo, M., & Nguyen, H. (2023). Near Optimal Strategies for Honeypots Placement in Dynamic and Large Active Directory Networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems_, 2517–2519. ** CORE A* **
 *  Nguyen, D., White, L., & Nguyen, H. (2023a). Bayesian Rationality in Satisfaction Games. _Proceedings of the OptLearnMAS-23 Workshop_.
 *  Nguyen, D., White, L., & Nguyen, H. (2023b). Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization. _The 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
 
