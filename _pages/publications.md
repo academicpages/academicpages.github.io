@@ -6,6 +6,8 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
+
+
 # Conferences
 
 Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
@@ -172,8 +174,12 @@ Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teache
 
 Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2023). A Scalable Double Oracle Algorithm for Hardening Large Active Directory Systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 993–1003.
 
+# Journals
+
 Nguyen, D., White, L., & Nguyen, H. (2023a). Bayesian Rationality in Satisfaction Games. _Proceedings of the OptLearnMAS-23 Workshop_.
 
 Nguyen, D., White, L., & Nguyen, H. (2023b). Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization. _The 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
 
 Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935.
+
+# Preprints and Others
