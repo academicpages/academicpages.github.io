@@ -6,7 +6,7 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
-#Conferences
+# Conferences
 
 Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
 
