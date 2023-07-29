@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+My complete CV can be found [HERE](https://BaiTheBest.github.io/files/CV.pdf)
+
 Education
 ======
 * B.S. in Mathematics, Fudan University, 2014-2018
