@@ -8,26 +8,33 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 
 
-## 2023
+### 2023
 
-## 2007 
+### 2010
+* Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE.
+### 2009
+* Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE.
+### 2008
+* Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE.
+### 2007 
 * Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE.
-## 2006 
+* Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240.
+### 2006 
 * Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
   
-## 2004
+### 2004
 
 * Nguyen, Hung X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop, PAM 2004, Antibes Juan-Les-Pins, France, April 19-20, 2004. Proceedings 5_, 185–194. Springer Berlin Heidelberg.
 
 
 
-Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240.
 
-Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE.
 
-Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE.
 
-Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE.
+
+
+
+
 
 Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775.
 
