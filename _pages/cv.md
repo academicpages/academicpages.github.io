@@ -13,10 +13,11 @@ My complete CV can be found [HERE](https://BaiTheBest.github.io/files/CV.pdf)
 
 Education
 ======
-* B.S. in Mathematics, Fudan University, 2014-2018
+* Ph.D. in Computer Science, Emory University, 2020-2025 (expected)
 * M.S. in Statistics, The George Washington University, 2018-2020
-* Ph.D in Computer Science, Emory University, 2020-2025 (expected)
+* B.S. in Mathematics, Fudan University, 2014-2018
 
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,3 +57,4 @@ Teaching
 Services
 ======
 * Currently signed in to 43 different slack teams
+-->
