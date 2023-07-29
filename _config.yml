@@ -86,7 +86,7 @@ author:
   location         : "Villanova, PA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=aORBRHkAAAAJ"
   email            : "ruohanli373@gmail.com"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -286,14 +286,14 @@ plugins:
   - jekyll-paginate
 #  - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
+  - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
 #  - jekyll-sitemap
   - jekyll-gist
-#  - jekyll-feed
+  - jekyll-feed
   - jemoji
 
 
@@ -332,4 +332,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-        
+         
