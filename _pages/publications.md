@@ -7,7 +7,7 @@ author_profile: true
 
 Journal Publications
 ======
-* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>IEEE Transactions on Intelligent Transportation Systems</var>. **Co-First author (rank 1st)** [Under Review]. [arXiv version](https://arxiv.org/abs/2305.17271).
+* Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>IEEE Transactions on Intelligent Transportation Systems</var>. **Co-First author (rank 1st)** [Accept in July 2023!]. [arXiv version](https://arxiv.org/abs/2305.17271).
 * Research on Coordination Relationship between Development of Rural Roads and Industrial Structure of Agriculture. <var>Comprehensive Transport(Chinese)</var>. **Corresponding author (rank 2nd) [Accepted].**
 * Analysis on Characteristics of Air Pollution in Highway Areas. <var>Environmental Engineering(Chinese)</var>. (rank 4th) [Accepted].
 
@@ -22,4 +22,4 @@ Conference Publications
 Patent
 ======
 * Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
-        
+         
