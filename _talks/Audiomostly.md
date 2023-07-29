@@ -1,11 +1,11 @@
 ---
-title: "Keynote at GN conference"
+title: "Keynote at Audiomostly 2022"
 collection: talks
 type: "Keynote"
-permalink: /talks/GNtalk
-venue: "GN headquarters, Denmark"
+permalink: /talks/Audiomostly
+venue: "Austria"
 date: 2023-06-01
-location: "Ballerup, Denmark"
+location: "Austria"
 ---
 
-I was invited to give a keynote at the Annual event of GN Resound.
+I was invited to give a keynote at the 2022 edition of the Audiomostly conference. 
