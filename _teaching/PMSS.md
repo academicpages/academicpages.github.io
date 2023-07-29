@@ -1,3 +1,5 @@
+
+---
 title: "Physical models for sound synthesis"
 collection: teaching
 type: "Master course"
