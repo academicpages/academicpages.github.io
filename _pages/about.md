@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am currently an M.Sc. degree student in Computer Engineering at [Amirkabir University of Technology (Tehran Polytechnique)](https://aut.ac.ir/)<a href="https://aut.ac.ir/" style="color: Black; text-decoration: underline;text-decoration-style: dotted;"></a>, focusing on machine learning, signals, and systems.
+I am currently an M.Sc. degree student in Computer Engineering at
+<a href="[https://www.google.com/](https://aut.ac.ir/)" style="color: Navy; text-decoration: underline;text-decoration-style: dotted;">Amirkabir University of Technology (Tehran Polytechnique)</a>,
+focusing on machine learning, signals, and systems.
 I graduated from Shahrood University of Technology with a B.Sc. in Electrical Engineering focusing on embedded systems and signal processing.
 My research focuses on image processing, with an emphasis on AI and machine learning algorithms and embedded implementation of this algorithm.
 Currently, I am a member of the R&D team of Fin company.
@@ -17,4 +19,4 @@ My fields of interest include **machine learning, deep learning, signal processi
 
 [normal link](https://www.google.com/)
 
-<a href="https://www.google.com/" style="color: #0011DB; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
