@@ -18,7 +18,7 @@ Work experience
 ======
 
 * **Fin Company**, Tehran, Iran: 2023-Present
-  * Job Description: Signal Processing Developer
+  * Job Description: Biomedical Signal Processing Developer
 
 * **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> Radan Electronic</a>**, Mashhad, Iran: 2022
   * Job Description: Embedded Designer and Programmer
