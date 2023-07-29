@@ -9,23 +9,44 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 
 ### 2023
+### 2022
+### 2021
+### 2020
+### 2019
+### 2018
 
+### 2017
+### 2016
+### 2015
+### 2014
+### 2013
+* Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019.
+### 2012
+### 2011
+* Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775.
+* Nguyen, Hung, Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2011). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures. Development of Networks and Communities: 6th International ICST Conference, TridentCom 2010, Berlin, Germany, May 18-20, 2010, Revised Selected Papers 6_, 3–18. Springer Berlin Heidelberg.
 ### 2010
 * Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE.
 ### 2009
 * Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE.
 ### 2008
 * Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE.
+*  Nguyen, Hung X., & Roughan, M. (2008). On the correlation of internet packet losses. _2008 Australasian Telecommunication Networks and Applications Conference_, 22–27. IEEE.
 ### 2007 
 * Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE.
 * Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240.
 ### 2006 
 * Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
-  
-### 2004
+* Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Survey on dependable IP over fiber networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 55–81). Springer Berlin Heidelberg Berlin, Heidelberg.
+* Ducatelle, F., Gambardella, L. M., Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Algorithms for failure protection in large ip-over-fiber and wireless ad hoc networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 231–259). Springer Berlin Heidelberg Berlin, Heidelberg.
 
+### 2005  
+* Nguyen, Hung, & Thiran, P. (2005a). Binary versus analogue path monitoring in IP networks. _Passive and Active Network Measurement_, 97–107.
+*  Nguyen, Hung, & Thiran, P. (2005b). _Failure location in transparent optical networks: The asymmetry between false and missing alarms_. ITC.
+### 2004
 * Nguyen, Hung X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop, PAM 2004, Antibes Juan-Les-Pins, France, April 19-20, 2004. Proceedings 5_, 185–194. Springer Berlin Heidelberg.
 
+* Nguyen, Hung Xuan, Thiran, P., & Barakat, C. (2004). On the correlation of TCP traffic in backbone networks. _2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No. 04CH37512)_, _5_, V–V. IEEE.
 
 
 
@@ -36,23 +57,6 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 
 
-Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775.
-
-Nguyen, Hung, & Thiran, P. (2005a). Binary versus analogue path monitoring in IP networks. _Passive and Active Network Measurement_, 97–107.
-
-Nguyen, Hung X., & Roughan, M. (2008). On the correlation of internet packet losses. _2008 Australasian Telecommunication Networks and Applications Conference_, 22–27. IEEE.
-
-Nguyen, Hung Xuan, Thiran, P., & Barakat, C. (2004). On the correlation of TCP traffic in backbone networks. _2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No. 04CH37512)_, _5_, V–V. IEEE.
-
-Nguyen, Hung, & Thiran, P. (2005b). _Failure location in transparent optical networks: The asymmetry between false and missing alarms_. ITC.
-
-Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Survey on dependable IP over fiber networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 55–81). Springer Berlin Heidelberg Berlin, Heidelberg.
-
-Ducatelle, F., Gambardella, L. M., Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Algorithms for failure protection in large ip-over-fiber and wireless ad hoc networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 231–259). Springer Berlin Heidelberg Berlin, Heidelberg.
-
-Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019.
-
-Nguyen, Hung, Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2011). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures. Development of Networks and Communities: 6th International ICST Conference, TridentCom 2010, Berlin, Germany, May 18-20, 2010, Revised Selected Papers 6_, 3–18. Springer Berlin Heidelberg.
 
 Nguyen, Hung, Ghita, D., Kurant, M., Argyraki, K., & Thiran, P. (n.d.). _Fundamental Properties of Routing Matrices and Their Implications for Network Tomography_. Technical report, EPFL, February 2009. Available (for Infocom 2010 review ….
 
