@@ -54,7 +54,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 ### 2017
 * Ranathunga, D., Nguyen, H., & Roughan, M. (2017). MGtoolkit: A python package for implementing metagraphs. _SoftwareX_, _6_, 91–93.
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, _16_(9), 6062–6076. **CORE A***
-* Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _2017 26th International Conference on Computer Communication and Networks (ICCCN)_, 1–9. IEEE.
+* Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _2017 26th International Conference on Computer Communication and Networks (ICCCN)_, 1–9. IEEE. **CORE A**
 
 ### 2016
 * Ranathunga, D., Roughan, M., Nguyen, H., Kernick, P., & Falkner, N. (2016). Case studies of scada firewall configurations and the implications for best practices. _IEEE Transactions on Network and Service Management_, _13_(4), 871–884. **CORE A**
