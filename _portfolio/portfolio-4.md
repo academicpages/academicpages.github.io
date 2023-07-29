@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/ANN.png' style="height: 10em"><br/> AI for Science"
+title: "<img src='/images/ANN.png' style='height: 10em'><br/> AI for Science"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
