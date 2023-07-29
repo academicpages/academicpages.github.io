@@ -12,13 +12,8 @@ I am a Ph.D. Candidate and Graduate Research Assistant at the Department of Civi
 
 I received my M.Eng. degree in traffic and transportation from Lanzhou Jiaotong University in 2023, and received B.Eng. degree in traffic and transportation from Lanzhou Jiaotong University in 2020.
 
-Because of a strong interest in machine learning and deep learning, my current research centers on the area of deep learning, automated driving, and transportation big data. I have participated in Coursera's [Machine Learning](https://www.coursera.org/learn/machine-learning?) and [Deep Learning](https://www.coursera.org/specializations/deep-learning) courses since Aug.2021 and obtained the Online course certificate. Meanwhile, I learned about lane detection and studied the application of self pre-training with masked sequential autoencoders, submitted a paper with this research(August.2022). I participated in [HUAWEI 2022 Global AI Challenge](https://developer.huawei.com/consumer/cn/activity/starAI2022/algo/) to study intelligent quality detection of lane rendering data with further understanding of anomaly detection.
- 
-<div align=center>
-<img src='/images/movie3.gif'>
-
-<br/>The results in video of Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders.
-</div>    
+My current research centers on the area of traffic data analyzing, machine learning, deep learning, automated driving, and transportation big data.
+Feel free to contact me for research discussion and possible collaboration!
 
 News 
 ======
@@ -26,4 +21,4 @@ News
 - 06/2023: I received the <span style="color:GoldenRod">M.Eng. degree </span> in traffic and transportation from Lanzhou Jiaotong University.
 - 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=108aa3&w=500&t=m&d=t3RFq-d0ZvyNcMOXmNGt6JTnByrbHW0lSUzD_8Yfss4&co=ffffff&cmn=2bcb0e&ct=495955'></script>
-     
+      
