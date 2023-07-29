@@ -20,7 +20,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *  Nguyen, D., White, L., & Nguyen, H. (2023b). Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization. _The 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
 ### 2022
 * Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. (2022). Practical fixed-parameter algorithms for defending active directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, _36_, 9360–9367.
-* * Goel, D., Ward-Graham, M. H., Neumann, A., Neumann, F., Nguyen, H., & Guo, M. (2022). Defending active directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference_, 1191–1199.
+*  Goel, D., Ward-Graham, M. H., Neumann, A., Neumann, F., Nguyen, H., & Guo, M. (2022). Defending active directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference_, 1191–1199.
 * Nguyen, B. L., Nguyen, D. D., Nguyen, H. X., & Ngo, D. T. (2022). Regret-Matching Learning-Based Task Assignment in Vehicular Edge Computing. _CoRR_.
 * Dinani, M. A., Holzer, A., Nguyen, H., Marsan, M. A., & Rizzo, G. (2022). Vehicle Position Nowcasting with Gossip Learning. _2022 IEEE Wireless Communications and Networking Conference (WCNC)_, 728–733. IEEE.
 * Nguyen, N., Nguyen, D., Kim, J., Rizzo, G., & Nguyen, H. (2022). Multi-Agent Data Collection in Non-Stationary Environments. _2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)_, 120–129. IEEE.
