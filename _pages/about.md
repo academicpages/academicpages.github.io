@@ -17,4 +17,4 @@ My fields of interest include **machine learning, deep learning, signal processi
 
 [normal link](https://www.google.com/)
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+<a href="https://www.google.com/" style="color: #0011DB; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
