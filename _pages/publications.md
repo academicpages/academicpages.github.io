@@ -69,7 +69,6 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 ### 2015
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., & Nguyen, H. (2015). Identifying the missing aspects of the ANSI/ISA best practices for security policy. _Proceedings of the 1st ACM Workshop on Cyber-Physical System Security_, 37–48.
 * Mihailescu, M., Nguyen, H., & Webb, M. R. (2015). Enhancing wireless communications with software defined networking. _2015 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
-### 2014
 ### 2013
 * Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019.
 * Tune, P., Nguyen, H. X., & Roughan, M. (2013). Hidden Markov model identifiability via tensors. _2013 IEEE International Symposium on Information Theory_, 2299–2303. IEEE.
