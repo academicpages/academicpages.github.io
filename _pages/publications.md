@@ -6,6 +6,7 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
+#Conferences
 Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
 
 Nguyen, Hung X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop, PAM 2004, Antibes Juan-Les-Pins, France, April 19-20, 2004. Proceedings 5_, 185–194. Springer Berlin Heidelberg.
