@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
+
 These are the courses I teach at Adelaide University. Course materials could be found on the corresponding University's pages.
 
 2023
