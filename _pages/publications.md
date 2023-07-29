@@ -6,8 +6,6 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
-
-
 ### 2023
 *  Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935.
 *  Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teacher-Student with Human Feedback Model for Human-AI Collaboration in Cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 1040–1042.
@@ -18,6 +16,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *  Ngo, H. Q., Guo, M., & Nguyen, H. (2023). Near Optimal Strategies for Honeypots Placement in Dynamic and Large Active Directory Networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems_, 2517–2519.
 *  Nguyen, D., White, L., & Nguyen, H. (2023a). Bayesian Rationality in Satisfaction Games. _Proceedings of the OptLearnMAS-23 Workshop_.
 *  Nguyen, D., White, L., & Nguyen, H. (2023b). Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization. _The 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
+
 ### 2022
 * Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. (2022). Practical fixed-parameter algorithms for defending active directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, _36_, 9360–9367.
 *  Goel, D., Ward-Graham, M. H., Neumann, A., Neumann, F., Nguyen, H., & Guo, M. (2022). Defending active directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference_, 1191–1199.
@@ -26,6 +25,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Nguyen, N., Nguyen, D., Kim, J., Rizzo, G., & Nguyen, H. (2022). Multi-Agent Data Collection in Non-Stationary Environments. _2022 IEEE 23rd International Symposium on a World of Wireless, Mobile and Multimedia Networks (WoWMoM)_, 120–129. IEEE.
 * Nguyen, V., Le, T., Tantithamthavorn, C., Grundy, J., Nguyen, H., & Phung, D. (2022b). Cross Project Software Vulnerability Detection via Domain Adaptation and Max-Margin Principle. _arXiv Preprint arXiv:2209. 10406_.
 * Nguyen, V., Le, T., Tantithamthavorn, C., Grundy, J., Nguyen, H., Camtepe, S., … Phung, D. (2022a). An Information-Theoretic and Contrastive Learning-based Approach for Identifying Code Statements Causing Software Vulnerability. _arXiv Preprint arXiv:2209. 10414_.
+
 ### 2021
 * Dinani, M. A., Holzer, A., Nguyen, H., Marsan, M. A., & Rizzo, G. (2021). Gossip Learning of Personalized Models for Vehicle Trajectory Prediction. _IEEE Wireless Communications and Networking Conference_.
 * Arsalaan, A. S., Nguyen, H., & Fida, M. (2021). Impact of Bushfire Dynamics on the Performance of MANETs. _16th IEEE/IFIP Wireless On-Demand Network Systems and Services Conference (WONS)_, 55–58.
@@ -41,6 +41,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Arsalaan, A. S., Nguyen, H., Coyle, A., & Fida, M. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, _111_, 102331.
 * Dinani, M. A., Holzer, A., Nguyen, H., Marsan, M. A., & Rizzo, G. (2020). _Poster: Mobile Gossip Learning for Trajectory Prediction_.
 * Nguyen, Hung, Yego, K., & Sioutis, C. (2020). BGP based software defined networks for resilient combat cloud. _2020 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
+
 ### 2019
 * Le, B.-D., Shen, H., Nguyen, H., & Falkner, N. (2019). Improved network community detection using meta-heuristic based label propagation. _Applied Intelligence_, _49_, 1451–1466.
 * Manzo, G., Otálora, S., Braun, T., Marsan, M. A., Rizzo, G., & Nguyen, H. (2019). DeepFloat: resource-efficient dynamic management of vehicular floating content. _2019 31st International Teletraffic Congress (ITC 31)_, 46–54. IEEE.
@@ -66,39 +67,48 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., Nguyen, H. X., Mihailescu, M., & McClintock, M. (2016). Verifiable Policy-defined Networking for Security Management. _SECRYPT_, 344–351.
 * Nguyen, Hung Xuan, Webb, M. R., & Naguleswaran, S. (2016). Achieving policy defined networking for military operations. _2016 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
 * Nguyen, Hung X., Pham, T., Hoang, K., Nguyen, D. D., & Parsonage, E. (2016). A prototype of policy defined wireless access networks. _2016 26th International Telecommunication Networks and Applications Conference (ITNAC)_, 101–106. IEEE.
+
 ### 2015
 * Ranathunga, D., Roughan, M., Kernick, P., Falkner, N., & Nguyen, H. (2015). Identifying the missing aspects of the ANSI/ISA best practices for security policy. _Proceedings of the 1st ACM Workshop on Cyber-Physical System Security_, 37–48.
 * Mihailescu, M., Nguyen, H., & Webb, M. R. (2015). Enhancing wireless communications with software defined networking. _2015 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
+
 ### 2013
 * Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019.
 * Tune, P., Nguyen, H. X., & Roughan, M. (2013). Hidden Markov model identifiability via tensors. _2013 IEEE International Symposium on Information Theory_, 2299–2303. IEEE.
 * Knight, S., Nguyen, H., Maennel, O., Phillips, I., Falkner, N., Bush, R., & Roughan, M. (2013). An automated system for emulated network experimentation. _Proceedings of the Ninth ACM Conference on Emerging Networking Experiments and Technologies_, 235–246.
+
 ### 2012
 * Nguyen, Hung X., & Roughan, M. (2012b). On the identifiability of multi-observer hidden markov models. _2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 1873–1876. IEEE.
 * Nguyen, Hung X., & Roughan, M. (2012a). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, _19_(10), 696–699.
 * Knight, S., Falkner, N., Nguyen, H. X., Tune, P., & Roughan, M. (2012). I can see for miles: Re-visualizing the internet. _IEEE Network_, _26_(6), 26–32.
 * Nguyen, Hung X., & Roughan, M. (2012c). Rigorous statistical analysis of internet loss measurements. _IEEE/ACM Transactions on Networking_, _21_(3), 734–745.
+
 ### 2011
 * Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775.
 * Parsonage, E., Nguyen, H. X., & Roughan, M. (2011). _Absorbing Lexicographic Products in Metarouting_.
 * Nguyen, Hung, Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2011). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures. Development of Networks and Communities: 6th International ICST Conference, TridentCom 2010, Berlin, Germany, May 18-20, 2010, Revised Selected Papers 6_, 3–18. Springer Berlin Heidelberg.
 * Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _2011 19th IEEE International Conference on Network Protocols_, 79–88. IEEE.
 * Bowden, R., Nguyen, H. X., Falkner, N., Knight, S., & Roughan, M. (2011). Planarity of data networks. _2011 23rd International Teletraffic Congress (ITC)_, 254–261. IEEE.
+
 ### 2010
 * Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE.
 * Nguyen, Hung X., & Roughan, M. (2010a). Rigorous statistical analysis of internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362.
 * Coyle, A., & Nguyen, H. (2010). A Frequency Control Algorithm for a Mobile Adhoc Network, _IEEE Milcis 2010_.
 * Nguyen, Hung X., & Roughan, M. (2010b). SAIL: Statistically accurate Internet loss measurement. _Proceedings of ACM Sigmetrics 2010 Conference_.
+
 ### 2009
 * Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE.
 * Nguyen, Hung, Ghita, D., Kurant, M., Argyraki, K., & Thiran, P. (n.d.). _Fundamental Properties of Routing Matrices and Their Implications for Network Tomography_. Technical report, EPFL, February 2009. 
+
 ### 2008
 * Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE.
 *  Nguyen, Hung X., & Roughan, M. (2008). On the correlation of internet packet losses. _2008 Australasian Telecommunication Networks and Applications Conference_, 22–27. IEEE.
+
 ### 2007 
 * Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE.
 * Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240.
 * Nguyen, H., & Thiran, P. (2007). _CMPT-880: Multimedia Networking 1st Presentation: Network Loss Inference with 2nd Order Statistics of End-to-End Flows_.
+
 ### 2006 
 * Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
 * Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Survey on dependable IP over fiber networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 55–81). Springer Berlin Heidelberg Berlin, Heidelberg.
@@ -109,12 +119,13 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *  Nguyen, Hung, & Thiran, P. (2005b). _Failure location in transparent optical networks: The asymmetry between false and missing alarms_. ITC.
 *  Dousse, O., Nguyen, H. X., & Thiran, P. (2005). Deux applications de processus ponctuels aux réseaux de communication. _GRETSI_.
 *  Mas, C., Nguyen, H. X., & Thiran, P. (2005). Failure location in WDM networks. _Emerging Optical Network Technologies: Architectures, Protocols and Performance_, 379–399.
+
 ### 2004
 * Nguyen, Hung X., & Thiran, P. (2004). Active measurement for multiple link failures diagnosis in IP networks. _Passive and Active Network Measurement: 5th International Workshop, PAM 2004, Antibes Juan-Les-Pins, France, April 19-20, 2004. Proceedings 5_, 185–194. Springer Berlin Heidelberg.
-
 * Nguyen, Hung Xuan, Thiran, P., & Barakat, C. (2004). On the correlation of TCP traffic in backbone networks. _2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No. 04CH37512)_, _5_, V–V. IEEE.
 * Mas Machuca, C., Nguyen, H., & Thiran, P. (2004). _Failure location in WDM networks_.
-### others
+
+### Others
 * Nguyen, Hung, Rajesh, S., & Abbott, D. (2001). Motion detection algorithms using template model. _Electronics and Structures for MEMS II_, _4591_, 78–90. SPIE.
 
 
