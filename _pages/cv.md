@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* **M.Sc. in ***coming soon** Engineering**, Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran, 2023-Present
+* **M.Sc. in Computer Engineering**, Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran, 2023-Present
 * **B.Sc. in Electrical Engineering**, Shahrood University of Technology, Shahrood, Iran, 2023
 
 Work experience
