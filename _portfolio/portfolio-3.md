@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/rho_field.png' height="10em"><br/> Supercritical Jet"
+title: "<img src='/images/rho_field.png' style="height: 10em"><br/> Supercritical Jet"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---

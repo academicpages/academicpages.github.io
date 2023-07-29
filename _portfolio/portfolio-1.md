@@ -1,5 +1,5 @@
 ---
-title: "<img src="/images/sootfoil.png" height="10em"><br/> Detonation at elevated pressure"
+title: "<img src="/images/sootfoil.png" style="height: 10em"><br/> Detonation at elevated pressure"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
