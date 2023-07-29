@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+https://ce.aut.ac.ir/en
 Education
 ======
 * **M.Sc. in Computer Engineering**, Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran, 2023-Present
