@@ -19,6 +19,4 @@ News
 ======
 - 07/2023: My paper [Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss](https://arxiv.org/abs/2305.17271) is accepted by the journal of *IEEE Transactions on Intelligent Transportation Systems* . 
 - 06/2023: I received the <span style="color:GoldenRod">M.Eng. degree </span> in traffic and transportation from Lanzhou Jiaotong University.
-- 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=108aa3&w=500&t=m&d=t3RFq-d0ZvyNcMOXmNGt6JTnByrbHW0lSUzD_8Yfss4&co=ffffff&cmn=2bcb0e&ct=495955'></script>
-       
+  
