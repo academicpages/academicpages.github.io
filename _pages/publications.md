@@ -34,10 +34,10 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 ### 2020
 * Hessel, V., Tran, N. N., Orandi, S., Asrami, M. R., Goodsite, M. E., & Nguyen, H. (2020). Continuous-Flow Extraction of Adjacent Metals--a Disruptive Economic Window for In-Situ Resource Utilization of Asteroids? _Angewandte Chemie International Edition_. **A***
-* Ranathunga, D., Roughan, M., & Nguyen, H. (2020). Verifiable policy-defined networking using metagraphs. _IEEE Transactions on Dependable and Secure Computing_, _19_(1), 482–494. **CORE A***
+* Ranathunga, D., Roughan, M., & Nguyen, H. (2020). Verifiable policy-defined networking using metagraphs. _IEEE Transactions on Dependable and Secure Computing_, _19_(1), 482–494. **CORE A**
 * Pham, T., McMahon, J., & Nguyen, H. (2020). Enabling heterogeneous 5g simulations with sdn adapters. _Testbeds and Research Infrastructures for the Development of Networks and Communications: 14th EAI International Conference, TridentCom 2019, Changsha, China, December 7-8, 2019, Proceedings 14_, 163–183. Springer International Publishing.
-* Rangathunga, D., Roughan, M., & Nguyen, H. (2020). Mathematical Reconciliation of Medical Privacy Policies. _ACM Transactions on Management Information Systems (TMIS)_.
-* Arsalaan, A. S., Nguyen, H., Coyle, A., & Fida, M. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, _111_, 102331.
+* Rangathunga, D., Roughan, M., & Nguyen, H. (2020). Mathematical Reconciliation of Medical Privacy Policies. _ACM Transactions on Management Information Systems (TMIS)_. **CORE A**
+* Arsalaan, A. S., Nguyen, H., Coyle, A., & Fida, M. (2020). Quality of information with minimum requirements for emergency communications. _Ad Hoc Networks_, _111_, 102331. **CORE A**
 * Dinani, M. A., Holzer, A., Nguyen, H., Marsan, M. A., & Rizzo, G. (2020). _Poster: Mobile Gossip Learning for Trajectory Prediction_.
 * Nguyen, Hung, Yego, K., & Sioutis, C. (2020). BGP based software defined networks for resilient combat cloud. _2020 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
 
@@ -53,12 +53,11 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 
 ### 2017
 * Ranathunga, D., Nguyen, H., & Roughan, M. (2017). MGtoolkit: A python package for implementing metagraphs. _SoftwareX_, _6_, 91–93.
-* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, _16_(9), 6062–6076.
+* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2017). Reinforcement learning with network-assisted feedback for heterogeneous RAT selection. _IEEE Transactions on Wireless Communications_, _16_(9), 6062–6076. **CORE A***
 * Le, B.-D., Nguyen, H. X., Shen, H., & Falkner, N. (2017). GLFR: A generalized LFR benchmark for testing community detection algorithms. _2017 26th International Conference on Computer Communication and Networks (ICCCN)_, 1–9. IEEE.
 
 ### 2016
-* Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016a). Distributed RAT Selection with Enhanced Reinforcement Learning. _The University of Adelaide_.
-* Ranathunga, D., Roughan, M., Nguyen, H., Kernick, P., & Falkner, N. (2016). Case studies of scada firewall configurations and the implications for best practices. _IEEE Transactions on Network and Service Management_, _13_(4), 871–884.
+* Ranathunga, D., Roughan, M., Nguyen, H., Kernick, P., & Falkner, N. (2016). Case studies of scada firewall configurations and the implications for best practices. _IEEE Transactions on Network and Service Management_, _13_(4), 871–884. **CORE A**
 * Nguyen, Hung X., & Northcote, B. (2016). User spectral efficiency: Combining spectral efficiency with user experience. _2016 IEEE International Conference on Communications (ICC)_, 1–6. IEEE.
 * Nguyen, D. D., Nguyen, H. X., & White, L. B. (2016b). Performance of adaptive RAT selection algorithms in 5G heterogeneous wireless networks. _2016 26th International Telecommunication Networks and Applications Conference (ITNAC)_, 70–75. IEEE.
 * Le, B.-D., Nguyen, H., & Shen, H. (2016). Community detection in networks with less significant community structure. _Advanced Data Mining and Applications: 12th International Conference, ADMA 2016, Gold Coast, QLD, Australia, December 12-15, 2016, Proceedings 12_, 65–80. Springer International Publishing.
@@ -72,44 +71,43 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Mihailescu, M., Nguyen, H., & Webb, M. R. (2015). Enhancing wireless communications with software defined networking. _2015 Military Communications and Information Systems Conference (MilCIS)_, 1–6. IEEE.
 
 ### 2013
-* Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019.
+* Nguyen, Hung X., & Roughan, M. (2013). Multi-observer privacy-preserving hidden markov models. _IEEE Transactions on Signal Processing_, _61_(23), 6010–6019. **CORE A***
 * Tune, P., Nguyen, H. X., & Roughan, M. (2013). Hidden Markov model identifiability via tensors. _2013 IEEE International Symposium on Information Theory_, 2299–2303. IEEE.
-* Knight, S., Nguyen, H., Maennel, O., Phillips, I., Falkner, N., Bush, R., & Roughan, M. (2013). An automated system for emulated network experimentation. _Proceedings of the Ninth ACM Conference on Emerging Networking Experiments and Technologies_, 235–246.
+* Knight, S., Nguyen, H., Maennel, O., Phillips, I., Falkner, N., Bush, R., & Roughan, M. (2013). An automated system for emulated network experimentation. _Proceedings of the Ninth ACM Conference on Emerging Networking Experiments and Technologies_, 235–246. **CORE A**
 
 ### 2012
 * Nguyen, Hung X., & Roughan, M. (2012b). On the identifiability of multi-observer hidden markov models. _2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)_, 1873–1876. IEEE.
-* Nguyen, Hung X., & Roughan, M. (2012a). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, _19_(10), 696–699.
+* Nguyen, Hung X., & Roughan, M. (2012a). Improving hidden Markov model inferences with private data from multiple observers. _IEEE Signal Processing Letters_, _19_(10), 696–699. **CORE A**
 * Knight, S., Falkner, N., Nguyen, H. X., Tune, P., & Roughan, M. (2012). I can see for miles: Re-visualizing the internet. _IEEE Network_, _26_(6), 26–32.
-* Nguyen, Hung X., & Roughan, M. (2012c). Rigorous statistical analysis of internet loss measurements. _IEEE/ACM Transactions on Networking_, _21_(3), 734–745.
+* Nguyen, Hung X., & Roughan, M. (2012c). Rigorous statistical analysis of internet loss measurements. _IEEE/ACM Transactions on Networking_, _21_(3), 734–745. **CORE A***
 
 ### 2011
-* Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775.
+* Knight, S., Nguyen, H. X., Falkner, N., Bowden, R., & Roughan, M. (2011). The internet topology zoo. _IEEE Journal on Selected Areas in Communications_, _29_(9), 1765–1775. **CORE A***
 * Parsonage, E., Nguyen, H. X., & Roughan, M. (2011). _Absorbing Lexicographic Products in Metarouting_.
 * Nguyen, Hung, Roughan, M., Knight, S., Falkner, N., Maennel, O., & Bush, R. (2011). How to build complex, large-scale emulated networks. _Testbeds and Research Infrastructures. Development of Networks and Communities: 6th International ICST Conference, TridentCom 2010, Berlin, Germany, May 18-20, 2010, Revised Selected Papers 6_, 3–18. Springer Berlin Heidelberg.
-* Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _2011 19th IEEE International Conference on Network Protocols_, 79–88. IEEE.
+* Parsonage, E., Nguyen, H. X., Bowden, R., Knight, S., Falkner, N., & Roughan, M. (2011). Generalized graph products for network design and analysis. _2011 19th IEEE International Conference on Network Protocols_, 79–88. IEEE. **CORE A**
 * Bowden, R., Nguyen, H. X., Falkner, N., Knight, S., & Roughan, M. (2011). Planarity of data networks. _2011 23rd International Teletraffic Congress (ITC)_, 254–261. IEEE.
 
 ### 2010
-* Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE.
-* Nguyen, Hung X., & Roughan, M. (2010a). Rigorous statistical analysis of internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362.
+* Ghita, D., Nguyen, H., Kurant, M., Argyraki, K., & Thiran, P. (2010). Netscope: Practical network loss tomography. _2010 Proceedings IEEE INFOCOM_, 1–9. IEEE. **CORE A***
+* Nguyen, Hung X., & Roughan, M. (2010a). Rigorous statistical analysis of internet loss measurements. _Proceedings of the ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems_, 361–362. **CORE A***
 * Coyle, A., & Nguyen, H. (2010). A Frequency Control Algorithm for a Mobile Adhoc Network, _IEEE Milcis 2010_.
-* Nguyen, Hung X., & Roughan, M. (2010b). SAIL: Statistically accurate Internet loss measurement. _Proceedings of ACM Sigmetrics 2010 Conference_.
+* Nguyen, Hung X., & Roughan, M. (2010b). SAIL: Statistically accurate Internet loss measurement. _Proceedings of ACM Sigmetrics 2010 Conference_. **CORE A***
 
 ### 2009
-* Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE.
-* Nguyen, Hung, Ghita, D., Kurant, M., Argyraki, K., & Thiran, P. (n.d.). _Fundamental Properties of Routing Matrices and Their Implications for Network Tomography_. Technical report, EPFL, February 2009. 
+* Nguyen, Hung Xuan, Teixeira, R., Thiran, P., & Diot, C. (2009). Minimizing probing cost for detecting interface failures: Algorithms and scalability analysis. _IEEE INFOCOM 2009_, 1386–1394. IEEE. **CORE A***
+* Nguyen, Hung, Ghita, D., Kurant, M., Argyraki, K., & Thiran, P. (n.d.). _Fundamental Properties of Routing Matrices and Their Implications for Network Tomography_. Technical report, EPFL, February 2009.  
 
 ### 2008
-* Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE.
+* Nguyen, Hung Xuan, Figueiredo, D. R., Grossglauser, M., & Thiran, P. (2008). Balanced relay allocation on heterogeneous unstructured overlays. _IEEE INFOCOM 2008-The 27th Conference on Computer Communications_, 126–130. IEEE. **CORE A***
 *  Nguyen, Hung X., & Roughan, M. (2008). On the correlation of internet packet losses. _2008 Australasian Telecommunication Networks and Applications Conference_, 22–27. IEEE.
 
 ### 2007 
-* Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE.
-* Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240.
-* Nguyen, H., & Thiran, P. (2007). _CMPT-880: Multimedia Networking 1st Presentation: Network Loss Inference with 2nd Order Statistics of End-to-End Flows_.
+* Nguyen, Hung Xuan, & Thiran, P. (2007). The boolean solution to the congested IP link location problem: Theory and practice. _IEEE INFOCOM 2007-26th IEEE International Conference on Computer Communications_, 2117–2125. IEEE. **CORE A***
+* Nguyen, Hung X., & Thiran, P. (2007). Network loss inference with second order statistics of end-to-end flows. _Proceedings of the 7th ACM SIGCOMM Conference on Internet Measurement_, 227–240. **CORE A***
 
 ### 2006 
-* Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_.
+* Nguyen, Hung Xuan, & Thiran, P. (2006). Using end-to-end data to infer lossy links in sensor networks. _IEEE Infocom 2006_. **CORE A***
 * Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Survey on dependable IP over fiber networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 55–81). Springer Berlin Heidelberg Berlin, Heidelberg.
 * Ducatelle, F., Gambardella, L. M., Kurant, M., Nguyen, H. X., & Thiran, P. (2006). Algorithms for failure protection in large ip-over-fiber and wireless ad hoc networks. In _Dependable Systems: Software, Computing, Networks: Research Results of the DICS Program_ (pp. 231–259). Springer Berlin Heidelberg Berlin, Heidelberg.
 
