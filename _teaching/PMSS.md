@@ -1,11 +1,10 @@
----
-title: "Multimodal interfaces"
+title: "Physical models for sound synthesis"
 collection: teaching
 type: "Master course"
-permalink: /teaching/2023-spring-teaching-1
+permalink: /teaching/PMSS
 venue: "Aalborg University, Department of Architecture, Design and Media Technology"
 date: 2023-02-01
 location: "Copenhagen, Denmark"
 ---
 
-Class on multisensory interactions part of the Master in Medialogy at Aalborg University.
+Class on physical models for sound synthesis part of the Master in Sound and Music Computing at Aalborg University.
