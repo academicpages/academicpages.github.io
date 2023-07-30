@@ -13,16 +13,14 @@ Hi! I am currently a postgraduate student at [Soochow University](http://www.sud
 I would love to work with all people together on some interesting projects! **Feel free to drop me an email** if you have any ideas about blockchain to discuss!
 
 ## News
-TBD.
-
-<!-- - Jul. 2023: our paper "RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain" was accepted by the *23rd International Conference on Algorithms and Architectures for Parallel Processing (**<font color="blue">IEEE ICA3PP</font>**, CCF-C)*.
-- Jul. 2023: our paper "Test-and-Decode: A Partial Recovery Scheme for Verifiable Coded Computing" was accepted by the *23rd International Conference on Algorithms and Architectures for Parallel Processing (**<font color="blue">IEEE ICA3PP</font>**, CCF-C)*. -->
+- [Jul. 2023] 🎉🎉🎉 Our paper "**RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain**" was accepted by the *23rd International Conference on Algorithms and Architectures for Parallel Processing (<font color="red">IEEE ICA3PP</font>, CCF-C)*.
+- [Jul. 2023] 🎉🎉🎉 Our paper "**Test-and-Decode: A Partial Recovery Scheme for Verifiable Coded Computing**" was accepted by the *23rd International Conference on Algorithms and Architectures for Parallel Processing (<font color="red">IEEE ICA3PP</font>, CCF-C)*.
 
 ## Publications
-TBD.
+1. **Dongyang Yu**, Jin Wang, Lingzhi Li, Wei Jiang and Can Liu, "RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain", 23rd International Conference on Algorithms and Architectures for Parallel Processing(<font color="red">IEEE ICA3PP</font>, CCF-C), Tianjin, China, 2023.
+2. Wei Jiang, Jin Wang, Lingzhi Li, **Dongyang Yu** and Can Liu, "Test-and-Decode: A Partial Recovery Scheme for Verifiable Coded Computing	", 23rd International Conference on Algorithms and Architectures for Parallel Processing(<font color="red">IEEE ICA3PP</font>, CCF-C), Tianjin, China, 2023.
 
 ## Patents
-
 1. Wang, J., **Yu, D**. 2023. A method and system of permissioned blockchain for agricultural product traceability. CN Patent Application, filed June 2023. Pending. (*First student author)
 2. Wang, J., **Yu, D**. 2023. A method to identify malicious nodes in sharding permissioned blockchain. CN Patent Application, filed June 2023. Pending. (*First student author)
 3. Wang, J., Jiang, W., **Yu, D**. 2023. A storage method based on linear encoding for blockchain. CN Patent Application, filed July 2023. Pending. (*Second student author)
