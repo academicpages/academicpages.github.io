@@ -33,8 +33,8 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-Neural network (NN) based regression on real fluid properties
-======
+## Neural network (NN) based regression on real fluid properties
+
 The update of real fluid properties takes about 50% (reactive case) $^{[1]}$ or 75% (non-reactive case) of the computation time in supercritical flow simulation. 
 
 Fully connected (or multi-Layer perceptron) type NN was trained to predict the thermo-physical properties of pure nitrogen. The network was optimized to 69 parameters and with prediction error lower than 1% for most conditions.

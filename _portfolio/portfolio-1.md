@@ -41,8 +41,8 @@ The research on detonation can be seperated into several regimes using the press
   <figcaption style='color: gray; font-size: smaller; text-align: center;'>Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
 </figure>
 
-Detonation initiation
-======
+## 1. Detonation initiation
+
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
 
 <a href="javascript:toggleBibtex('RGDDI')" class="textlink">[Relevant papers:]</a>
@@ -54,11 +54,10 @@ A critical decay rate model was derived to study the direct detonation initiatio
 </pre>
 </div>
 
-Detonation structure
-======
+## 2. Detonation structure
 
-Detonation stability
-======
+
+## 3. Detonation stability
 
 
 <a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
