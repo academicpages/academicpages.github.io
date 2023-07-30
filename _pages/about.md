@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<hr color="#FFFFFF" />
-
 About Me
 ======
 I'm Zhiqiang Wei who is working at China Mobile (Suzhou) Software Technology Co.,Ltd now. As a researcher, I focus on deep learning-based network protocol fuzzing test techniques. Currently, I investigate how to use apply deep generative model(such as GAN, VAE) for message queues fuzzing test case generation. I have proposed a novel GAN-based fuzzing architecture which aims at detecting vulnerabilities in MQTT protocol. Before joining China Mobile, I worked as an NLP engineer in Microsoft(Suzhou) Bing Map team.
+
+<hr color="#FFFFFF" />
 
 Research Interests
 ======
