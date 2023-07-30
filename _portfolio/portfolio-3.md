@@ -65,7 +65,7 @@ Injection, mixing and combustion processes in rocket engines typically take plac
 <a href="javascript:toggleBibtex('NNregression')" class="textlink">[References]</a>
 <div id="NNregression" class="bibtex noshow">
 <pre>
-1 <img src="images/deepflame.jpg" style="height: 2em;vertical-align: middle;"> https://github.com/deepmodeling/deepflame-dev
+1 <img src="/images/deepflame.jpg" style="height: 2em;vertical-align: middle;"> https://github.com/deepmodeling/deepflame-dev
 2 M.-M. Jarczyk, and M. Pfitzner, in 50th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition (American Institute of Aeronautics and Astronautics, 2012).
 3 P.C. Ma, Y. Lv, and M. Ihme, “An entropy-stable hybrid scheme for simulations of transcritical real-fluid flows,” Journal of Computational Physics 340, 330–357 (2017).
 4 W. Mayer, J. Telaar, R. Branam, G. Schneider, and J. Hussong, “Raman Measurements of Cryogenic Injection at Supercritical Pressure,” Heat and Mass Transfer 39(8), 709–719 (2003).

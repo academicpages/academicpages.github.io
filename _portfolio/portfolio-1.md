@@ -38,22 +38,26 @@ function toggleBibtex(articleid) {
 The research on detonation can be seperated into several regimes using the pressure and density diagram of Schmitt and Bulter $^{[1]}$. Gas phase detonation focus mainly on low pressure regime with perfect gas assumption while solid explosive or energetic materials lie on high pressure regime. Recently, the research on two-phase RDE partly falls in the regime of liquid phase detonation. However, the regime of gas with elevated pressure seems rarely explored in detonation research. It has been proved that the perfect gas based model fails to capture the detonation speed and cellular structure regularity at elevated pressure $^{[1-2]}$. 
 </div>
 
-<center>
+<figure style="margin-left: auto; margin-right: auto;">
+  <img src="/images/detonationregime.png" style="width: 60%; object-fit: contain;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
+</figure>
+
+<div style="display: flex; justify-content: center;">
   <figure>
     <img src="/images/detonationregime.png" style="width: 60%; object-fit: contain;">
-    <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
+    <figcaption style="color: gray; font-size: smaller; text-align: center;">2 Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
   </figure>
-</center>
+</div>
 
 ## 1. Detonation initiation
 <div style="text-align: justify;">
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
-<center>
-  <figure>
-    <img src="/images/RGeffect_Planar.pdf" style="width: 60%; object-fit: contain;">
-    <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison of the real gas effects on the critical decay time calculated with the quasi-unsteady model (symbol) and asymptotic solutions (line).</figcaption>
-  </figure>
-</center>
+
+<figure style="margin-left: auto; margin-right: auto;">
+  <img src="/images/RGeffect_Planar.pdf" style="width: 60%; object-fit: contain;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison of the real gas effects on the critical decay time calculated with the quasi-unsteady model (symbol) and asymptotic solutions (line).</figcaption>
+</figure>
 
 </div>
 <a href="javascript:toggleBibtex('RGDDI')" class="textlink"> relevant papers </a>
