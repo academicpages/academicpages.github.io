@@ -1,9 +1,16 @@
 ---
 # title: "<img src='/images/sootfoil.png' style='height: 10em'><br/> Detonation at elevated pressure"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='height: 10em; object-fit: contain;'> <figcaption>Detonation at elevated pressure</figcaption> </figure> </div>"
+title: "<div style='display: flex; justify-content: center; text-align: center;'><figure style='width: 80%;'><img src='images/sootfoil.png' style='object-fit: contain;'><figcaption>Detonation at elevated pressure</figcaption></figure></div>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
+
+<!-- <div style='display: flex; justify-content: center; text-align: center;'>
+<figure style='width: 80%;'>
+    <img src='/Users/weng/THU/CV/wengzf20.github.io/images/sootfoil.png' style='object-fit: contain;'>
+    <figcaption>Detonation at elevated pressure</figcaption>
+</figure>
+</div> -->
 
 <!-- the styles -->
 <style>
