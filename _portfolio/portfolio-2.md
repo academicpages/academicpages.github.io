@@ -1,5 +1,6 @@
 ---
-title: "<img src='/images/500x300.png' style='height: 10em'><br/> Supercritical laminar flame"
+# title: "<img src='/images/500x300.png' style='height: 10em'><br/> Supercritical laminar flame"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <img src='/images/500x300.png' style='height: 10em'> </div>"
 # excerpt: "To update"
 collection: portfolio
 ---
