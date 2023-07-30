@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/500x300.png' style='width: 75%; display: block; margin: 0 auto;'><center>Supercritical laminar flame</center>"
+title: "<img src='/images/500x300.png' style='width: 60%; display: block; margin: 0 auto;'><center>Supercritical laminar flame</center>"
 collection: portfolio
 ---
 <!-- the styles -->
@@ -43,14 +43,15 @@ To update
 ## 2. Extrapolation relation
 <div style="text-align: justify;">
 Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas.
-</div><br>
-<a href="javascript:toggleBibtex('Extrapolation')" class="textlink">[ref.]</a>
-<div id="Extrapolation" class="bibtex noshow">
-<pre>
-[1] P.D. Ronney, and G.I. Sivashinsky, “A Theoretical Study of Propagation and Extinction of Nonsteady Spherical Flame Fronts,” SIAM J. Appl. Math. 49(4), 1029–1046 (1989).
-</pre></div>
 
 ## 3. Jet ignition
 <div style="text-align: justify;">
 To update
 </div>
+
+</div><br>
+<a href="javascript:toggleBibtex('Extrapolation')" class="textlink">[References]</a>
+<div id="Extrapolation" class="bibtex noshow">
+<pre>
+[1] P.D. Ronney, and G.I. Sivashinsky, “A Theoretical Study of Propagation and Extinction of Nonsteady Spherical Flame Fronts,” SIAM J. Appl. Math. 49(4), 1029–1046 (1989).
+</pre></div>

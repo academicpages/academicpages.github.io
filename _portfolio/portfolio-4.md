@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/ANN.png' style='width: 75%; display: block; margin: 0 auto;'><center>AI for Science</center>"
+title: "<img src='/images/ANN.png' style='width: 60%; display: block; margin: 0 auto;'><center>AI for Science</center>"
 collection: portfolio
 ---
 
@@ -40,15 +40,24 @@ The update of real fluid properties takes about 50% (reactive case) $^{[1]}$ or 
 
 Fully connected (or multi-Layer perceptron) type NN was trained to predict the thermo-physical properties of pure nitrogen. The network was optimized to 69 parameters and with prediction error lower than 1% for most conditions.
 </div>
-<img src='/images/ANN_pred.png' style='height: 10em'><br/>
+<center>
+  <figure>
+    <img src='/images/ANN_pred.png' style='width: 90%; object-fit: contain;'>
+    <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison between reference results (line) and prediction of NN (symbol). </figcaption>
+  </figure>
+</center>
 
 <div style="text-align: justify;">
 The trained NN was coupled with an AI-empowered platform, DeepFlame, to accelerate CFD simulation. Several tests were done using nitrogen convection and supercritical nitrogen injection as examples. The NN significantly reduced the computation time by several folds.
 </div>
-<img src='/images/ANN_N2Convection.png' style='height: 10em'><br/>
+<center>
+  <figure>
+    <img src='/images/ANN_N2Convection.png' style='width: 75%; object-fit: contain;'>
+    <figcaption style="color: gray; font-size: smaller; text-align: center;">Simulation results obtained with explicit calculation and NN prediction. </figcaption>
+  </figure>
+</center>
 
-
-<a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
+<a href="javascript:toggleBibtex('NNregression')" class="textlink">[References]</a>
 <div id="NNregression" class="bibtex noshow">
 <pre>
 1 P.C. Ma, Y. Lv, and M. Ihme, “An entropy-stable hybrid scheme for simulations of transcritical real-fluid flows,” Journal of Computational Physics 340, 330–357 (2017).

@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/rho_field.png' style='width: 75%; display: block; margin: 0 auto;'><center>Supercritical Jet</center>"
+title: "<img src='/images/rho_field.png' style='width: 60%; display: block; margin: 0 auto;'><center>Supercritical Jet</center>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
@@ -40,29 +40,29 @@ function toggleBibtex(articleid) {
 Injection, mixing and combustion processes in rocket engines typically take place at trans- or super-critical conditions. Liquified fuel and oxidizer were injected at cryogenic and high pressure state. Accurate descriptions of real-fluid properties are essential for numerical simulation. A pressure-based solver was developed on open-source platform, DeepFlame $^{[1]}$, by connecting OpenFOAM and Cantera. The real fluid model in Cantera, including Peng-Robinson equation of state and corresponding thermodynamic functions, transport properties, was used to replace the ideal gas assumption in OpenFOAM. The pressure equation was revised according to Jarczyk and Pfitzner's work $^{[2]}$. The performance of the solver was demonstrated using nitrogen convection and injection cases $^{[2-3]}$.
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<center>
   <figure>
-    <img src='/images/N2Convection2.png' style='height: 10em; object-fit: contain;'>
+    <img src='/images/N2Convection2.png' style='width: 60%; object-fit: contain;'>
     <figcaption style='color: gray; font-size: smaller; text-align: center;'>Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$.</figcaption>
   </figure>
-</div>
+</center>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<center>
   <figure>
-    <img src='/images/N2Convection1.png' style='height: 10em; object-fit: contain;'>
+    <img src='/images/N2Convection1.png' style='width: 60%; object-fit: contain;'>
     <figcaption style='color: gray; font-size: smaller; text-align: center;'>Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$.</figcaption>
   </figure>
-</div>
+</center>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<center>
   <figure>
-    <img src='/images/rho_field.png' style='height: 10em; object-fit: contain;'>
+    <img src='/images/rho_field.png' style='height: 60%; object-fit: contain;'>
     <figcaption style='color: gray; font-size: smaller; text-align: center;'>LES simulation for case 4 in Mayer's experiment $^{[4]}$.</figcaption>
   </figure>
-</div>
+</center>
 
 
-<a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
+<a href="javascript:toggleBibtex('NNregression')" class="textlink">[References]</a>
 <div id="NNregression" class="bibtex noshow">
 <pre>
 1 <img src="image/deepflame.jpg" style="height: 2em;vertical-align: middle;"> https://github.com/deepmodeling/deepflame-dev
