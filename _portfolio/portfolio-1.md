@@ -40,7 +40,7 @@ The research on detonation can be seperated into several regimes using the press
 
 <center>
   <figure>
-    <img src="images/detonationregime.png" style="width: 60%; object-fit: contain;">
+    <img src="/images/detonationregime.png" style="width: 60%; object-fit: contain;">
     <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
   </figure>
 </center>
@@ -50,7 +50,7 @@ The research on detonation can be seperated into several regimes using the press
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
 <center>
   <figure>
-    <img src="images/RGeffect_Planar.pdf" style="width: 60%; object-fit: contain;">
+    <img src="/images/RGeffect_Planar.pdf" style="width: 60%; object-fit: contain;">
     <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison of the real gas effects on the critical decay time calculated with the quasi-unsteady model (symbol) and asymptotic solutions (line).</figcaption>
   </figure>
 </center>
