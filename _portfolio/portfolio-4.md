@@ -1,6 +1,5 @@
 ---
-# title: "<img src='/images/ANN.png' style='height: 10em'><br/> AI for Science"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figcaption>AI for Science    </figcaption> <figure style='text-align: center;'> <img src='images/ANN.png' style='width: 50%; object-fit: contain;'> </figure> </div>"
+title: "<img src='/images/ANN.png' style='width: 75%; display: block; margin: 0 auto;'><center>AI for Science</center>"
 collection: portfolio
 ---
 

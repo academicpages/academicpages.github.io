@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/sootfoil.png' style='width: 75%; display: block; margin: 0 auto;'><center>**Supercritical Jet**</center>"
+title: "<img src='/images/sootfoil.png' style='width: 75%; display: block; margin: 0 auto;'><center>Detonation at elevated pressure</center>"
 collection: portfolio
 ---
 <!-- the styles -->
@@ -38,22 +38,30 @@ function toggleBibtex(articleid) {
 The research on detonation can be seperated into several regimes using the pressure and density diagram of Schmitt and Bulter $^{[1]}$. Gas phase detonation focus mainly on low pressure regime with perfect gas assumption while solid explosive or energetic materials lie on high pressure regime. Recently, the research on two-phase RDE partly falls in the regime of liquid phase detonation. However, the regime of gas with elevated pressure seems rarely explored in detonation research. It has been proved that the perfect gas based model fails to capture the detonation speed and cellular structure regularity at elevated pressure $^{[1-2]}$. 
 </div>
 
-<figure>
-  <img src='/images/detonationregime.png' style='height: 10em; object-fit: contain;'>
-  <figcaption style='color: gray; font-size: smaller; text-align: center;'>Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
-</figure>
+<center>
+  <figure>
+    <img src="../images/detonationregime.png" style="width: 60%; object-fit: contain;">
+    <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
+  </figure>
+</center>
 
 ## 1. Detonation initiation
 <div style="text-align: justify;">
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
-</div>
+<center>
+  <figure>
+    <img src="../images/RGeffect_Planar.pdf" style="width: 60%; object-fit: contain;">
+    <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison of the real gas effects on the critical decay time calculated with the quasi-unsteady model (symbol) and asymptotic solutions (line)..</figcaption>
+  </figure>
+</center>
 
-<a href="javascript:toggleBibtex('RGDDI')" class="textlink">Relevant papers:</a>
+### relevant papers:
+</div>
+<a href="javascript:toggleBibtex('RGDDI')" class="textlink"></a>
 <div id="RGDDI" class="bibtex">
 <pre>
-1 R.G. Schmitt, and P.B. Butler, “Detonation Properties of Gases at Elevated Initial Pressures,” Combustion Science and Technology 106(1–3), 167–191 (1995).
-2 S. Taileb, J. Melguizo-Gavilanes, and A. Chinnayya, “Influence of the equation of state on the cellular structure of gaseous detonationsat elevated pressures.pdf,” (2020).
-3 C.A. Eckett, J.J. Quirk, and J.E. Shepherd, “The role of unsteadiness in direct initiation of gaseous detonations,” Journal of Fluid Mechanics 421, 147–183 (2000).
+[1] Z. Weng, R. Mével, and C.K. Law, “On the critical initiation of planar detonation in Noble-Abel and van der Waals gas,” Combustion and Flame 255, 112890 (2023).
+[2] Z. Weng, R. Mével, Z. Huang, F. Cai, and J. Xu, “Direct detonation initiation: A comparison between the critical curvature and critical decay rate models,” Physics of Fluids 33(9), 096110 (2021).
 </pre>
 </div>
 
@@ -67,10 +75,14 @@ text
 text
 </div>
 
-<a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
-<div id="NNregression" class="bibtex noshow">
+
+## Reference
+</div>
+<a href="javascript:toggleBibtex('RGDet')" class="textlink"></a>
+<div id="RGDet" class="bibtex noshow">
 <pre>
 1 R.G. Schmitt, and P.B. Butler, “Detonation Properties of Gases at Elevated Initial Pressures,” Combustion Science and Technology 106(1–3), 167–191 (1995).
 2 S. Taileb, J. Melguizo-Gavilanes, and A. Chinnayya, “Influence of the equation of state on the cellular structure of gaseous detonationsat elevated pressures.pdf,” (2020).
 3 C.A. Eckett, J.J. Quirk, and J.E. Shepherd, “The role of unsteadiness in direct initiation of gaseous detonations,” Journal of Fluid Mechanics 421, 147–183 (2000).
-</pre></div>
+</pre>
+</div>
