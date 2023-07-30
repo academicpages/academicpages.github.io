@@ -129,7 +129,7 @@ Zituo Chen, <b>Zifeng Weng</b>, Rémy Mével*<br>
 Isaac Farias, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <i>Shock Waves</i> <br>
 <a href="javascript:toggleBibtex('fariasShockWaves2023')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/fariasShockWaves2023.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/370604150_Discontinuity_in_Cubic_Equation_of_State_Impact_of_Attraction_Term_Mixing_Rule_on_Combustion_Simulation/links/6459b2b84af788735268beeb/Discontinuity-in-Cubic-Equation-of-State-Impact-of-Attraction-Term-Mixing-Rule-on-Combustion-Simulation.pdf?origin=publicationDetail&_sg%5B0%5D=41uePROqNhJJe8ybQnT2T2l37nPX794xlhLDexVakZd5afhb-kRckVv10v0VcIeZ0mGpUbdZMdKP-4kHv-Fvkg.9bhaF0Yni7MAhrArCRg9gXg23CmvCP6ClKHBf2Z2WdZZAt0JG1LhAGFXOica9RoD5ZPszUVIoq-DZvtsy5qPKg&_sg%5B1%5D=NivO5NdAaQM8ry-AIOymaFy2_2xJ5vGmnQfTJOZzcb2lTqVORQCTlp_cfH5jvbxBTuZhnovKMa9o3w9fT8yrEvXyZVLymmbVd91R0UF4gkRx.9bhaF0Yni7MAhrArCRg9gXg23CmvCP6ClKHBf2Z2WdZZAt0JG1LhAGFXOica9RoD5ZPszUVIoq-DZvtsy5qPKg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="fariasShockWaves2023" class="bibtex noshow">
 <pre>
@@ -149,7 +149,7 @@ Isaac Farias, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <b>Zifeng Weng</b>, Rémy Mével*, Nabiha Chaumeix<br>
 <i>Combustion and Flame</i> <br>
 <a href="javascript:toggleBibtex('wengCNF2023a')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/wengCNF2023a.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/368423470_Detonation_in_Ammonia-Oxygen_and_Ammonia-Nitrous_Oxide_Mixtures/links/63e6fd35dea61217579dcde3/Detonation-in-Ammonia-Oxygen-and-Ammonia-Nitrous-Oxide-Mixtures.pdf?origin=publicationDetail&_sg%5B0%5D=IkdxH3Nk25nKTPl4qBMtq4yDjDinNyENa8oB-BDqy7VJpYtinCreMTDerORkO1OENMz-90DRVekWs-syYyMtBw.Guf3ZpzGIMLS9bZ2KP3Wxgm16sK8aDyWTEtoV64sE7ntsC9HB_THnLuBMrZBP3LaU-q22NufQLmroub8OmIyKA&_sg%5B1%5D=vMHY831zhf_3JI28tRhKvg423rjVASqed0DjKRGq1CG0VmbWwlZqQZkhKruZlnKIiPZeXw7OKOZ4W2g5nDeKJOeoGXUC-CRqPttaXGaqivnr.Guf3ZpzGIMLS9bZ2KP3Wxgm16sK8aDyWTEtoV64sE7ntsC9HB_THnLuBMrZBP3LaU-q22NufQLmroub8OmIyKA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="wengCNF2023a" class="bibtex noshow">
 <pre>
@@ -171,7 +171,7 @@ Isaac Farias, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <b>Zifeng Weng</b>, Fernando Veiga-López, Josué Melguizo-Gavilanes, Rémy Mével*<br>
 <i>Combustion and Flame</i> <br>
 <a href="javascript:toggleBibtex('wengCNF2023')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/wengCNF2023.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/364830346_Effect_of_ozone_addition_on_curved_detonations/links/635ce89896e83c26eb6470f9/Effect-of-ozone-addition-on-curved-detonations.pdf?origin=publicationDetail&_sg%5B0%5D=dm56waifSCCrIQvP_y2kh7EwQKvxLc4ugTEawkXUgMa8-VKcDhcreDgK5dk9Y8L5bqPM-bIp9bnxTjDZ3z_weA.DY3ts3ybKu2uAXTzxkIVaCJG7lNeVqlKKdIMXk5qaW9rkDx1EtNlE7xJ6gXt-bp6sa4gaus13iK_4jtNqkDDpw&_sg%5B1%5D=suuwzYOkunx54WW3sfsckDgQpOEknRWeHdE9HkoieOxCOZ-rBHccIONQcF6RRgLVaCOib-MCnH-SkT_SmEwgAA7hnWRltWC8Qnk-ryBcLd8B.DY3ts3ybKu2uAXTzxkIVaCJG7lNeVqlKKdIMXk5qaW9rkDx1EtNlE7xJ6gXt-bp6sa4gaus13iK_4jtNqkDDpw&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="wengCNF2023" class="bibtex noshow">
 <pre>
@@ -193,7 +193,7 @@ Isaac Farias, <b>Zifeng Weng</b>, Rémy Mével*<br>
 Fernando Veiga-López*, <b>Zifeng Weng</b>, Rémy Mével, Josué Melguizo-Gavilanes<br>
 <i>Proceedings of the Combustion Institute</i> <br>
 <a href="javascript:toggleBibtex('veigaPCI2022')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/veigaPCI2022.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Fernando-Veiga-Lopez/publication/365231929_Influence_of_low-temperature_chemistry_on_steady_detonations_with_curvature_losses/links/636b89e0431b1f530083fda4/Influence-of-low-temperature-chemistry-on-steady-detonations-with-curvature-losses.pdf?origin=publicationDetail&_sg%5B0%5D=yG8CgZ3_qr7Hx1daPy04u29aB-iLnn4cglKp3PzXUzZxn9K371CXwwZ4JZVTff1qP14BWV0jhBZt7m0rcjGg0g.Hqal--JMug85gmQq5Wvp6g7a2M0o8qztiyprqAOm60Gqn5hTCGbYnSGr9e0118xLpGkInXPyVAk44-LTDPSSDg&_sg%5B1%5D=ek3KCm8qPpXUZpWR6ZIbuclZsg_f62WitzftoQQAritLVjUASyPaEulaxKDocUDa5esZXHGMjYlda8olg7K2TG_-VSjw2Hs_AKtT9ndDxZYH.Hqal--JMug85gmQq5Wvp6g7a2M0o8qztiyprqAOm60Gqn5hTCGbYnSGr9e0118xLpGkInXPyVAk44-LTDPSSDg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="veigaPCI2022" class="bibtex noshow">
 <pre>
@@ -213,7 +213,7 @@ Fernando Veiga-López*, <b>Zifeng Weng</b>, Rémy Mével, Josué Melguizo-Gavila
 Zongtai Li, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <i>Shock Waves</i> <br>
 <a href="javascript:toggleBibtex('liShockWaves2022')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/liShockWaves2022.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/R-Mevel/publication/364624492_Thermo-chemical_Analyses_of_Steady_Detonation_Wave_using_the_Shock_and_Detonation_Toolbox_in_Cantera/links/6353e1b66e0d367d91b70244/Thermo-chemical-Analyses-of-Steady-Detonation-Wave-using-the-Shock-and-Detonation-Toolbox-in-Cantera.pdf?origin=publicationDetail&_sg%5B0%5D=jp1_6K30xq7yTrMgvRbTyG7CLgKfpSYSzmqrApDM1Um_LWirwQF24MVp2TXTQUMHs9JUSVz-V8dJiT8QyHA9Sw.ukCuNZpcF8stLNprZHF16HppN9iPFZaqZzKakQj74D7Q0SQyDhROzeN4esmYgfvv3s-YzryykB2oJOHNuseyNQ&_sg%5B1%5D=rerYvyED6JUJsBGpn-D04psw8_VkYT6elS5NbzYZIhJZ-3XpE6R9TOu8ht4MbNmlvF_u1Oo28VWV-WMX1OkrnNMc-4Svqzfi9f0eKEhxmlKT.ukCuNZpcF8stLNprZHF16HppN9iPFZaqZzKakQj74D7Q0SQyDhROzeN4esmYgfvv3s-YzryykB2oJOHNuseyNQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="xxx" class="bibtex noshow">
 <pre>
@@ -236,7 +236,7 @@ Zongtai Li, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <b>Zifeng Weng</b>, Rémy Mével*<br>
 <i>Combustion and Flame</i> <br>
 <a href="javascript:toggleBibtex('wengCNF2022')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/wengCNF2022.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/journal/Shock-Waves-1432-2153/publication/367166547_Real_gas_effect_on_ignition_in_ideal_and_non-ideal_reactors/links/63f03d9251d7af0540342c6d/Real-gas-effect-on-ignition-in-ideal-and-non-ideal-reactors.pdf?origin=publicationDetail&_sg%5B0%5D=X5RuElypO_sixSua3Z6OEiR9luzAFxEJdTgMRBQho6xKENOhTJcFWyfBz6LRLay3x9p2uUCACtX6FuRrDBLqYQ.JvTicCagd1tJMQeZe3CjQYmdBKIQ29T5peHnj267_usDSRaJV2G7oTsAqUj_XerdOyl9tTA5OZmGoUQGzG-VZg&_sg%5B1%5D=QsWeON4bmXLW5AnODp_l-r7HkAgddBPcpPc_CAXeSQXVFg6mOUfD_zMfjKZUgPbVyU0eZwOUFvVawTgne-ETdy6hHEEeIMvp2hM5wfPVONJZ.JvTicCagd1tJMQeZe3CjQYmdBKIQ29T5peHnj267_usDSRaJV2G7oTsAqUj_XerdOyl9tTA5OZmGoUQGzG-VZg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="wengCNF2022" class="bibtex noshow">
 <pre>
@@ -258,7 +258,7 @@ Zongtai Li, <b>Zifeng Weng</b>, Rémy Mével*<br>
 <b>Zifeng Weng</b>, Zhaoyuan Huang, Feixue Cai, Jiawei Xu, Rémy Mével*<br>
 <i>Physics of Fluids</i> <br>
 <a href="javascript:toggleBibtex('wengPoF2021')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/wengPoF2021.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/R-Mevel/publication/354370331_Direct_Detonation_Initiation_A_Comparison_between_the_Critical_Curvature_and_Critical_Decay_Rate_Models/links/61433e2b27c6bf1457967df0/Direct-Detonation-Initiation-A-Comparison-between-the-Critical-Curvature-and-Critical-Decay-Rate-Models.pdf?origin=publicationDetail&_sg%5B0%5D=6sMVH4aLSJnr9-J4XHDWy0ufuDRP118-Ct1Kw2Fsxh4J6OqzGssZxN5vC8ZQ3c0VSl679koe3cQQwG0x3_V6vQ.-s0qAkvXIzthcxMuGxHL4I_rOnUh9iiDuanLdblm5SSV4MwuijihHntiiSjyx2YDOh1n7-4TRsWFGH55yGhvzw&_sg%5B1%5D=76nldBiWCBCrCoZfCRdOvA8UEdUk8XFIdMY6UpjIy0ez4SwNMOJZoixtsOA4Qq56ZJ-Iz5EJ6R5CU4nSvmrkWOrwhsRSApgFTqPocoJ6GMhq.-s0qAkvXIzthcxMuGxHL4I_rOnUh9iiDuanLdblm5SSV4MwuijihHntiiSjyx2YDOh1n7-4TRsWFGH55yGhvzw&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="wengPoF2021" class="bibtex noshow">
 <pre>
@@ -282,7 +282,7 @@ Zongtai Li, <b>Zifeng Weng</b>, Rémy Mével*<br>
 Suyang Qin, <b>Zifeng Weng</b>, Zhuoqi Li, Yang Xiang*, Hong Liu<br>
 <i>Aerospace Science and Technology</i> <br>
 <a href="javascript:toggleBibtex('qinAST2021')" class="textlink">[bib]</a>
-<a href="https://wengzf20.github.io/files/qinAST2021.pdf" class="textlink" target="_blank">[pdf]</a>
+<a href="https://www.researchgate.net/profile/Zifeng-Weng/publication/348050576_On_the_controlled_evolution_for_wingtip_vortices_of_a_flapping_wing_model_at_bird_scale/links/5ff27837a6fdccdcb82a7544/On-the-controlled-evolution-for-wingtip-vortices-of-a-flapping-wing-model-at-bird-scale.pdf?origin=publicationDetail&_sg%5B0%5D=R7qiL20jecOSladRdXMKNSXeM13ITQkyH6tZPbicMqsKN90I4H9ZXgEZfxAyLvVfctafzpI3H1EzGA6FouqLkA.7kSUEUVmBw_l5JKcLNbfy8bkjAtbHkdbywkcSKp4WGruvJFh43UF5ihR_3wpzaDGpeWC8lqdkHYalTcsFtSUJg&_sg%5B1%5D=ZAANn7GC8jzTAQXk6T3Bddw7cctlgOAgkxzQa7Ev6f9POy_qVfz9hWI_akd5SU-9FplCc-QrmuDWsaE43LtRakruLbL6QYG1rXNRmGYti9JH.7kSUEUVmBw_l5JKcLNbfy8bkjAtbHkdbywkcSKp4WGruvJFh43UF5ihR_3wpzaDGpeWC8lqdkHYalTcsFtSUJg&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D" class="textlink" target="_blank">[pdf]</a>
 </p>
 <div id="qinAST2021" class="bibtex noshow">
 <pre>
