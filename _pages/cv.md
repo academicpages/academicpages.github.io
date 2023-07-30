@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in University of Edinburgh, UK from 2017 to 2018
+  * major: Artificial Intelligence
+  * Research: End-to-End Machine Learning Positioning System based on Smartphone Multi-sensory; Multimodal Machine Learning
+* B.S. in Hangzhou Dianzi University, Hangzhou, China from 2013 to 2017
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2019: Software Engineer
+  * Microsoft Suzhou
+  * Bing Local Map team
+  * Worked as an NLP engineer, aims to improve Bing Map search quality and increase its daily activity
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2022: Researcher
+  * China Mobile (Suzhou) Software Technology Co.,Ltd
+  * Key work items: MQTT fuzzing test, generative models, time-series models for message queues abnormal detection
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning & Pattern Recognition
+* Natural Language Processing
+  * Pre-train methods(word2vec,bert)
+  * End-to-End neural machine translation
+  * LLM fine-tuning
+* Generative model(like GAN,VAE)
+* Familiar with Python and JAVA
+* Algorithms Design
+* Mobile Sensing System Design
+* Multimodal Machine Learning
 
 Publications
 ======
@@ -42,18 +47,5 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
