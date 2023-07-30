@@ -1,14 +1,7 @@
 ---
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='width: 50%'> <figcaption>    Supercritical Jet</figcaption> </figure> </div>"
+title: "<img src='/images/sootfoil.png' style='width: 75%; display: block; margin: 0 auto;'><center>**Supercritical Jet**</center>"
 collection: portfolio
 ---
-<!-- <div style='display: flex; justify-content: center; text-align: center;'>
-<figure style='width: 80%;'>
-    <img src='/Users/weng/THU/CV/wengzf20.github.io/images/sootfoil.png' style='object-fit: contain;'>
-    <figcaption>Detonation at elevated pressure</figcaption>
-</figure>
-</div> -->
-
 <!-- the styles -->
 <style>
 
