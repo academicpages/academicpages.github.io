@@ -1,6 +1,6 @@
 ---
-title: "<img src='/images/500x300.png' style='height: 10em'><br/> Supercritical laminar flame"
-# excerpt: "To update"
+title: "<img src='/images/ANN.png' style='height: 10em'><br/> AI for Science"
+# excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
 <!-- the styles -->
@@ -33,21 +33,20 @@ function toggleBibtex(articleid) {
 }
 </script>
 
-Laminar flame speed
+Neural network (NN) based regression on real fluid properties
 ======
-Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ application.
+The update of real fluid properties takes about 50% (reactive case) $^{[1]}$ or 75% (non-reactive case) of the computation time in supercritical flow simulation. 
 
-To update
+Fully connected (or multi-Layer perceptron) type NN was trained to predict the thermo-physical properties of pure nitrogen. The network was optimized to 69 parameters and with prediction error lower than 1% for most conditions.
+<img src='/images/ANN_pred.png' style='height: 10em'><br/>
 
-Extrapolation relation
-======
-Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas.<br>
-<a href="javascript:toggleBibtex('Extrapolation')" class="textlink">[ref.]</a>
-<div id="Extrapolation" class="bibtex noshow">
+The trained NN was coupled with an AI-empowered platform, DeepFlame, to accelerate CFD simulation. Several tests were done using nitrogen convection and supercritical nitrogen injection as examples. The NN significantly reduced the computation time by several folds.
+<img src='/images/ANN_N2Convection.png' style='height: 10em'><br/>
+
+
+<a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
+<div id="NNregression" class="bibtex noshow">
 <pre>
-[1] P.D. Ronney, and G.I. Sivashinsky, “A Theoretical Study of Propagation and Extinction of Nonsteady Spherical Flame Fronts,” SIAM J. Appl. Math. 49(4), 1029–1046 (1989).
+1 P.C. Ma, Y. Lv, and M. Ihme, “An entropy-stable hybrid scheme for simulations of transcritical real-fluid flows,” Journal of Computational Physics 340, 330–357 (2017).
+2 W. Mayer, J. Telaar, R. Branam, G. Schneider, and J. Hussong, “Raman Measurements of Cryogenic Injection at Supercritical Pressure,” Heat and Mass Transfer 39(8), 709–719 (2003).
 </pre></div>
-
-Jet ignition
-======
-To update
