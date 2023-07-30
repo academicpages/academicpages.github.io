@@ -33,6 +33,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
+<br>
 ## Neural network (NN) based regression on real fluid properties
 
 The update of real fluid properties takes about 50% (reactive case) $^{[1]}$ or 75% (non-reactive case) of the computation time in supercritical flow simulation. 

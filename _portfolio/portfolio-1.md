@@ -36,6 +36,7 @@ function toggleBibtex(articleid) {
 </script>
 <!-- <img src="https://wengzf20.github.io/images/Cantera.png" style="height: 2em;vertical-align: middle;"> -->
 
+<br>
 The research on detonation can be seperated into several regimes using the pressure and density diagram of Schmitt and Bulter $^{[1]}$. Gas phase detonation focus mainly on low pressure regime with perfect gas assumption while solid explosive or energetic materials lie on high pressure regime. Recently, the research on two-phase RDE partly falls in the regime of liquid phase detonation. However, the regime of gas with elevated pressure seems rarely explored in detonation research. It has been proved that the perfect gas based model fails to capture the detonation speed and cellular structure regularity at elevated pressure $^{[1-2]}$. 
 
 <figure>

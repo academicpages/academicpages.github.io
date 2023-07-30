@@ -33,6 +33,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
+<br>
 ## Pressure-based supercritical flow solver
 
 Injection, mixing and combustion processes in rocket engines typically take place at trans- or super-critical conditions. Liquified fuel and oxidizer were injected at cryogenic and high pressure state. Accurate descriptions of real-fluid properties are essential for numerical simulation. A pressure-based solver was developed on open-source platform, DeepFlame $^{[1]}$, by connecting OpenFOAM and Cantera. The real fluid model in Cantera, including Peng-Robinson equation of state and corresponding thermodynamic functions, transport properties, was used to replace the ideal gas assumption in OpenFOAM. The pressure equation was revised according to Jarczyk and Pfitzner's work $^{[2]}$. The performance of the solver was demonstrated using nitrogen convection and injection cases $^{[2-3]}$.

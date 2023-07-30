@@ -33,6 +33,7 @@ function toggleBibtex(articleid) {
 }
 </script>
 
+<br>
 ## 1. Laminar flame speed
 Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ application.
 
