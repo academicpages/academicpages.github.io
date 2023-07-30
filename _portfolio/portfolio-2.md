@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/500x300.png' style='height: 10em'><br/> Supercritical laminar flame"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <img src='/images/500x300.png' style='height: 10em'> </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figcaption>Supercritical laminar flame</figcaption> <figure style='text-align: center;'> <img src='/images/500x300.png' style='height: 10em'> </figure> </div>"
 # excerpt: "To update"
 collection: portfolio
 ---
@@ -36,12 +36,16 @@ function toggleBibtex(articleid) {
 
 <br>
 ## 1. Laminar flame speed
+<div style="text-align: justify;">
 Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ application.
 
 To update
+</div>
 
 ## 2. Extrapolation relation
-Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas.<br>
+<div style="text-align: justify;">
+Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas.
+</div><br>
 <a href="javascript:toggleBibtex('Extrapolation')" class="textlink">[ref.]</a>
 <div id="Extrapolation" class="bibtex noshow">
 <pre>
@@ -49,4 +53,6 @@ Relation between stretch rate and flame speed was derived via asymptotic analysi
 </pre></div>
 
 ## 3. Jet ignition
+<div style="text-align: justify;">
 To update
+</div>

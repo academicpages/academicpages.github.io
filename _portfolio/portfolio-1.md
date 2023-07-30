@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/sootfoil.png' style='height: 10em'><br/> Detonation at elevated pressure"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <img src='/images/sootfoil.png' style='height: 10em'> <br/> Detonation at elevated pressure </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='height: 10em'> <figcaption>Detonation at elevated pressure</figcaption> </figure> </div>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
@@ -37,7 +37,9 @@ function toggleBibtex(articleid) {
 <!-- <img src="https://wengzf20.github.io/images/Cantera.png" style="height: 2em;vertical-align: middle;"> -->
 
 <br>
+<div style="text-align: justify;">
 The research on detonation can be seperated into several regimes using the pressure and density diagram of Schmitt and Bulter $^{[1]}$. Gas phase detonation focus mainly on low pressure regime with perfect gas assumption while solid explosive or energetic materials lie on high pressure regime. Recently, the research on two-phase RDE partly falls in the regime of liquid phase detonation. However, the regime of gas with elevated pressure seems rarely explored in detonation research. It has been proved that the perfect gas based model fails to capture the detonation speed and cellular structure regularity at elevated pressure $^{[1-2]}$. 
+</div>
 
 <figure>
   <img src='/images/detonationregime.png' style='height: 10em; object-fit: contain;'>
@@ -45,10 +47,11 @@ The research on detonation can be seperated into several regimes using the press
 </figure>
 
 ## 1. Detonation initiation
-
+<div style="text-align: justify;">
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
+</div>
 
-<a href="javascript:toggleBibtex('RGDDI')" class="textlink">[Relevant papers:]</a>
+<a href="javascript:toggleBibtex('RGDDI')" class="textlink">Relevant papers:</a>
 <div id="RGDDI" class="bibtex">
 <pre>
 1 R.G. Schmitt, and P.B. Butler, “Detonation Properties of Gases at Elevated Initial Pressures,” Combustion Science and Technology 106(1–3), 167–191 (1995).
@@ -58,10 +61,14 @@ A critical decay rate model was derived to study the direct detonation initiatio
 </div>
 
 ## 2. Detonation structure
-
+<div style="text-align: justify;">
+text
+</div>
 
 ## 3. Detonation stability
-
+<div style="text-align: justify;">
+text
+</div>
 
 <a href="javascript:toggleBibtex('NNregression')" class="textlink">[ref.]</a>
 <div id="NNregression" class="bibtex noshow">
