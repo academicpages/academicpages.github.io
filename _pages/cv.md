@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% [include base_path](https://peterweijust.github.io/s/) %}
+{% include base_path %}
 
 Education
 ======
