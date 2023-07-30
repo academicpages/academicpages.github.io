@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/sootfoil.png' style='height: 10em'><br/> Detonation at elevated pressure"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='height: 10em'> <figcaption>Detonation at elevated pressure</figcaption> </figure> </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='height: 10em; object-fit: contain;'> <figcaption>Detonation at elevated pressure</figcaption> </figure> </div>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---

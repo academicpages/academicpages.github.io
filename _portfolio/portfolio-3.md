@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/rho_field.png' style='height: 10em'><br/> Supercritical Jet"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/rho_field.png' style='height: 10em'> <figcaption>Supercritical Jet</figcaption> </figure> </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/rho_field.png' style='height: 10em; object-fit: contain;'> <figcaption>Supercritical Jet</figcaption> </figure> </div>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
@@ -42,23 +42,23 @@ Injection, mixing and combustion processes in rocket engines typically take plac
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <figure style="text-align: center;">
+  <figure>
     <img src='/images/N2Convection2.png' style='height: 10em; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller;'>Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$.</figcaption>
+    <figcaption style='color: gray; font-size: smaller; text-align: center;'>Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$.</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <figure style="text-align: center;">
+  <figure>
     <img src='/images/N2Convection1.png' style='height: 10em; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller;'>Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$.</figcaption>
+    <figcaption style='color: gray; font-size: smaller; text-align: center;'>Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$.</figcaption>
   </figure>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <figure style="text-align: center;">
+  <figure>
     <img src='/images/rho_field.png' style='height: 10em; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller;'>LES simulation for case 4 in Mayer's experiment $^{[4]}$.</figcaption>
+    <figcaption style='color: gray; font-size: smaller; text-align: center;'>LES simulation for case 4 in Mayer's experiment $^{[4]}$.</figcaption>
   </figure>
 </div>
 
