@@ -1,0 +1,48 @@
+---
+---
+
+$default-width: 50%;
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* force scrollbar, prevents initial gap */
+html {
+  overflow-y: scroll;
+}
+
+.image-wrapper,
+.gallery-sizer {
+  width: $default-width;
+}
+
+.image-gallery {
+
+  display: block;
+
+  .image-wrapper {
+    float: left;
+    padding: 3px;
+
+    // hack required if no padding
+    .image {
+      width: 100.1%;
+      width: calc( 100% + 1px );
+      height: 100%;
+    }
+  }
+
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}
+
+.caption {
+  position: static;
+  color: #AAA;
+}

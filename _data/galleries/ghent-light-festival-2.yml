@@ -1,0 +1,44 @@
+picture_path: ghent-light-festival/part2
+preview:
+  filename: Lichtfestival-0185
+  original: Lichtfestival-0185-6000x4000.jpg
+  sizes:
+  - Lichtfestival-0185-2121x1414.jpg
+  - Lichtfestival-0185-2999x1999.jpg
+  - Lichtfestival-0185-4242x2828.jpg
+  thumbnail: Lichtfestival-0185-thumbnail.jpg
+pictures:
+- filename: Lichtfestival-0185
+  original: Lichtfestival-0185-6000x4000.jpg
+  sizes:
+  - Lichtfestival-0185-2121x1414.jpg
+  - Lichtfestival-0185-2999x1999.jpg
+  - Lichtfestival-0185-4242x2828.jpg
+  thumbnail: Lichtfestival-0185-thumbnail.jpg
+- filename: Lichtfestival-0176
+  original: Lichtfestival-0176-6000x4000.jpg
+  sizes:
+  - Lichtfestival-0176-2121x1414.jpg
+  - Lichtfestival-0176-2999x1999.jpg
+  - Lichtfestival-0176-4242x2828.jpg
+  thumbnail: Lichtfestival-0176-thumbnail.jpg
+  title: Reep
+  caption: Pond Skaters by Lucifer Art Project & Spacemakers / with Lokeren and Avelgem youth clubs
+- filename: Lichtfestival-0113
+  original: Lichtfestival-0113-6000x4000.jpg
+  sizes:
+  - Lichtfestival-0113-2121x1414.jpg
+  - Lichtfestival-0113-2999x1999.jpg
+  - Lichtfestival-0113-4242x2828.jpg
+  thumbnail: Lichtfestival-0113-thumbnail.jpg
+  title: Baudelohof, Rembert Dodoensdreef
+  caption: Horizontal Interference by Katarzyna Malejka and Joachim Slugocki
+- filename: Lichtfestival-0191
+  original: Lichtfestival-0191-6000x4000.jpg
+  sizes:
+  - Lichtfestival-0191-2121x1414.jpg
+  - Lichtfestival-0191-2999x1999.jpg
+  - Lichtfestival-0191-4242x2828.jpg
+  thumbnail: Lichtfestival-0191-thumbnail.jpg
+  title: Muinkkaai (Het Technicum)
+  caption: Let's get visual by MSM
