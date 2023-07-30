@@ -45,14 +45,14 @@ Detonation initiation
 ======
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
 
-<!-- <a href="javascript:toggleBibtex('RGDDI')" class="textlink">[Relevant papers:]</a> -->
-<!-- <div id="RGDDI" class="bibtex noshow"> -->
+<a href="javascript:toggleBibtex('RGDDI')" class="textlink">[Relevant papers:]</a>
+<div id="RGDDI" class="bibtex">
 <pre>
 1 R.G. Schmitt, and P.B. Butler, “Detonation Properties of Gases at Elevated Initial Pressures,” Combustion Science and Technology 106(1–3), 167–191 (1995).
 2 S. Taileb, J. Melguizo-Gavilanes, and A. Chinnayya, “Influence of the equation of state on the cellular structure of gaseous detonationsat elevated pressures.pdf,” (2020).
 3 C.A. Eckett, J.J. Quirk, and J.E. Shepherd, “The role of unsteadiness in direct initiation of gaseous detonations,” Journal of Fluid Mechanics 421, 147–183 (2000).
 </pre>
-<!-- </div> -->
+</div>
 
 Detonation structure
 ======
