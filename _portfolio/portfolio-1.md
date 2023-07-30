@@ -1,7 +1,5 @@
 ---
-# title: "<img src='/images/sootfoil.png' style='height: 10em'><br/> Detonation at elevated pressure"
-title: "# Detonation at elevated pressure <br> <div style='display: flex; justify-content: center; text-align: center;'><figure style='width: 80%;'><img src='images/sootfoil.png' style='object-fit: contain;'></figure></div>"
-# excerpt: "Short description of portfolio item number"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/sootfoil.png' style='width: 50%'> <figcaption>    Supercritical Jet</figcaption> </figure> </div>"
 collection: portfolio
 ---
 <!-- <div style='display: flex; justify-content: center; text-align: center;'>

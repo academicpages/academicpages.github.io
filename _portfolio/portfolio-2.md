@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/500x300.png' style='height: 10em'><br/> Supercritical laminar flame"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figcaption>Supercritical laminar flame</figcaption> <figure style='text-align: center;'> <img src='/images/500x300.png' style='height: 10em; object-fit: contain;'> </figure> </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figcaption>Supercritical laminar flame    </figcaption> <figure style='text-align: center;'> <img src='/images/500x300.png' style='width: 50%;'> </figure> </div>"
 # excerpt: "To update"
 collection: portfolio
 ---

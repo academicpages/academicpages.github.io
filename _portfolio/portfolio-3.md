@@ -1,6 +1,6 @@
 ---
 # title: "<img src='/images/rho_field.png' style='height: 10em'><br/> Supercritical Jet"
-title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/rho_field.png' style='height: 10em; object-fit: contain;'> <figcaption>Supercritical Jet</figcaption> </figure> </div>"
+title: "<div style='display: flex; justify-content: center; align-items: center;'> <figure style='text-align: center;'> <img src='/images/rho_field.png' style='width: 50%;'> <figcaption>    Supercritical Jet</figcaption> </figure> </div>"
 # excerpt: "Short description of portfolio item number"
 collection: portfolio
 ---
