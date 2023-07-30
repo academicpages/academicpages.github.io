@@ -43,23 +43,20 @@ The research on detonation can be seperated into several regimes using the press
   <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
 </figure>
 
-<div style="text-align: center;">
-  <figure>
-    <img src="/images/detonationregime.png" style="width: 60%; display: block; margin: 0 auto;">
-    <figcaption style="color: gray; font-size: smaller;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
-  </figure>
-</div>
-
-<center>
-<figure>
-  <img src='/images/detonationregime.png' style='width: 60%;'>
-  <figcaption style="color: gray; font-size: smaller;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
-</figure>
-</center>
 
 ## 1. Detonation initiation
 <div style="text-align: justify;">
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
+
+<figure>
+  <img src="/images/detonationregime.png" style="width: 60%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/detonationregime.png" style="width: 60%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$. Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
+</figure>
 
 <figure>
   <img src="/images/RGeffect_Planar.png" style="width: 60%; display: block; margin: 0 auto;">
