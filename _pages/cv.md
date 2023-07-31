@@ -27,7 +27,13 @@ Work experience
 * Aug 2022: Researcher
   * China Mobile (Suzhou) Software Technology Co.,Ltd
   * Key work items: MQTT fuzzing test, generative models, time-series models for message queues abnormal detection
-  
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Machine Learning & Pattern Recognition
