@@ -15,6 +15,8 @@ Education
   * major: Artificial Intelligence
   * Research: End-to-End Machine Learning Positioning System based on Smartphone Multi-sensory; Multimodal Machine Learning
 * B.S. in Hangzhou Dianzi University, Hangzhou, China from 2013 to 2017
+  * major: Computer Science and Technology
+  * Research: Face Gender Recognition using Support Vector Machine(SVM) classifier 
 
 
 Work experience
