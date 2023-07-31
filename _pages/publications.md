@@ -66,10 +66,10 @@ author_profile: true
 
 <br>
 <br>
-<h1>Workshops & Academics (4)</h1>
+<h1>Workshops & Lectures (5)</h1>
 ------
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'workshop_academic' %}
+  {% if post.pubtype == 'workshop_lecture' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
