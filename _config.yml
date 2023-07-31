@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 locale                   : "en-US"
 title                    : "swap-stack"
 title_separator          : "-"
@@ -230,6 +231,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
