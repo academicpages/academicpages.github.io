@@ -3,7 +3,7 @@
 title: "Tutorial"
 permalink: /tutorial/
 author_profile: true
-title: "Tutorial: Explainable Information Retrieval"
+title: "Tutorial at SIGIR 2023: Explainable Information Retrieval"
 event: SIGIR 2023
 event_url: "https://sigir.org/sigir2023/"
 location: "Taipei(SIGIR)"
