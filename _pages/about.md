@@ -28,6 +28,10 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Jul. 2023: Our work got accepted at the International Journal of Computer Vision (IF=19.5)!
+ - Jul. 2023: Attending the ADM+S Symposium on AI in News and Media in Sydney!
+ - Jun. 2023: Going to serve as an emergency reviewer for NeurIPS2023!
+ - May. 2023: Officially graduated from the University of Melbourne PhD program.
  - Apr. 2023: I have been selected for the DAAD AINet Fellowship in Germany!
  - Apr. 2023: The final version of my thesis is online on Minerva!
  - Mar. 2023: New preprint on unlearnable examples is out!
