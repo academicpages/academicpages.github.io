@@ -9,12 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Work experience
 ======
-* Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
-* Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
-* Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology University, 2012 - 2016.
+* CSIRO, Australian e-Health Research Centre, Brisbane
+  * Postdoctoral Research Fellow
+  * Mar 2023 – Current
+    
+* Microsoft, Beijing, STCA group
+  * Research Intern
+  * May 2022 - Nov 2022
   
+* The University of Queensland
+  * Casual Research Assistant
+  * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
+  * Apr 2019 - July 2019
   
 Awards
 ======
@@ -30,7 +38,12 @@ Awards
 * [ADCS 2022](http://adcs-conference.org/2022/index.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Award </i> ]
   * Robustness of Neural Rankers to Typos: A Comparative Study
 
-
+Education
+======
+* Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
+* Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
+* Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology University, 2012 - 2016.
+  
 Teaching
 ======
 <!-- 
@@ -43,22 +56,10 @@ Teaching
   * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments and exams marking.
   * Aug 2018 - Current
 
-
-Work experience
-======
-* Microsoft, Beijing, STCA group
-  * Research Intern
-  * May 2022 - Nov 2022
-  
-* The University of Queensland
-  * Casual Research Assistant
-  * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
-  * Apr 2019 - July 2019
-
   
 Service
 ======
-* PC member: SIGIR2023, SIGIR2022, SIGIR2021, ADCS2021, ADCS2022, TheWebConf2023, TOIS
+* PC member: SIGIR-AP2023, GenIR2023, ReNeuIR2023, SIGIR2023, SIGIR2022, SIGIR2021, ADCS2021, ADCS2022, TheWebConf2023, TOIS, ACM Computing Surveys
 * Publicity Chair of [CIKM2021](http://www.cikm2021.org/committee)
 
 
