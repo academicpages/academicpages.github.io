@@ -1,0 +1,63 @@
+---
+title: "Álgebra Linear - DCETYYYY"
+collection: teaching
+type: "Cursos de Física e Matemática"
+permalink: /teaching/linearalgebra
+venue: "DCET, UESB"
+date: 2023-08-01
+location: "Vitória da Conquista-Ba, Brasil"
+---
+
+Semestre 2023.2
+
+Ementa
+======
+Logaritmos. Funções circulares. Geometria Euclidiana: área e volumes. Geometria Analítica: Distância e área. Álgebra Linear: Matrizes, Determinantes, Sistema Lineares.  
+
+Avaliação
+======
+Serão consideradas para a avaliação uma prova escrita para cada uma das três unidades. A média final será a média aritmética simples das notas de cada unidade. 
+
+Bibliografia
+======
+1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
+1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Conjuntos e Funções, Vol 1. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol 2. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Trigonometria, Vol 3. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Sequências, Matrizes, Determinantes e Sistemas Lineares. Vol 4. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Analítica, Vol 7. Editora Atual, 1995.
+1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Plana, Vol 9. Editora Atual, 1995.
+
+
+Plano de Curso
+======
+Disponível no sistema SAGRES.
+
+Datas das Provas
+======
+* Primeira prova: ~~14/03/2023~~10/04/2023
+* Segunda prova:  ~~25/04/2023~~ 29/05/2023
+* Terceira prova: 12/06/2023
+* Prova Final : 16/06/2023
+
+Listas de Exercícios 
+======
+1. Fazer os exercícios do capítulo V do livro do Iezzi, volume 1.
+1. [Lista 01 ( complementar à anterior)](https://github.com/mbortoloti/mbortoloti.github.io/blob/master/files/matbas/lista01.pdf)
+1. Estudar e fazer os exercícios dos capítulos II e III do livro do Iezzi, volume 1. 
+1. Estudar e fazer os exercícios (múltiplos de 3) dos capítulos I e II do livro do Iezzi, volume 2
+1. Estudar e fazer os exercícios (múltiplos de 3) dos capítulos III, IV e V do livro do Iezzi, volume 2
+1. Estudar e fazer os exercícios (múltiplos de 3) do capítulos I e II do livro do Iezzi, volume 3
+1. Estudar e fazer os exercícios (múltiplos de 3) das seções II e III do capítulo XIX do livro do Iezzi, volume 9
+1. Estudar e fazer os exercícios (múltiplos de 3) das seções IV e V do capítulo XIX do livro do Iezzi, volume 9
+1. Estudar e fazer os exercícios (múltiplos de 3) das seções XI e XIII capítulo VIII do livro do Iezzi, volume 10
+1. Estudar e fazer os exercícios (múltiplos de 3) da seção III do capítulo IX do livro do Iezzi, volume 10
+2. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo X do livro do Iezzi, volume 10
+3. Estudar e fazer os exercícios (múltiplos de 3) da seção IV do capítulo XI do livro do Iezzi, volume 10
+4. Estudar e fazer os exercícios (múltiplos de 3) da seção II do capítulo XII do livro do Iezzi, volume 10
+5. Fazer os exercícios das seções 1.2 e 1.3 do livro do David Poole de Álgebra Linear
+6. Fazer os exercícios 1-8, 9-14, 23-26 das seção 2.3 do livro do David Poole de Álgebra Linear
+7.  Fazer os exercícios 1-17 da seção 3.2 do livro do David Poole de Álgebra Linear
+8. Fazer os exercícios 1-12 da seção 3.4 do livro do David Poole de Álgebra Linear
+
