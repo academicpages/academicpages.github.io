@@ -12,7 +12,7 @@ Semestre 2023.2
 
 Ementa
 ======
-Logaritmos. Funções circulares. Geometria Euclidiana: área e volumes. Geometria Analítica: Distância e área. Álgebra Linear: Matrizes, Determinantes, Sistema Lineares.  
+Inserir a ementa aqui
 
 Avaliação
 ======
@@ -21,13 +21,13 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 Bibliografia
 ======
 1. Boldrini, J. L., Costa, S. I. R, Figueiredo, V. L., Wetzler, H. G., Álgebra Linear, 3a Edição, Editora Harbra, 1986.
-1. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Conjuntos e Funções, Vol 1. Editora Atual, 1995.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol 2. Editora Atual, 1995.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Trigonometria, Vol 3. Editora Atual, 1995.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Sequências, Matrizes, Determinantes e Sistemas Lineares. Vol 4. Editora Atual, 1995.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Analítica, Vol 7. Editora Atual, 1995.
-1. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Plana, Vol 9. Editora Atual, 1995.
+2. Santos, N. M dos, Vetores e Matrizes, Elementos de Matemática, IMPA, 1972.
+3. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Conjuntos e Funções, Vol 1. Editora Atual, 1995.
+4. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Logaritmos, Vol 2. Editora Atual, 1995.
+5. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Trigonometria, Vol 3. Editora Atual, 1995.
+6. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Sequências, Matrizes, Determinantes e Sistemas Lineares. Vol 4. Editora Atual, 1995.
+7. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Analítica, Vol 7. Editora Atual, 1995.
+8. Iezzi, G., Dolce, O. Murakami, C., Fundamentos de Matemática Elementar: Geometria Plana, Vol 9. Editora Atual, 1995.
 
 
 Plano de Curso
