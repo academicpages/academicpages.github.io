@@ -7,7 +7,7 @@ venue: "DCET, UESB"
 date: 2023-08-01
 location: "Vitória da Conquista-Ba, Brasil"
 ---
-
+ 
 Semestre 2023.2
 
 Ementa
