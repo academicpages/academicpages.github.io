@@ -13,10 +13,12 @@ Work experience
 ======
 * CSIRO, Australian e-Health Research Centre, Brisbane
   * Postdoctoral Research Fellow
+  * Search and Natural Language Process for Precision Medicine.
   * Mar 2023 – Current
     
 * Microsoft, Beijing, STCA group
   * Research Intern
+  * Developing multimodal and multilingual entity retrieval models.
   * May 2022 - Nov 2022
   
 * The University of Queensland
@@ -41,8 +43,10 @@ Awards
 Education
 ======
 * Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
+  * Thesis topic: Teaching Pre-trained Language Models to Rank Effectively, Efficiently and Robustly
 * Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
-* Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology University, 2012 - 2016.
+  * GPA: 6.2/7 
+* Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology, 2012 - 2016.
   
 Teaching
 ======
