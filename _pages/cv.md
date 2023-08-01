@@ -17,8 +17,9 @@ Education
 
 Professional Development
 ======
-* TEACCH Program, University of North Carolina, Chapel Hill, NC, 2016
-* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, 2013
+* Research Data Management Librarian Academy (RDMLA), May 2023
+* TEACCH Program, University of North Carolina, Chapel Hill, NC, August 2016
+* Clinical Pastoral Education, Wake Forest University Baptist Medical Center, May 2013
 
 Work experience
 ======
