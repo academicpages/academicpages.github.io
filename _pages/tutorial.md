@@ -91,8 +91,13 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
 ## Notebooks
 
 1. [Listwise explanation](https://www.dropbox.com/scl/fi/58i4p3q39yr4l1z5xrds1/demo_1_intent_rerank.html?rlkey=i4q2103pvvcqr2yinjs8lb863&dl=0)
-2. [Pointwise explanation](https://www.dropbox.com/scl/fi/wyvea8721ns6ag64k4s10/demo_2_exs_rerank.html?rlkey=mhlrq0rwnsh8y9v7g733voni3&dl=0)
-3. [Axiomatic result reranking](https://www.dropbox.com/scl/fi/lyb9l4ufnvlq9pfuhc6fk/demo_3_axiomatic.html?rlkey=qbaooi04fgyg1dd3ixx6ax4hv&dl=0)
+<details>
+  <summary><span style="color:Maroon;"> Elevator pitch!</span></summary>
+  <span class="abstract-text" style="font-size:.90em; color:Maroon; text-align: justify">You need to install pyserini and https://github.com/GarfieldLyu/RankingExplanation. </span>
+  </details>
+
+3. [Pointwise explanation](https://www.dropbox.com/scl/fi/wyvea8721ns6ag64k4s10/demo_2_exs_rerank.html?rlkey=mhlrq0rwnsh8y9v7g733voni3&dl=0)
+4. [Axiomatic result reranking](https://www.dropbox.com/scl/fi/lyb9l4ufnvlq9pfuhc6fk/demo_3_axiomatic.html?rlkey=qbaooi04fgyg1dd3ixx6ax4hv&dl=0)
 
 ---
 ## References
