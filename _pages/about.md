@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Southern University of Science an Technology](https://www.sustech.edu.cn/en/). My research interest includes algebra and geometry. You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). [Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+I'm a third year undergraduate student from [Southern University of Science an Technology](https://www.sustech.edu.cn/en/). My research interest includes algebra and geometry. You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). [Email](mailto:12110610@mail.sustech.edu.cn) / [Github](https://feihualuoye.github.io/) / [Wechat](../images/wechat.jpg)
 
 A data-driven personal website
 ======
