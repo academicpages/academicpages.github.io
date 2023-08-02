@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "Shenzhen-China"
-title                    : "Rongda Wang"
+title                    : "Truth"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Rongda Wang"
 description              : &description "personal description"
 url                      : https://feihualuoye.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &Like_Algebra
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0009-0008-3492-9447"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@Like_Algebra"
