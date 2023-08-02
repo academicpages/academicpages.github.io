@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Di Ni"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Princeton Universityr"
-  location         : "Fwing Engineering Quadrangle, Princeton, NJ 08540"
+  bio              : "Postdoctoral Researcher at Princeton University"
+  location         : "Princeton, NJ 08540"
   employer         :
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=r9lAqFUAAAAJ&hl=en"
+  email            : "dn8856@princeton.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
