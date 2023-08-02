@@ -78,17 +78,23 @@ This half-day tutorial is divided into two parts of 90 minutes each -- In the fi
  1. **[Full Slides](https://shorturl.at/fhrDH)**. 
  2. **[Notions of Explainable IR](https://shorturl.at/apHJ8)** by [Avishek Anand](http://www.avishekanand.com). 
  3. **[Intrinsic Methods for ExIR](https://shorturl.at/dnrGW)** by [Avishek Anand](http://www.avishekanand.com). 
- 4. **[Probing transformer models](https://shorturl.at/dnrGW)** by [Avishek Anand](http://www.avishekanand.com). 
+ 4. **[Probing transformer models](https://shorturl.at/dnrGW)** by [Avishek Anand](http://www.avishekanand.com).
+ 
+ <br>    
 
-<br>    
-
-5. **[Posthoc approaches in ExIR](https://shorturl.at/pyBM1)** by [Procheta Sen](https://procheta.github.io/sprocheta/). 
-6. **[Axiomatic IR for Interpretability](https://shorturl.at/hzKR8)** by [Sourav Saha](https://souravsaha.github.io). 
-7. **[Outlook and Conclusion](https://shorturl.at/biK03)** by [Avishek Anand](https://www.avishekanand.com). 
-
+ 5. **[Posthoc approaches in ExIR](https://shorturl.at/pyBM1)** by [Procheta Sen](https://procheta.github.io/sprocheta/).
+ 6. **[Axiomatic IR for Interpretability](https://shorturl.at/hzKR8)** by [Sourav Saha](https://souravsaha.github.io).
+ 7. **[Outlook and Conclusion](https://shorturl.at/biK03)** by [Avishek Anand](https://www.avishekanand.com).
 
 <br>
 
+## Notebooks
+
+1. Demo1 : Intent rerank [link](https://www.dropbox.com/scl/fi/58i4p3q39yr4l1z5xrds1/demo_1_intent_rerank.html?rlkey=i4q2103pvvcqr2yinjs8lb863&dl=0)
+2. Demo2 : Exs rerank [link](https://www.dropbox.com/scl/fi/wyvea8721ns6ag64k4s10/demo_2_exs_rerank.html?rlkey=mhlrq0rwnsh8y9v7g733voni3&dl=0)
+3. Demo3 : Axiomatic [link](https://www.dropbox.com/scl/fi/lyb9l4ufnvlq9pfuhc6fk/demo_3_axiomatic.html?rlkey=qbaooi04fgyg1dd3ixx6ax4hv&dl=0)
+
+<br>
 
 ---
 ## References
