@@ -3,7 +3,7 @@ name: Generate Publication Markdown
 on:
   push:
     branches:
-      - master  # Change this to the branch you want to trigger the action on
+      - main  # Change this to the branch you want to trigger the action on
     paths:
       - 'generate_md_file.py'
 
@@ -19,7 +19,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.10'  # Change to your desired Python version
+          python-version: '3.x'  # Change to your desired Python version
 
       - name: Install Biopython
         run: pip install biopython
@@ -28,6 +28,12 @@ jobs:
         run: pip install pandas
 
       - name: Generate MD file
-        run: python generate_md_file.py
-        working-directory: ./  # The directory where generate_md_file.py is located
+        run: |
+          # Set the GitHub token from the repository secret
+          export GITHUB_TOKEN="${{ secrets.MY_GITHUB_TOKEN_X1 }}"
 
+          # Run the Python script with the token as an environment variable
+          python generate_md_file.py
+        working-directory: ./  # The directory where generate_md_file.py is located
+        env:
+          YOUR_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_X1 }}  # Replace with your secret name
