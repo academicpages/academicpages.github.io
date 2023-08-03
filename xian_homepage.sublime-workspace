@@ -1,0 +1,651 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nM",
+				"nMol"
+			],
+			[
+				"dirMd",
+				"dirMdps"
+			],
+			[
+				"LP",
+				"LPWI"
+			],
+			[
+				"po",
+				"pol"
+			],
+			[
+				"z",
+				"zPol"
+			],
+			[
+				"y",
+				"yPol"
+			],
+			[
+				"dir",
+				"dirTops"
+			],
+			[
+				"p",
+				"pol"
+			],
+			[
+				"bon",
+				"bondL_"
+			],
+			[
+				"phi",
+				"phiAnode_"
+			],
+			[
+				"time",
+				"timeCheckCurrent_"
+			],
+			[
+				"press",
+				"pressures"
+			],
+			[
+				"new",
+				"newBonds"
+			],
+			[
+				"bo",
+				"bonds"
+			],
+			[
+				"gas",
+				"gasIn"
+			],
+			[
+				"vec",
+				"vecij"
+			],
+			[
+				"me",
+				"methodMin"
+			],
+			[
+				"sys",
+				"sysparams"
+			],
+			[
+				"tot",
+				"totE"
+			],
+			[
+				"dist",
+				"distIJ"
+			],
+			[
+				"n1G",
+				"n1Gas-1"
+			],
+			[
+				"mc",
+				"mcID"
+			],
+			[
+				"na",
+				"nAtm1Gas"
+			],
+			[
+				"nA",
+				"nAtmPol"
+			],
+			[
+				"lin",
+				"linewidth"
+			],
+			[
+				"conc",
+				"concs"
+			],
+			[
+				"nam",
+				"nameRoot"
+			],
+			[
+				"te",
+				"temperature"
+			],
+			[
+				"tem",
+				"temperatures"
+			],
+			[
+				"tempe",
+				"temperature"
+			],
+			[
+				"atom",
+				"atoms"
+			],
+			[
+				"left",
+				"leftBotLinker"
+			],
+			[
+				"dat",
+				"datLine"
+			],
+			[
+				"counter_",
+				"counter_atm_pdb"
+			],
+			[
+				"pa",
+				"pairs"
+			],
+			[
+				"dih",
+				"dihedral"
+			],
+			[
+				"ang",
+				"angles"
+			],
+			[
+				"an",
+				"angles"
+			],
+			[
+				"funtype",
+				"funtypeBond"
+			],
+			[
+				"at",
+				"atoms"
+			],
+			[
+				"bond",
+				"bond_list"
+			],
+			[
+				"inF",
+				"inFile"
+			],
+			[
+				"bX",
+				"bXnm"
+			],
+			[
+				"ao",
+				"aodirect"
+			],
+			[
+				"box",
+				"boxCenter"
+			],
+			[
+				"all",
+				"allAtm"
+			],
+			[
+				"b",
+				"bBidentFSI"
+			],
+			[
+				"bB",
+				"bBidentES1"
+			],
+			[
+				"of",
+				"ofile"
+			],
+			[
+				"lis",
+				"listResID"
+			],
+			[
+				"bY",
+				"bYnm"
+			],
+			[
+				"idx",
+				"idxAtmCenter"
+			],
+			[
+				"li",
+				"li1"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_pages/about.md",
+			"settings":
+			{
+				"buffer_size": 625,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"git: branch"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 265.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"Package Control: Install Package",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/xianshine.github.io",
+		"/G/xianshine.github.io/_pages",
+		"/G/xianshine.github.io/markdown_generator"
+	],
+	"file_history":
+	[
+		"/D/files/vpns/ShadowsocksR/pac.txt",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal.py",
+		"/D/clouddrives/wechat/WeChat Files/xianshine/FileStorage/File/2023-07/mac.txt",
+		"/D/clouddrives/xk/one2one/xinqiang/IL22/in/tops/ff.itp",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/in/in.lmp",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal_final_an.py",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Angle_dumbbell.py",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/in/Stockmayer.lmp",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/in/PARM.lammps",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal_final.py",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal_final2.py",
+		"/D/clouddrives/xk/one2one/xinqiang/IL22/in/tops/pyr14.itp",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/email_reply.txt",
+		"/D/files/developing/CGDendrite3D/simulation/System.cpp",
+		"/D/files/developing/CGDendrite3D/simulation/RwSystem.h",
+		"/D/files/developing/CGDendrite3D/move/BeadMove.cpp",
+		"/D/files/developing/CGDendrite3D/simulation/RwSystem.cpp",
+		"/D/clouddrives/KongLab/tools/startingInLab/00_readme.txt",
+		"/D/clouddrives/xk/发票/缺失.txt",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/DipolarSolvent/文献数据提取/Na-Na.txt",
+		"/D/clouddrives/xk/one2one/Xiupeng/Zhang/in/codes/pullSingleChain.sh",
+		"/D/files/wanghui/in/codes/pullSingleChain.sh",
+		"/D/clouddrives/wechat/WeChat Files/xianshine/FileStorage/File/2023-07/办公室PVE集群.txt",
+		"/D/files/chu/info.txt",
+		"/D/files/chu/in/mdps/md.mdp",
+		"/D/files/chu/in/codes/prepareSystem.sh",
+		"/D/files/chu/in/mdps/eq.mdp",
+		"/D/files/chu/in/oplsaa.ff/ions.itp",
+		"/D/files/chu/in/tops/POT.pdb",
+		"/D/files/chu/in/tops/PYI.itp",
+		"/D/files/chu/in/oplsaa.ff/ffnonbonded.itp",
+		"/D/files/chu/in/tops/topol.top",
+		"/C/Users/exian/AppData/Local/Temp/Temp1_PYI.zip/tmp/UNK_693BBC.itp",
+		"/D/files/chu/in/tops/diglyme.itp",
+		"/D/files/chu/in/tops/pyrrolidinone.itp",
+		"/D/files/Mira_2022/in/codes/prepareSystem.sh",
+		"/D/files/chu/in/tops/PYI.pdb",
+		"/D/files/Mira_2022/in/mdps/md.mdp",
+		"/D/files/chu/in/tops/12-Crown-4.itp",
+		"/D/files/chu/in/tops/acetylene.itp",
+		"/D/files/chu/in/oplsaa.ff/forcefield.itp",
+		"/D/files/Mira_2022/in/tops/topol.top",
+		"/D/files/Mira_2022/in/tops/forcefield_0.8.itp",
+		"/D/files/lisolvation/files/prepare_solvents.2.sh",
+		"/D/files/lisolvation/files/prepare_lisol.sh",
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/孔宪老师集群.txt",
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/国际校区.txt",
+		"/D/files/chu/in/tops/acetylene.top",
+		"/D/cmds/ssh_lab2",
+		"/C/Users/exian/AppData/Local/Temp/Temp1_Computing the Heat Conductivity of Fluids from Density Fluctuations PhysRevLett.125.130602 SampleScripts.zip/SI/workflow/step1-ft3d/ft-3d.py",
+		"/D/clouddrives/KongLab/research/papers/ML_polymers/Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning/PBE0energies.txt",
+		"/D/clouddrives/KongLab/research/papers/ML_polymers/Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning/structures.txt",
+		"/D/clouddrives/KongLab/research/papers/ML_polymers/Machine Learning Energies of 2 Million Elpasolite ðABC2D6Þ Crystals/Machine.py",
+		"/D/clouddrives/xk/one2one/yan/proj1/in/bulk/in.lmp",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/bindingEnergy/Li_DME.gjf",
+		"/G/files/Coskun/dft/Li_DME.0.pdb",
+		"/G/files/Coskun/dft/Li_DME.pdb",
+		"/G/files/Coskun/dft/BTFE.gjf",
+		"/D/clouddrives/xk/working/proteinPrediction/GAN-V2-20230511/GAN-V2-20230511/GAN_v2.py",
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/submission_NE/New Text Document.txt",
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/no_cite_ref_bib.txt",
+		"/D/clouddrives/wechat/WeChat Files/xianshine/FileStorage/File/2023-06/国际校区.txt",
+		"/D/clouddrives/KongLab/daily/实验室报销/采购清单.txt",
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/讨论/exp_2拟合效果/说明.txt",
+		"/C/Users/exian/Downloads/Stockmayer.lmp",
+		"/D/clouddrives/KongLab/daily/实验室报销/done/2022/cluster2/材料清单.txt",
+		"/D/files/PEOPTHF/out/PEG_5-16-16/md.log",
+		"/D/files/PEOPTHF/out/PEG_2_PTHF_3-16-16/md.log",
+		"/D/clouddrives/KongLab/daily/实验室报销/cluster5/机器照片/序列号.txt",
+		"/D/clouddrives/KongLab/daily/实验室报销/报增流程.txt",
+		"/E/inTHU/PHD_files/memory/work of undergraduate years/毕设/lunwen/校友专访------刘铮学长.txt",
+		"/D/clouddrives/KongLab/daily/实验室报销/待处理事务/xk/from20200515/2401.43.txt",
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/sim/in/codes/angle1.sh",
+		"/D/clouddrives/xk/one2one/Xiupeng/nanotubePEO/in/analysis/acfMethods.py",
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/sim/in/codes/cohesive.sh",
+		"/D/clouddrives/xk/lab320.txt",
+		"/D/clouddrives/xk/ip_lab608.txt",
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/funding/history/广东省自然科学基金/摘要.txt",
+		"/D/clouddrives/xk/one2one/Xueying/广东基金申请/项目基本信息参考.txt",
+		"/D/clouddrives/OneDrive - 华南理工大学/books/polymer physics/20597_02.log",
+		"/D/clouddrives/xk/working/proteinPrediction/GAN-V2-20230511/GAN-V2-20230511/readme.txt",
+		"/D/clouddrives/xk/one2one/yan/proj1/analysis/numberdensity.py",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4_m_5.14/in/RESP.sh",
+		"/C/Users/exian/Downloads/control.lmp",
+		"/C/Users/exian/AppData/Local/Temp/Rar$DIa305360.25731/main.tex",
+		"/C/Users/exian/AppData/Local/Temp/Rar$DIa341280.20517/main.tex",
+		"/C/Users/exian/AppData/Local/Temp/Rar$DIa302964.36986/main.tex",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/analyzeCrossLink.py",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/crosslinkxk.lmp",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/bonds_sorted.1000000.dump",
+		"/D/clouddrives/OneDrive - 华南理工大学/paperReview/Wiley/adma.202303759/adma.202303759.txt",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4_m_5.14/4_m/error.txt",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/custom.100000.dump",
+		"/D/clouddrives/KongLab/tools/computing_resources/鸿之微超算云/国家超算账号.txt",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/crosslink.lmp",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/crosslinktest.lmp",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/lmpPrepare.py",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/data.15000000.txt",
+		"/D/clouddrives/xk/one2one/shangyu/in/codes/sys.MC.in",
+		"/D/clouddrives/xk/one2one/shangyu/in/codes/crosslink.MC.py",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/arrParser.py",
+		"/D/clouddrives/xk/one2one/shangyu/in/crosslinktest/SPC.txt",
+		"/D/clouddrives/xk/one2one/tingting/in/analysis/xh.rdfcal.py",
+		"/D/clouddrives/xk/one2one/tingting/in/analysis/RDF_plot.py",
+		"/D/clouddrives/xk/working/todolist.txt",
+		"/D/clouddrives/xk/one2one/tingting/in/analysis/rdf-l.py",
+		"/D/clouddrives/xk/notes.txt",
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/funding/珠江/个人简介.txt",
+		"/D/clouddrives/KongLab/daily/实验室报销/done/2022/cluster/材料提交清单.txt",
+		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/7910ffa0-21aa-4f73-ace2-6c341caafb32/achs_nalefdAxA.bib",
+		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/be891945-75be-479c-bd40-bb1846efbd3d/achs_mamobxAxA.bib",
+		"/D/clouddrives/xk/working/writes/jipeng/Preferred Reviewers.txt",
+		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/3996ca4b-24bc-4e71-b3fa-8eb02a2d1b49/S2451929422006489.bib",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DEE.top",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DEM.top",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DME.top",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DPM.top",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/GJFs/DEE.gjf",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/GJFs/codes.txt",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/New GJF/DEE.gjf",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/topol.top",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DPM/rdf.LI_O.FSI.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DPM/rdf.LI_RES.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/rdf.LI_O.FSI.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/rdf.LI_RES.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DME/rdf.LI_O.FSI.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DME/rdf.LI_RES.xvg",
+		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/codes/script_md.sh"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\n",
+			"github.",
+			"\\n",
+			"UNK ",
+			"RES ",
+			"RES",
+			"\\n",
+			"Viswan",
+			"letter",
+			"vis",
+			"viswan",
+			"visw",
+			"venkat",
+			"Boris",
+			"Con",
+			"Contribution",
+			"dump",
+			"compute",
+			"bonds",
+			"39.459999",
+			"26.67",
+			"mos2",
+			"sys5",
+			"sys3",
+			" ",
+			"opls_186",
+			"opls_193",
+			"[C;X4](O)(O)(H)",
+			"[C;X4]",
+			"(O)(O)(H)(H)",
+			"\\n",
+			"^$",
+			"Ft",
+			"a_b_ratio",
+			"Na   Na",
+			"Na  Na ",
+			"PHE",
+			"C1   C1",
+			"area_hull",
+			"HullVolume",
+			"asphr",
+			"prot_mol_mass",
+			"bonds",
+			"Bonds",
+			"npz",
+			"PIPEDIR",
+			"db_preset",
+			"model_preset",
+			"energyForOrigin",
+			"Enthalpy",
+			"prepareItp",
+			"shine",
+			"LI",
+			"BOXSIZES",
+			"md",
+			"pdb"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"PYI ",
+			"DIG ",
+			"PYR ",
+			"ACE ",
+			" ",
+			"",
+			"      ",
+			" ",
+			"CA  GLY",
+			"GLY",
+			"CA  PHE"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_pages/about.md",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								625,
+								625
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.913009404389,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "xian_homepage.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
