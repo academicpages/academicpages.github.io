@@ -1,0 +1,33 @@
+name: Generate Publication Markdown
+
+on:
+  push:
+    branches:
+      - master  # Change this to the branch you want to trigger the action on
+    paths:
+      - 'generate_md_file.py'
+
+jobs:
+  generate_md_file_job:
+    name: Generate Publication Markdown
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'  # Change to your desired Python version
+
+      - name: Install Biopython
+        run: pip install biopython
+
+      - name: Install pandas
+        run: pip install pandas
+
+      - name: Generate MD file
+        run: python generate_md_file.py
+        working-directory: ./  # The directory where generate_md_file.py is located
+
