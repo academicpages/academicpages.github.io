@@ -5,9 +5,8 @@ import re
 from Bio import Entrez, Medline
 import pandas as pd
 
-
-
 Entrez.email = "A.N.Other@example.com"
+
 def get_pub(val, keyword):
     """
     This function retrieves the publication data from Pubmed database by searching the keyword.
@@ -56,7 +55,7 @@ def get_pub(val, keyword):
     return publication_data, df
 
 def generate_md_file(author):
-    publication_data, df = get_pub(10, author)  # Fetching the publication data using the 'get_pub' function
+    _, df = get_pub(10, author)  # Fetching the publication data using the 'get_pub' function
     for _, row in df.iterrows():
         title = row["Title"]
         authors = row["Authors"]
@@ -73,6 +72,7 @@ def generate_md_file(author):
 
         filename = f"_publications/{permalink}.md" 
         with open(filename, "w", encoding="utf-8") as f:
+            f.write("---\n\n")
             f.write(f"title: \"{title}\"\n")
             f.write("collection: publications\n")
             f.write(f"permalink: /publication/{permalink}\n")
@@ -88,5 +88,7 @@ def generate_md_file(author):
             print(f"File {filename} is created.")
 
 if __name__ == "__main__":
-    generate_md_file("Avratanu Biswas")
     print("Python script is running...")
+    generate_md_file("Avratanu Biswas")
+    print("Success!")
+    
