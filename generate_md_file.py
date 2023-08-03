@@ -41,11 +41,11 @@ def get_pub(val, keyword):
     publication_data["Year"] = (publication_data["EDAT"].astype(str).str[0:4].astype(int))
     
     # Create a new dataframe with columns 'Published on', 'Title', 'Authors', 'PubchemID', 'DOI'
-    dic = {'Published on': publication_data["DP"], 
+    dic = {'Published on': publication_data["DP"], # dummy not used
         'Title': publication_data['TI'], 'Authors': publication_data["AU"],
         "DOI": publication_data["LID"], 'PubchemID': publication_data["PMID"],
         "Abstract":publication_data["AB"], 'Journal': publication_data["JT"],
-        "PublishedDate":publication_data["DP"]
+        "PublishedDate":publication_data["EDAT"],  # Entrez available date
         }
     df = pd.DataFrame(dic)
     # Clean the 'DOI' column by removing '[doi]' and adding 'https://doi.org/' in front of each entry
@@ -56,6 +56,10 @@ def get_pub(val, keyword):
 
 def generate_md_file(author):
     _, df = get_pub(10, author)  # Fetching the publication data using the 'get_pub' function
+    
+    df["PublishedDate"] = pd.to_datetime(df["PublishedDate"]).dt.date
+    df["PublishedDate"] = pd.to_datetime(df["PublishedDate"]).dt.strftime('%Y %b %d')
+    
     for _, row in df.iterrows():
         title = row["Title"]
         authors = row["Authors"]
