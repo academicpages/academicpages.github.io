@@ -7,10 +7,8 @@ author_profile: false
 {% include base_path %}
 
 
-[![pages-build-deployment](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/pages/pages-build-deployment)
+
 ![GitHub last commit](https://img.shields.io/github/last-commit/AvratanuBiswas/AvratanuBiswas.github.io/master)
-[![Latest blog post workflow](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/blog-post-workflow.yml)
-[![Latest YouTube workflow](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/youtube.yml/badge.svg)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/youtube.yml)
 
 
 ### Latest Blog Posts 
