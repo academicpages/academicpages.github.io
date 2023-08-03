@@ -73,7 +73,11 @@ def generate_md_file(author):
 
         # Generate the permalink from Pubmed ID (PubchemID)
         permalink = f"PMID-{pubchem_id}"
-        
+
+        # Highlight / Bold individual author
+        authors = ", ".join(authors)
+        authors = authors.replace("Biswas A", "**Biswas A**")
+        authors = authors.replace("Avratanu Biswas", "**Avratanu Biswas**")
 
         filename = f"_publications/{permalink}.md" 
         with open(filename, "w", encoding="utf-8") as f:
@@ -85,7 +89,7 @@ def generate_md_file(author):
             f.write(f"venue: '{journal}'\n")
             f.write(f"doi: {doi}\n")
             f.write("pubtype: 'journal'\n")
-            f.write(f"authors: '{', '.join(authors)}'\n")
+            f.write(f"authors: '{authors}'\n")
             f.write("excerpt_separator: \"\"\n")
             f.write("---\n\n")
             f.write(f"### Abstract\n{abstract}\n\n")
