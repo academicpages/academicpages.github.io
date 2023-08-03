@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &craigtoth
 facebook:
   username               : craig.toth
   app_id                 :
@@ -99,7 +99,7 @@ author:
   github           : "craigtoth"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "@mrcraigtoth"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "craig-toth"
