@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 分子模拟与理论课题组 (Molecular Simulation and Theory Group, MSTG)
+title: 分子模拟与理论实验室 (Lab of Molecular Simulation and Theory )
 permalink: /home/
 author_profile: true
 redirect_from:
