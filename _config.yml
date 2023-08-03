@@ -15,7 +15,7 @@ url                      : https://craigtoth.github.io # the base hostname & pro
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "craigtoth/craigtoth.github.io"
 teaser                   : "Craig_Pic07.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
