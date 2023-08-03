@@ -22,10 +22,11 @@ Bibliografia
 ======
 
 1. Boldrini, J. L., et all, Álgebra Linear, 3a Edição, Harbra, São Paulo, 1986.
-2. Lay, D. C, eta all, Álgebra Linear e suas Aplicações, 5a Edição, LTC, Rio de Janeiro, 2018.
-3. Leon, S. J., Álgebra Linear com Aplicações, 9a Edição, LTC, Rio de Janeiro, 2018. 
-4. Lima, E. L., Álgebra Linear, 3a Edição, IMPA, Rio de Janeiro, 1998.
-5. Poole, D., Álgebra Linear, Cengage Learning, São Paulo, 2014.
+2. Hoffman, K. M., Kunze, R., Linear Algebra,, 2nd Edition, Pearson, 1971.
+3. Lay, D. C, eta all, Álgebra Linear e suas Aplicações, 5a Edição, LTC, Rio de Janeiro, 2018.
+4. Leon, S. J., Álgebra Linear com Aplicações, 9a Edição, LTC, Rio de Janeiro, 2018. 
+5. Lima, E. L., Álgebra Linear, 3a Edição, IMPA, Rio de Janeiro, 1998.
+6. Poole, D., Álgebra Linear, Cengage Learning, São Paulo, 2014.
 
 Plano de Curso
 ======
