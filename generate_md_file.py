@@ -3,7 +3,7 @@ import re
 from Bio import Entrez, Medline
 import pandas as pd
 
-export GITHUB_TOKEN="${{ secrets.MY_GITHUB_TOKEN_X1 }}"
+
 
 Entrez.email = "A.N.Other@example.com"
 def get_pub(val, keyword):
