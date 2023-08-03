@@ -3,6 +3,7 @@ import re
 from Bio import Entrez, Medline
 import pandas as pd
 
+Entrez.email = "A.N.Other@example.com"
 def get_pub(val, keyword):
     """
     This function retrieves the publication data from Pubmed database by searching the keyword.
