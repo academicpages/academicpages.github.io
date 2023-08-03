@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # generate_md_file.py
 import re
 from Bio import Entrez, Medline
