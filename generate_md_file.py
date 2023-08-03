@@ -65,8 +65,9 @@ def generate_md_file(author):
 
         # Generate the permalink from Pubmed ID (PubchemID)
         permalink = f"PMID-{pubchem_id}"
+        
 
-        filename = f"_publications/{permalink}.md"
+        filename = f"_publications/{permalink}.md" 
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"title: \"{title}\"\n")
             f.write("collection: publications\n")
