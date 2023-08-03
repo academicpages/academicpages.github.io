@@ -51,6 +51,7 @@ def get_pub(val, keyword):
     # Clean the 'DOI' column by removing '[doi]' and adding 'https://doi.org/' in front of each entry
     df['DOI'] = df['DOI'].str.replace(' \[doi\]', '')
     df['DOI'] = 'https://doi.org/' + df['DOI']
+    df["DOI"] = df["DOI"].str.replace(r'\[doi\].*$', '', regex=True)
     
     return publication_data, df
 
@@ -82,13 +83,14 @@ def generate_md_file(author):
             f.write(f"permalink: /publication/{permalink}\n")
             f.write(f"date: {date}\n")
             f.write(f"venue: '{journal}'\n")
+            f.write(f"doi: {doi}\n")
             f.write("pubtype: 'journal'\n")
             f.write(f"authors: '{', '.join(authors)}'\n")
             f.write("excerpt_separator: \"\"\n")
             f.write("---\n\n")
             f.write(f"### Abstract\n{abstract}\n\n")
             f.write(f"DOI : \n{doi}\n\n")  # Adding the DOI information to the .md file
-            f.write(f"PubchemID : \n{pubchem_id}\n\n")  # Adding the PubchemID information to the .md file
+            # f.write(f"PubchemID : \n{pubchem_id}\n\n")  # Adding the PubchemID information to the .md file
             print(f"File {filename} is created.")
 
 if __name__ == "__main__":
