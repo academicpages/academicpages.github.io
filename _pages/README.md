@@ -19,6 +19,7 @@ author_profile: false
 - [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM"><img width="140px" src="https://i.ytimg.com/vi/bE9sf9vGsrM/mqdefault.jpg"></a></td>
 <!-- YOUTUBE:END -->
 
