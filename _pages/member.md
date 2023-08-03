@@ -17,7 +17,7 @@ redirect_from:
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;">  -->
     <!-- &ensp; </p> -->
-    <img src="../images/kx.png" style="width: 150px; height:200px;">
+    <img src="../images/kx.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 18px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
