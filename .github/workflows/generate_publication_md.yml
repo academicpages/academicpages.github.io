@@ -6,7 +6,9 @@ on:
       - main  # Change this to the branch you want to trigger the action on
     paths:
       - 'generate_md_file.py'
-
+  
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  
 jobs:
   generate_md_file_job:
     name: Generate Publication Markdown
