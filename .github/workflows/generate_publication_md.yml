@@ -36,6 +36,17 @@ jobs:
 
           # Run the Python script with the token as an environment variable
           python generate_md_file.py
+          
+          # Configure git
+          git config user.name "AvratanuBiswas"
+          git config user.email "a.biswas@vu.nl"
+          
+          # Add changes to the staging area
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Auto-generated publication Markdown"
+          git push origin master
+           
+          
         working-directory: ./  # The directory where generate_md_file.py is located
         env:
           YOUR_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN_X1 }}  # Replace with your secret name
