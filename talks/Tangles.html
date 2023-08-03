@@ -1,0 +1,481 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css">
+		<link rel="stylesheet" href="plugin/chalkboard/style.css">
+		<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<style>
+			.container{
+   				 display: flex;
+			}
+			.col{
+    			flex: 1;
+			}
+		</style>
+			<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+		<script src="plugin/menu/menu.js"></script>
+
+
+
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				<section>
+					<h2>Rational Tangles: Groups in two different ways.</h2>
+					<h4>M 111</h4>
+					
+					
+					<h4>
+						Oxford College of Emory University <a href="https://app.oxford.emory.edu/WebApps/Directory/index.cfm/view/9984" target="_blank">Tien Chih</a>
+					</h4>
+				</section>
+
+				
+
+				<section>
+					
+					<section data-auto-animate>
+						<h4>The Rules</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Starting Position</strong>
+								</p>
+								<p style="font-size: 30px;">
+									The "starting position" consists of two parallel ropes, both parallel to the "front."
+								</p>
+								<img src="img/starting.jpg" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/0pos.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+
+					<section data-auto-animate>
+						<h4>The Rules</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Rotate (R)</strong>
+								</p>
+								<p style="font-size: 30px;">
+									To "rotate", all 4 people rotate in a counter clockwise fashion.
+								</p>
+								<img src="img/rotate.gif" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/rotate.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+					<section data-auto-animate>
+						<h4>The Rules</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Twist (T)</strong>
+								</p>
+								<p style="font-size: 30px;">
+									To "twist", the right two people switch, with the "front" person going over, and the "back" person going under.
+								</p>
+								<img src="img/twist.gif" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/twist.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+					
+				</section>
+
+
+
+
+				<section>
+					<section data-auto-animate>
+						<h3>Practice</h3>
+						<ul>
+							<li style="font-size: 35px;" > Perform \(T\).</li>
+							<li style="font-size: 35px;" > Follow that up with \(RT\).</li>
+							<li style="font-size: 35px;" > What do we notice?</li>
+						</ul>
+
+
+					</section>
+
+					<section data-auto-animate>
+						<h3>In Groups!</h3>
+						<ul>
+							<li style="font-size: 35px;" > Can you revert \(TT\)?</li>
+							<li style="font-size: 35px;" > Can you revert \(TTT\)?</li>
+							<li style="font-size: 35px;" > Can you revert \(TTTT\)?</li>
+							<li style="font-size: 35px;" > Can you conjecture a general way to revert \(T^n\)?</li>
+						</ul>
+
+
+					</section>
+
+
+					
+
+
+
+				</section>
+
+
+				<section>
+					
+					<section data-auto-animate>
+						<h4>Arithmetic</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Starting Position</strong>
+								</p>
+								<p style="font-size: 30px;">
+									Associated the starting position with "\(0\)".
+								</p>
+								<img src="img/starting.jpg" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/0pos.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+
+					<section data-auto-animate>
+						<h4>Arithmetic</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Rotate (R)</strong>
+								</p>
+								<p style="font-size: 30px;">
+									Associate "rotate" with taking the negative reciprocal. <br>  (By convention \(-\frac{1}{0}=\infty, -\frac{1}{\infty}=0\).)
+								</p>
+								<img src="img/rotate.gif" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/rotate.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+					<section data-auto-animate>
+						<h4>The Rules</h4>
+						<div class="container">
+
+							<div class="col">
+								<p style="font-size: 30px;">
+									<strong style="color: blue">Twist (T)</strong>
+								</p>
+								<p style="font-size: 30px;">
+									Associate "twist" with adding 1.
+								</p>
+								<img src="img/twist.gif" width=80%>
+							</div>
+
+							<div class="col">
+								<img src="img/twist.png" width=80%>
+							</div>
+
+						</div>
+	
+						
+
+						
+					</section>
+
+					
+				</section>
+
+				<section>
+					<section data-auto-animate>
+						<h3>Practice</h3>
+						<ul>
+							<li style="font-size: 35px;" > Perform \(T\), what number is this?</li>
+							<li style="font-size: 35px;" > Follow that up with \(RT\), NOW what number is this?</li>
+							<li style="font-size: 35px;" > What about \((TT)(RTRTT)\)?</li>
+						</ul>
+
+
+					</section>
+
+					<section data-auto-animate>
+						<h3>Notice</h3>
+						<ul>
+							<li style="font-size: 35px;" > Perform \(TT\), take a picture of the resulting knot.</li>
+							<li style="font-size: 35px;" > Perform \(TTTRTRTR\), take a picture of the resulting knot.  What is the value of this knot?</li>
+							<li style="font-size: 35px;" > How do the values of these knots compare?  How about the knots themselves?</li>
+						</ul>
+
+
+					</section>
+
+					<section data-auto-animate>
+						<h3>In Groups!</h3>
+						<ul>
+							<li style="font-size: 35px;" > Can you create the tangle associated with \(-\frac{2}{5}\)?</li>
+							<li style="font-size: 35px;" > Can you revert back to the original position?</li>
+							<li style="font-size: 35px;" > Take turns picking rational numbers, can you get to those rational numbers?</li>
+							<li style="font-size: 35px;" > Can you revert from those numbers to the starting position?</li>
+						</ul>
+
+
+					</section>
+
+
+					
+
+
+
+				</section>
+
+
+				<section>
+					<section data-auto-animate>
+						<h3>Notice</h3>
+						<p style="font-size: 30px;">
+							Can you revert any rational number back to zero?  (Induction?)
+						</p>
+
+
+					</section>
+
+					<section data-auto-animate>
+						<h3>Notice</h3>
+						<p style="font-size: 30px;">
+							Let \(h(x)\) be a function, and let \(g(x)=-\frac{1}{x}\).  What is \[g(g(h(x)))?\]  What does this tell us about \(W(R)(R)\) (where \(W\) is some product of \(R, T\))?
+						</p>
+
+
+					</section>
+
+					<section data-auto-animate>
+						<h3>Notice</h3>
+						<p style="font-size: 30px;">
+							Let \(h(x)\) be a function, and let \(g(x)=-\frac{1}{x}\), and let \(f(x)=x+1\).  What is \[f(g(f(g(f(g(f(h(x))))))))?\]  What does this tell us about \(W(T)(RTRTRT) \) (where \(W\) is some product of \(R, T\))?
+						</p>
+
+
+					</section>
+
+
+					<section data-auto-animate>
+						<h3>Synthesize</h3>
+						<p style="font-size: 30px;">
+							How could we invert \[TTRTRTTT?\]
+						</p>
+
+
+					</section>
+
+
+					
+
+
+
+				</section>
+
+
+				<section>
+					<section data-auto-animate>
+						<h3>Groups</h3>
+						<p style="font-size: 35px;">
+							A <strong style="color: blue">Group</strong> is a set \(G\) with a binary operation \(*\) such that:
+						</p>
+						<ul>
+							<li style="font-size: 35px;" > \(*\) is associative.</li>
+							<li style="font-size: 35px;" > For any \(g,h\in G\), it follows that \(g*h\in G\).</li>
+							<li style="font-size: 35px;" > There is an identity element \(e\in G\) so that for any \(g\in G\), we have \(eg=g=ge\).</li>
+							<li style="font-size: 35px;" > For any \(g\in G\), there is a \(g^{-1}\in G\) so that \(gg^{-1}=e\).</li>
+						</ul>
+
+
+					</section>
+
+
+					<section data-auto-animate>
+						<h3>Groups</h3>
+						<p style="font-size: 35px;">
+							A <strong style="color: blue">Group</strong> is a set \(G\) with a binary operation \(*\) such that:
+						</p>
+						<ul>
+							<li style="font-size: 35px;" > \(*\) is associative.</li>
+							<li style="font-size: 35px;" > For any \(g,h\in G\), it follows that \(g*h\in G\).</li>
+							<li style="font-size: 35px;" > There is an identity element \(e\in G\) so that for any \(g\in G\), we have \(eg=g=ge\).</li>
+							<li style="font-size: 35px;" > For any \(g\in G\), there is a \(g^{-1}\in G\) so that \(gg^{-1}=e\).</li>
+						</ul>
+
+
+						<p style="font-size: 35px;">
+							\(R, T\) generate a group: \(\langle R, T : R^2=TRTRTRT=e \rangle.\)
+						</p>
+
+
+					</section>
+
+					
+
+
+					
+
+
+
+				</section>
+
+
+
+
+
+
+
+
+
+
+									
+
+
+
+				
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+		<script src="plugin/math/math.js"></script>
+		<script src="plugin/chalkboard/plugin.js"></script>
+		<script src="plugin/customcontrols/plugin.js"></script>
+
+
+
+	<script>
+  	Reveal.initialize({
+		math: {
+			mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+			config: 'TeX-AMS_HTML-full',
+			// pass other options into `MathJax.Hub.Config()`
+			TeX: { Macros: { RR: "{\\bf R}" } }
+		},
+
+		chalkboard: {
+        boardmarkerWidth: 3,
+        chalkWidth: 7,
+        chalkEffect: 1.0,
+        storage: null,
+        src: null,
+        readOnly: undefined,
+        transition: 800,
+        theme: "chalkboard",
+        background: [ 'rgba(127,127,127,.1)' , path + 'img/blackboard.png' ],
+        grid: { color: 'rgb(50,50,10,0.5)', distance: 80, width: 2},
+        eraser: { src: path + 'img/sponge.png', radius: 20},
+        boardmarkers : [
+                { color: 'rgba(100,100,100,1)', cursor: 'url(' + path + 'img/boardmarker-black.png), auto'},
+                { color: 'rgba(30,144,255, 1)', cursor: 'url(' + path + 'img/boardmarker-blue.png), auto'},
+                { color: 'rgba(220,20,60,1)', cursor: 'url(' + path + 'img/boardmarker-red.png), auto'},
+                { color: 'rgba(50,205,50,1)', cursor: 'url(' + path + 'img/boardmarker-green.png), auto'},
+                { color: 'rgba(255,140,0,1)', cursor: 'url(' + path + 'img/boardmarker-orange.png), auto'},
+                { color: 'rgba(150,0,20150,1)', cursor: 'url(' + path + 'img/boardmarker-purple.png), auto'},
+                { color: 'rgba(255,220,0,1)', cursor: 'url(' + path + 'img/boardmarker-yellow.png), auto'}
+        ],
+        chalks: [
+                { color: 'rgba(255,255,255,0.5)', cursor: 'url(' + path + 'img/chalk-white.png), auto'},
+                { color: 'rgba(96, 154, 244, 0.5)', cursor: 'url(' + path + 'img/chalk-blue.png), auto'},
+                { color: 'rgba(237, 20, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-red.png), auto'},
+                { color: 'rgba(20, 237, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-green.png), auto'},
+                { color: 'rgba(220, 133, 41, 0.5)', cursor: 'url(' + path + 'img/chalk-orange.png), auto'},
+                { color: 'rgba(220,0,220,0.5)', cursor: 'url(' + path + 'img/chalk-purple.png), auto'},
+                { color: 'rgba(255,220,0,0.5)', cursor: 'url(' + path + 'img/chalk-yellow.png), auto'}
+        ]
+    },
+    customcontrols: {
+  		controls: [
+  			{ icon: '<i class="fa fa-pen-square"></i>',
+  			  title: 'Toggle chalkboard (B)',
+  			  action: 'RevealChalkboard.toggleChalkboard();'
+  			},
+  			{ icon: '<i class="fa fa-pen"></i>',
+  			  title: 'Toggle notes canvas (C)',
+  			  action: 'RevealChalkboard.toggleNotesCanvas();'
+  			}
+  		]
+    },
+
+		plugins: [ RevealMath, RevealChalkboard, RevealCustomControls, RevealMenu  ]
+		});
+	</script>
+
+	</body>
+</html>

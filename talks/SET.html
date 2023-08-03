@@ -1,0 +1,515 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>reveal.js</title>
+
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/white.css">
+		<link rel="stylesheet" href="plugin/chalkboard/style.css">
+		<link rel="stylesheet" href="plugin/customcontrols/style.css">
+
+
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+
+
+		<!-- Theme used for syntax highlighted code -->
+		<link rel="stylesheet" href="plugin/highlight/monokai.css">
+		<style>
+			.container{
+   				 display: flex;
+			}
+			.col{
+    			flex: 1;
+			}
+		</style>
+			<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+		<script src="plugin/menu/menu.js"></script>
+
+
+
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				
+				<section>
+					<h2>SET: Games and Planes</h2>
+					<h4>M 111</h4>
+					
+					
+					<h4>
+						Oxford College of Emory University <a href="https://app.oxford.emory.edu/WebApps/Directory/index.cfm/view/9984" target="_blank">Tien Chih</a>
+					</h4>
+				</section>
+
+				
+
+				<section>
+					
+					<section data-auto-animate>
+						<h4>SET!</h4>
+						<img src="img/set_solid.png" width="20%"><img src="img/set_shaded.png" width="20%"><img src="img/set_clear.png" width="20%">
+					
+					<div class="fragment">
+						<ul>
+							<li style="font-size: 30px;">Each card has <strong style="color: red">4</strong> characteristics: shape, color, shading, #.</li>
+
+							<li style="font-size: 30px;">Each characteristic has <strong style="color: blue">3</strong>  values.</li>
+						</ul>
+					</div>		
+						
+
+						
+					</section>
+
+
+					<section data-auto-animate>
+						
+						<div class="r-frame" >
+							<p style="font-size: 30px;" >
+								A  <strong style="color: red">trio</strong>  of cards is called a <strong style="color: blue;">SET</strong>, if for each of the four characteristics:
+
+
+								<ul>
+							<li style="font-size: 30px;" class="fragment">All three cards have the  <strong style="color: blue;">same</strong> value.  <strong>OR</strong></li>
+
+							<li style="font-size: 30px;" class="fragment">All three cards have   <strong style="color: red;">different</strong> values.</li>
+						</ul>
+
+
+							</p>
+							
+						</div>	
+
+
+						<p style="font-size: 30px;" class="fragment">
+							<strong style="color: blue;">SET</strong>!<br>
+
+							<img src="img/set1.png" width=30%>
+							<img src="img/set2.jpg" width=30% class="fragment">
+							<img src="img/set4.jpg" width=30% class="fragment">
+							
+						</p>
+						<p style="font-size:🇱🇰 30px;" class="fragment">
+							<strong style="color: red;">NOT SET</strong>!<br>
+
+							<img src="img/notset.png" width=30%><br>
+							
+						</p>
+
+						
+
+					</section>
+
+					
+
+
+					<section data-auto-animate>
+						<h3 style="color: blue;"> 	PLAY SET!</h3>
+
+
+					</section>
+
+					
+				</section>
+
+
+
+
+				<section>
+					<section data-auto-animate>
+						<h4>Questions</h4>
+						<ul>
+							<li style="font-size: 30px;" > How many cards in a deck?</li>
+							<li style="font-size: 30px;" > How many ways are there to pick three cards?</li>
+
+							<li style="font-size: 30px;" > If you pick three cards, what is the probability they will be a SET?</li>
+
+						</ul>
+
+
+					</section>
+
+
+					<section data-auto-animate>
+
+						<img src="img/partialset1.jpg" width=80%>
+						
+						<p style="font-size: 30px;" >
+
+							What card(s) (if any) could you add to form a SET?
+								
+
+
+								
+
+						</p>
+
+					</section>
+
+					<section data-auto-animate>
+
+						<img src="img/partialset2.jpg" width=80%>
+						
+						<p style="font-size: 30px;" >
+
+							What card(s) (if any) could you add to form a SET?
+								
+
+
+								
+
+						</p>
+
+						<p style="font-size: 30px;" class="fragment">
+
+							Given any two cards, can you always add a card to form a SET?  How many choices do you have?
+						
+						</p>
+
+					</section>
+
+					<section data-auto-animate>
+
+						<img src="img/cornerset.jpg" width=80%>
+						
+						<p style="font-size: 30px;" >
+
+							Take 3 cards which  <strong style="color: red">do not</strong> form a SET and place them in a corner as depicted.
+								
+
+
+								
+
+						</p>
+
+						<p style="font-size: 30px;" class="fragment">
+
+							Fill out a three by three plane so that each row, column and diagonal forms a SET.
+						
+						</p>
+
+					</section>
+
+
+
+				</section>
+
+
+				<section>
+				<section data-auto-animate>
+					<h4> Basic (Neutral) Plane Geometry Axioms</h4>
+
+					<p style="font-size: 30px;" >
+
+						A <strong style="color: blue">plane</strong> is a collection of points and lines (sets of points) satisfying the following axioms:
+						
+					</p>
+
+					<ol>
+						<li style="font-size: 30px;" > Each line contains at least two points.</li>
+
+						<li style="font-size: 30px;" > For each line, there is at least one point it does <strong style="color: red">not</strong> contain.</li>
+
+						<li style="font-size: 30px;" > There is at least one line.</li>
+
+						<li style="font-size: 30px;" > Given any two points, there is <strong style="color: blue">exactly</strong> one line containing both.</li>
+							
+
+					</ol>
+
+					<p style="font-size: 30px;" class="fragment">
+						Let <strong style="color: blue">point</strong> be cards, and <strong style="color: blue">lines</strong> be SETs.  Is the three by three array you created a plane?
+						
+						
+					</p>
+
+				</section>
+
+				<section data-auto-animate>
+					<h4> The Euclidean Axioms</h4>
+
+					
+
+					<ol>
+						<li style="font-size: 30px;" > Each line contains at least two points.</li>
+
+						<li style="font-size: 30px;" > For each line \(L\), there is at least one point \(L\) does <strong style="color: red">not</strong> contain.</li>
+
+						<li style="font-size: 30px;" > There is at least one line.</li>
+
+						<li style="font-size: 30px;" > Given any two points, there is <strong style="color: blue">exactly</strong> one line containing both.</li>
+
+						<li style="font-size: 30px;" > Given any line \(L\) and a point \(x\) not on \(L\), there is exactly one line containing \(x\) that doesn't intersect \(L\).</li>
+							
+
+					</ol>
+
+					<p style="font-size: 30px;" class="fragment">
+						Does your plane satisfy the Euclidean Axiom?
+						
+						
+					</p>
+
+				</section>
+
+
+				<section data-auto-animate>
+					
+
+					<h4>axioms</h4>
+
+					<ol>
+						<li style="font-size: 30px;" > Each line contains at least two points.</li>
+
+						<li style="font-size: 30px;" > For each line \(L\), there is at least one point \(L\) does <strong style="color: red">not</strong> contain.</li>
+
+						<li style="font-size: 30px;" > There is at least one line.</li>
+
+						<li style="font-size: 30px;" > Given any two points, there is <strong style="color: blue">exactly</strong> one line containing both.</li>
+
+						
+							
+
+					</ol>
+
+					<br><br><br>
+
+					
+					<div class="r-frame">
+						<h4>Theorem 1</h4>
+					<p style="font-size: 30px;" >
+						If two distinct lines intersect, they do so at a unique point.
+						
+						
+					</p>
+					</div>
+
+					<p style="font-size: 30px;" class="fragment">
+						Is it true in your plane?
+						
+						
+					</p>
+
+					<p style="font-size: 30px;" class="fragment">
+						Can you prove it?
+						
+						
+					</p>
+
+				</section>
+
+
+				</section>
+
+
+				<section>
+					<h4>Can we do 3d?</h4>
+				</section>
+
+
+				<section>
+				<section data-auto-animate>
+					<p style="font-size: 30px;" >
+						Each card can be encoded as a vector \[(w,x,y,z)\in \mathbb{Z}_3^4\]
+
+						measuring (<strong style="color: blue">Shape</strong>, <strong style="color: blue">Color</strong>, <strong style="color: blue">Shade</strong>, <strong style="color: blue">Number</strong>).
+						
+					</p>
+
+					<ul>
+						<li style="font-size: 30px;" > 0: Oval, 1: Diamond, 2: Squiggle.</li>
+
+						<li style="font-size: 30px;" > 0: Red, 1: Purple, 2: Green.</li>
+
+						<li style="font-size: 30px;" > 0: Empty, 1: Striped, 2: Solid.</li>
+
+						<li style="font-size: 30px;" > 0: 3, 1: 1, 2: 2.</li>
+							
+
+					</ul>
+
+					<div class="fragment">
+						<img src="img/cardmod1.jpg" width=30%>
+						<p style="font-size: 30px;" >
+						\(2,0,0,0\)
+						
+					</p>
+					</div>
+				</section>
+
+
+				
+
+
+				<section data-auto-animate>
+					<p style="font-size: 30px;" >
+						Each card can be encoded as a vector \[(w,x,y,z)\in \mathbb{Z}_3^4\]
+
+						measuring (<strong style="color: blue">Shape</strong>, <strong style="color: blue">Color</strong>, <strong style="color: blue">Shade</strong>, <strong style="color: blue">Number</strong>).
+						
+					</p>
+
+					<ul>
+						<li style="font-size: 30px;" > 0: Oval, 1: Diamond, 2: Squiggle.</li>
+
+						<li style="font-size: 30px;" > 0: Red, 1: Purple, 2: Green.</li>
+
+						<li style="font-size: 30px;" > 0: Empty, 1: Striped, 2: Solid.</li>
+
+						<li style="font-size: 30px;" > 0: 3, 1: 1, 2: 2.</li>
+							
+
+					</ul>
+					<div>
+
+					<img src="img/cardmod2.jpg" width=30%>
+					</div>
+
+					<div class="fragment">
+						
+						<p style="font-size: 30px;" >
+						\(1,2,2,2\)
+						
+					</p>
+					</div>
+				</section>
+
+
+				<section data-auto-animate>
+					<p style="font-size: 30px;" >
+						Each card can be encoded as a vector \[(w,x,y,z)\in \mathbb{Z}_3^4\]
+
+						measuring (<strong style="color: blue">Shape</strong>, <strong style="color: blue">Color</strong>, <strong style="color: blue">Shade</strong>, <strong style="color: blue">Number</strong>).
+						
+					</p>
+
+					<ul>
+						<li style="font-size: 30px;" > 0: Oval, 1: Diamond, 2: Squiggle.</li>
+
+						<li style="font-size: 30px;" > 0: Red, 1: Purple, 2: Green.</li>
+
+						<li style="font-size: 30px;" > 0: Empty, 1: Striped, 2: Solid.</li>
+
+						<li style="font-size: 30px;" > 0: 3, 1: 1, 2: 2.</li>
+							
+
+					</ul>
+
+
+					<div>
+						
+						<p style="font-size: 30px;" >
+						Can you parameterize the SETs that you have found?
+						
+					</p>
+					</div>
+				</section>
+
+
+
+
+
+
+				</section>
+
+
+
+
+
+
+
+									
+
+
+
+				
+			</div>
+		</div>
+
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+		<script src="plugin/math/math.js"></script>
+		<script src="plugin/chalkboard/plugin.js"></script>
+		<script src="plugin/customcontrols/plugin.js"></script>
+
+
+
+	<script>
+  	Reveal.initialize({
+		math: {
+			mathjax: 'https://cdn.jsdelivr.net/gh/mathjax/mathjax@2.7.8/MathJax.js',
+			config: 'TeX-AMS_HTML-full',
+			// pass other options into `MathJax.Hub.Config()`
+			TeX: { Macros: { RR: "{\\bf R}" } }
+		},
+
+		chalkboard: {
+        boardmarkerWidth: 3,
+        chalkWidth: 7,
+        chalkEffect: 1.0,
+        storage: null,
+        src: null,
+        readOnly: undefined,
+        transition: 800,
+        theme: "chalkboard",
+        background: [ 'rgba(127,127,127,.1)' , path + 'img/blackboard.png' ],
+        grid: { color: 'rgb(50,50,10,0.5)', distance: 80, width: 2},
+        eraser: { src: path + 'img/sponge.png', radius: 20},
+        boardmarkers : [
+                { color: 'rgba(100,100,100,1)', cursor: 'url(' + path + 'img/boardmarker-black.png), auto'},
+                { color: 'rgba(30,144,255, 1)', cursor: 'url(' + path + 'img/boardmarker-blue.png), auto'},
+                { color: 'rgba(220,20,60,1)', cursor: 'url(' + path + 'img/boardmarker-red.png), auto'},
+                { color: 'rgba(50,205,50,1)', cursor: 'url(' + path + 'img/boardmarker-green.png), auto'},
+                { color: 'rgba(255,140,0,1)', cursor: 'url(' + path + 'img/boardmarker-orange.png), auto'},
+                { color: 'rgba(150,0,20150,1)', cursor: 'url(' + path + 'img/boardmarker-purple.png), auto'},
+                { color: 'rgba(255,220,0,1)', cursor: 'url(' + path + 'img/boardmarker-yellow.png), auto'}
+        ],
+        chalks: [
+                { color: 'rgba(255,255,255,0.5)', cursor: 'url(' + path + 'img/chalk-white.png), auto'},
+                { color: 'rgba(96, 154, 244, 0.5)', cursor: 'url(' + path + 'img/chalk-blue.png), auto'},
+                { color: 'rgba(237, 20, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-red.png), auto'},
+                { color: 'rgba(20, 237, 28, 0.5)', cursor: 'url(' + path + 'img/chalk-green.png), auto'},
+                { color: 'rgba(220, 133, 41, 0.5)', cursor: 'url(' + path + 'img/chalk-orange.png), auto'},
+                { color: 'rgba(220,0,220,0.5)', cursor: 'url(' + path + 'img/chalk-purple.png), auto'},
+                { color: 'rgba(255,220,0,0.5)', cursor: 'url(' + path + 'img/chalk-yellow.png), auto'}
+        ]
+    },
+    customcontrols: {
+  		controls: [
+  			{ icon: '<i class="fa fa-pen-square"></i>',
+  			  title: 'Toggle chalkboard (B)',
+  			  action: 'RevealChalkboard.toggleChalkboard();'
+  			},
+  			{ icon: '<i class="fa fa-pen"></i>',
+  			  title: 'Toggle notes canvas (C)',
+  			  action: 'RevealChalkboard.toggleNotesCanvas();'
+  			}
+  		]
+    },
+
+		plugins: [ RevealMath, RevealChalkboard, RevealCustomControls, RevealMenu  ]
+		});
+	</script>
+
+	</body>
+</html>
