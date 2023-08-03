@@ -1,7 +1,7 @@
 ---
-title: "Álgebra Linear - DCETYYYY"
+title: "Álgebra Linear - DCET0076 e DCET0839"
 collection: teaching
-type: "Cursos de Física e Matemática"
+type: "Cursos de Matemática e Física"
 permalink: /teaching/linearalgebra
 venue: "DCET, UESB"
 date: 2023-08-01
@@ -12,7 +12,7 @@ Semestre 2023.2
 
 Ementa
 ======
-Inserir a ementa aqui
+Espaços vetoriais, transformações lineares, autovalores e autovetores.
 
 Avaliação
 ======
@@ -25,6 +25,8 @@ Bibliografia
 Plano de Curso
 ======
 Disponível no sistema SAGRES.
+
+
 
 Datas das Provas
 ======

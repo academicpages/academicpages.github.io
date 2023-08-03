@@ -1,5 +1,5 @@
 ---
-title: "Geometria Euclidiana - DCETYYYY"
+title: "Geometria Euclidiana - DCET0121"
 collection: teaching
 type: "Cursos de Matemática"
 permalink: /teaching/geometriaeuclidiana
@@ -12,7 +12,7 @@ Semestre 2023.2
 
 Ementa
 ======
-Inserir a ementa aqui
+Método Axiomático. Regras Lógicas. Postulados de Euclides. Axiomas de Incidência. Axiomas de Ordem. Axiomas de Continuidade. Axiomas de Congruência. Axiomas de Paralelas.
 
 Avaliação
 ======
