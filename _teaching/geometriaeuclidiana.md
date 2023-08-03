@@ -21,6 +21,9 @@ Serão consideradas para a avaliação uma prova escrita para cada uma das três
 Bibliografia
 ======
 
+1. Barbosa, J. L. M., Geometria Euclidiana, Coleção do Professor de Matemática, SBM, Rio de Janeiro, 2006.
+2. Euclides, Os Elementos, Tradução de Irineu Bicudo, Unesp, São Paulo, 2009.
+3. Lima, E. L., Medida e Forma em Geometria, Coleção do Professor de Matemática, SBM, Rio de Janeiro, 2009.
 
 Plano de Curso
 ======
