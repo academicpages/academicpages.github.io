@@ -83,6 +83,8 @@ def generate_md_file(author):
             f.write(f"### Abstract\n{abstract}\n\n")
             f.write(f"DOI : \n{doi}\n\n")  # Adding the DOI information to the .md file
             f.write(f"PubchemID : \n{pubchem_id}\n\n")  # Adding the PubchemID information to the .md file
+            print(f"File {filename} is created.")
 
 if __name__ == "__main__":
     generate_md_file("Avratanu Biswas")
+    print("Python script is running...")
