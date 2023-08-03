@@ -27,7 +27,7 @@ I would love to work with all people together on some interesting projects! **Fe
 
 ## Software Copyrights
 
-1. **Yu, D.**, Wang, J., 2023. Software Copyright of Xunji Blockchain Platform for Traceability of Agricultural Product. Software Application 2023R11S0923551, filed June 15, 2023. Pending.
+1. **Yu, D.**, Wang, J., 2023. Software Copyright of Xunji Blockchain Platform for Traceability of Agricultural Product. Software Application 2023SR0812724, filed July 06, 2023.
 2. **Yu, D.**, Wang, J., 2023. Software Copyright of Blockchain Supervision Platform for Agricultural Production. Software Application 2023R11S0925268, filed June 15, 2023. Pending.
 
 
