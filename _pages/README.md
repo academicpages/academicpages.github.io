@@ -7,13 +7,13 @@ author_profile: false
 {% include base_path %}
 
 
+[![pages-build-deployment](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=master)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/pages/pages-build-deployment)
+![GitHub last commit](https://img.shields.io/github/last-commit/AvratanuBiswas/AvratanuBiswas.github.io/master)
+[![Latest blog post workflow](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/blog-post-workflow.yml)
+[![Latest YouTube workflow](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/youtube.yml/badge.svg)](https://github.com/AvratanuBiswas/AvratanuBiswas.github.io/actions/workflows/youtube.yml)
 
-
-![GitHub last commit](https://img.shields.io/github/last-commit/AvratanuBiswas/AvratanuBiswas.github.io?style=plastic)
 
 ### Latest Blog Posts 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@avra42)
-
 
 <!-- BLOG-POST-LIST:START -->
 - [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://ai.plainenglish.io/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
@@ -24,7 +24,6 @@ author_profile: false
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/c/Avra_b)
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM"><img width="140px" src="https://i.ytimg.com/vi/bE9sf9vGsrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bE9sf9vGsrM">🦜🛠️ Getting started with LangSmith - Integrating with LANGCHAIN powered Web Applications &amp; Chatbots</a><br/>Jul 20, 2023</td></tr></table>
