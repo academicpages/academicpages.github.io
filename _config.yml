@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xian Kong (孔宪)"
+title                    : "Kong Lab"
 title_separator          : "-"
 name                     : &name "Xian Kong"
 description              : &description "Molecular thermodynamics in the age of big data"
