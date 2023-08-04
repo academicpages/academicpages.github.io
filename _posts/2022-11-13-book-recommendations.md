@@ -30,7 +30,7 @@ It's through this podcast that I dared to call myself a feminist. Deborah, her c
 
 It broadened my world and my thinking. It gave me a lifeline, a place of recognition, a place of growth. It gave me joy and companionship when I felt isolated as a woman in a male-dominated field.
 
-### [Nanette: A Memoir Situation](https://www.goodreads.com/book/show/40588534-ten-steps-to-nanette), by Hannah Gadsby
+### [Ten Steps to Nanette: A Memoir Situation](https://www.goodreads.com/book/show/40588534-ten-steps-to-nanette), by Hannah Gadsby
 
 I hadn't actually read this book (although I bought myself a copy and am in the middle of it now), but in a way, this is also a placeholder book for me. It stands for *Nanette* and *Douglas*, Gadsby's Netflix Specials, as well as for her speeches ([this one](https://youtu.be/5AUeO5nZNLI) and [this one](https://youtu.be/OEPsqFLhHBc), in particular). 
 
