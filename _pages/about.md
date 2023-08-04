@@ -43,7 +43,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 
 * Analysis on the col lection method and simulationalgorithm of Chinese speech errors
 <br>
-Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
+Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan
 <br>
 *CLSW 2022*
 
