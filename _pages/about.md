@@ -32,20 +32,20 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
   * Multi-modal learning
 
 * 2021.07 ~ 2021.8: Research Intern
-  * Tencent AI Lab
-  * Multi-modal Dialogue
+Tencent AI Lab, Multi-modal Dialogue
 
 
 ## Publications
 
 * [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880) (The linked version is pending an update)
-
-Hongpeng Lin, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu. ACM MM 2023
+**Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
+*ACM MM 2023*
+<br>
 
 * Analysis on the col lection method and simulationalgorithm of Chinese speech errors
-
-Hao Pu, Hongpeng Lin, Ruihua Song, Mei Yan. CLSW 2022
-
+Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
+*CLSW 2022*
+<br>
 
 
 
