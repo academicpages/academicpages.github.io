@@ -13,7 +13,7 @@ Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.
 
 ## Research Interests
 My research interests lie in Natural Language Processing and Multimodal Learning. 
-
+<br>
 Recently, I have been dedicated to enabling Large Language Models (LLM) to process multimodal information and endowing them with the ability to perceive the world, in order to advance the development of Multimodal Dialogue.
 
 
@@ -32,8 +32,8 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
   * Multi-modal learning
 
 * 2021.07 ~ 2021.8: Research Intern
-<br>
-Tencent AI Lab, Multi-modal Dialogue
+  * Tencent AI Lab
+  * Multi-modal Dialogue
 
 
 ## Publications
@@ -46,9 +46,11 @@ Tencent AI Lab, Multi-modal Dialogue
 
 
 * Analysis on the col lection method and simulationalgorithm of Chinese speech errors
-  Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
-*CLSW 2022*
 <br>
+Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
+<br>
+*CLSW 2022*
+
 
 
 
