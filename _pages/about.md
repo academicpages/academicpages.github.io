@@ -39,12 +39,14 @@ Tencent AI Lab, Multi-modal Dialogue
 ## Publications
 
 * [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880) (The linked version is pending an update)
-**Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
-*ACM MM 2023*
 <br>
+**Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
+<br>
+*ACM MM 2023*
+
 
 * Analysis on the col lection method and simulationalgorithm of Chinese speech errors
-Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
+  Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan.
 *CLSW 2022*
 <br>
 
