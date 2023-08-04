@@ -7,6 +7,8 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2023
+* Mina Aghaei Dinani, Adrian Holzer, Hung Nguyen, Marco Ajmone Marsan and Gianluca Rizzo, A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management, To appear in IEEE Transactions on Mobile Computing, 2023. **CORE A***
+* Chowdhury, A., Nguyen, H., CoZure:  Context Free Grammar Co-Pilot Tool for Finding New Lateral Movements in Azure Active Directory, Accepted to appear in the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023), October 2023, Hong Kong. **CORE A**
 *  Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935. **CORE A**
 *  Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teacher-Student with Human Feedback Model for Human-AI Collaboration in Cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 1040–1042. **CORE A**
 *  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2023). A Scalable Double Oracle Algorithm for Hardening Large Active Directory Systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 993–1003. **CORE A**
