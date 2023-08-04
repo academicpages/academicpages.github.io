@@ -12,7 +12,7 @@ redirect_from:
 
 <div style="display: flex">
   <div style="flex: 1; flex-grow: 1">
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+    &ensp;&ensp;&ensp;&ensp;
     <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
     <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> Xian Kong (孔 宪)</p>
     <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
