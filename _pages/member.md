@@ -18,7 +18,10 @@ redirect_from:
     <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
     Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 2; font-weight:bold; word-break: break-all;"> 
-    &ensp; 招生方向: 软物质科学与工程 (学术博士/硕士) ; 材料与化工 (专业硕士)  </p>
+    &ensp; 招生方向: <br> 
+    &ensp; 软物质科学与工程 (学术博士/硕士) ;<br> 
+    &ensp; 材料与化工 (专业硕士)  
+  </p>
     
   </div>
   <div style="flex: 1; flex-grow: 2">
