@@ -17,9 +17,9 @@ redirect_from:
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;">  -->
     <!-- &ensp; </p> -->
-    <img src="../images/kx.jpg" style="width: 150px; height:200px;">
+    <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
     <p style="font-size: 18px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; Email: xk@scut.edu.cn  </p>
+    &ensp;&ensp;&ensp; Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 2; line-height: 0.5;font-weight:bold;"> 
     &ensp; 招生方向: 软物质科学与工程 (学术博士/硕士) ; 材料与化工 (专业硕士)  </p>
     
