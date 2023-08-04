@@ -39,4 +39,4 @@ At CSML, we believe in providing our students with individual attention, clear e
 
 If you are interested in pursuing research in this exciting and rapidly growing field, we invite you to join our team at CSML. The best way to get in touch is by filling out [this short survey](https://forms.gle/YQcw92ZJorb4NmVV9).
 
-Optionally, for an extra challenge, try to solve [this puzzle](https://github.com/elswit/dart/). Make a pull request with your solution (or just your thoughts), and we can take it from there.
+<!-- Optionally, for an extra challenge, try to solve [this puzzle](https://github.com/elswit/dart/). Make a pull request with your solution (or just your thoughts), and we can take it from there. -->
