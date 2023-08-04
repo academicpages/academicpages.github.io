@@ -1,3 +1,14 @@
+---
+title: "Applied Machine Learning (CECS 457)"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/applied-ml
+venue: "CSU Long Beach"
+date: 2023-05-01
+location: "Long Beach, USA"
+---
+
+---
 
 # Applied Machine Learning (CECS 457)
 
