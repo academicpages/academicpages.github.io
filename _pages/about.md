@@ -19,7 +19,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 
 ## Work Experience
 
-* 2023.5 ~ 2023.8: Research Intern
+* 2023.5 ~ Present: Research Intern
   * Xianyuan Technology
  
 * 2021.11 ~ 2022.6: Research Intern
@@ -28,7 +28,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 * 2021.10 ~ 2022.1: Research Intern
   * Beijing Academy of Artificial Intelligence (BAAI)
 
-* 2021.07 ~ 2021.8: Research Intern
+* 2021.7 ~ 2021.8: Research Intern
   * Tencent AI Lab
 
 
