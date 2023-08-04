@@ -12,12 +12,9 @@ redirect_from:
 
 <div style="display: flex">
   <div style="flex: 1; flex-grow: 1">
-    <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
     <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> 孔 宪 (Xian Kong)</p>
-    <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
-    <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;">  -->
     <!-- &ensp; </p> -->
-    <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
+    &ensp;&ensp; <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
     <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
     Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 2; font-weight:bold; word-break: break-all;"> 
