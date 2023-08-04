@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-## Principal Investigator & Professor
+## Principal Investigator
 
 <div style="display: flex;">
   <div style="flex: 1">
@@ -38,26 +38,19 @@ redirect_from:
     <p style="font-size:18px; line-height: 1; line-height: 0.5"> &ensp;&ensp;
                   &bull; 2021- &nbsp;: Professor, South China University of Technology, </p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; School of Emergent soft matter</p>
+                  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; School of Emergent Soft Matter</p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                  &bull; 2017-2021: Postdoctoral Research Fellow </p>
+                  &bull; 2017-2021: Postdoctoral Research Fellow (with Jian Qin) </p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
                 &ensp;&ensp;  &#9702; Stanford University </p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                &ensp;&ensp;  &#9702; Supervisor: Jian Qin </p>
+                  &bull; 2016-2017: Postdoctoral Research Fellow (with Jianwen Jiang) </p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                  &bull; 2016-2017: Postdoctoral Research Fellow </p>
+                &ensp;&ensp;  &#9702; National University of Singapore </p>  
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                &ensp;&ensp;  &#9702; National University of Singapore </p>
+                  &bull; 2013-2014: Visiting PhD student (with Jianzhong Wu) </p>
     <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                &ensp;&ensp;  &#9702; Supervisor: Jianwen Jiang </p>  
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                  &bull; 2013-2014: Visiting PhD student </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                &ensp;&ensp;  &#9702; University of California, Riverside </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5"> &ensp;&ensp;
-                &ensp;&ensp;  &#9702; Supervisor: Jianzhong Wu </p>   
-                    
+                &ensp;&ensp;  &#9702; University of California, Riverside </p> 
   </div>
 </div>
 
