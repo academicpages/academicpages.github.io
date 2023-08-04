@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a 2-year master student of Artificial Intelligence at Gaoling School of Artificial Intelligence, Renmin University of China. I'm advised by Prof. [Ruihua Song](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=ATNUbVJhBjJRNgY3UDQFMg%3D%3D&ln=en).
+Welcome! I am a 2-year master student of Artificial Intelligence at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I'm advised by Prof. [Ruihua Song](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=ATNUbVJhBjJRNgY3UDQFMg%3D%3D&ln=en), working on Natural Language Processing(NLP) and Multi-modal Dialogue. 
 
 
 A data-driven personal website
