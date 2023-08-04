@@ -26,7 +26,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
   * MMU, Kuaishou Technology
 
 * 2021.10 ~ 2022.1: Research Intern
-  * Beijing Academy of Artificial Intelligence
+  * Beijing Academy of Artificial Intelligence (BAAI)
 
 * 2021.07 ~ 2021.8: Research Intern
   * Tencent AI Lab
