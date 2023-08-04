@@ -11,4 +11,5 @@ Welcome! I am a 2nd-year master student of Artificial Intelligence at [Gaoling S
 
 ## Research Interests
 My research interests lie in Natural Language Processing and Multimodal Learning. 
-Recently, I have been dedicated to enabling Large Language Models to process multimodal information and endowing them with the ability to perceive the world, in order to advance the development of Multimodal Dialogue.
+
+Recently, I have been dedicated to enabling Large Language Models (LLM) to process multimodal information and endowing them with the ability to perceive the world, in order to advance the development of Multimodal Dialogue.
