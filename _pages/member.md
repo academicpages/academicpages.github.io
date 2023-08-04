@@ -2,7 +2,7 @@
 layout: archive
 title: "Members"
 permalink: /member/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
