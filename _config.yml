@@ -11,7 +11,7 @@ title                    : "Dongyang Yu"
 title_separator          : "-"
 name                     : &name "Dongyang Yu"
 description              : &description "personal description"
-# url                      : http://localhost:4000  # For development
+# url                      : http://localhost:4001  # For development
 url                      : https://dongyangyu1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dongyangyu1999/dongyangyu1999.github.io"
