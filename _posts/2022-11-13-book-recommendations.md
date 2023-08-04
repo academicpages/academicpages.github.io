@@ -24,7 +24,7 @@ It seems that by now, all the books that I had to send overseas have arrived at 
 
 ### [The Guilty Feminist](https://www.goodreads.com/book/show/39703115-the-guilty-feminist), by Deborah Frances-White
 
-While this book in itself is a great read, full of jokes and wisdom, it is mostly a placeholder for the [The Guilty Feminist podcast](https://guiltyfeminist.com/). Early into my doctorate, my advisor Siegfried's tenant recommended the show to me, and I've been a listener ever since. The main message of the podcast is: *you don't have to be perfect to make a meaningful change.*
+While this book in itself is a great read, full of jokes and wisdom, it is mostly a placeholder for the [The Guilty Feminist podcast](https://guiltyfeminist.com/). Early into my doctorate, my advisor Siegfried's tenant recommended the show to me, and I've been a listener ever since. The main message of the podcast is: *you don't have to be perfect to make meaningful change.*
 
 It's through this podcast that I dared to call myself a feminist. Deborah, her co-hosts and her guests motivated me to show up, to speak my mind, and to stand up for myself and others. Additionally, this show was a gateway drug (to borrow a phrase from DFW herself) into many modern (feminist) thinkers, with whom I connected and interacted online.
 
