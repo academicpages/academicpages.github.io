@@ -30,19 +30,19 @@ redirect_from:
     <p style="font-size:24px; font-weight:bold;; line-height: 1; word-break: break-all;"> 
     &ensp; Education </p>
     <p style="font-size:18px;; line-height: 1; word-break: break-all;"> 
-      &ensp;&ensp; &bull; B.S. in Beijing, China, Tsinghua University, 2010 </p>
+      &bull; B.S. in Beijing, China, Tsinghua University, 2010 </p>
     <p style="font-size:18px;; line-height: 1;  word-break: break-all;"> 
-      &ensp;&ensp; &bull; Ph.D in Beijing, China, Tsinghua University, 2016 </p>
+      &bull; Ph.D in Beijing, China, Tsinghua University, 2016 </p>
     <p style="font-size:24px; font-weight:bold; line-height: 1"> &ensp; Work experience </p>
     <p style="font-size:18px; line-height: 2;  word-break: break-all;"> 
-      &ensp;&ensp; &bull; 2021- &nbsp;: Professor, South China University of Technology, School of Emergent Soft Matter
+      &bull; 2021- &nbsp;: Professor, South China University of Technology, School of Emergent Soft Matter
     </p>
     <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
-      &ensp;&ensp;&bull; 2017-2021: Postdoctoral Research Fellow (with Jian Qin),  Stanford University </p>
+      &bull; 2017-2021: Postdoctoral Research Fellow (with Jian Qin),  Stanford University </p>
     <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
-      &ensp;&ensp;&bull; 2016-2017: Postdoctoral Research Fellow (with Jianwen Jiang), National University of Singapore </p>  
+      &bull; 2016-2017: Postdoctoral Research Fellow (with Jianwen Jiang), National University of Singapore </p>  
     <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
-      &ensp;&ensp;&bull; 2013-2014: Visiting PhD student (with Jianzhong Wu), University of California, Riverside </p> 
+      &bull; 2013-2014: Visiting PhD student (with Jianzhong Wu), University of California, Riverside </p> 
   </div>
 </div>
 
@@ -58,7 +58,7 @@ redirect_from:
 </div> -->
 
 
-## Ph.D. Candidate
+## Ph.D. Students
 <div style="display:flex">
   <div style="flex:1">
     <img src="../images/yan.jpg" style="width: 150px; height:200px;">
@@ -89,7 +89,7 @@ redirect_from:
   </div>
 </div>
 
-## Master Candidate
+## Master Students
 <div style="display:flex">
   <div style="flex:1">
     <img src="../images/zizhao.png" style="width: 150px; height:200px;">
@@ -174,4 +174,4 @@ redirect_from:
   </div>
 </div>
 
-## Undergraduate student
+## Undergraduate students
