@@ -10,8 +10,8 @@ redirect_from:
 
 ## Principal Investigator
 
-<div style="display: flex;">
-  <div style="flex: 1">
+<div style="display: flex">
+  <div style="flex: 1; flex-grow: 1">
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
     <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> 孔 宪 (Xian Kong)</p>
     <!-- <p style="font-size: 15px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p> -->
@@ -26,7 +26,7 @@ redirect_from:
     &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  &ensp; 材料与化工 (专业硕士)  </p>
     
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; flex-grow: 2">
     <!-- <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> &ensp; 孔 宪 </p> -->
     <p style="font-size: 12px; line-height: 1; line-height: 0.5; font-weight:bold;"> &ensp; </p>
     <p style="font-size:24px; font-weight:bold;; line-height: 1"> &ensp; Education </p>
