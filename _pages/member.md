@@ -26,24 +26,23 @@ redirect_from:
   </div>
   <div style="flex: 1; flex-grow: 2">
     <!-- <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> &ensp; 孔 宪 </p> -->
-    <p style="font-size: 12px; line-height: 1; line-height: 0.5; font-weight:bold; word-break: break-all;"> &ensp; </p>
+    <p style="font-size: 12px; line-height: 1;  font-weight:bold; word-break: break-all;"> &ensp; </p>
     <p style="font-size:24px; font-weight:bold;; line-height: 1; word-break: break-all;"> 
     &ensp; Education </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5; word-break: break-all;"> 
+    <p style="font-size:18px;; line-height: 1; word-break: break-all;"> 
       &ensp;&ensp; &bull; B.S. in Beijing, China, Tsinghua University, 2010 </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5; word-break: break-all;"> 
+    <p style="font-size:18px;; line-height: 1;  word-break: break-all;"> 
       &ensp;&ensp; &bull; Ph.D in Beijing, China, Tsinghua University, 2016 </p>
     <p style="font-size:24px; font-weight:bold; line-height: 1"> &ensp; Work experience </p>
-    <p style="font-size:18px; line-height: 1; line-height: 0.5; word-break: break-all;"> 
+    <p style="font-size:18px; line-height: 2;  word-break: break-all;"> 
       &ensp;&ensp; &bull; 2021- &nbsp;: Professor, South China University of Technology, School of Emergent Soft Matter
     </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5 ; word-break: break-all;"> 
-      &ensp;&ensp;
-                  &bull; 2017-2021: Postdoctoral Research Fellow (with Jian Qin),  Stanford University </p>
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5; word-break: break-all;"> &ensp;&ensp;
-                  &bull; 2016-2017: Postdoctoral Research Fellow (with Jianwen Jiang), National University of Singapore </p>  
-    <p style="font-size:18px;; line-height: 1; line-height: 0.5; word-break: break-all;"> &ensp;&ensp;
-                  &bull; 2013-2014: Visiting PhD student (with Jianzhong Wu), University of California, Riverside </p> 
+    <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
+      &ensp;&ensp;&bull; 2017-2021: Postdoctoral Research Fellow (with Jian Qin),  Stanford University </p>
+    <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
+      &ensp;&ensp;&bull; 2016-2017: Postdoctoral Research Fellow (with Jianwen Jiang), National University of Singapore </p>  
+    <p style="font-size:18px;; line-height: 2; word-break: break-all;"> 
+      &ensp;&ensp;&bull; 2013-2014: Visiting PhD student (with Jianzhong Wu), University of California, Riverside </p> 
   </div>
 </div>
 
@@ -71,7 +70,7 @@ redirect_from:
     Email: 202210191706@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/xueying.jpg" style="width: 185px; height:200px;">
+    <img src="../images/xueying.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     袁雪迎 (Xueying Yuan)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -80,7 +79,7 @@ redirect_from:
     Email: 202210191713@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/rtz.jpg" style="width: 155px; height:200px;">
+    <img src="../images/rtz.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     赵若廷 (Ruoting Zhao)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -93,7 +92,7 @@ redirect_from:
 ## Master Candidate
 <div style="display:flex">
   <div style="flex:1">
-    <img src="../images/tree.png" style="width: 150px; height:200px;">
+    <img src="../images/zizhao.png" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     李子昭 (Zizhao Li)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -102,7 +101,7 @@ redirect_from:
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/tree.png" style="width: 150px; height:200px;">
+    <img src="../images/xiupeng.png" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     陈修棚 (Xiupeng Chen)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -111,7 +110,7 @@ redirect_from:
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/tree.png" style="width: 150px; height:200px;">
+    <img src="../images/shangyu.png" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     吕尚禹 (Shangyu lv)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -141,7 +140,7 @@ redirect_from:
     Email: 202220161872@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/yuanxin.jpg" style="width: 180px; height:200px;">
+    <img src="../images/yuanxin.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     周媛欣 (Xuanxin Zhou)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
