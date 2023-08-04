@@ -23,7 +23,7 @@ Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-
 Tisch, Daria, Tamara Gutfleisch (2023): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, Volume 21(3), 1369–1390, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041), [replication files](https://osf.io/q7vbh/).
 
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, online first,  [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7), [replication files](https://osf.io/4mvxr/).
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, 38, 811–834,  [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7), [replication files](https://osf.io/4mvxr/).
 
 
 Tisch, Daria (2021) „My Gain or Your Loss? Changes in within-Couple Relative Wealth and Partners’ Life Satisfaction“. European Sociological Review (37,
