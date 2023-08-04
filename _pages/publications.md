@@ -13,35 +13,31 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 Peer reviewed journal articles
 ======
 
-Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World (Accepted).
+Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World (Accepted, in press), [replication files](https://osf.io/9fkav/).
 
-Emma Ischinsky, Daria Tisch (2023): Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2023. Australian Feminist Studies [doi.org/10.1080/08164649.2023.2243649](https://dx.doi.org/10.1080/08164649.2023.2243649).
+Emma Ischinsky, Daria Tisch (2023): Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2023. Australian Feminist Studies [doi.org/10.1080/08164649.2023.2243649](https://dx.doi.org/10.1080/08164649.2023.2243649), [replication files](https://osf.io/yekqx/). 
 
-Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071)
-
-
-Tisch, Daria, Tamara Gutfleisch (2022): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, online first, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041)
+Schechtl, Manuel, Daria Tisch (2023): Tax Principles, Policy Feedback, and Self-Interest: Cross-National Experimental Evidence on Wealth Tax Preferences. Socio-Economic Review [doi.org/10.1093/ser/mwac071](https://doi.org/10.1093/ser/mwac071) , [replication files](https://osf.io/qu9za/). 
 
 
-Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, online first,  [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7) 
+Tisch, Daria, Tamara Gutfleisch (2023): Unequal but just? Experimental evidence on (gendered) distributive justice principles in parental financial gifts. Socio-Economic Review, Volume 21(3), 1369–1390, [doi.org/10.1093/ser/mwac041](https://doi.org/10.1093/ser/mwac041), [replication files](https://osf.io/q7vbh/).
 
 
-Tisch, Daria (2021) „My Gain or Your Loss? Changes in within-Couple Relative
-Wealth and Partners’ Life Satisfaction“. European Sociological Review (37,
-2) 271–286, [doi.org/10.1093/esr/jcaa052](https://academic.oup.com/esr/article/37/2/271/5999093?guestAccessKey=3017d802-ea6d-4289-8799-570de6bba308&login=false).
+Kapelle, Nicole, Nutz, Theresa, Tisch, Daria, Schechtl, Manuel, Lersch, Philipp M. & Struffolino, Emanuela (2022): My wealth, (y)our life satisfaction? Sole and joint wealth ownership and life satisfaction in marriage. European Journal of Population, online first,  [doi.org/10.1007/s10680-022-09630-7](https://doi.org/10.1007/s10680-022-09630-7), [replication files](https://osf.io/4mvxr/).
 
 
-Tisch, Daria, Philipp Lersch (2021) „Distributive Justice in Marriage: Experimen-
-tal Evidence on Beliefs about Fair Savings Arrangements“. Journal of Marriage and Family (83, 2) 516-533,  [doi.org/10.1111/jomf.12694](https://doi.org/10.1111/jomf.12694).
+Tisch, Daria (2021) „My Gain or Your Loss? Changes in within-Couple Relative Wealth and Partners’ Life Satisfaction“. European Sociological Review (37,
+2) 271–286, [doi.org/10.1093/esr/jcaa052](https://academic.oup.com/esr/article/37/2/271/5999093?guestAccessKey=3017d802-ea6d-4289-8799-570de6bba308&login=false), [replication files](https://osf.io/r83zd/). 
 
 
-Lutter, Mark, Karlijn Roex, Daria Tisch (2020) „Anomie or imitation? The
-Werther effect of celebrity suicides on suicide rates in 34 OECD coun-
+Tisch, Daria, Philipp Lersch (2021) „Distributive Justice in Marriage: Experimental Evidence on Beliefs about Fair Savings Arrangements“. Journal of Marriage and Family (83, 2) 516-533,  [doi.org/10.1111/jomf.12694](https://doi.org/10.1111/jomf.12694), [replication files](https://osf.io/h4uvb/). 
+
+
+Lutter, Mark, Karlijn Roex, Daria Tisch (2020) „Anomie or imitation? The Werther effect of celebrity suicides on suicide rates in 34 OECD coun-
 tries, 1960–2014“, Social Science and Medicine (246), [doi.org/10.1016/j.socscimed.2019.112755](https://doi.org/10.1016/j.socscimed.2019.112755).
 
 
-Lutter, Mark, Daria Tisch, Jens Beckert (2018) „Social Explanations of Lottery
-Play: New Evidence Based on National Survey Data“, Journal of Gambling
+Lutter, Mark, Daria Tisch, Jens Beckert (2018) „Social Explanations of Lottery Play: New Evidence Based on National Survey Data“, Journal of Gambling
 Studies (34) 1185–1203, [doi.org/10.1007/s10899-018-9748-0](https://doi.org/10.1007/s10899-018-9748-0).
 
 Data
