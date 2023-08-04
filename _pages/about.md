@@ -32,6 +32,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
   * Multi-modal learning
 
 * 2021.07 ~ 2021.8: Research Intern
+<br>
 Tencent AI Lab, Multi-modal Dialogue
 
 
