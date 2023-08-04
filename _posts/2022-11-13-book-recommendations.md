@@ -56,7 +56,7 @@ For extra context about why Miller wrote this book, I can also recommend [Ezra K
 
 I think every scientist should read these two books by Angela Saini. 
 
-The first, *Inferior*, is about research into the differences between men and women. Saini does a great job at dismantling the flawed logic and assumptions behind research questions, study design and interpretation of data. She's a great critical thinker and understands the power of the storis we tell ourselves and others.
+The first, *Inferior*, is about research into the differences between men and women. Saini does a great job at dismantling the flawed logic and assumptions behind research questions, study design and interpretation of data. She's a great critical thinker and understands the power of the stories we tell ourselves and others.
 
 In *Superior*, she does the same, but for the research into the difference between "races". It's an absolutely terrifying read, illustrating the destructive power of the clout that comes with academic titles.
 
@@ -64,9 +64,9 @@ These books stimulated me to look critically at any piece of research that is ab
 
 ### [The Immortal Life of Henrietta Lacks](https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks), by Rebecca Skloot
 
-Before I read this book, all I knew about the story of Henrietta Lacks was: "White doctor takes cells from Black patient without her knowledge or conset, and gets rich and famous."
+Before I read this book, all I knew about the story of Henrietta Lacks was: "White doctor takes cells from Black patient without her knowledge or consent, and gets rich and famous."
 
-This book provided *a lot* of context, from *a lot* of different angles. It is about journalism, science, history, and the personal histories of Henrietta and her family. I'm truly amazed by how much the entire world has benefitted from Henrietta's cells, and mortified by how her family wa treated. 
+This book provided *a lot* of context, from *a lot* of different angles. It is about journalism, science, history, and the personal histories of Henrietta and her family. I'm truly amazed by how much the entire world has benefitted from Henrietta's cells, and mortified by how her family was treated. 
 
 This was a fascinating read, and I'm happy that Henrietta's story has been getting some more attention the last years. Every scientist should read this book. 
 
