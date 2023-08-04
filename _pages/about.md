@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I am a 2nd-year master student of Artificial Intelligence at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/english), [Renmin University of China](https://www.ruc.edu.cn/en). I'm advised by Prof. [Ruihua Song](https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=0&ruccode=ATNUbVJhBjJRNgY3UDQFMg%3D%3D&ln=en), working on Natural Language Processing (NLP) and Multimodal Dialogue. Prior to that, I completed my B.S. from School of Computer Science and Technology, [Xidian University](https://en.xidian.edu.cn/).
 
-Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_linhongpeng.pdf)
+Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_hongpenglin.pdf)
 
 ## Research Interests
 My research interests lie in Natural Language Processing and Multimodal Learning. 
@@ -41,7 +41,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 *ACM MM 2023*
 
 
-* Analysis on the col lection method and simulationalgorithm of Chinese speech errors
+* Analysis on the collection method and simulation algorithm of Chinese speech errors
 <br>
 Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan
 <br>
