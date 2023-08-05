@@ -10,9 +10,6 @@ location: "Long Beach, USA"
 
 ---
 
-
-# Applied Machine Learning (CECS 457)
-
 - [Applied Machine Learning (CECS 457)](#applied-machine-learning-cecs-457)
   - [Course Outline](#course-outline)
   - [Learning Outcomes](#learning-outcomes)
@@ -130,7 +127,7 @@ Fundamentals of machine learning with an emphasis on the process of applying mac
 
 
 
-![](media/16911782410084/16911908746467.jpg)
+![](/images/16911908746467.jpg)
 
 
 
@@ -155,6 +152,8 @@ Every practical project in this course entails some form of coding in Python. Th
 |  Report Quality       | 5%      |
 | Attendance            | 10%     |
 | **Sum**               | **100%**|
+
+Extra credit will be available throughout the semester to make up for an assignment that did not earn you high marks. These will typically involve solving problems in novel ways or researching an interesting topic and reporting back to the class on it.
 
 ## Grading Policy
 
@@ -181,5 +180,3 @@ Work that you submit is assumed to be original unless your source material is do
 ## Disclaimer
 
 Please be aware that this course outline may change without prior notice. There may be instances where adjustments are needed for the course content, schedule, or grading policy. As a result, it is important that students check the official course syllabus on canvas regularly for the latest updates.
-
-<!-- ## Grading Policy -->
