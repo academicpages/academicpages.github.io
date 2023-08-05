@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-My experience as an information professional began when I developed the Polk County (Florida) School Board website. Following this, I served as a technology teacher and school network manager. My responsibilities in these positions included overseeing a large school network, training teachers and staff, and developing a technology plan and budget.
+I set up this website to practice web development on GitHub. My experience as a data/information professional began when I developed the main website for Polk County (Florida) Public Schools. Following this, I served as a technology teacher and school network manager for the same organization.
 
-I currently serve as pastor of New Mount Vernon United Methodist Church in Winston Salem, NC, where I teach church members using scripture, historic examples, and contemporary sources. I have served as a pastor in the Western North Carolina Conference since I graduated from Duke Divinity School in 2008.
+I currently serve as pastor of New Mount Vernon United Methodist Church in Winston Salem, NC, where I teach church members using scripture, historic examples, and scientific research.
 
 Feel free to contact me at <contacts@craigtoth.com>
