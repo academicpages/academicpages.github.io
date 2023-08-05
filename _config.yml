@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fábio Farias Pereira / UFAL"
+title                    : "Fábio"
 title_separator          : "-"
 name                     : &name "Fábio"
 description              : &description "personal description"
@@ -18,7 +18,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ffariaspereira
 facebook:
   username               :
   app_id                 :
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Fábio Farias Pereira"
   avatar           : "profile-fabio.jpeg"
-  bio              : "I am an accomplished Earth System modeler and data scientist. With a strong academic background in Hydrology, I have made contributions in the field of environmental research and policy formulation."
-  location         : "BR-104, Km 85, s/n, Rio Largo - AL, CEP 57100-000"
-  employer         : "Campus de Engenharias e Ciências Agrárias - UFAL"
+  bio              : "I am an accomplished Earth System modeler and data scientist. With a strong academic background in Hydrology and Terrestrial Ecosystem, I have made contributions in the field of environmental sciences."
+  location         : "Address: BR-104, Km 85, Rio Largo - AL, CEP 57100-000" 
+  employer         : "Affiliation: Campus de Engenharias e Ciências Agrárias (CECA) - UFAL"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=B8Tx63UAAAAJ&hl=en&oi=ao"
   email            : "fabio.pereira@ceca.ufal.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "http://lattes.cnpq.br/0787595164970518"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ffariaspereira"
+  github           : #"ffariaspereira"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "fabio-pereira-72150231"
   orcid            : "https://orcid.org/0000-0002-5678-6730"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/ffariaspereira"
+  twitter          : # "ffariaspereira"
   vine             :
   weibo            :
   xing             :
