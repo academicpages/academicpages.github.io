@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an assistant professor in the department of statistics and data science, Southern University of Science and Technology. Before Sustech, I was a postdoctoral fellow in CUHK (2022-2023) and CityU (2021-2022). I obtained my PhD degree in statistics from Fudan university in 2021 under the supervision of Prof. Zhiliang Ying, and bachelor degree in mathematics from Fudan university in 2016. 
+I am an assistant professor in the department of statistics and data science, Southern University of Science and Technology. Before Sustech, I was a postdoctoral fellow in CUHK (2022-2023) and CityU (2021-2022), working with Prof. Junhui Wang. I obtained my PhD degree in statistics from Fudan university in 2021 under the supervision of Prof. Zhiliang Ying, and bachelor degree in mathematics from Fudan university in 2016. 
 
 My research interests include network analysis, graphical model, causal inference and latent variable model.
 
