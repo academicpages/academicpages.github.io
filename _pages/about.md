@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-### About
+### About Me
 
-I am a post-doctoral associate in the [Computer Science](https://cs.vt.edu) Department at Virginia Tech, where I also received my PhD. My main [research](/research) area is in the theory and applications of [scientific machine learning](/research/sci-ml/). I am also interested in using [data science](/research/DPP/) to inform public health and policy decisions.
 
-My PhD thesis focused on efficient numerical methods for initial value problems. Most of that work has been [published](/publications) in SIAM, Elsevier, and Springer journals and [presented](/talks) to the scientific computing community.
+I am an assistant professor in the Computer Engineering and Computer Science Department at [California State University, Long Beach.](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science) My main [research](/research) area is in the theory and applications of [scientific machine learning](/research/sci-ml/). I am also interested in using [data science](/research/DPP/) to inform public health and policy decisions.
 
-I am joining the [Computer Engineering and Computer Science](https://www.csulb.edu/college-of-engineering/computer-engineering-computer-science) Department at California State University, Long Beach, in fall 2023.
-
+Previously, I worked as a post-doc in the Computer Science Department at [Virginia Tech](https://cs.vt.edu), where I also received my PhD. My thesis focused on efficient numerical methods for initial value problems. Most of that work has been [published](/publications) in SIAM, Elsevier, and Springer journals and was [presented](/talks) to the scientific computing community.
 
 ### Prospective Students
- If applied machine learning research is of interest to you, I am looking for inspired students to work with. Please complete this brief interest form [here]( https://forms.gle/YQcw92ZJorb4NmVV9).
+
+ If applied machine learning research is of interest to you, I am looking for inspired students to work with. Please complete a brief interest form [here]( https://forms.gle/YQcw92ZJorb4NmVV9).
 
 
 
