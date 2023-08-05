@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 
-I am currently a postdoctoral fellow (working with Prof. Junhui Wang) in Department of Statistics, Chinese University of Hong Kong. Before that, I was a postdoctoral fellow at City University of Hong Kong from August 2021 to July 2022. I received Ph.D. degree in Statistics (supervised by Prof. Zhiliang Ying) from Shanghai Center for Mathematical Sciences, Fudan University in July 2021, and B.S. degree in Mathematics from Fudan University. My research interests include statistical machine learning and its applications in network analysis, computation and statistical theory for high dimensional latent variable model, etc. 
+I am an assistant professor in the department of statistics and data science, Southern University of Science and Technology. Before Sustech, I was a postdoctoral fellow in CUHK (2022-2023) and CityU (2021-2022). I obtained my PhD degree in statistics from Fudan university in 2021 under the supervision of Prof. Zhiliang Ying, and bachelor degree in mathematics from Fudan university in 2016. 
+
+My research interests include network analysis, graphical model, causal inference and latent variable model.
 
 
 A data-driven personal website
