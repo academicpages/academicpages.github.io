@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Engineering Science (ENSC), Simon Fraser University, 2021 - 2025 (expected)
+* M.S. in Electrical Engineering, University of Tehran, 2017 - 2020
+* B.S. in Electrical Engineering (Control), Amirkabir University of Technology, 2012 - 2017
 
 Work experience
 ======
@@ -29,12 +29,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python (PyTorch, TensorFlow, OpenCV)
+  * Bash
+  * MATLAB
+  * C/C++
+  * R
+  * Julia
+* Languages
+  * English (Academic IELTS (2021): 7.5/9)
+  * Persian (Farsi)
 
 Publications
 ======
@@ -48,7 +52,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching Experience
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
