@@ -10,6 +10,7 @@ location: "Long Beach, USA"
 
 ---
 
+
 # Applied Machine Learning (CECS 457)
 
 - [Applied Machine Learning (CECS 457)](#applied-machine-learning-cecs-457)
@@ -43,13 +44,9 @@ Fundamentals of machine learning with an emphasis on the process of applying mac
 | Instructor | Dr. Arash Sarshar ([email](mailto:arash.sarshar@csulb.edu)) |
 | Term  | Fall 2023 |
 | Class Day & Time |  MW 3:30 ⎯ 4:45PM  |
-
-
-
-
-Class location: FCS-126
-Prerequisite: [CECS 456](http://catalog.csulb.edu/content.php?filter%5B27%5D=CECS&filter%5B29%5D=&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=8&expand=&navoid=903&search_database=Filter#tt8547)
-Office Hours: TBD (Please check canvas)
+| Class location   | FCS-126 |
+| Prerequisites    | [CECS 456](http://catalog.csulb.edu/content.php?filter%5B27%5D=CECS&filter%5B29%5D=&filter%5Bkeyword%5D=&filter%5B32%5D=1&filter%5Bcpage%5D=1&cur_cat_oid=8&expand=&navoid=903&search_database=Filter#tt8547)|
+| Office Hours | TBD (Please Check Canvas)
 
 ## Learning Outcomes
 
@@ -125,14 +122,15 @@ Office Hours: TBD (Please check canvas)
 - Practical project: Analyzing and addressing ethical implications in a machine learning application.
 
 ## Learning Resources
-**Zero Cost Course Materials**: This course does not have a required textbook. However, weekly readings will be assigned from open educational resources based on the topic. Here are a number of excellent machine learning and books can read for free: 
-- The Little Book of Deep Learning by [François Fleuret](https://fleuret.org/francois/lbdl.html). Creative Commons BY-NC-SA license. This book is a great primer for deep learning and it covers many of the pre-requisites for our class. 
--  An Introduction to Statistical Learning with Applications in Python, by G. James, D. Witten, T. Hastie, R. Tibshirani. 
-- Probabilistic Machine Learning by Kevin P. Murphy (Book I and II). Creative Commons CC-BY-NC-ND license.
+**Zero Cost Course Materials**: This course does not have a required textbook. However, some readings will be assigned from open educational resources based on the topic. Here are a number of excellent machine learning books you can access for free: 
+
+- [The Little Book of Deep Learning](https://fleuret.org/francois/lbdl.html) by François Fleuret. Available through CC BY-NC-SA license. This book is a great primer for deep learning and it covers many of the pre-requisites for our class. 
+-  [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com/), by G. James, D. Witten, T. Hastie, and R. Tibshirani. Made available by the authors. Standing in the middle of theory and practice, this book provides a more statistical view of machine learning and is also a great reference for python implementations of traditional ML. 
+- [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf), by C.M. Bishop. Available from Microsoft Research. This is _the book_ if you want to learn machine leaning theory at a deeper level of understanding. 
 
 
 
-![](images/16911908746467.jpg)
+![](media/16911782410084/16911908746467.jpg)
 
 
 
@@ -148,13 +146,13 @@ Office Hours: TBD (Please check canvas)
 <!-- Prof. Steven Brunton’s educational videos in the field of applied mathematics and engineering provide clear and concise explanations of complex concepts, making them accessible to learners of all levels. -->
 ## Evaluation Components 
 
-Every practical project entails some form of coding in Python. The students will compile their findings into a brief report, which they will submit along with a link to the reproducible code on Github. The projects are not intended to be at the level of the industry, but rather to improve the students' skills in using ML for a particular application. Maintaining sound software engineering practices and technical documentation is crucial for a successful career and as such, it is part of the evaluation. 
+Every practical project in this course entails some form of coding in Python. The students will compile their findings into a brief report, which they will submit along with a link to their reproducible code on Github. The projects are not intended to be at the level of the industry, but rather to improve the students' skills in using ML for a particular application. Maintaining sound software engineering practices and technical documentation is crucial for a successful career and as such, it is part of the evaluation. 
 
 | Evaluation Components | Percent |
 |:---------------------:|:-------:|
-| 8 mini-projects       | 80%     |
+| 8 mini-projects       | 8 ✕ 10%     |
 | Code reproducibility  | 5%      |
-|  Report Quality    | 5%      |
+|  Report Quality       | 5%      |
 | Attendance            | 10%     |
 | **Sum**               | **100%**|
 
@@ -170,7 +168,7 @@ Every practical project entails some form of coding in Python. The students will
  
 ## Special Accommodations
 
-We are committed to providing equal opportunities for all students in our courses. If you require any special accommodations due to a documented disability, medical condition, or other circumstance that may affect your ability to fully participate in the course, please notify me as early as possible. Also, please consult the [Bob Murphy access center](https://www.csulb.edu/student-affairs/bob-murphy-access-center) for more information. BMAC personnel will work with the student to identify a reasonable accommodation in partnership with appropriate academic offices and medical providers. Only approved BMAC petitions will be accommodated.
+We are committed to providing equal opportunities for all students in our courses. If you require any special accommodations due to a documented disability, medical condition, or other circumstance that may affect your ability to fully participate in the course, please notify me as early as possible. Also, please contact the [Bob Murphy access center (BMAC)](https://www.csulb.edu/student-affairs/bob-murphy-access-center) for more information. BMAC personnel will work with students to identify a reasonable accommodation in partnership with appropriate academic offices and medical providers. Only approved BMAC petitions will be accommodated.
 
 Any student who is facing academic or personal challenges due to difficulty in affording groceries/food and/or lacking a safe and stable living environment is urged to contact the [CSULB Student Emergency Intervention & Wellness Program](http://web.csulb.edu/divisions/students/studentdean/emergency_grant/). Additional resources are available via [Basic Needs Program](http://web.csulb.edu/divisions/students/basic_needs_program/index.html).For mental health assistance please check out [CSULB Counseling and Psychological Services (CAPS)](http://web.csulb.edu/divisions/students/caps/).
 
