@@ -14,6 +14,8 @@ redirect_from:
 Dementia
 ======
 
+* <b>Cheng, Y. </b>., Ho, E., Weintraub, S., Rentz, D., Gershon, R., Das, S., Dodge, H.. Predicting Brain Amyloid Status Using the NIH Toolbox for Assessment of Neurological and Behavioral Function, Alzheimer's Association International Conference (AAIC), Amsterdam, Netherlands, July, 2023.
+
 * <b>Cheng, Y. </b>. Deep Learning Clinical, Cognitive, and Neuroimaging Phenotypes from the MGH Memory Disorder Unit (MDU) Patients, MGH Memory Disorder Unit (MDU) Conference, Virtual. May., 2023.
 
 * <b>Cheng, Y. </b>. Predicting AD Status with Brain Morphometry: Utilizing Cerebrospinal Fluid as a Biomarker, Joint UCSF/MGH REC Scholars Program Event, Virtual. April, 2023.

@@ -10,6 +10,11 @@ location: "United States"
 ---
 <br>
 
+<b><big> Project Mentor, Neuromatch Academy - Computational Neuroscience & Deep Learning </big></b><br> <b> July 2023 – Aug. 2023 </b>
+* Mentored 17 graduate and undergraduate students in conducting machine learning and deep learning projects related to computational modeling of fMRI & EEG data, academic writing, and presentations.
+
+<br>
+
 <b><big> Project Mentor, Neuromatch Academy - Computational Neuroscience </big></b><br> <b> July 2022 – Aug. 2022 </b>
 * Mentored 10 graduate students in conducting projects related to fMRI data analyses and computational modeling, including experimental design, data analyses, academic writing, and giving presentations.
 

@@ -106,6 +106,8 @@ Select Conference Presentations
 <br>
 <b><big>Poster Presentations</big></b>
 
+* <b>Cheng, Y. </b>., Ho, E., Weintraub, S., Rentz, D., Gershon, R., Das, S., Dodge, H.. Predicting Brain Amyloid Status Using the NIH Toolbox for Assessment of Neurological and Behavioral Function, Alzheimer's Association International Conference (AAIC), Amsterdam, Netherlands, July, 2023.
+
 * Starrett Ambrose M., <b>Cheng, Y. </b>, Davis, R., Tranquada-Torres, B., Chrastil, E.R.. Domain generality and specificity across egocentric and allocentric distance ratings, Society for Neuroscience, San Diego. Nov., 2022.
 
 * Tyagi T., Magdamo C., <b>Cheng, Y. </b>, West M., Noori A., Liu X., Serrano-Pozo A., Hyman B., Mukerji S., Westover M.B., Blacker D., Das S.. Deep Learning Natural Language Processing to Detect Cognitive Impairment in Charts from Electronic Health Records. MGH Annual Clinical Research Day, Virtual. Oct., 2022. <b>Team Science - Honorable Mention</b>
