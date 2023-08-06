@@ -49,22 +49,12 @@ The research on detonation can be seperated into several regimes using the press
 A critical decay rate model was derived to study the direct detonation initiation at elevated initial pressure. Compared to the perfect gas based model of Eckett et al. $^{[3]}$, the finite molecular volume results in easier initiation while the inter-molecular interaction results in more difficult initiation.
 
 <figure>
-  <img src="/images/detonationregime.png" style="width: 60%; display: block; margin: 0 auto;">
-  <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/detonationregime.png" style="width: 60%; display: block; margin: 0 auto;">
-  <figcaption style="color: gray; font-size: smaller; text-align: center;">Pressure and density diagram for different detonation research regime $^{[1]}$. Pressure and density diagram for different detonation research regime $^{[1]}$.</figcaption>
-</figure>
-
-<figure>
   <img src="/images/RGeffect_Planar.png" style="width: 60%; display: block; margin: 0 auto;">
   <figcaption style="color: gray; font-size: smaller; text-align: center;">Comparison of the real gas effects on the critical decay time calculated with the quasi-unsteady model (symbol) and asymptotic solutions (line).</figcaption>
 </figure>
 
 </div>
-<a href="javascript:toggleBibtex('RGDDI')" class="textlink"> relevant papers </a>
+<a href="javascript:toggleBibtex('RGDDI')" class="textlink"> [Relevant papers] </a>
 <div id="RGDDI" class="bibtex">
 <pre>
 [1] Z. Weng, R. Mével, and C.K. Law, “On the critical initiation of planar detonation in Noble-Abel and van der Waals gas,” Combustion and Flame 255, 112890 (2023).
@@ -74,17 +64,29 @@ A critical decay rate model was derived to study the direct detonation initiatio
 
 ## 2. Detonation structure
 <div style="text-align: justify;">
-The detonation speed, reaction zone structure and cellular structure were studied for both perfect gas and real gas models.
+The detonation speed, reaction zone structure of steady detonation wave were studied for both perfect gas and real gas models. Larger detonation speed was obtained for real gas model which agrees better with experimental data. The reaction zone structure depends on various aspects in the real gas model. In addition, uncertainty quantification was performed for parameters in real gas model. 
+</div>
+<figure>
+  <img src="/images/RGeffect_UQ.jpg" style="width: 80%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">The PDF of induction distance when sampling all parameters of the real gas model and the standard deviation of induction distance when sampling the reaction rate constants of R1, R13, R21 and R22. </figcaption>
+</figure>
+<div>
+<a href="javascript:toggleBibtex('ZNDRG')" class="textlink"> [Relevant papers] </a>
+<div id="ZNDRG" class="bibtex">
+<pre>
+[1] Z. Weng, and R. Mével, “Real gas effect on steady planar detonation and uncertainty quantification,” Combustion and Flame 245, 112318 (2022).
+[2] Z. Weng, R. Mével, and N. Chaumeix, “Detonation in ammonia-oxygen and ammonia-nitrous oxide mixtures,” Combustion and Flame 251, 112680 (2023).
+[3] I. Farias, Z. Weng, and R. Mével, “Real gas effect on ignition in ideal and non-ideal reactors,” Shock Waves, (2023).
+</pre>
 </div>
 
 ## 3. Detonation stability
 <div style="text-align: justify;">
-Linear and non-linear stability analysis was performed for 1D detonation for Noble-Abel gas. The finite molecular volume effect stabilizes detonation except for newtonian and weak heat release regimes. Linear stability solutions agree well with numerical simulations.
+Linear and non-linear stability analysis was performed for 1D detonation for Noble-Abel gas. The finite molecular volume effect stabilizes detonation except for newtonian and weak heat release regimes. Linear stability solutions agree well with numerical simulations. (more is coming)
 </div>
 
 
-## Reference
-</div>
+<div>
 <a href="javascript:toggleBibtex('RGDet')" class="textlink">[References]</a>
 <div id="RGDet" class="bibtex noshow">
 <pre>

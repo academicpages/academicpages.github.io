@@ -39,32 +39,26 @@ function toggleBibtex(articleid) {
 Injection, mixing and combustion processes in rocket engines typically take place at trans- or super-critical conditions. Liquified fuel and oxidizer were injected at cryogenic and high pressure state. Accurate descriptions of real-fluid properties are essential for numerical simulation. A pressure-based solver was developed on open-source platform, DeepFlame $^{[1]}$, by connecting OpenFOAM and Cantera. The real fluid model in Cantera, including Peng-Robinson equation of state and corresponding thermodynamic functions, transport properties, was used to replace the ideal gas assumption in OpenFOAM. The pressure equation was revised according to Jarczyk and Pfitzner's work $^{[2]}$. The performance of the solver was demonstrated using nitrogen convection and injection cases $^{[2-3]}$.
 </div>
 
-<center>
-  <figure>
-    <img src='/images/N2Convection2.png' style='width: 60%; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller; text-align: center;'>Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$.</figcaption>
-  </figure>
-</center>
+<figure>
+  <img src="/images/N2Convection2.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$. </figcaption>
+</figure>
 
-<center>
-  <figure>
-    <img src='/images/N2Convection1.png' style='width: 60%; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller; text-align: center;'>Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$.</figcaption>
-  </figure>
-</center>
+<figure>
+  <img src="/images/N2Convection1.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$. </figcaption>
+</figure>
 
-<center>
-  <figure>
-    <img src='/images/rho_field.png' style='height: 60%; object-fit: contain;'>
-    <figcaption style='color: gray; font-size: smaller; text-align: center;'>LES simulation for case 4 in Mayer's experiment $^{[4]}$.</figcaption>
-  </figure>
-</center>
+<figure>
+  <img src="/images/rho_field.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <figcaption style="color: gray; font-size: smaller; text-align: center;">LES simulation for case 4 in Mayer's experiment $^{[4]}$. </figcaption>
+</figure>
 
 <a href="javascript:toggleBibtex('NNregression')" class="textlink">[References]</a>
 <div id="NNregression" class="bibtex noshow">
 <pre>
-1 <img src="/images/deepflame.jpg" style="height: 2em;vertical-align: middle;"> [https://github.com/deepmodeling/deepflame-dev](https://github.com/deepmodeling/deepflame-dev)
-2 M.-M. Jarczyk, and M. Pfitzner, in 50th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition (American Institute of Aeronautics and Astronautics, 2012).
-3 P.C. Ma, Y. Lv, and M. Ihme, “An entropy-stable hybrid scheme for simulations of transcritical real-fluid flows,” Journal of Computational Physics 340, 330–357 (2017).
-4 W. Mayer, J. Telaar, R. Branam, G. Schneider, and J. Hussong, “Raman Measurements of Cryogenic Injection at Supercritical Pressure,” Heat and Mass Transfer 39(8), 709–719 (2003).
+[1] <img src="/images/deepflame.jpg" style="height: 2em;vertical-align: middle;"> [https://github.com/deepmodeling/deepflame-dev](https://github.com/deepmodeling/deepflame-dev)
+[2] M.-M. Jarczyk, and M. Pfitzner, in 50th AIAA Aerospace Sciences Meeting Including the New Horizons Forum and Aerospace Exposition (American Institute of Aeronautics and Astronautics, 2012).
+[3] P.C. Ma, Y. Lv, and M. Ihme, “An entropy-stable hybrid scheme for simulations of transcritical real-fluid flows,” Journal of Computational Physics 340, 330–357 (2017).
+[4] W. Mayer, J. Telaar, R. Branam, G. Schneider, and J. Hussong, “Raman Measurements of Cryogenic Injection at Supercritical Pressure,” Heat and Mass Transfer 39(8), 709–719 (2003).
 </pre></div>

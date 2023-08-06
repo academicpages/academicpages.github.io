@@ -35,18 +35,16 @@ function toggleBibtex(articleid) {
 <br>
 ## 1. Laminar flame speed
 <div style="text-align: justify;">
-Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ application.
-
-To update
+Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ application. (More is coming)
 </div>
 
 ## 2. Extrapolation relation
 <div style="text-align: justify;">
-Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas.
+Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas. (More is coming)
 
 ## 3. Jet ignition
 <div style="text-align: justify;">
-To update
+(More is coming)
 </div>
 
 </div><br>
