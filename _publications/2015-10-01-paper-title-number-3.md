@@ -1,13 +1,13 @@
 ---
-title: "Mandatory Financial Disclosure and M&A activity"
+title: "Inheritance Law"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2015-10-01-paper-title-number-4
 excerpt: ' '
 date: 2023-06-19
-venue: 'The Review of Financial Studies '
-paperurl: 'https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhad052/7202058?login=true)'
+venue: 'Encyclopedia of Family Business'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372'
 citation: ''
 ---
-Taking advantage of the implementation of the 2003 European Commission (EC) directive on financial reporting, we explore the impact of mandatory financial disclosure on mergers and acquisitions (M&A). We find robust evidence that the number (and volume) of private firms becoming an M&A target increases with mandatory disclosure. Analyses of cross-industry differences, deal-level data, and post-deal performance indicate that financial disclosure increases M&A activity by reducing information frictions in the market for corporate control.
+Inheritance law is a family-oriented legal institution shaping how families transfer wealth across generations. This review discusses the main components of inheritance law (inheritance tax rate, and testamentary freedom), and how they impact business families. It also explores common strategies used by business families to mitigate the effects of inheritance law, such as family trusts and corporate ownership transactions. Finally, this review discusses the evidence of the effects of inheritance laws on business families and their impact on social inequality. Overall, this review provides a comprehensive overview of inheritance law and its implications for business families.
 
-[Download paper here](https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhad052/7202058?login=true)
+[Download paper here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4411372)
