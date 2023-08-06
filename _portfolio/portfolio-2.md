@@ -41,13 +41,13 @@ Supercritical laminar flame speed was studied for syngas for sCO$_{2}$ applicati
 ## 2. Extrapolation relation
 <div style="text-align: justify;">
 Relation between stretch rate and flame speed was derived via asymptotic analysis. The result obtained by Ronney and Sivashinsky $^{[1]}$ was extended from perfect gas to Noble-Abel gas. (More is coming)
+</div>
 
 ## 3. Jet ignition
 <div style="text-align: justify;">
 (More is coming)
 </div>
 
-</div><br>
 <a href="javascript:toggleBibtex('Extrapolation')" class="textlink">[References]</a>
 <div id="Extrapolation" class="bibtex noshow">
 <pre>

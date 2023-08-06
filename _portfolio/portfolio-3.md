@@ -40,17 +40,17 @@ Injection, mixing and combustion processes in rocket engines typically take plac
 </div>
 
 <figure>
-  <img src="/images/N2Convection2.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <img src="/images/N2Convection2.png" style="width: 60%; display: block; margin: 0 auto;">
   <figcaption style="color: gray; font-size: smaller; text-align: center;">Nitrogen convection case proposed by Jarczyk and Pfitzner $^{[2]}$. </figcaption>
 </figure>
 
 <figure>
-  <img src="/images/N2Convection1.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <img src="/images/N2Convection1.png" style="width: 60%; display: block; margin: 0 auto;">
   <figcaption style="color: gray; font-size: smaller; text-align: center;">Periodical nitrogen convection case proposed by Ma et al. $^{[3]}$. </figcaption>
 </figure>
 
 <figure>
-  <img src="/images/rho_field.jpg" style="width: 60%; display: block; margin: 0 auto;">
+  <img src="/images/rho_field.png" style="width: 60%; display: block; margin: 0 auto;">
   <figcaption style="color: gray; font-size: smaller; text-align: center;">LES simulation for case 4 in Mayer's experiment $^{[4]}$. </figcaption>
 </figure>
 
