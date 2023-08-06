@@ -3,7 +3,7 @@ title: "When more is preferred to less: Multifamily firms and firm performance."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2009-10-01
+date: 2020-10-01
 venue: 'Entrepreneurship: Theory and Practice'
 citation: 'Duran, P., & Ortiz, M. (2020). When More Is Better: Multifamily Firms and Firm Performance. Entrepreneurship: Theory and Practice. 44(4),761–783.'
 ---
