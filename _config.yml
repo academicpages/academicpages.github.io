@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Personal Website"
 title_separator          : "-"
-name                     : &name "Mrcelo Ortiz"
+name                     : &name "Marcelo Ortiz"
 description              : &description "As an assistant professor at Universitat Pompeu Fabra, my expertise centers around Financial Accounting and Corporate Governance. "
 url                      : https://www.marceloortizm.com/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "marceloortizm"
   google_plus      :
   keybase          :
   instagram        :
