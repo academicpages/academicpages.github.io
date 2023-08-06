@@ -21,8 +21,9 @@ author_profile: true
 0. Sun, G. D., Wu, Y. C., Liu, S. X., Peng, T. Q., Zhu, J. J. H., & Liang, R. F. (2014). EvoRiver: Visual Analysis of Topic Coopetition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 20</i>, 1753-1762. 
 0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
 
-## Explicating Time in Online Behaviors
-0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? Digital Journalism. 
+## Audience Analysis
+0. Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>.
+0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? <i>Digital Journalism, 11</i>(1), 181-202. 
 0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238.
 0. Peng, T. Q., & Zhu, J. J. H. (2020). Mobile phone use as sequential processes: From discrete behaviors to sessions of behaviors and trajectories of sessions. Journal of Computer-Mediated Communication, 25(2), 129-146.
 0. Lu, J. H., Xie, X., Lan, J., Peng, T. Q., Chen, W., & Wu, Y. C. (2019). BeXplorer: Visual analytics of dynamic interplay between behaviors in MMORPGs. Visual Informatics, 3, 87-101. 
