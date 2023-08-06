@@ -29,15 +29,17 @@ Work experience
 
 * 2000-2004: Network Manager
     * Haines City High School, Haines City, FL
-    * Trained teachers, managed network, provided technology support
+    * Trained teachers, developed learning modules, provided technology support
 
-* 2000-2004: Technology Teacher
+* 1999-2000: Technology Teacher
     * Auburndale High School, Auburndale, FL
     * Classroom instruction, technology support
 
 Skills
 ======
-* MS Office
+* Microsoft 365
+* GitHub
+* LibGuides
 * Web Development
   * CSS
   * HTML 5
