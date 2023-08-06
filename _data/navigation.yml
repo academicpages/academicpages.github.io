@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
   # - title: "Talks"
@@ -16,7 +16,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
+  #  url: /cv/
+    url: https://www.dropbox.com/s/wh6b1dhj22831mb/CV_MOrtiz_202305.pdf?dl=0
   # - title: "Guide"
   #   url: /markdown/

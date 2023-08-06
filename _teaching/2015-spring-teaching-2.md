@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Business Economics"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Universitt Pompeu Fabra"
+date: 2021-01-01
+location: "Barcelona, Spain"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+## Course Description
+This course introduces the main concepts related to business economics.
+We start by introducing the basic concepts of microeconomics, such as supply and demand, and the theory of the firm. Then we move understand decision rights and incentives, and how they shape the organization of firms. Finally, we discuss the main concepts behind the theory of the firm, such as transaction costs, property rights, and the boundaries of the firm.
