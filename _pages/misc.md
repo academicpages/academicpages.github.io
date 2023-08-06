@@ -7,6 +7,7 @@ author_profile: true
 
 Below you may find some miscellaneous links and materials of interest.
 
+- Using [using gitbash](https://github.com/ozlemtuncel/ozlemtuncel.github.io/blob/master/_posts/using_gitbash_guide.md)
 - 🧵 If you need to start somewhere for **job market materials**, here is a [nonexhaustive list](https://twitter.com/ozlem__tuncel/status/1661175527363756034) that I compiled on Twitter. 
 - 💻 If you need an **academic CV template**, [here is one I prepared for LaTeX users](https://ozlemtuncel.github.io/files/CV_Template.zip).
 - 📦 Two great sources for **job market materials** if you are using LaTeX: [Rob William's](https://jayrobwilliams.com/) [repo on Github](https://github.com/jayrobwilliams/Job-Market) that you can fork & [Kelsey Shoub's](https://www.kelseyshoub.com/advice) website with a bunch of other cool things.
