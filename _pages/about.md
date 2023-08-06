@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hi, I am Marcelo Ortiz, an assistant professor at Universitat Pompeu Fabra. My expertise centers around Financial Accounting and Corporate Governance. 
+:wave: Hi, I am Marcelo Ortiz, an assistant professor at Universitat Pompeu Fabra. 
 
+My expertise centers around Financial Accounting and Corporate Governance. 
 
 I am also affiliated with the Barcelona School of Economics and the UPF Barcelona School of Management; and  co-organize the [Barcelona Accounting Seminars and Workshops](https://sites.google.com/view/bas-2021/inicio). 
 
@@ -24,3 +25,12 @@ I am also affiliated with the Barcelona School of Economics and the UPF Barcelon
 - [May 2023] Selected to present at the Finance Symposium (Greece), my recent work on tax havens and offshore finance.
 - [April 2023] My review of the role of Inheritance Law on family firms is forthcoming in the *Encyclopedia of Family Business*.
 - [Feb. 2023] Selected to present at the European Accounting Association Annual Congress.
+
+## Working Paper:
+- Understanding the Effect of the Financial Reporting Environment on Internal Financing: Evidence from Cash Policy (with Francisco Urzúa). 
+- Political Business Families (R&R, *Entrepreneurship: Theory and Practice*) (with Patricio Duran and Michael Carney).
+
+## Work in Progress:
+- Private Firms and Offshore Vehicles (first draft soon) (with Juan Imbet). 
+- Tax Avoidance and Optimal Contracts (with Juan Imbet and Vincent Tena).
+- Financial Reporting Regulation and CEO Turnover (with Francisco Urzúa and Paolo Volpin).
