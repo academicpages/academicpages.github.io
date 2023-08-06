@@ -11,7 +11,7 @@ author_profile: true
 
 * **RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads**  
 **Penghui Wei**, Yongqiang Chen, Shaoguo Liu, Liang Wang, Bo Zheng  
-**KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 6 -- 10, 2023.   
+**KDD ’23** (Applied Data Science Track): Proceedings of the 2023 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. Long Beach, CA, USA, August 6--10, 2023.   
 
 * **FedAds: A Benchmark for Privacy-Preserving CVR Estimation with Vertical Federated Learning**  
 **Penghui Wei**, Hongjian Dou, Shaoguo Liu, Rongjun Tang, Li Liu, Liang Wang, Bo Zheng  
@@ -23,7 +23,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal con
 
 * **Hybrid Contrastive Contraints for Multi-Scenario Ad Ranking**  
 Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng  
-arXiv preprint arXiv:2302.02636.     
+**CIKM ’23** (long): Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. UK, October 21-25, 2023.        
    
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
