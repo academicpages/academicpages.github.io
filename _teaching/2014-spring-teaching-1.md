@@ -1,5 +1,5 @@
 ---
-title: "Managerial Accounting"
+title: "Managerial and Financial Accounting"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -9,11 +9,7 @@ location: "Barcelona, Spain"
 ---
 
 ## Course Description
-
-This course introduces the main concepts related to managerial accounting and finance. This will allow the student to identify the measures to take in connection with company investing, bank lending to companies, and other decisions that can improve a firm's performance.
-According to the international differences in accounting and finance, the course is designed with an international orientation.
-By another hand, the course will provide a critical perspective of accounting and finance dealing with topics like ethical perspectives of finance, creative accounting, and accounts manipulation to help the student to identify these practices.
-This is not a book-keeping course because the topics are designed from the managers' point of view.
+This course introduces the main concepts related to managerial and financial accounting. This will allow students to identify the impacts of accounting and other corporate decisions on firm's financial statements.
 
 
 ## Topics
