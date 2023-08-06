@@ -1,5 +1,5 @@
 ---
-title: "<img src='/images/500x300.png' style='width: 60%; display: block; margin: 0 auto;'><center>Supercritical laminar flame</center>"
+title: "<img src='/images/flamespeed.png' style='width: 60%; display: block; margin: 0 auto;'><center>Supercritical laminar flame</center>"
 collection: portfolio
 ---
 <!-- the styles -->
