@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marcelo Ortiz M."
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Assistant professor at Universitat Pompeu Fabra"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : 
@@ -102,14 +102,15 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/marcelo-ortiz-m-02527328/""
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-5211-1157"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
+  twitter          : "MarceloOrtizM1"
   vine             :
   weibo            :
   xing             :

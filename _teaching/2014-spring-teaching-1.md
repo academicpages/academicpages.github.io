@@ -1,14 +1,16 @@
 ---
 title: "Managerial Accounting"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: UPF-Barcelona School of Management"
+venue: "UPF-Barcelona School of Management"
 date: 2022-01-01
 location: "Barcelona, Spain"
 ---
 
 ## Course Description
+
+
 This course introduces the main concepts related to managerial accounting and finance. This will allow the student to identify the measures to take in connection with company investing, bank lending to companies, and other decisions that can improve a firm's performance.
 According to the international differences in accounting and finance, the course is designed with an international orientation.
 By another hand, the course will provide a critical perspective of accounting and finance dealing with topics like ethical perspectives of finance, creative accounting, and accounts manipulation to help the student to identify these practices.
@@ -16,6 +18,8 @@ This is not a book-keeping course because the topics are designed from the manag
 
 
 ## Topics
+
+
 | Topic                                     | Key Concepts and Readings                                                                                                                                              |
 |-------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Topic 1: Financial Statements             | Fundamental Accounting equation. Valuation Methods. Earnings, Expenses, Accruals. Financial statements and their internal links.   Reading: Subramanyam & Wild. Ch. 2. |
