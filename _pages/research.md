@@ -12,11 +12,11 @@ Publications
 
 Working Papers
 ---
-Aid withdrawal: theory and evidence from international climate politics (<a href= "https://cobrienudry.github.io/files/aid_withdrawal_Dec2022.pdf">draft</a>)
+The political economy of greening foreign aid (<a href= "cobrienudry.github.io/files/files/o'brien-udry_JMP.pdf">draft</a>)
 
-Whose aid? Foreign aid and credit-attirubition amongst ethnic minorities (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
+A Political Economy of Aid and Legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
 
-Aid, Blame, and Backlash: The Political Economy of Unpopular Aid (<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
+Aid, Blame, and Backlash(<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under Review</a>)
 
