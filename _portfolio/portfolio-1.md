@@ -85,6 +85,7 @@ The detonation speed, reaction zone structure of steady detonation wave were stu
 Linear and non-linear stability analysis was performed for 1D detonation for Noble-Abel gas. The finite molecular volume effect stabilizes detonation except for newtonian and weak heat release regimes. Linear stability solutions agree well with numerical simulations. (more is coming)
 </div>
 
+<br>
 <a href="javascript:toggleBibtex('RGDet')" class="textlink">[References]</a>
 <div id="RGDet" class="bibtex noshow">
 <pre>
