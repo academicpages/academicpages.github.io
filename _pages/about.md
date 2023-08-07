@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant in .....
+I am currently a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ).. Previously, I worked as an undergraduate research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with by [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
 
 
