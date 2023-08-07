@@ -12,7 +12,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 
 My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks. Currently, I am actively engaged in the realm of Large Language Models (LLMs), with a specific focus on designing efficient and impactful structures.
 
-I am currently in the process of preparing my application for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me. I welcome the opportunity to connect.
+**I am currently in the process of preparing my application for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me. I welcome the opportunity to connect.**
 
 
 ## News
