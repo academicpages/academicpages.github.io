@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Henrique Veras"
-  avatar           : "bio-photo-3.jpeg"
+  avatar           : "bio-photo-4.JPG"
   bio              : "Assistant Professor of Economics"
   location         : "Department of Economics"
-  employer         : "Forward College"
+  employer         : "Universidade Federal de Pernambuco"
   googlescholar    : "https://scholar.google.com/citations?user=BCjAeIQAAAAJ&hl=en"
-  email            : "henrique.veras@forward-college.eu"
+  email            : "henrique.fonseca@ufpe.br"
   researchgate     :  # example: "https://www.researchgate.net/profile/Henrique-Veras-De-Paiva-Fonseca"
   uri              :
   bitbucket        :
