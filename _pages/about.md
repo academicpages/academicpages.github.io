@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I worked as an research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
-My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks. Currently, I am actively engaged in the realm of Large Language Models (LLMs), with a specific focus on crafting efficient and impactful structures.
+My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks. Currently, I am actively engaged in the realm of Large Language Models (LLMs), with a specific focus on designing efficient and impactful structures.
 
 I am currently in the process of preparing my application for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me. I welcome the opportunity to connect.
 
