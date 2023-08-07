@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Rogers Yang"
-  avatar           : "profile.HEIC"
+  avatar           : "profile.png"
   bio              : "Third year Computer Science and Statistics student"
   location         : "Toronto, ON, Canada"
   employer         : "University of Toronto"
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haochong-yang/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "haochong-yang"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
