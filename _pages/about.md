@@ -22,7 +22,10 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 
 # Research Experiences
 
-
+<dl><dt><img align="left" width="110" height="110" hspace="10" src="images/logo/uestc.png" /></dt><dt> University of Electronic Science and Technology of China</dt>
+<dd>07/2022 - 9999</dd>
+<d>Research Assistant, supervised by Prof. Wen Li</d>
+<dd>Domain Adaptation, Transfer Learning</dd></dl>
 
 
 
