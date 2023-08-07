@@ -14,11 +14,9 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 
 # News
 
-- [2023/05]
-- [2022/10]
-- [2022/08]
-
-
+- [2023/05] One paper is accepted by [ACL 2023](https://2023.aclweb.org/).
+- [2022/10] One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/).
+- [2022/08] One paper is accepted by [WACV 2023](https://wacv2023.thecvf.com/).
 
 
 
