@@ -11,9 +11,9 @@ title                    : "Daize Dong"
 title_separator          : "-"
 name                     : &name "Daize Dong"
 description              : &description "personal description"
-url                      : https://dzdong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daizedong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "dzdong.github.io"
+repository               : "daizedong.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Daize Dong"
   avatar           : "profile.png"
-  bio              : "Student at University of Electronic and Scientific of Technology of China."
-  location         : "Sichuan, China"
+  bio              : "Research assistant at Shanghai AI Lab."
+  location         : "Shanghai, China"
   employer         :
   pubmed           : ""
-  googlescholar    : ""
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=WESZ8YkAAAAJ&hl=zh-CN"
+  email            : "dzdong2019@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            : "0000-0003-4633-0382"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
