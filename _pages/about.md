@@ -23,23 +23,27 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 # Research Experiences
 
 <dl>
-  <dt><img align="left" width="100" height="100" hspace="10" src="../images/logo/shanghai_ai_lab.png" /></dt>
+  <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/shanghai_ai_lab2.png" /></dt>
   <dt>Shanghai Artificial Intelligence Laboratory</dt>
   <dd>2023/03 - Now</dd>
   <d>Research Assistant, supervised by Prof. Yu Cheng</d>
   <dd>Large Language Models, Neural Language Processing</dd>
 </dl>
 
+
+
 <dl>
-  <dt><img align="left" width="100" height="100" hspace="10" src="../images/logo/westlake.png" /></dt>
+  <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/westlake.png" /></dt>
   <dt>Westlake University</dt>
   <dd>2023/03 - Now</dd>
   <d>Research Assistant, supervised by Prof. Stan Z. Li</d>
   <dd>Molecular Generation, AI for Drug Design</dd>
 </dl>
 
+
+
 <dl>
-  <dt><img align="left" width="100" height="100" hspace="10" src="../images/logo/uestc.png" /></dt>
+  <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/uestc.png" /></dt>
   <dt>University of Electronic Science and Technology of China</dt>
   <dd>2022/07 - 2023/02</dd>
   <d>Research Intern, supervised by [Prof. Wen Li](https://wenli-vision.github.io/)</d>
