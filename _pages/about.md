@@ -34,19 +34,9 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 
 # Publications
 
-## Conference
-
-1. test
-2. 
-
-
-
-## Preprint
-
-1. test
-2. 
-
-
+1. Shwai He, Liang Ding\*, **Daize Dong**, Boan Liu, Fuqiang Yu, Dacheng Tao, “***PAD-Net: An Efficient Framework for Dynamic Networks***”, Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023).
+2. Shwai He, Liang Ding\*, **Daize Dong**, Miao Zhang, Dacheng Tao, “***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***”, Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022).
+3. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding\*, “***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***”, IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023).
 
 
 
