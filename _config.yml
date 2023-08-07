@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rogers (Haochong) Yang"
+  name             : "Rogers Yang"
   avatar           : "profile.png"
-  bio              : "Third year Computer Science and Statistics student at University of Toronto"
+  bio              : "Third year Computer Science and Statistics student"
   location         : "Toronto, ON, Canada"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Toronto"
+  pubmed           : 
+  googlescholar    : 
   email            : "haochong.yang@mail.utoronto.ca"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : 
+  uri              :  
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "HaochongYANG"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/haochong-yang/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
