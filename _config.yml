@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Rob Donnelly, Economics PhD"
 title_separator          : "-"
 name                     : &name "Rob Donnelly"
 description              : &description "Economics and Machine Learning Researcher"
