@@ -10,6 +10,8 @@ redirect_from:
 
 I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I worked as an research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
+My research interests 
+
 
 
 ## News
@@ -25,7 +27,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 <dl>
   <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/shanghai_ai_lab2.png" /></dt>
   <dt>Shanghai Artificial Intelligence Laboratory</dt>
-  <dd>2023/03 - Now</dd>
+  <dd>2023/07 - Now</dd>
   <d>Research Assistant, supervised by <a href="https://www.linkedin.com/in/chengyu05/">Prof. Yu Cheng</a></d>
   <dd>Large Language Models, Neural Language Processing</dd>
 </dl>
@@ -35,7 +37,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 <dl>
   <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/westlake.png" /></dt>
   <dt>Westlake University</dt>
-  <dd>2023/03 - Now</dd>
+  <dd>2023/06 - Now</dd>
   <d>Research Assistant, supervised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Prof. Stan Z. Li</a></d>
   <dd>Molecular Generation, AI for Drug Design</dd>
 </dl>
@@ -45,7 +47,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
 <dl>
   <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/uestc.png" /></dt>
   <dt>University of Electronic Science and Technology of China</dt>
-  <dd>2022/07 - 2023/02</dd>
+  <dd>2022/07 - 2023/03</dd>
   <d>Research Intern, supervised by <a href="https://wenli-vision.github.io/">Prof. Wen Li</a></d>
   <dd>Domain Adaptation, Transfer Learning</dd>
 </dl>
