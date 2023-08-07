@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I worked as an undergraduate research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I worked as an research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
 
 
@@ -27,7 +27,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
   <dt>Shanghai Artificial Intelligence Laboratory</dt>
   <dd>2023/03 - Now</dd>
   <d>Research Assistant, supervised by Prof. Yu Cheng</d>
-  <dd>Large Language Model, Neural Language Processing</dd>
+  <dd>Large Language Models, Neural Language Processing</dd>
 </dl>
 
 <dl>
@@ -42,7 +42,7 @@ I am a research assistant at Shanghai Artificial Intelligence Laboratory, superv
   <dt><img align="left" width="100" height="100" hspace="10" src="../images/logo/uestc.png" /></dt>
   <dt>University of Electronic Science and Technology of China</dt>
   <dd>2022/07 - 2023/02</dd>
-  <d>Undergraduate Research Intern, supervised by Prof. Wen Li</d>
+  <d>Research Intern, supervised by [Prof. Wen Li](https://wenli-vision.github.io/)</d>
   <dd>Domain Adaptation, Transfer Learning</dd>
 </dl>
 
