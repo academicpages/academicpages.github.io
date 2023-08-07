@@ -84,8 +84,9 @@ author:
   avatar           : "J-logo.png"
   bio              : "Growth minded student with a passion for innovation and real-world applications of great technology --- Candidate for Bachelor of Science and Business at the University of Waterloo"
   location         : "Waterloo, ON"
-  employer         : >
-    KW Craft Cider - 
+  employer         : |
+    KW Craft Cider -
+    <br>
     Business Intelligence Analyst and Database Developer
   pubmed           : 
   googlescholar    : 
