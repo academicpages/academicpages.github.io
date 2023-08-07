@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rogers Yang / University of Toronto "
+title                    : "Rogers Yang / University of Toronto"
 title_separator          : "-"
 name                     : &name "Rogers Yang"
 description              : &description "personal description"
