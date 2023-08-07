@@ -1,0 +1,94 @@
+// Gallery Syntax
+// ==============
+
+// Gallery
+// -------
+// Create an isolated gallery
+// - $span        : <span>
+// - [$selector]  : child | of-type
+@mixin gallery(
+  $span,
+  $selector: child
+) {
+  $inspect    : $span;
+  $span       : parse-span($span);
+  $span       : map-merge($span, (location: 1));
+
+  $n            : susy-get(span, $span);
+  $columns      : susy-get(columns, $span);
+  $context      : susy-count($columns);
+  $flow         : susy-get(flow, $span);
+
+  $inside       : is-inside($span);
+  $from         : from($flow);
+  $line         : floor($context / $n);
+  $symmetrical  : is-symmetrical($columns);
+
+  $output: (
+    width             : null,
+    float             : from,
+    margin-before     : null,
+    margin-after      : null,
+    padding-before    : null,
+    padding-after     : null,
+    flow              : $flow,
+  );
+
+  @if $inside {
+    $gutters: get-gutters($span);
+    $output: map-merge($output, (
+      padding-before: map-get($gutters, before),
+      padding-after: map-get($gutters, after),
+    ));
+  }
+
+  @if $symmetrical {
+    $output: map-merge($output, (width: get-span-width($span)));
+  }
+
+  $box          : susy-get(box-sizing, $span);
+  $global-box   : if(susy-get(global-box-sizing) == 'border-box', true, false);
+
+  @include susy-inspect(gallery, $inspect);
+
+  // Collective Output
+  @if $box == border-box or ($inside and not($box) and not($global-box)) {
+    @include output((box-sizing: border-box));
+  } @else if $box == content-box {
+    @include output((box-sizing: content-box));
+  }
+
+  @include float-span-output($output...);
+
+  // Individual Loop
+  @for $item from 1 through $line {
+    $nth: '#{$line}n + #{$item}';
+    &:nth-#{$selector}(#{$nth}) {
+      // Individual Prep
+      $output: (
+        width             : if($symmetrical, null, get-span-width($span)),
+        float             : null,
+        margin-before     : get-isolation($span),
+        margin-after      : -100%,
+        padding-before    : null,
+        padding-after     : null,
+        flow              : $flow,
+      );
+
+      // Individual Output
+      @include float-span-output($output...);
+
+      @if get-edge($span) == first {
+        @include break;
+        @include first($span);
+      } @else {
+        @include nobreak;
+      }
+
+      // Individual Location Increment
+      $location: get-location($span) + $n;
+      $location: if($location > $context, 1, $location);
+      $span: map-merge($span, (location: $location));
+    }
+  }
+}
