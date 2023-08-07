@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief Personal Information"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,7 +18,7 @@ Education
   * Honours: Louis Savlov Scholarship, U of T Scholar Award, Dean’s List Scholar Award (2022, 2023)
 
 
-Work experience
+Work Experience
 ======
 * May - Aug 2023: Data Analyst (Co-op)
   * Toromont Cat, Concord, ON
@@ -28,17 +28,29 @@ Work experience
   * BL Innovare, Markham, ON
   * Supervisor: Colin Kilner, Senior Developer
 
+
+Research Experience
+======
+* May 2023 - Present: Reinforcement Learning Researcher
+  * Social Cognitive Science Lab, University of Toronto
+  * Supervisor: Prof. William Cunningham
+
+* May - Aug 2023: Research Assistant
+  * MiDATA Lab, University of Toronto
+  * Supervisor: Prof. Pascal Tyrrell
+
+* May - Aug 2023: Research Assistant
+  * Department of Economics, University of Toronto
+  * Supervisor: Prof. Jonathan Hall
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Java, JavaScript, HTML/CSS, SQL, Shell scripting, git
+* Data-related: R, MySQL, SQLite, Tableau, PowerBI
+* Frameworks: TensorFlow, PyTorch, DeepRL, LangChain, EfficientNet, Django, Streamlit, Selenium
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -58,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
