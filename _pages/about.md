@@ -10,7 +10,7 @@ redirect_from:
 
 I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://www.linkedin.com/in/chengyu05/). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I worked as an research intern at the University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
-My research interests 
+My research interests mainly lie in the interpretability and representation ability and of Large Language Models (LLMs).  
 
 
 
@@ -60,22 +60,5 @@ My research interests
 2. Shwai He, Liang Ding\*, **Daize Dong**, Miao Zhang, Dacheng Tao, "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***", Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). [PDF](https://aclanthology.org/2022.findings-emnlp.160.pdf)
 3. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding\*, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023). [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)
 4. Tong Chu, **Daize Dong**, Jinhong Deng, Lixin Duan, Wen Li, "***Blending and Aggregating the Target for Blended-Target Domain Adaptation***", arXiv preprint, 2023.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
