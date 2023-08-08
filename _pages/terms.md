@@ -28,7 +28,7 @@ We propose a practical physical layer black-box attack method to destroy the rob
 <p align="center">
   <img src="https://staymylove.github.io/images/CAS.jpg" style="height: 50px; width:150px">
 </p>
-- 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
+- 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
   - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
   - Duty: I do research in combinatorial optimization, image generation and AI4Science.
@@ -42,3 +42,11 @@ We propose a practical physical layer black-box attack method to destroy the rob
   - Interest: multimodal and image generation. (Mentor: Prof.Yu Yin)
   - Duty: I do research in image generation and multimodal.
 
+
+<p align="center">
+  <img src="https://staymylove.github.io/images/cuhksz.jpg" style="height: 50px; width:200px">
+</p>
+- 2023.07-Now GAP Lab, The Chinese University of Hong Kong (Shenzhen)
+
+  - Interest: multimodal and image generation. (Mentor: Prof.Xiaoguang Han)
+  - Duty: I do research in image generation, multimodal and 3d generation.
