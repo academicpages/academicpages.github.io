@@ -12,7 +12,7 @@ redirect_from:
 # 🏫 Education
 ======
 * Candidate for Honours Bachelor of Science (Expected in 2025)
-  * University of Toronto (St. George Campus), Toronto, ON
+  * *University of Toronto (St. George Campus), Toronto, ON*
   * Cumulative GPA: 3.98/4.0 ; Overall Average: 92.5/100
   * Programs: Computer Science Specialist, Statistics Specialist, Arts and Science Internship Program (Co-op)
   * Honours: Louis Savlov Scholarship, U of T Scholar Award, Dean’s List Scholar Award (2022, 2023)
