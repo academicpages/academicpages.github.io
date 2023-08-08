@@ -9,6 +9,12 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 # Conference Papers
+## 2024
+* **Accelerating Privacy-Preserving Machine Learning With GeniBatch** <br>
+Xinyang Huang, Junxue Zhang, Xiaodian Cheng, Hong Zhang, **Yilun Jin**, Shuihai Hu, Han Tian, Kai Chen. <br>
+To appear in *European Conference on Computer Systems (EuroSys)*, 2024. 
+
+
 ## 2023
 * **Transferable Graph Structure Learning for Graph-based Traffic Forecasting across Cities** \[[pdf](https://kl4805.github.io/files/KDD23.pdf)\] <br>
 **Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023
