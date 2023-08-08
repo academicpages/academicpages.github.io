@@ -14,7 +14,7 @@ While an undergraduate student at UMD, I worked internships at NASA Goddard Spac
 
 Outside of academics, I am a competitive chess player with titles of chess expert and candidate master and a US Chess Federation [rating of 2162](http://www.uschess.org/msa/MbrDtlMain.php?13928690). I am also an ultramarathon distance runner, having run a 50 mile race (and hoping to run other long-distance events in the future).
 
-<hr style="width:100%;text-align:left;margin-left:0;color:black;background-color:black">
+___
 
 <b>Recent Updates</b>
 
