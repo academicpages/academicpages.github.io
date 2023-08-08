@@ -48,19 +48,12 @@ author:
   angellist        : "onno-kampman"
   github           : "OnnoKampman"
   gitlab           :
-  golden           :
   goodreads        : "43642138-onno"
-  keybase          :
   linkedin         : "onnokampman"
-  mendeley         :
   orcid            : "0000-0001-8125-2565"
-  researchgate     :
   semanticscholar  : "Onno-P.-Kampman/145315291"
-  soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/5938762/onno-kampman"
   twitter          : "KampmanOnno"
-  youtube          :
-  wikipedia        :
 
 # Reading Files
 include:
@@ -167,11 +160,11 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-# timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: Europe/London
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
+  - functions
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -179,6 +172,7 @@ plugins:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
+  - functions
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
