@@ -1,8 +1,5 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
-  
   - title: "CV"
     url: /cv/
 
@@ -17,9 +14,15 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
+
+  - title: "Work"
+    url: /work/
     
   - title: "Resume"
     url: /files/resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
+
+  - title: "Portfolio"
+    url: /portfolio/

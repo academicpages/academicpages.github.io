@@ -23,24 +23,24 @@ redirect_from:
 
 # 💻 Work Experience
 * May - Aug 2023: **Data Analyst** (Co-op)
-  * Toromont Cat, Concord, ON
+  * *Toromont Cat, Concord, ON*
   * Supervisor: Samer Toukan, Project Manager
 
 * May - Aug 2022: **Software Developer** (Internship)
-  * BL Innovare, Markham, ON
+  * *BL Innovare, Markham, ON*
   * Supervisor: Colin Kilner, Senior Developer
 
 # 📖 Research Experience
 * May 2023 - Present: **Reinforcement Learning Researcher**
-  * Social Cognitive Science Lab, University of Toronto
+  * *Social Cognitive Science Lab, University of Toronto*
   * Supervisor: Prof. William Cunningham
 
 * May - Aug 2023: **Research Assistant**
-  * MiDATA Lab, University of Toronto
+  * *MiDATA Lab, University of Toronto*
   * Supervisor: Prof. Pascal Tyrrell
 
 * May - Aug 2023: **Research Assistant**
-  * Department of Economics, University of Toronto
+  * *Department of Economics, University of Toronto*
   * Supervisor: Prof. Jonathan Hall
   
 <!-- Publications
