@@ -1,6 +1,7 @@
 ---
 title: "<img src='/images/ANN.png' style='width: 60%; display: block; margin: 0 auto;'><center>AI for Science</center>"
 collection: portfolio
+author_profile: false
 ---
 
 <!-- the styles -->

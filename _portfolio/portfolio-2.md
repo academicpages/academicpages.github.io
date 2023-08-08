@@ -1,6 +1,7 @@
 ---
 title: "<img src='/images/flamespeed.png' style='width: 60%; display: block; margin: 0 auto;'><center>Supercritical laminar flame</center>"
 collection: portfolio
+author_profile: false
 ---
 <!-- the styles -->
 <style>

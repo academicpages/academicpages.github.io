@@ -1,6 +1,7 @@
 ---
 title: "<img src='/images/sootfoil.png' style='width: 60%; display: block; margin: 0 auto;'><center>Detonation at elevated pressure</center>"
 collection: portfolio
+author_profile: false
 ---
 <!-- the styles -->
 <style>
