@@ -17,12 +17,12 @@ main:
 
   - title: "Work"
     url: /work/
-    
-  - title: "Resume"
-    url: /files/resume.pdf
   
   - title: "Research"
     url: /research/
+    
+  - title: "Resume"
+    url: /files/resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
