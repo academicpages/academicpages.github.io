@@ -12,8 +12,6 @@ I'm a Ph.D. student studying artificial intelligence/machine learning under Prof
 
 I have also worked in AI robustness and interpretability as a research intern in the Math, Stats, and Data Science Group at the [Pacific Northwest National Lab](https://www.pnnl.gov/).
 
-My long-term goal is to use machine learning to enable scientific discovery. 
-
 ## Representative Publications
 
 - **Konz, N.**, Dong, H. and Mazurowski, M. A. "Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion". **Medical Image Analysis**, 2023. [Link](https://arxiv.org/abs/2305.03098)
