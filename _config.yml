@@ -164,7 +164,6 @@ timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 # Plugins
 plugins:
-  - functions
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -172,7 +171,6 @@ plugins:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
-  - functions
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
