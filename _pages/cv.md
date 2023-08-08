@@ -9,19 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-## Skills
+## 📈 Skills
 * **Programming**: Python, Java, JavaScript, HTML/CSS, SQL, Shell scripting, git
 * **Data-related**: R, MySQL, SQLite, Tableau, PowerBI
 * **Frameworks**: TensorFlow, PyTorch, DeepRL, LangChain, EfficientNet, Django, Streamlit, Selenium
 
-## Education
+## 🏫 Education
 * ***Candidate for Honours Bachelor of Science (Expected in 2025)***
   * *University of Toronto (St. George Campus), Toronto, ON*
   * *Cumulative GPA: **3.98**/4.0 ; Overall Average: **92.5**/100*
   * Programs: **Computer Science** Specialist, **Statistics** Specialist, Arts and Science Internship Program (Co-op)
   * Honours: Louis Savlov Scholarship, U of T Scholar Award, Dean’s List Scholar Award (2022, 2023)
 
-## Work Experience
+## 💻 Work Experience
 * May - Aug 2023: **Data Analyst** (Co-op)
   * *Toromont Cat, Concord, ON*
   * Supervisor: Samer Toukan, Project Manager
@@ -30,7 +30,7 @@ redirect_from:
   * *BL Innovare, Markham, ON*
   * Supervisor: Colin Kilner, Senior Developer
 
-## Research Experience
+## 📖 Research Experience
 * May 2023 - Present: **Reinforcement Learning Researcher**
   * *Social Cognitive Science Lab, University of Toronto*
   * Supervisor: Prof. William Cunningham
@@ -65,7 +65,7 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 
-## Extracurricular
+## 🏃 Extracurricular
 * **Ultimate Frisbee**
   * Member of TULA, the men's ultimate frisbee team at the University of Toronto
 * **Competitive Swimming**
