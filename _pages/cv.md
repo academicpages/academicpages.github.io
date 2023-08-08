@@ -12,7 +12,7 @@ redirect_from:
 ## 📈 Skills
 * **Programming**: Python, Java, JavaScript, HTML/CSS, SQL, Shell scripting, git
 * **Data-related**: R, MySQL, SQLite, Tableau, PowerBI
-* **Frameworks**: TensorFlow, PyTorch, DeepRL, LangChain, EfficientNet, Django, Streamlit, Selenium
+* **Frameworks**: TensorFlow, PyTorch, LangChain, Django, Streamlit, Selenium
 
 ## 🏫 Education
 * ***Candidate for Honours Bachelor of Science (Expected in 2025)***
