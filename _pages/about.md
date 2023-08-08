@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year student at the University of Toronto studying computer science and statistics.
+I'm a third year student at the University of Toronto studying computer science and statistics. This is my personal website that documents my experience and work.
 
