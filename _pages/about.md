@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Home"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a senior student at Communication Engineering Elite Class in Beijing University of Posts and Telecommunications(BPUT), I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). My research interests include Computer Vision, Semantic communication and Multimodality.
+I'm a senior student at Communication Engineering Elite Class in Beijing University of Posts and Telecommunications(BUPT), I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). My research interests include Computer Vision, Semantic Communication and Multimodality.
 
 
 <!-- Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Moreover, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://db.hit.edu.cn/) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang). I also did research with [Prof. Jia Li](https://sites.google.com/view/lijia) and [Dr. Yu Rong](https://hk.linkedin.com/in/royrong). -->
@@ -33,6 +33,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**
 - **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(Core A)** [[pdf]](https://arxiv.org/abs/2305.04567)
 - **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
-
+- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**
 
 
