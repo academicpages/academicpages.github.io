@@ -4,8 +4,7 @@ excerpt: "Inzicht krijgen over programmeurs <br/><img src='/images/stack_overflo
 collection: portfolio
 ---
 
-<iframe title="stackoverflow survey" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=90a7153b-38b3-4f71-9528-241e5b50c8a0&autoAuth=true&ctid=331d268c-1c94-4624-a716-d89ed0714b57" frameborder="0" allowFullScreen="true"></iframe>
-
+<img src='/images/powerbi_so.png'>
 Ik heb met Power BI een interactieve dashboard gemaakt over programmeurs die een Stack Overflow Survey hebben ingevuld.
 Stack Overflow vragen jaarlijks aan programmeurs om een survey in te vullen. In de survey worden vragen gesteld over hun beroep, leeftijd, salaris en nog veel meer. De data van de survey is openbaar en kan gedownload worden via de website van Stack Overflow.
 
