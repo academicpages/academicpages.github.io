@@ -13,7 +13,7 @@ I'm leading a research group on Cyber-AI, applying new advances in AI to solve p
 
 # News:
 
-- (10/08/2023): We are recruiting a post-doc to work on our industry-funded project on IoT security, please consider applying. See the position description [here](https://careers.adelaide.edu.au/cw/en/job/512206/postdoctoral-researcher-ab-resilient-platform-interfaces).
+- (10/08/2023): We are recruiting a post-doc to work on our industry-funded project on IoT security, please consider applying. See the position description (https://careers.adelaide.edu.au/cw/en/job/512206/postdoctoral-researcher-ab-resilient-platform-interfaces).
 - We are offering generous research scholarships (PhDs and Masters) and summer research scholarships (undergraduates) on applying Artificial Intelligence/Machine Learning and Game Theory to solve problems in network (anti)fragility and security.
 
 Please contact me directly with your CV if interested.
