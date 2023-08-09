@@ -57,12 +57,14 @@ Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Dist
 - National Scholarship for Encouragement (2021,2022)
   
 - The 1st prize of the National Software and Information Technology Professionals Competition of python program design in the Blue Bridge Cup[[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
-
+  
+- The 1st prize of the 9th China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition
+  
 - The 2nd prize of the 33rd Beijing University Student Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学北京二等奖.jpg)
 
 - The 2nd prize of National Education Cup National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/华教杯决赛二等奖.jpg)
 
-- The 2nd prize of the National College Student New Generation Information and Communication Technology Competition of Datang Cup
+- The 2nd prize of the National College Student New Generation Information and Communication Technology Competition of Datang Cup [[certificate]](https://staymylove.github.io/files/大唐杯.png)
 
 - The 2nd prize of Chinese Chemistry Olympiad[[certificate]](https://staymylove.github.io/files/化学竞赛.jpg)
 
