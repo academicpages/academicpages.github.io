@@ -62,6 +62,10 @@ Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Dist
 - The 1st prize of the National Software and Information Technology Professionals Competition of python program design in the Blue Bridge Cup[[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
   
 - The 1st prize of the 9th China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition
+
+- The 1st prize of Innovation and Entrepreneurship Practice Achievement Exhibition and Exchange Conference for College Students[[certificate]](https://staymylove.github.io/files/大创展一等奖.jpg)
+
+- The 1st prize of "Foreign Language Teaching Society · Word Talent Cup" National College Students' English Vocabulary Ability Competition[[certificate]](https://staymylove.github.io/files/校一等奖.jpg)
   
 - The 2nd prize of the 33rd Beijing University Student Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学北京二等奖.jpg)
 
