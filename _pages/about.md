@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to lix19937's homepage (pronounced as siao). I received my B.S in EE from Hubei Engineering University and receive my M in EECS from Shanghai Maritime University. 
+Welcome to lix19937's homepage. I received my B.S in EE from Hubei Engineering University and receive my M in EECS from Shanghai Maritime University. 
 
 
 
