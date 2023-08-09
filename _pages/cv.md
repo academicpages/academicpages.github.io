@@ -20,27 +20,30 @@ redirect_from:
 ## Internships
 
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
-  - Interests: Data mining and Knowledge graph (Mentor: Chunhong Zhang)
-  - Duty: I constructed more than one hundred knowledge graphs of Electronic Information automatically by NER and RegEx; Our team built a web system that can mark examination papers automatically by OCR and vue, and we applied a patent for it; 
-        Our team studied KG fusion and entity alignment, and we propose an automated knowledge extraction, data cleaning and graph fusion framework for heterogeneous learning resources. Our paper was submitted to ``ICALT2023".
+  - Interests: NLP and Knowledge graph (Mentor: Chunhong Zhang)
+  - Duty:  I have studied the Pytorch, Linux, and NLP models. We proposed an automated knowledge extraction for data extraction, data cleaning, and graph fusion
+framework over 100 knowledge graphs. The paper got **best paper award nomination in ICALT2023**.
 
 - 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
-  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan)
-  - Duty: I do research in multimodal information fusion and semantic communication based on deep learning.
-We propose a practical physical layer black-box attack method to destroy the robustness of  deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
-And then, we propose SemGuard: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. Our work was submitted to Communication Magazine.
+  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan and Xiaofeng Tao)
+  - Duty: I do research in multimodal information fusion and semantic communication systems. We proposed channel-layer black-box attack method targeting semantic communication systems and a unified framework for semantic protection. Our 3 papers have been accepted by **VTC2022fall, ICC2023 and IEEE Communication Magazine**. In 2023, we proposed a multimodal semantic communication system that utilizes text information assisting in image transmission and reconstruction.
 
-- 2023.03-Now Graph Data Mining and Machine Learning Lab (GAMMA Lab)
+- 2023.03-2023.05 Graph Data Mining and Machine Learning Lab (GAMMA Lab) in BUPT
 
   - Interest: Data Mining and GNN (Mentor: Prof. Chuan Shi)
+  - Duty: I study GNN and graph data mining.I do research and coding for papers in the CCF-A conferences of GNN model.
 
-  - Duty: I study GNN and graph data mining.
-I do research and coding for papers in the CCF-A conference of GNN model.
+- 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
-- 2023.04-Now The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
-
-  - Interest: Diffusion model and AI4Science. (Mentor: Prof.Yifan Zhang)
+  - Interest: Diffusion model and AI4Science. (Mentor: Prof.Jian Cheng)
   - Duty: I do research in combinatorial optimization, image generation and AI4Science.
+
+- 2023.07-Now GAP Lab, Chinese University of Hong Kong (Shenzhen)
+
+  - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han and Shuguang Cui)
+  - Duty: I do research in image and 3d generation methods such as zero123, T2I-Adapter
+and Clipasso.
+
 
 ## Publications
 - **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
