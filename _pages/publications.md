@@ -6,14 +6,11 @@ author_profile: true
 ---
 
 
-* Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures [[PDF]](https://arxiv.org/pdf/2012.13188.pdf)
+* **Conditional and Residual Methods in Scalable Coding for Humans and Machines** [[PDF]](https://arxiv.org/pdf/2305.02562v1.pdf)\
+Anderson de Andrade, Alon Harell, Yalda Foroutan, Ivan V. Bajić, ICME, 2023.
 
-  Yalda Foroutan, Ahmad Kalhor, Saeid Mohammadi Nejati, Samad Sheikhaei
-
-  This paper presents a user interface designed for enabling computer cursor control through hand detection and gesture classification. A comprehensive hand dataset consisting of 6720 image samples was collected, covering four distinct classes: fist, palm, pointing to the left, and pointing to the right. The images were captured from 15 individuals in various settings, including simple backgrounds with varying perspectives and lighting conditions. A convolutional neural network (CNN) is trained on this dataset to accurately predict labels for each captured image and assess their similarity. The system incorporates predefined commands for cursor movement, left-click, and right-click actions. Experimental results indicate that the proposed algorithm achieves a remarkable accuracy of 91.88% and demonstrates its potential applicability across diverse backgrounds.
-
-  Keywords: Hand Gesture Recognition, Dataset, Convolutional Neural Network, Human-computer Interaction, Classification
-
+* **Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures** [[PDF]](https://arxiv.org/pdf/2012.13188.pdf)\
+  Yalda Foroutan, Ahmad Kalhor, Saeid Mohammadi Nejati, Samad Sheikhaei, arXiv, 2020.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{https://scholar.google.com/citations?hl=en&user=mkzIURcAAAAJ&view_op=list_works&sortby=pubdate}}">my Google Scholar profile</a>.</u>
