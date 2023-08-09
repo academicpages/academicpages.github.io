@@ -21,12 +21,12 @@ redirect_from:
 
 - 2021.06-2022.12 Intelligent System Research Group in BUPT
   - Interests: NLP and Knowledge graph (Mentor: Chunhong Zhang)
-  - Duty:  I have studied the Pytorch, Linux, and NLP models. We proposed an automated knowledge extraction for data extraction, data cleaning, and graph fusion
+  - Duty:  I have studied the Pytorch, Linux, and NLP models. We proposed an automated knowledge extraction for data extraction, data cleaning, and graph fusion
 framework over 100 knowledge graphs. The paper got **best paper award nomination in ICALT2023**.
 
 - 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
   - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan and Xiaofeng Tao)
-  - Duty: I do research in multimodal information fusion and semantic communication systems. We proposed channel-layer black-box attack method targeting semantic communication systems and a unified framework for semantic protection. Our 3 papers have been accepted by **VTC2022fall, ICC2023 and IEEE Communication Magazine**. In 2023, we proposed a multimodal semantic communication system that utilizes text information assisting in image transmission and reconstruction.
+  - Duty: I do research in multimodal information fusion and semantic communication systems. We proposed channel-layer black-box attack method targeting semantic communication systems and a unified framework for semantic protection. Our 3 papers have been accepted by **VTC2022fall, ICC2023 and IEEE Communication Magazine**. In 2023, we proposed a multimodal semantic communication system that utilizes text information assisting in image transmission and reconstruction.
 
 - 2023.03-2023.05 Graph Data Mining and Machine Learning Lab (GAMMA Lab) in BUPT
 
