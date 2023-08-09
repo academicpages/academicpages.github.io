@@ -10,17 +10,15 @@ redirect_from:
 
 {% include base_path %}
 
-HPC Note
+NN Note
 ------
-[Link to github repo](https://github.com/lix19937/HPC-Notes)
-* Personal note / guide on HPC
+[Link to github repo](https://github.com/lix19937/NN)
+* Personal guide on NN
 
 
-
-
-CUDA Optimization Guide
+CUDA Guide
 ------
-[Link to github repo](https://github.com/XiaoSong9905/CUDA-Optimization-Guide)
+[Link to github repo](https://github.com/lix19937/CUDA-Optimization-Guide)
 * Personal note, guide, and experience on optimizing CUDA
 
 
