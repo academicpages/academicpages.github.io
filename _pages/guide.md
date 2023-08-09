@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Guide"
-permalink: /guide-and-note/
+permalink: /guide/
 author_profile: true
 redirect_from:
   - /guide-and-note
