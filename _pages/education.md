@@ -5,7 +5,8 @@ permalink: /Education/
 author_profile: true
 ---
 
-* **Ph.D. in Engineering Science (ENSC)** at Simon Fraser University | 2021 - 2025 (expected)\
+* **Ph.D. | Engineering Science (ENSC)**, Simon Fraser University\
+  <span style="color:grey;">2021 - 2025 (expected)</span>\
   Ph.D. Taken Courses:
   * ENSC 813 - Deep Learning Systems
   * ENSC 801 - Linear System Theory
@@ -24,6 +25,8 @@ author_profile: true
 
 * **B.Sc. in Electrical Engineering (Control)** at Amirkabir University of Technology | 2012 - 2017\
   Thesis: Driver’s Consciousness Level Analysis Using EEG Signals
+
+* ** High School Diploma | Mathematics, at National Organization for Development of Exceptional Talents (Sampad) | 2012 - 2008
 
 * **Online Courses** at Coursera:
   * Neural Networks and Deep Learning [[Certificate]](https://www.coursera.org/account/accomplishments/verify/RFAWW2FJK9ZC)
