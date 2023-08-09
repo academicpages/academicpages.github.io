@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Guide&Note"
+title: "Guide"
 permalink: /guide-and-note/
 author_profile: true
 redirect_from:
@@ -12,7 +12,7 @@ redirect_from:
 
 HPC Note
 ------
-[Link to github repo](https://github.com/XiaoSong9905/HPC-Notes)
+[Link to github repo](https://github.com/lix19937/HPC-Notes)
 * Personal note / guide on HPC
 
 
