@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "Education"
+permalink: /Education/
 author_profile: true
 ---
-hellp
+hellprrr
 
 
 {% if site.talkmap_link == true %}
