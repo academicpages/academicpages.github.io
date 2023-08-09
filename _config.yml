@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hello!"
+title                    : "Yalda Foroutan"
 title_separator          : "-"
 name                     : &name "Yalda Foroutan"
 description              : &description "personal description"
