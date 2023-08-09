@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "lix19937"
+  name             : # "lix19937"
   avatar           : "profile.png"
   bio              : # "Keep learning"
   location         : # "Shanghai"
