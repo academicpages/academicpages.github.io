@@ -48,7 +48,7 @@ Publications
 			<br/>
 			<b>Habiba Farrukh</b>, Reham Mohamed, Aniket Nare, Antonio Bianchi, Z. Berkay Celik
 			<br/>
-			USENIX Security Symposium 2023
+			USENIX Security Symposium 2023 <a href='/files/LocIn.pdf'>[Paper]</a> <a href='https://github.com/Habiba-Farrukh/ARKitScenesPlusPlus'>[Dataset]</a>
 			<br/>
 	</li>
 </ul>
