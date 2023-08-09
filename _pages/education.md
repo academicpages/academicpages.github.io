@@ -14,7 +14,7 @@ author_profile: true
   * ENSC 424 - Multimedia Communications
   * ENSC 895 - Digital Image Processing
 
-* **M.Sc. in Electrical Engineering** at University of Tehran | <span style="color:grey;">2017 - 2020\
+* **M.Sc. in Electrical Engineering** at University of Tehran | <span style="color:grey;">2017 - 2020</span>\
   Thesis: Control of Computer Mouse Using Hand Gesture Recognition\
   Selected M.Sc. Taken Courses:
   * Neural Networks
@@ -22,11 +22,11 @@ author_profile: true
   * Quanntum Computing
   * Integrated Data Converters (A/D, D/A)
 
-* **B.Sc. in Electrical Engineering (Control)** at Amirkabir University of Technology | <span style="color:grey;">2012 - 2017\
+* **B.Sc. in Electrical Engineering (Control)** at Amirkabir University of Technology | <span style="color:grey;">2012 - 2017</span>\
   Thesis: Driver’s Consciousness Level Analysis Using EEG Signals
 
-* **High School Diploma in Mathematics** at National Organization for Development of Exceptional Talents (Sampad) | <span style="color:grey;">2012 - 2008
-
+* **High School Diploma in Mathematics** at National Organization for Development of Exceptional Talents (Sampad) | <span style="color:grey;">2012 - 2008</span>\
+  
 * **Online Courses** at Coursera:
   * Neural Networks and Deep Learning [[Certificate]](https://www.coursera.org/account/accomplishments/verify/RFAWW2FJK9ZC)
   * Improving Deep Neural Networks [[Certificate]](https://www.coursera.org/account/accomplishments/verify/CWEXLEEAWHTH)
