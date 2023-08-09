@@ -19,6 +19,9 @@ Graduate studentship, RA, Postdoc positions avaiable at MBZUAI. Highly self-moti
 ---
 
 ### News
+Aug, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *HMCDA: a novel method based on the
+heterogeneous graph neural network and metapath for circRNA-disease associations prediction* is accepted by BMC Bioinformatics (IF=3.327).
+
 May, 2023.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Our paper entitled as *Leveraging Relational Graph Neural Network for Transductive Model Ensemble* is accepted by SIGKDD (CCF A).
 
 Nov, 2022.&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; I gave a talk on **Graph Neural Networks** at [UN Big Data Hackathon 2022](https://unstats.un.org/bigdata/events/2022/hackathon/). The powerpoint is available [here](./UN_CEB_Talk_sim.pptx).
