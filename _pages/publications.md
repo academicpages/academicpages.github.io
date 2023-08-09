@@ -13,6 +13,10 @@ author_profile: true
 Journal Publications
 ------
 
+* Anton V. Proskurnikov, <b>Alexander Davydov</b>, and Francesco Bullo. “The Yakubovich S-Lemma Revisited: Stability and Contractivity in Non-Euclidean Norms,” <i>SIAM Journal on Control and Optimization</i>, vol. 61, no. 4, pp. 1955-1978, July 2023. [[DOI](https://doi.org/10.1137/22M1512600)], [[URL](https://arxiv.org/abs/2207.14579)]
+
+* Veronica Centorrino, Anand Gokhale, <b>Alexander Davydov</b>, Giovanni Russo, and Francesco Bullo. “Euclidean Contractivity of Neural Networks With Symmetric Weights,” <i>IEEE Control Systems Letters</i>, vol. 7, pp. 1724-1729, May 2023. [[DOI](https://doi.org/10.1109/LCSYS.2023.3278250)], [[URL](https://arxiv.org/abs/2302.13452)]
+
 * <b>Alexander Davydov</b>, Saber Jafarpour, and Francesco Bullo. “Non-Euclidean Contraction Theory for Robust Nonlinear Stability,” <i>IEEE Transactions on Automatic Control</i>, vol. 67, no. 12, pp. 6667-6681, Dec. 2022. [[DOI](https://doi.org/10.1109/TAC.2022.3183966)], [[URL](https://arxiv.org/abs/2103.12263)]
 
 * Saber Jafarpour, <b>Alexander Davydov</b>, and Francesco Bullo. “Non-Euclidean Contraction Theory for Monotone and Positive Systems,” <i>IEEE Transactions on Automatic Control</i>, Nov. 2022. [[URL](https://arxiv.org/abs/2104.01321)] <b>To Appear</b>
@@ -24,7 +28,7 @@ Journal Publications
 Conference Publications
 ------
 
-* Xiaotian Xu, <b>Alexander Davydov</b>, and Yancy Diaz-Mercado. “On the Equivalence of Multi-Agent 2D Coverage Control and Leader-Follower Consensus Network,” <i>American Control Conference</i>, Jan. 2023. <b>To Appear</b>
+* Xiaotian Xu, <b>Alexander Davydov</b>, and Yancy Diaz-Mercado. “On the Equivalence of Multi-Agent 2D Coverage Control and Leader-Follower Consensus Network,” <i>American Control Conference</i>, pp. 503-508, June 2023. [[DOI](https://doi.org/10.23919/ACC55779.2023.10156475)]
 
 * <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Monotone Operator Theory with Applications to Recurrent Neural Networks,” <i>IEEE Conference on Decision and Control</i>, pp. 6332-6337, Dec. 2022. [[DOI](https://doi.org/10.1109/CDC51059.2022.9993197)]
 
@@ -43,9 +47,11 @@ Conference Publications
 Preprints and Publications Under Review
 ------
 
-* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contraction Analysis of Continuous-Time Neural Networks,” <i>IEEE Transactions on Automatic Control</i>, September 2022. [[URL](https://arxiv.org/abs/2110.08298)] <b>Submitted</b>
+* <b> Alexander Davydov</b>, Veronica Centorrino, Anand Gokhale, Giovanni Russo, and Francesco Bullo. “Contracting Dynamics for Time-Varying Convex Optimization,” <i>IEEE Transactions on Automatic Control</i>, June 2023. [[URL](https://arxiv.org/abs/2305.15595)]
 
-* Anton V. Proskurnikov, <b>Alexander Davydov</b>, and Francesco Bullo. “The Yakubovich S-Lemma Revisited: Stability and Contractivity in Non-Euclidean Norms,” <i>SIAM Journal on Control and Optimization</i>, July 2022. [[URL](https://arxiv.org/abs/2207.14579)] <b>Submitted</b>
+* <b>Alexander Davydov</b><sup>*</sup>, Saber Jafarpour<sup>*</sup>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Monotone Operator Theory and Applications,” <i>Journal of Machine Learning Research</i>, May 2023. [[URL](https://arxiv.org/abs/2303.11273)] <b>Submitted</b>
+
+* <b>Alexander Davydov</b>, Anton V. Proskurnikov, and Francesco Bullo. “Non-Euclidean Contraction Analysis of Continuous-Time Neural Networks,” <i>IEEE Transactions on Automatic Control</i>, September 2022. [[URL](https://arxiv.org/abs/2110.08298)] <b>Submitted</b>
 
 
 
