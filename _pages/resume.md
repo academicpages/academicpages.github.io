@@ -10,12 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-PDF Resume
-------
-[Download Here (might be outdated)](http://xiaosong9905.github.io/files/XiaoSong-Resume.pdf) 
-
-
-
 
 Education
 ------
@@ -28,22 +22,15 @@ Education
   * Fung Excellent Scholar
 
 
-
-
 Work & Intern experience
 ------
 * Architect (HPC, SW) @ NVIDIA (Beijing) 2022.10 - present
   * Develop kernels for latest GPU architecture for trt,cublas,cudnn,cutlass
 
 
-
-
-
 * High Performence Computing Intern @ YITU (Beijing) 2021.05 - 2021.09
   * Use arm intrinsic (NEON) and NVIDIA CUDA to improve the speed and accuracy of general & customized operators (functions).
   * Some common operators are 20-50% faster. Some uint8_t operators are nearly as accurate as double, with only 0.8% of values differing by 1.
-
-
 
 
 Skills
