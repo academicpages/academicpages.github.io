@@ -5,8 +5,7 @@ permalink: /Education/
 author_profile: true
 ---
 
-* **Ph.D. | Engineering Science (ENSC)**, Simon Fraser University\
-  <span style="color:grey;">2021 - 2025 (expected)</span>\
+* **Ph.D. in Engineering Science (ENSC)** at Simon Fraser University | <span style="color:grey;">2021 - 2025 (expected)</span>\
   Ph.D. Taken Courses:
   * ENSC 813 - Deep Learning Systems
   * ENSC 801 - Linear System Theory
