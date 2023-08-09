@@ -36,7 +36,9 @@ Disponível no sistema SAGRES.
 
 Datas das Provas
 ======
-
+P1: 19/09/2023 (FÍSICA), 20/09/2023 (MATEMÁTICA)
+P2: 31/10/2023 (FÍSICA), 01/11/2023 (MATEMÁTICA)
+P3: 19/12/2023 (FÍSICA), 14/12/2023 (MATEMÁTICA)
 
 
 Listas de Exercícios 
