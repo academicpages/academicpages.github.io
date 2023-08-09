@@ -4,8 +4,8 @@ title: "Guide"
 permalink: /guide/
 author_profile: true
 redirect_from:
-  - /guide-and-note
-  - /guide-and-note.html
+  - /guide
+  - /guide.html
 ---
 
 {% include base_path %}
