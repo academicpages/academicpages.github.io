@@ -10,6 +10,7 @@ author_profile: true
 > Econometrics I (Ph.D level)    
     - <sub>2023.2 [Syllabus](http://henriqueveras.github.io/files/Econometrics/Syllabus/Ementa.pdf) 
 
+
 > Macroeconomic Theory 2   
     - <sub>2023.1
     
