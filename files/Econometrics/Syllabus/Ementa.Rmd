@@ -207,6 +207,6 @@ class_cal
 
 6.    Modelos de Resposta Qualitativa (Capítulo 17)
 
-7.    Método dos momentos generalizado (Capítulo 13)
+7.    Método dos Momentos Generalizado (Capítulo 13)
 
 8.    Estimação por Máxima Verossimilhança (Capítulo 14)
