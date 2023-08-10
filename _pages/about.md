@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I’m a PhD Student (4th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to Qualcomm and Halıcıoğlu Data Science Institute for their fellowship to support my research.
+I’m a PhD Student (5th year) at UCSD Computer Science with a specialization in Data Mining, advised by <a href="https://shangjingbo1226.github.io/" target="_blank">Professor Jingbo Shang</a> and <a href="http://mesl.ucsd.edu/gupta/" target="_blank">Professor Rajesh K. Gupta</a>. I am grateful to <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">Qualcomm</a> and <a href="https://datascience.ucsd.edu/hdsi-awards-10-graduate-prize-fellowships/" target="_blank">Halıcıoğlu Data Science Institute</a> for their fellowship to support my research.
 
 I spent several wonderful summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. 
 
@@ -20,20 +20,20 @@ I spent several wonderful summers working as an Applied Scientist II Intern at A
 I'm broadly interested in Data Mining Applications in Human-Centric AI:
 - Human Motion Understanding
 - Health Analytics
-- Speech Processing
+- Speech & Music Processing
 
-My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data, wearable sensors). To learn more about my projects, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
+My projects focus on self-supervised learning to build data-efficient and robust algorithms from sensor-based time-series (PPG, ECG, EEG, IMU, clinical/medical data, wearable sensors). During my internships, I have worked on accent robust speech representation learning and natural language reasoning about music through LLMs. To learn more about my projects, please look into my [projects](https://ranakroychowdhury.github.io/#projects) and relevant [publications](https://ranakroychowdhury.github.io/#publications)!
 
 
 
 
 <h1>Latest News</h1>
 
-[June 2023] Returned to Amazon Web Services (AWS) AI as an Applied Scientist II Intern at the Speech Science Group.
+[August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
-<!-- 
-[June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi! 
--->
+[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2023 Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA.
+
+[June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi!
 
 [March 2023] Presented my Thesis Proposal Exam on <a href="https://drive.google.com/file/d/1wz4U6_EXLPbZDnclUo8h7iOt1S-GpvM8/view?usp=sharing" target="_blank">Data-Efficient Learning for Sensory Time Series</a>. Advanced to <em>Ph.D.</em> candidacy! 
 
