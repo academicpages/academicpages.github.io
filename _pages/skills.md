@@ -14,6 +14,7 @@ redirect_from:
   * C/C++
   * R
   * Julia
+  * Verilog
 * Languages
   * English (Academic IELTS (2021): 7.5/9)
   * Persian (Farsi)
