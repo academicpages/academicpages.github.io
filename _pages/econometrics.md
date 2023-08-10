@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Econometrics 1"
-permalink: /teaching/econometrics/
+permalink: /_pages/econometrics/
 author_profile: true
 ---
 
