@@ -11,7 +11,7 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 **Keywords:** Human-machine Coding, Scalable Coding, Learning-based Compression 
 
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.png" alt="Alt Text" style="border-radius: 50%;">
+<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.jpg" alt="Alt Text" style="border-radius: 50%;">
 
 <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
 </a>
@@ -31,7 +31,7 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 **Keywords:** Rate-Distortion Theory, Collaborative Intelligence, Image Coding, Coding for Machines, Learnable Compression, Compression for Machines, Split Computing
 
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/rd_for_machines.png" alt="Alt Text" style="border-radius: 50%;">
+<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/rd_for_machines.jpg" alt="Alt Text" style="border-radius: 50%;">
 
 
 
@@ -40,7 +40,7 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 **Keywords:** Compression for Machines, Coding for Machines, Image Coding, Scalable Coding, Learned Image Compression
 
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/vtm.png" alt="Alt Text" style="border-radius: 50%;">
+<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/vtm.jpg" alt="Alt Text" style="border-radius: 50%;">
 
 
 
