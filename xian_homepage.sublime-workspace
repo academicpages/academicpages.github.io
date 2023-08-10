@@ -219,17 +219,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_pages/about.md",
-			"settings":
-			{
-				"buffer_size": 625,
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -279,12 +268,28 @@
 	},
 	"expanded_folders":
 	[
-		"/G/xianshine.github.io",
-		"/G/xianshine.github.io/_pages",
-		"/G/xianshine.github.io/markdown_generator"
+		"/D/clouddrives/KongLab/daily/xianshine.github.io",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages"
 	],
 	"file_history":
 	[
+		"/D/files/Xiaoyun/inertia_tensor/loop.sh",
+		"/D/files/Xiaoyun/inertia_tensor/phi.log",
+		"/D/files/Xiaoyun/inertia_tensor/get_inertia_tensor.py",
+		"/D/files/Xiaoyun/inertia_tensor/raw/bcc.pdb",
+		"/D/files/Xiaoyun/inertia_tensor/inertia_tensor.2.log",
+		"/D/files/Xiaoyun/inertia_tensor/raw/bcc.txt",
+		"/D/files/Xiaoyun/inertia_tensor/raw/mu-Fe-6c.txt",
+		"/D/files/Xiaoyun/inertia_tensor/readme.txt",
+		"/D/files/Xiaoyun/inertia_tensor/getOrderParam.py",
+		"/D/files/Xiaoyun/inertia_tensor/output.pdb",
+		"/D/files/Xiaoyun/inertia_tensor/raw/BCC_2.txt",
+		"/D/files/Xiaoyun/inertia_tensor/raw/phi.txt",
+		"/D/files/Xiaoyun/inertia_tensor/raw/BCC.txt",
+		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/BCC.txt",
+		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/mu.txt",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
+		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/phi.txt",
 		"/D/files/vpns/ShadowsocksR/pac.txt",
 		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal.py",
 		"/D/clouddrives/wechat/WeChat Files/xianshine/FileStorage/File/2023-07/mac.txt",
@@ -395,28 +400,11 @@
 		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/funding/珠江/个人简介.txt",
 		"/D/clouddrives/KongLab/daily/实验室报销/done/2022/cluster/材料提交清单.txt",
 		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/7910ffa0-21aa-4f73-ace2-6c341caafb32/achs_nalefdAxA.bib",
-		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/be891945-75be-479c-bd40-bb1846efbd3d/achs_mamobxAxA.bib",
-		"/D/clouddrives/xk/working/writes/jipeng/Preferred Reviewers.txt",
-		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/3996ca4b-24bc-4e71-b3fa-8eb02a2d1b49/S2451929422006489.bib",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DEE.top",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DEM.top",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DME.top",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/tops/DPM.top",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/GJFs/DEE.gjf",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/GJFs/codes.txt",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/New GJF/DEE.gjf",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/topol.top",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DPM/rdf.LI_O.FSI.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DPM/rdf.LI_RES.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/rdf.LI_O.FSI.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DEM/rdf.LI_RES.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DME/rdf.LI_O.FSI.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/out/DME/rdf.LI_RES.xvg",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/4solvents/charge/in/codes/script_md.sh"
+		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/be891945-75be-479c-bd40-bb1846efbd3d/achs_mamobxAxA.bib"
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -519,38 +507,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_pages/about.md",
-					"selected": true,
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 625,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								625,
-								625
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		},
 		{
@@ -561,7 +517,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -587,7 +543,7 @@
 		"cols":
 		[
 			0.0,
-			0.913009404389,
+			0.0968122212903,
 			1.0
 		],
 		"rows":
@@ -605,7 +561,7 @@
 	"project": "xian_homepage.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 52.8
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -635,7 +591,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
@@ -643,7 +599,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 260.0,
+	"side_bar_width": 64.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

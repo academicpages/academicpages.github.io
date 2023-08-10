@@ -92,7 +92,7 @@ redirect_from:
 ## Master Students
 <div style="display:flex">
   <div style="flex:1">
-    <img src="../images/zizhao.png" style="width: 150px; height:200px;">
+    <img src="../images/zizhao.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     李子昭 (Zizhao Li)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
@@ -101,7 +101,7 @@ redirect_from:
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-    <img src="../images/xiupeng.png" style="width: 150px; height:200px;">
+    <img src="../images/xiupeng.jpg" style="width: 150px; height:200px;">
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     陈修棚 (Xiupeng Chen)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
