@@ -13,8 +13,17 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.png" alt="Alt Text" style="border-radius: 50%;">
 
-![Alt Text](https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.png)
+<img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
+</a>
 
+
+<div class="publication-item">
+    <div class="image-container">
+      <a href="http://yaksoy.github.io/realisticEditing/">
+        <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.png" alt="RealisticEditing" class="publication-image" />
+      </a>
+    </div>
+</div>
 
 * **Rate-Distortion Theory in Coding for Machines and its Applications** [[arXiv]](https://arxiv.org/pdf/2305.17295)
 
