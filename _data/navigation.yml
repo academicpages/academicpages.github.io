@@ -5,10 +5,13 @@ main:
     url: /publications/
 
   - title: "Education"
-    url: /Education/
+    url: /education/
   
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+    
+  - title: "Awards and Honors"
+    url: /awards-and-honors/   
     
   - title: "Portfolio"
     url: /portfolio/
