@@ -42,14 +42,14 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 
 ## Education
 - **Ph.D. in Computer Science**
-  - Purdue University, July 2023 <!--(expected)-->
+  - Purdue University, Summer 2023 <!--(expected)-->
   - Advisor: Professor [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/)
   - Thesis: **Multimodal Data Management in Open-world Environment [[Link]](/files/publications/final-thesis-KMA-Solaiman-Jul-26-2023.pdf)**
 - **M.Sc. in Computer Science**
   - Purdue University, Dec 2022
 - **B.Sc. in Computer Science and Engineering (Artifical Intelligence)**
   - Bangladesh University of Engineering & Technology (BUET), 2014
-  - Advisor: Prof. [Md. Monirul Islam](https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam)
+  - Advisor: Professor [Md. Monirul Islam](https://cse.buet.ac.bd/faculty/facdetail.php?id=mdmonirulislam)
   - Thesis: **Minimal Parameter Clustering of Complex Shaped & Different Sized Dataset with Noise & Outlier Handling (MPCACS) [[Link]](/files/publications/ug-thesis-2014.pdf)**
   
 <!-- Thesis Title: From Entity-Centric to Event-Centric Multimodal Knowledge Acquisition
@@ -59,3 +59,9 @@ I am interested in designing mechanisms for identifying patterns and novelties i
  - Program committee member ECML-PKDD 2023, ECML-PKDD 2022
  - Volunteer in NeurIPS 2022
  - PC Member in IEEE PIMRC 2019
+
+
+<!-- * [Profile](https://scholar.google.com/citations?user={{ site.data.scholar.id }})
+* Citations: {{ site.data.scholar.citations }}
+* h-index: {{ site.data.scholar.h_index }}
+* i10-index: {{ site.data.scholar.i10_index }} -->
