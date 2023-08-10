@@ -7,11 +7,14 @@ author_profile: true
 
 ### Universidade Federal de Pernambuco (Brazil)
 
+> Econometrics I (Ph.D level) [Syllabus](http://henriqueveras.github.io/files/Econometrics/Syllabus/Ementa.pdf) 
+    - <sub>2023.2
+
 > Macroeconomic Theory 2   
-    - <sub>Spring 2023
+    - <sub>2023.1
     
 > Topics in Development Economics   
-    - <sub>Spring 2023
+    - <sub>2023.1
 
 ### Forward College
 
