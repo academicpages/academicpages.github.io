@@ -1,0 +1,212 @@
+---
+output: 
+  stevetemplates::syllabus:
+    latex_engine: xelatex
+    #dev: cairo_pdf
+geometry: margin=1in
+
+title: "Econometria I"
+author: Henrique Veras
+date: "2023.2"
+
+email: "henrique.fonseca@ufpe.br"
+web: "henriqueveras.github.io"
+officehours: "agendamento por email"
+office: "\\shrug"
+classroom: "\\shrug"
+classhours: "Ter-Qui (14:00 - 16:00)"
+
+fontfamily: mathpazo
+fontsize: 11pt
+header-includes:
+   - \linespread{1.05}
+---
+
+<!-- CCCCCCCCnncdxxxxxxx -->
+
+<!-- Fun fact: my cat added this comment as she walked over the keyboard while I was working on this template. -->
+
+<!-- I'm going to keep it going forward. Long live Queen Bea. -->
+
+```{r setup, include=FALSE}
+# knitr::opts_chunk$set(cache=FALSE, dev='pdf')
+knitr::opts_chunk$set(cache=F,
+                      fig.path = 'figs/',
+                      cache.path='cache/',
+                      warning=F,
+                      message=F)
+
+knitr::opts_chunk$set(
+                  fig.process = function(x) {
+                      x2 = sub('-\\d+([.][a-z]+)$', '\\1', x)
+                      if (file.rename(x, x2)) x2 else x
+                      }
+                  )
+
+
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ tfri <- obj + 4 + 7*(adv-1)
+ tmon <- format(tmon, format="%m/%d")
+ tfri <- format(tfri, format="%m/%d")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Week ",zadv,sep='',", ", tmon," - ",tfri)
+ return(tmp)
+}
+
+options(scipen=999)
+library(tidyverse)
+library(stevemisc)
+#library(ggpmisc)
+#library(anonymizer)
+# library(ggcal)
+#library(stringr)
+#library(kfigr)
+#library(broom)
+library(lubridate)
+
+
+
+library(RefManageR)
+library(knitcitations)
+library(rcrossref)
+bib <- ReadBib("/Users/henriquefonseca/Documents/UFPE/Econometria - PIMES/Code Lectures/Syllabus/master.bib")
+myopts <- BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+
+# Create a calendar for your syllabus ----
+# Source: http://svmiller.com/blog/2020/08/a-ggplot-calendar-for-your-semester/
+
+# 1) what is the first Monday of the semester?
+# Any number of ways to identify dates in R, but we'll use {lubridate} and the ymd() function here.
+# Format: YYYYMMDD. In this example, 4 January 2021.
+
+mon <- ymd(20230814)
+
+# What are some dates you won't be here? In this example, I had a conference on 7 January 2021.
+# Spring Break was 15 March 2021 to 19 March 2021.
+not_here_dates <- c(
+  # SPSA 2021,
+  ymd(20210107),
+  # Spring Break
+  seq(ymd(20210315),ymd(20210319), by=1))
+
+# You can adjust this as you see fit. Basically: add assignment types (e.g. papers, quizzes).
+# My intro class was fairly simple: just exams.
+exam_dates <- c(ymd(20210218), ymd(20210401), ymd(20210429))
+
+# What are the full dates of the semester? Here, I'll exclude exam week as I like to do.
+# In this case: 6 January to 23 April
+semester_dates <- seq(ymd(20210106), ymd(20210423), by=1)
+
+# Custom function for treating the first day of the month as the first week 
+# of the month up until the first Sunday (unless Sunday was the start of the month)
+wom <- function(date) {
+    first <- wday(as.Date(paste(year(date),month(date),1,sep="-")))
+    return((mday(date)+(first-2)) %/% 7+1)
+  }
+
+# Create a data frame of dates, assign to Cal
+tibble(date = seq(ymd(20210101), ymd(20210430), by=1))  %>%
+  mutate(mon = lubridate::month(date, label=T, abbr=F), # get month label
+         wkdy = weekdays(date, abbreviate=T), # get weekday label
+         wkdy = fct_relevel(wkdy, "Sun", "Mon", "Tue", "Wed", "Thu","Fri","Sat"), # make sure Sunday comes first
+         semester = ifelse(date %in% semester_dates, 1, 0), # is date part of the semester?
+         exams = ifelse(date %in% exam_dates, 1, 0), # is it an exam?
+         not_here = ifelse(date %in% not_here_dates, 1, 0), # is it a day off?
+         day = lubridate::mday(date), # get day of month to add later as a label
+         # Below: our custom wom() function
+         week = wom(date)) -> Cal
+
+# Create a category variable, for filling.
+# I can probably make this a case_when(), but this will work.
+
+Cal %>%
+  mutate(category = NA,
+         category = ifelse(semester == 1, "Semester", category),
+         category = ifelse(semester == 1 & wkdy %in% c("Tue", "Thu"), "Class Day", category),
+         category = ifelse(exams == 1, "Exams", category),
+         category = ifelse(is.na(category) | (semester == 1 & not_here == 1), "NA", category)) -> Cal 
+
+Cal %>% 
+  ggplot(.,aes(wkdy, week)) +
+  # custom theme stuff below
+  # theme_steve_web() + 
+  theme_bw() +
+  theme(panel.grid.major.x = element_blank()) +
+  # geom_tile and facet_wrap will do all the heavy lifting
+  geom_tile(alpha=0.8, aes(fill=category), color="black", size=.45) +
+  facet_wrap(~mon, scales="free", ncol=3) +
+  # fill in tiles to make it look more "calendary" (sic)
+  geom_text(aes(label=day)) +
+  # put your y-axis down, flip it, and reverse it
+  scale_y_reverse(breaks=NULL) +
+  # manually fill scale colors to something you like...
+  scale_fill_manual(values=c("Class Day"="steelblue", 
+                             "Semester"="lightsteelblue",
+                             "NA" = "white", # I like these whited out...
+                             "Exams"="indianred4"),
+                    #... but also suppress a label for a non-class semester day
+                    breaks=c("Class Day","Exams")) +
+  labs(fill = "", x="", y="",
+       caption = "Notable dates: SPSA 2021 (7 January), Spring Break (15-19 March)")  -> class_cal
+
+```
+
+# Descrição
+
+O curso cobrirá modelos, bem como métodos de identificação e estimativa usados na econometria moderna. O curso explora alguns dos principais modelos de econometria, suas estruturas bem como métodos de identificação, estimativa e inferência. Os tpicos incluem modelos de regressão linear, infência estatística, variáveis instrumentais, modelos de resposta qualitativa e dados de painel.
+
+# Bibliografia
+
+```{r, echo = FALSE, results="asis", eval=T}
+bib["greene2012econometric"]
+```
+
+## Leitura Complemetar
+
+```{r, echo = FALSE, results="asis", eval=T}
+bib["davidson2004econometric", "cameron2005microeconometrics"]
+```
+
+# Políticas do Curso
+
+Para criar um ambiente de aprendizado eficaz para todos os alunos, por favor, chegue pontualmente às aulas e evite comportamentos que possam ser perturbadores para os colegas. As discussões em sala de aula devem ser respeitosas tanto com os colegas quanto com pontos de vista divergentes.
+
+Os slides das aulas serão disponibilizados na página do curso. Nenhum material do curso deve ser compartilhado com pessoas não registradas no curso.
+
+Freqüência às aulas é extremamente recomendada. Todos os alunos são assumidos estarem cientes de qualquer anúncio feito em sala de aula, mesmo quando os mesmos não estejam presentes.
+
+Prova de segunda chamada será realizada unicamente nos casos previstos no regimento da Universidade. Os alunos deverão seguir os procedimentos descritos no regimento para solicitar segunda chamada. A segunda chamada inclui todo o material do semestre.
+
+Solicitações de revisão de prova devem ser feitas por escrito de acordo com o regimento do PIMES. Toda a prova será reavaliada, isto implica que a nota pode aumentar, cair ou permanecer a mesma.
+
+## Avaliações
+
+-   **80%** da nota será composta por dois exames (não-cumulativos) com pesos iguais.
+
+-   **20%** da nota será composta por listas de exercícios distribuídas ao longo do semestre.
+
+# Programa
+
+```{r calendar, echo=F, eval=F, fig.cap="A Calendar for the Class (My Class Title, Spring 2021)",  warning=F, fig.width=11, fig.height=7}
+
+class_cal
+
+```
+
+1.    O Modelo de Regressão Linear (Capítulo 2)
+
+
+2.    Regressão por Mínimos Quadrados (Capítulos 3, 4, 5 6)
+
+3.    Endogeneidade e Variáveis Instrumentais (Capítulo 8)
+
+4.    Heteroscedasticidade (Capítulo 9)
+
+5.    Modelos de Dados em Painel (Capítulo 11)
+
+6.    Modelos de Resposta Qualitativa (Capítulo 17)
+
+7.    Método dos momentos generalizado (Capítulo 13)
+
+8.    Estimação por Máxima Verossimilhança (Capítulo 14)

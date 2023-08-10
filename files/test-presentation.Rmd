@@ -1,0 +1,50 @@
+---
+title: Introduction
+subtitle: Econometria I
+author: Henrique Veras
+institute: PIMES/UFPE
+#titlegraphic: /Dropbox/teaching/clemson-academic.png
+fontsize: 10pt
+output:
+ beamer_presentation:
+    template: /Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/Lecture notes/svm-latex-beamer.tex
+    keep_tex: true
+    latex_engine: pdflatex # pdflatex also works here
+    #dev: cairo_pdf # I typically comment this out  if latex_engine: pdflatex
+    slide_level: 3
+make149: true
+mainfont: "Open Sans" # Try out some font options if xelatex
+titlefont: "Titillium Web" # Try out some font options if xelatex
+---
+
+
+# Econometrics
+
+## Intro
+
+### Introduction
+
+What conveys the study of econometrics?
+
+The unification of three main areas:
+
+1.    Statistics
+2.    Economic theory
+3.    Mathematics
+
+\`\`Econometrics conveys application of mathematical statistics and the tools of statistical inference to the empirical measurement of relationships postulated by an underlying theory."
+
+### The Big Data Revolution
+
+Into a new paradigm?
+
+
+
+### The practice of econometrics
+
+This course is designed to the user rather than developer!
+
+### Econometric Modeling
+
+Until chapter 2, section 2.2.
+
