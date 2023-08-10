@@ -32,3 +32,25 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/vtm.png" alt="Alt Text" style="border-radius: 50%;">
 
+
+
+* **Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures** [[arXiv]](https://arxiv.org/abs/2012.13188)
+
+A user interface is designed to enable computer cursor control through hand detection and gesture classification. A comprehensive hand dataset comprising 6720 image samples is collected, encompassing four distinct classes: fist, palm, pointing to the left, and pointing to the right. The images were captured from 15 individuals in various settings, including simple backgrounds with different perspectives and lighting conditions. A convolutional neural network (CNN) was trained on this dataset to accurately predict labels for each captured image and measure their similarity. The system incorporates defined commands for cursor movement, left-click, and right-click actions. Experimental results indicate that the proposed algorithm achieves a remarkable accuracy of 91.88% and demonstrates its potential applicability across diverse simple backgrounds.
+
+**Keywords:** Hand Gesture Recognition, Dataset, Convolutional Neural Network, Human-computer Interaction, Classification
+
+<p align="center">
+     Please zoom in the screen for more details.
+</p>
+
+<p align="left">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
+</p>
+
+<p align="left">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20right-click.gif">
+  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
+</p>
+
