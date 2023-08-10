@@ -12,3 +12,23 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 **Keywords:** Human-machine Coding, Scalable Coding, Learning-based Compression 
 
 <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.png" alt="Alt Text" style="border-radius: 50%;">
+
+
+
+* **Rate-Distortion Theory in Coding for Machines and its Applications** [[arXiv]](https://arxiv.org/pdf/2305.17295)
+
+  Recent years have seen a tremendous growth in both the capability and popularity of automatic machine analysis of images and video. As a result, a growing need for efficient compression methods optimized for machine vision, rather than human vision, has emerged. To meet this growing demand, several methods have been developed for image and video coding for machines.  Unfortunately, while there is a substantial body of knowledge regarding rate-distortion theory for human vision, the same cannot be said of machine analysis. In this paper, we extend the current rate-distortion theory for machines, providing insight into important design considerations of machine-vision codecs. We then utilize this newfound understanding to improve several methods for learnable image coding for machines. Our proposed methods achieve state-of-the-art rate-distortion performance on several computer vision tasks such as classification, instance segmentation, and object detection. 
+
+**Keywords:** Rate-Distortion Theory, Collaborative Intelligence, Image Coding, Coding for Machines, Learnable Compression, Compression for Machines, Split Computing
+
+<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/rd_for_machines.png" alt="Alt Text" style="border-radius: 50%;">
+
+
+
+* **VVC+M: Plug and Play Scalable Image Coding for Humans and Machines** [[arXiv]](https://arxiv.org/pdf/2305.10453.pdf)
+  Compression for machines is an emerging field, where inputs are encoded while optimizing the performance of downstream automated analysis. In scalable coding for humans and machines, the compressed representation used for machines is further utilized to enable input reconstruction. Often performed by jointly optimizing the compression scheme for both machine task and human perception, this results in sub-optimal rate-distortion (RD) performance for the machine side. We focus on the case of images, proposing to utilize the pre-existing residual coding capabilities of video codecs such as VVC to create a scalable codec from any image compression for machines (ICM) scheme. Using our approach we improve an existing scalable codec to achieve superior RD performance on the machine task, while remaining competitive for human perception. Moreover, our approach can be trained post-hoc for any given ICM scheme, and without creating a coupling between the quality of the machine analysis and human vision.
+
+**Keywords:** Compression for Machines, Coding for Machines, Image Coding, Scalable Coding, Learned Image Compression
+
+<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/vtm.png" alt="Alt Text" style="border-radius: 50%;">
+
