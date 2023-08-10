@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-Skills
-======
 * Programming Languages
   * Python (PyTorch, TensorFlow, OpenCV)
   * Bash
