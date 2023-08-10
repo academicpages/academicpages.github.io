@@ -11,12 +11,6 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 **Keywords:** Human-machine Coding, Scalable Coding, Learning-based Compression 
 
-<img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="Alt Text" style="border-radius: 50%;">
-
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.jpg" alt="Alt Text" style="border-radius: 50%;">
-
-<img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
-
 
 * **Rate-Distortion Theory in Coding for Machines and its Applications** [[arXiv]](https://arxiv.org/pdf/2305.17295)
 
@@ -24,17 +18,11 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 
 **Keywords:** Rate-Distortion Theory, Collaborative Intelligence, Image Coding, Coding for Machines, Learnable Compression, Compression for Machines, Split Computing
 
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/rd_for_machines.jpg" alt="Alt Text" style="border-radius: 50%;">
-
-
 
 * **VVC+M: Plug and Play Scalable Image Coding for Humans and Machines** [[arXiv]](https://arxiv.org/pdf/2305.10453.pdf)
   Compression for machines is an emerging field, where inputs are encoded while optimizing the performance of downstream automated analysis. In scalable coding for humans and machines, the compressed representation used for machines is further utilized to enable input reconstruction. Often performed by jointly optimizing the compression scheme for both machine task and human perception, this results in sub-optimal rate-distortion (RD) performance for the machine side. We focus on the case of images, proposing to utilize the pre-existing residual coding capabilities of video codecs such as VVC to create a scalable codec from any image compression for machines (ICM) scheme. Using our approach we improve an existing scalable codec to achieve superior RD performance on the machine task, while remaining competitive for human perception. Moreover, our approach can be trained post-hoc for any given ICM scheme, and without creating a coupling between the quality of the machine analysis and human vision.
 
 **Keywords:** Compression for Machines, Coding for Machines, Image Coding, Scalable Coding, Learned Image Compression
-
-<img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/vtm.jpg" alt="Alt Text" style="border-radius: 50%;">
-
 
 
 * **Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures** [[arXiv]](https://arxiv.org/abs/2012.13188)
@@ -42,19 +30,3 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 A user interface is designed to enable computer cursor control through hand detection and gesture classification. A comprehensive hand dataset comprising 6720 image samples is collected, encompassing four distinct classes: fist, palm, pointing to the left, and pointing to the right. The images were captured from 15 individuals in various settings, including simple backgrounds with different perspectives and lighting conditions. A convolutional neural network (CNN) was trained on this dataset to accurately predict labels for each captured image and measure their similarity. The system incorporates defined commands for cursor movement, left-click, and right-click actions. Experimental results indicate that the proposed algorithm achieves a remarkable accuracy of 91.88% and demonstrates its potential applicability across diverse simple backgrounds.
 
 **Keywords:** Hand Gesture Recognition, Dataset, Convolutional Neural Network, Human-computer Interaction, Classification
-
-<p align="center">
-     Please zoom in the screen for more details.
-</p>
-
-<p align="left">
-  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/on%2C%20tracking%20mode.gif">
-  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20click.gif">
-</p>
-
-<p align="left">
-  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20right-click.gif">
-  <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
-</p>
-
-<img src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif" alt="Alt Text">
