@@ -7,8 +7,9 @@ author_profile: true
 
 
 kkkk
+<font color="gray">This text is gray.</font>
 
-* Talent Bursary from [amii](https://www.amii.ca) | <span style="color: gray;">2022.</span>
+* Talent Bursary from [amii](https://www.amii.ca) | <span style="color: gray;">2022</span>
 
 * Ph.D. Admission from University of Tehran | <span style="color:grey;">2020
 
