@@ -14,7 +14,6 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.jpg" alt="Alt Text" style="border-radius: 50%;">
 
 <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
-</a>
 
 
 <div class="publication-item">
