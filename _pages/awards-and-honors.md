@@ -8,9 +8,9 @@ author_profile: true
 
 kkkk
 
-* Talent Bursary from [amii](https://www.amii.ca) | <span style="color:grey;">2023
+* Talent Bursary from [amii](https://www.amii.ca) | <span style="color: gray;">2022.</span>
 
-* Ph.D. Admission from University of Tehran |<span style="color:grey;">2020
+* Ph.D. Admission from University of Tehran | <span style="color:grey;">2020
 
 * Exceptional Talent Recognition by [NODET](http://www.nodet.net) | <span style="color:grey;">2008
 
