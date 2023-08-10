@@ -16,7 +16,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 * [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
 * [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current, coder)
 
-<br/><img src='/images/ISE_picture_4.jpg'>{: width="600" }
+<img src='/images/ISE_picture_4.jpg' alt = "Group Picture" width="300">
 
 ## Related Projects
 * [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
