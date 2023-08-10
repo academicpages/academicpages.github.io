@@ -1,6 +1,6 @@
 ---
 title: "The International Shaming Events (ISE) Data Project"
-excerpt: "<img src='/images/ISE_s22_group_picture.jpg'>"
+excerpt: ""
 collection: portfolio
 ---
 ### Research Goal
