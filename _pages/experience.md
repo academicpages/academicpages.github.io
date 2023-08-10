@@ -46,6 +46,7 @@ PC Member
 
 Journal Reviewer: 
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
+* IEEE Transactions on Knowledge Discovery in Data (TKDD)
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * Data Mining and Knowledge Discovery (DAMI)
 * Neurocomputing
@@ -59,5 +60,6 @@ Student Volunteer: ICML'22, ICHI'23
 
 Talk
 =====
+* Aug, 2023: invited tutorial at [Machine Learning in Finance Workshop](https://sites.google.com/view/kdd-mlf-2023) at KDD 2023.
 * Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar.
 * Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/).
