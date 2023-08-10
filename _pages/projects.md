@@ -12,6 +12,7 @@ A basic premise in scalable human-machine coding is that the base layer is inten
 **Keywords:** Human-machine Coding, Scalable Coding, Learning-based Compression 
 
 <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="Alt Text" style="border-radius: 50%;">
+
 <img src="https://github.com/Youlenda/youlenda.github.io/blob/master/images/base_eff.jpg" alt="Alt Text" style="border-radius: 50%;">
 
 <img src="http://yaksoy.github.io/images/research/realisticEditing.jpg" alt="RealisticEditing" class="publication-image" />
@@ -56,3 +57,4 @@ A user interface is designed to enable computer cursor control through hand dete
   <img width="384" height="216" src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif">
 </p>
 
+<img src="https://github.com/Youlenda/Mouse/blob/master/videos/tracking%20mode%2C%20off.gif" alt="Alt Text">
