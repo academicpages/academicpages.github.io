@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Econometrics 1"
+title: "Econometria I (PIMES/UFPE)"
 permalink: /_pages/econometrics/
 author_profile: true
 redirect_from: 
