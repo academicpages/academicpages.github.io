@@ -180,10 +180,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  econometrics:
-    output: false
-    permalink: /:collection/:path/teaching
-
 
 
 # Defaults
