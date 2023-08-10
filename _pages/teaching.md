@@ -11,7 +11,7 @@ author_profile: true
     - <sub>2023.2 [Syllabus](http://henriqueveras.github.io/files/Econometrics/Syllabus/Ementa.pdf) [Webpage](http://henriqueveras.github.io/econometrics)
 
 
-> Macroeconomic Theory 2   
+> Macroeconomic Theory 2
     - <sub>2023.1
     
 > Topics in Development Economics   
