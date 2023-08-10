@@ -29,9 +29,9 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
-
 [August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">KDD 2023 Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA.
+
+[August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
 [June 2023] Will be attending <a href="https://2023.ieeeicassp.org/" target="_blank">ICASSP 2023</a> to present our paper <a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">Towards Diverse and Coherent Augmentation for Time-Series Forecasting</a>. Come and say hi!
 
