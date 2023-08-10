@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-* **Talent Bursary from [amii](https://www.amii.ca)**
+* **Talent Bursary from [amii](https://www.amii.ca)** || 2022
   
 * **Ph.D. Admission from University of Tehran** | 2020
   
