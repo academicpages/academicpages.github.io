@@ -25,9 +25,6 @@ author_profile: true
 * **B.Sc. in Electrical Engineering (Control)** at Amirkabir University of Technology | <span style="color:grey;">2012 - 2017</span>\
   Thesis: Driver’s Consciousness Level Analysis Using EEG Signals
   
-* **High School Diploma in Mathematics** at National Organization for Development of Exceptional Talents | <span style="color:grey;">2008 - 2012</span>\
-* <span style="color:grey;">2012 - 2008</span>
-  
 * **Online Courses** at Coursera:
   * Neural Networks and Deep Learning [[Certificate]](https://www.coursera.org/account/accomplishments/verify/RFAWW2FJK9ZC)
   * Improving Deep Neural Networks [[Certificate]](https://www.coursera.org/account/accomplishments/verify/CWEXLEEAWHTH)
