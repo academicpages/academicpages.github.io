@@ -43,7 +43,8 @@ I am interested in designing mechanisms for identifying patterns and novelties i
 ## Education
 - **Ph.D. in Computer Science**
   - Purdue University, July 2023 <!--(expected)-->
-  - Advisor: Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/)
+  - Advisor: Professor [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/)
+  - Thesis: **Multimodal Data Management in Open-world Environment [[Link]](/files/publications/final-thesis-KMA-Solaiman-Jul-26-2023.pdf)**
 - **M.Sc. in Computer Science**
   - Purdue University, Dec 2022
 - **B.Sc. in Computer Science and Engineering (Artifical Intelligence)**
