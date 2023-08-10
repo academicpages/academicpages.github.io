@@ -6,16 +6,15 @@ author_profile: true
 ---
 
 
-
-* **Talent Bursary** from [amii](https://www.amii.ca) | <span style="color:grey;">2021 - 2025 (expected)</span>\
+* **Talent Bursary** from [amii](https://www.amii.ca)| <span style="color:grey;">2022</span>
   
-* **Ph.D. Admission from University of Tehran** | 2020
+* **Ph.D. Admission** from University of Tehran, <span style="color:grey;">2020</span>
   
-* **Exceptional Talent Recognition by [NODET](http://www.nodet.net)** | 2008
+* **Exceptional Talent Recognition** by [NODET](http://www.nodet.net), <span style="color:grey;">2008</span>
   
-* **2nd Place in Iran Mathematics Olympiad PAYA** | 2008
+* **2nd Place in Iran Mathematics Olympiad PAYA**, <span style="color:grey;">2008</span>
   
-* **1st Place in Abadan Mathematics Olympiad** | 2006
+* **1st Place in Abadan Mathematics Olympiad**, <span style="color:grey;">2006</span>
   
-* **Exceptional Talent Recognition by [NODET](http://www.nodet.net)** | 2005
+* **Exceptional Talent Recognition** by [NODET](http://www.nodet.net), <span style="color:grey;">2005</span>
 
