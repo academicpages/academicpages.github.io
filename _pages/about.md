@@ -384,17 +384,24 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <b>PrimeNet: Pre-training for Irregular Multivariate Time-Series</b>
   <br><b>Ranak Roy Chowdhury</b>, Jiacheng Li, Xiyuan Zhang, Dezhi Hong, Rajesh Gupta, Jingbo Shang
   <br>AAAI Conference on Artificial Intelligence (<b>AAAI</b>), 2023. [Travel Grant]
-  <br><a href="https://drive.google.com/file/d/1FSy9F_qO-eaNhKYWbCwpBCogC1ZNo8nd/view?usp=sharing" target="_blank">paper</a> | 
+  <br><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">paper</a> | 
   <a href="https://github.com/ranakroychowdhury/PrimeNet" target="_blank">code</a> | 
   <a href="https://drive.google.com/file/d/1zfo4bVPOAfDXrehizr9-oLbRhd07qw2B/view?usp=sharing" target="_blank">poster</a> |         
   <a href="https://drive.google.com/file/d/1ezXyus8dTLYwrlvBxOuMshPa27Zn63kn/view?usp=sharing" target="_blank">presentation</a>	  
+  </p>
+
+  <p>
+  <b>Unleashing the Power of Shared Label Structures for Human Activity Recognition</b>
+  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
+  <br>Conference on Information and Knowledge Management (<b>CIKM</b>), 2023.
+  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">preprint</a>
   </p>
   
   <p>
   <b>Towards Diverse and Coherent Augmentation for Time-Series Forecasting</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Jingbo Shang, Rajesh Gupta, Dezhi Hong
   <br>International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2023.
-  <br><a href="https://drive.google.com/file/d/1ajK8JvE9WoyWriN-rorjqFyAvqUoW4fg/view?usp=sharing" target="_blank">paper</a> 
+  <br><a href="https://arxiv.org/pdf/2303.14254.pdf" target="_blank">paper</a> 
   </p>
 	
   <p>
@@ -442,12 +449,6 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <br><a href="https://ieeexplore.ieee.org/document/8731514" target="_blank">paper</a> | 
   <a href="https://drive.google.com/file/d/1ZQQJShafy8qpFDXrQLBY6ZYQwKFDjG_M/view?usp=sharing" target="_blank">poster</a> |        
   <a href="https://drive.google.com/file/d/1gOqrRIKggmPr0Uz3UTrXs9j_3KQhE5QA/view?usp=sharing" target="_blank">presentation</a>
-  </p>
-  
-  <p>
-  <b>Modeling Label Semantics Improves Activity Recognition</b>
-  <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
-  <br><a href="https://arxiv.org/abs/2301.03462" target="_blank">preprint</a>
   </p>
   
   <p>
