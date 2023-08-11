@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-05-04-journal-number-2
 excerpt: 'Explicit topology optimization for complex shell structures'
 date: 2022-05-04
-paperurl: 'http://wendong-huo.github.io/files/paper2.pdf'
+paperurl: 'http://wendong-huo.github.io/files/paper-2.pdf'
 venue: 'ASME J. Appl. Mech.'
 
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-02-01-journal-number-3
 excerpt: 'Enhancing stiffness of complex thin-walled structures via optimizing the layout of the ribs'
 date: 2023-02-01
-paperurl: 'http://wendong-huo.github.io/files/paper3.pdf'
+paperurl: 'http://wendong-huo.github.io/files/paper-3.pdf'
 venue: 'Comput. Methods Appl. Mech. Eng.'
 
 ---

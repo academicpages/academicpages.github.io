@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-06-12-journal-number-4
 excerpt: 'Embedded solid components'
 date: 2023-06-12
-paperurl: 'http://wendong-huo.github.io/files/paper4.pdf'
+paperurl: 'http://wendong-huo.github.io/files/paper-4.pdf'
 venue: 'Submitted to CMAME'
 
 ---

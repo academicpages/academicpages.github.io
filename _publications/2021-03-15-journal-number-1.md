@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-03-15-journal-number-1
 excerpt: 'Solving transient heat conduction problems with heat sources via IG-DRBEM'
 date: 2021-03-15
-paperurl: 'http://wendong-huo.github.io/files/paper1.pdf'
+paperurl: 'http://wendong-huo.github.io/files/paper-1.pdf'
 venue: 'J. Comput. Appl. Math.'
 
 ---
