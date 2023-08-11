@@ -16,7 +16,7 @@ Email: zhanghr[at]sustech[dot]edu[dot]cn
 
 ## Educations
 - Sep. 2016 - Jul. 2021,  Ph.D. in *Statistics*  
-[Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University \\
+[Shanghai Center for Mathematical Sciences](https://scms.fudan.edu.cn/), Fudan University  
 Advisor: Prof. [Zhiliang Ying](http://www.stat.columbia.edu/~zying/)
 - Aug. 2017 - Aug. 2019,  Joint Ph.D in *Statistics*  
 [Department of Statistics](http://stat.columbia.edu/), Columbia University  
@@ -25,9 +25,9 @@ Advisor: Prof. [Zhiliang Ying](http://www.stat.columbia.edu/~zying/)
 
 ## Work Experiences
 - Aug. 2022 - Aug. 2023, Postdoctoral Fellow   
-[Department of Statistics](https://www.sta.cuhk.edu.hk/), The Chinese University of Hong Kong \\
+[Department of Statistics](https://www.sta.cuhk.edu.hk/), The Chinese University of Hong Kong  
 Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
-- Aug. 2021 - Jul. 2022,  Postdoctoral Fellow  
+- Aug. 2021 - Jul. 2022,  Postdoctoral Fellow    
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), City University of Hong Kong
 
 ## Research Interests
