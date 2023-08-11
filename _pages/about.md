@@ -29,7 +29,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>KDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA.
+[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA.
 
 [August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
@@ -79,6 +79,24 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <div id="work_experience">
 <h1>Work Experience</h1>
+
+<div>
+<p style="font-size:20px;"><b>Applied Scientist II Intern</b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <em>Jun 2023 - Sep 2023</em></p>
+
+<div class="archive__proj__row">
+  <div class="archive__proj__right">
+    <p>
+    <b>Music Understanding through LLMs</b>
+    <br>Crafting an LLM-enabled music understanding framework to solve music tasks, like captioning, retrieval, tagging, and classification in a text-to-text fashion. We take music and task prompts as input and generate text output.
+    </p>
+  </div>
+  <div class="archive__proj__left">
+     <div>
+        <img src="https://ranakroychowdhury.github.io/images/aws.jpg"> 
+    </div>
+  </div>
+</div>
+</div>
 
 
 <div>
