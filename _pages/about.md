@@ -29,7 +29,7 @@ My projects focus on self-supervised learning to build data-efficient and robust
 
 <h1>Latest News</h1>
 
-[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA.
+[August 2023] Gave an <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">invited talk</a> on <a href="https://ojs.aaai.org/index.php/AAAI/article/view/25876" target="_blank">PrimeNet: Pre-Training for Irregular Multivariate Time Series</a> at <b>SIGKDD</b> '23 <a href="https://sites.google.com/view/kdd-mlf-2023/home?authuser=0" target="_blank">Workshop on Machine Learning in Finance</a>, Long Beach, CA, USA. 
 
 [August 2023] <a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">Unleashing the Power of Shared Label Structures for Human Activity Recognition</a> has been accepted to <b>CIKM</b> '23.
 
@@ -394,7 +394,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
   <b>Unleashing the Power of Shared Label Structures for Human Activity Recognition</b>
   <br>Xiyuan Zhang, <b>Ranak Roy Chowdhury</b>, Dezhi Hong, Rajesh K. Gupta, Jingbo Shang
   <br>Conference on Information and Knowledge Management (<b>CIKM</b>), 2023.
-  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">preprint</a>
+  <br><a href="https://arxiv.org/pdf/2301.03462.pdf" target="_blank">paper</a>
   </p>
   
   <p>
@@ -504,6 +504,11 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
+    <li>Invited Keynote Speaker at <b>SIGKDD</b> '23 Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slides</a>]</li>
+	   
+	   
+    [workshop: ] [speakers: ] [slides: https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing]
+	   
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning in IoT Devices". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a>]</li>
   
    <li>Recipient of Travel Award: <b>AAAI 2023, KDD 2022</b></li>
