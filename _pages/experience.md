@@ -40,7 +40,7 @@ Conference Reviewer:
 
 Senior PC Member: CIKM'23 (demo track)
 
-PC Member
+PC Member:
 * NeurIPS: 22-23
 * ICML: 22-23
 * KDD: 23
