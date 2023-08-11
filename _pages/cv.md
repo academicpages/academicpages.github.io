@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<i> Curriculum Vitae <i> 🌱 <a href='/files/cv-SCandido.pdf'>Full Version PDF</a>"
+title: "<i> Curriculum Vitae <i>  <br> 🌱 <a href='/files/cv-SCandido.pdf'>Full Version PDF</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
 
 <br>
 
