@@ -41,7 +41,15 @@ Conference Reviewer:
 Senior PC Member: CIKM'23 (demo track)
 
 PC Member
-* NeurIPS'22-23, ICML’22-23, IJCAI'23, LOG'22, WACV'23-24, AAAI'23, SDM'23, KDD'23
+* NeurIPS: 22-23
+* ICML: 22-23
+* KDD: 23
+* LOG: 22-23
+* AAAI: 23-24
+* IJCAI: 23
+* WACV: 23-24
+* CIKM: 23
+* SDM: 23
 * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
 
 Journal Reviewer: 
