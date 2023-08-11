@@ -135,7 +135,7 @@ Under review, 2022 -->
 <b>[Algorithmic Fairness in Finance: Problems, Methods and Benchmarks](https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0)
 </b><br><b>Zhimeng Jiang</b>, Xiaotian Han, Chia-Yuan Chang, Na Zou, and Xia Hu. <br> Machine Learning in Finance Workshop in ACM SIGKDD Conference on Knowledge Discovery and Data Mining(KDD2023@MLF).
 
-[[Website]](https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0) [[Slides]](http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf) [[Code]]()
+[[Website]](https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0) [[Slides]](http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf) [[Code]](http://zhimengj0326.github.io/files/fairness_case_study.ipynb)
 
 ## Patent
 
