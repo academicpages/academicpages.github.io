@@ -504,7 +504,7 @@ For latest publications, please visit <u><a href="https://scholar.google.com/cit
 <div>
   <p>
    <ul>
-    <li>Invited Keynote Speaker at <b>SIGKDD</b> 2023 Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slides</a>]</li>
+    <li>Invited Keynote Speaker at <b>SIGKDD 2023</b> Workshop on Machine Learning in Finance, Long Beach, CA, USA. [<a href="https://sites.google.com/view/kdd-mlf-2023" target="_blank">workshop</a> | <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0" target="_blank">speakers</a> | <a href="https://drive.google.com/file/d/1JkE2shJFu4LA6UfEqgnnPCMJnhQ2v45k/view?usp=sharing" target="_blank">slides</a>]</li>
 	   
     <li><b>Qualcomm Innovation Fellowship 2022</b> for our proposal on "Robust Machine Learning in IoT Devices". <em>One of the 19 winners among 132 participants across North America</em>. [<a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america" target="_blank">News</a>]</li>
   
