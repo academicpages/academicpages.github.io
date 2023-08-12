@@ -1,5 +1,5 @@
 ---
-title: "Coarse-grained simulation of lithium dendrite suppression by flowable polymer coating"
+title: "Ion solvation effects in polymer electrolyte: ionic conductivity and lithium deposition"
 collection: talks
 permalink: /talks/2023-07-14-Ion-solvation-CNNEM
 date: 2023-07-14
