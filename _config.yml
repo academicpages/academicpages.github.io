@@ -84,10 +84,11 @@ author:
   avatar           : "bio-photo.jpeg"
   bio              : "Economics and Machine Learning Researcher"
   location         : "Brooklyn, NYC"
+  email            : "rndonnelly@gmail.com"
   employer         : "https://arena-ai.com"
+  github           : "rodonn"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EdFy2nwAAAAJ"
-  email            :
   researchgate     :  "https://www.researchgate.net/profile/Robert-Donnelly-4"
   uri              :
   bitbucket        :
@@ -96,7 +97,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rodonn"
   google_plus      :
   keybase          : "https://keybase.io/rodonn"
   instagram        :
