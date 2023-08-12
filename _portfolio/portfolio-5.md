@@ -3,7 +3,7 @@ title: "A novel explicit design method for complex thin-walled structures based 
 excerpt: "Embedded solid components"
 img:
 collection: portfolio
-date: 2023-06-12
+<!-- date: 2023-06-12  -->
 ---
 
 We develop 123. A brief report is [here]().
