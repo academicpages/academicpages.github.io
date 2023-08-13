@@ -1,15 +1,15 @@
 ---
 permalink: /
 title: "Home"
-excerpt: "Home"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /home/
-  - /home.html
+  - /about/
+  - /about.html
 ---
 ## Hello 👋🏽, I am Marwah Alaofi (مروة العوفي)
 
-I am an academic at Taibah University and I am currently pursuing my PhD in user-centered information retrieval at RMIT University. I am honored to work under the supervision of [Professor Mark Sanderson](http://marksanderson.org/), [Professor Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and  [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more [about me](https://marwahalaofi.com/about).
+I am an academic at Taibah University and I am currently pursuing my PhD in user-centered information retrieval at RMIT University. I am honored to work under the supervision of [Professor Mark Sanderson](http://marksanderson.org/), [Professor Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and  [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft. I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more [about me](https://marwahalaofi.com/about-me).
 
 
 <!-- A data-driven personal website
