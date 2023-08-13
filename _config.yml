@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Habiba Farrukh"
 title_separator          : "-"
 name                     : &name "Habiba Farrukh"
-description              : &description "Phd Candidate @ Purdue University"
+description              : &description "Incoming Asst. Professor @ UC Irvine"
 url                      : https://habiba-farrukh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "habiba-farrukh.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Habiba Farrukh"
-  avatar           : "profile2.jpeg"
-  bio              : "PhD Candidate @ Purdue University"
-  location         : "West Lafayette, IN, USA"
+  avatar           : "headshot.jpg"
+  bio              : "Incoming Asst. Professor @ UC Irvine"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oSEtOA4AAAAJ&hl=en"
