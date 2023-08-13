@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in International Economics & Business (cum laude), Radboud University, 2016
-* M.S. in Financial Economics (cum laude), Radboud University, 2017
+* B.Sc. in International Economics & Business (cum laude), Radboud University, 2016
+* M.Sc. in Financial Economics (cum laude), Radboud University, 2017
 * Ph.D in Behavioral and Experimental Finance, Radboud University, 2024 (expected)
 
 Work experience
