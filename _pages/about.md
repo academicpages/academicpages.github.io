@@ -3,10 +3,8 @@ permalink: /about/
 title: "About"
 excerpt: "About"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
+
 My name is **Marwah Khaled Alaofi** [[mahr-wah](https://www.nameshouts.com/names/arabic/pronounce-marwah)] and I am from [Medina](https://www.youtube.com/watch?v=FsCEMJ5jffM), a peaceful city in the west part of Saudi Arabia (AKA Al-Hijaz). It is one of the three holiest cities in Islam and is visited by millions from all over the world. As Saudis, we are proud of our dates and Medina is famous for good quality dates and it is full of dates farms — you can experience visiting some within the city! The city is quiet and peaceful and has been acknowledged by WHO as among the healthiest in the world! I collect some beautiful photos for the city, you may want to check a small [photo gallery](https://www.notion.so/6c4ba55ee48346f9bea4e395946d8908?pvs=21) I created for it.
 
 I have been working in the academic world since I graduated from my bachelor degree in Computer Science from Taibah University. I teach, advise and research as part of my academic role at Taibah University. I obtained my masters from Monash University in 2014 and returned to work as a lecturer in the department of Computer Science at Taibah University. I recently started my PhD in Computer Science at RMIT University in Melbourne, Australia. Read more about [my research](https://www.notion.so/Research-47ee1af8fa81405996257120a2a10309?pvs=21). 
