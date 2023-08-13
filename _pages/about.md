@@ -83,6 +83,4 @@ Working Experience
  
  
  
- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=iELi_Mj4-V4VIhGVw-67Bcp7_5aSirIUMRdgrGI6cT0&cl=ffffff&w=a"></script>
- 
 
