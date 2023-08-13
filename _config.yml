@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Markus Strucks"
 title_separator          : "-"
 name                     : &name "Markus Strucks"
-description              : &description "personal description"
+description              : &description "Personal Website"
 url                      : https://markusstrucks.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarkusStrucks/markusstrucks.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter MarkusStrucks
 facebook:
   username               :
   app_id                 :
@@ -85,10 +85,10 @@ author:
   bio              : "PhD Candidate in Experimental Finance"
   location         : "Nijmegen, NL"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=FNKim3EAAAAJ"
+  email            : "markus.strucks@gmail.com"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "MarkusStrucks"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://linkedin.com/in/markus-strucks-6b519a125"
+  orcid            : "https://orcid.org/0000-0001-5263-6543"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MarkusStrucks"
   vine             :
   weibo            :
   xing             :
