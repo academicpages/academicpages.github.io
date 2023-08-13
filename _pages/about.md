@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello 👋🏽, I am Marwah Alaofi (مروة العوفي)"
+title: "About"
 excerpt: "About"
 author_profile: true
 redirect_from: 
