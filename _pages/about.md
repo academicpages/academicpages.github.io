@@ -7,15 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Hello 👋🏽, I am Marwah Alaofi (مروة العوفي)
+My name is **Marwah Khaled Alaofi** [[mahr-wah](https://www.nameshouts.com/names/arabic/pronounce-marwah)] and I am from [Medina](https://www.youtube.com/watch?v=FsCEMJ5jffM), a peaceful city in the west part of Saudi Arabia (AKA Al-Hijaz). It is one of the three holiest cities in Islam and is visited by millions from all over the world. As Saudis, we are proud of our dates and Medina is famous for good quality dates and it is full of dates farms — you can experience visiting some within the city! The city is quiet and peaceful and has been acknowledged by WHO as among the healthiest in the world! I collect some beautiful photos for the city, you may want to check a small [photo gallery](https://www.notion.so/6c4ba55ee48346f9bea4e395946d8908?pvs=21) I created for it.
 
-I am an academic at Taibah University and I am currently pursuing my PhD in user-centered information retrieval at RMIT University.
-I am honored to work under the supervision of [Professor Mark Sanderson](http://marksanderson.org/), 
-[Professor Falk Scholer](https://sites.google.com/view/fscholer/) from RMIT and  [Paul Thomas](https://www.microsoft.com/en-us/research/people/pathom/) from Microsoft.
-I am always fascinated by search engines and I am investigating ways to satisfy inquisitive minds beyond the use of search engine result pages (SERPs). Read more [about me](https://marwahalaofi.com/about).
+I have been working in the academic world since I graduated from my bachelor degree in Computer Science from Taibah University. I teach, advise and research as part of my academic role at Taibah University. I obtained my masters from Monash University in 2014 and returned to work as a lecturer in the department of Computer Science at Taibah University. I recently started my PhD in Computer Science at RMIT University in Melbourne, Australia. Read more about [my research](https://www.notion.so/Research-47ee1af8fa81405996257120a2a10309?pvs=21). 
 
-
-<!-- A data-driven personal website
+Outside the academic world, I love painting — portraits using watercolors in particular. I share some of my work [here](https://www.instagram.com/marwah.k.a/). I am always seeking life-work balance and I strive to maintain a healthy life style. Covid-19 got me into indoor gardening and I currently own a beautiful Monstera deliciosa and a few fast-growing pothos ☘️. I like traveling and exploring, and I enjoy experiencing cultures and learning about different world civilizations.<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
