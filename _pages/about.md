@@ -8,12 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate of computer science at Purdue University working under the supervision of [Dr. Z. Berkay Celik](https://beerkay.github.io/). My research interests broadly lie in the area of mobile computing and mobile security.
-I specifically focus on designing and building innovative and secure mobile sensing systems through applying security, machine learning and computer vision algorithms. 
+<b> Beginning in October 2023, I will join the <span style="color: blue;">Department of Computer Science</span> at the <span style="color: blue;">University of California, Irvine</span>. Please reach out to me if you are interested in working together!</b>
+
+My research interests broadly lie in the area of mobile computing and mobile security. Mobile systems, such as smartphones, wearables (e.g., smartwatches, AR/VR headsets), and IoT devices, have come a long way from being just a method of communication to sophisticated sensing devices that monitor and control several aspects of our lives. While these devices’ advanced computing and sensing capabilities enable several valuable applications, they also make them attractive targets for attackers, opening doors to several threats to users’ security and privacy. My research combines system design, signal processing, computer vision, and machine learning methods to investigate these threats and then proposes methods for securing modern mobile and IoT devices and protecting users’ privacy. I envision developing practical solutions to the security limitations of existing systems and emerging computing platforms. My goal is to investigate the impact of these limitations on developers and end users and propose secure systems that address the challenges of these new platforms.
+
+I received my Ph.D. in Computer Science from Purdue University, where I was advised by [Dr. Z. Berkay Celik](https://beerkay.github.io/) and was a part of the [PurSec Lab](https://pursec.cs.purdue.edu/). My dissertation focused on leveraging multimodal sensing to improve the security and privacy of mobile and IoT systems.
+
 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
 
-<span style="color:red">**I will be joining the University of California, Irvine, as an Assistant Professor in Fall 2023.**</span>
+
 
 
 
@@ -21,8 +25,8 @@ Updates
 =======
 <ul>
 	<li> <b>[May 2023]</b> Our paper on location inference from spatial maps on AR/VR devices will appear in Usenix Security 2023! </li>
-	<li> <b>[Feb 2023]</b> Our short paper on secure group pairing of drone swarms is accepted to VehicleSec Symposium (co-located with NDSS 2023)!
-	</li>
+	<!-- <li> <b>[Feb 2023]</b> Our short paper on secure group pairing of drone swarms is accepted to VehicleSec Symposium (co-located with NDSS 2023)!
+	</li> -->
 	<li> <b>[Nov 2022]</b> Our work on secure group pairing of heterogeneous IoT devices is accepted to IEEE S&P 2023!
 	</li>
 	<li> <b>[Oct 2022]</b> Our paper about evasion attacks on physical event verification systems to appear in NDSS 2023!
@@ -181,6 +185,9 @@ Professional Activity
 			<li>
 				IEEE INFOCOM, 2024
 			</li>
+			<li>
+				ACM Workshop on CPS & IoT Security and Privacy (co-located with CCS), 2023
+			</li>	
 			<li>
 				USENIX Security Symposium, 2023
 			</li>
