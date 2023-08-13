@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in International Economics & Business (cum laude), Radboud University, 2016
+* M.S. in Financial Economics (cum laude), Radboud University, 2017
+* Ph.D in Behavioral and Experimental Finance, Radboud University, 2024 (expected)
 
 Work experience
 ======
