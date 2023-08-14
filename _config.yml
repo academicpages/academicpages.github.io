@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Resume"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Saket Pradhan"
 description              : &description "personal description"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Saket Pradhan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Robotics @UMich"
   location         : "Ann Arbor, MI"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "saketp@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
