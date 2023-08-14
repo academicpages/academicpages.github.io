@@ -46,4 +46,4 @@ P3: 19/12/2023 (FÍSICA), 14/12/2023 (MATEMÁTICA)
 Listas de Exercícios 
 ======
 
-
+{Lista 01}[D:\GitHub\mbortoloti.github.io\files\linearalgebra\lista01.pdf]
