@@ -5,7 +5,7 @@ excerpt: "About me"
 author_profile: true
 
 ---
-# Coursework
+## Coursework
 ### Statistics/Data Science
 - [Data 140: Probability for Data Science]()
 - [Stat 135: Concepts of Statistics]()
@@ -37,7 +37,7 @@ author_profile: true
 - [_Math 104: Real Analysis*_]()
 
 (* courses not yet completed, but will be completed by May 2024)
-# Teaching
+## Teaching
 ## University of California Berkeley 
 ### Summer 2023
 - Data 8: Foundations of Data Science (Lead GSI)
