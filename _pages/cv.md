@@ -33,6 +33,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Working Papers and Work-In-Progress
+======
+
   
 Teaching
 ======
@@ -42,6 +45,6 @@ Teaching
   
 Service
 ======
-# * Social Media Manager at the Society for Experimental Finance
+<!--- * Social Media Manager at the Society for Experimental Finance --->
 * Reviewer for the Journal of Behavioral and Experimental Finance
 * Former board member of the PhD Organization Nijmegen
