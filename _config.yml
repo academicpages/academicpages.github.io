@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Duc-Khanh To, Ph.D"
+  name             : "Duc-Khanh To"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D of Statistics"
   location         : "Vietnam"
-  employer         :
+  employer         : Lecturer at Department of Probability and Statistics, Faculty of Mathematics and Computer Science, Ho Chi Minh University of Science "https://math.hcmus.edu.vn/en/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=iVs_vmIAAAAJ&hl=en"
   email            :
