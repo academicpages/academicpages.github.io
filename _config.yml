@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yunqing LIU"
 title_separator          : "-"
-name                     : "Yunqing LIU (刘云清)"
+name                     : &name "Yunqing LIU (刘云清)"
 description              : &description "PhD student in PolyU"
 url                      : https://LiuYunqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunqing LIU"
+  name             : "Yunqing LIU (刘云清)"
   avatar           : "profile.jpg"
   bio              : "PhD student in PolyU"
   location         : "Hong Kong, China"
