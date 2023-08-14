@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a master's student at the University of Michigan - Ann Arbor. My focus lies on deep learning and computer vision with a particular interest in vision-based mobility systems. My research directions include semi-supervised, domain-adaptive, self-supervised, multi-task, and active learning for dense prediction tasks such as semantic segmentation and monocular depth estimation. In the past, I worked as a Software Engineer at [invideo](https://invideo.io).
+I'm Saket Pradhan, a software developer, chess player, and robotics enthusiast. I build applications on computer vision and real-time ML. I'm a master's student at the University of Michigan-Ann Arbor for my master's degree in Robotics starting in the fall of '23. 
+
+I've recently worked at [invideo](https://invideo.io) (an online video creation platform), leveraging AI to help users create professional videos for marketing, promotions, and more. Previously, I interned with the [JSW Group](https://www.jsw.in/), and [Nucsoft](https://www.nucsoft.com/). 
+
+During my free time, I like to travel, play chess, and study linguistics/language history. I'm an avid Formula Racing fan and was involved in Formula Student EV projects during my undergrad days. 
 
 A data-driven personal website
 ======
