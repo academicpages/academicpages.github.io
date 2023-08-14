@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Duc-Khanh To"
   avatar           : "profile.jpg"
-  bio              : "Ph.D in Statistics \\ Lecturer at Department of Probability and Statistics, Faculty of Mathematics and Computer Science, Ho Chi Minh University of Science https://math.hcmus.edu.vn/en/"
+  bio              : "Ph.D in Statistics"
+  bio 		   : "Lecturer at Department of Probability and Statistics, Faculty of Mathematics and Computer Science, Ho Chi Minh University of Science https://math.hcmus.edu.vn/en/"
   location         : "Ho Chi Minh city, Vietnam"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
