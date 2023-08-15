@@ -124,7 +124,15 @@
       </div>
 
       <div style="width: 150px;">
-        <script type="text/javascript" src="../components/main.js"></script>
+        <script type="text/javascript" src="./main.js">
+          import VoxelDogLoader from './voxel-dog-loader';
+
+          const LazyVoxelDog = dynamic(() => import('./voxel-dog'), {
+                ssr: false,
+                loading: () => <VoxelDogLoader />
+                });
+          <LazyVoxelDog />;
+        </script>
       </div>
       
     </ul>
