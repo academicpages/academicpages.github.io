@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://drive.google.com/drive/folders/1LjCMnsxr59WbYa2OeGQfwg0kMwtDYRsL)
+[Download CV](https://drive.google.com/file/d/1776L58Iz58RC0eNaQkvMIO8yRKn6lrF5/view)
 
 Academic Positions
 ======
