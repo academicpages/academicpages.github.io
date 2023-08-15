@@ -10,7 +10,7 @@ author: PIMES/UFPE
 date: "2023.2"
 
 email: "henrique.fonseca@ufpe.br"
-web: "henriqueveras.github.io/econometrics/"
+web: "henriqueveras.github.io/econometrics"
 officehours: "agendamento por email"
 office: "\\shrug"
 classroom: "Sala C-6"
