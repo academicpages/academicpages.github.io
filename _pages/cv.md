@@ -19,7 +19,7 @@ Education
 Employment
 ======
 
-* 2023 (Aug)- Present: Senior Researcher, Earth Sciences. Prayoga Institute of Education and Research, Bengaluru
+* 2023 (Aug)- Present: Senior Researcher, Earth Sciences. Prayoga Institute of Education and Research, Bengaluru [Link](https://www.prayoga.org.in/)
 * 2023 (July)- 2023 (Aug): Assistant Professor (Non-Tenured), Geology, Sri Dev Suman Uttarakhand University, Pt. L.M.S Campus Rishikesh
 * 2021-2022: Post Doctoral Fellow,  Earth Sciences, Indian Institute of Technology, Bombay
 * 2020-2021: Research Associate,  Earth Sciences, Indian Institute of Technology, Bombay
