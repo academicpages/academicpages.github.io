@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](https://drive.google.com/drive/folders/1LjCMnsxr59WbYa2OeGQfwg0kMwtDYRsL)
+
 Academic Positions
 ======
 * June 2023: Visiting Scholar at University of Innsbruck (AT)
