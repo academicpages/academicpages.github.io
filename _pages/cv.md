@@ -24,9 +24,9 @@ redirect_from:
   * Duties included:
       + Assist with hardware building
       + Conducting experiments
-      + Troubleshooting on both hard-and-software side
+      + Troubleshooting on both the hardware and software side
       + Learning about *Reinforcement Learning Techniques*
-      + 
+      + _to be continued_
   * Supervisor: Professor Xiaolong Wang
  
 * Spring 2022 - Summer 2023: Part-Time Research Assistant
