@@ -6,14 +6,14 @@ output:
 geometry: margin=1in
 
 title: "Econometria I"
-author: Henrique Veras
+author: PIMES/UFPE
 date: "2023.2"
 
 email: "henrique.fonseca@ufpe.br"
-web: "henriqueveras.github.io"
+web: "henriqueveras.github.io/econometrics/"
 officehours: "agendamento por email"
 office: "\\shrug"
-classroom: "\\shrug"
+classroom: "Sala C-6"
 classhours: "Ter-Qui (14:00 - 16:00)"
 
 fontfamily: mathpazo

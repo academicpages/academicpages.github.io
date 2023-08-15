@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  10 AUG 2023 16:21
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  14 AUG 2023 14:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,9 +689,6 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
 Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
-Missing character: There is no ; in font nullfont!
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ppl/b/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
@@ -721,7 +718,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
 Here is how much of TeX's memory you used:
  19628 strings out of 493591
  350865 string characters out of 6143546
- 395065 words of memory out of 5000000
+ 394057 words of memory out of 5000000
  22737 multiletter control sequences out of 15000+600000
  25983 words of font info for 59 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191

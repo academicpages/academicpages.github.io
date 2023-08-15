@@ -24,27 +24,58 @@ titlefont: "Titillium Web" # Try out some font options if xelatex
 
 ### Introduction
 
-What conveys the study of econometrics?
+ - What conveys the study of econometrics?
 
-The unification of three main areas:
+ - The unification of three main areas:
 
-1.    Statistics
-2.    Economic theory
-3.    Mathematics
+    1.    Statistics
+    2.    Economic theory
+    3.    Mathematics
 
 \`\`Econometrics conveys application of mathematical statistics and the tools of statistical inference to the empirical measurement of relationships postulated by an underlying theory."
 
-### The Big Data Revolution
+### The Big Data Revolution: Into a new paradigm?
 
-Into a new paradigm?
+Traditional econometrics: Measuring and testing theoretical relationships
 
+
+
+Can Big Data replace theory?
 
 
 ### The practice of econometrics
 
-This course is designed to the user rather than developer!
+- Theoretical econometrics vs. applied econometrics
+
+
+
+- This course is designed for the applied economist. 
+
+
+
+- Applied econometric methods will be used for estimation of important quantities, analysis of economic outcomes such as policy changes, markets or individual behavior, testing theories, and for forecasting.
 
 ### Econometric Modeling
 
-Until chapter 2, section 2.2.
+- Consider the Keynesian consumption function:
 
+  $C=f(X)$, where $X$ is disposable income.
+  
+- Theoretical postulates: $dC/dX$ is positive and $0<dC/dX<1$.
+
+- Implications:
+  1. $MPC>0$
+  2. $APC=C/X$ falls with income
+  3. $d(C/X)/dX=(MPC-APC)/X<0$ $\rightarrow$ $MPC<APC$
+  
+### Keynes' Consumption Funcion
+
+- How do we test this theory?
+
+- Estimate the equation $C=\alpha + \beta X$ and test whether $\alpha>0$ and $0<\beta<1$.
+
+- Some points to note:
+  1. Notice the behavioral aspect of the model.
+  2. The model states an unambiguous and deterministic relationship between the dependent and independent variables.
+  3. Models are only simplifications of reality; we need an stochastic element.
+  4. A probabilistic model is less precise but more robust!

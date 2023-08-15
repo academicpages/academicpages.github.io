@@ -27,6 +27,15 @@
 \usepackage{microtype}
 \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
 }{}
+\usepackage{graphicx,grffile}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight0.8\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
 
 % Comment these out if you don't want a slide with just the
 % part/section/subsection/subsubsection title:
@@ -52,7 +61,6 @@
 \setcounter{secnumdepth}{0}
 
 \title{Introduction}
-\subtitle{Econometria I}
 \author{Henrique Veras}
 \date{}
 
@@ -200,28 +208,121 @@
 \hypertarget{intro}{%
 \subsection{Intro}\label{intro}}
 
-\begin{frame}{Introduction}
+\begin{frame}[fragile]{Introduction}
 \protect\hypertarget{introduction}{}
-\begin{itemize}
-\item
-  What conveys the study of econometrics?
-\item
-  The unification of three main areas:
+What conveys the study of econometrics?
 
-  \begin{enumerate}
-  \tightlist
-  \item
-    Statistics
-  \item
-    Economic theory
-  \item
-    Mathematics
-  \end{enumerate}
-\end{itemize}
+\vfill
+
+The unification of three main areas:
+
+\begin{verbatim}
+1.    Statistics
+2.    Economic theory
+3.    Mathematics
+\end{verbatim}
+
+\vfill
 
 ``Econometrics conveys application of mathematical statistics and the
 tools of statistical inference to the empirical measurement of
 relationships postulated by an underlying theory.''
+\end{frame}
+
+\hypertarget{the-practice-of-econometrics}{%
+\subsection{The practice of
+econometrics}\label{the-practice-of-econometrics}}
+
+\begin{frame}{The practice of econometrics}
+\protect\hypertarget{the-practice-of-econometrics-1}{}
+Theoretical econometrics vs.~applied econometrics
+
+\hspace{3cm}
+
+This course is designed for the applied economist.
+
+\hspace{3cm}
+
+Applied econometric methods will be used for estimation of important
+quantities, analysis of economic outcomes such as policy changes,
+markets or individual behavior, testing theories, and for forecasting.
+\end{frame}
+
+\hypertarget{econometric-modeling}{%
+\subsection{Econometric Modeling}\label{econometric-modeling}}
+
+\begin{frame}{Econometric Modeling}
+\protect\hypertarget{econometric-modeling-1}{}
+Consider the Keynesian consumption function: \(C=f(X)\), where \(X\) is
+disposable income.
+
+\vfill
+
+Theoretical postulates: \(dC/dX\) is positive and \(0<dC/dX<1\).
+
+\vfill
+
+Implications:
+
+\begin{enumerate}
+\item
+  \(MPC>0\)
+\item
+  \(APC=C/X\) falls with income
+\item
+  \(d(C/X)/dX=(MPC-APC)/X<0\) \(\rightarrow\) \(MPC<APC\)
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Keynes' Consumption Funcion}
+\protect\hypertarget{keynes-consumption-funcion}{}
+How do we test this theory? \pause
+
+\vfill
+
+Estimate the equation \(C=\alpha + \beta X\) and test whether
+\(\alpha>0\) and \(0<\beta<1\).
+
+\vfill
+
+Some points to note:
+
+\begin{enumerate}
+\item
+  Notice the behavioral aspect of the model.
+\item
+  The model states an unambiguous and deterministic relationship between
+  the dependent and independent variables.
+\item
+  Models are only simplifications of reality; we need an stochastic
+  element.
+\item
+  A probabilistic model is less precise but more robust!
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{From the Model to the Real World}
+\protect\hypertarget{from-the-model-to-the-real-world}{}
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/1/fig 2.1.PNG}
+\end{frame}
+
+\begin{frame}{From the Model to the Real World}
+\protect\hypertarget{from-the-model-to-the-real-world-1}{}
+The next step is to include a random component: \(C=F(X,\varepsilon)\)
+
+We usually assume an additive relationship.
+
+\vfill
+
+We also need to consider the wartime period into the empirical model.
+
+Here's an empirical model:
+\[C=\alpha+\beta X+ d_{waryears}\delta_W+\varepsilon\]
+\end{frame}
+
+\begin{frame}{Another Example}
+\protect\hypertarget{another-example}{}
+How would you model the function \(earnings=f(education)\)?
 \end{frame}
 
 \begin{frame}{The Big Data Revolution: Into a new paradigm?}
@@ -229,72 +330,9 @@ relationships postulated by an underlying theory.''
 Traditional econometrics: Measuring and testing theoretical
 relationships
 
+\vspace{1cm}
+
 Can Big Data replace theory?
-\end{frame}
-
-\begin{frame}{The practice of econometrics}
-\protect\hypertarget{the-practice-of-econometrics}{}
-\begin{itemize}
-\item
-  Theoretical econometrics vs.~applied econometrics
-\item
-  This course is designed for the applied economist.
-\item
-  Applied econometric methods will be used for estimation of important
-  quantities, analysis of economic outcomes such as policy changes,
-  markets or individual behavior, testing theories, and for forecasting.
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Econometric Modeling}
-\protect\hypertarget{econometric-modeling}{}
-\begin{itemize}
-\item
-  Consider the Keynesian consumption function:
-
-  \(C=f(X)\), where \(X\) is disposable income.
-\item
-  Theoretical postulates: \(dC/dX\) is positive and \(0<dC/dX<1\).
-\item
-  Implications:
-
-  \begin{enumerate}
-  \tightlist
-  \item
-    \(MPC>0\)
-  \item
-    \(APC=C/X\) falls with income
-  \item
-    \(d(C/X)/dX=(MPC-APC)/X<0\) \(\rightarrow\) \(MPC<APC\)
-  \end{enumerate}
-\end{itemize}
-\end{frame}
-
-\begin{frame}{Keynes' Consumption Funcion}
-\protect\hypertarget{keynes-consumption-funcion}{}
-\begin{itemize}
-\item
-  How do we test this theory?
-\item
-  Estimate the equation \(C=\alpha + \beta X\) and test whether
-  \(\alpha>0\) and \(0<\beta<1\).
-\item
-  Some points to note:
-
-  \begin{enumerate}
-  \tightlist
-  \item
-    Notice the behavioral aspect of the model.
-  \item
-    The model states an unambiguous and deterministic relationship
-    between the dependent and independent variables.
-  \item
-    Models are only simplifications of reality; we need an stochastic
-    element.
-  \item
-    A probabilistic model is less precise but more robust!
-  \end{enumerate}
-\end{itemize}
 \end{frame}
 
 
