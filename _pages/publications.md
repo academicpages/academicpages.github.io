@@ -5,8 +5,13 @@ author_profile: true
 ---
 
 ## Academic publications
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+
+You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
 
 
+
+## Submitted articles
+
+
+
+## Software
