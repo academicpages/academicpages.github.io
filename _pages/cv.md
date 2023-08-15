@@ -34,12 +34,6 @@ Research
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Working Papers and Work-In-Progress
-======
-
-  <ul>{% for post in site.workingpapers %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
