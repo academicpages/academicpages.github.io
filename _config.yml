@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Biraj Borgohain" #changed
   avatar           : "My passpot_100kb.JPG"
-  bio              : "Thermochronology, Mineralogy"
-  location         : "Dehradun"
+  bio              : "Thermochronology, Mineralogy, Earth Science Education Research"
+  location         : "Bengaluru, Karnataka"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=0ldkn_AAAAAJ&hl=en"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  prayoga          : "https://www.prayoga.org.in/"
 
 
 # Reading Files
