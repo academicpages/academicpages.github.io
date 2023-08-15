@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Anuar Assamidanov"
+locale                   : "Santiago-Chile"
+title                    : "Eduardo Duque Rosas"
 title_separator          : "-"
-name                     : &name "Anuar Assamidanov"
-description              : &description "PhD in Economics at Claremont Graduate University"
-url                      : https://assamidanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Eduardo Duque Rosas"
+description              : &description "personal description"
+url                      : https://eduquerosas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "assamidanov/assamidanov.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -93,7 +93,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "assamidanov"
+  github           : "eduquerosas"
   google_plus      :
   keybase          :
   instagram        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "assamidanov"
+  twitter          : "eduquerosas"
   vine             :
   weibo            :
   xing             :
