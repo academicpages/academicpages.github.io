@@ -154,7 +154,7 @@ Cal %>%
 
 # Descrição
 
-O curso cobrirá modelos, bem como métodos de identificação e estimativa usados na econometria moderna. O curso explora alguns dos principais modelos de econometria, suas estruturas bem como métodos de identificação, estimativa e inferência. Os tpicos incluem modelos de regressão linear, infência estatística, variáveis instrumentais, modelos de resposta qualitativa e dados de painel.
+O curso cobrirá modelos, bem como métodos de identificação e estimativa usados na econometria moderna. O curso explora alguns dos principais modelos de econometria, suas estruturas bem como métodos de identificação, estimativa e inferência. Os tópicos incluem modelos de regressão linear, infência estatística, variáveis instrumentais, modelos de resposta qualitativa e dados de painel.
 
 # Bibliografia
 
