@@ -2,7 +2,7 @@
 title: "Micro- & Macroeconomics"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/bt
+permalink: /teaching/mm
 venue: "Radboud University, Department of Economics & Business Economics"
 date: 2022-01-01
 location: "Nijmegen, The Netherlands"

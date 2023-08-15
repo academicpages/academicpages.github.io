@@ -2,7 +2,7 @@
 title: "Econometrics & Statistics"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/bt
+permalink: /teaching/econometrics
 venue: "Radboud University, Department of Economics & Business Economics"
 date: 2023-01-01
 location: "Nijmegen, The Netherlands"

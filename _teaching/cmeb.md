@@ -2,7 +2,7 @@
 title: "Mathematics in Economics"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/bt
+permalink: /teaching/meb
 venue: "Radboud University, Department of Economics & Business Economics"
 date: 2023-01-01
 location: "Nijmegen, The Netherlands"
