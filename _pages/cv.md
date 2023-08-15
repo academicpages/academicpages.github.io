@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,14 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
 
-Work experience
-======
+* B.S. in Mathematics and Computer Sciences, Faculty of Mathematics and Computer Science, University of Science, Vietnam National University - Ho Chi Minh city, Vietnam, 2012
+* Ph.D in Statistical Sciences, Department of Statistical Sciences, University of Padova, 2017
+
+# Work experience
+
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -26,9 +24,11 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
+
+# Research experience
+
+# Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -36,24 +36,27 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+
+See [publications](/publications/) page.
+
+
+# Presentations
+
+## Oral presentations
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+# Teaching
+
+See [teaching](/teaching/) page.
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Service
+
+## Reviewer
+I serve as a peer-reviewer in my field. A subset of my peer reviews can be found on my [Web of Science profile](https://publons.com/researcher/).
+
+
+# Awards
+
+
