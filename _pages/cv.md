@@ -19,12 +19,13 @@ Education
 ======
 * M.Sc. in Financial Economics (cum laude), Radboud University, 2017
 * B.Sc. in International Economics & Business (cum laude), Radboud University, 2016
+* Semester abroad at Stockholm University, 2015
 
 Skills
 ======
 * Design of Experiments (RCTs)
 * Quantitative Data Analysis: R, Stata
-* Object-Oriented Programming: Python, JavaScript
+* Programming: Python, JavaScript
 * Markup Language: HTML, LaTeX, (R)Markdown
 
 Publications
@@ -36,6 +37,9 @@ Publications
 Working Papers and Work-In-Progress
 ======
 
+  <ul>{% for post in site.workingpapers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Teaching
 ======
