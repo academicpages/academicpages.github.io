@@ -172,7 +172,7 @@ bib["davidson2004econometric", "cameron2005microeconometrics"]
 
 Para criar um ambiente de aprendizado eficaz para todos os alunos, por favor, chegue pontualmente às aulas e evite comportamentos que possam ser perturbadores para os colegas. As discussões em sala de aula devem ser respeitosas tanto com os colegas quanto com pontos de vista divergentes.
 
-Os slides das aulas serão disponibilizados na página do curso. Nenhum material do curso deve ser compartilhado com pessoas não registradas no curso.
+Os slides das aulas serão disponibilizados na página do curso.
 
 Freqüência às aulas é extremamente recomendada. Todos os alunos são assumidos estarem cientes de qualquer anúncio feito em sala de aula, mesmo quando os mesmos não estejam presentes.
 

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  14 AUG 2023 14:45
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.5.22)  15 AUG 2023 10:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -696,24 +696,24 @@ LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <12> not available
 [1
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+ppl on input line 204.
+LaTeX Font Info:    Try loading font information for OMS+ppl on input line 202.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/omsppl.fd
 File: omsppl.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ppl/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 204.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 202.
 LaTeX Font Info:    Font shape `T1/ppl/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ppl/b/n' tried instead on input line 204.
+(Font)              Font shape `T1/ppl/b/n' tried instead on input line 202.
 
 AED: lastpage setting LastPage
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 237.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 237.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 235.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 235.
 (./Ementa.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 237.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 237.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 237.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 235.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 235.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 235.
  ) 
 Here is how much of TeX's memory you used:
  19628 strings out of 493591
