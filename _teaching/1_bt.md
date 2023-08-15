@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/bt
 venue: "Radboud University, Department of Economics & Business Economics"
-date: "2017-2023"
+date: 2023-01-01
 location: "Nijmegen, The Netherlands"
 ---
 
