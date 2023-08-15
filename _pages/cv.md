@@ -28,7 +28,7 @@ Skills
 * Programming: Python, JavaScript
 * Markup Language: HTML, LaTeX, (R)Markdown
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
