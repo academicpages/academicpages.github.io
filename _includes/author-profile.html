@@ -123,17 +123,6 @@
         <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iELi_Mj4-V4VIhGVw-67Bcp7_5aSirIUMRdgrGI6cT0"></script>
       </div>
 
-      <div style="width: 150px;">
-        <script type="text/javascript">
-          import VoxelDogLoader from './voxel-dog-loader';
-
-          const LazyVoxelDog = dynamic(() => import('./voxel-dog'), {
-                ssr: false,
-                loading: () => <VoxelDogLoader />
-                });
-          <LazyVoxelDog />;
-        </script>
-      </div>
       
     </ul>
   </div>
