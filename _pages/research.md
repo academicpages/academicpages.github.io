@@ -16,7 +16,7 @@ The political economy of greening foreign aid (<a href= "cobrienudry.github.io/f
 
 A Political Economy of Aid and Legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
 
-Aid, Blame, and Backlash(<a href= "https://cobrienudry.github.io/files/obrien-udry_aid_blame_backlash.pdf">draft</a>)
+Aid, Blame, and Backlash(<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">draft</a>)
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under Review</a>)
 
