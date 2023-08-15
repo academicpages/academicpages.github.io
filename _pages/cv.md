@@ -47,4 +47,4 @@ Service
 ======
 <!--- * Social Media Manager at the Society for Experimental Finance --->
 * Reviewer for the Journal of Behavioral and Experimental Finance
-* Former board member of the PhD Organization Nijmegen
+* Former board member of the PhD Organization Nijmegen (2019-2020)
