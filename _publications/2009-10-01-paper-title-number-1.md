@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Slobodian, Q. (2018). Globalists: The end of empire and the birth of neoliberalism. Cambridge, Massachusetts: Harvard University Press"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Review of the book writen by Quinn Slobodian (2020)'
+date: 2020-07-17
+venue: 'Anthropía'
+paperurl: 'https://revistas.pucp.edu.pe/index.php/anthropia/article/view/22267'
+citation: 'Zapata, Alvaro. (2020). Slobodian, Q. (2018). Globalists: The end of empire and the birth of neoliberalism. Cambridge, Massachusetts: Harvard University Press. Anthropía, (17), 87-90. https://doi.org/10.18800/anthropia.2020.004'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Review of the book writen by Quinn Slobodian (2020).
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://revistas.pucp.edu.pe/index.php/anthropia/article/view/22267)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Zapata, Alvaro. (2020). Slobodian, Q. (2018). Globalists: The end of empire and the birth of neoliberalism. Cambridge, Massachusetts: Harvard University Press. Anthropía, (17), 87-90. https://doi.org/10.18800/anthropia.2020.004.
