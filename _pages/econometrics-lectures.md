@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Econometria I (PIMES/UFPE)"
-permalink: /_pages/econometrics/lectures
+permalink: /_pages/econometrics-lectures
 author_profile: true
 redirect_from: 
   - /md/
