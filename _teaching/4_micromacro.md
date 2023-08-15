@@ -1,10 +1,10 @@
 ---
 title: "Micro- & Macroeconomics"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/bt
 venue: "Radboud University, Department of Economics & Business Economics"
-date: 2023-01-01
+date:
 location: "Nijmegen, The Netherlands"
 ---
 
