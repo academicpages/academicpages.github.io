@@ -71,8 +71,6 @@ Theoretical econometrics vs. applied econometrics
   2. $APC=C/X$ falls with income
   
   
-  3. $d(C/X)/dX=(MPC-APC)/X<0$ $\rightarrow$ $MPC<APC$
-  
 ### Keynes' Consumption Funcion
 
 How do we test this theory? \pause
