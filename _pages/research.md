@@ -14,12 +14,12 @@ Working Papers
 ---
 The political economy of greening foreign aid (<a href= "cobrienudry.github.io/files/files/o'brien-udry_JMP.pdf">draft</a>)
 
-A Political Economy of Aid and Legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
+A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
 
-Aid, blame, and backlash(<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">Under review</a>)
+Aid, blame, and backlash (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">Under review</a>)
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">draft</a>)
 
-The possibilities and limits of international status: evidence from foreign aid and public opinion (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/Status_Jan2023.pdf">Under Review</a>) 
+The possibilities and limits of international status: evidence from foreign aid and public opinion (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Under review</a>) 
 
 
