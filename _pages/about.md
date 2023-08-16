@@ -27,33 +27,39 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 ======
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
-  <br> _arXiv_, [arXiv:2307.02046](https://arxiv.org/abs/2307.02046)
+  <br> _arXiv_: 2307.02046
+  <br> \[[arXiv](https://arxiv.org/abs/2307.02046)\]
   <br><img src="/images/LLMs_tasks.png"  width="200"/>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
-  <br> _arXiv_, [arXiv:2302.02591](https://arxiv.org/abs/2306.06615)
+  <br> _arXiv_: 2302.02591
   <br> \*Co-first author
+  <br> \[[arXiv](https://arxiv.org/abs/2306.06615)\]\[[Code](https://github.com/phenixace/MolReGPT)\] \[[中文Chinese](https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ)\]
   <br><img src="/images/MolReGPT.png"  width="200"/>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
-  <br> _IJCAI_ **2023**, [arXiv:2302.02591](https://arxiv.org/abs/2302.02591)
+  <br> The 32nd International Joint Conference On Artificial Intelligence (_IJCAI_ **2023**), _arXiv_: 2302.02591
+  <br> \[[arXiv](https://arxiv.org/abs/2302.02591)\]\[[中文Chinese](https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg)\]
   <br><img src="/images/survey.png"  width="200"/>
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
-  <br> _EACL_ **2023** (Findings), [arXiv:2302.09820](https://arxiv.org/abs/2302.09820)
+  <br> Findings of the Association for Computational Linguistics: _EACL_ **2023**, _arXiv_: 2302.09820
+  <br> \[[arXiv](https://arxiv.org/abs/2302.09820)\]
   <br><img src="/images/outputs.png"  width="200"/>
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang
-  <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, [DOI: 10.1021/acs.orglett.1c00609](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
+  <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, DOI: 10.1021/acs.orglett.1c00609
+  <br> \[[Website](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)\]
   <br><img src="/images/2021ACS.png"  width="200"/> 
   
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
   <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
-  <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, [DIO:10.1002/ejoc.201901572](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
+  <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, DIO:10.1002/ejoc.201901572
+  <br> \[[Website](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)\]
   <br><img src="/images/ejoc_3.jpg"  width="200"/>
 
 
