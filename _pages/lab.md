@@ -9,7 +9,6 @@ author_profile: true
 
 ## Lab Members
 
-| | |  |
 | :---        |:---      | :---     |
 | [CIKM](https://www.cikm2022.org/)  | __May 22__| ACM International Conference on Information and Knowledge Management |
 
