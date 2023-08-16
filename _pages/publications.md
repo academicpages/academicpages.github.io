@@ -28,13 +28,13 @@ You can also find full list of my publications on [Google Scholar profile.](http
 
 * To. D. K., Adimari, G. and Chiogna, M. (2020). Selecting optimal thresholds in ROC analysis with clustered data. *Book of Short Papers, 50th Scientific Meeting of the Italian Statistical Society - SIS 2020*. Pearson, ISBN: **9788891910776**, 803-808. [Download](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Pearson-SIS-2020-atti-convegno.pdf)
 
-* To. D. K. and  Adimari, G. and Chiogna, M. (2020). Mean score equation and instrumental variables: another look at estimating the volume under the ROC surface when data are missing not at random. *Stat* 9:e259. [DOI: 10.1002/sta4.259](https://doi.org/10.1002/sta4.259) 
+* To. D. K. and  Adimari, G. and Chiogna, M. (2020). Mean score equation and instrumental variables: another look at estimating the volume under the ROC surface when data are missing not at random. *Stat*. **9:e259**. [DOI: 10.1002/sta4.259](https://doi.org/10.1002/sta4.259) 
 
 * To Duc, K., Chiogna, M. and Adimari, G. (2019). Estimation for the volume under ROC surface in presence of nonignorable verification bias. *Statistical Methods and Applications*. **28**, 4, 695-722. [DOI: 10.1007/s10260-019-00451-3](https://doi.org/10.1007/s10260-019-00451-3) 
 
 * Minh N. D., Khanh T. D., Tuan N. H. and Trong D. D. (2018). A two dimensional backward heat problem with statistical discrete data. *Journal of Inverse and Ill-Posed Problems*. **26**, 1, 13-31. [DOI: 10.1515/jiip-2016-0038](https://doi.org/10.1515/jiip-2016-0038)
 
-* To Duc, K. (2017). bcROCsurface: an R package for correcting verification bias in estimation of the ROC surface and its volume for continuous diagnostic tests. *BMC Bioinformatics*. **18:503*. [DOI: 10.1186/s12859-017-1914-3](https://doi.org/10.1186/s12859-017-1914-3) 
+* To Duc, K. (2017). bcROCsurface: an R package for correcting verification bias in estimation of the ROC surface and its volume for continuous diagnostic tests. *BMC Bioinformatics*. **18:503**. [DOI: 10.1186/s12859-017-1914-3](https://doi.org/10.1186/s12859-017-1914-3) 
 
 * To Duc, K., Chiogna, M. and Adimari, G. (2016). Bias-corrected methods for estimating the receiver operating characteristic surface of continuous diagnostic tests. *Electronic Journal of Statistics*. **10**, 2, 3063-3113. [DOI: 10.1214/16-EJS1202](https://doi.org/10.1214/16-EJS1202) 
 
