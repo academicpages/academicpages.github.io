@@ -7,10 +7,10 @@ author_profile: true
 
 
 ## Lab Members
-| Abbreviation| Due Date| Full Name |
-| Sean Edwards (2023)    |:---      | :---     |
-| Provost Student Excellence Awards 2023|:---      | :---     |       
-| Graduated in 2023 May. First job: Xtern Software |:---      | :---     |
+|  |  |   |
+|  Sony Annem   | Sean Edwards (Graudated in 2023)|  |
+| | Provost Student Excellence Awards 2023 |    |       
+|  | First job: Xtern Software |    |
 
 ## Collaborators
   + [Dr. Hao Liu](https://dr-haoliu.github.io/)
