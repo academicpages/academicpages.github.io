@@ -11,30 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 9/2015--7/2020, Ph.D. in Statistics, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, Beijing, China
+* 9/2011--7/2015, B.S. in Geology & B.S. in Statistics, School of Earth and Space Sciences & School of Mathematical Sciences, Peking University, Beijing, China
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 7/2020--6/2022, Postdoctor in Statistics, School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China 
+* 6/2022--Present, Assistant Professor, School of Mathematics and Statistics, Beijing Institute of Technology, Beijing, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Fundings
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 1/2022--12/2024, National Natural Science Foundation of China (NSFC) (Grant No. 12101047), Principal Investigator
+* 1/2022--12/2022, China Postdoctoral Science Foundation funded project (Grant No. 2021M700433), Principal Investigator
+
+Research Interests
+======
+Biostatistics, High-dimensional statistics, Reinforcement learning, Association analysis, Microbiome data analysis
 
 Publications
 ======
@@ -42,11 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -54,6 +42,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
