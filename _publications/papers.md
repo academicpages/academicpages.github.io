@@ -2,9 +2,9 @@
 
 1. **Wang J.**, Li N., Meng Z., Li Q. (2023) Change point detection for high dimensional data via kernel measure with application to human aging brain data. Statistics in Medicine (Accepted)
    
-2. **Wang J.**, Long M., Li Q. (2023) A maximum kernel-based association test to detect the pleiotropic genetic effects on multiple phenotypes. Bioinformatics 39(5), btad291.
-   
-3. Jiang Z., Guo H., __Wang J*.__ (2023) Feature screening for multiple responses. Journal of Multivariate Analysis, 105223.
+2. Jiang Z., Guo H., __Wang J*.__ (2023) Feature screening for multiple responses. Journal of Multivariate Analysis, 105223.
+
+3. **Wang J.**, Long M., Li Q. (2023) A maximum kernel-based association test to detect the pleiotropic genetic effects on multiple phenotypes. Bioinformatics 39(5), btad291.
    
 4. Jiang, Z., Guo, H.,__Wang, J*.__ (2023). Screening properties of trend tests in genetic association studies. Scientific Reports, 13(1), 9139.
 
