@@ -12,7 +12,8 @@ author_profile: true
  
 Sean Edwards (2023)   
 Provost Student Excellence Awards 2023   
-
+Graduated in 2023 May   
+First job: Xtern Software   
 ## Collaborators
   + [Dr. Hao Liu](https://dr-haoliu.github.io/)
   + [Dr. Yifan Guo](https://yifan-guo.com/www/index.html)
