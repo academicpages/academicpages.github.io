@@ -6,8 +6,9 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2023-06-01
 venue: 'ICEEconf'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Arman Akbari, You'
+citation: #'Arman Akbari, You'
 ---
+
 Robot grasping is of paramount importance in
 industrial and service robotics. In recent years, various data-
 driven algorithms have been proposed to solve the problem of
@@ -34,5 +35,3 @@ results demonstrate that the proposed algorithm for unknown
 object grasping can find a finite number of successful grasp poses
 for different seen or unseen objects without using any random
 point.
-
-[Download paper here]()
