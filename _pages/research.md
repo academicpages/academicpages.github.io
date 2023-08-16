@@ -24,7 +24,7 @@ The most rugged and remote areas of contemporary states have historically had le
 </details>
 
 ### International Relations and Public Opinion
-* Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** _Working Paper._
+* Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** _Working Paper._
 <details><summary>Abstract</summary>
 
 The general public greeted news of the American withdrawal from Afghanistan, ending a two-decade long operation,  with mixed reactions. In this paper, we describe the real-time reactions to the American withdrawal on Twitter. We trace and describe online discussions specifically about the U.S. withdrawal from Afghanistan by collecting a unique dataset of 7 million tweets. Instead of relying on a pre-determined group of users, we collect all tweets in the United States sent between August and September of 2021 that mention a list of keywords related to the  withdrawal. This approach allows us to collect a comprehensive corpus of tweets related to the Afghan withdrawal. We  then apply a semi-supervised machine learning algorithm to measure sentiment toward both the Trump administration, which began the withdrawal, and the Biden administration, which concluded it.  We  find that social media reactions to  key events are rapid but transient. We observe no spikes but a steady increasing volume of negative Tweets after the United States completes the withdrawal process on August 31st. 
