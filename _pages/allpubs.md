@@ -22,6 +22,7 @@ author_profile: true
 0. Xu, P. P., Wu, Y. C., Wei, E. X., Peng, T. Q., Liu, S. X., Zhu, J. J. H., & Qu, H. M. (2013). Visual Analysis of Topic Competition on Social Media. <i>IEEE Transactions on Visualization and Computer Graphics, 19</i>, 2012-2021.
 
 ## Audience Analysis
+0. Lee, S., & Peng, T. Q. (2023). Understanding audience behavior with digital traces: Past, present, and future. *Digital Journalism*.
 0. Xu, Y., & Peng, T. Q. (2023). Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022. <i>Human Communication Research</i>.
 0. Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? <i>Digital Journalism, 11</i>(1), 181-202. 
 0. Peng, T. Q., Zhou, Y., & Zhu, J. J. H. (2020). From filled to empty time intervals: Quantifying online behaviors with digital traces. Communication Methods and Measures, 14(4), 219-238.
