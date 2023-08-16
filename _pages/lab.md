@@ -7,6 +7,11 @@ author_profile: true
 
 
 ## Lab Members
+
+| Abbreviation| Due Date| Full Name |
+| :---        |:---      | :---     |
+| [CIKM](https://www.cikm2022.org/)  | __May 22__| ACM International Conference on Information and Knowledge Management |
+
 | :---        |:---      |
 | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   | 
 | Sony Annem | Sean Edwards (Graudated in 2023) | 
