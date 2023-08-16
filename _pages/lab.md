@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Lab Members
+| :---        |:---      | :---     |
 | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   |   |
 | Sony Annem | Sean Edwards (Graudated in 2023) |  |
 | WFBMI Intern 2023| Provost Student Excellence Awards 2023 |    |       
