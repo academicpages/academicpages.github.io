@@ -7,8 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My research interests are computer vision and trustworthy machine learning.
+Research Interests:
+My academic pursuits center around the captivating realms of computer vision and the paramount importance of trustworthy machine learning.
 
-During my B.Sc. in computer science at university of Tehran, I tried to build a solid background for my future research. So beside my university courses in math and computer science, I joined TaarLab (Human and Robot Interaction Laboratory) under the supervision of [Dr. Tale Masoule](https://scholar.google.com/citations?user=gkiFy20AAAAJ&hl=en&oi=ao) where I presented a geometry-based algorithm which can find grasp poses based on the geometry of the unknown object and propose the ones which may lead to successful grasping. The main goal of the algorithm was to produce meaningful grasping key points instead of using random points for the learning algorithms. Having several successful and unsuccessful grasp poses for each object is much more useful than random points for RL learning algorithms. Our paper is accepted in [ICEEconf](https://iceeconf.ir/2023) and it will be indexed in IEEE soon.
+Education Background:
 
-Subsequently, I enrolled an internship under the supervision of [Prof. Ngai-Man (Man) Cheung](https://sites.google.com/site/mancheung0407/). My research was about generative model and we were focusing on diffusion models particularly. I implemented a Denoising Diffusion Probabilistic Model (DDPM) and tried to train it with limited data. I am interested in generative models and improving them.
+During my time at the University of Tehran, I immersed myself in computer science. Alongside my math and computer science courses, I joined TaarLab (Human and Robot Interaction Laboratory) led by [Dr. Tale Masoule](https://scholar.google.com/citations?user=gkiFy20AAAAJ&hl=en&oi=ao). Here, I created an algorithm to help robots grasp objects better by analyzing their shapes. This innovative approach aimed to enhance learning algorithms by using specific grasp points instead of random ones. Our work got accepted in [ICEEconf](https://iceeconf.ir/2023) and will soon be published and indexed in IEEE.
+
+Next, I worked alongside [Prof. Ngai-Man (Man) Cheung](https://sites.google.com/site/mancheung0407/), delving into generative models with a focus on diffusion models. I designed a Denoising Diffusion Probabilistic Model (DDPM) and tackled the challenge of training it using limited data. My fascination with generative models and their potential for improvement continues to drive my research.
+
+Looking Ahead:
+
+The future holds exciting possibilities. My dedication lies in advancing generative models and exploring their capabilities.
