@@ -35,13 +35,13 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_: 2302.02591
   <br> \*Co-first author
-  <br> \[[arXiv](https://arxiv.org/abs/2306.06615)\]\[[Code](https://github.com/phenixace/MolReGPT)\] \[[中文Chinese](https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ)\]
+  <br> \[[arXiv](https://arxiv.org/abs/2306.06615)\] \[[Code](https://github.com/phenixace/MolReGPT)\] \[[中文Chinese](https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ)\]
   <br><img src="/images/MolReGPT.png"  width="200"/>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (_IJCAI_ **2023**), _arXiv_: 2302.02591
-  <br> \[[arXiv](https://arxiv.org/abs/2302.02591)\]\[[中文Chinese](https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg)\]
+  <br> \[[arXiv](https://arxiv.org/abs/2302.02591)\] \[[中文Chinese](https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg)\]
   <br><img src="/images/survey.png"  width="200"/>
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
