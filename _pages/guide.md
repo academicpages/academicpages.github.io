@@ -10,11 +10,6 @@ redirect_from:
 
 {% include base_path %}
 
-NN Note
-------
-[Link to github repo](https://github.com/lix19937/NN)
-* Personal guide on NN
-
 
 CUDA Guide
 ------
