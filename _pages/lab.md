@@ -7,8 +7,9 @@ author_profile: true
 
 
 ## Lab Members
-
-<img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> <br /><br /><br /><br /><br />            
+| Abbreviation| Due Date| Full Name |
+| <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> |:---      | :---     |
+       
  
 Sean Edwards (2023)   
 Provost Student Excellence Awards 2023   
