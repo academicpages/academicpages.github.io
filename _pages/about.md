@@ -10,8 +10,6 @@ redirect_from:
 
 I am currently an assistant professor in School of Mathematics and Statistics, Beijing Institute of Technology. 
 
+Research Interests: Biostatistics, High-dimensional statistics, Reinforcement learning, Association analysis, Microbiome data analysis
+
 Email: wangjinjuan@bit.edu.cn
-
-Institute: School of Mathematics and Statistics, Beijing Institute of Technology
-
-Address: No.5 Zhongguancun South Street, Haidian District, Beijing, China
