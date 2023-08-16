@@ -9,11 +9,8 @@ author_profile: true
 
 ## Lab Members
 
-| :---        |:---      | :---      | 
-| [CIKM](https://www.cikm2022.org/)  | __May 22__|   |
-
-| :---        |:---      |:---      | 
-| <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   | | 
+| :---        |:---      |
+| <img src=""  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   | 
 | Sony Annem | Sean Edwards (Graudated in 2023) | :---      | 
 | WFBMI Intern 2023| Provost Student Excellence Awards 2023 |
 | In the Lab | First job: Xtern Software |
