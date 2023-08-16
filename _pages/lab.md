@@ -9,8 +9,8 @@ author_profile: true
 
 ## Lab Members
 
-| :---        |:---      | :---     |
-| [CIKM](https://www.cikm2022.org/)  | __May 22__| ACM International Conference on Information and Knowledge Management |
+| :---        |:---      | 
+| [CIKM](https://www.cikm2022.org/)  | __May 22__|
 
 | :---        |:---      |
 | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   | 
