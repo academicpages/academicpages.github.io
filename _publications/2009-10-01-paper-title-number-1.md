@@ -2,14 +2,7 @@
 title: "A 2D Geometry Based Grasping Pose Generation Algorithm for a Two-finger Robot Hand"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-06-01
-venue: 'ICEEconf'
-paperurl: #'http://academicpages.github.io/files/paper1.pdf'
-citation: #'Arman Akbari, You'
----
-
-Robot grasping is of paramount importance in
+excerpt: 'Robot grasping is of paramount importance in
 industrial and service robotics. In recent years, various data-
 driven algorithms have been proposed to solve the problem of
 grasp detection and a part of them are based on reinforcement
@@ -34,4 +27,9 @@ a metric to evaluate the successfulness of the grasp. Simulation
 results demonstrate that the proposed algorithm for unknown
 object grasping can find a finite number of successful grasp poses
 for different seen or unseen objects without using any random
-point.
+point.'
+date: 2023-06-01
+venue: 'ICEEconf'
+paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+citation: #'Arman Akbari, You'
+---
