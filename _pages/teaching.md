@@ -4,6 +4,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## A.Y. 2023 - 2024
+
 
 ## A.Y. 2022 - 2023
 
@@ -126,6 +128,6 @@ From Sep 2018 to Jun 2023, I remotely supervised eight undergraduate students at
 * Tran Ngoc Lan and Pham Thi Kim Thanh, 2022. Thesis title: *Time-dependent ROC analysis for right-censored data*.
 * Chu Thi Bao Ngoc, 2022. Thesis title: *ROC analysis in present of missing data*.
 * Nguyen Ho Bao Trinh, 2022. Thesis title: *Adjustment method for AUC in present of measurement error*.
-* Le Ngoc Diem, 2019. Thesis title: *Statistical evaluation of diagnostic tests when the data is non-ignorable missing*.
+* Le Ngoc Diem, 2019. Thesis title: *Statistical evaluation of diagnostic tests for non-ignorable missing data*.
 * Ly Thao Linh, 2018. Thesis title: *Pseudo-likelihood approach for multivariate mixed-effect meta-analysis*. 
 * Vu Thi Thuy Duong, 2018. Thesis title: *Linear combinations of diagnostic tests*.
