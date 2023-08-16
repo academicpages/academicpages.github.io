@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am currently an assistant professor in School of Mathematics and Statistics, Beijing Institute of Technology. 
+
 Email: wangjinjuan@bit.edu.cn
 
 Institute: School of Mathematics and Statistics, Beijing Institute of Technology
