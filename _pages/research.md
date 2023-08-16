@@ -23,7 +23,7 @@ The most rugged and remote areas of contemporary states have historically had le
   
 </details>
 
-### Public Opinion and International Relations
+### International Relations and Public Opinion
 * Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** _Working Paper._
 <details><summary>Abstract</summary>
 
