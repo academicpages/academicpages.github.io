@@ -1,6 +1,6 @@
 ---
 title: 'Predicting College Football vs College Basketball'
-date: 8/16/2023
+date: 2022-8-16
 permalink: /posts/2023/08/college-football/
 tags:
   - forecasting
