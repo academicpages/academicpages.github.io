@@ -9,7 +9,7 @@ author_profile: true
 
 ## A.Y. 2022 - 2023
 
-* Teacher in charge: **Experimental Design and Statistical Analysis**
+* Teacher in charge: [**Experimental Design and Statistical Analysis**](https://en.didattica.unipd.it/off/2022/LM/SC/SC2596/000ZZ/SCQ0093518/N0)
   * 40 hours (24h for Lectures and 16h for Lab R), 4 CFU (in English).
   * First semester from 05/10/2022 to 15/01/2023.
   * Master of Marine Biology, Department of Biology, University of Padova, Italy. 
