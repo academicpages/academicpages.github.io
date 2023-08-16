@@ -17,7 +17,7 @@ Before coming to the USC, I obtained the Bachelor of Engineering in CSE at South
 
 # Recent Activities
 ## Experience
-From May 2023 to August 2023, I worked as a Machine Learning (NLP) engineer at [UBT Robotics](https://www.ubtrobot.com/) on large language models. I fine-tuned Vicuna (7B, 13B, and 33B) based on the over 50,000 ChatGPT-generated Welcoming and Guiding Dialogues. Preliminary user evaluation indicates a 29.74% user preference enhancement over the original Vicuna chatbot.
+From May 2023 to August 2023, I worked as a Machine Learning (NLP) engineer at [UBT Robotics](https://www.ubtrobot.com/) on large language models. I fine-tuned LLM chatbots (Vicuna 7B, 13B, and 33B) based on the over 50,000 ChatGPT-generated Welcoming and Guiding Dialogues. Preliminary user evaluation indicates a 29.74% user preference enhancement over the original Vicuna chatbot.
 
 From August 2022 to December 2022, I worked as a research assistant for Dr.[Luo Tao](https://designschool.sustech.edu.cn/cn/academics/faculty/378.html) at SUSTECH's [School of Design](https://designschool.sustech.edu.cn/cn), mainly responsible for Unity MR development, [IxDL](http://ixdlanguage.org/) user survey, and HCI-experiment design.
 
