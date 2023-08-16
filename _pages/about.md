@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor in School of Mathematics and Statistics, Beijing Institute of Technology. 
+I am currently an assistant professor at Beijing Institute of Technology. 
 
 Research Interests: Biostatistics, High-dimensional statistics, Reinforcement learning, Association analysis, Microbiome data analysis
 
