@@ -11,22 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in Bioinformatics, University of California, San Diego, 2019-2022
-* M.S. in Data Science w/ Specialization in Computational Neuroscience, University of California, San Diego, 2022-2024 (expected)
+* [B.S. in Bioinformatics](https://biology.ucsd.edu/education/undergrad/maj-min/majors/fall20-later/bioinformatics.html), [University of California, San Diego](https://ucsd.edu), 2019-2022
+* [M.S. in Data Science](https://datascience.ucsd.edu/graduate/ms-program/), University of California, San Diego, 2022-2024 (expected)
 
 Work experience
 ======
+* June 2023-Auguest 2023: Summer Research Associate
+  * [Laboratory for Neural Statistics](http://neurostatslab.org), [Flatiron Institute](https://www.simonsfoundation.org/flatiron/) [Center for Computational Neuroscience](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/)
+  * Supervisor: Professor [Alex Williams](http://alexhwilliams.info)
 * November 2021-Present: Research Assistant
-  * Talmo Lab, Salk Institute for Biological Studies
-  * Supervisor: Professor Talmo Pereira
+  * [Talmo Lab](https://talmolab.org), [Salk Institute for Biological Studies](https://www.salk.edu)
+  * Supervisor: Professor [Talmo Pereira](https://talmopereira.com)
 
 * October 2020-Present: Undergraduate Research Assistant
-  * Manor Lab, Salk Institute for Biological Studies
-  * Supervisor: Professor Uri Manor
+  * [Manor Lab](https://manorlab.ucsd.edu), Salk Institute for Biological Studies, Halıcıoğlu Data Science Institute - University of California San Diego
+  * Supervisor: Professor [Uri Manor](https://manorlab.ucsd.edu/our-team/)
   
 * June 2021-September 2022: Undergraduate Research Assistant
-  * Mesirov Lab, Moore Cancer Center
-  * Supervisors: Alex Wenzel, Professor Jill Mesirov
+  * [Mesirov Lab](https://mesirovlab.org), [Moore Cancer Center](https://moorescancercenter.ucsd.edu)
+  * Supervisors: [Alex Wenzel](https://alex-wenzel.github.io), Professor [Jill Mesirov](https://vchs.ucsd.edu/about/leadership/mesirov.html)
   
 <!-- Skills
 ======
