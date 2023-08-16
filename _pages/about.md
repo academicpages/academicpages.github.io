@@ -47,7 +47,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> Findings of the Association for Computational Linguistics: _EACL_ **2023**, _arXiv_: 2302.09820
-  <br> \[[arXiv](https://arxiv.org/abs/2302.09820)\]
+  <br> \[[arXiv](https://arxiv.org/abs/2302.09820)\] \[[Code](https://github.com/hanxuhu/controllT2Trobust)\]
   <br><img src="/images/outputs.png"  width="200"/>
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
