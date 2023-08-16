@@ -16,6 +16,6 @@ My research is in a multitude of areas such as exploring a country's risk of def
 
 Additionally, I have extensive teaching experiences within Mathematics, Statistics, Computer Science, and Data Science courses.
 
-In my free time I enjoy hiking, golf, disc golf, traveling, and making models to predict sporting events (read a little about this in my most recent [blog post](). 
+In my free time I enjoy hiking, golf, disc golf, traveling, and making models to predict sporting events (read a little about this in my most recent [blog post](/posts/2023/08/college-football/)). 
 
 Thank you for visiting my page! To reach out you can send an email to zachmackin (at) berkeley (dot) edu or connect with me on [Linkedin](https://www.linkedin.com/in/zachary-mackin-408ba51bb/).
