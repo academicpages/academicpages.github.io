@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<b> Beginning in October 2023, I will join the <span style="color: blue;">Department of Computer Science</span> at the <span style="color: blue;">University of California, Irvine</span>. Please reach out to me if you are interested in working together!</b>
+<b> Beginning in October 2023, I will join the <span style="color: blue;">[Department of Computer Science](https://www.cs.uci.edu/)</span> at the <span style="color: blue;">[University of California, Irvine](https://www.uci.edu/)</span>. Please reach out to me if you are interested in working together!</b>
 
 My research interests broadly lie in the area of mobile computing and mobile security. Mobile systems, such as smartphones, wearables (e.g., smartwatches, AR/VR headsets), and IoT devices, have come a long way from being just a method of communication to sophisticated sensing devices that monitor and control several aspects of our lives. While these devices’ advanced computing and sensing capabilities enable several valuable applications, they also make them attractive targets for attackers, opening doors to several threats to users’ security and privacy. My research combines system design, signal processing, computer vision, and machine learning methods to investigate these threats and then proposes methods for securing modern mobile and IoT devices and protecting users’ privacy. I envision developing practical solutions to the security limitations of existing systems and emerging computing platforms. My goal is to also investigate the impact of these limitations on developers and end users and propose secure systems that address the challenges of these new platforms.
 
-I received my Ph.D. in Computer Science from Purdue University, where I was advised by [Dr. Z. Berkay Celik](https://beerkay.github.io/) and was a part of the [PurSec Lab](https://pursec.cs.purdue.edu/). My dissertation focused on leveraging multimodal sensing to improve the security and privacy of mobile and IoT systems.
+I received my Ph.D. in Computer Science from [Purdue University](https://www.purdue.edu/), where I was advised by [Dr. Z. Berkay Celik](https://beerkay.github.io/) and was a part of the [PurSec Lab](https://pursec.cs.purdue.edu/). My dissertation focused on leveraging multimodal sensing to improve the security and privacy of mobile and IoT systems.
 
 
 <!-- Before coming to Purdue, I received my bachelor's degree from [LUMS School of Science and Engineering (SBASSE)](https://sbasse.lums.edu.pk/department/computer-science). -->
