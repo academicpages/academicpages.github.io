@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science & Artificial Intelligence with year long placement, University of Bath, 2026 (expected)
+* INTERNATIONAL BACCALAUREATE DIPLOMA (IBDP), Guangdong Shunde Desheng School(International)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2023 – Current: Web Development Intern
+  * Developed an interactive web-based map to enhance public service accessibility, allowing residents to easily locate nearby institutions and services. Also help with office’s other daily tasks.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Feb 2023 - Mar 2023: Algorithm Research Intern
+  * Conducted research on integrating AI into an e-learning platform for language students and teachers.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PROGRAMMING LANGUAGES
+  * Python, Java, C, SQL, HTML, CSS
+* SOFTWARE
+  * LATEX, Microsoft Office
+* VERSION CONTROL REPOSITORIES
+  * GitHub
+* SPEAKING LANGUAGES
+  * Mandarin (Native)
+  * Cantonese (Native)
+  * English (IELTS 6.5)
+
 
 Publications
 ======
