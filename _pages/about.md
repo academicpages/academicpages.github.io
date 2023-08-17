@@ -28,26 +28,26 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv_: 2307.02046
-  <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> [\[arXiv\]](https://arxiv.org/abs/2307.02046) [\[PDF\]](/files/LLM4Rec.pdf)
+  <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd>
   <br><img src="/images/LLMs_tasks.png"  width="200"/>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_: 2302.02591
   <br> \*Co-first author
-  <br> [\[arXiv\]](https://arxiv.org/abs/2306.06615) [\[PDF\]](/files/MolReGPT.pdf) [\[Code\]](https://github.com/phenixace/MolReGPT) [\[中文Chinese\]](https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ)
+  <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>
   <br><img src="/images/MolReGPT.png"  width="200"/>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (_IJCAI_ **2023**), _arXiv_: 2302.02591
-  <br> [\[arXiv\]](https://arxiv.org/abs/2302.02591) [\[PDF\]](/files/Diffusion_Survey.pdf) [\[中文Chinese\]](https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg)
+  <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd> 
   <br><img src="/images/survey.png"  width="200"/>
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> Findings of the Association for Computational Linguistics: _EACL_ **2023**, _arXiv_: 2302.09820
-  <br> [\[arXiv\]](https://arxiv.org/abs/2302.09820) [\[PDF\]](/files/T2TRobust.pdf) [\[Code\]](https://github.com/hanxuhu/controllT2Trobust)
+  <br> <kbd><a href="https://arxiv.org/abs/2302.09820">arXiv</a></kbd> <kbd><a href="/files/T2TRobust.pdf">PDF</a></kbd> <kbd><a href="https://github.com/hanxuhu/controllT2Trobust">Code</a></kbd>
   <br><img src="/images/outputs.png"  width="200"/>
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
