@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Saket Pradhan"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Saket Pradhan"
 description              : &description "personal description"
