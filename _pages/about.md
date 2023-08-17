@@ -28,7 +28,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv_: 2307.02046
-  <br> [\[arXiv\]](https://arxiv.org/abs/2307.02046) [\[PDF\]](/files/LLM4Rec.pdf)
+  <br> <kbd>[arXiv](https://arxiv.org/abs/2307.02046)</kbd> [\[arXiv\]](https://arxiv.org/abs/2307.02046) [\[PDF\]](/files/LLM4Rec.pdf)
   <br><img src="/images/LLMs_tasks.png"  width="200"/>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
