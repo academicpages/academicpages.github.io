@@ -54,7 +54,7 @@ PC Member:
 
 Journal Reviewer: 
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
-* IEEE Transactions on Knowledge Discovery in Data (TKDD)
+* ACM Transactions on Knowledge Discovery in Data (TKDD)
 * ACM Transactions on Intelligent Systems and Technology (TIST)
 * Data Mining and Knowledge Discovery (DAMI)
 * Neurocomputing

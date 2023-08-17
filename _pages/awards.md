@@ -10,7 +10,7 @@ author_profile: true
 
 <li> <font color="red">  CIKM'22 Best Demo Paper Award </font> <br /></li>
 
-<li> Student Travel Grant Award, Texas A&M University, 2022. <br /></li>
+<li> Student Travel Grant Award, Texas A&M University, 2022, 2023. <br /></li>
 
 <li> Chinese Undergraduates Mathematics Competitions, 1st class (Rank: 6/60k+), Mar. 2015. <br /></li>
 
