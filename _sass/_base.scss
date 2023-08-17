@@ -133,7 +133,7 @@ kbd {
   border-radius: 2px;
   border: 1px solid hsl(0deg, 0%, 70%);
   padding: 3px 3px;
-  font-weight: bold;
+  font-weight: none;
   }
 
 pre {
@@ -200,6 +200,7 @@ figure {
   iframe,
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
+    margin-top: 1em;
   }
 
   img {
