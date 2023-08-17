@@ -29,38 +29,38 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> _arXiv_: 2307.02046
   <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd>
-  <p style="margin-top: -25px;"><img src="/images/LLMs_tasks.png"  width="200"/></p>
+  <p style="margin-top: 5px;"><img src="/images/LLMs_tasks.png"  width="200"/></p>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> _arXiv_: 2302.02591
   <br> \*Co-first author
   <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>
-  <p style="margin-top: -25px;"><img src="/images/MolReGPT.png"  width="200"/></p>
+  <p style="margin-top: 5px;"><img src="/images/MolReGPT.png"  width="200"/></p>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (_IJCAI_ **2023**), _arXiv_: 2302.02591
   <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd> 
-  <p style="margin-top: -25px;"><img src="/images/survey.png"  width="200"/></p>
+  <p style="margin-top: 5px;"><img src="/images/survey.png"  width="200"/></p>
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> Findings of the Association for Computational Linguistics: _EACL_ **2023**, _arXiv_: 2302.09820
   <br> <kbd><a href="https://arxiv.org/abs/2302.09820">arXiv</a></kbd> <kbd><a href="/files/T2TRobust.pdf">PDF</a></kbd> <kbd><a href="https://github.com/hanxuhu/controllT2Trobust">Code</a></kbd>
-  <p style="margin-top: -25px;"><img src="/images/outputs.png"  width="200"/></p>
+  <p style="margin-top: 5px;"><img src="/images/outputs.png"  width="200"/></p>
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
   <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang
   <br>_Organic Letters_, **2021**, _23_(7), 2710-2714, DOI: 10.1021/acs.orglett.1c00609
   <br> <kbd><a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609">Website</a></kbd> <kbd><a href="/files/acs.orglett.1c00609.pdf">PDF</a></kbd>
-  <p style="margin-top: -25px;"><img src="/images/2021ACS.png"  width="200"/> </p>
+  <p style="margin-top: 5px;"><img src="/images/2021ACS.png"  width="200"/> </p>
   
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
   <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
   <br>_European Journal of Organic Chemistry_, **2019**, _46_(12), 7596-7605, DIO:10.1002/ejoc.201901572
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
-  <p style="margin-top: -25px;"><img src="/images/ejoc_3.jpg"  width="200"/></p>
+  <p style="margin-top: 5px;"><img src="/images/ejoc_3.jpg"  width="200"/></p>
 
 
 Education
