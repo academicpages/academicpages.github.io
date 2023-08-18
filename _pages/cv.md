@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download PDF](http://getnetdemil.github.io/files/CV_Getnet_Demil_+_WE.pdf)
+[Download PDF](getnetdemil.github.io/files/CV_Getnet_Demil_+_WE.pdf)
 
 {% include base_path %}
 
