@@ -18,5 +18,7 @@ main:
   - title: "CV"
     url: /files/Arman_Akbari_CV.pdf/
 
+  - title: "Projects"
+    url: /talks/
   # - title: "Guide"
   #   url: /markdown/
