@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "Welcome"
+title: "Welcome!"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ redirect_from:
     }
   </style>
 
-## Hi there, I'm Sílvio Cândido 👋 Welcome to my personal webpage
+## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
 
 
 - 🔭 I’m currently a PhD student in Mechanical Engineering @ [University of Beira Interior](https://www.ubi.pt/) (Portugal)
