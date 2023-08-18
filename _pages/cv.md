@@ -11,39 +11,23 @@ redirect_from:
 
 Education
 ======
-* PhD in Data Intensive Science, University College London, 2022-2027
+* PhD in Data Intensive Science, University College London Centre for Doctoral Training in Data Intensive Science, 2022-2026
 
 * MSci Physics with Theoretical Physics, Imperial College London, 2017-2021, First Class Honours
   * MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
 
-Work experience
+Experience
 ======
-* 2022/09-present PhD student at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at Mullard Space Science Laboratory
+* 2023/05: Data Study Group Participant at The Alan Turing Institute
 
-* 2021/10-2022/08 Project collaborator at Yale Breast Medical Oncology Group
-  * Project on ways of measuring immune repertoire diversity
+* 2023/01-05: Work experience, CDT Group project at The Guardian
 
-* 2020/06-09 Research placement at Imperial College London Astrophysics Group
-  * Project on distance to the Large Magellanic Cloud and its implications for the Hubble Constant
+* 2021/10-2022/08: Project collaborator at Yale Breast Medical Oncology Group
 
-* 2019/06-09 Research placement at TU Berlin Nonlinear Dynamics and Control and Applied Dynamical Systems Groups
-  * Project on complex dynamics in nonlocal rings of adaptively coupled phase oscillators
+* 2020/06-09: Research placement at Imperial College London Astrophysics Group
+
+* 2019/06-09: Research placement at TU Berlin Nonlinear Dynamics and Control and Applied Dynamical Systems Groups
   
-Skills
-======
-* Probability and statistics
-* Bayesian estimation and inference
-* Markov Chain Monte Carlo methods
-* Quantitative analysis and data visualisation
-* Numerical simulations
-* Python: NumPy, SciPy, Matplotlib, emcee
-* Julia: project on the dynamics of adaptive networks of coupled phase oscillators
-* R: ggplot2, tidyverse, reshape, stats, immunarch
-* Object-oriented programming: computing laboratory; project on modelling hard-sphere gas behaviour in Python
-* Machine learning
-* Strong verbal and written skills: manuscripts, literature reviews, reports, presentations
-* Teamwork: group projects
-* Languages: Polish (Native), English (Fluent), Spanish (Intermediate), German (Basic)
 
 Awards and Accomplishments
 ======
