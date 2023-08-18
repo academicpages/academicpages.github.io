@@ -19,7 +19,7 @@ _. [Arxiv](https://arxiv.org/abs/2308.08274)
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Quadratic variation and quadratic roughness_. [Bernoulli 29 (1) 496 - 522, February 2023](https://projecteuclid.org/journals/bernoulli/volume-29/issue-1/Quadratic-variation-and-quadratic-roughness/10.3150/22-BEJ1466.full )
 
-* P. Das, [T. Parthasarathy](https://scholar.google.com/citations?user=CpvQD2wAAAAJ&hl=en), [G. Ravindran](). _On Completely Mixed Stochastic Games_. [Operations Research Forum volume 3, Article number: 57 (2022)](https://link.springer.com/article/10.1007/s43069-022-00150-y#:~:text=A%20stochastic%20game%20is%20said,played%20with%20strictly%20positive%20probabilities.)
+* P. Das, [T. Parthasarathy](https://scholar.google.com/citations?user=CpvQD2wAAAAJ&hl=en), [G. Ravindran](isichennai.res.in/~ravi/). _On Completely Mixed Stochastic Games_. [Operations Research Forum volume 3, Article number: 57 (2022)](https://link.springer.com/article/10.1007/s43069-022-00150-y#:~:text=A%20stochastic%20game%20is%20said,played%20with%20strictly%20positive%20probabilities.)
 
 * P. Das, [S. Das](https://www.cmi.ac.in/~sourish/), [A. Lahiri.](https://www.iittp.ac.in/dr-ananya-lahiri) _Understanding Sea Ice Melting via Functional Data Analysis_. [Current Science](https://www.jstor.org/stable/26978320?seq=1)
 
