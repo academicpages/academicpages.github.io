@@ -11,7 +11,7 @@ author_profile: true
 * P. Das, R. Łochowski, T. Matsuda, N. Perkowski _Level crossings of fractional Brownian motion
 _. [Arxiv](https://arxiv.org/abs/2308.08274)
 
-* E. Bayraktar, P. Das, D. Kim _Applications of Schauder-type basis:estimating H\"older exponent, fake fractional Brownian motion_. [Arxiv](https://arxiv.org/abs/2304.13794)
+* [E. Bayraktar](https://sites.lsa.umich.edu/erhan/), P. Das, [D. Kim](https://sites.google.com/view/donghan-kim) _Applications of Schauder-type basis:estimating H\"older exponent, fake fractional Brownian motion_. [Arxiv](https://arxiv.org/abs/2304.13794)
 
 * [R. Cont](http://rama.cont.perso.math.cnrs.fr/), P. Das. _Rough Volatility: Fact or Artefact?_. [Ssrn](https://ssrn.com/abstract=4065951 )
 
