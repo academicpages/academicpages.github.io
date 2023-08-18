@@ -34,7 +34,7 @@ redirect_from:
 
 
 <div class="image-container">
-  <img src="imece2022.jpg" alt="Your Image">
+  <img src="imece2022.jpg" style='width: 10%; height: auto;'>
   <div class="text-container">
 - 🔭 I’m currently a PhD student in Mechanical Engineering @ [University of Beira Interior](https://www.ubi.pt/) (Portugal)
 - 🌱 Working in Computational Fluid Dynamics (CFD) for Study the Whipping and Atomization of Electrohydrodynamic Liquid Jets. Have a look...
