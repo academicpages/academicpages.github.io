@@ -10,7 +10,7 @@ author_profile: true
 
 Instructor: [Ismini Lourentzou](https://isminoula.github.io/)
 
-Meeting time: Tuesdays and Thursdays, 9:30-10:45am EST, Derring Hall 1076
+Meeting time: Tuesdays and Thursdays, 9:30-10:45am EST, McBryde Hall 232 	
 
 Office hours:  TBD
 
