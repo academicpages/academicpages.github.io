@@ -15,7 +15,7 @@ Projects
 ======
 [harmonic](https://github.com/astro-informatics/harmonic) 
 ------
-harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator (McEwen et al. 2021) to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability.
+harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator (McEwen et al. 2021) to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2307.00048).
 
 
 [S2WAV: Differentiable and accelerated spherical wavelets with JAX](https://github.com/astro-informatics/s2wav) 
