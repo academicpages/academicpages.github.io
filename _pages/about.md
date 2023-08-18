@@ -12,34 +12,13 @@ redirect_from:
     .container {
       text-align: center;
     }
-
-      .image-container {
-    display: flex;
-    align-items: center;
-  }
-
-  .image-container img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  .text-container {
-    padding: 20px;
-  }
   </style>
 
 ## Hi there, I'm Sílvio Cândido 👋 This is my personal webpage
 
 
-
-
-<div class="image-container">
-  <img src="imece2022.jpg" style='width: 10%; height: auto;'>
-  <div class="text-container">
 - 🔭 I’m currently a PhD student in Mechanical Engineering @ [University of Beira Interior](https://www.ubi.pt/) (Portugal)
 - 🌱 Working in Computational Fluid Dynamics (CFD) for Study the Whipping and Atomization of Electrohydrodynamic Liquid Jets. Have a look...
-  </div>
-</div>
 
 <br/> <img src='/images/s118.png' style='width: 100%; height: auto;'>
 
@@ -80,7 +59,6 @@ redirect_from:
 - Volunteer of Refood Covilhã, Covilhã, Portugal (2019-present)
 - Tutor at STEAM junior academy at AJSTEAM UBI, Covilhã, Portugal (March 2023)
 - Conference Session Co-Chair at Conference IMECE2021 by ASME in the USA for Aerodynamics & Novel Aerospace Propulsion Systems topic (November 2021)
-
 
 
 
