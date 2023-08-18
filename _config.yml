@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=fokSJbwAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Alicja-Polanska"
+  researchgate     : #"https://www.researchgate.net/profile/Alicja-Polanska"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "alicja-polanska"
-  orcid            : "https://orcid.org/0000-0002-9544-3175"
+  orcid            : #"https://orcid.org/0000-0002-9544-3175"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
