@@ -11,7 +11,7 @@ tags:
 Cyber Security Datasets and Code
 ======
 
-Data is important for developing AI/ML solutions to cyber problems. There have been numerous posts, technical reports, and articles on cyber datasets. They seem to get outdated very quickly and often focus on specific niche areas. You can find these in the reference lists. In this rather long technical note, I aim to provide a review of the current datasets for the training and evaluation of deep learning models in cybersecurity. Where possible, I also provide a link to the python code that we use to process the data so that anyone can start training model on the clean data straight away.
+Data is important for developing AI/ML solutions to cyber problems. There have been numerous posts, technical reports, and articles on cyber datasets. They seem to get outdated very quickly and often focus on specific niche areas. You can find these in the reference lists. In this rather long technical note, I aim to provide a review of the current datasets for the training and evaluation of deep learning models in cybersecurity. Where possible, I also provide a link to the python code that we use to process the data so that others can start training models on the clean data.
 
 
 Summary
