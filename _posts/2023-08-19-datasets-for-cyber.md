@@ -815,12 +815,9 @@ References
 ======
 
 1. T.<a name="_page22_x85.04_y153.30"></a> Bai, H. Bian, A. Abou Daya, M. A. Salahuddin, N. Limam, and R. Boutaba, “A machine learning approach for rdp-based lateral movement detection,” in 2019 IEEE 44th Conference on Local Computer Networks (LCN). IEEE, 2019, pp. 242–245.
-1. B.<a name="_page22_x85.04_y199.63"></a> Bowman, C. Laprade, Y. Ji, and H. H. Huang, “Detecting lateral movement in enterprise computer networks with unsupervised graph {AI},” in 23rd International Symposium on Research in Attacks, Intrusions and Defenses ({RAID} 2020), 2020, pp. 257–268.
-1. C.<a name="_page22_x85.04_y243.47"></a> Laprade, B. Bowman, and H. H. Huang. PicoDomain. Accessed Nov. 29, 2021. [Online]. Available: <https://github.com/iHeartGraph/PicoDomain>
-1. T.<a name="_page22_x85.04_y275.35"></a> Cochrane, P. Foster, V. Chhabra, M. Lemercier, C. Salvi, and T. Lyons, “Sk-tree: a system-
-
-atic malware detection algorithm on streaming trees via the signature kernel,” arXiv preprint arXiv:2102.07904, 2021.
-
+2. B.<a name="_page22_x85.04_y199.63"></a> Bowman, C. Laprade, Y. Ji, and H. H. Huang, “Detecting lateral movement in enterprise computer networks with unsupervised graph {AI},” in 23rd International Symposium on Research in Attacks, Intrusions and Defenses ({RAID} 2020), 2020, pp. 257–268.
+3. C.<a name="_page22_x85.04_y243.47"></a> Laprade, B. Bowman, and H. H. Huang. PicoDomain. Accessed Nov. 29, 2021. [Online]. Available: <https://github.com/iHeartGraph/PicoDomain>
+4. T.<a name="_page22_x85.04_y275.35"></a> Cochrane, P. Foster, V. Chhabra, M. Lemercier, C. Salvi, and T. Lyons, “Sk-tree: a systematic malware detection algorithm on streaming trees via the signature kernel,” arXiv preprint arXiv:2102.07904, 2021.
 5. A.<a name="_page22_x85.04_y318.63"></a> Golczynski and J. A. Emanuello, “End-to-end anomaly detection for identifying malicious cyber behavior through nlp-based log embeddings,” arXiv preprint arXiv:2108.12276, 2021.
 5. A.<a name="_page22_x85.04_y350.51"></a> H. Lashkari, G. Draper-Gil, M. S. I. Mamun, and A. A. Ghorbani, “Characterization of tor traffic using time based features.” in ICISSp, 2017, pp. 253–262.
 5. S.<a name="_page22_x85.04_y382.39"></a> Lei, C. Xia, and T. Wang, “Lchi: Low-order correlation and high-order interaction integrated model oriented to network intrusion detection,” Wireless Communications and Mobile Computing, vol. 2021, 2021.
@@ -838,9 +835,7 @@ atic malware detection algorithm on streaming trees via the signature kernel,”
 16. V.<a name="_page23_x85.04_y160.25"></a> Dutta, M. Chora´s, M. Pawlicki, and R. Kozik, “A deep learning ensemble for network anomaly and cyber-attack detection,” Sensors, vol. 20, no. 16, p. 4583, 2020.
 16. G.<a name="_page23_x85.04_y192.13"></a> Guo, “A machine learning framework for intrusion detection system in iot networks using an en- semble feature selection method,” in 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON). IEEE, 2021, pp. 0593–0599.
 16. M.<a name="_page23_x85.04_y236.52"></a> Ge, X. Fu, N. Syed, Z. Baig, G. Teo, and A. Robles-Kelly, “Deep learning-based intrusion de- tection for iot networks,” in 2019 IEEE 24th Pacific Rim International Symposium on Dependable Computing (PRDC). IEEE, 2019, pp. 256–25609.
-16. A.<a name="_page23_x85.04_y280.35"></a> Harilal, F. Toffalini, J. Castellanos, J. Guarnizo, I. Homoliak, and M. Ochoa, “Twos: A dataset
-
-of malicious insider threat behavior based on a gamified competition,” in Proceedings of the 2017 International Workshop on Managing Insider Security Threats, 2017, pp. 45–56.
+16. A.<a name="_page23_x85.04_y280.35"></a> Harilal, F. Toffalini, J. Castellanos, J. Guarnizo, I. Homoliak, and M. Ochoa, “Twos: A dataset of malicious insider threat behavior based on a gamified competition,” in Proceedings of the 2017 International Workshop on Managing Insider Security Threats, 2017, pp. 45–56.
 
 23. D.<a name="_page23_x85.04_y323.64"></a> C. Le and N. Zincir-Heywood, “Anomaly detection for insider threats using unsupervised ensembles,” IEEE Transactions on Network and Service Management, vol. 18, no. 2, pp. 1152– 1164, 2021.
 23. J.<a name="_page23_x85.04_y367.47"></a> Glasser and B. Lindauer, “Bridging the gap: A pragmatic approach to generating insider threat data,” in 2013 IEEE Security and Privacy Workshops. IEEE, 2013, pp. 98–104.
