@@ -1,5 +1,5 @@
 ---
-title: 'Datasets for cyber-AI'
+title: 'Cyber Security Datasets'
 date: 2023-08-19
 permalink: /posts/2023/08/datasets/
 tags:
@@ -8,7 +8,7 @@ tags:
   - machine learning
 ---
 
-Cyber Security Datasets and Their AI/ML Applications - A Review
+Cyber Security Datasets and Code
 ======
 
 Data is important for machine learning models. Data is extremely  important for developing AI/ML solutions to cyber problems. There have been numerous posts, technical reports, and articles on cyber datasets. They seem to get outdated very quickly and often focus on specific niche areas. You can find these in the reference lists. This post aims to provide a review of the current datasets for the training and evaluation of deep learning models in cybersecurity. 
