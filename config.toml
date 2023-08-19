@@ -1,0 +1,94 @@
+# The theme of the site
+theme = "zola-academic"
+
+
+# The title of the site
+title = "Andrew Saydjari"
+
+# The URL the site will be built for
+base_url = "/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[extra]
+# Put all your custom variables here
+
+# Author of the page
+author = "Andrew Saydjari"
+
+# Role of the author
+role = "Graduate Student"
+
+# Organizations of the author
+organizations = [ { name = "Harvard" } ]
+
+# Whether the navbar should be screen wide or page wide
+wide_navbar = false
+
+# Url of your profile pic
+# You should put your portrait in the static directory.
+portrait = "/static/img/portrait.png"
+
+# The links you want to put on the left of the navbar
+menu_left = [
+]
+
+# The links you want to put on the right of the navbar
+menu_right = [
+    { name = "Education", link = "education" },
+    { name = "Gallery", link = "gallery" },
+]
+
+# Social icons that will appear under your profile box
+social_icons = [
+{icon="fa-envelope", icon_pack="fa", link="mailto:andrew.saydjari@cfa.harvard.edu"},
+{icon="fa-github", icon_pack="fab", link="https://github.com/andrew-saydjari"},
+{icon="ai-arxiv", icon_pack="ai", link="https://arxiv.org/search/?query=Saydjari%2C+A&searchtype=author&abstracts=show&order=-announced_date_first&size=200"},
+{icon="ai-google-scholar", icon_pack="ai", link="https://scholar.google.com/citations?user=IUvt0zoAAAAJ&hl=en"},
+#{icon="ai-zenodo", icon_pack="ai", link="https://zenodo.org/search?page=1&size=20&q=creators.orcid:0000-0002-6561-9002"},
+{icon="ai-orcid", icon_pack="ai", link="https://orcid.org/0000-0002-6561-9002"},
+]
+
+# Summary at the top
+summary = [
+{icon="ai-cv", icon_pack="ai", text="The most recent version of my CV", link="files/CV_saydjari.pdf", fontsize="18px", iconsize="30px"},
+{icon="ai-ads", icon_pack="ai", text="The most current list of my publications", link="https://ui.adsabs.harvard.edu/search/filter_doctype_facet_hier_fq_doctype=AND&filter_doctype_facet_hier_fq_doctype=doctype_facet_hier%3A%220%2FArticle%22&fq=%7B!type%3Daqp%20v%3D%24fq_doctype%7D&fq_doctype=(doctype_facet_hier%3A%220%2FArticle%22)&p_=0&q=%20author%3A%22saydjari%2C%20andrew%22&sort=date%20desc%2C%20bibcode%20desc", fontsize="18px", iconsize="30px"},
+]
+
+# Your interests
+interests = [
+    { label = "Astrostatistics"},
+    { label = "Interstellar Dust"},
+    { label = "Blind Source Separation"},
+    { label = "Low Rank Methods"},
+    { label = "Julia", link = "https://julialang.org/" },
+]
+
+# Your diplomas
+education = [
+{course = "PhD in Physics", institution = "Harvard", year = 2024},
+{course = "BSc/MSc in Chemistry", institution = "Yale", year = 2018},
+{course = "BSc in Math", institution = "Yale", year = 2018},
+]
+
+# Disable the footer
+disable_footer = true
+
+# Widgets to show on main page
+show_publications = true
+show_posts = false
+show_projects = false
+
+# Choose your colorscheme among those
+#colorscheme = "default"
+colorscheme = "ocean"
+#colorscheme = "forest"
+

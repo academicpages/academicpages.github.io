@@ -1,0 +1,49 @@
+# On every push this script is executed
+on: push
+
+name: build
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: deploy
+        run: |
+          # Install zola
+          curl -s -L https://github.com/getzola/zola/releases/download/v0.14.1/zola-v0.14.1-x86_64-unknown-linux-gnu.tar.gz | sudo tar xvzf - -C /usr/local/bin
+
+          # Prepare git
+          git config --global init.defaultBranch master
+          git config --global user.email "thomas@forgione.fr"
+          git config --global user.name "Thomas Forgione"
+
+          # Build example site
+          tempdir=$(mktemp -d)
+          cp -r content static README.md $tempdir
+          echo -e "# The theme of the site\ntheme = \"zola-academic\"\n\n" > $tempdir/config.toml
+          echo -e "public\nstatic/processed_images" > $tempdir/.gitignore
+          cat config.toml >> $tempdir/config.toml
+          cd $tempdir
+          git init
+          git submodule init
+          git submodule add https://github.com/zola-academic/zola-academic themes/zola-academic
+          git remote add origin https://tforgione:$TOKEN@github.com/zola-academic/zola-academic-example
+          git add .
+          git commit -m "Deployment from github actions"
+          git push -f --set-upstream origin master
+
+          # Build example site
+          zola build -u https://zola-academic.github.io
+          cd public
+          git init
+          git add .
+          git commit -m "Deployment from github actions"
+          git remote add origin https://tforgione:$TOKEN@github.com/zola-academic/zola-academic.github.io
+          git push -f --set-upstream origin master
+
+        env:
+          # Target branch
+          PAGES_BRANCH: gh-pages
+          # Provide personal access token
+          TOKEN: ${{ secrets.TOKEN }}

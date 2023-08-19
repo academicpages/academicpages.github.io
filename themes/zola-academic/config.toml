@@ -1,0 +1,90 @@
+# The title of the site
+title = "My Academic Page"
+
+# The URL the site will be built for
+base_url = "/"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+[extra]
+# Put all your custom variables here
+
+# Author of the page
+author = "John Doe"
+
+# Role of the author
+role = "Professor in something"
+
+# Organizations of the author
+organizations = [ { name = "Some place, somewhere" } ]
+
+# Whether the navbar should be screen wide or page wide
+wide_navbar = false
+
+# Url of your profile pic
+# You should put your portrait in the static directory.
+portrait = "/static/img/portrait.jpg"
+
+# The links you want to put on the left of the navbar
+menu_left = [
+]
+
+# The links you want to put on the right of the navbar
+menu_right = [
+    { name = "Projects", link = "/#projects" },
+    { name = "Posts", link = "/#posts" },
+    { name = "Publications", link = "/#publications" },
+    { name = "Contact", link = "/#contact" }
+]
+
+# Social icons that will appear under your profile box
+social_icons = [
+{icon="fa-envelope", icon_pack="fa", link="mailto:someone@example.com"},
+{icon="ai-google-scholar", icon_pack="ai", link="https://scholar.google.fr/"},
+{icon="fa-github", icon_pack="fab", link="https://github.com/tforgione/zola-academic" },
+]
+
+# Your interests
+interests = [
+    { label = "Rust", link = "https://www.rust-lang.org/" },
+    { label = "Zola", link = "https://www.getzola.org/" },
+    { label = "Zola Academic", link = "https://github.com/zola-academic/zola-academic" }
+]
+
+# Your diplomas
+education = [
+{course = "PhD in something", institution = "Somewhere, city, country", year = 2020},
+{course = "Engineer in something", institution = "Somewhere, city, country", year = 2010},
+]
+
+# The ways people can contact you
+contact_links = [
+  {icon="fa-envelope", icon_pack="fa", name = "Email me", link="mailto:email@example.com"},
+  {icon = "fa-twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+  {icon = "fa-skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  {icon = "fa-keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "fa-comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://zola.discourse.group/"},
+  {icon = "fa-discord", icon_pack = "fab", name = "John Doe #9999"},
+]
+
+# Disable the footer
+disable_footer = false
+
+# Widgets to show on main page
+show_publications = true
+show_posts = true
+show_projects = true
+
+# Choose your colorscheme among those
+# colorscheme = "default"
+colorscheme = "ocean"
+# colorscheme = "forest"
+

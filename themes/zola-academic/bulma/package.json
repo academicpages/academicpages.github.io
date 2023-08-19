@@ -1,0 +1,82 @@
+{
+  "_from": "bulma@0.9.3",
+  "_id": "bulma@0.9.3",
+  "_inBundle": false,
+  "_integrity": "sha512-0d7GNW1PY4ud8TWxdNcP6Cc8Bu7MxcntD/RRLGWuiw/s0a9P+XlH/6QoOIrmbj6o8WWJzJYhytiu9nFjTszk1g==",
+  "_location": "/bulma",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "bulma@0.9.3",
+    "name": "bulma",
+    "escapedName": "bulma",
+    "rawSpec": "0.9.3",
+    "saveSpec": null,
+    "fetchSpec": "0.9.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/bulma/-/bulma-0.9.3.tgz",
+  "_shasum": "ddccb7436ebe3e21bf47afe01d3c43a296b70243",
+  "_spec": "bulma@0.9.3",
+  "_where": "/Users/jthomas/Desktop",
+  "author": {
+    "name": "Jeremy Thomas",
+    "email": "bbxdesign@gmail.com",
+    "url": "https://jgthms.com"
+  },
+  "bugs": {
+    "url": "https://github.com/jgthms/bulma/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Modern CSS framework based on Flexbox",
+  "devDependencies": {
+    "autoprefixer": "^9.8.6",
+    "clean-css-cli": "^4.3.0",
+    "node-sass": "^4.14.1",
+    "postcss-cli": "^7.1.2",
+    "rimraf": "^3.0.2"
+  },
+  "files": [
+    "css",
+    "sass",
+    "bulma.sass",
+    "LICENSE",
+    "README.md"
+  ],
+  "homepage": "https://bulma.io",
+  "keywords": [
+    "css",
+    "sass",
+    "flexbox",
+    "responsive",
+    "framework"
+  ],
+  "license": "MIT",
+  "main": "bulma.sass",
+  "name": "bulma",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgthms/bulma.git"
+  },
+  "scripts": {
+    "build": "npm run build-sass && npm run build-autoprefix && npm run build-cleancss",
+    "build-autoprefix": "postcss --use autoprefixer --map false --output css/bulma.css css/bulma.css",
+    "build-cleancss": "cleancss -o css/bulma.min.css css/bulma.css",
+    "build-sass": "node-sass --output-style expanded --source-map true bulma.sass css/bulma.css",
+    "clean": "rimraf css",
+    "deploy": "npm run clean && npm run build && npm run rtl",
+    "rtl": "npm run rtl-sass && npm run rtl-autoprefix && npm run rtl-cleancss",
+    "rtl-autoprefix": "postcss --use autoprefixer --map false --output css/bulma-rtl.css css/bulma-rtl.css",
+    "rtl-cleancss": "cleancss -o css/bulma-rtl.min.css css/bulma-rtl.css",
+    "rtl-sass": "node-sass --output-style expanded --source-map true bulma-rtl.sass css/bulma-rtl.css",
+    "start": "npm run build-sass -- --watch"
+  },
+  "style": "bulma/css/bulma.min.css",
+  "unpkg": "css/bulma.css",
+  "version": "0.9.3"
+}

@@ -1,0 +1,63 @@
+@charset "utf-8"
+
+$black:        hsl(0, 0%, 4%) !default
+$black-bis:    hsl(0, 0%, 7%) !default
+$black-ter:    hsl(0, 0%, 14%) !default
+
+$grey-darker:  hsl(0, 0%, 21%) !default
+$grey-dark:    hsl(0, 0%, 29%) !default
+$grey:         hsl(0, 0%, 48%) !default
+$grey-light:   hsl(0, 0%, 71%) !default
+$grey-lighter: hsl(0, 0%, 86%) !default
+
+$white-ter:    hsl(0, 0%, 96%) !default
+$white-bis:    hsl(0, 0%, 98%) !default
+$white:        hsl(0, 0%, 100%) !default
+
+$orange:       hsl(14,  100%, 53%) !default
+$yellow:       hsl(48,  100%, 67%) !default
+$green:        hsl(141, 71%,  48%) !default
+$turquoise:    hsl(171, 100%, 41%) !default
+$cyan:         hsl(204, 86%,  53%) !default
+$blue:         hsl(217, 71%,  53%) !default
+$purple:       hsl(271, 100%, 71%) !default
+$red:          hsl(348, 100%, 61%) !default
+
+$dimensions: 16 24 32 48 64 96 128 192
+
+@import "../bulma/bulma.sass"
+
+.no-bullets
+  li
+    list-style-type: none
+
+.caption-container
+  position: relative
+
+.img-captioned
+  width: 100%
+  vertical-align: top
+
+.caption
+  position: absolute
+  padding: 0.5em 1em
+  bottom: 0px
+  right: 0px
+  color: white
+  background: black
+  opacity: 0.7
+  border-radius: 0.5em 0em 0em 0em
+
+.navbar-shadow
+  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11)
+
+html, body
+  min-height: 100vh
+  display: flex
+  flex-direction: column
+
+body > footer
+  margin-top: auto
+
+.has-background-dark a:hover
+  color: $light

@@ -1,0 +1,26 @@
+name = "zola-academic"
+description = "An academic theme inspired by Hugo-Academic"
+license = "MIT"
+homepage = "https://github.com/tforgione/zola-academic"
+# The minimum version of Zola required
+min_version = "0.4.0"
+# An optional live demo URL
+demo = "https://tforgione.fr"
+
+# Any variable there can be overriden in the end user `config.toml`
+# You don't need to prefix variables by the theme name but as this will
+# be merged with user data, some kind of prefix or nesting is preferable
+# Use snake_casing to be consistent with the rest of Zola
+[extra]
+
+# The theme author info: you!
+[author]
+name = "Thomas Forgione"
+homepage = "thomas@forgione.fr"
+
+# If this is porting a theme from another static site engine, provide
+# the info of the original author here
+[original]
+author = "gcushen"
+homepage = "https://sourcethemes.com/academic/"
+repo = "https://github.com/gcushen/hugo-academic"

@@ -1,0 +1,187 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% import "colors.html" as colors %}
+{% block content %}
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            <div class="column is-10 is-offset-1">
+                <div class="columns is-desktop">
+                    <div class="column is-one-third-desktop">
+                        <div class="box has-text-centered">
+                            <figure class="image is-192x192 is-centered is-inline-block">
+                                {% set img = resize_image(path="../" ~ config.extra.portrait, width=384, height=384) %}
+                                <img class="is-rounded" src="{{ img.url | safe }}">
+                            </figure>
+                            <div class="is-size-3 content"><strong>{{ config.extra.author }}</strong></div>
+                            <div class="is-size-5">{{ config.extra.role }}</div>
+                            {% for organization in config.extra.organizations %}
+                            <div class="is-size-5 content">{{ organization.name }}</div>
+                            {% endfor %}
+                            <div class="content">
+                                {% for icon in config.extra.social_icons %}
+                                <a class="icon is-large fa-3x" href="{{icon.link | safe }}">
+                                    <i class="has-text-{{ colors::style() }} {{icon.icon_pack}} {{ icon.icon }}"></i>
+                                </a>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                    <div class="column is-two-thirds-desktop">
+                        <div class="content">
+                            {% for page in section.pages %}
+                            {% if page.relative_path == "about.md" %}
+                            <h1>{{ page.title }}</h1>
+                            <div class="columns">
+                                <div class="column is-10 content">
+                                    <h4>TL;DR</h4>
+                                    <ul class="no-bullets">
+                                        {% for summary in config.extra.summary %}
+                                            <li><a href="{{ summary.link }}" style="font-size: {{ summary.iconsize }};"><i class="{{ summary.icon_pack }} {{ summary.icon }}"></i></a> <span style="font-size: {{ summary.fontsize }};"> {{ summary.text }}</span></li>
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            </div>
+                            {{ page.content | safe }}
+                            {% endif %}
+                            {% endfor %}
+                        </div>
+                        <div class="columns">
+                            <div class="column is-5 content">
+                                <h4>Interests</h4>
+                                <ul>
+                                    {% for interest in config.extra.interests %}
+                                    {% if interest.link %}
+                                    <li><a href="{{ interest.link | safe }}">{{ interest.label }}</a></li>
+                                    {% else %}
+                                    <li>{{ interest.label }}</li>
+                                    {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            <div class="column is-7 content">
+                                <h4>Education</h4>
+                                {% for education in config.extra.education %}
+                                    <div class="columns is-mobile">
+                                        <span class="icon is-medium column is-narrow is-mobile">
+                                            <i class="fas fa-graduation-cap"></i>
+                                        </span>
+                                        <span class="column">
+                                            <strong>{{ education.year }}</strong> {{ education.institution }}<br/>
+                                            <span class="has-text-grey">{{ education.course }}</span>
+                                        </span>
+                                    </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            <div class="content">
+                {% for page in section.pages %}
+                {% if page.relative_path == "projectExamples.md" %}
+                <h1>{{ page.title }}</h1>
+                {{ page.content | safe }}
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>
+            
+
+
+{% if config.extra.show_publications %}
+{% set publications = get_section(path="publications/_index.md") %}
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            <div class="column is-one-third-desktop">
+                <h1 class="title is-1" id="publications">
+                    <a class="has-text-{{ colors::style() }}" href="{{ get_url(path='publications') | safe }}">
+                        {{ publications.title }}
+                    </a>
+                </h1>
+                {% if publications.description %}
+                    <h4 class="title is-4">{{ publications.description }}</h4>
+                {% endif %}
+            </div>
+            <ul class="column is-two-thirds-desktop">
+                {% for publication_path in publications.pages %}
+                <li class="content">
+                    {% set publication = get_page(path=publication_path.relative_path) %}
+                    {{ macros::post_header(post=publication, thumbnail=true) }}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% if config.extra.show_posts %}
+{% set posts = get_section(path="posts/_index.md") %}
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            <div class="column is-one-third-desktop">
+                <h1 class="title is-1" id="posts">
+                    <a class="has-text-{{ colors::style() }}" href="{{ get_url(path='posts') | safe }}">
+                        {{ posts.title }}
+                    </a>
+                </h1>
+                {% if posts.description %}
+                    <h4 class="title is-4">{{ posts.description }}</h4>
+                {% endif %}
+            </div>
+            <ul class="column is-two-thirds-desktop">
+                {% for post_path in posts.pages %}
+                <li class="content">
+                    {% set post = get_page(path=post_path.relative_path) %}
+                    {{ macros::post_header(post=post, thumbnail=true) }}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% if config.extra.show_projects %}
+{% set projects = get_section(path="projects/_index.md") %}
+<section class="section">
+    <div class="container">
+        <div class="columns is-desktop">
+            <div class="column is-one-third-desktop">
+                <h1 class="title is-1" id="projects">
+                    <a class="has-text-{{ colors::style() }}" href="{{ get_url(path='projects') | safe }}">
+                       {{ projects.title }}
+                    </a>
+                </h1>
+                {% if projects.description %}
+                    <h4 class="title is-4">{{ projects.description }}</h4>
+                {% endif %}
+            </div>
+            <ul class="column is-two-thirds-desktop">
+                <div class="columns is-multiline is-desktop">
+                    {% for project_path in projects.pages %}
+                        <li class="content column is-one-third">
+                            {% set project = get_page(path=project_path.relative_path) %}
+                            {{ macros::project_header(project=project) }}
+                        </li>
+                    {% endfor %}
+                </div>
+            </ul>
+        </div>
+    </div>
+</section>
+{% endif %}
+
+{% endblock content %}

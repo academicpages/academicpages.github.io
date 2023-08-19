@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+{% block content %}
+<section class="section">
+    <div class="container">
+        <h1 class="title is-1">{{ section.title }}</h1>
+        <ul class="content">
+            {% for post_path in section.pages %}
+            {% set post = get_page(path=post_path.relative_path) %}
+            <li class="content">{{ macros::post_header(post=post, thumbnail=true) }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</section>
+{% endblock content %}
