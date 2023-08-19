@@ -13,6 +13,53 @@ Cyber Security Datasets and Their AI/ML Applications - A Review
 
 Data is important for machine learning models. Data is extremely  important for developing AI/ML solutions to cyber problems. There have been numerous posts, technical reports, and articles on cyber datasets. They seem to get outdated very quickly and often focus on specific niche areas. You can find these in the reference lists. This post aims to provide a review of the current datasets for the training and evaluation of deep learning models in cybersecurity. 
 
+
+Summary
+======
+
+| Dataset                      | Year | URL                              | Record Data        | Availability     | Security Problem     | Realistic         | Num. Citation | Labels |
+|------------------------------|------|----------------------------------|--------------------|------------------|----------------------|-------------------|---------------|--------|
+| ISP data                     |      | \cite{ispdataset}                | Flow               | Partially Public | N/A                  | Real              | N/A           | N      |
+| % UNB datasets               |      | \cite{unbdataset}                |                    |                  |                      |                   |               |        |
+| % Firewalls data             |      | \cite{firewalldataset}           |                    |                  |                      |                   |               |        |
+| UNSW NB15                    |      | \cite{UNSWNBdataset}             | Packet and Flow    | Public           | Worm/DDos/Recon      | Semi-Synthetic    | 1080          | Y      |
+| MAWI                         |      | \cite{mawidataset}               | Packet             | Public           | N/A                  | Real              | 284 (*)       | N      |
+| CAIDA                        |      | \cite{caidadataset}              | Packet             | Partially Public | DDos/Worm            | Real              | N/A           | N      |
+| UHN (LANL)                   | 2018 | \cite{lanldataset}               | Flow, Host Log     | Public           | N/A                  | Real              | 83            | N      |
+| CMSCSE (LANL)                | 2015 | \cite{lanldataset}               | Flow, Host Log     | Public           | APT-style attack     | Semi-Synthetic    | 84            | Y(**)  |
+| PicoDomain                   | 2020 | \cite{picodomaindataset}         | Flows (Zeek log)   | Public           | APT-style attack     | Synthetic         | 1             | Y (**) |
+| TWOS                         |      | \cite{twodataset}                | Logs               | On Request       | Insider Threat       | Synthetic         | 45            | Y      |
+| CMU-CERT                     |      | \cite{CERTdataset}               | Logs               | Public           | Insider Threat       | Synthetic         | 181           | Y(**)  |
+| DAPT                         | 2020 | \cite{dapt20dataset}             | Flow               | Public           | APT Style attack     | Synthetic         | 5             | Y      |
+| DARPA opTC                   | 2021 | \cite{darpaoptcdataset}          | Logs               | Public           | APT Style Attack     | Synthetic         | 3             | Y(**)  |
+| UGR'16                       | 2016 | \cite{ugr2016dataset}            | Flow               | Public           | Dos/PS/Botnet        | Semi-Synthetic    | 113           | Y      |
+| Malware training datasets    | 2016 | \cite{malwaretrainingdataset}    | Log                | Public           | Malware              | Synthetic         | 13            | NA     |
+| CTU-13                       | 2011 | \cite{ctu13dataset}              | Packet and Flow    | public           | Botnet               | Synthetic         | 512           | Y      |
+| IoT-23                       | 2020 | \cite{botiotdataset}             | Flows (Zeek log)   | Public           | IoT related          | Synthetic         | 39            | Y      |
+| ToN-IoT                      | 2021 | \cite{moustafa2021new}           | Packet/Flow/Logs   | Public           | IoT related          | Synthetic         | 12            | Y      |
+| Bot-IoT                      | 2018 | \cite{iot23dataset}              | Packet and Flows   | Public           | Botnet               | Synthetic         | 332           | Y      |
+| EMBER-Malware                |      | \cite{emberdataset}              | PE file (Log??)    | Public           | Malware              | Synthetic         | 143           | Y      |
+| SUEE                         | 2017 | \cite{sueedataset}               | Packet             | Public           | DoS (Slowloris-ng)   | Synthetic         | NA            | Y      |
+| CSE-CIC-IDS-2018             | 2018 | \cite{sharafaldin2018toward}     | Flow               | Public           | Network-Related      | Synthetic         | 1257          | Y      |
+| CICDDoS2019                  | 2019 | \cite{sharafaldin2019developing} | Flow               | Public           | Network-Related      | Synthetic         | 170           | Y      |
+| USB-IDS                      | 2021 | \cite{usbidsdataset}             | Flow               | Public           | DoS/DDoS             | Synthetic         | 1             | Y      |
+| BETH                         | 2021 | \cite{bethdataset}               | Log (kernel-level) | Partially Public | Botnet               | Real (Honeypot)   | NA            | Y(***) |
+| KitSune                      | 2018 | \cite{kitsunedataset}            | Packet             | Public           | IoT related          | Synthetic         | 369           | Y      |
+| KDDCup/NSL-KDD               | 1999 | \cite{kddcupdataset}             | Packet             | Public           | DoS/Probe/R2L/U2R    | Synthetic         | NA            | Y      |
+| % Malware training exercises | 2016 | \cite{malwaretrafficdataset}     |                    |                  | Malware              |                   |               |        |
+| Sherlock                     |      | \cite{sherlockdataset}           | Log                | Public           | Malware (Smartphone) | Semi-Synthetic    | 52            | Y      |
+| SABU IDS Alerts              | 2019 | \cite{sabudataset}               |                    | Public           | Many                 | Real (Anonymised) | 4             | NA     |
+| % Another Warden IDS Alerts  | 2021 | \cite{wardendataset}             |                    |                  |                      |                   |               |        |
+| Shell Command Logs           | 2021 | \cite{shelldataset}              | Logs               | Public           | Many                 | Synthetic         | 0             | NA     |
+| Hornet 40 (Honeypots data)   | 2021 | \cite{hornetdataset}             | Flow               | Public           | Not Specified        | Real (Honeypot)   | 0             | NA     |
+| Security dataset (Mordor)    | 2019 | \cite{mordordataset}             | Logs               | Public           | APT Style Attack     | Synthetic         | NA            | NA     |
+
+
+Note (\*\*): not directly label on the dataset, but supply a file with ground true malicious activities
+
+\* List of datasets containing lateral movement activities: Unified Host and Network Data Set (LANL) Comprehensive, Multi-Source Cyber-Security Events (LANL) PicoDomain DARPA opTC DAPT-2020 Security dataset (Mordor) repository APTGen
+
+
 APT Style Datasets
 ======
 ## Unified Host and Network Data Set (LANL)
@@ -435,343 +482,337 @@ Chkirbene et al. [[27\] ](#_page23_x85.04_y475.07)achieved accuracy and F1 score
 
 ### Can it be used for to train neural networks - such as GCN?
 
-Attack technique is simulated at the network level which is well-labelled on the flow level based on the attack technique type. The dataset was provided along with the feature-rich flow data, the data have been used to train the Neural Network models for the anomaly detection models.
+The attack technique is simulated at the network level which is well-labelled on the flow level based on the attack technique type. The dataset was provided along with the feature-rich flow data, the data have been used to train the Neural Network models for the anomaly detection models.
 
 ## CAIDA
-1) When it was created This dataset is proposed by the Center of Applied Internet Data Analysis, which contains different datasets, including, CAIDA DDOS, CAIDA Worm, and RSDoS Attack Metadata (2018-09).
+### When it was created 
+This dataset is proposed by the Center of Applied Internet Data Analysis, which contains different datasets, including, CAIDA DDOS, CAIDA Worm, and RSDoS Attack Metadata (2018-09).
 
-   2) How it was created
+### How it was created
 
-The CAIDA dataset include a collection of network traffic monitored by the UCSD Network Tele- scope. The UCSD Network Telescope is a passive traffic monitoring system built on a globally routed, but lightly utilized /8 network. The data observe traffic targeting the dark (unused) address-space of the network, or Internet Background Radiation (IBR).
+The CAIDA dataset includes a collection of network traffic monitored by the UCSD Network Telescope. The UCSD Network Telescope is a passive traffic monitoring system built on a globally routed, but lightly utilized /8 network. The data observe traffic targeting the dark (unused) address space of the network, or Internet Background Radiation (IBR).
 
-3) What is in the dataset?
-3) What type of security problems it focuses on?
+### What is in the dataset?
+### What type of security problems it focuses on?
 
-Since monitoring traffic to unused address space, the dataset contain vastly real malicious traffic data with possible network attack including Ddos from back-scatter resulted from spoofed source, random scanning of internet attacker, malware, virus and worm. Traffic data from the misconfiguration of IP address of normal users also monitored in the dataset. This dataset not contain traffic of normal users (no benign data-sample).
+Since monitoring traffic to unused address space, the dataset contains vastly real malicious traffic data with possible network attacks including Ddos from back-scatter resulting from spoofed sources, random scanning of internet attackers, malware, virus, and worm. Traffic data from the misconfiguration of IP addresses of normal users also monitored in the dataset. This dataset does not contain traffic of normal users (no benign data sample).
 
-5) Who has been using it?
-30. use CAIDA DDoS 2007 along with DARPA 1998 and UIDS DDoS dataset to evaluate their
+### Who has been using it?
+Authors in [30] use CAIDA DDoS 2007 along with DARPA 1998 and UIDS DDoS dataset to evaluate their information metric measures model for the detection of both low-rate and high-rate DDoS attacks in real-life DDoS datasets.
 
-information metric measures model for the detection of both low-rate and high-rate DDoS attacks in real-life DDoS datasets.
+### Can it be used for to train neural networks - such as GCN?
 
-6) Can it be used for to train neural networks - such as GCN?
+As most of the data samples in this dataset are malicious, this dataset (solely) is not capable of training Neural networks. However, providing a rich source of data for the network-related attack, this dataset could be used to enrich the attack sample for the training of Neural Networks.
 
-As mostly of data sample in this dataset is malicious, this dataset (solely) is not capable for training Neural network. However, providing a rich source of data for the network related attack, this dataset could be used to enrich the attack sample for the training of Neural Network.
+## UGR’16
+### When it was created 
+Published in 2016, the dataset was designed to allow the training of anomaly detection algorithms that consider the cyclostationary nature of traffic data.
 
-3. UGR’16
-1) When it was created Published in 2016, the dataset was designed to allow the training of anomaly detection algorithms that consider the cyclostationary nature of traffic data.
+### How it was created
 
-   2) How it was created
+With the purpose to provide a dataset that contains real traffic and up-to-date attacks, the author of this dataset set up a set of Netflow v9 collectors sensors strategically located in the network of a Tier 3 ISP. The ISP in this experiment is a cloud service provider so that many of the services implemented in the network are virtualized. Apart from the normal client of the ISP, they included 25 additional VMs for the data collection purpose, 5 of which is the attacker, 5 victim machine in the core network which is not protected by the firewall, and 15 victim machines in the inner network which were protected by the firewall. The dataset combined the real monitored background traffic from the cloud services and synthetic attack traffic.
 
-With the purpose to provide a dataset that contain real traffic and up-to-date attacks, the author of this dataset set up a set of netflow v9 collectors sensor strategically located in the network of a Tier 3 ISP. The ISP in this experiment is a cloud service provider, so that many of the services implemented in the network are virtualized. Apart from the normal client of the ISP, the they included 25 additional VMs for the data collection purpose, 5 of which is the attacker, 5 victim machine in the core network which is not protected by firewall, 15 victim machines in the inner network which were protected by the firewall. The dataset combined the real monitored background traffic from the cloud services and synthetic attack traffic.
+### What is in the dataset?
 
-3) What is in the dataset?
+The dataset provided the traffic flow data which IP addresses have been anonymized for privacy purposes. The capture process spans a period of four months, after the collection period, they have successfully captured up to 16,900 million unidirectional flows. The dataset provided with 3 labels: normal, background, or attack. While the normal and attack labeled data are represented for normal user behaviour and attacker behaviour, the background labeled data is represented for the noisy real- world network data which could be normal or an attack. The main advantage of this dataset over others is that the background traffic is very representative of the Internet traffic, as it is captured from sensors in an ISP network where many different profiles of clients are located.
 
-The dataset provided the traffic flow data which IP address have been anonymized for privacy purpose. The capture process spans a period of four months, after the colection period, they have successfully captured up to 16,900 million unidirectional flows. The dataset provided with 3 label: normal, background, or attack. While the normal and attack labeled data are represented for normal user behaviour and attacker behaviour, the background labeled data represented for the noisy real- world network data which could be normal or an attack. The main advantage of this dataset over others is that the background traffic is very representative of the Internet traffic, as it is captured from sensors in a ISP network where many different profiles of clients are located.
+### What type of security problems it focuses on?
 
-4) What type of security problems it focuses on?
+The author injected network-related attack scenarios into this dataset including Low-rate DoS, Port Scanning, and Botnet traffic.
 
-The author injected network-related attack scenario into this dataset including Low-rate DoS, Port Scanning, Botnet traffic.
+### Who has been using it?
+[31] use several supervised machine learning algorithms such as Random Forest (RF), Support Vector Machine (SVM) and Logistic Regression (LR) to detect the attack traffic and shown that RF algorithm outperformed others with an average F1 of 0.888 and an average AUC score of 0.868. [32][ used](#_page23_x85.04_y694.25) this dataset for the evaluation of several unsupervised learning algorithms for the detection of intrusions. They obtained the best F1 of 0.37 with ISOS algorithm [33[\] (a](#_page24_x85.04_y56.69) neighbor and statistical-based clustering algorithm)
 
-5) Who has been using it?
-31. use several supervised machine learning algorithm such as Random Forest (RF), Support Vector
+### Can it be used to train neural networks - such as GCN?
 
-Machine (SVM) and Logistic Regression (LR) to detect the attack traffic and shown that RF algorithm outperformed others with average F1 of 0.888 and average AUC score of 0.868. [32][ used](#_page23_x85.04_y694.25) this dataset for the evaluation of several unsupervised learning algorithm for the detection of intrusions. They obtained the best F1 of 0.37 with ISOS algorithm [33[\] (a](#_page24_x85.04_y56.69) neighbor and statistical-based clustering algorithm)
+Since this dataset contains the This dataset could be potentially used for the training and evaluation of Neural Network models.
 
-6) Can it be used for to train neural networks - such as GCN?
+## CTU-13
+### When it was created
 
-Since this dataset contain the This dataset could be potentially used for the training and evaluation of Neural Network models.
+The CTU-13 is a dataset with botnet traffic that was captured in CTU University, Czech Republic, in 2011. The goal of the dataset was to have a large capture of real botnet traffic mixed with normal traffic and background traffic.
 
-4. CTU-13
-1) When it was created
+### How it was created
 
-The CTU-13 is a dataset with botnet traffic that was captured in the CTU University, Czech Republic, in 2011. The goal of the dataset was to have a large capture of real botnet traffic mixed with normal traffic and background traffic.
+The network used for the simulation and capturing consists of 2 network: Infected Network, Background and normal network. Each host in the network is a virtualized computer running the Microsoft Windows XP SP2 operating system on top of a Linux Debian host. These networks were bridged into one of the CTU University routes where all traffic will be captured these routers and on each host. For the generation of Botnet scenarios, the author designed thirteen scenarios, each with different set of attack techniques.
 
-2) How it was created
-
-The network used for the simulation and capturing consist of 2 network: Infected Network, Back- ground and normal network. Each host in network is a virtualized computers running the Microsoft Windows XP SP2 operating system on top of a Linux Debian host. These network were bridged into one of the CTU University route where all traffic will be capture these router and on each host. For the generation of Botnet scenarios, the author designed thirteen scenario, each with difference set of attack technique.
-
-3) What is in the dataset?
+### What is in the dataset?
 
 In this dataset, raw packet data was captured from the bridging university router and in each individual host using tcpdump tool. After that, Argus, a network analyser tool, was used to convert the raw data into bidirectional NetFlow data. These final NetFlow files were composed of the following fields: Start Time, End Time, Duration, Source IP address, Source Port, Direction, Destination IP address, Destination Port, State, SToS, Total Packets and Total Bytes.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-This dataset focuses on network-related and malware attack. The dataset contain 13 attack sce- nario, each with difference set of characteristic including IRC, P2P or HTTP protocols, sent SPAM, did Click-Fraud (CF), port scanning (PS) and DDoS attacks, used Fast-Flux(FF) techniques or were custom compiled (CC).
+This dataset focuses on network-related and malware attack. The dataset contains 13 attack scenarios, each with different set of characteristic including IRC, P2P or HTTP protocols, sent SPAM, did Click-Fraud (CF), port scanning (PS) and DDoS attacks, used Fast-Flux(FF) techniques or were custom compiled (CC).
 
-5) Who has been using it?
+### Who has been using it?
 
-Bansal et al. [[34\] ](#_page24_x85.04_y96.21)introduce CTU-13 data to compare and evaluate the performance of 3 learning model including RNN, LSTM-based NN and RNN for the detection of malicious traffic. Their LSTM achieved the best F1 score up to 0.8897.
+Bansal et al. [[34\] ](#_page24_x85.04_y96.21)introduce CTU-13 data to compare and evaluate the performance of 3 learning models including RNN, LSTM-based NN and RNN for the detection of malicious traffic. Their LSTM achieved the best F1 score up to 0.8897.
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
-Since this dataset provided dataset which simulated various of attack technique with well-labeled samples. This dataset could be used for the training and evaluation of Neural Network.
+Since this dataset provided dataset which simulated various of attack techniques with well-labeled samples. This dataset could be used for the training and evaluation of Neural Networks.
 
-5. USB-IDS Datasets
-1) When it was created This dataset was newly introduced a public synthetic intrusion datasets developed at the University of Sannio at Benevento (USB), Italy. This dataset aim to provide the instance of DoS attack within the network.
+## USB-IDS Datasets
+### When it was created 
+This dataset was newly introduced a public synthetic intrusion dataset developed at the University of Sannio at Benevento (USB), Italy. This dataset aims to provide the instance of a DoS attack within the network.
 
-   2) How it was created
+### How it was created
 
-To generate the test-bed for the simulation, the author use 3 Linux-based machine to represent 3 entities in network: attacker who try to execute the attack a web server, victim server hosting a Apache web server and a client represent for a normal user access to the web page. The novelty of this dataset is that this dataset monitor the traffic data under the several realistic scenario where in each scenario, the attacker have to face with difference defense modules (given by Apache Software Foundation) of the victim server : Reqtimeout module, Evasive module, Security2 and no defense module. The probing of the simulation produce the raw packet data (pcap)
+To generate the test-bed for the simulation, the author use 3 Linux-based machines to represent 3 entities in the network: an attacker who tries to execute the attack a web server, victim server hosting a Apache web server and a client represent for a normal user access to the web page. The novelty of this dataset is that this dataset monitors the traffic data under several realistic scenarios where in each scenario, the attacker have to face with difference defense modules (given by Apache Software Foundation) of the victim server : Reqtimeout module, Evasive module, Security2, and no defense module. The probing of the simulation produces the raw packet data (pcap)
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset is record in form of traffic flow. Firstly, raw packet data (pcap) is captured. After that, CICFlowMeter tool are used to generate network traffic flow data from raw format (pcap) and generate up 83 feature for each flow. The flow data was labeled and stored in .csv format.
+The dataset is recorded in the form of traffic flow. Firstly, raw packet data (pcap) is captured. After that, the CICFlowMeter tool is used to generate network traffic flow data from raw format (pcap) and generate up 83 feature for each flow. The flow data was labeled and stored in .csv format.
 
-4) What type of security problems it focuses on
+### What type of security problems it focuses on
 
-This dataset contain malicious instance of 4 the difference iteration of Dos attack: Hulk (HTTP flood, TCPFlood, Slowloris (slow Dos), Slowhttptest.
+This dataset contains malicious instances of 4 different iterations of Dos attack: Hulk (HTTP flood, TCPFlood, Slowloris (slow Dos), and Slowhttptest.
 
-5) Who has been using it?
+### Who has been using it?
 
-Since this dataset is newly introduced, by the time of the review, none of the recent research have used this dataset for researches.
+Since this dataset is newly introduced, by the time of the review, none of the recent research has used this dataset.
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
-The feature-rich flow data sample make it applicable to train GCN. The limitation of this dataset is that the simulation only conduct on a very small size of network (3 host). Futhermore, This dataset is focus on Dos is a network level attack which is not applicable for the lateral movement as well as active directory researches.
+The feature-rich flow data sample makes it applicable to train GCN. The limitation of this dataset is that the simulation only conducts on a very small size of the network (3 hosts). Furthermore, This dataset is focused on Dos network-level attacks, which is not applicable for lateral movements as well as active directory research.
 
-6. BETH Dataset
-1) When it was created This dataset is newly introduced in [35[\] for](#_page24_x85.04_y139.50) the anomaly detection and out-of-distribution analysis researches.
+## BETH Dataset
+### When it was created 
+This dataset is newly introduced in [35[\] for](#_page24_x85.04_y139.50) the anomaly detection and out-of-distribution analysis research.
 
-   2) How it was created
+### How it was created
 
-To generate the dataset, the author keep track of 23 Linux-based host (honeypots) over 5 hour on cloud service. BETH dataset include both kernel-process logs and network logs (DNS logs). With real “anomalies” collected using a novel tracking system, The dataset contains over eight million data points tracking 23 hosts
+To generate the dataset, the author keeps track of 23 Linux-based hosts (honeypots) over 5 hours on cloud service. BETH dataset includes both kernel-process logs and network logs (DNS logs). With real “anomalies” collected using a novel tracking system, The dataset contains over eight million data points tracking 23 hosts
 
-3) What is in the dataset?
+### What is in the dataset?
 
-BETH dataset monitor the system in both kernel-process logs and network logs (DNS logs). In total, the dataset produced over 8 million kernel-level process logs. The process call consists of 14 raw features as show on figure 1 where the DNS log included 12 raw feature as shown on figure 2. Each record in the dataset is manually labeled. Each record will have 2 label: suspicious (out- of-distribution activities) and evil (ground true benign/malicious, indicated by a malicious external presence not inherent to the system). The dataset contain the botnet related attack where they observe an attempt to set up a botnet. Each exploited host only contain a single staged attack.
+BETH dataset monitors the system in both kernel-process logs and network logs (DNS logs). In total, the dataset produced over 8 million kernel-level process logs. The process call consists of 14 raw features as shown on Figure 1 where the DNS log included 12 raw features as shown on Figure 2. Each record in the dataset is manually labeled. Each record will have 2 labels: suspicious (out- of-distribution activities) and evil (ground true benign/malicious, indicated by a malicious external presence not inherent to the system). The dataset contains the botnet related attack where they observe an attempt to set up a botnet. Each exploited host only contain a single staged attack.
 
 ![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.004.png)
 
 Figure 3: BETH dataset process called feature
 
-4) What type of security problems it focuses on
+### What type of security problems it focuses on
 
-Currently, the public available dataset which monitored from the honeypot which only contain Botnet attack. However, the author mentioned in their paper [35] [that](#_page24_x85.04_y139.50) the full dataset included cryptomining and lateral movement activities (between servers).
+Currently, the publicly available dataset is monitored from the honeypot which only contains Botnet attacks. However, the author mentioned in their paper [35] [that](#_page24_x85.04_y139.50) the full dataset included cryptomining and lateral movement activities (between servers).
 
-5) Who has been using it?
+### Who has been using it?
 
-Since this dataset is newly introduced, by the time of the review, none of the recent research have used this dataset for researches.
+Since this dataset is newly introduced, by the time of the review, none of the recent research has used this dataset.
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
-The heterogeneously-structured of the logs data could be potentially be used to train neural network where they contain several type of entities (host, user, event) which could be represented as a node in the network.
+The heterogeneously-structured of the logs data could potentially be used to train neural networks where they contain several types of entities (host, user, event) which could be represented as a node in the network.
 
-7. DARPA/KDDCup/NSL-KDD
-1) When it was created As KDDCup and NSL-KDD dataset are both generated from DARPA, we will group these dataset as a set of data. Since it was published in 1999 , there have been many research
+## DARPA/KDDCup/NSL-KDD
+### When it was created 
+As KDDCup and NSL-KDD datasets are both generated from DARPA, we will group these datasets as a set of data. Since it was published in 1999, there has been many research projects used this dataset to evaluate their network-based anomaly detection methods and systems. KDDCup is one of the most popular dataset for intrusion detection which was originally based on DARPA 1998/99  [36]. Another enhancement lead to the generation of NSL-KDD. NSL-KDD dataset when it solved the redundant of data sample of the original dataset and rearranging the attack datasample training and testing dataset.
+
 
 ![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.005.png)
 
 Figure 4: BETH dataset DNS logs feature
 
-used this dataset to evaluate their network-based anomaly detection methods and systems. KDDCup is one of the most popular dataset for intrusion detection which originally based on DARPA 1998/99
 
-36. dataset. Another enhancement lead to the generation of NSL-KDD. NSL-KDD dataset when it solved the redundant of data sample of the original dataset and rearranging the attack datasample training and testing dataset.
-2) How it was created
 
-KDD Cup dataset built based on the DARPA’98 IDS evaluation program which monitored from 7 weeks of network traffic. DARPA’98 is about 4 gigabytes of compressed raw (binary) tcpdump. KDD Cup process the DARPA’98 raw packet into about 4,900,000 connection records and add more than 20 different types of attacks (e.g. DoS or buffer overflow) to the dataset. NSL-KDD dataset removed duplicates record in the KDD Cup dataset and introduce a more sophisticate testing and training set.
+### How it was created
 
-3) What is in the dataset?
+KDD Cup dataset built based on the DARPA’98 IDS evaluation program which monitored 7 weeks of network traffic. DARPA’98 is about 4 gigabytes of compressed raw (binary) tcpdump. KDD Cup process the DARPA’98 raw packet into about 4,900,000 connection records and adds more than 20 different types of attacks (e.g. DoS or buffer overflow) to the dataset. NSL-KDD dataset removed duplicates record in the KDD Cup dataset and introduce a more sophisticated testing and training set.
 
-KDD Cup data provide a hand-on dataset which have been split into training and testing set. KDD training set contain upto 4,900,000 single connection vectors which each contain 41 feature and labeled as either normal or an attack. Features of KDD can be categorised into 3 group: Basic feature, Traffic Feature and Content Feature. In the KSL-KDD dataset, the number of data record reduce to about 150,000 data instance.
+### What is in the dataset?
 
-4) what type of security problems it focuses on
+KDD Cup data provide a hands-on dataset which has been split into training and testing sets. KDD training set contains upto 4,900,000 single connection vectors which each contain 41 feature and labeled as either normal or an attack. Features of KDD can be categorized into 3 group: Basic feature, Traffic Features and Content Features. In the KSL-KDD dataset, the number of data records reduce to about 150,000 data instances.
 
-There is 24 type of attack involved in training set and 14 attack type if the testing set. However, the attack technique could be classified into 4 group: Denial of Service Attack (DoS), User to Root Attack (U2R), Remote to Local Attack (R2L), Probing Attack. A main drawback of this dataset is that it used outdated technique for the simulation of the attack since this dataset have been released for more than 2 decades.
+### what type of security problems it focuses on
 
-5) Who has been using it?
-37. applied BLSTM model with along with employment of the attention mechanism and the
+There is 24 types of attack involved in the training set and 14 attack type if the testing set. However, the attack technique could be classified into 4 groups: Denial of Service Attack (DoS), User to Root Attack (U2R), Remote to Local Attack (R2L), and Probing Attack. A main drawback of this dataset is that it used outdated technique for the simulation of the attack since this dataset have been released for more than 2 decades.
 
-convolutional layers to the NSL-KDD dataset. They achieved a detection rate up to 84.25 % accuracy.
+### Who has been using it?
+[37] applied BLSTM model along with the employment of the attention mechanism and the convolutional layers to the NSL-KDD dataset. They achieved a detection rate of up to 84.25 % accuracy. [38] used the J48 decision tree model on the NSL-KDD dataset and achieved the accuracy of 93.82 %, achieved an accuracy more than 90 % and an f1-score 92.26 % when employing the 5-layer AE-based anomaly detection model.
 
-38. used J48 decision tree model on the NSL-KDD dataset and achieved the accuracy of 93.82 %.
-38. achieved the accuracy more than 90 % and f1-score 92.26 % when employ the 5-layer AE-based anomaly detection model.
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
-With an numerous of features, this dataset could be applicable to GCN. It could be hard apply directly KDD cup dataset since it contain many duplicate record in both training and testing set. However, we could use NSL-KDD, an dataset based on original KDD cup but have solve several problem of the original dataset including redundant record in training and testing set, re-arranging the both set and the dataset difficulty level.
+With numerousfeatures, this dataset could be applicable to GCN. It could be hard to apply directly KDD cup dataset since it contains many duplicate records in both the training and testing sets. However, we could use NSL-KDD, a dataset based on the original KDD cup but have solved several problems of the original dataset including redundant records in training and testing set, re-arranging the both set and the dataset difficulty level.
 
-8. SUEE
-1) When it was created This dataset is released in 2017, this dataset come with 2 iteration: SUEE1 and SUEE8.
+## SUEE
+### When it was created 
+This dataset is released in 2017, this dataset comes with 2 iterations: SUEE1 and SUEE8.
 
-   2) How it was created
+### How it was created
 
-The data sets contain traffic in and out of the web server of the Student Union for Electrical Engineering (Fachbereichsvertretung Elektrotechnik) at Ulm University. Internal hosts are hosts from within the university network, some of them are cable bound, others connect through one of two wifi services on campus (eduroam and welcome).
+The data sets contain traffic in and out of the web server of the Student Union for Electrical Engineering (Fachbereichsvertretung Elektrotechnik) at Ulm University. Internal hosts are hosts from within the university network, some of them are cable-bound, others connect through one of two wifi services on campus (eduroam and welcome).
 
-3) What is in the dataset?
+### What is in the dataset?
 
-This is a public-domain dataset which contains both benign and malicious traffic relative to the web server of the Student Union for Electrical Engineering at Ulm University. This dataset come with 2 iteration, SUEE1 monitor 24 hour of traffic and SUEE8 monitor up to 8 day. Data is provided in pcap file which is not labeled but the the attacker IP ranges are disclosed. The dataset captured the monitored traffic data in packet level (.pcap).
+This is a public-domain dataset that contains both benign and malicious traffic relative to the web server of the Student Union for Electrical Engineering at Ulm University. This dataset comes with 2 iteration, SUEE1 monitor 24 hour of traffic and SUEE8 monitor up to 8 days. Data is provided in pcap file which is not labeled but the attacker IP ranges are disclosed. The dataset captured the monitored traffic data in the packet level (.pcap).
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-In the dataset, there is up to 150 IP (spoofed) addresses involved in the attack which running several iteration of Slow-Dos attack.
+In the dataset, there are up to 150 IP (spoofed) addresses involved in the attack which runs several iterations of Slow-Dos attack.
 
-5) Who has been using it?
-40. developed several concepts based on light-weight flow-based analysis of network traffic that can
+### Who has been using it?
+[40] developed several concepts based on light-weight flow-based analysis of network traffic that can
 
 identify attacker. They consider six attacker identification schemes in their analysis including Long Connections (LC), Low Packet Rate (LPR), Packet Distance Uniformity (PDU), Combination of LPR and PDU (LPR-PDU), Low Mean Packet Rate (MPR), Low Packet Rate Variance (PRV).
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-Providing data in packet level with the concise indication of attacker IP ranges, this dataset could be used for the training of the Neural Network
+Providing data in the packet level with a concise indication of attacker IP ranges, this dataset could be used for the training of the Neural Network
 
-9. CSE-CIC-IDS-2018
-1) When it was created
+## CSE-CIC-IDS-2018
+### When it was created
 
 CSE-CIC-IDS-2018 is the latest cyber dataset by the Canadian Establishment for Cybersecurity
 
-(CIC) in 2018. The traffic flow data are stored in csv file with six columns labeled for each flow, namely FlowID, SourceIP, DestinationIP, SourcePort, DestinationPort, and Protocol with more than 80 network traffic features.
+(CIC) in 2018. The traffic flow data are stored in CSV file with six columns labeled for each flow, namely FlowID, SourceIP, DestinationIP, SourcePort, DestinationPort, and Protocol with more than 80 network traffic features.
 
-2) How it was created
+### How it was created
 
-To generate the platform for simulation of adversary scenario, they construct a infrastructure con- sisted of two networks, namely Victim-Network and Attack-Network. The adversary network included 50 machines, whereas the victim network included 5 departments, 30 servers and 420 machines. To capture the traffic data interface information, they collect the raw traffic packet data (.pcap) and then use the CICFlowMeter [6[\], ](#_page22_x85.04_y350.51)a flow feature extractor also introduced by CIC, to extract traffic features.
+To generate the platform for the simulation of adversary scenarios, they construct an infrastructure consisting of two networks, namely Victim-Network and Attack-Network. The adversary network included 50 machines, whereas the victim network included 5 departments, 30 servers and 420 machines. To capture the traffic data interface information, they collect the raw traffic packet data (.pcap) and then use the CICFlowMeter [6[\], ](#_page22_x85.04_y350.51)a flow feature extractor also introduced by CIC, to extract traffic features.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-CSE-CIC-IDS2018 contains about 16,233,002 observations of traffic flow which is collected for over 10 days of the simulation. Each records contain 80 features of the traffic flow along with several labels: SourceIP, SourcePort, DestinationIP, DestinationPort and Protocol.
+CSE-CIC-IDS2018 contains about 16,233,002 observations of traffic flow which is collected for over 10 days of the simulation. Each record contains 80 features of the traffic flow along with several labels: SourceIP, SourcePort, DestinationIP, DestinationPort and Protocol.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-This dataset contain 7 network-related adversary scenarios which including Botnet, Heartbleed, Brute-force, Denial of Service and Distributed Denial of Service, inside network infiltration and Web attacks.
+This dataset contains 7 network-related adversary scenarios which include Botnet, Heartbleed, Brute-force, Denial of Service and Distributed Denial of Service, inside network infiltration, and Web attacks.
 
-5) Who has been using it?
+### Who has been using it?
 
-This dataset contain a wide range of attack technique that could be used for the intrusion detection research. Huancayo et al. [?] achieved the accuracy, precision and recall for the Botnet attack detection of 99%, 100% and 99% respectively using Random Forest [?] and Decision Tree [?]. Long short-term memory (LSTM) model with Attention mechanism of [?] achieved an accuracy of 96.2%, precision and recall of 96% for detecting web and infiltration attacks.
+This dataset contains a wide range of attack technique that could be used for intrusion detection research. Huancayo et al. [?] achieved the accuracy, precision and recall for the Botnet attack detection of 99%, 100% and 99% respectively using Random Forest [?] and Decision Tree [?]. Long short-term memory (LSTM) model with an Attention mechanism of [?] achieved an accuracy of 96.2%, precision, and recall of 96% for detecting web and infiltration attacks.
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-This dataset is suitable for the training of Neural Network since this dataset contain the large amount of feature (up to 80 feature) on flow level, number of data sample in both classes and well- labeled.
+This dataset is suitable for the training of Neural Network since this dataset contain a large amount of feature (up to 80 feature) on flow level, a number of data sample in both classes and well- labeled.
 
-10. CICDDoS2019
-1) When it was created The CICDDoS2019 dataset published in 2019 with the purpose to remedies the shortcomings of the current DDoS dataset.
+## CICDDoS2019
+### When it was created 
+The CICDDoS2019 dataset published in 2019 with the purpose to remedies the shortcomings of the current DDoS dataset.
 
-   2) How it was created
+### How it was created
 
-To construct the testbed for the simulation, they have designed and implemented two networks, namely Attack-Network and Victim-Network. While the Victim-Network is a highly security infras- tructure with firewall, router, switches, and several common operating systems along with an agent that provides the benign behaviors on each PC, the Attack-Network is a completely separated third party infrastructure that executes different.
+To construct the testbed for the simulation, they have designed and implemented two networks, namely Attack-Network and Victim-Network. While the Victim-Network is a highly security infrastructure with a firewall, router, switches, and several common operating systems along with an agent that provides the benign behaviors on each PC, the Attack-Network is a completely separated third-party infrastructure that executes differently.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset capture the traffic flow information which included 80 features extracted from the raw pcap dataset using CICFlowMeter. Each record contain 80 feature of the traffic flow along with several labels: SourceIP, SourcePort, DestinationIP, DestinationPort and Protocol.
+The dataset capture the traffic flow information which included 80 features extracted from the raw pcap dataset using CICFlowMeter. Each record contains 80 feature of the traffic flow along with several labels: SourceIP, SourcePort, DestinationIP, DestinationPort, and Protocol.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-This dataset contain many type of the DDoS attack. The training set contain 12 DDoS attacks includes NTP, DNS, LDAP, MSSQL, NetBIOS, SNMP, SSDP, UDP, UDP-Lag, WebDDoS, SYN and TFTP. On the testing set, they execute 7 attacks including PortScan, NetBIOS, LDAP, MSSQL, UDP, UDPLag and SYN.
+This dataset contains many types of the DDoS attack. The training set contains 12 DDoS attacks including NTP, DNS, LDAP, MSSQL, NetBIOS, SNMP, SSDP, UDP, UDP-Lag, WebDDoS, SYN and TFTP. On the testing set, they execute 7 attacks including PortScan, NetBIOS, LDAP, MSSQL, UDP, UDPLag and SYN.
 
-5) Who has been using it?
+### Who has been using it?
 
-DDoSNet [[41\],](#_page24_x85.04_y363.34) a leanring model based on autoencoder and RNN deep neural. The learning process of this model contains two stages: pre-training stage (unsupervised) and fine-tuning stage (supervised). DDoSNet produced the average F1 score of 0.99 with an accurracy of 99 percent. AE-MLP [42] is a multi-class classification model which consists of Autoencoder (AE) to extract the compressed and reduced feature sets and an Multi-layer Perceptron Network (MLP) use the extracted features to classify attack into different DDoS attack types. This technique obtained the average of 98.34 % accuracy while the precision, recall, and F1-score all remain at 97.91 %, 98.48 %, and 98.18 % respectively.
+DDoSNet [[41\],](#_page24_x85.04_y363.34) is a leanring model based on autoencoder and RNN deep neural. The learning process of this model contains two stages: pre-training stage (unsupervised) and fine-tuning stage (supervised). DDoSNet produced the average F1 score of 0.99 with an accuracy of 99 percent. AE-MLP [42] is a multi-class classification model which consists of Autoencoder (AE) to extract the compressed and reduced feature sets and an Multi-layer Perceptron Network (MLP) use the extracted features to classify attack into different DDoS attack types. This technique obtained the average of 98.34 % accuracy while the precision, recall, and F1-score all remain at 97.91 %, 98.48 %, and 98.18 % respectively.
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
 Same with the CSE-CIC-IDS-2018 dataset.
 
-6  Others
-1. ISP data
-1) When it was created The dataset was establish in 2019 along with the research on analysing the internet trend, migration of services to new protocols and impact of popular services on user behaviour by monitoring the traffic information from tier-2 network in 5 years (from 2013 to 2017).
+Others
+======
+## ISP data
+### When it was created 
+The dataset was established in 2019 along with the research on analyzing the internet trend, migration of services to new protocols, and impact of popular services on user behaviour by monitoring the traffic information from tier-2 network in 5 years (from 2013 to 2017).
 
-   2) How it was created
+### How it was created
 
-M. Trevisan et al [[43\] ](#_page24_x85.04_y447.98)build on data collected by the passive monitoring infrastructure of a nation-
+M. Trevisan et al [[43\] ](#_page24_x85.04_y447.98)build on data collected by the passive monitoring infrastructure of a nationwide ISP in Italy - real data. It operates a backbone tier-2 network, connected to hundreds of customer and peering ASes and a large number of provider ASes. The dataset contains the real-time traffic data that are monitored passively from vantage points located at the edge of the ISP network. The traffic data is then processed by Tstat [[44\], ](#_page24_x85.04_y493.20)a custom-made passive traffic analyzer, and stored in different log files.
 
-wide ISP in Italy - real data. It operates a backbone tier-2 network, connected to hundreds of customer and peering ASes and a large number of provider ASes. The dataset contain the real-time traffic data are monitored passively from vantage points located at the edge of the ISP network. The traffic data is then processed by Tstat [[44\], ](#_page24_x85.04_y493.20)a custom-made passive traffic analyzer, and stored in difference log files.
+### What is in the dataset?
 
-3) What is in the dataset?
+The dataset contained up to 31.9 TB of compressed and anonymized flow logs (around 247 billion         flow records). The Tstat generate 9 difference log files such as log~~ udp~~ complete, log~~ tcp~~ complete, log~~ skype~~ nocomplete, log~~ video~~ complete, log~~ http~~ complete, log~~ skype~~ complete, log~~ mn~~ complete, log~~ chat~~ complete and log~~ chat~~ nocomplete. These logs capture and produce the statistical measurements of the network where each row in the log files corresponds to a different flow and each column is associated with a specific measure. Each record contains classical fields on flow monitoring [\[45](#_page24_x85.04_y536.48)], such as IP addresses, port numbers, packet- and byte-wise counters.
 
-The dataset contained up to 31.9 TB of compressed and anonymized flow logs (around 247 billion         flow records). The Tstat generate 9 difference log files such as log~~ udp~~ complete, log~~ tcp~~ complete, log~~ skype~~ nocomplete, log~~ video~~ complete, log~~ http~~ complete, log~~ skype~~ complete, log~~ mn~~ complete, log~~ chat~~ complete and log~~ chat~~ nocomplete. These log will which capture and produce the statistical
+### What type of security problems it focuses on?
 
-measurement of the network where each row in the log files corresponds to a different flow and each column is associated to a specific measure. Each record contains classical fields on flow monitoring [\[45](#_page24_x85.04_y536.48)], such as IP addresses, port numbers, packet- and byte-wise counters.
+The main purpose of this dataset is to analyse the statistical change of traffic networks imposed by the changes of users behaviours and services. The data is labeled based on the application which instantiates the flow. This dataset might contain malicious behaviour in their nature, these samples, however, might not be labeled.
 
-4) What type of security problems it focuses on?
-
-The main purpose of this dataset is to analyse the statistical change of traffic network imposed by the changes of users behaviours and services. The data is labeled based on the application which instantiate the flow. This dataset might contains malicious behaviour in their nature, these sample, however, might not be labeled.
-
-5) Who has been using it?
+### Who has been using it?
 
 The author of the dataset used it to analyse the influence of the user behaviour, connection duration, operational network and services popularity in recent year to the Internet [44].
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-Since the purpose of this dataset is to analysis on the broadband characterization, service usage, longitudinal traffic analysis of user trends, hence it is only labelled in terms of application, malicious activities are not classified from normal. Hence no potential for lateral movement/active directory research. With the sheer volume of application labeled data sample, this dataset is a candidate for the training and evaluation of application classification learning model. [46] [hav](#_page24_x85.04_y579.77)e used this data to evaluate network traffic classification using ML algorithms and statistical techniques.
+Since the purpose of this dataset is to analysis on broadband characterization, service usage, and longitudinal traffic analysis of user trends, hence it is only labeled in terms of application, malicious activities are not classified from normal. Hence no potential for lateral movement/active directory research. With the sheer volume of application-labeled data samples, this dataset is a candidate for the training and evaluation of application classification learning model. [46] [hav](#_page24_x85.04_y579.77)e used this data to evaluate network traffic classification using ML algorithms and statistical techniques.
 
-2. MAWI
-1) When it was created This dataset was contributed since 2010 as a labeled version of the MAWI (Measurement and Analysis on the WIDE Internet) archive sample for network points B and F. This dataset contains daily traces of traffic in the form of packet captures, which is captured from a trans-Pacific link between Japan and the United States
+## MAWI
+### When it was created 
+This dataset was contributed since 2010 as a labeled version of the MAWI (Measurement and Analysis on the WIDE Internet) archive sample for network points B and F. This dataset contains daily traces of traffic in the form of packet captures, which is captured from a trans-Pacific link between Japan and the United States
 
-   2) How it was created
+### How it was created
 
 The MAWI traffic repository archives traffic data collected from the WIDE backbone networks. The WIDE network (AS2500) is a Japanese academic network connecting universities and research institutes.
 
-3) What is in the dataset?
+### What is in the dataset?
 
 The archive contains tcpdump daily traces of 15 minutes captured in a link between Japan and the United States. The data monitored the data since 2001, however, only data from 2007 are labeled by using a combination of several anomaly detection classifiers. This dataset is really extensive and allows the analysis for a very long period. It is noteworthy that this data does not contain true labels.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
 This data might contain malicious activities as a nature when monitoring modern network captures. However, this dataset does not contain ground true labels in term of normal traffic or malicious traffic. The MAWI dataset can be used to study anomaly detectors, internet traffic characteristics, and traffic classifiers.
 
-5) Who has been using it?
+### Who has been using it?
 
-The author of this dataset employ an anomaly detection model [47] [with](#_page24_x85.04_y623.61) the aim to provide a labels version of this dataset for future research. As this dataset is not ground-true, Cordero et al [\[48](#_page24_x85.04_y666.34)] injected synthetic attacks (e.g., SYN DDoS, SYN port scan) into MAWI dataset to evaluate their replicator neural networks for the anomalies detection.
+The author of this dataset employs an anomaly detection model [47] [with](#_page24_x85.04_y623.61) the aim to provide a labels version of this dataset for future research. As this dataset is not ground-true, Cordero et al [\[48](#_page24_x85.04_y666.34)] injected synthetic attacks (e.g., SYN DDoS, SYN port scan) into MAWI dataset to evaluate their replicator neural networks for the anomalies detection.
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-Although this data also provided an labeled version by using the anomaly detection model, the labeling is dependent on the classifiers that have been used in the process and their generation of false positives. As there is not ground true labels, this dataset is suitable for evaluating unsupervised anomaly detection system. Containing a large volume of realistic network data, this dataset could be also used as the background data sample for the training of supervised Neural Network when integrating with other attack data samples.
+Although this data also provided a labeled version by using the anomaly detection model, the labeling is dependent on the classifiers that have been used in the process and their generation of false positives. As there is not ground true labels, this dataset is suitable for evaluating unsupervised anomaly detection system. Containing a large volume of realistic network data, this dataset could be also used as the background data sample for the training of supervised Neural Network when integrating with other attack data samples.
 
-3. Shell Command Logs
-1) When it was created
+## Shell Command Logs
+### When it was created
 
 Released in 2021, This dataset contain Educational data mining and learning analytic are emerging research fields that analyze data from educational contexts. This dataset is , contain the log from the educational cyber training.
 
-2) How it was created
+### How it was created
 
-This dataset is record the command used by the trainee in the cybersecurity training. During each training session, trainee control a virtual machines that run Kali Linux to complete a sequences assignments that mostly involve attacking one or more vulnerable networked hosts. Commands with their arguments were captured using Syslog protocol.
+This dataset records the command used by the trainee in the cybersecurity training. During each training session, trainees control a virtual machine that run Kali Linux to complete sequences of assignments that mostly involve attacking one or more vulnerable networked hosts. Commands with their arguments were captured using Syslog protocol.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset contains 13446 shell commands obtained from 175 participants who attended cyber- security training and solved assignments in the Linux terminal. This data capture the command activities by record the command, their arguments and metadata such as timestamp, working direc- tory, and host identification in the emulated training infrastructure. The commands were captured in Bash, ZSH, Metasploit shells and stored as JSON records.
+The dataset contains 13446 shell commands obtained from 175 participants who attended cyber- security training and solved assignments in the Linux terminal. This data capture the command activities by recording the command, their arguments and metadata such as timestamp, working direc- tory, and host identification in the emulated training infrastructure. The commands were captured in Bash, ZSH, Metasploit shells and stored as JSON records.
 
-4) what type of security problems it focuses on
+### what type of security problems it focuses on
 
-This dataset capture various type of malicious log command conduct by trainee during the cyber security section.
+This dataset captures various type of malicious log commands conducted by trainees during the cyber security section.
 
-5) Who has been using it?
+### Who has been using it?
 
-By the time of this review, there has not been any research use this dataset.
+By the time of this review, there has not been any research using this dataset.
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
 As it is obtained from the cybersecurity assignments, most of the command in the dataset is malicious hence the dataset (solely) is not applicable for GCN.
 
-4. Hornet 40 (Honeypots data)
-1) When it was created The Honeypot was released in 2021, the data was captured from difference honeypot server in difference period of 2021
+## Hornet 40 (Honeypots data)
+### When it was created 
+The Honeypot was released in 2021, the data was captured from difference honeypot servers in difference periods of 2021
 
-   2) How it was created
+### How it was created
 
-The Hornet datasets contain a collection datasets designed to help understand how geography may impact the inflow of network attacks. The data was collected from the eight identical configured honey server which placed in 8 difference geographic location across North America, Europe, and Asia throughout April and May 2021.
+The Hornet datasets contain a collection of datasets designed to help understand how geography may impact the inflow of network attacks. The data was collected from the eight identical configured honey servers which placed in 8 different geographic locationw across North America, Europe, and Asia throughout April and May 2021.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset capture the network traffic on honeypots. Eight cloud servers were created and con- figured simultaneously, following identical instructions. The network capture was performed using the Argus network monitoring tool in each cloud server. The data provide the bidirectional NetFlow files in either Argus binary file or CSV format. There is 3 subset of this data which monitor the traffic of the honeynet on 40, 15, 7 days periods.
+The dataset captures the network traffic on honeypots. Eight cloud servers were created and configured simultaneously, following identical instructions. The network capture was performed using the Argus network monitoring tool in each cloud server. The data provide the bidirectional NetFlow files in either Argus binary file or CSV format. There is 3 subset of this data which monitor the traffic of the honeynet on 40, 15, 7 days periods.
 
-4) What type of security problems it focuses on
+### What type of security problems it focuses on
 
-The dataset is does not specified about the labels of the traffic data, however, activities monitored on honeypot are naturally malicious.
+The dataset does not specify the labels of the traffic data, however, activities monitored on honeypot are naturally malicious.
 
-5) Who has been using it?
+### Who has been using it?
 
-By the time of this review, there have not been any research use this dataset.
+By the time of this review, there has not been any research use this dataset.
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
-The lack of proper labels and the traffic of the normal user make this dataset (solely) inapplicable for the learning task. Since this dataset contain mostly malicious activities traffic, we could combine this dataset to other network traffic datset (which also capture network traffic using the Netflow) such as CTU-13, UNSW NB15, etc, to enrich the malicious sample.
+The lack of proper labels and the traffic of the normal user make this dataset (solely) inapplicable for the learning task. Since this dataset contains mostly malicious activity traffic, we could combine this dataset to other network traffic dataset (which also capture network traffic using the Netflow) such as CTU-13, UNSW NB15, etc, to enrich the malicious sample.
 
-7  Summary
 
-DatasetYearURLISPRecorddata[49UNSWData]FloAvwPNB15ailabilitartiallyMA[WI50Publicy]Securit[P51acCAID]kPN/AetacandykPAetRealroblemFlo[Public52UHNN/Aw]PPublicacRealisticN/AN(LANL)ketPRealWCMSCSEartiallyorm/DDos/ReconNum.2842018(\*)PublicCitation[53(LANL)PicoDomainN]FloDDos/Ww,Lab2015HostSemi-SynTWels2020orm[LogOS53]Real[Flo[Public543thetic]CMU-CER]Flow,LogsN/AHostwsN/A1080NOn(ZeekLogRealRequestDYTAPTPubliclog)83[55N]Public2020LogsInsiderAPT-stD[ARPPublic56APT-stThreat]yleFloAopTCInsiderattacwUGR’16ylePublicSynattack2021Semi-SyntheticThreatAPTk2016Syn[Malw5745StSyn]YtheticLogs[yle58thearethetic]attactFloicPublic1trainYCTU-1384w181(\*\*)kY(\*\*)PSingublicynAPTY(\*\*)datasetsthetic2011Dos/PS/BotnetStIoT-23yle5[Y602016Attac]2020Pac[Tk59kSynoN-IoT[et61]LogandSemi-Syn]theticFloFloPublic2021wsBot-IoT3wY(\*\*)(Zeekpublic[tMalw62hetic]2018log)PBotnetac113EMBER-MalwarekPublic[eSynY63t/FlSyn]theticPoIoTacw/LogsthSUEEkeetre13ticandlateNAare5122017PublicFlod[Syn11YCSE-CIC-IDS-2018ws[]64PEIoTtheticPub]Pfilereaclicl39(Log??)kateCICDDoS2019BotnetetYdPublicSynPublicSyntheticDoSUSB-IDS2018thetic12(SloMalwY[201965332wloris-ng)]areFlo2021BETHY[66Synw]FloPublic[67thetic2021Synw]FloPublicKitSuneNet[thetic143w68Publicw]YLogNetork-RelatedNA2018(kwKDDCup/NSL-KDDDoS/DDoSYork-Relatedernel-lev[69]PSynacSherloel)kSynettheticPSynPublicartiallytheticcthetick1257[71SABUIoT19991Public]Y170Logrelated[IDSYPub70Botnet]ShellPAlertsSynlicacMalwktheticRealCommandet2019Publicar(HoneypHornet369e[(Smartphone)72DoS/ProbY]LogsPublic40ot)(HoneypSecurit2021NAMane/R2L/U2RY(\*\*\*)[Semi-Syn73yyotsReald]atasLogsdata)(AnonetPublicSyn(Mordor)thetic2021theticymised)[Man5274Y]2019NAFloySyn4YNAw[75Ptheticublic]Logs0NotNAPubSplicecifiedAPTStRealyle(HoneypAttackSynot)thetic0NANANA![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.006.png)![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.007.png)![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.008.png)
-
-Note (\*\*): not directly label on dataset, but supply a file with ground true malicious activities
-
-\* List of dataset contain lateral movement activities: Unified Host and Network Data Set (LANL) Comprehensive, Multi-Source Cyber-Security Events (LANL) PicoDomain DARPA opTC DAPT-2020 Security dataset (Mordor) repository APTGen ?? Enterprise Cyber Resiliency Against Lateral Movement: A Graph Theoretic Approach ??
 
 References
+======
 
 1. T.<a name="_page22_x85.04_y153.30"></a> Bai, H. Bian, A. Abou Daya, M. A. Salahuddin, N. Limam, and R. Boutaba, “A machine learning approach for rdp-based lateral movement detection,” in 2019 IEEE 44th Conference on Local Computer Networks (LCN). IEEE, 2019, pp. 242–245.
 1. B.<a name="_page22_x85.04_y199.63"></a> Bowman, C. Laprade, Y. Ji, and H. H. Huang, “Detecting lateral movement in enterprise computer networks with unsupervised graph {AI},” in 23rd International Symposium on Research in Attacks, Intrusions and Defenses ({RAID} 2020), 2020, pp. 257–268.
