@@ -8,440 +8,436 @@ tags:
   - machine learning
 ---
 
-Cyber Security Dataset Review
+Cyber Security Datasets and Their AI/ML Applications - A Review
 ======
 
-This post aims to provide a review of the curernt datasets for the training and evaluation of deep learning models in cybersecurity. 
+Data is important for machine learning models. Data is extremely  important for developing AI/ML solutions to cyber problems. There have been numerous posts, technical reports, and articles on cyber datasets. They seem to get outdated very quickly and often focus on specific niche areas. You can find these in the reference lists. This post aims to provide a review of the current datasets for the training and evaluation of deep learning models in cybersecurity. 
 
 APT Style Datasets
 ======
+## Unified Host and Network Data Set (LANL)
+### When it was created 
 
-Aren't headings cool?
-------
+This dataset is released in 2018 by Los Alamos National Laboratory as a part of the LANL dataset collection (one out of three datasets). This is the latest dataset in the LANL dataset collection.
 
+### How it was created
 
+This data set contains the host and network-based data which were captured within a real environment, the LANL (Los Alamos National Laboratory) enterprise network. To ensure the privacy of the enterprise network, IP addresses and timestamps in the dataset were anonymized in bidirectional flow-based network traffic files. Most of the computers in the monitored enterprise are Windows-based machines which host and network data are collected over a period of 90 days.
 
-##  APT Style
-1. Unified Host and Network Data Set (LANL)
-1) When it was created This dataset is released in 2018 by Los Alamos National Laboratory as a part of the LANL dataset collection (one out of three datasets). This is the latest dataset in the LANL dataset collection.
+### What is in the dataset?
 
-   2) How it was created
+To capture the network information of the enterprise, this dataset captures 2 types of data: host and network data. The network data is provided in .csv format, the data represented a bidirectional network flow data by providing several fields such as Time, eventID, LogHost, Logon Type, LogonTypeDescription, user name, etc. The host data is provided in .json file which captures a subset of Window log events collected from all Window-based machines in the enterprise. Some examples for the Window event log capture in this dataset: Kerberos authentication ticket was requested (4768), Kerberos service ticket was requested (4769), An account was successfully logged on (4624), An account was logged on (4634), etc.
 
-This data set contains the host and network-based data which were captured within a real envi- ronment, the LANL (Los Alamos National Laboratory) enterprise network. To ensure the privacy of the enterprise network, IP addresses and timestamps in the dataset were anonymized in bidirectional flow-based network traffic files. Most of the computer in the monitored enterprise are Window-based machine which host and network data are collected in a period of 90 days.
+### What type of security problems does it focus on?
 
-3) What is in the dataset?
+As this dataset mainly captures the host and network data from a real enterprise network in a normal operation, this data set does not contain malicious activities.
 
-To capture the network information of the enterprise, this dataset capture 2 type of data: host and network data. The network data is provided in .csv format, the data represented a bidirectional network flow data by providing several fields such as Time, eventID, LogHost, Logon Type, LogonTypeDescrip- tion, UserName, etc. The host data provided in .json file which capture a subset of Window log event collected from all Window-based machine in the enterprise. Some example for the Window event log capture in this dataset: Kerberos authentication ticket was requested (4768), Kerberos service ticket was requested (4769), An account was successfully logged on (4624), An account was logged on (4634), etc.
+### Who has been using it?
 
-4) What type of security problems does it focus on?
+Since there is no malicious event in this dataset, some current research only uses this data to enrich the benign sample. As this data is collected from a real company network, this dataset could represent the real background data. For example, [1] [com](#_page22_x85.04_y153.30)bine 2 versions of LANL, Unified Host and Network Data Set which only contain benign samples and Comprehensive, Multi-Source Cyber-Security Events which contain both benign and malicious samples to train and evaluate several Machine Learning models for the detection of malicious RDP sessions which abused by attackers during the lateral movement stage. Their LogitBoost model produced the highest performance with an F1 score of 0.997
 
-As this dataset mainly capture the host and network data from a real enterprise network in a normal operation, this data set does not contain malicious activities.
-
-5) Who has been using it?
-
-Since there is no malicious event in this dataset, some current research only use this data to enrich the benign sample. As this data is collected from real company network, this dataset could represent the real background data. For example, [1] [com](#_page22_x85.04_y153.30)bine 2 versions of LANL, Unified Host and Network Data Set which only contain benign sample and Comprehensive, Multi-Source Cyber-Security Events which contain both benign and malicious sample to train and evaluate several Machine Learning models for the detection of malicious RDP sessions which abused by attackers during the lateral movement stage. Their LogitBoost model produced the highest performance with an F1 score of 0.997
-
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
 As it only contains benign activities, this dataset can not be used for the training of the Neural network. However, some research used this dataset to enrich their benign sample in their own dataset.
 
-2. Comprehensive, Multi-Source Cyber-Security Events (LANL)
-1) When it was created Published in 2015, Comprehensive, Multi-Source Cyber-Security Events datasets is one out of three dataset in the LANL dataset collection.
+## Comprehensive, Multi-Source Cyber-Security Events (LANL)
 
-   2) How it was created
+### When it was created 
+Published in 2015, Comprehensive, Multi-Source Cyber-Security Events datasets is one out of three datasets in the LANL dataset collection.
 
-The dataset contain the data collected from 4 sources of the internal computer network of Los Alamos National Laboratory’s corporate. The monitored network included Window-based operation system machine with centralized Active Directory domain controller (AD DC) servers. The 4 source of data included: Windows-based authentication events from both individual computers and AD DC servers; Domain Name Service (DNS) lookups as collected on internal DNS servers; process event (included start and stop event) from individual Windows computers; network flow data collected on at several key router locations.
+### How it was created
 
-3) What is in the dataset?
+The dataset contains the data collected from 4 sources of the internal computer network of Los Alamos National Laboratory’s corporate. The monitored network included Windows-based operation system machine with centralized Active Directory domain controller (AD DC) servers. The 4 sources of data included: Windows-based authentication events from both individual computers and AD DC servers; Domain Name Service (DNS) lookups as collected on internal DNS servers; process events (including start and stop events) from individual Windows computers; network flow data collected on at several key router locations.
 
-This dataset provided a set of 12 gigabytes compressed network data. The data contain 5 file of data include 4 captured file from difference sources (authentication, process, flow, DNS) and 1 additional file provide a well-defined red teaming events that present bad behavior within the 58 days. In total, the dataset presents 1,648,275,307 events for 12,425 users, 17,684 computers, and 62,974 processes after 58 consecutive days.
+### What is in the dataset?
 
-4) What type of security problems it focuses on?
+This dataset provided a set of 12 gigabytes of compressed network data. The data contain 5 files of data including 4 captured file from different sources (authentication, process, flow, DNS) and 1 additional file that provide well-defined red teaming events that present bad behavior within the 58 days. In total, the dataset presents 1,648,275,307 events for 12,425 users, 17,684 computers, and 62,974 processes after 58 consecutive days.
 
-This dataset capture an synthetic APT-style attack activities, and relevant authentication log entries were labeled as either malicious or benign. No further details were provided in the dataset as to what types of attacks were performed during the exercise. This is a limiting factor of this dataset.
+### What type of security problems it focuses on?
 
-5) Who has been using it?
+This dataset capture synthetic APT-style attack activities, and relevant authentication log entries were labeled as either malicious or benign. No further details were provided in the dataset as to what types of attacks were performed during the exercise. This is a limiting factor of this dataset.
 
-This dataset is widely used for the lateral movement forensic and detection research. Bowman et al.
+### Who has been using it?
 
-[\[2](#_page22_x85.04_y199.63)] used this dataset to evaluate their unsupervised graph-based machine learning. They introduced a technique to generate an abstract of network user authentication using graph of authentication and then perform the unsupervised learning on node level embedding. They obtained the best performance on the LANL dataset using the Graph Learning with Global View (GL-GV) learning model with the True Positive Rate of 85 % and False Positive Rate of 0.9 %. [1] [com](#_page22_x85.04_y153.30)bine 2 version of LANL (Comprehensive, Multi-Source Cyber-Security Events and Unified Host and Network Data Set) to train and evaluate their Machine Learning models (Logistic Regression, Gaussian-NB, Decision Tree, Random Forest and LogitBoost) for the detection of malicious RDP session which abused by attacker during the lateral movement stage. Their LogitBoost model produced the highest performance with the F1 score of 0.997
+This dataset is widely used for lateral movement forensic and detection research. Bowman et al. [\[2](#_page22_x85.04_y199.63)] used this dataset to evaluate their unsupervised graph-based machine learning. They introduced a technique to generate an abstract of network user authentication using a graph of authentication and then perform the unsupervised learning on node-level embedding. They obtained the best performance on the LANL dataset using the Graph Learning with Global View (GL-GV) learning model with the True Positive Rate of 85 % and False Positive Rate of 0.9 %. [1] [com](#_page22_x85.04_y153.30)bine 2 version of LANL (Comprehensive, Multi-Source Cyber-Security Events and Unified Host and Network Data Set) to train and evaluate their Machine Learning models (Logistic Regression, Gaussian-NB, Decision Tree, Random Forest, and LogitBoost) for the detection of malicious RDP session which abused by an attacker during the lateral movement stage. Their LogitBoost model produced the highest performance with the F1 score of 0.997
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-Provided a rich source of information of the network including authentication, processes, etc. This dataset could be used to train the Neural Network for the detection of malicious activities.
+Provided a rich source of information on the network including authentication, processes, etc. This dataset could be used to train the Neural Network for the detection of malicious activities.
 
-3. PicoDomain
+## PicoDomain
 
 https://github.com/iHeartGraph/PicoDomain
 
-1) When it was created
+### When it was created
 
-This in-house generated data set is published in Aug 2020 (according to the first commit of their Github) with the aim to provide a dataset for cyber security research community.
+This in-house generated data set is published in Aug 2020 (according to the first commit of their Github) with the aim to provide a dataset for the cyber security research community.
 
-2) How it was created
+### How it was created
 
-This in-house generated data is designed as a scale-down version of a real enterprise network which
+This in-house generated data is designed as a scaled-down version of a real enterprise network which still contains the most critical elements commonly found in enterprise-level domains. The compact network used to simulate this dataset included a small Windows-based environment with five workstations, a domain controller, a gateway firewall and router, and a small-scale internet that hosted several websites as well as the adversarial infrastructure. To monitor and collect network activities, they use a Zeek network sensor which is installed inside the network in the place such that it had visibility of all traffic in the network.
 
-still contain most critical elements commonly found in enterprise-level domains. The compact network
+### What is in the dataset?
 
-used to simulate this dataset included small Windows-based environment with five workstations, a domain controller, a gateway firewall and router, and a small-scale internet that hosted several websites as well as the adversarial infrastructure. To monitored and collect network activities, they use Zeek network sensor which is installed inside the network with the place such that it had visibility of all traffic in the network.
+The simulation lasted 3 days from July 19th 2019 to July 21st 2019 where the attack campaign was conducted on days 2 and 3 with the background of benign activities. The dataset is provided in the Zeek monitored log file. The logs available are the following types: conn, dce~~ rpc, dhcp, dns, files, http, kerberos, known~~ hosts, known~~ services, NTLM, pe, smb~~ files, smb~~ mapping, software, ssl, weird, and x509. The detailed information on this dataset which included the dataset itself, paper, and Red team log could be found in their Github [3].
 
-3) What is in the dataset?
+### What type of security problems does it focus on?
 
-The simulation lasted 3 days from July 19th 2019 to July 21st 2019 where the attack campaign was conducted on days 2 and 3 with the background of the benign activities. The dataset is provided in the Zeek monitored log file. The logs available are the following types: conn, dce~~ rpc, dhcp, dns, files, http, kerberos, known~~ hosts, known~~ servieces, ntlm, pe, smb~~ files, smb~~ mapping, software, ssl, weird, and x509. The detailed information of this dataset which included the dataset itself, paper and Red team log could be found in their Github [3].
+To generate the PicoDomain dataset, they ran a synthetic APT-style attack campaign which included all stages of the cyber kill chain (CKC). The attack campaign started with a malicious file downloaded from an e-mail attachment. This gave the attacker the initial foothold in the network. The attacker then proceeded to perform various malicious actions typically associated with APT-level campaigns. This included exploiting system vulnerabilities for privilege escalation, registry modifications to maintain persistence, credential harvesting via the tool Mimikatz, domain enumeration, and lateral movement to new systems via the legitimate Windows Management Instrumentation (WMI) service. At the end of the campaign, the attacker compromises a domain admin account, resulting in full network ownership by the attacker
 
-4) What type of security problems does it focus on?
+### Who has been using it?
 
-To generate PicoDomain dataset, they ran an synthetic APT-style attack campaign which in- cluded all stages of the cyber kill chain (CKC). The attack campaign started with a malicious file downloaded from an e-mail attachment. This gave the attacker the initial foothold in the network. The attacker then proceeded to perform various malicious actions typically associated with APT-level campaigns. This included exploiting system vulnerabilities for privilege escalation, registry modifica- tions to maintain persistence, credential harvesting via the tool Mimikatz, domain enumeration, and lateral movement to new systems via the legitimate Windows Management Instrumentation (WMI) service. At the end of the campaign, the attacker compromises a domain admin account, resulting in full network ownership by the attacker
+[\[2](#_page22_x85.04_y199.63)] (same author of this dataset) employ an authentication graph and an unsupervised graph-based machine learning pipeline on PicoDomain to detect malicious authentication events associated with lateral movement. They also evaluate their model with Comprehensive, Multi-Source Cyber-Security Events (LANL).
 
-5) Who has been using it?
+### Can it be used to train neural networks - such as GCN?
 
-[\[2](#_page22_x85.04_y199.63)] (same author of this dataset) employ an authentication graph and an unsupervised graph-based
+This dataset is provided along with the detailed Red Team log which could be used as the ground truth label for the malicious activities. With the compact size when it only monitors a small-scale network, this dataset could be used to train or evaluate neural networks.
 
-machine learning pipeline on PicoDomain to detect malicious authentication events associated with lateral movement. They also evaluate their model with Comprehensive, Multi-Source Cyber-Security Events (LANL).
+## DARPA opTC
+### When it was created and Published 
 
-6) Can it be used to train neural networks - such as GCN?
+in 2020, this dataset is the result of the DARPA-TC Program (Defence Advanced Research Project Agency - Transparent Computing Program). The Transparent Computing (TC) pro- gram aims to make the currently opaque systems transparent by allowing the component interactions of system operations across all layers of software abstraction to have high-fidelity visibility. The aim is to study APT attacks and potentially provide instant detection to APTs, as well as complete inference to the source of the attack, or the damage that is imposed.
 
-This dataset is provided along with the detailed Red Team log which could be used as the ground truth label for the malicious activities. With the compact size when it only monitors a small scale network, this dataset could be used to train or to evaluate neural networks.
-
-4. DARPA opTC
-1) When it was created Published in 2020, this dataset is the result of the DARPA-TC Program (Defence Advanced Re- search Project Agency - Transparent Computing Program). The Transparent Computing (TC) pro- gram aims to make the currently opaque systems transparent by allowing the component interactions of system operations across all layers of software abstraction to have high-fidelity visibility. The aim is to study APT attacks and potentially provide instant detection to APTs, as well as complete inference to the source of the attack, or the damage that is imposed.
-
-   2) How it was created
+### How it was created
 
 Operationally Transparent Cyber (OpTC) is a technology transition pilot study to determine if the DARPA-TC program could scale without loss of detection performance. Its system architecture is based on Kafka, which is an open-source stream-processing server that is used to pass information among system components. Each host in the monitored network was equipped with an endpoint sensor that monitors the host events, which are then packed into JSON records before being sent to Kafka for further processing and analytics. The resulting dataset contains a large amount of both benign and malicious activities that represent real-world APT scenarios. The dataset contains more than 17 billion events, captured from 1000 hosts that operate on Windows 10 operating systems.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset contains more than 17 billion events, captured from 1000 hosts that operate on Win- dows 10 operating systems. In it current form, the data contain around 1,100 gigabytes of data in the compressed JSON format. The events were obtained during a capture period that lasts for 6 days, during which the first 3 days were the White Team carrying out benign activities, while the last 3 days consists of both benign and malicious activities performed by the Red Team. The events were stored in eCAR (Extended Cyber Analytics Repository) format that can describe an action over a host in a network. Each event has three core components, namely objects, action and fields. Object is an entity that is captured from their network and each individual host, including files, processes, tasks or modules. Temporal information is also included for each event in the form of timestamp, enabling the potential of observing the sequential attributes of the data. The unique aspect of this dataset is the high granularity level information that when it can capture the interaction of each individual computer with internal component such as files, modules, registry key, etc. The dataset also captured processes of each invididual computer in hierarchical manner where they monitored the child and parent of computer processes.
+The dataset contains more than 17 billion events, captured from 1000 hosts that operate on Windows 10 operating systems. In its current form, the data contain around 1,100 gigabytes of data in the compressed JSON format. The events were obtained during a capture period that lasts for 6 days, during which the first 3 days were the White Team carrying out benign activities, while the last 3 days consists of both benign and malicious activities performed by the Red Team. The events were stored in eCAR (Extended Cyber Analytics Repository) format that can describe an action over a host in a network. Each event has three core components, namely objects, actions and fields. An object is an entity that is captured from their network and each individual host, including files, processes, tasks or modules. Temporal information is also included for each event in the form of a timestamp, enabling the potential of observing the sequential attributes of the data. The unique aspect of this dataset is the high granularity level of information that when it can capture the interaction of each individual computer with internal components such as files, modules, registry keys, etc. The dataset also captured processes of each individual computer in a hierarchical manner where they monitored the child and parent of computer processes.
 
-4) What type of security problems does it focus on?
+### What type of security problems does it focus on?
 
-The dataset provided a completed captured of APT attack campaigns. On the first day, Red Team conducts a PowerShell empire staging scenario. The attacker (Red Team) carried out the initial check in to the system and then conduct the foothold establishment incorporated with lateral movements and privilege escalations. At the end of day 1, the attacker already reached the Domain Controller of the network. A difference attack campaign occurred on the second days which is called Custom Empireshell Empire. On this day, the Red team use the a automating domain compromise tool running on top of Empire PowerShell called DeathStar to automate the process of exploring network, credential stealing, priviledge escalation and lateral movement. After reaching the Domain Controller and capture several critical hosts, they start the exfiltrating data to and external Command and Control server. The third day contains instances of malicious software upgrades.
+The dataset provided a completed capture of APT attack campaigns. On the first day, Red Team conducts a PowerShell empire staging scenario. The attacker (Red Team) carried out the initial check-in to the system and then conduct the foothold establishment incorporated with lateral movements and privilege escalations. At the end of day 1, the attacker already reached the Domain Controller of the network. A different attack campaign occurred on the second day which is called Custom Empireshell Empire. On this day, the Red team uses an automated domain compromise tool running on top of Empire PowerShell called DeathStar to automate the process of exploring the network, credential stealing, privilege escalation, and lateral movement. After reaching the Domain Controller and capturing several critical hosts, they start the exfiltrating data to an external Command and Control server. The third day contains instances of malicious software upgrades.
 
-5) Who has been using it?
+### Who has been using it?
 
-T. Cochrane et al. [4[\] ](#_page22_x85.04_y275.35)is one of the first research using this novel dataset to evaluate their sk- tree model, a supervised learning method developed for detecting malware on streaming trees. They represent computer processes as streaming trees, which reflects the hierarchical relationships between processes within one host. Event logs in DARPA-opTC dataset were modelled naturally in a streaming trees structure, where each branch of the parent node follows the events that are associated with a particular process. The evaluation of Sk-tree conduct on Day 1 of the attack campaign of DARPA OpTC dataset and achieving an AUROC score of 98 %. [5]
+T. Cochrane et al. [4[\] ](#_page22_x85.04_y275.35) is one of the first researchers using this novel dataset to evaluate their sk- tree model, a supervised learning method developed for detecting malware on streaming trees. They represent computer processes as streaming trees, which reflect the hierarchical relationships between processes within one host. Event logs in the DARPA-opTC dataset were modeled naturally in a streaming tree structure, where each branch of the parent node follows the events that are associated with a particular process. The evaluation of Sk-tree conduct on Day 1 of the attack campaign of DARPA OpTC dataset and achieving an AUROC score of 98 %. [5]
 
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
 The records in this data are not inherently labelled with benign/malicious tags. However, this dataset is provided with a description of the malicious activities provided by the red team actors on their active days. The sheer volume of data up to 17 billion instances of data and eCAR model encapsulated richness of features make it an excellent candidate for the training and evaluation of Neural Network. The class unbalancing of this dataset also reflect the problem of the real-world cyberattack campaign.
 
-5. DAPT-2020
-1) When it was created This network-based dataset is introduced in 2020 with the purpose to replicate the character of the APT of the enterprise on a cloud platform for five days where each day can be considered as analogous to 3 months in a real-world scenario.
+## DAPT-2020
 
-   2) How it was created
+### When it was created 
+This network-based dataset is introduced in 2020 with the purpose to replicate the character of the APT of the enterprise on a cloud platform for five days where each day can be considered as analogous to 3 months in a real-world scenario.
 
-This dataset is captured from an scale-down synthetic network which infrastructure involved 2 machines: Public VM which contain public accessible services and Private VM which represented an internal network of an enterprise. The simulation conducted on five consecutive day during the weekday from Monday to Friday. On the first day of the simulation, a set of normal users will conduct normal routine business operations such as updating to WordPress website, interacting with files and folders, etc. To ensure the realisticness of the data, they generate the data with normal labeled by collecting data from real user who involved in the experiment. The synthetic attack campaign performed in the remaining day and conducted by Red team.
+### How it was created
 
-3) What is in the dataset?
+This dataset is captured from a scale-down synthetic network whose infrastructure involved 2 machines: a Public VM which contains public accessible services and a Private VM which represented an internal network of an enterprise. The simulation was conducted on five consecutive days during the weekday from Monday to Friday. On the first day of the simulation, a set of normal users will conduct normal routine business operations such as updating to WordPress website, interacting with files and folders, etc. To ensure the realisticness of the data, they generate the data with normal labels by collecting data from real users who were involved in the experiment. The synthetic attack campaign was performed in the remaining day and conducted by the Red team.
 
-This dataset provided network level data in 2 format: .csv flow data and .pcap packet data. The raw network data was directly captured all the network interfaces of the simulated network. After that, they use CICFlowMeter [6][ to](#_page22_x85.04_y350.51) extract the traffic flow data along with 80 flow features from the raw data.
+### What is in the dataset?
 
-4) What type of security problems does it focus on?
+This dataset provided network-level data in 2 formats: .csv flow data and .pcap packet data. The raw network data directly captured all the network interfaces of the simulated network. After that, they use CICFlowMeter [6][ to](#_page22_x85.04_y350.51) to extract the traffic flow data along with 80 flow features from the raw data.
 
-With the aim to simulate the behaviour of APT campaign on an enterprise, this data involved many attack techniques which cover 4 stages of the APT attack from Reconnaissance, Foothold Establish- ment, Lateral Movement and Data Exfiltration. For example, The attacker activities during the lateral movement stage conducted Credential Compromise techniques (Key Loggers, Hash retrieval, LDAP, Metasploit) Privilege Escalation techniques (Buffer Overflow, Loadmodule, Rootkit, Perl, Sqlattack, Xterm, PS).
+###  What type of security problems does it focus on?
 
-5) Who has been using it?
+With the aim to simulate the behavior of APT campaign on an enterprise, this data involved many attack techniques which cover 4 stages of the APT attack Reconnaissance, Foothold Establish- ment, Lateral Movement, and Data Exfiltration. For example, The attacker activities during the lateral movement stage conducted Credential Compromise techniques (Key Loggers, Hash retrieval, LDAP, Metasploit) Privilege Escalation techniques (Buffer Overflow, Loadmodule, Rootkit, Perl, Sqlattack, Xterm, PS).
 
-S. Lei et al.[[7\]](#_page22_x85.04_y382.39) used DAPT-2020 as a benchmarking data for their proposal of low-order correlation
+### Who has been using it?
 
-and high-order interaction (LCHI) model for the malicious traffic. The LCHI model selectively extracts the beneficial low-order correlation between the same-type features by the multivariate correlation analysis (MCA) model and attention mechanism. The low-level feature correlation is incorporated with the high-level information extracted from high-order. The experimental results show that LCHI improved 0.64 % of accuracy in DAPT-20 dataset compared to the Deep Neural Network alone.
+S. Lei et al.[[7\]](#_page22_x85.04_y382.39) used DAPT-2020 as benchmarking data for their proposal of a low-order correlation and high-order interaction (LCHI) model for the malicious traffic. The LCHI model selectively extracts the beneficial low-order correlation between the same-type features by the multivariate correlation analysis (MCA) model and attention mechanism. The low-level feature correlation is incorporated with the high-level information extracted from high-order. The experimental results show that LCHI improved 0.64 % of accuracy in DAPT-20 dataset compared to the Deep Neural Network alone.
 
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
 This dataset is suitable for the training of Neural Network since this dataset contain a large amount of feature (up to 80 feature) on flow level, a number of data sample in both classes and well-labelled.
 
-6. Security dataset (Mordor)
+## Security dataset (Mordor)
 
 https://securitydatasets.com/introduction.html
 
-1) When it was created
+### When it was created
 
-The Security Datasets project is an open-source initiative that contributes malicious and benign datasets, from different platforms to the infosec community to expedite data analysis and threat research. This dataset was previously known as the Mordor dataset
+The Security Datasets project is an open-source initiative that contributes malicious and benign datasets, from different platforms to the infosec community to expedite data analysis and threat research. This dataset was previously known as the Mordor dataset.
 
-2) How it was created
+### How it was created
 
-This dataset was created by replicate various of attack technique. The log data of each attack simulation is captured from an emulated environment. The event log is recorded, ingested and analyzed by HELK [[8\]](#_page22_x85.04_y426.22) platform.
+This dataset was created by replicating various attack techniques. The log data of each attack simulation is captured from an emulated environment. The event log is recorded, ingested, and analyzed by HELK [[8\]](#_page22_x85.04_y426.22) platform.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset provides pre-recorded security events generated by simulated adversarial techniques in the form of JavaScript Object Notation (JSON) files. Dataset included recorded logs and raw network packets. The simulation contains the attack tactic on Linux, Windows-based machines and AWS cloud platform.
+The dataset provides pre-recorded security events generated by simulated adversarial techniques in the form of JavaScript Object Notation (JSON) files. The dataset included recorded logs and raw network packets. The simulation contains the attack tactic on Linux, Windows-based machines and the AWS cloud platform.
 
-4) What type of security problems it focuses on
+### What type of security problems it focuses on
 
-The dataset contains various attack techniques categorized by platforms, adversary groups, tac- tics and techniques defined by the Mitre ATT&CK Framework including discovery, defence evasion, credential access, lateral movement, persistence, privilege escalation.
+The dataset contains various attack techniques categorized by platforms, adversary groups, tactics and techniques defined by the Mitre ATT&CK Framework including discovery, defence evasion, credential access, lateral movement, persistence, privilege escalation.
 
-5) Who has been using it?
+### Who has been using it?
 
 N/A
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
 Contains a large number of malicious samples that are well categorised by techniques, this dataset could be used to enrich the training of the Neural Network for the detection of a malicious event.
 
-2  Malware
-1. Malware Training Sets
-1) When it was created Published in 2016, this dataset was released at that time with the purpose to provide the classified dataset for malware analyses and the training of machine learning models
+Malware
+======
 
-   2) How it was created
+## Malware Training Sets
+### When it was created 
+Published in 2016, this dataset was released at that time with the purpose to provide the classified dataset for malware analyses and the training of machine learning models
+### How it was created
 
-The dataset collect the pattern from malware using 2 common malware analysis: Static analy- sis (examining the given malware binary without actually running) and Dynamic analysis (Run the malware code in systematically a controlled environment). The analyses where performed through the sample detonation in several SandBoxes (free and commercial ones) which defined a first stage of ontologically homogeneous blocks called “Analyses Results” (AR). The AR latter, will be translated by Malware Instruction Set for Behaviour Analysis (MIST) component which will be encoded into a MIST elaborated meta language to be software agnostic and to give freedom to data scientists.
+The dataset collects the pattern from malware using 2 common malware analysis: Static analysis (examining the given malware binary without actually running) and Dynamic analysis (Running the malware code in systematically a controlled environment). The analyses were performed through the sample detonation in several SandBoxes (free and commercial ones) which defined the first stage of ontologically homogeneous blocks called “Analyses Results” (AR). The AR latter, will be translated by Malware Instruction Set for Behaviour Analysis (MIST) component which will be encoded into a MIST elaborated meta language to be software agnostic and to give freedom to data scientists.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The dataset has multiple features extracted from a wide variety of executable malware. The dataset is initially composed of 4764 malware records from 5 different families of malware including APT (292 records), Crypto (record 2020), Locker (431), Zeus (2019 records) and 1270 shadow brokers. As men- tioned above, the data was generated by using 2 type of analysis which will produce 2 type of feature namely Static and Dynamic . Every feature represents a specific characteristic or behaviour of mal- ware. The extracted features covered a wide range of malware operations such as file activity (open, read, delete, modify, move), Registry activity(open, create, delete, modify, move, query, close), Service activity(open, start, create, delete, modify), Mutex (create, delete), Processes(start, terminate), Run- time DLLs, Network activity(TCP, UDP, DNS, HTTP), Hooking activity, Anti-analysis behaviours, Self-hiding behaviours, etc.
+The dataset has multiple features extracted from a wide variety of executable malware. The dataset is initially composed of 4764 malware records from 5 different families of malware including APT (292 records), Crypto (record 2020), Locker (431), Zeus (2019 records) and 1270 shadow brokers. As mentioned above, the data was generated by using 2 types of analysis which will produce 2 types of features namely Static and Dynamic. Every feature represents a specific characteristic or behaviour of malware. The extracted features covered a wide range of malware operations such as file activity (open, read, delete, modify, move), Registry activity(open, create, delete, modify, move, query, close), Service activity(open, start, create, delete, modify), Mutex (create, delete), Processes(start, terminate), Run- time DLLs, Network activity(TCP, UDP, DNS, HTTP), Hooking activity, Anti-analysis behaviours, Self-hiding behaviours, etc.
 
-4) What type of security problems does it focus on?
+### What type of security problems does it focus on?
 
 This dataset focuses on malware-related attacks including 5 malware families: APT, Crypto, Locker, Zeus and Shadow-brokers.
 
-5) Who has been using it?
+### Who has been using it?
 
-There have been many recent research that use this dataset for benchmarking malware detection models. E. Masabo et al. [9[\] ](#_page22_x85.04_y458.66)use this dataset to evaluate their malware detection 3 layer neural network model and achieved an accuracy of 97 % and AUC-ROC score of 0.99. [10[\] ac](#_page22_x85.04_y500.00)hieved the accuracy of 94 % when deployed their novel feature engineer approach along with the Gradient Boost model.
+There have been many recent research that use this dataset for benchmarking malware detection models. E. Masabo et al. [9[\] ](#_page22_x85.04_y458.66)use this dataset to evaluate their malware detection 3-layer neural network model and achieved an accuracy of 97 % and AUC-ROC score of 0.99. [10[\] ac](#_page22_x85.04_y500.00) achieved an accuracy of 94 % when deploying their novel feature engineer approach along with the Gradient Boost model.
 
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
-Contain multiple for feature which extracted from 2 difference analysis and contain a large variety of malware famalies, this dataset could be potentially used in future research to train and evaluate difference type of learning model.
+Contains multiple features extracted from 2 different analyses and contains a large variety of malware families, this dataset could be potentially used in future research to train and evaluate different types of learning models.
 
-2. EMBER-Malware
-1) When it was created The EMBER dataset has been published in 2018 with the purpose is to provide a labelled bench- mark dataset for the training of a machine learning model to detect malicious Windows portable executable files. Currently, there is 2 version of this dataset: EMBER2017 dataset contained fea- tures from 1.1 million Window Portable Executable (PE) files scanned in and before 2017 and the EMBER2018 dataset contains features from 1 million PE files scanned in and before 2018.
+## EMBER-Malware
+### When it was created 
+The EMBER dataset has been published in 2018 with the purpose is to provide a labelled benchmark dataset for the training of a machine learning model to detect malicious Windows portable executable files. Currently, there is 2 version of this dataset: EMBER2017 dataset contained features from 1.1 million Window Portable Executable (PE) files scanned in and before 2017 and the EMBER2018 dataset contains features from 1 million PE files scanned in and before 2018.
 
-   2) How it was created
+### How it was created
 
 N/A
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The EMBER dataset consists of eight groups of raw features that include both parsed features and format-agnostic histograms and counts of strings. Those groups included General file information, Header information, imported function, Exported functions, Section information, Byte histogram, Byte-entropy histogram, String information. To the pre-processing step easier for future research, they splitted the data into training and testing set. There are 900,000 records in the training set contained in 6 files (train0,.., train5) and 200,000 records in the testing set (test). Each data sample file in the training set is collected from the distinct time period.
+The EMBER dataset consists of eight groups of raw features that include both parsed features and format-agnostic histograms and counts of strings. Those groups included General file information, Header information, imported function, Exported functions, Section information, Byte histogram, Byte-entropy histogram, and String information. To the pre-processing step easier for future research, they split the data into training and testing sets. There are 900,000 records in the training set contained in 6 files (train0,.., train5) and 200,000 records in the testing set (test). Each data sample file in the training set is collected from a distinct time period.
 
-4) What type of security problems does it focus on?
+### What type of security problems does it focus on?
 
 This dataset contains a sample of activities of Window Malware
 
-5) Who has been using it?
+### Who has been using it?
 
 Beside introduced this dataset in their published work [11],[ the](#_page22_x85.04_y545.78) authors of this dataset implement a malware detection model based on LightGBM model and achieved a 98.2% detection rate with a 1%false positive rate. [[12\] ](#_page22_x85.04_y578.21)who have also used LightGBM model and further improved the performance by reducing the feature space by using file-format agnostic features and achieved the detection up to 99.4% with an AUC value of 0.9997.
 
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
-Providing a large number of the data samples and a large set of features, this dataset could be used to train neural networks for the detection of malware
+Providing a large number of data samples and a large set of features, this dataset could be used to train neural networks for the detection of malware
 
-3. Sherlock - smartphone malwares
-1) When it was created Sherlock dataset provides a significant number of ongoing long-term data collection experiments obtained from smartphone sensors. The data collection process is launched in 2014.
+## Sherlock - smartphone malware
+### When it was created
 
-   2) How it was created
+ Sherlock dataset provides a significant number of ongoing long-term data collection experiments obtained from smartphone sensors. The data collection process is launched in 2014.
 
-The testbed of the simulation included 50 Galaxy S5 smartphones which is provided to volunteers and required them to use it as the sole smartphone for at least two years. To design the realistic simulate envinronment for the generation of this dataset, they used 2 tool: SherLock for the data collection and Moriarty for the malicious activities simulation. These smartphones are installed with Moriarty which is a benign application with malicious behaviour. Every few weeks Moriarty is updated to a new version (app + behaviour) via the Google Play store. This dataset could replicate a realistic scenario that malware or spyware is masquerade as a normal application. The victim installs the app from a marketplace without realizing the consequences of the requested permissions.
+### How it was created
+
+The testbed of the simulation included 50 Galaxy S5 smartphones which is provided to volunteers and required them to use it as the sole smartphone for at least two years. To design the realistic simulate environment for the generation of this dataset, they used 2 tools: SherLock for the data collection and Moriarty for the malicious activities simulation. These smartphones are installed with Moriarty which is a benign application with malicious behaviour. Every few weeks Moriarty is updated to a new version (app + behaviour) via the Google Play store. This dataset could replicate a realistic scenario that malware or spyware  masquerades as a normal application. The victim installs the app from a marketplace without realizing the consequences of the requested permissions.
 
 ![ref1]
 
 Figure 1: Sherlock app and malicious behaviour in 2016
 
-3) What is in the dataset?
+### What is in the dataset?
 
-Sherlock dataset contain host-based data captured from seven probes for the PUSH sensors and five probes for PULL sensors. The dataset can provide up to 27 features such as Call Log, SMS Log, App Packages, Hardware Info, WiFi Scan, Battery, Location (anonymized) which can provide the state of hardware and software as well as the behaviour of user or services/application on the smartphone. By the time of this review, the dataset contain 10 billion data records monitored from 50 users (30 users over 2 year period with the addition of 20 users for 10 months). The SherLock dataset collected samples at a significantly higher frequency (from 5 seconds/sample to a couple of minutes/sample depending on the type of sensor) which will capture the smallest change of the smartphone. The dataset is provided with labelled data which could potentially used for classification problems. As their Moriarty application simulates the malware behaviour, data that related to this application could be considered as malicious sample.
+Sherlock dataset contains host-based data captured from seven probes for the PUSH sensors and five probes for PULL sensors. The dataset can provide up to 27 features such as Call Log, SMS Log, App Packages, Hardware Info, WiFi Scan, Battery, and Location (anonymized) which can provide the state of hardware and software as well as the behaviour of user or services/application on the smartphone. By the time of this review, the dataset contain 10 billion data records monitored from 50 users (30 users over 2 year period with the addition of 20 users for 10 months). The SherLock dataset collected samples at a significantly higher frequency (from 5 seconds/sample to a couple of minutes/sample depending on the type of sensor) which will capture the smallest change of the smartphone. The dataset is provided with labelled data which could potentially be used for classification problems. As their Moriarty application simulates the malware behaviour, data related to this application could be considered as a malicious sample.
 
-4) What type of security problems it focuses on
+### What type of security problems it focuses on
 
-This dataset provided the log data that capture the smartphone system behaviour when there is a malicious application which contain smartphone malware running in the background.
+This dataset provided the log data that capture the smartphone system behaviour when there is a malicious application which contains smartphone malware running in the background.
 
-5) Who has been using it?
+### Who has been using it?
 
-As this dataset capture the temporal infomration (timestamp), several resaerch which analyse the behaviour of smartphone in the consideration of time series analysis [13, [14,](#_page22_x85.04_y621.49) [15](#_page22_x85.04_y665.88)].[ \[](#_page22_x85.04_y697.21)16][ suggest](#_page23_x85.04_y56.69) the potential of this dataset for malware detection research when their malware detection model which considers the per-user basis and statistical behaviour of each user produce high performance. [17] deployed seven different machine learning models (Logistic Regression, Isotonic Regression, Random Forest, Gradient Boosted Trees, Decision Trees, Support Vector Machine, and Multilayer Perceptron) for classification to either benign or malware. Their gradient boosted trees model provided the highest on the 35 GB subset of Sherlock dataset with above 90 % overall accuracy, recall, precision and F1 score.
+As this dataset captures the temporal information (timestamp), several research works which analyse the behaviour of smartphone in the consideration of time series analysis [13, [14,](#_page22_x85.04_y621.49) [15](#_page22_x85.04_y665.88)].[ \[](#_page22_x85.04_y697.21)16][ suggest](#_page23_x85.04_y56.69) the potential of this dataset for malware detection research when their malware detection model which considers the per-user basis and statistical behaviour of each user produce high performance. [17] deployed seven different machine learning models (Logistic Regression, Isotonic Regression, Random Forest, Gradient Boosted Trees, Decision Trees, Support Vector Machine, and Multilayer Perceptron) for classification to either benign or malware. Their gradient-boosted trees model provided the highest on the 35 GB subset of the Sherlock dataset with above 90 % overall accuracy, recall, precision, and F1 score.
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
 Currently, there has not been any research on the use of this type of dataset for GCN. Providing a significant number of features and malicious activities, GCN could be potentially used for the detection of the malware present on the phone.
 
-3  IoT-related
-1. Iot-23
-1) When it was created This dataset was first published in January 2020, with captures ranging from 2018 to 2019. This IoT network traffic was captured in the Stratosphere Laboratory, AIC group, FEL, CTU University, Czech Republic. Its goal is to offer a large dataset of real and labelled IoT malware infections and IoT benign traffic for researchers to develop machine learning algorithms
+IoT-related
+======
+## Iot-23
+### When it was created 
+This dataset was first published in January 2020, with captures ranging from 2018 to 2019. This IoT network traffic was captured in the Stratosphere Laboratory, AIC group, FEL, CTU University, Czech Republic. Its goal is to offer a large dataset of real and labeled IoT malware infections and IoT benign traffic for researchers to develop machine learning algorithms
 
-   2) How it was created
+### How it was created
 
-IoT-23 is a new dataset of network traffic from the Internet of Things (IoT) devices. To simulate the real IoT network, they set up an network with 3 difference commercial off-the-shelf IoT devices: a Philips HUE smart LED lamp, an Amazon Echo home intelligent personal assistant and a Somfy smart door lock. The dataset is designed with 23 difference scenario, 20 of which present the execution of malware, only 3 scenario capture network information of these in-test IoT devices in normal operation.
+IoT-23 is a new dataset of network traffic from the Internet of Things (IoT) devices. To simulate the real IoT network, they set up a network with 3 different commercial off-the-shelf IoT devices: a Philips HUE smart LED lamp, an Amazon Echo home intelligent personal assistant and a Somfy smart door lock. The dataset is designed with 23 different scenarios, 20 of which present the execution of malware, only 3 scenario capture network information of these in-test IoT devices in normal operation.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-The data set contains a total of 325,307,990 captured traffic flow, of which 294,449,255 are malicious. This dataset is provided in 2 types of files: .pcap files, which are the original packet capture files and conn.log.labeled files, which are generated by Zeek network analyser. This dataset considers IoT related attacks which consider several families of IoT botnet malware in the dataset such as Mirai, Oriku, Muhstik, Gagfyt, etc. In the attack simulation, the infected devices with this malware botnet will be controlled through C2C server to conduct malicious activities such as DDoS on another victim machine, FileDownload, Port Scan. The dataset is provided in explicit folder where each folder will contain data captured from difference scenario. This dataset is well labelled since the dataset are labelled based on either the footprint of a type of malware when installed on a device or the activities of the botnet devices (C2C connection, Ddos, Port Scan, FileDownload, etc).
+The data set contains a total of 325,307,990 captured traffic flow, of which 294,449,255 are malicious. This dataset is provided in 2 types of files: .pcap files, which are the original packet capture files, and conn.log.labeled files, which are generated by Zeek network analyzer. This dataset considers IoT-related attacks which consider several families of IoT botnet malware in the dataset such as Mirai, Oriku, Muhstik, Gagfyt, etc. In the attack simulation, the infected devices with this malware botnet will be controlled through C2C server to conduct malicious activities such as DDoS on another victim machine, FileDownload, Port Scan. The dataset is provided in an explicit folder where each folder will contain data captured from different scenarios. This dataset is well labelled since the dataset are labelled based on either the footprint of a type of malware when installed on a device or the activities of the botnet devices (C2C connection, Ddos, Port Scan, FileDownload, etc).
 
-4) What type of security problems does it focus on?
+### What type of security problems does it focus on?
 
-This dataset focuses on IoT related attacks and provided several attack techniques such as DDoS, malware, Botnet, etc.
+This dataset focuses on IoT-related attacks and provided several attack techniques such as DDoS, malware, Botnet, etc.
 
-5) Who has been using it?
+### Who has been using it?
 
-AK Sahu et al. [[18\] ](#_page23_x85.04_y128.37)used IoT-23 dataset to evaluate their Hybrid Deep Learning model using a Convolution Neural Network (CNN) to extract the accurate feature representation of data and further classify those by Long Short-Term Memory (LSTM) Model. The model produces an accuracy of 96 per cent when evaluate on this. [[19\] use](#_page23_x85.04_y160.25) IoT-23 dataset to evaluate an ensemble method that leverages deep models such as the Deep Neural Network (DNN) and Long Short-Term Memory (LSTM) and a meta- classifier (i.e., logistic regression) following the principle of stacked generalization. Their technique achieved 99.7 per cent of accuracy.
+AK Sahu et al. [[18\] ](#_page23_x85.04_y128.37)used IoT-23 dataset to evaluate their Hybrid Deep Learning model using a Convolution Neural Network (CNN) to extract the accurate feature representation of data and further classify those by Long Short-Term Memory (LSTM) Model. The model produces an accuracy of 96 percent when evaluate on this. [[19\] use](#_page23_x85.04_y160.25) IoT-23 dataset to evaluate an ensemble method that leverages deep models such as the Deep Neural Network (DNN) and Long Short-Term Memory (LSTM) and a meta-classifier (i.e., logistic regression) following the principle of stacked generalization. Their technique achieved 99.7 per cent of accuracy.
 
-6) Can it be used to train neural networks - such as GCN?
+### Can it be used to train neural networks - such as GCN?
 
-Providing 2 types of data format (raw and featured), this dataset make room for future research on the development of a learning model for detecting malicious activities in an IoT environment
+Providing 2 types of data format (raw and featured), this dataset makes room for future research on the development of a learning model for detecting malicious activities in an IoT environment.
 
-2. ToN-IoT
-1) When it was created Released in 2020, The TON-IoT datasets are new generations of Industry 4.0/Internet of Things (IoT) and Industrial IoT (IIoT) datasets for evaluating the fidelity and efficiency of different cyberse- curity applications based on Artificial Intelligence (AI)
+## ToN-IoT
+### When it was created 
+Released in 2020, The TON-IoT datasets are new generations of Industry 4.0/Internet of Things (IoT) and Industrial IoT (IIoT) datasets for evaluating the fidelity and efficiency of different cybersecurity applications based on Artificial Intelligence (AI)
 
-   2) How it was created
+### How it was created
 
-The datasets were simulated based on a realistic testbed that includes the properties of SDN, NVF and SO which can simulated three layers that comprise modern IoT networks – edge, fog, and cloud. The datasets were gathered in parallel processing to collect labelled data of normal and cyber- attack events from the proposed testbed above. The test-bed architecture of this dataset included five components: Orchestrated server, Middleware server, Client Systems, Offensive systems and Data management systems.
+The datasets were simulated based on a realistic testbed that includes the properties of SDN, NVF and SO which can simulated three layers that comprise modern IoT networks – edge, fog, and cloud. The datasets were gathered in parallel processing to collect labeled data of normal and cyber-attack events from the proposed testbed above. The test-bed architecture of this dataset included five components: Orchestrated server, Middleware server, Client Systems, Offensive systems, and Data management systems.
 
-3) What is in the dataset?
+### What is in the dataset?
 
-Data are collected from a realistic representation of a medium-scale network designed at the Cyber Range and IoT Labs at the UNSW Canberra. The ToN-IoT datasets include heterogeneous data   sources gathered from the Telemetry data of IoT/IIoT services, as well as the Operating Systems logs and Network traffic of IoT network. The datasets were gathered in a parallel processing to collect both normal and malicious events from several sources including network traffic (.pcap, Zeek logs), Windows audit traces (Window .blg), Linux audit traces, and telemetry data of IoT services. The raw   data of this dataset is collected from 4 sources which came from difference entities of the simulation network: IoT/IIoT, Network, Linux and Windows. Dataset are provided in 5 difference directories:
+Data are collected from a realistic representation of a medium-scale network designed at the Cyber Range and IoT Labs at the UNSW Canberra. The ToN-IoT datasets include heterogeneous data   sources gathered from the Telemetry data of IoT/IIoT services, as well as the Operating Systems logs and Network traffic of IoT network. The datasets were gathered in parallel processing to collect both normal and malicious events from several sources including network traffic (.pcap, Zeek logs), Windows audit traces (Window .blg), Linux audit traces, and telemetry data of IoT services. The raw   data of this dataset is collected from 4 sources which came from different entities of the simulation network: IoT/IIoT, Network, Linux, and Windows. Datasets are provided in 5 different directories:
 
-+ Raw datasets: contain 4 dataset from difference mentioned above sources
++ Raw datasets: contain 4 datasets from different sources
 + Processed datasets: Contain four datasets that have been filtered and pre-processed to generate
 
 standard features and their label
 
 + Train Test datasets: Contain samples of the four datasets in a CSV format that were selected![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.002.png)![](Aspose.Words.91fd896a-5dd5-4ed9-9698-3f8fc222ecaf.003.png)
 
-to split into hand-on training and testing set. This directory is useful for DL/ML focused research.
+to split into hands-on training and testing set. This directory is useful for DL/ML-focused research.
 
-+ Description~~ stats~~ datasets: Contain description of the features and statistical information of four
++ Description~~ stats~~ datasets: Contains a description of the features and statistical information of four dataseta
 
-dataset
++ SecurityEvents~~ GroundTruth~~ datasets: Contain 4 datasets recorded when the malicious event happening
 
-+ SecurityEvents~~ GroundTruth~~ datasets: Contain 4 dataset recorded when the malicious event
+### What type of security problems it focuses on?
 
-happening
+The following attack types are represented in the dataset: Scanning attack, DoS, DDoS, Ran- somware, Backdoor, Injection, Cross-site scripting, Password cracking, and Man-In-The-Middle attacks.
 
-4) What type of security problems it focuses on?
+### Who has been using it?
 
-The following attack types are represented in the dataset: Scanning attack, DoS, DDoS, Ran- somware, Backdoor, Injection, Cross-site scripting, Password cracking and Man-In-The-Middle
+Capturing network activities from 4 different sources make this a versatile dataset when it provides not only network-based data (packet and flow data) but also host-based data (log data from Window, Linux and IoT devices). Gou et al. [20[\] presen](#_page23_x85.04_y192.13)t this dataset to evaluate their ML-based IDS scheme for attack detection in IoT networks by employing an ensemble feature selection approach. Their Random Forrest model achieves the highest accuracy and F1-score of 99.22 and 98.90.
 
-5) Who has been using it?
+### Can it be used for to train neural networks - such as GCN?
 
-Capturing network activities from 4 difference source make this a versatile dataset when it provide not only network-based data (packet and flow data) but also the host-based data (log data from Window, Linux and IoT devices). Gou et al. [20[\] presen](#_page23_x85.04_y192.13)t this dataset to evaluate their ML-based IDS scheme for attack detection in IoT networks by employing an ensemble feature selection approach. Their Random Forrest model achieves the highest accuracy and F1-score of 99.22 and 98.90.
+Contains heterogeneous data sources (network data and log data from Windows, Linux and IoT devices), this dataset could be potentially used for the training of various types of detection systems.
 
-6) Can it be used for to train neural networks - such as GCN?
+## Bot-IoT
+### When it was created 
+The BoT-IoT dataset was created in 2018 by capturing the network packet from a realistic network environment in the Cyber Range Lab of UNSW Canberra with the purpose to capture the network information of the network under the Botnet attack.
 
-Contain heterogeneous data sources (network data and log data from Window, Linux and IoT devices), this dataset could be potentially used for the training of various type of detection system.
+### How it was created
 
-3. Bot-IoT
-1) When it was created The BoT-IoT dataset was created in 2018 by capturing the network packet from a realistic network environment in the Cyber Range Lab of UNSW Canberra with the purpose to capture the network information of the network under the Botnet attack.
+To simulate the Bot-IoT dataset, a test-bed is designed with 2 components: The network platforms include normal and attacking virtual machines (VMs) with additional network devices such as a firewall and tap; and the simulated IoT services, which contain some IoT services such as a weather station. The simulated network of VMs consists of four Kali machines, an Ubuntu Server, Ubuntu, mobile, Windows 7, Metasploitable and an Ubuntu Tap machine. The Kali VMs, which belong to the attacking machines, performed port scanning, DDoS and other Botnet-related attacks by targeting the Ubuntu Server, Ubuntu mobile, Windows 7, and Metasploitable VMs. In the Ubuntu Server, a number of services had been deployed, such as DNS, email, FTP, HTTP, and SSH servers, along with simulated IoT services, in order to mimic real network systems. Node-red middleware is used to simulate the IOT devices in VM environment. The raw network packets (pcap files) of the network are captured by using the tshark tool, a terminal-based Wireshark. The network flow information is also extracted from the raw network packet using the Argus tool. MQTT protocol, a lightweight communication protocol primarily used for real-world IoT devices, is also used to simulate realistic communication between IoT devices.
 
-   2) How it was created
-
-To simulate the Bot-IoT dataset, a test-bed are designed with 2 components: The network platforms include normal and attacking virtual machines (VMs) with additional network devices such as a firewall and tap; and the simulated IoT services, which contain some IoT services such as a weather station. The simulated network of VMs consists of four Kali machines, an Ubuntu Server, Ubuntu, mobile, Windows 7, Metasploitable and an Ubuntu Tap machine. The Kali VMs, which belong to the attacking machines, performed port scanning, DDoS and other Botnet-related attacks by targeting the Ubuntu Server, Ubuntu mobile, Windows 7 and Metasploitable VMs. In the Ubuntu Server, a number of services had been deployed, such as DNS, email, FTP, HTTP, and SSH servers, along with simulated IoT services, in order to mimic real network systems. Node-red middleware are used to simulate the IOT devices in VM environment. The raw network packets (pcap files) of the network are captured by using the tshark tool, a terminal-based Wireshark. The network flow information are also extracted from the raw network packet using Argus tool. MQTT protocol, a lightweight communication protocol primary used for real world IoT devices, are also used to simulate the realistic communication between IoT devices.
-
-3) What is in the dataset?
+### What is in the dataset?
 
 The dataset provided 69.3 GB of raw network traffic (.pcap) which contain more than 72.000.000 records. The compact network flow extracted using Argus tool are also take up to 16.7 GB.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-This dataset consider IoT related attack which includes several attack technique such as DDoS, DoS, OS and Service Scan, Keylogging and Data exfiltration attacks, with the DDoS and DoS attacks further organized, based on the protocol used.
+This dataset considers IoT-related attacks which includes several attack technique such as DDoS, DoS, OS and Service Scan, Keylogging, and Data exfiltration attacks, with the DDoS and DoS attacks further organized, based on the protocol used.
 
-5) Who has been using it?
+### Who has been using it?
 
-[\[21](#_page23_x85.04_y236.52)] develop a feed-forward neural networks model for binary and multi-class classification of differ-
+[\[21](#_page23_x85.04_y236.52)] develop a feed-forward neural networks model for binary and multi-class classification of difference attack vectors such as denial of service, distributed denial of service, reconnaissance and information theft attacks. This technique achieves results close to 0.99 across all evaluation measures including accuracy, precision, recall and F1 score.
 
-ence attack vector such as denial of service, distributed denial of service, reconnaissance and informa- tion theft attacks. This technique achieve result close to 0.99 across all evaluation measures including accuracy, precision, recall and F1 score.
+### Can it be used for to train neural networks - such as GCN?
 
-6) Can it be used for to train neural networks - such as GCN?
+Containing a large volume of data samples, this dataset could be potentially used for the training of various types of Neural Networks.
 
-Contain a large volume of datasample, this dataset could be potentially used for the training of various type of Neural Network.
+## KitSune
+### When it was created 
+This dataset is obtained from either an IP-based commercial surveillance system or a network full of IoT devices.
 
-4. KitSune
-1) When it was created This the dataset is obtained from the a either an IP-based commercial surveillance system or a network full of IoT devices.
+###  How it was created
 
-   2) How it was created
+The simulation infrastructure of the dataset consists of two deployments of four HD surveillance cameras. The camera in each deployment is connected to the DVR server via a site-to-site VPN tunnel. An additional network which included a WiFi network populated with 9 IoT devices, and three PC are used to create a more realistic simulation environment (noisier network). Kitsune monitor their network through one of the routers in their network, so in the case of the attack packet is not go direct to the monitored router, the attack activities will be monitored (implicitly) from the change in the statistics of the network’s behaviour causing by the malicious activities.
 
-The simulation infrastructure of the dataset consists of two deployments of four HD surveillance cameras. The camera in each deployment are connected to the DVR server via a site-to-site VPN tunnel. An additional network which included a WiFi network populated with 9 IoT devices, and three PC are used to create a more realistic simulation environment (more noisier network). Kitsune monitor their network through one of the router in their network, so in the case of the attack packet is not go direct to the monitored router, the attack activities will be monitored (implicitly) from the change in the statistical of the network’s behaviour causing by the malicious activities.
-
-3) What is in the dataset?
+### What is in the dataset?
 
 In order to provide a snapshot of the network which could capture the statistical information of hosts and their behaviour, Kitsune use AfterImage to extract 115 features from each data record (packet data) in the dataset. Data is stored in both .pcap (raw format) and .csv (with feature) format.
 
-4) what type of security problems it focuses on
+### what type of security problems it focuses on
 
-This dataset focus on the attack activities on an camera surveillance system with the consideration of the noise from the IoT network. There are 9 attack technique are used to generate this dataset which could be categorised into 4 type: Reconnaissance, Man in the Middle, DoS, Botnet. The attack technique included: OS Scan, Fuzzing, Video Injection, ARP MitM, Active Wiretap, SSDP Flood, SYN DoS, SSL Renegotiation, Mirai. Considering variety
+This dataset focuses on the attack activities on a camera surveillance system with the consideration of the noise from the IoT network. There are 9 attack techniques used to generate this dataset which could be categorised into 4 types: Reconnaissance, Man in the Middle, DoS, Botnet. The attack technique included: OS Scan, Fuzzing, Video Injection, ARP MitM, Active Wiretap, SSDP Flood, SYN DoS, SSL Renegotiation, Mirai. Considering variety
 
-5) Who has been using it?
+### Who has been using it?
 
-Apart from proposing Kitsune dataset, the author of this dataset also introduce KitNet, a lightweight and online anomaly detection model which based on ensemble autoencoders model. KitNet obtained high performance with an AUC score above 0.9 in 7 out of 9 attack technique in the Kitsune dataset (0.79 for ARP MitM and 0.8 for Video Injection)
+Apart from proposing Kitsune dataset, the author of this dataset also introduce KitNet, a lightweight and online anomaly detection model based on the ensemble autoencoders model. KitNet obtained high performance with an AUC score above 0.9 in 7 out of 9 attack techniques in the Kitsune dataset (0.79 for ARP MitM and 0.8 for Video Injection)
 
-6) What it be used for to train neural networks - such as GCN?
+### What it be used for to train neural networks - such as GCN?
 
-![ref1]
+![ref1] Figure 2: Kisune 9 attack scenario Each packet (data sample) in the dataset could represent as a node in GCN. However, there is a concern about the explosion of the number of nodes and edges in the GCN model since there is a lot of packet when monitoring a network e.g. a payload is usually split into many small pieces of packets.
 
-Figure 2: Kisune 9 attack scenario
+Insider Threat
+======
+## TWOS
+### When it was created 
+TWOS dataset is delivered along with their paper [22][ whic](#_page23_x85.04_y280.35)h published in 2017. This is a miscel- laneous dataset aim to provide the representation of insider threat behaviours through the gamified simulation approach.
 
-Each packet (data sample) in the dataste could represented as a node in GCN. However, there is a concern about explosion of the number of node and edge in the GCN model since there is a lot of packet when monitoring a network e.g. a payload is usually split into many small piece of packet.
+### How it was created
 
-4  Insider Threat
-1. TWOS
-1) When it was created TWOS dataset is delivered along with their paper [22][ whic](#_page23_x85.04_y280.35)h published in 2017. This is a miscel- laneous dataset aim to provide the representation of insider threat behaviours through the gamified simulation approach.
+In order to obtain data containing the near-realistic instances of insider threats, the author of TWOS dataset design a multi-player competition where each team mimic a company and tried to sell their product to a common set of customers. The game designed with 3 phases: normal periods, firing and hiring and wildcard. While during the normal phase, the simulation tried to capture the data for normal user behaviour, the other 2 stages tried to stimulate players to conduct behaviours of insider threat such as traitor and masquerader.
 
-   2) How it was created
+### What is in the dataset?
 
-In order to obtain data containing the near-realistic instances of insider threats, the author of TWOS dataset design a multi-player competition where each team mimic a company and tried to sell their product to a common set of customer. The game designed with 3 phase: normal periods, firing and hiring and wildcard. While during the normal phase, the simulation tried to capture the data for normal user behaviour, the other 2 stage tried to stimulate players to conduct behaviours of insider threat such as traitor and masquerader.
+During the game, the author tried to capture user behaviour data through 7 sources: mouse traces, keystrokes, Host monitor Logs (Process and File-System Monitor), network, SMTP Logs – Email Bodies, SMTP Logs – Meta-Information (Excluding Email Bodies), Logon/logout Activities, Psychological Questionnaires. In total, they captured 320 hours of activities from 24 volunteer users spanning 5 days. For each instance of insider threat, 18 hours of masquerader data were recorded and at least two instances of traitor data are also included in the final release of the dataset.
 
-3) What is in the dataset?
+### What type of security problems it focuses on?
 
-During the game, the author tried to capture user behaviour data through 7 sources: mouse traces, keystroke, Host monitor Logs (Process and File-System Monitor), network, SMTP Logs – Email Bodies, SMTP Logs – Meta-Information (Excluding Email Bodies), Logon/logout Activities, Psychological Questionnaires. In total, they captured 320 hours of activities from 24 volunteer users spanning across 5 days. For each instance of insider threat, 18 hours of masquerader data were recorded and at least two instances of traitor data are also included in the final release of the dataset.
+The TWOS dataset by using the gamified approach for the simulation to provides instances of insider threat attack scenarios including masqueraders and traitors.
 
-4) What type of security problems it focuses on?
+### Who has been using it?
 
-The TWOS dataset by using the gamified approach for the simulation to provides instances of insider threat attack scenario including masquarader and traitor.
+Containing data which capture from various sources, this dataset shows its potential in multiple areas of cyber security that relate to the insider threat area such as authorship verification and identification, continuous authentication, and sentiment analysis. [23] [emplo](#_page23_x85.04_y323.64)y several unsupervised machine learning models for  anomaly detection such as Autoencoder (AE), Isolation Forest (IF), Lightweight On-Line Anomaly Detection (LODA), and Local Outlier Factor (LOF). Their unsupervised AE outperformed others with the highest AUC of 0.794.
 
-5) Who has been using it?
+### Can it be used for to train neural networks - such as GCN?
 
-Containing data which capture from various sources, this data shown its potential in multiple areas of cyber security that relate to the insider threat area such as authorship verification and identification, continuous authentication, and sentiment analysis. [23] [emplo](#_page23_x85.04_y323.64)y several unsupervised machine learning model for the anomaly detection such as Autoencoder (AE), Isolation Forest (IF), Lightweight On-Line Anomaly Detection (LODA), and Local Outlier Factor (LOF). Their unsupervised AE outperformed others with the highest AUC of 0.794.
+Despite containing both examples of traitor and masquerader, this dataset hardly represents the wide variety of insider threat scenarios that take place in real-world settings. There are two main reasons for these shortcomings, involving the synthetic nature of the dataset, and the game theoric approach that was adopted to simulate the insider threat activities. In reality, the masquerader behaviour in the internal network is closely similar to APT behaviours in the stage where they are already in the network (Foothold Establishment, internal Reconnaissance, Lateral Movement, Data Exfiltration).
 
-6) Can it be used for to train neural networks - such as GCN?
+## CMU-CERT
+### When it was created 
+CMU-CERT dataset was first introduced in the paper [24][ in ](#_page23_x85.04_y367.47)2013. CMU-CERT dataset is a synthetic dataset that is widely used by current state-of-the-art insider threat detection proposals.
 
-Despite containing both examples of traitor and masquerader, this dataset hardly represents the wide variety of insider threat scenarios that take place in real-world settings. There are two main reasons for these shortcomings, involving the synthetic nature of the dataset, and the game theoric approach that was adopted to simulate the insider threat activities. In reality, the masquarader behaviour in the internal network are closely similar to APT behaviours the stage where they are already in the network (Foothold Establishment, internal Reconnaissance, Lateral Movement, Data Exfiltration).
+### How it was created
 
-2. CMU-CERT
-1) When it was created CMU-CERT dataset was first introduced in the paper [24][ in ](#_page23_x85.04_y367.47)2013. CMU-CERT dataset is a synthetic dataset that is widely used by current state-of-the-art insider threat detection proposals.
+To capture the data instance for insider threat, they designed a synthetic medium-sized organisational intranet and simulated five insider threat scenarios along with normal activities, including: (1) using removable drives to upload data to wikileaks.org, (2) surfing job websites and soliciting employments from competitors, (3) keylogger usage, (4) steal credential files through email and (5) uploading credentials accredited documents to Dropbox for personal gain.
 
-   2) How it was created
+### What is in the dataset?
 
-To capture the data instance for insider threat, they designed a synthetic medium-sized organisa- tional intranet and simulated five insider threat scenarios along with normal activities, including: (1) using removable drives to upload data to wikileaks.org, (2) surfing job websites and soliciting employ- ments from competitors, (3) keylogger usage, (4) steal credential files through email and (5) uploading credentials accredited documents to Dropbox for personal gain.
+In the newest iteration of this dataset (r6.2), the dataset contains approximately 200 GB of log data from 4000 users which capture their daily activities between January/2010 and June/2011. For the simulation of attack scenarios, there are 5 users who have taken malicious actions and affected other 23 users.
 
-3) What is in the dataset?
+### What type of security problems it focuses on?
 
-In the newest iteration of this dataset (r6.2), the dataset contain approximately 200 GB of log data from 4000 users which capture their daily activities between January/2010 and June/2011. For simulation of attack scenarios, there are 5 users who have taken malicious actions and affected other 23 users.
+This dataset simulates the malicious activities of insider threat in an enterprise. Attacker activities included collecting other user data, data theft and data exfiltration. These activities will be recorded in the log file provided by this dataset. The dataset provided various security logs including authentication, system (removable drive usage activities), web proxy, email, file access, LDAP and psychometrics. It is noteworthy that these log have been transformed and correlated through a pre-processing procedure resulting in a cleaner and tidier format and stored in several .csv files namely http, file, device, logon and email.
 
-4) What type of security problems it focuses on?
+### Who has been using it?
 
-This dataset simulate the malicious activities of insider threat in a enterprise. Attacker activities included collecting other user data, data theft and data exfiltration. These activities will be record in the log file providing by this dataset. The dataset provided various security logs including authentica- tion, system (removable drive usage activities), web proxy, email, file access, LDAP and psychometric. It is noteworthy that these log have been transformed and correlated through a pre-processing proce- dure resulting in a cleaner and tidier format and stored in several .csv files namely http, file, device, logon and email.
+Since this is one of the rare datasets that contain instances of insider threat, this dataset is popularly used in insider threat research. Jiang et al. [25][ used](#_page23_x85.04_y399.35) a combination of a graph-based approach and an anomaly detection technique, utilising multidimensional inputs given by CMU-CERT r4.2 dataset such as user activities, emails correspondence and psychometric measures. A bipartite graph was constructed using the information of user interactions to hosts, each was represented by two distinct sets of vertices. Interactions between users and hosts are reflected by edges with their associated weight. The weights are determined solely from the number of ”logoff” activities during the entire duration of the dataset. [[25\] ](#_page23_x85.04_y399.35)applied a feature engineering process based on statistical analysis, sentiment and topic analysis of all the activities from 1000 users in a stimulated organisation represented in the CMU-CERT r4.2 dataset. They then leverage Graph Convolutional Networks [26] to[ learn](#_page23_x85.04_y443.74) the deeper latent embeddings for detecting malicious insiders.
 
-5) Who has been using it?
+### Can it be used for to train neural networks - such as GCN?
 
-Since this is one of the rare dataset that contain instance of insider threat, this dataset is popularly used in insider threat resaerch. Jiang et al. [25][ used](#_page23_x85.04_y399.35) a combination of a graph-based approach and an anomaly detection technique, utilising multidimensional inputs given by CMU-CERT r4.2 dataset such as user activities, emails correspondence and psychometric measures. A bipartite graph was constructed using the information of user interactions to hosts, each was represented by two distinct sets of vertices. Interactions between users and hosts are reflected by edges with their associated weight. The weights are determined solely from the number of ”logoff” activities during the entire duration of the dataset. [[25\] ](#_page23_x85.04_y399.35)applied a feature engineering process based on statistical analysis, sentiment and topic analysis of all the activities from 1000 users in a stimulated organisation represented in the CMU-CERT r4.2 dataset. They then leverage Graph Convolutional Networks [26] to[ learn](#_page23_x85.04_y443.74) the deeper latent embeddings for detecting malicious insiders.
+CMU-CERT dataset [[24\] is](#_page23_x85.04_y367.47) a synthetic dataset that is widely used by current state-of-the-art insider threat detection proposals. It includes system logs of both insider threats and benign activities based on scenarios that contain both traitor and masquerader instances.
 
-6) Can it be used for to train neural networks - such as GCN?
+Network-related (DDos/Dos/PS/Worm)
+======
+## UNSW NB15
+### When it was created 
+The dataset was created in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) (Australian Center for Cyber Security (ACCS), 2014) using the IXIA PerfectStorm tool. This data aim to deliver the realistic of the network traffic by using real normal traffic and contemporary synthesized attack traffic. By the time this dataset was released, it aim to address the issue of the lack of modern normal and attack network traffic for the training of machine learning models.
 
-CMU-CERT dataset [[24\] is](#_page23_x85.04_y367.47) a synthetic dataset that is widely used by current state-of-the-art insider threat detection proposals. It includes system logs of both insider threat and benign activities based on scenarios that contain both traitor and masquerader instances.
+### How it was created
 
-5  Network-related (DDos/Dos/PS/Worm)
-1. UNSW NB15
-1) When it was created The dataset was created in the Cyber Range Lab of the Australian Centre for Cyber Security (ACCS) (Australian Center for Cyber Security (ACCS), 2014) using the IXIA PerfectStorm tool. This data aim to deliver the realistic of the network traffic by using the real normal traffic and contemporary synthesized attack traffic. By the time this dataset was released, it aim to address the issue of the lack of modern normal and attack network traffic for the training of machine learning models.
+This is semi-synthetic data since it contains the hybrid of real modern normal activities and synthetic contemporary attack behaviours. The test-bed for the simulation in this dataset use emulated environment with 3 virtual servers where one of which formed abnormal/malicious activities in the network traffic. Both normal and attack traffic in the simulation is generated by the IXIA PerfectStorm tool, a network security platform that can generate malicious traffic for test and validating network infrastructure. After the simulation, the dataset contain approximately 100GB of raw data captured by using tcpdump tool. Data is available in 2 formats: raw packet format (.pcap) and flow feature format (.csv). The feature is extracted from raw network data by using the Argus tool and Bro-IDS which generate 2 separate output files. To generate feature-rich flow data, they matched the output file based on the flow identities: Source IP address, Source port number, Destination IP address, Destination port number, Transaction protocol.
 
-   2) How it was created
-
-This is a semi-synthetic data since it is contain the hybrid of real modern normal activities and synthetic contemporary attack behaviours. The test-bed for the simulation in this dataset use emulated environment with 3 virtual server where one of them formed the abnormal/malicious activities in the network traffic. Both normal and attack traffic in the simulation are generated by the IXIA PerfectStorm tool, a network security platform that can generate malicious traffic for test and validate network infrastructure. After the simulation, the dataset contain approximately 100GB of raw data captured by using tcpdump tool. Data available in 2 format: raw packet format (.pcap) and flow feature format (.csv). The feature is extracted from raw network data by using the Argus tool and Bro-IDS which generate 2 seperate output file. To generate a feature-rich flow data, they matched the output file based on the flow identities: Source IP address, Source port number, Destination IP address, Destination port number, Transaction protocol.
-
-3) What is in the dataset?
+### What is in the dataset?
 
 With the aim to produce a feature-rich dataset for the classification task, the generated flow feature data (.csv) contain 42 features (not including flow identity and labels), 30 features are gathered information from data packets, 12 additional feature. The total number of traffic records is two million and 540,044 which are stored in the four CSV files. This dataset aim to provide a bench-marking for evaluating the Network Intrusion Detection System (NIDS) performance.
 
-4) What type of security problems it focuses on?
+### What type of security problems it focuses on?
 
-The IXIA tool used to generate this dataset are able to simulate millions of real- world end-user environments. Using this tool, they have generated malicious traffic represented for nine type of attacks: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms. This dataset not tried to simulated the whole APT campaign when they only contain Reconnaissance and Foothold Establishment stage. The malicious scenario in this dataset focus on the traffic level attacks.
+The IXIA tool used to generate this dataset are able to simulate millions of real-world end-user environments. Using this tool, they have generated malicious traffic represented for nine type of attacks: Fuzzers, Analysis, Backdoors, DoS, Exploits, Generic, Reconnaissance, Shellcode and Worms. This dataset not tried to simulate the whole APT campaign when they only contain Reconnaissance and Foothold Establishment stage. The malicious scenario in this dataset focuses on the traffic-level attacks.
 
-5) Who has been using it?
+### Who has been using it?
 
-Chkirbene et al. [[27\] ](#_page23_x85.04_y475.07)achieved the accuracy and F1 score of 95.37 % and 0.92, respectively, when using the hybrid anomaly-based intrusion detection model which used the Random Forest (RF) for feature selection and then used RF and Regression Trees for classification. [28] [prop](#_page23_x85.04_y519.46)osed an Anomaly Detection IoT (AD-IoT) system based on Random Forrest. Their model have achieved the accuracy up to 99.34 % with the F1 score of 0.98. [[29\] ](#_page23_x85.04_y572.76)proposed to use deep learning network (DNN) architecture for anomaly detection an accuracy of 94.04 % and above 0.95 for precision and recall
+Chkirbene et al. [[27\] ](#_page23_x85.04_y475.07)achieved accuracy and F1 score of 95.37 % and 0.92, respectively when using the hybrid anomaly-based intrusion detection model which used the Random Forest (RF) for feature selection and then used RF and Regression Trees for classification. [28] [prop](#_page23_x85.04_y519.46)osed an Anomaly Detection IoT (AD-IoT) system based on Random Forrest. Their model achieved an accuracy up to 99.34 % with an F1 score of 0.98. [[29\] ](#_page23_x85.04_y572.76)proposed to use of deep learning network (DNN) architecture for anomaly detection with an accuracy of 94.04 % and above 0.95 for precision and recall
 
-6) Can it be used for to train neural networks - such as GCN?
+### Can it be used for to train neural networks - such as GCN?
 
-Attack technique simulated on network level which is well-labelled on flow level based on the attack technique type. The dataset was provided along with the feature-rich flow data, the data have been used to train the Neural Network models for the anomaly detection models.
+Attack technique is simulated at the network level which is well-labelled on the flow level based on the attack technique type. The dataset was provided along with the feature-rich flow data, the data have been used to train the Neural Network models for the anomaly detection models.
 
-2. CAIDA
+## CAIDA
 1) When it was created This dataset is proposed by the Center of Applied Internet Data Analysis, which contains different datasets, including, CAIDA DDOS, CAIDA Worm, and RSDoS Attack Metadata (2018-09).
 
    2) How it was created
