@@ -19,7 +19,7 @@ main:
     url: /code/
     
   - title: "Blog"
-    url: /posts/
+    url: /year-archive/
 
   - title: "Others"
     url: /others/   
