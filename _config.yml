@@ -10,7 +10,7 @@ locale                   : "en-UK"
 title                    : "Vincent Lam"
 title_separator          : "-"
 name                     : &name "Vincent Lam"
-description              : &description "Data scientist at Department of Health and Social"
+description              : &description "Data scientist in Singapore"
 url                      : https://vince-lam.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vince-lam/vince-lam.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Vincent Lam"
+  name             : "Vince Lam"
   avatar           : "profile.png"
   bio              : "Data scientist at Department of Health and Social Care"
-  location         : "London, UK"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "vincentlam_@outlook.com"
+  email            : "vincenthmlam@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
