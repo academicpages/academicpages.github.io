@@ -9,3 +9,4 @@ location: "Tehran, Iran"
 ---
 
 Course Professor: Dr. Sajedi: Spring 2023
+Responsibilities: Designing assignments and the final project
