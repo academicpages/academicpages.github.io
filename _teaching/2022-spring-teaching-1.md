@@ -8,6 +8,4 @@ date: 2023-02-01
 location: "Tehran, Iran"
 ---
 
-Course Professor: Dr. Sajedi: Spring 2023
-
-Responsibilities: Designing assignments and the final project
+Responsibilities: Designing assignments and the final project, Dr. Sajedi, Spring 2023

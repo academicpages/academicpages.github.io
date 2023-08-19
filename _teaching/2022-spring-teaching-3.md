@@ -8,6 +8,4 @@ date: 2022-02-01
 location: "Tehran, Iran"
 ---
 
-Course Professor: Dr. Rokni: Spring 2022
-
-Responsibilities: Designing assignments and grading them
+Responsibilities: Designing assignments and grading them, Dr. Rokni, Spring 2022

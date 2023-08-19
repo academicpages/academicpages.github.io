@@ -8,6 +8,4 @@ date: 2022-02-01
 location: "Tehran, Iran"
 ---
 
-Course Professor: Dr. Mousavian: Spring 2022
-
-Responsibilities: Held tutorials on basic Python programming concepts
+Responsibilities: Held tutorials on basic Python programming concepts, Dr. Mousavian, Spring 2022

@@ -8,6 +8,4 @@ date: 2022-10-01
 location: "Tehran, Iran"
 ---
 
-Course Professor: Dr. Nowzari: Fall 2022
-
-Responsibilities: Held tutorials on Object Oriented Programming
+Responsibilities: Held tutorials on Object Oriented Programming, Dr. Nowzari, Fall 2022
