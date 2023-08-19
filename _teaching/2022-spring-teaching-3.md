@@ -9,3 +9,5 @@ location: "Tehran, Iran"
 ---
 
 Course Professor: Dr. Rokni: Spring 2022
+
+Responsibilities: Designing assignments and grading them
