@@ -15,11 +15,13 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
+  - title: "Projects"
+    url: /talks/
+
   - title: "CV"
     url: /files/Arman_Akbari_CV.pdf/
 
-  - title: "Projects"
-    url: /talks/
+
 
   # - title: "Guide"
   #   url: /markdown/
