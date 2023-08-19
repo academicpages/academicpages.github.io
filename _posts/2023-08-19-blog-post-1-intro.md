@@ -7,9 +7,9 @@ tags:
   - welcome
 ---
 
-Hello and welcome! 👋
+## Hello and welcome! 👋
 
-Thanks for stumbling upon my website. I’ve decided to finally start sharing my thoughts and learnings online to hopefully add value to any readers out there. This space will primarily focus on data science, machine learning, AI, and my experiences living abroad in Singapore. 
+Thanks for stumbling upon my website. I’ve decided to finally share my thoughts and learnings online to hopefully add value to any readers out there. This space will primarily focus on data science, machine learning, AI, and my experiences living abroad in Singapore. 
 
 So if that interests you then great! - I’m excited to share my journey with you here and provide insights, while keeping things simple and concise. Feedback and questions are always welcome! 
 
