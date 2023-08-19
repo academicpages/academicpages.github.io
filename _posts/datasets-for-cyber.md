@@ -1,6 +1,25 @@
-# Cyber Security Dataset Review
+---
+title: 'Datasets for cyber-AI'
+date: 2023-08-19
+permalink: /posts/2023/08/datasets/
+tags:
+  - cyber-AI
+  - datasets
+  - machine learning
+---
 
-This review aims to provide review of the curernt dataset for the training and evaluation of deep learning models. So, we need to have a list of criteria that used to determine which dataset is suitable for the training deep learning models.
+Cyber Security Dataset Review
+======
+
+This post aims to provide a review of the curernt datasets for the training and evaluation of deep learning models in cybersecurity. 
+
+APT Style Datasets
+======
+
+Aren't headings cool?
+------
+
+
 
 ##  APT Style
 1. Unified Host and Network Data Set (LANL)
