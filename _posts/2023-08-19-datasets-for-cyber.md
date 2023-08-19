@@ -20,8 +20,8 @@ Summary
 | Dataset                      | Year | URL                              | Record Data        | Availability     | Security Problem     | Realistic         | Num. Citation | Labels |
 |------------------------------|------|----------------------------------|--------------------|------------------|----------------------|-------------------|---------------|--------|
 | ISP data                     |      | \cite{ispdataset}                | Flow               | Partially Public | N/A                  | Real              | N/A           | N      |
-| % UNB datasets               |      | \cite{unbdataset}                |                    |                  |                      |                   |               |        |
-| % Firewalls data             |      | \cite{firewalldataset}           |                    |                  |                      |                   |               |        |
+| UNB datasets                 |      | \cite{unbdataset}                |                    |                  |                      |                   |               |        |
+| Firewalls data               |      | \cite{firewalldataset}           |                    |                  |                      |                   |               |        |
 | UNSW NB15                    |      | \cite{UNSWNBdataset}             | Packet and Flow    | Public           | Worm/DDos/Recon      | Semi-Synthetic    | 1080          | Y      |
 | MAWI                         |      | \cite{mawidataset}               | Packet             | Public           | N/A                  | Real              | 284 (*)       | N      |
 | CAIDA                        |      | \cite{caidadataset}              | Packet             | Partially Public | DDos/Worm            | Real              | N/A           | N      |
@@ -46,10 +46,10 @@ Summary
 | BETH                         | 2021 | \cite{bethdataset}               | Log (kernel-level) | Partially Public | Botnet               | Real (Honeypot)   | NA            | Y(***) |
 | KitSune                      | 2018 | \cite{kitsunedataset}            | Packet             | Public           | IoT related          | Synthetic         | 369           | Y      |
 | KDDCup/NSL-KDD               | 1999 | \cite{kddcupdataset}             | Packet             | Public           | DoS/Probe/R2L/U2R    | Synthetic         | NA            | Y      |
-| % Malware training exercises | 2016 | \cite{malwaretrafficdataset}     |                    |                  | Malware              |                   |               |        |
+| Malware training exercises   | 2016 | \cite{malwaretrafficdataset}     |                    |                  | Malware              |                   |               |        |
 | Sherlock                     |      | \cite{sherlockdataset}           | Log                | Public           | Malware (Smartphone) | Semi-Synthetic    | 52            | Y      |
 | SABU IDS Alerts              | 2019 | \cite{sabudataset}               |                    | Public           | Many                 | Real (Anonymised) | 4             | NA     |
-| % Another Warden IDS Alerts  | 2021 | \cite{wardendataset}             |                    |                  |                      |                   |               |        |
+| Another Warden IDS Alerts    | 2021 | \cite{wardendataset}             |                    |                  |                      |                   |               |        |
 | Shell Command Logs           | 2021 | \cite{shelldataset}              | Logs               | Public           | Many                 | Synthetic         | 0             | NA     |
 | Hornet 40 (Honeypots data)   | 2021 | \cite{hornetdataset}             | Flow               | Public           | Not Specified        | Real (Honeypot)   | 0             | NA     |
 | Security dataset (Mordor)    | 2019 | \cite{mordordataset}             | Logs               | Public           | APT Style Attack     | Synthetic         | NA            | NA     |
