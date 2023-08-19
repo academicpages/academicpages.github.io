@@ -27,12 +27,16 @@ Yunxiao Chen, Moustaki Irini & **Haoran Zhang**
 ## Submitted Papers
 - - -
 
-- [Signed Network Embedding with Application to Simultaneous Detection of Communities and Anomalies](https://arxiv.org/pdf/2207.09324.pdf)   
-**Haoran Zhang** & Junhui Wang. 
+- [Identifiability and Consistent Estimation of the Gaussian Chain Graph Model](https://arxiv.org/pdf/2303.01031.pdf)    
+Ruixuan Zhao, **Haoran Zhang** & Junhui Wang.
 
+- [Efficient estimation and inference for the signed β-model in directed signed networks](https://arxiv.org/pdf/2211.07866.pdf)    
+**Haoran Zhang** & Junhui Wang. 
+  
 - [Efficient estimation and inference for the signed β-model in directed signed networks](https://arxiv.org/pdf/2208.00137.pdf)    
 **Haoran Zhang** & Junhui Wang. 
 
-## Working Papers
-- - -
+- [Signed Network Embedding with Application to Simultaneous Detection of Communities and Anomalies](https://arxiv.org/pdf/2207.09324.pdf)   
+**Haoran Zhang** & Junhui Wang. 
+
 
