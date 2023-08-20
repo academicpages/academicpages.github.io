@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Marios Avgeris"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Marios"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  name             : "Marios Avgeris"
+  avatar           : "profile1.png"
+  bio              : "Marios Avgeris (male) is a full-time Postdoctoral Fellow at Carleton University, Ottawa, Canada. He is also affiliated with École de Technologie Supérieure (ÉTS) and Ericsson. He received received his diploma from the Department of Electrical and Computer Engineering (ECE) at the National Technical University of Athens (NTUA), Greece, in 2016 and his PhD on Dynamic Resource Allocation and Computational Offloading at the Network Edge for Internet of Things Applications in 2021. His research interest focuses on Control Theory, Reinforcement Learning, Network Virtualization, Computational Offloading, Edge & Cloud Computing and IoT."
+  location         : "Canada"
+  employer         : 
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=iTQI08AAAAAJ&view_op=list_works"
+  email            : "avgeris.marios@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Marios-Avgeris"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/maravger"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mavgeris/"
+  orcid            : "https://orcid.org/0000-0003-4883-930X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@maravger"
   vine             :
   weibo            :
   xing             :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
