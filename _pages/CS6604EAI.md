@@ -88,46 +88,41 @@ For one-on-one interactions with the instructor, please post a [private note](ht
 on Piazza or use [Slack](cs-vt.slack.com).
 
 
-<!-- ## <a name="schedule"></a> Schedule
+## <a name="schedule"></a> Schedule
 We will update the schedule regularly based on the readings and presentations.
-My apologies for the oversight. It seems that I inadvertently omitted the "No class - Thanksgiving break" entries when making adjustments to the table. Here's the corrected table with the "No class - Thanksgiving break" entries added back in:
-
-| Lecture No. | Date                | Topic                           | Reading        |
-|-------------|---------------------|---------------------------------|----------------|
-| 1           | Tuesday, August 22  | Introduction to the Course      | Course Syllabus |
-| 2           | Thursday, August 24 | Instructor Presents              | Readings 1, 2   |
-| 3           | Tuesday, August 29  | Topic 3                         | Readings 3, 4   |
-| 4           | Thursday, August 31 | Topic 4                         | Readings 5, 6   |
-| 5           | Tuesday, September 5| Topic 5                         | Readings 7, 8   |
-| 6           | Thursday, September 7| Topic 6                         | Readings 9, 10  |
-| 7           | Tuesday, September 12| Topic 7                        | Readings 11, 12 |
-| 8           | Thursday, September 14| Topic 8                        | Readings 13, 14 |
-| 9           | Tuesday, September 19| Topic 9                        | Readings 15, 16 |
-| 10          | Thursday, September 21| Topic 10                      | Readings 17, 18 |
-| 11          | Tuesday, September 26| Topic 11                      | Readings 19, 20 |
-| 12          | Thursday, September 28| Topic 12                      | Readings 21, 22 |
-| 13          | Tuesday, October 3   | Topic 13                      | Readings 23, 24 |
-| 14          | Thursday, October 5   | Topic 14                      | Readings 25, 26 |
-| 15          | Tuesday, October 10  | Topic 15                      | Readings 27, 28 |
-| 16          | Thursday, October 12  | Topic 16                      | Readings 29, 30 |
-| 17          | Tuesday, October 17  | Topic 17                      | Readings 31, 32 |
-| 18          | Thursday, October 19  | Topic 18                      | Readings 33,34      |
-| 19          | Tuesday, October 24  | Topic 19                      | Readings 35, 36 |
-| 20          | Thursday, October 26  | Topic 20                      | Readings 37, 38 |
-| 21          | Tuesday, October 31  | Topic 21                      | Readings 39, 40 |
-| 22          | Thursday, November 2  | Topic 22                      | Readings 41, 42 |
-| 23          | Tuesday, November 7  | Topic 23                      | Readings 43, 44 |
-| 24          | Thursday, November 9  | Topic 24                      | Readings 45, 46 |
-| 25          | Tuesday, November 14 | Topic 25                      | Readings 47, 48 |
-| 26          | Thursday, November 16 | Topic 26                      | Readings 49, 50 |
-| No class    | Tuesday, November 21 | No class - Thanksgiving break |                |
-| No class    | Thursday, November 23 | No class - Thanksgiving break |                |
-| 27          | Tuesday, November 28 | Topic 27                      | Readings 51, 52 |
-| 28          | Thursday, November 30 | Project Presentations         |                |
-| 29          | Tuesday, December 5  | Project Presentations         |                |
--->
-
-## Policies
+| Lecture No. | Date                | Reading            |
+|-------------|---------------------|--------------------|
+| 1           | Tuesday, August 22  | Course Syllabus     |
+| 2           | Thursday, August 24 | Instructor Presents |
+| 3           | Tuesday, August 29  |                   |
+| 4           | Thursday, August 31 |                   |
+| 5           | Tuesday, September 5|                   |
+| 6           | Thursday, September 7|                   |
+| 7           | Tuesday, September 12|                   |
+| 8           | Thursday, September 14|                   |
+| 9           | Tuesday, September 19|                   |
+| 10          | Thursday, September 21|                   |
+| 11          | Tuesday, September 26|                   |
+| 12          | Thursday, September 28|                   |
+| 13          | Tuesday, October 3   |                   |
+| 14          | Thursday, October 5   |                   |
+| 15          | Tuesday, October 10  |                   |
+| 16          | Thursday, October 12  |                   |
+| 17          | Tuesday, October 17  |                   |
+| 18          | Thursday, October 19  |                   |
+| 19          | Tuesday, October 24  |                   |
+| 20          | Thursday, October 26  |                   |
+| 21          | Tuesday, October 31  |                   |
+| 22          | Thursday, November 2  |                   |
+| 23          | Tuesday, November 7  |                   |
+| 24          | Thursday, November 9  |                   |
+| 25          | Tuesday, November 14 |                   |
+| 26          | Thursday, November 16 |                   |
+| No class    | Tuesday, November 21 | Thanksgiving Break |
+| No class    | Thursday, November 23 | Thanksgiving Break |
+| 27          | Tuesday, November 28 |                   |
+| 28          | Thursday, November 30 | Project Presentations |
+| 29          | Tuesday, December 5  | Project Presentations |
 
 ### Grading
 
