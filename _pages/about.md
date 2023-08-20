@@ -30,7 +30,7 @@ My research interests primarily revolve around the interpretability and represen
   <dt>Shanghai Artificial Intelligence Laboratory</dt>
   <dd>2023/07 - Now</dd>
   <d>Research Assistant, supervised by <a href="https://www.linkedin.com/in/chengyu05/">Prof. Yu Cheng</a></d>
-  <dd>Large Language Models, Neural Language Processing</dd>
+  <dd>Large Language Models, Natural Language Processing</dd>
 </dl>
 
 
