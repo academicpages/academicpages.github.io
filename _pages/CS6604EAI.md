@@ -50,23 +50,18 @@ Presenter, Reviewer, Archaeologist, Researcher, Industry Expert, Ethicist, and B
 Presenting groups should create a formal presentation, i.e., have slides prepared for the group in-class discussion.
 For each student in a presenting group, their assigned role determines what they should include in the slides. The Hacker and Blogger roles are the only exceptions to the rule. Hackers should provide a Jupyter Notebook instead of slides and Bloggers go over their written articles. 
 
-<!-- Each role, irrespective of whether it is designed for two students or one, should create 5-6 slides and present for approximately 8-10 minutes. The length and number of slides can vary, this is merely a *recommendation* to make sure we have sufficiently covered each role. 
-Note that *two* people will team up for the roles of Presenter, Archaeologist, Hacker, and Industry Expert. Pairings can change in each class. 
-The remaining roles are designed for one student.
-All students, irrespective of their role, are expected to have read the paper readings of each corresponding session before class and come to class ready to discuss. -->
-
 > *Depending on changes in course enrollment, the roles might change, for example, remove roles or make roles optional in case enrollment decreases or allow groups of two students for all roles in the event of enrollment increase. Improving based on student feedback, as we go along with the readings, is crucial.*
 
   - **Presenter:** Create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper.
   - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. 
   Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines) 
-  (under "Review Content"). Please answer questions 1-6 under "Review Content", and assign an Overall score (question 9) and a Confidence score (question 10). Skip the rest of the review, including writing a summary. <span style="color:Red"> Note that you can **bypass questions** by filling N/A</span>. For example, you really liked the paper and can't think of any disadvantages. Therefore you can skip the respective question (but use this skip option sparingly). Also, please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. The goal is to enhance your *overall critical thinking*. The instructor reserves the right to contact students who overuse the N/A option.
+  (under "Review Content"). Please answer questions 1-6 under "Review Content", and assign an Overall score (question 9) and a Confidence score (question 10). Skip the rest of the review, including writing a summary. <span style="color:Green"> Note that you can **bypass questions** by filling N/A</span>. For example, you really liked the paper and can't think of any disadvantages. Therefore you can skip the respective question (but use this skip option sparingly). Also, please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. The goal is to enhance your *overall critical thinking*. The instructor reserves the right to contact students who overuse the N/A option.
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper that has substantially influenced the current paper and one newer paper citing this current paper.
   - **Researcher:** Propose an imaginary follow-up project that has now become possible due to the existence and success of the current paper.
   - **Industry Expert:** Propose a new application or company product for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application. Convince your industry boss that it's worth investing time and money to implement this paper. Your arguments should be particularly applicable to the chosen industry market.
    - **Ethicist:** You are an ethical impact assessor from 2021 (or even 2051). What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
-  - **Hacker (optional between two choices):** <span style="color:Red">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Another valid and useful option is to try to reproduce results from the paper, either by downloading and running an existing implementation (with proper credit given to the code sources) or by implementing a core method from the paper. Share a Jupyter Notebook with the code of the algorithm with the class. Your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.). 
-  - **Blogger (optional between two choices):** <span style="color:Red">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Write a paragraph each about the two papers and an additional paragraph comparing and contrasting them. The summary of each paper should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. Include visual aids such as figures, charts, or graphs to illustrate key points. Explain how these papers relate to one another within the broader context of their shared theme. Explore how these papers may complement, challenge, or build upon one another. Provide links or references to additional resources that complement your blog. This could include related research articles, videos, or online discussions. Your insights should reflect critical thinking, encouraging discussion within the class. Think about how your blog can be useful and interesting to an actual online reader. 
+  - **Hacker (optional between two choices):** <span style="color:Green">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Another valid and useful option is to try to reproduce results from the paper, either by downloading and running an existing implementation (with proper credit given to the code sources) or by implementing a core method from the paper. Share a Jupyter Notebook with the code of the algorithm with the class. Your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.). 
+  - **Blogger (optional between two choices):** <span style="color:Green">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Write a paragraph each about the two papers and an additional paragraph comparing and contrasting them. The summary of each paper should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. Include visual aids such as figures, charts, or graphs to illustrate key points. Explain how these papers relate to one another within the broader context of their shared theme. Explore how these papers may complement, challenge, or build upon one another. Provide links or references to additional resources that complement your blog. This could include related research articles, videos, or online discussions. Your insights should reflect critical thinking, encouraging discussion within the class. Think about how your blog can be useful and interesting to an actual online reader. 
 
 **Non-presenter assignment**:
 - If you are not in the presenting group during a class session, please submit **the day before class** at least one question about either paper - could be something you're confused about or something you'd like to hear discussed more. Questions that open debates and make in-class discussions explore different viewpoints are a plus.  
@@ -90,53 +85,185 @@ on Piazza or use [Slack](cs-vt.slack.com).
 
 ## <a name="schedule"></a> Schedule
 We will update the schedule regularly based on the readings and presentations.
-
-| Lecture No. | Date                | Reading            |
-|-------------|---------------------|--------------------|
-| 1           | Tuesday, August 22  | Course Syllabus     |
-| 2           | Thursday, August 24 | Instructor Presents |
-| 3           | Tuesday, August 29  |                   |
-| 4           | Thursday, August 31 |                   |
-| 5           | Tuesday, September 5|                   |
-| 6           | Thursday, September 7|                   |
-| 7           | Tuesday, September 12|                   |
-| 8           | Thursday, September 14|                   |
-| 9           | Tuesday, September 19|                   |
-| 10          | Thursday, September 21|                   |
-| 11          | Tuesday, September 26|                   |
-| 12          | Thursday, September 28|                   |
-| 13          | Tuesday, October 3   |                   |
-| 14          | Thursday, October 5   |                   |
-| 15          | Tuesday, October 10  |                   |
-| 16          | Thursday, October 12  |                   |
-| 17          | Tuesday, October 17  |                   |
-| 18          | Thursday, October 19  |                   |
-| 19          | Tuesday, October 24  |                   |
-| 20          | Thursday, October 26  |                   |
-| 21          | Tuesday, October 31  |                   |
-| 22          | Thursday, November 2  |                   |
-| 23          | Tuesday, November 7  |                   |
-| 24          | Thursday, November 9  |                   |
-| 25          | Tuesday, November 14 |                   |
-| 26          | Thursday, November 16 |                   |
-| No class    | Tuesday, November 21 | Thanksgiving Break |
-| No class    | Thursday, November 23 | Thanksgiving Break |
-| 27          | Tuesday, November 28 |                   |
-| 28          | Thursday, November 30 | Project Presentations |
-| 29          | Tuesday, December 5  | Project Presentations |
+<table style="border: 2px solid black; border-collapse: collapse; width: 71.4525%; height: 926px;">
+    <thead>
+        <tr style="height: 27px;">
+            <th style="border: 1px solid gray; height: 27px;">Lecture No.</th>
+            <th style="border: 1px solid gray; height: 27px;">Date</th>
+            <th style="border: 1px solid gray; height: 27px;">Reading</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">1</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, August 22</td>
+            <td style="border: 1px solid gray; height: 29px;">Course Syllabus</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">2</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, August 24</td>
+            <td style="border: 1px solid gray; height: 29px;">Instructor Presents</td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">3</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, August 29</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">4</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, August 31</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">5</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 5</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">6</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, September 7</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">7</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 12</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">8</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, September 14</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">9</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 19</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">10</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, September 21</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">11</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 26</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">12</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, September 28</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">13</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 3</td>
+            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal/Pitch Due</span><br /></span></strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">14</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, October 5</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">15</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 10</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">16</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, October 12</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">17</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 17</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">18</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, October 19</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">19</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 24</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">20</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, October 26</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">21</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 31</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">22</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, November 2</td>
+            <td style="border: 1px solid gray; height: 29px;"><span style="color: #236fa1;"><strong>Project Checkpoint Due</strong></span></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">23</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 7</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">24</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, November 9</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">25</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 14</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">26</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, November 16</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">No class</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 21</td>
+            <td style="border: 1px solid gray; height: 29px;"><strong>Thanksgiving Break</strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">No class</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, November 23</td>
+            <td style="border: 1px solid gray; height: 29px;"><strong>Thanksgiving Break</strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">27</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 28</td>
+            <td style="border: 1px solid gray; height: 29px;"></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">28</td>
+            <td style="border: 1px solid gray; height: 29px;">Thursday, November 30</td>
+            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
+        </tr>
+        <tr style="height: 29px;">
+            <td style="border: 1px solid gray; height: 29px;">29</td>
+            <td style="border: 1px solid gray; height: 29px;">Tuesday, December 5</td>
+            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Grading
 
-  1. **Readings:** 65 points: Each student will be in the presenting role for 13 sessions and the non-presenting role for the remaining 13. You can earn up to 4 points each time you present (all presenting roles are considered equal). You will receive full credit if you do a thorough job of undertaking your role and present it in a clear and compelling way. When you aren't presenting, you can earn up to 1 point by completing the non-presenting assignment and by participating in the class. At the end of the semester, extra credit of up to 3 points will be assigned to the most well-made presentation, blog, and notebook.
+  1. **Readings:** 60 points: Each student will be in the presenting role for 12 sessions and the non-presenting role for the remaining 12. You can earn up to 4 points each time you present (all presenting roles are considered equal). You will receive full credit if you do a thorough job of undertaking your role and present it in a clear and compelling way. When you aren't presenting, you can earn up to 1 point by completing the non-presenting assignment and by participating in the class. At the end of the semester, extra credit of up to 3 points will be assigned to the most well-made presentation, blog, and notebook.
   
-  2. **Final Project:** 35 points divided into the following categories:
+  2. **Final Project:** 40 points divided into the following categories:
       - Proposal: 5 points.
       - Clarity: 12 points; your paper should be readable, contain well-defined and clear motivation and contribution statements and appropriately make connections with related work. In general, your project report should follow standard machine learning conference paper formatting and style.
       - Novelty: 3 points; your project should propose something new (a new method, application, or perspective).
       - Code: 5 points; the code accompanying your project should be well-documented and your experimental results should be reproducible. 
       Your repository should include a README file with full instructions on how to run the code.
       Moreover, your code should be easy to run with one simple command; if there are multiple steps involved, please make a bash script. 
-      - In-class presentation: 10 points; your final presentation should be clear to the audience and provide a solid review of your work as if you were presenting at a conference. You can find examples in the NeurIPS'20 [schedule](https://nips.cc/virtual/2020/public/cal_main.html) (Oral Spotlight sessions such as [this](https://nips.cc/virtual/2020/public/session_oral_21071.html) one).
+      - In-class presentation: 15 points; your final presentation should be clear to the audience and provide a solid review of your work as if you were presenting at a conference. You can find examples in the NeurIPS'20 [schedule](https://nips.cc/virtual/2020/public/cal_main.html) (Oral Spotlight sessions such as [this](https://nips.cc/virtual/2020/public/session_oral_21071.html) one).
            
 ### Attendance and late work
 If you expect to miss a class session in which you are in a "presenting" role, you should still create the presentation 
