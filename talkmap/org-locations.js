@@ -21,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Beijing, China",
-    40.190632,
-    116.412144
+    39.9057136,
+    116.3912972
   ],
   [
     "Salt Lake City, UT",
@@ -73,5 +73,10 @@ var addressPoints = [
     "Hong Kong, China",
     22.350627,
     114.1849161
+  ],
+  [
+    "Karamay, China",
+    45.5778068,
+    84.8867252
   ]
 ];
