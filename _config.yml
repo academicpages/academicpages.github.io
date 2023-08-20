@@ -81,7 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Chung-Hao Lee"
-  avatar           : "profile-picture_1.png"
+
+  avatar           : "profile-picture.png"
+
   bio              : "MBA & MSIS @University of Maryland / BS @NTHU (Taiwan)"
   location         : "Taipei, TW"
   employer         : 
