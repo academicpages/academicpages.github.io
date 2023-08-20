@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-# Course Title: CS 6604: Embodied Artificial Intelligence (Fall 2023)
+# 🤖 CS 6604: Embodied Artificial Intelligence (Fall 2023) 
 
-Instructor: [Ismini Lourentzou](https://isminoula.github.io/)
+👩🏻‍🏫 Instructor: [Ismini Lourentzou](https://isminoula.github.io/)
 
-Meeting time: Tuesdays and Thursdays, 9:30-10:45am EST, McBryde Hall 232 	
+🏫 Meeting time: Tuesdays and Thursdays, 9:30 AM - 10:45 AM EST, McBryde Hall 232 and [Zoom](https://virginiatech.zoom.us/j/83632738882)
 
-Office hours:  TBD
+🕦 Office hours:  Tuesdays and Thursdays, 11:30 AM - 12:30 PM EST, [Zoom](https://virginiatech.zoom.us/j/87481223897)
 
-## Course Description: 
+## Course Description 
 Embodied Artificial Intelligence (E-AI) is a rapidly advancing field that aims to develop intelligent agents that can perceive and act 
 in the physical world through sensors and actuators and learn from their experiences in completing various physical tasks. In an era where 
 AI systems are increasingly expected to interact with the world in a human-like manner, E-AI offers a promising approach. 
@@ -27,177 +27,137 @@ vision-language planning tasks such as Vision-Language Navigation (VLN), Vision-
 Embodied Task Completion, etc. By the end of the course, students will possess the knowledge and skills required to design, implement, 
 and advance the next generation of intelligent embodied systems.
 
-## Prerequisites: 
+## Prerequisites 
 Students should have experience with machine learning, data analytics, and deep learning. Strong programming skills in a high-level language such as Python, as well as frameworks for rapid ML prototyping, e.g., PyTorch, Tensorflow, Keras, etc. are essential for implementing and experimenting with the concepts covered in this course. While not mandatory, familiarity with computer vision, natural language processing, and reinforcement learning would be advantageous. Most importantly, students are expected to extract key concepts and ideas from reading ML conference papers. 
 
-## Course Topics: 
+## Course Format 
+The course is structured around reading, presenting, and discussing weekly papers. Each class will involve the presentation and discussion of two papers. Each student will have a unique, rotating role per week. This role defines the lens through which each student reads the paper and determines what they prepare for the group in-class discussion. All students, irrespective of their role, are expected to have read the paper readings of each corresponding session before class and come to class ready to discuss. There will be no exams or traditional assignments. Instead, throughout the course, students will engage in practical hands-on projects and discussions to identify and work on open research questions on a variety of topics in embodied AI.  
 
-The course is structured around reading, presenting and discussing weekly papers. There will be no exams or traditional assignments. Instead, throughout the course, students will engage in practical hands-on projects and discussions to identify and work on open research questions on a variety of topics in embodied AI. **More details to be announced before the start of the Fall 2023 semester.**
-
-<!--- Each student will have a unique, rotating role per week. This role defines the lens through which each student reads the paper and 
-determines what they prepare for the group in-class discussion. All students, irrespective of the role, are expected to have read the 
-paper readings of each corresponding session before class and come to class ready to discuss. Students will obtain a thorough understanding 
-of the chosen papers and will develop their paper reading, literature review and prototyping skills. -->
+## Course Topics
 
 Key topics covered in the course include:
-
 - Embodied Perception in Computer Vision: How embodied AI systems leverage visual perception, object recognition, scene understanding, and spatial reasoning.
 - Embodied Language Understanding: How embodied AI systems comprehend and generate natural language for effective human-machine communication.
 - Sensorimotor Integration: How embodied AI systems use sensory perception and action planning to navigate in a physical environment and complete tasks.
 - Learning and Adaptation in Embodied AI: Mechanisms and algorithms for learning and adapting in dynamic physical environments.  
 - Applications of Embodied AI: Real-world applications, including embodied visual question answering, interactive virtual agents, embodied conversational agents, etc.
 
-<!-- ## Presentation roles:
+## Presentation Roles
+This seminar is organized around the different "roles" students play each week, that define the lens through which students read the paper.
+Students will be divided into four groups, two groups presenting on Tuesdays and the other two on Thursdays. 
+In a given class session, students in the presenting groups will each be given a rotating role (described below):
+Presenter, Reviewer, Archaeologist, Researcher, Industry Expert, Ethicist, and Blogger OR Hacker (pick one).
+Presenting groups should create a formal presentation, i.e., have slides prepared for the group in-class discussion.
+For each student in a presenting group, their assigned role determines what they should include in the slides. The Hacker and Blogger roles are the only exceptions to the rule. Hackers should provide a Jupyter Notebook instead of slides and Bloggers go over their written articles. 
 
-This seminar is organized around the different "roles" students play each week: 
-Presenter, Reviewer, Archaeologist, Researcher, Industry Expert, Hacker, and Ethicist.
-Students will be divided into two groups, one group presenting on Tuesdays and the other on Thursdays. 
-In a given class session, students in the presenting group will each be given a rotating role (described below). 
-Roles define the lens through which students read the paper. 
-You should present your findings with a formal presentation, i.e., have some slides prepared for the group in-class discussion.
-Your assigned role determines what you should include in the slides. Each role, irrespective of whether it is designed for two students or one, should create 5-6 slides and present for approximately 8-10 minutes. The length and number of slides can vary, this is merely a *recommendation* to make sure we have sufficiently covered each role. The Hacker role is the only exception to the rule;
-hackers should provide a Jupyter Notebook instead of slides.
-Note that *two* people will team up for the roles of Presenter, Archaeologist, Hacker and Industry Expert. Pairings can change in each class. 
+<!-- Each role, irrespective of whether it is designed for two students or one, should create 5-6 slides and present for approximately 8-10 minutes. The length and number of slides can vary, this is merely a *recommendation* to make sure we have sufficiently covered each role. 
+Note that *two* people will team up for the roles of Presenter, Archaeologist, Hacker, and Industry Expert. Pairings can change in each class. 
 The remaining roles are designed for one student.
+All students, irrespective of their role, are expected to have read the paper readings of each corresponding session before class and come to class ready to discuss. -->
 
-> *Depending on changes in course enrollment, the roles might change, 
-for example, remove roles or make roles optional in case enrollment decreases or allow groups of two students for all roles in the event of enrollment increase. Improving over student feedback, as we go along with the readings, is crucial.*
+> *Depending on changes in course enrollment, the roles might change, for example, remove roles or make roles optional in case enrollment decreases or allow groups of two students for all roles in the event of enrollment increase. Improving based on student feedback, as we go along with the readings, is crucial.*
 
-  - **Presenter:** Create the main presentation, describing the motivation, problem definition, method and experimental findings of this paper.
+  - **Presenter:** Create the main presentation, describing the motivation, problem definition, method, and experimental findings of this paper.
   - **Reviewer:** Complete a full---critical but not necessarily negative---review of the paper. 
   Follow the [guidelines for NeurIPS reviewers](https://nips.cc/Conferences/2020/PaperInformation/ReviewerGuidelines) 
-  (under "Review Content"). Please answer questions 1-6 under "Review Content", and assign an Overall score (question 9) and a Confidence score (question 10). <span style="color:Red">Note that you can **bypass questions** by filling N/A</span>. For example, you really liked the paper and can't think of any disadvantage! Therefore you can skip the respective question. Also, please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. The goal is to enhance your *overall critical thinking*. I reserve the right to contact students who overuse the N/A option.
+  (under "Review Content"). Please answer questions 1-6 under "Review Content", and assign an Overall score (question 9) and a Confidence score (question 10). Skip the rest of the review, including writing a summary. <span style="color:Red"> Note that you can **bypass questions** by filling N/A</span>. For example, you really liked the paper and can't think of any disadvantages. Therefore you can skip the respective question (but use this skip option sparingly). Also, please note that this role does not require going over related work, and is not an exhaustive list of all arguments you can think of. The goal is to enhance your *overall critical thinking*. The instructor reserves the right to contact students who overuse the N/A option.
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper that has substantially influenced the current paper and one newer paper citing this current paper.
   - **Researcher:** Propose an imaginary follow-up project that has now become possible due to the existence and success of the current paper.
-  - **Industry Expert:** Propose a new application or company product for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application. 
- Convince your industry boss that it's worth investing time and money to implement this paper. Your arguments should be particularly applicable to the chosen industry market.
-  - **Hacker (optional):** Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Share a Jupyter Notebook with the code of the algorithm with the class. <span style="color:Red">This role is **optional**</span>, i.e., you can declare if you would like to be a Hacker as an alternative for a specific week, for example when you like the topic and would like to get hands-on experience, but <span style="color:Red">no student will necessarily have to complete this role</span>.  Please do not simply download and run an existing implementation, make an effort to at least implement a core method from the paper. Afterall, your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.).
-  - **Ethicist:** You are an ethical impact assessor from 2021 (or even 2051). What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
+  - **Industry Expert:** Propose a new application or company product for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application. Convince your industry boss that it's worth investing time and money to implement this paper. Your arguments should be particularly applicable to the chosen industry market.
+   - **Ethicist:** You are an ethical impact assessor from 2021 (or even 2051). What has been the impact (good or bad) of this paper on the economy, society, and/or the environment?
+  - **Hacker (optional between two choices):** <span style="color:Red">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Another valid and useful option is to try to reproduce results from the paper, either by downloading and running an existing implementation (with proper credit given to the code sources) or by implementing a core method from the paper. Share a Jupyter Notebook with the code of the algorithm with the class. Your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.). 
+  - **Blogger (optional between two choices):** <span style="color:Red">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Write a paragraph each about the two papers and an additional paragraph comparing and contrasting them. The summary of each paper should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. Include visual aids such as figures, charts, or graphs to illustrate key points. Explain how these papers relate to one another within the broader context of their shared theme. Explore how these papers may complement, challenge, or build upon one another. Provide links or references to additional resources that complement your blog. This could include related research articles, videos, or online discussions. Your insights should reflect critical thinking, encouraging discussion within the class. Think about how your blog can be useful and interesting to an actual online reader. 
 
-**Everyone, every week**: After each class session, *by 9 pm on the same day*, post your thoughts on Piazza, for example, which parts did you enjoy reading,
- what results and insights did you find interesting, a missing result the paper could have included, etc.  
- <span style="color:Red">Important: Your post should start with the phrase “Weekly assignment: Paper_Title”(assignment completion checks will be done in an automatic manner).</span>
- Whenever you agree with the comments of a student's post, make sure to endorse their answer. You can also post a reply with your additional thoughts.
+**Non-presenter assignment**:
+- If you are not in the presenting group during a class session, please submit **the day before class** at least one question about either paper - could be something you're confused about or something you'd like to hear discussed more. Questions that open debates and make in-class discussions explore different viewpoints are a plus.  
+- After class **and before the end of the day 11:59pm EST**, provide constructive feedback to each of the presenting groups. You may focus on one or more reading roles, or on the presentation holistically. Evaluate the clarity of the presentation, the strength of the arguments, and the quality of visuals, if any. Highlighting strengths and areas for improvement. This feedback will be shared post each presentation.
 
+**Everyone, every week (Optional)**: After each class session, you may post your thoughts on Piazza, for example, which parts did you enjoy reading, what results and insights did you find interesting, a missing result the paper could have included, any useful additional links and resources, etc. Whenever you agree with the comments of a student's post, make sure to endorse their answer. You can also post a reply with your additional thoughts.
+ 
+## Final Project
+The main project goal is to engage students in research on Embodied AI.
+In particular, students should try to extend papers from topics covered in class 
+and present the research outcomes as a research paper, in a standard [conference paper format](https://www.overleaf.com/latex/templates/neurips-2020/mnshsmqkjsqz). Students are encouraged to work in groups of no more than four members, taking into consideration that the work produced should be proportional to the number of members in a team. Groups are required to include a "contributions" section in the final project report, listing each member's contributions in detail. Projects will be hosted on [GitHub](https://github.com/) and should include a written report accompanied by a descriptive Jupyter Notebook, with a format similar to [this notebook](http://nlp.seas.harvard.edu/2018/04/03/attention.html). In addition, groups will present their final projects during the last two class sessions. A PowerPoint or LaTex final presentation is required. 
 
-## Final Project:
-
-The main project goal is to engage students in research on related machine learning fields.
- In particular, students should try to extend papers from topics covered in class 
-and present the research outcomes as a research paper, in a standard [conference paper format](https://www.overleaf.com/latex/templates/neurips-2020/mnshsmqkjsqz).
- Students are encouraged to work in groups of no more than three members, taking into consideration that the work produced should be proportional to the number of members in a team. Groups are required to include a "contributions" section
-in the final project report, listing each member's contributions in detail. Projects will be hosted on [GitHub](https://github.com/) and should include a written report accompanied by a descriptive Jupyter Notebook, with a format similar to 
-[this notebook](http://nlp.seas.harvard.edu/2018/04/03/attention.html). In addition, groups will present their final projects during the last two class sessions.
-A PowerPoint or LaTex final presentation is required. 
-
-A list of suggested topics as well as more details about the project proposal will be provided at a later time. 
-Students are encouraged to experimentally demonstrate any limitations of related work and suggest improvements by applying
-the methods to other [public datasets](https://github.com/awesomedata/awesome-public-datasets),
-apart from the ones used in the respective papers.
-
-
-## Technology:
-
-[Piazza](https://piazza.com/vt/spring2021/cs6604) will be used for announcements, general questions and discussions, etc. 
+## Technology
+[Piazza](https://piazza.com/vt/fall2023/cs6604) will be used for announcements, general questions, and discussions, etc. 
 If you are unable to register to Piazza, please email me. Please familiarize yourself with [GitHub](https://education.github.com/git-cheat-sheet-education.pdf), [Zoom](https://tutorials.tlos.vt.edu/index/zoom.html), [LaTeX](https://www.overleaf.com/learn/latex/Main_Page) 
-and [paper writing practices](https://filebox.ece.vt.edu/~jbhuang/slides/Research%20101%20-%20Paper%20Writing%20with%20LaTeX.pdf).
-Unless restricted by low internet bandwidth, please try to keep your video turned on during class. This will enhance class participation and hopefully compensate for the lack of in-person interactions. 
-Please keep your audio muted unless you would like to respond to an on-going discussion or have a question. You can also use the "raise hand" option, type in the chatbox or use the Zoom reactions for nonverbal feedback. 
-Please remember that all in-class discussions should adhere to Virginia Tech's [Principles of Community](https://www.inclusive.vt.edu/Programs/vtpoc0.html). 
-To keep track of student order during office hours, please type your name in the chat as soon as you enter the Zoom room. 
+and [paper writing practices](https://filebox.ece.vt.edu/~jbhuang/slides/Research%20101%20-%20Paper%20Writing%20with%20LaTeX.pdf). To enhance class participation, and unless restricted by low internet bandwidth, please try to keep your video turned on during class. Please keep your audio muted unless you would like to respond to an ongoing discussion or have a question. You can also use the "raise hand" option, type in the chatbox, or use the Zoom reactions for nonverbal feedback. 
+Please remember that all in-class discussions should adhere to Virginia Tech's [Principles of Community](https://www.inclusive.vt.edu/Programs/vtpoc0.html). To keep track of student order during office hours, please type your name in the chat as soon as you enter the Zoom room. 
 For one-on-one interactions with the instructor, please post a [private note](https://trunkuserguide.screenstepslive.com/s/5891/m/18197/l/195539-how-do-students-ask-a-private-question-to-the-instructor-in-piazza) 
 on Piazza or use [Slack](cs-vt.slack.com).
 
 
-
-## <a name="schedule"></a> Schedule:
-
+<!-- ## <a name="schedule"></a> Schedule
 We will update the schedule regularly based on the readings and presentations.
-Based on students' suggestions, topics have been merged such that for any four consecutive weeks with the same pairs of topic labels, students can pick any paper from the topics of the respective weeks, with the constraint that only up to *3 papers maximum* can be from one of the two topics, e.g., up to 3 papers can cover weak supervision and the remaining 1 should cover self-supervision (in other words, if for example 02/09/2021->1 weak supervision paper, 02/11/2021->1 weak supervision paper, 02/16/2021-> 1 weak supervision paper, then 02/18/2021 has to be 1 self-supervision paper).
+My apologies for the oversight. It seems that I inadvertently omitted the "No class - Thanksgiving break" entries when making adjustments to the table. Here's the corrected table with the "No class - Thanksgiving break" entries added back in:
 
-| Lecture No. | Date | Reading |
-| :---: | :---: | :---: |
-1 | Tuesday, 01/19/2021  |  Course introduction & logistics: [slides](/files/CS6604DCML_Intro.pdf)  |
-2 | Thursday, 01/21/2021 |  Active Learning overview (presented by Ismini) |
-3 | Tuesday, 01/26/2021 |   Semi-supervised: [Pseudo-Label : The Simple and Efficient Semi-Supervised Learning Method for Deep Neural Networks](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.664.3543&rep=rep1&type=pdf) |
-4 | Thursday, 01/28/2021 | Active Learning: [Learning How to Active Learn by Dreaming](https://www.aclweb.org/anthology/P19-1401.pdf)|
-5 | Tuesday, 02/02/2021 |  Semi-supervised: [Not All Unlabeled Data are Equal: Learning to Weight Data in Semi-supervised Learning](https://arxiv.org/pdf/2007.01293.pdf) |
-6 | Thursday, 02/04/2021 |  Active Learning: [Asking the Right Questions to the Right Users: Active Learning with Imperfect Oracles](https://ojs.aaai.org/index.php/AAAI/article/view/5738) |
-7 | Tuesday, 02/09/2021 |   Self-supervision: [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529) |
-8 | Thursday, 02/11/2021 |  Weak supervision: [Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)  |
-9 | Tuesday, 02/16/2021 |  Weak supervision: [Stochastic Generalized Adversarial Label Learning](https://arxiv.org/abs/1906.00512)  |
-nc | Thursday, 02/18/2021 | [Classes canceled](https://vt.edu/status.html)   |
-10 | Tuesday, 02/23/2021 |  Self-supervision: [Contrastive Multi-View Representation Learning on Graphs](https://arxiv.org/pdf/2006.05582v1.pdf) |
-nc | Thursday, 02/25/2021 |  Spring Break Day - No Class |
-11 | Tuesday, 03/02/2021 |  Data augmentation: [FeatMatch: Feature-Based Augmentation for Semi-Supervised Learning](https://arxiv.org/pdf/2007.08505.pdf) |
-12 | Thursday, 03/04/2021 |  Adversarial Training: [Adversarial Policies: Attacking Deep Reinforcement Learning](https://arxiv.org/abs/1905.10615) |
-13 | Tuesday, 03/09/2021 |  Adversarial Training: [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/file/1f1baa5b8edac74eb4eaa329f14a0361-Paper.pdf) |
-14 | Thursday, 03/11/2021 |  Bias: [Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings](https://arxiv.org/abs/1607.06520) |
-15 | Tuesday, 03/16/2021 | Interpretability *brainstorming*: [Semi-Supervised Learning under Class Distribution Mismatch](https://ojs.aaai.org/index.php/AAAI/article/view/5763) |
-16 | Thursday, 03/18/2021 |  Bias: [Language (Technology) is Power: A Critical Survey of “Bias” in NLP](https://arxiv.org/pdf/2005.14050.pdf) |
-17 | Tuesday, 03/23/2021 |  Interpretability: [Causal Interpretability for Machine Learning - Problems, Methods and Evaluation](https://arxiv.org/abs/2003.03934) |
-18 | Thursday, 03/25/2021 |  Outlier & OoD detection: [Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks](https://arxiv.org/abs/1706.02690) |
-19 | Tuesday, 03/30/2021 |  Outlier & OoD detection: [Outlier Exposure with Confidence Control for Out-of-Distribution Detection](https://arxiv.org/pdf/1906.03509.pdf) |
-20 | Thursday, 04/01/2021 |  Outlier & OoD detection: [Deep Sets](https://arxiv.org/pdf/1703.06114v3.pdf)|
-nc | Tuesday, 04/06/2021 | Spring Break Day - No Class |  
-21 | Thursday, 04/08/2021 |  Class imbalance: [Dice Loss for Data-imbalanced NLP Tasks](https://arxiv.org/abs/1911.02855) |
-22 | Tuesday, 04/13/2021 |   Missing values&attributes: [Inductive Matrix Completion Based on Graph Neural Networks](https://openreview.net/pdf?id=ByxxgCEYDS) |
-23 | Thursday, 04/15/2021 |  <span style="color:MediumSeaGreen">Project Workshop Day</span> |
-24 | Tuesday, 04/20/2021 |  Robustness & generalization: [Robustness in Machine Learning Explanations: Does It Matter?](https://core.ac.uk/download/pdf/295733091.pdf) |
-25 | Thursday, 04/22/2021 |  Robustness & generalization: [On the Connection Between Adversarial Robustness and Saliency Map Interpretability](http://proceedings.mlr.press/v97/etmann19a/etmann19a.pdf) |
-26 | Tuesday, 04/27/2021 | TBD based on topic popularity (revisiting concepts & discussion) |
-27 | Thursday, 04/29/2021 |  Final project presentations  |
-28 | Tuesday, 05/04/2021 |  Final project presentations  |
+| Lecture No. | Date                | Topic                           | Reading        |
+|-------------|---------------------|---------------------------------|----------------|
+| 1           | Tuesday, August 22  | Introduction to the Course      | Course Syllabus |
+| 2           | Thursday, August 24 | Instructor Presents              | Readings 1, 2   |
+| 3           | Tuesday, August 29  | Topic 3                         | Readings 3, 4   |
+| 4           | Thursday, August 31 | Topic 4                         | Readings 5, 6   |
+| 5           | Tuesday, September 5| Topic 5                         | Readings 7, 8   |
+| 6           | Thursday, September 7| Topic 6                         | Readings 9, 10  |
+| 7           | Tuesday, September 12| Topic 7                        | Readings 11, 12 |
+| 8           | Thursday, September 14| Topic 8                        | Readings 13, 14 |
+| 9           | Tuesday, September 19| Topic 9                        | Readings 15, 16 |
+| 10          | Thursday, September 21| Topic 10                      | Readings 17, 18 |
+| 11          | Tuesday, September 26| Topic 11                      | Readings 19, 20 |
+| 12          | Thursday, September 28| Topic 12                      | Readings 21, 22 |
+| 13          | Tuesday, October 3   | Topic 13                      | Readings 23, 24 |
+| 14          | Thursday, October 5   | Topic 14                      | Readings 25, 26 |
+| 15          | Tuesday, October 10  | Topic 15                      | Readings 27, 28 |
+| 16          | Thursday, October 12  | Topic 16                      | Readings 29, 30 |
+| 17          | Tuesday, October 17  | Topic 17                      | Readings 31, 32 |
+| 18          | Thursday, October 19  | Topic 18                      | Readings 33,34      |
+| 19          | Tuesday, October 24  | Topic 19                      | Readings 35, 36 |
+| 20          | Thursday, October 26  | Topic 20                      | Readings 37, 38 |
+| 21          | Tuesday, October 31  | Topic 21                      | Readings 39, 40 |
+| 22          | Thursday, November 2  | Topic 22                      | Readings 41, 42 |
+| 23          | Tuesday, November 7  | Topic 23                      | Readings 43, 44 |
+| 24          | Thursday, November 9  | Topic 24                      | Readings 45, 46 |
+| 25          | Tuesday, November 14 | Topic 25                      | Readings 47, 48 |
+| 26          | Thursday, November 16 | Topic 26                      | Readings 49, 50 |
+| No class    | Tuesday, November 21 | No class - Thanksgiving break |                |
+| No class    | Thursday, November 23 | No class - Thanksgiving break |                |
+| 27          | Tuesday, November 28 | Topic 27                      | Readings 51, 52 |
+| 28          | Thursday, November 30 | Project Presentations         |                |
+| 29          | Tuesday, December 5  | Project Presentations         |                |
+-->
 
-## Policies:
+## Policies
 
-### Grading:
+### Grading
 
-  1. **Readings:** 56 points: Each student will be in the presenting role for 12 sessions 
-  and the non-presenting role for the remaining 12. 
-  You can earn up to 3.5 points each time you present (all presenting roles considered equal). 
-  When you aren't presenting, you can earn up to 1 point by completing the non-presenting assignment and by participating in the class, plus 2 points for peer-review in the final class sessions. At the end of the semester, extra credit up to 3 points will be assigned to the most well-made presentation and notebook.
+  1. **Readings:** 65 points: Each student will be in the presenting role for 13 sessions and the non-presenting role for the remaining 13. You can earn up to 4 points each time you present (all presenting roles are considered equal). You will receive full credit if you do a thorough job of undertaking your role and present it in a clear and compelling way. When you aren't presenting, you can earn up to 1 point by completing the non-presenting assignment and by participating in the class. At the end of the semester, extra credit of up to 3 points will be assigned to the most well-made presentation, blog, and notebook.
   
-  2. **Final Project:** 44 points divided into the following categories:
+  2. **Final Project:** 35 points divided into the following categories:
       - Proposal: 5 points.
-      - Clarity: 12 points; your paper should be readable, contain well-defined and clear motivation and contribution statements, and appropriately make connections with related work. In general, your project report should follow standard machine learning conference paper formatting and style.
-      - Novelty: 5 points; your project should propose something new (a new method, application or perspective).
-      - Code: 10 points; the code accompanying your project should be well-documented and your experimental results should be reproducible. 
+      - Clarity: 12 points; your paper should be readable, contain well-defined and clear motivation and contribution statements and appropriately make connections with related work. In general, your project report should follow standard machine learning conference paper formatting and style.
+      - Novelty: 3 points; your project should propose something new (a new method, application, or perspective).
+      - Code: 5 points; the code accompanying your project should be well-documented and your experimental results should be reproducible. 
       Your repository should include a README file with full instructions on how to run the code.
       Moreover, your code should be easy to run with one simple command; if there are multiple steps involved, please make a bash script. 
-      - In-class presentation: 12 points; your final presentation should be clear to the audience and provide a solid review of your work as if you were presenting at a conference. 
-      You can find examples in the NeurIPS'20 [schedule](https://nips.cc/virtual/2020/public/cal_main.html) (Oral Spotlight sessions such as [this](https://nips.cc/virtual/2020/public/session_oral_21071.html) one).
+      - In-class presentation: 10 points; your final presentation should be clear to the audience and provide a solid review of your work as if you were presenting at a conference. You can find examples in the NeurIPS'20 [schedule](https://nips.cc/virtual/2020/public/cal_main.html) (Oral Spotlight sessions such as [this](https://nips.cc/virtual/2020/public/session_oral_21071.html) one).
            
-### Attendance and late work:
-
+### Attendance and late work
 If you expect to miss a class session in which you are in a "presenting" role, you should still create the presentation 
-for your assigned session and find someone else to present for you before the day of the presentation. 
-Missing the class session in which you are supposed to present without arranging the aforementioned accommodations 
-will result in a penalty of 12 points from your total grade, as this disrupts the whole class.
-
-If you miss a non-presenting assignment, you'll get a zero for that session.
-Final project presentations cannot be postponed, as they are scheduled in the course's last few sessions and students need to present at their assigned timeslot. 
-You are welcome to switch your timeslot with another group, but you are responsible for making such arrangements.
-Other material, such as the final project submission and report are negotiable, based on the severity of the request, e.g., medical reasons. 
+for your assigned session and find someone else to present for you before the day of the presentation. Missing the class session in which you are supposed to present without arranging the aforementioned accommodations will result in a penalty of 12 points from your total grade, as this disrupts the whole class.
+If you miss a non-presenting assignment, you'll get a zero for that session. 
+Final project presentations cannot be postponed, as they are scheduled in the course's last few sessions and students need to present at their assigned timeslot. You are welcome to switch your timeslot with another group, but you are responsible for making such arrangements.
+Other materials, such as the final project submission and report are negotiable, based on the severity of the request, e.g., medical reasons. 
 
 At any time during the course, if you are facing any difficulties to meet the course deliverables or would like to discuss any concerns, 
-you are welcome to contact me over email, [Slack](cs-vt.slack.com) or Piazza. 
-Students can also submit anonymous feedback to this [link](https://virginiatech.qualtrics.com/jfe/form/SV_6u4OIe19cosSYzc). 
+you are welcome to contact me over email, [Slack](cs-vt.slack.com), or Piazza. 
+Students can also submit anonymous feedback to this [link](https://tinyurl.com/CS6604EAIFeedback). 
 Students seeking special accommodations based on disabilities should contact me and also 
 coordinate accessibility arrangements with the [Services for Students with Disabilities office](http://www.ssd.vt.edu).
 
-### Honor Code Statement:
-
+### Honor Code Statement
 All assignments submitted shall be considered “graded work” and all aspects of your coursework are covered by the Honor Code. 
-Students enrolled in this course are responsible for abiding by the Honor Code. 
-The Academic Integrity expectations for Hokies are the same in an online class as they are in an in-person class. 
-Hokies are expected to meet the academic integrity standards at Virginia Tech at all times.
-For additional information about the Honor Code, please visit [https://www.honorsystem.vt.edu/](https://www.honorsystem.vt.edu/) 
-and read the [Graduate Honor System Constitution](https://graduateschool.vt.edu/content/dam/graduateschool_vt_edu/graduate-honor-system/Constitution2021.pdf).
-Ignorance of the rules does not exclude any member of the University community from the requirements and expectations of the Honor Code. 
-
-In this class, you must attribute appropriate credit to existing ideas, facts, methods and external sources of code by citing the source. At all times, you should avoid claiming someone else's work as your own. 
-This course will have a **zero-tolerance** philosophy regarding plagiarism or other forms of cheating, and incidents of academic dishonesty
+Students enrolled in this course are responsible for abiding by the Honor Code. For additional information about the Honor Code, please visit [https://www.honorsystem.vt.edu/](https://www.honorsystem.vt.edu/). You must attribute appropriate credit to existing ideas, facts, methods, and external sources of code by citing the source. At all times, you should avoid claiming someone else's work as your own. This course will have a **zero-tolerance** philosophy regarding plagiarism or other forms of cheating, and incidents of academic dishonesty
 will be [**reported**](https://graduateschool.vt.edu/academics/expectations/graduate-honor-system/how-to-report-violation.html).
 A student who has doubts about how the Honor Code applies to this course should obtain specific guidance from the course instructor before submitting the respective assignment.
- -->
+
