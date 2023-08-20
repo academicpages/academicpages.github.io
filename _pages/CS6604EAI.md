@@ -90,6 +90,7 @@ on Piazza or use [Slack](cs-vt.slack.com).
 
 ## <a name="schedule"></a> Schedule
 We will update the schedule regularly based on the readings and presentations.
+
 | Lecture No. | Date                | Reading            |
 |-------------|---------------------|--------------------|
 | 1           | Tuesday, August 22  | Course Syllabus     |
