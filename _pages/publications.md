@@ -12,5 +12,5 @@ author_profile: false
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <p>{{ forloop.index }}. {% include archive-single.html %}</p>
+  <p>{{ forloop.rindex }}. </p>{% include archive-single.html %}
 {% endfor %}
