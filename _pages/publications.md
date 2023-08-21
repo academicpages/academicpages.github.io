@@ -18,18 +18,21 @@ author_profile: false
 
 {% include base_path %}
 
-* Selected publications
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 
-* Full publication list
+* Selected publications
+
 
 {% for post in site.highlightedPublications reversed %}
   <p>{{ forloop.rindex }}. </p>{% include archive-single-highlightedPublications.html %}
 {% endfor %}
+
+
+* Full publication list
+
 
 {% for post in site.publications reversed %}
   <p>{{ forloop.rindex }}. </p>{% include archive-single.html %}
