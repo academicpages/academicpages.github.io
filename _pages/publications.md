@@ -22,6 +22,10 @@ author_profile: false
 
 {% include base_path %}
 
+{% for post in site.highlightedPublications reversed %}
+  <p>{{ forloop.rindex }}. </p>{% include archive-single-highlightedPublications.html %}
+{% endfor %}
+
 {% for post in site.publications reversed %}
   <p>{{ forloop.rindex }}. </p>{% include archive-single.html %}
 {% endfor %}

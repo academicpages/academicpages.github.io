@@ -273,12 +273,23 @@
 	],
 	"file_history":
 	[
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_config.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/research.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/ui-text.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/sitemap.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/non-menu-page.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talkmap.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Polythiourea-Superionic-Conductors-for-Solid-State-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2017-01-01-Kinetics-of-CO-2-diffusion-in-human-carbonic-anhydrase-a-study-using-molecular-dynamics-simulations-and-the-Markov-state-model.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
@@ -329,7 +340,6 @@
 		"/D/files/Xiaoyun/inertia_tensor/raw/BCC.txt",
 		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/BCC.txt",
 		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/mu.txt",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/files/Xiaoyun/inertia_tensor/for inertia tensor/phi.txt",
 		"/D/files/vpns/ShadowsocksR/pac.txt",
 		"/D/clouddrives/xk/one2one/xinqiang/proj1/codes/analysis_codes/analysis_dumbbell/Anglecal.py",
@@ -390,17 +400,7 @@
 		"/G/files/Coskun/dft/BTFE.gjf",
 		"/D/clouddrives/xk/working/proteinPrediction/GAN-V2-20230511/GAN-V2-20230511/GAN_v2.py",
 		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/submission_NE/New Text Document.txt",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/no_cite_ref_bib.txt",
-		"/D/clouddrives/wechat/WeChat Files/xianshine/FileStorage/File/2023-06/国际校区.txt",
-		"/D/clouddrives/KongLab/daily/实验室报销/采购清单.txt",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/讨论/exp_2拟合效果/说明.txt",
-		"/C/Users/exian/Downloads/Stockmayer.lmp",
-		"/D/clouddrives/KongLab/daily/实验室报销/done/2022/cluster2/材料清单.txt",
-		"/D/files/PEOPTHF/out/PEG_5-16-16/md.log",
-		"/D/files/PEOPTHF/out/PEG_2_PTHF_3-16-16/md.log",
-		"/D/clouddrives/KongLab/daily/实验室报销/cluster5/机器照片/序列号.txt",
-		"/D/clouddrives/KongLab/daily/实验室报销/报增流程.txt",
-		"/E/inTHU/PHD_files/memory/work of undergraduate years/毕设/lunwen/校友专访------刘铮学长.txt"
+		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/no_cite_ref_bib.txt"
 	],
 	"find":
 	{
@@ -418,6 +418,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"analytics",
+			"ENV",
+			"JEKYLL_ENV",
 			"base_path",
 			"google",
 			"\\n",
