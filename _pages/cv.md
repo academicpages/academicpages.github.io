@@ -49,7 +49,8 @@ Skills
   * CAD: SpaceClaim, Siemens NX (UG), AutoCAD
   * CAE: Abaqus, Ansys, Hyperworks, Fenics, Comsol
   * CG: [MeshLab](https://github.com/cnr-isti-vclab/meshlab), Blender, UE5
-
+* Platforms
+  * Arduino
 
 Publications
 ======

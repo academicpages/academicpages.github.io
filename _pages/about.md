@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a fourth-year Ph.D. candidate from the Department of Engineering Mechanics, Dalian University of Technology. I am very fortunate to be supervised by Prof. Xu Guo and Prof. Chang Liu. Previously, I received my bachelor's degree (Engineering Mechanics) from Hefei University of Technology in 2019, supervised by Prof. Bo Yu. My research interests include applied and computational mechanics, structure analysis and design, computer graphics, computer-aided geometric design, and engineering computing.
+Hi, I am a fifth-year Ph.D. candidate from the Department of Engineering Mechanics, Dalian University of Technology. I am very fortunate to be supervised by Prof. Xu Guo and Prof. Chang Liu. Previously, I received my bachelor's degree (Engineering Mechanics) from Hefei University of Technology in 2019, supervised by Prof. Bo Yu. My research interests include applied and computational mechanics, structure analysis and design, computer graphics, computer-aided geometric design, and engineering computing.
 
 Currently, I am researching the analysis, simulation, design, and optimization of complex surface structures. Based on the explicit structure optimization method and computational conformal mapping technique, we construct a general framework to design surface structures. Applications include [the lightweight design, stiffness enhancement, and structure manipulation] of [shells, membranes, and low-dimensional materials]. The algorithms developed have been successfully applied to specific engineering projects and integrated into different software.
 
 Since I want to avoid being trapped in the computation framework, I'm also learning about measurement, experiment, manufacturing, and applications, which will reflect in future research.
 
-Please feel free to contact me if you are interested in my research, my Email is huowd'at'mail'dot'dlut'dot'edu'dot'cn. [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
+Please feel free to contact me if you are interested in my research and work, my Email is huowd'at'mail'dot'dlut'dot'edu'dot'cn. [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
+
+
+<!-- In my spare time, I enjoy exploring fantastic technology world, and the specific direction is somehow random. -->
 
 <!-- You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf). -->
 

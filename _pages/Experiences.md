@@ -29,6 +29,9 @@ Research
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
 * Topology optimization on complex surfaces (done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-2022.02
+* Substructuring multi-resolution topology optimization with template (done)
+  * Collabrated with Mr. Mengcheng Huang
+  * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.01-2021.05
 * Texture synthesis and its application to computational mechanics (to be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
 * Structure design considering EMS and EMI (to be continued)
