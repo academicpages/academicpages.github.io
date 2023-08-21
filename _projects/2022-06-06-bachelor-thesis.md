@@ -2,10 +2,6 @@
 title: "Bachelor Thesis: Visual Question Answering with Knowledge-based Semantics"
 collection: projects
 permalink: /projects/vqa-knowledge-semantics
-#excerpt: "Visual Question Answering (VQA) is a versatile problem combining major fields like Computer
-# Vision (CV) and Natural Language Processing (NLP) for successfully integrating information
-# from questions and images when generating answers requiring common-sense reasoning and
-# knowledge about the world."
 excerpt: "This thesis considers an exhaustive state-of-the-art (SOTA) desription of VQA models, theoretical considerations and implementation details for training a VQA model learning towards a semantical- and conceptually strong latent space spanned by the Conceptnet Numberbatch embeddings as well an analysis of model behaviour by exploiting explainability tools."
 date: 2022-06-06
 venue: 'DTU Department of Applied Mathematics and Computer Science'

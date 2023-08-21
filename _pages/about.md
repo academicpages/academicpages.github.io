@@ -16,11 +16,12 @@ Hi! I'm Albert - a passionate and engaged Data Science student pursuing a Master
 What is this site for? 
 ======
 
-The purpose of this website is to give any interested reader an insight into the aspects of Machine Learning and Data Science that I've been working with. My main motivation has been to create a platform for me to experiment with writing [blog posts about my daily encounters with Data Science](https://albertkjoller.github.io/posts) - and most importantly; to write these in a fashion such that the content is interesting both for people that are part of and for people that are not part of the Data Science community. 
+The purpose of this website is to give any interested reader an insight into the aspects of Machine Learning and Data Science that I've been working with. My main motivation has been to create a platform for me to experiment with writing [blog posts about my daily encounters with Data Science](https://albertkjoller.github.io/posts). 
+<!--- and most importantly; to write these in a fashion such that the content is interesting both for people that are part of and for people that are not part of the Data Science community.  -->
 
 Any comments on a blog post? Or do you want to collaborate on a project?
 ------
 
 <!-- **Want to collaborate?** -->
 
-If that's the case - feel free to reach out! You can find contact information [here](https://albertkjoller.github.io/contact).
+If that's the case - feel free to reach out! You can find my contact information [here](https://albertkjoller.github.io/contact).

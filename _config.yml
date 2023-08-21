@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Albert Kjøller Jacobsen"
-  avatar           : "mig.jpg" #"profile.png"
+  avatar           : "me.jpg" #"profile.png"
   bio              : "MSc. Eng. Human-Centered AI @ Technical University of Denmark"
   location         : "Copenhagen, Denmark"
   employer         :
