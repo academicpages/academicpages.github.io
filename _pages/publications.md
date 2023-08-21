@@ -23,7 +23,9 @@ author_profile: false
 {% endif %}
 
 
-* Selected publications
+Selected publications
+======
+
 
 
 {% for post in site.highlightedPublications reversed %}
@@ -31,7 +33,8 @@ author_profile: false
 {% endfor %}
 
 
-* Full publication list
+Full publication list
+======
 
 
 {% for post in site.publications reversed %}
