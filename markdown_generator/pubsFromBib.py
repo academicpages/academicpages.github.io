@@ -28,14 +28,6 @@ import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
     "journal":{
         "file": "pubs.bib",
         "venuekey" : "journal",
@@ -69,9 +61,16 @@ for pubsource in publist:
         pub_day = "01"
         
         b = bibdata.entries[bib_id].fields
+        #print("*****************************************")
+        #print(b)
+        #print("*****************************************")
+
         
         try:
             pub_year = f'{b["year"]}'
+            volume = f'{b["volume"]}'
+            number = f'{b["number"]}'
+            pages = f'{b["pages"]}'
 
             #todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
@@ -112,7 +111,7 @@ for pubsource in publist:
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
-            citation = citation + ", " + pub_year + "."
+            citation = citation + ", " + pub_year + ", " + volume + "("+ number + ")"+ ", "+pages
 
             
             ## YAML variables
