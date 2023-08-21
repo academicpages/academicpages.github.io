@@ -11,30 +11,64 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, University of Illinois at Urbana-Champaign, 2020
+* M.S. in Statistics, University of Illinois at Urbana-Champaign, 2022
+* Ph.D in Education, Harvard University, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Present: Research Assistant
+  * Harvard's Hutchins Center on Institute of Policing, Incarceration, and Public Safety 
+  * Duties included: Causal Analysis, Textual Analysis, Spatial Analysis, Data Collection 
+  * Supervisor: Dr. Brennan Klein
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2022 - Summer 2023: Research Assistant
+  * Annenberg Insitute
+  * Duties included: Matching, Data Visualization
+  * Supervisor: Dr. John Papay and Dr. Heather Hill 
   
+* Summer 2021: Summer Predoctoral Research Experience Intern
+  * Education Testing Services 
+  * Duties included: Linear Regression, Exploratory Analysis
+
+* November 2020 - Present: Research Assistant
+  * COVID-19 Dispersed Volunteer Research Network
+  * Duties included: Interviews, Sociological Coding, Data Collection
+  * Supervisor: Dr. Maimuna S Majumder 
+    
+* January 2019 - Summer 2022: Research Assistant
+  * University of Illinois at Urbana - Champaign 
+  * Duties included: Interviews, Qualitative Coding 
+  * Supervisor: Dr. Kelly Findley
+ 
+ * November 2020 - Summer 2023: Research Assistant
+   * University of Illinois at Urbana - Champaign 
+   * Duties included: Bayesian Estimation, Simulations, Data Analysis, Exploratory Factor Analysis 
+   * Supervisor: Dr. Kelly Findley
+
+Honors and Awards 
+=====
+* Harvard Stone Program in Wealth Distribution, Inequality, and Social Policy: Summer 2023
+* Harvard Center for Educational Policy Research PIER Fellowship: Spring 2023 
+* Harvard Graduate School of Arts and Sciences Prize Fellowship: Spring 2022 
+* OMSA Officer Diane and Moore Scholarship: Spring 2017
+* Benjamin A. Gilman International Scholarship: Fall 2017
+
+Profesional Associations
+=====
+* American Educational Research Association: Spring 2023 - Present
+* Anti-Racism and Quantitative Research: Fall 2022 - Present 
+* Miratrix C.A.R.E.S Lab: Fall 2022 - Present 
+* Education Testing Services - NAEP Grad Network: Fall 2021 - Spring 2023
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* SAS 
+* Git 
+* Microsoft Office Suite
+* HTML
 
 Publications
 ======
