@@ -273,6 +273,18 @@
 	],
 	"file_history":
 	[
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_config.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Polythiourea-Superionic-Conductors-for-Solid-State-Batteries.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2017-01-01-Kinetics-of-CO-2-diffusion-in-human-carbonic-anhydrase-a-study-using-molecular-dynamics-simulations-and-the-Markov-state-model.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-08-17-Ion-solvation-Kelamayi.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-12-31-Ion-solvation-GCCES.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-08-07-Ion-solvation-GCCES.md",
 		"/D/files/generate_DifferentGeometry/predict/a001/rank0.pdb",
 		"/D/files/generate_DifferentGeometry/generate_Geo.py",
 		"/D/files/Xiaoyun/inertia_tensor/get_inertia_tensor.py",
@@ -299,7 +311,6 @@
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-07-26-Zhengzhou.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-07-26-ECUST.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-04-22-dendrites.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-08-07-Ion-solvation-GCCES.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-05-07-PolymerElectrolytes-ICMSAI.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-07-14-Ion-solvation-CNNEM.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-07-15-Ion-solvation-CNNEM.md",
@@ -389,22 +400,11 @@
 		"/D/files/PEOPTHF/out/PEG_2_PTHF_3-16-16/md.log",
 		"/D/clouddrives/KongLab/daily/实验室报销/cluster5/机器照片/序列号.txt",
 		"/D/clouddrives/KongLab/daily/实验室报销/报增流程.txt",
-		"/E/inTHU/PHD_files/memory/work of undergraduate years/毕设/lunwen/校友专访------刘铮学长.txt",
-		"/D/clouddrives/KongLab/daily/实验室报销/待处理事务/xk/from20200515/2401.43.txt",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/sim/in/codes/angle1.sh",
-		"/D/clouddrives/xk/one2one/Xiupeng/nanotubePEO/in/analysis/acfMethods.py",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/sim/in/codes/cohesive.sh",
-		"/D/clouddrives/xk/lab320.txt",
-		"/D/clouddrives/xk/ip_lab608.txt",
-		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/funding/history/广东省自然科学基金/摘要.txt",
-		"/D/clouddrives/xk/one2one/Xueying/广东基金申请/项目基本信息参考.txt",
-		"/D/clouddrives/OneDrive - 华南理工大学/books/polymer physics/20597_02.log",
-		"/D/clouddrives/xk/working/proteinPrediction/GAN-V2-20230511/GAN-V2-20230511/readme.txt",
-		"/D/clouddrives/xk/one2one/yan/proj1/analysis/numberdensity.py"
+		"/E/inTHU/PHD_files/memory/work of undergraduate years/毕设/lunwen/校友专访------刘铮学长.txt"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 40.0
 	},
 	"find_in_files":
 	{
@@ -418,6 +418,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"base_path",
+			"google",
 			"\\n",
 			"github.",
 			"\\n",
