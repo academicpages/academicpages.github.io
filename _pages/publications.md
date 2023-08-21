@@ -16,11 +16,16 @@ author_profile: false
   gtag('config', 'G-RWRZQTY3DB');
 </script>
 
+{% include base_path %}
+
+* Selected publications
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+
+* Full publication list
 
 {% for post in site.highlightedPublications reversed %}
   <p>{{ forloop.rindex }}. </p>{% include archive-single-highlightedPublications.html %}
