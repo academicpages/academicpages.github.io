@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist. <img align="right" src="/images/fgses.png" width="300"> Currently I am an Assistant Professor at [Mohammed VI Polytechnic University (UM6)](https://www.um6p.ma/) in the [Faculty of Governance, Economics and Social Sciences](https://www.fgses-um6p.ma/). I also co-direct of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org).
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist. <img align="right" src="/images/fgses.png" width="350"> Currently I am an Assistant Professor at [Mohammed VI Polytechnic University (UM6)](https://www.um6p.ma/) in the [Faculty of Governance, Economics and Social Sciences](https://www.fgses-um6p.ma/). I also co-direct of [The Omo Valley Research Project](http://www.omovalleyresearchproject.org).
 
 
 I was previously a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests). I completed my Ph.D. in anthropology at Washington State University and my B.A. in anthropology and psychology from the University of Nebraska–Lincoln.
@@ -21,8 +21,6 @@ Research statement
 My research program focuses on relationships between individual behavioral strategies and group dynamics in the context of cultural transitions. <img style="float: right; padding: 20px;" src="/images/chabu_interview_small75.jpg" width="400"/> In particular, I investigate how behaviors such as leadership and followership, social learning, conflict resolution, and economic strategies are related to group-level pressures stemming from, for example, social contexts, network dynamics, political structures, and cultural norms. I am especially interested in how relationships between these individual-level and group-level processes vary across populations and across time. I draw on adaptationist, behavioral-ecological, and cultural-evolutionary theoretical frameworks.
 
 More broadly, I am interested in how subsistence-based populations with limited market integration navigate increasing pressures from state-level influences and maintain or adapt long-standing components of their social, cultural, and economic livelihoods. My ultimate goals include developing more robust, generalizable theories of human behavior, social organization, and cultural change which are supported and tested through solid empirical foundations.
-
-#[![alt text](/images/still2.001.jpeg)](https://youtu.be/_5GMOjwTSAI "IAST Research Fellow Introduction Video")
 
 
 Field research
