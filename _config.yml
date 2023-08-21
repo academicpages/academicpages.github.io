@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Larry Han 韩乐"
+  name             : "Larry Han"
   avatar           : "morehead2.png"
-  bio              : "Postdoctoral Fellow at Harvard Medical School, Ph.D. in Biostatistics, Harvard University."
-  location         : "Cambridge, MA"
+  bio              : "Assistant Professor in Health Sciences, Northeastern University."
+  location         : "Boston, MA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=larry+han&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate"
