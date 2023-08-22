@@ -3,7 +3,7 @@
 
 header img { 
   width: 7rem; 
-  float: left; 
+  float: right; 
 }
 
 header + p { 
