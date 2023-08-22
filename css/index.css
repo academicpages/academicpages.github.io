@@ -2,7 +2,7 @@
 
 
 header img { 
-  width: 10rem; 
+  width: 7rem; 
   float: left; 
 }
 
@@ -37,8 +37,8 @@ nav ul li:first-child::before {
 }
 
 footer { 
-  margin-top: 10rem; 
-  margin-bottom: 0rem; 
+  margin-top: 2rem; 
+  margin-bottom: 2rem; 
   font-size: .65rem; 
 }
 
