@@ -83,12 +83,12 @@ author:
   name             : Zachary H. Garfield
   avatar           : "profile_pic2.jpg"
   bio              : "<b>Behavioral scientist & evolutionary anthropologist</b><br> <br>Assistant Professor of Behavioral Science at <a style='color: black;' href='https://www.um6p.ma/'>Mohammed VI Polytechnic University</a>.<br> <br>Co-director of <a style='color: black;' href='https://www.omovalleyresearchproject.org'>The Omo Valley Research Project</a>."
-  location         : "Toulouse, France"
+  location         : "Rabat, Morocco"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=k5NnEvgAAAAJ&hl=en"
-  email            : "zachary.garfield@iast.fr"
-  researchgate     : "https://www.researchgate.net/profile/Zachary_Garfield"
+  email            : "zachary.garfield@um6p.ma"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        : "theOVRP"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/zachary-g-89862389/"
   orcid            : "http://orcid.org/0000-0002-1547-1492"
   pinterest        :
   soundcloud       :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCVZIKjcvAabkrnTcYjuz3NA?view_as=subscriber"
+  youtube          : 
   wikipedia        :
   mastodon         : "https://fediscience.org/@zhgarfield"
 
