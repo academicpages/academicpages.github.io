@@ -42,6 +42,51 @@ footer {
   font-size: .65rem; 
 }
 
+/* Add this to your existing stylesheet */
+
+.vertical-nav {
+  background-color: var(--b-bg-2);
+  width: 250px; /* Set the width of the navigation bar */
+}
+
+.nav-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav-list li {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--b-line);
+}
+
+.nav-list li:last-child {
+  border-bottom: none;
+}
+
+.nav-list li a {
+  color: var(--b-txt);
+  text-decoration: none;
+  display: block;
+  transition: background-color 0.2s;
+}
+
+.nav-list li a:hover {
+  background-color: var(--b-bg-1);
+}
+
+/* Highlight the currently active link */
+.nav-list li a.active {
+  background-color: var(--b-bg-1);
+  font-weight: bold;
+}
+
+/* Hide default bullet points */
+.nav-list li::before {
+  content: "";
+}
+
+
 
 @media screen and (max-width: 480px) {
   body {
