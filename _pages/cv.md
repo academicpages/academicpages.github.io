@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* **2022-present:** Manager, Imaging Solutions, The Jackson Laboratory
+* **2022-present:** Manager, Imaging Applications, The Jackson Laboratory
   * Research IT department
 
 * **2019-2022:** Systems Analyst, The Jackson Laboratory
