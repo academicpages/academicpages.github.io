@@ -42,6 +42,7 @@ footer {
   font-size: .65rem; 
 }
 
+
 @media screen and (max-width: 480px) {
   body {
     font-size: .9rem; 
