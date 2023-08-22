@@ -1,0 +1,37 @@
+@import "light.min.css";
+
+body {
+  min-width: 60ch;
+  font-size: small; 
+}
+
+footer { 
+  margin-top: 2rem; 
+  margin-bottom: 2rem; 
+  font-size: x-small; 
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+  text-align: left;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li::before {
+  content: "·";
+  margin-right: .5rem;
+  margin-left: .25rem;
+}
+
+nav ul li:first-child::before {
+  content: "";
+  margin: 0;
+  padding: 0;
+}
