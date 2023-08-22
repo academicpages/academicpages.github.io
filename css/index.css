@@ -1,0 +1,80 @@
+@import "light.min.css";
+
+
+header img { 
+  width: 7rem; 
+  float: right; 
+}
+
+header + p { 
+  clear: both; 
+  margin-top: 2rem; 
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0; 
+  text-align: left;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li::before {
+  content: "·";
+  margin-right: .5rem;
+  margin-left: .25rem;
+}
+
+nav ul li:first-child::before {
+  content: "";
+  margin: 0;
+  padding: 0;
+}
+
+footer { 
+  margin-top: 2rem; 
+  margin-bottom: 2rem; 
+  font-size: .65rem; 
+}
+
+
+@media screen and (max-width: 480px) {
+  body {
+    font-size: .9rem; 
+  }  
+
+  header img { 
+    width: 3.5rem; 
+    float: right; 
+  }
+
+  footer { 
+    font-size: .6rem; 
+  }
+}
+
+@media screen and (max-width: 375px) {
+  body {
+    font-size: .65rem; 
+  }  
+
+  header img { 
+    width: 3rem; 
+    float: right; 
+  }
+
+  nav ul li::before {
+    content: "·";
+    margin-right: .3rem;
+    margin-left: .15rem;
+  }
+
+  footer { 
+    font-size: .45rem; 
+  }
+}
