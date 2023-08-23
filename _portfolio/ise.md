@@ -1,5 +1,5 @@
 ---
-title: "The International Shaming Events (ISE) Data Project"
+title: "The International Shaming Events Initiative (ISEI)"
 excerpt: ""
 collection: portfolio
 ---
@@ -7,13 +7,12 @@ collection: portfolio
 Why do countries talk about each other's human rights practices? What rhetorical strategies do they use to shame others? How does the definition of human rights differ across countries, and what are its implications to the rule-based international order? Accurately describing country-to-country verbal interaction is the first step to answering these questions.
 
 ### News
-* Data collection for US shaming is finished.
-* If you are interested in working with us in Fall 2023, please email Jiwon.
+* Data collection for US shaming is at its final stage.
+* We're recruiting undergraduate researchers for the '23-'24 AY.
 
 ## Team
 ### Current Members
 * Jiwon Kim (PI)
-* [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022-current, coder)
 * [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022-current, coder)
 
 <img src='/images/ISE_picture_4.jpg' alt = "Group Picture" width="300">
@@ -34,6 +33,7 @@ I thank [Prodigy](https://prodi.gy/) for providing academic license for this pro
 * Sandy Gonzalez (2021 Spring) 
 * [Anika Kapur](https://j1wonkim.github.io/anika/) (Jan - Jul 2022, coder)
 * [Karina Nehra](https://j1wonkim.github.io/karina/) (Jan - Jul 2022, coder)
+* [Celline Kim](https://j1wonkim.github.io/celline/) (Jan 2022 - May 2023, coder)
 
 
 
