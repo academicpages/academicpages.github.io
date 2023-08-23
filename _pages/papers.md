@@ -1,13 +1,20 @@
 ---
 layout: archive
 title: ""
-permalink: /papers/
+permalink: /research/
 author_profile: true
 ---
 
+Job Market Paper 
+=======
+Do You See What I See? Employer Learning in the Labor Market for Computer Scientists 
+<a href="#/" onclick="visib('ejr')">Abstract</a> 
+<div id='ejr' style="display: none; text-align: justify; line-height: 1.2" >
+This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession. </div>
+
 Works in Progress 
 =======
-**Employer Learning and Sorting in the Labor Market of Inventors: Evidence from Italy** (with Sabrina Di Addario) 
+*Employer Learning and Sorting in the Labor Market of Inventors: Evidence from Italy* (with Sabrina Di Addario) 
 
 
 
