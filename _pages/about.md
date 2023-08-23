@@ -18,8 +18,8 @@ redirect_from:
 
 About Us
 ======
-Our research focus lies in studying the thermodynamics in various emerging systems. 
-With the booming of energy storage, nanotechnology, and biology, the systems we are studing features key words including electrochemistry, nanoscale, and soft matter.
+At the heart of our research endeavor lies the profound exploration of thermodynamics within the realm of cutting-edge systems. As we navigate the exciting domains of energy storage, nanotechnology, and the intricate tapestry of biology, our studies converge on pivotal concepts: electrochemistry, the nanoscale universe, and the captivating world of soft matter. In this ever-evolving landscape, we unveil the hidden intricacies that shape our understanding of the physical world.
+
 
 <html> 
   <body> 
