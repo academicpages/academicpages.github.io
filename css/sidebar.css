@@ -1,0 +1,28 @@
+/* Example sidebar styles */
+.sidebar {
+  width: 250px; /* Adjust the width as needed */
+  background: var(--b-bg-2);
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 0.5rem 1rem;
+  border-bottom: 1px solid var(--b-line);
+}
+
+/* Adjustments to the main content area */
+.main-content {
+  margin-left: 250px; /* Same width as the sidebar */
+  padding: 1rem;
+}
