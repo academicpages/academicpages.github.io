@@ -17,9 +17,12 @@ redirect_from:
   gtag('config', 'G-RWRZQTY3DB');
 </script>
 
-## Keywords of our lab
+## Briefs on our lab
 
-<p>We are located in the vibrant city of Guangzhou, situated within the dynamic Greater Bay Area of Southern China. Our research hub is affiliated with the renowned <a href="https://www.scut.edu.cn/en/">School of Emergent Soft Matter</a> at <a href="https://www.scut.edu.cn/en/">South China University of Technology (SCUT)</a>. SCUT has earned global recognition for its pioneering works in polymer science and engineering, ranked <a href="https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115">#1 in this field</a> by prestigious institutions such as US News in the year 2022.</p>
+At the heart of our research endeavor lies the profound exploration of thermodynamics within the realm of cutting-edge systems. As we navigate the exciting domains of energy storage, nanotechnology, and the intricate tapestry of biology, our studies converge on pivotal concepts: electrochemistry, the nanoscale universe, and the captivating world of soft matter. In this ever-evolving landscape, we unveil the hidden intricacies that shape our understanding of the physical world.
+
+## A quick snapshot
+
 
 
 <html> 
@@ -29,6 +32,8 @@ redirect_from:
 </html>
 
 ## Where we are
+
+<p>We are located in the vibrant city of Guangzhou, situated within the dynamic Greater Bay Area of Southern China. Our research hub is affiliated with the renowned <a href="https://www.scut.edu.cn/en/">School of Emergent Soft Matter</a> at <a href="https://www.scut.edu.cn/en/">South China University of Technology (SCUT)</a>. SCUT has earned global recognition for its pioneering works in polymer science and engineering, ranked <a href="https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115">#1 in this field</a> by prestigious institutions such as US News in the year 2022.</p>
 
  <html> 
   <body> 
