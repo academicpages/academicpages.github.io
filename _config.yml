@@ -81,21 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Alice Wu"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Economics"
+  avatar           : "aw_profile.jpg"
+  bio              : "Ph.D. Candidate in Economics, Harvard University"
   location         : # "Location"
   employer         :
-  pubmed           : #  "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=SI3MS48AAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  email            : "haowen_wu@g.harvard.edu"
   github           : "alicehwu"
   google_plus      :
   keybase          :
