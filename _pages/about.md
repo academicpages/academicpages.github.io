@@ -32,7 +32,7 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 ## Where we are
 
-<p>We are located in the vibrant city of Guangzhou, situated within the dynamic Greater Bay Area of Southern China. Our research hub is affiliated with the renowned <a href="https://www.scut.edu.cn/en/">School of Emergent Soft Matter</a> at <a href="https://www.scut.edu.cn/en/">South China University of Technology (SCUT)</a>. SCUT has earned global recognition for its pioneering works in polymer science and engineering, ranked <a href="https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115">#1 in this field</a> by prestigious institutions such as US News in the year 2022.</p>
+<p>We are located in the vibrant city of Guangzhou, situated within the dynamic Greater Bay Area of Southern China. Our research hub is affiliated with the renowned <a href="http://www2.scut.edu.cn/aismst_en/">School of Emergent Soft Matter</a> at <a href="https://www.scut.edu.cn/en/">South China University of Technology (SCUT)</a>. SCUT has earned global recognition for its pioneering works in polymer science and engineering, ranked <a href="https://www.usnews.com/education/best-global-universities/south-china-university-of-technology-505115">#1 in this field</a> by prestigious institutions such as US News in the year 2022.</p>
 
  <html> 
   <body> 
