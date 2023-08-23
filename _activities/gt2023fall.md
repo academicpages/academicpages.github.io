@@ -7,8 +7,9 @@ author_profile: false
 
 ## Differential geometry and symplectic topology seminar (Fall 2023)
 
-| date            | time            | speaker        | title                                                                | location                                                              |
-| --------------- | --------------- | -------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| date | time | speaker | title | location |
+| -- | -- | ---- | -------- | ----- |
+| Thu, 2022-09-01 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
 | Thu, 2023-09-07 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
 | Thu, 2023-09-14 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
 | Thu, 2023-09-21 | 1:30pm - 2:30pm |  |  | [https://umn.zoom.us/j/99199273342](https://umn.zoom.us/j/99199273342) | 
