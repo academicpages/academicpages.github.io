@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student in Economics at Universitat Pompeu Fabra (UPF). I hold a Master's degree in Economics from PUC-Rio. My research interests are Development Economics and Applied Microeconometrics, with a particular interest in the economics of education. 
+I am currently a Ph.D. student in Economics at Universitat Pompeu Fabra (UPF). I hold a Master's degree in Economics from PUC-Rio. My research interests are Development Economics and Applied Microeconometrics, with a particular interest in the economics of education.  
+
 For more information, please see my CV.
-
-# A data-driven personal website
-#======
-#Test 1
-
-#**Markdown generator**
-#Test 2
-
