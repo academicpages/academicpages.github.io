@@ -194,7 +194,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     何嘉桐 (Jiatong He)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2023级 本科生  </p>
+    2022级 本科生  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202264641184@mail.scut.edu.cn  </p>
   </div>

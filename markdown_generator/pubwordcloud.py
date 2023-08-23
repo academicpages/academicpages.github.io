@@ -3,6 +3,7 @@
 import matplotlib.pyplot as plt
 import string
 import re
+import os
 import glob
 import wordcloud
 import pdftotext
@@ -56,6 +57,10 @@ class research_wordcloud():
             #print(page)
             self.texts += page.extract_text() + "\n"
             print('extracted text from: ',pdf_file)
+
+        output_file = os.path.join('./', 'pubText.txt')
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(self.texts)
 
     def extract_text_old(self):
         '''

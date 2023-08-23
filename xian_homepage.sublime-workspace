@@ -277,8 +277,11 @@
 	],
 	"file_history":
 	[
-		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubwordcloud.py",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText.txt",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText2.txt",
+		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/learning.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single-highlightedPublications.html",
@@ -296,7 +299,6 @@
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/ui-text.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
@@ -402,13 +404,11 @@
 		"/D/files/lisolvation/files/prepare_lisol.sh",
 		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/孔宪老师集群.txt",
 		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/国际校区.txt",
-		"/D/files/chu/in/tops/acetylene.top",
-		"/D/cmds/ssh_lab2",
-		"/C/Users/exian/AppData/Local/Temp/Temp1_Computing the Heat Conductivity of Fluids from Density Fluctuations PhysRevLett.125.130602 SampleScripts.zip/SI/workflow/step1-ft3d/ft-3d.py"
+		"/D/files/chu/in/tops/acetylene.top"
 	],
 	"find":
 	{
-		"height": 40.8
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -578,7 +578,7 @@
 	"project": "xian_homepage.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 52.8
 	},
 	"save_all_on_build": true,
 	"select_file":
