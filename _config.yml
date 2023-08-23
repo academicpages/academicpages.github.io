@@ -11,9 +11,9 @@ title                    : "Gabriel de Campos"
 title_separator          : "-"
 name                     : &name "Gabriel de Campos"
 description              : &description "My name is Gabriel"
-url                      : https://https://gacamposgs.github.io # the base hostname & protocol for your site e.g. "https://https://gacamposgs.github.io"
+url                      : https://gacamposgs.github.io # the base hostname & protocol for your site e.g. "https://https://gacamposgs.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gacamposgs/gacamposgs.github.io/"
+repository               : "gacamposgs/gacamposgs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
