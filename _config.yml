@@ -83,10 +83,10 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "casamento_2023.jpg"
   bio              : "PhD candidate in Economics at Universitat Pompeu Fabra (UPF)"
-  location         : "Barcelona"
+  location         : "Barcelona, Spain <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48"> "
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "gacamposgs"
+  email            : "gacamposgs@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
