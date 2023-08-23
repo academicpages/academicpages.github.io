@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## University of Tehran (Received Full Scholarship)
+======
 Sep. 2020 - present
 * Bachelor of Science in Computer Science
 * GPA: 3.94/4 (19.02/20) FIRST RANK
