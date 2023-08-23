@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My personal websit"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi [academicpages template](https://github.com/academicpages/academicpages.github.io) this is my personal website.
+I am currently a Ph.D. student in Economics at Universitat Pompeu Fabra (UPF). I hold a Master's degree in Economics from PUC-Rio. My research interests are Development Economics and Applied Microeconometrics, with a particular interest in the economics of education. 
+For more information, please see my CV.
 
-A data-driven personal website
-======
-Test 1
+# A data-driven personal website
+#======
+#Test 1
 
-
-**Markdown generator**
-
-Test 2
+#**Markdown generator**
+#Test 2
 
