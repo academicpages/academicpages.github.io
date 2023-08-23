@@ -10,13 +10,13 @@ author_profile: true
 
 Research
 ======
-* Explicit design of complex surface structure (ongoing, topic of doctoral dissertation)
+* Explicit design of complex surface structures (ongoing, topic of doctoral dissertation)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
 * Rob, LDM, SC, RST, 2023.03-present (in preparation)
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
-* FracMem, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
+* Frac, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
 * Component innovation (ongoing)
-  * Collaborated with Xiaoyang Li
+  * Collaborated with Xiaoyang Li, and Yunpu Liu
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.06-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (ongoing)
 * SL (ongoing)
@@ -27,12 +27,13 @@ Research
 * Explicit layout optimization of complex rib-reinforced thin-walled structures (done)
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Topology optimization on complex surfaces (done)
+* Explict topology optimization of shell surfaces (done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-2022.02
 * Substructuring multi-resolution topology optimization with template (done)
   * Collabrated with Mr. Mengcheng Huang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.01-2021.05
-* Texture synthesis and its application to computational mechanics (to be continued)
+* Texture-guided structure optimization and design (to be continued)
+  * Subproject of texture synthesis and its application to computational mechanics
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2020.10-2021.03
 * Structure design considering EMS and EMI (to be continued)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu,  2020.04-2020.09
@@ -67,7 +68,7 @@ Engineering projects
 ======
 * C 8-times
 * H 1-time
-* Xidian Univ. 
+* Xidian Univ. 1-time
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}

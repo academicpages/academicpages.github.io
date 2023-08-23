@@ -14,7 +14,7 @@ Currently, I am researching the analysis, simulation, design, and optimization o
 
 Since I want to avoid being trapped in the computation framework, I'm also learning about measurement, experiment, manufacturing, and applications, which will reflect in future research.
 
-Please feel free to contact me if you are interested in my research and work, my Email is huowd'at'mail'dot'dlut'dot'edu'dot'cn. [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png)
+Please feel free to contact me if you are interested in my research and work, my Email is huowd@mail.dlut.edu.cn, and here are my social media accounts [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png).
 
 
 <!-- In my spare time, I enjoy exploring fantastic technology world, and the specific direction is somehow random. -->
