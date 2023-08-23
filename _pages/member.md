@@ -178,6 +178,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
+  
   <div style="flex:1">
     
   </div>
@@ -186,3 +187,21 @@ redirect_from:
 ## Undergraduate students
 
 ## Alumni
+
+<div style="display:flex">
+  <div style="flex:1">
+    <img src="../images/HeJiatong.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    何嘉桐 (Jiatong He)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2023级 本科生  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 202264641184@mail.scut.edu.cn  </p>
+  </div>
+  <div style="flex:1">
+
+  </div>
+  <div style="flex:1">
+
+  </div>
+</div>
