@@ -67,7 +67,7 @@ redirect_from:
 </div> -->
 
 
-## Ph.D. Students
+## Current members
 <div style="display:flex">
   <div style="flex:1">
     <img src="../images/yan.jpg" style="width: 150px; height:200px;">
@@ -98,7 +98,6 @@ redirect_from:
   </div>
 </div>
 
-## Master Students
 <div style="display:flex">
   <div style="flex:1">
     <img src="../images/zizhao.jpg" style="width: 150px; height:200px;">
@@ -183,8 +182,6 @@ redirect_from:
     
   </div>
 </div>
-
-## Undergraduate students
 
 ## Alumni
 
