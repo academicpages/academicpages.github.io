@@ -61,7 +61,7 @@ Publications
 
 Presentations
 ======
-* Topology optimization on complex surfaces based on the moving morphable component method and computational conformal mapping, ICASD, Xi'an, China, 2023.09.15 (preparing)
+* Topology optimization on complex surfaces based on the moving morphable component method and computational conformal mapping, ICASD (International Conference on Aerospace Structural Dynamics), Xi'an, China, 2023.09.15 (preparing)
 * Topology optimization on complex surfaces based on the moving morphable component method and computational conformal mapping, WCSMO-15, Cork, Ireland, 2023.06.06
 * Topology optimization on complex surfaces based on the moving morphable component method and computational conformal mapping, ACSMO-2022, Virtual, 2022.05.24
 * 面向复杂薄壁结构的显式拓扑优化软件, 第一届开源工业仿真软件集成大赛, 线上, 2023.02.24
