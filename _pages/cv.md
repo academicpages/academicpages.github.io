@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Education"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+University of Tehran (Received Full Scholarship)
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Sep. 2020 - present
+* Bachelor of Science in Computer Science
+* GPA: 3.94/4 (19.02/20) FIRST RANK
 
 Work experience
 ======
@@ -26,7 +26,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
@@ -41,19 +41,19 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
