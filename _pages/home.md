@@ -17,10 +17,18 @@ redirect_from:
   gtag('config', 'G-RWRZQTY3DB');
 </script>
 
+## Keywords of our lab
+
 <html> 
   <body> 
-    <img src="../images/home.jpg" alt="示例图片" width="1600" height="1200"> 
+    <img src="../images/wordcloud.png" alt="示例图片" width="1200" height="1200"> 
   </body> 
 </html>
 
-## 课题组介绍 
+## Where we are
+
+ <html> 
+  <body> 
+    <img src="../images/building.jpg" alt="示例图片" width="1200" height="1200"> 
+  </body> 
+</html>

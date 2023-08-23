@@ -223,6 +223,18 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "markdown_generator/pubText2.txt",
+			"settings":
+			{
+				"buffer_size": 164095,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -529,6 +541,36 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "markdown_generator/pubText2.txt",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								164095
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
