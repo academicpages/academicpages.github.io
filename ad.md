@@ -1,5 +1,5 @@
 ---
-title: 'ISE F23 RA Job Description'
+title: 'ISE F23 Research Assistant Job Posting'
 date: 2023-8-28
 layout: single
 permalink: /ad/
