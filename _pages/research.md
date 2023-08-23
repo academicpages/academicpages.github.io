@@ -15,7 +15,7 @@ Identification of talent is necessary for the efficient allocation of workers to
 
 
 ## $$\color{olive}{Works \space in \space Progress}$$ 
-- **Employer Learning and Sorting in the Labor Market of Inventors: Evidence from Italy**. (joint with Sabrina Di Addario) 
+- **Who Becomes an Inventor? The Role of Firms in Talent Discovery**. (joint with Sabrina Di Addario) 
 <a href="#/" onclick="visib('italy')">Abstract</a>  | *Draft Coming Soon*
 <div id='italy' style="display: none; text-align: justify; line-height: 1.2" >
 How does firm productivity relate to the speed of talent discovery? We assess this relationship empirically in the labor market of Italian inventors. We define talent discovery as a worker becoming an inventor who files a patent application for the first time. Using the employer-employee data from the Italian Social Security Institute matched with patent applications between 1987 and 2009, we find large heterogeneity in talent discovery across firms, particularly for workers early in their careers. On average a worker younger than 35 is 175% more likely to become an inventor at firms in the top quartile of productivity than at firms in the bottom quartile, conditional on differences across sectors and geographic areas. Workers who do invent at the bottom quartile on average receive an 8-10 log point increase in wages, rather than 2-4 log points at more productive firms. We interpret the empirical findings in an employer learning framework. We are working on a counterfactual low-productivity firms are subsidized for increasing invention opportunities for young workers, and aim to investigate whether the gap in talent discovery between the bottom and top quartile would shrink, and total innovation outputs would increase.  </div>
