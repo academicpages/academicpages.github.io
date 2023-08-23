@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href = "https://ut.ac.ir/en"> <h3> University of Tehran (Received Full Scholarship)</h3></a>
+<h3><a href = "https://ut.ac.ir/en">University of Tehran (Received Full Scholarship)</a></h3>
 Sep. 2020 - present
 * Bachelor of Science in Computer Science
 * GPA: 3.94/4 (19.02/20) FIRST RANK
