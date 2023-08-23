@@ -8,7 +8,8 @@ Why do countries talk about each other's human rights practices? What rhetorical
 
 ### News
 * Data collection for US shaming is at its final stage.
-* We're recruiting undergraduate researchers for the '23-'24 AY.
+* Network project is at its smoke-hunting stage.
+* We're recruiting undergraduate researchers for the '23-'24 AY on a semester basis!
 
 ## Team
 ### Current Members
@@ -19,7 +20,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 
 ## Related Projects
 * [The US Human Rights Shaming Data: Who the US Shames, When, about What, And How Intensely](https://j1wonkim.github.io/research/ise)
-* [How to Measure the Strength of Human Rights Shaming: A Methodological Framework](https://j1wonkim.github.io/research/)
+* [Defining Human Rights: Communities and Competition in the International Shaming Network](https://j1wonkim.github.io/research/network/)
 
 ## Funding
 This research has been supported by undergraduate reserach credit course (POLS399R), [Graduate Research Grant](http://polisci.emory.edu/home/graduate/graduate-research-grant.html) from Emory Political Science Department, and [Computational Social Science Datathon](https://sites.google.com/view/css-workshop-datathon).
