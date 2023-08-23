@@ -11,7 +11,7 @@ author_profile: true
 
 ## Data
 
-[**International Shaming Events (ISE) Data Project**](https://j1wonkim.github.io/portfolio/ise/)
+[**International Shaming Events Initiative (ISEI)**](https://j1wonkim.github.io/portfolio/ise/)
 
 ## Working Papers
 
