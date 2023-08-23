@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"v",
+				"volume"
+			],
+			[
 				"nM",
 				"nMol"
 			],
@@ -273,24 +277,35 @@
 	],
 	"file_history":
 	[
+		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubwordcloud.py",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/learning.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single-highlightedPublications.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubsFromBib.py",
+		"/C/Users/exian/AppData/Local/Temp/MicrosoftEdgeDownloads/58a47b35-c311-4bce-96a2-e956e5a32e2d/S0376738818311682.bib",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubs.bib",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_config.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/research.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2021-01-01-Weakening-of-Solvation-Induced-Ordering-by-Composition-Fluctuation-in-Salt-Doped-Block-Polymers.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/research.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/ui-text.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/sitemap.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/non-menu-page.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talkmap.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Polythiourea-Superionic-Conductors-for-Solid-State-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2017-01-01-Kinetics-of-CO-2-diffusion-in-human-carbonic-anhydrase-a-study-using-molecular-dynamics-simulations-and-the-Markov-state-model.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_talks/2023-08-17-Ion-solvation-Kelamayi.md",
@@ -389,22 +404,11 @@
 		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/国际校区.txt",
 		"/D/files/chu/in/tops/acetylene.top",
 		"/D/cmds/ssh_lab2",
-		"/C/Users/exian/AppData/Local/Temp/Temp1_Computing the Heat Conductivity of Fluids from Density Fluctuations PhysRevLett.125.130602 SampleScripts.zip/SI/workflow/step1-ft3d/ft-3d.py",
-		"/D/clouddrives/KongLab/research/papers/ML_polymers/Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning/PBE0energies.txt",
-		"/D/clouddrives/KongLab/research/papers/ML_polymers/Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning/structures.txt",
-		"/D/clouddrives/KongLab/research/papers/ML_polymers/Machine Learning Energies of 2 Million Elpasolite ðABC2D6Þ Crystals/Machine.py",
-		"/D/clouddrives/xk/one2one/yan/proj1/in/bulk/in.lmp",
-		"/D/clouddrives/xk/one2one/Xueying/liquidElectrolytes/bindingEnergy/Li_DME.gjf",
-		"/G/files/Coskun/dft/Li_DME.0.pdb",
-		"/G/files/Coskun/dft/Li_DME.pdb",
-		"/G/files/Coskun/dft/BTFE.gjf",
-		"/D/clouddrives/xk/working/proteinPrediction/GAN-V2-20230511/GAN-V2-20230511/GAN_v2.py",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/submission_NE/New Text Document.txt",
-		"/D/clouddrives/xk/one2one/Xueying/Fsolvents/manuscript/no_cite_ref_bib.txt"
+		"/C/Users/exian/AppData/Local/Temp/Temp1_Computing the Heat Conductivity of Fluids from Density Fluctuations PhysRevLett.125.130602 SampleScripts.zip/SI/workflow/step1-ft3d/ft-3d.py"
 	],
 	"find":
 	{
-		"height": 40.0
+		"height": 40.8
 	},
 	"find_in_files":
 	{
@@ -418,6 +422,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"font",
+			"collection",
+			"Citation",
+			"paper",
+			"Access",
+			"publications",
+			"collection",
+			"publications",
 			"analytics",
 			"ENV",
 			"JEKYLL_ENV",
@@ -548,7 +560,7 @@
 		"cols":
 		[
 			0.0,
-			0.0968122212903,
+			0.0711845102506,
 			1.0
 		],
 		"rows":
