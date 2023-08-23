@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
+  name        : "Gabriel de Campos"
   uri         : "http://name.com"
-  email       : "name@name.com"
+  email       : "gacamposgs@gmail.com"
   bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  avatar      : "imagens/casamento_2023.png"
+  twitter     : "https://twitter.com/ga_camposgs"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
