@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## $${\color{olive}\text{Job Market Paper}}$$ 
+## $${\color{olive} Job \space Market \space Paper}$$ 
 
 - **Do You See What I See? Employer Learning in the Labor Market for Computer Scientists** 
 <a href="#/" onclick="visib('jmp')">Abstract</a>  | *Draft Coming Soon*
@@ -14,7 +14,7 @@ Identification of talent is necessary for the efficient allocation of workers to
 
 
 
-## $${\color{olive}\text{Works in Progress}}$$ 
+## $${\color{olive}Works \space in \space Progress}$$ 
 - **Employer Learning and Sorting in the Labor Market of Inventors: Evidence from Italy**. (joint with Sabrina Di Addario) 
 <a href="#/" onclick="visib('italy')">Abstract</a>  | *Draft Coming Soon*
 <div id='italy' style="display: none; text-align: justify; line-height: 1.2" >
@@ -35,7 +35,7 @@ We apply deep learning language models on trade secret litigation records to cla
 
 
 
-## $${\color{olive}\text{Publications}}$$ 
+## $${\color{olive}Publications}$$ 
 - **Gender Bias in Rumors Among Professionals: An Identity-based Interpretation**. Review of Economics and Statistics, 102, 5, pp. 867-880. December 2020. 
 <a href="#/" onclick="visib('ejr')">Abstract</a> | [Paper with Appendix](/files/wu_ejr_restat.pdf) |  [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLEBHI) 
 <div id='ejr' style="display: none; text-align: justify; line-height: 1.2" >
