@@ -12,6 +12,8 @@ _pages/publications.md
 
 _pages/teaching.md
 
+_pages/activities.md
+
 _pages/miscellaneous.md
 
 _pages/about.md
