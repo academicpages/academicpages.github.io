@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<font color="red"> Job Market Paper </font>
+$${\color{red}Job Market Paper}$$ 
 =======
 - **Do You See What I See? Employer Learning in the Labor Market for Computer Scientists** 
 <a href="#/" onclick="visib('jmp')">Abstract</a>  | *Draft Coming Soon*
