@@ -4,8 +4,6 @@ title: "Lab of Molecular Simulation and Theory (分子模拟与理论实验室)"
 excerpt: "About us"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 <!-- Google tag (gtag.js) -->

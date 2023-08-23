@@ -5,6 +5,8 @@ permalink: /home/
 author_profile: true
 redirect_from:
   - /home
+  - /about/
+  - /about.html
 ---
 
 <!-- Google tag (gtag.js) -->
