@@ -1,4 +1,11 @@
-# Embodied Artificial Intelligence Seminar - Readings and Resources
+---
+layout: archive
+title: ""
+permalink: /readings/
+author_profile: true
+---
+
+# 🤖 Embodied Artificial Intelligence Seminar - Readings and Resources
 
 Welcome to the CS6604 Embodied AI Seminar! 
 
