@@ -24,9 +24,17 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>Rearrangement: A Challenge for Embodied AI <a href="https://arxiv.org/abs/2011.01975">📚</a></li>
     <li>ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation <a href="https://arxiv.org/abs/2206.06994">📚</a> <a href="https://procthor.allenai.org/">🌍</a></li>
     <li>ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills <a href="https://arxiv.org/abs/2302.04659">📚</a> <a href="https://maniskill2.github.io/">🌍</a></li>
+    <li>Object Goal Navigation using Goal-Oriented Semantic Exploration <a href="https://arxiv.org/abs/2007.00643">📚</a> <a href="https://devendrachaplot.github.io/projects/semantic-exploration.html">🌍</a></li>
+    <li>Visual Room Rearrangement <a href="https://arxiv.org/abs/2103.16544">📚</a> <a href="https://ai2thor.allenai.org/rearrangement/">🌍</a></li>
+    <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception</li>
+    <li>Alfred: A benchmark for interpreting grounded instructions for everyday tasks</li>
+    <li>Dialogue-Enabled Agents for Embodied Instruction Following</li>
+    <li>Alexa Arena: A User-Centric Interactive Platform for Embodied AI</li>
+    <li>VirtualHome: Simulating Household Activities via Programs</li>
+    <li>BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation</li>
+    <li>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</li>
   </ul>
 </details>
-
 
 
 ## Additional Resources
