@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a <del>second</del> third year Ph.D. in Computer Science at Georgia Institute of Technology.
+I am a <del>first</del> second year Ph.D. in Computer Science at Georgia Institute of Technology.
