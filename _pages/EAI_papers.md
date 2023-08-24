@@ -29,11 +29,11 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     </a></li>
     <li>Embodied Question Answering in Photorealistic Environments with Point Cloud Perception<a href="https://arxiv.org/abs/1904.03461">📚</a> <a href="https://embodiedqa.org/">🌍</a></li>
     <li>Alfred: A benchmark for interpreting grounded instructions for everyday tasks<a href="http://openaccess.thecvf.com/content_CVPR_2020/html/Shridhar_ALFRED_A_Benchmark_for_Interpreting_Grounded_Instructions_for_Everyday_Tasks_CVPR_2020_paper.html">📚</a> <a href="https://askforalfred.com/">🌍</a></li>
-    <li>Dialogue-Enabled Agents for Embodied Instruction Following</li>
-    <li>Alexa Arena: A User-Centric Interactive Platform for Embodied AI</li>
-    <li>VirtualHome: Simulating Household Activities via Programs</li>
-    <li>BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation</li>
-    <li>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</li>
+    <li>DialFRED: Dialogue-Enabled Agents for Embodied Instruction Following<a href="https://arxiv.org/abs/2202.13330">📚</a> <a href="https://github.com/xfgao/DialFRED">🌍</a></li>
+    <li>Alexa Arena: A User-Centric Interactive Platform for Embodied AI<a href="https://arxiv.org/abs/2303.01586">📚</a> <a href="https://github.com/amazon-science/alexa-arena">🌍</a></li>
+    <li>VirtualHome: Simulating Household Activities via Programs<a href="https://arxiv.org/abs/1806.07011">📚</a> <a href="http://virtual-home.org/">🌍</a></li>
+    <li>BEHAVIOR-1K: A Benchmark for Embodied AI with 1,000 Everyday Activities and Realistic Simulation<a href="https://proceedings.mlr.press/v205/li23a.html">📚</a> <a href="https://behavior.stanford.edu/">🌍</a></li>
+    <li>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge<a href="https://arxiv.org/abs/2206.08853">📚</a> <a href="https://minedojo.org/">🌍</a></li>
   </ul>
 </details>
 
