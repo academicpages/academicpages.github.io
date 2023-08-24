@@ -13,7 +13,7 @@ Under Review
 
 Journal Publications
 ======
-* **Ruohan Li**#, Yongqi Dong*#. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>IEEE Transactions on Intelligent Transportation Systems</var>.2023. **[Accept on 26 July 2023!]. [arXiv version](https://arxiv.org/abs/2305.17271).**
+* **Ruohan Li**#, Yongqi Dong*#. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>IEEE Transactions on Intelligent Transportation Systems</var>.2023. **[Early Access on 22 Aug. 2023]. [doi: 10.1109/TITS.2023.3305015.](https://ieeexplore.ieee.org/document/10226453).**
 * Hualan Wang, **Ruohan Li***, Mingxuan Li, Mingyu Yuan. Research on Coordination Relationship between Development of Rural Roads and Industrial Structure of Agriculture. <var>Comprehensive Transport(Chinese)</var>. 1-9. 2023. **[Accepted](http://kns.cnki.net/kcms/detail/11.1197.U.20230328.1746.008.html).**
 * Yajun Guo, Hualan Wang*, Mingxuan Li, **Ruohan Li**. Analysis on Characteristics of Air Pollution in Highway Areas. <var>Environmental Engineering(Chinese)</var>.1-8.2023. **[Accepted](http://kns.cnki.net/kcms/detail/11.2097.X.20230324.0948.002.html).**
 
