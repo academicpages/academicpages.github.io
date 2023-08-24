@@ -14,7 +14,7 @@ author_profile: true
 
 🕦 Office hours:  Tuesdays and Thursdays, 11:30 AM - 12:30 PM EST, [Zoom](https://virginiatech.zoom.us/j/87481223897)
 
-📚 [Reading List](https://isminoula.github.io/EAI_papers)
+📚 [Reading List](/readings)
 
 ## Course Description 
 Embodied Artificial Intelligence (E-AI) is a rapidly advancing field that aims to develop intelligent agents that can perceive and act 
