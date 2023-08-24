@@ -84,169 +84,169 @@ on Piazza or use [Slack](cs-vt.slack.com).
 
 ## Schedule
 We will update the schedule regularly based on the readings and presentations.
-<table style="border: 2px solid black; border-collapse: collapse; width: 72%; height: 926px;">
+<table style="border: 2px solid black; border-collapse: collapse; width: 100%; max-width: 800px;">
     <thead>
         <tr style="height: 27px;">
-            <th style="border: 1px solid gray; height: 27px;">Lecture No.</th>
-            <th style="border: 1px solid gray; height: 27px;">Date</th>
-            <th style="border: 1px solid gray; height: 27px;">Reading</th>
+            <th style="border: 1px solid gray; height: 27px; width: 10%;">Lecture No.</th>
+            <th style="border: 1px solid gray; height: 27px; width: 40%;">Date</th>
+            <th style="border: 1px solid gray; height: 27px; width: 50%;">Reading</th>
         </tr>
     </thead>
     <tbody>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">1</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, August 22</td>
-            <td style="border: 1px solid gray; height: 29px;">Course Introduction</td>
+        <tr>
+            <td>1</td>
+            <td>Tuesday, August 22</td>
+            <td>Course Introduction</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">2</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, August 24</td>
-            <td style="border: 1px solid gray; height: 29px;">Building Blocks in Perception and Planning (Instructor)</td>
+        <tr>
+            <td>2</td>
+            <td>Thursday, August 24</td>
+            <td>Building Blocks in Perception and Planning (Instructor)</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">3</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, August 29</td>
-            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
+        <tr>
+            <td>3</td>
+            <td>Tuesday, August 29</td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">4</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, August 31</td>
-            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
+        <tr>
+            <td>4</td>
+            <td>Thursday, August 31</td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">5</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 5</td>
-            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
+        <tr>
+            <td>5</td>
+            <td>Tuesday, September 5</td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">6</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, September 7</td>
-            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
+        <tr>
+            <td>6</td>
+            <td>Thursday, September 7</td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">7</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 12</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>7</td>
+            <td>Tuesday, September 12</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">8</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, September 14</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>8</td>
+            <td>Thursday, September 14</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">9</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 19</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>9</td>
+            <td>Tuesday, September 19</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">10</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, September 21</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>10</td>
+            <td>Thursday, September 21</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">11</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, September 26</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>11</td>
+            <td>Tuesday, September 26</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">12</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, September 28</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>12</td>
+            <td>Thursday, September 28</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">13</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 3</td>
-            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal/Pitch Due</span><br /></span></strong></td>
+        <tr>
+            <td>13</td>
+            <td>Tuesday, October 3</td>
+            <td><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal/Pitch Due</span><br /></span></strong></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">14</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, October 5</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>14</td>
+            <td>Thursday, October 5</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">15</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 10</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>15</td>
+            <td>Tuesday, October 10</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">16</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, October 12</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>16</td>
+            <td>Thursday, October 12</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">17</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 17</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>17</td>
+            <td>Tuesday, October 17</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">18</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, October 19</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>18</td>
+            <td>Thursday, October 19</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">19</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 24</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>19</td>
+            <td>Tuesday, October 24</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">20</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, October 26</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>20</td>
+            <td>Thursday, October 26</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">21</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, October 31</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>21</td>
+            <td>Tuesday, October 31</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">22</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, November 2</td>
-            <td style="border: 1px solid gray; height: 29px;"><span style="color: #236fa1;"><strong>Project Checkpoint Due</strong></span></td>
+        <tr>
+            <td>22</td>
+            <td>Thursday, November 2</td>
+            <td><span style="color: #236fa1;"><strong>Project Checkpoint Due</strong></span></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">23</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 7</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>23</td>
+            <td>Tuesday, November 7</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">24</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, November 9</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>24</td>
+            <td>Thursday, November 9</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">25</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 14</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>25</td>
+            <td>Tuesday, November 14</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">26</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, November 16</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>26</td>
+            <td>Thursday, November 16</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">No class</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 21</td>
-            <td style="border: 1px solid gray; height: 29px;"><strong>Thanksgiving Break</strong></td>
+        <tr>
+            <td>No class</td>
+            <td>Tuesday, November 21</td>
+            <td><strong>Thanksgiving Break</strong></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">No class</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, November 23</td>
-            <td style="border: 1px solid gray; height: 29px;"><strong>Thanksgiving Break</strong></td>
+        <tr>
+            <td>No class</td>
+            <td>Thursday, November 23</td>
+            <td><strong>Thanksgiving Break</strong></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">27</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, November 28</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+        <tr>
+            <td>27</td>
+            <td>Tuesday, November 28</td>
+            <td></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">28</td>
-            <td style="border: 1px solid gray; height: 29px;">Thursday, November 30</td>
-            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
+        <tr>
+            <td>28</td>
+            <td>Thursday, November 30</td>
+            <td><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
         </tr>
-        <tr style="height: 29px;">
-            <td style="border: 1px solid gray; height: 29px;">29</td>
-            <td style="border: 1px solid gray; height: 29px;">Tuesday, December 5</td>
-            <td style="border: 1px solid gray; height: 29px;"><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
+        <tr>
+            <td>29</td>
+            <td>Tuesday, December 5</td>
+            <td><strong><span style="color: #e67e23;">Project Presentations</span></strong></td>
         </tr>
     </tbody>
 </table>
