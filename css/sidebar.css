@@ -1,7 +1,7 @@
 /* Example sidebar styles */
 .sidebar {
   width: 250px; /* Adjust the width as needed */
-  background: var(--b-bg-2);
+  background: var(--b-bg-1);
   position: fixed;
   top: 0;
   left: 0;
@@ -25,5 +25,15 @@
 .main-content {
   margin-left: 250px; /* Same width as the sidebar */
   padding: 1rem;
+}
+
+.social-icons {
+  display: flex;
+  gap: 1rem;
+}
+
+.social-icons a {
+  font-size: 24px;
+  color: var(--b-link);
 }
 
