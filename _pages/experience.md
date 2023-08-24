@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Teaching Experience
-- **[CS6604@VT](/CS6604FA23)** Embodied Artificial Intelligence, Fall 2023
+- **[CS6604@VT](/cs6604FA23)** Embodied Artificial Intelligence, Fall 2023
 - **CS5824@VT** Advanced Machine Learning, Spring 2023
 - **CS5824@VT** Advanced Machine Learning, Fall 2022
 - **[CS5604@VT](/CS5604F21)** Information Storage and Retrieval, Fall 2021
