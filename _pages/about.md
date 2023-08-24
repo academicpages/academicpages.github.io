@@ -19,7 +19,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 
 # News
 - **August, 2023:**  Excited to receive new DARPA ECOLE funding!
-- **May, 2023:** Received a [VT College of Engineering Dean's Award for Excellence](https://eng.vt.edu/about/faculty-awards-and-distinctions/deans-awards.html) as a 2023 Outstanding New Assistant Professor!
+- **May, 2023:** Received a [VT COE 2023 Dean's Award for Excellence](https://eng.vt.edu/about/faculty-awards-and-distinctions/deans-awards.html) as an Outstanding New Assistant Professor!
 - **March, 2023:** Joined the [NeurIPS 2023](https://neurips.cc/Conferences/2023/Committees) and IEEE BigData 2023 Organizing Committees as a Workshop co-Chair and a Vice Program Chair, respectively.
 - **March, 2023:** Invited talk at [UMass CIIR Talk Series](http://ciir.cs.umass.edu/talks).
 - **March, 2023:** Attending the [ImageXD](https://academicdatascience.org/adsa-meetings/imagexd-2023/) workshop, an invite only two-day workshop hosted by UC Berkeley's Berkeley Institute for Data Science (BIDS) and the Academic Data Science Alliance (ADSA). Thank you to the organizers for putting together an exciting program!
