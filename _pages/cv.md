@@ -14,10 +14,18 @@ Education
 * Ph.D in University of Miami (English Literature), 2027 (expected)
 * M.A. in Ewha Womans University (English Literature), 2015
 * B.A. in Ewha Womans University (History and English Literature), 2008
-  
 
+  
+Teaching
+======
+* First-Year Writing I (WRS105-A2), University of Miami (Fall 2022, Fall 2023)
+* First-Year Writing II (WRS106-N3), University of Miami (Sprin 2023, "Monstrous Others and Us")
+
+  
 Work Experience
 ======
+* Writing Tutor, The University of Miami Writing Center, August 2021-May 2022
+
 * 2016-18: Research Assistant and Editorial Coordinator
   * KNOU Institute of Integrated Humanities, Korea National Open University, South Korea
   * Duties included: Administrative Assistant, Journal Publication
@@ -36,10 +44,10 @@ Publications
 * "Courtship and Poetic Authority in Katherine Philip's Female Friendship Poetry." *Journal of English and American studies,* Vol.18 No.2, 2019, pp. 41-66.
   
  
-Teaching
+Awards and Fellowship 
 ======
-* First-Year Writing I (WRS105-A2), University of Miami (Fall 2022, Fall 2023)
-* First-Year Writing II (WRS106-N3), University of Miami (Sprin 2023, "Monstrous Others and Us")
-
+* 2021- : University of Miami Fellowship, The Graduate School, University of Miami
+* 2008-2010: Brain Korea 21 Scholarship, National Research Foundation of Korea
+* 2008-2010: Research Assistant Scholarship, Ewha Womans University
 
  
