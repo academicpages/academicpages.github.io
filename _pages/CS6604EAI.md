@@ -96,32 +96,32 @@ We will update the schedule regularly based on the readings and presentations.
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">1</td>
             <td style="border: 1px solid gray; height: 29px;">Tuesday, August 22</td>
-            <td style="border: 1px solid gray; height: 29px;">Course Syllabus</td>
+            <td style="border: 1px solid gray; height: 29px;">Course Introduction</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">2</td>
             <td style="border: 1px solid gray; height: 29px;">Thursday, August 24</td>
-            <td style="border: 1px solid gray; height: 29px;">Instructor Presents</td>
+            <td style="border: 1px solid gray; height: 29px;">Building Blocks in Perception and Planning (Instructor)</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">3</td>
             <td style="border: 1px solid gray; height: 29px;">Tuesday, August 29</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">4</td>
             <td style="border: 1px solid gray; height: 29px;">Thursday, August 31</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">5</td>
             <td style="border: 1px solid gray; height: 29px;">Tuesday, September 5</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">6</td>
             <td style="border: 1px solid gray; height: 29px;">Thursday, September 7</td>
-            <td style="border: 1px solid gray; height: 29px;"></td>
+            <td style="border: 1px solid gray; height: 29px;">Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr style="height: 29px;">
             <td style="border: 1px solid gray; height: 29px;">7</td>
