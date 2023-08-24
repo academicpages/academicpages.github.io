@@ -88,8 +88,8 @@ We will update the schedule regularly based on the readings and presentations.
     <thead>
         <tr style="height: 27px;">
             <th style="border: 1px solid gray; height: 27px; width: 10%;">Lecture No.</th>
-            <th style="border: 1px solid gray; height: 27px; width: 40%;">Date</th>
-            <th style="border: 1px solid gray; height: 27px; width: 50%;">Reading</th>
+            <th style="border: 1px solid gray; height: 27px; width: 30%;">Date</th>
+            <th style="border: 1px solid gray; height: 27px; width: 60%;">Reading</th>
         </tr>
     </thead>
     <tbody>
