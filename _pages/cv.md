@@ -37,6 +37,7 @@ Work experience
 
 Publications
 ======
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Chrastil, E.R.. Navigational systems in the human brain dynamically code for past, present, and future trajectories. [[preprint](https://www.biorxiv.org/content/10.1101/2023.08.22.554387v1)]
 
 * Billot, B., Magdamo, C., <b>Cheng, Y.</b>, Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. Proceedings of the National Academy of Sciences, 120(9), e2216399120. [[pdf](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)]
 
