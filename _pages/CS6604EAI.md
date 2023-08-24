@@ -82,9 +82,9 @@ For one-on-one interactions with the instructor, please post a [private note](ht
 on Piazza or use [Slack](cs-vt.slack.com).
 
 
-## <a name="schedule"></a> Schedule
+## Schedule
 We will update the schedule regularly based on the readings and presentations.
-<table style="border: 2px solid black; border-collapse: collapse; width: 71.4525%; height: 926px;">
+<table style="border: 2px solid black; border-collapse: collapse; width: 72%; height: 926px;">
     <thead>
         <tr style="height: 27px;">
             <th style="border: 1px solid gray; height: 27px;">Lecture No.</th>
