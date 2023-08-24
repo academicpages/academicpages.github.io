@@ -18,14 +18,14 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   
   - **Readings**:
       - ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
-      - iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes
-      - Matterport3D: Interpreting visually-grounded navigation instructions in real environments
-      - CVDN: Vision-and-Dialog Navigation
-      - Soundspaces: Audio-visual navigation in 3D environments
-      - AI2-THOR: An Interactive 3D Environment for Visual AI
-      - Rearrangement: A Challenge for Embodied AI
-      - ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation
-      - ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills
+      - iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes [📚](https://arxiv.org/abs/2012.02924) [🌍](https://svl.stanford.edu/igibson/)
+      - Matterport3D: Interpreting visually-grounded navigation instructions in real environments [📚](https://arxiv.org/abs/1711.07280) [🌍](https://bringmeaspoon.org/)
+      - CVDN: Vision-and-Dialog Navigation [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
+      - Soundspaces: Audio-visual navigation in 3D environments [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
+      - AI2-THOR: An Interactive 3D Environment for Visual AI [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
+      - Rearrangement: A Challenge for Embodied AI [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
+      - ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
+      - ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills [📚](https://arxiv.org/abs/2304.04321) [🌍](https://arnold-benchmark.github.io/)
 </details>
 
 ## Additional Resources
