@@ -11,20 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.A. in Ewha Womans University (History and English Literature), 2008
-* M.A. in Ewha Womans University (English Literature), 2015
 * Ph.D in University of Miami (English Literature), 2027 (expected)
- 
-
-Work experience
-======
-* 2008-10: Research Assistant
-  * Ewha Institute of English and American Studies, South Korea
-  * Duties included: Administrative Assistant, Journal Publication
+* M.A. in Ewha Womans University (English Literature), 2015
+* B.A. in Ewha Womans University (History and English Literature), 2008
   
+
+Work Experience
+======
+* 2016-18: Research Assistant and Editorial Coordinator
+  * KNOU Institute of Integrated Humanities, Korea National Open University, South Korea
+  * Duties included: Administrative Assistant, Journal Publication
+    
 * 2011: Program Coordinator
   * Korean National Commission for UNESCO, South Korea
   * Duties included: Program Coordinate for "The 1st World Humanities Forum" 
+
+* 2008-10: Research Assistant and Editorial Coordinator
+  * Ewha Institute of English and American Studies, South Korea
+  * Duties included: Administrative Assistant, Journal Publication
 
 
 Publications
@@ -34,8 +38,8 @@ Publications
  
 Teaching
 ======
-* First-Year Writing I (WRS105-A2), University of Miami, Fall 2022
-* First-Year Writing II (WRS106-N3), University of Miami, Sprin 2023
+* First-Year Writing I (WRS105-A2), University of Miami (Fall 2022, Fall 2023)
+* First-Year Writing II (WRS106-N3), University of Miami (Sprin 2023, "Monstrous Others and Us")
 
 
  
