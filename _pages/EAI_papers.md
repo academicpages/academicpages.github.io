@@ -18,12 +18,12 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
     <li>iGibson 1.0: A Simulation Environment for Interactive Tasks in Large Realistic Scenes <a href="https://arxiv.org/abs/2012.02924">📚</a> <a href="https://svl.stanford.edu/igibson/">🌍</a></li>
     <li>Matterport3D: Interpreting visually-grounded navigation instructions in real environments <a href="https://arxiv.org/abs/1711.07280">📚</a> <a href="https://bringmeaspoon.org/">🌍</a></li>
-    <li>CVDN: Vision-and-Dialog Navigation <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
-    <li>Soundspaces: Audio-visual navigation in 3D environments <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
-    <li>AI2-THOR: An Interactive 3D Environment for Visual AI <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
-    <li>Rearrangement: A Challenge for Embodied AI <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
-    <li>ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
-    <li>ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills <a href="https://arxiv.org/abs/2304.04321">📚</a> <a href="https://arnold-benchmark.github.io/">🌍</a></li>
+    <li>CVDN: Vision-and-Dialog Navigation <a href="https://arxiv.org/abs/1907.04957">📚</a></li>
+    <li>Soundspaces: Audio-visual navigation in 3D environments <a href="https://link.springer.com/chapter/10.1007/978-3-030-58539-6_2">📚</a> <a href="https://vision.cs.utexas.edu/projects/audio_visual_navigation/">🌍</a></li>
+    <li>AI2-THOR: An Interactive 3D Environment for Visual AI <a href="https://arxiv.org/abs/1712.05474">📚</a> <a href="https://ai2thor.allenai.org/">🌍</a></li>
+    <li>Rearrangement: A Challenge for Embodied AI <a href="https://arxiv.org/abs/2011.01975">📚</a></li>
+    <li>ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation <a href="https://arxiv.org/abs/2206.06994">📚</a> <a href="https://procthor.allenai.org/">🌍</a></li>
+    <li>ManiSkill2: A Unified Benchmark for Generalizable Manipulation Skills <a href="https://arxiv.org/abs/2302.04659">📚</a> <a href="https://maniskill2.github.io/">🌍</a></li>
   </ul>
 </details>
 
