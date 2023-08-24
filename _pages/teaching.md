@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## 1. First-Year Writing I (WRS105-A2)
-#### Fall 2022, University of Miami
+## 1. First-Year Writing I (WRS105)
+#### Fall 2022, University of Miami (WRS105-A2)
+#### Fall 2023, University of Miami (WRS105-A4)
 
 ### Course Description 
 WRS 105 will introduce you to the kinds of reading, writing and thinking that happen in the university community. A single course cannot teach you all that there is to know about such work, nor can it provide you with a set of formulas to follow so that you will forever be a “good writer.” Instead, you will be asked to read several essays and articles and to participate in dialogue with the authors and find the answers to the questions posed by them, extend their projects, or make use of their ideas for your own purposes. This course aims to engage you, then, in learning to learn, learning to think about what you are learning, and learning to express your ideas even as you figure out what those ideas might be. In this class, writing is not only an end product--something that you produce--but also an activity that allows you to think through a set of complicated issues, an activity that captures your mind at work even as it allows your mind to do its work. 
