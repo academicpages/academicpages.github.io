@@ -8,6 +8,8 @@ author_profile: true
 
 You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
 
+* Adimari, G., To. D. K., Chiogna, M., Scatozza, F. and Facchiano, A. (2023). Likelihood-type confidence regions for optimal sensitivity and specificity of a diagnostic test. *Computational Statistics and Data Analysis*. Accepted.
+
 * To. D. K., Adimari, G., and Chiogna, M. (2023). ClusROC: An R package for ROC analysis in three-class classification problems for clustered data. *The R Journal*. In press.
 
 * To. D. K., Adimari, G., Chiogna, M. and Risso, D. (2022). Receiver operating characteristic estimation and threshold selection criteria in three-class classification problems for clustered data. *Statistical Methods in Medical Research*. **31**, 7, 1325-1341. [DOI: 10.1177/09622802221089029](https://doi.org/10.1177/09622802221089029)
@@ -45,8 +47,6 @@ You can also find full list of my publications on [Google Scholar profile.](http
 * To. D. K., Adimari, G., and Chiogna, M., (2023). A new evaluation strategy for diagnostic tests under umbrella or tree ordering. *Submitted*.
 
 * To. D. K., Adimari, G., and Chiogna, M., (2023). Interval estimation in three-class ROC analysis: a fairly general approach based on the empirical likelihood. *Submitted*.
-
-* Adimari, G., To. D. K., Chiogna, M., Scatozza, F. and Facchiano, A. (2023). Likelihood-type confidence regions for optimal sensitivity and specificity of a diagnostic test. *In revision for Computational Statistics and Data Analysis*.
 
 
 ## Software
