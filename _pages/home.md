@@ -23,9 +23,10 @@ redirect_from:
 
 At the heart of our research endeavor lies the profound exploration of thermodynamics within the realm of cutting-edge systems. As we navigate the exciting domains of energy storage, nanotechnology, and the intricate tapestry of biology, our studies converge on pivotal concepts: electrochemistry, the nanoscale universe, and the captivating world of soft matter. In this ever-evolving landscape, we unveil the hidden intricacies that shape our understanding of the physical world.
 
-**Join Our Research Team! 🌟**
 
 **Got Questions or Ready to Dive In?** We're all ears! [Contact us](mailto:xk@scut.edu.cn) for inquiries about our research, joining our team, or exploring collaboration possibilities. We're here to make science awesome! 🚀🔬
+
+**Join Our Research Team! 🌟**
 
 - **Postdocs:** Are you a recent Ph.D. grad with a passion for research? Look no further! We offer competitive financial support and fantastic government benefits. Reach out to our PI with your cover letter, CV, and representative publications.
 
