@@ -66,8 +66,13 @@ Contests
 
 Engineering projects
 ======
-* C 8-times
-* H 1-time
+* C1 5-times
+* C3 1-time
+* C5 4-times
+* C6 1-time
+* 6 1-time
+* HTJG 1-time
+* HW 1-time
 * Xidian Univ. 1-time
 
 {% for post in site.experiences reversed %}
