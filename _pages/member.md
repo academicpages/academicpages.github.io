@@ -23,7 +23,7 @@ redirect_from:
   <div style="flex: 1; flex-grow: 1">
     &ensp;&ensp;&ensp;&ensp;
     <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
-    <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> Xian Kong (孔 宪)</p>
+    <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> Xian Kong (孔宪)</p>
     <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
     Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 2; font-weight:bold; word-break: break-all;"> 
@@ -34,7 +34,7 @@ redirect_from:
     
   </div>
   <div style="flex: 1; flex-grow: 2">
-    <!-- <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> &ensp; 孔 宪 </p> -->
+    <!-- <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> &ensp; 孔宪 </p> -->
     <p style="font-size: 12px; line-height: 1;  font-weight:bold; word-break: break-all;"> &ensp; </p>
     <p style="font-size:24px; font-weight:bold;; line-height: 1; word-break: break-all;"> 
     &ensp; Education </p>
@@ -196,7 +196,13 @@ redirect_from:
     Email: 202264641184@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
-
+    <img src="../images/YangZixiao.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    杨子霄 (Zixiao Yang)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2022级 本科生  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 2022XXXXXXX@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
 
