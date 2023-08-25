@@ -68,8 +68,8 @@ Engineering projects
 ======
 * HW 1-time
 * C1 5-times
-* C3 1-time
 * C5 4-times
+* C3 1-time
 * C6 1-time
 * 6 1-time
 * HTJG 1-time
