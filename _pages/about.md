@@ -12,4 +12,4 @@ I am currently a Ph.D. student in Economics at Universitat Pompeu Fabra (UPF). I
 
 For more information, please see my CV.  
 
-<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="25"> <span style="font-size: 27px; margin-right: 10px; vertical-align: top; line-height: 1;">&#8594;</span> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="25">
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="25"> <span style="font-size: 27px; margin-left: 7px; margin-right: 7px; vertical-align: middle; line-height: 1;">&#8594;</span> <img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="25">
