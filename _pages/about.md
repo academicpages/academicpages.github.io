@@ -23,6 +23,8 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 **Got Questions or Ready to Dive In?** We're all ears! [Contact us](mailto:xk@scut.edu.cn) for inquiries about our research, joining our team, or exploring collaboration possibilities. We're here to make science awesome! 🚀🔬
 
+**我们期待着与您交流** 如果您对我们的研究有任何疑问，或者有意加入我们的团队，甚至考虑合作，都请随时与我们[联系](mailto:xk@scut.edu.cn)。我们非常愿意倾听您的想法和建议，推动研究的进展。 🚀🔬
+
 **Join Our Research Team! 🌟**
 
 - **Postdocs:** Are you a recent Ph.D. grad with a passion for research? Look no further! We offer competitive financial support and fantastic government benefits. Reach out to our PI with your cover letter, CV, and representative publications.
@@ -31,8 +33,13 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 - **Undergrad Students:** Calling all undergrads! You're invited to our group meetings. We have exciting projects suitable for undergraduates. You are free to join us on-site or remotely. Just [send us an email](mailto:xk@scut.edu.cn) or drop by our office.
 
+**诚邀加入我们的研究团队 🌟**
 
+- **博士后:** 我们一直在寻找对我们研究领域充满热情的博士后研究员。博士后研究员将获得具有国际竞争力的待遇和来自当地政府的额外福利。请通过[电子邮件](mailto:xk@scut.edu.cn)与我们联系，附上您的求职信、简历和代表性论文。
 
+- **研究生:** 我们每年有若干博士和硕士研究生名额。您可以在获得研究生推荐名额或考研考试之前通过[电子邮件](mailto:xk@scut.edu.cn)与我们联系。.
+
+- **本科生:** 课题组有一些适合本科生的研究课题。学生可以选择实地参与或者远程参与课题研究。同时欢迎感兴趣的本科生参加我们的组会，线上或者线下形式均可。欢迎您通过[电子邮件](mailto:xk@scut.edu.cn)与我们联系
 
 
 ## A quick snapshot
