@@ -324,8 +324,8 @@
 
 .comment__avatar-wrapper {
   float: left;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
 
   @include breakpoint($large) {
     width: 100px;
