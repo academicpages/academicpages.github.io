@@ -39,6 +39,10 @@ Selected awards
 
 Skills
 ======
+* Research areas
+  * Structure optimization: size/shape/topology, mathematical programming
+  * Phase field: fracture mechanics and computational manufacturing process (learning)
+  * Surface mechanics: waveguide, cloaking, metamaterial, homogenization, FEA, design
 * Numerical Methods
   * FEM, BEM, IGA
 * Programming languages
