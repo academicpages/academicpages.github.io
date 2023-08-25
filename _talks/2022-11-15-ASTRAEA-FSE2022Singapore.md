@@ -2,7 +2,7 @@
 title: "ASTRAEA: Grammar-based Fairness Testing"
 collection: talks
 type: "Conference Talk"
-permalink: /talks/2022-11-15-ICSE2023Melbourne
+permalink: /talks/2022-11-15-ASTRAEA-FSE2022Singapore
 venue: "ESEC/FSE 2022, NUS U-Town"
 date: 2022-11-15
 location: "Singapore, Singapore"

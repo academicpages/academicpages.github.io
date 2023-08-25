@@ -2,7 +2,7 @@
 title: "Locating Faults with Program Slicing: An Empirical Analysis"
 collection: talks
 type: "Conference Talk"
-permalink: /talks/2022-11-15-ICSE2023Melbourne
+permalink: /talks/2022-11-15-EMSE21-FSE2022Singapore
 venue: "ESEC/FSE 2022, NUS U-Town"
 date: 2022-11-15
 location: "Singapore, Singapore"
