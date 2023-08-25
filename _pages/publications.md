@@ -22,8 +22,10 @@ author_profile: true
 {% endfor %}
 
 **Bursting the Green Bubble? Environmental Provisions and Approval for Trade Agreements**
+
  _with [Stefano Jud](http://stefanojud.com/), Research completed, 2023_
 
 ## Works in Progress
 **Contestation project**
+
 _Data collection in progress, 2023_
