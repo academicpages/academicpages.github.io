@@ -31,7 +31,7 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 - **Grad Students:** Whether you're aiming for a Ph.D. or a Master's degree, we have spots open just for you. No need to wait for recommendations or exams. Get in touch with our PI and let's get your academic journey started.
 
-- **Undergrad Students:** Calling all undergrads! You're invited to our group meetings, where exciting projects await. Join us on-site or remotely. Just send us an email or drop by our office.
+- **Undergrad Students:** Calling all undergrads! You're invited to our group meetings. We have exciting projects suitable for undergraduates. You are free to join us on-site or remotely. Just send us an email or drop by our office.
 
 
 
