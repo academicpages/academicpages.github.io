@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gabriel de Campos"
+title                    : "Gabriel de Campos G. dos Santos"
 title_separator          : "-"
 name                     : &name "Gabriel de Campos"
 description              : &description "My name is Gabriel"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gabriel de Campos"
   avatar           : "casamento_2023.jpg"
   bio              : "PhD candidate in Economics at Universitat Pompeu Fabra (UPF)"
   location         : "Barcelona, Spain "
