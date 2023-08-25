@@ -82,6 +82,7 @@ analytics:
 author:
   name             : "Gabriel de Campos"
   avatar           : "casamento_2023.jpg"
+  avatar_size      : "300"
   bio              : "PhD candidate in Economics at Universitat Pompeu Fabra (UPF)"
   location         : "Barcelona, Spain "
   employer         :
