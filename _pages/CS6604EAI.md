@@ -108,7 +108,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>3</td>
             <td>Tuesday, August 29</td>
-            <td>Benchmarks: Simulators, Environments, Datasets</td>
+            <td>Building Blocks in Perception and Planning (Instructor)</td>
         </tr>
         <tr>
             <td>4</td>
@@ -128,7 +128,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>7</td>
             <td>Tuesday, September 12</td>
-            <td></td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr>
             <td>8</td>
