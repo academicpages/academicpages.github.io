@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Statistics at [Cornell University](https://stat.cornell.edu/), 2023-2028
+* Ph.D. in Statistics at [Cornell University](https://stat.cornell.edu/), 2023-Present
 * M.Sc. in [Stochastics and Data Science](https://www.master-sds.unito.it/do/home.pl), Università di Torino, 2021-2023.
   * Grade: 110/110 cum laude. Supervisor: Stefano Favaro
 * Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2021-2023.
@@ -27,12 +27,8 @@ Awards
 
 Work experience
 ======
-* July 2022-January 2023: Research Assistant, University Bologna
-  * Duties included: Comparing approaches to estimate the number of clusters for K-quantiles clustering.
-  * Supervisor: Christian Hennig
-
-* Summer 2021: Data Scientist, MindIT
-  * Duties included: •	Conducting data analysis and causal inference on retailer data using Python
+* Spring 2021: Data Scientist, MindIT
+  * Duties included: 	Conducting data analysis and causal inference on retailer data using Python
+* Summer 2020-2022: Farmer, Farm 'Collari'
   
-
   
