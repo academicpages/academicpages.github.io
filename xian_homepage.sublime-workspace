@@ -223,18 +223,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "markdown_generator/pubText2.txt",
-			"settings":
-			{
-				"buffer_size": 164095,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-			]
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -289,10 +277,17 @@
 	],
 	"file_history":
 	[
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubAbstractText.txt",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/wordcloud.csv",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText2.txt",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubwordcloud.py",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText.txt",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText2.txt",
 		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/learning.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
@@ -304,16 +299,11 @@
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_config.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/research.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talks.html",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2021-01-01-Weakening-of-Solvation-Induced-Ordering-by-Composition-Fluctuation-in-Salt-Doped-Block-Polymers.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2023-01-01-Self-Assembly-Monolayer-Inspired-Stable-Artificial-Solid-Electrolyte-Interphase-Design-for-Next-Generation-Lithium-Metal-Batteries.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/ui-text.yml",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/sitemap.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/non-menu-page.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talkmap.html",
@@ -414,9 +404,7 @@
 		"/D/files/Mira_2022/in/tops/forcefield_0.8.itp",
 		"/D/files/lisolvation/files/prepare_solvents.2.sh",
 		"/D/files/lisolvation/files/prepare_lisol.sh",
-		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/孔宪老师集群.txt",
-		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/国际校区.txt",
-		"/D/files/chu/in/tops/acetylene.top"
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/孔宪老师集群.txt"
 	],
 	"find":
 	{
@@ -541,36 +529,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "markdown_generator/pubText2.txt",
-					"selected": true,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 164095,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								164095
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"stack_multiselect": false,
-					"type": "text"
-				}
 			]
 		}
 	],

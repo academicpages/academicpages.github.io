@@ -23,6 +23,20 @@ redirect_from:
 
 At the heart of our research endeavor lies the profound exploration of thermodynamics within the realm of cutting-edge systems. As we navigate the exciting domains of energy storage, nanotechnology, and the intricate tapestry of biology, our studies converge on pivotal concepts: electrochemistry, the nanoscale universe, and the captivating world of soft matter. In this ever-evolving landscape, we unveil the hidden intricacies that shape our understanding of the physical world.
 
+**Join Our Research Team! 🌟**
+
+**Got Questions or Ready to Dive In?** We're all ears! Contact us for inquiries about our research, joining our team, or exploring collaboration possibilities. We're here to make science awesome! 🚀🔬
+
+- **Postdocs:** Are you a recent Ph.D. grad with a passion for research? Look no further! We offer competitive financial support and fantastic government benefits. Reach out to our PI with your cover letter, CV, and representative publications.
+
+- **Grad Students:** Whether you're aiming for a Ph.D. or a Master's degree, we have spots open just for you. No need to wait for recommendations or exams. Get in touch with our PI and let's get your academic journey started.
+
+- **Undergrad Students:** Calling all undergrads! You're invited to our group meetings, where exciting projects await. Join us on-site or remotely. Just send us an email or drop by our office.
+
+
+
+
+
 ## A quick snapshot
 
 
