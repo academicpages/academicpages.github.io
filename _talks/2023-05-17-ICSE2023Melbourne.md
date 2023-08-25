@@ -1,7 +1,7 @@
 ---
 title: "Evaluating the Impact of Experimental Assumptions in Automated Fault Localization"
 collection: talks
-type: "Conference Talk (ICSE)"
+type: "Conference Talk"
 permalink: /talks/2023-05-17-ICSE2023Melbourne
 venue: "ICSE 2023, Melbourne Convention Exhibition Centre | MCEC"
 date: 2023-05-17
