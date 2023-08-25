@@ -30,6 +30,7 @@ Updates
 <summary>2023</summary>
 <ul>
   <li>
+  25 Aug - Serving as a reviewer in AAAI 2024.
   29-31 Jan - Attended Research Week with Google, Bangalore, India.
   </li>
 </ul>
