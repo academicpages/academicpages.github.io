@@ -37,12 +37,15 @@ Selected awards
 * 3rd Prize, Competition of Experimental Mechanics (Anhui Province competition area), 2017
 
 
+Research areas
+======
+  * Structure optimization: size/shape/topology design, mathematical programming
+  * Phase field: fracture mechanics and computational manufacturing processes
+  * Surface structures: waveguide, cloaking, metamaterial, homogenization, FEA, design
+
+
 Skills
 ======
-* Research areas
-  * Structure optimization: size/shape/topology, mathematical programming
-  * Phase field: fracture mechanics and computational manufacturing process (learning)
-  * Surface mechanics: waveguide, cloaking, metamaterial, homogenization, FEA, design
 * Numerical Methods
   * FEM, BEM, IGA
 * Programming languages
