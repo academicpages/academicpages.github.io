@@ -14,9 +14,9 @@ Research
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
 * Rob, LDM, SC, RST, 2023.03-present (in preparation)
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
-* Frac, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
+* Fracture, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
 * Component innovation (ongoing)
-  * Collaborated with Xiaoyang Li, and Yunpu Liu
+  * Collaborated with Xiaoyang Li and Yunpu Liu
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.06-present
 * Tomo, supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.10-present (ongoing)
 * SL (ongoing)
