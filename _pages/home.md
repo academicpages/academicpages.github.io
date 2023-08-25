@@ -25,13 +25,13 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 **Join Our Research Team! 🌟**
 
-**Got Questions or Ready to Dive In?** We're all ears! Contact us for inquiries about our research, joining our team, or exploring collaboration possibilities. We're here to make science awesome! 🚀🔬
+**Got Questions or Ready to Dive In?** We're all ears! [Contact us](mailto:xk@scut.edu.cn) for inquiries about our research, joining our team, or exploring collaboration possibilities. We're here to make science awesome! 🚀🔬
 
 - **Postdocs:** Are you a recent Ph.D. grad with a passion for research? Look no further! We offer competitive financial support and fantastic government benefits. Reach out to our PI with your cover letter, CV, and representative publications.
 
 - **Grad Students:** Whether you're aiming for a Ph.D. or a Master's degree, we have spots open just for you. No need to wait for recommendations or exams. Get in touch with our PI and let's get your academic journey started.
 
-- **Undergrad Students:** Calling all undergrads! You're invited to our group meetings. We have exciting projects suitable for undergraduates. You are free to join us on-site or remotely. Just send us an email or drop by our office.
+- **Undergrad Students:** Calling all undergrads! You're invited to our group meetings. We have exciting projects suitable for undergraduates. You are free to join us on-site or remotely. Just [send us an email](mailto:xk@scut.edu.cn) or drop by our office.
 
 
 
