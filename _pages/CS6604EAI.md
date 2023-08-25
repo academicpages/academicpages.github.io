@@ -158,7 +158,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>13</td>
             <td>Tuesday, October 3</td>
-            <td><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal/Pitch Due</span><br /></span></strong></td>
+            <td><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Pitch Due</span><br /></span></strong></td>
         </tr>
         <tr>
             <td>14</td>
@@ -168,7 +168,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>15</td>
             <td>Tuesday, October 10</td>
-            <td></td>
+            <td><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal Due</span><br /></span></strong></td>
         </tr>
         <tr>
             <td>16</td>
