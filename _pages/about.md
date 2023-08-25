@@ -13,8 +13,8 @@ I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Pro
     - **Structure-Aware Models for Graph Data** \[GraLSP, AAAI'20; GraphSTONE, KDD'20; GraphMSE, AAAI'21; GSKN, WWW'21\]
     - **Temporal-Aware Models under Dynamic Data** \[EPNE, ECAI'20\]
 - **Effective Learning under the Lack of Data**
-    - **Transfer Learning** \[CrossTReS, KDD'22; MUSDAC, IJCAI'20\]
-    - **Federated Learning** \[SecureBoost, IEEE Intel. Sys. 2021\]
+    - **Transfer Learning** \[TransGTR, KDD'23; CrossTReS, KDD'22; MUSDAC, IJCAI'20\]
+    - **Federated Learning** \[SecureBoost, IEEE Intel. Sys. 2021; GeniBatch, EuroSys'24\]
 
 Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn), China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
 
@@ -94,8 +94,8 @@ Friends
 ======
 I make friends with many elite guys who are doing state-of-the-art research in many areas. Some of their homepages are below.
 
-[Haodong Duan](https://kennymckormick.github.io/) (Ph.D Student at the Chinese University of Hong Kong, Computer Vision). 
+[Haodong Duan](https://kennymckormick.github.io/) (Researcher at Shanghai AI Laboratory, Computer Vision). 
 
-[Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at Boston University, Network measurement). 
+[Peiqing Chen](https://kaiserv2.github.io/) (Ph.D student at University of Maryland, Network measurement). 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=360&t=tt&d=4KHTIdAI3xCU5LcxemXihwdepjCFj3Wm8hsCTWJ8RgM"></script>
