@@ -10,7 +10,7 @@ location: "In-person"
 
 
 
-Guest instructor
+Guest lecturer
 
 (Feb 24, 2023)
 
