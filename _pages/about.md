@@ -59,6 +59,6 @@ The over-arching research aim is to provide useful validation techniques, tools 
    * __Software Testing & Analysis__: *systematic generation of test inputs* to expose unexpected program behaviors (see [ASE17](https://ieeexplore.ieee.org/abstract/document/8115639), [TSE20](https://ieeexplore.ieee.org/abstract/document/9154602), [TOSEM22](https://dl.acm.org/doi/full/10.1145/3530786)), 
    * __Automated Debugging__: how to *automatically diagnose, mitigate and repair* incorrect program behaviors (see [ICSE20](https://dl.acm.org/doi/abs/10.1145/3377811.3380329), [FSE20](https://dl.acm.org/doi/abs/10.1145/3368089.3409687), [ISSTA20](https://dl.acm.org/doi/abs/10.1145/3395363.3397349)), 
    * __Human Factors in SE__: studying and accounting for *developer behaviors* during (automated) software testing and debugging activities (see [ESEC/FSE17](https://dl.acm.org/doi/abs/10.1145/3106237.3106255), [EMSE21](https://link.springer.com/article/10.1007/s10664-020-09931-7), [ICSE23](https://ieeexplore.ieee.org/abstract/document/10172588)), and 
-  # * __Human-in-the-loop SE__: building testing and debugging tools that *account for developer behaviors, needs 
-and interactions in software practice*. 
+<!---  * __Human-in-the-loop SE__: building testing and debugging tools that *account for developer behaviors, needs 
+and interactions in software practice*.  --->
    * __AI4SE & SE4AI__: application of SE techniques (e.g., testing and debugging) to address AI concerns and the application of AI methods to address SE tasks (see [TSE22](https://ieeexplore.ieee.org/abstract/document/9678017), [MSR22](https://dl.acm.org/doi/abs/10.1145/3524842.3528456), [COSE23](https://www.sciencedirect.com/science/article/pii/S0167404823000111)). 
