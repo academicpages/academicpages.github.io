@@ -135,6 +135,9 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
+* <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
+*Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+ArXiv. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
 * <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
