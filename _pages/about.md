@@ -135,9 +135,6 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
-* <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
-*Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-ArXiv. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
 * <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
@@ -151,11 +148,16 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2306.02320)
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
 ArXiv. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
 
+* <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
+*Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+ArXiv. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
+
 <!--
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
 *Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, <b>Yusheng Su</b>, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.*\
 (Submitted to TACL). [[pdf]](https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0) 
 -->
+
 
 ## Projects
 
