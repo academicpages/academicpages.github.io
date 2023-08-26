@@ -29,13 +29,23 @@
   keywords = {Viral Marketing, Toolchain, Ordered Binary Decision Diagrams, Sentential Decision Diagrams, Weighted Model Counting, ProbLog}
 } 
 @inproceedings{LatEtAl23,
-author={A.L.D. Latour and A. Sen and K.S. Meel},
-title={Solving the Identifying Code Set Problem with Grouped Independent Support},
-abstract={An important problem in network science is finding an optimal placement of sensors in nodes in order to uniquely detect failures in the network. This problem can be modelled as an identifying code set (ICS) problem, introduced by Karpovsky et al. in 1998. The ICS problem aims to find a cover of a set S, such that the elements in the cover define a unique signature for each of the elements of S, and to minimise the cover’s cardinality. In this work, we study a generalised identifying code set (GICS) problem, where a unique signature must be found for each subset of S that has a cardinality of at most k (instead of just each element of S). The concept of an independent support of a Boolean formula was introduced by Chakraborty et al. in 2014 to speed up propositional model counting, by identifying a subset of variables whose truth assignments uniquely define those of the other variables. In this work, we introduce an extended version of independent support, grouped independent support (GIS), and show how to reduce the GICS problem to the GIS problem. We then propose a new solving method for finding a GICS, based on finding a GIS. We show that the prior state-of-the-art approaches yield integer-linear programming (ILP) models whose sizes grow exponentially with the problem size and k, while our GIS encoding only grows polynomially with the problem size and k. While the ILP approach can solve the GICS problem on networks of at most 494 nodes, the GIS-based method can handle networks of up to 21 363 nodes; a ∼40× improvement. The GIS-based method shows up to a 520× improvement on the ILP-based method in terms of median solving time. For the majority of the instances that can be encoded and solved by both methods, the cardinality of the solution returned by the GIS-based method is less than 10% larger than the cardinality of the solution found by the ILP method.},
-booktitle={Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI23)},
-year={2023},
-month={8}
-}@inproceedings{FokEtAl19,
+  author       = {Anna L. D. Latour and
+                  Arunabha Sen and
+                  Kuldeep S. Meel},
+  title        = {Solving the Identifying Code Set Problem with Grouped Independent
+                  Support},
+  booktitle    = {Proceedings of the Thirty-Second International Joint Conference on
+                  Artificial Intelligence, {IJCAI} 2023, 19th-25th August 2023, Macao,
+                  SAR, China},
+  pages        = {1971--1978},
+  publisher    = {ijcai.org},
+  year         = {2023},
+  url          = {https://doi.org/10.24963/ijcai.2023/219},
+  doi          = {10.24963/ijcai.2023/219},
+  abstract={An important problem in network science is finding an optimal placement of sensors in nodes in order to uniquely detect failures in the network. This problem can be modelled as an identifying code set (ICS) problem, introduced by Karpovsky et al. in 1998. The ICS problem aims to find a cover of a set S, such that the elements in the cover define a unique signature for each of the elements of S, and to minimise the cover’s cardinality. In this work, we study a generalised identifying code set (GICS) problem, where a unique signature must be found for each subset of S that has a cardinality of at most k (instead of just each element of S). The concept of an independent support of a Boolean formula was introduced by Chakraborty et al. in 2014 to speed up propositional model counting, by identifying a subset of variables whose truth assignments uniquely define those of the other variables. In this work, we introduce an extended version of independent support, grouped independent support (GIS), and show how to reduce the GICS problem to the GIS problem. We then propose a new solving method for finding a GICS, based on finding a GIS. We show that the prior state-of-the-art approaches yield integer-linear programming (ILP) models whose sizes grow exponentially with the problem size and k, while our GIS encoding only grows polynomially with the problem size and k. While the ILP approach can solve the GICS problem on networks of at most 494 nodes, the GIS-based method can handle networks of up to 21 363 nodes; a ∼40× improvement. The GIS-based method shows up to a 520× improvement on the ILP-based method in terms of median solving time. For the majority of the instances that can be encoded and solved by both methods, the cardinality of the solution returned by the GIS-based method is less than 10% larger than the cardinality of the solution found by the ILP method.}
+}
+
+@inproceedings{FokEtAl19,
     author = {D. Fokkinga and A.L.D. Latour and M. Anastacio and S. Nijssen and H. Hoos},
     title = "Programming a Stochastic Constraint Optimisation Algorithm, by Optimisation",
     booktitle = "Workshop Data Science meets Optimisation (DSO), held in conjunction with IJCAI 2019",
