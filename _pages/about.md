@@ -138,19 +138,19 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 * <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
-ArXiv. [[pdf]](https://arxiv.org/abs/2306.02320)
+ArXiv 2023. [[pdf]](https://arxiv.org/abs/2306.02320)
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-(Submitted to Nature Human Behaviour). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
+(Submitted to Nature Human Behaviour 2023). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Tool Learning with Foundation Models</b>\
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
-ArXiv. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
+ArXiv 2023. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
 
 * <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
 *Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-ArXiv. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
+ArXiv 2023. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
 <!--
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
@@ -175,7 +175,7 @@ ArXiv. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/ope
 -->
 
 ## Talks
-* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Adaptation of Large-scale Pre-trained Language Models (LLMs)
+* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models (LLMs)
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
 * [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
