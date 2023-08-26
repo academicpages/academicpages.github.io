@@ -18,11 +18,12 @@ The final product of this GSoC project is a full-fledged implementation of [Cell
 * It includes more detailed documentation for all functions, giving future users and developers a better idea on how the codebase works.
 * It also includes a better written README.md with clearer instructions on how to install the package and running the first commands.
 * The most unique point is that it has many unit tests that future developers can use as a performance reference when they aim to rewrite CellBox with another programming package or library. CellBox Pytorch repo also supports CI/CD with Github Actions, a next step in building reliable code.
+
 While many next steps are available to make CellBox Pytorch even better (specified below), the goal of this project, which makes a Pytorch version of CellBox and ensures it works well, has been met.
 
 Next steps
 =================
-Even though GSoC has been over, and the basic goal of this project has been achieved, there are many other next steps to be done:
+Even though GSoC has been over, and the basic goal of this project has been achieved, there are many other next steps to be done beyond GSoC:
 * Rewrite the multi-stage training schedule. Even though the current Pytorch training schedule works perfectly fine and closely resembles the original Tensorflow version, they do not utilize the most up-to-date strategies for multi-stage training. Possible strategies, such as weight decay, are interesting directions I can look into.
 * Resolve the ODE numerical discrepancy issue. Even though all unit tests are passed and Figure 2 in the paper has been replicated identically, the discrepancy still persists ([#56](https://github.com/sanderlab/CellBox/issues/56)). This gives an unanswered question of why two models can still converge to pretty much the same spot while having different results from the ODE.
 * CellBox Pytorch, and also the original implementation of CellBox in the original version, includes sample datasets specified in [`data`](https://github.com/sanderlab/CellBox/tree/master/data). However, the process of coming from wet lab data (such as Reverse Phase Protein Assay or RPPA) to a CellBox-compatible matrix to feed in the model has been unclear. This limits usability of CellBox for other research groups, because they don't have information on how CellBox data is processed. My next step involves working with Augustin to retrace how CellBox data is processed and including this in the README.
