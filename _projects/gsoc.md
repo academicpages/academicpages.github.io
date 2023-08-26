@@ -11,4 +11,12 @@ Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I wi
 ### [Week 2](/gsoc/week_two/)
 ### [Week 3](/gsoc/week_three)
 ### [Week 4](/gsoc/week_four)
+### [Week 5](/gsoc/week_five)
+### [Week 6](/gsoc/week_six)
+### [Week 7](/gsoc/week_seven)
+### [Week 8](/gsoc/week_eight)
+### [Week 9](/gsoc/week_nine)
+### [Week 10](/gsoc/week_ten)
+### [Week 11](/gsoc/week_eleven)
+### [Week 12-13](/gsoc/week_twelve)
 
