@@ -39,7 +39,7 @@ Selected awards
 
 Research areas
 ======
-  * Structure optimization: size/shape/topology design, mathematical programming
+  * Structure design: size/shape/topology optimization, mathematical programming
   * Phase field: fracture mechanics and computational manufacturing processes
   * Surface structures: waveguide, cloaking, metamaterial, homogenization, FEA, design
 
