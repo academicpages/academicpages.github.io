@@ -19,4 +19,5 @@ Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I wi
 ### [Week 10](/gsoc/week_ten)
 ### [Week 11](/gsoc/week_eleven)
 ### [Week 12-13](/gsoc/week_twelve)
+### [Final report](/gsoc/final_report)
 
