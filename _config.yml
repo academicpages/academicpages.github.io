@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Wendong Huo"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://Wendong-Huo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
