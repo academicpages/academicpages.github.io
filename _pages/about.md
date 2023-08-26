@@ -41,7 +41,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (_IJCAI_ **2023**), _arXiv_: 2302.02591
-  <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd> 
+  <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd>  <kbd><a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs">Github</a></kbd> 
   <p style="margin-top: 5px;"><img src="/images/survey.png"  width="200"/></p>
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
