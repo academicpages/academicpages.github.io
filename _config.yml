@@ -15,7 +15,7 @@ url                      : https://Wendong-Huo.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Wendong-Huo/Wendong-Huo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 150
 future                   : false
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
