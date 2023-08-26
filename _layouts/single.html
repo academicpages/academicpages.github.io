@@ -37,7 +37,7 @@ layout: default
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Published in (this is the single blog page I'm modifying now.) <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -75,12 +75,17 @@ layout: default
   </article>
 
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
+  <!-- NOTE FROM MIKE: -->
+  <!-- I have hidden the related article suggestion component by applying the 'hidden' class to each of them. -->
+  <!-- To make this visible again, delete the hidden classes -->
+  <!-- I did this because it looked terrible, but reformatting it was outside the scope of the job we discussed. 
+  It would have also taken a pretty long time to figure out, so I just made it disappear. -->
   {% if page.id and page.related and site.related_posts.size > 0 %}
-    <div class="page__related">
+    <div class="page__related hidden">
       {% if site.data.ui-text[site.locale].related_label %}
-        <h4 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
+        <h4 class="page__related-title hidden">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h4>
       {% endif %}
-      <div class="grid__wrapper">
+      <div class="grid__wrapper hidden">
         {% for post in site.related_posts limit:4 %}
           {% include archive-single.html type="grid" %}
         {% endfor %}

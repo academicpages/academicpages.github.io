@@ -14,18 +14,24 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <div class="publication-preview-wrapper flex flex-col md-flex-row mb-35">
-      <div class="figure-wrapper h-fit md-w-half py-10">
+    <div class="publication-preview-wrapper flex flex-col md-flex-row">
+        <!-- uncomment this if you want your blogs to have picutures -->
+        <!-- if you do, correct corresponding width classes in the div.publication-text -->
+      <!-- <div class="figure-wrapper h-fit md-w-half py-10">
         {% if post.figure %}
           <div class="archive__item-figure">
             <img src="{{ post.figure | prepend: site.baseurl }}" alt="{{ post.title }}">
           </div>
         {% endif %}
-      </div>
-      <div class="publication-text h-fit md-w-half ml-10 py-10">
+      </div> -->
+      <div class="publication-text h-fit w-full py-10">
         <h2 class="archive__item-title text-20 mt-0" itemprop="headline">
-          {{ title }}
-        </h2>
+            {% if post.link %}
+              <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            {% else %}
+              <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+            {% endif %}
+          </h2>
       
         {% if post.read_time %}
           <p class="page__meta text-16"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>

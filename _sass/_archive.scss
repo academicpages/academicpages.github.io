@@ -151,6 +151,85 @@
   }
 }
 
+/*Mike wants some basic tailwind classes in here*/
+
+.flex{
+  display: flex;
+}
+
+.flex-row{
+  flex-direction: row;
+}
+
+.flex-col{
+  flex-direction: column;
+}
+
+.mb-35{
+  margin-bottom:35px;
+}
+
+.md-flex-row{
+  @media (min-width: 768px) { 
+    flex-direction: row;
+   }
+}
+.w-full{
+  width: 100%;
+}
+.md-w-full{
+  width: 100%;
+}
+.w-half{
+  width:49%;
+}
+
+.md-w-half{
+  width: 100%;
+  @media (min-width: 768px) {
+    width: 49%;
+  }
+}
+.mt-0{
+  margin-top: 0px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+.py-10{
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+.h-fit{
+  height: fit-content;
+}
+.w-fit{
+  width: fit-content;
+}
+.justify-between{
+  justify-content: space-between;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.items-center{
+  align-items: center;
+}
+.text-20{
+  font-size:20px;
+  font-weight: 600;
+}
+
+.text-16{
+  font-size:16px;
+  font-weight: 400;
+}
+
+.font-sans-serif{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
 
 /*
    Features
@@ -243,3 +322,4 @@
     }
   }
 }
+
