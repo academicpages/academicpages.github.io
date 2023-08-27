@@ -27,10 +27,10 @@ Research
 * Explicit layout optimization of complex rib-reinforced thin-walled structures (done)
   * Collaborated with Dr. Xudong Jiang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2022.03-2022.10
-* Explict topology optimization of shell surfaces (done)
+* Explicit topology optimization of shell surfaces (done)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-2022.02
 * Substructuring multi-resolution topology optimization with template (done)
-  * Collabrated with Mr. Mengcheng Huang
+  * Collaborated with Mr. Mengcheng Huang
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.01-2021.05
 * Texture-guided structure optimization and design (to be continued)
   * Subproject of texture synthesis and its application to computational mechanics
@@ -62,18 +62,18 @@ Contests
   * Special thanks to Prof. Meiqin Wang and Prof. Zhaotao Liu
   * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
 * High School Physics Competition, 2011
-  * A tour to the 168 high school on a balmy day
+  * A tour to the 168 High School on a balmy day
 
 Engineering projects
 ======
-* HW 1-time
-* C1 5-times
-* C5 4-times
-* C3 1-time
-* C6 1-time
-* 6 1-time
-* HTJG 1-time
-* Xidian Univ. 1-time
+* HW 1-time, designing loudspeakers considering SPL response and push-pull compliance
+* C1 5-times, structure topology optimization of experimental loading devices, structure optimization of bolt-joint systems
+* C5 4-times, optimizing rib-reinforced thin-walled structures
+* C3 1-time, designing fairing structures via explicit topology optimization of shell structures
+* C6 1-time, optimization of pressure vessels
+* 6 1-time, topology optimization of bearing structures
+* HTJG 1-time, topology optimization of bolt-joint systems
+* Xidian Univ. 1-time, displacement prediction and structure optimization of radar antennas considering accuracy control
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
