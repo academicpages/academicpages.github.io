@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-downloadable CV
+[downloadable CV](https://zhichengkai.github.io/files/Zhicheng_s_CV.pdf)
 
 Education
 ======
