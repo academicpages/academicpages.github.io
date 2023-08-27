@@ -12,11 +12,11 @@ Research
 ======
 * Explicit design of complex surface structures (ongoing, topic of doctoral dissertation)
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2021.03-present
+* CC_IGA_Solid_CCM (ongoing)
+  * supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.08-present
 * Rob, LDM, SC, RST, 2023.03-present (in preparation)
 * Hit think, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.05-present (in preparation)
 * Fracture, supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.01-present (ongoing)
-* CC_IGA_Solid_CCM (ongoing)
-  * supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.08-present
 * Component innovation (ongoing)
   * Collaborated with Xiaoyang Li and Yunpu Liu
   * Supervised by Prof. Xu Guo and Prof. Chang Liu, 2023.06-present
