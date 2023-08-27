@@ -11,9 +11,9 @@ Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I wi
 <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 30%; background-color: #f2f2f2; padding: 10px;">
         <ul>
-            <li>Column 1 Bullet 1</li>
-            <li>Column 1 Bullet 2</li>
-            <li>Column 1 Bullet 3</li>
+            <li><a href=/gsoc/week_one>Column 1 Bullet 1</a></li>
+            <li><a href=/gsoc/week_one>Column 1 Bullet 2</a></li>
+            <li><a href=/gsoc/week_one>Column 1 Bullet 3</a></li>
         </ul>
     </div>
     <div style="flex-basis: 30%; background-color: #e0e0e0; padding: 10px;">
