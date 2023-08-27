@@ -27,7 +27,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 ======
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
-  <br> arXiv:2307.02046
+  <br> <small>arXiv:2307.02046</small>
   <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/LLMs_tasks.png"  width="200"/></p>
   
