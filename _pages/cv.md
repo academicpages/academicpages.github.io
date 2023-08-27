@@ -21,11 +21,6 @@ Work experience
   * University of Michigan
   * Duties included: grading quizzes and exams, proposing marking schemes and providing review lectures.
   * Supervisor: Dr. Anchal Sareen 
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
