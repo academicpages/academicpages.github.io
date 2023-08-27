@@ -41,7 +41,7 @@ Research areas
 ======
   * Structure design: size/shape/topology optimization, mathematical programming
   * Phase field: fracture mechanics and computational manufacturing processes
-  * Surface structures: waveguide, cloaking, metamaterial, homogenization, FEA, design
+  * Surface structures: wave motion, cloaking, metamaterial, homogenization, FEA, design
 
 
 Skills
