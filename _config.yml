@@ -17,7 +17,7 @@ repository               : "https://alexandrehugomathieu.github.io/alexandremath
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-keywords                 : "phd,solar,bipv,guarantee,pv,photovoltaic,failure,modeling,alexandre mathieu,mathieu"
+keywords                 : "phd,solar,bipv,guarantee,pv,photovoltaic,failure,modeling,alexandre mathieu,mathieu,github,alexandre,solaire,bipv,photovoltaïque,modèle,défaillance"
 seo_description          : "Site for Alexandre Hugo MATHIEU, PhD Student, building photovoltaic (PV) performance guarantee and failure modelling"
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
