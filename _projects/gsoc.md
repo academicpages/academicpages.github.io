@@ -6,10 +6,10 @@ collection: projects
 
 Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I will work with Dr. Augustin Luna and Dr. Bo Yuan on converting [CellBox](https://github.com/sanderlab/CellBox), a model predicting cell pertubation effects under various drug combinations, from Tensorflow to Pytorch. This notebook serves as my weekly goals record. For some more detailed comments I have during my coding period, please check out my [Google Docs personal notebook](https://docs.google.com/document/d/1fYkUNYuRcPHByWUYay6yUeTKtBuiwTGKJoztT0LajiA/edit?usp=sharing)
 
-### Before GSoC
+## Before GSoC
 * [Week 0](/gsoc/week_zero/)
 
-### During GSoC
+## During GSoC
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex-basis: 30%; background-color: #FFFFFF; padding: 10px;">
@@ -38,6 +38,6 @@ Hi! Welcome to my personal notebook on my GSoC 2023 journey. In this summer I wi
     </div>
 </div>
 
-### After GSoC
+## After GSoC
 * [Final report](/gsoc/final_report)
 
