@@ -66,14 +66,14 @@ Contests
 
 Engineering projects
 ======
-* HW 1-time
-* C1 5-times
-* C5 4-times
-* C3 1-time
-* C6 1-time
-* 6 1-time
-* HTJG 1-time
-* Xidian Univ. 1-time
+* HW 1-time, designing loudspeakers considering SPL response and push-pull compliance
+* C1 5-times, structure topology optimization of experimental loading devices, structure optimization of bolt-joint systems
+* C5 4-times, optimizing rib-reinforced thin-walled structures
+* C3 1-time, designing fairing structures via explicit topology optimization of shell structures
+* C6 1-time, optimization of pressure vessels
+* 6 1-time, topology optimization of bearing structures
+* HTJG 1-time, topology optimization of bolt-joint systems
+* Xidian Univ. 1-time, displacement prediction and structure optimization of radar antennas considering accuracy control
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
