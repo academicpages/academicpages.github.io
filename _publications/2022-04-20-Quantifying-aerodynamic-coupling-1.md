@@ -4,7 +4,7 @@ collection: SPIE 12043
 permalink: /publication/2022-04-20-Quantifying-aerodynamic-coupling-1
 excerpt: 'This paper is about aerodynamics coupling results in grid generated turbulent flows.'
 date: 2022-04-20
-venue: 'Journal 1'
+venue: 'SPIE 12043'
 paperurl: 'https://doi.org/10.1117/12.2610953'
 citation: 'Zhicheng Kai and Amir H. Danesh-Yazdi ”Quantifying aerodynamic coupling for side-byside piezoelectric harvesters in fractal-grid-generated turbulent flow”, Proc. SPIE 12043, Active and Passive Smart Structures and Integrated Systems XVI, 120430O (20 April 2022); https://doi.org/10.1117/12.2610953'
 ---
