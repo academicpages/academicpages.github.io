@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV (40).pdf)
+A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV_Aug2023.pdf)
 
 <!-- <embed src="http://larrylehan.github.io/files/LarryHan_CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
@@ -24,7 +24,7 @@ Dissertation Advisors: [Tianxi Cai,](https://www.hsph.harvard.edu/tianxi-cai/) [
 Dissertation Committee: [Rui Duan,](https://sites.google.com/view/ruiduan/home?authuser=0) [Sebastian Schneeweiss](https://www.hsph.harvard.edu/sebastian-schneeweiss/)
 
 **University of Cambridge**  
-MPhil in Operations Management, 2018  
+MPhil in Healthcare Operations, 2018  
 Thesis Advisor: [Stefan Scholtes](https://www.jbs.cam.ac.uk/faculty-research/faculty-a-z/stefan-scholtes/)
 
 **Tsinghua University**  
@@ -32,7 +32,7 @@ MA in Global Affairs, 2017
 Thesis Advisor: [Michael Powers](http://www.sem.tsinghua.edu.cn/en/powers)
 
 **University of North Carolina**  
-BSPH in Biostatistics, 2016   
+BS in Public Health, Biostatistics, 2016   
 Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/)
 
 
