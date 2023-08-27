@@ -13,7 +13,7 @@ Mentor: **Augustin Luna** and **Bo Yuan**
 
 Final product
 =================
-The final product of this GSoC project is a full-fledged implementation of [CellBox](https://github.com/sanderlab/CellBox) in [Pytorch](https://github.com/Mustardburger/CellBox/tree/final). This implementation has identical functionality as the original version, verified by a range of unit tests (defined in [`test.py`](https://github.com/Mustardburger/CellBox/blob/final/test.py)) and a successful replication of Figure 2 in the original CellBox paper (specified [here](https://github.com/Mustardburger/CellBox/tree/final/manuscript_rep/Figure2)). In addition, the Pytorch implementation has many more advantages:
+The final product of this GSoC project is a full-fledged implementation of [CellBox](https://github.com/sanderlab/CellBox) in [Pytorch](https://github.com/Mustardburger/CellBox). This implementation has identical functionality as the original version, verified by a range of unit tests (defined in [`test.py`](https://github.com/Mustardburger/CellBox/blob/master/test.py)) and a successful replication of Figure 2 in the original CellBox paper (specified [here](https://github.com/Mustardburger/CellBox/tree/master/manuscript_rep/Figure2)). In addition, the Pytorch implementation has many more advantages:
 * It uses the more recent, up-to-date version of Pytorch (Pytorch 2.0) instead of the deprecated Tensorflow 1.15 used in the original version.
 * It includes more detailed documentation for all functions, giving future users and developers a better idea on how the codebase works.
 * It also includes a better written README.md with clearer instructions on how to install the package and running the first commands.
