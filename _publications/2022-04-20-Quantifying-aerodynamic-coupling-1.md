@@ -1,7 +1,7 @@
 ---
 title: "Quantifying aerodynamic coupling for side-byside piezoelectric harvesters in fractal-grid-generated turbulent flow"
 collection: SPIE 12043
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2022-04-20-Quantifying-aerodynamic-coupling-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-04-20
 venue: 'Journal 1'
