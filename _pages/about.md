@@ -82,7 +82,7 @@ Education
 
 Working Experience
 ======
-+ Research Assistant | <small>2022.10 - 2023.01</small>>
++ Research Assistant | <small>2022.10 - 2023.01</small>
  <br>Department of Computing, Hong Kong Polytechnic University | <small>Hong Kong</small> 
  <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + Research Assistant | <small>2020.12 - 2021.05</small>
