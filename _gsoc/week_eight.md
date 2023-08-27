@@ -8,8 +8,7 @@ This is the eighth week of my GSoC journey.
 GSoC project
 =================
 *  [GSoC project URL](https://summerofcode.withgoogle.com/programs/2023/projects/HKW6ydaI)
-*  [Work Repository](https://github.com/users/cannin/projects/5)
-Mentor: **Augustin Luna** and **Bo Yuan**
+*  [Work Repository](https://github.com/Mustardburger/CellBox)
 
 Tasks
 =================
