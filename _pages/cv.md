@@ -12,16 +12,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mechanical Engineering, Rose-Hulman Institute of Technology, 2022
+* M.S. in Mechanical Engineering, University of Michigan, 2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2023: Graduate Student Instructor
+  * University of Michigan
+  * Duties included: grading quizzes and exams, proposing marking schemes and providing review lectures.
+  * Supervisor: Dr. Anchal Sareen 
 
 * Fall 2015: Research Assistant
   * Github University
