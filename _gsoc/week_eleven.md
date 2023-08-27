@@ -17,7 +17,7 @@ Tasks
 
 Relevant issues:
 ================
-* Blogs about Pytorch having suboptimal convergence when compared with TensorFlow model ([this](https://discuss.pytorch.org/t/suboptimal-convergence-when-compared-with-tensorflow-model/5099) and [this]https://stackoverflow.com/questions/73600481/400-higher-error-with-pytorch-compared-with-identical-keras-model-with-adam-op)
+* Blogs about Pytorch having suboptimal convergence when compared with TensorFlow model ([this](https://discuss.pytorch.org/t/suboptimal-convergence-when-compared-with-tensorflow-model/5099) and [this](https://stackoverflow.com/questions/73600481/400-higher-error-with-pytorch-compared-with-identical-keras-model-with-adam-op))
 
 Notes
 =================
