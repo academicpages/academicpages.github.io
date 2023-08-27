@@ -15,7 +15,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received my Master's degree in Computer Science from University of Edinburgh (M.Sc. in Computer Science), under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology). I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaboration from solid partners.
+I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received my Master's degree in Computer Science from University of Edinburgh (M.Sc. in Computer Science), under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology). I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
 Research Interest
 ======
@@ -71,7 +71,7 @@ Education
 ======
 
 + <img align="left" decoding="async" src="/images/polyu_logo.png" width="10%"> &nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
-<br>&nbsp;Hong Kong Polytechnic University <br>&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+<br>&nbsp;The Hong Kong Polytechnic University <br>&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
   
 
 + <img align="left" decoding="async" src="/images/uoe_log.png" width="10%">  &nbsp;MSc in Computer Science | <small>2021.09 - 2022.11</small>
