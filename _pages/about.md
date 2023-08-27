@@ -149,7 +149,7 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2306.02320)
 ArXiv 2023. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
 
 * <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
-*Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou*\ (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+*Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 ArXiv 2023. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
 <!--
