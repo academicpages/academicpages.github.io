@@ -83,10 +83,10 @@ Education
 Working Experience
 ======
 + Research Assistant | <small>2022.10 - 2023.01</small>>
- <br>Department of Computing, Hong Kong Polytechnic University, Hong Kong 
+ <br>Department of Computing, Hong Kong Polytechnic University | <small>Hong Kong</small> 
  <br>Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 + Research Assistant | <small>2020.12 - 2021.05</small>
- <br>State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences, Beijing
+ <br>State Key Laboratory of Computer Science ([SKLCS](http://lcs.ios.ac.cn/)), Institute of Software, Chinese Academy of Sciences | <small>Beijing</small>
  <br>Advisor: [Dr. Zhendong Lei](https://www.tcs-lab.com/members/leizhendong/) and [Prof. Shaowei Cai](http://lcs.ios.ac.cn/~caisw/)
  
  
