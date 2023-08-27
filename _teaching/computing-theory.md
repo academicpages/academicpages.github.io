@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Concepts of Computer Science Theory (CECS 329)"
 collection: teaching
 type: "Undergraduate course"
@@ -130,4 +130,4 @@ Work that you submit is assumed to be original unless your source material is do
 
 ## Disclaimer
 
-Please be aware that this course outline may change without prior notice. There may be instances where adjustments are needed for the course content, schedule, or grading policy. As a result, it is important that students check the official course syllabus on canvas regularly for the latest updates.
+Please be aware that this course outline may change without prior notice. There may be instances where adjustments are needed for the course content, schedule, or grading policy. As a result, it is important that students check the official course syllabus on canvas regularly for the latest updates. -->
