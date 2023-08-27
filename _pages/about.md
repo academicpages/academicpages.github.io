@@ -33,7 +33,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
-  <br> _arXiv_: 2302.02591
+  <br> arXiv:2302.02591
   <br> \*Co-first author
   <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/MolReGPT.png"  width="200"/></p>
