@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/Xinyi Zhou-CV.pdf
+permalink: /files/Xinyi_Zhou_Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
