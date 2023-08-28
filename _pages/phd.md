@@ -19,9 +19,8 @@ The objective of the thesis is to define and validate a methodology to guarantee
 This work would lead to:
 1. Assess diagnostic methods and their limits.
 2. Identify and model the main failures.
-3. Model the whole solar installation sytem with failure and diagnostic operations.
+3. Model the whole solar installation system with failure and diagnostic operations.
 4. Establish the performance guarantee methodology. 
-
 
 
 ## Collaboration

@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Light Induced Degradation (LID): A quick overview on the performance impact"
+permalink: /lid_blog/
 author_profile: true
-permalink: /blog/lid_blog/
 ---
 
 {% include base_path %}
