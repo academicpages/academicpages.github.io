@@ -13,7 +13,7 @@ name                     : &name "Xinyi Zhou"
 description              : &description "Master Student at USC"
 url                      : https://CindyChow123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CindyChow123/CindyChow123.github.io"
+repository               : "XinyiZhou-Personal-Website/XinyiZhou-Personal-Website.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
