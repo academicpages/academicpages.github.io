@@ -12,7 +12,7 @@ tags:
 **“Light soaking effect”** refers to changes in module power performance due to light exposure. 
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_main_pictures.png" width="100">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_main_pictures.png" width="50">
     <figcaption> PV cell with LID degradation (Kwapil et al., 2020) </figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ Some other technologies like CIS/CIGS actually benefit from this effect with a g
 
 <figure>
     <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_figures.PNG" width="100">
-    <figcaption> LID performance losse figures from litterature </figcaption>
+    <figcaption> LID performance loss figures from litterature </figcaption>
 </figure>
 
 Degradation Mechanisms
@@ -46,7 +46,7 @@ to a third, regenerated, state C thanks to the inclusion of hydrogen which cance
 the electron-hole trap effect from state B.
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_state.png" width="100">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_state.png" width="85">
     <figcaption> LID performance losse figures from litterature </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ quadratically dependant from the Boron and Oxygen concentrations respectively
 (Rabelo et al., 2021). 
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="100">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="70">
     <figcaption> LID performance losse figures from litterature </figcaption>
 </figure>
 
