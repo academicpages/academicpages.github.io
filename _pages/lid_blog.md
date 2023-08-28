@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <figure>
-    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}">
+    <img src="{{ author.avatar }}" alt="{{ author.name }}">
     <figcaption> PV cell with LID degradation (Kwapil et al., 2020) </figcaption>
 </figure>
 
