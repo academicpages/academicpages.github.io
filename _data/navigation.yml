@@ -2,10 +2,13 @@
 main:
   - title: "PhD Thesis"
     url: /phd/
+
   - title: "CV"
     url: /cv/
+
   - title: "Blog"
     url: /blog/
+
   - title: "LID Blog"
     url: /blog/lid_blog/
 
