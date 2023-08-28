@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: "Light Induced Degradation (LID): A quick overview on the performance impact"
-permalink: /lid_blog/
+permalink: /blog/lid_blog/
 author_profile: true
 ---
 
 {% include base_path %}
 
 <figure>
-    <img src="images/images/lid_images/lid_main_pictures.png">
+    <img src="images/lid_images/lid_main_pictures.png">
     <figcaption> PV cell with LID degradation (Kwapil et al., 2020) </figcaption>
 </figure>
 
