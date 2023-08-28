@@ -9,7 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-![PV cell with LID degradation](images/lid_images/lid_main_pictures.png)
+<figure>
+    <img src="images/lid_images/lid_main_pictures.png">
+    <figcaption> PV cell with LID degradation (Kwapil et al., 2020) </figcaption>
+</figure>
 
 ## LID impact and definition
 
