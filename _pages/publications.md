@@ -25,6 +25,10 @@ author_profile: true
 
  _with [Stefano Jud](http://stefanojud.com/), Research completed, 2023_
 
+**Role of Gender in Public Perceptions of Asylum Seekers**
+
+ _with [David Davis](http://polisci.emory.edu/home/people/biography/davis-david.html), Accepted to present at Peace Science Society, 2023_
+ 
 ## Works in Progress
 **Contestation project**
 
