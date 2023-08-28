@@ -7,11 +7,11 @@ author_profile: true
 
 
 - UCL Mathematical & Physical Sciences (MAPS) [Faculty Education Award](https://www.ucl.ac.uk/teaching-learning/events/ucl-education-awards) ([Certificate](https://kavanase.github.io/files/Seán Kavanagh UCL Education Award.pdf)), for Individual Excellence in academic supervision and personal tutoring. Shortlisted for the Provost's Award.
-- [Associate Fellowship of the Higher Education Authority](https://github.com/kavanase/kavanase.github.io/files/Sean Kavanagh - Associate Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
+- [Associate Fellowship of the Higher Education Authority](https://kavanase.github.io/files/Sean%20Kavanagh%20-%20Associate%20Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
 -	Successful EPSRC Pioneer Grant lead author for Archer2 supercomputing resources (2023); notional value £110k.
 
 ## Research Excellence Awards
--	Materials Research Society (MRS) Graduate Student Award (Gold) & Future Leader 2023 [Social Media Card](https://kavanase.github.io/files/gsa_spring_2023_photoboard.jpeg)  [Certificate](https://kavanase.github.io/files/MRS_Spring_2023_GSA_Certificate.jpeg)
+-	Materials Research Society (MRS) Graduate Student Award (Gold) & Future Leader 2023 [Social Media Card](https://kavanase.github.io/files/gsa_spring_2023_photoboard.jpeg) & [Certificate](https://kavanase.github.io/files/MRS_Spring_2023_GSA_Certificate.jpeg)
 -	_Materials Today Chemistry_ Rising Star Award 2022 [Certificate](https://kavanase.github.io/files/eMRS MTC Rising Star Award.png)
 - MRS Future Leader 2023 [Certificate](https://kavanase.github.io/files/MRS_Future_Leader_2023.png) & [Video](https://www.youtube.com/watch?v=xLUaRVq_I-k&list=PLy1lO0P5GKzFHkPPwDgay04jN76Ytcqos&index=3&ab_channel=MaterialsResearchSociety)
 -	European Materials Research Society (eMRS) Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
