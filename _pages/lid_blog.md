@@ -60,3 +60,26 @@ the decrease of the short-circuit current (Isc), Fill Factor (FF) and open-circu
 Voltage (Voc). Naturally, the maximum power point (Pmpp) also decreases. Some
 detrimental consequences might be the apparition of mismatches which trigger hot 
 spots and accelerate ageing.
+
+### References
+
+Aghaei, M., Fairbrother, A., Gok, A., Ahmad, S., Kazim, S., Lobato, K., Oreski, G., Reinders, A., Schmitz, J., Theelen, M., Yilmaz, P., Kettle, J., 2022. Review of degradation and failure phenomena in photovoltaic modules. Renew. Sustain. Energy Rev. 159, 112160. https://doi.org/10.1016/j.rser.2022.112160
+
+Bansal, N., Jaiswal, S.P., Singh, G., 2021. Comparative investigation of performance evaluation, degradation causes, impact and corrective measures for ground mount and rooftop solar PV plants – A review. Sustain. Energy Technol. Assess. 47, 101526. https://doi.org/10.1016/j.seta.2021.101526
+
+Da Silva, M.K., Gul, M.S., Chaudhry, H., 2021. Review on the Sources of Power Loss in Monofacial and Bifacial Photovoltaic Technologies. Energies 14. https://doi.org/10.3390/en14237935
+
+Du, M.H., Branz, H.M., Crandall, R.S., Zhang, S.B., 2005. New Mechanism for Non-Radiative Recombination at Light-Induced Boron-Oxygen Complexes in Silicon.
+
+Gostein, M., Dun, L., 2011. Light Soaking Effects on PV Modules: Overview and Literature Review. Presented at the IEEE Photovoltaic Specialists Conference, Seattle, WA, USA. https://doi.org/10.1109/PVSC.2011.6186605
+
+Herz, M., Friesen, G., Jahn, U., Köntges, M., Lindig, S., Moser, D., 2022. Quantification of Technical Risks in PV power Systems (No. IEA-PVPS T13-23:2021). IEA PVPS.
+
+Kwapil, W., Schön, J., Niewelt, T., Schubert, M., 2020. Temporary Recovery of the Defect Responsible for Light- and Elevated Temperature-Induced Degradation: Insights Into the Physical Mechanisms Behind LeTID. IEEE J. Photovolt. 10, 1591–1603. https://doi.org/10.1109/JPHOTOV.2020.3025240
+
+Rabelo, M., Park, H., Kim, Y., Cho, E.-C., Yi, J., 2021. Corrosion, LID and LeTID in Silicon PV Modules and Solution Methods to Improve Reliability. Trans. Electr. Electron. Mater. 22, 575–583. https://doi.org/10.1007/s42341-021-00359-4
+
+RECgroup, 2019. Combatting LeTID in multi and monocrystalline solar panels: How testing has demonstrated the high resistance of REC solar panels to LeTID degradation , ensuring long term power for lasting performance.
+
+Woodhouse, M., Repins, I., Miller, D., 2020. LID and LeTID Impacts to PV Module Performance and System Economics DRAFT Analysis.
+
