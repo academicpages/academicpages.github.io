@@ -58,7 +58,7 @@ quadratically dependant from the Boron and Oxygen concentrations respectively
 
 <figure>
     <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="100">
-    <figcaption> Boron-Oxygen chemical mechanisms according to (Du et al., 2005) </figcaption>
+    <figcaption> Boron-Oxygen chemical mechanisms according to Du et al. (Du et al., 2005) </figcaption>
 </figure>
 
 The Light and elevated Temperature Induced Degradation (LeTID) is a variant of LID in
