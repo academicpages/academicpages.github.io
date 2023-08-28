@@ -17,13 +17,12 @@ author_profile: true
 - Lead tester of VASP (most widely-used computational materials science code worldwide) for [Archer2](https://www.archer2.ac.uk/) (UK National Supercomputer), and research consultant for procurement of UCL HPC & GPU upgrades 2021/2022 (>£1 million).
 - Developer of several open-access community computational chemistry tools; including [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://doped.readthedocs.io/en/latest/), [`easyunfold`](https://smtg-ucl.github.io/easyunfold/), [`PyTASER`](https://pytaser.readthedocs.io/en/latest/), co-developer of [`sumo`](https://github.com/SMTG-UCL/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others. See my [GitHub profile](https://github.com/kavanase).
 - Mentored several visiting researchers (from Newcastle University, UPC Barcelona, Universidad de Santiago and more) on defect computation & characterization.
-- UCL Resources for Computational Chemistry Researchers Moodle Tutor and ‘Python for Chemical Modelling’ module Post-Graduate Teaching Assistant (PGTA) at UCL.
-
 
 
 ## Teaching and Supervision
 - I was awarded a UCL MAPS (Mathematical & Physical Sciences) Faculty Education Award, and have been nominated for the UCL-wide Provost's Education Awards, for Individual Excellence in Academic Supervision & Tutoring. It's been an absolute pleasure to see the development of the many undergraduate, MSs and PhD students I've worked with over their projects!
   - <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well done to <a href="https://twitter.com/Kavanagh_Sean_?ref_src=twsrc%5Etfw">@Kavanagh_Sean_</a> being a winner of not only the MAPS Faculty Education Awards 2022 but also for UCL Education Awards 2022 <a href="https://twitter.com/UCLChemistry?ref_src=twsrc%5Etfw">@UCLChemistry</a> <a href="https://t.co/zyc1Jcn3pV">pic.twitter.com/zyc1Jcn3pV</a></p>&mdash; CDT_ACM (@CDT_ACM) <a href="https://twitter.com/CDT_ACM/status/1511689088113553412?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- [Associate Fellowship of the Higher Education Authority](https://kavanase.github.io/files/Sean%20Kavanagh%20-%20Associate%20Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
 - I am a Moodle Tutor for the UCL Resources for New Chemistry Researchers (Computational Chemistry) module, having helped develop the online resources for this course.
 - I am a Tutor and Graduate Teaching Assistant (PGTA) for the ‘Python for Chemical Modelling’ module at University College London (UCL).
 
@@ -56,6 +55,7 @@ These include:
 - _A computational re-evaluation of crystal structure assignments for vacancy-ordered quadruple perovskites_ <!-- Yinan... -->
 - ...
 
+- I have also mentored several visiting researchers (from Newcastle University, UPC Barcelona, Universidad de Santiago and more) on defect computation & characterization.
 
 Some quotes from Phd, MSc & undergraduate students I have supervised are:
 > Seán has been an extraordinary mentor during my MSc project. He framed the significance of our research project in the field, and designed a concise, feasible and exciting plan to tackle it. Beyond being approachable and supportive, he provided insightful explanations and interesting ideas for new research avenues, as well as the opportunity to write a perspective about our project.  By providing invaluable feedback and discussions, he helped me gain confidence to become more independent in my research. <!-- Irea -->
