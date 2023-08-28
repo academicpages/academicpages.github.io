@@ -8,7 +8,7 @@ permalink: /blog/lid_blog/
 {% include base_path %}
 
 <figure>
-    <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}">
+    <img src="images/images/lid_images/lid_main_pictures.png">
     <figcaption> PV cell with LID degradation (Kwapil et al., 2020) </figcaption>
 </figure>
 
