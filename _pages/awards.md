@@ -7,18 +7,22 @@ author_profile: true
 
 
 - UCL Mathematical & Physical Sciences (MAPS) [Faculty Education Award](https://www.ucl.ac.uk/teaching-learning/events/ucl-education-awards) ([Certificate](https://kavanase.github.io/files/Seán Kavanagh UCL Education Award.pdf)), for Individual Excellence in academic supervision and personal tutoring. Shortlisted for the Provost's Award.
-
+- [Associate Fellowship of the Higher Education Authority](https://github.com/kavanase/kavanase.github.io/files/Sean Kavanagh - Associate Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
+-	Successful EPSRC Pioneer Grant lead author for Archer2 supercomputing resources (2023); notional value £110k.
 
 ## Research Excellence Awards
--	MRS Graduate Student Award (Gold) & Future Leader 2023 [Social Media Card](https://kavanase.github.io/files/gsa_spring_2023_photoboard.jpeg)  [Certificate](https://kavanase.github.io/files/MRS_Spring_2023_GSA_Certificate.jpeg)
+-	Materials Research Society (MRS) Graduate Student Award (Gold) & Future Leader 2023 [Social Media Card](https://kavanase.github.io/files/gsa_spring_2023_photoboard.jpeg)  [Certificate](https://kavanase.github.io/files/MRS_Spring_2023_GSA_Certificate.jpeg)
 -	_Materials Today Chemistry_ Rising Star Award 2022 [Certificate](https://kavanase.github.io/files/eMRS MTC Rising Star Award.png)
-- Materials Reserch Society (MRS) Future Leader [Certificate](https://kavanase.github.io/files/MRS Future Leader Photocard.png)
+- MRS Future Leader 2023 [Certificate](https://kavanase.github.io/files/MRS_Future_Leader_2023.png) & [Video](https://www.youtube.com/watch?v=xLUaRVq_I-k&list=PLy1lO0P5GKzFHkPPwDgay04jN76Ytcqos&index=3&ab_channel=MaterialsResearchSociety)
 -	European Materials Research Society (eMRS) Young Researcher Award 2022 [Certificate](https://kavanase.github.io/files/eMRS_Spring_2022_Best_Presentation_Award_Symposium_G.png)
--	Ramsay Medal for Best Chemistry PhD student in UCL & Catlow Prize for Best Computational PhD student in UCL Chemistry 2022 (in the 3rd year of my PhD) [Certificate](https://kavanase.github.io/files/UCL_Chemistry_Catlow_Prize.jpg) [Medal](https://kavanase.github.io/files/Ramsay_Medal.jpeg)
--	MRS Graduate Student Award (Silver) 2022 [Social Media Card](https://kavanase.github.io/files/Silver_GSA_Ad.png)  [Certificate](https://kavanase.github.io/files/MRS_Silver_GSA_Certificate_2022.pdf)
+-	Ramsay Medal for Best Chemistry PhD student in UCL & Catlow Prize for Best Computational PhD student in UCL Chemistry 2022 (in the 3rd year of my PhD) [Certificate](https://kavanase.github.io/files/UCL_Chemistry_Catlow_Prize.jpg) & [Medal](https://kavanase.github.io/files/Ramsay_Medal.jpeg)
+-	MRS Graduate Student Award (Silver) 2022 [Social Media Card](https://kavanase.github.io/files/Silver_GSA_Ad.png) & [Certificate](https://kavanase.github.io/files/MRS_Silver_GSA_Certificate_2022.pdf)
+- MRS Future Leader 2022 [Certificate](https://kavanase.github.io/files/MRS Future Leader Photocard.png) & [Video](https://www.youtube.com/watch?v=ItxyZVeq4OU&list=PLy1lO0P5GKzFHkPPwDgay04jN76Ytcqos&index=6&ab_channel=MaterialsResearchSociety)
 - eMRS Graduate Student Award 2021, Symposium F: "Earth-abundant next generation materials for solar energy” in recognition of outstanding research performance (Paper: '_Hidden spontaneous polarisation in the chalcohalide photovoltaic absorber Sn$_2$SbS$_2$I$_3$_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_F_Sn2SbS2I3.pdf)
 - eMRS Graduate Student Award 2021, Symposium A: “Materials for energy applications” in recognition of outstanding research performance (Paper: '_Rapid Recombination by Cadmium Vacancies in CdTe_'). [Certificate](https://kavanase.github.io/files/EMRS_2021_GSA_dipl_A_V_Cd.pdf)
 - Shortlisted for the International Conference on Defects in Semiconductors (ICDS) 2021 [Corbett Prize](https://en.wikipedia.org/wiki/International_Conference_on_Defects_in_Semiconductors#Corbett_Prize) (typically awarded to Associate Professors).
+-	Lindau Spirit Fellowship for highly-promising young researchers; awarded to 4 junior lecturers, 1 postdoctoral and 1 PhD researcher (me), at the 2022 [Lindau Nobel Chemistry Laureate Meeting](https://www.lindau-nobel.org/).
+
 
 ## Travel Awards & Grants
 - UCL-McGill-JSPS Core-to-core research collaboration grant (£3k) to visit Prof. Yu Kumagai in Tohoku University (October – November 2022), to extend our [defect structure-searching work](https://shakenbreak.readthedocs.io/en/latest/).
