@@ -12,7 +12,7 @@ Publications
 
 Working Papers
 ---
-Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire(<a href= "cobrienudry.github.io/files/files/o'brien-udry_JMP.pdf">job market paper</a>)
+Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "cobrienudry.github.io/files/files/o'brien-udry_JMP.pdf">job market paper</a>)
 
 A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">draft</a>)
 
