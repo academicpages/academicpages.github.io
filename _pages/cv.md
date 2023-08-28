@@ -11,12 +11,14 @@ redirect_from:
 
 PC/TPC member
 ======
-ACM GoodIT'23; IEEE ICCE-Berlin 2022; IEEE BDS’20; IEEE ZINC’20&21; IEEE ICCE-Berlin’19; IEEE ISCT’19; IEEE BigDataService’19; IEEE ICNAS'2019; IEEE ICCE’19; ACM_MidSE_2017; IEEE ICPADS 2017; ACM_MidSE_2016; IEEE Parlearning’14; IEEE MLAA'15; IEMTRONICS 2020.
+IEEE ICCE'24; ACM GoodIT'23; IEEE ICCE-Berlin 2022; IEEE BDS’20; IEEE ZINC’20&21; IEEE ICCE-Berlin’19; IEEE ISCT’19; IEEE BigDataService’19; IEEE ICNAS'2019; IEEE ICCE’19; ACM_MidSE_2017; IEEE ICPADS 2017; ACM_MidSE_2016; IEEE Parlearning’14; IEEE MLAA'15; IEMTRONICS 2020.
 
 Editor/Editorial Board
 ======
 - [Blockchains](https://www.mdpi.com/journal/blockchains/editors), 2023, ISSN: 2813-5288, Editorial Board
 - Sensors, [Special Issue "Advances in Blockchain Challenges and Opportunities"](https://www.mdpi.com/journal/sensors/special_issues/0E9R83J7XJ), SCI-indexed (IF: 4.05), ISSN: 1424-8220, 2023, Lead guest editor
+- Electronics, [Special Issue "Advancements in Cross-Disciplinary AI: Theory and Application—2nd Edition"](https://www.mdpi.com/journal/electronics/special_issues/IXIWU6WOB9), SCI-indexed (IF: 2.9), ISSN: 2079-9292, 2023, guest editor
+- Digital Communication and Network, [Special issue "Metaverse for IoT"](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/call-for-papers/special-issue-on-metaverse-for-iot/), SCIE-indexed, ISSN: 2352-8648, 2023.
 - Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021, Editorial Board 
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020, Editorial Board
