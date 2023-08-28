@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="right" width="100" height="100" src="images\android-chrome-192x192.png" style="padding: 10px">
+<!-- <img align="right" width="100" height="100" src="images\android-chrome-192x192.png" style="padding: 10px"> -->
 Welcome to my personal website! You can find my academic CV [here](/files/Sean_Kavanagh_CV.pdf) (updated May 2023) and all my social profiles on the left sidebar (or on the [Links](https://kavanase.github.io/links/) page if on mobile). Follow the links at the top to see my list of publications, talks and awards!
 
 ### What I Do
@@ -15,8 +15,7 @@ I'm a final-year PhD student in the research groups of both Professor David Scan
 
 
 ### Recent Highlights
-[`doped`]((https://doped.readthedocs.io/en/latest/)), my python defect calculation package (which interfaces with our defect structure-searching code [ShakeNBreak](https://shakenbreak.readthedocs.io/en/latest/), and other codes developed in the Scanlon & Walsh groups such as [`easyunfold`](https://smtg-ucl.github.io/easyunfold/) and [`py-sc-fermi`](https://py-sc-fermi.readthedocs.io/en/latest/), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl)) now has a proper [documentation site](https://doped.readthedocs.io/en/latest/), check it out!
-<img align="right" width="100" src="files\doped_SnB_combined_logos.png" style="padding: 10px">
+<img align="right" width="350" src="files\doped_SnB_combined_logos.png" style="padding: 10px">[`doped`]((https://doped.readthedocs.io/en/latest/)), my python defect calculation package (which interfaces with our defect structure-searching code [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), and other codes developed in the Scanlon & Walsh groups such as [`easyunfold`](https://smtg-ucl.github.io/easyunfold/) and [`py-sc-fermi`](https://py-sc-fermi.readthedocs.io/en/latest/), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl)) now has a proper [documentation site](https://doped.readthedocs.io/en/latest/), check it out!
 
 I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 2023 conference in San Francisco (got 'em on the rebound coach), which was followed by a road trip around California with some great people! 🚗😵‍💫
 <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; height: 755px;">
