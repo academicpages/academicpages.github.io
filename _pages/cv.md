@@ -52,7 +52,6 @@ Skills
   * Experience in writing job scripts in bash
   * Experience with using schedulers such as SLURM and SGE
 * **LaTeX**
-* **Git**, **Github** and version control [https://github.com/ry-ing](https://github.com/ry-ing)
 * **QGIS**
 * **R**
 
