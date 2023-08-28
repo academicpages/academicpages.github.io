@@ -26,7 +26,7 @@ On the other hand, the amorphous silicon (a-Si) can be impacted up to 10-30 % (G
 Some other technologies like CIS/CIGS actually benefit from this effect with a gain of 7-15% for CIS (Gostein and Dun, 2011).
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_figures.PNG" width="100">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_figures.PNG">
     <figcaption> LID performance loss figures from literature </figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ to a third, regenerated, state C thanks to the inclusion of hydrogen which cance
 the electron-hole trap effect from state B.
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_state.png" width="85">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_state.png">
     <figcaption> Performance as function of exposure time (Woodhouse et al., 2020) </figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ quadratically dependant from the Boron and Oxygen concentrations respectively
 (Rabelo et al., 2021). 
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="100">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png">
     <figcaption> Boron-Oxygen chemical mechanisms according to Du et al. (Du et al., 2005) </figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ detrimental consequences might be the apparition of mismatches which trigger hot
 spots and accelerate ageing.
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/iv_tracer.png" width="75">
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/iv_tracer.png">
     <figcaption> LID IV signature (da Silva et al., 2021) </figcaption>
 </figure>
 
