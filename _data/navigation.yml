@@ -6,6 +6,8 @@ main:
     url: /cv/
   - title: "Blog"
     url: /blog/
+  - title: "LID Blog"
+    url: lid/blog/
 
     
 #  - title: "Publications"
