@@ -17,7 +17,9 @@ Editor/Editorial Board
 ======
 - [Blockchains](https://www.mdpi.com/journal/blockchains/editors), 2023, ISSN: 2813-5288, Editorial Board
 - Sensors, [Special Issue "Advances in Blockchain Challenges and Opportunities"](https://www.mdpi.com/journal/sensors/special_issues/0E9R83J7XJ), SCI-indexed (IF: 4.05), ISSN: 1424-8220, 2023, Lead guest editor
-- Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021, Editorial Board 
+- Energies, SCI-indexed (IF: 3.54), ISSN: 0360-5442, 2021, Editorial Board
+- Electronics, [Special Issue "Advancements in Cross-Disciplinary AI: Theory and Application—2nd Edition"](https://www.mdpi.com/journal/electronics/special_issues/IXIWU6WOB9), SCI-indexed (IF: 2.9), ISSN: 2079-9292, 2023, guest editor
+- Digital Communications and Networks, [Special issue on Metaverse for IoT](https://www.keaipublishing.com/en/journals/digital-communications-and-networks/), SCIE-index, ISSN: 2352-8648, 2023, guest editor.
 - International Journal of Information and Communication Sciences (IJICS), ISSN Print:  2575-1700
 ISSN Online:  2575-1719, 2018 – 2020, Editorial Board
 
