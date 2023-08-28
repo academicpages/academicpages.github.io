@@ -6,13 +6,7 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Blog"
-    url: /blog/
 
-  - title: "LID Blog"
-    url: /blog/lid_blog/
-
-    
 #  - title: "Publications"
 #    url: /publications/
 
@@ -25,8 +19,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
 #  - title: "Guide"
 #    url: /markdown/
