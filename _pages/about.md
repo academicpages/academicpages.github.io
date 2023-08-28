@@ -44,8 +44,6 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 ## A quick snapshot
 
-
-
 <html> 
   <body> 
     <img src="../images/wordcloud.png" alt="示例图片" width="1200" height="1200"> 

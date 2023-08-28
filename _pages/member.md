@@ -25,6 +25,10 @@ redirect_from:
     <img src="../images/kx.jpg" class="center" style="width: 150px; height:200px;">
     <p style="font-size:26px; font-weight:bold; color:#0000FF; line-height: 0"> Xian Kong (孔宪)</p>
     <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
+    South China University of Technology  </p>
+    <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
+    华南理工大学  </p>
+    <p style="font-size: 18px; line-height: 1; font-weight:bold; word-break: break-all;"> 
     Email: xk@scut.edu.cn  </p>
     <p style="font-size: 16px; line-height: 2; font-weight:bold; word-break: break-all;"> 
     &ensp; 招生方向: <br> 

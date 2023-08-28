@@ -223,6 +223,949 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
+			"settings":
+			{
+				"buffer_size": 15489,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "Fa"
+					},
+					"AwAAAHQxAAAAAAAAdTEAAAAAAAAAAAAAdTEAAAAAAAB1MQAAAAAAAAQAAABUcnVldTEAAAAAAAB2MQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdDEAAAAAAAB4MQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert_completion",
+					{
+						"completion": "False",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "False"
+					},
+					"AgAAAHQxAAAAAAAAdDEAAAAAAAACAAAARmF0MQAAAAAAAHkxAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdjEAAAAAAAB2MQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AgAAAA41AAAAAAAADzUAAAAAAAAAAAAADzUAAAAAAAAPNQAAAAAAAAEAAAA1",
+					"AQAAAAAAAAABAAAADzUAAAAAAAAONQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAPotAAAAAAAA+y0AAAAAAAAAAAAA+y0AAAAAAAD/LQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+i0AAAAAAAD6LQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"paste",
+					null,
+					"AQAAAP8tAAAAAAAALS4AAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA/y0AAAAAAAD/LQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					6,
+					"left_delete",
+					null,
+					"BgAAABouAAAAAAAAGi4AAAAAAAABAAAAZRkuAAAAAAAAGS4AAAAAAAABAAAAZxguAAAAAAAAGC4AAAAAAAABAAAAchcuAAAAAAAAFy4AAAAAAAABAAAAYRYuAAAAAAAAFi4AAAAAAAABAAAAbBUuAAAAAAAAFS4AAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAGy4AAAAAAAAbLgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "-e"
+					},
+					"AgAAAEA1AAAAAAAAQTUAAAAAAAAAAAAAQTUAAAAAAABCNQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQDUAAAAAAABANQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": " 5000"
+					},
+					"BQAAAEI1AAAAAAAAQzUAAAAAAAAAAAAAQzUAAAAAAABENQAAAAAAAAAAAABENQAAAAAAAEU1AAAAAAAAAAAAAEU1AAAAAAAARjUAAAAAAAAAAAAARjUAAAAAAABHNQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQjUAAAAAAABCNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEc1AAAAAAAASDUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARzUAAAAAAABHNQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "5"
+					},
+					"AgAAADs1AAAAAAAAPDUAAAAAAAAAAAAAPDUAAAAAAAA8NQAAAAAAAAIAAAAxMA",
+					"AQAAAAAAAAABAAAAPTUAAAAAAAA7NQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"BAAAAOY7AAAAAAAA5zsAAAAAAAAAAAAAvjsAAAAAAAC/OwAAAAAAAAAAAACYOwAAAAAAAJk7AAAAAAAAAAAAAHE7AAAAAAAAcjsAAAAAAAAAAAAA",
+					"AQAAAAAAAAAEAAAAcTsAAAAAAABxOwAAAAAAAAAAAAAAAPC/mDsAAAAAAACYOwAAAAAAAAAAAAAAAPC/vjsAAAAAAAC+OwAAAAAAAAAAAAAAAPC/5jsAAAAAAADmOwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAANY0AAAAAAAA1zQAAAAAAAAAAAAA1zQAAAAAAADjNAAAAAAAAAAAAADjNAAAAAAAAOQ0AAAAAAAAAAAAAOQ0AAAAAAAA8DQAAAAAAAAAAAAA1zQAAAAAAADXNAAAAAAAAAwAAAAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAA1jQAAAAAAADWNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOA0AAAAAAAA4DQAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAA5DQAAAAAAADkNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"paste",
+					null,
+					"AQAAAOA0AAAAAAAA6DQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4DQAAAAAAADgNAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"paste",
+					null,
+					"AgAAAIEzAAAAAAAAhjMAAAAAAAAAAAAAhjMAAAAAAACGMwAAAAAAAAQAAABUcnVl",
+					"AQAAAAAAAAABAAAAgTMAAAAAAACFMwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "from flask import Flask, request, jsonify\nfrom transformers import GPT2LMHeadModel, GPT2Tokenizer,RobertaTokenizer,XLMRobertaTokenizer,AutoTokenizer, AutoModelForSeq2SeqLM,AutoConfig\nimport os\n\nos.environ['TRANSFORMERS_OFFLINE']='1'\n\napp = Flask(__name__)\n#tokenizer = GPT2Tokenizer.from_pretrained(\"/mnt/d/files/chatGPT/models/chatgpt_paraphraser_on_T5_base/\")\n#tokenizer = XLMRobertaTokenizer.from_pretrained('/mnt/d/files/chatGPT/models/chatgpt_paraphraser_on_T5_base')\n# Load model directly\n#model = GPT2LMHeadModel.from_pretrained('/mnt/d/files/chatGPT/models/ggml-gpt4all-j-v1.3-groovy.bin')\n\ntokenizer = AutoTokenizer.from_pretrained(\"Kaludi/chatgpt-gpt4-prompts-bart-large-cnn-samsum\")\nconfig = AutoConfig.from_pretrained('Kaludi/chatgpt-gpt4-prompts-bart-large-cnn-samsum')\n\nmodel = AutoModelForSeq2SeqLM.from_pretrained(\"Kaludi/chatgpt-gpt4-prompts-bart-large-cnn-samsum\",from_tf=True)\n\ntokenizer.save_pretrained('/mnt/d/files/chatGPT/models/chatgpt_paraphraser_on_T5_base/')\nconfig.save_pretrained('/mnt/d/files/chatGPT/models/chatgpt_paraphraser_on_T5_base/')\n\nmodel.eval()\n\n@app.route('/generate', methods=['POST'])\ndef generate():\n    data = request.get_json()\n    prompt = data['prompt']\n    length = data['length']\n    input_ids = tokenizer.encode(prompt, return_tensors='pt')\n    output = model.generate(input_ids, max_length=length, do_sample=True)\n    response = tokenizer.decode(output[0], skip_special_tokens=True)\n    return jsonify({'response': response})\n",
+			"file": "/D/files/chatGPT/chatGPT/app.py",
+			"file_size": 1479,
+			"file_write_time": 133375832939177666,
+			"settings":
+			{
+				"buffer_size": 1479,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKIAAAAAAAAAogAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAowAAAAAAAACjAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAKIAAAAAAAAAowAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN4AAAAAAAAA3gAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": "\""
+					},
+					"AQAAAN4AAAAAAAAA3wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "\n\n\n"
+					},
+					"AwAAAGEAAAAAAAAAYgAAAAAAAAAAAAAAYgAAAAAAAABjAAAAAAAAAAAAAABjAAAAAAAAAGQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BgAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": " os"
+					},
+					"AwAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert_completion",
+					{
+						"completion": "do_sample",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": false,
+						"trigger": "do_sample"
+					},
+					"AgAAAGkAAAAAAAAAaQAAAAAAAAACAAAAb3NpAAAAAAAAAHIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					9,
+					"left_delete",
+					null,
+					"CQAAAHEAAAAAAAAAcQAAAAAAAAABAAAAZXAAAAAAAAAAcAAAAAAAAAABAAAAbG8AAAAAAAAAbwAAAAAAAAABAAAAcG4AAAAAAAAAbgAAAAAAAAABAAAAbW0AAAAAAAAAbQAAAAAAAAABAAAAYWwAAAAAAAAAbAAAAAAAAAABAAAAc2sAAAAAAAAAawAAAAAAAAABAAAAX2oAAAAAAAAAagAAAAAAAAABAAAAb2kAAAAAAAAAaQAAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "s"
+					},
+					"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkAAAAAAAAAaQAAAAAAAAABAAAAcw",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "os"
+					},
+					"AgAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAGsAAAAAAAAAbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert_completion",
+					{
+						"completion": "import",
+						"format": "text",
+						"keep_prefix": false,
+						"must_insert": true,
+						"trigger": "import"
+					},
+					"AQAAAGwAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					7,
+					"left_delete",
+					null,
+					"BwAAAHEAAAAAAAAAcQAAAAAAAAABAAAAdHAAAAAAAAAAcAAAAAAAAAABAAAAcm8AAAAAAAAAbwAAAAAAAAABAAAAb24AAAAAAAAAbgAAAAAAAAABAAAAcG0AAAAAAAAAbQAAAAAAAAABAAAAbWwAAAAAAAAAbAAAAAAAAAABAAAAaWsAAAAAAAAAawAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"paste",
+					null,
+					"AQAAAG0AAAAAAAAAlAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQAAAAAAAABhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"paste",
+					null,
+					"AQAAAGIAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYgAAAAAAAABiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAACYBAAAAAAAAJwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJgEAAAAAAAAmAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"paste",
+					null,
+					"AQAAACcBAAAAAAAAYgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJwEAAAAAAAAnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAL4AAAAAAAAAvwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"paste",
+					null,
+					"AgAAAFYBAAAAAAAAkAEAAAAAAAAAAAAAkAEAAAAAAACQAQAAAAAAAAoAAABNb2RlbF9QYXRo",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABgAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					2,
+					"left_delete",
+					null,
+					"AgAAAKYAAAAAAAAApgAAAAAAAAABAAAACqUAAAAAAAAApQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAHIAAAAAAAAAcwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"paste",
+					null,
+					"AQAAAHMAAAAAAAAAhgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"paste",
+					null,
+					"AgAAAEYBAAAAAAAAWQEAAAAAAAAAAAAAWQEAAAAAAABZAQAAAAAAABAAAABSb2JlcnRhVG9rZW5pemVy",
+					"AQAAAAAAAAABAAAARgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKcBAAAAAAAAqAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwEAAAAAAACnAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"paste",
+					null,
+					"AQAAAKgBAAAAAAAAvgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqAEAAAAAAACoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAL4CAAAAAAAAvwIAAAAAAAAAAAAAvwIAAAAAAADAAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgIAAAAAAAC+AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAL4BAAAAAAAAvwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvgEAAAAAAAC+AQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					93,
+					1,
+					"cut",
+					null,
+					"AQAAANgBAAAAAAAA2AEAAAAAAAAkAAAAQXV0b1Rva2VuaXplciwgQXV0b01vZGVsRm9yU2VxMlNlcUxN",
+					"AQAAAAAAAAABAAAA/AEAAAAAAADYAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAIYAAAAAAAAAhwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhgAAAAAAAACGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"paste",
+					null,
+					"AQAAAIcAAAAAAAAAqwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhwAAAAAAAACHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					105,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOQBAAAAAAAA5AEAAAAAAAAaAAAAZnJvbSB0cmFuc2Zvcm1lcnMgaW1wb3J0IArjAQAAAAAAAOMBAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAA5AEAAAAAAAD+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					1,
+					"cut",
+					null,
+					"AQAAAOQBAAAAAAAA5AEAAAAAAADBAAAAdG9rZW5pemVyID0gQXV0b1Rva2VuaXplci5mcm9tX3ByZXRyYWluZWQoIkthbHVkaS9jaGF0Z3B0LWdwdDQtcHJvbXB0cy1iYXJ0LWxhcmdlLWNubi1zYW1zdW0iKQptb2RlbCA9IEF1dG9Nb2RlbEZvclNlcTJTZXFMTS5mcm9tX3ByZXRyYWluZWQoIkthbHVkaS9jaGF0Z3B0LWdwdDQtcHJvbXB0cy1iYXJ0LWxhcmdlLWNubi1zYW1zdW0iKQ",
+					"AQAAAAAAAAABAAAApQIAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					111,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAF8BAAAAAAAAYAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwEAAAAAAABfAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"paste",
+					null,
+					"AQAAAOUBAAAAAAAApgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QEAAAAAAADlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					121,
+					1,
+					"cut",
+					null,
+					"AQAAAKoCAAAAAAAAqgIAAAAAAABmAAAAbW9kZWwgPSBHUFQyTE1IZWFkTW9kZWwuZnJvbV9wcmV0cmFpbmVkKCcvbW50L2QvZmlsZXMvY2hhdEdQVC9tb2RlbHMvZ2dtbC1ncHQ0YWxsLWotdjEuMy1ncm9vdnkuYmluJykK",
+					"AQAAAAAAAAABAAAAqgIAAAAAAAAQAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					124,
+					1,
+					"paste",
+					null,
+					"AQAAAOQBAAAAAAAASgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					127,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAOQBAAAAAAAA5QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAAwDAAAAAAAADQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAMAAAAAAAAMAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					133,
+					1,
+					"paste",
+					null,
+					"AQAAAA0DAAAAAAAAGQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQMAAAAAAAANAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"paste",
+					null,
+					"AQAAABwDAAAAAAAAZAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHAMAAAAAAAAcAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					146,
+					1,
+					"paste",
+					null,
+					"AgAAADcDAAAAAAAAcQMAAAAAAAAAAAAAcQMAAAAAAABxAwAAAAAAAAgAAABZT1VSUEFUSA",
+					"AQAAAAAAAAABAAAANwMAAAAAAAA/AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					151,
+					1,
+					"paste",
+					null,
+					"AgAAAIwDAAAAAAAAxgMAAAAAAAAAAAAAxgMAAAAAAADGAwAAAAAAAAgAAABZT1VSUEFUSA",
+					"AQAAAAAAAAABAAAAjAMAAAAAAACUAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					152,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAMYDAAAAAAAAxwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxgMAAAAAAADGAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					155,
+					1,
+					"insert",
+					{
+						"characters": "/"
+					},
+					"AQAAAHEDAAAAAAAAcgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQMAAAAAAABxAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					162,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAANgDAAAAAAAA2QMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2AMAAAAAAADYAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					174,
+					1,
+					"paste",
+					null,
+					"AgAAAHUDAAAAAAAAegMAAAAAAAAAAAAAegMAAAAAAAB6AwAAAAAAAAYAAABjb25maWc",
+					"AQAAAAAAAAABAAAAdQMAAAAAAAB7AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					177,
+					1,
+					"insert",
+					{
+						"characters": ","
+					},
+					"AQAAAKsAAAAAAAAArAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					178,
+					1,
+					"paste",
+					null,
+					"AQAAAKwAAAAAAAAAtgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAAAAAAAAACsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					181,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALUCAAAAAAAAtgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtQIAAAAAAAC1AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					182,
+					1,
+					"paste",
+					null,
+					"AQAAALYCAAAAAAAA7gIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgIAAAAAAAC2AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					192,
+					1,
+					"paste",
+					null,
+					"AgAAANsCAAAAAAAADAMAAAAAAAAAAAAADAMAAAAAAAAMAwAAAAAAABAAAAB4bG0tcm9iZXJ0YS1iYXNl",
+					"AQAAAAAAAAABAAAA2wIAAAAAAADrAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					204,
+					1,
+					"paste",
+					null,
+					"AgAAANoDAAAAAAAA4AMAAAAAAAAAAAAA4AMAAAAAAADgAwAAAAAAAAUAAABtb2RlbA",
+					"AQAAAAAAAAABAAAA2gMAAAAAAADfAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "import requests\nurl = 'http://localhost:5000/generate'\ndata = {'prompt': 'Do you know density functional theory', 'length': 50}\nresponse = requests.post(url, json=data).json()\nprint(response['response'])",
+			"file": "/D/files/chatGPT/chatGPT/test.py",
+			"file_size": 207,
+			"file_write_time": 133375834954913563,
+			"settings":
+			{
+				"buffer_size": 203,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAuQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "Do"
+					},
+					"AwAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABLAAAAAAAAABMAAABIZWxsbywgaG93IGFyZSB5b3U/SwAAAAAAAABMAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " you"
+					},
+					"BAAAAEwAAAAAAAAATQAAAAAAAAAAAAAATQAAAAAAAABOAAAAAAAAAAAAAABOAAAAAAAAAE8AAAAAAAAAAAAAAE8AAAAAAAAAUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATAAAAAAAAABMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": " know"
+					},
+					"BQAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAABSAAAAAAAAAFMAAAAAAAAAAAAAAFMAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUAAAAAAAAABQAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " density"
+					},
+					"CAAAAFUAAAAAAAAAVgAAAAAAAAAAAAAAVgAAAAAAAABXAAAAAAAAAAAAAABXAAAAAAAAAFgAAAAAAAAAAAAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVQAAAAAAAABVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": " functional"
+					},
+					"CwAAAF0AAAAAAAAAXgAAAAAAAAAAAAAAXgAAAAAAAABfAAAAAAAAAAAAAABfAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAYQAAAAAAAAAAAAAAYQAAAAAAAABiAAAAAAAAAAAAAABiAAAAAAAAAGMAAAAAAAAAAAAAAGMAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABlAAAAAAAAAAAAAABlAAAAAAAAAGYAAAAAAAAAAAAAAGYAAAAAAAAAZwAAAAAAAAAAAAAAZwAAAAAAAABoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": " theory"
+					},
+					"BwAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAGsAAAAAAAAAbAAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAABtAAAAAAAAAG4AAAAAAAAAAAAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAAAAAAAAABoAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "#!/usr/bin/env python3\nfrom dotenv import load_dotenv\nfrom langchain.chains import RetrievalQA\nfrom langchain.embeddings import HuggingFaceEmbeddings\nfrom langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler\nfrom langchain.vectorstores import Chroma\nfrom langchain.llms import GPT4All, LlamaCpp\nimport os\nimport argparse\nimport time\n\nload_dotenv()\n\nembeddings_model_name = os.environ.get(\"EMBEDDINGS_MODEL_NAME\")\npersist_directory = os.environ.get('PERSIST_DIRECTORY')\n\nmodel_type = os.environ.get('MODEL_TYPE')\nmodel_path = os.environ.get('MODEL_PATH')\nmodel_n_ctx = os.environ.get('MODEL_N_CTX')\nmodel_n_batch = int(os.environ.get('MODEL_N_BATCH',8))\ntarget_source_chunks = int(os.environ.get('TARGET_SOURCE_CHUNKS',4))\n\nfrom constants import CHROMA_SETTINGS\n\ndef main():\n    # Parse the command line arguments\n    args = parse_arguments()\n    embeddings = HuggingFaceEmbeddings(model_name=embeddings_model_name)\n    db = Chroma(persist_directory=persist_directory, embedding_function=embeddings, client_settings=CHROMA_SETTINGS)\n    retriever = db.as_retriever(search_kwargs={\"k\": target_source_chunks})\n    # activate/deactivate the streaming StdOut callback for LLMs\n    callbacks = [] if args.mute_stream else [StreamingStdOutCallbackHandler()]\n    # Prepare the LLM\n    if model_type == \"LlamaCpp\":\n        #llm = LlamaCpp(model_path=model_path, n_ctx=model_n_ctx, callbacks=callbacks, verbose=False)\n\n        # https://github.com/imartinez/privateGPT/discussions/217\n        llm = LlamaCpp(model_path=model_path, n_ctx=model_n_ctx, callbacks=callbacks, verbose=False, n_gpu_layers=20)\n    elif model_type == \"GPT4All\":\n        llm = GPT4All(model=model_path, max_tokens=model_n_ctx, backend='gptj', callbacks=callbacks, verbose=False)\n    else:\n        print(f\"Model {model_type} not supported!\")\n        exit;\n        \n    qa = RetrievalQA.from_chain_type(llm=llm, chain_type=\"stuff\", retriever=retriever, return_source_documents= not args.hide_source)\n    # Interactive questions and answers\n    while True:\n        query = input(\"\\nEnter a query: \")\n        if query == \"exit\":\n            break\n        if query.strip() == \"\":\n            continue\n\n        # Get the answer from the chain\n        start = time.time()\n        res = qa(query)\n        answer, docs = res['result'], [] if args.hide_source else res['source_documents']\n        end = time.time()\n\n        # Print the result\n        print(\"\\n\\n> Question:\")\n        print(query)\n        print(f\"\\n> Answer (took {round(end - start, 2)} s.):\")\n        print(answer)\n\n        # Print the relevant sources used for the answer\n        for document in docs:\n            print(\"\\n> \" + document.metadata[\"source\"] + \":\")\n            print(document.page_content)\n\ndef parse_arguments():\n    parser = argparse.ArgumentParser(description='privateGPT: Ask questions to your documents without an internet connection, '\n                                                 'using the power of LLMs.')\n    parser.add_argument(\"--hide-source\", \"-S\", action='store_true',\n                        help='Use this flag to disable printing of source documents used for answers.')\n\n    parser.add_argument(\"--mute-stream\", \"-M\",\n                        action='store_true',\n                        help='Use this flag to disable the streaming StdOut callback for LLMs.')\n\n    return parser.parse_args()\n\n\nif __name__ == \"__main__\":\n    main()\n",
+			"file": "/D/files/chatGPT/privateGPT/privateGPT.py",
+			"file_size": 3413,
+			"file_write_time": 133375903495644761,
+			"settings":
+			{
+				"buffer_size": 3413,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AgAAABMFAAAAAAAAaQYAAAAAAAAAAAAAaQYAAAAAAABpBgAAAAAAACoCAABtYXRjaCBtb2RlbF90eXBlOgogICAgICAgIGNhc2UgIkxsYW1hQ3BwIjoKICAgICAgICAgICAgbGxtID0gTGxhbWFDcHAobW9kZWxfcGF0aD1tb2RlbF9wYXRoLCBtYXhfdG9rZW5zPW1vZGVsX25fY3R4LCBuX2JhdGNoPW1vZGVsX25fYmF0Y2gsIGNhbGxiYWNrcz1jYWxsYmFja3MsIHZlcmJvc2U9RmFsc2UpCiAgICAgICAgY2FzZSAiR1BUNEFsbCI6CiAgICAgICAgICAgIGxsbSA9IEdQVDRBbGwobW9kZWw9bW9kZWxfcGF0aCwgbWF4X3Rva2Vucz1tb2RlbF9uX2N0eCwgYmFja2VuZD0nZ3B0aicsIG5fYmF0Y2g9bW9kZWxfbl9iYXRjaCwgY2FsbGJhY2tzPWNhbGxiYWNrcywgdmVyYm9zZT1GYWxzZSkKICAgICAgICBjYXNlIF9kZWZhdWx0OgogICAgICAgICAgICAjIHJhaXNlIGV4Y2VwdGlvbiBpZiBtb2RlbF90eXBlIGlzIG5vdCBzdXBwb3J0ZWQKICAgICAgICAgICAgcmFpc2UgRXhjZXB0aW9uKGYiTW9kZWwgdHlwZSB7bW9kZWxfdHlwZX0gaXMgbm90IHN1cHBvcnRlZC4gUGxlYXNlIGNob29zZSBvbmUgb2YgdGhlIGZvbGxvd2luZzogTGxhbWFDcHAsIEdQVDRBbGwiKQ",
+					"AQAAAAAAAAABAAAAEwUAAAAAAAA9BwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"indent",
+					null,
+					"BQAAAJUFAAAAAAAAmQUAAAAAAAAAAAAAtwUAAAAAAAC7BQAAAAAAAAAAAAAqBgAAAAAAAC4GAAAAAAAAAAAAADQGAAAAAAAAOAYAAAAAAAAAAAAAbAYAAAAAAABwBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQYAAAAAAACVBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"paste",
+					null,
+					"AgAAAOMFAAAAAAAA7QUAAAAAAAAAAAAA7QUAAAAAAADtBQAAAAAAAAUAAABuX2N0eA",
+					"AQAAAAAAAAABAAAA4wUAAAAAAADoBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL8FAAAAAAAAvwUAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAwwUAAAAAAADDBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0GAAAAAAAAPQYAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAQQYAAAAAAABBBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEGAAAAAAAAcQYAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAdQYAAAAAAAB1BgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAACoGAAAAAAAAKwYAAAAAAAAAAAAAKwYAAAAAAAAzBgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKgYAAAAAAAAqBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"paste",
+					null,
+					"AQAAADMGAAAAAAAAngYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwYAAAAAAAAzBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAL8FAAAAAAAAwAUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwUAAAAAAAC/BQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"paste",
+					null,
+					"AQAAAJ4GAAAAAAAArwYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAngYAAAAAAACeBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAJQFAAAAAAAAlQUAAAAAAAAAAAAAlQUAAAAAAACdBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAUAAAAAAACUBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"paste",
+					null,
+					"AQAAAJ0FAAAAAAAA+QUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnQUAAAAAAACdBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAADgFAAAAAAAAOQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAUAAAAAAAA4BQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"cut",
+					null,
+					"AQAAAAQHAAAAAAAABAcAAAAAAAARAAAALCBuX2dwdV9sYXllcnM9MjA",
+					"AQAAAAAAAAABAAAABAcAAAAAAAAVBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"paste",
+					null,
+					"AQAAAPkFAAAAAAAACgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+QUAAAAAAAD5BQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"left_delete",
+					null,
+					"AQAAAC4GAAAAAAAALgYAAAAAAAB1AAAAICAgICAgICAjbGxtID0gR1BUNEFsbChtb2RlbD1tb2RlbF9wYXRoLCBtYXhfdG9rZW5zPW1vZGVsX25fY3R4LCBiYWNrZW5kPSdncHRqJywgY2FsbGJhY2tzPWNhbGxiYWNrcywgdmVyYm9zZT1GYWxzZSkK",
+					"AQAAAAAAAAABAAAALgYAAAAAAACjBgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "\n\n#"
+					},
+					"BgAAAJUFAAAAAAAAlgUAAAAAAAAAAAAAlgUAAAAAAACeBQAAAAAAAAAAAACeBQAAAAAAAJ8FAAAAAAAAAAAAAJ8FAAAAAAAApwUAAAAAAAAAAAAAlgUAAAAAAACWBQAAAAAAAAgAAAAgICAgICAgIJ8FAAAAAAAAoAUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlQUAAAAAAACVBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"paste",
+					null,
+					"AQAAAKAFAAAAAAAA1wUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAUAAAAAAACgBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAKAFAAAAAAAAoQUAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoAUAAAAAAACgBQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -277,15 +1220,19 @@
 	],
 	"file_history":
 	[
+		"/D/files/chatGPT/chatGPT/references.txt",
+		"/D/clouddrives/xk/notes.txt",
+		"/D/clouddrives/xk/one2one/xinqiang/proj1/out_dumbbell/ni_120_q_2.0_i_2/data.00.data",
+		"/C/Users/exian/AppData/Local/Temp/Rar$DIa192632.16376/config_991.inp.out",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubAbstractText.txt",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/wordcloud.csv",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/authors.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText2.txt",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubwordcloud.py",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubText.txt",
 		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
@@ -400,11 +1347,7 @@
 		"/D/files/chu/in/tops/12-Crown-4.itp",
 		"/D/files/chu/in/tops/acetylene.itp",
 		"/D/files/chu/in/oplsaa.ff/forcefield.itp",
-		"/D/files/Mira_2022/in/tops/topol.top",
-		"/D/files/Mira_2022/in/tops/forcefield_0.8.itp",
-		"/D/files/lisolvation/files/prepare_solvents.2.sh",
-		"/D/files/lisolvation/files/prepare_lisol.sh",
-		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/LAB/计算资源/孔宪老师集群.txt"
+		"/D/files/Mira_2022/in/tops/topol.top"
 	],
 	"find":
 	{
@@ -422,6 +1365,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Charge",
 			"font",
 			"collection",
 			"Citation",
@@ -529,6 +1473,129 @@
 		{
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13190,
+								13190
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6847.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/D/files/chatGPT/chatGPT/app.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1479,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								992,
+								992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/files/chatGPT/chatGPT/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								111,
+								111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/files/chatGPT/privateGPT/privateGPT.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1570,
+								1570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 58.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -578,7 +1645,7 @@
 	"project": "xian_homepage.sublime-project",
 	"replace":
 	{
-		"height": 52.8
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
