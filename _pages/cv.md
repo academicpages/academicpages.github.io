@@ -52,11 +52,11 @@ Skills
   * Python (rpy), Matlab, Fortran, C, C#, JavaScript
 * Toolkits
   * [trimesh](https://github.com/mikedh/trimesh), [geomdl](https://github.com/orbingol/NURBS-Python), [pyvista](https://github.com/pyvista/pyvista), [cg3lib](https://github.com/cg3hci/cg3lib), [BFF](https://github.com/GeometryCollective/boundary-first-flattening), [igl](https://github.com/libigl/libigl-python-bindings)
-* Softwares
+* Software
   * CAD: SpaceClaim, Siemens NX (UG), AutoCAD
   * CAE: Abaqus, Ansys, Hyperworks, Fenics, Comsol
   * CG: [MeshLab](https://github.com/cnr-isti-vclab/meshlab), Blender, UE5
-* Hardwares
+* Hardware
   * Arduino
 
 Publications
