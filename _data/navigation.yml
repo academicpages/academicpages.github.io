@@ -7,7 +7,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "LID Blog"
-    url: lid/blog/
+    url: /lid/blog/
 
     
 #  - title: "Publications"
