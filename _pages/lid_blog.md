@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<img src=images/lid_images/lid_main_pictures.png>
 
 ## LID impact and definition
 
