@@ -27,7 +27,7 @@ Some other technologies like CIS/CIGS actually benefit from this effect with a g
 
 <figure>
     <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_figures.PNG" width="100">
-    <figcaption> LID performance loss figures from litterature </figcaption>
+    <figcaption> LID performance loss figures from literature </figcaption>
 </figure>
 
 Degradation Mechanisms
@@ -47,7 +47,7 @@ the electron-hole trap effect from state B.
 
 <figure>
     <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_state.png" width="85">
-    <figcaption> LID performance losse figures from litterature </figcaption>
+    <figcaption> Performance as function of exposure time (Woodhouse et al., 2020) </figcaption>
 </figure>
 
 More precisely, the state B uninterruptedly switches through different atomic structures
@@ -57,8 +57,8 @@ quadratically dependant from the Boron and Oxygen concentrations respectively
 (Rabelo et al., 2021). 
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="70">
-    <figcaption> LID performance losse figures from litterature </figcaption>
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_mechanisms.png" width="100">
+    <figcaption> Boron-Oxygen chemical mechanisms according to (Du et al., 2005) </figcaption>
 </figure>
 
 The Light and elevated Temperature Induced Degradation (LeTID) is a variant of LID in
@@ -83,8 +83,8 @@ detrimental consequences might be the apparition of mismatches which trigger hot
 spots and accelerate ageing.
 
 <figure>
-    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/iv_tracer.png" width="100">
-    <figcaption> LID performance losse figures from litterature </figcaption>
+    <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/iv_tracer.png" width="75">
+    <figcaption> LID IV signature (da Silva et al., 2021) </figcaption>
 </figure>
 
 References
