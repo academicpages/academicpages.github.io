@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-09-20
 venue: 'Digital Journalism'
 paperurl: ''
-citation: 'Lee, S., & Peng, T. Q. (2022). Understanding Audience Behavior with Digital Traces: Past, Present, and Future. <i>Digital Journalism</i>.'
+citation: 'Lee, S., & Peng, T. Q. (2023). Understanding Audience Behavior with Digital Traces: Past, Present, and Future. <i>Digital Journalism</i>.'
 ---
 
 Abstract
