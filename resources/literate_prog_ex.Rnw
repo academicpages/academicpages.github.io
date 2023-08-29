@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage[T1]{fontenc}
+
+
+
+\begin{document}
+
+% first, declare the path where you keep your source code in R
+% Every time
+<<echo=FALSE, cache= F, warning = FALSE, message = F>>=
+read_chunk('/Users/username/.../lit_prog_ex.R')
+
+@
+
+
+Here I will call a chunk of code. Notice that it's empty. Unlike other approaches where the R code is in the LaTeX document, I call my code from R itself. This is easily done using a tag that's common between R and the RNW file.
+
+<<chunk:example, echo = FALSE, cache = FALSE>>=
+
+@
+
+
+
+\end{document}
