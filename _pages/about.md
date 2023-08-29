@@ -22,8 +22,9 @@ Today is weekend.
 
 Publications
 ======
-1. come soon!
-1. come soon!
+1. Song C, <B>Pan L</B>, Liu Q, et al. <B>Extreme learning machine under minimum information divergence criterion[J]</B>. IEEE Access, 2020, 8: 122026-122035.
+2. Song C, <B>Pan L</B>, Jiao Y, et al. <B>A high-performance transmitarray antenna with thin metasurface for 5G communication based on PSO (particle swarm optimization)[J]</B>. Sensors, 2020, 20(16): 4460.
+3. Zhu L, Song C, <B>Pan L</B>, et al. <B>Adaptive filtering under the maximum correntropy criterion with variable center[J]</B>. IEEE Access, 2019, 7: 105902-105908.
 
 
 <!-- #注释pursuing my master's degree in -->
