@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shivam Sharma"
+title                    : "Personal Web Page"
 title_separator          : "-"
 name                     : &name "Shivam Sharma"
 description              : &description "PhD student @ IIT Delhi | Technical Lead @ Wipro AI Research"
