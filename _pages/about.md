@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Home"
+excerpt: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,8 @@ My name is Le Lyu and you can call me Yoyo, I'm a second year student majoring i
 
 The primary focus of this website is to serve as a platform for me to record my thoughts, insights, and learning experiences. Through note-taking and reflections, I aim to solidify my understanding of various topics and concepts. I believe that the act of writing helps me internalize and retain knowledge effectively. 
 
-As an international student who student in both English and Chinese, while most of the content will be in English, there might be sections written in Chinese as well. As I continue to develop this website, I may explore adding multilingual support to ensure that all visitors can engage with the content seamlessly.
+### Languages
+As an international student who study in both English and Chinese, while most of the content will be in English, there might be sections written in Chinese as well. As I continue to develop this website, I may explore adding multilingual support to ensure that all visitors can engage with the content seamlessly.
 
 ## Connect with Me
 
@@ -27,25 +28,7 @@ You can connect with me on various platforms:
 - [Instagram](https://instagram.com/yoyolyuyuu)
 - [LeetCode](https://www.leetcode.com/lelyuyu)
 
-## Languages and Tools
-
-I'm proficient in several programming languages and tools, including:
-- C
-- CSS
-- Django
-- Flask
-- HTML
-- Java
-- Python
-- Qt
-- SQLite
-
-## Technical Achievements
-
-I've also made significant progress in my technical journey. Here's a glimpse of my recent achievements:
-- [LeetCode Stats](https://leetcode.com/lelyuyu): [Insert a short description here.]
-
-Thank you for visiting my website. If you have any questions, suggestions, or would like to get in touch, feel free to contact me at [Your Email Address].
+Thank you for visiting my website. If you have any questions, suggestions, or would like to get in touch, feel free to contact me at yuyulyu0730@gmail.com . 
 
 [Insert the image and table here.]
 
