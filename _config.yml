@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xiangde Luo"
-description              : &description "A 3rd-year PhD student at UESTC focuses on medical image computing and annotation-efficient learning."
+description              : &description "A 4th-year PhD student at UESTC focuses on medical image computing and annotation-efficient learning."
 url                      : https://Luoxd1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Luoxd1996/Luoxd1996.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangde Luo"
   avatar           : "luoxd.jpg"
-  bio              : "A 3rd-year PhD student at UESTC focuses on medical image computing and annotation-efficient learning."
+  bio              : "A 4th-year PhD student at UESTC focuses on medical image computing and annotation-efficient learning."
   location         : "Chengdu, Sichuan, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=dD4HLS4AAAAJ&hl=zh-CN"
