@@ -60,7 +60,3 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
     <img src="../images/building.jpg" alt="示例图片" width="1200" height="1200"> 
   </body> 
 </html>
-
-## Page views
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JuJBqn9dmJhvQ5JdHFWTCg8kZNZRsemr_RvPD9IKUgU"></script>
