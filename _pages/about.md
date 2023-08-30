@@ -62,4 +62,8 @@ At the heart of our research endeavor lies the profound exploration of thermodyn
 
 ## Page views
 
+<!--
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=JuJBqn9dmJhvQ5JdHFWTCg8kZNZRsemr_RvPD9IKUgU"></script>
+-->
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=JuJBqn9dmJhvQ5JdHFWTCg8kZNZRsemr_RvPD9IKUgU&cl=ffffff&w=a"></script>
