@@ -18,7 +18,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 <!-- <span style="font-size:14px;color: red;">*Interested in joining our research group? Please submit [this form](https://forms.gle/sSktghq1tGTkx9XA7), and consider directly applying to the VT graduate program and including me in your research statement. We will be reaching out to individuals that complete the form and we believe are a good fit. Due to email volume, responses to emails cannot be guaranteed.*</span> -->
 
 # News
-- **August, 2023:**  Excited to receive new DARPA ECOLE funding!
+- **August, 2023:**  Excited to receive new [DARPA ECOLE](https://www.darpa.mil/news-events/2023-07-18) funding as part of the STR team!
 - **May, 2023:** Received a [VT COE 2023 Dean's Award for Excellence](https://eng.vt.edu/about/faculty-awards-and-distinctions/deans-awards.html) as an Outstanding New Assistant Professor!
 - **March, 2023:** Joined the [NeurIPS 2023](https://neurips.cc/Conferences/2023/Committees) and IEEE BigData 2023 Organizing Committees as a Workshop co-Chair and a Vice Program Chair, respectively.
 - **March, 2023:** Invited talk at [UMass CIIR Talk Series](http://ciir.cs.umass.edu/talks).
