@@ -66,16 +66,6 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/ejoc_3.jpg"  width="200"/></p>
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSD 2023</div><img src='/images/ejoc_3.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[SinoLC-1: the first 1-meter resolution national-scale land-cover map of China created with the deep learning framework and open-access data **(SCI Q1 TOP, IF=11.4)**](https://essd.copernicus.org/preprints/essd-2023-87/)
-  
-[**Data download**](https://zenodo.org/record/8105314) - 102,080 Download.
-
-**Zhuohong Li**, Wei He, Mofan Cheng, Jingxin Hu, Guangyi Yang, Hongyan Zhang
-</div>
-</div>
-
 
 Education
 ======
