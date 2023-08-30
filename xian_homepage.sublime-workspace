@@ -277,11 +277,18 @@
 	],
 	"file_history":
 	[
+		"/D/files/Wen/out/opt_COOHtail/chgcons.TMCTEG1.txt",
+		"/D/files/Wen/in/opt_COOHtail/RESP.sh",
+		"/D/files/Wen/in/opt_COOHtail/RESP3.sh",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talkmap.html",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
+		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
+		"/D/clouddrives/OneDrive - 华南理工大学/SCUT/funding/history/NSFC2023/青年/评委意见.txt",
+		"/D/files/Wen/out/opt_COOHtail/chgcons.TMCEG1.txt",
 		"/G/files/chatGPT/install_privateGPT.txt",
 		"/G/files/chatGPT/privateGPT/privateGPT.py",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/home.md",
 		"/G/files/chatGPT/privateGPT/.env",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/D/files/Xiaoyun/mbuild/analyzeEnergyRandomPhase.py",
 		"/D/files/chatGPT/chatGPT/app.py",
 		"/D/files/chatGPT/chatGPT/test.py",
@@ -290,7 +297,6 @@
 		"/D/clouddrives/xk/notes.txt",
 		"/D/clouddrives/xk/one2one/xinqiang/proj1/out_dumbbell/ni_120_q_2.0_i_2/data.00.data",
 		"/C/Users/exian/AppData/Local/Temp/Rar$DIa192632.16376/config_991.inp.out",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/about.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubAbstractText.txt",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/wordcloud.csv",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
@@ -316,7 +322,6 @@
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_data/ui-text.yml",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/sitemap.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/non-menu-page.md",
-		"/D/clouddrives/KongLab/daily/xianshine.github.io/_pages/talkmap.html",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Polythiourea-Superionic-Conductors-for-Solid-State-Batteries.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Nanoscale-Confinement-Effects-on-Ionic-Conductivity-of-Solid-Polymer-Electrolytes-The-Interplay-between-Diffusion-and-Dissociation.md",
 		"/D/clouddrives/KongLab/daily/xianshine.github.io/_publications/2023-01-01-Microphase-Separation-in-Neutral-Homopolymer-Blends-Induced-by-Salt-Doping.md",
@@ -399,12 +404,7 @@
 		"/D/files/chu/in/oplsaa.ff/ions.itp",
 		"/D/files/chu/in/tops/POT.pdb",
 		"/D/files/chu/in/tops/PYI.itp",
-		"/D/files/chu/in/oplsaa.ff/ffnonbonded.itp",
-		"/D/files/chu/in/tops/topol.top",
-		"/C/Users/exian/AppData/Local/Temp/Temp1_PYI.zip/tmp/UNK_693BBC.itp",
-		"/D/files/chu/in/tops/diglyme.itp",
-		"/D/files/chu/in/tops/pyrrolidinone.itp",
-		"/D/files/Mira_2022/in/codes/prepareSystem.sh"
+		"/D/files/chu/in/oplsaa.ff/ffnonbonded.itp"
 	],
 	"find":
 	{
@@ -422,6 +422,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"break\\-all",
 			"Charge",
 			"font",
 			"collection",
@@ -499,6 +500,7 @@
 		"regex": true,
 		"replace_history":
 		[
+			"normal",
 			" ",
 			"PYI ",
 			"DIG ",
@@ -579,7 +581,7 @@
 	"project": "xian_homepage.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 73.6
 	},
 	"save_all_on_build": true,
 	"select_file":
