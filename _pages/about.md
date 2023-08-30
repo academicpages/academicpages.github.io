@@ -89,7 +89,8 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Adaptation of Large-scale Pre-trained Language Models (LLMs)
+
+* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models (LLMs)
 * [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
 * [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/) (Cover Article).
