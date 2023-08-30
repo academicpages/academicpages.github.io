@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Psychology, Universidad Nacional de Colombia, 2017
+* M.S. in Economics, Universidad del Rosario, 2022
 
 Work experience
 ======
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Diego Aycinena - Mariana Blanco
 
 * Fall 2015: Research Assistant
   * Github University
@@ -29,9 +28,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
+* Stata
+* Python
+  * Otree
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
