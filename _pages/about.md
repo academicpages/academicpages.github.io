@@ -65,17 +65,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> DOI:10.1002/ejoc.201901572
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/ejoc_3.jpg"  width="200"/></p>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
-<br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
-  <br>**_European Journal of Organic Chemistry_**, **2019**, _46_(12), 7596-7605
-  <br> DOI:10.1002/ejoc.201901572
-  <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
-</div>
-</div>
+  <div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="100%"></div>
 
 
 Education
