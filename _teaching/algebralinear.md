@@ -49,5 +49,7 @@ Listas de Exercícios
 
 [Lista 01](https://mbortoloti.github.io/files/linearalgebra/lista01.pdf)
 
+[Lista 02](https://mbortoloti.github.io/files/linearalgebra/lista02.pdf)
+
 
 
