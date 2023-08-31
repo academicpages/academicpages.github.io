@@ -44,7 +44,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> The 32nd International Joint Conference On Artificial Intelligence (**_IJCAI_** **2023**)
   <br> arXiv:2302.02591
   <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd>  <kbd><a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs">Github</a></kbd> 
-  <p style="margin-top: 2px;"><div class='paper-box-image'><div><div class="badge">IJCAI2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div></p>
+  <p style="margin-top: -2px;"><div class='paper-box-image'><div><div class="badge">IJCAI2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div></p>
 
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
