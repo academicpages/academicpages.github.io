@@ -302,8 +302,8 @@ The matrix $\mathbf{M}$ is called the "*residual maker*":
 
 Properties of the matrix M:
 
-  1. M is symmetric ($\mathbf{M}=\mathbf{M}'$)
-  2. M is idempotent ($\mathbf{M}=\mathbf{M}^2$)
+  1. M is symmetric 
+  2. M is idempotent
   3. $\mathbf{MX}=\mathbf{0}$ (why?)
   
 ### The Projection Matrix
