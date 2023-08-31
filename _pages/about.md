@@ -74,6 +74,6 @@ Professional Service
 ======
 
 Reviewer: <br/>
-&middot; IEEE TIP
-&middot; IEEE TNNLS
-&middot; IEEE TCSVT
+&middot; IEEE TIP <br/>
+&middot; IEEE TNNLS <br/>
+&middot; IEEE TCSVT <br/>
