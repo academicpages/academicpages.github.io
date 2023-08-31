@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 {% pdf "/files/CV-en-Wendong_Huo.pdf" %}
 <--
 Personal details
