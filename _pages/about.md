@@ -12,7 +12,7 @@ redirect_from:
 
 I am a senior research engineer at [Hyundai Motor Company](https://www.hyundai.com/worldwide/en/), South Korea. I received Ph.D. from Yonsei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 
-I am a computer vision fanatic and like the researches that could directly be applied to real-world problems. I am interested in a wide array of topics, ranging from low-level vision to high-level vision, and their connections to autonomous driving assistance systems. Recently, I'm concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation.
+I am interested in a wide array of topics, ranging from low-level vision to high-level vision, and their connections to autonomous driving assistance systems. Recently, I've concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation.
 
 
 
@@ -45,11 +45,25 @@ Technical Report
  <br/>
 
 
+Patents
+======
+
+
+&middot; 딥러닝 기반의 선형성을 갖는 노이즈 영상 제거 방법 및 장치<br/>
+KR 10-2095444, Mar. 2020. <br/>
+&middot; 자가 지도 학습을 이용한 딥러닝 기반 도로 영역 추정 장치 및 방법자가 지도 학습을 이용한 딥러닝 기반 도로 영역 추정 장치 및 방법<br/>
+KR 10-2097869, Mar. 2020. <br/>
+
+
+ <br/>
+ <br/>
+ 
+
 Invited Talks
 ======
 
-[NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021. <br/>
-[42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse Data”, 2021.
+&middot; [NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021. <br/>
+&middot; [42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse Data”, 2021.
 
 
  <br/>
@@ -59,4 +73,7 @@ Invited Talks
 Professional Service
 ======
 
-Reviewer: IEEE TIP, IEEE TNNLS, IEEE TCSVT
+Reviewer: <br/>
+&middot; IEEE TIP
+&middot; IEEE TNNLS
+&middot; IEEE TCSVT
