@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). I am advised by Drs. [Ahmer Arif](https://ahmerarif.com/), [Angela Smith](https://angeladrsmith.com/), and [Kenneth Fleischmann](https://www.ischool.utexas.edu/people/people-details?PersonID=220). 
+Hi! I am a second-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). 
+
+<!-- I am advised by Dr. [Angela Smith](https://angeladrsmith.com/). -->
 
 I have a background in data and learning sciences. My research interests are primarily focused on human-centered design and critical technical practice. I am currently studying how we might approach, understand, and respond to faith- and gender-based oppression in digital spaces and reimagine the design of digital spaces to encourage virtuous habits in online communities. In doing this work, I draw on theories of epistemic justice (Dr. Miranda Fricker), oppression (Dr. Kristie Dotson), resistance (Dr. José Medina), and decolonizing practices (Dr. Linda Tuhiwai Smith). 
 
