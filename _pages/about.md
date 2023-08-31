@@ -18,12 +18,13 @@ redirect_from:
 
 I am currently a Ph.D. student of the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received my Master's degree in Computer Science from University of Edinburgh (M.Sc. in Computer Science), under the supervision of [Dr. Elizabeth Polgreen](https://polgreen.github.io/). In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology). I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
-# Research Interest
+## Research Interest
+
 + AI for Science
 + Graph Neural Networks (GNNs)
 + Natural Language Processing (NLP) 
  
-# Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
@@ -67,7 +68,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
   <p style="margin-top: 3px;"><div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div>
 
-# Education
+## Education
 
 + <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;The Hong Kong Polytechnic University
@@ -86,7 +87,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Chien-Wei Chiang](https://scholar.google.com/citations?user=wItc-JoAAAAJ&hl=zh-TW) and [Prof. Aiwen Lei](http://aiwenlei.whu.edu.cn/lawsys/l/Aiwen_Lei/)
 
 
-# Working Experience
+## Working Experience
 
 + Research Assistant | <small>2022.10 - 2023.01</small> | <small>Hong Kong</small> 
  <br>Department of Computing, Hong Kong Polytechnic University
