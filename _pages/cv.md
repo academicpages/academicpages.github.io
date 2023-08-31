@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+{% pdf "/files/CV-en-Wendong_Huo.pdf" %}
+<--
 Personal details
 ======
 * Birth  11/24/1997
@@ -96,7 +97,7 @@ Miscellaneous
     * Chinese chess
     * Basketball and Jogging
     * Surface and shell
-    * Iverson and Jordan
+    * Iverson and Jordan -->
 
 
 <!-- 
