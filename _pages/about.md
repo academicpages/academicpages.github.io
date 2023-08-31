@@ -124,6 +124,20 @@ document.addEventListener("DOMContentLoaded", function() {
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
 <br>
 
+![](images/haojie_ijrr.png){: .align-right width="200px"}
+**Leveraging Symmetries in Pick and Place**  
+Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
+<br>
+
+![](images/hai_corl23.png){: .align-right width="200px"}
+**Equivariant Reinforcement Learning under Partial Observability**  
+Hai Huu Nguyen, Andrea Baisero, David Klee, **Dian Wang**, Robert Platt, Christopher Amato  
+*CoRL 2023, Atlanta, Georgia, USA*  
+<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=AnDDMQgM7-','_blank')">PDF</button>
+<br>
+
 ![](images/xupeng_ar.jpg){: .align-right width="200px"}
 **On Robot Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
@@ -160,6 +174,7 @@ Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters
 Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt  
 *ICRA 2023, London, UK*  
 <span style="color:DarkGray"><em>CoRL 2022 Workshop on Sim-to-Real Robot Learning</em></span>  
+<span style="color:DarkGray"><em>RSS 2023 Workshop on Symmetries in Robot Learning</em></span>  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/edge_grasp_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.00191.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://github.com/HaojHuang/Edge-Grasp-Network','_blank')">Code</button>
