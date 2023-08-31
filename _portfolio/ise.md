@@ -8,7 +8,6 @@ Why do countries talk about each other's human rights practices? What rhetorical
 
 ### News
 * Data collection for US shaming is at its final stage.
-* Network project is at its smoke-hunting stage.
 * We're recruiting undergraduate researchers for the '23-'24 AY on a semester basis! [Job Posting](https://j1wonkim.github.io/ad/)
 
 ## Team
