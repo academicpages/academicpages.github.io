@@ -37,9 +37,17 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> arXiv:2302.02591
   <br> \*Co-first author
-  <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>
-  <p style="margin-top: -2px;"><div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div></p>
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400">
+  <div class='paper-box-text' markdown="1">   
+    <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> 
+    
+    <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd>
+
+    <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd>
+    
+    <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>            
+  </div></div>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
