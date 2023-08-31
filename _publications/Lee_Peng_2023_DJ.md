@@ -5,7 +5,7 @@ permalink: /publication/Lee_Peng_2023_DJ
 excerpt: ''
 date: 2023-09-20
 venue: 'Digital Journalism'
-paperurl: ''
+paperurl: 'https://www.doi.org/10.1080/21670811.2023.2254821'
 citation: 'Lee, S., & Peng, T. Q. (2023). Understanding Audience Behavior with Digital Traces: Past, Present, and Future. <i>Digital Journalism</i>.'
 ---
 
