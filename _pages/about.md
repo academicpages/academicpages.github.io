@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a second-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). 
+Hi! I am a third-year doctoral student in [School of Information](https://ischool.utexas.edu/) at the [University of Texas at Austin](https://www.utexas.edu/). 
 
 <!-- I am advised by Dr. [Angela Smith](https://angeladrsmith.com/). -->
 
