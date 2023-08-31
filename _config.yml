@@ -84,7 +84,8 @@ author:
   avatar           : "images/IMG_9357.jpg"
   bio              : "Undergraduate Senior Majoring in Computer Science"
   location         : "Fort Myers, Florida"
-  employer         : "Old Dominion University"
+  employer         : 
+  university       : "Old Dominion University"
   pubmed           : 
   googlescholar    : 
   email            : "eland007@odu.edu"
