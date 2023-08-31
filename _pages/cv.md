@@ -26,15 +26,15 @@ Education
 Selected awards
 ======
 * Special Prize (teamwork, ranked 2nd out of 104 teams), International Engineering Mechanics Contest (Asian Region), 2019
-* Special Prize, Chinese Mechanics Competition (Anhui Province competition area), 2017
+* Special Prize, Chinese Mechanics Competition (Anhui Province Site), 2017
 * National Scholarship, Ministry of Education, 2018
 * Merit Student, Hefei University of Technology, 2018
 * 1st Prize, "EBSCO Cup" Literature Information Acquisition Competition, 2018
 * 2nd Prize (teamwork), Open-Source Industrial Software Integration Contest, 2023
 * 2nd Prize (personal), International Engineering Mechanics Contest (Asian Region), 2019
 * 3rd Prize, Chinese Mechanics Competition in Honour of Zhou Peiyuan, 2017
-* 3rd Prize, Chinese Mechanics Competition (Anhui Province competition area), 2018
-* 3rd Prize, Competition of Experimental Mechanics (Anhui Province competition area), 2017
+* 3rd Prize, Chinese Mechanics Competition (Anhui Province Site), 2018
+* 3rd Prize, Competition of Experimental Mechanics (Anhui Province Site), 2017
 
 
 Research areas
@@ -49,7 +49,7 @@ Skills
 * Numerical Methods
   * FEM, BEM, IGA
 * Programming languages
-  * Python (rpy), Matlab, Fortran, C, C#, JavaScript
+  * Python (rpy), Matlab, Fortran, C, C#, JavaScript, LaTEX
 * Toolkits
   * [trimesh](https://github.com/mikedh/trimesh), [geomdl](https://github.com/orbingol/NURBS-Python), [pyvista](https://github.com/pyvista/pyvista), [cg3lib](https://github.com/cg3hci/cg3lib), [BFF](https://github.com/GeometryCollective/boundary-first-flattening), [igl](https://github.com/libigl/libigl-python-bindings)
 * Software
