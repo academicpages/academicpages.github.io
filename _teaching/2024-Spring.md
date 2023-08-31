@@ -12,3 +12,4 @@ location: "In-person"
 
 Instructor
 
+Please contact me for the latest version of the syllabus.
