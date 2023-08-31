@@ -10,7 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0.  Lee, S., & Peng, T. Q. (2023). Understanding audience behavior with digital traces: Past, present, and future. *Digital Journalism*.
+0.  Lee, S., & Peng, T. Q. (2023). [Understanding audience behavior with digital traces: Past, present, and future](https://doi.org/10.1080/21670811.2023.2254821). *Digital Journalism*.
 0.  Xu, Y., & Peng, T. Q. (2023). [Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022](https://doi.org/10.1093/hcr/hqad028). *Human Communication Research*.
 0.	Zhou, Y. X., Peng, T. Q., & Zhu, J. J. H. (2023). Will time matter with cognitive load and retention in online news consumption? *Digital Journalism, 11*(1), 181-202. 
 0.  Yang, Y., Lin, C. A., Peng, T. Q., & Pierre, L. (2023). #MeToo: Intersecting gender, race, user identity, social judgment and social support. *The Journal of Social Media in Society, 12*(1), 348-370.
