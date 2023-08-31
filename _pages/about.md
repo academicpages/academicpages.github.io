@@ -32,6 +32,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
+  <br>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
@@ -40,6 +41,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>         
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>
+                <br>
 
 + [**Generative Diffusion Models on Graphs: Methods and Applications**](https://arxiv.org/abs/2302.02591)
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
@@ -48,6 +50,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd>  <kbd><a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs">Github</a></kbd> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
+                <br>
 
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
@@ -65,6 +68,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609">Website</a></kbd> <kbd><a href="/files/acs.orglett.1c00609.pdf">PDF</a></kbd>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
+                <br>
   
 + [**Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides**](https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572)
   <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
@@ -73,6 +77,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
+        
 
 ## Education
 
