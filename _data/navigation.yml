@@ -3,12 +3,9 @@ main:
   - title: "PhD Thesis"
     url: /phd/
 
-  - title: "CV"
-    url: /cv/
 
-
-#  - title: "Publications"
-#    url: /publications/
+  - title: "Research"
+    url: /research/
 
 #  - title: "Talks"
 #   url: /talks/    
@@ -24,3 +21,6 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+  - title: "CV"
+    url: /cv/

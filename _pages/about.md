@@ -22,13 +22,8 @@ On my spare time, I love adventuring in the mountains, breathing fresh air and e
 
 1. Born, raised and living in Grenoble, FRANCE.
 2. My desire of travelling and hiking led me to feel like an astronaut when climbing the Chachani Summit in Peru, 6000m in 2017.
-3. On a professional and personal levels, I cannot stop initiating and following long-term goals.
+3. As a kid, I dreamt about becoming judo world champion.
 
-
-## News
-
-- 2022 November. PV fault detection workshop at **DATASUN 2022**: <a href="https://github.com/AlexandreHugoMathieu/pvfault_detection">link</a>
-- 2022 September. One  poster accepted **Eurosun 2022**: <a href="https://www.researchgate.net/publication/365776464_FAILURE_RISK_ANALYSIS_OF_PHOTOVOLTAIC_SYSTEMS_BASED_ON_LITERATURE_REVIEW">Failure Risk Analysis of Photovoltaic Systems Based On Literature Review</a>
 
 ## Contact
 
