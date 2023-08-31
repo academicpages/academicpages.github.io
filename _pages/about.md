@@ -3,7 +3,6 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-classes: wide
 redirect_from: 
   - /about/
   - /about.html
@@ -66,7 +65,7 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
   <br> DOI:10.1002/ejoc.201901572
   <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
   <p style="margin-top: 5px;"><img src="/images/ejoc_3.jpg"  width="200"/></p>
-<!--   <div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="50%"></div> -->
+  <div class='paper-box-image'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div> 
 
 
 
