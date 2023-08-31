@@ -72,12 +72,10 @@ Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><i
 
 Education
 ======
-
 + <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;The Hong Kong Polytechnic University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
   
-
 + <img align="left" decoding="async" src="/images/uoe_log.png" width="9%">  &nbsp;&nbsp;&nbsp;MSc in Computer Science | <small>2021.09 - 2022.11</small>
 <br>&nbsp;&nbsp;&nbsp;University of Edinburgh
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
