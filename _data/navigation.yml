@@ -15,8 +15,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /files/Xinyi_Zhou_Resume.pdf
+#  - title: "CV"
+#    url: /files/Xinyi_Zhou_Resume.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
