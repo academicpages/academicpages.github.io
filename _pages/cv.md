@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<--{% include base_path %}-->
+{% include base_path %}
 
-{% pdf "/files/CV-en-Wendong_Huo.pdf" %}
+<--{% pdf "/files/CV-en-Wendong_Huo.pdf" %}-->
 <--
 Personal details
 ======
