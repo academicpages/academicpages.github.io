@@ -50,7 +50,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> arXiv:2302.02591
   <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd>  <kbd><a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs">Github</a></kbd> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
   <br>             
 
 + [**Improving User Controlled Table-To-Text Generation Robustness**](https://arxiv.org/abs/2302.09820)
@@ -59,7 +59,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> arXiv:2302.09820
   <br> <kbd><a href="https://arxiv.org/abs/2302.09820">arXiv</a></kbd> <kbd><a href="/files/T2TRobust.pdf">PDF</a></kbd> <kbd><a href="https://github.com/hanxuhu/controllT2Trobust">Code</a></kbd>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
   <br>              
 
 + [**Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides**](https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609)
