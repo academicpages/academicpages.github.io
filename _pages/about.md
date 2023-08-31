@@ -30,8 +30,8 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> arXiv:2307.02046
   <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd>
-  <p style="margin-top: -3px;"><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='/images/LLMs_tasks.png' alt="sym" width="400" style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));'></div></div></p>
+  <p style="margin-top: -3px;"><div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5));'><div><div class="badge">ArXiv</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div></p>
   
 + [**Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective**](https://arxiv.org/abs/2306.06615)
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
