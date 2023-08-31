@@ -330,7 +330,7 @@ draws from a population.
 \vfill
 
 Moreover, we assume
-\(E[\varepsilon_i|[\varepsilon_1, \cdots, \varepsilon_{i-1}, [\varepsilon_{i+1}, \cdots, [\varepsilon_n ]=0\).
+\(E[\varepsilon_i|\varepsilon_1, \cdots, \varepsilon_{i-1}, \varepsilon_{i+1}, \cdots, \varepsilon_n ]=0\).
 
 \vfill
 
@@ -521,10 +521,6 @@ the matrix
 must be positive definite.
 \end{frame}
 
-\begin{frame}{Example}
-\protect\hypertarget{example}{}
-\end{frame}
-
 \begin{frame}{Algebraic Aspects of the LS Solution}
 \protect\hypertarget{algebraic-aspects-of-the-ls-solution}{}
 We have
@@ -550,6 +546,262 @@ Denote the first row \(\mathbf{X}\) as
 \end{enumerate}
 
 \vfill
+\end{frame}
+
+\begin{frame}{Projection}
+\protect\hypertarget{projection}{}
+Recall the LS residuals: \[\mathbf{e}=\mathbf{y}-\mathbf{Xb}\]
+
+\vfill
+
+Inserting \(\mathbf{b}_0\), we have
+\[\mathbf{e}=\mathbf{y}-\mathbf{X}(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{y}=(\mathbf{I}-\mathbf{X}(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}')\mathbf{y}=\mathbf{M}\mathbf{y}\]
+
+\vfill
+
+The matrix \(\mathbf{M}\) is called the ``\emph{residual maker}'':
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/definition_3.1.png}
+\end{frame}
+
+\begin{frame}{The Residual Maker}
+\protect\hypertarget{the-residual-maker}{}
+Properties of the matrix M:
+
+\begin{enumerate}
+\tightlist
+\item
+  M is symmetric (\(\mathbf{M}=\mathbf{M}'\))
+\item
+  M is idempotent (\(\mathbf{M}=\mathbf{M}^2\))
+\item
+  \(\mathbf{MX}=\mathbf{0}\) (why?)
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{The Projection Matrix}
+\protect\hypertarget{the-projection-matrix}{}
+Now let
+\[\hat{\mathbf{y}}=\mathbf{y}-\mathbf{e}=\mathbf{I}\mathbf{y}-\mathbf{My}=(\mathbf{I}-\mathbf{M})\mathbf{y}\]
+
+\vfill
+
+Thus,
+
+\[\hat{\mathbf{y}}=\mathbf{X}(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{y}=\mathbf{Py}\]
+
+\vfill
+
+P is called a \emph{projection} matrix: If a vector \(\mathbf{y}\) is
+pre-multiplied by \(\mathbf{P}\), the result is the fitted values in the
+LS regression of \(\mathbf{y}\) on \(\mathbf{X}\).
+
+\vfill
+\end{frame}
+
+\begin{frame}{The Projection Matrix}
+\protect\hypertarget{the-projection-matrix-1}{}
+Properties of \(\mathbf{P}\):
+
+\begin{enumerate}
+\tightlist
+\item
+  \(\mathbf{P}\) is symmetric
+\item
+  \(\mathbf{P}\) is idempotent
+\item
+  \(\mathbf{P}\mathbf{X}=\mathbf{X}\)
+\end{enumerate}
+
+\vfill
+
+Moreover, notice that \(\mathbf{P}\) and \(\mathbf{M}\) are orthogonal:
+\(\mathbf{P}\mathbf{M}=\mathbf{M}\mathbf{P}=\mathbf{0}\)
+
+\vfill
+
+Therefore, the LS regression partitions the vector \(\mathbf{y}\) into
+two \textbf{orthogonal} parts:
+\[\mathbf{y}=\mathbf{P}\mathbf{y}+\mathbf{M}\mathbf{y}= \text{Projection}+\text{Residuals}\]
+\end{frame}
+
+\begin{frame}{}
+\protect\hypertarget{section-1}{}
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/figure_3.2.png}
+\end{frame}
+
+\hypertarget{partitioning-and-partial-regressions}{%
+\subsection{Partitioning and Partial
+Regressions}\label{partitioning-and-partial-regressions}}
+
+\begin{frame}{Partitioning and Partial Regressions}
+In some situations, we are only interested in a subset of the full set
+of variables in \(\mathbf{X}\). The remaining variables are added to the
+model as ``controls''.
+
+~~~~~~ Recall the returns to education example.
+
+\vfill
+
+Suppose we have
+
+\[\mathbf{y}=\mathbf{X}\mathbf{\beta}+\mathbf{\varepsilon}=\mathbf{X}_1\mathbf{\beta_1}+\mathbf{X}_2\mathbf{\beta}_2+\varepsilon\]
+
+How can we find the algebraic solution for \(\mathbf{b}_2\)? That is,
+what is the LS estimator of a given subset of parameters in
+\(\mathbf{\beta}\)?
+\end{frame}
+
+\begin{frame}{Partial Regressions}
+\protect\hypertarget{partial-regressions}{}
+Set up the \textbf{normal} equations:
+
+\[\begin{bmatrix} 
+    \mathbf{X}_1'\mathbf{X}_1 & \mathbf{X}_1'\mathbf{X}_2 \\
+    \mathbf{X}_2'\mathbf{X}_1 & \mathbf{X}_2'\mathbf{X}_2 \\
+    \end{bmatrix}
+%
+    \begin{bmatrix} 
+    \mathbf{b}_1   \\
+\mathbf{b}_2  \\
+    \end{bmatrix} = 
+%   
+    \begin{bmatrix} 
+    \mathbf{X}_1'\mathbf{y}   \\
+\mathbf{X}_2'\mathbf{y}  \\
+    \end{bmatrix}\]
+
+\vfill
+
+Solving the system above for \(\mathbf{b}_1\) yields
+
+\[\mathbf{b}_1=(\mathbf{X}_1'\mathbf{X}_1)^{-1}\mathbf{X}_1')(\mathbf{y}-\mathbf{X}_2\mathbf{b}_2)\]
+\end{frame}
+
+\begin{frame}{Partial Regressions}
+\protect\hypertarget{partial-regressions-1}{}
+Suppose that \(\mathbf{X}_1'\mathbf{X}_2=0\). (what does this mean?)
+
+\vfill
+
+For this special case, the theorem below states that \(\mathbf{b}_1\)
+can be obtained by regressing \(\mathbf{y}\) on \(\mathbf{X}_1\) only.
+Likewise, \(\mathbf{b}_2\) can be obtained by regressing \(\mathbf{y}\)
+on \(\mathbf{X}_2\) only.
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.1.png}
+\end{frame}
+
+\begin{frame}{The FWL Theorem}
+\protect\hypertarget{the-fwl-theorem}{}
+For the general case, in which \(\mathbf{X}_1\) and \(\mathbf{X}_2\)
+might not be orthogonal, the following theorem provides the more general
+solution:
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.2.png}
+\end{frame}
+
+\begin{frame}{The FWL Theorem}
+\protect\hypertarget{the-fwl-theorem-1}{}
+We can represent \(\mathbf{b}_2\) as
+\[\mathbf{b}_2=(\mathbf{X}_2^{*'}\mathbf{X}_2^{*})^{-1}\mathbf{X}_2^{*'}\mathbf{y}^{*}\]
+
+\vfill
+
+where \(\mathbf{X}_2^{*}=\mathbf{M}_1\mathbf{X}_2\) and
+\(\mathbf{y}^*=\mathbf{M}_1\mathbf{y}\).
+
+\vfill
+
+Two questions:
+
+\begin{enumerate}
+\tightlist
+\item
+  What is \(\mathbf{M}_1\mathbf{X}_2\)?
+\item
+  What is \(\mathbf{M}_1\mathbf{y}\)?
+\end{enumerate}
+
+\vfill
+\end{frame}
+
+\hypertarget{the-fwl-theorem-2}{%
+\subsection{The FWL Theorem}\label{the-fwl-theorem-2}}
+
+\begin{frame}{The FWL Theorem}
+A special case of the FWL theorem is when we are interested in the
+computation of a single coefficient.
+
+\vfill
+
+Consider the regression of \(\mathbf{y}\) on a set of variables
+\(\mathbf{X}\) and an additional variable \(z\). Denote the coefficients
+\(\mathbf{b}\) and \(c\), respectively.
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/corollary_3.2.1.png}
+\end{frame}
+
+\begin{frame}{The FWL Theorem}
+\protect\hypertarget{the-fwl-theorem-3}{}
+Example: Suppose we are interested again in the returns to education
+equation
+\[Income=\beta_1+\beta_2 educ + \beta_3 age + \beta_4 age^2+\varepsilon\]
+
+\vfill
+
+To find \(b_1\):
+
+\begin{enumerate}
+\tightlist
+\item
+  Regress \(Income\) on \(age\) and \(age^2\) and obtain residuals
+  \(r_1\)
+\item
+  Regress \(educ\) on \(age\) and \(age^2\) and obtain residuals \(r_2\)
+\item
+  Regress \(r_1\) on \(r_2\) and find slope coefficient \(b_1\).
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Regression with a constant term}
+\protect\hypertarget{regression-with-a-constant-term}{}
+Consider now the partition in which \(\mathbf{X}_1=\mathbf{i}\) and
+\(\mathbf{X}_2\) is the set of variables in the regression.
+
+\vfill
+
+Take a given column \(\mathbf{x}\) of \(\mathbf{X}_2\). According to the
+FWL theorem,
+
+\[\mathbf{x}^*=\mathbf{M}_1\mathbf{x}\] \vfill
+
+This yields
+
+\[\mathbf{x}^*=\mathbf{x}-\mathbf{i}\mathbf{\bar{x}}\] \vfill
+\end{frame}
+
+\begin{frame}{Regression with a constant term}
+\protect\hypertarget{regression-with-a-constant-term-1}{}
+The result above says that the residuals in the regression of the
+columns of \(\mathbf{X}_2\) on a constant term are deviations from the
+sample mean.
+
+\vfill
+
+Therefore, each column of \(\mathbf{M}_1\mathbf{X}_2\) is the original
+variable, now in the form of deviations from the mean. This general
+result is summarized in the following corollary.
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/corollary_3.2.2.png}
 \end{frame}
 
 
