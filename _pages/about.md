@@ -12,12 +12,18 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a senior student at Communication Engineering Elite Class in Beijing University of Posts and Telecommunications(BUPT), I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). My research interests include Computer Vision, Semantic Communication and Multimodality.
+I'm a senior student at School of information and communication engineering 'elite class' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got National Inspirational Scholarship, outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, Semantic Communication and Multimodality.
+
+<!-- I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). -->
 
 
 <!-- Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Moreover, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://db.hit.edu.cn/) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang). I also did research with [Prof. Jia Li](https://sites.google.com/view/lijia) and [Dr. Yu Rong](https://hk.linkedin.com/in/royrong). -->
 
 Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
+
+# Education
+School of information and communication engineering
+
 
 # News
 - \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by [Prof. Xiaoguang Han](https://gaplab.cuhk.edu.cn/). My research interets and fields are AIGC and 3D generation.
