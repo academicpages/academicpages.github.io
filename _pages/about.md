@@ -17,5 +17,5 @@ I obtained my B.sc. in Statistics at the University of Bologna, where I was supe
 
 # Research Interest:
 *  **Cluster analysis** both from a theory and practical point of view
-* **Statistical Learning theory**
+* **Statistical Learning theory and Decision Making** 
 * **Bayesian Nonparametric Statistics** 
