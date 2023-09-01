@@ -16,6 +16,7 @@ Education
   * Grade: 110/110 cum laude. Supervisor: Stefano Favaro
 * Master in Statistics and Applied Mathematics, [Collegio Carlo Alberto](https://www.carloalberto.org), Torino, 2021-2023.
   * Grade: Special Mention. Supervisor: Stefano Favaro
+* Summer School in Regularization Methods for Machine Learning by Prof. Lorenzo Rosasco, Genova, 2021
 * B.S. in Statistic curriculum "Stats&Maths", University of Bologna, 2021.
   * Grade: 110/110 cum laude. Supervisor: Christian Hennig
 
