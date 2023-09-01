@@ -26,7 +26,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 <img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
 
 **Beijing University of Posts and Telecommunications**(2020.09-2024.06)
-
 - **B.E.** in School of Information and Communication Engineering
 
 <br>
@@ -34,7 +33,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 <img src="https://staymylove.github.io/images/zidonghua.png" style="height: 80px; width: 80px" align="left">
 
 **Institute of Automation, Chinese Academy of Sciences**(2023.03-2023.06)
-
 - **Research Assistant**
 
 <br>
@@ -42,7 +40,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 <img src="https://staymylove.github.io/images/jisuansuo.png" style="height: 80px; width: 80px" align="left">
 
 **Institute of Computing Technology, Chinese Academy of Sciences**(2023.06-2023.09)
-
 - **Research Assistant**
 
 <br>
@@ -50,7 +47,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 <img src="https://staymylove.github.io/images/cuhk.png" style="height: 80px; width: 80px" align="left">
 
 **The Chinese University of HongKong, ShenZhen**(2023.08- NOW)
-
 - **Visit Student & Research Assistant**
 
    
