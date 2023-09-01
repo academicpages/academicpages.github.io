@@ -6,11 +6,22 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+
+# title                    : "Your Name / Site Title"
+# title_separator          : "-"
+name                     : &name "Yuyan Pan (潘芋燕)"
+bio                      : "Beijing University of Technology"
+description              : &description "Traffic Flow Theories, Machine Learning, Traffic Big Data Analytics"
+locale                   : "Beijing, China"
+avatar                   : "panyuyan.png"
+email                    : "yuyananniepan@gmail.com"
+Linkedln                 : #"https://www.linkedin.com/in/yuyan-annie-pan-30448a244/"
+Github                   : #"https://github.com/panyuyan"
+ORCID                    : #"https://orcid.org/0000-0003-1607-7179"
+Google Scholar           : #"https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN"
+
+
+
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
