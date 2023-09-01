@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find full list of my publications on [Google Scholar profile.](https://scholar.google.com/citations?user=iVs_vmIAAAAJ)
 
-* Adimari, G., To. D. K., Chiogna, M., Scatozza, F. and Facchiano, A. (2023). Likelihood-type confidence regions for optimal sensitivity and specificity of a diagnostic test. *Computational Statistics and Data Analysis*. Accepted.
+* Adimari, G., To. D. K., Chiogna, M., Scatozza, F. and Facchiano, A. (2023). Likelihood-type confidence regions for optimal sensitivity and specificity of a diagnostic test. *Computational Statistics and Data Analysis*. In press. [DOI: 10.1016/j.csda.2023.107840](https://doi.org/10.1016/j.csda.2022.107434)
 
 * To. D. K., Adimari, G., and Chiogna, M. (2023). ClusROC: An R package for ROC analysis in three-class classification problems for clustered data. *The R Journal*. In press.
 
