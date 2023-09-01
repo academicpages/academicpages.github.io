@@ -4,7 +4,7 @@ layout: default
 
 {% include base_path %}
 
-{% if (page.header.overlay_color or page.header.overlay_image) or page.header.image %}
+{% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
 
