@@ -10,7 +10,7 @@ redirect_from:
 
 # News
 
-   I am doing a PostDoc with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE (my office is 3012). Thiss post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
+   I am doing a PostDoc with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE (my office is 3012). This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
    
 # Papers, preprints, and software
 
