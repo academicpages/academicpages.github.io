@@ -22,7 +22,34 @@ I'm a senior student at School of information and communication engineering 'eli
 Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 
 # Education
-School of information and communication engineering
+
+<p>
+<img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width:80px" align="left">
+   Beijing University of Posts and Telecommunications
+
+2020.09-2024.06
+**B.E.** in School of information and communication engineering
+
+<p/>
+
+
+<p>
+  <img src="https://staymylove.github.io/images/zidonghua.png" style="height: 80px; width:80px" align="left">
+  Institute of Automation, Chinese Academy of Sciences
+
+  
+  2023.03-2023.06
+  **Research Assistant**
+<p/>
+
+
+
+  <img src="https://staymylove.github.io/images/jisuansuo.png" style="height: 80px; width:80px" align="left">
+   Institute of Computing Technology, Chinese Academy of Sciences
+   
+   2023.06-2023.09          **Research Assistant**
+
+
 
 
 # News
