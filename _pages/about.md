@@ -84,15 +84,15 @@ Skills
 ------
 **•	Programming**
 
-  •	Python, GAMS, OSM2GMNS, Path4GMNS
+  •	 Python, GAMS, OSM2GMNS, Path4GMNS
 
 **•	Simulation**
 
-  •	DTALite, VISSIM, TransCAD, Anylogic
+  •	 DTALite, VISSIM, TransCAD, Anylogic
 
 **•	Statistics**
 
-  •	SPSS, SQL, Zotero
+  •	 SPSS, SQL, Zotero
 
 **•	Visualization**
 
@@ -100,7 +100,7 @@ Skills
 
 **•	Language**
 
-  •	Mandarin, English (CET-6)
+  • 	Mandarin, English (CET-6)
 
 
 
