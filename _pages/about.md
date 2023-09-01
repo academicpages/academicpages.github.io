@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Computer Science in the [Khoury College of Computer Sc
 
 Prior to the Ph.D. program, I received my Master's degree in Computer Science from [Northeastern University](https://www.northeastern.edu) and my Bachelor's degree in Computer Science and Technology from [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
-Email: wang dot dian at northeastern dot edu
+Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.io/CV/dian_wang_cv.pdf).
 
 ## News
 <style>
@@ -297,10 +297,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 
 ## Service
 Organizer: RSS2023 Workshop on Symmetries in Robot Learning  
-Reviewer: ICRA2023, CoRL2022, RAL2022, T-RO2022, ICRA2022, IROS2021, ICRA2019
-
-## CV
-Please see my CV [here](https://pointw.github.io/CV/dian_wang_cv.pdf).
+Reviewer: NeurIPS 2023. ICRA 2023, 2022, 2019. CoRL 2023, 2022. IROS 2023, 2021. RAL 2023, 2022. T-RO 2022.
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
