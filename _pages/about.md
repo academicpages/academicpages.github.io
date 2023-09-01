@@ -10,7 +10,7 @@ redirect_from:
 
 # News
 
-   I am doing a postdoc at INRIA with [Frederic Chazal](https://geometrica.saclay.inria.fr/team/Fred.Chazal/) in the Laboratoire de Mathématiques d'Orsay (my office is 3G3). I have received a Hadamard postdoc fellowship to work with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE starting September 2023.
+   I am doing a PostDoc with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE (my office is 3012). Thiss post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
    
 # Papers, preprints, and software
 
@@ -32,13 +32,15 @@ R package [gsbm](https://cran.r-project.org/web/packages/gsbm/index.html) (2020)
 
 # Talks
 
+**The price of unfairness in linear bandits with biased feedback**, July 27th, 2023, ELLIS unConference, HEC, Jouy-en-Josas.
+
 **Linear Bandits**, June 8th 2023, Ascai seminar, online.
 
 **Introduction to Algorithmic Fairness**, June 2023, mini-courses for the DataShape seminar, Porquerolles.
 
 **The price of unfairness in linear bandits with biased feedback**, May 17th, 2022, workshop "Re-thinking High-dimensional Mathematical Statistics", Mathematisches Forschungsinstitut Oberwolfach, Oberwolfach.
 
-**The price of unfairness in linear bandits with biased feedback**, March 22, 2022, GT Celeste, Laboratoire de Mathématiques, Orsay.
+**The price of unfairness in linear bandits with biased feedback**, March 22nd, 2022, GT Celeste, Laboratoire de Mathématiques, Orsay.
 
 **An Introduction to Continuum-armed Bandits with extension to the finite setting**, Novembre 23rd, 2021, Institut für Mathematik, Potsdam.
 
