@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
-------
 I am a 3rd year PhD in Economics student at [Univeristy of California San Diego](https://economics.ucsd.edu). 
 
 
