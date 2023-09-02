@@ -12,4 +12,4 @@ author_profile: true
 {% endfor %}
 
 ## Teaching Assistant (TA)
-**2021 - PUC-Rio.** Microeconomics I (undergraduated), Prof. Juliano Assunção
+**2021 - PUC-Rio.** Microeconomics I (undergraduate), Prof. Juliano Assunção
