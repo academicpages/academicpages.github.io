@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "DU Linhan"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate in Tsinghua University"
+  bio              : "Ph.D. candidate, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
