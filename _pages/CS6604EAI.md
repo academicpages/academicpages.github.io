@@ -12,7 +12,7 @@ author_profile: true
 
 🏫 Meeting time: Tuesdays and Thursdays, 9:30 AM - 10:45 AM EST, McBryde Hall 232 and [Zoom](https://virginiatech.zoom.us/j/83632738882)
 
-🕦 Office hours:  Tuesdays and Thursdays, 11:00 AM - 12:00 PM EST, [Zoom](https://virginiatech.zoom.us/j/87481223897)
+🕦 Office hours:  Tuesdays 11:00 AM - 12:00 PM EST, [Zoom](https://virginiatech.zoom.us/j/87481223897)
 
 📚 [Reading List](/readings)
 
