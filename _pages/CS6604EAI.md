@@ -46,7 +46,7 @@ Key topics covered in the course include:
 
 ## Presentation Roles
 This seminar is organized around the different "roles" students play each week, that define the lens through which students read the paper.
-Students will be divided into four groups, two groups presenting on Tuesdays and the other two on Thursdays. 
+Students will be divided into two groups, one group presenting on Tuesdays and the other on Thursdays. 
 In a given class session, students in the presenting groups will each be given a rotating role (described below):
 Presenter (two students), Reviewer, Archaeologist, Researcher, Industry Expert, and Blogger OR Hacker (pick one).
 Presenting groups should create a formal presentation, i.e., have slides prepared for the group in-class discussion.
@@ -61,12 +61,12 @@ For each student in a presenting group, their assigned role determines what they
   - **Archaeologist:** Determine where this paper sits in the context of previous and subsequent work. Find and report on one older paper that has substantially influenced the current paper and one newer paper citing this current paper.
   - **Researcher:** Propose an imaginary follow-up project that has now become possible due to the existence and success of the current paper.
   - **Industry Expert:** Propose a new application or company product for the method in the paper (not already discussed in class), and discuss at least one positive and negative impact of this application. Convince your industry boss that it's worth investing time and money to implement this paper. Your arguments should be particularly applicable to the chosen industry market.
-  - **Hacker (optional between two choices):** <span style="color:Green">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Implement a small part of the paper on a small dataset or toy problem, or any other simplified version of the paper. Another valid and useful option is to try to reproduce results from the paper, either by downloading and running an existing implementation (with proper credit given to the code sources) or by implementing a core method from the paper. Share a Jupyter Notebook with the code of the algorithm with the class. Your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.). 
+  - **Hacker (optional between two choices):** <span style="color:Green">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Implement a small part of the paper on a small dataset, a toy problem, or any other simplified version of the paper. Another valid and useful option is to try to reproduce results from the paper, either by downloading and running an existing implementation (with proper credit given to the code sources) or by implementing a core method from the paper. Share a Jupyter Notebook with the code of the algorithm with the class. Your code does not have to be bug-free or run perfectly in all scenarios. Also, you are welcome to use (and give credit to) an existing implementation for "backbone" code (e.g. model building, data loading, training loop, etc.). 
   - **Blogger (optional between two choices):** <span style="color:Green">This role is **optional**, i.e., students can declare if they would like to be a Hacker or a Blogger</span>.  Write a paragraph each about the two papers and an additional paragraph comparing and contrasting them. The summary of each paper should cover the motivation behind the paper, a description of any of the proposed methods, and an overview of the key findings. Include visual aids such as figures, charts, or graphs to illustrate key points. Explain how these papers relate to one another within the broader context of their shared theme. Explore how these papers may complement, challenge, or build upon one another. Provide links or references to additional resources that complement your blog. This could include related research articles, videos, or online discussions. Your insights should reflect critical thinking, encouraging discussion within the class. Think about how your blog can be useful and interesting to an actual online reader. 
 
 **Non-presenter assignment**:
 - If you are not in the presenting group during a class session, please submit **the day before class (due 11:59pm EST)** at least one question about either paper - could be something you're confused about or something you'd like to hear discussed more. Questions that open debates and make in-class discussions explore different viewpoints are a plus.  
-- After class **and before the end of the day 11:59pm EST**, provide constructive feedback to each of the presenting groups. You may focus on one or more reading roles, or on the presentation holistically. Evaluate the clarity of the presentation, the strength of the arguments, and the quality of visuals, if any. Highlighting strengths and areas for improvement. This feedback will be shared post each presentation.
+- After class **and before the end of the day 11:59pm EST**, provide constructive feedback to the presenting group. You may focus on one or more reading roles, or on the presentation holistically. Evaluate the clarity of the presentation, the strength of the arguments, and the quality of visuals, if any. Highlighting strengths and areas for improvement. This feedback will be shared post each presentation.
 
 **Everyone, every week (Optional)**: After each class session, you may post your thoughts on Piazza, for example, which parts did you enjoy reading, what results and insights did you find interesting, a missing result the paper could have included, any useful additional links and resources, etc. Whenever you agree with the comments of a student's post, make sure to endorse their answer. You can also post a reply with your additional thoughts.
  
@@ -103,22 +103,22 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>2</td>
             <td>Thursday, August 24</td>
-            <td>Building Blocks in Perception and Planning (Instructor)</td>
+            <td>Building Blocks in Perception (Instructor)</td>
         </tr>
         <tr>
             <td>3</td>
             <td>Tuesday, August 29</td>
-            <td>Building Blocks in Perception and Planning (Instructor)</td>
+            <td>Building Blocks in Planning (Instructor)</td>
         </tr>
         <tr>
             <td>4</td>
             <td>Thursday, August 31</td>
-            <td>Benchmarks: Simulators, Environments, Datasets</td>
+            <td>Episodic Transformer, Intro to Simulators (Instructor)</td>
         </tr>
         <tr>
             <td>5</td>
             <td>Tuesday, September 5</td>
-            <td>Benchmarks: Simulators, Environments, Datasets</td>
+            <td>Benchmarks: Simulators, Environments, Datasets </br> <b>ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</b> <a href="https://arxiv.org/abs/2206.06994">📚</a> <a href="https://procthor.allenai.org/">🌍</a></td>
         </tr>
         <tr>
             <td>6</td>
@@ -133,7 +133,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr>
             <td>8</td>
             <td>Thursday, September 14</td>
-            <td></td>
+            <td>Benchmarks: Simulators, Environments, Datasets</td>
         </tr>
         <tr>
             <td>9</td>
@@ -273,7 +273,7 @@ If you miss a non-presenting assignment, you'll get a zero for that session.
 Final project presentations cannot be postponed, as they are scheduled in the course's last few sessions and students need to present at their assigned timeslot. You are welcome to switch your timeslot with another group, but you are responsible for making such arrangements.
 Other materials, such as the final project submission and report are negotiable, based on the severity of the request, e.g., medical reasons. 
 
-At any time during the course, if you are facing any difficulties to meet the course deliverables or would like to discuss any concerns, 
+At any time during the course, if you are facing any difficulties in meeting the course deliverables or would like to discuss any concerns, 
 you are welcome to contact me over email, [Slack](cs-vt.slack.com), or Piazza. 
 Students can also submit anonymous feedback to this [link](https://tinyurl.com/CS6604EAIFeedback). 
 Students seeking special accommodations based on disabilities should contact me and also 
