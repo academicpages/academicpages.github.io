@@ -13,8 +13,8 @@ Manuscripts
 3. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Bhatt E, (2023) Student-led mentoring system to lower barriers for graduate school applications (accepted at *Oceanography*)
 4. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths. *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023PA004674)
 5. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow. *Geophysical Research Letters* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103906)
-6. Zhou Y, McManus J F, Jacobel AW, Costa KM, **Wang S**, & Caraveo B A (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. Earth and Planetary Science Letters, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
-7. Pavia FJ, **Wang S**, Middleton J, Murray RW, & Anderson RF (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. Paleoceanography and Paleoclimatology, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
+6. Zhou Y, McManus J F, Jacobel AW, Costa KM, **Wang S**, & Caraveo B A (2021). Enhanced iceberg discharge in the western North Atlantic during all Heinrich events of the last glaciation. *Earth and Planetary Science Letters*, 564, 116910. [Reprint](https://www.sciencedirect.com/science/article/abs/pii/S0012821X21001692)
+7. Pavia FJ, **Wang S**, Middleton J, Murray RW, & Anderson RF (2021). Trace Metal Evidence for Deglacial Ventilation of the Abyssal Pacific and Southern Oceans. *Paleoceanography and Paleoclimatology*, 36(9), e2021PA004226. [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004226)
 
 
 Presentations
