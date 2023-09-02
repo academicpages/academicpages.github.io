@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<span style="font-size: 20px;">[Curriculum Vitae](files/academic_CV_Gabriel_de_Campos.pdf)</span>
+<span style="font-size: 20px;">[Curriculum Vitae](https://gacamposgs.github.io/files/academic_CV_Gabriel_de_Campos.pdf)</span>
