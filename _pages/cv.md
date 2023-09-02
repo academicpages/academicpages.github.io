@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of California San Diego, 2027 (expected)
+* M.A. in Economics, Central European University, 2021
+* B.A. in Economics, Nazarbayev University, 2019
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Research areas
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Behavioral and Experimental Economics, Applied Microeconomics
 
-Publications
+References 
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [Emanuel Vespa](https://sites.google.com/site/emanuelvespa/), UC San Diego 
+* [Isabel Trevino](https://econweb.ucsd.edu/~itrevino/), UC San Diego
+* [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/), UC San Diego
+* [Prashant Bharadwaj](https://prbharadwaj.wordpress.com), UC San Diego
+
+Honors, scholarships and fellowships
+======
+* UC-Mexico Alianza Short-Term Research Stay in Mexico (USD 3,800), 2023-2024
+* The Weiss Fund for Research in Development Economics (USD 3,330), 2022-2023
+* Institute for Humane Studies - Conference Accelerator Grant (USD 2,000), 2022-2023
+* Summer Research Fellowship (USD 8,000), 2022-2023 
+* Regents Fellowship (USD 18,000), 2021-2022
+* Peter Hangartner Prize and Fellowship (EUR 5,200)- awarded to one student in MA program, 2020-2021
+* Foundation of Budapest Research Grant (EUR 1,200), 2021
+* Outstanding Student in Economics - awarded to 1-3 students in BA program, 2019
   
-Talks
+Research experience
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Summer Graduate Research with Emanuel Vespa, UC San Diego, 2023
+* Summer Graduate Research with Isabel Trevino, UC San Diego, 2022
+* Research Assistant for Marc Kaufmann, Central European University, 2020
+* Research Assistant for Giulio Seccia, Nazarbayev University, 2018
+
+Teaching experience
+======
+* Econometrics B (1st year PhD course), Behavioral Economics (Econ 142), Game Theory (Econ 109), Microeconomics B (Econ 100B)
   
-Teaching
+
+Personal
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+United States F-1 Visa, Kazakhstan citizenship
+
