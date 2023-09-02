@@ -8,6 +8,8 @@ permalink: /research/
 
 ## Research
 
+[Google Scholar Page](https://scholar.google.com/citations?hl=en&user=FO90FgMAAAAJ&view_op=list_works)
+
 **Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Theory of Mind**  
 Swarnadeep Saha, Peter Hase, Mohit Bansal  
 *Preprint on arXiv.* [[pdf]](https://arxiv.org/pdf/2306.09299.pdf) [[code]](https://github.com/swarnaHub/ExplanationIntervention)
