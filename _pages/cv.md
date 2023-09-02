@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -47,7 +47,10 @@ Research experience
 
 Teaching experience
 ======
-* Econometrics B (1st year PhD course), Behavioral Economics (Econ 142), Game Theory (Econ 109), Microeconomics B (Econ 100B)
+* Econometrics B (1st year PhD course)
+* Behavioral Economics (Econ 142)
+* Game Theory (Econ 109)
+* Microeconomics B (Econ 100B)
   
 
 Personal
