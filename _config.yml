@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Alisher Batmanov"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Alisher Batmanov"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alisher-batmanov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alisher-batmanov/alisher-batmanov.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Alisher Batmanov"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "Economics PhD student at UC San Diego"
-  location         : "Location"
+  location         : "San Diego, California, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
