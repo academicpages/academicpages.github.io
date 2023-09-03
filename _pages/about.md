@@ -153,6 +153,11 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.co
 *Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 ArXiv 2023. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
+* <b>Communicative agents for software development</b>\
+*Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*
+ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.com/openbmb/chatdev)
+
+
 <!--
 * <b>Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training</b>\
 *Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, <b>Yusheng Su</b>, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu.*\
