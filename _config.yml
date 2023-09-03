@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Pages"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Ziyue Qiao"
-description              : &description "Fifth year Ph.D student at Computer Network Information Center, University of Chinese Academy of Sciences"
-url                      : https://joe817.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Postdoc at The Hong Kong University of Science and Technology (Guangzhou)"
+url                      : https://qiaoziyue.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "joe817.github.io"
+repository               : "ziyueqiao.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Ziyue Qiao"
-  avatar           : "ziyue.jpg"
-  bio              : "Fifth year Ph.D student at University of Chinese Academy of Sciences."
+  avatar           : "IMG_5391 2.jpg"
+  bio              : "Postdoc at The Hong Kong University of Science and Technology (Guangzhou)."
   location         : "Beijing, China"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=orHYf14AAAAJ&hl=en"
-  email            : "qiaoziyue@cnic.cn"
+  email            : "zyqiao@ust.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

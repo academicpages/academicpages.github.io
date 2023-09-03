@@ -56,7 +56,7 @@
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 15px;
   }
 
   /* paragraph indents */
@@ -93,7 +93,7 @@
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-size: 15px;
   }
 
   .small {
@@ -336,7 +336,6 @@
 .comment__avatar {
   width: 40px;
   height: 40px;
-  border-radius: 50%;
 
   @include breakpoint($large) {
     width: 80px;

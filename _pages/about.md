@@ -1,32 +1,63 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Ziyue Qiao is currently a Postdoctoral Researcher at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Professor Hui Xiong](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=253). He received his Ph.D. degree in 2022 at the Computer Network Information Center, Chinese Academy of Sciences, supervised by [Professor Yuanchun Zhou](https://cnic.cas.cn/sourcedb_cnic_cas/zw/zjrc/dsdw/202107/t20210702_6125748.html). He has industrial experience in 2021 at City Brain Lab, DAMO Academy, Alibaba, as a Research Intern. He received his B.E. degree in 2017 from the School of Computing, Wuhan University. 
+His main achievements include:
 
-I am a fifth year PhD student at Computer Network Information Center, Chinese Academy of Sciences. I was born in 1996. I received my B.S. degree in 2017 from the School of Computing， Wuhan University. My research interests include heterogeneous graph representation learning, construction and application of scientific and technological knowledge graphs, and domain-specific pre-training model.
+ - **Authored more than 20 papers**, some of which have been accepted by top-tier conferences, including IJCAI, AAAI, ICDM, SDM, and journals including TKDE, TWEB, TBD, etc. 
+ - **Authored 6 licensed CN patents, 1 licensed PCT patent**. 2 pending CN patents.
+ - **Served as PC members/Reviewers** for top-tier venues, such as KDD, IJCAI, and NeurIPS.
+ - **Best Ranked Papers** of ICDM 2022, **Gold Medal** of Biendata Competition 2019, **CAS Presidential Scholarship 2022**, **China Scholarship Council Scholarship** for joint PhD students, National Scholarship, and Beijing Outstanding Graduates Award.
+ - **Projects Experience** in Writing Proposals, Participating in, and Managing multiple government-sponsored projects (e.g., NSFC) and commercial projects (e.g., Tencent, Huawei).
 
-# Publications
+## Research interests
 
-1. **Ziyue Qiao**, Pengyang Wang, Yanjie Fu, Yi Du, Pengfei Wang, and Yuanchun Zhou. "[Tree Structure-Aware Graph Representation Learning via Integrated Hierarchical Aggregation and Relational Metric Learning](https://arxiv.org/pdf/2008.10003.pdf)." In 2020 IEEE International Conference on Data Mining (ICDM‘20)
-2. **Ziyue Qiao**, Yi Du, Yanjie Fu, Pengfei Wang, and Yuanchun Zhou. "[Unsupervised author disambiguation using heterogeneous graph convolutional network embedding](https://ieeexplore.ieee.org/abstract/document/9005458/)." In 2019 IEEE international conference on big data (IEEE Big Data'19)
-3. **Ziyue Qiao**, Zhiyuan Ning, Yi Du, and Yuanchun Zhou. "[Context-Enhanced Entity and Relation Embedding for Knowledge Graph Completion (Student Abstract)](https://ojs.aaai.org/index.php/AAAI/article/view/17932)." In Proceedings of the AAAI Conference on Artificial Intelligence (AAAI'21)
-4. Meng Xiao, **Ziyue Qiao (Equal contribution)**, Yanjie Fu, Yi Du, Pengyang Wang, and Yuanchun Zhou. “[Expert Knowledge Guided Length-Variant Hierarchical Label Generation for Proposal Classification](https://arxiv.org/pdf/2109.06661.pdf).” To appear in 2021 IEEE International Conference on Data Mining (ICDM'21). 
-5. Ning, Zhiyuan, **Ziyue Qiao (Equal contribution)**, Hao Dong, Yi Du, and Yuanchun Zhou. "[LightCAKE: A Lightweight Framework for Context-Aware Knowledge Graph Embedding](https://arxiv.org/abs/2102.10826)." In Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD'21)
-6. Tang, Zhengzheng, **Ziyue Qiao (Equal contribution)**, Xuehai Hong, Yang Wang, Fayaz Ali Dharejo, Yuanchun Zhou, and Yi Du. "[Data Augmentation for Graph Convolutional Network on Semi-Supervised Classification](https://arxiv.org/pdf/2106.08848.pdf)." In APWeb-WAIM 2021
+His research interests include data mining, graph learning, and natural language processing, with an emphasis on designing new algorithms for **graph representation/transfer learning and academic data mining**. 
+His work is primarily related to the following topics:
 
-# Preprint
-1. **Ziyue Qiao**, Yanjie Fu, Pengyang Wang, Meng Xiao, Zhiyuan Ning, Pengfei Wang, Yi Du, and Yuanchun Zhou. “[RPT: Toward Transferable Model on Heterogeneous Researcher Data via Pre-Training](https://arxiv.org/pdf/2110.07336.pdf).” In arXiv preprint arXiv:2110.07336
+- **Learning from Limited Supervision**: Semi-supervised, Self-supervised learning on graphic data.
+- **Transferable Machine Learning**: Pre-training & fine-tuning, Domain adaptation, Lifelong learning.
+- **AI for Academic Services**: Academic knowledge graph, Scholar name disambiguation, Proposal classification, and Academic big model.
 
-# Awards
+🔈: <font color="#dd0000">In June 2024, I will have completed my postdoctoral fellowship at HKUST(GZ).</font><br>
+🔈: <font color="#dd0000">I am currently seeking tenure-track Assistant Professor, Lecturer, or Industry positions in the fields of Artificial Intelligence and Data Science. Please feel free to contact me!</font> <br> 
 
-1. 2019 Biendata Competition “OAG–WhoIsWho track 1” **Gold Medal** (1st Place/131 teams)
-2. IEEE International Conference on Big Data 2019，**Student Travel Award**
-3. 2020 **CSC Scholarship** for joint PhD students
-4. 2020 **National Scholarship**
-5. 2021 Chinese Academy of Sciences (CAS) **Presidential Scholarship**
+## News
+- 💁 2023.08: Invited to serve as a Session Chair of "Mining Graphs" for IJCAI 2023 Macau. 
+- 💁 2023.07: Invited to serve as a PC member for AAAI 2024.   
+- 💁 2023.07: Invited to serve as a PC member for WSDM 2024.   
+- 💬 2023.05: Invited by AI TIME to give a [Talk](https://www.bilibili.com/video/BV1hL411v7Ao/?spm_id_from=333.337.search-card.all.click&vd_source=06a9d8a8940590c99530b7e271b9639a) and participate a [Panel](https://www.bilibili.com/video/BV17h4y1d7jV/?spm_id_from=333.999.0.0&vd_source=06a9d8a8940590c99530b7e271b9639a) discussion, see [📰 AI TIME 论道: 粤港澳大湾区15位青年科学家共探AI之前沿｜5月31日](https://mp.weixin.qq.com/s/ry4CBuIY-kJWT3lMQ1vliw).
+- 💁 2023.05: Invited to serve as a PC member for CIKM 2023.
+- 📃 2023.04: Two papers got accepted to IJCAI 2023!  
+- 💁 2023.04: Invited to serve as a reviewer for NeurIPS 2023.   
+- 📃 2023.04: One review paper on [Deep Graph Representation Learning](https://arxiv.org/abs/2304.05055v1) was preprinted.   
+- 📃 2023.02: One paper got accepted to TKDE 2023! see [📰 Paperweekly: TKDE 2023 交叉学科项目申请书学科代码生成](https://mp.weixin.qq.com/s/LsfyLcghzKi_70LRQ_Tz5A).   
+- 📃 2022.12: One paper got accepted to SDM 2023!  
+- 💁 2022.12: Invited to serve as a PC member for KDD 2023.   
+- 💁 2022.12: Invited to serve as a PC member for IJCAI 2023.   
+- 🔥 2022.11: Our paper ''[Kernel-based Substructure Exploration for Next POI Recommendation](https://arxiv.org/pdf/2109.06661.pdf)'' went into the best paper finalist at ICDM 2022!  
+- 📃 2022.10: One paper got accepted to TWEB!  
 
+
+
+<!--
+## Awards
+
+1. 2019 **Gold Medal** of Biendata Competition “OAG–WhoIsWho track 1”  (1st Place/131 teams)
+2. 2019 **Student Travel Award** of IEEE International Conference on Big Data 2019
+3. 2019 **Excellent Student Awards** at Chinese Academy of Sciences (Top 15%)
+4. 2020 **China Scholarship Council Scholarship** for joint PhD students
+5. 2020 **National Scholarship** (the most prestigious scholarship in China) (Top 2%) 
+6. 2021 **Presidential Scholarship** at Chinese Academy of Sciences (Top 1%)
+7. 2022 **Beijing Outstanding Graduates Award** in Beijing, China (Top 5%)
+-->
+
+                                                           
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=9kDNW3sZgL0oUfkUGDyeXbpG5Zo0msz6XbsUUOQxGhU'></script>
