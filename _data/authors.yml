@@ -1,18 +1,10 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
+  name        : "Zixin Wang"
+  uri         : "zixin.waang.github.io"
+  email       : "zixin.waang@outlook.com"
+  bio         : "Zixin Wang is a Ph.D student from ShanghaiTech university, his research interest includes but not only machine learning for resource allocation, edge intelligence, sensing-communication-computing-control"
+  avatar      : "Profile.jpg"
   twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  Google Scholar : "https://scholar.google.com/citations?user=hgyz-1MAAAAJ&hl=zh-CN"
