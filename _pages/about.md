@@ -22,7 +22,7 @@ My research spans the areas of natural language processing and machine learning.
 
 * <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904))
 
-* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules). ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [MultiAgent](https://github.com/OpenBMB/AgentVerse))
+* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules). ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [MultiAgent](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/openbmb/chatdev))
 
 <!--
 the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors](), [Tool Leaning](https://arxiv.org/abs/2304.08354))
