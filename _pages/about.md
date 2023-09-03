@@ -11,7 +11,8 @@ I am a third-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 
 News
 ------
-* 2023/05: Our paper on [weak information graph learning](https://arxiv.org) has been accepted by KDD 2023.
+* 2023/09: Our paper on [graph anomaly detection]() has been accepted by ICDM 2023.
+* 2023/05: Our paper on [weak information graph learning](https://arxiv.org/pdf/2305.18457.pdf) has been accepted by KDD 2023.
 * 2022/11: Our paper on [graph representation learning](https://arxiv.org/pdf/2211.14065.pdf) has been accepted by AAAI 2023.
 * 2022/11: Our paper on [federated graph learning](https://arxiv.org/pdf/2211.13009.pdf) has been accepted by AAAI 2023.
 * 2022/10: Our paper on [graph OOD detection](https://arxiv.org/pdf/2211.04208.pdf) has been accepted by WSDM 2023.
