@@ -27,6 +27,11 @@ Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-
 
 ## Conference
 -----
+* PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF]()\] \[[Code]()\]  
+Junjun Pan\*, **Yixin Liu**\*, Yizhen Zheng \*, Shirui Pan.  
+IEEE International Conference on Data Mining (**ICDM**), 2023. 
+<!-- (<span style="color:black">*CORE A\*, 19.9% acceptance rate*</span>) -->
+
 * Learning Strong Graph Neural Networks with Weak Information \[[PDF](https://arxiv.org/pdf/2305.18457.pdf)\] \[[Code](https://github.com/yixinliu233/D2PT)\]  
 **Yixin Liu**, Kaize Ding, Jianling Wang, Vincent CS Lee, Huan Liu, Shirui Pan.  
 ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2023. 
