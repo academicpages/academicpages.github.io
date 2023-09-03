@@ -13,7 +13,7 @@ I am a 3rd year PhD in Economics student at [Univeristy of California San Diego]
 
 My research interests are in behavioral and experimental economics with a focus on social learning, misspecified models and discrimination. I also work on topics related to student mental health and peer group support for online tutors.
 
-
+Click [here](https://www.howtopronounce.com/alisher#google_vignette) to learn how to pronounce my first name.
 
 Contact 
 ------
