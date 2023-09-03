@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-* Jul. 2021 -- Present. Algorithm Expert, Alimama Tech @ Alibaba Group.   
+* Jul. 2021 -- Present. Algorithm Expert (Senior MLE), Alimama Ads Tech @ Alibaba Group.   
 Working on data-driven algorithms to improve the performance of online advertising. 
 
 * Jul. 2020 -- Aug. 2020. Research Intern, Intelligent Service @ Ant Financial Service Group.  
