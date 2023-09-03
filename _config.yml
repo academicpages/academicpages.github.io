@@ -85,7 +85,7 @@ author:
   bio              : "Educational Data Science and ICTD"
   location         : "Pittspurgh, PA, U.S"
   employer         : "Carnegie Mellon University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ZjUe7SMAAAAJ&hl=en&inst=3203679203499159833"
   email            : "ddbutler@andrew.cmu.edu"
   researchgate     : "https://www.researchgate.net/profile/Darren-Butler"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/darrendbutler/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
