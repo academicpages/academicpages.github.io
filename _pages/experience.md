@@ -1,4 +1,11 @@
 ---
+permalink: /
+title: "Experience"
+excerpt: "Exoerience"
+author_profile: true
+redirect_from: 
+  - /experience/
+  - /experience.html
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
