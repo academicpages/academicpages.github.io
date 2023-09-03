@@ -154,7 +154,7 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.co
 ArXiv 2023. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
 
 * <b>Communicative agents for software development</b>\
-*Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*
+*Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
 ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.com/openbmb/chatdev)
 
 
