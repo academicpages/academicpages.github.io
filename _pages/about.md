@@ -13,6 +13,4 @@ Before joining the University of Salamanca as a Research Fellow, I have been an 
 My research focuses on adolescents and social media, narrative persuasion, and media psychology. I am a member of the [Observatory for Audiovisual Contents](http://www.ocausal.es/) (USAL) and the [Communication, Advertising, and Society]( https://www.upf.edu/web/cas) (UPF)
 
 
-
-<B style="color:rgb(205, 92, 92)">I am on maternity leave since mid January 2023 </B>
 <br>
