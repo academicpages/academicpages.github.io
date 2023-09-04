@@ -11,7 +11,7 @@ redirect_from:
     <li>
       <div class="direction-r">
         <div class="flag-wrapper">
-          <span class="flag">The Hong Kong Polytechnic University</span>
+          <span class="flag">PolyU</span>
           <span class="time-wrapper"><span class="time">2023.01 - Now</span></span>
         </div>
         <div class="desc"><b>Ph.D student in Computing</b></div>
@@ -20,7 +20,7 @@ redirect_from:
     <li>
       <div class="direction-r">
         <div class="flag-wrapper">
-          <span class="flag">University of Edinburgh</span>
+          <span class="flag">UoE</span>
           <span class="time-wrapper"><span class="time">2021.09 - 2022.11</span></span>
         </div>
           <div class="desc"><b>MSc in Computer Science</b> 
@@ -30,7 +30,7 @@ redirect_from:
     <li>
       <div class="direction-r">
         <div class="flag-wrapper">
-          <span class="flag">Wuhan University</span>
+          <span class="flag">WHU</span>
           <span class="time-wrapper"><span class="time">2016.09 - 2020.06</span></span>
         </div>
           <div class="desc"><b>BEng in Computer Science and Technology</b> 
@@ -40,7 +40,7 @@ redirect_from:
     <li>
       <div class="direction-r">
         <div class="flag-wrapper">
-          <span class="flag">Wuhan University</span>
+          <span class="flag">WHU</span>
           <span class="time-wrapper"><span class="time">2016.09 - 2020.06</span></span>
         </div>
         <div class="desc"><b>BSc in Chemistry</b> </div>
