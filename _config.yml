@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Web Page"
+title                    : "Shivam Sharma"
 title_separator          : "-"
 name                     : &name "Shivam Sharma"
 description              : &description "PhD student @ IIT Delhi | Technical Lead @ Wipro AI Research"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shivam Sharma"
+  name             : #"Shivam Sharma"
   avatar           : "shivlinkedin.jpeg"
   bio              : "PhD student @ IIT Delhi, India. Technical Lead @ Wipro AI Research (Lab45)."
   location         : "Delhi, NCR"
