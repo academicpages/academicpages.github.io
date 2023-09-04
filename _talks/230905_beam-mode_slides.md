@@ -5,5 +5,5 @@ type: "Talk"
 permalink: /talks/230905_beam-mode_slides
 venue: "Beam Mode workshop"
 date: 2023-09-05
-location: "online
+location: "online"
 ---
