@@ -14,12 +14,6 @@ My Intellectual Journey since 1997
   <img src="/assets/images/intellectual journey.png">
 </figure>
 
-Education Background
-======
-* Ph.D. in Communication, City University of Hong Kong, Hong Kong, 2005-2008
-* M.A. in Communication, Jinan University, Guangzhou, China, 2002-2005
-* B.A. in Management, Institute of International Relations, Beijing, China, 1997-2001
-
 Work Experience
 ======
 * July 2023 -
@@ -32,6 +26,12 @@ Work Experience
   * Assistant Professor, [Faculty of Humanities and Arts](https://www.must.edu.mo/fa), Macau University of Science and Technology, Macau
 * September 2008 - August 2009
   * Research Fellow, [Web Mining Lab](http://weblab.com.cityu.edu.hk/), City University of Hong Kong, Hong Kong
+
+Education Background
+======
+* 2005-2008, Ph.D. in Communication, City University of Hong Kong, Hong Kong
+* 2002-2005, M.A. in Communication, Jinan University, Guangzhou, China
+* 1997-2001, B.A. in Management, Institute of International Relations, Beijing, China
 
 Professional Services
 =====
