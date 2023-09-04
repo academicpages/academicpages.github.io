@@ -6,7 +6,8 @@ tags:
 - Spatial
 - Data visualization
 ---
-This is an example post
+
+Speeding up spatial mapping
 
 <!DOCTYPE html>
 
@@ -375,7 +376,7 @@ techniques cannot. From visualizing points, lines, and polygons across
 space and time maps often serve as the best medium for expressing
 spatial relationships. GIS programs used to pose a barrier of entry to
 those wanting to unlock mapping as a data visualization tool but with
-the current suite of packages and libraries in R and Python, that is not
+the current suite of packages and libraries in R and Python, that is no
 longer the case.</p>
 <p>Although generating maps is achievable with a few lines of code, I
 often run into the issue of time. The issue comes from the sheer size
@@ -388,10 +389,10 @@ st_simplify function in the R library <em>simple features</em>
 <div id="st_simplify" class="section level1">
 <h1>st_simplify()</h1>
 <p>I’ll explain this function through an example.</p>
-<p>First, lets grab some high resolution spatial data. These data are
+<p>First, let’s grab some high-resolution spatial data. These data are
 from the National Hydrologic Database, and the spatial polygons
-represent HUC8s. The specifics of what a HUC8 is are not important just
-know they represent watersheds.</p>
+represent HUC8s. The specifics of HUC8s are not important just know they
+represent watersheds.</p>
 <pre class="r"><code>library(nhdplusTools)</code></pre>
 <pre><code>## USGS Support Package: https://owi.usgs.gov/R/packages.html#support</code></pre>
 <pre class="r"><code>library(sf)</code></pre>
@@ -424,7 +425,7 @@ ggplot(data = hucs$geometry) +
 <pre class="r"><code>end &lt;- Sys.time()
 time &lt;- end-start
 print(time)</code></pre>
-<pre><code>## Time difference of 2.263322 mins</code></pre>
+<pre><code>## Time difference of 2.276003 mins</code></pre>
 <p>That can take quite a while, which might not be too much of an issue
 if you’re plotting one time. However, if you’re working on the
 aesthetics of a map you may need to plot it dozens and dozens of times
@@ -432,12 +433,12 @@ to get it right, which makes the time to print quite frustrating.</p>
 <p>My solution to this is to simplify the polygons before plotting.
 Simplifying polygons can be accomplished with a single line of code.</p>
 <pre class="r"><code>hucs.simplified &lt;- st_simplify(hucs, dTolerance = 1000)</code></pre>
-<p>As, stated earlier <code>st_simplify()</code> comes from the library
-<em>simple features</em>. In the given line of code I specified the
+<p>As stated earlier <code>st_simplify()</code> comes from the library
+<em>simple features</em>. In the given line of code, I specified the
 dTolerance parameter, which specifies the tolerance for spatial
-resolution in unit-meters. It should also be noted that this function
+resolution in unit meters. It should also be noted that this function
 includes other parameters which can do some powerful stuff!</p>
-<p>Finally, lets see how this speeds up plotting.</p>
+<p>Finally, let’s see how this speeds up plotting.</p>
 <pre class="r"><code>start &lt;- Sys.time()
 ggplot(data = hucs.simplified$geometry) +
   geom_sf() +
@@ -446,9 +447,9 @@ ggplot(data = hucs.simplified$geometry) +
 <pre class="r"><code>end &lt;- Sys.time()
 time2 &lt;- end-start
 time2</code></pre>
-<pre><code>## Time difference of 0.2633171 secs</code></pre>
+<pre><code>## Time difference of 0.2787669 secs</code></pre>
 <pre class="r"><code>time2-time</code></pre>
-<pre><code>## Time difference of -135.536 secs</code></pre>
+<pre><code>## Time difference of -136.2814 secs</code></pre>
 <p>Looking at the difference in the two times we see a big
 difference!</p>
 </div>
@@ -456,12 +457,12 @@ difference!</p>
 <h1>Conclusion</h1>
 <p>Simplifying polygons can definitely speed up plotting. Of course,
 because we decreased the spatial resolution the new plot is not as
-detailed. However, at this size I usually don’t need such a high level
+detailed. However, at this size, I usually don’t need such a high level
 of detail. If you need detail in your map this might not be the function
 for you, or at least not for your final product. You could still use
 <code>st_simplfy</code> to speed up the iterative process of finalizing
-plot aesthetics then go back to the original spatial data for the final
-product.</p>
+plot aesthetics and then go back to the original spatial data for the
+final product.</p>
 <p>Thanks for reading and hope you find this helpful!</p>
 </div>
 
