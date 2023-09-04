@@ -51,7 +51,7 @@ Patents
 &middot; Histogram vector를 활용한 GAN 기반 야간 데이터셋 생성 기법<br/>
 20230300154, Aug. 2023. <br/>
 &middot; Multiple Teacher Knowledge Distillation을  활용한 준 지도 학습 객체 영역 분할 기법<br/>
-20230200237, July. 2023. <br/>
+20230200237, Jul. 2023. <br/>
 &middot; 준 지도 학습 객체 영역 분할 기법을 위한 Reliable pseudo label 생성 기법<br/>
 20221000243, Apr. 2023. <br/>
 &middot; 이중 도메인 판별기를 활용한 GAN 기반 데이터셋 생성 기법<br/>
