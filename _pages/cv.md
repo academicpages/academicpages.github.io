@@ -16,7 +16,7 @@ Ramon y Cajal Research Fellowship
 Department of Sociology and Communication
 University of Salamanca, Spain
     
-    <sub>Career break for maternity leave: January - September 2023 </sub>
+    <sub>Career break for maternity leave: January - September 2023</sub>
     
 ### Assistant Professor 2022-2022
 Department of Sociology and Communication
