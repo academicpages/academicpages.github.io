@@ -21,11 +21,11 @@ Conference Publications
 ======
 * Yongqi Dong#, **Ruohan Li**#, Haneen Farah*. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>The Transportation Research Board (TRB) 102nd Annual Meeting</var>. **[TRB 2023 poster](https://repository.tudelft.nl/islandora/object/uuid:62690e30-572d-44c2-aa8f-f0b1cb835f29?collection=research).**
 * Xinmin Lu#, Yongqi Dong*#, **Ruohan Li**, Wei Song. Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The 23rd COTA International Conference of Transportation Professionals (CICTP2023)</var>. [Accepted on 9 Dec. 2022]
-* **Ruohan Li**, Hualan Wang*, Yajun Guo, Mingxuan Li. The Highway Region Boundary Based on Multi-Environmental Factors[M]//CICTP 2023. 135-145.</var>. [Published](https://doi.org/10.1061/9780784484869.014)
-* Hualan Wang, Yajun Guo, **Ruohan Li**, Mingxuan Li. Analysis of Noise Pollution Characteristics of Highway Road Area[M]//CICTP 2023. 190-200.</var>. [Published](https://doi.org/10.1061/9780784484869.019)
-* Hualan Wang, Mingxuan Li, **Ruohan Li**, Yajun Guo. Analysis and Prediction of Pollutant Emissions Characteristics of Highway Road Areas in Key Ecological Function Zones[M]//CICTP 2023. 201-212.</var>. [Published](https://doi.org/10.1061/9780784484869.020)
+* **Ruohan Li**, Hualan Wang*, Yajun Guo, Mingxuan Li. The Highway Region Boundary Based on Multi-Environmental Factors[M]//<var>CICTP 2023</var>. 135-145. [Published](https://doi.org/10.1061/9780784484869.014)
+* Hualan Wang, Yajun Guo, **Ruohan Li**, Mingxuan Li. Analysis of Noise Pollution Characteristics of Highway Road Area[M]//<var>CICTP 2023</var>. 190-200. [Published](https://doi.org/10.1061/9780784484869.019)
+* Hualan Wang, Mingxuan Li, **Ruohan Li**, Yajun Guo. Analysis and Prediction of Pollutant Emissions Characteristics of Highway Road Areas in Key Ecological Function Zones[M]//<var>CICTP 2023</var>. 201-212.< [Published](https://doi.org/10.1061/9780784484869.020)
 
 Patent
 ======
 * Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
-             
+              
