@@ -9,7 +9,7 @@ redirect_from:
 
 <ul class="timeline">
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">The Hong Kong Polytechnic University</span>
           <span class="time-wrapper"><span class="time">2023.01 - Now</span></span>
@@ -38,7 +38,7 @@ redirect_from:
       </div>
     </li>
     <li>
-      <div class="direction-l">
+      <div class="direction-r">
         <div class="flag-wrapper">
           <span class="flag">Wuhan University</span>
           <span class="time-wrapper"><span class="time">2016.09 - 2020.06</span></span>
