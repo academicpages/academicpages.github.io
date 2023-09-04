@@ -15,6 +15,9 @@ redirect_from:
 Ramon y Cajal Research Fellowship
 Department of Sociology and Communication
 University of Salamanca, Spain
+    
+    <sub>Career break for maternity leave: January - September 2023 </sub>
+    
 ### Assistant Professor 2022-2022
 Department of Sociology and Communication
 University of Salamanca, Spain
@@ -116,6 +119,13 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O., & Mas, L. (2023, July 16-20). Prosody variations to improve cognitive processing in Alzheimer's patients [Poster presentation]. Alzheimer’s Association International Conference, Amsterdam, The Netherlands.
+
+Blanco-Fernández, V., Villegas-Simón, I., Anglada-Pujol, O., Castellví Lloveras, M. & **Rodríguez-de-Dios, I.** (2023, June 6-10). Presentation of Retrats Intermitents (Intermittent Portraits), a podcast of LGBTIQA+ representation, plus a live recording of a program. Media, Gender and Sexualities: Representations, Literacies and Audiences, Benasque, Spain.
+
+Soto-Sanfiel, M. & **Rodríguez-de-Dios, I.** (2023, June 6-10). Mitigating transphobia through the narratives of transgender YouTubers [Paper presentation]. Media, Gender and Sexualities: Representations, Literacies and Audiences, Benasque, Spain.
+
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2023, May 25-29). Youtuber trans for reducing transphobia: A work in progress [Paper presentation]. 73rd Annual ICA Conference, Toronto, Canada.
 
 Larrea, O., **Rodríguez-de-Dios, I.** , Vinyals-Mirabent, S., y Rodero, E. (2021). _Las referencias de COVID en anuncios marcan la diferencia Las actitudes de los consumidores hacia los anuncios y el compromiso de las marcas mejoran cuando se conectan con la pandemia_. Paper presented at the II International Conference Nodos del Conocimiento 2021, Virtual Conference, 25-26 November 2021.
 
