@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 ## Teaching Assistant (TA) at PolyU:
-+ COMP5511: Artificial Intelligence Concepts, Fall’2023
++ COMP5511: Artificial Intelligence Concepts, Fall 2023
