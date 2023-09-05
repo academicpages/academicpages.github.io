@@ -20,11 +20,19 @@ redirect_from:
 * Bacharelado em Física, Universidade Federal do ABC (2013)
 * Bacharelado e licenciatura em Matemática, Universidade do grande ABC (2006)
 
-## Experiência
+## Experiência acadêmica
+
+* Professor adjunto
+  * Universidade do Estado do Rio de Janeiro (UERJ)
+  * 2023 : Presente
+
+* Pós-doutorado
+  * Universidade Estadual Paulista (UNESP)
+  * 2022 : 2023
 
 * Professor visitante
   * Universidade Federal do ABC (UFABC)
-  * 2020 : Presente
+  * 2020 : 2022
 
 * Pós-doutorado
   * Universidade Estadual Paulista (UNESP)
@@ -45,32 +53,37 @@ redirect_from:
 coalescence
    
   * Ronaldo Cesar de Paiva
-    * Mestrado (em andamento)
+    * Mestrado (concluído)
     * Perturbações em soluções do tipo buraco negro obtidas por desacoplamento
 gravitacional
+
+  * Juan Carlos Martins (coorientador)
+    * Mestrado (concluído)
+    * Problema relativístico restrito de três corpos para objetos compactos 
     
+  * Ronaldo Cesar de Paiva
+    * Doutorado (em andamento)
+  
   * Andre Felipe Moraes Luiz Lucchini
     * Mestrado (em andamento)
-    * Título a definir
     
   * Kelvin dos Santos Alves
     * Mestrado (em andamento)
-    * Título a definir
+
+  * Bárbara Banheti Sant'Annas
+    * Mestrado (em andamento)
    
 **Graduação**
 
-  * Tatiane de Paula Moraes
-    * Iniciação Científica (concluído)
-    * Uma introdução à teoria de ondas gravitacionais
+  * Tatiane de Paula Moraes (concluído)
 
-  * Andre Felipe Moraes Luiz Lucchini
-    * Iniciação Científica (concluído)
-    * Ondas gravitacionais e perturbações de buracos negros
+  * Andre Felipe Moraes Luiz Lucchini (concluído)
     
-  * Kelvin dos Santos Alves
-    * Iniciação Científica (concluído)
-    * Aspectos geométricos da física de buracos negros
+  * Kelvin dos Santos Alves (concluído)
+
+  * Mateus Leal Uchoa Fernandes (concluído)
+
+  * Ygor Pasquereli Bueno (concluído)
 
   * Lucas Duarte Queiroz 
     * Iniciação Científica Jr. (concluído)
-    * Aplicação de Espinores no Estudo de Movimentos Sacádicos do Olho Humano
