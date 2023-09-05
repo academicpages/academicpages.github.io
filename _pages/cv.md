@@ -16,4 +16,4 @@ redirect_from:
   gtag('config', 'G-JXH49J0PEN');
 </script>
 
-<a href= "https://cobrienudry.github.io/files/O_Brien_UdryCleo_10_24_22.pdf">CV</a>
+<a href= "https://cobrienudry.github.io/files/O_Brien_UdryCleo_08_15_23.pdf">CV</a>
