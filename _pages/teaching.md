@@ -4,6 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JXH49J0PEN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JXH49J0PEN');
+</script>
 
 In Spring 2022, I was a visiting leturer at Wesleyan University. The syllabus for my course, Political Economy of Foreign Aid, is available <a href="https://cobrienudry.github.io/files/syllabus.pdf">here</a>.
 
