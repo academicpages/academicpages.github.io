@@ -650,8 +650,8 @@ Suppose we have
 \[\mathbf{y}=\mathbf{X}\mathbf{\beta}+\mathbf{\varepsilon}=\mathbf{X}_1\mathbf{\beta_1}+\mathbf{X}_2\mathbf{\beta}_2+\varepsilon\]
 
 How can we find the algebraic solution for \(\mathbf{b}_2\)? That is,
-what is the LS estimator of a given subset of parameters in
-\(\mathbf{\beta}\)?
+what is the LS estimator of a given subset of parameters,
+\(\mathbf{\beta}_2\), in \(\mathbf{\beta}\)?
 \end{frame}
 
 \begin{frame}{Partial Regressions}
@@ -782,11 +782,18 @@ Consider now the partition in which \(\mathbf{X}_1=\mathbf{i}\) and
 Take a given column \(\mathbf{x}\) of \(\mathbf{X}_2\). According to the
 FWL theorem,
 
-\[\mathbf{x}^*=\mathbf{M}_1\mathbf{x}\] \vfill
+\[\mathbf{x}_*=\mathbf{M}_1\mathbf{x}\]
+
+\vfill
+
+When \(\mathbf{X}_1=\mathbf{i}\), we denote \(\mathbf{M}_1\) as
+\(\mathbf{M}^0\).
+
+\vfill
 
 This yields
 
-\[\mathbf{x}^*=\mathbf{x}-\mathbf{i}\mathbf{\bar{x}}\] \vfill
+\[\mathbf{x}_*=\mathbf{x}-\mathbf{i}\mathbf{\bar{x}}\] \vfill
 \end{frame}
 
 \begin{frame}{Regression with a constant term}
@@ -802,6 +809,257 @@ variable, now in the form of deviations from the mean. This general
 result is summarized in the following corollary.
 
 \includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/corollary_3.2.2.png}
+\end{frame}
+
+\begin{frame}{Orthogonal Regression}
+\protect\hypertarget{orthogonal-regression}{}
+Finally, from the Orthogonal Partition Regression and FWL theorems, the
+next one states that we can estimate each coefficient separately if the
+columns of \(\mathbf{X}\) are orthogonal to each other.
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.3.png}
+\end{frame}
+
+\hypertarget{partial-correlation-and-the-goodness-of-fit}{%
+\subsection{Partial Correlation and the Goodness of
+Fit}\label{partial-correlation-and-the-goodness-of-fit}}
+
+\begin{frame}{The Partial Correlation Coefficients}
+\protect\hypertarget{the-partial-correlation-coefficients}{}
+The FWL theorem provides us a framework to ``partial out'' the effect of
+a given variable in a regression.
+
+\vfill
+
+We can apply the same principles to find the degree of
+\emph{correlation} between two variables after partialling out the
+effects of other factors.
+
+\vfill
+
+We proceed as follows:
+
+\begin{enumerate}
+\tightlist
+\item
+  \(\mathbf{y_*}=\) residuals in a regression of \(y\) on ``controls''
+\item
+  \(\mathbf{z_*}=\) residuals in a regression of \(x_k\) on ``controls''
+\item
+  Find the partial correlation \(r_{y,z}^*\), the simple correlation
+  between \(\mathbf{y_*}\) and \(\mathbf{z_*}\)
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{The Partial Correlation Coefficients}
+\protect\hypertarget{the-partial-correlation-coefficients-1}{}
+The square of the partial correlation coefficient is
+
+\[r_{y,z}^{*2}=\frac{(\mathbf{z_*}' \mathbf{y_*})^2}{(\mathbf{z_*}'\mathbf{z_*})(\mathbf{y_*}'\mathbf{y_*})}\]
+\end{frame}
+
+\begin{frame}{Sum of Squared Residuals}
+\protect\hypertarget{sum-of-squared-residuals}{}
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.5.png}
+\end{frame}
+
+\begin{frame}{Goodness of Fit}
+\protect\hypertarget{goodness-of-fit}{}
+We measure the goodness of fit of our estimates by asking whether
+\emph{variation} in \(\mathbf{X}\) is a good predictor of
+\emph{variation} in \(\mathbf{y}\).
+
+\vfill
+
+We measure \emph{variation} of a variable as deviation from its mean.
+
+\vfill
+
+For an individual observation, we have:
+\[y_i=\hat{y}_i+e_i=\mathbf{x}_i'\mathbf{b}+e_i\]
+
+\vfill
+
+Subtracting \(\bar{y}\) from both sides:
+
+\[y_i-\bar{y}=\hat{y}-\bar{y}+e_i\]
+
+\vfill
+
+Recall that \(\bar{y}=\bar{\mathbf{x}}'\mathbf{b}\). Thus,
+
+\[y_i-\bar{y}=(\mathbf{x}_i-\bar{\mathbf{x}})'\mathbf{b}+e_i\]
+\end{frame}
+
+\begin{frame}{Decomposition of \(y_i\)}
+\protect\hypertarget{decomposition-of-y_i}{}
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/figure_3.4.png}
+\end{frame}
+
+\begin{frame}{Total Sum of Squares}
+\protect\hypertarget{total-sum-of-squares}{}
+Notice that both \(\sum_{i=1}^n{(y_i-\bar{y})}\) and
+\(\sum_{i=1}^n{(x_i-\bar{x})}\) sum to zero. Therefore, to quantify the
+fit, we use the sum of squares, instead.
+
+\vfill
+
+The total variation in \(\mathbf{y}\) is, thus, the sum of the squared
+deviations
+
+\[SST=\sum_{i=1}^n{(y_i-\bar{y})^2}\]\\
+\end{frame}
+
+\begin{frame}{Goodness of Fit}
+\protect\hypertarget{goodness-of-fit-1}{}
+For the full set of observations, we have
+
+\[\mathbf{M^0y}=\mathbf{M^0Xb}+\mathbf{M^0e},\]
+
+where \(\mathbf{M^0}\) is the \(n\times n\) idempotent matrix that
+transforms observations into deviations from sample means.
+
+\vfill
+
+That is, \(\mathbf{M^0}\) is the residual maker for
+\(\mathbf{X}=\mathbf{i}\).
+
+\vfill
+
+The total sum of squares is
+\[\mathbf{y'M^0y}=\mathbf{b'X'M^0Xb}+\mathbf{e'e}\]
+
+\vfill
+
+\[SST=SSR+SSE\]
+
+\vfill
+
+Notice that this is the same partition we found before:
+\(y=\text{Projection}+\text{Residuals}\)
+
+\vfill
+\end{frame}
+
+\begin{frame}{Goodness of Fit}
+\protect\hypertarget{goodness-of-fit-2}{}
+Our measure of goodness of fit is the \textbf{coefficient of
+determination}:
+
+\[\frac{SSR}{SST}=\frac{\mathbf{b'X'M^0Xb}}{\mathbf{y'M^0y}}=1-\frac{\mathbf{e'e}}{\mathbf{y'M^0y}}=1-\frac{\sum_{i=1}^n{e_i^2}}{\sum_{i=1}^n{(y_i-\bar{y})^2}}\]
+
+We denote it \(R^2\) and it lies between 0 and 1 (why?).
+\end{frame}
+
+\begin{frame}{The Adjusted R-squared}
+\protect\hypertarget{the-adjusted-r-squared}{}
+One important issue with the R-squared as a measure of fit is that it
+never declines when adding variables to the model, even if the
+additional variables do not help improve the model's fit.
+
+\vfill
+
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.6.png}
+\end{frame}
+
+\begin{frame}{The Adjusted R-squared}
+\protect\hypertarget{the-adjusted-r-squared-1}{}
+Based on this, we introduce an alternative measure, which incorporates a
+penalty for added variables to the model:
+
+\[\bar{R}^2=1-\frac{\mathbf{e}'\mathbf{e}/(n-k)}{\mathbf{y'M^0y}/(n-1)}\]
+
+For computational purposes, we can also rewrite \(\bar{R}^2\) in terms
+of the \(R^2\):
+
+\[\bar{R}^2=1-\frac{n-1}{n-k}(1-R^2)\]
+\end{frame}
+
+\begin{frame}{Comments on \(\bar{R}^2\)}
+\protect\hypertarget{comments-on-barr2}{}
+\begin{enumerate}
+\tightlist
+\item
+  \(\bar{R}^2\) may decline when a variable is added to the set of
+  independent variables
+\item
+  \(\bar{R}^2\) rises or falls depending on whether the contribution of
+  the added variables to the fit of the regression offsets the
+  correction for the loss of an additional degree of freedom.
+\end{enumerate}
+\end{frame}
+
+\hypertarget{linearly-transformed-regressions}{%
+\subsection{Linearly Transformed
+Regressions}\label{linearly-transformed-regressions}}
+
+\begin{frame}{Linearly Transformed Regressions}
+As a final algebraic analysis, we consider the case of transformed
+variables in the model.
+
+\begin{itemize}
+\tightlist
+\item
+  For instance, changing the units of measurements from kilometers to
+  miles or ``per 1,000 inhabitants''.
+\end{itemize}
+
+\vfill
+
+Let's consider the Monet's paintings example again. Suppose we have two
+competing models representing the determinants of Monet's prices:
+
+\vfill
+
+\textbf{Model 1}:
+\(\ln Price = \beta_1(1)+\beta_2 \ln W + \beta_3 \ln H + \varepsilon\)
+
+\vfill
+
+\textbf{Model 2}:
+\(\ln Price = \gamma_1(1)+\beta_2 \ln WH + \beta_3 \ln W/H + u\)
+\end{frame}
+
+\begin{frame}{An Example: Art Appreciation}
+\protect\hypertarget{an-example-art-appreciation}{}
+Rewrite the model as
+
+\vfill
+
+\textbf{Model 1}:
+\(\ln Price = \beta_1 x_1+\beta_2 x_2 + \beta_3 x_3 + \varepsilon\)
+
+\vfill
+
+\textbf{Model 2}:
+\(\ln Price = \gamma_1 z_1+\beta_2 z_2 + \beta_3 z_3 + u\)
+
+\vfill
+
+We can see that \(z_1=x_1\), \(z_2=x_2+x_3\), and \(z_3=x_2-x_3\).
+
+\vfill
+
+We can write these conditions as \(Z=XP\), where \(P\) is a nonsingular
+matrix that transforms the columns of X.
+
+\begin{itemize}
+\tightlist
+\item
+  What does \(P\) look like in this case?
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Linearly Transformed Regressions}
+\protect\hypertarget{linearly-transformed-regressions-1}{}
+\includegraphics{/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/2/theorem_3.8.png}
+
+\vfill
+
+In our art appreciation example, what is the relationship between
+\(\mathbf{b}\) and \(\mathbf{z}\)?
 \end{frame}
 
 
