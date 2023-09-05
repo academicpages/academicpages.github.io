@@ -16,7 +16,7 @@ main:
     url: #/year-archive/
     
   - title: "Resume"
-   url: /resume/
+    url: /resume/
     
   - title: #"Guide"
     url: #/markdown/
