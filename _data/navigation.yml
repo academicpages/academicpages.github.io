@@ -2,7 +2,18 @@
 main:
   - title: "Research"
     url: /Research/
-   
+
+  - title: "Group"
+    url: /Research/
+
+  - title: "Publication"
+    url: /Research/
+
+  - title: "Publication"
+    url: /News/
+
+  - title: "Contact"
+    url: /News/
     
 #-title: "Publications"
 #url: /Publications/
