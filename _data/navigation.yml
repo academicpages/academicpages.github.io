@@ -1,14 +1,14 @@
 # main links links
 main:
- # - title: "Research"
- #   url: /research/    
+  - title: "Research"
+    url: /Research/    
 
 
- # - title: "Group"
-  #  url: /publications/
+  - title: "Group"
+    url: /Group/
 
-  # - title: "Publications"
-   # url: /publications/
+   - title: "Publications"
+    url: /Publications/
     
   #- title: "Teaching"
    # url: /teaching/    
@@ -16,8 +16,8 @@ main:
  #- title: "Contact"
   #  url: /portfolio/
         
-   -title: "Blog Posts"
-    url: /year-archive/
+   #-title: "Blog Posts"
+    #url: /year-archive/
     
   #- title: "CV"
    # url: /cv/
