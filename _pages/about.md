@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Felipe and I'm a PhD Candidate in the [Computational Neuroscience Initiative](https://cni.upenn.edu/) at Penn. I am co-supervised by [Konrad Kording](http://kordinglab.com/) and [Michael Platt](http://plattlabs.rocks/), under whom I study the neural processes underlying primate social grooming. I am interested in how primates _naturally_ behave and interact with the environment. To do this, I pool techniques from neuroengineering (e.g., wireless brain-computer interfaces), computer vision (e.g., pose estimation), and ethology (e.g., focal sampling). Outside of the lab, I play soccer, people-watch at Clark Park, and rearrange my furniture.
+My name is Felipe and I'm a PhD Candidate in the [Computational Neuroscience Initiative](https://cni.upenn.edu/) at Penn. I am co-supervised by [Konrad Kording](http://kordinglab.com/) and [Michael Platt](http://plattlabs.rocks/), under whom I study the neural processes underlying primate social grooming. I am interested in how primates _naturally_ behave and interact with the environment. To do this, I pool techniques from neuroengineering (e.g., wireless brain-computer interfaces), computer vision (e.g., pose estimation), and ethology (e.g., focal sampling).
 
 If you have similar interests or simply want to chat, please reach out!
 
