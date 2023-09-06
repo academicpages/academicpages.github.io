@@ -1,7 +1,10 @@
 # main links links
 main:
--title: "Publications"
-url: /Publications/
+   -title: "Blog Posts"
+    url: /year-archive/
+    
+#-title: "Publications"
+#url: /Publications/
   
  #- title: "Research"
   # url: /Research/    
