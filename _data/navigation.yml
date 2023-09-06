@@ -4,16 +4,16 @@ main:
     url: /Research/
 
   - title: "Group"
-    url: /Research/
+    url: /Group/
 
   - title: "Publication"
-    url: /Research/
+    url: /Publication/
 
-  - title: "Publication"
+  - title: "News"
     url: /News/
 
   - title: "Contact"
-    url: /News/
+    url: /Contact/
     
 #-title: "Publications"
 #url: /Publications/
