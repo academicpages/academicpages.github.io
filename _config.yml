@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christiana (Christy) Marchese"
+  name             : "Christiana Marchese (Christy)"
   avatar           : "profile.png"
-  bio              : "Undergraduate Research Assistant at Pomona College's Autonomous Robotics and Complex Systems (ARCS) lab"
+  bio              : "Undergraduate Research Assistant at Pomona College's ARCS lab"
   location         : "Claremont, CA"
   employer         :
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/christianamar/"
-  orcid            : "https://orcid.org/0000-0003-1879-9861"
+  linkedin         : "christianamar"
+  orcid            : "0000-0003-1879-9861"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
