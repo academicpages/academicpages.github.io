@@ -1,6 +1,6 @@
 ---
 title: "Research Vision"
-excerpt: "Functional metallization on polymers is number 1<br/><img src='/images/SEMI lab.png'>"
+excerpt: "Functional metallization on polymers is number 1<br/><img src='/images/SEMI_lab.png'>"
 collection: portfolio
 ---
 
