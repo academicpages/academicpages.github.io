@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="https://GAO-XINWEI/GAO-XINWEI.github.io/profile/profile3.jpg" alt="Photo" style="width: 210px; border-radius: 10px; padding: 8px 8px 8px 8px"/>
-
 I am currently a **Research Assistant** under the **AI Singapore Programme** at the **CPS Research Group**, Nanyang Technological University (NTU). I possess in-depth expertise in machine learning research and algorithm development. My research interest includes:
 - **Reinforcement Learning**
 - **Robotic Control Optimization**
