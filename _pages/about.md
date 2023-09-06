@@ -17,9 +17,9 @@ Click [here](https://www.howtopronounce.com/alisher#google_vignette) to learn ho
 
 Contact 
 ------
-[abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)
-University of California San Diego
-Atkinson Hall, 6100-19
+[abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)\
+University of California San Diego\
+Atkinson Hall, 6100-19\
 9500 Gilman Dr, La Jolla, CA 92093
 
 
