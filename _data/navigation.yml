@@ -5,17 +5,17 @@ main:
     url: /research/    
 
 
-  - title: "Group"
-    url: /publications/
+ # - title: "Group"
+  #  url: /publications/
 
    - title: "Publications"
     url: /publications/
     
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+   # url: /teaching/    
     
- - title: "Contact"
-    url: /portfolio/
+ #- title: "Contact"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
    # url: /year-archive/
