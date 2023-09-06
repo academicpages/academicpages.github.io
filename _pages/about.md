@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Surface Engineering and Manufacturing Innovation Laboratory (SEMI-Lab)"
+title: "Surface Engineering and Manufacturing Innovation Laboratory (SEMI Lab)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
