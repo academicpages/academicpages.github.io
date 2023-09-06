@@ -83,12 +83,13 @@ author:
   name             : Semih Akin, PhD
   avatar           : "profile.png"
   bio              : Assistant Professor of Mechanical Engineering
-  location         : Rensselaer Polytechnic Institute, Troy, NY, 12180
+  location         : Rensselaer Polytechnic Institute,
+                     Troy, NY, 12180
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?hl=en&user=1a0m6poAAAAJ
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : sakin@purdue.edu
+  researchgate     : https://www.researchgate.net/profile/Semih-Akin
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/semih-akin-4297666b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIKMQdcZQQhyEebtQRx33aw%3D%3D
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
