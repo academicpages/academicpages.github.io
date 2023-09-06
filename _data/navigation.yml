@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Research"
+  - title: 'Research'
   - url: /Research/    
 
 
-  - title: "Group"
+  - title: 'Group'
   - url: /Group/
 
-   - title: "Publications"
+   - title: 'Publications'
    - url: /Publications/
     
   #- title: "Teaching"
