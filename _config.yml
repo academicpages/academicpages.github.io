@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinwei's Homepage"
+title                    : "Xinwei Gao"
 title_separator          : "-"
 name                     : &name "Xinwei Gao"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Xinwei Gao"
-  avatar           : "profile/profile2.jpg"
-  bio              : "Research Associate"
-  location         : "Singapore"
+  avatar           : # "profile/profile2.jpg"
+  bio              : "Currently serving as a Research Associate at Nanyang Technological University. <br> <br> This website is a curated space for my academic endeavors and insights. I warmly invite collaborative discussions and meaningful interactions."
+  location         : # "Singapore"
   employer         : "Nanyang Technological University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
