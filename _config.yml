@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : SEMI Lab
 title_separator          : "-"
-name                     : Semih Akin, PhD
-description              : Assistant Professor of Mechanical Engineering
+name                     : #Semih Akin, PhD
+description              : #Assistant Professor of Mechanical Engineering
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
