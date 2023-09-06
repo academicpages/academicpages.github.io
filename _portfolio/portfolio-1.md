@@ -1,6 +1,6 @@
 ---
-title: "Rapid Prototyping of Plastronics"
-excerpt: "Functional metallization on polymers is number 1<br/><img src='/images/500x300.png'>"
+title: "Research Vision"
+excerpt: "Functional metallization on polymers is number 1<br/><img src='/images/SEMI lab.png'>"
 collection: portfolio
 ---
 
