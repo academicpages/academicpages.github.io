@@ -7,7 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title: '<i class="fas fa-home"></i> Home'
+url: "https://yaswanth0209.github.io/"
 title_separator          : "-"
 name                     : &name "Yaswanth"
 description              : &description "personal description"

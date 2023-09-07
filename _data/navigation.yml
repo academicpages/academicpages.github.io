@@ -1,8 +1,8 @@
 # main links links
 main:
-  - title: '<i class="fas fa-home"></i> Home'
-    url: /https://yaswanth0209.github.io/
-    
+  #- title: '<i class="fas fa-home"></i> Home'
+    #url: /https://yaswanth0209.github.io/
+
   - title: '<i class="fas fa-project-diagram"></i> Projects' # Use an appropriate icon for projects
     url: /projects/ # Update the URL as needed
 
