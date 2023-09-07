@@ -15,6 +15,8 @@ Heiner, M., **Grimm, T.**, Smith, H., Leavitt, S. D., Christensen, W. F., Carlin
 
 **Grimm, T. R.**, Newhart, K. B., Hering, A. S. (2023+). Nonparametric threshold estimation of autocorrelatied statistics in multivariate statistical process monitoring.
 
+**Grimm, T. R.**, Branch, A., Thompson, K. A., Salveson, A., Hering, A. S., Newhart, K. B. (2023+). Long-term statistical process monitoring of an ultrafiltration water treatment process.
+
 ## Submitted
 
 ## In Revision
