@@ -28,7 +28,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
 + [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> arXiv:2307.02046
-  <br> <kbd><a href="https://arxiv.org/abs/2307.02046">arXiv</a></kbd> <kbd><a href="/files/LLM4Rec.pdf">PDF</a></kbd> <a href="/files/LLM4Rec.pdf" class="button">PDF</a>
+  <br> <a href="https://arxiv.org/abs/2307.02046" class="button">arXiv</a> <a href="/files/LLM4Rec.pdf" class="button">PDF</a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
   <br>
@@ -38,7 +38,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Jiatong Li\*, **Yunqing Liu\***, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
   <br> arXiv:2302.02591
   <br> \*Co-first author
-  <br> <kbd><a href="https://arxiv.org/abs/2306.06615">arXiv</a></kbd> <kbd><a href="/files/MolReGPT.pdf">PDF</a></kbd> <kbd><a href="https://github.com/phenixace/MolReGPT">Code</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ">中文Chinese</a></kbd>         
+  <br> <a href="https://arxiv.org/abs/2306.06615" class="button">arXiv</a> <a href="/files/MolReGPT.pdf" class="button">PDF</a> <a href="https://github.com/phenixace/MolReGPT" class="button">Code</a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button">中文Chinese</a>         
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>
   <br>            
@@ -47,7 +47,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (**_IJCAI_** **2023**)
   <br> arXiv:2302.02591
-  <br> <kbd><a href="https://arxiv.org/abs/2302.02591">arXiv</a></kbd> <kbd><a href="/files/Diffusion_Survey.pdf">PDF</a></kbd> <kbd><a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg">中文Chinese</a></kbd>  <kbd><a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs">Github</a></kbd> 
+  <br> <a href="https://arxiv.org/abs/2302.02591" class="button">arXiv</a> <a href="/files/Diffusion_Survey.pdf" class="button">PDF</a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button">中文Chinese</a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button">Github</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
   <br>             
@@ -56,7 +56,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Hanxu Hu, **Yunqing Liu**, Zhongyi Yu and Laura Perez-Beltrachini
   <br> Findings of the Association for Computational Linguistics: **_EACL_** **2023**
   <br> arXiv:2302.09820
-  <br> <kbd><a href="https://arxiv.org/abs/2302.09820">arXiv</a></kbd> <kbd><a href="/files/T2TRobust.pdf">PDF</a></kbd> <kbd><a href="https://github.com/hanxuhu/controllT2Trobust">Code</a></kbd>
+  <br> <a href="https://arxiv.org/abs/2302.09820" class="button">arXiv</a> <a href="/files/T2TRobust.pdf" class="button">PDF</a> <a href="https://github.com/hanxuhu/controllT2Trobust" class="button">Code</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">EACL 2023</div><img src='/images/outputs.png' alt="sym" width="400"></div></div>
   <br>              
@@ -65,7 +65,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br>Yue Weng, Bo Ding, **Yunqing Liu**, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang
   <br>**_Organic Letters_**, **2021**, _23_(7), 2710-2714
   <br> DOI:10.1021/acs.orglett.1c00609
-  <br> <kbd><a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609">Website</a></kbd> <kbd><a href="/files/acs.orglett.1c00609.pdf">PDF</a></kbd>
+  <br> <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609" class="button">Website</a> <a href="/files/acs.orglett.1c00609.pdf" class="button">PDF</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
   <br>             
@@ -74,7 +74,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br>Bo Ding, Yue Weng, **Yunqing Liu**, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
   <br>**_European Journal of Organic Chemistry_**, **2019**, _46_(12), 7596-7605
   <br> DOI:10.1002/ejoc.201901572
-  <br> <kbd><a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572">Website</a></kbd> <kbd><a href="/files/ejoc.201901572.pdf">PDF</a></kbd>
+  <br> <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572" class="button">Website</a> <a href="/files/ejoc.201901572.pdf" class="button">PDF</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
         
