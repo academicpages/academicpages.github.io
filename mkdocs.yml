@@ -50,8 +50,6 @@ markdown_extensions:
 plugins:
   - glightbox
   - same-dir
-  - git-revision-date-localized:
-      enable_creation_date: true
 
 extra:
   social:
