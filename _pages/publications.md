@@ -11,6 +11,47 @@ table, th, td {
 }
 </style>
 
+## 2023
+
+<table>
+<tr>
+<td style="width:70%">
+<b> Developing a spontaneous speech-based artificial intelligence for Alzheimer’s disease detection </b>
+<br>
+Laurine Dargaud, Abhista Partal, Anton Birn, **Nicki Skafte Detlefsen**
+<br>
+To be released in Journal of the International Society for Telemedicine and eHealth
+<br>
+<!-- <a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_protein.pdf">PDF</a> -->
+</td>
+<td style="width:30%">
+<p align="center">
+<!-- <img src="../images/2022_protein.PNG" width="300" title="hover text"> -->
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width:70%">
+<b> Neuro-Tech Revolution: AI-EEG Integration for Advanced Depression Diagnosis </b>
+<br>
+Bekarys Gabdrakhimov, **Nicki Skafte Detlefsen**, Cihan Uyanik, Osama Ejaz, Muhammed Ahmed Khan, Muhammad Abul Hasan,
+Saad Ahmed Qazi, Sadasivan Puthusserypady
+<br>
+Preprint available
+<br>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_protein.pdf">PDF</a>
+</td>
+<td style="width:30%">
+<p align="center">
+<img src="../images/2022_protein.PNG" width="300" title="hover text">
+</p>
+</td>
+</tr>
+</table>
+
 ## 2022
 
 <table>
@@ -22,11 +63,11 @@ table, th, td {
 <br>
 In Nature Communications
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2022_protein.pdf">PDF</a>
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2023_ai_eeg.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
-<img src="../images/2022_protein.PNG" width="300" title="hover text">
+<img src="../images/2023_ai_eeg.PNG" width="300" title="hover text">
 </p>
 </td>
 </tr>
@@ -61,7 +102,12 @@ In Journal of Open Source Software (JOSS)
 <td style="width:70%">
 <b> Developing and validating COVID‑19 adverse outcome risk prediction models from a bi‑national European cohort of 5594 patients </b>
 <br>
-Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen, Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt, Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, **Nicki S. Detlefsen**, Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton, Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen, Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
+Espen Jimenez-Solem, Tonny S Petersen, Christina Lioma, Christian Igel, Wouter Boomsma, Oswin Krause, Casper Hansen,
+Christian Hansen, Stephan Lorenzen, Raghavendra Selvan, Janne Petersen, Martin Erik Nyeland, Mikkel Zöllner Ankarfeldt,
+Gert Mehl Virenfeldt, Anne Helms Andreasen, Matilde Winther-Jensen, Mostafa Ghazi, **Nicki S. Detlefsen**,
+Andreas Lauritsen, Abraham Smith, Marleen de Bruijne, Bulat Ibragimov, Jens Petersen, Martin Lillholm, Jon Middleton,
+Stine Hasling Mogensen, Hans-Christian Thorsen-Meyer, Anders Perner, Maria Helleberg, Benjamin Skov Kaas-Hansen,
+Alexander Bonde, Akshay Pai, Mads Nielsen Martin Sillesen
 <br>
 In Scientific Reports, Nature 2020
 <br>
@@ -84,7 +130,7 @@ Raghavendra Selvan, Erik B. Dam, Nicki Skafte Detlefsen, Sofus Rischel, Kaining 
 <br>
 In ICML Workshop on Learning from Missing Data (Artemiss) 2020
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_lung_segmentation.pdf">PDF</a> 
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2020_lung_segmentation.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
@@ -105,7 +151,7 @@ Nicki Skafte Detlefsen, Martin Jørgensen, Søren Hauberg
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_variance_estimation.pdf">PDF</a> 
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_variance_estimation.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
@@ -124,7 +170,7 @@ Nicki Skafte Detlefsen, Søren Hauberg
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_disentanglement.pdf">PDF</a> 
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_disentanglement.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
@@ -143,7 +189,7 @@ Ron Shapira Weber, Matan Eyal, Nicki Skafte Detlefsen, Oren Shriki, Oren Freifel
 <br>
 In Advances in Neural Information Processing Systems (Neurips) 2019
 <br>
-<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_dtan.pdf">PDF</a> 
+<a href="https://github.com/SkafteNicki/SkafteNicki.github.io/blob/master/files/2019_dtan.pdf">PDF</a>
 </td>
 <td style="width:30%">
 <p align="center">
