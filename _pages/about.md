@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi I am YaswanthPavan 👋"
+title: "                                       Hi I am YaswanthPavan 👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
