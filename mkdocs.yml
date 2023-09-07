@@ -1,0 +1,71 @@
+site_name: Nicki Skafte Detlefsen
+docs_dir: .
+site_dir: ../site
+repo_url: https://github.com/SkafteNicki/SkafteNicki.github.io
+
+theme:
+  language: en
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.tabbed:
+      alternate_style: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - glightbox
+  - same-dir
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+extra:
+  social:
+    - icon: material/email
+      link: mailto:skaftenicki@gmail.com
+    - icon: fontawesome/brands/github
+      link: https://github.com/SkafteNicki
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/nicki-skafte-detlefsen/
+
+nav:
+  - Home: README.md
+  - Publications: publications.md
+  - Teaching: teaching.md
+  - Code: code.md
+  - CV: cv.md
+
