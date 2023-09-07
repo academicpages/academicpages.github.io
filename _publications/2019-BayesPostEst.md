@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "Investigating disaster response through social media data and the Susceptible-Infected-Recovered (SIR) model: A case study of 2020 Western U.S. wildfire season"
 collection: publications
-permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
+permalink: /publication/2023-sir
+date: 2023-08-10
+venue: 'intended for Sustainable Cites and Society'
 paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+link: 'https://doi.org/10.48550/arXiv.2308.05281'
+citation: '1.	Ma, Z.*, Li, L., Hemphill, L., & Baecher, G. B. (2023). “Investigating disaster response through social media data and the Susceptible-Infected-Recovered (SIR) model: A case study of 2020 Western U.S. wildfire season” (arXiv:2308.05281).&quot https://doi.org/10.48550/arXiv.2308.05281'
 ---
