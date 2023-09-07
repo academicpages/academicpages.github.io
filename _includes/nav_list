@@ -49,11 +49,15 @@
     {% for item in site.data.navigation.main %}
       <li>
         <a href="{{ site.baseurl }}{{ item.url }}">
-          {{ item.title | raw }}
+          <svg id="Layer_1_1_" style="enable-background:new 0 0 64 64;" version="1.1" viewBox="0 0 64 64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <!-- Your SVG code here -->
+          </svg>
+          {{ item.title }}
         </a>
       </li>
     {% endfor %}
   </ul>
 </nav>
+
 
 
