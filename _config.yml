@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rob Williams"
+title                    : "Zihui Ma"
 title_separator          : "-"
-name                     : &name "Rob Williams"
-description              : &description "Postdoc in Political Science"
-url                      : https://jayrobwilliams.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Zihui Ma"
+description              : &description "Phd Student @ University of Maryland - College Park "
+url                      : https://zihuima.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jayrobwilliams/jayrobwilliams.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -56,10 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-mastodon:
-  username               : "fosstodon.org/@jayrobw"
 twitter:
-  username               : 
+  username               : @Mzihui
 facebook:
   username               :
   app_id                 :
@@ -84,16 +82,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Williams"
+  name             : "Zihui Ma"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
+  bio              : "Ph.D. student at University of Maryland - College Park"
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "http://orcid.org/0000-0002-2836-280X"
+  googlescholar    : "https://scholar.google.com/citations?user=-lWZw2IAAAAJ&hl=en"
+  email            : "zma88@umd.edu"
+  researchgate     : "https://www.researchgate.net/profile/Zihui-Ma-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -101,15 +99,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "missa7481"
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : “zihui(Helen) Ma"
+  mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
