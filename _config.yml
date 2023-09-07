@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "🏠Home"
+title                    : "<i class="fas fa-home"></i> Home"
 title_separator          : "-"
 name                     : &name "Yaswanth"
 description              : &description "personal description"
