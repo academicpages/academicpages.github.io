@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yaswanth"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yaswanth"
 description              : &description "personal description"

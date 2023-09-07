@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Home"
+    url: https://yaswanth0209.github.io/
+
   - title: "Publications"
     url: /publications/   
      
