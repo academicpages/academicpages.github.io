@@ -59,6 +59,8 @@ extra:
       link: https://github.com/SkafteNicki
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/nicki-skafte-detlefsen/
+    - icon: simple/googlescholar
+      link: https://scholar.google.dk/citations?hl=en&user=0v4MJq8AAAAJ
 
 nav:
   - Home: README.md
