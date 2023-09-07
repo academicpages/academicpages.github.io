@@ -1,15 +1,20 @@
 ---
 layout: archive
-title: "Journal Articles"
+title: ""
 permalink: /Publications/
 author_profile: true
 ---
 
+Journal Papers
+======
+2024
+======
+1. B.S. in GitHub, GitHub University, 2012.
+2. M.S. in Jekyll, GitHub University, 2014
+3. Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+---
 
 
-title: "Conference Papers"
-permalink: /Publications/
-author_profile: true
 ---
 
 
