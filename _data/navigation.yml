@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "📚Publications"
     url: /publications/   
      
   - title: "Portfolio"
@@ -8,11 +8,5 @@ main:
     
   - title: "CV"
     url: /cv/
-    <nav>
-  <ul>
-    <li><a href="{{ site.baseurl }}/publications/" data-symbol="📚">Publications</a></li>
-    <li><a href="{{ site.baseurl }}/portfolio/" data-symbol="📂">Portfolio</a></li>
-    <li><a href="{{ site.baseurl }}/cv/" data-symbol="📄">CV</a></li>
-  </ul>
-</nav>
+    
 
