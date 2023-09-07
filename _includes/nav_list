@@ -44,37 +44,16 @@
     {% endfor %}
   </ul>
 </nav>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Navigation Menu</title>
-    <!-- Add your CSS or link to external CSS files here if needed -->
-</head>
-<body>
-    <nav>
-        <ul>
-            <!-- Replace this comment with your navigation items -->
-            {% for item in site.data.navigation.main %}
-                <li>
-                    <a href="{{ site.baseurl }}{{ item.url }}">
-                        <svg id="Layer_1_1_" style="enable-background:new 0 0 64 64;" version="1.1" viewBox="0 0 64 64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                            <g>
-                                <rect height="22" style="fill:#FFCB57;" width="24" x="20" y="21"/>
-                                <!-- Add the rest of your SVG elements here -->
-                            </g>
-                        </svg>
-                        {{ item.title }}
-                    </a>
-                </li>
-            {% endfor %}
-        </ul>
-    </nav>
-    <!-- Add your JavaScript or other content here if needed -->
-</body>
-</html>
-
-
+<nav>
+  <ul>
+    {% for item in site.data.navigation.main %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title | raw }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
 
 
