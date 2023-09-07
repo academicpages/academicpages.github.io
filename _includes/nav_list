@@ -49,9 +49,10 @@
     {% for item in site.data.navigation.main %}
       <li>
         <a href="{{ site.baseurl }}{{ item.url }}">
-          {{ item.title | raw }}
+          {{ item.title | xml_escape }}
         </a>
       </li>
     {% endfor %}
   </ul>
 </nav>
+
