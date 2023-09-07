@@ -44,3 +44,16 @@
     {% endfor %}
   </ul>
 </nav>
+<nav>
+  <ul>
+    {% for item in site.data.navigation.main %}
+      <li>
+        <a href="{{ site.baseurl }}{{ item.url }}">
+          {{ item.title | raw }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
+
+

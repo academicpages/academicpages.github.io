@@ -1,22 +1,17 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  #- title: '<i class="fas fa-home"></i> Home'
+    #url: /https://yaswanth0209.github.io/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: '<i class="fas fa-project-diagram"></i> Projects' # Use an appropriate icon for projects
+    url: /projects/ # Update the URL as needed
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: '<i class="fas fa-wrench"></i> Skills' # Use an appropriate icon for skills
+    url: /skills/ # Update the URL as needed
+
+  - title: '<i class="fas fa-id-card"></i> CV'
     url: /cv/
+
+
     
-  - title: "Guide"
-    url: /markdown/
+
