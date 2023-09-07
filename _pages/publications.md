@@ -46,7 +46,7 @@ Preprint available
 </td>
 <td style="width:30%">
 <p align="center">
-<img src="../images/2022_protein.PNG" width="300" title="hover text">
+<img src="../images/2023_ai_eeg.PNG" width="300" title="hover text">
 </p>
 </td>
 </tr>
@@ -105,7 +105,7 @@ In Nature Communications, 2022
 </td>
 <td style="width:30%">
 <p align="center">
-<img src="../images/2023_ai_eeg.PNG" width="300" title="hover text">
+<img src="../images/2022_protein.PNG" width="300" title="hover text">
 </p>
 </td>
 </tr>
