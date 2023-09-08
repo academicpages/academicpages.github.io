@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "cs-CZ"
 title                    : "David Havlik / CZECHMATE CZ s.r.o."
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "David Havlík"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
