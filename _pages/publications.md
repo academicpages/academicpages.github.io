@@ -5,9 +5,9 @@ permalink: /Publications/
 author_profile: true
 ---
 
-Journal Papers
+### Journal Papers
 ======
-2024
+### 2024
 ======
 1. B.S. in GitHub, GitHub University, 2012.
 2. M.S. in Jekyll, GitHub University, 2014
