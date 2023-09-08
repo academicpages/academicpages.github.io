@@ -13,7 +13,7 @@ You can find the replication files on [my OSF profile](https://osf.io/8sgp9).
 Peer reviewed journal articles
 ======
 
-Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World (Accepted, in press), [replication files](https://osf.io/9fkav/).
+Tisch, Daria, Emma Ischinsky (2023): Top wealth and its historical origins: Identifying entrenched fortunes by linking rich lists over 100 years. Socius: Sociological Research for a Dynamic World [doi/10.1177/23780231231192774](https://journals.sagepub.com/doi/10.1177/23780231231192774), [replication files](https://osf.io/9fkav/).
 
 Emma Ischinsky, Daria Tisch (2023): Women in the Global Super Rich. An analysis of the Forbes World’s Billionaires List, 2010 - 2023. Australian Feminist Studies [doi.org/10.1080/08164649.2023.2243649](https://dx.doi.org/10.1080/08164649.2023.2243649), [replication files](https://osf.io/yekqx/). 
 
