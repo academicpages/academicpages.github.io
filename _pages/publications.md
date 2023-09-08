@@ -7,7 +7,7 @@ author_profile: true
 # Journal Papers
 ## 2024
 
-## __Prior to joinin RPI__
+## Prior to joining RPI
 
 1. T. Chang✝, **S. Akin**✝, S. Cho✝, S. Lee, J. Lee, S. Lee, T. Park, S. Hong, T. Yu, Y. Ji, S. Gong, D.R. Kim, Y.L. Kim,
 MBG. Jun, C.H. Lee, “ In-situ spray polymerization of conductive polymers for personalized e-textiles ”, *ACS Nano*, (2023).
@@ -18,6 +18,7 @@ pure titanium layers and hydroxyapatite over-coating for orthopedic implant appl
 5. **S. Akin**, P. Wu, C. Nath, J. Chen, MBG. Jun, “[A study on converging-diverging nozzle design for supersonic spraying of liquid droplets towards nanocoating applications](https://asmedigitalcollection.asme.org/manufacturingscience/article/145/7/071011/1163004/A-Study-on-Converging-Diverging-Nozzle-Design-for)", *ASME Journal of Manufacturing Science and Engineering*, (2023). 
 6. **S. Akin**, S. Jo, MBG. Jun, “[A cold spray-based novel manufacturing route for flexible electronics](https://www.sciencedirect.com/science/article/pii/S1526612522008994?via%3Dihub)", *Journal of Manufacturing Process*, (2023). 
 7. DG. Ruzgar, **S. Akin**,  S.Lee, J. Walsh, YH. Jeong, H.Lee, MBG. Jun, “[Multifunctional Cold Spray Hybrid Coatings on Flexible Polymers for Improved Surface Properties](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332298)", *SSRN Pre-print*, (2023). 
+8. **S. Akin**,  S.Lee,  S. Lee, S. Jo, DG. Ruzgar, JT. Tsai, MBG. Jun, “[Cold spray-based rapid and scalable production of printed flexible electronics](https://www.sciencedirect.com/science/article/pii/S2214860422006339?via%3Dihub)", *Additive Manufacturing*, (2022). 
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
