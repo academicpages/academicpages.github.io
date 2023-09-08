@@ -15,7 +15,8 @@ MBG. Jun, C.H. Lee, “ In-situ spray polymerization of conductive polymers for 
 3. Lee, **S. Akin**, J. Walsh, H. Lee, MBG. Jun, Y. Shin, “[, “A Nitinol structure with functionally gradient
 pure titanium layers and hydroxyapatite over-coating for orthopedic implant applications](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *Progress in Additive Manufacturing*, (2023). 
 
-
+4. Lee, **S. Akin**, J. Walsh, H. Lee, MBG. Jun, Y. Shin, “[, “A Nitinol structure with functionally gradient
+pure titanium layers and hydroxyapatite over-coating for orthopedic implant applications](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *Progress in Additive Manufacturing*, (2023). 
 
 
 {% if author.googlescholar %}
