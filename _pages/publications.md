@@ -7,7 +7,7 @@ author_profile: true
 # Journal Papers
 ## 2024
 
-## Prior to RPI (2023)
+## __Prior to RPI__
 
 1. **S. Akin**, C. Nath, MBG. Jun, “[Selective surface metallization of 3D-printed polymers by cold spray-assisted electroless deposition](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *ACS Applied Electronic Materials*, 2023. 
 3. M.S. in Jekyll, GitHub University, 2014
