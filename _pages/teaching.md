@@ -10,7 +10,7 @@ author_profile: true
 ## Duke University
 *(Graduate Teaching Assistant)*
 
-- ECE 685D: Introduction to Deep Learning (Fall 2022)
+- ECE 685D: Introduction to Deep Learning (Fall 2022 & 2023)
   - Roles: lecturing, interactive section leading, office hours, assignment and exam creation, grading.
   - Projects led: Anomaly Detection, Self-Supervised Learning, Uncertainty Estimation.
   - Under Professor Vahid Tarokh
