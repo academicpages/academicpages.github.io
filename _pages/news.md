@@ -9,7 +9,7 @@ Below are some selected media appearances and essays related to my research.
 ## Media highlights
 
 * Our work was recently highlighted at [Science News](https://www.science.org/content/article/why-human-societies-still-use-arms-feet-and-other-body-parts-measure-things), who wrote a popular scientific piece on our research.
-* I also visited the [Science Podcast](https://www.science.org/content/podcast/how-we-measure-world-our-bodies-and-hunting-critical-minerals).
+* I also visited the [Science Podcast](https://www.science.org/content/podcast/how-we-measure-world-our-bodies-and-hunting-critical-minerals) and [Physics World Podcast](https://physicsworld.com/a/body-based-units-of-measurement-offer-advantages-over-standardized-systems-speaking-of-oppenheimer/).
 
 ## Selected essays and popular science
 
