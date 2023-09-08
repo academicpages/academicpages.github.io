@@ -9,7 +9,7 @@ author_profile: true
 
 ## __Prior to RPI__
 
-1. **_S. Akin_**, C. Nath, MBG. Jun, “[Selective surface metallization of 3D-printed polymers by cold spray-assisted electroless deposition](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *ACS Applied Electronic Materials*, 2023. 
+1. __**S. Akin**__, C. Nath, MBG. Jun, “[Selective surface metallization of 3D-printed polymers by cold spray-assisted electroless deposition](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *ACS Applied Electronic Materials*, 2023. 
 2. **S. Akin**, C. Nath, MBG. Jun, “[Selective surface metallization of 3D-printed polymers by cold spray-assisted electroless deposition](https://pubs.acs.org/doi/10.1021/acsaelm.3c00893)", *ACS Applied Electronic Materials*, 2023. 
 
 
