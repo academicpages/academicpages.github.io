@@ -21,4 +21,4 @@ Work in progress
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "Alternative ethical stances on a possible Amazon rainforest dieback", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "The uncertain fate of the Amazon rainforest", draft available upon request.
 + R. Fillon, C. Guivarch, N. Taconet, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management*.
-Codes available here: [DSCE](https://github.com/CIRED/DSCE/tree/main).
+Codes available here: [DSCE](https://github.com/CIRED/DSCE/tree/main). [Last version](https://RomainFillon.github.io/files/editable_paper.pdf).
