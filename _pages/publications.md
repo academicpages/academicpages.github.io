@@ -21,7 +21,7 @@ author_profile: true
 Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
 **WWW ’23** (long): Proceedings of the Web Conference 2023. Austin, Texas, USA, April 30 -- May 4, 2023.   
 
-* **Hybrid Contrastive Contraints for Multi-Scenario Ad Ranking**  
+* **Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking**  
 Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng  
 **CIKM ’23** (long): Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. UK, October 21-25, 2023.        
    
