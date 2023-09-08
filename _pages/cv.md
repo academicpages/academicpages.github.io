@@ -14,6 +14,7 @@ Work experience
 * CSIRO, Australian e-Health Research Centre, Brisbane
   * Postdoctoral Research Fellow
   * Search and Natural Language Process for Precision Medicine.
+  * Project website: [http://health-search.csiro.au/oscar/](http://health-search.csiro.au/oscar/)
   * Mar 2023 – Current
     
 * Microsoft, Beijing, STCA group
