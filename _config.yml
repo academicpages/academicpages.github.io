@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Theara-Seng / Engineer"
+title                    : "Theara Seng"
 title_separator          : "-"
-name                     : &name "Theara-Seng"
+name                     : &name "Theara Seng"
 description              : &description "Engineer"
 url                      : https://Theara-Seng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
