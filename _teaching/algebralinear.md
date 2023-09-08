@@ -51,5 +51,5 @@ Listas de Exercícios
 
 [Lista 02](https://mbortoloti.github.io/files/linearalgebra/lista02.pdf)
 
-
+[Lista 03](https://mbortoloti.github.io/files/linearalgebra/lista03.pdf)
 
