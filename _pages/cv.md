@@ -7,4 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% https://theara-seng.github.io/files/mycv.pdf %}
+{% %}
+
+[My Cv][https://theara-seng.github.io/files/mycv.pdf]
