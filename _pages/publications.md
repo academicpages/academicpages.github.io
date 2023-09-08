@@ -19,6 +19,11 @@ pure titanium layers and hydroxyapatite over-coating for orthopedic implant appl
 6. **S. Akin**, S. Jo, MBG. Jun, “[A cold spray-based novel manufacturing route for flexible electronics](https://www.sciencedirect.com/science/article/pii/S1526612522008994?via%3Dihub)", *Journal of Manufacturing Process*, (2023). 
 7. DG. Ruzgar, **S. Akin**,  S.Lee, J. Walsh, YH. Jeong, H.Lee, MBG. Jun, “[Multifunctional Cold Spray Hybrid Coatings on Flexible Polymers for Improved Surface Properties](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4332298)", *SSRN Pre-print*, (2023). 
 8. **S. Akin**,  S.Lee,  S. Lee, S. Jo, DG. Ruzgar, JT. Tsai, MBG. Jun, “[Cold spray-based rapid and scalable production of printed flexible electronics](https://www.sciencedirect.com/science/article/pii/S2214860422006339?via%3Dihub)", *Additive Manufacturing*, (2022). 
+9. Y.W. Kin, **S. Akin**, H. Yun, S. Xu, W. Wu, MBG. Jun, “[Enhanced performance of triboelectric nano-generator and sensor via cold spray particle deposition](https://pubs.acs.org/doi/10.1021/acsami.2c09367)", *ACS Applied Materials & Interfaces*, (2022). 
+10. T.Gabor, H. Yun,**S. Akin**, K.H. Kim, J.K. Park, MBG. Jun, “[Continuous coaxial nozzle designs forimproved powder focusing in direct laser metal deposition](https://www.sciencedirect.com/science/article/pii/S1526612522005795?via%3Dihub)", *Journal of Manufacturing Process*, (2022). 
+
+
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
