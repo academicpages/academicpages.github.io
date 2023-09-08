@@ -15,7 +15,7 @@ Project: Federated Learning and Internet of Things
 Project: ECG-Based Arrhythmia Detection
 
 * **10/2020 - 12/2021**<br />
-**Research Intern - Smart Health Center, Vingroup Big Data Institute**<br />
+**Research Intern - VinBigData Smart Health Center, Vingroup Big Data Institute**<br />
 Project: Abnormality Detection on Chest Radiographs
 
 * **01/2020 - 09/2020**<br />
