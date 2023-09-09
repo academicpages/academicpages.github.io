@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /experience/
+permalink: /Work experience/
 author_profile: true
 redirect_from:
   - /resume
