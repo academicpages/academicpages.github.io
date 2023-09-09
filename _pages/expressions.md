@@ -34,6 +34,6 @@ It will be completed soon
 
 
 **Tutor** - Mashhad, Iran <br>
-* Private Python Programming Tutor, 2021 - Jan. 2022
-* Private MATLAB Programming Tutor, 2021 - Jan. 2022
-* Private C and C++ Programming Tutor 2020 - Jan. 2022
+* Private Python Programming Tutor
+* Private MATLAB Programming Tutor
+* Private C and C++ Programming Tutor
