@@ -4,13 +4,6 @@ excerpt: "The full name of FIO-AOW is Atmosphere-Ocean-Wave coupled model which 
 collection: portfolio
 ---
 
-FIO-AOW has been used to study the impacts of ocean surface waves on tropical cyclone. Currently, the following wave related physical processes have been considered in FIO-AOW, including，
-1. Thermal effect of sea spray on air-sea heat and moisture fluxes
-2. Sea state dependent air-sea momentum flux
-3. Non-breaking wave-induced vertical mixing
-4. Relative wind speed
-5. Rain-induced surface cooling
-
 For more details about FIO-AOW, people could refer to the papers below
 
 1. Zhao, B., Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: Numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015
