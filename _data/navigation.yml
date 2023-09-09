@@ -9,6 +9,12 @@ main:
   - title: "Publications"
     url: /Publications/
 
+          sub_nav:
+        - title: Journal Publications
+          url: /Publications/Journal/
+        - title: Conference Papers
+          url: /services/Conference/
+
   - title: "Teaching"
     url: /Teaching/
 
