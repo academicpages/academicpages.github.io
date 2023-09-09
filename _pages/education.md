@@ -8,7 +8,7 @@ author_profile: true
 <div>
   <u1>
     <li>
-      ::marker
+      ::
       <h3>M.Sc. Student in Computer Engineering</h3>
       <h4>Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran</h4>
       <h5>
