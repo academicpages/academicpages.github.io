@@ -1,5 +1,5 @@
 # main links links
-main nav:
+main:
   - title: "Research"
     url: /Research/
 
@@ -8,7 +8,7 @@ main nav:
 
   - title: "Publications"
     url: /Publications/
-    sub nav:
+    sub:
       - title: Journal Papers
         url: /Publications/Journal/
       - title: Conference Papers
