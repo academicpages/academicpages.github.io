@@ -19,6 +19,10 @@ Shahrood University of Technology, Shahrood, Iran <br>
 Thesis: _Design Real Time Face Recognition Systems Based on LBP Features on Odroid-XU4 Embedded Computer Board_ <br>
 Advisor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB;">Prof. Alireza Ahmadyfard</a><br>
 
+* **Diploma in Mathematics and Physics Discipline** <br>
+Seyyed Ahmad Khomeini High School, Mashhad, Iran
+
+
 
 
 
