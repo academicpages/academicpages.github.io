@@ -8,7 +8,7 @@ author_profile: true
 
 
 * **M.Sc. Student in Computer Engineering** <br>
-Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran <br>
+<h4>Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran </h4><br>
 Advisor: <a href="https://aut.ac.ir/cv/2505/MORTEZA%20SAHEB%20ZAMANI" style="color: #0011DB;"> Prof. Morteza Sahez Zamani</a>
 
   Amirkabir University of Technology (Tehran Polytechnique)</a>, Tehran, Iran, 2023-Present
