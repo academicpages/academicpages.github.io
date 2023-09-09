@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "cs-CZ"
-title                    : "David Havlik / CZECHMATE CZ"
+title                    : "David Havlík / CZECHMATE CZ s.r.o."
 title_separator          : "-"
 name                     : &name "David Havlík"
 description              : &description "personal description"
