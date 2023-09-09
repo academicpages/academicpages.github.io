@@ -17,8 +17,7 @@ You can also find my articles on <a href="https://scholar.google.com/" style="co
    features. This algorithm implement on <a href="https://www.hardkernel.com/" style="color: #0011DB;">Odroid</a> embedded computer.
 
 
-
-**Otoacoustic Emissions** (<span style="color: #0011DB">**IC Laboratory**</span>) <br>
+**Otoacoustic Emissions (<span style="color: #0011DB">IC Laboratory</span>)** <br>
 **Research Assistant**, Supervisor: <a href="https://shahroodut.ac.ir/en/as/?id=S817" style="color: #0011DB;">Dr. Mohammad Reza Ashraf</a>, Department of Electrical engineering, Shahrood University of Technology. <br>
    * _Studies and research focused on **Hard Ware of OAE’s**_ <br>
    Otoacoustic emissions (OAEs) are widely used in universal newborn hearing screening programs. In this Research we are looking for design and implement of OAE device for   recognition hearing loss in childrens.
