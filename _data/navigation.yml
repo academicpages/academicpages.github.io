@@ -8,7 +8,7 @@ main:
 
   - title: "Publications"
     url: /Publications/
-    sub_nav:
+    sub:
       - title: Journal Papers
         url: /Publications/Journal/
       - title: Conference Papers
