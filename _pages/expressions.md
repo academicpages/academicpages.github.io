@@ -1,12 +1,9 @@
 ---
-layout: archive
-permalink: /Work experience/
+permalink: /experience/
+title: "Work experience"
+excerpt: "my experience"
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
 
 Work experience
 ======
