@@ -5,16 +5,16 @@ excerpt: "my experience"
 author_profile: true
 ---
 
-* **Digital System Design Automation Laboratory**, Tehran, Iran: 2023-Present
+* **Digital System Design Automation Laboratory** <br>Tehran, Iran
   * Job Description: Research Assistant
 
-* **Fin Company**, Tehran, Iran: 2023
+* **Fin Company**, <br>Tehran, Iran
   * Job Description: Biomedical Signal Processing Developer
 
-* **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> Radan Electronic</a>**, Mashhad, Iran: 2022
+* **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> Radan Electronic</a>** <br>Mashhad, Iran
   * Job Description: Embedded Software Developer
 
-* **<a href="https://www.researchgate.net/lab/Integrated-Circuits-Design-Lab-Mohammad-Reza-Ashraf" style="color: #0011DB; text-decoration: underline;"> IC Lab</a>**, Shahrood, Iran: 2021
+* **<a href="https://www.researchgate.net/lab/Integrated-Circuits-Design-Lab-Mohammad-Reza-Ashraf" style="color: #0011DB; text-decoration: underline;"> IC Laboratory</a>** <br>Shahrood, Iran
   * Job Description: Head of The Hard Ware department on OAE Project
  
 
