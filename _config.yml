@@ -80,40 +80,40 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "David Havlík (DLP)"
+  avatar           : "profile - Copy.png"
   bio              : "Specialista na úniky a bezpečnost informací / Data Leakage Preventionist 🔒🌐 Co-founder at CZECHMATE CZ s.r.o."
   location         : "Depends on VPN"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         : "Národní pedagogický institut České republiky (NPI ČR)"
+  pubmed           : 
+  googlescholar    : 
+  email            : "david.havlik@czechmatecz.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "datadetective.dlp"
   foursquare       :
-  github           : "academicpages"
+  github           : "david-czechmatecz"
   google_plus      :
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "czechmate_cz"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "david.havlik"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "david_havlik"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@DavidHavlik"
   wikipedia        :
 
 
