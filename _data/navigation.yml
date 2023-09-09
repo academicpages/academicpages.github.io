@@ -8,11 +8,11 @@ main:
 
   - title: "Publications"
     url: /Publications/
-    sub:
+    dropdown:
       - title: Journal Papers
         url: /Publications/Journal/
       - title: Conference Papers
-        url: /Publications/Conference/
+        url: /Publications/service-2/
     
 
   - title: "Teaching"
