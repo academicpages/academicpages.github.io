@@ -1,5 +1,9 @@
 # main links links
 main:
+  - title: "Education"
+    url: /education/
+
+
   - title: "Publications"
     url: /publications/
   
@@ -10,9 +14,11 @@ main:
     
   - title: "Experience"
     url: /experience/
+
     
   - title: "CV"
     url: /cv/
+
 
   - title: "Contact"
     url: /contact/
