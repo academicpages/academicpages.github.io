@@ -25,7 +25,7 @@ Seyyed Ahmad Khomeini High School, Mashhad, Iran
 
 ## Honors and Awards
 * **Acceptance** of Master’s Degree Without Entrance Exam **With Brilliant Talent** at **Amirkabir University of Technology (Tehran Polytechnique)**
-* **Ranked 2nd (top 1%)** in Department of Electrical Engineering, Shahrood University of Technology, **Among More Than 120 Students**.
+* **Ranked <sup>2nd</sup> (top 1%)** in Department of Electrical Engineering, Shahrood University of Technology, **Among More Than 120 Students**.
 * Chief of **Student Scientific Association** of Electrical Engineering 
 
 
