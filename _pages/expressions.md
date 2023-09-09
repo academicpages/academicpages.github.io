@@ -33,7 +33,7 @@ It will be completed soon
 * **Circuit Theory**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S865" style="color: #0011DB; text-decoration: underline;"> Dr. Shivaie</a>, from Fall-2020 to Spring-2021
 
 **Tutor** - Shahrood, Iran <br>
-Private Altium Designer Tutor
+* Private Altium Designer Tutor
 
 **Tutor** - Mashhad, Iran <br>
 * Private Python Programming Tutor
