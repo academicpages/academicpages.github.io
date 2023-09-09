@@ -8,14 +8,14 @@ main:
     url: /publications/
   
 
-  - title: "Teaching"
-    url: /teaching/      
-
-    
-  - title: "Experience"
+  - title: "Work experience"
     url: /experience/
 
     
+  - title: "Teaching"
+    url: /teaching/      
+
+
   - title: "CV"
     url: /cv/
 
