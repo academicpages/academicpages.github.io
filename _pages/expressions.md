@@ -21,7 +21,7 @@ author_profile: true
 **Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
 It will be completed soon
 
-**List of the courses I TA'ed for:**
+**Teaching Assistant** - Shahrood University of Technology <br>
 * **Digital Electronics (Pulse Technique)**, Shahrood University of Technology, Lecturer: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, Spring-2023
 
 * **Signal and Systems**, Shahrood University of Technology, Lecturer: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, from Fall-2021 to Spring-2023
