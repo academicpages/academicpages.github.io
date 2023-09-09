@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+   I am doing a PostDoc with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE (my office is 3012). This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
+
 # News
 
-   I am doing a PostDoc with [Vianney Perchet](https://vianney.ai/) at CREST, ENSAE (my office is 3012). This post-doc is funded by an [Hadamard postdoctoral fellowship](https://www.fondation-hadamard.fr/en/articles/2023/01/24/reicpients-2023/).
+  I will be teaching the course [Online Learning and Aggregation](https://www.ensae.fr/courses/2598-online-learning-and-aggregation) to third-year students at ENSAE.
    
 # Papers, preprints, and software
 
