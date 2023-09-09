@@ -8,12 +8,12 @@ main:
 
   - title: "Publications"
     url: /Publications/
-
-          sub_nav:
-        - title: Journal Publications
-          url: /Publications/Journal/
-        - title: Conference Papers
-          url: /services/Conference/
+    sub_nav:
+      - title: Service 1
+        url: /services/service-1/
+      - title: Service 2
+        url: /services/service-2/
+    
 
   - title: "Teaching"
     url: /Teaching/
