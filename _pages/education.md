@@ -6,8 +6,6 @@ author_profile: true
 ---
 
 
-Education
-======
 * **M.Sc. Student in Computer Engineering**
 
 Amirkabir University of Technology (Tehran Polytechnique)</a>, Tehran, Iran, 2023-Present
