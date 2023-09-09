@@ -18,4 +18,4 @@ You can also find my articles on <a href="https://scholar.google.com/" style="co
 
 
 
-Otoacoustic Emissions (<span style="color: #0011DB">IC Lab</span>)
+Otoacoustic Emissions (<span style="color: #0011DB">IC Laboratory</span>)
