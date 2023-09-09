@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Marine Science, Ocean University of China, 2008
+* M.S. in Physical Oceanography, First Institute of Oceanograpgy, 2012
+* Ph.D in Atmospheric Science,Tsinghua University, 2023
 
 Work experience
 ======
