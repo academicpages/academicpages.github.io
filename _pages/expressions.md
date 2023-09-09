@@ -31,3 +31,9 @@ It will be completed soon
 * **Analog Electronics**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S817" style="color: #0011DB; text-decoration: underline;"> Dr. Ashraf</a>, Fall-2022
   
 * **Circuit Theory**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S865" style="color: #0011DB; text-decoration: underline;"> Dr. Shivaie</a>, from Fall-2020 to Spring-2021
+
+
+**Tutor** - Mashhad, Iran <br>
+* Private Python Programming Tutor, 2021 - Jan. 2022
+* Private MATLAB Programming Tutor, 2021 - Jan. 2022
+* Private C and C++ Programming Tutor 2020 - Jan. 2022
