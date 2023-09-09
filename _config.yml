@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Biao Zhao"
   avatar           : "biao.png"
-  bio              : "Postdoctral reseacher"
+  bio              : "Postdoctoral Reseacher"
   location         : "Uppsala, Sweden"
   employer         : "Uppsala University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=YAZxa00AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
