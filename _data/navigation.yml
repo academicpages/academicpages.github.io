@@ -9,10 +9,10 @@ main:
   - title: "Publications"
     url: /Publications/
     sub_nav:
-      - title: Service 1
-        url: /services/service-1/
-      - title: Service 2
-        url: /services/service-2/
+      - title: Journal Papers
+        url: /Publications/Journal/
+      - title: Conference Papers
+        url: /Publications/Conference/
     
 
   - title: "Teaching"
