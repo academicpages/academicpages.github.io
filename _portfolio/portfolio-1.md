@@ -1,6 +1,6 @@
 ---
 title: "TimeSync"
-excerpt: "All Purpose Scheduling Platform <br/><img src = '../images/Overview1.PNG'>" 
+excerpt: "All Purpose Scheduling Platform <br/><img src = '/images/Overview1.PNG'>" 
 collection: portfolio
 ---
 
