@@ -21,7 +21,7 @@ Work experience
   * Uppsala Univeristy
   * Duties included: air-sea-wave interaction
   * Supervisor: Associate Professor Lichuan Wu
-  * 
+  
 * 2014.04-2023.08: Research Associate
   * First Institute of Oceanography
   * Duties included: developing coupled model, tropical cyclone
