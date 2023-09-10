@@ -19,7 +19,7 @@ author_profile: true
 -----
 * Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications \[[SLIDES](https://shiruipan.github.io/post/GSSL_tutorial.pdf)\]  
 **Yixin Liu**, Yizhen Zheng, Ming Jin, Feng Xia, Shirui Pan.  
-2022.
+IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 
 ## Preprint
 -----
