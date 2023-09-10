@@ -25,12 +25,14 @@ Invited Talks
 
 Conference PC Member/Reviewer
 ----
+* PC Member, [AAAI Conference on Artificial Intelligence (AAAI) 2024](https://aaai.org/aaai-conference/)
 * PC Member, [International Joint Conference on Artificial Intelligence (IJCAI) 2023](https://ijcai-23.org)
 * PC Member, [AAAI Conference on Artificial Intelligence (AAAI) 2023](https://aaai.org/Conferences/AAAI-23/)
-* PC Member, [IEEE International Conference on Data Mining (ICDM) 2023]()
+* PC Member, [IEEE International Conference on Data Mining (ICDM) 2023](https://www.cloud-conf.net/icdm2023/)
 * PC Member, [IEEE International Conference on Data Mining (ICDM) 2022](https://icdm22.cse.usf.edu/)
 * PC Member, [IEEE International Conference on Advanced Learning Technologies (ICALT) 2022](https://tc.computer.org/tclt/icalt-2022/)
 * PC Member, [IEEE International Conference on Data Science and Systems (DSS) 2021](http://www.ieee-cybermatics.org/2021/dss/)
+* Reviewer, [ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023](https://kdd.org/kdd2023/)
 * Reviewer, [NeurIPS 2022 Temporal Graph Learning (TGL) Workshop](https://sites.google.com/view/tglworkshop2022/home)
 
 Journal Reviewer
