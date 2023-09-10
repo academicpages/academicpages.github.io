@@ -44,6 +44,8 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
+Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election]()." Social Science Research.
+
 Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu.2023. ``[NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data].'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
 
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://www.nature.com/articles/s41599-023-01959-6)." Nature Humanities and Social Sciences Communications.
@@ -65,8 +67,6 @@ Yongjun Zhang. 2021. "[Corporate Responses to COVID19: A Non-Market Strategy App
 Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androgynous names: Dynamics of gendered naming practices in the United States 1880–2016.](http://www.charlieseguin.com/uploads/4/1/2/7/41271621/seguin_poetics_names_10-2020.pdf)" Poetics
 
 ## Working Paper
-
-Yongjun Zhang. 2023. "[Spatial Segregation and Political Engagement among Asian Americans in New York City]()."
 
 Yongjun Zhang. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
 
