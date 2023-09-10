@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. The effects of ocean surface waves on tropical cyclone intensity, **Autumn Seminar**, 2023.08, Uppsala, Sweden(Talk).
+1. The effects of ocean surface waves on tropical cyclone intensity, **Autumn Seminar**, 2023.08, Uppsala, Sweden (Talk).
 
 2. The effects of ocean surface waves on tropical cyclone intensity, **4th Workshop on Waves and Wave-Coupled Processes**, 2023.02, Uppsala, Sweden(Online Talk).
   
