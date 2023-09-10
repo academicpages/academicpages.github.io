@@ -1,22 +1,21 @@
 ---
 title: "TimeSync"
-excerpt: "All purpose scheduling platform<br/><img src='/images/Overview1.png'>"
+excerpt: "All-purpose scheduling platform <br><img src='/images/Overview1.png' alt='Overview Image'>"
 collection: portfolio
 ---
 
 Developers: Shuaib Ahmed, Samintha Chandrasiri
 
-![Alt text](/Developers.png)
 
 ## Links
-**Link to Application:** https://timesyncbeta.netlify.app/ \
-**Demo:** https://www.youtube.com/watch?v=B8Pv4g0Szqo
+- [Link to Application](https://timesyncbeta.netlify.app/)
+- [Demo](https://www.youtube.com/watch?v=B8Pv4g0Szqo)
 
 ## Overview
 
 Inspired by the need to streamline scheduling logistics and communication, Shuaib Ahmed and Samintha Chandrasiri worked through their freshman year in the UC system to create TimeSync. TimeSync is a versatile and user-friendly scheduling application designed to revolutionize how organizations and groups manage their tasks and appointments. It offers an intuitive platform that allows clients and organizers to collaborate seamlessly on a shared platform.
 
-After months of hardwork and improvements, our team felt that the product was ready to be released as a beta and free-to-use platform. Feel free to check out the provided demo, and use the application!
+After months of hard work and improvements, our team felt that the product was ready to be released as a beta and free-to-use platform. Feel free to check out the provided demo, and use the application!
 
 ## Key Features
 
@@ -26,9 +25,6 @@ After months of hardwork and improvements, our team felt that the product was re
 
 **3. Versatility:** Whether you are a corporate team, a non-profit organization, a sports club, or any group with scheduling needs, TimeSync caters to all. Our application is customizable and flexible to accommodate a wide range of scheduling requirements.  
 
-<br>
-          
-![Alt text](/Overview1.png)
-![Alt text](/Overview2.png)
-
+![Overview1](../images/Overview1.png)
+![Overview2](../images/Overview2.png)
 
