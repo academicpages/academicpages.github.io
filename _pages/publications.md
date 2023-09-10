@@ -37,7 +37,7 @@ Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L.
    
 **Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.
 
-2016
+2014
 ======
 **Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks[J]. Chinese Science Bulletin, 59(24), 3075-3084. https://doi.org/10.1007/s11434-014-0255-0.  
 
