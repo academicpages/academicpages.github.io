@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biao Zhao / Personal Homepage"
+title                    : "Biao Zhao"
 title_separator          : "-"
 name                     : &name "Biao Zhao"
 description              : &description "personal description"
