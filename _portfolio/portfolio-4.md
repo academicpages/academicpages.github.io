@@ -4,8 +4,6 @@ excerpt: "Intuitive SQL Query Generator with Natural Language Processing<br/>"
 collection: portfolio
 ---
 
-
-
 ## Overview
 
 

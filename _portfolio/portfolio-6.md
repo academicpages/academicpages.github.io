@@ -3,8 +3,6 @@ title: "RMP Extension"
 excerpt: "Schedule Builder Extension for UC Davis students<br/>"
 collection: portfolio
 ---
-# RMP Extension
-
 Developers: Shuaib Ahmed, Mark Soliman, Dave Nyugen
 
 

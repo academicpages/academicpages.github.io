@@ -3,8 +3,6 @@ title: "Weather Predictor"
 excerpt: Prediction Model using Custom Linear Regression<br/>"
 collection: portfolio
 ---
-
-# Weather-Predictor
 Developer: Shuaib Ahmed
 
 [View The Project Here!](/images/LR_GD.md)
