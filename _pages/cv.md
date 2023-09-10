@@ -24,7 +24,7 @@ Work experience
   
 * 2014.04-2023.08: Research Associate
   * First Institute of Oceanography
-  * Duties included: developing coupled model, tropical cyclone
+  * Duties included: developing coupled model and studying tropical cyclone
   * Supervisor: Professor Fangli Qiao
 
 * 2012.07-2014.04: Research Associate
