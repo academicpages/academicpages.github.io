@@ -17,24 +17,37 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.08-present: Postdoctoral researcher
+  * Uppsala Univeristy
+  * Duties included: air-sea-wave interaction
+  * Supervisor: Associate Professor Lichuan Wu
+  * 
+* 2014.04-2023.08: Research Associate
+  * First Institute of Oceanography
+  * Duties included: developing coupled model, tropical cyclone
+  * Supervisor: Professor Fangli Qiao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012.07-2014.04: Research Associate
+  * National Marine Environmental Forecasting Center
+  * Duties included: Arctic ocean-ice modelling
+  * Supervisor: Professor Lin Zhang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer
+  * Fortran
+  * Matlab
+  * Linux
+  * Windows
+* Numerical simulation
+  * WRF
+  * ROMS
+  * POM
+  * MASNUM
+* Data analysis
+* Data visualization
+  
+  
 
 Publications
 ======
