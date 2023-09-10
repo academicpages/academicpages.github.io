@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Hiwot Belay Tadesse"
 title_separator          : "-"
 name                     : &name "Hiwot Belay Tadesse "
-description              : &description "personal description"
+description              : &description "First Year PhD student"
 url                      : https://HiwotBelayTadesse.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Hiwott985/HiwotBelayTadesse.github.io" 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
