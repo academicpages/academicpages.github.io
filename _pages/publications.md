@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 1.	**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
 
 2.	**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.
