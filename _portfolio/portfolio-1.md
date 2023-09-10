@@ -25,6 +25,6 @@ After months of hard work and improvements, our team felt that the product was r
 
 **3. Versatility:** Whether you are a corporate team, a non-profit organization, a sports club, or any group with scheduling needs, TimeSync caters to all. Our application is customizable and flexible to accommodate a wide range of scheduling requirements.  
 
-![Overview1](/Users/shuaibahmed/shuaib-ahmed.github.io/images/Overview1.png)
-![Overview2](/Users/shuaibahmed/shuaib-ahmed.github.io/images/Overview1.png)
+![](/Users/shuaibahmed/shuaib-ahmed.github.io/images/Overview1.png)
+![](/Users/shuaibahmed/shuaib-ahmed.github.io/images/Overview1.png)
 
