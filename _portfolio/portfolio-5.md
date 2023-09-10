@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Developer: Shuaib Ahmed
 
-[View The Project Here!](https://github.com/shuaibahmed01/Weather-Predictor)
+[View Project Here!](https://github.com/shuaibahmed01/Weather-Predictor)
 
 ## Project Overview
 This project demonstrates the creation of a weather predictor using a custom linear regression model built from scratch, along with gradient descent optimization. The predictor aims to forecast weather-related parameters based on historical data. The model was developed using Python, with libraries such as pandas, matplotlib, numpy, and sklearn utilized for data manipulation, visualization, and comparison.
