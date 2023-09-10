@@ -1,7 +1,6 @@
 ---
 title: "TimeSync"
-excerpt: "All Purpose Scheduling Platform <br/
-><img src = '/images/Overview1.png'>" 
+excerpt: "All Purpose Scheduling Platform <br/><img src = '/images/Overview1.png'>" 
 collection: portfolio
 ---
 
@@ -26,6 +25,6 @@ After months of hard work and improvements, our team felt that the product was r
 
 **3. Versatility:** Whether you are a corporate team, a non-profit organization, a sports club, or any group with scheduling needs, TimeSync caters to all. Our application is customizable and flexible to accommodate a wide range of scheduling requirements.  
 
-![](../images/Overview1.png)
-![](../images/Overview2.png)
+![Overview1](../images/Overview1.png)
+![Overview2](../images/Overview2.png)
 
