@@ -36,18 +36,22 @@ Skills
 ======
 * Computer
   * Fortran
-  * Matlab
-  * Linux
+  * MATLAB
+  * Shell
+  * Linux/Unix
   * Windows
 * Numerical simulation
   * WRF
   * ROMS
   * POM
   * MASNUM
+  * C-Coupler
 * Data analysis
 * Data visualization
-  
-  
+  * MATLAB
+  * Surfer
+  * Grapher
+    
 
 Publications
 ======
