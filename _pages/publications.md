@@ -14,6 +14,7 @@ author_profile: true
 2022
 ======
 9. **Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
+
 8. Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss. [preprint], https://doi.org/10.5194/gmd-2022-77.
 
 2021
@@ -33,6 +34,7 @@ author_profile: true
 2017
 ======
 3. Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999.
+   
 2. **Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.
 
 2016
