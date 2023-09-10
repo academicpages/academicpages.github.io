@@ -46,7 +46,7 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election]()." Social Science Research.
 
-Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu.2023. ``[NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data].'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
+Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu. 2023. ``[NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data].'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
 
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://www.nature.com/articles/s41599-023-01959-6)." Nature Humanities and Social Sciences Communications.
 
