@@ -46,11 +46,11 @@ Skills
   * POM
   * MASNUM
   * C-Coupler
-* Data analysis
 * Data visualization
   * MATLAB
   * Surfer
   * Grapher
+* Data analysis
     
 
 Publications
