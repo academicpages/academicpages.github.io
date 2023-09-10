@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+theme: jekyll-theme-merlot
 locale                   : "en-US"
 title                    : "Hiwot Belay Tadesse"
 title_separator          : "-"
