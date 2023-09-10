@@ -14,11 +14,11 @@ author_profile: false
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-powered Digital Marketing Assistant](https://medium.com/databutton/building-an-ai-powered-digital-marketing-assistant-acfd302554f0?source=rss-bf79cad6afa1------2)
 - [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://ai.plainenglish.io/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
 - [LangChain’s New Tool: LangSmith for ChatBots and Web Apps](https://ai.plainenglish.io/getting-started-with-langsmith-integrating-langsmith-with-web-applications-chatbots-cf0268f3eafb?source=rss-bf79cad6afa1------2)
 - [Multilingual Chat Bot for Personal Documents — using Cohere&#39;s Multilingual Models &amp; LangChain](https://medium.com/databutton/multilingual-chat-bot-for-personal-documents-using-coheres-multilingual-models-langchain-2b4e1c8cdab?source=rss-bf79cad6afa1------2)
 - [LangChain Autonomous Agent — Baby AGI , integrated as Web App](https://medium.com/@avra42/langchain-autonomous-agent-baby-agi-integrated-as-web-app-7a826fefad7d?source=rss-bf79cad6afa1------2)
-- [How to Build a Personalized PDF Chat Bot with Conversational Memory](https://medium.com/@avra42/how-to-build-a-personalized-pdf-chat-bot-with-conversational-memory-965280c160f8?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
