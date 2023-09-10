@@ -29,7 +29,7 @@ Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, 
 ======
 Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy[J]. Ocean Dynamics, 68(12), 1649-1661. https://doi.org/10.1007/s10236-018-1217-x.
 	
-4. Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
+Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. https://doi.org/10.1029/2018JC014137.
 
 2017
 ======
