@@ -1,22 +1,55 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /Research/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Members"
+    url: /Members/
+
+  - title: "Publications"
+    url: /Publications/
+  sub:
+    - title: Journal Papers
+    url: /Publications/Journal/
+    - title: Conference Papers
+    url: /Publications/service-2/
+    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /Teaching/
+
+  - title: "Group"
+    url: /Group/
+
+  - title: "News"
+    url: /News/
+
+  - title: "Contact"
+    url: /Contact/
     
-  - title: "Portfolio"
-    url: /portfolio/
+#-title: "Publications"
+#url: /Publications/
+  
+ #- title: "Research"
+  # url: /Research/    
+
+
+  #- title: "Group"
+  #- url: /Group/
+
+
+    
+  #- title: "Teaching"
+   # url: /teaching/    
+    
+ #- title: "Contact"
+  #  url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+   #-title: "Blog Posts"
+    #url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+   # url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+   # url: /markdown/
