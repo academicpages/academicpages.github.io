@@ -40,7 +40,7 @@ Skills
   * Shell
   * Linux/Unix
   * Windows
-* Numerical simulation
+* Numerical model
   * WRF
   * ROMS
   * POM
