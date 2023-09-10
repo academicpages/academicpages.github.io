@@ -12,8 +12,9 @@ of ocean surface waves on air-sea momentum and heat fluxes, and their influence
 on the atmospheric boundary layer and extreme processes such as tropical cyclone.
 
 I am also the developer of the regional coupled model [FIO-AOW](https://github.com/Biao-Zhao/FIO-AOW).
-With this coupled model, the goal of my research is to better understand the air-
-sea-wave coupled processes and to improve tropical cyclone and wind energy predictions. 
+
+the goal of my research is to better understand the air-sea-wave coupled processes and to improve tropical 
+cyclone and wind energy predictions. 
 
 
 
