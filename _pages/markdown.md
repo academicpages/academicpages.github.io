@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Research"
+title: "to be completed"
 author_profile: true
 redirect_from: 
   - /md/
