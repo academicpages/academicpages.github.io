@@ -15,14 +15,20 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## Tutorial
+-----
+* Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications \[[SLIDES](https://shiruipan.github.io/post/GSSL_tutorial.pdf)\]  
+**Yixin Liu**, Yizhen Zheng, Ming Jin, Feng Xia, Shirui Pan.  
+2022.
+
 ## Preprint
 -----
 * Graph Neural Networks for Graphs with Heterophily: A Survey \[[PDF](https://arxiv.org/abs/2202.07082)\]  
-Xin Zheng, **Yixin Liu**, Shirui Pan, Miao Zhang, Di Jin, and Philip S. Yu.  
+Xin Zheng, **Yixin Liu**, Shirui Pan, Miao Zhang, Di Jin, Philip S. Yu.  
 2022.
 
 * From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach \[[PDF](https://arxiv.org/abs/2202.05525)\]  
-Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, and Yi-Ping Phoebe Chen.  
+Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
 2022.
 
 ## Conference
@@ -75,7 +81,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021.
 <!-- (<span style="color:black">*CORE A\*, IF: 9.235*</span>) -->
 
 * Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection \[[PDF](https://ieeexplore.ieee.org/document/9568697)\] \[[Code](https://github.com/yixinliu233/SL-GAD)\]  
-Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, and Yi-Ping Phoebe Chen.  
+Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Yi-Ping Phoebe Chen.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2021. 
 <!-- (<span style="color:black">*CORE A\*, IF: 9.235*</span>) -->
 
@@ -85,7 +91,7 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2021.
 <!-- (<span style="color:black">*CORE A\*, IF: 14.255*</span>) -->
 
 * Cyclic Label Propagation for Graph Semi-supervised Learning \[[PDF](https://link.springer.com/article/10.1007/s11280-021-00906-2)\]  
-Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, and Jiajun Bu.  
+Zhao Li, **Yixin Liu**, Zhen Zhang, Shirui Pan, Jianliang Gao, Jiajun Bu.  
 World Wide Web (**WWWJ**), 2021. 
 <!-- (<span style="color:black">*CORE A, IF: 2.716*</span>) -->
 
