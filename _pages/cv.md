@@ -91,7 +91,7 @@ Talks
 5. **Zhao Biao**, Sensitivity of typhoon modeling to surface waves and rainfall, **8th International Workshop on Modeling the Ocean (IWMO)**, 2016.06, Bologna, Italy (Poster).
 
   
-Prjects
+Projects
 ======
 1.	National Natural Science Foundation of China (2015-2018): Effect of rainfall-induced horizontal stress on air-sea momentum flux, 258k RMB, **PI**
    
