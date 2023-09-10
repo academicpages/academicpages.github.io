@@ -38,6 +38,11 @@ Research Interests
 
 News
 ======
+[Sept. 2023] Paper accepted at ACII 2023
+Our paper on non-intrusive wireless signal based protective behaviour recognition has been accepted "Leveraging WiFi Sensing toward Automatic Recognition of Protective Behaviors".
+See you MIT Media Lab, Cambridge, MA, USA.
+[Link](https://acii-conf.net/2023/)
+
 [June. 2023] Research Internship at Nokia Bell Labs Cambridge.
 I started my PhD research intern at the prestigious [Bell Labs](https://www.bell-labs.com/about/locations/cambridge-uk/) at Cambridge during this summer!
 
