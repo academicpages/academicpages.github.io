@@ -1,31 +1,28 @@
 ---
 layout: archive
-title: "CV"
+title: CV
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+redirect_from: '[/resume]'
 ---
 
 {% include base_path %}
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Úplné střední s maturitou
+ * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* březen 2021 - do současnosti: jednatel a společník
+  *  [CZECHMATE CZ s.r.o.](https://czechmatecz.com)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* září 2019 - květen 2020 : vedoucí vyšetřovaní
+  * [Surveilligence s.r.o.](https://surveilligence.com)
+
+* květen 2000 - srpen 2019: redaktor a dramaturg
+ * [Česká televize](https://ceskatelevize.cz)
   
 Skills
 ======
