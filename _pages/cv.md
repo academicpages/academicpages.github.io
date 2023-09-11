@@ -28,6 +28,9 @@ Education
   * **Achievement for highest degree grade in BSc cohort**
 
 
+
+
+
 Field experience
 ======
 * **Issunguata Sermia, West Greenland, August 2023**
@@ -50,6 +53,21 @@ Field experience
   * Setting up campbell loggers for pro-glacial river measurements
 
 
+
+
+
+Presentations and Posters
+======
+* **International Glaciology Society British Branch Meeting, Cardiff 2023**
+  * Oral presentation: "The Impact of Late-season Melt Events on the Dynamics of the Greenland Ice Sheet"
+  * Honourable mention for the John Glen ECR prize
+* **International Glaciology Society British Branch Meeting, Edinburgh 2022**
+  * Poster: "Modelling the Past and Future Changes in Surface Mass Balance of the Juneau Icefield under RCP8.5 emissions scenario"
+
+
+
+
+
 Work experience
 ======
 * **Summer 2022: Internship, [Geographical Association](https://www.geography.org.uk/), Sheffield**
@@ -61,6 +79,8 @@ Work experience
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
   
+
+
 
 
 Skills
