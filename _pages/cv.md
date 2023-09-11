@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Invideo, Software Engineer Intern
+* Invideo, <em>Software Engineer Intern</em>
   * Implemented NeRF models to generate realistic talking head avatars from a single image + text script/driving audio.
   * Deployed the service as an API on Modal Labs cloud-compute as part of invideo's AI suite.
   * Developed an AI Playground app for collectively deploying open-source models.
