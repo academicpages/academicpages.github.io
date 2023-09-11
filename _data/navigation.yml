@@ -13,7 +13,7 @@ main:
     url: /portfolio/
         
   - title: "In The News"
-    url: /year-archive/
+    url: /news/
     
   - title: "Awards"
     url: /awards/
