@@ -38,9 +38,8 @@ Work experience
   
 Tech Stack
 ======
-* Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, NLTK, Flask, FastAPI, Django,
+Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, NLTK, Flask, FastAPI, Django,
 MongoDB, NoSQL, PostgreSQL, Docker, Kubernetes, TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS, SolidWorks, AutoCAD
-* Skill 2
 
 Publications
 ======
