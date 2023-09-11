@@ -25,8 +25,30 @@ Education
 * **BSc in Meteorology and Climate**, University of Reading, 2018-2021
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
    * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
-  * Acheivement for highest degree grade in BSc cohort
- 
+  * Achievement for highest degree grade in BSc cohort
+
+
+Field experience
+======
+* **Issunguata Sermia, West Greenland, August 2023**
+  * 10 days in the field
+  * Assisted with serving of GNSS stations and ApRES
+  * Installed off-ice automatic weather station and wind turbine
+
+* **Issunguata Sermia, West Greenland, May-June 2023**
+  * 18 days in the field
+  * Snow-covered glacier travel
+  * Assisted in the installation of:
+    * Multiple on-ice GNSS stations
+    * Phase Sensitive Radar (ApRES)
+    * Radian Broadband Seismometer to monitor pro-glacial river discharge
+  * Assisted with helicopter sling loading and on-ice rotors running equipment deployment
+
+* **PAC MSc field trip to Russell Glacier, West Greenland, August 2022**
+  * 10 days in the field
+  * Setting up on-ice GNSS station
+  * Setting up campbell loggers for pro-glacial river measurements
+
 
 Work experience
 ======
@@ -39,8 +61,6 @@ Work experience
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
   
-
-
 
 
 Skills
