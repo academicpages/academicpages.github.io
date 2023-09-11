@@ -25,7 +25,7 @@ Education
 * **BSc in Meteorology and Climate**, University of Reading, 2018-2021
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
    * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
-  * Achievement for highest degree grade in BSc cohort
+  * **Achievement for highest degree grade in BSc cohort**
 
 
 Field experience
