@@ -47,7 +47,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> Chengyi Liu, Wenqi Fan, **Yunqing Liu**, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing Li
   <br> The 32nd International Joint Conference On Artificial Intelligence (**_IJCAI_** **2023**)
   <br> arXiv:2302.02591
-  <br> <a href="https://arxiv.org/abs/2302.02591" class="button">arXiv</a> <a href="/files/Diffusion_Survey.pdf" class="button">PDF</a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button">中文Chinese</a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button">Github</a>
+  <br> <a href="https://arxiv.org/abs/2302.02591" class="button">arXiv</a> <a href="/files/Diffusion_Survey.pdf" class="button">PDF</a> <a href="https://mp.weixin.qq.com/s/rWyLqXZKuxF5hyG8TCbIyg" class="button">中文Chinese</a> <a href="https://github.com/ChengyiLIU-cs/Generative-Diffusion-Models-on-Graphs" class="button">Github</a> <a href="/files/diffusion_survey_poster.pdf" class="button">Poster</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IJCAI 2023</div><img src='/images/survey.png' alt="sym" width="400"></div></div>
   <br>             
