@@ -21,16 +21,16 @@ Research Interests
 
 Education
 ======
-University of Virginia
-B.S. Computer Science, B.S. Computer Engineering
+### University of Virginia
+B.S. Computer Science, B.S. Computer Engineering\
 Graduated May, 2023
 
-University College Dublin
-MSc Computer Science (Negotiated Learning)
+### University College Dublin
+MSc Computer Science (Negotiated Learning)\
 Will Graduate August, 2024
 
-Georgia Institute of Technology
-PhD Computer Science
+### Georgia Institute of Technology
+PhD Computer Science\
 Expected Graduation August, 2029
 
 Skills

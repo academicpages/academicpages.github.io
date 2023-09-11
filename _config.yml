@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to My Portfolio!"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zachary Yahn"
 description              : &description "Hi, I'm Zach! I'm a George J. Mitchell Scholar at University College Dublin pursuing my Masters in Computer Science. I'm interested in Artificial Intelligence and Machine Learning research, especially privacy, safety, distributed learning, and adversarial ML."
@@ -99,7 +99,7 @@ author:
   github           : "zacharyyahn"
   google_plus      :
   keybase          :
-  instagram        : "zach_yahn"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
