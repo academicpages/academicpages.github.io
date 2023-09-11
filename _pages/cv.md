@@ -11,21 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MS Robotics, University of Michigan - Ann Arbor (expected 2025)
+* BE Information Technology, University of Mumbai (2023)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Invideo, Software Engineer Intern
+  * Implemented NeRF models to generate realistic talking head avatars from a single image + text script/driving audio.
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Deployed the service as an API on Modal Labs cloud-compute, as part of invideo's AI suite.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Indian Institute of Science (IISc Bangalore), Research Intern
+  * ‘Domain Adaptive Semantic Segmentation of Indian Road Scenes’ for applications in autonomous driving and navigation systems.
+  * Supervisor: Dr. KVS Hari
+
+* Nucsoft, Software Engineer Intern
+  * Created an Optical Character Recognition (OCR) tool for masking sensitive data on government documents.
+  * Trained and deployed the model to redact the ID numbers on Aadhaar cards (similar to Social Security numbers in the US).
+
+* Mavericks Racing, Autonomous Driving Domain Head
+  * Implemented models for monocular depth estimation, video-frame interpolation, and video super-resolution.
+  * Trained a DQN agent in CarRacing 2D, an autonomous vehicle environment in OpenAI Gym.
   
 Skills
 ======
