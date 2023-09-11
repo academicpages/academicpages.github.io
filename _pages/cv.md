@@ -26,7 +26,8 @@ Education
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
    * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
   * **Achievement for highest degree grade in BSc cohort**
-
+<br/>
+<br/>
 
 
 
@@ -51,7 +52,8 @@ Field experience
   * 10 days in the field
   * Setting up on-ice GNSS station
   * Setting up campbell loggers for pro-glacial river measurements
-
+<br/>
+<br/>
 
 
 
@@ -63,7 +65,8 @@ Presentations and Posters
   * Honourable mention for the John Glen ECR prize
 * **International Glaciology Society British Branch Meeting, Edinburgh 2022**
   * Poster: "Modelling the Past and Future Changes in Surface Mass Balance of the Juneau Icefield under RCP8.5 emissions scenario"
-
+<br/>
+<br/>
 
 
 
@@ -78,7 +81,8 @@ Work experience
   * *"Investigating the representation of sting jets in high-resolution climate simulations"*
   * Skills: Analysing large climate model datasets on JASMIN (super-data cluster)
   * Supervisors: Dr Oscar Martínez-Alvarado and Dr Reinhard Schiemann 
-  
+<br/>
+<br/>
 
 
 
@@ -91,7 +95,6 @@ Skills
 * 3 years experience working with **Linux-based high performance computers** (e.g. JASMIN) 
   * Experience in writing job scripts in bash
   * Experience with using schedulers such as SLURM and SGE
-* **LaTeX**
 * **QGIS**
 * **R**
 
