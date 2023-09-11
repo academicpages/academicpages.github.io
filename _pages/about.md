@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Gauri an aspiring Physicist"
+title: "Hi, I am Gauri!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
