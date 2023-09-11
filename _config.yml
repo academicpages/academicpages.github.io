@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Yahn"
-  avatar           : "profile.png"
+  avatar           : "me.png"
   bio              : "Mitchell Scholar at UCD"
-  location         : "University College Dublin, Dublin, Ireland"
+  location         : "University College Dublin, Ireland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZX5Nw-0AAAAJ&hl=en&oi=sra"
