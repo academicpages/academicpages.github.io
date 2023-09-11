@@ -36,6 +36,39 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   </ul>
 </details>
 
+<details>
+  <summary><b>Topic 2: Conceptual Framing, World Models, Behavioral and Performance Metrics</b></summary>
+  <ul>
+    <li>World Models <a href="https://arxiv.org/abs/1803.10122">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
+    <li>Recurrent World Models Facilitate Policy Evolution <a href="https://arxiv.org/abs/1809.01999">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
+      <li>Discovering and Achieving Goals via World Models <a href="https://arxiv.org/abs/2110.09514">📚</a> <a href="https://orybkin.github.io/lexa/">🌍</a></li>
+    <li>Planning to Explore via Self-Supervised World Models <a href="https://arxiv.org/abs/2005.05960">📚</a> <a href="https://ramanans1.github.io/plan2explore/">🌍</a></li>
+    <li>Learning to Model the World with Language<a href="https://arxiv.org/abs/2308.01399">📚</a> <a href="https://dynalang.github.io/">🌍</a></li>
+    <li>Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling <a href="https://arxiv.org/abs/2301.12050">📚</a></li>
+    <li>Dream to Control: Learning Behaviors by Latent Imagination <a href="https://arxiv.org/abs/1912.01603">📚</a></li>
+    <li>DayDreamer: World Models for Physical Robot Learning <a href="https://arxiv.org/abs/2206.14176">📚</a> <a href="https://danijar.com/project/daydreamer/">🌍</a></li>
+    <li>Mastering Atari with Discrete World Models <a href="https://arxiv.org/abs/2010.02193">📚</a> <a href="https://danijar.com/project/dreamerv2/">🌍</a></li>
+    <li>Masked World Models for Visual Control <a href="https://proceedings.mlr.press/v205/seo23a/seo23a.pdf">📚</a> <a href="https://sites.google.com/view/mwm-rl">🌍</a></li>
+    <li>Structured World Models from Human Videos <a href="https://www.roboticsproceedings.org/rss19/p012.pdf">📚</a> <a href="https://human-world-model.github.io/">🌍</a></li>
+    <li>Building Machines That Learn and Think Like People <a href="https://arxiv.org/abs/1604.00289">📚</a></li>
+    <li>Action and Perception as Divergence Minimization <a href="https://arxiv.org/abs/2009.01791">📚</a></li>
+    <li>Intrinsically Motivated Reinforcement Learning <a href="https://proceedings.neurips.cc/paper_files/paper/2004/file/4be5a36cbaca8ab9d2066debfe4e65c1-Paper.pdf">📚</a> </li>
+       <li>Decision Transformer: Reinforcement Learning via Sequence Modeling <a href="https://arxiv.org/abs/2106.01345">📚</a> </li>
+    <li>Curiosity-Driven Exploration of Learned Disentangled Goal Spaces <a href="http://proceedings.mlr.press/v87/laversanne-finot18a/laversanne-finot18a.pdf">📚</a></li>
+    <li>Encouraging and Evaluating Embodied Exploration <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf">📚</a></li>
+    <li>Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration <a href="https://proceedings.neurips.cc/paper/2020/file/274e6fcf4a583de4a81c6376f17673e7-Paper.pdf">📚</a></li>
+    <li>Learning to play with intrinsically-motivated, self-aware agents <a href="https://arxiv.org/abs/1802.07442">📚</a></li>
+    <li>On Evaluation of Embodied Navigation Agents <a href="https://arxiv.org/abs/1807.06757">📚</a></li>
+     <li>ObjectNav Revisited: On Evaluation of Embodied Agents Navigating to Objects <a href="https://arxiv.org/abs/2006.13171">📚</a></li>
+     <li>On the Evaluation of Vision-and-Language Navigation Instructions <a href="https://arxiv.org/abs/2101.10504">📚</a></li>
+     <li>A New Path: Scaling Vision-and-Language Navigation With Synthetic Instructions and Imitation Learning <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Kamath_A_New_Path_Scaling_Vision-and-Language_Navigation_With_Synthetic_Instructions_and_CVPR_2023_paper.html">📚</a></li>
+     <li>Stay on the Path: Instruction Fidelity in Vision-and-Language Navigation <a href="https://arxiv.org/abs/1905.12255">📚</a></li>
+     <li>Iterative Vision-and-Language Navigation  <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Krantz_Iterative_Vision-and-Language_Navigation_CVPR_2023_paper.html">📚</a></li>
+    <li>GRIDTOPIX : Training Embodied Agents with Minimal Supervision <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Jain_GridToPix_Training_Embodied_Agents_With_Minimal_Supervision_ICCV_2021_paper.pdf">📚</a> <a href="https://unnat.github.io/gridtopix">🌍</a></li>
+  <li>On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets <a href="https://aclanthology.org/2022.insights-1.15.pdf">📚</a></li>
+  </ul>
+</details>
+
 
 ## Additional Resources
 - 🏠 [Course Syllabus](https://isminoula.github.io/cs6604FA23/)
