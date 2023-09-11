@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Megan Masterson"
 title_separator          : "-"
 name                     : &name "Megan Masterson"
-description              : &description "3rd Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
+description              : &description "4th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
 url                      : https://memasterson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "memasterson/memasterson.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Megan Masterson"
   avatar           : "IMG_4479_Original.jpg"
-  bio              : "3rd Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
+  bio              : "4th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
   location         : "Cambridge, MA"
   employer         : 
   pubmed           : 
@@ -187,6 +187,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  outreach:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -199,7 +202,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: false
       related: true
   # _pages
@@ -217,7 +220,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -226,7 +229,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -235,7 +238,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -244,6 +247,15 @@ defaults:
       layout: talk
       author_profile: true
       share: false
+  # _outreach
+  - scope:
+      path: ""
+      type: outreach
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:
