@@ -52,9 +52,10 @@ npm install
 
 3. **Set up environment variables:**
 Create a .env file in the backend directory and add your ChatGPT API key and any other relevant configuration:
-```env
-OPENAI_API_KEY= your-api-key
-```
+
+   ```env
+   OPENAI_API_KEY= your-api-key
+   ```
 4. **Start Development Environment:**
 ```shell
 cd client
