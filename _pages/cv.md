@@ -18,8 +18,8 @@ Work experience
 ======
 * Invideo, Software Engineer Intern
   * Implemented NeRF models to generate realistic talking head avatars from a single image + text script/driving audio.
-  * Duties included: Tagging issues
   * Deployed the service as an API on Modal Labs cloud-compute, as part of invideo's AI suite.
+  * Developed an AI Playground app for collectively deploying open-source models.
 
 * Indian Institute of Science (IISc Bangalore), Research Intern
   * ‘Domain Adaptive Semantic Segmentation of Indian Road Scenes’ for applications in autonomous driving and navigation systems.
@@ -36,14 +36,11 @@ Work experience
 * JSW Steel, Research Intern
   * Led a 6-member team in building predictive models to determine the mechanical properties of steel wire rods by analyzing the thermal variance during the manufacturing process.
   
-Skills
+Tech Stack
 ======
-* Skill 1
+* Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, NLTK, Flask, FastAPI, Django,
+MongoDB, NoSQL, PostgreSQL, Docker, Kubernetes, TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS, SolidWorks, AutoCAD
 * Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -51,18 +48,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Hackathons
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Represented India at Singapore India Hackathon 2023, held alongside bilateral talks with Singapore as part of India’s G20 Summit presidency.
+* Selected as a mentor for HackMIT 2023, the annual hackathon of the Massachusetts Institute of Technology.
+* Winner of the Smart India Hackathon 2022, among 100,000+ competing teams across India.
+* Special mention at HackMIT 2021 in the innovation category, for EV Sherlock.
+* Finalist at MumbaiHacks 2023 in the student category out of ~100 teams.
