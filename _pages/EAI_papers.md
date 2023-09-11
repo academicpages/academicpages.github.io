@@ -40,6 +40,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   <summary><b>Topic 2: Conceptual Framing, World Models, Behavioral and Performance Metrics</b></summary>
   <ul>
     <li>World Models <a href="https://arxiv.org/abs/1803.10122">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
+    <li>Machine Theory of Mind <a href="https://arxiv.org/abs/1802.07740">📚</a> </li>
     <li>Recurrent World Models Facilitate Policy Evolution <a href="https://arxiv.org/abs/1809.01999">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
       <li>Discovering and Achieving Goals via World Models <a href="https://arxiv.org/abs/2110.09514">📚</a> <a href="https://orybkin.github.io/lexa/">🌍</a></li>
     <li>Planning to Explore via Self-Supervised World Models <a href="https://arxiv.org/abs/2005.05960">📚</a> <a href="https://ramanans1.github.io/plan2explore/">🌍</a></li>
@@ -68,6 +69,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   <li>On the Limits of Evaluating Embodied Agent Model Generalization Using Validation Sets <a href="https://aclanthology.org/2022.insights-1.15.pdf">📚</a></li>
   </ul>
 </details>
+
 
 
 ## Additional Resources
