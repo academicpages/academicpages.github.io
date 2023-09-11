@@ -8,7 +8,7 @@ redirect_from: '[/resume]'
 
 {% include base_path %}
 
-Vzdělaní
+Vzdělání
 ======
 * Úplné střední s maturitou
   * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
