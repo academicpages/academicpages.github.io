@@ -8,12 +8,12 @@ redirect_from: '[/resume]'
 
 {% include base_path %}
 
-Education
+Vzdělaní
 ======
 * Úplné střední s maturitou
   * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
 
-Work experience
+Praxe
 ======
 * do současnosti: lektor
   * [Národní pedagogický institut ČR](https://npi.cz)
@@ -33,7 +33,7 @@ Work experience
 * květen 2000 - srpen 2019: redaktor a dramaturg
   * [Česká televize](https://ceskatelevize.cz)
   
-Skills
+Dovednosti
 ======
 * Skill 1
 * Skill 2
@@ -42,7 +42,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Publikační činnost
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,7 +54,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Kurzy
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
