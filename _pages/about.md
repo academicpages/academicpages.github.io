@@ -39,13 +39,8 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> arXiv:2302.02591
   <br> \*Co-first author
   <br> <a href="https://arxiv.org/abs/2306.06615" class="button">arXiv</a> <a href="/files/MolReGPT.pdf" class="button">PDF</a> <a href="https://github.com/phenixace/MolReGPT" class="button">Code</a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button">中文Chinese</a>
-  
-  [//]: # (<img src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=151004&t=s" alt="Examples" style="width: 150px;"/>)
-  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/text-based-de-novo-molecule-generation-on)](https://paperswithcode.com/sota/text-based-de-novo-molecule-generation-on?p=empowering-molecule-discovery-for-molecule)
-  
-  [//]: # (<img src="https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?cid=151004&t=s" alt="Examples" style="width: 150px;"/>)
-  [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/molecule-captioning-on-chebi-20)](https://paperswithcode.com/sota/molecule-captioning-on-chebi-20?p=empowering-molecule-discovery-for-molecule)
-
+  <br>[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/text-based-de-novo-molecule-generation-on)](https://paperswithcode.com/sota/text-based-de-novo-molecule-generation-on?p=empowering-molecule-discovery-for-molecule)
+  <br>[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/molecule-captioning-on-chebi-20)](https://paperswithcode.com/sota/molecule-captioning-on-chebi-20?p=empowering-molecule-discovery-for-molecule)
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>
   <br>         
