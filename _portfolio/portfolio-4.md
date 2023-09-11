@@ -59,6 +59,7 @@ OPEN_API_kEY = your-api-key
 ```
 
 4. **Start Development Environment:**
+
 ```shell
 cd client
 npm run dev
