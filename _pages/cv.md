@@ -15,8 +15,17 @@ Education
 
 Work experience
 ======
+* do současnosti: lektor
+ * [Národní pedagogický institut ČR](https://npi.cz)
+
+* květen 2023: lektor
+ * [Ministerstvo vnitra ČR](https://vnitro.cz)
+
 * březen 2021 - do současnosti: jednatel a společník
   *  [CZECHMATE CZ s.r.o.](https://czechmatecz.com)
+
+* do současnosti: OSVČ
+ * David Havlík
 
 * září 2019 - květen 2020 : vedoucí vyšetřovaní
   * [Surveilligence s.r.o.](https://surveilligence.com)
