@@ -32,6 +32,9 @@ Work experience
 * Mavericks Racing, Autonomous Driving Domain Head
   * Implemented models for monocular depth estimation, video-frame interpolation, and video super-resolution.
   * Trained a DQN agent in CarRacing 2D, an autonomous vehicle environment in OpenAI Gym.
+ 
+* JSW Steel, Research Intern
+  * Led a 6-member team in building predictive models to determine the mechanical properties of steel wire rods by analyzing the thermal variance during the manufacturing process.
   
 Skills
 ======
