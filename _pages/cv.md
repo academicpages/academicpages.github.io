@@ -10,24 +10,24 @@ redirect_from: '[/resume]'
 
 Vzdělání
 ======
-* Úplné střední s maturitou
+* Úplné střední s maturitou, humanitní
   * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
 
 Praxe
 ======
-* do současnosti: lektor
+* listopad 2022 - do současnosti: lektor
   * [Národní pedagogický institut ČR](https://npi.cz)
 
-* květen 2023: lektor
+* říjen 2022 - květen 2023: lektor
   * [Ministerstvo vnitra ČR](https://vnitro.cz)
 
 * březen 2021 - do současnosti: jednatel a společník
   *  [CZECHMATE CZ s.r.o.](https://czechmatecz.com)
 
-* do současnosti: OSVČ
+* duben 2020 - do současnosti: OSVČ
   * David Havlík
 
-* září 2019 - květen 2020 : vedoucí vyšetřovaní
+* září 2019 - duben 2020 : vedoucí vyšetřovaní
   * [Surveilligence s.r.o.](https://surveilligence.com)
 
 * květen 2000 - srpen 2019: redaktor a dramaturg
