@@ -11,7 +11,7 @@ redirect_from: '[/resume]'
 Education
 ======
 * Úplné střední s maturitou
- * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
+  * [Gymnázium Bílina](https://gymbilina.cz) (1991-1995)
 
 Work experience
 ======
