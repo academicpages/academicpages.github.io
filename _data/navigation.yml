@@ -12,10 +12,10 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Random"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Resume"
     url: /cv/
     
   - title: "Guide"
