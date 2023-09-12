@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dissertation"
+title: ""
 permalink: /dissertation/
 author_profile: true
 ---
