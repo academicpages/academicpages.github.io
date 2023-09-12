@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nick Konz"
   avatar           : "headshot_outside.jpg"
-  bio              : "Machine learning Ph.D. student at Duke University, specializing in medical image analysis."
+  bio              : "Machine learning Ph.D. student at Duke University, specializing in medical image analysis. Email: nicholas (dot) konz (at) duke (dot) edu"
   location         : "Durham, North Carolina"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "nicholas.konz@duke.edu"
+  email            : # "nicholas (dot) konz (at) duke (dot) edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
