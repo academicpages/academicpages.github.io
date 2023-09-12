@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student in the [Economics Department at University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego I did Master's in Economics at [Central European University](https://economics.ceu.edu).
+I am a 3rd year PhD student in the [Economics Department at University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego I did Master's in Economics at Central European University.
 
 
 My research interests are in behavioral and experimental economics with a focus on social learning, misspecified models and discrimination. I also work on topics related to student mental health and peer group support for online tutors.
