@@ -78,7 +78,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     隋岩 (Yan Sui)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 博士研究生  </p>
+    2022 PhD student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202210191706@mail.scut.edu.cn  </p>
   </div>
@@ -87,7 +87,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     袁雪迎 (Xueying Yuan)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 博士研究生  </p>
+    2022 PhD student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202210191713@mail.scut.edu.cn  </p>
   </div>
@@ -96,7 +96,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     赵若廷 (Ruoting Zhao)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2023级 博士研究生  </p>
+    2023 PhD student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
@@ -108,7 +108,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     李子昭 (Zizhao Li)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2021级 硕士研究生  </p>
+    2021 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
@@ -117,7 +117,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     陈修棚 (Xiupeng Chen)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2021级 硕士研究生  </p>
+    2021 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
@@ -126,7 +126,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     吕尚禹 (Shangyu lv)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 硕士研究生  </p>
+    2022 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202220161884@mail.scut.edu.cn  </p>
   </div>
@@ -138,7 +138,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     尹婷婷 (Ting-ting Yin)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 硕士研究生  </p>
+    2022 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202220161898@mail.scut.edu.cn  </p>
   </div>
@@ -147,7 +147,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     刘新强 (Xinqiang Liu)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 硕士研究生  </p>
+    2022 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202220161872@mail.scut.edu.cn  </p>
   </div>
@@ -156,7 +156,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     周媛欣 (Xuanxin Zhou)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2023级 硕士研究生  </p>
+    2023 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 201930176470@mail.scut.edu.cn  </p>
   </div>
@@ -168,7 +168,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     游文强 (Wenqiang You)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2023级 硕士研究生  </p>
+    2023 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
@@ -177,7 +177,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     张泽昕 (Zexin Zhang)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2023级 硕士研究生  </p>
+    2023 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: xxxxxx@scut.edu.cn  </p>
   </div>
@@ -195,7 +195,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     何嘉桐 (Jiatong He)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 本科生  </p>
+    2022 Undergraduate  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202264641184@mail.scut.edu.cn  </p>
   </div>
@@ -204,7 +204,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     杨子霄 (Zixiao Yang)  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022级 本科生  </p>
+    2022 Undergraduate  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 2022XXXXXXX@mail.scut.edu.cn  </p>
   </div>
@@ -212,3 +212,9 @@ redirect_from:
 
   </div>
 </div>
+
+<html> 
+  <body> 
+    <img src="../images/group202309.jpg" alt="示例图片" width="1200" height="900"> 
+  </body> 
+</html>
