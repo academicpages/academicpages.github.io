@@ -183,8 +183,15 @@ redirect_from:
   </div>
   
   <div style="flex:1">
-    
+    <img src="../images/YangZixiao.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    杨子霄 (Zixiao Yang)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2022 Undergraduate  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 2022XXXXXXX@mail.scut.edu.cn  </p>
   </div>
+
 </div>
 
 ## Alumni
@@ -199,18 +206,13 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202264641184@mail.scut.edu.cn  </p>
   </div>
+  
   <div style="flex:1">
-    <img src="../images/YangZixiao.jpg" style="width: 150px; height:200px;">
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    杨子霄 (Zixiao Yang)  </p>
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022 Undergraduate  </p>
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: 2022XXXXXXX@mail.scut.edu.cn  </p>
   </div>
-  <div style="flex:1">
 
+  <div style="flex:1">
   </div>
+  
 </div>
 
 ## Group snapshot on Sep 12, 2023
