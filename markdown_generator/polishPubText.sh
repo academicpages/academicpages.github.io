@@ -1,0 +1,1 @@
+grep -v Kong pubText.txt  | grep -v Received | grep -v Revised| grep -v Published | grep -v DOI | grep -v Downloaded | grep -v http | grep -v INTRODUCTION | grep -v ACCESS | grep -v @ | grep -v © | grep -v CiteThis > pubText2.txt

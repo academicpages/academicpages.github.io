@@ -1,0 +1,2402 @@
+Multiscale simulation of surfactant –aquaporin
+complex formation and water permeability †
+Xian Kong,abZhixian Li,aDiannan Lu, *aZheng Liu *aand Jianzhong Wu *b
+Multiscale simulation has been conducted for the formation of a surfactant –protein complex that uses
+sodium dodecyl sulfate (SDS), a negatively charged surfactant, and aquaporin Z(Aqp Z), a membrane
+protein that facilitates water transport across lipid membranes. A detailed analysis of the moleculardriving forces of the self-assembly at di ﬀerent pH values reveals distinctive contributions of electrostatic
+and hydrophobic interactions to the complex structure and formation kinetics. The electrostaticinteractions become more signi ﬁcant at low pH and are responsible for the formation of larger
+complexes. A comparison of the protein conformation in the SDS complex with that in the lipid bilayerof palmitoyloleoyl phosphatidyl ethanolamine (POPE) shows that the SDS molecules have only marginaleﬀects on Aqp Zconformation including the water channel structure. The simulation indicates that Aqp Z
+preserves its secondary structures after being bound with SDS molecules, while the arrangement of the
+helical structures leads to a coiled-coil to single helix transition as suggested by experiments. Aqp Zmay
+lose water permeability either due to the blockage of the water channel by individual SDS molecules ordue to the attachment of micelle-like structures at the hydrophilic ends of the water pore.Reconstitution of the Aqp Zcomplex into a POPE bilayer shows that the membrane protein regains its
+activity after the complete removal of SDS molecules from the protein pores. The molecular insightsgained from multiscale simulation will be helpful for future development of Aqp Z-embedded membranes.
+Introduction
+Aquaporins are homotetrameric membrane proteins1prevalent
+in a wide range of organisms including bacteria, archaea,plants, insects and mammals.
+2These proteins contain water
+channels that are essential for the cellular regulation of osmoticpressure in response to the uctuations of water content in the
+extracellular environment. Aquaporins facilitate water perme-
+ation across biological membranes at an impressive rate of 3 /C2
+10
+9molecules per second per channel.3,4The high permeability
+and near perfect selectivity make aquaporin an ideal candidatefor water puri cation and biomedical applications. Over the
+past decades both theoretical and experimental approacheshave been actively pursued for extraction of aquaporins frombacteria cells and their incorporation into arti cial membranes
+5
+such as supported lipid bilayers6,7and block copolymer
+lamellae.8,9From a practical perspective, one major challengefor the fabrication of the biomimetic membranes is to recon-
+struct aquaporin proteins into an arti cial membrane that
+preserves water permeability and selectivity.9For that purpose,
+the membrane proteins must be extracted from the bacteriacells with suitable surfactants.
+10To ensure the protein integrity
+and functionality, practical applications require a good under-standing of the surfactant –protein complex formation and the
+inuences of surfactant molecules on the protein structure and
+water permittivity.
+A number of experimental procedures have been applied to
+studying the interactions of aquaporin proteins with surfactant
+molecules. Because membrane proteins and surfactant mole-cules have distinctly di ﬀerent electron densities, their complex
+formation makes the analysis of SANS or SAXS data extremelydiﬃcult.
+11Recently, Berthaud et al. reported that, at adequate
+conditions, n-dodecyl- b-D-maltopyranoside molecules and
+aquaporins form an elliptical, toroid-shaped corona in anaqueous solution. The shape of the protein –surfactant complex
+was deduced from complementary results from size exclusion
+chromatography, SAXS, refractometry experiments and coarse-grained modelling.
+12Because this work accounts for only
+surfactants adsorbed at the hydrophobic trans -membrane
+regions of aquaporin proteins, it provides no information onthe microscopic structures of the entire aquaporin –surfactant
+complexes, in particular those pertinent to the hydrophilicdomains that directly a ﬀect the functionality of the wateraDepartment of Chemical Engineering, Tsinghua University, Beijing, 100084, China.
+E-mail: ludiannan@tsinghua.edu.cn; liuzheng@mail.tsinghua.edu.cn
+bDepartment of Chemical & Environmental Engineering, University of California,
+Riverside, USA. E-mail: jwu@engr.ucr.edu
+†Electronic supplementary information (ESI) available: The number of atoms ( N)
+and the net charge ( Z) of each Aqp Zmonomer at di ﬀerent pH values (Table S1).
+Molecule model for SDS. Force- eld parameters for the bonded and
+non-bonded interactions of SDS molecules (Table S2 to S5). Gauche defect
+analysis of SDS tails (Figure S1). See DOI: 10.1039/c4ra03759fCite this: RSC Adv. ,2 0 1 4 , 4,3 7 5 9 2
+Received 19th February 2014
+Accepted 12th August 2014
+DOI: 10.1039/c4ra03759fwww.rsc.org/advances
+37592 |RSC Adv. ,2 0 1 4 , 4,3 7 5 9 2 –37599 This journal is © The Royal Society of Chemistry 2014RSC Advances
+PAPER
+Published on 13 August 2014. Downloaded on 4/23/2021 12:07:51 AM. 
+View Article Online
+View Journal
+ | View Issue
+This journal is ©the Owner Societies 2014 Phys. Chem. Chem. Phys., 2014, 16,1 8 9 4 1 - - 1 8 9 4 8 | 18941
+Cite this: Phys. Chem. Chem. Phys.,
+2014, 16,1 8 9 4 1Electrokinetic desalination using honeycomb
+carbon nanotubes (HC-CNTs): a conceptual studyby molecular simulation
+Qile Chen, Xian Kong, Jipeng Li, Diannan Lu* and Zheng Liu*
+A new concept of electrokinetic desalination using a C NT honeycomb is presented through molecular dynamics
+simulation. The preferential translocation of ions t owards the outlets near two electrodes was realized by
+applying an electric field perpendicular to bulk fluid fl ow in a CNT network, which, in the meantime, generated
+deionized water flux discharged from the central outlet s. The eﬀects of the major factors such as electric field
+strength, numbers of separation units, diameter of CNT, and ion concentration on the desalination were
+examined. It was shown that over 95% salt rejection and around 50% fresh water recovery were achieved by thepresented module by applying an electric field of 0.8 V nm
+/C01.C N Td i a m e t e r ,w h i c hi sc r i t i c a lt oi o nr e j e c t i o n
+without the electric field, had a marginal eﬀect on the d esalination of this new module when a strong electric
+field was applied. The desalination was also not sensitive to i on concentration, indicating its excellent workability
+for a wide range of water salinity, e.g.from brackish water to seawater. A potential of mean force profile
+revealed a free energy barrier as large as 2.0–6.0 kcal mol/C01for ions to move opposite to the implemented
+electrical force. The simulation confirmed the high po tential of the CNT honeycomb in water desalination.
+Introduction
+The lack of clean and fresh water threatens billions of people
+worldwide and aﬀects millions of lives every year.1To address
+these problems, great eﬀorts have been constantly devoted to
+novel reverse-osmosis (RO) membranes that enable a high and
+exclusive water transport. It was firstly shown by Hummeret al.
+2using molecular dynamics simulation that the water flux
+inside a carbon nanotube (CNT) could be as much as three tofour orders of magnitude higher than that expected frommacroscopic hydrodynamics. Later Granick et al.
+3and Falk
+et al.4simulated eﬀects of the hydrophobicity of nanotube
+walls and the smooth energy landscape on the water flux. Corry
+et al. showed that a CNT of 0.9 nm in diameter could give a
+nearly 100% salt rejection.5The fouling-resistant property of
+CNT, being attributed to its hydrophobic surface and narrowinner pore,
+6is also advantageous for it being used as membrane
+materials.7All these findings have raised great interest in
+exploring the application of CNT in water desalination.8–12
+The molecular dynamics simulati on of water desalination using
+aligned CNTs showed that once the diameter of CNT is below
+0.9 nm, ions are rejected due to high-energy penalty for dehydration.
+Once the diameter of CNT is above 0.9 nm, however, salt rejectionwill no longer be satisfactory.
+5,13These simulations were validatedby experiments using 3 nm diameter membranes.14Sub-nanometer
+CNT synthesis is available using laser ablation.15,16but only a single
+water chain can pass through the tub e, causing relatively low water
+conductance. An alternative way to enhance the CNT membraneperformance is to modify the CNTs so that electrostatic interaction
+and stereo-hindrance are employ ed simultaneously for ion rejec-
+tion.
+9,17–19However and unfortunately, as simulated by Corry et al.9
+and observed by Fornasiero et al. ,20the enhanced ion rejection by
+CNT surface modification is obtained at the expense of acompromise of water flux, due to counter-ion occlusion at theentrance of the CNT. More recently, Chan et al.
+21simulated a
+zwitterion-modified CNT composite membrane and obtained ahigh ion rejection and a high water flux.
+Electric fields have been applied for water desalination
+processes such as electrodialysis and capacitive deionization(CDI). CDI utilizes also an electric field being vertical to thebulk water matrix but fails to handle high-salinity seawater dueto limited electrode capacities.
+22Introduction of an alternating
+electric field parallel to the flow direction in CNT or a pointcharge near the CNT surface is eﬀective to enhance the transportflux of pure water, but is of low eﬃciency for separation of water
+and ions.
+23–26
+Here we present a novel and conceptive CNT device, i.e.,
+honeycomb CNT (HC-CNT), for electrokinetic desalination. It iscomposed of multiple Y-junction units, where one of the unitsis colored in red, as shown in Fig. 1. A vertical electric field isapplied to the bulk water flux and thus drives the ions towards
+Department of Chemical Engineering, Tsinghua University, Beijing, 100084, China.
+E-mail: ludiannan@tsinghua.edu.cn, liuzheng@tsinghua.edu.cnReceived 18th June 2014,
+Accepted 22nd July 2014
+DOI: 10.1039/c4cp02679a
+www.rsc.org/pccpPCCP
+PAPER
+Published on 23 July 2014. Downloaded by Stanford Libraries on 4/25/2021 5:48:02 AM. 
+View Article Online
+View Journal
+ | View Issue
+Molecular Theory for Electrokinetic Transport in pH-Regulated
+Nanochannels
+Xian Kong,†,‡Jian Jiang,†Diannan Lu, *,‡Zheng Liu, *,‡and Jianzhong Wu *,†
+†Department of Chemical and Environmental Engineering and Department of Mathematics, University of California, Riverside,
+California 92521, United States
+‡Department of Chemical Engineering, Tsinghua University, Beijing 100084, China
+*SSupporting Information
+ABSTRACT: Ion transport through nanochannels depends on various external driving
+forces as well as the structural and hydrodynamic inhomogeneity of the con ﬁnedﬂuid
+inside of the pore. Conventional models of electrokinetic transport neglect the discretenature of ionic species and electrostatic correlations important at the boundary and oftenlead to inconsistent predictions of the surface potential and the surface charge density.Here, we demonstrate that the electrokinetic phenomena can be successfully describedby the classical density functional theory in conjunction with the Navier −Stokes
+equation for the ﬂuidﬂow. The new theoretical procedure predicts ion conductivity in
+various pH-regulated nanochannels under di ﬀerent driving forces, in excellent agreement
+with experimental data.
+SECTION: Liquids; Chemical and Dynamical Processes in Solution
+Recent advances in materials synthesis and nanofabrication
+enable the preparation of nanochannels with well-de ﬁned
+pore shape and surface chemistry, rending tremendous
+opportunities for new applications to nano ﬂuidic systems.1−5
+Understanding electrokinetic transport through nanopores is
+important not only from fundamental perspectives6−8but also
+for the development of new electrochemical devices for DNA
+sequencing,9,10molecular level separation,11−13and energy
+harvesting from seawater.14A combination of strong con ﬁne-
+ment and surface in ﬂuence makes ion transport in nano-
+channels drastically di ﬀerent from that corresponding to
+macroscopic systems.15However, existing theoretical models
+for interpretation of the experimental data for electrokinetic
+transport in nanopores are mostly based on continuous modelsthat ignore the discrete nature of molecular species near theﬂuid−solid interface.
+16−18While the conventional methods
+work well when the surface charge density of a nanochannel is
+suﬃciently low, the mean- ﬁeld approach becomes problematic
+for describing ionic transport in highly charged nanopores.Recently, several modi ﬁcations have been proposed
+18toﬁx the
+limitations of the conventional electrokinetic theory, including
+variation of the viscosity pro ﬁle,19,20saturation of the
+electrophoretic mobility, inclusion of a low-dielectric layer atthe surface,
+17,18and the slip length e ﬀects.21,22Usually, one
+needs to consider all of these modi ﬁcations to reproduce
+experimental data for ionic ﬂow in nanochannels,18which
+makes the theoretical procedure rather tedious. In this work, wepresent a new theoretical framework that alleviates some of themajor limitations of conventional electrokinetic methods. Thenew method allows for a more faithful depiction of ion
+transport in nanopores under a broad range of experimentalconditions, including those in nanochannels with large surfacecharge density that are particularly important for diverse
+nanoﬂuidic applications such as energy harvesting and ﬁeld
+eﬀect transistors (FETs).
+23−25
+Consider steady-state electrokinetic transport in a cylindrical
+pore of length Land radius R. As in typical experimental
+investigations of nanochannels, the pore size is on the
+nanoscale but much larger than the characteristic lengths ofmobile ions and solvent molecules, and the pore length ismacroscopic. Figure 1 shows schematically ion ﬂow through the
+pore induced by one or multiple driving forces such as thegradients in electric potential ψ, pressure P, or bulk salt
+concentration ρ
+s0. In the presence of an external electric ﬁeld,
+the electrical energy is converted to the kinetic energy for ionmotion and the hydrodynamic energy of the solvent.
+Conversely, streaming current emerges when the ionic solution
+ﬂows through a charged nanochannel driven by a pressure
+gradient,
+8which converts hydrodynamic energy to electrical
+energy. Similar energy conversion also holds when the bulkreservoirs at the ends of the nanochannel di ﬀer in salt
+concentration. In that case, the free-energy di ﬀerence between
+two bulk solutions will be converted to electrical energy. Thelast two types of electrical currents have been under active
+Received: July 2, 2014
+Accepted: August 19, 2014
+Published: August 19, 2014Letter
+pubs.acs.org/JPCL
+© 2014 American Chemical Society 3015 dx.doi.org/10.1021/jz5013802 |J. Phys. Chem. Lett. 2014, 5, 3015 −3020
+Downloaded via STANFORD UNIV on April 22, 2021 at 23:07:03 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+8434 |Phys. Chem. Chem. Phys., 2014, 16, 8434--8440 This journal is ©the Owner Societies 2014
+Cite this: Phys. Chem. Chem. Phys.,
+2014, 16,8 4 3 4Surface tension eﬀects on the phase transition
+of a DPPC bilayer with and without protein:a molecular dynamics simulation †
+Xian Kong,aShanshan Qin,bDiannan Lu*aand Zheng Liu*a
+W h i l et h es u r f a c et e n s i o no fac e l lm e m b r a n e ,o rap l a s m a membrane, regulates cell functions, little is known
+about its eﬀect on the conformational changes of the lipid bilayer and hence the resulting changes in the cellmembrane. To obtain some insights into the phase transit ion of the lipid bilayer as a function of surface tension,
+we used a 1,2-dipalmitoyl- sn-glycero -3-phosphocholine (DPPC) bilayer as a model lipid bilayer and aquaporin
+(AqpZ), a transmembrane channel prote in for water, as a model embedded pro tein. A coarse-grained molecular
+dynamics simulation was applied to illustrate the phase transition behavior of the pure DPPC bilayer andaquaporin-embedded DPPC bilayer u nder diﬀerent surface tensions. It was shown that an increased surface
+tension reduced the phase transition temperature of t he DPPC bilayer. As for the DPPC bilayer in gel form, no
+significant changes occurred in the structure of the bila yer in response to the surface tension. Once in a liquid
+crystal state, both the structure and properties of the DPPC bilayer, such as area per lipid, lipid order parameters,bilayer thickness and lateral diﬀusion coeﬃcients, were r esponsive to the magnitude of surface tension in a linear
+way. The presence of aquaporin attenuated the compact a lignment of the lipid bilayer, hindered the parallel
+movement, and thus made the DPPC bilayer less sensitive to the surface tension.
+Introduction
+In vivo , the surface tension of plasma membranes of cells
+regulates the biological, physical and chemical functions of
+the cell,1such as endocytosis, exocytosis, cell motility, cell
+spreading, photoresponsiveness2and mechanoresponsiveness.3
+In vitro lipid vesicles embedded with membrane proteins in
+bio-sensors4and bio-separation5devices may also experience
+the changes in the environmental osmolality, which leads tochanges in surface tension
+6of bilayers on a much larger scale
+than in biological environments and thus aﬀects the performance ofthese devices.
+Phase transitions are basic and important phenomena for
+lipid bilayers and could influence their structural and dynamicalproperties greatly. There are many factors controlling phasetransitions, like temperature, lipid components, tail length oflipid and so on. It has been reported both experimentally
+7and
+theoretically8that surface tension could induce phase transition.The challenges to the experimental study of the eﬀects of
+surface tension on lipid bilayer conformation and function canbe attributed to the notorious weak forces involved in lipidbilayers and, consequently, the fragile nature of bilayers.
+Rutkowski et al. studied the mechanical properties of lipid
+unilamellar vesicles using osmotic-swelling methods
+9but
+found that large unilamellar vesicles formed from acidic lipids,due to its polydispersity, did not swell in a manner thatpermitted the computation of a Young’s modulus. Hamadaet al.
+7found that membrane tension could induce phase
+separation in a homogeneous membrane. They established aquantitative phase diagram of phase organization with respect to
+applied pressure and temperature for homogeneous membranes.
+Evans et al.
+10have proposed a direct method of tuning the surface
+tension of a membrane, in which a single giant unilamellarvesicle is held and stretched w ith a micropipette; they then
+studied the kinetic process of membrane breakage using a causalsequence of two thermally activated transitions. Atomic forcemicroscopy has also been applied to measure the mechanicalproperties of a nearly planar freestanding lipid bilayer covering a
+nanoscopic hole with a defined pore size.
+11The application of this
+method is, however, limited by the pore size. Recently, Lin et al.
+were able to control the area-per-lipid of a lipid monolayer with aLangmuir trough,
+12but the preparation of a lipid bilayer in a
+Langmuir trough is not convenient. While great eﬀorts have beenmade to the experimental study of surface tension eﬀects onaDepartment of Chemical Engineering, Tsinghua University, Beijing, 100084, China.
+E-mail: ludiannan@tsinghua.edu.cn, liuzheng@mail.tsinghua.edu.cn
+bKey Laboratory of Bioorganic Phosphorous Chemistry and Chemical Biology(Ministry of Education), Department of Chemistry, Tsinghua University,
+Beijing 100084, P. R. China
+†Electronic supplementary information (ESI) available. See DOI: 10.1039/
+c3cp55524kReceived 31st December 2013,
+Accepted 17th March 2014
+DOI: 10.1039/c3cp55524k
+www.rsc.org/pccpPCCP
+PAPER
+Published on 18 March 2014. Downloaded by Stanford Libraries on 4/23/2021 12:08:39 AM. 
+View Article Online
+View Journal
+ | View Issue
+23970 |Phys. Chem. Chem. Phys., 2015, 17,2 3 9 7 0 - - 2 3 9 7 6 This journal is ©the Owner Societies 2015
+Cite this: Phys. Chem. Chem. Phys.,
+2015, 17,2 3 9 7 0A molecular theory for optimal blue energy
+extraction by electrical double layer expansion †
+Xian Kong,abAlejandro Gallegos,aDiannan Lu,*bZheng Liu*band Jianzhong Wu*a
+Electrical double layer expansion (CDLE) has been proposed as a promising alternative to reverse
+electrodialysis (RED) and pressure retarded osmosis (PRO) processes for extracting osmotic power
+generated by the salinity diﬀerence between freshwater and seawater. The performance of the CDLE
+process is sensitive to the configuration of porous electrodes and operation parameters for ionextraction and release cycles. In this work, we use a classical density functional theory (CDFT) toexamine how the electrode pore size and charging/discharging potentials influence the thermodynamiceﬃciency of the CDLE cycle. The existence of an optimal charging potential that maximizes the energyoutput for a given pore configuration is predicted, which varies substantially with the pore size,especially when it is smaller than 2 nm. The thermodynamic eﬃciency is maximized when the electrodehas a pore size about twice the ion diameter.
+Introduction
+The entrance of fresh river water to the oceans induces energy
+dissipation on the order of 2 kJ L/C01owing to the free energy
+of mixing for electrolytes of diﬀerent concentrations.1The
+so-called osmotic power or ‘‘Blue Energy’’ can be harvestedwith various processes to convert the chemical energy intomechanical or electrical work. B ecause of the vast volume of river
+water discharging into the oceans g lobally, blue energy is attractive
+for its great potential in providing a clean, self-replenishing avenue
+for renewable power generation w ith minimal carbon footprints
+and pollutions.
+Among a number of procedures to utilize the blue energy,
+2
+‘‘capacitive mixing’’ (CAPMIX) represents a relatively new tech-nique but it emerges fast in part due to rapid developments inelectric double layer supercapacitors and porous electrodeswith ultra-large specific surface areas.
+3,4By cyclic charging
+and discharging in seawater and freshwater, respectively, nano-
+porous electrodes are able to adsorb and release a large amountof ionic species. The controlled ion transfer from seawater tofresh river water amounts to a reverse deionization process witha net output of the electrical energy. Specifically, CAPMIXincludes three major techniques, i.e., ‘‘Capacitive Double LayerExpansion’’ (CDLE),
+5‘‘Capacitive Donnan Potential’’ (CDP),6
+and ‘‘Mixing Entropy Battery’’ (MEB).7The reverse operations of
+these CAPMIX methods correspond t o ‘‘Capacitive Deionization’’,8
+‘‘Membrane Capacitive Deionization’’,9and ‘‘Desalination
+Battery’’,10respectively.
+CDLE is the original CAPMIX technique first proposed by
+Brogioli.5It does not involve an ion-selective membrane as in
+CDP, and is free of chemical reactions as occurring in MEB. Asa result, the CDLE technique has no issues related to
+membrane fouling or rate limiting by slow chemical reactions,
+making it more sustainable and eﬃcient than other CAPMIXprocesses.
+Fig. 1(a) presents a schematic setup for a typical CDLE
+process. It consists of an external circuit for charging anddischarging of a pair of porous electrodes that are submergedalternately in seawater and river water, respectively. Becausethe energy required for the electrode charging in seawater is
+smaller than the energy output from discharging of the same
+electrode in river water, the cyclic process yields a net energyoutput corresponding to the conversion of the osmotic power toelectrical energy. Fig. 1(b) shows the thermodynamic cycle forthe blue energy extraction process in terms of the variations ofthe surface charge and the electrical potential of the porouselectrode (here cathode). The operation consists of four reversibleprocesses. First, the electrode is immersed in seawater with
+charging potential C
+0imposed by the external circuit. The equili-
+brium charge of the electrode QHis determined by the charging
+potential C0and the electrolyte concentration of seawater cH.
+During the reversible process from state A to B, the electrode isdisconnected from the external circuit while the surroundingfluid is shuﬄed from seawater to river water. The decrease in
+aDepartment of Chemical and Environmental Engineering and Department of
+Mathematics, University of California, Riverside, CA 92521, USA.
+E-mail: jwu@engr.ucr.edu
+bDepartment of Chemical Engineering, Tsinghua University, Beijing 100084, China.E-mail: ludiannan@tsinghua.edu.cn, liuzheng@mail.tsinghua.edu.cn
+†Electronic supplementary information (ESI) available: Expressions for the local
+excess chemical potentials due to ion size and charge correlations used in theDFT calculations. See DOI: 10.1039/c5cp03514gReceived 18th June 2015,
+Accepted 19th August 2015
+DOI: 10.1039/c5cp03514g
+www.rsc.org/pccpPCCP
+PAPER
+Published on 19 August 2015. Downloaded by Stanford Libraries on 4/23/2021 12:06:07 AM. 
+View Article Online
+View Journal
+ | View Issue
+Density functional theory study of the capacitance of single ﬁle ions
+in a narrow cylinder
+Xian Konga, Jianzhong Wua, Douglas Hendersonb,⇑
+aDepartment of Chemical and Environmental Engineering, University of California, Riverside, CA 92521, USA
+bDepartment of Chemistry and Biochemistry, Brigham Young University, Provo, UT 84602, USA
+article info
+Article history:
+Received 7 October 2014
+Accepted 5 November 2014Available online 13 November 2014
+It is a pleasure for us to dedicate this article
+to Darsh Wasan, who has served so well as
+the Editor-in-Chief of this journal and, at the
+same time, has had a distinguished career as
+a university administrator, and as an
+outstanding teacher and research scientist.
+At times, we are inclined to believe that
+there is a set of identical triplets, all posing
+to be one person. In any case, one or three,
+Darsh Wasan is a ﬁne human being andgood friend. We are glad that he is
+lightening his load.
+Keywords:
+Single ﬁle nanopore
+Cylindrical double layer
+CapacitanceDensity functional theoryabstract
+The differential capacitance of a model organic electrolyte in a cylindrical pore that is so narrow that the
+ions can form only a single ﬁle is studied by means of density functional theory (DFT). Kornyshev (2013),has studied this system and found the differential capacitance to have only a double hump shape (the so-
+called camel shape) whereas other geometries show this behavior only at low ionic concentrations that
+are typical for aqueous electrolytes. However, his calculation is rather approximate. In this DFT study weﬁnd that the double hump shape occurs only at low ionic concentrations. At high concentrations, thecapacitance has only a single hump. Kornyshev considers a metallic cylinder and approximately includes
+the contributions of electrostatic images. Electrostatic images are not easily incorporated into DFT. As a
+result, images are not considered in this study and the question of whether Kornyshev’s result is due tohis approximations or images cannot be answered. Simulations to answer this question are planned.
+/C2112014 Elsevier Inc. All rights reserved.
+1. Introduction
+Supercapacitors based on electric double layer expansion show
+great potential as an energy storage device due to their large power
+density, high capacitance, and sustainable life cycles [1,2] . Recent
+developments in the nanostructured electrode materials [3,4] lar-
+gely improved the performance of the supercapacitors due to their
+high speciﬁc surface area. In these materials, the characteristic
+sizes of the pores are comparable to the size of the electrolytes,
+namely, only single ﬁle or single layer of electrolyte ions may enter
+the pores.
+Kornyshev [5]has published an intriguing article in which he
+studied the dependence of the capacitance of the double layer
+formed by a system of organic electrolyte ions in a cylindrical pore
+that is so narrow that the ions can form only a single row. This
+geometry is shown in Fig.1 . We consider ﬁrst the case where all
+the ions have the same diameter but do report some results for dif-fering diameters. In the equal diameter case, to have a single ﬁle,
+the cylinder diameter, D¼2a, and ion diameter, d, must obey
+d62a62d. The system is open in the sense that the ionic concen-
+tration inside the pore is determined by that the concentration of
+ions in a reservoir with which the ions in the cylinder are in equi-
+librium. In this article, when we give a value for the concentration
+of the organic electrolyte, it is to be understood that this is the con-
+centration of the organic electrolyte ions in the reservoir. Korny-
+shev devised an interesting Ising-like lattice theory to describe
+this system. The Ising theory rests upon a lattice with nearest
+neighbor interactions and a binary proposition (occupied or unoc-
+cupied sites or a similar proposition). It is a bit of a stretch to apply
+this to a ﬂuid with long range coulombic interactions but it is not
+an impossibility. Additionally, he considers a metallic cylinder wall
+and takes into account, albeit very approximately, electrostatic
+images. According to his theory, the differential capacitance of this
+system as a function of the surface potential always has the shape
+of two humps, at least for the range of parameters that he studied.
+The two hump shape is often referred to as a ‘‘camel’’ shape.
+http://dx.doi.org/10.1016/j.jcis.2014.11.012
+0021-9797/ /C2112014 Elsevier Inc. All rights reserved.⇑Corresponding author.Journal of Colloid and Interface Science 449 (2015) 130–135
+Contents lists available at ScienceDirect
+Journal of Colloid and Interface Science
+www.elsevier.com /locate/jcis
+
+Kinetic and multidimensional pro ﬁling of
+accelerated degradation of oil sludge by
+biostimulation †
+Yijie Dong, Zhe Lang, Xian Kong, Diannan Lu *and Zheng Liu *
+Biostimulation, which employs nutrients to enhance the proliferation of indigenous microorganisms and
+therefore the degradation of contaminants, is an e ﬀective tool for treatment of oil-contaminated soil.
+However, the evolution of microbial ecology, which responds directly to stimulation procedures andintrinsically determines the degradation of oil contaminants, has rarely been explored, particularly in the
+context of biostimulation. In this study, the e ﬀects of biostimulation procedures including the regulation
+of the C : N : P ratio, as well as application of surfactants and electron acceptors in the degradation ofcrude oil contaminants and the evolution of the microbial community were examined simultaneously toprovide ecological insights into the biostimulation. The real-time PCR showed that biostimulationpromoted the proliferation of bacteria, with Gammaproteobacteria showing the greatest increase.
+However, the proliferation of fungi was inhibited by the accumulation of the degradation products. Thedegradation of polar compounds of crude oil contaminants was characterized by negative-ionelectrospray ionization Fourier transform ion cyclotron resonance mass spectrometry (negative-ion ESI
+FT-ICR MS), showing a biased increase in the relative abundance of naphthenic acids. Principal
+component analysis (PCA) showed that di ﬀerent species in oil sludge have di ﬀerent degradation rates
+during biostimulation. The addition of fertilizers with surfactants and electron acceptors profoundlystimulated the indigenous microorganisms with N
+1,O1and O 2species as substrates while those with O 3
+and O 4species were little a ﬀected. An enriched abundance of alkB genes was observed during the
+degradation of saturated hydrocarbons. Monitoring the kinetics of the microbial community, functionalgenes and degradation o ﬀers a comprehensive view for the understanding and optimization of the
+biostimulation process.
+Environmental impact
+The eﬀects of biostimulation procedures including the regulation of the C : N : P ratio, application of surfactants and electron acceptors in the degradatio no f
+crude oil contaminants and the evolution of the microbial community were examined simultaneously to provide ecological insights into the biostimul ation. The
+degradation of polar compounds of crude oil contaminants was characterized by negative-ion ESI FT-ICR MS, showing a biased increase in the relative
+abundance of naphthenic acids. The real-time PCR showed that biostimulation promoted the proliferation of bacteria, among which Gammaproteobacteria
+showed the most signi cant increase. The proliferation of fungi was, however, inhibited by the accumulation of the degradation products. An enriched
+abundance of alkB genes was observed during the degradation of saturated hydrocarbons. The above information helps to understand and optimize the bio-
+stimulation process.
+Introduction
+Oil sludge, which is o en generated during exploitation,
+transportation and re ning processes, is a recalcitrant mixture
+containing a large amount of oily mud, sand and water. Totalpetroleum hydrocarbons (TPHs), which primarily consist ofalkanes, aromatics, and nitrogen-, sulfur-, and oxygen-containing compounds, are the most deleterious components
+in oil sludge. Many components of oil sludge have been iden-tied as priority pollutants by the USEPA.
+1Furthermore, oil
+sludge undergoes several aging and weathering processes thateventually lead to higher average molecular weights and shi s
+in TPH fraction ratios. Bioavailability might be the limiting
+factor in controlling the biodegradation of such compounds.
+Vasudevan et al. reported accelerated degradation of oil
+sludge in response to the addition of bulking agents or inor-ganic nutrients.
+2Soliman et al. achieved signi cant removal of
+total petroleum hydrocarbons from Egyptian soil polluted withDepartment of Chemical Engineering, Tsinghua University, Beijing 100084, China.
+E-mail: ludiannan@tsinghua.edu.cn; liuzheng@mail.tsinghua.edu.cn
+†Electronic supplementary information (ESI) available. See DOI:
+10.1039/c4em00428kCite this: Environ. Sci.: Processes
+Impacts ,2 0 1 5 , 17,7 6 3
+Received 2nd August 2014
+Accepted 9th February 2015
+DOI: 10.1039/c4em00428krsc.li/process-impacts
+This journal is © The Royal Society of Chemistry 2015 Environ. Sci.: Processes Impacts ,2 0 1 5 , 17,7 6 3 –774 | 763Environmental
+Science
+Processes & Impacts
+PAPER
+Published on 10 February 2015. Downloaded by Stanford Libraries on 4/25/2021 5:47:10 AM. 
+View Article Online
+View Journal
+ | View Issue
+ 
+  
+ 
+ 
+ 
+Molecular dynamics for the charging behavior of nano-
+structured electric double layer capacitors containingroom temperature ionic liquids   
+Xian Kong1,2, Diannan Lu2 (), Zheng Liu2 (), and Jianzhong Wu1 () 
+ 
+1 Department of Chemical and Environmental Engineering, University of California, Riverside, CA 92521,USA 
+2 Department of Chemical Engineering, Tsinghua University, Beijing 100084, China   
+ 
+ 
+ 
+Received:  2 July 2014 
+Revised: 20 August 2014 
+Accepted:  31 August 2014 
+ 
+© Tsinghua University Press 
+and Springer-Verlag Berlin 
+Heidelberg 2014  
+ 
+KEYWORDS 
+electric double layer, 
+room temperature ionic  
+liquids, 
+nanostructured capacitor, 
+charging dynamics  ABSTRACT 
+The charging kinetics of electric double layers (EDLs) is closely related to the
+performance of a wide variety of nanostructured devices including supercapacitors,
+electro-actuators, and electrolyte-gated transistors. While room temperature ionic liquids (RTIL) are often used as the charge carrier in these new applications,
+the theoretical analyses are mostly based on conventional electrokinetic theories
+suitable for macroscopic electrochemica l phenomena in aqueous solutions. In
+this work, we study the charging behavior of RTIL-EDLs using a coarse-grained 
+molecular model and constant-potential molecular dynamics (MD) simulations. 
+In stark contrast to the predictions of  conventional theories, the MD results
+show oscillatory variations of ionic distributions and electrochemical properties
+in response to the separation between electrodes. The rate of EDL charging 
+exhibits non-monotonic behavior reveal ing strong electrostatic correlations i
+n
+RTIL under confinement. 
+ 
+ 
+1 Introduction 
+Electric double layer capacitors (EDLC), also known 
+as supercapacitors, have received a great deal of 
+attention in recent years for their outstanding performance as an efficient energy storage device 
+with large power density, high capacitance, and long 
+lasting cycle life [1–4]. Recent developments in EDLC research have greatly benefitted from rapid advances 
+in the fabrication of nanostructured electrodes with ultra-high specific surface area and microporous dimensions comparable to the ionic size [5–8]. The 
+EDLC performance, especially the energy density and thermal stability, can be further enhanced by the 
+adoption of room-temperature  ionic liquids (RTIL) or 
+organic electrolytes as the charge carrier [9–12]. These 
+non-aqueous electrolytes allow for EDLC operation 
+at a wider voltage window, thereby providing higher 
+energy density.  
+Recent experimental investigations of EDLC have 
+Nano Research  2015, 8(3): 931–940  
+DOI 10.1007/s12274-014-0574-0  
+Address correspondence to Jianzhong Wu, jwu@engr.ucr.edu; Zheng Liu, liuzheng@mail.tsi nghua.edu.cn; Diannan Lu,  
+ludiannan@tsinghua.edu.cn 
+Spreading of a Unilamellar Liposome on Charged Substrates: A
+Coarse-Grained Molecular Simulation
+Xian Kong,†Diannan Lu, *,†Jianzhong Wu, *,‡and Zheng Liu *,†
+†Key Laboratory of Industrial Biocatalysis, Chinese Ministry of Education and Department of Chemical Engineering, Tsinghua
+University, Beijing 100084, China
+‡Department of Chemical and Environmental Engineering, University of California, Riverside California 92521, United States
+*SSupporting Information
+ABSTRACT: Supported lipid bilayers (SLBs) are able to
+accommodate membrane proteins useful for diverse biomi-metic applications. Although liposome spreading represents acommon procedure for preparation of SLBs, the underlyingmechanism is not yet fully understood, particularly from amolecular perspective. The present study examines the e ﬀects
+of the substrate charge on unilamellar liposome spreading onthe basis of molecular dynamics simulations for a coarse-grained model of the solvent and lipid molecules. Liposome
+transformation into a lipid bilayer of di ﬀerent microscopic
+structures suggests three types of kinetic pathways dependingon the substrate charge density, that is, top-receding,parachute, and parachute with wormholes. Each pathway leads to a unique distribution of the lipid molecules and therebydistinctive properties of SLBs. An increase of the substrate charge density results in a magni ﬁed asymmetry of the SLBs in terms
+of the ratio of charged lipids, parallel surface movements, and the distribution of lipid molecules. While the lipid mobility in theproximal layer is strongly correlated with the substrate potential, the dynamics of lipid molecules in the distal monolayer is similarto that of a freestanding lipid bilayer. For liposome spreading on a highly charged surface, wormhole formation promotes lipidexchange between the SLB monolayers thus reduces the asymmetry on the number density of lipid molecules, the lipid orderparameter, and the monolayer thickness. The simulation results reveal the important regulatory role of electrostatic interactionson liposome spreading and the properties of SLBs.
+■INTRODUCTION
+Supported lipid bilayers (SLBs)1are able to retain the structure
+and functionality of their native counterparts and hold greatpromise for a wide range of biomimetic applications. Recent
+examples for the practical use of SLB include drug delivery,2,3
+biosensing devices,4high-performance membranes,5,6and
+biomedical apparatus.7Among various procedures for prepara-
+tion of SLBs including Langmuir −Blodgett7and Langmuir −
+Schafer depositions,8liposome spreading on a planar substrate9
+has the advantages of experimental simplicity and genericapplicability for SLBs of di ﬀerent compositions.9,10After
+loading from a bulk solution onto a planar substrate, liposomesrupture and fuse into SLBs driven by surface electrostatic, vander Waals, and chemically speci ﬁcf o r c e s .
+11Electrostatic
+interactions play a predominant role in liposome spreading
+because of the ubiquitous net charge of lipid molecules andvarious substrates. The kinetics of liposome spreading may betuned by adjusting the solution pH and ionic strength inaccordance with the liposome compositions and its interaction
+with the substrate.
+12−16
+Recent years have witnessed rapid progress toward under-
+standing the e ﬀects of substrates on SLB formation and
+properties.10,11,16,17A lingering question on the kinetics ofliposome spreading is related to its topological changes, for
+example, whether the inner surface of a liposome is more likely
+to be on the upper layer of the SLB ( “inside-up spreading ”)o r
+otherwise on the lower layer of the SLB ( “inside-down
+spreading ”). The issue is important because by controlling
+the SLB topology, we may prepare liposomes with di ﬀerent
+lipid compositions at the inner or outer surfaces to ensure the
+exposure of a speci ﬁc component (e.g., sensors) at the upper
+layer. There have been numerous reports about the kinetics of
+SLB formation.18−20For example, Fuhrmans et al.21proposed
+three mechanisms of liposome spreading on a neutral substrateusing a coarse-grained lipid model and found that the inside-upand the inside-down topological changes can be attributed to
+the short- and long-range components of the substrate −
+liposome interactions, respectively. However, it is not yetknown whether or how the spreading behavior is in ﬂuenced by
+electrostatic interactions although charges are commonplace for
+both lipid molecules and realistic substrates.
+Received: January 8, 2016
+Revised: March 20, 2016
+Published: March 28, 2016Article
+pubs.acs.org/Langmuir
+© 2016 American Chemical Society 3785 DOI: 10.1021/acs.langmuir.6b00043
+Langmuir 2016, 32, 3785 −3793
+Downloaded via STANFORD UNIV on April 22, 2021 at 23:05:01 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+This journal is ©the Owner Societies 2017 Phys. Chem. Chem. Phys., 2017, 19, 16897--16903 | 16897
+Cite this: Phys. Chem. Chem. Phys.,
+2017, 19,1 6 8 9 7A theoretical study on the morphological phase
+diagram of supported lipid bilayers
+Xian Kong,aDiannan Lu,
+ *aJianzhong Wu
+ *band Zheng Liua
+Supported lipid bilayers (SLBs) have been widely used in drug delivery, biosensors and biomimetic
+membranes. The microscopic mechanism of SLB formation and stability depends on a number of factors
+underlying solvent-mediated lipid–lipid and lipid–substrate interactions. Whereas recent years have
+witnessed remarkable progress in understanding the kinetics of SLB formation, relatively little is knownabout the lipid phase behavior controlling the SLB stability under diverse solution conditions. In thiswork, we examine the structure of SLBs using classical density functional theory (CDFT) in the context ofa coarse-grained model that accounts for ion-explicit electrostatic interactions, surface hydrophobicity,as well as the molecular characteristics of the lipid tails. A morphological phase diagram is constructedin terms of various intrinsic properties of lipid molecules (such as the lipid tail length, size and charge ofthe lipid head segments), substrate conditions (such as the surface charge density and hydrophobicity),
+and solution parameters (such as the ion concentration and ion type). The morphological phase diagram
+provides useful insights into the rational design and broader application of SLB membranes as differenttypes of nano-devices.
+Introduction
+Supported lipid bilayers (SLBs) ar e able to maintain the structural
+and dynamical properties of st andalone lipid membranes and
+provide a native-like environment for membrane proteins.1,2The
+unique bilayer structure provides a fruitful platform to develop
+biomimetic nanodevices for applications such as desalination,3,4
+biosensors,5,6and drug delivery.7A conventional way to prepare
+SLBs is by spreading and fusion of vesicles on a planar surface.The SLB formation process involves a number of solvent-mediatedinteractions that dictate not only the self-assembly of vesiclesin an aqueous solution and their adsorption onto a substratebut also vesicle spreading, rupture and fusion leading to thesupported bilayer structure.
+8A large number of works, both
+experimental and theoretical, have been dedicated to under-
+standing SLB formation under diverse solution conditions.9–11
+Experimentally, a suitable condition for SLB formation is often
+determined by trial and error.12,13Despite impressive accomplish-
+ments in recent years,6,10,14,15the rational design of SLBs to target
+specific applications remains very much a distant aspiration.A comprehensive understanding o f SLB formation is theoretically
+challenging because it depends on diverse factors influencing thelipid–lipid and lipid–substrate i n t e r a c t i o n ss u c ha st h es u r f a c e
+properties of the substrate,
+15,16the solution conditions,17as well
+as the characteristics of lipid molecules.10,18Theoretical investiga-
+tions of SLB formation are mostly based on coarse-grained modelsthrough dissipative particle dynamics
+9,14or molecular dynamics
+simulations.11,19Because of extensive length and long-time scales,
+a systematic study of diverse factors affecting the kinetics and
+phase behaviour of SLBs is extremely time consuming.
+As SLBs become ever increasingly commonplace in practical
+applications, one perennial concern is their long-term stabilityunder diﬀerent environments and solution conditions. After aSLB-based nanodevice is prepared, various environmental factors
+may deviate from the preparation conditions and thus influencethe intactness of the SLB structure. To design and fabricate robust
+SLB systems, we need a good knowledge on how diﬀerent factors
+influence the SLB stability. While tremendous eﬀorts have beendevoted to understanding the kinetics of SLB formation, fewstudies were focused on the intrinsic stability of SLBs.
+12,20To
+our knowledge, no systematic analysis has been reported beforeon the thermodynamic stability of SLBs from a theoreticalperspective. Indeed, it is still open to discussion whether a SLBstructure is thermodynamically or only kinetically stable.
+In this work, we present a theoretical study of a lipid structure
+near a charged surface and the morphological phase behaviourof SLB using a coarse-grained model and the classical densityfunctional theory. The coarse-grained procedure is proved to beeﬃcient for examining the thermodynamic stability of SLBs in termsof various factors influencing the lipid–lipid and lipid–substrate
+aKey Laboratory of Industrial Biocatalysis, Chinese Ministry of Education and
+Department of Chemical Engineering, Tsinghua University, Beijing 100084, China.
+E-mail: ludiannan@mail.tsinghua.edu.cn
+bDepartment of Chemical and Environmental Engineering, University of California,
+Riverside, California 92521, USA. E-mail: jwu@engr.ucr.eduReceived 20th May 2017,
+Accepted 5th June 2017
+DOI: 10.1039/c7cp03383d
+rsc.li/pccpPCCP
+PAPER
+Dipeptides Embedded in a Lipid Bilayer Membrane as Synthetic
+Water Channels
+Xian Kong, Zeyu Zhao, and Jianwen Jiang *
+Department of Chemical and Biomolecular Engineering, National University of Singapore, 117576, Singapore
+ABSTRACT: Water channels are essential to life sciences and many biological processes. We report a molecular simulation
+study on dipeptides embedded in a lipid (dipalmitoylphosphatidylcholine) membrane as synthetic water channels. Fivedipeptides are examined including FF, FL, LF, and LL (with hydrophilic channels) and AV (with hydrophobic channel). It isfound that AV is unstable in the lipid membrane due to incompatible interaction between the hydrophilic external surface of AVand the hydrophobic lipid tails; whereas FF, FL, LF, and LL with hydrophobic external surface exhibit good stability. In the fourhydrophilic channels FF, FL, LF, and LL, water chains are formed; the number of chains ranges from multiple, two to onedepending on channel diameter; moreover, water undergoes single- ﬁle diﬀusion and the mobility is enhanced with increasing
+channel diameter. The permeation rate of water in the FF channel is 9.20/ns, about three times that in aquaporin; however, therate in FL, LF, and LL is much slower. Intriguingly, the rate can be tuned by a lateral stress/strain on the lipid membrane. Thesimulation study provides fundamental understanding on the stability of dipeptide channels embedded in a lipid membrane,quantitatively characterizing water structure, dynamics, and permeation in the channels. These microscopic insights are useful forthe development of new water channels.
+1. INTRODUCTION
+Water transport through the cell membrane is essential to living
+cells; however, it is energetically unfavorable due to thepresence of hydrophobic lipid tails.1There are natural water
+channels, e.g., aquaporin2,3and gramicidin A,4existing in the
+cell membrane to facilitate water transport. A series of studies
+have been dedicated to elucidating the mechanism of water
+transport in these channels.5On the other hand, synthetic
+water channels have been proposed such as carbon nanotubes,6
+peptide channels,7pillar arenes,8etc.
+As readily available and biologically compatible compounds,
+dipeptides can self-assemble to form crystals that contain one-
+dimensional (1D) straight channels.9,10The channel diameter
+ranges from 3 to 10 Å, implying the potential in adsorption,
+transport, and molecular level separation. There are two classesof dipeptide channels: hydrophobic Val-Ala (VA) and hydro-
+philic Phe-Phe (FF). The VA class channels are formed through
+a 3D hydrogen bond network by dipeptides with two fairly
+small side chains like Val-Ala, Ala-Val, Val-Val, and Ala-Ile,11−14
+in which the side chains constitute the hydrophobic inner
+surface. By contrast, the FF class channels are formed by
+dipeptides with large side chains commonly from Phe and Leu.The structure is maintained by an 1D hydrogen bonds and side
+chain packing; nevertheless, the side chains are not located inthe inner surface rendering the hydrophilicity of the channels.
+15
+A handful of studies have been reported on dipeptide
+materials. For instance, high adsorption capacity of Xe in AVand VA crystals was experimentally determined.
+16VA, AV, IV,
+and VI crystals containing various nanochannels were tested for
+the storage of CH 4,C O 2, and H 2.17Extremely high selectivities
+for O 2/N2and O 2/Ar, well above those of polymeric and
+carbonaceous materials, were experimentally observed in AAcrystal.
+18Water con ﬁned in the tryptophylglycine (WG)
+channel was simulated by molecular dynamics (MD) technique.
+Upon temperature increasing from 40 to 388 K, several water
+phases in the WG channel were identi ﬁed including crystalline,
+amorphous, liquid-like, liquid, and superheated phases. At 300
+Special Issue: Tribute to Keith Gubbins, Pioneer in the Theory of
+Liquids
+Received: June 16, 2017
+Revised: July 17, 2017
+Published: July 21, 2017Article
+pubs.acs.org/Langmuir
+© 2017 American Chemical Society 11490 DOI: 10.1021/acs.langmuir.7b02060
+Langmuir 2017, 33, 11490 −11495
+Cite This: Langmuir  2017, 33, 11490-11495 
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on March 26, 2022 at 15:15:00 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+18178 |Phys. Chem. Chem. Phys., 2017, 19, 18178--18185 This journal is ©the Owner Societies 2017
+Cite this: Phys. Chem. Chem. Phys.,
+2017, 19,1 8 1 7 8Porous organic cage membranes for water
+desalination: a simulation exploration †
+Xian Kong
+ and Jianwen Jiang
+ *
+Porous organic cages (POCs) have emerged as a new class of porous materials and received considerable
+interest for their potential applications. Herein we report the first proof-of-concept simulation study on
+POC membranes for water desalination. Five [4+6] POCs (CC1, CC2, CC3, CC16, and CC17) are
+considered with similar crystal structures, but diﬀerent periphery groups and pore morphologies. CC1 isfound to be impermeable to water due to disconnected pores. With an interconnected tetrahedralpore network, CC3 and CC16 have an intermediate water permeability of 1–5 /C210
+/C07kg m (m2h bar)/C01.
+CC2 and CC17 contain straight pores and a widely open pore network, respectively, thus exhibit a highwater permeability of 2–3 /C210
+/C06kg m (m2h bar)/C01; nevertheless, salt rejection in CC17 is only 89%.
+Among the five POC membranes, CC2 is the best for water desalination with performance superior toother membranes reported in the literature. The membrane flexibility is revealed to have a weak effect
+on water permeation. To provide further microscopic understanding, the permeation duration, diffusion
+and hydrogen bonding of water in the POC membranes are quantitatively analyzed. From this simulationstudy, the key factors governing water permeation in the POC membranes are unraveled and CC2 isidentified to be an interesting candidate for water desalination.
+1. Introduction
+Water desalination has increasingly become a popular counter-
+measure against the scarcity of fresh water around thewhole world. Among several desalination techniques, reverse
+osmosis (RO) is considered to be more preferable due to its
+comparatively lower energy cost.
+1It has been estimated that RO
+accounts for 53% of the global desalination capacity.2The
+performance and cost of RO are largely determined by themembrane used, which is characterized by easy preparation,high water flux and high salt selectivity.
+3Currently, polymeric
+membranes are dominant in RO processes, but they suﬀer fromseveral drawbacks ( e.g.oxidation, fouling and abrasion).
+4
+To improve the performance of RO, it is indispensable to
+develop new membranes with high water flux and excellent saltrejection. In the past, a larger number of porous materials andmembranes have been tested for water desalination includingzeolitic
+5,6and carbonaceous materials,7–9as well as biological
+membranes.10,11With a uniform pore network and high thermal
+stability, zeolitic membranes exhibit high water flux and good saltrejection; however, they are fragile and not easily processable.Porous graphene and carbon nanotub es are potential alternatives,
+but their scalability is challenging. Biological membranes areexpensive and not readily available.
+Recently, porous organic cages (POCs) have emerged as a
+new class of porous materials.
+12These discrete molecular
+building blocks can assemble into crystals with both intrinsic
+cavities and extrinsic voids. Compared with extended porouscrystals such as zeolites and metal–organic frameworks (MOFs),one remarkable feature of POCs is that they are dissolvablein common organic solvents; consequently, POCs are easilyprocessable and can be spin coated onto porous substrates toform membranes. Studies have been reported using POC-basedmembranes for separation. For example, POC/PIM-1 composite
+membranes were demonstrated to enhance the permeabilities
+of both CO
+2and N 2, while retaining good CO 2/N2selectivity; in
+addition, the resistance toward physical ageing was improved.13
+Thin membranes of five POCs were fabricated on various sub-strates and found to exhibit molecular sieving capability; specifi-cally, high H
+2permeability and large H 2/N2,H2/CO 2and H 2/CH 4
+selectivities were observed.14Another outstanding feature of POCs
+is water stability. As a prototype POC, the CC3 crystal was found
+to remain stable in boiling water for at least 4 h.15It should be
+noted that not all POCs are stable. Nevertheless, there is ongoingendeavor attempting to improve the stability. In particular, thechemical stability of imine-based POCs could be improved byreducing imines into amines, while the structure persistencecould be preserved by tying carbonyls at the cage vertices.
+16Department of Chemical and Biomolecular Engineering, National University of
+Singapore, 117576, Singapore. E-mail: chejj@nus.edu.sg†Electronic supplementary information (ESI) available: Atomic types, non-
+bonded and bonded potential parameters in POCs, density profiles of water
+and ions, the eﬀect of membrane flexibility on the pore radius and water flow,and the eﬀect of system size on water flow. See DOI: 10.1039/c7cp02670fReceived 24th April 2017,
+Accepted 3rd May 2017
+DOI: 10.1039/c7cp02670f
+rsc.li/pccpPCCP
+PAPER
+Open Access Article. Published on 01 June 2017. Downloaded on 3/26/2022 3:13:37 PM. 
+ This article is licensed under a 
+Creative Commons Attribution 3.0 Unported Licence.
+View Article Online
+View Journal
+ | View Issue
+Amorphous Porous Organic Cage Membranes for Water Desalination
+Xian Kong and Jianwen Jiang *
+Department of Chemical and Biomolecular Engineering, National University of Singapore, 117576, Singapore
+*SSupporting Information
+ABSTRACT: Emerged as a new class of nanoporous
+materials, porous organic cages (POCs) possess salientfeatures of solvent processability and water stability; thus,they are envisioned as promising membrane materials forwater desalination. In this study, we propose a simulationprotocol to construct atomic models of amorphous POCmembranes and examine their desalination performance. Fivemembranes (AC1, AC2, AC3, AC16, and AC17) with similarcage structure but di ﬀerent periphery groups are considered.
+All the ﬁve membranes exhibit 100% salt rejection. In contrast
+to crystalline CC1 membrane, which is impermeable to water,AC1 has a water permeability P
+wof 3.6 ×10−8kg·m/(m2·h·
+bar). With increasing interconnected pores in AC2, AC3, AC16, and AC17, Pwincreases. Due to the existence of hydroxyl groups
+in CC17 cages, AC17 exhibits the highest Pwof 3.17 ×10−7kg·m/(m2·h·bar), which is higher than in commercial reverse
+osmosis membranes. Signi ﬁcantly, Pwis found to enhance in mixed AC3/AC17 and AC16/AC17 membranes with up to one-fold
+enhancement. The enhanced Pwis attributed to the counterbalance between water sorption and di ﬀusion. This simulation study
+provides the bottom-up insights into the dynamics and structure of water in amorphous POC membranes, highlights theirpotential use for water desalination, and suggests a unique strategy to enhance desalination performance by tuning thecomposition of mixed POC membranes.
+1. INTRODUCTION
+With rapid population increase and industrialization, water
+scarcity has escalated as an urgent issue worldwide.1
+Desalination is a technically feasible and economically viable
+approach to harvest fresh water from seawater, which
+constitutes 95% of water on the Earth.2,3Among available
+desalination techniques, membrane-based reverse osmosis
+(RO) has demonstrated to be the most attractive due to its
+comparatively lower capital cost.4According to a recent
+estimation, RO accounts for 53% of current global desalination
+capacity.5Nevertheless, RO processes are still energy intensive
+because of low water ﬂux required to preserve high ion
+selectivity, which is a common dilemma in the widely used
+polymeric membranes. In a t ypical RO plant, energy
+consumption is ∼45% of the total production cost.6Therefore,
+membranes with high water ﬂux and excellent salt rejection are
+indispensable to the optimization of RO processes.
+The quest for high performance RO membranes has been
+ongoing for decades, primarily focusing on nanoporousmaterials such as zeolitic7,8and carbonaceous materials,9−12
+metal−organic frameworks (MOFs),13,14as well as biological
+membranes.15,16Zeolitic membranes manifest high water ﬂux
+and good salt rejection, as attributed to their uniform pore
+network and high thermal stability; however, as inorganicmaterials, they are brittle and di ﬃcult to process. Membranes
+based on various carbon allotropes such as graphene and
+carbon nanotubes are promising alternatives, but their
+scalability hinders their practical applications. MOFs su ﬀerfrom both stability and scalability issues because they are
+prepared through noncovalent assembly. Biological membranes
+are still under intensive exploration and far from ready for real
+applications.
+Recently, porous organic cages (POC) have emerged as a
+new class of porous materials.17,18Unlike extended porous
+crystals such as zeolites and MOFs, POCs are discretemolecules with intrinsic cages that can persist in crystals,19−21
+amorphous solids,22,23or even moderate-sized solvents forming
+porous liquids.24As organic molecules, POCs have excellent
+solvent processability and can be easily fabricated into
+membranes including supported 2D crystalline membranes
+through layer-by-layer assembly,25supported amorphous
+membranes through spin coating,26and, moreover, mixed
+matrix membranes through cosolution casting.27In addition,
+some POCs have remarkable water stability. For example, CC3crystal can remain stable for more than 4 h in boiling water.28
+Moreover, the chemical stability of imine-based POCs could beimproved by reducing imines into amines, while the structurepersistence could be preserved by tying carbonyls at the cagevertices.
+29
+The salient features of solvent processability and water
+stability suggest that POCs might be promising membranematerials for desalination. Recently, we conducted a moleculardynamics (MD) simulation study to examine the desalination
+Received: November 22, 2017
+Published: January 2, 2018Article
+pubs.acs.org/JPCC Cite This: J. Phys. Chem. C 2018, 122, 1732 −1740
+© 2018 American Chemical Society 1732 DOI: 10.1021/acs.jpcc.7b11497
+J. Phys. Chem. C 2018, 122, 1732 −1740
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on March 26, 2022 at 15:08:47 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+ARTICLE
+Photo-induced ultrafast active ion transport
+through graphene oxide membranes
+Jinlei Yang1,2, Xiaoyu Hu3, Xian Kong3, Pan Jia1,2, Danyan Ji1,2, Di Quan1,2, Lili Wang1, Qi Wen1,
+Diannan Lu3, Jianzhong Wu3,4, Lei Jiang1& Wei Guo1
+Layered graphene oxide membranes (GOM) with densely packed sub-nanometer-wide
+lamellar channels show exceptional ionic and molecular transport properties. Mass andcharge transport in existing materials follows their concentration gradient, whereas attaininganti-gradient transport, also called active transport, remains a great challenge. Here, wedemonstrate a coupled photon-electron-ion transport phenomenon through the GOM. Uponasymmetric light illumination, cations are able to move thermodynamically uphill over a broadrange of concentrations, at rates much faster than that via simple diffusion. We propose, as aplausible mechanism, that light irradiation reduces the local electric potential on the GOMfollowing a carrier diffusion mechanism. When the illumination is applied to an off-centerposition, an electric potential difference is built that can drive the transport of ionic species.We further develop photonic ion switches, photonic ion diodes, and photonic ion transistorsas the fundamental elements for active ion sieving and arti ﬁcial photosynthesis on synthetic
+nano ﬂuidic circuits.https://doi.org/10.1038/s41467-019-09178-x OPEN
+1CAS Key Laboratory of Bio-inspired Materials and Interfacial Science, Technical Institute of Physics and Chemistry, Chinese Academy of Sciences, B eijing
+100190, PR China.2University of Chinese Academy of Sciences, Beijing 100049, PR China.3State Key Joint Laboratory of Chemical Engineering, Department
+of Chemical Engineering, Tsinghua University, Beijing 100084, PR China.4Department of Chemical and Environmental Engineering, University of California,
+Riverside, CA 92521, USA. These authors contributed equally: Jinlei Yang, Xiaoyu Hu, Xian Kong and Pan Jia. Correspondence and requests for material s
+should be addressed to D.L. (email: ludiannan@tsinghua.edu.cn ) or to W.G. (email: wguo@iccas.ac.cn )
+NATURE COMMUNICATIONS |         (2019) 10:1171 | https://doi.org/10.1038/s41467-019-09178-x | www.nature.com/naturecommunications 11234567890():,;
+An Atomistic Simulation Study on POC/PIM Mixed-Matrix
+Membranes for Gas Separation
+Xian Kong *,†and Jie Liu‡,§
+†Department of Chemical Engineering, Stanford University, Stanford, California 94305, United States
+‡Department of Chemical and Biomolecular Engineering, National University of Singapore, 117576 Singapore
+§Key Laboratory for Green Chemical Process of Ministry of Education, School of Chemical Engineering and Pharmacy, Wuhan
+Institute of Technology, Wuhan 430073, P. R. China
+*SSupporting Information
+ABSTRACT: Although high ﬂux membranes are indispensable to
+membrane-based gas separation technologies, enhancing membranepermeability proves to be di ﬃcult due to the trade-o ﬀbetween
+permeability and gas selectivity. Mixed-matrix membrane (MMM) is apromising route to break this limitation. Nevertheless, in sharp contrastto a myriad of experimental studies, only a few simulation studies onMMMs are available. In this work, we describe a molecular dynamicssimulation scheme to model MMMs, including membrane construction through cyclic annealing and gas permeation simulationthrough a constant pressure di ﬀerence setup. MMMs based on a typical porous organic cage (CC3) and a typical polymer of
+intrinsic microporosity (PIM-1) are probed. It is shown that discrete CC3 molecules mixed in PIM-1 a ﬀord no permeability
+enhancement, as the introduction of discrete CC3 changes neither the packing structure nor the gas movement mechanism. The
+presence of CC3 crystals in MMMs can promote gas permeability with a minor selectivity compromise by virtue of high gasdiﬀusivities in CC3 crystals and high gas adsorption in PIM-1. In addition, perturbed packing of PIM-1 chains near an extremely
+ﬂat CC3 surface gives rise to modestly large pores in the interface, which favors gas permeation. These understandings obtained
+from molecular models are useful for the rational design of advanced mixed-matrix membranes.
+1. INTRODUCTION
+Gas separation is important in many industrial applicationssuch as air puri ﬁcation, CO
+2capture, and natural gas
+sweetening.1−4Among a handful of technologies for gas
+separation, membrane-based is often preferred because ofcomparatively more energy e ﬃciency, low capital cost, and
+easy scaling-up. Moreover, membrane-based separation pro-
+cesses are also relatively environmentally friendly. Currently,most of the membranes used for gas separation are synthesizedfrom polymers. Although tremendous improvements have
+been achieved in the last several decades, the trade-o ﬀbetween
+permeability versus selectivity still curbs the performanceimprovement of polymer membranes.
+5There are ongoing
+quests to go beyond this trade-o ﬀby developing new
+membranes toward the higher permeability with little sacri ﬁce
+in selectivity or even with enhanced selectivity.
+A promising strategy to tackle this trade-o ﬀis to use mixed-
+matrix membranes (MMMs), in which a solid porous ﬁller is
+embedded into a polymer matrix.6Theﬁller usually contains
+rigid cages or pores with well-de ﬁned size and shape and
+exhibits high selectivity. A properly designed MMM canintegrate the high selectivity of the ﬁller and the easy
+processability of the polymer. Di ﬀerent MMMs have been
+developed using a variety of ﬁllers such as silicalite,7,8
+zeolite,9−12zeolitic imidazolate frameworks (ZIFs),13−15
+metal−organic frameworks (MOFs),16−20graphene,21gra-
+phene oxide, ionic liquid, and inorganic nanoparticles.22Akey issue in developing MMMs is the compatibility between
+theﬁller and polymer matrix.6,23An incompatible and
+unfavorable interface between them may cause interfacial
+voids, a rigidi ﬁed polymer layer, a deformed ﬁller, and
+eventually a poor separation performance.
+Molecular insights into the interaction between the ﬁller and
+polymer matrix are invaluable for the rational design of
+eﬀective MMMs. Current theoretical studies of MMMs mostly
+rely on the Maxwell model or its derivatives.2,3Although they
+are able to correlate ﬂux measured in experiments and make
+predictions in similar systems, they only provide vaguemolecular-level information about the interaction between
+the polymer and ﬁller and its e ﬀects on gas movement.
+Molecular simulation is able to provide such information and
+has been applied to study MMMs in recent years. Nevertheless,
+limitations on molecular simulation still exist. A popularstrategy in molecular simulation is to study gas di ﬀusion
+24or
+adsorption in the bulk composite; permeability can only be
+obtained indirectly based on the solubility −diﬀusivity
+model.25−27In these studies, a nanoscale ﬁller comprising
+only several unit cells has to be used due to computationpower limitation. This inevitably incurs concern whether this
+splinter sample can re ﬂect the real porous structure, which
+Received: April 9, 2019
+Revised: May 30, 2019
+Published: May 30, 2019Article
+pubs.acs.org/JPCC Cite This: J. Phys. Chem. C 2019, 123, 15113 −15121
+© 2019 American Chemical Society 15113 DOI: 10.1021/acs.jpcc.9b03318
+J. Phys. Chem. C 2019, 123, 15113 −15121
+Downloaded via STANFORD UNIV on March 4, 2022 at 11:57:49 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Geometric structure-guided photo-driven ion
+current through asymmetric graphene oxide
+membranes †
+Yaping Feng,abHaoyu Dai,abJianjun Chen,aXian Kong, *cJinlei Yang
+ *ad
+and Lei Jiang
+a
+It has been demonstrated previously that ion transport can be
+generated in a graphene oxide membrane (GOM) when light is illu-minated on an o ﬀ-centre position on it, which triggers a trans-
+membrane potential. We show in this work that rational design of theGOM geometry obviates the necessity of partial illumination. Uponfull-area light illumination, a net cationic ﬂow through a geometry-
+asymmetric GOM is generated from the thin side toward the thickside. The origin of the photo-responsiveness of the asymmetric GOM
+is the synergistic e ﬀect of light decay with depth in the GOM and the
+disparate di ﬀusion rates of charge carriers in the GOM, i.e.,e l e c t r o n s
+and holes. The geometry modulation of the GOM provides a facile andstraightforward way to photo-induce ion transport.
+Biological light-driven ionic pumps can convert solar energy
+directly into chemical potential by moving charged speciesagainst the concentration gradient to build a transmembranepotential.
+1,2In recent years, arti cial light-induced active
+transport systems have been developed that are capable oftransporting protons or metal ions.
+3–6However, e ﬀective ion
+pumps capable of such conversion in arti cial abiotic
+membrane materials are still a major challenge.7,8Recent
+developments in nano uidics based on reconstructed two-
+dimensional (2D) layered materials provide a facile and scal-able way to produce novel membrane materials, which featurenumerous interconnected sub-nanometre channels that mani-fest unique mass and charge transport behaviour.
+9–16Relying on
+the photo-responsiveness of the liquid processed grapheneoxide membranes (GOMs),17we recently reported a photo-
+induced active ion transport system with extraordinarily highpumping rate, which shows a straightforward way to use solarenergy to drive ion transport.
+18Superior to existing arti cial
+molecular transport systems residing in lipid or liquidmembranes,
+19,20GOM-based systems are robust and compatible
+with other components.21Additionally, they do not hinge on
+specic large ion-binding shuttle molecules, or photochromic
+molecular switches imbedded in the membrane, to achieve
+transmembrane ion transport.22,23
+In a previous study, the ion driven force in a GOM was found
+to rely on an o ﬀ-centre partial illumination that motivated
+a transmembrane potential through charge separation, whicharises from disparate di ﬀusion between photo-excited electron
+and hole charge carriers.
+18However, partial illumination is not
+always readily achievable and hence neither is the deployment
+of GOM-based photo-responsive ion pumps. Therefore,
+a membrane capable of controlled photo-responsiveness underfull-area illumination is crucial for broadening practicalapplications.
+Herein, we design and fabricate geometrically asymmetric
+GOMs by a drop-casting assisted inclination fabrication methodfeaturing a controllable thickness gradient, and demonstratedirectional photo-induced ion transport under full-area illumi-
+nation. Besides o ﬀ-centre illumination upon a -uniform-
+thickness GOM, a net cationic ow through a geometry-
+asymmetric GOM can also be generated from the thin sidetoward the thick side under full-area illumination. Moreover,the photocurrent density generated from the full-area illumi-nation on the geometry-asymmetric GOM is larger than that ofoﬀ-centre illumination upon a uniform GOM, and can be
+dramatically enlarged by increasing the degree of geometric
+asymmetry. This geometric structure-guided photo-induced ion
+transport phenomenon is explained in terms of inhomoge-neous light irradiation in the depth direction that contributes tobuilding a transmembrane electric potential.
+To make a geometry-asymmetric GOM, graphene oxide (GO)
+solutions ( /C243.5 mg ml
+/C01, Fig. 1a) were drop-cast onto a celluloseaCAS Key Laboratory of Bio-inspired Materials and Interfacial Science, Technical
+Institute of Physics and Chemistry, Chinese Academy of Sciences, Beijing 100190, P.R. China. E-mail: yjl@mail.ipc.ac.cn
+bUniversity of Chinese Academy of Sciences, Beijing 100049, P. R. China
+cDepartment of Chemical Engineering, Stanford University, Stanford, California
+94305, USA. E-mail: xiankong@stanford.edu
+dCAS Key Laboratory of Nanosystem and Hierarchical Fabrication, CAS Center for
+Excellence in Nanoscience, National Centre for Nanoscience and Technology, Beijing
+100190, P. R. China
+†Electronic supplementary information (ESI) available: The experimental setup
+and additional gures and table. See DOI: 10.1039/c9ta07570dCite this: J. Mater. Chem. A ,2 0 1 9 , 7,
+20182
+Received 13th July 2019
+Accepted 19th August 2019
+DOI: 10.1039/c9ta07570d
+rsc.li/materials-a
+20182 |J. Mater. Chem. A ,2 0 1 9 , 7,2 0 1 8 2 –20186 This journal is © The Royal Society of Chemistry 2019Journal of
+Materials Chemistry A
+COMMUNICATION
+Published on 21 August 2019. Downloaded by South China University of Technology on 3/26/2022 3:05:03 PM. 
+View Article Online
+View Journal
+ | View Issue
+Articles
+https:/ / doi.org/10.1038/s41565-019-0465-31Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. 2School of Physical Science and T echnology, ShanghaiT ech 
+University, Shanghai, China. 3Department of Chemical Engineering, Stanford University, Stanford, CA, USA. 4Department of Materials Science and 
+Engineering, The Pennsylvania State University, University Park, PA, USA. 5SLAC National Accelerator Laboratory, Stanford Institute for Materials and 
+Energy Sciences, Menlo Park, CA, USA. 6These authors contributed equally: Jiayu Wan, Jin Xie. *e-mail: yicui@stanford.eduLithium (Li)-ion batteries (LIBs) are ubiquitously recognized 
+as the dominant energy storage device1–4. In pursuit of LIBs 
+with better performance, tremendous progress has been made 
+on every component in batteries5–8. However, the dilemma of 
+high performance versus safety of LIBs remains a problem, lead -
+ing to catastrophic battery incidents. The ever-increasing demand for high-energy-density LIBs urges the utilization of the ultimate metallic Li anode, which further complicates safety issues
+9–12.  
+Li dendrites formed during electrochemical Li plating and stripping can penetrate the separator, leading to battery short-circuiting, and eventually fire and tragedies.
+To address the aforementioned safety concerns, solid-state elec
+-
+trolytes (SSEs) have attracted great attention as replacements for the flammable liquid electrolyte in current LIBs
+13–15. Ideally, SSEs 
+should be highly ionically conductive, mechanically strong, nonvol -
+atile, nonflammable and chemically/electrochemically stable within the battery operation window. To date, numerous studies have been carried out to investigate different types of SSE materials for safer 
+LIBs
+16,17. These SSEs can be summarized in three categories: inor -
+ganic (ceramic/glass) solid electrolytes18–20, solid polymer electro -
+lytes (SPEs)21,22 and their hybrids23,24. Inorganic SSEs generally have 
+the highest ionic conductivity among all types of SSEs, with some 
+(sulfide superionic conductors) even exceeding that of liquid elec -
+trolytes20. Recent studies addressing the notoriously large interfacial 
+resistance of Li/inorganic SSEs have given inorganic SSEs a giant leap towards their application in LIBs
+18,25. However, the brittle nature of 
+inorganic SSE pellets may greatly hinder their processability and use in practical applications such as in electrical vehicles, where even a 
+small bump may cause structural failure. Inorganic SSEs are also not flexible and are relatively thick (>200 µm) to preserve their intact 
+structure during handling. Recent findings have revealed an intrin
+-
+sic high electronic conductivity in certain inorganic SSEs, especially 
+at grain boundaries, leading to hazardous direct Li deposition inside of them
+26,27. The above issues must therefore be addressed before 
+utilizing inorganic SSEs in commercial all-solid-state batteries28.
+SPEs are mainly composed of uniform mixtures of solid poly -
+mers and Li salts. These SSEs are widely studied due to their high flexibility, light weight, low cost and easy scalability. However, the intrinsic softness of these polymer systems and their moderate ionic 
+conductivity hinder the use of pure polymer/Li salt composites in 
+LIBs
+29,30. In the most-studied system of polyethylene oxide (PEO), 
+adding plasticizers or grafting functional branches to PEO chains can enhance the ionic conductivity and modulus of the SPE. Even 
+so, PEO itself is still flammable, making its SPEs similarly unfavour
+-
+able compared with liquid electrolytes. The marriage of organic 
+and inorganic solid electrolytes into a composite solid electrolyte is promising because it improves ionic conductivity without sacrific
+-
+ing the flexibility of the polymer electrolyte31–35. The enhanced ionic 
+conductivity arising from aligned composite polymer–inorganic SPE structures furthers the advantages of these SSEs
+36,37. A previous 
+report showed that aligning Li conducting ceramic nanowires in a horizontal configuration can improve ionic conductivity in polyac
+-
+rylonitrile/LiClO4 polymer electrolyte systems24. Nevertheless, even 
+with state-of-the-art SSE systems, it is extremely difficult to create high-ionic-conductivity (>10
+−4 S cm−1), thin SSEs (<10 µm) at room 
+temperature by positioning inorganic components in a vertical configuration, while simultaneously obtaining stable cycling per
+-
+formance within a full battery. If such an SSE design was available, Ultrathin, flexible, solid polymer composite 
+electrolyte enabled with aligned nanoporous host 
+for lithium batteries
+Jiayu Wan1,6, Jin Xie   1,2,6, Xian Kong   3, Zhe Liu   4, Kai Liu1, Feifei Shi1, Allen Pei   1, Hao Chen1, 
+Wei Chen1, Jun Chen   1, Xiaokun Zhang1, Linqi Zong1, Jiangyan Wang1, Long-Qing Chen4, Jian Qin   3 
+and Yi Cui   1,5*
+The urgent need for safer batteries is leading research to all-solid-state lithium-based cells. T o achieve energy density com-
+parable to liquid electrolyte-based cells, ultrathin and lightweight solid electrolytes with high ionic conductivity are desired. 
+However, solid electrolytes with comparable thicknesses to commercial polymer electrolyte separators (~10 μm) used in  
+liquid electrolytes remain challenging to make because of the increased risk of short-circuiting the battery. Here, we report on 
+a polymer–polymer solid-state electrolyte design, demonstrated with an 8.6-μm-thick nanoporous polyimide (PI) film filled 
+with polyethylene oxide/lithium bis(trifluoromethanesulfonyl)imide (PEO/LiTFSI) that can be used as a safe solid polymer 
+electrolyte. The PI film is nonflammable and mechanically strong, preventing batteries from short-circuiting even after more than 1,000 h of cycling, and the vertical channels enhance the ionic conductivity (2.3 × 10
+−4 S cm−1 at 30 °C) of the infused 
+polymer electrolyte. All-solid-state lithium-ion batteries fabricated with PI/PEO/LiTFSI solid electrolyte show good cycling 
+performance (200 cycles at C/2 rate) at 60 °C and withstand abuse tests such as bending, cutting and nail penetration.
+NAtUre NANote CHNoL ogY | VOL 14 | JULY 2019 | 705–711 | www.nature.com/naturenanotechnology 705
+www.afm-journal.de© 2020 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 1910138 (1 of 10)A major hurdle to the successful deployment of high-energy-density lithium 
+metal based batteries is dendrite growth during battery cycling, which 
+raises safety and cycle life concerns. Coating the Li metal anode with a soft 
+polymer layer has been previously shown to be effective in suppressing dendrite growth, leading to uniform lithium deposition even at high current 
+densities. A 3D coarse-grained molecular model to study the mechanism 
+of dendrite suppression is presented. It is found that the most effective coatings delay or even prevent dendrites from penetrating the polymer 
+layer during deposition. The optimal deposition can be achieved by jointly 
+tuning the polymer stiffness and relaxation time. Higher polymer dielectric permittivity and coating thickness are also effective, but the deposition 
+rate and, therefore, the charging current density is reduced. These findings 
+provide the basis for rational design of soft polymer coatings for stable lithium deposition.cathode can create a short circuit, causing 
+fires or even explosions. Minimizing or eliminating dendritic growth under com-
+mercially viable battery usage conditions 
+has therefore emerged as an important scientific goal in recent decades.
+[1]
+A wide range of strategies have been 
+attempted to inhibit dendritic growth on lithium metal anodes.
+[4] Many approaches 
+are directed at modifying the solid electro-lyte interphase (SEI), which spontaneously 
+forms due to the reduction of electrolyte 
+compounds at the Li surface. Creation of a homogeneous, flexible, and mechanically strong SEI has been pursued through the 
+use of a chemically deposited or physi-
+cally coated artificial SEI on the anode.
+[5–8] 
+Driven by theoretical predictions,[9,10] the 
+use of solid electrolytes to mechanically inhibit dendrite growth has also been 
+explored. For example, ceramic electrolytes have high ionic con-ductivity and modulus, but are brittle and show poor adhesion with the Li interface upon cycling.
+[11] On the other hand, solid 
+polymer electrolytes (SPEs) are mechanically strong and more adhesive, but suffer from low ionic conductivity, especially at room temperature.
+[12,13] Recent approaches in this area have 
+explored self-assembled microstructured block copolymers and layered polymeric and ceramic materials, both aimed at 
+achieving a balance between the necessary properties.
+[14–16]
+Polymeric electrolytes have many desirable properties for Li 
+battery applications, including enhanced adhesive and elastic 
+properties and relative flexibility in chemical and mechanical 
+properties based on the degree of cross-linking and alterations 
+in functionalization.[17–19] Polymeric materials are also rela-
+tively cost-effective and are easily processed in solution. While they do not have shear moduli on the order of 1–10 GPa, as 
+is required by previous theoretical predictions,
+[10] they have 
+nevertheless shown promise in dendrite suppression.[20–22] 
+For example, polymeric separators strengthened by nanopar -
+ticle fillers and polymeric membranes formed through dense crosslinking with hairy nanoparticles have shown the ability 
+to suppress dendrites.
+[23,24] Use of a nonporous elastomeric 
+rubber separator improved cycling stability even at high current density (10 mA cm
+−2).[19] A novel self-healing polymer (SHP) 
+coating facilitated smooth Li deposition at high current density and enhanced the cycle stability.
+[25] More recent continuum 
+theory has partially explained these results by accounting for the separator elasticity in a linear stability analysis.
+[20] It has 
+also been demonstrated that polymer thickness, dielectric con-stant, and surface energy are important determinants of the Full PaPer
+Dendrite Suppression by a Polymer Coating:  
+A Coarse-Grained Molecular Study
+Xian Kong,* Paul E. Rudnicki, Snehashis Choudhury, Zhenan Bao, and Jian Qin*
+DOI: 10.1002/adfm.201910138Dr. X. Kong, P. E. Rudnicki, Dr. S. Choudhury, Prof. Z. Bao, Prof. J. Qin
+Department of Chemical EngineeringStanford UniversityStanford, CA 94305, USAE-mail: xiankong@stanford.edu; jianq@stanford.edu
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adfm.201910138.1. Introduction
+The proliferation of electric vehicles and personal devices is 
+expected to continue rapidly in coming years, requiring large quantities of low-cost rechargeable batteries with high capacity 
+and energy density.
+[1] Commercialized lithium-ion batteries are 
+limited in their theoretical energy density and are not expected 
+to meet electric vehicle pack goals.[2] Research into new chem-
+istries based on advanced materials is therefore necessary for the development of next-generation batteries.
+[3] Lithium metal 
+has many desirable properties as an anode material, including the lowest electrochemical potential (−3.04 V vs the standard 
+hydrogen electrode) and the highest theoretical specific capacity 
+(3860 mAh g
+−1) among all the candidate materials.[4] To date, 
+the commercialization of lithium metal anodes in recharge-
+able batteries has not been successful due to stability and safety 
+issues.[3] During charging cycles, lithium ions are deposited 
+nonuniformly, which can lead to the growth of dendrites across the cell. This causes significant coulombic efficiency loss, as 
+highly reactive Li metal irreversibly degrades the electrolyte to 
+form unwanted products, decreasing battery capacity. There are also significant safety concerns, as dendritic contact with the 
+Adv. Funct. Mater. 2020, 30, 1910138
+
+Articles
+https:/ / doi.org/10.1038/s41565-019-0624-61Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. 2Department of Chemical Engineering, Stanford University, 
+Stanford, CA, USA. 3Department of Electrical Engineering, Stanford University, Stanford, CA, USA. 4Advanced Light Source, Lawrence Berkeley National 
+Laboratory, Berkeley, CA, USA. 5Department of Applied Physics, Stanford University, Stanford, CA, USA. 6Stanford Institute for Materials and Energy 
+Sciences, SLAC National Accelerator Laboratory, Menlo Park, CA, USA. 7Department of Physics, Stanford University, Stanford, CA, USA. 8Department of 
+Molecular and Cellular Physiology, Stanford University, Stanford, CA, USA. 9Present address: The Future Laboratory, T singhua University, Beijing, China. 
+10These authors contributed equally: Ankun Yang, Guangmin Zhou. *e-mail: yicui@stanford.eduSulfur is an attractive cathode material due to its high specific 
+capacity (1,675 mA h g–1) and low cost. Therefore, lithium–sul -
+fur (Li–S) batteries have high energy density and show promise 
+for use in electric vehicles and grid-scale energy storage1. However, 
+challenges, including short cycle life and poor Coulombic efficiency, still exist in Li–S batteries despite extensive studies in recent years
+2. 
+The primary underlying reasons for this include the following2: (1) 
+the solubility of the lithium polysulfide intermediates (Li2Sn, 3 ≤ n ≤ 8) 
+leads to a ‘shuttle effect’ and causes rapid capacity fading, and (2) the charge and discharge products, sulfur (S
+8) and lithium sulfide (Li2S), 
+respectively, are electrically insulating, resulting in the inefficient utilization of the active materials. To understand the reaction pro
+-
+cesses and achieve better designs of Li–S batteries, ex  situ studies, including scanning electron microscopy (SEM), transmission elec
+-
+tron microscopy (TEM) and X-ray diffraction (XRD), are commonly used to examine the structural and morphological changes of the sulfur species and/or identify their binding strengths with different 
+cathode materials
+3–5. At the same time, new approaches and tools, 
+especially in situ or operando microscopy and spectroscopy meth -
+ods, including optical microscopy6, transmission X-ray microscopy7 
+and X-ray absorption spectroscopy (XAS)8,9, are gaining increasing 
+attention for monitoring and uncovering the reactions and processes 
+of batteries as they provide more reliable information in real time10. 
+However, most of the research has been focused on the intermediate polysulfides and the discharge product lithium sulfide (Li
+2S), with 
+much less research on the charge product sulfur (S8).
+We recently discovered a surprising and important phenom -
+enon in our in situ studies: the charge product sulfur, commonly believed to be solid4,8, can stay in a supercooled liquid state on 
+metallic substrates at room temperature, which is well below the melting temperature of sulfur (115 °C)
+6. We found that these meta -
+stable supercooled liquid sulfur droplets quickly solidify upon con -
+tact with crystalline sulfur. It is well known that liquids, in contrast to solids, have flowability and adaptive capabilities due to weaker interatomic interactions. Thus, in the context of Li–S electrochem
+-
+istry, how the state (liquid or solid) of sulfur affects the cathodic behaviour and the energy storage performance become important questions. On the other hand, two-dimensional (2D) layered mate
+-
+rials, including metal sulfides (MoS2 (refs. 5,11,12), WS2 (ref. 13), TiS2 
+(ref. 14) and others15,16), graphene and graphene oxides17–21, and black 
+phosphorus22, have received increasing interest for their use in Li–S 
+batteries to enhance the conductivity of cathode materials and/or trap polysulfides. However, how sulfur interacts with these 2D 
+ 
+layered materials has not been widely studied.
+Here we present the first in situ study of the electrochemical gen -
+eration of sulfur on 2D layered materials and correlate the sulfur state (liquid or solid) with the electrochemical performance. First, we set up an optical cell that allows real-time electrochemical con
+-
+trol and in situ optical imaging of sulfur generation. We show that sulfur prefers to grow as liquid droplets on the basal plane (flat top surface) of 2D layered materials and crystallize from the edges. We 
+explain the distinct growth behaviours through a combination of 
+factors, including binding energy, wetting, electric field distribution and critical nucleus size. Second, by understanding edge-induced crystallization, we can control the sulfur state (liquid or solid) on 
+2D materials and demonstrate that liquid sulfur provides a much Electrochemical generation of liquid and solid 
+sulfur on two-dimensional layered materials with 
+distinct areal capacities
+Ankun Yang   1,10, Guangmin Zhou1,10, Xian Kong   2, Rafael A. Vilá1, Allen Pei   1, Y ecun Wu   3, 
+Xiaoyun Yu1, Xueli Zheng   1, Chun-Lan Wu   1, Bofei Liu1, Hao Chen   1, Yan Xu1, Di Chen   1,9, Yanxi Li1, 
+Sirine Fakra4, Harold Y. Hwang5,6, Jian Qin   2, Steven Chu7,8 and Yi Cui   1,6*
+It has recently been shown that sulfur, a solid material in its elementary form S8, can stay in a supercooled state as liquid 
+sulfur in an electrochemical cell. We establish that this newly discovered state could have implications for lithium–sulfur bat -
+teries. Here, through in situ studies of electrochemical sulfur generation, we show that liquid (supercooled) and solid elemen-
+tary sulfur possess very different areal capacities over the same charging period. T o control the physical state of sulfur, we studied its growth on two-dimensional layered materials. We found that on the basal plane, only liquid sulfur accumulates; 
+by contrast, at the edge sites, liquid sulfur accumulates if the thickness of the two-dimensional material is small, whereas 
+solid sulfur nucleates if the thickness is large (tens of nanometres). Correlating the sulfur states with their respective areal capacities, as well as controlling the growth of sulfur on two-dimensional materials, could provide insights for the design of 
+future lithium–sulfur batteries.
+NAtuRE NANotECHNoL oGY | VOL 15 | MAr Ch 2020 | 231–237 | www.nature.com/naturenanotechnology 231
+9110 |Phys. Chem. Chem. Phys. , 2020, 22, 9110- -9116 This journal is ©the Owner Societies 2020
+Cite this: Phys.Chem.Chem.Phys. ,
+2020, 22, 9110A hybrid theoretical method for predicting
+electrokinetic energy conversion in nanochannels
+Xiaoyu Hu,
+aYiling Nan,abXian Kong,aDiannan Lu
+ *aand Jianzhong Wu
+ *c
+The traditional methods to predict electrokinetic energy conversion (EKEC) in nanochannels are mostly
+based on the Navier–Stokes (NS) equation for ionic flow and the Poisson–Boltzmann (PB) equation for
+charge distributions, which is questionable for ion transport through highly charged nanochannels. In
+this work, the classical density functional theory (cDFT) is used together with molecular dynamics (MD)simulation and the Navier–Stokes (NS) equation to predict the electrical current and the thermodynamicefficiency of electrokinetic energy conversion in nanochannels. By introducing numerical results for theslip length calculated from MD simulation, a significant increase of the electrokinetic current is predictedin comparison to that obtained from the traditional electrokinetic equations with the non-slip boundarycondition, leading to the theoretical predictions of the thermodynamic efficiency for electrokineticenergy conversion in nanochannels in good agreement with recent experiments. The hybrid method
+predicts that maximum electrokinetic efficiency can be achieved by tuning the channel height and
+solution conditions including electrolyte concentrations, ion valences, and surface energies. Thetheoretical results provide new insights into pressure-driven electrical energy generation processes andhelpful guidelines for engineering design and optimization of electrokinetic energy conversion.
+I. Introduction
+Electrical power can be produced by a pressure-driven process
+with an electrolyte solution flowing through charged nano-channels.
+1–3The so-called electrokinetic energy conversion
+(EKEC) plays a vital role in renewable energy generation and
+storage.1,4Thanks to the rapid and steady improvement in
+nano-manufacturing capability, significant progress has beenmade in recent years in EKEC technology,
+5–13and it represents
+one of the most promising processes to achieve efficient con-version of hydraulic power to electricity.
+14Compared with
+electromagnetic power generators, EKEC has one major advantagebecause it avoids macroscopic mechanical motions.
+4
+Pioneering studies of EKEC processes were reported by Osterle
+and co-workers1and by Burgreen and Nakache for ultrafine
+capillaries.15The early theoretical studies predicted that the
+maximum thermodynamic eﬃciency was only about 17%, whichis unattractive for many practical applications. A larger eﬃciencycould be achieved by introducing buﬀer ions.
+5Gillespie investi-
+gated the eﬀect of layering ions on the electrokinetic conversiontheoretically and predicted that the maximum thermodynamic
+eﬃciency can be significantly increased up to 50%.16More recent
+modelling of EKEC processes also indicates that the maximumthermodynamic eﬃciency can reach up to 30–40%, or as high as50% when the hydrodynamic slip and ion laying are explicitly
+considered.
+11,13
+Experimental investigations of EKEC processes based on
+micro-channel arrays showed disappointing thermodynamiceﬃciency, merely B1%.
+17,18With the help of nano-manufacture
+technology, a higher eﬃciency can be obtained in nanochannels.More recently, an eﬃciency of 35–46% was reported for ion trans-port through nitrocellulose/sulfonated polystyrene membranes.
+19,20
+A ballistic electrostatic generator may lead to an efficiency of 50%.21
+Some researchers utilized the method of measurement of theelectrokinetic figure-of-merit, which is the gold standard forassessing the thermoelectric energy conversion of materials,
+22
+and the reported efficiency was about 14–18% for Nafion atroom temperature.
+23The thermodynamic efficiency increases to
+26% when the process is implemented at 343 K.24
+A more reliable prediction of EKEC performance will help to
+identify optimal operation conditions and reduce the cost of
+the device.25The traditional methods are mostly based on the
+Navier–Stokes (NS) equation for ionic flow and the Poisson–Boltzmann (PB) equation for charge distributions. Because theions are treated as point charges and the electrostatic correlationsare neglected, the theoretical performance is questionable for iontransport through highly charged ( B100 mC m
+/C02) nanochannelsaDepartment of Chemical Engineering, Tsinghua University, Beijing 100084, China.
+E-mail: ludiannan@tsinghua.edu.cn
+bSchool of Mining and Petroleum Engineering, Department of Civil andEnvironmental Engineering, University of Alberta, Edmonton, AB T6G 1H9,
+Canada
+cDepartment of Chemical and Environmental Engineering, University of California,
+Riverside, California 92521, USA. E-mail: jwu@engr.ucr.eduReceived 22nd February 2020,
+Accepted 30th March 2020
+DOI: 10.1039/d0cp00997k
+rsc.li/pccpPCCP
+PAPER
+Published on 30 March 2020. Downloaded by Stanford Libraries on 4/25/2021 5:37:51 AM. 
+View Article Online
+View Journal
+ | View Issue
+A New Class of Ionically Conducting Fluorinated Ether Electrolytes
+with High Electrochemical Stability
+Chibueze V. Amanchukwu, Zhiao Yu, Xian Kong, Jian Qin, Yi Cui, *and Zhenan Bao *
+Cite This: J. Am. Chem. Soc. 2020, 142, 7393 −7403 Read Online
+ACCESS Metrics & More Article Recommendations *sıSupporting Information
+ABSTRACT: Increasing battery energy density is greatly desired for applications
+such as portable electronics and transportation. However, many next-generationbatteries are limited by electrolyte selection because high ionic conductivity andpoor electrochemical stability are typically observed in most electrolytes. Forexample, ether-based electrolytes have high ionic conductivity but are oxidativelyunstable above 4 V, which prevents the use of high-voltage cathodes that promisehigher energy densities. In contrast, hydro ﬂuoroethers (HFEs) have high oxidative
+stability but do not dissolve lithium salt. In this work, we synthesize a new class ofﬂuorinated ether electrolytes that combine the oxidative stability of HFEs with the
+ionic conductivity of ethers in a single compound. We show that conductivities ofup to 2.7 ×10
+−4S/cm (at 30 °C) can be obtained with oxidative stability up to 5.6
+V. The compounds also show higher lithium transference numbers compared totypical ethers. Furthermore, we use nuclear magnetic resonance (NMR) andmolecular dynamics (MD) to study their ionic transport behavior and ion solvation environment, respectively. Finally, wedemonstrate that this new class of electrolytes can be used with a Ni-rich layered cathode (NMC 811) to obtain over 100 cycles at aC/5 rate. The design of new molecules with high ionic conductivity and high electrochemical stability is a novel approach for the
+rational design of next-generation batteries.
+■INTRODUCTION
+The availability of energy-dense and compact batteries has
+galvanized interest in the electri ﬁcation of transport and further
+integration of renewables in the grid. Rechargeable lithium-ionbatteries are the batteries of choice today because they havethe highest energy densities ( ∼250 W h/kg).
+1,2However, their
+energy densities and cost are currently insu ﬃcient to keep pace
+with our insatiable demand for longer range electric vehiclesand a reduction in our carbon footprint.1Li-ion batteries use
+graphite as the anode, a mixture of carbonates as theelectrolyte, and a transition metal oxide (TMO) such asLiCoO
+2as the cathode. To obtain higher energy densities,
+battery chemistries such as lithium −high-voltage TMO ( ∼440
+W h/kg), lithium −sulfur ( ∼650 W h/kg), and lithium −air
+(∼950 W h/kg) have been heavily explored.1−4These
+improvements in energy density are predicated on the use oflithium metal as the anode because of its high theoreticalspeciﬁc capacity (3860 mA h/g
+Li) and low reduction potential
+(−3.04 V).2,5−7However, lithium metal reacts signi ﬁcantly
+with the electrolyte (because of the low reduction potential) togenerate a solid electrolyte interface (SEI).8Unlike in graphite
+where the SEI can be quite robust and sustains long-termcycling, the SEI on lithium metal is quite porous, andcontinuous electrolyte degradation leads to cell death.
+9
+Electrolyte stability against the cathode is also of great interestb e c a u s eo ft h ee x i s t e n c eo fe l e c t r o d e ss u c ha sN i - r i c hLiNi
+0.8Mn0.1Co0.1O2(NMC 811) with capacities much higherthan NMC 111 used commercially today. However, accessing
+the energy density in Ni-rich NMC 811 requires high charging
+cutoﬀpotentials (at least 4.4 V or above).10Increasing the
+oxidative stability of electrolytes while maintaining stablelithium metal deposition/stripping and high ionic conductiv-
+ities is a great challenge, because the electrochemical stability
+window shifts between di ﬀerent classes of electrolytes.
+11
+There are two classes of electrolytes that dominate the
+lithium metal literature: carbonates and ethers. Carbonates
+such as ethylene carbonate (EC) and ethyl methyl carbonate
+(EMC) are currently used in today ’s lithium-ion batteries
+because of their high dielectric constant (and high ionicconductivities), and the ability of EC to form a robust SEI on
+graphite.
+9Unfortunately, when carbonates are used in lithium
+metal batteries, the SEI is porous, and side reactions withlithium metal are exacerbated, leading to low Coulombic
+eﬃciencies.
+9,12Therefore, typical carbonates used in lithium-
+ion batteries have been eschewed for ethers in lithium metal
+batteries. Ethers such as 1,3-dioxolane (DOL) and 1,2-
+Received: October 14, 2019
+Published: April 1, 2020
+Article pubs.acs.org/JACS
+© 2020 American Chemical Society
+7393https://dx.doi.org/10.1021/jacs.9b11056
+J. Am. Chem. Soc. 2020, 142, 7393 −7403
+Downloaded via STANFORD UNIV on April 25, 2021 at 04:35:21 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Letters
+https:/ / doi.org/10.1038/s41567-020-0809-91Department of Bioengineering, Stanford University, Stanford, CA, USA. 2Department of Chemical Engineering, Stanford University, Stanford, CA, USA. 
+3Department of Developmental Biology, Stanford University School of Medicine, Stanford, CA, USA. 4These authors contributed equally: Margarita 
+Khariton, Xian Kong. ✉e-mail: jianq@stanford.edu; wangbo@stanford.eduJamming models developed in inanimate matter have been 
+widely used to describe cell packing in tissues1–7, but predomi-
+nantly neglect cell diversity, despite its prevalence in biology. 
+Most tissues, animal brains in particular, comprise a mix of 
+many cell types, with mounting evidence suggesting that neu-rons can recognize their respective types as they organize in 
+space
+8–11. How cell diversity revises the current jamming para-
+digm is unknown. Here, in the brain of the flatworm planar -
+ian Schmidtea mediterranea, which exhibits remarkable tissue 
+plasticity within a simple, quantifiable nervous system12–16, 
+we identify a distinct packing state, ‘chromatic’ jamming. 
+Combining experiments with computational modelling, we 
+show that neurons of distinct types form independent per -
+colating networks barring any physical contact. This jammed 
+state emerges as cell packing configurations become con-
+strained by cell type-specific interactions and therefore may extend to describe cell packing in similarly complex tissues 
+composed of multiple cell types.
+Jamming behaviours have been extensively studied in inani -
+mate systems undergoing liquid-to-solid transitions, including 
+foams, gels and emulsions17–21; more recently, similar concepts have 
+been explored to describe cellular packing in biological tissues1–7. 
+In physical systems, jamming transitions are controlled by a set of canonical variables: density, temperature and stress
+18,20,21. In tissues, 
+these variables have been linked to cellular properties, including shape, migration and mechanics
+4,6. However, cell diversity has not 
+been accounted for in the current framework of jamming, despite complex tissues being composed of many distinct cell types. In par
+-
+ticular, neural tissues possess extremely high cell diversity and it is well known that neurons can recognize and interact with their respective types as they organize in space
+8,9,22. A neuron can avoid 
+other neurons of its same type even when they are several cell body sizes apart, mediated by a variety of broadly conserved biological 
+mechanisms (Fig. 1a and Supplementary Note 1)
+10,11,22. This repul -
+sion causes homotypic neurons to organize into two-dimensional 
+(2D) arrays with regular interneuronal spacing in sensory sys -
+tems10,11,22,23. How these type-specific interactions organize cells in 
+more complex three-dimensional (3D) tissues remains unknown.
+To address this question, we propose a new jamming  
+transition, which is controlled by the cell diversity of a tissue and thereby represents a dimension orthogonal to previously char
+-
+acterized jamming behaviours. In previous studies, the jamming state manifests as the positions and shapes of cells are constrained by their physical neighbours to give rise to a solid-like mechani
+-
+cal state3–7. Here, cell type adds an additional degree of freedom 
+independent of tissue mechanical state, which can be progressively reduced as the cell diversity of a tissue decreases (Fig. 1a). At a 
+ 
+critical number of cell types, homotypic repulsion becomes so abundant throughout the tissue that it limits the possible packing configurations of cells. Inspired by the colour map problem
+24, we 
+term this transition chromatic jamming.
+We demonstrate chromatic jamming through both experi -
+mental and computational model systems. Experimentally, we use quantitative 3D imaging to investigate neuronal packing within the brain of the planarian Schmidtea mediterranea  (Fig. 1b), one 
+of the most basal organisms known to have a demarcated central nervous system, which contains several dozen neuronal types in a bilobed structure of densely packed neurons
+13,25–28 (Fig. 1c,d and 
+Supplementary Figs. 1 and 2). Importantly, the total number of neu -
+rons in the planarian brain scales linearly with animal size and can vary by more than an order of magnitude, from thousands to tens of thousands, while the number density of each neuronal type remains 
+nearly constant
+14.
+With the high genetic similarity to the vertebrate nervous sys -
+tem13,15,25,28, the planarian brain also provides the simplicity neces -
+sary for precisely determining individual neuronal positions. We 
+acquired 3D confocal images of non-overlapping neuronal types using RNA fluorescence in situ hybridization (RNA-FISH) against 
+a panel of neuropeptide genes, each specifically labelling the cell 
+bodies of a distinct type of peptidergic neuron
+13,14,28,29 (Fig. 1d and 
+Supplementary Figs. 1 and 2). Our imaging resolution of 350 nm lat -
+eral, 700 nm axial, is sufficient to resolve single cells with an average 
+diameter of ~6 μm using automated imaging analysis.
+Two essential features are evident regarding the type-specific 
+packing organization. First, despite the dense packing of neurons throughout the brain space, homotypic neurons are rarely in direct physical contact, consistent with the property of homotypic repul
+-
+sion9; they do not organize into regular mosaic patterns either, 
+unlike the well studied 2D sensory systems9,11,23. Second, in align -
+ment with previous reports in other animals (for example, fruit fly and mouse)
+9,10,22, no long-range interaction is observed between 
+heterotypic neurons (Supplementary Fig. 3), allowing us to treat individual neuronal types separately.
+To quantify the packing structure within each neuronal type, 
+we located the centroids of individual neuronal cell bodies and identified their nearest homotypic neighbours using Voronoi tes
+-
+sellation, which has been used extensively to define neuronal tiling patterns
+30–32 (Fig. 1e). Figure 1f plots the centroids coloured accord -
+ing to the number of their homotypic nearest neighbours, n, with more examples shown in Supplementary Fig. 2. Although large variations in n between individual cells are observed, no long-range 
+spatial heterogeneity is apparent. Figure 2a shows that the average 
+number of nearest neighbours, 〈n〉 = 14 ± 0.2, is stable over various 
+neuronal types and across a wide range of brain sizes. This value is in good agreement with that of classic 3D random close packings in 
+particulate matter
+17–20.
+If neurons do in fact pack into a jammed state with respect  
+to their homotypic neighbours, then only a fraction of nearest  Chromatic neuronal jamming in a primitive brain
+Margarita Khariton1,4, Xian Kong   2,4, Jian Qin   2 ✉ and Bo Wang   1,3 ✉
+Nature PhysiCs | VOL 16 | MAy 2020 | 553–557 | www.nature.com/naturephysics 553
+Articles
+https:/ / doi.org/10.1038/s41565-019-0624-61Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. 2Department of Chemical Engineering, Stanford University, 
+Stanford, CA, USA. 3Department of Electrical Engineering, Stanford University, Stanford, CA, USA. 4Advanced Light Source, Lawrence Berkeley National 
+Laboratory, Berkeley, CA, USA. 5Department of Applied Physics, Stanford University, Stanford, CA, USA. 6Stanford Institute for Materials and Energy 
+Sciences, SLAC National Accelerator Laboratory, Menlo Park, CA, USA. 7Department of Physics, Stanford University, Stanford, CA, USA. 8Department of 
+Molecular and Cellular Physiology, Stanford University, Stanford, CA, USA. 9Present address: The Future Laboratory, T singhua University, Beijing, China. 
+10These authors contributed equally: Ankun Yang, Guangmin Zhou. *e-mail: yicui@stanford.eduSulfur is an attractive cathode material due to its high specific 
+capacity (1,675 mA h g–1) and low cost. Therefore, lithium–sul -
+fur (Li–S) batteries have high energy density and show promise 
+for use in electric vehicles and grid-scale energy storage1. However, 
+challenges, including short cycle life and poor Coulombic efficiency, still exist in Li–S batteries despite extensive studies in recent years
+2. 
+The primary underlying reasons for this include the following2: (1) 
+the solubility of the lithium polysulfide intermediates (Li2Sn, 3 ≤ n ≤ 8) 
+leads to a ‘shuttle effect’ and causes rapid capacity fading, and (2) the charge and discharge products, sulfur (S
+8) and lithium sulfide (Li2S), 
+respectively, are electrically insulating, resulting in the inefficient utilization of the active materials. To understand the reaction pro
+-
+cesses and achieve better designs of Li–S batteries, ex  situ studies, including scanning electron microscopy (SEM), transmission elec
+-
+tron microscopy (TEM) and X-ray diffraction (XRD), are commonly used to examine the structural and morphological changes of the sulfur species and/or identify their binding strengths with different 
+cathode materials
+3–5. At the same time, new approaches and tools, 
+especially in situ or operando microscopy and spectroscopy meth -
+ods, including optical microscopy6, transmission X-ray microscopy7 
+and X-ray absorption spectroscopy (XAS)8,9, are gaining increasing 
+attention for monitoring and uncovering the reactions and processes 
+of batteries as they provide more reliable information in real time10. 
+However, most of the research has been focused on the intermediate polysulfides and the discharge product lithium sulfide (Li
+2S), with 
+much less research on the charge product sulfur (S8).
+We recently discovered a surprising and important phenom -
+enon in our in situ studies: the charge product sulfur, commonly believed to be solid4,8, can stay in a supercooled liquid state on 
+metallic substrates at room temperature, which is well below the melting temperature of sulfur (115 °C)
+6. We found that these meta -
+stable supercooled liquid sulfur droplets quickly solidify upon con -
+tact with crystalline sulfur. It is well known that liquids, in contrast to solids, have flowability and adaptive capabilities due to weaker interatomic interactions. Thus, in the context of Li–S electrochem
+-
+istry, how the state (liquid or solid) of sulfur affects the cathodic behaviour and the energy storage performance become important questions. On the other hand, two-dimensional (2D) layered mate
+-
+rials, including metal sulfides (MoS2 (refs. 5,11,12), WS2 (ref. 13), TiS2 
+(ref. 14) and others15,16), graphene and graphene oxides17–21, and black 
+phosphorus22, have received increasing interest for their use in Li–S 
+batteries to enhance the conductivity of cathode materials and/or trap polysulfides. However, how sulfur interacts with these 2D 
+ 
+layered materials has not been widely studied.
+Here we present the first in situ study of the electrochemical gen -
+eration of sulfur on 2D layered materials and correlate the sulfur state (liquid or solid) with the electrochemical performance. First, we set up an optical cell that allows real-time electrochemical con
+-
+trol and in situ optical imaging of sulfur generation. We show that sulfur prefers to grow as liquid droplets on the basal plane (flat top surface) of 2D layered materials and crystallize from the edges. We 
+explain the distinct growth behaviours through a combination of 
+factors, including binding energy, wetting, electric field distribution and critical nucleus size. Second, by understanding edge-induced crystallization, we can control the sulfur state (liquid or solid) on 
+2D materials and demonstrate that liquid sulfur provides a much Electrochemical generation of liquid and solid 
+sulfur on two-dimensional layered materials with 
+distinct areal capacities
+Ankun Yang   1,10, Guangmin Zhou1,10, Xian Kong   2, Rafael A. Vilá1, Allen Pei   1, Y ecun Wu   3, 
+Xiaoyun Yu1, Xueli Zheng   1, Chun-Lan Wu   1, Bofei Liu1, Hao Chen   1, Yan Xu1, Di Chen   1,9, Yanxi Li1, 
+Sirine Fakra4, Harold Y. Hwang5,6, Jian Qin   2, Steven Chu7,8 and Yi Cui   1,6*
+It has recently been shown that sulfur, a solid material in its elementary form S8, can stay in a supercooled state as liquid 
+sulfur in an electrochemical cell. We establish that this newly discovered state could have implications for lithium–sulfur bat -
+teries. Here, through in situ studies of electrochemical sulfur generation, we show that liquid (supercooled) and solid elemen-
+tary sulfur possess very different areal capacities over the same charging period. T o control the physical state of sulfur, we studied its growth on two-dimensional layered materials. We found that on the basal plane, only liquid sulfur accumulates; 
+by contrast, at the edge sites, liquid sulfur accumulates if the thickness of the two-dimensional material is small, whereas 
+solid sulfur nucleates if the thickness is large (tens of nanometres). Correlating the sulfur states with their respective areal capacities, as well as controlling the growth of sulfur on two-dimensional materials, could provide insights for the design of 
+future lithium–sulfur batteries.
+NAtuRE NANotECHNoL oGY | VOL 15 | MAr Ch 2020 | 231–237 | www.nature.com/naturenanotechnology 231
+1905557 (1 of 7)
+ © 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
+www.small-journal.comFull PaPer
+Light-Powered Directional Nanofluidic Ion Transport  
+in Kirigami-Made Asymmetric Photonic-Ionic Devices
+Meijuan Jia, Xian Kong,* Lili Wang, Yanbing Zhang, Di Quan, Liping Ding, 
+Diannan Lu,* Lei Jiang, and Wei Guo*
+DOI: 10.1002/smll.201905557transport in synthetic materials, which 
+is specifically termed as “2D nanoflu-idics.”
+[1–5] Via a simple filtration process, 
+atomically thin 2D nano-building-blocks can be reassembled into nacre-like layered 
+structure with densely packed sub-nanom-
+eter-height lamellar fluidic channels.
+[6,7] 
+Compared to conventional 1D nanoflu-idic devices and materials, the fabrication 
+of 2D-material-based nanofluidic systems 
+is highly facile, efficient, and scalable.
+[8,9] 
+In addition, fluidic and ionic transport in 2D nanofluidic system exhibits extraordi-
+narily high speed, while maintains pre-
+cise selectivity.
+[10,11] These unique features 
+enable considerable application of the 2D nanofluidic materials in, for example, bio-
+mimetic ion transport,
+[12–15] membrane 
+separation,[16–18] and energy conversion 
+and storage.[19–24]
+So far, the investigation of asymmetric 
+ion transport properties in 2D nanoflu-
+idic system is still in its infancy, and thus 
+receives considerable research interest in 
+the recent years.[25–28] For example, Wang 
+et al. report a drop-casting-based strategy to asymmetrically modify a homogeneous 
+graphene oxide membrane, and generate photoswitchable and highly rectified ion transport properties.
+[29] Furthermore, Zhang 
+et al. constructed a heterogeneous 2D nanofluidic membrane by sequentially stacking negatively and positively charged Nacre-mimetic 2D nanofluidic materials with densely packed sub-nanometer-
+height lamellar channels find widespread applications in water-, energy-, and 
+environment-related aspects by virtue of their scalable fabrication methods 
+and exceptional transport properties. Recently, light-powered nanofluidic ion transport in synthetic materials gained considerable attention for its remote, 
+noninvasive, and active control of the membrane transport property using the 
+energy of light. Toward practical application, a critical challenge is to overcome the dependence on inhomogeneous or site-specific light illumination. Here, 
+asymmetric photonic-ionic devices based on kirigami-tailored graphene oxide 
+paper are fabricated, and directional nanofluidic ion transport properties therein powered by full-area light illumination are demonstrated. The in-plane asym-
+metry of the graphene oxide paper is essential to the generation of photoelectric 
+driving force under homogeneous illumination. This light-powered ion transport phenomenon is explained based on a modified carrier diffusion model. In asym-
+metric nanofluidic structures, enhanced recombination of photoexcited charge 
+carriers at the membrane boundary breaks the electric potential balance in the horizontal direction, and thus drives the ion transport in that direction under 
+symmetric illumination. The kirigami-based strategy provides a facile and scalable 
+way to fabricate paper-like photonic-ionic devices with arbitrary shapes, working as fundamental elements for large-scale light-harvesting nanofluidic circuits.
+The ORCID identification number(s) for the author(s) of this article 
+can be found under https://doi.org/10.1002/smll.201905557.M. Jia, Dr. L. Wang, Y . Zhang, D. Quan, Prof. L. Jiang, Prof. W. GuoCAS Key Laboratory of Bio-Inspired Materials and Interfacial ScienceTechnical Institute of Physics and ChemistryChinese Academy of SciencesBeijing 100190, P. R. ChinaE-mail: wguo@iccas.ac.cn
+M. Jia, Y . Zhang, D. Quan
+University of Chinese Academy of SciencesBeijing 100049, P. R. China
+Dr. X. Kong
+Department of Chemical EngineeringStanford UniversityStanford, CA 94305, USAE-mail: xiankong@stanford.eduL. DingBeijing National Laboratory for Molecular SciencesInstitute of ChemistryChinese Academy of SciencesBeijing 100190, P. R. China
+Prof. D. Lu
+State Key Joint Laboratory of Chemical EngineeringDepartment of Chemical EngineeringTsinghua UniversityBeijing 100084, P. R. ChinaE-mail: ludiannan@tsinghua.edu.cn1. Introduction
+The engagement of 2D materials tremendously enriches and 
+promotes the research field of bioinspired nanofluidic ion 
+Small 2020, 16, 1905557
+
+www.afm-journal.de© 2019 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim 1907549 (1 of 9)Full PaPer
+Photoinduced Directional Proton Transport through Printed 
+Asymmetric Graphene Oxide Superstructures: A New Driving Mechanism under Full-Area Light Illumination
+Yanbing Zhang, Fengyu Li, Xian Kong, Tangyue Xue, Dan Liu, Pan Jia, Lili Wang, 
+Liping Ding, Huanli Dong, Diannan Lu, Lei Jiang, and Wei Guo*
+2D-material-based membranes with densely packed sub-nanometer-height 
+fluidic channels show exceptional transport properties, and have attracted 
+broad research interest for energy-, environment-, and healthcare-related 
+applications. Recently, light-controlled active transport of ionic species in abiotic materials have received renewed attention. However, its dependence 
+on inhomogeneous or site-specific illumination is a challenge for scalable 
+application. Here, directional proton transport through printed asymmetric graphene oxide superstructures (GOSs) is demonstrated under full-area 
+illumination. The GOSs are composed of partially stacked graphene oxide 
+multilayers formed by a two-step direct ink writing process. The direction of the photoinduced proton current is determined by the position of top 
+graphene oxide multilayers, which functions as a photogate to modulate 
+the horizontal ion transport through the beneath lamellar nanochannels. This transport phenomenon unveils a new driving mechanism that, in 
+asymmetric nanofluidic structures, the decay of local light intensity in depth 
+direction breaks the balance of electric potential distribution in horizontal direction, and thus generates a photoelectric driving force for ion transport. 
+Following this mechanism, the GOSs are developed into photonic ion 
+transistors with three different gating modes. The asymmetrically printed photonic-ionic devices provide fundamental elements for light-harvesting 
+nanofluidic circuits, and may find applications for artificial photosynthesis 
+and artificial electric organs.
+DOI: 10.1002/adfm.2019075491. Introduction
+Liquid processing of colloidal 2D mate-
+rials provides a facile and scalable way to fabricate membrane-scale materials with 
+densely packed sub-nanometer-height 
+fluidic channels and exceptional trans-port properties for applications in,
+[1–4] for 
+example, sustainable water treatment,[5–7] 
+gas separation,[8,9] energy conversion and 
+storage,[10–12] and printed electronics.[13,14] 
+Currently, the most commonly-used fabri-cation methods for 2D-material-based 
+nanofluidic systems include vacuum fil-
+tration,
+[15] liquid/air interface assembly,[16] 
+spin coating,[17] wet-spinning method,[18] 
+etc. However, these conventional fabri-cation techniques lack the design and 
+control of the fine structures of the mate-
+rial.
+[19] These homogeneous 2D mem-
+branes consequently result in symmetric transport properties.
+[20] Investigations on 
+asymmetric transport behaviors in 2D 
+nanofluidic systems are very rare.
+Printing technique provides a highly 
+efficient way for precisely assembling of 
+macroscopic functional structures with 2D 
+Y . Zhang, P. Jia, Dr. L. Wang, Prof. L. Jiang, Prof. W. Guo
+CAS Key Laboratory of Bio-inspired Materials and Interfacial ScienceTechnical Institute of Physics and ChemistryChinese Academy of SciencesBeijing 100190, P. R. ChinaE-mail: wguo@iccas.ac.cn
+Y . Zhang, D. Liu, P. Jia
+University of Chinese Academy of SciencesBeijing 100049, P. R. China
+Prof. F. Li
+College of Chemistry and Materials ScienceJinan UniversityGuangzhou 510632, P. R. China
+The ORCID identification number(s) for the author(s) of this article can be found under https://doi.org/10.1002/adfm.201907549.Dr. X. KongDepartment of Chemical EngineeringStanford UniversityStanford, CA 94305, USA
+T. Xue, D. Liu, L. Ding, Prof. H. Dong
+Beijing National Laboratory for Molecular SciencesInstitute of ChemistryChinese Academy of SciencesBeijing 100190, P. R. China
+Prof. D. Lu
+State Key Joint Laboratory of Chemical EngineeringDepartment of Chemical EngineeringTsinghua UniversityBeijing 100084, P. R. China
+Adv. Funct. Mater. 2020, 30, 1907549
+
+Transient Voltammetry with
+Ultramicroelectrodes Reveals the ElectronTransfer Kinetics of Lithium Metal Anodes
+David T. Boyle, Xian Kong, Allen Pei, Paul E. Rudnicki, Feifei Shi, William Huang, Zhenan Bao,
+Jian Qin, *and Yi Cui *
+Cite This: ACS Energy Lett. 2020, 5, 701 −709 Read Online
+ACCESS Metrics & More Article Recommendations *sıSupporting Information
+ABSTRACT: Fully understanding the mechanism of lithium metal
+deposition is critical for the development of rechargeable lithiumbattery anodes. The heterogeneous electron transfer kinetics are animportant aspect of lithium electrodeposition, but they have beendiﬃcult to measure and understa nd. Here, we use transient
+voltammetry with ultramicroelectrodes to explicitly investigate theelectron transfer kinetics of lithium electrodeposition. The resultsdeviate from the Butler −Volmer model of electrode kinetics; instead, a
+Marcus model accurately describes the electron transfer. Measuring thekinetics in a series of electrolytes shows the mechanism of lithiumdeposition under electron transfer control is consistent with the generalframework of Marcus theory. Comparison of the transient voltammetryresults to electrochemical impedance spectra provides a strategy forunderstanding how the interplay of the electron transfer and mass transport resistances a ﬀect the morphology of lithium.
+Contemporary portable electronics and electric vehicles
+continue to increase demand for high energy densitylithium batteries.
+1Replacement of graphitic anodes
+with metallic lithium anodes would improve the energy densityof Li-ion batteries, but lithium anodes face many challenges.
+2
+For lithium metal to become a practical rechargeable batteryanode, several processes must be understood and controlled.
+These processes include the formation of a passivation ﬁlm
+called the solid electrolyte interphase (SEI),
+3,4mass transport
+through the SEI,5−7nucleation of lithium on current
+collectors,8−10and interfacial electron transfer. Decades of
+research have focused on how processes involving the SEIimpact the rechargeability of lithium;
+11however, few studies
+have investigated the Lie L ik+→+−electron transfer
+kinetics,12,13which are predicted to in ﬂuence the morphology
+of electrodeposited metal.9,14−23
+Understanding the electron transfer kinetics has historically
+been challenging, because measurements are typically con-
+voluted by Li-ion transport through the SEI. Earlier studiesshowed that fast scan cyclic voltammetry (CV) minimizes theeﬀects of SEI, but insu ﬃciently fast scan rates placed the
+measurements under Nernstian or mass transport control,
+as opposed to kinetic or electron transfer control.
+20,21,24−28
+These studies led to two common assumptions in lithiumelectrochemistry: (1) the electron transfer is described well by
+the Butler −Volmer model of electrode kinetics, and (2) the
+electron transfer resistance is negligible in electrochemicalimpedance spectra.
+29However, the Nernstian conditions of
+previous measurements merit a reevaluation of the electrontransfer kinetics and these common assumptions.
+In this study, we use transient CV with ultramicroelectrodes
+to explicitly measure the kinetics of the
+Lie L ik+→+−
+electron transfer reaction with fresh lithium surfaces. We
+discover that the kinetics deviate from the commonly assumedButler−Volmer model and are accurately described by Marcus
+models of electrode kinetics. By exploring the electron transferkinetics in a series of electrolytes, we ﬁnd that the kinetics are
+indeed consistent with the general framework of Marcustheory. This ﬁnding opens a strategy for understanding how
+the interplay of electron transfer and mass transport in ﬂuence
+the morphology of electrodeposited lithium via comparison ofthe transient CV results and electrochemical impedance
+Received: January 6, 2020
+Accepted: February 3, 2020
+Published: February 3, 2020Letter
+http://pubs.acs.org/journal/aelccp
+© 2020 American Chemical Society
+701https://dx.doi.org/10.1021/acsenergylett.0c00031
+ACS Energy Lett. 2020, 5, 701 −709
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on July 20, 2023 at 09:20:43 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Transient Voltammetry with
+Ultramicroelectrodes Reveals the ElectronTransfer Kinetics of Lithium Metal Anodes
+David T. Boyle, Xian Kong, Allen Pei, Paul E. Rudnicki, Feifei Shi, William Huang, Zhenan Bao,
+Jian Qin, *and Yi Cui *
+Cite This: ACS Energy Lett. 2020, 5, 701 −709 Read Online
+ACCESS Metrics & More Article Recommendations *sıSupporting Information
+ABSTRACT: Fully understanding the mechanism of lithium metal
+deposition is critical for the development of rechargeable lithiumbattery anodes. The heterogeneous electron transfer kinetics are animportant aspect of lithium electrodeposition, but they have beendiﬃcult to measure and understa nd. Here, we use transient
+voltammetry with ultramicroelectrodes to explicitly investigate theelectron transfer kinetics of lithium electrodeposition. The resultsdeviate from the Butler −Volmer model of electrode kinetics; instead, a
+Marcus model accurately describes the electron transfer. Measuring thekinetics in a series of electrolytes shows the mechanism of lithiumdeposition under electron transfer control is consistent with the generalframework of Marcus theory. Comparison of the transient voltammetryresults to electrochemical impedance spectra provides a strategy forunderstanding how the interplay of the electron transfer and mass transport resistances a ﬀect the morphology of lithium.
+Contemporary portable electronics and electric vehicles
+continue to increase demand for high energy densitylithium batteries.
+1Replacement of graphitic anodes
+with metallic lithium anodes would improve the energy densityof Li-ion batteries, but lithium anodes face many challenges.
+2
+For lithium metal to become a practical rechargeable batteryanode, several processes must be understood and controlled.
+These processes include the formation of a passivation ﬁlm
+called the solid electrolyte interphase (SEI),
+3,4mass transport
+through the SEI,5−7nucleation of lithium on current
+collectors,8−10and interfacial electron transfer. Decades of
+research have focused on how processes involving the SEIimpact the rechargeability of lithium;
+11however, few studies
+have investigated the Lie L ik+→+−electron transfer
+kinetics,12,13which are predicted to in ﬂuence the morphology
+of electrodeposited metal.9,14−23
+Understanding the electron transfer kinetics has historically
+been challenging, because measurements are typically con-
+voluted by Li-ion transport through the SEI. Earlier studiesshowed that fast scan cyclic voltammetry (CV) minimizes theeﬀects of SEI, but insu ﬃciently fast scan rates placed the
+measurements under Nernstian or mass transport control,
+as opposed to kinetic or electron transfer control.
+20,21,24−28
+These studies led to two common assumptions in lithiumelectrochemistry: (1) the electron transfer is described well by
+the Butler −Volmer model of electrode kinetics, and (2) the
+electron transfer resistance is negligible in electrochemicalimpedance spectra.
+29However, the Nernstian conditions of
+previous measurements merit a reevaluation of the electrontransfer kinetics and these common assumptions.
+In this study, we use transient CV with ultramicroelectrodes
+to explicitly measure the kinetics of the
+Lie L ik+→+−
+electron transfer reaction with fresh lithium surfaces. We
+discover that the kinetics deviate from the commonly assumedButler−Volmer model and are accurately described by Marcus
+models of electrode kinetics. By exploring the electron transferkinetics in a series of electrolytes, we ﬁnd that the kinetics are
+indeed consistent with the general framework of Marcustheory. This ﬁnding opens a strategy for understanding how
+the interplay of electron transfer and mass transport in ﬂuence
+the morphology of electrodeposited lithium via comparison ofthe transient CV results and electrochemical impedance
+Received: January 6, 2020
+Accepted: February 3, 2020
+Published: February 3, 2020Letter
+http://pubs.acs.org/journal/aelccp
+© 2020 American Chemical Society
+701https://dx.doi.org/10.1021/acsenergylett.0c00031
+ACS Energy Lett. 2020, 5, 701 −709
+Downloaded via STANFORD UNIV on April 25, 2021 at 04:36:07 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Articles
+https:/ / doi.org/10.1038/s41560-020-0634-51Department of Chemical Engineering, Stanford University, Stanford, CA, USA. 2Department of Chemistry, Stanford University, Stanford, CA, USA. 
+3Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. 4School of Electronic Science and Engineering, Xiamen 
+University, Xiamen, Fujian, China. 5Stanford Institute for Materials and Energy Sciences, SLAC National Accelerator Laboratory, Menlo Park, CA, USA. 
+6These authors contributed equally: Zhiao Yu, Hansen Wang. ✉e-mail: yicui@stanford.edu; zbao@stanford.eduLi-ion batteries have made a great impact on society, recognized 
+recently by the Nobel Prize in Chemistry1,2. Following decades 
+of commercialization, Li-ion batteries are rapidly approach -
+ing their theoretical limit in energy density, motivating the revival of Li metal chemistry
+3–6. Nevertheless, the implementation of Li 
+metal batteries is plagued by their poor cycle life4,5. Uncontrollable 
+side reactions between Li metal and electrolytes form a chemi -
+cally unstable and mechanically fragile solid–electrolyte interphase (SEI). The SEI easily cracks during cycling, leading to dendritic growth, ‘dead Li’ formation and irreversible Li inventory loss
+4. 
+Electrolyte engineering tunes both the SEI structure and chemistry, making it a critical and pragmatic approach to enabling Li metal 
+anodes
+7,8. For a promising electrolyte, several key requirements 
+must be simultaneously met9–11: (1) consistently high Coulombic 
+efficiency (CE) to minimize Li loss, including in the initial cycles, 
+(2) functionality under lean electrolyte and limited-excess Li condi -
+tions for maximum specific energy, (3) oxidative stability towards high-voltage cathodes, (4) reasonably low salt concentration for cost-effectiveness and (5) high boiling point and non-flammability 
+for safety and processability.
+Recent works on electrolyte engineering improved the cyclability 
+of Li metal batteries, including salt additive optimization
+12, solvent 
+ratio modification13,14 and liquefied gas electrolyte15. In particular, 
+high-concentration electrolytes16,17 and localized high-concentration 
+electrolytes11,18–22 were recognized to be the most effective methods. 
+The high-concentration electrolytes successfully reduced the free 
+solvent molecules within the Li+ solvation structure, leading to a 
+primarily inorganic SEI and better Li cyclability. A whole family of fluorinated diluent molecules were further developed to form localized high-concentration electrolytes, compensating the high 
+viscosity of high-concentration electrolytes. Despite these advances, 
+current electrolyte design methodology is still not ideal. The diluent molecules used in localized high-concentration electrolytes are Li metal compatible yet hardly able to solvate Li
++ ions by themselves. 
+As a consequence, small amounts of unstable solvents (for example sulfolane
+19, triethyl phosphate21 or dimethyl carbonate22) are neces -
+sary for salt dissolution, reducing but not eliminating undesirable parasitic reactions. These persistent side reactions with the solvent molecules lead to low CE in the initial cycles. Therefore, designing 
+new solvent molecules that are stable towards Li metal while still 
+maintaining the capability of solvating Li
++ is highly desirable.
+In this work, fluorinated 1,4-dimethoxylbutane (FDMB, Fig. 1) 
+is synthesized by selectively functionalizing lengthened ether back -
+bones with –CF2– groups. Our design enables the FDMB molecule 
+to solvate Li+ ions with a unique Li–F interaction that is beneficial to 
+both Li metal anode compatibility and high-voltage tolerance. Paired with 1 M lithium bis(fluorosulfonyl)imide (LiFSI) in a single-salt, 
+single-solvent formulation, this 1 M LiFSI/FDMB electrolyte not 
+only endows Li metal with an ultrathin SEI (~6 nm) observed by 
+cryogenic transmission electron microscopy (cryo-TEM) and high CE (~99.52%) along with a fast activation process (CE > 99% 
+within five cycles), but also achieves >6 V oxidative stability. The limited-excess Li|NMC (lithium nickel manganese cobalt oxide) full cells retain 90% capacity after 420 cycles with an average CE of 99.98%. Industrial anode-free Cu|NMC811 (LiNi
+0.8Mn0.1Co0.1O2) 
+pouch cells achieve ~325 Wh kg−1 single-cell energy density, Molecular design for electrolyte solvents enabling 
+energy-dense and long-cycling lithium metal 
+batteries
+Zhiao Yu   1,2,6, Hansen Wang   3,6, Xian Kong   1, William Huang   3, Yuchi T sao1,2,3, 
+David G. Mackanic   1, Kecheng Wang3, Xinchang Wang4, Wenxiao Huang3, Snehashis Choudhury   1, 
+Yu Zheng1,2, Chibueze V. Amanchukwu1, Samantha T. Hung   2, Yuting Ma1, Eder G. Lomeli3, 
+Jian Qin   1, Yi Cui   3,5 ✉ and Zhenan Bao   1 ✉
+Electrolyte engineering is critical for developing Li metal batteries. While recent works improved Li metal cyclability, a methodol-
+ogy for rational electrolyte design remains lacking. Herein, we propose a design strategy for electrolytes that enable anode-free 
+Li metal batteries with single-solvent single-salt formations at standard concentrations. Rational incorporation of –CF2– units 
+yields fluorinated 1,4-dimethoxylbutane as the electrolyte solvent. Paired with 1 M lithium bis(fluorosulfonyl)imide, this elec-trolyte possesses unique Li–F binding and high anion/solvent ratio in the solvation sheath, leading to excellent compatibility 
+with both Li metal anodes (Coulombic efficiency ~ 99.52% and fast activation within five cycles) and high-voltage cathodes (~6 V stability). Fifty-μm-thick Li|NMC batteries retain 90% capacity after 420 cycles with an average Coulombic efficiency of 
+99.98%. Industrial anode-free pouch cells achieve ~325 Wh kg
+−1 single-cell energy density and 80% capacity retention after 
+100 cycles. Our design concept for electrolytes provides a promising path to high-energy, long-cycling Li metal batteries.
+NATurE ENEr GY | www.nature.com/natureenergy
+Weakening of Solvation-Induced Ordering by Composition
+Fluctuation in Salt-Doped Block Polymers
+Xian Kong, *Kevin Jia-Yu Hou, and Jian Qin *
+Cite This: ACS Macro Lett. 2021, 10, 545 −550 Read Online
+ACCESS Metrics & More Article Recommendations *sıSupporting Information
+ABSTRACT: The spontaneous ordering of block polymers doped with ions
+is aﬀected by both selective solvation and long-range Coulombic interaction.
+The mean- ﬁeld treatment was recently shown to overestimate the solvation-
+induced ordering, requiring a large solvation radius to ﬁt experimental phase
+diagrams, which may be relieved by including composition ﬂuctuations.
+Treating the composition ﬂuctuations in such systems is challenging because
+of the need of resolving heterogeneous dielectric pro ﬁle that couples with the
+ordering itself. Starting from a minimal model, we develop a Landau −
+Brazovskii ̆expansion for the free energy of salt-doped block polymer near the
+ordering transition. It is found that the wavelength for typical compositionﬂuctuations ﬁrst decreases with salt doping, due to Coulombic interaction, then increases due to ionic solvation. Two mechanisms
+that weaken the solvation-enhanced ordering are identi ﬁed: the Brazovskii ̆-type composition ﬂuctuation that stabilizes disordered
+phase, and the coupling between mismatch in dispersion interaction and the dielectric permittivity through monomeric polarizability.
+Salt-doped block polymer have been heavily investigated
+over the past decades, owing to its promise for safer energy
+storage and conversion.1−3Among various changes in
+morphological and transport behaviors, the susceptibility to atiny amount of salt addition is particularly striking.4−6While
+this provides a facile tool to tune the assembled structure, it
+also calls for deeper theoretical understanding that isincomplete.
+Recent theoretical e ﬀorts5−7have transcribed the mean- ﬁeld
+model of neat block polymers8−10to ion-doped systems.
+Selective ion-solvation and ionic correlation have beenidenti ﬁed as important features of dielectrically heterogeneous
+copolymers. An unusual “chimney ”channel for ordered phase
+has been predicted for fully compatible blocks,5which is
+grossly consistent with existing experimental observations.5,6,11
+Recent attempts6further revealed a hidden, albeit narrow,
+entropic regime that competes with solvation e ﬀects and
+showed12that selective ion solvation alone captures morpho-
+logical behaviors.
+Our work is motivated by two considerations. First, ion-
+induced stabilization is expected to compete with the
+destabilizing composition ﬂuctuation near the ordering
+transition.13Indeed, recent attempts to map phase diagrams
+from mean- ﬁeld model with solvation treated at the Born level
+to experiments require solvation radii about an order of
+magnitude larger than physical ion size.12As solvation energy
+is inversely proportional to ion radius,7,14a large solvation
+radius essentially reduces the Born solvation e ﬀect. Several
+factors may compromise solvation e ﬀects, such as ion pair (or
+cluster) formation4,15and composition ﬂuctuations beyond the
+mean- ﬁeld level. We focus here on the more universalﬂuctuation e ﬀects while leaving the ion-speci ﬁc pairing or
+clustering correction to future studies.
+Second, many current models treated the dispersion
+interaction described by the Flory −Huggins parameter and
+dielectric permittivity, two properties that both correlate to
+monomeric polarizabilities, independently, which is concep-tually inconsistent. Motivated by recent work on polarizableﬁeld theory,
+16we shall reparameterize the dispersion
+interaction and the dielectric permittivity consistently using
+the monomeric polarizability, reassess the competitionbetween solvation and composition ﬂuctuation, and show
+that the “chimney ”behavior is absent.
+We use the “free ”ion model developed recently for salt-
+doped polymers.
+6,12The mean- ﬁeld critical points have been
+identi ﬁed, and a mode-expansion in the weak-segregation
+regime is possible. The system contains nCneutral AB diblock
+copolymer doped with monovalent salts. All polymer chains
+have Nsegments, among which Nfsegments are of type A, and
+N(1−f) are of type B. The molar ratios between cations and
+type A segments are r.M e a s u r e di n kBT, the system
+Hamiltonian isid FH B C/// //=+ + + ,w h e r et h e
+ideal chain termid/and the Flory −Huggins termFH/ are
+Received: February 22, 2021
+Accepted: April 16, 2021
+Letter pubs.acs.org/macroletters
+© XXXX American Chemical Society
+545https://doi.org/10.1021/acsmacrolett.1c00107
+ACS Macro Lett. 2021, 10, 545 −550
+Downloaded via STANFORD UNIV on April 22, 2021 at 22:43:25 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+ARTICLE
+Physical networks from entropy-driven
+non-covalent interactions
+Anthony C. Yu1, Huada Lian1,2, Xian Kong2, Hector Lopez Hernandez1, Jian Qin2& Eric A. Appel1✉
+Physical networks typically employ enthalpy-dominated crosslinking interactions that become
+more dynamic at elevated temperatures, leading to network softening. Moreover, standardmathematical frameworks such as time-temperature superposition assume network soft-ening and faster dynamics at elevated temperatures. Yet, deriving a mathematical frameworkconnecting the crosslinking thermodynamics to the temperature-dependent viscoelasticity ofphysical networks suggests the possibility for entropy-driven crosslinking interactions toprovide alternative temperature dependencies. This framework illustrates that temperaturenegligibly affects crosslink density in reported systems, but drastically in ﬂuences crosslink
+dynamics. While the dissociation rate of enthalpy-driven crosslinks is accelerated at elevatedtemperatures, the dissociation rate of entropy-driven crosslinks is negligibly affected or evenslowed under these conditions. Here we report an entropy-driven physical network based onpolymer-nanoparticle interactions that exhibits mechanical properties that are invariant withtemperature. These studies provide a foundation for designing and characterizing entropy-driven physical crosslinking motifs and demonstrate how these physical networks accessthermal properties that are not observed in current physical networks.https://doi.org/10.1038/s41467-021-21024-7 OPEN
+1Department of Materials Science & Engineering, Stanford University, Stanford, CA, USA.2Department of Chemical Engineering, Stanford University,
+Stanford, CA, USA.✉email: eappel@stanford.edu
+NATURE COMMUNICATIONS |          (2021) 12:746 | https://doi.org/10.1038/s41467-021-21024-7 | www.nature.com/naturecommunications 11234567890():,;
+Microphase Separation inNeutral Homopolymer Blends Induced by
+Salt-Doping
+XianKong*andJianQin*
+CiteThis:Macromolecules 2023,56,254−262
+ Read Online
+ACCESS
+ Metrics &More
+ Article Recommendations +sıSupporting Information
+ABSTRACT: Microphase separationinpolymericsystemspro-
+videsabottom-upstrategytofabricatenanostructures. Polymers
+thatarereportedtoundergomicrophaseseparationusuallyinclude
+blockcopolymers orpolyelectrolytes. Neutralhomopolymers,
+whicharecomparatively easytosynthesize,arethoughttobe
+incapableofmicrophaseseparation.Here,usingaminimalmodel
+thataccountsforionsolvation,weshowthatmicrophaseseparation
+ispossibleinneutralhomopolymer blendswithsufficientdielectric
+contrast,uponatinyamountofsalt-doping.Thedrivingforcefor
+themicrophaseseparationisthecompetition betweenselectiveion
+solvation,whichplacessmallerionsindomainswithhigher
+dielectricconstant,andthepropensityforlocalchargeneutralitytodecreasetheelectrostatic energy.Thecompromise isan
+emergentlengthoverwhichmicrophaseseparationoccursandionsareselectivelysolvated.Thefactorsaffectingsuchcompetitions
+areexplored,includingionsolvationradii,dielectriccontrast,andpolymerfraction,whichpointtodirectionsforobservingthis
+behaviorexperimentally. Thesefindingssuggestalow-costandfacilealternativetoproducemicrophaseseparation,whichmaybe
+exploitedinadvancedmaterialdesignandpreparation.
+■BACKGROUND
+Microphase separationisaself-assembly processinsoft
+materialsthatcanbeutilizedforpreparation ofvarious
+nanostructures inadvancedmanufacturing.1−4Microphase
+separationresultsfromthecompetition amongmultiple
+length-dependent interactions.5Awell-known exampleis
+blockpolymer,whichisformedbychemically linking
+thermodynamically incompatible components.6Theincompat-
+ibleblockstendtoseparatefromeachother,whilethechemical
+linkagesbetweenblockspreventmacroscopic separation,giving
+risetomicrophaseseparation.7Inthepast,polymericsystems
+consistingofchargedhomopolymers (orpolyelectrolytes, PEs)
+arealsoshowntobecapableofmicrophaseseparation.One
+exampleisweaklychargedPEsinpoorsolvent.8−12The
+incompatibility betweenPEandsolventpromotesaphase
+separationintotwomacroscopic phaseswithhighandlowPE
+concentrations. However,thisleadstothelossinthe
+translational entropyofcounterions, whichmostlyresidein
+theconcentrated phase.Thecompetition betweenthe
+incompatibility-induced demixingandtranslational entropy
+lossofcounterions leadsfinallytothemicrophaseseparation.
+Recently,itissuggestedthatmicrophase separationisalso
+possibleinpolyelectrolytes blends,13−15wherethemacroscopic
+phaseseparationbetweenimmisciblepolyelectroytes issup-
+pressedbytheneedtominimizeCoulombicinteraction.
+Theanalogybetweenthemicrophase separation of
+polyelectrolytes anddiblockcopolymermeltshighlightsthe
+roleofelectrostatic interactions. Indeed,ithasbeenfoundthatelectrostatic interactioncanbeleveragedtomanipulatethe
+phasebehaviorofpolyelectrolyte solutions,16−19ionicpolymer
+blends,20−22neutraldiblockcopolymermelts,23,24orcharged
+polymerblends.25,26Forexample,selectivesolvationofdoped
+saltsindielectrically heterogeneous copolymershasbeenshown
+toenhancetheeffectiveFlory−Huggins parameterbetweentwo
+blocksofdiblockcopolymer,27,28favoringtheformationof
+orderedmicroscopic phases.Remarkably, a“chimney”region
+waspredictedwherethesolvationeffectsandelectrostatic
+correlations ofionscanpromotemicrophaseformationinan
+otherwisefullycompatiblediblockcopolymerblend,thatis,
+whenthetwoblocksarefullymiscible.23Similarlyin
+polyelectrolytes, counterions ofPEsarepredictedtobe
+importantindetermining phasebehavior,includingenhancing
+thecompatibility betweentwoPEs,29,30narrowingthe
+parameterspaceformicrophase separation, allowingthe
+competition betweenmicrophaseandmacrophase separation,
+etc.26
+Inthiswork,weshowthatselectiveionsolvationcanbeused
+notonlytotunethemicrophaseseparationofneutralblock
+Received: October26,2022
+Revised: December7,2022
+Published: December29,2022
+Article pubs.acs.org/Macromolecules
+©2022American Chemical Society
+254https://doi.org/10.1021/acs.macromol.2c02198
+Macromolecules 2023,56,254−262
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on May 28, 2023 at 10:34:36 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Articles
+https:/ / doi.org/10.1038/s41563-021-01172-31Department of Materials Science and Engineering, Stanford University, Stanford, CA, USA. 2Department of Chemical Engineering, Stanford University, 
+Stanford, CA, USA. 3Department of Chemistry, Stanford University, Stanford, CA, USA. 4Materials Sciences Division, Lawrence Berkeley Laboratory, 
+Berkeley, CA, USA. 5Stanford Institute for Materials and Energy Sciences, SLAC National Accelerator Laboratory, Menlo Park, CA, USA. 6These authors 
+contributed equally: Mun Sek Kim, Zewen Zhang. ✉e-mail: yicui@stanford.eduLi metal (Li0) is an ideal anode material due to its low density 
+(0.534 g cm−3), high theoretical capacity (3,860 mAh g−1 and 
+2,061 mAh cm−3), low standard electrode potential (−3.04 V 
+versus the standard hydrogen electrode) and compatibility with 
+lithiated and unlithiated cathode materials1–4. Achieving stable and 
+reversible Li+ migration between the cell electrodes poses a for -
+midable challenge due to the existence of an intricate solid–elec -
+trolyte interphase (SEI) at the Li0 anode and electrolyte interface5. 
+Designing stable SEIs on a Li0 anode is the key to success in devel -
+oping Li0 batteries (LMBs) as the properties of SEIs largely dictate 
+the electrochemical performances of the Li0 anode6–8. However, 
+the control and understanding of the SEI on the Li0 anode remain 
+challenging due to heterogeneous composition9, nanostructure5, 
+hypersensitivity to the ambient environment6,8 and spatiotemporal 
+evolution10 of the SEIs.
+As the SEI evolution on the Li0 anode is directly associated with 
+electrolyte formulations, various electrolyte modifications (blend -
+ing different solvents11–13 and salts14, designing new solvents15, vary -
+ing salt concentrations16–20 and using solvent-specific diluents21–23) 
+have been studied to delineate different SEI properties that influ -
+ence the electrochemical performances of the Li0 anode5. The con -
+sensus is that the inorganic-rich SEIs on the Li0 anode promote 
+superior electrochemical performances15–23. Since inorganic and 
+organic contents of SEIs were closely linked to the electrolyte Li+ 
+solvation environment5, understanding and modifying electrolyte 
+Li+ solvation structures has become an important driver for devel -
+oping electrolytes for LMBs.
+To date, the pursuit of forming inorganic-rich SEIs has been 
+achieved by increasing Li+–anion coordination (maximizing con -
+tact ion pairs and ionic aggregates)16–23 and weakening Li+–solvent coordination (minimizing solvent-separated ion pairs)15,24 in the 
+electrolyte Li+ solvation shells. The general approaches to increase 
+contact ion pairs and ionic aggregates in the Li+ solvation shells are 
+to use high concentration electrolytes (HCEs)16–20 or combine HCEs 
+with solvent-specific diluents to make localized HCEs (LHCEs)15–23. 
+As the coordination between Li+ and solvent is affected by the polar -
+ity and/or donor number of solvents5,17, designing a new solvent 
+with functional structures has enabled the decrease in Li+–solvent 
+and increase in Li+–anion coordinations that create inorganic-rich 
+SEIs on the Li0 anode15.
+Herein, we propose a suspension electrolyte design, a mixture 
+of inorganic nanoparticles with liquid electrolytes, to understand 
+the suspension’s role in impacting the SEI evolution and the elec -
+trochemical performances of the Li0 anode. Due to the ubiquitous 
+presence of Li2O in both prevalent and inorganic-rich SEIs5 of the 
+Li0 anode and to the low solubility of Li2O (ref. 25), a Li2O suspen -
+sion was scrutinized to elucidate the working mechanism of the 
+Li2O suspension in the electrolyte and to reveal features of Li2O that 
+relate to SEIs of the Li0 anode. To systematically study the suspen -
+sion electrolytes, we investigated a reference carbonate electrolyte (RCE; 1 M LiPF
+6 in ethylene carbonate (EC)/diethylene carbonate 
+(DEC)/10 vol% fluoroethylene carbonate (FEC)) that is widely stud -
+ied as a standard electrolyte for the Li0 anode and SEIs5,7,8,10,26; a ref -
+erence fluorinated electrolyte (RFE; 1 M lithium bis(fluorosulfonyl)
+imide (LiFSI) in fluorinated 1,4-dimethoxylbutane (FDMB)) that is one of the state-of-the-art electrolytes with a modified Li
++ solvation 
+structure15; and a reference LHCE (RLHCE; 1 M LiFSI in dimethoxy -
+ethane (DME)/1,1,2,2-tetrafluoroethyl-2,2,3,3-tetrafluoropropyl ether (TTE; 0.78:0.22 v/v)) that exhibits a unique Li
++ solvation envi -
+ronment21. The suspension electrolytes were prepared by adding Suspension electrolyte with modified Li+ solvation 
+environment for lithium metal batteries
+Mun Sek Kim   1,2,6, Zewen Zhang   1,6, Paul E. Rudnicki2, Zhiao Yu   2,3, Jingyang Wang1,4, 
+Hansen Wang1, Solomon T. Oyakhire   2, Yuelang Chen   2,3, Sang Cheol Kim1, Wenbo Zhang1, 
+David T. Boyle   1,3, Xian Kong   2, Rong Xu1, Zhuojun Huang1,2, William Huang   1, Stacey F. Bent2, 
+Lin-Wang Wang   4, Jian Qin   2, Zhenan Bao   2 and Yi Cui   1,5 ✉
+Designing a stable solid–electrolyte interphase on a Li anode is imperative to developing reliable Li metal batteries. Herein, 
+we report a suspension electrolyte design that modifies the Li+ solvation environment in liquid electrolytes and creates 
+inorganic-rich solid–electrolyte interphases on Li. Li2O nanoparticles suspended in liquid electrolytes were investigated as a 
+proof of concept. Through theoretical and empirical analyses of Li2O suspension electrolytes, the roles played by Li2O in the 
+liquid electrolyte and solid–electrolyte interphases of the Li anode are elucidated. Also, the suspension electrolyte design is 
+applied in conventional and state-of-the-art high-performance electrolytes to demonstrate its applicability. Based on elec-
+trochemical analyses, improved Coulombic efficiency (up to ~99.7%), reduced Li nucleation overpotential, stabilized Li inter -
+phases and prolonged cycle life of anode-free cells (~70 cycles at 80% of initial capacity) were achieved with the suspension 
+electrolytes. We expect this design principle and our findings to be expanded into developing electrolytes and solid–electrolyte 
+interphases for Li metal batteries.
+NaTURE Ma TERiaLS | www.nature.com/naturematerials
+Nanoscale Confinement EffectsonIonicConductivity ofSolid
+PolymerElectrolytes: TheInterplaybetweenDiffusion and
+Dissociation
+XiupengChenandXianKong*
+CiteThis:NanoLett. 2023, 23,5194−5200
+ ReadOnline
+ACCESS
+ Metrics &More
+ Article Recommendations +sıSupporting Information
+ABSTRACT: Solidpolymerelectrolytes(SPEs)areattractivefor
+next-generation lithiummetalbatteriesbutstillsufferfromlow
+ionicconductivity.Nanostructured materialsofferdesignconcepts
+forSPEswithbetterperformance. Usingmoleculardynamics
+simulation,weexamineSPEsundernanoscaleconfinement,which
+hasbeendemonstrated toacceleratethetransportofneutral
+moleculessuchaswater.Ourresultsshowthatwhileiondiffusion
+indeedacceleratesbymorethan2ordersofmagnitudeasthe
+channeldiameterdecreasesfrom15to2nm,theionicconductivity
+doesnotincreasesignificantlyinparallel.Instead,theionic
+conductivityshowsanonmonotonic variation,withanoptimal
+valueabove,butonthesameorderas,itsbulkcounterparts. This
+trendisduetoenhancedionassociationwithdecreasingchannel
+size,whichreducesthenumberofeffectivechargecarriers.Thiseffectcompeteswithacceleratediondiffusion,leadingtothe
+nonmonotonicity inionconductivity.
+KEYWORDS: solidpolymerelectrolytes,nanoconfinement, ionicconductivity,ioncorrelation,moleculardynamicssimulation
+Thenext-generation Li-basedbatteries1involvetheusage
+ofalithiummetalanodepairedwithhigh-voltage
+cathodessuchassulfur2orair.3However,commercialization
+ofsuchbatterieshasbeenplaguedbyinstabilityduringcharge/
+dischargecyclingthatisrootedintheintrinsicincompatibility
+betweenthelithiummetalanodeandliquidelectrolytes,which
+aredevelopedforcurrentlithium-ionbatteries.4Solid-state
+electrolytesareexpectedtobeabletomitigatetheinstability,
+thereforeenablingLi-metalbatteries.5Solid-stateelectrolytes
+canbedividedintotwocategories:inorganicceramic
+electrolytesandsolidpolymerelectrolytes,eachwithitsown
+advantagesanddisadvantages.5,6
+Solidpolymerelectrolytes(SPEs)arebasicallylithium-salt-
+dopedpolymers.7Themostwell-knownSPEsarebasedon
+poly(ethylene oxide)(PEO),whichwasdiscoveredoverhalfa
+centuryago.8TheyremainthefirstcandidateforSPEs.SPEs
+havemanymeritscomparedwithceramicortraditionalliquid
+electrolytesincludingeaseofprocessability, lowflammability
+andtoxicity,interfacialcompatibility attheelectrodesurface,
+andmoderatemechanicalstiffnessforthesuppressionofLi
+dendrites.ThelethalweaknessesofSPEs9,10thatpreventthem
+frombeingdeployedinthecommercialbatteryarelowionic
+conductivityandlowLi+transferencenumber,thatis,the
+fractionofcurrentcarriedbyLi+movement.
+AlingeringdilemmainimprovingtheconductivityofSPEs
+isthatincreasedconductivityusuallybringsaboutcompro-misedmechanicalstiffness.9Forexample,operatingathigh
+temperatures,11usinglowermolecularweightPEOchains12or
+addingplasticizer13canimprovetheionconductivityofSPEs
+butreducemechanicalstrength.Inrecentyears,anumberof
+approacheshavebeenattemptedtoenhancetheconductivity
+ofSPEs,whilemaintainingthestiffness.Thesestrategies
+includedesigningnewnon-PEOpolymers,14−18turningto
+blockcopolymersthatcombineoneblockforionconductivity
+andanotherblockformechanicalstrength,19introducing
+nanofillers,20designingpolymer/inorganic compositeelectro-
+lytes,1,21etc.DespitepartialsuccessesinoptimizingSPEs’
+performance, thesemethodsarestillfarfrommeetingthe
+requirements forpracticalbatteries.Therefore,newdesign
+conceptsarestillnecessaryforfurtherimprovingSPEs’
+performance.
+Theemergenceofvariousnanomaterials providesefficient
+solutionstotechnicalissuesinvariousfields.Forexample,the
+enrollmentofcarbonnanomaterials asanodematerialsallows
+Received:March28,2023
+Revised:May17,2023
+Published:May23,2023
+Letter pubs.acs.org/NanoLett
+©2023 American Chemical Society
+5194https://doi.org/10.1021/acs.nanolett.3c01171
+NanoLett. 2023, 23,5194−5200
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on July 20, 2023 at 08:55:37 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Polythiourea Superionic Conductors forSolid-State Batteries
+Shuqi Dai,∥Junxia He,∥Xiupeng Chen, Jinyi Cui, Hongqin Zhao, Rongchun Zhang, Huanyu Lei,
+Jiafu Yin, Linkun Cai, Fan Ye,Xian Kong,* Rongrong Hu,* andMingjun Huang*
+CiteThis:Macromolecules 2023,56,3660−3667
+ ReadOnline
+ACCESS
+ Metrics &More
+ Article Recommendations +sıSupporting Information
+ABSTRACT: Polymerelectrolytesareconsideredassolid-stateionicconductorsforthenext
+generationoflithiummetalbatteries.Particularly, poly(ethylene oxide)-based electrolyteshave
+beenextensivelystudiedduetotheirexcellentionconductivity andinterfacialcompatibility.
+Sincethelithium-iontransportisstronglycoupledwithsegmentalmotionofpolymerchains,
+thereusuallyexistsadilemmabetweentheionconductivity andmechanical strength
+enhancement. Otherproblemsoflowionconductivity atlowtemperature andlowcation
+transference numberfurtherimpedetheirpracticalapplications inbatteries.Here,wereporta
+typeofpolythiourea solid-stateelectrolyte,whichexhibitsasuperionicionconductingbehavior.
+Thestrongsupramolecular interactionbetweenthethioureagroupandperchlorate anions
+promotesthedissolutionofhighconcentration lithiumsaltsinpolythiourea. Theconducting
+channelcomposedofhigh-density thioureaandpercolatingpolargroupsenablesrapidcationtransportalongthepolymerchainand
+evenworkingattheglassstate.Thecombinedmeritsofhightransference number,goodionconductivity, andexcellentmechanical
+strengthareachievedinthisclassofsuperionicionicconductors,sheddinglightonalternativesolutionsforsolid-stateelectrolytesin
+batteries.
+■INTRODUCTION
+Thenext-generation energy-storage systemscallforhigher
+energydensity,improvedsafety,andaffordability. Solid-state
+batterieswithlithium-metal anodesareamongthepromising
+solutions.1Torealizesuchbatteries,itisurgenttodevelop
+solid-state electrolytes (SSEs)thatpossesshighionic
+conductivity, highmechanical strength,decentinterfacial
+compatibility, goodprocessability, andchemical/electrochem-
+icalstability.2,3Inorganic/ceramic SSEs,whichhavehigh
+mechanicalstrength,exhibitionicconductivities over10−3S/
+cmat25°C,andpossiblyhavesingle-ionconductance, arean
+attractivechoice.4−6However,theirpoorchemical/electro-
+chemicalstability,poorprocessability, andgrainboundaryor
+interfacialresistanceneedtobeaddressedbeforebeing
+employedincommercialized batteries.7,8Analternativechoice
+isthesolidpolymerelectrolyte,whichispreparedbydoping
+polymerssuchaspoly(ethylene oxide)(PEO)withlithium
+saltssuchaslithiumbis(trifluoromethane sulfonyl)imide
+(LiTFSI).9−12Discoveredhalfacenturyago,PEO/LiTFSI
+hascontinuedtoactasabenchmarksolidpolymerelectrolyte.
+Assoftmaterials,thepolymerelectrolyteshavefeaturesof
+facileprocessability andfavorableinterfacialcompatibility with
+electrodes.13−15Nevertheless, solidpolymerelectrolytessuffer
+fromlowionicconductivity andlowlithium-iontransference
+number,tLi+,whichquantifiesthefractionofcurrentscarried
+bythemovementoflithiumions.16
+ThecausingfactorofthedemeritsofPEOelectrolytesisthe
+strongcouplingofiondiffusionandpolymersegmental
+motion,resultingfromthestrongcoordination ofLi+ionsto
+theoxygenatomsinthePEObackbone.10,14,17,18Aspolymersegmentalrelaxationratedependsontemperature following
+theVogel−Tammann−Fulcher (VTF)relationship,19theion
+conductance inPEOelectrolytesalsoshowsaVTFtrendon
+temperature. Theslowsegmentalmotionslimitioncon-
+ductivitytobelow10−5S/cmatroomtemperature, whichis
+belowtherequirement of10−3S/cmforaworkingelectrolyte
+inabattery.20Toimprovethepolymerelectrolyteperform-
+ance,peoplehaveproposedamyriadofstrategies,including
+operatingathightemperature,21cross-linking lowmolecular
+weightPEO,22−24polymerstructureredesign,25−29introducing
+nanofillers,30single-ionconducting polymers,31−34block
+copolymers,35−37etc.Unfortunately, noneoftheabove
+methodsaregoodenoughtomeetthedemandsofareal
+battery.
+Thetrade-offamongtheionconductivity, transference
+number,andmechanicalstrengthinpolymerelectrolytesis
+persistentintraditionalpolymerelectrolytes. Todissolve
+lithiumsaltandobtainhighionconductivity, thepolymer
+shouldhavelowglasstransitiontemperature (Tg)andprovide
+strongcoordination tothelithiumion.However,lowTgmeans
+mechanicalweakness,andthestrongcation−polymer inter-
+actionmeanssluggishcationmovements. Toavoidthese
+dilemmas,oneneedstoturnto“superionic” polymer
+Received: January20,2023
+Revised: April6,2023
+Published: May2,2023
+Article pubs.acs.org/Macromolecules
+©2023American Chemical Society
+3660https://doi.org/10.1021/acs.macromol.3c00116
+Macromolecules 2023,56,3660−3667
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on July 20, 2023 at 09:02:43 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Self-Assembly Monolayer InspiredStableArtificialSolidElectrolyte
+Interphase DesignforNext-Generation LithiumMetalBatteries
+ChaoLi,ZhenyeLiang,ZizhaoLi,DaofanCao,DaxianZuo,JianChang,JunWang,Yonghong Deng,
+KeLiu,*XianKong,*andJiayuWan*
+CiteThis:NanoLett.2023,23,4014−4022
+ ReadOnline
+ACCESS
+ Metrics &More
+ Article Recommendations +sıSupporting Information
+ABSTRACT: Lithiummetaliswidelyregarded asthe“ultimate”
+anodeforenergy-dense Libatteries, butitshighreactivity and
+delicateinterfacemakeitpronetodendriteformation, limitingits
+practical use.Inspired byself-assembled monolayers onmetal
+surfaces,weproposeafacileyeteffectivestrategytostabilizeLi
+metalanodesbycreatinganartificialsolidelectrolyte interphase
+(SEI).Ourmethodinvolvesdip-coating LimetalinMPDMS to
+createanSEIlayerthatisrichininorganic components, allowing
+uniformLiplating/stripping underalowoverpotential over500
+cyclesincarbonate electrolytes. Incomparison, pristineLimetal
+showsarapidincreaseinoverpotential aftermerely300cycles,
+leadingtofailuresoonafter.Molecular dynamics simulations
+demonstrate thatthisuniformartificialSEIsuppresses Lidendrite
+formation. Wefurtherdemonstrated itsenhanced stabilitypairingwithLiFePO4andLiNi1−x−yCoxMnyO2cathodes, highlighting the
+proposed strategyasapromising solutionforpracticalLimetalbatteries.
+KEYWORDS: lithium metalbattery, lithium dendrites, 3-mercaptopropylmethyldimethoxysilane, artificial SEI,
+molecular dynamics simulation
+Theelectrification oftransportation, particularly electric
+vehicles(EVs),isbecoming anirreversible trendin
+reducing greenhouse gasemissions andpromoting a
+sustainable futureforhumanity. Duetotheirrelatively high
+specificenergyandpowerdensities, lithium-ion batteries
+(LIBs)havebecomedominant intheEVmarket.However,
+LIBswithgraphiteanodeshavealmostreachedtheirlimitin
+termsofenergydensity,asgraphiteonlyhasasmallspecific
+capacityof372mAhg−1.Incontrast, lithiummetalhasthe
+highesttheoretical specificcapacityof3860mAhg−11−3and
+thelowestnegativeelectrochemical potential (−3.040 Vvs
+standardhydrogen electrode), makingitwidelyrecognized as
+theultimate anodeforLi-based batteries.4−6Tofurther
+increasetheenergydensityofLi-basedbatteries, variousnext-
+generation batterieswithLimetalanodeshavebeenproposed
+andextensively studied. Thesefuturetechnologies with
+extremely highenergy densities, including Li-Li-
+Ni1−x−yCoxMnyO2(Li-NCM), Li−Li-rich cathode, Li−sulfur
+(Li−S),andlithium−air (Li−O 2)systems,heavilyrelyonthe
+stablecyclingoflithiummetalelectrodes. However, the
+notorious problem ofLidendrites resultsinseveresafety
+issues,hindering thepractical deployment ofLimetal
+batteries.7,8Therefore, theutilization anddevelopment of
+practicalLimetalanodesinrechargeable systemsareofcritical
+importance forenergy-dense Limetalbatteries.ThegrowthofLidendrites inliquidelectrolytes isgenerally
+believedtooccurintwosteps.First,mossyLigrowsfromthe
+Lirootsuniformly untilthecapacityreachesacertainextent.
+Then,wispyLidendrites quicklygrowatthetips,duetothe
+preferential deposition ofLiontosurfaceprotrusions.9−13This
+nonuniform Lideposition furtherincreases theroughness of
+thesurface,exacerbating Lidendritegrowth.Theovergrowth
+ofLidendrites caneventually piercetheseparators, causing
+safetyhazardssuchasinternalshort-circuiting, fire,andeven
+explosion.14Inaddition,duetoitsinherenthighreactivity with
+electrolytes, thedeposited Limetalcanbepartiallyremoved,
+withsomeremaining electrochemically inactive, whichis
+knownas“deadLi”.15,16Asaresult,manymethodshavebeen
+investigated anddeveloped toinhibitthegrowthofLi
+dendrites inreversible Limetalanodes.Amongthesemethods,
+severalhaveachievedsuccesswithencouraging results,suchas
+currentcollector engineering,17,18Licomposite anode
+design,19−24especially thinanode,25andseparator innovation
+Received: March1,2023
+Revised: April14,2023
+Published: April20,2023
+Letter pubs.acs.org/NanoLett
+©2023American Chemical Society
+4014https://doi.org/10.1021/acs.nanolett.3c00783
+NanoLett.2023,23,4014−4022
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on May 28, 2023 at 10:37:25 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Article
+A solvent-anchored non-ﬂammable electrolyte
+Zhuojun Huang,1,7Jian-Cheng Lai,2,7Xian Kong,2Ivan Rajkovic,3Xin Xiao,1Hasan Celik,4
+Hongping Yan,2Huaxin Gong,2Paul E. Rudnicki,2Yangju Lin,2Yusheng Ye,1Yanbin Li,1
+Yuelang Chen,2,5Xin Gao,1Yuanwen Jiang,2Snehashis Choudhury,2Jian Qin,2Jeffrey B.-H. Tok,2
+Yi Cui,1,6,*and Zhenan Bao2,8,*
+SUMMARY
+Li-based batteries are ubiquitous in modern-day energy supply
+systems. However, the volatile and ﬂammable nature of the electro-lytes remains a safety challenge. Here, we report that anchored sol-vent molecules can increase the ionic conductivity of the electrolytewithout undermining its non-ﬂammability. Speciﬁcally, we devel-
+oped a liquid-state polymer elec trolyte composed of LiFSI salts,
+dimethoxyethane (DME) solvents, and polysiloxane tethered withion-solvating moieties. DME coordinates with both the salt andthe polymer, while, together with the salt, they synergisticallyplasticize the polymer to increase the ionic conductivity. The result-ing non-ﬂammable polymer electr olyte has a room-temperature
+ionic conductivity of 1.6 mS/cm and a wide operation window of25
+/C14C–100/C14C. Beneﬁting from its liquid nature, our electrolyte can
+pair with commercially available electrodes without further cell
+engineering. Our work extends the ionic conductivity range of poly-mer electrolytes and shows a promising design pathway for next-generation safe and manufacturable electrolytes.
+INTRODUCTION
+Li-ion batteries (LIBs) have applications ranging from grid-level energy storage to
+portable consumer electronic devices.1However, ﬂammability of traditional electro-
+lytes remains a critical safety issue.2,3The electrolyte is usually composed of ﬂam-
+mable small organic molecules, such as ether and carbonate. Their volatility leadsto unsafe battery operation at temperatures beyond 60
+/C14C.4Speciﬁcally, these
+organic molecules undergo self-amplifying exothermic oxidation, which eventually
+leads to battery combustion.2,5Ionic-liquid-based electrolyte has been explored
+as a low-vapor-pressure safe electrolyte . However, these ionic liquids introduce a
+secondary mobile cation beyond Li+into the solution matrix. Due to the salt solvat-
+ing limitation of ionic liquid (molar Li salt:ionic liquid %1: 2), most ( R67%) of the
+mobile cations in the electrolyte are organic cations, instead of Li+.6This results in
+low Li transference number (<0.4) in these electrolytes.7
+Solid-state electrolytes, such as cerami c-based and polymer-based electrolytes,
+were developed as an alternative safe electrolyte.8,9For ceramic-based electrolytes,
+high Li-ion conductivities (1–10 mS/cm ) have been revealed at room temperature.
+However, their reliance on advanced manuf acturing methods, e.g., atomic-layer-
+deposition, for forming low-impedance in terfaces with the electrodes has hindered
+their further development.10For solid-state polymeric electrolytes, low bulk ionic
+conductivities (<0.1 mS/cm) at room temperature have limited their operation toonly elevated temperatures (60
+/C14C– 8 0/C14C).11In full cell cycling, these electrolytesPROGRESS AND POTENTIAL
+Current battery electrolytes areﬂammable, posing a signiﬁcantsafety challenge. Solvent-freepolymer electrolytes aredeveloped to address this, yetthey do not have sufﬁcient ionicconductivity for room-
+temperature battery operation.
+Although gel electrolytes addressthe ionic conductivity limitation,the solvent molecules in them arenot anchored and the safetyf e a t u r ei st h u sc o m p r o m i s e d .Here, we report that anchoringsolvent molecules with the salt
+and the polymer can increase the
+ionic conductivity of theelectrolyte without underminingits non-ﬂammability. We name itsolvent-anchored non-ﬂammableelectrolyte (SAFE). We pairedSAFE with commercially availableelectrodes and demonstrated 400
+cycles at room temperature
+without obvious capacity decay.Different from the polymer or gelelectrolyte, SAFE addresses theapparent contradiction betweennon-ﬂammability and ionicconductivity.
+Matter 6, 445–459, February 1, 2023 ª2022 Elsevier Inc. 445ll
+Microphase Separation inNeutral Homopolymer Blends Induced by
+Salt-Doping
+XianKong*andJianQin*
+CiteThis:https://doi.org/10.1021/acs.macromol.2c02198
+ Read Online
+ACCESS
+ Metrics &More
+ Article Recommendations +sıSupporting Information
+ABSTRACT: Microphase separationinpolymericsystemspro-
+videsabottom-upstrategytofabricatenanostructures. Polymers
+thatarereportedtoundergomicrophaseseparationusuallyinclude
+blockcopolymers orpolyelectrolytes. Neutralhomopolymers,
+whicharecomparatively easytosynthesize,arethoughttobe
+incapableofmicrophaseseparation.Here,usingaminimalmodel
+thataccountsforionsolvation,weshowthatmicrophaseseparation
+ispossibleinneutralhomopolymer blendswithsufficientdielectric
+contrast,uponatinyamountofsalt-doping.Thedrivingforcefor
+themicrophaseseparationisthecompetition betweenselectiveion
+solvation,whichplacessmallerionsindomainswithhigher
+dielectricconstant,andthepropensityforlocalchargeneutralitytodecreasetheelectrostatic energy.Thecompromise isan
+emergentlengthoverwhichmicrophaseseparationoccursandionsareselectivelysolvated.Thefactorsaffectingsuchcompetitions
+areexplored,includingionsolvationradii,dielectriccontrast,andpolymerfraction,whichpointtodirectionsforobservingthis
+behaviorexperimentally. Thesefindingssuggestalow-costandfacilealternativetoproducemicrophaseseparation,whichmaybe
+exploitedinadvancedmaterialdesignandpreparation.
+■BACKGROUND
+Microphase separationisaself-assembly processinsoft
+materialsthatcanbeutilizedforpreparation ofvarious
+nanostructures inadvancedmanufacturing.1−4Microphase
+separationresultsfromthecompetition amongmultiple
+length-dependent interactions.5Awell-known exampleis
+blockpolymer,whichisformedbychemically linking
+thermodynamically incompatible components.6Theincompat-
+ibleblockstendtoseparatefromeachother,whilethechemical
+linkagesbetweenblockspreventmacroscopic separation,giving
+risetomicrophaseseparation.7Inthepast,polymericsystems
+consistingofchargedhomopolymers (orpolyelectrolytes, PEs)
+arealsoshowntobecapableofmicrophaseseparation.One
+exampleisweaklychargedPEsinpoorsolvent.8−12The
+incompatibility betweenPEandsolventpromotesaphase
+separationintotwomacroscopic phaseswithhighandlowPE
+concentrations. However,thisleadstothelossinthe
+translational entropyofcounterions, whichmostlyresidein
+theconcentrated phase.Thecompetition betweenthe
+incompatibility-induced demixingandtranslational entropy
+lossofcounterions leadsfinallytothemicrophaseseparation.
+Recently,itissuggestedthatmicrophase separationisalso
+possibleinpolyelectrolytes blends,13−15wherethemacroscopic
+phaseseparationbetweenimmisciblepolyelectroytes issup-
+pressedbytheneedtominimizeCoulombicinteraction.
+Theanalogybetweenthemicrophase separation of
+polyelectrolytes anddiblockcopolymermeltshighlightsthe
+roleofelectrostatic interactions. Indeed,ithasbeenfoundthatelectrostatic interactioncanbeleveragedtomanipulatethe
+phasebehaviorofpolyelectrolyte solutions,16−19ionicpolymer
+blends,20−22neutraldiblockcopolymermelts,23,24orcharged
+polymerblends.25,26Forexample,selectivesolvationofdoped
+saltsindielectrically heterogeneous copolymershasbeenshown
+toenhancetheeffectiveFlory−Huggins parameterbetweentwo
+blocksofdiblockcopolymer,27,28favoringtheformationof
+orderedmicroscopic phases.Remarkably, a“chimney”region
+waspredictedwherethesolvationeffectsandelectrostatic
+correlations ofionscanpromotemicrophaseformationinan
+otherwisefullycompatiblediblockcopolymerblend,thatis,
+whenthetwoblocksarefullymiscible.23Similarlyin
+polyelectrolytes, counterions ofPEsarepredictedtobe
+importantindetermining phasebehavior,includingenhancing
+thecompatibility betweentwoPEs,29,30narrowingthe
+parameterspaceformicrophase separation, allowingthe
+competition betweenmicrophaseandmacrophase separation,
+etc.26
+Inthiswork,weshowthatselectiveionsolvationcanbeused
+notonlytotunethemicrophaseseparationofneutralblock
+Received: October26,2022
+Revised: December7,2022
+Article pubs.acs.org/Macromolecules
+©XXXXAmerican Chemical Society
+Ahttps://doi.org/10.1021/acs.macromol.2c02198
+Macromolecules XXXX,XXX,XXX−XXX
+Downloaded via SOUTH CHINA UNIV OF TECHNOLOGY on December 31, 2022 at 10:30:13 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
+Spreading of a Unilamellar Liposome on Charged Substrates: A
+Coarse-Grained Molecular Simulation
+Xian Kong,†Diannan Lu, *,†Jianzhong Wu, *,‡and Zheng Liu *,†
+†Key Laboratory of Industrial Biocatalysis, Chinese Ministry of Education and Department of Chemical Engineering, Tsinghua
+University, Beijing 100084, China
+‡Department of Chemical and Environmental Engineering, University of California, Riverside California 92521, United States
+*SSupporting Information
+ABSTRACT: Supported lipid bilayers (SLBs) are able to
+accommodate membrane proteins useful for diverse biomi-metic applications. Although liposome spreading represents acommon procedure for preparation of SLBs, the underlyingmechanism is not yet fully understood, particularly from amolecular perspective. The present study examines the e ﬀects
+of the substrate charge on unilamellar liposome spreading onthe basis of molecular dynamics simulations for a coarse-grained model of the solvent and lipid molecules. Liposome
+transformation into a lipid bilayer of di ﬀerent microscopic
+structures suggests three types of kinetic pathways dependingon the substrate charge density, that is, top-receding,parachute, and parachute with wormholes. Each pathway leads to a unique distribution of the lipid molecules and therebydistinctive properties of SLBs. An increase of the substrate charge density results in a magni ﬁed asymmetry of the SLBs in terms
+of the ratio of charged lipids, parallel surface movements, and the distribution of lipid molecules. While the lipid mobility in theproximal layer is strongly correlated with the substrate potential, the dynamics of lipid molecules in the distal monolayer is similarto that of a freestanding lipid bilayer. For liposome spreading on a highly charged surface, wormhole formation promotes lipidexchange between the SLB monolayers thus reduces the asymmetry on the number density of lipid molecules, the lipid orderparameter, and the monolayer thickness. The simulation results reveal the important regulatory role of electrostatic interactionson liposome spreading and the properties of SLBs.
+■INTRODUCTION
+Supported lipid bilayers (SLBs)1are able to retain the structure
+and functionality of their native counterparts and hold greatpromise for a wide range of biomimetic applications. Recent
+examples for the practical use of SLB include drug delivery,2,3
+biosensing devices,4high-performance membranes,5,6and
+biomedical apparatus.7Among various procedures for prepara-
+tion of SLBs including Langmuir −Blodgett7and Langmuir −
+Schafer depositions,8liposome spreading on a planar substrate9
+has the advantages of experimental simplicity and genericapplicability for SLBs of di ﬀerent compositions.9,10After
+loading from a bulk solution onto a planar substrate, liposomesrupture and fuse into SLBs driven by surface electrostatic, vander Waals, and chemically speci ﬁcf o r c e s .
+11Electrostatic
+interactions play a predominant role in liposome spreading
+because of the ubiquitous net charge of lipid molecules andvarious substrates. The kinetics of liposome spreading may betuned by adjusting the solution pH and ionic strength inaccordance with the liposome compositions and its interaction
+with the substrate.
+12−16
+Recent years have witnessed rapid progress toward under-
+standing the e ﬀects of substrates on SLB formation and
+properties.10,11,16,17A lingering question on the kinetics ofliposome spreading is related to its topological changes, for
+example, whether the inner surface of a liposome is more likely
+to be on the upper layer of the SLB ( “inside-up spreading ”)o r
+otherwise on the lower layer of the SLB ( “inside-down
+spreading ”). The issue is important because by controlling
+the SLB topology, we may prepare liposomes with di ﬀerent
+lipid compositions at the inner or outer surfaces to ensure the
+exposure of a speci ﬁc component (e.g., sensors) at the upper
+layer. There have been numerous reports about the kinetics of
+SLB formation.18−20For example, Fuhrmans et al.21proposed
+three mechanisms of liposome spreading on a neutral substrateusing a coarse-grained lipid model and found that the inside-upand the inside-down topological changes can be attributed to
+the short- and long-range components of the substrate −
+liposome interactions, respectively. However, it is not yetknown whether or how the spreading behavior is in ﬂuenced by
+electrostatic interactions although charges are commonplace for
+both lipid molecules and realistic substrates.
+Received: January 8, 2016
+Revised: March 20, 2016
+Published: March 28, 2016Article
+pubs.acs.org/Langmuir
+© 2016 American Chemical Society 3785 DOI: 10.1021/acs.langmuir.6b00043
+Langmuir 2016, 32, 3785 −3793
+Downloaded via STANFORD UNIV on October 14, 2019 at 17:09:19 (UTC).
+See https://pubs.acs.org/sharingguidelines for options on how to legitimately share published articles.
+
