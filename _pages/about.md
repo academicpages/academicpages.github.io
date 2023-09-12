@@ -12,7 +12,7 @@ Hi, I'm Zach! I'm a George J. Mitchell Scholar at University College Dublin earn
 
 Research Interests
 ======
-1. Privacy and safety for AI systems.
+1. Privacy and safety in AI systems.
 1. Equity in AI.
 1. Distributed learning.
 1. Adversarial attacks on ML models.
