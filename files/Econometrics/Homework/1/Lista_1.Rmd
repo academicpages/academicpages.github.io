@@ -1,0 +1,140 @@
+---
+title: "Econometria I"
+author: "Lista de Exercícios 1"
+affiliation: PIMES/UFPE
+abstract:
+thanks:
+keywords:
+date: "PIMES/UFPE"
+output:
+  pdf_document:
+    highlight: default
+    #citation_package:
+    keep_tex: false
+    #fig_caption: true
+    latex_engine: pdflatex
+fontsize: 11pt
+geometry: margin=1in
+#bibliography:
+#biblio-style:
+header-includes:
+- \usepackage{indentfirst}
+- \usepackage{graphicx}
+- \usepackage{geometry}
+- \usepackage{subfigure}
+- \usepackage{amsmath}
+- \usepackage{listings}
+- \usepackage{tikz}
+- \usetikzlibrary{matrix}
+---
+
+\vspace{0.25in}
+
+
+
+# Problemas conceituais
+
+
+1. Defina cada um dos pressupostos abaixo e determine a consequência de não serem satisfeitos:
+
+
+    a. Posto cheio
+
+
+    b. Linearidade
+
+
+    c. Exogeneidade das variáveis dependentes
+
+
+    d. Homocesdasticidade e não-autocorelação
+
+
+    e. Distribuiçao normal
+
+
+2. Encontre matricialmente o estimador de mínimos quadrados (MQO) da regressão $$\mathbf{y}=\mathbf{X}\mathbf{\beta}+\mathbf{\varepsilon}$$.
+
+
+3. Abaixo defninimos o modelo de regresão simples como $$y_i=\alpha + \beta x_i + \varepsilon_i$$
+
+
+    a. Mostre que este modelo pode ser escrito equivalentemente em forma matricial como             $\mathbf{y}=\mathbf{X}\mathbf{\beta}+\mathbf{\varepsilon}$.
+    
+    b. Escreva a expressão para $\mathbf{b}$, o estimador de MQO, em termos matriciais. Verifique que esta forma é equivalente às expressões $$\hat{\alpha}=\bar{y}-\hat{\beta}$$ e 
+    
+    $$\hat{\beta}=\frac{\frac{1}{n}\sum_{i=1}^n{x_iy_i}-\left(\frac{1}{n}\sum_{i=1}^n{x_i}\right)\left(\frac{1}{n}\sum_{i=1}^n{y_i}\right)}{\frac{1}{n}\sum_{i=1}^n{x_i^2}-\left(\frac{1}{n}\sum_{i=1}^n{x_i}\right)^2}$$
+
+
+
+4. Defina e prove o teorema de Frisch-Waugh (1933)-Lovell (1963).
+
+
+
+5. Na regressão de mínimos quadrados de $\mathbf{y}$ em uma constante e $\mathbf{X}$,
+para calcular os coeficientes de regressão em $\mathbf{X}$, podemos primeiro transformar $\mathbf{y}$ em desvios da média $\mathbf{\bar{y}}$ e, da mesma forma, transformar cada coluna de $\mathbf{X}$ em desvios da respectiva média da coluna; segundo, regredir o $y$ transformado no $X$ transformado sem uma constante.  Se apenas transformarmos $\mathbf{y}$, obtemos o mesmo resultado? E se transformarmos apenas $\mathbf{X}$?
+
+
+6. Considere o modelo $\mathbf{y}=\mathbf{X}\mathbf{b}+\mathbf{e}$ A partir das definições $SST=\sum_{i=1}^n{(y_i-\bar{y})^2}$, $SSR=\sum_{i=1}^n{(\hat{y}_i-\bar{y})^2}$ e $SSE=\mathbf{e}'\mathbf{e}=\sum_{i=1}^n{e_i^2}$, responda as seguintes questões:
+
+    a. Prove que $SST=SSR+SSE$. 
+    b. Suponha que a variável $z$ é adicionada ao modelo. Mostre como podemos comparar o $R^2$ da primeira regresão com o da segunda.
+    
+    
+# Problemas práticos
+
+
+Considere a seguinte base de dados:
+
+$$\mathbf{X}=
+\begin{bmatrix} 
+  1 &   4 &  2 \\
+  1 &   7 &  6 \\
+  1 &   2 &  9  \\
+  1 &   1 &  4  \\
+  \end{bmatrix}, 
+% 
+\mathbf{y}=
+\begin{bmatrix} 
+	6  \\
+	11 \\
+	4  \\
+	3 \\
+\end{bmatrix}$$
+	
+1. Calcule as seguintes quantidades:
+
+    a. $\mathbf{X}'\mathbf{X}$
+    b. $(\mathbf{X}'\mathbf{X})^{-1}$
+    c. $\mathbf{b}=\mathbf{X}(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{y}$
+    d. O vetor de resíduos, $\mathbf{e}$
+    e. O vetor $\hat{\mathbf{y}}$
+    f. A matrix "geradora de resíduos", $\mathbf{M}$
+    g. $\mathbf{My}$
+    h. A matrix de projeção, $\mathbf{P}$
+    i. $\mathbf{Py}$
+
+
+2. Defina a seguinte partição da matrix $\mathbf{X}$ conforme abaixo e calcule as seguintes quantidades: $$\mathbf{X}_1=
+\begin{bmatrix} 
+  1 \\
+  1 \\
+  1 \\
+  1 \\
+  \end{bmatrix}, 
+% 
+\mathbf{X}_2=
+\begin{bmatrix} 
+  4 &  2 \\
+  7 &  6 \\
+  2 &  9  \\
+  1 &  4  \\
+\end{bmatrix}$$
+	
+    a. $\mathbf{M}_1\mathbf{y}$
+    b. $\mathbf{y}'\mathbf{M}_1\mathbf{y}$
+    c. $R^2$
+  
+
+
+
