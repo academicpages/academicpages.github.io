@@ -1,6 +1,6 @@
 ---
 title: "Robotic Foosball Table"
-excerpt: "ECE Capstone Project. Capable of regularly defeating skilled human opponents. <br/><br/><img src='/images/foosball1.gif'>"
+excerpt: "ECE Capstone Project. Capable of regularly defeating skilled human opponents. <br/><br/><img src='/images/foosball1_img.png'>"
 collection: portfolio
 ---
 
