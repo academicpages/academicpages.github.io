@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Zach! I'm a George J. Mitchell Scholar at University College Dublin pursuing my Masters in Computer Science.
+Hi, I'm Zach! I'm a George J. Mitchell Scholar at University College Dublin earning my Masters in Computer Science. I'm pursuing a career in Artificial Intelligence and Machine Learning research, and I'm enthusiastic about new models, methods, and data that can make AI more powerful, equitable, and transparent.
 
 Research Interests
 ======
