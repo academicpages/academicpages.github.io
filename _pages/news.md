@@ -28,7 +28,7 @@ Spotlighted in UVA Today for receipt of the George J. Mitchell Scholarship.
 Recognized for winning the iDISPLA Adversarial AI/ML Challenge. 
 
 ### [Fact of Fiction: Two UVA Students Tackle Deepfakes](https://www.wvtf.org/news/2021-06-18/fact-or-fiction-two-uva-students-tackle-deepfakes)
-####### WVTF - 3 Minute Listen
+###### WVTF - 3 Minute Listen
 
 Interviewed by Virginia Public Radio for winning the iDISPLA Adversarial AI/ML Challenge.
 
