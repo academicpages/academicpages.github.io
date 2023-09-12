@@ -72,20 +72,6 @@ $$\frac{1}{n}\sum_{i=1}^n{\mathbf{x_i y_i}}=\left(\frac{1}{n}\sum_{i=1}^n{\mathb
 
 Notice that this is the sample counterpart of the population condition $E[\mathbf{Xy}]=E[\mathbf{X'X}]\mathbf{\beta}$.
 
-## Minimum Squared Error Predictor
-
-Consider now the problem of finding the optimal linear predictor for $\mathbf{y}$.
-
-\vfill
-
-We'll use the mean squared error rule as a criterion by which we seek the linear predictor of $\mathbf{y}$ with the minimum mean squared error. Denote it $\mathbf{X'\gamma}$.
-
-\vfill
-
-Thus, we write
-
-$$MSE=E[\mathbf{y}-\mathbf{X'\gamma}]$$
-
 ## Statistical Properties of the LS Estimator
 
 ### Statistical Properties of the LS Estimator
