@@ -13,3 +13,4 @@ redirect_from:
 > [The Least Squares Linear Model](http://henriqueveras.github.io/files/Econometrics/Lecture Notes/2/Lecture2.pdf)
 
 > [Estimating the Regression Model](http://henriqueveras.github.io/files/Econometrics/Lecture Notes/3/Lecture_3.pdf)
+
