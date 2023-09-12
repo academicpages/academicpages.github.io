@@ -213,6 +213,9 @@ redirect_from:
   </div>
 </div>
 
+## Group snapshot on Sep 12, 2023
+
+
 <html> 
   <body> 
     <img src="../images/group202309.jpg" alt="示例图片" width="1200" height="900"> 
