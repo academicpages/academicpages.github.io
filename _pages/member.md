@@ -194,6 +194,38 @@ redirect_from:
 
 </div>
 
+<div style="display:flex">
+  <div style="flex:1">
+    <img src="../images/ZhangZhao.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    张钊(Zhao Zhang)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2020 Undergraduate  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 202030040173@mail.scut.edu.cn  </p>
+  </div>
+  <div style="flex:1">
+    <img src="../images/LongHaotian.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    龙浩天（Long Haotian)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2020 Undergraduate  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 202030040265@mail.scut.edu.cn  </p>
+  </div>
+  
+  <div style="flex:1">
+    <img src="../images/HuangYu.jpg" style="width: 150px; height:200px;">
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    黄瑜（Yu Huang)  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    2020 Undergraduate  </p>
+    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
+    Email: 202030040227@mail.scut.edu.cn  </p>
+  </div>
+
+</div>
+
 ## Alumni
 
 <div style="display:flex">
