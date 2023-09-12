@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Dissertation"
+permalink: /dissertation/
+author_profile: true
+---
+
 My dissertation research addresses the pre-electoral coalitions formed in electoral autocratic regimes. Substantively, I study opposition coordination and the communication between opposition parties and the incumbent both before and after national-level elections. I adopt a mixed-methodological approach - large-N quantitative analysis, causal case selection, and site-intensive methods - to explore how political parties' organizational structures and ideological and political agenda diversity explain opposition bargaining prior to the elections. In testing my theory, I draw on an original dataset on elections in electoral authoritarian regimes and archival materials, interviews with party chairs and co-chairs, and shadowing insights. I focus on Turkey in my fieldwork, but I also explore elections in Armenia, Guatemala, Hungary, and North Macedonia as influential and pathway cases. 
 
 My dissertation research has been supported by the [Warren E. Miller Fund in Electoral Politics](https://connect.apsanet.org/centennialcenter/research-grants/) supported by the APSA Centennial Grant, Craigie Fellowship, and GSU's [Library Dissertation Award](https://graduate.gsu.edu/dissertation-library-travel-awards/).  
