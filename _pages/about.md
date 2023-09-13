@@ -165,7 +165,7 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.co
 -->
 
 
-## Projects
+## Lead/Co-lead Projects
 
 * <b>Prompt Transferability</b>. This system assists users in building a prompt bank, allowing them to save well-trained prompts. It also enables swift access and reuse of these prompts whenever the user requires them on unseen tasks and heterogeneous models.
 
