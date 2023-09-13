@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "cs-CZ"
-title                    : "David / CZECHMATE CZ s.r.o."
+title                    : "David Havlík / CZECHMATE CZ s.r.o."
 title_separator          : "-"
 name                     : &name "David Havlík"
-description              : &description "Specialista na úniky a bezpečnost informací 🔒🌐 / jednatel a společník [CZECHMATE CZ s.r.o.](https://czechmatecz.com)"
+description              : &description "Specialista na úniky a bezpečnost informací 🔒🌐 / jednatel a společník [CZECHMATE CZ s.r.o.](https://czechmatecz.com"
 url                      : https://david-czechmatecz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "david-czechmatecz/david-czechmatecz.github.io"
