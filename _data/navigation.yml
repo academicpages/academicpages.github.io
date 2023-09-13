@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publikační činnost"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Vzdělávání"
     url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Příspěvky"
     url: /year-archive/
     
   - title: "CV"
     url: /files/Strukturovany_zivotopis - Copy.pdf
     
-  - title: "Guide"
+  - title: "Průvodce"
     url: /markdown/
