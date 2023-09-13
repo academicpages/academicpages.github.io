@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my PhD in Computer Science at UC San Diego where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I will be joining the Redwood Center for Theoretical Neuroscience at UC Berkeley as a postdoc in early September. My research interests are in neurally plausible models of representation and information processing. I focus in particular on computing using randomized distributed representations of data.
+I am a postdoc in the Redwood Center for Theoretical Neuroscience at UC Berkeley. My research interests are in neurally plausible models of data representation and information processing, and in particular, on computing using randomized distributed representations of data.
 
-I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
+I received my PhD in Computer Science from UC San Diego in September 2023, where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
 
 # Publications
 
