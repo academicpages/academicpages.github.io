@@ -250,6 +250,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
+    webrick (1.8.1)
 
 PLATFORMS
   arm64-darwin-22
@@ -259,6 +260,7 @@ DEPENDENCIES
   hawkins
   jekyll-feed
   jekyll-sitemap
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.18
