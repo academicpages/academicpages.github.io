@@ -25,7 +25,7 @@ Working Papers
 ---
 Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>)
 
-A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/ethnic_minority_aid_Sept2022.pdf">Under review</a>)
+A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">Under review</a>)
 
 Aid, blame, and backlash (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">Under review</a>)
 
