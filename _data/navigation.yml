@@ -3,16 +3,16 @@ main:
   - title: "Publikační činnost"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Rozhovory"
     url: /talks/    
 
   - title: "Vzdělávání"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Služby"
     url: /portfolio/
         
-  - title: "Příspěvky"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
