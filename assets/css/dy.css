@@ -1,8 +1,13 @@
-
+@charset "utf-8";
 * {
 	padding: 0;
 	margin: 0;
 	font-weight: 400;
+}
+html, body {
+	font-size: 13px;
+	font-family: "microsoft yahei";
+	background: #F4F4F5;
 }
 ul {
 	list-style: none;
