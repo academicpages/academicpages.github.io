@@ -40,7 +40,29 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
   <br> \*Co-first author
   <br> <a href="https://arxiv.org/abs/2306.06615" class="button">arXiv</a> <a href="/files/MolReGPT.pdf" class="button">PDF</a> <a href="https://github.com/phenixace/MolReGPT" class="button">Code</a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button">中文Chinese</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
-                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>   
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/MolReGPT.png' alt="sym" width="400"></div></div>
+  <div class="dy-content">
+    <div class="dy-videos">
+      <ul class="dy-video-list">
+        <li data- class="dy-video-item dy-video-meta-right">
+          <div class="dy-video-meta">
+            <div class="dy-video-meta-bg"> </div>
+            <div class="dy-video-meta-dy">
+              <ul class="dy-video-meta-list">
+              </ul>
+              </p>
+              <p class="dy-video-intro"> Abstract:... <a class="dy-video-intro-more">More</a>
+            </div>
+            <div class="dy-video-meta-bg"> </div>
+          </div>
+          <div class="dy-video-poster"> <a class="dy-video-link"> <img class="dy-video-img" src="/files/MolReGPT.pdf"
+                alt="Title"> <span class="dy-video-nocomplete"></span>
+              <span class="dy-video-bg"></span> </a> </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+
                 
   <br>[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/text-based-de-novo-molecule-generation-on)](https://paperswithcode.com/sota/text-based-de-novo-molecule-generation-on?p=empowering-molecule-discovery-for-molecule)
   <br>[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/empowering-molecule-discovery-for-molecule/molecule-captioning-on-chebi-20)](https://paperswithcode.com/sota/molecule-captioning-on-chebi-20?p=empowering-molecule-discovery-for-molecule)       
