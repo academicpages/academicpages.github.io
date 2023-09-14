@@ -15,7 +15,7 @@ Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2
 ======
 **Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. [https://doi.org/10.1029/2022JC019015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019015).
 
-Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss, [https://doi.org/10.5194/gmd-2022-77.](https://gmd.copernicus.org/preprints/gmd-2022-77/)
+Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss, [https://doi.org/10.5194/gmd-2022-77](https://gmd.copernicus.org/preprints/gmd-2022-77/)
 
 2021
 ======
@@ -27,9 +27,9 @@ Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, 
 
 2018
 ======
-Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy[J]. Ocean Dynamics, 68(12), 1649-1661. [https://doi.org/10.1007/s10236-018-1217-x.](https://link.springer.com/article/10.1007/s10236-018-1217-x)
+Wang, G., **Zhao, B.**, Qiao, F. et al., 2018. Rapid intensification of Super Typhoon Haiyan: the important role of a warm-core ocean eddy[J]. Ocean Dynamics, 68(12), 1649-1661. [https://doi.org/10.1007/s10236-018-1217-x](https://link.springer.com/article/10.1007/s10236-018-1217-x)
 	
-Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. [https://doi.org/10.1029/2018JC014137.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014137)
+Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress from wind direction under low wind conditions. Journal of Geophysical Research: Oceans, 123, 9357– 9368. [https://doi.org/10.1029/2018JC014137](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014137)
 
 2017
 ======
@@ -39,7 +39,7 @@ Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L.
 
 2014
 ======
-**Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks[J]. Chinese Science Bulletin, 59(24), 3075-3084. [https://doi.org/10.1007/s11434-014-0255-0.](https://link.springer.com/article/10.1007/s11434-014-0255-0)  
+**Zhao, B.**, Qiao, F., and Wang, G., 2014. The effects of the non-breaking surface wave-induced vertical mixing on the forecast of tropical cyclone tracks[J]. Chinese Science Bulletin, 59(24), 3075-3084. [https://doi.org/10.1007/s11434-014-0255-0](https://link.springer.com/article/10.1007/s11434-014-0255-0)  
 
 
 
