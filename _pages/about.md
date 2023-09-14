@@ -1,4 +1,4 @@
-7---
+---
 permalink: /
 title: "Vítejte!"
 excerpt: "About me"
@@ -12,7 +12,7 @@ redirect_from:
 - Jsem specialista na úniky a bezpečnost informací s více než dvaceti lety praxe. 
 
 ## Odkud přicházím?
-- Mám zkušenosti ze soukromé i veřejné sféry - z oblastí jako je investigativní žurnalistika, hloubkové prověřování integrity osob, informační a kybernetická bezpečnost.
+- Mám zkušenosti ze soukromé i veřejné sféry - z oblastí jako je investigativní žurnalistika, hloubkové prověřování integrity osob či informační a kybernetická bezpečnost.
 - Na [Ministerstvu vnitra ČR](https://mvcr.cz) jsem byl členem týmu [Národní koordinátorky Otevřených dat](https://data.gov.cz), kde jsem popularizoval využívaní informací z veřejných zdrojů a metody [Open Source Intelligence (OSINT)](https://en.wikipedia.org/wiki/Open-source_intelligence)
 - V soukromé forenzní agentuře [Surveilligence](https://surveiligence.com) jsem se podílel na vyšetřování sofistikované finanční kriminality a firem v insolvenci.
 - Ve veřejnoprávní [České televizi](https://ceskatelevize.cz) jsem jako reportér investigativního pořadu [Reportéři ČT](https://www.ceskatelevize.cz/vse-o-ct/lide/zpravodajstvi/reportazni-publicistika/) rozkrýval nejzávažnější hospodářsko-politické kauzy.
