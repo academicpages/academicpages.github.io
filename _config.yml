@@ -114,12 +114,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      - label: "Orcid"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0001-6114-1251"
+  Orci: "https://orcid.org/my-orcid?orcid=0000-0001-6114-1251"
+   
       
 # Reading Files
 include:
