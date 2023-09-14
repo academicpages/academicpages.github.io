@@ -120,7 +120,7 @@ links:
       - label: "Orcid"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0001-6114-1251"
-
+      
 # Reading Files
 include:
   - .htaccess
