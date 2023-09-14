@@ -14,5 +14,4 @@ I have an interest in combining my knowledge in mechanical engineering with prog
   1. FEniCS simulations on Fluid Structure Interaction in Aortic Valve
   2. Using Yolov8 Library to keep track of ball possesion for each team and keep track of pass success rates. 
  
-Please contact me for any collaboration on unique projects. 
 

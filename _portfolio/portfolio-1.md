@@ -5,11 +5,10 @@ collection: portfolio
 ---
 During the Design Hackathon, my group was able to create two designs that won first place in each challenge. 
 The product WeldAid was designed to assist engineers to weld materials more comfortably and enhance capabilities of reaching locations that are harder to weld. This product was inspired by the exoskeleton suit and was designed by experiencing different welding positions. More information on its functionality can be found in the link provided below: 
-
-[WeldAid](https://devpost.com/software/weldaid)
-[WeldAid Step File](/files/WeldAid.step)
+Competition Link:  [WeldAid](https://devpost.com/software/weldaid)\
+Step File Download:  [WeldAid Step File](/files/WeldAid.step)
 
 Ecogrind is our solution to combat the challenges of food waste from grinders. Existing grinders escalate energy consumption and resource demands, primarily due to nitrogen and methane emissions during their treatment process. We envisioned and crafted Ecogrind to serve as an efficient composting system by filtering and composting food waste, showcasing our commitment to sustainable solutions. More information can be found in the link provided:
 
-[EcoGrind](https://devpost.com/software/ecogrind)
-[EcoGrind Step File](/files/Ecogrind.step)
+Competition Link:  [EcoGrind](https://devpost.com/software/ecogrind)\
+Step File Download:  [EcoGrind Step File](/files/Ecogrind.step)
