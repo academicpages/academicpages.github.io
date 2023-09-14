@@ -9,7 +9,7 @@ author_profile: true
 
 2023
 ======
-Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [doi: 10.3389/fmars.2022.1102631.](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
+Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. doi: 10.3389/fmars.2022.1102631
 
 2022
 ======
