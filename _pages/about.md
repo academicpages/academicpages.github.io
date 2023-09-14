@@ -22,9 +22,5 @@ redirect_from:
 ## Kam směřuji?
 - Působím jako jednatel s společník specializované informační a zpravodajské kanceláře [CZECHMATEC CZ s.r.o.](https://czechmatecz.com)
 - Zaměřuji se na sběr a analýzu digitálních stop. 
-- Působím jako lektor [Národního pedagogického institutu ČR](https://npi.cz). 
-- Pomáhám učitelům rozvíjet digitální dovednosti. 
-- Mým úkolem je: 
- - odhalovat pravdu v záplavě dezinformací
- - chránit citlivé informace
- - navigovat k úspéchu v digitální éře
+- Působím jako lektor [Národního pedagogického institutu ČR](https://npi.cz), kde pomáhám učitelům rozvíjet digitální dovednosti. 
+- Mým úkolem je odhalovat pravdu v záplavě dezinformací, chránit citlivé informace jednotlivců i firem a navigovat je k úspéchu v digitální éře. 
