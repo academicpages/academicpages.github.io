@@ -9,7 +9,7 @@ author_profile: true
 
 2023
 ======
-Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [doi: 10.3389/fmars.2022.1102631]
+Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [doi: 10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
 
 2022
 ======
@@ -23,7 +23,7 @@ Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao,
 
 2019
 ======
-Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.[https://doi.org/10.1016/j.coldregions.2019.102869](https://www.sciencedirect.com/science/article/pii/S0165232X18305883) 
+Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869. [https://doi.org/10.1016/j.coldregions.2019.102869](https://www.sciencedirect.com/science/article/pii/S0165232X18305883) 
 
 2018
 ======
@@ -33,9 +33,9 @@ Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress f
 
 2017
 ======
-Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999.[https://doi.org/10.1175/JTECH-D-16-0166.1](https://journals.ametsoc.org/view/journals/atot/34/9/jtech-d-16-0166.1.xml)
+Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999. [https://doi.org/10.1175/JTECH-D-16-0166.1](https://journals.ametsoc.org/view/journals/atot/34/9/jtech-d-16-0166.1.xml)
    
-**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723.[doi:10.1002/2016JC012262](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012262)
+**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723. [doi:10.1002/2016JC012262](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012262)
 
 2014
 ======
