@@ -1,22 +1,16 @@
 # main links links
 main:
   - title: "Educations"
-    url: /#教育背景
+    url: /#educational-background
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Projects"
+    url: /#campusproject-experience  
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "English Level"
+    url: /#skill-certificate
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  - title: "Honors"
+    url: /#personal-honor
     
   - title: "Guide"
     url: /markdown/
