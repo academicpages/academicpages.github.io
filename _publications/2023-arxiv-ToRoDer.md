@@ -3,7 +3,7 @@ title: "Typos-aware Bottlenecked Pre-Training for Robust Dense Retrieval"
 collection: publications
 permalink: /publication/arxiv2023ToRoDER
 year: 2023
-venue: 'Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP ’23)'
+venue: 'Proceedings of the 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific (SIGIR-AP ’22)'
 authors: <strong>Shengyao Zhuang</strong>, Linjun Shou, Jian Pei, Ming Gong, Houxing Ren, Guido Zuccon and Daxin Jiang.
 track: Full paper
 ---
