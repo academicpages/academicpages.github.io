@@ -87,7 +87,7 @@ author:
   employer         : "Uppsala University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YAZxa00AAAAJ&hl=en"
-  email            : 
+  email            : "bzhao.metocean@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,7 +115,9 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-
+links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
 
 # Reading Files
 include:
