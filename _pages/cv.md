@@ -19,7 +19,7 @@ Work experience
 ======
 * 2023.08-present: Postdoctoral researcher
   * Uppsala Univeristy
-  * Duties included: air-sea-wave interaction
+  * Duties included: air-wave interaction
   * Supervisor: Associate Professor Lichuan Wu
   
 * 2014.04-2023.08: Research Associate
