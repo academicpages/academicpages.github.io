@@ -13,7 +13,7 @@ Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2
 
 2022
 ======
-**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. [https://doi.org/10.1029/2022JC019015.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019015)
+**Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. https://doi.org/10.1029/2022JC019015.
 
 Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss, [https://doi.org/10.5194/gmd-2022-77.](https://gmd.copernicus.org/preprints/gmd-2022-77/)
 
