@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Educationals"
-     url: /#educational-background/
+  # - title: "Educationals"
+  #    url: /#educational-background/
 
   - title: "Projects"
      url: /talks/    
