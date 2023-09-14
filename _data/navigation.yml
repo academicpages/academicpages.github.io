@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "Educationals"
-     url: /#educational-background
+     url: /#educational-background/
 
   - title: "Projects"
-  #   url: /talks/    
+     url: /talks/    
 
   - title: "Teaching"
-  #   url: /teaching/    
+     url: /teaching/    
     
   - title: "Honors"
-  #   url: /portfolio/
+     url: /portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
