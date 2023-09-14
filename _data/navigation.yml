@@ -1,11 +1,5 @@
 # main links links
 main:
-  # - title: "Educationals"
-  #    url: /#educational-background/
-
-  # - title: "Projects"
-  #    url: /talks/    
-
   - title: "Teaching"
      url: /teaching/    
     
