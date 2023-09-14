@@ -35,7 +35,7 @@ Chen, S., Qiao, F., Huang, C. J., **Zhao, B.**, 2018. Deviation of wind stress f
 ======
 Liang, X., Yang, Q., Nerger, L., Losa, S. N., **Zhao, B.**, Zheng, F., Zhang, L., & Wu, L., 2017. Assimilating Copernicus SST Data into a Pan-Arctic Ice–Ocean Coupled Model with a Local SEIK Filter. Journal of Atmospheric and Oceanic Technology. 34: 1985–1999. [https://doi.org/10.1175/JTECH-D-16-0166.1](https://journals.ametsoc.org/view/journals/atot/34/9/jtech-d-16-0166.1.xml)
    
-**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723. [doi:10.1002/2016JC012262](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012262)
+**Zhao, B.**, Qiao, F., Cavaleri, L. et al., 2017. Sensitivity of typhoon modeling to surface waves and rainfall[J]. Journal of Geophysical Research: Oceans, 122(3), 1702-1723. [https://doi:10.1002/2016JC012262](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016JC012262)
 
 2014
 ======
