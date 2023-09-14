@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an numerical modeler and oceanographer，my research focuses on the effects
-of ocean surface waves on air-sea momentum and heat fluxes, and their influence
+I am an oceanographer，my research focuses on the effects
+of ocean surface waves on air-sea momentum & heat fluxes, and their influence
 on the atmospheric boundary layer and extreme processes such as tropical cyclone.
 
 I am also the developer of the regional coupled model [FIO-AOW](https://github.com/Biao-Zhao/FIO-AOW).
