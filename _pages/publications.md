@@ -23,7 +23,7 @@ Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao,
 
 2019
 ======
-Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.[](https://www.sciencedirect.com/science/article/pii/S0165232X18305883) 
+Zhao, J., Cheng, B., Vihma, T., Yang, Q., Hui, F., **Zhao, B.**, Hao, g., Shen, H., Zhang, L., 2019. Observation and thermodynamic modeling of the influence of snow cover on landfast sea ice thickness in Prydz Bay, East Antarctica, Cold Regions Science and Technology. 168: 102869.[https://doi.org/10.1016/j.coldregions.2019.102869](https://www.sciencedirect.com/science/article/pii/S0165232X18305883) 
 
 2018
 ======
