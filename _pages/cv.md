@@ -37,7 +37,7 @@ Awards
   * Search rankings in multimodal and multilingual contexts. 
   * Team leader, US$30,000 prize. 
 * [SIGIR 2022](https://sigir.org/sigir2022/program/best-paper-awards/) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Honorable Mention Award </i> ]
-  * Reduce, Reuse, Recycle: Green Information Retrieval Researchs
+  * Reduce, Reuse, Recycle: Green Information Retrieval Research
 * [ADCS 2022](http://adcs-conference.org/2022/index.html) [ <i class="fa fa-trophy" aria-hidden="true"> Best Paper Award </i> ]
   * Robustness of Neural Rankers to Typos: A Comparative Study
 
