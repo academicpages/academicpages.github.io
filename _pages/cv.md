@@ -23,11 +23,6 @@ Work experience
   * May 2022 - Nov 2022
     
 * The University of Queensland
-  * Tutor
-  * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments, and exam marking.
-  * July 2019 - May 2022
-    
-* The University of Queensland
   * Casual Research Assistant
   * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
   * Apr 2019 - July 2019
@@ -48,7 +43,7 @@ Awards
 
 Education
 ======
-* Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
+* Ph.D. Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
   * Thesis topic: Teaching Pre-trained Language Models to Rank Effectively, Efficiently and Robustly
 * Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
   * GPA: 6.3/7 
@@ -63,8 +58,8 @@ Teaching
 -->
 * The University of Queensland
   * Tutor
-  * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments and exams marking.
-  * Aug 2018 - Current
+  * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments, and exam markings.
+  * July 2019 - May 2022
 
   
 Service
