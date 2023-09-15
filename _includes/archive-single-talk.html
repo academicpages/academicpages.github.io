@@ -27,11 +27,7 @@
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
-      {% else %}
-        {{ title }}
-      {% endif %}
+      {{ title }}
       {% if post.pdf %}
         <div class="pdf-bubble"><a class="pdf-link" href="{{ post.pdf }}">slides</a></div>
       {% endif %}
