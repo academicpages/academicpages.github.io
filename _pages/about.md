@@ -37,7 +37,7 @@ Campus/Project Experience
 - **2023.02-2023.06 | ZhuoYueExpress | Project Leader**  
   \- It has Android, Web and Server  
   \- It has the functions of express order, express scanning code collection, package unpacking/packing, express delivery, express track query, express real-time status query and so on  
-  \- Software copyright is being applied for
+  \- Obtain Software Copyright
 
 校园/项目经历
 ------
