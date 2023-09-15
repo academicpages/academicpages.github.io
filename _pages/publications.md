@@ -9,17 +9,17 @@ author_profile: true
 
 2023
 ======
-Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [ https://doi.org/10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
+Wang, G, Ma, H., Babanin, AV., **Zhao, B.**, Huang, C., Dai, D., and Qiao, F., 2023. Estimating sea spray volume flux with a laser gauge in a self-consistent system. Front. Mar. Sci. 9:1102631. [https://doi.org/10.3389/fmars.2022.1102631](https://www.frontiersin.org/articles/10.3389/fmars.2022.1102631/full)
 
 2022
 ======
 **Zhao, B.**, Wang, G., Zhang, J. A., Liu, L., Liu, J., Xu, J., et al. (2022). The effects of ocean surface waves on tropical cyclone intensity: numerical simulations using a regional atmosphere-ocean-wave coupled model. Journal of Geophysical Research: Oceans, 127, e2022JC019015. [https://doi.org/10.1029/2022JC019015](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JC019015)
 
-Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss, [https://doi.org/10.5194/gmd-2022-77](https://gmd.copernicus.org/preprints/gmd-2022-77/)
+Yu, X., Liu, L., Sun, C., Jiang, Q., **Zhao, B.**, Zhang, Z., Yu, H., and Wang, B., 2022. CIOFC1.0: a Common Parallel Input/Output Framework Based on C-Coupler2.0, Geosci. Model Dev. Discuss. [https://doi.org/10.5194/gmd-2022-77](https://gmd.copernicus.org/preprints/gmd-2022-77/)
 
 2021
 ======
-Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, Geosci. Model Dev., 14, 2635-2657, [https://doi.org/10.5194/gmd-14-2635-2021](https://gmd.copernicus.org/articles/14/2635/2021/)
+Sun, C., Liu, L., Li, R., Yu, X., Yu, H., **Zhao, B.**, Wang, G., Liu, J., Qiao, F., and Wang, B., 2021. Developing a common, flexible and efficient framework for weakly coupled ensemble data assimilation based on C-Coupler2.0, Geosci. Model Dev., 14, 2635-2657. [https://doi.org/10.5194/gmd-14-2635-2021](https://gmd.copernicus.org/articles/14/2635/2021/)
 
 2019
 ======
