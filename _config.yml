@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christiana Marchese"
+title                    : "Christiana Marchese's Webpage"
 title_separator          : "-"
-name                     : &name "Christiana Marchese's Personal Website"
+name                     : &name "Christiana Marchese's Webpage"
 description              : &description "Senior Computer Science major at Pomona College"
 url                      : https://christymarc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
