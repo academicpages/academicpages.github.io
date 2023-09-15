@@ -18,15 +18,30 @@ redirect_from:
             height: 100vh; /* Make it full height of the viewport */
             border: none; /* Remove border around the iframe */
         }
+
+        /* Style for the download link */
+        .pdf-download {
+            display: none; /* Initially hide the download link */
+        }
+
+        /* Media query for screens with a maximum width of 768px (adjust as needed) */
+        @media (max-width: 768px) {
+            iframe {
+                display: none; /* Hide the iframe on smaller screens */
+            }
+            .pdf-download {
+                display: block; /* Show the download link on smaller screens */
+            }
+        }
     </style>
 </head>
 <body>
-    <h1></h1>
+    <h1>Your PDF</h1>
 
-    <!-- Embed the PDF using the <embed> element -->
-    <embed src="../files/cv.pdf" type="application/pdf">
+    <!-- Embed the PDF using the <iframe> element -->
+    <iframe src="../files/cv.pdf"></iframe>
 
     <!-- Provide a link to the PDF as a fallback -->
-    <p>If you are unable to view the PDF, you can <a href="../files/cv.pdf">download it here</a>.</p>
+    <p class="pdf-download">If you are unable to view the PDF, you can <a href="../files/cv.pdf">download it here</a>.</p>
 </body>
 </html>
