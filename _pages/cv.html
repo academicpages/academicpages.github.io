@@ -6,18 +6,27 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Your Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        /* Style for the iframe element */
+        iframe {
+            width: 100%; /* Make it full width of the screen */
+            height: 100vh; /* Make it full height of the viewport */
+            border: none; /* Remove border around the iframe */
+        }
+    </style>
 </head>
 <body>
-    <h1></h1>
+    <h1>Your PDF</h1>
 
-    <!-- Embed the PDF using the <object> element -->
-    <object data="../files/cv.pdf" type="application/pdf" width="100%" height="100">
-        <!-- Provide a link to the PDF as a fallback -->
-        <p>If you are unable to view the PDF, you can <a href="../files/cv.pdf">download it here</a>.</p>
-    </object>
+    <!-- Embed the PDF using the <iframe> element -->
+    <iframe src="../files/cv.pdf"></iframe>
+
+    <!-- Provide a link to the PDF as a fallback -->
+    <p>If you are unable to view the PDF, you can <a href="../files/cv.pdf">download it here</a>.</p>
 </body>
 </html>
