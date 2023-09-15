@@ -9,7 +9,7 @@ redirect_from:
 ---
 I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes **natural language processing，computer vision, computer graphics and machine learning**.    
 我是来自[郑州大学](http://www.zzu.edu.cn/)，[计算机与人工智能学院](http://www7.zzu.edu.cn/csai/)的大三学生。有志于进行**机器学习、自然语言处理、计算机视觉、计算机图形学**等方向的研究。  
-目前我已拿到了[中科院计算所高林老师](https://people.ucas.edu.cn/~ict_gaolin)项目组（CV方向）的实习，实习时间为2023.8-2024.9
+目前我已拿到了[中科院计算所高林老师](https://people.ucas.edu.cn/~ict_gaolin)项目组（geometry learning）的实习，实习时间为2023.8-2024.6
 
 Educational Background
 ------
@@ -50,7 +50,7 @@ Campus/Project Experience
 - **2023.02-2023.06 卓越快递APP 项目负责人**  
   \- 同时具有Android端、Web端、Server端  
   \- 具有快件下单、快件扫码揽收、包裹拆包/打包、快件派送、快件轨迹查询、快件实时状态查询等功能  
-  \- 软著在申
+  \- 获得软件著作权
 
 Skill Certificate
 ------
