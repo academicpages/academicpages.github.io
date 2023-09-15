@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694810710737</updated>
       <workItem from="1694810713188" duration="219000" />
-      <workItem from="1694811926773" duration="2733000" />
+      <workItem from="1694811926773" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="Updated _config.yml">
       <option name="closed" value="true" />
@@ -104,7 +102,47 @@
       <option name="project" value="LOCAL" />
       <updated>1694814642632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694814864443</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1694814864443</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694815055051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1694815055051</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694815069469</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1694815069469</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694815080036</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1694815080036</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694815158104</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1694815158104</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
