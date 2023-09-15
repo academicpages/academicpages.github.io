@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml">
+      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_config 3.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_data/authors 2.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_data/navigation 2.yml" afterDir="false" />
@@ -39,6 +40,11 @@
       <change afterPath="$PROJECT_DIR$/_includes/social-share 2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_includes/tag-list 2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/_includes/toc 2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talkmap/map 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talkmap/org-locations 3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694810710737</updated>
       <workItem from="1694810713188" duration="219000" />
-      <workItem from="1694811926773" duration="1685000" />
+      <workItem from="1694811926773" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="Updated _config.yml">
       <option name="closed" value="true" />
@@ -113,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694812908992</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694814199077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694814199077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
