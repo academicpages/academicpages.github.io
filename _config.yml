@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Rischling"
-  avatar           : # "profile.png"
+  avatar           : "profile.png"
   bio              : "Graduate student at Columbia University in the M.S. Information and Knowledge Strategy program. With a passion for biomimicry, systems theory, and category theory, I strive to unveil innovative theories that reshape our approach to global sustainability. Based in Omaha, Nebraska, my academic repository showcases a blend of research and projects, reflecting my journey towards a future PhD endeavor."
   location         : "Omaha, Nebraska, USA"
   employer         :
