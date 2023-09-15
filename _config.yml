@@ -191,10 +191,10 @@ collections:
 
 # Defaults
 defaults:
-  # _posts
+  # files
   - scope:
-      path: ""
-      type: posts
+      path: "files/Models"
+      type: files
     values:
       layout: single
       author_profile: true
@@ -210,40 +210,24 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  #- scope:
+      #path: ""
+      #type: teaching
+    #values:
+      #layout: single
+      #author_profile: true
+      #share: true
+      #comments: true
   # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+      #path: ""
+      #type: publications
+    #values:
+      #layout: single
+      #author_profile: true
+      #share: true
+      #comments: true
+
 
 # Sass/SCSS
 sass:
