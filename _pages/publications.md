@@ -1,13 +1,26 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
-Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my ongoing and recent work.
+I am broadly interested in developing statistical and machine learning methods with real-world applications in the areas of:
+* Causal inference
+* Conformal inference
+* Data integration
+* Federated and transfer learning
+* Sensitivity analysis
+
+Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications.
+
+Here, I highlight some of my ongoing and recent work.
 
 
 ## Statistical Methods
+**[Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/stoken/default+domain/UEWEJXD5NVZ9WK9JPQM5/full?redirectUri=/doi/full/10.1056/EVIDe2300142)**.  
+NEJM Evidence (2023).  
+**Han L.**
+In this editorial, I discuss the drawbacks of conventional survival analysis based on the proportional hazards assumption and highlight some advantages of using the restricted mean survival time (RMST).
 
 **[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
 Arxiv (2023).  
