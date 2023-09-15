@@ -2,9 +2,8 @@
 title: "Talk 1 on Relevant Topic in Your Field"
 collection: talks
 type: "Talk"
-permalink: /talks/
 venue: 
 date: 
 location: 
-link: 
+link: /talks/
 ---

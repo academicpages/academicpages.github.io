@@ -6,7 +6,7 @@ permalink:
 venue: "College of Education"
 date: 2023-03-27
 location: "Michigan State University" 
-link: 
+link: /talks/
 ---
 
 I shared my perspective, focusing on critical theory and scholars who have been questioning language models for a long time, like Emily Bender who was recently [profiled in this great articles](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html).
