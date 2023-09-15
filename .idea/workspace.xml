@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml">
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config 3.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/authors 2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/navigation 2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_data/ui-text 2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/analytics 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/archive-single 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/archive-single-cv 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/archive-single-talk 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/archive-single-talk-cv 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/author-profile 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/base_path 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/breadcrumbs 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/browser-upgrade 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/category-list 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comment 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/comments 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/feature_row 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/footer 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/gallery 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/group-by-array 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/head 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/masthead 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/nav_list 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/page__hero 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/page__taxonomy 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/paginator 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/post_pagination 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/read-time 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/scripts 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/seo 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/sidebar 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/social-share 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/tag-list 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_includes/toc 2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talkmap/map 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/talkmap/org-locations 3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/profile.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694810710737</updated>
       <workItem from="1694810713188" duration="219000" />
-      <workItem from="1694811926773" duration="2431000" />
+      <workItem from="1694811926773" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="Updated _config.yml">
       <option name="closed" value="true" />
@@ -127,7 +88,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694814199077</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694814632864</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694814632864</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694814642632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694814642632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
