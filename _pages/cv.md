@@ -1,4 +1,4 @@
-![image](https://github.com/ArvinZhuang/arvinzhuang.github.io/assets/46237844/c0da96ac-32fc-4803-bc1c-4ef17066fee6)---
+---
 layout: archive
 title: "CV"
 permalink: /cv/
