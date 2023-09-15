@@ -1,5 +1,5 @@
 ---
-title: "Reduce, Reuse, Recycle: Green Information Retrieval Researchs"
+title: "Reduce, Reuse, Recycle: Green Information Retrieval Research"
 collection: publications
 permalink: /publication/SIGIR2022GreenIR
 year: 2022
