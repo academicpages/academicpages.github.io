@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /research/
+permalink: /publications/
 author_profile: true
 ---
 I am broadly interested in developing statistical and machine learning methods with real-world applications in the areas of:
