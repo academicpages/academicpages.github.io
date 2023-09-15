@@ -1,4 +1,4 @@
----
+![image](https://github.com/ArvinZhuang/arvinzhuang.github.io/assets/46237844/c0da96ac-32fc-4803-bc1c-4ef17066fee6)---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -21,7 +21,12 @@ Work experience
   * Research Intern
   * Developing multimodal and multilingual entity retrieval models.
   * May 2022 - Nov 2022
-  
+    
+* The University of Queensland
+  * Tutor
+  * Tutoring of the INFS7410 (Information Retrieval and Web Search) course. Preparing and delivering course materials, assignments, and exam marking.
+  * July 2019 - May 2022
+    
 * The University of Queensland
   * Casual Research Assistant
   * Assist with the research and development of methods of information retrieval and evaluation based on online learning to rank.
@@ -46,7 +51,7 @@ Education
 * Ph,D Candidate in Computer Science, The University of Queensland, Australia, 2019 - current.
   * Thesis topic: Teaching Pre-trained Language Models to Rank Effectively, Efficiently and Robustly
 * Master of Information Technology, The University of Queensland, Australia, 2017 - 2018.
-  * GPA: 6.2/7 
+  * GPA: 6.3/7 
 * Bachelor of Electrical Engineering, China, Chongqing University of Science and Technology, 2012 - 2016.
   
 Teaching
