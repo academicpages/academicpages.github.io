@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Christiana Marchese's Personal Website"
+title                    : "Christiana Marchese"
 title_separator          : "-"
 name                     : &name "Christiana Marchese's Personal Website"
 description              : &description "Senior Computer Science major at Pomona College"
