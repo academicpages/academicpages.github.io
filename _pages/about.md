@@ -30,6 +30,9 @@ Updates
 <summary>2023</summary>
 <ul>
   <li>
+    11 Sep - A visual explainable "Conformal Prediction: A Visual Introduction" got accepted at VisXAI workshop. 
+  </li>
+  <li>
     25 Aug - Serving as a reviewer in AAAI 2024.
   </li>
   <li>
