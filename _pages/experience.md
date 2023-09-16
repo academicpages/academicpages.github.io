@@ -27,6 +27,6 @@ Automatically localize and classify thoracic abnormalities from chest X-ray scan
 
 * **01/2020 - 09/2020**<br />
 **Research Intern**<br />
-**Artificial Intelligence Solution for Industrial Applications Research Lab, VNU-HCM University of Science**<br />
+**Artificial Intelligence Solution for Industrial Applications Research Lab, VNUHCM - University of Science**<br />
 *Research Group: Vietnamese Natural Language Processing*<br />
 Extract insights from text data and automate customer support

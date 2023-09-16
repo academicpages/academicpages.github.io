@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 # **Hello! I’m Khiem**
-🌱 I’m an Artificial Intelligence enthusiast. I'm happy to connect and grow every day. 
+🌱 I am an Artificial Intelligence enthusiast. I am happy to connect and grow every day. 
