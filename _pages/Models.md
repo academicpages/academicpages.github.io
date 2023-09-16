@@ -3,8 +3,8 @@ title: "Models"
 layout: archive
 permalink: /files/Models/
 ---
-[_pages/files/Models/GFG Fractal.nlogo](_pages/files/Models/GFG Fractal.nlogo "GFG Fractal")
-A variety of common markup showing how the theme styles them.
+
+[_pages/files/Models/GFG Fractal.nlogo](_pages/files/Models/GFG Fractal.nlogo)
 
 # Header one
 
