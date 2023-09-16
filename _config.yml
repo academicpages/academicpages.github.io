@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Le Huy Khiem"
   avatar           : "khiem.png"
-  bio              : "I’m an Artificial Intelligence Enthusiast"
+  bio              : "I am an Artificial Intelligence Enthusiast"
   location         : 
   employer         :
-  linkedin         : "lhkhiem28"
+  linkedin         : 
   googlescholar    : "https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate"
   # email            : "lhkhiem28@gmail.com"
   researchgate     : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : lhkhiem28
   google_plus      :
   keybase          :
   instagram        :

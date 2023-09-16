@@ -8,7 +8,7 @@ author_profile: true
 * <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2023 - Present**</span><br />
 <span style="float: left;">Security and Artificial Intelligence Lab</span><span style="float: right;">VinUniversity</span><br />
 *Project: Federated Domain Generalization*<br />
-Domain generalization under the federated learning setting<br />
+Study the domain generalization problem under the federated learning setting<br />
 *Project: Federated Learning for Internet of Things*<br />
 Explore challenges and practicalities of federated learning for IoT applications
 
