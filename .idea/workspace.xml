@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/nrischling.github.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/Models/GFG Fractal.nlogo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/Models/Idea Spread WILDFIRE.nlogo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/paper3.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +62,7 @@
       <workItem from="1694811926773" duration="3112000" />
       <workItem from="1694815365562" duration="421000" />
       <workItem from="1694815793913" duration="154000" />
-      <workItem from="1694819466894" duration="852000" />
+      <workItem from="1694819466894" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="Updated _config.yml">
       <option name="closed" value="true" />
@@ -173,7 +160,31 @@
       <option name="project" value="LOCAL" />
       <updated>1694815192187</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694822001262</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1694822001262</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694822156325</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1694822156325</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694822285455</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1694822285455</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
