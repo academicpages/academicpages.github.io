@@ -6,9 +6,10 @@ author_profile: true
 
 <h3><a style="text-decoration:underline" href="https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en">Google Scholar Profile</a></h3>
 
-*Note: Please reach out to me over e-mail for PDFs not attchaed here/broken links*
+*Note: Please reach out to me over e-mail for PDFs not attached here/broken links*
 
 ## 2023
+* Conformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, **Zeel B Patel**, Nipun Batra, In VISxAI workshop 2023, IEEE VIS.
 * Deep Gaussian Processes for Air Quality Inference. Aadesh Desai, Eshan Gujarathi, Saagar Parikh, Sachin Yadav, **Zeel Patel**, Nipun Batra. In CODS-COMAD 2023 Young Researchers Symposium track.
 
 ## 2022
