@@ -14,4 +14,5 @@ I graduated from <a href="https://shahroodut.ac.ir/en/" style="color: #0011DB; t
 
 My research focuses on hardware accelerators, with an emphasis on AI and machine learning algorithms and embedded implementation of this algorithm.
 Currently, I'm a research assistant at Tehran Polytechnique.
+
 My fields of interest include **Machine Learning, Deep Learning, Image Processing, Computer Vision, Pattern Recognition, Real-time Embedded Systems and AI Hardware Accelerator**.
