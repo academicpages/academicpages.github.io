@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f881ba65-d8db-40ac-99fc-d138b8b6cffe" name="Changes" comment="Updated _config.yml">
-      <change afterPath="$PROJECT_DIR$/_pages/Models" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/files/Models/GFG Fractal.nlogo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_pages/files/Models/Idea Spread WILDFIRE.nlogo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/page-archive.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Models.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Models.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Models.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/Models.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/Models.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +50,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages/files/Models" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/files/Models" />
     </key>
@@ -70,7 +69,7 @@
       <workItem from="1694811926773" duration="3112000" />
       <workItem from="1694815365562" duration="421000" />
       <workItem from="1694815793913" duration="154000" />
-      <workItem from="1694819466894" duration="2035000" />
+      <workItem from="1694819466894" duration="2425000" />
     </task>
     <task id="LOCAL-00001" summary="Updated _config.yml">
       <option name="closed" value="true" />
@@ -208,7 +207,47 @@
       <option name="project" value="LOCAL" />
       <updated>1694822659158</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694823180297</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1694823180297</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694823255159</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1694823255159</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694823302891</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694823302891</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694823396997</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694823396997</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Updated _config.yml">
+      <option name="closed" value="true" />
+      <created>1694823413841</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1694823413841</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
