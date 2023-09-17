@@ -33,6 +33,14 @@ Plano de Curso
 Disponível no sistema SAGRES.
 
 
+Monitoria
+=======
+Terça-feira: 13:00h - 14:00h
+
+Sexta-feira: 13:00h - 14:00h
+
+Monitor: Ademir Júnior
+
 
 Datas das Provas
 ======
