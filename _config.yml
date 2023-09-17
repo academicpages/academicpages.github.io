@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Purba Das"
   avatar           : "purba1.png"
-  bio              : "Byrne Research Assistant Professor of Mathematics at the University of Michigan"
-  location         : "Office: 1833, East Hall"
-  employer         :
+  bio              : "Lecturer in Financial Mathematics, Department of Mathematics"
+  location         : "Office: S5.41, Strand Building, Strand Campus"
+  employer         : "King's College London"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=LbzAOCcAAAAJ&hl=en"
   email            : "purba.das@kcl.ac.uk"
   researchgate     : "https://www.researchgate.net/profile/Purba-Das-2"
   uri              :
@@ -103,9 +103,9 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : ""
   pinterest        :
-  soundcloud       :
+  soundcloud       :https://orcid.org/0000-0002-2692-969X
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
