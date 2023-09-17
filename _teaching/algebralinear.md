@@ -35,9 +35,9 @@ Disponível no sistema SAGRES.
 
 Monitoria
 =======
-Terça-feira: 13:00h - 14:00h
+Terça-feira: 13:00h - 14:00h  (módulo IV)
 
-Sexta-feira: 13:00h - 14:00h
+Sexta-feira: 13:00h - 14:00h  (Módulo IV)
 
 Monitor: Ademir Júnior
 
