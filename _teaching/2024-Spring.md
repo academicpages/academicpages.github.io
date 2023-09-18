@@ -1,5 +1,5 @@
 ---
-title: "POLS 317 Global Human Rights"
+title: "POLS 317: Global Human Rights"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2024-spring
