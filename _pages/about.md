@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate in Computer Science & Mathematics and Applied Mathematics from University of Electronic Science and Technology of China. Currently, I work as a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN&oi=ao). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ). Previously, I was an research intern at University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
+I am a graduate in Computer Science & Mathematics and Applied Mathematics from University of Electronic Science and Technology of China. Currently, I work as a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ). Previously, I was an research intern at University of Electronic Science and Technology of China, supervised by [Prof. Wen Li](https://wenli-vision.github.io/). Before that, I collaborated with JD Explore Academy as an independent contributor, working with [Dr. Liang Ding](https://liamding.cc/) and [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html).
 
 My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks (e.g., properties of large language models), as well as the application of artificial intelligence in other research areas (e.g., AI + biology, psychology). Currently, I am actively engaged in the research on Large Language Models (LLMs), with a specific focus on designing efficient and effective structures (e.g., Mixture of Experts).
 
@@ -29,7 +29,7 @@ My research interests primarily revolve around the interpretability and represen
   <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/shanghai_ai_lab2.png" /></dt>
   <dt>Shanghai Artificial Intelligence Laboratory</dt>
   <dd>2023/07 - Now</dd>
-  <d>Research Assistant, supervised by <a href="https://www.linkedin.com/in/chengyu05/">Prof. Yu Cheng</a></d>
+  <d>Research Assistant, supervised by <a href="https://scholar.google.com/citations?user=ORPxbV4AAAAJ">Prof. Yu Cheng</a></d>
   <dd>Large Language Models, Natural Language Processing</dd>
 </dl>
 
@@ -38,9 +38,9 @@ My research interests primarily revolve around the interpretability and represen
 <dl>
   <dt><img align="left" width="100" height="100" hspace="16" src="../images/logo/westlake.png" /></dt>
   <dt>Westlake University</dt>
-  <dd>2023/06 - Now</dd>
-  <d>Research Assistant, supervised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Y-nyLGIAAAAJ">Prof. Stan Z. Li</a></d>
-  <dd>Molecular Generation, AI for Drug Design</dd>
+  <dd>2023/04 - Now</dd>
+  <d>Research Assistant, supervised by <a href="https://scholar.google.com/citations?user=Y-nyLGIAAAAJ">Prof. Stan Z. Li</a></d>
+  <dd>Molecular Generation, AI for Drug Discovery and Development</dd>
 </dl>
 
 
