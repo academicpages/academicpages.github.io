@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Enzuo Zhu"
   avatar           : "profile.png"
-  bio              : "I'm a master student in computer science at UC Riverside, advised by Yan Gu and Yihan Sun. My interest relies in parallel algorithms, and also compilers and verification skills. Previously I was working with Prof. Cheng Li at USTC."
+  bio              : "I'm a master student in computer science at UC Riverside, advised by Yan Gu and Yihan Sun. "
   location         : "Riverside, California"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "ezhu021 at ucr dot edu"
+  email            : "ezhu021@ucr.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
