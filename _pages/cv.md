@@ -11,17 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Campion School, 10th Grade, 2019
+* PACE Junior Science College, 11th and 12th Grade, 2021
+* Indian Institute of Science Education and Research MohaliB, .Sc + Integrated M.Sc in Physics, 2026 (expected)
 
-Work experience
+Projects
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* Summer 2023: Introduction to Special Relativity and Analysis
+  * **Supervisor: Professor Jasjeet Singh Bagla**
+  * Project comprised of Lorentz transforms, Minkowski geometry analysis, paradoxes, four-vector formulation, analysis of accelerating frames including Rindler frames, electrodynamic effects and optical effects.
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
