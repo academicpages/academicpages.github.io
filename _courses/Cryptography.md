@@ -8,6 +8,8 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
+offered by Prof. Dr. May
+
 Course Description
 ======
 An introduction to modern methods of symmetric and asymmetric cryptography is provided. 
