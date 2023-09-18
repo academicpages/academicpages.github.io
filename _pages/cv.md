@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version]()
+[PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20September%202023.pdf)
 
 Education
 ======
