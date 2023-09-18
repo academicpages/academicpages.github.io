@@ -11,49 +11,43 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in University of Science and Technology of China, 2018-2022
+* M.S. in University of California, Riverside, 2022-current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Undergraduate Researcher
+  * University of Science and Technology of China
+  * Duties included: Building web systems and FPGA systems for Digital circuit labs.
+  * Supervisor: Professor Jianliang Lu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2020: Teaching Assistant for Computer Programming 1
+  * University of Science and Technology of China
+  * Supervisor: Professor Yinxing Xue
+
+* Fall 2021: Teaching Assistant for Compiler
+  * University of Science and Technology of China
+  * Supervisor: Professor Cheng Li
+
+* Spring 2023: Grader for CS218 Algorithm
+  * UC Riverside
+  * Supervisor: Yihan Sun
   
-Skills
+Academic Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2nd place in UCR Programming Contest 2022
+* 3rd prize in Huawei Bisheng Compiler Design Contest 2021
+* 2nd prize in Loongson FPGA Design Contest 2020
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+Noctua: Towards Automated and Practical Fine-grained Consistency Analysis (EurySys '24)
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+  {% endfor %}</ul> -->
+    
+Hobbies
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Magic The Gathering. (I won the 1st place in MTA Legacy Championship in Hefei, 2020. Also I was the vice president of USTC MTG club for the 2021 academic year)
+* Rhythm Games including Maimai(14300 rating in Maimai Universe+), OSU(2500pp in standred), Project Sekai (Rating 28.9).
+* Overwatch. (Diamond 3 in role challenger, Diamond 1 in Squad challenger in Seaon 5.)
