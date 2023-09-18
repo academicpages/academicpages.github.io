@@ -14,8 +14,9 @@ author_profile: true
 ## Internship
 
 + Undergraduate researcher, School of Mathematical Science, 2022.5 - now.
-+ Quantitative Researcher, Citadel Securities, 2022 Summer.
++ Quantitative Trading intern, Jane Street, 2023.6-2023.9
++ Quantitative Researcher intern, Citadel Securities, 2022.6-2022.9.
 
 ## Leadership
 
-+ **President**, Hedge Fund Association (HFA) of Peking University.
++ **President**, Hedge Fund Association (HFA) of Peking University, 2023.9 - now.
