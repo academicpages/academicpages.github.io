@@ -1,6 +1,6 @@
 ---
 title: "Cryptography"
-collection: courses
+collection: teaching
 type: "Undergraduate Course"
 permalink: /courses/Cryptography
 venue: "Ruhr University Bochum"
