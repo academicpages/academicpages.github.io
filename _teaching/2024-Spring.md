@@ -1,10 +1,10 @@
 ---
-title: "Course in Development: POLS 317 Global Human Rights"
+title: "POLS 317 Global Human Rights"
 collection: teaching
 type: "Undergraduate"
 permalink: /teaching/2024-spring
 venue: "Emory University, Department of Political Science"
-date: 2023-08-24
+date: 2024-01-14
 location: "In-person"
 ---
 
@@ -12,4 +12,4 @@ location: "In-person"
 
 Instructor
 
-Please contact me for the latest version of the syllabus.
+Course in development for Spring 2024. Please contact me for the latest version of the syllabus.
