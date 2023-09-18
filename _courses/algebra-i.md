@@ -2,7 +2,7 @@
 title: "Algebra I"
 collection: courses
 type: "Undergraduate Course"
-permalink: /courses/Cryptography
+permalink: /courses/algebra-i
 venue: "Ruhr University Bochum"
 date: 2019-10-01
 location: "Bochum, Germany"
