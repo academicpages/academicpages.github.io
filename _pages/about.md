@@ -22,6 +22,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[September 2023\] Beginning my internship at Amazon!
+
 \[August 2023\] One co-authored paper is accepted at **EuroSys 2024**. Congratulations!
 
 \[May 2023\] One paper is accepted at **KDD 2023**. Congratulations!
