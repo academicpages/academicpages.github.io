@@ -89,13 +89,13 @@ author:
   googlescholar    : 
   email            : "ms21254@iisermohali.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
+  uri              : "https://lambency.substack.com"
+  bitbucket        : "https://lambency.substack.com"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
+  foursquare       : "https://lambency.substack.com"
   github           : "ArnavMetrani"
   google_plus      :
   keybase          :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : "https://lambency.substack.com"
   steam            :
   tumblr           :
   twitter          :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://lambency.substack.com"
 
 
 # Reading Files
