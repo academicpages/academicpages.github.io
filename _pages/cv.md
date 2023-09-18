@@ -24,7 +24,7 @@ Projects
   * Project comprised of Lorentz transforms, Minkowski geometry analysis, paradoxes, four-vector formulation, analysis of accelerating frames including Rindler frames, electrodynamic effects and optical effects.
 * Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
   * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
-  *Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
+  * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
   
 Programming Skills
 ======
