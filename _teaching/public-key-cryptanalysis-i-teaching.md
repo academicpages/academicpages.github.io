@@ -1,7 +1,7 @@
 ---
 title: "Public Key Cryptanalysis I"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate / Graduate course"
 permalink: /teaching/public-key-cryptanalysis-teaching
 venue: "Ruhr University Bochum"
 location: "Bochum, Germany"
