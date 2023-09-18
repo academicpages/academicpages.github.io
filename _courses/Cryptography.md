@@ -1,7 +1,7 @@
 ---
 title: "Cryptography"
 collection: courses
-type: "Undergraduate / Graduate Course"
+type: "Undergraduate Course"
 permalink: /courses/Cryptography
 venue: "Ruhr University Bochum"
 date: 2022-10-01
