@@ -15,22 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Tutorial
------
-* Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications \[[Slides](https://shiruipan.github.io/post/GSSL_tutorial.pdf)\]  
-**Yixin Liu**, Yizhen Zheng, Ming Jin, Feng Xia, Shirui Pan.  
-IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
-
-## Preprint
------
-* Graph Neural Networks for Graphs with Heterophily: A Survey \[[PDF](https://arxiv.org/abs/2202.07082)\]  
-Xin Zheng, **Yixin Liu**, Shirui Pan, Miao Zhang, Di Jin, Philip S. Yu.  
-2022.
-
-* From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach \[[PDF](https://arxiv.org/abs/2202.05525)\]  
-Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
-2022.
-
 ## Conference
 -----
 * PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF]()\] \[[Code]()\]  
@@ -99,3 +83,19 @@ World Wide Web (**WWWJ**), 2021.
 * MRD-NETS: Multi-Scale Residual Networks with Dilated Convolutions for Classification and Clustering Analysis of Spacecraft Electrical Signal \[[PDF](https://ieeexplore.ieee.org/document/8876602)\]  
 **Yixin Liu**, Ke Li, Yuxiang Zhang, and Shimin Song.  
 IEEE Access, 2019. (<span style="color:red">*IF: 3.476*</span>)-->
+
+## Tutorial
+-----
+* Graph Self-Supervised Learning: Taxonomy, Frontiers, and Applications \[[Slides](https://shiruipan.github.io/post/GSSL_tutorial.pdf)\]  
+**Yixin Liu**, Yizhen Zheng, Ming Jin, Feng Xia, Shirui Pan.  
+IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
+
+## Preprint
+-----
+* Graph Neural Networks for Graphs with Heterophily: A Survey \[[PDF](https://arxiv.org/abs/2202.07082)\]  
+Xin Zheng, **Yixin Liu**, Shirui Pan, Miao Zhang, Di Jin, Philip S. Yu.  
+2022.
+
+* From Unsupervised to Few-shot Graph Anomaly Detection: A Multi-scale Contrastive Learning Approach \[[PDF](https://arxiv.org/abs/2202.05525)\]  
+Yu Zheng, Ming Jin, **Yixin Liu**, Lianhua Chi, Khoa T Phan, Shirui Pan, Yi-Ping Phoebe Chen.  
+2022.
