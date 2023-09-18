@@ -25,6 +25,7 @@ Projects
 * Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
   * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
   * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
+  * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
   
 Programming Skills
 ======
