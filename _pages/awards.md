@@ -14,8 +14,8 @@ author_profile: true
 
 ## Competitions
 
-+ **Gold prize** (3rd place worldwide) in International Mathematical Olympiad (IMO), 2020.
-+ **Bronze Prize**, 2023 Alibaba Global Mathematics Competition, 2023.
++ **Gold prize** (3rd place worldwide), 61st International Mathematical Olympiad (IMO), 2020.
++ Bronze Prize, 2023 Alibaba Global Mathematics Competition, 2023.
 + Gold prize (2nd place) in Chinese Mathematical Olympiad (CMO), 2019.
 + First prize in 13th Chinese Mathematics Competition, 2021.
 + Merit winner in Mathematical Contest in Modeling (MCM), 2022.
