@@ -13,3 +13,5 @@ I also like to play poker and joint several poker tournament. (*Best: 1st over m
 I like to play sports such as badminton and tennis, and I also like listening to songs in my spare time.
 
 Recently, I started to write my Wechat Blog. [Here](https://mp.weixin.qq.com/s/jF3f3R8vkk8CMpqDf0QQIw) is an article about my semester in Harvard in Chinese.
+
+I also published a Chat helper using OpenAI API [here](https://chat.jyi2002.com/). Please contact me as password is needed or you could also use personal OpenAI API.
