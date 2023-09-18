@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 I'm Enzuo Zhu(朱恩佐 in Chinese), a master student in computer science at UC Riverside, advised by Yan Gu and Yihan Sun. My current research work is about designing parallel algorithms to certain problems.
-
 Previously I was working with prof. Cheng Li at University of Science and Technology of China on automated verification skills on fine-grained consistency. 
+
+My research interests lie in various topics in computer sciences, especially in designing algorithms or solutions to parallel computing, verification, compiler, etc.
 
 News
 ======
