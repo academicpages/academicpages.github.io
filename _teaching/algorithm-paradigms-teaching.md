@@ -8,6 +8,7 @@ location: "City, Country"
 ---
 
 offered by Prof. Dr. Buchin
+
 Corrector (2021, 2022)
 
 Course Description
