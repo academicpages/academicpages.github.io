@@ -90,12 +90,12 @@ author:
   email            : "ms21254@iisermohali.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://lambency.substack.com"
-  bitbucket        : "https://lambency.substack.com"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       : "https://lambency.substack.com"
+  foursquare       : 
   github           : "ArnavMetrani"
   google_plus      :
   keybase          :
@@ -106,7 +106,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://lambency.substack.com"
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://lambency.substack.com"
+  wikipedia        : 
 
 
 # Reading Files
