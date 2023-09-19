@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 Hello! I'm Arnav Metrani, currently a physics undergraduate at Indian Institute of Science Education and Research, Mohali.
-I'm interested in a lot of things and I'd like to continue exploring. Feel free to check out the rest of the site!
+I'm interested in a lot of things and I'd like to continue exploring as much and as far as possible. Feel free to reach out to me via email regarding anything!
+
+I also host a blog on Substack, called [The Lambency of Life](https://lambency.substack.com).
