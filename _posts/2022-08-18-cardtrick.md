@@ -1,5 +1,5 @@
 ---
-title: 'Fitch Cheney's Card Trick'
+title: 'Card trick by Fitch Cheney'
 date: 2022-08-18
 permalink: /posts/2022/08/cardtrick/
 ---
