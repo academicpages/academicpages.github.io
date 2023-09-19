@@ -1,0 +1,93 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% SET DOCUMENT CLASS AND USE METROPOLIS THEME %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[15pt, numbering = counter]{beamer}
+\usetheme[progressbar=frametitle]{metropolis}
+
+\usepackage{pgfpages}
+\usepackage{fontawesome}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{graphics}
+\usepackage[T1]{fontenc}
+
+%%%% DEFINE COLORS
+\definecolor{mDarkBrown}{HTML}{604c38}
+\definecolor{mDarkTeal}{HTML}{23373b}
+\definecolor{mLightBrown}{HTML}{EB811B}
+\definecolor{mLightGreen}{HTML}{14B03D}
+\definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667}
+
+%%%% MISC SETTINGS
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{graphicx}
+\usepackage[round]{natbib}
+\usepackage{subcaption}
+\usepackage{smartdiagram}
+\usepackage{tabulary}
+\usepackage{caption}
+\captionsetup[figure]{font=tiny}
+\usepackage{tikz}
+\usepackage{pdfpages}
+
+%%%% APPENDIX
+\usepackage{appendix}
+\usepackage{appendixnumberbeamer}
+
+%%%% HYPERLINKS
+\usepackage[colorlinks]{hyperref}
+
+%%%% TITLE PAGE
+\title{TITLE \\
+{\small SUBTITLE}}
+\author{YOUR NAME}
+\institute{YOUR AFFILIATION}
+\date{\today}
+
+% https://github.com/matze/mtheme
+
+%%%%%%%%%%%%%%%%%%%%%%%%
+%%%% BEGIN DOCUMENT %%%%
+%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+
+\begin{frame}{OUTLINE}
+  \setbeamertemplate{section in toc}[sections numbered]
+  \tableofcontents[hideallsubsections]
+\end{frame}
+
+\section{Introduction}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Theory}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Methods}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Discussion}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{REFERENCES}
+\begin{frame}[allowframebreaks]{References}
+    \tiny\bibliographystyle{apalike}
+    \bibliography{} % INSERT BIB FILE HERE - EXPORT FROM MENDELEY, ZOTERO, END NOTE
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix
+
+\end{document}
