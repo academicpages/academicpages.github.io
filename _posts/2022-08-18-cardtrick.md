@@ -31,18 +31,63 @@ Now, it’s necessary for some information to be exchanged between Alice and Bob
 
 If you look closely, the card placed right next to the hidden card share their suit; a marker to convey information about the hidden card’s suit to Bob.[^2]
 Once the suit of the hidden card has been determined, the rank of the card still needs to be conveyed to Bob. 
+For this, we need to establish a system. 
+
+**In alphabetical order: Clubs will have the highest value, then Diamonds, then Hearts and at last, Spades.**
+Next, when we arrange the cards of any suit in a circle (based on their value) we notice that the shortest walk between any two cards is at most 6. For example, we can see below that we can either go from Q to 5 by traveling 6 steps clockwise, or by traveling 7 steps anti clockwise. Here, we choose to walk in anticlockwise as convention. 
+
+![Not a perfect circle, but it does the job…](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card5.webp)
+
+We can now arrange the remaining three cards (excluding the hidden card and the marked card that is) to signify any number from 1 to 6, _which covers all of the minimum length paths._ Since none of the cards share the same value, we can designate these three cards as High (H), Middle (M) and Low (L). This seems to be the simplest way to designate value as is based on the ascending order of the value of the permutations.[^3]
+
+$LMH = 1 , LHM = 2, MLH = 3, MHL = 4, HLM = 5, HML = 6.$
+
+Thus, in order to indicate the rank of the card, all we have to do is choose a direction to walk in order to reach the card, and the starting point of the walk. Since we have chosen anticlockwise as the convention, we now need to choose the card to be hidden accordingly, such that it takes at most 6 steps to reach it by walking anticlockwise.
+
+However, this would limit the choice of the hidden card. If in a random draw of 5 cards, cards with rank 2 and 7 were of the same suit, then only 7 could be hidden. This new system allows you to hide either 2 or 7.
+
+We will have to look at another method in order to overcome this restriction. Since there are 6 different ways of arranging the rest of the three cards and there are 12 possible walks from any chosen card, combinatorics alone will not be able to help us here. 
+
+Fortunately, the orientation of the face up cards comes in to save the day.
+Any one of the four cards can be rotated clockwise or anti clockwise slightly, in order to indicate the direction in which you need to ‘walk’ / count to reach the hidden card (from the card that shares the suit).
+
+This trick works even when you let the volunteer decide which one of the five cards should be hidden!
+The card that indicates the suit can be positoned accordingly in the arrangement of the four face up cards to convey the suit of the hidden card, even if their suits do not match.
+For this, let the four face up card positions (w.r.t to the face down card) be designated as (**Clubs,Diamonds,Hearts,Spades**). Now, all you have to do to indicate the suit and the rank of the hidden card is to place the card that indicates the suit at a slightly different level than the rest of the cards. Here, one of the cards will also have to be rotated slightly in order to indicate the direction of walk.
+To sum up how this method would work:
+
+1. Five cards are drawn randomly.
+![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card6.webp)
+2. The volunteer chooses the card to be hidden. ![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card7.webp)
+3. The attendant then places the face down card as the first card from the rest.
+![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card8.webp)
+4. The attendant then places one of the cards at a slightly different inclination than the rest to indicate the suit. This card will also serve at the starting point of the walk.
+![3rd position, as (Clubs,Diamonds,Hearts,Spades)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card9.webp)
+5. Follow the numbering system to indicate the length of the walk. 
+![LHM = 2 steps from the king.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card10.webp)
+6. Rotate one of the cards slightly anticlockwise to indicate the direction of the walk.
+7. The magician walks in, looks at the four face up cards and rightly predicts the face down card.
+
+This modification might give away too blatantly that information is being conveyed, but this is the only method I could think of that allowed the audience to choose the card to be hidden. It is surely something you should experiment with; to find better methods.
+
+#### This might take some time to get acquainted with, so you should try this out for yourself a couple of times with a deck of cards. 
+
+Finally, the ingenuity that has gone into this card trick is something to marvel at, from the utilization of the Pigeonhole Principle to clever combinatorics.
+
+_That’s the end! I hope you liked it._
+
+Here are some resources to dive deeper into the workings of the trick:
+
+- [Including the Joker card](https://puzzling.stackexchange.com/questions/10004/the-fitch-cheney-card-trick-extended)
+- [Generalization of the trick](https://mathoverflow.net/questions/20667/generalization-of-finch-cheneys-5-card-trick)
+- [Applications of the Pigeonhole principle](https://www.youtube.com/watch?v=TCZ3YwbcDaw)
 
 
 
 
 
-
-
-
-
-
-
-
-
+[^1]: Although this is not necessary. Read on.
+[^2]: To obscure this from the audience, Alice and Bob could decide beforehand to use some system for computing the positioning of the ‘marker’ card, eg. $(3n + 1) mod \ 4$ is the position of the face up card which matches suit for the nth time the trick is performed.
+[^3]: Of course, you could come with your own system as well.
 
 ------
