@@ -1,0 +1,98 @@
+\documentclass[15pt, xcolor=table]{beamer}
+\usepackage[utf8]{inputenc}
+\usepackage{xcolor}
+\usepackage{threeparttable}
+\usepackage{graphicx}
+\usepackage[round]{natbib}
+\usepackage{subcaption}
+\usepackage{smartdiagram}
+\usepackage{appendix}
+\usepackage{tabulary}
+\usepackage{caption}
+\captionsetup[figure]{font=tiny}
+
+\usepackage{appendixnumberbeamer}
+
+\usepackage{tikz}
+\usepackage{pdfpages}
+
+\AtBeginSection[]{\subsection{}}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=blue,
+    citecolor=red,
+    urlcolor=blue
+    }
+
+\makeatletter
+\long\def\beamer@@ssection*#1{\beamer@section[]{}}
+\makeatother
+
+% THEME SETTING
+\usetheme{Madrid}
+\setbeamertemplate{navigation symbols}{}
+\setbeamertemplate{footline}[frame number]
+\useoutertheme{miniframes}
+\setbeamertemplate{blocks}[default]
+
+% color scheme 
+\definecolor{UBCblue}{rgb}{0.04706, 0.13725, 0.26667}
+\usecolortheme[named=UBCblue]{structure}
+
+\setbeamercolor{section in head/foot}{fg=white,bg=gray}
+
+\makeatletter
+\setbeamertemplate{headline}{%
+    \begin{beamercolorbox}[ht=2.25ex,dp=3.75ex]{section in head/foot}
+        \insertnavigation{\paperwidth}
+    \end{beamercolorbox}%
+}%
+\makeatother
+
+% Information to be included in the title page:
+\title{YOUR TITLE}
+\subtitle{SUBTITLE}
+\author[shortname]{YOUR NAME}
+\institute[shortinst]{INSTITUTION}
+\date{\today}
+\titlegraphic{
+\includegraphics[width=3cm]{images/gsu_logo.jpg} % change this accordingly
+}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Theory}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Methods}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+\section{Discussion}
+\begin{frame}{Frame Title}
+    
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{REFERENCES}
+\begin{frame}[allowframebreaks]{References}
+    \tiny\bibliographystyle{apalike}
+    \bibliography{} % INSERT BIB FILE HERE - EXPORT FROM MENDELEY, ZOTERO, END NOTE
+\end{frame}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\appendix
+
+\end{document}
