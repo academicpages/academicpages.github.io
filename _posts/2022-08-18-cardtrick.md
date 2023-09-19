@@ -13,8 +13,11 @@ This trick was devised by Dr. William Fitch Cheney Jr. in the late 1950’s and 
 
 A participant picks up a deck of cards (no Jokers), shuffles it and then pulls out five cards at random. Alice (Magician A) picks up the cards, picks out one of them and places it face down onto the table, then arranges the remaining four cards face up on the table. The volunteer then calls Bob (Magician B) into the room, who looks at the face up cards and states the identity of the face down card!
 
+<figure>
+  <img src="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/images/Posts_Data/Card_Trick/card1.png" alt="my alt text"/>
+  <figcaption>The cards are drawn out.</figcaption>
+</figure>
 
-![The cards are drawn out.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/images/Posts_Data/Card_Trick/card1.png)
 
 ![All cards are face up.](https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card2.png)
 
