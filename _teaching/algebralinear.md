@@ -37,7 +37,7 @@ Monitoria
 =======
 Terça-feira: 13:00h - 14:00h  (módulo IV)
 
-Sexta-feira: 13:00h - 14:00h  (Módulo IV)
+Sexta-feira: 13:00h - 14:00h  (Módulo IV) e 14:40 - 16:20 (Sala 14 do Módulo I)
 
 Monitor: Ademir Júnior
 
@@ -45,7 +45,7 @@ Monitor: Ademir Júnior
 Datas das Provas
 ======
 
-P1: 22/09/2023 (FÍSICA), ~~20/09/2023~~ 27/09/2023 (MATEMÁTICA)
+P1: ^~~22/09/203~~ 25/09/2023 (FÍSICA), ~~20/09/2023~~ 27/09/2023 (MATEMÁTICA)
 
 P2: 30/10/2023 (FÍSICA), 01/11/2023 (MATEMÁTICA)
 
