@@ -13,13 +13,13 @@ This trick was devised by Dr. William Fitch Cheney Jr. in the late 1950’s and 
 
 A participant picks up a deck of cards (no Jokers), shuffles it and then pulls out five cards at random. Alice (Magician A) picks up the cards, picks out one of them and places it face down onto the table, then arranges the remaining four cards face up on the table. The volunteer then calls Bob (Magician B) into the room, who looks at the face up cards and states the identity of the face down card!
 
-![The cards are drawn out.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card1.webp)
+![The cards are drawn out.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card1.png)
 
-![All cards are face up.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card2.webp)
+![All cards are face up.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card2.png)
 
-![Bob is called into the room…](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card3.webp)
+![Bob is called into the room…](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card3.png)
 
-![…and correctly predicts the Jack of Hearts.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card4.webp)
+![…and correctly predicts the Jack of Hearts.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card4.png)
 
 Mind blowing isn’t it! The best part of this trick is that it doesn’t involve any sneaky tricks or sleight of card. Alice could even be replaced by a computer program and the trick would work out just fine.
 So you’d might want to spend some time on finding out how this trick works before looking at the solution.
@@ -36,7 +36,7 @@ For this, we need to establish a system.
 **In alphabetical order: Clubs will have the highest value, then Diamonds, then Hearts and at last, Spades.**
 Next, when we arrange the cards of any suit in a circle (based on their value) we notice that the shortest walk between any two cards is at most 6. For example, we can see below that we can either go from Q to 5 by traveling 6 steps clockwise, or by traveling 7 steps anti clockwise. Here, we choose to walk in anticlockwise as convention. 
 
-![Not a perfect circle, but it does the job…](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card5.webp)
+![Not a perfect circle, but it does the job…](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card5.png)
 
 We can now arrange the remaining three cards (excluding the hidden card and the marked card that is) to signify any number from 1 to 6, _which covers all of the minimum length paths._ Since none of the cards share the same value, we can designate these three cards as High (H), Middle (M) and Low (L). This seems to be the simplest way to designate value as is based on the ascending order of the value of the permutations.[^3]
 
@@ -57,14 +57,14 @@ For this, let the four face up card positions (w.r.t to the face down card) be d
 To sum up how this method would work:
 
 1. Five cards are drawn randomly.
-![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card6.webp)
-2. The volunteer chooses the card to be hidden. ![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card7.webp)
+![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card6.png)
+2. The volunteer chooses the card to be hidden. ![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card7.png)
 3. The attendant then places the face down card as the first card from the rest.
-![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card8.webp)
+![](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card8.png)
 4. The attendant then places one of the cards at a slightly different inclination than the rest to indicate the suit. This card will also serve at the starting point of the walk.
-![3rd position, as (Clubs,Diamonds,Hearts,Spades)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card9.webp)
+![3rd position, as (Clubs,Diamonds,Hearts,Spades)](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card9.png)
 5. Follow the numbering system to indicate the length of the walk. 
-![LHM = 2 steps from the king.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card10.webp)
+![LHM = 2 steps from the king.](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Posts_Data/Card_Trick/card10.png)
 6. Rotate one of the cards slightly anticlockwise to indicate the direction of the walk.
 7. The magician walks in, looks at the four face up cards and rightly predicts the face down card.
 
