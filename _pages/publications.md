@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **This section will be activated soon...** <br>
-You can also find my articles on <a href="https://scholar.google.com/" style="color: #0011DB;">my Google Scholar profile</a>.
+You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=Udim880AAAAJ&view_op=list_works&gmla=AP6z3ObFKaIm8vNkYCRr3ziax4AvW5LfW0YU_ceqRSKjv29JRgqFGs7p7Bfrk_6hotzC5lBFW5up515lIUJxoVBr" style="color: #0011DB;">my Google Scholar profile</a>.
 
 
 ## Research Experience
