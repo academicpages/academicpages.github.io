@@ -4,11 +4,12 @@
   location: Ames, IA
   text: |
     <ul>
-    <li>First author, “An Empirical Study of Deep Learning Models for Vulnerability Detection” (<b>accepted ICSE 2023</b>).</li>
-    <li>First author, “DeepDFA: Dataow Analysis-Guided Ecient Graph Learning for Vulnerability Detection.” (Preprint).</li>
-    <li>Contributing author, “Validating static warnings via testing code fragments” (<b>accepted ISSTA 2021</b>).</li>
-    <li>Conducted novel research resulting in 2 rst-author conference papers in submission to ICSE23 and ICLR23.</li>
-    <li>Collaborated with CERT lab @ Carnegie-Mellon University and ARiSE lab at Columbia University.</li>
+    <li>First author, "An Empirical Study of Deep Learning Models for Vulnerability Detection" (<b>accepted ICSE 2023</b>; 26% acceptance rate).</li>
+    <li>First author, "Dataflow Analysis-Inspired Deep Learning for Efficient Vulnerability Detection." (<b>accepted ICSE 2024</b>).</li>
+    <li>Contributing author, "TRACED: Execution-aware Pre-training for Source Code" (<b>accepted ICSE 2024</b>).</li>
+    <li>Contributing author, "Validating static warnings via testing code fragments" (<b>accepted ISSTA 2021</b>; 27% acceptance rate).</li>
+    <li>Conducted novel research resulting in 2 first-author conference papers in submission to ICSE24, one accepted and one presently under review.</li>
+    <li>Collaborated with ARiSE lab at Columbia University and CERT lab @ Carnegie-Mellon University.</li>
     <li>Improved experiment iteration time by building tools for static analysis (<a href="https://github.com/bstee615/tree-climber">tree-climber</a>) and dynamic analysis and code generation (<a href="https://github.com/bstee615/pal-tools">pal-tools</a>).</li>
     <li>Enabled collaboration on experiments by acquiring and maintaining bug benchmarks for use in experiments.</li>
     </ul>
