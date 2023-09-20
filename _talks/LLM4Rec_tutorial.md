@@ -13,6 +13,6 @@ Meanwhile, the emergence of Large Language Models (LLMs), such as ChatGPT and GP
 
 Given the rapid evolution of this research direction in recommender systems, there is a pressing need for a systematic overview that summarizes existing LLM-empowered recommender systems, so as to provide researchers and practitioners in relevant fields with an in-depth understanding. Therefore, in this survey, we conduct a comprehensive review of LLM-empowered recommender systems from various aspects including Pre-training, Fine-tuning, and Prompting. More specifically, we first introduce representative methods to harness the power of LLMs (as a feature encoder) for learning representations of users and items. Then, we review recent advanced techniques of LLMs for enhancing recommender systems from three paradigms, namely pre-training, fine-tuning, and prompting. Finally, we comprehensively discuss the promising future directions in this emerging field.
 
-[More information here]([http://exampleurl.com](https://advanced-recommender-systems.github.io/llms_rec_tutorial/))
+[More information here](https://advanced-recommender-systems.github.io/llms_rec_tutorial/)
 
 
