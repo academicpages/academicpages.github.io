@@ -10,6 +10,21 @@ List of peer-reviewed talks (enumerated) and invited talks or other conference c
 
 <br>
 
+### 2023
+
+(84) **"Two Species of Realism."** [with Vicente Raja] The 9th Biennial Meeting of the European Philosophy of Science Association, in Belgrade, Serbia (September 20-23, 2023).
+
+(83) **"Perception-Action Coupling and the Dynamicist/Computationalist Divide."** [with Bilal Arafaat* and Klaus Gramann; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(82) **"How WEIRD is Cognitive Science?."** [with Ed Baggs; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(81) **"Reading Comprehension as Embodied Action: Exploratory Findings on Nonlinear Eye Movement Dynamics and Comprehension of Scientific Texts."** [with Moritz Bammel*; poster] Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+(80) **"Ecological Psychology and Cognition in Context: Theoretical Foundations and Meta-Theoretical Implications."** Symposium _Embodied Cognition in Context_. Cognitive Science Society 2023 meeting, in Sydney, Australia (July 26 – 29, 2023)
+
+<br>
+
+
 ### 2022
 
 (79) **"Habit, Development and Epistemic Agency: On Becoming a Scientist."** Workshop _Rethinking Conscious Agency: The Architecture of Skilled Action_. Universitat de Barcelona, in Spain (April 28-29, 2022)
