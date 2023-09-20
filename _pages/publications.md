@@ -8,8 +8,8 @@ author_profile: true
 
 Manuscripts
 ======
-1. Ummenhofer CC, **Wang S**, Denniston RF, Murty SA Tropical Rain Belt Expansion and Contraction Over the Last Millennium Modulated by Pacific Decadal Variability (in prep)
-2.  **Wang S**, Ummenhofer CC, Murty SA, Nguyen HT, Buckley B Decadal-Scale Rainfall Extremes over Mainland Southeast Asia Dominated by Indo-Pacific Internal Variability (in prep)
+1. Ummenhofer CC, **Wang S**, Denniston RF, Murty SA Low-frequency covariability of the Austral-Asian monsoon associated with tropical basin interactions (in prep)
+2.  **Wang S**, Ummenhofer CC, Murty SA, Nguyen HT, Buckley B Clarifying the drivers of decadal-scale rainfall extremes over mainland Southeast Asia (in prep)
 3. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Bhatt E, (2023) Student-led mentoring system to lower barriers for graduate school applications (accepted at *Oceanography*)
 4. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths. *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023PA004674)
 5. **Wang S**, Ummenhofer CC, Oppo DW, Murty SA, Wagner P, Boning CW, Biastoch A (2023) Freshwater contributions to decadal variability of the Indonesian Throughflow. *Geophysical Research Letters* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023GL103906)
