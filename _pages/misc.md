@@ -18,6 +18,8 @@ Below you may find some miscellaneous links and materials of interest.
 ## Software
 - 💻 My guide for graduate students to learn [**coding in R**.](https://ozlemtuncel.github.io/files/Learning_R.pdf)
 - 📑 I prepare my presentations in **LaTeX** - here is my minimalist [sample presentation](https://ozlemtuncel.github.io/files/sample_presentation.pdf), the LaTeX code looks like [this](https://ozlemtuncel.github.io/files/latex_code_image.png), and [here the code in *.tex* format](https://ozlemtuncel.github.io/files/sample_presentation_latex.tex).
+- 💻 I have created three different Beamer presentations. Feel free to copy and use these: [Metropolis Theme](files/metropolis_theme.tex), [Madrid Theme](files/madrid_beamer.tex), and [Singapore Theme](files/singapore_beamer.tex).
+- 💻 I have created [this large project template in LaTeX](files/large_project_template.zip) (for journal articles, book, or dissertation projects). Download and upload to Overleaf to use it as your own. 
 
 ## Service
 - 🧑‍🤝‍🧑 I was the Chair of the 2023 Atlanta Symposium on Political Science (ASOPS), which is a graduate conference hosted by the Georgia State Department. Here is the website for [2023 ASOPS](https://sites.google.com/view/asops2023/home?authuser=0).
