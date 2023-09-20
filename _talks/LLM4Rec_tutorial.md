@@ -6,6 +6,7 @@ permalink: /talks/LLM4Rec_tutorial
 venue: "IEEE ICDM 2023"
 date: 2023-12-01
 location: "Shanghai, China"
+Authors: "Wenqi Fan, Jiatong Li, Zihuai Zhao, **Yunqing Liu**, Yiqi Wang" 
 ---
 With the prosperity of e-commerce and web applications, Recommender Systems (RecSys) have become an important component in our daily life, providing personalized suggestions that cater to user preferences. While Deep Neural Networks (DNNs) have made significant advancements in enhancing recommender systems by modeling user-item interactions and incorporating their textual side information, these DNN-based methods still have some limitations, such as difficulties in effectively understanding users’ interests and capturing textual side information, inabilities in generalizing to various seen/unseen recommendation scenarios and reasoning on their predictions, etc.
 
