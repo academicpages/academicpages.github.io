@@ -18,8 +18,8 @@ Below you may find some miscellaneous links and materials of interest.
 ## Software
 - 💻 My guide for graduate students to learn [**coding in R**.](https://ozlemtuncel.github.io/files/Learning_R.pdf)
 - 📑 I prepare my presentations in **LaTeX** - here is my minimalist [sample presentation](https://ozlemtuncel.github.io/files/sample_presentation.pdf), the LaTeX code looks like [this](https://ozlemtuncel.github.io/files/latex_code_image.png), and [here the code in *.tex* format](https://ozlemtuncel.github.io/files/sample_presentation_latex.tex).
-- 💻 I have created three different Beamer presentations. Feel free to copy and use these: [Metropolis Theme](https://github.com/ozlemtuncel/ozlemtuncel.github.io/blob/3543c6434b782656789a8b8a6c081f31d67016e4/files/metropolis_theme.tex), [Madrid Theme](https://github.com/ozlemtuncel/ozlemtuncel.github.io/blob/3543c6434b782656789a8b8a6c081f31d67016e4/files/madrid_beamer.tex), and [Singapore Theme](https://github.com/ozlemtuncel/ozlemtuncel.github.io/blob/3543c6434b782656789a8b8a6c081f31d67016e4/files/singapore_beamer.tex).
-- 💻 I have created [this large project template in LaTeX](files/large_project_template.zip) (for journal articles, book, or dissertation projects). Download and upload to Overleaf to use it as your own. 
+- 💻 I have created three different Beamer presentations. Feel free to copy and use these: [Metropolis Theme](https://ozlemtuncel.github.io/files/metropolis_theme.tex), [Madrid Theme](https://ozlemtuncel.github.io/files/madrid_beamer.tex), and [Singapore Theme](https://ozlemtuncel.github.io/files/singapore_beamer.tex).
+- 💻 I have created [this large project template in LaTeX](https://ozlemtuncel.github.io/files/large_project_template.zip) (for journal articles, book, or dissertation projects). Download and upload to Overleaf to use it as your own. 
 
 ## Service
 - 🧑‍🤝‍🧑 I was the Chair of the 2023 Atlanta Symposium on Political Science (ASOPS), which is a graduate conference hosted by the Georgia State Department. Here is the website for [2023 ASOPS](https://sites.google.com/view/asops2023/home?authuser=0).
