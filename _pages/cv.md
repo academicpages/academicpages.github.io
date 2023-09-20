@@ -31,7 +31,7 @@ Experience in deep learning, machine learning, program analysis, software develo
 # Publications
 <ul>
 {% for post in site.publications reversed %}
-  {% assign cv_venues = "conference-paper,thesis,poster" | split: "," %}
+  {% assign cv_venues = "conference-paper,preprint,thesis,poster" | split: "," %}
   {% if cv_venues contains post.venue-type %}
     {% include archive-single-cv.html %}
   {% endif %}
