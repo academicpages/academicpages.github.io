@@ -13,6 +13,16 @@
     <li>Enabled collaboration on experiments by acquiring and maintaining bug benchmarks for use in experiments.</li>
     </ul>
 
+- title: Research intern
+  date: May 2023 - Present
+  organization: Microsoft
+  location: Remote
+  text: |
+    <ul>
+    <li>Conducted research on improving large language models such as Codex using reinforcement learning.</li>
+    </ul>
+  #   <li>First-author conference paper in submission to ESEC/FSE24.</li>
+
 - title: Software Developer Intern
   date: 2018 - 2021
   organization: Ag Leader Technology, AgFiniti team
