@@ -11,7 +11,5 @@ Contact information is below, including email and various web services.
 * Twitter: <a href="http://twitter.com/adinep0ur" style="color: #0011DB; text-decoration: underline;">adinep0ur</a>
 * Facebook: <a href="https://www.facebook.com/reza.adinepour" style="color: #0011DB; text-decoration: underline;">reza.adinepour</a>
 * ```
-function test() {
   Skype: 
-}
 ```
