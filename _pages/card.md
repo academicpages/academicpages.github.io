@@ -11,7 +11,9 @@ author_profile: true
 
 Ph.D. Student, Iowa State University
 
-**Current work**: Research Intern, Microsoft Data & AI
+**Current work**:
+* Research Assistant, Iowa State University
+* Research Intern, Microsoft Data & AI
 
 **Located in**: Des Moines, IA
 
