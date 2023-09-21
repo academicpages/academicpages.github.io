@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a fourth-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
+* I am currently a Staff Research Scientist at Visa Research. I am also a final-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
 * My research interests lie in the broad area of trustworthy machine learning and graph data mining, particularly in fair graph learning, fairness evaluation, and reliable learning under distribution shifts.
 
@@ -17,6 +17,7 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
+  <p><span style="color:darkred;">[2023/09]</span> Three papers are accepted by NeurIPS 2023</p>
   <p><span style="color:darkred;">[2023/08]</span> Give an invited tutorial on Machine Learning in Finance Workshop at KDD23. [<a href="https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0">Websit</a>][<a href="http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf">Slides</a>][<a href="http://zhimengj0326.github.io/files/fairness_case_study.ipynb">Code</a>] </p>
   <p><span style="color:darkred;">[2023/07]</span> Receive Student Travel Grant Award from Texas A&M University.</p>
   <p><span style="color:darkred;">[2023/07]</span> Invited to serve as a PC member of LOG 2023 and AAAI 2024.</p>
