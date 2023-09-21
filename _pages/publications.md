@@ -18,6 +18,18 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[Chasing Fairness under Distribution Shift: a Model Weight Perturbation Approach](https://arxiv.org/pdf/2303.03300.pdf)
+</b><br> <b>Zhimeng Jiang\*</b>, Xiaotian Han\*, Hongye Jin, Guanchu Wang, Rui Chen, Na Zou, Xia Hu. <br>
+Neural Information Processing Systems(**NeurIPS**), 2023
+
+<b>[Fair Graph Distillation]()
+</b><br> Qizhang Feng, <b>Zhimeng Jiang</b>, Ruiquan Li, Yicheng Wang, Na Zou, Jiang Bian, Xia Hu. <br>
+Neural Information Processing Systems(**NeurIPS**), 2023
+
+<b>[Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model](https://arxiv.org/pdf/2305.15265.pdf)
+</b><br> Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, <b>Zhimeng Jiang</b>, Kaixiong Zhou, Vipin Chaudhary, Shuai Xu, Xia Hu. <br>
+Neural Information Processing Systems(**NeurIPS**), 2023
+
 <b>[DSpar: Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification.](https://openreview.net/forum?id=SaVEXFuozg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))
 </b><br>Zirui Liu, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <br>
 Transactions on Machine Learning Research (**TMLR**), 2023
