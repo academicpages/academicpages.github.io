@@ -29,7 +29,7 @@ We develop a novel methodology for multisource transfer learning, with applicati
 
 **[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
 Arxiv (2023).   
-*2023 ASA Student Paper Award of the Health Policy Statistics Section.*.  
+*2023 ASA Student Paper Award of the Health Policy Statistics Section.*  
 *2022 WNAR Best Oral Student Paper Presentation.*   
 **Han L,** Li Y, Niknam B, Zubizarreta J.  
 We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
