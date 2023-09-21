@@ -19,6 +19,17 @@ Education
   * Computer Science
   * Advisor(s) Cheng Li and Min Lv.
 
+
+Publications
+======
+* Noctua: Towards Automated and Practical Fine-grained Consistency Analysis (EurySys '24)
+
+Honors and Awards
+======
+* 2nd place in UCR Programming Contest 2022 graduate division
+* 3rd prize in Huawei Bisheng Compiler Design Contest 2021
+* 2nd prize in Loongson FPGA Design Contest 2020
+
 Work experience
 ======
 * Spring 2023: Grader for CS218 Algorithm
@@ -43,15 +54,7 @@ Work experience
   * Supervisor: Jianliang Lu
 
   
-Honors and Awards
-======
-* 2nd place in UCR Programming Contest 2022 graduate division
-* 3rd prize in Huawei Bisheng Compiler Design Contest 2021
-* 2nd prize in Loongson FPGA Design Contest 2020
 
-Publications
-======
-* Noctua: Towards Automated and Practical Fine-grained Consistency Analysis (EurySys '24)
 
     
 Other Interests
