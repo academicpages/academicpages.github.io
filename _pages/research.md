@@ -20,6 +20,12 @@ Combinatorics, 103, 103527. 
 
 4. Rubinstein-Salzedo, S., & **Sarkar, S**. (2020). [Stability for take-away games](https://cs.uwaterloo.ca/journals/JIS/VOL23/Rubinstein/rub3.html). Journal of Integer Sequences, 23.
 
+### In Submission
+
+1. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2022). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214).
+
+2. Braun, A.,  & **Sarkar, S**. (2022). The Secretary Problem with Predicted Additive Gap. 
+
 ### Surveys
 
 1. A [survey](http://sherrysarkar.github.io/files/KnapsackSoS.pdf) on sum of squares and pseudo-distributions used on the knapsack problem. Written by [Pravesh Kothari](http://www.cs.cmu.edu/~praveshk/) and I.
