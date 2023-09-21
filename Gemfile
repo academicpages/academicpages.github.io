@@ -24,4 +24,8 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'mastodon-social'	
+
+gem 'mastodon-api', :git => 'git://github.com/mastodon/mastodon-api.git'
+
 end
