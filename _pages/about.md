@@ -12,7 +12,7 @@ Hi, I am a fifth-year Ph.D. candidate from the Department of Engineering Mechani
 
 Currently, I am researching the analysis, simulation, design, and optimization of complex surface structures. Based on the explicit structure optimization method and computational conformal mapping technique, we construct a general framework to design surface structures. Applications include [the lightweight design, stiffness enhancement, and structure manipulation] of [shells, membranes, and low-dimensional materials]. The algorithms developed have been successfully applied to specific engineering projects and integrated into different software.
 
-Since I want to avoid being trapped in the computation framework, I'm also learning about measurement, experiment, manufacturing, and applications, which will reflect in future research.
+Other research interests are phase field modeling and general structure optimization, hope we can make some contributions to these aspects. Since I want to avoid being trapped in the computation framework, I'm also learning about measurement, experiment, manufacturing, and applications, which will reflect in future research.
 
 Please feel free to contact me if you are interested in my research and work, my Email is huowd@mail.dlut.edu.cn, and here are my social media accounts [Wechat](../images/wechat_fig.png) / [QQ](../images/tencent_qq.png).
 
