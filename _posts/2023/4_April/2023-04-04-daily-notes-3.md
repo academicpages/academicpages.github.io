@@ -1,22 +1,22 @@
 ---
 title: 'Robot-A Road to the Future for Mechanics'
-excerpt: "Reflections on the potential development of mechanics"
+excerpt: "Reflections on the potential development of mechanics."
 date: 2023-04-04
 permalink: /posts/2023/04/daily-notes-3/
-tags:
+Tags:
   - Daily
   - Project
 ---
 
-Recently, the success of ChatGPT has swept the whole media world. Major newspapers, websites, and we-media rushed to report it, and it's even impossible to tell whether this is the hope or the hype for a moment.
+Recently, the success of ChatGPT has swept the whole media world. Major newspapers, websites, and we-media rushed to report it, and it's impossible to tell whether this is the hope or the hype for a moment.
 
-Anyway, the success of ChatGPT in searching, integrating information, and chatting with people is undeniable. As a wise man said, the interaction and communication abilities of ChatGPT, despite whether the provided information is correct or not, are comparable to a human's raconteur.
+Anyway, the success of ChatGPT in searching, integrating information, and chatting with people is undeniable. As a wise man said, the interaction and communication abilities of ChatGPT, regardless of whether the provided information is correct or not, are comparable to a human's raconteur.
 
-The CEO of Microsoft, Mr Satya Nadella once commented profoundly ever: the success of ChatGPT originates from the behind NLP (Natural Language Processing) model and further reflects a persistent pursuit of human beings for hundreds of years, i.e., the process of abstracting, modeling, and systemizing existing human knowledge.
+The CEO of Microsoft, Mr. Satya Nadella once commented profoundly: the success of ChatGPT originates from the behind NLP (Natural Language Processing) model and further reflects a persistent pursuit of human beings for hundreds of years, i.e., the process of abstracting, modeling, and systemizing existing human knowledge.
 
-Such a wave indicates a revolutionary industrial era, that is, cyber intelligence will share responsibility for, or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, and become unimportant or even be marginalized due to the world turning upside down.
+Such a wave indicates a revolutionary industrial era, that is, cyber intelligence will share responsibility for, or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, become unimportant, or even be marginalized due to the world turning upside down.
 
-Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed on behalf of realizing a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
+Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed to realize a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
 
 The entity developed by these two aspects of technology will definitely defeat human beings in partial or even most of the fields.
 
@@ -51,7 +51,7 @@ Microsoft的CEO, Satya Nadella先生曾对于此做出深刻的描述，ChatGPT�
 
 实际上，赛博智能本身就是为了实现“仿人机器”，即机器人，而产生的。可以说，AI与Robot 本身就是一枚硬币的两面，分别代表了“仿人机器”的思想与躯干。这两方面技术发展所最终产生的实体，一定是能够在部分行为领域，甚至绝大多数领域碾压人类表现的。根据工业发展的必然规律，我们可以预见到在未来，工厂中的绝大多数工作，都将被机器人所取代。
 
-Since the science of mechanics is essientially rooted in human's passion for changing their fate, it is significantly affected or even determined by politcs, industry, and ecolomy. 
+Since the science of mechanics is essentially rooted in human's passion for changing their fate, it is significantly affected or even determined by politics, industry, and economy. 
 
 在这样的背景下，我们需要做以下思想实验：为了实现高度自动化的工厂，解放人类劳动力，我们力学专业可以做什么？
 
