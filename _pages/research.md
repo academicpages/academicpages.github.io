@@ -22,9 +22,9 @@ Combinatorics, 103, 103527. 
 
 ### In Submission
 
-1. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2022). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214).
+1. Buchbinder, N., Gupta, A., Hathcock, D., Karlin, A., & **Sarkar, S**. (2023). [Maintaining Matroid Intersections Online](https://arxiv.org/abs/2309.10214).
 
-2. Braun, A.,  & **Sarkar, S**. (2022). The Secretary Problem with Predicted Additive Gap. 
+2. Braun, A.,  & **Sarkar, S**. (2023). The Secretary Problem with Predicted Additive Gap. 
 
 ### Surveys
 
