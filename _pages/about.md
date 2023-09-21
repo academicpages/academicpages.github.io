@@ -16,5 +16,7 @@ I am also the developer of the regional coupled model [FIO-AOW](https://github.c
 The goal of my research is to better understand the air-sea-wave coupled processes and to improve tropical 
 cyclone and wind energy predictions. 
 
+Here is my [google scholar page](https://scholar.google.com/citations?user=YAZxa00AAAAJ&hl=en)
+
 
 
