@@ -17,6 +17,11 @@ author_profile: true
 
 ## Conference
 -----
+
+* Towards Self-Interpretable Graph-Level Anomaly Detection \[[PDF]()\] \[[Code]()\] 
+**Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan
+Advances in Neural Information Processing Systems (**NeurIPS**), 2023
+
 * PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF]()\] \[[Code]()\]  
 Junjun Pan\*, **Yixin Liu**\*, Yizhen Zheng\*, Shirui Pan.  
 IEEE International Conference on Data Mining (**ICDM**), 2023. 
