@@ -19,7 +19,7 @@ author_profile: true
 -----
 
 * Towards Self-Interpretable Graph-Level Anomaly Detection \[[PDF]()\] \[[Code]()\]    
-**Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan
+**Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan.    
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023
 
 * PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF]()\] \[[Code]()\]  
