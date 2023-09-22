@@ -1,7 +1,7 @@
 ---
 title: "Discrete Mathematics I"
 collection: courses
-type: "Graduate Course"
+type: "Undergraduate Course"
 permalink: /courses/discrete-mathematics
 venue: "Ruhr University Bochum"
 date: 2019-10-01
