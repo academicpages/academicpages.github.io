@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://rdpackages.github.io/references/Calonico-Cattaneo-Titiunik_2014_ECMA.pdf
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2014
+venue: 'Econometrica'
+paperurl: '[http://academicpages.github.io/files/paper1.pdf](https://rdpackages.github.io/references/Calonico-Cattaneo-Titiunik_2014_ECMA.pdf)'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
@@ -13,3 +13,10 @@ This paper is about the number 1. The number 2 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
+
+
+
+with Matias Cattaneo and Rocio Titiunik.
+
+Econometrica, 2014.  [pdf | appendix | software | bibtex]
