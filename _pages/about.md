@@ -12,7 +12,7 @@ I am a graduate in Computer Science & Mathematics and Applied Mathematics from U
 
 My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks (e.g., properties of large language models), as well as the application of artificial intelligence in other research areas (e.g., AI + biology, psychology). Currently, I am actively engaged in the research on Large Language Models (LLMs), with a specific focus on designing efficient and effective structures (e.g., Mixture of Experts).
 
-<span style="color: red"> **I am currently preparing for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me. I welcome the opportunity to connect.** </span>
+<span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me. I welcome the opportunity to connect.** </span>
 
 
 ## News
