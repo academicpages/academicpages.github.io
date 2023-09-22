@@ -2,9 +2,12 @@
 main:
   - title: "My Work"
     url: /my_work/
+
   - title: "CV"
     url: /cv/
+
   - title: "index"
     url: /index/
+    
   - title: "projects"
     url: /projects/
