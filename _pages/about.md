@@ -44,7 +44,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>07/2023: Recording of our Workshop on Symmetries in Robot Learning is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
+  <li>09/2023: Our paper <a href="https://openreview.net/pdf?id=2FMJtNDLeE">A General Theory of Correct, Incorrect, and Extrinsic Equivariance</a> is accepted at NeurIPS 2023.</li>
+  <li>07/2023: Recording of our <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
   <li>06/2023: I am honored to receive the <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023">2023 JP Morgan Chase PhD Fellowship</a>!</li>
   <li>04/2023: I give a guest lecture, <a href="https://www.youtube.com/watch?v=dx5rDtdv7LM">Equivariant Learning for Robotic Manipulation</a>. The lecture summarizes our latest research, so be sure to check it out!</li>
   <li>03/2023: We are organizing the <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> at RSS 2023.</li>
