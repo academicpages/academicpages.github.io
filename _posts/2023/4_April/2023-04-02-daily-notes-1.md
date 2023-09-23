@@ -1,9 +1,9 @@
 ---
-title: 'The so-called hello, world blog'
+title: 'The so-called Hello, world blog'
 date: 2023-04-02
 permalink: /posts/2023/04/daily-notes-1/
-tags:
+Tags:
   - Daily
 ---
 
-Here we are, you finally find this corner, congratulations!
+Here we are, you finally found this corner, congratulations!

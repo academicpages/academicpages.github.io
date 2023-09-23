@@ -12,29 +12,29 @@ Recently, the success of ChatGPT has swept the whole media world. Major newspape
 
 Anyway, the success of ChatGPT in searching, integrating information, and chatting with people is undeniable. As a wise man said, the interaction and communication abilities of ChatGPT, regardless of whether the provided information is correct or not, are comparable to a human's raconteur.
 
-The CEO of Microsoft, Mr. Satya Nadella once commented profoundly: the success of ChatGPT originates from the behind NLP (Natural Language Processing) model and further reflects a persistent pursuit of human beings for hundreds of years, i.e., the process of abstracting, modeling, and systemizing existing human knowledge.
+The CEO of Microsoft, Mr. Satya Nadella, once commented profoundly: the success of ChatGPT originates from the behind NLP (Natural Language Processing) model and further reflects a persistent pursuit of human beings for hundreds of years, i.e., the process of abstracting, modeling, and systemizing existing human knowledge.
 
-Such a wave indicates a revolutionary industrial era, that is, cyber intelligence will share responsibility for, or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, become unimportant, or even be marginalized due to the world turning upside down.
+Such a wave indicates a revolutionary industrial era. Cyber intelligence will share responsibility for or even replace human intelligence. I can't help reviewing the job at hand, whether it will be replaced by machines, become unimportant, or even be marginalized due to the world turning upside down.
 
-Against this background, I gradually perceived another shining clue, the robot. Essentially speaking, cyber intelligence is given birth and developed to realize a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
+Against this background, I gradually perceived another shining clue: the robot. Essentially, cyber intelligence is born and developed to realize a humanoid machine, i.e., the robot. Artificial intelligence and the robot are two sides of a coin, so to speak, which represent the thought and the shell of the humanoid machine, respectively.
 
-The entity developed by these two aspects of technology will definitely defeat human beings in partial or even most of the fields.
+The entity developed by these two aspects of technology will defeat human beings in partial or even most fields.
 
-According to the inevitable law of industrial development, wo can foresee that, in the future, most jobs in factories would be replaced by robots.
+According to the inevitable law of industrial development, we can foresee that, in the future, robots will replace most jobs in factories.
 
-Since the science of mechanics is essientially rooted in human's passion for changing their fate, it is significantly affected or even determined by politcs, industry, and ecolomy. 
+Since the science of mechanics is essentially rooted in human's passion for changing their fate, it is significantly affected or even determined by politics, industry, and economy. 
 
 So, what can we mechanics researchers do to realize a highly-automized factory and liberate human beings from heavy work？
 
-As for AI, it seems that the science of mechanics can only provide a testing ground for approximating functions. On the other hand, in terms of the shell of robots, mechanics will construct the fundamental framework of realizing the complex motions. Whereas, the research of robotics in the field of mechanics hasn't reached the level of "paying attention" for now.
+As for AI, it seems that the science of mechanics can only provide a testing ground for approximating functions. On the other hand, in terms of the shell of robots, mechanics will construct the fundamental framework for realizing the complex motions. At the same time, the robotics research in mechanics hasn't reached the "paying attention" level for now.
 
-The so-called automatization, in practice, is the process of replacing human workers with electric machines. The most terrible part is that the replaced individuals normally lose their jobs and become unemployed. If this process proceeds slowly, the unemployed individuals caused by the development of techniques take a small percentage, and our society is capable of diagnosing and controlling.
+The so-called automatization, in practice, is the process of replacing human workers with electric machines. The most terrible part is that the replaced individuals typically lose their jobs and become unemployed. If this process proceeds slowly, the unemployed individuals caused by the development of techniques will be a small percentage, and our society can diagnose and control.
 
-If this process is very violent, numerous unemployed occur and the stability of society would encounter enormous challenges.
+If this process is very violent, numerous unemployed occur, and the stability of society will encounter enormous challenges.
 
-Unfortunately, the novel industrial revolution points to the latter consequence. We have to think and plan in advance, so as to reply to the challenges of booming unemployed effectively.
+Unfortunately, the novel industrial revolution points to the latter consequence. We must think and plan to reply to the challenges of booming unemployment.
 
-Immersed in such a industrial wave, the insight of the sage Weinar is as reverberate as a thunder, 
+Immersed in such an industrial wave, the insight of the sage Weinar is as reverberate as thunder, 
 
  the name of a few reverberate like thunder
 
