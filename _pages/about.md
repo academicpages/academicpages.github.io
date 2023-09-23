@@ -12,7 +12,7 @@ I am a third-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 News
 ------
 * 2023/09: Our paper on [explainable graph anomaly detection]() has been accepted by NeurIPS 2023.
-* 2023/09: Our recent survey on [data-centric graph machine learning](https://arxiv.org/pdf/2309.10979.pdf) is now on arxiv.
+* 2023/09: Our recent survey on [data-centric graph machine learning](https://arxiv.org/pdf/2309.10979.pdf) is now on arXiv.
 * 2023/09: Our paper on [graph anomaly detection]() has been accepted by ICDM 2023.
 * 2023/06: We present a tutorial on [graph self-supervised learning](https://shiruipan.github.io/post/GSSL_tutorial.pdf) at IJCNN 2023.
 * 2023/05: Our paper on [weak information graph learning](https://arxiv.org/pdf/2305.18457.pdf) has been accepted by KDD 2023.
