@@ -165,7 +165,7 @@ Experience
 
 * **Monash University**, Research Assistant (worked with [Prof. Shirui Pan](https://shiruipan.github.io/)), 2021.
  
-* **Alibaba Inc.**, Research Intern (worked with [Dr. Zhao Li](https://sites.google.com/view/zhaoli)), 2020.
+* **Alibaba**, Research Intern (worked with [Dr. Zhao Li](https://sites.google.com/view/zhaoli)), 2020.
 
 Contact
 ------
