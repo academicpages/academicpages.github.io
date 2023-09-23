@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Download PDF](CV_Getnet_Demil_+_WE.pdf)
 
 {% include base_path %}
+[English CV](https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf)
 
 Education
 ======
