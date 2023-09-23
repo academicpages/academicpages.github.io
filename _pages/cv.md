@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[English CV](https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf)
+[English PDF](https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf)
 
 Education
 ======
