@@ -10,13 +10,13 @@ In general, a person's personality is constructed upon experiences and viewpoint
 
 Based on these points, it branches into two diverse profiles: conservativist and adventurer.
 
-Taking a comprehensive example, when an older man becomes very rich after hard work, and at the same time, he doesn't want to take risks for more money, he is the conservativist. On the other hand, when a young man starts his career with nothing, he can't be a coward and should care little about the danger and hardships, or he will die as a nobody. Then, he is the adventurer.
+Taking a comprehensive example, when a man becomes very rich after hard work, and at the same time, he doesn't want to take risks for more money, he becomes a conservativist. On the other hand, when a young man starts his career with nothing, he can't be a coward and should care little about the danger and hardships, or he will die as a nobody. Then, he is the adventurer.
 
 Visions could determine personalities. For instance, a conservativist is more likely to concentrate on the past. What he focuses on is the necessity. However, an adventurer gains power from the future; he counts on the possibility. These are core differences.
 
-However, the conservativist once was an adventurer, and the adventurer will be a future conservativist. 
+However, the conservativist once could be an adventurer, and the adventurer will be a future conservativist. 
 
 Every day, the adventurer and conservativist combat happens in many fields. Sometimes, there's no right or wrong. It's only about standpoint.
 {From the Eulerian perspective (fix the time flow)}
 
-历史有无数的可能；关于未来，我们需要做的就是推动历史向最利于我们发展的方向前进。
+The future has infinite possibilities, and we need to push history in the direction that benefits us most.
