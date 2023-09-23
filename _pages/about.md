@@ -10,7 +10,7 @@ redirect_from:
 
 ![alt text](https://raw.githubusercontent.com/kellieotto/kellieotto.github.io/master/images/working.JPG)
 
-I'm a data scientist interested in experimentation, hypothesis testing, causal inference, and the nuances of data about people. I'm the Tech Lead for Online A/B Experimentation at Pinterest, where I work to improve the experiment design quality across engineering and make our A/B testing platform simpler run high quality experiments.
+I'm a data scientist interested in learning about behavior via experimentation, causal inference, surveys, and online data. I am a Senior Data Scientist at [Fable](https://fable.co) developing metrics, analyzing experiments, and providing strategic recommendations based on user behavior. Previously, I have been in PM, data scientist, and tech lead roles doing Experimentation at Pinterest.
 
 As a statistician, I believe that we should always question assumptions and look at the big picture, not just the p-value. I enjoy uncovering opportunities to make other peoples' work easier and more trustworthy, and designing tools to bridge that gap.
 
@@ -21,4 +21,5 @@ Outside of statistics, I am passionate about food and fitness.
 Contact
 -------
 **LinkedIn:** https://www.linkedin.com/in/kellieottoboni/
+
 **Twitter:** [@kellieotto](www.twitter.com/kellieotto)
