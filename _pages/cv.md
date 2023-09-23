@@ -341,5 +341,7 @@ Studied, and worked in
   </div>
 </div>
  
-[Download CV in Pdf Format](CV_Getnet_Demil_+_WE.pdf)
+
+{% include base_path %}
+[Download CV in Pdf Format](https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf)
 
