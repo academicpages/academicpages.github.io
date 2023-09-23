@@ -98,7 +98,7 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 ## Preprint
 -----
 * Towards Data-centric Graph Machine Learning: Review and Outlook \[[PDF](https://arxiv.org/abs/2309.10979)\]  
-Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.
+Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
 
 * Graph Neural Networks for Graphs with Heterophily: A Survey \[[PDF](https://arxiv.org/abs/2202.07082)\]  
