@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zhgarfield"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          : 
   wikipedia        :
-  mastodon         : "https://fediscience.org/@zhgarfield"
+  mastodon         : "fediscience.org/@zhgarfield"
 
 # Reading Files
 include:
