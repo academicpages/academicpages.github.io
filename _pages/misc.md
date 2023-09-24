@@ -18,7 +18,7 @@ Below you may find some miscellaneous links and materials of interest.
 ## Software
 - 💻 My guide for graduate students to learn [**coding in R**.](https://ozlemtuncel.github.io/files/Learning_R.pdf)
 - 📑 I prepare my presentations in **LaTeX** - here is my minimalist [sample presentation](https://ozlemtuncel.github.io/files/sample_presentation.pdf), the LaTeX code looks like [this](https://ozlemtuncel.github.io/files/latex_code_image.png), and [here the code in *.tex* format](https://ozlemtuncel.github.io/files/sample_presentation_latex.tex).
-- 💻 I have created three different Beamer presentations. Feel free to copy and use these: [Metropolis Theme](https://ozlemtuncel.github.io/files/metropolis_theme.tex), [Madrid Theme](https://ozlemtuncel.github.io/files/madrid_beamer.tex), and [Singapore Theme](https://ozlemtuncel.github.io/files/singapore_beamer.tex).
+- 💻 I have created three different **Beamer presentations**. Feel free to copy and use these: [Metropolis Theme](https://ozlemtuncel.github.io/files/metropolis_theme.tex), [Madrid Theme](https://ozlemtuncel.github.io/files/madrid_beamer.tex), and [Singapore Theme](https://ozlemtuncel.github.io/files/singapore_beamer.tex).
 - 💻 I have created [this large project template in LaTeX](https://ozlemtuncel.github.io/files/large_project_template.zip) (for journal articles, book, or dissertation projects). Download and upload to Overleaf to use it as your own. 
 
 ## Service
