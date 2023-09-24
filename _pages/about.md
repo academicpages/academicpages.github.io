@@ -12,7 +12,7 @@ Hello! I'm Zhichuan MA, a second-year graduate student at the prestigious [Ecole
 
 Over the past four years, my academic pursuits have revolved around energy engineering and its interdisciplinary connections. My experiences at both [Zhejiang University](https://www.zju.edu.cn/english/) and [Ecole Polytechnique](https://www.polytechnique.edu/) have not only provided me with a deep understanding of energy engineering but have also endowed me with robust foundational knowledge in mathematics and physics. Coupled with this, I've honed advanced computer skills that have further amplified my academic capabilities.
 
-# Why do I creat this blog?
+# Why did I create this blog?
 
 In today's digital age, a personal profile extends beyond a resume or LinkedIn page. This blog is my canvas, painting a comprehensive picture of who I am, both professionally and academically. But it's more than just an about-me page; it's a bridge to connect, engage, and collaborate.
 
