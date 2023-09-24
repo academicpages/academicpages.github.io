@@ -16,7 +16,17 @@ Prior to this, I completed a Master of Science in Communication System Engineeri
 I have worked on several academic and personal projects, such as developing pose estimation algorithms for a vision-aided prosthetic arm grasping technique. <a href="https://getnetdemil.github.io/cv/">Details</a>
 
 <h2>Reasearch Interest</h2>
-My research interests primarily revolve around the fascinating domains of Deep Learning, Image Processing, Computer Vision, and Machine Learning. I am filled with immense enthusiasm when it comes to the realm of Artificial Intelligence and its profound potential to improve our world and enhance our living conditions. It is my earnest desire to actively contribute to this captivating and remarkable scientific field. My ultimate goal is to actively engage in addressing the existing challenges and unanswered questions within the domains of Deep Learning, Computer Vision and Machine Learning. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><br>
+My research interests primarily revolve around the fascinating domains of Deep Learning, Image Processing, Computer Vision, and Machine Learning. I am filled with immense enthusiasm when it comes to the realm of Artificial Intelligence and its profound potential to improve our world and enhance our living conditions. It is my earnest desire to actively contribute to this captivating and remarkable scientific field. My ultimate goal is to actively engage in addressing the existing challenges and unanswered questions within the domains of Deep Learning, Computer Vision and Machine Learning. <a href="https://getnetdemil.github.io/cv/">Details</a> <br><be>
+
+<h2>Portfolio</h2>
+{% include base_path %}
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<br><be>
 
 Thank you for visiting my page, and feel free to contact me for any further information or inquiries.
 <br><br>
