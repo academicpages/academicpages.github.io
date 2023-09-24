@@ -245,6 +245,16 @@ defaults:
       author_profile: true
       share: true
 
+  # Education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
