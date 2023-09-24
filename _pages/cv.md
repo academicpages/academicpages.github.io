@@ -23,10 +23,6 @@ Education
   * Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision 
   * 2022 - 2024
 
-* [Corporate Finance Institute® (CFI)](https://corporatefinanceinstitute.com/)
-  * International Certification Program, ALX Financial Analyst program 
-  * 2022 - 2023
-
 * [Bahir Dar Institute of Technology](https://bit.bdu.edu.et/), [Bahir Dar University-BDU, Ethiopia](https://www.bdu.edu.et/)
   * Master of Science - MS, Communication System Engineering · 
   * 2020 - 2022
@@ -42,69 +38,24 @@ Education
       <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
  </div>
 
-
-Awards
-======
-* [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
-  * Organizer: Africa Innovation Week 2019
-  * Date: 11/2019
-
-* Best Bahir Dar University Project of The Year 2018
-  * Organizer: [Bahir Dar University](https://www.bdu.edu.et/), Ethiopia
-  * Date: 06/2018
-  
-<div style="text-align: center;">
-  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
-</div>
-
-
-Work experience
-======
-* [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
-  * 3.5 years of Experience 
-  * Bahir  Dar, Ethiopia
-
-* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
-  * 1.5 Years of Experience 
-  * Bahir  Dar, Ethiopia
-  
-* G&D Graphics: Founder and CEO
-  * From 2020 - Present
-  * Bahir Dar, Ethiopia 
-
-* Paramount Student: Ambassador
-  * 6 months of experience 
-  * Remotely 
-* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
-   * 4 months of experience 
-   * Bahir Dar, Ethiopia
-  
-* [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
-  * 4 months of experience
-  * Bahir Dar, Ethiopia
-
-Skills, Tools and Libraries 
+Skills, Tools, and Libraries 
 ======
 * Programming Language
-   * C++, Python, MATLAB, SQL, R, VHDL, MERN Stack, Typescript, LaTex
+   * C++, Python, MATLAB, VHDL, MERN Stack, LaTex
 * Enterprise Resource Planning Software
   * SAP ERP (3.5 years of experience in a full role)
 * Language Skill
-  * Amharic-አማርኛ (Native)
   * English- Professional
-  * Spanish- Español (un poco)
+  * Amharic-አማርኛ (Native)
+  * Spanish- Español (A1)
 * Computer Hardware and Network troubleshooting Skills
    * Cisco Certified Network Associate, CCNA I, Huawei networking device
 * Microsoft Oﬀice Product
    * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
 * Simulator Sofwares Skill
    * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
-* Graphics Design Skill
-   * Adobe Photoshop, After Eﬀects, Video Editing Software
 * Operating System
-   * Microsoft Window, Ubuntu, Linux, CentOS, Kali Linux  
-* Leadership and Management Skills
-   * Young Africa Leaders Initiative- YALI Member
+   * Microsoft Windows, Ubuntu, Linux, CentOS, Kali Linux  
 * Some of the Programming languages, tools and libraries 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
@@ -188,31 +139,57 @@ Skills, Tools and Libraries
 </div>
 
 
-Projects and Researchs
+Awards
 ======
-* Measurements on recognition of objects to grasp with a robot arm on a hybrid system
-  * 2022 – Present, [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
+* [Best 50 African Project of the Year 2019](https://www.undp.org/ethiopia/news/undp-supported-2019-africa-innovation-week#:~:text=The%202019%20African%20Innovation%20Week,28th%20%E2%80%93%20November%202nd.)
+  * Organizer: Africa Innovation Week 2019
+  * Date: 11/2019
+
+* Best Bahir Dar University Project of The Year 2018
+  * Organizer: [Bahir Dar University](https://www.bdu.edu.et/), Ethiopia
+  * Date: 06/2018
   
-* Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
-  * 2022 – Present, [Bahir Dar University](https://www.bdu.edu.et/)
+<div style="text-align: center;">
+  <img src="/images/bit.jpg" alt="BDU" style="display: inline-block; width: 500px; height: 50px;">
+</div>
 
-* Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programing Language
-  * 2017 – 2018, [Bahir Dar University](https://www.bdu.edu.et/)
+    
 
-* Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language
-  * 2016 – 2017, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* VLSI Design for Electrical Equipmentʼs
-  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Computer Network Design for Company with Many Branch Oﬀice
-  * 2015 – 2016, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Design of PCB (Printed Circuit Board) For Mobile Charger Using Eagle SW
-  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
-
-* Bahir Dar University Student Online Grading System Using C++ Language
-  * 2014 – 2015, [Bahir Dar University](https://www.bdu.edu.et/)
+Projects and Research
+======
+* 2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation
+  * [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
+_____________________________________________________________________________________ 
+* 2023, 3D Reconstruction of an Object/Scene with Camera Calibration and Feature Matching
+  
+* 2023, Computer Vision Projects in Object Detection and Tracking
+  
+* 2023, Advanced Projects in People Detection and Biometric Recognition
+  
+* 2023, Multi-Database Evaluation and Enhancement of DeepFake Detection Systems
+  
+  * [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
+____________________________________________________________________    
+* 2022, Predicting Air Pressure System (APS) Failure at Scania Truck
+  
+* 2022, Heart (Murmur Sound) Diseases Classification using Machine Learning
+  
+* 2022, Custom Data Processing Program for Page Alignment, Optical Marker Detection, and Handwritten Data Digitization
+  
+* 2022, Custom Coin Detector and Identifier: Accurate Currency Quantification from Images
+  
+* 2022, Aerial Image Restoration and Land Type Identification System Using Customized Deconvolution and Texture Analysis
+  
+* 2022, Custom Human Action Classifier Using 3D GLOH Descriptors and SVM
+  
+  * [Pázmány Péter Catholic University](https://ppke.hu/en)
+_______________________________________________________________
+* 2022, Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
+ 
+* 2017 – 2018,  Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language
+  
+* 2016 – 2017,  Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language
+  * [Bahir Dar University](https://www.bdu.edu.et/)
 
 <div style="text-align: center;">
   <img src="/images/ub.png" alt="UBx" style="display: inline-block; width: 100px;">
@@ -221,35 +198,33 @@ Projects and Researchs
   <img src="/images/bdu3.jpg" alt="BDU" style="display: inline-block; width: 200px;">
 </div>
 
+Work experience
+======
+* [Ethiopian Electric Utility](http://www.ethiopianelectricutility.gov.et/): Junior Electrical Engineer 
+  * 3.5 years of Experience 
+  * Bahir  Dar, Ethiopia
+
+* [American Spaces Ethiopia](https://et.usembassy.gov/education-culture/american-spaces/): Technology Support Grantee
+  * 1.5 Years of Experience 
+  * Bahir  Dar, Ethiopia
+  
+* [Ethio Telecommunication](https://www.ethiotelecom.et/): Operations and Maintenance Engineer Intern
+   * 4 months of experience 
+   * Bahir Dar, Ethiopia
+  
+* [Amhara Media Corporation](https://www.amharaweb.com/english/): Radio and TV Broadcast Engineer Intern 
+  * 4 months of experience
+  * Bahir Dar, Ethiopia
 
 Certificates
 ======
+* Machine learning with Python
+* Deep Learning for Computer Vision
 * Cisco Certified Network Associate Routing and Switching Introduction
   * CCNA I
 * Cisco Certified Network Associate Routing and Switching Essential
   * CCNA II
 
-* American Space Badges
-  * Introduction to American Space
-  * Introduction to Strategic Planning
-  * Resources planning for American Space
-  * Programming in American Space
-  * Managing American Space
-  * American Space Digital Engagement
-  * Creating a Makerspace in American Space 
-
-   <div style="text-align: center;">
-        <img src="/images/ase (6).png" alt="UBx" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (4).png" alt="PPCU" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (3).png" alt="BDU" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (2).png" alt="UAM" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (5).png" alt="PPCU" style="display: inline-block; width: 60px;">
-        <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 60px;">
-   </div>
-
-* Young Africa Leadership Initiative
-  * YALI Entrepreneurship and Business Course Certificates
 
 Organizational and Voluntary Work
 ======
@@ -270,6 +245,29 @@ Organizational and Voluntary Work
 
 * Amahara Media Corporation Internship as Train Engineer
   * 02/2017 – 04/2017, Bahir Dar, Ethiopia
+ 
+* Young Africa Leadership Initiative
+  * YALI Entrepreneurship and Business Course Certificates
+    
+* American Space Badges
+  * Introduction to American Space
+  * Introduction to Strategic Planning
+  * Resources planning for American Space
+  * Programming in American Space
+  * Managing American Space
+  * American Space Digital Engagement
+  * Creating a Makerspace in American Space 
+
+   <div style="text-align: center;">
+        <img src="/images/ase (6).png" alt="UBx" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (7).png" alt="UAM" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (4).png" alt="PPCU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (3).png" alt="BDU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (2).png" alt="UAM" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (5).png" alt="PPCU" style="display: inline-block; width: 60px;">
+        <img src="/images/ase (1).png" alt="BDU" style="display: inline-block; width: 60px;">
+   </div>
+
   
 
 Studied, and worked in
