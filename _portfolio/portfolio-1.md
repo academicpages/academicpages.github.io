@@ -1,6 +1,6 @@
 ---
 title: "Coming Soon..."
-excerpt: "Under Constructions <br/><img src='/images/500x300.png'>"
+excerpt: "Under Constructions <br/><img src='/images/coin.gif'>"
 collection: portfolio
 ---
 
