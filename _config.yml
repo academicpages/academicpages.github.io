@@ -57,7 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "zhgarfield"
+  username               :# &twitter "zhgarfield"
+mastodon:
+  username		 : "fediscience.org/@zhgarfield"
 facebook:
   username               :
   app_id                 :
