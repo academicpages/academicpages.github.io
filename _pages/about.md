@@ -44,7 +44,7 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
-Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election](https://yongjunzhang.com/files/voteseg_preprint.pdf)." Social Science Research.
+Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election](https://authors.elsevier.com/a/1hpCB,17Rod9WC)." Social Science Research. 
 
 Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu. 2023. ''NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data.'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
 
