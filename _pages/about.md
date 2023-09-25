@@ -29,11 +29,11 @@ Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational an
 Applications in Data Integration for Real World Evidence. 
 
 Dec 10-16, 2023. **[Poster at NeurIPS]** New Orleans, LA.  
-Multiply Robust Federated Estimation of Targeted Average Treatment Effects.
+[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
 
 ## Recent News 
-Sep 21, 2023. **[Our paper "Multiply Robust Federated Estimation of TATEs" was accepted at NeurIPS 2023 as a poster!]**
+Sep 21, 2023. **[Our paper [Multiply Robust Federated Estimation of TATEs](https://arxiv.org/abs/2309.12600) was accepted at NeurIPS 2023 as a poster!]**
 
 Sep 20, 2023. **[Invited talk at Applied Statistics Workshop, Harvard Institute for Quantitative Social Science]** Cambridge, MA.  
 [Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects](https://projects.iq.harvard.edu/applied.stats.workshop-gov3009). 
