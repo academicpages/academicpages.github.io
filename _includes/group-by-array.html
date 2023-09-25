@@ -1,0 +1,47 @@
+{% comment %}
+# Jekyll Group-By-Array 0.1.0
+# https://github.com/mushishi78/jekyll-group-by-array
+# © 2015 Max White <mushishi78@gmail.com>
+# MIT License
+{% endcomment %}
+
+{% comment %} Initialize {% endcomment %}
+{% assign __empty_array = '' | split: ',' %}
+{% assign group_names = __empty_array %}
+{% assign group_items = __empty_array %}
+
+{% comment %} Map {% endcomment %}
+{% assign __names =  include.collection | map: include.field %}
+
+{% comment %} Flatten {% endcomment %}
+{% assign __names =  __names | join: ',' | join: ',' | split: ',' %}
+
+{% comment %} Uniq {% endcomment %}
+{% assign __names =  __names | sort %}
+{% for name in __names | sort %}
+
+  {% comment %} If not equal to previous then it must be unique as sorted {% endcomment %}
+  {% unless name == previous %}
+
+    {% comment %} Push to group_names {% endcomment %}
+    {% assign group_names = group_names | push: name %}
+  {% endunless %}
+
+  {% assign previous = name %}
+{% endfor %}
+
+
+{% comment %} group_items {% endcomment %}
+{% for name in group_names %}
+
+  {% comment %} Collect if contains {% endcomment %}
+  {% assign __item = __empty_array %}
+  {% for __element in include.collection %}
+    {% if __element[include.field] contains name %}
+      {% assign __item = __item | push: __element %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %} Push to group_items {% endcomment %}
+  {% assign group_items = group_items | push: __item %}
+{% endfor %}
