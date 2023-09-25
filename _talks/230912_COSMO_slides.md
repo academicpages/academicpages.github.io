@@ -4,6 +4,6 @@ collection: talks
 type: "Talk"
 permalink: /talks/230912_COSMO_slides
 venue: "COSMO'23 conference"
-date: 2023-09-12
+date: 2023-09-15
 location: "Madrid, Spain"
 ---
