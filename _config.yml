@@ -86,9 +86,9 @@ author:
   location         : "Tehran, Iran"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : https://scholar.google.com/citations?user=n0WbtPYAAAAJ&hl=en
   email            : "aa.soltanitehrani@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  https://www.researchgate.net/profile/Amirali-Soltani-2
   uri              :
   bitbucket        :
   codepen          :
