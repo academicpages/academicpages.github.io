@@ -17,16 +17,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Internship in [IPESE](https://www.epfl.ch/labs/ipese/), [EPFL](https://www.epfl.ch/fr/)
+  * exchange student
+  * Subjects: Life Cycle Assessment of hydrogen production electrolysis
+  * Supervisor: [François Maréchal](https://people.epfl.ch/francois.marechal)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
