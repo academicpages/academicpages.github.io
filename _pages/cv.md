@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in China, Zhejiang University, 2019-2023
-* M.S. in France, Ecole Polytechnique, 2023-2024 (on going)
+* M.S. in France, [Ecole Polytechnique](https://www.polytechnique.edu/), 2023-2024 (on going)
 * **looking for Ph.D position!**
 
 Work experience
