@@ -1,0 +1,39 @@
+\documentclass[preview]{standalone}
+\usepackage{xcolor}
+
+\usepackage{algorithm}
+\usepackage{algorithmicx}
+\usepackage[noend]{algpseudocode}	% for hyper cross referencing (algpseudocode MUST BE LOADED LATER)
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{array}					% For defining custom column types for tables
+\usepackage{colortbl}				% For colouring rows and columns in tables
+%\usepackage[texcoord,grid,gridunit=mm,gridcolor=red!10,subgridcolor=green!10]{eso-pic}
+\usepackage{handoutWithNotes}		% See www.guidodiepen.nl/2009/07/creating-latex-beamer-handouts-with-notes/ for more info
+%\pgfpagesuselayout{4 on 1 with notes}[a4paper,border shrink=5mm]
+\usepackage{mathtools}
+\usepackage{tikz}
+\usetikzlibrary{
+	calc,
+	positioning,
+	shapes.callouts,
+	shapes.geometric}
+\usepackage{xspace}
+
+%\usefonttheme[onlymath]{serif}		% For proper math fonts
+
+\input{preamble/colours.tex}
+\input{preamble/preamble.tex}
+
+\begin{document}
+\begin{tabular}{C{1cm}|C{0.4cm}C{0.4cm}C{0.4cm}C{0.4cm}C{0.4cm}|C{0.4cm}C{0.4cm}C{0.4cm}C{0.4cm}C{0.4cm}}
+	~		& \multicolumn{5}{c|}{$\firevarset$ ($\sigzero_{U}$, at $t_0$)} & \multicolumn{5}{c}{$\sensorvarset$ ($\sigone_{U}$, at $t_1$)} \\
+	\includegraphics[height=5mm]{img/fire.png}		& $\xb{}$ & $\xg{}$ & $\xo{}$ & $\xr{}$ & $\xp{}$ & $\yb{}$ & $\yg{}$ & $\yo{}$ & $\removedyr{}$ & $\yp{}$  \\ \midrule
+	$\varnothing$	& $0$	& $0$ & $0$ & $0$ & $0$   & $0$   & $0$ & $0$ & $\removedfalse$ & $0$   \\
+	$\{\brl\}$		& $1$	& $0$ &  $0$ & $0$ & $0$   & $1$   & $1$ & $0$ &  $\removedtrue$ &  $0$   \\ 
+	$\{\grl\}$		& $0$	& $1$ & $0$ & $0$ & $0$   & $1$   & $1$ & $1$ & $\removedfalse$ & $0$    \\ 
+	$\{\orl\}$		& $0$	& $0$ & $1$ & $0$ &  $0$   & $0$   & $1$ & $1$ & $\removedtrue$ & $1$	 \\ 
+	$\{\rrl\}$		& $0$	& $0$ & $0$ & $1$ & $0$   & $1$   & $0$ & $1$ & $\removedtrue$ & $1$ \\ 
+	$\{\prl\}$		& $0$	& $0$ & $0$ & $0$ & $1$   & $0$   & $0$ & $1$ & $\removedtrue$ & $1$ \\ \bottomrule
+\end{tabular}
+\end{document} 

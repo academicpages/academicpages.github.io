@@ -1,0 +1,425 @@
+
+
+\usepackage{annotate-equations}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{tcolorbox}
+
+% Room labels
+\newcommand{\brl}{\textcolor{myblue}{\mathbf{B}}}
+\newcommand{\grl}{\textcolor{mygreen}{\mathbf{G}}}
+\newcommand{\yrl}{\textcolor{myyellow}{\mathbf{Y}}}
+\newcommand{\orl}{\textcolor{myorange}{\mathbf{O}}}
+\newcommand{\rrl}{\textcolor{myred}{\mathbf{R}}}
+\newcommand{\prl}{\textcolor{mypurple}{\mathbf{P}}}
+
+\newcommand{\gbrl}{\textcolor{removedgray}{\mathbf{B}}}
+\newcommand{\ggrl}{\textcolor{removedgray}{\mathbf{G}}}
+\newcommand{\gyrl}{\textcolor{removedgray}{\mathbf{Y}}}
+\newcommand{\gorl}{\textcolor{removedgray}{\mathbf{O}}}
+\newcommand{\grrl}{\textcolor{removedgray}{\mathbf{R}}}
+\newcommand{\gprl}{\textcolor{removedgray}{\mathbf{P}}}
+
+% Sensor labels
+%\newcommand{\bsl}{\textcolor{myblue}{b}}
+%\newcommand{\gsl}{\textcolor{mygreen}{g}}
+%\newcommand{\ysl}{\textcolor{myyellow}{y}}
+%\newcommand{\osl}{\textcolor{myorange}{o}}
+%\newcommand{\rsl}{\textcolor{myred}{r}}
+%\newcommand{\psl}{\textcolor{mypurple}{p}}
+\newcommand{\bsl}{\textcolor{myblue}{\mathbf{B}}}
+\newcommand{\gsl}{\textcolor{mygreen}{\mathbf{G}}}
+\newcommand{\ysl}{\textcolor{myyellow}{\mathbf{Y}}}
+\newcommand{\osl}{\textcolor{myorange}{\mathbf{O}}}
+\newcommand{\rsl}{\textcolor{myred}{\mathbf{R}}}
+\newcommand{\psl}{\textcolor{mypurple}{\mathbf{P}}}
+
+% Colour injections
+\newcommand{\bcil}{\textcolor{myblue}{b^*}}
+\newcommand{\gcil}{\textcolor{mygreen}{g^*}}
+\newcommand{\ycil}{\textcolor{myyellow}{y^*}}
+\newcommand{\ocil}{\textcolor{myorange}{o^*}}
+\newcommand{\rcil}{\textcolor{myred}{r^*}}
+\newcommand{\pcil}{\textcolor{mypurple}{p^*}}
+
+% Variables
+\newcommand{\xb}{\firevar_{\bsl}}
+\newcommand{\xg}{\firevar_{\gsl}}
+\newcommand{\xy}{\firevar_{\ysl}}
+\newcommand{\xo}{\firevar_{\osl}}
+\newcommand{\xr}{\firevar_{\rsl}}
+\newcommand{\xp}{\firevar_{\psl}}
+
+\newcommand{\yb}{\sensorvar_{\bsl}}
+\newcommand{\yg}{\sensorvar_{\gsl}}
+\newcommand{\yy}{\sensorvar_{\ysl}}
+\newcommand{\yo}{\sensorvar_{\osl}}
+\newcommand{\yr}{\sensorvar_{\rsl}}
+\newcommand{\yp}{\sensorvar_{\psl}}
+
+% Removed variables
+\newcommand{\removedxb}{\textcolor{removedgray}{\firevar_{\mathbf{B}}}}
+\newcommand{\removedxg}{\textcolor{removedgray}{\firevar_{\mathbf{G}}}}
+\newcommand{\removedxy}{\textcolor{removedgray}{\firevar_{\mathbf{Y}}}}
+\newcommand{\removedxo}{\textcolor{removedgray}{\firevar_{\mathbf{O}}}}
+\newcommand{\removedxr}{\textcolor{removedgray}{\firevar_{\mathbf{R}}}}
+\newcommand{\removedxp}{\textcolor{removedgray}{\firevar_{\mathbf{P}}}}
+
+\newcommand{\removedyb}{\textcolor{removedgray}{\sensorvar_{\mathbf{B}}}}
+\newcommand{\removedyg}{\textcolor{removedgray}{\sensorvar_{\mathbf{G}}}}
+\newcommand{\removedyy}{\textcolor{removedgray}{\sensorvar_{\mathbf{Y}}}}
+\newcommand{\removedyo}{\textcolor{removedgray}{\sensorvar_{\mathbf{O}}}}
+\newcommand{\removedyr}{\textcolor{removedgray}{\sensorvar_{\mathbf{R}}}}
+\newcommand{\removedyp}{\textcolor{removedgray}{\sensorvar_{\mathbf{P}}}}
+
+\newcommand{\removedtrue}{\textcolor{removedgray}{1}}
+\newcommand{\removedfalse}{\textcolor{removedgray}{0}}
+
+% Images
+\newcommand{\detectoroff}{img/smoke_detector_small.png}
+\newcommand{\detectoron}{img/smoke_detector_red_small.png}
+\newcommand{\lightbulboff}{img/lightbulb-off_small.png}
+\newcommand{\lightbulbgreen}{img/lightbulb-green_small.png}
+\newcommand{\lightbulbblue}{img/lightbulb-blue_small.png}
+\newcommand{\lightbulbyellow}{img/lightbulb-yellow_small.png}
+\newcommand{\lightbulborange}{img/lightbulb-orange_small.png}
+\newcommand{\lightbulbred}{img/lightbulb-red_small.png}
+\newcommand{\lightbulbpurple}{img/lightbulb-purple_small.png}
+
+% Math
+\DeclarePairedDelimiter\abs{\lvert}{\rvert}%
+\newcommand{\true}{\top}
+\newcommand{\false}{\bot}
+
+% SYMBOL MACROS
+\newcommand{\graph}{\Gamma}
+
+\newcommand{\assign}{\sigma}                % a variable assignment
+\newcommand{\sol}{\sigma}                   % a variable assignment that is also a solution
+\newcommand{\support}[1]{sup\left({#1}\right)}
+
+\newcommand{\sensorset}{D}                  % the set of rooms in which we place a sensor
+\newcommand{\maxidset}{k}                   % the maximum cardinality of a uniquely identifiable set
+\newcommand{\signature}{s}                  % a signature (ordered pair of sets)
+
+\newcommand{\sigzero}{S^0}                  % the first element of a signature
+\newcommand{\sigone}{S^1}                   % the second element of a signature
+\newcommand{\sigpair}[2]{\left\langle {#1}, {#2} \right\rangle}
+\newcommand{\fullsig}[1]{\left\langle \sigzero_{#1}, \sigone_{#1} \right\rangle}
+
+\newcommand{\auxvarset}{A}                  % set of auxiliary variables
+\newcommand{\projset}{P}                    % set of variables of interest
+\newcommand{\firevar}{x}                    % a fire variable
+\newcommand{\firevarset}{X}                 % the set of fire variables
+\newcommand{\sensorvar}{y}                  % a sensor variable
+\newcommand{\sensorvarset}{Y}               % the set of sensor variables
+\newcommand{\indvar}{e}                     % an indicator variable
+\newcommand{\indvarset}{E}                  % the set of indicator variables
+
+\newcommand{\indsup}{I}                     % independent support
+\newcommand{\groupindsup}{\mathcal{I}}      % a set of sets of variables (groups) that form an independent support
+\newcommand{\singleset}{\mathcal{S}}        % a set of variables that are not grouped
+\newcommand{\group}{G}                      % a set of variables that form a group
+\newcommand{\groupset}{\mathcal{G}}         % the full set of groups
+\newcommand{\unknown}{Q}                    % the set of variables for which to determine if they are part of the minimised independent support
+\newcommand{\invariant}{C}
+\newcommand{\assumptions}{\xi}
+\newcommand{\timelimit}{\tau}
+
+\newcommand{\inject}{I}           % injection set
+\newcommand{\clabel}{\ell}                  % colour label
+
+\newcommand{\sensorplacementproblem}[1]{SPP-${#1}$}
+\newcommand{\uniquegraphcolouring}{UGCP-$\maxidset$}
+\newcommand{\ouralgo}{{\sf gismo}}
+\newcommand{\ilpmethod}{{\sc pbpbs}}
+
+\newcommand{\arjun}{\textsf{Arjun}}
+\newcommand{\Cpp}{\mbox{C\Rplus\Rplus}\xspace}
+\newcommand{\cplex}{{\sf\small CPLEX}}
+\newcommand{\cryptominisat}{\textsf{CryptoMiniSat}}
+\newcommand{\Rplus}{\protect\hspace{-.1em}\protect\raisebox{.35ex}{\smaller{\smaller\textbf{+}}}}
+\newcommand{\github}{\textsf{GitHub}}
+\newcommand{\gurobi}{\textsf{Gurobi}}
+\newcommand{\pblib}{\textsf{PBLib}}
+\newcommand{\python}{\textsf{Python 3.5}}
+
+% TEXT MACROS
+\newcommand{\mycite}[1]{\textcolor{nus-orange}{[#1]}}
+\newcommand{\eg}{\textit{e.g.}}
+\newcommand{\ie}{\textit{i.e.}}
+\newcommand{\etc}{\textit{etc.}}
+\newcommand{\wrt}{\textit{w.r.t.}}
+\newcommand{\etal}{\textit{et al.}}
+
+% TABLE MACROS
+\newcolumntype{a}{>{\columncolor{Grey}}c}
+\newcolumntype{C}{>{\centering\arraybackslash}m}	% Use this for animated columns
+\newcolumntype{L}{>{\arraybackslash}m}	% Use this for animated columns
+
+\newcommand{\inlinebluelight}{%
+  \raisebox{-.2\height}{\includegraphics[height=6mm]{img/lightbulb-blue.png}}
+}
+
+% TIKZ elements
+
+\tikzset{
+	notice/.style  = { draw=nus-blue, fill=nus-white, rectangle callout, align=center, callout relative pointer={#1} },
+	bignode/.style = {circle,minimum size=2cm,draw=black},
+	smallnode/.style = {circle,minimum size=0.75cm,draw=black},
+	darksmallnode/.style = {circle,minimum size=0.75cm,fill=black!20,draw=black},
+}
+
+\newcommand{\drawingbox}{
+%	\path[draw] (-10mm, -5mm) rectangle ++(140mm,80mm);  %  <-- transparent path
+	\path (-10mm, -5mm) rectangle ++(140mm,80mm);  %  <-- transparent path
+}
+
+
+\newcommand{\roomcolours}{
+	% Background colours
+	\fill[fill=mygreen!30] (\xscale*0, \yscale*4) rectangle (\xscale*4, \yscale*8);
+	\fill[fill=myblue!30] (\xscale*0, \yscale*0) rectangle (\xscale*4, \yscale*4);
+	\fill[fill=myorange!30] (\xscale*4, \yscale*4) rectangle (\xscale*8, \yscale*8);
+	\fill[fill=myred!30] (\xscale*4, \yscale*0) rectangle (\xscale*8, \yscale*4);
+	\fill[fill=mypurple!30] (\xscale*8, \yscale*0) rectangle (\xscale*12, \yscale*8);			
+}
+
+\newcommand{\roomoutlines}{
+	% room Green
+	\draw[ultra thick] (\xscale*0, \yscale*4) -- (\xscale*0, \yscale*8) -- (\xscale*4, \yscale*8) -- (\xscale*4, \yscale*6.5);
+	\draw[ultra thick] (\xscale*4.3, \yscale*6.5) -- (\xscale*4, \yscale*5.5) -- (\xscale*4, \yscale*4);
+	
+	% room Blue
+	\draw[ultra thick] (\xscale*4, \yscale*1.5) -- (\xscale*4, \yscale*0) -- (\xscale*0, \yscale*0) -- (\xscale*0, \yscale*4) -- (\xscale*1.5, \yscale*4) -- (\xscale*2.5, \yscale*4.3);
+	\draw[ultra thick] (\xscale*2.5, \yscale*4) -- (\xscale*4, \yscale*4) -- (\xscale*4, \yscale*2.5) -- (\xscale*3.7, \yscale*1.5);
+	
+	% room orange
+	\draw[ultra thick] (\xscale*4, \yscale*8) -- (\xscale*8, \yscale*8) -- (\xscale*8, \yscale*6.5) -- (\xscale*8.3, \yscale*5.5);
+	\draw[ultra thick] (\xscale*8, \yscale*5.5) -- (\xscale*8, \yscale*4) -- (\xscale*6.5, \yscale*4);
+	\draw[ultra thick] (\xscale*6.5, \yscale*4.3) -- (\xscale*5.5, \yscale*4) -- (\xscale*4, \yscale*4);
+	
+	% room Red
+	\draw[ultra thick] (\xscale*8, \yscale*4) -- (\xscale*8, \yscale*4) -- (\xscale*8, \yscale*2.5);
+	\draw[ultra thick] (\xscale*7.7, \yscale*2.5) -- (\xscale*8, \yscale*1.5) -- (\xscale*8, \yscale*0) -- (\xscale*4, \yscale*0);
+	
+	% room Purple
+	\draw[ultra thick] (\xscale*8, \yscale*8) -- (\xscale*12, \yscale*8) --  (\xscale*12, \yscale*0) -- (\xscale*8, \yscale*0); -- (\xscale*12, \yscale*0) -- (\xscale*8, \yscale*0);
+}
+
+\newcommand{\roomlabels}{
+	\node (gr) at (\xscale*2, \yscale*6) {$\grl{}$};
+	\node (br) at (\xscale*2, \yscale*2) {$\brl{}$};
+	\node (yr) at (\xscale*6, \yscale*6) {$\orl{}$};
+	\node (rr) at (\xscale*6, \yscale*2) {$\rrl{}$};
+	\node (pr) at (\xscale*10, \yscale*4) {$\prl{}$};	
+
+}
+
+\newcommand{\roomgraph}{
+	\node[circle,fill=gray] (gt0) at (\xscale*2, \yscale*15) {};
+	\node[circle,fill=gray] (bt0) at (\xscale*2, \yscale*11) {};
+	\node[circle,fill=gray] (ot0) at (\xscale*6, \yscale*15) {};
+	\node[circle,fill=gray] (rt0) at (\xscale*6, \yscale*11) {};
+	\node[circle,fill=gray] (pt0) at (\xscale*10, \yscale*13) {};	
+		
+	\path[draw,thick]
+	(gt0) edge (bt0)
+	edge (ot0)
+	(bt0) edge (rt0)
+	(ot0) edge (rt0)
+		  edge (pt0)
+	(rt0) edge (pt0)
+;
+}
+
+\newcommand{\labelledroomgraph}{
+	\node (gt0) at (\xscale*2, \yscale*15) {$\grl$};
+	\node (bt0) at (\xscale*2, \yscale*11) {$\brl$};
+	\node (ot0) at (\xscale*6, \yscale*15) {$\orl$};
+	\node (rt0) at (\xscale*6, \yscale*11) {$\rrl$};
+	\node (pt0) at (\xscale*10, \yscale*13) {$\prl$};	
+	
+	\path[draw,thick]
+	(gt0) edge (bt0)
+	edge (ot0)
+	(bt0) edge (rt0)
+	(ot0) edge (rt0)
+	edge (pt0)
+	(rt0) edge (pt0)
+	;
+}
+
+\newcommand{\labelledroomgraphalldetectors}{
+	\node (gt0) at (\xscale*2, \yscale*15) {$\grl*$};
+	\node (bt0) at (\xscale*2, \yscale*11) {$\brl*$};
+	\node (ot0) at (\xscale*6, \yscale*15) {$\orl*$};
+	\node (rt0) at (\xscale*6, \yscale*11) {$\rrl*$};
+	\node (pt0) at (\xscale*10, \yscale*13) {$\prl*$};	
+	
+	\path[draw,thick]
+	(gt0) edge (bt0)
+	edge (ot0)
+	(bt0) edge (rt0)
+	(ot0) edge (rt0)
+	edge (pt0)
+	(rt0) edge (pt0)
+	;
+}
+\newcommand{\labelledroomBPdetectors}{
+	\node (gt0) at (\xscale*2, \yscale*15) {$\grl$};
+	\node (bt0) at (\xscale*2, \yscale*11) {$\brl*$};
+	\node (ot0) at (\xscale*6, \yscale*15) {$\orl$};
+	\node (rt0) at (\xscale*6, \yscale*11) {$\rrl$};
+	\node (pt0) at (\xscale*10, \yscale*13) {$\prl*$};	
+	
+	\path[draw,thick]
+	(gt0) edge (bt0)
+	edge (ot0)
+	(bt0) edge (rt0)
+	(ot0) edge (rt0)
+	edge (pt0)
+	(rt0) edge (pt0)
+	;
+}
+
+
+\newcommand{\bignodegraph}{
+		
+	\node[smallnode] (blue) at (\xscale*2, \yscale*11) {$\bsl$};
+	\node[smallnode] (green) at (\xscale*2, \yscale*15) {$\gsl$};	
+	\node[smallnode] (purple) at (\xscale*10, \yscale*13) {$\psl$};
+	\node[smallnode] (red) at (\xscale*6, \yscale*11) {$\rsl$};
+	\node[smallnode] (orange) at (\xscale*6, \yscale*15) {$\osl$};	
+		
+	\path[draw,thick]
+	(blue) edge (red)
+		edge (green)
+	(red) edge (purple)
+		edge (orange)
+	(purple) edge (orange)
+	(green) edge (orange)
+;
+}
+
+\newcommand{\bignodegraphwithdetectors}{
+	\node[darksmallnode] (blue) at (\xscale*2, \yscale*11) {$\bsl$};
+	\node[smallnode] (green) at (\xscale*2, \yscale*15) {$\gsl$};	
+	\node[darksmallnode] (purple) at (\xscale*10, \yscale*13) {$\psl$};
+	\node[smallnode] (red) at (\xscale*6, \yscale*11) {$\rsl$};
+	\node[smallnode] (orange) at (\xscale*6, \yscale*15) {$\osl$};	
+	
+	\path[draw,thick]
+	(blue) edge (red)
+		edge (green)
+	(red) edge (purple)
+		edge (orange)
+	(purple) edge (orange)
+	(green) edge (orange)
+;
+}
+
+\newcommand{\bignodegraphwithsignatures}{
+	\bignodegraphwithdetectors{}
+
+	\node[below=2mm of blue] {\small $\langle \{ \bsl \} , \{ \bsl \}\rangle$};		
+	\node[below=2mm of red] {\small $\langle \varnothing , \{ \bsl, \psl \} \rangle$};		
+	\node[above=2mm of green] {\small $\langle \varnothing , \{ \bsl \} \rangle$};		
+	\node[below=2mm of purple] {\small $\langle \{ \psl \} , \{ \psl \} \rangle$};		
+	\node[above=2mm of orange] {\small $\langle \varnothing , \{ \psl \} \rangle$};		
+}
+
+
+
+
+\newcommand{\symmetricdifference}{
+	% left hand
+	\scope
+	\clip (-2*\xscale,-2*\yscale) rectangle (2*\xscale,2*\yscale)
+	(1*\xscale,0*\yscale) circle (1*\xscale);
+	\fill (0*\xscale,0*\yscale) circle (1*\xscale);
+	\endscope
+	% right hand
+	\scope
+	\clip (-2*\xscale,-2*\yscale) rectangle (2*\xscale,2*\yscale)
+	(0*\xscale,0*\yscale) circle (1*\xscale);
+	\fill (1*\xscale,0*\yscale) circle (1*\xscale);
+	\endscope
+	% outline
+	\draw (0*\xscale,0*\yscale) circle (1*\xscale) (0*\xscale,1*\yscale)  node [text=black,above left] {\small $N_1^+(U)$}
+	(1*\xscale,0*\yscale) circle (1*\xscale) (1*\xscale,1*\yscale)  node [text=black,above right] {\small $N_1^+(W)$}
+	(-2.25*\xscale,-1.5*\yscale) rectangle (3.25*\xscale,2.25*\yscale);
+	\node at (3*\xscale, -1.8*\yscale) {\small $V$};
+}
+
+
+
+
+\def\Uellip{
+	(-10mm*\xscale, 0mm*\yscale) ellipse [x radius=15mm*\xscale, y radius=10mm*\yscale]
+}
+\def\Wellip{
+	(10mm*\xscale, 0mm*\yscale) ellipse [x radius=15mm*\xscale, y radius=10mm*\yscale]
+}
+\def\NUellip{
+	(-10mm*\xscale, 0mm*\yscale) ellipse [x radius=25mm*\xscale, y radius=20mm*\yscale]
+}
+\def\NWellip{
+	(10mm*\xscale, 0mm*\yscale) ellipse [x radius=25mm*\xscale, y radius=20mm*\yscale]
+}
+\def\bounding{(-5*\xscale,-3*\yscale) rectangle (5*\xscale,3*\yscale)}
+
+\newcommand{\nonDistinguishingSet}{
+	\begin{scope}
+		\clip \NUellip;
+		\fill[quintary_s2] \NWellip;
+	\end{scope}
+}
+
+\newcommand{\oneStepDistinguishingSet}{
+	\begin{scope}
+		\begin{scope}[even odd rule]
+			\clip \Wellip (-25mm*\xscale, -10*\yscale) rectangle (50mm*\xscale, 20mm*\yscale);
+			\fill[secondary_s2] \Uellip;
+		\end{scope}
+		\begin{scope}[even odd rule]
+			\clip \Uellip (-25mm*\xscale, -10*\yscale) rectangle (50mm*\xscale, 20mm*\yscale);
+			\fill[secondary_s2] \Wellip;
+		\end{scope}
+	\end{scope}
+}
+
+\newcommand{\twoStepDistinguishingSet}{
+	\begin{scope}
+		\begin{scope}[even odd rule]
+			\clip \Uellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\clip \Wellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\clip \NWellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\fill[tertiary_s1] \NUellip;
+		\end{scope}
+		\begin{scope}[even odd rule]
+			\clip \Uellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\clip \Wellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\clip \NUellip (-35mm*\xscale, -20*\yscale) rectangle (70mm*\xscale, 40mm*\yscale);
+			\fill[tertiary_s1] \NWellip;
+		\end{scope}
+	\end{scope}
+}
+
+\newcommand{\drawNodeSets}{
+	\draw[thick] \NUellip node [label={[xshift=-23mm, yshift=12mm]\small $N_1^+(U)$}] {};
+	\draw[thick] \NWellip node [label={[xshift=23mm, yshift=12mm]\small $N_1^+(W)$}] {};
+	\draw[thick] \Uellip node [label={[xshift=-12mm, yshift=5mm]\small $U$}] {};
+	\draw[thick] \Wellip node [label={[xshift=12mm, yshift=5mm]\small $W$}] {};
+	\draw[thick] \bounding node [label=above left:\small $V$] {};
+}
+
+\newcommand{\nonDSnode}{
+	\tikz{\draw[fill=quintary_s2]  circle(1ex);}
+}
+\newcommand{\oneStepDSnode}{
+\tikz{\draw[fill=secondary_s2]  circle(1ex);}
+}
+\newcommand{\twoStepDSnode}{
+\tikz{\draw[fill=tertiary_s1]  circle(1ex);}
+}
