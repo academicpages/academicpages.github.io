@@ -1,2 +1,9 @@
 _site/
+**.synctex.gz
+**.aux
+**.bbl
+**.blg
+**.log
+latex/**.pdf
+
 
