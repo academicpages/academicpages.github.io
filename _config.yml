@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashley Humphries"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ashley Humphries"
 description              : &description "Lab Manager @ UNL's Cognitive Affective Neuroscience lab"
