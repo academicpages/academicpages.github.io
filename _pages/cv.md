@@ -17,11 +17,17 @@ Education
 Work experience
 ======
 * Summer 2020 - Now: Graduate Research Assistant
-  * Centre For Convergent Technologies Research, University of Tehran
-  * Duties included: Tagging issues
+  * <a href="https://bcolab.ut.ac.ir/">Brain Computing Laboratory</a> at Centre For Convergent Technologies Research, University of Tehran
+  * Projects
+    * Designing and implementation of a desktop-mount eye tracking system
+    * Classifying two objects based on a imagery task with EEG time-series data
+    * Impairing focus of kids by usage of a video game on phones and EEG
+    * Eye movements during sentence processing in high-functioning autistic children compared to neurotypical peers
+    * Modeling peripheral vision in rodents and compare it to the primates' vision
+    * Coding for PsychoPy tasks in the laboratory whenever needed!
   * Supervisor: <a href="https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en">Dr. Mohammad-Reza A. Dehaqani</a>.
 
-* Fall 2015: Research Assistant
+* Summer 2019: Internship
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
