@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering (Telecommunication Systems), University of Tehran, Iran, 2016
+* M.S. in Control Engineering, University of Tehran, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2020 - Now: Graduate Research Assistant
+  * Centre For Convergent Technologies Research, University of Tehran
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: <a href="https://scholar.google.com/citations?user=HuMGDxIAAAAJ&hl=en">Dr. Mohammad-Reza A. Dehaqani</a>.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -40,12 +39,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
