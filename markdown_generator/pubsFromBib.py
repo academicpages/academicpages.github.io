@@ -240,7 +240,7 @@ for pubsource in publist:
                 available_material.append(('code', code_url))
             if blog_available:
                 available_material.append(('blog', blog_url))
-                
+
             available_material.append(('bib', 'https://github.com/latower/latower.github.io/raw/master/files/bib/{id}.bib'.format(id=bib_id)))
             links = "\nlinks: "
             # links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
