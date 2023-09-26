@@ -3,9 +3,14 @@ title: "Selected Publications[[All](https://scholar.google.com/citations?user=dD
 permalink: /publications/
 author_profile: true
 ---
-<!-- **Tech reports**    
+**Tech reports**    
+  * <b> Dual-Reference Source-Free Active Domain Adaptation for Nasopharyngeal Carcinoma Tumor Segmentation across Multiple Hospitals </b> <br> 
+  Hongqiu Wang, Jian Chen, Shichen Zhang, Yuan He, Jinfeng Xu, Mengwan Wu, Jinlan He,
+Wenjun Liao, <b>Xiangde Luo</b> <br> 
+  <b>ArXiv2023 (The first work using active learning for source-sree domain adaptation in medical imaging) </b><br>
+  [[paper](https://arxiv.org/pdf/2309.13401.pdf)][[code](https://github.com/whq-xxh/Active-GTV-Seg)][[pdf]](../files/Adptive-GTV-Seg-2023.pdf)[[dataset](https://github.com/whq-xxh/Active-GTV-Seg)]
 
-     -->
+
 **Journals**
   * <b> Comprehensive evaluation of a deep learning model for automatic organs at risk segmentation on heterogeneous computed tomography images for abdominal radiotherapy</b> <br> 
   Wenjun Liao, <b>Xiangde Luo</b>, Yuan He, Ye Dong, Churong Li, Kang Li, Shichuan Zhang, Shaoting Zhang, Guotai Wang, Jianghong Xiao <br> 
