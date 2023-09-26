@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Amirali Soltani Tehrani"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
