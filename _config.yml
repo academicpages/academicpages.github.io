@@ -11,7 +11,7 @@ title                    : "Ashley Humphries"
 title_separator          : "-"
 name                     : &name "Ashley Humphries"
 description              : &description "Lab Manager @ UNL's Cognitive Affective Neuroscience lab"
-url                      : https://ashleyhumphries.io
+url                      : https://ashleyhumphries.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashleyhumphries/ashleyhumphries.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
