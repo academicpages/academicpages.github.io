@@ -219,6 +219,13 @@ for pubsource in publist:
                 code_available = True
                 code_url = open(codedir + '/' + bib_id + '.txt').readlines()[0].strip()
 
+            blog_available = False
+            blog_url = ""
+            blogdir = parentdir + '/files/blogs'
+            if bib_id + '.txt' in os.listdir(blogdir):
+                blog_available = True
+                blog_url = open(blogdir + '/' + bib_id + '.txt').readlines()[0].strip()
+
             # Create links for these materials
             available_material = []
             if paper_available:
@@ -231,6 +238,9 @@ for pubsource in publist:
                 available_material.append(('video', video_url))
             if code_available:
                 available_material.append(('code', code_url))
+            if blog_available:
+                available_material.append(('blog', blog_url))
+                
             available_material.append(('bib', 'https://github.com/latower/latower.github.io/raw/master/files/bib/{id}.bib'.format(id=bib_id)))
             links = "\nlinks: "
             # links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
