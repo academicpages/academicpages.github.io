@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ashley humphries"
+title                    : "Ashley Humphries"
 title_separator          : "-"
-name                     : &name "ashley"
+name                     : &name "Ashley Humphries"
 description              : &description "Lab Manager @ UNL's Cognitive Affective Neuroscience lab"
 url                      : https://ashleyhumphries.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
