@@ -187,7 +187,7 @@ collections:
   education:
     output: true
     permalink: /:collection/:path/
-  publication:
+  publications:
     output: true
     permalink: /:collection/:path/
 
