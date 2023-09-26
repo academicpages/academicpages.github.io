@@ -1,18 +1,10 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Ali Keramati:
+  name        : "Ali Keramati"
+  uri         : "http://alikera.github.io"
+  email       : "alikeramati79@gmail.com"
+  bio         : "Computer Engineering B.Sc. at the University of Tehran"
+  avatar      : ""
+  twitter     : ""
+  google_plus : ""
