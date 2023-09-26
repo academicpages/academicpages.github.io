@@ -10,4 +10,4 @@ redirect_from:
 
 ## Download
 
-To Download my latest CV, click [here](/files/cv.pdf).
+To Download my latest CV, click [here.](/files/cv.pdf)
