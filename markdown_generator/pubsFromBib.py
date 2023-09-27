@@ -79,6 +79,19 @@ def html_escape(text):
     return "".join(html_escape_table.get(c,c) for c in text)
 
 
+def locate_resource(parentdir: str, resource_type: str, bib_id: str):
+    resource_available = False
+    resource_dir = f"{parentdir}/files/{resource_type}"
+    resource_url = ""
+    if f"{bib_id}.txt" in os.listdir(resource_dir):
+        resource_available = True
+        extended_version_url = open(f"{resource_dir}/{bib_id}.txt").readlines()[0].strip()
+    elif f"{bib_id}.pdf" in os.listdir(resource_dir):
+        resource_available = True
+        resource_url = f"https://github.com/latower/latower.github.io/raw/master/files/{resource_type}/{bib_id}.pdf"
+    return resource_available, resource_url
+
+
 for pubsource in publist:
     parser = bibtex.Parser()
     bibdata = parser.parse_file(publist[pubsource]["file"])
@@ -170,66 +183,20 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            # Check for the availability of pdf, slides, video, code
-            paper_available = False
-            paper_url = ""
-            paperdir = parentdir + '/files/papers'
-            if bib_id + '.txt' in os.listdir(paperdir):
-                paper_available = True
-                paper_url = open(paperdir + '/' + bib_id + '.txt').readlines()[0].strip()
-            elif bib_id + '.pdf' in os.listdir(paperdir):
-                paper_available = True
-                paper_url = 'https://github.com/latower/latower.github.io/raw/master/files/papers/{id}.pdf'.format(id=bib_id)
-            else:
-                print("WARNING: no paper pdf available for", bib_id)
-
-            slides_available = False
-            slides_url = ""
-            slidesdir = parentdir + '/files/slides'
-            if bib_id + '.txt' in os.listdir(slidesdir):
-                slides_available = True
-                slides_url = open(slidesdir + '/' + bib_id + '.txt').readlines()[0].strip()
-            elif bib_id + '.pdf' in os.listdir(slidesdir):
-                slides_available = True
-                slides_url = 'https://github.com/latower/latower.github.io/raw/master/files/slides/{id}.pdf'.format(id=bib_id)
-            else:
-                print("WARNING: no slides pdf available for", bib_id)
-
-            video_available = False
-            video_url = ""
-            videodir = parentdir + '/files/video'
-            if bib_id + '.txt' in os.listdir(videodir):
-                video_available = True
-                video_url = open(videodir + '/' + bib_id + '.txt').readlines()[0].strip()
-
-            poster_available = False
-            poster_url = ""
-            posterdir = parentdir + '/files/posters'
-            if bib_id + '.txt' in os.listdir(posterdir):
-                poster_available = True
-                poster_url = open(posterdir + '/' + bib_id + '.txt').readlines()[0].strip()
-            elif bib_id + '.pdf' in os.listdir(posterdir):
-                poster_available = True
-                poster_url = 'https://github.com/latower/latower.github.io/raw/master/files/posters/{id}.pdf'.format(id=bib_id)
-
-            code_available = False
-            code_url = ""
-            codedir = parentdir + '/files/code'
-            if bib_id + '.txt' in os.listdir(codedir):
-                code_available = True
-                code_url = open(codedir + '/' + bib_id + '.txt').readlines()[0].strip()
-
-            blog_available = False
-            blog_url = ""
-            blogdir = parentdir + '/files/blogs'
-            if bib_id + '.txt' in os.listdir(blogdir):
-                blog_available = True
-                blog_url = open(blogdir + '/' + bib_id + '.txt').readlines()[0].strip()
+            paper_available, paper_url = locate_resource(parentdir=parentdir, resource_type="paper", bib_id=bib_id)
+            slides_available, slides_url = locate_resource(parentdir=parentdir, resource_type="slides", bib_id=bib_id)
+            video_available, video_url = locate_resource(parentdir=parentdir, resource_type="video", bib_id=bib_id)
+            poster_available, poster_url = locate_resource(parentdir=parentdir, resource_type="code", bib_id=bib_id)
+            code_available, code_url = locate_resource(parentdir=parentdir, resource_type="code", bib_id=bib_id)
+            blog_available, blog_url = locate_resource(parentdir=parentdir, resource_type="blog", bib_id=bib_id)
+            extended_version_available, extended_version_url = locate_resource(parentdir=parentdir, resource_type="extended-version", bib_id=bib_id)
 
             # Create links for these materials
             available_material = []
             if paper_available:
                 available_material.append(('pdf', paper_url))
+            if extended_version_available:
+                available_material.append(('extended version', extended_version_url))
             if slides_available:
                 available_material.append(('slides', slides_url))
             if poster_available:
@@ -241,7 +208,7 @@ for pubsource in publist:
             if blog_available:
                 available_material.append(('blog', blog_url))
 
-            available_material.append(('bib', 'https://github.com/latower/latower.github.io/raw/master/files/bib/{id}.bib'.format(id=bib_id)))
+            available_material.append(('bib', f"https://github.com/latower/latower.github.io/raw/master/files/bib/{bib_id}.bib"))
             links = "\nlinks: "
             # links += ", ".join(["<a href=\"" + text_url + "\" target=\"_blank\">" + text + "</a>" for (text, text_url) in available_material])
             links_list = []
