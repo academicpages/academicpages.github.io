@@ -35,6 +35,8 @@ See [publications](latower.github.io/publications).
 
 ### AWARDS, SCHOLARSHIPS, GRANTS
 
+**2023:** Travel grant, to visit the (Simons Institute at UC Berkeley)[https://simons.berkeley.edu/homepage] for a month, in order to attend the (Extendend Reunion: Satisfiability)[https://simons.berkeley.edu/programs/extended-reunion-satisfiability]. Grant covered travel, accommodation and food for one month.
+
 **2021:** Outstanding Program Committee Member Award AAAI 2021, which was awarded to the 13 best reviewers. The AAAI-21 Program Committee: “Your efforts were characterised by exceptional care, thoroughness, and thoughtfulness in the reviews and discussions of the papers assigned to you.”
 
 **2019:** Travel grant from Google to attend the [Grace Hopper Celebration](https://ghc.anitab.org/) in Orlando, Florida.
@@ -64,8 +66,10 @@ See [teaching](latower.github.io/teaching).
 
 #### PROGRAM COMMITTEE MEMBER
 
+<!--   - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)  -->
+  - [NeurIPS 2023](https://nips.cc/Conferences/2023)
   - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) 
-  - [NeurIPS 2022](https://nips.cc)
+  - [NeurIPS 2022](https://nips.cc/Conferences/2022)
   - [AAAI 2021](https://aaai.org/Conferences/AAAI-21/) (awarded with an Outstanding Reviewer Award)
 
 #### REVIEWER
