@@ -79,13 +79,14 @@ def html_escape(text):
     return "".join(html_escape_table.get(c,c) for c in text)
 
 
-def locate_resource(parentdir: str, resource_type: str, bib_id: str):
+def locate_resource(parentdir: str, resource_type: str, bib_id: str) -> (bool, str):
+    assert bib_id is not None and bib_id, "Please specify bib id."
     resource_available = False
     resource_dir = f"{parentdir}/files/{resource_type}"
     resource_url = ""
     if f"{bib_id}.txt" in os.listdir(resource_dir):
         resource_available = True
-        extended_version_url = open(f"{resource_dir}/{bib_id}.txt").readlines()[0].strip()
+        resource_url = open(f"{resource_dir}/{bib_id}.txt").readlines()[0].strip()
     elif f"{bib_id}.pdf" in os.listdir(resource_dir):
         resource_available = True
         resource_url = f"https://github.com/latower/latower.github.io/raw/master/files/{resource_type}/{bib_id}.pdf"
@@ -186,7 +187,7 @@ for pubsource in publist:
             paper_available, paper_url = locate_resource(parentdir=parentdir, resource_type="paper", bib_id=bib_id)
             slides_available, slides_url = locate_resource(parentdir=parentdir, resource_type="slides", bib_id=bib_id)
             video_available, video_url = locate_resource(parentdir=parentdir, resource_type="video", bib_id=bib_id)
-            poster_available, poster_url = locate_resource(parentdir=parentdir, resource_type="code", bib_id=bib_id)
+            poster_available, poster_url = locate_resource(parentdir=parentdir, resource_type="poster", bib_id=bib_id)
             code_available, code_url = locate_resource(parentdir=parentdir, resource_type="code", bib_id=bib_id)
             blog_available, blog_url = locate_resource(parentdir=parentdir, resource_type="blog", bib_id=bib_id)
             extended_version_available, extended_version_url = locate_resource(parentdir=parentdir, resource_type="extended-version", bib_id=bib_id)
