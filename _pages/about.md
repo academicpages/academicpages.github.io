@@ -19,7 +19,7 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 
 ## Work Experience
 
-* 2023.5 ~ Present: Research Intern
+* 2023.5 ~ 2023.8: Research Intern
   * Xianyuan Technology
  
 * 2021.11 ~ 2022.6: Research Intern
