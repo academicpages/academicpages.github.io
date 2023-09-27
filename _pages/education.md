@@ -26,7 +26,7 @@ Control Engineering
 </h3>
 
 <h3>
-GPA: 3.75/4.0
+GPA: 3.65/4.0
 </h3>
 
 <h3>Thesis: Modeling Peripheral Vision in Rodents</h3>
