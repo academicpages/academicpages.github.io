@@ -5,4 +5,4 @@ permalink: /cv_update/
 author_profile: true
 ---
 
-[Download my CV](https://yuriresende.github.io/Yuri_Fonseca_CV.pdf) - Last update, 09/28/2023
+[Download my CV](https://yuriresende.github.io/Yuri_Fonseca_CV.pdf) 
