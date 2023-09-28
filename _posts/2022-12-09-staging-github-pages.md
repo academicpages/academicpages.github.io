@@ -7,6 +7,8 @@ tags:
   - GitHub Actions
   - GitHub Pages
   - undergrad
+  - technical
+  - recommended read
 ---
 
 I spent the last weekend writing a GitHub Action to deploy a PR to a development preview site. While there are awesome existing solutions such as Vercel and Netlify, I wanted to reinvent the wheel using only GitHub tooling.
