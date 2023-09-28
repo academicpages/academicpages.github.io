@@ -34,7 +34,11 @@ You can also find my articles on [my google scholar profile](https://scholar.goo
 
 ## Work in Progress
 
-- Targeted Finetuning of LLM for Causal Inference.  T. Cai, Y. Fonseca, K. Hou and H. Namkoong.
+- Machine Learning and Offline Contextual Optimization. O. Besbes, Y. Fonseca, and I. Lobel.
+
+- C-Learner: Constrained Learning for Causal Inference.  T. Cai, Y. Fonseca, K. Hou and H. Namkoong.
+
+- Functional Stochastic Gradient in Non-Parametric IV Estimation. Y. Fonseca, C. Lins, Y. Saporito.
   
 ## Prior Life
 
