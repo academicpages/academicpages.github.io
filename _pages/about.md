@@ -8,13 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-PhD candidate in AI & Medcine
-
-Center for Artificial Intelligence
-
-Wake Forest University, Winston Salem, NC
-
-Virginia Tech-Wake Forest University School of Biomedical Engineering and Sciences, Blacksburg, VA
+PhD candidate in AI & Medcine\
+Center for Artificial Intelligence\
+Wake Forest University, Winston Salem, NC\
+Virginia Tech-Wake Forest University School of Biomedical Engineering and Sciences, Blacksburg, VA\
 
 
 About Me
