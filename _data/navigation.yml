@@ -9,6 +9,6 @@ main:
   - title: "Industry"
     url: /industry/    
     
-  #- title: "CV"
-  #  url: /cv_update/
-  #
+  - title: "CV"
+    url: /cv_update/
+  
