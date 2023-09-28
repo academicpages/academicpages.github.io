@@ -9,8 +9,8 @@ author_profile: true
 Under Review
 ======
 * **Ruohan Li**, Hualan Wang*, Qiyang Zhang, Ting Nie. A Novel Highway Traffic Capacity Analyzing Method under Road Region Atmospheric Environment Constrains Based on Computational Fluid Dynamics Model. <var>The Transportation Research Board (TRB) 103nd Annual Meeting</var>. 2023.
-* Yongqi Dong#, Xingmin Lu#, **Ruohan Li**, Wei Song*, Bart van Arem, Haneen Farah. Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The Transportation Research Board (TRB) 103nd Annual Meeting</var>. 2023.
-
+* Yongqi Dong#, Xingmin Lu#, **Ruohan Li**, Wei Song*, Bart van Arem, Haneen Farah. Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning. <var>The Transportation Research Board (TRB) 103nd Annual Meeting</var>. 2023. [Accepted on 27 Sep.]
+  
 Journal Publications
 ======
 * **Ruohan Li**#, Yongqi Dong*#. Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss. <var>IEEE Transactions on Intelligent Transportation Systems</var>.2023. **[Early Access on 22 Aug. 2023]. [doi: 10.1109/TITS.2023.3305015.](https://ieeexplore.ieee.org/document/10226453).**
