@@ -127,6 +127,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _posts
 # exclude:
 #   - "*.sublime-project"
 #   - "*.sublime-workspace"
@@ -166,7 +167,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -206,7 +207,7 @@ collections:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "_posts"
       type: posts
     values:
       layout: single
@@ -264,11 +265,11 @@ sass:
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# Outputting
-permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# # Outputting
+# permalink: /:categories/:title/
+# # paginate: 5 # amount of posts to show
+# # paginate_path: /page:num/
+# timezone: # America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
