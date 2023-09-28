@@ -5,9 +5,3 @@ main:
 
   - title: "CV"
     url: /cv/
-
-  - title: "index"
-    url: /index/
-    
-  - title: "projects"
-    url: /projects/
