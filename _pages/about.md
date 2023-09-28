@@ -29,6 +29,7 @@ Research
 
 News
 ------
+- (2023/9/27) A paper accepted by **IEEE JBHI**
 - (2023/8/10) A paper accepted by **ACS Sensors**
 - Our Chinese Chinical ChatBot DoctorGLM got 512 github stars!
 - (2023/6/24) 6 Papers accepted by **MICCAI** 
