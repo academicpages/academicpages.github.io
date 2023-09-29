@@ -14,7 +14,7 @@ I’m a PhD Student (final year) at UCSD CSE with a specialization in Data Minin
 
 I spent several summers working as an Applied Scientist II Intern at AWS AI, a Data Science Intern at Bell Labs, and a Software Development Engineer Intern at AWS Redshift. 
 
-I am actively looking for full-time roles as Research Scientist, Applied Scientist, Machine Learning Engineer, or Data Scientist in the US. If you're hiring, please reach out to me at ranakrc@gmail.com.
+I am actively looking for full-time roles as Research Scientist, Applied Scientist, Machine Learning Engineer, or Data Scientist in the US. If you are interested in learning more about my experience and interests, please reach out to me at ranakrc@gmail.com or connect through <a href="https://sites.google.com/view/kdd-mlf-2023/speakers?authuser=0#h.29r530bslu0n" target="_blank">LinkedIn</a>.
 
 <h2>Research Interests</h2>
 
