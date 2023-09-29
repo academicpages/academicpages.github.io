@@ -1,0 +1,19 @@
+/* ==========================================================================
+   CUSTOM CSS 
+   ========================================================================== */
+
+.recommend {
+    border-radius: 999px;
+    background: #d6ffbd;
+    color: #278500;
+    padding: 4px 8px;
+    overflow: hidden;
+    white-space: nowrap;
+    // font-family: "Inter";
+    font-weight: 900;
+    // font-size: 12px;
+    // line-height: 16px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    font-feature-settings: "cpsp" on;
+}
