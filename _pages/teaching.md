@@ -21,8 +21,13 @@ Prof. Viplav Saini
 
 Spring 2022
 
-## ECON-UA 10 Intermidiate Microeconomics
+## ECON-UA 10 Intermediate Microeconomics
 Prof. Basil Williams
 Prof. Viplav Saini
 
-Spring 2022, Fall 2022, Spring 2023
+Spring 2022, Fall 2022, Spring 2023, Fall 2023
+
+## ECON-UB 2 Microeconomics with Calculus (Stern)
+Prof. Simon Bowmaker 
+
+Summer 2023
