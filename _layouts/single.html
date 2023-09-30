@@ -44,8 +44,8 @@ layout: default
         
 	{% if page.excerpt %}
           <p>{{ page.excerpt }}</p>
+	{% endif %}
 
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
         {% if page.citation and page.paperurl %}
           <p>{{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
