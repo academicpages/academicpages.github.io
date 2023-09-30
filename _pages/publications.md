@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* Keramati A., Fallah A., and Taghiyareh F. (2023). ”Enhanced Iranian Integrated Healthcare System Through Root Cause Analysis”. Iranian Conference on Advances in Enterprise Architecture. Affiliated with IEEE Xplore. (under review)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* Vatandoust M., Mohajeri M. M., Keramati A., and Ahmadabadi M. N. (2024, expected). ”Bridging the Educational Divide: Scaling Deep Learning with AI”. (in preparation)
