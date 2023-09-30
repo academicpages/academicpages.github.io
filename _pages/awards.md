@@ -11,5 +11,5 @@ author_profile: true
 	
 <div>
 	Python, C, C++, Java, Matlab, SQL, PostgreSQL, Linux, Git, PyTorch, Keras, Tensorflow, NumPy, pandas, SciPy,
-Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, Gensim, spaCy.
+Matplotlib, Seaborn, scikit-learn, statsmodels, sktime, tslearn, torchdyn, Pillow, OpenCV, NLTK, CoreNLP, Gensim.
 </div>
