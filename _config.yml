@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haotian Liu(刘皓天) / Personal Webpage"
+title                    : "Haotian(Sean) Liu / Personal Webpage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
