@@ -1,15 +1,13 @@
 ---
-title: 
+title: "Engineering a Functional Small RNA Negative Autoregulation Network with Model-Guided Design"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2018-06-01-Engineering-a-Functional-Small-RNA-Negative-Autoregulation-Network-with-Model-Guided-Design
+excerpt: 'Publisher: American Chemical Society'
+date: 2018-06-01
+venue: 'ACS Synthetic Biology'
+paperurl: 'https://doi.org/10.1021/acssynbio.7b00440'
+citation: ' Chelsea Hu,  Melissa Takahashi,  Yan Zhang,  Julius Lucks, &quot;Engineering a Functional Small RNA Negative Autoregulation Network with Model-Guided Design.&quot; ACS Synthetic Biology, 2018.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Publisher: American Chemical Society
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Access paper here](https://doi.org/10.1021/acssynbio.7b00440){:target="_blank"}
