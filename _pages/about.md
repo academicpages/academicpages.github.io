@@ -23,7 +23,7 @@ Highlights
 
 * [June 2023] Our paper entitled "NRK-ABMIL: Subtle Metastatic Deposits Detection for Predicting Lymph Node Metastasis in Breast Cancer Whole-Slide Images" is accepted in **Cancers**.
 * [May 2023] I make a lecture about Imaging Informatics and Artificial Intelligence in WFBMI CALIBIR Informatics Bootcamp.
-* [May 2023] Our paper(https://www.sciencedirect.com/science/article/pii/S1361841522001098) received the top scientific paper award during the Internal Medicine Research Day Grand Rounds of WFUSOM-Atrium Health. This award recognizes outstanding scientific papers published by students and faculty members from WFUSOM and Atrium Health in 2022."
+* [May 2023] Our [paper](10.1016/j.media.2022.102462) received the top scientific paper award during the Internal Medicine Research Day Grand Rounds of WFUSOM-Atrium Health. This award recognizes outstanding scientific papers published by students and faculty members from WFUSOM and Atrium Health in 2022."
 * [April 2023] Our preliminary work about Oncotype-DX prediction, "BCR-Net: A deep learning framework to predict breast cancer recurrence from histopathology images", is accepted in **PLOS ONE**.
 * [Feb 2023] Our conference paper entitled "Predicting obstructive sleep apnea severity from craniofacial images using ensemble machine learning models" is accepted in **SPIE Medical Imaging: Computer-Aided Diagnosis**, 2023.
 * [July 2022] Our paper entitled "Attention2majority: Weak multiple instance learning for regenerative kidney grading on whole slide images" is accepted in **Medical Image Analysis**.
