@@ -5,4 +5,4 @@ collection: publications
 ---
 Under Review
 
-Fangzhou Lin*, Songlin Hou*, **Haotian Liu**<sup>*</sup>, Haoying Zhou*, Xuechu Yu, Kazunori Yamada, Ziming Zhang (* co-first aurthor)
+Fangzhou Lin*, Songlin Hou*, **Haotian Liu**, Haoying Zhou*, Xuechu Yu, Kazunori Yamada, Ziming Zhang (* co-first aurthor)
