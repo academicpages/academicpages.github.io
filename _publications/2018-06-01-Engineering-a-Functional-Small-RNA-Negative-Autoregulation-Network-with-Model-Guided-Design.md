@@ -7,4 +7,3 @@ venue: 'ACS Synthetic Biology'
 paperurl: 'https://doi.org/10.1021/acssynbio.7b00440'
 citation: ' Chelsea Hu,  Melissa Takahashi,  Yan Zhang,  Julius Lucks, &quot;Engineering a Functional Small RNA Negative Autoregulation Network with Model-Guided Design.&quot; ACS Synthetic Biology, 2018.'
 ---
-[Access paper here](https://doi.org/10.1021/acssynbio.7b00440){:target="_blank"}

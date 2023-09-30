@@ -7,4 +7,3 @@ venue: 'ACS Synthetic Biology'
 paperurl: 'https://doi.org/10.1021/acssynbio.1c00167'
 citation: ' April Miguez,  Yan Zhang,  Fernanda Piorino,  Mark Styczynski, &quot;Metabolic Dynamics in Escherichia coli-Based Cell-Free Systems.&quot; ACS Synthetic Biology, 2021.'
 ---
-[Access paper here](https://doi.org/10.1021/acssynbio.1c00167){:target="_blank"}

@@ -7,4 +7,3 @@ venue: 'ACS Synthetic Biology'
 paperurl: 'https://doi.org/10.1021/acssynbio.2c00641'
 citation: ' Megan McSweeney,  Yan Zhang,  Mark Styczynski, &quot;Short Activators and Repressors of RNA Toehold Switches.&quot; ACS Synthetic Biology, 2023.'
 ---
-[Access paper here](https://doi.org/10.1021/acssynbio.2c00641){:target="_blank"}

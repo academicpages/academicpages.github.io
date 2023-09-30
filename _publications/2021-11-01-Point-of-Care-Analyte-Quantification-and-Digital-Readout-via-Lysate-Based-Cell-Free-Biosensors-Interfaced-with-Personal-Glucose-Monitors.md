@@ -7,4 +7,3 @@ venue: 'ACS Synthetic Biology'
 paperurl: 'https://doi.org/10.1021/acssynbio.1c00282'
 citation: ' Yan Zhang,  Paige Steppe,  Maxwell Kazman,  Mark Styczynski, &quot;Point-of-Care Analyte Quantification and Digital Readout via Lysate-Based Cell-Free Biosensors Interfaced with Personal Glucose Monitors.&quot; ACS Synthetic Biology, 2021.'
 ---
-[Access paper here](https://doi.org/10.1021/acssynbio.1c00282){:target="_blank"}
