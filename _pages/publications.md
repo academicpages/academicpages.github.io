@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+---
+# 2023
+Fangzhou Lin\*, Songlin Hou\*, Haotian Liu\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang. **Point Cloud Completion With Landau Distribution: A Probabilistic View.** *Under Review*
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+---
