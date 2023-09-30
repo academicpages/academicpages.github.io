@@ -16,7 +16,7 @@ Please refer to the [Publications page](https://yzhang952.github.io/publications
 
 My long-term research interest is to use cell-free synthetic biology to advance diagnostics and medical treatments, particularly in the topics of:
 -	Cell-free proteomics
--	Self-assembly
+-	Biomolecule self-assembly
 -	Point-of-need deployment
 
 If any of these topics is of interest you for collaboration, please don’t hesitate to reach out!
