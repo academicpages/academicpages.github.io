@@ -83,38 +83,38 @@ author:
   name             : "Your Sidebar Name"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : 
+  # location         : "Location"
+  # employer         :
+  # pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kHsMnEYAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : 
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
+  # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  # uri              :
+  # bitbucket        :
+  # codepen          :
+  # dribbble         :
+  # flickr           :
+  # facebook         :
+  # foursquare       :
+  # github           : 
+  # google_plus      :
+  # keybase          :
+  # instagram        :
+  # impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  # lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/haotian-sean-liu-414178251/"
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  # orcid            : 
+  # pinterest        :
+  # soundcloud       :
+  # stackoverflow    : # http://stackoverflow.com/users/123456/username
+  # steam            :
+  # tumblr           :
+  # twitter          : 
+  # vine             :
+  # weibo            :
+  # xing             :
+  # youtube          :
+  # wikipedia        :
 
 
 # Reading Files
