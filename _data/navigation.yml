@@ -9,11 +9,11 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
   - title: "Software & Tutorial"
-    url: /Software&Tutorial/
+    url: /_pages/Software&Tutorial.html/
+        
+  # - title: "Software & Tutorial"
+  #   url: /Software&Tutorial/
     
   - title: "CV"
     url: /cv/
