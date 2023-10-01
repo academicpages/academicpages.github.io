@@ -14,7 +14,7 @@ I'm a junior-year undergraduate student at WPI(Worcester Polytechnic Institute) 
 # Publication
 
 - 2023
-- 
+
 ![](images/flowchart_landau.png){: .align-right width="200px"} 
 **Point Cloud Completion With Landau Distribution: A Probabilistic View** 
 **Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang
