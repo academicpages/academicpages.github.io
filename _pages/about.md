@@ -16,7 +16,11 @@ Virginia Tech-Wake Forest University School of Biomedical Engineering and Scienc
 
 About Me
 ======
-I'm a 4th year PhD student at Center for Artificial Intelligence, Wake Forest University, where I'm focusing on Deep learning and Medical Image Analysis. I'm currently advised by Dr. Metin Gurcan and Dr. M. Khalid Khan Niazi. I'm also a PhD student in the joint BMES school of Virginia Tech and Wake Forest. Before that, I worked as a research associate at Rensselaer Polytechnic Institute with Dr. Fenglei Fan and Dr. Ge Wang. I received a Master's degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2020, and a Bachelor's degree in Electronic&Information Science from Shandong University in 2018. My current research focus on Weakly/Self-Supervised Learning, Attention Mechanism, Visual Language Model, Medical Image Analysis, and Digital Pathology.
+I'm a 4th year PhD student at Center for Artificial Intelligence, Wake Forest University, where I'm focusing on Deep learning and Medical Image Analysis. I'm currently advised by Dr. Metin Gurcan and Dr. M. Khalid Khan Niazi. I'm also a PhD student in the joint BMES school of Virginia Tech and Wake Forest. Before that, I worked as a research associate at Rensselaer Polytechnic Institute with Dr. Fenglei Fan and Dr. Ge Wang. I received a Master's degree in Electrical Engineering from Rensselaer Polytechnic Institute in 2020, and a Bachelor's degree in Electronic&Information Science from Shandong University in 2018.
+
+Research Interests
+======
+Weakly/Self-Supervised Learning, Attention Mechanism, Visual Language Model, Medical Image Analysis, Digital Pathology
 
 Highlights
 ======
