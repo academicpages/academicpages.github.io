@@ -10,7 +10,7 @@ main:
   #   url: /teaching/    
     
   - title: "Software & Tutorial"
-    url: /_pages/Software&Tutorial.md/
+    url: /Software&Tutorial/
         
   # - title: "Software & Tutorial"
   #   url: /Software&Tutorial/
