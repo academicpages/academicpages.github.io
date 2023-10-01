@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
----
-Open-source Software
+
+# Open-source Software
 
 **STREAM**
 
