@@ -1,6 +1,7 @@
 ---
-title: "Publications"
-permalink: /publications/
+permalink: /
+title: ""
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
