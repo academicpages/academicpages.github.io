@@ -14,7 +14,7 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 <strong>TL;DR:</strong> La muerte cruzada produce retornos electorales no lineales en el corto mandato del candidato electo; exacerba el problema de selección adversa; y, en última instancia, favorece una presidencia *de facto* prolongada.
 
-</div><br><br>
+</div><br>
 
 
 Examinemos el caso de Guillermo Lasso, el primer presidente en recurrir al mecanismo de la muerte cruzada. Su decisión se fundamenta en la confluencia de tres factores determinantes: (a) intentos de censura legislativa, (b) desafíos en la ejecución de su programa gubernamental, y (c) una crítica crisis de narcotráfico y violencia. Aunque legalmente los dos primeros elementos ofrecen justificación suficiente para activar el mecanismo de muerte cruzada y convocar a elecciones, es poco plausible que dicho recurso se hubiera ejercido sin la presencia del tercer factor. Este último actuó como un catalizador fulminante, precipitando la decisión ante el caos sin precedentes que instigó en el país.
