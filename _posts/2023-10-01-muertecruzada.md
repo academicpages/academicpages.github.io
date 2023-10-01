@@ -1,6 +1,6 @@
 ---
 title: '¿Es la Muerte Cruzada un Ancla o un Salvavidas?'
-date: 01-10-2023
+date: 2023-10-01
 permalink: /posts/2023/10/muertecruzada/
 tags:
   - Ecuador
