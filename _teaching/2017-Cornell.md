@@ -4,7 +4,7 @@ collection: teaching
 type: "undergraduate core classes in Chemical Engineering"
 permalink: /teaching/2017-Cornell
 venue: "Cornell University, School of Chemical & Biomolecular Engineering"
-date: 2016-2017
+date: 2016-01-01
 location: "Ithaca, NY"
 ---
 
