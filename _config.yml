@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Yan Zhang"
   avatar           : "profile.png"
-  bio              : "Postdoc at Murray Lab"
+  bio              : "Postdoc in Bioengineering, Caltech"
   location         : "Pasadena, CA"
-  employer         : "Caltech"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 
   email            : "yz473@caltech.edu"
