@@ -142,7 +142,7 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
   display: inline-block;
   vertical-align: middle;
   margin: 0 auto;
-  text-align: justify;
+  text-align: left;
   z-index: $mfp-z-index-base + 5;
 }
 .mfp-inline-holder,
@@ -514,7 +514,7 @@ button {
     cursor: auto;
   }
   .mfp-title {
-    text-align: justify;
+    text-align: left;
     line-height: 18px;
     color: $mfp-caption-title-color;
     word-wrap: break-word;
