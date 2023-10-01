@@ -18,10 +18,10 @@ redirect_from:
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 *Under Review*
 
-**Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
-**Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
-*Science Publishing Group*
-
 **Toward Wearable Multimodal Neuroimaging**
 Yujie Guo\*, **Haotian Liu\***, Yuan Yifu\*, Lehong Wang\*, Haohao Yi\*, Wirt Jones\*, and Meng Wang\* (* co-first author)
 *Digital WPI*
+
+**Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
+**Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
+*Science Publishing Group*
