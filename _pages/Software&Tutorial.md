@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /Software&Tutorial/
+  - /Software&Tutorial.html
 ---
 
 
