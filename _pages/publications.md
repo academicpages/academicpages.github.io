@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "About me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ---
-# Selected Publication
+# Publications
 ![](images/LandauCD_ICLR.png){: .align-right width="200px"} 
 **Point Cloud Completion With Landau Distribution: A Probabilistic View** 
 **Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang
