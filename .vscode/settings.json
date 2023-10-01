@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.rightClickBehavior": "default",
+    "editor.pasteAs.enabled": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.pasteAs.showPasteSelector": "true",
+    "markdown.editor.filePaste.copyIntoWorkspace": "true"
+}
