@@ -7,12 +7,12 @@ main:
   #   url: /teaching/    
     
   - title: "Projects"
-    url: /portfolio/
+    url: /projects/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "cv"
+  - title: "CV"
     url: /cv/
     
   - title: "Guide"
