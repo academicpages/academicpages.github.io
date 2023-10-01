@@ -25,3 +25,7 @@ Yujie Guo\*, **Haotian Liu\***, Yuan Yifu\*, Lehong Wang\*, Haohao Yi\*, Wirt Jo
 **Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 **Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
 *Science Publishing Group*
+
+---
+# Projects
+
