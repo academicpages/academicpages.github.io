@@ -17,10 +17,13 @@ To appear in *European Conference on Computer Systems (EuroSys)*, 2024.
 
 ## 2023
 * **Transferable Graph Structure Learning for Graph-based Traffic Forecasting across Cities** \[[pdf](https://kl4805.github.io/files/KDD23.pdf)\] <br>
-**Yilun Jin**, Kai Chen, Qiang Yang. <br> To appear in *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023
+**Yilun Jin**, Kai Chen, Qiang Yang. <br> In *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023
 
 * **Scalable and Efficient Full-Graph GNN Training for Large Graphs** \[[pdf](https://kl4805.github.io/files/g3-sigmod23.pdf)\]<br>
-Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> In *the ACM Conference on Management of Data (SIGMOD)*, 2023. 
+Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> In *the ACM Conference on Management of Data (SIGMOD)*, 2023.
+
+* **MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference** <br>
+Weiyan Wang, Yiming Zhang, **Yilun Jin**, Han Tian, Li Chen <br> To appear in *IEEE International Conference on Mobility, Sensing, and Networking (MSN)*, 2023. 
 
 ## 2022
 * **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** \[[pdf](https://kl4805.github.io/files/KDD22.pdf)\]\[[code](https://github.com/KL4805/CrossTReS)\]\[[slides](https://kl4805.github.io/files/final_kdd22.pdf)\]<br>
