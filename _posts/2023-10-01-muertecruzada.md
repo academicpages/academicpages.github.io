@@ -11,6 +11,6 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 <div style="background-color: rgb(221, 221, 221); padding: 10px;">
 
-**TL;DR:** La muerte cruzada produce retornos electorales no lineales en el corto mandato del candidato electo; exacerba el problema de selección adversa; y, en última instancia, favorece una presidencia *de facto* prolongada.
+<strong>TL;DR:</strong> La muerte cruzada produce retornos electorales no lineales en el corto mandato del candidato electo; exacerba el problema de selección adversa; y, en última instancia, favorece una presidencia *de facto* prolongada.
 
 </div>
