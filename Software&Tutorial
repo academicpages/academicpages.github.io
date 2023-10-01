@@ -1,1 +1,15 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+# STREAM
+
+![](images/STREAM_ICRA.png){: .align-right width="200px"}
+
+This is a well-developed Blender add-on built for automatically routing a Macrofludic logic circuit. The only requirement for using the software is to install the Blender. In our tutorial, more details are provided. Please refer to the guidelines from our (project repository)[https://github.com/roboticmaterialsgroup/FluidLogic].
