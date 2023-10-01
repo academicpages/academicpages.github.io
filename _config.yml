@@ -154,7 +154,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - assets 
+#  - assets 
 keep_files:
   - .git
   - .svn
