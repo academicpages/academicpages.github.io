@@ -8,4 +8,4 @@ author_profile: true
 ---
 
 {% include base_path %}
-Download [CV](/files/YZ_CV.pdf)
+My CV is available [here](/files/YZ_CV.pdf)
