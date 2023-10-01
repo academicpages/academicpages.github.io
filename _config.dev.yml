@@ -10,4 +10,4 @@ comments:
     shortname            : "mmistakes-dev"
 
 sass:
-  style: expanded
+  text-align: justify: expanded
