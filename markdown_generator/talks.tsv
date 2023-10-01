@@ -1,5 +1,9 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Multiplexing Cell-Free Diagnostics via Aqueous Two-Phase System	Conference talk	Talk1	"Engineering Biology Research Consortium (EBRC) Annual Meeting"	2020-04-29	Virtual		
+Multiplexed Biomarker Detection in Cell-Free System via Aqueous Two-Phase System	Department seminar	Talk2	Georgia Tech ChBE 4th Year Colloquium	2020-08-12	Virtual		
+The Sweet Solution to Sensing: Repurposing Glucose Monitors to Detect Micronutrient Deficiency and Pathogenic Bacteria	Conference talk	Talk3	Georgia Tech ChBE 33rd Annual Graduate Research Symposium	2021-02-22	Virtual		
+New Interfaces for Cell-free Biosensors to Enable Multiplexed Analyte Detection and Analyte Quantification at Point of Care	Award winner presentation	Talk4	Georgia Tech Institute for Bioengineering and Bioscience - Suddath Symposium	2022-01-13	Virtual		
+New Interfaces for Cell-free Biosensors to Enable Multiplexed Analyte Detection and Analyte Quantification at Point of Care	Invited Talk	Talk5	"Voigt Lab, MIT"	2022-03-14	"Boston, MA"		
+New Interfaces for Cell-free Biosensors to Enable Multiplexed Analyte Detection and Analyte Quantification at Point of Care	Invited Talk	Talk6	"Murray Lab, Caltech"	2022-03-28	"Pasadena, CA"		
+Protocell Arrays for Simultaneous Detection of Diverse Analytes	Global seminar	Talk7	"Synthetic Biology Young Speaker Series (SynBYSS)"	2023-03-02	Virtual	https://youtu.be/vXD8HXvafBY?feature=shared	
+Protocell Arrays for Simultaneous Detection of Diverse Analytes	Invited Talk	Talk8	Paul Freemont Group and Yuval Elani Group at Imperial College London	2023-03-26	"London, U.K."		
