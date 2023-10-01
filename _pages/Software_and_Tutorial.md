@@ -1,11 +1,11 @@
 ---
-permalink: /Software&Tutorial/
+permalink: /Software_and_Tutorial/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /Software&Tutorial/
-  - /Software&Tutorial.html
+  - /Software_and_Tutorial/
+  - /Software_and_Tutorial.html
 ---
 
 
