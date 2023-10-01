@@ -101,6 +101,7 @@ $mfp-use-visuallyhidden:              false !default; // Hide content from brows
   position: fixed;
   outline: none !important;
   -webkit-backface-visibility: hidden; // fixes webkit bug that can cause "false" scrollbar
+  backface-visibility: hidden; // standard property for compatibility
 }
 
 // Root container
@@ -258,6 +259,7 @@ button {
     background: transparent;
     border: 0;
     -webkit-appearance: none;
+    appearance: none;
     display: block;
     outline: none;
     padding: 0;
