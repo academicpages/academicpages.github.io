@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Mentoring"
+title: "Outreach"
 permalink: /outreach/
 author_profile: true
 ---
