@@ -11,7 +11,7 @@ redirect_from:
 ---
 # Publications
 **Point Cloud Completion With Landau Distribution: A Probabilistic View** 
-**Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang (* co-first author)
+Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang (* co-first author)
 *Under Review*
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
