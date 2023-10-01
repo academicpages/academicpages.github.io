@@ -23,4 +23,4 @@ En este escenario inestable, el período en el poder del nuevo mandatario será 
 
 Este sesgo emerge del enfoque bayesiano para la toma de decisiones en contextos inciertos. Postulemos que la aptitud del presidente electo para gestionar una crisis se distribuye normalmente, denotada como $p(\theta)\equiv\theta\sim\mathcal{N}\left(0,\frac{\sigma^2}{\tau}\right)$, donde la varianza $\frac{\sigma^2}{\tau}$ codifica nuestra incertidumbre \emph{a priori} respecto a su competencia. La siguiente figura ilustra distribuciones con una varianza relativamente baja $(\tau>1)$ a la izquierda y alta $(\tau=1)$ a la derecha.
 
-
+![Figure 1](images/t11.png)
