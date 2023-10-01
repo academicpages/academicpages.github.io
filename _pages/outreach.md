@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Outreach"
+title: "Outreach Activities"
 permalink: /outreach/
 author_profile: true
 ---
