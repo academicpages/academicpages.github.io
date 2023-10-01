@@ -10,12 +10,18 @@ redirect_from:
 
 ---
 # Publications
-![](images/LandauCD_ICLR.png){: .align-right width="200px"} 
 **Point Cloud Completion With Landau Distribution: A Probabilistic View** 
-**Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang
+**Haotian Liu\***, Fangzhou Lin\*, Songlin Hou\*, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang (* co-first author)
 *Under Review*
 
-![](images/STREAM_ICRA.png){: .align-right width="200px"}
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 *Under Review*
+
+**Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
+**Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
+*Science Publishing Group*
+
+**Toward Wearable Multimodal Neuroimaging**
+Yujie Guo\*, **Haotian Liu\***, Yuan Yifu\*, Lehong Wang\*, Haohao Yi\*, Wirt Jones\*, and Meng Wang\* (* co-first author)
+*Digital WPI*
