@@ -9,7 +9,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Software & Tutorial"
+  - title: "Software & Tutorial a"
     url: /Software_and_Tutorial/
         
   # - title: "Software & Tutorial"
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Software & Tutorial"
+  - title: "Software & Tutorial b"
     url: /markdown/
