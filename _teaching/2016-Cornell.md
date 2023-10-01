@@ -2,7 +2,7 @@
 title: "CHEME 3130: Chemical Engineering Thermodynamics"
 collection: teaching
 type: "Undergraduate teaching assistant"
-permalink: /teaching/2017-Cornell
+permalink: /teaching/2016-Cornell
 venue: "Cornell University, School of Chemical & Biomolecular Engineering"
 date: 2016-08-01
 location: "Ithaca, NY"
