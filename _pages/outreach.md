@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Mentoring"
-permalink: /mentoring/
+permalink: /outreach/
 author_profile: true
 ---
 
