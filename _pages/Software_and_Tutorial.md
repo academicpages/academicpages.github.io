@@ -1,5 +1,5 @@
 ---
-permalink: /Software_and_Tutorial/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
