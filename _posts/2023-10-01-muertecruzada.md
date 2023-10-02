@@ -103,6 +103,7 @@ $$
 <div style="background-color: rgb(221, 221, 221); padding: 12px;">
 
 ```mathematica
+
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
@@ -171,7 +172,6 @@ Do[
 yRange = MinMax[Join[avgFunctionDList1, avgFunctionDList2]];
 
 
-
 plotFull = 
   ListLinePlot[{avgFunctionDList1, avgFunctionDList2}, 
    PlotStyle -> {{Red, Dashed}, {Black, Dashed}}, 
@@ -179,17 +179,19 @@ plotFull =
    PlotRange -> {{0, n2}, yRange}, 
    Ticks -> {{{n1, ToString[n1]}, {n2, ToString[n2]}, {0, "0"}}, {{0, 
        "0"}, Automatic}}];
+
 plotPartial = 
  ListLinePlot[{Take[avgFunctionDList1, n1], 
    Take[avgFunctionDList2, n1]}, 
   PlotStyle -> {{Red, Solid}, {Black, Solid}}, Filling -> {1 -> {2}}, 
   FillingStyle -> {Directive[Red, Opacity[0.15]], 
-    Directive[Blue, Opacity[0.15]]}, 
+    Directive[Blue, Opacity[0.15]]},
   AxesLabel -> {"Meses", "\[CapitalDelta]"}, 
   PlotRange -> {{0, n1}, yRange}, 
   Ticks -> {{{n1, ToString[n1]}, {n2, ToString[n2]}, {0, "0"}}, {{0, 
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
+
 finalPlot = 
  Show[plotFull, plotPartial, 
   PlotLegends -> {"Alta Incertidumbre", "Baja Incertidumbre"}, 
@@ -197,6 +199,7 @@ finalPlot =
   Ticks -> {{{n1, ToString[n1]}, {n2, ToString[n2]}, {0, "0"}}, {{0, 
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
+
 ```
 
 </div><br><br><br>
