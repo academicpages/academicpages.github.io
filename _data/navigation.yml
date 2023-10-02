@@ -3,7 +3,7 @@ main:
   - title: "Research"
     url: /research/
 
-   - title: ""
+  - title: ""
     url: /talks/    
 
   - title: ""
@@ -12,12 +12,11 @@ main:
   - title: ""
     url: /portfolio/
         
+  - title: "Blog"
+    url: /year-archive/
     
   - title: ""
     url: /cv/
     
   - title: ""
     url: /markdown/
-
-  - title: "Blog"
-    url: /year-archive/
