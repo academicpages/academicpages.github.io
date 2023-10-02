@@ -102,6 +102,8 @@ $$
 
 <div style="background-color: rgb(221, 221, 221); padding: 12px;">
 
+{% raw %}
+
 ```mathematica
 
 (* Inicializar parámetros *)
@@ -201,6 +203,7 @@ finalPlot =
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
 
 ```
+{% endraw %}
 
 </div><br><br><br>
 
