@@ -106,9 +106,7 @@ $$
 
 <div style='background-color: rgb(221, 221, 221); padding: 12px;'>
 
-  {% raw %} 
-
-  ```mathematica
+```mathematica {% raw %}
 
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
@@ -208,9 +206,7 @@ finalPlot =
 
 
 
-```
-
-{% endraw %}
+``` {% endraw %}
 
 </div>
 
