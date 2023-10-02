@@ -105,7 +105,6 @@ $$
 {% raw %}
 
 ```mathematica
-
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
@@ -202,10 +201,10 @@ finalPlot =
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
 
-```
 {% endraw %}
 
-</div><br><br><br>
+</div>
+```
 
 </div>
 
