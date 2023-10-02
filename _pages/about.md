@@ -35,7 +35,7 @@ Experience and Education
 **[Experience](experiences/)**  
 
 * **Jul. 2021 -- Present.** Algorithm Expert (Senior MLE), Alimama Ads Tech @ Alibaba Group.   
-Working on data-driven algorithms (retrieval, ranking and generation models) to improve the performance of online advertising.  
+Working on large-scale retrieval, ranking and generation models to improve the performance of online advertising.    
 
 **Education**  
 
