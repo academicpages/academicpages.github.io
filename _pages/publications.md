@@ -149,8 +149,12 @@ Under review, 2022 -->
 
 [[Website]](https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0) [[Slides]](http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf) [[Code]](http://zhimengj0326.github.io/files/fairness_case_study.ipynb)
 
-## Patent
+## Patents
 
-<b>[System and Methods for Bid Optimization in Real-Time Bidding](https://www.freepatentsonline.com/y2023/0089895.html)
+<b>[System and Methods for Bid Optimization in Real-Time Bidding](https://patents.google.com/patent/US20230089895A1/en)
 </b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Mi Zhang, Rui Chen, Xia Hu, and Soo-Hyun Choi. <br> 
 US Patent App. 17/676,687
+
+<b>[Machine learning with instance-dependent label noise](https://patents.google.com/patent/US20230259762A1/en)
+</b><br><b>Zhimeng Jiang</b>, Kaixiong Zhou, Zirui Liu, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu. <br> 
+US Patent App. 17/972,302
