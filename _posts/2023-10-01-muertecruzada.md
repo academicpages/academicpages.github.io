@@ -49,7 +49,7 @@ Para abordarlo de forma más rigurosa, introduzcamos una métrica específica de
 
 $$
 \begin{align*}
-\Delta_\theta(n,\tau) &=  \frac{\mathbb{E}[-y^2\mid  y_1,\ldots,y_n]-  \mathbb{E}[-y^2]}{\mathbb{E}[-y^2]} \\[3ex]
+\Delta(n,\tau) &=  \frac{\mathbb{E}[-y^2\mid  y_1,\ldots,y_n]-  \mathbb{E}[-y^2]}{\mathbb{E}[-y^2]} \\[3ex]
 &= \frac{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \hat{\theta}\right]\right]-\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]}{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{\tau+n}, \frac{\sigma^2}{\tau+n} \right) \\[3ex]
 &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
 \end{align*}
@@ -59,9 +59,13 @@ $$
 
 <div style="text-align: justify;">
 
-Con esta métrica de retorno electoral, $\Delta_\theta(n,\tau)$, podemos explorar cómo la longitud del mandato condiciona el volumen de señales generables y, en consecuencia, nuestra capacidad para realizar inferencias precisas. Para ilustrar este punto, la figura subsiguiente presenta la evolución de dicha métrica en función de una secuencia aleatoria de desempeños del candidato. Específicamente, la figura sintetiza los resultados de $j\in\{1,2,...100\}$ simulaciones individuales. En cada simulación se realiza lo siguiente: (a) se selecciona de forma aleatoria entre políticos con diversos grados de competencia, y (b) se genera una secuencia aleatoria de desempeños correspondiente al número de meses del mandato, dadas las competencias seleccionadas. [Nota: El código fuente, implementado en Wolfram Mathematica, se encuentra disponible al final de este artículo].<br>
+Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo la longitud del mandato condiciona el volumen de señales generables y, en consecuencia, nuestra capacidad para realizar inferencias precisas. Para ilustrar este punto, la figura subsiguiente presenta la evolución de dicha métrica en función de una secuencia aleatoria de desempeños del candidato. Específicamente, la figura sintetiza los resultados de $j\in\{1,2,...100\}$ simulaciones individuales. En cada simulación se realiza lo siguiente: (a) se selecciona de forma aleatoria entre políticos con diversos grados de competencia, y (b) se genera una secuencia aleatoria de desempeños correspondiente al número de meses del mandato, dadas las competencias seleccionadas. [Nota: El código fuente, implementado en Wolfram Mathematica, se encuentra disponible al final de este artículo].<br><br>
 
+</div>
 
+![Figure 2](/images/t3.png)<br>
+
+<div style="text-align: justify;">
 
 El panel izquierdo simula la evolución de los retornos electorales a medida que se reciben señales informativas $i\in\{1,2,...,17\}$ sobre la competencia del candidato. La disparidad entre las líneas roja y negra representa la bonificación en retornos electorales que el candidato electo recibe debido a la incertidumbre inicial; aquí, la línea negra sirve como un contrafactual donde la única variación es una menor dispersión ($\tau$) en nuestras creencias a priori en comparación con la línea roja. Notablemente, la simulación revela una brecha no trivial que incrementa en magnitud tanto para la línea roja como para la negra.
 
@@ -70,22 +74,28 @@ Por su parte, el panel derecho proporciona otro contrafactual: cómo se habrían
 En conclusión, la muerte cruzada, al instaurar un mandato presidencial excepcionalmente corto, restringe nuestras capacidades inferenciales y potencialmente nos induce a mantener en el cargo a líderes que, en un escenario de mandato ordinario, habríamos depuesto. Este efecto se potencia en contextos de alta incertidumbre, donde incluso señales mínimamente informativas pueden crear expectativas desmesuradas. En última instancia, la 'muerte cruzada' podría funcionar como un "gol olímpico" en el ámbito político: un evento excepcional pero decisivo que, dadas las reglas del juego, transforma de manera sustancial la dinámica competitiva en favor del Ejecutivo.
 
 
-Ahora, si bien más observaciones deviene mejora en nuestra capacidad como votantes de sacar a malos políticos del cargo, esto no necesariamente elimina la brecha producto de diferencias en incertidumbre inicial. Formalmente, supongamos que la competencia "verdadera" del candidato electo es $\theta=\theta_V$.  En el caso límite donde el número de señales tiende al infinito, la diferencia entre los retornos converge a
+Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia "verdadera" del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a
 
 <div>
 
 $$
 \begin{align*}
-   \lim\limits_{n\to \infty}\big( \Delta_\theta(n,1)- \Delta_\theta(n,\tau) \big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{\left(n+1\right)^2(1+1)\,\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
-   &= \frac{1}{2}\left(1-\frac{\,\theta_v^2\,}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\,\tau\,\theta_v^2\,}{\sigma^2}\right)\quad \text{ dado que  } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
-   &=\frac{(\tau-1)\left(\sigma^2+\theta_v^2\right)}{2(1+\tau)\sigma^2}
+   \lim\limits_{n\to \infty}\big( \Delta(n,1)- \Delta(n,\tau) \big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{\left(n+1\right)^2(1+1)\,\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
+   &= \frac{1}{2}\left(1-\frac{\,\theta_V^2\,}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\,\tau\,\theta_V^2\,}{\sigma^2}\right)\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
+   &=\frac{(\tau-1)\left(\sigma^2+\theta_V^2\right)}{2(1+\tau)\sigma^2}
     \end{align*}
 $$
 
 </div><br>
 
 
+Esta expresión es estrictamente positiva, lo cual indica que aunque la acumulación de información pueda mitigar la brecha en retornos electorales originada por diferencias en la incertidumbre inicial, no la elimina por completo. Además, la magnitud de la expresión aumenta exponencialmente con la incompetencia del político (recordemos que el parámetro que maximiza nuestra utilidad es $\theta^*=0$). Intuitivamente, esto se debe a que las noticias desfavorables respecto al candidato son menos perjudiciales cuando la incertidumbre inicial es alta.
 
+Efectivamente, la potente influencia que una señal positiva puede ejercer sobre el rendimiento electoral de un candidato podría incentivarlo a intensificar esfuerzos dirigidos a mejorar el bienestar público. No obstante, se desencadena aquí un dilema intrincado: aunque dicho esfuerzo de corto plazo pueda beneficiar a la ciudadanía en el presente, corre el riesgo de exacerbar el problema de selección adversa. En otras palabras, al estimular el esfuerzo inmediato, podríamos inadvertidamente perpetuar la elección de candidatos subóptimos en el contexto del bienestar a largo plazo. Este fenómeno encapsula el trade-off clásico entre riesgo moral y selección adversa, conceptos centrales en la economía política. El riesgo moral concierne al incentivo para el esfuerzo, mientras que la selección adversa aborda la idoneidad intrínseca del candidato.
+
+Para recurrir a una analogía, imagine que la arena política es comparable a un torneo deportivo. Un gol de último minuto puede catapultar a un jugador al estrellato, motivándolo a redoblar esfuerzos en futuros encuentros para mantener su estatus. Este es el poder catalizador de una señal positiva en la política: tiene la capacidad de transformar a un candidato electo en un icono electoral prácticamente de inmediato. Pero ahí reside la paradoja, semejante a un "autogol" ejecutado en cámara lenta. En el fervor de celebrar estos logros a corto plazo, corremos el riesgo de obviar estrategias de largo alcance, tales como la táctica defensiva y el juego colaborativo. Este es el delicado balance entre el riesgo moral y la selección adversa: mientras el primero nos impulsa a buscar triunfos inmediatos, el segundo nos previene de enlistar jugadores inadecuados para una temporada completa. En este escenario, donde la incertidumbre reina y la "muerte cruzada" actúa como catalizador excepcional, candidatos mediocres podrían fácilmente cosechar los frutos de victorias efímeras. Se trata de un atajo pernicioso; después de todo, ¿qué impide que este mecanismo se convierta en una estrategia recurrente, socavando la calidad de la gobernanza a largo plazo?
+
+Concluyendo, mi argumento apunta a que la estructura institucional, aquí ilustrada mediante el concepto de muerte cruzada, tiene implicancias profundas para la estabilidad y eficacia de la gobernanza democrática. En contextos donde la evaluación pública del liderazgo es susceptible a imprecisiones y sesgos, un mecanismo diseñado para dirimir conflictos Ejecutivo-Legislativos podría, de forma paradójica, perpetuar una administración ineficaz o incluso peligrosa.
 
 </div>
 
