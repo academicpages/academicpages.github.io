@@ -26,6 +26,7 @@ Highlights
 ======
 
 * [Sep 2023] Our paper entitled "One label is all you need: Interpretable AI-enhanced histopathology for oncology." is accepted in **Seminars in Cancer Biology**.
+* [July 2023] I am delighted to share that I have successfully defended my thesis proposal titled "Improved Breast Cancer Diagnosis and Prognosis with Interpretable Deep Learning in Histopathology Images." I extend my gratitude to Dr. Gurcan, Dr. Niazi, and all members of my committee!
 * [June 2023] Our paper entitled "NRK-ABMIL: Subtle Metastatic Deposits Detection for Predicting Lymph Node Metastasis in Breast Cancer Whole-Slide Images" is accepted in **Cancers**.
 * [May 2023] I make a lecture about Imaging Informatics and Artificial Intelligence in WFBMI CALIBIR Informatics Bootcamp.
 * [May 2023] Our [paper](10.1016/j.media.2022.102462) received the top scientific paper award during the Internal Medicine Research Day Grand Rounds of WFUSOM-Atrium Health. This award recognizes outstanding scientific papers published by students and faculty members from WFUSOM and Atrium Health in 2022."
