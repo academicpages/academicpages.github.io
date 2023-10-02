@@ -1,5 +1,5 @@
 ---
-title: '¿Es la Muerte Cruzada un Ancla o un Salvavidas?'
+title: 'Muerte cruzada: ¿Ancla o salvavidas?'
 date: 2023-10-01
 permalink: /posts/2023/10/muertecruzada/
 tags:
