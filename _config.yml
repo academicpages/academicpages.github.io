@@ -82,13 +82,23 @@ analytics:
 author:
   name             : "Adrian Leon"
   avatar           : "Photo1.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Pursuing a research career path 
+on Intelligence comprehension, 
+Intelligent Systems and BrainInspired methods. Fascinated by 
+the research aiming to understand 
+the origin of intelligence and to 
+further apply them in artificial 
+machines. Keen interest in 
+multidisciplinary work using 
+programming and engineering 
+skills towards real impacts in 
+society."
+  location         : "Lisboa, Portugal"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.com/citations?hl=es&user=0fgsaI4AAAAJ"
+  email            : "adrianleon@tecnico.ulisboa.pt"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,16 +110,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/adrian-leon-a216a417a/"
+  orcid            : "https://orcid.org/0000-0002-4400-7349"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
