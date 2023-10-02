@@ -23,7 +23,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal con
 
 * **Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking**  
 Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng  
-**CIKM ’23** (long): Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. UK, October 21-25, 2023.        
+**CIKM ’23** (long): Proceedings of the 32nd ACM International Conference on Information and Knowledge Management. Birmingham, UK, October 21--25, 2023.        
    
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
@@ -53,10 +53,6 @@ Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu, Liang Wang, Bo Zheng
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 **TASLP ’21**: IEEE/ACM Transactions on Audio, Speech, and Language Processing, Volume 29, 2021: 1650--1660.  
 
-* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
-Jiahao Zhao, **Penghui Wei**, Wenji Mao  
-**SIGIR ’21** (short): Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual Event, Canada, July 11--15, 2021.    
-
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 **ACL ’20** (long): Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3171–3181. Online, July 5–10, 2020.  
@@ -76,6 +72,10 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 * **Multi-Target Stance Detection via a Dynamic Memory-Augmented Network**       
 **Penghui Wei**, Junjie Lin, Wenji Mao  
 **SIGIR ’18** (short): Proceedings of the 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, pages 1229--1232. Ann Arbor, MI, USA, July 8--12, 2018.  
+
+* **Robust Neural Text Classification and Entailment via Mixup Regularized Adversarial Training**     
+Jiahao Zhao, **Penghui Wei**, Wenji Mao  
+**SIGIR ’21** (short): Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual Event, Canada, July 11--15, 2021.    
 
 * **Knowledge Structure driven Prototype Learning and Verification for Fact Checking**  
 Shuai Wang, Wenji Mao, **Penghui Wei**, Daniel Zeng  
