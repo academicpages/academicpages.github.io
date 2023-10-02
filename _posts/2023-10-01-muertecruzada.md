@@ -25,7 +25,11 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
+<div>
+
 <img src="t11.png" alt="Figure 1" style="max-width: 100%;"><br>
+
+</div>
 
 <div style="text-align: justify;">
 
@@ -35,7 +39,11 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
+<div>
+
 <img src="t2.png" alt="Figure 23" style="max-width: 100%;"><br>
+
+</div>
 
 <div style="text-align: justify;">
 
@@ -63,7 +71,11 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 </div>
 
+<div>
+
 <img src="t3.png" alt="Figure 3" style="max-width: 100%;"><br>
+
+</div>
 
 <div style="text-align: justify;">
 
