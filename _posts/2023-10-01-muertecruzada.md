@@ -6,7 +6,9 @@ tags:
   - Ecuador
   - Muerte Cruzada
 ---
+
 <div style="text-align: justify;"><br>
+
 La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca resolver conflictos entre el Ejecutivo y el Legislativo a través de amenazas bilaterales de disolución. A pesar de las críticas conocidas —como el desequilibrio a favor del Ejecutivo debido a costos nulos de coordinación— este mecanismo tiene también implicaciones electorales que posiblemente no fueron anticipadas por los constituyentes.<br><br>
 
 
@@ -102,10 +104,9 @@ $$
 
 <div style="background-color: rgb(221, 221, 221); padding: 12px;">
 
-{% raw %}
+{% raw %} 
 
 ```mathematica
-
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
@@ -205,7 +206,6 @@ finalPlot =
 {% endraw %}
 
 </div>
-
 ```
 
 </div>
