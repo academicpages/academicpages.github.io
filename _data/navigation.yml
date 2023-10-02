@@ -1,22 +1,22 @@
 # main links links
 main:
+  - title: "CV"
+    url: /files/Adrian Leon - Two pages (Sep 2023).pdf
+
   - title: "Publications"
-    url: /publications/
+    url: https://scholar.google.com/citations?hl=es&user=0fgsaI4AAAAJ
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+#  - title: "Blog Posts"
+#    url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/
