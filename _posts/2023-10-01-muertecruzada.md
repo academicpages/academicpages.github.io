@@ -106,7 +106,11 @@ $$
 
 <div style='background-color: rgb(221, 221, 221); padding: 12px;'>
 
-```mathematica {% raw %}
+  <pre>
+  
+  <code>
+
+  {% raw %}
 
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
@@ -204,11 +208,15 @@ finalPlot =
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
 
+  {% endraw %}
 
-
-``` {% endraw %}
+  </code>
+  
+  </pre>
 
 </div>
+
+
 
 
 
