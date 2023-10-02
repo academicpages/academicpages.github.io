@@ -3,10 +3,7 @@ main:
   - title: "Research"
     url: /research/
 
- - title: "Blog"
-    url: /year-archive/
-    
-  - title: ""
+   - title: ""
     url: /talks/    
 
   - title: ""
@@ -21,3 +18,6 @@ main:
     
   - title: ""
     url: /markdown/
+
+  - title: "Blog"
+    url: /year-archive/
