@@ -105,6 +105,7 @@ $$
 {% raw %}
 
 ```mathematica
+
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
@@ -204,6 +205,7 @@ finalPlot =
 {% endraw %}
 
 </div>
+
 ```
 
 </div>
