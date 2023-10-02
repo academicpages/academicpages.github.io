@@ -45,7 +45,7 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
-<div style="max-width: 200%; margin: 0 auto;">
+<div>
 
   $$
   \begin{align*}
@@ -75,7 +75,7 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 <br>Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia "verdadera" del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a<br>
 
-<br><div style="max-width: auto; margin: 0 auto;">
+<br><div>
 
 $$
 \begin{align*}
