@@ -15,12 +15,17 @@ Education
 
 Work experience
 ======
-* Summer 2023 May-Present: Research Assistant
+* 2023 May-Present: Research Assistant
   * WPI Aim Lab
   * Automated EVD monitoring system design
-  * Supervisor: Professor. Christopher Nycz
+  * Supervisor: Professor Christopher Nycz
 
-* Summer 2022 May-September: Research Assistant
+* 2023 April-Present: Research Assistant
+  * WPI VISLab
+  * Loss function design for 3D Point cloud completion
+  * Supervisor: Professor Ziming Zhang
+
+* 2022 May-September: Research Assistant
   * WPI The Yousefi Lab
-  * Portable EEG chip for monitoring sleep spindle
+  * Portable EEG chip design for monitoring sleep spindle
   * Supervisor: Professor Ali Yousefi and Soroush Farzin
