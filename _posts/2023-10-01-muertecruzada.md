@@ -104,10 +104,10 @@ $$
 </div>
 
 
-<div style='background-color: rgb(221, 221, 221); padding: 12px; max-width: 800px; margin: auto;'>
-  <pre><code>
-  {% raw %}
-  (* Inicializar parámetros *)
+<div style='background-color: rgb(221, 221, 221); padding: 12px; max-width: 100%; margin: auto; font-size: 10pt;'>
+<pre><code>
+{% raw %}
+(* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
 n1 = 17; n2 = 48;
