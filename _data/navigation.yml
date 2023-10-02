@@ -3,17 +3,20 @@ main:
   - title: "Research"
     url: /research/
 
-   - title: "Teaching"
+  - title: ""
+    url: /talks/    
+
+  - title: ""
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: ""
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
-  - title: "CV"
+  - title: ""
     url: /cv/
     
-  - title: "Guide"
+  - title: ""
     url: /markdown/
