@@ -90,9 +90,9 @@ $$
 </div><br>
 
 
-<br>Esta expresión es estrictamente positiva, lo cual indica que aunque la acumulación de información pueda mitigar la brecha en retornos electorales originada por diferencias en incertidumbre inicial, no la elimina por completo. Además, la magnitud de la expresión aumenta exponencialmente con la incompetencia del político (recordemos que el parámetro que maximiza nuestra utilidad es $\theta^*=0$). Intuitivamente, esto se debe a que las noticias desfavorables respecto al candidato son menos perjudiciales cuando la incertidumbre inicial es alta.<br>
+<br>Esta expresión es estrictamente positiva, lo cual indica que aunque la acumulación de información pueda mitigar la brecha en retornos electorales originada por diferencias en incertidumbre inicial, no la elimina por completo. Además, la magnitud de la expresión aumenta exponencialmente con la incompetencia del político (recordemos que el parámetro que maximiza nuestra utilidad es $\theta^*=0$). Intuitivamente, esto se debe a que las noticias desfavorables respecto al candidato son menos perjudiciales cuando la incertidumbre inicial es alta.<br><br>
 
-<div style="text-align: center;">***</div>
+<br><div style="text-align: center;">***</div>
 
 
 <br>Efectivamente, el efecto no-trivial que una señal positiva puede ejercer sobre el rendimiento electoral de un candidato podría incentivarlo a intensificar esfuerzos dirigidos a mejorar el bienestar público. No obstante, se desencadena aquí un dilema: aunque dicho esfuerzo de corto plazo pueda beneficiar a la ciudadanía en el presente, corre el riesgo de exacerbar el problema de selección adversa. En otras palabras, al estimular el esfuerzo inmediato, podríamos inadvertidamente perpetuar la elección de candidatos subóptimos en el contexto del bienestar a largo plazo. Este fenómeno encapsula el <em>trade-off</em> clásico entre riesgo moral y selección adversa, conceptos centrales en la economía política. El riesgo moral concierne al incentivo para el esfuerzo, mientras que la selección adversa aborda la idoneidad intrínseca del candidato.<br>
@@ -103,8 +103,7 @@ $$
 
 </div>
 
-
-<div style='background-color: rgb(221, 221, 221); padding: 12px; max-width: 100%; margin: auto; font-size: 10pt;'>
+<div style="background-color: rgb(221, 221, 221); padding: 12px; max-width: 500px; margin: auto; font-size: 10pt;">
 <pre><code>
 {% raw %}
 (* Inicializar parámetros *)
