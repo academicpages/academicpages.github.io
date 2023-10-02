@@ -28,6 +28,8 @@ Research Experience
   
 Teaching Experience
 ======
+* Summer Math Review (MIT-WHOI, Summer 2023)
+  * Taught on course on signal processing and timeseries analysis 
 * Joint Program Network (MIT, Summer 2022)
   * Delivered a class lecture
 * Introduction to Climate Science (MIT, Spring 2020)
@@ -37,9 +39,14 @@ Teaching Experience
 
 Service and Leadership
 ======
+* WCRP Coupled Model Intercomparison Project (2023-Present)
+  * Data Analysis Working Group Member
+* AGU Fall Meeting (2023)
+  * Session Convener for PP036: Understanding Past Climates and Environments of Monsoon Asia and the Indo-Pacific (Primary Liason) 
 * Graduate Climate Conference (2021-Present)
-  * Co-chair of Communications Committee (2021)
+  * Co-chair At Large (2023)
   * Co-chair of Audio/Visual Committee (2022)
+  * Co-chair of Communications Committee (2021)
 * JP-ASK (2020-2022)
   * Executive Board Member
 * JP Student Representatives (2021-2022)
