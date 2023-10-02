@@ -25,17 +25,17 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
-![Figure 1](/images/t11.png)<br>
+<img src="t11.png" alt="Figure 1" style="max-width: 100%;"><br>
 
 <div style="text-align: justify;">
 
 <br>Al asumir su cargo, el candidato electo se enfrenta al reto de gobernar en medio del caos. Su desempeño se manifiesta a través de una señal informativa, $y$, que para nosotros sirve como un indicador de su competencia subyacente—y está modelado como una variable aleatoria normal $y\vert\theta \sim \mathcal{N}(\theta, \sigma^2)$. ¿Cómo actualizamos nuestras creencias iniciales en función de esta señal? Según el Teorema de Bayes, en contextos con elevada incertidumbre <em>a priori</em>, incluso señales ruidosas sobre la habilidad del candidato adquieren una relevancia comparativa mayor. Formalmente, las creencias posteriores, $\hat{\theta}$, son proporcionales al producto de nuestras creencias <em>a priori</em> y la verosimilitud de la señal observada.<br> 
 
-<br>Para ilustrar este fenómeno, la figura siguiente muestra cómo una alta varianza en nuestras creencias iniciales puede resultar en disparidades significativas en la actualización de nuestras creencias, \emph{dadas las mismas señales de desempeño}. Específicamente, nuestra expectativa sobre la aptitud del candidato se desplaza levemente desde el punto de origen cuando la varianza inicial es baja (panel izquierdo), en contraposición a cuando la varianza inicial es alta (panel derecho).<br><br>
+<br>Para ilustrar este fenómeno, la figura siguiente muestra cómo una alta varianza en nuestras creencias iniciales puede resultar en disparidades significativas en la actualización de nuestras creencias, <em>dadas las mismas señales de desempeño</em>. Específicamente, nuestra expectativa sobre la aptitud del candidato se desplaza levemente desde el punto de origen cuando la varianza inicial es baja (panel izquierdo), en contraposición a cuando la varianza inicial es alta (panel derecho).<br><br>
 
 </div>
 
-![Figure 2](/images/t2.png)<br>
+<img src="t2.png" alt="Figure 23" style="max-width: 100%;"><br>
 
 <div style="text-align: justify;">
 
@@ -45,15 +45,15 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
-<div>
+<div style="max-width: 100%; margin: 0 auto;">
 
-$$
-\begin{align*}
-\Delta(n,\tau) &=  \frac{\mathbb{E}[-y^2\mid  y_1,\ldots,y_n]-  \mathbb{E}[-y^2]}{\mathbb{E}[-y^2]} \\[3ex]
-&= \frac{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \hat{\theta}\right]\right]-\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]}{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{\tau+n}, \frac{\sigma^2}{\tau+n} \right) \\[3ex]
-&= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
-\end{align*}
-$$
+  $$
+  \begin{align*}
+  \Delta(n,\tau) &=  \frac{\mathbb{E}[-y^2\mid  y_1,\ldots,y_n]-  \mathbb{E}[-y^2]}{\mathbb{E}[-y^2]} \\[3ex]
+  &= \frac{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \hat{\theta}\right]\right]-\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]}{\mathbb{E}\left[\mathbb{E}\left[-y^2\vert \theta\right]\right]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{\tau+n}, \frac{\sigma^2}{\tau+n} \right) \\[3ex]
+  &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
+  \end{align*}
+  $$
 
 </div><br>
 
@@ -63,7 +63,7 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 </div>
 
-![Figure 2](/images/t3.png)<br>
+<img src="t3.png" alt="Figure 3" style="max-width: 100%;"><br>
 
 <div style="text-align: justify;">
 
@@ -73,9 +73,9 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 <br>En conclusión, la muerte cruzada, al instaurar un mandato presidencial excepcionalmente corto, restringe nuestras capacidades inferenciales y potencialmente nos induce a mantener en el cargo a líderes que, en un escenario de mandato ordinario, habríamos depuesto. Este efecto se potencia en contextos de alta incertidumbre, donde incluso señales mínimamente informativas pueden crear expectativas desmesuradas. En última instancia, la 'muerte cruzada' podría funcionar como un "gol olímpico" en el ámbito político: un evento excepcional pero decisivo que, dadas las reglas del juego, transforma de manera sustancial la dinámica competitiva en favor del Ejecutivo.<br>
 
-<br>Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia "verdadera" del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a
+<br>Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia "verdadera" del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a<br>
 
-<div>
+<br><div style="max-width: 100%; margin: 0 auto;">
 
 $$
 \begin{align*}
