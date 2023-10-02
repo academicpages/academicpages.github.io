@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Xinwei Gao"
 description              : &description "personal description"
 url                      : https://GAO-XINWEI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://xinweigao.com" # the subpath of your site, e.g. "/blog"
 repository               : "GAO-XINWEI/GAO-XINWEI.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
