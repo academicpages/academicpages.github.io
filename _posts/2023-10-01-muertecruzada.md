@@ -7,21 +7,21 @@ tags:
   - Muerte Cruzada
 ---
 <div style="text-align: justify;"><br>
-La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca resolver conflictos entre el Ejecutivo y el Legislativo a través de amenazas bilaterales de disolución. A pesar de las críticas conocidas —como el desequilibrio a favor del Ejecutivo debido a costos nulos de coordinación— este mecanismo tiene también implicaciones electorales que posiblemente no fueron anticipadas por los constituyentes.<br><br>
+La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca resolver conflictos entre el Ejecutivo y el Legislativo a través de amenazas bilaterales de disolución. A pesar de las críticas conocidas —como el desequilibrio a favor del Ejecutivo debido a costos nulos de coordinación— este mecanismo tiene también implicaciones electorales que posiblemente no fueron anticipadas por los constituyentes.<br>
 
 
-<div style="background-color: rgb(221, 221, 221); padding: 10px;">
+<br><div style="background-color: rgb(221, 221, 221); padding: 12px;">
 
-<strong>TL;DR:</strong> La muerte cruzada produce retornos electorales no lineales en el corto mandato del candidato electo; exacerba el problema de selección adversa; y, en última instancia, favorece una presidencia *de facto* prolongada.
+<strong>TL;DR:</strong> La muerte cruzada produce retornos electorales no lineales en el corto mandato del candidato electo; exacerba el problema de selección adversa; y, en última instancia, favorece una presidencia <em>de facto</em> prolongada.
 
 </div><br>
 
 
 <br>Examinemos el caso de Guillermo Lasso, el primer presidente en recurrir al mecanismo de la muerte cruzada. Su decisión se fundamenta en la confluencia de tres factores determinantes: (a) intentos de censura legislativa, (b) desafíos en la ejecución de su programa gubernamental, y (c) una crítica crisis de narcotráfico y violencia. Aunque legalmente los dos primeros elementos ofrecen justificación suficiente para activar el mecanismo de muerte cruzada y convocar a elecciones, es poco plausible que dicho recurso se hubiera ejercido sin la presencia del tercer factor. Este último actuó como un catalizador fulminante, precipitando la decisión ante el caos sin precedentes que instigó en el país.<br>
 
-<br>En este escenario inestable, el período en el poder del nuevo mandatario será de 17 meses y 14 días, extendiéndose desde el 30 de noviembre de 2023 hasta el 13 de mayo de 2025. Teóricamente, el líder electo se encuentra en una especie de lotería electoral de winner-take-all: o bien consolida su reelección, ampliando su mandato a un total de 65 meses, o es depuesto después de los 17 meses iniciales. En las siguientes líneas, argumento que esta lotería está inclinada hacia su reelección.<br>
+<br>En este escenario inestable, el período en el poder del nuevo mandatario será de 17 meses y 14 días, extendiéndose desde el 30 de noviembre de 2023 hasta el 13 de mayo de 2025. Teóricamente, el líder electo se encuentra en una especie de lotería electoral tipo <em>winner-take-all</em>: o bien consolida su reelección, ampliando su mandato a un total de 65 meses, o es depuesto después de los 17 meses iniciales. En las siguientes líneas, argumento que esta lotería está inclinada hacia su reelección.<br>
 
-<br>Este sesgo se origina en el uso de métodos bayesianos para la toma de decisiones en contextos inciertos. Supongamos que estamos en la oscuridad respecto a la habilidad del candidato electo para gestionar una crisis. Sin embargo, partimos de una creencia inicial: su habilidad, $\theta$, es una variable aleatoria que puede tomar cualquier valor entre $-\infty$ e $\infty$. Desde nuestra perspectiva, la expectativa de $\theta$ es cero, expresada como una distribución normal $\theta\sim\mathcal{N}\left(0,\tau\cdot \sigma^2\right)$. Aquí, la varianza $(\tau\cdot \sigma^2)$ actúa como un indicador cuantitativo de nuestra incertidumbre <em>a priori</em>, que podría ser baja (para cualquier $\tau>1$) o alta (si $\tau=1$). La figura siguiente muestra que una varianza baja (panel izquierdo) concentra la densidad de probabilidad cerca de nuestra expectativa cero, mientras que una varianza alta (panel derecho) da lugar a una distribución más dispersa y, por ende, más "plana".<br><br> 
+<br>Este sesgo emerge del enfoque bayesiano para la toma de decisiones en contextos inciertos. Supongamos que estamos en la oscuridad respecto a la habilidad del candidato electo para gestionar una crisis. Sin embargo, partimos de una creencia inicial: su habilidad, $\theta$, es una variable aleatoria que puede tomar cualquier valor entre $-\infty$ e $\infty$. Desde nuestra perspectiva, la expectativa de $\theta$ es cero, expresada como una distribución normal $\theta\sim\mathcal{N}\left(0,\tau\cdot \sigma^2\right)$. Aquí, la varianza $(\tau\cdot \sigma^2)$ actúa como un indicador cuantitativo de nuestra incertidumbre <em>a priori</em>, que podría ser baja (para cualquier $\tau>1$) o alta (si $\tau=1$). La figura siguiente muestra que una varianza baja (panel izquierdo) concentra la densidad de probabilidad cerca de nuestra expectativa cero, mientras que una varianza alta (panel derecho) da lugar a una distribución más dispersa y, por ende, más "plana".<br><br> 
 
 </div>
 
