@@ -3,6 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
+ - title: "Blog"
+    url: /year-archive/
+    
   - title: ""
     url: /talks/    
 
@@ -12,8 +15,6 @@ main:
   - title: ""
     url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
     
   - title: ""
     url: /cv/
