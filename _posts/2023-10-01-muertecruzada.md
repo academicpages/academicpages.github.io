@@ -104,15 +104,10 @@ $$
 </div>
 
 
-<div style='background-color: rgb(221, 221, 221); padding: 12px;'>
-
+<div style='background-color: rgb(221, 221, 221); padding: 12px; max-width: 800px; margin: auto;'>
   <pre>
-  
   <code>
-
-  {% raw %}
-
-(* Inicializar parámetros *)
+  (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
 n1 = 17; n2 = 48;
@@ -207,13 +202,8 @@ finalPlot =
   Ticks -> {{{n1, ToString[n1]}, {n2, ToString[n2]}, {0, "0"}}, {{0, 
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
-
-  {% endraw %}
-
   </code>
-  
-  </pre>
-
+   </pre>
 </div>
 
 
