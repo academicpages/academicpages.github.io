@@ -101,10 +101,15 @@ $$
 
 <br>Concluyendo, mi argumento apunta a que la estructura institucional, aquí ilustrada mediante el concepto de muerte cruzada, tiene implicancias profundas para la estabilidad y eficacia de la gobernanza democrática. En contextos donde la evaluación pública del liderazgo es susceptible a imprecisiones y sesgos, un mecanismo diseñado para dirimir conflictos Ejecutivo-Legislativo podría, de forma paradójica, perpetuar una administración ineficaz o incluso peligrosa.<br><br><br><br>
 
+</div>
+
 
 <div style='background-color: rgb(221, 221, 221); padding: 12px;'>
-  <pre><code>
-  {% raw %}
+
+  {% raw %} 
+
+  ```mathematica
+
 (* Inicializar parámetros *)
 mu1 = mu2 = 0;
 t1 = input1; t2 = input2;
@@ -200,11 +205,13 @@ finalPlot =
   Ticks -> {{{n1, ToString[n1]}, {n2, ToString[n2]}, {0, "0"}}, {{0, 
       "0"}, 0}}, GridLines -> {{17, 48}, {}}, 
   GridLinesStyle -> {{Black}, {Black}}, BaseStyle -> {FontSize -> 14}]
-  {% endraw %}
-  </code></pre>
-</div>
+
+{% endraw %}
 
 </div>
+
+```
+
 
 
 
