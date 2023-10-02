@@ -11,6 +11,7 @@ redirect_from:
 I am currently a **Research Assistant** under the **AI Singapore Programme** at the **CPS Research Group**, Nanyang Technological University (NTU). I possess in-depth expertise in machine learning research and algorithm development. My research interest includes:
 - **Reinforcement Learning**
 - **Robotic Control Optimization**
+- **Multi-Agent System**
 - **Safety mechanisms of Machine Learning**
 
 ## 💻 Professional Experience
@@ -46,7 +47,7 @@ I am currently a **Research Assistant** under the **AI Singapore Programme** at 
 
 - **CRADLE: Constrained Reinforcement for Autonomous Driving Learning in Simulation-to-Real Environment**  
   *Status: Under Review, Oct 2021 - Present*  
-  Constraint-RL based formulation for autonomous driving with collision and lane offset constraints. Developed an algorithm optimizing driving distance adhering to constraints.
+  Introduce a constrained-RL based formulation for the AD problem. Develop a constrained-RL based algorithm that enables the vehicle to cover as much distance as possible along the correct lane while adhering to the constraints.
 
 - **Mechanical Engineering Project: Individual Voting for RL and Search-based Algorithm Combination in Multi-agent Pathfinding**  
   *Aug 2021 - Oct 2022*  
@@ -59,7 +60,7 @@ I am currently a **Research Assistant** under the **AI Singapore Programme** at 
 ## 🛠️ Technical Skills
 
 - **Programming Languages**: Python, C++
-- **Scientific Tools**: MATLAB
+- **Scientific Tools**: MATLAB, Origin
 - **Operating Systems**: Linux, ROS, Docker
 - **CAD Software**: AutoCAD, SolidWorks
 - **Game Development**: Unity
