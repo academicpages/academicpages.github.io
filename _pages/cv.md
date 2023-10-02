@@ -59,6 +59,7 @@ Programming Languages
 
 留学・インターンシップ
 ======
+* 2023/10-2023/12 教育・研究指導実習 兼 博士後期課程実務訓練, 豊田工業高等専門学校．豊橋技術科学大学 科学技術教員プログラム および 同博士課程教育リーディングプログラム．
 * 2021/2-2021/3	Global Jinzai Program, English Language Centre, The University of Adelaide, Australia. 2020年度 豊橋技術科学大学 羽ばたけ！TUTグローバル研修応援キャンペーン（兼 同リーディングプログラム グローバルサマースクール）．
 * 2020/1-2020/2	Digital Media and Interaction Laboratory (DMI), Faculty of Informatics, Burapha University, Thailand. 2019年度 豊橋技術科学大学 学部4年次 実務訓練．
 
