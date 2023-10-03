@@ -9,7 +9,6 @@ doi: '10.1371/journal.pcbi.1010822'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1010822'
 citation: '{von B{\"u}low}, S{\"o}ren and Sikora, Mateusz and Blanc, Florian E. C. and Covino, Roberto and Hummer, Gerhard (2023). "Antibody Accessibility Determines Location of Spike Surface Mutations in {{SARS-CoV-2}} Variants." <i>PLOS Computational Biology</i>. 191.'
 ---
-{% include vonbulowAntibodyAccessibilityDetermines2023-summary.md %}
 
 [Link](https://doi.org/10.1371/journal.pcbi.1010822)
 

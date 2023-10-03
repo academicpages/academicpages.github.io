@@ -9,7 +9,6 @@ doi: '10.1126/science.abd5223'
 paperurl: 'https://doi.org/10.1126/science.abd5223'
 citation: 'Turo{\v n}ov{\'a}, Beata and Sikora, Mateusz and Sch{\"u}rmann, Christoph and Hagen, Wim J. H. and Welsch, Sonja and Blanc, Florian E. C. and {von B{\"u}low}, S{\"o}ren and Gecht, Michael and Bagola, Katrin and H{\"o}rner, Cindy and van Zandbergen, Ger and Landry, Jonathan and de Azevedo, Nayara Trevisan Doimo and Mosalaganti, Shyamal and Schwarz, Andre and Covino, Roberto and M{\"u}hlebach, Michael D. and Hummer, Gerhard and Locker, Jacomine Krijnse and Beck, Martin (2020). "In Situ Structural Analysis of {{SARS-CoV-2}} Spike Reveals Flexibility Mediated by Three Hinges." <i>Science</i>. Volume(Number).'
 ---
-{% include turonovaSituStructuralAnalysis2020-summary.md %}
 
 [Link](https://doi.org/10.1126/science.abd5223)
 

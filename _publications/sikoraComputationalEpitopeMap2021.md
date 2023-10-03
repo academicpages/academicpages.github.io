@@ -9,7 +9,6 @@ doi: '10.1371/journal.pcbi.1008790'
 paperurl: 'https://doi.org/10.1371/journal.pcbi.1008790'
 citation: 'Sikora, Mateusz and {von B{\"u}low}, S{\"o}ren and Blanc, Florian E. C. and Gecht, Michael and Covino, Roberto and Hummer, Gerhard (2021). "Computational Epitope Map of {{SARS-CoV-2}} Spike Protein." <i>PLOS Computational Biology</i>. 174.'
 ---
-{% include sikoraComputationalEpitopeMap2021-summary.md %}
 
 [Link](https://doi.org/10.1371/journal.pcbi.1008790)
 

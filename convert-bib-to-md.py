@@ -48,7 +48,6 @@ doi: '{entry.get('doi','No DOI available')}'
 paperurl: 'https://doi.org/{entry.get('doi', '')}'
 citation: '{entry.get('author', 'Unknown')} ({entry.get('year', 'YYYY')}). "{entry.get('title', 'Untitled')}." <i>{entry.get('journal', 'Conference')}</i>. {entry.get('volume', 'Volume')}{entry.get('number', '(Number)')}.'
 ---
-{{% include {entry["key"]}-summary.md %}}
 
 [Link](https://doi.org/{entry.get('doi', '')})
 

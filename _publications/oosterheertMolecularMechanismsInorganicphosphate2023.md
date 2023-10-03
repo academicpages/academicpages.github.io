@@ -9,7 +9,6 @@ doi: '10.1038/s41594-023-01101-9'
 paperurl: 'https://doi.org/10.1038/s41594-023-01101-9'
 citation: 'Oosterheert, Wout and Blanc, Florian E. C. and Roy, Ankit and Belyy, Alexander and Sanders, Micaela Boiero and Hofnagel, Oliver and Hummer, Gerhard and Bieling, Peter and Raunser, Stefan (2023). "Molecular Mechanisms of Inorganic-Phosphate Release from the Core and Barbed End of Actin Filaments." <i>Nature Structural \& Molecular Biology</i>. Volume(Number).'
 ---
-{% include oosterheertMolecularMechanismsInorganicphosphate2023-summary.md %}
 
 [Link](https://doi.org/10.1038/s41594-023-01101-9)
 

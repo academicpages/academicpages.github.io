@@ -9,7 +9,6 @@ doi: '10.1021/acs.jpclett.1c00404'
 paperurl: 'https://doi.org/10.1021/acs.jpclett.1c00404'
 citation: 'Blanc, Florian E. and Cecchini, Marco (2021). "An {{Asymmetric Mechanism}} in a {{Symmetric Molecular Machine}}." <i>The Journal of Physical Chemistry Letters</i>. 1213.'
 ---
-{% include blancAsymmetricMechanismSymmetric2021-summary.md %}
 
 [Link](https://doi.org/10.1021/acs.jpclett.1c00404)
 

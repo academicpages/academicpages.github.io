@@ -9,7 +9,6 @@ doi: '10.1101/2023.08.11.551925'
 paperurl: 'https://doi.org/10.1101/2023.08.11.551925'
 citation: 'Blanc, Florian E. C. and Hummer, Gerhard (2023). "Mechanism of Proton-Powered c-Ring Rotation in a Mitochondrial {{ATP}} Synthase." <i>Conference</i>. Volume(Number).'
 ---
-{% include blancMechanismProtonpoweredCring2023-summary.md %}
 
 [Link](https://doi.org/10.1101/2023.08.11.551925)
 
