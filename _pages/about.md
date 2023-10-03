@@ -26,17 +26,21 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
 
 ## Publications & Patents
 <ul>
-    <li>Multi-modal Program Inference (US20230176829A1)
+    <li>Programmatic Imitation Learning from Unlabeled and Noisy Demonstrations
     <br />
     <font size="3">
-     (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
+      (Jimmy Xin, Linus Zheng, Jiayi Wei, <b>Kia Rahmani</b>, Jarrett Holtz, Isil Dillig, Joydeep Biswas)
     </font> 
     <br /> 
     <font size="2">
-      <a href="https://patentimages.storage.googleapis.com/0b/de/89/271010060d2ed8/US20230176829A1.pdf">
-      [United States Patent Application]
+      [Under Submission]
+      <a href="https://github.com/ut-amrl/plunder">
+      [Project Website]
       </a>
-    </font> 
+      <a href="https://arxiv.org/abs/2303.01440">
+      [Arxiv]
+      </a>
+    </font>
     </li>
 </ul>
 <ul>
@@ -59,21 +63,17 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     </li>
 </ul>
 <ul>
-    <li>PLUNDER: Probabilistic Program Synthesis for Learning from Unlabeled and Noisy Demonstrations
+    <li>Multi-modal Program Inference (US20230176829A1)
     <br />
     <font size="3">
-      (Jimmy Xin, Linus Zheng, Jiayi Wei, <b>Kia Rahmani</b>, Jarrett Holtz, Isil Dillig, Joydeep Biswas)
+     (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
     </font> 
     <br /> 
     <font size="2">
-      [Under Submission]
-      <a href="https://github.com/ut-amrl/plunder">
-      [Project Website]
+      <a href="https://patentimages.storage.googleapis.com/0b/de/89/271010060d2ed8/US20230176829A1.pdf">
+      [United States Patent Application]
       </a>
-      <a href="https://arxiv.org/abs/2303.01440">
-      [Arxiv]
-      </a>
-    </font>
+    </font> 
     </li>
 </ul>
 <ul>
