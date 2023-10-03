@@ -28,4 +28,4 @@ Yujie Guo\*, **Haotian Liu\***, Yuan Yifu\*, Lehong Wang\*, Haohao Yi\*, Wirt Jo
 
 ---
 # Projects
-
+![](../images/500x300.png)
