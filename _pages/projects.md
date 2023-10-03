@@ -1,10 +1,10 @@
 ---
-permalink: /
-title: "Projects"
-excerpt: "Projects"
+layout: archive
+title: "CV"
+permalink: /projects/
 author_profile: true
 redirect_from: 
-  - /projects/
+  - /project/
 ---
 
 ## manual-grad-master
