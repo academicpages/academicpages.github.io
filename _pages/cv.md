@@ -26,7 +26,6 @@ redirect_from:
 * 5G and beyond networks
 * Reinforcement learning algorithm
 * Adaptive decision making
-* Software-defined ratio (SDR)
 
 
 연구 경력 (Research Experience)
@@ -61,7 +60,7 @@ redirect_from:
 ---
 * **프로그래밍 능력 (programming skills)**
   * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, NI-LabVIEW, MATLAB, TensorFlow, Pytorch, etc,.)
-  * 딥러닝 기반의 문제 접근 및 해결 능력
+  * 강화학습 알고리즘 기반의 문제 접근 및 최적화 기술 구현 능력
   * IoT, ICT 하드웨어를 활용한 실시간 프로그램 구현 능력
   * 소프트웨어 정의 라디오 기반 MIMO, 다중 홉 릴레이 네트워크 설계 및 구현 경험
 
@@ -74,7 +73,7 @@ redirect_from:
 
 * **발표 및 시각화 능력 (presentation and visualization skills)**
   * 워크샵, 학술대회, 세미나 등의 발표 활동 다수 진행
-  * 다수의 사업 및 연구 제안서 작업을 통한 문서화, 시각화 능력
+  * 다수의 사업 및 연구 제안서 업무를 통한 문서화, 시각화 능력
 
 
 <!-- 소속 학회 (Professional Memberships)
