@@ -12,14 +12,13 @@ redirect_from:
 
 <br><br>Welcome to my website !
 
- 
+I currently work as a Postdoctoral Researcher and Instructor at the Harris School of Public Policy at [The University of Chicago](https://harris.uchicago.edu/directory/arduino-tomasi). I earned my PhD in Political Science from The London School of Economics and Political Science in 2021.<br>
 
-​I am a Postdoctoral Researcher (Instructor) at the Harris School of Public Policy at [The University of Chicago](https://harris.uchicago.edu/directory/arduino-tomasi). I received my PhD in Political Science from The London School of Economics and Political Science in 2021. 
+<br>In my research, I use game-theoretic models to dig deeper into how public policies shape electoral outcomes and how political frictions create economic distortions in developing countries.<br>
 
-As a formal theorist of developing countries, my research makes use of game-theoretic models to further our understanding of the electoral consequences of public policies and the economic distortions caused by political frictions. You can find more details about my work here. 
+<br>I've earned both an MRes and an MSc in Political Science and Political Economy from the LSE, along with a B.A. from Universidad Casa Grande in my beautifully chaotic hometown of Guayaquil, Ecuador.<br>
 
-I hold an MRes in Political Science and a MSc in Political Science and Political Economy from the LSE, and a B.A. in Political Science and International Relations from Universidad Casa Grande (located in my magnificently chaotic hometown Guayaquil, Ecuador).​
+<br>Between 2018 and 2020, I coordinated the Political Science and Political Economy Doctoral Workshop at the LSE. Beyond academia, I've served as an editorial assistant for the American Political Science Review and, prior to fully committing to research, acted as a legislative advisor in the Ecuadorian Parliament.
 
-I was the student coordinator of the Political Science and Political Economy Doctoral Workshop at the LSE from 2018 to 2020. Professionally, I have worked as an editorial assistant at the American Political Science Review; and, before devoting to research, I served as a legislative advisor at the Ecuadorian Parliament.
 
 </div>
