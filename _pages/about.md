@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website !
+<div style="text-align: justify;"><br>
+
+<br><br>Welcome to my website !
 
  
 
@@ -20,3 +22,4 @@ I hold an MRes in Political Science and a MSc in Political Science and Political
 
 I was the student coordinator of the Political Science and Political Economy Doctoral Workshop at the LSE from 2018 to 2020. Professionally, I have worked as an editorial assistant at the American Political Science Review; and, before devoting to research, I served as a legislative advisor at the Ecuadorian Parliament.
 
+</div>

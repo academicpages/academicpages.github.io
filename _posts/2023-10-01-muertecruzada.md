@@ -5,6 +5,8 @@ permalink: /posts/2023/10/muertecruzada/
 tags:
   - Ecuador
   - Muerte Cruzada
+  - Elecciones
+  - Bayes
 ---
 
 <div style="text-align: justify;"><br>
