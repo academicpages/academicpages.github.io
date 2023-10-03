@@ -17,27 +17,25 @@ redirect_from:
 
 석사 학위 논문 (Master's Thesis)
 ---
-* Title: 5G Massive MIMO 시스템에서의 전력 할당을 위한 다목적 강화학습: 스펙트럼 및 에너지 Trade-Off에 대한 연구
+* Title: 5G Massive MIMO 시스템에서의 전력 할당을 위한 다중목표 강화학습: 스펙트럼 및 에너지 Trade-Off에 대한 연구
 * Supervisors: 최우열
 
 
 연구 분야 (Research Areas)
 ---
-* Massive MIMO
-* deep learning / reinforcement learning
-* resouce allocation
-* IoT, ICT system
-* 5G and beyond 5G
+* 5G and beyond networks
+* Reinforcement learning algorithm
+* Adaptive decision making
 * Software-defined ratio (SDR)
 
 
 연구 경력 (Research Experience)
 ---
 * **연구 관련 (research-related)**
-  * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - 2022.08)
+  * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - present)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2021.04 - 2021.11)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2020.04 - 2020.11)
-  * 조선대학교 스마트네트워킹 연구실 학부 연구원 (2019.09 - 2022.02)
+  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2019.09 - 2022.02)
 
 
 * **개발 및 교육 관련 (development and education-related)**
@@ -52,25 +50,25 @@ redirect_from:
 
 
 * **수상 경력 (honors and awards)**
-  * 제 33회 통신정보 합동학술대회, 최우수논문상 (2023.04)
+  * 제 33회 통신정보 합동학술대회, 우수논문상 (우수논문상) (2023.04)
   * GJ RIP 광주/전남 학생 AI 아이디어 공모전, 우수상 (2022.03.18 - 25)
   * 조선대학교 2021 IT 페스티벌, 은상 (2021.11.26)
-  * 한국통신학회 추계학술대회, 최우수논문상 (2020.02)
-  * 대학교 산학협력단 연합 지역 개발 융합대회, 최우수상 (2020.01.29 - 31)
+  * 한국통신학회 추계학술대회, 학부우수논문상 (장려상) (2020.02)
+  * 대학교 산학협력단 연합 지역 개발 융합대회, 장려상 (2020.01.29 - 31)
 
 
 주요 역량 (Summary of Qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
+  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, NI-LabVIEW, MATLAB, TensorFlow, Pytorch, etc,.)
+  * 딥러닝 기반의 문제 접근 및 해결 능력
   * IoT, ICT 하드웨어를 활용한 실시간 프로그램 구현 능력
   * 소프트웨어 정의 라디오 기반 MIMO, 다중 홉 릴레이 네트워크 설계 및 구현 경험
-  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (LabVIEW, MATLAB, Python, Java, Tensorflow, Pytorch, Flask)
-  * 딥러닝 기반의 문제 접근 및 해결 능력
 
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
-  * 5년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
-  * 학부연구생 및 박사과정 학생들과의 다수 협업 프로젝트 참여 및 관리
+  * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
+  * 학부연구생 및 박사과정 학생들과의 협업 프로젝트 참여 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
 
 
@@ -79,7 +77,7 @@ redirect_from:
   * 다수의 사업 및 연구 제안서 작업을 통한 문서화, 시각화 능력
 
 
-소속 학회 (Professional Memberships)
+<!-- 소속 학회 (Professional Memberships)
 ---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
@@ -93,4 +91,4 @@ redirect_from:
   * 정보처리기사
   * 언플러그드코딩지도사 1급
   * 인성코딩지도사
-  * 한국사 2급
+  * 한국사 2급 -->

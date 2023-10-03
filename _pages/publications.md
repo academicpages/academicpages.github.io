@@ -22,7 +22,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>International Journals (3)</h1>
+<h1>International Journals (1)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_journal' %}
