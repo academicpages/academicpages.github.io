@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /home/
 title: "Home"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
-  - /home/
+  - /Home/
 ---
 
 I am currently an undergraduate student major in Mathematics in [School of Mathematical Sciences](https://math.fudan.edu.cn/), [Fudan University](https://www.fudan.edu.cn/). 
