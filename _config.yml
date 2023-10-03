@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Florian E. C. Blanc"
   avatar           : "profile.png"
-  bio              : "I am a computational biophysicist looking to understand how protein dynamics enable their biological function."
+  bio              : "Computational molecular biophysicist."
   location         : "Lyon, France"
   employer         :
   pubmed           : 
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Paris # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
