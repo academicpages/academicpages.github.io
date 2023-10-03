@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "home"
+  - title: "Home"
     url: /
 
   - title: "CV"
     url: /files/cv.pdf
 
-  - title: "projects"
+  - title: "Projects"
     url: /projects/
 
   # - title: "Publications"
