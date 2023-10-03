@@ -28,4 +28,4 @@ Conference Publications
 Patent
 ======
 * Robust lane detection method through self pre-training with masked sequential auto-encoders and fine-tuning with customised PolyLoss (2022). E.U. Patent Application No. OCT-22-060. [Submitted].
-               
+                
