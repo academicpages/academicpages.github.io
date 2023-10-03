@@ -3,7 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /papers
 ---
+
+{% include base_path %}
 
 * Keramati A., Fallah A., and Taghiyareh F. (2023). ”Enhanced Iranian Integrated Healthcare System Through Root Cause Analysis”. Iranian Conference on Advances in Enterprise Architecture. Affiliated with IEEE Xplore. (under review)
 
