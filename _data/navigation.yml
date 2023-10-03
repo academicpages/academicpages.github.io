@@ -3,6 +3,9 @@ main:
   - title: "home"
     url: /
 
+  - title: "cv"
+    url: /files/cv.pdf
+  
 
   # - title: "Publications"
   #   url: /publications/
