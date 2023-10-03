@@ -40,14 +40,15 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     </li>
 </ul>
 <ul>
-    <li>Program Synthesis for Robot Learning from Demonstrations
+    <li>Programming-by-Demonstration for Long-Horizon Robot Tasks
     <br />
     <font size="3">
       (Noah Patton, <b>Kia Rahmani</b>, Meghana Missula, Joydeep Biswas, Isil Dillig)
     </font> 
     <br /> 
     <font size="2">
-      [Under Submission]
+      <a href="https://popl24.sigplan.org/"> 
+      [POPL'24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages]</a>
       <a href="/files/prolex.pdf">
       [Pdf]
       </a>
