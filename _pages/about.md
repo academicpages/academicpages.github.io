@@ -162,13 +162,6 @@ Education
 Experience 
 ------
 * **Amazon**, Applied Scientist Intern, 2023.
-<! -- 
-(worked with [Prof. Anton van den Hengel](https://researchers.adelaide.edu.au/profile/anton.vandenhengel) and [Dr. Thalaiyasingam Ajanthan](https://tajanthan.github.io/))
-
-(worked with [Prof. Shirui Pan](https://shiruipan.github.io/))
-
-(worked with [Dr. Zhao Li](https://sites.google.com/view/zhaoli))
--->
 
 * **Monash University**, Research Assistant , 2021.
  
