@@ -3,7 +3,7 @@ title: "The Myosin {{X}} Motor Is Optimized for Movement on Actin Bundles"
 collection: publications
 permalink: /publication/roparsMyosinMotorOptimized2016
 abstract: 'No abstract available'
-date: 2016
+year: 2016
 venue: 'Nature Communications' 
 doi: '10.1038/ncomms12456'
 paperurl: 'https://doi.org/10.1038/ncomms12456'

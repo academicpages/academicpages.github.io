@@ -42,7 +42,7 @@ title: "{entry['title']}"
 collection: publications
 permalink: /publication/{entry['key']}
 abstract: '{entry.get('abstract', 'No abstract available')}'
-date: {entry.get('year', 'YYYY-MM-DD')}
+year: {entry.get('year', 'YYYY-MM-DD')}
 venue: '{entry.get('journal', 'Conference')}' 
 doi: '{entry.get('doi','No DOI available')}'
 paperurl: 'https://doi.org/{entry.get('doi', '')}'
