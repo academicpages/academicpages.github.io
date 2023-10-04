@@ -29,7 +29,7 @@
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a>
+        {{ title }}<a href="{{ post.link }}"><i class="fa fa-link" aria-hidden="true"></i></a>
       {% else %}
         {{ title }}
       {% endif %}
