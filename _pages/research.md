@@ -22,17 +22,15 @@ Working Papers
 ---
 Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>)
 
-<p><\p>
 <details>
   <summary><i>Abstract</i></summary>
   
   Greening foreign aid is a vital step in the fight against climate change. However, international promotion of climate-friendly policies may come at a perceived cost of development support. As international actors withdraw their support from fossil fuel projects and move towards renewable sources, the distributional effects of these policies can create backlash against both international funders and their domestic allies in developing countries. I use a spatial difference-in-differences design to show that the withdrawal of World Bank support for a coal plant in Kosovo altered voting patterns for pro-international parties; coal-producing areas voted disproportionately against this party in the wake of withdrawal. However, places with potential for investment in renewables voted for the pro-international party. While international organizations can incentivize climate-friendly policies in developing nations, these interventions reshape the distribution of economic benefits in recipient countries. In the global fight against climate change, who bears the cost of international action may determine the interventions' fate.
 </details>
 
-<p><\p>
+<p>
+  
 A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">Under review</a>)
-
-<p><\p>
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -52,21 +50,19 @@ segregation low. By targeting aid at ethnic minorities, international organizati
 may create perverse incentives for domestic governments to further shift funding away
 from ethnic minorities if targeting these groups offers few domestic political benefits.
 </details>
-
-<p><\p>
+<p>
+  
 Aid, blame, and backlash (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">Under review</a>)
 
-<p><\p>
 <details>
   <summary><i>Abstract</i></summary>
   
 Donors use foreign aid to promote liberal values such as democracy and multicul- turalism in developing countries. An under-explored dimension of foreign aid is aid to ethnic minorities. I show that donors explicitly target ethnic minority groups in countries across the world. How does foreign aid for ethnic minorities affect politics in recipient countries? I argue that minority aid comes at a cost (real and perceived) to ethnic majority groups; the blame for this aid is then placed on political representa- tives. Novel observational and experimental evidence finds three significant challenges to donor support for minority aid: 1) minority aid reduces the amount of general aid, 2) citizens oppose politicians who acquire minority aid and support anti-minority parties, and 3) citizens are willing to forgo substantial aid to prevent minority aid targeting. Donor attempts to help vulnerable populations may lead to backlash that empowers anti-minority actors, making the political landscape of recipient countries more dangerous for the groups they sought to aid.
 </details>
-<p><\p>
+<p>
 
 Innovation and Interdependence: The Case of Gene-Editing Technology (with Tyler Pratt) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">draft</a>)
 
-<p><\p>
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -85,7 +81,7 @@ scienti c employment patterns and a survey experiment examining public backlas
 Our results demonstrate that technological disruption increases interdependence and
 undermines states' ability to regulate in isolation.
 </details>
-<p><\p>
+<p>
 
 The possibilities and limits of international status: evidence from foreign aid and public opinion (with Lauren Ferry) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Under review</a>) 
 
