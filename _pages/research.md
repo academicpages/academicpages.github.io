@@ -96,7 +96,7 @@ undermines states' ability to regulate in isolation.
 <p>
 
 
-<h2 style="font-size:14px; "> Other Work </h2>
+<h2 style="font-size:18px; "> Other Work </h2>
 
 "Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. 2022, <span class="emphasize">PS: Political Science & Politics</span>. (with Alex Kirss and Paul Ko). (<a href= "https://cobrienudry.github.io/files/ps_gsipe.pdf">ungated</a>)
 
