@@ -17,7 +17,7 @@ redirect_from:
 About Me
 ======
 I am currently a PhD student at University College London (UCL) under the supervision of 
-<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>, <a href="https://uclic.ucl.ac.uk/people/youngjun-cho" style="color:#5dbcd2;">Dr Youngjun Cho</a> and <a href="https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/kevin-chetty" style="color:#5dbcd2;">Dr Kevin Chetty</a>. I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to allow model automatically learn communicative features from multisensory data without human intervention to make robust inferences under various real-life scenarios. I am currently developing a novel wireless sensing system that can recognise the quality of body movement and physiological signals.
+<a href="https://uclic.ucl.ac.uk/people/nadia-berthouze/" style="color:#5dbcd2;">Prof Nadia Berthouze</a>, <a href="https://uclic.ucl.ac.uk/people/youngjun-cho" style="color:#5dbcd2;">Dr Youngjun Cho</a> and <a href="https://www.ucl.ac.uk/jill-dando-institute/about-us/people/academic-staff/kevin-chetty" style="color:#5dbcd2;">Dr Kevin Chetty</a>. I focus on sensor fusion based ubiquitious computing. I am investigating multimodal machine learning to allow model automatically learn communicative features from multisensory data without human intervention to make robust inferences under various real-life scenarios. Specifically, how to design machine learning architecture to compensate the missing modality from multisensory data. I am currently developing a novel RF-Vision system that can understand human body behaviours across various domains.
 
 Prior to joining UCL, I studied Artificial Intelligence (MSc) under the supervision of <a href="https://vradu.uk/" style="color:#5dbcd2;">Dr Valentin Radu</a> and Electronics and Electrical Engineering (BEng), supervised by <a href="https://www.eng.ed.ac.uk/about/people/prof-tughrul-arslan/" style="color:#5dbcd2;">Prof Tughrul Arslan</a>, at the University of Edinburgh.
 
@@ -25,19 +25,22 @@ Research Interests
 ======
 <ul>
 <li>Multimodal Machine Learning</li>
-<li>Wireless Sensing</li>
-<li>Sensor-based Healthcare</li>
+<li>Generative AI</li>
+<li>Domain Adaption</li>
+<li>Ubiquitious Computing</li>
 <li>Multisensory Systems</li>
 <li>Radar Systems</li>
-<li>Ubiquitious Computing</li>
+<li>Wireless Sensing</li>
+<li>Sensor-based Healthcare</li>
 <li>Location Tracking System</li>
-<li>On-device Machine Learning</li>
 </ul>
 
 <hr color="#FFFFFF" />
 
 News
 ======
+[Oct. 2023] I served as a AC reviewer for [CHI'2024](https://chi2024.acm.org/).
+
 [Sept. 2023] Paper accepted at ACII 2023
 Our paper on non-intrusive wireless signal based protective behaviour recognition has been accepted "Leveraging WiFi Sensing toward Automatic Recognition of Protective Behaviors".
 See you MIT Media Lab, Cambridge, MA, USA.
