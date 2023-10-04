@@ -1,7 +1,7 @@
 ---
-title: "PhD Practicum Retrospective Panel (CEP 955)"
+title: "PhD Practicum Panel (CEP 955)"
 collection: talks
-type: "Talk"
+type: "Panel"
 venue: "CEP 955"
 date: 2023-09-28
 location: "Michigan State University"
