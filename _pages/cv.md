@@ -7,16 +7,16 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-Education
-======
+
+# Education
+
 * **PhD in Computational Chemistry**, Strasbourg University, 2018 
 * Diploma of École Normale Supérieure in Biology and Physics, 2014
 * MSc in Bioinformatics, Paris-7 University, 2014
 
-Research experience
-======
+# Research experience
+
 
 * **Since September 2023: Post-doctoral researcher**
   * Institut des Sciences Analytiques, France
@@ -38,23 +38,23 @@ Research experience
   * Exploring chemo-mechanical transduction in the myosin molecular motor through computer simulations
   * Supervisors: Marco Cecchini & Anne Houdusse
   
-Skills
-======
+# Skills
+
 * Oral and written scientific communication
 * Languages: English (fluent), French (native speaker), German (A1)
 * Programming: Python/SciPy, bash, Fortran 90 (basic knowledge), Tcl (basic knowledge)
 * Machine Learning: deep learning, generative learning, dimensionality reduction, density estimation, clustering
 * Molecular Simulations: Molecular Dynamics (atomistic/coarse-grained), free energy calculations
 
-Publications
-======
+# Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
-Teaching
-======
+# Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

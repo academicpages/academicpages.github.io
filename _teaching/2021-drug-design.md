@@ -8,14 +8,8 @@ date: 2021-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
-# Lecture 1
-Introduction to MD simulations of proteins and small drug-like molecules.
-
-# Lecture 2
-Statistical-mechanical theory of binding affinity.
-
-# Lecture 3
-Binding free energy calculations.
-
-# Lecture 4
-Kinetic perspectives on binding affinity estimation.
+# Computational drug discovery
+- Introduction to MD simulations of proteins and small drug-like molecules.
+- Statistical-mechanical theory of binding affinity.
+- Binding free energy calculations.
+- Kinetic perspectives on binding affinity estimation.
