@@ -21,6 +21,11 @@ Work experience
   * Supervisor: Professor Christopher Nycz
 
 * 2023 April-Present: Research Assistant
+  * WPI Robotic Materials Group
+  * Vision-based 3D printing process control
+  * Supervisor: Professor Markus Nemitz
+
+* 2023 March-Present: Research Assistant
   * WPI VISLab
   * Loss function design for 3D Point cloud completion
   * Supervisor: Professor Ziming Zhang
