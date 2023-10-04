@@ -1,9 +1,9 @@
 ---
 title: "Computational drug discovery"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Frankfurt University"
+type: "Graduate course"
+permalink: /teaching/2021-drug-design
+venue: "Goethe University Frankfurt"
 date: 2021-01-01
 location: "Frankfurt am Main, Germany"
 ---
