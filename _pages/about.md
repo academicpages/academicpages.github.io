@@ -21,9 +21,9 @@ During my Ph.D., my research interests were in natural language processing and c
 News
 =====
 * Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. 
-* May. 2023: [Mechanism] A first-authored paper about RL-based *impression pacing* mechanism was accepted at KDD 2023. 
-* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for ad ranking was accepted at SIGIR 2023. 
-* Jan. 2023: [Retrieval] A co-first authored paper about *multi-domain GNNs* for ad retrieval was accepted at WWW 2023.  
+* May. 2023: [Strategy] A first-authored paper about RL-based *impression pacing* strategy was accepted at KDD 2023. 
+* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. 
+* Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023.  
 * Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
 * Apr. 2022: [Ranking][Creative] Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
 * Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022.  
@@ -35,7 +35,7 @@ Experience and Education
 **[Experience](experiences/)**  
 
 * **Jul. 2021 -- Present.** Algorithm Expert (Senior MLE), Alimama Ads Tech @ Alibaba Group.   
-Working on large-scale retrieval, ranking and generation models to improve the performance of online advertising.    
+Working on large-scale retrieval, ranking and generation models to improve ad revenue.    
 
 **Education**  
 
