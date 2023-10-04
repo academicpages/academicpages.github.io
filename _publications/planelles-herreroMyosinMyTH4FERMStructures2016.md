@@ -2,7 +2,7 @@
 title: "Myosin MyTH4-FERM Structures Highlight Important Principles of Convergent Evolution"
 collection: publications
 permalink: /publication/planelles-herreroMyosinMyTH4FERMStructures2016
-year: 2016
+date: 2016-05-10
 venue: 'Proceedings of the National Academy of Sciences' 
 doi: '10.1073/pnas.1600736113'
 paperurl: 'https://doi.org/10.1073/pnas.1600736113'
