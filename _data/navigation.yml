@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Curriculum"
-    url: /Curriculum/
+#  - title: "Curriculum"
+#    url: /Curriculum/
 
-  - title: "Awards"
-    url: /Rewards/
+#  - title: "Awards"
+#    url: /Rewards/
 
   - title: "Projects"
     url: /Researches/
@@ -28,4 +28,4 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
-   
+    
