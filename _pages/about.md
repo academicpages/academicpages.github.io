@@ -8,6 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a post-doctoral researcher in computational molecular biophysics, currently part of the Biophysics of Complex Systems team at Institut des Sciences Analytiques, France. 
-My main motivation is to understand how biomolecular function emerges from structural dynamics, by describing the mechanisms of functional transitions with atomic resolution. For this purpose, I combine advanced molecular dynamics simulations, machine learning, and experimental biophysics. 
-Specific topics I am working on include the structural basis for energy conversion by molecular motors, such as myosin or ATP synthase, and the function of intrinsically disordered proteins involved in bacterial resistance to silver-based antibiotics. I have also contributed to better understand the dynamics of the SARS-CoV-2 spike protein. 
+Welcome! I am a post-doctoral researcher in computational molecular biophysics,  part of the Biophysics of Complex Systems team at Institut des Sciences Analytiques, France. 
+
+
+My motivation is to understand how biomolecular function emerges from structural dynamics by describing the atomically-detailed mechanisms. For this, I combine molecular dynamics simulations, machine learning, and experimental biophysics. 
+
+
+
+Topics I am working on include:
+
+- Structural basis for energy conversion by molecular motors, such as myosin or ATP synthase
+- Mechanism of Pi release by actin filaments
+- Function of intrinsically disordered proteins involved in bacterial resistance to silver-based antibiotics
+- Structural dynamics and surface immunogenic sites of the SARS-CoV-2 spike protein
