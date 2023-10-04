@@ -1,1 +1,0 @@
-*Summary*: We combine cryo-EM, enhanced sampling MD simulations, machine learning, and *in vivo* and *in vitro* reconstitution to reveal the mechanism and pathway for Pi release from F-actin, both from filament interior and barbed end.

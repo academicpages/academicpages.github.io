@@ -1,1 +1,0 @@
-*Summary*: With crystallography, conventional MD and ABF, we characterise a structural state of the myosin motor domain which suggests a "ratchet-like" mechanism in which lever-arm repriming precedes active site closure and is not strongly coupled to it.

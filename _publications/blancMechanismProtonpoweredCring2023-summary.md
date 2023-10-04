@@ -1,1 +1,0 @@
-*Summary*: With extensive eABF calculations, we reveal the mechanism of the 36 deg rotation step of the ATP synthase rotor, clarifying the water-mediated proton transfer pathway and the role of experimentally-detected intermediates.
