@@ -7,22 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <style type="text/css">
+<style type="text/css">
   body{
-  font-family: "cambria";
+  font-family: "Helvetica";
 }
-</style> -->
-Hello and வணக்கம்! I am Prashant Govindarajan, a first year Computer Engineering PhD student at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in AI for scientific discovery focusing on drug and material design, and I've lately been working on the latter. I am primarily exploring reinforcement learning and geometric deep learning approaches. I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond! :)
+</style>
+Hello and வணக்கம் 👋! I am **Prashant Govindarajan**, a first year Computer Engineering PhD student at [Mila-Quebec AI Institute](https://mila.quebec/en/) and [Polytechnique Montréal](https://polymtl.ca/) (engineering school of [UdéM](https://www.umontreal.ca/)), working under [Sarath Chandar](http://sarathchandar.in/). I am keenly interested in AI for scientific discovery focusing on drug and material design, and I've lately been working on the latter. I am primarily exploring reinforcement learning and geometric deep learning approaches. My current project, which is in collaboration with [Intel](https://www.intel.la/content/www/xl/es/research/overview.html), is on developing offline reinforcement learning methods for material design using first-principles. I was previously a dual degree student at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), where I worked under [Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Karthik Raman](https://home.iitm.ac.in/kraman/lab/karthik/) on target-specific drug design. Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond 😁! Also, I am always looking forward to strengthening my foundations in crystallography, density functional theory, and solid-state physics, and getting domain-related inputs for my research. So if you have a background in these areas or wish to discuss about the RL aspects of my research, I'd love to have a conversation some time!
 
 # News
+- <span style="color:red"> **August 2023**</span> Teaching assistant for [INF8250AE](https://chandar-lab.github.io/INF8250AE/), Reinforcement Learning by Sarath Chandar
+- <span style="color:red"> **August 2023**</span> Attended [Conference on Lifelong Learning Agents](https://lifelong-ml.cc/) (CoLLAs) in Montéal
 - <span style="color:red"> **March 2023**</span> [Behavioral Cloning for Crystal Design](https://openreview.net/forum?id=qxuIaeDlemv) accepted as workshop paper at ML4Materials workshop, ICLR 2023
 - <span style="color:red"> **February 2023**</span> Organizer of [Molecular ML Conference](https://www.moml2023.m2d2.io/) (MoML 2023) happening on May 29, 2023
 - <span style="color:red"> **November 2022**</span> Reviewer for [Depolyable AI workshop](https://easychair.org/cfp/AAAI-DAI_23) at AAAI 2023
-- <span style="color:red"> **August 2022**</span> Started PhD in Computer Engineering at Mila and Polytechnique Montreal, advised by Sarath Chandar
+- <span style="color:red"> **August 2022**</span> Started PhD in Computer Engineering at [Mila](https://mila.quebec/en/) and [Polytechnique Montreal](https://www.polymtl.ca/), advised by Sarath Chandar
 - <span style="color:red"> **July 2022**</span> Graduated from IIT Madras with a dual degree in Biological Sciences and Data Science
 - <span style="color:red"> **June 2022**</span> Defended M.Tech thesis titled "Graph generative models for binding site-specific molecule generation"
-- <span style="color:red"> **May 2022**</span> "Generating drug-like molecules from gene expression signatures using transformer model" accepted as poster at MLCSB-COSI, ISMB 2022
-- <span style="color:red"> **April 2022**</span> Presented poster for thesis work at RBCDSAI Annual Research Showcase
+- <span style="color:red"> **May 2022**</span> "Generating drug-like molecules from gene expression signatures using transformer model" accepted as [poster](https://iscb.junolive.co/ismb2022/library/search/ismb2022_poster_751) at MLCSB-COSI, [ISMB 2022](https://www.iscb.org/ismb2022)
+- <span style="color:red"> **April 2022**</span> Presented [poster](https://drive.google.com/file/d/1hT4OqObeOM7Mnjyqb1X_9Ukfz6YapC4N/view) for thesis work at RBCDSAI Annual Research Showcase
 - <span style="color:red"> **April 2022**</span> Selected for international travel bursary to attend Amii's AI Week 2022 
 - <span style="color:red"> **January 2022**</span> Teaching assistant for CS6700, Reinforcement Learning by Balaraman Ravindran
 - <span style="color:red"> **August 2021**</span> Teaching assistant for BT3051, Data Structures and Algorithms for Biology by Karthik Raman
