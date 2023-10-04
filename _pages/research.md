@@ -4,7 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<style> details { float:left; cursor: pointer; &:hover { color: #fff; background-color: #b21619 !important; } } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #b21619; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #b21619; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; } </style>
 
 
 <!-- Google tag (gtag.js) -->
@@ -22,9 +21,9 @@ Working Papers
 ---
 Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>)
 
-<details>
+<details open>
   <summary><i>Abstract</i></summary>
-  
+
   Greening foreign aid is a vital step in the fight against climate change. However, international promotion of climate-friendly policies may come at a perceived cost of development support. As international actors withdraw their support from fossil fuel projects and move towards renewable sources, the distributional effects of these policies can create backlash against both international funders and their domestic allies in developing countries. I use a spatial difference-in-differences design to show that the withdrawal of World Bank support for a coal plant in Kosovo altered voting patterns for pro-international parties; coal-producing areas voted disproportionately against this party in the wake of withdrawal. However, places with potential for investment in renewables voted for the pro-international party. While international organizations can incentivize climate-friendly policies in developing nations, these interventions reshape the distribution of economic benefits in recipient countries. In the global fight against climate change, who bears the cost of international action may determine the interventions' fate.
 </details>
 
