@@ -16,7 +16,7 @@ author_profile: true
 </script>
 
 
-Working Papers
+#Working Papers
 ---
 Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>)
 <details open>
@@ -90,7 +90,7 @@ The possibilities and limits of international status: evidence from foreign aid 
 </details>
 <p>
   
-Other work
+#Other Work
 ---
 "Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. 2022, <span class="emphasize">PS: Political Science & Politics</span>. (with Alex Kirss and Paul Ko). (<a href= "https://cobrienudry.github.io/files/ps_gsipe.pdf">ungated</a>)
 
