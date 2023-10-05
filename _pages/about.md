@@ -11,8 +11,7 @@ redirect_from:
 <div style="text-align: justify;"><br>
 
 <br>Welcome to my website !<br>
-git config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+
 <br>I currently work as a Postdoctoral Researcher at the Harris School of Public Policy at <a href="https://harris.uchicago.edu/directory/arduino-tomasi">The University of Chicago</a>. I earned my PhD in Political Science from The London School of Economics and Political Science in 2021.<br>
 
 <br>In my research, I use game-theoretic models to dig deeper into how public policies shape electoral outcomes and how political frictions create economic distortions in developing countries.<br>
