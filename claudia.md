@@ -13,3 +13,4 @@ Claudia Yang is a junior student at Emory University, driven by a fervent desire
 Her academic journey has provided her with a solid foundation in quantitative methodologies, which she is eager to apply to pressing societal issues. 
 Claudia is excited to continue her research endeavors, contributing to our collective understanding of the intricate fabric of human society.
 
+<img src='/images/bio_CY.jpg' alt = "Claudia Yang" width="100">
