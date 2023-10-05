@@ -1,0 +1,92 @@
+// ---------------------------------------------------------------------------
+// Padding Mixins
+
+// add empty colums as padding before an element.
+// $columns : The number of columns to prefix.
+// $context : [optional] The context (columns spanned by parent).
+//          : Context is required on any nested elements.
+//          : Context MUST NOT be declared on a root element.
+// $from    : The start direction of your layout (e.g. 'left' for ltr languages)
+// $style   : The container style to use.
+@mixin prefix(
+  $columns,
+  $context  : $total-columns,
+  $from     : $from-direction,
+  $style    : fix-static-misalignment()
+) {
+  $from           : unquote($from);
+  padding-#{$from}: space($columns, $context, $style);
+}
+
+// add empty colums as padding after an element.
+// $columns : The number of columns to suffix.
+// $context : [optional] The context (columns spanned by parent).
+//          : Context is required on any nested elements.
+//          : Context MUST NOT be declared on a root element.
+// $from    : The start direction of your layout (e.g. 'left' for ltr languages)
+// $style   : The container style to use.
+@mixin suffix(
+  $columns,
+  $context  : $total-columns,
+  $from     : $from-direction,
+  $style    : fix-static-misalignment()
+) {
+  $from         : unquote($from);
+  $to           : opposite-position($from);
+  padding-#{$to}: space($columns, $context, $style);
+}
+
+// add empty colums as padding before and after an element.
+// $columns : The number of columns to pad.
+// $context : [optional] The context (columns spanned by parent).
+//          : Context is required on any nested elements.
+//          : Context MUST NOT be declared on a root element.
+// $from    : The start direction of your layout (e.g. 'left' for ltr languages)
+// $style   : The container style to use.
+@mixin pad(
+  $prefix   : false,
+  $suffix   : false,
+  $context  : $total-columns,
+  $from     : $from-direction,
+  $style    : fix-static-misalignment()
+) {
+  $from     : unquote($from);
+  @if $prefix {
+    @include prefix($prefix, $context, $from, $style);
+  }
+  @if $suffix {
+    @include suffix($suffix, $context, $from, $style);
+  }
+}
+
+// Bleed into colums with margin/padding on any side of an element.
+// $width   : The side of the bleed.
+//          : Any unit-length will be used directly.
+//          : Any unitless number will be used as a column-count.
+//          : Use "2 of 6" format to represent 2 cals in a 6-col nested context.
+// $sides   : One or more sides to bleed [ top | right | bottom | left | all ].
+// $style   : The container style to use.
+@mixin bleed(
+  $width: $grid-padding,
+  $sides: left right,
+  $style: fix-static-misalignment()
+) {
+  @if $border-box-sizing { @include box-sizing(content-box) }
+
+  @if type-of($width) == 'list' {
+    $width: filter($width, of);
+    $width: space(nth($width,1), nth($width,2), $style);
+  } @else if unitless($width) {
+    $width: space($width, $style: $style);
+  }
+
+  @if $sides == 'all' {
+    margin: - $width;
+    padding: $width;
+  } @else {
+    @each $side in $sides {
+      margin-#{$side}: - $width;
+      padding-#{$side}: $width;
+    }
+  }
+}
