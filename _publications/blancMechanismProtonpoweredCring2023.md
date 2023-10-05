@@ -7,7 +7,7 @@ date: 2023-08-17
 venue: 'BiorXiV' 
 doi: '10.1101/2023.08.11.551925'
 paperurl: 'https://doi.org/10.1101/2023.08.11.551925'
-citation: 'Blanc, Florian E. C. and Hummer, Gerhard (2023). "Mechanism of Proton-Powered c-Ring Rotation in a Mitochondrial ATP Synthase."'
+citation: '**Florian E.C. Blanc** and Gerhard Hummer (2023). "Mechanism of Proton-Powered c-Ring Rotation in a Mitochondrial ATP Synthase."'
 ---
 
 With extensive eABF calculations, we reveal the mechanism of the 36 deg rotation step of the ATP synthase rotor, clarifying the water-mediated proton transfer pathway and the role of experimentally-detected intermediates.

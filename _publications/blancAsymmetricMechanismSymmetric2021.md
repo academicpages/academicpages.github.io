@@ -7,10 +7,8 @@ date: 2021-03-25
 venue: 'The Journal of Physical Chemistry Letters' 
 doi: '10.1021/acs.jpclett.1c00404'
 paperurl: 'https://doi.org/10.1021/acs.jpclett.1c00404'
-citation: 'Blanc, Florian E. and Cecchini, Marco (2021). "An Asymmetric Mechanism in a Symmetric Molecular Machine." <i>The Journal of Physical Chemistry Letters</i>. 1213.'
+citation: '**Florian Blanc**, Marco Cecchini (2021). "An Asymmetric Mechanism in a Symmetric Molecular Machine." <i>The Journal of Physical Chemistry Letters</i>. 1213.'
 ---
 
 We combine ABF and the string method to look at how a synthetic molecular muscle contracts, and show that an asymmetric pathway in which subunits bend and rearrange sequentially dominates despite the symmetry of the supra-molecule.
 
-[Link](https://doi.org/10.1021/acs.jpclett.1c00404)
-Citation: Blanc, Florian E. and Cecchini, Marco (2021). "An Asymmetric Mechanism in a Symmetric Molecular Machine." <i>The Journal of Physical Chemistry Letters</i>. 1213.
