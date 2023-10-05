@@ -13,7 +13,7 @@ Why do countries talk about each other's human rights practices? What rhetorical
 ### Current Members
 * Jiwon Kim (Project Lead)
 * [Taoshu Ren](https://j1wonkim.github.io/taoshu/) (Feb 2022 - current, Head RA)
-* [Maryam Olajuwon]() (Fall 2023, RA)
+* [Maryam Olajuwon](https://j1wonkim.github.io/maryam/) (Fall 2023, RA)
 * [Claudia Yang](https://j1wonkim.github.io/claudia/) (Fall 2023, RA)
 
 <img src='/images/ISEI_picture_f23.jpg' alt = "Group Picture" width="300">
