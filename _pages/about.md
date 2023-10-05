@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Presidential Postdoctoral Fellow in Dr. Richard Murray's lab at Caltech. My research uses a mass spectrometry-based proteomics approach to improve cell-free protein expression systems for synthetic cell operations. 
+I am a Presidential Postdoctoral Fellow in [Prof. Richard Murray](https://murray.cds.caltech.edu/Main_Page)'s lab at Caltech. My research uses a mass spectrometry-based proteomics approach to study and characterize cell-free protein expression systems.
 
-Before joining Caltech, I obtained my Ph.D. from Dr. Mark Styczynski's lab at Georgia Tech, where I focused on developing cell-free biosensors for point-of-care diagnostics. I earned my B.S. in Chemical Engineering from Cornell University, where I was first introduced to synthetic biology in Dr. Julius Lucks's lab focused on developing RNA-based genetic regulators. 
+Before joining Caltech, I received my Ph.D. from [Prof. Mark Styczynski](https://sites.gatech.edu/styczynski/)'s lab at Georgia Tech, where I focused on developing cell-free biosensors for point-of-care diagnostics. I earned my B.S. in Chemical Engineering from Cornell University, where I was first introduced to synthetic biology in [Prof. Julius Lucks](https://luckslab.org)'s lab focused on developing RNA-based genetic regulators. 
 
 Please refer to the [Publications page](https://yzhang952.github.io/publications) for more details about my research background.
 
-My long-term research interest is to use cell-free synthetic biology to advance diagnostics and medical treatments, particularly in the areas of:
--	Cell-free proteomics
--	Biomolecule self-assembly
--	Point-of-need deployment
+My research interests span the spaces of bacterial synthetic biology, cell-free protein expression systems, self-assembly, biosensor diagnostics, and precision medicine.
+
+My long-term research interest is to enable biology by design. [Read more here](/research)
 
 If any of these areas are of interest to you for collaboration, please don’t hesitate to reach out!
