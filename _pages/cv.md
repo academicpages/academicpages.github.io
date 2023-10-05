@@ -21,15 +21,6 @@ Work experience
   * University of Michigan
   * Duties included: grading quizzes and exams, proposing marking schemes and providing review lectures.
   * Supervisor: Dr. Anchal Sareen 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -48,7 +39,7 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Orientation Leader at Rose-Hulman Institute of Technology for year 2019
