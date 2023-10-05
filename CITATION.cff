@@ -1,29 +1,28 @@
 cff-version: 1.0.0
-message: "If you use My Research Tool, please cite both the software and the
-outline paper."
+message: "If you use My Research Tool, please cite both the software and the outline paper."
 references:
-- type: software
-authors:
-- family-names: Doe
-given-names: Jane
-- family-names: Bielefeld
-name-particle: von
-given-names: Arthur
-- family-names: McAuthor
-given-names: Juniper
-name-suffix: Jr.
-title: My Research Tool
-doi: 10043/zenodo.1234
-- type: article
-authors:
-- family-names: Doe
-given-names: Jane
-- family-names: Bielefeld
-name-particle: von
-given-names: Arthur
-title: "My Research Tool: A 100% accuracy syntax parser for all languages"
-year: 2099
-journal: Journal of Hard Science Fiction
-volume: 42
-issue: 13
-doi: 10.9999/hardscifi-lang.42132
+  - type: software
+    authors:
+      - family-names: Doe
+        given-names: Jane
+      - family-names: Bielefeld
+        name-particle: von
+        given-names: Arthur
+      - family-names: McAuthor
+        given-names: Juniper
+        name-suffix: Jr.
+    title: My Research Tool
+    doi: 10043/zenodo.1234
+  - type: article
+    authors:
+      - family-names: Doe
+        given-names: Jane
+      - family-names: Bielefeld
+        name-particle: von
+        given-names: Arthur
+    title: "My Research Tool: A 100% accuracy syntax parser for all languages"
+    year: 2099
+    journal: Journal of Hard Science Fiction
+    volume: 42
+    issue: 13
+    doi: 10.9999/hardscifi-lang.42132
