@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+I am at UCSB in the Ph.D. program in economics with an interest in Experimental Economics and Belief Updating. 
+Especially, I am interested in the implication of biases in strategic settings.
 
-I was born in Mexico City and studied my college and master's there.
-I got a bachelor's degree in Experimental Psychology, 
-studied a Specialization in Applied Statistics, 
-and got my master's degree in Economics.
-Currently, I am at UCSB in the PhD program in economics 
-with my interests in Experimental Economics, and Belief Updating. 
 
+I was born in Mexico City, I studied for my college and master's there.
+Before, I got a bachelor's degree in Experimental Psychology 
+and studied a Specialization in Applied Statistics at UNAM.
+I studied for my master's degree in Economics at CIDE.
