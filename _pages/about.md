@@ -16,6 +16,6 @@ Please refer to the [Publications page](/publications) for more details about my
 
 My research interests span the spaces of bacterial synthetic biology, cell-free protein expression systems, self-assembly, biosensor diagnostics, and precision medicine.
 
-My long-term research interest is to enable biology by design - read more [here](/research/)
+My long-term research interest is to enable biology by design. [*What do I mean*](/research/)
 
 If any of these areas are of interest to you for collaboration, please don’t hesitate to reach out!
