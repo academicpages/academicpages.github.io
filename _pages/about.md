@@ -60,6 +60,6 @@ My research interests primarily revolve around the interpretability and represen
 1. Shwai He, Liang Ding\*, **Daize Dong**, Boan Liu, Fuqiang Yu, Dacheng Tao, "***PAD-Net: An Efficient Framework for Dynamic Networks***", Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). [PDF](https://aclanthology.org/2023.acl-long.803.pdf)
 2. Shwai He, Liang Ding\*, **Daize Dong**, Miao Zhang, Dacheng Tao, "***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***", Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). [PDF](https://aclanthology.org/2022.findings-emnlp.160.pdf)
 3. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding\*, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023). [PDF](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)
-4. Tong Chu, **Daize Dong**, Jinhong Deng, Lixin Duan, Wen Li\*, "***Blending and Aggregating the Target for Blended-Target Domain Adaptation***", Under Review by IEEE Transactions on Image Processing (TIP).
+4. Tong Chu, **Daize Dong**, Jinhong Deng, Lixin Duan, Wen Li\*, "***Blending and Aggregating the Target for Blended-Target Domain Adaptation***", Under Review by IEEE Transactions on Image Processing (IEEE-TIP).
 
 
