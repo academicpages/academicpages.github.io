@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dario Trujano Ochoa"
   avatar           : "profile.png"
-  bio              : "PhD Student at UCSB, Experimental and Behavioral Economist"
+  bio              : "Ph.D. Student at UCSB, Experimental, and Behavioral Economist"
   location         : "Isla Vista, CA."
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/dario-trujano-ochoa-78968816b/"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-1106-4088"
   pinterest        :
   soundcloud       :
