@@ -16,6 +16,6 @@ Please refer to the [Publications page](https://yzhang952.github.io/publications
 
 My research interests span the spaces of bacterial synthetic biology, cell-free protein expression systems, self-assembly, biosensor diagnostics, and precision medicine.
 
-My long-term research interest is to enable biology by design. [Read more here](/research)
+My long-term research interest is to enable biology by design. [Read more here](/research/)
 
 If any of these areas are of interest to you for collaboration, please don’t hesitate to reach out!

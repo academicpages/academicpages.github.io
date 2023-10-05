@@ -2,10 +2,9 @@
 permalink: /research/
 title: "Research Interest"
 author_profile: true
-redirect_from: 
-  - /research/
 ---
 
+{% include base_path %}
 
 The field of synthetic biology seeks to extract living organisms’ extensive capabilities and implement them in new contexts for useful functions, enabling impactful applications in medicine, manufacturing, agriculture, and sustainability. **The grand vision of synthetic biology is to enable biology by design – applying engineering principles (modularity, standardization, and automation) to develop a systematic framework to design biological systems from the ground** instead of modifying existing organisms using one-off, non-generalizable approaches. 
 
