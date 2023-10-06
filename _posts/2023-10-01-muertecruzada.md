@@ -46,10 +46,10 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 <br>El impacto sustancial de una señal informativa sobre nuestras creencias puede llevar, de manera natural, a retornos electorales no-lineales. Este fenómeno se vuelve particularmente relevante en el contexto del riesgo de selección adversa que enfrentan los votantes al (re)elegir un candidato en circunstancias caóticas. Una posible mitigación para este tipo de inferencias erróneas sería disponer de un mayor número de señales sobre el candidato electo—cuantas más señales tengamos, más precisa será nuestra inferencia. Sin embargo, este enfoque se encuentra obstaculizado por el mecanismo de muerte cruzada, que impone un mandato de duración extra-limitada y, en consecuencia, restringe el número de señales informativas que podrían generarse.<br>
 
 <br>Para abordarlo de forma más rigurosa, introduzcamos una métrica específica de retorno electoral que evalúe el cambio en nuestra utilidad esperada cuando optamos por un candidato en dos escenarios distintos: el primero, caracterizado por nuestras creencias <em>a priori</em> de alta incertidumbre y sin información adicional; y el segundo, en el que disponemos de una serie histórica de desempeños del candidato, denotada como $(y_1,y_2,\ldots,y_n)$. En este marco, definimos nuestra función de utilidad como $-y^2$. Esta elección refleja nuestra premisa de que el candidato ideal minimizaría el caos, lo cual se traduce en una competencia $\theta^*=0$. En contraposición, cualquier candidato con $\theta\neq 0$ nos causa desutilidad en tanto contribuye al caos en lugar de apagarlo. Formalmente, esta medida de retorno equivaldría a <br><br>
-
 </div>
 
-<br><div>
+
+
   $$
   \begin{align*}
   \Delta(n,\tau) &=  \frac{\mathbb{E}\big[-y^2\mid  (y_1,y_2,\ldots,y_n)\,\big]-  \mathbb{E}\big[-y^2\big]}{\mathbb{E}\big[-y^2\big]} \\[3.5ex]
@@ -57,9 +57,10 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
   &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
   \end{align*}
   $$
-</div><br>
 
-<div style="text-align: justify;">
+
+
+<br><div style="text-align: justify;">
 
 Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo la longitud del mandato condiciona el volumen de señales generables y, en consecuencia, nuestra capacidad para realizar inferencias precisas. Para ilustrar este punto, la figura subsiguiente presenta la evolución de dicha métrica en función de una secuencia aleatoria de desempeños del candidato. Específicamente, la figura sintetiza los resultados de $j\in\{1,2,...,100\}$ simulaciones individuales. En cada simulación se realiza lo siguiente: (a) se selecciona de forma aleatoria entre políticos con diversos grados de competencia, y (b) se genera una secuencia aleatoria de desempeños correspondiente al número de meses del mandato, dadas las competencias seleccionadas. [<em>Nota:</em> El código fuente, implementado en <em>Wolfram Mathematica</em>, se encuentra disponible al final de este blog post.]<br><br>
 
@@ -75,9 +76,9 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 <br>En conclusión, la muerte cruzada, al instaurar un mandato presidencial excepcionalmente corto, restringe nuestras capacidades inferenciales y potencialmente nos induce a mantener en el cargo a líderes que, en un escenario de mandato ordinario, habríamos depuesto. Este efecto se potencia en contextos de alta incertidumbre, donde incluso señales mínimamente informativas pueden crear expectativas desmesuradas. En última instancia, la muerte cruzada podría funcionar como un "gol olímpico" en el ámbito político: un evento excepcional pero decisivo que, dadas las reglas del juego, transforma de manera sustancial la dinámica competitiva en favor del Ejecutivo.<br>
 
-<br>Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia «verdadera» del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a<br>
+<br>Ahora, mientras que un incremento en el número de observaciones perfecciona nuestra capacidad como cuerpo electoral para destituir a políticos ineficaces, esta acumulación de señales no necesariamente anula la brecha inducida por la variabilidad en la incertidumbre inicial. Formalmente, supongamos que la competencia «verdadera» del candidato electo es  $\theta=\theta_V$. En el límite cuando el número de señales se aproxima al infinito, la discrepancia entre los retornos convergerá a<br><br>
 
-<br><div>
+
 
 $$
 \begin{align*}
@@ -87,7 +88,7 @@ $$
     \end{align*}
 $$
 
-</div><br>
+
 
 
 <br>Esta expresión es estrictamente positiva porque $\tau>1$, lo cual indica que aunque la acumulación de información pueda mitigar la brecha en retornos electorales originada por diferencias en incertidumbre inicial, no la elimina por completo. Además, la magnitud de la expresión aumenta exponencialmente con la incompetencia del político (recordemos que el parámetro que maximiza nuestra utilidad es $\theta^*=0$). Intuitivamente, esto se debe a que las noticias desfavorables respecto al candidato son menos perjudiciales cuando la incertidumbre inicial es alta.<br>
