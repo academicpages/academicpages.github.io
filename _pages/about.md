@@ -25,7 +25,7 @@ Research
 
 <p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>democratic development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical as well as experimental methods (lab and survey-based).</p>
 
-<p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, Regional Science, Policy and Practice and Revista de Ciencia Politica.</p>
+<p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, Political Psychology, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, among others.</p>
 
 <table>
   <thead>
@@ -60,7 +60,7 @@ Research
     <tr>
       <td>
         <ul>
-          <li>TBA.</li>
+          <li>Santiago de Chile, Chile, December 14th-16th 2023: ACPP Conference.</li>
         </ul>
       </td>
     </tr>
@@ -77,6 +77,7 @@ Dissertation
 My dissertation argues that sectoral economic conflicts fostered state-building in Latin America. Using fine-grained historical case study comparisons, sectoral outputs from 1900 to the present, panel data and time-series econometric techniques, and a novel earthquake dataset (to measure state capacities), I find that industrial expansion altered the post-colonial political balance, putting heavy pressures for the implementation of tax institutions. In turn, fiscal expansion fostered both political development and economic growth. In my <b>book project</b> I expand these findings.
 -->
 
+---
 
 
 Contact
@@ -89,8 +90,14 @@ hibano@utu.fi
 
 www.HectorBahamonde.com
 
+[Appointments](http://www.hectorbahamonde.com/resources/)
+
+
 
 <!---<div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>-->
+
+Metrics
+============
 
 <img src="https://seafile.utu.fi/f/0ab7f436aed04017bdf4/?dl=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
