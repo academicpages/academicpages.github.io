@@ -7,6 +7,8 @@ redirect_from:
   - /research.html
 ---
 
+- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Accepted, Political Psychology. <br/>
+
 - Hector Bahamonde and Andrea Canales (2022). "Electoral Risk and Vote Buying, Introducing Prospect Theory to the Experimental Study of Clientelism." In: Electoral Studies 80. December, pp. 102497. <br/> [[Paper]](https://doi.org/10.1016/j.electstud.2022.102497)
 
 
@@ -23,8 +25,7 @@ redirect_from:
 
 ## Submitted, Under Review, Revise and Resubmit.
 
-- Hector Bahamonde and Outi Sarpila. "Physical Appearance and Elections: An Inequality Perspective." Contingently Accepted, Political Psychology. <br/>
-
+- TBA.
 
 ## In Preparation
 
