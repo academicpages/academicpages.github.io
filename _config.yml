@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ke Ma / (马可)"
 title_separator          : "-"
 name                     : &name "Ke Ma"
-description              : &description "personal description"
+description              : &description "PhD Candidate"
 url                      : https://maaakeee.github.io/make.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maaakeee/make.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "PhD Candidate at School of Design, Hunan University"
   location         : "Changsha, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=isFXN2EAAAAJ&hl=zh-CN"
   email            : "make@hnu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/Ke-Ma-23"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7871-2815"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
