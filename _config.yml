@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Ke Ma / (马可)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate at School of Design, Hunan University"
+  bio              : "PhD Candidate <br> School of Design <br> Hunan University"
   location         : "Changsha, China"
   employer         :
-#  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+#  Linkedln         : "https://www.linkedin.com/in/ke-ma-4883bb113/"
   googlescholar    : "https://scholar.google.com.hk/citations?user=isFXN2EAAAAJ&hl=zh-CN"
   email            : "make@hnu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Ke-Ma-23"
+  researchgate     : "https://www.researchgate.net/profile/Ke-Ma-23"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ke-ma-4883bb113/"
   orcid            : "https://orcid.org/0000-0001-7871-2815"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+#  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
