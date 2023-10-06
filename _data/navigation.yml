@@ -7,7 +7,10 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/  
+  
+  - title: "CV"
+    url: /files/YZ_CV.pdf
 
   - title: "Teaching"
     url: /teaching/    
@@ -18,8 +21,6 @@ main:
   - title: "Outreach"
     url: /outreach/
     
-  - title: "CV"
-    url: /files/YZ_CV.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
