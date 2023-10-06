@@ -29,7 +29,7 @@ Selected publications
 
 
 {% for post in site.highlightedPublications reversed %}
-  <p>{{ forloop.rindex }}. {% include archive-single-highlightedPublications.html %} </p>
+  <p style="display: inline;">{{ forloop.rindex }}. {% include archive-single-highlightedPublications.html %} </p>
 {% endfor %}
 
 
@@ -38,5 +38,5 @@ Full publication list
 
 
 {% for post in site.publications reversed %}
-  <p>{{ forloop.rindex }}. {% include archive-single.html %} </p>
+  <p style="display: inline;">{{ forloop.rindex }}. {% include archive-single.html %} </p>
 {% endfor %}
