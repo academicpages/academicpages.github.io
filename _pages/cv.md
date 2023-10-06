@@ -11,30 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MPhys (Hons) in Physics, The University of Hull, 2016, 2:1
+* Ph.D in Fusion Plasma Physics, The University of Warwick, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* October 2017 - September 2019: Test and Installation Engineer
+  * [ICEoxford](https://www.iceoxford.com/)
+  * Duties included:
+    * cryogenic wiring
+    * testing of wet and dry cryogenic systems
+    * diagnosing, and installing systems internationally
+    * 3-point calibration for temperature sensors used in medical MRI scanners
+  * Supervisor: Gareth Way
+  * Manager: Paul Kelly
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Communication
+  * writing academic papers which are consistently highly marked
+  * Effective presentations both academic and society based
+  * Contact with customers on installations, training customers on operation and maintenance of a cryostat
+  * Cross communication with other departments, managers, and subject matter experts
+* Teamwork
+  * worked in groups in both an academic setting and a professional setting
+  * Confident and very adaptable to new situations
+  * good at discussing new ideas and problem solving
+  * able to follow standard operating procedures and leading by example
+* Computational
+  * : Experienced with:
+    * Bash
+    * Git
+    * LaTeX
+    * Python
+    * Microsoft Office
+  * Familiar with a range of software packages and programming languages:
+    * C
+    * Fortran95
+    * MATLAB
+    * Microsoft Visual Basic
+    * Origin Pro
 
 Publications
 ======
@@ -54,6 +70,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[Service and leadership]: #
+[======]: #
+[* Currently signed in to 43 different slack teams]: #
