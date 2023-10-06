@@ -9,4 +9,7 @@ location: "Rethymno, Crete, Greece"
 paperurl: 'https://willfuller.github.io/files/University_of_Warwick_Poster_ECPD2023.pdf'
 ---
 [Download poster here](https://willfuller.github.io/files/University_of_Warwick_Poster_ECPD2023.pdf)
+
+### Poster Description
+
 This poster describes some of the synthetic work I undertook to aid in the design of an array of Langmuir Probes targeting turbulence measurements in the Scrape-Off Layer (SOL) in the MAST-U tokamak.
