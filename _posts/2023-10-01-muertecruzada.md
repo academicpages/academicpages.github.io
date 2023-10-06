@@ -53,8 +53,8 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
   $$
   \begin{align*}
-  \Delta(n,\tau) &=  \frac{\mathbb{E}\big[-y^2\mid  (y_1,y_2,\ldots,y_n)\,\big]-  \mathbb{E}\big[-y^2\big]}{\mathbb{E}\big[-y^2\big]} \\[3.5ex]
-  &= \frac{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \hat{\theta}\,\big]\Big]-\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]}{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{n+\tau}, \frac{\sigma^2}{n+\tau} \right) \\[4.5ex]
+  \Delta(n,\tau) &=  \frac{\mathbb{E}\big[-y^2\mid  (y_1,y_2,\ldots,y_n)\,\big]-  \mathbb{E}\big[-y^2\big]}{\mathbb{E}\big[-y^2\big]} \\[3.1ex]
+  &= \frac{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \hat{\theta}\,\big]\Big]-\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]}{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{n+\tau}, \frac{\sigma^2}{n+\tau} \right) \\[4.1ex]
   &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
   \end{align*}
   $$
@@ -83,8 +83,8 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 $$
 \begin{align*}
    \lim\limits_{n\to \infty}\big( \Delta(n,1)- \Delta(n,\tau) \big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{\left(n+1\right)^2(1+1)\,\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
-   &= \frac{1}{2}\left(1-\frac{\,\theta_V^2\,}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\,\tau\,\theta_V^2\,}{\sigma^2}\right)\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
-   &=\frac{(\tau-1)\left(\sigma^2+\theta_V^2\right)}{2(\tau+1)\sigma^2}
+   &= \frac{1}{2}\left(1-\frac{(\theta_V)^2}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\tau\,(\theta_V)^2}{\sigma^2}\right)\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
+   &=\frac{(\tau-1)\left[\,\sigma^2+(\theta_V)^2\,\right]}{(\tau+1)\,(2\,\sigma^2)}
     \end{align*}
 $$
 
