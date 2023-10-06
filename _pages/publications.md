@@ -13,6 +13,5 @@ Select publications indexed here. Full publication history available on <a href=
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
 {% endfor %}
