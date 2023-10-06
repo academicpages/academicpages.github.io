@@ -44,7 +44,7 @@ author_profile: true
 
 <em>Course overview:</em>  Microeconomic analysis, including the economics of the consumer, the firm, markets, and market failure, welfare economics, and the basic economics of risk and information.
 
-</em>
+</div>
 
 ---
 
@@ -54,7 +54,7 @@ author_profile: true
 
 <em>Course overview:</em>  Positive political economy and institutional public choice, with topics including: (a) The aggregation of preferences; (b) Voting paradoxes and cycles; (c) Electoral competition and voting behavior; (d) The problems of and solutions to collective action; (e) Welfare state and redistribution; (f) The impact of information and mass media on voting behavior and public policy.
 
-</em>
+</div>
 
 ---
 
@@ -64,5 +64,5 @@ author_profile: true
 
 <em>Course overview:</em>  Does democracy promote economic growth and welfare? What determines the size and evolution of the welfare state? Is regulation done in the interest of consumers? Is there a feasible third way between markets and governments in the delivering of public services?
 
-</em>
+</div>
 
