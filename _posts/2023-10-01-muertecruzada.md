@@ -49,8 +49,7 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
-<div>
-
+<br><div>
   $$
   \begin{align*}
   \Delta(n,\tau) &=  \frac{\mathbb{E}\big[-y^2\mid  (y_1,y_2,\ldots,y_n)\,\big]-  \mathbb{E}\big[-y^2\big]}{\mathbb{E}\big[-y^2\big]} \\[3.5ex]
@@ -58,7 +57,6 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
   &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
   \end{align*}
   $$
-
 </div><br>
 
 <div style="text-align: justify;">
@@ -83,9 +81,9 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 $$
 \begin{align*}
-   \lim\limits_{n\to \infty}\big( \Delta(n,1)- \Delta(n,\tau) \big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{\left(n+1\right)^2(1+1)\,\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
-   &= \frac{1}{2}\left(1-\frac{\,\theta_V^2\,}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\,\tau\,\theta_V^2\,}{\sigma^2}\right)\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
-   &=\frac{(\tau-1)\left(\sigma^2+\theta_V^2\right)}{2(\tau+1)\sigma^2}
+\lim\limits_{n\to \infty}\Big( \Delta(n,1)- \Delta(n,\tau) \Big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{2\,\left(n+1\right)^2\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
+&= \frac{1}{2}\left[1-\frac{\,(\theta_V)^2\,}{\sigma^2}\right]-\frac{1}{1+\tau}\left[1-\frac{\,\tau\,(\theta_V)^2\,}{\sigma^2}\right]\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
+&=\frac{(\tau-1)\Big[\,\sigma^2+(\theta_V)^2\,\Big]}{(\tau+1)\left(2\,\sigma^2\right)}
     \end{align*}
 $$
 
