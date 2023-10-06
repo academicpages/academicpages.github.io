@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Ke Ma / (马可)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate <br> School of Design <br> Hunan University"
-  location         : "Changsha, China"
+  bio              : "PhD Candidate <br> School of Design <br> Hunan University <br> Changsha, China"
+#  location         : "Changsha, China"
   employer         :
 #  Linkedln         : "https://www.linkedin.com/in/ke-ma-4883bb113/"
   googlescholar    : "https://scholar.google.com.hk/citations?user=isFXN2EAAAAJ&hl=zh-CN"
