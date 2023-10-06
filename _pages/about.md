@@ -60,7 +60,7 @@ Research
     <tr>
       <td>
         <ul>
-          <li>Santiago de Chile, Chile, December 14th-16th 2023: ACPP Conference.</li>
+          <li>December 14th-16th 2023: Santiago de Chile (Chile), ACPP Conference.</li>
         </ul>
       </td>
     </tr>
@@ -95,6 +95,9 @@ www.HectorBahamonde.com
 
 
 <!---<div>Icons made by <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>-->
+
+---
+
 
 Metrics
 ============
