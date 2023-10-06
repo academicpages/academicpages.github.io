@@ -2,7 +2,7 @@
 title: "Designing a Midplane Turbulence Probe for MAST-U."
 collection: posters
 type: "Poster"
-permalink: /posters/2023-04-23-ECPD-poster-designing
+permalink: /posters/2023-04-23-ecpd-poster-designing
 venue: "European Conference on Plasma Diagnostics"
 date: 2023-04-23
 location: "Rethymno, Crete, Greece"
