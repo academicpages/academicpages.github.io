@@ -48,9 +48,9 @@ redirect_from:
 
 # Publications
 
-  <ul>{% for post in site.publications %}
+  <ol reversed>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ol>
   
   
 # Teaching
