@@ -10,15 +10,24 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 
 ---
 
-## Preprints
+## Preprints (To Appear)
 
-- **Registered (Inner-Product) Functional Encryption**  
-Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
-[https://eprint.iacr.org/2023/395](https://eprint.iacr.org/2023/395)
+- **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**
+
+- **Non-malleable Fuzzy Extractors**
+
+- **Evolving Secret Sharing Made Short**
+
+- **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation** 
 
 ---
 
 ## Conference Proceedings
+
+10. **Registered (Inner-Product) Functional Encryption**  
+Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
+Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.
+[https://eprint.iacr.org/2023/395](https://eprint.iacr.org/2023/395)
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi   
@@ -79,3 +88,7 @@ Giuseppe Ateniese, Danilo Francati, Bernardo Magri, and Daniele Venturi
 Theoretical Computer Science. 2021. DOI: 10.1016/j.tcs.2021.01.002  
 [https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190](https://www.sciencedirect.com/science/article/abs/pii/S0304397521000190)
 {: reversed="reversed"}
+
+---
+## Thesis 
+- **Kolmogorov Complexity and Cryptography: New Connections and Applications to Space-Demanding Functions**
