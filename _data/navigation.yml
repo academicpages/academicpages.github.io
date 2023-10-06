@@ -4,13 +4,13 @@ main:
     url: /publications/
 
   - title: "Projects"
-    url: /talks/    
+    url: /projects/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
     
   - title: "Awards"
-    url: /portfolio/
+    url: /awards/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
