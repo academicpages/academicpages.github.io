@@ -49,7 +49,7 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
 
 </div>
 
-<div>
+
 
   $$
   \begin{align*}
@@ -59,11 +59,10 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
   \end{align*}
   $$
 
-</div><br>
 
 <div style="text-align: justify;">
 
-Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo la longitud del mandato condiciona el volumen de señales generables y, en consecuencia, nuestra capacidad para realizar inferencias precisas. Para ilustrar este punto, la figura subsiguiente presenta la evolución de dicha métrica en función de una secuencia aleatoria de desempeños del candidato. Específicamente, la figura sintetiza los resultados de $j\in\{1,2,...,100\}$ simulaciones individuales. En cada simulación se realiza lo siguiente: (a) se selecciona de forma aleatoria entre políticos con diversos grados de competencia, y (b) se genera una secuencia aleatoria de desempeños correspondiente al número de meses del mandato, dadas las competencias seleccionadas. [<em>Nota:</em> El código fuente, implementado en <em>Wolfram Mathematica</em>, se encuentra disponible al final de este blog post.]<br><br>
+<br> Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo la longitud del mandato condiciona el volumen de señales generables y, en consecuencia, nuestra capacidad para realizar inferencias precisas. Para ilustrar este punto, la figura subsiguiente presenta la evolución de dicha métrica en función de una secuencia aleatoria de desempeños del candidato. Específicamente, la figura sintetiza los resultados de $j\in\{1,2,...,100\}$ simulaciones individuales. En cada simulación se realiza lo siguiente: (a) se selecciona de forma aleatoria entre políticos con diversos grados de competencia, y (b) se genera una secuencia aleatoria de desempeños correspondiente al número de meses del mandato, dadas las competencias seleccionadas. [<em>Nota:</em> El código fuente, implementado en <em>Wolfram Mathematica</em>, se encuentra disponible al final de este blog post.]<br><br>
 
 </div>
 
@@ -83,9 +82,9 @@ Con esta métrica de retorno electoral, $\Delta(n,\tau)$, podemos explorar cómo
 
 $$
 \begin{align*}
-\lim\limits_{n\to \infty}\Big( \Delta(n,1)- \Delta(n,\tau) \Big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{2\,\left(n+1\right)^2\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
-  &= \frac{1}{2}\left[1-\frac{\,(\theta_V)^2\,}{\sigma^2}\right]-\frac{1}{1+\tau}\left[1-\frac{\,\tau\,(\theta_V)^2\,}{\sigma^2}\right]\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
-&=\frac{(\tau-1)\Big[\,\sigma^2+(\theta_V)^2\,\Big]}{(\tau+1)\left(2\,\sigma^2\right)}
+   \lim\limits_{n\to \infty}\big( \Delta(n,1)- \Delta(n,\tau) \big)&= \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+1\right)\,\sigma^2-n\left(\overline{y}\right)^2\right]}{\left(n+1\right)^2(1+1)\,\sigma^2}- \lim\limits_{n\to \infty} \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2} \\[4ex]
+   &= \frac{1}{2}\left(1-\frac{\,\theta_V^2\,}{\sigma^2}\right)-\frac{1}{1+\tau}\left(1-\frac{\,\tau\,\theta_V^2\,}{\sigma^2}\right)\quad \text{ dado que } \lim\limits_{n\to\infty}\overline{y}\to \theta_V \\[4ex]
+   &=\frac{(\tau-1)\left(\sigma^2+\theta_V^2\right)}{2(\tau+1)\sigma^2}
     \end{align*}
 $$
 
