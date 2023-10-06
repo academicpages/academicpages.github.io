@@ -18,6 +18,8 @@ Prior to Caltech, I did my undergraduate studies at Cornell University (B.S. in 
 News
 ======
 
+**2023/09/26** - I am the president of the [NeuroTechers](https://neurotechers.caltech.edu/) for this academic year (2023-2024). 
+
 **2023/06/12** - I am featured in two articles in the Best in Class series on Caltech Magazine's June Issue! See the two articles here: [SoCaltech](https://magazine.caltech.edu/post/students-socaltech) and [Best in Class](https://magazine.caltech.edu/post/caltech-initiative-for-students)
 
 **2023/05/24** - I won the travel award and presented our latest work on the Manhattan Maze Project at [the Curiosity, Creativity and Complexity 2023 Conference](https://zuckermaninstitute.columbia.edu/ccc-event). You may find the abstract via the website. 
