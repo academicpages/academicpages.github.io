@@ -15,6 +15,9 @@ I served as the External Examiner for Bashiru Salifu, who earned a Master of Phi
 ## Teaching experience
 {% include base_path %}
 
+
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  {% if post.path contains 'teaching' %}
+     {% include archive-single.html %}
+  {% endif %}
+{% endfor %}  

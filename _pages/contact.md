@@ -7,10 +7,9 @@ author_profile: true
 
 Connect with me via the following platforms:
 
-* **Institutional email**: zachary [dot] garfield [at] iast.fr
+* **Institutional email**: zachary [dot] garfield [at] um6p [dot] ma
 * **Gmail**: zhgarfield [at] gmail.com
 * **Skype**: zachary.h.garfield
-* **Twitter**: @zhgarfield
-* **Office**: T.475, 1 Esplanade de l’Université; 31080 Toulouse; Cedex 6, France
 
-<img align="center" src="/images/office.jpg" width="500"> 
+
+<img align="center" src="/images/um6p1/jpg" width="500"> 
