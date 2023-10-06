@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Teaching"
+title: ""
 permalink: /teaching/
 author_profile: true
 
 ---
 
 {% include base_path %}
-# Masters Level
 
+Masters Level
 ---
 
 **Analytical Politics II: Political Institutions (The University of Chicago)**
