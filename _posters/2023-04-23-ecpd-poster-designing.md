@@ -8,7 +8,6 @@ date: 2023-04-23
 location: "Rethymno, Crete, Greece"
 paperurl: 'https://willfuller.github.io/files/2023_ecpd_poster.pdf'
 ---
-[Download poster here](https://willfuller.github.io/files/2023_ecpd_poster.pdf)
 
 ### Poster Description
 
