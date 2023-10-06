@@ -6,9 +6,13 @@ author_profile: true
 
 {% include base_path %}
 
-The field of synthetic biology seeks to extract living organisms’ extensive capabilities and implement them in new contexts for useful functions, enabling impactful applications in medicine, manufacturing, agriculture, and sustainability. **The grand vision of synthetic biology is to enable biology by design – applying engineering principles (modularity, standardization, and automation) to develop a systematic framework to design biological systems from the ground** instead of modifying existing organisms using one-off, non-generalizable approaches. 
+The field of synthetic biology seeks to extract living organisms’ extensive capabilities and implement them in new contexts for useful functions, enabling impactful applications in medicine, manufacturing, agriculture, and sustainability. 
 
-Although synthetic biology has progressed significantly in the past decades, most efforts have focused on *designing biology* (applying engineering to existing biology), *not biology by design* (building biology from the ground up with a defined purpose). This skewed focus presents significant challenges in the practical application of engineered biological systems, where the cells’ need to adapt and survive clashes with engineers’ need to execute designed functions. 
+**The grand vision of synthetic biology is to enable biology by design** – applying engineering principles (modularity, standardization, and automation) to develop a systematic framework to design biological systems from the ground instead of modifying existing organisms using one-off, non-generalizable approaches. 
+
+Although synthetic biology has progressed significantly in the past decades, most efforts have focused on *designing biology* (applying engineering to existing biology), *not biology by design* (building biology from the ground up with a defined purpose). 
+
+This skewed focus presents significant challenges in the practical application of engineered biological systems, where the cells’ need to adapt and survive clashes with engineers’ need to execute designed functions. 
 
 We can only realize synthetic biology's true potential when we achieve biology by design. This is my long-term research vision, and I believe we are close to unlocking biology by design using cell-free systems. 
 
