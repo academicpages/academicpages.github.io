@@ -71,6 +71,44 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 </details>
 
 
+<details>
+  <summary><b>Topic 3: Learning about visual sensory information through interaction </b></summary>
+  <ul>
+    <li> Scene Graph Contrastive Learning for Embodied Navigation <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Singh_Scene_Graph_Contrastive_Learning_for_Embodied_Navigation_ICCV_2023_paper.pdf">📚</a></li>
+    <li> Learning Navigational Visual Representations with Semantic Map Supervision <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf">📚</a></li>
+    <li> Topological Semantic Graph Memory for Image-Goal Navigation <a href="https://proceedings.mlr.press/v205/kim23a/kim23a.pdf">📚</a></li>
+    <li> Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States  <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf">📚</a></li>
+    <li> One-4-All: Neural Potential Fields for Embodied Navigation <a href="https://arxiv.org/pdf/2303.04011.pdf">📚</a></li>
+    <li> 🏅 Emergence of Maps in the Memories of Blind Navigation Agents (ICLR'23 Outstanding Paper) <a href="https://iclr.cc/virtual/2023/oral/12560">📚</a></li>
+    <li> Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks <a href="https://arxiv.org/abs/1903.03878">📚</a></li>
+    <li>Graph Attention Memory for Visual Navigation <a href="https://arxiv.org/abs/1905.13315">📚</a></li>
+    <li>nstance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances <a href="https://arxiv.org/pdf/2211.15876.pdf">📚</a></li>
+    <li>Navigating to Objects Specified by Images <a href="https://arxiv.org/pdf/2304.01192.pdf">📚</a> <a href="https://jacobkrantz.github.io/modular_iin">🌍</a></li>
+    <li> TIDEE: Tidying Up Novel Rooms using Visuo-Semantic Commonsense Priors <a href="https://arxiv.org/abs/2207.10761">📚</a> <a href="https://tidee-agent.github.io/">🌍</a></li>
+    <li>Egocentric Planning for Scalable Embodied Task Achievement <a href="https://arxiv.org/pdf/2306.01295.pdf">📚</a></li>
+    <li> ALP: Action-Aware Embodied Learning for Perception <a href="https://arxiv.org/pdf/2306.10190.pdf">📚</a></li>
+    <li> Simple but Effective: CLIP Embeddings for Embodied AI <a href="https://arxiv.org/pdf/2306.10190.pdf">📚</a></li>
+    <li> Continuous Scene Representations for Embodied AI <a href="https://arxiv.org/abs/2203.17251">📚</a></li>
+    <li> Graph-based Environment Representation for Vision-and-Language Navigation in Continuous Environments<a href="https://arxiv.org/pdf/2301.04352.pdf">📚</a></li>
+    <li> Learning Affordance Landscapes for Interaction Exploration in 3D Environments<a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf">📚</a></li>
+     </ul>
+</details>
+
+<details>
+  <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
+  <ul>
+    <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
+    <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
+    <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
+    <li>Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
+    <li>Language Models Meet World Models: Embodied Experiences Enhance Language Models <a href="https://arxiv.org/pdf/2305.10626.pdf">📚</a></li>
+    <li>DANLI: Deliberative Agent for Following Natural Language Instructions <a href="https://arxiv.org/pdf/2210.12485.pdf">📚</a></li>
+    <li>3D-LLM: Injecting the 3D World into Large Language Models <a href="https://arxiv.org/abs/2307.12981">📚</a></li>
+    <li> EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought <a href="https://arxiv.org/abs/2305.15021">📚</a></li>
+    <li> PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
+    <li> Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
+  </ul>
+</details>
 
 ## Additional Resources
 - 🏠 [Course Syllabus](https://isminoula.github.io/cs6604FA23/)
