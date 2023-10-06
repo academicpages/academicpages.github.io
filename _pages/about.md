@@ -30,19 +30,30 @@ Research
 
 <img src="https://seafile.utu.fi/f/0ab7f436aed04017bdf4/?dl=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        :information_source: Information
+      </td>
+    </tr>
+  </thead>
 
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>News: 'Physical Appearance and Elections: An Inequality Perspective' (with Outi Sarpila) has been accepted in Political Psychology.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Upcoming Talks
 ==========
 
-- Midwest Political Science Association Meeting (MPSA): April 13-16, 2023; Chicago, IL, U.S.
-
-- Latin American Studies Association Meeting (LASA): May 24-27, 2023; Vancouver, Canada.
-
-- European Political Science Association Meeting (EPSA): June 22-24, 2023; Glasgow, Scotland.
-
-- Italian Political Science Association (SISP): September 14-16, 2023. Genova, Italy.
-
+- TBA.
 <!---
 
 Dissertation
