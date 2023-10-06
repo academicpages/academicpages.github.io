@@ -17,8 +17,7 @@ redirect_from:
 
 ---
 
-# About Me #
-
+### About Me ###
 Since September 2021, I am a Postdoc at Aarhus University ([Crypto Group](https://users-cs.au.dk/orlandi/cryptogroup/)), hosted by [Claudio Orlandi](https://cs.au.dk/~orlandi/).
 From August 2017 to September 2021, I was a Ph.D. student at Stevens Institute of Technology under the supervision of [Giuseppe Ateniese](https://ateniese.github.io).
 I got my Bachelor's and Master's degree in Computer Science at Sapienza University of Rome.
@@ -29,3 +28,7 @@ I got my Bachelor's and Master's degree in Computer Science at Sapienza Universi
 ### Research Interests ###
 My research interests are theoretical and applied cryptography with a focus on advanced public-key primitives and their applications.
 I am also interested in blockchain and privacy-preserving machine learning.
+
+### Grants ###
+
+Protocol Labs, RFP-009 on Proofs of Space and Useful Space, Principal Investigator.
