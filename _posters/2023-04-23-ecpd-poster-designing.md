@@ -2,13 +2,13 @@
 title: "Designing a Midplane Turbulence Probe for MAST-U."
 collection: posters
 type: "Poster"
-permalink: /posters/2023-ECPD-poster-designing
+permalink: /posters/2023-04-23-ecpd-poster-designing
 venue: "European Conference on Plasma Diagnostics"
 date: 2023-04-23
 location: "Rethymno, Crete, Greece"
-paperurl: 'https://willfuller.github.io/files/University_of_Warwick_Poster_ECPD2023.pdf'
+paperurl: 'https://willfuller.github.io/files/2023_ecpd_poster.pdf'
 ---
-[Download poster here](https://willfuller.github.io/files/University_of_Warwick_Poster_ECPD2023.pdf)
+[Download poster here](https://willfuller.github.io/files/2023_ecpd_poster.pdf)
 
 ### Poster Description
 
