@@ -10,7 +10,7 @@ redirect_from:
 
 Biographical sketch
 ======
-I am an interdisciplinary behavioral scientist and evolutionary anthropologist, currently Assistant Professor at [Mohammed VI Polytechnic University](https://www.um6p.ma/) in the<img align="right" src="/images/fgses2.png" width="320"> [Faculty of Governance, Economics and Social Sciences](https://www.fgses-um6p.ma/). I also co-direct [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
+I am an interdisciplinary behavioral scientist and evolutionary anthropologist, currently Assistant Professor at [Mohammed VI Polytechnic University](https://www.um6p.ma/) in the<img align="right" src="/images/fgses2.png" width="320"> [Africa Institute for Research in Economics and Social Sciences](https://airess.fgses-um6p.ma/) and the [Faculty of Governance, Economics and Social Sciences](https://www.fgses-um6p.ma/). I also co-direct [The Omo Valley Research Project](http://www.omovalleyresearchproject.org). 
 
 I was previously a Research Fellow at [The Institute for Advanced Study in Toulouse](http://www.iast.fr/people/zachary-garfield?tab=bio-and-research-interests). I completed my Ph.D. in Evolutionary Anthropology at Washington State University and my B.A. in Anthropology and Psychology from the University of Nebraska–Lincoln.
 
