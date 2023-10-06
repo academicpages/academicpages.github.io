@@ -25,6 +25,13 @@ Work experience
     * 3-point calibration for temperature sensors used in medical MRI scanners
   * Supervisor: Gareth Way
   * Manager: Paul Kelly
+* November 2022 - December 2023: assistant RO for the midplane reciprocating system
+  * UKAEA
+  * Duties included:
+    * Ensure operation of the diagnostic during campaigns
+    * Perform maintanence as required
+    * Analyse data generated from the diagnostic
+    * Swap out probe heads as required by the campaign
   
 Skills
 ======
@@ -52,16 +59,22 @@ Skills
     * Microsoft Visual Basic
     * Origin Pro
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+[Publications]: #
+[======]: #
+  [<ul>{% for post in site.publications %}]: #
+    [{% include archive-single-cv.html %}]: #
+  [{% endfor %}</ul>]: #
   
-Talks
+[Talks]: #
+[======]: #
+  [<ul>{% for post in site.talks %}]: #
+    [{% include archive-single-talk-cv.html %}]: #
+  [{% endfor %}</ul>]: #
+
+Posters
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.posters %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
