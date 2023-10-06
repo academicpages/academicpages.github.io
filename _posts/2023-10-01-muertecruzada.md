@@ -54,7 +54,7 @@ La muerte cruzada es un mecanismo de destrucción mutua asegurada que busca reso
   $$
   \begin{align*}
   \Delta(n,\tau) &=  \frac{\mathbb{E}\big[-y^2\mid  (y_1,y_2,\ldots,y_n)\,\big]-  \mathbb{E}\big[-y^2\big]}{\mathbb{E}\big[-y^2\big]} \\[3.1ex]
-  &= \frac{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \hat{\theta}\,\big]\Big]-\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]}{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{n+\tau}, \frac{\sigma^2}{n+\tau} \right) \\[4.1ex]
+  &= \frac{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \hat{\theta}\,\big]\Big]-\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]}{\mathbb{E}\Big[\mathbb{E}\big[-y^2\mid \theta\,\big]\Big]} \quad \text{ con } \hat{\theta}\sim\mathcal{N}\left( \frac{n\,\overline{y}}{n+\tau}, \frac{\sigma^2}{n+\tau} \right) \\[3.7ex]
   &= \frac{n\,\left[\left(n+\tau\right)\,\sigma^2-n\,\tau\left(\overline{y}\right)^2\right]}{\left(n+\tau\right)^2(1+\tau)\,\sigma^2}
   \end{align*}
   $$
