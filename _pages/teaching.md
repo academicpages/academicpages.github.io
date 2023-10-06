@@ -38,6 +38,8 @@ author_profile: true
 
 </em>
 
+---
+
 **(4) Intermediate Microeconomics (King's College London)**
 
 <div style="text-align: justify">
