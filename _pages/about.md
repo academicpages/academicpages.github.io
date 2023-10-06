@@ -19,6 +19,26 @@ I am a <b>Senior Researcher</b> at the University of Turku, Finland. Currently, 
 
 [Download my CV here](http://github.com/hbahamonde/Job_Market/raw/master/Bahamonde_CV.pdf)
 
+<table>
+  <thead>
+    <tr>
+      <td align="left">
+        NEWS!
+      </td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>'Physical Appearance and Elections: An Inequality Perspective' (with Outi Sarpila) has been accepted in Political Psychology.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 Research
 =======
 
@@ -30,30 +50,14 @@ Research
 
 <img src="https://seafile.utu.fi/f/0ab7f436aed04017bdf4/?dl=1" alt="gscholar"  style="width:800px;height:600;;border:0;">
 
-<table>
-  <thead>
-    <tr>
-      <td align="left">
-        :information_source: Information
-      </td>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td>
-        <ul>
-          <li>News: 'Physical Appearance and Elections: An Inequality Perspective' (with Outi Sarpila) has been accepted in Political Psychology.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 Upcoming Talks
 ==========
 
 - TBA.
+
+
+
 <!---
 
 Dissertation
