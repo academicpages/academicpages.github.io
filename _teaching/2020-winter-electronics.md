@@ -1,5 +1,5 @@
 ---
-title: "2^nd^ Year Physics Electronics Lab"
+title: "2<sup>nd</sup> Year Physics Electronics Lab"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-winter-electronics
@@ -8,7 +8,7 @@ date: 2019-11-01
 location: "Coventry, UK"
 ---
 
-Demonstrated for 2^nd^ Year undergrads safety in the lab, encouraged them to apply what they had learned in lectures to real-world electronics.
+Demonstrated for 2<sup>nd</sup> Year undergrads safety in the lab, encouraged them to apply what they had learned in lectures to real-world electronics.
 
 Details of the experiment
 ======
