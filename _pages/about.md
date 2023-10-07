@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Yusheng Su, a postdoctoral researcher at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/). I completed my Ph.D. degree at [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). During my Ph.D, I was advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and the member of THUNLP Lab ([Link1](https://github.com/thunlp), [Link2](https://github.com/OpenBMB)) led by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). I'm on the job market (4-year experiences in LLM). [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en) [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0)
+I am Yusheng Su, a postdoctoral researcher at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/). I completed my Ph.D. degree at [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). During my Ph.D, I was advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and the member of THUNLP Lab ([Link1](https://github.com/thunlp), [Link2](https://github.com/OpenBMB)) led by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). I'm on the job market (4-year experiences in LLM). [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)
+<!--[[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0)-->
 
 ## Research
 <!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
@@ -22,7 +23,7 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 
 * <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904))
 
-* <b>AI alignment. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules). ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [MultiAgent](https://github.com/OpenBMB/AgentVerse), [ChatDev](https://github.com/openbmb/chatdev))
+* <b>AI Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [MultiAgent](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201))
 
 <!--
 the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors](), [Tool Leaning](https://arxiv.org/abs/2304.08354))
@@ -71,7 +72,8 @@ My research spans the areas of natural language processing and machine learning.
 <!--You can find my CV [here](/cv/).-->
 
 ## On The Job Market
-I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ) [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0)
+I'm on the job market, looking for Post-doc and industrial research positions, starting in 2023 Autumn. [[Google Schlar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ)] 
+<!-- [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0) -->
 <!-- (in North America) -->
 
 <!-- ## Coming Soon
@@ -90,8 +92,8 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
-* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models (LLMs)
-* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building custom multi-agent environments for large language models (LLMs).
+* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
+* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agent to accomplish various tasks in real world.
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
 * [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/) (Cover Article).
 * [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany.
@@ -107,31 +109,31 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 * <b>Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
-Nature Machine Intelligence 2023 (<b>Cover Article</b>). [[pdf]](https://www.nature.com/articles/s42256-023-00626-4) [[code]](https://github.com/thunlp/OpenDelta)
+Nature Machine Intelligence 2023 (<b>Cover Article</b>). [[pdf](https://www.nature.com/articles/s42256-023-00626-4)] [[code](https://github.com/thunlp/OpenDelta)]
 
 * <b>On Transferability of Prompt Tuning for Natural Language Processing</b>\
 *<b>Yusheng Su</b>, Xiaozhi Wang, Yujia Qin, Chi-Min Chan, Yankai Lin, Zhiyuan Liu, Peng Li, Juanzi Li, Lei Hou, Maosong Sun, Jie Zhou*\
-NAACL 2022 (<b>Oral</b>). [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex]](https://aclanthology.org/2022.naacl-main.290.bib) [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
+NAACL 2022 (<b>Oral</b>). [[pdf]](https://aclanthology.org/2022.naacl-main.290/) [[code]](https://github.com/thunlp/Prompt-Transferability) [[BibTex](https://aclanthology.org/2022.naacl-main.290.bib)] [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
 
 * <b>Knowledge Inheritance for Pre-trained Language Models</b>\
 *Yujia Qin, Yankai Lin, Jing Yi, Jiajie Zhang, Xu Han, Zhengyan Zhang, <b>Yusheng Su</b>, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou*\
-NAACL 2022 (<b>Oral</b>). [[pdf]](https://aclanthology.org/2022.naacl-main.288/) [[code]](https://github.com/thunlp/Knowledge-Inheritance)
+NAACL 2022 (<b>Oral</b>). [[pdf](https://aclanthology.org/2022.naacl-main.288/)] [[code](https://github.com/thunlp/Knowledge-Inheritance)]
 
 * <b>Exploring Low-dimensional Intrinsic Task Subspace via Prompt Tuning</b>\
 *Yujia Qin, Xiaozhi Wang, <b>Yusheng Su</b>, Yankai Lin, Ning Ding, Zhiyuan Liu, Juanzi Li, Lei Hou, Peng Li, Maosong Sun, Jie Zhou*\
-ACL 2022 Findings. [[pdf]](https://arxiv.org/abs/2110.07867) [[code]](https://github.com/thunlp/Intrinsic-Prompt-Tuning)
+ACL 2022 Findings. [[pdf](https://arxiv.org/abs/2110.07867)] [[code](https://github.com/thunlp/Intrinsic-Prompt-Tuning)]
 
 * <b>CPM: A large-scale Generative Chinese Pre-trained Language Model</b>\
 *Zhengyan Zhang, Xu Han, Hao Zhou, Pei Ke, Yuxian Gu, Deming Ye, Yujia Qin, <b>Yusheng Su</b>, Haozhe Ji, Jian Guan, Fanchao Qi, Xiaozhi Wang, Yanan Zheng, Guoyang Zeng, Huanqi Cao, Shengqi Chen, Daixuan Li, Zhenbo Sun, Zhiyuan Liu, Minlie Huang, Wentao Han, Jie Tang, Juanzi Li, Xiaoyan Zhu, Maosong Sun*\
-AI OPEN 2021. [[pdf]](https://www.sciencedirect.com/science/article/pii/S266665102100019X) [[code]](https://github.com/TsinghuaAI/CPM)
+AI OPEN 2021. [[pdf](https://www.sciencedirect.com/science/article/pii/S266665102100019X)] [[code](https://github.com/TsinghuaAI/CPM)]
 
 * <b>CSS-LM: A Contrastive Framework for Semi-supervised Fine-tuning of Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Yankai Lin, Zhengyan Zhang, Zhiyuan Liu, Peng Li, Maosong Sun*\
-[WWW 2021 Workshop](https://www.aminer.cn/ssl_www2021), IEEE/TASLP 2021. [[pdf]](https://arxiv.org/abs/2102.03752) [[code]](https://github.com/thunlp/CSS-LM) [[slide]](https://drive.google.com/file/d/1TqAnFYL5CBwWhrDamB83akqQniVd2B9o/view?usp=sharing)
+[WWW 2021 Workshop](https://www.aminer.cn/ssl_www2021), IEEE/TASLP 2021. [[pdf](https://arxiv.org/abs/2102.03752)] [[code](https://github.com/thunlp/CSS-LM)] [[slide](https://drive.google.com/file/d/1TqAnFYL5CBwWhrDamB83akqQniVd2B9o/view?usp=sharing)]
 
 * <b>CokeBERT: Contextual Knowledge Selection and Embedding Towards Enhanced Pre-Trained Language Models</b>\
 *<b>Yusheng Su</b>, Xu Han, Zhengyan Zhang, Peng Li, Zhiyuan Liu, Yankai Lin, Jie Zhou, Maosong Sun*\
-EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666651021000188) [[code]](https://github.com/thunlp/CokeBERT)
+EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[pdf](https://www.sciencedirect.com/science/article/pii/S2666651021000188)] [[code](https://github.com/thunlp/CokeBERT)]
 
 
 
@@ -139,23 +141,27 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf]](https://arxiv.org/abs/2009.13964) [[p
 
 * <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf]](https://arxiv.org/abs/2306.02320)
+ArXiv 2023. [[pdf](https://arxiv.org/abs/2306.02320)]
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-(Submitted to Nature Human Behaviour 2023). [[pdf]](https://arxiv.org/abs/2302.09582) [[code]](https://github.com/thunlp/OpenNeuron) <small>(Refactoring - User friendly toolkit coming soon)</small>
+(Submitted to Nature Human Behaviour 2023). [[pdf](https://arxiv.org/abs/2302.09582)] [[code](https://github.com/thunlp/OpenNeuron)] <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Tool Learning with Foundation Models</b>\
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf]](https://arxiv.org/abs/2304.08354) [[code]](https://github.com/OpenBMB/BMTools) 
+ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
 
 * <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
 *Weize Chen<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-ArXiv 2023. [[pdf]](https://arxiv.org/abs/2308.10848) [[code]](https://github.com/openbmb/agentverse)
+ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/openbmb/agentverse)]
 
 * <b>Communicative agents for software development</b>\
 *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.com/openbmb/chatdev)
+ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
+
+* <b>ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate</b>\
+*Chi-Min Chan, Weize Chen, <b>Yusheng Su</b>, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu*\
+ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
 
 
 <!--
@@ -171,9 +177,22 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.co
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=Prompt-Transferability)](https://github.com/thunlp/Prompt-Transferability)
 
-* <b>AgentVerse</b>. AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using large language models (LLMs) in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications.
+* <b>AgentVerse</b>. AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using LLMs in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=AgentVerse)](https://github.com/OpenBMB/AgentVerse)
+
+
+
+## Joined Projects
+* <b>ChatDev</b>. Create customized software using natural language idea through LLM-powered multi-agent collaboration
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=ChatDev)](https://github.com/OpenBMB/ChatDev)
+
+
+* <b>Tool Learning</b>. Tool learning for LLMs, open-source solutions of ChatGPT-Plugins.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=BMTools)](https://github.com/OpenBMB/BMTools)
+
 
 <!--
 ## Teaching
@@ -181,9 +200,9 @@ ArXiv 2023. [[pdf]](https://arxiv.org/abs/2307.07924) [[code]](https://github.co
 -->
 
 ## Talks
-* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models (LLMs)
+* [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
-* [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide]](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing) [[video]](https://www.youtube.com/watch?v=KVgmtgMQ3ig)
+* [Jul. 2022] Oral Talk (in persion) @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
 * [Apr. 2021] Spotlight Talks (on-line) @ WWW 2021 (Self-Supervised Learning Workshop)
 
 
