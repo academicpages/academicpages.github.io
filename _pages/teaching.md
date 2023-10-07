@@ -3,11 +3,13 @@ layout: archive
 title: ""
 permalink: /teaching/
 author_profile: true
-
 ---
 
 
- 
+---
+
+<br>
+
 **(1) Analytical Politics II: Political Institutions (The University of Chicago)**
 
 <div style="text-align: justify">
@@ -16,7 +18,11 @@ author_profile: true
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 **(2) Applied Regression Analysis (London School of Economics)**
 
@@ -26,7 +32,11 @@ author_profile: true
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 **(3) Introduction to Quantitative Analysis (London School of Economics)**
 
@@ -36,7 +46,11 @@ author_profile: true
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 **(4) Intermediate Microeconomics (King's College London)**
 
@@ -46,7 +60,11 @@ author_profile: true
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 **(5) Public Choice and Politics (London School of Economics)**
 
@@ -56,7 +74,11 @@ author_profile: true
 
 </div>
 
+<br>
+
 ---
+
+<br>
 
 **(6) The Political Economy of Public Policy (London School of Economics)**
 
@@ -68,3 +90,6 @@ author_profile: true
 
 </div>
 
+---
+
+<br>
