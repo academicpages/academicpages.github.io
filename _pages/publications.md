@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ) and [dblp](https://dblp.org/pid/231/4539.html).
-
 The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted by contribution).
 
 ---
@@ -22,7 +21,7 @@ Danilo Francati and Daniele Venturi
 - **Evolving Secret Sharing Made Short**
 Danilo Francati and Daniele Venturi
 
-- **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation** 
+- **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou 
 
 ---
