@@ -36,7 +36,7 @@ author_profile: true
 
 <em>Course overview:</em>  It covers the foundations of descriptive statistics and statistical estimation and inference. At the end of the course, students should be able to carry out univariate and bivariate data analysis and have an appreciation of multiple linear regression.
 
-</em>
+</div>
 
 ---
 
