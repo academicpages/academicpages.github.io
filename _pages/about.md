@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the Max Planck Institute for Astrophysics (Garching, Germany) supervised by Eiichiro Komatsu.
+I am a PhD student at the <a href="https://www.mpa-garching.mpg.de/de">Max Planck Institute for Astrophysics</a> (Garching, Germany) supervised by <a href="https://wwwmpa.mpa-garching.mpg.de/~komatsu/">Eiichiro Komatsu</a>.
