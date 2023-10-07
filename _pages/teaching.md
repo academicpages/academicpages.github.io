@@ -8,7 +8,7 @@ author_profile: true
 
 
  
-<br><br>
+<br>
 
 **(1) Analytical Politics II: Political Institutions (The University of Chicago)**
 
@@ -64,7 +64,7 @@ author_profile: true
 
 <div style="text-align: justify">
 
-<em>Course overview:</em>  Does democracy promote economic growth and welfare? What determines the size and evolution of the welfare state? Is regulation done in the interest of consumers? Is there a feasible third way between markets and governments in the delivering of public services?
+<em>Course overview:</em>  Does democracy promote economic growth and welfare? What determines the size and evolution of the welfare state? Is regulation done in the interest of consumers? Is there a feasible third way between markets and governments in the delivering of public services?<br><br>
 
 </div>
 
