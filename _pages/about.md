@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I’m a senior electrical engineering student at Amirkabir university of technology (AUT) Tehran polytechnic. My research interest is to build intelligent applications, which model data for understanding users’ status clearly, and provide people with better services, by utilizing methods in natural language processing, Computer Vision, Data Mining and machine learning techniques. I currently work with Dr. Menhaj and Dr. Taheri on My Bsc thesis which is about recognizing human facial expressions with machine learning.
+I am currently pursuing a Master's degree in Software Engineering at the [ECE School of the University of Tehran](https://ece.ut.ac.ir/en/ece) in Iran. Simultaneously, I am working as a research assistant at the Social Network Lab, where I am under the guidance of [Dr. Masoud Asadpour](https://scholar.google.com/citations?user=MKwwcvIAAAAJ&hl=en). My research primarily centers around information extraction from text and also modeling data in graph form.
+
+Before embarking on my Master's journey, I completed my Bachelor of Science degree in Electrical Engineering at Amirkabir University of Technology in Tehran, Iran, in 2020. My undergraduate thesis was focused on Comparison between applying reinforcement learning based methods to solve differential games.
