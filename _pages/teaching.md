@@ -8,13 +8,13 @@ author_profile: true
 
 
  
-
+<br><br>
 
 **(1) Analytical Politics II: Political Institutions (The University of Chicago)**
 
 <div style="text-align: justify">
 
-<em>Course overview:</em> This course introduces students to core topics in the political economy of public policy. Its substantive objective is to familiarize students with the crucial role of politics in all realms of public policy. The course covers three major themes: (1) Workhorse models in political economy that allow us to understand the interplay between political preferences, institutions, and behavior in various settings (i.e., electoral politics, non-democratic regimes); (2) Real-world political institutions and their impact on policy and economic outcomes (i.e., electoral systems, levels of government, bureaucratic delegation); and, (3) Important political agents and the drivers and consequences of their behavior (i.e., voters, media, special interests).
+<em>Course overview:</em> This course introduces students to core topics in the political economy of public policy. Its substantive objective is to familiarize students with the crucial role of politics in all realms of public policy. The course covers three major themes: (a) Workhorse models in political economy that allow us to understand the interplay between political preferences, institutions, and behavior in various settings (i.e., electoral politics, non-democratic regimes); (b) Real-world political institutions and their impact on policy and economic outcomes (i.e., electoral systems, levels of government, bureaucratic delegation); and, (b) Important political agents and the drivers and consequences of their behavior (i.e., voters, media, special interests).
 
 </div>
 
