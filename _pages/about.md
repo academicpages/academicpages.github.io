@@ -20,11 +20,13 @@ Research Interests
 * Design Management
 * Human-computer Interaction
 * User Experience
+* Product-service System Design
 
 
 ***Applications***
 
 * Product Design and Development
+* Interaction Design
 * Creativity and Innovation
 
 
