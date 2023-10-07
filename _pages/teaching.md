@@ -8,8 +8,6 @@ author_profile: true
 
 ---
 
-<br>
-
 **(1) Analytical Politics II: Political Institutions (The University of Chicago)**
 
 <div style="text-align: justify">
@@ -21,8 +19,6 @@ author_profile: true
 <br>
 
 ---
-
-<br>
 
 **(2) Applied Regression Analysis (London School of Economics)**
 
@@ -36,8 +32,6 @@ author_profile: true
 
 ---
 
-<br>
-
 **(3) Introduction to Quantitative Analysis (London School of Economics)**
 
 <div style="text-align: justify">
@@ -49,8 +43,6 @@ author_profile: true
 <br>
 
 ---
-
-<br>
 
 **(4) Intermediate Microeconomics (King's College London)**
 
@@ -64,8 +56,6 @@ author_profile: true
 
 ---
 
-<br>
-
 **(5) Public Choice and Politics (London School of Economics)**
 
 <div style="text-align: justify">
@@ -78,18 +68,13 @@ author_profile: true
 
 ---
 
-<br>
-
 **(6) The Political Economy of Public Policy (London School of Economics)**
 
 <div style="text-align: justify">
 
-<em>Course overview:</em>  Does democracy promote economic growth and welfare? What determines the size and evolution of the welfare state? Is regulation done in the interest of consumers? Is there a feasible third way between markets and governments in the delivering of public services?<br><br>
-
-<br>
+<em>Course overview:</em>  Does democracy promote economic growth and welfare? What determines the size and evolution of the welfare state? Is regulation done in the interest of consumers? Is there a feasible third way between markets and governments in the delivering of public services?<br>
 
 </div>
 
 ---
 
-<br>
