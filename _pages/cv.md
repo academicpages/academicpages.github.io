@@ -11,36 +11,34 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Transportation Engineering, Shanghai Jiao Tong University, 2021
+* M.S. in Management Science and Engineering, Zhejiang University, 2024 (expected)
 
-Work experience
+Reserach experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May. 2022 - Mar. 2023: Algorithm Engineer Intern
+  * Hangzhou Linezone Data
+  * Data cleaning and analysis: Use python’s pandas library to statistically analyse the data and explore the distribution characteristics of apparel sales data, such as apparel product life cycle, price band distribution, and the relationship between discounts and sales.
+  * Model construction: The project innovatively uses features based on longest increasing subsequences and uses a ranking model to predict the future performance of products using data from the early days of their launch.
+  * Model results: Model achieves prediction accuracy of 78.9% and identifies fast-selling products 17 days earlier than rule-based method, resulting in improved sell-through rates and increased profits.
+  * Paper: complete paper titled “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”
+  *  Supervisor: Professor Jin Qingwei
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb. 2021 - Jun. 2021: Undergraduate thesis
+  * Shanghai Jiao Tong University
+  * ILP: I constructed an integer linear programming model of ”flexible scheduling” for emergency buses, and used cplex to write a program to find the exact solution of the model.
+  * Heuristic Algorithm: In order to improve the solution speed, a heuristic algorithm based on the idea of averaging is designed, and the neighbourhood action in local search is introduced to improve the algorithm, and the algorithm is written in python, and the solution obtained by the improved algorithm has a difference of 2.2% from the exact solution.
+  * Supervisor: Professor Jin Jiangang
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* proficient in using Python
+* Familiar with using machine learning frameworks sklearn
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Talks
 ======
