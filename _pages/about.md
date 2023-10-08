@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hello, and welcome to my academic page! I'm a third-year graduate student from the [School of Management]<http://en.som.zju.edu.cn/> at [Zhejiang University]<https://www.zju.edu.cn/english/>.
+Hello, and welcome to my academic page! I'm a third-year graduate student from the [School of Management](http://en.som.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/).
 
 ### Education
 
