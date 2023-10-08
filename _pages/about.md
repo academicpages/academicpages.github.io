@@ -29,9 +29,9 @@ My research interests revolve around optimization. I am particularly fascinated 
 
 ### Publications
 
-Under review
+Under review (Status: Minor Revision.)
 
-- Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023) Status: Minor Revision.
+- Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023)
 
 
 
