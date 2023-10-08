@@ -92,6 +92,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
+* [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://arxiv.org/abs/2306.02320) was accepted by EMNLP 2023 as the main conference paper. Looking forward to meeting NLPer in Singapore on Dec.
 * [Jul. 2023] Invited Research Talk at [Eric P. Xing](http://www.cs.cmu.edu/~epxing/)'s [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) team. Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agent to accomplish various tasks in real world.
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
@@ -106,6 +107,10 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 
 ## Publications
+
+* <b>Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods</b>\
+*<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
+EMNLP 2023. [[pdf](https://arxiv.org/abs/2306.02320)]
 
 * <b>Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
@@ -138,10 +143,6 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 
 
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
-
-* <b>Arbitrary Few Parameters are Good Enough for Adapting Large-scale Pre-trained Language Models</b>\
-*<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf](https://arxiv.org/abs/2306.02320)]
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
 *Ming Li<sup><big>*</big></sup>, <b>Yusheng Su</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
