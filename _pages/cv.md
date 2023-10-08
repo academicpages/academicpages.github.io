@@ -10,19 +10,19 @@ redirect_from:
 {% include base_path %}
 
 
-[Objective]
+## Objective
 ======
 Highly motivated and research-oriented individual seeking admission to a Ph.D. program in Transportation Engineering to further explore my passion for solving complex problems in the field and contribute to cutting-edge research.
 
-[Education]
+## Education
 ======
 * M.S. in Management Science and Engineering, Zhejiang University, Expected 2024
-  - Relevant Courses: [List any relevant courses related to your Ph.D. research interest]
+  - Relevant Courses: Advanced Operation Research; Data Mining; Time Series Analysis; Game Theory
 
 * B.S. in Transportation Engineering, Shanghai Jiao Tong University, 2021
-  - Relevant Courses: [List any relevant courses related to your Ph.D. research interest]
+  - Relevant Courses: Operation Research; Logistics and Supply Chain Management
 
-[Research Experience]
+## Research Experience
 ======
 * Algorithm Engineer Intern
   * Hangzhou Linezone Data
@@ -41,24 +41,16 @@ Highly motivated and research-oriented individual seeking admission to a Ph.D. p
   - Developed an Integer Linear Programming (ILP) model for "flexible scheduling" of emergency buses, implementing the model using CPLEX to find exact solutions.
   - Designed and implemented a heuristic algorithm based on averaging concepts and local search techniques, achieving results within 2.2% of the exact solution.
   
-[Skills]
+## Skills
 ======
 * Programming: Proficient in Python, with experience in data analysis, machine learning, and algorithm development.
 * Machine Learning: Familiar with using machine learning frameworks, including scikit-learn.
 * Mathematical Modeling: Strong background in mathematical modeling, particularly in transportation and optimization.
 
-[Publications]
+## Publications
 ======
-* "Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry." (In Progress)
-  - Co-author: [Your Name]
-  - Presented at [Conference Name or Journal Name] (if applicable)
+* "Identifying Popular Products at An Early Stage of Sales Season for the Apparel Industry." (Minor Revision)
+  - Co-author: [Jiayun Wang]
+  - Presented at [Informs Journal on Applied Analytics] (if applicable)
 
-[References]
-======
-Available upon request.
-
-[Additional Notes]
-======
-- Tailor your CV to each Ph.D. program you apply to by highlighting relevant skills and coursework that align with the program's focus.
-- Consider adding any relevant extracurricular activities, awards, or additional research projects if they enhance your candidacy.
 
