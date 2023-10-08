@@ -17,9 +17,11 @@ I earned my Bachelor's in Transportation Engineering from Shanghai Jiaotong Univ
 
 During my academic journey, I was fortunate to receive several awards:
 
-- National Scholarship in 2020
+
+- Outstanding Postgraduates of Zhejiang University in 2022
 - Outstanding Graduate of Shanghai Jiao Tong University in 2021
-- Outstanding Graduate of Shanghai Jiao Tong University in 2022
+- National Scholarship in 2020
+
 
 ### Research Interests
 
@@ -27,6 +29,7 @@ My research interests revolve around optimization. I am particularly fascinated 
 
 ### Publications
 
+Under review\\
 - Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023) Status: Minor Revision.
 
 
