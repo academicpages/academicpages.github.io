@@ -84,11 +84,13 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "London, United Kingdom"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  github           : "yu-ta-sato"
+  linkedin         : "https://www.linkedin.com/in/yuta-sato-633750161/"
   googlescholar    : "https://scholar.google.com/citations?user=K-X84rkAAAAJ"
+  researchgate     : "https://www.researchgate.net/profile/Yuta-Sato-20" # example: "https://www.researchgate.net/profile/yourprofile"
+  orcid            : "https://orcid.org/0009-0004-7052-7163"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Yuta-Sato-20" # example: "https://www.researchgate.net/profile/yourprofile"
+  employer         :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +98,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yu-ta-sato"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0009-0004-7052-7163"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
