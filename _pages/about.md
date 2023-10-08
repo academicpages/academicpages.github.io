@@ -8,21 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-Hello, and welcome to my academic page! I'm a third year graduate student from [school of Management]（http://en.som.zju.edu.cn/), Zhejiang University (https://www.zju.edu.cn/english/). 
 
-## Education
+Hello, and welcome to my academic page! I'm a third-year graduate student from the [School of Management](http://en.som.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/english/).
 
-I have earned my Bachelor's in Tranportation Engernerring from Shanghai Jiaotong University in 2021. I am about to completeing my Master's in management science and engineering from Zhejiang University in March,2024.
-During my academic journey, I was fortunate to gain several awards:
-/dot National Scholarship in 2020
-/dot Outstanding Graduate of Shanghai Jiao Tong University in 2021
-/dot Outstanding Graduate of Shanghai Jiao Tong University in 2022.
+### Education
 
-## Research Interests
-My research interests revolve around optimization. I am particularly fascinated by optimization in traffic, inverntory management. My work aims to find effient and quick solution to real-life problems. I am also interested in machine learining methods.
+I earned my Bachelor's in Transportation Engineering from Shanghai Jiaotong University in 2021. I am about to complete my Master's in Management Science and Engineering from Zhejiang University in March 2024.
 
-## Publications
-Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023) Status: Minor Revision.
+During my academic journey, I was fortunate to receive several awards:
+
+- National Scholarship in 2020
+- Outstanding Graduate of Shanghai Jiao Tong University in 2021
+- Outstanding Graduate of Shanghai Jiao Tong University in 2022
+
+### Research Interests
+
+My research interests revolve around optimization. I am particularly fascinated by optimization in traffic and inventory management. My work aims to find efficient and quick solutions to real-life problems. I am also interested in machine learning methods.
+
+### Publications
+
+- Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023) Status: Minor Revision.
+
 
 
 
