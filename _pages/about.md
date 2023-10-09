@@ -18,21 +18,20 @@ Publications
 
 Education
 ======
-- Sep. 2023 - Present Zhejiang University, Ph.D student in Computer Science (CS)
-- Sep. 2020 – Jun. 2023 Zhejiang University, Master student in Computer Science (CS) 
-- Sep. 2016 – Jun. 2020 Southwest Jiaotong University, B.S. in Software Engineering (SE)
+- [Sep. 2023 - Present] Zhejiang University, Ph.D student in Computer Science (CS)
+- [Sep. 2020 – Jun. 2023] Zhejiang University, Master student in Computer Science (CS) 
+- [Sep. 2016 – Jun. 2020] Southwest Jiaotong University, B.S. in Software Engineering (SE)
 
 Internship
 ======
-- Apr. 2023 -- Aug. 2023 Visiting Scholar, Singapore University of Technology and Design (SUTD)
-- Feb. 2022 – Mar. 2023 Academic Intern, Alibaba Group
-- Aug. 2018 – Nov. 2018 Machine Learning Developer Intern, IBM (China) Co., Ltd.
+- [Apr. 2023 -- Aug. 2023] Visiting Scholar, Singapore University of Technology and Design (SUTD)
+- [Feb. 2022 – Mar. 2023] Academic Intern, Alibaba Group
+- [Aug. 2018 – Nov. 2018] Machine Learning Developer Intern, IBM (China) Co., Ltd.
 
 Competitions
 ======
-- CCF Big Data & Computing Intelligence Contest
+- [Jan. 2021] First place in the CCF Big Data & Computing Intelligence Contest, rank 1/2582
 
 Awards
 ======
-- National Awards
-
+- [Dec. 2019] National Scholarship for the 2018-2019 academic year.
