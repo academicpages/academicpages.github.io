@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/MachNum_2504_V1.jpg'>"
+title: "Attempting capture shock with discontinuous Galerkin method"
+excerpt: "<img src='/images/MachNum_2504_V1.jpg'>"
 collection: portfolio
 ---
 
