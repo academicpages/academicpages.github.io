@@ -11,34 +11,29 @@ redirect_from:
 
 Education
 ======
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, University of Tehran, 2021 - 2023
+* B.S. in Electrical Engineering, Amirkabir University of Technology - Tehran Polytechnic, 2016 - 2021
 
 Research Experience
 ======
 * Research Assistant at Social Network Lab, december 2021 - present
-  * Github University
+  * Git
 
 
-* Fall 2015: Research Assistant
-  * Github University
+* Research Assistant at Computer Intelligence and Large Scale System Research Lab 2020
+  * 
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
 
 
 TECHNICAL SKILLS
 ======
-* **Languages**: Python, C, R, C++
-* **Tools**: Pytorch, Scikit-Learn, Pandas, 
-* **Development**: Linux, Bash, Docker, MongoDb, PostgreSQL
+* **Programming Languages**: Proficient in Python, C, R, and C++
+* **Machine Learning Frameworks**: Experienced in Pytorch, Keras, Tensorflow, and OpenCV (cv2)
+* **IDEs and Tools**: Skilled in using Simulink, Keil5, and Cube MX
+* **Software Development and System Administration**: Familiar with Linux, Bash, Docker, and database management with MongoDB and PostgreSQL
+* **Embedded Systems**: Capable of working with STM32, Arduino, PLC, and Raspberry Pi platforms
 
 
   
@@ -60,7 +55,14 @@ LANGUAGE SKILLS
 
 
 
-
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 
 Talks
