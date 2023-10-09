@@ -1,8 +1,8 @@
 ---
 title: "Introduction to Biostatistics (BIOSTAT100A)"
 collection: teaching
-type: ""
-permalink: /teaching/biostat100a-lab
+type: "ugrad/grad/visiting scholars"
+permalink: /teaching/biostat100a-fa23
 venue: "UCLA Dept. of Biostatistics"
 date: 2023
 location: "Los Angeles, CA"
