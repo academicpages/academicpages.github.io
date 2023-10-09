@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Kai is a Master's student in the Department of Mechanical Engineering at the University of Michigan and a member of Tau Beta Pi hornor society. Before, joining UoM, he received a B.S. in Mechanical Engineering at Rose-Hulman Institute of Technology. 
+Zhicheng Kai is a Master's student in the Department of Mechanical Engineering at the University of Michigan and a member of the Tau Beta Pi honor society. Before, joining UoM, he received a B.S. in Mechanical Engineering at Rose-Hulman Institute of Technology. 
 
 Current Ongoing Research
 ======
