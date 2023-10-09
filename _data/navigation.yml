@@ -16,7 +16,7 @@ main:
     url: #/year-archive/
     
   - title: "Resume"
-    url: /files/EthanLanders_Resume.pdf
+    url: /files/EthanLandersResume.pdf
     
   - title: #"Guide"
     url: #/markdown/
