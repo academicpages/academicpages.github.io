@@ -11,18 +11,22 @@ The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted
 
 ---
 
-## Preprints (To Appear)
+## Preprints
 
-- **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**
+- **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
+(To Appear)\
 
 - **Non-malleable Fuzzy Extractors**\
-Danilo Francati and Daniele Venturi
+Danilo Francati and Daniele Venturi\
+(To Appear)\
 
 - **Evolving Secret Sharing Made Short**\
-Danilo Francati and Daniele Venturi
+Danilo Francati and Daniele Venturi\
+[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)\
 
 - **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
-Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou 
+Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
+(To Appear)
 
 ---
 
