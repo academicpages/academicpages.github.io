@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ayşın Tümay / aysintumay"
+title                    : "Aysin Tumay / aysintumay"
 title_separator          : "/"
 name                     : &name "Ayşın Tümay"
 description              : &description "B.Sc. Student in Department of Electrical and Electronics Engineering, Bilkent University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ayşın Tümay"
+  name             : "Aysin Tumay"
   avatar           : "personal.jpg"
   bio              : "Machine Learning Researcher, Senior student at Electrical and Electronics Engineering Department, Bilkent University"
   location         : "Ankara, Turkey"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aysintumay"
+  github           : #"aysintumay"
   google_plus      :
   keybase          :
   instagram        :
