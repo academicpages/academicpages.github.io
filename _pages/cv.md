@@ -37,21 +37,21 @@ Work experience
 
 Publications
 ======
+* Chrastil, E. R., <b>Cheng, Y.</b> (2024).  Central Coordination and Integration of Diverse Information to Form a Single Map.  In Collective Spatial Cognition.  Routledge. 
+
+* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R. (2023). (Don’t) look where you’re going: Evidence for a travel direction signal in humans that is independent of head direction. Journal of Experimental Psychology: General. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)] (in press)
+
 * <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Chrastil, E.R.. Navigational systems in the human brain dynamically code for past, present, and future trajectories. [[preprint](https://www.biorxiv.org/content/10.1101/2023.08.22.554387v1)]
 
 * Billot, B., Magdamo, C., <b>Cheng, Y.</b>, Arnold, S. E., Das, S., & Iglesias, J. E. (2023). Robust machine learning segmentation for large-scale analysis of heterogeneous clinical brain MRI datasets. Proceedings of the National Academy of Sciences, 120(9), e2216399120. [[pdf](https://lilianyou.github.io/files/2023_SynthSeg_PNAS_Billot.pdf)]
 
 * <b>Cheng, Y. *</b>, He, C. *, Hegarty, M., & Chrastil, E. R. (2022). Who Believes They Are Good Navigators? A Machine Learning Pipeline Highlights the Impact of Gender, Commuting Time, and Education. Machine Learning with Applications, 100419. *denotes equal authorship [[pdf](https://lilianyou.github.io/files/2022_self_report_MLWA_Cheng.pdf)] <b>Editor's Choice Articles</b>
 
-* <b>Cheng, Y. </b>, Ling, S., Stern, C. E., Huang, A., Chrastil, E.R.. Evidence for a travel direction signal in humans that is independent of head direction. [[preprint](https://www.biorxiv.org/content/10.1101/2022.08.22.504860v1)]
-
 * <b>Cheng, Y.</b>. Dissertation: Travel Direction as a Fundamental Component of Human Navigation: Integrating Psychophysics, Neuroimaging, and Computational Modeling Approaches [https://escholarship.org/uc/item/9jg79944](https://escholarship.org/uc/item/9jg79944)
 
 * 't Hart, B. M., Adeyemi, A., Akrami, A., Alicea, B., Alonso-Andres, A., … <b>Cheng, Y. </b>, … Vishne, G. (2022). Neuromatch Academy: a 3-week, online summer school in computational neuroscience. The Journal of Open Source Education, 5(49), 118. [[preprint](https://osf.io/9fp4v/)] [[pdf](https://lilianyou.github.io/files/2022_neuromatch_jose.pdf)]
 
 * <b>Cheng, Y.</b>., & Chrastil, L. (2021, November 30). From Individual Cognitive Maps to a Collective Cognitive Map: Prescriptive Guidelines and Measurement of Factors that Could Distort the Mapping Process. https://doi.org/10.31234/osf.io/7ygk2 [[pdf](https://lilianyou.github.io/files/2021_collective_navigation_preprint_Cheng.pdf)]
-
-* Chrastil, E. R., <b>Cheng, Y.</b>.  Central Coordination and Integration of Diverse Information to Form a Single Map.  In R. D. Montello & K. M. Curtin (Eds.), Collective Spatial Cognition:  A Research Agenda.  Routledge (Taylor and Francis).  (in press)
 
 * <b>Cheng, Y.</b>, Hegarty, M., & Chrastil, E. R. (2020). Telling right from right: the influence of handedness in the mental rotation of hands. Cognitive Research: Principles and Implications, 5, 1-18. [[pdf](http://lilianyou.github.io/files/2020-Cheng.pdf)]
   
