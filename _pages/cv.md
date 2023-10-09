@@ -11,49 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
+* B.Sc. in Electrical and Electronics Engineering Department, Bilkent University, 2019-2024.
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ *December 2021 - present: Machine Learning Researcher
+  * DataBoss Security & Analytics
+  * Duties included: Working on sequential data to build state-of-the-art Machine Learning algorithms using Python.
+                     Publishing academic papers. 
+  * Supervisor: Prof. Dr. Suleyman Serdar Kozat
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August, 2021: Machine Learning Intern
+  * DataBoss Security & Analytics
+  * Duties included: Practicing Machine Learning techniques on time series and Spatio-Temporal data using Python.
+                     Professional presentation. 
+  * Supervisor: Prof. Dr. Suleyman Serdar Kozat
+
+* Jun 2021: Algorithm Design Engineering Intern
+  * ASELSAN
+  * Duties included: Using different tools and methods for detecting the geolocation of radars using warfare systems in MATLAB.
+                     Professional presentation. 
+  * Supervisor: Mustafa Atahan NUHOGLU
+* August 2020: Undergraduate Research Assistant
+  * UMRAM
+  * Duties included: Practicing Deep Learning methods for detecting brain illnesses in MRI scans. 
+  * Supervisor: Prof. Dr. Tolga Cukur
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages:
+  * Python
+  * VHDL
+  * MATLAB
+  * Assembly 8051
+*Frameworks:
+  *Pytorch
+  *Tensorflow
+  *Scikit-learn
+* Electronics
+  * LTSpice
+  * Proteus
+  * DipTrace
+* Languages:
+  * Turkish
+  * English (TOEFL IBT score: 100/120)
+  *  German (beginner)
+*Others
+  * Git
+  * LaTex
+  * MS Office applications
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+   
+
