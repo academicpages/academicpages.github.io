@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Kai is a Master student in the Department of Mechanical Engineering at the University of Michigan and a member of Tau Beta Pi hornor society. Before, joining UoM, he received B.S. in Mechanical Engineering at Rose-Hulman Institute of Technology. 
+Zhicheng Kai is a Master's student in the Department of Mechanical Engineering at the University of Michigan and a member of Tau Beta Pi hornor society. Before, joining UoM, he received a B.S. in Mechanical Engineering at Rose-Hulman Institute of Technology. 
 
-Current Onging Research
+Current Ongoing Research
 ======
 Zhicheng Kai is currently a member of [Towne Lab](https://www.researchgate.net/lab/Towne-Lab-Aaron-Towne), working on "Toward data-driven transient growth analysis" with Peter Frame and Aaron Towne.
 
