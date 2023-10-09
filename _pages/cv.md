@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * B.Sc. in Electrical and Electronics Engineering Department, Bilkent University, 2019-2024.
