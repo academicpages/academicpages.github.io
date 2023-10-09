@@ -15,3 +15,10 @@ Roberts E, Fan G, **Chen X**. In-Lab Development of a Mobile Interface for Cogni
 **Conference Publication**<br /> 
 **Chen X**, Fan G. Egocentric Indoor Localization From Coplanar Two-Line Room Layouts. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (pp. 1549-1559). [link](https://openaccess.thecvf.com/content/CVPR2022W/Ego4D-EPIC/html/Chen_Egocentric_Indoor_Localization_From_Coplanar_Two-Line_Room_Layouts_CVPRW_2022_paper.html)<br /> 
 **Chen X**, Fan G. Egocentric Indoor Localization from Room Layouts and Image Outer Corners. In Proceedings of the IEEE/CVF International Conference on Computer Vision 2021 (pp. 3456-3465). [link](https://openaccess.thecvf.com/content/ICCV2021W/EPIC/html/Chen_Egocentric_Indoor_Localization_From_Room_Layouts_and_Image_Outer_Corners_ICCVW_2021_paper.html)<br /> 
+
+**Submitted Papers**<br /> 
+**Chen X**, Fan, G., Roberts, E., and Howell, S.J. A Transfer Learning-based Smart Homecare Assistive Technology to Support Activities of Daily Living for People with Mild Dementia. Submitted to The 23rd IEEE International Conference on BioInformatics and BioEngineering.<br />
+
+**Papers in Preparation**<br /> 
+**Chen X**, and Fan G. End-to-End Probabilistic Perspective-n-Line for Room Layouts and Camera Pose Estimation.<br />
+**Chen X**, and Fan G. Room Layout Estimation based on Perspective-n-Line with Geometry-Aware Transformer.<br />
