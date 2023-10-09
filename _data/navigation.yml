@@ -3,10 +3,7 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Skills"
-    url: /skills/
-    
-  - title: "Achievemts"
+  - title: "Achievements"
     url: /achievements/
 
   - title: "CV"
