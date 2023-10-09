@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ziyang Xiao"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Ziyang Xiao"
 description              : &description "Ph.D. student at Zhejiang University"
@@ -84,7 +84,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=uSb7TOAAAAAJ"
-  email            :
+  email            : "xiaoziyang@zju.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

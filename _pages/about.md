@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a first-year Ph.D. student in the School of Computer Science at Zhejiang University. My areas of interest include large language models, image AIGC, quantitative trading in crypto, and deep reinforcement learning. I welcome any opportunities to engage in discussions work together.
+Hello, I am a first-year Ph.D. student in the School of Computer Science at Zhejiang University. My areas of interest include large language models, image AIGC, quantitative trading in crypto, and deep reinforcement learning. I welcome any opportunities to engage in discussions and collaborations.
 
 Publications
 ======
