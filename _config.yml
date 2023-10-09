@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Ayşın Tümay / aysintumay"
-title_separator          : "-"
+title_separator          : "/"
 name                     : &name "Ayşın Tümay"
 description              : &description "B.Sc. Student in Department of Electrical and Electronics Engineering, Bilkent University"
 url                      : https://aysintumay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
