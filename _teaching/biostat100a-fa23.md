@@ -11,4 +11,4 @@ I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT1
 
 ## Lab Powerpoints  
 
-* [Lab 1]("../files/Lab #1.pdf")
+* [Lab 1](../files/Lab%20%231.pdf)
