@@ -22,8 +22,3 @@ SAM establishes a groundbreaking benchmark for segmentation foundation models. C
 [![sam](/images/sam1.png "sam")](https://www.youtube.com/watch?v=0L3VLz6V4HU)
 
 
-## Vision-language modeling for pathology images
-W.I.P. ... ...
-
-## Under construction ... ...
-

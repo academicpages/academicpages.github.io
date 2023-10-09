@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+## CV
+
+Download my complete [CV](https://drive.google.com/file/d/10VW_fbsm9gWtIulCEbTaZGGnarX_4bjE/view?usp=drive_link).
+
 ## Education
 * B.S. in Electronic&Information Science, Shandong University, 2018
 * M.S. in Electrical Engineering, Rensselaer Polytechnic Institute, 2020
