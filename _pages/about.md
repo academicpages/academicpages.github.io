@@ -18,8 +18,8 @@ I participated in Old Dominion University's spring 2023 **Innovate Cyber** exper
 I participated in a program through a partnership with Old Dominion University and NASA called **NASA@MyLibrary** from October 2021 to June 2023, where I coordinated with libraries across the United States to create and host STEM educational programs via Zoom for their audiences to meet their individual needs.
 
 ## Publications
-I was [published](https://github.com/ethanlanders/ethanlanders.github.io/assets/95720144/2421c309-4e08-42e9-80fa-2181bf4f54cf) as coauthor for my REU research findings in a publication titled "MSVEC: A Multidomain Testing Dataset for Scientific Claim
-Verification" in the 8th National Workshop for REU Research in Networking and Systems (REUNS 2023).
+I was [published](https://reuns2023.hotcrp.com/paper/21?cap=hcav21iDTrHiRUNCxdztUQbDPKtQzA) as coauthor for my REU research findings in a publication titled **MSVEC: A Multidomain Testing Dataset for Scientific Claim
+Verification** in the 8th National Workshop for REU Research in Networking and Systems (REUNS 2023).
 
 
 ## Awards
