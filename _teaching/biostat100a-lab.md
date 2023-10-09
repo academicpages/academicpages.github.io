@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant - BIOSTAT100A"
 collection: teaching
 type: ""
 permalink: /teaching/biostat100a-lab
