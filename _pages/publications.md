@@ -30,7 +30,7 @@ author_profile: true
 - Reducing partisan affective polarization through common humanity and perspective-taking: An online survey experiment in the United States. (with Jennifer McCoy and Juan Gomez) *book chapter*
 
 ### Selected Working Papers
-- [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1wxUS08xz42egUp5rpnWOLjxt0hQIR3yj/view?usp=sharing). *job market paper, journal article*
+- [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper, journal article*
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
  
 ### Work-In-Progress
