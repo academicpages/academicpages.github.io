@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ethan Landers, a computer science undergraduate senior studying with Old Dominion University's ODUGlobal.  I am enrolled in the ODU Computer Science Linked Program, where I can take four master's courses in my senior year of undergraduate studies.  I am also a part of the ODU Perry Honors College.
+I am Ethan Landers, a senior at Old Dominion University majoring in computer science. I am also enrolled in Old Dominion University’s computer science-linked master’s program. I will graduate with my bachelor’s degree in the spring of 2024 and my master’s degree in the spring of 2025. I am also an Old Dominion University Perry Honors College member. I have an overall 3.93 GPA and a 3.91 departmental GPA.
 
 ## Work Experience
 I worked full-time alongside a Ph.D. professor and several graduate assistants at Old Dominion University on disinformation detection and analytics research funded by the National Science Foundation through their **Research Experience for Undergraduates** (REU) program for the summer of 2022.
