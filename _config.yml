@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aysin Tumay / aysintumay"
 title_separator          : "/"
 name                     : &name "Ayşın Tümay"
-description              : &description "B.Sc. Student in Department of Electrical and Electronics Engineering,
+description              : &description "B.Sc. Student in Department of Electrical and Electronics Engineering, Bilkent University"
 description              : &description "Bilkent University"
 url                      : https://aysintumay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
