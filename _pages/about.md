@@ -80,7 +80,7 @@ Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential S
 
 ## Talks
 
-Yongjun Zhang. Novemeber 2023. "Generative AIs and Computational Social Science." Peking University.
+Yongjun Zhang. Novemeber 2023. "Generative AI and Computational Social Science." Peking University.
 
 Yongjun Zhang. October 2023. "Quantifying Segregation with Big Data." Department of Sociology at Queens College.
 
