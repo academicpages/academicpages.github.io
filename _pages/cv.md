@@ -5,6 +5,8 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - https://drive.google.com/file/d/1XB8XGzbEneOgdMDQe3pRDQ3ssGCTpqFi/view?usp=drive_link
 ---
 
 {% include base_path %}
