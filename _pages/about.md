@@ -15,11 +15,14 @@ redirect_from:
 
 Recent news
 ===========
+- (Oct. 11-14, 2023) Yixiang is presenting her posters at [BMES 2023](https://www.bmes.org/annualmeeting), Seattle, WA.
+- (Oct. 1, 2023) Yixiang volunteered at the Ragon Institute booth for the [Cambridge Science Carnival](https://cambridgesciencefestival.org/), Cambridge, MA.
+- (Sept. 25-28, 2023) Yixiang led a team in [Clinical and Single-Cell Transcriptomics for Pneumonia Codeathon](https://script.northwestern.edu/codeathon/) hosted by Northwestern Medicine, Chicago, IL.
 - (Jun. 15, 2023) Yixiang presented a poster on a project based on a 4-year flu clinical trial at [Harvard Immunology Retreat](https://immunology.hms.harvard.edu/), North Falmouth, MA.
 - (Dec. 7, 2022) Yixiang presented a poster at [4th Annual Immune Modulation and Engineering Symposium](https://drexel.edu/biomed/research-and-design/overview/IMES2022/), Drexel University.
-- (Oct. 12-15, 2022) Yixiang served as the co-chair for the following two sessions at [BMES2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
+- (Oct. 12-15, 2022) Yixiang served as the co-chair for the following two sessions at [BMES 2022](https://www.bmes.org/annualmeeting), San Antonio, TX.
    - Biosensors, Implantable Sensors and Devices II 
    - Other Mechanics
-- (Aug. 3, 2022) Yixiang gave an invited talk at [Complex Fluids and Soft Matter (CFSM) Seminar Series](https://cecas.clemson.edu/zhenli/cfsm/), Clemson University.
-- (Nov. 24, 2021) Yixiang gave an invited talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li, Zhejiang University.
+- (Aug. 3, 2022) Yixiang gave an invited virtual talk at [Complex Fluids and Soft Matter (CFSM) Seminar Series](https://cecas.clemson.edu/zhenli/cfsm/), Clemson University.
+- (Nov. 24, 2021) Yixiang gave an invited virtual talk at [Institue of Fluid Engineering](http://www.zjufluid.org/) hosted by Prof. Xuejin Li, Zhejiang University.
 - (Sep. 22, 2021) Yixiang successfully defended her thesis! Many thanks to Prof. George Karnidakis and the thesis committee, Prof. Christos Mantzoros, Prof. Roberto Zenit and Prof. Vikas Srivastava, as well as current and past members of [the CRUNCH group](https://www.brown.edu/research/projects/crunch/).
