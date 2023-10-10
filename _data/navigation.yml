@@ -1,8 +1,9 @@
 # main links links
-index:
-  - title: "About"
-    url: /about/
+
 main:
+  - title: "Portfolio"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/  
     
