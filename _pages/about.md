@@ -12,7 +12,7 @@ I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.ok
 
 Research Interests
 ======
-My research work is in \href{https://en.wikipedia.org/wiki/Egocentric_vision}{egocentric vision}. The goal of my research is to enable wearable devices to perceive indoor scenes by developing novel computer vision algorithms for the automatic analysis of images and videos. As an educator, I instruct undergraduates in various electrical engineering topics and mentor graduate students in image processing research.
+My research work is in [egocentric vision](https://en.wikipedia.org/wiki/Egocentric_vision). The goal of my research is to enable wearable devices to perceive indoor scenes by developing novel computer vision algorithms for the automatic analysis of images and videos. As an educator, I instruct undergraduates in various electrical engineering topics and mentor graduate students in image processing research.
 
 From the scientific point of view, we tackle fundamental open problems in computer vision research related to camera pose estimation and understanding of human actions and activities, objects, scenes, and events.
 
