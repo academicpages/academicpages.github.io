@@ -1,4 +1,7 @@
 # main links links
+index:
+  - title: "About"
+    url: /about/
 main:
   - title: "Publications"
     url: /publications/  
@@ -8,5 +11,3 @@ main:
 
   - title: "CV"
     url: /cv/
--title: "About Me"
- url: /about/
