@@ -12,7 +12,12 @@ I am a fourth-year Ph.D. student advised by [Prof. Guoliang Fan](https://ceat.ok
 
 Research Interests
 ======
-I specialize in the investigation of first-person vision, with a particular focus on indoor localization leveraging wearable devices. My work emphasizes developing and refining geometric algorithms for camera pose estimation, seamlessly incorporating advanced deep-learning techniques. As an educator, I guide undergraduates in Electric Circuits and Signal Analysis while fostering the growth of graduate students in image processing research.
+My research work is in \href{https://en.wikipedia.org/wiki/Egocentric_vision}{egocentric vision}. The goal of my research is to enable wearable devices to perceive indoor scenes by developing novel computer vision algorithms for the automatic analysis of images and videos. As an educator, I instruct undergraduates in various electrical engineering topics and mentor graduate students in image processing research.
+
+From the scientific point of view, we tackle fundamental open problems in computer vision research related to camera pose estimation and understanding of human actions and activities, objects, scenes, and events.
+
+From the application perspective, we develop systems that solve practical world problems by introducing cutting-edge computer vision technologies into new application domains.
+
 
 * Computer Vision: camera pose estimation, object recognition, scene understanding
 * Wearable Computing: wearable cameras, smart glasses
