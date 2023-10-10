@@ -11,4 +11,4 @@ Hi, all! I am a senior student in the Electrical and Electronics Engineering dep
 
 My research interests are Machine Learning, Data Science, and Signal Processing. The research I conducted with Prof.Dr.Suleyman Serdar Kozat focuses on statistical learning, data analysis, the design of state-of-the-art algorithms for time series and spatio-temporal prediction, and feature selection in high-dimensional spaces. 
 
-The latest version of my CV can be found here. 
+The latest version of my CV can be found [here](/files/aysintumay_cv.pdf). 
