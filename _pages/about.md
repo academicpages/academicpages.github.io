@@ -12,7 +12,8 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
-* October 3-5th: This week, I am in Hamburg, visiting the beautiful Hamburg Observatory and Prof. Stephan Rosswog, I will be giving an invited colloquium on the 4th on the [observational implications of merging neutron star binaries](https://www.physik.uni-hamburg.de/en/hs/frontpage---events.html?event=97324). 
+* October 9th-13th: This week I am in Nijmegen, visiting Radboud University. On Monday I gave an invited colloquium on EM transients.
+* October 3-5th: This week I am in Hamburg, visiting the beautiful Hamburg Observatory and Prof. Stephan Rosswog, I will be giving an invited colloquium on the 4th on the [observational implications of merging neutron star binaries](https://www.physik.uni-hamburg.de/en/hs/frontpage---events.html?event=97324). 
 * September 4-8th: This week I am attending a workshop on kilonovae. I will be giving a talk on what theoretical/observational developments are needed to make the most of our kilonovae observations.
 * Aug 24th: Omand and Sarin 2023 - _A Generalized Semi-Analytic Model for Magnetar-Driven Supernovae_ submitted to MNRAS. Check it out on the [arXiv](https://arxiv.org/abs/2308.12997).
 * Aug 24th: Sarin et al. 2023 - Super excited to finally submit the paper for Redback, _Redback: A Bayesian inference software package for electromagnetic transients_. Check it out on [arXiv](https://arxiv.org/abs/2308.12806) and [GitHub](https://github.com/nikhil-sarin/redback).
