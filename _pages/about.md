@@ -10,8 +10,8 @@ redirect_from:
 Welcome  
 I am a Ph.D. student at [Hydrosense Labs](https://hydrosense.iitd.ac.in/team/) at [Indian Institute of Technology Delhi](https://iitd.ac.in). Previously I was a [DAAD-KOSPIE](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57504697) exchange student at [TU Darmstadt](https://www.tu-darmstadt.de/index.en.jsp) and SERB OVDF fellow at [University of Alberta](https://www.ualberta.ca/index.html).  
 I belong to Himachal Pradesh and I completed my Bachelors in Civil Engineering from [National Institute of Technology Hamirpur](https://nith.ac.in) and Masters in Civil Engineering from [Indian Institute of Technology Guwahati](https://iitg.ac.in).  
-My goal is to develop solutions that enhance societal resilience against natural hazards. I use a combination of artificial intelligence, satellite imagery and physics based models to ascertain the drivers of natural hazards and devise preventive measures. I have developed mutiple automated and easy to use tools for floods and  landslides namely [ILSM](https://nirdeshsharma.github.io/publication/ILSM),[DeepSARFLOOD](DS),[LANDMARK](), and [ILCD]()
-More about my work can be read [here]()
+My goal is to develop solutions that enhance societal resilience against natural hazards. I use a combination of artificial intelligence, satellite imagery and physics based models to ascertain the drivers of natural hazards and devise preventive measures. I have developed mutiple automated and easy to use tools for floods and  landslides namely [ILSM](https://nirdesh-sharma.github.io/publication/ILSM),[DeepSARFLOOD](https://nirdesh-sharma.github.io/publication/DSF),[LANDMARK](https://nirdesh-sharma.github.io/publication/LANDMARK), and [ILCD](https://nirdesh-sharma.github.io/publication/ILCD)
+More about my work can be read [here](https://nirdesh-sharma.github.io/publications/)
 
 Research Interests
 ======
