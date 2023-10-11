@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Steven Ngo"
   avatar           : "pfp_everything.PNG"
-  bio              : "Software Engineering Undergrad @ Cal Poly San Luis Obispo, Teaching & Research Assistant"
-  location         : "San Luis Obispo, CA"
-  employer         : "Cal Poly CSSE Department"
+  bio              : "Software Engineering Ph.D. Student @ UC Irvine, Informatics Dept / Teaching Assistant"
+  location         : "Irvine, CA
+  employer         : "UCI Informatics Dept"
   pubmed           : 
   googlescholar    : 
-  email            : "sngo12@calpoly.edu"
+  email            : "skngo1@uci.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "stengos"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "stengo64"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "steven-ngo-291a31167"
   orcid            : 
   pinterest        :
   soundcloud       :
