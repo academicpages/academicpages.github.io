@@ -30,9 +30,11 @@ Experience
   * Trained and deployed the model to redact the ID numbers on Aadhaar cards (similar to Social Security numbers in the US).
 
 * Mavericks Racing, <em>Autonomous Driving Domain Head</em>
-  * Implemented models for monocular depth estimation, video-frame interpolation, and video super-resolution.
-  * Trained a DQN agent in CarRacing 2D, an autonomous vehicle environment in OpenAI Gym.
- 
+  * Team leader for developing autonomous systems for Team Mavericks Racing competing in Formula Student events.
+  * Team Achievements: 2nd rank in India @Formula Imperial 2020, 3rd in Design @Formula Green 2021.
+  * Created the backbone system for remote deployment of our car by detecting lanes using orange/blue traffic cones on track edges.
+  * Implemented models for monocular depth estimation, video-frame interpolation, video super-resolution, and DQN agents.
+  
 * JSW Steel, <em>Research Intern</em>
   * Led a 6-member team in building predictive models to determine the mechanical properties of steel wire rods by analyzing the thermal variance during the manufacturing process.
 
