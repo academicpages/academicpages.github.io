@@ -3,15 +3,15 @@ layout: archive
 title: "About Me"
 permalink: /aboutme/
 ---
-## Education
-Currently applying to computer science and software engineering Ph.D. programs! I'm interested in research in the areas of human-centered software engineering, software security, and testing. I'm also interested in software engineering culture, security education, and security capture-the-flag (CTF) events/trainings.
+As of fall quarter ‘23, I am exploring projects in Dr. Garcia’s lab group, the SORA (Software Aurora) Lab, which includes Android analysis, autonomous driving testing & analysis, architectural programming-language modules, and open-source security.
 
-### Undergrad
-* B.S. in Software Engineering, minor in Psychology from California Polytechnic State University, San Luis Obispo (2019-23)
+I am most interested in software security, human elements of software engineering & security, and security education, and I have previous experience with software mutation testing, cyber-physical systems, and IoT security
+
+## Education
+* Ph.D. in Software Engineering, Informatics Department, University of California, Irvine (2023 - present)
+* B.S. in Software Engineering, minor in Psychology from California Polytechnic State University, San Luis Obispo (2019 - 2023)
 
 
 ## Miscellaneous
-* I participate in online security CTF programs and competitions, though I've only started tracking my participation since late 2022.
-  * Currently working through all of https://dojo.pwn.college/ from ASU, 113 / 167 challenges in Intro to Cybersecurity, 99 / 358 challenges in Computer Systems Security
-  * OverTheWire Wargames completed: Bandit, Leviathan, Natas, Krypton
+* Currently working through all of https://dojo.pwn.college/ from ASU, 113 / 167 challenges in Intro to Cybersecurity, 99 / 358 challenges in Computer Systems Security
 * I have a pet cat named Honey!
