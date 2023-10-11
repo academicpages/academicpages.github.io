@@ -49,14 +49,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-* "Identifying Deepfake Faces with ResNet50-Keras using Amazon EC2 DL1 Instances powered by Gaudi Accelerators from Habana Labs,"
-2022 IEEE Region 10 Symposium (TENSYMP), 2022, pp. 1-6, doi: 10.1109/TENSYMP54529.2022.9864501.
+* "Identifying Deepfakes with ResNet50-Keras using Amazon EC2 DL1 Instances powered by Habana-Gaudi Accelerators," IEEE Region 10
+Symposium (TENSYMP), 2022, pp. 1-6, doi: 10.1109/TENSYMP54529.2022.9864501.
   
 * "Design and Development of an Autonomous Car using Object Detection with YOLOv4," International Research Journal of Engineering
-and Technology (IRJET), Volume 8, Issue 12, ISSN: 2395-0056, doi: 10.13140/RG.2.2.24545.63845.
+and Technology, ISSN: 2395-0056, doi: 10.13140/RG.2.2.24545.63845.
 
-* "Design and Development of a Multi-Control Gesture-Recognition based Robotic Arm," 2019 International Conference on Innovative
-Trends and Advances in Engineering and Technology (ICITAET), 2019, pp. 100-106, doi: 10.1109/ICITAET47105.2019.9170215.
+* "Design and Development of a Multi-Control Gesture-Recognition based Robotic Arm," International Conference on Innovative Trends
+and Advances in Engineering and Technology (ICITAET), 2019, pp. 100-106, doi: 10.1109/ICITAET47105.2019.9170215.
   
 Hackathons
 ======
