@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Teaching experience 2"
 collection: teaching
 type: "Workshop"
@@ -17,4 +17,4 @@ Heading 2
 ======
 
 Heading 3
-======
+====== -->
