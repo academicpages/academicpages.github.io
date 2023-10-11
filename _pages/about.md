@@ -14,7 +14,7 @@ Hi there! I'm Steven Ngo, a first-year software engineering Ph.D. student at Uni
 
 I am most interested in software security, human elements of software engineering & security, and security education, and I have previous experience with software mutation testing, cyber-physical systems, and IoT security. I also try to participate in security capture-the-flag competitions when I can and am looking for a team to grow and compete with!
 
-Here's my [CV](files/CV - Steven Ngo v2-1.pdf).
+Here's my [CV](files/CV - Steven Ngo v2 (8).pdf).
 
 Links to public documents (linked on applications):
 [Research work from USC ISI, summer 2022](files/REUNS_2022_Paper_Ready__CHIMPS_-1.pdf).
