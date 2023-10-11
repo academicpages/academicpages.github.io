@@ -25,3 +25,14 @@ Banff International Research Station, Aug 2022
 # Upcoming Talks
 ---
 
+Oct 13, 2023. **[Invited talk at Boston Pharmaceutical Symposium]**  Boston, MA.   
+[Sensitivity Analysis of Clinical Trial Designs](https://www.tandfonline.com/doi/abs/10.1080/00031305.2023.2216253?journalCode=utas20).  
+
+Oct 15, 2023. **[Invited talk at INFORMS]**  Phoenix, AZ.   
+Federated and Transfer Learning to Estimate Causal Effects of Underrepresented Populations. 
+
+Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational and Randomized Data]**  Washington, DC.   
+Applications in Data Integration for Real World Evidence. 
+
+Dec 10-16, 2023. **[NeurIPS 2023]** New Orleans, LA.  
+[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
