@@ -33,7 +33,9 @@ Dec 10-16, 2023. **[NeurIPS 2023]** New Orleans, LA.
 
 
 ## Recent News 
-Sep 21, 2023. **[Our paper [Multiply Robust Federated Estimation of TATEs](https://arxiv.org/abs/2309.12600) was accepted at NeurIPS 2023!]**
+Oct 10, 2023. **[Paper]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768) has been accepted at *Annals of Applied Statistics!*  
+
+Sep 21, 2023. **[Paper]** [Multiply Robust Federated Estimation of TATEs](https://arxiv.org/abs/2309.12600) has been accepted at *NeurIPS 2023!*
 
 Sep 20, 2023. **[Invited talk at Applied Statistics Workshop, Harvard Institute for Quantitative Social Science]** Cambridge, MA.  
 [Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects](https://projects.iq.harvard.edu/applied.stats.workshop-gov3009). 
