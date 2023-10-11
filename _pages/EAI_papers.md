@@ -82,12 +82,12 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> 🏅 Emergence of Maps in the Memories of Blind Navigation Agents (ICLR'23 Outstanding Paper) <a href="https://iclr.cc/virtual/2023/oral/12560">📚</a></li>
     <li> Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks <a href="https://arxiv.org/abs/1903.03878">📚</a></li>
     <li>Graph Attention Memory for Visual Navigation <a href="https://arxiv.org/abs/1905.13315">📚</a></li>
-    <li>nstance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances <a href="https://arxiv.org/pdf/2211.15876.pdf">📚</a></li>
+    <li>Instance-Specific Image Goal Navigation: Training Embodied Agents to Find Object Instances <a href="https://arxiv.org/pdf/2211.15876.pdf">📚</a></li>
     <li>Navigating to Objects Specified by Images <a href="https://arxiv.org/pdf/2304.01192.pdf">📚</a> <a href="https://jacobkrantz.github.io/modular_iin">🌍</a></li>
     <li> TIDEE: Tidying Up Novel Rooms using Visuo-Semantic Commonsense Priors <a href="https://arxiv.org/abs/2207.10761">📚</a> <a href="https://tidee-agent.github.io/">🌍</a></li>
     <li>Egocentric Planning for Scalable Embodied Task Achievement <a href="https://arxiv.org/pdf/2306.01295.pdf">📚</a></li>
     <li> ALP: Action-Aware Embodied Learning for Perception <a href="https://arxiv.org/pdf/2306.10190.pdf">📚</a></li>
-    <li> Simple but Effective: CLIP Embeddings for Embodied AI <a href="https://arxiv.org/pdf/2306.10190.pdf">📚</a></li>
+    <li> Simple but Effective: CLIP Embeddings for Embodied AI <a href="https://arxiv.org/abs/2111.09888">📚</a></li>
     <li> Continuous Scene Representations for Embodied AI <a href="https://arxiv.org/abs/2203.17251">📚</a></li>
     <li> Graph-based Environment Representation for Vision-and-Language Navigation in Continuous Environments<a href="https://arxiv.org/pdf/2301.04352.pdf">📚</a></li>
     <li> Learning Affordance Landscapes for Interaction Exploration in 3D Environments<a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf">📚</a></li>
