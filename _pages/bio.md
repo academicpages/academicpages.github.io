@@ -12,7 +12,7 @@ redirect_from:
 
 ## Education
 
-* B.A. in Economics, Universidade Federal de Pernambuco, 20092
+* B.A. in Economics, Universidade Federal de Pernambuco, 2009
 * M.A. in Economics, Universidade Federal de Pernambuco, 2012
 * Ph.D in Economics, University of Illinois at Urbana-Champaign, 2019
 
