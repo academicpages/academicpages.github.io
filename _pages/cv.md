@@ -60,7 +60,7 @@ and Advances in Engineering and Technology (ICITAET), 2019, pp. 100-106, doi: 10
   
 Hackathons
 ======
-* Represented India at Singapore India Hackathon 2023, held alongside bilateral talks with Singapore as part of India’s G20 Summit presidency.
+* Represented India (and invideo) at the Singapore India Hackathon 2023, held alongside bilateral talks with Singapore as part of India’s G20 Summit presidency.
 * Mentored undergraduate students at HackMIT 2023, the annual hackathon of the Massachusetts Institute of Technology.
 * Winner of the Smart India Hackathon 2022, among 100,000+ competing teams across India.
 * Special mention at HackMIT 2021 in the innovation category, for EV Sherlock.
