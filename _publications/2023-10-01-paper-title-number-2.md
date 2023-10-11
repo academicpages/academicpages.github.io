@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2023-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 6. The number 7 is left for future work.'
 date: 2023-10-01
-venue: 'Journal 1'
+venue: 'The Journal of the Acoustical Society of America'
 paperurl: 'https://pubs.aip.org/asa/jasa/article/153/3_supplement/A233/2886132/Road-traffic-noise-informational-masking-with'
 citation: 'Li, J., Maffei, L., Pascale, A., Masullo, M., Lin, M., & Chau, C. K. (2023). Road traffic noise informational masking with water sound sequences: From laboratory simulation to field study. The Journal of the Acoustical Society of America, 153(3_supplement), A233-A233.'
 ---
-This paper is about the number 6. The number 7 is left for future work.
+Abstract: Road traffic noise control in urban green space is a big concern for urban designers and public managers. The introduction of water sounds into noisy environment has been proven effective based on the soundscape approach. To extend more effective and applicable strategies for water sound informational masking, the exploration of the spatial settings of virtual water sound playbacks in urban parks were conducted both in the laboratory and field settings. Three different spatial water-sound sequences were added into the virtual noisy environment through an immersive spatial audio system and the real urban green park through the digital audio programming of bluetooth loudspeakers. The mental activities and subjective feelings of two group subjects were evaluated by a portable electroencephalogram (EEG) measurement with a post-doc questionnaire. The better masking effects introduced by the spatial settings of water sounds had been confirmed from the results of more positive emotional feedbacks and more relaxed mental state revealed by the spectral power of alpha band across two experimental conditions. Especially, the two-position switching water sounds brought more attentional network activations. Moreover, more sensory accumulation effects reflected by the mental network activations were observed from the brain activities in the in situ measurement compared to laboratory-setting.
 
 Recommended citation: Li, J., Maffei, L., Pascale, A., Masullo, M., Lin, M., & Chau, C. K. (2023). Road traffic noise informational masking with water sound sequences: From laboratory simulation to field study. The Journal of the Acoustical Society of America, 153(3_supplement), A233-A233.

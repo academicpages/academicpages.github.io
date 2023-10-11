@@ -1,5 +1,5 @@
 ---
-title: " Urban Park Lighting Quality Perception: An Immersive Virtual Reality Experiment"
+title: "Urban Park Lighting Quality Perception: An Immersive Virtual Reality Experiment"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 5. The number 6 is left for future work.'
@@ -8,7 +8,7 @@ venue: 'Sustainability'
 paperurl: 'http://jianli-2089.github.io/files/sustainability_v1.pdf'
 citation: 'Masullo, M., Cioffi, F., Li, J., Maffei, L., Ciampi, G., Sibilio, S., & Scorpio, M. (2023). Urban Park Lighting Quality Perception: An Immersive Virtual Reality Experiment. Sustainability, 15(3), 2069.'
 ---
-This paper is about the number 5. The number 6 is left for future work.
+Abstract: Green areas and parks are increasingly important in improving citizens’ physical and mental recovery. Lighting systems play a considerable role in affecting city park life and activities along with people’s moods and behavior in the evening and at night. Immersive virtual reality laboratory experiments may support urban and lighting research by providing information on the combination of lighting setup and visual context of existing or new urban parks. Gaze behaviors obtained from eye-tracking recordings and self-reported measurements using the perceived outdoor lighting quality questionnaire were used to determine the factors affecting human perception, comfort, and cognitive load, as the overall illuminance levels of the scene and correlated color temperature changes. Results pointed out that overall illuminance level and CCT significantly affect the perceived strength and comfort qualities of lighting with a dominance of the first compared with the latter when subjects were free to explore the lit environment. Low CCT and intermediate or high overall illuminance levels can improve the sense of accessibility as well as minimize the cognitive load.
 
 [Download paper here](http://jianli-2089.github.io/files/sustainability_v1.pdf)
 
