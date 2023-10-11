@@ -11,3 +11,5 @@ redirect_from:
 > [Syllabus](http://henriqueveras.github.io/files/Econometrics/Syllabus/Ementa.pdf)
 
 > [Lecture Notes](http://henriqueveras.github.io/_pages/econometrics-lectures)
+
+> Test
