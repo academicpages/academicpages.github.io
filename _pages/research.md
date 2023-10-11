@@ -29,15 +29,15 @@ redirect_from:
 
 ## In Preparation
 
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Winning Side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Data collection in progress**.
+
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'." **Data collection in progress**.
+
+- Hector Bahamonde and Aki Koivula. "Power To The People: Rising Inequality Levels and the Case of the Finns Party in Finland." **Writing process in progress**.
+
 - Hector Bahamonde, Heikki Kaupi, Igor Kovac and Wilma Nissila. "Not Just Guns or Butter, but What Came First—Guns or Butter? Introducing GVAR to International Relations." <br/> [[Abstract]](https://github.com/hbahamonde/Bahamonde_Kovac/raw/master/abstract.txt)
 
 - Hector Bahamonde. "Illiberal Democrats: The 2016 United States Presidential Election as a Critical Juncture, a Conjoint Experiment." <br/> [[Abstract]](http://www.hectorbahamonde.com)
-
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Winning Side and Commitment to Democratic Principles: Experimental Evidence from New Democracies."
-
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'."
-
-- Hector Bahamonde and Aki Koivula. "Power To The People: Rising Inequality Levels and the Case of the Finns Party in Finland."
 
 
 
