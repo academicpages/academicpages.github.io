@@ -1,18 +1,18 @@
 # Authors
 
 Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
+  name        : "Saket Pradhan"
+  uri         : "http://saketspradhan.github.io"
+  email       : "saketpe@umich.edu"
+  bio         : "Hi, I'm Saket Pradhan!"
   avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+  twitter     : "saket"
+  google_plus : "Saket Pradhan"
+
+# Name Name:
+#   name        : "Name Name"
+#   email       : "name@name.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"
