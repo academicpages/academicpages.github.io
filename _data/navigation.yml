@@ -11,7 +11,7 @@ main:
 
   - title: "Blog"
     # url: /blog/
-    url: /blog/
+    url: https://gqkim.notion.site/Remy-s-Writings-62a8e18b2d484b96a180dde4e9556afd?pvs=4 #/blog/
 
   - title: "Projects"
     url: /projects/
