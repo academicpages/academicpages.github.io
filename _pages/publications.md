@@ -17,28 +17,34 @@ Here, I highlight some of my ongoing and recent work.
 
 
 ## Statistical Methods
+**[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
+Accepted at Annals of Applied Statistics (2023+).   
+*2023 ASA Student Paper Award of the Health Policy Statistics Section.*  
+*2022 WNAR Best Oral Student Paper Presentation.*   
+**Han L,** Li Y, Niknam B, Zubizarreta J.  
+We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.  
+
+**[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)**.  
+NeurIPS (2023).  
+**Han L,** Zhu S, Zubizarreta, J.  
+We provide multiply robust and privacy-preserving estimation of treatment effects under covariate mismatch and covariate shift for target populations of interest.
+
+**[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
+Arxiv, Invited revision at JASA (2023+).  
+Guo Z, Li X, **Han L,** Cai T.  
+We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
+
+**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
+Arxiv, Invited revision at JASA (2023+).  
+*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
+**Han L,** Hou J, Cho K, Duan R, Cai T.  
+We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+
 **[Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/stoken/default+domain/UEWEJXD5NVZ9WK9JPQM5/full?redirectUri=/doi/full/10.1056/EVIDe2300142)**.  
 NEJM Evidence (2023).  
 **Han L.**   
 In this editorial, I discuss the drawbacks of conventional survival analysis based on the proportional hazards assumption and highlight some advantages of using the restricted mean survival time (RMST).
 
-**[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
-Arxiv (2023).  
-Guo Z, Li X, **Han L,** Cai T.  
-We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
-
-**[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768)**.  
-Arxiv (2023).   
-*2023 ASA Student Paper Award of the Health Policy Statistics Section.*  
-*2022 WNAR Best Oral Student Paper Presentation.*   
-**Han L,** Li Y, Niknam B, Zubizarreta J.  
-We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.
-
-**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
-Arxiv (2023).  
-*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
-**Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
 
 **[Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics](https://www.tandfonline.com/doi/abs/10.1080/00031305.2023.2216253)**.   
 The American Statistician (2023).  
@@ -62,10 +68,6 @@ Under Review (2023).
 Han S and **Han L.**  
 We propose a new principal resampling technique for unbiased estimation of the ATE and proportions in each of four principal strata without requiring the deterministic monotonicity assumption.
 
-**Multiply Robust Federated Estimation of Targeted Average Treatment Effects**.  
-Under Review (2023).  
-**Han L,** Zhu S, Zubizarreta, J.  
-We provide multiply robust and privacy-preserving estimation of treatment effects for target populations of interest.
 
 **Doubly Robust Semi-supervised Estimation of Survival**.    
 **Han L,** Hou J, Cai T.  
