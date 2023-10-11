@@ -11,30 +11,57 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Logistics Management, Beijing Wuzi University, 2009-2013
+* M.S. in Fundamental Psychology, Southwest University (China), 2013-2016
+* Ph.D in Architecture and Industrial Design, University of Campania Luigi Vanvitelli, 2020-2023 (expected)
+
+Research experience
+======
+* 2013 - 2016: Southwest University - Dept of Psychology 
+  * Research project: “EEG research on the recognition process of symmetry perception”
+  * Research project: “Cognitive research on the recognition process of Chinese character based on fMRI”
+  * Thesis: “The processing mechanism of symmetry visual perception under the condition of oblique symmetry: two ERP researches on SPN components”
+  * Advisors: Quanhong Wang
+
+* 2018 - 2020: Harbin Institute of Technology-Shenzhen - Dept of Architecture 
+  * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
+  * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
+  * Advisors: Biao Yang
+  
+* 2022 - 2022: Hong Kong Polytechnic University - Dept of Building Environment and Energy Engineering  
+  * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
+  * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
+  * Advisors: Biao Yang
+  
+* 2020 - 2023: University of Campania Luigi Vanvitelli - Dept of Architecture and Industrial Design
+  * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
+  * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
+  * Co-Advisors: Massimiliano Masullo, Luigi Maffei
+  
+* 2023 - now: Harbin Institute of Technology-Shenzhen - Dept of Architecture 
+  * Research project: “3D modeling, lighting simulation and verification of the integrative lighting design for traffic tunnels”
+  * Research project: “Potential influencing factors of the commercial signage at night on visual comfort of pedestrians”
+  * Advisors: Biao Yang
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016 - 2018: Neuroscience engineer
+  * ShangHai PsyTech Electronic Technology Co., Ltd
+  * Duties included: Eye tracking, EEG and fNIRS methodology and applications in neuroscience studies
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - 2020: Research Assistant
+  * Harbin Institute of Technology-Shenzhen
+  * Duties included: Responsible for conducting scientific research on building light environment evaluation and environmental psychology; Participating in multiple research projects, such as LED lighting energy saving and visual effect compensation mechanism for safe walking environment, and aircraft cockpit automatic lighting system and glare control.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Rich experience in experiment design and data analysis in acoustical research, lighting research and multisensory research with scientific measurement and technology, including the use of binaural dummy head, SLM, Astro Spatial Audio system, digital audio programming, luminance meter, photometer, integrated with advanced neuroscience and behavior devices including eye-tracker, EEG, fNIRS, etc.;
+
+* Full grounded computer science knowledge and practical experiences, ability to use MATLAB, Python, R, etc. to complete experimental data acquisition and analysis;
+
+* Experienced in generalmachine learning algorithmsfor clustering and classification within deep learning frameworks, and proficient in statistical analysis techniques, such as ANOVA, PERMANOVA, LM, GLM, and time series analysis;
+
+* Familar with in 3D modeling workflows and light simulation utilizing Blender and Unreal Engine, encompassing PBR-based modeling and photogrammetry-based modeling techniques.
 
 Publications
 ======
