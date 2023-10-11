@@ -56,8 +56,8 @@
   }
 
   p, li, dl {
-    font-size: 1em 
-    // 0.875em;
+    // font-size: 1em 
+    font-size: 0.875em;
   }
 
   /* paragraph indents */
@@ -87,13 +87,13 @@
 
   dt {
     margin-top: 1em;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $sans-serif;
+    font-family: $serif;
     font-size: $type-size-6;
   }
 
