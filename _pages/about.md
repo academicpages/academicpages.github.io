@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student in the Department of Computer Science at UCL, focusing on the emergence of cooperation within groups of agents - I am particularly interested in irrational behaviour. 
 
-My PhD is funded by the Leverhulme as part of the [Leverhulme Doctoral Training Programme for the Ecological Study of the Brain](http://ecologicalbrain.org/).
+My PhD is funded by the Leverhulme Trust as part of the [Leverhulme Doctoral Training Programme for the Ecological Study of the Brain](http://ecologicalbrain.org/).
 
 Research Interests
 ======
