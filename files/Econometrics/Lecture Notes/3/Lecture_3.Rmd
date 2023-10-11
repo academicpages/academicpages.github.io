@@ -82,7 +82,7 @@ An **estimator** is a strategy for using the sample data that are drawn from a p
 
 The **properties** of that estimator are descriptions of how it can be expected to behave when it is appied to a sample of data.
 
-## Unbiasedness
+### Unbiasedness
 
 The least squares estimator is **unbiased** in every sample:
 
@@ -231,4 +231,638 @@ Notice that the $k$-th diagonal element of this matrix is $[s^2(\mathbf{X'X}_{kk
 ### The Gauss-Markov Theorem
 
 ![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_4.2.png)
+
+### The Normality Assumption
+
+We have not used assumption A6 until now. Recall:
+
+\vfill
+
+$\mathbf{b}=\mathbf{\beta}+(\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{\varepsilon}$
+
+\vfill
+
+If **Assumption A6** is satisfied: $\varepsilon|\mathbf{X} \sim N(\mathbf{0},\sigma^2\mathbf{I})$
+
+\vfill
+
+Thus, $\mathbf{b}|\mathbf{X} \sim N(\mathbf{\beta},\sigma^2(\mathbf{X}'\mathbf{X})^{-1})$
+
+
+## Asymptotic Properties of the Least Squares Estimator
+
+### Asymptotic Properties of the Least Squares Estimator
+
+The properties described above can be applied to any sample size (*finite sample* properties)
+
+\vfill
+
+Issues:
+
+  1. The list of settings in which exact finite sample results can be obtained is extremely small.
+  2. The assumption of normality likewise narrows the range of the applications.
+  
+\vfill
+
+We now extend our analysis to large samples. We might be able to obtain more general approximate results.
+
+\vfill
+
+### Asymptotic Properties of the Least Squares Estimator
  
+ Unbiasedness has two important limitations:
+ 
+  1. It is rare for an econometric estimator to be unbiased (with the clear exception of the LS)
+  2. Does not imply that more data is better.
+  
+\vfill
+
+Throughout we'll rely on two crucial assumptions:
+
+  1. **A5a**: $(\mathbf{x}_i\mathbf{\varepsilon}_i), i=1,\cdots, n$, is a sequence of independent, identically distributed *observations*.
+  2. **A2'**: $\text{plim } \frac{(\mathbf{X}'\mathbf{X})}{n}=\mathbf{Q}$, a positive definite matrix.
+  
+
+\vfill
+
+
+Recall:
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/definition_d.1.png)
+
+\vfill
+
+If $x_n$ converges in probability to $c$, then, we say that $\text{plim } x_n = c$.
+
+\vfill
+
+### Asymptotic Assumptions about $\mathbf{X}$
+
+At many points from here forward, we will make an assumption that the data are *well behaved* so that an estimator or statistic will converge to a result.
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/table_4.2.png)
+
+### Consistency of the LS estimator of $\beta$
+
+Recall the general definition of consistency of an estimator:
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/definition_d.2.png)
+
+
+\vfill
+
+We will show that the LS estimator $\mathbf{b}$ is consistent, that is, $\text{plim } \mathbf{b}= \mathbf{\beta}$.
+
+\vfill
+
+We can write $\mathbf{b}$ as
+
+$$\mathbf{b}=\mathbf{\beta}+\left(\frac{\mathbf{X}'\mathbf{X}}{n}\right)^{-1}\left(\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}\right)$$
+
+\vfill
+
+### Some useful results
+
+Before proceeding to the consistency proof, recall some important results:
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_d.1.png)
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_d.4.png)
+
+\vfill
+
+### Some useful results
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_d.14.png)
+
+
+### Consistency of the LS estimator of $\beta$
+
+Now, the probability limit of $\mathbf{b}$ is
+
+$$\text{plim } \mathbf{b}=\mathbf{\beta}+\mathbf{Q}^{-1}\text{plim }\left(\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}\right)$$
+
+To find $\text{plim } \mathbf{b}$, we need to check $\text{plim }\left(\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}\right)$:
+
+\vfill
+
+
+According to Theorem D.4, the sample mean is a consistent estimator of the population mean. therefore
+
+$$\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}=\frac{1}{n}\sum_{i=1}^n{\mathbf{x}_i\varepsilon_i}$$
+
+converges in probability to its expected value, $E[\mathbf{\varepsilon}\mathbf{X}]$, which is zero (why?).
+
+
+\vfill
+
+
+
+### Consistency of the LS estimator of $\beta$
+
+It follows that $\text{plim }\left(\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}\right)=0$
+
+\vfill
+
+Thus, $\text{plim } \mathbf{b}=\mathbf{\beta}$.
+
+\vfill
+
+For any individual coefficient of the vector $\mathbf{b}$, we have
+
+$$\lim_{n\to\infty} Prob[|b_k-\beta_k|>\delta]=0$$
+
+for any $\delta>0$
+
+\vfill
+
+### The Estimator of the $Asy. Var[\mathbf{b}]$
+
+To complete the derivation of the asymptotic properties of $\mathbf{b}$, we will require an estimator of $Asy. Var[\mathbf{b}]=\sigma^2/n\mathbf{Q}^{-1}$, provided that **A2'** is satisfied.
+
+\vfill
+
+It can be shown that $s^2$ is a **consistent** estimator of $\sigma^2$. (you should be able to show this!)
+
+\vfill
+
+Thus, by the product rule of the probability limits, we have
+
+$$\text{plim } s^2(\mathbf{X}'\mathbf{X}/n)^{-1}=\sigma^2\mathbf{Q}^{-1}$$
+
+\vfill
+
+The appropriate estimator of the asymptotic covariance matrix of $\mathbf{b}$ is 
+
+$$Est.Asy.Var [\mathbf{b}]=s^2(\mathbf{X}'\mathbf{X})^{-1}$$
+
+###  Asymptotic Normality of the Least Squares Estimator
+
+Let us now derive the asymptotic distribution of the Least Squares estimator.
+
+\vfill
+
+Notice that we do not require that **A6** is satisfied here. If it is, then the sampling distribution of $\mathbf{b}$ is *exact* normal for every sample, which also holds asymptotically.
+
+\vfill
+
+We now rewrite $\mathbf{b}$ as
+
+$$\mathbf{b}-\mathbf{\beta}=\left(\frac{\mathbf{X}'\mathbf{X}}{n}\right)^{-1}\left(\frac{\mathbf{X}'\mathbf{\varepsilon}}{n}\right)$$
+
+A multivariate version  of the following theorem can be useful:
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_d.18.png)
+
+###  Asymptotic Normality of the Least Squares Estimator
+
+Multiplying both sides by $\sqrt{n}$:
+
+$$\sqrt{n}(\mathbf{b}-\mathbf{\beta})=\left(\frac{\mathbf{X}'\mathbf{X}}{n}\right)^{-1}\left(\frac{1}{\sqrt{n}}\right)\mathbf{X}'\mathbf{\varepsilon}$$
+\vfill
+
+
+As we know that $\text{plim } \left(\frac{\mathbf{X}'\mathbf{X}}{n}\right)^{-1}=\mathbf{Q}^{-1}$, the *limiting* distribution of $\sqrt{n}(\mathbf{b}-\mathbf{\beta})$ is the same as the limiting distribution of 
+
+$$\mathbf{Q}^{-1}\frac{1}{\sqrt{n}}\mathbf{X}'\mathbf{\varepsilon}$$
+
+\vfill
+
+
+###  Asymptotic Normality of the Least Squares Estimator
+
+We can show that $\frac{1}{\sqrt{n}}\mathbf{X}'\mathbf{\varepsilon}$ can be written as 
+
+$$\sqrt{n}[\bar{\mathbf{w}}-E(\bar{\mathbf{w}})],$$
+
+where $\mathbf{w}_i=\sum{\mathbf{x}_i\varepsilon_i}$ and $\bar{\mathbf{w}}=(1/n)\sum{\mathbf{w}_i}$.
+
+\vfill
+
+The vector $\bar{\mathbf{w}}$ is the average of $n$ $i.i.d.$ random vectors with mean $0$ and variance $Var[\varepsilon_i\mathbf{x}_i]=\sigma^2E[\mathbf{x_ix_i'}]=\sigma^2\mathbf{Q}$.
+
+###  Asymptotic Normality of the Least Squares Estimator
+
+We can show that the variance of $\sqrt{n}\bar{\mathbf{w}}=\sigma^2\mathbf{Q}$.
+
+\vfill
+
+Thus, applying the Lindeberg–Levy central limit theorem, if $[\mathbf{x}_i\varepsilon_i]$, $i=1,\cdots,n$, are independent vectors, each distributed with mean 0 and variance $\sigma^2\mathbf{Q}<\infty$, and **A2'** holds, then
+
+$$\left(\frac{1}{\sqrt{n}}\right)\mathbf{X}'\mathbf{\varepsilon}\xrightarrow{d}N[0,\sigma^2\mathbf{Q}]$$
+
+###  Asymptotic Normality of the Least Squares Estimator
+
+From the previous result, we can find the following theorem:
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_4.3.png)
+
+\vfill
+
+In practice, we need to estimate $\frac{1}{n}\mathbf{Q}^{-1}$ with $(\mathbf{X'X})^{-1}$ and $\sigma^2$ with $s^2=\frac{\mathbf{e'e}}{n-K}$.
+
+\vfill
+
+
+### Asymptotic Efficiency
+
+The Gauss-Markov Theorem establishes finite sample conditions under which the LS estimator is optimal.
+
+\vfill
+
+The requirements that the estimator be *linear* and *unbiased* limit the theorem's generality, however.
+
+\vfill
+
+In asymptotic theory, we are interested in expanding the scope of analysis to estimators that might be biased but consistent.
+
+\vfill
+
+Moreover, we might also be interested in comparing non-linear estimators as well.
+
+\vfill
+
+### Asymptotic Efficiency
+
+These cases extend beynd the reach of the Gauss-Marvok theorem.
+
+\vfill
+
+Below we present an alternative criterion:
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/definition_4.1.png)
+
+
+\vfill
+
+### Some comments on Asymptotic Efficiency
+
+We can compare estimators based on their asymptotic variances. 
+
+\vfill
+
+The complication in comparing two consistent estimators is that both converge to the true parameter as the sample size increases. 
+
+\vfill
+
+Moreover, it usually happens that they converge at the same rate—that is, in both cases, the asymptotic variances of the two estimators are of the same order. 
+
+\vfill
+
+In such a situation, we can sometimes compare the asymptotic variances for the same $n$ to resolve the ranking.
+
+## The Delta Method
+
+### Asymptotic Distribution of a Function of $\mathbf{b}$: The Delta Method
+
+Let $\mathbf{b}$ be a set of $J$ continuous, linear or non-linear, and continuously differentiable functions of the LS estimators and let
+
+$$\mathbf{C}(\mathbf{b})=\frac{\partial f(\mathbf{b})}{\partial \mathbf{b}'}$$
+a $J\times K$ matrix whose $j$th row is the vector of derivatives of the $j$th function with respect to $\mathbf{b}'$.
+
+\vfill
+
+We'll use the Slutsky theorem:
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_d.6.png)
+
+### Asymptotic Distribution of a Function of $\mathbf{b}$: The Delta Method
+
+According to the Slutsky Theorem,
+
+$$\text{plim } f(\mathbf{b})= f(\text{plim } \mathbf{b})=f(\mathbf{\beta})$$
+
+and
+
+$$\text{plim } \mathbf{C}(\mathbf{b})=\frac{\partial f(\mathbf{\beta})}{\partial \mathbf{\beta}'}=\mathbf{\Gamma}$$
+
+### Asymptotic Distribution of a Function of $\mathbf{b}$: The Delta Method
+
+Using a linear Taylor series approach, we expand this set of functions in the approximation
+
+$$f(\mathbf{b})= f(\mathbf{\beta})+\mathbf{\Gamma}\times (\mathbf{b}-\mathbf{\beta})+\text{higher order terms}$$
+
+\vfill
+
+The higher order terms become negligible in large samples if $\text{plim } \mathbf{b}=\mathbf{\beta}$.
+
+\vfill
+
+Thus the asymptotic distribution of the LHS of the above expression is the same as the asymptotic distribution of the RHS. 
+
+### Asymptotic Distribution of a Function of $\mathbf{b}$: The Delta Method
+
+The mean of the asymptotic distribution is $\text{plim } f(\mathbf{b})=f(\mathbf{\beta})$ and the asymptotic covariance matrix is $$\mathbf{\Gamma}[Asy.Var(\mathbf{b}-\mathbf{\beta})]\mathbf{\Gamma}'$$.
+
+\vfill
+
+These results are displayed in the theorem below.
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/theorem_4.4.png)
+
+### An Example: The US gasoline market
+
+Suppose we are interested in estimating the short- and long-run impacts of changes in price and income on the demand for gasoline.
+
+\vfill
+
+We can estimate the following model:
+
+
+
+$$\begin{split}
+ln(G/Pop)_t = & \beta_1+\beta_2 ln P_{G,t}+\beta_3 ln (Income/Pop)_t+\beta_4 lnP_{nc,t} \\ 
+ & + \beta_5 lnP_{uc,t}+\gamma ln(G/Pop)_{t-1}+\varepsilon_t\end{split}$$
+
+\vfill
+
+In the short-run, price and income elasticities are $\beta_2$ and $\beta_3$, respectively.
+
+\vfill
+
+In the long-run, equilibrium would require $ln(G/Pop)_t=ln(G/Pop)_{t-1}$.
+
+\vfill
+
+Therefore, long-run elasticities are $\phi_2=\frac{\beta_2}{1-\gamma}$ and $\phi_3=\frac{\beta_3}{1-\gamma}$
+
+\vfill
+
+How do we estimate these elasticities?
+
+
+### An Example: The US gasoline market
+
+The LS estimates of the long-run elasticities are $f_2=b_2/(1-c)=-0.411$ and $f_3=b_3/(1-c)=0.9705$.
+
+\vfill
+
+The estimated results are shown in the table below.
+
+\vfill
+
+![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Lecture Notes/3/table_4.6.png)
+
+### An Example: The US gasoline market
+
+The next step is to estimate the standard errors of $\phi_2$ and $\phi_3$.
+
+\vfill
+
+Recall the estimated asymptotic variance matrix obtained in theorem 4.4: $$[\mathbf{C}[Asy.Var(\mathbf{b})]\mathbf{C}']=\mathbf{C}s^2(\mathbf{X'X})^{-1}\mathbf{C}'$$
+
+\vfill
+
+This yields
+
+\vfill
+
+$$Es.Asy.Va[b_2/(1-c)]=0.0231$$
+
+$$Es.Asy.Va[b_3/(1-c)]=0.0264$$
+
+\vfill 
+
+The (asymptotic) standard errors are the square roots 0.1522 and 0.1623, respectively.
+
+\vfill
+
+## Interval Estimation
+
+### Interval Estimation
+
+The objective of interval estimation is to present the best estimate of a parameter with an explicit expression of the uncertainty attached to that estimate. 
+
+\vfill
+
+A general approach would be $$\hat{\theta}\pm \text{sampling variability}$$
+
+\vfill
+
+Consider two (uninformative) extreme cases:
+
+  1. 100\% of confidence that the true population parameter lies in the range $\hat{\theta}\pm \infty$
+  2. 0\% of confidence that the true population parameter lies in the range $\hat{\theta}\pm 0$
+  
+\vfill
+
+The objective is to choose a value $\alpha$ such that we can attach the confidence $100(1-\alpha)\%$ to the interval.
+
+### Forming a Confidence Interval for a Coefficient
+
+If $\varepsilon|\mathbf{X} \sim N(0,\sigma^2\mathbf{I})$, then any particular element of $\mathbf{b}$ is distributed as
+
+$$\mathbf{b}_k|\mathbf{X} \sim N(\mathbf{\beta}_k, \sigma^2 S^{kk})$$
+
+where $S^{kk}$ denotes the $k$th diagonal element of $(\mathbf{X'X})^{-1}$.
+
+\vfill
+
+By standardizing the variable, we find
+
+$$z_k=\frac{b_k-\beta_k}{\sqrt{\sigma^2S^{kk}}}$$
+
+has a standard normal distribution. 
+
+\vfill
+
+Using $\alpha=0.05$, we know that $Prob[-1.96\leq z_k \leq 1.96]=0.95$.
+
+\vfill
+
+### Forming a Confidence Interval for a Coefficient
+
+By simple manipulation, we have
+
+$$Prob[b_k-1.96\sqrt{\sigma^2 S^{kk}} \leq \beta_k \leq b_k+1.96\sqrt{\sigma^2 S^{kk}}]=0.95$$
+
+\vfill
+
+But recall that $\sigma^2$ is unknown. Thus, we use $s^2$ as its estimator. Then, the ratio
+
+$$t_k=\frac{b_k-\beta_k}{\sqrt{s^2S^{kk}}}$$
+
+has a $t$ distribution with $n-K$ degrees of freedom (why?).
+
+### Forming a Confidence Interval for a Coefficient
+
+If the disturbances do not follow a normal distribution, then the theory for the $t$ distribution does not apply.
+
+\vfill
+
+However, we can use the large sample results to find the *limiting* distribution of the statistic
+
+$$z_k=\frac{\sqrt{n}(b_k-\beta_k)}{\sqrt{\sigma^2Q^{kk}}}$$
+
+is standard normal, where $\mathbf{Q}=\text{plim }(\mathbf{X'X}/n)$ and $Q^{kk}$ is the $k$th diagonal element of $\mathbf{Q}^{-1}$.
+
+\vfill
+
+We can use $s^2$ as a consistent estimator for $\sigma^2$ and estimate $\mathbf{Q}^{-1}$ with $(\mathbf{X'X}/n)^{-1}$.
+
+### Forming a Confidence Interval for a Coefficient
+
+This gives us precisely the $t$ statistic for the exact distribution case.
+
+\vfill
+
+To compute the confidence interval, however, we use the standard normal distribution table rather than the $t$ distribution.
+
+\vfill
+
+In practice, however, if the degrees of freedom are moderately large, say greater than 100, the $t$ distribution converges to the standard normal one.
+
+\vfill
+
+The confidence interval would then be given by
+
+$$Prob[b_k-1.96\sqrt{Est.Asy. Var(b_k)} \leq \beta_k \leq b_k+1.96\sqrt{Est.Asy. Var(b_k)}]=1-\alpha$$
+
+\vfill
+
+### Confidence Interval for a Linear Combination of Coefficients: The Oaxaca's Decomposition
+
+Oaxaca (1973) and Blinder (1973) provide an application on how to form a confidence interval for a linear function of the parameters.
+
+\vfill
+
+
+Let $\mathbf{w}$ denote a $K\times 1$ vector of known constants. 
+
+\vfill
+
+Then, the linear combination $c=\mathbf{w'b}$ is asymptotically normally distributed with mean $\gamma=\mathbf{w'\beta}$ and variance $$\sigma^2_c=\mathbf{w}'[Asy. Var(\mathbf{b})]\mathbf{w}$$ which we estimate with $s^2_c=\mathbf{w}'[Est.Asy. Var(\mathbf{b})]\mathbf{w}$.
+
+\vfill
+
+The confidence interval for $\gamma$ is thus
+
+$$Prob[c-z_{(1-\alpha /2)}s_c \leq \gamma \leq c-z_{(1-\alpha /2)}s_c]=1-\alpha$$
+
+### The Oaxaca-Blinder Decomposition
+
+Consider Oaxaca's (1973) application, in the context of labor supply.
+
+\vfill
+
+The underlying regression model for men and women, separately, are
+
+$$\ln wage_{m,i}=\mathbf{x}_{m,i}\beta_m+\varepsilon_{m,i}$$
+
+$$\ln wage_{f,i}=\mathbf{x}_{f,i}\beta_f+\varepsilon_{f,i}$$
+
+where $\mathbf{x}_i$ includes sociodemographic variables, such as age, education, and experience.
+
+\vfill
+
+The purpose is to compute both equations by decomposing the estimated difference in wages in two components:
+
+  1. Differences in the levels of each observable variable of the model;
+  2. Differences in the (unexplained) "effects".
+  
+\vfill
+
+### The Oaxaca-Blinder Decomposition
+
+From the population regression equations, we have
+
+$$\begin{split}
+E[\ln wage_{m,i}|\mathbf{x}_{m,i}]-E[\ln wage_{f,i}|\mathbf{x}_{f,i}] & = \mathbf{x}_{m,i}\beta_m - \mathbf{x}_{f,i}\beta_f \\
+ & = \mathbf{x}_{m,i}\beta_m - \mathbf{x}_{m,i}\beta_f + \mathbf{x}_{m,i}\beta_f - \mathbf{x}_{f,i}\beta_f \\
+ & = \mathbf{x}_{m,i}(\beta_m - \beta_f) + (\mathbf{x}_{m,i}-\mathbf{x}_{f,i})\beta_f
+\end{split}$$
+
+\vfill
+
+Assuming labor markets respond to differences in human capital properly, the second term captures differences in human capital *levels* across both groups.
+
+\vfill
+
+The first term shows the differential in $\log$ wages that is attributed to differences unexplainable by human capital.
+
+\vfill
+
+### The Oaxaca-Blinder Decomposition
+
+We are interested in forming a confidence interval for the first term. For this, we assume that both $\mathbf{x}_m$ and $\mathbf{x}_f$ are known and we have two independent set of observations.
+
+\vfill
+
+Evaluating the model at the mean of the regression vectors, $\bar{\mathbf{x}}_m$ and $\bar{\mathbf{x}}_f$, we find that $\mathbf{b}_m$ and $\mathbf{b}_f$ are independent with means $\mathbf{\beta}_m$ and $\mathbf{\beta}_f$ and estimated asymptotic covariance matrices $Est.Asy.Var[\mathbf{b}_m]$ and $Est.Asy.Var[\mathbf{b}_f]$.
+
+\vfill
+
+We are, then, forming a confidence interval for $\bar{\mathbf{x}}_m\mathbf{d}$, where $\mathbf{d}=\mathbf{b}_m-\mathbf{b}_f$. The estimated covariance matrix is
+
+$$Est.Asy.Var[\mathbf{d}]=Est.Asy.Var[\mathbf{b}_m]+Est.Asy.Var[\mathbf{b}_f]$$.
+
+\vfill
+
+The CI will be constructed as before.
+
+\vfill
+
+## Prediction
+
+### Prediction $\times$ Forecasting
+
+**Prediction**: Using the regression model to compute fitted (predicted) values of the dependent variables (used in cross sections, panel data, time series)
+
+\vfill
+
+**Forecasting** Same exercise, but explicitly giving role to time and the purpose of the model building is to forecast future outcomes (used in time series only).
+
+### Prediction Intervals
+
+Suppose we wish to predict the value of $y^0$ associated with a regressor vector $\mathbf{x}^0$.
+
+\vfill
+
+The actual value would be
+
+$$y^0=\mathbf{x}^{0'}\mathbf{\beta}+\varepsilon^0$$
+
+\vfill
+
+The prediction error is
+
+$$e^0=\hat{y}^0-y^0=(\mathbf{b}-\mathbf{\beta})'\mathbf{x}^0-\varepsilon^0$$
+
+\vfill
+
+### Prediction Intervals
+
+The prediction variance is
+
+$$Var[e^0|\mathbf{X},\mathbf{x^0}]=Var[(\mathbf{b}-\mathbf{\beta})-\varepsilon^0|\mathbf{X},\mathbf{x^0}]=\sigma^2+\mathbf{x^0}'[\sigma^2(\mathbf{X'X})^{-1}]\mathbf{x^0}$$
+
+\vfill
+
+The prediction variance can be estimated by using $s^2$ in place of $\sigma^2$.
+
+\vfill
+
+A confidence (prediction) interval for $y^0$ would then be formed using 
+
+$$y^0\pm t_{(1-\alpha /2), [n-K]}se(e^0)$$
+
+
+
+
+

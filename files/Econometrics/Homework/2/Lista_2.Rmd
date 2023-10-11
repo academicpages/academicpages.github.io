@@ -1,0 +1,122 @@
+---
+title: "Econometria I"
+author: "Lista de Exercícios 2"
+affiliation: PIMES/UFPE
+abstract:
+thanks:
+keywords:
+date: "PIMES/UFPE"
+output:
+  pdf_document:
+    highlight: default
+    #citation_package:
+    keep_tex: false
+    #fig_caption: true
+    latex_engine: pdflatex
+fontsize: 11pt
+geometry: margin=1in
+#bibliography:
+#biblio-style:
+header-includes:
+- \usepackage{indentfirst}
+- \usepackage{graphicx}
+- \usepackage{geometry}
+- \usepackage{subfigure}
+- \usepackage{amsmath}
+- \usepackage{listings}
+- \usepackage{tikz}
+- \usetikzlibrary{matrix}
+---
+
+\vspace{0.25in}
+
+
+
+
+# Problemas conceituais
+
+
+1. Prove que o estimador de MQO é não-viesado se os pressuposto básicos são satisfeitos.
+
+2. Deduza algebricamente a variância do estimador de MQO
+
+3. Suponha que a produtividade média do trabalhador nas empresas industriais ($avgprod$) dependa de dois fatores, a média de horas de treinamento ($avgtrain$) e a habilidade média do trabalhador ($avgabil$): $$avgprod=\beta_0 + \beta_1 avgtrain + \beta_2avgabil + \varepsilon$$. Assuma que esta equação satisfaz as pressuposto básicos do modelo de regressaão linear.
+
+    a. Suponha que as empresas cujos trabalhadores têm uma habilidade inferior à média recebem treinamento para proporcionar formação. Discuta o efeito da omissão de $avgabil$ no estimador de MQO de $\beta_1$. O viés será para cima ou para baixo? Explique sua resposta.
+  
+    
+    b. Disseram que você pode obter o estimador de $\beta_1$ executando a regressão: $$avgprod= \beta_1 avgtrain^* + u$$ onde $avgtrain^*$ é obtido executando uma regressão de $avgtrain$ em um intercepto e $avgabil$. Discuta esta afirmação.
+  
+  
+4. Defina e prove o teorema de Gauss-Markov.
+
+5. Um pesquisador regride separademente uma variável dependente $y$ em dois conjuntos diferentes de variáveis independentes: $$y_i=\beta_0 + \beta_1 x_{i1}+ \beta_2 x_{i2} + \varepsilon_i$$ $$y_i=\gamma_0 + \gamma_1 z_{i1}+ \gamma_2 z_{i2} + \eta_i$$ onde as variáveis independentes em cada conjunto sao relacionadas da seguinte forma: $$z_{i1}=x_{i1}-2x_{i2}$$ $$z_{i2}=x_{i1}+4x_{i2}$$
+
+
+
+    a. Em notacão matricial, mostre que $\mathbf{Z}$ é uma combinação linear das colunas de $\mathbf{X}$, i.e., $$\mathbf{Z}=\mathbf{X}\mathbf{A}$$ 
+    O que significa $\mathbf{A}$? A matrix $\mathbf{A}$ é invertível? Note que responder a esta pergunta não requer a inversão mecânica de uma matriz três por três.
+    
+    b. Como $\hat{\beta}$ e $\hat{\gamma}$ se relacionam? Seja $\hat{\mathbf{y}}^z$ os valores ajustados da regressão de $\mathbf{y}$ em $\mathbf{Z}$ e $\hat{\mathbf{y}}^x$ o vetor análogo, mas para a regressão de $\mathbf{y}$ em $\mathbf{X}$. Prove que $\hat{\mathbf{y}}^z=\hat{\mathbf{y}}^x$.
+
+
+
+    
+
+6.	Mostre algebricamente que o estimador de MQO é consistente sob os pressupostos básicos do modelo. 
+
+7.	Defina eficiência assintótica.
+
+8. Considere o modelo de regressão simples $y_i=\mu+\varepsilon_i$, $\varepsilon_i \sim N[0, \sigma^2]$. Prove que a média amostral é consistente e assintoticamente normalmente distribuída.
+
+9.	Calcule algebricamente a variância do erro de previsão.
+
+10.	Mostre que estimador do variância do termo de erro, dado por $e'e/(n-k)$, é um estimador consistente.
+
+    
+    
+# Problemas práticos
+
+
+Os seguintes momentos amostrais para $x=[1,x_1,x_2,x_3]$, foram calculados a partir de 100 observações produzidas usando um gerador de números aleatórios:
+
+$$\mathbf{X'X}=
+\begin{bmatrix} 
+  100 &   123 & 96 & 109 \\
+  123 &   252 & 125 & 189 \\
+  96 &   125 &  167 & 146  \\
+  109 &   189 &  146 & 168  \\
+  \end{bmatrix}, 
+% 
+\mathbf{X'y}=
+\begin{bmatrix} 
+	460  \\
+	810 \\
+	615  \\
+	712 \\
+\end{bmatrix}, 
+% 
+\mathbf{y'y}=3924$$
+
+O verdadeiro modelo gerando estes dados é $y=x_1 + x_2 + x_3 + \varepsilon$.
+
+
+1. Calcule as correlações simples entre os regressores.
+
+
+2. Calcule os coeficientes de mínimos quadrados ordinários na regressão de $y$ em uma constante $x_1$, $x_2$ e $x_3$.
+
+
+3. Encontre o intervalo de confiança para o coeficiente estimado da variável $x_1$. Assuma $\alpha=0.1$. Quais pressupostos do modelo de regressao linear devem ser satisfeitos para que possamos encontrar tal intervalo? 
+
+
+
+4. Encontre o intervalo de confiança para o coeficiente estimado da variável $x_2$. Assuma $\alpha=0.05$.
+
+    
+5. Encontre o intervalo de confiança para o coeficiente estimado da variável $x_3$. Assuma $\alpha=0.01$
+    
+
+    
+6. Os regressores são obviamente mal colineares. Qual é a variável causando o problema? Explique.
+    

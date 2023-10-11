@@ -58,19 +58,37 @@ header-includes:
 3.
 
 
-    a. Mostre que este modelo pode ser escrito equivalentemente em forma matricial como             $\mathbf{y}=\mathbf{X}\mathbf{\beta}+\mathbf{\varepsilon}$.
+    a. A equação de regressão para cada observação pode ser escrita como
+
+$$y_1=\beta_1 x_{11}+\beta_2x_{21}+\cdots\beta_kx_{k1}+\varepsilon_1$$
+
+$$y_2=\beta_1 x_{12}+\beta_2x_{22}+\cdots\beta_kx_{k2}+\varepsilon_1$$
+
+$$\vdots$$
+
+$$y_n=\beta_1 x_{1n}+\beta_2x_{2n}+\cdots\beta_kx_{kn}+\varepsilon_1$$
+
+    Em termos matriciais, temos
+    
+    ![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Homework/1/matrix2.png)
+
+
     
     b. 
+    
+    
     
     ![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Homework/1/3b1.png)
     
     Então, a estimativa do parâmetro $\beta$ é dado por
     
     
+    
     ![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Homework/1/3b2.png)
     
     
     A estimativa do parâmetro $\alpha$ é dado por
+    
     
     
     ![](/Users/henriquefonseca/Desktop/temp/Rmarkdown-practice/henriqueveras.github.io/files/Econometrics/Homework/1/3b3.png)

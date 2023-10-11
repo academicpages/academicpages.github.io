@@ -1,0 +1,77 @@
+---
+title: "Econometria I"
+author: "Atividade Prática 1"
+affiliation: PIMES/UFPE
+abstract:
+thanks:
+keywords:
+date: "PIMES/UFPE"
+output:
+  pdf_document:
+    highlight: default
+    #citation_package:
+    keep_tex: false
+    #fig_caption: true
+    latex_engine: pdflatex
+fontsize: 11pt
+geometry: margin=1in
+#bibliography:
+#biblio-style:
+header-includes:
+- \usepackage{indentfirst}
+- \usepackage{graphicx}
+- \usepackage{geometry}
+- \usepackage{subfigure}
+- \usepackage{amsmath}
+- \usepackage{listings}
+- \usepackage{tikz}
+- \usetikzlibrary{matrix}
+---
+
+\vspace{0.25in}
+
+Dados sobre o consumo de gasolina nos EUA entre 1953 e 2004 são apresentados no arquivo em anexo. Observe que os dados de consumo aparecem como despesa total. Para obter a variável quantidade per capita, divida $GasExp$ por $Gasp$ vezes $Pop$. As demais variáveis não necessitam de transformação. Abaixo segue a descrição das variáveis:
+
+  Year = Year, 1953-2004,
+  
+  
+  GasExp = Total U.S. gasoline expenditure,
+  
+  
+  Pop = U.S. total population in thousands
+  
+  
+  GasP = Price index for gasoline,
+  
+  
+  Income = Per capita disposable income,
+  
+  
+  Pnc = Price index for new cars,
+  
+  
+  Puc = Price index for used cars,
+  
+  
+  Ppt = Price index for public transportation,
+  
+  
+  Pd = Aggregate price index for consumer durables,
+  
+  
+  Pn = Aggregate price index for consumer nondurables,
+  
+  
+  Ps = Aggregate price index for consumer services.
+
+1. Calcule a regressão do consumo per capita de gasolina sobre a renda per capita, o preço da gasolina, os outros preços e uma tendência temporal. Liste todos os resultados. Os sinais das estimativas estão de acordo com as suas expectativas?
+
+
+2. Aplique o Teorema FWL para observar que podemos encontrar os efeitos parciais de cada variavel do modelo removendo os efeitos parciais das demais.
+
+
+3. Construa um intervalo de confiança para $\beta_4-\beta_5$ (Note que o método Delta pode ser útil).
+
+
+4. Reestime a regressão em logaritmos (não utilize o logaritmo da tendência temporal). Interprete seus resultados.
+
