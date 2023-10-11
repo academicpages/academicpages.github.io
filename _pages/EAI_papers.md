@@ -101,8 +101,8 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
     <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
     <li> Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf">📚</a></li>
-    <li> Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚
-    <li>Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/pdf/2307.02485.pdf">📚</a></li>
+    <li> Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
+    <li> Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/pdf/2307.02485.pdf">📚</a></li>
     <li>Language Models Meet World Models: Embodied Experiences Enhance Language Models <a href="https://arxiv.org/pdf/2305.10626.pdf">📚</a></li>
     <li>DANLI: Deliberative Agent for Following Natural Language Instructions <a href="https://arxiv.org/pdf/2210.12485.pdf">📚</a></li>
     <li>3D-LLM: Injecting the 3D World into Large Language Models <a href="https://arxiv.org/abs/2307.12981">📚</a></li>
