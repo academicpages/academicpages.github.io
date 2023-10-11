@@ -20,23 +20,23 @@ On this website I present some of my scientific research and write about things 
 
 Interests
 ======
- Landscape and Urban Planning
- Multisensory Perception
- Psychoacoustics and Soundscape
- Landscape Lighting
- Immersive Virtual Reality
+ - Landscape and Urban Planning
+ - Multisensory Perception
+ - Psychoacoustics and Soundscape
+ - Landscape Lighting
+ - Immersive Virtual Reality
 
 
 Education
 ======
- B.S. in Logistics Management, Beijing Wuzi University, 2009-2013
- M.S. in Fundamental Psychology, Southwest University (China), 2013-2016
- Ph.D in Architecture and Industrial Design, University of Campania Luigi Vanvitelli, 2020-2023 (expected)
+ - B.S. in Logistics Management, Beijing Wuzi University, 2009-2013
+ - M.S. in Fundamental Psychology, Southwest University (China), 2013-2016
+ - Ph.D in Architecture and Industrial Design, University of Campania Luigi Vanvitelli, 2020-2023 (expected)
 
 Research Memberships
 ------
- Ph.D student, SENS i-Lab, Department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli"
- Reseasrcher, iLLAB, Department of Architecture, Harbin Institute of Technology-Shenzhen 
+ - Ph.D student, SENS i-Lab, Department of Architecture and Industrial Design, University of Campania "Luigi Vanvitelli"
+ - Reseasrcher, iLLAB, Department of Architecture, Harbin Institute of Technology-Shenzhen 
 
 For more info
 ------
