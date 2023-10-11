@@ -1,7 +1,7 @@
 ---
 title: "It's time to talk about time"
 collection: si
-type: "Talk"
+type: "si"
 permalink: /si/joc
 venue: "Journal of Communication"
 ---
