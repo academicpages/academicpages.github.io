@@ -43,7 +43,7 @@ redirect_from:
   {% endfor %}
   </ul>
 
-# Research Projects
+# Research Assistantships
 
   <ul>{% for post in site.research reversed %}
     {% include archive-single-cv.html %}
@@ -60,7 +60,9 @@ redirect_from:
 * [Husky 100](https://www.washington.edu/husky100/year/2020/#name=andrew-hu), University of Washington (2020)
 
 # Service
+* [JET Lab](https://msujet.org/) meeting leader (2023-)
+  * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests
 * Student representative for EPET (2022-2023)
   * Attended faculty meetings, raised student concerns to faculty, helped onboard first year PhD students
-* Youth mentor, [STUDIO](https://www.studionhwa.org/) (2018-2019) [video presentation](https://stemforall2019.videohall.com/presentations/1621)
+* Youth mentor, [STUDIO](https://www.studionhwa.org/) (2018-2019)
   * Collaboration between UW and Neighborhood House community center. Worked with secondary schoolers after school to develop STEM skills through culturally relevant activities.
