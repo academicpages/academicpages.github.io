@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Edited Special Issues"
+title: "JoC Special Issues"
 permalink: /si/
 author_profile: true
 ---
