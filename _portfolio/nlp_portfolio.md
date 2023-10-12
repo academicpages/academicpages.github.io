@@ -1,6 +1,6 @@
 ---
 title: "A Basic Level Category Analysis with Commonsense Question Answering"
-excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/nlp_foto.jpeg'>"
+excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/image.png'>"
 collection: portfolio
 ---
 ---
