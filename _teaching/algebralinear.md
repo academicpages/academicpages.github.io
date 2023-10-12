@@ -45,7 +45,7 @@ Monitor: Ademir Júnior
 Datas das Provas
 ======
 
-P1: ^~~22/09/203~~ 25/09/2023 (FÍSICA), ~~20/09/2023~~ 27/09/2023 (MATEMÁTICA)
+P1: ~~22/09/203~~ 25/09/2023 (FÍSICA), ~~20/09/2023~~ 19/10/2023 (MATEMÁTICA)
 
 P2: 30/10/2023 (FÍSICA), 01/11/2023 (MATEMÁTICA)
 
