@@ -3,9 +3,9 @@ title: "Landslide Annotation using Machine Learning and cloud computing"
 collection: publications
 permalink: /publication/LANDMARK
 date: 2023-09-01
-venue: EMS
+venue: 
 ---
-<b>This paper is under review</b>
+<b>Manuscript under preparation</b>
 
 <!-- ![ILSM](/icons/fl.jpg){: width="900" }   -->
 

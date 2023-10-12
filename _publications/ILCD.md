@@ -3,9 +3,9 @@ title: "India Landslide Change Detection dataset"
 collection: publications
 permalink: /publication/ILCD
 date: 2023-08-02
-venue: Nature 
+venue: 
 ---
-<b>This paper is under review</b>
+<b>Manuscript under preparation</b>
 
 <!-- ![ILSM](/icons/fl.jpg){: width="900" }   -->
 

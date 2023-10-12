@@ -3,7 +3,7 @@ title: "DeepSARFlood-Operational SAR-based Flood Mapping using Ensemble Deep Lea
 collection: publications
 permalink: /publication/DSF
 date: 2023-10-02
-venue: IEEE
+venue: 
 ---
 <b>This paper is under review</b>
 
