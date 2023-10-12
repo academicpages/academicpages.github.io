@@ -14,7 +14,7 @@ I have completed my Bachelor's degree in *Measurement and Control Technique and 
 
 Currently, I am privileged to work as a Research Assistant in Professor [Xiaolong Wang's Lab](https://xiaolonw.github.io/group.html) at the **University of California San Diego (UCSD)**. Under the guidance of Professor Wang, I actively contribute to cutting-edge research projects around the directions of Computer Vision, Machine Learning, and Robotics, collaborating with a team of talented researchers. 
 
-You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../assets/Chengzhe_Jia_CV.pdf).
+You can find my CV here: [Chengzhe Jia's Curriculum Vitae](../files/Chengzhe_Jia_CV.pdf).
 
 ***
 
