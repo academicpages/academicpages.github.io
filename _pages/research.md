@@ -29,9 +29,9 @@ redirect_from:
 
 ## In Preparation
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Winning Side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Data collection in progress**.
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Being on the Losing side and Commitment to Democratic Principles: Experimental Evidence from New Democracies." **Experimental data collection in progress** (October 2023).
 
-- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'." **Data collection in progress**.
+- Hector Bahamonde, Inga Saikkonen and Mart Trasberg. "Authoritarian Legacies and Commitment to the 'Egalitarian Model of Democracy'." **Experimental data collection in progress** (October 2023).
 
 - Hector Bahamonde and Aki Koivula. "Power To The People: Rising Inequality Levels and the Case of the Finns Party in Finland." **Writing process in progress**.
 
