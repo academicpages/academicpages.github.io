@@ -1,15 +1,12 @@
 ---
-title: "Digital FPGA Piano for Beginners"
-excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/fpga_piano.jpeg'>"
+title: "A Basic Level Category Analysis with Commonsense Question Answering"
+excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/nlp_foto.jpeg'>"
 collection: portfolio
 ---
 ---
-Digital FPGA Piano for Beginners
+A Basic Level Category Analysis with Commonsense Question Answering
 ---
-Digital FPGA Piano for Beginners
+A Basic Level Category Analysis with Commonsense Question Answering
 Bilkent University
-This term project is a digital piano design with VGA screen as the piano template, buzzer 
-as the sound output, note indicator on the 7-segment display, prerecorded songs, and switches as 
-piano keys. The main aim of this project is to help the beginner piano players to get familiar with 
-the logic of the piano. The player can both play and listen songs, which enhances user’s skills 
-further.
+This term project focuses on measuring the common sense question answering performance of one of the GPT language models, GPT-3.5-turbo, by integrating a well-known language game, Family Feud. Common sense questions from the Family Feud dataset are posed to the language model to observe its answers and analyze the diversity and comprehensiveness of its responses. Additionally, basic level categories are researched using indicators such as word length, concreteness, age of acquisition and frequency to determine whether they are basic level category words or not. The aim is to create an environment that closely resembles real-life interactions, adding an element of familiarity, understandability and creativity, and touch upon a subject which is one of the most sensational discoveries of today's world, GPT language models.
+
