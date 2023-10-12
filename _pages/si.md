@@ -7,17 +7,13 @@ author_profile: true
 {% include base_path %}
 
 Special Issue
-===
-
-Theme:
 =
 
+Theme:
+
+
 Rationale:
-===
 
 
 Guest Editors:
-===
 
-Timeline:
-===
