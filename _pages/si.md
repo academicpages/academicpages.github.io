@@ -11,7 +11,7 @@ author_profile: true
 ## Rationale:
 ## Theme:
 
-## About Guest Editors:
+## Guest Editors:
 
 ## Timeline
 
