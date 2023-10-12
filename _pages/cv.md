@@ -57,7 +57,7 @@ Skills
   * Turkish
   * English (TOEFL IBT score: 100/120)
   *  German (beginner)
-*Others
+* Others:
   * Git
   * LaTex
   * MS Office applications
