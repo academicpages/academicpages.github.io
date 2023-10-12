@@ -1,6 +1,6 @@
 ---
 title: "Wind Energy Production Prediction"
-excerpt: "Prediction and ground truth of wind energy production of Spain with AdaBoost algorithm. <br/><img src='/images/wind_foto.jpeg'>"
+excerpt: "Prediction and ground truth of wind energy production of Spain with AdaBoost algorithm. <br/><img src='/images/wind_foto.png'>"
 collection: portfolio
 ---
 ---
