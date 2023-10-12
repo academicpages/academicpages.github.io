@@ -1,6 +1,6 @@
 ---
 title: "A Basic Level Category Analysis with Commonsense Question Answering"
-excerpt: " The similarity of GPT model's answers with the real-life answers to commonsense questions. <br/><img src='/images/image.jpeg'>"
+excerpt: " The similarity of GPT model's answers with the real-life answers to commonsense questions. <br/><img src='/images/image.png'>"
 collection: portfolio
 ---
 ---
