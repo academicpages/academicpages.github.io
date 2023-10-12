@@ -8,10 +8,10 @@ author_profile: true
 
 # Special Issue
 
-## Rationale:
-## Theme:
+## Rationale
+## Theme
 
-## Guest Editors:
+## Guest Editors
 
 ## Timeline
 
