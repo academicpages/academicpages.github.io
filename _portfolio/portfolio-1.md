@@ -1,6 +1,5 @@
 ---
 title: "Digital FPGA Piano for Beginners"
-excerpt: "Music notes are played based on timer frequency of BASYS3 <br/><img src='/images/fpga_piano.jpeg'>"
 collection: portfolio
 ---
 ---
@@ -13,3 +12,7 @@ as the sound output, note indicator on the 7-segment display, prerecorded songs,
 piano keys. The main aim of this project is to help the beginner piano players to get familiar with 
 the logic of the piano. The player can both play and listen songs, which enhances user’s skills 
 further.
+
+<br/><img src='/images/fpga_piano.jpeg'>
+
+Music notes are played based on timer frequency of BASYS3 
