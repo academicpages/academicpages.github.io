@@ -17,15 +17,16 @@ redirect_from:
 
 석사 학위 논문 (Master's Thesis)
 ---
-* Title: 5G Massive MIMO 시스템에서의 전력 할당을 위한 다중목표 강화학습: 스펙트럼 및 에너지 Trade-Off에 대한 연구
+* Title: Massive MIMO Networks 전력할당을 위한 다중 목표 강화학습: 스펙트럼 및 에너지 Trade-Off에 대한 연구
 * Supervisors: 최우열
 
 
 연구 분야 (Research Areas)
 ---
 * 5G and beyond networks
-* Reinforcement learning algorithm
 * Adaptive decision making
+* Reinforcement learning algorithm
+* RF signal-based object detection
 
 
 연구 경력 (Research Experience)
