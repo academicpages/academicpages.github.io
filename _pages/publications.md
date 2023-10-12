@@ -55,7 +55,7 @@ author_profile: true
 
 <br>
 <br>
-<h1>Workshops & Lectures (5)</h1>
+<h1>Workshops & Lecture Presentations (5)</h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workshop_lecture' %}
