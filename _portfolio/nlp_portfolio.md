@@ -1,12 +1,13 @@
 ---
-title: "A Basic Level Category Analysis with Commonsense Question Answering"
-excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/image.png'>"
+title: "Digital FPGA Piano for Beginners"
+excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/wind_foto.jpeg'>"
 collection: portfolio
 ---
 ---
-A Basic Level Category Analysis with Commonsense Question Answering
+Wind Energy Production Prediction
 ---
-A Basic Level Category Analysis with Commonsense Question Answering
-Bilkent University
-This term project focuses on measuring the common sense question answering performance of one of the GPT language models, GPT-3.5-turbo, by integrating a well-known language game, Family Feud. Common sense questions from the Family Feud dataset are posed to the language model to observe its answers and analyze the diversity and comprehensiveness of its responses. Additionally, basic level categories are researched using indicators such as word length, concreteness, age of acquisition and frequency to determine whether they are basic level category words or not. The aim is to create an environment that closely resembles real-life interactions, adding an element of familiarity, understandability and creativity, and touch upon a subject which is one of the most sensational discoveries of today's world, GPT language models.
+Wind Energy Production Prediction
+ Bilkent University
+ 
+ A forecasting system for total electric consumption plays a prominent role in the electric generation market. Moreover, creating a precise forecast system is a hot topic for many high-tech companies. To this end, our goal is to forecast hourly total electrical energy consumption in Spain with regression models, which are Linear Regression, Decision Tree, and AdaBoost. 
 
