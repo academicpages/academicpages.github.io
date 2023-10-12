@@ -14,11 +14,11 @@ I have also worked in AI robustness and interpretability as a research intern in
 
 ## Recent Publications
 
-- **Konz, N.**, Dong, H. and Mazurowski, M. A. "Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion". **Medical Image Analysis**, 2023. [Link](https://arxiv.org/abs/2305.03098)
-- **Konz, N.** and Mazurowski, M. A. "Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images". **MIDL** (*Medical Imaging with Deep Learning*), 2023. [Link](https://arxiv.org/abs/2303.04911)
-- **Konz, N.**, et al. "A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis". **JAMA Network Open**, 2023. [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740)
-- Mazurowski, M. A., Dong, H., Gu, H., Yang, J., **Konz, N.** and Zhang, Y. "Segment Anything Model for Medical Image Analysis: an Experimental Study". **Medical Image Analysis**, 2023. [Link](https://arxiv.org/abs/2304.10517)
-- **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. "The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning". **MICCAI** (*The International Conference of Medical Image Computing and Computer Assisted Intervention*), 2022. [Link](https://arxiv.org/abs/2207.02797)
+- **Konz, N.**, Dong, H. and Mazurowski, M. A. [*Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion*](https://arxiv.org/abs/2305.03098). **Medical Image Analysis**, 2023.
+- **Konz, N.** and Mazurowski, M. A. [*Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images*](https://arxiv.org/abs/2303.04911). **MIDL** (*Medical Imaging with Deep Learning*), 2023.
+- **Konz, N.**, et al. [*A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis*](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740). **JAMA Network Open**, 2023.
+- Mazurowski, M. A., Dong, H., Gu, H., Yang, J., **Konz, N.** and Zhang, Y. [*Segment Anything Model for Medical Image Analysis: an Experimental Study*](https://arxiv.org/abs/2304.10517). **Medical Image Analysis**, 2023.
+- **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. [*The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning*](https://arxiv.org/abs/2207.02797). **MICCAI** (*The International Conference of Medical Image Computing and Computer Assisted Intervention*), 2022.
 
 See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
 
