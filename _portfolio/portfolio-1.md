@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "FPGA Piano for Beginners"
 excerpt: "Music notes are played based on timer frequency of BASYS3 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
