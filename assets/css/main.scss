@@ -39,3 +39,8 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@import "{{ site.theme }}";
+.markdown-body {
+  font-family: 'Times New Roman', Times, serif;
+}
