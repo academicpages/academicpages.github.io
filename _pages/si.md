@@ -6,4 +6,13 @@ author_profile: true
 ---
 {% include base_path %}
 
-JoC Special Issue
+Special Issue
+
+Theme:
+
+Rationale:
+
+
+Guest Editors:
+
+Timeline:
