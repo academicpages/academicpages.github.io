@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 13;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -28,7 +28,7 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $serif;
+$global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
 
@@ -64,7 +64,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #18596d;
+$info-color                 : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
