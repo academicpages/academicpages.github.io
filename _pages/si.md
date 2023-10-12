@@ -6,14 +6,12 @@ author_profile: true
 ---
 {% include base_path %}
 
-Special Issue
-=
+# Special Issue
 
-Theme:
+## Rationale:
+## Theme:
 
+## About Guest Editors:
 
-Rationale:
-
-
-Guest Editors:
+## Timeline
 
