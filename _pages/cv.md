@@ -22,10 +22,11 @@ redirect_from:
   * University of California San Diego (UCSD)
   * Xiaolong Wang's Lab
   * Duties included:
-      + Assist with hardware building
-      + Conducting experiments
-      + Troubleshooting on both the hardware and software side
+      + Manually crafting and setting up the experimental environment for sim2real testing
+      + Designing experiments to validate policies trained in simulations
+      + Conducting practical experimental operations, recording the results for further analysis
       + Learning about *Reinforcement Learning Techniques*
+      + Paper has been submitted to ICRA 2024 (International Conference on Robotics and Automation)
       + _to be continued_
   * Supervisor: Professor Xiaolong Wang
  
@@ -35,11 +36,11 @@ redirect_from:
   * Duties included:
       + Independently in charge of a research project
       + Using SolidWorks design and 3D-printed accessories for experiments
-      + Using CAD to design and manufactured different robot models
+      + Using CAD to design and manufacture different robot models
       + Using Tracker(video analysis and modeling tool) to gather data from recorded video
       + Using Matlab and Excel to process and analyze experimental data
       + Create figures and complete academic article writing
-      + The article has been submitted to FRAI (Frontiers in Robotics and AI) journal
+      + The article has been accepted by FRAI (Frontiers in Robotics and AI) journal
   * Supervisor: Professor Michael T. Tolley
 
 * Summer 2019: Lab Intern
