@@ -5,7 +5,7 @@ collection: publications
 permalink: /publication/SNN-MAP
 excerpt: 'This paper analyze the time-discretion problem in SNN and the bio-plausibility'
 date: 2022-08-01
-venue: 'Journal 1'
+venue: 'Front. Neurosci.'
 paperurl: 'https://www.frontiersin.org/articles/10.3389/fnins.2022.945037/'
 citation: 'Yu C, Du Y, Chen M, Wang A, Wang G and Li E (2022) MAP-SNN: Mapping spike activities with multiplicity, adaptability, and plasticity into bio-plausible spiking neural networks. Front. Neurosci. 16:945037. doi: 10.3389/fnins.2022.945037'
 ---

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Multimodal
 excerpt: 'This paper analyze the capability of Multimodal learning for SNN and the adversarial robustness'
 date: 2023-10-01
-venue: 'Journal 1'
+venue: 'ICLR 24'
 
 ---
 
