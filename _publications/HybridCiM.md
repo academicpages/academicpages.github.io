@@ -3,8 +3,8 @@ title: "An RRAM-eDRAM hybrid Compute-in-Memory (CIM) accelerator for video appli
 collection: publications
 permalink: /publication/HybridCiM
 excerpt: 'This chip featuring hybrid CiM with image-preprocessing in memory and is capable to process both video frame and event stream data.'
-date: 2024
-venue: 'isscc 2024'
+date: 2024-02-01
+venue: 'tape out'
 
 ---
 The chip will be taped out in Feb. 2024
