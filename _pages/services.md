@@ -7,6 +7,8 @@ author_profile: true
 - Outreach:
   - Ragon WISE Committee (Women in STEM Empowerment)
   - [U.S. Association for Computational Mechanics-Female Research Group (USACM-FRG)](https://frgusacm.org/)
+- Guest editor:
+  - Special issue: *Physics-informed machine learning for biomechanics and bio-fluid dynamics* on [Molecular and Celluar Biomechanics](https://www.techscience.com/journal/mcb).
 
 - Conference session co-chair:
   - [BMES 2022 Annual meeting](https://www.bmes.org/annualmeeting)
