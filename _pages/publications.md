@@ -26,7 +26,7 @@ Danilo Francati and Daniele Venturi\
 
 - **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
-(To Appear)
+[https://eprint.iacr.org/2023/1569](https://eprint.iacr.org/2023/1569)
 
 ---
 
