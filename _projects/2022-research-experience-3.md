@@ -8,13 +8,10 @@ date: 2022-09-01
 location: "TX, USA"
 ---
 
-Charge-domain CIM for Bayesian Neural Network
+## Charge-domain CiM for Bayesian Neural Network
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Built a variable bit precision Neural Network Quantization method based on varational inference targeting flops
+reduction
+* Constructed a charge-domain SRAM-CIM for uncertainty-aware CNN Quantized by the above algorithm
+* Suppose to gain great energy reduction with charge reuse and unstructured sparsity routing/zero skipping based on
+workload charcteristic

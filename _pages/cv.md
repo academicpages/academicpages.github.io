@@ -16,7 +16,8 @@ Education
 
 Work experience
 ======
-*  2021 - Present: Master Student
+
+* 2021 - Present: Master Student
   * RFNE research center, Zhejiang University
   * Duties included: SNN-CIM design
   * Supervisor: Professor Erping Li
@@ -53,12 +54,11 @@ Projects
   <ul>{% for post in site.projects %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Contacts
+
+Courses
 ======
-  <ul>{% for post in site.contact %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* see my B.S. transcripts [here](http://chenmufeng0119.github.io/files/B.S.Transcript.pdf)
+* see my M.S. transcripts [here](http://chenmufeng0119.github.io/files/M.S.Transcript.pdf)
 
 CV
 ======

@@ -184,9 +184,6 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  contact:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
@@ -209,15 +206,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _contact
-  - scope:
-      path: ""
-      type: contact
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
