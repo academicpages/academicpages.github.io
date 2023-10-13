@@ -53,11 +53,8 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     <font size="2">
       <a href="https://popl24.sigplan.org/"> 
       [POPL'24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages]</a>
-      <a href="/files/prolex.pdf">
-      [Pdf]
-      </a>
-      <a href="https://arxiv.org/abs/2305.03129">
-      [Arxiv]
+      <a href="/files/popl24.pdf">
+      [pre-print]
       </a>
     </font> 
     </li>
