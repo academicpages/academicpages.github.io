@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Optics, Huazhong University of Science and Technology, 2021
+* M.S. in EE, Zhejiang University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  2021 - Present: Master Student
+  * RFNE research center, Zhejiang University
+  * Duties included: SNN-CIM design
+  * Supervisor: Professor Erping Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2023: Research Assistant
+  * Purdue University
+  * Duties included: Monolithic 3d-RRAM CIM; Hyperdimensional Computing
+  * Supervisor: Professor Haitong Li
+
+* Summer 2022: Research Assistant
+  * Rice University
+  * Duties included: charge-domain CIM
+  * Supervisor: Professor Kaiyuan Yang
+
+* Summer 2019: Research Assistant
+  * Wuhan National Laboratory for Optoelectronics
+  * Duties included: Optical metasurface design
+  * Supervisor: Professor Chen Lin
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* EDA tools: Virtuoso, VCS, DC, etc.
+* Programming: Python, C/C++, Matlab, Verilog, etc.
 
 Publications
 ======
@@ -44,16 +50,16 @@ Publications
   
 Projects
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Contacts
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.contact %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+CV
 ======
-* Currently signed in to 43 different slack teams
+Download my CV [here](http://chenmufeng0119.github.io/files/cv.pdf)
