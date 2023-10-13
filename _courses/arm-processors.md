@@ -2,7 +2,7 @@
 title: "ARM Processors for Embedded Cryptography"
 collection: courses
 type: "Undergraduate / Graduate Practical Course"
-permalink: /courses/logic
+permalink: /courses/arm-processors
 venue: "Ruhr University Bochum"
 date: 2020-04-01
 location: "Bochum, Germany"
