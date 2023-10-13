@@ -12,6 +12,7 @@ redirect_from:
 - Prior to joining the Ragon Institute, I received my Ph.D. degree in [School of Engineering](https://engineering.brown.edu/) at [Brown University](https://www.brown.edu/), advised by [Prof. George Em Karniadakis](https://www.brown.edu/research/projects/crunch/george-karniadakis) and co-advised by [Prof. Christos Mantzoros](https://www.dfhcc.harvard.edu/insider/member-detail/member/christos-s-mantzoros-md-dsc-phd-hc-mult/) at BIDMC, in Feburaray 2022 (thesis defense in September 2021). I received my B.Eng. degree in [School of Naval Architecture, Ocean and Civil Engineering](https://en.naoce.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2015.
 - My current research interest is on integrating **physics-informed** and **data-driven computational models** to probe the mechanisms of diseases and effectiveness of therapeutics by leveraging data acquired from bench-side to bed-side and existing biological/medical knowledge, for example, diabetes in endocrinology and infectious diseases in immunology.
 - [CV](http://yixiangd.github.io/files/YixiangDeng_CV.pdf)
+- I kindly invite you to submit to our special issue on *Molecular and Cellular Biomechanics*: [Physics-informed machine learning for biomechanics and bio-fluid dynamics](https://www.techscience.com/mcb/special_detail/physics_machine-learning). Deadline is **May 31, 2024**.
 
 Recent news
 ===========
