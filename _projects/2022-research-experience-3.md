@@ -3,7 +3,7 @@ title: "Charge-domain CIM"
 collection: projects
 type: "Research project"
 permalink: /projects/2022-research-experience-3
-venue: "ZJU, EE"
+venue: "Rice, ECE"
 date: 2022-09-01
 location: "TX, USA"
 ---
