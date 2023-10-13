@@ -32,6 +32,8 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 
 ## Conference Proceedings
 
+#### 2023
+
 10. **Registered (Inner-Product) Functional Encryption**  
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
 Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.
@@ -52,10 +54,14 @@ Giuseppe Ateniese, Long Chen, Danilo Francati, Dimitrios Papadopoulos, and Qiang
 26th IACR International Conference on Practice and Theory of Public-Key Cryptography, Proceedings, Part II. Cham: Springer Nature Switzerland, 2023, ISBN: 978-3-031-31371-4  
 [https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3](https://link.springer.com/chapter/10.1007/978-3-031-31371-4_3)
 
+#### 2022
+
 6. **Eluding Secure Aggregation in Federated Learning via Model Inconsistency**  
 Dario Pasquini, Danilo Francati, and Giuseppe Ateniese  
 Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security, 2022, pp. 2429-2443, ISBN 978-1-4503-9450-5  
 [https://dl.acm.org/doi/10.1145/3548606.3560557](https://dl.acm.org/doi/10.1145/3548606.3560557)
+
+#### 2021
 
 5. **Identity-Based Matchmaking Encryption without Random Oracles**  
 Danilo Francati, Alessio Guidi, Luigi Russo, and Daniele Venturi  
@@ -67,10 +73,14 @@ Danilo Francati, Giuseppe Ateniese, Abdoulaye Faye, Andrea Maria Milazzo, Angelo
 Proceedings of the 9th International Workshop on Security in Blockchain and Cloud Computing. 2021. ISBN 978-1-4503-8405-6  
 [https://dl.acm.org/doi/abs/10.1145/3457977.3460293](https://dl.acm.org/doi/abs/10.1145/3457977.3460293)
 
+#### 2020
+
 3. **Arcula: A secure hierarchical deterministic wallet for multi-asset blockchains**  
 Adriano Di Luzio, Danilo Francati, and Giuseppe Ateniese  
 International Conference on Cryptology and Network Security. Springer, Cham, 2020. pp. 323-343, Lecture Notes in Computer Science 12579, ISBN 978-3-030-65410-8  
 [https://link.springer.com/chapter/10.1007/978-3-030-65411-5_16](https://link.springer.com/chapter/10.1007/978-3-030-65411-5_16)
+
+#### 2019
 
 2. **Public immunization against complete subversion without random oracles**.  
 Giuseppe Ateniese, Danilo Francati, Bernardo Magri, and Daniele Venturi  
