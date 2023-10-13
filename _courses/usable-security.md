@@ -2,7 +2,7 @@
 title: "Introduction to Usable Security and Privacy"
 collection: courses
 type: "Undergraduate  / Graduate Course"
-permalink: /courses/ake
+permalink: /courses/usable-security
 venue: "Ruhr University Bochum"
 date: 2022-04-01
 location: "Bochum, Germany"
