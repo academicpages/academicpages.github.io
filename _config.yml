@@ -190,7 +190,6 @@ collections:
   courses:
     output: true
     permalink: /:collection/:path/
-    sort_by: name
 
 
 # Defaults
