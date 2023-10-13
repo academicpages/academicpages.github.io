@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m currently a Master student at Zhejiang University (ZJU) working to find out design methodology for emerging memory systems(eDRAM, NVM in 2.5D/3D packaging) and software/hardware co-design.
+I’m currently a Master student at Zhejiang University (ZJU) working to find out design methodology for emerging memory systems(eDRAM, NVM in 2.5D/3D packaging) and software/hardware co-design under the supervision of Professor Erping Li in <a href="http://rfne.zju.edu.cn/">RFNE lab</a>.
 
 During ZJU, I was the group leader of RRAM-eDRAM hybrid CiM design program. In my role, I focus on the alogrithm development(SNN based vision models) and optimization; the system level spec design, partly of the digital parts of the system and deal with the key features heterogenous integration of CiM. From the algorithm part, I also focus on some new machine learning aspect: Multimodal learning in SNN, hybrid DNN-HDC, etc. Meanwhile, I'm interning Professor <a href="https://vlsi.rice.edu/">Kaiyuan Yang's group</a> to work on the design of charge domain CiM in 2022 summer and Professor <a href="https://engineering.purdue.edu/NanoX/">Haitong Li's group</a> to work on the design of Hyperdimensional computing in 2023 summer.
 
