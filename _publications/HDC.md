@@ -3,7 +3,7 @@ title: "Neuro-Vector-Symbolic Vison Transformer for Few Shot Classification and 
 collection: publications
 permalink: /publication/HDC
 excerpt: 'This paper analyze the capability of Hyperdimensional computing for few-sot generation and integration to transformers'
-date: ---
+date: 2023-10-01
 venue: 'Journal 1'
 
 ---
