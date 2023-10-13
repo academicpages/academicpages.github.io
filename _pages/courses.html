@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.courses %}
+{% assign sortedCourses = site.courses | sort: 'title' %}
+{% for post in site.sortedCourses %}
   {% include archive-single.html %}
 {% endfor %}
