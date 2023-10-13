@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: " "
-excerpt: "Biography"
+title: "Biography"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi :) I am currently a Tired-year(BSc) student at [American International University-Bangladesh](https://www.aiub.edu/)
+Hi :) I am currently a tired-year (BSc) student at [American International University-Bangladesh](https://www.aiub.edu/) .
 
 My primary research interest Competitive programming.I am also interested in other areas of theoretical computer science such as sublinear algorithms, combinatorial algorithms, and statistics.
 
