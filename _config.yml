@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Jérémy Do Nascimento Miguel"
-  avatar           : "profile.png"
+  avatar           : "picture_ucb.JPG"
   bio              : "PhD Candidate in Economics at the Bordeaux School of Economics"
   location         : "Bordeaux, France"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=bF2SPvAAAAAJ&hl=en&oi=ao"
   email            : "jdnmiguel[at]u-bordeaux[dot]fr
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
