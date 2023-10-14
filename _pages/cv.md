@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my full CV [here](https://github.com/sepehr-karimi/sepehr-karimi.github.io/blob/master/files/CV.pdf)
+
+
 Education
 ======
 * M.S. in Software Engineering, University of Tehran, 2021 - 2023
