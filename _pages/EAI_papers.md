@@ -97,6 +97,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 <details>
   <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
   <ul>
+    <li> Plan4mc: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
     <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
     <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
     <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
