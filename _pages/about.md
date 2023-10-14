@@ -12,6 +12,6 @@ I am a fifth-year Ph.D. candidate in Economics at [Bordeaux School of Economics]
 
 My research focus on understanding the constraints preventing quality-upgrading in local agricultural value-chain in sub-Sahara Africa context. I work on topics related to technology adoption, crops quality, and social protection. 
 
-You can find my CV [here](files/jdnm_cv.pdf)
+You can find my CV [here](../files/jdnm_cv.pdf)
 
 
