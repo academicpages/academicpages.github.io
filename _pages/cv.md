@@ -12,14 +12,15 @@ redirect_from:
 Education
 ======
 * Ph.D in University of Miami (English Literature), 2027 (expected)
-* M.A. in Ewha Womans University (English Literature), 2015
-* B.A. in Ewha Womans University (History and English Literature), 2008
+* M.A. in Ewha Womans University (English Literature)
+* B.A. in Ewha Womans University (History and English Literature)
 
   
 Teaching
 ======
 * First-Year Writing I (WRS105-A2), University of Miami (Fall 2022, Fall 2023)
 * First-Year Writing II (WRS106-N3), University of Miami (Sprin 2023, "Monstrous Others and Us")
+* First-Year Writing I (WRS105-A4), University of Miami (Fall 2023)
 
   
 Work Experience
