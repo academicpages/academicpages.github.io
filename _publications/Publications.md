@@ -1,4 +1,3 @@
-# Publications 
 ---
 title: "Competition on agricultural markets and quality of smallholder supply: the role of relational contracting and input provision by traders"
 collections: research
