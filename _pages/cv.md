@@ -29,9 +29,8 @@ Research experience
   * Advisors: Biao Yang
   
 * 2022 - 2022: Hong Kong Polytechnic University - Dept of Building Environment and Energy Engineering  
-  * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
-  * National project: “Research on the impact mechanism of dynamic lighting on visual perception constancy in healthy light environment”
-  * Advisors: CHI-KWAN CHAU
+  * Visiting PhD Program: “Using Augmented Sound Installations for Noise Masking in a Campus Green Space”
+  * Advisors: Chi-Kwan Chau
   
 * 2020 - 2023: University of Campania Luigi Vanvitelli - Dept of Architecture and Industrial Design
   * Research project: “Urban lit environment health diagnosis and road lighting energy saving research”
