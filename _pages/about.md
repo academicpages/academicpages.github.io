@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yusheng Su, a postdoctoral researcher at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/). I completed my Ph.D. degree at [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). During my Ph.D (2019-2023), I was advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and the member of THUNLP Lab ([Link1](https://github.com/thunlp), [Link2](https://github.com/OpenBMB)) led by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). I'm on the job market (4-year experiences in LLM). [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)
+I am Yusheng Su, an incoming postdoctoral researcher at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by Prof. [Eric Xing](http://www.cs.cmu.edu/~epxing/). I completed my Ph.D. degree at [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). During my Ph.D (2019-2023), I was advised by Prof. [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW) and the member of THUNLP Lab ([Link1](https://github.com/thunlp), [Link2](https://github.com/OpenBMB)) led by Prof. [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm). I'm on the job market (4-year experiences in LLM). [[Google Schlar]](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)
 <!--[[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0)-->
 
 ## Research
