@@ -3,6 +3,7 @@ title: "Attempting capture shock with discontinuous Galerkin method"
 excerpt: "<img src='/images/MachNum_2504_V1.jpg'>"
 collection: portfolio
 ---
+by Zhicheng Kai, Weihao Liu, Haoran Shi, Andrew Wang Su, and Yuhao Zhou (in no particular order)
 
 The Discontinuous Galerkin (DG, \cite{fish2007first}) method is a popular Finite Element Method (FEM) that treats the computational domain as smaller, non-overlapping subdomains with polynomial approximations to represent the states. However, with these discontinuities, oscillations may appear in higher-order DG methods, such as the Gibbs phenomenon \cite{gottlieb1997gibbs}, making well-fit limiters necessities. 
 
