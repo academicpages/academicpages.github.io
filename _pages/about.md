@@ -18,7 +18,7 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Video Talks
----
+
 **Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects**  
 Harvard University Institute for Quantitative Social Sciences, Applied Statistics Workshop, Sep 2023  
 [[Video]](https://harvard.zoom.us/rec/play/yg47yOmDLZRYNHoQ6UwgecYPCrVwnIz8HwjBwX4JUV5QaoST5bBPjQP4FqD7JK_vZiRSMXpU9ArDuU3w.vuE8LALM76JR5zk6?canPlayFromShare=true&from=share_recording_detail&startTime=1695225587000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fharvard.zoom.us%2Frec%2Fshare%2F8YtOB3zk51l4VtYfVuJnpGgOKZmnyYVExecdOj91M833hhFjtRrWLtxNXUk82mQi.NLkO5lbsKh_j-jsX%3FstartTime%3D1695225587000)
@@ -30,7 +30,6 @@ Banff International Research Station, Aug 2022
 
 
 ## Upcoming Talks
----
 
 Oct 15, 2023. **[Invited talk at INFORMS]**  Phoenix, AZ.   
 Federated and Transfer Learning to Estimate Causal Effects of Underrepresented Populations. 
@@ -43,7 +42,6 @@ Dec 10-16, 2023. **[NeurIPS 2023]** New Orleans, LA.
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
 ## Recent News 
----
 
 Oct 13, 2023. **[Invited talk at Boston Pharmaceutical Symposium]**  Boston, MA.   
 [Sensitivity Analysis of Clinical Trial Designs](https://www.tandfonline.com/doi/abs/10.1080/00031305.2023.2216253?journalCode=utas20).  
@@ -64,9 +62,12 @@ Aug 7, 2023. **[Invited talk at JSM]**  Toronto, CN.
 
 Aug 2-5, 2023. **[Attended IMS New Researchers Conference]**  Toronto, CN.
 
-
 Jul 10-11, 2023. **[Rapporteur at U.S.-China Track II Healthcare Dialogue]**  Durham, NC.   
-[Consensus Agreement](https://www.ncuscr.org/program/us-china-track-ii-dialogue-healthcare/#:~:text=The%20participants%20agreed%20that%20collaboration,was%20distributed%20to%20both%20governments.). 
+[Consensus Agreement](https://www.ncuscr.org/program/us-china-track-ii-dialogue-healthcare/#:~:text=The%20participants%20agreed%20that%20collaboration,was%20distributed%20to%20both%20governments.).  
+
+May 1, 2023. **[Successful Ph.D. Dissertation Defense!]** Boston, MA.  
+[On Causal Inference in Real World Settings](https://dash.harvard.edu/handle/1/37375748).  
+Thank you to my committee, including Tianxi Cai, Lorenzo Trippa, Rui Duan, and Sebastian Schneeweiss.
 
 
 
