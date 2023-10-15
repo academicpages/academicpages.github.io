@@ -58,7 +58,7 @@ Skills
 
 * Full grounded computer science knowledge and practical experiences, ability to use MATLAB, Python, R, etc. to complete experimental data acquisition and analysis;
 
-* Experienced in generalmachine learning algorithmsfor clustering and classification within deep learning frameworks, and proficient in statistical analysis techniques, such as ANOVA, PERMANOVA, LM, GLM, and time series analysis;
+* Experienced in general machine learning algorithms for clustering and classification within deep learning frameworks, and proficient in statistical analysis techniques, such as ANOVA, PERMANOVA, LM, GLM, and time series analysis;
 
 * Familar with in 3D modeling workflows and light simulation utilizing Blender and Unreal Engine, encompassing PBR-based modeling and photogrammetry-based modeling techniques.
 
