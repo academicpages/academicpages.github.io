@@ -4,4 +4,7 @@ excerpt: "<img src='/images/MachNum_2504_V1.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The Discontinuous Galerkin (DG, \cite{fish2007first}) method is a popular Finite Element Method (FEM) that treats the computational domain as smaller, non-overlapping subdomains with polynomial approximations to represent the states. However, with these discontinuities, oscillations may appear in higher-order DG methods, such as the Gibbs phenomenon \cite{gottlieb1997gibbs}, making well-fit limiters necessities. 
+
+In this project, we applied the Runge-Kutta Discontinuous Galerkin (RKDG, \cite{cockburn2001runge}) method for shock capturing, which is promising for implementing the Finite Volume Method (FVM) limiters to the DG codes% without requiring the development of new limiters
+. The $p$-order states are first interpolated to $p=1$, equivalent to the second-order FVM states. Then, a second-order FVM limiter is implemented to the states with oscillations. Once active, it will reconstruct limited states and project them backward to order $p$.
