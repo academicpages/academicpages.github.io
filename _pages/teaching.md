@@ -34,4 +34,12 @@ More theoretical version of introduction to econometrics (Econ 1123). Topics inc
 }
 </script>
 
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
+[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Course Description</button>
+
+
+<!-- 
+{% include base_path %}
+
+{% for post in site.papers reversed %}
+  {% include archive-single.html %}
+{% endfor %} -->
