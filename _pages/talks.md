@@ -1,4 +1,4 @@
-![image](https://github.com/kavanase/kavanase.github.io/assets/51478689/815d73dd-27de-449f-b660-cfebba3e54a9)---
+---
 layout: archive
 title: "Talks and Posters"
 permalink: /talks/
