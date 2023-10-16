@@ -55,20 +55,20 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-# # Social Sharing
-# twitter:
-#   username               : &twitter
-# facebook:
-#   username               :
-#   app_id                 :
-#   publisher              :
-# og_image                 :  # Open Graph/Twitter default site image
-# # For specifying social profiles
-# # - https://developers.google.com/structured-data/customize/social-profiles
-# social:
-#   type                   : # Person or Organization (defaults to Person)
-#   name                   : # If the user or organization name differs from the site's name
-#   links: # An array of links to social media profiles
+# Social Sharing
+twitter:
+  username               : &twitter
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 :  # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -85,8 +85,8 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Hangzhou, China"
   employer         :
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : jiayun.vv@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  # github           : "academicpages"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
