@@ -1,14 +1,15 @@
 ---
-title: "Recommendify : Song Recommendation System for Spotify Playlists"
+title: ""
 excerpt: ""
 collection: portfolio
 ---
+---
+Geolocation Source Localization
+---
+ASELSAN, Inc.
 
+The problem of minimizing the error of measurement of source localization is within the scope of optimization. Therefore, the researched methods are least squares, iterative least squares, gradient descent, and Gauss-Newton. Finally, the methods are evaluated according to Cramer-Rao lower bound. 
 
-The playlists containing a set of songs with features compatible with each other.  The track features in the playlist were accessed by using Spotify Web API and vectorized. Then, the average of these features will create a single vector of the desired track in the similar sense with the playlist.
-The trained models give recommendations. k-Means, DBScan, Autoencoder models are used.
+![image](https://github.com/aysintumay/aysintumay.github.io/assets/118018198/a9d6c1db-b6e3-4660-84b1-0d816f68faa2)
 
-
-<br/><img src='/images/song_foto.png'>
-
-The musical similarity between recommended song and the playlist.
+The plot of RMSE of geolocation methods versus noise variance.  
