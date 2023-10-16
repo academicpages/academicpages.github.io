@@ -163,9 +163,9 @@ Experience
 ------
 * **Amazon**, Applied Scientist Intern, 2023.
 
-* **Monash University**, Research Assistant , 2021.
+* **Monash University**, Research Assistant, 2021.
  
-* **Alibaba**, Research Intern , 2020.
+* **Alibaba**, Research Intern, 2020.
 
 Contact
 ------
