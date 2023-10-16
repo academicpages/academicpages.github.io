@@ -11,6 +11,16 @@ redirect_from:
 
 Education
 ======
+**Ph. D., Communication & Information**, Expected May, 2024
+Kent State University, Kent, OH
+
+**Dissertation**: Human-Machine Communication Privacy Management: An Examination of Privacy Expectations, Practices, Breakdowns, and Recalibration with Social Media Algorithms
+
+**Dissertation Advisors**: Jeffrey T. Child, Ph.D., Mina Choi, Ph.D., Michael Beam, Ph.D.
+
+
+**M.A., Communication**
+
 * B.A. in Organizational Communication & Gender and Women's Studies, Western Michigan University, 2017
 * M.A. in Communication, Western Michigan University, 2020
 * Ph.D in Communication & Information, Kent State University, 2024 (expected)
