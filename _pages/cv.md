@@ -16,7 +16,7 @@ Education
   
 Work experience
 ======
- *December 2021 - present: Machine Learning Researcher
+* December 2021 - present: Machine Learning Researcher
   * DataBoss Security & Analytics
   * Duties included: Working on sequential data to build state-of-the-art Machine Learning algorithms using Python.
                      Publishing academic papers. 
@@ -33,10 +33,6 @@ Work experience
   * Duties included: Using different tools and methods for detecting the geolocation of radars using warfare systems in MATLAB.
                      Professional presentation. 
   * Supervisor: Mustafa Atahan NUHOGLU
-* August 2020: Undergraduate Research Assistant
-  * UMRAM
-  * Duties included: Practicing Deep Learning methods for detecting brain illnesses in MRI scans. 
-  * Supervisor: Prof. Dr. Tolga Cukur
   
 Skills
 ======
