@@ -41,10 +41,10 @@ Skills
   * VHDL
   * MATLAB
   * Assembly 8051
-*Frameworks:
-  *Pytorch
-  *Tensorflow
-  *Scikit-learn
+* Frameworks:
+  * Pytorch
+  * Tensorflow
+  * Scikit-learn
 * Electronics
   * LTSpice
   * Proteus
