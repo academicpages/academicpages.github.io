@@ -1,4 +1,4 @@
----
+![image](https://github.com/kavanase/kavanase.github.io/assets/51478689/815d73dd-27de-449f-b660-cfebba3e54a9)---
 layout: archive
 title: "Talks and Posters"
 permalink: /talks/
@@ -7,15 +7,15 @@ author_profile: true
 
 You can find the recorded versions of my talks on my [YouTube channel](https://www.youtube.com/c/SeánRKavanagh) <i class="fab fa-fw fa-youtube" aria-hidden="true"></i> and the slides/posters on my [SpeakerDeck](https://speakerdeck.com/kavanase).
 
+- ‘_Symmetry-Breaking and Reconstruction at Point Defects in Solids_’ **(Invited Talk)** @ Summer of Chemical Theory @ WashU 2023, **(Invited Talk)** @ [TimeMan Seminars](https://pod.univ-lille.fr/video/33615-timeman-seminar-sean-r-kavanagh/), University of Lille
+
 - ‘_Shining a light on the future: supercomputers and AI in solar cell research_’ Invited Outreach Talk @ [Pint of Science Festival 2023](https://pintofscience.co.uk/event/water-as-a-weapon-against-climate-change)
 
-- ‘_Impact of Intrinsic & Extrinsic Defects on Optoelectronic Properties in Selenium_’ **(Talk)** @ MRS Spring 2023
+- ‘_Impact of Intrinsic & Extrinsic Defects on Optoelectronic Properties in Selenium_’ **(Talk)** @ MRS Spring 2023, RenewPV Workshop (Tallinn, Estonia)
 
 - ‘_Symmetry-Breaking and Reconstruction at Point Defects in Perovskites_’ **(Talk)** @ MRS Spring 2023
 
 - ‘_Tin & Titanium Vacancy-Ordered Halide Perovskites: Cs$_2$(Sn/Ti)X$_6$_’ **(Invited Talk)** @ MRS Spring 2023, Poster @ RSC International Conference on Materials Chemistry (MC16) **_(Best Poster Prize)_**
-
-- ‘_Symmetry-Breaking and Reconstruction at Point Defects in Solids_’ **(Invited Talk)** @ Summer of Chemical Theory @ WashU 2023
 
 - ‘_Performance Boosters to Efficiency Killers; From bulk disorder to isolated defects_’ **(Talk)** @ MRS Spring 2023 **_(Graduate Student Award (Gold))_**, RSC International Conference on Materials Chemistry (MC16)
 
