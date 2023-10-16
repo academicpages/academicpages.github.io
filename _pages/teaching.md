@@ -17,6 +17,7 @@ author_profile: true
 - Lead tester of VASP (most widely-used computational materials science code worldwide) for [Archer2](https://www.archer2.ac.uk/) (UK National Supercomputer), and research consultant for procurement of UCL HPC & GPU upgrades 2021/2022 (>£1 million).
 - Developer of several open-access community computational chemistry tools; including [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), [`vaspup2.0`](https://github.com/kavanase/vaspup2.0), [`doped`](https://doped.readthedocs.io/en/latest/), [`easyunfold`](https://smtg-bham.github.io/easyunfold/), [`PyTASER`](https://pytaser.readthedocs.io/en/latest/), co-developer of [`sumo`](https://github.com/SMTG-Bham/sumo), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl) and contributions to many others. See my [GitHub profile](https://github.com/kavanase).
 - Mentored several visiting researchers (from Newcastle University, UPC Barcelona, Universidad de Santiago and more) on defect computation & characterization.
+-	2023 UCL [Open Science & Scholarship Award](https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/)
 
 
 ## Teaching and Supervision
