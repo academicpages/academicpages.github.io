@@ -5,8 +5,7 @@ collection: portfolio
 ---
 Digital FPGA Piano for Beginners
 ---
-Digital FPGA Piano for Beginners
-Bilkent University
+Department of Electrical and Electronics Engineering, Bilkent University.
 This term project is a digital piano design with VGA screen as the piano template, buzzer 
 as the sound output, note indicator on the 7-segment display, prerecorded songs, and switches as 
 piano keys. The main aim of this project is to help the beginner piano players to get familiar with 
