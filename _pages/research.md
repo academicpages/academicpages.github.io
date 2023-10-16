@@ -24,7 +24,7 @@ How does firm productivity relate to the speed of talent discovery? We assess th
 - **Signal Values of Open Source Contributions in the Labor Market for Engineers**. (joint with Jacob Weber)
 <a href="#/" onclick="visib('github')">Abstract</a> 
 <div id='github' style="display: none; text-align: justify; line-height: 1.2" >
-How do workers credibly signal their ability to potential employers and does self-signaling matter for labor market outcomes?  We answer these questions in the labor market for software developers and engineers.  By matching GitHub and LinkedIn profiles, we measure self-signaling from a worker's contributions to open-source projects, which are publicly observable to recruiters. We test if workers increase signaling before they change jobs, and estimate differential returns to signaling for workers from different education or demographic backgrounds. </div>
+How do workers credibly signal their ability to potential employers and does the worker-initiated signaling matter for labor market outcomes?  We answer these questions in the labor market for software developers and engineers.  By matching GitHub and LinkedIn profiles, we measure self-signaling from a worker's contributions to open-source projects, which are publicly observable to recruiters. We test if workers increase signaling before they change jobs, and estimate differential returns to signaling for workers from different education or demographic backgrounds. </div>
 
 
 - **Does Trade Secret Litigation Increase Monopsony Power? Evidence from the Defends Trade Secret Act**. (joint with Evgenii Fadeev)
