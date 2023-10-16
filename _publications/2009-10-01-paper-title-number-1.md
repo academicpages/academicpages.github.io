@@ -7,7 +7,7 @@ excerpt: 'This paper introduces a novel ensemble approach for feature selection 
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Aysin Tumay, Suleyman S. Kozat. &quot; Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Aysin Tumay, Mustafa E. Aydin, Suleyman S. Kozat. &quot; Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 
