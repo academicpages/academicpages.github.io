@@ -1,6 +1,5 @@
 ---
-title: ""
-excerpt: ""
+title: "Geolocation Source Localization"
 collection: portfolio
 ---
 ---
