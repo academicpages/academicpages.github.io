@@ -2,10 +2,10 @@
 title: "Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number"
 layout: single  # Specify the layout template (e.g., 'single', 'post', 'default')
 collection: publications
-permalink: #/publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper introduces a novel ensemble approach for feature selection based on hierarchical stacking...'
-date: #2010-10-01
-venue: #'Journal 1'
+date: 2010-10-01
+venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Aysin Tumay, Suleyman S. Kozat. &quot; Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
