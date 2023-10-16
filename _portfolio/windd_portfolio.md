@@ -7,7 +7,7 @@ Wind Energy Production Prediction
 ---
 Department of Electrical and Electronics Engineering, Bilkent University.
  
- A forecasting system for total electric consumption plays a prominent role in the electric generation market. Moreover, creating a precise forecast system is a hot topic for many high-tech companies. To this end, our goal is to forecast hourly total electrical energy consumption in Spain with regression models, which are Linear Regression, Decision Tree, and AdaBoost. The machine learning models are coded without library support.
+A forecasting system for total electric consumption plays a prominent role in the electric generation market. Moreover, creating a precise forecast system is a hot topic for many high-tech companies. To this end, our goal is to forecast hourly total electrical energy consumption in Spain with regression models, which are Linear Regression, Decision Tree, and AdaBoost. The machine learning models are coded without library support.
 
 <br/><img src='/images/wind_foto.png'>
 
