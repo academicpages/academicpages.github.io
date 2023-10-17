@@ -8,6 +8,7 @@ author_profile: true
 * <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
 Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/pdf/2302.02093)]<br>
 
 * <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao.<br>
