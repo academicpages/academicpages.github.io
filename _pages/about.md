@@ -23,7 +23,7 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 
 * <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904))
 
-* <b>AI Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201))
+* <b>AI Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201), [XAgent](https://blog.x-agent.net/about/))
 
 <!--
 the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors](), [Tool Leaning](https://arxiv.org/abs/2304.08354))
@@ -92,6 +92,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
+* [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more real-world practical tasks.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://arxiv.org/abs/2306.02320) was accepted by EMNLP 2023 as the main conference paper. Looking forward to meeting NLPers in Singapore on Dec.
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agent to accomplish various tasks in real world.
@@ -185,12 +186,18 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com
 
 
 ## Joined Projects
-* <b>ChatDev</b>. Create customized software using natural language idea through LLM-powered multi-agent collaboration
+
+* <b>XAgent</b>. XAgent makes more effective decisions and execute efficient actions to accomplish tasks with an unprecedented degree of autonomy
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=XAgent)](https://github.com/OpenBMB/XAgent)
+
+
+* <b>ChatDev</b>. ChatDev creates customized software using natural language idea through LLM-powered multi-agent collaboration
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=ChatDev)](https://github.com/OpenBMB/ChatDev)
 
 
-* <b>Tool Learning</b>. Tool learning for LLMs, open-source solutions of ChatGPT-Plugins.
+* <b>Tool Learning</b>. Tool learning for LLMs, open-source solutions of ChatGPT-Plugins
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=BMTools)](https://github.com/OpenBMB/BMTools)
 
