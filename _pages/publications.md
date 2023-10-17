@@ -49,13 +49,16 @@ Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.<br>
 * <b>Deep Spatial Domain Generalization</b>.<br>
 Dazhou Yu, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.<br>
 <i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
+[[paper](https://arxiv.org/pdf/2210.00729)][[code](https://github.com/dyu62/Deep-domain-generalization)]<br>
 
 * <b>RES: A Robust Framework for Guiding Visual Explanation</b>.<br>
 Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.<br>
-<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<br>
+<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<be>
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)][[code](https://github.com/YuyangGao/RES)]<br>
 
 * <b>Saliency-Regularized Deep Multi-Task Learning</b>.<br>
 <b>Guangji Bai</b>, Liang Zhao.<br>
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<br>
+[[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)][[code](https://github.com/BaiTheBest/SRDML)]<br>
 
 <i>* equal contribution</i>.<br>
