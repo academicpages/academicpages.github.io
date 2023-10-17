@@ -1,0 +1,96 @@
+---
+title: "Econometria I"
+author: "Lista de Exercícios 3"
+affiliation: PIMES/UFPE
+abstract:
+thanks:
+keywords:
+date: "PIMES/UFPE"
+output:
+  pdf_document:
+    highlight: default
+    #citation_package:
+    keep_tex: false
+    #fig_caption: true
+    latex_engine: pdflatex
+fontsize: 11pt
+geometry: margin=1in
+#bibliography:
+#biblio-style:
+header-includes:
+- \usepackage{indentfirst}
+- \usepackage{graphicx}
+- \usepackage{geometry}
+- \usepackage{subfigure}
+- \usepackage{amsmath}
+- \usepackage{listings}
+- \usepackage{tikz}
+- \usetikzlibrary{matrix}
+---
+
+\vspace{0.25in}
+
+
+
+
+# Problemas conceituais
+
+
+1. Mostre que podemos escrever $Var[\mathbf{b}|\mathbf{X}]$ como 
+$$Var[b_k|\mathbf{x}]=\frac{\sigma^2}{(1-R^2_k)\sum_{i=1}^n{(x_{ik}-\bar{x}_k)^2}}$$
+e discuta os cada um dos fatores que determina a precisão do estimador de MQO.
+
+2. Discuta por que multicolinearidade é um problema e como podemos remediar.
+
+3. Um conjunto de dados consiste em $n$ observações contidas em $\mathbf{X}_n$ e $\mathbf{y}_n$. O estimador de mínimos quadrados baseado nessas observações é $\mathbf{b}_n = (\mathbf{X}_n'\mathbf{X}_n)^{-1}\mathbf{X}_n'\mathbf{y}_n$. Outra observação, $x_s$ e $y_s$, fica disponível. Prove que o estimador de mínimos quadrados calculado usando esta observação adicional é
+$$\mathbf{b}_{n,s} = \mathbf{b}_n + \frac{1}{1+\mathbf{x}_s'(\mathbf{X_n'X_n})^{-1}\mathbf{x}_s}(\mathbf{X_n'X_n})^{-1}\mathbf{x}_s(y_s - \mathbf{x}_s'\mathbf{b}_n)$$
+Observe que o último termo é $e_s$, o resíduo da previsão de $y_s$ usando os coeficientes baseados em $X_n$ e $y_n$. Conclua que os novos dados alteram os resultados dos mínimos quadrados apenas se a nova observação em $y$ não puder ser perfeitamente prevista usando as informações já disponíveis.
+
+4. Seja $e_i$ o $i$-ésimo resíduo na regressão de mínimos quadrados ordinários de $\mathbf{y}$ em $\mathbf{X}$ no
+modelo de regressão clássico, e seja $\varepsilon_i$ o verdadeiro termo de erro correspondente. Prove que $\text{plim }(e_i - \varepsilon_i) = 0$.
+
+5. Uma regressão múltipla de $y$ em uma constante, $x_1$ e $x_2$ produz os seguintes resultados: $\hat{y} = 4 + 0,4x_1 + 0,9x_2$, $R^2 = 8/60$, $\mathbf{e'e} = 520$, $n = 29$, 
+$$\mathbf{X'X}=
+\begin{bmatrix} 
+  29 &   0 & 0  \\
+  0 &   50 & 10  \\
+  0 &   10 &  80 \\
+  \end{bmatrix}$$
+Teste a hipótese de que os coeficientes de inclinação somam 1.
+
+6. Prove o resultado de que o estimador de mínimos quadrados restrito nunca tem uma matriz de covariância maior do que o estimador de mínimos quadrados irrestrito.
+
+7. Prove o resultado de que o $R^2$ associado a um estimador de mínimos quadrados restrito nunca é maior que aquele associado ao estimador de mínimos quadrados irrestrito. Conclua que a imposição de restrições nunca melhora o ajuste da regressão.
+    
+# Problemas práticos
+
+Considere o modelo de Solow neste exercício. Uma versāo modelo começa com uma funçāo de produçāo do tipo $Y(t)=K(t)^\alpha(A(t)L(t))^{1-\alpha}$. A evoluçāo do capital per capita é determinada pela seguinte equaçāo: $\dot{k}(t)=sk(t)^\alpha-(n+g+\delta)k(t)$, onde $k(t)\equiv K(t)/L(t)$, $s$ é a taxa de poupança, $n$ é o crescimento populacional, $g$ é o crescimento exógeno da tecnologia $A$, e $\delta$ é a depreciaçāo do capital. O nível de capital per capita no estado estacionário é dado por 
+$$k^*=\left(\frac{s}{n+g+\delta}\right)^{1/(1-\alpha)}$$
+Substituindo $k^*$ na função de produçāo, tomando logs, e assumindo $A(0)=a+\varepsilon$, onde $a$ é uma constante comum a todos os países e $\varepsilon$ é um choque específico a cada país, encontramos a relaçāo 
+$$log(Y/L)=a+\frac{\alpha}{1-\alpha}log(s)-\frac{\alpha}{1-\alpha}log(n+g+\delta)+\varepsilon$$
+1. Com base nos dados disponíveis, estime o modelo de regressão acima por MQO. Qual é o valor de $\alpha$ implicado pela estimativa?
+
+
+2. Defina o modelo estimado como $log(y)=b_0+b_1log(s)+b_2log(n+g+\delta)+e$. Podemos dizer que $\beta_1=-\beta_2$?
+
+
+3. Outra forma de testar a hipótese anterior é incorporar a restrição diretamente no modelo anterior. Escreva a equação do modelo de regressão restrito e o estime por MQO. Qual o resultado que obtemos em relação à restrição imposta?
+
+
+4. Um fato estilizado sobre o crescimento econômico é o de que, em termos gerais, $\alpha\approx1/3$. Realize o teste de hipótese correspondente. Interprete o resultado.
+
+
+5. Mankiw, Romer e Weil (1992) sugerem que o modelo de Solow (básico) acima deve ser aumentado para incorporar capital humano no processo de produção. Considere a função de prdução aumentada:  $Y(t)=K(t)^\alpha H(t)^\beta(A(t)L(t))^{1-\alpha-\beta}$. A evolução da economia é determinada por
+$$\dot{k}(t)=s_ky(t)-(n+g+\delta)k(t)$$
+$$\dot{h}(t)=s_hy(t)-(n+g+\delta)h(t)$$
+Realizando o mesmo procedimento anterior, encontre a expressão a ser estimada abaixo, para $y$ no estado estacionário:
+$$log(Y/L)=log(A(0)+gt+\frac{\alpha}{1-\alpha-\beta}log(s_k)-\frac{\alpha+\beta}{1-\alpha-\beta}log(n+g+\delta)+\frac{\beta}{1-\alpha-\beta}log(s_h)$$
+
+6. Encontre uma expressão para o viés de variável omitida ao não considerarmos o papel do capital humano para explicar diferenças de renda per capita quando estimamos o modelo básico de Solow.
+
+
+7. Estime o modelo aumentado acima e teste se o modelo, incorporando capital humano, reproduz o fato estilizado de $\alpha=1/3$. Discuta seu resultado.
+
+
+8. Mesmo incorporando capital humano ao modelo de Solow, a estimação acima provavelmente viola um pressuposto do modelo de regressão, $E[\varepsilon|X]=0$. Discuta algumas possibilidades de como este pressuposto pode ser violado.
+
