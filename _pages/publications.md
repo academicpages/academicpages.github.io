@@ -53,7 +53,7 @@ Dazhou Yu, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.<br>
 
 * <b>RES: A Robust Framework for Guiding Visual Explanation</b>.<br>
 Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Liang Zhao.<br>
-<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<be>
+<i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<br>
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)][[code](https://github.com/YuyangGao/RES)]<br>
 
 * <b>Saliency-Regularized Deep Multi-Task Learning</b>.<br>
