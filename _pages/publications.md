@@ -7,12 +7,23 @@ author_profile: true
 ## Preprint
 * <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
 Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
-<i>ArXiv. Under review</i>.<br>
+<i>arXiv. Under review</i>.<br>
+
+* <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
+<b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao.<br>
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/pdf/2310.04334)][[code](https://github.com/BaiTheBest/SHARC)]<br>
+
+* <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
+<b>Guangji Bai</b>, Ziyang Yu*, Zheng Chai, Yue Cheng, Liang Zhao.<br>
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/pdf/2308.13466)][[code](https://github.com/BaiTheBest/SAT)]<br>
 
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
 Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
-<i>ArXiv. Under review</i>.<br>
-  
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/pdf/2206.00057)][[code]()]<br>
+
 ## 2023
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
 <b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
