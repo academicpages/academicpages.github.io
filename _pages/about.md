@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "Welcome!"
+excerpt: "About Me!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+**Welcome!**
 
 I am a senior student in the Electrical and Electronics Engineering department at Bilkent University. I am also a Machine Learning Researcher in [Prof.Dr.Suleyman Serdar Kozat](http://kilyos.ee.bilkent.edu.tr/~kozat/)'s research group. 
 
