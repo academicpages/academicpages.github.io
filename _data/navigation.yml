@@ -8,7 +8,7 @@ main:
     url: /publications/  
     
   - title: "Achievements"
-    url: /talks/
+    url: /achievements/
 
   - title: "CV"
     url: /cv/
