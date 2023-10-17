@@ -28,19 +28,22 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
 <b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
 <i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral)</i>.<br>
+[[paper](https://openreview.net/pdf?id=sWOsRj4nT1n)][[code](https://github.com/BaiTheBest/DRAIN)]<br>
 
 * <b>Saliency-Augmented Memory Completion for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Chen Ling, Yuyang Gao, Liang Zhao.<br>
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
+[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)][[code](https://github.com/BaiTheBest/SAMC)]<br>
 
 * <b>Sign-Regularized Multi-Task Learning</b>.<br>
 <b>Guangji Bai</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.<br>
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
+[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)][[code](https://github.com/BaiTheBest/SRML)]<br>
 
 * <b>Dynamic Activation of Clients and Parameters for Federated Learning over Heterogeneous Graphs</b>.<br>
 Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.<br>
 <i>The 39th IEEE International Conference on Data Engineering (ICDE 2023)</i>.<br>
-
+[[paper](http://www.cs.emory.edu/~jyang71/files/fedda.pdf)][code]<br>
 
 ## 2022
 * <b>Deep Spatial Domain Generalization</b>.<br>
