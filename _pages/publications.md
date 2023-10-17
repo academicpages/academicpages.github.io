@@ -22,7 +22,7 @@ Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jia
 * <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
 Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 <i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2206.00057)][[code]()]<br>
+[[paper](https://arxiv.org/pdf/2206.00057)][code]<br>
 
 ## 2023
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
