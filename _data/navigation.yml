@@ -8,8 +8,8 @@ main:
     
   - title: "CV"
     # url: /files/paper1.pdf
-      url: /files/CVGeneral.pdf
+      url: /files/CVold.pdf
 
   - title: "Guide"
     # url: /markdown/
-    url: /files/CV/paper1.pdf
+    url: /files/CV/CVold.pdf
