@@ -9,5 +9,5 @@ main:
   - title: "CV"
     url: /files/cv/cv.pdf
 
-  - title: "Guide"
-    url: /markdown/
+  - title: "Notes"
+    url: /notes/
