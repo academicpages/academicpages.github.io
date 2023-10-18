@@ -21,10 +21,11 @@ The efficient allocation of labor relies on the identification of talent. When e
 How does firm productivity relate to the speed of talent discovery? We assess this relationship in the labor market for Italian inventors. We define talent discovery as a worker becoming an inventor who files a patent application for the first time. Using the employer-employee data from the Italian Social Security Institute matched with patent applications between 1987 and 2009, we find large heterogeneity in talent discovery across firms, particularly for workers early in their careers. On average a worker younger than 35 is 175% more likely to become an inventor at firms in the top quartile of productivity than at firms in the bottom quartile, conditional on differences across sectors and geographic areas. Workers who do invent at bottom quartile firms on average receive an 8-10 log point increase in wages, rather than 2-4 log points at more productive firms. We interpret the empirical findings in an employer learning framework.  </div>
 
 
-- **Signal Values of Open Source Contributions in the Labor Market for Engineers**. (joint with Jacob Weber)
+- **The Labor Market Signaling Value of Open Source Contributions**. (joint with Jacob Weber)
 <a href="#/" onclick="visib('github')">Abstract</a> 
 <div id='github' style="display: none; text-align: justify; line-height: 1.2" >
-How do workers credibly signal their ability to potential employers and does the worker-initiated signaling matter for labor market outcomes?  We answer these questions in the labor market for software developers and engineers.  By matching GitHub and LinkedIn profiles, we measure self-signaling from a worker's contributions to open-source projects, which are publicly observable to recruiters. We test if workers increase signaling before they change jobs, and estimate differential returns to signaling for workers from different education or demographic backgrounds. </div>
+Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open source contributions before changing jobs, and estimate differential effects of this activity on labor market outcomes, such as moving into a higher-paid job, for workers from different education or demographic backgrounds.
+ </div>
 
 
 - **Does Trade Secret Litigation Increase Monopsony Power? Evidence from the Defends Trade Secret Act**. (joint with Evgenii Fadeev)
