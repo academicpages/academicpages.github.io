@@ -11,8 +11,10 @@ author_profile: true
 **(SCI&SSCI, JCR Q1, IF=5.2)**
 
 5\. Gao M, **Ma K**, He R, Vezzoli C, Li N. A Bibliometric Analysis of Sustainable Product Design Methods from 1999 to 2022: Trends, Progress, and Disparities between China and the Rest of the World. *Sustainability* (2023) 15:1-24. doi: 10.3390/su151612440. [[link]](https://www.mdpi.com/2071-1050/15/16/12440)
+**(SCI&SSCI, JCR Q2, IF=3.9)**
 
 4\. Gao M, He R, Vezzoli C, **Ma K**, Zhang Y. Characterizing and Defining of Designing Sustainable Product-Service Systems Applied to Distributed Water-Energy-Food Nexus. *Frontiers in Environmental Science* (2022) 10:1–14. doi: 10.3389/fenvs.2022.864281. [[link]](https://www.frontiersin.org/article/10.3389/fenvs.2022.864281)
+**(SCI, JCR Q2, IF=4.6)**
 
 3\. 郝涔钧, 何人可, 尹璐, **马可**. 基于情感化交互的家用扫地机器人故障表达. *包装工程* (2022) 43:98-105+115. doi: 10.19554/j.cnki.1001-3563.2022.02.013. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRBUvp3m0UU1FLIWxYg3NkvajNmIX2YK7iLfiZc_C1EsYYITTcXL2P2x2vxnQG6nRnnlbl8asGkvY-Db10atAltx5cswaSVy8QCutkGn7a10zk4SkOpiKuilDS4dUOtCo3Hn2EmuQScbwQ==&uniplatform=NZKPT&language=CHS)
 
