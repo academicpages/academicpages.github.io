@@ -7,9 +7,8 @@ main:
     # url: /teaching/    
     
   - title: "CV"
-    # url: /files/paper1.pdf
-      url: /files/CVold.pdf
+    url: /files/CVold.pdf
 
   - title: "Guide"
-    # url: /markdown/
-    url: /files/CV/CVold.pdf
+    url: /markdown/
+    # url: /files/CV/CVold.pdf
