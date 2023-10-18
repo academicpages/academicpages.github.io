@@ -17,7 +17,8 @@ I work on climate change and I am particularly interested in climate tipping poi
 Feel free to contact me : rfillon@protonmail.com !
 
 Work in progress 
-+ R. Fillon, 2023. "Climate maladaptation: a dynamic and spatial reappraisal", in progress.
++ R. Fillon, G. Wagner, 2023. "Climate shift - a new layer of climate-economic uncertainty", in progress.
++ R. Fillon, 2023. "Expectational errors in a dynamic spatial economy - an application to climate change", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "Alternative ethical stances on a possible Amazon rainforest dieback", in progress.
 + R. Fillon, T. Gasser, C. Guivarch, P. Ciais, 2023. "The uncertain fate of the Amazon rainforest", draft available upon request.
 + R. Fillon, C. Guivarch, N. Taconet, 2023. ["Optimal climate policy under tipping risk and temporal risk aversion"](https://www.sciencedirect.com/science/article/pii/S0095069623000682), *Journal* *of* *Environmental* *Economics* *and* *Management*.
