@@ -7,7 +7,7 @@ main:
     # url: /teaching/    
     
   - title: "CV"
-    url: /files/cvold.pdf
+    url: /files/CV/cvold.pdf
 
   - title: "Guide"
     url: /markdown/
