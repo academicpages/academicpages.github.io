@@ -8,6 +8,7 @@ author_profile: true
 
 
 6\. **Ma K**, Gao M, Guida FE, He R. Understanding the Influencing Factors and Mechanism of Social Compensation for Chinese Older Adults Using Social Media in the Context of Smart Home: A Qualitative Analysis. *Frontiers in Public Health* (2023) 11:1-20. doi: 10.3389/fpubh.2023.1174920. [[link]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1174920/full)
+**(SCI&SSCI, JCR Q1, IF=5.2)**
 
 5\. Gao M, **Ma K**, He R, Vezzoli C, Li N. A Bibliometric Analysis of Sustainable Product Design Methods from 1999 to 2022: Trends, Progress, and Disparities between China and the Rest of the World. *Sustainability* (2023) 15:1-24. doi: 10.3390/su151612440. [[link]](https://www.mdpi.com/2071-1050/15/16/12440)
 
