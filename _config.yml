@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jiayun Wang"
-  avatar           : "/images/profile.png"
+  avatar           : "images/profile.png"
   bio              : "Student at Zhejiang University, interested in mathematical modeling, machine learning and optimization"
   location         : "Hangzhou, China"
   employer         :
