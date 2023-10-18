@@ -3,8 +3,8 @@ permalink: /notes/
 title: "Notes"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  # - /md/
+  # - /markdown.html
 ---
 
 ## Advice, Notes, Solutions, and Guides
