@@ -27,11 +27,6 @@ During my academic journey, I was fortunate to receive several awards:
 
 My research interests revolve around optimization. I am particularly fascinated by optimization in traffic and inventory management. My work aims to find efficient and quick solutions to real-life problems. I am also interested in machine learning methods.
 
-### Publications
-
-Under review (Status: Minor Revision.)
-
-- Jiayun Wang*, Shanshan Wu, Qingwei Jin, Yijun Wang, and Can Chen. “Identifying Popular Products at An Early Stage of Sales Season for Apparel Industry”. Informs Journal on Applied Analytics. (2023)
 
 
 
