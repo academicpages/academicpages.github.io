@@ -22,6 +22,8 @@ Below is an up-to-date list of my co-authored publications.
 
 Publications
 ====
+**Bhimdiwala, A,** Adavi, K.A.K., Arif, A. (under review) Networked Harassment and Indian Muslim women's experiences.
+
 Wilner, T., Mimizuka, K., **Bhimdiwala, A.**, Young, J. C., & Arif, A. (2023). It’s about time: Attending to temporality in misinformation
 interventions. In *Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems* (pp. 1-19). https://dl-acm-org.ezproxy.lib.utexas.edu/doi/abs/10.1145/3544548.3581068
 
