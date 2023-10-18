@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior Economics major at Middlebury College. In 2024, I will join HBS as a pre-doctoral research fellow. 
+I study Economics and Mathematics at Middlebury College. In 2024, I will join HBS as a pre-doctoral research fellow.
 
-My broad research interests include labor, econometrics, and political economy. My past work has focused on human capital development.
+My research interests include labor, econometrics, and political economy. My past work has focused on human capital development.
