@@ -28,6 +28,11 @@ I am always happy to discuss research-related topics. Just shoot me an email! :)
 
 News
 ======
+ - Oct. 2023: Gave a guest lecture on Security and Privacy in Aligned Language Models at the University of Melbourne.
+ - Oct. 2023: Attneding the ICCV2023 in Paris!
+ - Sep. 2023: Got recognized as an "outstanding reviewer" at ICCV2023!
+ - Sep. 2023: Attended the Technical University of Kaiserslautern and ITWM Fraunhofer as my AINet visit to Germany.
+ - Aug. 2023: Our team was placed 2nd in the ADM+S Hackathon on Bias in LLMs!
  - Jul. 2023: Our work got accepted at the International Journal of Computer Vision (IF=19.5)!
  - Jul. 2023: Attending the ADM+S Symposium on AI in News and Media in Sydney!
  - Jun. 2023: Going to serve as an emergency reviewer for NeurIPS2023!
