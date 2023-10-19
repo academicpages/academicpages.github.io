@@ -83,11 +83,11 @@ author:
   name             : "Yusheng Su"
   avatar           : "profile.jpg"
   bio              : "Ph.D. student in C.S at Tsinghua University; NLPer. (yushengsu.thu@gmail.com)"
-  location         : "From: Taipei, Taiwan"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=xwy6Va4AAAAJ"
-  email            : "suys19@mails.tsinghua.edu.cn, yushengsu.thu@gmail.com"
+  email            : "yushengsu.thu@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
