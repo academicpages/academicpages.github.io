@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Coding Advice"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /codingadvice/
   - /codingadvice.html
