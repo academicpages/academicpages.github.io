@@ -9,6 +9,7 @@ author_profile: true
 A segmentation system that labels individual ribs in chest X-ray scans<br />
 [[Demo]](https://huggingface.co/spaces/lhkhiem28/ribcxr-segmenter)
 
+
 **COVID-19 Named Entity Recognition for Vietnamese**<br />
 A recognition system that identifies COVID-19-related named entities in Vietnamese news<br />
 [[Demo]](https://huggingface.co/spaces/lhkhiem28/covid-19-control-helper)
