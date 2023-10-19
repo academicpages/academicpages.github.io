@@ -25,6 +25,7 @@ Weakly/Self-Supervised Learning, Attention Mechanism, Visual Language Model, Med
 Highlights
 ======
 
+* [Oct 2023] Our paper entitled "Attention2Minority: A salient instance inference-based multiple instance learning for classifying small lesions in whole slide images." is accepted in **Computers in Biology and Medicine**.
 * [Sep 2023] Our paper entitled "One label is all you need: Interpretable AI-enhanced histopathology for oncology." is accepted in **Seminars in Cancer Biology**.
 * [July 2023] I am delighted to share that I have successfully defended my thesis proposal titled "Improved Breast Cancer Diagnosis and Prognosis with Interpretable Deep Learning in Histopathology Images." I extend my gratitude to Dr. Gurcan, Dr. Niazi, and all members of my committee!
 * [June 2023] Our paper entitled "NRK-ABMIL: Subtle Metastatic Deposits Detection for Predicting Lymph Node Metastasis in Breast Cancer Whole-Slide Images" is accepted in **Cancers**.
