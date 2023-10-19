@@ -6,14 +6,14 @@ main:
   - title: "Publications"
     url: publications/
 
-  - title: "Side Projects"
-    url: side-projects/
+  # - title: "Side Projects"
+  #   url: side-projects/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
-  - title: "CV"
-    url: https://lhkhiem28.github.io/assets/CV.pdf
+  # - title: "CV"
+  #   url: https://lhkhiem28.github.io/assets/CV.pdf
