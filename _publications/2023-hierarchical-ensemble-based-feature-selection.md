@@ -3,6 +3,8 @@ title: "Hierarchical Ensemble-based Feature Selection for Time Series Forecastin
 layout: single  # Specify the layout template (e.g., 'single', 'post', 'default')
 collection: publications
 excerpt: 'This paper introduces a novel ensemble approach for feature selection based on hierarchical stacking...'
+date: 2023-10-31
+venue: 'IEEE Transactions on Signal Processing'
 citation: 'A. Tumay, M. E. Aydin, S. S. Kozat. &quot; Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number 2.&quot; <i>IEEE Transactions on Signal Processing</i>. Submitted, 2023.'
 ---
 
