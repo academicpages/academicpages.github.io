@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-* <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2023 - Present**</span><br />
+* <span style="float: left;">**Research Assistant**</span><span style="float: right;">**Jan 2023 - Dec 2023**</span><br />
 <span style="float: left;">[Security and Artificial Intelligence Lab](https://sail-research.com)</span><span style="float: right;">VinUniversity</span><br />
 <ins>*Project:*</ins> Federated Learning and More<br />
 Study Different Machine Learning Problems Under the Federated Learning Setting<br />
