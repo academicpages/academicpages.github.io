@@ -7,5 +7,8 @@ author_profile: true
 
 **Coming soon**
 
+- **MetaSumPerceiver: Multimodal Multi-Document Evidence Summarizer for Fact-Checking**  
+Ting-Chih Chen, Chiawei Tang, and Chris Thomas, EACL2024 In submission
+
 - **Application of LSTM Neural Network in Stock Price Movement Forecasting with Technical Analysis Index**  
-Ting-Chih Chen and Chin-I Lee, IAM2020 Feb. 5,2020 [paper](https://ting-chih.github.io/files/Application of LSTM Neural Network in Stock Price Movement Forecasting with Technical Analysis Index.pdf)  
+Ting-Chih Chen and Chin-I Lee, IAM2020 [paper](https://ting-chih.github.io/files/Application of LSTM Neural Network in Stock Price Movement Forecasting with Technical Analysis Index.pdf)  
