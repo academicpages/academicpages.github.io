@@ -10,7 +10,7 @@ locale                   : "Panamá"
 title                    : "GAR16 / Ciberseguridad507"
 title_separator          : "-"
 name                     : &name "Gilberto"
-description              : &description "personal description"
+description              : &description "Soy estudiante en Ciberseguridad"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Gilberto Ramos"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -218,7 +218,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publicaciones
   - scope:
       path: ""
       type: publicaciones
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/aanama # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Panama # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
