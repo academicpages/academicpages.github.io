@@ -11,4 +11,9 @@ I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT1
 
 ## Lab Powerpoints  
 
-* [Lab 1](../files/BIOSTAT100A_Lab1.pdf)
+* [Lab 1](../files/BIOSTAT100A_Lab1.pdf)  
+* [Lab 2](../files/BIOSTAT100A_Lab2_Pang.pdf)  
+
+## Chinese-English Translation Sheet with Key Terms and Concepts  
+
+* [Translation Sheet for Lectures updated 10-19-2023](../files/KeyTerms_Concepts_Chinese_Translation_updated_10_19_23.pdf)
