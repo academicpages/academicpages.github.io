@@ -1,4 +1,5 @@
 ---
+permalink: /codingadvice
 title: "Coding Advice"
 author_profile: true
 redirect_from: 
