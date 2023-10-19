@@ -9,7 +9,7 @@ redirect_from:
 
 ## Advice, Notes, Solutions, and Guides
 
-[Guide](https://zhizhongpu.github.io/predocguide/) for Middlebury College students aspiring to enter competative pre-doc programs in Economics or related fields.
+[Guide](https://zhizhongpu.github.io/predocguide/) for Middlebury College students aspiring to enter competitive pre-doc programs in Economics or related fields.
 
 [Advice](/codingadvice/) on coding and completing data tasks.
 

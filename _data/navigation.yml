@@ -2,12 +2,8 @@
 main:
   - title: "Research"
     url: /research/
-
-  # - title: "Teaching"
-    # url: /teaching/    
     
   - title: "CV"
-    # url: /files/cv/cv.pdf
     url: /cv/
 
   - title: "Notes"
