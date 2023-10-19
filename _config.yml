@@ -11,7 +11,7 @@ title                    : "Le Huy Khiem"
 # title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
-url                      : https://lhkhiem28.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lhkhiem28.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lhkhiem28/lhkhiem28.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Le Huy Khiem"
   avatar           : "khiem.png"
-  bio              : "I am an Artificial Intelligence Enthusiast"
+  bio              : "Artificial Intelligence Enthusiast"
   location         : 
   employer         :
   linkedin         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=vi&user=T8I-cLIAAAAJ&view_op=list_works&sortby=pubdate"
-  # email            : "lhkhiem28@gmail.com"
+  googlescholar    : "https://bit.ly/3sw7e61"
+  email            : "lhkhiem28@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : lhkhiem28
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
