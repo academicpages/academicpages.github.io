@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Research Experience"
-    url: research-experience/
+    url: experience/
 
-  - title: "Research Publications"
-    url: research-publications/
+  - title: "Publications"
+    url: publications/
 
-  - title: "Side Projects"
-    url: side-projects/
+  # - title: "Side Projects"
+  #   url: side-projects/
     
   # - title: "Portfolio"
   #   url: /portfolio/
@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: https://lhkhiem28.github.io/assets/CV.pdf
+  # - title: "CV"
+  #   url: https://lhkhiem28.github.io/assets/CV.pdf
     
   # - title: "Guide"
   #   url: /markdown/
