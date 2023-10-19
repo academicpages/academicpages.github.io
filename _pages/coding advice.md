@@ -1,10 +1,8 @@
 ---
-permalink: /
 title: "Coding Advice"
 author_profile: true
 redirect_from: 
   - /codingadvice/
-  - /codingadvice.html
 ---
 
 #### Switch from Stata to R and Python
