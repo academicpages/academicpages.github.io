@@ -118,18 +118,18 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
-![](images/ice_example.png){: .align-right width="200px"}
-**A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
-**Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
-*NeurIPS 2023, New Orleans, Louisiana, USA*  
-<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=2FMJtNDLeE','_blank')">PDF</button>
-<br>
-
 ![](images/haojie_ijrr.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
 Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
 *Preprint*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
+<br>
+
+![](images/ice_example.png){: .align-right width="200px"}
+**A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
+**Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
+*NeurIPS 2023, New Orleans, Louisiana, USA*  
+<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=2FMJtNDLeE','_blank')">PDF</button>
 <br>
 
 ![](images/hai_corl23.png){: .align-right width="200px"}
