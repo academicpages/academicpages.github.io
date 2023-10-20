@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/ 
 
+  - title: "Visulizations"
+    url: /visulizations/ 
+
   - title: "Teaching"
     url: /teaching/
     
