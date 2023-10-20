@@ -12,11 +12,14 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***19th October 2023***
+> 
+> Great News! Our paper "Benchmarking Student Program Repair" has been accepted at the Generative AI for EDucation ([GAIED](https://gaied.org/neurips2023/)) NeurIPs workshop. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
+
 > ***8th June 2023***
 > 
 > I have been accepted at the Simon Initiative’s LearnLab Summer School at Carnegie Mellon University! See you in Pittsburgh!
 > After the summer school, and before ICER, I will also visit the [HINTS](https://isnap.csc.ncsu.edu/home/public/) lab led by Professor Thomas W. Price, as well as the [AI Assisted Learning](https://research.csc.ncsu.edu/aial/home/) lab led by Professor Bita Akram. 
-
 
 > ***16 May 2023***
 > 
