@@ -45,11 +45,13 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    padding-left: 0.5em;
-  
+    padding-left: 0em;
+    float: right;
+
     &--lg {
       padding-right: 2em;
-      font-size: x-large;
+      font-size: large;
       font-weight: 700;
+      float: left;
     }
   }

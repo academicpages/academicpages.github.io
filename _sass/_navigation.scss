@@ -202,24 +202,21 @@
   }
 
   .visible-links {
-    display: table;
+    display: block;
 
     li {
-      display: table-cell;
+      display: inline-block;
       vertical-align: middle;
+
+      a {
+        margin-left: 0;
+        margin-right: 0;
+      }
 
       &:first-child {
         font-weight: bold;
 
-        a {
-          margin-left: 0;
-        }
-      }
-
-      &:last-child {
-        a {
-          margin-right: 0;
-        }
+        
       }
     }
 
