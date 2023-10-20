@@ -24,5 +24,5 @@ Automatically Localize and Classify Thoracic Abnormalities in Chest Radiographs
 
 * <span style="float: left;">**Research Intern**</span><span style="float: right;">**Jan 2020 - Sep 2020**</span><br />
 <span style="float: left;">[Artificial Intelligence Solution for Industrial Applications Research Lab](https://aisia.vn)</span><span style="float: right;">VNUHCM - University of Science</span><br />
-<ins>*Project:*</ins> Natural Language Processing<br />
+<ins>*Project:*</ins> Industrial Natural Language Processing<br />
 Extract Insights From Text Data and Automate Customer Support
