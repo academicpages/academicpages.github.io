@@ -21,7 +21,7 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 
 * <b>General-purpose model. (Model Learning)</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/))
 
-* <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904))
+* <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp))
 
 * <b>AI Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201), [XAgent](https://blog.x-agent.net/about/))
 
@@ -93,7 +93,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 </font> -->
 
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more real-world practical tasks.
-* [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://arxiv.org/abs/2306.02320) was accepted by EMNLP 2023 as the main conference paper. 
+* [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper. 
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agent to accomplish various tasks in real world.
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
@@ -110,8 +110,8 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 ## Publications
 
 * <b>Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods</b>\
-*<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Zhiyuan Liu, Maosong Sun*\
-EMNLP 2023. [[pdf](https://arxiv.org/abs/2306.02320)]
+*<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Xingzhi Sun, Guotong Xie, Zhiyuan Liu, Maosong Sun*\
+EMNLP 2023. [[pdf](https://openreview.net/forum?id=3CIQIYNGlp)]
 
 * <b>Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
