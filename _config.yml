@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ke Ma / (马可)"
+title                    : "Ke Ma(马可)"
 title_separator          : "-"
 name                     : &name "Ke Ma"
 description              : &description "PhD Candidate"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ke Ma / (马可)"
+  name             : "Ke Ma(马可)"
   avatar           : "profile.png"
   bio              : "PhD Candidate <br> School of Design <br> Hunan University <br> Changsha, China"
 #  location         : "Changsha, China"
