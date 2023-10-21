@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <img src=https://github.com/alicehwu/alicehwu.github.io/tree/images/JM_profile.jpg style="width:390px;height:300px;"> -->
+% <!-- <img src=https://github.com/alicehwu/alicehwu.github.io/tree/images/JM_profile.jpg style="width:390px;height:300px;"> -->
 
 <!--![github small](/images/profile2.png) -->
 <img src="/images/JM_profile.jpg" alt="drawing" width="390" height="300" style="float: left; padding-right:15px"/>  
