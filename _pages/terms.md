@@ -1,7 +1,8 @@
 ---
-permalink: /terms/
+layout: archive
 title: "Teaching"
-modified: 2016-06-06
+permalink: /terms/
+author_profile: true
 ---
 
 {% include base_path %}
