@@ -18,6 +18,10 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[Learning Alignment and Compactness in Collaborative Filtering]()
+</b><br> Huiyuan Chen, Vivian Lai, Hongye Jin, <b>Zhimeng Jiang\*</b>, Mahashweta Das, Xia Hu. <br>
+ACM International Conference Web Search and Data Mining(**WSDM**), 2024
+
 <b>[Chasing Fairness under Distribution Shift: a Model Weight Perturbation Approach](https://arxiv.org/pdf/2303.03300.pdf)
 </b><br> <b>Zhimeng Jiang\*</b>, Xiaotian Han\*, Hongye Jin, Guanchu Wang, Rui Chen, Na Zou, Xia Hu. <br>
 Neural Information Processing Systems(**NeurIPS**), 2023

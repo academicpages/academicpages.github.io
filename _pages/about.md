@@ -17,7 +17,9 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
-  <p><span style="color:darkred;">[2023/09]</span> Three papers are accepted by NeurIPS 2023</p>
+  <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by WSDM 2024.</p>
+  <p><span style="color:darkred;">[2023/10]</span> I have successfully passed my thesis defense.</p>
+  <p><span style="color:darkred;">[2023/09]</span> Three papers are accepted by NeurIPS 2023.</p>
   <p><span style="color:darkred;">[2023/08]</span> Give an invited tutorial on Machine Learning in Finance Workshop at KDD23. [<a href="https://sites.google.com/view/kdd-mlf-2023/schedule?authuser=0">Websit</a>][<a href="http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf">Slides</a>][<a href="http://zhimengj0326.github.io/files/fairness_case_study.ipynb">Code</a>] </p>
   <p><span style="color:darkred;">[2023/07]</span> Receive Student Travel Grant Award from Texas A&M University.</p>
   <p><span style="color:darkred;">[2023/07]</span> Invited to serve as a PC member of LOG 2023 and AAAI 2024.</p>

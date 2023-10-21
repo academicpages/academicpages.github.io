@@ -69,6 +69,7 @@ Student Volunteer: ICML'22, ICHI'23
 
 Talk
 =====
-* Aug, 2023: invited tutorial at [Machine Learning in Finance Workshop](https://sites.google.com/view/kdd-mlf-2023) at KDD 2023.
+* Oct. 2023: Invited talk by Professor Islem Rekik at Imperial College London@[BASIRA](https://basira-lab.com/). [[Slides]](http://zhimengj0326.github.io/files/Fairness_IC_slide.pdf)
+* Aug, 2023: invited tutorial at [Machine Learning in Finance Workshop](https://sites.google.com/view/kdd-mlf-2023) at KDD 2023. [[Slides]](http://zhimengj0326.github.io/files/Fairness_tutorial_KDD23@MLF.pdf)
 * Jun, 2022: I gave an invited talk on Fairness in Graph at Visa Research Intern Seminar.
 * Jun, 2022: I gave an invited talk at [AI-Time](http://www.aitime.cn/).
