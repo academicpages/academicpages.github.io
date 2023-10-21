@@ -6,10 +6,10 @@ main:
   - title: "Projects"
     url: /projects/    
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Awards"
+  - title: "Awards & Membership"
     url: /awards/
         
 #  - title: "Blog Posts"
