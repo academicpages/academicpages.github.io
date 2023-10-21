@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alice H. Wu"
+title                    : "Alice Wu"
 title_separator          : "-"
 name                     : &name "Alice Wu"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alice Wu"
-  avatar           : "aw_profile2.JPG"
+  name             : # "Alice Wu"
+  avatar           : "aw_profile2.jpg"
   bio              : "Ph.D. Candidate in Economics, Harvard University"
   location         : # "Location"
   employer         :
