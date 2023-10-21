@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<!--![github small](/images/JM_profile.jpg) -->
+# <!--![github small](/images/JM_profile.jpg) -->
 <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  
 I am a Ph.D. Candidate in Economics and a Stone Scholar at Harvard, with research interests in **labor economics** and **economics of innovation**. My current works examine information frictions about workers in various labor markets, using novel datasets, causal inference, and structural methods to quantify the impact of employer learning on labor market mobility, wages, and aggregate productivity. 
 
