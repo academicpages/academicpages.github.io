@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "jcochanc"
+  username               :# "jcochanc"
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jerson R. Cochancela"
   avatar           : "profile.png"
-  bio              : "PhD Student @ Brown Biostatistics"
-  location         : "Providence, RI"
-  employer         :
+  bio              : "Sr Engineering Statistician @ Pratt & Whitney"
+  location         : "Greater Hartford, CT"
+  employer         : "Pratt & Whitney"
   pubmed           :
   googlescholar    :
   email            : "jerson@brown.edu"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jcochanc"
+  twitter          : #"jcochanc"
   vine             :
   weibo            :
   xing             :
