@@ -97,12 +97,14 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 <details>
   <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
   <ul>
-    <li>Plan4mc: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
+    <li>Plan4MC: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
+    <li>VOYAGER: An Open-Ended Embodied Agent with Large Language Models <a href="https://arxiv.org/abs/2305.16291">📚</a></li>
     <li>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents <a href="https://arxiv.org/pdf/2302.01560.pdf">📚</a></li> 
-    <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
     <li>Embodied Task Planning with Large Language Models <a href="https://arxiv.org/abs/2307.01848">📚</a></li>
+    <li> Pre-training Contextualized World Models with In-the-wild Videos for Reinforcement Learning <a href="https://arxiv.org/abs/2305.18499">📚</a></li>
     <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
     <li>Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf">📚</a></li>
+    <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
     <li>Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
     <li>Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/pdf/2307.02485.pdf">📚</a></li>
     <li>Language Models Meet World Models: Embodied Experiences Enhance Language Models <a href="https://arxiv.org/pdf/2305.10626.pdf">📚</a></li>
