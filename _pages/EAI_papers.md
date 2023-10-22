@@ -98,8 +98,8 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
   <ul>
     <li> Plan4mc: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
-    <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
     <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
+    <li> Embodied Task Planning with Large Language Models <a href="https://arxiv.org/abs/2307.01848">📚</a></li>
     <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
     <li> Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf">📚</a></li>
     <li> Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
@@ -110,6 +110,23 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought <a href="https://arxiv.org/abs/2305.15021">📚</a></li>
     <li> PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
     <li> Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary><b>Topic 5: Dive into robotics, Sim2Real Transfer, Emergent Embodied Communication, Multi-agent Embodied Collaboration</b></summary>
+  <ul>
+    <li> Eureka: Human-Level Reward Design via Coding Large Language Models <a href="https://arxiv.org/abs/2310.12931">📚</a></li> 
+    <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
+    <li> Learning Interactive Real-World Simulators <a href="https://arxiv.org/abs/2310.06114">📚</a> <a href="https://universal-simulator.github.io/unisim/">🌍</a></li>
+    <li> RT-2: Vision-Language-Action Models<a href="https://robotics-transformer2.github.io/assets/rt2.pdf">📚</a> <a href="https://robotics-transformer2.github.io/">🌍</a></li>
+    <li> Scaling Robot Learning with Semantically Imagined Experience<a href="https://arxiv.org/abs/2302.11550">📚</a> <a href="https://diffusion-rosie.github.io/">🌍</a></li>
+    <li> AR2-D2:Training a Robot Without a Robot<a href="https://arxiv.org/abs/2306.13818">📚</a> <a href="www.ar2d2.site">🌍</a></li>
+    <li> IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience<a href="https://arxiv.org/abs/2305.01098">📚</a> <a href="https://www.joannetruong.com/projects/i2o.html">🌍</a></li>
+    <li> VIMA: General Robot Manipulation with Multimodal Prompts<a href="https://vimalabs.github.io/assets/vima_paper.pdf">📚</a> <a href="https://vimalabs.github.io/">🌍</a></li>
+    <li> EC2 : Emergent Communication for Embodied Control <a href="https://arxiv.org/abs/2304.09448">📚</a></li>
+    <li> Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Patel_Interpretation_of_Emergent_Communication_in_Heterogeneous_Collaborative_Embodied_Agents_ICCV_2021_paper.pdf">📚</a></li>
+    <li> Heterogeneous Embodied Multi-Agent Collaboration<a href="https://arxiv.org/abs/2307.13957">📚</a> <a href="https://hetercol.github.io/">🌍</a></li>
   </ul>
 </details>
 
