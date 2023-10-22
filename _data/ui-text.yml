@@ -186,11 +186,11 @@ pt: &DEFAULT_PT
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Próxima"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : "Início"
   breadcrumb_separator       : "/"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "meno que"
+  less_than                  : "menor que"
   minute_read                : "minutos de leitura"
   share_on_label             : "Compartilhe em"
   meta_label                 :
@@ -200,25 +200,25 @@ pt: &DEFAULT_PT
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
-  related_label              : "Você Talvez Goste Também"
+  related_label              : "Talvez Você Goste Também"
   follow_label               : "Acompanhe em"
   feed_label                 : "Feed"
-  powered_by                 : "Feito com"
+  powered_by                 : "Feito por"
   website_label              : "Site"
-  email_label                : "Email"
+  email_label                : "E-mail"
   recent_posts               : "Postagens recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  comment_form_info          : "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"
+  comment_form_comment_label : "Comentário"
+  comment_form_md_info       : "Markdown é suportado"
+  comment_form_name_label    : "Nome"
+  comment_form_email_label   : "Endereço de e-mail'"
+  comment_form_website_label : "Website (opcional)"
+  comment_btn_submit         : "Enviar Comentário"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
+  comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
+  loading_label              : "Carregando..."
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:
