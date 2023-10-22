@@ -41,6 +41,10 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
   <ul>
     <li>World Models <a href="https://arxiv.org/abs/1803.10122">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
     <li>Machine Theory of Mind <a href="https://arxiv.org/abs/1802.07740">📚</a> </li>
+    <li>Collaborative World Models: An Online-Offline Transfer RL Approach <a href="https://arxiv.org/abs/2305.15260">📚</a> </li>
+    <li>Transformers are Sample-Efficient World Models <a href="https://arxiv.org/abs/2209.00588">📚</a> </li>
+    <li>Learning Temporally Abstract World Models without Online Experimentation <a href="https://proceedings.mlr.press/v202/freed23a/freed23a.pdf">📚</a> </li>
+    <li>Reward-Free Curricula for Training Robust World Models <a href="https://arxiv.org/abs/2306.09205">📚</a> </li>
     <li>Recurrent World Models Facilitate Policy Evolution <a href="https://arxiv.org/abs/1809.01999">📚</a> <a href="https://worldmodels.github.io/">🌍</a></li>
       <li>Discovering and Achieving Goals via World Models <a href="https://arxiv.org/abs/2110.09514">📚</a> <a href="https://orybkin.github.io/lexa/">🌍</a></li>
     <li>Planning to Explore via Self-Supervised World Models <a href="https://arxiv.org/abs/2005.05960">📚</a> <a href="https://ramanans1.github.io/plan2explore/">🌍</a></li>
@@ -48,6 +52,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>Do Embodied Agents Dream of Pixelated Sheep: Embodied Decision Making using Language Guided World Modelling <a href="https://arxiv.org/abs/2301.12050">📚</a></li>
     <li>Dream to Control: Learning Behaviors by Latent Imagination <a href="https://arxiv.org/abs/1912.01603">📚</a></li>
     <li>DayDreamer: World Models for Physical Robot Learning <a href="https://arxiv.org/abs/2206.14176">📚</a> <a href="https://danijar.com/project/daydreamer/">🌍</a></li>
+    <li>Mastering Diverse Domains through World Models <a href="https://arxiv.org/abs/2301.04104">📚</a> <a href="https://danijar.com/project/dreamerv3/">🌍</a></li>
     <li>Mastering Atari with Discrete World Models <a href="https://arxiv.org/abs/2010.02193">📚</a> <a href="https://danijar.com/project/dreamerv2/">🌍</a></li>
     <li>Masked World Models for Visual Control <a href="https://proceedings.mlr.press/v205/seo23a/seo23a.pdf">📚</a> <a href="https://sites.google.com/view/mwm-rl">🌍</a></li>
     <li>Structured World Models from Human Videos <a href="https://www.roboticsproceedings.org/rss19/p012.pdf">📚</a> <a href="https://human-world-model.github.io/">🌍</a></li>
@@ -91,7 +96,8 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> Continuous Scene Representations for Embodied AI <a href="https://arxiv.org/abs/2203.17251">📚</a></li>
     <li> Graph-based Environment Representation for Vision-and-Language Navigation in Continuous Environments<a href="https://arxiv.org/pdf/2301.04352.pdf">📚</a></li>
     <li> Learning Affordance Landscapes for Interaction Exploration in 3D Environments <a href="https://proceedings.neurips.cc/paper_files/paper/2020/file/15825aee15eb335cc13f9b559f166ee8-Paper.pdf">📚</a></li>
-     </ul>
+   <li> PASTA: Pretrained Action-State Transformer Agents <a href="https://arxiv.org/abs/2307.10936">📚</a></li>
+  </ul>
 </details>
 
 <details>
@@ -122,11 +128,15 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> Eureka: Human-Level Reward Design via Coding Large Language Models <a href="https://arxiv.org/abs/2310.12931">📚</a></li> 
     <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
     <li> Learning Interactive Real-World Simulators <a href="https://arxiv.org/abs/2310.06114">📚</a> <a href="https://universal-simulator.github.io/unisim/">🌍</a></li>
+    <li> Open X-Embodiment: Robotic Learning Datasets and RT-X Models <a href="https://arxiv.org/abs/2310.08864">📚</a> <a href="https://robotics-transformer-x.github.io/">🌍</a></li>
     <li> RT-2: Vision-Language-Action Models<a href="https://robotics-transformer2.github.io/assets/rt2.pdf">📚</a> <a href="https://robotics-transformer2.github.io/">🌍</a></li>
     <li> Scaling Robot Learning with Semantically Imagined Experience<a href="https://arxiv.org/abs/2302.11550">📚</a> <a href="https://diffusion-rosie.github.io/">🌍</a></li>
     <li> AR2-D2:Training a Robot Without a Robot<a href="https://arxiv.org/abs/2306.13818">📚</a> <a href="www.ar2d2.site">🌍</a></li>
     <li> IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience<a href="https://arxiv.org/abs/2305.01098">📚</a> <a href="https://www.joannetruong.com/projects/i2o.html">🌍</a></li>
-    <li> VIMA: General Robot Manipulation with Multimodal Prompts<a href="https://vimalabs.github.io/assets/vima_paper.pdf">📚</a> <a href="https://vimalabs.github.io/">🌍</a></li>
+    <li> VIMA: General Robot Manipulation with Multimodal Prompts <a href="https://vimalabs.github.io/assets/vima_paper.pdf">📚</a> <a href="https://vimalabs.github.io/">🌍</a></li>
+    <li> AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer <a href="https://arxiv.org/abs/2302.04903">📚</a> <a href="https://irom-lab.github.io/AdaptSim/">🌍</a></li>
+    <li> RoboCat: A self-improving robotic agent <a href="https://arxiv.org/abs/2306.11706">📚</a> <a href="https://www.deepmind.com/blog/robocat-a-self-improving-robotic-agent">🌍</a></li>
+    <li> Policy Stitching: Learning Transferable Robot Policies <a href="https://arxiv.org/abs/2309.13753">📚</a> <a href="http://generalroboticslab.com/PolicyStitching/">🌍</a></li> 
     <li> EC2 : Emergent Communication for Embodied Control <a href="https://arxiv.org/abs/2304.09448">📚</a></li>
     <li> Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Patel_Interpretation_of_Emergent_Communication_in_Heterogeneous_Collaborative_Embodied_Agents_ICCV_2021_paper.pdf">📚</a></li>
     <li> Heterogeneous Embodied Multi-Agent Collaboration<a href="https://arxiv.org/abs/2307.13957">📚</a> <a href="https://hetercol.github.io/">🌍</a></li>
@@ -154,3 +164,5 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 - 📊 [Transformers Supplemental Reading](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
 - 🌐 Diffusion for [robotics](https://github.com/mbreuss/diffusion-literature-for-robotics) and [RL](https://github.com/opendilab/awesome-diffusion-model-in-rl)
 
+
+<! PASTA: PRETRAINED ACTION-STATE TRANSFORMER AGENTS
