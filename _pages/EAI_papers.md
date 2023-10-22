@@ -97,19 +97,20 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 <details>
   <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
   <ul>
-    <li> Plan4mc: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
+    <li>Plan4mc: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
+    <li>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents <a href="https://arxiv.org/pdf/2302.01560.pdf">📚</a></li> 
     <li>SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation <a href="https://openreview.net/pdf?id=E5EoQqCVYX">📚</a></li>
-    <li> Embodied Task Planning with Large Language Models <a href="https://arxiv.org/abs/2307.01848">📚</a></li>
+    <li>Embodied Task Planning with Large Language Models <a href="https://arxiv.org/abs/2307.01848">📚</a></li>
     <li>Chasing Ghosts: Instruction Following as Bayesian State Tracking  <a href="https://arxiv.org/pdf/1907.02022.pdf">📚</a></li> 
-    <li> Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf">📚</a></li>
-    <li> Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
-    <li> Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/pdf/2307.02485.pdf">📚</a></li>
+    <li>Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Context-Aware_Planning_and_Environment-Aware_Memory_for_Instruction_Following_Embodied_Agents_ICCV_2023_paper.pdf">📚</a></li>
+    <li>Building Cooperative Embodied Agents Modularly with Large Language Models <a href="https://arxiv.org/abs/2305.15695">📚</a></li>
+    <li>Asking Before Action: Gather Information in Embodied Decision Making with Language Models <a href="https://arxiv.org/pdf/2307.02485.pdf">📚</a></li>
     <li>Language Models Meet World Models: Embodied Experiences Enhance Language Models <a href="https://arxiv.org/pdf/2305.10626.pdf">📚</a></li>
     <li>DANLI: Deliberative Agent for Following Natural Language Instructions <a href="https://arxiv.org/pdf/2210.12485.pdf">📚</a></li>
     <li>3D-LLM: Injecting the 3D World into Large Language Models <a href="https://arxiv.org/abs/2307.12981">📚</a></li>
-    <li> EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought <a href="https://arxiv.org/abs/2305.15021">📚</a></li>
-    <li> PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
-    <li> Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
+    <li>EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought <a href="https://arxiv.org/abs/2305.15021">📚</a></li>
+    <li>PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
+    <li>Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
   </ul>
 </details>
 
@@ -127,6 +128,19 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> EC2 : Emergent Communication for Embodied Control <a href="https://arxiv.org/abs/2304.09448">📚</a></li>
     <li> Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Patel_Interpretation_of_Emergent_Communication_in_Heterogeneous_Collaborative_Embodied_Agents_ICCV_2021_paper.pdf">📚</a></li>
     <li> Heterogeneous Embodied Multi-Agent Collaboration<a href="https://arxiv.org/abs/2307.13957">📚</a> <a href="https://hetercol.github.io/">🌍</a></li>
+  </ul>
+</details>
+
+
+<details>
+  <summary><b>Topic 6: Diffusion Policies</b></summary>
+  <ul>
+    <li>Diffusion Policy: Visuomotor Policy Learning via Action Diffusion <a href="https://arxiv.org/pdf/2303.04137.pdf">📚</a></li>
+    <li>NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration <a href="https://arxiv.org/pdf/2310.07896.pdf">📚</a></li>
+    <li>PlayFusion: Skill Acquisition via Diffusion from Language-Annotated Play <a href="https://openreview.net/forum?id=afF8RGcBBP">📚</a></li>
+    <li>Learning Universal Policies via Text-Guided Video Generation <a href="https://arxiv.org/pdf/2302.00111.pdf">📚</a></li>
+    <li>Compositional Foundation Models for Hierarchical Planning <a href="https://arxiv.org/pdf/2309.08587.pdf">📚</a></li>
+    <li>XSkill: Cross Embodiment Skill Discovery <a href="https://arxiv.org/pdf/2307.09955.pdf">📚</a></li>
   </ul>
 </details>
 
