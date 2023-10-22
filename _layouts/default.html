@@ -14,8 +14,9 @@ layout: compress
   <body>
 
     {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
+    {% unless page.masthead == false %}
+      {% include_cached masthead.html %}
+    {% endunless %}
     {{ content }}
 
     <div class="page__footer">
