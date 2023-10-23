@@ -3,7 +3,7 @@ title: "Teaching Assistant: Introduction to Computaional Intelligence"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Theran"
+venue: "University of Tehran"
 date: 2019-10-01
 location: "Tehran, Iran"
 ---
