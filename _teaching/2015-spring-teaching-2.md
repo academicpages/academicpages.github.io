@@ -1,20 +1,12 @@
 ---
 title: "Teaching Assistant: Advanced Algorithms Course"
 collection: teaching
-type: "Gratuate Course"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Tehran"
 date: 2023-10-01
 location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Designing homeworks on Network Flow and NP subjects
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
