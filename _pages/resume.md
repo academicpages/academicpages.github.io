@@ -17,6 +17,13 @@ redirect_from:
    
 Theatre Experience
 ======
+**Other**
+**Maine State Music Theatre** — *Stage Ops Crew* May 2023 - August 2023
+  * Backstage crew for 4 productions Titanic the musical, The Buddy Holly Story, 9 to 5,
+     Something Rotten.
+  * Fly rail crew for Titanic the musical, Something Rotten.
+  * Assisted in the scene shop as necessary.
+
 **Stagemanagement**   
 
 | Production                      | Position	             | Director			                | Location                  |
@@ -36,7 +43,7 @@ Theatre Experience
 | Little Women                       | Prop Master               | Dir. Brianna Larson                       | Arkansas State University |
 | Revue                              | Light operator/ Carpenter | Dir. Brianna Larson Des. Caisa Sanburg    | Arkansas State University |
 | She Kills Monsters: Virtual Realms | Carpenter                 | Des. Jeff McLaughlin                      | Arkansas State University |
-
+| Curious Incident of the Dog in the Nighttime | Scenic Designer | Dir. DayDay Robison |		     | Arkansas State University |
 
     
 Related Theatrical Experience 
@@ -48,9 +55,9 @@ Related Theatrical Experience
 Education
 ======
 **Arkansas State University, Jonesboro Arkansas** August 2019 - Present  
-  * Majoring in theatre with an emphasis in design technologies including scenic, lighting,
-    sound, and makeup design.     
-   
+  * Major: Theatre
+  * Emphassis: Technical Theatre
+
 Skills
 ======
   
