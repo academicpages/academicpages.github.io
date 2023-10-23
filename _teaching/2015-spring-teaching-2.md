@@ -8,5 +8,5 @@ date: 2023-10-01
 location: "Tehran, Iran"
 ---
 
-Designing homeworks on Network Flow and NP subjects
+Designed and organized homeworks on Network Flow and NP subjects subjects
 
