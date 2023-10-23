@@ -1,6 +1,7 @@
 ---
 collection: publications
 permalink: /publication/2023-paper-title-number-2
+except:
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
