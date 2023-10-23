@@ -12,8 +12,8 @@ main:
   - title: "News"
     url: /news/ 
 
-  - title: "User Study"
-    url: /user-study/   
+  # - title: "User Study"
+  #   url: /user-study/   
     
   # - title: "Portfolio"
   #   url: /portfolio/

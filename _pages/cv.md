@@ -9,6 +9,12 @@ redirect_from:
 
 --- 
 
+Current Position
+======
+
+Lecturer in Video Game Development, College of Digital Arts (CoDA), Birmingham City University, 2023 - Ongoing
+
+
 Education
 ======
 Ph.D Candidate in Graphics and Vision, DMT Lab, Birmingham City University, 2020 - Ongoing
@@ -16,8 +22,6 @@ Ph.D Candidate in Graphics and Vision, DMT Lab, Birmingham City University, 2020
 PG. Cert. in Research Practice, Birmingham City University, 2020 - 2021
 
 B.Sc. (Hons) Sound Engineering and Production, _first class_,  Birmingham City University, 2016 - 2019 
-
-
 
 Work experience - Projects
 ======
@@ -42,7 +46,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Past Teaching Experience
 ======
 * **Module Tutor for C++ Programming for Games**, B.Sc. Computer Games Technology, Birmingham City University
   - Delivering theoretical and practical classes on 2D game development adopting Objected-Oriented Programming principles, teaching students to build, test and profile the performance of their games.
