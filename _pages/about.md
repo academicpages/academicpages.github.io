@@ -16,10 +16,11 @@ Research Interests
 
 ***Methodologies***
 
-* Information Behavior
+* User Information Behavior
 * Design Management
 * Human-computer Interaction
 * User Experience
+* Experimental Psychology
 * Product-service System Design
 
 
