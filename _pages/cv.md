@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV [here](https://github.com/sepehr-karimi/sepehr-karimi.github.io/blob/master/files/CV.pdf)
+You can download my full CV [here](https://github.com/sepehr-karimi/sepehr-karimi.github.io/raw/master/files/CV.pdf)
 
 
 Education
