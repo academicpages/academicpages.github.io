@@ -325,3 +325,20 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.page-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Full viewport height */
+}
+
+.image-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+.image-container img {
+  width: 200px; /* Set a fixed width */
+  height: 200px; /* Set a fixed height */
+}
