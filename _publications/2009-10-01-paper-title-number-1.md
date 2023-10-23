@@ -1,5 +1,4 @@
 ---
-title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2023-paper-title-number-1
 citation: 'Effects of plant-tissue permeability on phytopathogen invasion and population bottlenecks.
