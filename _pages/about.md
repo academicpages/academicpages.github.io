@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working on a PhD at the [School of Design, Hunan University](http://design.hnu.edu.cn/), China. My supervisor is Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). I had one year's experience as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/), Italy. I received my master degree and bachelor degree in industrial design from [Hunan University](http://www.hnu.edu.cn/). During my master's degree, I conducted a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
+I am currently working on a PhD at the [School of Design, Hunan University](http://design.hnu.edu.cn/), China. My supervisor is Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). I had one year's experience as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/), Italy. I received my master degree and bachelor degree in industrial design from [Hunan University](http://www.hnu.edu.cn/). During my master's degree, I conducted a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
 
 
 Research Interests
