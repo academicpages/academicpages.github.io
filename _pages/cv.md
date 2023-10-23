@@ -20,11 +20,11 @@ Education
 Research Experience
 ======
 * Research Assistant at Social Network Lab, december 2021 - present
-  * Git
+  * Working on my thesis and also Data mining on X (former Twitter) users
 
 
 * Research Assistant at Computer Intelligence and Large Scale System Research Lab 2020
-  * 
+  * Working on my Thesis about comparing different Deep RL methods in differential games
 
   
 
@@ -57,25 +57,3 @@ LANGUAGE SKILLS
 
 
 
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-TEACHING SKILLS
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
