@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[download CV here](C:\Users\zhang139\Dropbox\Github_Pages\dongmiaozh.github.io\files\DONGMIAO ZHANG_CV_14072020)
+[download CV here]((/files/DONGMIAO_ZHANG_CV_14072020.pdf))
