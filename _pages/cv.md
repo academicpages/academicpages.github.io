@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[download CV here]((/files/DONGMIAO_ZHANG_CV_14072020.pdf))
+[download CV here](files/DONGMIAO ZHANG_CV_14072020.pdf)
