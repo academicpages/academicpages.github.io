@@ -1,7 +1,7 @@
 ---
 title: "Regional diversification and intra-regional wage inequality in the Netherlands"
 collection: publications
-permalink: https://ideas.repec.org/p/egu/wpaper/2216.html
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The literature has drawn little attention to the relationship between industrial dynamics (i.e. the rise and fall of industries) and intra-regional wage inequality. This explorative study examines the relationship between industry dynamics and wage inequality in NUTS-3 regions in the Netherlands in the period 2010-2019. While the literature has shown that related diversification in more complex industries enhances economic growth in regions but also inequality between regions, our study shows that related diversification in less complex industries tends to reduce wage inequality within a region. This implies it remains a policy challenge to combine smart and inclusive growth in regions. Our study also showed that there is no significant relationship between exit of industries and regional inequality, with one exception: unrelated low-complex exits tend to increase intra-regional wage inequality. Overall, these findings suggest that related diversification in less complex industries tends to bring benefits in terms of inclusive growth, while unrelated exits in less complex industries tend to do the opposite.'
 date: 2022-8-28
 venue: 'Papers in Evolutionary Economic Geography'
