@@ -15,7 +15,7 @@ name                     : &name "Home"
 description              : &description "Economics Ph.D Student at New York University"
 url                      : https://gabrieltoledo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "gstoledo/gstoledo.github.io"
+repository               : "gabrieltoledo/gstoledo.github.io"
 teaser                   : images/# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
