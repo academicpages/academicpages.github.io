@@ -22,7 +22,7 @@ author_profile: true
 **Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan.    
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023
 
-* PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF]()\] \[[Code]()\]  
+* PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection \[[PDF](https://arxiv.org/pdf/2310.11676.pdf)\] \[[Code](https://github.com/CampanulaBells/PREM-GAD)\]  
 Junjun Pan\*, **Yixin Liu**\*, Yizhen Zheng\*, Shirui Pan.  
 IEEE International Conference on Data Mining (**ICDM**), 2023. 
 <!-- (<span style="color:black">*CORE A\*, 19.9% acceptance rate*</span>) -->
