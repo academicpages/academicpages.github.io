@@ -2,7 +2,7 @@
 title: "Complexity intelligence and skill complementarities of AI technologies"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: ''
+excerpt: 'This is a work in progress'
 date: 2023-10-24
 status: work in progress
 ---
