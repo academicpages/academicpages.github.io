@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Introduction"
-    url: /introduction/
   - title: "Research"
     url: /publications/
 
