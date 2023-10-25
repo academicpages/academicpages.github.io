@@ -166,6 +166,3 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 - 🧠 [Reinforcement Learning Supplemental Reading](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 - 📊 [Transformers Supplemental Reading](https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html)
 - 🌐 Diffusion for [robotics](https://github.com/mbreuss/diffusion-literature-for-robotics) and [RL](https://github.com/opendilab/awesome-diffusion-model-in-rl)
-
-
-<! PASTA: PRETRAINED ACTION-STATE TRANSFORMER AGENTS
