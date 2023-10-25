@@ -123,7 +123,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 </details>
 
 <details>
-  <summary><b>Topic 5: Dive into robotics, Sim2Sim/Sim2Real Transfer, Emergent Embodied Communication, Multi-agent Embodied Collaboration</b></summary>
+  <summary><b>Topic 5: Dive into robotics, Sim2Sim/Sim2Real Transfer, Embodied Communication, Multi-agent Embodied Collaboration</b></summary>
   <ul>
     <li> Eureka: Human-Level Reward Design via Coding Large Language Models <a href="https://arxiv.org/abs/2310.12931">📚</a></li> 
     <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
