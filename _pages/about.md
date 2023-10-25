@@ -29,9 +29,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Blockchain Networks
 * Consensus Mechanisms
 * Smart Contracts
-* Cross-chain Communication Protocols
-* Machine Learning Algorithms
-* Deep-learning Algorithms
+* Artificial Intelligence
 * Computer Networks
 * Network Security
 
