@@ -123,15 +123,15 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 </details>
 
 <details>
-  <summary><b>Topic 5: Dive into robotics, Sim2Real Transfer, Emergent Embodied Communication, Multi-agent Embodied Collaboration</b></summary>
+  <summary><b>Topic 5: Dive into robotics, Sim2Sim/Sim2Real Transfer, Emergent Embodied Communication, Multi-agent Embodied Collaboration</b></summary>
   <ul>
     <li> Eureka: Human-Level Reward Design via Coding Large Language Models <a href="https://arxiv.org/abs/2310.12931">📚</a></li> 
     <li> PaLM-E: An Embodied Multimodal Language Model <a href="https://palm-e.github.io/assets/palm-e.pdf">📚</a></li>
     <li> Learning Interactive Real-World Simulators <a href="https://arxiv.org/abs/2310.06114">📚</a> <a href="https://universal-simulator.github.io/unisim/">🌍</a></li>
     <li> Open X-Embodiment: Robotic Learning Datasets and RT-X Models <a href="https://arxiv.org/abs/2310.08864">📚</a> <a href="https://robotics-transformer-x.github.io/">🌍</a></li>
-    <li> RT-2: Vision-Language-Action Models<a href="https://robotics-transformer2.github.io/assets/rt2.pdf">📚</a> <a href="https://robotics-transformer2.github.io/">🌍</a></li>
-    <li> Scaling Robot Learning with Semantically Imagined Experience<a href="https://arxiv.org/abs/2302.11550">📚</a> <a href="https://diffusion-rosie.github.io/">🌍</a></li>
-    <li> AR2-D2:Training a Robot Without a Robot<a href="https://arxiv.org/abs/2306.13818">📚</a> <a href="www.ar2d2.site">🌍</a></li>
+    <li> RT-2: Vision-Language-Action Models <a href="https://robotics-transformer2.github.io/assets/rt2.pdf">📚</a> <a href="https://robotics-transformer2.github.io/">🌍</a></li>
+    <li> Scaling Robot Learning with Semantically Imagined Experience <a href="https://arxiv.org/abs/2302.11550">📚</a> <a href="https://diffusion-rosie.github.io/">🌍</a></li>
+    <li> AR2-D2:Training a Robot Without a Robot <a href="https://arxiv.org/abs/2306.13818">📚</a> <a href="www.ar2d2.site">🌍</a></li>
     <li> IndoorSim-to-OutdoorReal: Learning to Navigate Outdoors without any Outdoor Experience<a href="https://arxiv.org/abs/2305.01098">📚</a> <a href="https://www.joannetruong.com/projects/i2o.html">🌍</a></li>
     <li> VIMA: General Robot Manipulation with Multimodal Prompts <a href="https://vimalabs.github.io/assets/vima_paper.pdf">📚</a> <a href="https://vimalabs.github.io/">🌍</a></li>
     <li> AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer <a href="https://arxiv.org/abs/2302.04903">📚</a> <a href="https://irom-lab.github.io/AdaptSim/">🌍</a></li>
@@ -139,7 +139,10 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li> Policy Stitching: Learning Transferable Robot Policies <a href="https://arxiv.org/abs/2309.13753">📚</a> <a href="http://generalroboticslab.com/PolicyStitching/">🌍</a></li> 
     <li> EC2 : Emergent Communication for Embodied Control <a href="https://arxiv.org/abs/2304.09448">📚</a></li>
     <li> Interpretation of Emergent Communication in Heterogeneous Collaborative Embodied Agents <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Patel_Interpretation_of_Emergent_Communication_in_Heterogeneous_Collaborative_Embodied_Agents_ICCV_2021_paper.pdf">📚</a></li>
-    <li> Heterogeneous Embodied Multi-Agent Collaboration<a href="https://arxiv.org/abs/2307.13957">📚</a> <a href="https://hetercol.github.io/">🌍</a></li>
+    <li> Heterogeneous Embodied Multi-Agent Collaboration <a href="https://arxiv.org/abs/2307.13957">📚</a> <a href="https://hetercol.github.io/">🌍
+    </a></li>
+    <li> Sim-2-Sim Transfer for Vision-and-Language Navigation in Continuous Environments <a href="https://arxiv.org/pdf/2204.09667.pdf">📚</a> <a href="https://jacobkrantz.github.io/sim-2-sim">🌍
+    </a></li>
   </ul>
 </details>
 
