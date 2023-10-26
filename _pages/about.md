@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingfeng Shang's Personal website"
+title: "Welcome to my personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
