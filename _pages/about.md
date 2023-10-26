@@ -10,7 +10,7 @@ redirect_from:
 
  <!--![github small](/images/JM_profile.jpg) -->
  <!-- <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  -->
-I am a Ph.D. Candidate in Economics at Harvard and a Stone Scholar in Inequality. My research fields are **labor economics** and **economics of innovation**. Currently my works investigate information frictions about workers in various labor markets, and the role of firms in identifying talent, using a combination of novel datasets, causal inference, and structural methods.  
+I am a Ph.D. Candidate in Economics at Harvard and a Stone Scholar in Inequality, with research interests in **labor economics** and **economics of innovation**. My current research investigates information frictions about workers in various labor markets, and the role of firms in identifying talent, using a combination of novel datasets, causal inference, and structural methods.  
 
 <!-- to quantify the impact of employer learning on labor market mobility, wages, and aggregate productivity. --> 
 
