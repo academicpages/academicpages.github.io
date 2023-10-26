@@ -1,14 +1,10 @@
 ---
-title: "Geolocation Source Localization"
+title: "Digital FPGA Piano for Beginners"
 collection: portfolio
 ---
 ---
-Geolocation Source Localization
+Digital FPGA Piano for Beginners
 ---
-ASELSAN, Inc.
+Bilkent University
 
-The problem of minimizing the error of measurement of source localization is within the scope of optimization. Therefore, the researched methods are least squares, iterative least squares, gradient descent, and Gauss-Newton. Finally, the methods are evaluated according to Cramer-Rao lower bound. 
-
-![image](https://github.com/aysintumay/aysintumay.github.io/assets/118018198/7b868abf-272f-4127-a77d-e38658750dce)
-
-The plot of RMSE of geolocation methods versus noise variance.  
+This term project is a digital piano design with a VGA screen as the piano template, a buzzer as the sound output, a note indicator on the 7-segment display, prerecorded songs, and switches as piano keys. The tool can output 8 octaves of notes. The main aim of this project is to help the beginner piano players to get familiar with the logic of the piano. The player can both play and listen songs, which enhances user’s skills further.
