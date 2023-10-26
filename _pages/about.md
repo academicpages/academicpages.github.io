@@ -25,7 +25,7 @@ Fun facts about me
 
 ## Recent News
 - **Sept 2023:** I will be attending *ASE 2023* at Luxembourg, through an ACM-funded SIGSOFT travel grant.
-- **July 2023:** My paper on _Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks_ just got accepted to ASE 2023.
+- **July 2023:** Our paper, _Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks_, just got accepted to ASE 2023.
 - **May 2023:** I just got elected as a Senator representing ECE at the *Purdue Graduate Students Senate* for the 2023/2024 academic session
 - **May 2023:** I will be interning at Google over this summer as a Student Researcher.
 - **Nov 2022:** I will be attending *ESEC/FSE 2022* at Singapore, through an ACM-funded travel grant.
