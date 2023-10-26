@@ -12,25 +12,14 @@ Welcome! I am a 2nd-year master student of Artificial Intelligence at [Gaoling S
 Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.github.io/assets/CV_hongpenglin.pdf)
 
 ## Research Interests
-My research interests lie in Natural Language Processing and Multi-modal Learning. 
+My research interests lie in Natural Language Processing and Multi-modal Understanding, for the purpose of giving machines the ability to perceive, understand, and express like humans.
 
-Recently, I have been dedicated to enabling Large Language Models (LLM) to process multi-modal information and endowing them with the ability to perceive the world, in order to advance the development of Multi-modal Dialogue.
+Recently,  I have been dedicated to enabling Large Language Models (LLM) to process multi-modal information and endowing them with the ability to perceive the world.
 
 
-## Employ Experience
-* 2023.8 ~ now: Research Intern
+## News
+08/2023    Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
-* 2023.5 ~ 2023.8: Research Intern
-  * Xianyuan Technology
- 
-* 2021.11 ~ 2022.6: Research Intern
-  * MMU, Kuaishou Technology
-
-* 2021.10 ~ 2022.1: Research Intern
-  * Beijing Academy of Artificial Intelligence (BAAI)
-
-* 2021.7 ~ 2021.8: Research Intern
-  * Tencent AI Lab
 
 
 ## Publications
