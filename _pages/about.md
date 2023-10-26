@@ -17,7 +17,8 @@ My research interests lie in Natural Language Processing and Multi-modal Learnin
 Recently, I have been dedicated to enabling Large Language Models (LLM) to process multi-modal information and endowing them with the ability to perceive the world, in order to advance the development of Multi-modal Dialogue.
 
 
-## Work Experience
+## Employ Experience
+* 2023.8 ~ now: Research Intern
 
 * 2023.5 ~ 2023.8: Research Intern
   * Xianyuan Technology
