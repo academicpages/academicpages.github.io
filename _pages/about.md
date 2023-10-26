@@ -34,11 +34,11 @@ Recently, I have been dedicated to enabling Large Language Models (LLM) to proce
 
 ## Publications
 
-* [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880) (The linked version is pending an update)
+* [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880) 
 <br>
 **Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
 <br>
-*ACM MM 2023*
+*ACM MM 2023(Oral)*
 
 
 * Analysis on the collection method and simulation algorithm of Chinese speech errors
