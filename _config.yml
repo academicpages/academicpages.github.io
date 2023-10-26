@@ -30,30 +30,30 @@ comments:
  #   appid                :
  #   num_posts            : # 5 (default)
  #   colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+#staticman:
+#  allowedFields          : ['name', 'email', 'url', 'message']
+#  branch                 : "gh-pages" # "master", "gh-pages"
+ # commitMessage          : "New comment."
+#  filename               : comment-{@timestamp}
+#  format                 : "yml"
+#  moderation             : true
+#  path                   : "_data/comments/{options.slug}"
+ # requiredFields         : ['name', 'email', 'message']
+ # transforms:
+#    email                : "md5"
+#  generatedFields:
+#    date:
+ #     type               : "date"
+  #    options:
+ #       format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+#atom_feed:
+#  path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+#google_site_verification :
+#bing_site_verification   :
+#alexa_site_verification  :
+#yandex_site_verification :
 
 # Social Sharing
 #twitter:
@@ -65,10 +65,10 @@ yandex_site_verification :
 #og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+#social:
+#  type                   : # Person or Organization (defaults to Person)
+#  name                   : # If the user or organization name differs from the site's name
+#  links: # An array of links to social media profiles
 
 
 # Analytics
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-    name             : "Mingfeng Shang"
+    name           : "Mingfeng Shang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Minneapolis, MN"
