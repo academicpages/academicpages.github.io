@@ -77,6 +77,12 @@ redirect_from:
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_yinjianliang.bmp" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  殷建良，2013级硕士生，本科：哈尔滨工程大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
                   <img src="https://yongjinliu.github.io/images/IMG_Aamir.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">
@@ -173,6 +179,24 @@ redirect_from:
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_hanyiheng.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              韩义恒，2018级直博生，本科：吉林大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_sunyanan.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              孙亚男，2020级硕士生，本科：清华大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_Zhan Irvin Haozhe.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              Zhan Irvin Haozhe（詹昊哲），2020级硕士生，本科：清华大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
                   <img src="https://yongjinliu.github.io/images/IMG_zhangshu.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              张澍，研究助理（2020-2022），本科：济南大学，硕士：中国科学院心理研究所。（现在德国Max Planck Institute for Biological Cybernetics从事视觉心理物理学方向博士生）</td>
@@ -185,9 +209,45 @@ redirect_from:
             </tr>
             <tr class="txt">
             <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liuna.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              刘娜，访问学者（2022-2023），博士：天津理工大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_yanfei.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">              闫飞，访问学者（2022-2023），博士：东京工业大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
                   <img src="https://yongjinliu.github.io/images/IMG_duxing.jpg" width="113" height="139">
             </td>
             <td width="80%" valign="top">              杜星，行政助理（2019-2022），本科&amp;硕士：法国昂热大学</td>
+            </tr>
+            <!-- <tr class="txt"> -->
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_wenyuhui.jpeg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  温玉辉，博士后，（2020-2023）博士：中国科学院大学（中科院计算所）</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liuxinge.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  刘心阁，博士后，（2021-2023）博士：中山大学</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_liufang.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  刘舫，博士后，（2021-2023），博士：中国科学院大学（中科院软件所）</td>
+            </tr>
+            <tr class="txt">
+            <td width="20%" valign="middle" align="middle">
+                  <img src="https://yongjinliu.github.io/images/IMG_zhouchao.jpg" width="113" height="139">
+            </td>
+            <td width="80%" valign="top">                  周超，博士后，（2021-2023），博士：辽宁师范大学</td>
             </tr>
             <tr class="txt">
                   <td width="20%" valign="middle" align="middle">
@@ -196,6 +256,6 @@ redirect_from:
                         <b></b>
                   </td>
             <td width="80%" valign="top"> 
-                  刘淮松，韩义恒，赵旺，舒叶芷，夏萌霏，杨培，孙亚男，詹昊哲，孙志尧，樊若雨，林裕鸿，胡钰彬，嵇文麒，刘梓熙，吕天，叶盛，刘妮琦，何雨泽
+                  杜欣欣，梁亚倩，刘淮松，赵旺，舒叶芷，夏萌霏，胡钰彬，杨培，孙志尧，樊若雨，林裕鸿，嵇文麒，吕天，叶盛，何雨泽，王劭聪，雷长松，刘梓熙，曾令栀，刘妮琦，徐功达，黄建源，盛芊芊，董祯慧，任子琪
             </td>
             </tr>
