@@ -3,7 +3,7 @@ title: "Open-source Large Language Models are Strong Zero-shot Query Likelihood 
 collection: publications
 permalink: /publication/emnlp2023QLM
 year: 2023
-venue: 'In Findings of the Association for Computational Linguistics: EMNLP 2023'
+venue: 'Findings of the Association for Computational Linguistics: EMNLP 2023'
 authors: <strong>Shengyao Zhuang</strong>, Bing Liu, Bevan Koopman and Guido Zuccon.
 track: Short paper
 ---
