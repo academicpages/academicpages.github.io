@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
- by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Ph.D. candidate in the Department of Civil, Environmental, and Geo- Engineering at the University of Minnesota under the supervision of [Dr. Raphael E. Stern](https://cse.umn.edu/cege/faculty/raphael-stern). My research interests focus on traffic dynamic modeling, traffic control and optimizations, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1zEryNcz8kpj-5WKyMCHVlqgVwCTx7ENC/view?usp=sharing) for more details. 
+
+<!---
 
 A data-driven personal website
 ======
@@ -48,3 +50,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
