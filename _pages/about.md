@@ -18,7 +18,7 @@ Recently,  I have been dedicated to enabling Large Language Models (LLM) to proc
 
 
 ## News
-08/2023 &nbsp &nbsp &nbsp &nbsp Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
+08/2023 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
 
 
