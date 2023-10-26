@@ -9,8 +9,15 @@ Here are my current list of publications.
 
 ## Peer-reviewed conference papers
 
-I am working so hard to get this page populated with actual papers. Please, kindly check back in couple of months.
+1. *Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks.*     
+    **P. Amusuo**, R. Méndez, Z. Xu, A. Machiry, J. Davis   
+    ASE 2023
 
+## Technical Reports
+
+1. *Preventing Supply Chain Vulnerabilities in Java with a Fine-Grained Permission Manager.*     
+    **P. Amusuo**, K. Robinson, S. Torres-Arias, L. Simon, J. Davis   
+    Arxiv (https://arxiv.org/pdf/2310.14117)
 
 ## Peer-reviewed short papers
 
