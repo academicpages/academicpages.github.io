@@ -17,13 +17,13 @@ I'm Zhiqiang Wei who is working at China Mobile (Suzhou) Software Technology Co.
 Research Interests
 ======
 <ul>
+<li>Multimodal Machine Learning</li>
+<li>Location Tracking System</li>
+<li>On-device Machine Learning</li>
 <li>Time-Series Forecasting</li>
 <li>Fuzzing Test</li>
 <li>Deep Generative Model</li>
 <li>Natural Language Generation</li>
-<li>Multimodal Machine Learning</li>
-<li>Location Tracking System</li>
-<li>On-device Machine Learning</li>
 </ul>
 
 <hr color="#FFFFFF" />
