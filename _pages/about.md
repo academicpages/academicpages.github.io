@@ -18,17 +18,17 @@ Recently,  I have been dedicated to enabling Large Language Models (LLM) to proc
 
 
 ## News
-08/2023 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023! &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [TikTalk project](https://ruc-aimind.github.io/projects/TikTalk/)
+08/2023 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
 
 
 ## Publications
 
-* [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World](https://arxiv.org/abs/2301.05880) 
+* [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World]
 <br>
 **Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
 <br>
-*ACM MM 2023(Oral)*
+*ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [PDF](https://arxiv.org/abs/2301.05880) [Code](https://github.com/RUC-AIMind/TikTalk)
 
 
 * Analysis on the collection method and simulation algorithm of Chinese speech errors
