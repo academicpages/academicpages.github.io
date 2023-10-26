@@ -17,13 +17,15 @@ My research sits at the intersection of software engineering, security and cyber
 
 ## Personal
 Fun facts about me
-- I love discussing politics, startups and strategies. 
+- I love discussing politics, startups, and strategies. 
 - I can hardly resist an invitation to join a road trip or visit a new city.
 - If I'm not working or reading, I am probably watching a movie.
 - I am scared of heights 😩.
 - I am passionate about Nigeria, and Africa.
 
 ## Recent News
+- **Sept 2023:** I will be attending *ASE 2023* at Luxembourg, through an ACM-funded SIGSOFT travel grant.
+- **July 2023:** My paper on _Systematically Detecting Packet Validation Vulnerabilities in Embedded Network Stacks_ just got accepted to ASE 2023.
 - **May 2023:** I just got elected as a Senator representing ECE at the *Purdue Graduate Students Senate* for the 2023/2024 academic session
 - **May 2023:** I will be interning at Google over this summer as a Student Researcher.
 - **Nov 2022:** I will be attending *ESEC/FSE 2022* at Singapore, through an ACM-funded travel grant.
