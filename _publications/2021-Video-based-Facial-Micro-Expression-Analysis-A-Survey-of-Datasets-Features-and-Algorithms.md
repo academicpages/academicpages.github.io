@@ -1,5 +1,5 @@
 ---
-title: <span class="red-font"><strong>"(ESI Highly Cited Paper)"</strong></span>"Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms"
+title: "Video-based Facial Micro-Expression Analysis: A Survey of Datasets, Features and Algorithms"
 collection: publications
 permalink: /publication/2021-Video-based-Facial-Micro-Expression-Analysis-A-Survey-of-Datasets-Features-and-Algorithms
 excerpt: ''
