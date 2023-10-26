@@ -24,7 +24,7 @@ Recently,  I have been dedicated to enabling Large Language Models (LLM) to proc
 
 ## Publications
 
-* [TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World]
+* TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World
 <br>
 **Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
 <br>
