@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the Department of Civil, Environmental, and Geo- Engin
 
 My research interests focus on traffic dynamic modeling, traffic control and optimizations, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1zEryNcz8kpj-5WKyMCHVlqgVwCTx7ENC/view?usp=sharing) for more details. 
 
-Recent news
+Recent News
 ======
 
 * Sep. 2023
