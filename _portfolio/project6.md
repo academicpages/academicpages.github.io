@@ -5,7 +5,7 @@ excerpt: "ML course Project, 2023
  <br/>
 Implementing machine learning algorithms to develop classifiers for Electroencephalography (EEG) data.
  Assessing the performance of different classifiers to determine the most effective approach for EEG data
-classification
+classification"
 ---
 ML course Project, 2023
  <br/>
