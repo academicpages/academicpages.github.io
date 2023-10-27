@@ -19,3 +19,7 @@ My current research focuses on the role of firms in identifying talent. In parti
 
 I am on the 2023-2024 job market. Please find my [CV here](/files/AW_CV_2023.pdf), and my job market paper on the research page. 
 
+**References**
+
+Larry Katz <lkatz@harvard.edu>, Claudia Goldin <cgoldin@harvard.edu>, Elie Tamer <elietamer@fas.harvard.edu>, and David Card <card@berkeley.edu>
+
