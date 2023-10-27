@@ -12,3 +12,5 @@ This term project focuses on measuring the common sense question answering perfo
 <br/><img src='/images/image.png'>
 
  The similarity of GPT model's answers with the real-life answers to commonsense questions. 
+
+Check out the [source code](https://github.com/aysintumay/EEE-486--NLP/tree/project).
