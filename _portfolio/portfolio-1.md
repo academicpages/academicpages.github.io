@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Canadian Encyclopedia: Hoverfly"
+excerpt: "Encyclopedia article about hoverflies, a family of insects known as Syrphidae <br/><img src='(https://www.thecanadianencyclopedia.ca/en/article/hoverfly)'>"
 collection: portfolio
 ---
 
