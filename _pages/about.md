@@ -36,6 +36,10 @@ Selected Papers (first-author/co-first-author)
   <dd><strong>Towards Self-Interpretable Graph-Level Anomaly Detection</strong></dd>
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan</dd>
   <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2023</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2310.16520.pdf">[Paper]</a> 
+    <a href="https://github.com/yixinliu233/SIGNET">[Code]</a>
+  </dd>
 </dl>
 
 ---
