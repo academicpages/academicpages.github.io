@@ -17,8 +17,7 @@ author_profile: true
 
 ## Conference
 -----
-
-* Towards Self-Interpretable Graph-Level Anomaly Detection \[[PDF]()\] \[[Code]()\]    
+* Towards Self-Interpretable Graph-Level Anomaly Detection \[[PDF](https://arxiv.org/pdf/2310.16520.pdf)\] \[[Code](https://github.com/yixinliu233/SIGNET)\]    
 **Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan.    
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023
 
