@@ -1,7 +1,7 @@
 
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Developing Physically-interpretable Models for Traffic Flow Dynamics"
+collection: Research
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University 1, Department"
