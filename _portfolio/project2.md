@@ -1,7 +1,15 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "FAQ ChatBot"
+excerpt: "NLP course Project, 2023
+ <br/>
+ <br/>
+FAQ chatbot specialized in selling TVs, capable of detecting intents, classifying domains, and extracting slot
+values (e.g., destination size, company name, etc.)"
+collection: projects
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+NLP course Project, 2023
+ <br/>
+ <br/>
+FAQ chatbot specialized in selling TVs, capable of detecting intents, classifying domains, and extracting slot
+values (e.g., destination size, company name, etc.)git
+<br/>
