@@ -9,7 +9,7 @@ author_profile: true
 - UCL Mathematical & Physical Sciences (MAPS) [Faculty Education Award](https://www.ucl.ac.uk/teaching-learning/events/ucl-education-awards) ([Certificate](https://kavanase.github.io/files/Seán Kavanagh UCL Education Award.pdf)), for Individual Excellence in academic supervision and personal tutoring. Shortlisted for the Provost's Award.
 - [Associate Fellowship of the Higher Education Authority](https://kavanase.github.io/files/Sean%20Kavanagh%20-%20Associate%20Fellowship.pdf) (AFHEA), awarded for meeting UK Professional Standards in higher education teaching and learning support.
 -	Successful EPSRC Pioneer Grant lead author for Archer2 supercomputing resources (2023); notional value £110k.
--	2023 UCL [Open Science & Scholarship Award](https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/)
+-	2023 UCL [Open Science & Scholarship Award](https://blogs.ucl.ac.uk/open-access/2023/10/11/announcing-ucl-open-science-scholarship-award-winners/) ([Certificate](https://kavanase.github.io/files/Open_Science_Award_Certificate.jpg))
 
 
 ## Research Excellence Awards
