@@ -2,3 +2,5 @@ _site/
 .DS_Store
 .jekyll-metadata
 *Transcript*
+vendor/
+.bundle/
