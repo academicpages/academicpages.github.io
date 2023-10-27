@@ -9,8 +9,11 @@ redirect_from:
 ---
 
 I spend as much time as I can walking in the fields and woods of Canada. I touch the leaves of familiar plants, trying to memorise the tactile sense of each one in the same way that I have memorised the shapes of their leaves and the names they go by, both common and scientific. The English language often falls short in our attempts to describe such things, scents and touches and the wonder of holding a tiny chorus frog in cupped palms, but my work seeks to bridge that gap. In modern times, nature has become alien and unfamiliar to many people. Writing can restore a sense of familiarity with the world, taking its wonders and turning it into words that everyone can understand and appreciate. My writing seeks to restore this connection in ways that are grounded in scientific research and verifiable truths. 
+
 Scientific papers are a marvel, precise and efficient in their communication of knowledge, both old and new. However, they lose something within their integers and graphs. It takes years of practice and training to be able to translate the data and jargon into something a human can understand. Science should be a bridge of understanding, but in our pursuit of efficiency, scientific writing has instead built a wall. Scientific communication ultimately seeks to tear that wall away, and allow people to truly see the world for what it is. Doing so, I believe, will help people learn to care about the world around us.
+
 It is difficult to care about Spilomyia longicornis when you haven’t watched its feet nimbly cling to a goldenrod flower in the wind, haven’t seen it waggle its wings and hold out its forelegs in a quiet lie. “I am a wasp,” it says, waggling its legs like a pair of long, waspish antennae, “I am a wasp, and you should not eat me!”
+
 A remarkable lie, and a beautiful performance, one that is the result of evolutionary processes and selective pressures exerted on these insects over thousands of years. I believe everyone should know about the beautiful world that we live in. Perhaps, using the wonders of language, I can help to bridge that gap. 
 
 
