@@ -14,3 +14,5 @@ The trained unsupervised clustering algorithms, k-Means, DBScan, Autoencoder, gi
 <br/><img src='/images/song_foto.png'>
 
 The musical similarity between recommended song and the playlist.
+
+Check out the [source code](https://github.com/aysintumay/CS464/tree/Project).
