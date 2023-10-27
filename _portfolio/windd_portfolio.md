@@ -12,3 +12,5 @@ A forecasting system for total electric consumption plays a prominent role in th
 <br/><img src='/images/wind_foto.png'>
 
 Prediction and ground truth of wind energy production of Spain with AdaBoost algorithm.
+
+Check out the [source code](https://github.com/aysintumay/EEE485/tree/Project).
