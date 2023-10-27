@@ -18,6 +18,8 @@ A mini collection of songs that have a clean window squeaking sound. Sorted by d
 
 4. [Tokyo Coaster by Ryusenkei from City Music](https://www.youtube.com/watch?v=jjKM5hDGKvc) @3:20
 
+5. [Beleza Pura by Masayoshi Takanaka from Brasilian Skies](https://www.youtube.com/watch?v=ddaHY6z4nXM)
+
 Email me if you know of more.
 
 ### Appendix
@@ -26,4 +28,4 @@ Someone made a [similar collection](https://rateyourmusic.com/list/code_gs/songs
 
 Found these amazing songs by Lil Windex while looking for some additional songs: [Cleanin Up](https://www.youtube.com/watch?v=bMA_iZ7effY), [Bitcoin Ca$h](https://www.youtube.com/watch?v=nAMRFDs9iOs).
 
-A random crazy [song](https://www.youtube.com/watch?v=3vbR2X3sJNs) by Ugly God that uses the iPhone ringtone.
+A random crazy [song](https://www.youtube.com/watch?v=3vbR2X3sJNs) by Ugly God that samples the iPhone ringtone.
