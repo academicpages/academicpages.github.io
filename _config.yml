@@ -11,6 +11,7 @@ title                    : "Samir Rashid"
 title_separator          : "-"
 name                     : &name "Samir Rashid"
 description              : &description "Samir Rashid personal website and blog."
+# change url to "https://localhost:5000" for local development
 url                      : "https://godsped.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Samir-Rashid/Samir-Rashid.github.io"
