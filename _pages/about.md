@@ -20,13 +20,11 @@ Before embarking on my Master's journey, I completed my Bachelor of Science degr
 - Graph Neural Networks
 - Social Network Analysis
 
-Education
-======
+## **Education**:
 * M.S. in Software Engineering, University of Tehran, 2021 - Present
 * B.S. in Electrical Engineering, Amirkabir University of Technology - Tehran Polytechnic, 2016 - 2021
 
-Research Experience
-======
+## **Research Experience**:
 * Research Assistant at Social Network Lab, december 2021 - Present
   * Working on my thesis and also Data mining on X (former Twitter) users for creating a network of users and using Representation Learning and Graph Attention Networks to extract textual and structural features from the network
 
