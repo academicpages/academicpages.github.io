@@ -96,6 +96,10 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 
 ## Preprint
 -----
+* Integrating Graphs with Large Language Models: Methods and Prospects \[[PDF](https://arxiv.org/abs/2310.05499)\]  
+Shirui Pan, Yizhen Zheng, **Yixin Liu**.  
+2023.
+
 * Towards Data-centric Graph Machine Learning: Review and Outlook \[[PDF](https://arxiv.org/abs/2309.10979)\]  
 Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
