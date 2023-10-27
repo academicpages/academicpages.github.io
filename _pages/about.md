@@ -18,3 +18,21 @@ Before embarking on my Master's journey, I completed my Bachelor of Science degr
 - Data Mining
 - Natural Language Processing
 - Graph Neural Networks
+
+Education
+======
+* M.S. in Software Engineering, University of Tehran, 2021 - Present
+* B.S. in Electrical Engineering, Amirkabir University of Technology - Tehran Polytechnic, 2016 - 2021
+
+Research Experience
+======
+* Research Assistant at Social Network Lab, december 2021 - Present
+  * Working on my thesis and also Data mining on X (former Twitter) users
+
+
+* Research Assistant at Computer Intelligence and Large Scale System Research Lab 2020
+  * Working on my Thesis about comparing different Deep RL methods in differential games
+
+  
+
+
