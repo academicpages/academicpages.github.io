@@ -10,7 +10,7 @@ redirect_from:
 
  <!--![github small](/images/JM_profile.jpg) -->
  <!-- <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  -->
-I am a Ph.D. Candidate in Economics at Harvard and a Stone Scholar in Wealth and Income Inequality. My main research interests are in **labor economics** and **economics of innovation**. 
+I am a Ph.D. Candidate in Economics at Harvard and a Stone Scholar in Wealth and Income Inequality. My primary research fields are **labor economics** and **economics of innovation**. 
 
 My current research focuses on the role of firms in identifying talent. In particular, I study how firms' innovation practices affect the labor market outcomes of workers, and the (mis)allocation of labor in the economy. My works rely on a combination of novel datasets, causal inference, and structural methods.  
 
