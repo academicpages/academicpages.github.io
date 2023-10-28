@@ -45,7 +45,7 @@ def apply_gaussian_blur(self):
 ```
 Because gradients play such a huge role in computer vision, it is important we dive a little deeper into the inner workings of them. We use an operator called the Sobel operator to find gradients traditionally (remember gradients is just spatial derirvatives, so rate of change of pixels in an area). Take $G_x$ and $G_y$ as the gradients and $A$ as the original image. 
 
-$$G_x = \begin{bmatrix} +1 & 0 & -1 \\\ +2 & 0 & -2 \\\ +1 & 0 & -1 \end{bmatrix} * A \text{and} G_y = \begin{bmatrix} +1 & +2 & +1 \\\ 0 & 0 & 0 \\\ +1 & +2 & +1 \end{bmatrix} * A $$
+$$G_x = \begin{bmatrix} +1 & 0 & -1 \\\ +2 & 0 & -2 \\\ +1 & 0 & -1 \end{bmatrix} * A$$ and $$G_y = \begin{bmatrix} +1 & +2 & +1 \\\ 0 & 0 & 0 \\\ +1 & +2 & +1 \end{bmatrix} * A $$
 
 ### Structure Tensor Construction
 The Structure Tensor is
