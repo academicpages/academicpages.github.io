@@ -8,9 +8,8 @@ redirect_from:
 ---
 <h1>Overview</h1>
 
-<!--
-![Overview of my research!](/assets/images/san-juan-mountains.jpg "Overview research orientation")
--->
+![Overview of my research!](smf457524513.github.io/images/structure_re.png "Overview research orientation")
+
 <h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
 In order to study the impacts of ACC vehicles on traffic flow characteristics, it is important to have accurate vehicle-level models of ACC dynamics. My research is focused on developing physically-interpretable car following models to accurately describe ACC vehicle dynamics. While many car-following models have been used to simulate adaptive cruise control (ACC) car-following behavior, existing models are simplistic, and use a single continuous function for vehicle acceleration which does not properly describe the true acceleration and braking behavior. These functions may lead to inaccurate and unrealistic analysis results on traffic flow characteristics including highway throughput, fuel consumption and emissions. Therefore, I have
