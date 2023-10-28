@@ -15,7 +15,7 @@ My research interests focus on traffic dynamic modeling, traffic simulations and
 News and Updates
 ======
 * Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
-control vehicles'', at the Fall 2023 <em> CEGE Transportation Seminar</em>, Minneapolis, MN
+control vehicles'', at the Fall 2023 <em>CEGE Transportation Seminar</em>, Minneapolis, MN
 * Sep. 2023: I presented my work ''Capacity implications of personalized adaptive cruise control'' at the <em>2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)</em>, Bilbao, Spain
 * Jun. 2023: I presented my work ''Impacts of mixed autonomy traffic flow with adaptive cruise control vehicles on fuel consumption and emissions'' at the <em>2023 8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)</em>, Nice, France
 * May. 2023: I received the [Matthew J. Huber Award](https://www.cts.umn.edu/education/awards/huber/recipients) from the Center for Transportation Studies (CTS) at the University of Minnesota
