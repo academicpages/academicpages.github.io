@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Cirriculum Vitae"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -33,7 +33,7 @@ Programming Skills
 * Basic Mathematica
   
  
-Extracirricular
+Extracurricular
 ======
 * Co-convener of IISER Mohali's Physics Club
 * Member of citizen research organization Zooniverse
