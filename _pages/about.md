@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 （请在电脑浏览器中打开以浏览全部）  
-<iframe width="560" height="315" src="https://youtu.be/iu4QsRcmD2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=iu4QsRcmD2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ![三方向云纹干涉仪-w550](/images/三方向云纹干涉仪.JPG "三方向云纹干涉仪")
 
