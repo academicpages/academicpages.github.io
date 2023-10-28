@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1>Overview</h1>
 
-![Overview of my research!](images/structure_re.png "Overview research orientation")
+![Overview of my research!](smf457524513.github.io/images/structure_re.png "Overview research orientation")
 
 <h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
