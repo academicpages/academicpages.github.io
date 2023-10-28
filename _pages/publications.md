@@ -28,14 +28,15 @@ Conference Proceedings
 ======
 
 
-4\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
+5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
 
-3\. **Ma K**, He R, Gao M. Design for Product-Service System Innovation of the New Fresh Retail in the Context of Chinese Urban Community. In: Francisco R, editor. *Ergonomics In Design*. USA: AHFE Open Acces (2022). p. 186-193 doi: 10.54941/ahfe1001936. [[link]](https://openaccess.cms-conferences.org/publications/book/978-1-958651-23-0/article/978-1-958651-23-0_24)
+4\. **Ma K**, He R, Gao M. Design for Product-Service System Innovation of the New Fresh Retail in the Context of Chinese Urban Community. In: Francisco R, editor. *Ergonomics In Design*. USA: AHFE Open Acces (2022). p. 186-193 doi: 10.54941/ahfe1001936. [[link]](https://openaccess.cms-conferences.org/publications/book/978-1-958651-23-0/article/978-1-958651-23-0_24)
 
-2\. Jin W, Shan X, **Ma K**. Research on Information Visualization Design for Public Health Security Emergencies. In: Kurosu M, editor. *Human-Computer Interaction. Design and User Experience Case Studies*. Lecture Notes in Computer Science. Cham: Springer International Publishing (2021). p. 325–336 doi: 10.1007/978-3-030-78468-3_22. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-78468-3_22)
+3\. Jin W, Shan X, **Ma K**. Research on Information Visualization Design for Public Health Security Emergencies. In: Kurosu M, editor. *Human-Computer Interaction. Design and User Experience Case Studies*. Lecture Notes in Computer Science. Cham: Springer International Publishing (2021). p. 325–336 doi: 10.1007/978-3-030-78468-3_22. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-78468-3_22)
 
-1\. Gao M, He R, **Ma K**. Describing and Visualizing Sustainable Product-Service System (S.PSS) Applied to Distributed Water-Energy-Food (WEF) Nexus. In: Rebelo F, editor. *Advances in Ergonomics in Design*. Lecture Notes in Networks and Systems. Cham: Springer International Publishing (2021). p. 323–330 doi: 10.1007/978-3-030-79760-7_39. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-79760-7_39)
+2\. Gao M, He R, **Ma K**. Describing and Visualizing Sustainable Product-Service System (S.PSS) Applied to Distributed Water-Energy-Food (WEF) Nexus. In: Rebelo F, editor. *Advances in Ergonomics in Design*. Lecture Notes in Networks and Systems. Cham: Springer International Publishing (2021). p. 323–330 doi: 10.1007/978-3-030-79760-7_39. [[link]](https://link.springer.com/chapter/10.1007/978-3-030-79760-7_39)
 
+1\. He R, Gao M, Vezzoli C, **Ma K**. Designing Sustainable Product-Service Systems Applied to Distributed Economies in Water-Energy-Food Nexus approach. *Cumulus Roma* (2021). p. 3382-3400. [[link]](https://cumulusroma2020.org/proceedings-files/DC(s)_PROCEEDINGS_full_vol2.pdf) 
 
 Patents
 ======
