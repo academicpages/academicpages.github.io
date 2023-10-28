@@ -1,6 +1,8 @@
----
-
+------
+permalink: /Teaching/
 title: "Teaching"
-permalink: /teaching/
+excerpt: "About me"
 author_profile: true
----
+redirect_from: 
+  
+
