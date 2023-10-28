@@ -10,12 +10,19 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Civil, Environmental, and Geo- Engineering at the University of Minnesota, Twin Cities. My research is under the supervision of [Dr. Raphael E. Stern](https://cse.umn.edu/cege/faculty/raphael-stern) at the Transportation Cyber-Physical System (TCPS) Lab. I received an MSc degree in Civil Engineering from the University of Illinois, Urbana-Champaign (UIUC) in 2018 and a BSc degree in Civil Engineering from Southwest Jiaotong University, Chengdu, China, in 2017.
 
-My research interests focus on traffic dynamic modeling, traffic control and optimizations, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1zEryNcz8kpj-5WKyMCHVlqgVwCTx7ENC/view?usp=sharing) for more details. 
+My research interests focus on traffic dynamic modeling, traffic simulations and control, electric vehicles, traffic cyberattacks, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1zEryNcz8kpj-5WKyMCHVlqgVwCTx7ENC/view?usp=sharing) for more details. 
 
-Recent News
+News and Updates
 ======
+* Oct. 2023: I presented the joint work with [Dr. Shian Wang](https://www.shianwang.xyz/), ''Analytical characterization of cyberattacks on adaptive cruise
+control vehicles'', at the Fall 2023 <em> CEGE Transportation Seminar</em>, Minneapolis, MN
+* Sep. 2023: I presented my work ''Capacity implications of personalized adaptive cruise control'' at the <em>2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC)</em>, Bilbao, Spain
+* Jun. 2023: I presented my work ''Impacts of mixed autonomy traffic flow with adaptive cruise control vehicles on fuel consumption and emissions'' at the <em>2023 8th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)</em>, Nice, France
+* May. 2023: I received the [Matthew J. Huber Award](https://www.cts.umn.edu/education/awards/huber/recipients) from the Center for Transportation Studies (CTS) at the University of Minnesota
+* Apr. 2023: I received the [2023-24 Doctoral Dissertation Fellowship](https://grad.umn.edu/news-events/news-overview/2023-2024-doctoral-dissertation-fellows) at the University of Minnesota
+* Jan. 2023:  I presented my work ''Modeling adaptive cruise control vehicle dynamics: A two-condition continuous asymmetric car-following model'' at the <em>2023 Transportation Research Board 102nd Annual Meeting</em>, Washington DC
+  
 
-* Sep. 2023
 
 <!---
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
