@@ -13,9 +13,6 @@ The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted
 
 ## Preprints
 
-- **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
-(To Appear)
-
 - **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
 (To Appear)
@@ -31,6 +28,10 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 ---
 
 ## Conference Proceedings
+
+11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
+IEEE Symposium on Security and Privacy. 2024.\
+(To Appear)
 
 10. **Registered (Inner-Product) Functional Encryption**  
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
