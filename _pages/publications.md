@@ -33,9 +33,9 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 IEEE Symposium on Security and Privacy. 2024.\
 (To Appear)
 
-10. **Registered (Inner-Product) Functional Encryption**  
-Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi
-Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.
+10. **Registered (Inner-Product) Functional Encryption**\ 
+Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
+Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.\
 [https://eprint.iacr.org/2023/395](https://eprint.iacr.org/2023/395)
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
