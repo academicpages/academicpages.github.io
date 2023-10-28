@@ -1,4 +1,4 @@
-------
+---
 permalink: /Teaching/
 title: "Teaching"
 excerpt: "About me"
