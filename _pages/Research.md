@@ -42,7 +42,7 @@ My research is focused on developing physically-interpretable car following mode
 
 * Simulated and conducted model performance comparisons with statistical methods (e.g., F-test) using Matlab
 
-<h2>2. Investigating how commercially available ACC vehicles will impact traffic.</h2>
+<h2>2. Investigating how commercially available ACC vehicles will impact traffic</h2>
 
 Utilizing the accurate microscopic car-following models for ACC vehicles, my research contributes to investigating how commercially available ACC vehicles will impact mixed autonomy traffic with human-piloted vehicles at different market penetration rates.  My contributions include:
 
@@ -52,7 +52,7 @@ Utilizing the accurate microscopic car-following models for ACC vehicles, my res
   
 * Modeled and estimated the impacts of ACC vehicles on fuel consumption and emissions through simulations conducted in MATLAB
 
-<h2>3. Traffic control in the presence of mixed autonomy traffic.</h2>
+<h2>3. Traffic control in the presence of mixed autonomy traffic</h2>
 
 * Modeled and simulated synthetic macroscopic on-ramp traffic flow dynamics for mixed autonomy traffic with MATLAB 
 * Proposed and tested an extended ramp metering control strategy aimed at improving the adaptation of mixed autonomy traffic flow
