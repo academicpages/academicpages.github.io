@@ -41,29 +41,29 @@ on Intelligent Transportation Systems (ITSC)</em>. IEEE, 2023
 on adaptive cruise control vehicles. <em>In 2023 IEEE Intelligent Vehicles Symposium (IV)</em>, pages 1–6. IEEE, 2023. [Online Access.](https://ieeexplore.ieee.org/document/10186730)
 4. M. Shang and R. Stern. Impacts of mixed autonomy traffic flow with adaptive cruise control
 vehicles on fuel consumption and emissions. <em>In 2023 8th International Conference on Models and
-Technologies for Intelligent Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2023. [Online Access.]
-5. M. Shang, S. Wang, and R. Stern. Modeling adaptive cruise control vehicles: A continuous asymmetric car-following perspective. <em>In 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em>, pages 923–928. IEEE, 2022. [Online Access.]
+Technologies for Intelligent Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2023. [Online Access.](https://ieeexplore.ieee.org/document/10241657)
+5. M. Shang, S. Wang, and R. Stern. Modeling adaptive cruise control vehicles: A continuous asymmetric car-following perspective. <em>In 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em>, pages 923–928. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9921792)
 6. S. Wang, M. Shang, M. Levin, and R. Stern. Smoothing nonlinear mixed traffic with autonomous
 vehicles: Control design. <em>In 2022 IEEE 25th International Conference on Intelligent Transportation
-Systems (ITSC)</em>, pages 661–666. IEEE, 2022. [Online Access.]
+Systems (ITSC)</em>, pages 661–666. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9921798)
 7. T. Li, M. Shang, S. Wang, and R. Stern. Detecting stealthy cyberattacks on automated vehi-
 cles via generative adversarial networks. <em>In 2022 IEEE 25th International Conference on Intelligent
-Transportation Systems (ITSC)</em>, pages 3632–3637. IEEE, 2022. [Online Access.]
-8. D. Vrabac, M. Shang, B. Butler, J. Pham, R. Stern, and P. Par ́e. Capturing the effects of
+Transportation Systems (ITSC)</em>, pages 3632–3637. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9922128)
+8. D. Vrabac, M. Shang, B. Butler, J. Pham, R. Stern, and P. Pare. Capturing the effects of
 transportation on the spread of covid-19 with a multi-networked seir model. <em>In 2021 American Control
-Conference (ACC)</em>, pages 3152–3157. IEEE, 2021. [Online Access.]
+Conference (ACC)</em>, pages 3152–3157. IEEE, 2021. [Online Access.](https://ieeexplore.ieee.org/document/9319714)
 9. M. Shang and R. Stern. A hybrid fundamental diagram for modeling mixed human and auto-
 mated traffic flow. <em>In 2021 7th International Conference on Models and Technologies for Intelligent
-Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2021. [Online Access.]
+Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2021. [Online Access.](https://ieeexplore.ieee.org/document/9529330)
 10. M. Shang and R. Stern. Calibrating heterogeneous car-following models for human drivers in
 oscillatory traffic conditions. <em>In 2020 Forum on Integrated and Sustainable Transportation Systems
-(FISTS)</em>, pages 101–106. IEEE, 2020. [Online Access.]
+(FISTS)</em>, pages 101–106. IEEE, 2020. [Online Access.](https://ieeexplore.ieee.org/document/9264843)
 11. M. Shang, F. Hauer, and R. Stern. Do cut-ins matter: Assessing the impact of lane changing and
 string stability on traffic flow. <em>In 2020 IEEE 23rd International Conference on Intelligent Transportation
-Systems (ITSC)</em>, pages 1–6. IEEE, 2020. [Online Access.]
+Systems (ITSC)</em>, pages 1–6. IEEE, 2020. [Online Access.](https://ieeexplore.ieee.org/document/9294587)
 12. R. Benekohal, B. Garshasebi, H. Jeon, and M. Shang. Evaluation of adaptive signal control
 technology-volume 3: Comparison of tbc 2017 and asct 2017. Technical report, Illinois Center for
-Transportation,Illinois Department of Transportation, 2019. [Online Access.]
+Transportation,Illinois Department of Transportation, 2019. [Online Access.](https://rosap.ntl.bts.gov/view/dot/41709)
 
 
 
