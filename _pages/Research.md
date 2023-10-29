@@ -40,8 +40,20 @@ My research is focused on developing physically-interpretable car following mode
 
 * Simulated and conducted model performance comparisons with statistical methods (e.g., F-test) using Matlab
 
+<h2>2. Investigating how commercially available ACC vehicles will impact traffic.</h2>
+
+Utilizing the accurate microscopic car-following models for ACC vehicles, my research contributes to investigating how commercially available ACC vehicles will impact mixed autonomy traffic with human-piloted vehicles at different market penetration rates.  My contributions include:
+
+*	Conducted analytical and numerical string stability analyses by linearizing the nonlinear ODE for mixed traffic consisting of ACC vehicles and human-driven vehicles
+  
+* Utilized Simulation of Urban Mobility (SUMO) for highway capacity analysis and employed the Traffic Control Interface (TraCI) in Python to facilitate the simulations
+  
+* Modeled and estimated the impacts of ACC vehicles on fuel consumption and emissions through simulations conducted in MATLAB
+
+
+<!--
 <em>Related articles:</em>
 1. M. Shang, B. Rosenblad, and R. Stern. A novel asymmetric car following model for driver-assist enabled vehicle dynamics. <em>IEEE Transactions on Intelligent Transportation Systems</em>, 23(9):15696–15706, 2022
 
 2. 
-
+-->
