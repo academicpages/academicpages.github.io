@@ -50,6 +50,11 @@ Utilizing the accurate microscopic car-following models for ACC vehicles, my res
   
 * Modeled and estimated the impacts of ACC vehicles on fuel consumption and emissions through simulations conducted in MATLAB
 
+<h2>3. Traffic control in the presence of mixed autonomy traffic.</h2>
+
+* Modeled and simulated synthetic macroscopic on-ramp traffic flow dynamics for mixed autonomy traffic with MATLAB 
+* Proposed and tested an extended ramp metering control strategy aimed at improving the adaptation of mixed autonomy traffic flow
+* Implemented and simulated the proposed ramp metering strategy on Minnesota highway conjunctions using SUMO
 
 <!--
 <em>Related articles:</em>
