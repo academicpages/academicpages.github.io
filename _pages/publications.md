@@ -46,15 +46,11 @@ Technologies for Intelligent Transportation Systems (MT-ITS)</em>, pages 1–6. 
 6. S. Wang, M. Shang, M. Levin, and R. Stern. Smoothing nonlinear mixed traffic with autonomous
 vehicles: Control design. <em>In 2022 IEEE 25th International Conference on Intelligent Transportation
 Systems (ITSC)</em>, pages 661–666. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9921798)
-7. T. Li, M. Shang, S. Wang, and R. Stern. Detecting stealthy cyberattacks on automated vehi-
-cles via generative adversarial networks. <em>In 2022 IEEE 25th International Conference on Intelligent
-Transportation Systems (ITSC)</em>, pages 3632–3637. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9922128)
+7. T. Li, M. Shang, S. Wang, and R. Stern. Detecting stealthy cyberattacks on automated vehicles via generative adversarial networks. <em>In 2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)</em>, pages 3632–3637. IEEE, 2022. [Online Access.](https://ieeexplore.ieee.org/document/9922128)
 8. D. Vrabac, M. Shang, B. Butler, J. Pham, R. Stern, and P. Pare. Capturing the effects of
 transportation on the spread of covid-19 with a multi-networked seir model. <em>In 2021 American Control
 Conference (ACC)</em>, pages 3152–3157. IEEE, 2021. [Online Access.](https://ieeexplore.ieee.org/document/9319714)
-9. M. Shang and R. Stern. A hybrid fundamental diagram for modeling mixed human and auto-
-mated traffic flow. <em>In 2021 7th International Conference on Models and Technologies for Intelligent
-Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2021. [Online Access.](https://ieeexplore.ieee.org/document/9529330)
+9. M. Shang and R. Stern. A hybrid fundamental diagram for modeling mixed human and automated traffic flow. <em>In 2021 7th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS)</em>, pages 1–6. IEEE, 2021. [Online Access.](https://ieeexplore.ieee.org/document/9529330)
 10. M. Shang and R. Stern. Calibrating heterogeneous car-following models for human drivers in
 oscillatory traffic conditions. <em>In 2020 Forum on Integrated and Sustainable Transportation Systems
 (FISTS)</em>, pages 101–106. IEEE, 2020. [Online Access.](https://ieeexplore.ieee.org/document/9264843)
