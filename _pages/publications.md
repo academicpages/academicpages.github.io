@@ -32,5 +32,13 @@ model and case study in minnesota. <em>Plos One</em>, 16(1):e0245919, 2021. [Onl
 
 <h2>Conference Proceedings</h2>
 
+1. A. Zare, M. Shang, D.. Kan, and R. Stern. Modeling car-following behavior of electric adaptive
+cruise control vehicles using experimental testbed data. In 2023 IEEE 26th International Conference
+on Intelligent Transportation Systems (ITSC). IEEE, 2023
+2. M. Shang, S. Wang, and R. Stern. Capacity implications of personalized adaptive cruise control.
+In 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC). IEEE, 2023
+3. T. Li, B. Rosenblad, S. Wang, M. Shang, and R. Stern. Exploring energy impacts of cyberattacks
+on adaptive cruise control vehicles. In 2023 IEEE Intelligent Vehicles Symposium (IV), pages 1–6. IEEE, 2023. Online Access.
+4. 
 
 
