@@ -18,21 +18,24 @@ Education
 
 Certifications
 ======
-* Cert. in full-stack web development, Georgia Institute of Technology, 2022
+* Certificate in full-stack web development, Georgia Institute of Technology, 2022
 
-Work experience
+Work Experience
 ======
-* May. 2024 - Present: Software Developer intern | Foothills Web Productions
+## Foothills Web Productions ##
+* May 2024 - Present: Software Developer intern 
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
-* Jan. 2024 - Present: IT intern | Mckenney's Inc
+##  Mckenney's Inc ##
+* Jan. 2024 - Present: IT intern
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
-* Nov. 2022 - Dec. 2023: Web Developer| Lynskey Performance
+##  Lynskey Performance ##
+* Nov. 2022 - Dec. 2023: Web Developer 
   * Provided leadership as subject matter expert of application on production, and development - presenting
     technical proposals regarding the transformation of website and received positive feedback
   * Identified and resolved numerous defects found in UI features and components by using chrome developer
@@ -66,9 +69,9 @@ Skills
 Professional Experience 
 ======
 * 6th Grade Social Studies Teacher 
-* Summer Camp Instructor 
-* MAP Instructor 
-* Student Teacher 
-* Student Teacher  
-* Reading Buddy 
+* Summer Camp Instructor, Rising 3rd Graders
+* MAP Instructor (6 - 8)
+* 4th Grade Student Teacher 
+* 6th Grade Student Teacher  
+* 3rd Grade Reading Buddy 
 
