@@ -30,7 +30,7 @@ My Ph.D. research mainly includes three parts: 1) developing high-fidelity and p
 
 Some of my recent works are briefly summarized below.
 
-<h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
+<h2>Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
 
 My research is focused on developing physically-interpretable car following models to accurately describe ACC vehicle dynamics in order to obtain accurate and realistic analysis results on traffic flow characteristics, including stability, highway throughput, fuel consumption and emissions. My contributions include:
@@ -41,7 +41,7 @@ My research is focused on developing physically-interpretable car following mode
 
 * Simulated and conducted model performance comparisons with statistical methods (e.g., F-test) using Matlab
 
-<h2>2. Investigating how commercially available ACC vehicles will impact traffic</h2>
+<h2>Investigating how commercially available ACC vehicles will impact traffic</h2>
 
 Utilizing the accurate microscopic car-following models for ACC vehicles, my research contributes to investigating how commercially available ACC vehicles will impact mixed autonomy traffic with human-piloted vehicles at different market penetration rates.  My contributions include:
 
@@ -51,7 +51,7 @@ Utilizing the accurate microscopic car-following models for ACC vehicles, my res
   
 * Modeled and estimated the impacts of ACC vehicles on fuel consumption and emissions through simulations conducted in MATLAB
 
-<h2>3. Traffic control in the presence of mixed autonomy traffic</h2>
+<h2>Traffic control in the presence of mixed autonomy traffic</h2>
 
 My findings that commercially available ACC vehicles may negatively impact traffic flow motivate me to design next-generation intelligent infrastructure to better adapt to mixed autonomy traffic. My contributions include:
 
