@@ -32,6 +32,8 @@ Some of my recent works are briefly summarized below.
 
 <h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
+![Developing Physically-interpretable Models for Traffic Flow Dynamic](Research1.png)
+
 My research is focused on developing physically-interpretable car following models to accurately describe ACC vehicle dynamics in order to obtain accurate and realistic analysis results on traffic flow characteristics, including stability, highway throughput, fuel consumption and emissions. My contributions include:
 
 *	Developed accurate and physically interpretable microscopic car-following models to capture the asymmetric driving behavior of commercially available ACC vehicles
