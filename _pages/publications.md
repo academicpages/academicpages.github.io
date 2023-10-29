@@ -8,6 +8,7 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=LNfQOIoAAAAJ&hl=en).
 
 <h2>Journal Publications</h2>
+
 1. S. Wang, M. Shang, and R. Stern. Analytical characterization of cyberattacks on adaptive cruise
 control vehicles. <em>IEEE Transactions on Intelligent Transportation Systems</em>, Under Review, 2023
 2. M. Shang, S. Wang, and R. Stern. Extending ramp metering control to mixed autonomy traffic
