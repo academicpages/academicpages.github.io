@@ -26,8 +26,6 @@ on adaptive cruise control vehicles: A machine learning approach. <em>IEEE Trans
 Vehicles</em>, Under Review, 2023
 7. H Jeon, RF Benekohal, B Garshasebi, and M. Shang. Comparison of an adaptive signal system
 to time based coordination plan along a signalized arterial. <em>Advances in Transportation Studies</em>, 56, 2022. Online Access.
-8. M. Shang and R. E Stern. Impacts of commercially available adaptive cruise control vehi-
-cles on highway stability and throughput. <em>Transportation Research Part C: emerging technologies</em>,
-122:102897. Online Access.
+8. M. Shang and R. E Stern. Impacts of commercially available adaptive cruise control vehicles on highway stability and throughput. <em>Transportation Research Part C: emerging technologies</em>,122:102897. Online Access.
 9. M. Levin, M. Shang, and R. Stern. Effects of short-term travel on covid-19 spread: A novel seir
 model and case study in minnesota. <em>Plos One</em>, 16(1):e0245919, 2021
