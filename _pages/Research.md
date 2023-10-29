@@ -1,6 +1,6 @@
 ---
 permalink: /Research/
-title: "Research"
+title: "Research interests"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h1>Overview</h1>
 
-![Overview of my research!](structure_re.png "Overview research orientation")
+![Overview of my research!](structure_re.png)
 
 <h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
