@@ -19,7 +19,7 @@ Theory:
 
 Applications:
 
-* Impacts of vehicle heterogenous driving behavior
+* Impacts of  heterogenous vehicle driving behavior
 
 * Traffic estimation and control
   
