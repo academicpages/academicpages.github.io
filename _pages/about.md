@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-My name is Baileigh Brown and I am a gradute student at Kennesaw State University getting my masters in software engineering. I received my bachelors degree from Gordon State College in Education. As of now I have worked as a web developer, in IT, and software development. Currently I am a informational technology intern at Mckenney's Inc. in Atlanta, Georgia. 
+I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Currently I am a part of Mckenney's ongoing rotational IT co-op in Atlanta, Georgia. I am also working as a software developer intern in Calhoun, Georgia for the summer. 
 

@@ -22,19 +22,19 @@ Certifications
 
 Work Experience
 ======
-## Foothills Web Productions ##
+#### Foothills Web Productions ####
 * May 2024 - Present: Software Developer intern 
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
-##  Mckenney's Inc ##
+####  Mckenney's Inc ####
 * Jan. 2024 - Present: IT intern
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
-##  Lynskey Performance ##
+####  Lynskey Performance ####
 * Nov. 2022 - Dec. 2023: Web Developer 
   * Provided leadership as subject matter expert of application on production, and development - presenting
     technical proposals regarding the transformation of website and received positive feedback
