@@ -6,13 +6,33 @@ author_profile: true
 redirect_from: 
   
 ---
-<h1>Overview</h1>
 
+I am particularly interested in the following open challenges:
+
+Theory: 
+
+* Traffic flow theory
+
+* Control systems
+
+* Optimization
+
+Applications:
+
+* Impacts of vehicle heterogenous driving behavior
+
+* Traffic estimation and control
+  
 ![Overview of my research!](structure_re.png)
+
+My Ph.D. research mainly includes three parts: 1) developing high-fidelity and physically-interpretable models for AVs and human-driven vehicles to accurately describe vehicle dynamics; 2) exploring the impacts of partially automated vehicles on human-piloted traffic flow, including string stability, highway throughput, and fuel consumption and emissions; 3) designing effective traffic control strategies to account for the influences of mixed autonomy traffic in order to build smart cities. Iteratively, the impacts of the regulated traffic flow are re-evaluated, and the infrastructure control strategy is further developed with advanced control approaches.
+
+
+Some of my recent works are briefly summarized below.
 
 <h2>1. Developing Physically-interpretable Models for Traffic Flow Dynamic</h2>
 
-In order to study the impacts of ACC vehicles on traffic flow characteristics, it is important to have accurate vehicle-level models of ACC dynamics. My research is focused on developing physically-interpretable car following models to accurately describe ACC vehicle dynamics. While many car-following models have been used to simulate adaptive cruise control (ACC) car-following behavior, existing models are simplistic, and use a single continuous function for vehicle acceleration which does not properly describe the true acceleration and braking behavior. These functions may lead to inaccurate and unrealistic analysis results on traffic flow characteristics including highway throughput, fuel consumption and emissions. Therefore, I have
+My research is focused on developing physically-interpretable car following models to accurately describe ACC vehicle dynamics in order to obtain accurate and realistic analysis results on traffic flow characteristics, including stability, highway throughput, fuel consumption and emissions. My contributions include:
 
 *	Developed accurate and physically interpretable microscopic car-following models to capture the asymmetric driving behavior of commercially available ACC vehicles
  
