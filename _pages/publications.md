@@ -30,5 +30,7 @@ to time based coordination plan along a signalized arterial. <em>Advances in Tra
 9. M. Levin, M. Shang, and R. Stern. Effects of short-term travel on covid-19 spread: A novel seir
 model and case study in minnesota. <em>Plos One</em>, 16(1):e0245919, 2021. [Online Access.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245919)
 
+<h2>Conference Proceedings</h2>
+
 
 
