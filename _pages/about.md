@@ -17,7 +17,7 @@ My current research focuses on the role of firms in identifying talent. In parti
 <!-- to quantify the impact of employer learning on labor market mobility, wages, and aggregate productivity. --> 
 <!-- In my job market paper, I study asymmetric employer learning in the labor market for computer scientists. I build a dynamic framework to consider firms' endogenous investment in learning under monopsonistic competition, exploit differential timing of innovation disclosure to test for asymmetric employer learning, and quantify its impact on job mobility and innovation productivity via structural estimation. --> 
 
-I am on the 2023-2024 job market. Please find my <a href="/files/AliceWu_CV.pdf" target="block">CV here</a>. <br/> [CV here](/files/AW_CV_2023.pdf), and my job market paper on the <a href="https://www.alicewu.io/research/">research</a> page. <br/>
+I am on the 2023-2024 job market. Please find my <a href="/files/AliceWu_CV.pdf" target="_blank">CV here</a>. <br/> [CV here](/files/AW_CV_2023.pdf), and my job market paper on the <a href="https://www.alicewu.io/research/">research</a> page. <br/>
 
 **References** <br/>
 Larry Katz <lkatz@harvard.edu>, Claudia Goldin <cgoldin@harvard.edu>, <br/>
