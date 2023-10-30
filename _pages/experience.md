@@ -12,7 +12,11 @@ Research Experience
 - Virginia Polytechnic Institute and State University, 2022-2023
   - Research Assistant in vision lab
   - Mentor: Chris Thomas
- 
+
+- Virginia Polytechnic Institute and State University, 2022
+  - Research Assistant in NLP lab
+  - Mentor: Lifu Huang
+
 - National Center for High‑Performance Computing, Summer 2019
   - Research intern
 
