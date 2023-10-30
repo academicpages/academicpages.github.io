@@ -14,5 +14,5 @@ Contact: heojunoh@msu.edu
 
 Recent News 
 ------
-* **Oct 2023:**  I am pleased to announce that our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" won the [INFORMS 2023 Quality, Statistics, and Reliability (QSR) Best Student Paper Competition](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop).
+* **Oct 2023:** I am pleased to announce that our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" won the [INFORMS 2023 Quality, Statistics, and Reliability (QSR) Best Student Paper Competition](https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_celebrating-the-winner-of-the-2023-informs-activity-7120983705677963264-_ETw?utm_source=share&utm_medium=member_desktop).
 * **Oct 2023:** I presented our work "[Active learning for a recursive non-additive emulator for multi-fidelity computer experiments](https://arxiv.org/abs/2309.11772)" at [2023 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/phoenix2023/). 
