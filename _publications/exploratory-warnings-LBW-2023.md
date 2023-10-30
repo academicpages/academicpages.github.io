@@ -7,6 +7,11 @@ date: 2023-04-23
 venue: 'ACM CHI 2023 Late-Breaking Work'
 paperurl: 'https://osf.io/dc69r/download'
 ---
+
+## Authors 
+
+**Laura South**, Caglar Yildirim, Amy Pavel, Michelle Borkin
+
 ## Abstract
 
 Films often include sequences of flashing lights for visual effect that may inadvertently trigger seizures when viewed by individuals with photosensitive epilepsy (PSE). Warnings about photosensitive risk in films can help people with PSE make informed decisions about their personal safety, but little is known about how to design such warnings and what information to include. To better understand the design space for photosensitive risk warnings, we conducted a qualitative analysis of 265 crowdsourced warnings about flashing lights in films. We find that the crowdsourced warnings were tightly coupled to the scenic and temporal contexts of the films being described, unlike current practices for labeling media with potentially seizure-inducing sequences using general warnings that are not specific to the media at hand. As technological capabilities for detecting seizure-inducing sequences continue to improve, understanding how to efectively communicate this information to individuals with photosensitive epilepsy is critical for ensuring accessibility.
