@@ -1,7 +1,6 @@
 ---
 layout: archive
 permalink: /experience/
-title: "Experience"
 author_profile: true
 ---
 
@@ -11,14 +10,14 @@ Research Experience
 
 - Virginia Polytechnic Institute and State University, 2022-2023
   - Research Assistant in vision lab
-  - Supervisor: Chris Thomas
+  - Mentor: Chris Thomas
  
 - National Center for High‑Performance Computing, Summer 2019
   - Research intern
 
 - National Changhua University of Education, 2018-2019
   - Research Assistant
-  - Supervisor: Der-Jiunn Deng
+  - Mentor: Der-Jiunn Deng
 
 Teaching Experience
 ===================
