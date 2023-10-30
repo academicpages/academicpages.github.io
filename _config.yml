@@ -11,9 +11,9 @@ title                    : "daviddhc20120601 / John"
 title_separator          : "-"
 name                     : &name "daviddhc20120601"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://daviddhc20120601.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "daviddhc20120601/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -83,7 +83,7 @@ author:
   name             : "Daviddhc20120601"
   avatar           : "profile.png"
   bio              : "6th grade Computer Science teacher"
-  location         : "Location"
+  location         : "Singapore"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "daviddhc20120601"
   google_plus      :
   keybase          :
   instagram        :
