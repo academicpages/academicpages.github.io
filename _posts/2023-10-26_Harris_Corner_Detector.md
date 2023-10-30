@@ -1,14 +1,15 @@
 ---
-title: "The Harris Corner Detector"
+title: "Implementing the Harris Corner Detector"
 date: 2023-10-26
 permalink: /posts/2023/10/HarrisCorner/
 tags:
   - ComputerVision
   - Corners
+  - Harris Corner Detector
 ---
+# Implementing the Harris Corner Detector
 
-
-# Harris Corner Detector
+##  The Harris Corner Detector
 The Harris Corner Detector is one of the oldest interest point detectors in the toolkit of computer vision. First introduced in the 1988 paper "A Combined Corner and Edge Detector" by Chris Harris and Mike Stephens as an improvement on the Moravec corner algorithm (cite), the algorithm stands as one of the easiest interest point detectors to implement for the aspiring computer vision scienctist. In this blog post, we will implement the algorithm piece by piece to see how it works with parameters. 
 ![dime_building](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/d4be9d33-a4d4-4006-910f-c13c4bdb30e6)
 
