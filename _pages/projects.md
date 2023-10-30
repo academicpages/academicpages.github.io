@@ -9,9 +9,6 @@ Course Projects
 ===============
 
 - **Multimodal vision project**, Spring 2023 [GitHub](https://github.com/ting-chih/CS6804-final-project) [Report](https://ting-chih.github.io/files/6804.pdf)  
-  - Topic: Heterogeneous Graph Network for Multi-page Document Visual Question Answering
-  - Handled multimodal data, and constructed knowledge graphs for multi‑modal contexts to capture data relationships
-  - Employing a GNN powered by T5, analyzed these graphs, resulting in a 53% accuracy
 
 - **Deep learning project**, Spring 2023 [GitHub](https://github.com/ting-chih/CS5814-final-project)  [Report](https://ting-chih.github.io/files/5814.pdf)  
   - Topic: Fine-Grained Image Captioning
