@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Coming soon**
-
 - **MetaSumPerceiver: Multimodal Multi-Document Evidence Summarizer for Fact-Checking**  
 Ting-Chih Chen, Chiawei Tang, and Chris Thomas, EACL2024 In submission
 
