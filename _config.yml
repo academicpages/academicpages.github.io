@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "老板名字"
-  avatar           : " 1.png "#"老板照片"
+  avatar           : "1.png"
   bio              : "老板个人简介，教职，学位"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "老板邮箱"
 
