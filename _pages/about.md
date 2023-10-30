@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/). I am very fortunate to be advised by Prof. [Chih-Li Sung](https://chihli.github.io). My current research interests include **computer experiment, uncertainty quantification, and multi-fidelity simulation** in the field of **industrial/engineering statistics**. 
+I am a Ph.D. student in the [Department of Statistics and Probability](https://stt.natsci.msu.edu/) at [Michigan State University](https://msu.edu/) and very fortunate to be advised by Prof. [Chih-Li Sung](https://chihli.github.io). My current research interests include **computer experiment, uncertainty quantification, and multi-fidelity simulation** in the field of **industrial/engineering statistics**. 
 
 Contact: heojunoh@msu.edu
 
