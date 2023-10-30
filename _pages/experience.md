@@ -23,6 +23,6 @@ Research Experience
 Teaching Experience
 ===================
   
-- Virginia Tech
+- Virginia Polytechnic Institute and State University  
   - CS5024 Ethics and Professionalism in Computer Science, Spring 2023
   - CS3114 Data Structures and Algorithms, Fall 2022
