@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>09/2023: Our paper <a href="https://openreview.net/pdf?id=2FMJtNDLeE">A General Theory of Correct, Incorrect, and Extrinsic Equivariance</a> is accepted at NeurIPS 2023.</li>
+  <li>09/2023: Our paper <a href="https://arxiv.org/pdf/2303.04745.pdf">A General Theory of Correct, Incorrect, and Extrinsic Equivariance</a> is accepted at NeurIPS 2023.</li>
   <li>07/2023: Recording of our <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
   <li>06/2023: I am honored to receive the <a href="https://www.jpmorgan.com/technology/artificial-intelligence/research-awards/phd-fellowship-2023">2023 JP Morgan Chase PhD Fellowship</a>!</li>
   <li>04/2023: I give a guest lecture, <a href="https://www.youtube.com/watch?v=dx5rDtdv7LM">Equivariant Learning for Robotic Manipulation</a>. The lecture summarizes our latest research, so be sure to check it out!</li>
@@ -129,7 +129,7 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt
 **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
 **Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
 *NeurIPS 2023, New Orleans, Louisiana, USA*  
-<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=2FMJtNDLeE','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
 <br>
 
 ![](images/hai_corl23.png){: .align-right width="200px"}
