@@ -55,5 +55,13 @@ The Structure Tensor, or the second-moment matrix, is a matrix consisting of the
 
 $$ M = \Sigma_{(x, y) \in W} \begin{bmatrix} I^2_x & I_xI_y \\\ I_xI_y & I^2_y \end{bmatrix} $$
 
-where Ix and Iy are the previous found image gradients and W is the neighborhood of the pixel we are looking. 
+where Ix and Iy are the previous found image gradients and W is the neighborhood of the pixel we are looking. The Structure Tensor is powerful because we now have the gradients at every position in x and y as a lookup table. We will be using this look up table in the next step to calculate the Harris response 
 
+### Calculating the Harris Response
+
+$$ \lambda_{min} \approx \frac{\lambda_{1}\lambda_{2}}_{(\lambda_{1} + \lambda_{2})} $$
+
+### Non-Maximal Supression
+
+
+### More examples / Abalation Study
