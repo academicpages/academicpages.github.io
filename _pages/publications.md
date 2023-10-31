@@ -11,21 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>International Journals (1)</h1>
+<h1>International Journals </h1>
 ------
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'international_journal' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-------
-
-<br>
-<br>
-<h1>Domestic Journals</h1>
-------
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'domestic_journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
@@ -42,6 +31,19 @@ author_profile: true
 {% endfor %}
 ------
 
+
+<br>
+<br>
+<h1>Domestic Journals</h1>
+------
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'domestic_journal' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+------
+
+
 <br>
 <br>
 <h1>Domestic Conferences</h1>
@@ -52,6 +54,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 ------
+
 
 <br>
 <br>
