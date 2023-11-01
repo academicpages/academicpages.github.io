@@ -158,15 +158,47 @@ Awards
 Projects and Research
 ======
 * 2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation
+  
+  <div style="text-align: justify">
+    The purpose of this research is to enhance the ability of prosthetic arms to recognize and grasp objects by incorporating vision information. The   
+    DenseFusion and BB8 algorithms are utilized as the methods for achieving this goal. A significant benefit of this project lies in the crucial role of pose 
+    estimation, which facilitates effective object grasping from the surrounding environment. The research is conducted in collaboration with Bolutife Atoki, 
+    under the supervision of Professor Jenny Benois-pineau. By engaging in this project, participants have the opportunity to develop skills in deep learning. 
+    As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future.
+  </div>
+  
   * [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
 _____________________________________________________________________________________ 
+
 * 2023, 3D Reconstruction of an Object/Scene with Camera Calibration and Feature Matching
   
+  <div style="text-align: justify">
+    In this project, I have worked on reconstructing 3D objects and scenes by utilizing camera calibration and feature-matching techniques. This is a cutting- 
+     edge application of computer vision, which has a wide range of potential applications in fields like augmented reality, archaeology, and robotics
+  </div>
+  
 * 2023, Computer Vision Projects in Object Detection and Tracking
+  
+  <div style="text-align: justify">
+    This research project, conducted in 2023 as part of a video sequence analysis course, focuses on the realm of computer vision with an emphasis on object 
+    detection and tracking. It delves into state-of-the-art methods for identifying and monitoring objects within video data. My experience involves applying 
+    techniques such as particle filters, Kalman filters, and video segmentation, directly relevant to enhancing object tracking capabilities. The outcomes of 
+    this research have potential applications in diverse fields, including surveillance and autonomous vehicles.
+  </div>
   
 * 2023, Advanced Projects in People Detection and Biometric Recognition
   
 * 2023, Multi-Database Evaluation and Enhancement of DeepFake Detection Systems
+  
+  <div style="text-align: justify">
+    Its part of People Detection and Biometric Recognition course in 2023, I gained hands-on experience in several critical areas. This included using YOLOv5 
+     for people detection, which is crucial for surveillance and tracking. I also learned signature recognition, enabling me to analyze handwritten signatures 
+     for document verification. Face recognition was another highlight, allowing me to identify individuals based on facial features, valuable for security 
+    and access control. Additionally, I acquired skills in deepfake recognition, an essential tool in detecting manipulated media. Finally, I worked in 
+    biometric data recognition, encompassing fingerprint, iris, and voice recognition, providing knowledge for secure authentication and identification 
+    systems. This comprehensive training has equipped me with practical expertise applicable in various industries, from law enforcement to digital security 
+     and authentication technologies.
+  </div>
   
   * [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
 ____________________________________________________________________    
