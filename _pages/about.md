@@ -49,11 +49,6 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 **The Chinese University of HongKong, ShenZhen**(2023.08- NOW)
 - **Visit Student & Research Assistant**
 
-   
-   
-
-
-
 # News
 - \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by [Prof. Xiaoguang Han](https://gaplab.cuhk.edu.cn/). My research interets and fields are AIGC and 3D generation.
 - \[2023.04\] Our work about "knowledge graph construction and fusion" is accepted "ICALT 2023" and receives the Best Paper Award Nomination.
@@ -70,4 +65,8 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 - **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
 - Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**
 
-
+<br />
+<div style="text-align: center; line-height: 100px">
+<a href='https://mapmyvisitors.com/web/1bvid'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=tt&d=3KEu4KmxOhIyfIq3zK8T6jLZaHbNmayIMRTv0sjMM7U'/></a>
+</div>
+<br />
