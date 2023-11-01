@@ -14,8 +14,7 @@ Research Experience
   - Mentor: Chris Thomas
 
 - Virginia Polytechnic Institute and State University, 2022
-  - Research Assistant in NLP lab
-  - Mentor: Lifu Huang
+  - Research Assistant in NLP lab  
 
 - National Center for High‑Performance Computing, Summer 2019
   - Research intern
