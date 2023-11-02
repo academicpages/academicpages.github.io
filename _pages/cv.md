@@ -135,6 +135,77 @@ Skills, Tools, and Libraries
       <span style="color: white;">Latex</span> 
     </div>
   </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/anaconda.png" alt="Anaconda" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Anaconda</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/vscode.png" alt="VScode" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VS Code</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/colab.png" alt="Colab" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Colab</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/jupyter.png" alt="Jupyter" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Jupyter</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/git.png" alt="Git" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Git</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/matplotlib.png" alt="Matplotlib" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Matplotlib</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/numpy.png" alt="Numpy" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Numpy</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pandas.png" alt="Pandas" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pandas</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pillow.png" alt="Pillow" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pillow</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/skimage.png" alt="Skimage" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Skimage</span> 
+    </div>
+  </div>
   <br><br>
 </div>
 
