@@ -55,8 +55,11 @@ Skills, Tools, and Libraries
 * Simulator Sofwares Skill
    * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
 * Operating System
-   * Microsoft Windows, Ubuntu, Linux, CentOS, Kali Linux  
-* Some of the Programming languages, tools and libraries 
+   * Microsoft Windows, Ubuntu, Linux, CentOS, Kali Linux
+
+Programming Languages
+======
+
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 35px;">
@@ -79,6 +82,13 @@ Skills, Tools, and Libraries
       <span style="color: white;">MATLAB</span>
     </div>
   </div>
+  <br><br>
+</div>
+
+Libraries
+======
+
+<div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/keras.jpeg" alt="Keras" style="width: 35px;">
     <br>
@@ -128,6 +138,49 @@ Skills, Tools, and Libraries
       <span style="color: white;">SAP ERP</span>
     </div>
   </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/matplotlib.png" alt="Matplotlib" style="width: 50px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Matplotlib</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/numpy.png" alt="Numpy" style="width: 50px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Numpy</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pandas.png" alt="Pandas" style="width: 50px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pandas</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pillow.png" alt="Pillow" style="width: 50px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pillow</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/skimage.png" alt="Skimage" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Skimage</span> 
+    </div>
+  </div>
+  <br><br>
+</div>
+
+Tools
+======
+
+<div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/latex.png" alt="SAP ERP" style="width: 55px;">
     <br>
@@ -169,41 +222,6 @@ Skills, Tools, and Libraries
     <br>
     <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Git</span> 
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/matplotlib.png" alt="Matplotlib" style="width: 50px;">
-    <br>
-    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Matplotlib</span> 
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/numpy.png" alt="Numpy" style="width: 50px;">
-    <br>
-    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Numpy</span> 
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/pandas.png" alt="Pandas" style="width: 50px;">
-    <br>
-    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Pandas</span> 
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/pillow.png" alt="Pillow" style="width: 50px;">
-    <br>
-    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Pillow</span> 
-    </div>
-  </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/skimage.png" alt="Skimage" style="width: 50px;">
-    <br>
-    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Skimage</span> 
     </div>
   </div>
   <br><br>
