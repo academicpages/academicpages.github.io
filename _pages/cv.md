@@ -131,13 +131,6 @@ Libraries
       <span style="color: white;">PyTorch</span>
     </div>
   </div>
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/sap.png" alt="SAP ERP" style="width: 50px;">
-    <br>
-    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">SAP ERP</span>
-    </div>
-  </div>
   
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/matplotlib.png" alt="Matplotlib" style="width: 50px;">
@@ -222,6 +215,14 @@ Tools
     <br>
     <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Git</span> 
+    </div>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 50px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">SAP ERP</span>
     </div>
   </div>
   <br><br>
@@ -391,7 +392,7 @@ Organizational and Voluntary Work
 
   
 
-Studied, and worked in
+Lived, Studied, and worked in
 ======
 
 <div style="text-align: center;">
@@ -400,6 +401,14 @@ Studied, and worked in
     <br>
     <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
       <span style="color: #16537e;">France</span>
+    </div>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/Germany.png" alt="Germany" style="width: 60px;">
+    <br>
+    <div style="background-color: #ffffff; padding: 5px; border-radius: 5px;">
+      <span style="color: #16537e;">Germany</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
