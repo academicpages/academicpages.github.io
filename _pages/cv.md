@@ -241,6 +241,14 @@ Tools
       <span style="color: white;">SAP ERP</span>
     </div>
   </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/opti.png" alt="OptiSystem" style="width: 50px;">
+    <br>
+    <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">OptiSystem</span>
+    </div>
+  </div>
   <br><br>
 </div>
 
