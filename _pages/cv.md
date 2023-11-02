@@ -82,6 +82,22 @@ Programming Languages
       <span style="color: white;">MATLAB</span>
     </div>
   </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/vhdl.jpg" alt="VHDL" style="width: 35px;">
+    <br>
+    <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VHDL</span>
+    </div>
+  </div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/vba.png" alt="VBA" style="width: 35px;">
+    <br>
+    <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VBA</span>
+    </div>
+  </div>
   <br><br>
 </div>
 
