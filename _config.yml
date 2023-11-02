@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xueyi Wang / Mr"
+title                    : "Xueyi Wang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
