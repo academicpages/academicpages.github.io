@@ -66,81 +66,234 @@ Thank you for visiting my page, and feel free to contact me for any further info
       <span style="color: white;">BDU</span>
     </div>
   </div>
+
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/c++.png" alt="C++" style="width: 30px;">
+      <img src="/images/c++.png" alt="C++" style="width: 35px;">
+      <br>
+      <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">C++</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/python.png" alt="Python" style="width: 35px;">
+      <br>
+      <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">Python</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/matlab.png" alt="MATLAB" style="width: 35px;">
+      <br>
+      <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">MATLAB</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/keras.jpeg" alt="Keras" style="width: 35px;">
+      <br>
+      <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">Keras</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/open.png" alt="OpenCV" style="width: 35px;">
+      <br>
+      <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">OpenCV</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/tensor.png" alt="TensorFlow" style="width: 35px;">
+      <br>
+      <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">TensorFlow</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/pcl.png" alt="PCL" style="width: 35px;">
+      <br>
+      <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">PCL</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/scikit.png" alt="sci-kit-learn" style="width: 50px;">
+      <br>
+      <div style="background-color: #c0392b; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">scikit-learn</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/pytorch.png" alt="PyTorch" style="width: 50px;">
+      <br>
+      <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">PyTorch</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/sap.png" alt="SAP ERP" style="width: 50px;">
+      <br>
+      <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">SAP ERP</span>
+      </div>
+    </div>
+    <div style="display: inline-block; margin-right: 10px;">
+      <img src="/images/latex.png" alt="SAP ERP" style="width: 55px;">
+      <br>
+      <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+        <span style="color: white;">Latex</span> 
+      </div>
+    </div>
+    
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/c++.png" alt="C++" style="width: 35px;">
     <br>
     <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">C++</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/python.png" alt="Python" style="width: 30px;">
+    <img src="/images/python.png" alt="Python" style="width: 35px;">
     <br>
     <div style="background-color: #e74c3c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Python</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/matlab.png" alt="MATLAB" style="width: 30px;">
+    <img src="/images/matlab.png" alt="MATLAB" style="width: 35px;">
     <br>
     <div style="background-color: #1abc9c; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">MATLAB</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/keras.jpeg" alt="Keras" style="width: 30px;">
+    <img src="/images/keras.jpeg" alt="Keras" style="width: 35px;">
     <br>
     <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">Keras</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/open.png" alt="OpenCV" style="width: 30px;">
+    <img src="/images/open.png" alt="OpenCV" style="width: 35px;">
     <br>
     <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">OpenCV</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/tensor.png" alt="TensorFlow" style="width: 30px;">
+    <img src="/images/tensor.png" alt="TensorFlow" style="width: 35px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">TensorFlow</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/pcl.png" alt="PCL" style="width: 30px;">
+    <img src="/images/pcl.png" alt="PCL" style="width: 35px;">
     <br>
     <div style="background-color: #2ecc71; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">PCL</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/scikit.png" alt="sci-kit-learn" style="width: 45px;">
+    <img src="/images/scikit.png" alt="sci-kit-learn" style="width: 50px;">
     <br>
     <div style="background-color: #c0392b; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">scikit-learn</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/pytorch.png" alt="PyTorch" style="width: 45px;">
+    <img src="/images/pytorch.png" alt="PyTorch" style="width: 50px;">
     <br>
     <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">PyTorch</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/sap.png" alt="SAP ERP" style="width: 45px;">
+    <img src="/images/sap.png" alt="SAP ERP" style="width: 50px;">
     <br>
     <div style="background-color: #34495e; padding: 5px; border-radius: 5px; margin-top: 10px;">
       <span style="color: white;">SAP ERP</span>
     </div>
   </div>
   <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/latex.png" alt="SAP ERP" style="width: 50px;">
+    <img src="/images/latex.png" alt="SAP ERP" style="width: 55px;">
     <br>
     <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">Latex</span>
+      <span style="color: white;">Latex</span> 
     </div>
   </div>
-</div>
+  
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/anaconda.png" alt="Anaconda" style="width: 50px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Anaconda</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/vscode.png" alt="VScode" style="width: 50px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">VS Code</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/colab.png" alt="Colab" style="width: 50px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Colab</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/jupyter.png" alt="Jupyter" style="width: 50px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Jupyter</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/git.png" alt="Git" style="width: 50px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Git</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/matplotlib.png" alt="Matplotlib" style="width: 50px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Matplotlib</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/numpy.png" alt="Numpy" style="width: 50px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Numpy</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pandas.png" alt="Pandas" style="width: 50px;">
+    <br>
+    <div style="background-color: #8e44ad; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pandas</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/pillow.png" alt="Pillow" style="width: 50px;">
+    <br>
+    <div style="background-color: #3498db; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Pillow</span> 
+    </div>
+  </div>
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/skimage.png" alt="Skimage" style="width: 50px;">
+    <br>
+    <div style="background-color: #f39c12; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">Skimage</span> 
+    </div>
+  </div>
+  <br><br>
+
+
+ </div>
