@@ -59,7 +59,3 @@ Courses
 ======
 * see my B.S. transcripts [here](http://chenmufeng0119.github.io/files/B.S.Transcript.pdf)
 * see my M.S. transcripts [here](http://chenmufeng0119.github.io/files/M.S.Transcript.pdf)
-
-CV
-======
-Download my CV [here](http://chenmufeng0119.github.io/files/cv.pdf)
