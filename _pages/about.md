@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to Pengyu Cheng's homepage!
 
-I am currently a senior researcher at Tencent AI Lab, primely working on dialogue systems and controllable text generation. I also have a broad interest in probabilistic machine learning methods.
+I am currently a senior researcher at Tencent AI Lab, primely working on LLM training, dialogue systems, and text generation. I also have a broad interest in probabilistic machine learning methods.
 
 I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
 
@@ -17,6 +17,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 | | | | | |
 |-----:|-----|:-------|:-----|----|
+|Preprint|<image src="/imaegs/fig_DSP.png" width="400" height="225">| [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)| **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du|
 |Preprint|<image src="/images/Fig_RLM.png"  width ="400" height = "225">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
 |ICLR| <image src="/images/fig_FairFIL.png"  width="400" height="225"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
 |ICLR| <image src="/images/fig_IDEVC.png"  width="400" height="225"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|

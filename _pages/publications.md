@@ -7,6 +7,10 @@ author_profile: true
 
 ## Preprints:
 
+3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
+
+2. J. Xie, **P. Cheng**, X. Liang, Y. Dai, N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), 2023
+
 1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
 
 ## Conference Papers:
