@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Kingston, ON, Canada"
 ---
 
-Course Web Page: [ELEC474](https://www.ece.queensu.ca/undergraduate/courses/elec-474)
+Course Web Page: [ELEC474](https://smithengineering.queensu.ca/ece/undergraduate/courses/elec-474.html)

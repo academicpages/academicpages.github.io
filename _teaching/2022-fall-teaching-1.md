@@ -8,5 +8,5 @@ date: 2022-09-01
 location: "Kingston, ON, Canada"
 ---
 
-Course Web Page: [APSC143](https://calendar.engineering.queensu.ca/preview_course_nopop.php?catoid=7&coid=4144)
+Course Web Page: [APSC143](https://www.queensu.ca/academic-calendar/search/?P=APSC%20143)
 
