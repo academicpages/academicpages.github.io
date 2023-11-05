@@ -1,20 +1,38 @@
 ---
 title: 'A Simpler Alternative to X-Learner for Uplift Modeling'
-date: 2013-01-15
+date: 2023-01-15
 permalink: /posts/2013/01/simple-x-learner
+asset_path: /images/2023-01-15-simple-x-learner/
+excerpt: A guide to the simplified X-learner approach for Uplift modeling
 tags:
   - causal_inference
   - machine_learning
 ---
 
-Meta-learners like S-Learner, T-Learner, and X-Learner are some of the most widely used approaches for Uplift modeling. When teaching about these approaches, I find that students often find the X-learner model somewhat confusing to understand. In this post, I describe a modified approach I call simplified X-learner (Xs-learner) that is easier to understand, faster to implement, and in my experience often works as well or better in practice.
-Uplift Modeling
-A/B testing is a common method used at tech companies to make informed decisions. For example, imagine you want to send out a coupon to users and you want to know how much it will increase the chances of them completing their first order with your service. By running an A/B test, you can determine on average how effective the coupon is. However, you may also want to know which users the coupon will help you generate higher profits and which users the coupon will cause you to lose money.
-Uplift modeling is a technique that lets us go beyond learning the average effect of a treatment and instead helps us understand how the effect of the treatment varies across your users. This allows us to more efficiently decide which treatment to send to each user.
-Meta-learners
-Some of the most common approaches for solving uplift problems are known as meta-learners, because they are ways to take existing supervised learning algorithms and using their predictions in order to make estimates of the treatment effect for each user.
-I'll be demonstrating each of these approaches using a dataset from Lenta, a large Russian grocery store that sent out text messages to their users and saw whether it would increase their probability of making a purchase.
-In each of the examples I will be using the following notation:
+Meta-learners like S-Learner, T-Learner, and X-Learner are some of the most
+widely used approaches for Uplift modeling. When teaching about these
+approaches, I find that students often find the X-learner model somewhat
+confusing to understand. In this post, I describe a modified approach I call
+simplified X-learner (Xs-learner) that is easier to understand, faster to
+implement, and in my experience often works as well or better in practice.
+Uplift Modeling A/B testing is a common method used at tech companies to make
+informed decisions. For example, imagine you want to send out a coupon to users
+and you want to know how much it will increase the chances of them completing
+their first order with your service. By running an A/B test, you can determine
+on average how effective the coupon is. However, you may also want to know which
+users the coupon will help you generate higher profits and which users the
+coupon will cause you to lose money.  Uplift modeling is a technique that lets
+us go beyond learning the average effect of a treatment and instead helps us
+understand how the effect of the treatment varies across your users. This allows
+us to more efficiently decide which treatment to send to each user.
+Meta-learners Some of the most common approaches for solving uplift problems are
+known as meta-learners, because they are ways to take existing supervised
+learning algorithms and using their predictions in order to make estimates of
+the treatment effect for each user.  I'll be demonstrating each of these
+approaches using a dataset from Lenta, a large Russian grocery store that sent
+out text messages to their users and saw whether it would increase their
+probability of making a purchase.  In each of the examples I will be using the
+following notation:
 
 - Y: Did the user make a purchase (the outcome variable)
 - T: Did the user receive a text message(the treatment variable)
@@ -35,7 +53,9 @@ from numpy.random import default_rng
 rng = default_rng()
 ```
 
-We'll use the sklift package, which has a useful function that helps download the data for the Lenta uplift experiment and do some basic processing of the data.
+We'll use the sklift package, which has a useful function that helps download
+the data for the Lenta uplift experiment and do some basic processing of the
+data.
 
 ```python
 data = fetch_lenta()
@@ -56,8 +76,17 @@ df_train, df_test = train_test_split(df, test_size=0.3, random_state=42)
 
 # S-Learner
 
-S-learner is the simplest and easiest to understand of these approaches. With S-learner you fit a single machine learning model using all of your data, with the treatment variable (did you get a text message) as one of the features. You can then use this model to predict "what would happen if the user got the text" and "what would happen if the user did not get the text". The difference between these two predictions is your estimate of the treatment effect of the text message on the user.
-In all my examples, I use XGBoost as a simple and effective baseline ML model that is fast to train and generally works well on many problems. In any real world problem you should be testing more than one type of model and should be doing cross validation to find hyperparameters that work well for your particular problem.
+S-learner is the simplest and easiest to understand of these approaches. With
+S-learner you fit a single machine learning model using all of your data, with
+the treatment variable (did you get a text message) as one of the features. You
+can then use this model to predict "what would happen if the user got the text"
+and "what would happen if the user did not get the text". The difference between
+these two predictions is your estimate of the treatment effect of the text
+message on the user.  In all my examples, I use XGBoost as a simple and
+effective baseline ML model that is fast to train and generally works well on
+many problems. In any real world problem you should be testing more than one
+type of model and should be doing cross validation to find hyperparameters that
+work well for your particular problem.
 
 ```python
 slearner = XGBClassifier()
@@ -69,7 +98,7 @@ slearner_te = slearner.predict_proba(df_test[X].assign(**{T: 1}))[:, 1] \
             - slearner.predict_proba(df_test[X].assign(**{T: 0}))[:, 1]
 ```
 
-![S-learner treatment effect distribution](content/x-learner-s.webp)
+![S-learner treatment effect distribution]({{ page.asset_path }}x-learner-s.webp)
 
 # T-learner
 
@@ -95,7 +124,7 @@ tlearner_te = tlearner_1.predict_proba[df_test[X]](:, 1) \
             - tlearner_0.predict_proba[df_test[X]](:, 1)
 ```
 
-![T-learner treatment effect distribution](content/x-learner-t.webp)
+![T-learner treatment effect distribution]({{ page.asset_path }}x-learner-t.webp)
 
 # Simplified X-learner (Xs-learner)
 
@@ -138,7 +167,7 @@ xlearner_combined.fit(
 xlearner_simple_te = xlearner_combined.predict(df_test[X])
 ```
 
-![Xs-learner treatment effect distribution](content/x-learner-xs.webp)
+![Xs-learner treatment effect distribution]({{ page.asset_path }}x-learner-xs.webp)
 
 # Full X-learner
 
@@ -166,7 +195,7 @@ xlearner_propensities = xlearner_propensity.predict_proba[df_test[X]](:, 1)
 xlearner_te = xlearner_propensities *xlearner_te_model_0_te + (1 - xlearner_propensities)* xlearner_te_model_1_te
 ```
 
-![X-learner treatment effect distribution](content/x-learner-x.webp)
+![X-learner treatment effect distribution]({{ page.asset_path }}x-learner-x.webp)
 
 # Comparing the Results
 
@@ -183,7 +212,7 @@ plot_qini_short(xlearner_te, 'Xlearner', 'green', 'solid')
 ax.legend(loc='lower right');
 ```
 
-![uplift curve](content/uplift.webp)
+![uplift curve]({{ page.asset_path }}uplift.webp)
 
 For this particular dataset, the simplified X-Learner had the best overall performance.
 We shouldn't draw any strong conclusions about the relative performance of difference algorithms from this single example. In my experience, which algorithm works best varies a lot depending on the specific problem you are working on. However, I do think that this example demonstrates that the simplified X-Learner (Xs-learner) is one more approach worth considering when working on Uplift problems.
