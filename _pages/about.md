@@ -8,15 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Lecturer in the [Department of Economics](https://www.strath.ac.uk/business/economics/) at the University of Strathclyde. 
-My research focuses on developing novel econometric methods for the efficient use of big data in macroeconomics. In particular, I combine modeling techniques from the machine learning and Bayesian learning literature with multivariate time series models that macroeconomists commonly work with (e.g., vector autoregressions). My work has been published in the *Journal of Business & Economic Statistics*, the *Journal of Applied Econometrics*, the *Journal of International Money & Finance* and the *Scandinavian Journal of Economics*, among others.
+I am a Postdocural Researcher in the [Department of Computer Science](https://research.cs.aalto.fi/pml/) under Prof. Aki Vehtari at Aalto University. I have finished my PhD recently at Heriot-Watt University where my thesis has been nominated for the MacFarlane prize (ongoing).
+My research focuses on developing novel econometric and statistical methods for safe modelling of big data in macroeconomics and finance. In particular, I combine modeling techniques from the machine learning and Bayesian learning literature for interpretable and scalable time-series and quantile regression analysis. My work has been published in the *International Journal of Forecasting*, the *Journal of the Royal Statistical Society* and the *Studies of Computational Intelligence* as well as in working paper series of policy policy instituitions such as the Bank of England and the National Institute of Economic and Social Research.
   
-I am principal investigator of the project [*“Non-parametric volatility modeling in macroeconomics and finance”*](https://nhauzenb.github.io/portfolio/oenb-1-npvola/) (ID. 18763). The main objective of this project – funded by the Anniversary Fund of the Austrian Central Bank (OeNB) – is to develop techniques that can flexibly handle heteroskedasticity in macroeconomic and financial time series.
+My research interestest cover broadly Bayesian Statistics and their application in social science research. I've had the opportunity of applying my work as a PhD researcher at the Bank of England.
 
-I have actively participated in knowledge exchange, providing scientific consultancy services to the Joint Research Centre (JRC) Ispra of the European Commission, the Austrian Central Bank (OeNB), and the International Institute for Applied Systems Analysis (IIASA). My typical scope of activities in this context is to tailor econometric methods to the needs of policy institutions and central banks.
-
-
-
+I am a reviewer for several journals including *International Journal of Forecasting*, *Electronic Journal of Statistics* and *Statistica Sinica*, among many more. 
 
 [CV](https://www.dropbox.com/scl/fi/iin612i4ff128k80r19pz/NH_CV_Sep2023.pdf?rlkey=rym54y5b40f64rovou7qga7kg&dl=0) 
 ======
