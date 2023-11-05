@@ -85,7 +85,7 @@ author:
   bio              : "no query left behind."
   location         : "Web"
   employer         : "Red Cedar Technology"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :
   email            : "colburnsanders@gmail.com"
   researchgate     :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "colburn-sanders"
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/8289220/colburn"
+  stackoverflow    : "colburn"
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/whocolburn"
+  twitter          : "whocolburn"
   vine             :
   weibo            :
   xing             :
