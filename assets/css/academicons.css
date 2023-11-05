@@ -160,10 +160,10 @@
 .ai-overleaf-square:before {
   content: "\e845";
 }
-.ai-philpapers:before {
+.ai-philpublics:before {
   content: "\e846";
 }
-.ai-philpapers-square:before {
+.ai-philpublics-square:before {
   content: "\e847";
 }
 .ai-piazza:before {
@@ -326,7 +326,17 @@
   margin-left: .3em;
 }
 
-.paper-box {
+.public-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0 2em 0htm
+}
+
+.public-box {
   display: flex;
   justify-content: left;
   align-items: center;
@@ -336,30 +346,34 @@
   padding: 2em 0 2em 0
 }
 
-.paper-box {
-  display: flex;
-  justify-content: left;
-  align-items: center;
-  flex-direction: row;
-  flex-wrap: wrap;
-  border-bottom: 1px #efefef solid;
-  padding: 2em 0 2em 0
-}
-
-.paper-box .paper-box-image {
+.public-box .public-box-image {
   justify-content: center;
   display: flex;
   width: 100%;
   order: 2
 }
 
-.paper-box .paper-box-image img {
-  max-width: 400px;
+.public-box .public-box-image img {
   box-shadow: 3px 3px 6px #888;
   object-fit: cover
 }
 
-.paper-box .paper-box-text {
+.public-box .public-box-text {
   max-width: 100%;
   order: 1
+}
+
+@media (min-width: 48em) {
+  .public-box .public-box-image {
+      justify-content:left;
+      max-width: 50%;
+      order: 1
+  }
+
+  .public-box .public-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 50%;
+      order: 2
+  }
 }
