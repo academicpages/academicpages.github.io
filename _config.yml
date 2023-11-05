@@ -84,8 +84,8 @@ author:
   avatar           : "colburn.jpg"
   bio              : "no query left behind."
   location         : "Web"
-  employer         : "Red Cedar Technology"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "GovTech"
+  pubmed           :
   googlescholar    :
   email            : "colburnsanders@gmail.com"
   researchgate     :
@@ -106,7 +106,7 @@ author:
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "colburn"
+  stackoverflow    : "8289220/colburn"
   steam            :
   tumblr           :
   twitter          : "whocolburn"
