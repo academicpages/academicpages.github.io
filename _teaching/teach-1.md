@@ -1,13 +1,13 @@
 ---
-title: "Mathematics, Statistics and Econometrics (ECNM11002)."
+title: "Economic and financial policy for legal professionals."
 collection: teaching
-type: "<b>Graduate</b> course"
+type: "<b>Undergraduate</b> course"
 permalink: /teaching/econ
-venue: "University of Edinburgh"
+venue: "Vienna University of Economics and Business (WU)"
 excerpt: ""
-semesters: "Winter 2019"
+semesters: "Summer 2019"
 coauthors: 
-location: "Edinburgh"
+location: "Vienna"
 ---
 
-3 week intensive preparation course for the MSc degree of the Scottish Graduate Programme in Economics (~80 students).
+Introduction to the economics of the public sector.
