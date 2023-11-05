@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My Chinese name is 赵(Zhao)禹(Yu) and currently I am a project researcher from Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year.
+My Chinese name is 赵(Zhao)禹(Yu) and currently I am a project researcher from Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. Here is my resume [Resume](https://zy199402.github.io/files/CV.pdf).
 
 
 Research Interest
