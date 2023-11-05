@@ -67,7 +67,7 @@ For Linux:
 ```bash
 git pushgit add.
 git commit -m 'msgs'
-
+git push
 ```
 
 
