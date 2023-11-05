@@ -22,14 +22,20 @@ Certifications
 
 Work Experience
 ======
+### Mckenney's Inc ###
+* Aug. 2024 - Present: IT intern
+  *  responsibilty 1
+  *  responsibilty 2
+  *  responsibilty 3
+
 ### Foothills Web Productions ###
-* May 2024 - Present: Software Developer intern 
+* May 2024 - Aug. 2024: Software Developer intern 
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
 ### Mckenney's Inc ###
-* Jan. 2024 - Present: IT intern
+* Jan. 2024 - May 2024: IT intern
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
