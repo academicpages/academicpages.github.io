@@ -10,4 +10,4 @@ redirect_from:
 
 My name is Sunmook Choi.
 
-This is my [CV (updated Nov. 2023)](http://smfelixchoi.github.io/files/CV.pdf).
+This is my [CV (updated Nov. 2023)](http://smfelixchoi.github.io/files/CV.pdf). Thank you.
