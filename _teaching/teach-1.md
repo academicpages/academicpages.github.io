@@ -1,7 +1,7 @@
 ---
 title: "Mathematics, Statistics and Econometrics (ECNM11002)."
 collection: teaching
-type: "<b>Graduate</b> course"
+type: "<b>Postgraduate</b> course"
 permalink: /teaching/econ
 venue: "University of Edinburgh"
 excerpt: ""
