@@ -19,7 +19,6 @@ I would love to work with all people together on some interesting projects! **Fe
 ## Publications
 <div class='paper-box'>
 <div class='paper-box-image'>
-  <div><div class="badge">ICA3PP 2023</div>
   <img src='images/pub1-RecAGT.png' alt="overview" width=255px>
 </div>
 </div>

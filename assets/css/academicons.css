@@ -325,3 +325,41 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0 2em 0
+}
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0 2em 0
+}
+
+.paper-box .paper-box-image {
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  order: 2
+}
+
+.paper-box .paper-box-image img {
+  max-width: 400px;
+  box-shadow: 3px 3px 6px #888;
+  object-fit: cover
+}
+
+.paper-box .paper-box-text {
+  max-width: 100%;
+  order: 1
+}
