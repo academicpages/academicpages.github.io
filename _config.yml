@@ -73,23 +73,25 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
+  provider               :  "custom" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-631LQW8JH2"
 
 
 # Site Author
 author:
-  name             : "Postdoc"
-  bio              : "Department of Computer Science, Aalto University"
+  name             : "Senior Lecturer"
+  bio              : "Department of Economics, Strathclyde Business School, University of Strathclyde"
   avatar           : "profile.jpeg"
-  email            : "david.kohns@aalto.fi"
-  googlescholar    : "https://scholar.google.com/citations?user=9gKE8e4AAAAJ&hl=en"
+  email            : "niko.hauzenberger@strath.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=uXtLiLIAAAAJ&hl=de&oi=ao"
+  orcid            : "https://orcid.org/0000-0002-2683-8421"
   linkedin         : 
   twitter          : 
-  github           : "DavidKohns"
+  github           : "nhauzenb"
   location         : 
   employer         : 
+  
 
 # Reading Files
 include:
