@@ -3,18 +3,21 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "DL Posts"
+    url: /dl/
+  
+  - title: "DRL Posts"
+    url: /drl/
+
   - title: "CV"
     url: /cv/
     
