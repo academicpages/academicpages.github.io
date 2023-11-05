@@ -10,6 +10,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
+  background-color: #000;
 
   @include breakpoint($x-large) {
     max-width: $x-large;
@@ -175,7 +176,7 @@
   color: #fff;
   font-family: $caption-font-family;
   font-size: $type-size-7;
-  background: #000;
+  background: #fff;
   text-align: right;
   z-index: 5;
   opacity: 0.5;

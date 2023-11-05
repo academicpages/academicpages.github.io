@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colburn Sanders"
+title                    : "WhoColburn"
 title_separator          : "-"
 name                     : &name "Colburn Sanders"
 description              : &description "I build systems that solve problems."
