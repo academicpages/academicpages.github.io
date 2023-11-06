@@ -7,7 +7,7 @@ author_profile: true
 November 2023
 ======
 ![ls](../icons/Screenshot%202023-11-05%20at%208.31.25%20PM.png){: width="300" }   
-Our Landmark app has won the open house competition held at IIT-Delhi and was covered by the [Times of India] (https://timesofindia.indiatimes.com/city/delhi/pollution-problem-to-climate-crisis-iit-open-house-tries-to-address-all/articleshow/104977470.cms).   
+Our Landmark app has won the open house competition held at IIT-Delhi and was covered by the [Times of India](https://timesofindia.indiatimes.com/city/delhi/pollution-problem-to-climate-crisis-iit-open-house-tries-to-address-all/articleshow/104977470.cms).   
 
 September 2023
 ======
