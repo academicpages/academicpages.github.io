@@ -31,6 +31,7 @@ author_profile: true
 0. Zhu, J. J. H., Chen, H. X., Peng, T. Q., Liu, X. F, & Dai, H. X. (2018). How to measure sessions of mobile device use? Quantification, Evaluation, and Applications. Mobile Media & Communication, 6(2), 215-232.
 
 ## Production, Diffusion, and Consumption of Online Information
+0.  Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
 0. Yang, Y., Lin, C. A., Peng, T. Q., & Pierre, L. (2023). #MeToo: Intersecting gender, race, user identity, social judgment and social support. The Journal of Social Media in Society, 12(1), 348-370.
 0. Zhang, L., Li, Y. N., Peng, T. Q., & Wu, Y. (2022). Dynamics of the social construction of knowledge: An empirical study of Zhihu in China. EPJ Data Science, 11, 35.
 0. Zhang, L., Zheng, L., & Peng, T. Q. (2021). Examining familial role in mobile news consumption as a sequential process. Telematics and Informatics, 56, 101502.
