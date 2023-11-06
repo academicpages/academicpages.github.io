@@ -5,7 +5,7 @@ type: "Talk"
 venue: "EPET Brown Bag"
 date: 2023-11-06
 location: EPET Brown Bag
-pdf: /files/2023-lushootseed-brownbag.pdf
+pdf: /files/slides/2023-lushootseed-brownbag.pdf
 link: /talks/
 ---
 
