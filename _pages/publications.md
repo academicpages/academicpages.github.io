@@ -6,9 +6,5 @@ description: publications by categories in reversed chronological order. generat
 nav: true
 nav_order: 1
 ---
-<!-- _pages/publications.md -->
-<div class="publications">
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
-</div>
+Please see my full publications list on my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate).
