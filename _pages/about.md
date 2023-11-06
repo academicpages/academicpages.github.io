@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 # Meet Your Sixth Grade Computer Teacher
 
 Hello, young tech enthusiasts! 👋
