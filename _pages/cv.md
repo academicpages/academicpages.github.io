@@ -4,7 +4,7 @@ title: "CV and Coursework"
 permalink: /cv/
 author_profile: true
 ---
-## [My CV (possibly slightly outdated)](../files/cv_public.pdf)
+## [My CV](../files/cv_public.pdf)
 
 ## Relevant Coursework Completed
 
