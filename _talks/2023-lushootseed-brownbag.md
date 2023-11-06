@@ -2,7 +2,7 @@
 title: "Educational Technology for Indigenous Languages: A Case Study of Lushootseed"
 collection: talks
 type: "Talk"
-venue: 
+venue: "EPET Brown Bag"
 date: 2023-11-06
 location: EPET Brown Bag
 pdf: /files/2023-lushootseed-brownbag.pdf
