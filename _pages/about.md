@@ -11,7 +11,7 @@ redirect_from:
 
 Hello, young tech enthusiasts! 👋
 
-![foo-bar-identity.jpg](..%2Fimages%2Ffoo-bar-identity.jpg)
+![foo-bar-identity.jpg](https://daviddhc20120601.github.io/academicpages.github.io/images/foo-bar-identity.jpg)
 
 I'm thrilled to introduce your incredible Sixth Grade Computer Teacher, Mr. Daviddhc20120601! He's not just any teacher; he's a digital wizard who will guide you through the exciting world of computer science and technology.
 
