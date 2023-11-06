@@ -1,29 +1,26 @@
 ---
+layout: about
+title: about
 permalink: /
-title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>555 your office number</p>
+    <p>123 your address street</p>
+    <p>Your City, State 12345</p>
+
+news: true  # includes a list of news items
+latest_posts: true  # includes a list of the newest posts
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. student studying artificial intelligence/machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is in deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. 
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-I have also worked in AI robustness and interpretability as a research intern in the Math, Stats, and Data Science Group at the [Pacific Northwest National Lab](https://www.pnnl.gov/).
+Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-## Representative Publications
-
-- **Konz, N.**, Dong, H. and Mazurowski, M. A. "Unsupervised anomaly localization in high-resolution breast scans using deep pluralistic image completion". **Medical Image Analysis**, 2023. [Link](https://arxiv.org/abs/2305.03098)
-- **Konz, N.**, Gu, H., Dong, H. and Mazurowski, M. A. "The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning". **MICCAI** (*The International Conference of Medical Image Computing and Computer Assisted Intervention*), 2022. [Link](https://arxiv.org/abs/2207.02797)
-- **Konz, N.** and Mazurowski, M. A. "Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images". **MIDL** (*Medical Imaging with Deep Learning*), 2023. [Link](https://arxiv.org/abs/2303.04911)
-- **Konz, N.**, et al. "A Competition, Benchmark, Code and Data for Using Artificial Intelligence to Detect Lesions in Digital Breast Tomosynthesis". **JAMA Network Open**, 2023. [Link](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2801740)
-- Mazurowski, M. A., Dong, H., Gu, H., Yang, J., **Konz, N.** and Zhang, Y. "Segment Anything Model for Medical Image Analysis: an Experimental Study". **Medical Image Analysis**, 2023. [Link](https://arxiv.org/abs/2304.10517)
-
-See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of my publications. My CV and coursework can be found [here](https://nickk124.github.io/cv/).
-
-I graduated from the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in 2020 with degrees in Astrophysics and Mathematics, where my research with [Prof. Daniel Reichart](https://www.danreichart.com/) focused on the development of statistical techniques for astronomical data applications.
-
-Teaching is also important to me, and I have been an educator in machine learning, physics, math and astronomy [in the academic setting](https://nickk124.github.io/teaching/) and [beyond](https://nickk124.github.io/outreach/). I have also worked on many [side projects](https://nickk124.github.io/projects/) that have captured my interest. 
-
-In my free time I play the guitar and french horn, practice jiu-jitsu and yoga, cook, and read.
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.

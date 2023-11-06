@@ -1,0 +1,23 @@
+<table class="table table-cv table-sm table-borderless table-responsive table-cv-map">
+  {% assign skip_basics = "image,profiles,location" | split:"," %}
+  {% for content in data[1] %}
+    {% if (content[1] == "") or (skip_basics contains content[0]) %}
+      {% continue %}
+    {% endif %}
+
+  <tr>
+    <td class="p-1 pr-2 font-weight-bold"><b>{{ content[0] | capitalize }}</b></td>
+    <td class="p-1 pl-2 font-weight-light text">
+      {% if content[0] == "url" %}
+      <a href="{{ content[1] }}" target="_blank" rel="noopener noreferrer">{{ content[1] }}</a>
+      {% elsif content[0] == "email" %}
+      <a href="mailto:{{ content[1] }}" target="_blank">{{ content[1] }}</a>
+      {% elsif content[0] == "phone" %}
+      <a href="tel:{{ content[1] }}">{{ content[1] }}</a>
+      {% else %}
+      {{ content[1] }}
+      {% endif %}
+    </td>
+  </tr>
+  {% endfor %}
+</table>

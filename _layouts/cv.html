@@ -1,0 +1,96 @@
+---
+layout: default
+---
+<!-- _layouts/cv.html -->
+{% unless site.data.resume %}
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+      {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <article>
+    <div class="cv">
+      {% for entry in site.data.cv %}
+        <a class="anchor" id="{{ entry.title }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ entry.title }}</h3>
+          <div>
+          {% if entry.type == "list" %}
+            {% include cv/list.html %}
+          {% elsif entry.type == "map" %}
+            {% include cv/map.html %}
+          {% elsif entry.type == "nested_list" %}
+            {% include cv/nested_list.html %}
+          {% elsif entry.type == "time_table" %}
+            {% include cv/time_table.html %}
+          {% elsif entry.type == "list_groups" %}
+            {% include cv/list_groups.html %}
+          {% else %}
+            {{ entry.contents }}
+          {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+  </article>
+
+</div>
+{% else %}
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }} {% if page.cv_pdf %}<a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer" class="float-right"><i class="fas fa-file-pdf"></i></a>{% endif %}</h1>
+    {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
+  </header>
+
+  <article>
+    <div class="cv">
+      {% for data in site.data.resume %}
+        {% if site.jsonresume and site.jsonresume.size > 0 %}
+          {% unless site.jsonresume contains data[0] %}
+            {% continue %}
+          {% endunless %}
+        {% endif %}
+        {% if data[0] == "meta" or data[1].size == 0 %}
+          {% continue %}
+        {% endif %}
+        <a class="anchor" id="{{ data[0] }}"></a>
+        <div class="card mt-3 p-3">
+          <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
+          <div>
+          {% case data[0] %}
+            {% when "basics" %}
+              {% include resume/basics.html %}
+            {% when "education" %}
+              {% include resume/education.html %}
+            {% when "work" %}
+              {% include resume/work.html %}
+            {% when "volunteer" %}
+              {% include resume/volunteer.html %}
+            {% when "projects" %}
+              {% include resume/projects.html %}
+            {% when "awards" %}
+              {% include resume/awards.html %}
+            {% when "skills" %}
+              {% include resume/skills.html %}
+            {% when "publications" %}
+              {% include resume/publications.html %}
+            {% when "languages" %}
+              {% include resume/languages.html %}
+            {% when "interests" %}
+              {% include resume/interests.html %}
+            {% when "certificates" %}
+              {% include resume/certificates.html %}
+            {% else %}
+
+          {% endcase %}
+          </div>
+        </div>
+      {% endfor %}
+      </div>
+  </article>
+
+</div>
+{% endunless %}
