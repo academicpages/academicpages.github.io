@@ -13,7 +13,7 @@ redirect_from:
 
 I am currently pursuing an M.S. student of Science in Computer Engineering at Chosun University's [Smart Networking Lab](https://sites.google.com/view/smart-networking/member), specializing in next-generation wireless networks. My interest area of research is in optimizing massive MIMO systems using deep reinforcement learning. It aims to apply these techniques to resource allocation and decision-making problems in wireless networks.
 
-As a Research Assistant at the university, I specialize in deep reinforcement learning, massive MIMO systems, IoT & ICT systems, and adaptive decision-making processes. In addition to outside of university, I have also served as a software development tutor at Seji Middle School, where I taught basic programming to middle school students for five months. My interests extend to music, and the creation of a [Technical Blog](https://young-it-time.tistory.com/) and [SDR demonstration channel](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA).
+As a Research Assistant at the university, I specialize in deep reinforcement learning, massive MIMO systems, IoT & ICT systems, and adaptive decision-making processes. In addition to outside of university, I have also served as a software development tutor at Seji Middle School, where I taught basic programming to middle school students for five months. My interests extend to music, and the creation of a [SDR demonstration channel](https://www.youtube.com/channel/UCZI9JfPn_Nk6HVkl2aAj4xA).
 
 <!-- 저는 조선대학교 컴퓨터공학과 [스마트네트워킹 연구실](https://sites.google.com/view/smart-networking/member)에서 석사 과정에 진학 중이며, 차세대 무선통신과 심층 강화학습을 활용한 대규모 MIMO 시스템 최적화에 관심을 가지고 있습니다. 저의 주요 연구는 차세대 무선통신 시스템의 효율성 향상 및 무선 자원 문제 해결하기 위한 심층강화학습 기반의 자원 할당연구 입니다.
 
