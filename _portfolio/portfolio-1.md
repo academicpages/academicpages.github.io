@@ -11,3 +11,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 Hello this is Graham.
 
 ###### ===Title?===
+
+Image insert test below:
+
+![Rotary Table](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\500x300.png)
