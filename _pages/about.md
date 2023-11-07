@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Third Year pusuing an M.S. in Physics and B.S. in Applied Math at the Illinois Institute of Technology.
+I am a third year undergraduate pusuing an M.S. in Physics and B.S. in Applied Math at the Illinois Institute of Technology.
 
 Research Interests
 ======
