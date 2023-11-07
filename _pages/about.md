@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle:
 
@@ -20,3 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I'm a Ph.D. student studying artificial intelligence/machine learning under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/) at [Duke University](https://duke.edu/) in the [Dept. of Electrical and Computer Engineering](https://ece.duke.edu/). My research is in deep learning for medical image analysis, in topics such as anomaly detection and zero-shot learning, self-supervised learning and domain adaptation. 
 
 I have also worked in AI robustness and interpretability as a research intern in the Math, Stats, and Data Science Group at the [Pacific Northwest National Lab](https://www.pnnl.gov/).
+
+See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of my publications, with a few recent papers highlighted in the section below.
+
+I graduated from the [University of North Carolina at Chapel Hill](https://www.unc.edu/) in 2020 with degrees in Astrophysics and Mathematics, where my research with [Prof. Daniel Reichart](https://www.danreichart.com/) focused on the development of statistical techniques for astronomical data applications. I have been an educator in machine learning, physics, math and astronomy [in the academic setting](https://nickk124.github.io/teaching/) and [beyond](https://nickk124.github.io/outreach/).

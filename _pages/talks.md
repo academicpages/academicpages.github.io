@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description: Talks that I have given and tutorials that I have made.
 nav: true
 nav_order: 2
