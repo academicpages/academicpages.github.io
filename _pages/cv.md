@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, Illinois Institute of Technology, Expected 2026
+* M.S. in Physics, Illinois Institute of Technology, Expected 2026
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Research Assistant
+  * Argonne National Labs & Illinois Texh
+  * Duties included: 
+  * Supervisor: Zack Sullivan, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring & Summer 2022: Research Assistant
+  * Illinois Tech
+  * Duties included: 
+  * Supervisor: Daniel Kaplan, Ph.D., Derrick Mancini, Ph.D.
   
 Skills
 ======
