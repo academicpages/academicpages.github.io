@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+A warm welcome to my personal webpage !
+Feel free to browse through the different tabs to read about my research work.
+
 ## About Me
 
 I am a PhD student working on building photovoltaic applications. Especially, my work focuses on modelling failures as well as quantifying diagnostic methods in order to build a performance garantee on solar installations. My personal belief is that research owes to find solutions to mitigate the human environmental impact.
