@@ -12,29 +12,29 @@ I am Yu Sun, a junior undergraduate at Lanzhou University, currently delving int
 
 Multimodal
 ======
-Large Language Model + Multimodal Recommender System
-Multimodal Robot
-Multimodal Copywriting Generator
-Multimodal Medical LLM
-Image Caption
-Semantic Image Editor
+Large Language Model + Multimodal Recommender System<br>
+Multimodal Robot<br>
+Multimodal Copywriting Generator<br>
+Multimodal Medical LLM<br>
+Image Caption<br>
+Semantic Image Editor<br>
 
 Computer Vision
 ======
-MAE+3D Reconstruction
+MAE+3D Reconstruction<br>
 
 Natural Language Processing
 ======
-Unimodal Medical LLM + Web Search
+Unimodal Medical LLM + Web Search<br>
 
 Recommendation Systems
 ======
-Generative Recommendation Systems
+Generative Recommendation Systems<br>
 
 Speech Recognition
 ======
-Multimodal Emotion Recognition
-Speaker Verification
+Multimodal Emotion Recognition<br>
+Speaker Verification<br>
 
 Knowledge Graphs
 ======
@@ -42,8 +42,8 @@ Knowledge Graphs
 
 Graph Neural Network
 ======
-GNN Timing Sequence Prediction
-Drug Target Prediction
+GNN Timing Sequence Prediction<br>
+Drug Target Prediction<br>
 
 Meta Learning
 ======
