@@ -14,4 +14,4 @@ Hello this is Graham.
 
 Image insert test below:
 
-![Rotary Table](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\500x300.png)
+![500x300](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\500x300.png)
