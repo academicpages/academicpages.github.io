@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Student Researcher"
   location         : "Chicago, IL"
-  employer         :
+  employer         : "Illinois Institute of Technology"
   pubmed           : 
   googlescholar    : "http://scholar.google.com/jacobhthomas"
-  email            :
+  email            : "unity@jacobhthomas.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,10 +99,10 @@ author:
   github           : "jacobhthomas"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "jacobhthomas"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "jacobhthomas"
   orcid            :
   pinterest        :
   soundcloud       :
