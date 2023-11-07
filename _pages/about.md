@@ -40,7 +40,9 @@ Research
     <tr>
       <td>
         <ul>
-          <li>'Physical Appearance and Elections: An Inequality Perspective' (with Outi Sarpila) has been accepted in Political Psychology.</li>
+          <li>
+
+            <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12940">'Physical Appearance and Elections: An Inequality Perspective'</a> (with Outi Sarpila) has been published in Political Psychology.</li>
           <li> With Inga Saikkonen and Mart Trasberg we fielded during October 2023 a series of survey experiments in Chile and Estonia.</li>
         </ul>
       </td>
