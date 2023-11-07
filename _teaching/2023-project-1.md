@@ -2,8 +2,9 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-A-teaching-1
+permalink: /teaching/2023-A-project-1
 venue: "Lanzhou University, Department"
+
 location: "Lanzhou, China"
 ---
 
