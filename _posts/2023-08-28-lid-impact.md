@@ -9,7 +9,8 @@ tags:
   - photovoltaic
 ---
 
-**“Light soaking effect”** refers to changes in module power performance due to light exposure. 
+**Light Induced Degradation (LID)**, or Light soaking effect, refers to changes in module power performance due to light exposure and could potentially entail losses up to 30%. 
+This article provides an overview on the impact, the loss mechanisms and how to detect LID.  
 
 <figure>
     <img src="https://alexandrehugomathieu.github.io/alexandremathieu.github.io//images/lid_images/lid_main_pictures.png"
