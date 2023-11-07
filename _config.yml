@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yusheng Su"
 title_separator          : "-"
 name                     : &name "Yusheng Su"
-description              : &description "NLP researcher, Ph.D, at Tsinghua University."
+description              : &description "LLM researcher"
 url                      : https://yushengsu-thu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yushengsu-thu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yusheng Su"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in C.S at Tsinghua University; NLPer. (yushengsu.thu@gmail.com)"
+  bio              : "LLM researcher, NLPer. (yushengsu.thu@gmail.com)"
   location         : 
   employer         :
   pubmed           : 
