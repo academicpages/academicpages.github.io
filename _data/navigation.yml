@@ -3,6 +3,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Resume"
+    url: /resume/
+    
   - title: "Talks"
     url: /talks/    
 
@@ -14,9 +17,6 @@ main:
         
   - title: "About Me"
     url: /about-me/
-    
-  - title: "Resume"
-    url: /resume/
-    
+       
   - title: "Guide"
     url: /markdown/
