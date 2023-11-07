@@ -1,6 +1,6 @@
 ---
 title: "Two-Axis Tilting NC Rotary Table"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Custom two-axis tilting rotary table with pneumatic brake<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
