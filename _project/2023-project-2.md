@@ -2,7 +2,7 @@
 title: "Teaching experience 2"
 collection: project
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /project/2023-project-2
 venue: "Lanzhou University"
 date: 2015-01-01
 location: "City, Country"
