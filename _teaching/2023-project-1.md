@@ -1,9 +1,9 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: project
 type: "Undergraduate course"
 permalink: /teaching/2023-A-project-1
-venue: "Lanzhou University, Department"
+venue: "Lanzhou University"
 
 location: "Lanzhou, China"
 ---
