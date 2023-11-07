@@ -10,41 +10,39 @@ redirect_from:
 
 I am Yu Sun, a junior undergraduate at Lanzhou University, currently delving into research on large language models and multimodal interaction technologies. My research endeavors span across a spectrum of artificial intelligence fields including Computer Vision (CV), Natural Language Processing (NLP), Recommendation Systems (RS), Speech Recognition (SR), and Knowledge Graphs (KG). In addition, I have founded a company with the vision of simplifying people's lives through AI technology and highlighting the significance of AI in our daily lives. If you are interested in my research areas, please click on [Projects] for more details about my projects and to view my scientific achievements.
 
-#### Multimodal
-======
+### Multimodal
 Large Language Model + Multimodal Recommender System<br>
 Multimodal Robot<br>
 Multimodal Copywriting Generator<br>
 Multimodal Medical LLM<br>
 Image Caption<br>
-Semantic Image Editor<br>
+Semantic Image Editor
 
-#### Computer Vision
-======
-MAE+3D Reconstruction<br>
+<br><br>
+### Computer Vision
+MAE+3D Reconstruction
 
-#### Natural Language Processing
-======
-Unimodal Medical LLM + Web Search<br>
+<br><br>
+### Natural Language Processing
+Unimodal Medical LLM + Web Search
 
-#### Recommendation Systems
-======
-Generative Recommendation Systems<br>
+<br><br>
+### Recommendation Systems
+Generative Recommendation Systems
 
-#### Speech Recognition
-======
+<br><br>
+### Speech Recognition
 Multimodal Emotion Recognition<br>
-Speaker Verification<br>
+Speaker Verification
 
-#### Knowledge Graphs
-======
+<br><br>
+### Knowledge Graphs
 
-
-#### Graph Neural Network
-======
+<br><br>
+### Graph Neural Network
 GNN Timing Sequence Prediction<br>
-Drug Target Prediction<br>
+Drug Target Prediction
 
-#### Meta Learning
-======
+<br><br>
+### Meta Learning
 
