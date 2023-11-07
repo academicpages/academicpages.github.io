@@ -4,7 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-A-teaching-1
 venue: "Lanzhou University, Department"
-date: 2023
 location: "Lanzhou, China"
 ---
 
