@@ -14,4 +14,8 @@ Hello this is Graham.
 
 Image insert test below:
 
-![500x300](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\500x300.png)
+![500x300](/images/500x300.png)
+
+
+
+![small](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\image-alignment-150x150.jpg)
