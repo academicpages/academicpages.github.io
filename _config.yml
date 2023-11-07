@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Yu Sun Academic websites"
+title                    : "Academic Websites"
 title_separator          : "-"
 name                     : &name "Yu Sun"
 description              : &description "Junior at Lanzhou University, researching in Artificial Intelligence."
