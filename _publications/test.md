@@ -1,6 +1,6 @@
 ---
 title: "Impact of half-wave plate systematics on the blablabla"
-collection: 
+collection: preprints
 permalink: /publication/2311-05685
 excerpt: ''
 date: 2023-11-11
