@@ -11,8 +11,8 @@ redirect_from:
 
 학력 (Education)
 ---
-* 학사, 조선대학교 컴퓨터공학과 (2022.02)
 * 석사, 조선대학교 컴퓨터공학과 (2024.02 예정)
+* 학사, 조선대학교 컴퓨터공학과 (2022.02)
 
 
 석사 학위 논문 (Master's Thesis)
@@ -24,11 +24,11 @@ redirect_from:
 
 연구 분야 (Research Areas)
 ---
-* Wireless communication (WiFi, Heterogeneous network, Massive MIMO, 5G)
-* RL-based solution for wireless networks
-* IoT, ICT sensing-based smart solution (MQTT, HTTP, BLE, NFC)
+* 5G/B5G network (Heterogeneous, massive MIMO, resource allocation)
+* DRL-based solution for wireless networks
+* IoT, ICT sensing-based smart solution (WiFi, MQTT, HTTP, BLE, NFC)
 * SDR-based wireless communication testbed (Design and validation)
-* Reflected RF signal-based objective detection
+* RF signal-based objective detection and tracking
 
 
 연구 경력 (Research Experience)
@@ -52,11 +52,12 @@ redirect_from:
 <br>
 
 * **수상 경력 (honors and awards)**
+  * 2023 대학원생 창업아이템 경진대회, 우수상 (2023.11.03)
   * 제 33회 통신정보 합동학술대회, 우수논문상 (우수논문상) (2023.04)
-  <!-- * GJ RIP 광주/전남 학생 AI 아이디어 공모전, 우수상 (2022.03.18 - 25) -->
+  * GJ RIP 광주/전남 학생 AI 아이디어 공모전, 우수상 (2022.03.18 - 25)
   * 조선대학교 2021 IT 페스티벌, 은상 (2021.11.26)
   * 한국통신학회 추계학술대회, 학부우수논문상 (장려상) (2020.02)
-  <!-- * 대학교 산학협력단 연합 지역 개발 융합대회, 장려상 (2020.01.29 - 31) -->
+  * 대학교 산학협력단 연합 지역 개발 융합대회, 장려상 (2020.01.29 - 31)
 
 
 주요 역량 (Summary of Qualifications)
