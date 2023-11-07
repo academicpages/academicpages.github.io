@@ -15,9 +15,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "About Me"
-    url: /about-me/
-
   - title: "Contact"
     url: /contact/
        
