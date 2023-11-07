@@ -17,6 +17,9 @@ main:
         
   - title: "About Me"
     url: /about-me/
+
+  - title: "Contact"
+    url: /contact/
        
   - title: "Guide"
     url: /markdown/
