@@ -4,9 +4,7 @@ excerpt: "Custom two-axis tilting rotary table with pneumatic brake<br/><img src
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-
-
+body text
 
 Hello this is Graham.
 
@@ -18,4 +16,4 @@ Image insert test below:
 
 
 
-![small](C:\Users\Graham\Documents\GitHub\gramDav.github.io\images\image-alignment-150x150.jpg)
+![small](/images/image-alignment-150x150.jpg)
