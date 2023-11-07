@@ -3,7 +3,7 @@ title: "Teaching experience 2"
 collection: project
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Lanzhou University"
 date: 2015-01-01
 location: "City, Country"
 ---
