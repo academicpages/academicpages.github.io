@@ -10,8 +10,8 @@ redirect_from:
 
 I am Yu Sun, a junior undergraduate at Lanzhou University, currently delving into research on large language models and multimodal interaction technologies. My research endeavors span across a spectrum of artificial intelligence fields including Computer Vision (CV), Natural Language Processing (NLP), Recommendation Systems (RS), Speech Recognition (SR), and Knowledge Graphs (KG). In addition, I have founded a company with the vision of simplifying people's lives through AI technology and highlighting the significance of AI in our daily lives. If you are interested in my research areas, please click on [Projects] for more details about my projects and to view my scientific achievements.
 
-<br>
-Here are the projects I have researched and the areas they belong to: 
+<br><br>
+<b>Here are the projects I have researched and the areas they belong to: <\b>
 ### Multimodal
 Large Language Model + Multimodal Recommender System<br>
 Multimodal Robot<br>
