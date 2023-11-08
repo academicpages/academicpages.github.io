@@ -20,8 +20,8 @@ author_profile: true
 
 
 ## Teaching Experience
-**Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-It will be completed soon
+**Invited Lecturer** - Amirkabir University of Technology (Tehran Polytechnic) <br>
+* **Logic Circuit Lab**, <a href="https://github.com/rezaAdinepour/AUT-Logic-Circuits-Lab" style="color: #0011DB; text-decoration: underline;">Course material</a>, Fall-2023
 
 **Teaching Assistant** - Shahrood University of Technology <br>
 * **Digital Electronics (Pulse Technique)**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, Spring-2023
