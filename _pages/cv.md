@@ -60,9 +60,10 @@ redirect_from:
     + LabVIEW
     + SPSS
 * Drawing & Modeling Software:
-  + CAD
-  + Fusion 360
-  + SolidWorkes
+    + CAD
+    + Fusion 360
+    + SolidWorkes
+    + Blender
 * Computer Language:
     + PyThon
     + C#
@@ -73,9 +74,11 @@ redirect_from:
     + Keil
     + LabVIEW
     + Tracker
-    + Blender
     + Latex
     + Markdown
+    + SAPIEN
+    + IsaacGym
+    + Docker
     + Ubuntu
     + Linux
 * Hands-on Skill:
@@ -83,6 +86,7 @@ redirect_from:
     + Prototype production
     + Circuit soldering
     + Silicone molding
+    + Soft 3D-Printing
     + Cooking (*proud~*)
 
 ***
