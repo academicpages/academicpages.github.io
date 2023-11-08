@@ -24,16 +24,14 @@ Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kaz
 
 - FDM Printing Soft Robotics
 
-![](images/STREAM_ICRA.png){: .align-right width="200px"}
-**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
+
+**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** ![](images/STREAM_ICRA.png){: .align-right width="200px"}
 
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 *Under Review*
 
 
-
-![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
-**Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
+**Vision-based FDM Printing for Fabricating Airtight Soft Actuators** ![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
 
 Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz
 *Under Review*
