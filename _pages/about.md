@@ -30,6 +30,8 @@ Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kaz
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 *Under Review*
 
+
+
 ![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
