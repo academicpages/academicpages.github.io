@@ -21,7 +21,7 @@ author_profile: true
 
 ## Teaching Experience
 **Invited Lecturer** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-* **Logic Circuit Lab**, <a href="https://github.com/rezaAdinepour/AUT-Logic-Circuits-Lab" style="color: #0011DB; text-decoration: underline;">CE201 </a>, (Fall 2023)
+* **Logic Circuit Lab**, <a href="https://github.com/rezaAdinepour/AUT-Logic-Circuits-Lab" style="color: #0011DB; text-decoration: underline;">CE201</a>, (Fall 2023)
 
 **Teaching Assistant** - Shahrood University of Technology <br>
 * **Digital Electronics (Pulse Technique)**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, (Spring 2023)
