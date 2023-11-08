@@ -18,6 +18,7 @@ I'm a junior-year undergraduate student at WPI(Worcester Polytechnic Institute) 
 
 ![](images/LandauCD_ICLR.png){: .align-right width="200px"} 
 **Point Cloud Completion With Landau Distribution: A Probabilistic View**
+
 Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang(* co-first author)  
 *Under Review*
 
@@ -25,10 +26,12 @@ Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kaz
 
 ![](images/STREAM_ICRA.png){: .align-right width="200px"}
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
+
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 *Under Review*
 
 ![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
+
 Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz
 *Under Review*
