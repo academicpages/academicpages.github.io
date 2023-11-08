@@ -1,11 +1,6 @@
----
-title: 'Desitination and dilemma'
-excerpt: "Some reflections these days"
-date: 2023-11-08
-permalink: /posts/2023/11/daily-notes-36/
-Tags:
-  - Daily
----
+t
+tDesitination and dilemma't
+ttttt
 
 Before I joined this group, I had many choices.
 
