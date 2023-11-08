@@ -19,7 +19,6 @@ Currently, I'm a research assistant at Tehran Polytechnique.
 - AI Hardware Accelerator
 - Machine Learning
 - Deep Learning
-- Image Processing
-- Computer Vision
-- Pattern Recognition
-- Real-time Embedded Systems
+- Signal Processing
+- Parallel and Distributed Systems
+- Real-time and Embedded Systems
