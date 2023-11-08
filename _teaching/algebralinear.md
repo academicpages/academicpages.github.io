@@ -61,5 +61,7 @@ Listas de Exercícios
 
 [Lista 03](https://mbortoloti.github.io/files/linearalgebra/lista03.pdf)
 
+[Lista 04](https://mbortoloti.github.io/files/linearalgebra/lista04.pdf)
+
 [Lista 06](https://mbortoloti.github.io/files/linearalgebra/lista06.pdf)
 
