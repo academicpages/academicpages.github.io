@@ -16,17 +16,17 @@ I'm a junior-year undergraduate student at WPI(Worcester Polytechnic Institute) 
 
 - 2023
 
-![](images/LandauCD_ICLR.png){: .align-right width="200px"} 
+![](images/LandauCD_ICLR.png){: .align-left width="200px"} 
 **Point Cloud Completion With Landau Distribution: A Probabilistic View**
 Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang(* co-first author)  
 *Under Review*
 
-![](images/STREAM_ICRA.png){: .align-right width="200px"}
+![](images/STREAM_ICRA.png){: .align-left width="200px"}
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 *Under Review*
 
-![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
+![](images/VisionFDM_RoboSoft.png){: .align-left width="200px"}
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz
 *Under Review*
