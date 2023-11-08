@@ -24,8 +24,6 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 
 ---
 # Projects
-**WPI IQP(Interactive Qualifying Project)**
-*Toward Wearable Multimodal Neuroimaging*
+**WPI IQP(Interactive Qualifying Project):** *Toward Wearable Multimodal Neuroimaging*
 
-Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and Meng Wang (* co-first author)
-*Digital WPI*
+Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and Meng Wang
