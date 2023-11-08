@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
-# gem 'public_suffix', '>= 5.0.3'
+gem 'public_suffix', '4.0.7'
 
 
 # If you have any plugins, put them here!
