@@ -103,6 +103,35 @@ Why do we care about the eigenvalues then? Well we can see from the image below 
                 self.R[y, x] = detM - self.k * (traceM ** 2)
 ```
 ### Non-Maximal Supression
+One of the last things to consider for our little corner detector is Non-Maximal Supression. If we go back to our zoomed in photo of Harris Responses from above, we would see that there are several pixels in an area that have corner response. This happens because corners can occupy several pixels in an iamge. It would be redundant to compute descriptors for each and every pixel of the corner. That's where Non-Maximal Supression comes to the rescue.
+
+The basic process of NMS is to take a sliding window across the corner responses to find the max corner response in a local patch. This can be done quite easily with below:
+
+```
+    def apply_non_maximal_suppression(self, neighborhood_size=3):
+        height, width = self.R.shape
+        offset = neighborhood_size // 2
+        suppressed_R = np.zeros((height, width), dtype=np.float64)
+        
+        for y in range(offset, height - offset):
+            for x in range(offset, width - offset):
+                local_max = np.max(self.R[y - offset:y + offset + 1, x - offset:x + offset + 1])
+                if self.R[y, x] == local_max:
+                    suppressed_R[y, x] = self.R[y, x]
+                    
+                    
+        self.R = suppressed_R
+```
+
+As we'll see later, the neighborhood size here is an important parameter that is image and application specific. To see the results it can produced, here's the same Harris Response images from above after NMS.
+
+![nms_response](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/db50e603-8ad8-4b29-8b91-ea5b37d33749)
+![nms_zoom_response](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/e9bb6231-0730-4840-ba6e-259b70d2a60c)
+
+
+As we see below, the number of corners is greatly reduced and cleaner. 
+
+![nms_corners](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/0b2b5f6f-77cd-4aa2-9ab5-dc7ee20aa8f8)
 
 
 ### More examples / Abalation Study
