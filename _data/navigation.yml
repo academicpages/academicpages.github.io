@@ -1,4 +1,4 @@
-# main links links
-# main:
-#  - title: "Publications"
-#    url: /publications/
+#main links links
+main:
+  - title: "Publications"
+    url: /publications/
