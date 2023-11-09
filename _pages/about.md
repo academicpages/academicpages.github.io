@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a project researcher (postdoc) at Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. Here is my [Resume](https://zy199402.github.io/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=Nl4q45AAAAAJ&hl=zh-CN&oi=sra). My email address is "yu.zhao _at_ ipmu.jp".
+I am a project researcher (postdoc) at Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. Here are my [Resume](https://zy199402.github.io/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=Nl4q45AAAAAJ&hl=zh-CN&oi=sra), where detailed records of publications are also included. My email address is "yu.zhao _at_ ipmu.jp".
 
 Research Interest
 ======
