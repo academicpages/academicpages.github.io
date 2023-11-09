@@ -13,6 +13,10 @@ The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted
 
 ## Preprints
 
+- **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
+Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
+[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)
+
 - **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
 (To Appear)
@@ -33,7 +37,7 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 IEEE Symposium on Security and Privacy. 2024.\
 (To Appear)
 
-10. **Registered (Inner-Product) Functional Encryption**\ 
+10. **Registered (Inner-Product) Functional Encryption**\
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
 Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.\
 [https://eprint.iacr.org/2023/395](https://eprint.iacr.org/2023/395)
