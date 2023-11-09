@@ -20,7 +20,7 @@ Work experience
 * 2023.08-present: Postdoctoral researcher
   * Uppsala Univeristy
   * Duties included: air-wave interaction
-  * Supervisor: Associate Professor Lichuan Wu
+  * Supervisor: Associate Professor Lichuan Wu adn Erik Sahlée
   
 * 2014.04-2023.08: Research Associate
   * First Institute of Oceanography
