@@ -13,7 +13,7 @@ redirect_from:
 
   Currently I'm seeking for a PhD postion on RF integrated circuit design or other related fields.
 
-  Please contact with me through [Email](zhitse@gmail.com)/[Wechat](../Wechat.png)
+  Please contact with me through [Email](mailto:zhitse@gmail.com)/[Wechat](../Wechat.png)
 
 Research Interests
 ======
