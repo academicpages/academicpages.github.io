@@ -15,7 +15,8 @@ The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted
 
 - **Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models**\
 Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Daniele Venturi, Giuseppe Ateniese, and Boaz Barak\
-[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)
+[https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
+<sup>*</sup>= Equal contribution
 
 - **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
