@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yu Zhao's personal academic website"
+title: "Yu Zhao's website on mathematics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My Chinese name is 赵(Zhao)禹(Yu) and currently I am a project researcher from Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. Here is my resume [Resume](https://zy199402.github.io/files/CV.pdf).
-
+I am a project researcher (postdoc) at Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. Here is my [Resume](https://zy199402.github.io/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=Nl4q45AAAAAJ&hl=zh-CN&oi=sra). My email address is "yu.zhao _at_ ipmu.jp".
 
 Research Interest
 ======
