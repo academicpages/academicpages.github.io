@@ -19,7 +19,7 @@ I am a geometric representation theorist, who aims to build a bridge between rep
 2. derived algebraic geometry, especially the geometry of quasi-smooth and shifted symplectic stacks.
 3. birational geometry, especially the vanishing theory for algebraic varieties.
 
-Here are my research statements, with a (6-pages-version)[https://zy199402.github.io/files/Short1.pdf] and a (12-pages-version)[https://zy199402.github.io/files/Long-Research-Statement.pdf].
+Here are my research statements, with a [6-pages-version](https://zy199402.github.io/files/Short1.pdf) and a [12-pages-version](https://zy199402.github.io/files/Long-Research-Statement.pdf).
 
 
 Education and Employment
