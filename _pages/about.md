@@ -68,6 +68,8 @@ Charles Seguin, Chris Julien, and Yongjun Zhang. 2021. "[The stability of androg
 
 ## Working Paper
 
+Yongjun Zhang. 2023. "[Generative AI has lowered the barriers to computational social sciences](https://yongjunzhang.com/files/Generative_AI_and_CSS.pdf)."
+
 Yongjun Zhang. 2023. "[Multiplex Spatial Segregation of Asian American Voters in New York City]()."
 
 Yongjun Zhang and Siwei Cheng. 2023. "[Mobility-based Segregation in U.S. Metropolitan Areas](https://yongjunzhang.com/files/nb_seg.pdf)."
