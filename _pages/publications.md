@@ -7,6 +7,9 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en).
 <ol>
+<li><b> <a href="https://arxiv.org/abs/2305.03353">MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic</a></b> <br> 
+    <b>Damien Sileo</b>, Antoine Lernould<br> 
+    <i>Proceeding of ECIR2022</i><br></li>
 <li><b> <a href="https://arxiv.org/abs/2112.04184">Zero-Shot Recommendations as Language Modeling</a></b> <br> 
     <b>Damien Sileo</b>, Wout Vossen, Robbe Raymaekers<br> 
     <i>Proceeding of ECIR2022</i><br></li>
