@@ -31,14 +31,13 @@ Banff International Research Station, Aug 2022
 
 ## Upcoming Talks
 
-Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational and Randomized Data]**  Washington, DC.   
-[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
-
-
 Dec 10-16, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
-## Recent News 
+## Recent News  
+Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational and Randomized Data]**  Washington, DC.   
+[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
+
 Oct 15, 2023. **[Invited talk at INFORMS]**  Phoenix, AZ.   
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
