@@ -26,7 +26,11 @@ redirect_from:
       + Designing experiments to validate policies trained in simulations
       + Conducting practical experimental operations, recording the results for further analysis
       + Learning about *Reinforcement Learning Techniques*
-      + Paper has been submitted to ICRA 2024 (International Conference on Robotics and Automation)
+      + A paper has been submitted to ICRA 2024 (International Conference on Robotics and Automation)
+      + Employed SolidWorks to assemble the robotic hand components and exported them into '.urdf' file format
+      + Modified the descriptions of collision meshes within the '.urdf' file, reconstructed collision models using basic geometric shapes in Blender, and exported them in direct coding description, or '.obj' and '.glb' file formats
+      + Altered the descriptions of visual meshes within the '.urdf' file, using Blender to adjust their surface material properties for a more realistic representation in a virtual environment
+      + Tested the modified `.urdf' files using different simulators (IsaacGym, SAPIEN, PyBullet) to assess their visual effects and collision states
       + _to be continued_
   * Supervisor: Professor Xiaolong Wang
  
