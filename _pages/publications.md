@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=eeuQ0a0AAAAJ) and [dblp](https://dblp.org/pid/231/4539.html).\
-The list of authors is sorted alphabetically. Exceptions are *6* and *4* (sorted by contribution).
+The list of authors is sorted alphabetically. Exceptions are *6*, *4*, and *3* (sorted by contribution).
 
 ---
 
