@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-  I'm a student on the third and last year of the Master program in the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/index.htm), with joint degree in the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/). I am very fortunate to be advised by [RUI WU](http://www.aircas.cn/sourcedb_air_cas/cn/expert/yjy/202306/t20230613_6777600.html)  from Chinese Academy of Sciences. 
+  I'm a student on the 3rd and last year of the Master program in the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/index.htm), with joint degree in the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/). I am very fortunate to be advised by [RUI WU](http://www.aircas.cn/sourcedb_air_cas/cn/expert/yjy/202306/t20230613_6777600.html)  from Chinese Academy of Sciences. 
   
   In 2021, I received the Bachelor degree in electronic information engineering from the [China Agricultural University](https://www.cau.edu.cn/), China.
 
@@ -18,7 +18,7 @@ About Me
 
   Currently I'm seeking for a PhD postion on RF integrated circuit design or other related fields.
 
-  Please contact with me through [Email](mailto:zhitse@gmail.com)/[Wechat](../Wechat.png)
+  Please contact with me through [Email](mailto:zhitse@gmail.com)/[Wechat](wechat.png). 
 
 Research Interests
 ======
