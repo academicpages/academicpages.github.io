@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-You can also find my articles on <a href="https://scholar.google.com/citations?user=nmgE5hkAAAAJ&hl=en&authuser=2">my Google Scholar profile.
+The complete list of my publications can also be found on <a href="https://scholar.google.com/citations?user=nmgE5hkAAAAJ&hl=en&authuser=2">my Google Scholar profile.
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
