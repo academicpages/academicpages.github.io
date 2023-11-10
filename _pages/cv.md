@@ -11,6 +11,6 @@ On this page you may download two different CV's: a full-length version and an a
 You may download a PDF copy of my full-length CV [on this page](/files/pdf/CV_Jordan_Van_Beeck.pdf), whereas the abridged version is downloadable [from this page](/files/pdf/short_CV_Jordan_Van_Beeck.pdf).
 For your convenience, both are shown in a window below:
 
-<iframe src="/files/pdf/short_CV_Jordan_Van_Beeck.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe title="Abridged CV" src="/files/pdf/short_CV_Jordan_Van_Beeck.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
-<iframe src="/files/pdf/short_CV_Jordan_Van_Beeck.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe title="Full-length CV" src="/files/pdf/CV_Jordan_Van_Beeck.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
