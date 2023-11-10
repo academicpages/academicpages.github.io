@@ -26,5 +26,5 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
-  gem "public_suffix", "~> 4.1.1"
+  gem "public_suffix", "~> 1.4 OR >= 2.0, < 5.0"
 end
