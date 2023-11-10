@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 gem "jekyll"
-
+gem "public_suffix", "~> 1.4"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 
