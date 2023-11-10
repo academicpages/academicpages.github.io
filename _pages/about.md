@@ -12,7 +12,7 @@ redirect_from:
 
 ## Passionate and Knowledgeable
 
-![teacher](https://media.istockphoto.com/id/109724174/photo/first-grader.jpg?s=2048x2048&w=is&k=20&c=ev6CMTJJdoUH90kYnFleh38wMcBcyFhBj877RMeqvb8=)
+
 
 Mr. Smith is an extraordinary computer science teacher who is passionate about his subject and has a deep knowledge of the field. His enthusiasm for computer science is contagious, and he brings that energy into the classroom every day. He stays up-to-date with the latest advancements in technology and is always eager to share his knowledge with his students.
 
@@ -31,6 +31,8 @@ Mr. Smith strongly believes in fostering creativity and critical thinking skills
 ## Inspires a Love for Computer Science
 
 Through his dedication and passion, Mr. Smith inspires a love for computer science in his students. He shares inspiring stories about the impact of technology and the endless possibilities that computer science offers. Many of his students have discovered their passion for programming and technology in his class, and some have even gone on to pursue computer science in college and beyond.
+
+![teacher](https://media.istockphoto.com/id/109724174/photo/first-grader.jpg?s=2048x2048&w=is&k=20&c=ev6CMTJJdoUH90kYnFleh38wMcBcyFhBj877RMeqvb8=)
 
 ## Mentor and Role Model
 
