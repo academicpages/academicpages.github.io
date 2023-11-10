@@ -28,6 +28,8 @@ One of Mr. Smith's greatest strengths is his ability to create a supportive and 
 
 Mr. Smith strongly believes in fostering creativity and critical thinking skills in his students. He encourages them to think outside the box and explore innovative solutions to problems. He assigns open-ended projects that allow students to showcase their creativity and apply their knowledge in unique ways. Under his guidance, students develop the confidence to tackle complex challenges and develop their own ideas.
 
+![studemt](https://img.freepik.com/free-photo/asian-collage-female-woman-smiling-cheerful-joy-face-expression-hand-hold-notebook-tablet-with-backpack-ready-schoolhappiness-positive-young-asia-woman-confident-smile-back-school-lifestyle_609648-3067.jpg?size=626&ext=jpg&ga=GA1.1.527595382.1699616720&semt=sph)
+
 ## Inspires a Love for Computer Science
 
 Through his dedication and passion, Mr. Smith inspires a love for computer science in his students. He shares inspiring stories about the impact of technology and the endless possibilities that computer science offers. Many of his students have discovered their passion for programming and technology in his class, and some have even gone on to pursue computer science in college and beyond.
