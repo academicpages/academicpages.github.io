@@ -21,6 +21,7 @@ My research interests span a range of topics, from Partial Differential Equation
 Education (More [info](../_pages/Education.md))
 ======
 * Sept. 2020-June 2024, Wuhan University, BSc of Mathematics and Applied Mathematics.
+  [Transcript](../files/Transcript20230814.pdf)
 
 * Sept. 2023-June 2024, Université Toulouse III-Paul Sabatier, Master 1 in Mathematics.
 
@@ -30,7 +31,7 @@ Find my CV [here](../files/cv.pdf)
 
 Academic Experience
 =====
-**Jul 2023**, HKUST Summer Research Program
+**Jul 2023**, [HKUST Summer Research Program](../files/HKUST%20Summer%20Research)
 
 **Feb 2022**, [STEM](../files/STEM.pdf) Academic Writing online Courses offered by Cambridege University. 
 
