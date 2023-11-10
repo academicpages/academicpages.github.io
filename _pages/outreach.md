@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-As a former McNair Scholar and a first-generation college student, I am especially committed to raising awareness, accessibility, and opportunities in STEM research to underrepresented groups. Outside of universities, I am part of the Engineering Biology Research Consortium’s effort to extend the reach of synthetic biology beyond research-intensive (R1) institutions. I am also a long-time mentor for the international Genetically Engineering Machines (iGEM) – where I have mentored 2 collegiate teams and 1 women-majority high school team to compete in the annual iGEM Jamboree. My mentorship effort was recognized with the Most Dedicated Mentor Award by the iGEM community in 2021.
+As a former McNair Scholar and a first-generation college student, I bring a deep-rooted, personal commitment to raising awareness, accessibility, and opportunities in STEM research to underrepresented groups. Outside of universities, I am part of the Engineering Biology Research Consortium’s effort to extend the reach of synthetic biology beyond research-intensive (R1) institutions. I am also a long-time mentor for the international Genetically Engineering Machines (iGEM) – where I have mentored 2 collegiate teams and 1 women-majority high school team to compete in the annual iGEM Jamboree. My mentorship effort was recognized with the Most Dedicated Mentor Award by the iGEM community in 2021.
 
 The advancement of science depends on diverse experiences and perspectives, and I am driven to promote diversity and inclusion through my research, mentorship, teaching, and outreach activities.
 
