@@ -1,7 +1,7 @@
 ---
 title: "Impact of half-wave plate systematics on the observed CMB polarization"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/230621_KEK_slides
 venue: "KEK-CMB Group Seminar"
 date: 2023-06-21
