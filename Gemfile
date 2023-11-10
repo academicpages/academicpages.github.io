@@ -8,7 +8,7 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-
+gem "public_suffix", "~> 4.1.1"
 gem "github-pages", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
@@ -17,7 +17,7 @@ gem "github-pages", group: :jekyll_plugins
 gem "jekyll"
 
 # gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem 'public_suffix', '5.0.3'
+
 
 
 # If you have any plugins, put them here!
