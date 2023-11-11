@@ -12,5 +12,7 @@ collection: solving
 6. [【论文细读】地图匹配领域经典论文《Hidden Markov Map Matching Through Noise and Sparseness》](https://zhuanlan.zhihu.com/p/581906119)
 7. [论文笔记：Map-Matching for low-sampling-rate GPS trajectories（ST-matching）](https://blog.csdn.net/qq_40206371/article/details/130346916)
 8. To solve the problem below: a.[here](https://blog.csdn.net/shawn05liu/article/details/123879135)
+   Check the variables carefully....maybe there is a variable name 'sc'...so, be careful..
    ![image](https://github.com/RuohanLixyf/RuohanLixyf.github.io/assets/114407037/041de307-1c2d-4569-97ce-35402d3365d5) 
   
+   
