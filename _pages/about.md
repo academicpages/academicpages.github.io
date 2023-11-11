@@ -13,5 +13,9 @@ I am a gradute student at Kennesaw State University getting my master of science
 Spotlight
 ======
 
-## Mckenney's 
+### Hackathon ###
+
+### Foothills Web Productions ###
+
+### Mckenney's Inc ###
 
