@@ -15,5 +15,5 @@ My research interests cover broadly Bayesian Statistics and their application in
 
 I am a reviewer for several journals including *International Journal of Forecasting*, *Electronic Journal of Statistics* and *Statistica Sinica*, among many more. 
 
-[CV](https://github.com/davkoh/davkoh.github.io/blob/8e5c85f3505e9915dd85293cc6fc400ac5bef34d/files/CVDavidKohns.pdf) 
+[CV](https://github.com/davkoh/davkoh.github.io/blob/master/files/CVDavidKohns.pdf) 
 ======
