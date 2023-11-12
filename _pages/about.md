@@ -18,11 +18,27 @@ My name is Yu-Sheng Su and I am an Research Fellow hosted by [Eric Xing](http://
 
 <!--My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:-->
 
-I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
+I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable and interactable</b> when deployed in real applications. Toward this goal, my previous works spans across:
 
-* <b>General-purpose model. (Model Learning)</b> Building pre-trained foundation models that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc) and acquire knowledge to improve the abilities of understanding, reasoning, etc. ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/))
+* <b>General-purpose model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc. ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/))
 
-* <b>Computational efficiency method. (Model Manipulating)</b> Developing theory, tools, and algorithms to computation-friendly and efficiently manipulate large-scale pre-trained foundation models toward downstream tasks (e.g., prompt tuning methods, in-context learning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp))
+* <b>Computational efficiency method. (Model Fine-tuning)</b> Developing theory, tools, and algorithms to efficiently (computation-friendly) adapt large-scale models toward downstream tasks (e.g., prompt tuning methods, in-context learning, instruction tuning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp))
+
+
+Recently, I am more focused on and interested in the <b>reliable and interactive</b> part:
+
+
+* <b>Interactive AI Agent</b>
+
+* <b>AI Aligment</b>
+
+, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
+
+the external data sources (e.g., knowledge bases, web pages, textual documents, etc) 
+
+[CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)
+
+
 
 * <b>AI Alignment and Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201), [XAgent](https://blog.x-agent.net/about/))
 
