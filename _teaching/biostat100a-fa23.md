@@ -13,6 +13,8 @@ I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT1
 
 * [Lab 1](../files/BIOSTAT100A_Lab1.pdf)  
 * [Lab 2](../files/BIOSTAT100A_Lab2_Pang.pdf)  
+* [Lab 3](../files/Biostat_100A_lab_week3_PangVersion.pdf)  
+* [Lab 4](../files/Lab%204%20Notes_lecture.pdf)
 
 ## Chinese-English Translation Sheet with Key Terms and Concepts  
 
