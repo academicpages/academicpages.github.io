@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the Department of Civil, Environmental, and Geo- Engineering at the University of Minnesota, Twin Cities. My research is under the supervision of [Dr. Raphael E. Stern](https://cse.umn.edu/cege/faculty/raphael-stern) at the Transportation Cyber-Physical System (TCPS) Lab. I received an MSc degree in Civil Engineering from the University of Illinois, Urbana-Champaign (UIUC) in 2018 and a BSc degree in Civil Engineering from Southwest Jiaotong University, Chengdu, China, in 2017.
 
-My research interests focus on traffic dynamic modeling, traffic simulations and control, electric vehicles, traffic cyberattacks, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1zEryNcz8kpj-5WKyMCHVlqgVwCTx7ENC/view?usp=sharing) for more details. 
+My research interests focus on traffic dynamic modeling, traffic simulations and control, electric vehicles, traffic cyberattacks, and the impacts of mixed-autonomy traffic flow. Please find my [CV](https://drive.google.com/file/d/1tEQB4OsO6VdM4e8xhi4xZsygPk6fkjiP/view?usp=sharing) for more details. 
 
 News and Updates
 ======
