@@ -1,7 +1,7 @@
 ---
 title: "Flexible Bayesian MIDAS: time‑variation, group‑shrinkage and sparsity. [WP](https://www.bankofengland.co.uk/working-paper/2023/flexible-bayesian-midas-time-variation-group-shrinkage-and-sparsity)"
 collection: wps
-year: 'revise and resubmit at Journal of Business and Economic Statistics' 
+year: '**revise and resubmit** at Journal of Business and Economic Statistics' 
 excerpt: ''
 coauthors: "with G. Potjagailo"
 journal: 'Bank of England Staff WP Series'

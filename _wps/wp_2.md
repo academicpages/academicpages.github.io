@@ -1,7 +1,7 @@
 ---
 title: "Bayesian order identification of ARMA models with projection predictive inference. [WP](https://arxiv.org/abs/2208.14824)"
 collection: wps
-year: 'submitted' 
+year: '**submitted**' 
 excerpt: ''
 coauthors: "with Y. McLatchie, A. Matamoros, A. Vehtari"
 journal: 'arXiv:2208.14824'

@@ -1,7 +1,7 @@
 ---
 title: "Decoupling shrinkage and selection for the Bayesian quantile regression. [WP](https://arxiv.org/abs/2107.08498)"
 collection: wps
-year: 'submitted' 
+year: '**submitted**' 
 excerpt: ''
 coauthors: "with T. Szendrei"
 journal: 'arXiv:2107.08498'
