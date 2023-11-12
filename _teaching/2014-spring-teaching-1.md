@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Enseignant à l'Université Lyon 1"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Travaux dirigés"
+permalink: /teaching/UCBL
+venue: "Université Lyon 1, Département de mathématiques
+date: 2020-10-01
+location: "Lyon, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Doctorant contractuel chargé de TD/TP à l'UCBL Lyon 1 entre 2020 et 2023.
 
 Heading 1
 ======
