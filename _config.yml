@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Weizhi Du"
   avatar           : "wdu-logo.jpg"
-  bio              : "B.S. Candidate in Computer Science"
+  bio              : "B.S. Candidate in Computer Science \ Washington University in St. Louis"
   location         : "St. Louis, MO, USA"
-  employer         : "Washington University in St. Louis"
+  employer         : # "Washington University in St. Louis"
   pubmed           :
   googlescholar    :
-  email            : "d.weizhi [at] wustl [dot] edu"
+  email            : "d.weizhi@wustl.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://linkedin.com/in/duw"
+  linkedin         : "duw"
   orcid            :
   pinterest        :
   soundcloud       :
