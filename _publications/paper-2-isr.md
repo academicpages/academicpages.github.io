@@ -12,4 +12,4 @@ Super-resolution reconstruction in medical imaging has become more demanding due
 
 [Download paper here](https://doi.org/10.26599/TST.2022.9010071)
 
-[//]: # (Recommended citation: Your Name, You. &#40;2010&#41;. "Paper Title Number 2." <i>Journal 1</i>. 1&#40;2&#41;.)
+[//]: (Recommended citation: Your Name, You. &#40;2010&#41;. "Paper Title Number 2." <i>Journal 1</i>. 1&#40;2&#41;.)

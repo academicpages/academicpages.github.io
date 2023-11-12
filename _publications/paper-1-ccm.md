@@ -12,4 +12,4 @@ Optimization of resource distribution has been a challenging topic in current so
 
 [Download paper here](https://doi.org/10.48550/arXiv.2011.12711)
 
-[//]: # (Recommended citation: Your Name, You. &#40;2009&#41;. "Paper Title Number 1." <i>Journal 1</i>. 1&#40;1&#41;.)
+[//]: (Recommended citation: Your Name, You. &#40;2009&#41;. "Paper Title Number 1." <i>Journal 1</i>. 1&#40;1&#41;.)
