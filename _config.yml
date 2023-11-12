@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Milad Afshari"
+title                    : "Milad A"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Milad Afshari"
+  name             : "Milad A"
   avatar           : "profile.png"
   bio              : "Ph.D. Student"
   location         : "East Lansing, MI"
