@@ -14,7 +14,7 @@ J'ai y travaillé sur plusieurs problèmes théoriques et numériques autour des
 Et maintenant
 ======
 
-Je participe jusqu'à fin 2023 au <a href=https://paris-digital-lab.com/digital-tech-year-fr/>Digital Tech Year</a>, un programme d'innovation Tech et de montée en compétences en Software Engineering et IA, porté par Illuin Technology et Centrale-Supélec. Ce programme intensif est ouvert depuis 2023 aux docteurs en mathématiques via le projet <a href=https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/reconvertai-projet-de-reconversion-en-intelligence-artificielle-graduate-school-mathematiques>ReconvertAI</a> financé par la SaclAI-school et la fondation Hadamard.
+Je participe jusqu'à fin 2023 au <a href="https://paris-digital-lab.com/digital-tech-year-fr/">Digital Tech Year</a>, un programme d'innovation Tech et de montée en compétences en Software Engineering et IA, porté par Illuin Technology et Centrale-Supélec. Ce programme intensif est ouvert depuis 2023 aux docteurs en mathématiques via le projet <a href="https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/reconvertai-projet-de-reconversion-en-intelligence-artificielle-graduate-school-mathematiques">ReconvertAI</a> financé par la SaclAI-school et la fondation Hadamard.
 
 Pour me contacter
 ------
