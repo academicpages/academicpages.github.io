@@ -10,7 +10,7 @@ This project has been part of the ME270 class which included a side project on b
     <source src="/images/Rube Goldberg-2.mp4" type="video/mp4">
     </video>
     <br>
-    Video for Media Refreshment
+    Rube Goldberg Machine Final Product
 </p>
 
 
