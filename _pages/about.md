@@ -12,6 +12,11 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* November 14th-17th: At the OzGrav retreat in Adelaide! 
+* November 13th: Sarin et al. 2023 - _Measuring the nuclear equation of state with neutron star-black hole mergers_ submitted to PRL. Check it out on the [arXiv](https://arxiv.org/abs/2311.05689)
+* November 7th: Travelling to Australia! Will be spending the summer here and attending a few conferences. 
+* November 1st-3rd: In Lund this week, where I am giving an invited talk on r-process nucleosynthesis in kilonovae
+* October 31st: Today I gave the OKC seminar.
 * October 16th-19th: Back in Stockholm for the OKC15 conference. I will be talking about what we learnt and expect to learn from direct GW and indirect EM observations of BNS mergers.
 * October 9th-13th: This week I am in Nijmegen, visiting Radboud University. On Monday I gave an invited colloquium on EM transients.
 * October 3-5th: This week I am in Hamburg, visiting the beautiful Hamburg Observatory and Prof. Stephan Rosswog, I will be giving an invited colloquium on the 4th on the [observational implications of merging neutron star binaries](https://www.physik.uni-hamburg.de/en/hs/frontpage---events.html?event=97324). 
