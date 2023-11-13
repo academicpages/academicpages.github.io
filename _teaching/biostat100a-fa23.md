@@ -23,4 +23,5 @@ I serve as a Teaching Assistant (TA) for Introduction to Biostatistics (BIOSTAT1
 ## Lab Answer Keys  
 These links are encrypted such that you will NOT be able to access these without a key!  
 
-* [Lab 3](../files/Lab_3_ans_encrypted.html)
+* [Lab 3](../files/Lab_3_ans_encrypted.html)  
+* [Lab 4](../files/Lab_4_key_encrypted.html)  
