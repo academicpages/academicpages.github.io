@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+- Our extended paper on DB-BERT, the tuning tool that "reads" the manual, accepted by VLDBJ!
 - Our paper "Quantum-Inspired Digital Annealing for Join Ordering" accepted at PVLDB'23!
 - Two papers accepted at PVLDB'23! Both apply LLMs to data management problems.
 - Our demo on NaturalMiner wins the Best Demo Runner Up Award at SIGMOD'23!
