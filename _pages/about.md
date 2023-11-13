@@ -15,3 +15,5 @@ There, I am currently working at the intersection of **AI + SE**, specifically u
 I completed my Bachelor in Computer Science and Engineering from BITS Pilani Pilani Campus, where I took a variety of courses relating to Networks, Operating Systems, and Parallel Computing.
 
 During my Bachelor Thesis, I visited the [EASE Lab](https://easelab.inf.ed.ac.uk) University of Edinburgh, advised by [Dr. Boris Grot](https://homepages.inf.ed.ac.uk/bgrot/). There, I worked on Serverless computing, specifically creating a set of microbenchmarks for testing the performance of Serverless platforms, [vSwarm](https://github.com/vhive-serverless/vSwarm).
+
+You can find more info about me through my [CV](https://harshitgarg.in/cv).
