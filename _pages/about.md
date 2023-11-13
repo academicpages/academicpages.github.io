@@ -63,8 +63,9 @@ Research
     <tr>
       <td>
         <ul>
-          <li>December 14th-16th 2023: Santiago de Chile (Chile), ACPP Conference.</li>
-        </ul>
+          <li>December 14th-16th 2023: Santiago de Chile (Chile), ACPP conference.</li>
+          <li>January 10th-14th 2024: New Orleans (LA, U.S.), SPSA conference.</li>
+       </ul>
       </td>
     </tr>
   </tbody>
