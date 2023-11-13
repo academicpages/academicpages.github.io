@@ -3,7 +3,7 @@ title: "Enseignant à l'Université Lyon 1"
 collection: teaching
 type: "Travaux dirigés"
 permalink: /teaching/UCBL
-venue: "Université Lyon 1, Département de mathématiques
+venue: "Université Lyon 1, Département de mathématiques"
 date: 2020-10-01
 location: "Lyon, France"
 ---

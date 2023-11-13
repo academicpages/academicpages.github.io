@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 J'ai soutenu le 3 juillet 2023 ma thèse, préparée à l'Institut Camille Jordan sous la direction de <a href="http://math.univ-lyon1.fr/homes-www/lagoutiere/">Frédéric Lagoutière</a>. <br>
-J'ai y travaillé sur plusieurs problèmes théoriques et numériques autour des équations d'agrégation-diffusion, utilisées dans la modélisant de la dynamique de bactéries. J'ai notamment étudié diverses asymptotiques pour les problèmes d'agrégation avec potentiel d'interaction singulier en fournissant des estimations de convergence en distance de Wasserstein pour les solutions mesures. <br>
+J'y ai travaillé sur plusieurs problèmes théoriques et numériques autour des équations d'agrégation-diffusion, utilisées dans la modélisant de la dynamique de bactéries. J'ai notamment étudié diverses asymptotiques pour les problèmes d'agrégation avec potentiel d'interaction singulier en fournissant des estimations de convergence en distance de Wasserstein pour les solutions mesures. <br>
 
 Et maintenant
 ======
@@ -19,4 +19,4 @@ Je participe jusqu'à fin 2023 au <a href="https://paris-digital-lab.com/digital
 Pour me contacter
 ------
 
-Mail : trantien(at)math.univ-lyon1.fr
+trantien(at)math.univ-lyon1.fr
