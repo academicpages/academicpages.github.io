@@ -8,14 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ramón Y Cajal Fellow at the Faculty of Political Science and Law at the University of Barcelona. 
+I am a computational social scientist in the Political Science and Law Department at Universitat de Barcelona (Ramón y Cajal research fellow 2023-2027). My research covers topics related to protest politics and interest groups. I use computational linguistics, network analysis, and experimental and survey data to address core questions on representation, inequalities, and influence processes in Europe and Latin America.
 
-Research
+[My research project on rhetorical influence, political organisations and policy processes](https://ccristancho.github.io/rrigo/) uses data from social media and parliamentary records in a comparative perspective.
+
+Publications
 ======
-My research covers three main areas: Protest, interest groups and collective action; agenda dynamics and political representation; and methodological innovation. [My last research project on political organisations and policy processes](https://ccristancho.github.io/rrigo/) uses data from social media and parliamentary records in a comparative perspective. I use computational linguistics, machine learning and network analysis to address core questions on inequalities and influence processes of interest groups and social movement organizations through the study of language in the parliamentary arena and social media platforms.
+[The gender divide in issue attention](https://ejpr.onlinelibrary.wiley.com/doi/epdf/10.1111/1475-6765.12437) - European Journal of Political Research, 2022
+[The cultural outcomes of social movements: a computational linguistics approach](http://siba-ese.unisalento.it/index.php/paco/article/view/24487) - PArtecipazione e COnflitto, 2021
+[La agenda de los grupos de interés frente a la COVID-19: el rastro digital en Twitter](https://recyt.fecyt.es/index.php/recp/article/view/90044) - Revista Española De Ciencia Política, 2021
 
-
-Teaching
+Working papers
 ======
-I have experience in teaching political behaviour with an emphasis on collective action, political attitudes, and public opinion; political sociology, concentrating mostly on organizations in politics; public policy with a focus on agenda dynamics; research methods, and applied statistics at the introductory and intermediate level on multiple subfields. 
-I also teach computational methods for text and network analyses techniques as well as R language courses. I regularly teach short seminars on applied data science for multiple universities and research centres in social sciences, data journalism, entrepreneurship, or social activism.
+[In search for common ground: The dynamics of interest groups and party narratives](https://www.dropbox.com/s/qoo4k3dr7dgi20z/In%20search%20for%20common%20ground_%20The%20dynamics%20of%20interest%20groups%20and%20party%20narratives.pdf?dl=0)
+Elite responsiveness to protest in Latin America: Evidence from protest event data and political elites on Twitter - with Ruud Wouters
+MPs issue prioritization on social media in Italy and Spain - with Marcello Carammia, Laura Chaqués-Bonafont and Federico Russo
+
+Work in progress
+======
+Media reflections of protest in Latin America: A comparative perspective 2000-2023
+Varieties of elite polarisation in Latin America - with Luis Remiro
+Social control and judicial perceptions of protest in Spain - with Andreu Rodilla
