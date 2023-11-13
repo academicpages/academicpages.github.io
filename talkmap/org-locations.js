@@ -65,10 +65,16 @@ var addressPoints = [
   ],
   // Others
   [
-    "Santiago, Chile", // ACCP
+    "Santiago, Chile", // ACCP 2010 UDP
     -33.4489,
     -70.6693
   ],
+    [
+    "Santiago, Chile", // ACCP 2023 Usach
+  -33.451022, 
+  -70.685904
+  ],
+
   [
     "Concepcion, Chile", // INPAE
     -36.494150,

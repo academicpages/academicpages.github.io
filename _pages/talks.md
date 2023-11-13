@@ -83,6 +83,7 @@ I have presented / will be presenting at...
 
 #### Southern Political Science Association (SPSA)
 
+- New Orleans, LA: 2024. Panel: TBA.
 - St. Petersburg, FL: 2023. Panel: Elections Outside the United States.
 - San Juan, Puerto Rico: 2020. Panel: Trust, Clientelism, and Behavior. [declined]
 - New Orleans, LA: 2018. Panel: The Political Economy of Development.
@@ -96,6 +97,7 @@ I have presented / will be presenting at...
 
 #### Congreso Chileno de Ciencia Política (ACCP)
 
+- Santiago, Chile: 2023. Panel: Intención de voto y comportamiento electoral (coauthor).
 - Santiago, Chile: 2010. Panel: Vínculos Partido-votante (coauthor).
 
 
