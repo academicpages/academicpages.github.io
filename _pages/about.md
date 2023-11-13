@@ -18,73 +18,21 @@ My name is Yu-Sheng Su and I am an Research Fellow hosted by [Eric Xing](http://
 
 <!--My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:-->
 
-I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>reliable and interactable</b> when deployed in real applications. Toward this goal, my previous works spans across:
+I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding, reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>interactable and reliable</b> when deployed in real applications. Toward this goal, my previous works spans across:
 
-* <b>General-purpose model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc. ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/))
+* <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models.
 
-* <b>Computational efficiency method. (Model Fine-tuning)</b> Developing theory, tools, and algorithms to efficiently (computation-friendly) adapt large-scale models toward downstream tasks (e.g., prompt tuning methods, in-context learning, instruction tuning, etc.). ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp))
-
-
-Recently, I am more focused on and interested in the <b>reliable and interactive</b> part:
+* <b>Computational efficiency Method. (Model Fine-tuning)</b> Developing theory, tools, and algorithms to efficiently (computation-friendly) adapt large-scale models toward downstream tasks (e.g., prompt tuning methods, in-context learning, instruction tuning, etc.) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
 
-* <b>Interactive AI Agent</b>
+Recently, I am more focused on <b>interactable and reliable</b> part:
 
-* <b>AI Aligment</b>
+* <b>Interactive AI Agent. (Model Planning and Reasoning)</b> Developing autonomous systems (agents) that can acquire an exteranl information through interaction with their environment ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)) and utilize acquired knowledge to drive their decision making ([Tool Leaning](https://arxiv.org/abs/2304.08354), [XAgent](https://blog.x-agent.net/about/), [ChatDev](https://arxiv.org/abs/2307.07924), [AgentVerse](https://arxiv.org/abs/2308.10848)). Note that: We further make autonomous systems (agents) to collaboratively accomplish complex tasks and observe the emergence of human-like social behaviors (refer to [here](https://arxiv.org/abs/2308.10848)).
 
-, and remain <b>reliable when deployed</b> in real applications. Toward this goal, my work spans across:
-
-the external data sources (e.g., knowledge bases, web pages, textual documents, etc) 
-
-[CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)
+* <b>AI Aligment. (Model Aligment)</b> Designing paradisms to control and steer AI systems that smarter than human (refer to [here](https://openai.com/blog/introducing-superalignment)). At the present stage, I am studying how to create a tool that can explore unclosed behavior in AI models ([Model Emotion](https://arxiv.org/abs/2302.09582)) and propose a metric/pipeline to autonomously evaluate AI models ([Chateval](https://arxiv.org/abs/2308.07201)).
 
 
 
-* <b>AI Alignment and Agent. (Model Controlling)</b> Designing methods to understand the emerging human-like capacities of contemporary foundation models and ensure they are reliable (perform tasks in accordance with human's real intentions and follow safety/ethical rules) and accomplish complex real-world tasks. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Tool Leaning](https://arxiv.org/abs/2304.08354), [AgentVerse](https://arxiv.org/abs/2308.10848), [ChatDev](https://arxiv.org/abs/2307.07924), [Chateval](https://arxiv.org/abs/2308.07201), [XAgent](https://blog.x-agent.net/about/))
-
-<!--
-the models perform tasks in accordance with human's real intentions. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Removing Backdoors](), [Tool Leaning](https://arxiv.org/abs/2304.08354))
--->
-
-<!--
-(https://www.dropbox.com/s/0yuudhokyyomkup/Removing_Backdoors_in_Pre-trained_Models_by_Regularized_Continual_Pretraining.pdf?dl=0)
--->
-
-
-<!--
-My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in <b>large-scale pre-trained models (LLMs)</b>. My research aims to build more general LLMs and develop efficient paradigms for them to deploy in real-world applications.
-
-* <b>General LLMs.</b> Building LLMs that can actively access to various data sources (e.g., knowledge bases, web pages, textual documents, etc ) and acquire knowledge to accomplish new tasks.
-
-* <b>Efficient Paradigms.</b> Developing theory, tools, and algorithms to efficiently adapt LLMs downstream tasks (e.g., parameter-efficient tuning methods, in-context learning, etc.).
--->
-
-
-<!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
-
-<!--exploring the mechanism (theory) and mainpulation (practice) of <b>large-scale pre-trained models (LLMs)</b> to efficiently and effectively adapt to real-world applications. To achieve these goals, I focus on the following directions-->
-
-<!--My research spans the areas of natural language processing and machine learning. At the current stage, I am particularly interested in exploring the mechanism (theory) and mainpulation (practice) of <b>large-scale pre-trained models (LLMs)</b> to efficiently and effectively adapt to real-world applications. To achieve these goals, I focus on the following directions:-->
-
-<!--
-* <b>Parameter-Efficient Tuning.</b> Adapting LLMs to downstream tasks incurs a huge computational burden. How can we adapt LLMs to downstream tasks efficiently (with less computational burden)? <!--Driving LLMs with minimal parameters (parameter-efficient tuning) is worth exploring.
-
-
-* <b>Knowledge Acquisition From Multi-Modal Data.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data. How can we equip LLMs with the ability to actively acquire task-specific knowledge from multi-modal data in the open world?
--->
-
-
-<!--Human-Like Cognitive Abilities and Human-computer interaction are the furthure direction that I want to explore-->
-
-
-  
-<!--<b>* <b>Human-Like Cognitive Abilities.</b> Adapting LLMs to downstream tasks requires training on task-specific manually annotated data, which needs manual effort involving labeling. How can we acquire task-specific knowledge effectively (without manual effort)? Equipping LLMs with human-like cognitive abilities to leverage open-world information is a promising direction.-->
-
-<!--<b>AI4Science.</b> How many human-like capabilities LLMs learn in the pre-training stage remains unknown. To further understand, we develop tools to explore and conduct a series of analyses.-->
-
-
-
-<!--My research interests lie within the intersection of Natural Language Processing and Machine Learning, particularly in pre-trained language models (PLMs). At the current stage, I am particularly studying how to effectively and efficiently adapt PLMs to complex downstream tasks. To achieve these goals, I specifically focus on knowledge-guided methods, transfer learning, in-context learning, and parameter-efficient tuning.-->
 
 <!--You can find my CV [here](/cv/).-->
 
