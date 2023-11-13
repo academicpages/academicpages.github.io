@@ -8,6 +8,7 @@ main:
 
   - title: "Resume"
     url: /files/resume.pdf
+    target: _blank
 
 #  - title: "Talks"
 #    url: /talks/
