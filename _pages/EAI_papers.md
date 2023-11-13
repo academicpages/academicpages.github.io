@@ -119,6 +119,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought <a href="https://arxiv.org/abs/2305.15021">📚</a></li>
     <li>PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
     <li>Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
+    <li>JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models<a href="https://arxiv.org/abs/2311.05997">📚</a></li>
   </ul>
 </details>
 
