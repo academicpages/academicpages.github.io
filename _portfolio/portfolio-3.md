@@ -4,7 +4,7 @@ excerpt: "Circuit Based Automation Project<br/><img src='/images/Total View.jpg'
 collection: portfolio
 ---
 This project aims to automate laboratory tasks such as media refreshment while also preventing risks of contamination by reducing contact with human. 
-A set of peristaltic pumps, a Raspberry Pi, stepper drivers, and a flow sensor was used to formulate the machine and the gantry was created with collaboration with other Phd students. 
+A set of peristaltic pumps, a Raspberry Pi, stepper drivers, and a flow sensor was used to formulate the machine and the gantry was created with collaboration with other Ph.D students. 
 
 <table style="width:100%; text-align:center; border: none;">
   <tr>
