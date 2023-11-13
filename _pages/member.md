@@ -98,7 +98,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     2023 PhD student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: xxxxxx@scut.edu.cn  </p>
+    Email: 202310192911@scut.edu.cn  </p>
   </div>
 </div>
 
@@ -119,7 +119,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     2021 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: xxxxxx@scut.edu.cn  </p>
+    Email: 202120162453@scut.edu.cn  </p>
   </div>
   <div style="flex:1">
     <img src="../images/xiupeng.jpg" style="width: 150px; height:200px;">
@@ -128,7 +128,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     2021 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: xxxxxx@scut.edu.cn  </p>
+    Email: 202120162445@scut.edu.cn  </p>
   </div>
 
 </div>
@@ -181,7 +181,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     2023 Master student  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: xxxxxx@scut.edu.cn  </p>
+    Email: 202320162290@scut.edu.cn  </p>
   </div>
   <div style="flex:1">
     <img src="../images/zexin.jpg" style="width: 150px; height:200px;">
@@ -203,7 +203,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     2022 Undergraduate  </p>
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: 2022XXXXXXX@mail.scut.edu.cn  </p>
+    Email: 202264640132@mail.scut.edu.cn  </p>
   </div>
   <div style="flex:1">
     <img src="../images/ZhangZhao.jpg" style="width: 150px; height:200px;">
