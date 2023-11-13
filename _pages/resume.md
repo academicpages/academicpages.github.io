@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.A.Sc. in Mechanical Engineering, University of Waterloo, 2018
+* B.A.Sc. in Mechanical Engineering, University of Waterloo, Graduated 2018
   * Honours, Co-operative Program
   * Welding and Joining Specialization
 
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
+* **Mechanical Design Engineer / Product Manager** at Zaber Technologies, *Vancouver, BC*
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -27,7 +27,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+
 Skills
 ======
 * Skill 1
