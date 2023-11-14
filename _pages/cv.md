@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="https://fatima-ahmed-economics.github.io/files/Fatima%20Ahmed%20CV.pdf" title="description" width=600 height=800></iframe>
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
