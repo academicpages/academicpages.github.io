@@ -1,6 +1,6 @@
 ---
 title: "Baja SAE Custom Gearbox"
-excerpt: "Compact gearbox with two-stage gear reduction and integrated brake<br/><img src='/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png'>"
+excerpt: "Compact gearbox with two-stage gear reduction and integrated brake<br/><img src='/images/Baja_Buggy_E5_on-rock_w500.jpg'>"
 collection: projects
 ---
 
@@ -14,4 +14,4 @@ collection: projects
 
 ### Conclusion
 
-![Mountain Bike](/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png)
+![Baja Buggy](/images/Baja_Buggy_E5_on-rock_w500.jpg)
