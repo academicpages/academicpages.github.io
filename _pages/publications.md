@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+Check my new website: [www.vvvasconcelos.net](https://www.vvvasconcelos.net)
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}

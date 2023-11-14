@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+
+Check my new website: [www.vvvasconcelos.net](https://www.vvvasconcelos.net)
+
 {% include base_path %}
 
 

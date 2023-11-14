@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Check my new website: [www.vvvasconcelos.net](https://www.vvvasconcelos.net)
 
 "I think the next [21st] century will be the century of <i>Complexity</i>," [said](https://nl.newsbank.com/nl-search/we/Archives?p_product=SJ&p_theme=sj&p_action=search&p_maxdocs=200&s_dispstring=allfields(stephen)%20AND%20date(1/23/2000%20to%201/23/2000)&p_field_date-0=YMD_date&p_params_date-0=date:B,E&p_text_date-0=1/23/2000%20to%201/23/2000&p_text_advanced-0=(%22stephen%22)&xcal_numdocs=20&p_perpage=10&p_sort=YMD_date:D&xcal_useweights=no) Stephen Hawking, anticipating the way science is developing. In this era of Complexity, I seek to explore the interconnectedness among and emergent properties of complex systems, which play a crucial role in our world yet are challenging to manage. From climate change to global misinformation, our collective inability to manage these systems results in a multitude of systemic crises.
 
