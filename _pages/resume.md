@@ -9,8 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+# Download Resume Here
+
+A printable pdf version of this resume is available here: ![Resume](/files/Resume_Graham_Davison-November-2023.pdf)
+
 Education
 ======
+
 * B.A.Sc. in Mechanical Engineering, University of Waterloo, Graduated 2018
   * Honours, Co-operative Program
   * Welding and Joining Specialization
