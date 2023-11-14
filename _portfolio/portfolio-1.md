@@ -4,10 +4,6 @@ excerpt: "MAE598: Design Optimization by Prof. Yi (Max) course project Ren <br/>
 collection: portfolio
 ---
 
-```
-# This is formatted as code
-```
-
 # Gradient-based Algorithms and Differentiable Programming
 
 
