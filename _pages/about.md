@@ -11,4 +11,3 @@ redirect_from:
 ABOUT ME
 
 I AM THE GREATEST
-<iframe src="https://fatima-ahmed-economics.github.io/files/Fatima%20Ahmed%20CV.pdf" title="description"></iframe>
