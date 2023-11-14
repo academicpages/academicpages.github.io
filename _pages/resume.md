@@ -11,7 +11,7 @@ redirect_from:
 
 # Download Resume Here
 
-A printable pdf version of this resume is available here: ![Resume](/files/Resume_Graham_Davison-November-2023.pdf)
+A printable pdf version of this resume is available here: [Resume](/files/Resume_Graham_Davison-November-2023.pdf)
 
 Education
 ======
@@ -91,7 +91,6 @@ Work Experience
   
     
   
-
 * **Test Engineering Assistant** at Ontario Drive and Gear (ODG), *New Hamburg, ON*
 
   *May 2015 to August 2015 - Co-op*
