@@ -111,7 +111,7 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 ## Under Review or Preprint Version <!-- Submitted for Publications-->
 
 * <b>Human Emotion Knowledge Representation Emerges in Large Language Models and Supports Discrete Emotion Inference</b>\
-*Yusheng Su<sup><big>*</big></sup>, <b>Ming Li</b><sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+*<b>Yusheng Su</b><sup><big>*</big></sup>, Ming Li<sup><big>*</big></sup>, Hsiu-Yuan Huang, Jiali Cheng, Xin Hu, Xinmiao Zhang, Huadong Wang, Yujia Qin, Xiaozhi Wang, Zhiyuan Liu, Dan Zhang* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 (Submitted to Nature Human Behaviour 2023). [[pdf](https://arxiv.org/abs/2302.09582)] [[code](https://github.com/thunlp/OpenNeuron)] <small>(Refactoring - User friendly toolkit coming soon)</small>
 
 * <b>Tool Learning with Foundation Models</b>\
@@ -119,7 +119,7 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
 
 * <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
-*Yusheng Su<sup><big>*</big></sup>, <b>Weize Chen</b><sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+*<b>Yusheng Su</b><sup><big>*</big></sup>, Weize Chen<sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
 ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/openbmb/agentverse)]
 
 * <b>Communicative agents for software development</b>\
