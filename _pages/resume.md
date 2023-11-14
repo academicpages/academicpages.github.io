@@ -19,14 +19,37 @@ Education
 Work Experience
 ======
 * **Mechanical Design Engineer / Product Manager** at Zaber Technologies, *Vancouver, BC*
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  *July 2018 to November 2023*
+
+  * Completely redesigned two high volume linear motion product lines to improve various performance specifications and reduce overall cost
+
+  * Improved internal manufacturing processes for induction heat-treatment, surface finishing and bearing rail manufacturing processes through iterative experimentation and testing
+
+  * Designed and fabricated custom prototypes, proof of concepts, assembly fixtures and test jigs
+
+  * Conducted extensive device testing on prototypes and initial production linear and rotary stages
+
+  * Ensured compliance with CE machinery directive and electromagnetic compatibility directive (EMC) of new designs
+
+  * Exposure to ISO 13732-1 (human response to contact with hot surfaces), ISO 1210013854 (safety of machinery – risk assessment and reduction) and ISO 13854 (safety of machinery – minimum gaps)
+
+  * Managed products through entirety of lifecycle; from planning phase to design, product launch and product support 
+
+  * Supported designs with thorough and iterative FMEA to improve user safety and device reliability
+
+    
+
+* **Mechanical Designer** at TRIUMF, *Vancouver, BC*
+
+  *May 2017 to August 2017 - Co-op*
+
+  * Designed test stations and large steel weldments to aid in the repair of beamline equipment
+  * Evaluated structural integrity of test frames using ANSYS Workbench
+  * Assisted the Remote Handling Group by designing new tooling and fixtures
+  * Conducted preliminary testing on new remotely operable water fittings
+
+  
 
 Skills
 ======
