@@ -35,7 +35,7 @@ See [publications](latower.github.io/publications).
 
 ### AWARDS, SCHOLARSHIPS, GRANTS
 
-**2023:** Travel grant, to visit the (Simons Institute at UC Berkeley)[https://simons.berkeley.edu/homepage] for a month, in order to attend the (Extendend Reunion: Satisfiability)[https://simons.berkeley.edu/programs/extended-reunion-satisfiability]. Grant covered travel, accommodation and food for one month.
+**2023:** Travel grant, to visit the [Simons Institute at UC Berkeley](https://simons.berkeley.edu/homepage) for a month, in order to attend the [Extendend Reunion: Satisfiability](https://simons.berkeley.edu/programs/extended-reunion-satisfiability). Grant covered travel, accommodation and food for one month.
 
 **2021:** Outstanding Program Committee Member Award AAAI 2021, which was awarded to the 13 best reviewers. The AAAI-21 Program Committee: “Your efforts were characterised by exceptional care, thoroughness, and thoughtfulness in the reviews and discussions of the papers assigned to you.”
 
