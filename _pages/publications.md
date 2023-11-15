@@ -78,7 +78,14 @@ Tisch, Daria, [Manuel Schechtl](https://schechtl.github.io/): [Gender difference
 
 Tisch, Daria: Preservation of large fortunes over multiple generations in Germany <!--  (https://dariatisch.github.io/presentation_potsdam) -->: How do elite family networks relate to wealth preservation in Germany?
 
+Media coverage 
+======
 
+Warum Frauen weniger erben und trotzdem mehr Steuern zahlen https://www.zeit.de/geld/2023-10/frauen-erbschaftssteuer-schenkungssteuer-gender-tax-gap
+
+Wie Frauen bei Erbschaften und Schenkungen benachteiligt werden https://www.fr.de/wirtschaft/erbe-erbschaftssteuer-frauen-maenner-unterschied-benachteiligung-schenkung-gender-pay-gap-zr-92668807.html
+
+Frauen erben weniger und zahlen dann sogar mehr Steuern! - RTL.de https://www.rtl.de/cms/von-wegen-gleichberechtigung-frauen-erben-weniger-und-zahlen-dann-sogar-mehr-steuern-5066540.html
 
 
 
