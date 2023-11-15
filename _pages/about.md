@@ -25,7 +25,7 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 * <b>Computational efficiency Method. (Model Fine-tuning)</b> Developing theory, tools, and algorithms to efficiently (computation-friendly) adapt large-scale models toward downstream tasks (e.g., prompt tuning methods, in-context learning, instruction tuning, etc.) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
 
-Recently, I more focuse on <b>interactable and reliable</b> part:
+Recently, I more focus on <b>interactable and reliable</b> part:
 
 * <b>Interactive AI Agent. (Model Planning and Reasoning)</b> Developing autonomous systems (agents) that can acquire external information through interaction with the external (environment/human) and utilize the acquired knowledge to drive their decision-making and accomplish more complex long-horizon tasks ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: We further make autonomous systems (agents) to collaboratively accomplish complex tasks and observe the [emergence of human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
