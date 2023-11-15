@@ -24,13 +24,9 @@ The design constraints and requirements were:
 
 caption
 
-```
-gearbox 1             |  gearbox 2
-:-------------------------:|:-------------------------:
-![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)  |  ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)
-```
-
-![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)
+| ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg) | ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                          gearbox 1                           |                          gearbox 2                           |
 
 caption *caption*
 
