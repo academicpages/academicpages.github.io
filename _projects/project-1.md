@@ -1,5 +1,5 @@
 ---
-title: "Two-Axis Tilting NC Rotary Table"
+title: "Two-Axis Tilting CNC Rotary Table"
 excerpt: "Custom two-axis tilting rotary table with pneumatic brake<br/><img src='/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png'>"
 collection: projects
 ---
