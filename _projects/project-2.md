@@ -15,14 +15,20 @@ The design constraints and requirements were:
 - Gearbox and brake assembly must be less than 20 lbs [9 kg]
 - Be easier to assemble, seal fluids, perform maintenance and install in vehicle compared to past versions
 - Utilize bearings, seals and other required components available from team sponsor SKF
-- Meet requirements for Gaged Engineering CVT
-- Increase vehicle drive torque via one-stage or two-stage gear reduction
+- Meet input shaft keyway and diameter requirements for use Gaged Engineering GX9 CVT
+- Increase vehicle drive torque via one-stage or two-stage gear reduction (ideal ratio of 8:1 to 12:1)
 - Work with team sponsor ODG for designing and manufacturing gears and shafts
 - Handle all engine and drive train loads (impulse and shock loads from impacts and rough terrain)
 
 ### Design & Features
 
 caption
+
+```
+gearbox 1             |  gearbox 2
+:-------------------------:|:-------------------------:
+![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)  |  ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)
+```
 
 ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg)
 
