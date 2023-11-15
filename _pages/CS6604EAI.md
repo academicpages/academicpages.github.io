@@ -68,7 +68,7 @@ For each student in a presenting group, their assigned role determines what they
 - If you are not in the presenting group during a class session, please submit **the day before class (due 11:59pm EST)** at least one question about either paper - could be something you're confused about or something you'd like to hear discussed more. Questions that open debates and make in-class discussions explore different viewpoints are a plus.  
 - After class **and before the end of the day 11:59pm EST**, provide constructive feedback to the presenting group. You may focus on one or more reading roles, or on the presentation holistically. Evaluate the clarity of the presentation, the strength of the arguments, and the quality of visuals, if any. Highlighting strengths and areas for improvement. This feedback will be shared post each presentation.
 
-**Everyone, every week (Optional)**: After each class session, you may post your thoughts on Piazza, for example, which parts did you enjoy reading, what results and insights did you find interesting, a missing result the paper could have included, any useful additional links and resources, etc. Whenever you agree with the comments of a student's post, make sure to endorse their answer. You can also post a reply with your additional thoughts.
+**Everyone, every week (Optional)**: After each class session, you may post your thoughts on Piazza, for example, which parts you enjoyed reading, what results and insights you found interesting, a missing result the paper could have included, any useful additional links and resources, etc. Whenever you agree with the comments of a student's post, make sure to endorse their answer. You can also post a reply with your additional thoughts.
  
 ## Final Project
 The main project goal is to engage students in research on Embodied AI.
@@ -86,7 +86,7 @@ on Piazza or use [Slack](cs-vt.slack.com).
 
 ## Schedule
 We will update the schedule regularly based on the readings and presentations.
-<table style="border: 2px solid black; border-collapse: collapse; width: 100%; max-width: 800px; height: 1286px;">
+<table style="border: 2px solid black; border-collapse: collapse; width: 100%; max-width: 800px;">
     <thead>
         <tr style="height: 27px;">
             <th style="border: 1px solid gray; height: 27px; width: 10%;">Lecture No.</th>
@@ -115,50 +115,50 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, August 31</td>
             <td style="height: 29px; width: 60%;">How to Read Papers, What to Look for in Simulators</td>
         </tr>
-        <tr style="height: 113px;">
-            <td style="height: 113px; width: 10%;">5</td>
-            <td style="height: 113px; width: 30%;">Tuesday, September 5</td>
-            <td style="height: 113px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">5</td>
+            <td style="height: 29px; width: 30%;">Tuesday, September 5</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Benchmarks: Simulators, Environments, Datasets</p>
                 <p><a class="inline_disabled" title="Link" href="https://procthor.allenai.org/" target="_blank" rel="noopener">ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</a></p>
             </td>
         </tr>
-        <tr style="height: 113px;">
-            <td style="height: 113px; width: 10%;">6</td>
-            <td style="height: 113px; width: 30%;">Thursday, September 7</td>
-            <td style="height: 113px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">6</td>
+            <td style="height: 29px; width: 30%;">Thursday, September 7</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Benchmarks: Simulators, Environments, Datasets</p>
                 <p><a class="inline_disabled" href="https://askforalfred.com/" target="_blank" rel="noopener">ALFRED:&nbsp;A Benchmark for Interpreting Grounded Instructions for Everyday Tasks</a></p>
             </td>
         </tr>
-        <tr style="height: 89px;">
-            <td style="height: 89px; width: 10%;">7</td>
-            <td style="height: 89px; width: 30%;">Tuesday, September 12</td>
-            <td style="height: 89px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">7</td>
+            <td style="height: 29px; width: 30%;">Tuesday, September 12</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Benchmarks: Simulators, Environments, Datasets</p>
                 <p><a class="inline_disabled" href="https://devendrachaplot.github.io/projects/semantic-exploration.html" target="_blank" rel="noopener">Object Goal Navigation using Goal-Oriented Semantic Exploration</a></p>
             </td>
         </tr>
-        <tr style="height: 113px;">
-            <td style="height: 113px; width: 10%;">8</td>
-            <td style="height: 113px; width: 30%;">Thursday, September 14</td>
-            <td style="height: 113px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">8</td>
+            <td style="height: 29px; width: 30%;">Thursday, September 14</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Benchmarks: Simulators, Environments, Datasets</p>
                 <p><a class="inline_disabled" href="https://arnold-benchmark.github.io/" target="_blank" rel="noopener">ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes</a></p>
             </td>
         </tr>
-        <tr style="height: 53px;">
-            <td style="height: 53px; width: 10%;">9</td>
-            <td style="height: 53px; width: 30%;">Tuesday, September 19</td>
-            <td style="height: 53px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">9</td>
+            <td style="height: 29px; width: 30%;">Tuesday, September 19</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Conceptual Framing, World Models, Behavioral and Performance Metrics</p>
                 <p><a class="inline_disabled" href="https://arxiv.org/abs/2308.01399" target="_blank" rel="noopener">Learning to Model the World with Language</a></p>
             </td>
         </tr>
-        <tr style="height: 53px;">
-            <td style="height: 53px; width: 10%;">10</td>
-            <td style="height: 53px; width: 30%;">Thursday, September 21</td>
-            <td style="height: 53px; width: 60%;">
+        <tr style="height: 29px;">
+            <td style="height: 29px; width: 10%;">10</td>
+            <td style="height: 29px; width: 30%;">Thursday, September 21</td>
+            <td style="height: 29px; width: 60%;">
                 <p>Conceptual Framing, World Models, Behavioral and Performance Metrics</p>
                 <p><a class="inline_disabled" href="https://arxiv.org/abs/1803.10122" target="_blank" rel="noopener">World Models</a></p>
             </td>
