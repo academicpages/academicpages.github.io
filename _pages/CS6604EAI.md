@@ -118,9 +118,7 @@ We will update the schedule regularly based on the readings and presentations.
         <tr style="height: 113px;">
             <td style="height: 113px; width: 10%;">5</td>
             <td style="height: 113px; width: 30%;">Tuesday, September 5</td>
-            <td style="height: 113px; width: 60%;">
-            Benchmarks: Simulators, Environments, Datasets 
-            </br> <b> <a class="inline_disabled" title="Link" href="https://procthor.allenai.org/" target="_blank" rel="noopener">ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</a>
+            <td style="height: 113px; width: 60%;">Benchmarks: Simulators, Environments, Datasets </br> <a class="inline_disabled" title="Link" href="https://procthor.allenai.org/" target="_blank" rel="noopener">ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</a>
             </td>
         </tr>
         <tr style="height: 113px;">
@@ -128,7 +126,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 113px; width: 30%;">Thursday, September 7</td>
             <td style="height: 113px; width: 60%;">
             Benchmarks: Simulators, Environments, Datasets
-             </br> <b> <a class="inline_disabled" href="https://askforalfred.com/" target="_blank" rel="noopener">ALFRED:&nbsp;A Benchmark for Interpreting Grounded Instructions for Everyday Tasks</a>
+             </br> <a class="inline_disabled" href="https://askforalfred.com/" target="_blank" rel="noopener">ALFRED:&nbsp;A Benchmark for Interpreting Grounded Instructions for Everyday Tasks</a>
             </td>
         </tr>
         <tr style="height: 89px;">
@@ -136,7 +134,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 89px; width: 30%;">Tuesday, September 12</td>
             <td style="height: 89px; width: 60%;">
             Benchmarks: Simulators, Environments, Datasets
-                </br> <b> <a class="inline_disabled" href="https://devendrachaplot.github.io/projects/semantic-exploration.html" target="_blank" rel="noopener">Object Goal Navigation using Goal-Oriented Semantic Exploration</a>
+                </br> <a class="inline_disabled" href="https://devendrachaplot.github.io/projects/semantic-exploration.html" target="_blank" rel="noopener">Object Goal Navigation using Goal-Oriented Semantic Exploration</a>
             </td>
         </tr>
         <tr style="height: 113px;">
@@ -144,7 +142,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 113px; width: 30%;">Thursday, September 14</td>
             <td style="height: 113px; width: 60%;">
             Benchmarks: Simulators, Environments, Datasets
-             </br> <b> <a class="inline_disabled" href="https://arnold-benchmark.github.io/" target="_blank" rel="noopener">ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes</a>
+             </br> <a class="inline_disabled" href="https://arnold-benchmark.github.io/" target="_blank" rel="noopener">ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes</a>
             </td>
         </tr>
         <tr style="height: 53px;">
@@ -152,7 +150,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 53px; width: 30%;">Tuesday, September 19</td>
             <td style="height: 53px; width: 60%;">
                 Conceptual Framing, World Models, Behavioral and Performance Metrics
-                </br> <b> <a class="inline_disabled" href="https://arxiv.org/abs/2308.01399" target="_blank" rel="noopener">Learning to Model the World with Language</a>
+                </br> <a class="inline_disabled" href="https://arxiv.org/abs/2308.01399" target="_blank" rel="noopener">Learning to Model the World with Language</a>
             </td>
         </tr>
         <tr style="height: 53px;">
@@ -160,7 +158,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 53px; width: 30%;">Thursday, September 21</td>
             <td style="height: 53px; width: 60%;">
                Conceptual Framing, World Models, Behavioral and Performance Metrics
-               </br> <b> <a class="inline_disabled" href="https://arxiv.org/abs/1803.10122" target="_blank" rel="noopener">World Models</a>
+               </br> <a class="inline_disabled" href="https://arxiv.org/abs/1803.10122" target="_blank" rel="noopener">World Models</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -168,7 +166,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, September 26</td>
             <td style="height: 29px; width: 60%;">
             Conceptual Framing, World Models, Behavioral and Performance Metrics
-              </br> <b> <a class="inline_disabled" href="https://proceedings.neurips.cc/paper/2020/file/274e6fcf4a583de4a81c6376f17673e7-Paper.pdf" target="_blank" rel="noopener">Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration</a>
+              </br> <a class="inline_disabled" href="https://proceedings.neurips.cc/paper/2020/file/274e6fcf4a583de4a81c6376f17673e7-Paper.pdf" target="_blank" rel="noopener">Language as a Cognitive Tool to Imagine Goals in Curiosity-Driven Exploration</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -176,7 +174,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, September 28</td>
             <td style="height: 29px; width: 60%;">
             Conceptual Framing, World Models, Behavioral and Performance Metrics
-               </br> <b> <a class="inline_disabled" href="https://arxiv.org/abs/2206.14176" target="_blank" rel="noopener">DayDreamer: World Models for Physical Robot Learning</a>
+               </br> <a class="inline_disabled" href="https://arxiv.org/abs/2206.14176" target="_blank" rel="noopener">DayDreamer: World Models for Physical Robot Learning</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -184,7 +182,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, October 3</td>
             <td style="height: 29px; width: 60%;">
               Conceptual Framing, World Models, Behavioral and Performance Metrics 
-               </br> <b> <a class="inline_disabled" href="https://arxiv.org/abs/2105.00931" target="_blank" rel="noopener">GRIDTOPIX: Training Embodied Agents with Minimal Supervision</a>
+               </br> <a class="inline_disabled" href="https://arxiv.org/abs/2105.00931" target="_blank" rel="noopener">GRIDTOPIX: Training Embodied Agents with Minimal Supervision</a>
              </td>
         </tr>
         <tr style="height: 29px;">
@@ -197,7 +195,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, October 10</td>
             <td style="height: 29px; width: 60%;">
             Learning about visual sensory information through interaction 
-             </br> <b> <a class="external" href="https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf&amp;source=gmail&amp;ust=1696815577273000&amp;usg=AOvVaw1zNA_QJb2K05A14StxYWF3">Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States</a>
+             </br> <a class="external" href="https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://openaccess.thecvf.com/content/CVPR2023/papers/Du_Object-Goal_Visual_Navigation_via_Effective_Exploration_of_Relations_Among_Historical_CVPR_2023_paper.pdf&amp;source=gmail&amp;ust=1696815577273000&amp;usg=AOvVaw1zNA_QJb2K05A14StxYWF3">Object-Goal Visual Navigation via Effective Exploration of Relations among Historical Navigation States</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -205,7 +203,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, October 12</td>
             <td style="height: 29px; width: 60%;">
              Learning about visual sensory information through interaction 
-              </br> <b> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2111.09888" target="_blank" rel="noopener">Simple but Effective: CLIP Embeddings for Embodied AI</a>
+              </br> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2111.09888" target="_blank" rel="noopener">Simple but Effective: CLIP Embeddings for Embodied AI</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -213,7 +211,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, October 17</td>
             <td style="height: 29px; width: 60%;">
             Learning about visual sensory information through interaction 
-         </br> <b> <a href="https://iclr.cc/virtual/2023/oral/12560" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Emergence of Maps in the Memories of Blind Navigation Agents</a>
+         </br> <a href="https://iclr.cc/virtual/2023/oral/12560" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Emergence of Maps in the Memories of Blind Navigation Agents</a>
             </br> <b>  <p><span style="color: #000000;"><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal Due</span></span></strong></span>
             </td>
         </tr>
@@ -222,7 +220,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, October 19</td>
             <td style="height: 29px; width: 60%;">
             Learning about visual sensory information through interaction 
-             </br> <b> <span style="color: #000000;"><a href="https://arxiv.org/abs/1903.03878" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</a> 
+             </br> <span style="color: #000000;"><a href="https://arxiv.org/abs/1903.03878" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks</a> 
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -230,7 +228,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;"><span style="color: #000000;">Tuesday, October 24</span></td>
             <td style="height: 29px; width: 60%;">
             Learning about language and language-guided interaction
-             </br> <b> <a href="https://openreview.net/pdf?id=E5EoQqCVYX" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://openreview.net/pdf?id%3DE5EoQqCVYX&amp;source=gmail&amp;ust=1697663426822000&amp;usg=AOvVaw1sgqGXEZuXr9XduqHMMJR1">SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation</a>
+             </br> <a href="https://openreview.net/pdf?id=E5EoQqCVYX" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://openreview.net/pdf?id%3DE5EoQqCVYX&amp;source=gmail&amp;ust=1697663426822000&amp;usg=AOvVaw1sgqGXEZuXr9XduqHMMJR1">SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -238,7 +236,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, October 26</td>
             <td style="height: 29px; width: 60%;">
             Learning about language and language-guided interaction
-             </br> <b> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2305.10626" target="_blank" rel="noopener">Language Models Meet World Models: Embodied Experiences Enhance Language Models</a>
+             </br> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2305.10626" target="_blank" rel="noopener">Language Models Meet World Models: Embodied Experiences Enhance Language Models</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -258,7 +256,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, November 7</td>
             <td style="height: 29px; width: 60%;">
             Learning about language and language-guided interaction
-             </br> <b> <a href="https://arxiv.org/pdf/2303.16563.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://arxiv.org/pdf/2303.16563.pdf&amp;source=gmail&amp;ust=1698796562424000&amp;usg=AOvVaw0NlrfZZuVXFDetaA5tNtV8">Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</a>
+             </br> <a href="https://arxiv.org/pdf/2303.16563.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://arxiv.org/pdf/2303.16563.pdf&amp;source=gmail&amp;ust=1698796562424000&amp;usg=AOvVaw0NlrfZZuVXFDetaA5tNtV8">Plan4MC: Skill Reinforcement Learning and Planning for Open-World Minecraft Tasks</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -266,7 +264,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, November 9</td>
             <td style="height: 29px; width: 60%;">
             Robot Learning, Sim2Real Transfer, Multi-agent Systems, Emergent Communication
-             </br> <b> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2302.04903" target="_blank" rel="noopener">AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer</a>
+             </br> <a class="inline_disabled" title="Link" href="https://arxiv.org/abs/2302.04903" target="_blank" rel="noopener">AdaptSim: Task-Driven Simulation Adaptation for Sim-to-Real Transfer</a>
             </td>
         </tr>
         <tr style="height: 29px;">
@@ -279,7 +277,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Thursday, November 16</td>
             <td style="height: 29px; width: 60%;">
             Robot Learning, Sim2Real Transfer, Multi-agent Systems, Emergent Communication 
-             </br> <b> <a href="https://robotics-transformer2.github.io/assets/rt2.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://robotics-transformer2.github.io/assets/rt2.pdf&amp;source=gmail&amp;ust=1699830797584000&amp;usg=AOvVaw3wj0P_QXjSxX4N7kpwD4LF">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>
+             </br> <a href="https://robotics-transformer2.github.io/assets/rt2.pdf" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://robotics-transformer2.github.io/assets/rt2.pdf&amp;source=gmail&amp;ust=1699830797584000&amp;usg=AOvVaw3wj0P_QXjSxX4N7kpwD4LF">RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control</a>
             </td>
         </tr>
         <tr style="height: 29px;">
