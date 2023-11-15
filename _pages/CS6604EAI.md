@@ -119,8 +119,8 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 10%;">5</td>
             <td style="height: 29px; width: 30%;">Tuesday, September 5</td>
             <td style="height: 29px; width: 60%;">
-                <p>Benchmarks: Simulators, Environments, Datasets</p>
-                <p><a class="inline_disabled" title="Link" href="https://procthor.allenai.org/" target="_blank" rel="noopener">ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</a></p>
+            Benchmarks: Simulators, Environments, Datasets
+            <p><a class="inline_disabled" title="Link" href="https://procthor.allenai.org/" target="_blank" rel="noopener">ProcTHOR: Large-Scale Embodied AI Using Procedural AI Generation</a></p>
             </td>
         </tr>
         <tr style="height: 29px;">
