@@ -13,8 +13,11 @@ I am a Postdoctoral Researcher in the [Department of Computer Science](https://r
 My research interests cover broadly Bayesian Statistics and their application in social science research. I've had the opportunity of applying my work as a PhD researcher at the Bank of England (Current Economic Conditions Division).
 
 I am a reviewer for several journals including *International Journal of Forecasting*, *Electronic Journal of Statistics* and *Statistica Sinica*, among many more.
+
 [CV](https://github.com/davkoh/davkoh.github.io/blob/master/files/CVDavidKohns.pdf) 
+======
 
 [Job Market Paper](https://github.com/davkoh/davkoh.github.io/blob/master/files/JMP_Kohns.pdf)
+======
 
 
