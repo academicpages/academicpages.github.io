@@ -246,7 +246,8 @@ We will update the schedule regularly based on the readings and presentations.
         <tr style="height: 29px;">
             <td style="height: 29px; width: 10%;">22</td>
             <td style="height: 29px; width: 30%;">Thursday, November 2</td>
-            <td style="height: 29px; width: 60%;"><strong>Class Canceled due to travel<br /></strong></td>
+            <td style="height: 29px; width: 60%;">Class Canceled
+            </td>
         </tr>
         <tr style="height: 29px;">
             <td style="height: 29px; width: 10%;">23</td>
