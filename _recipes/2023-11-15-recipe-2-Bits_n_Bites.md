@@ -1,12 +1,12 @@
 ---
 title: "Bits'n'Bites"
 collection: recipes
-type: "Snacks: ,"
+type: "Snacks: "
 permalink: /recipes/2023-11-15-recipe-2-Bits_n_Bites.md
 venue: "Prep Time: 0h10m, Total Time: 1h10m"
 date: 2023-11-15
 location: "Cooking Time: 1h0m"
-tags: dairy
+tags: snacks
 ---
 
 Homemade Bits and Bites - a perfect snack where every handful is different.
