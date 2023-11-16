@@ -73,7 +73,8 @@ Engineering projects
 * C5 (4 times), optimizing rib-reinforced thin-walled structures
 * C3 (1 time), designing fairing structures via explicit topology optimization of shell structures
 * C6 (1 time), optimization of pressure vessels
-* 6 (1 time), topology optimization of bearing structures
+* 611, topology optimization of classical bearing aviation structures
+* 611, Industrial software development (topology optimization and rib-reinforced design of thin-walled structures).
 * HTJG (1 time), topology optimization of bolt-joint systems
 * Xidian Univ. (1 time), displacement prediction and structure optimization of radar antennas considering accuracy control
 
