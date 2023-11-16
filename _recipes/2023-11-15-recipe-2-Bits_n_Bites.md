@@ -2,7 +2,7 @@
 title: "Bits'n'Bites"
 collection: recipes
 type: "Snacks: "
-permalink: /recipes/2023-11-15-recipe-2-Bits_n_Bites.md
+permalink: /recipes/2023-11-15-recipe-2-Bits_n_Bites
 venue: "Prep Time: 0h10m, Total Time: 1h10m"
 date: 2023-11-15
 location: "Cooking Time: 1h0m"
