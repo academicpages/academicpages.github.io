@@ -9,7 +9,7 @@ location: "Cooking Time: 0h40m"
 tags: sweets, dessert, loaf, lemon
 ---
 
-Yummy tangy lemon loaf with poppyseeds and icing sugar glaze
+Yummy lemon loaf with poppyseeds and icing sugar glaze
 
 ![Lemon Poppyseed Loaf](/images/Recipes_Lemon-Loaf.jpg)
 
