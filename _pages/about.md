@@ -16,11 +16,7 @@ I'm a junior-year undergraduate student at WPI(Worcester Polytechnic Institute) 
 
 - 3D Point Cloud
 
-![](images/LandauCD_ICLR.png){: .align-right width="200px"} 
-**Point Cloud Completion With Landau Distribution: A Probabilistic View**
 
-Fangzhou Lin\*, Songlin Hou\*, **Haotian Liu\***, Haoying Zhou\*, Xuechu Yu, Kazunori Yamada, and Ziming Zhang(* co-first author)  
-*Under Review*
 
 - FDM Printing Soft Robotics
 
