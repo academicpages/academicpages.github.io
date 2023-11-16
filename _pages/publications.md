@@ -13,7 +13,7 @@ author_profile: true
 
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
-Yijia Wu*/, Zilin Dai*/, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz
+Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz
 *Under Review*
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
