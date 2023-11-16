@@ -1,12 +1,12 @@
 ---
 title: "Peanut Butter Balls"
 collection: recipes
-type: "Dinner: "
+type: "Sweets: "
 permalink: /recipes/2023-11-15-recipe-6-Peanut_Butter_Balls
 venue: "Prep Time: 0h15m, Total Time: 0h35m"
 date: 2023-11-15
 location: "Cooking Time: 0h20m"
-tags: pasta, dairy, vegetarian, creamy
+tags: sweets, dessert, chocolate, nuts, candy
 ---
 
 Easy and savoury peanut butter balls - just like Reese's peanut butter cups BUT better
