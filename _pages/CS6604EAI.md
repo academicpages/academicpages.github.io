@@ -208,7 +208,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 30%;">Tuesday, October 17</td>
             <td style="height: 29px; width: 60%;">
                 <span style="color: #000000;">Learning about visual sensory information through interaction </span> <br>
-                <span style="color: #000000;"><a href="https://iclr.cc/virtual/2023/oral/12560" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Emergence of Maps in the Memories of Blind Navigation Agents</a>&nbsp;</span>
+                <span style="color: #000000;"><a href="https://iclr.cc/virtual/2023/oral/12560" target="_blank" rel="noopener" data-saferedirecturl="https://www.google.com/url?q=https://iclr.cc/virtual/2023/oral/12560&amp;source=gmail&amp;ust=1697043043896000&amp;usg=AOvVaw0QoD5y0IX9HzD2cSKfFHYI">Emergence of Maps in the Memories of Blind Navigation Agents</a>&nbsp;</span> <br>
                 <span style="color: #000000;"><strong><span style="color: #169179;"><span style="color: #b96ad9;">Project Proposal Due</span></span></strong></span>
             </td>
         </tr>
@@ -240,7 +240,7 @@ We will update the schedule regularly based on the readings and presentations.
             <td style="height: 29px; width: 10%;">21</td>
             <td style="height: 29px; width: 30%;">Tuesday, October 31</td>
             <td style="height: 29px; width: 60%;">
-                <strong><span style="color: #2dc26b;">Presenting papers related to the course project </span></strong>
+                <strong><span style="color: #2dc26b;">Presenting papers related to course projects </span></strong>
             </td>
         </tr>
         <tr style="height: 29px;">
