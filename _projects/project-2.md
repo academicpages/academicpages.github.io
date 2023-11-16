@@ -28,7 +28,19 @@ Some design constraints and requirements were:
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |      Detailed model of shaft, gears, seals and bearings      |          Model with shaft and gears for visibility           |
 
-caption *caption*
+Final layout of shafts and gearbox housing pictured below. This design is a 2-piece housing sealed with a oil-resistant gasket sheet, cut to exact dimensions on a laser cutter. The engineering machine shop was able to program (CAM) and machine the aluminum housings. Our team sponsor ODG manufactured the gear and shafts to our specifications after many design iterations, gear calculations, optimizing the geometry for performance and manufacturability.
+
+![Final Gearbox Layout](/images/Baja_Gearbox_w500.jpg)
+
+![Final Gearbox Layout](/images/Baja_Geartrain_Rear_Assembly_w500.jpg)
+
+![Final Gearbox Layout](/images/Baja_GearBox-in-Frame_w500.jpg)
+
+![Final Gearbox Layout](/images/Baja_GearBox-in-Frame_Brake_w500.jpg)
+
+![Final Gearbox Layout](/images/Baja_GearBox-in-Frame_Brake_CVT_w500.jpg)
+
+![Final Gearbox Layout](/images/Baja_GearBox-in-Frame_Brake_CVT_Back-View_w500.jpg)
 
 ### Performance
 
