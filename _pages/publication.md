@@ -13,6 +13,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.publication reversed %}
   {% include archive-single.html %}
 {% endfor %}

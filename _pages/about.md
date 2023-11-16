@@ -20,7 +20,7 @@ Education
   * Minor in Writing
 * High School Diploma, The Athenian School, 2023
 
-For a complete list of my curriculum and more information on courses, please see [Curriculum](/curriculum).
+For a complete list of my undergraduate curriculum and more information on courses, please see [Curriculum](/curriculum).
 
 Research
 ======
@@ -51,13 +51,6 @@ For a more detailed list of my honors and awards, please see [Honors & Awards](/
 
 
 
-Skills
-======
-* Programming Languages: Python, Java, MATLAB, R, LaTeX
-* Spoken Languages: English (fluent), Chinese (fluent), Japanese (elementary)
-
-
-
 Service and Leadership
 ======
 * **Founder & Programming Teacher**, Dino Coding Group, 2019-2023.
@@ -71,6 +64,13 @@ Service and Leadership
 
 
 
+Skills
+======
+* Programming Languages: Python, Java, MATLAB, R, LaTeX
+* Spoken Languages: English (fluent), Chinese (fluent), Japanese (elementary)
+
+
+
 Additional Information
 ======
-Aside of academics, I'm an outdoor enthusiast and participated in a 26-day wilderness experience in the Death Valley. I'm also a creative writer with a focus on identity and non-fiction creations. In addition, I co-founded [Milabot Automations](https://milabot.net/){:target="_blank"}) and currently serving as the CTO, a student startup that provides customized AI ChatBot Automation solutions for middle and small enterprises.
+Aside of academics, I'm an outdoor enthusiast and participated in a 26-day wilderness experience in the Death Valley. I'm also a creative writer with a focus on identity and non-fiction creations. I work on art projects such as ceramics, paintings, and digital artworks as well. In addition, I co-founded [Milabot Automations](https://milabot.net/){:target="_blank"}, a student startup that provides customized AI ChatBot Automation solutions for middle and small enterprises, and am currently serving as the co-CEO and the CTO.
