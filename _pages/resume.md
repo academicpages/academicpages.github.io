@@ -34,7 +34,7 @@ Work Experience
 
   *July 2018 to November 2023*
 
-  * Completely redesigned two high volume linear motion product lines to improve various performance specifications and reduce overall cost
+  * Lead product design of various linear and rotary stages from conception to high volume production
 
   * Improved internal manufacturing processes for induction heat-treatment, surface finishing and bearing rail manufacturing processes through iterative experimentation and testing
 
@@ -138,12 +138,33 @@ Work Experience
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mechanical Design
+  * SolidWorks
+    * Motion Study
+    * Design Study
+    * 3DEXPERIENCE
+    * PhotoView 360 Renders & Animations
+    * PDM - Data Management
+
+  * FEA
+  * Design for Manufacturing
+  * Design for Assembly
+  * Geometric Dimensioning & Tolerancing
+  * Injection Molding
+  * Die Casting
+  * Extrusion Design
+
+* Design Failure Mode and Effect Analysis (DFMEA) 
+* Product Design and Test Design
+* Industrial Design
+* Research and Development (R&D)
+* Welding, Machining and Fabrication
+* Metallurgy and Material Properties
+  * Heat Treating
+  * Microscopy and Microstructure Analysis
+  * Alloy Phase Diagrams (CCT and TTT)
+  * Fatigue and Fracture Analysis
+
 
 Publications
 ======
