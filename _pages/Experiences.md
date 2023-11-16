@@ -50,7 +50,7 @@ Software development
 * Solid embedded components for complex thin-walled structures, in preparation
 * Explicit tomo for complex thin-walled structures, 2023.06-present
 * Explicit layout optimization of complex rib-reinforced thin-walled structures, 2023.02-present
-* Explicit topology optimization of shell structures, 2022.06-present
+* Explicit topology optimization of shell structures, 2022.06-2023.11
 
 Contests
 ======
