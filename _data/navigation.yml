@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Publication"
+    url: /publication/
 
   - title: "Curriculum"
     url: /curriculum/
+
+  - title: "Honors"
+    url: /honors/
 
   - title: "Resume"
     url: /files/resume.pdf
