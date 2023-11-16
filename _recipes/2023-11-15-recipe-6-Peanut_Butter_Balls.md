@@ -1,5 +1,5 @@
 ---
-title: "Baked Boursin & Tomato Pasta"
+title: "Peanut Butter Balls"
 collection: recipes
 type: "Dinner: "
 permalink: /recipes/2023-11-15-recipe-6-Peanut_Butter_Balls
