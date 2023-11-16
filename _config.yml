@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  work_experience:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _work_experience
   - scope:
       path: ""
-      type: teaching
+      type: work_experience
     values:
       layout: single
       author_profile: true
