@@ -19,3 +19,7 @@ There
 So, there is a gap between the current position and the so-called big-data era.
 
 The big-data era is and should be constructed based on digital blocks.
+
+The information and intelligence in the field of mechanics lack epoch-making and revolutionary opinions and viewpoints.
+
+力学领域的信息化和智能化，缺乏划时代的、革命性的见解与观点。
