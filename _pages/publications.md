@@ -23,7 +23,7 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 **Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 
 **Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
-In *arXiv preprint arXiv:1910.02544, 2019*
+In *[arXiv preprint arXiv:1910.02544, 2019](https://arxiv.org/abs/1910.02544v1)*
 
 ---
 # Projects
