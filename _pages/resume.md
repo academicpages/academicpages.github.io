@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Download Resume Here
-
 [A printable pdf version of this resume is available here:](/files/Resume_Graham_Davison-November-2023.pdf)
 
 Education
