@@ -5,7 +5,7 @@ type: "Baking/Dough: "
 permalink: /recipes/2023-11-15-recipe-4-No-Knead_Crusty_Bread
 venue: "Prep Time: 0h5m, Total Time: 0h50m, Overnight Rise"
 date: 2023-11-15
-location: "Cook Time: 0h45m"
+location: "Cooking Time: 0h45m"
 tags: dough, bread, crusty
 ---
 
