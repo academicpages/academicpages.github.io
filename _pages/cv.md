@@ -9,23 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formation
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Doctorat de mathématiques appliquées "Equations d'agrégation-diffusion : asymptotiques et approximations", Institut Camille Jordan (Lyon), 2023
+* Master 2 mathématiques appliquées et statistiques "Maths en Action", Université Lyon 1, 2020
+* Licence, Master, Agrégation de mathématiques, Ecole Normale Supérieure de Lyon 2015
 
-Work experience
+
+Expérience professionnelle
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2023 : Doctorant contractuel à l'Université Lyon 1
+  * Chargé de projet de recherche en équations aux dérivées partielles et simulation numérique 
+  * Chargé de TD au département de mathématiques
+  * Représentant des doctorants à l'Ecole Doctorale InfoMaths et au Bureau des doctorants de l'Institut Camille Jordan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2020 : Colleur en classes préparatoires
+  * Interrogations orales hebdomadaires en mathématiques au Lycée du Parc et au Lycée la Martinière-Monplaisir
+  * 
+
+* Ete 2019 : Jeune chercheur au CEMRACS 2019
+  * Participation à un projet de recherche intensif porté par l'ANR Nabuco
+  * Développement, en équipe, d'une méthode numérique pour les équations de transport avec bord
   
 Skills
 ======
