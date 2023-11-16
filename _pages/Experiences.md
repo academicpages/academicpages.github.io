@@ -45,6 +45,18 @@ Research
   * Collaborated with Mr. Zhenyu Zhu, Mr. Linsheng Shan, Mr. Guangming Li
   * Supervised by Prof. Xiaobao Li, 2017.06-2019.03
 
+Engineering projects
+======
+* HW (1 time), designing loudspeakers considering SPL response and push-pull compliance
+* C1 (5 times), structure topology optimization of experimental loading devices, structure optimization of bolt-joint systems
+* C5 (4 times), optimizing rib-reinforced thin-walled structures
+* C3 (1 time), designing fairing structures via explicit topology optimization of shell structures
+* C6 (1 time), optimization of pressure vessels
+* 611, topology optimization of classical bearing aviation structures
+* 611, Industrial software development (topology optimization and rib-reinforced design of thin-walled structures).
+* HTJG (1 time), topology optimization of bolt-joint systems
+* Xidian Univ. (1 time), displacement prediction and structure optimization of radar antennas considering accuracy control
+
 Software development
 ======
 * Solid embedded components for complex thin-walled structures, in preparation
@@ -65,18 +77,6 @@ Contests
   * Collaborated with Xubing Cheng, Zhuofan Ni, and Guangming Li
 * High School Physics Competition, 2011
   * A tour to the 168 High School on a balmy day
-
-Engineering projects
-======
-* HW (1 time), designing loudspeakers considering SPL response and push-pull compliance
-* C1 (5 times), structure topology optimization of experimental loading devices, structure optimization of bolt-joint systems
-* C5 (4 times), optimizing rib-reinforced thin-walled structures
-* C3 (1 time), designing fairing structures via explicit topology optimization of shell structures
-* C6 (1 time), optimization of pressure vessels
-* 611, topology optimization of classical bearing aviation structures
-* 611, Industrial software development (topology optimization and rib-reinforced design of thin-walled structures).
-* HTJG (1 time), topology optimization of bolt-joint systems
-* Xidian Univ. (1 time), displacement prediction and structure optimization of radar antennas considering accuracy control
 
 {% for post in site.experiences reversed %}
   {% include archive-single.html %}
