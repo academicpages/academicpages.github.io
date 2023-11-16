@@ -22,11 +22,11 @@ Some design constraints and requirements were:
 - Input shaft to be compatible with Gaged Engineering GX9 CVT
 - Increase vehicle drive torque via one-stage or two-stage gear reduction (ideal ratio of 8:1 to 12:1 based on past vehicle designs, top speed, power and calculations)
 - Work with team sponsor ODG for designing and manufacturing gears and shafts
-- Handle all engine and drive train loads (impulse and shock loads from impacts and rough terrain)
+- Handle all engine and drive train loads (impulse and shock loads)
 
-| ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg) | ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg) |
+| ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed_w500.jpg) | ![Geartrain and shafts without bearings](/images/Baja_Geartrain_Exposed-No-Bearings_w500.jpg) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                          gearbox 1                           |                          gearbox 2                           |
+|      Detailed model of shaft, gears, seals and bearings      |          Model with shaft and gears for visibility           |
 
 caption *caption*
 
