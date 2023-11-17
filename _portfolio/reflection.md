@@ -1,5 +1,5 @@
 ---
-title: "Reflection"
+title: ""
 excerpt: "Reflection<br/><img src='/images/reflection.png'>"
 collection: portfolio
 ---
