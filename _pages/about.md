@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a senior student at School of information and communication engineering 'elite class' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got National Inspirational Scholarship, outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, Semantic Communication and Multimodality.
+I'm a senior student at School of information and communication engineering 'elite class' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got National Encourage Scholarship(2021,2022,2023), outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, 3D-LLM and Multimodality.
 
 <!-- I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). -->
 
@@ -50,6 +50,8 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 - **Visit Student & Research Assistant**
 
 # News
+- \[2023.10\] I receive Singapore International Pre-Graduate Award(SIPGA) by I2R of A STAR.
+- \[2023.08\] I join Beijing Shuyuan Research Center as a research intern. My research interets include multi-modal LLM and 3D world LLM.
 - \[2023.07\] I join The Chinese University of Hong Kong(Shenzhen) by [Prof. Xiaoguang Han](https://gaplab.cuhk.edu.cn/). My research interets and fields are AIGC and 3D generation.
 - \[2023.04\] Our work about "knowledge graph construction and fusion" is accepted "ICALT 2023" and receives the Best Paper Award Nomination.
 - \[2023.04\] I work at the National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA) as a research intern. My research interets and fields are diffusion model and AI4Science. 
@@ -59,11 +61,11 @@ Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
 - \[2021.05\] I join in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecomunications.
 
 # Publications
-- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
-- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**
-- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(Core A)** [[pdf]](https://arxiv.org/abs/2305.04567)
-- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)(Core B)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
-- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**
+- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(communication top conference)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
+- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(AI+education top conference)** [[pdf]](https://arxiv.org/abs/2305.04567)
+- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
+- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://arxiv.org/abs/2309.01386)
+- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
 
 <br />
 <div style="text-align: center; line-height: 100px">
