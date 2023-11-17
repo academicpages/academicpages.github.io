@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "S&eacutebastien Tran Tien"
   avatar           : "profile.png"
-  bio              : "Research Data Scientist | PhD in Applied Mathematics"
+  bio              : "Research Data Scientist | PhD"
   location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=erGrkhUAAAAJ&hl=fr"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Sebastien_Tran_Tien"
+  researchgate     : #"https://www.researchgate.net/profile/Sebastien_Tran_Tien"
   uri              :
   bitbucket        :
   codepen          :

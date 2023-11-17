@@ -20,7 +20,7 @@ Un court [projet d'anglais](https://strantien.github.io/files/tran_tien_rapport.
 Colles
 ======
 
-J'ai donné deux ans durant des colles en prépa à Lyon, essentiellement en deuxième année. Vous trouverez [ici](https://strantien.github.io/files/colles.pdf) les exercices que j'ai donnés en boucle pendant cette période : ceux-ci sont, pour la majorité, accompagnés d'une correction et de remarques concernant leur niveau de difficulté dans une version *colleur* que je fournis volontiers sur demande par mail. 
+J'ai donné deux ans durant des colles en prépa à Lyon, essentiellement en deuxième année. Vous trouverez [ici](https://strantien.github.io/files/colles.pdf) les exercices que j'ai donnés en boucle pendant cette période : ceux-ci sont, pour la majorité, accompagnés d'une correction et de remarques concernant leur niveau de difficulté dans une version *colleur* que je fournis volontiers sur demande.
 
 
 Divers
