@@ -1,5 +1,5 @@
 ---
-title: "Heavy History"
+title: ""
 excerpt: "Heavy History<br/><img src='/images/heavy_history.png'>"
 collection: portfolio
 ---
