@@ -1,5 +1,5 @@
 ---
-title: "A man is taking off"
+title: ""
 excerpt: "A man is taking off<br/><img src='/images/took_off.png'>"
 collection: portfolio
 ---
