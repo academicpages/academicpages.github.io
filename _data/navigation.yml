@@ -6,6 +6,9 @@ main:
   - title: "Curriculum"
     url: /curriculum/
 
+  - title: "Honors"
+    url: /honors/
+
   - title: "Resume"
     url: /files/resume.pdf
     target: _blank
