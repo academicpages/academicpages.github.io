@@ -31,7 +31,10 @@ Banff International Research Station, Aug 2022
 
 ## Upcoming Talks
 
-Dec 10-16, 2023. **[NeurIPS 2023]** New Orleans, LA.  
+Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
+[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)  
+
+Dec 12, 2023. **[Invited talk at National School of Development at Peking University]** Virtual.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
 ## Recent News  
