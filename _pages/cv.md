@@ -36,13 +36,23 @@ framework over 100 knowledge graphs. The paper got **best paper award nomination
 - 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
   - Interest: Diffusion model and AI4Science. (Mentor: Prof.Jian Cheng)
-  - Duty: I do research in combinatorial optimization, image generation and AI4Science.
+  - Duty: I do research in diffusion model, AIG and AI4Science.
 
 - 2023.07-Now GAP Lab, Chinese University of Hong Kong (Shenzhen)
 
   - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han and Shuguang Cui)
   - Duty: I do research in image and 3d generation methods such as zero123, T2I-Adapter
-and Clipasso.
+and Clipasso. We work on the topic ’Sketch to 3D’, using text prompts and simple
+sketch to controllable generate high-quality 3D objects. Our paper will submit to
+SIGGRAPH2024.
+
+- 2023.08-Now Beĳing Shuyuan Technology Co., Ltd
+  - Interest: multi-modal, 3d scene understanding and LLM.
+  - Duty: I do research in understanding and perception of 3D scenes, and feed visual and
+multimodal information into LLM to create a multimodal 3D large model. The multimodal model can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks (segmentation, QA, positioning)
+more effective. Our paper will submit to ECCV2024.
+
+
 
 
 ## Publications
@@ -57,7 +67,9 @@ Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Dist
 
 - Best Paper Award Nomination by The IEEE Technical Community on Learning Technology(2023) [[certificate]](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)
 
-- National Scholarship for Encouragement (2021,2022)
+- Singapore International Pre-Graduate Award(SIPGA)
+
+- National Scholarship for Encouragement (2021,2022,2023)
   
 - The 1st prize of the National Software and Information Technology Professionals Competition of python program design in the Blue Bridge Cup[[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
   
@@ -106,11 +118,14 @@ Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Dist
   - Abstract: A software with the main functions of exercise recommendation system, personnel activity question-answering system, course knowedge retrieval system, mathematical formula recognition and recording the results in the back-end and database.
   - Duty: Mainly responsible for algorithm and the backend by django 
 
-
-
-- Memory Palace - a blockchain-based digital epitaph system
-  - Abstract: A digital memory system business website that records the events of the deceased based on Blockchain.
-  - Duty: Mainly responsible for the backend by javascript and django
+- Research of 3D multimodal-LLM by injecting 3D scenes and objects
+  - Abstract: This project proposes to combine the reasoning and dialogue capabilities of 3D visual perception models and Large Language Models (LLM) to achieve a universal multimodal-LLM for 3D
+scenes. And we sovle the problem of unbalance of visual and language training. We align and fuse
+the features of the text image pair with the segmented objects in the corresponding 3D scene at a
+fine-grained level. After that, the features of the relative position relationship matrix between objects were obtained using the coordinates of each object in the scene. Finally, the language model is
+injected with multimodal knowledge (features) as learnable visual tokens to be added to the language
+tokens in the middle of each Transformer layer of the LLM to fine-tune and train the 3D multimodal
+large model of this project.
 
 
 
