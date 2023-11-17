@@ -15,7 +15,7 @@ I have background in areas such as Machine Learning, Data Science, Data Visualiz
 Achievements
 ======
 Wistron:
-* [Dell Outstanding Leadership & Execution Award, 2023] (https://github.com/lch99310/lch99310.github.io/blob/gh_pages/_achievements/Dell%20Oustanding%20Award.pdf)
+* [Dell Outstanding Leadership & Execution Award, 2023](https://github.com/lch99310/lch99310.github.io/blob/gh_pages/_achievements/Dell%20Oustanding%20Award.pdf)
 * Co-hosted a Dell-Wistron Joint Engineering Workshop, 2023
 * [Scrum Master Certification, 2023](https://github.com/lch99310/lch99310.github.io/blob/gh_pages/_achievements/Scrum%20master%20certification_LCH.pdf)
 * [***Anomaly Detection in Driving by Cluster Analysis Twice***](https://arxiv.org/abs/2212.07691) Published !
