@@ -1,6 +1,6 @@
 ---
 title: "A Day of Taipei Metro"
-excerpt: "A Day of Taipei Metro<br/><img src='/images/taipei_metro.GIF'>"
+excerpt: "<br/><img src='/images/taipei_metro.GIF'>"
 collection: portfolio
 ---
 
