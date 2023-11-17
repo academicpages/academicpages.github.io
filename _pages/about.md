@@ -26,11 +26,11 @@ For a complete list of my undergraduate curriculum and more information on cours
 Research
 ======
 * **W. Du** and H. Tian, “Transformer and GAN-Based Super-Resolution Reconstruction Network for Medical Images,” Tsinghua Science and Technology, vol. 29, no. 1, pp. 197-206, Aug. 2023.
-  **[Abstract](/publications/paper-2-isr)** **[Paper](https://doi.org/10.26599/TST.2022.9010071){:target="_blank"}**
+  **[Abstract](/_publications/paper-2-isr)** **[Paper](https://doi.org/10.26599/TST.2022.9010071){:target="_blank"}**
 * **W. Du** and H. Tian, “Coalition Control Model: A Dynamic Resource Distribution Method Based on Model Predictive Control,” arXiv:2011.12711 [cs.MA], Nov. 2020.
-  **[Abstract](/publications/paper-2-isr)** **[Paper](https://doi.org/10.48550/arXiv.2011.12711){:target="_blank"} [Slides](/files/ccm-slides.pdf){:target="_blank"}**
+  **[Abstract](/_publications/paper-1-ccm)** **[Paper](https://doi.org/10.48550/arXiv.2011.12711){:target="_blank"} [Slides](/files/ccm-slides.pdf){:target="_blank"}**
 
-For a comprehensive description of publications, please see [Publication](/publication).
+For a comprehensive description of publications, please see [Publication](/publications).
 
 
 
@@ -74,4 +74,4 @@ Skills
 
 Additional Information
 ======
-Aside of academics, I'm an outdoor enthusiast and participated in two 26-day wilderness experience in the Death Valley in March 2022 and March 2023. I'm also a creative writer with a focus on identity and non-fiction creations. I work on art projects such as ceramics, paintings, and digital artworks as well. In addition, I co-founded [Milabot Automations](https://milabot.net/){:target="_blank"}, a student startup that provides customized AI ChatBot Automation solutions for middle and small enterprises, and am currently serving as the co-CEO and the CTO.
+Aside of academics, I'm an outdoor enthusiast and participated in two 26-day wilderness experiences in the Death Valley in March 2022 and March 2023. I'm also a creative writer with a focus on identity and non-fiction creations. I work on art projects such as ceramics, paintings, and digital artworks as well. In addition, I co-founded [Milabot Automations](https://milabot.net/){:target="_blank"}, a student startup that provides customized AI ChatBot Automation solutions for middle and small enterprises, and am currently serving as the co-CEO and the CTO.
