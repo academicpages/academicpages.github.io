@@ -13,9 +13,11 @@ I am a gradute student at Kennesaw State University getting my master of science
 Spotlight
 ======
 
-### Hackathon ###
+### Reap ###
+![ReapV1.5](/images/editing-talk.png)
 
 ### Foothills Web Productions ###
+At Foothills I was able to
 
 ### Mckenney's Inc ###
-
+During my time at McKenney's I have been able to work in many different disciplines 
