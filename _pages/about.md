@@ -30,7 +30,6 @@ Research
 
 For a comprehensive description of publications, please see [Publications](/publications).
 
-
 Curriculum
 ======
 * CSE 247: Data Structures and Algorithms
