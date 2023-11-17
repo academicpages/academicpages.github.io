@@ -26,6 +26,9 @@ author_profile: true
 
 ------
 
+1. **M.A. Badri, & G. Rastiello,** "Field-Split preconditioning via Schur complement for phase-filed fracture mechanics with finite element method." *3rd International Workshop on Plasticity, Damage and Fracture of Engineering Materials, IWPDF-2023*, İstanbul, Türkiye, 4-6 October, (2023),  PRESENTATION
+1. **M.A. Badri, C. Bourcier, & E. Foerster,** "FEM-compliant meshing for massively parallel geophysics simulations." *The 8th international conference on Advanced COmputational Methods in ENgineering, ACOMEN-2022*, Liege, Belgium, 31 August–2 September, (2022),  PRESENTATION
+1. **M.A. Badri, & G. Rastiello,** "Parallel finite element solvers for phase-field modeling of fracture." *15th World Conference on Computational Mechanics - 8th Asian Pacific Congress on Computational Mechanics, WCCM-APCOM*, Yokohama, Japan, 31 July–5 August, (2022),  PRESENTATION 
 1. **M.A. Badri, & G. Rastiello,** "HPC Finite Element Solvers for Phase-Field Models for Fracture in Solids." *In RILEM International Conference on Numerical Modeling Strategies for Sustainable Concrete Structures* (pp. 22-32). Cham: Springer International Publishing. (2022) PRESENTATION
 1. **M.A. Badri, G. Rastiello, E. Foerster**, Finite element strategies for parallelizing phase-field models for fracture mechanics. *The 14th World Congress in Computational Mechanics*, Paris, France, 19–24 Jul., (2020).PRESENTATION 
 2. **M.A. Badri, G. Rastiello, E. Foerster**, Parallel finite element solvers for phase-field models forfracture in solids.*The 14th World Congress in Computational Mechanics*, Paris, France, 19–24 Jul., (2020). PRESENTATION
