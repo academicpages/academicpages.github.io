@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! My name is Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf), and I am a ~~(second)~~ third-year PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/) in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). During my PhD, I've done some fun internships at [Google Research](https://research.google/) (Fall \& Winter 2023). 
+:wave: Hello! My name is Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf).
 
-Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall \& Winter 2017).
+I am a ~~(second)~~ third-year PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/) in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). During my PhD, I've done some fun internships at [Google Research](https://research.google/) (Fall \& Winter 2023). Before, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). 
 
-I maintain a list of my publications under the [Research](/publications/) tab. I am actively looking for research internships in Summer 2024.
+I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall \& Winter 2017).
+
+I maintain a list of my publications under the [Research](/publications/) tab.
+
+<span style="color:red">I am actively looking for research internships in Summer 2024!</span>
 
 ## :fire: Recent News
-* <sub>**[Nov 2023]** TREC RAG 2024 has been accepted and will be conducted as a shared task in 2024.
+* <sub>**[Nov 2023]** TREC RAG 2024 has been accepted and will be conducted as a shared task in TREC 2024.
 * <sub>**[Nov 2023]** My internship work at Google is out on [Arxiv](https://arxiv.org/abs/2311.05800), dataset is released [here](https://github.com/google-research-datasets/swim-ir).
 * <sub>**[Jul 2023]** I will be attending the SIGIR 2023 virtual conference being held in Taipei, Taiwan! Say hi to me (virtally)!</sub>
 * <sub>**[Jul 2023]** I will be attending the ACL 2023 in-person conference being held in Toronto, Canada! Say hi to me!</sub>

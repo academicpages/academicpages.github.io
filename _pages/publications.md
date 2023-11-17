@@ -14,7 +14,7 @@ In order to train neural retriever systems, large amounts of human-labeled train
 ### :speaking_head: Languages: Multilingual Retrieval
 Multilingual Retrieval aims to provide relevant search results for user searching across multiple languages. Multilingual retrieval involves various challenges, including language mismatch, translation ambiguity, and language-specific resource limitations. To overcome these challenges, machine translation, cross-lingual IR and mulitilingual embeddings have been employed. However, training data for such tasks is even more scarce than English making it a important challenge.
 
-## :paper: Publications
+## :scroll: Publications
 For an updated list of publications please refer either to my [Google Scholar profile](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en) or [Semantic Scholar profile](https://www.semanticscholar.org/author/Nandan-Thakur/47583894). 
 
 \* denotes equal contribution
