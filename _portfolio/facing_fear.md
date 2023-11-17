@@ -1,5 +1,5 @@
 ---
-title: "Face Your Fear"
+title: ""
 excerpt: "Face Your Fear<br/><img src='/images/facing_fear.png'>"
 collection: portfolio
 ---
