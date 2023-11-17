@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant: CS 135 Designing Functional Programs"
+title: "CS 135 Designing Functional Programs"
 collection: teaching
 type: "Fall 2021"
 permalink: /teaching/2021-fall-teaching-01

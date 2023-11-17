@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant: CS 136 Elementary Algorithm Design and Data Abstraction"
+title: "CS 136 Elementary Algorithm Design and Data Abstraction"
 collection: teaching
 type: "Winter 2022"
 permalink: /teaching/2022-winter-teaching-02

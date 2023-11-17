@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant:  CS 241 Foundations of Sequential Programs"
+title: "CS 241 Foundations of Sequential Programs"
 collection: teaching
 type: "Spring 2023"
 permalink: /teaching/2023-sprint-teaching-03

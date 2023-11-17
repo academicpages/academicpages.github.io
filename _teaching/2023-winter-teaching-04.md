@@ -1,5 +1,5 @@
 ---
-title: "Graduate Teaching Assistant: CS 479/679 Introduction to Artificial Intelligence"
+title: "CS 479/679 Introduction to Artificial Intelligence"
 collection: teaching
 type: "Winter 2023"
 permalink: /teaching/2023-winter-teaching-04
