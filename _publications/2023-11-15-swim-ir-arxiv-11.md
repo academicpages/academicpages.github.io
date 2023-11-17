@@ -10,7 +10,7 @@ citation: ''
 authors: '<strong> Nandan Thakur </strong>, Jianmo Ni, Gustavo Hernández Ábrego, John Wieting, Jimmy Lin, Daniel Cer'
 image: 'images/swim-ir.png'
 code: 'https://github.com/google-research-datasets/swim-ir'
-affiliation: 'University of Waterloo, Google Research, Google DeepMind'
+affiliation: 'University of Waterloo, Google Research and Google DeepMind.'
 dataset: 'https://github.com/google-research-datasets/swim-ir#download'
 
 ---
