@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "李崇豪 / Chung-Hao Lee"
 title_separator          : "-"
 name                     : &name "Chung-Hao Lee"
-description              : &description "PM @ Wistron"
+description              : &description "Machine Learning PM @ Wistron"
 url                      : https://lch99310.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lch99310/lch99310.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Chung-Hao Lee"
 
-  avatar           : "profile-picture.png"
+  avatar           : "profile_picture.png"
 
   bio              : "MBA & MSIS @University of Maryland / BS @NTHU (Taiwan)"
   location         : "Taipei, TW"
