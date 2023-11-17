@@ -1,22 +1,21 @@
 ---
-title: "ML Engineering Consultant"
+title: "Business Analyst"
 collection: teaching
 type: "Tredence Inc."
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-1
 venue: "Bengaluru"
 date: 2021-04-01
 location: "Bengaluru, India"
 ---
 
-I will write about ML Engineering here
+This will be about BA role
 
 Heading 1
 ======
-Here about something else
+Something under heading 1
 
 Heading 2
 ======
-Here about another thing. Let's test
 
 Heading 3
 ======
