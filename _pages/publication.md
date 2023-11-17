@@ -1,10 +1,13 @@
 ---
 layout: archive
-title: "Publication"
-permalink: /publication/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publications
+  - /publication
+  - /paper
+  - /papers
+  - /research
 ---
 
 {% if author.googlescholar %}
@@ -13,6 +16,6 @@ redirect_from:
 
 {% include base_path %}
 
-{% for post in site.publication reversed %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
