@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since June 2023, I am a postdoc in the [ARGO](https://argo-project-team.github.io/) team of Inria Paris, working with [Kevin Scaman](https://kscaman.github.io/) on Personalized Federated Learning. Being part of the [FedMalin](https://www.inria.fr/fr/fedmalin) Inria challenge, I also work in close collaboration with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) and [Giovanni Neglia](http://www-sop.inria.fr/members/Giovanni.Neglia/).
+Since June 2023, I am a postdoc in the [ARGO](https://www.di.ens.fr/argo/) team of Inria Paris and [DI ENS](https://www.di.ens.fr/) (computer science department of Ecole Normale Supérieure), working with [Kevin Scaman](https://kscaman.github.io/) on Personalized Federated Learning. Being part of the [FedMalin](https://www.inria.fr/fr/fedmalin) Inria challenge, I also work in close collaboration with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/) and [Giovanni Neglia](http://www-sop.inria.fr/members/Giovanni.Neglia/).
 
 Before that, I was a postdoc in the [MAGNET](https://team.inria.fr/magnet/) team at Inria Lille with Prof. [Marc Tommasi](http://researchers.lille.inria.fr/tommasi/), Aurélien Bellet and Prof. [Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec) (EPFL). 
 
