@@ -1,17 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Business Analyst"
 collection: teaching
-type: "Workshop"
+type: "Tredence Inc."
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Bengaluru"
+date: 2021-04-01
+location: "Bengaluru, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This will be about BA role
 
 Heading 1
 ======
+Something under heading 1
 
 Heading 2
 ======
