@@ -13,6 +13,19 @@ Recherche
 ======
 
 Mon [Manuscrit de thèse](https://strantien.github.io/files/manuscrit.pdf) et les [slides](https://strantien.github.io/files/slidesSoutenance.pdf) de la soutenance.
+
+Un court [projet d'anglais](https://strantien.github.io/files/tran_tien_rapport.pdf) encadré par [Khaled Saleh](http://math.univ-lyon1.fr/~saleh/), sur un schéma préservant l'asymptotique bas Mach pour Navier-Stokes barotrope.
+
+
 Colles
 ======
-J'ai donné deux ans durant des colles en prépa à Lyon, essentiellement en deuxième année. 
+
+J'ai donné deux ans durant des colles en prépa à Lyon, essentiellement en deuxième année. Vous trouverez [ici](https://strantien.github.io/files/colles.pdf) les exercices que j'ai donnés en boucle pendant cette période : ceux-ci sont, pour la majorité, accompagnés d'une correction et de remarques concernant leur niveau de difficulté dans une version *colleur* que je fournis volontiers sur demande par mail. 
+
+
+Divers
+======
+
+[Quelques](https://perso.eleves.ens-rennes.fr/people/thibault.modeste/) [illustres](http://math.univ-lyon1.fr/~maucourt) [collègues](http://math.univ-lyon1.fr/~dumas)
+
+<!--Je mets aussi un lien vers un excellent texte de Patrick Sargos sur <a href="http://math.univ-lyon1.fr/~trantien/public/enseigner-maths.pdf">l'enseignement des maths à l'université.</a>.-->
