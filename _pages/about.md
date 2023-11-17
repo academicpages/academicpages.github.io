@@ -10,7 +10,7 @@ redirect_from:
 
 I am now a PM managing AI/ML projects at [Wistron](https://www.wistron.com/CMS/ChangeLanguage/3). I received MBA and Master's in Information Systems dual degrees from [University of Maryland, College Park](https://www.umd.edu/), advised by [Dr. Adam Lee](https://www.rhsmith.umd.edu/directory/woei-jyh-adam-lee) and [Prof. Suresh Acharya](https://www.rhsmith.umd.edu/directory/suresh-acharya), and Bachelor's degree from [National Tsing Hua University](https://nthu-en.site.nthu.edu.tw/). Prior to University of Maryland, I was a Factory Project Manager at [Pegatron](https://www.pegatroncorp.com/index/index/lang/en_US), the largest OEM / ODM in Asia. 
 
-I have background in areas such as Machine Learning, Data Science, Data Visualization, Manufacturing, and Supply Chain Management. I am interested in Baseball Analytics, History, Geopolitics and Synthetic Biology. In my free time, I am an avid LA Dodgers' fan and I am a photographer who loves to record beauty of daily life.
+I bring comprehensive expertise in technology product development, integrating data-driven decision-making to optimize supply chain management, manufacturing, and design processes. I am interested in Baseball Analytics, History, Geopolitics and Synthetic Biology. In my free time, I am an avid LA Dodgers' fan and I am a photographer who loves to record beauty of daily life.
 
 Achievements
 ======
