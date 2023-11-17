@@ -9,11 +9,11 @@ redirect_from:
 
 :wave: Hello! My name is Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf).
 
-I am a ~~(second)~~ third-year PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/) in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). During my PhD, I've done some fun internships at [Google Research](https://research.google/) (Fall \& Winter 2023). Before, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). 
+I am a ~~(second)~~ third-year PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/) in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). During my PhD, I've done some fun internships at [Google Research](https://research.google/) (Fall & Winter 2023). Before, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). 
 
-I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall \& Winter 2017).
+I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017).
 
-I maintain a list of my publications under the [Research](/publications/) tab.
+I maintain a list of my publications under the [Research](/publications/) tab. Feel free to reach out to me via email: nandan.thakur@uwaterloo.ca.
 
 <span style="color:red">I am actively looking for research internships in Summer 2024!</span>
 
