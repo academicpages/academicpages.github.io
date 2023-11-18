@@ -12,7 +12,7 @@ location: "Bengaluru, India"
 Projects
 ======
 [TALP - Test and Learn Platform](https://www.tredence.com/solutions/test-and-learn-platform)
-The Test and Learn Platform (TALP) is a comprehensive solution addressing enterprises' challenges in experimentation by offering a centralized, customizable, and scalable platform. Streamline campaign cycles, enhance time-to-value, and gain accurate insights through TALP's end-to-end features and data-driven recommendations.
+The Test and Learn Platform (TALP) is a comprehensive solution addressing enterprises' challenges in experimentation by offering a centralized, customizable, and scalable platform. Streamline campaign cycles, enhance time-to-value, and gain accurate insights through TALP's end-to-end features and data-driven recommendations. [Click here to read more](/teaching/2014-spring-teaching-1S)
 
 [Click to see how TALP drives ROI enabling Rapid Customer Engagement Experiments](https://www.youtube.com/watch?v=qubmaCpl1p8&t=58s)
 
