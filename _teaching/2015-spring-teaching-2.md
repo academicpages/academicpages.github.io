@@ -24,7 +24,12 @@ of a marketing campaign
 approach
 - Developed a matching algorithm to identify test and control stores for marketing launching marketing campaigns for a leading retail clothing brand
 
-Other Projects & Contributions
+- [ATOM.AI](https://www.tredence.com/atom-ai#)
+ATOM.AI, an end-to-end ecosystem of AI/ML accelerators designed to solve the hairiest data engineering and data science challenges for enterprises and help them unlock the power of their data. ATOM.AI equips companies to put AI at the center of their modernization strategy while also delivering on our last-mile AI mission.
+
+[Click to see how we are building a unified AI-ML Ecosystem at Tredence](https://www.youtube.com/watch?v=2yJXPMfuhrg&t=2s)
+
+Other Notable Work
 ======
 - Worked with one of the world’s largest consumer goods producers to maintain and improve their products’ On Store Availability across multiple countries and markets
 
