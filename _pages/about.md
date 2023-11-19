@@ -17,7 +17,8 @@ I travel to explore stories, food and culture. I'm of that kind who goes to trip
 
 Welcome to my space. Thanks for stopping by!
 
-*“We are travelers on a cosmic journey,stardust,swirling and dancing in the eddies and whirlpools of infinity. Life is eternal. We have stopped for a moment to encounter each other, to meet, to love, to share.This is a precious moment. It is a little parenthesis in eternity.”*
+*“We are travelers on a cosmic journey, stardust, swirling and dancing in the eddies and whirlpools of infinity. Life is eternal. We have stopped for a moment to encounter each other, to meet, to love, to share.This is a precious moment. It is a little parenthesis in eternity.”*
+
 ― Paulo Coelho, The Alchemist
 
 
