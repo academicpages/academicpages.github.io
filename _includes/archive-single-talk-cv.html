@@ -29,13 +29,13 @@
       </div>
     {% endif %}
     <h3 class="archive__item-title" itemprop="headline">
-      {% if post.video %}
-        <div class="video-bubble"><a class="video-link" href="{{ post.video }}">video</a></div>
-      {% endif %}
       {% if post.link %}
         {{ title }}<a href="{{ post.link }}"><i class="fa fa-link" aria-hidden="true"></i></a>
       {% else %}
         {{ title }}
+      {% endif %}
+      {% if post.video %}
+        <div class="video-bubble"><a class="video-link" href="{{ post.video }}">video</a></div>
       {% endif %}
       {% if post.pdf %}
         <div class="pdf-bubble"><a class="pdf-link" href="{{ post.pdf }}">slides</a></div>
