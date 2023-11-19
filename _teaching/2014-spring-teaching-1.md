@@ -11,9 +11,9 @@ Overview
 ======
 My role as a Business Analyst at Tredence has provided me with the unique opportunity to actively engage with and tackle complex challenges on an enterprise scale. [Click here](/teaching/2015-spring-teaching-1) to read more
 
-Project
+Projects
 ======
-[Supply Chain Control Tower (SCCT)](https://www.tredence.com/solutions/supply-chain-control-tower), gives all stakeholders real-time visualizations of supply chain functional areas and health with persona- and use case-based interfaces and automated alerts.
+- [Supply Chain Control Tower (SCCT)](https://www.tredence.com/solutions/supply-chain-control-tower), gives all stakeholders real-time visualizations of supply chain functional areas and health with persona- and use case-based interfaces and automated alerts.
 
 [Click to see how SCCT is a one-stop supply-chain solution for Global Enterprises](https://www.youtube.com/watch?v=8QUYD2ucRnc&t=2s)
 
@@ -23,10 +23,10 @@ Contributions
 forecast demand and sales etc. for Sysco Foods, the world’s largest broadline food distributor.
 - Used predictive analytics to understand vendors payment patterns and flag/predict potential defaulters
 
-<!-- Contributions
+Other Projects & Contributions
 ======
 - Created automated Tableau dashboards that deliver insights about employees performance, employees
-development and other workforce demographics across 10+ counties for Sysco Foods. -->
+development and other workforce demographics across 10+ counties for Sysco Foods.
 
 Logos
 ======
