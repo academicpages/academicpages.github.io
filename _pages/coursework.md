@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /outreach/
+permalink: /coursework/
 title: Coursework
 description: Relevant Coursework
 nav: true
