@@ -5,7 +5,7 @@ type: "Talk"
 venue: 
 date: 2023-11-09
 location: MSU Ignite 2023
-pdf: 
+pdf: /files/slides/2023-msu-ignite.pdf
 link: https://www.youtube.com/watch?v=bDoaW2CeBcU
 ---
 
