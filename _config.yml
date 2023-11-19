@@ -13,7 +13,7 @@ name                     : &name "Chung-Hao Lee"
 description              : &description "Machine Learning PM @ Wistron"
 url                      : https://chunghao_lee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lch99310/lch99310.github.io"
+repository               : "lch99310/chunghao_lee.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
