@@ -28,6 +28,9 @@
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {{ title }}
+      {% if post.video %}
+        <div class="video-bubble"><a class="video-link" href="{{ post.video }}">video</a></div>
+      {% endif %}
       {% if post.pdf %}
         <div class="pdf-bubble"><a class="pdf-link" href="{{ post.pdf }}">slides</a></div>
       {% endif %}
