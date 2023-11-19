@@ -7,9 +7,7 @@ venue: "Bengaluru"
 date: 2022-06-01
 location: "Bengaluru, India"
 ---
-Overview
-------
-In my role as a Machine Learning Engineering Consultant, I have had the privilege of spearheading the development of sophisticated intelligent systems for Fortune 500 companies. [Click here](/teaching/2014-spring-teaching-1) to read more
+In my current role as a Machine Learning Engineering Consultant, I have had the privilege of spearheading the development of sophisticated intelligent systems for Fortune 500 companies. [Click here](/teaching/2014-spring-teaching-1) to read more
 
 Projects
 ======
