@@ -8,7 +8,7 @@ date: 2021-04-01
 location: "Bengaluru, India"
 ---
 Overview
-======
+------
 My role as a Business Analyst at Tredence has provided me with the unique opportunity to actively engage with and tackle complex challenges on an enterprise scale. [Click here](/teaching/2015-spring-teaching-1) to read more
 
 Projects
