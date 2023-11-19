@@ -22,8 +22,9 @@ Contributions
 - Provided end-to-end insights on procurement, inventory management, sales using advance analytics;
 forecast demand and sales etc. for Sysco Foods, the world’s largest broadline food distributor.
 - Used predictive analytics to understand vendors payment patterns and flag/predict potential defaulters
+- Used time-series forecasting to forecast orders and stock-outs for future weeks
 
-Other Projects & Contributions
+Other Notable Work
 ======
 - Created automated Tableau dashboards that deliver insights about employees performance, employees
 development and other workforce demographics across 10+ counties for Sysco Foods.
