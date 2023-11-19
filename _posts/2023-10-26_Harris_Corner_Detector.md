@@ -134,4 +134,11 @@ As we see below, the number of corners is greatly reduced and cleaner.
 ![nms_corners](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/0b2b5f6f-77cd-4aa2-9ab5-dc7ee20aa8f8)
 
 
-### More examples / Abalation Study
+### Conclusion
+The Harris Corner Detector works great for a lot of situations in computer vision. If you want to a guess at what situations/images it would be best in, think deeply about the name. It's important to recognize that corners are not universal especially in cases of biological data or organic architecture. Occulusions and different lightnings can affect the harris corner resposne as well. As anyone who's worked in computer vision will learn, your data is never as pretty as you want. Speed is something to consider to in implementation. Do you need to capture EVERY corner or just enough to do your task as hand on a raspberry pi? Quality and speed are often trade-off you have to consider and tune your algorithm to. 
+
+![castle_1](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/cfc12850-38f6-4976-91b7-2e1871d225d0)
+![resort_3](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/5aaf535e-0163-4651-b30b-6dbee2bc2017)
+![wall_1](https://github.com/LandonSwartz/landonswartz.github.io/assets/50836209/2dc55115-d8ed-4de0-8840-10f4403814ec)
+
+In the next blog post, we will implement some simple feature descriptors to see how our little corner detector performs in producing homographies.
