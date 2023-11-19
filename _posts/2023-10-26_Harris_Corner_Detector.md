@@ -1,6 +1,6 @@
 ---
 title: "Implementing the Harris Corner Detector"
-date: 2023-10-26
+date: 2023-11-19
 permalink: /posts/2023/10/HarrisCorner/
 tags:
   - ComputerVision
