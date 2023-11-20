@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "rameshnayaka"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "rameshnayaka"
 description              : &description "personal description"
 url                      : "https://rameshnayaka.github.io" 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
