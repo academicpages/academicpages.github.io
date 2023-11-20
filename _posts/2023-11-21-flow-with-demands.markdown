@@ -1,0 +1,66 @@
+---
+title:  "2023 Year In Review"
+date:   2023-12-24 10:00:00 -0700
+tags:
+  - Life
+---
+
+
+
+<h1>Passion</h1>
+
+- I guess I solved 700+ problems this year but contest performances were not up to the mark at all.
+- Finally hit the solve count of 2000 in cf, that is I have solved 3000+ problems in my whole CP career.
+
+<h4>2024 Goals:</h4>
+
+- Participate in the next Regional Contest, try to qualify for the next World Finals, and do smth remarkable for the country in the World Finals.
+- Try to be good at Adhoc problems and thus be red on Codeforces.
+- Be champions in some National Contests.
+- Host some Div. 3 or Div. 4 rounds on Codeforces (only if I have time).
+
+<h1>Job</h1>
+
+- Not Now
+
+<h4>2024 Goals:</h4> 
+
+- Write blogs on Codeforces.
+- Reply to everyone.
+- Have a new live course maybe.
+- Stay active on Discord Server.
+
+<h1>Mental Peace</h1>
+
+- Had an awesome trip to Thailand.
+- Helped with almost all the expenses of my family.
+- Gifted my family during Eid.
+- Messi win 8th Ballon d'or And Australia won ICC World Cup 2024.
+
+<h4>2024 Goals:</h4> 
+
+- Visit at least 1 new countries.
+- Make new friends. Hit me up if you want to be a friend of mine.
+- Buy gifts for Maa and my family
+
+<h1>Finance</h1>
+- Not Interested Share
+
+<h4>2024 Goals:</h4>
+
+- Built an almost dream workstation for me.
+- Bought iPhone 15 Pro.
+
+<h1>Health</h1>
+
+- Need improvements!🙂
+
+<h4>2024 Goals:</h4>
+
+- Sleep Early!
+
+Some things went well. Some things didn’t go well. Could have done better. Or maybe that’s how life is? Right?
+
+I have, nevertheless, reconciled with my history. I am happy where I am right now. I'm also enthusiastic about the future. And that's what I hope life will provide.
+
+Have an Awesome New Year everyone!
