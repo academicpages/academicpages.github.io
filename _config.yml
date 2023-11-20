@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dr. Ramesh Nayaka"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Room No. 2A13, 2nd Floor, Indian Institute of Technology (IIT) Dharwad WALMI Campus, Belur Industrial Area, Near High court,PB Road, Anjaneya Nagar, Dharwad 0580011, Karnataka"
+  bio              : " M. Tech. (IIT Madras), Ph.D. (UM, MY), MIE, C.Eng. (IEI, India)"
+  location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/dr-ramesh-nayaka-aa17b347/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
