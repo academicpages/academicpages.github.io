@@ -7,7 +7,7 @@ tags:
 
 
 
-<h1>Passion</h1>
+# Passion
 
 - I guess I solved 700+ problems this year but contest performances were not up to the mark at all.
 - Finally hit the solve count of 2000 in cf, that is I have solved 3000+ problems in my whole CP career.
