@@ -1,4 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /Courses/
+author_profile: true
 
+---
 
 # TEACHING
 
