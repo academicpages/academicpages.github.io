@@ -71,19 +71,19 @@ K. Shanthi Sri (Sem - I, 2020)
 
 **3. B. Tech. Dissertation Guidance** 
 
-**2022-23**
+###### 2022-23
 
 1. Mahaveer Kamuju(191128)
 2. Sai Kumar Kanthala(191153)
 3. Naga sai Durga Prasad(191119)
 
-**2021-2022**
+###### 2021-2022
 
 1. K. Suryateja (181128)
 2. N. Balaji Chowdary ( 181136)
 3. T Avinash (181148)
 
-**2020-2021**
+###### 2020-2021
 
 1. Utkarsh Singh (171250)
 2. Divyansh Dubey (171112)
