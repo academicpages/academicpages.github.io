@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-# **About** 
+
 
 Dr. Ramesh Nayaka is an assistant professor in the Department of Civil and Infrastructure Engineering at IIT Dharwad. Dr. Nayaka obtained his Ph.D. in Structural Engineering and Materials from University of Malaya (UM) in Malaysia (2016-2019) and He was also given a thesis excellence award in 2019. Dr. Nayaka attended IIT Madras and earned an M.Tech. in Building Technology and Construction Management (2011-2013). His B.Eng. in Civil Engineering (2007–2011) is from VTU Karnataka (BEC Bagalkot). In the field of Structural Engineering and Materials, and Construction Technology and Management, his research interests majorly include in structural engineering, Materials, Construction Techniques and Management. Extensively includes Structural performance of Low-Cost Housing Systems, 3D Concrete Printing, Structural Behavior of Pre-Fab Systems, Sustainable Construction Materials and Techniques, Life Cycle Cost and Environmental Analysis, Building Information Modelling (BIM),Functional Design of Buildings and Optimization Techniques.
 
