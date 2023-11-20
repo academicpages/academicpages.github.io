@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "rameshnayaka"
+title                    : "Dr. Ramesh Nayaka @ IIT Dh"
 title_separator          : "-"
 name                     : &name "rameshnayaka"
 description              : &description "personal description"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Ramesh Nayaka"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Room No. 2A13, 2nd Floor, Indian Institute of Technology (IIT) Dharwad WALMI Campus, Belur Industrial Area, Near High court,PB Road, Anjaneya Nagar, Dharwad 0580011, Karnataka"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "ramesh.nayaka@iitdh.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
