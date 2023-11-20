@@ -1,59 +1,43 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Profile"
+permalink: /Profile/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
-{% include base_path %}
+**Academic Qualification** 
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- **Ph.D.** (Structural Engineering and Materials)**,** Faculty of Engineering, University of Malaya (UM), Kuala Lumpur, Malaysia. (April 2016 – May 2019) (Excellence Award' 2019)
+- **M. Tech.** (Building Technology and Construction Management)**,** Indian Institute of Technology (IIT) Madras, Tamil Nadu, India ( July 2011 – July 2013) 
+- **B.E.(**Civil Engineering), Visvesvaraya Technological University (VTU), Karnataka (BEC Bagalkot), India (September 2007 – June 2011)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ **Teaching and Research Experience**
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Assistant Professor** (Grade - I)**,** Department of Civil and Infrastructure Engineering, Indian Institute of Technology (IIT), Dharwad - 580011, KA, India (May 2023-Till Date)
+- **Assistant Professor** (Grade - II)**,** Department of Civil Engineering, National Institute of Technology (NIT), Warangal - 506 004, TS, India (December 2019 - May 2023)
+- **Assistant Professor,** Department of Civil Engineering, Manipal Academy of Higher Education  (MAHE), Manipal – 576104, Karnataka State, India (June 2019 – November  2019).
+- **Research Assistant**, Department of Civil Engineering, University of Malaya, Kuala Lumpur, Malaysia. (April 2016 – June 2019)
+- **Assistant Professor,** Department of Civil Engineering, Manipal Academy of Higher Education  (MAHE), Manipal – 576104, Karnataka State, India (July 2014 – March  2016)
+- **Faculty (On Contract)**, Department of Civil Engineering, National Institute of Technology, Calicut, Kerala, India (September 2013 – May 2014)
+- **Teaching Assistant**, Indian Institute of Technology (IIT) Madras, Tamil Nadu, India (July 2011 – July 2013)
+
+ 
+
+ **Membership in Professional Bodies**
+
+-  Charted Engineer (IN), Institute of Engineers, India 
+-  Member, Project Management Institute (PMI), USA 
+- Member, Institute of Engineers (IEI), India 
+-  Affiliate Member (AM), American Society of Civil Engineers (ASCE), USA
+-  Young Member, The International Union of Laboratories and Experts in Construction Materials, Systems and Structures (*RILEM*), France
+- Young Member, International Association of Bridge and Structural Engineering (IABSE), Zurich, Switzerland 
+
+   
+
+**Industrial Training**
+
+-  **Trainee,** M/S. Larsen and Toubro (L&T) Construction, Head Quarters, Chennai, TN, India (May 2012 - July 2012)
+
