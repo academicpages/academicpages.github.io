@@ -32,3 +32,7 @@ I am also interested in blockchain and privacy-preserving machine learning.
 ### Grants ###
 
 Protocol Labs, RFP-009 on Proofs of Space and Useful Space, Principal Investigator.
+
+# News #
+
+- Our [paper](https://arxiv.org/abs/2311.04378) on the ***"Impossibility of Strong Watermarking for Generative Models"*** is out! Check also this [post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)! 
