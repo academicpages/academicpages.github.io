@@ -33,11 +33,17 @@ Current areas of research
 
 Polyhedral Meshing
 ------
-![Editing a markdown file for a talk](https://private-user-images.githubusercontent.com/52162083/254928008-50d292d9-9fff-4e63-85f2-e310e01e5c16.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA0MzUyOTYsIm5iZiI6MTcwMDQzNDk5NiwicGF0aCI6Ii81MjE2MjA4My8yNTQ5MjgwMDgtNTBkMjkyZDktOWZmZi00ZTYzLTg1ZjItZTMxMGUwMWU1YzE2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTE5VDIzMDMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ3YWI3Y2RlNTU4ZWQyMjNmODkyMWY4MWU0NTk0NjhkNDg5ZWE5NmQxYzY3YWVhZjRkOGZiOTNkZTU0M2Y3ZTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cAhxay6_Izh3PgU0HmTJS9iwSva9hsrFSUQA7EfYW6I){: width="40%"}
+![Editing a markdown file for a talk](https://github.com/mohd-afeef-badri/pdmt/assets/52162083/bc7f98a6-7631-439d-934f-7daa49250721){: width="40%"}
 
-![Editing a markdown file for a talk](https://private-user-images.githubusercontent.com/52162083/254594617-ad36705c-47d2-4326-9987-4eccc40fb818.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA0MzUyOTYsIm5iZiI6MTcwMDQzNDk5NiwicGF0aCI6Ii81MjE2MjA4My8yNTQ1OTQ2MTctYWQzNjcwNWMtNDdkMi00MzI2LTk5ODctNGVjY2M0MGZiODE4LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTE5VDIzMDMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQyYzg2ZTNlNTk5ZDc0YWZiMzNiOWNkMzVhMGUzZDRlMWJjOTc5MDYyZWRmMTg3YzExNjBiNzFmMWUzYjFiOTEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.UJg4EUZpIr0ufrCeUkzXSDtRm6C8eYOLB7Yt4LmhWFs){: width="20%"}
-![Editing a markdown file for a talk](https://private-user-images.githubusercontent.com/52162083/254596238-58aeb5e8-c49b-4527-add9-c2afd738877d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA0MzUyOTYsIm5iZiI6MTcwMDQzNDk5NiwicGF0aCI6Ii81MjE2MjA4My8yNTQ1OTYyMzgtNThhZWI1ZTgtYzQ5Yi00NTI3LWFkZDktYzJhZmQ3Mzg4NzdkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTE5VDIzMDMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ2Njc0OWVmYzEzZTQxMTRmZWYxNDM4ZjY1ZDI4N2ZkMDlmZGU4ZmNhYmIxMzIzYWNjOWIzMDQyNGU4MzJiOWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Zn05eXZpFBXGpd7xSlD1xt2aixF2_spSYXfvJ2ER1_w){: width="20%"}
-![Editing a markdown file for a talk](https://private-user-images.githubusercontent.com/52162083/254599588-d8cb4c44-4cd5-4aef-a788-b5ded2fb26f1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDA0MzUyOTYsIm5iZiI6MTcwMDQzNDk5NiwicGF0aCI6Ii81MjE2MjA4My8yNTQ1OTk1ODgtZDhjYjRjNDQtNGNkNS00YWVmLWE3ODgtYjVkZWQyZmIyNmYxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTE5VDIzMDMxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdkZmNiZWI1NDE5Njg5MzllYzI0ZjllYjc0YzdlY2M4NTJjZmVkNzY1YTQxNmZjZDJjNzY4YjBmZjBiZTNkZTMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.jUn5cTQTEgC_uvNj9QbWPbV3ogaw_7hdlvQ_nnAYFOI){: width="20%"}
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
+
+  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/8ae5798d-5a4f-474d-ae39-c7207085f7bd" alt="Image 1" width="25%">
+  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/03f0e8ae-75dd-4823-870b-4c65fab363fe" alt="Image 2" width="25%">
+  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/9052499a-3993-425e-a111-2f94c4ca8798" alt="Image 3" width="25%">
+
+</details>
+
 
 Mesh Adaption
 ------ 
@@ -47,21 +53,36 @@ Finite Element Solver (CPU/GPU)
 
 ![Editing a markdown file for a talk](https://user-images.githubusercontent.com/52162083/237443631-959988a3-1717-4449-b412-14cbd1582367.png){: width="40%"}![Editing a markdown file for a talk](https://user-images.githubusercontent.com/52162083/251469445-9237d686-2791-4852-b929-4d0c7e5f8df7.gif){: width="32%"}
  
+HPC for Phase-field Fracture 
+------
 
+![Editing a markdown file for a talk](https://www.researchgate.net/profile/Giuseppe-Rastiello/publication/344688580/figure/fig6/AS:947232815730690@1602849310156/Large-scale-perforated-medium-test-domain-and-partitioned-mesh_W640.jpg){: width="40%"}
+
+FEM-Compliant parallel meshing-partitioning in Geophysics 
+------
 
 Past areas of research
 ======
 
 
-Radiative trasport in porous media
+Radiative transport in porous media
 ------
 
 ![Editing a markdown file for a talk](/images/al-full-img.png){: width="20%"}![Editing a markdown file for a talk](https://www.researchgate.net/publication/344284816/figure/fig3/AS:937040451489792@1600419261029/Heat-paths-of-conduction-compared-with-coupled-conduction-radiation_W640.jpg){: width="45%"}
 
-![Editing a markdown file for a talk](https://www.researchgate.net/publication/344284816/figure/fig1/AS:937040006893569@1600419155709/Coupled-conduction-radiation-in-Kelvin-and-cubic-cell_W640.jpg){: width="60%"}
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
+
+  <img src="https://www.researchgate.net/publication/344284816/figure/fig1/AS:937040006893569@1600419155709/Coupled-conduction-radiation-in-Kelvin-and-cubic-cell_W640.jpg" alt="Image 1" width="60%">
+  <img src="https://www.researchgate.net/publication/344284816/figure/fig2/AS:937040245964802@1600419212628/Temperature-fields-for-coupled-condition-radiation-ceramic-samples_W640.jpg" alt="Image 2" width="60%">
+  <img src="https://www.researchgate.net/publication/344284816/figure/fig5/AS:937041797861379@1600419582366/Temperature-comparison-for-SiC-ceramics-with-different-cell-structure_W640.jpg" alt="Image 3" width="60%">
+
+</details>
 
 
 
-Number 2
+
+Inverse problem for hypersonic flow
 ------
 
