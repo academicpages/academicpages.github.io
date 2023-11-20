@@ -7,3 +7,4 @@ title: Conferences and Meberships
 3. Attendee and Poster Presenter, Cognitive Science Society meeting 26-29 July 2023 link to poster presentation is here:    https://underline.io/lecture/80566-perception-of-mooney-faces-extreme-generalization-through-inverse-renderingquestion
 
 4. Attendee Graphics Vision and Machine Learning https://vmv2023.cg.cs.tu-bs.de
+5. Attendee Neuro AI talks in Osnabrück, organized by Tim Keatzmann Lab
