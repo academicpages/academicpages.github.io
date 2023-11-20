@@ -85,7 +85,7 @@ author:
   bio              : "BSc student"
   location         : "Dhaka,Bangladesh"
   employer         :
-  pubmed           : "https://mvp.microsoft.com/en-US/studentambassadors/profile/b75fc251-3ad8-4ef2-8913-128a69462fd8"
+  pubmed           : #"https://mvp.microsoft.com/en-US/studentambassadors/profile/b75fc251-3ad8-4ef2-8913-128a69462fd8"
   googlescholar    : "https://scholar.google.com/citations?user=MUFjmDcAAAAJ&hl=en"
   email            :  
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
