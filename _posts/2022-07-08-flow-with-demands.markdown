@@ -2,9 +2,8 @@
 title:  "2023 Year In Review"
 date:   2023-12-24 10:00:00 -0700
 tags:
-  - competitive programming
+  - Life
 ---
-
 
 <h1>Passion</h1>
 
