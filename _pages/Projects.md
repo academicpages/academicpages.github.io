@@ -1,3 +1,12 @@
+---
+layout: archive
+title: ""
+permalink: /Projects/
+author_profile: true
+
+---
+
+
 # PROJECTS
 
 **On-Going Projects:**
