@@ -86,9 +86,9 @@ author:
   location         : 
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=L8ydQosAAAAJ"
   email            : "ramesh.nayaka@iitdh.ac.in"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ramesh-Nayaka"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57202254693"
 
 
 # Reading Files
