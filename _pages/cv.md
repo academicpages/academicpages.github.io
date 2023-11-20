@@ -56,14 +56,6 @@ Teaching experience
   * Provided individual assistance to develop students’ programming skills through regular feedback.
 
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-
   
 Conference Attended and Service
 ======
