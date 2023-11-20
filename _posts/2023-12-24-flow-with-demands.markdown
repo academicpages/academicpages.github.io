@@ -5,6 +5,8 @@ tags:
   - Life
 ---
 
+
+
 <h1>Passion</h1>
 
 - I guess I solved 700+ problems this year but contest performances were not up to the mark at all.
