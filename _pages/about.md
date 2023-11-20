@@ -77,7 +77,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 * <b>Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Xingzhi Sun, Guotong Xie, Zhiyuan Liu, Maosong Sun*\
-EMNLP 2023. [[pdf](https://openreview.net/forum?id=3CIQIYNGlp)]
+EMNLP 2023. [[pdf](https://openreview.net/forum?id=3CIQIYNGlp)] [[code](https://github.com/yushengsu-thu/PET_Scaling)]
 
 * <b>Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models</b>\
 *Ning Ding, Yujia Qin, Guang Yang, Fuchao Wei, Zonghan Yang, <b>Yusheng Su</b>, Shengding Hu, Yulin Chen, Chi-Min Chan, Weize Chen, Jing Yi, Weilin Zhao, Xiaozhi Wang, Zhiyuan Liu, Hai-Tao Zheng, Jianfei Chen, Yang Liu, Jie Tang, Juanzi Li, Maosong Sun.*\
