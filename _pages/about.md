@@ -11,7 +11,7 @@ redirect_from:
 I am a third-year Ph.D. student in Computer Science at Georgia Institute of Technology, and I am fortunate to be advised by [Matthew Gombolay](https://core-robotics.gatech.edu/people/matthew-gombolay/).
 
 
-My main research interests lie in the areas of Natural Language Processing and Machine Learning. I am interested in developing novel techniques that can improve the performance of Large Language Models (LLM) for generating and understanding code and 3D models. My long-term research goal is to build intelligent systems that can assist engineers, developers, and designers in streamlining their tasks. My current research at the [CORE lab](https://core-robotics.gatech.edu/) involves building intelligent systems that assist in manufacturing.
+I am interested in developing novel techniques that can improve the performance of Large Language Models (LLM) for generating and understanding code and 3D models. My long-term research goal is to build intelligent systems that can assist engineers, developers, and designers in streamlining their tasks. My current research at the [CORE lab](https://core-robotics.gatech.edu/) involves building intelligent systems that assist in manufacturing.
 
 
 ### Selected Papers: [Full list](https://scholar.google.com/citations?user=7j0jTzYAAAAJ&hl=en)
