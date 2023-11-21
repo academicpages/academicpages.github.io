@@ -12,11 +12,13 @@ redirect_from:
 [pdf version available here](http://WeiCheng14159.github.io/files/resume/resume.pdf)
 
 ## Education
-* B.E. in Computer Engineering, University of Hong Kong, 2018
+
+* Ph.D. in Electrical and Computer Engineering, Duke University, 2023 - Now
 * M.S. in Computer Science and Information Engineering, National Cheng Kung University, 2022
+* B.E. in Computer Engineering, University of Hong Kong, 2018
 
 ## Research experiences
-* Feb 2021 - Now: Research Assistant, [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/)
+* Feb 2021 - Jul 2023: Research Assistant, [Institute of Information Science, Academia Sinica](https://www.iis.sinica.edu.tw/)
   * Supervisor: [Prof. Yuan-Hao Chang](https://www.iis.sinica.edu.tw/~johnson/)
   * Graph processing on dual-addressing memory [ICCAD'22]
 * Sep 2020 - Jun 2022: Research Assistant, [Computer Architecture & IC Design Lab, NCKU](http://caid.csie.ncku.edu.tw/index.php)
