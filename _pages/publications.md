@@ -87,7 +87,7 @@ Gender tax gap. Wie die deutsche Steuer Frauen diskriminiert [Zeit Online - Inst
 
 Wie Frauen bei Erbschaften und Schenkungen benachteiligt werden [FR](https://www.fr.de/wirtschaft/erbe-erbschaftssteuer-frauen-maenner-unterschied-benachteiligung-schenkung-gender-pay-gap-zr-92668807.html)
 
-Frauen erben weniger und zahlen dann sogar mehr Steuern!  [RTL](https://www.rtl.de/cms/von-wegen-gleichberechtigung-frauen-erben-weniger-und-zahlen-dann-sogar-mehr-steuern-5066540.html
+Frauen erben weniger und zahlen dann sogar mehr Steuern!  [RTL](https://www.rtl.de/cms/von-wegen-gleichberechtigung-frauen-erben-weniger-und-zahlen-dann-sogar-mehr-steuern-5066540.html)
 
 Söhne bevorzugt [Monitor - WDR - Instagram](https://www.instagram.com/p/CzolIiXLBjI/?utm_source=ig_web_button_native_share)
 
