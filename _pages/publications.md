@@ -81,11 +81,15 @@ Tisch, Daria: Preservation of large fortunes over multiple generations in German
 Media coverage 
 ======
 
-Warum Frauen weniger erben und trotzdem mehr Steuern zahlen https://www.zeit.de/geld/2023-10/frauen-erbschaftssteuer-schenkungssteuer-gender-tax-gap
+Warum Frauen weniger erben und trotzdem mehr Steuern zahlen [Zeit Online](https://www.zeit.de/geld/2023-10/frauen-erbschaftssteuer-schenkungssteuer-gender-tax-gap)
 
-Wie Frauen bei Erbschaften und Schenkungen benachteiligt werden https://www.fr.de/wirtschaft/erbe-erbschaftssteuer-frauen-maenner-unterschied-benachteiligung-schenkung-gender-pay-gap-zr-92668807.html
+Gender tax gap. Wie die deutsche Steuer Frauen diskriminiert [Zeit Online - Instagram](https://www.instagram.com/p/CzX8sE-tW3E/?utm_source=ig_web_button_share_sheet&igshid=OWZiMDc0N2E0OA%3D%3D)
 
-Frauen erben weniger und zahlen dann sogar mehr Steuern! - RTL.de https://www.rtl.de/cms/von-wegen-gleichberechtigung-frauen-erben-weniger-und-zahlen-dann-sogar-mehr-steuern-5066540.html
+Wie Frauen bei Erbschaften und Schenkungen benachteiligt werden [FR](https://www.fr.de/wirtschaft/erbe-erbschaftssteuer-frauen-maenner-unterschied-benachteiligung-schenkung-gender-pay-gap-zr-92668807.html)
+
+Frauen erben weniger und zahlen dann sogar mehr Steuern!  [RTL](https://www.rtl.de/cms/von-wegen-gleichberechtigung-frauen-erben-weniger-und-zahlen-dann-sogar-mehr-steuern-5066540.html
+
+Söhne bevorzugt [Monitor - WDR - Instagram](https://www.instagram.com/p/CzolIiXLBjI/?utm_source=ig_web_button_native_share)
 
 
 
