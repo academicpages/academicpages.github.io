@@ -13,23 +13,23 @@ My name is Yu-Sheng Su and I am currently an Research Fellow hosted by [Eric Xin
 
 
 ## Research
-<!--My research interests are in the theory and practice of building machine learning systems that remain reliable when deployed in real application contexts. For example:-->
-
-
-<!--My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that has human-like cognitive capacities (e.g., understanding, reasoning, etc) and can generalize to various real-world applications efficiently. Toward this goal, my work spans across:-->
-
+<!--
 I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding , reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>interactable and reliable</b> when deployed in real applications. Toward this goal, my previous works spans across:
+-->
 
+<!--
 * <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). <small>Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models. </small>
+-->
 
-* <b>Computational efficiency Method. (Model Fine-tuning)</b> Developing theory, tools, and algorithms to efficiently (computation-friendly) adapt large-scale models toward downstream tasks (e.g., prompt tuning methods, in-context learning, instruction tuning, etc.) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
+My research spans the areas of natural language processing and machine learning, specifically focusing on <b>LLMs</b>. I am broadly interested in the following topics:
 
+* <b>Computational Efficiency Method. (LLM Fine-tuning)</b> Developing theories, tools, and algorithms for the efficient adaptation of large-scale models to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient methods: LoRa, Adapter, etc.;  instruction tuning) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
-Recently, I more focus on <b>interactable and reliable</b> part:
+<!--Recently, I more focus on <b>interactable and reliable</b> part:-->
 
-* <b>Interactive AI Agent. (Model Planning and Reasoning)</b> Developing autonomous systems (agents) that can acquire external information through interaction with the external (environment/human) and utilize the acquired knowledge to drive their decision-making and accomplish more complex long-horizon tasks ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: We further make autonomous systems (agents) to collaboratively accomplish complex tasks and observe the [emergence of human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
+* <b>Interactive AI Agent. (LLM Planning and Reasoning)</b> Developing autonomous systems (foundation model agents) that can acquire external information through interaction with the external (environment/human) and utilize the acquired knowledge to drive their decision-making and accomplish more complex long-horizon tasks ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: We further make autonomous systems (agents) to collaboratively accomplish complex tasks and observe the [emergence of human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
-* <b>AI Alignment. (Model Alignment)</b> Designing paradigms to control, steer, teach, and guide AI systems that smarter than human ([scalable oversight](https://openai.com/blog/introducing-superalignment)). At the present stage, I am studying how to create a tool that can explore unclosed behavior in AI models and propose a metric/pipeline to autonomously evaluate/supervise AI models ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)).
+* <b>AI Alignment. (LLM Alignment)</b> Designing paradigms to control, steer, teach, and guide AI systems that smarter than human ([scalable oversight](https://openai.com/blog/introducing-superalignment)). At the present stage, I am studying how to create a tool that can explore unclosed behavior in LLMs ([Model Emotion](https://arxiv.org/abs/2302.09582) and propose a metric/pipeline to autonomously evaluate/supervise LLMs ([Chateval](https://arxiv.org/abs/2308.07201)).
 
 
 
