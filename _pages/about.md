@@ -21,18 +21,20 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 * <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). <small>Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models. </small>
 -->
 
-My research spans the areas of natural language processing and machine learning, specifically focusing on <b>LLMs</b>. I am broadly interested in the following topics:
+My research spans the areas of natural language processing and machine learning, specifically focusing on <b>LLMs</b>. My goal is to advance LLMs into the next-generation computational computational platforms with whole LLM community together and ground them into real world applications. To achieve the above goal, I am broadly interested in the following topics:
 
 * <b>Computational Efficiency Method. (Fine-tuning)</b> Developing theories, tools, and algorithms for the efficient adaptation of large-scale models to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient methods: LoRa, Adapter, etc.;  instruction tuning) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
 <!--Recently, I more focus on <b>interactable and reliable</b> part:-->
+
+Recently, I more focus on:
 
 * <b>Interactive AI Agent. (Planning and Reasoning)</b> Developing autonomous agents (based on LLMs) that can acquire external information through interaction with the external (environment/human) and utilize the acquired knowledge to drive their decision-making and accomplish more complex long-horizon tasks ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: I explore how to make multiple autonomous agents collaborate more efficiently to accomplish complex tasks and am further instered in their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
 * <b>AI Alignment. (Alignment)</b> Designing paradigms to control, steer, teach, and guide AI systems that smarter than human ([scalable oversight](https://openai.com/blog/introducing-superalignment)). At the present stage, I am studying how to create a tool that can explore unclosed behavior in LLMs ([Model Emotion](https://arxiv.org/abs/2302.09582) and propose a metric/pipeline to autonomously evaluate/supervise LLMs ([Chateval](https://arxiv.org/abs/2308.07201)).
 
 
-
+AGI has yet to come, so let's keep running.
 
 <!--You can find my CV [here](/cv/).-->
 
