@@ -15,6 +15,13 @@ Contact information is below, including email and various web services.
   
 </ul>
 
+#contact_data li {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
 
 
 * Phone: +98 (935) 470 5561
