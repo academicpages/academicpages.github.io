@@ -6,19 +6,7 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.
 
-[comment]: <> <ul>
-[comment]: <>  <li> 
-[comment]: <>    <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30">
-[comment]: <>    <p>adinepour [at] aut.ac.ir</p> 
-[comment]: <>  </li> 
-
-  
-[comment]: <> </ul>
-
-
-[//]: <> (This is also a comment.)
-
-
+* E-mail: adinepour [at] aut.ac.ir
 * Phone: +98 (935) 470 5561
 * Twitter: <a href="http://twitter.com/adinep0ur" style="color: #0011DB; text-decoration: underline;">adinep0ur</a>
 * Facebook: <a href="https://www.facebook.com/reza.adinepour" style="color: #0011DB; text-decoration: underline;">reza.adinepour</a>
