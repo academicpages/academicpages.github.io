@@ -6,11 +6,14 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.
 
+<ul>
+  <li>
+    <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30"> <p>adinepour [at] aut.ac.ir</p> 
+  </li> 
 
-<li>
-  <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30"> <p>adinepour [at] aut.ac.ir</p> 
   
-</li> 
+</ul>
+
 
 
 
