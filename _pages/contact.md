@@ -8,8 +8,8 @@ Contact information is below, including email and various web services.
 
 
 <li>
-  <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30"> 
-  <p>adinepour [at] aut.ac.ir</p> 
+  <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30"> <p>adinepour [at] aut.ac.ir</p> 
+  
 </li> 
 
 
