@@ -44,6 +44,8 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
+Andrew Davis and Yongjun Zhang. 2023. ''[Civil Society and Democracy under Pressure: Does Authoritarian Mobilization and Party Incapacity Diminish the Positive Effect of Civil Society?]().'' The Sociological Quarterly.
+
 Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election](https://authors.elsevier.com/a/1hpCB,17Rod9WC)." Social Science Research. 
 
 Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu. 2023. ''NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data.'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
@@ -52,7 +54,7 @@ Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popul
 
 Yongjun Zhang, Siwei Cheng, Zhi Li, and Wenhao Jiang. 2023. "[Human  mobility patterns are associated with experienced partisan segregation in US Metropolitan areas](https://www.nature.com/articles/s41598-023-36946-z)." Scientific Reports.
 
-Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. [A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo). Socius.
+Charles Seguin, Thomas Maher, Yongjun Zhang. 2023. ''[A Seat at the Table: A New Dataset of Social Movement Organization Representation Before Congress during the 20th Century](https://t.co/wkTU2sQDlo)''. Socius.
 
 Yongjun Zhang and Jennifer Heerwig. 2022. "[Gender, Race, and Intersectionality in Campaign Cash to the U.S. Congress, 1990-2014.](https://journals.sagepub.com/doi/full/10.1177/23780231221121063)" Socius.
 
