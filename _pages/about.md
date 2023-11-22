@@ -22,15 +22,16 @@ I would love to work with all people together on some interesting projects! **Fe
     <img src='images/pub1-RecAGT.png' alt="overview">
   </div>
   <div class='public-box-text' markdown="1">
-  1. [**RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain**](#)
+  1. **RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain**
   <br>  **<u>Dongyang Yu</u>**, Jin Wang, Lingzhi Li, Wei Jiang and Can Liu,
   In *Proceedings of the 23rd International Conference on Algorithms and Architectures for Parallel Processing (`Springer ICA3PP`, CCF-C)*, Tianjin, China, 2023.
   <!-- **Contribution**: We are the first to investigate sample-level graph and formulate zero-shot learning to a graph-to-semantics matching task. -->
   </div>
 </div>
 
-### Others
-<!-- 1. **Dongyang Yu**, Jin Wang, Lingzhi Li, Wei Jiang and Can Liu, "RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain", *23rd International Conference on Algorithms and Architectures for Parallel Processing(`Springer ICA3PP`, CCF-C)*, Tianjin, China, 2023. -->
+
+### Lists
+1. **Dongyang Yu**, Jin Wang, Lingzhi Li, Wei Jiang and Can Liu, "RecAGT: Shard Testable Codes with Adaptive Group Testing for Malicious Nodes Identification in Sharding Permissioned Blockchain", *23rd International Conference on Algorithms and Architectures for Parallel Processing(`Springer ICA3PP`, CCF-C)*, Tianjin, China, 2023. \[[arXiv](https://arxiv.org/abs/2311.02582)\]
 2. Wei Jiang, Jin Wang, Lingzhi Li, **Dongyang Yu** and Can Liu, "Test-and-Decode: A Partial Recovery Scheme for Verifiable Coded Computing	", *23rd International Conference on Algorithms and Architectures for Parallel Processing(`Springer ICA3PP`, CCF-C)*, Tianjin, China, 2023.
 
 ## Patents
