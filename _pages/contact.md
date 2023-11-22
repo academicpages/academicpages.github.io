@@ -14,6 +14,6 @@ Contact information is below, including email and various web services.
 * Discord: <a href="https://discord.com/channels/adinep0ur" style="color: #0011DB; text-decoration: underline;">adinep0ur</a>
 
 <li>
-  <img src="../images/Icons/mail.png" alt="test" width="50" height="30">
+  <img src="../images/Icons/mail.png" alt="test" width="20" height="30">
   <p>test</p>
 </li>
