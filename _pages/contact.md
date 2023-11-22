@@ -6,20 +6,14 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.
 
-<ul>
-  <li> 
-    <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30">
-    <p>adinepour [at] aut.ac.ir</p> 
-  </li> 
-  #contact_data li {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  margin-bottom: 2rem;
-}
+[comment]: <> <ul>
+[comment]: <>  <li> 
+[comment]: <>    <img src="../images/Icons/mail.png" alt="E-mail:" width="30" height="30">
+[comment]: <>    <p>adinepour [at] aut.ac.ir</p> 
+[comment]: <>  </li> 
 
   
-</ul>
+[comment]: <> </ul>
 
 
 
