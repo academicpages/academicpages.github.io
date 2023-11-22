@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kanghui He"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Kanghui He is a PhD candidate at the Delft Center for Systems and Control, Delft University of Technology, the Netherlands. He received the B.S. degree at the School of Mechanical Engineering and Automation, Beihang University, in 2018, and the M.S. degree (with outstanding graduation thesis and Chinese national scholarship) in the Department of Flight Dynamics and Control, Beihang University, in 2021. His research interests include learning-based control, model predictive control, hybrid systems, and their applications in mobile robots."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=eIEb3owAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
