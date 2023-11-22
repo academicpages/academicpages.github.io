@@ -40,8 +40,7 @@ I would love to work with all people together on some interesting projects! **Fe
 
 ## Software Copyrights
 1. **Yu, D.**, Wang, J., 2023. Software Copyright of Xunji Blockchain Platform for Traceability of Agricultural Product. Software Application 2023SR0812724, filed July 06, 2023.
-2. **Yu, D.**, Wang, J., 2023. Software Copyright of Blockchain Supervision Platform for Agricultural Production. Software Application 2023R11S0925268, filed June 15, 2023. Pending.
-
+2. **Yu, D.**, Wang, J., 2023. Software Copyright of Blockchain Supervision Platform for Agricultural Production. Software Application 2023SR0812637, filed June 15, 2023.
 
 ## Selected Awards
 - The Huawei Scholarship <u>(15 places in total)</u>, Soochow University, *Nov. 2023*
@@ -61,3 +60,6 @@ I would love to work with all people together on some interesting projects! **Fe
 
 <!-- Example: editing a markdown file for a talk -->
 <!-- ![Editing a markdown file for a talk](/images/editing-talk.png) -->
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5p7vdhesdz8&amp;s=180&amp;m=0&amp;v=true&amp;r=false&amp;b=ffffff&amp;n=true&amp;c=007eff" async="async"></script>
+
