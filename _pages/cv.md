@@ -24,13 +24,13 @@ Work experience
   
 * 2014.04-2023.08: Research Associate
   * First Institute of Oceanography
-  * Duties included: developing air-sea-wave coupled model and using it to study tropical cyclone
+  * Duties included: developing air-sea-wave coupled model, tropical cyclone
   * Supervisor: Professor Fangli Qiao
 
 * 2012.07-2014.04: Research Associate
   * National Marine Environmental Forecasting Center
   * Duties included: Arctic ocean-ice modelling
-  * Supervisor: Professor Lin Zhang
+  * Supervisor: Professor Lin Zhang and Qinghua Yang
   
 Skills
 ======
