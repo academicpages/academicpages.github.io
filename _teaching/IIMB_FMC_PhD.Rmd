@@ -1,0 +1,11 @@
+---
+title: "Financial Mathematics and Computation"
+collection: teaching
+type: "PhD course"
+permalink: /teaching/IIMB-FMC-PhD
+venue: "IIM Bangalore, Finance"
+#date: 2014-01-01
+#location: "City, Country"
+---
+
+I teach financial mathematics and computation in term 3 to PhD students.

@@ -1,0 +1,11 @@
+---
+title: "Corporate Finance"
+collection: teaching
+type: "MBA course"
+permalink: /teaching/IIMB-CF-MBA
+venue: "IIM Bangalore, Finance"
+#date: 2014-01-01
+#location: "City, Country"
+---
+
+I teach corporate finance in term 2 for first year MBA students
