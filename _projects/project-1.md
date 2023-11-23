@@ -22,11 +22,9 @@ This two-axis tilting rotary table is designed to be compact and stiff (both mom
 
 Shown below are several section views showing internal components and design elements:
 
-| ![Two-axis trunnion 1](/images/2 Axis Trunnion Render 1_wLabels_w500.jpg) |
-| :----------------------------------------------------------: |
-|                   *image caption centered*                   |
+![Two-axis trunnion 1](/images/2 Axis Trunnion Render 1_wLabels_w500.jpg)
 
-|*image caption|
+*3D model showing 750W servo motor with absolute encoder and support bearing* 
 
 ![Two-axis trunnion 2](/images/2 Axis Trunnion Render 2_wLabels_w500.jpg)
 
