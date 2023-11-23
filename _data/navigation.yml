@@ -12,8 +12,8 @@ main:
   - title: "Awards & Positions"
     url: /awards/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Portfolio"
+    url: /portfolio/
     
   - title: "CV"
     url: /cv/
