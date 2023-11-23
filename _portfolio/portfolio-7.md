@@ -1,6 +1,6 @@
 ---
-title: "Re-design eco-efficiente di un distributore di bevande: rendering di presentazione"
-excerpt: "Works at POLIMI 17/11/2021 <br/><img src='/images/GB.png'>"
+title: "山月夜瓷灯设计"
+excerpt: "Works at School of Design, HNU 08/2015 <br/><img src='/images/7.png'>"
 collection: portfolio
 ---
 
