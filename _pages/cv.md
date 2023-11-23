@@ -30,7 +30,7 @@ Work experience
 * 2012.07-2014.04: Research Associate
   * National Marine Environmental Forecasting Center
   * Duties included: Arctic ocean-ice modelling
-  * Supervisor: Professor Lin Zhang and Qinghua Yang
+  * Supervisor: Professor Qinghua Yang
   
 Skills
 ======
