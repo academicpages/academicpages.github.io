@@ -1,6 +1,6 @@
----
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+![image](https://github.com/maaakeee/make.github.io/assets/57356553/9702d2bc-073c-4e81-a1c4-35030d19d8ed)---
+title: "Re-design eco-efficiente di un distributore di bevande: rendering di presentazione"
+excerpt: "Works at POLIMI 17/11/2021 <br/><img src='/images/GB.png'>"
 collection: portfolio
 ---
 
