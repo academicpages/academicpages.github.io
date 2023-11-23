@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Abhinav Anand"
-  avatar           : "abhinav-anand.png"
+  avatar           : "abhinav-anand.jpg"
   bio              : ""
-  location         : ""
+  location         : #""
   employer         :
   pubmed           : #""
   googlescholar    : #""
