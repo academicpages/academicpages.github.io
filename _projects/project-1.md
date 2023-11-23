@@ -7,7 +7,7 @@ tags: design, machine
 
 ![Two-Axis Tilting Rotary Table](/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png)
 
-This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. However, this page is dedicated to the two-axis rotary table project. This project provided an opportunity to learn more about machine design, electrical schematics and wiring, motor and gearbox sizing, servo tuning, pneumatics and systems integration.
+This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics and systems integration.
 
 ###### Design
 
@@ -25,6 +25,8 @@ Shown below are several section views showing internal components and design ele
 ![Two-axis trunnion 1](/images/2 Axis Trunnion Render 1_wLabels_w500.jpg)
 
 *3D model showing 750W servo motor with absolute encoder and support bearing* 
+
+
 
 ![Two-axis trunnion 2](/images/2 Axis Trunnion Render 2_wLabels_w500.jpg)
 
