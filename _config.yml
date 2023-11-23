@@ -85,8 +85,8 @@ author:
   bio              : ""
   location         : ""
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : #""
+  googlescholar    : #""
   email            : "abhinavananddwivedi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
