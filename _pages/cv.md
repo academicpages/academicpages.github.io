@@ -12,9 +12,17 @@ redirect_from:
 Education
 ======
 * B.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2018-2022
+  * Thesis: Cryptanalysis of McEliece
+  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
 * B.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2018-2022
+  * Thesis: Cryptanalysis of McEliece
+  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
 * M.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2022-2024 (expected)
+  * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
+  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info)
 * M.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2022-2024 (expected)
+  * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
+  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info)
 
 Work experience
 ======
@@ -32,7 +40,7 @@ Work experience
     * Mathematics I for Computer Science and IT Security (WiSe 21/22; Prof. Dr. Leander)
 
 * Summer 2021: Intern / Research Position
-  * secunet Security Networks AG, Division Homeland Security, Team Cryptography Systems and Applications
+  * [secunet Security Networks AG](https://www.secunet.com/en/), Division Homeland Security, Team Cryptography Systems and Applications
   * Supervisor: Sebastian Vogt
   * Analysis of general concepts in the field Post-Quantum Cryptography
   * Analysis and technical preparation of the impacts of Post-Quantum Cryptography on TLS
