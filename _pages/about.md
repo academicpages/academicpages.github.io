@@ -10,16 +10,32 @@ redirect_from:
 
 Greetings!! I'm a research scientist at CEA—French Atomic Energy and Alternative Energies Commission. My expertise includes high performance computing, finite element method, Boltzmann transport, and meshing. I hold a PhD in computational physics, a master's in computational fluid dynamics, and a bachelor's in aerospace engineering. In a nutshell, I'm the wizard of numbers and equations, blending science and technology to unlock the secrets of the universe. 
 
-Areas of Research
-======
-- Parallel computing
-- Finite Element Methods
-- Meshing 
-- Mesh Adaption
-- Radiative transport
+
+<style>
+  .column {
+    float: left;
+    width: 50%;
+  }
+</style>
+
+## Areas of Research
+<div class="column">
+
+- Finite Element Methods  <br>
+- Parallel computing <br>
+- Meshing
+
+</div>
+<div class="column">
+
+- Mesh Adaption  <br>
+- Radiative transport  <br>
 - Computational Fluid Dynamics
 
-List of software's/libraries that I am developing
+</div>
+<br><br>
+
+Codes that I am developing
 ======
 - [SALOME](https://www.salome-platform.org/) - Pre/post-processing scientific computing tool for CAD, meshing, visualization 
 - [ArcaneFEM](https://github.com/arcaneframework/arcanefem) - Parallel FEM solver based on CPU-GPU parallelism
@@ -31,9 +47,29 @@ List of software's/libraries that I am developing
 Current areas of research 
 ======
 
-Polyhedral Meshing
-------
-![Editing a markdown file for a talk](https://github.com/mohd-afeef-badri/pdmt/assets/52162083/bc7f98a6-7631-439d-934f-7daa49250721){: width="40%"}
+
+
+<style>
+  .container {
+    display: flex;
+  }
+  .column {
+    flex: 1;
+  }
+  .text-column {
+    text-align: justify;
+  }
+</style>
+
+## Polyhedral Meshing
+<div class="container">
+  <div class="column">
+    <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/bc7f98a6-7631-439d-934f-7daa49250721" alt="Image 1" width="90%">
+  </div>
+  <div class="column text-column">
+    Polyhedral meshing is gaining importance in modern computational simulations. It offers advantages in terms of accuracy, adaptability to complex geometries, efficiency in parallel computing, and improved convergence of numerical solvers. These benefits make polyhedral meshing a valuable tool in various scientific and engineering applications.
+  </div>
+</div>
 
 <details>
   <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
@@ -45,15 +81,64 @@ Polyhedral Meshing
 </details>
 
 
-Mesh Adaption
------- 
+<style>
+  .container {
+    display: flex;
+  }
+  .column {
+    flex: 1;
+  }
+  .text-column {
+    text-align: justify;
+  }
+</style>
 
-Finite Element Solver (CPU/GPU)
-------
+## Mesh Adaption
+<div class="container">
+  <div class="column text-column">
+    Mesh adaptation is crucial in computational simulations as it enables the dynamic adjustment of the mesh based on evolving solution characteristics. By refining or coarsening the mesh in specific regions, mesh adaptation improves accuracy in critical areas, reducing computational costs by avoiding unnecessary refinement elsewhere. This is particularly important for capturing complex geometries, handling singularities, and optimizing element types, ensuring efficient and reliable simulations. Mesh adaptation in a nutshell helps in making simulations more  robust in dynamic environments.
+  </div>
+  <div class="column">
+    <img src="/images/c8d84a25f315d4ff94a409a6ce96ddf80a568f01.png" alt="Image 2" width="80%">
+  </div>
+</div>
 
-![Editing a markdown file for a talk](https://user-images.githubusercontent.com/52162083/237443631-959988a3-1717-4449-b412-14cbd1582367.png){: width="40%"}![Editing a markdown file for a talk](https://user-images.githubusercontent.com/52162083/251469445-9237d686-2791-4852-b929-4d0c7e5f8df7.gif){: width="32%"}
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
+  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/8ae5798d-5a4f-474d-ae39-c7207085f7bd" alt="Image 1" width="25%">
+</details>
+
+
+
+<style>
+  .container {
+    display: flex;
+  }
+  .column {
+    flex: 1;
+  }
+  .text-column {
+    text-align: justify;
+  }
+</style>
+
+## Finite Element Solver (CPU/GPU)
+<div class="container">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/52162083/237443631-959988a3-1717-4449-b412-14cbd1582367.png" alt="Image 2" width="100%">
+  </div>
+  <div class="column text-column">
+    A parallel FEM solver is indispensable in many computational simulations as it leverages the power of parallel processing to tackle complex and large problems more efficiently. By dividing the computational workload among multiple processors (CPU/GPU/Threads), parallel FEM solvers dramatically reduce simulation time for large-scale models. This is particularly crucial in fields such as structural mechanics, fluid dynamics, and electromagnetics, where simulations involve intricate geometries and intricate physical interactions.
+  </div>
+</div>
+
+<details>
+  <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
+  <img src="https://user-images.githubusercontent.com/52162083/251469445-9237d686-2791-4852-b929-4d0c7e5f8df7.gif" alt="Image 1" width="40%">
+</details>
+
  
-HPC for Phase-field Fracture 
+HPC for Fracture 
 ------
 
 ![Editing a markdown file for a talk](https://www.researchgate.net/profile/Giuseppe-Rastiello/publication/344688580/figure/fig6/AS:947232815730690@1602849310156/Large-scale-perforated-medium-test-domain-and-partitioned-mesh_W640.jpg){: width="40%"}
