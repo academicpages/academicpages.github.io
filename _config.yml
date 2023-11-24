@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nicolas Ghio"
 title_separator          : "-"
 name                     : &name "Nicolas Ghio"
-description              : &description "Research Data Analyst at IRLE, Berkeley CA"
+description              : &description "Second-Year Ph.D. at Sciences Po"
 url                      : https://nicolasghio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nicolasghio.github.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nicolas Ghio"
   avatar           : "profile.jpg"
-  bio              : "Research Data Analyst at UC Berkeley"
-  location         : "IRLE"
+  bio              : "Second-Year Ph.D. at Sciences Po"
+  location         : "Sciences Po"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "nicolas.ghio@berkeley.edu"
+  email            : "nicolas.ghio@sciencespo.fr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
