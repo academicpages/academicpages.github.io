@@ -15,5 +15,9 @@ collection: solving
    Check the variables carefully....maybe there is a variable name 'sc'...so, be careful..
    ![image](https://github.com/RuohanLixyf/RuohanLixyf.github.io/assets/114407037/041de307-1c2d-4569-97ce-35402d3365d5)
 9. [The UDF in Spark.](https://sparkbyexamples.com/spark/spark-sql-udf/)
-  
+
+---------------------------------------------------------------------------------------------------------------------------------------------------- 
+Map Matching Visualization:
+1. Folium
+2. osm2gmns
  
