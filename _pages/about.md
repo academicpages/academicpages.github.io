@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome. 
+Welcome! 
 ======
 I am currently a second-year Ph.D. student at Sciences Po, working under the supervision of Pierre Cahuc. My research areas include labor economics, and especially labor supply and active labor market policies. You can also find more of my research  [here](https://nicolasghio.github.io/research/). 
 
