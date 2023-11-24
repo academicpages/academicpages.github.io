@@ -8,17 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Welcome on my website ! 
+Welcome. 
 ======
-My name is Nicolas Ghio and I am currently a research data analyst for Pr. [Jesse Rothstein](http://eml.berkeley.edu/~jrothst/) (UC Berkeley). Starting September 2020, I will be joining the IPP, Institut des Politiques Publiques (PSE / CREST) in Paris, as a junior economist. As a part of the [Institute for Research on Labor  and Employment](http://irle.berkeley.edu/) (IRLE), I work mainly on education and labor economics. I graduated from Sciences Po Paris with a BA in Social Sciences and with a [Msc in Economics](http://www.sciencespo.fr/ecole-doctorale/en/content/master-s-economics.html). My previous positions include an research internship at the Bank of France and multiple teaching assistant positions over my master for [Pr. Emeric Henry](http://sites.google.com/site/emericmlhenry/home), for [Pr. Pierre Cahuc](http://sites.google.com/site/pierrecahuc/) and for [Pr. Mirko Wiederholt](http://sites.google.com/site/wiederholtmirko/).   More details can be found in my resume [here](https://nicolasghio.github.io/cv/). 
+I am currently a second-year Ph.D. student at Sciences Po, working under the supervision of Pierre Cahuc. My research areas include labor economics, and especially labor supply and active labor market policies. You can also find more of my research  [here](https://nicolasghio.github.io/research/). 
+
+Prior entering the Ph.D. I worked as a research data analyst for Pr. [Jesse Rothstein](http://eml.berkeley.edu/~jrothst/) (UC Berkeley). and as a junior economist at Institut des Politiques Publiques (PSE / CREST) in Paris. You can also find my resume [here](https://nicolasghio.github.io/cv/). 
 
 Contact
 ======
 Nicolas GHIO
 
-Institute for Research On Labor and Employment
+Sciences Po Paris 
 
-2521 Channing Way
+28 Rue des Saint Pères
 
-Berkeley, CA 94720
-
+Paris, 75007
