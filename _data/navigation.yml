@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: /about/
     
- # - title: "Publications"
- #   url: /publications/
+  - title: "Research"
+    url: /research/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Policy"
+    url: /policypapers/    
 
   - title: "Teaching"
     url: /teaching/    
