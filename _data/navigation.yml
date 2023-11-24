@@ -1,28 +1,27 @@
 # main links links
- main:
-#   - title: "CV/Bio"
-#     url: /files/Safa, Nasir - Deep Learning.pdf
-
-#   - title: "Web Development Projects"
-#     url: /portfolio/
-
-  # - title: "Awards & Honors"
-  #   url: /awards/
+main:
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Teaching"
-     url: /files/Aisha1.pdf/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blogs"
+  # - title: "Blog Posts"
   #   url: /year-archive/
     
-#  - title: "Contact"
-#    url: /contact/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
-    # url: /markdown/
+  #   url: /markdown/
+
+  - title: "Teaching"
+     url: /teaching/Aisha1.pdf/    
+    
+
