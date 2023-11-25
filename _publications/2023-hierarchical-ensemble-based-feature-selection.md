@@ -5,7 +5,7 @@ collection: publications
 excerpt: 'This paper introduces a novel ensemble approach for feature selection based on hierarchical stacking...'
 date: 2023-10-31
 venue: 'IEEE Transactions on Signal Processing'
-citation: 'A. Tumay, M. E. Aydin, S. S. Kozat. &quot; Hierarchical Ensemble based Feature Selection for Time Series Forecasting Number 2.&quot; <i>IEEE Transactions on Signal Processing</i>. Submitted, 2023. (doi:10.48550/arXiv.2310.17544)'
+citation: 'A. Tumay, M. E. Aydin, S. S. Kozat. &quot; Hierarchical Ensemble-based Feature Selection for Time Series Forecasting.&quot; <i>IEEE Transactions on Signal Processing</i>. Submitted, 2023. (doi:10.48550/arXiv.2310.17544)'
 ---
 
 
