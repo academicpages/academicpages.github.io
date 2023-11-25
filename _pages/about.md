@@ -14,11 +14,11 @@ Click on the @icn-camera icon to take a screen shot.
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50"> what?!
 
 <table>
-<tr>
+
 <th> Good </th>
 <th> Bad </th>
 </tr>
-<tr>
+
 <td>
 
 ```c++
@@ -39,7 +39,7 @@ int foo() {
 ```
 
 </td>
-</tr>
+
 </table>
 
 A data-driven personal website
