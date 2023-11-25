@@ -209,6 +209,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _policypaper
+  - scope:
+      path: ""
+      type: policypaper
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
