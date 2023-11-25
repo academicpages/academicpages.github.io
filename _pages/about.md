@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "acadeAAAAAAAAAAAAAAAAAAAAAAA"
+title: "Hi, this is Luis!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
