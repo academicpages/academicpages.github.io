@@ -147,7 +147,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thunlp&repo=Prompt-Transferability)](https://github.com/thunlp/Prompt-Transferability)
 
-* <b>AgentVerse</b>. AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using LLMs in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications.
+* <b>AgentVerse</b>. AgentVerse provides a framework that streamlines the process of developing custom multi-agent systems using LLMs in user-defined environments. This facilitates the design of more efficient multi-agent systems that can be applied to real-world applications. [Youtube1](https://www.youtube.com/watch?v=37vcapVCcbM), [Youtube2](https://www.youtube.com/watch?v=cbqE6PC9fGQ&t=512s)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=AgentVerse)](https://github.com/OpenBMB/AgentVerse)
 
@@ -155,17 +155,17 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com
 
 ## Joined Projects
 
-* <b>XAgent</b>. XAgent makes more effective decisions and execute efficient actions to accomplish tasks with an unprecedented degree of autonomy
+* <b>XAgent</b>. XAgent makes more effective decisions and execute efficient actions to accomplish tasks with an unprecedented degree of autonomy. [Youtube1](https://www.youtube.com/watch?v=X6dna0O6pCw) [Youtube2](https://www.youtube.com/watch?v=LOLRYnQSyC4)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=XAgent)](https://github.com/OpenBMB/XAgent)
 
 
-* <b>ChatDev</b>. ChatDev creates customized software using natural language idea through LLM-powered multi-agent collaboration
+* <b>ChatDev</b>. ChatDev creates customized software using natural language idea through LLM-powered multi-agent collaboration. [Youtube1](https://www.youtube.com/watch?v=yoAWsIfEzCw), [Youtube2](https://www.youtube.com/watch?v=QPBmsgGufXE)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=ChatDev)](https://github.com/OpenBMB/ChatDev)
 
 
-* <b>Tool Learning</b>. Tool learning for LLMs, open-source solutions of ChatGPT-Plugins
+* <b>Tool Learning</b>. Tool learning for LLMs, open-source solutions of ChatGPT-Plugins.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=BMTools)](https://github.com/OpenBMB/BMTools)
 
