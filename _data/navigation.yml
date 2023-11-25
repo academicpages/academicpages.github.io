@@ -13,7 +13,8 @@ main:
     url: /talks/   
     
   - title: "CV"
-    url: /cv/
+  url: /files/Resume.pdf
+    #url: /cv/
     
 #    title: "Guide"
 #    url: /markdown/
