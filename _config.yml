@@ -83,7 +83,7 @@ analytics:
 # Site Author
 author:
   name             : "Minsol (Michelle) Kim"
-  avatar           : "profile_mk.png"
+  avatar           : "images/profile_mk.png"
   bio              : "Human-centered Machine Learning, Multi-Modal Learning, Human-Computer Interaction"
   location         : "Location"
   employer         :
