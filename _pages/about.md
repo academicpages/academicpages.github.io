@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior Computer Science major and student researcher at Pomona College, currently applying to PhD programs in Computer Science. My research interests lie at the intersection of cybersecurity and machine learning (ML), the security of ML systems and the use of ML – as well as other methods – towards approaching broader problems in the spaces of application, network, and systems security. Apart from this, I am also interested in genetic algorithms, privacy, and tech policy.
+I am a senior Computer Science major and student researcher at Pomona College, currently applying to PhD programs in Computer Science. I am interested in the privacy and security of ML systems as well as the application of ML to problems in network, software, and systems security. Apart from this, I am also interested in genetic algorithms, tech policy, and the evolving privacy and security implications of generative AI.
 
 ***The overarching goal that I wish to pursue as a researcher is to develop solutions that make technology used in daily life more secure and safe.***
 
