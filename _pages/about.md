@@ -12,7 +12,7 @@ I recently completed my undergraduate studies in Economics at Pontificia Univers
 
 My research interests 
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="20" height="20">
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20">I recently completed my undergraduate studies in Economics at Pontificia Universidad Católica del Perú (PUCP).
 
 A data-driven personal website
 ======
