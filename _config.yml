@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Luis' Homepage"
 title_separator          : "-"
-name                     : &name "Luis Quispe"
+name                     : &name "Luis Quispe Macavilca"
 description              : &description "personal description"
 url                      : https://luisquispem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Luis Quispe"
   avatar           : "foto_luis.jpg"
-  bio              : "Economics graduate"
+  bio              : "Economics graduate - Research Assistant"
   location         : "Lima, PE"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Pontificia Universidad Católica del Perú"
+  pubmed           : 
+  googlescholar    : 
+  email            : "luisquispemaca@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "luisquispem"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "luisquispem"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
