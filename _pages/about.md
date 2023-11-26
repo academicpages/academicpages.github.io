@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-
+Home
 ======
 The purpose of this site is to build a digital resume and provide a tangible example of a computer science project. 
 
