@@ -47,7 +47,7 @@ ___2017-2023___\
 ![Illustration of softwares](/images/SOFTWARES.png){: .align-right width="250px"} 
 **R**: Web Scraping, Data Process. \
 **Stata**: Econometrics, Geotools, Data Process. \
-**Python**: Econometrics, Machine Learning. \
+**Python**: Machine Learning, Plotting. \
 **Matlab**: Optimization, Simulations, Time-Series Analysis. \
 **Tableau**: Dashboards. \
 **Git / Github**: Control commands. \
