@@ -8,7 +8,7 @@
 # Site Settings
 header: "Matthew Naquin"
 locale                   : "en-US"
-title                    : "Matthew Naquin"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Naquin"
 description              : &description "personal description"
