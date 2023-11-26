@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 3<br/><img src='/images/500x300.png'>"
+title: "Mathematical optimization"
+excerpt: "Matlab codes for linear and non linear optimization='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here I present some [codes](https://github.com/luisquispem/Mateco_4)  to solve problems from the Mathematics for Economics course book (Lomeli & Rumbos, 2001).
+
+I used _fmincon_function aviable in Matlab.
