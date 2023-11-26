@@ -43,7 +43,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 
 ## Most Famous Programming Contests
 
-**Upcomming contests schedule** - https://clist.by/
+**Upcomming contests schedule** -[CLIST](https://clist.by/)
 
 - [ACM ICPC (Olympics of Programming)🏆](https://icpc.global/)
 - [FaceBook Hacker Cup🏆](https://www.facebook.com/hackercup/contest)
