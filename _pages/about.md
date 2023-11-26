@@ -14,7 +14,7 @@ My research interests span the fields of financial economics and game theory. My
 
 # Employment
 
-- Assistant Professor [2017--present]
+Assistant Professor [2017--present]
   - Finance & Accounting Area
   - Indian Institute of Management Bangalore
 
@@ -23,9 +23,8 @@ My research interests span the fields of financial economics and game theory. My
 
 # Prior employment
 
-- Postdoctoral research fellow [2014--2017]
-  - Financial mathematics and computation cluster
-  - University College Dublin 
+Postdoctoral research fellow [2014--2017]
+  - Financial mathematics and computation cluster, University College Dublin 
 
 # Education
 
