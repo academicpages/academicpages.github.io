@@ -233,6 +233,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _working-papers
+  - scope:
+      path: ""
+      type: working-papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _consulting
+  - scope:
+      path: ""
+      type: consulting
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true    
   # _portfolio
   - scope:
       path: ""
