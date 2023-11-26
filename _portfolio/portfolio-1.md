@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning and Causal Inference"
-excerpt: "Repository done with colleagues during the course ECO224-PUCP<br/><img src='/images/ml_image.png' alt='isolated' width='500'>"
+excerpt: "Repository done with colleagues during the course. ECO224-PUCP<br/><img src='/images/ml_image.png' alt='isolated' width='500'>"
 collection: portfolio
 ---
 
