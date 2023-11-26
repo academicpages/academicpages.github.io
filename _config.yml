@@ -11,9 +11,9 @@ title                    : "Mohamed Ragab"
 title_separator          : "-"
 name                     : &name "Mohamed Ragab"
 description              : &description "personal description"
-url                      : https://github.com/MohamedRagabAnas/MohamedRagabAnas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mohamedragabanas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mohamedragabanas/mohamedragabanas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
