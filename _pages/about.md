@@ -25,41 +25,24 @@ redirect_from:
 # Experience
 
 ## Research Assistant @ Department of Economics - PUCP  _[2023-Present]_
-- trabajo 1
-- trabajo 2
-- trabajo 3
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Development and maintenance of automated methods for the periodic collection of financial information from governments and other multilateral institutions, using R.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Data processing and structuring for subsequent analysis.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Presentation of information in graphs and dashboards using Tableau.
 
 ## Intern @ Inter-American Development Bank             _[2022]_
-- trabajo 1
-- trabajo 2
-- trabajo 3
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Development and maintenance of automated methods for the periodic collection of financial information from governments and other multilateral institutions, using R.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Data processing and structuring for subsequent analysis.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Presentation of information in graphs and dashboards using Tableau.
 
 # Education
 
-**Bachelor of Science in Economics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___2017-2023___\
+**Bachelor of Science in Economics** \
+___2017-2023___\
 Pontificia Universidad Católica del Perú\
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Relevant courses: Econometrics, Microeconomics.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).
-
-
 
 # Skills
 
-**R** 
+**R** \
 **Stata**  
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
