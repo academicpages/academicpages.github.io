@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-- Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. <u> *Operations Research Letters* </u>, 51, 47-53. (2023).
+- Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. *<u> Operations Research Letters </u>*, 51, 47-53. (2023).
 - Abhinav Anand and Jalaj Pathak. The Role of Reddit in the GameStop Short Squeeze. <u> *Economics Letters* </u>, 211 (C), (2022).
 - Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. Whose speeches impact European markets: ECB's or the national central banks'? <u> *European Financial Management* </u>, 28, 1413– 1476. (2022).
 - Abhinav Anand, Sankarshan Basu, Jalaj Pathak, and Ashok Thampy. The impact of sentiment on emerging stock markets. <u> *International Review of Economics and Finance* </u>, 75, 161–177, (2021).
