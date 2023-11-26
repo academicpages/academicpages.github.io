@@ -9,17 +9,14 @@ redirect_from:
 ---
 
 # About me
-
+<div style="text-align: justify">
 My research interests span the fields of financial economics and game theory. My current research in the field of finance includes topics related to corporate finance, asset pricing, corporate governance, banking and risk management, quantitative finance, fat tails and power laws, central bank communication as well as text analysis. In theoretical economics, I am also quite interested in the fields of contract theory, mechanism design, principal-agent problems and industrial organization.
-
+</div>
 # Employment
 
 Assistant Professor [2017--present]
   - Finance & Accounting Area
   - Indian Institute of Management Bangalore
-
-  # * EMAIL: firstname[DOT]lastname[AT]iimb[DOT]ac[DOT]in
-  # * OFFICE: IIM Bangalore campus, B007 faculty block 
 
 # Prior employment
 
