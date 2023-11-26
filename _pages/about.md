@@ -14,7 +14,9 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/book.svg" width="20" height="20"> Currently, I am taking a Diploma course in Data Science at the [Artificial Intelligence and Computational Methods in Social Sciences Laboratory - PUCP](https://qlab.pucp.edu.pe/).
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/lightbulb.svg" width="20" height="20"> I am also interested in research using Machine Learning methods in Micro and Macroeconometrics.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/lightbulb.svg" width="20" height="20"> I am also interested in research using Machine Learning methods and AI.
+
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/medal.svg" width="20" height="20"> Awarded with the PUCP-UNSAAC Inter-university Research Found.
 
 
 A data-driven personal website
