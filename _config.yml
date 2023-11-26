@@ -64,10 +64,10 @@ yandex_site_verification :
 
 
 # Site Author
-
+author:
   name             : "Matthew Naquin"
   avatar           : "profile.png"
-  bio              : ""
+  bio              : 
   location         : "Dallas, TX"
   employer         :
   
