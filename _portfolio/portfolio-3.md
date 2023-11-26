@@ -1,6 +1,6 @@
 ---
 title: "Mathematical optimization"
-excerpt: "Matlab codes for linear and non linear optimization <br/><img src='/images/optim.png' alt='isolated' width='200'>"
+excerpt: "Matlab codes for linear and non linear optimization <br/><img src='/images/optim.png' alt='isolated' width='500'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Final assignment: Econometrics using Stata"
-excerpt: "Final assignment: Predictors for climate change concern in Peru <br/><img src='/images/maps_m2.png'>"
+excerpt: "Final assignment: Predictors for climate change concern in Peru <br/><img src='/images/maps_m2.png' alt='isolated' width='500'>"
 collection: portfolio
 ---
 
