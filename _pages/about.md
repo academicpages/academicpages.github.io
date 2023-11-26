@@ -36,9 +36,10 @@ redirect_from:
 
 # Education
 
-**Bachelor of Science in Economics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2017-2023_\
+**Bachelor of Science in Economics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___2017-2023___\
 Pontificia Universidad Católica del Perú\
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> ss
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).
 
 
 
