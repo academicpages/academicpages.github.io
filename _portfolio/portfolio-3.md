@@ -1,10 +1,11 @@
 ---
-title: "Mathematical optimization"
-excerpt: "Matlab codes for linear and non linear optimization <br/><img src='/images/optim.png' alt='isolated' width='500'>"
+title: "OCR using R"
+excerpt: "Codes used to get information from online PDFs to a structured database.  <br/><img src='/images/ocr.webp' alt='isolated' width='500'>"width="20" height="20">
 collection: portfolio
 ---
 
-Here I present some [codes](https://github.com/luisquispem/Mateco_4)  to solve problems from the Mathematics for Economics course book (Lomeli & Rumbos, 2001).
+Some [codes](https://github.com/luisquispem/Mateco_4) that I design to obtain information from online sources during my internship at the Inter-American Development Bank (IDB).
 
-I used _fmincon_function aviable in Matlab.
-
+Packages used in R:
+- Rselenium (released for other languages)
+- Tesseract
