@@ -18,8 +18,8 @@ Assistant Professor [2017--present]
   - Finance & Accounting Area
   - Indian Institute of Management Bangalore
 
-  * EMAIL: firstname[DOT]lastname[AT]iimb[DOT]ac[DOT]in
-  * OFFICE: IIM Bangalore campus, B007 faculty block 
+  # * EMAIL: firstname[DOT]lastname[AT]iimb[DOT]ac[DOT]in
+  # * OFFICE: IIM Bangalore campus, B007 faculty block 
 
 # Prior employment
 
@@ -38,4 +38,3 @@ Postdoctoral research fellow [2014--2017]
   - Mahanagar Boys' Inter College, Lucknow
 - High School (UP Board) [2000]
   - Mahanagar Boys' Inter College, Lucknow
-High School (UP Board)
