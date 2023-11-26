@@ -14,4 +14,4 @@ My primary research interests are in the field of nuclear transients, namely try
 
 Outside of research, I'm passionate about science outreach and advocacy work. I'm a part of the [Astrobites](https://www.astrobites.org) organization, help run Boston's [Astronomy on Tap](https://astronomyontap.org/) events, co-lead the [MIT Astrogazers](https://astrogazers.mit.edu/) organization, and am involved with various advocacy efforts in the MIT Physics Department, including our Grads Advising Graduate Admissions initiative [(GAGA)](https://physics-gsc.scripts.mit.edu/home/gaga/). I also love escaping into nature for hiking and camping adventures in my free time.
 
-Want to get in touch? Email me at <mmasters@mit.edu>!
+**Want to get in touch? Email me at <mmasters@mit.edu>!**
