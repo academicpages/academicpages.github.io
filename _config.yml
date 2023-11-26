@@ -203,10 +203,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _about
   - scope:
       path: ""
-      type: publications
+      type: about
     values:
       layout: single
       author_profile: true
