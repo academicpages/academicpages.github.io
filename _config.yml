@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Ragab"
-  avatar           : "images/profilephoto.jpeg"
+  avatar           : "./images/profilephoto.jpeg"
   bio              : "Web \& Big Data Research Fellow"
   location         : "Southampton,Uk"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  # twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
