@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20"> I recently completed my undergraduate studies in Economics at Pontificia Universidad Católica del Perú ([PUCP](https://www.pucp.edu.pe/)).
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20"> I recently graduated with a Bachelor's degree in Economics at Pontificia Universidad Católica del Perú ([PUCP](https://www.pucp.edu.pe/)).
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gears.svg" width="20" height="20"> I have worked on projects to assess the impact of interventions in protected areas, using quantitative and qualitative methods. Additionally, I collaborated in the automation and maintenance of data collection for a multilateral organization.
 
@@ -25,7 +25,7 @@ redirect_from:
 # Experience
 
 ## Research Assistant @ Department of Economics - PUCP  _[2023-Present]_
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted PhD. Isabel Guerrero Ochoa by providing support in  simulation proccesses and drafting for a Job Market Paper. Yet to be published.\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted PhD. Isabel Guerrero Ochoa by providing support in  simulation processes and drafting for a Job Market Paper. Yet to be published.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collaborated in the elaboration of a working paper, applying the model presented in her PhD. Dissertation Thesis. Yet to be published. \
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted in the design of an impact evaluation for a consultancy referring to Natural Protected Areas.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collected data from different sources for further researchs.
