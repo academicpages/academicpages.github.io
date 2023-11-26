@@ -18,8 +18,8 @@ collection: solving
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------- 
 Map Matching Visualization:
-1. Folium
+1. Folium: [Modify Marker image](https://www.cnblogs.com/alex-bn-lee/p/16972109.html)
 2. osm2gmns
 3. Solve: [AttributeError: ‘DataFrame’ object has no attribute ‘append’](https://blog.csdn.net/yuan2019035055/article/details/130577543)
    pip install pandas==1.3.4
- 
+  
