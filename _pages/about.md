@@ -42,7 +42,7 @@ ___2017-2023___\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Graduate courses: Advanced Topics in Macroeconomics (First place), Advanced Financial Theory (Top 5).
 
 # Skills
-![Illustration of softwares](/images/SOFTWARES.png){: .align-right width="300px"} 
+![Illustration of softwares](/images/SOFTWARES.png){: .align-right width="250px"} 
 **R**: Web Scraping, Data Process. \
 **Stata**: Econometrics, Geotools, Data Process. \
 **Python**: Econometrics, Machine Learning. \
