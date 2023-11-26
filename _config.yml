@@ -161,7 +161,7 @@ excerpt_separator: "\n\n"
 incremental: false
 
 
-# Markdown Processing
+## Markdown Processing
 kramdown:
   input: GFM
   hard_wrap: false
