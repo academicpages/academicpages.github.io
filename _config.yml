@@ -70,7 +70,7 @@ author:
   bio              : 
   location         : "Dallas, TX"
   employer         :
-  
+  pubmed           :
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -84,13 +84,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-
+  impactstory      :
   lastfm           :
   linkedin         :
-
+  orcid            :
   steam            :
   tumblr           :
-  :
+  twitter          :
   vine             :
   weibo            :
   xing             :
