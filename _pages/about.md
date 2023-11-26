@@ -28,7 +28,7 @@ redirect_from:
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted PhD. Isabel Guerrero Ochoa by providing support in  simulation processes and drafting for a Job Market Paper. Yet to be published.\
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collaborated in the elaboration of a working paper, applying the model presented in her PhD. Dissertation Thesis. Yet to be published. \
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Assisted in the design of an impact evaluation for a consultancy referring to Natural Protected Areas.\
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collected data from different sources for further researchs.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> Collected data from different sources for future research.
 
 
 ## Intern @ Inter-American Development Bank             _[2022]_
