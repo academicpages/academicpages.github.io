@@ -12,6 +12,7 @@ citation: 'Ye, Weirui, Shaohuai Liu, Thanard Kurutach, Pieter Abbeel, and Yang G
 [Download paper here](https://arxiv.org/pdf/2111.00210.pdf)
 
 BibTex:
+'''
 @article{ye2021mastering,
   title={Mastering atari games with limited data},
   author={Ye, Weirui and Liu, Shaohuai and Kurutach, Thanard and Abbeel, Pieter and Gao, Yang},
@@ -20,3 +21,4 @@ BibTex:
   pages={25476--25488},
   year={2021}
 }
+'''
