@@ -204,15 +204,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  #_projects
-  - scope:
-      path: ""
-      type: about
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
 
   # _talks
   - scope:
