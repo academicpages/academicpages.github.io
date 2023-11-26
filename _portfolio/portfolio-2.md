@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2<br/><img src='/images/500x300.png'>"
+title: "Final assignment: Econometrics using Stata"
+excerpt: "Final assignment: Predictors for climate change concern in Peru 2<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here, I present the [code](https://github.com/luisquispem/actveco2) elaborated for the final assignment of the course 'Activities in Economics using Stata.' Stata was used to develop descriptive statistics, a probit model, and spatial analysis.
+
+You can click [here](/files/trabajo_g10.pdf) to read the document (aviable only in Spanish).
