@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/graduation-cap.svg" width="20" height="20"> I recently completed my undergraduate studies in Economics at Pontificia Universidad Católica del Perú ([PUCP](https://www.pucp.edu.pe/)).
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gears.svg" width="20" height="20"> I have worked on projects to assess the impact of interventions in protected areas, using quantitative and qualitative methods. Also, I collaborated in the automation and maintenance of data collection for a multilateral organization.
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gears.svg" width="20" height="20"> I have worked on projects to assess the impact of interventions in protected areas, using quantitative and qualitative methods. Additionally, I collaborated in the automation and maintenance of data collection for a multilateral organization.
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/microscope.svg" width="20" height="20"> My research interests are in Impact Evaluation, Public Policy, Industrial Organization and Regulation.
 
