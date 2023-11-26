@@ -8,6 +8,8 @@ tags:
 
 
 # The Center of Everything
+
+
 I am so much into myself. It’s like the earth is rotating around me and I am the center of everything.
 
 In a group photo that I took during my last hangout with my friends, the decision on posting the photo on social media totally depended on how I looked in that photo.
