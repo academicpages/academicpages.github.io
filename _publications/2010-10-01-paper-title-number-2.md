@@ -13,9 +13,11 @@ This paper is about the number 2. The number 3 is left for future work.
 [Download paper here](https://openreview.net/forum?id=Mg5CLXZgvLJ)
 
 BibTex:
+'''
 @inproceedings{mei2022speedyzero,
   title={SpeedyZero: Mastering Atari with Limited Data and Time},
   author={Mei, Yixuan and Gao, Jiaxuan and Ye, Weirui and Liu, Shaohuai and Gao, Yang and Wu, Yi},
   booktitle={The Eleventh International Conference on Learning Representations},
   year={2022}
 }
+'''
