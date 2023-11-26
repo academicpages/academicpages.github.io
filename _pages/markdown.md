@@ -25,7 +25,7 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Go to the [commit list](https://github.com/ghazalrafiei/ghazalrafiei.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
   * Red X: error

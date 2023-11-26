@@ -1,9 +1,9 @@
 
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# # Publications markdown generator for ghazalrafiei
 # 
-# Takes a TSV of publications with metadata and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
+# Takes a TSV of publications with metadata and converts them for use with [ghazalrafiei.github.io](ghazalrafiei.github.io). This is an interactive Jupyter notebook, with the core python code in publications.py. Run either from the `markdown_generator` folder after replacing `publications.tsv` with one that fits your format.
 # 
 # TODO: Make this work with BibTex and other databases of citations, rather than Stuart's non-standard TSV format and citation style.
 # 
