@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Ragab"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "images/profilephoto.jpeg"
+  bio              : "Web \& Big Data Research Fellow"
   location         : "Southampton,Uk"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
