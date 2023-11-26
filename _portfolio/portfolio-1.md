@@ -6,4 +6,9 @@ collection: portfolio
 
 This repository collects the work done with my classmates during the course ECO-224 PUCP - Applied Statistics. The topics covered in the class were Random Forest, Deep Neural Networks and Debiased Machine Learning.
 
+The codes were elaborated in the following languages: 
+* R
+* Python
+* Julia
+
 [Link to the repository](https://github.com/luisquispem/ML_CausalInference_2022_2)
