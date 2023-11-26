@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 2"
+title: "SpeedyZero: Mastering Atari Games with Limited Data and Time"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+date: 2023-02-01
+venue: 'ICLR'
+paperurl: 'https://sites.google.com/view/speedyzero'
+citation: 'Mei, Yixuan, Jiaxuan Gao, Weirui Ye, Shaohuai Liu, Yang Gao, and Yi Wu. "SpeedyZero: Mastering Atari with Limited Data and Time." In The Eleventh International Conference on Learning Representations. 2022.'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://openreview.net/forum?id=Mg5CLXZgvLJ)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+BibTex:
+@inproceedings{mei2022speedyzero,
+  title={SpeedyZero: Mastering Atari with Limited Data and Time},
+  author={Mei, Yixuan and Gao, Jiaxuan and Ye, Weirui and Liu, Shaohuai and Gao, Yang and Wu, Yi},
+  booktitle={The Eleventh International Conference on Learning Representations},
+  year={2022}
+}
