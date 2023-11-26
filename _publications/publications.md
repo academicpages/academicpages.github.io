@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+
 permalink: /publications
 
 ---
