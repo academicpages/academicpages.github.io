@@ -29,6 +29,8 @@ The other intriguing changing-look AGN I've worked on is the candidate binary su
 
 ## High Resolution X-ray Spectroscopy of Nearby AGN 
 
+<img style="float: right;" src="/images/HETG_spatextents.jpg">
+
 During my Masters work at the University of Cambridge, I worked with data from the High Energy Transmission Grating on the Chandra X-ray Observatory to probe the narrow Fe K$\alpha$ line around nearby AGN. In [Masterson et al. (2022b)](https://ui.adsabs.harvard.edu/abs/2022ApJ...936...66M/abstract), we used three different spectral orders to disentangle the effect of velocity broadening (which is constant across different spectral orders) and spatial extent (which primarily effects the lower order spectra). This new technique provides unique constraints on the location of the emitting material, which is nearly impossible to do with standard imaging techniques, even with the best resolution provided by Chandra. In the future, I'm interested in applying similar techniques with the new [XRISM](https://www.nasa.gov/content/goddard/xrism-x-ray-imaging-and-spectroscopy-mission) mission.
 
 ---
