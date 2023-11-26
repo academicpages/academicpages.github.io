@@ -39,8 +39,8 @@ redirect_from:
 **Bachelor of Science in Economics**\
 _2017-2023_\
 Pontificia Universidad Católica del Perú
-- ss
-- ss
+* ss
+* ss
 
 
 # Skills
