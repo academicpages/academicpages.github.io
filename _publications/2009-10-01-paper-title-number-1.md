@@ -11,4 +11,12 @@ citation: 'Ye, Weirui, Shaohuai Liu, Thanard Kurutach, Pieter Abbeel, and Yang G
 
 [Download paper here](https://arxiv.org/pdf/2111.00210.pdf)
 
-Recommended citation: Ye, Weirui, Shaohuai Liu, Thanard Kurutach, Pieter Abbeel, and Yang Gao. "Mastering atari games with limited data." Advances in Neural Information Processing Systems 34 (2021): 25476-25488.
+BibTex:
+@article{ye2021mastering,
+  title={Mastering atari games with limited data},
+  author={Ye, Weirui and Liu, Shaohuai and Kurutach, Thanard and Abbeel, Pieter and Gao, Yang},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={25476--25488},
+  year={2021}
+}
