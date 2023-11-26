@@ -181,6 +181,12 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  working-papers:
+    output: true
+    permalink: /:collection/:path/  
+  consulting:
+    output: true
+    permalink: /:collection/:path/  
   portfolio:
     output: true
     permalink: /:collection/:path/
