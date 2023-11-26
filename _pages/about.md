@@ -36,11 +36,10 @@ redirect_from:
 
 # Education
 
-**Bachelor of Science in Economics**\
-_2017-2023_\
-Pontificia Universidad Católica del Perú
-* ss
-* ss
+**Bachelor of Science in Economics** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_2017-2023_\
+Pontificia Universidad Católica del Perú\
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/circle.svg" width="5" height="5"> ss
+
 
 
 # Skills
