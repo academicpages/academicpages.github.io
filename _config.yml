@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mohamed Ragab"
-  avatar           : "./images/profilephoto.jpeg"
+  avatar           : "profilephoto.jpeg"
   bio              : "Web \& Big Data Research Fellow"
   location         : "Southampton,Uk"
   employer         :
