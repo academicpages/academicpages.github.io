@@ -14,9 +14,7 @@ Time in Communication Research and Theories
 
 ## Guest Editors
 Tai-Quan “Winson” Peng (Michigan State University, USA; Email: pengtaiq@msu.edu)
-
 Zheng Joyce Wang (Ohio State University, USA; Email: wang.1243@osu.edu)
-
 ## Overview
 Communication research embraces a constant ebb and flow of emerging and changing technologies, phenomena, concepts, methods, and theories. Trends evolve, ideas emerge, and paradigms shift. Amidst this ever-changing landscape of research, one constant remains unwavering: time. Time shapes the way we conceptualize, examine, and understand the complexities of communication representations, structures, relations, changes, and processes. 
 
