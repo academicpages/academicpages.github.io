@@ -14,6 +14,7 @@ Time in Communication Research and Theories
 
 ## Guest Editors
 Tai-Quan “Winson” Peng (Michigan State University, USA; Email: pengtaiq@msu.edu)
+
 Zheng Joyce Wang (Ohio State University, USA; Email: wang.1243@osu.edu)
 
 ## Overview
@@ -22,10 +23,10 @@ Communication research embraces a constant ebb and flow of emerging and changing
 This Special Issue (SI) aims to propel time into the forefront of communication research. We encourage scholars to transcend mere methodological considerations and to challenge prevailing conceptions of time in communication research, such as viewing time solely as a limited resource or a linear progression. We invite communication scholars to explicate, elaborate, or conceptualize this fundamental dimension of communication, to delve into its intricacies and complexities, to explore its multifaceted meanings, and to construct and advance communication theories. 
 
 Submissions to this SI should place time at the core of their research, shifting it from a mere backdrop or a control variable to a primary focus in theorizing or modeling communication. Below are a few examples, but this list is by no means exhaustive.
-●	Explicate time as a multi-dimensional concept in communication research. Manuscripts are encouraged to delve into various aspects of time, from our current understanding of its nature in the physical world (e.g., International Atomic Time, the spacetime continuum in physics), to its subjective qualities (e.g., temporality), and its role as a socially constructed concept. For example, research can explore the shared and differentiating experience and perception of time in communication in and across specific social or cultural settings.
-●	Elucidate the concept and role of time across multiple communication domains. As different communication processes converge through interactive communication technologies and networks, systematic and comprehensive endeavors are needed to conceptualize time across two or more communication domains. For example, the research can investigate the interactions and influences of time or temporalities from one communication domain onto another, and explore whether such interactions might give rise to novel forms of temporal experiences.
-●	Theorize the concept of time across multiple levels in human communication. Research can integrate unobservable lower-level “blackbox” processing to observed higher-level behaviors, and integrate our understanding across levels, from individual, group/organizational, to social (e.g., from individuals’ perceptions, attitudes, and memories to collective perceptions, attitudes, and memories). 
-●	Re-calibrate the role of time in media effects research. Time holds a pivotal position as an essential methodological element in this realm of study. Submissions are expected to transcend conventional assumptions within media effects research, revealing fresh perspectives that enrich the ongoing discourse and pave a path toward a more holistic understanding of the intricate interplay between components in communication systems and processes.
+*	Explicate time as a multi-dimensional concept in communication research. Manuscripts are encouraged to delve into various aspects of time, from our current understanding of its nature in the physical world (e.g., International Atomic Time, the spacetime continuum in physics), to its subjective qualities (e.g., temporality), and its role as a socially constructed concept. For example, research can explore the shared and differentiating experience and perception of time in communication in and across specific social or cultural settings.
+*	Elucidate the concept and role of time across multiple communication domains. As different communication processes converge through interactive communication technologies and networks, systematic and comprehensive endeavors are needed to conceptualize time across two or more communication domains. For example, the research can investigate the interactions and influences of time or temporalities from one communication domain onto another, and explore whether such interactions might give rise to novel forms of temporal experiences.
+*	Theorize the concept of time across multiple levels in human communication. Research can integrate unobservable lower-level “blackbox” processing to observed higher-level behaviors, and integrate our understanding across levels, from individual, group/organizational, to social (e.g., from individuals’ perceptions, attitudes, and memories to collective perceptions, attitudes, and memories). 
+*	Re-calibrate the role of time in media effects research. Time holds a pivotal position as an essential methodological element in this realm of study. Submissions are expected to transcend conventional assumptions within media effects research, revealing fresh perspectives that enrich the ongoing discourse and pave a path toward a more holistic understanding of the intricate interplay between components in communication systems and processes.
 
 Submissions falling under the following categories are NOT a priority for this SI: (1) studies with a narrow, or one-dimensional perspective of time, or overlooking dynamic communication mechanisms; (2) studies primarily consisting of traditional literature reviews without substantial new empirical or theoretical insights, or methodological innovations; (3) studies relying on conventional research methods without innovative perspectives or approaches that can advance theoretical understanding; and (4) studies lacking relevance and significance to the broad field of communication, unable to reshape the treatment of time in our discipline.
 
@@ -40,6 +41,6 @@ Notifications regarding invitations for full papers or desk-reject decisions wil
 
 
 ## References
-Berlo, D. K. (1977). Communication as process: Review and commentary. Annals of the International Communication Association, 1(1), 11–27. https://doi.org/10.1080/23808985.1977.11923667 
-Chaffee, S. (1991). Communication concepts 1: Explication. Newbury Park, CA: Sage.
+0. Berlo, D. K. (1977). Communication as process: Review and commentary. Annals of the International Communication Association, 1(1), 11–27. https://doi.org/10.1080/23808985.1977.11923667 
+0. Chaffee, S. (1991). Communication concepts 1: Explication. Newbury Park, CA: Sage.
 
