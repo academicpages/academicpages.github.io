@@ -12,7 +12,9 @@ redirect_from:
 
 Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
 
-I'm a senior student at School of information and communication engineering 'elite class' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got National Encourage Scholarship(2021,2022,2023), outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, 3D-LLM and Multimodality.
+I'm a senior student at School of information and communication engineering 'class for talent' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got National Encourage Scholarship(2021,2022,2023), outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, 3D-LLM and Multimodality. I am actively looking for academic collaboration and a PhD position, feel free to drop me an email. (lizeju0727@gmail.com)
+
+
 
 <!-- I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). -->
 
