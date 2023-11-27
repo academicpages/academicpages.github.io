@@ -1,5 +1,5 @@
 ---
-permalink: /markdown/
+permalink: /joinus/
 title: "Positions"
 author_profile: true
 redirect_from: 
