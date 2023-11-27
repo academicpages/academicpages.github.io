@@ -34,6 +34,6 @@ Please go to https://mc.manuscriptcentral.com/jcom (the standard Journal of Comm
 
 Notifications regarding invitations for full papers or desk-reject decisions will be promptly communicated, dependent on the volume of received extended abstracts. The anticipated date for notifications about the extended abstracts is currently set for April 15, 2024. All invited manuscripts will undergo the standard peer-review process of JoC. The full release of the special issue is expected between the fall of 2025 and the spring of 2026. However, accepted manuscripts will be made available as online-first publications upon acceptance.
 ## References
-0. Berlo, D. K. (1977). Communication as process: Review and commentary. *Annals of the International Communication Association, 1*(1), 11–27. https://doi.org/10.1080/23808985.1977.11923667 
-0. Chaffee, S. (1991). *Communication concepts 1: Explication*. Newbury Park, CA: Sage.
+Berlo, D. K. (1977). Communication as process: Review and commentary. *Annals of the International Communication Association, 1*(1), 11–27. https://doi.org/10.1080/23808985.1977.11923667   
+Chaffee, S. (1991). *Communication concepts 1: Explication*. Newbury Park, CA: Sage.
 
