@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welab / Site Title"
+title                    : "WE Lab"
 title_separator          : "-"
-name                     : &name "We lab"
+name                     : &name "Welab"
 description              : &description "personal description"
 url                      : https://wwelab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
