@@ -7,7 +7,7 @@ redirect_from:
   - /joinus.html
 ---
 
-**Postgrads**: ...
+**Postgrads**: ......
 
 **PhD students**: We are not actively recruiting PhD studets at this time, but we are always happy to hear from interested individuals who might be a good fit. Please email Dongtao Wei with your CV and brief cover letter describing your research background, interests to ask about opportunities.
 
