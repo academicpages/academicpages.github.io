@@ -1,8 +1,7 @@
 ---
-title: "Impact of the crisis and the 2020-2021 budget measures on firms" 
-type: "(with Laurent Bach, Arthur Guillouzouic & Clément Malgouyres) "
+title: "Impact of the crisis and the 2020-2021 budget measures on firms (with Laurent Bach, Arthur Guillouzouic & Clément Malgouyres)" 
 permalink: /policypaper/policy2
-venue: "annual conference of the Institut des Politiques Publiques"
+venue: "Annual conference of the Institut des Politiques Publiques"
 date: 2020-11-11
 ---
 
