@@ -1,8 +1,7 @@
 ---
-title: "Micro-econometric evaluation of the THD Plan (Fast-Speed Internet)" 
-type: "(with Paul Dutronc-Postel, Arthur Guillouzouic, Clément Malgouyres)"
+title: "Micro-econometric evaluation of the THD Plan (Fast-Speed Internet) (with Paul Dutronc-Postel, Arthur Guillouzouic, Clément Malgouyres)" 
 permalink: /policypaper/policy3
-venue: "Rapport IPP n°40"
+venue: "IPP Policy Brief n°40"
 date: 2022-11-11
 ---
 
