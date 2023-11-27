@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-## Journal of Communication 
-## Special Issue Call for Papers
+# Journal of Communication 
+# Special Issue Call for Papers
 ### Theme
 Time in Communication Research and Theories
 ### Guest Editors
