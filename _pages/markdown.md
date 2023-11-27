@@ -13,4 +13,5 @@ redirect_from:
 
 **Full-time research assistants**: We are not actively recruiting full-time RAs/lab managers at this time, but please watch this space for potential opportunities.
 
-**Undergraduate part-time research assistants**: Interested undergrads may download and fill out this application form and email it to us([dongtao@swu.edu.cn](mailto:dongtao@swu.edu.cn?subject=姓名 + 兼职科研助理申请) or [welab@email.swu.edu.cn](mailto:welab@email.swu.edu.cn?subject=姓名 + 兼职科研助理申请).
+**Undergraduate part-time research assistants**: Interested undergrads may download and fill out this application form and email it to us
+[welab@email.swu.edu.cn](mailto:welab@email.swu.edu.cn?subject=姓名%20%2B%20兼职科研助理申请) ([dongtao@swu.edu.cn](mailto:dongtao@swu.edu.cn?subject=姓名%20%2B%20兼职科研助理申请)).
