@@ -11,8 +11,8 @@ author_profile: true
 ## Theme
 Time in Communication Research and Theories
 ## Guest Editors
-Tai-Quan “Winson” Peng (Michigan State University, USA; Email: pengtaiq@msu.edu)  
-Zheng Joyce Wang (Ohio State University, USA; Email: wang.1243@osu.edu)  
+Tai-Quan “Winson” Peng (Michigan State University, USA; Email: [pengtaiq@msu.edu](pengtaiq@msu.edu))  
+Zheng Joyce Wang (Ohio State University, USA; Email: [wang.1243@osu.edu](wang.1243@osu.edu))  
 ## Overview
 Communication research embraces a constant ebb and flow of emerging and changing technologies, phenomena, concepts, methods, and theories. Trends evolve, ideas emerge, and paradigms shift. Amidst this ever-changing landscape of research, one constant remains unwavering: time. Time shapes the way we conceptualize, examine, and understand the complexities of communication representations, structures, relations, changes, and processes.   
 
@@ -30,7 +30,7 @@ The SI welcomes contributions from all areas of communication research and encou
 ## Information on submission and publication
 Authors are invited to submit extended abstracts by **March 15, 2024 (ICA Headquarter time, U. S. Eastern Time Zone)**. The extended abstract (up to 1500 words, double spaced, 1”/2.54cm margins, 12-point Times New Roman Font) should: (1) establish the relevance and significance of time as a fundamental factor in your research context; (2) clearly state your research objectives and questions, and elucidate the underlying theoretical framework/model; (3) describe your specific approach and method; and (4) showcase the expected contributions of your research, such as  fresh insights, innovative methodologies, and novel theoretical perspectives. Tables, figures, appendices, and references do not count against the word limit in extended abstracts.  
 
-Please go to https://mc.manuscriptcentral.com/jcom (the standard Journal of Communication submission site) and submit your extended abstract as an original article submission. The online system will ask along the way whether your submission is to be considered for a special issue. Please indicate “yes” at this stage and click within the follow-up entry that the work is being offered in relation to the “Time in Communication Research and Theories” special issue. The remaining submission steps are identical to a standard Journal of Communication submission.  
+Please go to [https://mc.manuscriptcentral.com/jcom](https://mc.manuscriptcentral.com/jcom) (the standard Journal of Communication submission site) and submit your extended abstract as an original article submission. The online system will ask along the way whether your submission is to be considered for a special issue. Please indicate “yes” at this stage and click within the follow-up entry that the work is being offered in relation to the “Time in Communication Research and Theories” special issue. The remaining submission steps are identical to a standard Journal of Communication submission.  
 
 Notifications regarding invitations for full papers or desk-reject decisions will be promptly communicated, dependent on the volume of received extended abstracts. The anticipated date for notifications about the extended abstracts is currently set for April 15, 2024. All invited manuscripts will undergo the standard peer-review process of JoC. The full release of the special issue is expected between the fall of 2025 and the spring of 2026. However, accepted manuscripts will be made available as online-first publications upon acceptance.
 ## References
