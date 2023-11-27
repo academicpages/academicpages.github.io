@@ -91,7 +91,7 @@ Contact
 
 University of Turku, Finland
 
-hibano@utu.fi
+hector.bahamonde@utu.fi
 
 www.HectorBahamonde.com
 
