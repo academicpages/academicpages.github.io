@@ -1,1 +1,1 @@
-### This is official website for WE lab(emotion representation & prediction lab)
+### This is the official website for WE lab(emotion representation & prediction lab)
