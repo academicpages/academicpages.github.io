@@ -11,7 +11,7 @@ redirect_from:
 # About me
 
 <div style="text-align: justify"> My research interests span the fields of financial economics and game theory. In finance, my current research includes topics related to corporate finance; asset pricing; corporate governance; banking and risk management; quantitative finance; fat tails and power laws; central bank communication; as well as text analysis. I also work in the field of theoretical economics, especially on topics related to contract theory, mechanism design, principal-agent problems and industrial organization.</div>
-<br/><br/>
+<br/>
 
 # Employment
 
