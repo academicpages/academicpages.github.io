@@ -14,7 +14,7 @@ Email: [hopelin@ruc.edu.cn](mailto:hopelin@ruc.edu.cn) / [CV](https://hopelin99.
 ## Research Interests
 My research interests lie in Natural Language Processing and Multi-modal Understanding, for the purpose of giving machines the ability to perceive, understand, and express like humans.
 
-Recently,  I have been dedicated to enabling Large Language Models (LLM) to process multi-modal information and endowing them with the ability to perceive the world.
+I have been dedicated to equipping large language models (LLMs) with the capability to process multi-modal information, endowing them with the capacity to perceive the world. Some of my recent projects include addressing QA for long-form videos and exploring vulnerabilities in large language models.
 
 
 ## News
