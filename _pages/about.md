@@ -37,6 +37,9 @@ Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.
 Dec 12, 2023. **[Invited talk at National School of Development at Peking University]** Virtual.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
+Dec 4, 2023. **[Invited talk at Cytel Inc.]** Cambridge, MA.  
+[Robust and Optimal Sensitivity Analysis (ROSA) for Clinical Trial Designs](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)
+
 ## Recent News  
 Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational and Randomized Data]**  Washington, DC.   
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
