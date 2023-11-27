@@ -1,6 +1,6 @@
 ---
 permalink: /joinus/
-title: "Positions"
+title: "JoinUs"
 author_profile: true
 redirect_from: 
   - /md/
