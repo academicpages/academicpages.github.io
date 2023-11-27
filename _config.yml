@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Go Nam (Harry) Lui, Ph.D."
-  avatar           : "ml2.jpeg"
+  avatar           : "my_logo.jpeg"
   bio              : "Senior research associate@LUMS|Co-founder of FinCatch|PhD@HKUST|Data science|Avaition|FinTech"
   location         : "Hong Kong/UK"
-  employer         : "Lancaster University Management School"
+  employer         : "LUMS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "gonamlui@gmail.com"
