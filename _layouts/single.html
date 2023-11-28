@@ -48,6 +48,10 @@ layout: default
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
+
+        {% if page.excerpt %}
+          <p style="color:gainsboro"> {{ page.excerpt }}</p>
+        {% endif%}
     
         </header>
       {% endunless %}
