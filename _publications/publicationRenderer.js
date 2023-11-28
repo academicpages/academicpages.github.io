@@ -64,8 +64,10 @@ function generateArticleHtml(articles) {
         authorsArray.forEach((author_, index) => {
             let name = author_.trim();
             if (name === "Wei, Dongtao") {
-                if (article.mark) { // first author
-                    authorHtml += `<strong>${name}</strong><sup>${article.mark}</sup>, `;
+                if (article.mark == '#') { // first author
+                    authorHtml += `<strong>${name}</strong><sup class='hash'>${article.mark}</sup>, `;
+                } else if (article.mark == '*')
+                {authorHtml += `<strong>${name}</strong><sup class='hash'>${article.mark}</sup>, `
                 } else { // 
                     authorHtml += `<strong>${name}</strong>`;
                 }
