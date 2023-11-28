@@ -4,12 +4,14 @@ collection: publications
 permalink: /publication/2023-paper
 ---
 
-<div class="article-container"></div>
+<div class="article-container"></div> 
 <script src="./prepare_publication.js"></script>
 <script>
     const bibtexURL = './2023-paper.bib';
-    fetchAndParseBibtex(bibtexURL).then(parsedData => {
-    let htmlContent = generateArticleHtml(parsedData);
-    document.getElementById("article-container").innerHTML = htmlContent;
-});
+    document.addEventListener('DOMContentLoaded', (event) => {
+        fetchAndParseBibtex(bibtexURL).then(parsedData => {
+            let htmlContent = generateArticleHtml(parsedData);
+            document.getElementsByClassName("article-container").innerHTML = htmlContent;
+        });
+    });
 </script>
