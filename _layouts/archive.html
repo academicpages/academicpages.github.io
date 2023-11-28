@@ -20,7 +20,7 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {% if page.excerpt %}
-          <h2 style="color:rgb(119, 119, 119)"> {{ page.excerpt }}</h2>
+          <h2 class="page__excerpt"style="color:rgb(119, 119, 119); margin-top: 0px;"> {{ page.excerpt }}</h2>
     {% endif%}
     {{ content }}
   </div>
