@@ -28,10 +28,14 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 
 
+<br>
 
 # Publications
 
 * [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
+
+
+<br>
 
 
 # Selected Projects
@@ -57,6 +61,8 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 * [Databases](https://github.com/ghazalrafiei/Final-DB-Project)
 
+<br>
+
 # Experience
 **Teacher Assistant at Shahid Beheshti University**
 
@@ -67,8 +73,12 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 **Teacher Assistant at University of Southern California**
 * CSCI 356: Computer Systems (2023)
 
+<br>
+
 # Other Links/Useful Contents
 
 * [Writings on Medium](https://medium.com/@girraffael)
+
+* [Instrumental Musics for Work](https://t.me/shoreless_sea)
 
 * [Hidden Brain Podcasts](https://hiddenbrain.org/)
