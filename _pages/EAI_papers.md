@@ -120,6 +120,8 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
     <li>PIGLeT: Language Grounding Through Neuro-Symbolic Interaction in a 3D World <a href="https://arxiv.org/abs/2106.00188">📚</a></li>
     <li>Embodied Executable Policy Learning with Language-based Scene Summarization<a href="https://arxiv.org/pdf/2306.05696.pdf">📚</a></li>
     <li>JARVIS-1: Open-world Multi-task Agents with Memory-Augmented Multimodal Language Models<a href="https://arxiv.org/abs/2311.05997">📚</a></li>
+    <li>See and Think: Embodied Agent in Virtual Environment<a href="https://arxiv.org/abs/2311.15209">📚</a></li>
+   <li>Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models<a href="https://arxiv.org/abs/2310.15127">📚</a></li>
   </ul>
 </details>
 
