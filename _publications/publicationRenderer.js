@@ -29,7 +29,7 @@ function parseBibtex(bibtex) {
         } else if (line.includes('=')) {
             let [key, value] = line.split('=').map(s => s.trim());
             value = value.replace(/[{}]/g, ''); 
-            currentEntry[key] = value;
+            currentEntry[key] = value.trim();
         }
     });
 
