@@ -99,6 +99,12 @@ share without permission of the author!**
     Identifies episodes of democratization (liberalizing autocracy, democratic deepening) and autocratization (democratic regression,
     autocratic regression) in the most recent V-Dem dataset.
 
+- **The Coup Agency and Mechanisms Data**: <https://www.militarycoups.org/>
+  The Coup Agency and Mechanism data comprise global data on military coups and coup attempts, covering all countries in the period 1950-2018.
+
+- **Mass Mobilization in Autocracies Database**: <https://mmadatabase.org/>
+  The Mass Mobilization in Autocracies Database (MMAD) contains sub-national data on mass mobilization events in autocracies worldwide. It includes both instances of anti- and pro-regime protest at the level of cities with daily resolution.
+  
 # War, terrorism, and civil wars
 
 -   **Corralates of War (CoW)**: <https://correlatesofwar.org/>
@@ -135,6 +141,8 @@ share without permission of the author!**
 -   **Mass Mobilization Project**: <https://massmobilization.github.io/about.html>
 
 -   **Anatomy of Resistance Campaigns**: <https://www.arc-project.net/>
+
+-   **Peace Agreements Digital Collection**: <https://www.usip.org/publications/2009/04/peace-agreements-digital-collection>
 
 # Elections, executives, and political parties
 
@@ -179,7 +187,7 @@ share without permission of the author!**
     time, the number of national parties grew from 143 to 277. The 2019 survey includes all EU member states, plus parties in Iceland,
     Norway, Switzerland, and Turkey.
 
--   **Democratic Accountability and Linkages Project (DALP)**:     <https://sites.duke.edu/democracylinkage/>\
+-   **Democratic Accountability and Linkages Project (DALP)**: <https://sites.duke.edu/democracylinkage/>\
     Covers 21 countries in the Americas, 13 countries in the Asia-Pacific region, 18 countries in post-communist Eastern and
     Central Europe, 16 countries in Western Europe, and 20 countries in Africa and the Middle East for a total of 88 countries. The first
     wave of 2008-2009 expert surveys (DALP I) involved data collection in more than 80 countries.
@@ -206,6 +214,8 @@ share without permission of the author!**
 
 -   **Turkish Elections at Province Level (TEPL) Dataset**: <https://www.tezcur.org/tepl>
 The TEPL dataset provides election results and electoral for the Turkish parliamentary elections conducted between 1980 and 2012 (8 elections).
+
+- **The European Government-Opposition Voters (EGOV) Data Set**: <https://figshare.com/articles/dataset/The_European_Government-Opposition_Voters_EGOV_Data_Set/14061152>
 
 # Miscellaneous
 
