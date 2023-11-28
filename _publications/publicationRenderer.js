@@ -44,28 +44,28 @@ function generateArticleHtml(articles) {
 
     let html = '<ul>';
     articles.forEach(article => {
-        console.log(article.authors)
-        let authorsArray = article.authors.split("and ");
+        console.log(article.author)
+        let authorsArray = article.author.split("and ");
         let authorHtml = "";
-        authorsArray.forEach((author, index) => {
-            author = author.trim();
-            if (author === "Wei, Dongtao") {
+        authorsArray.forEach((author_, index) => {
+            let name = author_.trim();
+            if (name === "Wei, Dongtao") {
                 if (article.mark) { // first author
-                    authorHtml += `<strong>${author}</strong><sup>${article.mark}</sup>, `;
+                    authorHtml += `<strong>${name}</strong><sup>${article.mark}</sup>, `;
                 } else { // 
-                    authorHtml += `<strong>${author}</strong>`;
+                    authorHtml += `<strong>${name}</strong>`;
                 }
             } else {
-                authorHtml += `${author}`;
+                authorHtml += `${name}`;
             }
         });
         authorHtml = authorHtml.trim().replace(/,\s*$/, "");
 
         html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF]</a></li>`;
         if (article.if) {
-            html += `<p>${article.authors}. (${article.year}). <i>${article.journal}</i>>(<strong>IF=${article.if}</strong>).</p>`;
+            html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>>(<strong>IF=${article.if}</strong>).</p>`;
         } else {
-            html += `<p>${article.authors}. (${article.year}). <i>${article.journal}</i>.</p>`;
+            html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>.</p>`;
         }
         
     });
