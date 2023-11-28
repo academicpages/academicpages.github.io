@@ -265,12 +265,15 @@
 
   }
 
-sup {
+  h {
+    font-weight: 600;
+  }
+  sup {
     font-size: 24px;
     vertical-align: text-bottom;
     line-height: 0;
     color: chocolate;
     font-weight: 700;
-}
+  }
 
 }
