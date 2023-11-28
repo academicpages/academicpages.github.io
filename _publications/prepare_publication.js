@@ -42,7 +42,7 @@ function parseBibtex(bibtex) {
 
 function generateArticleHtml(articles) {
 
-    html += '<ul>';
+    let html = '<ul>';
     articles.forEach(article => {
         let authorsArray = article.authors.split("and ");
         let authorHtml = "";
