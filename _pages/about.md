@@ -36,10 +36,39 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 ## Selected Projects
 
+### Extracurricular Projects
+
+[DBMS Benchmark on Docker](https://github.com/ghazalrafiei/BenchDBMSs)
+
+[Asynchronous Message Passing Application](https://github.com/ghazalrafiei/Jikjik)
+
+[Creative Visualizations Using OpenGL](https://github.com/ghazalrafiei/OpenGL)
+
+<!-- [PyCAD](https://github.com/msabrishami/DFT) -->
 
 
+### Course Projects
 
-## Other Links/Content
+[Deep Learning](https://github.com/ghazalrafiei/Neural-Network-Course)
 
+[Data Science](https://github.com/ghazalrafiei/Data-Science-Course)
 
+[Parallel Programming](https://github.com/ghazalrafiei/Parallel-Programming-Course)
 
+[Databases](https://github.com/ghazalrafiei/Final-DB-Project)
+
+## Experience
+**Teacher Assistant at Shahid Beheshti University**
+
+* Fundamentals of Theory of Computation (2020)
+* Data Structure and Algorithms (2019 and 2020)
+* Mathematical Software II (2018)
+
+**Teacher Assistant at University of Southern California**
+* CSCI 356: Computer Systems (2023)
+
+## Other Links/Useful Contents
+
+* [Writings on Medium](https://medium.com/@girraffael)
+
+* [Hidden Brain Podcasts](https://hiddenbrain.org/)
