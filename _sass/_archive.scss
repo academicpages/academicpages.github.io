@@ -247,20 +247,23 @@
 
 /* 　publications style setting==== */
 
-ul li {
+.article-container {
+  ul li {
+    .article-link {
+      color: #13d274;
+      text-decoration: none !important;
+      ;
+      font-weight: 600;
+    }
 
-  .article-link {
-    color: #13d274;
-    text-decoration: none !important;;
-    font-weight: 600;
-  }
- .pdf-link {
+    .pdf-link {
       color: rgb(255, 221, 0);
       text-decoration: none !important;
-      font-weight: bold !important;;
+      font-weight: bold !important;
+      ;
     }
-  
-}
+
+  }
 
 sup {
     font-size: 24px;
@@ -268,4 +271,6 @@ sup {
     line-height: 0;
     color: chocolate;
     font-weight: 700;
+}
+
 }
