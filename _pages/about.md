@@ -10,7 +10,9 @@ redirect_from:
 
 ## About
 
-I am currently a computer science graduate student at USC. I a member of [SoftArch]() lab under supervision of Nenad Medvidović, and my research interest is software engineering. 
+I am currently a computer science graduate student at University of Southern California. I a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I am working in the intersection Software Analysis and LLMs.
+
+Besides, I play classical piano and am eagerly interested in reading sociology articles.
 
 ==========
 
@@ -29,11 +31,19 @@ I am currently a computer science graduate student at USC. I a member of [SoftAr
 =========
 
 
-**Publications**
+## Publications
 
 [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
 
 =========
 
-**Selected Projects**
+## Selected Projects
+
+
+
+=========
+
+## Other Links/Content
+
+
 

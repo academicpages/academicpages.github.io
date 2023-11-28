@@ -86,8 +86,6 @@ author:
   location         : "Los Angeles, CA"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=cit48R8AAAAJ"
-  email            : "grafiei@usc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,6 +101,9 @@ author:
   impactstory      :
   lastfm           :
   linkedin         : "ghazal-rafiei-43339092"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=cit48R8AAAAJ"
+  email            : "grafiei@usc.edu"
+  medium           : "https://medium.com/@girraffael"
   orcid            :
   pinterest        :
   soundcloud       :
