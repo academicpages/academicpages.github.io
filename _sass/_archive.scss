@@ -248,12 +248,20 @@
 /* 　publications style setting==== */
 
 ul li {
-  .article-link {
+
+  & .article-link {
     color: rgb(100, 234, 210);
     text-decoration: none !important;;
   }
-    .pdf-link {
+  & .pdf-link {
       color: rgb(255, 221, 0);
       font-weight: bold !important;;
     }
+  
+}
+
+sup {
+  font-size: 75%;       
+  vertical-align: super; 
+  line-height: 0
 }
