@@ -14,7 +14,6 @@ I am currently a computer science graduate student at University of Southern Cal
 
 Besides, I play classical piano and am eagerly interested in reading sociology articles.
 
-==========
 
 ## Education
 
@@ -28,20 +27,17 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 
-=========
 
 
 ## Publications
 
 [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
 
-=========
 
 ## Selected Projects
 
 
 
-=========
 
 ## Other Links/Content
 
