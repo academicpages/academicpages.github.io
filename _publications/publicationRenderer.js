@@ -44,7 +44,6 @@ function generateArticleHtml(articles) {
 
     let html = '<ul>';
     articles.forEach(article => {
-        console.log(article.author)
         let authorsArray = article.author.split("and ");
         let authorHtml = "";
         authorsArray.forEach((author_, index) => {

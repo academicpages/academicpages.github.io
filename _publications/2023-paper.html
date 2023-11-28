@@ -11,6 +11,7 @@ permalink: /publication/2023-paper
     document.addEventListener('DOMContentLoaded', (event) => {
         fetchAndParseBibtex(bibtexURL).then(parsedData => {
             let htmlContent = generateArticleHtml(parsedData);
+            console.log(htmlContent);
             document.getElementsByClassName("article-container").innerHTML = htmlContent;
         });
     });
