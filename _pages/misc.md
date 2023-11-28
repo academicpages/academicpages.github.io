@@ -13,7 +13,7 @@ Below you may find some miscellaneous links and materials of interest.
 - 📦 Two great sources for **job market materials** if you are using LaTeX: [Rob William's](https://jayrobwilliams.com/) [repo on Github](https://github.com/jayrobwilliams/Job-Market) that you can fork & [Kelsey Shoub's](https://www.kelseyshoub.com/advice) website with a bunch of other cool things.
 
 ## Datasets
-- 💻 I compiled a list of **datasets** that might be useful to political science students - [Updated January 2022](https://ozlemtuncel.github.io/files/Database_Links.pdf)
+- 💻 I compiled a list of **datasets** that might be useful to political science students - [Updated January 2022](_posts/polisci_datasets.md)
 
 ## Software
 - 💻 My guide for graduate students to learn [**coding in R**.](https://ozlemtuncel.github.io/files/Learning_R.pdf)
