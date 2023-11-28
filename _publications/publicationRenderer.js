@@ -22,6 +22,7 @@ function parseBibtex(bibtex) {
         line = line.trim();
         if (line.startsWith('@')) {
             if (Object.keys(currentEntry).length !== 0) {
+                removeTrailingComma(currentEntry);
                 entries.push(currentEntry);
                 currentEntry = {};
             }
@@ -29,16 +30,30 @@ function parseBibtex(bibtex) {
         } else if (line.includes('=')) {
             let [key, value] = line.split('=').map(s => s.trim());
             value = value.replace(/[{}]/g, ''); 
-            currentEntry[key] = value.trim();
+            currentEntry[key] = value;
+        } else if (line === '}') {
+            removeTrailingComma(currentEntry);
+            entries.push(currentEntry);
+            currentEntry = {};
         }
     });
 
     if (Object.keys(currentEntry).length !== 0) {
+        removeTrailingComma(currentEntry);
         entries.push(currentEntry);
     }
 
     return entries;
 }
+
+function removeTrailingComma(entry) {
+    for (let key in entry) {
+        if (entry.hasOwnProperty(key)) {
+            entry[key] = entry[key].replace(/,\s*$/, '');
+        }
+    }
+}
+
 
 function generateArticleHtml(articles) {
 
@@ -62,7 +77,7 @@ function generateArticleHtml(articles) {
 
         html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF]</a></li>`;
         if (article.if) {
-            html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>>(<strong>IF=${article.if}</strong>).</p>`;
+            html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>(<strong>IF=${article.if}</strong>).</p>`;
         } else {
             html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>.</p>`;
         }
@@ -71,3 +86,4 @@ function generateArticleHtml(articles) {
     html += '</ul>';
     return html
 }
+
