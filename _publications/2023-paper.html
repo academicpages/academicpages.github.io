@@ -12,7 +12,7 @@ permalink: /publication/2023-paper
         fetchAndParseBibtex(bibtexURL).then(parsedData => {
             let htmlContent = generateArticleHtml(parsedData);
             console.log(htmlContent);
-            document.getElementsByClassName("article-container").innerHTML = htmlContent;
+            document.querySelector(".article-container").innerHTML = htmlContent;
         });
     });
 </script>
