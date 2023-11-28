@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-## About
+# About
 
 I am currently a computer science graduate student at University of Southern California. I a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I am working in the intersection Software Analysis and LLMs.
 
 Besides, I play classical piano and am eagerly interested in reading sociology articles.
 
 
-## Education
+# Education
 
 **PhD Computer Science at University of Southern California**
 
@@ -29,14 +29,14 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 
 
-## Publications
+# Publications
 
 * [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
 
 
-## Selected Projects
+# Selected Projects
 
-### Extracurricular Projects
+## Extracurricular Projects
 
 * [DBMS Benchmark on Docker](https://github.com/ghazalrafiei/BenchDBMSs)
 
@@ -47,7 +47,7 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 <!-- [PyCAD](https://github.com/msabrishami/DFT) -->
 
 
-### Course Projects
+## Course Projects
 
 * [Deep Learning](https://github.com/ghazalrafiei/Neural-Network-Course)
 
@@ -57,7 +57,7 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 * [Databases](https://github.com/ghazalrafiei/Final-DB-Project)
 
-## Experience
+# Experience
 **Teacher Assistant at Shahid Beheshti University**
 
 * Fundamentals of Theory of Computation (2020)
@@ -67,7 +67,7 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 **Teacher Assistant at University of Southern California**
 * CSCI 356: Computer Systems (2023)
 
-## Other Links/Useful Contents
+# Other Links/Useful Contents
 
 * [Writings on Medium](https://medium.com/@girraffael)
 
