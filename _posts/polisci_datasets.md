@@ -107,6 +107,9 @@ share without permission of the author!**
 
 -   **Historical Index of Ethnic Fractionalization Dataset**: <https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4JQRCL>
 
+-   **Kurdish Insurgency Militants (KIM) Dataset**: <https://www.tezcur.org/kim>
+    KIM dataset v.2 based on a sample of 9,196 militants killed between 1984 and 2016 and including a variable indicating gender
+    
 -   **ECAV**: <https://ecavdata.org/>
 
 -   **REVMOD**: <https://www.revolutionarymilitant.org/>
@@ -200,6 +203,9 @@ share without permission of the author!**
 -   **Political Party Database**: <https://www.politicalpartydb.org/about/>
 
 -   **Voter Turnout Database**: <https://www.idea.int/data-tools/data/voter-turnout>
+
+-   **Turkish Elections at Province Level (TEPL) Dataset**: <https://www.tezcur.org/tepl>
+The TEPL dataset provides election results and electoral for the Turkish parliamentary elections conducted between 1980 and 2012 (8 elections).
 
 # Miscellaneous
 
