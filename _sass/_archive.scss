@@ -247,12 +247,13 @@
 
 /* ==== */
 
-.article-link {
-color: rgb(48, 165, 189);
-text-decoration: none !important;;
-}
-
-.pdf-link {
-color: rgb(0, 255, 234);
-font-weight: bold !important;;
+ul li {
+  .article-link {
+    color: rgb(48, 165, 189);
+    text-decoration: none !important;;
+  }
+    .pdf-link {
+      color: rgb(0, 255, 234);
+      font-weight: bold !important;;
+    }
 }
