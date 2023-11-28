@@ -250,18 +250,20 @@
 ul li {
 
   & .article-link {
-    color: rgb(100, 234, 210);
+    color: #13d274;
     text-decoration: none !important;;
+    font-weight: 600;
   }
   & .pdf-link {
       color: rgb(255, 221, 0);
+      text-decoration: none !important;
       font-weight: bold !important;;
     }
   
 }
 
 sup {
-  font-size: 100%;       
+  font-size: 2vh;       
   vertical-align: super; 
   line-height: 0;
   color: chocolate;
