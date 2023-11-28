@@ -19,6 +19,9 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
+    {% if page.excerpt %}
+          <h2 style="color:gainsboro"> {{ page.excerpt }}</h2>
+    {% endif%}
     {{ content }}
   </div>
 </div>
