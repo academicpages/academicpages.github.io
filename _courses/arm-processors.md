@@ -24,3 +24,15 @@ The theoretical conten is accompanied by practical homework.
 Participants will gradually implement programs in C and Assembly to use various functionalities of the board.
 After the participants have become familiar with ARM Assembly, different cryptographic applications will be implemented.
 The focus is especially on efficiency and a C implementation must always be beaten.
+
+
+Contents
+======
+
+1. Microprocessors
+2. ARM Assembly
+3. Functions
+4. Peripherals and Interrupts
+5. Inter Circuit I/O, Memory, and PRESENT
+6. Timing Attacks and AES
+7. Serial Communication and PBKDF2
