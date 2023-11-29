@@ -77,6 +77,7 @@ function generateArticleHtml(articles) {
             } else {
                 authorHtml += `${name}, `;
             }
+            console.log(name);
         });
         authorHtml = authorHtml.trim().replace(/,\s*$/, "");
 
