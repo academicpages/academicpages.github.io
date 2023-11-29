@@ -6,7 +6,7 @@ permalink: /publication/2023-paper
 
 <div class="article-container"></div> 
 <script>
-    const bibtexURL = '2023-paper.bib';
+    const bibtexURL = '/pulications/2023-paper.bib';
     document.addEventListener('DOMContentLoaded', (event) => {
         fetchAndParseBibtex(bibtexURL).then(parsedData => {
             let htmlContent = generateArticleHtml(parsedData);
