@@ -83,9 +83,9 @@ function generateArticleHtml(articles) {
 
         html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF].</a></li>`;
         if (article.if) {
-            html += `<p>${authorHtml} (${article.year}). <i>${article.journal}</i>(<strong>IF=${article.if}</strong>).</p>`;
+            html += `<p>${authorHtml} (${article.year}). <span class='journal'>${article.journal}</span>(<strong>IF=${article.if}</strong>).</p>`;
         } else {
-            html += `<p>${authorHtml}(${article.year}). <i>${article.journal}</i>.</p>`;
+            html += `<p>${authorHtml}(${article.year}). <span class='journal'>${article.journal}</span>.</p>`;
         }
         
     });
