@@ -24,3 +24,36 @@ The lecture aims to give a broad overview of the basic concepts and results of c
 * Classical results for space and time complexity classes: e.g. the correspondence between games and memory constraints, the proof that with more space or time one can also solve more problems, other fundamental relationships between time and space-based classes, and the complexity world between NP and PSPACE
 * Basic complexity theory of parallel, random, and approximate algorithms
 * Introduction to selected recent topics: Complexity theory of interactive computing, of probabilistic reasoning, and fine-grained complexity
+
+
+Contents
+======
+
+Part A: Classic complexity classes
+  1. Spaces and puzzles
+  2. Alternation and games
+  3. Exponential time and time hierarchy
+  4. Space and reachability
+Part B: Complexity classes below PTIME
+  1. Parallel complexity classes and circuits
+  2. Efficient parallelizability
+  3. The computational power of constant-depth circuits
+  4. Barriers for the computational power of circuits
+Part C: Between PTIME and PSPACE
+  1. The polynomial time hierarchy
+  2. Probabilistic complexity classes
+  3. Counting complexity classes
+  4. Between PTIME and NP
+Interlude: Logic & computational complexity
+Part D: From complexity theory to algorithms
+  1. Approximation algorithms & complexity theory
+  2. Parameterized algorithms
+  3. Parameterized complexity theory
+  4. Fine-grained complexity theory
+Interlude: Communication complexity
+Part E: Interactive computations
+  1. Interactive proof systems
+  2. Artur-Merlin proof systems
+  3. Probabilistically checkable proofs: Introduction
+  4. Probabilistically checkable proofs: Proof of the small PCP theorem
+  5. (Introduction to) Cryptography and zero-knowledge proofs
