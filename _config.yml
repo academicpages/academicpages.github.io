@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "Hu Yunhai / Site Title"
+title                    : "Hu Yunhai / Home Page"
 title_separator          : "-"
 name                     : &name "Hu Yunhai"
 description              : &description "personal description"
