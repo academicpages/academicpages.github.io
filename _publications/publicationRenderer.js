@@ -59,15 +59,18 @@ function generateArticleHtml(articles) {
 
     let html = '<ul>';
     articles.forEach(article => {
-        let authorsArray = article.author.split("and ");
+        let authorsArray = article.author.split(" and ");
         let authorHtml = "";
         authorsArray.forEach((author_, index) => {
-            let name = author_.trim();
-            if (name === "Wei, Dongtao") {
+            let name = convertBibAuthorToApa(author_.trim());
+            if (authorsArray.length > 1) and (index - 1 === authorsArray.length) {
+                authorHtml += ", & "
+            }
+            if (name === "Wei, D.") {
                 if (article.mark == '#') { // first author
                     authorHtml += `<strong>${name}</strong><sup class='hash'>${article.mark}</sup>, `;
                 } else if (article.mark == '*')
-                {authorHtml += `<strong>${name}</strong><sup class='hash'>${article.mark}</sup>, `
+                {authorHtml += `<strong>${name}</strong><sup class='aterisk'>${article.mark}</sup>, `
                 } else { // 
                     authorHtml += `<strong>${name}</strong>`;
                 }
@@ -77,7 +80,7 @@ function generateArticleHtml(articles) {
         });
         authorHtml = authorHtml.trim().replace(/,\s*$/, "");
 
-        html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF]</a></li>`;
+        html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF].</a></li>`;
         if (article.if) {
             html += `<p>${authorHtml}. (${article.year}). <i>${article.journal}</i>(<strong>IF=${article.if}</strong>).</p>`;
         } else {
@@ -89,3 +92,11 @@ function generateArticleHtml(articles) {
     return html
 }
 
+function convertBibAuthorToApa(fullName) {
+
+    let parts = fullName.split(", ");
+    let lastName = parts[0];
+    let firstNames = parts[1] ? parts[1].split(" ").map(name => name.charAt(0).toUpperCase() + ".").join(" ") : "";
+    return `${lastName}, ${firstNames}`;
+
+}
