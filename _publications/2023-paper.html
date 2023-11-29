@@ -5,13 +5,12 @@ permalink: /publication/2023-paper
 ---
 
 <div class="article-container"></div> 
-<script src="./publicationRenderer.js"></script>
+<script src="/_publications/publicationRenderer.js"></script>
 <script>
-    const bibtexURL = './2023-paper.bib';
+    const bibtexURL = '/_publications/2023-paper.bib';
     document.addEventListener('DOMContentLoaded', (event) => {
         fetchAndParseBibtex(bibtexURL).then(parsedData => {
             let htmlContent = generateArticleHtml(parsedData);
-            console.log(htmlContent);
             document.querySelector(".article-container").innerHTML = htmlContent;
         });
     });
