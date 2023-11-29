@@ -9,8 +9,9 @@ author_profile: true
 *Note: Please reach out to me over e-mail for PDFs not attached here/broken links*
 
 ## 2023
-* Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling. Sachin Chauhan, **Zeel B Patel**, Sayan Ranu, Rijurekha Sen, Nipun Batra, In NeurIPS 2023 Datasets and Benchmarks track.
-* Conformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, **Zeel B Patel**, Nipun Batra, In VISxAI workshop 2023, IEEE VIS.
+* Towards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning. Aditi Agarwal, Suraj Jaiswal, Madhav Kanda, Dhruv Patel, Rishabh Mondal, Vannsh Jani, Zeel B Patel, Nipun Batra and Sarath Guttikunda, In [RealWorldML](https://realworldml.github.io/neurips2023/) workshop, NeurIPS 2023 [[PDF]](https://github.com/patel-zeel/patel-zeel.github.io/blob/master/_publications/papers/Zeel_NeurIPS_Workshop_2023.pdf)
+* Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling. Sachin Chauhan, **Zeel B Patel**, Sayan Ranu, Rijurekha Sen, Nipun Batra, In NeurIPS 2023 (Datasets and Benchmarks). [Under Publication]
+* Conformal Prediction: A Visual Introduction. Mihir Agarwal, Lalit Routhu, **Zeel B Patel**, Nipun Batra, In VISxAI workshop 2023, IEEE VIS. [[URL]](https://conformal-prediction.streamlit.app/)
 * Deep Gaussian Processes for Air Quality Inference. Aadesh Desai, Eshan Gujarathi, Saagar Parikh, Sachin Yadav, **Zeel Patel**, Nipun Batra. In CODS-COMAD 2023 Young Researchers Symposium track.
 
 ## 2022
