@@ -15,3 +15,16 @@ Course Description
 
 The course introduces students of non-business studies to the subject of business administration.
 Selected questions on relevant problems of entrepreneurial decisions are presented and discussed by lecturers from various chairs of the Faculty of Economics.
+
+
+Contents
+======
+
+1. Fundamentals
+2. Organisations
+3. Investing
+4. Financing
+5. Procurement
+6. Production
+7. Marketing
+8. Cost accounting
