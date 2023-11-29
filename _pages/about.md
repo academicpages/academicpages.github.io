@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "HuYunhai's academic pages"
+title: "Academic pages of Hu Yunhai"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
