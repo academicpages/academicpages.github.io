@@ -20,3 +20,17 @@ The lecture covers the following topics:
 * Cryptographic basics (brief review of probability theory, information theory, etc.)
 * Provable security
 * Analysis of key exchange protocols with special focus on practical example protocols (like TLS or SSH)
+
+
+Contents
+======
+
+1. Introduction
+2. Key Exchange / Agreement Protocol
+3. Authentication Protocols
+4. Authenticated Key Exchange (AKE)
+5. Transport Layer Security (TLS)
+6. Truncated TLS is a Secure AKE Protocol
+7. The ACCE model
+8. TLS is a Secure ACCE Protocol
+9. One-Round-Key Exchange Protocols (ORKE)
