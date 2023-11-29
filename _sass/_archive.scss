@@ -265,24 +265,24 @@
 
   }
 
-  sup.aterisk {
-    font-size: 28px;
-    vertical-align: text-bottom;
-    line-height: 0;
-    color: chocolate;
-    font-weight: 700;
-  }
-  sup.hash {
-    font-size: 16px;
-    vertical-align: middle;
-    line-height: 0;
-    color: chocolate;
-    font-weight: 700;
-  }
   span.journal {
     color: #9468ED;
     font-weight:400;
     font-style: italic;
   }
-  
+}
+
+sup.asterisk {
+  font-size: 28px;
+  vertical-align: text-bottom;
+  line-height: 0;
+  color: chocolate;
+  font-weight: 700;
+}
+sup.hash {
+  font-size: 16px;
+  vertical-align: middle;
+  line-height: 0;
+  color: chocolate;
+  font-weight: 700;
 }

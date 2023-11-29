@@ -70,7 +70,7 @@ function generateArticleHtml(articles) {
                 if (article.mark == '#') { // first author
                     authorHtml += `<strong>${name}</strong><sup class='hash'>${article.mark}</sup>, `;
                 } else if (article.mark == '*')
-                {authorHtml += `<strong>${name}</strong><sup class='aterisk'>${article.mark}</sup>, `
+                {authorHtml += `<strong>${name}</strong><sup class='asterisk'>${article.mark}</sup>, `
                 } else { // 
                     authorHtml += `<strong>${name}</strong>, `;
                 }
