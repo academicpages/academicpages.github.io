@@ -63,7 +63,7 @@ function generateArticleHtml(articles) {
         let authorHtml = "";
         authorsArray.forEach((author_, index) => {
             let name = convertBibAuthorToApa(author_.trim());
-            if (authorsArray.length >  1 && index - 1 === authorsArray.length) {
+            if (authorsArray.length >  1 && index === authorsArray.length - 1) {
                 authorHtml += ", & ";
             }
             if (name === "Wei, D.") {
