@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hu Yunhai"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Yangpu District, Shanghai, China"
   employer         : "BiliBili Inc."
