@@ -72,10 +72,10 @@ function generateArticleHtml(articles) {
                 } else if (article.mark == '*')
                 {authorHtml += `<strong>${name}</strong><sup class='aterisk'>${article.mark}</sup>, `
                 } else { // 
-                    authorHtml += `<strong>${name}</strong>`;
+                    authorHtml += `<strong>${name}</strong>, `;
                 }
             } else {
-                authorHtml += `${name}`;
+                authorHtml += `${name}, `;
             }
         });
         authorHtml = authorHtml.trim().replace(/,\s*$/, "");
