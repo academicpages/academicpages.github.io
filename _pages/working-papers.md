@@ -32,7 +32,7 @@ author_profile: true
   - with Bidisha Chakrabarty, Jalaj Pathak and Raghavendra Rau
 3. The semantic complexity of Federal Reserve communication
   - with Hitesh Doshi and Jalaj Pathak
-4. Who cares about climate risk? An investigation of board gender diversity and climate discussion in corporate risk disclosures of globalized firms?
+4. Who cares about climate risk? An investigation of board gender diversity and climate discussion in corporate risk disclosures of globalized firms
   - with Aaron Hill, Jalaj Pathak and Arun Upadhyay
 5. US banks' exposure to common banking factors
   - with John Cotter
