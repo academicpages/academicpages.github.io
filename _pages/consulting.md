@@ -18,6 +18,7 @@ I also frequently give workshops/presentations on the aforementioned topics, mos
 * Active Learning in Mathematics
 * Course Policies and Practices for Inclusive Teaching
 * Collaborative Learning in Mathematics Classrooms
+* Promoting Wellbeing in STEM Classrooms
 * Rehumanizing Assessment: Outcomes-Based Grading 
 * An Introduction to Team-Based Learning
 
