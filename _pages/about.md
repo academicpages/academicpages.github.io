@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my page! 
 
-I am a Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (**MIT**). My research interests lie in **public, labor, and organizational economics**, in the context of **lower-income countries**. I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
+I am a Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (**MIT**). My research primarily focuses on the interplay between technology and firms in lower-income countries, especially in Francophone West Africa. I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo. My dissertation explores the adoption and impacts of different types of technologies on small and medium-sized businesses, with a particular emphasis on digital technologies, which have seen rapid growth in Africa over the past decade. 
 
 ## Research
 ### Selected Work in Progress
@@ -20,6 +20,8 @@ I am a Ph.D. student in the Department of Economics at the Massachusetts Institu
 - [Technology Adoption, Informal Contracts and Development: Evidence from digitizing payments in the Senegalese taxi industry](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
 
 - Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
+
+- Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles)
 
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
