@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WE Lab <br> of Emotion Representation and Prediction"
+title                    : "WE Lab"
 title_separator          : "&#124;"
 name                     : &name "Welab"
 description              : &description "personal description"
