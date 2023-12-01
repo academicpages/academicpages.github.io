@@ -84,7 +84,7 @@ author:
   avatar           : "my_logo.jpeg"
   bio              : "Senior research associate@LUMS|Co-founder of FinCatch|PhD@HKUST|Data science|Avaition|FinTech"
   location         : "Hong Kong/UK"
-  employer         : "LUMS"
+  employer         : #"LUMS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "gonamlui@gmail.com"
