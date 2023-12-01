@@ -14,7 +14,7 @@ tags:
 
 PhD thesis proposal. What a strange way of putting it, isn't it? Don't run away, it's just a two-page document that explains what I want to do during my PhD thesis. The document is available below but I wouldn't be surprised if you didn't want to read it so here is a short summary.
 
-> If you want to have a look at my PhD thesis, it's [over here]("jeromemaquoi.github.io/files/PhD_thesis_proposal.pdf") !
+> If you want to have a look at my PhD thesis, it's [over here](jeromemaquoi.github.io/files/PhD_thesis_proposal.pdf) !
 
 <img src="/images/this-is-fine.jpg" style="display: block; margin: auto;" width="500"/>
 
