@@ -50,6 +50,8 @@
               <span class="short">{{post.track}}</span>
             {% elsif post.track == 'Journal paper' %}
               <span class="journal">{{post.track}}</span>
+            {% elsif post.track == 'Thesis' %}
+              <span class="book">{{post.track}}</span>
             {% else %}
               <span class="demo">{{post.track}}</span>
             {% endif %}

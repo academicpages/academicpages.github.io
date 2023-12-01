@@ -46,6 +46,8 @@ layout: default
               <span class="short">{{page.track}}</span>
             {% elsif page.track == 'Journal paper' %}
               <span class="journal">{{page.track}}</span>
+            {% elsif page.track == 'Thesis' %}
+              <span class="book">{{page.track}}</span>
             {% else %}
               <span class="demo">{{page.track}}</span>
             {% endif %}
