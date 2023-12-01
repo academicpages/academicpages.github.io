@@ -39,7 +39,7 @@ Teaching Experience
 
 Service and Leadership
 ======
-* WCRP Coupled Model Intercomparison Project (2023-Present)
+* WCRP-CMIP7 (2023-Present)
   * Data Analysis Working Group Member
 * AGU Fall Meeting (2023)
   * Session Convener for PP036: Understanding Past Climates and Environments of Monsoon Asia and the Indo-Pacific (Primary Liason) 
