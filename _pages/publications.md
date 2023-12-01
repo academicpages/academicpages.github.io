@@ -35,8 +35,11 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 ## Conference Proceedings
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
+Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
 IEEE Symposium on Security and Privacy. 2024.\
-(To Appear)
+[https://eprint.iacr.org/2023/1848.pdf](https://eprint.iacr.org/2023/1848.pdf)\
+<sup>*</sup>= Equal contribution
+
 
 10. **Registered (Inner-Product) Functional Encryption**\
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
