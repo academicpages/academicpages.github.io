@@ -36,3 +36,9 @@ author_profile: true
   - with Aaron Hill, Jalaj Pathak and Arun Upadhyay
 5. US banks' exposure to common banking factors
   - with John Cotter
+6. Central bank and finance ministry alignment: Evidence from public speeches 
+  - with Murali Srinivasan, Jalaj Pathak and Kunal Biswas
+7. Does the operational tone of IPO-bound firms' disclosure matter?
+  - with Tarun Jain and Jalaj Pathak
+8. Related party transaction in India: Trends and determinants
+  - with Narendra Kushwaha and Arun Upadhyay
