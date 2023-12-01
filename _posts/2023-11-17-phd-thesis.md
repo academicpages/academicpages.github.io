@@ -27,7 +27,7 @@ During my PhD thesis, I want to study this field and to build a theory that bind
 3. Make the information available for the developers
 4. Evaluate the 3 points above through the development of a framework for the developers
 
-That's it! ""All"" that's left is to do it. What have I got myself into ? We'll see next time!
+That's it! "All" that's left is to do it. What have I got myself into ? We'll see next time!
 
 [^1]: H.-O. Pörtner, D. C. Roberts, E. Poloczanska, et al., “Ipcc, 2022: Summary for policymakers,” 2022.
 [^2]: R. Verdecchia, P. Lago, C. Ebert, and C. De Vries, “Green it and green software,” IEEE Software, vol. 38, no. 6, pp. 7–15, 2021.
