@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 Hi, I'm Paschal *(pas-kal)*.  
-I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/).
+I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/) and [Prof Aravind Machiry](https://machiry.github.io/).
 
 ## Research Interests
 My research sits at the intersection of software engineering, security and cyber-physical systems. I work to improve the security and safety of embedded systems, through well-engineered software.
