@@ -8,8 +8,8 @@ author_profile: true
 
 Manuscripts
 ======
-*Denotes shared first-author
-1. Ummenhofer CC*, **Wang S***, Denniston RF, Murty SA Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (in prep)
+\*Denotes shared first-author
+1. Ummenhofer CC\*, **Wang S**\*, Denniston RF, Murty SA Indo-Pacific basin interactions drove tropical rain belt width over the last millennium (in prep)
 2.  **Wang S**, Ummenhofer CC, Murty SA, Nguyen HT, Buckley B Quantifying the drivers of Southeast Asia rainfall extremes on decadal timescales (in prep)
 3. Willis C, **Wang S**, Walsh A, Jahns M, Halloran K, Bhatt E, (2023) Student-led mentoring system to lower barriers for graduate school applications (accepted at *Oceanography*)
 4. Oppo DW, Lu W, Huang KF, Umling NE, Guo W, Yu J, Curry WB, Marchitto T, **Wang S** (2023) Deglacial temperature and carbonate saturation state variability in the tropical Atlantic at Antarctic Intermediate Water Depths. *Paleoceanography and Paleoclimatology* [Reprint](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2023PA004674)
