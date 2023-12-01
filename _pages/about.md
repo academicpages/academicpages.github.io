@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Big data and AI technologies, from aviation to FinTech"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
