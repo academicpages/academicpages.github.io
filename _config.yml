@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kahfi Soobhan Zulkifli / Personal Website"
+title                    : "Kahfi Soobhan Zulkifli"
 title_separator          : "-"
-name                     : &name "Kahfi"
+name                     : &name "Kahfi Soobhan Zulkifli"
 description              : &description "Future expert in computer systems"
 url                      : https://kahfizulkifli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kahfi"
-  avatar           : "profile.png"
+  name             : "Kahfi Soobhan Zulkifli"
+  avatar           : "IMG_2893.JPG"
   bio              : "Future expert in computer systems"
   location         : "Jakarta, Indonesia"
   employer         :
@@ -309,3 +309,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+github: [metadata]
