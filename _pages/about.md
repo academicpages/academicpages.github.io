@@ -13,7 +13,7 @@ Hi, I'm Paschal *(pas-kal)*.
 I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/) and [Prof Aravind Machiry](https://machiry.github.io/).
 
 ## Research Interests
-My research sits at the intersection of software engineering, security and cyber-physical systems. I work to improve the security and safety of embedded systems, through well-engineered software.
+My research sits at the intersection of software engineering, security, and cyber-physical systems. I improve the security of software systems by studying prevalent security vulnerabilities and designing novel and practical systems to detect them or prevent their exploitation.
 
 ## Personal
 Fun facts about me
@@ -29,6 +29,7 @@ Fun facts about me
 - **May 2023:** I just got elected as a Senator representing ECE at the *Purdue Graduate Students Senate* for the 2023/2024 academic session
 - **May 2023:** I will be interning at Google over this summer as a Student Researcher.
 - **Nov 2022:** I will be attending *ESEC/FSE 2022* at Singapore, through an ACM-funded travel grant.
+- **Aug 2022:** Our paper, _Reflections on Software Failure Studies_, just got accepted to the _Ideas, Vision and Reflections_ track of **ESEC/FSE 2022**.
 - **May 2022:** I will be attending *ICSE 2022* at Pittsburg, through an NSF-funded travel grant.
 - **April 2022:** I won the *2022 Magoon Excellence in Teaching award*, from Purdue's college of engineering.
 - **Feb 2022:** Our short paper, *"Experience paper: A first offering of Software Engineering"* just got accepted to *DREE 2022*
