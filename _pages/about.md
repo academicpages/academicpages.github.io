@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a PhD candidate in the MIT-WHOI Joint Program in Oceanography, co-advised by [Caroline Ummenhofer](https://ummenhofer.whoi.edu/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). I am interested in climate dynamics and variability on interannual to centennial timescales. 
+Hello! I am a PhD candidate in the MIT-WHOI Joint Program in Oceanography, co-advised by [Caroline Ummenhofer](https://ummenhofer.whoi.edu/) and [Delia Oppo](https://www2.whoi.edu/staff/doppo/). My PhD research is focused on understanding low-frequency (decadal to centennial timescales) climate variability in the tropical Indian and Pacific Oceans as well as related impacts on the hydrological cycle. My main tools of analysis are earth system models of varying complexity along with paleoclimate archives.
 
-My doctoral thesis is aimed at understanding variability in the Indo-Pacific, focusing on atmospheric and oceanic circulation along with regional hydroclimate. In my research, I utilize climate models, observations, and paleoclimate archives to understand past and present climate conditions to better inform future projections. Outside of research, I enjoy playing tennis, skiing in the winter, and rock climbing. 
+I received my Bachelors in Chemistry from Columbia University in 2018. Outside of research, I enjoy playing tennis, skiing in the winter, and rock climbing. 
