@@ -16,7 +16,7 @@ I received my Bachelor's Degree in Computer Science from [Beijing University of 
 
 I have worked on mobile computer systems under the supervision of [Prof. Mengwei Xu, BUPT](https://xumengwei.github.io/) and [Dr. Ting Cao, Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/ticao/).
 
-I have worked on dynamic graph algorithms as a visiting student at [the University of British Columbia](https://ece.ubc.ca/) under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/), which was supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/).
+I have worked on dynamic graph algorithms as a visiting student at the [University of British Columbia](https://ece.ubc.ca/) under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/), which was supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/).
 
 # NEWS
 
