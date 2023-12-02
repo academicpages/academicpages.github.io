@@ -96,7 +96,8 @@ function convertBibAuthorToApa(fullName) {
 
     let parts = fullName.split(", ");
     let lastName = parts[0];
+    let lastNameFormatted = lastName.charAt(0).toUpperCase() + lastName.slice(1).toLowerCase();
     let firstNames = parts[1] ? parts[1].split(" ").map(name => name.charAt(0).toUpperCase() + ".").join(" ") : "";
-    return `${lastName}, ${firstNames}`;
+    return `${lastNameFormatted}, ${firstNames}`;
 
 }
