@@ -50,6 +50,18 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+    {% if post.collection == 'publications' %}
+      <div id="article-container-{{ post.title }}" class="article-container"></div>
+      <script>
+          document.addEventListener('DOMContentLoaded', (event) => {
+              fetchAndParseBibtex('{{ post.title }}-paper.bib').then(parsedData => {
+                  let htmlContent = generateArticleHtml(parsedData);
+                  document.getElementById("article-container-{{ post.title  }}").innerHTML = htmlContent;
+              });
+          });
+      </script>
+    {% endif %}
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
