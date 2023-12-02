@@ -2,7 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-excerpt: "<sup class='hash'>#</sup>co-first auther; <sup class='asterisk'>*</sup>corresponding auther"
+excerpt: "<sup class='hash'>#</sup>co-first author; <sup class='asterisk'>*</sup>corresponding author"
 author_profile: true
 ---
 
