@@ -89,6 +89,7 @@ function generateArticleHtml(articles) {
         
     });
     html += '</ul>';
+    console.log('here html: ', html)
     return html
 }
 
