@@ -1,0 +1,16 @@
+---
+title: "2022"
+collection: publications
+permalink: /publication/2022-paper
+---
+
+<div class="article-container"></div> 
+<script>
+    const bibtexURL = '/publications/2022-paper.bib';
+    document.addEventListener('DOMContentLoaded', (event) => {
+        fetchAndParseBibtex(bibtexURL).then(parsedData => {
+            let htmlContent = generateArticleHtml(parsedData);
+            document.querySelector(".article-container").innerHTML = htmlContent;
+        });
+    });
+</script>
