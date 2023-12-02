@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : Junjie Liu # "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : Undergraduate student, School of Computer Science, Beijing University of Posts and Telecommunications # "Your biography for the left-hand sidebar"
-  location         : "Beijing, China" # "Location"
+  avatar           : "profile.jpg"
+  bio              : PhD student, CSE, HKUST # "Your biography for the left-hand sidebar"
+  location         : "Hong Kong SAR" # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

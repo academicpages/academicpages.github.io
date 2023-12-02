@@ -8,21 +8,29 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student of computer science at [Beijing University of Posts and Telecommunications(BUPT)](http://www.bupt.edu.cn/). 
+My current research interests are recommender systems, fairness, and time series.
 
-I will be a Ph.D student of computer science and engineering at [The Hong Kong University of Science and Technology(HKUST)](https://hkust.edu.hk/) in the fall of 2023 under the advice of [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/).
+I am currently a Ph.D student in Computer Science and Engineering at [HKUST](https://hkust.edu.hk/) since the fall of 2023 under the supervision of [Prof. Raymond Wong](https://www.cse.ust.hk/~raywong/).
 
-I am working on my final year project under the advice of Prof. Raymond Wong, HKUST and [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao), BUPT.
+I received my Bachelor's Degree in Computer Science from [Beijing University of Posts and Telecommunications(BUPT)](http://www.bupt.edu.cn/), and my final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
 
-Supported by [BUPT](http://www.bupt.edu.cn/) Computer Science and Technology experimental class, which is an elite program, my current research interest is in mobile computer systems under the advice of [Prof. Mengwei Xu](https://xumengwei.github.io/). Our project cooperates with [Dr. Ting Cao](https://www.microsoft.com/en-us/research/people/ticao/) of [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/).
+I have worked on mobile computer systems under the supervision of [Prof. Mengwei Xu, BUPT](https://xumengwei.github.io/) and [Dr. Ting Cao, Microsoft Research Asia](https://www.microsoft.com/en-us/research/people/ticao/).
 
-Jointly supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/), I am now a visiting student at [the Department of Electrical and Computer Engineering at the University of British Columbia](https://ece.ubc.ca/) and my research interest is dynamic graph algorithms under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/).
+I have worked on dynamic graph algorithms as a visiting student at [the University of British Columbia](https://ece.ubc.ca/) under the supervision of [Prof. Matei Ripeanu](https://people.ece.ubc.ca/matei/), which was supported by [Mitacs globalink research internship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) and [China Scholarship Council](https://www.csc.edu.cn/).
 
 # NEWS
 
 ## Paper is on the way
 
 Our paper ["Scalable Realtime Physically-Based Animation on Mobile Platforms"]() is on the way.
+
+## Won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing Ordinary Colleges and Universities, December 13, 2023
+
+My final year project "Research on Fairness of Top-k Based on Interactive Search" won the Outstanding Undergraduate Graduation Design (Thesis) of Beijing University of Posts and Telecommunications and Beijing Ordinary Higher Educational Institutions under the supervision of [Prof. Jingyu Wang](https://scholar.google.com/citations?user=H441DjwAAAAJ&hl=zh-CN&oi=ao).
+
+## Received the award of Outstanding Undergraduate Graduation of Beijing Ordinary Colleges and Universities, July 1, 2023
+
+I was awarded the honorary title of Outstanding Undergraduate Graduation of Beijing University of Posts and Telecommunications and Beijing Ordinary Colleges and Universities.
 
 ## Received and accepted an official Ph.D offer from The Hong Kong University of Science and Technology, December 10, 2022
 
