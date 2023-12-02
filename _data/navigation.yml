@@ -1,11 +1,11 @@
 # main links links
 main:
-  - title: "People"
-    url: /people/
-
   - title: "Research"
     url: /research/
 
+  - title: "People"
+    url: /people/
+    
   - title: "Publications"
     url: /publications/
         
