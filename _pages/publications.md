@@ -13,5 +13,14 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <div id="article-container-{{ post.title }}" class="article-container"></div>
+  <script>
+      document.addEventListener('DOMContentLoaded', (event) => {
+          fetchAndParseBibtex('{{ post.title }}-paper.bib').then(parsedData => {
+              let htmlContent = generateArticleHtml(parsedData);
+              document.getElementById("article-container-{{ post.title  }}").innerHTML = htmlContent;
+          });
+      });
+  </script>
 {% endfor %}
+
