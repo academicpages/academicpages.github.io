@@ -3,13 +3,3 @@ title: "2022"
 collection: publications
 permalink: /publication/2022
 ---
-
-<div id='2022-papers' class="article-container"></div> 
-<script>
-    document.addEventListener('DOMContentLoaded', (event) => {
-        fetchAndParseBibtex('/publications/2022-paper.bib').then(parsedData => {
-            let htmlContent = generateArticleHtml(parsedData);
-            document.querySelector(".article-container").innerHTML = htmlContent;
-        });
-    });
-</script>
