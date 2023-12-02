@@ -1,11 +1,12 @@
 ---
 title: "2023"
 collection: publications
-permalink: /publication/2023-paper
+permalink: /publication/2023
 ---
 
-<div class="article-container"></div> 
+<div id='2023-papers' class="article-container"></div> 
 <script>
+
     document.addEventListener('DOMContentLoaded', (event) => {
         fetchAndParseBibtex('/publications/2023-paper.bib').then(parsedData => {
             let htmlContent = generateArticleHtml(parsedData);
