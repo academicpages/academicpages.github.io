@@ -80,7 +80,7 @@ function generateArticleHtml(articles) {
         });
         authorHtml = authorHtml.trim().replace(/,\s*$/, "");
 
-        html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="${article.pdflink}">[PDF].</a></li>`;
+        html += `<li><a class='article-link' target='_blank' href='https://doi.org/${article.doi}'>${article.title}</a><a class='pdf-link' target='_blank' href="/files/${article.pdflink}">[PDF].</a></li>`;
         if (article.if) {
             html += `<p>${authorHtml} (${article.year}). <span class='journal'>${article.journal}</span>(<strong>IF=${article.if}</strong>).</p>`;
         } else {
