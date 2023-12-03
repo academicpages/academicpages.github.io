@@ -38,7 +38,7 @@ Recently, I more focus on:
   <small> Note that: At the present stage, I am exploring how to fine-tune a large language model (LLM) that can autonomously (without human-provided prompts) initiate chain-of-thought and self-reflection processes, akin to human-like machines, in order to perform long-horizon reasoning and achieve better generalization. </small>
   -->
 
-AGI has yet to come, so let's keep running.
+
 
 <!--You can find my CV [here](/cv/).-->
 
