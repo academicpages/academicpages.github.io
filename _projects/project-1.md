@@ -7,7 +7,13 @@ tags: design, machine
 
 ![Two-Axis Tilting Rotary Table](/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png)
 
-This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill or double column mill, where the x-axis will travel underneath the y-axis and mill spindle. This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics and systems integration.
+This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the x-axis and rotary axes will travel underneath the y-axis and mill spindle, as shown below. 
+
+![5-Axis CNC Bridge Mill](/images/Mill Render 1_w400.jpg)
+
+*Early machine concept*
+
+This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics and systems integration.
 
 ###### Design
 
@@ -26,10 +32,14 @@ Shown below are several section views showing internal components and design ele
 
 *3D model showing 750W servo motor with absolute encoder and support bearing* 
 
-
-
 ![Two-axis trunnion 2](/images/2 Axis Trunnion Render 2_wLabels_w500.jpg)
+
+*Integrated 200W rotary table servo motor and 80:1 harmonic drive*
 
 ![Two-axis trunnion 3](/images/2 Axis Trunnion Render 3_wLabels_w500.jpg)
 
+*Pneumatic brake construction with large diameter piston for high clamping force*
+
 ![Two-axis trunnion 4](/images/2 Axis Trunnion Render 4_wLabels_w500.jpg)
+
+*5 inch diameter rotary table using oversized needle roller thrust bearings for smooth motion and high stiffness*
