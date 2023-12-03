@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Towards Prescriptive Analyses of Querying Large Knowledge Graphs"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper investigates how to enable prescriptive analytics for processing large KGs via ranking functions (called “BenchRank”)'
+date: 2023-08-29
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/978-3-031-15743-1_59.pdf?pdf=inline%20link'
+citation: 'Ragab, M. (2022). Towards Prescriptive Analyses of Querying Large Knowledge Graphs. In: Chiusano, S., et al. New Trends in Database and Information Systems. ADBIS 2022. Communications in Computer and Information Science, vol 1652. Springer, Cham. https://doi.org/10.1007/978-3-031-15743-1_59'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+In this paper, we discuss how our work fills this timely research gap. Particularly, we investigate how to enable prescriptive analytics via ranking functions (called “BenchRank”). We present a research plan that builds on the state-of-the-art benchmarking efforts in the area of querying large RDF graphs. Finally, we present our research results of the proposed plan.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-15743-1_59)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+<!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
