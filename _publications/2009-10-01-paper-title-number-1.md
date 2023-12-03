@@ -2,7 +2,7 @@
 title: "Using Wearable Brain Sensing Glasses during Zero-G Flight for Hyperscanning: Preliminary Study"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Portable, wireless EEG and EOG device to simultaneously record brain activity in ecologically natural settings of parabolic flights'
 date: 2023-10
 venue: 'ASCEND 2023'
 paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2023-4656'
