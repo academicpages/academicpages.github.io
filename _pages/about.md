@@ -21,21 +21,23 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 * <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). <small>Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models. </small>
 -->
 
-My research spans the areas of natural language processing and machine learning, specifically focusing on <b>LLMs</b>. My goal is to advance LLMs into the next-generation computational platforms capable of autonomously accomplishing long-horizon tasks according to users' desires. Thus, I am broadly interested in the following topics:
+My research spans the areas of natural language processing and machine learning, specifically focusing on <b>LLMs</b>. <!--
+My goal is to advance LLMs into the next-generation AI system capable of autonomously accomplishing long-horizon tasks according to users' desires. Thus, I am broadly interested in the following topics:
+-->
 <!-- 
 To achieve this goal, LLMs should be *comprehend instructions and efficiently adapt to downstream tasks*, *interact with the external world to devise optimal strategies*, and *reliably execute strategies and accomplish goals autonomously in alignment with human intentions*.
 --->
 
 
-* <b>Computational Efficiency Tuning</b> Develop theories, tools, and algorithms to tune LLMs, enabling them to efficiently adapt to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient methods: LoRa, Adapter, etc.;  instruction tuning) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
+* <b>Computational Efficiency Tuning</b> Develop theories, tools, and algorithms to tune LLMs, enabling them to efficiently adapt to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient methods: LoRa, Adapter, etc.; instruction tuning) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
 <!--Recently, I more focus on <b>interactable and reliable</b> part:-->
 
 Recently, I am more interested in and focus on:
 
-* <b>Interactive AI Agent.</b> Developing agents (based on LLMs) that can autonomously interact with the external (environment/human) to acquire new knowledge ([CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)), retrieve memory, and self-improve to drive the long-horizon decision-making and accomplish more complex tasks in real-world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
+* <b>Interactive AI Agent.</b> Developing agents (based on LLMs) that can autonomously retrieve memory and interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)). <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
-* <b>AI Alignment ([scalable oversight]).</b> Designing AI systems to understand ([Model Emotion](https://arxiv.org/abs/2302.09582)), control, evaluate ([Chateval](https://arxiv.org/abs/2308.07201)), and train another AI system that smarter than human.
+* <b>AI Alignment ([scalable oversight]).</b> Designing AI systems to understand ([Model Emotion](https://arxiv.org/abs/2302.09582)), control, evaluate ([Chateval](https://arxiv.org/abs/2308.07201)), and train/guide another AI system that smarter than human.
   <!--
   <small> Note that: At the present stage, I am exploring how to fine-tune a large language model (LLM) that can autonomously (without human-provided prompts) initiate chain-of-thought and self-reflection processes, akin to human-like machines, in order to perform long-horizon reasoning and achieve better generalization. </small>
   -->
