@@ -3,8 +3,8 @@ title: "Towards Prescriptive Analyses of Querying Large Knowledge Graphs"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper investigates how to enable prescriptive analytics for processing large KGs via ranking functions (called “BenchRank”)'
-date: 2023-08-29
-venue: 'Journal 1'
+date: 2022-08-29
+venue: '26th International Conference on Advances in Databases and Information Systems'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/978-3-031-15743-1_59.pdf?pdf=inline%20link'
 citation: 'Ragab, M. (2022). Towards Prescriptive Analyses of Querying Large Knowledge Graphs. In: Chiusano, S., et al. New Trends in Database and Information Systems. ADBIS 2022. Communications in Computer and Information Science, vol 1652. Springer, Cham. https://doi.org/10.1007/978-3-031-15743-1_59'
 ---
