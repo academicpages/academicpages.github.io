@@ -29,10 +29,6 @@ My goal is to advance LLMs into the next-generation AI system capable of autonom
 To achieve this goal, LLMs should be *comprehend instructions and efficiently adapt to downstream tasks*, *interact with the external world to devise optimal strategies*, and *reliably execute strategies and accomplish goals autonomously in alignment with human intentions*.
 --->
 
-
-Although LLMs demonstrate impressive capabilities, they still required to be tuned on human-annotated (\textit{instruction tuning}) or task-specific (\textit{task-specific tuning}) data to better understand input instruction and efficiently adapt to downstream tasks, which incurs significant computational costs. Thus, I develop theories, tools, and algorithms to tune LLMs to achieve this goal in a computationally friendly manner.
-
-
 * <b>Computational Efficiency Tuning</b> Develop theories, tools, and algorithms to tune LLMs, enabling them to better understand human's instruction and efficiently adapt to downstream tasks in a computation-friendly manner. (e.g., parameter-efficient methods: LoRa, Adapter, etc.; instruction tuning) ([Prompt Transferability](https://aclanthology.org/2022.naacl-main.290/), [IPT](https://arxiv.org/abs/2110.07867), [Parameter-efficient Fine-tuning Survey](https://arxiv.org/abs/2203.06904), [APET](https://openreview.net/forum?id=3CIQIYNGlp)).
 
 <!--Recently, I more focus on <b>interactable and reliable</b> part:-->
