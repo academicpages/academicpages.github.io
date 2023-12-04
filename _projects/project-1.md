@@ -52,12 +52,12 @@ Shown below are several section views showing internal components and design ele
 
 *Exploded view of rotary table brake components*
 
-For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff 
-
-[flexure]: https://en.wikipedia.org/wiki/Flexure
-
-. This brake rotor shifts axially when air is applied to clamp the brake. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
+For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff [flexure](https://en.wikipedia.org/wiki/Flexure). When air is applied the brake rotor shifts axially to clamp the brake rotor against the brake pad and drive pulley. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides stiff and backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
 
 ![Two-axis rotary table brake enlarged](/images/2 Axis Trunnion Brake Explode_wLabels_w600.jpg)
 
 *Enlarged image of brake rotor and brake piston*
+
+![Two-axis rotary table brake rotor](/images/2 Axis Trunnion Brake Rotor Explode_w600.jpg)
+
+*Brake rotor flexure assembly*
