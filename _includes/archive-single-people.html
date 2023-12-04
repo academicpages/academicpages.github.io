@@ -26,12 +26,13 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
+    <h2 style="color: rgb(241, 109, 21);">
+      {{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}
+      <!-- {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
+      {% endif %} -->
     </h2>
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -42,7 +43,30 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
+    {% assign data_set = site.data[post.data] %}
+    {% if data_set %}
+      {% for person in data_set %}
+        {% assign css_class = forloop.index | modulo: 2 %}
+        {% if post.title == 'Current Students' %}
+          <div class="lab-member-{{ css_class | replace: '0', 'even' | replace: '1', 'odd' }}">
+        {% elsif post.title == 'Alumni' %}
+          <div class="lab-member-{{ css_class | replace: '0', 'odd' | replace: '1', 'even' }}">
+        {% endif %}
+          <div class="member-info">
+            <h2>{{ person.name }}</h2>
+            <p class="email-text"><strong>Email:</strong> {{ person.email }}</p>
+            <p class="member-description">{{ person.description }}</p>
+          </div>
+          <div class="member-photo">
+            {% if post.title == 'Alumni' %}
+              <img src="/images/alumni/{{ person.imageUrl }}" alt="{{ person.name }}" />
+            {% elsif post.title == 'Current Students' %}
+              <img src="/images/current-students/{{ person.imageUrl }}" alt="{{ person.name }}" />
+            {% endif %}
+          </div>
+        </div>
+      {% endfor %}
+    {% endif %}
 
   </article>
 </div>

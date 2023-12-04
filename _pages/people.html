@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "People"
+title: "Lab members"
 permalink: /people/
 ---
 
 {% include base_path %}
 
-{% for post in site.people %}
+{% for post in site.people reversed%}
   {% include archive-single-people.html %}
 {% endfor %}
-

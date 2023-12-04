@@ -286,3 +286,83 @@ sup.hash {
   color: chocolate;
   font-weight: 700;
 }
+
+
+// Define a mixin for flex centering to avoid repetition
+@mixin flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+// Common styles for both odd and even containers
+%common-lab-member {
+  @include flex-center;
+  padding: 5px;
+  max-width: 95%;
+  margin: 10px auto;
+
+  .member-info {
+    flex: 3;
+    padding: 5px;
+
+    h2 {
+      margin: 0;
+      padding: 5px;
+    }
+
+    .email-text {
+      font-weight: bold;
+      }
+
+    .member-description {
+      text-align: justify;
+      color: #cb4b16
+      }
+      
+      // Style for paragraph if needed
+
+  }
+
+  .member-photo {
+    flex: 2;
+    padding: 5px;
+    @include flex-center;
+
+    img {
+      max-width: 80%;
+      height: auto;
+    }
+  }
+}
+
+// Specific styles for odd and even containers
+.lab-member-odd {
+  @extend %common-lab-member;
+  background-color: #96bfca;
+  flex-direction: row;
+
+  .member-info {
+    margin-left: 10px;
+
+    h2, .email-text { // Align only h2 and p containing strong
+      text-align: left;
+    }
+
+  }
+}
+
+.lab-member-even {
+  @extend %common-lab-member;
+  background-color: rgb(227, 221, 213);
+  flex-direction: row-reverse;
+
+  .member-info {
+    margin-right: 10px;
+
+    h2,  .email-text {
+      // 保持左对齐
+      text-align: right;
+    }
+  }
+}

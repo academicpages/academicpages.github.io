@@ -1,0 +1,41 @@
+- name: "Yu Liu"
+  email: "liuyu21@m.fudan.edu.cn"
+  description: |
+    Liu Yu has graduated from the Departmental and Educational of Psychology at Southwest University as a master. 
+    He's studying for his PhD in The Institute of Science and Technology for Brain-inspired Intelligence at Fudan University. 
+    Her current research focuses on adolescent development and psychiatry.
+  imageUrl: "YuLiu.jpg"
+
+- name: "Jun Hu"
+  email: "hu_jun@stu.pku.edu.cn"
+  description: |
+    Jun Hu has graduated from the Faculty of Psychology at Southwest University as a master. 
+    His main research interest during his master's degree was to explore the mechanisms by which emotion regulation 
+    affects mental health in stressful situations based on the experience sampling method (ESM) and fMRI. 
+    Now, he is a PhD student at the School of Psychological and Cognitive Sciences, Peking University. 
+    His current research focuses on stress mindsets, stress coping and mental health using ESM, RCT and fMRI. 
+    He enjoys living an active lifestyle - through swimming, biking, rock climbing, and badminton.
+  imageUrl: "JunHu.jpg"
+
+- name: "Qian Luo"
+  email: "lq15182301202@163.com"
+  description: |
+    Luo Qian has graduated from the Department of Applied Psychology at Southwest University in June 2023. 
+    During her master years, she was mainly engaged in the research of interoception and anxiety, mainly using physiological polygraph 
+    and EEG technology. She is currently working at the Western China institute of Children's Brain and Cognitive of Chongqing 
+    University of Education, mainly using EEG technology to study the attention span ability of children aged 7-12.
+  imageUrl: "QianLuo.jpg"
+
+- name: "Jiahui Liu"
+  email: "52273200027@stu.ecnu.edu.cn"
+  description: |
+    Jiahui Liu has graduated from the Departmental and Educational of Psychology at Southwest University as a master and 
+    conducted research on social cognition using computational model and fMRI during her master years. 
+    She's studying for her PhD in Psychology and Cognitive Science at East China Normal University. 
+    Her current research focuses on impression management and social decision-making using computational model and fMRI.
+  imageUrl: "JiahuiLiu.jpg"
+
+- name: "Yi Zhang"
+  email: "none"
+  description: "cpdd"
+  imageUrl: "YiZhang.jpg"

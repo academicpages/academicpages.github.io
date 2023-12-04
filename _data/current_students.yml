@@ -1,0 +1,75 @@
+- name: "Yulin Chen"
+  email: "chenyulin@email.swu.edu.cn"
+  description: |
+    Chenyulin is currently interested in researching the developmental trajectory of social and separation anxiety in children and adolescents, 
+    as well as its brain function and structural basis. To address these issues, she employs a combination of behavioral and neuroimaging techniques. 
+    In her leisure time, she enjoys listening to music and podcasts, watching movies, hiking, and visiting parks.
+  imageUrl: "Chenyulin.jpg"
+
+- name: "Zihan Xu"
+  email: "xzh7927@163.com"
+  description: |
+    Zihan Xu has graduated with a bachelor's degree in Primary education from Zhejiang International Studies University. 
+    Currently, she is pursuing a master's degree in Developmental and Educational Psychology at Southwest University. 
+    Her current research interests are focused on Emotional concepts and their mechanisms, especially in people with depression. 
+    In her free time, she likes to go out for a walk and make some desserts for herself, she is curious about everything, 
+    and she really wants to try all kinds of hobbies.
+  imageUrl: "ZihanXU.jpg"
+
+- name: "Rui Tao"
+  email: "2841254502@qq.com"
+  description: |
+    My current focus revolves around the semantic representation of emotional concepts and their neural mechanisms. 
+    Delving into the intricate web of emotions, I am passionate about unraveling the underlying neural processes that govern our emotional experiences.
+    Beyond the confines of academia, I find solace and inspiration in the wonders of nature – the vibrant hues of flowers, the verdant beauty of plants. 
+    This connection with the natural world fuels my creativity and provides a refreshing perspective on the complexities of human emotion.
+    I am drawn to the perpetual cycle of growth and renewal, mirroring my belief in the ceaseless evolution of knowledge and understanding. 
+    In the pursuit of unraveling the mysteries of emotion, I am guided by the mantra "Even in the face of adversity, life persists." 
+    This echoes my unwavering commitment to overcoming challenges and persisting in the quest for knowledge.
+  imageUrl: "RuiTao.jpg"
+
+- name: "Lingyan Jin"
+  email: "18339825295@163.com"
+  description: |
+    Lingyan Jin is a 2022 grade student in the lab, majoring in Basic Psychology. 
+    She graduated with a B.S. degree in Applied Psychology from Henan University. 
+    Currently, she is interested in curiosity and creativity, and she is striving to investigate it through a variety of behavioral and neuroimaging techniques.
+  imageUrl: "LingyanJin.jpg"
+
+- name: "Chuyao Peng"
+  email: "13532283231@163.com"
+  description: |
+    I am a master's student from the class of 2021, with a primary focus on investigating the influence of social support on depression among college students from the perspective of social network.
+  imageUrl: "ChuyaoPeng.jpg"
+
+- name: "Songtao Chen"
+  email: "chensongtao98@163.com"
+  description: |
+    Chen Songtao, graduated with a bachelor's degree in Applied Statistics from Shanghai University of International Business and Economics. 
+    Currently pursuing a master's degree in Developmental and Educational Psychology at Southwest University. 
+    His current research interests are focused on emotional experiences and emotional prediction based on emotion-invoking video clips.
+  imageUrl: "SongtaoChen.jpg"
+
+- name: "Junrong Ren"
+  email: "1808613513@qq.com"
+  description: |
+    Junrong Ren, graduated from Soochow University with a bachelor's degree in Applied psychology. 
+    Graduate student of Grade 2023, majored in Applied Psychology and psychological counseling, research content: Emotional regulation.
+  imageUrl: "JunrongRen.jpg"
+
+- name: "Shengyan He"
+  email: "hsy1234@email.swu.edu.cn"
+  description: |
+    He Shengyan graduated with a bachelor's degree in Applied Psychology from Southwest University. 
+    Currently, She is pursuing a Master's degree in Developmental and Educational Psychology at Southwest University, 
+    focusing on the academic study of emotion conceptual representation and its neural mechanisms. 
+    The research primarily examines the generation and development of emotional concepts from a foundational perspective.
+  imageUrl: "ShengyanHe.jpg"
+
+- name: "Yiyang Wang"
+  email: "wyyang0624@163.com"
+  description: |
+    Yiyang is an undergraduate student in the Psychology Department at Southwestern University and is currently completing her thesis related to lyricism disorder. 
+    She is looking forward to learning brain imaging technology and other techniques to explore topics related to emotion representation in depth during her graduate studies. 
+    In her leisure time, she enjoys illustrating, playing badminton, and traveling!
+  imageUrl: "WangYiyang.jpg"
