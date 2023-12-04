@@ -13,9 +13,9 @@ This two-axis rotary table is developed for integration into a multi-axis CNC mi
 
 *Early machine concept*
 
-This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics and systems integration.
+This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics, fabrication and systems integration.
 
-###### Design
+## Design
 
 This two-axis tilting rotary table is designed to be compact and stiff (both moment stiffness and torsional stiffness). Primary components include:
 
@@ -43,3 +43,17 @@ Shown below are several section views showing internal components and design ele
 ![Two-axis trunnion 4](/images/2 Axis Trunnion Render 4_wLabels_w500.jpg)
 
 *5 inch diameter rotary table using oversized needle roller thrust bearings for smooth motion and high stiffness*
+
+
+
+#### C-Axis Pneumatic Brake
+
+![Two-axis rotary table brake](/images/2 Axis Trunnion Brake Explode_w600.jpg)
+
+*Exploded view of rotary table brake components*
+
+For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff flexure. This brake rotor shifts axially when air is applied to clamp the brake. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides backlash-free clamping of the rotary table due to the unique brake rotor flexure. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
+
+![Two-axis rotary table brake enlarged](/images/2 Axis Trunnion Brake Explode_wLabels_w600.jpg)
+
+*Enlarged image of brake rotor and brake piston*
