@@ -33,7 +33,7 @@ To achieve this goal, LLMs should be *comprehend instructions and efficiently ad
 
 <!--Recently, I more focus on <b>interactable and reliable</b> part:-->
 
-Recently, I am more interested in and focus on:
+Recently, I am more focus on:
 
 * <b>Interactive AI Agent.</b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924), [CokeBERT](https://arxiv.org/abs/2009.13964), [CSS-LM](https://arxiv.org/abs/2102.03752)). <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
