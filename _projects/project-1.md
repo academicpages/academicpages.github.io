@@ -9,9 +9,9 @@ tags: design, machine
 
 This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the x-axis and rotary axes will travel underneath the y-axis and mill spindle, as shown below. 
 
-![5-Axis CNC Bridge Mill](/images/Mill Render 1_w400.jpg)
+![5-Axis CNC Bridge Mill](/images/Mill Render 1_w300.jpg)
 
-*Early machine concept*
+*Early milling machine concept*
 
 This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics, fabrication and systems integration.
 
@@ -52,7 +52,7 @@ Shown below are several section views showing internal components and design ele
 
 *Exploded view of rotary table brake components*
 
-For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff [flexure](https://en.wikipedia.org/wiki/Flexure). When air is applied the brake rotor shifts axially to clamp the brake rotor against the brake pad and drive pulley. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides stiff and backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
+For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff [flexure](https://en.wikipedia.org/wiki/Flexure). When air is applied the piston clamps the rotor, the rotor shifts axially and clamps the rotor against the brake pads and drive pulley, locking the rotary table. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides stiff and backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
 
 ![Two-axis rotary table brake enlarged](/images/2 Axis Trunnion Brake Explode_wLabels_w600.jpg)
 
@@ -61,3 +61,12 @@ For simplicity and cost reasons I used brake pads commonly found in hydraulic mo
 ![Two-axis rotary table brake rotor](/images/2 Axis Trunnion Brake Rotor Explode_w600.jpg)
 
 *Brake rotor flexure assembly*
+
+### Compact C-Axis Motor and Drivetrain
+
+I wanted to have the C-axis motor and drivetrain tucked inside the body of the rotary table to shield it from metal chips and coolant.
+
+![Two-axis rotary table brake rotor](/images/2 Axis Trunnion Motor_w600.jpg)
+
+*C-Axis motor, gearbox and belt drive*
+
