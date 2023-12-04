@@ -18,3 +18,5 @@ I am interested in developing novel techniques that can improve the performance 
 
 
 1. Kamel Alrashedy, Vincent Hellendoorn, Alex Orso, ["Learning Defect Prediction from Unrealistic Data"](https://arxiv.org/pdf/2311.00931.pdf). ArXiv preprint arXiv:2311.00931
+
+2. Kamel Alrashedy and Abdullah Aljasser ["Can LLMs Patch Security Issues?"](https://arxiv.org/pdf/2312.00024.pdf). ArXiv preprint arXiv:2312.00024
