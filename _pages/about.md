@@ -21,7 +21,7 @@ I have 4-year experiences in LLMs. My research spans the areas of natural langua
 * <b>General-purpose Model. (Model Pre-training)</b> Building pre-trained models that possess the more powerful perceptual abilities and cognitive abilities, such as understanding, reasoning, generation abilities etc ([CPM](https://www.sciencedirect.com/science/article/pii/S266665102100019X), [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/)). <small>Besides, I'm also insterested in [scaling science](https://github.com/yushengsu-thu/Scaling-Science) in foundation models. </small>
 -->
 
-My research spans the areas of natural language processing and machine learning, specifically focusing on <b>large language models (LLMs)/b>. I am specifically interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them to real-world application. I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
+My research spans the areas of natural language processing and machine learning, specifically focusing on <b>large language models (LLMs)</b>. I am particularly interested in how to better pre-train, fine-tune/instruction-tune, evaluate LLMs, and advance them in real-world scenarios. Thus, my research broadly covers the following topics:
 <!--
 My goal is to advance LLMs into the next-generation AI system capable of autonomously accomplishing long-horizon tasks according to users' desires. Thus, I am broadly interested in the following topics:
 -->
@@ -39,7 +39,7 @@ Recently, I am more focus on:
 
 * <b>(Evaluate) AI Alignment - scalable oversight.</b> Designing AI systems to understand and evaluate, which can better control how our models extend our oversight to tasks we cannot supervise, thereby enhancing generalization. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)) 
 
-* <b>(Real-world Application) Interactive AI Agent.</b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
+* <b>(Real-world Scenarios) Interactive AI Agent.</b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)). <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
 
 <!--and train/guide another AI system that smarter than human.-->
