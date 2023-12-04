@@ -46,13 +46,13 @@ Shown below are several section views showing internal components and design ele
 
 
 
-#### C-Axis Pneumatic Brake
+### C-Axis Pneumatic Brake
 
 ![Two-axis rotary table brake](/images/2 Axis Trunnion Brake Explode_w600.jpg)
 
 *Exploded view of rotary table brake components*
 
-For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff flexure. This brake rotor shifts axially when air is applied to clamp the brake. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides backlash-free clamping of the rotary table due to the unique brake rotor flexure. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
+For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to a axially compliant but torsionally stiff [https://en.wikipedia.org/wiki/Flexure flexure]. This brake rotor shifts axially when air is applied to clamp the brake. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
 
 ![Two-axis rotary table brake enlarged](/images/2 Axis Trunnion Brake Explode_wLabels_w600.jpg)
 
