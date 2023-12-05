@@ -16,16 +16,15 @@ I'm a junior-year undergraduate student at WPI (Worcester Polytechnic Institute)
 
 - 3D Point Cloud
 
-
+Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance
+*Under Review* paper upon request
 
 - FDM Printing Soft Robotics
-
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** ![](images/STREAM_ICRA.png){: .align-right width="200px"}
 
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 [*preprint*](https://arxiv.org/abs/2312.01130)
-
 
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators** ![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
 
