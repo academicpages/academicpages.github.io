@@ -14,12 +14,12 @@ author_profile: true
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
 Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz
-*Under Review*
+[*preprint*](https://arxiv.org/abs/2312.01135)
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
-*Under Review*
+[*preprint*](https://arxiv.org/abs/2312.01130)
 
 **Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 
