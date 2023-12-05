@@ -14,7 +14,7 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 > ***19th October 2023***
 > 
-> Great News! Our paper "Benchmarking Student Program Repair" has been accepted at the Generative AI for EDucation ([GAIED](https://gaied.org/neurips2023/)) NeurIPs workshop. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
+> Great News! Our paper ["Benchmarking Educational Program Repair"](https://neurips.cc/virtual/2023/79083) has been accepted at the Generative AI for EDucation ([GAIED](https://gaied.org/neurips2023/)) workshop at NeurIPS. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
 
 > ***8th June 2023***
 > 
@@ -23,7 +23,7 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 > ***16 May 2023***
 > 
-> Other great news! Our papers "Evaluating Distance Metrics for Program Repair" (first author) and "Exploring the Responses of Large Language Models to Beginner Programmers’Help Requests" have been both accepted for publication at [ICER](https://icer2023.acm.org/). See you in Chicago!
+> Other great news! Our papers "Evaluating Distance Measures for Program Repair" (first author) and "Exploring the Responses of Large Language Models to Beginner Programmers’Help Requests" have been both accepted for publication at [ICER](https://icer2023.acm.org/). See you in Chicago!
 
 > ***3 April 2023***
 > 
