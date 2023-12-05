@@ -24,10 +24,10 @@ I'm a junior-year undergraduate student at WPI (Worcester Polytechnic Institute)
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** ![](images/STREAM_ICRA.png){: .align-right width="200px"}
 
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
-*Under Review*
+[*preprint*](https://arxiv.org/abs/2312.01130)
 
 
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators** ![](images/VisionFDM_RoboSoft.png){: .align-right width="200px"}
 
 Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz
-*Under Review*
+[*preprint*](https://arxiv.org/abs/2312.01135)
