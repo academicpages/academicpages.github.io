@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-Zeel is a PhD student in Computer Science and Engineering at <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by Prof. <a style="text-decoration:none" href="https://nipunbatra.github.io">Nipun Batra</a>. His research area of interest is *Probabilistic Machine Learning* and its applications to *Environment Modeling* and *Sensor Placement*.
+Zeel is a PhD student in Computer Science and Engineering at the <a style="text-decoration:none" href="https://nipunbatra.github.io/lab/">Sustainability lab</a>, <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by Prof. <a style="text-decoration:none" href="https://nipunbatra.github.io">Nipun Batra</a>. His research area of interest is *Probabilistic Machine Learning* and its applications to *Environment Modeling* and *Sensor Placement*.
 
 He is a co-author in <a style="text-decoration:none" href="https://www.cs.ubc.ca/~murphyk/">Dr. Kevin Murphy</a>'s latest book <a style="text-decoration:none" href="https://probml.github.io/pml-book/book2.html">Probabilistic Machine Learning: Advanced Topics</a> (<img src="https://img.shields.io/github/downloads/probml/pml2-book/total" alt="download stats shield">). He was a Google Summer of Code (GSoC) contributor at Google (TensorFlow) in 2022.
 
