@@ -16,7 +16,7 @@ I'm a junior-year undergraduate student at WPI (Worcester Polytechnic Institute)
 
 - 3D Point Cloud
 
-Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance ![](images/cvpr.png){: .align-right width="200px"}
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance** ![](images/cvpr.png){: .align-right width="200px"}
 
 *Under Review* paper upon request
 
