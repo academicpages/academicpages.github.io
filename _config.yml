@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Go Nam (Harry) Lui, Ph.D."
   avatar           : "my_logo.jpeg"
-  bio              : "Senior research associate@LUMS|Co-founder of FinCatch|PhD@HKUST|Data science|Avaition|FinTech"
+  bio              : "Senior research associate@LUMS|Co-founder@FinCatch|PhD@HKUST|Data science|Avaition|FinTech"
   location         : "Hong Kong/UK"
   employer         : #"LUMS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ohhzqasAAAAJ&hl=en"
   email            : "gonamlui@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Go-Nam-Lui"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gonamlui/"
+  linkedin         : "gonamlui"
   orcid            : "https://orcid.org/0000-0002-7340-0828"
   pinterest        :
   soundcloud       :
