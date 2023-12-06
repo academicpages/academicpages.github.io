@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Haidong Chen
 
 # Gen-AI 
 Haidong Chen is not only a ex-director of AIGC (Gen-AI) Solution Architect at Alibaba Cloud Intelligence, but also a visionary and a leader in the field of cloud computing and artificial intelligence. 
