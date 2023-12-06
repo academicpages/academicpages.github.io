@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently an algorithm expert in Alimama Ads Tech at Alibaba Group (AliStar, 2021). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I am currently a staff engineer in the Search Ads team at Baidu Inc., working on developing large language models. Prior to joining Baidu, I was an algorithm expert in the Ad Tech team at Alibaba Group (AliStar, 2021). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 
 Research Interests
 ======
-My research interests are in computational advertising and information retrieval, and broader interests include representation learning, text generation, reinforcement learning, federated learning and their applications in advertising, recommendation and search.   
+My research interests are in *computational advertising* and *large language models*, and broader interests include reinforcement learning, federated learning and their applications in advertising, search and recommendation.   
 
 During my Ph.D., my research interests were in natural language processing and computational social science, especially *opinion mining* and *opinionated/argumentative text generation* in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
 
@@ -34,8 +34,11 @@ Experience and Education
 ======
 **[Experience](experiences/)**  
 
-* **Jul. 2021 -- Present.** Algorithm Expert (Senior MLE), Alimama Ads Tech @ Alibaba Group.   
-Working on large-scale retrieval, ranking and generation models to improve ad revenue.    
+* **Sep. 2023 -- Present** Staff MLE, Search Ads @ Baidu Inc.   
+Working on developing large language models to build the next-generation of Baidu's search ads system.
+
+* **Jul. 2021 -- Sep. 2023** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
+Worked on large-scale retrieval, ranking and generation models to improve ad revenue.    
 
 **Education**  
 
@@ -73,4 +76,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Aug. 2023_
+_Last Updated: Dec. 2023_
