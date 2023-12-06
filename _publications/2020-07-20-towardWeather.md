@@ -11,3 +11,15 @@ Convective weather (thunderstorm clusters with horizontal extents from tens to h
 
 [Paper](https://iopscience.iop.org/article/10.1088/1755-1315/569/1/012067/pdf)
 <!-- [Bibtex](http://harrylui1995.github.io/bibtex/2020_towardWeather.bib) -->
+```bibtex
+@inproceedings{lui2020towards,
+  title={Towards understanding the impact of convective weather on aircraft arrival traffic at the Hong Kong International Airport},
+  author={Lui, Go Nam and Liem, Rhea Patricia and Hon, Kai Kwong},
+  booktitle={IOP Conference Series: Earth and Environmental Science},
+  volume={569},
+  number={1},
+  pages={012067},
+  year={2020},
+  organization={IOP Publishing}
+}
+```

@@ -12,4 +12,16 @@ Compared with departures, predicting the weather impact on arrival delays is mor
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0968090X22002352)
 [Preprint](http://harrylui1995.github.io/files/WeatherImpact_TRC.pdf)
-[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:qMse3AOO_IsJ:scholar.google.com/&output=citation&scisdr=ClEJsQG-EKrk6sNxKyM:AFWwaeYAAAAAZWl3MyMf1tCVT2bANfe4bnHu4eg&scisig=AFWwaeYAAAAAZWl3M4_sgjEssJ-3G3oqPdd6epg&scisf=4&ct=citation&cd=0&hl=en)
+```bibtex
+@article{lui2022weather,
+title = {Weather impact quantification on airport arrival on-time performance through a {Bayesian} statistics modeling approach},
+journal = {Transportation Research Part C: Emerging Technologies},
+volume = {143},
+pages = {103811},
+year = {2022},
+issn = {0968-090X},
+doi = {https://doi.org/10.1016/j.trc.2022.103811},
+url = {https://www.sciencedirect.com/science/article/pii/S0968090X22002352},
+author = {Go Nam Lui and Kai Kwong Hon and Rhea P. Liem}
+}
+```
