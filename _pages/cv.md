@@ -23,19 +23,19 @@ Certifications
 Work Experience
 ======
 ### Mckenney's Inc ###
-* Aug. 2024 - Present: IT intern
+* Aug. 2024 - Present: IT Intern
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
-### Foothills Web Productions ###
-* May 2024 - Aug. 2024: Software Developer intern 
+### Teradata ###
+* May 2024 - Aug. 2024: UI Engineer Intern 
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
 
 ### Mckenney's Inc ###
-* Jan. 2024 - May 2024: IT intern
+* Jan. 2024 - May 2024: IT Intern
   *  responsibilty 1
   *  responsibilty 2
   *  responsibilty 3
