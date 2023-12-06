@@ -34,10 +34,10 @@ Experience and Education
 ======
 **[Experience](experiences/)**  
 
-* **Sep. 2023 -- Present** Staff MLE, Search Ads @ Baidu Inc.   
+* **Sep. 2023 -- Present.** Staff MLE, Search Ads @ Baidu Inc.   
 Working on developing large language models to build the next-generation of Baidu's search ads system.
 
-* **Jul. 2021 -- Sep. 2023** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
+* **Jul. 2021 -- Sep. 2023.** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
 Worked on large-scale retrieval, ranking and generation models to improve ad revenue.    
 
 **Education**  
