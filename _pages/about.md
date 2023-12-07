@@ -16,12 +16,12 @@ algorithms.
 I am currently a postdoctoral fellow at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
 
 
-The primary focus of my research is on developing symbolic methods to enhance algorithms for sequential decision making. My ultimate scientific goal is to enable autonomous agents provide formal explanation and guarantees about their behaviors. 
+The primary focus of my research is on neurosymbolic algorithms for sequential decision making. My ultimate scientific goal is to design autonomous agents that can provide formal explanation and guarantees about their behaviors. 
 
 
 Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
-<span style="color:red;">I am currently on the industry and academic job markets.</span>
+
 
 ## Publications & Patents
 <ul>
