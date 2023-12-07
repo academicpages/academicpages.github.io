@@ -1,0 +1,12 @@
+---
+title: "Methods for Observational Research 2 (HSCI 5151)"
+collection: teaching
+type: "Instructor"
+permalink: /teaching/hsci5151
+venue: "Northeastern University Department of Health Sciences"
+date: 2024-1-08
+location: "Boston, MA"
+---
+
+This course examines advanced methods in conducting observational research across pharmacoepidemiology, emphasizing approaches used by the Observational Health Data Sciences and Informatics (OHDSI) community.
+Focuses on using open-source software and open-science principles to conduct and interpret a real-world evidence (RWE) study.
