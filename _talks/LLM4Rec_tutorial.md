@@ -4,7 +4,7 @@ collection: talks
 type: "Tutorial"
 permalink: /talks/LLM4Rec_tutorial
 venue: "IEEE ICDM 2023"
-date: 2023-12-01
+date: 2023-12-03
 location: "Shanghai, China"
 Authors: "Wenqi Fan, Jiatong Li, Zihuai Zhao, **Yunqing Liu**, Yiqi Wang" 
 ---
