@@ -1,6 +1,6 @@
 ---
 title: "Scaling Compute Intensive Tasks using Apache Spark"
-excerpt: "A study evaluating the performance for different compute intensive tasks on Apache Spark, analyzing the scalability and optimal parameter selection.<br/><img src='/images/thumbnail_spark.png'>"
+excerpt: "A study evaluating the performance for different compute intensive tasks on Apache Spark, analyzing the scalability and optimal parameter selection.<br/><img src='/images/thumbnail_spark.jpg'>"
 collection: portfolio
 ---
 
