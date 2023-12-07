@@ -12,8 +12,9 @@ redirect_from:
 
 I am currently a computer science graduate student at University of Southern California. I a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I am working in the intersection Software Analysis and LLMs.
 
-Besides, I play classical piano and am eagerly interested in reading sociology articles.
+Additionally, I play classical piano and am eagerly interested in social sciences and human social behavior.
 
+<br>
 
 # Education
 
@@ -27,16 +28,13 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 
-
 <br>
 
 # Publications
 
 * [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
 
-
 <br>
-
 
 # Selected Projects
 
@@ -49,7 +47,6 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 * [Creative Visualizations Using OpenGL](https://github.com/ghazalrafiei/OpenGL)
 
 <!-- [PyCAD](https://github.com/msabrishami/DFT) -->
-
 
 ## Course Projects
 
@@ -64,21 +61,23 @@ Besides, I play classical piano and am eagerly interested in reading sociology a
 <br>
 
 # Experience
-**Teacher Assistant at Shahid Beheshti University**
+
+### Teacher Assistant at Shahid Beheshti University**
 
 * Fundamentals of Theory of Computation (2020)
 * Data Structure and Algorithms (2019 and 2020)
 * Mathematical Software II (2018)
 
-**Teacher Assistant at University of Southern California**
+### Teacher Assistant at University of Southern California**
+
 * CSCI 356: Computer Systems (2023)
 
 <br>
 
 # Other Links/Useful Contents
 
-* [Writings on Medium](https://medium.com/@girraffael)
+* [My Writings on Medium](https://medium.com/@girraffael)
 
-* [Instrumental Musics for Work](https://t.me/shoreless_sea)
+* [My Collection of Instrumental Musics for Work](https://t.me/shoreless_sea)
 
-* [Hidden Brain Podcasts](https://hiddenbrain.org/)
+<!-- * [Hidden Brain Podcasts](https://hiddenbrain.org/) -->
