@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a doctoral researcher (i.e., PhD student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial intelligence.
+Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I am a third-year doctoral researcher (i.e., PhD student) in the computer science department at Aalto University. I am working on an interdisciplinary project in the [LeTech (Learning + Technology)](https://research.cs.aalto.fi/LeTech/) research group. This project combines knowledge in computing education and artificial intelligence.
 
 ## News 
 
 > ***19th October 2023***
 > 
-> Great News! Our paper ["Benchmarking Educational Program Repair"](https://neurips.cc/virtual/2023/79083) has been accepted at the Generative AI for EDucation ([GAIED](https://gaied.org/neurips2023/)) workshop at NeurIPS. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
+> Great News! Our paper ["Benchmarking Educational Program Repair"](https://neurips.cc/virtual/2023/79083) has been accepted at the Generative AI for Education ([GAIED](https://gaied.org/neurips2023/)) workshop at NeurIPS. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
 
 > ***8th June 2023***
 > 
