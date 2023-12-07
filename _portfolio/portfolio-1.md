@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Scaling Compute Intensive Tasks using Apache Spark"
+excerpt: "A study evaluating the performance for different compute intensive tasks on Apache Spark, analyzing the scalability and optimal parameter selection.<br/><img src='/images/thumbnail_spark.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Spark is a popular distributed computing platforms used to process large data sets in a parallel and distributed manner.
+
+This project involved evaluating PySpark's performance in distributed image processing tasks, such as image transformations, data augmentation, as well as Convolutional Neural Network (CNN)-based feature extraction. Through experiments, we explored the impact of varying the number of workers, batch size, number of partitions of the RDD on the execution time, highlighting the importance of selecting optimal parameters to get the best performance.
+
+Link to [our report and code is here](https://github.com/abhishekiitm/CSE_D_516_Project/blob/main/project_final_report.pdf).
