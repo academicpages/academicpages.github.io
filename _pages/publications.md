@@ -27,8 +27,9 @@ author_profile: true
 Conference Proceedings
 ======
 
+6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. (Accepted) 
 
-5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. Lecture Notes in Computer Science. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
+5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2023*. Lecture Notes in Computer Science, vol 14043. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
 
 4\. **Ma K**, He R, Gao M. Design for Product-Service System Innovation of the New Fresh Retail in the Context of Chinese Urban Community. In: Francisco R, editor. *Ergonomics In Design*. USA: AHFE Open Acces (2022). p. 186-193 doi: 10.54941/ahfe1001936. [[link]](https://openaccess.cms-conferences.org/publications/book/978-1-958651-23-0/article/978-1-958651-23-0_24)
 
