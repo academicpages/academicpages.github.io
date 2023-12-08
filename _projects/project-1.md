@@ -64,7 +64,7 @@ For simplicity and cost reasons I used brake pads commonly found in hydraulic mo
 
 ![Two-axis rotary table brake prototype](/images/2 Axis Trunnion Brake Rotor Prototype_w600.jpg)
 
-*C-Axis belt drive and large rotary table brake pads and drive pulley*
+*C-Axis belt drive, rotary table brake pads and drive pulley*
 
 ### Compact C-Axis Motor and Drivetrain
 
