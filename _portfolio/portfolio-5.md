@@ -6,7 +6,7 @@ collection: portfolio
 
 [Link to my solution to Google's timed coding challenge Foobar.](https://github.com/abhishekiitm/google_foobar)
 
-I completed the challenge and although I did not hear back from any recruiter at Google, I really enjoyed solving these coding puzzles.
+I completed the challenge and although I did not hear back from any recruiter at Google, the coding puzzles were really fun to solve.
 
 https://foobar.withgoogle.com/
 
