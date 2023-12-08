@@ -54,6 +54,7 @@ author_profile: true
 0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
 
 ## Public Health and Health Communication
+0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (in press). The role of collective group orientation and social norms on physical distancing behaviors for disease prevention. Health Communication.
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
 0. Chung, M., Jang, Y., Lapinski, M. Kerr, J., Zhao, J. H., Shupp, R., & Peng, T. Q. (2022). I do, therefore I think it is normal: The causal effects of behavior on descriptive norm formation and evolution. Social Influence, 17(1), 17-35.
 0. Anderson, J., Lapinski, M., Turner, M., Peng, T. Q., & Schmaelzle, R. (2022). Speaking of values: Value-expressive communication and exercise intentions. Health Communication, 37(10), 1285-1294.
