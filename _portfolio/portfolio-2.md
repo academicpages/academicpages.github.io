@@ -4,8 +4,6 @@ excerpt: "Training a multiclass classifier on MNIST across multiple GCP instance
 collection: portfolio
 ---
 
-# CSE D 514 Project - Distributed Training using PyTorch
-
 In this project, we
 - Investigated different functionalities of PyTorch
 - Performed NN training on single machine
