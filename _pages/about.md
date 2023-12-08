@@ -74,9 +74,9 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 <br>
 
-# Other Links/Useful Contents
+# Other
 
-* [My Writings on Medium](https://medium.com/@girraffael)
+<!-- * [My Writings on Medium](https://medium.com/@girraffael) -->
 
 * [My Collection of Instrumental Musics for Work](https://t.me/shoreless_sea)
 
