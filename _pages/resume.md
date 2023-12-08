@@ -28,6 +28,18 @@ Education
 
 Work Experience
 ======
+* **Systems Designer / Mechanical Design** at Angstrom Engineering, *Cambridge, ON*
+
+  *November 2023 to present*
+
+  * Designed and developed mechanical aspects of custom and engineered-to-order machines
+
+  * Implemented engineering solutions to mechanical and systems challenges
+
+  * Responsible for ensuring designs satisfy contract specifications and all applicable design standards
+
+    
+
 * **Mechanical Design Engineer / Product Manager** at Zaber Technologies, *Vancouver, BC*
 
   *July 2018 to November 2023*
