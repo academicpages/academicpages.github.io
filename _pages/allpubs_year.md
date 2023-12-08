@@ -10,7 +10,7 @@ author_profile: true
    * Reprinted as [an edited book](https://www.routledge.com/Computational-Methods-for-Communication-Science/Atteveldt-Peng/p/book/9780367536169) by Routledge in 2021  
 
 ## Journal Articles
-0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, W., & Lee, S. (in press). The role of collective group orientation and social norms on physical distancing behaviors for disease prevention. *Health Communication*.
+0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (in press). The role of collective group orientation and social norms on physical distancing behaviors for disease prevention. *Health Communication*.
 1.  Zhang, Q., Liang, H., Peng, T. Q., & Zhu, J. J. H. (2023). [The effect of affordance on deliberation when retweeting: From the perspective of expression effect](https://doi.org/10.1016/j.chb.2023.108010). *Computers in Human Behavior*.
 0.  Lee, S., & Peng, T. Q. (2023). [Understanding audience behavior with digital traces: Past, present, and future](https://doi.org/10.1080/21670811.2023.2254821). *Digital Journalism*.
 0.  Xu, Y., & Peng, T. Q. (2023). [Ecological Constraints on Audience Size in the Digital Media System: Evidence From the Longitudinal Tracking Data From 2019 to 2022](https://doi.org/10.1093/hcr/hqad028). *Human Communication Research*.
