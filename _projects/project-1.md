@@ -11,7 +11,7 @@ This two-axis rotary table is developed for integration into a multi-axis CNC mi
 
 ![5-Axis CNC Bridge Mill](/images/Mill Render 1_w300.jpg)
 
-*Early milling machine concept*
+*Milling machine concept*
 
 This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics, fabrication and systems integration.
 
@@ -52,7 +52,7 @@ Shown below are several section views showing internal components and design ele
 
 *Exploded view of rotary table brake components*
 
-For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to an axially compliant but torsionally stiff [flexure](https://en.wikipedia.org/wiki/Flexure). When air is applied the piston clamps the rotor, the rotor shifts axially and clamps the rotor against the brake pads and drive pulley, locking the rotary table. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides stiff and backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
+For simplicity and cost reasons I used brake pads commonly found in hydraulic mountain bike brake. Seven of these pads are mounted to the drive pulley of the spindle. A stainless steel brake rotor is mounted to an axially compliant but torsionally stiff [flexure](https://en.wikipedia.org/wiki/Flexure). When air is applied the piston clamps the rotor, the rotor shifts axially and clamps against the brake pads and drive pulley, locking the rotary table. A wave spring provides a returning force to unclamp the brake when air is removed from the system. This brake design provides stiff and backlash-free clamping of the rotary table due to the unique brake rotor flexure design. The rotary table can be clamped with up to 115 Nm of brake torque @ 100 psi (depends on air pressure). 
 
 ![Two-axis rotary table brake enlarged](/images/2 Axis Trunnion Brake Explode_wLabels_w600.jpg)
 
@@ -62,6 +62,10 @@ For simplicity and cost reasons I used brake pads commonly found in hydraulic mo
 
 *Brake rotor flexure assembly*
 
+![Two-axis rotary table brake prototype](/images/2 Axis Trunnion Brake Rotor Prototype_w600.jpg)
+
+*C-Axis belt drive and large rotary table brake pads and drive pulley*
+
 ### Compact C-Axis Motor and Drivetrain
 
 I wanted to have the C-axis motor and drivetrain tucked inside the body of the rotary table to shield it from metal chips and coolant.
@@ -70,3 +74,20 @@ I wanted to have the C-axis motor and drivetrain tucked inside the body of the r
 
 *C-Axis motor, gearbox and belt drive*
 
+
+
+### High Torque A-Axis Servo Motor and Harmonic Drive
+
+The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/products/gear-units/hollow-shaft-gear-units/shf-2uh/shf-40-100-2uh) harmonic drive from Harmonic Drive Solutions. This gear reducer also includes a very stiff preloaded crossed roller bearing to support any radial, axial or moment loads. Harmonic drives operate with very little angular backlash (< 7 arc sec [0.002 degrees]), hysteresis and excellent positional accuracy (1 arc min [0.0166 degrees]) - making them a great option for this rotary table. They offer a large gear reduction in a very small package with great mechanical efficiency and torsional stiffness. This particular unit is 100:1, with a rated torque of 265 Nm and a momentary peak torque above 1000 Nm, although the 750W servo motor would not be able to output the required torque. I was able to get this unit from a machine rebuilder on Ebay for a great price, along with a replacement crossed roller bearing from a Taiwan supplier.
+
+![Two-axis rotary table bearing](/images/2 Axis Trunnion A-Axis Gearing_w600.jpg)
+
+*A-Axis before assembly - Harmonic drive adaptor plate visible on left*
+
+![Two-axis rotary table bearing](/images/2 Axis Trunnion A-Axis Bearing_w600.jpg)
+
+*New crossed roller bearing - replacement for used harmonic drive bearing*
+
+![Two-axis rotary table support bearing shaft shims](/images/2 Axis Trunnion A-Axis Support Shims_w600.jpg)
+
+*Shimming alignment of secondary support bearing shaft to be co-axial with A-Axis rotation axis*
