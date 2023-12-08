@@ -1,6 +1,6 @@
 ---
 title: "Distributed Training using PyTorch"
-excerpt: "Training a multiclass classifier on MNIST across multiple GCP instances using PyTorch's DistributedDataParallel module<br/><img src='/images/thumbnail_spark.jpg'>"
+excerpt: "Training a multiclass classifier on MNIST across multiple GCP instances using PyTorch's DistributedDataParallel module<br/><img src='/images/thumbnail_pytorch_ddp.jpg'>"
 collection: portfolio
 ---
 

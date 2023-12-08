@@ -1,6 +1,6 @@
 ---
 title: "Implementing Viola Jones Algorithm using Python and Numba"
-excerpt: "Python and Numba-based open source implementation of Viola Jones Cascade Classifier training procedure<br/><img src='/images/thumbnail_spark.jpg'>"
+excerpt: "Python and Numba-based open source implementation of Viola Jones Cascade Classifier training procedure<br/><img src='/images/thumbnail_vj.jpg'>"
 collection: portfolio
 ---
 
