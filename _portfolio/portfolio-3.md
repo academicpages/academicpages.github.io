@@ -9,6 +9,6 @@ This repository provides a Python implementation for training a cascade classifi
 
 For data preparation, and training and detection usage details, please check the [Github repository](https://github.com/abhishekiitm/py_viola_jones).
 
-<img src="../images/vj_detection.jpg" width="50%"/>
+<img src="/images/vj_detection.jpg" width="50%"/>
 
 Fig. Detections on the FDDB dataset

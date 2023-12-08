@@ -8,6 +8,6 @@ Using inferential statistics and data visualization, we hypothesize and evaluate
 
 We noticed a statistically significant drop in happiness scores in Latin America and Caribbean.
 
-<img src="../images/557_proj_table.png" width="50%"/>
+<img src="/images/557_proj_table.png" width="50%"/>
 
 A presentation of our findings is available in this [Github repository](https://github.com/abhishekiitm/DATA_557_Applied_Statistics_and_Experimental_Design).

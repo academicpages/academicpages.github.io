@@ -8,4 +8,4 @@ The algorithms are implemented in Python and tested on the MNIST dataset. The ta
 
 Many real-world tasks such as personalized recommendations, clinical trials, online advertising are well suited to be modeled as contextual bandit problems. The cost of making an incorrect decision can be very high and bandit algorithms minimize the number of examples needed to learn a good policy.
 
-<img src="../images/thumbnail_bandit.png" width="50%"/>
+<img src="/images/thumbnail_bandit.png" width="50%"/>

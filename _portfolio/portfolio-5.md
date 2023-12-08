@@ -10,4 +10,4 @@ I completed the challenge and although I did not hear back from any recruiter at
 
 https://foobar.withgoogle.com/
 
-<img src="../images/thumbnail_foobar.png" width="50%"/>
+<img src="/images/thumbnail_foobar.png" width="50%"/>

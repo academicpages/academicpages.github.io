@@ -13,14 +13,14 @@ In this project, we
 ## Dataset used
 MNIST dataset was used for this project.  
 
-<img src="../images/train_images.png" width="50%"/>
+<img src="/images/train_images.png" width="50%"/>
 
 ## GCP and PyTorch setup
 Please refer to [this document](GCP_PyTorch_setup.pdf) to set up the environment.
 
 ## Results
 
-<img src="../images/loss_curve.png" width="50%"/>
-<img src="../images/Time%20to%20train%20(1%20epoch)%20vs.%20Number%20of%20machines.png" width="50%"/>
+<img src="/images/loss_curve.png" width="50%"/>
+<img src="/images/Time%20to%20train%20(1%20epoch)%20vs.%20Number%20of%20machines.png" width="50%"/>
 
 Link to [the code is here](https://github.com/abhishekiitm/CSED_514_Project_Distributed_Training_using_PyTorch).
