@@ -1,7 +1,7 @@
 ---
 title: "Tool Chest"
-excerpt: "Handcrafted maple and zebrawood tool chest, with 6 drawers and locking lid<br/><img src='/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png'>"
+excerpt: "Handcrafted maple and zebrawood tool chest, with 6 drawers and locking lid<br/><img src='/images/Tool Chest_feathered_w500.jpg'>"
 collection: projects
 ---
 
-![Mountain Bike](/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png)
+![Tool Chest](/images/Tool Chest_feathered_w500.jpg)
