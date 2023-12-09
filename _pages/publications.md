@@ -28,6 +28,7 @@ author_profile: true
 
 ### Under Review
 - Reducing partisan affective polarization through common humanity and perspective-taking: An online survey experiment in the United States. (with Jennifer McCoy and Juan Gomez) *book chapter*
+- Talking to elites: A guide for novice interviewers. *journal article*
 
 ### Selected Working Papers
 - [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper, journal article*
