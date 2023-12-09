@@ -1,9 +1,7 @@
 ---
-title: "Custom Steel Hardtail Mountain Bike"
-excerpt: "Steel bike frame made from 4130 tubing with silicon bronze TIG brazed joints<br/><img src='/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png'>"
+title: "Baja SAE CVT Tuning and Engine Dynamometer"
+excerpt: "Custom CVT tuning dynamometer for the University of Waterloo Baja SAE Team<br/><img src='/images/CVT Tuning Dynamometer_w600.jpg'>"
 collection: projects
 ---
 
-Bike bike bike
-
-![Mountain Bike](/images/Steel_Hardtail_Mountain_Bike_w500_soft-edge.png)
+![CVT Tuning Dynamometer](/images/CVT Tuning Dynamometer_w600.jpg)
