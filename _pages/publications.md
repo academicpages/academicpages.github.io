@@ -19,7 +19,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 * Nguyen, D., White, L., & Nguyen, H. (2023a). Bayesian Rationality in Satisfaction Games. _Proceedings of the OptLearnMAS-23 Workshop_.
 *  Nguyen, D., White, L., & Nguyen, H. (2023b). Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization. _The 5th Games, Agents, and Incentives Workshop (GAIW 2023)_.
 *  Ngo, H. Q., Guo, M., & Nguyen, H. (2023). Near Optimal Strategies for Honeypots Placement in Dynamic and Large Active Directory Networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems_, 2517–2519. **CORE A***
-*  Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. (2023). Limited Query Graph Connectivity Test. _arXiv Preprint arXiv:2302. 13036_.
+
 
 
 ### 2022
