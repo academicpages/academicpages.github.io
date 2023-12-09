@@ -11,6 +11,8 @@ I am a third-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 
 News
 ------
+* 2023/12: Our paper on [graph OOD detection]() has been accepted by AAAI 2024.
+* 2023/11: I give an invited talk at [LoG Conference 2023 Shanghai meetup](https://log2023sh.github.io/).
 * 2023/09: Our paper on [explainable graph anomaly detection](https://arxiv.org/pdf/2310.16520.pdf) has been accepted by NeurIPS 2023.
 * 2023/09: Our recent survey on [data-centric graph machine learning](https://arxiv.org/pdf/2309.10979.pdf) is now on arXiv.
 * 2023/09: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2310.11676.pdf) has been accepted by ICDM 2023.
