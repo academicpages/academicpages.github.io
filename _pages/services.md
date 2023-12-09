@@ -21,6 +21,8 @@ Conference Organization
 
 Invited Talks
 ----
+* Graph neural networks for data with less information, LoG Conference Shanghai Meetup, Shanghai, China (Nov 29, 2023)
+
 * Self-supervised learning on graph neural networks, East China Normal University, Shanghai, China (Mar 23, 2023)
 
 Conference PC Member/Reviewer
