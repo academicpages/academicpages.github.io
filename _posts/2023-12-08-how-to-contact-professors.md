@@ -15,7 +15,7 @@ But, I got rejected by the two main natural language processing professors after
 
 A few months later, I randomly came across a new junior professor who I decided to email; I got an acceptance email 17 minutes later.
 
-I spent a lot of time tweaking this email, and I would recommend taking it and modifying it for your needs. If this helps you, I'd love to know! I still believe cold emailing is the best method as it is too difficult to get in touch with established faculty at a large school. Reaching out through public office hours or through a grad student can work, but I have never heard of this working. However, I have seen people get onto projects by asking at the end of classes they did well in.
+I spent a lot of time[^1] tweaking this email, and I would recommend taking it and modifying it for your needs. If this helps you, I'd love to know! I still believe cold emailing is the best method as it is too difficult to get in touch with established faculty at a large school. Reaching out through public office hours or through a grad student can work, but I have never heard of this working. However, I have seen people get onto projects by asking at the end of classes they did well in.
 
 ---
 
@@ -39,3 +39,5 @@ I look forward to hearing from you!
 Thank you,
 
 Samir Rashid
+
+[^1]: This post is certified® human written. I wrote this email before ChatGPT was launched.
