@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-I am currently a computer science graduate student at University of Southern California. I a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I am working in the intersection Software Analysis and LLMs.
+I am currently a computer science graduate student at University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I am working in the intersection Software Analysis and LLMs.
 
 Additionally, I play classical piano and am eagerly interested in social sciences and human social behavior.
 
@@ -36,7 +36,7 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 <br>
 
-# Selected Projects
+<!-- # Selected Projects
 
 ## Extracurricular Projects
 
@@ -48,7 +48,7 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 <!-- [PyCAD](https://github.com/msabrishami/DFT) -->
 
-## Course Projects
+<!-- ## Course Projects
 
 * [Deep Learning](https://github.com/ghazalrafiei/Neural-Network-Course)
 
@@ -56,28 +56,25 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * [Parallel Programming](https://github.com/ghazalrafiei/Parallel-Programming-Course)
 
-* [Databases](https://github.com/ghazalrafiei/Final-DB-Project)
+* [Databases](https://github.com/ghazalrafiei/Final-DB-Project) -->
 
-<br>
+<!-- <br> --> 
 
-# Experience
+<!-- # Experience
 
-### Teacher Assistant at Shahid Beheshti University**
+### Teacher Assistant at Shahid Beheshti University
 
 * Fundamentals of Theory of Computation (2020)
 * Data Structure and Algorithms (2019 and 2020)
 * Mathematical Software II (2018)
 
-### Teacher Assistant at University of Southern California**
+### Teacher Assistant at University of Southern California
 
-* CSCI 356: Computer Systems (2023)
+* CSCI 356: Computer Systems (2023) -->
 
-<br>
+<!-- <br> -->
 
 # Other
 
-<!-- * [My Writings on Medium](https://medium.com/@girraffael) -->
-
-* [My Collection of Instrumental Musics for Work](https://t.me/shoreless_sea)
-
-<!-- * [Hidden Brain Podcasts](https://hiddenbrain.org/) -->
+* [Writings on Medium ✍🏻](https://medium.com/@girraffael)
+* [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea)
