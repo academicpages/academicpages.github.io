@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference
 -----
+* GOODAT: Towards Test-time Graph Out-of-Distribution Detection \[[PDF]()\] \[[Code]()\]    
+Luzhi Wang, Di Jin, He Zhang, **Yixin Liu**, Dongxiao He, Wenjie Wang, Shirui Pan, Tat-Seng Chua.   
+AAAI Conference on Artificial Intelligence (**AAAI**), 2024. 
+
 * Towards Self-Interpretable Graph-Level Anomaly Detection \[[PDF](https://arxiv.org/pdf/2310.16520.pdf)\] \[[Code](https://github.com/yixinliu233/SIGNET)\]    
 **Yixin Liu**, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan.    
 Advances in Neural Information Processing Systems (**NeurIPS**), 2023
