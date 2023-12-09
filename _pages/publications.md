@@ -21,7 +21,6 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *  Ngo, H. Q., Guo, M., & Nguyen, H. (2023). Near Optimal Strategies for Honeypots Placement in Dynamic and Large Active Directory Networks. _Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems_, 2517–2519. **CORE A***
 
 
-
 ### 2022
 * Guo, M., Li, J., Neumann, A., Neumann, F., & Nguyen, H. (2022). Practical fixed-parameter algorithms for defending active directory style attack graphs. _Proceedings of the AAAI Conference on Artificial Intelligence_, _36_, 9360–9367. **CORE A***
 *  Goel, D., Ward-Graham, M. H., Neumann, A., Neumann, F., Nguyen, H., & Guo, M. (2022). Defending active directory by combining neural network based dynamic program and evolutionary diversity optimisation. _Proceedings of the Genetic and Evolutionary Computation Conference_, 1191–1199. **CORE A**
