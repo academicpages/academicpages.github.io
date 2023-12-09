@@ -8,7 +8,7 @@ collection: projects
 
 ### Introduction
 
-The goal of the project was to design a new gearbox (transfer case) for use in the University of Waterloo Baja SAE student design competition vehicle. All Baja vehicles must utilize the same Briggs & Stratton Model 20 - 305cc single cylinder four stroke engine. This engine has a low power output and limited useful RPM range (torque-speed and power-speed operating curves). One rule of the competition is that no performance modifications to the engine are allowed (no blueprinting, reducing flywheel mass, increasing governor speed, etc). Therefore, reducing weight and size of the gearbox is the primary design objective, with a secondary objective of optimizing the drivetrain components to handle all of the forces (internal and external) for reliable operation throughout the course of a race season. Throughout the competition season the vehicle will be raced in three 4 hour endurance races, and a series of dynamic events, as well as any testing required by the team developing vehicle subsystems. All of this driving, racing and testing time is about 25 hours.
+The goal of the project was to design a new gearbox (transfer case) for use in the University of Waterloo Baja SAE student design competition vehicle. All Baja vehicles must utilize the same Briggs & Stratton Model 20 - 305cc single cylinder four stroke engine. This engine has a low power output and limited useful RPM range (torque-speed and power-speed operating curves). One rule of the competition is that no performance modifications to the engine are allowed (no blueprinting, reducing flywheel mass, increasing governor speed, etc). Therefore, reducing weight and size of the gearbox was the primary design objective, with a secondary objective of optimizing the drivetrain components to handle all of the forces (internal and external) for reliable operation throughout the course of a race season. Throughout the competition season the vehicle will be raced in three 4 hour endurance races, and a series of dynamic events, as well as any testing required by the team developing vehicle subsystems. All of this driving, racing and testing time is about 25 hours.
 
 ### Design & Features
 
@@ -20,7 +20,7 @@ Some design constraints and requirements were:
 - Be easier to assemble, service and actually install in vehicle compared to past versions
 - Utilize bearings, seals and other required components available from team sponsor SKF
 - Input shaft to be compatible with Gaged Engineering GX9 CVT
-- Increase vehicle drive torque via one-stage or two-stage gear reduction (ideal ratio of 8:1 to 12:1 based on past vehicle designs, top speed, power and calculations)
+- Increase vehicle drive torque via one-stage or two-stage gear reduction (ideal ratio of 8:1 to 12:1 based on past vehicle designs, desired top speed, engine power and vehicle traction calculations)
 - Work with team sponsor ODG for designing and manufacturing gears and shafts
 - Handle all engine and drive train loads (impulse and shock loads)
 
