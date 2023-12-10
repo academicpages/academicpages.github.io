@@ -16,7 +16,7 @@ Zeel is a PhD student in Computer Science and Engineering at the <a style="text-
 
 He is a co-author in <a style="text-decoration:none" href="https://www.cs.ubc.ca/~murphyk/">Dr. Kevin Murphy</a>'s latest book <a style="text-decoration:none" href="https://probml.github.io/pml-book/book2.html">Probabilistic Machine Learning: Advanced Topics</a> (<img src="https://img.shields.io/github/downloads/probml/pml2-book/total" alt="download stats shield">). He was a Google Summer of Code (GSoC) contributor at Google (TensorFlow) in 2022.
 
-Before joining Ph.D., he was a data scientist in an R&D team headed by CTO at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a>. He did his masters from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a>.
+Before joining Ph.D., he was a *Data Scientist* in an R&D team headed by CTO at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a>. He did his masters from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a>.
 
 Collaborators
 ======
@@ -33,6 +33,9 @@ Updates
 <details open>
 <summary>2023</summary>
 <ul>
+  <li>
+    27 Oct - A workshop paper titled "Towards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning" got accepted in <a style="text-decoration:none" href="https://realworldml.github.io/neurips2023/">NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World</a>.
+  </li>
   <li>
     22 Sep - A paper titled "Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling" got accepted in NeurIPS 2023 Datasets and Benchmarks Track.
   </li>
