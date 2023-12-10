@@ -18,11 +18,11 @@ J'y ai travaillé sur des équations de type "agrégation-diffusion", utilisées
 Et maintenant
 ======
 
-Je participe jusqu'à fin 2023 à la <a href="https://paris-digital-lab.com/digital-tech-year-fr/">Digital Tech Year</a>, un programme intensif en Software Engineering et IA, porté par Illuin Technology et Centrale-Supélec, pendant laquelle sont développés des proofs of concepts de produits digitaux pour des entreprises partenaires, en 7 semaines pour chacun.
+Je participe jusqu'à fin 2023 à la <a href="https://paris-digital-lab.com/digital-tech-year-fr/">Digital Tech Year</a>, un programme intensif en Software Engineering et IA, porté par Illuin Technology et Centrale-Supélec, pendant laquelle sont développés des POC de produits digitaux pour des entreprises partenaires, en 7 semaines pour chacun.
 
 La DTY est ouverte depuis 2023 aux docteurs en mathématiques via le projet <a href="https://www.universite-paris-saclay.fr/graduate-schools/graduate-school-mathematiques/mediation-et-actualites-graduate-school-mathematiques/reconvertai-projet-de-reconversion-en-intelligence-artificielle-graduate-school-mathematiques">ReconvertAI</a> financé par la SaclAI-school et la fondation Hadamard.
 
-Pour me contacter
-------
+Contact
+=======
 
 trantien(at)math.univ-lyon1.fr

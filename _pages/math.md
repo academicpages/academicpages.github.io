@@ -26,8 +26,8 @@ Vous trouverez [ici](https://strantien.github.io/files/exos.pdf) les exercices q
 
 
 Divers
-======
+------
 
-<sup><sub>[Quelques](https://perso.eleves.ens-rennes.fr/people/thibault.modeste/) [illustres](http://math.univ-lyon1.fr/~maucourt) [collègues](http://math.univ-lyon1.fr/~dumas)</sup></sub>
+<sup><sub>[Quelques](https://perso.eleves.ens-rennes.fr/people/thibault.modeste/) [illustres](http://math.univ-lyon1.fr/~maucourt) [collègues](http://math.univ-lyon1.fr/~dumas)</sub></sup>
 
 <!--Je mets aussi un lien vers un excellent texte de Patrick Sargos sur <a href="http://math.univ-lyon1.fr/~trantien/public/enseigner-maths.pdf">l'enseignement des maths à l'université.</a>.-->
