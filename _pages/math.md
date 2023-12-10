@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Recherche
-======
+-------
 
 [Manuscrit de thèse](https://strantien.github.io/files/manuscrit.pdf) et les [slides](https://strantien.github.io/files/slidesSoutenance.pdf) de la soutenance.
 
@@ -18,7 +18,7 @@ Un court [projet d'anglais](https://strantien.github.io/files/tran_tien_rapport.
 
 
 Colles
-======
+------
 
 J'ai donné deux ans durant des colles au Lycée du Parc et au Lycée la Martinière à Lyon, essentiellement en deuxième année.
 

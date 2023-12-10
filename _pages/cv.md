@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Formation
-======
+--------
 
 * Doctorat de mathématiques appliquées "Equations d'agrégation-diffusion : asymptotiques et approximations", Institut Camille Jordan, 2023
 * Master 2 mathématiques appliquées et statistiques "Maths en Action", Université Lyon 1, 2020
@@ -18,7 +18,7 @@ Formation
 
 
 Expérience professionnelle
-======
+--------
 
 * Août 2023 : 13e atelier de résolution de problèmes industriels de Montréal pour Ericsson GAIA 
   * Exploration d'une méthode d'obtention du learning rate pour les algorithmes de online machine learning
@@ -47,24 +47,24 @@ Expérience professionnelle
 
 
 Publications
-======
+--------
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 <!-- Talks
-======
+--------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
 
 <!--Teaching
-======
+--------
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>-->
   
-[CV en pdf](https://strantien.github.io/files/cvTranTien.pdf)
+CV en [pdf](https://strantien.github.io/files/cvTranTien.pdf)
