@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Parcours académique
-======
-
 J'ai soutenu le 3 juillet 2023 une thèse de mathématiques, préparée à l'Institut Camille Jordan sous la direction de [Frédéric Lagoutière](http://math.univ-lyon1.fr/homes-www/lagoutiere/).
 
 J'y ai travaillé sur des équations de type "agrégation-diffusion", utilisées dans la modélisation de la dynamique de bactéries. Plus précisément, j'ai étudié diverses asymptotiques pour les problèmes d'agrégation lorsque le potentiel d'interaction est singulier en réussissant à fournir de nouvelles estimations de convergence en distance de Wasserstein pour les solutions mesures. <br>
