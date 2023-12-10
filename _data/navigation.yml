@@ -19,7 +19,7 @@ main:
     url: /math/
 
   - title: "Enseignement"
-  url: /teaching/  
+    url: /teaching/  
     
   # - title: "Guide"
   #   url: /markdown/

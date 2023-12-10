@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "fr-FR"
-title                    : "Sebastien Tran Tien"
+title                    : "Sébastien Tran Tien"
 title_separator          : "-"
-name                     : &name "Sebastien Tran Tien"
+name                     : &name "S&eacutebastien Tran Tien"
 description              : &description "Page professionnelle"
 url                      : https://strantien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
