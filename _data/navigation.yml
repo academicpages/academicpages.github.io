@@ -3,6 +3,9 @@ main:
   - title: "Media"
     url: /media/
 
+  - title: "Blog"
+    url: /blog/
+
   - title: "Teaching"
     url: /teaching/    
     
