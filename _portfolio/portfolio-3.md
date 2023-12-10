@@ -1,5 +1,5 @@
 ---
-title: "Reap"
-excerpt: "Money transfer device <a href="https://drive.google.com/file/d/1gYzOd-OOWD8rwQRSQaSkh-E_YWt0x2Br/view?usp=sharing">First Iteration [Test]</a><br/><img src='/images/reap.png'>"
+title: "By The Season"
+excerpt: "Spring, Summer, Winter, Fall! We want them all. Users will be able to organize their favorite songs into playlists according to the season that they think is best fit for the seasonal vibe 😎<br/><img src='/images/bytheseason.png'>"
 collection: portfolio
 ---
