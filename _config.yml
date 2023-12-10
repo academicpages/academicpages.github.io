@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhimeng Jiang"
+title                    : "Zhimeng (Stephen) Jiang"
 title_separator          : "-"
-name                     : &name "Zhimeng Jiang"
+name                     : &name "Zhimeng (Stephen) Jiang"
 description              : &description "PhD student, Department of Computer Science and Engineering, Texas A&M University"
 url                      : https://zhimengj0326.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

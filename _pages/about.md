@@ -8,15 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-* I am currently a Staff Research Scientist at Visa Research. I am also a final-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
+* I am a Staff Research Scientist at Visa Research. I am also a final-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
 
-* My research interests lie in the broad area of trustworthy machine learning, graph data mining, and efficient machine learning.
+* My research interests lie in the broad area of trustworthy machine learning, graph learning, efficient machine learning, and GenAI.
 
 Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/files/CV_ZM.pdf)
 <br />
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
+  <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by AAAI 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by WSDM 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> I have successfully passed my thesis defense.</p>
   <p><span style="color:darkred;">[2023/09]</span> Three papers are accepted by NeurIPS 2023.</p>

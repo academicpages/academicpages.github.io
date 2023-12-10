@@ -18,6 +18,11 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[Chasing Fairness in Graphs: A GNN Architecture Perspective]()
+</b><br> <b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Na Zou, Ali Mostafavi, Xia Hu. <br>
+AAAI Association for the Advancement of Artificial Intelligence(**AAAI**), 2024.
+Special Track on Safe, Robust and Responsible AI (SRRAI).
+
 <b>[Learning Alignment and Compactness in Collaborative Filtering]()
 </b><br> Huiyuan Chen, Vivian Lai, Hongye Jin, <b>Zhimeng Jiang</b>, Mahashweta Das, Xia Hu. <br>
 ACM International Conference Web Search and Data Mining(**WSDM**), 2024
