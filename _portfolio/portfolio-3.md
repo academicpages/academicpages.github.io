@@ -1,5 +1,6 @@
 ---
-title: "By The Season"
-excerpt: "Spring, Summer, Winter, Fall! We want them all. Users will be able to organize their favorite songs into playlists according to the season that they think is best fit for the seasonal vibe 😎<br/><img src='/images/bytheseason.png'>"
+title: "Crescendo"
+excerpt: "Crescendo is a web application which brings music lovers to one platform, where they can indulge with one another through social media like vices. <br/><img src='/images/Crescendo.png'>"
 collection: portfolio
 ---
+

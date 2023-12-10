@@ -14,7 +14,15 @@ Spotlight
 ======
 
 ### Reap ###
-![ReapV1.5](/images/editing-talk.png)
+![ReapV1.5](/images/reap.png)
+
+Reap is a contactless payment device I have been working on using NFID and RFC technologies (many versions and still in progress)
+
+In today's society we are quickly moving past the need for physical currencies, but not everyone is able to keep up with such progressions due to one disadvantage or another. I have seen many people on the internet mention how if they could just tap to pay to donate to those who are houseless/homeless then 9 times out of 10 they would. But because they typically don't carry cash on them they can't donate as frequently as they would like to. 
+
+The donor would simply tap the wearers device with their phone. This will bring up a screen to ask for a donation amount. Via the users phone they will input the amount they'd like to donate, transfer and move on. 
+
+As for the product ‘reap’ the idea is for the device to be inconspicuous, accessible and portable. Ease of use. 
 
 ### Teradata ###
 At Teradata I was able to

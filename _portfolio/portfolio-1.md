@@ -1,5 +1,5 @@
 ---
-title: "LetStudy"
-excerpt: "LetStudy (Lets - Study) is a fullstack application that allows users to communicate in real time with others. This app is geared towards those who study, as the pomodoro study technique is implemented in each study session room. <br/><img src='/images/letsStudy.png'>"
+title: "By The Season"
+excerpt: "Spring, Summer, Winter, Fall! We want them all. Users will be able to organize their favorite songs into playlists according to the season that they think is best fit for the seasonal vibe 😎<br/><img src='/images/bytheseason.png'>"
 collection: portfolio
 ---
