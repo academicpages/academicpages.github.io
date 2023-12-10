@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Parcours académique"
+title: "A propos"
 excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Parcours académique
+======
 
 J'ai soutenu le 3 juillet 2023 une thèse de mathématiques, préparée à l'Institut Camille Jordan sous la direction de [Frédéric Lagoutière](http://math.univ-lyon1.fr/homes-www/lagoutiere/).
 
