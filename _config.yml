@@ -56,9 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
+  twitter                :
+  username               :
+  facebook               :
   username               :
   app_id                 :
   publisher              :
@@ -110,7 +110,7 @@ author:
   # stackoverflow    : # http://stackoverflow.com/users/123456/username
   # steam            :
   # tumblr           :
-  # twitter          : 
+  twitter            : "https://twitter.com/SeanLiu0702"
   # vine             :
   # weibo            :
   # xing             :
