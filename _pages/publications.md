@@ -11,6 +11,11 @@ author_profile: true
 ---
 # Publications
 
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**
+
+Fangzhou Lin\*, **Haotian Liu\***, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory Fischer, Yanhua Li, and Ziming Zhang (* co-first author)
+*Under review* Paper upon request
+
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
 Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz
@@ -24,7 +29,7 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 **Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 
 **Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
-In [*preprint*](https://arxiv.org/abs/1910.02544v1)
+[*preprint*](https://arxiv.org/abs/1910.02544v1)
 
 ---
 # Projects
