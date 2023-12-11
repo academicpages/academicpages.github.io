@@ -23,7 +23,7 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 ## 2023
 * <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Liang Zhao.<br>
-<I>AMHN Workshop @NeurIPS 2023</i>.<br>
+<i>AMHN Workshop @NeurIPS 2023</i>.<br>
 [[paper](https://openreview.net/pdf?id=Fhx7nVoCQW)][[code](https://github.com/BaiTheBest/SHARC)]<br>
 
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
