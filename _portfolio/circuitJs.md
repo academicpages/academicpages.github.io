@@ -23,7 +23,7 @@ Raspberry Pi 4のGPIOをデジタル入出力として利用し，CircuitJsの�
 # 実験資料からの抜粋
 
 {% for filename in (1..9)%}
-<img src="{{ s.image | prepend: "/images/" | prepend: base_path }}.jpg" />
+<img src="{{ filename | prepend: "/images/" | prepend: base_path }}.jpg" />
 {% endfor %}
 
 # 実装したところ
