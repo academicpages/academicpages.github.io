@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Engineering Mechanics, Harbin Institute of Technology, 2013-2017
+* M.Sc. in Aeronautical Engineering, Hong Kong University of Science and Technology (HKUST), 2017-2018
+* Ph.D in Mechanical Engineering (Scientific computation concentration), HKUST, 2018-2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2023: Postdoctoral Fellow
+  * HKUST
+  * Duties included: Data analysis and visualization, machine learning modeling, project management
+  * Supervisor: Professor Rhea Liem
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023-Present: Co-founder, Chief Technology Officer (CTO)
+  * FinCatch
+  * Duties included: Project management, software development, model integration
+
+* 2023-Present: SMARTS Senior Research Associate
+  * Lancaster University Management School (LUMS)
+  * Duties included: Mathematical modeling, dynamic airspace configuration
+  * Supervisor: Professor Guglielmo Lulli
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Big data
+* Software development
+  * Python
+  * JavaScript
+  * Linux
+* Machine learning
+  * PyTorch
+  * Scikit-learn
+* Optimization
+  * Gurobi
+* Statistical modeling
+  * PyMC
 
 Publications
 ======
@@ -56,4 +66,15 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for Scholarly Journals:
+  * Transportation Research Part D
+  * Sustainable Cities and Society
+  * Aerospace
+  * Applied Science
+  * Mathematics
+  * Remote Sensing
+* Session chair:
+  * Data-driven methods for analyzing the terminal airspace, 2023 INFORMS Annual Meeting
+  * Simulation, Modeling, and Optimization for Air Transportation and Emerging Mobility, 2023 INFORMS Annual Meeting
+* Academic awards:
+  * {HKUST RedBird Academic Excellence Award, 2022
