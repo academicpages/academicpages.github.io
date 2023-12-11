@@ -17,7 +17,7 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
-  <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by AAAI 2024.</p>
+  <p><span style="color:darkred;">[2023/12]</span> One paper is accepted by AAAI 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by WSDM 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> I have successfully passed my thesis defense.</p>
   <p><span style="color:darkred;">[2023/09]</span> Three papers are accepted by NeurIPS 2023.</p>
