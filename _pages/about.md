@@ -12,6 +12,14 @@ redirect_from:
 
 I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/) majoring in Robotic Engineering and Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Medical Assistive Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/), Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/), and Prof. [Christopher Julius Nycz](https://www.wpi.edu/people/faculty/cjnycz) at [AIM Lab](http://aimlab.wpi.edu/).
 
+# News
+
+I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025.
+
+# Research Vision
+
+My long-term research vision is to build automation systems that can be self-adaptive to new environments based on perception and learn concepts from logistics reasoning. The recent research topics rely on trustworthy 3D vision with completed information, vision-based manipulation, and task motion planning.
+
 # Selected Publications
 
 - 3D Point Cloud
