@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Anirudh Sundara Rajan"
-  avatar           : "images/bio-photo.jpg"
+  # avatar           : "images/bio-photo.jpg"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Madison, Wisconsin"
   employer         :
