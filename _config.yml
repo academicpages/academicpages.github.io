@@ -81,7 +81,6 @@ analytics:
 # Site Author
 author:
   name             : "Anirudh Sundara Rajan"
-  avatar           : #"images/bio-photo.jpg"
   bio              : "Graduate Student at University of Wisconsin-Madison"
   location         : "Madison, Wisconsin"
   employer         :
