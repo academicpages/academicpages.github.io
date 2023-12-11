@@ -10,11 +10,6 @@ Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jia
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/pdf/2302.02093)]<br>
 
-* <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
-<b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Yifei Zhang, Liang Zhao.<br>
-<i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2310.04334)][[code](https://github.com/BaiTheBest/SHARC)]<br>
-
 * <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
 <b>Guangji Bai</b>, Ziyang Yu*, Zheng Chai, Yue Cheng, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
@@ -26,6 +21,11 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/pdf/2206.00057)][code]<br>
 
 ## 2023
+* <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
+<b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Liang Zhao.<br>
+<I>AMHN Workshop @NeurIPS 2023</i>.<br>
+[[paper](https://arxiv.org/pdf/2310.04334)][[code](https://github.com/BaiTheBest/SHARC)]<br>
+
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
 <b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
 <i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral)</i>.<br>
