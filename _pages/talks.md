@@ -42,6 +42,6 @@ author_profile: true
 - **Author & Speaker @ CRYPTO19**, Santa Barbara, California, US.  
 *Title*: Match me if you can: matchmaking encryption and its applications.
 
-- **Author & Speaker @ ACNS19**, Bogotà, Colombia.
+- **Author & Speaker @ ACNS19**, Bogotà, Colombia.\
 *Title*: Public immunization against complete subversion without random oracles.
 
