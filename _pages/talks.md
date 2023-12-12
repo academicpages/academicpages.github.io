@@ -24,7 +24,7 @@ author_profile: true
 - **Talk @ Crypto Day**, Aarhus University, Aarhus, Denmark.  
 *Title*: Structure-Preserving Compilers from New Notions of Obfuscations.
 
-- **Talk @ SPRING Lab (EPFL)**, Losanna, Svizzera.  
+- **Talk @ SPRING Lab**, EPFL, Losanna, Svizzera.  
 *Title*: Anonymous Communication: Matchmaking Encryption.
 
 - **Author & Speaker @ SBC workshop (held in conjunction with ASIACCS21)**, Hong Kong, China.  
