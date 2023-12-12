@@ -18,6 +18,10 @@ https://www.lasexta.com/programas/la-roca/motivo-que-sociologa-defiende-que-padr
 
 
 ## 2018
+#### El mòbil: el nou generador de conflictes familiars
+<i>Ràdio 4</i> (March 2018).
+https://www.rtve.es/play/audios/amics-i-coneguts/amics-coneguts-report-mobil-nou-generador-conflictes-familiars/4509205/
+
 #### Por qué restringir el móvil a tu hijo no es buena idea
 <i>La Vanguardia</i> (February 2018).
 https://www.lavanguardia.com/vida/20180205/44554866125/uso-movil-tecnologias-adolescentes-hijos.html
