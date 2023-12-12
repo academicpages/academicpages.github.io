@@ -2,6 +2,7 @@
 layout: archive
 permalink: /onmedia/
 author_profile: true
+title: Popular Press
 ---
 
 # 2023
