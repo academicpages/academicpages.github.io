@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Currently I am a part of Mckenney's ongoing rotational IT co-op in Atlanta, Georgia. I am also working as a UI Engineer intern at Teradata for the summer. 
+I am a gradute student at Kennesaw State University getting my master of science degree in software engineering. I received my bachelor of science from Gordon State College in middle grades education. Currently I am a part of Mckenney's ongoing rotational IT co-op in Atlanta, Georgia. I am also working as a UI Engineer intern at Teradata for the summer of 2024. 
 
 Spotlight
 ======
@@ -25,7 +25,8 @@ The donor would simply tap the wearers device with their phone. This will bring 
 As for the product ‘reap’ the idea is for the device to be inconspicuous, accessible and portable. Ease of use. 
 
 ### Teradata ###
-At Teradata I was able to work on the User Interface engineering team, is the driving factor to pivot Teradata to a worldclass, customer-centric technology company, that transforms how business work and people live through the power of data.  
+At Teradata I was able to work on the user interface engineering team. I worked directly on company products, showcasing and demonstrating implementations, and cultivated relationships with different departments to work on monthly releases.  
 
 ### Mckenney's Inc ###
-During my time at McKenney's I have been able to work in many different disciplines. From application development to cloud engineering. 
+During my time at McKenney's I have been able to work in many different disciplines; from application development to cloud engineering. 
+This is due to the fact that I was given the opportunity to work multiple work terms at this company in the IT co-op for the length of my time as a student. 
