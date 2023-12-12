@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "onmedia"
+permalink: /onmedia/
 author_profile: true
 ---
 
