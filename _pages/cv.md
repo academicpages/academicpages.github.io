@@ -59,15 +59,15 @@ Skills
   * PHP
 
 * Frameworks 
+  * Angular
   * JQuery
   * React
   * Express
   * Bootstrap
 
 * Technologies 
-  * AWS Services 
+  * Postman 
   * Node
-  * ServiceNow
   * Rest
   * Bigcommerce 
   * MongoDB
