@@ -25,3 +25,11 @@ author_profile: true
 
 #### Corporate Elite Ideology Data, 1980-2014 (Merge BoardEx with DIME data). Available upon request.
 
+#### Multiplex Anti-AAPI Hate Dataset (Twitter). Available upon request.
+
+#### Sinophobia on Twitter. Available upon request.
+
+#### Experienced partisan segregation at POI and community level. Available upon request.
+
+#### LLVM4Protest: Two large language and vision models to detect protest in news. Available on github.
+
