@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Yang Yang (杨阳), currently a first-year doctoral student at the [Insight SFI Research Centre for Data Analytics at the University of Galway](https://www.insight-centre.org), under Prof. Edward Curry’s supervision. My research interests focus on open knowledge graphs and data mining. I received my Master degree from Computer Science department, Nankai University, advised by Prof. Wei Shen. 
+My name is Yang Yang (杨阳), currently a first-year doctoral student at the [Insight SFI Research Centre for Data Analytics at the University of Galway](https://www.insight-centre.org), under [Prof. Edward Curry](https://edwardcurry.org)’s supervision. My research interests focus on open knowledge graphs and data mining. I received my Master degree from Computer Science department, Nankai University, advised by [Prof. Wei Shen](https://scholar.google.com/citations?user=Q_U6r_YAAAAJ&hl=en&authuser=1). 
 
 You can find my CV here: [Yang Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
