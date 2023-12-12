@@ -13,6 +13,10 @@ author_profile: true
 
 
 # 2022
+### Does the use of social media affect adolescents’ welfare or is it the other way around?
+<i>UPF</i> (February 2022).
+[https://www.upf.edu/web/e-noticies/home/-/asset_publisher/wEpPxsVRD6Vt/content/id/254718158](https://www.upf.edu/web/e-noticies/home/-/asset_publisher/wEpPxsVRD6Vt/content/id/254718158)
+
 ### El motivo por el que una socióloga defiende que los padres no quiten los móviles a niños y adolescentes: "Más que limitar, hay que educar"
 <i>La Roca. La Sexta</i> (January 2022).
 [https://www.lasexta.com/programas/la-roca/motivo-que-sociologa-defiende-que-padres-quiten-moviles-ninos-adolescentes-mas-que-limitar-hay-que-educar_2022012361ed8b3e9890160001c3a35e.html](https://www.lasexta.com/programas/la-roca/motivo-que-sociologa-defiende-que-padres-quiten-moviles-ninos-adolescentes-mas-que-limitar-hay-que-educar_2022012361ed8b3e9890160001c3a35e.html)
