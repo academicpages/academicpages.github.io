@@ -1,9 +1,10 @@
 ---
 layout: archive
+title: "Popular Press"
 permalink: /onmedia/
 author_profile: true
-title: Popular Press
 ---
+
 
 # 2023
 ### Los 'antiprohibicionistas' de los móviles responden: "Quitárselo hasta los 14 es peor" 
