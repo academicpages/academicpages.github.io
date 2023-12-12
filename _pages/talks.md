@@ -6,6 +6,9 @@ sitemap: false
 author_profile: true
 ---
 
+**Talk @ GMU**, Fairfax, Virginia.  
+*Title*: Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models.
+
 - **Author & Speaker @ EUROCRYPT23**, Lyon, France.  
 *Title*: Multi-key and Multi-input Predicate encryption from Learning with Error.
 
