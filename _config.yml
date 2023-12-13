@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Austin's Personal Website"
 title_separator          : "-"
 name                     : &name "Austin T. Barton"
-description              : &description "Prsonal website portfolio."
+description              : &description "Personal website portfolio."
 url                      : https://abarton51.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abarton51/abarton51.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Austin T. Barton"
-  avatar           : "images/me_waterfall.jpg"
+  avatar           : "me_waterfall.jpg"
   bio              : "Undergraduate Math and CS @ GA Tech"
   location         : "Atlanta, GA"
   employer         :
