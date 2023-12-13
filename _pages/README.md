@@ -24,7 +24,7 @@ author_profile: false
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4"><img width="140px" src="https://i.ytimg.com/vi/BCDCSNWCts4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4">AI Agents Building Apps for me ! Build Apps in PYTHON and REACT with NO CODE &lpar;@databutton  updates&rpar;</a><br/>Dec 11, 2023</td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=BCDCSNWCts4">AI AGENTS Building AI App using PYTHON and REACT🤯| No code |</a><br/>Dec 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY"><img width="140px" src="https://i.ytimg.com/vi/GAZmtAByzjY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GAZmtAByzjY">Building Web Apps with GPT-4 Vision &amp; Text to Speech &lpar;TTS&rpar; API - Transform Videos into AI Voiceovers</a><br/>Nov 30, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=ZPe8isJWikQ"><img width="140px" src="https://i.ytimg.com/vi/ZPe8isJWikQ/mqdefault.jpg"></a></td>
