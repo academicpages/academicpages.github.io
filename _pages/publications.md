@@ -62,6 +62,10 @@ ACM International Conference on Information and Knowledge Management (**CIKM**),
 
 ## Journal
 -----
+* Integrating Graphs with Large Language Models: Methods and Prospects \[[PDF](https://arxiv.org/abs/2310.05499)\]  
+Shirui Pan, Yizhen Zheng, **Yixin Liu**.  
+IEEE Information Systems, 2023.
+
 * Graph Self-Supervised Learning: A Survey \[[PDF](https://arxiv.org/pdf/2103.00111.pdf)\]  
 **Yixin Liu**, Ming Jin, Shirui Pan, Chuan Zhou, Yu Zheng, Feng Xia, Philip S. Yu.  
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2022. 
@@ -100,10 +104,6 @@ IEEE International Joint Conference on Neural Networks (**IJCNN**), 2023.
 
 ## Preprint
 -----
-* Integrating Graphs with Large Language Models: Methods and Prospects \[[PDF](https://arxiv.org/abs/2310.05499)\]  
-Shirui Pan, Yizhen Zheng, **Yixin Liu**.  
-2023.
-
 * Towards Data-centric Graph Machine Learning: Review and Outlook \[[PDF](https://arxiv.org/abs/2309.10979)\]  
 Xin Zheng, **Yixin Liu**, Zhifeng Bao, Meng Fang, Xia Hu, Alan Wee-Chung Liew, Shirui Pan.  
 2023.
