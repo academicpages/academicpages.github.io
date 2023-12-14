@@ -1,13 +1,13 @@
 ---
-title: "Two-Axis Tilting CNC Rotary Table"
-excerpt: "Custom two-axis tilting rotary table with pneumatic brake<br/><img src='/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png'>"
+title: "2-Axis Tilting CNC Rotary Table"
+excerpt: "Custom 2-axis tilting rotary table with pneumatic brake<br/><img src='/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png'>"
 collection: projects
 tags: design, machine
 ---
 
 ![Two-Axis Tilting Rotary Table](/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png)
 
-This two-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the x-axis and rotary axes will travel underneath the y-axis and mill spindle, as shown below. 
+This 2-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the x-axis and rotary axes will travel underneath the y-axis and mill spindle, as shown below. 
 
 ![5-Axis CNC Bridge Mill](/images/Mill Render 1_w300.jpg)
 
@@ -17,7 +17,7 @@ This project provided many opportunities to learn more about machine design, ele
 
 ## Design
 
-This two-axis tilting rotary table is designed to be compact and stiff (both moment stiffness and torsional stiffness). Primary components include:
+This 2-axis tilting rotary table is designed to be compact and stiff (both moment stiffness and torsional stiffness). Primary components include:
 
 1. Large diameter needle roller thrust bearings
 2. Oversized crossed roller bearings
