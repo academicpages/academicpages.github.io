@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+* **TensoRF Re-implementation**
+TensoRF introduces a novel way to model and reconstruct radiance fields by factorizing tensors into multiple compact low-rank tensor components. This allows for more efficient scene modeling and realistic rendering of 3D scenes, with advantages like super-fast convergence, a compact memory footprint, and the ability to capture vivid details. By re-implementing the TensorVMSplit-192 model for a lego scene, I was able to achieve a Peak Signal-to-Noise Ratio (PSNR) of 36.49, which exceeds the paper's reported 35.72 for the same scene. This project is the beginning of my exploratory journey into the realm of 3D computer vision and the potential of Neural Radiance Fields (NeRF) as a research direction. 
+
 * **Base Layer Efficiency in Scalable Human-Machine Coding** [[arXiv]](https://arxiv.org/pdf/2307.02430.pdf)
   
 A basic premise in scalable human-machine coding is that the base layer is intended for automated machine analysis and is therefore more compressible than the same content would be for human viewing. Use cases for such coding include video surveillance and traffic monitoring, where the majority of the content will never be seen by humans. Therefore, base layer efficiency is of paramount importance because the system would most frequently operate at the base-layer rate. In this paper, we analyze the coding efficiency of the base layer in a state-of-the-art scalable human-machine image codec, and show that it can be improved. In particular, we demonstrate that gains of 20-40% in BD-Rate compared to the currently best results on object detection and instance segmentation are possible.
