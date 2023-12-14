@@ -23,4 +23,4 @@ author_profile: true
 * **Electronic 1**
 * **Electronic 3**
 
-As a dedicated educator, my teaching journey extends beyond formal classroom settings. I have also volunteered and worked as a self-employed tutor in various subjects, including Neural Networks, Electronic 1, Logic Circuits, Computer Architecture, and Mathematics, during my academic career. This experience has not only deepened my understanding of these subjects but also reinforced my passion for teaching.
+As a dedicated educator, my teaching journey extends beyond formal classroom settings. I have also volunteered and worked as a self-employed tutor in various subjects, including Neural Networks, Electronic 1, Logic Circuits, Computer Architecture, and Mathematics, during my academic career. Engaging in these tutoring has consistently fulfilled my passion for teaching and broadened my understanding of these subjects.
