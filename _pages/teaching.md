@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Teaching Assistant"
+title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
+Teaching Assistant at:\
 **Simon Fraser University, Engineering Science Department (ENSC)**
 * **ENSC180 - Introduction to Engineering Analysis**
 * **ENSC440 - Capstone B: Project Design, Management, and Documentation**
