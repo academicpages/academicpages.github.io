@@ -7,21 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at Simon Fraser University's Engineering Science (ENSC) department, deeply passionate about research in computer vision and deep learning. I chose to pursue a Ph.D. in this field because I believe it has the potential to revolutionize various aspects of our lives, and autonomous driving is just one example of how this technology can make a significant impact. My career goal is to become a leading computer vision researcher and contribute to the advancement of technology for our generation or futures.
+I am a Ph.D. student at Simon Fraser University's Engineering Science (ENSC) department, with a profound passion for research in computer vision and deep learning. The potential of these technologies to revolutionize aspects of our daily lives, particularly in areas like autonomous driving, has always fascinated me. This fascination has shaped my career goal: to become a leading researcher in computer vision and contribute to technological advancements for current and future generations.
 
-Currently, I am dedicated to exploring the intersections of Information Theory and Deep Learning, with a specific focus on developing learned image codecs for machines. I am experienced in Python programming, both PyTorch and TensorFlow frameworks, and have been actively engaged with neural networks since 2016.
+Since 2016, my academic path has evolved significantly, beginning with exploring driver consciousness using EEG signals, advancing to the development of hand gesture recognition for computer mouse control, and then delving into the intersections of information theory and deep learning. This journey has been centered around the development of learned image codecs for human and machine. This area of research is especially vital in fields like autonomous driving, as it ensures real-time and accurate environmental perception and decision-making, significantly enhancing both performance and reliability on the roads.
 
-My research interests include:
+My key research interests include:
 
-* Object Detection and Segmentation
+* Computer Vision
+* Deep Learning
 * Learned Image and Video Compression
-* Scalable Image Codecs for Humans and Machines
 
-Some of the projects that I have recently worked on or contributed to are:
+Notable projects to which I have contributed or led:
 
+* TensoRF Re-implementation
 * Base Layer Efficiency in Scalable Human-Machine Coding
 * Rate-Distortion Theory in Coding for Machines and its Applications
 * VVC+M: Plug and Play Scalable Image Coding for Humans and Machines
+* Control of Computer Pointer Using Hand Gesture Recognition in Motion Pictures
 
+Recently, my focus has shifted towards 3D computer vision, specifically in the realm of NeRF models for 3D reconstruction and novel-view synthesis. This pivot marks a significant and exciting new chapter in my research career.
 
-I engage in diverse hobbies and passions. I go to gym three times a week for a dynamic mix of weightlifting and TRX, nurturing both my fitness and overall well-being. I find satisfaction in solving puzzles, as a mental exercise and also a source of enjoyment. While I once immersed myself in crime and mystery movies, due to scarcity of finding one, I switched to historical documentaries and podcasts, with a particular focus on the World War II and Cold War eras.
+Outside the lab, I engage in various hobbies to maintain a balanced lifestyle. Regular workouts at the gym, a keen interest in puzzles and board games, along with a fondness for crime movies and series, are among my favorite leisure activities.
+
