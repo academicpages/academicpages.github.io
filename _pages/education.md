@@ -19,7 +19,7 @@ author_profile: true
   **Amirkabir University of Technology** | <span style="color:grey;">2012 - 2017</span>\
   **Thesis**: Driver’s Consciousness Level Analysis Using EEG Signals
   
-* **Online Courses**
+* **Online Courses**\
   **Coursera**
   * Deep Neural Networks with PyTorch [[Certificate]](https://coursera.org/share/7c0984ec097071fa955eed9b2ca8ffee)
   * Neural Networks and Deep Learning [[Certificate]](https://www.coursera.org/account/accomplishments/verify/RFAWW2FJK9ZC)
