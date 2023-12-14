@@ -5,9 +5,9 @@ permalink: /awards-and-honors/
 author_profile: true
 ---
 
-* **Talent Bursary Recipient** from amii (Alberta Machine Intelligence Institute), 2022
+* **Talent Bursary Recipient** from amii (Alberta Machine Intelligence Institute)|2022
 
-* **Ph.D. Admission Scholarship** from University of Tehran, 2020
+* **Ph.D. Admission Scholarship** from University of Tehran | 2020
 
 * **Exceptional Talent Distinction** by National Organization for Development of Exceptional Talents (Sampad), 2008 & 2005
 
