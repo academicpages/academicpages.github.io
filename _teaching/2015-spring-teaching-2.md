@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 2"
+title: "Big Data Management (LTAT.02.003)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Masters Level Course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University of Tartu"
+date: 2014-01-01
+location: "Tartu,Estonia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Worked in the Big Data Management (LTAT.02.003), University of Tartu, Tartu, Estonia
 
-Heading 1
-======
+- Fall 2020 (Lecturer & Teaching Assistant)
+<!-- ====== -->
 
-Heading 2
-======
+- Fall 2019 (Teaching Assistant)
+<!-- ====== -->
 
-Heading 3
-======
