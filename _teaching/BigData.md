@@ -10,7 +10,7 @@ location: "Tartu,Estonia"
 
 Worked in the Big Data Management (LTAT.02.003), University of Tartu, Tartu, Estonia
 
-- Fall 2020 (Lecturer & Teaching Assistant)
+- Fall 2020 (Teaching Assistant)
 <!-- ====== -->
 
 - Fall 2019 (Teaching Assistant)
