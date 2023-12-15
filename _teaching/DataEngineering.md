@@ -2,7 +2,7 @@
 title: "Data Engineering (LTAT.02.007)"
 collection: teaching
 type: "Masters Level Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/DataEngineering
 venue: "University of Tartu"
 date: 2014-01-01
 location: "Tartu,Estonia"
