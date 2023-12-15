@@ -4,8 +4,9 @@ collection: teaching
 type: "Masters & Ph.D. Level Course"
 permalink: /teaching/DataEngineering
 venue: "University of Tartu"
-# date: 2014-01-01
 location: "Tartu, Estonia"
+# date: 2014-01-01
+
 ---
 
 Worked in the "Data Engineering" (LTAT.02.007), University of Tartu, Tartu, Estonia
