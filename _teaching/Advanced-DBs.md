@@ -5,7 +5,6 @@ type: "Masters & Ph.D. Level Course"
 permalink: /teaching/Advanced-DBs
 venue: "University of Tartu"
 location: "Tartu, Estonia"
-# date: 2014-01-01
 
 ---
 
