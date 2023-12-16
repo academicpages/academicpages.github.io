@@ -15,7 +15,7 @@ imagecredit_name: 'Super Snapper'
 
 # TL;DR
 I set up a wrapper around task-spooler.
-See the repository: https://github.com/bstee615/shared-task-spooler.
+See the repository: [https://github.com/bstee615/shared-task-spooler](https://github.com/bstee615/shared-task-spooler).
 
 To use it, create a file containing this script and invoke it using the same arguments as task-spooler:
 
@@ -119,5 +119,5 @@ ID   State      Output               E-Level  Times(r/u/s)   Command [run=0/1]
 0    finished   /tmp/ts-out.t7NbRs   0        0.00/0.00/0.00 [alice]echo hello
 ```
 
-The final version is wrapped into a convenient helper script `q` in this repository: https://github.com/bstee615/shared-task-spooler.
+The final version is wrapped into a convenient helper script `q` in this repository: [https://github.com/bstee615/shared-task-spooler](https://github.com/bstee615/shared-task-spooler).
 To install it, you can clone it into a directory shared by all users (we have it in `/opt/shared-queue`), add the directory to the `PATH` variable, and start using `q`!
