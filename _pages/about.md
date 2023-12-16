@@ -25,7 +25,7 @@ The donor would simply tap the wearers device with their phone. This will bring 
 As for the product ‘reap’ the idea is for the device to be inconspicuous, accessible and portable. Ease of use. 
 
 ### Teradata ###
-At Teradata I was able to work on the user interface engineering team. I worked directly on company products, showcasing and demonstrating implementations, and cultivated relationships with different departments to work on monthly releases.  
+At Teradata I was able to work on the user interface engineering team. I worked directly on company products, showcasing and demonstrating new implementations to stakeholders, and cultivating relationships with different departments to work on monthly releases.  
 
 ### Mckenney's Inc ###
 During my time at McKenney's I have been able to work in many different disciplines; from application development to cloud engineering. 
