@@ -6,6 +6,11 @@ permalink: /posts/2023/12/shared-task-spooler/
 tags:
   - blog-post
   - tooling
+image: '/files/unsplash/super-snapper-sdTL4qTynfM-unsplash.jpg'
+imagealt: 'Playmobil people queuing for a gallery while a fancy red sports car whizzes past'
+# imageoffset: "61%"
+imagecredit_id: '@supersnapper27'
+imagecredit_name: 'Super Snapper'
 ---
 
 # TL;DR
