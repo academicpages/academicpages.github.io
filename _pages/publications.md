@@ -30,6 +30,7 @@ Imaging of Nearby Galaxies Project\"*, 2020, PASJ, 72, 4, 61
 
 
 # Co-authored papers
+Iwasaki, D.; **Cooray, S.**; Takeuchi, T. T.; "Extracting an Informative Latent Representation of High-Dimensional Galaxy Spectra", NeurIPS accepted (arXiv:2311.17414), ([arxiv:2311.17414](https://arxiv.org/abs/2311.17414))
 
 Matsui, S. A.; Takeuchi, T. T.; Kono, K. T.; **Cooray, S.**; "Photometric Observations and Period Analysis of
 an SU UMa-type Dwarf Nova, MASTER OT J004527.52+503213.8", ([arxiv:2303.14558](https://arxiv.org/abs/2303.14558))

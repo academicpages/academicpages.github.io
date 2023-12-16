@@ -18,13 +18,17 @@ author_profile: true
 
 Some information is in this deprecated [site](https://sites.google.com/view/suchethac)
 
-<!-- # Unifying galaxy formation with cosmology
+# Learning galaxies with machine learning
 
-Galaxy formation and cosmology are inextricably intertwined; the cosmological structure formation dictates the general features of galaxy formation, while the specifics of galaxy evolution can influence our cosmological measurements. Therefore, these two fields needs to be studied together.
+
+
+# Unifying galaxy formation with cosmology
+
+Galaxy formation and cosmology are inextricably intertwined; the cosmological structure formation dictates the general features of galaxy formation, while the specifics of galaxy evolution can influence our cosmological measurements. Therefore, these two fields needs to be studied together. -->
 
 I am working on a machine leanrning model -->
 
-
+# Faraday Tomography
 
 
 <!-- I am a currently graduate student in the galaxy evolution group (Ω Lab) at Nagoya University, Japan. I am also a Reseach Fellow (DC1) at the Japan Society for the Promotion of Science.
