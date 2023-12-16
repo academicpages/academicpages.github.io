@@ -7,6 +7,34 @@ author_profile: true
 
 ## Invited Talks
 
+**24/01/22:** Astronomical Institute Colloquium - Tohoku University: "A Comprehensive Understanding of the Light from Galaxies" (Confirmed)
+
+**24/01/09:** AI@HEP Workshop - KEK: "AI Methods in Galaxy Formation" (Confirmed)
+
+**23/11/03:** Charlie Conroy’s Group Meeting - Harvard University: "A Comprehensive Understanding of the Light from Galaxies"
+
+**23/10/30:** CAS Seminar - Center for Astrophysical Sciences, John Hopkins University: "A Comprehensive Understanding of the Light from Galaxies"
+
+**23/10/27:** Galaxy Formation Group Meeting - Center for Computational Astrophysics, Flatiron Institute: "A Comprehensive Understanding of the Light from Galaxies"
+
+**23/10/26:** Astro Data Lab Seminar - Princeton University: "A Comprehensive Understanding of the Light from Galaxies"
+
+**23/10/24:** NYU CCPP Astro Seminar - New York University: "Forward Modeling of Light from Galaxies"
+
+**23/10/19:** Survey Science Group Meeting - Chicago University: "A Forward Modeling Approach to Understanding the Light from Galaxies"
+
+**23/10/16:** CPAC Seminar - Argonne National Laboratory: "A Forward Modeling Approach to Understanding the Light from Galaxies"
+
+**23/10/10:** BCCP/Cosmology Seminar - UC Berkeley: "A Forward Modeling Approach to Understanding the Light from Galaxies"
+
+**23/08/17:** KIPAC Magnetism Group Meeting - Stanford University: "CRAFT: A New Faraday Tomography Technique"
+
+**23/08/15:** KIPAC Galaxy Formation & Cosmology Group Meeting - Stanford University: "Future of Empirical Galaxy Formation Models"
+
+**23/08/08:** KIPAC Tea Talk - Stanford University: "Simulating the Light of Observed Galaxies"
+
+**23/06/13:** Physics Department Constitution Day Colloquium - Nagoya: "Generative Models for Physics Research"
+
 **23/04/12** NAOJ Science Colloquium - Tokyo: *”Learning Representations of Galaxies”*
 
 **23/03/07** SKA-Japan Workshop 2022 - Tokyo: *"Wavelets and Sparsity for Faraday Tomography"*
@@ -27,12 +55,18 @@ Magnetism with Faraday Tomography"*
 
 ## Conference & Workshop Talks
 
-#### 2023
+### 2023
+**23/12/12:** Observational Cosmology Workshop - Saga, Japan: "A Flexible Galaxy Formation Model for Field-level Inference"
+
+**23/11/13:** Galaxy Workshop - Tokyo, Japan: "A New Approach to Inferring Galaxy Physical Properties"
+
+**23/09/01:** HSC Medium Band Workshop - Nagoya, Japan: "Realistic Simulation of the Light from Galaxies"
+
 **23/03/22** Galaxy Formation and Evolution in the Data Science Era - Santa Barbara, USA: *"Learning representations of galaxies from simulations and observations"*
 
 **23/03/15** Spring Annual Meeting of Astronomical Society of Japan - Tokyo, Japan: *"Generative Model of Simulated Galaxies for Fitting Observed SEDs"*
     
-#### 2022
+### 2022
 **22/12/21** Rironkon Symposium 2022 - Fukushima, Japan: *"Generative
 Modeling for Galaxy Star Formation Histories"*
 
@@ -67,7 +101,7 @@ Online: *"Time Evolution on the Galaxy Manifold"*
 **22/02/08** Galaxy Evolution Workshop 2021 - Tokyo & Online: *"Galaxy
 Manifold: A Unification of Observed Galaxy Properties"*
 
-#### 2021
+### 2021
 **21/12/11** Sri Lanka Students' Association in Japan Annual Research
 Conference - Online: *"Unmasking the unseen"*
 
@@ -87,7 +121,7 @@ Online: *"Understanding Galaxy Evolution through Machine Learning"*
 **21/02/05** Galaxy Evolution Workshop 2020 - Online: *"Understanding
 Galaxy Evolution through Machine Learning"*
 
-#### 2020
+### 2020
 **20/12/01** Science at Low Frequencies VII (SALF VII) - Online: *"An
 Iterative Reconstruction Algorithm for Faraday Tomography"*
 
