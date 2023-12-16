@@ -55,7 +55,7 @@ Magnetism with Faraday Tomography"*
 
 ## Conference & Workshop Talks
 
-### 2023
+<!-- ### 2023 -->
 **23/12/12:** Observational Cosmology Workshop - Saga, Japan: "A Flexible Galaxy Formation Model for Field-level Inference"
 
 **23/11/13:** Galaxy Workshop - Tokyo, Japan: "A New Approach to Inferring Galaxy Physical Properties"
@@ -66,7 +66,7 @@ Magnetism with Faraday Tomography"*
 
 **23/03/15** Spring Annual Meeting of Astronomical Society of Japan - Tokyo, Japan: *"Generative Model of Simulated Galaxies for Fitting Observed SEDs"*
     
-### 2022
+<!-- ### 2022 -->
 **22/12/21** Rironkon Symposium 2022 - Fukushima, Japan: *"Generative
 Modeling for Galaxy Star Formation Histories"*
 
@@ -101,7 +101,7 @@ Online: *"Time Evolution on the Galaxy Manifold"*
 **22/02/08** Galaxy Evolution Workshop 2021 - Tokyo & Online: *"Galaxy
 Manifold: A Unification of Observed Galaxy Properties"*
 
-### 2021
+<!-- ### 2021 -->
 **21/12/11** Sri Lanka Students' Association in Japan Annual Research
 Conference - Online: *"Unmasking the unseen"*
 
@@ -121,7 +121,7 @@ Online: *"Understanding Galaxy Evolution through Machine Learning"*
 **21/02/05** Galaxy Evolution Workshop 2020 - Online: *"Understanding
 Galaxy Evolution through Machine Learning"*
 
-### 2020
+<!-- ### 2020 -->
 **20/12/01** Science at Low Frequencies VII (SALF VII) - Online: *"An
 Iterative Reconstruction Algorithm for Faraday Tomography"*
 
@@ -144,7 +144,7 @@ through Machine Learning"*
 Tsukuba, Japan: *"Understanding Galaxy Evolution through Machine
 Learning"*
 
-#### 2019
+<!-- #### 2019 -->
 **19/11/21** SKA-Japan science workshop "Cosmic Magnetism" 2019 -
 National Observatory of Japan, Mitaka, Japan: *"A Reconstruction Method
 for Faraday Tomography in SKA Cosmic Magnetism"*
@@ -166,7 +166,7 @@ Cosmic Magnetism"*
 Statistics and Mathematics, Tachikawa, Japan: *"Data Reconstruction
 Methods in Astrophysics and Cosmology"*
 
-#### 2018
+<!-- #### 2018 -->
 **18/12/09** Sri Lanka Students' Association in Japan Annual Research
 Conference - Tokyo, Japan: *"Reconstruction of Masked Astronomical
 Images"*
@@ -188,7 +188,7 @@ Measurements in All-Sky Surveys"*
 Iterative Data Reconstruction Method for Incomplete Measurements in
 All-Sky Surveys"*
 
-#### 2017
+<!-- #### 2017 -->
 **17/12/10** Sri Lanka Students' Association in Japan Annual Research
 Conference - Tokyo, Japan: *"Large Scale Mapping of the Nearby Universe
 with Data from Large Galaxy Surveys"*
