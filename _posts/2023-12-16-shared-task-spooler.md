@@ -16,12 +16,10 @@ imagecredit_name: 'Super Snapper'
 # TL;DR
 I set up a wrapper around task-spooler.
 See the repository: [https://github.com/bstee615/shared-task-spooler](https://github.com/bstee615/shared-task-spooler).
-
-To use it, create a file containing this script and invoke it using the same arguments as task-spooler:
-
+To use it, create a file containing the below script and invoke it using the same arguments as task-spooler.
 ```bash
 #!/bin/bash
-# Dependencies: sudo apt install -y task-spooler
+# Dependency: sudo apt install -y task-spooler
 TS_SOCKET=$(dirname -- "$0")/TS_SOCKET exec tsp -L "$USER" $@
 ```
 
