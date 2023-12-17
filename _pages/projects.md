@@ -29,6 +29,8 @@ Collected data on NYC walkability, poverty, and obesity. Utilized Python, Pandas
 ## **Results:**
 No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable NYC neighborhoods.
 
+<br>
+
 # [CPU Scheduling & Process Synchronization](https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project)
 **CS471 Course Project - Operating Systems, Old Dominion University, Fall 2023**
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
