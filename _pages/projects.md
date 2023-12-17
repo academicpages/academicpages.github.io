@@ -18,15 +18,14 @@ author_profile: true
   ></iframe>
 </div>
 
-<br> 
 Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.
-<br> 
+
 ## **Objective:**
 Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.
-<br>
+
 ## **Methodology:**
 Collected data on NYC walkability, poverty, and obesity. Utilized Python, Pandas, Matplotlib, and Seaborn for preprocessing and visualization. Merged datasets for comprehensive analysis.
-<br> 
+
 ## **Results:**
 No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable NYC neighborhoods.
 
@@ -43,16 +42,15 @@ No significant correlation between walkability and poverty. Identified higher ob
   ></iframe>
 </div>
 
-<br> 
 Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.
-<br> 
+
 ## CPU Scheduling Problem:
 * Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.
 * Utilized C++ to handle 541 simulated processes, addressing arrival time, CPU burst length, and priority.
 * The problem incorporates well-documented code and sample input data files and produces detailed statistics for each scheduling algorithm.
-<br>
+
 ## Process Synchronization Problem:
 * Classmate led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.
 * The solution is implemented in C++ and covers various scenarios, providing insights into overall turnaround time.
-<br>
+
 This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.
