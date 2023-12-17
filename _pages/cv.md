@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+**Please see detailed CV here:**  .
+{: .notice}
 
 
 Education
