@@ -72,13 +72,13 @@ Teaching
   {% endfor %}</ul>
 
 * January 2023 - May 2023: Behavioral Science to Reduce Inequality
-* Advisors: Dr. David Yeager, Dr. Nneka Ibekwe-Okafor
+ * Advisors: Dr. David Yeager, Dr. Nneka Ibekwe-Okafor
 
 * August 2021 - May 2023: Undergraduate Training Course
-* Advisors: Dr. Kristin Patterson, Dr. Jennifer Moon
+ * Advisors: Dr. Kristin Patterson, Dr. Jennifer Moon
 
 * August 2021 - December 2022: Advanced Introduction to Genetics
-* Advisors: Dr. Jennifer Moon
+ * Advisors: Dr. Jennifer Moon
 
 * August 2020 - December 2021: Originality in Arts and Sciences
 * Advisors: Dr. Arturo De Lozanne              
