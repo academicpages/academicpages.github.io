@@ -19,4 +19,4 @@ Before that, I obtained my Bachelor degree in Optoelectronic Information Science
 
 You can find my CY here: [Renyun's Curriculum Vitae](../assets/Renyun_Li_20231217_Web.pdf).
 
-[Email](mailto:rl4210@nyu.edu) / [Github]([https://github.com/](https://github.com/RenyunLi0116)) / [Wechat](SALeelirenyun)
+[Email](mailto:rl4210@nyu.edu) / [Github]([https://github.com/](https://github.com/RenyunLi0116)) / [Wechat](../images/wechat.jpg)
