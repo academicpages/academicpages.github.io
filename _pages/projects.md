@@ -8,7 +8,7 @@ author_profile: true
 # [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
 <iframe width="640" height="360" src="https://drive.google.com/uc?id=1NrQnWZzLYEATfT2dzGNkGOCA78kkiAy4" frameborder="0" allowfullscreen></iframe>
 
-This project explores the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City neighborhoods.
+Collaborated with classmates on a project that explores the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City neighborhoods.
 
 ## **Objective:**
 Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.
@@ -22,7 +22,7 @@ No significant correlation between walkability and poverty. Identified higher ob
 # [CPU Scheduling & Process Synchronization](https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project)
 <iframe width="640" height="360" src="https://drive.google.com/uc?id=1uLYYMdHlaDcK1wERheH18UssXA11SOsR" frameborder="0" allowfullscreen></iframe>
 
-Collaborated with Charles Milroy on a comprehensive project addressing CPU scheduling algorithms and process synchronization in our Operating Systems course (CS471) at Old Dominion University.
+Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization in our Operating Systems course (CS471) at Old Dominion University.
 
 ## CPU Scheduling Problem:
 * Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.
@@ -30,7 +30,7 @@ Collaborated with Charles Milroy on a comprehensive project addressing CPU sched
 * The problem incorporates well-documented code, sample input data files, and produces detailed statistics for each scheduling algorithm.
 
 ## Process Synchronization Problem:
-* Charles Milroy led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.
+* Classmate led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.
 * The solution is implemented in C++ and covers various scenarios, providing insights into overall turnaround time.
 
 This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.
