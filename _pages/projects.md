@@ -6,7 +6,16 @@ author_profile: true
 ---
 
 # [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
-<iframe width="640" height="360" src="https://drive.google.com/uc?id=1NrQnWZzLYEATfT2dzGNkGOCA78kkiAy4" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    width="640" 
+    height="360" 
+    src="https://drive.google.com/uc?id=1NrQnWZzLYEATfT2dzGNkGOCA78kkiAy4" 
+    frameborder="0" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
 
 Collaborated with classmates on a project that explores the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City neighborhoods.
 
