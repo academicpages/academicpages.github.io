@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : " M. Tech. (IIT Madras), Ph.D. (UM, MY), MIE, C.Eng. (IEI, India)"
   location         : 
-  employer         :
+  employer         :IIT Dharwad
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=L8ydQosAAAAJ"
   email            : "ramesh.nayaka@iitdh.ac.in"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "dr-ramesh-nayaka-aa17b347/"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7563-986X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
