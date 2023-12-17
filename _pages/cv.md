@@ -15,7 +15,7 @@ redirect_from:
 
 Education
 ======
-* B.S.A and Evidence and Inquiry Certificate at the University of Texas at Austin, 2023
+* B.S.A in Neuroscience and Evidence and Inquiry Certificate at the University of Texas at Austin, 2023
 
 Work experience
 ======
