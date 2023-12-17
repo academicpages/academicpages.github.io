@@ -5,17 +5,9 @@ permalink: /Projects/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# [Walkability and Well-Being: An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
+[![Walkability and Well-Being: An Urban Analysis](http://img.youtube.com/vi/W4uXdOSEJTo/0.jpg)](http://www.youtube.com/watch?v=W4uXdOSEJTo)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-## Walkability and Well-Being: An Urban Analysis
 
 Explore the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City.
 
