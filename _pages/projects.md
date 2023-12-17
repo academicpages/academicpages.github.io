@@ -17,6 +17,7 @@ author_profile: true
   ></iframe>
 </div>
 
+CS620 Data Project - Introduction to Data Science, Old Dominion University, Fall 2023<br>
 Collaborated with classmates on a project that explores the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City neighborhoods.
 
 ## **Objective:**
@@ -40,7 +41,8 @@ No significant correlation between walkability and poverty. Identified higher ob
   ></iframe>
 </div>
 
-Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization in our Operating Systems course (CS471) at Old Dominion University.
+CS471 Course Project - Operating Systems, Old Dominion University, Fall 2023<br>
+Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.
 
 ## CPU Scheduling Problem:
 * Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.
