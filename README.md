@@ -1,6 +1,9 @@
 # This is for Angadh's information (mostly)
-To publish a post, create a new `yyyy-mm-dd-post_name.md` file in the post directory and push changes to github.
+1. To publish a post, create a new `yyyy-mm-dd-post_name.md` file in the post directory and push changes to github.
 Then run `rake publish` at the command line.
+
+2. Navigation buttons can be added and removed by editing contents of `_data/navigation.yml`.
+
 
 This website makes use of the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 alongside the [Tufte CSS implementation]()
