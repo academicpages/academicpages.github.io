@@ -20,7 +20,16 @@ Collected data on NYC walkability, poverty, and obesity. Utilized Python, Pandas
 No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable NYC neighborhoods.
 
 # [CPU Scheduling & Process Synchronization](https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project)
-<iframe width="640" height="360" src="https://drive.google.com/uc?id=1uLYYMdHlaDcK1wERheH18UssXA11SOsR" frameborder="0" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    width="640" 
+    height="360" 
+    src="https://drive.google.com/uc?id=1uLYYMdHlaDcK1wERheH18UssXA11SOsR" 
+    frameborder="0" 
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
+</div>
 
 Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization in our Operating Systems course (CS471) at Old Dominion University.
 
