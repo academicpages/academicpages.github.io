@@ -19,4 +19,5 @@ Collected data on NYC walkability, poverty, and obesity. Utilized Python, Pandas
 ## **Results:**
 No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable NYC neighborhoods.
 
-<iframe width="640" height="360" src="https://drive.google.com/uc?id=1uLYYMdHlaDcK1wERheH18UssXA11SOsR" frameborder="0" allowfullscreen></iframe>
+# [CPU Scheduling & Process Synchronization](https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project)
+[Watch the Video](https://drive.google.com/file/d/1uLYYMdHlaDcK1wERheH18UssXA11SOsR/view?usp=drive_link)
