@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 <br> 
-Collaborated with classmates on a project that explores the intricate relationship between community walkability and various facets of well-being in urban environments, with a focus on New York City neighborhoods.
+Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.
 <br> 
 ## **Objective:**
 Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.
@@ -49,7 +49,7 @@ Collaborated with a classmate on a comprehensive project addressing CPU scheduli
 ## CPU Scheduling Problem:
 * Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.
 * Utilized C++ to handle 541 simulated processes, addressing arrival time, CPU burst length, and priority.
-* The problem incorporates well-documented code, sample input data files, and produces detailed statistics for each scheduling algorithm.
+* The problem incorporates well-documented code and sample input data files and produces detailed statistics for each scheduling algorithm.
 <br>
 ## Process Synchronization Problem:
 * Classmate led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.
