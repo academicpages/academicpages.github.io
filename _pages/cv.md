@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📈 Skills
 * **Programming**: Python, Java, JavaScript, HTML/CSS, SQL, Shell scripting, git
-* **Data-related**: R, MySQL, SQLite, Tableau, PowerBI
+* **Data-related**: R, MySQL, SQLite, PostgreSQL Tableau, PowerBI
 * **Frameworks**: TensorFlow, PyTorch, LangChain, Django, Streamlit, Selenium
 
 ## 🏫 Education
