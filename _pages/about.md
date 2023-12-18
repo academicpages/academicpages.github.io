@@ -121,7 +121,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ![](images/haojie_ijrr.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
 Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
-*Preprint*  
+*The International Journal of Robotics Research. 2023*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
 <br>
 
