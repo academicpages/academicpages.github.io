@@ -17,31 +17,29 @@ redirect_from:
 ## 🏫 Education
 * ***Candidate for Honours Bachelor of Science (Expected in 2025)***
   * *University of Toronto (St. George Campus), Toronto, ON*
-  * *Cumulative GPA: **3.98**/4.0 ; Overall Average: **92.5**/100*
+  * *Cumulative GPA: **3.98**/4.0
   * Programs: **Computer Science** Specialist, **Statistics** Specialist, Arts and Science Internship Program (Co-op)
-  * Honours: Louis Savlov Scholarship, U of T Scholar Award, Dean’s List Scholar Award (2022, 2023)
+  * Honours: C.L. Burton Scholarship, Louis Savlov Scholarship, University of Toronto Scholar Award (In-Course), Dean’s List Scholar Award (2022, 2023)
 
 ## 💻 Work Experience
 * May - Aug 2023: **Data Analyst** (Co-op)
   * *Toromont Cat, Concord, ON*
-  * Supervisor: Samer Toukan, Project Manager
 
 * May - Aug 2022: **Software Developer** (Internship)
   * *BL Innovare, Markham, ON*
-  * Supervisor: Colin Kilner, Senior Developer
 
 ## 📖 Research Experience
-* May 2023 - Present: **Reinforcement Learning Researcher**
-  * *Social Cognitive Science Lab, University of Toronto*
-  * Supervisor: Prof. William Cunningham
+* May 2023 - Present: **Research Student**
+  * *SocialAI Research Group, Vector Institute, University of Toronto*
+  * Supervisor: Professor Cunningham
 
 * May - Aug 2023: **Research Assistant**
   * *MiDATA Lab, University of Toronto*
-  * Supervisor: Prof. Pascal Tyrrell
+  * Supervisor: Professor Tyrrell
 
 * May - Aug 2023: **Research Assistant**
   * *Department of Economics, University of Toronto*
-  * Supervisor: Prof. Jonathan Hall
+  * Supervisor: Professor Hall
   
 <!-- Publications
 ======

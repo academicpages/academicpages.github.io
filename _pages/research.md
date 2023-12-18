@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## 💻 May - Aug 2023: Reinforcement Learning Researcher
-* *Social Cognitive Science Lab, University of Toronto*
+## 💻 Aug 2023 - : Research Student
+* *SocialAI Research Group, University of Toronto*
 * Details:
     * Developed the integration of AI and social cognition through the creative use of reinforcement learning (RL)]
     * Created user interfaces for game and server, facilitating seamless game logic execution and efficient storage of data
