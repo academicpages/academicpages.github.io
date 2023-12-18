@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. in Communication Systems, EPFL, 2016-2019
+* MSc. in Data Science, ETH , 2019-2022
+* Ph.d in machine learning, Tu Delft, 2022-
 
 Work experience
 ======
