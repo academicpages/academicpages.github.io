@@ -11,7 +11,7 @@ title                    : "Changqian Wang"
 title_separator          : "-"
 name                     : &name "Changqian Wang"
 description              : &description "A Master Student from Anhui University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://changqianwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Changqian Wang"
-  avatar           : "profile.png"
+  avatar           : "photo.png"
   bio              : "A Master Student from Anhui University"
   location         : ""
   employer         :
