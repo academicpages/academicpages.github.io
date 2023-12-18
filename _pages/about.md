@@ -17,7 +17,7 @@ Due to the COVID-19 pandemic and visa-related complications, my academic journey
 
 Before that, I obtained my Bachelor degree in Optoelectronic Information Science and Engineering (under ECE) at Tianjin University, collaborated with Prof. Tiegen Liu, Prof. Hai Pang and Prof. Shuang Wang. During my undergrad, I participated two papers published in SPIE and the Journal of Physics D: Applied Physics, secured five patents, and received 33 honors and awards, including 5 at national-level. You can find some of them here.
 
-While, there is a episode. My original major was in Mechanical Engineering and minor in Automation, then I switched to EECS in the end of second year. Despite a 50-credit gap, an irreversible error by the department pushed me to complete a 4-year ECE degree in just 2 years. Against the odds, I conquered 54.5 credits in Fall 2018 and 46 credits in Spring 2019 (while the norm is around 25 credits).
+Fun fact: There is a episode during my undergrad. My original major was in Mechanical Engineering and minor in Automation, then I switched to EECS in the end of second year. Despite a 50-credit gap, an irreversible error by the department pushed me to complete a 4-year ECE degree in just 2 years. Against the odds, I conquered 54.5 credits in Fall 2018 and 46 credits in Spring 2019 (while the norm is around 25 credits).
 
 You can find my CY here: [Renyun's Curriculum Vitae](../assets/Renyun_Li_20231217_Web.pdf).
 
