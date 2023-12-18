@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Incorporating Adaptive Human Behaviors into Epidemiological Models using Equation Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/adabx_eql
+excerpt: 'This manuscript is about incorporating adaptive behaviors into agent-based models (ABMs) and then using parameter estimation and equation learning to infer a differential equation, specifically in the context of epidemic modelling.'
+date: 2024-01-01
+venue: 'TBD'
+paperurl: 'http://abarton51.github.io/adabx_eql.pdf'
+citation: 'Barton Austin, T. (2024). &quot;Incorporating Adaptive Human Behaviors into Epidemiological Models using Equation Learning.&quot; <i>TBD</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This manuscript is about incorporating adaptive behaviors into agent-based models (ABMs) and then using parameter estimation and equation learning to infer a differential equation, specifically in the context of epidemic modelling.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://abarton51.github.io/adabx_eql.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Barton Austin, T. (2024). &quot;Incorporating Adaptive Human Behaviors into Epidemiological Models using Equation Learning.&quot; <i>TBD</i>. 1(1).
