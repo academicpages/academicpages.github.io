@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! I'm Renyun Li, Master student from NYU ECE. My past research, internship, and education has intricately woven an electric and theoretical background, encompassing CV, SLAM, Optics, RL, 3D point cloud, and software-hardware co-design.
+Welcome to my page! I'm Renyun Li (李仁赟), Master student from NYU ECE. My past research, internship, and education has intricately woven an electric and theoretical background, encompassing CV, SLAM, Optics, RL, 3D point cloud, and software-hardware co-design.
 Currently, I focus on Image and Video Processing, 3D Vision, segmentation, reconstruction, motion estimation, and computational imaging.
 
 In NYU, I'm fortunate to be advised by advised by [Prof. Yao Wang](https://engineering.nyu.edu/faculty/yao-wang) in [Video Lab](https://wp.nyu.edu/videolab/people/), working on 3D point cloud segmentation, motion estimation, and compressing.
