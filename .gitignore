@@ -3,3 +3,9 @@ _site/
 **/.DS_Store
 .DS_Store
 *.pyc
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz

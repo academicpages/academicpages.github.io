@@ -2,8 +2,7 @@
 </br>
 </br>
 
-# Curriculum Vitae
-<p style="text-align: center; font-size: 12">John Ragland</p>
+# John Ragland
 <p style="text-align: center;">PhD Student, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
 
 ---
