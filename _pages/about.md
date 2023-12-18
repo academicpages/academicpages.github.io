@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About Me
 I am Ethan Landers, a senior at Old Dominion University majoring in computer science. I am also enrolled in Old Dominion University’s computer science-accelerated master’s program, expecting to graduate with my bachelor’s degree in the spring of 2024 and my master’s degree in the spring of 2025. As a member of the Old Dominion University Perry Honors College, I maintain an overall GPA of 3.93 and a departmental GPA of 3.94.
 
 # Work Experience
