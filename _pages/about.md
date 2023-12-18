@@ -151,6 +151,7 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 **Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters\*, Robert Platt\*  
 \* Equal Advising  
 *ICLR 2023, Kigali, Rwanda,* ***Spotlight***  
+<span style="color:DarkGray"><em>NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations</em></span>  
 <button class="button-4" onclick="window.open('https://pointw.github.io/extrinsic_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.09231.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://openreview.net/forum?id=P4MUGRM4Acu','_blank')">OpenReview</button>
