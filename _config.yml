@@ -124,6 +124,9 @@ author:
   youtube          :
   wikipedia        :
 
+  affiliations:
+    - name: "Old Dominion University"
+      icon: "school"
 
 # Reading Files
 include:
