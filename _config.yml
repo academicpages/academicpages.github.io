@@ -95,7 +95,7 @@ author:
   employeruri      : "https://online.odu.edu/"
   pubmed           : 
   googlescholar    : 
-  email            : "eland007@odu.edu"
+  email            : "elanders002@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -126,7 +126,7 @@ author:
 
   affiliations:
     - name: "Old Dominion University"
-      icon: "school"
+      icon: "graduation-cap"
 
 # Reading Files
 include:
