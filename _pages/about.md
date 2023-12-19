@@ -23,13 +23,13 @@ My long-term research vision is to build automation systems that can be self-ada
 # Selected Publications
 
 - 3D Point Cloud
-<table border="0">
+<table style="border: none">
   <tr>
-    <td>
+    <td style="border: none">
       <b>Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
       <i>Under Review</i> paper upon request
     </td>
-    <td>
+    <td style="border: none">
       <img src="images/cvpr.png" width="200" height="200" align="right">
     </td>
   </tr>
