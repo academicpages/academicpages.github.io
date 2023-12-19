@@ -23,7 +23,7 @@ My long-term research vision is to build automation systems that can be self-ada
 # Selected Publications
 
 - 3D Point Cloud
-<table>
+<table border="0">
   <tr>
     <td>
       <b>Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
@@ -37,7 +37,7 @@ My long-term research vision is to build automation systems that can be self-ada
 
 - FDM Printing Soft Robotics
 
-<table>
+<table border="0">
   <tr>
     <td>
       <b>STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
@@ -49,7 +49,7 @@ My long-term research vision is to build automation systems that can be self-ada
   </tr>
 </table>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <b>Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
