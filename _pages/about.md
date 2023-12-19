@@ -30,13 +30,11 @@ My long-term research vision is to build automation systems that can be self-ada
       <i style="font-size: 16px;">Under Review</i> paper upon request
     </td>
     <td style="border: none">
-      <img src="images/cvpr.png" style ="width: 220px; height: 220px; align: right;">
+      <img src="images/cvpr.png" style ="width: auto; height: auto; align: right;">
     </td>
   </tr>
 </table>
-
 - FDM Printing Soft Robotics
-
 <table style = "border: none">
   <tr>
     <td style = "border: none">
@@ -44,11 +42,10 @@ My long-term research vision is to build automation systems that can be self-ada
       <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
     </td>
     <td style = "border: none">
-      <img src="images/STREAM_ICRA.png" style ="width: 220px; height: 220px; align: right;">
+      <img src="images/STREAM_ICRA.png" style ="width: auto; height: auto; align: right;">
     </td>
   </tr>
 </table>
-
 <table style = "border: none">
   <tr>
     <td style = "border: none">
@@ -56,7 +53,7 @@ My long-term research vision is to build automation systems that can be self-ada
       <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a>
     </td>
     <td>
-      <img src="images/VisionFDM_RoboSoft.png" style ="width: 220px; height: 220px; align: right;">
+      <img src="images/VisionFDM_RoboSoft.png" style ="width: auto; height: auto; align: right;">
     </td>
   </tr>
 </table>
