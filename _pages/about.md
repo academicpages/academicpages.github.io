@@ -22,20 +22,22 @@ My long-term research vision is to build automation systems that can be self-ada
 
 # Selected Publications
 
-## 3D Point Cloud
+- 3D Point Cloud
 
-![](images/cvpr.png){: .align-left width="200" height="200"} **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**
+<img src="images/cvpr.png" width="200" height="200" aligh="left">
+
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**
 
 *Under Review* paper upon request
 
-## FDM Printing Soft Robotics
+- FDM Printing Soft Robotics
 
-![](images/STREAM_ICRA.png){: .align-left width="200" height="200"} **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
+<img src="images/STREAM_ICRA.png" width="200" height="200" aligh="left"> **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 
 Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz  
 [*preprint*](https://arxiv.org/abs/2312.01130)
 
-![](images/VisionFDM_RoboSoft.png){: .align-left width="200" height="200"} **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
+<img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="left"> **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
 Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz
 [*preprint*](https://arxiv.org/abs/2312.01135)
