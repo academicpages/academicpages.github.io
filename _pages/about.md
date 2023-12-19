@@ -30,20 +30,20 @@ My long-term research vision is to build automation systems that can be self-ada
       <i>Under Review</i> paper upon request
     </td>
     <td style="border: none">
-      <img src="images/cvpr.png" width="200" height="200" align="right">
+      <img src="images/cvpr.png" style ="width: 200px; height: 200px; align: right;">
     </td>
   </tr>
 </table>
 
 - FDM Printing Soft Robotics
 
-<table border="0">
+<table style = "border: none">
   <tr>
-    <td>
+    <td style = "border: none">
       <b>STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
       <i>Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
     </td>
-    <td>
+    <td style = "border: none">
       <img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
     </td>
   </tr>
