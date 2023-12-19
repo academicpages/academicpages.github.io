@@ -24,10 +24,13 @@ My long-term research vision is to build automation systems that can be self-ada
 
 - 3D Point Cloud
  
-**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance** *Under Review* paper upon request <img src="images/cvpr.png" width="200" height="200" aligh="right">
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance** *Under Review* paper upon request 
+<img src="images/cvpr.png" width="200" height="200" aligh="right">
 
 - FDM Printing Soft Robotics
 
-**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01130) <img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
+**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01130) 
+<img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
 
-**Vision-based FDM Printing for Fabricating Airtight Soft Actuators** Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01135) <img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="right">
+**Vision-based FDM Printing for Fabricating Airtight Soft Actuators** Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01135) 
+<img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="right">
