@@ -26,6 +26,9 @@ I am a geometric representation theorist, who aims to build a bridge between rep
 
 Here are my research statements, with a [6-pages-version](https://zy199402.github.io/files/Short1.pdf) and a [12-pages-version](https://zy199402.github.io/files/Long-Research-Statement.pdf).
 
+Some Notes
+=======
+A [slide](https://zy199402.github.io/files/derived-blowup.pdf) of my talk about derived blow-up theory and its relation with the intersection theory.
 
 Education and Employment
 ======
