@@ -41,7 +41,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td>
       <b>STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
-      <i>Lehong Wang, Savita V. Kendre, <mark>Haotian Liu</mark>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
+      <i>Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
     </td>
     <td>
       <img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
@@ -53,7 +53,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td>
       <b>Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
-      <i>Yijia Wu, Zilin Dai, <mark>Haotian Liu</mark>, Lehong Wang, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a>
+      <i>Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a>
     </td>
     <td>
       <img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="right">
