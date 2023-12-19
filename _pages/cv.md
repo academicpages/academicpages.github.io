@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Robotic and Computer Science, Worcester Polytechnic Institute, 2020-present
+* B.S. in Robotic and Computer Science, Worcester Polytechnic Institute, class of 2025
 
-Work experience
+Research Experience
 ======
 * 2023 May-Present: Research Assistant
   * WPI Aim Lab
