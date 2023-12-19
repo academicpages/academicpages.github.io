@@ -14,6 +14,10 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 > ***19th October 2023***
 > 
+> Our paper "Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions" has been accepted at [ICSE SEET](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track)! 
+
+> ***19th October 2023***
+> 
 > Great News! Our paper ["Benchmarking Educational Program Repair"](https://neurips.cc/virtual/2023/79083) has been accepted at the Generative AI for Education ([GAIED](https://gaied.org/neurips2023/)) workshop at NeurIPS. I'll take part in the main conference and present the paper at the workshop. See you in New Orleans!
 
 > ***8th June 2023***
