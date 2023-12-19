@@ -22,13 +22,13 @@ My long-term research vision is to build automation systems that can be self-ada
 
 # Selected Publications
 
-- 3D Point Cloud
+## 3D Point Cloud
 
 ![](images/cvpr.png){: .align-left width="200px"} **Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**
 
 *Under Review* paper upon request
 
-- FDM Printing Soft Robotics
+## FDM Printing Soft Robotics
 
 ![](images/STREAM_ICRA.png){: .align-left width="200px"} **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 
