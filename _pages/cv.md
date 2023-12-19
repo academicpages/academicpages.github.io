@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Robotic and Computer Science, Worcester Polytechnic Institute, class of 2025
+* Core Courses: RBE 1001-3001 WPI Unified Robotics; RBE 501 Robot Dynamics; RBE 550 Motion Planning; ES 3011 Control Engineering; ECE 545 Digital Image Processing; ECE 2049 Embedded System Programming
 
 Research Experience
 ======
