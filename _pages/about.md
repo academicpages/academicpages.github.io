@@ -8,7 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Master's degree at the University of Zurich, and I have a keen interest in conducting NLP research in a frugal manner.
-
-
-
+I am presently enrolled in a Master's program at the University of Zurich, majored in Computational Linguistics and minored in Data Science. I am interested in Multilingual NLP and Model Interpretability.
