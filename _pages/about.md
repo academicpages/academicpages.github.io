@@ -35,11 +35,28 @@ My long-term research vision is to build automation systems that can be self-ada
   </tr>
 </table>
 
-
 - FDM Printing Soft Robotics
 
-**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics** Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01130) 
-<img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
+<table>
+  <tr>
+    <td>
+      <b>STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
+      <i>Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz</i> [*preprint*](https://arxiv.org/abs/2312.01130)
+    </td>
+    <td>
+      <img src="images/STREAM_ICRA.png" width="200" height="200" aligh="right">
+    </td>
+  </tr>
+</table>
 
-**Vision-based FDM Printing for Fabricating Airtight Soft Actuators** Yijia Wu, Zilin Dai, Haotian Liu, Lehong Wang, and Markus P. Nemitz [*preprint*](https://arxiv.org/abs/2312.01135) 
-<img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="right">
+<table>
+  <tr>
+    <td>
+      <b>Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
+      <i>Yijia Wu, Zilin Dai, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz</i> [*preprint*](https://arxiv.org/abs/2312.01135)
+    </td>
+    <td>
+      <img src="images/VisionFDM_RoboSoft.png" width="200" height="200" aligh="right">
+    </td>
+  </tr>
+</table>
