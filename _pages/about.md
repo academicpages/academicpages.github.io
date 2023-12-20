@@ -21,7 +21,7 @@ This section highlights my research projects, categorized by major themes and su
 ### 1. Domain and Knowledge Transfer
 
 #### a) Multi-task Learning
-- [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)
+- [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
 - **Saliency-Regularized Deep Multi-Task Learning**  
   _KDD 2022_  
