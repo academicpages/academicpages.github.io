@@ -34,7 +34,7 @@ This project focuses on enhancing machine learning models' adaptability and effe
 - [**Deep Spatial Domain Generalization**](https://arxiv.org/pdf/2210.00729)  
   _ICDM 2022_ 
 
-## 2. Large-Scale Efficient Machine Learning
+## 2. Efficient Large-Scale Machine Learning
 Exploring scalable solutions in machine learning, particularly in graph neural networks and large language models.
 ### a) Distributed Training for Graph Neural Networks (GNNs)
 - [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
