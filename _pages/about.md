@@ -28,12 +28,12 @@ This section highlights my research projects, categorized by major themes and su
   _KDD 2022_  
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442) | [Code](https://github.com/BaiTheBest/SRDML)
 
-### b) Domain Adaptation
+#### b) Domain Adaptation
 - **Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**  
   _Preprint_  
   [Paper](https://arxiv.org/abs/2312.12276) | [Code]()
 
-### c) Domain Generalization
+#### c) Domain Generalization
 - **Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**  
   _ICLR 2023_  
   [Paper](https://openreview.net/pdf?id=sWOsRj4nT1n) | [Code](https://github.com/BaiTheBest/DRAIN)
@@ -41,19 +41,19 @@ This section highlights my research projects, categorized by major themes and su
   _ICDM 2022_  
   [Paper](https://arxiv.org/pdf/2210.00729) | [Code](https://github.com/dyu62/Deep-domain-generalization)
 
-## 2. Large-Scale Efficient Machine Learning
+### 2. Large-Scale Efficient Machine Learning
 
-### a) Distributed Training for Graph Neural Networks (GNNs)
+#### a) Distributed Training for Graph Neural Networks (GNNs)
 - **Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**  
   _Preprint_  
   [Paper](https://arxiv.org/pdf/2206.00057) | [Code]()
 - **Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**  
   _Preprint_  
   [Paper](https://arxiv.org/pdf/2308.13466) | [Code]()
-### b) Model Compression & Acceleration of LLMs 
+#### b) Model Compression & Acceleration of LLMs 
   Ongoing research and development in this area.
 
-## 3. Continual and Lifelong Learning
+### 3. Continual and Lifelong Learning
 
 - **Saliency-Guided Hidden Associative Replay for Continual Learning**  
   _AMHN Workshop @NeurIPS 2023_  
