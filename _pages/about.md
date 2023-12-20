@@ -18,6 +18,7 @@ My research interests are broadly defined at the intersection of Machine Learnin
 <!-- <span style="font-size:14px;color: red;">*Interested in joining our research group? Please submit [this form](https://forms.gle/sSktghq1tGTkx9XA7), and consider directly applying to the VT graduate program and including me in your research statement. We will be reaching out to individuals that complete the form and we believe are a good fit. Due to email volume, responses to emails cannot be guaranteed.*</span> -->
 
 # News
+- **December, 2023:** Honored to be recognized as Best Vice Co-Chair at IEEE BigData 2023.
 - **October, 2023:** Grateful to [Amazon-VT](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients) for the new funding to continue work on Embodied AI.
 - **October 2023:** Congratulations to [Ying](https://plan-lab.github.io/members/ying-shen.html) (co-advised with Lifu Huang) for receiving an [Amazon-VT Fellowship](https://www.amazon.science/news-and-features/amazon-and-virginia-tech-announce-2023-2024-fellowship-faculty-research-award-recipients)!
 - **August, 2023:**  Excited to receive new [DARPA ECOLE](https://www.darpa.mil/news-events/2023-07-18) funding as part of the STR team!
