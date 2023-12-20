@@ -16,35 +16,35 @@ I am interested in designing **efficient, generalizable, and explainable learnin
 
 Selected Projects
 =====
-### 1. Domain and Knowledge Transfer
+## 1. Domain and Knowledge Transfer
 This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
-#### a) Multi-task Learning
+### a) Multi-task Learning
 - [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
 - [**Saliency-Regularized Deep Multi-Task Learning**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)  
   _KDD 2022_  
 
-#### b) Domain Adaptation
+### b) Domain Adaptation
 - [**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
   _Preprint_  
 
-#### c) Domain Generalization
+### c) Domain Generalization
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
   _ICLR 2023_   
 - [**Deep Spatial Domain Generalization**](https://arxiv.org/pdf/2210.00729)  
   _ICDM 2022_ 
 
-### 2. Large-Scale Efficient Machine Learning
+## 2. Large-Scale Efficient Machine Learning
 Exploring scalable solutions in machine learning, particularly in graph neural networks and large language models.
-#### a) Distributed Training for Graph Neural Networks (GNNs)
+### a) Distributed Training for Graph Neural Networks (GNNs)
 - [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
   _Preprint_  
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
   _Preprint_  
-#### b) Model Compression & Acceleration of LLMs 
+### b) Model Compression & Acceleration of LLMs 
   Ongoing research and development in this area.
 
-### 3. Continual and Lifelong Learning
+## 3. Continual and Lifelong Learning
 Focusing on memory-replay and neuro-inspiration approaches for continual learning without sub-categories.
 - [**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://openreview.net/pdf?id=Fhx7nVoCQW)   
   _AMHN Workshop @NeurIPS 2023_  
