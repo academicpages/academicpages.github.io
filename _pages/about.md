@@ -39,7 +39,7 @@ Research Interests
 
 News
 ======
-[Oct. 2023] I served as a AC reviewer for [IMWUT](https://dl.acm.org/journal/imwut).
+[Nov. 2023] I served as a AC reviewer for [IMWUT](https://dl.acm.org/journal/imwut).
 
 [Oct. 2023] I served as a AC reviewer for [CHI'2024](https://chi2024.acm.org/).
 
