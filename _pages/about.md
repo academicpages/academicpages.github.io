@@ -40,7 +40,8 @@ Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
 - [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
   _Preprint_  
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
-  _Preprint_  
+  _Preprint_
+  
 ### b) Model Compression & Acceleration of LLMs 
   Ongoing research and development in this area.
 
