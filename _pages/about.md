@@ -55,8 +55,6 @@ This section highlights my research projects, categorized by major themes and su
 
 ## 3. Continual and Lifelong Learning
 
-Focusing on memory-replay and neuro-inspiration approaches for continual learning without sub-categories.
-
 - **Saliency-Guided Hidden Associative Replay for Continual Learning**  
   _AMHN Workshop @NeurIPS 2023_  
   [Paper](https://openreview.net/pdf?id=Fhx7nVoCQW) | [Code](https://github.com/BaiTheBest/SHARC)
