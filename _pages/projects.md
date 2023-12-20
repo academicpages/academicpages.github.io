@@ -16,14 +16,15 @@ Oncotype DX (ODX) is an accurate gene-assay for risk stratification of breast ca
 
 ![bcrnet](/images/bcrnet.PNG "bcrnet")
 
-## Vision-language modeling for pathology images
-We are developing generative model empowered by LLM and image models that can answer complex clinical questions according to pathology images. The completion of this model is expected to provide second opinion for junior clinicians, facilitate medical education, and trigger multiple downstream applications. 
-
-![vlm](/images/vlm.png "vlm")
-
 ## Segment Anything Model for tumor bud segmentation
 SAM establishes a groundbreaking benchmark for segmentation foundation models. Can we adapt it to cellular objects segmentation? My mentee, Sony, and I shown its feasibility in a colorectal tumor bud segmentation study.
 
 [![sam](/images/sam1.png "sam")](https://www.youtube.com/watch?v=0L3VLz6V4HU)
+
+## Vision-language modeling for pathology images
+Project is undergoing.
+<!-- We are developing generative model empowered by LLM and image models that can answer complex clinical questions according to pathology images. The completion of this model is expected to provide second opinion for junior clinicians, facilitate medical education, and trigger multiple downstream applications. 
+
+![vlm](/images/vlm.png "vlm") -->
 
 
