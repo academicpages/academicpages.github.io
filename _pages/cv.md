@@ -41,8 +41,7 @@ redirect_from:
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
-  * AR/VR 의료 임상 프로그램을 위한 다중 접속 무선 기술 개발, HT CORE (2022.10 - 2022.12)
-  * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, KAIST (2022.08 - 2022.10)
+  * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, KAIST (2022.08 - present)
   * 조선대-NHN 아카데미 백엔드 과정 수업 조교 (2022.08 - 2023.02)
   * 다중 게이트웨이 및 비컨을 활용한 실시간 위치 추정 시스템 설계 및 구현, Intflow (2022.04 - 2022.08)
   * 전력 선불 거래를 위한 전용 모바일 애플리케이션 설계 및 구현, Encored P&P (Oct. 18-31, 2021)​
@@ -71,7 +70,6 @@ redirect_from:
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
   * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
-  * 학부연구생 및 박사과정 학생들과의 협업 프로젝트 참여 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
 <br>
 
