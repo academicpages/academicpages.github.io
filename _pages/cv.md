@@ -12,11 +12,14 @@ redirect_from:
 
 EDUCATION
 ======
-* M.Sc Artificial Intelligence @University of Edinburgh
+* PhD @University College London
+  * Research: Multimodal Machine Learning; Sensor-fusion System; Human-centred AI
+  
+* MSc Artificial Intelligence @University of Edinburgh
   * Courses:  Machine Learning and Pattern Recognition; Big Data Analysis; Natural Language Processing; Computer Vision; Human Interaction Design;
   * Research: End-to-End Machine Learning Positioning System based on Smartphone Multi-sensory; Applied Machine Learning; Mobile Systems; Multimodal Machine Learning
 
-* B.Eng (Honours) Electronics and Electrical Engineering @University of Edinburgh
+* BEng (Honours) Electronics and Electrical Engineering @University of Edinburgh
   * Courses:  Wearable Device; Signal Processing; Analogue/Digital Circuit Design; Microelectronics; Power System Design; Bioinformatics
   * Research: Indoor Positioning based on Smartphone Sensors using Machine Learning 
   * Awards: International Student Scholarship (£2000)
@@ -50,6 +53,9 @@ TALKS
 
 WORK EXPERIENCE
 ======
+* PhD Research Intern @Nokia Bell Labs, Cambridge, UK (June. 2023 - Sept. 2023)
+  * Human-centred AI; Human Behaviour Understanding; Wearable Devices.
+  
 * AI Algorithm Researcher @Ubiquitous AI Lab, University of Sheffield (Nov. 2018 - Present)
   * Invest on an end-to-end multimodal deep learning network architecture for sensor-fusion smartphone based location tracking system 
   * Lead research group in dataset collection, algorithm design, model optimisation and paper writing 
