@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Preprint
+* <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
+Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/abs/2312.12276)]<br>
+
 * <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
 Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
