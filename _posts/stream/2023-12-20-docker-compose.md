@@ -1,5 +1,5 @@
 ---
-title: 'How to use the docker-compose command when the `docker compose` plugin is installed'
+title: 'How to fix `docker-compose: command not found` error with newer versions of Docker'
 date: 2023-12-20
 venue-type: blog
 permalink: /posts/2023/12/docker-compose/
@@ -22,3 +22,5 @@ EOF
 # Make the script executable so that we can invoke it directly from the shell
 chmod +x /usr/local/bin/docker-compose
 ```
+
+This avoids the error `docker-compose: command not found` which I faced, for example, trying to install https://github.com/amithkoujalgi/ollama-pdf-bot.
