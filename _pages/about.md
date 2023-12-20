@@ -16,8 +16,6 @@ I am interested in designing **efficient, generalizable, and explainable learnin
 
 Selected Projects
 =====
-This section highlights my research projects, categorized by major themes and subtopics.
-
 ### 1. Domain and Knowledge Transfer
 This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
 #### a) Multi-task Learning
