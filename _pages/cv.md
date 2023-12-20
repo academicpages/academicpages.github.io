@@ -17,19 +17,24 @@ Education
 * M.S. in Statistics, The George Washington University, 2018-2020
 * B.S. in Mathematics, Fudan University, 2014-2018
 
-<!-- 
+
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-2025: Research Assistant
+  * Emory University
+  * Duties included: Leading research projects on various topics of machine learning, such as multi-task learning, continual learning, and domain generalization, etc.
+  * Supervisor: Professor Liang Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2023: Research Intern
+  * NEC Lab America
+  * Duties included: Developing machine learning algorithms for domain adaptation on time series data.
+  * Mentor: Junxiang Wang
+ 
+* Summer 2017: Intern
+  * China Financial Futures Exchange
+  * Duties included: Developing the data platform for a daily overview of the global financial market.
+
+<!-- 
 Skills
 ======
 * Skill 1
