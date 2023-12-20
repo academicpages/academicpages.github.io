@@ -20,8 +20,6 @@ This section highlights my research projects, categorized by major themes and su
 
 ## 1. Domain and Knowledge Transfer
 
-This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains.
-
 ### a) Multi-task Learning
 - **Sign-Regularized Multi-Task Learning**  
   _SDM 2023_  
@@ -43,13 +41,16 @@ This project focuses on enhancing machine learning models' adaptability and effe
   _ICDM 2022_  
   [Paper](https://arxiv.org/pdf/2210.00729) | [Code](https://github.com/dyu62/Deep-domain-generalization)
 
-## 2. Large-Scale Machine Learning
+## 2. Large-Scale Efficient Machine Learning
 
-Exploring scalable solutions in machine learning, particularly in graph neural networks and large language models.
-
-- **Distributed Training for Graph Neural Networks (GNNs)**  
-  Various publications like "Staleness-Alleviated Distributed GNN Training" and more.
-- **Model Compression & Acceleration of LLMs**  
+### a) Distributed Training for Graph Neural Networks (GNNs)
+- **Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**  
+  _Preprint_  
+  [Paper](https://arxiv.org/pdf/2206.00057) | [Code]()
+- **Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**  
+  _Preprint_  
+  [Paper](https://arxiv.org/pdf/2308.13466) | [Code]()
+### b) Model Compression & Acceleration of LLMs 
   Ongoing research and development in this area.
 
 ## 3. Continual and Lifelong Learning
