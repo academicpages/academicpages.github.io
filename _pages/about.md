@@ -17,7 +17,7 @@ I am interested in designing **efficient, generalizable, and explainable learnin
 Selected Projects
 =====
 ## 1. Domain and Knowledge Transfer
-This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
+Focusing on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
 ### a) Multi-task Learning
 - [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
@@ -35,7 +35,7 @@ This project focuses on enhancing machine learning models' adaptability and effe
   _ICDM 2022_ 
 
 ## 2. Efficient Large-Scale Machine Learning
-Exploring scalable solutions in machine learning, particularly in graph neural networks and large language models.
+Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
 ### a) Distributed Training for Graph Neural Networks (GNNs)
 - [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
   _Preprint_  
@@ -45,7 +45,7 @@ Exploring scalable solutions in machine learning, particularly in graph neural n
   Ongoing research and development in this area.
 
 ## 3. Continual and Lifelong Learning
-Focusing on memory-replay and neuro-inspiration approaches for continual learning without sub-categories.
+Focusing on memory-replay and neuro-inspiration approaches for continual learning.
 - [**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://openreview.net/pdf?id=Fhx7nVoCQW)   
   _AMHN Workshop @NeurIPS 2023_  
 - [**Saliency-Augmented Memory Completion for Continual Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)  
