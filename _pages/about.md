@@ -39,10 +39,12 @@ Research Interests
 
 News
 ======
+[Oct. 2023] I served as a AC reviewer for [IMWUT](https://dl.acm.org/journal/imwut).
+
 [Oct. 2023] I served as a AC reviewer for [CHI'2024](https://chi2024.acm.org/).
 
-[Sept. 2023] Paper accepted at ACII 2023
-Our paper on non-intrusive wireless signal based protective behaviour recognition has been accepted "Leveraging WiFi Sensing toward Automatic Recognition of Protective Behaviors".
+[Sept. 2023] Two Papers accepted at ACII 2023
+My first-author paper on non-intrusive wireless signal based protective behaviour recognition has been accepted "Leveraging WiFi Sensing toward Automatic Recognition of Protective Behaviors".
 See you MIT Media Lab, Cambridge, MA, USA.
 [Link](https://acii-conf.net/2023/)
 
