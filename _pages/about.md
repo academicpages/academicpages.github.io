@@ -14,8 +14,8 @@ Research Interests
 ======
 I am interested in designing **efficient, generalizable, and explainable learning algorithms with theoretical guarantees**. Specifically, my current research topics include but are not limited to **1.** Learning strategies for domain transfer problems, such as multi-task learning (MTL), domain adaptation (DA), and domain generalization (DG). **2.** Large-scale machine learning algorithms with better scalability and performance, such as distributed training for Graph Neural Networks (GNNs) and model compression & acceleration of LLMs, etc. **3.** Online learning such as continual/lifelong learning with memory replay and neuro-inspiration. 
 
-# Selected Projects
-
+Selected Projects
+=====
 This section highlights my research projects, categorized by major themes and subtopics.
 
 ## 1. Domain and Knowledge Transfer
