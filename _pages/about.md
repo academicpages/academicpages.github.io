@@ -19,47 +19,39 @@ Selected Projects
 This section highlights my research projects, categorized by major themes and subtopics.
 
 ### 1. Domain and Knowledge Transfer
-
+This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
 #### a) Multi-task Learning
 - [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
-- **Saliency-Regularized Deep Multi-Task Learning**  
+- [**Saliency-Regularized Deep Multi-Task Learning**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)  
   _KDD 2022_  
-  [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442) | [Code](https://github.com/BaiTheBest/SRDML)
 
 #### b) Domain Adaptation
-- **Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**  
+- [**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
   _Preprint_  
-  [Paper](https://arxiv.org/abs/2312.12276) | [Code]()
 
 #### c) Domain Generalization
-- **Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**  
-  _ICLR 2023_  
-  [Paper](https://openreview.net/pdf?id=sWOsRj4nT1n) | [Code](https://github.com/BaiTheBest/DRAIN)
-- **Deep Spatial Domain Generalization**  
-  _ICDM 2022_  
-  [Paper](https://arxiv.org/pdf/2210.00729) | [Code](https://github.com/dyu62/Deep-domain-generalization)
+- [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
+  _ICLR 2023_   
+- [**Deep Spatial Domain Generalization**](https://arxiv.org/pdf/2210.00729)  
+  _ICDM 2022_ 
 
 ### 2. Large-Scale Efficient Machine Learning
-
+Exploring scalable solutions in machine learning, particularly in graph neural networks and large language models.
 #### a) Distributed Training for Graph Neural Networks (GNNs)
-- **Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**  
+- [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
   _Preprint_  
-  [Paper](https://arxiv.org/pdf/2206.00057) | [Code]()
-- **Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**  
+- [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
   _Preprint_  
-  [Paper](https://arxiv.org/pdf/2308.13466) | [Code]()
 #### b) Model Compression & Acceleration of LLMs 
   Ongoing research and development in this area.
 
 ### 3. Continual and Lifelong Learning
-
-- **Saliency-Guided Hidden Associative Replay for Continual Learning**  
+Focusing on memory-replay and neuro-inspiration approaches for continual learning without sub-categories.
+- [**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://openreview.net/pdf?id=Fhx7nVoCQW)   
   _AMHN Workshop @NeurIPS 2023_  
-  [Paper](https://openreview.net/pdf?id=Fhx7nVoCQW) | [Code](https://github.com/BaiTheBest/SHARC)
-- **Saliency-Augmented Memory Completion for Continual Learning**  
+- [**Saliency-Augmented Memory Completion for Continual Learning**]https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28  
   _SDM 2023_  
-  [Paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28) | [Code](https://github.com/BaiTheBest/SAMC)
 
 
 Services and Awards
