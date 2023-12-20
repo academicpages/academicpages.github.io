@@ -31,14 +31,17 @@ This project focuses on enhancing machine learning models' adaptability and effe
   [Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442) | [Code](https://github.com/BaiTheBest/SRDML)
 
 ### b) Domain Adaptation
-- **Deep Spatial Domain Generalization**  
-  _ICDM 2022_  
-  [Paper](https://arxiv.org/pdf/2210.00729) | [Code](https://github.com/dyu62/Deep-domain-generalization)
+- **Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**  
+  _Preprint_  
+  [Paper](https://arxiv.org/abs/2312.12276) | [Code]()
 
 ### c) Domain Generalization
 - **Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**  
-  _ICLR 2023 (Oral)_  
+  _ICLR 2023_  
   [Paper](https://openreview.net/pdf?id=sWOsRj4nT1n) | [Code](https://github.com/BaiTheBest/DRAIN)
+- **Deep Spatial Domain Generalization**  
+  _ICDM 2022_  
+  [Paper](https://arxiv.org/pdf/2210.00729) | [Code](https://github.com/dyu62/Deep-domain-generalization)
 
 ## 2. Large-Scale Machine Learning
 
