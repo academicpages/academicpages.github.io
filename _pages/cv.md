@@ -18,7 +18,7 @@ Education
 * B.S. in Mathematics, Fudan University, 2014-2018
 
 
-Work experience
+Working Experience
 ======
 * 2020-2025: Research Assistant
   * Emory University
