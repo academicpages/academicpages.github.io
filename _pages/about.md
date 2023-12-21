@@ -16,7 +16,7 @@ I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong
 
 ### 🔥 Academic Work in Progress
 
-I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system. If you are seeking any form of **academic cooperation**, please feel free to email me at [alexhu1999@outlook.com](https://huyunhai-alex.github.io/markdown/#:~:text=Email%3A%20alexhu1999%40outlook.com).
+I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system. If you are seeking any form of **academic cooperation**, please feel free to email me at <alexhu1999@outlook.com>.
 
 ### 📎 Homepages
 
