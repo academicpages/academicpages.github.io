@@ -4,4 +4,4 @@ excerpt: "This ppt illustrates what I have achieve during I am working for Bilib
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Please click this link to learn more details of  [my working achievements.](https://huyunhai-alex.github.io//files/promotion.pdf)
