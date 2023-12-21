@@ -1,6 +1,6 @@
 ---
-title: "Working Experiences"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/晋升答辩.pdf'>"
+title: "My Working Experiences"
+excerpt: "This ppt illustrates what I have achieve during I am working for Bilibili as a program developer. <br/><img src='/images/working.png'>"
 collection: portfolio
 ---
 
