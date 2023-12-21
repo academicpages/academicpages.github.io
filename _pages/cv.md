@@ -17,25 +17,27 @@ Education
 
 Work experience
 ======
-* Summer 2023: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Mathematical oncology programmer
+  - [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
+  - Mentor:  Kasia A. Rejniak
+  - Moffitt Cancer Center, Tampa, Florida, United States
+  - June 2023 - August 2023
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2021--present: Graduate Teaching Assistant
+  * Tulane University, New orleans, LA-70118,USA
+  * Duties included:  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages:
+  * MATLAB
+  * Python
+  * JULIA
+  * R
+* Software and Tools
+  * LaTex
+  * Mathematica
+  * Maple
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +58,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vice president, SIAM student chapter, Tulane University (for 2022-23)
+* Graduate student member- American Mathematical Society (AMS)
+* Graduate student member- Society of industrial and applied mathematics (SIAM)
