@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Mathematics, Tulane University, 2021--present
+* M.S. in Applied Mathematics, University of Chittagong, 2019
+* B.Sc. in Mathematics, University of Chittagong, 2017
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Summer 2023: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
