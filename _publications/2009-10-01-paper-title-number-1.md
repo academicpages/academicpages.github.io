@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: " Stokes’ second problem and oscillatory Couette flow for a two-layer fluid: Analytical solutions"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'The unsteady motion of a two-layer fluid induced by oscillatory motion of a flat plate along its length is mathematically analyzed. Two cases are considered: (i) the two-layer fluid is bounded only by the oscillating plate (Stokes’ second problem), and (ii) the two-layer fluid is confined between two parallel plates, one of which oscillates while the other is held stationary (oscillatory Couette flow). In each of the Stokes and Couette cases, both cosine and sine oscillations of the plate are considered. It is assumed that the fluids are immiscible, and that the flat interface between the fluids remains flat for all times. Solutions to the initial-boundary value problems are obtained using the Laplace transform method.The results obtained for the velocity fields for the flows are new and complete. Steady periodic and transient velocity fields are explicitly presented. Transient and steady-state shear stresses at the boundaries of the flows are calculated; the existing literature lacks any such results. The results derived in this paper retrieve previously known results for corresponding single-layer flows. Furthermore, the results obtained are illustrated taking particular example of each of the Stokes’ problem and the Couette flow. With the help of the illustrations, some physical insights into the flows of the particular problems are gained. Again, the results obtained could also be applicable to a problem of heat conduction in a composite solid with sinusoidal temperature variation on the surface.'
+paperurl: 'http://muddin21.github.io/files/paper1.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+*Abstract:* The unsteady motion of a two-layer fluid induced by oscillatory motion of a flat plate along its length is mathematically analyzed. Two cases are considered: (i) the two-layer fluid is bounded only by the oscillating plate (Stokes’ second problem), and (ii) the two-layer fluid is confined between two parallel plates, one of which oscillates while the other is held stationary (oscillatory Couette flow). In each of the Stokes and Couette cases, both cosine and sine oscillations of the plate are considered. It is assumed that the fluids are immiscible, and that the flat interface between the fluids remains flat for all times. Solutions to the initial-boundary value problems are obtained using the Laplace transform method.The results obtained for the velocity fields for the flows are new and complete. Steady periodic and transient velocity fields are explicitly presented. Transient and steady-state shear stresses at the boundaries of the flows are calculated; the existing literature lacks any such results. The results derived in this paper retrieve previously known results for corresponding single-layer flows. Furthermore, the results obtained are illustrated taking particular example of each of the Stokes’ problem and the Couette flow. With the help of the illustrations, some physical insights into the flows of the particular problems are gained. Again, the results obtained could also be applicable to a problem of heat conduction in a composite solid with sinusoidal temperature variation on the surface.
+[Download paper here](http://muddin21.github.io/files/paper1.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+**Recommended citation**: Moslem Uddin, Abdullah Murad, Stokes’ second problem and oscillatory Couette flow for a two-layer fluid: Analytical solutions, Alexandria Engineering Journal, Volume 61, Issue 12, 2022, https://www.sciencedirect.com/science/article/pii/S1110016822001909.
