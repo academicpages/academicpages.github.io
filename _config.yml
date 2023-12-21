@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Moselm Uddin"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Moselm Uddin"
 description              : &description "personal description"
 url                      : https://muddin21.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Moslem Uddin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. student and Graduate Research Assistant in Mathematics"
   location         : "New Orleans, LA-70118, USA"
   employer         : "Tulane University"
   googlescholar    : "https://scholar.google.com/citations?user=ydZiyDEAAAAJ&hl=en"
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "muddin21"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/moslem-uddin/"
+  orcid            : "https://orcid.org/0000-0002-4375-5863"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "MoselmMathcu"
   vine             :
   weibo            :
   xing             :
