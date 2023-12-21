@@ -8,30 +8,49 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Hu Yunhai, and I am a graduate of Shandong University, where I majored in Mathematics and Applied Mathematics. Currently, I am working as a Development Engineer in the Big Data Architecture Department at Bilibili Inc. My academic background in mathematics has provided me with a strong foundation for tackling complex data challenges, and I am passionate about leveraging big data technologies to drive innovation and efficiency in our digital world.
+## Hi there 👋
 
-Education
-======
-Bachelor of Science in Mathematics and Applied Mathematics, 2018-2022, Shandong University
-Bachelor of Science in Architecture, 2017-2022, Shandong University
+I work at [Big Data Architecture Department of Bilibili, Real-time Computing Team](https://ir.bilibili.com/) as a Software Development Engineer now in Shanghai, working for cloud computing, real-time computing, unified streaming and batch processing, and storage-compute separation.
 
-Research
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-6. Check status by going to the repository settings, in the "GitHub pages" section
+I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [alexhu1999@outlook.com](alexhu1999@outlook.com).
 
-Projects
-======
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong University (山东大学数学学院) with a bachelor's degree and from the Department of Mathematics, Shandong University (山东大学数学学院) with a master's degree, advised by [Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm). I also collaborate with Yun Jiang (蒋云), Ye Qie (邱耶) and Mengqiao Sun(孙梦桥) from Zhejiang Peking University Advanced Institute of Information Technology [浙江省北大信息技术高等研究院](https://www.aiit.org.cn/) closely. 
 
-Rewards
-======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### 🔥 Academic Work in Progress
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system.
+
+### 📎 Homepages
+
+-   Personal Pages: https://huyunhai-alex.github.io/ (updated recently🔥)
+
+### 💻 Relevant Courses: 
+
+Computer Network, Principles of Computer Composition, Artificial Intelligence, Data Structures, C++ Programming, Operating Systems, Discrete Mathematics, Database Systems, Software Engineering, etc.
+
+### 💻 Additional Related Traing Programs
+
+1.  Python Language Programming, by Song Tian, Beijing Institute of Technology, July 2019
+2.  Hands-on PaddlePaddle & OpenVINO AI Model: Data Center to Edge Course, Intel AI Lab, July 3, 2019
+3.  Acquisition and Processing of Three-Dimensional Geometry, Shandong University, August 2019
+
+### 📚 Published Works
+
+1.  Hu Yunhai, Wan Jie. Portable Spinal Posture Detection and Correction Device [P]. Shandong Province: CN210056373U, 2020-02-14.
+2.  Hu Yunhai, Zhang Yang, Wang Ding. Data Processing Method and Device [P]. Shanghai: CN115509635A, 2022-12-23.
+
+### 🎉 Academic Honors, Prizes or Scholarships 
+
+1.  Shandong Province Software Application Innovation Design Competition, Second Prize, December 2018
+2.  WeBank, First Financial Technology University Technical Competition (Artificial Intelligence Track), Excellence Award, August 2019.
+     Shandong University Second-Class Academic Scholarship at the University Level, October 2019 
+3.  Shandong University Special Talent Scholarship (Science and Innovation) at the University Level, October 2019
+4.  In the 5th Shandong Province College Students' Software Application Innovation Design Competition, First Prize, November 2019
+5.  The 4th National College Students' Invention Method Innovation and Application Competition, Second Prize, October 2020
+6.  Shandong University Third-Class Academic Scholarship at the University Level, October 2020
+
+### 🧑‍🎨 Honor Societies
+
+-   Member of Apache Flink Forward Asia 
+-   Member of Alibaba Cloud Developer 
+-   Member of Shandong University Computer Science Society 
