@@ -1,7 +1,7 @@
 ---
 title: "Graduate Teaching Assistant"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/TU
 venue: "Tulane University, Department of Mathematics"
 date: 2021-08-13
