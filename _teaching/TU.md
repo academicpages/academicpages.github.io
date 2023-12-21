@@ -8,13 +8,17 @@ date: 2021-08-13
 location: "New Orleans, LA-70118, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I'm working as a Graduate teaching assistant (GTA) in Mathematics at Tulane University, LA, USA. I have worked as a GTA for the following courses:
 
-Heading 1
+Calculus I 
 ======
 
-Heading 2
+Calculus II 
 ======
 
-Heading 3
+Statistics for Scientist
 ======
+
+Consolidate Calculus 
+======
+
