@@ -12,7 +12,7 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
-> ***19th October 2023***
+> ***15th December 2023***
 > 
 > Our paper "Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions" has been accepted at [ICSE SEET](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track)! 
 
