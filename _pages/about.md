@@ -14,7 +14,7 @@ I work at [Big Data Architecture Department of Bilibili, Real-time Computing Tea
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [alexhu1999@outlook.com](alexhu1999@outlook.com).
 
-I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong University with a bachelor's degree from the Department of Mathematics, advised by [Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm). I also collaborate with Yun Jiang (蒋云), Ye Qie (邱耶) and Mengqiao Sun(孙梦桥) from Zhejiang Peking University Advanced Institute of Information Technology [浙江省北大信息技术高等研究院](https://www.aiit.org.cn/) closely. 
+I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong University (山东大学数学学院) with a bachelor's degree advised by [Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm). I also collaborate with Yun Jiang (蒋云), Ye Qie (邱耶), and Mengqiao Sun(孙梦桥) from  [Zhejiang Peking University Advanced Institute of Information Technology](https://www.aiit.org.cn/) closely. 
 
 ### 🔥 Academic Work in Progress
 
@@ -22,7 +22,7 @@ I am currently researching the integration of real-time and batch processing, Se
 
 ### 📎 Homepages
 
--   Personal Pages: https://huyunhai-alex.github.io/ (updated recently🔥)
+-   Personal Pages: https://huyunhai-alex.github.io (updated recently🔥)
 
 ### 💻 Relevant Courses: 
 
