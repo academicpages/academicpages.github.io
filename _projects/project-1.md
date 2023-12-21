@@ -13,6 +13,10 @@ This 2-axis rotary table is developed for integration into a multi-axis CNC mill
 
 *Milling machine concept*
 
+![5-Axis CNC Bridge Mill Concept 2](/images/CNC Machine Concept_w550.jpg)
+
+*Milling machine concept, Z-axis and spindle hidden*
+
 This project provided many opportunities to learn more about machine design, electronics, programming, motor and gearbox sizing, servo tuning, pneumatics, fabrication and systems integration.
 
 ## Design
@@ -94,7 +98,7 @@ The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/product
 
 *Rotary table support shaft*
 
-![Two-axis rotary table side view](images/2 Axis Trunnion Side View_w600.jpg)
+![Two-axis rotary table side view](/images/2 Axis Trunnion Side View_w600.jpg)
 
 *Side view showing secondary support bearing and frame*
 
