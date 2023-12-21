@@ -7,7 +7,7 @@ tags: design, machine
 
 ![Two-Axis Tilting Rotary Table](/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png)
 
-This 2-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the x-axis and rotary axes will travel underneath the y-axis and mill spindle, as shown below. 
+This 2-axis rotary table is developed for integration into a multi-axis CNC milling machine. It was designed, manufactured and assembled by me, using a variety of custom machined parts and off-the-shelf components. Primary goals were to machine non-ferrous metals and plastics using 3+2 style and full 5-axis machining techniques. I have begun designing and building a full 5-axis CNC milling machine that will eventually use this rotary table. The mill structure is similar to a bridge mill, where the y-axis and rotary axes travels underneath the x-axis and mill spindle, as shown below. 
 
 ![5-Axis CNC Bridge Mill](/images/Mill Render 1_w400.jpg)
 
