@@ -38,6 +38,7 @@ Skills
   * LaTex
   * Mathematica
   * Maple
+    
 Publications
 ======
   <ul>{% for post in site.publications %}
