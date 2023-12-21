@@ -20,7 +20,7 @@ I am currently researching the integration of real-time and batch processing, Se
 
 ### 📎 Homepages
 
--   Personal Pages: [https://huyunhai-alex.github.io](https://huyunhai-alex.github.io) (updated recently🔥)
+-   Personal Pages: [https://huyunhai-alex.github.io](https://huyunhai-alex.github.io/markdown/#:~:text=Email%3A%20alexhu1999%40outlook.com) (updated recently🔥)
 
 ### 💻 Relevant Courses: 
 
