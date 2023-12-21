@@ -68,17 +68,15 @@ For simplicity and cost reasons I used brake pads commonly found in hydraulic mo
 
 ### Compact C-Axis Motor and Drivetrain
 
-I wanted to have the C-axis motor and drivetrain tucked inside the body of the rotary table to shield it from metal chips and coolant.
+I wanted to have the C-axis motor and drivetrain tucked inside the body of the rotary table to shield it from metal chips and coolant. The largest motor I could package in the structure was a 200W servo motor. This motor is directly coupled to a 17-80 harmonic drive, with an 80:1 reduction. The powerful motor enables rotation speeds of up to 40 RPM [240 deg/s], with a peak output torque of 220 Nm. All of the motor power, encoder, home sensor wiring and pneumatics are protected by the aluminum housing.
 
 ![Two-axis rotary table brake rotor](/images/2 Axis Trunnion Motor_w600.jpg)
 
 *C-Axis motor, gearbox and belt drive*
 
-
-
 ### High Torque A-Axis Servo Motor and Harmonic Drive
 
-The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/products/gear-units/hollow-shaft-gear-units/shf-2uh/shf-40-100-2uh) harmonic drive from Harmonic Drive Solutions. This gear reducer also includes a very stiff preloaded crossed roller bearing to support any radial, axial or moment loads. Harmonic drives operate with very little angular backlash (< 7 arc sec [0.002 degrees]), hysteresis and excellent positional accuracy (1 arc min [0.0166 degrees]) - making them a great option for this rotary table. They offer a large gear reduction in a very small package with great mechanical efficiency and torsional stiffness. This particular unit is 100:1, with a rated torque of 265 Nm and a momentary peak torque above 1000 Nm, although the 750W servo motor would not be able to output the required torque. I was able to get this unit from a machine rebuilder on Ebay for a great price, along with a replacement crossed roller bearing from a Taiwan supplier.
+The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/products/gear-units/hollow-shaft-gear-units/shf-2uh/shf-40-100-2uh) harmonic drive from Harmonic Drive Solutions. This gear reducer also includes a very stiff preloaded crossed roller bearing to support any radial, axial or moment loads. Harmonic drives operate with very little angular backlash (< 7 arc sec [0.002 degrees]), hysteresis and excellent positional accuracy (1 arc min [0.0166 degrees]) - making them a great option for this rotary table. They offer a large gear reduction in a very small package with great mechanical efficiency and torsional stiffness. This particular unit is 100:1, with a rated torque of 265 Nm and excellent rigidity. I was able to get this unit from a machine rebuilder on Ebay for a great price, along with a replacement crossed roller bearing from a Taiwan supplier.
 
 ![Two-axis rotary table bearing](/images/2 Axis Trunnion A-Axis Gearing_w600.jpg)
 
@@ -91,3 +89,12 @@ The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/product
 ![Two-axis rotary table support bearing shaft shims](/images/2 Axis Trunnion A-Axis Support Shims_w600.jpg)
 
 *Shimming alignment of secondary support bearing shaft to be co-axial with A-Axis rotation axis*
+
+![Two-axis rotary table iso view](/images/2 Axis Trunnion ISO View_w600.jpg)
+
+*Rotary table support shaft*
+
+![Two-axis rotary table side view](images/2 Axis Trunnion Side View_w600.jpg)
+
+*Side view showing secondary support bearing and frame*
+
