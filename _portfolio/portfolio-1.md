@@ -1,6 +1,6 @@
 ---
 title: "My Working Experiences"
-excerpt: "This ppt illustrates what I have achieve during I am working for Bilibili as a program developer. <br/><img src='/images/working.png'>"
+excerpt: "I have worked for Bilibili for around 2 years and completed a lot of tasks. There is a PPT which illustrates what I have achieved during my working as a big data program developer. <br/><img src='/images/working.png'>"
 collection: portfolio
 ---
 
