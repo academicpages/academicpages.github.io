@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Moslem Uddin"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student and Graduate Research Assistant in Mathematics"
-  location         : "[New Orleans, LA-70118, USA](https://maps.app.goo.gl/kgQkXPGyCNTdsgFf6)"
-  employer         : "[Tulane University](https://maps.app.goo.gl/kgQkXPGyCNTdsgFf6)"
+  bio              : "Ph.D. student and Graduate Research Assistant in Mathematics at Tulane Univeristy"
+  location         : "https://maps.app.goo.gl/kgQkXPGyCNTdsgFf6"
+  employer         : "https://sse.tulane.edu/math/"
   googlescholar    : "https://scholar.google.com/citations?user=ydZiyDEAAAAJ&hl=en"
   email            : "muddin.tu@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Moslem-Uddin-2"
