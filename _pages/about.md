@@ -22,7 +22,7 @@ I am currently researching the integration of real-time and batch processing, Se
 
 ### 📎 Homepages
 
--   Personal Pages: https://huyunhai-alex.github.io (updated recently🔥)
+-   Personal Pages: [https://huyunhai-alex.github.io](https://huyunhai-alex.github.io) (updated recently🔥)
 
 ### 💻 Relevant Courses: 
 
@@ -36,18 +36,18 @@ Computer Network, Principles of Computer Composition, Artificial Intelligence, D
 
 ### 📚 Published Works
 
-1.  Hu Yunhai, Wan Jie. Portable Spinal Posture Detection and Correction Device [P]. Shandong Province: CN210056373U, 2020-02-14.
-2.  Hu Yunhai, Zhang Yang, Wang Ding. Data Processing Method and Device [P]. Shanghai: CN115509635A, 2022-12-23.
+1.  Hu Yunhai, Wan Jie. [Portable Spinal Posture Detection and Correction Device](http://huyunhai-alex.github.io/files/CN210056373U.PDF) [P]. Shandong Province: CN210056373U, 2020-02-14.
+2.  Hu Yunhai, Zhang Yang, Wang Ding. [Data Processing Method and Device](http://huyunhai-alex.github.io/files/CN115509635A.PDF) [P]. Shanghai: CN115509635A, 2022-12-23.
 
 ### 🎉 Academic Honors, Prizes or Scholarships 
 
 1.  Shandong Province Software Application Innovation Design Competition, Second Prize, December 2018
 2.  WeBank, First Financial Technology University Technical Competition (Artificial Intelligence Track), Excellence Award, August 2019.
-     Shandong University Second-Class Academic Scholarship at the University Level, October 2019 
-3.  Shandong University Special Talent Scholarship (Science and Innovation) at the University Level, October 2019
-4.  In the 5th Shandong Province College Students' Software Application Innovation Design Competition, First Prize, November 2019
-5.  The 4th National College Students' Invention Method Innovation and Application Competition, Second Prize, October 2020
-6.  Shandong University Third-Class Academic Scholarship at the University Level, October 2020
+3.  Shandong University Second-Class Academic Scholarship at the University Level, October 2019 
+4.  Shandong University Special Talent Scholarship (Science and Innovation) at the University Level, October 2019
+5.  In the 5th Shandong Province College Students' Software Application Innovation Design Competition, First Prize, November 2019
+6.  The 4th National College Students' Invention Method Innovation and Application Competition, Second Prize, October 2020
+7.  Shandong University Third-Class Academic Scholarship at the University Level, October 2020
 
 ### 🧑‍🎨 Honor Societies
 
