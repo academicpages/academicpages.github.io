@@ -9,3 +9,5 @@ I write blog-posts on various online media outlets. I have my own [Medium](https
 
 * PDF-version of my [The GOAT of Political Science](/files/GOAT_of_Political_Science.pdf).
 * PDF-version of my [The Blind Empiricist](/files/The_Blind_Empiricist.pdf).
+* PDF-version of my [The RD-design and politician competence](/files/What_does_the_Regression_Discontinuity_Design_tell_us_about_politicians_.pdf).
+
