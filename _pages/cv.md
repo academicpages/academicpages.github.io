@@ -72,6 +72,8 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
+Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2023). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication_ Advance online publication. https://doi.org/10.1080/10410236.2023.2292830
+
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2023). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology_ Advance online publication. https://doi.org/10.1080/15213269.2023.2281545
 
 Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022). Effects of narrative-persuasive frames on Twitter regarding blood donation: pride versus empathy and people versus numbers. _Profesional de la Información, 31_(4). https://doi.org/10.3145/epi.2022.jul.15
