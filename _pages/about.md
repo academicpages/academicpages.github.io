@@ -9,7 +9,7 @@ redirect_from:
 ---
 Farhad Rezazadeh (IEEE S'19, M'23) received the Ph.D. degree (*Excellent Cum Laude*) in Signal Theory and Communications from [Technical University of Catalonia (UPC)](https://www.upc.edu/ca), Barcelona, Spain. He is currently a Researcher (Senior AI R&D engineer) at the Telecommunications Technological Center of Catalonia (CTTC), Barcelona, Spain. He participated in 8 European and National 5G/B5G/6G R&D projects with leading and technical tasks in the areas of Applied AI and XAI. His AI innovation in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. He was awarded the first patent connected to the H2020 5G-SOLUTIONS project. He was a secondee at NEC Lab Europe and had scientific missions at Technical University of Munich (TUM), Hamburg University of Technology (TUHH), and Universitat de Girona (UdG). He is a Marie Skłodowska-Curie Ph.D. grantee and won 5 different IEEE/IEEE ComSoc grants, 2 European Cooperation in Science and Technology grants, and Catalan Government Ph.D. Grant. He is an active member of IEEE Young Professionals and IEEE Spain - Technical Activities and Standards with more than 25 top-tier journals and conferences. He serves as Organizing, Chair, Reviewer, and TPC member in IEEE and Guest Editor in Elsevier.
 
-
+#https://flotfigit.github.io/
 
 Getting started
 ======
