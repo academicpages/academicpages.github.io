@@ -44,7 +44,7 @@ Skills
   * WRF
   * ROMS
   * POM
-  * WAVEWATCHIII
+  * WAVEWATCH III
   * MASNUM
   * C-Coupler
 * Data visualization
