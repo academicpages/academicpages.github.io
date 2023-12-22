@@ -13,7 +13,7 @@ Hi! I am currently a staff engineer in the Search Ads team at Baidu Inc., workin
 
 Research Interests
 ======
-My research interests are in *computational advertising* and *large language models*, and broader interests include reinforcement learning, federated learning and their applications in advertising, search and recommendation.   
+My research interests are in **computational advertising** and **large language models**, and broader interests include reinforcement learning, federated learning, graph neural networks and their applications in advertising, search and recommendation.   
 
 During my Ph.D., my research interests were in natural language processing and computational social science, especially *opinion mining* and *opinionated/argumentative text generation* in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
 
@@ -21,13 +21,13 @@ During my Ph.D., my research interests were in natural language processing and c
 News
 =====
 * Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. 
-* May. 2023: [Strategy] A first-authored paper about RL-based *impression pacing* strategy was accepted at KDD 2023. 
+* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. 
 * Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. 
 * Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023.  
 * Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
 * Apr. 2022: [Ranking][Creative] Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
 * Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022.  
-* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* was accepted at CIKM 2021.  
+* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021.  
 
 
 Experience and Education
