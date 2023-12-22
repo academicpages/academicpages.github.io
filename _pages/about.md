@@ -12,7 +12,7 @@ of ocean surface waves on air-sea momentum & heat fluxes, and their influence
 on the atmospheric boundary layer and extreme processes such as tropical cyclone.
 
 I am also a modeler. Over the past few years, I have been working on the development
-of an Atmosphere-Ocean-Wave coupled model known as FIO-AOW [FIO-AOW](https://github.com/Biao-Zhao/FIO-AOW).
+of an Atmosphere-Ocean-Wave coupled model known as [FIO-AOW](https://github.com/Biao-Zhao/FIO-AOW).
 
 The goal of my research is to better understand the air-sea-wave coupled processes and to improve tropical 
 cyclone and wind energy predictions. 
