@@ -6,14 +6,26 @@ tags:
   - linux
   - arch
   - operating systems
+  - tutorial
+  - linux-beginner
 ---
 These are my notes on [Arch](https://archlinux.org/) from when I first installed it. I've never used Linux before this.
 
-I entered a Linux 'rabbithole' during college winter break and decided to start transitioning to Linux based operating systems from the Windows operating system (OS) that I use now. Arch seemed to be the best fit for me and I decided to make a virtual machine (VM) and install it (without `archinstall`). I have experience with a lot of the concepts that help understand how an operating system works from some computer science courses, so it's probably easier for me to conceptualize exactly what I'm doing and how the operating system works than anyone without that type of experience, but I think there is enough content (or close to) to take anyone from knowing almost nothing about details like schedulers, file systems, partitions, swapping, etc. to having a solid conceptual grasp as to what makes up an OS.
+# Preface
+I entered a Linux 'rabbithole' during college winter break and decided to start transitioning to a Linux based operating system (OS) from the Windows OS that I use now. Arch seemed to be the best fit for me and I decided to make a virtual machine (VM) and install it (without `archinstall`).
 
+I have experience with concepts that help me understand how an OS works from some computer science courses, so it's probably easier for me to conceptualize exactly what I'm doing and how the OS works than most others without that type of experience. However, I think there is enough content (or close to) to take anyone from knowing almost nothing about details like schedulers, file systems, partitions, swapping, etc. to having a solid conceptual grasp as to what makes up an OS.
+
+## P.1 - Notes
 These notes are primarily taken from the [Arch Wiki](https://wiki.archlinux.org/). Various external resources are scattered throughout from my time undergoing the installation process. In these notes I include excerpts, paraphrases, expansions, or explanations in my own words which I hope makes this process productive and effective. I _highly_ recommend reading the Wiki thoroughly if you have questions. I know, everyone says "It's in the Wiki", but odds are it really is. The installation wiki can seem vague and opaque, but it isn't if you understand everything it is _saying_. Hence, understanding the *commands* and *terminology* is super important. The Wiki docs on the commands was much more helpful that I expected. Read the Wiki pages on each command if you don't know exactly what it is doing. Click on the links it provides and don't shy away from spending time reading on them. My notes provide lots of additional resources that maybe aren't necessary, but are more accessible to someone who might have a bit of trouble peeling through fine text word by word.
 
-Additionally, I believe that using a VM for a first time installation and configuration process of a Linux distribution is (for most people) the best option. I opted to do it on [VirtualBox](https://www.virtualbox.org/) since it is very easy and lots of resources out there use this VM. Most of the information here is the same but there are some notable differences in a few of the sections of pre-installation.
+If you plan on watching a video tutorial in addition to using the Arch Wiki, just be wary that some things might be outdated or wrong. When in doubt, use the Arch Wiki. I recommend iteratively watching ahead, cross-referencing with the Arch Wiki, make a decision, and then execute.
+
+## P.2 - Why a Virtual Machine?
+I believe that using a VM for a first time installation and configuration process of a Linux distribution is (for most people) the best option. I opted to do it on [VirtualBox](https://www.virtualbox.org/) since it is very easy and lots of resources out there use this VM. Most of the information here is the same regardless of the medium but there are some notable differences in a few of the sections of pre-installation.
+
+## P.3 - Who is this for?
+This is for anyone who would like to undergo the same process I did! It is not for experienced individuals. If you would like to use `archinstall`, this post is not for you.
 
 # Arch - My First Experience
 - Arch Linux is an independently developed, x86-64 general-purpose [GNU](https://wiki.archlinux.org/title/GNU "GNU")/Linux distribution.
@@ -105,28 +117,31 @@ I haven't verified if this is the same for other VMs, but logically it should be
 - If you didn't make swap partitions and want to, you'll likely need to restart. However, if you are not particularly concerned about speed and efficiency for overflowing your RAM, then the [swap file](https://wiki.archlinux.org/title/swap) is a viable option.
 
 ## 1.10 Format the partitions
-- Now we format it using the `mkfs` command.
-- If you created an EFI system partition, [format it](https://wiki.archlinux.org/title/EFI_system_partition#Format_the_partition "EFI system partition") to FAT32 using [mkfs.fat(8)](https://man.archlinux.org/man/mkfs.fat.8).
-- **Warning:** Only format the EFI system partition if you created it during the partitioning step. If there already was an EFI system partition on disk beforehand, reformatting it can destroy the boot loaders of other installed operating systems.
+Now we format it using the `mkfs` command. If you created an EFI system partition, [format it](https://wiki.archlinux.org/title/EFI_system_partition#Format_the_partition "EFI system partition") to FAT32 using [mkfs.fat(8)](https://man.archlinux.org/man/mkfs.fat.8).
+- **Warning:** Only format the EFI system partition if you created it during the partitioning step. If there already was an EFI system partition on disk beforehand, reformatting it can destroy the boot loaders of other installed operating systems. 
 - We can format 'root' as `.ext4` but 'boot' needs to be a FAT.
-- Run...
-	- `mkfs.fat -F32 /dev/sda1` - Formats the partition as a FAT with 32-bit entries.
-		- Here is the wiki [page](https://wiki.archlinux.org/title/FAT) on it. Also, here is Arch's docs on [File Allocation Tables](https://wiki.archlinux.org/title/FAT) (FAT), an essential to understanding how our OS works [(FAT isn't technically part of the OS)](https://wiki.archlinux.org/title/FAT).
-	- `mkfs.ext4 /dev/sda2` - Formats 'root' partition as `.ext4`
-	- Check out this Arch page on [EFI system partition](https://wiki.archlinux.org/title/EFI_system_partition) and it sort of explains why we need to format the 'boot' as a FAT and also necessary information for formatting the 'boot' partition as well as conventions for mounting this partition.
+
+Run `mkfs`...
+- `mkfs.ext4 /dev/sda2` - Formats 'root' partition as `.ext4`
+- `mkfs.fat -F32 /dev/sda1` - Formats the partition as a FAT with 32-bit entries.
+	- Here is the Wiki [page](https://wiki.archlinux.org/title/FAT) on it. Also, here is Arch's docs on [File Allocation Tables](https://wiki.archlinux.org/title/FAT) (FAT), an essential to understanding how our OS works [(FAT isn't technically part of the OS)](https://wiki.archlinux.org/title/FAT).
+
+Check out this Arch page on [EFI system partition](https://wiki.archlinux.org/title/EFI_system_partition) and it sort of explains why we need to format the 'boot' as a FAT and also necessary information for formatting the 'boot' partition as well as conventions for mounting this partition.
 
 ## 1.11 Mount the file systems
-- Now we mount the partitions using the `mount` command.
-	- In order to mount our 'root' partition we mount `/dev/sda2` to `/mnt` 
-		- (Run: `mount /dev/sda2 /mnt`).
-		- Note: `/mnt` is just name by tradition. You could name it anything but is unnecessary.
-	- Create a directory on `/mnt` for 'boot' using the `mkdir` command.
-	- Mount 'boot'...
-		- If your system is UEFI, then you mount to `/mnt/boot/efi`.
-		- If your system is EFI, then you mount to `/mnt/boot`.
-		- See **Section 4** in [EFI system partition](https://wiki.archlinux.org/title/EFI_system_partition) for more information on mounting.
-	- `lsblk` to view the partitions in each block.
-- For a reason not entirely clear to me, after this point you will likely need to install the `efibootmgr` using `pacman -Sy`.
+Now, we mount the partitions using the `mount` command.
+- In order to mount our 'root' partition, we mount `/dev/sda2` to `/mnt`
+	- To do this, run: `mount /dev/sda2 /mnt`
+	- Note: `/mnt` is just name by tradition. You could name it anything but it is unnecessary.
+- Create a directory on `/mnt` for 'boot' using the `mkdir` command.
+- Mount 'boot'...
+	- If your system is UEFI, then mount to `/mnt/boot/efi`.
+	- If your system is EFI, then mount to `/mnt/boot`.
+	- See **Section 4** in [EFI system partition](https://wiki.archlinux.org/title/EFI_system_partition) for more information on mounting.
+
+`lsblk` to view the partitions in each block.
+
+For a reason not entirely clear to me, after this point you will likely need to install the `efibootmgr` using `pacman -Sy`.
 
 ## 2 Installation
 Now the "hard" part is done. From here, we are essentially just running [pacstrap](https://wiki.archlinux.org/title/Pacstrap). Pacstrap is designed to create a new system installation from scratch and it is mainly used during the installation of the system, and comes preinstalled within the arch installation media.
@@ -153,8 +168,15 @@ Arch Wiki: The [fstab(5)](https://man.archlinux.org/man/fstab.5) file can be use
 Your fstab file basically just contains all the drives that Linux might try to load when booting up. For more information other than the Arch Wiki on fstab, see this [link](https://linuxconfig.org/how-fstab-works-introduction-to-the-etc-fstab-file-on-linux). 
 
 Generate an [fstab](https://wiki.archlinux.org/title/Fstab "Fstab") file (using [`genfstab`](https://wiki.archlinux.org/title/Genfstab) with`-U` or `-L` to define by [UUID](https://wiki.archlinux.org/title/UUID "UUID") or labels, respectively): ``genfstab -U /mnt >> /mnt/etc/fstab``.
-	- Important Note: Generating the fstab without the `-U` option will have it use the device ID of your drives to identify it. This is bad because a device ID can change.
+- Important Note: Generating the fstab without the `-U` option will have it use the device ID of your drives to identify it. This is "bad" because a device ID can change. There is a reason the Wiki uses UUID for identification.
 - Use the `>>` option to redirect the output to a file. E.g.: `genfstab -U /mnt >> /mnt/etc/fstab`
+
+Run `genfstab -U /mnt` to see what this looks like for yourself.
+
+### Chroot
+[Change root](https://wiki.archlinux.org/title/Change_root "Change root") into the new system: `arch-chroot /mnt`.
+
+
 
 ## FAQ
 ### What ISA does Arch Support?
