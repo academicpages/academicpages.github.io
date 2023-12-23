@@ -19,7 +19,9 @@ I have experience with concepts that help me understand how an OS works from som
 ## P.1 - Notes
 These notes are primarily taken from the [Arch Wiki](https://wiki.archlinux.org/). Various external resources are scattered throughout from my time undergoing the installation process. In these notes I include excerpts, paraphrases, expansions, or explanations in my own words which I hope makes this process productive and effective. I _highly_ recommend reading the Wiki thoroughly if you have questions. I know, everyone says "It's in the Wiki", but odds are it really is. The installation wiki can seem vague and opaque, but it isn't if you understand everything it is _saying_. Hence, understanding the *commands* and *terminology* is super important. The Wiki docs on the commands was much more helpful that I expected. Read the Wiki pages on each command if you don't know exactly what it is doing. Click on the links it provides and don't shy away from spending time reading on them. My notes provide lots of additional resources that maybe aren't necessary, but are more accessible to someone who might have a bit of trouble peeling through fine text word by word.
 
-If you plan on watching a video tutorial in addition to using the Arch Wiki, just be wary that some things might be outdated or wrong. When in doubt, use the Arch Wiki. I recommend iteratively watching ahead, cross-referencing with the Arch Wiki, make a decision, and then execute.
+Another huge resource for these notes is the [Arch Linux Installation Guide (Best on Youtube)](https://www.youtube.com/watch?v=rUEnS1zj1DM) by Mental Outlaw. The information provided in this video is a bit dated but is a great resource as long as you check with the Arch Wiki and also read some of the top comments.
+
+If you plan on watching a video tutorial like I did in addition to using the Arch Wiki, just be wary that some things might be outdated or wrong. When in doubt, use the Arch Wiki. I recommend iteratively watching ahead, cross-referencing with the Arch Wiki, make a decision, and then execute.
 
 ## P.2 - Why a Virtual Machine?
 I believe that using a VM for a first time installation and configuration process of a Linux distribution is (for most people) the best option. I opted to do it on [VirtualBox](https://www.virtualbox.org/) since it is very easy and lots of resources out there use this VM. Most of the information here is the same regardless of the medium but there are some notable differences in a few of the sections of pre-installation.
@@ -168,16 +170,51 @@ Arch Wiki: The [fstab(5)](https://man.archlinux.org/man/fstab.5) file can be use
 
 Your fstab file basically just contains all the drives that Linux might try to load when booting up. For more information other than the Arch Wiki on fstab, see this [link](https://linuxconfig.org/how-fstab-works-introduction-to-the-etc-fstab-file-on-linux). 
 
-Generate an [fstab](https://wiki.archlinux.org/title/Fstab "Fstab") file (using [`genfstab`](https://wiki.archlinux.org/title/Genfstab) with`-U` or `-L` to define by [UUID](https://wiki.archlinux.org/title/UUID "UUID") or labels, respectively): ``genfstab -U /mnt >> /mnt/etc/fstab``.
-- Important Note: Generating the fstab without the `-U` option will have it use the device ID of your drives to identify it. This is "bad" because a device ID can change. There is a reason the Wiki uses UUID for identification.
-- Use the `>>` option to redirect the output to a file. E.g.: `genfstab -U /mnt >> /mnt/etc/fstab`
+Generate an [fstab](https://wiki.archlinux.org/title/Fstab "Fstab") file (using [`genfstab`](https://wiki.archlinux.org/title/Genfstab) with`-U` or `-L` to define by [UUID](https://wiki.archlinux.org/title/UUID "UUID") or labels, respectively): `genfstab -U /mnt >> /mnt/etc/fstab`.
+- Important Note: Generating the fstab without the `-U` option will have it use the device ID of your drives to identify it. This is bad because a device ID can change.
+- Use the `>>` option to redirect the output to a file. E.g.: `genfstab -U /mnt >> /mnt/etc/fstab`.
 
 Run `genfstab -U /mnt` to see what this looks like for yourself.
 
-### Chroot
-[Change root](https://wiki.archlinux.org/title/Change_root "Change root") into the new system: `arch-chroot /mnt`.
+### 3.2 Chroot
+[Chroot](https://wiki.archlinux.org/title/Chroot) stands for 'change root' and is an operation that changes the apparent root directory for the current running process and their children. A program that is run in such a modified environment cannot access files and commands outside that environmental directory tree.
 
+Changing root is commonly done for performing system maintenance on systems where booting and/or logging in is no longer possible.
 
+The `chroot` target should be a directory which contains a file system hierarchy (`/mnt`).
+
+- Note: The file system that will serve as the new root (`/`) of your chroot must be accessible (i.e., decrypted, [mounted](https://wiki.archlinux.org/title/Mount "Mount")).
+
+Run `arch-chroot` with the new root directory as first argument. 
+- Change root into the new system using: `arch-chroot /mnt`
+
+You may notice that the command prompt changes. This is because, we have changed root from our USB or virtual CD drive into our actual Arch Linux installation. Run `pwd` and it should just display root (`/`). Run `ls` and you will see the standard Linux file directories such as `bin` and `lib`.
+
+To exit the chroot, use `exit`.
+
+We also now have access to [pacman](https://wiki.archlinux.org/title/Pacman), the package manager in Arch.
+
+### 3.A Using Pacman
+See the [pacman](https://wiki.archlinux.org/title/Pacman) Wiki for details on pacman, it's super useful! 
+
+Use `pacman -S` install [NetworkManager](https://wiki.archlinux.org/title/NetworkManager) and [GRUB](https://wiki.archlinux.org/title/GRUB). 
+
+### 3.B Systemd
+We want [systemd](https://wiki.archlinux.org/title/Systemd) to start the NetworkManager after boot.
+
+To **enable** a unit to start automatically at boot, run: `systemctl enable _unit_`
+- Run: `systemctl enable NetworkManager`
+
+### 3.C GRUB
+We need to configure GRUB so it knows what to boot.
+
+Run: `grub-install /dev/sda`
+
+Yes, `sda`. We aren't configuring GRUB on that partition, we need to configure it for the entire drive.
+
+We then want to generate our configuration files. Use the `grub-mkconfig` tool to generate `/boot/grub/grub.cfg`. 
+- Run: `grub-mkconfig /boot/grub/grub.cfg`. 
+- `-o` specifies the output file as seen in [grub-mkconfig(8)](https://man.archlinux.org/man/grub-mkconfig.8).
 
 ## FAQ
 ### What ISA does Arch Support?
