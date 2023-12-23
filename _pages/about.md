@@ -14,9 +14,10 @@ Please find more about me in my [CV](files/cv_14.pdf).
 Publications
 ======
 ###Conference
+
 Revolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels
 
-<u>**Shiming Yu**</u>, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
+**<u>Shiming Yu</u>**, Xianjin Xia, Ningning Hou, Yuanqing Zheng, Tao Gu
 
 [**MobiCom'24**] The 30th Annual International Conference On
 Mobile Computing And Networking (CCF-A) (Conditionally accepted with shepherding)
