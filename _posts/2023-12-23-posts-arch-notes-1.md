@@ -54,7 +54,7 @@ Visit the [Download](https://archlinux.org/download/) page and, depending on how
 
 ## 1.3 Prepare the Installation Medium
 - I am doing this through VirtualBox for now. I will update this section with information through different mediums (including different VMs, hopefully, like QEmu).
-#### 1.3.1 Preparing a Virtual Machine
+### 1.3.1 Preparing a Virtual Machine
 **VirtualBox**: [This](https://www.youtube.com/watch?v=FlQ-LyBDCoo&list=PLyMERcvAKmwGbzAvJZuCi9YVrr3TbbSF_&index=1&t=240s) is the video I used. 1:05 - 5:25 are the relevant sections for this.
 
 ## 1.4 Boot the live environment
