@@ -21,11 +21,13 @@ These notes are primarily taken from the [Arch Wiki](https://wiki.archlinux.org/
 
 ## 1 Pre-Installation
 Arch Linux should run on any x86_64-compatible machine with a minimum of 512 MiB RAM, though more memory is needed to boot the live system for installation.[1](https://lists.archlinux.org/archives/list/arch-releng@lists.archlinux.org/message/D5HSGOFTPGYI6IZUEB3ZNAX4D3F3ID37/) A basic installation should take less than 2 GiB of disk space. As the installation process needs to retrieve packages from a remote repository, this guide assumes a working internet connection is available.
+
 ## 1.1 Acquire an installation image
 Visit the [Download](https://archlinux.org/download/) page and, depending on how you want to boot, acquire the ISO file or a netboot image, and the respective [GnuPG](https://wiki.archlinux.org/title/GnuPG "GnuPG") signature.
 - What is an ISO file?
 	- An ISO file is an exact copy of an entire optical disk such as a CD, DVD, or Blu-ray archived into a single file. This file, which is also sometimes referred to as an ISO image, is a smaller sized duplicate of large sets of data.
 	- Actual function is to replicate an original optical disk and store it until it is needed to burn a new disk having the same data within it.
+
 ## 1.2 Verifying
 - Downloads (especially from HTTP) are generally prone to be intercepted to [serve malicious images](https://www2.cs.arizona.edu/stork/packagemanagersecurity/attacks-on-package-managers.html).
 #### 1.2.1 Downloading from Mirror:
@@ -47,17 +49,21 @@ Visit the [Download](https://archlinux.org/download/) page and, depending on how
 		- This requires gpg4win which you can download from their website. This will install a Kleopatra application which you will use to verify the PGP signature. You can also verify this gpg4win download.
 		- In Kleopatra, if you Decrypt/Verify the signature without doing anything else, you'll get something that says 'data not verified'.
 		- First import the PGP Fingerprint. Right click the imported file and click 'Certify'. From here, just input a username and click through. This certifies the public key that you imported which will be used to verify the sig file.
-		- Now Decrypt/Veriy the signature and you should get a screen with a green box around the Audit log. It should say: '**Valid signature by pierre@archlinux.org'. 
+		- Now Decrypt/Veriy the signature and you should get a screen with a green box around the Audit log. It should say: '**Valid signature by pierre@archlinux.org'**.
 		- Take a look at [This Video](https://www.youtube.com/watch?v=yJSurJ3ooL4&t=78s) if you prefer that.
+
 ## 1.3 Prepare the Installation Medium
 - I am doing this through VirtualBox for now. I will update this section with information through different mediums (including different VMs, hopefully, like QEmu).
 #### 1.3.1 Preparing a Virtual Machine
 **VirtualBox**: [This](https://www.youtube.com/watch?v=FlQ-LyBDCoo&list=PLyMERcvAKmwGbzAvJZuCi9YVrr3TbbSF_&index=1&t=240s) is the video I used. 1:05 - 5:25 are the relevant sections for this.
+
 ## 1.4 Boot the live environment
 For my case (using VirtualBox), just click start on the VM for Arch and it will open some prompts to boot the live environment.
+
 ## 1.5 Set the console keyboard layout and font
 - The default [console keymap](https://wiki.archlinux.org/title/Console_keymap "Console keymap") is [US](https://en.wikipedia.org/wiki/File:KB_United_States-NoAltGr.svg "wikipedia:File:KB United States-NoAltGr.svg"). Available layouts can be listed with: `localectl list-keymaps
 - [Console fonts](https://wiki.archlinux.org/title/Console_fonts "Console fonts") are located in `/usr/share/kbd/consolefonts/` and can likewise be set with [setfont(8)](https://man.archlinux.org/man/setfont.8) omitting the path and file extension. For example, to use one of the largest fonts suitable for [HiDPI screens](https://wiki.archlinux.org/title/HiDPI#Linux_console_(tty) "HiDPI"), run: `setfont ter-132b`
+
 ## 1.6 Verify the Boot Mode
 Odds are you are in UEFI. I'm not particularly sure about this part yet. It definitely matters and more research into this portion of the installation is needed.
 
