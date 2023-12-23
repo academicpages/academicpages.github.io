@@ -47,7 +47,7 @@ Visit the [Download](https://archlinux.org/download/) page and, depending on how
 		- This requires gpg4win which you can download from their website. This will install a Kleopatra application which you will use to verify the PGP signature. You can also verify this gpg4win download.
 		- In Kleopatra, if you Decrypt/Verify the signature without doing anything else, you'll get something that says 'data not verified'.
 		- First import the PGP Fingerprint. Right click the imported file and click 'Certify'. From here, just input a username and click through. This certifies the public key that you imported which will be used to verify the sig file.
-		- Now Decrypt/Veriy the signature and you should get a screen with a green box around the Audit log. It should say: '**Valid signature by pierre@archlinux.org'. 
+		- Now Decrypt/Veriy the signature and you should get a screen with a green box around the Audit log. It should say: '**Valid signature by pierre@archlinux.org'**.
 		- Take a look at [This Video](https://www.youtube.com/watch?v=yJSurJ3ooL4&t=78s) if you prefer that.
 ## 1.3 Prepare the Installation Medium
 - I am doing this through VirtualBox for now. I will update this section with information through different mediums (including different VMs, hopefully, like QEmu).
