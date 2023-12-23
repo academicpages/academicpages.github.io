@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am an oceanographer，my research focuses on the effects
-of ocean surface waves on air-sea momentum & heat fluxes, and their influence
+of ocean surface waves on air-sea momentum & heat fluxes, and their influences
 on the atmospheric boundary layer and extreme processes such as tropical cyclone.
 
 I am also a modeler. Over the past few years, I have been working on the development

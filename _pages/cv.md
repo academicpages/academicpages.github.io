@@ -24,7 +24,7 @@ Work experience
   
 * 2014.04-2023.08: Research Associate
   * First Institute of Oceanography
-  * Duties included: developing air-sea-wave coupled model, tropical cyclone
+  * Duties included: developing air-sea-wave coupled model, tropical cyclone study
   * Supervisor: Professor Fangli Qiao
 
 * 2012.07-2014.04: Research Associate
@@ -40,7 +40,7 @@ Skills
   * Shell
   * Linux/Unix
   * Windows
-* Numerical model
+* Numerical models
   * WRF
   * ROMS
   * POM
@@ -52,7 +52,8 @@ Skills
   * Surfer
   * Grapher
 * Data analysis
-
+  * EOF
+  * EMD
     
 
 Publications
@@ -105,6 +106,5 @@ Projects
 
 Service
 ======
-Reviewer for Journal of Geophysical Research: Oceans, Journal of Geophysical Research: Atmosphere, 
-Geoscientific Model Development
+Reviewer for Journal of Geophysical Research: Oceans, Journal of Geophysical Research: Atmosphere, Geoscientific Model Development
 
