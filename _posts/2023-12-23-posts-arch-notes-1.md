@@ -195,6 +195,8 @@ To exit the chroot, use `exit`.
 
 We also now have access to [pacman](https://wiki.archlinux.org/title/Pacman), the package manager in Arch.
 
+Go to [[3.A Using Pacman]] for the next sections. The Wiki did it in a different order than I did. Follow the steps for setting up the bootload (GRUB). This is **Section 3.8** in the Wiki.
+
 ### 3.3 Time
 Set the [time zone](https://wiki.archlinux.org/title/Time_zone "Time zone"): `ln -sf /usr/share/zoneinfo/_Region_/_City_ /etc/localtime`
 
@@ -212,14 +214,6 @@ Set the [time zone](https://wiki.archlinux.org/title/Time_zone "Time zone"): `ln
 
 ### 3.7 Root password
 Set the root [password](https://wiki.archlinux.org/title/Password "Password"): `passwd`
-
-## 4 Reboot
-Exit the chroot environment by typing `exit` or pressing `Ctrl+d`.
-
-Optionally manually unmount all the partitions with `umount -R /mnt`: this allows noticing any "busy" partitions, and finding the cause with [fuser(1)](https://man.archlinux.org/man/fuser.1).
-- This unmounts root and boot.
-
-Finally, restart the machine by typing `reboot`: any partitions still mounted will be automatically unmounted by _systemd_. Remember to remove the installation medium and then login into the new system with the root account.
 
 ### 3.A Using Pacman
 See the [pacman](https://wiki.archlinux.org/title/Pacman) Wiki for details on pacman, it's super useful! 
@@ -245,6 +239,14 @@ We then want to generate our configuration files. Use the `grub-mkconfig` tool t
 
 If you get an output from the previous command that says something such as "os-prober will not be executed to detect other bootable partitions". If you get this issue, you need to change some of grub's default settings. This is done by executing "vim /etc/default/grub" and look for the setting "GRUB_DISABLE_OS_PROBER=false" which is probably commented out. You need to uncomment it (ie. enable os prober).
 - If the `vim` command doesn't work, you likely didn't `pacstrap` vim, which is okay. Simply use pacman to install it.
+
+## 4 Reboot
+Exit the chroot environment by typing `exit` or pressing `Ctrl+d`.
+
+Optionally manually unmount all the partitions with `umount -R /mnt`: this allows noticing any "busy" partitions, and finding the cause with [fuser(1)](https://man.archlinux.org/man/fuser.1).
+- This unmounts root and boot.
+
+Finally, restart the machine by typing `reboot`: any partitions still mounted will be automatically unmounted by _systemd_. Remember to remove the installation medium and then login into the new system with the root account.
 
 ## FAQ
 ### What ISA does Arch Support?
