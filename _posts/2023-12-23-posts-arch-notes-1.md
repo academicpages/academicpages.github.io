@@ -27,9 +27,10 @@ If you plan on watching a video tutorial like I did in addition to using the Arc
 I believe that using a VM for a first time installation and configuration process of a Linux distribution is (for most people) the best option. I opted to do it on [VirtualBox](https://www.virtualbox.org/) since it is very easy and lots of resources out there use this VM. Most of the information here is the same regardless of the medium but there are some notable differences in a few of the sections of pre-installation.
 
 ## P.3 - Who is this for?
-This is for anyone who would like to undergo the same process I did! It is not for experienced individuals. If you would like to use `archinstall`, this post is not for you.
+This is for anyone who would like to undergo the same process I did! It is not for experienced individuals. If you would like to use `archinstall`, these notes will not be helpful for you.
 
 # Arch - My First Experience
+About Arch:
 - Arch Linux is an independently developed, x86-64 general-purpose [GNU](https://wiki.archlinux.org/title/GNU "GNU")/Linux distribution.
 - Strives to provide the latest stable versions of most software.
 - Follows a [rolling-release model](https://en.wikipedia.org/wiki/Rolling_release). 
@@ -194,6 +195,26 @@ To exit the chroot, use `exit`.
 
 We also now have access to [pacman](https://wiki.archlinux.org/title/Pacman), the package manager in Arch.
 
+Go to [[3.A Using Pacman]] for the next sections. The Wiki did it in a different order than I did. Follow the steps for setting up the bootload (GRUB). This is **Section 3.8** in the Wiki.
+
+### 3.3 Time
+Set the [time zone](https://wiki.archlinux.org/title/Time_zone "Time zone"): `ln -sf /usr/share/zoneinfo/_Region_/_City_ /etc/localtime`
+
+### 3.4 Localization
+[Edit](https://wiki.archlinux.org/title/Textedit "Textedit") `/etc/locale.gen` and uncomment the language you want to use and other needed UTF-8 [locales](https://wiki.archlinux.org/title/Locale "Locale"). In my case, I uncommented `en_US.UTF-8 UTF-8` and `en_US ISO-8859-1`. Generate the locales by running: `locale-gen`
+
+[Create](https://wiki.archlinux.org/title/Create "Create") the [locale.conf(5)](https://man.archlinux.org/man/locale.conf.5) file, and [set the LANG variable](https://wiki.archlinux.org/title/Locale#Setting_the_system_locale "Locale") accordingly: 
+- Edit `/etc/locale.conf`
+- Insert `LANG=en_US.UTF-8` (or whichever language you decided to use).
+
+### 3.5 Network Configuration
+[Create](https://wiki.archlinux.org/title/Create "Create") the [hostname](https://wiki.archlinux.org/title/Hostname "Hostname") file:
+- Edit `/etc/hostname`
+- Insert `yourhostname`
+
+### 3.7 Root password
+Set the root [password](https://wiki.archlinux.org/title/Password "Password"): `passwd`
+
 ### 3.A Using Pacman
 See the [pacman](https://wiki.archlinux.org/title/Pacman) Wiki for details on pacman, it's super useful! 
 
@@ -215,6 +236,17 @@ Yes, `sda`. We aren't configuring GRUB on that partition, we need to configure i
 We then want to generate our configuration files. Use the `grub-mkconfig` tool to generate `/boot/grub/grub.cfg`. 
 - Run: `grub-mkconfig /boot/grub/grub.cfg`. 
 - `-o` specifies the output file as seen in [grub-mkconfig(8)](https://man.archlinux.org/man/grub-mkconfig.8).
+
+If you get an output from the previous command that says something such as "os-prober will not be executed to detect other bootable partitions". If you get this issue, you need to change some of grub's default settings. This is done by executing "vim /etc/default/grub" and look for the setting "GRUB_DISABLE_OS_PROBER=false" which is probably commented out. You need to uncomment it (ie. enable os prober).
+- If the `vim` command doesn't work, you likely didn't `pacstrap` vim, which is okay. Simply use pacman to install it.
+
+## 4 Reboot
+Exit the chroot environment by typing `exit` or pressing `Ctrl+d`.
+
+Optionally manually unmount all the partitions with `umount -R /mnt`: this allows noticing any "busy" partitions, and finding the cause with [fuser(1)](https://man.archlinux.org/man/fuser.1).
+- This unmounts root and boot.
+
+Finally, restart the machine by typing `reboot`: any partitions still mounted will be automatically unmounted by _systemd_. Remember to remove the installation medium and then login into the new system with the root account.
 
 ## FAQ
 ### What ISA does Arch Support?
