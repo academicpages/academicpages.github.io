@@ -106,7 +106,7 @@ Odds are you are in UEFI. I'm not particularly sure about this part yet. It defi
 **[Mounting](https://unix.stackexchange.com/questions/3192/what-is-meant-by-mounting-a-device-in-linux)**: the act of associating a storage device to a particular location in the directory tree. The most important thing to know about this other than that exact definition is just how the Linux file system works in general. File systems are tables of information corresponding to tree like structures that map to certain regions and partitions in memory.
 - For example, when the system boots, a particular storage device (commonly called the root partition) is associated with the root of the directory tree, i.e., that storage device is mounted on `/` (the root directory). <--- (From the link provided on mounting.)
 
-### 1.9.1 Virtual Machine
+### 1.9.1 Partitioning
 I haven't verified if this is the same for other VMs, but logically it should be similar since when you configure your system in your VM, you allocate memory your VM to operate off of. Most of this is exactly the same no matter how your installing Arch anyway.
 
 - Run `lsblk` to view information of all available block devices. In our case, `sda` is the block we are operating our VM off of.
@@ -132,6 +132,7 @@ Run `mkfs`...
 
 Check out this Arch page on [EFI system partition](https://wiki.archlinux.org/title/EFI_system_partition) and it sort of explains why we need to format the 'boot' as a FAT and also necessary information for formatting the 'boot' partition as well as conventions for mounting this partition.
 
+
 ## 1.11 Mount the file systems
 Now, we mount the partitions using the `mount` command.
 - In order to mount our 'root' partition, we mount `/dev/sda2` to `/mnt`
@@ -145,10 +146,11 @@ Now, we mount the partitions using the `mount` command.
 
 `lsblk` to view the partitions in each block.
 
-For a reason not entirely clear to me, after this point you will likely need to install the `efibootmgr` using `pacman -Sy`.
+You need to install the `efibootmgr` using `pacman -Sy` (Correction: I used pacstrap to install this and it worked). [_GRUB_](https://wiki.archlinux.org/title/GRUB) is the boot loader while _efibootmgr_ is used by the GRUB installation script to write boot entries to NVRAM.
 
 ## 2 Installation
 Now the "hard" part is done. From here, we are essentially just running [pacstrap](https://wiki.archlinux.org/title/Pacstrap). Pacstrap is designed to create a new system installation from scratch and it is mainly used during the installation of the system, and comes preinstalled within the arch installation media.
+
 ### 2.1 Select the mirrors
 Packages to be installed must be downloaded from [mirror servers](https://wiki.archlinux.org/title/Mirrors "Mirrors"), which are defined in `/etc/pacman.d/mirrorlist`. On the live system, after connecting to the internet, [reflector](https://wiki.archlinux.org/title/Reflector "Reflector") updates the mirror list by choosing 20 most recently synchronized HTTPS mirrors and sorting them by download rate.
 
@@ -187,7 +189,7 @@ The `chroot` target should be a directory which contains a file system hierarchy
 - Note: The file system that will serve as the new root (`/`) of your chroot must be accessible (i.e., decrypted, [mounted](https://wiki.archlinux.org/title/Mount "Mount")).
 
 Run `arch-chroot` with the new root directory as first argument. 
-- Change root into the new system using: `arch-chroot /mnt`
+- Change root into the new system using: `arch-chroot /mnt /bin/bash`
 
 You may notice that the command prompt changes. This is because, we have changed root from our USB or virtual CD drive into our actual Arch Linux installation. Run `pwd` and it should just display root (`/`). Run `ls` and you will see the standard Linux file directories such as `bin` and `lib`.
 
@@ -195,7 +197,7 @@ To exit the chroot, use `exit`.
 
 We also now have access to [pacman](https://wiki.archlinux.org/title/Pacman), the package manager in Arch.
 
-Go to [[3.A Using Pacman]] for the next sections. The Wiki did it in a different order than I did. Follow the steps for setting up the bootload (GRUB). This is **Section 3.8** in the Wiki.
+Go to [[Arch#3.A Using Pacman]] for the next sections. The Wiki did it in a different order than I did. Follow the steps for setting up the bootload (GRUB). This is **Section 3.8** in the Wiki.
 
 ### 3.3 Time
 Set the [time zone](https://wiki.archlinux.org/title/Time_zone "Time zone"): `ln -sf /usr/share/zoneinfo/_Region_/_City_ /etc/localtime`
@@ -237,8 +239,13 @@ We then want to generate our configuration files. Use the `grub-mkconfig` tool t
 - Run: `grub-mkconfig /boot/grub/grub.cfg`. 
 - `-o` specifies the output file as seen in [grub-mkconfig(8)](https://man.archlinux.org/man/grub-mkconfig.8).
 
-If you get an output from the previous command that says something such as "os-prober will not be executed to detect other bootable partitions". If you get this issue, you need to change some of grub's default settings. This is done by executing "vim /etc/default/grub" and look for the setting "GRUB_DISABLE_OS_PROBER=false" which is probably commented out. You need to uncomment it (ie. enable os prober).
+If you get an output from the previous command that says something such as "os-prober will not be executed to detect other bootable partitions", you need to change some of grub's default settings. This is done by executing "vim /etc/default/grub" and look for the setting "GRUB_DISABLE_OS_PROBER=false" which is probably commented out. You need to uncomment it (ie. enable os prober).
+- From Arch Wiki on GRUB: **4.1.2 Detecting other operating systems**
+    To have grub-mkconfig search for other installed systems and automatically add them to the menu, install the os-prober package and mount the partitions from which the other systems boot. Then re-run grub-mkconfig. If you get the following output: Warning: os-prober will not be executed to detect other bootable partitions then edit /etc/default/grub and add/uncomment: `GRUB_DISABLE_OS_PROBER=false`
 - If the `vim` command doesn't work, you likely didn't `pacstrap` vim, which is okay. Simply use pacman to install it.
+
+Output should have something saying that the linux image was found and initrd was found.
+- If it doesn't, then you probably forgot to pacstrap your kernel.
 
 ## 4 Reboot
 Exit the chroot environment by typing `exit` or pressing `Ctrl+d`.
@@ -247,6 +254,8 @@ Optionally manually unmount all the partitions with `umount -R /mnt`: this allow
 - This unmounts root and boot.
 
 Finally, restart the machine by typing `reboot`: any partitions still mounted will be automatically unmounted by _systemd_. Remember to remove the installation medium and then login into the new system with the root account.
+
+Virtual Box will open its Arch boot menu again where you should select to boost the existing OS.
 
 ## FAQ
 ### What ISA does Arch Support?
