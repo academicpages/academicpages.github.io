@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shiming Yu / Personal Homepage"
+title                    : "Shiming Yu / The Hong Kong Polytechnic University"
 title_separator          : "-"
 name                     : &name "Shiming Yu"
 description              : &description "Ph.D. Student @ PolyU"
