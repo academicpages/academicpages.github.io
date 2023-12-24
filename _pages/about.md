@@ -16,7 +16,7 @@ Farhad Rezazadeh (IEEE S'19, M'23) received the Ph.D. degree (*Excellent Cum Lau
 Research Interests
 ======
 - **Applied AI** [eXplainable AI (eXplainable Reinforcement Learning), Genertaive AI (Generative Reinforcement Learning), Quantum AI (Quantum Reinforcement Learning), Graph Neural Network (GNN-Reinforcement Learning), Lifelong RL (Federated, Distributed, Meta Learning), and MLOps (Reinforcement Learning)]
-- **5G/6G** [Zero-Touch, Softwarization, Cloudification Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, Security, and Smart Grid]
+- **5G/6G** [Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, Security, and Smart Grid]
 - **Standardization and Adaptive Protocol Learning**
 
 
