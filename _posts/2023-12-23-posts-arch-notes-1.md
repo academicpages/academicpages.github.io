@@ -257,6 +257,11 @@ Finally, restart the machine by typing `reboot`: any partitions still mounted wi
 
 Virtual Box will open its Arch boot menu again where you should select to boost the existing OS.
 
+***
+And now the long awaited neofetch.
+
+[neofetch_screenshot](/images/arch_first_success.png)
+
 ## FAQ
 ### What ISA does Arch Support?
 - Arch only supports the [x86_64](https://en.wikipedia.org/wiki/x86_64 "wikipedia:x86 64") (sometimes called amd64) architecture. Support for i686 was dropped in November 2017 [[1]](https://archlinux.org/news/the-end-of-i686-support/). There are _unofficial_ ports for the i686 architecture [[2]](https://archlinux32.org/) and [ARM](https://en.wikipedia.org/wiki/ARM_architecture "wikipedia:ARM architecture") CPUs [[3]](https://archlinuxarm.org/), each with their own community channels.
