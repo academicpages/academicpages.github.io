@@ -93,7 +93,7 @@ Odds are you are in UEFI. I'm not particularly sure about this part yet. It defi
 - Use [timedatectl(1)](https://man.archlinux.org/man/timedatectl.1) to ensure the system clock is accurate:
 
 ## 1.9 Partition the disks
-**Disk partitioning** or **disk slicing** [1](https://en.wikipedia.org/wiki/Disk_partitioning#cite_note-1) is the creation of one or more regions on [secondary storage](https://en.wikipedia.org/wiki/Computer_data_storage#Secondary_storage "Computer data storage") so that each region can be managed separately [Note](https://en.wikipedia.org/wiki/Disk_partitioning#cite_note-2). 
+**Disk partitioning** or **disk slicing** [1](https://en.wikipedia.org/wiki/Disk_partitioning#cite_note-1) is the creation of one or more regions on [secondary storage](https://en.wikipedia.org/wiki/Computer_data_storage#Secondary_storage "Computer data storage") so that each region can be managed separately.
 
 [**Swapping**](https://wiki.archlinux.org/title/Swap): It is recommended that you read up on [paging](https://phoenixnap.com/kb/paging) and [swapping](https://www.geeksforgeeks.org/swapping-in-operating-system/) before this step if you aren't familiar or need a refresher. 
 - Swapping has been around since before paging, and follows the same principle of allocating external storage space for processes and/or data that isn't as heavily needed. However, swapping isn't as fine-grained and doesn't break up the memory into smaller blocks of memory like paging does. 
