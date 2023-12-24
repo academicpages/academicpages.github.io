@@ -2,7 +2,7 @@
 title: "Kelseys' 4 Cheese Spinach Dip"
 collection: recipes
 type: "Dips: "
-permalink: /recipes/2023-12-23-recipe-9-Kelseys_Four_Cheese_Dip.md
+permalink: /recipes/2023-12-23-recipe-9-Kelseys_Four_Cheese_Dip
 venue: "Prep Time: 0h12m, Total Time: 0h40m"
 date: 2023-12-23
 location: "Cooking Time: 0h18m"
