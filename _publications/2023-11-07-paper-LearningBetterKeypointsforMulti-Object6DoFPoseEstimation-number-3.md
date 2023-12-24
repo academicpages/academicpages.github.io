@@ -9,6 +9,6 @@ paperurl: 'https://arxiv.org/pdf/2308.07827.pdf'
 citation: 'Yangzheng Wu and Michael Greenspan.
 Learning Better Keypoints for Multi-Object 6DoF Pose Estimation, WACV 2024.'
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/05FPOrqu_94?si=SUFPDHdrDjkVNZss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-[paper](https://arxiv.org/pdf/2308.07827.pdf) [code](https://github.com/aaronWool/keygnet)
+[paper](https://arxiv.org/pdf/2308.07827.pdf) [code](https://github.com/aaronWool/keygnet) [video](https://youtu.be/05FPOrqu_94?si=SUFPDHdrDjkVNZss)
