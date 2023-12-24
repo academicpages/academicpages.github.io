@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ethan Landers, a senior at Old Dominion University majoring in computer science. I am also enrolled in Old Dominion University’s computer science-accelerated master’s program, expecting to graduate with my bachelor’s degree in the spring of 2024 and my master’s degree in the spring of 2025. As a member of the Old Dominion University Perry Honors College, I maintain an overall GPA of 3.93 and a departmental GPA of 3.94.
+I am Ethan Landers, a senior at Old Dominion University majoring in computer science. I am also enrolled in Old Dominion University’s computer science-accelerated master’s program, expecting to graduate with my bachelor’s degree in the spring of 2024 and my master’s degree in the spring of 2025. As a member of the Old Dominion University Perry Honors College, I maintain an overall GPA of 3.94 and a departmental GPA of 3.93.
 
 # Work Experience
 I actively contributed to [**NASA@MyLibrary**](https://science.nasa.gov/sciact-team/nasa-at-my-library/), a program affiliated with NASA and Old Dominion University, from 2021 to 2023. In this role, I collaborated with peers and mentors to create and virtually present STEM educational programs for libraries nationwide. These programs covered diverse topics such as the James Webb Space Telescope, Python programming, and insights into pursuing a computer science degree, providing valuable learning experiences for young audiences with limited access to STEM education.
