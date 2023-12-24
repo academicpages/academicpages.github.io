@@ -44,11 +44,11 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 
 ## New Paper Alert
 
-Andrew Davis and Yongjun Zhang. 2023. ''[Civil Society and Democracy under Pressure: Does Authoritarian Mobilization and Party Incapacity Diminish the Positive Effect of Civil Society?]().'' The Sociological Quarterly.
+Andrew Davis and Yongjun Zhang. 2023. ''[Civil Society and Democracy under Pressure: Does Authoritarian Mobilization and Party Incapacity Diminish the Positive Effect of Civil Society?](https://doi.org/10.1080/00380253.2023.2289500).'' The Sociological Quarterly.
 
 Yongjun Zhang. 2023. "[Spatial Segregation and Voting Behavior among Asian Americans in 2020 General Election](https://authors.elsevier.com/a/1hpCB,17Rod9WC)." Social Science Research. 
 
-Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu. 2023. ''NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data.'' [Visualization in Data Science at IEEE VIS](https://www.visualdatascience.org/2023/index.html).
+Yue Yu, Yifang Wang, Qisen Yang, Di Weng, Yongjun Zhang, Xiaogang Wu, Yingcai Wu, and Huamin Qu. 2023. ''NeighViz: Towards Better Understanding of Neighborhood Effects on Social Groups with Spatial Data.'' [Visualization in Data Science at IEEE VIS](https://arxiv.org/abs/2309.11454).
 
 Yongjun Zhang, Hao Lin, Yi Wang, and Xinguang Fan. 2023. ''[Sinophobia was popular on Twitter during the early COVID-19 pandemic](https://www.nature.com/articles/s41599-023-01959-6)." Nature Humanities and Social Sciences Communications.
 
