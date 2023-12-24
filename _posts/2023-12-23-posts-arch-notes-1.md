@@ -47,7 +47,7 @@ Visit the [Download](https://archlinux.org/download/) page and, depending on how
 
 ## 1.2 Verifying
 - Downloads (especially from HTTP) are generally prone to be intercepted to [serve malicious images](https://www2.cs.arizona.edu/stork/packagemanagersecurity/attacks-on-package-managers.html).
-#### 1.2.1 Downloading from Mirror:
+### 1.2.1 Downloading from Mirror:
 **Mirror site**: - A Web site that is a replica of an already existing site, used to reduce network traffic (hits on a server) or improve the availability of the original site. Mirror sites are useful when the original site generates too much traffic for a single server to support.
 - Go to [Arch Linux Downloads](https://archlinux.org/download/#checksums).
 	- Scroll to the United States mirror sites. Any of them should work. I used "constant.com" under the https protocol (_highly recommended_). To check if it's http or https, just hover the cursor over the link and it will display the URL string.
