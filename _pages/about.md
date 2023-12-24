@@ -123,7 +123,6 @@ document.addEventListener("DOMContentLoaded", function() {
 Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
 *The International Journal of Robotics Research. 2023*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
-<br>
 <button class="button-4" onclick="window.open('https://github.com/HaojHuang/Equivariant-Transporter-Net','_blank')">Code</button>
 <br>
 
@@ -132,7 +131,6 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt
 **Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
 *NeurIPS 2023, New Orleans, Louisiana, USA*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
-<br>
 <button class="button-4" onclick="window.open('https://github.com/pointW/ext_theory','_blank')">Code</button>
 <br>
 
