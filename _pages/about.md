@@ -16,5 +16,5 @@ Farhad Rezazadeh (IEEE S'19, M'23) received the Ph.D. degree (*Excellent Cum Lau
 News
 ======
 - [2023 March] Passed Ph.D. Qualification Exam.
-- [2022 December] Presented the conference paper "Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN" virtually at the IEEE Global Communications Conference (GLOBECOM) in Rio de Janeiro, Brazil.
+- [2022 December] Presented the conference paper "Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN".
 
