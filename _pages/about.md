@@ -124,6 +124,8 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt
 *The International Journal of Robotics Research. 2023*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
 <br>
+<button class="button-4" onclick="window.open('https://github.com/HaojHuang/Equivariant-Transporter-Net','_blank')">Code</button>
+<br>
 
 ![](images/ice_example.png){: .align-right width="200px"}
 **A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
@@ -131,19 +133,25 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt
 *NeurIPS 2023, New Orleans, Louisiana, USA*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
 <br>
+<button class="button-4" onclick="window.open('https://github.com/pointW/ext_theory','_blank')">Code</button>
+<br>
 
 ![](images/hai_corl23.png){: .align-right width="200px"}
 **Equivariant Reinforcement Learning under Partial Observability**  
 Hai Huu Nguyen, Andrea Baisero, David Klee, **Dian Wang**, Robert Platt, Christopher Amato  
 *CoRL 2023, Atlanta, Georgia, USA*  
+<button class="button-4" onclick="window.open('https://sites.google.com/view/equi-rl-pomdp','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://openreview.net/pdf?id=AnDDMQgM7-','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/hai-h-nguyen/equi-rl-for-pomdps','_blank')">Code</button>
 <br>
 
 ![](images/xupeng_ar.jpg){: .align-right width="200px"}
 **On Robot Grasp Learning Using Equivariant Models**  
 Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
+<button class="button-4" onclick="window.open('https://zxp-s-works.github.io/equivariant_grasp_site/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://link.springer.com/content/pdf/10.1007/s10514-023-10112-w.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://github.com/ZXP-S-works/SE2-equivariant-grasp-learning','_blank')">Code</button>
 <br>
 
 ![](images/iclr23.gif){: .align-right width="200px"}
