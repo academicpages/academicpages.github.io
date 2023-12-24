@@ -37,5 +37,6 @@ citation: 'Yangzheng Wu, Alireza Javaheri, Mohsen Zand and Michael Greenspan.
 Cascade Keypoint Voting for Point Cloud Based 6DoF Pose Estimation, 3DV 2022.'
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMZODZN4NAU?si=xUUTv_jlLXP2w6Co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [paper](https://arxiv.org/abs/2210.08123) [code](https://github.com/aaronWool/rcvpose3d) [video](https://youtu.be/LMZODZN4NAU)
