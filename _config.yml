@@ -20,16 +20,6 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -78,9 +68,9 @@ author:
   bio              : "Undergraduate Math and CS @ GA Tech"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : "https://www.arxiv.org"
-  googlescholar    : "https://scholar.google.com/"
-  email            :  "abarton40@gatech.edu"
+  pubmed           : #"https://www.arxiv.org"
+  googlescholar    : #"https://scholar.google.com/"
+  email            : #"abarton40@gatech.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
