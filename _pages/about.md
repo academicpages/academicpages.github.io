@@ -52,6 +52,6 @@ Teaching Experience
 
 Contact
 ======
-Email: shiming.yu@connect.polyu.hk
+Email: [shiming.yu@connect.polyu.hk](shiming.yu@connect.polyu.hk)
 
 Address: QT404, Department of Computing, Chow Yei Ching Building, The Hong Kong Polytechnic University, Hong Kong SAR, China.
