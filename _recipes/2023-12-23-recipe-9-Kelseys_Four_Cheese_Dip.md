@@ -17,7 +17,7 @@ The only four cheese spinach dip you'll ever need. Fry the pitas for extra crunc
 
 ###### Ingredients
 
-- 8 ounces cream cheese, softened
+- 8 ounces cream cheese, softened [230g, 15 tbsp]
 - 3/4 tsp garlic powder
 - 1/4 cup freshly grated Parmesan cheese
 - 1 tbsp freshly grated Romano cheese
