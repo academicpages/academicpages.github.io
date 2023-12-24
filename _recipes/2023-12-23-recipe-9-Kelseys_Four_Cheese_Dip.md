@@ -1,5 +1,5 @@
 ---
-title: "Kelseys' 4 Cheese Spinach Dip"
+title: "Kelsey's 4 Cheese Spinach Dip"
 collection: recipes
 type: "Dips: "
 permalink: /recipes/2023-12-23-recipe-9-Kelseys_Four_Cheese_Dip
