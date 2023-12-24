@@ -1,6 +1,6 @@
 
 ---
-title: "Navigating the Interdisciplinary Frontier: Computational Social Science and Public Agenda Dynamics"
+title: "Catalyzing Public Opinion Research with Large Language Models: Promise or Peril?"
 collection: talks
 type: "Talk"
 permalink: /talks/CityU_2023
