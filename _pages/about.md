@@ -13,7 +13,7 @@ redirect_from:
 
 #### Mineral-Microbe interection
 
-* Post-doctoral journey had hooked my attention into mineral-microbe interections and geobiotechnology. Now exploring (1) surface reactions of microbe and biomolecule with minerals; (2) effect of mineral biotic and abiotic interactive processes on the structure and activities of microbial communities; and (3) biogeochemical transformation and transport of chemical and biological components at different temporal and spatial scales.
+* Post-doctoral journey had hooked my attention into mineral-microbe interections and geobiotechnology. Now exploring (1) microbe surface reaction with minerals; (2) effect of mineral biotic and abiotic interactive processes on the structure and activities of microbial communities; and (3) biogeochemical transformation and transport of chemical and biological components at different temporal and spatial scales.
   
 #### Science Education Research
 
