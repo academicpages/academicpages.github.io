@@ -37,7 +37,7 @@ What you seek is seeking you (هر چیزی که در جستن آنی، آنی)
 
 
 <p align="center">
-  <img src="PEOPLE_Farhad_Rezazadeh.jpg" alt="Book Chapter">
+  <img src="../images/PEOPLE_Farhad_Rezazadeh.jpg" alt="Book Chapter">
 </p>
 
 
