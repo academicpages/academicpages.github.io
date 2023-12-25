@@ -22,8 +22,7 @@ Trailblazing AI Initiatives
 ======
 - **Adaptive Standardized Protocol Learning**, An adaptive standardized protocol for addressing inter-slice resource contention and conflict in 6G network slicing. [[Access Link](https://arxiv.org/abs/2312.07362)]
 - **Explanation-Guided AI (In-hoc Explainability)**, The core concept behind the proposed approach is the intrinsic interpretability of the reward hypothesis in Deep Reinforcement Learning. [[Access Link](https://ieeexplore.ieee.org/document/10283684)]
-- **SliceOps**, The proposed approach aligns with this philosophy of segregating the control plane from the user plane in 5G/6G by creating an innovative standalone AI plane to independently provide AI services and functions to the rest of the 6G network.
-. [[Access Link](https://arxiv.org/abs/2307.01658)]
+- **SliceOps**, The proposed approach aligns with this philosophy of segregating the control plane from the user plane in 5G/6G by creating an innovative standalone AI plane to independently provide AI services and functions to the rest of the 6G network. [[Access Link](https://arxiv.org/abs/2307.01658)]
 - **Brain-inspired Continuous Action in 5G/6G**, For solving continuous tasks, this approach adopts and fine-tune an alternative way of updating the actor (policy) in DDPG algorithm to speed-up convergence and fulfill a stable and robust learning process based on TD3 algorithm. [[Access Link](https://ieeexplore.ieee.org/abstract/document/9322237)]
 
 
