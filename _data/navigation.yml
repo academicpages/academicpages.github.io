@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Awards/Honours"
+    url: /awards/
+
   - title: "Publications"
     url: /publications/
 
