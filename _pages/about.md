@@ -15,20 +15,22 @@ What you seek is seeking you (هر چیزی که در جستن آنی، آنی)
 
 Research Interests
 ======
-- **Applied AI** [eXplainable AI (eXplainable Reinforcement Learning), Genertaive AI (Generative Reinforcement Learning), Quantum AI (Quantum Reinforcement Learning), Graph Neural Network (GNN-Reinforcement Learning), Lifelong RL (Federated, Distributed, Meta Learning), and MLOps (Reinforcement Learning)]
-- **5G/6G** [Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, Security, and Smart Grid]
+<span style="font-size: 16px;">- **Applied AI** [eXplainable AI (eXplainable Reinforcement Learning), Genertaive AI (Generative Reinforcement Learning), Quantum AI (Quantum Reinforcement Learning), Graph Neural Network (GNN-Reinforcement Learning), Lifelong RL (Federated, Distributed, Meta Learning), and MLOps (Reinforcement Learning)]
+- **5G/6G** [Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, Security, and Smart Grid]</span>
 
 Trailblazing AI Initiatives
 ======
-- **Adaptive Standardized Protocol Learning**, An adaptive standardized protocol for addressing inter-slice resource contention and conflict in 6G network slicing. [[Access Link](https://arxiv.org/abs/2312.07362)]
+<span style="font-size: 16px;">- **Adaptive Standardized Protocol Learning**, An adaptive standardized protocol for addressing inter-slice resource contention and conflict in 6G network slicing. [[Access Link](https://arxiv.org/abs/2312.07362)]
 - **Explanation-Guided AI (In-hoc Explainability)**, The core concept behind the proposed approach is the intrinsic interpretability of the reward hypothesis in Deep Reinforcement Learning. [[Access Link](https://ieeexplore.ieee.org/document/10283684)]
 - **SliceOps**, The proposed approach aligns with this philosophy of segregating the control plane from the user plane in 5G/6G by creating an innovative standalone AI plane to independently provide AI services and functions to the rest of the 6G network. [[Access Link](https://arxiv.org/abs/2307.01658)]
-- **Brain-inspired Continuous Action in 5G/6G**, For solving continuous tasks, this approach adopts and fine-tune an alternative way of updating the actor (policy) in DDPG algorithm to speed-up convergence and fulfill a stable and robust learning process based on TD3 algorithm. [[Access Link](https://ieeexplore.ieee.org/abstract/document/9322237)]
+- **Brain-inspired Continuous Action in 5G/6G**, For solving continuous tasks, this approach adopts and fine-tune an alternative way of updating the actor (policy) in DDPG algorithm to speed-up convergence and fulfill a stable and robust learning process based on TD3 algorithm. [[Access Link](https://ieeexplore.ieee.org/abstract/document/9322237)]</span>
 
 
 
 News
 ======
-- [2023 March] Passed Ph.D. Qualification Exam.
-- [2022 December] Presented the conference paper "Evolutionary Deep Reinforcement Learning for Dynamic Slice Management in O-RAN".
+- [Dec 20, 2023] Awarded IEEE ComSoc Student Grant for 2023 IEEE NFV-SDN.
+- [Oct 20, 2023] Our AI innovation in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. [[Access Link](https://innovation-radar.ec.europa.eu/innovation/52337)]
+
+
 
