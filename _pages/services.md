@@ -8,8 +8,15 @@ author_profile: true
 
 ## Program Committees ##
 
+<!-- - **CCS 2024**   -->
+<!-- October 14-18 2024, Salt Lake City, USA -->
+
+- **6th Distributed Ledger Technology Workshop (DLT 2024)** 
+May 14-15 2024, Turin, Italy
+
 - **CIFRIS 2023**
 December 14-15 2023, Rome, Italy
+
 - **5th Distributed Ledger Technology Workshop (DLT 2023)**  
 May 25-26 2023, Bologna, Italy
 

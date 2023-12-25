@@ -18,13 +18,9 @@ Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Da
 [https://arxiv.org/abs/2311.04378](https://arxiv.org/abs/2311.04378)\
 <sup>*</sup>= Equal contribution
 
-- **Non-malleable Fuzzy Extractors**\
-Danilo Francati and Daniele Venturi\
-(To Appear)
-
 - **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
-[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
+International Conference on Applied Cryptography and Network Security. 2024. To appear.
 
 - **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
@@ -33,6 +29,10 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 ---
 
 ## Conference Proceedings
+
+12. **Non-malleable Fuzzy Extractors**\
+Danilo Francati and Daniele Venturi\
+(To Appear)
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
