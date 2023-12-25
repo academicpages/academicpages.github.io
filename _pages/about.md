@@ -17,6 +17,6 @@ Mineral-Microbe interection
   
 Science Education Research
 ============
-* My science education research involves research projects and field-works for school students as a means to popularise geoscience and prepare them for careers in Earth Sciences.
+* My science education research involves designing research projects and conducting field-works for school students as a means to popularise geoscience and prepare them for careers in Earth Sciences.
 
 
