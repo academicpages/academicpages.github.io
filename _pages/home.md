@@ -35,4 +35,8 @@ Protocol Labs, RFP-009 on Proofs of Space and Useful Space, Principal Investigat
 
 # News #
 
+<!-- - I will serve on the PC of [DLT 2024](). -->
+
+<!-- - Our paper ***Non-malleable Fuzzy Extractors*** has been accepted at ACNS 2024! -->
+
 - Our [paper](https://arxiv.org/abs/2311.04378) on the ***"Impossibility of Strong Watermarking for Generative Models"*** is out! Check also this [post](https://www.harvard.edu/kempner-institute/2023/11/09/watermarking-in-the-sand/)! 
