@@ -39,7 +39,7 @@ What you seek is seeking you (هر چیزی که در جستن آنی، آنی)
 - <span style="font-size: 16px;">[Dec 20, 2023] Awarded IEEE ComSoc Student Grant for 2023 IEEE NFV-SDN.</span>
 - <span style="font-size: 16px;">[Oct 20, 2023] Our AI innovation in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. [[Access Link](https://innovation-radar.ec.europa.eu/innovation/52337)]</span>
 
-<div style="margin-top: 20px;"></div>
+<div style="margin-top: 50px;"></div>
 
 <p align="center">
   <img src="../images/book_chapters.jpg" alt="Book Chapter" width="400" height="301">
