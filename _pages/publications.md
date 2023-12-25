@@ -20,7 +20,7 @@ Hanlin Zhang, Benjamin L. Edelman <sup>*</sup>, Danilo Francati <sup>*</sup>, Da
 
 - **Evolving Secret Sharing Made Short**\
 Danilo Francati and Daniele Venturi\
-International Conference on Applied Cryptography and Network Security. 2024. To appear.
+[https://eprint.iacr.org/2023/1534](https://eprint.iacr.org/2023/1534)
 
 - **Advancing Scalability in Decentralized Storage: A Novel Approach to Proof-of-Replication via Polynomial Evaluation**\
 Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Ioanna Karantaidou\
