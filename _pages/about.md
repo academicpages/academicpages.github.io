@@ -36,4 +36,10 @@ What you seek is seeking you (هر چیزی که در جستن آنی، آنی)
 - <span style="font-size: 16px;">[Oct 20, 2023] Our AI innovation in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. [[Access Link](https://innovation-radar.ec.europa.eu/innovation/52337)]</span>
 
 
+<p align="center">
+  <img src="PEOPLE_Farhad_Rezazadeh.jpg" alt="Book Chapter">
+</p>
+
+
+
 
