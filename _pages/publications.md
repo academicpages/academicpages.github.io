@@ -32,7 +32,7 @@ Giuseppe Ateniese, Foteini Baldimtsi, Matteo Campanelli, Danilo Francati, and Io
 
 12. **Non-malleable Fuzzy Extractors**\
 Danilo Francati and Daniele Venturi\
-(To Appear)
+International Conference on Applied Cryptography and Network Security. 2024. To appear.
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
