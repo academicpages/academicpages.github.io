@@ -16,9 +16,13 @@ redirect_from:
 
 ⌨️ I am a member of the Tech Team of [Hexlabs](https://hexlabs.org/) (the premier hackathon organizing club at Georgia Tech). As part of Hexlabs, I help develop technology related tools to keep our events running smoothly (e.g. event sites, registration portals, etc.)!
 
-If you would like to chat about anything, feel free to contact me at achakrav6@gatech.edu
+If you would like to chat about anything, feel free to contact me at achakrav6@gatech.edu.
 
 # Experiences
+
+## Incoming Duolingo Engineering Intern (Summer 2024)
+
+I am excited to intern at [Duolingo](https://www.duolingo.com/) in Pittsburgh this upcoming summer!
 
 ## MIT Haystack Observatory REU Intern (Summer 2023)
 
