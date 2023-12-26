@@ -21,13 +21,19 @@ author_profile: true
 
 <span style="font-size: 22px;">Journal Papers</span>
 ======
+1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, S. Siddiqui, J. Mangues, H. Song, W. Saad, M. Bennis, "Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing", IEEE Journal, 2023, under review. [[IEEE Xplore](https://ieeexplore.ieee.org)][[arxiv](https://arxiv.org/abs/2312.07362)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, L. Alonso, and C. Verikoukis, "SliceOps: Explainable MLOps for Streamlined Automation-Native 6G Networks", IEEE Wireless Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org)][[arxiv](https://arxiv.org/abs/2307.01658)]</span>
 1. <span style="font-size: 16px;">S. Barrachina-Muñoz, **F. Rezazadeh** et al, "Empowering Beyond 5G Networks: An Experimental Assessment of Zero-Touch Management and Orchestration", IEEE Journal, 2023, under review.</span>
 1. <span style="font-size: 16px;">L. Blanco, S. Kuklinski, E. Zeydan, **F. Rezazadeh** et al., "AI-driven Framework for Scalable Management of Network Slices", IEEE Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10328194)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, L. Zanzi, F. Devoti, H. Chergui, X. Costa-Perez, and C. Verikoukis, "On the Specialization of FDRL Agents for Scalable and Distributed 6G RAN Slicing Orchestration", IEEE Transactions on Vehicular Technology, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9933014)][[arxiv](https://arxiv.org/abs/2211.03088)]</span>
+1. <span style="font-size: 16px;">A. Dalgkitsis, L. A. Garrido, **F. Rezazadeh**, H. Chergui, K. Ramantas, J. S. Vardakas, and C. Verikoukis, "SCHE2MA: Scalable, Energy-Aware, Multi-Domain Orchestration for Beyond-5G URLLC Services", IEEE Transactions on Intelligent Transportation Systems, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9875038)]</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">Conference Papers</span>
 ======
 1. <span style="font-size: 16px;">R. Nikbakht, F. Javed, **F. Rezazadeh** et al, "Decentralized Energy Marketplace via NFTs and AI-based Agents", IEEE Conference, 2024, under review. [[arxiv](https://arxiv.org/abs/2311.10406)]</span>
 1. <span style="font-size: 16px;">F. Rezazadeh, H. Chergui, and J. Mangues-Bafalluy, "Explanation-Guided Deep Reinforcement Learning for Trustworthy 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10283684)][[arxiv](https://arxiv.org/abs/2303.15000)]</span>
+1. <span style="font-size: 16px;">S. Roy, **F. Rezazadeh**, H. Chergui, and C. Verikoukis, "Joint Explainability and Sensitivity-Aware Federated Deep Learning for Transparent 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10279790)][[arxiv](https://arxiv.org/abs/2309.13325)]</span>
 1. <span style="font-size: 16px;">E. Zeydan, L. Blanco, S. Barrachina-Muñoz, **F. Rezazadeh** et al., "A Marketplace Solution for Distributed Network Management and Orchestration of Slices", 3rd International Workshop on Analytics for Service and Application Management (IEEE-AnServApp 2023), 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10327832)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh** and N. Bartzoudis., "A Federated DRL Approach for Smart Micro-Grid Energy Control with Distributed Energy Resources, IEEE CAMAD, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9966919)][[arxiv](https://arxiv.org/abs/2211.03430)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, S. Kahvazadeh, and M. Mosahebfard, "Towards Quantum-Enabled 6G Slicing", 6G Summit, Abu Dhabi, 2022. [[arxiv](https://arxiv.org/abs/2212.11755)]</span>
