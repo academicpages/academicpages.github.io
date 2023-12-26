@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name: "Matteo Guida"
-  avatar: "profile_pic.png"
+  avatar: "../images/profile.png"
   bio: "Just trying to set this up."
   location: "Cologne, Germany"
   employer: "University of Konstanz"
