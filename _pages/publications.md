@@ -27,6 +27,7 @@ author_profile: true
 1. <span style="font-size: 16px;">L. Blanco, S. Kuklinski, E. Zeydan, **F. Rezazadeh** et al., "AI-driven Framework for Scalable Management of Network Slices", IEEE Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10328194)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, L. Zanzi, F. Devoti, H. Chergui, X. Costa-Perez, and C. Verikoukis, "On the Specialization of FDRL Agents for Scalable and Distributed 6G RAN Slicing Orchestration", IEEE Transactions on Vehicular Technology, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9933014)][[arxiv](https://arxiv.org/abs/2211.03088)]</span>
 1. <span style="font-size: 16px;">A. Dalgkitsis, L. A. Garrido, **F. Rezazadeh**, H. Chergui, K. Ramantas, J. S. Vardakas, and C. Verikoukis, "SCHE2MA: Scalable, Energy-Aware, Multi-Domain Orchestration for Beyond-5G URLLC Services", IEEE Transactions on Intelligent Transportation Systems, 2022. [[IEEE Xplore](https://ieeexplore.ieee.org/document/9875038)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, and C. Verikoukis, "Zero touch Continuous Network Slicing Control via Scalable Actor Critic Learning", preprint, 2021. [[arxiv](https://arxiv.org/abs/2101.06654)]</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">Conference Papers</span>
