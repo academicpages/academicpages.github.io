@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Personal"
+#title: "Fun Facts"
 permalink: /personal/
 author_profile: true
 #redirect_from:
@@ -8,6 +8,21 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+What I really like: Chatting, Reading, Watching Comedy, Hiking, Karaoke, Playing Board Game (especially Othello), and Billiards.
+
+Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books. If any of them interest you, I would be happy to discuss them with you!
+
+My Bookshelf (mainly nonfiction)
+======
+
+
+Others
+======
+* Fictions (I don't read much fiction\CID{2672})
+* Music
+* Movies
+
 
 Education
 ======

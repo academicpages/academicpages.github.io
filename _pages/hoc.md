@@ -12,15 +12,20 @@ As a sophomore, I encountered huge difficulty in knowing which books or papers s
 What is the History of Computing
 ======
 
+
+
 History of the History of Computing
 ======
+
 
 Must-read Books and Papers
 ======
 
+
 Recommended Books and Papers
 ======
 
-Historian of Computing (partial)
+
+Historians of Computing (partial)
 ======
 
