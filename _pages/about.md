@@ -16,7 +16,7 @@ redirect_from:
 
 ⌨️ I am a member of the Tech Team of [Hexlabs](https://hexlabs.org/) (the premier hackathon organizing club at Georgia Tech). As part of Hexlabs, I help develop technology related tools to keep our events running smoothly (e.g. event sites, registration portals, etc.)!
 
-If you would like to chat about anything, feel free to contact me at achakrav6@gatech.edu.
+If you would like to chat about anything, feel free to contact me at [achakrav6@gatech.edu](mailto:achakrav6@gatech.edu).
 
 # Experiences
 
