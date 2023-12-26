@@ -1,0 +1,12 @@
+*.bundle
+*.bundle
+*.gem
+*.jar
+*.o
+*.rbc
+*.so
+*.swp
+Gemfile.lock
+Makefile
+tags
+tmp

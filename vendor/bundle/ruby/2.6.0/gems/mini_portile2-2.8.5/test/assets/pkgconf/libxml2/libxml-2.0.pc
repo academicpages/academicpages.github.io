@@ -1,0 +1,13 @@
+prefix=/foo/libxml2/2.11.5
+exec_prefix=${prefix}
+libdir=/foo/libxml2/2.11.5/lib
+includedir=${prefix}/include
+modules=1
+
+Name: libXML
+Version: 2.11.5
+Description: libXML library version2.
+Requires:
+Libs: -L${libdir} -lxml2
+Libs.private: -L/foo/zlib/1.3/lib -lz     -lm  
+Cflags: -I${includedir}/libxml2 -ggdb3

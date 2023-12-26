@@ -1,0 +1,6 @@
+.bundle
+Gemfile.lock
+pkg
+ports
+tmp
+mkmf.log

@@ -1,0 +1,13 @@
+pragma solidity ~0.4.15;
+
+interface IMirror {
+    function reflect() external payable returns(bool /* ain't I pretty?.. */);
+}
+
+contract Mirror is IMirror {
+    event logMessage(address indexed sender, uint256 value, uint256 gas, bytes data);
+
+    function () { // no funny stuff
+       revert();
+    }
+}

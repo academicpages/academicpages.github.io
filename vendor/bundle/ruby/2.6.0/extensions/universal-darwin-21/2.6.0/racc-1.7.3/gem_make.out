@@ -1,0 +1,16 @@
+current directory: /Users/matteoguida/Website/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20231226-62359-134c35q.rb extconf.rb
+creating Makefile
+
+current directory: /Users/matteoguida/Website/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/matteoguida/Website/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: directory not found for option '-L/AppleInternal/Library/BuildRoots/6c37ac75-8bce-11ec-9b2f-4a23b0182bfd/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.4.Internal.sdk/usr/local/lib'
+
+current directory: /Users/matteoguida/Website/vendor/bundle/ruby/2.6.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231226-62359-1ku7tp5/racc

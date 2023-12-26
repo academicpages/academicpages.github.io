@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.yardoc
+Gemfile.lock
+pkg
+spec/reports/
+spec/fixtures/.jekyll-cache
+tmp/
+vendor/bundle

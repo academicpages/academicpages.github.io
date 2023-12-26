@@ -1,0 +1,13 @@
+prefix=/foo/libxslt/1.1.38
+exec_prefix=${prefix}
+libdir=/foo/libxslt/1.1.38/lib
+includedir=${prefix}/include
+
+
+Name: libxslt
+Version: 1.1.38
+Description: XSLT library version 2.
+Requires: libxml-2.0
+Cflags: -I${includedir} -Wno-deprecated-enum-enum-conversion
+Libs: -L${libdir} -lxslt
+Libs.private: -lm

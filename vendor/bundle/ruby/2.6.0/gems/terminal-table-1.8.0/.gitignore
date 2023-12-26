@@ -1,0 +1,6 @@
+.DS_Store
+pkg
+tmp
+*.cache
+doc
+Gemfile.lock

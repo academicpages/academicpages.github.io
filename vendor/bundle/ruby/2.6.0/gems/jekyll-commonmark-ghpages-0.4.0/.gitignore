@@ -1,0 +1,5 @@
+*.gem
+Gemfile.lock
+spec/dest
+.bundle
+vendor/
