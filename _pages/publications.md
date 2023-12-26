@@ -19,7 +19,7 @@ author_profile: true
 1. <span style="font-size: 16px;">M. Maule, O. Kohjogh, and **F. Rezazadeh**, "Enabling 6G Mobile Networks, Advanced Cloud-Based Network Management for 5G C-RAN ", Springer Nature, book chapter, 2021. [[Access Link](https://link.springer.com/book/10.1007/978-3-030-74648-3)]</span>
 <div style="margin-top: 35px;"></div>
 
-<span style="font-size: 22px;">Journal Papers</span>
+<span style="font-size: 22px;">Journal and Magazine Papers</span>
 ======
 1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, S. Siddiqui, J. Mangues, H. Song, W. Saad, M. Bennis, "Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing", IEEE Journal, 2023, under review. [[IEEE Xplore](https://ieeexplore.ieee.org)][[arxiv](https://arxiv.org/abs/2312.07362)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, L. Alonso, and C. Verikoukis, "SliceOps: Explainable MLOps for Streamlined Automation-Native 6G Networks", IEEE Wireless Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org)][[arxiv](https://arxiv.org/abs/2307.01658)]</span>
