@@ -21,9 +21,13 @@ author_profile: true
 
 <span style="font-size: 22px;">Journal Papers</span>
 ======
-1. <span style="font-size: 16px;">**F. Rezazadeh**, S. Barrachina-Muñoz, E. Zeydan, H. Song, K.P. Subbalakshmi, and J. Mangues-Bafalluy, "X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks", IEEE NFV-SDN, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10329778/authors)][[arxiv](https://arxiv.org/abs/2311.08798)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, L. Alonso, and C. Verikoukis, "SliceOps: Explainable MLOps for Streamlined Automation-Native 6G Networks", IEEE Wireless Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org)][[arxiv](https://arxiv.org/abs/2307.01658)]</span>
+1. <span style="font-size: 16px;">S. Barrachina-Muñoz, **F. Rezazadeh** et al, "Empowering Beyond 5G Networks: An Experimental Assessment of Zero-Touch Management and Orchestration", IEEE Journal, 2023, under review.</span>
+1. <span style="font-size: 16px;">L. Blanco, S. Kuklinski, E. Zeydan, **F. Rezazadeh** et al., "AI-driven Framework for Scalable Management of Network Slices", IEEE Communications Magazine, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10328194)]</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">Conference Papers</span>
 ======
-1. <span style="font-size: 16px;">**F. Rezazadeh**, S. Barrachina-Muñoz, E. Zeydan, H. Song, K.P. Subbalakshmi, and J. Mangues-Bafalluy, "X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks", IEEE NFV-SDN, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10329778/authors)][[arxiv](https://arxiv.org/abs/2311.08798)]</span>
+1. <span style="font-size: 16px;">R. Nikbakht, F. Javed, **F. Rezazadeh** et al, "Decentralized Energy Marketplace via NFTs and AI-based Agents", IEEE Conference, 2024, under review. [[arxiv](https://arxiv.org/abs/2311.10406)]</span>
+1. <span style="font-size: 16px;">F. Rezazadeh, H. Chergui, and J. Mangues-Bafalluy, "Explanation-Guided Deep Reinforcement Learning for Trustworthy 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10283684)][[arxiv](https://arxiv.org/abs/2303.15000)]</span>
+1. <span style="font-size: 16px;">E. Zeydan, L. Blanco, S. Barrachina-Muñoz, **F. Rezazadeh** et al., "A Marketplace Solution for Distributed Network Management and Orchestration of Slices", 3rd International Workshop on Analytics for Service and Application Management (IEEE-AnServApp 2023), 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10327832)]</span>
