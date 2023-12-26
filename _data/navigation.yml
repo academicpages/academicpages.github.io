@@ -3,6 +3,12 @@ main:
   - title: "Computer Science (PL)"
     url: /cs_pl/
 
+  - title: "History of Computing"
+    url: /hoc/
+
+  - title: "Graduation Thesis"
+    url: /thesis/
+
   - title: "Publications"
     url: /publications/
 

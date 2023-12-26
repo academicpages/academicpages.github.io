@@ -1,15 +1,14 @@
 ---
 
-title: "Computer Science (PL)"
+title: "Computer Science (mainly Programming Languages)"
 permalink: /cs_pl/
 author_profile: true
 
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+Coming soon!
 
-Heading 1
+#Heading 1
 ======
 
-Heading 2
-======
+
