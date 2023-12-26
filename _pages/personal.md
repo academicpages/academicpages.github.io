@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Personal"
+title: "Person"
 permalink: /personal/
 author_profile: true
 #redirect_from:
