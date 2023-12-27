@@ -17,8 +17,11 @@ main:
 
   - title: "Teaching"
     url: /teaching/   
-     
-  - title: "Services"
+
+  - title: "Services & Talks"
     url: /services/
+  
+  - title: "Credentials"
+    url: /credentials/
     
 
