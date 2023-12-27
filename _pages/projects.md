@@ -9,7 +9,7 @@ author_profile: true
 <span style="font-size: 22px;">Ongoing</span>
 ======
 1. <span style="font-size: 16px;">6GDAWN: Decentralized AI and Architectures for Massive Wireless Network Slicing Scalability and Sustainability. [[Access Link](https://6gdawn.cttc.es/)]</span>
-1. <span style="font-size: 16px;">ANEMONE: Scalable and Decentralized Management of Open 6G Networks. [[Access Link](https://6gdawn.cttc.es/)]</span>
+1. <span style="font-size: 16px;">ANEMONE: Scalable and Decentralized Management of Open 6G Networks. [[Access Link](https://www.cttc.cat/project/scalable-and-decentralized-management-of-open-6g-networks/)]</span>
 1. <span style="font-size: 16px;">6G-BLUR: The Blurring RAN. [[Access Link](https://6g-blur.cttc.es/)]</span>
 
 <div style="margin-top: 35px;"></div>
