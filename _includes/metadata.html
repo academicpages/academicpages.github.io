@@ -1,0 +1,239 @@
+{% if site.enable_google_verification or site.enable_bing_verification %}
+    <!-- Website verification -->
+    {% if site.enable_google_verification -%}
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
+    {%- endif -%}
+    {% if site.enable_bing_verification -%}
+    <meta name="msvalidate.01" content="{{ site.bing_site_verification }}" />
+    {%- endif -%}
+    <!-- Avoid warning on Google Chrome
+        Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+        see https://stackoverflow.com/a/75119417
+    -->
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+{%- endif %}
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+    {%- if site.title == "blank" -%}
+        {%- capture title -%}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{%- endcapture -%}
+    {%- else -%}
+        {%- capture title -%}{{ site.title }}{%- endcapture -%}
+    {%- endif -%}
+    {% if page.url == '/blog/index.html' %}
+            {{ page.title }} | {{ title }}
+    {%- elsif page.title != "blank" and page.url != "/" -%}
+        {%- if page.title == nil or page.title == "" -%}
+            {{ page.date | date: "%Y" }} | {{ title }}
+        {%- else -%}
+            {{ page.title }} | {{ title }}
+        {%- endif -%}
+    {%- else -%}
+        {{ title }}
+    {%- endif -%}
+    </title>
+    <meta name="author" content="{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}" />
+    <meta name="description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
+{%- if page.keywords or site.keywords %}
+    <meta name="keywords" content="{%- if page.keywords -%}{{ page.keywords }}{%- else -%}{{ site.keywords }}{%- endif -%}" />
+{%- endif %}
+
+{%- assign is_blog_post = false -%}
+{%- if page.url != '/blog/index.html' and page.url contains '/blog/' -%}
+    {%- unless page.url contains '/tag/' or page.url contains '/category/' -%}
+        {%- assign is_blog_post = true -%}
+    {%- endunless -%}
+{%- endif -%}
+
+{%- if site.serve_og_meta %}
+    <!-- OpenGraph -->
+    <meta property="og:site_name" content="{{ title }}" />
+    <meta property="og:type" content="{%- if is_blog_post -%}article{%- else -%}website{%- endif -%}" />
+    <meta property="og:title" content="{%- if page.title -%}{{ title }} | {{ page.title }}{%- else -%}{{ title }}{%- endif -%}" />
+    <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url | remove_first: 'index.html' }}" />
+    <meta property="og:description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
+    {% if page.og_image or site.og_image -%}
+    <meta property="og:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+    {%- endif %}
+    <meta property="og:locale" content="{{ site.lang }}" />
+
+    <!-- Twitter card -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="{%- if page.title -%}{{ page.title }}{%- else -%}{{ title }}{%- endif -%}" />
+    <meta name="twitter:description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
+    {% if page.og_image or site.og_image -%}
+    <meta name="twitter:image" content="{%- if page.og_image -%}{{ page.og_image }}{%- else -%}{{ site.og_image }}{%- endif -%}" />
+    {%- endif %}
+    {% if site.x_username -%}
+    <meta name="twitter:site" content="@{{ site.x_username }}" />
+    <meta name="twitter:creator" content="@{{ site.x_username }}" />
+    {%- endif %}
+{%- endif %}
+
+{%- if site.serve_schema_org %}
+
+    <!-- Schema.org -->
+    {%- comment -%} Social links generator for "sameAs schema" {%- endcomment %}
+    {% assign sameaslinks = "" | split: "," %}
+    {%- if site.orcid_id -%}
+        {%- capture link -%}https://orcid.org/{{ site.orcid_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.scholar_userid -%}
+        {%- capture link -%}https://scholar.google.com/citations?user={{ site.scholar_userid }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.semanticscholar_id -%}
+        {%- capture link -%}https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.publons_id -%}
+        {%- capture link -%}https://publons.com/a/{{ site.publons_id }}/{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.lattes_id -%}
+        {%- capture link -%}http://lattes.cnpq.br/{{ site.lattes_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.osf_id -%}
+        {%- capture link -%}https://osf.io/{{ site.osf_id }}/{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.research_gate_profile -%}
+        {%- capture link -%}https://www.researchgate.net/profile/{{site.research_gate_profile}}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.scopus_id -%}
+        {%- capture link -%}https://www.scopus.com/authid/detail.uri?authorId={{site.scopus_id}}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.github_username -%}
+        {%- capture link -%}https://github.com/{{ site.github_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.telegram_username -%}
+        {%- capture link -%}https://telegram.me/{{ site.telegram_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.linkedin_username -%}
+        {%- capture link -%}https://www.linkedin.com/in/{{ site.linkedin_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.x_username -%}
+        {%- capture link -%}https://twitter.com/{{ site.x_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.mastodon_username -%}
+        {%- capture link -%}https://{{ site.mastodon_username  }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.medium_username -%}
+        {%- capture link -%}https://medium.com/@{{ site.medium_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.quora_username -%}
+        {%- capture link -%}https://www.quora.com/profile/{{ site.quora_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.blogger_url -%}
+        {%- capture link -%}{{ site.blogger_url }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.work_url -%}
+        {%- capture link -%}{{ site.work_url }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.wikidata_id -%}
+        {%- capture link -%}https://www.wikidata.org/wiki/{{ site.wikidata_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.wikipedia_id -%}
+        {%- capture link -%}https://wikipedia.org/wiki/User:{{ site.wikipedia_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.strava_userid -%}
+        {%- capture link -%}https://www.strava.com/athletes/{{ site.strava_userid }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.keybase_username -%}
+        {%- capture link -%}https://keybase.io/{{ site.keybase_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.gitlab_username -%}
+        {%- capture link -%}https://gitlab.com/{{ site.gitlab_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.dblp_url -%}
+        {%- capture link -%}{{ site.dblp_url }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.stackoverflow_id -%}
+        {%- capture link -%}https://stackoverflow.com/users/{{ site.stackoverflow_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.kaggle_id -%}
+        {%- capture link -%}https://www.kaggle.com/{{ site.kaggle_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.lastfm_id -%}
+        {%- capture link -%}https://www.last.fm/user/{{ site.lastfm_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.spotify_id -%}
+        {%- capture link -%}https://open.spotify.com/user/{{ site.spotify_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.pinterest_id -%}
+        {%- capture link -%}https://www.pinterest.com/{{ site.pinterest_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.unsplash_id -%}
+        {%- capture link -%}https://unsplash.com/@{{ site.unsplash_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.instagram_id -%}
+        {%- capture link -%}https://instagram.com/{{ site.instagram_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.facebook_id -%}
+        {%- capture link -%}https://facebook.com/{{ site.facebook_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.youtube_id -%}
+        {%- capture link -%}https://youtube.com/@{{ site.youtube_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.discord_id -%}
+        {%- capture link -%}https://discord.com/users/{{ site.discord_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if site.zotero_username -%}
+        {%- capture link -%}https://www.zotero.org/{{ site.zotero_username }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+    {%- if sameaslinks != blank -%}
+        {%- assign sameaslinks = sameaslinks | split: "" -%}
+    {%- endif -%}
+
+    <script type="application/ld+json">
+    {
+        "author":
+        {
+            "@type": "Person",
+            "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}"
+        },
+        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
+        "@type": "{%- if is_blog_post -%}BlogPosting{%- else -%}WebSite{%- endif -%}",
+        "description": "{%- if page.description -%}{{ page.description }}{%- else if site.description -%}{{ site.description }}{%- endif -%}",
+        "headline": "{%- if page.title -%}{{ page.title }}{%- else -%}{{ site.title }}{%- endif -%}",
+        {% if sameaslinks != blank -%}
+        "sameAs": {{ sameaslinks }},
+        {%- endif %}
+        "name": "{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}",
+        "@context": "https://schema.org"
+    }
+    </script>
+{%- endif %}

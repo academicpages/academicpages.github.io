@@ -1,0 +1,25 @@
+{% if site.enable_tooltips %}
+  <!-- Enable Tooltips -->
+  <script type="text/javascript">
+  $(function () {$('[data-toggle="tooltip"]').tooltip()})
+  </script>
+{%- endif %}
+
+{%- if site.enable_medium_zoom %}
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@{{ site.medium_zoom.version }}/dist/medium-zoom.min.js" integrity="{{ site.medium_zoom.integrity }}" crossorigin="anonymous"></script>
+  <script defer src="{{ '/assets/js/zoom.js' | relative_url | bust_file_cache }}"></script>
+{%- endif -%}
+
+{% if page.toc and page.toc.sidebar %}
+  <!-- Sidebar Table of Contents -->
+  <script defer src="{{ '/assets/js/bootstrap-toc.min.js' | relative_url | bust_file_cache }}"></script>
+{% endif %}
+
+  <!-- Bootstrap Table -->
+  <script defer src="https://unpkg.com/bootstrap-table@{{ site.bootstrap-table.version }}/dist/bootstrap-table.min.js"></script>
+
+  <!-- Load Common JS -->
+  <script src="{{ '/assets/js/no_defer.js' | relative_url | bust_file_cache }}"></script>
+  <script defer src="{{ '/assets/js/common.js' | relative_url | bust_file_cache }}"></script>
+  <script defer src="{{ '/assets/js/copy_code.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
