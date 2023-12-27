@@ -1,5 +1,5 @@
 ---
-title: 'I'm enjoying every bit of life.md'
+title: ' I am enjoying every bit of life'
 date: 2023-12-28
 permalink:
 tags:
@@ -7,7 +7,7 @@ tags:
 ---
 
 
-
+# I'm enjoying every bit of life
 
 I used to wonder why life seemed so much easier for others, while I had to work really hard and still didn’t get what I wanted. It felt like everyone else got what they wished for without any trouble, and here I was, putting in so much effort but coming up short. Going through this over and over, I finally understood something important.
 
