@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-You can download a PDF copy of my most recent CV [here](/files/CV_Tuncel_Nov2023.pdf).
+You can download a PDF copy of my most recent CV [here](/files/CV_Tuncel_Dec2023.pdf).
 
-<iframe src="/files/CV_Tuncel_Nov2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/CV_Tuncel_Dec2023.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 
