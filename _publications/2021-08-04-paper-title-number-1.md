@@ -1,0 +1,15 @@
+---
+title: "Task offloading in Edge and Cloud Computing: A survey on mathematical, artificial intelligence and control theory solutions"
+collection: publications
+permalink: /publication/2021-08-04-paper-title-number-1
+excerpt: 'Next generation communication networks are expected to accommodate a high number of new and resource-voracious applications that can be offered to a large range of end users. Even though end devices are becoming more powerful, the available local resources cannot cope with the requirements of these applications. This has created a new challenge called task offloading, where computation intensive tasks need to be offloaded to more resource powerful remote devices. Naturally, the Cloud Computing is a well-tested infrastructure that can facilitate the task offloading. However, Cloud Computing as a centralized and distant infrastructure creates significant communication delays that cannot satisfy the requirements of the emerging delay-sensitive applications. To this end, the concept of Edge Computing has been proposed, where the Cloud Computing capabilities are repositioned closer to the end devices …'
+date: 2021-08-04
+venue: 'Computer Networks'
+paperurl: 'https://hal.science/hal-03243071/document'
+citation: 'Saeik, F., Avgeris, M., Spatharakis, D., Santi, N., Dechouniotis, D., Violos, J., ... &amp; Papavassiliou, S. (2021). &quot;Task offloading in Edge and Cloud Computing: A survey on mathematical, artificial intelligence and control theory solutions.&quot; <i>Computer Networks</i>. 195, 108177.'
+---
+Next generation communication networks are expected to accommodate a high number of new and resource-voracious applications that can be offered to a large range of end users. Even though end devices are becoming more powerful, the available local resources cannot cope with the requirements of these applications. This has created a new challenge called task offloading, where computation intensive tasks need to be offloaded to more resource powerful remote devices. Naturally, the Cloud Computing is a well-tested infrastructure that can facilitate the task offloading. However, Cloud Computing as a centralized and distant infrastructure creates significant communication delays that cannot satisfy the requirements of the emerging delay-sensitive applications. To this end, the concept of Edge Computing has been proposed, where the Cloud Computing capabilities are repositioned closer to the end devices …
+
+[Download paper here](https://hal.science/hal-03243071/document)
+
+Recommended citation: Saeik, F., Avgeris, M., Spatharakis, D., Santi, N., Dechouniotis, D., Violos, J., ... & Papavassiliou, S. (2021). "Task offloading in Edge and Cloud Computing: A survey on mathematical, artificial intelligence and control theory solutions." <i>Computer Networks</i>. 195, 108177.

@@ -1,0 +1,12 @@
+---
+title: "Where there is fire there is smoke: A scalable edge computing framework for early fire detection"
+collection: publications
+permalink: /publication/2019-02-03-https://www.mdpi.com/1424-8220/19/3/639/pdf
+excerpt: 'Avgeris, M., Spatharakis, D., Dechouniotis, D., Kalatzis, N., Roussaki, I., &amp; Papavassiliou, S. (2019). &quot;Where there is fire there is smoke: A scalable edge computing framework for early fire detection.&quot; <i>Sensors</i>. 19(3), 639.'
+date: 2019-02-03
+venue: 'Sensors A Cyber-Physical Social System (CPSS) tightly integrates computer systems with the physical world and human activities. In this article, a three-level CPSS for early fire detection is presented to assist public authorities to promptly identify and act on emergency situations. At the bottom level, the system’s architecture involves IoT nodes enabled with sensing and forest monitoring capabilities. Additionally, in this level, the crowd sensing paradigm is exploited to aggregate environmental information collected by end user devices present in the area of interest. Since the IoT nodes suffer from limited computational energy resources, an Edge Computing Infrastructure, at the middle level, facilitates the offloaded data processing regarding possible fire incidents. At the top level, a decision-making service deployed on Cloud nodes integrates data from various sources, including users’ information on social media, and evaluates the situation criticality. In our work, a dynamic resource scaling mechanism for the Edge Computing Infrastructure is designed to address the demanding Quality of Service (QoS) requirements of this IoT-enabled time and mission critical application. The experimental results indicate that the vertical and horizontal scaling on the Edge Computing layer is beneficial for both the performance and the energy consumption of the IoT nodes.'
+citation: 'smoke2019'
+---
+Avgeris, M., Spatharakis, D., Dechouniotis, D., Kalatzis, N., Roussaki, I., &amp; Papavassiliou, S. (2019). &quot;Where there is fire there is smoke: A scalable edge computing framework for early fire detection.&quot; <i>Sensors</i>. 19(3), 639.
+
+Recommended citation: smoke2019
