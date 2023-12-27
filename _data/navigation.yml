@@ -3,7 +3,7 @@ main:
   - title: "Awards/Honours"
     url: /awards/
 
-  - title: "Innovations"
+  - title: "Patents & Innovations"
     url: /innovations/
 
   - title: "Publications"
@@ -11,10 +11,7 @@ main:
 
   - title: "Projects"
     url: /projects/  
-
-  - title: "Patents"
-    url: /patents/  
-
+ 
   - title: "Teaching"
     url: /teaching/   
 
