@@ -1,7 +1,7 @@
 ---
 title: 'I'm enjoying every bit of life.md'
 date: 2023-12-28
-permalink: /blogs/training_regnets-for_tf_keras_applications/
+permalink:
 tags:
   - Life
 ---
