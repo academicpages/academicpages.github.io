@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards/Honours"
+title: "Awards"
 permalink: /awards/
 author_profile: true
 ---
@@ -13,9 +13,9 @@ author_profile: true
 - <span style="font-size: 16px;">IEEE ComSoc student grant, IEEE ICC, 2021.</span>
 - <span style="font-size: 16px;">European granted patent, H2020 5G-Solutions, European Project, 2021.</span>
 - <span style="font-size: 16px;">Marie Skłodowska-Curie Ph.D. Fellowship, European Commission, 2019.</span>
-- <span style="font-size: 16px;">Catalan Government Ph.D. grant, AGAUR, 2019.</span>
+- <span style="font-size: 16px;">Catalan Government Ph.D. grant, AGAUR, 2019 (Won).</span>
 - <span style="font-size: 16px;">European Grant for Cooperation in Science and Technology, COST, 2019.</span>
-- <span style="font-size: 16px;">Top Student for the Course of Supercomputer Architecture & AI, UPC (BSC-CNS), 2019.</span>
+
 
 
 
