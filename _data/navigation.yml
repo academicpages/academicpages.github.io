@@ -10,18 +10,15 @@ main:
     url: /publications/
 
   - title: "Research Projects"
-    url: /projects/    
+    url: /projects/  
+
+  - title: "Patents"
+    url: /patents/  
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+     
+  - title: "Services"
+    url: /services/
     
 
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/

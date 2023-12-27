@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Farhad Rezazadeh"
 description              : &description "Sr. AI R&D Engineer"
