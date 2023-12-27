@@ -1,0 +1,12 @@
+---
+title: "Single-shot Hyperspectral Imaging via Deep Chromatic Aberration Deconvolution"
+excerpt: "Deep learning (CS 7643/4644 at GA Tech, Fall 2023) course project on using U-Net arhitectures for blind chromatic aberration deconvolution on snapshot hyperspectral images."
+collection: portfolio
+---
+[Manuscript](https://github.com/abarton51/Hyperspectral-Deep-Deconvolution/blob/main/SSHIvDCAD.pdf)
+
+[Code Repository](https://github.com/abarton51/Hyperspectral-Deep-Deconvolution)
+
+Authors: [Corey Zheng](czheng45@gatech.edu), [Austin Barton](https://github.com/abarton51), [Mohammad Taher](mtaher3@gatech.edu), [Abdulaziz Memesh](a.memesh@gatech.edu)
+
+Abstract: This work addresses the challenge of chromatic aberration in snapshot hyperspectral imaging, where the introduction of a third spectral dimension complicates encoding information into a two-dimensional detector plane. While traditional methods rely on scan-based approaches, our proposed method aims to enhance the quality of hyperspectral images by mitigating distortions inherent in snapshot acquisitions by leveraging a blind deconvolution approach with a U-Net neural network architecture for single-shot hyperspectral imaging. Our approach allows real-time correction without the need for complex scanning mechanisms nor knowledge of point spread functions. Through experimental validation, we demonstrate the efficacy of our method in preserving image structure and spectral composition information, contributing to improved imaging throughput and simplified hardware requirements. Our best performing model is capable of restoring spectral information among test data, even in pixel locations with highly varying wavelength intensities, while deblurring and restoring an approximation of the latent sharp image. Our paper represents a simple yet effective approach to circumventing issues in snapshot hyperspectral imaging, providing a practical solution for applications in medical imaging, agriculture, materials identification, and geological surveillance.This work addresses the challenge of chromatic aberration in snapshot hyperspectral imaging, where the introduction of a third spectral dimension complicates encoding information into a two-dimensional detector plane.This is an item in your portfolio. Our proposed method aims to enhance the quality of hyperspectral images by mitigating distortions inherent in snapshot acquisitions by leveraging a blind deconvolution approach with a U-Net neural network architecture for single-shot hyperspectral imaging.
