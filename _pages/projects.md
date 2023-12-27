@@ -22,9 +22,6 @@ SAM establishes a groundbreaking benchmark for segmentation foundation models. C
 [![sam](/images/sam1.png "sam")](https://www.youtube.com/watch?v=0L3VLz6V4HU)
 
 ## Vision-language modeling for pathology images
-Project is undergoing.
-<!-- We are developing generative model empowered by LLM and image models that can answer complex clinical questions according to pathology images. The completion of this model is expected to provide second opinion for junior clinicians, facilitate medical education, and trigger multiple downstream applications. 
-
-![vlm](/images/vlm.png "vlm") -->
+Project is undergoing. We are developing generative model empowered by LLM and image models. Details will be exposed soon.
 
 
