@@ -11,9 +11,8 @@ As a sophomore, I encountered huge difficulty in knowing which books or papers s
 
 What is the History of Computing
 ======
+Why History?
 
-Why History???
-======
 
 History of the History of Computing
 ======

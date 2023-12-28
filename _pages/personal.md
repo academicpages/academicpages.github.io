@@ -22,14 +22,14 @@ My Favorite Papers
 * Kleene, Stephen C. (1951), "Representation of Events in Nerve Nets and Finite Automata".
   * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
 
-* G\UTF{00F6}del, Kurt. (1931), "On Formally Undecidable Propositions of Principia Mathematica and Related Systems".
+* G&ouml; del, Kurt. (1931), "On Formally Undecidable Propositions of Principia Mathematica and Related Systems".
 
 
 Others
 ======
-* Fictions (I don't read much fiction:smiling_face_with_tear:)
+* Fictions (I don't read much fiction :smiling_face_with_tear:)
   * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
-    * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Holdin (a geneticist), and Schrodinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
+    * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
 * Music
 * Movies
 
