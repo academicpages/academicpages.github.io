@@ -16,7 +16,7 @@ main:
   #   url: /Software&Tutorial/
     
   - title: "CV"
-    url: /cv/
+    url: files/Haotian Liu CV.pdf
     
   - title: "Software & Tutorials"
     url: /markdown/
