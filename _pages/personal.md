@@ -11,7 +11,7 @@ author_profile: true
 
 What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Game (especially Othello), and Billiards etc.
 
-Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books. If any of them interest you, I would be happy to discuss them with you!
+Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
 My Bookshelf (mainly nonfiction)
 ======
@@ -22,12 +22,12 @@ My Favorite Papers
 * Kleene, Stephen C. (1951), "Representation of Events in Nerve Nets and Finite Automata".
   * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
 
-* G&ouml; del, Kurt. (1931), "On Formally Undecidable Propositions of Principia Mathematica and Related Systems".
+* G&ouml;del, Kurt. (1931), "On Formally Undecidable Propositions of Principia Mathematica and Related Systems".
 
 
 Others
 ======
-* Fictions (I don't read much fiction :smiling_face_with_tear:)
+* Fictions (I don't read much fiction:\smiling_face_with_tear\:)
   * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
     * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
 * Music
