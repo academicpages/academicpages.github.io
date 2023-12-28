@@ -8,5 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student working with Andrew Tolley at Imperial College London, on track to graduate in August 2024.
 Welcome to my page! 
+
+I'm a PhD student working with Andrew Tolley at Imperial College London, on track to graduate in August 2024.
