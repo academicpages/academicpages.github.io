@@ -22,12 +22,12 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 &nbsp;&nbsp;&nbsp;&nbsp;2023 - Present
 
-<br>
 
 **B.Sc Computer Science at Shahid Beheshti University (SBU)**
 
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 
+<br>
 <!-- <br>
 
 <!-- # Publications
@@ -75,4 +75,4 @@ Additionally, I play classical piano and am eagerly interested in social science
 # Others
 
 * [Writings on Medium ✍🏻](https://medium.com/@girraffael)
-* [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea)
+<!-- * [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea) -->
