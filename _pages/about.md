@@ -9,6 +9,6 @@ redirect_from:
 ---
 
 Welcome to my page! 
-I am a theoretical physicist with broad interests in gravity and (quantum) field theory. 
+I'm a theoretical physicist with broad interests in gravity and (quantum) field theory. 
 
-I am currently a PhD student working with Andrew Tolley at Imperial College London and am expected to finish in 2024. 
+Currently I'm a PhD student working with Andrew Tolley at Imperial College London, on track to graduate in August 2024. 
