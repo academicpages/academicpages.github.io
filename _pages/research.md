@@ -1,11 +1,16 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /research
 ---
 
-{% include base_path %}
+
+To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
+
+## Effective Field Theory of Gravity
+
+## Causality
 
