@@ -85,15 +85,15 @@ author:
   bio              : "Theoretical Physicist"
   location         : "London, United Kingdom"
   employer         : "Imperial College London"
+  inspire          : "https://inspirehep.net/authors/1993699"
   googlescholar    : "https://scholar.google.com/citations?user=RoCmFVoAAAAJ&hl=en"
+  orcid            : "https://orcid.org/0000-0003-4517-383X"
   email            : "calvin.chen16@imperial.ac.uk"
   github           : 
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4517-383X"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   twitter          : 
   wikipedia        :
-  inspire          : "https://inspirehep.net/authors/1993699"
 
 # Reading Files
 include:
