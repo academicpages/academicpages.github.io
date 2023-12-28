@@ -1,10 +1,10 @@
 ---
-title: "Presentations"
+title: ""
 permalink: /presentations/
 author_profile: true
 ---
 
-##Presentations 
+## Presentations 
 2023: American Risk and Insurance Association, Washington, D.C
 : *Awarded the Hagen Family Foundation Travel Award* 
 
