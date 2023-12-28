@@ -28,7 +28,7 @@ Additionally, I play classical piano and am eagerly interested in social science
 &nbsp;&nbsp;&nbsp;&nbsp;2018-2022
 
 <br>
-<!-- <br>
+
 
 <!-- # Publications
 
@@ -56,7 +56,6 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * [Databases](https://github.com/ghazalrafiei/Final-DB-Project) -->
 
-<!-- <br> --> 
 
 <!-- # Experience
 
@@ -70,7 +69,6 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * CSCI 356: Computer Systems (2023) -->
 
-<!-- <br> -->
 
 # Others
 
