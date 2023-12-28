@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "Principles of Insurance"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/ins300
+venue: "University of Hawai'i at Manoa, Department"
 date: 2014-01-01
 location: "City, Country"
 ---
