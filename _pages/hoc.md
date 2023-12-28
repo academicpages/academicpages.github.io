@@ -12,7 +12,8 @@ As a sophomore, I encountered huge difficulty in knowing which books or papers s
 What is the History of Computing
 ======
 
-
+Why History???
+======
 
 History of the History of Computing
 ======
@@ -28,4 +29,4 @@ Recommended Books and Papers
 
 Historians of Computing (partial)
 ======
-
+In any field, knowing researchers and what they are doing is important to start research.
