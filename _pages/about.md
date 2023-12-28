@@ -27,8 +27,8 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style="border: none">
       <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
-      <i style="font-size: 17px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang (* co-first author)</i>
-      <i style="font-size: 17px;">Under review, paper upon request</i>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang (* co-first author)</i>
+      <i style="font-size: 16px;">Under review, paper upon request</i>
     </td>
     <td style="border: none">
       <img src="images/cvpr_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
@@ -41,8 +41,8 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style = "border: none">
       <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
-      <i style="font-size: 17px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
-      <i style="font-size: 17px;"><a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P"><i>video</i></a></i>
+      <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
+      <i style="font-size: 16px;"><a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P"><i>video</i></a></i>
     </td>
     <td style = "border: none">
       <img src="images/STREAM_ICRA_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
@@ -53,7 +53,8 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
-      <i style="font-size: 17px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s"><i>video</i></a>
+      <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
+      <i style="font-size: 16px;"><a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s"><i>video</i></a></i>
     </td>
     <td>
       <img src="images/VisionFDM_RoboSoft_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
