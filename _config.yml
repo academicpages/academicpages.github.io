@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Calvin Yi-Ren Chen"
 title_separator          : "-"
 name                     : &name "Calvin Yi-Ren Chen" 
-description              : &description "personal description"
+description              : &description "Theoretical Physicist"
 url                      : https://c-yr-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "c-yr-chen/c-yr-chen.github.io"
@@ -80,42 +80,20 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Calvin Y.-R. Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bio              : "Theoretical Physicist"
+  location         : "London, United Kingdom"
+  employer         : "Imperial College London"
+  googlescholar    : "https://scholar.google.com/citations?user=RoCmFVoAAAAJ&hl=en"
+  email            : "calvin.chen16@imperial.ac.uk"
   github           : "academicpages"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
+  orcid            : "https://orcid.org/0000-0003-4517-383X"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   wikipedia        :
-
+  inspire          : "https://inspirehep.net/authors/1993699"
 
 # Reading Files
 include:
