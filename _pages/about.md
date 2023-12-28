@@ -8,7 +8,5 @@ redirect_from:
   - /about.html
 ---
 
+I'm a PhD student working with Andrew Tolley at Imperial College London, on track to graduate in August 2024.
 Welcome to my page! 
-I'm a theoretical physicist with broad interests in gravity and (quantum) field theory. 
-
-Currently I'm a PhD student working with Andrew Tolley at Imperial College London, on track to graduate in August 2024. 
