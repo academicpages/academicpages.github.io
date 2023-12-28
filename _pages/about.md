@@ -19,9 +19,10 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Dec 28, 2023] Invited Speaker at 3rd International Forum on Electronics and Electrical Engineering, 2024.</span>
 - <span style="font-size: 16px;">[Dec 20, 2023] Awarded IEEE ComSoc Student Grant for 2023 IEEE NFV-SDN.</span>
 - <span style="font-size: 16px;">[Oct 20, 2023] Our AI innovation in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. [[Access Link](https://innovation-radar.ec.europa.eu/innovation/52337)]</span>
-- <span style="font-size: 16px;">[Oct 5, 2023] Invited Speaker at 2nd International Forum on Electronics and Electrical Engineering held.</span>
+- <span style="font-size: 16px;">[Oct 5, 2023] Invited Speaker at 2nd International Forum on Electronics and Electrical Engineering, 2023.</span>
 <div style="margin-top: 35px;"></div>
 
 <p align="center">
