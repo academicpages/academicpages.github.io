@@ -3,6 +3,7 @@ main:
 
   - title: "About"
     url:
+    
   - title: "CV"
     url: /files/CV.pdf
 
@@ -11,8 +12,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+    
   - title: "Presentations"
     url: /presentations/    
+    
   - title: "Other"
     url: /other/    
     
