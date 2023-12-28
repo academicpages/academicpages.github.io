@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics with Theoretical Physics, Imperial College London, 2019
+* MASt (Part III) in Applied Mathematics, University of Cambridge, 2020
+* Ph.D. in Theoretical Physics, Imperial College London, 2024 (expected)
 
 Work experience
 ======
