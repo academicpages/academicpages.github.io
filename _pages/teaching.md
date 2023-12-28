@@ -30,6 +30,7 @@ BUS 620 Micro- and Macro-economic Foundations for Managers *Fall 2022*
 
 FIN 653 Portfolio Optimization *Spring 2022*
 : Instructor: Professor Tray Spilker
+
 FIN 654 Financial Derivatives *Spring 2021*
 : Instructor: Professor Tray Spilker
 
