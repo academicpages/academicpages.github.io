@@ -10,7 +10,8 @@ redirect_from:
 
 To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
 
-## Effective Field Theory of Gravity
-
 ## Causality
 
+## Electromagnetic Duality
+
+## TTbar Deformations
