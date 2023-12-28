@@ -4,11 +4,15 @@ permalink: /presentations/
 author_profile: true
 ---
 
-2023: American Risk and Insurance Association, Washington, D.C
-: *Awarded the Hagen Family Foundation Travel Award* 
 
-2023: Florida State University RMI Symposium, Miramar Beach, FL 
+## Conferences and Symposiums
+### 2023
 
-2023: [University of Georgia Ph.D. Student Symposium], Athens, GA (https://www.terry.uga.edu/rmi-symposium/)
+American Risk and Insurance Association, Washington, D.C
+: [*Awarded the Hagen Family Foundation Travel Award*](https://www.aria.org/hagen-award)
 
-2023: Western Risk and Insurance Association, Oceanside, CA 
+[University of Georgia Ph.D. Student Symposium](https://www.terry.uga.edu/rmi-symposium/), Athens, GA
+
+Florida State University RMI Symposium, Miramar Beach, FL 
+
+Western Risk and Insurance Association, Oceanside, CA 
