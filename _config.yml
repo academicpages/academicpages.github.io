@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Calvin Yi-Ren Chen"
 title_separator          : "-"
 name                     : &name "Calvin Yi-Ren Chen" 
@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Calvin Y.-R. Chen"
+  name             : "Calvin Yi-Ren Chen"
   avatar           : "profile.png"
   bio              : "Theoretical Physicist"
   location         : "London, United Kingdom"
   employer         : "Imperial College London"
   googlescholar    : "https://scholar.google.com/citations?user=RoCmFVoAAAAJ&hl=en"
   email            : "calvin.chen16@imperial.ac.uk"
-#  github           : "academicpages"
+  github           : 
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-4517-383X"
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#  twitter          : "replacethistwitterhandle"
+  twitter          : 
   wikipedia        :
   inspire          : "https://inspirehep.net/authors/1993699"
 
