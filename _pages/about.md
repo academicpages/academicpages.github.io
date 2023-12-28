@@ -34,8 +34,6 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504) -->
 
-<br> -->
-
 <!-- # Selected Projects
 
 ## Extracurricular Projects
