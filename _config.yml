@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Hamza Essaidi"
   avatar           : "profile.png"
-  bio              : "finance"
+  bio              : "Ph.D. Student in Finance"
   location         : "Honolulu, HI"
   employer         : "University of Hawai'i at Manoa"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "essaidi@hawaii.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -100,16 +100,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "hamzaessaidi"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "twitter"
+  twitter          : #"twitter"
   vine             :
   weibo            :
   xing             :
