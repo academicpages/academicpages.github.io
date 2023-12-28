@@ -27,7 +27,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style="border: none">
       <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
-      <i style="font-size: 16px;">Under Review</i> paper upon request
+      <i style="font-size: 17px;">Under Review</i> paper upon request
     </td>
     <td style="border: none">
       <img src="images/cvpr_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
@@ -40,7 +40,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style = "border: none">
       <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
-      <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
+      <i style="font-size: 17px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i> <a href="https://arxiv.org/abs/2312.01130"><i>preprint</i></a>
     </td>
     <td style = "border: none">
       <img src="images/STREAM_ICRA_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
@@ -51,7 +51,7 @@ My long-term research vision is to build automation systems that can be self-ada
   <tr>
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
-      <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a>
+      <i style="font-size: 17px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i> <a href="https://arxiv.org/abs/2312.01135"><i>preprint</i></a>
     </td>
     <td>
       <img src="images/VisionFDM_RoboSoft_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
