@@ -15,10 +15,10 @@ BUS 313 Economic and Financial Environment of Global Business, *Spring 2024*
 : [Syllabus]
 
 
-## Teaching Assistant
+# Teaching Assistant
 Duties include weekly office hours, teaching review sessions, and grading.
 
-# Master's in Finance and MBA Courses:
+## Master's in Finance and MBA Courses:
 FIN 633 Problems in Business Finance, *Fall 2023*
 : Instructor: Professor Hua Chen
 
@@ -34,7 +34,8 @@ FIN 653 Portfolio Optimization *Spring 2022*
 FIN 654 Financial Derivatives *Spring 2021*
 : Instructor: Professor Tray Spilker
 
-# Undergraduate Courses:
+## Undergraduate Courses:
+
 FIN 450 Enterprise Risk Management *Fall 2023*
 : Instructor: Professor Jing Ai
 
