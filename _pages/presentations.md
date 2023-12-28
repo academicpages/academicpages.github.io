@@ -1,3 +1,8 @@
+---
+title: "Presentations"
+permalink: /presentations/
+author_profile: true
+---
 
 ##Presentations 
 2023: American Risk and Insurance Association, Washington, D.C
