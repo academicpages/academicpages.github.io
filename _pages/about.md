@@ -30,9 +30,9 @@ Additionally, I play classical piano and am eagerly interested in social science
 <br>
 
 
-<!-- # Publications
+# Publications
 
-* [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504) -->
+* [G. Rafiei, B. Farahani and A. Kamandi, "Towards Automating the Human Resource Recruiting Process," 2021 5th National Conference on Advances in Enterprise Architecture (NCAEA).](https://ieeexplore.ieee.org/document/9690504)
 
 <!-- # Selected Projects
 
@@ -69,6 +69,7 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * CSCI 356: Computer Systems (2023) -->
 
+<br>
 
 # Others
 
