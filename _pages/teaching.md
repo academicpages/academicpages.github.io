@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-During my time at Imperial College London, I was teaching assistent for the following courses:
+During my time at Imperial College London, I was teaching assistant for the following courses:
 
 - Advanced Classical Physics (3rd Year UG), 2022
   - [Problem Sheet 1]()
