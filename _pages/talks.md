@@ -48,5 +48,5 @@ Here are a few examples:
 - The SYK Model: Theory group PhD student seminar, Imperial College London, Feb 2022 
 - Dynamical RG and Perturbation Theory: Theory group PhD student seminar, Imperial College London, Nov 2021 
 - Scale and Conformal Invariance, and Linearised Gravity: EFT journal club, Imperial College London, Nov 2021 
-- $T\overline{T}$-Deformations: Theory group PhD student seminar, Imperial College London , Dec 2020 
+- $T\overline{T}$-Deformations: Theory group PhD student seminar, Imperial College London, Dec 2020 
 - Field Theory in Curved Spacetime: Non-equilibrium systems group seminar, Imperial College London, Nov 2020 
