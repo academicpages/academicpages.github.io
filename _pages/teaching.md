@@ -9,12 +9,11 @@ author_profile: true
 BUS 314 Business Finance, *Fall 2024 (scheduled)*
 : [Syllabus]
 
-INS 300 Principles of Insurance, *Spring 2023, Spring 2024*
-: [Syllabus]
-
 BUS 313 Economic and Financial Environment of Global Business, *Spring 2024*
 : [Syllabus]
 
+INS 300 Principles of Insurance, *Spring 2023, Spring 2024*
+: [Syllabus]
 
 ## Teaching Assistant
 Duties include weekly office hours, teaching review sessions, and grading.
