@@ -46,8 +46,8 @@ I also gave a few talks on an .
 
 ## Miscellaneous
 
-I sometimes give informal talks on topics that I find interesting but am not working on directly (at the time!), and think this is an excellent way to learn more about them.
-Here are a few such topics:
+I have also given (informal) introductory talks on topics that I find interesting, but am not working on directly (at the time!).
+Here are a few examples: 
 
 - Non-commutative Geometry: Theory group PhD student seminar, Imperial College London, Nov 2022 
 - JT Gravity and the SYK Model: EFT journal club, Imperial College London, Mar 2022 
