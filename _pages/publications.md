@@ -7,7 +7,7 @@ author_profile: true
 
 ### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice. 
 *With Jing Ai*
-#### Abstract: 
+### Abstract: 
 Flood insurance by the NFIP is the most important risk management infrastructure in the 
 U.S. to protect vulnerabilities and build resilience to increasing natural disasters. Racial 
 and ethnic minorities comprise the most vulnerable populations. We examine disparities 
@@ -23,7 +23,7 @@ discrimination by institutions and have significant public policy implications.
 
 ### The Demographics of Property Insurance: Evidence from the Homeowners Insurance Market. 
 *With Jing Ai and Charles Nyce*
-#### Abstract:
+### Abstract:
 We provide evidence that there is a disparate impact on minorities of the availability of private 
 market property insurance in Florida. We show that demographic factors explain reduced private 
 market penetration. Results are largely consistent between the two measures of residual market 
