@@ -1,0 +1,23 @@
+{
+	"root": true,
+
+	"extends": "@ljharb",
+
+	"overrides": [
+		{
+			"files": "index.js",
+			"rules": {
+				"complexity": "off",
+				"no-param-reassign": "warn",
+			},
+		},
+		{
+			"files": "test/**/*.js",
+			"rules": {
+				"id-length": "off",
+				"getter-return": "off",
+				"max-lines-per-function": "warn",
+			},
+		},
+	],
+}
