@@ -22,7 +22,7 @@ Duties include weekly office hours, teaching review sessions, and grading.
 ### Master's of Science in Finance and MBA Courses
 
 FIN 633 Problems in Business Finance, *Fall 2023*
-: Instructor: Professor Hua Chen
+Instructor: Professor Hua Chen
 
 FIN 656 Insurance and Risk Management, *Spring 2023*
 : Instructor: Professor Jing Ai
