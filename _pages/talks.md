@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
+Below you can find some information on talks I have given in the past.
+
 ## Stacking and Balancing Casual Causality
 
-> **Abstract**:In recent years, causality has emerged as a powerful criterion to distinguish between effective field theories (EFTs) arising from physical and unphysical high-energy theories. 
+>**Abstract**: In recent years, causality has emerged as a powerful criterion to distinguish between effective field theories (EFTs) arising from physical and unphysical high-energy theories. 
 >
 >A direct way to ensure a given EFT is causal is to demand a lower bound on scattering time delays. In flat space, this is unambiguously dictated by the Minkowski light cones, but the situation is more subtle with dynamical gravity. I will make the case that the relevant notion is so-called infrared (IR) causality. 
 >
@@ -29,15 +31,7 @@ For the most recent slides on this, see [here]().
 
 ## A Cautionary Case of Casual Causality
 
-I also gave a few talks on an . 
-
->**Abstract**: In recent years, causality has become a popular criterion to distinguish between EFTs arising from physical and unphysical high-energy theories. 
->
->A direct way to ensure a given EFT is causal is to demand a lower bound on scattering time delays, which essentially bounds the propagation speed averaged over the entire trajectory. In flat space, this is unambiguously dictated by the Minkowski light cones, but the situation is much more subtle on curved backgrounds. I will make the case that the relevant notion is the so-called infrared causality. 
->
->I will then apply this notion of causality to the EFT of gravity on spherically symmetric black hole backgrounds. Careful consideration of the regime of validity shows that time delays are never resolvable (in the geometric optics sense), and therefore there is never any observable violation of infrared causality.
->
->This talk is based on arXiv:2112.05031 in collaboration with C. de Rham, A. Margalit, and A. Tolley. 
+I also gave an earlier version of this talk, without the discussion on multiple sources, on the following occasions: 
 
 - Copernicus Webinar series, Oct 2022
 - Gravity, YITP Kyoto University, Jun 2022
