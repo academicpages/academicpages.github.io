@@ -16,7 +16,7 @@ author_profile: true
 ### University of Georgia Ph.D. Student Symposium, *Athens, GA*
 [Symposium Link](https://www.terry.uga.edu/rmi-symposium/)
 
-### [Florida State University RMI Symposium], *Miramar Beach, FL* 
+### Florida State University RMI Symposium, *Miramar Beach, FL* 
 [Symposium Link](https://business.fsu.edu/rmiresearchsymposium)
 
 ### Western Risk and Insurance Association, *Oceanside, CA*
