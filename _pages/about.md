@@ -28,7 +28,7 @@ News
 * Apr. 2022: [Creative] Two first-authored papers about *ad creative generation* were accepted at NAACL 2022 and SIGIR 2022. [\[Paper1\]](https://arxiv.org/pdf/2205.08943.pdf) [\[Paper2\]](https://arxiv.org/pdf/2205.14970.pdf) [\[Blog: 面向效率的创意生成\]](https://mp.weixin.qq.com/s/xPP9r0TZ5KTtuvm1ziCUHw)  
 * Apr. 2022: [Ranking] A first-authored paper about *calibrated ranking* was accepted at SIGIR 2022. [\[Paper\]](https://arxiv.org/pdf/2205.07295.pdf) [\[Blog: 基于DNN的CVR校准\]](https://mp.weixin.qq.com/s/B31BRBC-q3WNw9KXuSHGtA)  
 * Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022. [\[Paper\]](https://arxiv.org/pdf/2201.08024.pdf) [\[Blog: CVR预估去偏\]](https://mp.weixin.qq.com/s/KMISe2GT65UFF9MEYA3oQQ)     
-* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021. [\[Paper\]](https://mp.weixin.qq.com/s/lIA1A2-Yqq6ZBYdcg-c-ow) [\[Blog: 基于AutoML的多任务预估\]]   
+* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021. [\[Paper\]](https://mp.weixin.qq.com/s/lIA1A2-Yqq6ZBYdcg-c-ow) [\[Blog: 基于AutoML的多任务预估\]](https://mp.weixin.qq.com/s/lIA1A2-Yqq6ZBYdcg-c-ow)   
 
 
 Experience and Education
