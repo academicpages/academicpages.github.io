@@ -41,10 +41,10 @@ redirect_from:
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
-  * RF430FRL15xH NFC 기반 Medical-ICT 융합 모바일 애플리케이션 설계 및 개발, [KAIST MINT Lab](http://mintlab1.kaist.ac.kr/) (2022.08 - present)
+  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, [KAIST MINT Lab](http://mintlab1.kaist.ac.kr/) (2022.08 - present)
   * 조선대-NHN 아카데미 백엔드 과정 수업 조교 (2022.08 - 2023.02)
   * 다중 게이트웨이 및 비컨을 활용한 실시간 위치 추정 시스템 설계 및 구현, [Intflow](https://intflow.ai/en/home/) (2022.04 - 2022.08)
-  * 전력 선불 거래를 위한 전용 모바일 애플리케이션 설계 및 구현, [Encored P&P](https://encoredtech.com/) (Oct. 18-31, 2021)​
+  * 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, [Encored P&P](https://encoredtech.com/) (Oct. 18-31, 2021)​
   * 딥러닝 기반 비접촉 발열 측정 시스템 실험 및 검증 지원, [Intflow](https://intflow.ai/en/home/) (2020.12 - 2021.02)
   * 소프트웨어 교육 강사, 나주 세지중학교 (2020.03 - 2020.07)
   * 소프트웨어 강사 양성 과정 참여, 조선대학교-한전 KDN (2019.11.11-21)
