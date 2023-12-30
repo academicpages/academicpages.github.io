@@ -1,0 +1,114 @@
+---
+layout: default
+# The recipe's layout
+---
+
+<div class="row">
+
+  <div id="post-wrapper" class="col-12 col-lg-11 col-xl-8">
+
+    <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
+
+      <!-- call up the main recipe title and content -->
+      <h1 data-toc-skip>{{ page.title }}</h1>
+
+      <div class="post-meta text-muted d-flex flex-column">
+
+        <!-- last modified -->
+        {% if page.last_modified %}
+        <div>
+          <span>
+            {% include timeago.html date=page.last_modified
+              class="lastmod" prefix="Updated" tooltip=true %}
+          </span>
+        </div>
+        {% endif %}
+
+        <!-- cooking time -->
+        {% if page.cookingTime %}
+        <div>
+            {% include recipe-cooking-time.html minutes=page.cookingTime %}
+        </div>
+        {% endif %}
+
+        <!-- recipe source -->
+        {% if page.sourceLink %}
+        <div>
+          <a href="{{page.sourceLink}}">Source</a>
+        </div>
+        {% endif %}
+
+      </div> <!-- .post-meta -->
+
+      <!-- Recipe text content -->
+      <div class="post-content">
+        <div class="col-sm-12" itemprop="description">{{page.content}}</div>
+      </div>
+
+      <!-- call up recipe and directions -->
+      <div class="container recipe-data">
+        <div class="row no-gutters">
+          {% if page.ingredients %}
+          <div class="col-12 col-lg-auto col-xl-auto">
+            <h2>Ingredients</h2>
+            <ul itemprop="ingredients">
+              <!-- list ingredients that make up recipe -->
+              {% for ingredient in page.ingredients %}
+              <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+              {% endfor %}
+            </ul>
+
+            <!-- optional ingredients at the bottom -->
+            {% if page.optional_ingredients %}
+              <h4>Optional</h4>
+              <ul itemprop="ingredients">
+
+                {% for ingredient in page.optional_ingredients %}
+                <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
+          {% endif %}
+          <div class="col-12 col-lg col-xl">
+            <h2>Instructions</h2>
+            <ol itemprop="recipeInstructions">
+              {% for direction in page.directions %}
+              <li>{{ direction | markdownify }}</li>
+              {% endfor %}
+            </ol>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- end recipe and directions -->
+
+    <div class="post-tail-wrapper text-muted d-flex justify-content-between align-items-center pb-2">
+
+      <!-- tags -->
+      {% if page.tags.size > 0 %}
+      <div class="post-tags">
+
+        <i class="fa fa-tags fa-fw mr-1"></i>
+        {% for tag in page.tags %}
+        <div class="post-tag no-text-decoration" >
+          {{- tag -}}
+        </div>
+        {% endfor %}
+
+        </div>
+      {% endif %}
+
+      <!-- post sharing -->
+      {% include post-sharing.html %}
+
+    </div><!-- div.post-tail -->
+
+  </div> <!-- #post-wrapper -->
+
+  {% include panel.html toc=false %}
+
+  {% include page_view_image.html file_name="recipe" %}
+
+</div> <!-- .row -->

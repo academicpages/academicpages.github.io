@@ -102,3 +102,6 @@ The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/product
 
 *Side view showing secondary support bearing and frame*
 
+![Two-axis rotary table side view actual](/images/Two-Axis_Tilting_NC_Rotary_Table_on_base_w600.png)
+
+*Side view showing rotary table on linear slide*
