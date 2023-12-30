@@ -11,30 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Applied Mathematics with a concentration in quantum mechanics, University of California, Berkeley, 2023
+* Ph.D in Applied and Interdisciplinary Math and Scientific Computing, University of Michigan, Ann Arbor, 2028 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2020 - Aug 2021: Undergraduate Research Assistant
+  * Department of Nuclear Engineering, University of California, Berkeley and Lawrence Berkeley National Lab
+  * Supervisor: Professor Bethany Goldblum, Dr. Thibault Laplace
+  * Survey nuclear and electronic stopping power calculations from existing models and compare with published experimental data. Investigated ionization quenching models and compare with existing data. Took measurement for PMT calibration and scintillators benchmarking.
+ 
+* Jan 2020 - May 2023: Undergraduate Tutor
+  * Student Learning Center, University of California, Berkeley
+  * Supervisor: Branden Saenz
+  * Provide pedagogy-based and student-centered tutoring for lower division math courses, including the Calculus sequence, Linear Algebra, Discrete Math. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming: Python, Matlab, C++
+* Languages: English, Mandarin, German
 
 Publications
 ======
@@ -53,7 +48,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
