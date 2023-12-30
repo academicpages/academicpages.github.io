@@ -20,14 +20,15 @@ During my Ph.D., my research interests were in natural language processing and c
 
 News
 =====
-* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. 
-* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. 
-* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. 
-* Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023.  
-* Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022.  
-* Apr. 2022: [Ranking][Creative] Three first-authored papers about *calibrated ranking* and *ad creative generation* were accepted at SIGIR 2022 and NAACL 2022.  
-* Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022.  
-* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021.  
+* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. [Paper](https://arxiv.org/pdf/2302.02636.pdf) [Blog: 多场景预估](https://mp.weixin.qq.com/s/8Mg3lt4t2j5dtFKCsRet4g)    
+* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. [Paper](https://arxiv.org/pdf/2302.02592.pdf) [Blog: 曝光控量策略](https://mp.weixin.qq.com/s/zH-GRezM_kptrMz6Go1iIQ)  
+* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. [Paper](https://arxiv.org/pdf/2305.08328.pdf) [联邦学习CVR预估数据集](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md)  
+* Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023. [Paper](https://arxiv.org/pdf/2211.11191.pdf) [Blog: 超图学习](https://arxiv.org/pdf/2211.11191.pdf)  
+* Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022. [Paper](https://arxiv.org/pdf/2206.13108.pdf) [Blog: 多场景预估](https://mp.weixin.qq.com/s/A-nijbyMktnwLetv9QNZKg) 
+* Apr. 2022: [Creative] Two first-authored papers about *ad creative generation* were accepted at NAACL 2022 and SIGIR 2022. [Paper1](https://arxiv.org/pdf/2205.08943.pdf) [Paper2](https://arxiv.org/pdf/2205.14970.pdf) [Blog: 面向效率的创意生成](https://mp.weixin.qq.com/s/xPP9r0TZ5KTtuvm1ziCUHw)  
+* Apr. 2022: [Ranking][Creative] A first-authored papers about *calibrated ranking* was accepted at SIGIR 2022. [Paper](https://arxiv.org/pdf/2205.07295.pdf) [Blog: 基于DNN的CVR校准](https://mp.weixin.qq.com/s/B31BRBC-q3WNw9KXuSHGtA)  
+* Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022. [Paper](https://arxiv.org/pdf/2201.08024.pdf) [Blog: CVR预估去偏](https://mp.weixin.qq.com/s/KMISe2GT65UFF9MEYA3oQQ)     
+* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021. [Paper](https://mp.weixin.qq.com/s/lIA1A2-Yqq6ZBYdcg-c-ow) [Blog: 基于AutoML的多任务预估]   
 
 
 Experience and Education
@@ -67,7 +68,7 @@ Awards
 
 Services
 =====
-* Program Committee Member or Reviewer: ACL Rolling Review, ACL (2023, 2021), EMNLP (2023, 2022, 2021), AIJ, TNNLS, TOIS.  
+* Program Committee Member or Reviewer: ACL Rolling Review, ACL (2023, 2021), NAACL (2024), EMNLP (2023, 2022, 2021), AIJ, TNNLS, TOIS.  
 
 Misc
 ======
