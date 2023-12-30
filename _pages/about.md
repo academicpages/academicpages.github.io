@@ -20,7 +20,7 @@ During my Ph.D., my research interests were in natural language processing and c
 
 News
 =====
-* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. [\[Paper\]](https://arxiv.org/pdf/2302.02636.pdf){target="_blank"} [\[Blog: 多场景预估\]](https://mp.weixin.qq.com/s/8Mg3lt4t2j5dtFKCsRet4g)    
+* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. [\[Paper\]](https://arxiv.org/pdf/2302.02636.pdf) [\[Blog: 多场景预估\]](https://mp.weixin.qq.com/s/8Mg3lt4t2j5dtFKCsRet4g)    
 * May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. [\[Paper\]](https://arxiv.org/pdf/2302.02592.pdf) [\[Blog: 曝光控量策略\]](https://mp.weixin.qq.com/s/zH-GRezM_kptrMz6Go1iIQ)    
 * Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. [\[Paper\]](https://arxiv.org/pdf/2305.08328.pdf) [\[联邦学习CVR预估数据集\]](https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md)  
 * Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023. [\[Paper\]](https://arxiv.org/pdf/2211.11191.pdf) [\[Blog: 超图学习\]](https://arxiv.org/pdf/2211.11191.pdf)  
