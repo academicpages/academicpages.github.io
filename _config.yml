@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Tianyue Li"
 description              : &description "personal description"
