@@ -12,4 +12,4 @@ redirect_from:
 
 Hi, I am a senior student at the [University of Utah](https://www.utah.edu/) in Salt Lake City. I am currently seeking an internship for the summer of 2024.
 
-
+[CV](/assets/Di_Zhou_Resume)/[Email](u1346557@umail.utah.edu)
