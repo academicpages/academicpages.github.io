@@ -8,22 +8,9 @@ author_profile: true
 During my time at Imperial College London, I was teaching assistant for the following courses:
 
 - Advanced Classical Physics (3rd Year UG), 2022
-  - [Problem Sheet 1]()
-  - [Problem Sheet 2]()
-  - [Problem Sheet 3]()
-  - [Problem Sheet 4]()
-  - [Problem Sheet 5]()
+  - Solutions to Problem Sheet: [1](), [2](), [3](), [4](), [5](), [6](), [7](), [8](), [9](), [10]()
 - Advanced Quantum Field Theory (MSc QFFF), 2020-2022
-  - [Problem Sheet 1]()
-  - [Problem Sheet 2]()
-  - [Problem Sheet 3]()
-  - [Problem Sheet 4]()
-  - [Problem Sheet 5]()
-  - [Problem Sheet 6]()
-  - [Problem Sheet 7]()
-  - [Problem Sheet 8]()
-  - [Problem Sheet 9]()
-  - [Problem Sheet 10]()
+  - Solutions to Problem Sheet: [1](), [2](), [3](), [4](), [5]()
 - Quantum Mechanics (2nd Year UG), 2020-2021
 
 I also lectured a mini-course as part of the MSc QFFF "Special Topics" Series:
