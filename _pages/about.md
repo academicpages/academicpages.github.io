@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Staff Research Scientist at Visa Research. I am also a final-year Ph.D. student from [Department of Computer Science](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). Before that, I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm).
+* I am a Staff Research Scientist at Visa Research. I received my Ph.D. in [Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in electrical engineering.
 
 * My research interests lie in the broad area of trustworthy machine learning, graph learning, efficient machine learning, and GenAI.
 
