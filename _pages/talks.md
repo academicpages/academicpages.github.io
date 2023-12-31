@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
@@ -27,7 +27,7 @@ I've had the chance to give this seminar on the following occasions:
 - Group seminar, National Taiwan University, Aug 2023
 - GR seminar, University of Cambridge, May 2023 
 
-For the most recent slides on this, see [here](../files/causality_slides.pdf).
+For the most recent slides on this, see [here](../files/talks/causality_slides.pdf).
 
 ## A Cautionary Case of Casual Causality
 
