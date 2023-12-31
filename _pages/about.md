@@ -10,6 +10,6 @@ redirect_from:
 
 
 
-I am a senior student at the [University of Utah](https://www.utah.edu/) in Salt Lake City. I am currently seeking an internship for the summer of 2024.
+Hi, I am a senior student at the [University of Utah](https://www.utah.edu/) in Salt Lake City. I am currently seeking an internship for the summer of 2024.
 
 
