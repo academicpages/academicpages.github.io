@@ -1,6 +1,5 @@
 ---
 layout: archive
-emoji: true
 title: "Fun Facts"
 permalink: /personal/
 author_profile: true
@@ -28,7 +27,7 @@ My Favorite Papers
 
 Others
 ======
-* Fictions (I don't read much fiction &#129394; \CID{2672})
+* Fictions (I don't read much fiction&#129394; Fact is stranger than fiction...)
   * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
     * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
 * Music

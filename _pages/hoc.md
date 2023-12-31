@@ -29,3 +29,10 @@ Recommended Books and Papers
 Historians of Computing (partial)
 ======
 In any field, knowing researchers and what they are doing is important to start research.
+
+
+Useful Links
+======
+  * The Turing Digital Archive
+  https://turingarchive.kings.cam.ac.uk/
+  
