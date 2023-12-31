@@ -84,10 +84,10 @@ author:
   avatar           : "/images/headshot.jpeg" 
   bio              : "Ph.D. student in environmental engineering"
   location         : "Berkeley, California"
-  employer         :
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "siennaw@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

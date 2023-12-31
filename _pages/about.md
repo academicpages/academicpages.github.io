@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! Welcome to my website!"
+title: "Hello! Welcome to my website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,18 +8,66 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley, working with Professor [Tina Chow](https://chow.ce.berkeley.edu/) on data assimilation for smoke modeling. I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. 
+Hi there! My name is Sienna White and I am a Ph.D. student at UC Berkeley (from 2021 - 2026, hopefully!), working with Professor Mark Stacey. I've written up some of my research experience below. For a more formal CV, see here. I'm grateful to be funded by the Computational Science Graduate Fellowship through DOE. Please feel free to reach out to me at any time (thoughts on research! potential collaboration! application review for the CSGF! agregious typos on this site!) at _sienna w at berkeley dot edu_ .
 
-Before I started my PhD at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
+
+
+Predicting harmful algal blooms in the Sacramento-San Joaquin Delta (Dissertation Research)
+----
+
+Sample 
+
+
+
+Data assimilation for wildfire smoke models
+----
+
+During my first year at UC Berkeley (2021-2022), I decided to try my hand at atmospheric modeling and was lucky enough to do so under the mentorship of Prof. [Tina Chow](https://chow.ce.berkeley.edu) and Dr. Rebecca Segrue. I worked on _"Partnering for Resilient Opportunities To Eliminate Cumulative Toxic (PROTECT) Health Effects from Wildfire PM2.5 in Environmental Justice Communities,"_ an EPA Region 9 grant involving a consortium of scientists from Berkeley, LBNL, and UCSF. The overreaching goal of this grant was to explore how long-term exposure to wildfire smoke has impacted public health in environmental justice communitiies. In order to do so, our team focused on assimilating observational data into modeled wildfire smoke fields to generate an hourly "best guess" of smoke concentrations across California from 2016-2020. These results were then passed off to public health researchers for exposure analysis. You can [learn more about the overall grant here](https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/11358/report/0). For me, it was a great opportunity work directly with researchers in the public health/medical space and gain a broader persepctive on the utility (and lack thereof) of numerical modeling for providing input data to other disciplines. 
+
+### Background on data assimilation
+
+Data assimilation is a statistical exercise that attempts to address the very useful question of "how can we combine observational data with model results when we know there are errors in both methods?" (If it's useful to anyone, I might come back later and add a better explanation here -- please reach out!). It's commonly employed in weather forecasting, as weather forecasts have extraordinary sensitivity to their initial condition -- so everytime you restart a weather model, it makes sense to check what your model is saying and what measurements-on-the-ground report. I found this [paper](https://www.osti.gov/pages/servlets/purl/1737509) by Ahmed et al. (2020) to be a very accessible, well-explained walkthrough on what this looks like mathematically.  
+
+As it turns out, unbeknownest to me, meteorologists have mastered data assimilation for both static fields (e.g., generating intial conditions) with all sorts of data, including satellite irradiance and weather balloon data with a host of methodologies (3-D Var, Ensemble Kalman Filter, etc) Beyond looking at a snapshot in time, there's also a data assimilation practice known as "4D-Var" which incorporates observational data into a model as it's running. For this exercise, I stuck to the simplest possible implementation of data assimilation, and with the very patient guidance of our collaborators at NOAA was able to deploy the Gridpoint Statistical Interpolation tool (GSI) for 3D-Var assimilation.
+
+
+### Our methodology
+
+For our "background field" (e.g, initial model result) we used simulations from HRRR-Smoke, an implementation of the high-resolution rapid refresh model that includes smoke as a tracer. We started with raw GRIB2 model output and used WPS/WRF utilites to prepare an input file for GSI. Most of this work involved developing efficient pipelines for processing enormous quantities of data. We then assimilated observational data from EPA AirNow sensors as well as Purple Air. (One ongoing question of this research involves how best to quantify the observational error in Purple Air sensors when assimilation these data into the modeled smoke field.) You can see an example of this assimilated smoke field here. 
+
+
+INSERT IMAGE! 
+
+
+If this dataset is interesting to you, or if you'd like me to share the python repositories I developed to perform and automate this process, please reach out. 
+
+
+
+Biogeochemical + hydrodynamic modeling with the San Francisco Estuary Institute 
+----
+
+Before starting grad school at Berkeley, I worked for two years at the San Francisco Estuary Institute on the Clean Water team under Dr. David Senn. At SFEI, I used computational models to study nutrient cycling and primary productivity in the Bay Area. We ran our hydrodynamic model using DFlow-FM and our biogeochemical module was coupled offline using Delft Water Quality (DELWAQ). Our work is publicly available here and here, but it's ocassinally hard to find, so please reach out if you have any questions or want to learn more -- our work is open source and I'm happy to talk about San Francisco Bay dynamics truly anytime ! 
+
+River morphology work 
+----
+
+Sediment transport in San Francisco Bay
+----
+
+
+ I'm interested in environmental fluid mechanics, computational fluid modeling, estuarine physics, sediment dynamics ....  benthic grazers ... etc. I finally got around to making a website, so if you found your way here, either on purpose or accident, I'm glad you made it! Feel free to reach out. 
+
+
+
 
 
 ![Here is what I look like](/images/headshot.jpeg) 
 
 
-#
-# Work on San Francisco Bay and the Delta
+![Here is what I look like](/images/headshot.jpeg) 
 
-Provide a brief introduction to your science project. Explain the purpose and goals of your project, and provide some background information on the topic you are studying.
+
+
 
 ```{r, fig.width=0.5\textwidth}
 knitr::include_graphics(/images/gp.jpg) ```
@@ -37,11 +85,6 @@ State your hypothesis, and explain your reasoning for why you believe it to be t
 # Methods
 
 Describe the methods you used to conduct your experiment or investigation. This should include a description of the materials you used, the procedures you followed, and any other important details.
-
-# Results
-
-Present your results in the form of tables and plots. Make sure to label your axes and provide any necessary legends or captions. You may want to use R code chunks to generate your plots. Here's an example of how to do that:
-
 
 
 
