@@ -1,7 +1,11 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "👋️Hello there, I'm Collins!"
+excerpt: "
+🧑‍💻️I'm  a final year graduate student at Kabarak.
+My reszearch intrests are in bringing technological fredom and language modalities.
+📚️Currently working on a new startup on Agritech,and also in reearch of how deep learning will help in our mental health.
+"
 author_profile: true
 redirect_from: 
   - /about/
