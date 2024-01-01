@@ -39,7 +39,7 @@ Recently, I am more focus on:
 
 * <b>Interactive and Multiple Agent.</b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)) <small> Note that: At the present stage, I explore how to make multiple autonomous agents collaborate more efficiently and explore their [emergent human-like social behaviors](https://arxiv.org/abs/2308.10848). </small>
 
-* <b>AI Alignment - scalable oversight.</b> Aligning AI models to act in accordance with human values is challenging: these values are taught by humans who make mistakes, harbor biases, and have complex that are hard to completely specify. AI models often learn to exploit even minor imperfections in the specified objective, a tendency known as reward hacking. To achieve the alignment goal, a core open problem is scalable oversight. Thus, I study how to explain, understand, and evaluations ways to better control how AI models extend  our supervision over tasks that are beyond our direct oversight, thereby improving alignment and their ability to generalize. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)) 
+* <b>AI Alignment - scalable oversight.</b> Aligning AI models to act in accordance with human values is challenging: these values are taught by humans who make mistakes, harbor biases, and have a complex that is hard to completely specify. AI models often learn to exploit even minor imperfections in the specified objective, a tendency known as reward hacking. To achieve the alignment goal, a core open problem is a scalable oversight. Thus, I study how to explain, understand, and evaluate ways to better control how AI models extend  our supervision over tasks that are beyond our direct oversight, thereby improving alignment and their ability to generalize. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)) 
 
 
 
@@ -74,14 +74,16 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
+* [Jan. 2024] Invited Research Talk at (Alibaba DAMO Academy)[https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848] hosted by (Ting-En Lin)[https://tnlin.github.io/].
+* [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in real-world.
-* [Aug. 2023] I get my Ph.D.! Thanks all those who trust me and support me.
+* [Aug. 2023] I got my Ph.D.! Thanks to all those who trust me and support me.
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
-* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agent to accomplish various tasks in real world.
+* [May. 2023] [AgentVerse](https://github.com/OpenBMB/AgentVerse) was published. It provides a flexible framework that simplifies the process of building LLM-based agents to accomplish various tasks in real world.
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
 * [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/) (Cover Article).
-* [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany.
+* [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarters, Germany.
 * [Jul. 2022] Will orally present our 2 accepted works at [NAACL 2022](https://2022.naacl.org/).
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
 
