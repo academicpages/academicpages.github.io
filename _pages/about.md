@@ -305,7 +305,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 
 ## Service
 Organizer: RSS2023 Workshop on Symmetries in Robot Learning  
-Reviewer: NeurIPS 2023. ICRA 2023, 2022, 2019. CoRL 2023, 2022. IROS 2023, 2021. RAL 2023, 2022. T-RO 2022.
+Reviewer: ICLR 2024, 2023. NeurIPS 2023. ICRA 2024, 2023, 2022, 2019. CoRL 2023, 2022. IROS 2023, 2021. RAL 2023, 2022. T-RO 2022.
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
