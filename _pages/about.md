@@ -74,7 +74,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
-* [Jan. 2024] Invited Research Talk at (Alibaba DAMO Academy)[https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848] hosted by (Ting-En Lin)[https://tnlin.github.io/].
+* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848]) hosted by [Ting-En Lin](https://tnlin.github.io/). Topic: The Challenges and Future of LLM-Based Autonomous Agents.
 * [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in real-world.
