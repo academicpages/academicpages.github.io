@@ -1,5 +1,4 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Post-ACR AI and RWD	Workshop	2022_RK_ACRReview	ACR Review 2022	2022-11-29	Amersfoort, the Netherlands		Workshop by Rachel Knevel on Real-World Data (RWD) and artificial intelligence
 EULAR 2022 EHR Clustering	Poster	2022_TDM_EULAR	EULAR 2022	2022-06-01	Copenhagen, Denmark	http://scientific.sparx-ip.net/archiveeular/?c=a&item=2022POS0570	Poster presentation of the work performed by TD Maarseveen on the clustering of RA patients using baseline EHR data
 EULAR 2019 ICD Clustering	Abstract	2019_MPM_EULAR	EULAR 2019	2019-06-12	Madrid, Spain	https://scientific.sparx-ip.net/archiveeular/?c=a&item=2019AB1282	Accepted abstract of the work performed by MP Maurits on the clustering of patients using ICD codes
 EULAR 2021 SSc Risk Model	Poster	2021_MPM_EULAR_1	EULAR 2021	2021-06-02	Online	http://scientific.sparx-ip.net/archiveeular/?c=a&item=2021POS0843	Poster presentation of the work performed by MP Maurits on the SSc model predicting disease progression risk
@@ -16,3 +15,15 @@ BioSB 2022 EHR Clustering	Oral Presentation	2022_TDM_BioSB	BioSB 2022	2022-06-28
 IVAPP 2022 Wordclouds	Oral Presentation	2022_MPM_IVAPP	IVAPP 2022	2022-02-06	Online	https://www.scitepress.org/Link.aspx?doi=10.5220/0010778700003124	Oral presentation on the work performedby MP Maurits on word cloud scaling
 EULAR 2020 HvsM	Abstract	2020_TDM_EULAR	EULAR 2020	2020-06-03	Online	http://scientific.sparx-ip.net/archiveeular/?c=a&item=2020AB1114	Accepted abstract of the work performed by TD Maarseveen and MP Maurits on the differences between RA populations extracted by ML and chart review
 EULAR 2020 ICD Clustering	Poster	2020_MPM_EULAR	EULAR 2020	2020-06-03	Online	http://scientific.sparx-ip.net/archiveeular/?c=a&item=2020FRI0585	Poster presentation of the work performed by MP Maurits on clustering of patients using ICD codes
+Post-ACR AI and RWD	Workshop	2022_RK_ACRReview	ACR Review 2022	2022-11-29	Amersfoort, the Netherlands		Workshop by Rachel Knevel on Real-World Data (RWD) and artificial intelligence
+AMP-IMI-IFRA EHR Genetics	Oral Presentation	2019_RK_IFRA	AMP-IMI-IFRA 2019	2019-09-26	Wachington, USA		Oral presentation by Rachel Knevel about integrating electronic health record data and genetics to improve understanding of rheumatic diseases
+ICS EHR and Bioinformatics	Oral Presentation	2021_RK_ICS	12th International Congress on Spondyloarthritis	2021-09-21	Ghent, Belgium		Presentation by Rachel Knevel on how to link clinical observations with new knowledge generation
+NVR AI, Holy Grail or Epic Fail?	Discussion	2023_RK_NVR	NVR 2023	2023-09-28	Arnhem, the Netherlands		A discussion, hosted by Rachel Knevel, about the opportunities and dangers posed by AI in healthcare
+ATT Telemedicine	Debate	2022_RK_ATT	Advanced Targeted Therapies	2022-03-26	Marseille, France		A debate on the future of telemedicine
+PrES Machine Learning	Oral Presentation	2022_RK_PReS	28th European Pediatric Rheumatology Congress	2022-09-23	Prague, Czech Republic		Presentation by Rachel Knevel on big data analysis and machine learning
+post-EULAR AI and Big Data	Oral Presentation	2022_RK_pEULAR	post-EULAR Symposium 2022	2022-06-14	Amersfoort, the Netherlands		Presentation by Rachel Knevel on AI and Big Data in RMDs
+FMS AI and clinical practice	Oral Presentation	2022_RK_FMS	(Dutch) Federation of Medical Specialists	2022-05-17	Utrecht, the Netherlands		Rachel Knevel talks about the challenges faced by medical specialists in using AI-based techniques and interpreting AI-driven research
+TT Genetics	Oral Presentation	2022_RK_TT	Therapeutic Tolerance 2022	2022-07-01	Newcastle, England		Rachel Knevel discusses the value of genetics in helping us to understand drug-free remission
+DGRh Genetics	Oral Presentation	2018_RK_DGRh	2018-09-20	DGRh	Mannheim, Germany		A presentation by Rachel Knevel about pharmacogenetics in rheumatic diseases
+EULAR Genetics and Inflammatory Synovitis	Oral Presentation	2021_RK_EULAR	EULAR 2021	2021-06-03	Online		
+DRD Rheumatic?	Oral Presentation	2023_RK_DRD	Digital Rheumatology Day 2023	2023-05-06	Berlin, Germany		Rachel Knevel presents a population based validation study on Rheumatic?, a digital diagnostic decision support tool for individuals suspecting rheumatic diseases
