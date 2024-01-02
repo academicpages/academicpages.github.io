@@ -43,7 +43,8 @@ Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
   _Preprint_
   
 ### b) Model Compression & Acceleration of LLMs 
-  Ongoing research and development in this area.
+- [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
+  _Preprint_ 
 
 ## 3. Continual and Lifelong Learning
 Focusing on memory-replay and neuro-inspiration approaches for continual learning.
