@@ -11,9 +11,9 @@ I am writing a thesis on the history of computing. I might provide the outline b
 ”C.A.R. Hoare’s Programming Research in the 1960s”
 ======
 
-1. Explanatory Notes
+* 0 Explanatory Notes
 
-1. Introduction
+* 1 Introduction
   * 1.1 Research Questions of the Paper
   * 1.2 Significance of the Questions
     * 1.2.1 Significance of Software History Research
@@ -30,7 +30,7 @@ I am writing a thesis on the history of computing. I might provide the outline b
     * 1.4.2 Sources Used
   * 1.5 Structure of the Paper
 
-1. Oxford University and Naval Service After Graduation (1934\UTF{2013}1958)
+* 2 Oxford University and Naval Service After Graduation (1934\UTF{2013}1958)
   * 2.1 History of Computing in the 1960s
     * 2.1.1 Emergence of the Concept of "Software"
     * 2.1.2 Emergence of "Computer Science"
@@ -43,7 +43,7 @@ I am writing a thesis on the history of computing. I might provide the outline b
     * 2.3.2 Russian Language
   * 2.4 Conclusion
 
-1. Hoare and Algorithms \UTF{2013} Study in Russia and Elliot Brothers (1958\UTF{2013}1968)
+* 3 Hoare and Algorithms \UTF{2013} Study in Russia and Elliot Brothers (1958\UTF{2013}1968)
   * 3.1 Return to Oxford, Then to Moscow \UTF{2013} Probability, Statistics, Machine Translation (1958\UTF{2013}1960)
     * 3.1.1 Return to Oxford University
       * 3.1.1.1 Statistics Course
@@ -60,7 +60,7 @@ I am writing a thesis on the history of computing. I might provide the outline b
     * 3.3.2 From Industry to Academia
   * 3.4 Conclusion
 
-1. Hoare and Program Semantics (1964\UTF{2013})
+* 4 Hoare and Program Semantics (1964\UTF{2013})
   * 4.1 Hoare and Challenges in 1960s Computing (1964\UTF{2013}1967)
     * 4.1.1 Challenges in 1960s in Proving Program Correctness 
       * 4.1.1.1 Software Crisis
@@ -84,11 +84,11 @@ I am writing a thesis on the history of computing. I might provide the outline b
     * 4.2.8 Subsequent Career of Hoare (1970\UTF{2013})
   * 4.3 Conclusion
 
-1. Conclusion
+* 5 Conclusion
   * 5.1 Summary of the Study
   * 5.2 Limitations and Challenges of the Study
   * 5.3 Future Research
 
-1. Bibliography
+* 6 Bibliography
 
-1. List of Figures
+* 7 List of Figures
