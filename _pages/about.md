@@ -8,12 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan.
-
-———
-I naively believe that any problem can be solved if the question is correctly formulated (probably due to the partial influence of G. Polya's).  Therefore, I emphasize formulating intellectually interesting questions. To do so, I believe it is necessary to understand the research that has been done so far. During my undergraduate studies, I became interested in how theories and technologies presented in classes and textbooks are conceived. As a result, I studied the history of science, with a particular focus on the history of computing. I hope to utilize this knowledge and experience to conduct research in Computer Science, specifically in programming languages (PL). I am currently applying to graduate school in Computer Science.
 
 Under Construction!!!
+======
+
+Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in logic and mathematics in computer science, such as programming languages and formal methods.
+
+  
+* Miscellaneous
+  * The Purpose of this Website
+    * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' two years ago, I initially associated them with Leibniz and Russell&#128512;).
+  * Reflecting on the Year
+    * As the year comes to a close, I reflect on the past year and recognize personal growth in various aspects. In particular, I have come to believe that knowledge and skills are important, but emotional or social intelligence may be even more crucial in conducting research. This includes respect for others, the ability to ask for help, the ability to ask good questions, intellectual independence, continuous effort, inner motivation, and a positive attitude. Although I also love alone time, I really enjoy interacting with people. I created this site to connect with a diverse group of individuals in graduate school. I hope this site, which I created for the first time, will help me to interact with various people in graduate school.
+    
+  * I naively believe that any problem can be solved if the question is correctly formulated (probably due to the partial influence of G. Polya). So, I think it is really important to formulate original and intellectually interesting questions. To achieve this, it is inevitable to understand the research that has been done so far. During my undergraduate studies, I became interested in how theories and technologies presented in classes and textbooks are conceived and did research on the history of science (especially, the history of computing). 
+    I am currently applying to graduate school in Computer Science. Leveraging my past as a student in the history of science, I plan to apply the knowledge and skills I acquired in shaping my future as a student in computer science (especially, programming languages).
+
+  * Programming
+    * Python, OCaml, Java, C Language     
+  * Service
+    * ICFP Student Volunteer (September 2023)
+    * The History of Science Society of Japan, 70th Annual General Meeting (May 2023)
+  
+
+
+
+
+Under Construction!
 ======
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
