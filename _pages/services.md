@@ -58,7 +58,7 @@ author_profile: true
 1. <span style="font-size: 16px;">International Conference on ML & Applied Network Technologies (ICMLANT), 2020.</span>
 <div style="margin-top: 35px;"></div>
 
-<span style="font-size: 22px;">Talks</span>
+<span style="font-size: 22px;">Talks & Presentations</span>
 ======
 1. <span style="font-size: 16px;">EEEFORUM2023, Invited Speaker, 2024.</span>
 1. <span style="font-size: 16px;">X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks, IEEE NFV-SDN, 2023.</span>
