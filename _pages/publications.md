@@ -4,7 +4,39 @@ title: "Working Papers"
 permalink: /research/
 author_profile: true
 ---
+## Corporate Finance
+### CEO Overconfidence and Corporate Innovation Under Distress: Evidence from Hurricane Strikes
+### Abstract:
+Studies have documented a positive relationship between CEO Overconfidence and
+corporation innovation, and a negative relationship between natural disasters and corporate innovation outcomes. I study whether overconfidence remains positively related
+to innovation following natural disasters. Using a Difference-in-Difference model of
+natural disasters occuring between 1998 and 2017, I examine the impact of natural
+disasters on corporate innovation between affected firms led by both overconfident and
+non-overconfident managers. Firms led with overconfident managers consistently underperform relative to other affected firms, suggesting that overconfident CEOs are
+more prone to react negatively under distress, in both cross-sectional and fixed-effect
+models. In addition, I find that the negative association between natural disasters and
+corporate innovation is mostly driven by firms with Overconfident CEOs. The results
+are robust to alternative specifications of both disaster risk and managerial overconfidence. Potential explanatory channels show that overconfident CEOs significantly
+reduce R&D expenditure following disasters, which could explain the results of lower
+tangibility, higher net working capital, and are more likely to have negative net income.
+From an inventors-perspective, I find that innovator productivity remains unchanged
+and in some cases increases, however innovators are less willing to work at firms in
+affected areas.
 
+### Does Income Inequality Impede Innovation? Evidence from the SEC Mandated Pay Ratio Disclosure
+### Abstract:
+I examine the importance of an SEC filing rule that enhances pay transparency by
+requiring U.S public companies to disclose both employee and CEO compensation. I
+test whether this information availability impacts corporate innovation. Firms that
+disclose high pay ratios experience lower innovation outcomes three years following
+the disclosure. Moreover, innovator output declines following the disclosure of a high
+pay ratio. This effect is monotonic decreasing with pay ratio levels. Additionally,
+previously available information regarding compensation mitigates the impact of the
+disclosure. These effects are robust to various specifications. My results suggest that
+innovators are inequality-averse and concerned about high pay dispersion.
+
+
+## Risk Management and Insurance
 ### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice. 
 *With Jing Ai*
 ### Abstract: 
