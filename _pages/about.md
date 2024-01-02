@@ -36,9 +36,8 @@ Contact
 
  I like getting email. If you want to talk about something I do, send me an [email](mailto:p.l.delacour@tudelft.nl)
  
- 
- <!---
- Getting started
+<!---
+Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
