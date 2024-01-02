@@ -8,15 +8,15 @@ author_profile: true
 ### CEO Overconfidence and Corporate Innovation Under Distress: Evidence from Hurricane Strikes
 ### Abstract:
 Studies have documented a positive relationship between CEO Overconfidence and
-corporation innovation, and a negative relationship between natural disasters and corporate innovation outcomes. I study whether overconfidence remains positively related
+corporation innovation, and a negative relationship between natural disasters and corporate innovation outcomes. I study whether overconfidence remains positively related
 to innovation following natural disasters. Using a Difference-in-Difference model of
 natural disasters occuring between 1998 and 2017, I examine the impact of natural
 disasters on corporate innovation between affected firms led by both overconfident and
-non-overconfident managers. Firms led with overconfident managers consistently underperform relative to other affected firms, suggesting that overconfident CEOs are
+non-overconfident managers. Firms led with overconfident managers consistently underperform relative to other affected firms, suggesting that overconfident CEOs are
 more prone to react negatively under distress, in both cross-sectional and fixed-effect
 models. In addition, I find that the negative association between natural disasters and
 corporate innovation is mostly driven by firms with Overconfident CEOs. The results
-are robust to alternative specifications of both disaster risk and managerial overconfidence. Potential explanatory channels show that overconfident CEOs significantly
+are robust to alternative specifications of both disaster risk and managerial overconfidence. Potential explanatory channels show that overconfident CEOs significantly
 reduce R&D expenditure following disasters, which could explain the results of lower
 tangibility, higher net working capital, and are more likely to have negative net income.
 From an inventors-perspective, I find that innovator productivity remains unchanged
