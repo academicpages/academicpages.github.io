@@ -27,8 +27,8 @@ Introductory/Must-read Books and Papers
 * Computer: A History of the Information Machine 『コンピューティング史』
   * 
   * 『イラストで学ぶ　世界を変えたコンピュータの歴史』
-* A History of Modern Computing
-  * The first edition is more technical and focuses on software. 『モダン・コンピューティングの歴史』
+* A History of Modern Computing 『モダン・コンピューティングの歴史』
+  * The first edition is more technical and focuses on software. 
 * Swade, Doron. (2022). The History of Computing: A Very Short Introduction
   * I plan to translate it into Japanese
 * Goldstine, Herman H. (1980). The Computer from Pascal to von Neumann
@@ -42,23 +42,23 @@ Recommended Books and Papers
   * Cryptography
   
 * Philosophy of Computing
-  *
+  * 
   
 * History of AI
-  *
+  * 
   
 * Cybernetics
   * 
   
 * Military and Computing
-  *
+  * 
   
 * History of Mathematics (with a focus on computing)
-  *
+  * 
   
 * Social History
   * Gender History
-  *
+  * 
 * Business History
 * Industrial History  
 * Biography
@@ -74,8 +74,7 @@ Primary Source
 
 Useful Links
 ======
-  * The Turing Digital Archive
-  https://turingarchive.kings.cam.ac.uk/
+  * [The Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
   
   

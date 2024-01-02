@@ -22,7 +22,7 @@ My Bookshelf (mainly nonfiction)
 
 My Favorite Papers
 ======
-* G&ouml;del, Kurt. (1931), "\UTF{00DC}ber formal unentscheidbare S\UTF{00E4}tze der Principia Mathematica und verwandter Systeme I".
+* G&ouml;del, Kurt. (1931), "&Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme I".
   * On Formally Undecidable Propositions of Principia Mathematica and Related Systems.
   * 
   
@@ -38,8 +38,8 @@ Others
 * Fictions (I don't read much fiction&#129394; Fact is stranger than fiction...)
   * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
     * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
-    * Abbott, Edwin A. (1884), Flatland: A Romance of Many Dimensions
-      * Looks interesting.
+  * Abbott, Edwin A. (1884), Flatland: A Romance of Many Dimensions
+    * 
 * Movies
 * Music
 
