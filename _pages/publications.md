@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Preprint
+* <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
+<b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/abs/2401.00625)]<br>
+
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
 Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>arXiv. Under review</i>.<br>
