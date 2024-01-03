@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+For my latest publications please visit <a href='https://scholar.google.com/citations?user=A3vUJfI2i0MC' target='_blank'>[Google Scholar]</a> <br/>
 <b>Journals</b>
 <hr/>
 <ul>
