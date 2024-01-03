@@ -5,9 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h3>Publications</h3>
-<hr/>
-<b>Journals</b> <br/>
+<b>Journals</b> <hr/>
 
 <ul>
  <li style='color: #808080;'><b>Title:</b> <i>Rap-Densenet Framwork for Network Attack Detection and Classification</i></li> 
@@ -25,7 +23,7 @@ author_profile: true
 </ul>  
 
 <br/>
-<b>Conferences</b> <br/>
+<b>Conferences</b> <hr/>
 
 <ul>
  
@@ -41,10 +39,3 @@ author_profile: true
 </ul>  
 
 
-# {% if author.googlescholar %}
-  #You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-#{% include base_path %}
-#{% for post in site.publications reversed %}
-  #{% include archive-single.html %}
-#{% endfor %}
