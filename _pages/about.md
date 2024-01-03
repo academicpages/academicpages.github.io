@@ -28,7 +28,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style="border: none">
       <b style="font-size: 18px;">Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance</b><br>
       <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Fangzhou Lin*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory S. Fischer, Yanhua Li, and Ziming Zhang (* co-first author)</i>
-      <i style="font-size: 16px;">Under review, paper upon request</i>
+      <p style="font-size: 16px;">Under review, paper upon request</p>
     </td>
     <td style="border: none">
       <img src="images/cvpr_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
