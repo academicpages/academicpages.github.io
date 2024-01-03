@@ -34,7 +34,7 @@ redirect_from:
  
 </ul>  
 
-<a href='https://iarunsilivery.github.io/publications/'> [ Full List ... ] </p>
+<a href='https://iarunsilivery.github.io/publications/'> [ Full List ... ]
   <br/>
 <h3>Scientific Services</h3>
 <hr/>
