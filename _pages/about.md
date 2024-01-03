@@ -42,7 +42,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
       <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
-      <p style="font-size: 16px;">Under review <a href="https://arxiv.org/abs/2312.01130"><p>Preprint</p></a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P"><p>Video</p></a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html"><p>Project page</p></a></p>
+      <p style="font-size: 16px;">Under review <a href="https://arxiv.org/abs/2312.01130">Preprint</a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
     </td>
     <td style = "border: none">
       <img src="images/STREAM_ICRA_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
