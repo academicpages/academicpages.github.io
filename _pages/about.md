@@ -27,7 +27,8 @@ Harvard University Institute for Quantitative Social Sciences, Applied Statistic
 Banff International Research Station, Aug 2022  
 [[Video]](https://www.birs.ca/events/2022/5-day-workshops/22w5184/videos/watch/202208221400-Han.html)
 
-
+## Upcoming Talks  
+Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Virtual.
 
 ## Recent News  
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
