@@ -5,8 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Journals</b><hr/>
-
+<b>Journals</b>
+<hr/>
 <ul>
  <li style='color: #808080;'><b>Title:</b> <i>Rap-Densenet Framwork for Network Attack Detection and Classification</i></li> 
   <p> <b>Authors: </b>Arun Silivery, Kovvur Ram Mohan Rao et. al.<br/> <b>Journal:</b> <a href='https://www.worldscientific.com/toc/jikm/0/0' target='_blank'>[Journal of Information & Knowledge Management]</a>  &nbsp;<b>Status:</b> [Accepted] </p>
@@ -21,12 +21,10 @@ author_profile: true
   <p> <b>Authors: </b> Bhukya Madhu, M. Venu Gopala Chari, Ramdas Vankdothu, <b>Arun Silivery</b>, Veerender Aerranagula <br/> <b>Journal:</b> <a href='https://www.sciencedirect.com/journal/measurement-sensors' target='_blank'>[Measurement: Sensors]</a>  &nbsp;<b>DoI:</b> <a href='https://doi.org/10.1016/j.measen.2022.100641'  target='_blank'>[https://doi.org/10.1016/j.measen.2022.100641]</a> </p>
  
 </ul>  
-
 <br/>
-<b>Conferences</b><hr/>
-
-<ul>
- 
+<b>Conferences</b>
+<hr/>
+<ul> 
    <li style='color: #808080;'><b>Title:</b> <i>Inculcated feature selection process using INBPOA for DDoS Detection and classification</i></li> 
   <p> <b>Authors: </b><b>Arun Silivery</b>, Kovvur Ram Mohan Rao et. al.<br/> <b>Conference:</b> <a href='https://sites.google.com/view/iccic-2023' target='_blank'>[ICCIC'23]</a>  &nbsp;<b>Status:</b> [Accepted] </p>
   
