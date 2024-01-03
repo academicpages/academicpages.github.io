@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<b>Journals</b> <hr/>
+<b>Journals</b><hr/>
 
 <ul>
  <li style='color: #808080;'><b>Title:</b> <i>Rap-Densenet Framwork for Network Attack Detection and Classification</i></li> 
@@ -23,7 +23,7 @@ author_profile: true
 </ul>  
 
 <br/>
-<b>Conferences</b> <hr/>
+<b>Conferences</b><hr/>
 
 <ul>
  
