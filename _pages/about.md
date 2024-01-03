@@ -54,7 +54,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
       <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
-      <i style="font-size: 16px;"><a href="https://arxiv.org/abs/2312.01135"><i>Preprint</i></a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s"><i>Video</i></a></i>
+      <p style="font-size: 16px;">Under review <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
     </td>
     <td>
       <img src="images/VisionFDM_RoboSoft_new.png" style ="width: auto; height: auto; align: right; border: #343a40 2px solid;">
