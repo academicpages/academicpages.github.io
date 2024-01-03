@@ -22,9 +22,7 @@
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
-      {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
-      {% endif %}
+      
        {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
@@ -36,6 +34,9 @@
       {% endif %}
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      {% endif %}
+      {% if author.location %}
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
