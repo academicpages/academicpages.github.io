@@ -23,7 +23,7 @@ redirect_from:
 <b>Journals</b> <br/><br/>
 
 <ul>
-  </b> <li style='color: #52adc8;'><b>Title: <i>Rap-Densenet Framwork for Network Attack Detection and Classification</i></li> 
+ <li style='color: #808080;'><b>Title:</b> <i>Rap-Densenet Framwork for Network Attack Detection and Classification</i></li> 
   <p> <b>Authors: </b><b>Arun Silivery</b>, Kovvur Ram Mohan Rao et. al.<br/> <b>Journal:</b> <a href='https://www.worldscientific.com/toc/jikm/0/0' target='_blank'>[Journal of Information & Knowledge Management]</a>  &nbsp;<b>Status:</b> [Accepted] </p>
   
    <li style='color: #52adc8;'><b>Title:</b> <i>A model for multi-attack classification to improve intrusion detection performance using deep learning approaches</i></li> 
