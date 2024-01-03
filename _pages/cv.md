@@ -17,9 +17,8 @@ redirect_from:
 
 석사 학위 논문 (Master's Thesis)
 ---
-* Title (Korean): 5G Massive MIMO 네트워크를 위한 다중목표 강화학습 기반 전력 할당: 스펙트럼 및 에너지 Trade-Off 최적화에 대한 연구
-* Title (English): Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-off Optimization
-* Supervisors: [최우열](https://sites.google.com/view/smart-networking/biography?authuser=0)
+* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-off Optimization
+* Supervisors: 최우열
 
 
 연구 분야 (Research Areas)
