@@ -39,7 +39,9 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Activities
-* Reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
+* Reviewer at [AISTATS 2024](https://aistats.org/aistats2024/)
+* Reviewer at [ICLR 2024](https://iclr.cc/Conferences/2024)
+* Top reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
 * Teacher assistant at [Nordic Probabilistic AI School 2023](https://probabilistic.ai/)
 * Top reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/)
 
@@ -49,13 +51,14 @@ redirect_from:
 * Junior Java Developer, ProFIX (Kyiv, Ukraine), 2017 - 2018
   
 ## Honors & Awards
+* [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI, since 2022
 * LMU Study Scholarship for International Students, 2019
 * Ukrainian Team Programming Olympiad, 2016
 
 ## Languages
 * English - C1.2+
 * German - C1.1
-* Ukrainian, Russian - native speaker
+* Ukrainian - native speaker
 
 ## Volunteer Activity 
 * Volunteer, NGO "Agency For Free Development" (Kyiv, Ukraine), 2016 - 2018
