@@ -17,7 +17,7 @@ My research interests primarily revolve around the interpretability and represen
 
 ## News
 
-- [2023/12] Release [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe), a series of open-sourced Mixture-of-Expert (MoE) models!
+- [2023/12] We release [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe), a series of open-sourced Mixture-of-Expert (MoE) models!
 - [2023/05] One paper is accepted by [ACL 2023](https://2023.aclweb.org/).
 - [2022/10] One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/).
 - [2022/08] One paper is accepted by [WACV 2023](https://wacv2023.thecvf.com/).
