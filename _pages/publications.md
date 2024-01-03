@@ -36,6 +36,7 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 **WPI IQP(Interactive Qualifying Project):** *Toward Wearable Multimodal Neuroimaging*
 
 Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and Meng Wang
+[*Project Repository*](https://github.com/Andyliu7081/WPI-IQP-Ubiquitous-EEG-Headset-)
 
 **RBE 550 Final Project:** *A Brief Introduction to Robotic Task and Motion Planning with PDDL and PDDLStream*
 
