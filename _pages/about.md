@@ -35,7 +35,7 @@ My long-term research vision is to build automation systems that can be self-ada
   </tr>
 </table>
 
-- FDM Printing Soft Robotics
+- FDM Printing and Soft Robotics
 <table style = "border: none">
   <tr>
     <td style = "border: none">
