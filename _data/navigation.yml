@@ -19,10 +19,10 @@ main:
   - title: "Software"
     url: /software
   
-  # - title:  "CSML Lab"
-  #   url: /lab/
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title:  "CSML Lab"
+    url: /lab/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
 #   - title: "Guide"
 #     url: /markdown/

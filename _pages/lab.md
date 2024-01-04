@@ -9,17 +9,17 @@ author_profile: false
 
 
 
-The Computational Science and Machine Learning Lab (CSML) is an interdisciplinary research lab that advances scientific computation by integrating computational and algorithmic techniques with machine learning methods.
+The Computational Science and Machine Learning Lab (CSML) is an interdisciplinary research lab at Cal State Long Beach focusing on aiding scientific computation using algorithmic innovation and machine learning methodologies.
 
 In particular, our work concentrates on developing novel algorithms and models that can effectively meld complex data from multiple sources to improve our understanding of various scientific phenomena. We aim to contribute to the development of more accurate and reliable predictive models that can be used in a wide range of applications.
 
 
-<!-- 
+
 ## Research Focus
 
 
 
-Our research interests span a wide range of topics, including data-driven modeling and simulation, uncertainty quantification, and optimization. We use state-of-the-art machine learning techniques in  deep learning, reinforcement learning, and Bayesian learning to develop robust and efficient solutions to these problems. Our goal is to create novel approaches to scientific computation that bring together traditional methods and cutting-edge machine learning techniques. -->
+Our research interests span a wide range of topics, including data-driven modeling and simulation, uncertainty quantification, and optimization. We use state-of-the-art machine learning techniques in  deep learning, reinforcement learning, and Bayesian learning to develop robust and efficient solutions to these problems. Our goal is to create novel approaches to scientific computation that bring together traditional methods and cutting-edge machine learning techniques.
 
 
 
@@ -32,6 +32,7 @@ At CSML, we believe in providing our students with individual attention, clear e
 
 
 
+## Lab Members
 
 
 ## Prospective Students
