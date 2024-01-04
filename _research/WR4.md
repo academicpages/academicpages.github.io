@@ -1,6 +1,6 @@
 ---
 title: "Pension coverage in Chile, Colombia and Peru: Demography, migration and labor"
-excerpt: "With María Amparo Cruz-Saco, Mirian Gil & Bruno Seminario"
+excerpt: "With María Amparo Cruz-Saco, Mirian Gil & Favio Leiva"
 collection: research
 ---
 
