@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nathan Popper"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Nathan Popper"
 description              : &description "personal description"
 url                      : https://nathan-popper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light", "dark" (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -85,10 +85,10 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "Atlanta, GA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "nathan-popper"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/nathan-popper"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
