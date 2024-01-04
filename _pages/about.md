@@ -131,6 +131,7 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt
 **Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
 *NeurIPS 2023, New Orleans, Louisiana, USA*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtu.be/snCMcFjuHVI','_blank')">Talk</button>
 <button class="button-4" onclick="window.open('https://github.com/pointW/ext_theory','_blank')">Code</button>
 <br>
 
