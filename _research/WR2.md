@@ -1,6 +1,6 @@
 ---
-title: "Development and long-term cycles in Peru, 1700-2020"
-excerpt: "With Bruno Seminario & Vanessa Berrocal"
+title: "Economic development forecasting using news at the regional level in Peru"
+excerpt: "With Javier Beverinotti & Roberto Mendoza"
 collection: research
 ---
 

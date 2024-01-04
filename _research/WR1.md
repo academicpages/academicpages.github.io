@@ -1,6 +1,6 @@
 ---
-title: "Evolution of the economic space in Peru since 1795"
-excerpt: "With Bruno Seminario & María Alejandra Zegarra"
+title: "COVID-19 and residential choices in Peru"
+excerpt: ""
 collection: research
 ---
 
