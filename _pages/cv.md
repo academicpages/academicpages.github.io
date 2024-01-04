@@ -8,4 +8,4 @@ redirect_from:
 
 {% include base_path %}
 
-[See my CV here](http://mebucca.github.io/files/Curriculum_Vitae.pdf)
+[See my CV here](http://mebucca.github.io/files/cv.pdf)
