@@ -8,7 +8,7 @@ author_profile: true
 Course Projects  
 ===============
 
-- Computer vision project [Github](https://github.com/stevend-15/cv-project-fall23) [Report]()
+- Computer vision project [Github](https://github.com/stevend-15/cv-project-fall23) [Report](https://ting-chih.github.io/files/5864.pdf)
 
 - Multimodal vision project [GitHub](https://github.com/ting-chih/CS6804-final-project) [Report](https://ting-chih.github.io/files/6804.pdf)  
 
