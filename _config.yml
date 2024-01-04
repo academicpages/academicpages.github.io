@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naijing Liu"
+  name             : "Your name"
   avatar           : "profile.png"
-  bio              : "A linguist looking for job"
+  bio              : "A BRIEF INTRO"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
