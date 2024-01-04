@@ -34,7 +34,7 @@ PKC 24, EUROCRYPT 23, Usenix Security 23, ACNS 23, ISIT 23, CT-RSA 22, CRYPTO 22
 - IEEE Transaction on Dependable and Secure Computing 
 - The Computer Journal 
 - Journal of Systems Architecture
-- IET Information Security
+<!-- - IET Information Security -->
 - Theory of Computing Systems
 - Theoretical Computer Science 
 
