@@ -11,49 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Osmania University,Hyderabad, 2018 - 2024 (expected)
+* M.Tech., Jawaharlal Nehru Technological University, Hyderabad, First Class with Distinction in 2016
+* B.E. in Osmania University, First Class in 2011
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Network Administrator/Programmer: Osmania university
+  * Developed and maintained Ph.D. Evaluation Application (Ph.D. App), Result Analysis Application
+(RA App), Remuneration Bill Application (RB App) and Question paper application (QP App) using
+ASP.NET Framework with C#, backend as MSSQL Server and front end as HTML, CSS, JavaScript
+and Bootstrap.
+  * Developed customized responsive web UI screens for gathering and presenting information of the University data.
+  * Developed and involved for creating dynamic pages in the applications using C#.
+  * Developed and involved in database design and development for creating complex database queries,
+writing Constraints, Indexes, Views, Stored Procedures, Triggers and Functions using MSSQL Server.
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C#, Python
+* Frameworks: ASP.NET, TensorFlow, Keras, PyTorch
+* Databases: MSSQL Server, MYSQL, MangoDB
+* Web Development Tools: HTML5, CSS3, jQuery and Bootstrap  
+* Operating System: MS Windows 10/8.1/7, MS Windows Server 2016
+* Tools: Visual Studio, Pycharm, Jupiter, LATEX
+* Version Control Tool: Github
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+
