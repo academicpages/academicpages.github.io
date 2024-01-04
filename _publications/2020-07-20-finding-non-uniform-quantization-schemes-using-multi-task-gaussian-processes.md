@@ -1,0 +1,15 @@
+---
+title: "Finding Non-Uniform Quantization Schemes using Multi-Task Gaussian Processes"
+collection: publications
+permalink: /publication/2020-07-20-finding-non-uniform-quantization-schemes-using-multi-task-gaussian-processes
+excerpt: 'Quantization is a popular way of increasing the speed and lowering the memory usage of Convolution Neural Networks (CNNs). When labelled training data is available, network weights and activations have successfully been quantized down to 1-bit. The same cannot be said about the scenario when labelled training data is not available, e.g. when quantizing a pre-trained model, where current approaches show, at best, no loss of accuracy at 8-bit quantizations. We introduce DSConv, a flexible quantized convolution operator that replaces single-precision operations with their far less expensive integer counterparts, while maintaining the probability distributions over both the kernel weights and the outputs. We test our model as a plug-and-play replacement for standard convolution on most popular neural network architectures, ResNet, DenseNet, GoogLeNet, AlexNet and VGG-Net and demonstrate state-of-the-art results, with less than 1% loss of accuracy, without retraining, using only 4-bit quantization. We also show how a distillation-based adaptation stage with unlabelled data can improve results even further.'
+date: 2020-07-20
+venue: 'ECCV'
+paperurl: 'https://arxiv.org/pdf/2007.07743.pdf'
+citation: 'Gennari do Nascimento, Marcelo, Theo W. Costain, and Victor Adrian Prisacariu. "Finding non-uniform quantization schemes using multi-task gaussian processes." European Conference on Computer Vision. Cham: Springer International Publishing, 2020.'
+---
+Quantization is a popular way of increasing the speed and lowering the memory usage of Convolution Neural Networks (CNNs). When labelled training data is available, network weights and activations have successfully been quantized down to 1-bit. The same cannot be said about the scenario when labelled training data is not available, e.g. when quantizing a pre-trained model, where current approaches show, at best, no loss of accuracy at 8-bit quantizations. We introduce DSConv, a flexible quantized convolution operator that replaces single-precision operations with their far less expensive integer counterparts, while maintaining the probability distributions over both the kernel weights and the outputs. We test our model as a plug-and-play replacement for standard convolution on most popular neural network architectures, ResNet, DenseNet, GoogLeNet, AlexNet and VGG-Net and demonstrate state-of-the-art results, with less than 1% loss of accuracy, without retraining, using only 4-bit quantization. We also show how a distillation-based adaptation stage with unlabelled data can improve results even further.
+
+[Download paper here](https://arxiv.org/pdf/2007.07743.pdf)
+
+Recommended citation: Gennari do Nascimento, Marcelo, Theo W. Costain, and Victor Adrian Prisacariu. "Finding non-uniform quantization schemes using multi-task gaussian processes." European Conference on Computer Vision. Cham: Springer International Publishing, 2020. 

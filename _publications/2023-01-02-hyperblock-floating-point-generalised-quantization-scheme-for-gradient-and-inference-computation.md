@@ -1,0 +1,15 @@
+---
+title: "HyperBlock Floating Point: Generalised Quantization Scheme for Gradient and Inference Computation"
+collection: publications
+permalink: /publication/2023-01-02-hyperblock-floating-point-generalised-quantization-scheme-for-gradient-and-inference-computation
+excerpt: 'Prior quantization methods focus on producing networks for fast and lightweight inference. However, the cost of unquantised training is overlooked, despite requiring significantly more time and energy than inference. We present a method for quantizing convolutional neural networks for efficient training. Quantizing gradients is challenging because it requires higher granularity and their values span a wider range than the weight and feature maps. We propose an extension of the Channel-wise Block Floating Point format that allows for quick gradient computation, using a minimal amount of quantization time. This is achieved through sharing an exponent across both depth and batch dimensions in order to quantize tensors once and reuse them during backpropagation. We test our method using standard models such as AlexNet, VGG, and ResNet, on the CIFAR10, SVHN and ImageNet datasets. We show no loss of accuracy when quantizing AlexNet weights, activations and gradients to only 4 bits training ImageNet.'
+date: 2023-01-02
+venue: 'WACV'
+paperurl: 'https://openaccess.thecvf.com/content/WACV2023/papers/do_Nascimento_Hyperblock_Floating_Point_Generalised_Quantization_Scheme_for_Gradient_and_Inference_WACV_2023_paper.pdf'
+citation: 'Gennari do Nascimento, M., et al. HyperBlock Floating Point: Generalised Quantization Scheme for Gradient and Inference Computation. IEEE, 2023, pp. 6353–62.'
+---
+Prior quantization methods focus on producing networks for fast and lightweight inference. However, the cost of unquantised training is overlooked, despite requiring significantly more time and energy than inference. We present a method for quantizing convolutional neural networks for efficient training. Quantizing gradients is challenging because it requires higher granularity and their values span a wider range than the weight and feature maps. We propose an extension of the Channel-wise Block Floating Point format that allows for quick gradient computation, using a minimal amount of quantization time. This is achieved through sharing an exponent across both depth and batch dimensions in order to quantize tensors once and reuse them during backpropagation. We test our method using standard models such as AlexNet, VGG, and ResNet, on the CIFAR10, SVHN and ImageNet datasets. We show no loss of accuracy when quantizing AlexNet weights, activations and gradients to only 4 bits training ImageNet.
+
+[Download paper here](https://openaccess.thecvf.com/content/WACV2023/papers/do_Nascimento_Hyperblock_Floating_Point_Generalised_Quantization_Scheme_for_Gradient_and_Inference_WACV_2023_paper.pdf)
+
+Recommended citation: Gennari do Nascimento, M., et al. HyperBlock Floating Point: Generalised Quantization Scheme for Gradient and Inference Computation. IEEE, 2023, pp. 6353–62.

@@ -1,0 +1,15 @@
+---
+title: "DSConv: Efficient Convolution Operator"
+collection: publications
+permalink: /publication/2019-09-07-DSConv-Efficient-Convolution-Operator
+excerpt: 'Quantization is a popular way of increasing the speed and lowering the memory usage of Convolution Neural Networks (CNNs). When labelled training data is available, network weights and activations have successfully been quantized down to 1-bit. The same cannot be said about the scenario when labelled training data is not available, e.g. when quantizing a pre-trained model, where current approaches show, at best, no loss of accuracy at 8-bit quantizations. We introduce DSConv, a flexible quantized convolution operator that replaces single-precision operations with their far less expensive integer counterparts, while maintaining the probability distributions over both the kernel weights and the outputs. We test our model as a plug-and-play replacement for standard convolution on most popular neural network architectures, ResNet, DenseNet, GoogLeNet, AlexNet and VGG-Net and demonstrate state-of-the-art results, with less than 1% loss of accuracy, without retraining, using only 4-bit quantization. We also show how a distillation-based adaptation stage with unlabelled data can improve results even further.'
+date: 2019-09-07
+venue: 'ICCV'
+paperurl: 'https://openaccess.thecvf.com/content_ICCV_2019/papers/do_Nascimento_DSConv_Efficient_Convolution_Operator_ICCV_2019_paper.pdf'
+citation: 'Nascimento, Marcelo Gennari do, Roger Fawcett, and Victor Adrian Prisacariu. "Dsconv: Efficient convolution operator." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.'
+---
+Quantization is a popular way of increasing the speed and lowering the memory usage of Convolution Neural Networks (CNNs). When labelled training data is available, network weights and activations have successfully been quantized down to 1-bit. The same cannot be said about the scenario when labelled training data is not available, e.g. when quantizing a pre-trained model, where current approaches show, at best, no loss of accuracy at 8-bit quantizations. We introduce DSConv, a flexible quantized convolution operator that replaces single-precision operations with their far less expensive integer counterparts, while maintaining the probability distributions over both the kernel weights and the outputs. We test our model as a plug-and-play replacement for standard convolution on most popular neural network architectures, ResNet, DenseNet, GoogLeNet, AlexNet and VGG-Net and demonstrate state-of-the-art results, with less than 1% loss of accuracy, without retraining, using only 4-bit quantization. We also show how a distillation-based adaptation stage with unlabelled data can improve results even further.
+
+[Download paper here](https://openaccess.thecvf.com/content_ICCV_2019/papers/do_Nascimento_DSConv_Efficient_Convolution_Operator_ICCV_2019_paper.pdf)
+
+Recommended citation: Nascimento, Marcelo Gennari do, Roger Fawcett, and Victor Adrian Prisacariu. "Dsconv: Efficient convolution operator." Proceedings of the IEEE/CVF International Conference on Computer Vision. 2019.
