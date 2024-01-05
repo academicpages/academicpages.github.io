@@ -6,9 +6,10 @@ collection: portfolio
 
 # 2023级
 
-|陈春海| 彭俊翔|
+|陈春海| 彭俊翔| |
 |:-----------:|:----------:|
 |![陈春海](/images/students/陈春海.jpg "陈春海")| ![彭俊翔](/images/students/彭俊翔.jpg "彭俊翔")|
+
 
 
 # 2022级
@@ -17,9 +18,6 @@ collection: portfolio
 |:-------:|:-----------:|:-------------:|
 |![俞聪](/images/students/俞聪1.jpg "俞聪")|![明士凯](/images/students/明士凯1.jpg "明士凯")|![石鹏](/images/students/石鹏1.jpg "石鹏")|
 
-article1:  
-article2:  
-article3:  
 
 # 2021级
 
@@ -27,9 +25,6 @@ article3:
 |:-----------:|:----------:|
 |![于帝伟](/images/students/于帝伟1.jpg "于帝伟")| ![曹宇](/images/students/曹宇1.jpg "曹宇")|
 
-article1:  
-article2:  
-article3:  
 
 # 2020级
 
@@ -37,9 +32,6 @@ article3:
 |:---------:|
 |![蔡雨生](/images/students/蔡雨生1.jpg "蔡雨生")|
 
-article1:  
-article2:  
-article3:  
 
 ![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1")  
 
