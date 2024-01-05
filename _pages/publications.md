@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Preprints:
+5. D. Zeng\*, Y. Dai\*, **P. Cheng**\*, T. Hu, W. Chen, N. Du, Z. Xu, [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/abs/2312.07401), 2023
+
+4. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du, [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045), 2023
 
 3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
 
