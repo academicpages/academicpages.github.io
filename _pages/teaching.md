@@ -16,7 +16,5 @@ Here you can find material that I use for teaching:
 
 - **[Sociology of Inequality](https://github.com/mebucca/sdd_sol186s)** (in Spanish), Department of Sociology, Catholic University of Chile
 
-- **[Frontiers in Stratification Research](https://github.com/mebucca/sdd_sol186s)**  *Coming*
-
-
+- **[Frontiers in Stratification Research](https://github.com/mebucca/sdd_sol186s)**  *Coming soon*
 

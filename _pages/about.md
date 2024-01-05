@@ -19,7 +19,7 @@ Research
 
 My scholarly agenda is articulated around two core, complementary research streams. One series of projects examines key structural aspects of social inequality - intergenerational income mobility, gender- and race-based gaps in the labor market and educational assortative mating. Another line of research focuses on the cultural facets of social stratification as they crystallize in specific belief systems about inequalities and fairness. My work has been published in academic journals such as *Science Advances*, *Sociological Methods and Research*, *RSF: The Russell Sage Foundation Journal of the Social Sciences*, and *Research in Social Stratification and Mobility*, and covered by popular media outlets such and the *New York Times*, *Washington Post*, *New Scientist*, *Science Daily*, among others.
 
-Currently, I am a principal investigator in the Fodendecyt Iniciación project 'Inequality of Outcomes and Opportunity and Its Effects on the Legitimacy of Inequality and Social Cohesion' and the [Millennium Nucleus for the Study of Labor Market Mismatch, Causes, and Consequences](https://www.lm2c2.cl/en/) ( $LM^2C^2$ ).
+Currently, I am a principal investigator in the Fodendecyt Iniciación project 'Inequality of Outcomes and Opportunity and Its Effects on the Legitimacy of Inequality and Social Cohesion' and the [Millennium Nucleus for the Study of Labor Market Mismatch, Causes, and Consequences](https://www.lm2c2.cl/en/).
 
 
 Methods
