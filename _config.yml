@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _experience
   - scope:
       path: ""
       type: portfolio
