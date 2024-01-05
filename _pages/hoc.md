@@ -12,7 +12,7 @@ As a sophomore, I encountered huge difficulty in knowing which books or papers I
 What is the History of Computing
 ======
 Everything has a History.
-~~Why History?
+
 
 Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL or LISP.
 
