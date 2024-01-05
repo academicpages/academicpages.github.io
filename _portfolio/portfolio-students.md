@@ -4,7 +4,11 @@ excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/downsta
 collection: portfolio
 ---
 
+# 2023级
 
+|陈春海| 彭俊翔|
+|:-----------:|:----------:|
+|![陈春海](/images/students/陈春海.jpg "陈春海")| ![彭俊翔](/images/students/彭俊翔.jpg "彭俊翔")|
 
 
 # 2022级
