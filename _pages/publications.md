@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
+![Light-mech](/images/光影.jpg)
 
