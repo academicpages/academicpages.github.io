@@ -18,7 +18,7 @@ My Bookshelf (mainly nonfiction)
 * 
 
 * Yanshou, Li. History of the Southern Dynasties, pp. 5-8『南史』巻二十六　列伝第十六
-  * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct.
+  * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (\UTF{8BBA}\UTF{8BED}). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
 
 My Favorite Papers
 ======
@@ -35,7 +35,7 @@ My Favorite Papers
 
 Others
 ======
-* Fictions (I don't read much fiction&#129394; Fact is stranger than fiction...)
+* Fictions (I don't read much fiction&#129394;. Fact is stranger than fiction...)
   * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
     * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
   * Abbott, Edwin A. (1884), Flatland: A Romance of Many Dimensions

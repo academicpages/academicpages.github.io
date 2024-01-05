@@ -8,7 +8,7 @@ author_profile: true
 
 I am writing a thesis on the history of computing. I might provide the outline below.
 
-”C.A.R. Hoare’s Programming Research in the 1960s”
+C.A.R. Hoare’s Programming Research in the 1960s
 ======
 
 * 0 Explanatory Notes
