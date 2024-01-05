@@ -29,4 +29,4 @@ redirect_from:
 
 > 科学需要想象 想象来自阅读
 
-> 其他相关知名学者链接：[**陈巨兵** 教授](https://naoce.sjtu.edu.cn/teachers/chenjubing.html)；[**孙晨** 副研究员](https://naoce.sjtu.edu.cn/teachers/sunchen.html) 等
+> 其他相关学者链接：[**陈巨兵** 教授](https://naoce.sjtu.edu.cn/teachers/chenjubing.html)；[**孙晨** 副研究员](https://naoce.sjtu.edu.cn/teachers/sunchen.html) 等
