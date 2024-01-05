@@ -8,7 +8,7 @@ collection: portfolio
 
 |陈春海| 彭俊翔| |
 |:-----------:|:----------:|
-|![陈春海](/images/students/陈春海.jpg "陈春海")| ![彭俊翔](/images/students/彭俊翔.jpg "彭俊翔")|
+|![陈春海](/images/students/陈春海1.jpg "陈春海")| ![彭俊翔](/images/students/彭俊翔1.jpg "彭俊翔")|
 
 
 
