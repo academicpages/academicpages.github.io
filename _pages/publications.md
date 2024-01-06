@@ -55,13 +55,23 @@ author_profile: true
 {% endfor %}
 ------
 
+<br>
+<br>
+<h1>Workshops</h1>
+------
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'workshop' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+------
 
 <br>
 <br>
-<h1>Workshops & Lecture Presentations</h1>
+<h1>Lecture Presentations</h1>
 ------
 {% for post in site.publications reversed %}
-  {% if post.pubtype == 'workshop_lecture' %}
+  {% if post.pubtype == 'lecture' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
