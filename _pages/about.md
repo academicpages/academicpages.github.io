@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate in the Multi-Robot Systems Lab at Stanford. I am interested in understanding complex multi-agent behavior and imbuing robots with agility and intelligence. I tackle these problems using techniques from machine learning, optimization, game theory, and biology. I am also a zoologist. I aim to draw computational tools from robotics and AI to study animal behavior. Currently, I am studying the movement ecology of large marine predators with Dr. Barbara Block at the Hopkins Marine Station.
+I am an undergraduate studying AI and robotics at Stanford. I work in the [Stanford Multi-Robot Systems Lab (MSL)](https://msl.stanford.edu/) with Prof. Mac Schwager. I have also worked on animal conservation and zoology - using computational tools from robotics and AI to study animal behavior. I have previously worked with Dr. Barbara Block at Stanford and Dr. Tim Higham at UC Riverside.
 
  <br/><img src='/images/jaden_nurseshark.png'>
