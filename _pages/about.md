@@ -12,11 +12,11 @@ redirect_from:
 
 # Research Interests （招生方向）:
 
-- Modern Optical Measurement Methods
+- Modern Optical Measurement Methods (现代光学测量方法)
 	- Digital image correlation (DIC)
 	- Moiré interferometry
 	- Projection fringe method
-- Experimental Mechanics
+- Experimental Mechanics （实验力学、技术与理论）
 	- Residual stress
 	- Three-dimensional topography measurement
 	- Hole drilling method
