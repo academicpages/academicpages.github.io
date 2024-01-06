@@ -10,17 +10,18 @@ redirect_from:
 （请在电脑浏览器中打开以浏览全部）  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iu4QsRcmD2Y?si=J_eFWuByqZKUPAwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 # Research Interests （招生方向）:
 
-- Modern Optical Measurement Methods (现代光学测量方法)
-	- Digital image correlation (DIC)
-	- Moiré interferometry
-	- Projection fringe method
-- Experimental Mechanics （实验力学、技术与理论）
-	- Residual stress
-	- Three-dimensional topography measurement
-	- Hole drilling method
-	- Finite element method
+- Modern Optical Measurement Methods (<font color=Blue>**现代光学测量方法**</font>)
+	- Digital image correlation [<font color=Blue>数字图像相关法</font>]
+	- Moiré interferometry [<font color=Blue>云纹干涉法</font>]
+	- Projection fringe method [<font color=Blue>条纹投影法</font>]
+- Experimental Mechanics （<font color=Blue>**实验力学、技术与理论**</font>）
+	- Residual stress [<font color=Blue>残余应力</font>]
+	- Three-dimensional topography measurement [<font color=Blue>三维形貌测量]</font>
+	- Hole drilling method [<font color=Blue>钻孔释放法</font>]
+	- Finite element method [<font color=Blue>有限单元法</font>]
 
 > 科学需要想象 想象来自阅读
 
