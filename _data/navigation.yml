@@ -6,8 +6,8 @@ main:
   - title: "Fieldwork"
     url: /talks/    
 
-#   - title: "Tutorials"
-#     url: /teaching/    
+  - title: "Photography"
+    url: /teaching/    
     
   - title: "Projects"
     url: /portfolio/
