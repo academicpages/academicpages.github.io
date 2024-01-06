@@ -23,6 +23,7 @@ redirect_from:
 	- Hole drilling method [<font color=SlateGray>钻孔释放法</font>]
 	- Finite element method [<font color=SlateGray>有限单元法</font>]
 
+***
 > 科学需要想象 想象来自阅读
 
 > 其他相关学者链接：[**陈巨兵** 教授](https://naoce.sjtu.edu.cn/teachers/chenjubing.html)；[**孙晨** 副研究员](https://naoce.sjtu.edu.cn/teachers/sunchen.html) 等
