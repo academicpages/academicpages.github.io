@@ -17,15 +17,21 @@ Previously, I graduated from the [Indian Institute of Technology Kharagpur](http
 Preprints
 ====
 
-**MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning**\
-Arundhati Banerjee, Soham Phade, Stefano Ermon, Stephan Zheng, 2023. | [arxiv](https://arxiv.org/abs/2304.04668)
-
-**Cost Aware Asynchronous Multi-Agent Active Search**\
-Arundhati Banerjee, Ramina Ghods, Jeff Schneider, 2021.  | [arxiv](https://arxiv.org/abs/2210.02259)
+**Decentralized Multi-Agent Active Search and Tracking when Targets Outnumber Agents**\
+Arundhati Banerjee and Jeff Schneider\
+*In Submission, 2023*.
 
 
 Publications 
 ====
+
+**MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning**\
+Arundhati Banerjee, Soham Phade, Stefano Ermon, Stephan Zheng\
+TMLR, 2023. | [paper](https://openreview.net/forum?id=H5VRvCXCzf)
+
+**Cost Aware Asynchronous Multi-Agent Active Search**\
+Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
+ECAI 2023.  | [paper](https://ebooks.iospress.nl/volumearticle/64201) | [talk](https://youtu.be/21lcOUUPTgY)
 
 **Multi-Agent Active Search using Detection and Location Uncertainty**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
@@ -47,9 +53,17 @@ ECIR 2019. | [paper](https://link.springer.com/chapter/10.1007/978-3-030-15719-7
 Workshop presentations
 ====
 
+**Decentralized and Asynchronous Multi-Agent Active Search and Tracking when Targets Outnumber Agents**\
+Arundhati Banerjee and Jeff Schneider\
+Workshop on Adaptive Experimental Design and Active Learning in the Real World @ NeurIPS 2023 | [paper](https://openreview.net/forum?id=xrz7hNsLNd)
+
+**MERMAIDE: Learning to Align Learners using Model-Based Meta-Learning**\
+Arundhati Banerjee, Soham Phade, Stefano Ermon, Stephan Zheng\
+Generalization in Planning (GenPlan) Workshop @ NeurIPS 2023 | [paper](https://openreview.net/pdf?id=JNIv4ghbGy)
+
 **Cost Aware Asynchronous Multi-Agent Active Search**\
 Arundhati Banerjee, Ramina Ghods, Jeff Schneider\
-WiML Un-Workshop @ ICML 2021 | [poster](files/poster_final.png)
+MODeM Workshop @ ECAI 2023 | [talk](https://youtu.be/21lcOUUPTgY)
 
 **Multi-Agent Active Search and Rescue**\
 Ramina Ghods, Arundhati Banerjee, William Durkin and Jeff Schneider\
@@ -69,9 +83,9 @@ Carnegie Mellon University, Spring 2021
 Service
 ====
 
-Reviewer for ICLR 2023, ICRA 2023
+Reviewer for ICLR (2023, 2024), ICRA 2023, ICML (2023, 2024), NeurIPS 2023, ECAI 2023, AISTATS 2024. 
 
-Mentored students as part of the CMU Undergrad AI Mentoring Program 2021, 2022
+Mentored students as part of the CMU Undergrad AI Mentoring Program 2021, 2022, 2023. 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
