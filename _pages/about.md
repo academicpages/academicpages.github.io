@@ -13,11 +13,11 @@ redirect_from:
 &nbsp;
 # Research Interests （招生方向）:
 
-- Modern Optical Measurement Methods (<font face="黑体" color=SlateGray>现代光学测量方法</font>)
+- Modern Optical Measurement Methods (<font face="黑体" color=Black>现代光学测量方法</font>)
 	- Digital image correlation [<font color=SlateGray>数字图像相关法</font>]
 	- Moiré interferometry [<font color=SlateGray>云纹干涉法</font>]
 	- Projection fringe method [<font color=SlateGray>条纹投影法</font>]
-- Experimental Mechanics （<font face="黑体" color=SlateGray>实验力学、技术与理论</font>）
+- Experimental Mechanics （<font face="黑体" color=Black>实验力学、技术与理论</font>）
 	- Residual stress [<font color=SlateGray>残余应力</font>]
 	- Three-dimensional topography measurement [<font color=SlateGray>三维形貌测量]</font>
 	- Hole drilling method [<font color=SlateGray>钻孔释放法</font>]
