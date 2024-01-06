@@ -11,13 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+* M.A. in psychology, University of Chicago, 2024 (expected)
+* B.S. Honors in Psychology, University of Alberta, Edmonton, AB, Canada, 2019-2023
+
+  
 Work experience
 ======
-* Summer 2015: Research Assistant
+* May-Aug 2022: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
