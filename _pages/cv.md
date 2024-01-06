@@ -13,7 +13,7 @@ Education
 ======
 
 * M.A. in psychology, University of Chicago, 2024 (expected)
-* B.S. Honors in Psychology, University of Alberta, Edmonton, AB, Canada, 2019-2023
+* B.S. Honors in Psychology, University of Alberta, 2019-2023
 
   
 Work experience
