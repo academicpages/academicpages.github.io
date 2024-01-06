@@ -30,7 +30,7 @@ collection: portfolio
 
 |蔡雨生|
 |:---------:|
-|![蔡雨生](/images/students/蔡雨生1.jpg "蔡雨生")|
+|![蔡雨生](/images/students/蔡雨生1.jpg "蔡雨生") ![科研](/images/students/epsilon_yy1.png "科研")|
 
 
 ![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1")  
