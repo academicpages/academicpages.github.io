@@ -30,16 +30,6 @@ We propose a practical physical layer black-box attack method to destroy the rob
 
   - Interest: Diffusion model and AI4Science.
   - Duty: I do research in Diffusion model and AI4Science. I study VAE, DDPM and DDIM, and try to solve combinatorial optimization problems by DDPM.
-<!-- 
-<img align="left" img src="cwru.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/> 
-<p align="center">
-  <img src="https://staymylove.github.io/images/c.jpg" style="height: 50px; width: 10px">
-</p>
-- 2023.06-Now The Department of Computer and Data Science in Case Western Reserve University
-
-  - Interest: multimodal and image generation. (Mentor: Prof.Yu Yin)
-  - Duty: I do research in image generation and multimodal.
--->
 
 <p align="center">
   <img src="https://staymylove.github.io/images/bjsy.jpg" style="height: 50px; width:140px">
