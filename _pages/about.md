@@ -58,7 +58,9 @@ Awards and Honors
 
 Contact
 =====
-My **E-mail**: mq_luoji@whu.edu.cn        
+My **E-mail**: 
+* ma.qi.math@gmail.com
+* mq_luoji@whu.edu.cn        
 
 Please Feel free to send me an e-mail.
 
