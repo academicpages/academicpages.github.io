@@ -75,7 +75,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 </font> -->
 
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848]). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)].
-* [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / (mail)[yushengsu.thu@gmail.com] and say "HI" to me.
+* [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / [mail](yushengsu.thu@gmail.com) and say "HI" to me.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in real-world.
 * [Aug. 2023] I got my Ph.D.! Thanks to all those who trust me and support me.
@@ -84,7 +84,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Apr. 2023] [Tool Learning](https://arxiv.org/pdf/2304.08354.pdf) survey was published. It demonstrates how recently proposed LLMs leverage the emerging ability to comprehend, create, and manipulate tools, thereby assisting humans in accomplishing their intended objectives.
 * [Jan. 2023] [Parameter-efficient Fine-tuning of Large-scale Pre-trained Language Models](https://www.nature.com/articles/s42256-023-00626-4) was accepted by [Natural Machine Intelligence](https://www.nature.com/natmachintell/) (Cover Article).
 * [Sep. 2022] Advancement of Foundation Models. Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarters, Germany.
-* [Jul. 2022] Will orally present our 2 accepted works at [NAACL 2022](https://2022.naacl.org/) (Seattle, USA). Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / (mail)[yushengsu.thu@gmail.com] and say "HI" to me.
+* [Jul. 2022] Will orally present our 2 accepted works at [NAACL 2022](https://2022.naacl.org/) (Seattle, USA). Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / [mail](yushengsu.thu@gmail.com) and say "HI" to me.
 * [Apr. 2022] [Transferability of Prompt Tuning](https://aclanthology.org/2022.naacl-main.290/) and [Knowledge Inheritance](https://aclanthology.org/2022.naacl-main.288/) are accepted to [NAACL 2022](https://2022.naacl.org/).
 
 <!-- <font color="gray"> </font> -->
