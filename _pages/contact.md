@@ -6,9 +6,6 @@ redirect_from:
   - /contact.html
 ---
 
-# Contact Me
-
----
 
 ## Let's Connect!
 
