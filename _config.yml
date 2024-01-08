@@ -85,10 +85,10 @@ author:
   bio              : "This is going to be an introduction of me."
   location         : "Canberra, Australia"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
   email            :
-  academia     :  "https://anu-au.academia.edu/NaijingLiu"
+  academia         :  "https://anu-au.academia.edu/NaijingLiu"
   uri              :
   bitbucket        :
   codepen          :
