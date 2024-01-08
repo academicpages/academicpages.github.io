@@ -13,5 +13,4 @@ Hello! I am a [SENSE](https://eo-cdt.org/) PhD student based in the [School of G
 I am supervised by Professor Peter Nienow, Professor Anna Hogg, Dr Encarni Medina-Lopez, Dr Andrew Sole and Dr Benjamin Davidson. My PhD is part of the NERC and UK Space Agency funded Centre for Doctoral Training "[SENSE](https://eo-cdt.org/)": the Centre for Satellite Data in Environmental Science.
 
 
-![](/images/greenland_river.JPG)
-*Supra-glacial river on Isunguata Sermia, West Greenland.*
+
