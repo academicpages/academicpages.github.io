@@ -87,16 +87,5 @@ Work experience
 
 
 
-Skills
-======
-* 5 years experience working with **Python**
-  * Google Earth Engine Python API
-  * *(xarray, cartopy, iris, matplotlib, etc)*
-* 3 years experience working with **Linux-based high performance computers** (e.g. JASMIN) 
-  * Experience in writing job scripts in bash
-  * Experience with using schedulers such as SLURM and SGE
-* **QGIS**
-* **R**
-
 
 
