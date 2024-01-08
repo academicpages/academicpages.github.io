@@ -24,6 +24,7 @@ collection: portfolio
 |于帝伟| 曹宇|
 |:-----------:|:----------:|
 |![于帝伟](/images/students/于帝伟1.jpg "于帝伟")| ![曹宇](/images/students/曹宇1.jpg "曹宇")|
+|![科研](/images/students/微信图片_于帝伟.png "科研")| ![曹宇](/images/students/微信图片_曹宇.png "科研")|
 
 
 # 2020级
