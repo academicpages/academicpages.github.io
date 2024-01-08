@@ -74,6 +74,10 @@ Projects
 
 **Remote medical monitoring system based on IOT** [Link](https://github.com/Changjing-Liu/remote-medical-monitoring)
 + Completed hardware and software design of the terminal device, implemented the heart rate and blood oxygen collection algorithm.
-+ deployed the IoT platform and cloud server for data storage and query.
++ Deployed the IoT platform and cloud server for data storage and query.
 + Designed Web and WeChat remote medical monitoring platform for visualization and control.
 
+Awards and Honors
+======
++ Graduate Outstanding Scholarship at Shanghai Jiao Tong University ( **Top 10%**), 2023
++ Second-Class Master's Academic Scholarship at Shanghai Jiao Tong University, 2022
