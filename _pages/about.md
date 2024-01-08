@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University](https://eecs.pku.edu.cn/https://en.sjtu.edu.cn/), Shanghai, China, welcome to my website!
+Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University](https://eecs.pku.edu.cn/https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
 Right now I major in Instrument Acience and Technology.
 My current research interest mainly focus on medicial simulation and medicial robotics supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. GuoZheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
 
