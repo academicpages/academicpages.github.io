@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your name/ Site Title"
+title                    : "Dr."
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : "Naijing Liu"
+description              : "..."
 url                      : https://NaijingL.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Naijing Liu"
   avatar           : "NL_pic.png"
   bio              : "This is going to be an introduction of me."
-  location         : "Location"
+  location         : "Canberra, Australia"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
