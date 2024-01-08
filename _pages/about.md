@@ -63,6 +63,16 @@ Publications
 
 Projects
 ======
+**Mar. 2022 - Mar. 2024**
+
+Reseracher, Medical Precision Engineering and Intelligent System Lab, SJTU
+
++ Designed and optimized pressure sensors and embedded software for artificial anal sphincter ( AAS) system.
++ Proposed a simulation platform of AAS mechanical motion and pressure sensors with intestinal environment using [SOFA](https://www.sofa-framework.org/community/doc/) ( framework for medical simulation and robotics), and evaluated it in vitro experiments.
++ Proposed a hybird LSTM-Kalman algorithm for defecation perception reconstruction, and used the proposed simulation platform for dataset expansion and model training.
++ Submitted [Pull Request](https://github.com/sofa-framework/sofa/pull/3164) to solve variable compatibility in SOFA, and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
+
+
 
 
 
