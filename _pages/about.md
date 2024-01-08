@@ -30,12 +30,15 @@ Education
 Work experience
 ======
 **Jul. 2023 - Sept. 2023**
+
 Autopilot Software Engineer Intern, Huawei Technologies Co., Ltd.
 + Researched on ROS parsing of autopilot simulation, and implemented general parser and introspection.
 + Developed a ROS parser in autopilot simulation, experimented and analyzed the parsing complexity and speed.
 
 
 **Jul. 2021 - Aug. 2021**
+
+Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 + Developed cartesian path decoupling and terminal velocity/acceleration global control on Windows with roslibpy.
 + Proposed algorithm on robotic arm for end-effector error estimation, enhancing antenna near-field test accuracy.
 
