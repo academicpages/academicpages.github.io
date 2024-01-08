@@ -6,54 +6,103 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
-
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
+## My Philosophy
+> "There's a solution to every problem, and I am passionate about finding it."
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+---
+
+## Experience
+
+### DevOps Lead
+#### Tiger Analytics Pvt Ltd, Chennai, India
+*July 2022 - Present*
+- Accelerated deployment cycle through ETL pipeline automation for a BFS provider.
+- Implemented CI/CD automation in the Europe region, reducing manual deployment time by half.
+- Cut Data bricks costs by 35% using a microservice architecture on Azure for a global CPG brand.
+- Developed a one-click infrastructure deployment solution using Azure DevOps and Terraform.
+- Enhanced CI/CD for Databricks, Data Factory, Synapse Analytics, and Power BI, ensuring full compliance with security protocols.
+
+### Cloud Admin
+#### PINACLE TECHNOLOGIES PVT. LTD, Bangalore, India
+*November 2020 - July 2022*
+- Managed migration of 50+ workloads to ARM-based Azure Cloud on schedule.
+- Established a serverless notification system on Azure with 99% uptime, automating alerts for government databases.
+
+### Server Admin
+#### QUESS CORP LIMITED, Bangalore, India
+*November 2019 - November 2020*
+- Collaborated with teams at the Global Data centre of an international Bank, expediting Azure transition.
+- Integrated GIT with GitHub and streamlined CI/CD, cutting deployment times for Full-stack applications.
+
+### System Admin
+#### PRECISION INFOMATIC PVT LTD, Kolkata, India
+*October 2017 - November 2019*
+- Optimized Active Directory, enhancing security.
+- Implemented Backup solutions, ensuring consistent data recovery.
+
+---
+
+## Online Contributions
+
+### Publications & Writing Skills
+- Published works available on 
+  - [Medium](https://kunaldaskd.medium.com)
+  - [Blog](https://kunalworldwide.github.io/year-archive/)
+### Problem Solving
+- GeeksforGeeks: [kunal_das](https://auth.geeksforgeeks.org/user/kunal_das)
+
+---
+
+## Skills
+Azure CLI, ARM, Python, Bash, PowerShell, Docker, Git, HCL, SonarQube, Kubernetes, Selenium, YAML, IAC, Jenkins, JSON, Terraform, CI/CD, Azure DevOps, GitHub Actions, MLOps, Grafana
+
+---
+
+## Certifications
+
+### Microsoft Azure
+- [AZ-400](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/8EE29C994AF3E0FB?sharingId=D3163C5C8DC3CA89)
+- [AZ-104](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/C7C88BA78C786F7C?sharingId=D3163C5C8DC3CA89)
+- [AZ-204](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/B74FC4B5FAB93252?sharingId=D3163C5C8DC3CA89)
+- [AZ-700](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/386D2CE66397401B?sharingId=D3163C5C8DC3CA89)
+
+### HashiCorp Terraform
+- [HashiCorp Terraform Associate (003)](https://www.credly.com/badges/82c75d4f-a7a6-412e-b289-9af5e595c855/public_url)
+
+---
+
+## Languages
+- Bengali - Native
+- English - Proficient
+- Hindi - Proficient
+- Spanish - Beginner
+
+---
+
+## Education
+
+### MS in Data Science
+#### Liverpool John Moores University
+*Ongoing*, Liverpool, UK
+
+### B. Tech in Electronics and Communication Engineering
+#### Seacom Engineering College
+*2021*, West Bengal, India
+
+### Diploma in Electronics and Telecommunication Engineering
+#### Ramakrishna Mission Shilpamandira
+*2017*, West Bengal, India
+
+---
+
+## Personal Details
+- **Date of Birth:** 27th March 1996
+- **Gender:** Male
+
+---
+
+
+**Contact Information:**
+- Email: [KunalDas@protonmail.com](mailto:KunalDas@protonmail.com)
