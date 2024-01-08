@@ -50,6 +50,7 @@ redirect_from:
 - Published works available on 
   - [Medium](https://kunaldaskd.medium.com)
   - [Blog](https://kunalworldwide.github.io/year-archive/)
+  
 ### Problem Solving
 - GeeksforGeeks: [kunal_das](https://auth.geeksforgeeks.org/user/kunal_das)
 
