@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-* I'm a PhD student at Iowa State University, studying in the [Program Analysis Lab (PAL)](http://weile.work/lab.html) under Dr. [Wei Le](http://weile.work/).
-* I'm also working as a research intern at Microsoft under [Alexey Svyatkovskiy](https://www.microsoft.com/en-us/research/people/alsvyatk/) and [Michele Tufano](https://tufanomichele.com/) during Summer 2023, ongoing.
-* I earned my Master's degree from Iowa State University in Fall 2021, studying under Dr. [Wei Le](http://weile.work/). See details of my thesis [here](/publication/2021-12-19-msthesis).
+* I'm a PhD student at Iowa State University, working on research in the [Program Analysis Lab (PAL)](http://weile.work/lab.html) under [Dr. Wei Le](http://weile.work/).
+* I worked as a research intern at Microsoft under [Alexey Svyatkovskiy](https://www.microsoft.com/en-us/research/people/alsvyatk/) and [Michele Tufano](https://tufanomichele.com/) from Summer 2023 to December 2023.
+* I earned my Master's degree from Iowa State University in Fall 2021, studying under [Dr. Wei Le](http://weile.work/). See details of my thesis [here](/publication/2021-12-19-msthesis).
 * I earned my Bachelor's degree from Bob Jones University in Spring 2019.
 * I have several years of software engineering experience with `C#/ASP.NET` and `Azure` stack, in the domains of precision agriculture at [Ag Leader](https://www.agleader.com/) and Amazon fulfillment center management at [Roney Innovations](https://www.roneyinnovations.com/).
 
