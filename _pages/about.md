@@ -63,9 +63,7 @@ Publications
 
 Projects
 ======
-**Mar. 2022 - Mar. 2024**
-
-Pysicial simulation and defecation perception algorithm for artificial anal sphincter system
+**Pysicial simulation and defecation perception algorithm for artificial anal sphincter system**
 
 + Designed and optimized pressure sensors and embedded software for artificial anal sphincter ( AAS) system.
 + Proposed a simulation platform of AAS mechanical motion and pressure sensors with intestinal environment using [SOFA](https://www.sofa-framework.org/community/doc/) ( framework for medical simulation and robotics), and evaluated it in vitro experiments.
