@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
+Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
 Right now I major in Instrument Acience and Technology.
 My current research interest mainly focus on medicial simulation and medicial robotics supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. GuoZheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
 
@@ -18,5 +18,12 @@ During my undergraduate studies, I mainly focused on drone visuial tracking unde
 I'm looking for a job or Ph.D opportunity in the field of medicial simulation, robotics, etc.
 
 
-A data-driven personal website
+Education
 ======
++ M.Sc in Instrument Acience and Technology, Sept. 2021 - Mar. 2024 (expected)
+
+  School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University
+  
++ B.Eng. in Mechanical Engineering, Sept. 2017 - Aug. 2021
+
+  School of Mechanical and Energy Engineering, Tongji University
