@@ -54,13 +54,15 @@ Publications
 
 + Artificial Organs, 2023 (SCI Q3)
 
-<br/>
 
 **Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking**
 
 + Changhong Fu*, Xiaoxiao Yang, Fan Li, Juntao Xu, **Changjing Liu**, Peng Lu
 
 + IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+
+Projects
+======
 
 
 
