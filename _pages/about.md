@@ -72,7 +72,7 @@ Pysicial simulation and defecation perception algorithm for artificial anal sphi
 + Proposed a hybird LSTM-Kalman algorithm for defecation perception reconstruction, and used the proposed simulation platform for dataset expansion and model training.
 + Submitted [Pull Request](https://github.com/sofa-framework/sofa/pull/3164) to solve variable compatibility in SOFA, and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
 
-
+![tupian](https://github.com/Changjing-Liu/Changjing-Liu.github.io/tree/master/images/my.png)
 
 
 
