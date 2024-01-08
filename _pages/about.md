@@ -16,6 +16,7 @@ Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) 
 During my undergraduate studies, I mainly focused on **drone visuial tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
 
 I'm looking for a job or Ph.D opportunity in the field of **medicial simulation, robotics**, etc.
+Click [here]() to find my up-to-date CV.
 
 
 Education
