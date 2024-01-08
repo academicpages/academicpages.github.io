@@ -26,6 +26,7 @@ Education
 **Sept. 2017 - Aug. 2021**
 + B.Eng. in Mechanical Engineering, School of Mechanical and Energy Engineering, Tongji University
 
+<br/>
 
 Work experience
 ======
@@ -42,21 +43,22 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 + Developed cartesian path decoupling and terminal velocity/acceleration global control on Windows with roslibpy.
 + Proposed algorithm on robotic arm for end-effector error estimation, enhancing antenna near-field test accuracy.
 
+<br/>
 
 Publications
 ======
 
 **Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA**
 
-+ **Changjing Liu**, Zhiwu Wang*, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen
+**Changjing Liu**, Zhiwu Wang*, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen
 
-+ Artificial Organs, 2023 (SCI Q3)
+Artificial Organs, 2023 (SCI Q3)
 
 **Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking**
 
-+ Changhong Fu*, Xiaoxiao Yang, Fan Li, Juntao Xu, **Changjing Liu**, Peng Lu
+Changhong Fu*, Xiaoxiao Yang, Fan Li, Juntao Xu, **Changjing Liu**, Peng Lu
 
-+ IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
 
 
