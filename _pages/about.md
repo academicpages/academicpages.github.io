@@ -81,3 +81,5 @@ Awards and Honors
 ======
 + Graduate Outstanding Scholarship at Shanghai Jiao Tong University ( **Top 10%**), 2023
 + Second-Class Master's Academic Scholarship at Shanghai Jiao Tong University, 2022
++ First Prize Scholarship at Tongji University ( Top 5\%), 2020
++ Sencond Prize of Shanghai Undergraduate Mathematical Contest in Modeling, 2019
