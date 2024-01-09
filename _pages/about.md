@@ -18,6 +18,7 @@ During my undergraduate studies, I mainly focused on **drone visuial tracking** 
 I'm looking for a job or Ph.D opportunity in the field of **medicial simulation, robotics**, etc.
 Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.pdf) to find my up-to-date CV.
 
+<br/>
 
 Education
 ======
@@ -62,6 +63,8 @@ Publications
 
 + IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
+<br/>
+
 Projects
 ======
 **Pysicial simulation and defecation perception algorithm for artificial anal sphincter system**
@@ -77,6 +80,8 @@ Projects
 + Completed hardware and software design of the terminal device, implemented the heart rate and blood oxygen collection algorithm.
 + Deployed the IoT platform and cloud server for data storage and query.
 + Designed Web and WeChat remote medical monitoring platform for visualization and control.
+
+<br/>
 
 Awards and Honors
 ======
