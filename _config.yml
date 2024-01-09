@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liu, Junjie(Chunkit Lau)" # "Your Name / Site Title"
+title                    : "Liu, Junjie(Chunkit Lau, 刘俊杰)" # "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Junjie Liu" # "Your Name"
+name                     : &name "Junjie Liu (刘俊杰)" # "Your Name"
 description              : &description "personal description"
 url                      : "https://chunkitlau.github.io" # https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ author:
   location         : "Hong Kong SAR" # "Location"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=pSkfLwgAAAAJ"
   email            : "chunkit.j.lau@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Junjie-Liu-5" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
