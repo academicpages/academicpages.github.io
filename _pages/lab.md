@@ -3,6 +3,16 @@ layout: archive
 title: "Computational Science and Machine Learning Lab (CSML)"
 permalink: /lab/
 author_profile: false
+
+gallery:
+  - url: people/test.png
+    image_path: people/test.png
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: people/test.png
+    image_path: people/test.png
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
 ---
 
 {% include base_path %}
@@ -34,6 +44,7 @@ At CSML, we believe in providing our students with individual attention, clear e
 
 ## Lab Members
 
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
 ## Prospective Students
 
