@@ -35,12 +35,12 @@ framework over 100 knowledge graphs. The paper got **best paper award nomination
 
 - 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
 
-  - Interest: Diffusion model and AI4Science. (Mentor: Prof.Jian Cheng)
+  - Interest: Diffusion model and AI4Science. 
   - Duty: I do research in diffusion model, AIG and AI4Science.
 
 - 2023.07-Now GAP Lab, Chinese University of Hong Kong (Shenzhen)
 
-  - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han and Shuguang Cui)
+  - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han)
   - Duty: I do research in image and 3d generation methods such as zero123, T2I-Adapter
 and Clipasso. We work on the topic ’Sketch to 3D’, using text prompts and simple
 sketch to controllable generate high-quality 3D objects. Our paper will submit to
@@ -48,20 +48,21 @@ SIGGRAPH2024.
 
 - 2023.08-Now Beĳing Shuyuan Technology Co., Ltd
   - Interest: multi-modal, 3d scene understanding and LLM.
-  - Duty: I do research in understanding and perception of 3D scenes, and feed visual and
-multimodal information into LLM to create a multimodal 3D large model. The multimodal model can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks (segmentation, QA, positioning)
-more effective. Our paper will submit to ECCV2024.
+  - Duty: I do research in understanding and perception of 3D scenes, and inject visual and
+multi-modal information into LLM to create a multi-modal 3D LLM. The 3D LLM can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks (segmentation, QA, positioning)
+more effective. Our work is available at https://arxiv.org/abs/2401.03201. I will focus on the topic of 3D-LLM which can understand and generate 3D.
 
 
 
 
 ## Publications
-- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(CCF-C)** [[pdf]](http://staymylove.github.io/files/ICC2023.pdf)
-- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(Best Paper Award Nomination)** [[pdf]](https://arxiv.org/abs/2305.04567)
-- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](http://staymylove.github.io/files/VTC2022.pdf)
-- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**
-- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu.
-Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**
+- **Zeju Li**, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. 3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding. Under Review, [[pdf]](https://arxiv.org/abs/2401.03201) [[code]](https://github.com/staymylove/3DMIT)
+- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(Communication top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10278790)
+- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(AI+education top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10328183)
+- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](https://ieeexplore.ieee.org/document/10012766)
+- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://ieeexplore.ieee.org/document/10328183)
+- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
+
 
 ## Awards
 
@@ -69,7 +70,9 @@ Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Dist
 
 - Singapore International Pre-Graduate Award(SIPGA)
 
-- National Scholarship for Encouragement (2021,2022,2023)
+- People’s Daily Scholarship 2023
+  
+- China National Endeavor Scholarship (2021,2022,2023)
   
 - The 1st prize of the National Software and Information Technology Professionals Competition of python program design in the Blue Bridge Cup[[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
   
