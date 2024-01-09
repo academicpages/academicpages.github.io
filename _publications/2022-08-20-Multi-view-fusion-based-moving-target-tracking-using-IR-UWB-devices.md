@@ -1,12 +1,13 @@
 ---
-title: "Multi-view fusion based moving target tracking using IR-UWB devices"
+title: "Moving Target Tracking Based on Multi-view Fusion Using IR-UWB Radar"
 collection: publications
 permalink: /publication/2022-08-20-Multi-view-fusion-based-moving-target-tracking-using-IR-UWB-devices
 excerpt: 'In this paper, we propose a moving target tracking method using IR-UWB signals on the basis of understanding the composition of the received signal spectrum in multipath environments.'
 date: 2022-08-20
-venue: 'Journal of Software(accepted)'
-paperurl: 'http://'
-citation: 'Weiyan Chen, Fusang Zhang, <b>Junjie Liu</b> and Daqing Zhang. Multi-view fusion based moving target tracking using IR-UWB devices. Journal of Software(accepted)'
+venue: 'Journal of Software'
+paperurl: 'http://www.jos.org.cn/jos/article/pdf/6760'
+citation: 'Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
+Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm'
 ---
 
 ## Abstract
@@ -14,15 +15,12 @@ In recent years, the localization and tracking of moving targets have been widel
 
 ## Key words
 
-IR-UWB; UWB; Contactless Sensing; Distance measurement; Indoor localization; Target tracking;
+ubiquitous computing; contactless sensing; IR-UWB; UWB; distance measurement; indoor localization; target tracking
 
+[Download paper here](https://www.jos.org.cn/jos/article/pdf/6760)
 
-<!--
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
--->
+Recommended citation: Chen WY, Zhang FS, Liu JJ, Bao P, Zhang DQ. Moving Target Tracking Based on Multi-view Fusion Using IR-UWB
+Radar. Ruan Jian Xue Bao/Journal of Software, 2023, 34(12): 5457–5476 (in Chinese). http://www.jos.org.cn/1000-9825/6760.htm
 
-
-
-<!--
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
--->
+Recommended citation（in Chinese）: 陈蔚燕, 张扶桑, 刘俊杰, 包鹏, 张大庆. 基于IR-UWB雷达的多视角融合动态目标追踪. 软件学报, 2023, 34(12):
+5457–5476. http://www.jos.org.cn/1000-9825/6760.htm
