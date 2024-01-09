@@ -3,8 +3,8 @@ main:
   # - title: "Articles"
   #   url: /articles/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
   - title: "Posts"
     url: /year-archive/
