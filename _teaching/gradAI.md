@@ -1,8 +1,8 @@
 ---
-title: "Artificial Intelligence (CECS 451)"
+title: "Advanced Artificial Intelligence (CECS 551)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/uai
+type: "Graduate course"
+permalink: /teaching/gradAI
 venue: "CSU Long Beach"
 date: 2024-01-01
 location: "Long Beach, USA"
@@ -12,23 +12,24 @@ location: "Long Beach, USA"
 
 ## Course Outline 
 
-This course delves into the foundational concepts and algorithms of modern artificial intelligence (AI); it offers a hands-on approach where students learn through projects, covering topics such as search algorithms, optimization, supervised learning, and probabilistic inference, all within the context of AI and machine learning. The course involves practical Python programming, where students use AI libraries as well as their own implementation of AI algorithms to solve different puzzles. 
+This course is an in-depth exploration of Artificial Intelligence, designed to provide a comprehensive understanding of the principles and practical applications of AI. It begins with a foundational review of Probability, Statistics, and Linear Algebra, crucial for grasping AI algorithms. The course then delves into various aspects of AI, including Search Algorithms, Logical Inference, and Inference under Uncertainty, providing insights into how AI systems process information and make decisions. We also dedicate time to Machine Learning and Advanced Deep Learning, where students learn about different learning models and neural network architectures. Key applications of AI in fields like Natural Language Processing and Computer Vision, are showcased. The course involves programming projects in Python. 
 
-|   Artificial Intellegence   |    (CECS 451)  |
+
+|   Artificial Intellegence   |    (CECS 551)  |
 |---|---|
 | Instructor | Dr. Arash Sarshar ([email](mailto:arash.sarshar@csulb.edu)) |
 | Term  | Spring 2024 |
-| Class Day & Time |  Fr 12:00PM - 2:45PM |
-| Class location   | ECS 403|
+| Class Day & Time | Fr 9:00AM - 11:45AM|
+| Class location   | 	HSCI 103|
 | Office Hours | TBD (Check Canvas)
 
 ## Learning Outcomes
 The primary objectives of this course is for the students to be able to:
 
-- Understand and utilize AI models and algorithms.
-- Critically analyze the present trends and challenges in AI research.
+- Understand and utilize AI algorithms 
 - Construct AI-based solutions to a variety of practical problems.
-- Demonstrate understanding of the repercussions and ethical considerations of AI technologies.
+- Critically analyze the present trends and challenges in AI research.
+
 ## Modules
 
 ### Probability, Statistics, and Linear Algebra Review 
@@ -55,6 +56,7 @@ The primary objectives of this course is for the students to be able to:
 
 - Bayesian Networks. 
 - Sampling methods: Direct and Weighted sampling.
+- Hidden Markov Models:  Gibbs and MCMC sampling.
 
 ### Finding Optimal Solutions
 
@@ -69,16 +71,23 @@ The primary objectives of this course is for the students to be able to:
 -  Reinforcement Learning: Markov Decision Processes, Q-Learning.
 
 
-### Deep Learning for AI
+### Advanced deep Learning for AI
 
 - Neural Networks: Layers, activation, back-propagation, and training of neural networks.
+- Generative Models: GANs, Normalizing Flows, and Diffusion models.
 
-### Ethics of AI
 
-- Understanding AI ethics: bias in machine learning.
-- Fairness, accountability, and transparency in AI systems.
-- Privacy and security considerations in AI applications.
-- Real-world case studies on AI ethics and responsible AI.
+### Natural Language Processing
+
+- Transformer architecture
+- Large Language models (GPT, BERT)
+- Sentiment Analysis, Machine translation,  and Text Generation
+
+### Computer Vision
+
+- Convolutional Neural Networks
+- Image Recognition and Image Generation
+
 
 
 ## Learning Resources
