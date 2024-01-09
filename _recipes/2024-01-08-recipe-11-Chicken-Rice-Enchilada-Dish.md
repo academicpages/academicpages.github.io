@@ -1,0 +1,40 @@
+---
+title: "Reverse Sear Prime Rib"
+collection: recipes
+type: "Dips: "
+permalink: /recipes/2024-01-08-recipe-10-Reverse-Sear-Prime-Rib
+venue: "Prep Time: 0h12m, Total Time: 0h40m"
+date: 2024-01-08
+location: "Cooking Time: 0h18m"
+tags: 
+---
+
+The only four cheese spinach dip you'll ever need. Fry the pitas for extra crunch
+
+![Spinach Dip](/images/Recipes_Spinach-Dip.jpg)
+
+[Recipe Source](https://www.allrecipes.com/recipe/245638/reverse-sear-prime-rib-roast/)
+
+###### Ingredients
+
+- 8 ounces cream cheese, softened [230g, 15 tbsp]
+- 3/4 tsp garlic powder
+- 1/4 cup freshly grated Parmesan cheese [not packed]
+- 1 tbsp freshly grated Romano cheese [not packed]
+- 1 tbsp very finely chopped red bell pepper [rounded]
+- 1 green onion, white and green finely chopped [scallion]
+- 1/2 package (10 ounce size) frozen chopped spinach, thawed and squeezed dry
+- 1/2 cup grated medium Cheddar cheese
+- 1 pinch cayenne pepper
+
+
+###### Instructions
+
+1. Preheat oven to 400 degrees F
+2. Combine the cream cheese, garlic powder, Parmesan, and Romano with a hand or stand mixer on medium speed until well mixed
+3. Add the red bell pepper and green onion and mix on medium-low until just mixed in
+4. Add the spinach and mix on low until just incorporated
+5. Transfer the mixture to an ovenproof dish and top with cheddar cheese and cayenne - to taste
+6. Bake at 400F for 15-18 minutes or until the edges are bubbly
+7. Remove the dish from the oven and let sit for 5-7 minutes before serving. 
+8. Serve with fried or baked pita wedges or tortilla chips.
