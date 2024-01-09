@@ -24,7 +24,7 @@ Our another paper [*Learning to Schedule Multi-NUMA Virtual Machines via Reinfor
 
 **References**
 - **Junjie Sheng**, **Shengliang Cai**, **Haochuan Cui**, **Wenhao Li**, **Yun Hua**, **Bo Jin**, W. Zhou, Y. Hu, L. Zhu, Q. Peng, **Hongyuan Zha** and **Xiangfeng Wang**, VMAgent: A Practical Virtual Machine Scheduling Platform. *IJCAI-Demos*, 2022. (**The [VMAgent](https://github.com/mail-ecnu/VMAgent) Simulator**)
-
+- Junjie Sheng, Yiqiu Hu, Wenli Zhou, Lei Zhu, Bo Jin, Jun Wang and Xiangfeng Wang, Learning to Schedule Multi-NUMA Virtual Machines via Reinforcement Learning, Pattern Recognition, 121, 2022, pp.108254.
 
 <iframe
 	src="https://mail-cs-ecnu-text-gym-agents.hf.space"
