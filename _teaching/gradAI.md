@@ -69,13 +69,12 @@ The primary objectives of this course is for the students to be able to:
 -  Supervised Learning: Nearest-Neighbor Classification, Linear models, Support Vector Machines.
 -  Unsupervised Learning: k-means Clustering.
 -  Reinforcement Learning: Markov Decision Processes, Q-Learning.
+-  Neural Networks: Layers, activation, back-propagation, and training 
 
 
-### Advanced deep Learning for AI
+### Advanced Deep Learning for AI
 
-- Neural Networks: Layers, activation, back-propagation, and training of neural networks.
 - Generative Models: GANs, Normalizing Flows, and Diffusion models.
-
 
 ### Natural Language Processing
 
