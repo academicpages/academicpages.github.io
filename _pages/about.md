@@ -74,7 +74,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
 
-* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848]). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)].
+* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)].
 * [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in real-world.
@@ -193,7 +193,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com
 -->
 
 ## Talks
-* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba-businesses-1496657217451982848]). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)]
+* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)]
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
 * [Jul. 2022] Oral Talk @ NAACL 2022, [[slide](https://drive.google.com/file/d/1OSmU3s7DOv-Gux5JcjuY0w79MzRRJuiA/view?usp=sharing)] [[video](https://www.youtube.com/watch?v=KVgmtgMQ3ig)]
