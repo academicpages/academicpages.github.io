@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-**Kunal Das: Passionate Innovator in DevOps and Cloud Technologies**
+**Passionate Innovator in DevOps and Cloud Technologies**
 
 Welcome to my world! I'm Kunal, a fervent problem-solver specializing in DevOps and Cloud Administration. With a rich background in automating and optimizing technology infrastructures, I excel in crafting efficient, scalable solutions. 
 
