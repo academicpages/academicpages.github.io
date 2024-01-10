@@ -16,23 +16,23 @@ My **research interests** are in develloping robust and efficient Bayesian infer
 
 News
 ======
-- **Nov. 23** Thrilled to accept a [poster](poster_ICASSP2023.pdf) <span style="color:#98BF64"> <u> award</u></span> </body>  at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) 2023!
+- **Nov. 23** Thrilled to accept a [poster](poster_ICASSP2023.pdf) <span style="color:#98BF64"> <u> award</u></span>  at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) 2023!
 
 - **Oct. 23** Happy to attend and present a poster at the [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) workshop in Marseille, France!
 
 - **Jun. 23** Happy to attend and present a poster at [MCM 2023](https://mcm2023.sciencesconf.org)!
 
-- **Jun. 23** <body> <span style="color:#98BF64"> <u> Poster presented</u> </span> </body> at [IEEE ICASSP 2023](https://2023.ieeeicassp.org) in Rhodes island, Greece.
+- **Jun. 23** <span style="color:#98BF64"> <u> Poster presented</u> </span> at [IEEE ICASSP 2023](https://2023.ieeeicassp.org) in Rhodes island, Greece.
 
 - **Mar. 23** Glad to attend and present a poster at [BayesComp 2023](https://bayescomp2023.com) in Levi, Finland!
 
 - **Mar. 23** Excited to attend the inaugural [Probabilistic Numerics Spring School](http://probnumschool.org/pages/home.html) in Tübingen, Germany!
 
-- **Feb. 23** <body> <span style="color:#98BF64"> <u> Paper accepted</u> </span> </body> at [IEEE ICASSP 2023](https://2023.ieeeicassp.org)!
+- **Feb. 23** <span style="color:#98BF64"> <u> Paper accepted</u> </span> at [IEEE ICASSP 2023](https://2023.ieeeicassp.org)!
 
-- **May 22** <body> <span style="color:#98BF64"> <u> Oral presentation</u> </span> </body> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org) in Singapore. 
+- **May 22** <span style="color:#98BF64"> <u> Oral presentation</u> </span> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org) in Singapore. 
 
-- **Jan. 22** <body> <span style="color:#98BF64"> <u> Paper accepted</u> </span> </body> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org)!
+- **Jan. 22** <span style="color:#98BF64"> <u> Paper accepted</u> </span> at [IEEE ICASSP 2022](https://2022.ieeeicassp.org)!
 
 Publications
 ======
