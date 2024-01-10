@@ -16,7 +16,7 @@ My **research interests** are in develloping robust and efficient Bayesian infer
 
 News
 ======
-- Nov. 23 | Thrilled to accept a [poster](kostastsa.github.io/files/poster_ICASSP2023.pdf) award at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates)!
+- Nov. 23 | Thrilled to accept a [poster](poster_ICASSP2023.pdf) award at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates)!
 
 - Oct. 23 | Happy to attend the [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) workshop in Marseille!
 
