@@ -12,9 +12,15 @@ About me
 ======
 I am a PhD student in Statistics at the School of Mathematics, [University of Edinburgh](https://www.ed.ac.uk), supervised by [Víctor Elvira](https://victorelvira.github.io). Previously I studied physics at the [University of Crete](https://www.physics.uoc.gr/en/home) and mathematics at [Washington State University](https://www.math.wsu.edu)
 
-Reseach Interests
+My **research interests** are in develloping robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing. My PhD work is focused on Bayesian filtering and smoothing of state-space models.
+
+News
 ======
-I am interested in developping robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing. My PhD work is focused on Bayesian filtering and smoothing of state-space models.
+- Nov. 23 | Thrilled to accept a poster award at [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates). 
+
+<a href="kostastsa.github.io/files/poster_ICASSP2023.pdf" target="_blank">[poster].</a>
+
+- Oct. 23 | Happy to attend the [Bayes@CIRM](https://bayesatcirm.github.io/2023/#important_dates) workshop in Marseille!
 
 Publications
 ======
