@@ -4,7 +4,7 @@ main:
     url: /teaching/    
     
   - title: "Research"
-    url: /research/  
+    url: /_research/  
     
   - title: "Publications"
     url: /publications/
@@ -13,5 +13,5 @@ main:
     url: /talks/
 
   - title: "Professional Experience"
-    url: /professional/
+    url: /_professional/
     
