@@ -3,9 +3,9 @@ title: Example number two
 published: false
 description: Example number two article
 tags: 'productivity, beginners, test'
-cover_image: https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png
+cover_image: 'https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png'
 canonical_url: null
-id: 
+id: 1724481
 ---
 
 ## Read my blogs : 
