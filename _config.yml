@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Satyajith's Homepage"
 title_separator          : "-"
 name                     : &name "Satyajith Bommana Boyana"
-description              : &description "I am PhD candidate in Computational Mathematics at UNCG, Greensboro, NC."
+description              : &description "personal description"
 url                      : https://satyajithboyana.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SatyajithBoyana/SatyajithBoyana.github.io"
@@ -85,7 +85,7 @@ author:
   bio              : "I am PhD candidate in Computational Mathematics @ UNCG"
   location         : "Greensboro, NC"
   employer         : "UNCG"
-  linkedin         : "www.linkedin.com/in/satyajith-bommana-boyana"
+  linkedin         : "satyajith-bommana-boyana"
 
 
 
