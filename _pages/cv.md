@@ -15,7 +15,7 @@ Education
 * B.S. in Aesthetics, PUC Chile, 2009
 * M.S. Computational Biology and Biomedicine, Ecole Polytechnique Universitaire de Nice Sophia Antipolis, France , 2010 to 2011
 * Ph.D in Sciences, Specialty: Control, Signal and Image Processing, University of  Nice- Sophia-Antipolis, 2014. Supervisor: Bruno Cessac
-
+* HDR, Specialty: Neuroscience, University of Paris Saclay, 2023.
 
 Work experience
 ======
@@ -28,10 +28,13 @@ Work experience
 * Joint Professor at CIMFAV
   * Faculty of Engineering, University of Valparaiso
   
-* Postdoc BRICON project, From June 2021
+* Postdoc Human Brain Project, From June 2021
   * Institute of Neuroscience (NeuroPSI), Paris-Saclay University, CNRS, Gif-sur-Yvette
   * Supervisor: Alain Destexhe
 
+* Postdoc ENS, From June 2021
+  * Laboratoire de physique de l’École normale supérieure, Paris
+  * Supervisor: Thierry Mora
 
 Publications
 ======
