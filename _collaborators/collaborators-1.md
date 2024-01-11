@@ -26,6 +26,10 @@ permalink: /collaborators/
 
 -[Enzo Tagliazzuchi](https://www.cocucolab.org/)
 
+-[Jacobo Sitt](https://institutducerveau-icm.org/en/member/?user=1006)
+
+-[Béchir Jarraya](https://scholar.google.com/citations?user=Bfkkb-UAAAAJ&hl=en)
+
 -[Ruben Herzog](https://scholar.google.com/citations?user=GDW5LSsAAAAJ&hl=es)
 
 -[Marilyn Gatica](https://www.researchgate.net/profile/Marilyn-Gatica-2)
