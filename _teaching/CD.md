@@ -1,8 +1,8 @@
 ---
 title: "Steady convection-diffusion equation in the convection dominated regime"
-collection: research
+collection: teaching
 #type: "Undergraduate course"
-permalink: /research/CD
+permalink: /teaching/CD
 #venue: "University 1, Department"
 #date: 2014-01-01
 #location: "City, Country"
