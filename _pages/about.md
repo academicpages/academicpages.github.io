@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Satyajith Bommana Boyana's webpage"
+title: "Hello World! :wave:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
