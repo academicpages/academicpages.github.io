@@ -22,6 +22,6 @@ $$
     & g
     & \text{on}
     & \p \Omega
-\end{array}
+\end{array} \\
 $$
 where  $\epsilon > 0$ is a constant, $\bm \rho$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\bm \rho$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\bm \rho \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
