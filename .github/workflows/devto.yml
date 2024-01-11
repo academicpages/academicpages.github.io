@@ -24,7 +24,7 @@ jobs:
         # If you have a protected branch, you need to use a personal access token
         # with the 'repo' permission.
         # See https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-        github_token: ${{ secrets.GA_TOKEN }}
+        github_token: ${{ secrets.GITHUB_TOKEN }}
         # (Optional) The files to publish. Default is "posts/**/*.md"
         files: '_posts/*.md'
         # (Optional) Use conventional commit messages. The default is false.
