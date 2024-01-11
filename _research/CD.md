@@ -1,6 +1,11 @@
 ---
 title: "Steady convection-diffusion equation in the convection dominated regime"
 collection: research
+#type: "Undergraduate course"
+permalink: /research/CD
+#venue: "University 1, Department"
+#date: 2014-01-01
+#location: "City, Country"
 ---
 In this project, we propose and analyze a numerically stable and convergent scheme for Convection-Diffusion (CD) equation in the convection-dominated regime. Since the standard CG-FEM for the CD equation causes spurious oscillations, the DG schemes are extremely appropriate for the CD equation. We choose to follow a novel discontinuous Galerkin finite element differential calculus framework and approximate the infinite-dimensional operators in the CD equation by the finite-dimensional operators. Specifically, we construct the numerical method by using the DWDG formulation for the diffusive term and the formulation that uses the average discrete gradient operator for the convective term along with upwinding. We establish the order of convergence of the error assuming the $H^2$ regularity on the exact solution, and provide several numerical tests to demonstrate the theoretical order of convergence of the proposed formulation.
 
