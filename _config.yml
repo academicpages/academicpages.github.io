@@ -81,6 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Satyajith Bommana Boyana"
+  avatar           : "myself_.jpg"
   bio              : "Numerical Analyst"
   location         : "Greensboro, NC"
   employer         : "UNCG"
