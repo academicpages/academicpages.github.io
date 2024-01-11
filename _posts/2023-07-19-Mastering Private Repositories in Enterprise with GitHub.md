@@ -2,11 +2,6 @@
 
 ![Kunal Das, Author](https://miro.medium.com/v2/resize:fill:44:44/1*kfaefcgQPHrPsNobjuiiSg.jpeg)
 
-Read on : 
- 
-<a href="https://kunaldaskd.medium.com/?source=post_page-----986bb257ea4--------------------------------">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/798px-Medium_%28website%29_logo.svg.png" alt="Medium Logo" width="200"/>
-</a>
 
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*o_r7JdrqQTcB0kkb3AF1UA.jpeg)
@@ -43,13 +38,14 @@ Git is the backbone of GitHub. It’s a distributed version control system that 
 Personalize your git setup by adding your username and email. This information will be associated with any commits you make. Open your terminal or shell and type:
 
 ```
-<span id="31bc" data-selectable-paragraph="">git config --global user.name <span>"Your name here"</span><br>git config --global user.email <span>"your_email@example.com"</span></span>
+git config --global user.name "Your name here"git config --global user.email "your_email@example.com"
 ```
 
 To enhance your git experience, enable colored output in the terminal and set your preferred editor. This can make navigating git responses easier and ensure you’re comfortable when git opens an editor for you:
 
 ```
-<span id="3ffa" data-selectable-paragraph="">git config - global color.ui <span>true</span> git config - global core.editor emacs</span>
+git config - global color.ui  
+git config - global core.editor
 ```
 
 ## Securing Your Connection with SSH
@@ -61,7 +57,7 @@ Security is paramount when working with code, especially in an enterprise settin
 Check if you have the files ~/.ssh/id\_rsa and ~/.ssh/id\_rsa.pub. If not, create these public/private keys:
 
 ```
-<span id="ef7f" data-selectable-paragraph="">ssh-keygen -t rsa -C <span>"your_email@example.com"</span></span>
+ssh-keygen -t rsa -C "your_email@example.com"
 ```
 
 Now to Copy your public key and get ready to paste it into your GitHub account follow the below steps.
@@ -73,7 +69,7 @@ Navigate to your GitHub Account Settings and click on “SSH Keys”. Add a new 
 1.  To verify your setup, type the following in your terminal:
 
 ```
-<span id="5d51" data-selectable-paragraph="">ssh -T git@github.com</span>
+ssh -T git@github.com
 ```
 
 Hi username! You’ve successfully authenticated, but GitHub does not provide shell access.
@@ -103,3 +99,23 @@ The .gitignore file allows you to specify files or directories that git should i
 Webhooks allow you to set up automatic notifications when specific events occur in your repository. This can help keep you informed about the state of your project and respond quickly to changes.
 
 _By mastering these tools and techniques, you’ll be well-equipped to manage private repositories in an enterprise setting. Whether you’re a seasoned developer or just starting out, GitHub offers a wealth of features to streamline your workflow and enhance collaboration._
+
+
+## Read my blogs : 
+ 
+<a href="https://kunaldaskd.medium.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Medium_%28website%29_logo.svg/798px-Medium_%28website%29_logo.svg.png" alt="Medium Logo" height="20"width="100"/>
+</a>
+<a href="https://dev.to/kunaldas">
+    <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/logos/resized_logo_UQww2soKuUsjaOGNB38o.png" alt="Dev.to Logo" height="20"width="100"/>
+</a>
+<a href="https://kunaldas.hashnode.dev">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1675531271955/ALEtNA1cM.png?auto=compress" alt="Hashnode Logo" height="20"width="100"/>
+</a>
+
+## Connect with Me:
+
+<p align="left">
+<a href="https://twitter.com/kunald_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunald_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunaldas111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldas111" height="30" width="40" /></a>
+</p>
