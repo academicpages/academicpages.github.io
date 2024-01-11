@@ -27,6 +27,7 @@ jobs:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         # (Optional) The files to publish. Default is "posts/**/*.md"
         files: '_posts/*.md'
+        branch: master
         # (Optional) Use conventional commit messages. The default is false.
         # See https://www.conventionalcommits.org. 
         conventional_commits: true
