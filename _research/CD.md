@@ -1,7 +1,7 @@
 ---
 title: "Steady convection-diffusion equation in the convection dominated regime"
-collection: teaching
-permalink: /teaching/CD
+collection: research
+permalink: /research/CD
 # type: 
 # venue: 
 # date: 
