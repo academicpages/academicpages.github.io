@@ -9,20 +9,18 @@ permalink: /research/CD
 ---
 Given a convex polygonal domain ($\Omega$) in $\mathbb{R}^2$, the convection-diffusion (CD) equation is
 $$
-\begin{center}
-    \begin{array}{rrccccc}
-        & - \epsilon \Delta u + \mathbf{\rho} \cdot \nabla u
-        & =
-        & f
-        & \text{in}
-        & \Omega \\
-        & u
-        & =
-        & g
-        & \text{on}
-        & \partial \Omega
-    \end{array}\\
-\end{center}
+\begin{array}{rrccccc}
+    & - \epsilon \Delta u + \mathbf{\rho} \cdot \nabla u
+    & =
+    & f
+    & \text{in}
+    & \Omega \\
+    & u
+    & =
+    & g
+    & \text{on}
+    & \partial \Omega
+\end{array}\\
 $$
 where  $\epsilon > 0$ is a constant, $\mathbf{\rho}$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\mathbf{\rho}$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\mathbf{\rho} \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
 
