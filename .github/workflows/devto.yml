@@ -13,6 +13,13 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+
+    - name: List files
+      run: ls -l
+    
+    - name: pwd
+      run: pwd
+
     - name: Publish articles on dev.to
       uses: sinedied/publish-devto@v2
       id: publish_devto
