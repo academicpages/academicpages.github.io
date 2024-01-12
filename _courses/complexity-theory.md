@@ -8,7 +8,11 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Zeume
+* Lecturer: Prof. Dr. Zeume
+* Language: English
+* Credits: 9 CP
+* Programs: M.Sc. Mathematics, M.Sc. IT-Security, M.Sc. Applied Computer Science, M.Sc. Computer Science
+
 
 Course Description
 ======
