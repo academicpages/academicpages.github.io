@@ -8,7 +8,10 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Sasse
+* Lecturer: Prof. Dr. Sasse
+* Language: German
+* Credits: 5 CP
+* Programs: M.Sc. IT-Security
 
 Course Description
 ======
