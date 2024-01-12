@@ -22,6 +22,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE JSAC Special Issue on Open RAN: a New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Services Computing.</span>
+1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Mobile Computing.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Networking Letters.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Access.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Magazine (IEEE COMMAG).</span>
