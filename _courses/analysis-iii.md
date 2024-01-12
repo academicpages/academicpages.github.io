@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Abbondandolo
 * Language: German
 * Credits: 9 CP
-* Programs: B.A. Mathematics, B.Sc. Mathematics, M.Ed. Mathematics
+* Programs: B.A./B.Sc./M.Ed. Mathematics
 
 Course Description
 ======
