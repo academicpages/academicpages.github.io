@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Fleischhacker
+* Lecturer: Jun.-Prof. Dr. Fleischhacker
+* Language: German
+* Credits: 5 CP
+* Programs: M.Sc. IT-Security
+
 
 Course Description
 ======
