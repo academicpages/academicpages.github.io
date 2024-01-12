@@ -8,7 +8,9 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr. Niemann
+* Lecturer: Dr. Niemann
+* Language: German
+* Credits: 5 CP
 
 Course Description
 ======
