@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Michael Walter and Dr. Giulio Malavolta
+* Lecturer: Prof. Dr. Michael Walter, Dr. Giulio Malavolta
+* Language: English
+* Credits: 5 CP
+* Programs: M.Sc Computer Science, M.Sc. IT-Security
+
 
 Course Description
 ======
