@@ -8,7 +8,10 @@ date: 2018-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Abbondandolo
+* Lecturer: Prof. Dr. Abbondandolo
+* Language: German
+* Credits: 9 CP
+* Programs: B.Sc. Mathematics
 
 Course Description
 ======
