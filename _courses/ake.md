@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Schwenk
 * Language: German
 * Credits: 5CP
-* Programs: M.Sc. IT-Security / Information Technology, M.Sc. IT-Security / Networks and Systems
+* Programs: M.Sc. IT-Security
 
 Course Description
 ======
