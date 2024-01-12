@@ -8,7 +8,10 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Röhrle
+* Lecturer: Prof. Dr. Röhrle
+* Language: German
+* Credits: 9 CP
+* Programs: B.Sc. Mathematics, M.Sc. Mathematics
 
 Course Description
 ======
