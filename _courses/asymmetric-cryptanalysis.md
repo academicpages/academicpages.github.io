@@ -8,7 +8,10 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. May
+* Lecturer: Prof. Dr. May
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc./M.Sc. Mathematics, B.Sc. IT-Security / Information Technology, M.Sc. IT-Security / Networks and Systems
 
 Course Description
 ======
