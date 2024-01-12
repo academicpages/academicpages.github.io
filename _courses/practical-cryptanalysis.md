@@ -8,7 +8,10 @@ date: 2023-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Leander
+* Lecturer: Prof. Dr. Leander
+* Language: German
+* Credits: 4 CP
+* Programs: B.Sc./M.Sc. IT-Security
 
 Course Description
 ======
