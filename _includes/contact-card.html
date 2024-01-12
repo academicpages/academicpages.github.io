@@ -1,0 +1,44 @@
+{% capture content %}
+  {% if include.person.email %}
+    <b>Email</b>:
+    <a href="mailto:{{ include.person.email }}">{{ include.person.email }}</a>
+    <br/>
+  {% endif %}
+
+  {% if include.person.location %}
+    <b>Location</b>: {{ include.person.location }}
+    <br/>
+  {% endif %}
+
+  {% if include.person.phone %}
+    <b>Phone</b>: {{ include.person.phone }}
+    <br/>
+  {% endif %}
+
+  {% if include.person.fax %}
+    <b>Fax</b>: {{ include.person.fax }}
+    <br/>
+  {% endif %}
+
+  {% if include.person.research-interests %}
+    <b>Research Interests</b>: {{ include.person.research-interests }}
+    <br/>
+  {% endif %}
+
+  {% assign etd = include.person.dissertation | default: include.person.thesis %}
+  {% if etd %}
+    <b>
+      {% if include.person.dissertation %}Dissertation{% else %}Thesis{% endif %}
+    </b>:
+    {% if etd.link %}
+      <a href="{{ etd.link }}">
+        {{ etd.title }}
+      </a>
+    {% else %}
+      {{ etd.title }}
+    {% endif %}
+    <br/>
+  {% endif %}
+{% endcapture %}
+
+{% include card.html title = include.person.name subtitle = include.person.position img = include.person.img link = include.person.website content = content %}

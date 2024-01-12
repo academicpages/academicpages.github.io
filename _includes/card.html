@@ -1,0 +1,26 @@
+<div class="card mb-4 shadow-sm flex-fill">
+  {% if include.img %}
+    <img class="card-img-top" src="{{ include.img }}" alt="{{ include.title }}">
+  {% endif %}
+
+  <div class="card-body">
+    <h5 class="card-title">
+      {% if include.link %}
+        <a href="{{ include.link }}">{{ include.title }}</a>
+      {% else %}
+        {{ include.title }}
+      {% endif %}
+    </h5>
+
+    {% if include.subtitle %}
+      <h5 class="card-subtitle text-muted">
+        {{ include.subtitle }}
+      </h5>
+    {% endif %}
+
+    <div class="card-text">
+      {{ include.content }}
+    </div>
+  </div>
+</div>
+<hr>

@@ -3,16 +3,33 @@ layout: archive
 title: "Computational Science and Machine Learning Lab (CSML)"
 permalink: /lab/
 author_profile: false
-
-gallery:
-  - url: people/test.png
-    image_path: people/test.png
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: people/test.png
-    image_path: people/test.png
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+priority: 90
+people:
+  # Current members ordered from oldest member to newest
+  - type: Current
+    name: Dr. Arash Sarshar
+    position: Director
+    img: /images/people/ArashSarshar.jpg
+    website: 'https://sarshar.dev/'
+    email: arash.sarshar@csulb.edu
+  - type: Current
+    name: Amogh Raj
+    img: /images/people/AmoghRaj.jpg
+    website: ''
+    email: ''
+    research-interests: 'solving PDEs, machine learning'
+  - type: Current
+    name: Amogh Raj
+    img: /images/people/AmoghRaj.jpg
+    website: ''
+    email: ''
+    research-interests: 'solving PDEs, machine learning'
+  - type: Current
+    name: Amogh Raj
+    img: /images/people/AmoghRaj.jpg
+    website: ''
+    email: ''
+    research-interests: 'solving PDEs, machine learning'
 ---
 
 {% include base_path %}
@@ -44,7 +61,23 @@ At CSML, we believe in providing our students with individual attention, clear e
 
 ## Lab Members
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% assign groups = page.people | group_by : 'type' %}
+{% for g in groups %}
+  <h2 class="text-muted">
+    {{ g.name }}
+  </h2>
+
+  <div class="row">
+    {% for p in g.items %}
+      <div class="d-flex col-12 col-sm-6 col-md-4 col-lg-3">
+        {% include contact-card.html person=p %}
+      </div>
+    {% endfor %}
+  </div>
+{% endfor %}
+
+
+<!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
 ## Prospective Students
 
