@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Dr.-Ing. Hoffmann
 * Language: German
 * Credits: 3 CP / 4 CP
-* Programs: B.Sc./M.Sc. IT-Security / Information Technology, M.Sc. IT-Security / Networks and Systems
+* Programs: B.Sc./M.Sc. IT-Security
 
 
 Course Description
