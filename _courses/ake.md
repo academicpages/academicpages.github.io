@@ -8,7 +8,10 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Schwenk
+* Lecturer: Prof. Dr. Schwenk
+* Language: German
+* Credits: 5CP
+* Programs: M.Sc. IT-Security / Information Technology, M.Sc. IT-Security / Networks and Systems
 
 Course Description
 ======
