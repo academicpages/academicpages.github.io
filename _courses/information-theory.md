@@ -8,7 +8,11 @@ date: 2023-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Walter
+* Lecturer: Prof. Dr. Walter
+* Language: English
+* Credits: 5 CP
+* Programs: B.Sc/M.Sc. IT-Security, M.Sc. Computer Science, M.Sc. Applied Computer Science
+
 
 Course Description
 ======
