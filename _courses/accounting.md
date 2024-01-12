@@ -8,7 +8,9 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr. Bonse
+* Lecturer: Dr. Bonse
+* Language: German
+* Credits: 5CP
 
 Course Description
 ======
