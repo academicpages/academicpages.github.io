@@ -8,7 +8,10 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Kiltz
+* Lecturer: Prof. Dr. Kiltz
+* Language: German
+* Credits: 5 CP
+* Programs: M.Sc. Computer Science, M.Sc. IT-Security
 
 Course Description
 ======
