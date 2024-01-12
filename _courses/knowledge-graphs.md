@@ -8,7 +8,10 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Schwenk
+* Lecturer: Jun.-Prof. Dr. Acosta
+* Language: English
+* Credits: 5 CP
+
 
 Course Description
 ======
