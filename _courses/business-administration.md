@@ -8,7 +8,9 @@ date: 2023-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr. Düsing
+* Lecturer: Dr. Düsing
+* Language: German
+* Credits: 5 CP
 
 Course Description
 ======
