@@ -61,7 +61,7 @@ redirect_from:
 주요 역량 (Summary of Qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, NI-LabVIEW, MATLAB, TensorFlow, Pytorch, etc,.)
+  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc,.)
   * 강화학습 알고리즘 기반의 문제 접근 및 최적화 기술 설계 및 구현 능력
   * IoT, ICT 센싱 및 mobilie applocation, server 통합 구현을 통한 스마트 솔루션 프로그램 개발 및 구현 능력
   * 소프트웨어 정의 라디오 기반 4X4 MIMO-OFDM system, TDMA-based multi-hop relay network 설계 및 구현 능력
