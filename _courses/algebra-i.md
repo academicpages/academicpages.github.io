@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Röhrle
 * Language: German
 * Credits: 9 CP
-* Programs: B.A. Mathematics, B.Sc. Mathematics, M.Sc. Mathematics
+* Programs: B.A./B.Sc./M.Sc. Mathematics
 
 Course Description
 ======
