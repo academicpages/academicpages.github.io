@@ -196,6 +196,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
+  people:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -257,6 +260,15 @@ defaults:
   - scope:
       path: ""
       type: software
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      comment: false
+  # _people
+  - scope:
+      path: ""
+      type: people
     values:
       layout: single
       author_profile: false

@@ -3,36 +3,8 @@ layout: archive
 title: "Computational Science and Machine Learning Lab (CSML)"
 permalink: /lab/
 author_profile: false
-priority: 90
-people:
-  # Current members ordered from oldest member to newest
-  - type: Current
-    name: Dr. Arash Sarshar
-    position: Director
-    img: /images/people/ArashSarshar.jpg
-    website: 'https://sarshar.dev/'
-    email: arash.sarshar@csulb.edu
-  - type: Current
-    name: Amogh Raj
-    img: /images/people/AmoghRaj.jpg
-    website: ''
-    email: ''
-    research-interests: 'solving PDEs, machine learning'
-  - type: Current
-    name: Amogh Raj
-    img: /images/people/AmoghRaj.jpg
-    website: ''
-    email: ''
-    research-interests: 'solving PDEs, machine learning'
-  - type: Current
-    name: Amogh Raj
-    img: /images/people/AmoghRaj.jpg
-    website: ''
-    email: ''
-    research-interests: 'solving PDEs, machine learning'
 ---
 
-{% include base_path %}
 
 
 
@@ -61,27 +33,20 @@ At CSML, we believe in providing our students with individual attention, clear e
 
 ## Lab Members
 
-{% assign groups = page.people | group_by : 'type' %}
-{% for g in groups %}
-  <h2 class="text-muted">
-    {{ g.name }}
-  </h2>
 
-  <div class="row">
-    {% for p in g.items %}
-      <div class="d-flex col-12 col-sm-6 col-md-4 col-lg-3">
-        {% include contact-card.html person=p %}
-      </div>
-    {% endfor %}
-  </div>
+{% include base_path %}
+
+{% assign ordered_pages_s = site.people | sort:"order_number" %}
+
+{% for post in ordered_pages_s %}
+  {% include contact-card.html type="grid" %}
 {% endfor %}
 
 
-<!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
 
-## Prospective Students
+<!-- ## Prospective Students -->
 
 
-If you are interested in pursuing research in this exciting and rapidly growing field, we invite you to join our team at CSML. The best way to get in touch is by filling out [this short survey](https://forms.gle/YQcw92ZJorb4NmVV9).
+<!-- If you are interested in pursuing research in this exciting and rapidly growing field, we invite you to join our team at CSML. The best way to get in touch is by filling out [this short survey](https://forms.gle/YQcw92ZJorb4NmVV9).
 
-<!-- Optionally, for an extra challenge, try to solve [this puzzle](https://github.com/elswit/dart/). Make a pull request with your solution (or just your thoughts), and we can take it from there. -->
+Optionally, for an extra challenge, try to solve [this puzzle](https://github.com/elswit/dart/). Make a pull request with your solution (or just your thoughts), and we can take it from there. --> 
