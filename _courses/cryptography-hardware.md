@@ -12,7 +12,12 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. IT-Security, M.Sc. Computer Science
+* Examination: Written Exam (120 Minutes)
 
+Learning Outcomes
+=====
+
+Students are familiar with the concepts of practical hardware development with abstract hardware description languages (VHDL) and the simulation of hardware circuits on FPGAs. They master standard techniques of hardware-related processor development and are familiar with the implementation of symmetric and asymmetric cryptosystems on modern FPGA systems.
 
 Course Description
 ======
