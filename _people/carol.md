@@ -6,5 +6,6 @@ excerpt: " <img src='/images/people/CarolGudumotu.jpg' alt=''>"
 collection: people
 order_number: 3
 header: 
+  og_image: '/images/people/CarolGudumotu.jpg'
 ---
 
