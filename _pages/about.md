@@ -27,8 +27,8 @@ https://github.com/hopelin99/hopelin99.github.io/assets/61967882/ac21cf58-45e3-4
 
 
 
-
-**08/2023****** &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
+<br>
+**08/2023** &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
 ## Publications
 
