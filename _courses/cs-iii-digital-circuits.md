@@ -8,7 +8,10 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr.-Ing. Oehm
+* Lecturer: Prof. Dr.-Ing. Oehm
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Computer Science, B.Sc. IT-Security
 
 Course Description
 ======
