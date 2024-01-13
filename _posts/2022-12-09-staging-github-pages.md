@@ -26,7 +26,7 @@ My approach is a little bit different than this since I can't directly control G
 
 Let's go through and see how the code works
 
-```yaml
+```ruby
 name: Manual branch staging site deploy
 
 on:
@@ -44,7 +44,7 @@ First, I specify that this action should run when a comment is added and add the
 
 {% raw  %}
 
-```yaml
+```ruby
 jobs:
   deploy:
     name: deploy
@@ -64,7 +64,7 @@ The `job:` information defines the environment of the action and tells it when t
 
 I used GitHub's branch-deploy action. This is a great action that takes care of a bunch of edge cases and also enforces repo protections. By default, you can only deploy after all automated checks and code review requirements pass, which prevents random people from opening PRs and triggering the action from trying to run malicious code. We bypass this for trusted contributors with the permission group.
 
-```yaml
+```ruby
         # clone staging repository
       - name: checkout staging
         continue-on-error: true # git may return error code if nothing to push
@@ -80,7 +80,7 @@ I used GitHub's branch-deploy action. This is a great action that takes care of 
 
 Checkout repo and set git auth.
 
-```yaml
+```ruby
         # push change, triggering staging github pages action rerun
       - name: trigger staging redeploy
         if: ${{ steps.branch-deploy.outputs.continue == 'true' && steps.branch-deploy.outputs.noop != 'true' }}
@@ -106,7 +106,7 @@ Trigger the update on the staging Pages environment. Fail if same code is alread
 
 ## On the staging side
 
-```yaml
+```ruby
 # Simple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
@@ -132,7 +132,7 @@ concurrency:
 
 Setup for permissions and config.
 
-```yaml
+```ruby
 jobs:
   # Single deploy job since we're just deploying
   deploy:
@@ -151,7 +151,7 @@ jobs:
 
 Get the code
 
-```yaml
+```ruby
       - name: Update and commit new submodule reference
         continue-on-error: true
         run: |
@@ -172,7 +172,7 @@ Get the code
 
 Update the submodule and get the new code. You would have to add a step here to build the code if your files are not already static.
 
-```yaml
+```ruby
       - name: Setup Pages
         uses: actions/configure-pages@v2
       - name: Upload artifact
