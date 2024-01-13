@@ -1,0 +1,43 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+      <img src="/research/figures/u_ex2.png"
+            style="width:100%"
+            alt="exact solution for numerical experiment 2">
+      <figcaption>Exact Solution</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+      <img src="/research/figures/u_h_ex2.png"
+            style="width:100%"
+            alt="numerical solution for numerical experiment 2">
+      <figcaption>Numerical Solution</figcaption>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
