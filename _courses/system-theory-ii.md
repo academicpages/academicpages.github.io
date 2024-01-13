@@ -8,7 +8,11 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr.-Ing. Sezgin
+* Lecturer: Prof. Dr.-Ing. Sezgin
+* Language: German
+* Credits: 6 CP
+* Programs: B.Sc. Eletrical and Computer Engineering, B.Sc. IT-Security
+
 
 Course Description
 ======
