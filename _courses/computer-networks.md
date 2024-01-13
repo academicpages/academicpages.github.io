@@ -12,7 +12,16 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
+* Examination: Written Exam
 
+Learning Outcomes
+=====
+
+After completing the module students
+* know the most important standards used by today's Internet.
+* know basic attack concepts on computer networks
+* understand the relationship between the individual layers of a computer network and the protocols it contains
+* can use the most important network tools for analysis purposes
 
 Course Description
 ======
