@@ -8,7 +8,11 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Buchin
+* Lecturer: Prof. Dr. Buchin
+* Language: German
+* Credits: 9 CP
+* Programs: B.Sc. Mathematics
+
 
 Course Description
 ======
