@@ -56,12 +56,12 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 
 <p align="center" width="100%">
     <figure>
-        <img width="50%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
+        <img width="33%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
         <figcaption>An illustration of the diffusion process</figcaption>
-        <img width="50%" src="/research/figures/Convection.png" alt="Image showing a convection and diffusion process">
+        <img width="33%" src="/research/figures/Convection.png" alt="Image showing a convection and diffusion process">
         <figcaption>A Figure showing the convection process</figcaption>
-        <img width="50%" src="/research/figures/CD.png" alt="Image showing a convection process">
-        <figcaption>A depiction of the convection and the diffusion processes<a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></figcaption>
+        <img width="33%" src="/research/figures/CD.png" alt="Image showing a convection process">
+        <figcaption>A depiction of the convection and the diffusion processes <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></figcaption>
     </figure>
 </p>
     
@@ -76,11 +76,14 @@ $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
+
 <p align="center" width="100%">
-    <img width="50%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
-    <!-- <figcaption>Exact Solution</figcaption> -->
-    <img width="50%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
-    <!-- <figcaption>Numerical Solution</figcaption> -->
+    <figure>
+       <img width="50%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
+         <figcaption>Exact Solution</figcaption>
+        <img width="50%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
+        <figcaption>Numerical Solution</figcaption>
+    </figure>
 </p>
 
 <!-- <div style="text-align: center;">
