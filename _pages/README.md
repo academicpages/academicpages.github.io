@@ -14,11 +14,11 @@ author_profile: false
 ### Latest Blog Posts 
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Next-Gen Apps with AI Agents](https://medium.com/databutton/building-next-gen-apps-with-ai-agents-f18551c71218?source=rss-bf79cad6afa1------2)
 - [Why your next AI product needs RAG implemented in it](https://medium.com/databutton/why-your-next-ai-product-needs-rag-implemented-in-it-9ee22f9770c8?source=rss-bf79cad6afa1------2)
 - [AI-Powered Data Visualization](https://medium.com/databutton/ai-powered-data-visualization-134e89d82d99?source=rss-bf79cad6afa1------2)
 - [Stream  LangChain AI Abstractions and Responses in Your Web App — LangChain Tools in Action](https://medium.com/databutton/stream-langchain-ai-abstractions-and-responses-in-your-web-app-langchain-tools-in-action-e37907779437?source=rss-bf79cad6afa1------2)
 - [Building an AI-powered Digital Marketing Assistant](https://medium.com/databutton/building-an-ai-powered-digital-marketing-assistant-acfd302554f0?source=rss-bf79cad6afa1------2)
-- [Using Embedchain — A powerful LangChain Python wrapper to build Chat Bots even faster!](https://ai.plainenglish.io/using-embedchain-a-powerful-langchain-python-wrapper-to-build-chat-bots-even-faster-35c12994a360?source=rss-bf79cad6afa1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### Latest YouTube Videos
