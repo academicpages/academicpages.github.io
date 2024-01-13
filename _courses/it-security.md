@@ -8,7 +8,10 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Schwenk
+* Lecturer: Prof. Dr. Schwenk
+* Language: German
+* Credits: 3 CP
+* Programs: B.Sc. IT-Security
 
 Course Description
 ======
