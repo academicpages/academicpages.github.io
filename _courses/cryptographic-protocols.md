@@ -12,6 +12,20 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: M.Sc. Computer Science, M.Sc. IT-Security
+* Examination: Oral Examination (30-45 Minutes)
+
+Prior Knowledge
+=====
+
+Cryptography Course
+
+Learning Outcomes
+=====
+
+* Deepening the understanding of provable security
+* Writing error-free security reductions
+* New techniques for security proofs
+* Learning advanced cryptographic constructions
 
 Course Description
 ======
