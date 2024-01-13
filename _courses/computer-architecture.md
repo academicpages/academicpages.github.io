@@ -8,7 +8,10 @@ date: 2020-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr. Niemann
+* Lecturer: Dr. Niemann
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
 
 Course Description
 ======
