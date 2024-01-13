@@ -8,7 +8,10 @@ date: 2018-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Dürmuth
+* Lecturer: Prof. Dr. Dürmuth
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. IT-Security
 
 Contents
 ======
