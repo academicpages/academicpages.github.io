@@ -8,4 +8,8 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Holz
+* Lecturer: Prof. Dr. Holz
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
+
