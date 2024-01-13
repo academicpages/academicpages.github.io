@@ -12,7 +12,20 @@ location: "Bochum, Germany"
 * Language: English
 * Credits: 9 CP
 * Programs: M.Sc. Mathematics, M.Sc. IT-Security, M.Sc. Applied Computer Science, M.Sc. Computer Science
+* Examination: Oral Exam (30 Minutes)
 
+Prior Knowledge
+=====
+
+Basic Knowledge of Theoretical Computer Science
+
+Learning Outcomes
+=====
+
+Students learn to categorize algorithmic problems in terms of their complexity and thus identify suitable algorithmic techniques to solve them. 
+In particular, they can apply algorithmic methods for NP-complete problems. 
+They can deal with different calculation models and can prove simple statements about them. 
+They learn to evaluate their own and others' solution approaches in discourse.
 
 Course Description
 ======
