@@ -25,7 +25,6 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 
 
 
-
 <br>
 **08/2023** &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
@@ -47,7 +46,7 @@ Hao Pu, **Hongpeng Lin**, Ruihua Song, Mei Yan
 
 ## Service
 
-* *Conference reviewer*: EMNLP, ACM MM
+* *Conference reviewer*: EMNLP, ACM MM, CVPR
 
 
 
