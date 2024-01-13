@@ -8,7 +8,9 @@ date: 2022-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Sasse
+* Lecturer: Prof. Dr. Sasse
+* Language: English
+* Credits: 5 CP
 
 Course Description
 ======
