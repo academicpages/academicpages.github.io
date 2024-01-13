@@ -82,19 +82,8 @@ $$
     </figure>
 </div>
 
-figure{
-display: inline-block;
-}
-
-<figure>
-    <img src='/research/figures/u_ex1.png' alt='exact solution for numerical experiment 1' />
-    <figcaption>Exact Solution</figcaption>
-</figure>
-<figure>
-    <img src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
-    <figcaption>Numerical Solution</figcaption>
-</figure>
-
+{% include CD_NUmEx1.html url="/research/figures/u_ex1.png" description="exact solution for numerical experiment 1, Exact Solution." %}
+{% include CD_NUmEx1.html url="/research/figures/u_h_ex1.png" description="numerical solution for numerical experiment 1, Numerical Solution." %}
 <!-- <div style="text-align: center;">
     <figure>
         <img src="/research/figures/u_ex1.png"
