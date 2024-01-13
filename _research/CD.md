@@ -28,13 +28,13 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 
 <figure>
     <img src="/research/figures/Diffusion.gif"
-         width="200" height="100"
+         width="100" height="50"
          alt="Animated image showing a diffusion process">
     <img src="/research/figures/CD.png"
-         width="200" height="100"
+         width="100" height="50"
          alt="Image showing a convection and diffusion process">
-    <img src="/research/figures/Diffusion.gif"
-         width="200" height="100"
+    <img src="/research/figures/Convection.png"
+         width="100" height="50"
          alt="Image showing a convection process">
     <figcaption>Convection and Difussion processes.</figcaption>
 </figure>
