@@ -44,6 +44,8 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
             style="width:50%"
             alt="Image showing a convection and diffusion process">
         <figcaption>A depiction of the convection and the diffusion processes</figcaption>
+        <span style="display:block;">
+            <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></span>
     </figure>
 </div>
 
