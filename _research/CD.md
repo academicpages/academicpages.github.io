@@ -26,25 +26,26 @@ $$
 
 where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\boldsymbol{\rho}$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\boldsymbol{\rho} \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
 
-<figure>
-    <img src="/research/figures/Diffusion.gif"
-         width="50" height="50"
-         alt="Animated image showing a diffusion process">
+<div style="align: left; text-align:center;">
+    <figure>
+        <img src="/research/figures/Diffusion.gif"
+            style="width:50%"
+            alt="Animated image showing a diffusion process">
         <figcaption>An illustration of the diffusion process</figcaption>
-</figure>
-<figure>
-    <img src="/research/figures/Convection.png"
-         width="50" height="50"
-         alt="Image showing a convection process">
-         <figcaption>A Figure showing the convection process</figcaption>
-</figure>
-<figure>
-    <img src="/research/figures/CD.png"
-         width="50" height="50"
-         alt="Image showing a convection and diffusion process">
-         <figcaption>A depiction of the convection and the diffusion processes</figcaption>
-</figure>
-
+    </figure>
+    <figure>
+        <img src="/research/figures/Convection.png"
+            style="width:50%"
+            alt="Image showing a convection process">
+        <figcaption>A Figure showing the convection process</figcaption>
+    </figure>
+    <figure>
+        <img src="/research/figures/CD.png"
+            style="width:50%"
+            alt="Image showing a convection and diffusion process">
+        <figcaption>A depiction of the convection and the diffusion processes</figcaption>
+    </figure>
+</div>
 
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
