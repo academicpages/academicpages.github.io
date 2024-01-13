@@ -29,7 +29,7 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 <div style="align: left; text-align:center;">
     <figure>
         <img src="/research/figures/Diffusion.gif"
-            style="width:50%"
+            style="width:75%"
             alt="Animated image showing a diffusion process">
         <figcaption>An illustration of the diffusion process</figcaption>
     </figure>
@@ -37,7 +37,7 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 <div style="align: left; text-align:center;">
     <figure>
         <img src="/research/figures/Convection.png"
-            style="width:50%"
+            style="width:75%"
             alt="Image showing a convection process">
         <figcaption>A Figure showing the convection process</figcaption>
     </figure>
@@ -45,7 +45,7 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 <div style="align: left; text-align:center;">
     <figure>
         <img src="/research/figures/CD.png"
-            style="width:50%"
+            style="width:75%"
             alt="Image showing a convection and diffusion process">
         <figcaption>A depiction of the convection and the diffusion processes</figcaption>
         <span style="display:block;">
