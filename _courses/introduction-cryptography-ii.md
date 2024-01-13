@@ -12,6 +12,24 @@ location: "Bochum, Germany"
 * Language: English / German
 * Credits: 5 CP
 * Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security, M.Sc. IT-Security / Networks and Systems
+* Examination: Written Exam (120 Minutes)
+
+Prior Knowledge
+=====
+
+* Introduction to Cryptography I
+
+Learning outcomes
+=====
+
+After completing the module, students will know the basic applications of asymmetric and hybrid methods. 
+They will be able to decide under which conditions certain methods are used in practice and how the security parameters should be selected. 
+They are familiar with the basics of abstract thinking in IT security technology. 
+On the other hand, the students are familiar with the basics of abstract thinking in IT security technology through descriptions of selected practice-relevant algorithms, such as Diffie-Hellmann key exchange or ECC-based procedures, students gain an algorithmic and technical understanding of the practical application. 
+Students are given an overview of the solutions used in companies.
+They can defend a particular solution with arguments. 
+The lectures are also offered as videos in German and English. 
+Students can therefore acquire language skills in English, the language of science, through the bilingual eLearning offer.
 
 
 Course Description
