@@ -11,9 +11,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-I am an undergraduate at UC San Diego with hopes to pursue a role in SWE. I am double majoring in Math and Computer Science and minoring in Classical Studies. I am a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I am researching mental burnout and problem gambling on social media using NLP. Outside of class, you will find me at the [Triton Unmanned Aerial Systems](https://tuas.ucsd.edu/) club working working as a jack-of-all-trades and on 3D path planning for our autonomous plane. This year I have been mentoring [FIRST Robotics Team 812](https://www.themidnightmechanics.com/) where I hope to inspire high schoolers with a "sense of wonder" through hands on experience.
+I am a fourth year undergraduate at UC San Diego double majoring in Math and Computer Science and minoring in Classical Studies. Outside of class, you will find me at the [Triton Unmanned Aerial Systems](https://tuas.ucsd.edu/) club working working as a jack-of-all-trades and on 3D path planning for our autonomous plane. I mentor [FIRST Robotics Team 812](https://www.themidnightmechanics.com/) where I hope to inspire high schoolers with a "sense of wonder" through hands on experience. I am currently working on Tock OS with Prof. [Pat Pannuto](https://patpannuto.com/). Previously, I was a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I researched mental burnout and problem gambling on social media using NLP.
 
-I am looking forward to joining Viasat this summer as a software engineering intern. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
+I am not actively searching for new positions at this time. I am only interested in work where I can work on systems software (Operating Systems, Low-Level, or Performance) and prefer to be able to open source my work. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
 
 ## Interests
 
@@ -42,9 +42,9 @@ I'd love to talk about anything! Feel free to suggest a time that works [here](h
 - 💾 people who do proper backups
 - 🪄 the magic when things just work
 - 🪐 intellectualizing at night
-- 📰 current favorite [Wikipedia article](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_economics)
+- 📰 current favorite [Wikipedia article](https://en.wikipedia.org/wiki/List_of_Generation_Z_slang)
 - 🦍 current favorite [game](https://store.steampowered.com/app/1533390/Gorilla_Tag/)
-- 🔥 current favorite [movie](https://en.wikipedia.org/wiki/Avatar:_The_Way_of_Water)
+- 🐳 current favorite [movie](https://en.wikipedia.org/wiki/The_Whale_(2022_film))
 
 ## For more info
 
@@ -56,3 +56,5 @@ You can also find it on my [Keybase](https://keybase.io/samirrashid) or hosted o
 ## Feedback
 
 I would love to hear your feedback, constructive or otherwise. As an effort for personal CI/CD and behavioral refactoring, I have made [this anonymous feedback box](https://www.admonymous.co/samir).
+
+*[NLP]: Natural Language Processing
