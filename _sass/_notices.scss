@@ -11,12 +11,12 @@
  */
 
 @mixin notice($notice-color) {
-  margin: 2em 0 !important;  /* override*/
+  margin: 1em 0 !important;  /* override*/
   padding: 1em;
   font-family: $global-font-family;
   font-size: $type-size-6 !important;
   text-indent: initial; /* override*/
-  background-color: mix(#fff, $notice-color, 90%);
+  background-color: mix(#fff, $notice-color, 70%);
   border-radius: $border-radius;
   box-shadow: 0 1px 1px rgba($notice-color, 0.25);
 
@@ -44,10 +44,10 @@
   }
 
   a {
-    color: $notice-color;
+    color: mix(#000, $notice-color, 40%);
 
     &:hover {
-      color: mix(#000, $notice-color, 40%);
+      color: mix(#000, $notice-color, 60%);
     }
   }
 
@@ -96,4 +96,10 @@
 
 .notice--danger {
   @include notice($danger-color);
+}
+
+/* Announcement */
+
+.notice--announcement {
+  @include notice($announcement-color);
 }

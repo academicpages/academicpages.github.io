@@ -11,6 +11,10 @@ redirect_from:
 ---
 {% include base_path %}
 
+<div class="notice notice--announcement" markdown="1">
+#### I am speaking at [NixCon North America](https://discourse.nixos.org/t/announcing-first-nixcon-north-america/35874) this year. Reach out if you'd like to meet with me at [SCaLE 21x](https://www.socallinuxexpo.org/scale/21x) (March 14-17, 2024 in Pasadena, California).
+</div>
+
 I am a fourth year undergraduate at UC San Diego double majoring in Math and Computer Science and minoring in Classical Studies. Outside of class, you will find me at the [Triton Unmanned Aerial Systems](https://tuas.ucsd.edu/) club working working as a jack-of-all-trades and on 3D path planning for our autonomous plane. I mentor [FIRST Robotics Team 812](https://www.themidnightmechanics.com/) where I hope to inspire high schoolers with a "sense of wonder" through hands on experience. I am currently working on Tock OS with Prof. [Pat Pannuto](https://patpannuto.com/). Previously, I was a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I researched mental burnout and problem gambling on social media using NLP.
 
 I am not actively searching for new positions at this time. I am only interested in work where I can work on systems software (Operating Systems, Low-Level, or Performance) and prefer to be able to open source my work. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
