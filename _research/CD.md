@@ -35,16 +35,6 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
         <figcaption>An illustration of the diffusion process</figcaption>
     </figure>
 </div>
-body {
-     margin: auto;
-     width: 640px;
-     padding: 50px;
-     font-family: 'Avenir', sans-serif;
-     color: #33475b;
-}
- img{
-     padding: 10px;
-}
 <div style="text-align: center;">
     <figure>
         <img src="/research/figures/Convection.png"
@@ -54,36 +44,18 @@ body {
         <figcaption>A Figure showing the convection process</figcaption>
     </figure>
 </div>
-body {
-     margin: auto;
-     width: 640px;
-     padding: 50px;
-     font-family: 'Avenir', sans-serif;
-     color: #33475b;
-}
- img{
-     padding: 10px;
-}
 <div style="text-align: center;">
     <figure>
         <img src="/research/figures/CD.png"
             style="width:100%"
             alt="Image showing a convection and diffusion process"
             class="center">
-        <figcaption>A depiction of the convection and the diffusion processes <span style="display:block;">
-            <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></span> </figcaption>
+        <figcaption>
+            A depiction of the convection and the diffusion processes
+            <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
+        </figcaption>
     </figure>
 </div>
-body {
-     margin: auto;
-     width: 640px;
-     padding: 50px;
-     font-family: 'Avenir', sans-serif;
-     color: #33475b;
-}
- img{
-     padding: 10px;
-}
 
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
@@ -92,3 +64,31 @@ body {
 
 In this project, we propose and analyze a numerically stable and convergent scheme for Convection-Diffusion (CD) equation in the convection-dominated regime ($\epsilon \approx 0$). Since the standard CG-FEM for the CD equation causes spurious oscillations, the DG schemes are extremely appropriate for the CD equation. We choose to follow a novel discontinuous Galerkin finite element differential calculus framework and approximate the infinite-dimensional operators in the CD equation by the finite-dimensional operators. Specifically, we construct the numerical method by using the DWDG formulation for the diffusive term and the formulation that uses the average discrete gradient operator for the convective term along with upwinding. We establish the order of convergence of the error assuming the $H^2$ regularity on the exact solution, and provide several numerical tests to demonstrate the theoretical order of convergence of the proposed formulation.
 
+$$
+\textbf{Numerical Test 1: Continuous Solution} 
+\begin{itemize}
+        \item $\Omega = (1,3)^2,\quad \bm\rho = \langle x_1,x_2 \rangle, \quad \eps = 10^{-9}$
+        \item $u(x_1,x_2) = \dfrac{x_2}{x_1}$
+\end{itemize}
+$$
+
+<table>
+  <tr>
+    <th>h</th>
+    <th>DOF</th>
+    <th>$L_2 $Error</th>
+    <th>Rate</th>
+    <th>$$||| \cdot |||$$ Error</th>
+    <th>Rate</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+    <td>Germany</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+    <td>Mexico</td>
+  </tr>
+</table>
