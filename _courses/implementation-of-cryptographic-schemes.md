@@ -12,7 +12,19 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. IT-Security, M.Sc. IT-Security / Networks and Systems
+* Examination: 70 % Written Examination (120 Minutes) + 30 % Programming Projects
 
+Prior Knowledge
+=====
+
+* Basic Knowledge of Programming Languages C or C++
+* Introduction to Cryptography
+
+Learning Outcomes
+=====
+
+Students learn the basic algorithms for the efficient implementation of computationally intensive crypto procedures. 
+In particular, they will have understood the handling of algorithms with very long operands after the module, as well as the interplay between implementation methods and cryptographic security.
 
 Course Description
 ======
