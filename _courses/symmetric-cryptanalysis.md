@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Leander
+* Lecturer: Prof. Dr. Leander
+* Language: German
+* Credits: 5 CP
+* Programs: M.Sc. Applied Computer Science, M.Sc. IT-Security
+
 
 Course Description
 ======
