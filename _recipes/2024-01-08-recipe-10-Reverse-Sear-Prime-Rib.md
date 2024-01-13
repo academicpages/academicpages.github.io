@@ -1,40 +1,39 @@
 ---
 title: "Reverse Sear Prime Rib"
 collection: recipes
-type: "Dips: "
+type: " "
 permalink: /recipes/2024-01-08-recipe-10-Reverse-Sear-Prime-Rib
-venue: "Prep Time: 0h12m, Total Time: 0h40m"
+venue: "Prep Time: 0h15m, Total Time: 12h15m"
 date: 2024-01-08
-location: "Cooking Time: 0h18m"
+location: "Cooking Time: 3h40m"
 tags: 
 ---
 
-The only four cheese spinach dip you'll ever need. Fry the pitas for extra crunch
+Reverse sear prime rib with amazingly crispy bark - crack'a'lin
 
-![Spinach Dip](/images/Recipes_Spinach-Dip.jpg)
+![Roast](/images/Recipes_Prime-Rib.jpg)
 
 [Recipe Source](https://www.allrecipes.com/recipe/245638/reverse-sear-prime-rib-roast/)
 
 ###### Ingredients
 
-- 8 ounces cream cheese, softened [230g, 15 tbsp]
-- 3/4 tsp garlic powder
-- 1/4 cup freshly grated Parmesan cheese [not packed]
-- 1 tbsp freshly grated Romano cheese [not packed]
-- 1 tbsp very finely chopped red bell pepper [rounded]
-- 1 green onion, white and green finely chopped [scallion]
-- 1/2 package (10 ounce size) frozen chopped spinach, thawed and squeezed dry
-- 1/2 cup grated medium Cheddar cheese
-- 1 pinch cayenne pepper
+- 1 (10 pound) bone-in standing rib roast
+- 2 tbsp kosher salt
+- ½ cup butter, softened
+- 3 tbsp chopped fresh rosemary
+- 2 tbsp chopped fresh thyme
+- ground black pepper to taste
 
 
 ###### Instructions
 
-1. Preheat oven to 400 degrees F
-2. Combine the cream cheese, garlic powder, Parmesan, and Romano with a hand or stand mixer on medium speed until well mixed
-3. Add the red bell pepper and green onion and mix on medium-low until just mixed in
-4. Add the spinach and mix on low until just incorporated
-5. Transfer the mixture to an ovenproof dish and top with cheddar cheese and cayenne - to taste
-6. Bake at 400F for 15-18 minutes or until the edges are bubbly
-7. Remove the dish from the oven and let sit for 5-7 minutes before serving. 
-8. Serve with fried or baked pita wedges or tortilla chips.
+1. Season roast generously with kosher salt
+2. Cover loosely with plastic wrap and refrigerate, 8 hours to overnight
+3. Remove roast from the refrigerator and allow to come to room temperature
+4. Preheat the oven to 200 degrees F (95 degrees C)
+5. Mix butter, rosemary, thyme, and black pepper together in a small bowl
+6. Spread butter mixture over roast. Place roast in a large roasting pan
+7. Bake roast in the preheated oven until internal temperature reaches 115 degrees F (46 degrees C) for medium-rare, about 3 1/2 hours
+8. Remove from the oven and tent with aluminum foil; allow to rest, about 20 minutes
+9. Meanwhile, increase the oven temperature to 500 degrees F (260 degrees C)
+10. Once the oven has come up to temperature, uncover rested roast and return it to the oven. Bake until well-browned, 6 to 10 minutes. Slice and serve.

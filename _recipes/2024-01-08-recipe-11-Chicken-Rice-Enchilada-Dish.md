@@ -1,40 +1,40 @@
 ---
-title: "Reverse Sear Prime Rib"
+title: "Baked Chicken and Rice Enchilada"
 collection: recipes
-type: "Dips: "
-permalink: /recipes/2024-01-08-recipe-10-Reverse-Sear-Prime-Rib
-venue: "Prep Time: 0h12m, Total Time: 0h40m"
+type: " "
+permalink: /recipes/2024-01-08-recipe-11-Chicken-Rice-Enchilada-Dish
+venue: "Prep Time: 0h25m, Total Time: 1h25m"
 date: 2024-01-08
-location: "Cooking Time: 0h18m"
+location: "Cooking Time: 1h0m"
 tags: 
 ---
 
-The only four cheese spinach dip you'll ever need. Fry the pitas for extra crunch
+Easy, baked chicken and rice with some spicy and savory cheese
 
-![Spinach Dip](/images/Recipes_Spinach-Dip.jpg)
-
-[Recipe Source](https://www.allrecipes.com/recipe/245638/reverse-sear-prime-rib-roast/)
+![Chicken and Rice Bake](/images/Recipes_Chicken-Rice.jpg)
 
 ###### Ingredients
 
-- 8 ounces cream cheese, softened [230g, 15 tbsp]
-- 3/4 tsp garlic powder
-- 1/4 cup freshly grated Parmesan cheese [not packed]
-- 1 tbsp freshly grated Romano cheese [not packed]
-- 1 tbsp very finely chopped red bell pepper [rounded]
-- 1 green onion, white and green finely chopped [scallion]
-- 1/2 package (10 ounce size) frozen chopped spinach, thawed and squeezed dry
-- 1/2 cup grated medium Cheddar cheese
-- 1 pinch cayenne pepper
+- 4 (5 if it fits) boneless skinless chicken breasts 
+- 2 cans or jars of enchilada sauce 
+- 1 cup of rice
+- 1 package of taco seasoning 
+- 1 cup of shredded cheese 
+- 1 jar of pickled jalapenos 
+- Salt to taste
+- Pepper to taste
 
 
 ###### Instructions
 
-1. Preheat oven to 400 degrees F
-2. Combine the cream cheese, garlic powder, Parmesan, and Romano with a hand or stand mixer on medium speed until well mixed
-3. Add the red bell pepper and green onion and mix on medium-low until just mixed in
-4. Add the spinach and mix on low until just incorporated
-5. Transfer the mixture to an ovenproof dish and top with cheddar cheese and cayenne - to taste
-6. Bake at 400F for 15-18 minutes or until the edges are bubbly
-7. Remove the dish from the oven and let sit for 5-7 minutes before serving. 
-8. Serve with fried or baked pita wedges or tortilla chips.
+1. Preheat oven to 350 degrees F
+2. Place 1 cup of rice in bottom of glass Pyrex baking dish 
+3. Mix in 2 cans/jars of enchilada sauce 
+4. “Score” chicken breasts- slice diagonal one way all the way along, then opposite direction all the way along 
+5. Place chicken breasts in Pyrex on top of rice 
+6. Season with salt and pepper 
+7. Sprinkle entire taco seasoning package over the dish  - mix in powder so it does not burn 
+8. Cover with aluminum foil and bake for 1 hour 
+9. Uncover and add cheese and jalapeños 
+10. Place in oven and allow cheese to melt (I put it on broil right at the end) 
+11. Serve 
