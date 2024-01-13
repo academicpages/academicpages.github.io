@@ -8,7 +8,10 @@ date: 2023-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr.-Ing. Hoffmann
+* Lecturer: Dr.-Ing. Hoffmann
+* Language: English / German
+* Credits: 5 CP
+* Programs: M.Sc. IT-Security
 
 Content
 ======
