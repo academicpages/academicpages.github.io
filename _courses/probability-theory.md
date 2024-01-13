@@ -8,7 +8,11 @@ date: 2020-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Wilke Berenguer
+* Lecturer: Jun.-Prof. Dr. Wilke Berenguer
+* Language: German
+* Credits: 9 CP
+* Programs: B.A./B.Sc. Mathematics
+
 
 Course Description
 ======
