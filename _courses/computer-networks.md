@@ -8,7 +8,11 @@ date: 2019-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr.-Ing. Mainka
+* Lecturer: Dr.-Ing. Mainka
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
+
 
 Course Description
 ======
