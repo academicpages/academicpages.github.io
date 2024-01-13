@@ -21,6 +21,8 @@ I am not actively searching for new positions at this time. I am only interested
 
 ## Interests
 
+Software keeps getting larger and harder to understand. Currently, there is no easy way to check if a system is meeting its specifications or to confirm assumptions about its behavior. The only options are unreliable manual testing or to create costly formal proofs to match code's behavior with a specification. I believe this unmanageable complexity is already stifling innovation and will be the biggest problem in future software. Thus, the most impactful and urgent area of software engineering is to make verifying large systems practical. Lowering barriers to making safe software will encourage better software. I dream of a world where software was designed to be observable, debuggable, and safe.
+
 I am interested in investigating the applications machine learning techniques and its intersection with various fields, particularly NLP. I see computers' knowledge of human language as the next big interface for humans to utilize computing power more naturally. I look forward to computers gaining a semantic understanding of language.
 
 I am also passionate about the application of simulation in developing robust systems. I am currently looking into using Unity simulations to accelerate software development on aerial vehicles. Simulations can be integrated into automated testing pipelines and used for human sanity-check verification during rapid development cycles.
