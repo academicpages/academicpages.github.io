@@ -8,7 +8,10 @@ date: 2019-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr. Korthauer
+* Lecturer: Dr. Korthauer
+* Language: German
+* Credits: 6 CP
+* Programs: B.Sc. Mathematics
 
 Course Description
 ======
