@@ -70,6 +70,18 @@ For simplicity and cost reasons I used brake pads commonly found in hydraulic mo
 
 *C-Axis belt drive, rotary table brake pads and drive pulley*
 
+![Brake rotor model](/images/CNC C axis brake rotor model.jpg)
+
+*3D model showing brake rotor construction*
+
+![Brake rotor axial stiffness study](/images/Brake rotor axial deflection study.jpg)
+
+*FEA result showing axial deflection with 1 N total applied force. In this case, axial stiffness is 1 N / deflection*
+
+![Brake rotor torsional stiffness study](/images/Brake rotor torsional deflection study.jpg)
+
+*FEA result showing torsional deflection with 1 Nm total applied torque. In this case, torsional stiffness is 1 Nm / angular deflection*
+
 ### Compact C-Axis Motor and Drivetrain
 
 I wanted to have the C-axis motor and drivetrain tucked inside the body of the rotary table to shield it from metal chips and coolant. The largest motor I could package in the structure was a 200W servo motor. This motor is directly coupled to a 17-80 harmonic drive, with an 80:1 reduction. The powerful motor enables rotation speeds of up to 40 RPM [240 deg/s], with a peak output torque of 220 Nm. All of the motor power, encoder, home sensor wiring and pneumatics are protected by the aluminum housing.
@@ -105,3 +117,4 @@ The A-axis uses a rebuilt [SHF-40-100-2UH](https://www.harmonicdrive.net/product
 ![Two-axis rotary table side view actual](/images/Two-Axis_Tilting_NC_Rotary_Table_on_base_w600.png)
 
 *Side view showing rotary table on linear slide*
+

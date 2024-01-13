@@ -9,6 +9,16 @@ Custom 5-axis CNC milling machine designed to be compact and *portable*. Portabl
 
 ![Trunnion on rails render](/images/Trunnion with Linear Axis.jpg)
 
+![5 axis cnc mill render](/images/5-axis-cnc-render.jpg)
+
+![](/images/cnc mill section render color.jpg)
+
+![](/images/cnc mill section render b-w.jpg)
+
+![](/images/cnc mill section render color.jpg)
+
+![](/images/cnc mill section render color.jpg)
+
 ###### ===Title?===
 
 Image insert test below:
