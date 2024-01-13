@@ -12,6 +12,20 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5CP
 * Programs: M.Sc. IT-Security
+* Examination: Written Exam (120 Minutes)
+
+Prior Knowledge
+=====
+
+* Cryptography Basics
+
+Learning Outcomes
+=====
+
+Students understand the special nature of cryptographic protocols, in which the focus is
+no longer centered on an algorithm but on the interaction of different units. 
+They know the most important concepts regarding the provable security of protocols. 
+The most important building blocks of cryptographic protocols are covered so that students are able to enter directly into the scientific literature on this topic.
 
 Course Description
 ======
@@ -23,7 +37,6 @@ The lecture covers the following topics:
 * Cryptographic basics (brief review of probability theory, information theory, etc.)
 * Provable security
 * Analysis of key exchange protocols with special focus on practical example protocols (like TLS or SSH)
-
 
 Contents
 ======
