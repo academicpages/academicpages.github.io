@@ -5,6 +5,14 @@ permalink: /lab/
 author_profile: false
 header:
   overlay_color: "rgba(0,0,0)"
+sidebar:
+  - author_profile: 
+  - title: ""
+    image: "/CSML-Logo-2024.png"
+    image_alt: "image"
+  - title: "GitHub"
+    text: "[https://github.com/csml-beach](https://github.com/csml-beach)"
+    nav: sidebar-sample
 ---
 
 
