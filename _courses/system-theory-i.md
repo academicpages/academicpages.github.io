@@ -8,7 +8,10 @@ date: 2019-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr.-Ing. Martin
+* Lecturer: Prof. Dr.-Ing. Martin
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Electrical and Computer Engineering, B.Sc. IT-Security
 
 Content
 ======
