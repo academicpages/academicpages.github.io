@@ -8,7 +8,11 @@ date: 2018-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr.-Ing. Mayr
+* Lecturer: Dr.-Ing. Mayr
+* Language: German
+* Credits: 1 CP
+* Programs: B.Sc. IT-Security
+
 
 Course Description
 ======
