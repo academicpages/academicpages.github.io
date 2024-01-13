@@ -18,7 +18,7 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 
 
 ## News
-**01/2024**      Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%.
+**01/2024**      Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%**.
 
 
 
