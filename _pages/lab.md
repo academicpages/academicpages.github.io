@@ -3,6 +3,8 @@ layout: archive
 title: "Computational Science and Machine Learning Lab (CSML)"
 permalink: /lab/
 author_profile: false
+header:
+  overlay_color: "rgba(0,0,0)"
 ---
 
 

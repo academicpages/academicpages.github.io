@@ -10,3 +10,11 @@ header:
 ---
 
 Director of CSML
+
+#### Address
+ECS 536,\\
+Department of Computer Engineering and Computer Science \\
+California State University Long Beach\\
+1250 Bellflower Blvd.
+Long Beach, CA 90840
+#### Email:
