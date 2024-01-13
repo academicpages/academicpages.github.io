@@ -12,6 +12,19 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. IT-Security, M.Sc. Applied Computer Science, M.Sc. Computer Science, M.Sc. IT-Security / Networks and Systems
+* Examination: Written Exam (120 Minutes)
+
+Prior Knowledge
+=====
+
+* Introduction to Cryptography 1
+* Introduction to Cryptography 2
+
+Learning Outcomes
+=====
+
+Students have an understanding of the essential mathematical methods and procedures on which modern cryptographic procedures are based. 
+The depth of the treatment of the procedures goes well beyond the previous courses. Participants will be able to analyze and design current and future cryptographic methods. They also demonstrate an awareness of the methodology and power of various attack scenarios.
 
 Course Description
 ======
