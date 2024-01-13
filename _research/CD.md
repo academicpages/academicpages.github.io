@@ -54,10 +54,6 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
     </figure>
 </div>
     
-<!-- ![Diffusion](/research/figures/Diffusion.gif)
-![CD](/research/figures/CD.png)
-![Convection](/research/figures/Convection.png) -->
-
 In this project, we propose and analyze a numerically stable and convergent scheme for Convection-Diffusion (CD) equation in the convection-dominated regime ($\epsilon \approx 0$). Since the standard CG-FEM for the CD equation causes spurious oscillations, the DG schemes are extremely appropriate for the CD equation. We choose to follow a novel discontinuous Galerkin finite element differential calculus framework and approximate the infinite-dimensional operators in the CD equation by the finite-dimensional operators. Specifically, we construct the numerical method by using the DWDG formulation for the diffusive term and the formulation that uses the average discrete gradient operator for the convective term along with upwinding. We establish the order of convergence of the error assuming the $H^2$ regularity on the exact solution, and provide several numerical tests to demonstrate the theoretical order of convergence of the proposed formulation.
 
 <h4>Numerical Experiment - 1: Continuous Solution</h4>
@@ -65,6 +61,5 @@ $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
-
-{% include CD_NumEx1.html %}
+{% include CD_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
