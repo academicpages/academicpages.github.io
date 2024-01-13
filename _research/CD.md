@@ -67,10 +67,10 @@ $$
 $$
 
 <p align="center" width="100%">
-    <img width="33%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
-    <figcaption>Exact Solution</figcaption>
-    <img width="33%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
-    <figcaption>Numerical Solution</figcaption>
+    <img width="50%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
+    <!-- <figcaption>Exact Solution</figcaption> -->
+    <img width="50%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
+    <!-- <figcaption>Numerical Solution</figcaption> -->
 </p>
 
 <!-- <div style="text-align: center;">
