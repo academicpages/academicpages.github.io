@@ -12,6 +12,21 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
+* Examination: Written Exam (120 Minutes)
+
+Prior Knowledge
+=====
+
+The ability to think in a structured, algorithmic way and to grasp complex dependencies and interaction patterns is required.
+
+Learning Outcomes
+=====
+
+After completing the module
+* students will be familiar with the interrelationships and have detailed knowledge of the components and functioning of modern computer systems. In addition to the processor, this also includes the memory system and the interfaces to other system components
+* based on this knowledge, students can analyze computer systems and their
+components in terms of various metrics, such as energy consumption, computing power, memory performance, etc. concerning their suitability for a specific task
+* have understood the basic operation and basic structure of processors at the microarchitecture level and can analyze the influence of architectural features, such as pipelining or out-of-order execution, on the execution of instructions.
 
 Course Description
 ======
