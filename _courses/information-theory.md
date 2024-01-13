@@ -12,6 +12,24 @@ location: "Bochum, Germany"
 * Language: English
 * Credits: 5 CP
 * Programs: B.Sc/M.Sc. IT-Security, M.Sc. Computer Science, M.Sc. Applied Computer Science
+* Examination: Written Exam (120 Minutes)
+
+Prior Knowledge
+=====
+
+Familiarity with discrete probability (we will briefly remind you of the most important facts).
+Some experience with precise mathematical statements and rigorous proofs (since we will see many of these in the course). 
+Some of the homework will require programming in Python.
+
+Learning Outcomes
+=====
+
+You will learn basic concepts, algorithms and results of information theory.
+Upon successful completion of this course, you will know the mathematical model of information theory, know how to design and analyze algorithms for a variety of information processing tasks, and how to implement them in Python. 
+You have independently familiarized yourself with a topic in information theory
+and presented it to your fellow students. 
+You will be prepared for a more advanced course or research or final project in this field. 
+You can find a detailed list of the learning objectives on the course homepage.
 
 
 Course Description
