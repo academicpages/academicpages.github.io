@@ -23,7 +23,7 @@ Here is my schedule from the past year. Deep learning was very interesting and i
 | Software Engineering            | Computer Networks               | Compiler Construction
 | Deep Learning                   | Functional Programming          | Digital Logic Design
 |                                 | Programming for the Humanities  | Digital Systems Laboratory
-|                                 | Latin Drama - Roman Comedy      | Directed Group Study
+|                                 | Latin Drama - Roman Comedy      | Latin Directed Group Study
 |                                 |                                 | History of Mathematics
 
 I also joined a natural language processing research lab and contributed toward two papers. It was enlightening to see inside the processes for producing academic papers.
