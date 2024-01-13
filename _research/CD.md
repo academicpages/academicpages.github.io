@@ -26,7 +26,7 @@ $$
 
 where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\boldsymbol{\rho}$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\boldsymbol{\rho} \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
 
-<!-- <div style="text-align: center;">
+<div style="text-align: center;">
     <figure>
         <img src="/research/figures/Diffusion.gif"
             style="width:100%"
@@ -52,18 +52,7 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
             <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
         </figcaption>
     </figure>
-</div> -->
-
-<p align="center" width="100%">
-    <figure>
-        <img width="33%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
-        <figcaption>An illustration of the diffusion process</figcaption>
-        <img width="33%" src="/research/figures/Convection.png" alt="Image showing a convection and diffusion process">
-        <figcaption>A Figure showing the convection process</figcaption>
-        <img width="33%" src="/research/figures/CD.png" alt="Image showing a convection process">
-        <figcaption>A depiction of the convection and the diffusion processes <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></figcaption>
-    </figure>
-</p>
+</div>
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
 ![CD](/research/figures/CD.png)
@@ -76,15 +65,23 @@ $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
-
-<p align="center" width="100%">
+<div style="text-align: center;">
     <figure>
-       <img width="33%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
-         <figcaption>Exact Solution</figcaption>
-        <img width="33%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
-        <figcaption>Numerical Solution</figcaption>
+        <img src="/research/figures/u_ex1.png"
+            style="width:50%"
+            alt="exact solution for numerical experiment 1">
+        <figcaption>Exact Solution</figcaption>
     </figure>
-</p>
+</div>
+<div style="text-align: center;">
+    <figure>
+        <img src="/research/figures/u_h_ex1.png"
+            style="width:50%"
+            alt="numerical solution for numerical experiment 1">
+        <figcaption>Numerical Solutions</figcaption>
+    </figure>
+</div>
+
 
 <!-- <div style="text-align: center;">
     <figure>
