@@ -12,7 +12,20 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. Electrical and Computer Engineering, B.Sc. IT-Security
+* Examination: Written Exam (120 Minutes)
 
+Prior Knowledge
+=====
+
+Recommended: 
+* Mathematical Knowledge of Differential and Integral Calculus as well as Linear Algebra
+
+Learning Outcomes
+=====
+
+Students will have mastered the basics and laws for calculating currents and voltages in electrical direct and alternating current circuits. 
+They can analyze electrical networks, and describe and convert them mathematically correctly. 
+They have understood the basics of complex AC calculation and can apply these to practical examples.
 
 Course Description
 ======
