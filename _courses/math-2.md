@@ -8,7 +8,11 @@ date: 2019-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Lipinski
+* Lecturer: Prof. Dr. Lipinski
+* Language: German
+* Credits: 10 CP
+* Programs: B.Sc. Eletrical and Computer Engineering, B.Sc. IT-Security
+
 
 Course Description
 ======
