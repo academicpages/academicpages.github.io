@@ -78,10 +78,22 @@ $$
         <img src="/research/figures/u_h_ex1.png"
             style="width:50%"
             alt="numerical solution for numerical experiment 1">
-        <figcaption>Numerical Solutions</figcaption>
+        <figcaption>Numerical Solution</figcaption>
     </figure>
 </div>
 
+figure{
+display: inline-block;
+}
+
+<figure>
+    <img src='/research/figures/u_ex1.png' alt='exact solution for numerical experiment 1' />
+    <figcaption>Exact Solution</figcaption>
+</figure>
+<figure>
+    <img src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
+    <figcaption>Numerical Solution</figcaption>
+</figure>
 
 <!-- <div style="text-align: center;">
     <figure>
