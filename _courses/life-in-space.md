@@ -8,7 +8,9 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Hüttemeister
+* Lecturer: Prof. Dr. Hüttemeister
+* Language: German
+* Credits: 5 CP
 
 Course Description
 ======
