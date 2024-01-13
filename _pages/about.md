@@ -18,9 +18,11 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 
 
 ## News
-**01/2024**      Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%.**
+**01/2024**      Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%.
 
-<video src="https://hopelin99.github.io/assets/paps_demo.mp4"></video>
+
+
+
 
 08/2023 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
