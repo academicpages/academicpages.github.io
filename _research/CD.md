@@ -26,7 +26,7 @@ $$
 
 where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\boldsymbol{\rho}$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\boldsymbol{\rho} \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
 
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
     <figure>
         <img src="/research/figures/Diffusion.gif"
             style="width:100%"
@@ -52,8 +52,13 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
             <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
         </figcaption>
     </figure>
-</div>
+</div> -->
 
+<p align="center" width="100%">
+    <img width="50%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
+    <img width="50%" src="/research/figures/CD.png" alt="Image showing a convection and diffusion process">
+    <img width="50%" src="/research/figures/Convection.png" alt="Image showing a convection process">
+</p>
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
 ![CD](/research/figures/CD.png)
