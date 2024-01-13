@@ -26,31 +26,64 @@ $$
 
 where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[W^{1,\infty}(\Omega)]^2$, $f \in L_2(\Omega)$ is a given source function and the function $g \in L^{1}(\partial \Omega)$. The unknown scalar function $u$ is some physical quantity that is being transported in the direction $\boldsymbol{\rho}$ along with diffusive effects determined by $\epsilon$. Roughly speaking, $-\epsilon \Delta$ models the diffusion of $u$ while $\boldsymbol{\rho} \cdot \nabla$ models the convection of $u$ in the domain $\Omega$.
 
-<div style="align: left; text-align:center;">
+<div style="text-align: center;">
     <figure>
         <img src="/research/figures/Diffusion.gif"
-            style="width:75%"
-            alt="Animated image showing a diffusion process">
+            style="width:100%"
+            alt="Animated image showing a diffusion process"
+            class="center">
         <figcaption>An illustration of the diffusion process</figcaption>
     </figure>
 </div>
-<div style="align: left; text-align:center;">
+body {
+     margin: auto;
+     width: 640px;
+     padding: 50px;
+     font-family: 'Avenir', sans-serif;
+     color: #33475b;
+}
+ img{
+     padding: 10px;
+}
+<div style="text-align: center;">
     <figure>
         <img src="/research/figures/Convection.png"
-            style="width:75%"
-            alt="Image showing a convection process">
+            style="width:100%"
+            alt="Image showing a convection process"
+            class="center">
         <figcaption>A Figure showing the convection process</figcaption>
     </figure>
 </div>
-<div style="align: left; text-align:center;">
+body {
+     margin: auto;
+     width: 640px;
+     padding: 50px;
+     font-family: 'Avenir', sans-serif;
+     color: #33475b;
+}
+ img{
+     padding: 10px;
+}
+<div style="text-align: center;">
     <figure>
         <img src="/research/figures/CD.png"
-            style="width:75%"
-            alt="Image showing a convection and diffusion process">
+            style="width:100%"
+            alt="Image showing a convection and diffusion process"
+            class="center">
         <figcaption>A depiction of the convection and the diffusion processes <span style="display:block;">
             <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></span> </figcaption>
     </figure>
 </div>
+body {
+     margin: auto;
+     width: 640px;
+     padding: 50px;
+     font-family: 'Avenir', sans-serif;
+     color: #33475b;
+}
+ img{
+     padding: 10px;
+}
 
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
