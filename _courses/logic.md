@@ -8,7 +8,10 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Zeume
+* Lecturer: Prof. Dr. Zeume
+* Language: German
+* Credits: 5 CP
+
 
 Course Description
 ======
