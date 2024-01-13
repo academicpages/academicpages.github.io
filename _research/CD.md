@@ -61,9 +61,7 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
         <img width="50%" src="/research/figures/Convection.png" alt="Image showing a convection and diffusion process">
         <figcaption>A Figure showing the convection process</figcaption>
         <img width="50%" src="/research/figures/CD.png" alt="Image showing a convection process">
-        <figcaption>
-            A depiction of the convection and the diffusion processes
-            <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
+        <figcaption>A depiction of the convection and the diffusion processes<a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a></figcaption>
     </figure>
 </p>
     
