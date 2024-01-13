@@ -8,7 +8,11 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Weimar
+* Lecturer: Jun.-Prof. Dr. Weimar
+* Language: German
+* Credits: 9 CP
+* Programs: B.A./B.Sc. Mathematics
+
 
 Course Description
 ======
