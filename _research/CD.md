@@ -66,18 +66,25 @@ $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
-<div style="text-align: center;">
+<p align="center" width="100%">
+    <img width="33%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
+    <figcaption>Exact Solution</figcaption>
+    <img width="33%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
+    <figcaption>Numerical Solution</figcaption>
+</p>
+
+<!-- <div style="text-align: center;">
     <figure>
         <img src="/research/figures/u_ex1.png"
-            style="width:100%"
+            style="width:50%"
             alt="exact solution for numerical experiment 1">
         <figcaption>Exact Solution</figcaption>
         <img src="/research/figures/u_h_ex1.png"
-            style="width:100%"
+            style="width:50%"
             alt="numerical solution for numerical experiment 1">
         <figcaption>Numerical Solution</figcaption>
     </figure>
-</div>
+</div> -->
 
 <table>
   <tr>
