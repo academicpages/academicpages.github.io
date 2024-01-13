@@ -12,6 +12,18 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 3 CP
 * Programs: B.Sc. IT-Security
+* Examination: Lab
+
+Prior Knowledge
+=====
+
+* Basic Knowledge of using a Computer
+* Programming Knowledge is useful
+
+Learning Outcomes
+=====
+
+Students are familiar with practical aspects of IT security and the (in)security of specific processes and products.
 
 Course Description
 ======
