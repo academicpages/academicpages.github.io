@@ -75,19 +75,25 @@ $$
   <tr>
     <th>h</th>
     <th>DOF</th>
-    <th>$L_2 $Error</th>
+    <th>$L_2$ Error</th>
     <th>Rate</th>
-    <th>$$||| \cdot |||$$ Error</th>
+    <th>$||| \cdot |||$ Error</th>
     <th>Rate</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>1/2</td>
+    <td>12s</td>
+    <td>1.20e-01</td>
+    <td>--</td>
+    <td>2.84e-01</td>
+    <td>--</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>1/2</td>
+    <td>12s</td>
+    <td>1.20e-01</td>
+    <td>--</td>
+    <td>2.84e-01</td>
+    <td>--</td>
   </tr>
 </table>
