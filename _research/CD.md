@@ -55,9 +55,16 @@ where  $\epsilon > 0$ is a constant, $\boldsymbol{\rho}$ is a vector field in $[
 </div> -->
 
 <p align="center" width="100%">
-    <img width="50%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
-    <img width="50%" src="/research/figures/CD.png" alt="Image showing a convection and diffusion process">
-    <img width="50%" src="/research/figures/Convection.png" alt="Image showing a convection process">
+    <figure>
+        <img width="50%" src="/research/figures/Diffusion.gif" alt="Animated image showing a diffusion process">
+        <figcaption>An illustration of the diffusion process</figcaption>
+        <img width="50%" src="/research/figures/CD.png" alt="Image showing a convection and diffusion process">
+        <figcaption>A Figure showing the convection process</figcaption>
+        <img width="50%" src="/research/figures/Convection.png" alt="Image showing a convection process">
+        <figcaption>
+            A depiction of the convection and the diffusion processes
+            <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
+    </figure>
 </p>
     
 <!-- ![Diffusion](/research/figures/Diffusion.gif)
