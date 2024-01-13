@@ -63,20 +63,18 @@ In this project, we propose and analyze a numerically stable and convergent sche
 
 <h4>Numerical Experiment - 1: Continuous Solution</h4>
 $$
-\Omega = (1,3)^2,\quad \bm\rho = \langle x_1,x_2 \rangle, \quad \eps = 10^{-9}
-u(x_1,x_2) = \dfrac{x_2}{x_1}
+\Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
 <div style="text-align: center;">
     <figure>
-        <img src="/research/figures/u_ex1.eps"
+        <img src="/research/figures/u_ex1.png"
             style="width:100%"
             alt="exact solution for numerical experiment 1">
         <figcaption>Exact Solution</figcaption>
-        <img src="/research/figures/CD.png"
+        <img src="/research/figures/u_h_ex1.png"
             style="width:100%"
-            alt="Image showing a convection and diffusion process"
-            class="center">
+            alt="numerical solution for numerical experiment 1">
         <figcaption>Numerical Solution</figcaption>
     </figure>
 </div>
