@@ -22,9 +22,13 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 
 
 
+https://github.com/hopelin99/hopelin99.github.io/assets/61967882/ac21cf58-45e3-4b75-96d6-6b71f4284e52
 
 
-08/2023 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
+
+
+
+**08/2023****** &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
 ## Publications
 
