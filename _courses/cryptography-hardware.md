@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Güneysu
+* Lecturer: Prof. Dr. Güneysu
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. IT-Security, M.Sc. Computer Science
+
 
 Course Description
 ======
