@@ -1,0 +1,53 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/Convection.png"
+        style="width:75%"
+        alt="Image showing a convection process">
+        <figcaption>Convection</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/Diffusion.gif"
+        style="width:100%"
+        alt="Animated image showing a diffusion process">
+        <figcaption>Diffusion</figcaption>
+    </div>
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/CD.png"
+        style="width:75%"
+        alt="Image showing a convection and diffusion process">
+        <figcaption>
+        Convection + Diffusion
+        <a href="https://en.wikipedia.org/wiki/P%C3%A9clet_number">Source: Wikipedia</a>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
