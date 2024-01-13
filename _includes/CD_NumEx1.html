@@ -1,14 +1,44 @@
 <!DOCTYPE html>
-    <html>
-        <head>
-            <link rel="stylesheet" type="text/css" rel="noopener" target="_blank" href="CD_NumEx1.css">
-        </head>
-        <body>
-            <div>
-                <figure class="image">
-                    <img src="{{ include.url }}" alt="{{ include.description }}">
-                    <figcaption>{{ include.description }}</figcaption>
-                  </figure>
-            </div>
-        </body>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="/research/figures/u_ex1.png"
+            style="width:50%"
+            alt="exact solution for numerical experiment 1">
+    <!-- <figcaption>Exact Solution</figcaption> -->
+  </div>
+  <div class="column">
+    <img src="/research/figures/u_h_ex1.png"
+            style="width:50%"
+            alt="numerical solution for numerical experiment 1">
+    <!-- <figcaption>Numerical Solution</figcaption> -->
+  </div>
+</div>
+
+</body>
 </html>
