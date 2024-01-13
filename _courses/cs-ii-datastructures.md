@@ -8,4 +8,6 @@ date: 2019-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr.-Ing. Güneysu
+* Lecturer: Prof. Dr.-Ing. Güneysu
+* Language: German
+* Credits: 5 CP
