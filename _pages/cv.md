@@ -12,11 +12,17 @@ redirect_from:
 Education
 ======
 * Ph.D in Mathematics, Tulane University, 2021--present
+  * Advisor: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
 * M.S. in Applied Mathematics, University of Chittagong, 2019
+  * Thesis: *Viscous fluid flow due to motion of boundaries or gravity*
 * B.Sc. in Mathematics, University of Chittagong, 2017
 
 Work experience
 ======
+* Spring 2024--present: Graduate Research Assistant
+  * Mentor: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
+  * Tulane University, New orleans, LA-70118,USA
+  * Duties included:  
 * Summer 2023: Mathematical oncology programmer
   - [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
   - Mentor:  Kasia A. Rejniak
