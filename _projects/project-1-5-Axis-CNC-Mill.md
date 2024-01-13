@@ -1,6 +1,6 @@
 ---
 title: "5-Axis CNC Milling Machine"
-excerpt: "Custom 5-axis CNC milling machine<br/><img src='/images/Two-Axis_Tilting_NC_Rotary_Table_w500.png'>"
+excerpt: "Custom 5-axis CNC milling machine<br/><img src='/images/cnc mill concept_w500.jpg'>"
 collection: projects
 tags: design, machine
 ---
