@@ -8,7 +8,11 @@ date: 2020-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Dr.-Ing. Schellenberg
+* Lecturer: Dr.-Ing. Schellenberg
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. IT-Security, M.Sc. IT-Security / Networks and Systems
+
 
 Course Description
 ======
