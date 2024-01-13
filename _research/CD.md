@@ -79,9 +79,9 @@ $$
 
 <p align="center" width="100%">
     <figure>
-       <img width="50%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
+       <img width="33%" src="/research/figures/u_ex1.png" alt="exact solution for numerical experiment 1">
          <figcaption>Exact Solution</figcaption>
-        <img width="50%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
+        <img width="33%" src="/research/figures/u_h_ex1.png" alt="numerical solution for numerical experiment 1">
         <figcaption>Numerical Solution</figcaption>
     </figure>
 </p>
@@ -110,18 +110,58 @@ $$
   </tr>
   <tr>
     <td>1/2</td>
-    <td>12s</td>
+    <td>12</td>
     <td>1.20e-01</td>
     <td>--</td>
     <td>2.84e-01</td>
     <td>--</td>
   </tr>
   <tr>
-    <td>1/2</td>
-    <td>12s</td>
-    <td>1.20e-01</td>
-    <td>--</td>
-    <td>2.84e-01</td>
-    <td>--</td>
+    <td>1/4</td>
+    <td>48</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
+  </tr>
+  <tr>
+    <td>1/8</td>
+    <td>192</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
+  </tr>
+  <tr>
+    <td>1/16</td>
+    <td>768</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
+  </tr>
+  <tr>
+    <td>1/32</td>
+    <td>3072</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
+  </tr>
+  <tr>
+    <td>1/64</td>
+    <td>12288</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
+  </tr>
+   <tr>
+    <td>1/128</td>
+    <td>49152</td>
+    <td>4.20e-02</td>
+    <td>1.52</td>
+    <td>9.86e-02 </td>
+    <td>1.53-</td>
   </tr>
 </table>
