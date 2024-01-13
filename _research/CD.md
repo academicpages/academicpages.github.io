@@ -40,8 +40,10 @@ $$
 
 <h4>Numerical Experiment - 2: Boundary Layer</h4>
 $$
-\Omega = (0,1)^2,\quad \boldsymbol{\rho} = \langle 1,1 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = x_1 + x_2(1-x_1) + \dfrac{\exp \left(\dfrac{-1}{\eps} \right)-\exp \left(\dfrac{(x_1-1)(1-x_2)}{\eps} \right)}{1-\exp \left(\dfrac{-1}{\eps} \right)}
+\Omega = (0,1)^2,\quad \boldsymbol{\rho} = \langle 1,1 \rangle, \quad \epsilon = 10^{-9} 
 $$
-
+$$
+u(x_1,x_2) = x_1 + x_2(1-x_1) + \dfrac{\exp \left(\dfrac{-1}{\epsilon} \right)-\exp \left(\dfrac{(x_1-1)(1-x_2)}{\epsilon} \right)}{1-\exp \left(\dfrac{-1}{\epsilon} \right)}
+$$
 {% include CD_NumEx2_pics.html %}
 {% include CD_NumEx2_table.html %}
