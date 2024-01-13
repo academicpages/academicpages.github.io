@@ -38,7 +38,7 @@ $$
 {% include CD_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
 
-<h4>Numerical Experiment - 2: Boundary Layer</h4>
+<h4>Numerical Experiment - 2: Boundary Layer <a href="https://www.jstor.org/stable/25663174">[B Ayuso, LD Marini (2009)]</a></h4>
 $$
 \Omega = (0,1)^2,\quad \boldsymbol{\rho} = \langle 1,1 \rangle, \quad \epsilon = 10^{-9} 
 $$
