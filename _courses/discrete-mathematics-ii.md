@@ -8,7 +8,10 @@ date: 2020-04-01
 location: "Bochum, Germany"
 ---
 
-offered by Jun.-Prof. Dr. Fleischhacker
+* Lecturer: Jun.-Prof. Dr. Fleischhacker
+* Language: German
+* Credits: 6 CP
+* Programs: B.Sc. Mathematics, B.Sc. IT-Security
 
 Course Description
 ======
