@@ -12,6 +12,14 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: M.Sc. IT-Security
+* Examination: Oral Exam
+
+Learning Outcomes
+=====
+
+The lecture aims to examine the reasons why
+1. cryptographic solutions – which experts agree offer good protection against most oft the common attacks today – are not adopted by most individuals and organizations, and
+2. end-users, developers, and system administrators who use cryptographic solutions in some form frequently make mistakes that undermine security protection.
 
 Course Description
 ======
