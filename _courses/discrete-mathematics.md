@@ -8,7 +8,10 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by PD Dr. Schuster
+* Lecturer: PD Dr. Schuster
+* Language: German
+* Credits: 9 CP
+* Programs: B.A./B.Sc. Mathematics, B.Sc. IT-Security
 
 Course Description
 ======
