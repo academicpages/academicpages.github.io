@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Heinzner
+* Lecturer: Prof. Dr. Heinzner
+* Language: German
+* Credits: 9 CP
+* Programs: B.A./B.Sc./M.Ed./M.Sc. Mathematics
+
 
 Course Description
 ======
