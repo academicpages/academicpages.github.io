@@ -11,16 +11,16 @@ Given a convex polygonal domain ($\Omega$) in $\mathbb{R}^2$, the convection-dif
 
 $
     \begin{array}{rrccccc}
-    & - \epsilon \Delta u + \boldsymbol{\rho} \cdot \nabla u
-    & =
-    & f
-    & \text{in}
-    & \Omega \\
-    & u
-    & =
-    & g
-    & \text{on}
-    & \partial \Omega
+        & - \epsilon \Delta u + \boldsymbol{\rho} \cdot \nabla u
+        & =
+        & f
+        & \text{in}
+        & \Omega \\
+        & u
+        & =
+        & g
+        & \text{on}
+        & \partial \Omega
     \end{array}
 $
 
