@@ -11,20 +11,20 @@ Let $\Omega \in \mathbb{R}^2$ be a bounded convex polygonal domain. Let $y_d \in
 
 $
     \begin{array}{rrccccc}
-        & \min\limits_{(y,u) \in H^1_0(\Omega) \times U_{ad}}
-        & J(y,u)
-        & :=
-        & \dfrac12 ||y - y_d||^2_{L^2(\Omega)} 
-        & + 
-        & \dfrac{\beta}{2} ||u||^2_{L^2(\Omega)} \\
-        & subject to
-        &  -
-        & \Delta y
+        & - \epsilon \Delta u + \boldsymbol{\rho} \cdot \nabla u
         & =
+        & f
+        & \text{in}
+        & \Omega \\
+        & u
+        & =
+        & g
+        & \text{on}
+        & \partial \Omega
     \end{array}
 $
 
-where $U_{ad} := \{v \in L^2(\Omega): u_a \leq v \leq u_b\}$ is a closed convex set, $y$ is the "state" variable, and $u$ is the "control" variable. The constraints on the control variable $u$ are called box constraints. When $u_a = -\infty$ and $u_b = \infty$, observe that $U_{ad} = L^2(\Omega)$. Then, we have an optimization problem with no inequality constraints, which is a special case of the optimization problem under consideration.
+where $U_{ad}$ := {$v \in L^2(\Omega): u_a \leq v \leq u_b$} is a closed convex set, $y$ is the "state" variable, and $u$ is the "control" variable. The constraints on the control variable $u$ are called box constraints. When $u_a = -\infty$ and $u_b = \infty$, observe that $U_{ad} = L^2(\Omega)$. Then, we have an optimization problem with no inequality constraints, which is a special case of the optimization problem under consideration.
 
 <!-- {% include CD_pic.html %}     -->
 
