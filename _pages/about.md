@@ -8,35 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-Greetings!! I'm a research scientist at CEA—French Atomic Energy and Alternative Energies Commission. My expertise includes high performance computing, finite element method, Boltzmann transport, and meshing. I hold a PhD in computational physics, a master's in computational fluid dynamics, and a bachelor's in aerospace engineering. In a nutshell, I'm the wizard of numbers and equations, blending science and technology to unlock the secrets of the universe. 
-
-
 <style>
   .column {
     float: left;
     width: 50%;
   }
+  
+  .full-width {
+    text-align: justify;
+  }
 </style>
 
+<div class="full-width">
+Greetings!! I'm a research scientist at CEA—French Atomic Energy and Alternative Energies Commission. My expertise includes high performance computing, finite element method, Boltzmann transport, and meshing. I hold a PhD in computational physics, a master's in computational fluid dynamics, and a bachelor's in aerospace engineering. In a nutshell, I'm the wizard of numbers and equations, blending science and technology to unlock the secrets of the universe.
+</div>
+
+
+
 ## Areas of Research
+
 <div class="column">
 
 - Finite Element Methods  <br>
 - Parallel computing <br>
 - Meshing
-
 </div>
+
 <div class="column">
 
 - Mesh Adaption  <br>
 - Radiative transport  <br>
 - Computational Fluid Dynamics
-
 </div>
-<br><br>
 
-Codes that I am developing
-======
+
+
+&nbsp;  <!-- Blank line with non-breaking space -->
+&nbsp;  <!-- Another blank line with non-breaking space -->
+
+## Codes that I am developing
+
 - [SALOME](https://www.salome-platform.org/) - Pre/post-processing scientific computing tool for CAD, meshing, visualization 
 - [ArcaneFEM](https://github.com/arcaneframework/arcanefem) - Parallel FEM solver based on CPU-GPU parallelism
 - [PSD](https://github.com/mohd-afeef-badri/psd) - Massively parallel  Solid/Structural/Seismic Dynamics FEM solver
@@ -48,23 +59,42 @@ Current areas of research
 ======
 
 
-
 <style>
   .container {
     display: flex;
+    flex-wrap: wrap;
   }
+
   .column {
-    flex: 1;
+    width: 50%;
   }
+
   .text-column {
-    text-align: justify;
+    padding: 0 20px;  /* Add some padding for better spacing */
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;  /* Remove default image spacing */
+    margin: 0 auto;  /* Center the image */
+  }
+
+  @media (max-width: 600px) {
+    .container {
+      flex-direction: column;
+    }
+
+    .column {
+      width: 100%;
+    }
   }
 </style>
 
 ## Polyhedral Meshing
 <div class="container">
   <div class="column">
-    <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/bc7f98a6-7631-439d-934f-7daa49250721" alt="Image 1" width="90%">
+    <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/bc7f98a6-7631-439d-934f-7daa49250721" alt="Image 1">
   </div>
   <div class="column text-column">
     Polyhedral meshing is gaining importance in modern computational simulations. It offers advantages in terms of accuracy, adaptability to complex geometries, efficiency in parallel computing, and improved convergence of numerical solvers. These benefits make polyhedral meshing a valuable tool in various scientific and engineering applications.
@@ -74,11 +104,42 @@ Current areas of research
 <details>
   <summary style="cursor: pointer; font-weight: bold;">Load more</summary>
 
-  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/8ae5798d-5a4f-474d-ae39-c7207085f7bd" alt="Image 1" width="25%">
-  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/03f0e8ae-75dd-4823-870b-4c65fab363fe" alt="Image 2" width="25%">
-  <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/9052499a-3993-425e-a111-2f94c4ca8798" alt="Image 3" width="25%">
+  <div class="container">
+    <div class="column">
+      <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/8ae5798d-5a4f-474d-ae39-c7207085f7bd" alt="Image 1">
+    </div>
+    <div class="column text-column">
+      Text description for Image 1
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="column">
+      <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/03f0e8ae-75dd-4823-870b-4c65fab363fe" alt="Image 2">
+    </div>
+    <div class="column text-column">
+      Text description for Image 2
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="column">
+      <img src="https://github.com/mohd-afeef-badri/pdmt/assets/52162083/9052499a-3993-425e-a111-2f94c4ca8798" alt="Image 3">
+    </div>
+    <div class="column text-column">
+      Text description for Image 3
+    </div>
+  </div>
 
 </details>
+
+
+
+
+
+
+
+
 
 
 <style>
