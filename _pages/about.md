@@ -170,19 +170,6 @@ Current areas of research
 </details>
 
 
-
-<style>
-  .container {
-    display: flex;
-  }
-  .column {
-    flex: 1;
-  }
-  .text-column {
-    text-align: justify;
-  }
-</style>
-
 ## Finite Element Solver (CPU/GPU)
 <div class="container">
   <div class="column">
@@ -198,11 +185,18 @@ Current areas of research
   <img src="https://user-images.githubusercontent.com/52162083/251469445-9237d686-2791-4852-b929-4d0c7e5f8df7.gif" alt="Image 1" width="40%">
 </details>
 
- 
-HPC for Fracture 
-------
 
-![Editing a markdown file for a talk](https://www.researchgate.net/profile/Giuseppe-Rastiello/publication/344688580/figure/fig6/AS:947232815730690@1602849310156/Large-scale-perforated-medium-test-domain-and-partitioned-mesh_W640.jpg){: width="40%"}
+## HPC for Fracture 
+<div class="container">
+  <div class="column text-column">
+    HPC plays a vital role in advancing phase-field fracture FEM simulations. The intricate nature of fracture phenomena demands substantial computational resources for phase-field simulations due to fine meshing constrain. HPC enables the efficient handling of fine mesh refinements necessary for accurately tracking crack initiation and propagation.  Not only this, HPC is also indispensable for enhancing the accuracy, efficiency, and scalability of phase-field fracture simulations, facilitating a deeper understanding of complex fracture mechanics in diverse materials.
+  </div>
+  <div class="column">
+    <img src="https://www.researchgate.net/profile/Giuseppe-Rastiello/publication/344688580/figure/fig6/AS:947232815730690@1602849310156/Large-scale-perforated-medium-test-domain-and-partitioned-mesh_W640.jpg" alt="Image 2" width="80%">
+  </div>
+</div>
+
+
 
 FEM-Compliant parallel meshing-partitioning in Geophysics 
 ------
