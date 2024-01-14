@@ -8,11 +8,14 @@ permalink: /research/PVI
 # location: 
 ---
 Let $\Omega$ be a bounded convex polygonal domain in $\mathbb{R}^2$, $T_F > 0$, and set $J = [0, T_F]$. 
+
 For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi \leq 0$ a.e. on $\partial \Omega$, we consider the parabolic VI:
-For all $t \in (0,T_F]$, find $u(t) \in K \subset H^1_0(\Omega)$ such that
+
+For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_0(\Omega)$ such that
 $
     \begin{align}
-        ( \partial_t u, v-u ) + a(u, v-u) & \geq ( f(t), v-u ) \qquad \forall \, v \in K, \\
+        ( \partial_t u, v-u ) + a(u, v-u) & \geq ( f(t), v-u ) \qquad \forall \, v \in K, 
+
         u(0)                              & = u_0, 
     \end{align}
 $
@@ -29,7 +32,7 @@ $
     \end{align}
 $
 
-By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. We show that numerical solutions tend to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. The analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative, $\p_t u$. To make the convergence analysis easier, we introduced a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions, we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$.
+By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. We show that numerical solutions tend to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. The analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative, $\partial_t u$. To make the convergence analysis easier, we introduced a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions, we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$.
 
 <!-- <h4>Numerical Experiment - 1: Continuous Solution</h4>
 $$
