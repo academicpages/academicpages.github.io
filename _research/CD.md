@@ -7,7 +7,7 @@ permalink: /research/CD
 # date: 
 # location: 
 ---
-Given a convex polygonal domain ($\Omega$) in $\mathbb{R}^2$, the convection-diffusion (CD) equation is:
+Given a convex polygonal domain $\Omega$ in $\mathbb{R}^2$, the convection-diffusion (CD) equation is:
 
 $
     \begin{array}{rrccccc}

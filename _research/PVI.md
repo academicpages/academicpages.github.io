@@ -7,11 +7,13 @@ permalink: /research/PVI
 # date: 
 # location: 
 ---
+Caution! This page is under construction. I am adding more zeros and ones to the code and less confusion to the page. Please come back in a while. Thanks for your patience.
+
 Let $\Omega$ be a bounded convex polygonal domain in $\mathbb{R}^2$, $T_F > 0$, and set $J = [0, T_F]$. 
 
 For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi \leq 0$ a.e. on $\partial \Omega$, we consider the parabolic VI:
 
-For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_0(\Omega)$ such that
+For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
 $
     \begin{align}
         ( \partial_t u, v-u ) + a(u, v-u) & \geq ( f(t), v-u ) \qquad \forall \, v \in K, 
