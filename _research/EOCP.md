@@ -11,7 +11,7 @@ Let ($\Omega$) in $\mathbb{R}^2$ be a bounded convex polygonal domain. Let $y_d 
 
 $
     \begin{array}{cccccccccccccccccccccccccc}
-        &\underset{(y,u) \in H^1_0(\Omega \times U_{ad})} {\min\limits_{(y,u) \in H^1_0(\Omega \times U_{ad})}}
+        &\min\limits_{(y,u) \in H^1_0(\Omega) \times U_{ad}}
         &J(y,u)
         &:=
         &\dfrac12 ||y - y_d||^2_{L^2(\Omega)} 
@@ -38,7 +38,7 @@ where $U_{ad} := \{v \in L^2(\Omega): u_a \leq v \leq u_b\}$ is a closed convex 
 
 <!-- {% include CD_pic.html %}     -->
 
-In this project, we aim to obtain an optimization problem with equality and inequality-type constraints in finite dimensions. To do so, we replace the infinite-dimensional admissible set, the infinite-dimensional functional, and the infinite-dimensional Laplacian operator in \eqref{the continuous minimization} with a finite-dimensional admissible set, a finite-dimensional functional, and a discrete Laplacian operator, respectively. Note that the finite-dimensional admissible set is spanned by the discontinuous piecewise polynomials with respect to the underlying triangulation of the polygonal domain $\Omega \subset \mathbb{R}^2$ while the discrete Laplacian operator is constructed using the DWDG method. The discrete KKT system is derived using this finite-dimensional optimization problem, and the PDAS algorithm is then utilized to find the optimal solution in finite dimensions that satisfies the discrete KKT system. Later, we show that this finite-dimensional optimal solution eventually converges to an infinite-dimensional optimal solution as we refine the triangulation of the polygonal domain $\Omega$. Additionally, we establish the order of convergence in $L^2$ and energy norms.
+In this project, we aim to obtain an optimization problem with equality and inequality-type constraints in finite dimensions. To do so, we replace the infinite-dimensional admissible set, the infinite-dimensional functional, and the infinite-dimensional Laplacian operator with a finite-dimensional admissible set, a finite-dimensional functional, and a discrete Laplacian operator, respectively. Note that the finite-dimensional admissible set is spanned by the discontinuous piecewise polynomials with respect to the underlying triangulation of the polygonal domain $\Omega \subset \mathbb{R}^2$ while the discrete Laplacian operator is constructed using the DWDG method. The discrete KKT system is derived using this finite-dimensional optimization problem, and the PDAS algorithm is then utilized to find the optimal solution in finite dimensions that satisfies the discrete KKT system. Later, we show that this finite-dimensional optimal solution eventually converges to an infinite-dimensional optimal solution as we refine the triangulation of the polygonal domain $\Omega$. Additionally, we establish the order of convergence in $L^2$ and energy norms.
 
 <!-- <h4>Numerical Experiment - 1: Continuous Solution</h4>
 $$
