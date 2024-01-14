@@ -15,7 +15,6 @@ For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_0(\Omega)$ such tha
 $
     \begin{align}
         ( \partial_t u, v-u ) + a(u, v-u) & \geq ( f(t), v-u ) \qquad \forall \, v \in K, 
-
         u(0)                              & = u_0, 
     \end{align}
 $
