@@ -11,7 +11,7 @@ Let $\Omega \in \mathbb{R}^2$ be a bounded convex polygonal domain. Let $y_d \in
 
 $
     \begin{array}{rrccccc}
-        & - \epsilon \Delta u + \boldsymbol{\rho} \cdot \nabla u
+        & \min\limits_{(y,u) \in H^1_0(\Omega) \times U_{ad}}
         & =
         & f
         & \text{in}
