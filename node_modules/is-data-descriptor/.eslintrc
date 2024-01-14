@@ -1,0 +1,15 @@
+{
+	"root": true,
+
+	"extends": "@ljharb/eslint-config/node/0.4",
+
+	"overrides": [
+		{
+			"files": "test/**/*.js",
+			"rules": {
+				"max-lines-per-function": "warn",
+				"max-nested-callbacks": "warn",
+			},
+		},
+	],
+}
