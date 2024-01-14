@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Computational Mathematics at the University of North Carolina at Greensboro, expecting to graduate in the summer of 2024. My dissertation advisor is Prof. Yi Zhang. My research focuses on the analysis and application of a novel discontinuous Galerkin (DG) finite element differential calculus, particularly in the context of optimization problems with inequality constraints that arise in many real-world applications. Through this work, I have developed advanced analytical and computational skills, which I believe make me well-suited for interdisciplinary research.
+I am a Ph.D. candidate in Computational Mathematics at the University of North Carolina at Greensboro, expecting to graduate in the summer of 2024. My dissertation advisor is Prof. Yi Zhang. My research focuses on the development, implementation and analysis of novel discontinuous Galerkin (DG) schemes, particularly in the context of optimization problems with inequality constraints that arise in many real-world applications using the [discontinuous Galerkin (DG) finite element differential calculus](https://doi.org/10.1016/j.cam.2015.10.024). Through this work, I have developed advanced analytical and computational skills, which I believe make me well-suited for interdisciplinary research.
 
 <!-- A data-driven personal website
 ======
