@@ -34,7 +34,7 @@ $
     \begin{array}{rrc}
         & K
         & :=
-        & {v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega}
+        & \{v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega\}
     \end{array}
 $
 
