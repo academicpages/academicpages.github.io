@@ -16,11 +16,10 @@ For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi
 For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
 
 $
-    \begin{array}{rrcccc}
+    \begin{array}{rrccc}
         & ( \partial_t u, v-u ) + a(u, v-u)
         & \geq
         & ( f(t), v-u )
-        & \quad
         & \forall
         & v \in K;
         & u(0)
@@ -30,16 +29,28 @@ $
 $
 
 where $u_0 \in K$ is the given initial condition, $K$ is the constrained set with
+
 $
-    \begin{align}\label{intro:K}
-        K := { v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega },
-    \end{align}
+    \begin{array}{rrc}
+        & K
+        & :=
+        & { v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega }
+    \end{array}
 $
+
 and the bilinear forms $(\cdot, \cdot)$ and $a(\cdot, \cdot)$ are defined by
+
 $
-    \begin{align}
-        (v, w) = \int_{\Omega} v \, w \, dx, \qquad a(v,w) = \int_{\Omega} \nabla v \cdot \nabla w \, dx \qquad \forall \, v, w \in H^1(\Omega).
-    \end{align}
+    \begin{array}{rrccccc}
+        & (v, w)
+        & =
+        & \int_{\Omega} v \, w \, dx
+        &\quad
+        & a(v,w)
+        & = 
+        & \int_{\Omega} \nabla v \cdot \nabla w \, dx
+        & \forall \, v, w \in H^1(\Omega)
+    \end{array}
 $
 
 By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. We show that numerical solutions tend to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. The analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative, $\partial_t u$. To make the convergence analysis easier, we introduced a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions, we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$.
