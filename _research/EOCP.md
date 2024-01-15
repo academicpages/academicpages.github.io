@@ -87,7 +87,7 @@ $$
         & \overline{p}(x_1,x_2) 
         & = 
         & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
-    \end{array}
+    \end{array} \\
     \begin{array}{rrl}
         & \overline{u}(x_1,x_2) 
         & =
