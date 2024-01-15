@@ -7,10 +7,10 @@ permalink: /research/CD
 # date: 
 # location: 
 ---
-Given a convex polygonal domain $\Omega$ in $\mathbb{R}^2$, the convection-diffusion (CD) equation is:
+Given a convex polygonal domain $\Omega$ in $\mathbb{R}^2$ with Lipschitz boundary $\partial \Omega$, the convection-diffusion (CD) equation is:
 
 $
-    \begin{array}{rrccccc}
+    \begin{array}{rrcccccccc}
         & - \epsilon \Delta u + \boldsymbol{\rho} \cdot \nabla u
         & =
         & f

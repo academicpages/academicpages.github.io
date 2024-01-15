@@ -9,12 +9,12 @@ permalink: /research/EOCP
 ---
 Caution! This page is under construction. I am adding more zeros and ones to the code and less confusion to the page. Please come back in a while. Thanks for your patience.
 
-Let $\Omega$ contained in $\mathbb{R}^2$ be a bounded convex polygonal domain. 
+Let $\Omega$ contained in $\mathbb{R}^2$ be a bounded convex polygonal domain with Lipschitz boundary $\partial \Omega$. 
 
-Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup \{\pm \infty\}$ such that $u_a < u_b$ be given and $\beta > 0$ be a regularization parameter. The elliptic optimal control problem with control constraints in given by
+Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup {\pm \infty}$ such that $u_a < u_b$ be given and $\beta > 0$ be a regularization parameter. The elliptic optimal control problem with control constraints in given by
 
 $$
-    \begin{array}{rrcccccccccccccccccc}
+    \begin{array}{rrccccccccccccccccc}
         & \min \limits_{(y,u) \in H^1_{0}(\Omega) \times U_{ad}} 
         & J(y,u)
         & :=
@@ -22,8 +22,7 @@ $$
         & +
         & \dfrac{\beta}{2} ||u||^2_{L^2(\Omega)} \\
         & \text{subject to}
-        &  -
-        & \Delta y
+        & -\Delta y
         & =
         & u
         &\text{in}
@@ -47,6 +46,51 @@ In this project, we aim to obtain an optimization problem with equality and ineq
 Here is a lecture on brief introduction to PDE constrained optimization by [Dr. Stegan Volkwein](https://www.math.uni-konstanz.de/numerik/personen/volkwein/)
 {% include introPDECO_video.html %}    
 
+<h3>Numerical Experiment - 1: Trivial box constraints on the control</h3>
+$$
+    \Omega = [0,1]^2, \, u_a = -\infty$, \, $u_b = \infty$, \, $y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
+ $$
+<br>
+Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Ome)$:
+<br>
+$$
+    \begin{array}{rcrcrc}
+        & \overline{y}(x_1,x_2) =
+        & \sin(\pi x_1) \sin(\pi x_2) \\
+        & \overline{u}(x_1,x_2) =
+        & 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \\ 
+        & \overline{p}(x_1,x_2) =
+        & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
+    \end{array}
+$$
+<br>
+{% include PVI_NumEx1_pics.html %}
+{% include CD_NumEx1_table.html %}
+
+<h3>Numerical Experiment - 2: Non- trivial Box constraints on the control <a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h3>
+$$
+    \Omega = [0,1]^2, \, u_a = 3$, \, $u_b = 15$, \, $y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
+ $$
+<br>
+Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Ome)$:
+<br>
+$$
+    \begin{array}{rcrcrc}
+        & \overline{y}(x_1,x_2) =
+        & \sin(\pi x_1) \sin(\pi x_2) \\
+        & \overline{u}(x_1,x_2) =
+        & \begin{cases}
+            u_a, & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
+            2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
+            u_b, & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
+          \end{cases} \\ 
+        & \overline{p}(x_1,x_2) =
+        & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
+    \end{array}
+$$
+<br>
+{% include PVI_NumEx1_pics.html %}
+{% include CD_NumEx1_table.html %}
 <!-- <h4>Numerical Experiment - 1: Continuous Solution</h4>
 $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
@@ -54,13 +98,3 @@ $$
 
 {% include CD_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
-
-<h4>Numerical Experiment - 2: Boundary Layer <a href="https://www.jstor.org/stable/25663174">[B Ayuso, LD Marini (2009)]</a></h4>
-$$
-\Omega = (0,1)^2,\quad \boldsymbol{\rho} = \langle 1,1 \rangle, \quad \epsilon = 10^{-9} 
-$$
-$$
-u(x_1,x_2) = x_1 + x_2(1-x_1) + \dfrac{\exp \left(\dfrac{-1}{\epsilon} \right)-\exp \left(\dfrac{(x_1-1)(1-x_2)}{\epsilon} \right)}{1-\exp \left(\dfrac{-1}{\epsilon} \right)}
-$$
-{% include CD_NumEx2_pics.html %}
-{% include CD_NumEx2_table.html %} -->
