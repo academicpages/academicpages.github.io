@@ -54,7 +54,7 @@ $$
 Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
-    \begin{array}{rcrcrc}
+    \begin{array}{rlrlrl}
         & \overline{y}(x_1,x_2) =
         & \sin(\pi x_1) \sin(\pi x_2) \\
         & \overline{u}(x_1,x_2) =
@@ -68,7 +68,7 @@ $$
 {% include CD_NumEx1_table.html %}
 
 <h3>Numerical Experiment - 2: Non- trivial Box constraints on the control</h3>
-<h1><a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h1>
+<h4><a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h4>
 $$
     \Omega = [0,1]^2, \, u_a = 3, \, u_b = 15, \, y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
  $$
@@ -77,19 +77,19 @@ $$
 Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
-    \begin{array}{rcrcrc}
+    \begin{array}{rlrlrl}
         & \overline{y}(x_1,x_2) =
         & \sin(\pi x_1) \sin(\pi x_2) \\
         & \overline{u}(x_1,x_2) =
         & \begin{cases}
-            u_a,  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
-            2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
-            u_b,  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
+            u_a,  \, \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
+            2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)  \, \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
+            u_b,  \, \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
           \end{cases} \\ 
         & \overline{p}(x_1,x_2) =
         & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
     \end{array}
 $$
 <br>
-{% include PVI_NumEx1_pics.html %}
+{% include EOCP_NumEx2_pics.html %}
 {% include CD_NumEx1_table.html %}

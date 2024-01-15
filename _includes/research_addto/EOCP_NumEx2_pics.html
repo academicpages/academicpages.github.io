@@ -1,0 +1,58 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/uh_P0.png"
+        style="width:85%"
+        alt="Picture of numerical control in P0 space">
+        <figcaption>u_h with $\mathbb{P}_0$ functions</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/uh_P1.png"
+        style="width:85%"
+        alt="Picture of numerical control in P1 space">
+        <figcaption>u_h with $\mathbb{P}_1$ functions</figcaption>
+    </div>
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/lh.png"
+        style="width:85%"
+        alt="Picture of numerical lagrange multiplier associated with control in P0 space">
+        <figcaption>l_h</figcaption>
+    </div>
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/yh_P1.png"
+        style="width:85%"
+        alt="Picture of numerical state in P1 space">
+        <figcaption>y_h with $\mathbb{P}_1$ functions</figcaption>
+    </div>
+  </div>
+</div>
+</body>
+</html>
