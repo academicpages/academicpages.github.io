@@ -38,7 +38,7 @@ $$
 
 where $U_{ad}$ := {$v \in L^2(\Omega): u_a \leq v \leq u_b$} is a closed convex set, $y$ is the "state" variable, and $u$ is the "control" variable. The constraints on the control variable $u$ are called box constraints. When $u_a = -\infty$ and $u_b = \infty$, observe that $U_{ad} = L^2(\Omega)$. Then, we have an optimization problem with no inequality constraints, which is a special case of the optimization problem under consideration.
 
-{% include EOCP_pic.html %}    
+{% include /_includes/research_addto/EOCP_pic.html %}    
 
 In this project, we aim to obtain an optimization problem with equality and inequality-type constraints in finite dimensions and solve it for the numerical optimal solution. To do so, we replace the infinite-dimensional admissible set, the infinite-dimensional functional, and the infinite-dimensional Laplacian operator with a finite-dimensional admissible set, a finite-dimensional functional, and a discrete Laplacian operator, respectively. Note that the finite-dimensional admissible set is spanned by the discontinuous piecewise polynomials with respect to the underlying triangulation of the polygonal domain $\Omega \subset \mathbb{R}^2$ and the discrete Laplacian operator is constructed using the DWDG method. The discrete KKT system is derived using this finite-dimensional optimization problem, and the PDAS algorithm is then utilized to find the numerical optimal solution in finite dimensions that satisfies the discrete KKT system. Later, we show that this finite-dimensional optimal solution eventually converges to an infinite-dimensional optimal solution as we refine the triangulation of the polygonal domain $\Omega$. Additionally, we establish the orders of convergence in $L^2$ and energy norms.
 
@@ -64,8 +64,8 @@ $$
     \end{array}
 $$
 <br>
-{% include PVI_NumEx1_pics.html %}
-{% include CD_NumEx1_table.html %}
+{% include /_includes/research_addto/PVI_NumEx1_pics.html %}
+{% include /_includes/research_addto/CD_NumEx1_table.html %}
 
 <h3>Numerical Experiment - 2: Non- trivial Box constraints on the control</h3>
 <h4><a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h4>
@@ -91,5 +91,5 @@ $$
     \end{array}
 $$
 <br>
-{% include EOCP_NumEx2_pics.html %}
-{% include CD_NumEx1_table.html %}
+{% include /_includes/research_addto/EOCP_NumEx2_pics.html %}
+{% include /_includes/research_addto/CD_NumEx1_table.html %}

@@ -51,7 +51,9 @@ $
         & \forall \, v, w \in H^1(\Omega)
     \end{array}
 $
-{% include PVI_pic.html %}    
+
+{% include /_includes/research_addto/PVI_pic.html %}   
+
 By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. Parabolic VIs can be considered as a generalization of elliptic VIs. However, the analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative $\partial_t u$. We show that the numerical solution tends to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. To make the convergence analysis easier, we introduce a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions, we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$.
 
 <h3>Numerical Experiment - 1: Zero Obstable Problem</h3>
@@ -88,8 +90,8 @@ $$
     \end{cases}
 $$
 <br>
-{% include PVI_NumEx1_pics.html %}
-{% include CD_NumEx1_table.html %}
+{% include /_includes/research_addto/PVI_NumEx1_pics.html %}
+{% include /_includes/research_addto/CD_NumEx1_table.html %}
 
 <h3>Numerical Experiment - 2: Non-zero Obstable Problem</h3>
 $$
@@ -117,5 +119,5 @@ $$
     \end{cases}
 $$
 <br>
-{% include PVI_NumEx1_pics.html %}
-{% include CD_NumEx1_table.html %}
+{% include /_includes/research_addto/PVI_NumEx1_pics.html %}
+{% include /_includes/research_addto/CD_NumEx1_table.html %}
