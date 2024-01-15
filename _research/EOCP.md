@@ -54,12 +54,15 @@ $$
 Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
-    \begin{array}{rlrlrl}
-        & \overline{y}(x_1,x_2) =
+    \begin{array}{rrlrrlrrl}
+        & \overline{y}(x_1,x_2) 
+        & =
         & \sin(\pi x_1) \sin(\pi x_2) \\
-        & \overline{u}(x_1,x_2) =
+        & \overline{u}(x_1,x_2) 
+        & =
         & 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \\ 
-        & \overline{p}(x_1,x_2) =
+        & \overline{p}(x_1,x_2) 
+        & =
         & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
     \end{array}
 $$
@@ -77,16 +80,19 @@ $$
 Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
-    \begin{array}{rlrcrl}
-        & \overline{y}(x_1,x_2) =
+    \begin{array}{rrlrrlrrl}
+        & \overline{y}(x_1,x_2) 
+        & =
         & \sin(\pi x_1) \sin(\pi x_2) \\
-        & \overline{u}(x_1,x_2) =
+        & \overline{u}(x_1,x_2) 
+        & =
         & \begin{cases}
             u_a,  \quad \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
             2 \pi^2 \sin(\pi x_1) \sin(\pi x_2),  \quad \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
             u_b,  \quad \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
           \end{cases} \\ 
-        & \overline{p}(x_1,x_2) =
+        & \overline{p}(x_1,x_2) 
+        & =
         & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
     \end{array}
 $$
@@ -94,4 +100,5 @@ $$
 {% include /include_research/EOCP/EOCP_NumEx2_pics1.html %}
 {% include /include_research/EOCP/EOCP_NumEx2_pics2.html %}
 {% include /include_research/EOCP/EOCP_NumEx2_pics3.html %}
+{% include /include_research/EOCP/EOCP_NumEx2_pics4.html %}
 {% include /include_research/EOCP/EOCP_NumEx2_table.html %}
