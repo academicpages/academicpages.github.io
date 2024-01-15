@@ -91,7 +91,7 @@ $$
 $$
 <br>
 {% include /include_research/PVI/PVI_NumEx1_pics.html %}
-{% include /include_research/PVI/CD_NumEx1_table.html %}
+{% include /include_research/PVI/PVI_NumEx1_table.html %}
 
 <h3>Numerical Experiment - 2: Non-zero Obstable Problem</h3>
 $$
@@ -119,5 +119,5 @@ $$
     \end{cases}
 $$
 <br>
-{% include /include_research/PVI/PVI_NumEx1_pics.html %}
-{% include /include_research/PVI/CD_NumEx1_table.html %}
+{% include /include_research/PVI/PVI_NumEx2_pics.html %}
+{% include /include_research/PVI/PVI_NumEx2_table.html %}
