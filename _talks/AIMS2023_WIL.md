@@ -10,5 +10,3 @@ location: "AIMS 2023, Wilmington, North Carolina"
 
 [Abstract](https://aimsconference.org/conferences/2023/abstracts-compressed-2023-05-22-0937.pdf)
 
-
-<!-- {% include /include_talks/JMM2024_SF.html %} -->

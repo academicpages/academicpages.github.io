@@ -10,5 +10,3 @@ location: "SIAM-SEAS 2023, Blacksburg, Virginia"
 
 [Abstract](https://conference.math.vt.edu/vt-siam-seas/minisymposium18.html)
 
-
-<!-- {% include /include_talks/JMM2024_SF.html %} -->

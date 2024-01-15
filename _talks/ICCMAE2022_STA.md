@@ -10,5 +10,3 @@ location: "ICCMAE 2022, Starkville, Mississippi"
 
 [Abstract](https://www.iccmae.math.msstate.edu/news/2022/04/mb1-recent-developments-finite-difference-and-finite-element-methods-ii)
 
-
-<!-- {% include /include_talks/SEARCDE2022_RDU.html %} -->

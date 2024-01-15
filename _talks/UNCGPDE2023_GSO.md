@@ -9,6 +9,3 @@ location: "UNCG PD Conference 2023, Greenboro, North Carolina"
 ---
 
 [Abstract](https://drive.google.com/file/d/1SyZvlzL5WIqr3WwFYskjGzsTEiwARTZm/view)
-
-
-<!-- {% include /include_talks/JMM2024_SF.html %} -->
