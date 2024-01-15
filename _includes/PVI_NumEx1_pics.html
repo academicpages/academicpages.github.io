@@ -1,0 +1,43 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 32%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+      <img src="/research/figures/PVI_NumEx1_1.gif.gif"
+            style="width:75%"
+            alt="exact solution for numerical experiment 1: Zero Obstable Problem">
+      <figcaption>Exact Solution</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+      <img src="/research/figures/PVI_Num1_2.gif"
+            style="width:75%"
+            alt="numerical solution for numerical experiment 1: Zero Obstable Problem">
+      <figcaption>Numerical Solution</figcaption>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

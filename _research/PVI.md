@@ -51,23 +51,56 @@ $
         & \forall \, v, w \in H^1(\Omega)
     \end{array}
 $
-
+{% include PVI_pic.html %}    
 By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. We show that numerical solutions tend to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. The analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative, $\partial_t u$. To make the convergence analysis easier, we introduced a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions, we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$.
 
-<!-- <h4>Numerical Experiment - 1: Continuous Solution</h4>
+<h4>Numerical Experiment - 1: Zero Obstable Problem</h4>
 $$
-\Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
+    Omega = [-1,1]^2, \, J=[0,1], \, \psi = 0
+    <br>
+    r_1 = \frac{1}{3}, \, \omega = 4
+    <br>
+    r_0(t) = \frac13 + 0.3 \sin(4 \omega \pi t), \, c(t) = r_1 ( \cos(\omega \pi t), \sin(\omega \pi t))
+ $$
+Contact set and Non-Contact set:
+<br>
 $$
-
-{% include CD_NumEx1_pics.html %}
+    \Omega^0(t) = \{ ||x - c(t) ||_2 \leq r_0(t) \}
+    <br>
+    \Omega^+(t) = \{ || x - c(t) ||_2 > r_0(t) \}
+$$
+Exact solution
+<br>
+$$
+    u(x,t) = 
+    \begin{cases}
+        $\displaystyle \frac12 \big( ||x - c(t)||^2_2 - r_0^2(t) \big)^2 &\qquad x \in \Omega^+(t), \\
+        0 &\qquad x \in \Omega^0(t).$
+    \end{cases}
+$$
+Consequently,
+<br>
+$$
+    f(x, t) = 
+    \begin{cases}
+        $\displaystyle 4r_0^2(t) - 8 ||x-c(t)||_2^2 -2(||x-c(t)||_2^2 - r_0^2(t)) ((x-c(t)) c'(t) + 4r_0(t) r_0'(t)))$ & $x \in \Omega^+(t)$, \\
+        $-4 r_0^2 \left( 1 - ||x-c(t)||_2^2 + r_0^2(t) \right) &x \in \Omega^0(t).$
+    \end{cases}
+$$
+{% include PVI_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
 
-<h4>Numerical Experiment - 2: Boundary Layer <a href="https://www.jstor.org/stable/25663174">[B Ayuso, LD Marini (2009)]</a></h4>
+<h4>Numerical Experiment - 2: Non-zero Obstable Problem</h4>
 $$
-\Omega = (0,1)^2,\quad \boldsymbol{\rho} = \langle 1,1 \rangle, \quad \epsilon = 10^{-9} 
-$$
-$$
-u(x_1,x_2) = x_1 + x_2(1-x_1) + \dfrac{\exp \left(\dfrac{-1}{\epsilon} \right)-\exp \left(\dfrac{(x_1-1)(1-x_2)}{\epsilon} \right)}{1-\exp \left(\dfrac{-1}{\epsilon} \right)}
-$$
-{% include CD_NumEx2_pics.html %}
-{% include CD_NumEx2_table.html %} -->
+    Omega = [0,1]^2, \, J=[0,1], \, \psi = x_1(1-x_1)x_2(1-x_2)
+    <br>
+    \alpha(t) = \dfrac{1}{2} + \dfrac{1}{4} \sin(2 \pi t) 
+    <br>
+ $$
+ $$
+ u(x,t) = 
+    \begin{cases}
+        100x_1(x_1-\alpha(t))^2 x_2(1-x_2) + 2x_1(1-x_1)+ x_2(1-x_2), & x_1 <\alpha(t), \\
+        2x_1(1-x_1)+x_2(1-x_2), & x_1 \geq \alpha(t)
+    \end{cases}
+ $$
