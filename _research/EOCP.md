@@ -15,7 +15,7 @@ Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup \{
 
 $$
     \begin{array}{rrc}
-        & (y,u) \in H^1_{0}(\Omega) X U_{ad}
+        & \min \limits_{(y,u) \in H^1_{0}(\Omega) \times U_{ad}} 
         & =
         & f
     \end{array}
