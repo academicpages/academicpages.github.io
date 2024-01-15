@@ -15,11 +15,11 @@ Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup \{
 
 $
     \begin{array}{rrccccc}
-        & {(y,u) \in H^1_{0}(\Omega) X U_{ad}}
+        & (y,u) \in H^1_{0}(\Omega) X U_{ad}
         & =
         & f
         & \text{in}
-        & \Omega \\
+        & \Omega ;
         & u
         & =
         & g
