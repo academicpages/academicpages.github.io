@@ -14,10 +14,14 @@ Let $\Omega$ contained in \mathbb{R}^2$ be a bounded convex polygonal domain.
 Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup \{\pm \infty\}$ such that $u_a < u_b$ be given and $\beta > 0$ be a regularization parameter. The elliptic optimal control problem with control constraints in given by
 
 $$
-    \begin{array}{rrc}
+    \begin{array}{rrccccc }
         & \min \limits_{(y,u) \in H^1_{0}(\Omega) \times U_{ad}} 
-        & =
-        & f
+        & J(y,u)
+        & :=
+        & \dfrac12 ||y - y_d||^2_{L^2(\Omega)}
+        & +
+        & \dfrac{\beta}{2} ||u||^2_{L^2(\Omega)} \\
+        & \text{subject to}
     \end{array}
 $$
 
