@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
+* Ph.D in Computer Science, University College Dublin, 2024 (expected)
 * B.A. in Psychology, Trinity College Dublin, University of Dublin, 2018
-* Ph.D in Computer Science, University College Dublin, 2023 (expected)
+
 
 Work experience
 ======
 * September 2018 - August 2019: Research Assistant
   * Trinity College Institute of Neuroscience
   * Duties included: EEG, pupillometry, neuropsychiatric batteries
-  * Supervisor: Professor Paul Dockree
+  * Supervisor: Prof. Paul Dockree
 
   
 Skills
@@ -49,7 +50,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
 * Programme Committee Member
    * AIES 2022-2023
