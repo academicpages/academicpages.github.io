@@ -14,16 +14,25 @@ Let $\Omega$ be a bounded convex polygonal domain in $\mathbb{R}^2$, $T_F > 0$, 
 For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi \leq 0$ a.e. on $\partial \Omega$, we consider the parabolic VI:
 
 For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
+
 $
-    \begin{align}
-        ( \partial_t u, v-u ) + a(u, v-u) & \geq ( f(t), v-u ) \qquad \forall \, v \in K, 
-        u(0)                              & = u_0, 
-    \end{align}
+    \begin{array}{rrcccc}
+        & ( \partial_t u, v-u ) + a(u, v-u)
+        & \geq
+        & ( f(t), v-u )
+        & \quad
+        & \forall
+        & v \in K;
+        & u(0)
+        & =
+        & u_0
+    \end{array}
 $
+
 where $u_0 \in K$ is the given initial condition, $K$ is the constrained set with
 $
     \begin{align}\label{intro:K}
-        K := \{ v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega \},
+        K := { v \in H^1_0(\Omega): v \geq \psi \ \text{a.e. in} \ \Omega },
     \end{align}
 $
 and the bilinear forms $(\cdot, \cdot)$ and $a(\cdot, \cdot)$ are defined by
