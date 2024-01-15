@@ -3,9 +3,9 @@ title: "Novel discontinuous Galerkin methods for optimization problems with ineq
 collection: talks
 type: "Talk"
 permalink: /talks/JMM2024
-venue: "Room 010 Moscone Center, San Francisco"
+venue: "Room 010 Moscone Center"
 date: 2024-01-04
-location: "San Francisco, California"
+location: "JMM 2024, San Francisco, California"
 ---
 
 [Abstract](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31371)
