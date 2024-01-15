@@ -80,10 +80,9 @@ $$
 Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
-    \begin{array}{rrlrrlrrl}
+    \begin{array}{rlrrlrl}
         & \overline{y}(x_1,x_2) 
-        & =
-        & \sin(\pi x_1) \sin(\pi x_2) \\
+        & = \sin(\pi x_1) \sin(\pi x_2) \\
         & \overline{u}(x_1,x_2) 
         & =
         & \begin{cases}
@@ -92,8 +91,7 @@ $$
             u_b,  \quad \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
           \end{cases} \\ 
         & \overline{p}(x_1,x_2) 
-        & =
-        & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
+        & = -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
     \end{array}
 $$
 <br>
