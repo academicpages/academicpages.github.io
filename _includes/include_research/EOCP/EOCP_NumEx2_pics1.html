@@ -7,7 +7,7 @@
 
 .column {
   float: left;
-  width: 32%;
+  width:33%;
   padding: 5px;
 }
 
@@ -23,9 +23,16 @@
 <div class="row">
   <div class="column">
     <div style="text-align: center;">
+        <img src="/research/figures/EOCP/u_exact.png"
+        style="width:100%"
+        alt="Picture of exact control">
+        <figcaption>Exact control</figcaption>
+    </div>
+  <div class="column">
+    <div style="text-align: center;">
         <img src="/research/figures/EOCP/uh_P0.png"
         style="width:100%"
-        alt="Picture of numerical control in P0 space">
+        alt="Picture of numerical control in P0 spanned space">
         <figcaption>u_h with $\mathbb{P}_0$ functions</figcaption>
     </div> 
   </div>
@@ -33,18 +40,16 @@
     <div style="text-align: center;">
         <img src="/research/figures/EOCP/uh_P1.png"
         style="width:100%"
-        alt="Picture of numerical control in P1 space">
+        alt="Picture of numerical control in P1 spanned space">
         <figcaption>u_h with $\mathbb{P}_1$ functions</figcaption>
     </div>
   </div>
-  <div class="column">
-    <div style="text-align: center;">
-        <img src="/research/figures/EOCP/lh.png"
-        style="width:100%"
-        alt="Picture of numerical lagrange multiplier associated with control in P0 space">
-        <figcaption>l_h</figcaption>
-    </div>
-  </div>
+</div>
+<div style="text-align: center;">
+  <img src="/research/figures/EOCP/lh.png"
+      style="width:50%"
+      alt="Picture of numerical lagrange multiplier associated with control in P0 spanned space">
+      <figcaption>l_h</figcaption>
 </div>
 </body>
 </html>
