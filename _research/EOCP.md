@@ -98,7 +98,11 @@ $$
 $$
 <br>
 {% include /include_research/EOCP/EOCP_NumEx2_pics1.html %}
+<br>
 {% include /include_research/EOCP/EOCP_NumEx2_pics2.html %}
+<br>
 {% include /include_research/EOCP/EOCP_NumEx2_pics3.html %}
+<br>
 {% include /include_research/EOCP/EOCP_NumEx2_pics4.html %}
+<br>
 {% include /include_research/EOCP/EOCP_NumEx2_table.html %}
