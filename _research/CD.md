@@ -15,7 +15,7 @@ $
         & =
         & f
         & \text{in}
-        & \Omega ;
+        & \Omega \\
         & u
         & =
         & g
