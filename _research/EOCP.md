@@ -14,7 +14,7 @@ Let $\Omega$ contained in $\mathbb{R}^2$ be a bounded convex polygonal domain wi
 Let $y_d \in L^2(\Omega)$ be the desired state, $u_a, u_b \in \mathbb{R} \cup {\pm \infty}$ such that $u_a < u_b$ be given and $\beta > 0$ be a regularization parameter. The elliptic optimal control problem with control constraints in given by
 
 $$
-    \begin{array}{rrccccccccccccccccc}
+    \begin{array}{rrcccccccccccccccc}
         & \min \limits_{(y,u) \in H^1_{0}(\Omega) \times U_{ad}} 
         & J(y,u)
         & :=
@@ -27,7 +27,6 @@ $$
         & u
         &\text{in}
         &\Omega \\
-        & 
         &
         &y
         &=
@@ -48,10 +47,11 @@ Here is a lecture on brief introduction to PDE constrained optimization by [Dr. 
 
 <h3>Numerical Experiment - 1: Trivial box constraints on the control</h3>
 $$
-    \Omega = [0,1]^2, \, u_a = -\infty$, \, $u_b = \infty$, \, $y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
+    \Omega = [0,1]^2, \, u_a = -\infty, \, u_b = \infty, \, y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
  $$
 <br>
-Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Ome)$:
+<br>
+Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
     \begin{array}{rcrcrc}
@@ -67,12 +67,14 @@ $$
 {% include PVI_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
 
-<h3>Numerical Experiment - 2: Non- trivial Box constraints on the control <a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h3>
+<h3>Numerical Experiment - 2: Non- trivial Box constraints on the control</h3>
+<h1><a href="https://doi.org/10.1081/NFA-200067309">[A R&ouml;sch, R Simon (2005)]</a></h1>
 $$
-    \Omega = [0,1]^2, \, u_a = 3$, \, $u_b = 15$, \, $y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
+    \Omega = [0,1]^2, \, u_a = 3, \, u_b = 15, \, y_d = (1+4\pi^4) \sin(\pi x_1) \sin(\pi x_2)
  $$
 <br>
-Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Ome)$:
+<br>
+Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
     \begin{array}{rcrcrc}
@@ -80,9 +82,9 @@ $$
         & \sin(\pi x_1) \sin(\pi x_2) \\
         & \overline{u}(x_1,x_2) =
         & \begin{cases}
-            u_a, & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
-            2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
-            u_b, & \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
+            u_a,  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) < u_a, \\
+            2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \in [u_a, u_b], \\
+            u_b,  \text{if } 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) > u_b
           \end{cases} \\ 
         & \overline{p}(x_1,x_2) =
         & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
@@ -90,11 +92,4 @@ $$
 $$
 <br>
 {% include PVI_NumEx1_pics.html %}
-{% include CD_NumEx1_table.html %}
-<!-- <h4>Numerical Experiment - 1: Continuous Solution</h4>
-$$
-\Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
-$$
-
-{% include CD_NumEx1_pics.html %}
 {% include CD_NumEx1_table.html %}
