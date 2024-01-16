@@ -1,6 +1,7 @@
 ---
 title: "Dual-Wind Discontinuous Galerkin Method for a Parabolic Obstacle Problem and an Optimal Control Problem"
 collection: talks
+type: Research Presentation
 permalink: /talks/SEARCDE2022_RDU
 venue: "Session N, Room SAS 2106, NCSU"
 date: 2022-11-12

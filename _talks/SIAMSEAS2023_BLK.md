@@ -1,6 +1,7 @@
 ---
 title: "Dual-wind discontinuous Galerkin method and its application to an optimal control problem and a parabolic variational inequality"
 collection: talks 
+type: Research Presentation
 permalink: /talks/SIAMSEAS2023_BLK
 venue: "Mini-symposium 18, Pamplin 2028, Virgina Tech"
 date: 2023-03-25

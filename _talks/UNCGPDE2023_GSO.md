@@ -1,6 +1,7 @@
 ---
 title: "Dual-wind discontinuous Galerkin method and its application to an optimal control problem"
 collection: talks
+type: Research Presentation
 permalink: /talks/UNCGPDE2023_GSO
 venue: "Virtual Conference"
 date: 2023-06-09

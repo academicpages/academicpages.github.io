@@ -1,6 +1,7 @@
 ---
 title: "Novel discontinuous Galerkin methods for an optimal control problem and a convection-diffusion equation"
 collection: talks
+type: Research Presentation
 permalink: /talks/SEARCDE2023_TLH
 venue: "Room 213, Pharmacy Building, Florida A&M University"
 date: 2023-11-18

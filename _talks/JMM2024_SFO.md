@@ -1,7 +1,7 @@
 ---
 title: "Novel discontinuous Galerkin methods for optimization problems with inequality constraints"
 collection: talks
-# type:
+type: Research Presentation
 permalink: /talks/JMM2024_SFO
 venue: "AMS Special Session 92C Room 010 Moscone Center"
 date: 2024-01-04

@@ -1,6 +1,7 @@
 ---
 title: "Symmetric Dual-Wind Discontinuous Galerkin Methods for a Parabolic Obstacle Problem"
 collection: talks
+type: Research Presentation
 permalink: /talks/ICCMAE2022_STA
 venue: "Minisymposium Session B(1), Old Main Academic Center 3030, MSUU"
 date: 2022-05-07
