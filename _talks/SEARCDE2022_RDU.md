@@ -8,7 +8,7 @@ date: 2022-11-12
 location: "SEARCDE 2022, Raleigh, North Carolina"
 ---
 
-@[SEARCDE 2022](https://wp.math.ncsu.edu/searcde2022/)
+@[SEARCDE 2022](https://wp.math.ncsu.edu/searcde2022/) [Read more](./SEARCDE2022_RDU)
 
 [Abstract](https://wp.math.ncsu.edu/searcde2022/Parallel-Session-N/)
 

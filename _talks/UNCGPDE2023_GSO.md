@@ -7,6 +7,6 @@ venue: "Virtual Conference"
 date: 2023-06-09
 location: "UNCG PD Conference 2023, Greenboro, North Carolina"
 ---
-@[UNCG PDE Conference 2023](https://mathstats.uncg.edu/pde-conference/)
+@[UNCG PDE Conference 2023](https://mathstats.uncg.edu/pde-conference/) [Read more](./UNCGPDE2023_GSO)
 
 [Abstract](https://drive.google.com/file/d/1SyZvlzL5WIqr3WwFYskjGzsTEiwARTZm/view)
