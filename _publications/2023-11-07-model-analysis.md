@@ -7,7 +7,7 @@ date: 2023-11-07
 venue: 'ArXiv'
 venue-type: conference-paper
 paperurl: 'https://arxiv.org/abs/2311.04109'
-citation: 'Benjamin Steenhoek, Md Mahbubur Rahman, Shaila Sharmin, & Wei Le. (2023). Do Language Models Learn Semantics of Code? A Case Study in Vulnerability Detection. https://arxiv.org/abs/2311.04109'
+citation: 'Benjamin Steenhoek, Md Mahbubur Rahman, Shaila Sharmin, & Wei Le. (2023). Do Language Models Learn Semantics of Code? A Case Study in Vulnerability Detection. ArXiv.'
 ---
 
 Language models are pretrained on a large corpus of source code, then fine-tuned on a smaller supervised vulnerability dataset. Due to the different training objectives and the performance of the models, it is interesting to consider whether the models have learned the semantics of code relevant to vulnerability detection, namely bug semantics, and if so, how the alignment to bug semantics relates to model performance. In this paper:
