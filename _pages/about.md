@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently open to opportunities.
+I work as a data scientist, manager, and strategist at the [MOH Office for Healthcare Transformation (MOHT)](https://moht.com.sg) in Singapore.
 
 I completed my PhD in the [Adaptive Brain Lab](https://www.abg.psychol.cam.ac.uk/) at the University of Cambridge's Department of Psychology, under the supervision of [Zoe Kourtzi](https://www.psychol.cam.ac.uk/staff/professor-zoe-kourtzi). Here, I worked on AI for Brain Science and Mental Health and computational cognitive neuroscience approaches to learning and decision making.
 
