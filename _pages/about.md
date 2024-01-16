@@ -95,6 +95,14 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 
 ## Publications
 
+* <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
+*<b>Yusheng Su</b><sup><big>*</big></sup>, Weize Chen<sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
+ICLR 2024. [[pdf](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/openbmb/agentverse)]
+
+* <b>ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate</b>\
+*Chi-Min Chan, Weize Chen, <b>Yusheng Su</b>, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu*\
+ICLR 2024. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
+
 * <b>Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods</b>\
 *<b>Yusheng Su</b>, Chi-Min Chan, Jiali Cheng, Yujia Qin, Yankai Lin, Shengding Hu, Zonghan Yang, Ning Ding, Xingzhi Sun, Guotong Xie, Zhiyuan Liu, Maosong Sun*\
 EMNLP 2023. [[pdf](https://openreview.net/forum?id=3CIQIYNGlp)] [[code](https://github.com/yushengsu-thu/PET_Scaling)]
@@ -139,17 +147,11 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
 ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
 
-* <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
-*<b>Yusheng Su</b><sup><big>*</big></sup>, Weize Chen<sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
-ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.10848)] [[code](https://github.com/openbmb/agentverse)]
-
 * <b>Communicative agents for software development</b>\
 *Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
 ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
 
-* <b>ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate</b>\
-*Chi-Min Chan, Weize Chen, <b>Yusheng Su</b>, Jianxuan Yu, Wei Xue, Shanghang Zhang, Jie Fu, Zhiyuan Liu*\
-ArXiv 2023. [[pdf](https://arxiv.org/abs/2308.07201)] [[code](https://github.com/thunlp/ChatEval)]
+
 
 
 <!--
