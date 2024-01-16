@@ -16,6 +16,6 @@ Recommended citation:
   title={A Neural Framework for Generalized Causal Sensitivity Analysis},
   author={Frauen, Dennis and Imrie, Fergus and Curth, Alicia and Melnychuk, Valentyn and Feuerriegel, Stefan and van der Schaar, Mihaela},
   journal={arXiv preprint arXiv:2311.16026},
-  year={2023}
+  year={2024}
 }
 ```
