@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching_UNCG
 venue: "UNCG, [Department of Mathematics & Statistics](https://mathstats.uncg.edu/)"
-# date: 2014-01-01
+date: 2019-2024
 location: "Greensboro, NC"
 ---
 
