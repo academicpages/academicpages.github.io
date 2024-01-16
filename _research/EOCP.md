@@ -51,19 +51,19 @@ $$
  $$
 <br>
 <br>
-Exact solution  $(\overline{y},\overline{u}.\overline{p}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
+Exact solution  $(\overline{y},\overline{p},\overline{u}) \in H^1(\Omega) \times U_{ad} \times H^1(\Omega)$:
 <br>
 $$
     \begin{array}{rrlrrlrrl}
         & \overline{y}(x_1,x_2) 
         & =
         & \sin(\pi x_1) \sin(\pi x_2) \\
-        & \overline{u}(x_1,x_2) 
-        & =
-        & 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \\ 
         & \overline{p}(x_1,x_2) 
         & =
-        & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
+        & -2 \pi^2 \sin(\pi x_1) \sin(\pi x_2) \\
+        & \overline{u}(x_1,x_2) 
+        & =
+        & 2 \pi^2 \sin(\pi x_1) \sin(\pi x_2)
     \end{array}
 $$
 <br>
@@ -99,12 +99,12 @@ $$
     \end{array}
 $$
 <br>
-{% include /include_research/EOCP/EOCP_NumEx2_pics1.html %}
+{% include /include_research/EOCP/EOCP_NumEx2_pics_state.html %}
 <br>
-{% include /include_research/EOCP/EOCP_NumEx2_pics2.html %}
+{% include /include_research/EOCP/EOCP_NumEx2_pics_adjoint.html %}
 <br>
-{% include /include_research/EOCP/EOCP_NumEx2_pics3.html %}
+{% include /include_research/EOCP/EOCP_NumEx2_pics_control.html %}
 <br>
-{% include /include_research/EOCP/EOCP_NumEx2_pics4.html %}
+{% include /include_research/EOCP/EOCP_NumEx2_pics_lambda.html %}
 <br>
 {% include /include_research/EOCP/EOCP_NumEx2_table.html %}
