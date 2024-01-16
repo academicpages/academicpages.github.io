@@ -1,0 +1,50 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width:33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/u_exact_ex1.png"
+        style="width:100%"
+        alt="Picture of exact control">
+        <figcaption>Exact control</figcaption>
+    </div>
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/uh_P0_ex1.png"
+        style="width:100%"
+        alt="Picture of numerical control in P0 spanned space">
+        <figcaption>u_h with $\mathbb{P}_0$ functions</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/uh_P1.png"
+        style="width:100%"
+        alt="Picture of numerical control in P1 spanned space">
+        <figcaption>u_h with $\mathbb{P}_1$ functions</figcaption>
+    </div>
+  </div>
+</div>
+</body>
+</html>

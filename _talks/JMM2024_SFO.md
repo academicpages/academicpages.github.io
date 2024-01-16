@@ -8,6 +8,7 @@ date: 2024-01-04
 location: "JMM 2024, San Francisco, California"
 ---
 @[JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_intro)
+<a href="/talks/JMM2024_SFO.md">Read more</a>
 
 [Abstract](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31371)
 

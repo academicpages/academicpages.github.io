@@ -1,0 +1,42 @@
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/y_exact_ex1.png"
+        style="width:100%"
+        alt="Picture of exact state">
+        <figcaption>Exact state</figcaption>
+    </div> 
+  </div>
+  <div class="column">
+    <div style="text-align: center;">
+        <img src="/research/figures/EOCP/yh_P1_ex1.png"
+        style="width:100%"
+        alt="Picture of numerical state in P1 spanned space">
+        <figcaption>y_h with $\mathbb{P}_1$ functions</figcaption>
+    </div> 
+  </div>
+</div>
+</body>
+</html>
