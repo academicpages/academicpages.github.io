@@ -1,11 +1,22 @@
 #!/bin/bash
-sudo apt install nodejs
-curl -fsSL https://github.com/rbenv/rbenv-installer/raw/HEAD/bin/rbenv-installer | bash
-echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
-rbenv install 2.7.6
-rbenv global 2.7.6
-ruby --version
-gem install bundler
+set -e
 
+# Install asdf
+git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.13.1
+. "$HOME/.asdf/asdf.sh"
+
+# Install ruby plugin
+asdf plugin add ruby https://github.com/asdf-vm/asdf-ruby.git
+asdf install ruby 2.7.6
+asdf global ruby 2.7.6
+ruby --version
+
+# Install nodejs
+asdf plugin add nodejs https://github.com/asdf-vm/asdf-nodejs.git
+asdf install nodejs latest
+node --version
+
+# Install packages
+gem install bundler
 bundle clean
 bundle install
