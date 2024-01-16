@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Di Zhou"
-  avatar           : "images/Di_Zhou_Self.png"
+  avatar           : "/images/Di_Zhou_Self.png"
   bio              : "Interested in web software development and prefer to work on backend."
   location         : "Salt Lake City - UT"
   employer         :
