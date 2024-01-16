@@ -8,7 +8,7 @@ tags:
   - tooling
 image: '/files/unsplash/duy-pham-Cecb0_8Hx-o-unsplash.jpg'
 imagealt: 'people holding shoulders sitting on wall'
-imageoffset: "50%"
+imageoffset: "30%"
 imagecredit_id: '@miinyuii'
 imagecredit_name: 'Duy Pham'
 ---
