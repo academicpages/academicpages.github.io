@@ -15,7 +15,7 @@ imagecredit_name: 'Duy Pham'
 # TL;DR
 I set up a shared cache for HuggingFace libraries like `transformers` and `datasets`.
 See the repository: [https://github.com/bstee615/shared-hf-cache](https://github.com/bstee615/shared-hf-cache).
-To use it, create a shared directory and set the environment variable `export HF_HOME="/huggingface"`.
+To use it, create a shared directory which can be edited by all interested users and set the environment variable `export HF_HOME="/huggingface"`.
 
 # The problem: duplicated model checkpoints and datasets
 
