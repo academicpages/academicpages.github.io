@@ -85,6 +85,8 @@ Yongjun Zhang. 2021. "[Using Population Mobility to Measure Racial Residential S
 
 ## Talks
 
+Yongjun Zhang. Feb 2024. ''Sinophobia on Western Social Media During the Early Pandemic.'' York Centre for Asian Research. [[Poster]](https://yongjunzhang.com/files/ycar.pdf); [[Link]](https://ycar.apps01.yorku.ca/event/sinophobia-western-social-media-early-covid19-zhang-09022024/)
+
 Yongjun Zhang. Novemeber 2023. "Generative AI and Computational Social Science." Peking University.
 
 Yongjun Zhang. October 2023. "Quantifying Segregation with Big Data." Department of Sociology at Queens College. [[Poster]](https://yongjunzhang.com/files/queens-soc.pdf)
