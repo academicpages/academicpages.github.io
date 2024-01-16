@@ -6,11 +6,10 @@ permalink: /posts/2024/01/shared-hf-cache/
 tags:
   - blog-post
   - tooling
-# image: '/files/unsplash/super-snapper-sdTL4qTynfM-unsplash.jpg'
-# imagealt: 'Playmobil people queuing for a gallery while a fancy red sports car whizzes past'
-# imageoffset: "30%"
-# imagecredit_id: '@supersnapper27'
-# imagecredit_name: 'Super Snapper'
+image: '/files/unsplash/duy-pham-Cecb0_8Hx-o-unsplash.jpg'
+imagealt: 'people holding shoulders sitting on wall'
+imagecredit_id: '@miinyuii'
+imagecredit_name: 'Duy Pham'
 ---
 
 # TL;DR
