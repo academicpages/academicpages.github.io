@@ -8,4 +8,4 @@ venue: "UNCG, Department of Mathematics & Statistics"
 location: "Greensboro, NC"
 ---
 <h1> Academic Positions </h1>
-{%include teaching_UNCG.hhtml%}
+{%include inlude_teaching/teaching_UNCG.hhtml%}
