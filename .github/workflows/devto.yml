@@ -11,15 +11,17 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
-        container: pandoc/latex    # "ubuntu" is a more generic container
-                                    # using "pandoc/latex" because of dependencies
-                                    # used in the specific "build.sh"
+        # container: pandoc/latex    # "ubuntu" is a more generic container
+        #                             # using "pandoc/latex" because of dependencies
+        #                             # used in the specific "build.sh"
         steps:
         - uses: actions/checkout@v2
-        - name: test git clone check
-          run: git clone https://${{ secrets.API_TOKEN_GITHUB }}@github.com/kunalworldwide/dev.to-deployment.git
-        - name: list files
-          run: ls -l
+        # - name: test git clone check
+        #   run: git clone https://${{ secrets.API_TOKEN_GITHUB }}@github.com/kunalworldwide/dev.to-deployment.git
+        # - name: list files
+        #   run: ls -l
+        - name: git clear command
+          run: git config --unset-all http.https://github.com/.extraheader
         - name: Pushes to another repository
           uses: cpina/github-action-push-to-another-repository@main
           env:
