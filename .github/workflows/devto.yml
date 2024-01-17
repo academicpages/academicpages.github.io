@@ -1,42 +1,32 @@
-# name: Deploy posts to dev.to
+name: Push markdown files to dev.to repo
 
-# on:
-#   push:
-#     branches: ["master"]
-#     # Triggers the workflow on push events to markdown files in _posts folder
-#     paths: 
-#       - '_posts/*.md'
-#   workflow_dispatch:
-# jobs:
-#   publish:
-#     runs-on: ubuntu-latest
+on:
+  push:
+    branches: ["master"]
+    # Triggers the workflow on push events to markdown files in _posts folder
+    paths: 
+      - '_posts/*.md'
+  workflow_dispatch:
 
-#     steps:
-#     - uses: actions/checkout@v2
-
-#     - name: List files
-#       run: ls -l
-    
-#     - name: pwd
-#       run: pwd
-
-#     - name: Publish articles on dev.to
-#       uses: sinedied/publish-devto@v2
-#       id: publish_devto
-#       with:
-#         # Your dev.to personal API key to publish and update articles.
-#         # See https://docs.dev.to/api/#section/Authentication/api_key
-#         devto_key: ${{ secrets.DEVTO_TOKEN }}
-#         # Your GitHub personal access token, used to create commits for updated files.
-#         # If you have a protected branch, you need to use a personal access token
-#         # with the 'repo' permission.
-#         # See https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
-#         github_token: ${{ secrets.GITHUB_TOKEN }}
-#         # (Optional) The files to publish. Default is "posts/**/*.md"
-#         files: "_posts/**/*.md"
-#         branch: master
-#         # (Optional) Use conventional commit messages. The default is false.
-#         # See https://www.conventionalcommits.org. 
-#         conventional_commits: true
-#         # (Optional) Do not make actual changes on dev.to if it's a pull request.
-#         dry_run: ${{ github.event_name == 'pull_request' }}
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        container: pandoc/latex    # "ubuntu" is a more generic container
+                                    # using "pandoc/latex" because of dependencies
+                                    # used in the specific "build.sh"
+        steps:
+        - uses: actions/checkout@v2
+        - name: creates output
+          run:  sh ./build.sh # some command from your repository that creates
+                                # output to "source-directory" ("output" in the example)
+        - name: Pushes to another repository
+          uses: cpina/github-action-push-to-another-repository@main
+          env:
+            SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+            #API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+            with:
+            source-directory: '_posts'
+            destination-github-username: 'DevToPublishBot'
+            destination-repository-name: 'dev.to-deployment'
+            user-email: dev.topublisherbot@github.com
+            target-branch: development
