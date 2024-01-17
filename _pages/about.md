@@ -74,7 +74,7 @@ Will share our work: [On Transferability of Prompt Tuning for Natural Language P
 </font> -->
 
 * [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
-* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)].
+* [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)].
 * [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
 * [Oct. 2023] Thrilled to announce that [Exploring the Impact of Model Scaling on Parameter-efficient Tuning Methods](https://openreview.net/forum?id=3CIQIYNGlp) was accepted by EMNLP 2023 as the main conference paper.
 * [Oct. 2023] Thrilled to announce that we propose a next-generation AI agent, [X Agent](https://blog.x-agent.net/about/), that can accomplish more challenging tasks in the world.
