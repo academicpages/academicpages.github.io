@@ -43,6 +43,7 @@ author_profile: true
 0. Zhang, L., Peng, T. Q., Zhang, Y. P., Wang, X. H., & Zhu, J. J. H. (2014). Content or Context: Which Matters More in Information Processing on Microblogging Sites? Computers in Human Behavior, 31, 242-249.
 
 ## Connection and Communication on Social Media
+0.  Lee, S., Cho, M. S., & Peng, T. Q. (2024). [Understanding Sentiment towards Racial Unrest through Temporal and Geographic Lenses: A Multilevel-Analysis across Metropolitan Areas in the United States](https://doi.org/10.3389/fcomm.2024.1259046). *Frontiers in Communication*.
 0. Tan, Y., Peng. T. Q., & Chiang, Y. S. (2022). The Facebook networking among political candidates and its outcomes: An empirical study of the 2016 legislative election in Taiwan. Journal of Information Society. [in Chinese]
 0. Robertson, C., Dutton, W., Ackland, R., & Peng, T. Q. (2019). The democratic role of social media in political debates: The use of Twitter in the first televised US presidential debate of 2016. <i>Journal of Information Technology & Politics,16</i>, 105-118. 
 0. Paulus, F. M., Müller-Pinzler, L., Meshi, D., Peng, T. Q., Martinez Mateo, M., & Krach, S. (2019). The politics of embarrassment: Considerations on how norm-transgressions of political representatives shape nation-wide communication of emotions on social media. <i>Frontiers in Communication</i>
@@ -54,6 +55,7 @@ author_profile: true
 0. Peng, T. Q., Liu, M. C., Wu, Y. C., & Liu, S. X. (2016). Follower-followee Network, Communication Networks and Vote Agreement of U.S. Members of Congress. <i>Communication Research, 43</i>, 996-1024.
 
 ## Public Health and Health Communication
+0.  Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (2024). [The role of collective group orientation and social norms on physical distancing behaviors for disease prevention](https://doi.org/10.1080/10410236.2024.2303826). *Health Communication*.
 0. Yoon, H., Jang, Y., Lapinski, M., Turner, M. M., Peng, T. Q., & Lee, S. (in press). The role of collective group orientation and social norms on physical distancing behaviors for disease prevention. Health Communication.
 0. Lee, S., Ma, S. Y, Meng, J., Zhuang, J., & Peng, T. Q. (2022). Detecting sentiment toward emerging infectious disease on social media: A validity evaluation of dictionary-based sentiment analysis. International Journal of Environmental Research and Public Health, 19(11), 6759.
 0. Chung, M., Jang, Y., Lapinski, M. Kerr, J., Zhao, J. H., Shupp, R., & Peng, T. Q. (2022). I do, therefore I think it is normal: The causal effects of behavior on descriptive norm formation and evolution. Social Influence, 17(1), 17-35.
