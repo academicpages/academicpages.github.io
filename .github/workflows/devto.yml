@@ -20,10 +20,12 @@ jobs:
           uses: cpina/github-action-push-to-another-repository@main
           env:
             SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-            #API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
             with:
-            source-directory: '_posts'
+            source-directory: '_posts/'
             destination-github-username: 'kunalworldwide'
             destination-repository-name: 'dev.to-deployment'
             user-email: dev.topublisherbot@github.com
+            commit-message: See ORIGIN_COMMIT from $GITHUB_REF
             target-branch: development
+        - name: Test get variable exported by push-to-another-repository
+          run: echo $DESTINATION_CLONED_DIRECTORY
