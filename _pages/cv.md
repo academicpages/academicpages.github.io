@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Download my CV [here](http://hmdolatabadi.github.io//files/CV_Hadi_Mohaghegh_Dolatabadi_Oct_2023.pdf).
+Download my CV [here](http://hmdolatabadi.github.io//files/CV_Hadi_Mohaghegh_Dolatabadi_Jan_2024.pdf).
 
 Education
 ======
