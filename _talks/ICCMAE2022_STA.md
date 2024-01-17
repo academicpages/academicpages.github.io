@@ -3,7 +3,7 @@ title: "Symmetric Dual-Wind Discontinuous Galerkin Methods for a Parabolic Obsta
 collection: talks
 type: Research Presentation
 permalink: /talks/ICCMAE2022_STA
-venue: "Minisymposium Session B(1), Old Main Academic Center 3030, MSUU"
+venue: "Minisymposium Session B(1), Room 3030 Old Main Academic Center, MSU"
 date: 2022-05-07
 location: "ICCMAE 2022, Starkville, Mississippi"
 ---

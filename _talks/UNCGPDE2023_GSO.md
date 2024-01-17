@@ -3,9 +3,9 @@ title: "Dual-wind discontinuous Galerkin method and its application to an optima
 collection: talks
 type: Research Presentation
 permalink: /talks/UNCGPDE2023_GSO
-venue: "Virtual Conference"
+venue: "Virtual Conference, UNCG"
 date: 2023-06-09
-location: "UNCG PD Conference 2023, Greenboro, North Carolina"
+location: "UNCG PDE Conference 2023, Greenboro, North Carolina"
 ---
 @[UNCG PDE Conference 2023](https://mathstats.uncg.edu/pde-conference/) [Read more](./UNCGPDE2023_GSO)
 

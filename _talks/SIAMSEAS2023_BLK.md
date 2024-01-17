@@ -3,7 +3,7 @@ title: "Dual-wind discontinuous Galerkin method and its application to an optima
 collection: talks 
 type: Research Presentation
 permalink: /talks/SIAMSEAS2023_BLK
-venue: "Mini-symposium 18, Pamplin 2028, Virgina Tech"
+venue: "Mini-symposium 18, Room Pamplin 2028, Virgina Tech"
 date: 2023-03-25
 location: "SIAM-SEAS 2023, Blacksburg, Virginia"
 ---

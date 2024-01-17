@@ -3,7 +3,7 @@ title: "Dual-wind discontinuous Galerkin method and its application to an optima
 collection: talks
 type: Research Presentation
 permalink: /talks/AIMS2023_WIL
-venue: "Special Session 79, ST 2005, UNC Wilmington"
+venue: "Special Session 79, Room ST 2005, UNC Wilmington"
 date: 2023-06-03
 location: "AIMS 2023, Wilmington, North Carolina"
 ---
