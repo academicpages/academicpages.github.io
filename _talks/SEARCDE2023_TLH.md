@@ -8,8 +8,6 @@ date: 2023-11-18
 location: "SEARCDE 2023, Tallahassee, Florida"
 ---
 
-@[SEARCDE 2023](https://sites.google.com/view/searcde-2023/)
-
-[Abstract](https://drive.google.com/file/d/1PO58QabQbS__IoC0yCQddKbsuIMMNzkp/view)
+@[SEARCDE 2023](https://sites.google.com/view/searcde-2023/) [Abstract](https://drive.google.com/file/d/1PO58QabQbS__IoC0yCQddKbsuIMMNzkp/view)
 
 

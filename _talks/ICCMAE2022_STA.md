@@ -8,7 +8,5 @@ date: 2022-05-07
 location: "ICCMAE 2022, Starkville, Mississippi"
 ---
 
-@[ICCMAE 2022](https://www.math.msstate.edu/news/2022/03/2nd-international-conference-computational-methods-and-applications-engineering-may-7) 
-
-[Abstract](https://www.iccmae.math.msstate.edu/news/2022/04/mb1-recent-developments-finite-difference-and-finite-element-methods-ii)
+@[ICCMAE 2022](https://www.math.msstate.edu/news/2022/03/2nd-international-conference-computational-methods-and-applications-engineering-may-7 [Abstract](https://www.iccmae.math.msstate.edu/news/2022/04/mb1-recent-developments-finite-difference-and-finite-element-methods-ii)
 
