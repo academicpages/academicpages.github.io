@@ -35,7 +35,7 @@ $$
 \Omega = (1,3)^2,\quad \boldsymbol{\rho} = \langle x_1,x_2 \rangle, \quad \epsilon = 10^{-9} \quad u(x_1,x_2) = \dfrac{x_2}{x_1}
 $$
 
-{% include /include_research/CD/CD_NumEx2_pics.html %}
+{% include /include_research/CD/CD_NumEx1_pics.html %}
 {% include /include_research/CD/CD_NumEx1_table.html %}
 
 <h3>Numerical Experiment - 2: Boundary Layer</h3>
