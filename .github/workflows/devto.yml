@@ -23,7 +23,7 @@ jobs:
             #API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
             with:
             source-directory: '_posts'
-            destination-github-username: 'DevToPublishBot'
+            destination-github-username: 'kunalworldwide'
             destination-repository-name: 'dev.to-deployment'
             user-email: dev.topublisherbot@github.com
             target-branch: development
