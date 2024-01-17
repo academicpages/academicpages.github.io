@@ -8,4 +8,5 @@ date: 2022-04-30
 location: "RAMS conference 2022, Richmond, Virginia"
 ---
 
-@[RAMS Conference 2022](https://math.vcu.edu/rams/past-conferences/2022/) [Abstract](https://math.vcu.edu/rams/past-conferences/2022/)
+@[RAMS Conference 2022](https://math.vcu.edu/rams/past-conferences/2022/) 
+<!-- [Abstract](https://math.vcu.edu/rams/past-conferences/2022/) -->

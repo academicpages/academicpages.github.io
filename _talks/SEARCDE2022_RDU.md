@@ -7,8 +7,9 @@ venue: "Session N, Room SAS 2106, NCSU"
 date: 2022-11-12
 location: "SEARCDE 2022, Raleigh, North Carolina"
 ---
-[@SEACDE2022](https://wp.math.ncsu.edu/searcde2022/) [Abstract](https://wp.math.ncsu.edu/searcde2022/Parallel-Session-N/) 
+[@SEACDE2022](https://wp.math.ncsu.edu/searcde2022/)
 {% include /include_talks/SEARCDE2022_RDU.html %}
+<!-- [Abstract](https://wp.math.ncsu.edu/searcde2022/Parallel-Session-N/)  -->
 
 
 
