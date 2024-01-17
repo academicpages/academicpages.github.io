@@ -16,9 +16,6 @@ jobs:
                                     # used in the specific "build.sh"
         steps:
         - uses: actions/checkout@v2
-        - name: creates output
-          run:  sh ./build.sh # some command from your repository that creates
-                                # output to "source-directory" ("output" in the example)
         - name: Pushes to another repository
           uses: cpina/github-action-push-to-another-repository@main
           env:
