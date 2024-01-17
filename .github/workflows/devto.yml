@@ -11,25 +11,21 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
+        container: pandoc/latex    # "ubuntu" is a more generic container
+                                    # using "pandoc/latex" because of dependencies
+                                    # used in the specific "build.sh"
         steps:
         - uses: actions/checkout@v2
-        - name: Clone destination repo
+        - name: Pushes to another repository
+          uses: cpina/github-action-push-to-another-repository@main
           env:
-            SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-          run: git clone git@github.com:kunalworldwide/dev.to-deployment.git
-        - name: list files
-          run: ls -l
-
-        # - name: Pushes to another repository
-        #   uses: cpina/github-action-push-to-another-repository@main
-        #   env:
-        #     SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-        #     with:
-        #     source-directory: '_posts/'
-        #     destination-github-username: 'kunalworldwide'
-        #     destination-repository-name: 'dev.to-deployment'
-        #     user-email: dev.topublisherbot@github.com
-        #     commit-message: See ORIGIN_COMMIT from $GITHUB_REF
-        #     target-branch: development
-        # - name: Test get variable exported by push-to-another-repository
-        #   run: echo $DESTINATION_CLONED_DIRECTORY
+            API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+            with:
+            source-directory: '_posts/'
+            destination-github-username: 'kunalworldwide'
+            destination-repository-name: 'dev.to-deployment'
+            user-email: dev.topublisherbot@github.com
+            commit-message: See ORIGIN_COMMIT from $GITHUB_REF
+            target-branch: development
+        - name: Test get variable exported by push-to-another-repository
+          run: echo $DESTINATION_CLONED_DIRECTORY
