@@ -16,6 +16,10 @@ jobs:
                                     # used in the specific "build.sh"
         steps:
         - uses: actions/checkout@v2
+        - name: test git clone check
+          run: git clone https://${{ secrets.API_TOKEN_GITHUB }}@github.com/kunalworldwide/dev.to-deployment.git
+        - name: list files
+          run: ls -l
         - name: Pushes to another repository
           uses: cpina/github-action-push-to-another-repository@main
           env:
