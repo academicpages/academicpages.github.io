@@ -20,6 +20,8 @@ jobs:
           env:
             SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
           run: git clone git@github.com:kunalworldwide/dev.to-deployment.git
+        - name: list files
+          run: ls -l
 
         # - name: Pushes to another repository
         #   uses: cpina/github-action-push-to-another-repository@main
