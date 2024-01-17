@@ -7,10 +7,5 @@ venue: "AMS Special Session 92C Room 010 Moscone Center"
 date: 2024-01-04
 location: "JMM 2024, San Francisco, California"
 ---
-{% include base_path %}
-@[JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_intro)
-
-[Abstract](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31371)
-
-
+@[JMM 2024](https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_intro) [Abstract](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/31371)
 {% include /include_talks/JMM2024_SFO.html %}
