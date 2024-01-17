@@ -8,6 +8,5 @@ date: 2023-06-03
 location: "AIMS 2023, Wilmington, North Carolina"
 ---
 
-@[AIMS 2023](https://aimsconference.org/conferences/2023/index.html)
-
+@[AIMS 2023](https://aimsconference.org/conferences/2023/index.html)[Abstract](https://aimsconference.org/conferences/2023/abstracts-compressed-2023-05-22-0937.pdf)
 {% include /include_talks/AIMS2023_WIL.html %}
