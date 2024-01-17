@@ -11,9 +11,6 @@ on:
 jobs:
     build:
         runs-on: ubuntu-latest
-        container: pandoc/latex    # "ubuntu" is a more generic container
-                                    # using "pandoc/latex" because of dependencies
-                                    # used in the specific "build.sh"
         steps:
         - uses: actions/checkout@v2
         - name: Clone destination repo
