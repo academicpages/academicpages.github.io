@@ -13,8 +13,8 @@ Education and qualifications
 ======
 * 2021: French university lecturer qualification, CNU section 7
 * 2020: PhD (Computer Science), University of Toulouse
-* 2016: MSc (Machine learning), Sorbonne Université
-* 2015: MSc (Engineering), Centrale Paris 
+* 2016: MSc (Machine Learning), Sorbonne Université
+* 2015: Ing (Computer Science), Centrale Paris 
 
 Industry experience
 ======
