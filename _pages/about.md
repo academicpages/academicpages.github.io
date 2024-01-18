@@ -16,6 +16,8 @@ My research interests lie in Natural Language Processing and Multi-modal Underst
 
 I have been dedicated to equipping large language models (LLMs) with the capability to process multi-modal information, endowing them with the capacity to perceive the world. Some of my recent projects include addressing QA for long-form videos and exploring vulnerabilities in large language models.
 
+**I am open for collaborations in research. Also, I am looking for potential Ph.D. or RA. positions.**
+
 
 ## News
 **01/2024** &nbsp;&nbsp;&nbsp;&nbsp; Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of **92%**.
