@@ -29,7 +29,7 @@ See [publications](latower.github.io/publications).
 
 ### EDUCATION
 
-* MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: [*Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*](https://theses.liacs.nl/310)
+* MSc in Artificial Intelligence, Leiden University, 2016. *Cum laude*. I did a 42 ECTS research project with the [DTAI group](https://dtai.cs.kuleuven.be) of [KU Leuven](https://www.kuleuven.be/english/), under the supervision of the developers of [ProbLog](https://dtai.cs.kuleuven.be/problog/). The title of the resulting thesis was: [*Incremental algorithms for solving stochastic constraint optimisation problems with probabilistic logic programming.*](https://theses.liacs.nl/310). Received my degree *cum laude* (with distinction).
 * Pre-master in Computer Science (60 ECTS of Bachelor CS courses), Leiden University, 2014. GPA: 9.2/10 (A+).
 * BSc in Physics and Astrophysics, Amsterdam University, 2012.
 
@@ -66,7 +66,7 @@ See [teaching](latower.github.io/teaching).
 
 #### PROGRAM COMMITTEE MEMBER
 
-<!--   - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)  -->
+  <!-- - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)  -->
   - [NeurIPS 2023](https://nips.cc/Conferences/2023)
   - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) 
   - [NeurIPS 2022](https://nips.cc/Conferences/2022)
