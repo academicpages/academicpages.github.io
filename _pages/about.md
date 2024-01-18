@@ -118,6 +118,13 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+![](images/haojie_iclr24.png){: .align-right width="200px"}
+**Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
+Haojie Huang, Owen Lewis Howell, **Dian Wang**, Xupeng Zhu, Robert Platt, Robin Walters  
+*ICLR 2024, Vienna, Austria*  
+<button class="button-4" onclick="window.open('https://openreview.net/pdf?id=UulwvAU1W0','_blank')">PDF</button>
+<br>
+
 ![](images/haojie_ijrr.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
 Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
