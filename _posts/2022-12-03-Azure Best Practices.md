@@ -1,5 +1,7 @@
 # Azure Best Practices
 
+
+
 ![Kunal Das, Author](https://miro.medium.com/v2/resize:fill:44:44/1*kfaefcgQPHrPsNobjuiiSg.jpeg)
 
 
