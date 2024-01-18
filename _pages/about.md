@@ -30,11 +30,7 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 
 ## Papers
 
-* How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs
-
-  <br>Yi Zeng\*, **Hongpeng Lin\*** (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia*, Weiyan Shi\* (co-supervise)
-
-  arXiv, [Project](https://chats-lab.github.io/persuasive_jailbreaker/) [Paper](https://arxiv.org/abs/2401.06373) [Code](https://github.com/CHATS-lab/persuasive_jailbreaker)
+* How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs<br>Yi Zeng\*, **Hongpeng Lin\*** (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia*, Weiyan Shi\* (co-supervise)<br>arXiv, [Project](https://chats-lab.github.io/persuasive_jailbreaker/) [Paper](https://arxiv.org/abs/2401.06373) [Code](https://github.com/CHATS-lab/persuasive_jailbreaker)
 
   
 
