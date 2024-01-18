@@ -1,37 +1,36 @@
-name: Push markdown files to dev.to repo
+name: Push New Markdown Files to dev.to Repo
 
 on:
   push:
     branches: ["master"]
-    # Triggers the workflow on push events to markdown files in _posts folder
     paths: 
       - '_posts/*.md'
   workflow_dispatch:
 
 jobs:
-    build:
-        runs-on: ubuntu-latest
-        # container: pandoc/latex    # "ubuntu" is a more generic container
-        #                             # using "pandoc/latex" because of dependencies
-        #                             # used in the specific "build.sh"
-        steps:
-        - uses: actions/checkout@v2
-        # - name: test git clone check
-        #   run: git clone https://${{ secrets.API_TOKEN_GITHUB }}@github.com/kunalworldwide/dev.to-deployment.git
-        # - name: list files
-        #   run: ls -l
-        # - name: git clear command
-        #   run: git config --unset-all http.https://github.com/.extraheader
-        - name: Pushes to another repository
-          uses: cpina/github-action-push-to-another-repository@main
-          env:
-            SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
-          with:
-            source-directory: _posts/
-            destination-github-username: 'kunalworldwide'
-            destination-repository-name: 'dev.to-deployment'
-            user-email: dev.topublisherbot@github.com
-            commit-message: See ORIGIN_COMMIT from $GITHUB_REF
-            target-branch: development
-        - name: Test get variable exported by push-to-another-repository
-          run: echo $DESTINATION_CLONED_DIRECTORY
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Get list of new or modified files
+      id: file_changes
+      run: |
+        echo "::set-output name=files::$(git diff --name-only HEAD^ HEAD | grep '_posts/.*.md')"
+
+    - name: Pushes to another repository
+      if: steps.file_changes.outputs.files != ''
+      uses: cpina/github-action-push-to-another-repository@main
+      env:
+        SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
+      with:
+        source-directory: ${{ steps.file_changes.outputs.files }}
+        destination-github-username: 'kunalworldwide'
+        destination-repository-name: 'dev.to-deployment'
+        user-email: dev.topublisherbot@github.com
+        commit-message: "New post(s) from $GITHUB_REF"
+        target-branch: development
+
+    - name: Test get variable exported by push-to-another-repository
+      run: echo $DESTINATION_CLONED_DIRECTORY
