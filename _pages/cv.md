@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-On this page you can find a short academic CV. For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/).
+On this page you can find a short academic CV. 
+<!-- For more details, please find me on [LinkedIn](https://www.linkedin.com/in/annalatour/). -->
 
 ### CURRENT POSITION
 
-I am currently working as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS). I work on developing new solving techniques for maximum satisfiability (MaxSAT) problems, and for counting the number of solutions to a Boolean formula (model counting, or #SAT).
+I am currently working as a Research Fellow in the [Meel group](https://meelgroup.github.io) at the [School of Computing (SoC)](https://www.comp.nus.edu.sg) of the National University of Singapore (NUS), where I have been since February 2022. I work on certification & verification, MaxSAT, and propositional model counting (#SAT).
 
 ### DOCTORATE DEGREE
 
