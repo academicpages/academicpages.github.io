@@ -11,18 +11,18 @@ redirect_from:
 
 Education and qualifications
 ======
-* 2021: French lecturer qualification, CNU section 7
+* 2021: French university lecturer qualification, CNU section 7
 * 2020: PhD (Computer Science), University of Toulouse
-* 2016: MSc (Machine learning), Sorbonne Université - Paris VI
+* 2016: MSc (Machine learning), Sorbonne Université
 * 2015: MSc (Ingénieur), Ecole Centrale Paris
 
 Industry experience
 ======
-* 2017-2020: CIFRE PhD researcher @Synapse Développement
+* 2017-2020: CIFRE PhD researcher, Synapse Développement
   * Consulting and technological transfer (NLP models and chatbots)
 
-* 2015: Data Scientist @Short Edition
-  * Text recommendation, text classification
+* 2015: Data Scientist, Short Edition
+  * Text recommendation and text classification
   
 Teaching
 ======
