@@ -93,7 +93,7 @@ $$
 {% include /include_research/PVI/PVI_NumEx1_pics.html %}
 {% include /include_research/PVI/PVI_NumEx1_table.html %}
 
-<h3>Numerical Experiment - 2: Non-zero Obstable Problem</h3>
+<!-- <h3>Numerical Experiment - 2: Non-zero Obstable Problem</h3>
 $$
     \Omega = [0,1]^2, \, J=[0,1], \, \psi = x_1(1-x_1)x_2(1-x_2), \, \alpha(t) = \dfrac{1}{2} + \dfrac{1}{4} \sin(2 \pi t) 
  $$
@@ -120,4 +120,4 @@ $$
 $$
 <br>
 {% include /include_research/PVI/PVI_NumEx2_pics.html %}
-{% include /include_research/PVI/PVI_NumEx2_table.html %}
+{% include /include_research/PVI/PVI_NumEx2_table.html %} -->
