@@ -28,13 +28,21 @@ I have been dedicated to equipping large language models (LLMs) with the capabil
 <br>
 **08/2023** &nbsp;&nbsp;&nbsp;&nbsp; Our paper "TikTalk" on multi-modal dialogue is accepted by ACM MM 2023!
 
-## Publications
+## Papers
+
+* How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs
+
+  <br>Yi Zeng\*, **Hongpeng Lin\*** (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia*, Weiyan Shi\* (co-supervise)
+
+  arXiv, [Project](https://chats-lab.github.io/persuasive_jailbreaker/) [Paper](https://arxiv.org/abs/2401.06373) [Code](https://github.com/CHATS-lab/persuasive_jailbreaker)
+
+  
 
 * TikTalk: A Video-Based Dialogue Dataset for Multi-Modal Chitchat in Real World
 <br>
-**Hongpeng Lin**, Ludan Ruan, Wenke Xia, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
+**Hongpeng Lin\***, Ludan Ruan\*, Wenke Xia\*, Peiyu Liu, Jingyuan Wen, Yixin Xu, Di Hu, Ruihua Song, Wayne Xin Zhao, Qin Jin, Zhiwu Lu
 <br>
-*ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [PDF](https://arxiv.org/abs/2301.05880) [Code](https://github.com/RUC-AIMind/TikTalk)
+*ACM MM 2023(Oral)* &nbsp;&nbsp; [Project](https://ruc-aimind.github.io/projects/TikTalk/) [Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612425) [Code](https://github.com/RUC-AIMind/TikTalk)
 
 
 * Analysis on the collection method and simulation algorithm of Chinese speech errors
