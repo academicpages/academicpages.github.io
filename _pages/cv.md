@@ -23,8 +23,8 @@ redirect_from:
 
 연구 분야 (Research Areas)
 ---
-* 5G/B5G network (Heterogeneous, massive MIMO, D2D)
-* DRL-based solution for wireless communication systems (adaptive power allocation and antenna selection)
+* 5G/B5G network (FANET, Heterogeneous, massive MIMO, D2D)
+* Deep reinforcement learning algorithm-based network optimization
 * IoT, ICT sensing-based, sensor fusion-based smart solution (with WiFi, MQTT, HTTP, BLE, NFC protocols)
 * SDR testbed-based wireless communication (Design and validation)
 * Objective detection and tracking based on a multi-modal AI model (fusion of RF signals and video streams)
@@ -34,8 +34,6 @@ redirect_from:
 ---
 * **연구 관련 (research-related)**
   * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - present)
-  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2021.04 - 2021.11)
-  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2020.04 - 2020.11)
   * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2019.09 - 2022.02)
 <br>
 
