@@ -142,7 +142,7 @@
     .page__meta,
     .page__lead,
     .btn {
-      color: #ebf5ff;
+      color: #fff;
       text-shadow: 1px 1px 4px rgba(#000, 0.5);
     }
 
@@ -227,7 +227,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#ebf5ff, $gray, 25%);
+  color: mix(#fff, $gray, 25%);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
