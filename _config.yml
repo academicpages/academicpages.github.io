@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Chris, He Li"
 title_separator          : "-"
 name                     : &name "Chris, He Li"
-description              : &description "Master Student ay UM"
+description              : &description "Postgraduate Student ay UM"
 url                      : https://chrisleeum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrisleeum/chrisleeum.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Chris, He Li"
-  avatar           : "profile.png"
-  bio              : "Master Student ay UM"
+  avatar           : "chris.jpg"
+  bio              : "Postgraduate Student ay UM"
   location         : "Macau, SAR"
   employer         :
   pubmed           :
