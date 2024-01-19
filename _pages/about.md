@@ -69,9 +69,9 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 * CSCI 356: Computer Systems (2023) -->
 
-<br>
+<!-- <br>
 
 # Others
 
 * [Writings on Medium.com ✍🏻](https://medium.com/@girraffael)
-<!-- * [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea) -->
+* [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea) -->
