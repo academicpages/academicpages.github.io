@@ -17,9 +17,10 @@ Education
 ======
 * B.S.A in Neuroscience and Evidence and Inquiry Certificate at the University of Texas at Austin, 2023
 
-Work experience
+Research experience
 ======
-* July 2023 - Present: Research Specialist  
+* July 2023 - Present: Research Specialist
+  * The University of Nebraska at Lincoln 
   * Supervisor: Dr. Maital Neta
 
 * May 2021 - May 2023: Research Assistant at The Preston Lab 
@@ -46,12 +47,6 @@ Skills
 * Univariate, MVPA, RSA analysis of fMRI data
 * Social Networking Analysis (RSiena)
 * Data visualization
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Presentations
 ======
@@ -59,16 +54,9 @@ Presentations
 * Longhorn Research Poster Session, Austin, TX, April 2023. Humphries, A. “Social Rejection and its Impact on Memory Processes” (poster).
 * UT Synapse and SAGE Symposium, Austin, TX, April 2022. Humphries, A. Gupta, N.  “Past is Prologue: Developmental Differences in the Construction of Future-Oriented Stories” (presentation).
 * Advanced Introduction to Genetics, Austin, TX, October 2022. Humphries, A. “Sex-chromosome linked genes” (guest lecture). 
-
-
-
   
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Undergraduate Teaching Experience
+====
 
 * January 2023 - May 2023: Behavioral Science to Reduce Inequality
   * Advisors: Dr. David Yeager, Dr. Nneka Ibekwe-Okafor
