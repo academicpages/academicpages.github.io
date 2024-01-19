@@ -14,14 +14,10 @@ He Li received his BE degree from Southeast University in 2020. Also, he holds t
 
 ## <font color=CornflowerBlue>Awards:</font> ##
 
----
-
 The First Prize in National College Students FPGA Innovative Design Invitational Competition, Dec. 2018
 
 The First Prize in 2018 Electronic Design Contest for Jiangsu Provincial College Students (TI Cup), Aug. 2018
 
 ## <font color=CornflowerBlue>Publications:</font> ##
-
----
 
 Huang, Lexiong, Ruihua Han, Guoliang Li, ***He Li***, Shuai Wang, Yang Wang, and Chengzhong Xu. “iCOIL: Scenario Aware Autonomous Parking Via Integrated Constrained Optimization and Imitation Learning.” arXiv preprint arXiv:2305.13663 (2023).
