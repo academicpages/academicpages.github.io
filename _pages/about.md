@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-He Li is currently a postgraduate student at SKL-IOTSC at University of Macau and visiting student at SIAT. His research interests lie in autonomous driving and virtual reality. He is co-supervised by Prof. Chengzhong Xu (FIEEE) and Prof. Shuai Wang.
+He Li is currently a postgraduate student at SKL-IOTSC at University of Macau and visiting student at SIAT. His research interests lie in autonomous driving and virtual reality. He is co-supervised by [Prof. Chengzhong Xu (FIEEE)](https://www.fst.um.edu.mo/personal/czxu/) and [Prof. Shuai Wang](https://bearswang.github.io/).
 
 He Li received his BE degree from Southeast University in 2020. Also, he holds the qualification of embedded system development engineer. Before joining UM, he works as a software engineer at Vivo and Nokia, successively.
 
