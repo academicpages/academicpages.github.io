@@ -41,7 +41,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics</b><br>
       <i style="font-size: 16px;">Lehong Wang, Savita V. Kendre, <strong>Haotian Liu</strong>, and Markus P. Nemitz</i>
-      <p style="font-size: 16px;">IEEE <a href="https://softroboticsconference.org/">RoboSoft 2024</a> at San Diego <a href="https://arxiv.org/abs/2312.01130">Preprint</a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
+      <p style="font-size: 16px;">Under Review<a href="https://arxiv.org/abs/2312.01130">Preprint</a> <a href="https://youtu.be/Q5BHOogOOLo?si=KBZuP8HilYL4oS0P">Video</a> <a href="https://lehong-wang.github.io//_projects/fluidic_circuits.html">Project page</a></p>
     </td>
     <td style = "border: none">
       <img src="images/STREAM_ICRA_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
@@ -53,7 +53,7 @@ My long-term research vision is to build automation systems that can be self-ada
     <td style = "border: none">
       <b style="font-size: 18px;">Vision-based FDM Printing for Fabricating Airtight Soft Actuators</b><br>
       <i style="font-size: 16px;">Yijia Wu*, Zilin Dai*, <strong>Haotian Liu</strong>, Lehong Wang, and Markus P. Nemitz (* co-first author)</i>
-      <p style="font-size: 16px;">Under review <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
+      <p style="font-size: 16px;"><a href="https://softroboticsconference.org/">RoboSoft 2024</a> at San Diego <a href="https://arxiv.org/abs/2312.01135">Preprint</a> <a href="https://youtu.be/6YeycaHmTKA?si=JdO5hQ1yYYJmbH4s">Video</a></p>
     </td>
     <td>
       <img src="images/VisionFDM_RoboSoft_new.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
