@@ -14,4 +14,4 @@ Currently, I'm doing research on spatial audio, acoustic simulation, and event l
 
 Before my PhD, I was examining how to [estimate the periodicity of oscillations in solar flare light curves](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=ykLTvcYAAAAJ&citation_for_view=ykLTvcYAAAAJ:d1gkVwhDpl0C) as a researcher at NYU's Department of Physics, where I did my undergraduate degree. I have Professors [David Hogg](https://cosmo.nyu.edu/hogg/) and [Kyle Cranmer](https://theoryandpractice.org/) to thank for encouraging me to branch out into the data sciences, and for giving me the opportunity to develop some projects with them prior to beginning my work at CDS.
 
-This website is a bit sparse, and is still under construction, but if you're looking for my CV, [here it is](../files/ICK_CV.pdf)!
+This website is a bit sparse, and is still under construction, but if you're looking for my CV, [here it is](../files/Ick_CV.pdf)!
