@@ -13,9 +13,9 @@ author_profile: true
 
 ## Internship
 
-+ Undergraduate researcher, School of Mathematical Science, 2022.5 - now.
 + Quantitative Trading intern, Jane Street, 2023.6-2023.9
 + Quantitative Researcher intern, Citadel Securities, 2022.6-2022.9.
++ Undergraduate researcher, School of Mathematical Science, 2022.5 - 2023.11.
 
 ## Leadership
 
