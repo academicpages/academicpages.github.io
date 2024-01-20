@@ -3,7 +3,7 @@ title: "✏️ Distributed Shared Whiteboard"
 collection: projects
 permalink: /project/distributed_shared_whiteboard
 excerpt: 'A shared whiteboard desktop application that allows multiple users to draw shapes and chat at the same time.'
-date: 2019-10-01
+date: 2019-11-01
 ---
 
 
@@ -32,7 +32,7 @@ date: 2019-10-01
 
 August 2019 - October 2019
 
-> **Github: [https://github.com/ZhangzihanGit/Distributed-Shared-Whiteboard-Application](https://github.com/ZhangzihanGit/Distributed-Shared-Whiteboard-Application){:target="_blank"}{:target="_blank"}**
+> **Github: [https://github.com/ZhangzihanGit/Distributed-Shared-Whiteboard-Application](https://github.com/ZhangzihanGit/Distributed-Shared-Whiteboard-Application){:target="_blank"}**
 
 # Project Description
 
