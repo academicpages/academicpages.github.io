@@ -30,7 +30,7 @@ jobs:
         destination-repository-name: 'dev.to-deployment'
         user-email: dev.topublisherbot@github.com
         commit-message: "New post(s) from $GITHUB_REF"
-        target-branch: ingestion-post
+        target-branch: ingestion
 
     - name: Test get variable exported by push-to-another-repository
       run: echo $DESTINATION_CLONED_DIRECTORY
