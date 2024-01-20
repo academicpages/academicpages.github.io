@@ -1,7 +1,7 @@
 ---
-title: "Advanced Remote Sensing Teaching experience 1 "
+title: "Advanced Remote Sensing"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Helsinki, Department of Geoscience and Geography"
 date: 2014-01-01
