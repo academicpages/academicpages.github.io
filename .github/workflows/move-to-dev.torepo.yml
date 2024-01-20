@@ -54,13 +54,20 @@ jobs:
           echo "No new files to copy."
         fi
 
+    - name: Checkout and update target branch
+      run: |
+        cd destination_repo
+        git checkout ${{ env.TARGET_BRANCH }}
+        git pull origin ${{ env.TARGET_BRANCH }}
+      
     - name: Push the new files to destination repository
       run: |
         cd destination_repo
         if [ -s ../new_files.txt ]; then
-          git add _posts/
-          git commit -m "${{ env.COMMIT_MESSAGE }}"
-          git push origin ${{ env.TARGET_BRANCH }}
+        git add _posts/
+        git commit -m "${{ env.COMMIT_MESSAGE }}"
+        git push origin ${{ env.TARGET_BRANCH }}
         else
-          echo "No new files to commit."
+        echo "No new files to commit."
         fi
+
