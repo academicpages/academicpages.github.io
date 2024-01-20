@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title"> <i class="fa-solid fa-hashtag fa-sm"></i> {{ page.title }} </h1>
+    <p class="post-description"> an archive of posts with this tag </p>
+  </header>
+
+  <article>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+        {% for post in page.posts %}
+        <tr>
+          <th scope="row">{{ post.date | date: "%b %-d, %Y" }}</th>
+          <td>
+            {% if post.redirect == blank %}
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            {% elsif post.redirect contains '://' %}
+            <a class="post-link" href="{{ post.redirect }}" target="_blank">{{ post.title }}</a>
+            {% else %}
+            <a class="post-link" href="{{ post.redirect | relative_url }}">{{ post.title }}</a>
+            {% endif %}
+          </td>
+        </tr>
+      {% endfor %}
+      </table>
+    </div>
+  </article>
+
+</div>

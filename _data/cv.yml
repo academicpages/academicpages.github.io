@@ -1,0 +1,70 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Akshay Krishnan
+    # - name: Date of Birth
+    #   value: 14th March 1879
+    # - name: Languages
+    #   value: English, German
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: 2022 - present
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
+    - title: MS
+      institution: Georgia Institute of Technology, Atlanta, USA
+      year: 2018-2020
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+    - title: B.Eng.
+      institution: Sri Jayachamarajendra College of Engineering, Mysuru, India
+      year: 2014-2018
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Student Researcher
+      institution: Google Research
+      year: 2023 - present
+      description: Representations and models for 3D lifting of 2D objects.
+
+    - title: Computer Vision Engineer
+      institution: Waymo
+      year: 2020 - 2022
+      description: Long range perception for autonomous vehicles.
+
+    - title: Computer Vision Intern
+      institution: Blue River Technology
+      year: Summer 2019
+      description: Calibration and fusion of lidar, camera and thermal sensors.
+
+    - title: Software Engineering Intern
+      institution: Amagi Media Labs, Bengaluru, India
+      year: Spring 2018
+      description: Web application for timestamp extraction from videos. 
+
+    - title: Research Intern
+      institution: Indian Institute of Science, Bengaluru, India
+      year: Spring 2018
+      description: Quantifying wireless network security.
+
+- title: Open Source Contributions
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/borglab/gtsam">GTSfM</a>
+      year: 2018-now
+      description: Distributed and modular global SfM pipeline in python.
+    - title: <a href="https://github.com/borglab/gtsam">GTSAM</a>
+      year: 2017-now
+      description: Factor graph based optimization library for robotics and computer vision.
