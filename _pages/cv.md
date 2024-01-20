@@ -78,7 +78,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 
 ### Research Analyst
 
-<p>TPG Telecome &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
+<p>TPG Telecom &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
 
 As a part of the Data and Analytics Centre of Excellence (CoE) team, I transform numerous data into actionable insights.
 - [**NPS**](https://en.wikipedia.org/wiki/Net_Promoter){:target="_blank"} **topic modelling** - model customers' feedback/comments and derive insights to improve customer service satisfaction
