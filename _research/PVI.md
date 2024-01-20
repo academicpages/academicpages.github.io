@@ -14,7 +14,7 @@ For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi
 For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
 
 $$
-    \begin{array}{rrlrl}
+    \begin{array}{rrlrrrrl}
         & ( \partial_t u, v-u ) + a(u, v-u)
         & \geq
         & ( f(t), v-u )
@@ -52,7 +52,7 @@ $$
 
 {% include /include_research/PVI/PVI_pic.html %}   
 
-By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In this [paper](https://doi.org/10.1016/j.jmaa.2020.123840), these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. Parabolic VIs can be considered as a generalization of elliptic VIs. However, the analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative $\partial_t u$. We show that the numerical solution tends to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. To make the convergence analysis easier, we introduce a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions (which are practical*), we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$ (see the error convergence in $\tau$ figure below).
+By utilizing a symmetric dual-wind DG (DWDG) spatial discretization and a backward Euler temporal discretization, we propose a fully discrete scheme designed to solve the above time-dependent VI. In [this](https://doi.org/10.1016/j.jmaa.2020.123840) paper, these methods were used to analyze elliptic VIs and sharp error estimates for linear and quadratic elements were derived. Parabolic VIs can be considered as a generalization of elliptic VIs. However, the analysis of these methods in the case of parabolic VIs is more subtle and delicate due to the use of discrete gradient operators and the low regularity of the time derivative $\partial_t u$. We show that the numerical solution tends to converge in $L^\infty(L^2)$ and $L^2(H^1)$-like energy norms as long as the exact solution meets certain regularity conditions. To make the convergence analysis easier, we introduce a novel interpolation operator that combines the standard interpolation operator with a positive-preserving interpolation operator. We then show that the proposed method converges in space and time by $O(h + \tau^{\frac34}(log(\tau^{-1}))^{\frac14})$ in the suitable norm. Under strong assumptions (which are practical*), we improve the order of convergence to $O(h + \tau(log(\tau^{-1}))^{\frac12})$ (see the error convergence in $\tau$ figure below).
 
 <h3>Numerical Experiment - 1: Zero Obstable Problem</h3>
 <h4><a href="https://doi.org/10.1080/00207160.2020.1858285">[P Majumder 2020]</a></h4>
