@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zihan Zhang"
+title                    : "Zihan's Homepage"
 title_separator          : "-"
 name                     : &name "Zihan Zhang"
 description              : &description "Ph.D student at University of Technology Sydney"
@@ -179,6 +179,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  projects:
     output: true
     permalink: /:collection/:path/
   portfolio:
