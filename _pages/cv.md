@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 > I'm a PhD student at the University of Technology Sydney (UTS), sponsored by TPG Telecom. \
-> **Download my Resume here**
+> **[Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
 
 ## 📚 Education
 ---
@@ -71,8 +71,6 @@ Conference on Empirical Methods in Natural Language Processing (***EMNLP, Findin
 **Zihan Zhang**, Meng Fang, Ling Chen, Mohammad-Reza Namazi-Rad \
 Annual Conference of the North American Chapter of the Association for Computational Linguistics (***NAACL***), 2022 \
 <a href="https://arxiv.org/abs/2204.09874" target="_blank"><i class="fa-regular fa-file-pdf"></i></a> &nbsp; <a href="https://github.com/hyintell/topicx" target="_blank"><i class="fa-brands fa-github"></i></a> &nbsp;
-
-
 
 
 ## 👩🏻‍💻 Work Experience
@@ -138,4 +136,27 @@ A Guttman chart based students assessment analysis system. It can be used to hel
 
 - The project provided support for the 🔗 [research](https://education.unimelb.edu.au/research/projects/improving-assessment-with-intelligent-automation){:target="_blank"} in the Assessment Research Centre, Melbourne Graduate School of Education.
 - I was responsible for developing the frontend pages and integrating them with the backend developers. The project used Python as the backend programming language, adopted the Client/Server model, and used RESTful API for HTTP communication.
+
+
+## ☀️ Services
+---
+
+Academic Reviewer:
+- EMNLP 2022-2023
+- EACL 2023
+- ACL Rolling Review October, December 2023
+
+## ⭐ Skills & Certificates
+
+**Languages**: Mandarin (native), English (fluent) \
+**Programming**: Python $\gg$ JavaScript $==$ SQL $>$ Spark $==$ Java $>$ C $==$ C++ $==$ Haskell \
+**Libraries & Frameworks**: PyTorch, HuggingFace, Amazon Web Service, Databricks \
+**Certificates**:
+  - [AWS Cloud Practitioner](https://www.credly.com/badges/35ab6c23-ab2e-46e1-af9a-68988cd8fdda/public_url){:target="_blank"}
+  - [(Databricks) Large Language Models: Application through Production](https://courses.edx.org/certificates/2e4450253cf4494d91aa796a2a3b5fda){:target="_blank"}
+
+**Other**:
+  - Git
+  - CI/CD Pipelines
+  - Data ETL
 
