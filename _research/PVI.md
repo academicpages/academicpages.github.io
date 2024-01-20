@@ -14,7 +14,7 @@ For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi
 For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
 
 $$
-    \begin{array}{rrcrc}
+    \begin{array}{rrlrl}
         & ( \partial_t u, v-u ) + a(u, v-u)
         & \geq
         & ( f(t), v-u )
@@ -39,10 +39,10 @@ $$
 and the bilinear forms $(\cdot, \cdot)$ and $a(\cdot, \cdot)$ are defined by
 
 $$
-    \begin{array}{rrcccc}
+    \begin{array}{rrcccr}
         & (v, w)
         & =
-        & \displaystyle \int_{\Omega} v \, w \, dx;
+        & \displaystyle \int_{\Omega} v \, w \, dx \,;
         & a(v,w)
         & = 
         & \displaystyle \int_{\Omega} \nabla v \cdot \nabla w \, dx
