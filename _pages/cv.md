@@ -113,7 +113,7 @@ I was responsible for implementing the pseudocode and algorithm animation.
 - Using JavaScript function closures, all the visualization API functions and corresponding variables can be stored in an array and executed later, so it solved using ES6 `Generators` that functions executions cannot be reversed. Thereby, the animation can step backward as well.
 - To map the algorithm pseudocode with the actual code, I parsed and added a bookmark in each line of the pseudocode, and inserted the bookmarks at the corresponding position in the actual code, so the pseudocode and animation can be synchronized.
 - Implemented a customized hook use interval so that the auto-play function can read fresh states between each render. This hook can also detect the speed changes and reset the setInterval function, thereby adjusting the playback speed is achievable.
-- Based on the visualization APIs provided by `[Tracer.js](https://github.com/algorithm-visualizer/tracers.js)`, I implemented some common components and functions and expanded the library as well.
+- Based on the visualization APIs provided by [Tracer.js](https://github.com/algorithm-visualizer/tracers.js){:target="_blank"}, I implemented some common components and functions and expanded the library as well.
 
 ### ✏️ [Distributed Shared Whiteboard](/project/distributed_shared_whiteboard)
 
