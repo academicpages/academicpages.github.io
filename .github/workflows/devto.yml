@@ -14,11 +14,6 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Get list of new or modified files
-      id: file_changes
-      run: |
-        echo "::set-output name=files::$(git diff --name-only HEAD^ HEAD | grep '_posts/.*.md')"
-
     - name: Pushes to another repository
       if: steps.file_changes.outputs.files != ''
       uses: cpina/github-action-push-to-another-repository@main
