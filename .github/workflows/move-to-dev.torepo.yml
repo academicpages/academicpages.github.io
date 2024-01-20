@@ -1,0 +1,66 @@
+name: Push New Markdown Files to dev.to Repo
+
+on:
+  push:
+    branches: ["master"]
+    paths: 
+      - '_posts/*.md'
+  workflow_dispatch:
+
+env:
+  SOURCE_DIRECTORY: '_posts/'
+  DESTINATION_REPOSITORY: 'git@github.com:kunalworldwide/dev.to-deployment.git'
+  DESTINATION_DIRECTORY: 'destination_repo/_posts/'
+  USER_EMAIL: 'dev.topublisherbot@github.com'
+  TARGET_BRANCH: 'ingestion'
+  COMMIT_MESSAGE: "New post(s) from $GITHUB_REF"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout source repository
+      uses: actions/checkout@v4
+
+    - name: Setup SSH Keys
+      run: |
+        mkdir -p ~/.ssh/
+        echo "${{ secrets.SSH_DEPLOY_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
+        git config --global user.email "${{ env.USER_EMAIL }}"
+        git config --global user.name "dev.to Publisher Bot"
+
+    - name: Clone destination repository
+      run: git clone ${{ env.DESTINATION_REPOSITORY }} destination_repo
+
+    - name: List files in source _posts folder
+      run: |
+        echo "Listing files in source _posts directory:"
+        ls ${{ env.SOURCE_DIRECTORY }}
+
+    - name: Find new files in the source _posts folder
+      run: |
+        echo "Finding new files..."
+        comm -23 <(ls ${{ env.SOURCE_DIRECTORY }} | sort) <(ls ${{ env.DESTINATION_DIRECTORY }} | sort) > new_files.txt
+        cat new_files.txt
+
+    - name: Copy new files to destination _posts folder
+      run: |
+        if [ -s new_files.txt ]; then
+          xargs -a new_files.txt -I {} cp ${{ env.SOURCE_DIRECTORY }}{} ${{ env.DESTINATION_DIRECTORY }}
+        else
+          echo "No new files to copy."
+        fi
+
+    - name: Push the new files to destination repository
+      run: |
+        cd destination_repo
+        if [ -s ../new_files.txt ]; then
+          git add _posts/
+          git commit -m "${{ env.COMMIT_MESSAGE }}"
+          git push origin ${{ env.TARGET_BRANCH }}
+        else
+          echo "No new files to commit."
+        fi
