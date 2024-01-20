@@ -20,6 +20,7 @@ jobs:
         SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
       with:
         source-directory: '_posts/'
+        destination-directory: '_posts/'
         destination-github-username: 'kunalworldwide'
         destination-repository-name: 'dev.to-deployment'
         user-email: dev.topublisherbot@github.com
