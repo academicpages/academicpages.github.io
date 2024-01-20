@@ -1,4 +1,4 @@
-name: Push New Markdown Files to dev.to Repo
+name: Push to dev.to Repo
 
 on:
   push:
