@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> I'm a PhD student at the University of Technology Sydney (UTS), sponsored by TPG Telecom. \
+> As an industry-based PhD student at UTS, I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
 > **[Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
 
 ## 📚 Education
@@ -81,10 +81,10 @@ Annual Conference of the North American Chapter of the Association for Computati
 <p>TPG Telecome &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
 
 As a part of the Data and Analytics Centre of Excellence (CoE) team, I transform numerous data into actionable insights.
-- [**NPS**](https://en.wikipedia.org/wiki/Net_Promoter){:target="_blank"} topic modelling - extract keywords from customers' feedback and study why the customers are satisfying/unsatisfying.
-- **Market offer text extraction** - extract and analyse competitors' offers, transform from raw images to structured data that the market team could use.
-- **Business Insights analysis** - model and analysis customers churn and upgrade
-- **AWS ML pipeline**
+- [**NPS**](https://en.wikipedia.org/wiki/Net_Promoter){:target="_blank"} **topic modelling** - model customers' feedback/comments and derive insights to improve customer service satisfaction
+- **Market offer text extraction** - automatically extract and analyse competitors' offers, transforming raw unstructured data into structured data that the market team could use
+- **Webchat & Call Centre dialogue analysis** - preliminary study on raw dialogue data between agents and customers
+- **Postpay/Prepay/FWA customer insights analysis** - model and analysis customers churn and upgrade
 
 ### Front-End Developer Intern
 

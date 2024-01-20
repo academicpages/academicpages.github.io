@@ -7,7 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Research Projects
+<!-- ## Selected Research Projects
+
+<ul>
+    {% for post in site.researchprojects reversed %}
+        {% include archive-single-talk-cv.html %}
+
+    {% endfor %}
+<ul> -->
+
 
 ## Selected Software Application Projects
 
