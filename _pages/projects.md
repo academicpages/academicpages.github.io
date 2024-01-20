@@ -7,18 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Selected Web Application Projects
+## Selected Research Projects
 
-<ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Selected Software Application Projects
 
----
-
-<ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
----
-
-- Algorithms in Action
+<ul>
+    {% for post in site.projects reversed %}
+        {% include archive-single-talk-cv.html %}
+        <!-- <li><a href="{{ project.permalink }}" target="_blank">{{ project.title }}</a></li> -->
+        <!-- [{{ project.title }}]({{ project.permalink }}){:target="_blank"} -->
+        <!-- [{{ project.title }}](project.permalink) -->
+    {% endfor %}
+<ul>

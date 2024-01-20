@@ -22,5 +22,5 @@ While working at TPG Telecom, I had the chance to apply my skills in solving **r
 
 Recently, my research focus has moved towards **Large Language Models (LLMs)** and exploring how to use them in production to drive business, including efficient and robust **Retrieval-Augmented Generation (RAG)**, **Question Answering (QA)**, and **Dialogue systems**.
 
-While studying Software Engineering, I have gained skills in designing, modelling, and building software applications, especially web applications. Check out previous 🔨 software applications I built with my teammates if you are interested.
+While studying Software Engineering, I have gained skills in designing, modelling, and building software applications, especially web applications. Check out previous [🔨 software applications](projects) I built with my teammates if you are interested.
 
