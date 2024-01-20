@@ -15,7 +15,6 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Pushes to another repository
-      if: steps.file_changes.outputs.files != ''
       uses: cpina/github-action-push-to-another-repository@main
       env:
         SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
