@@ -18,6 +18,7 @@ My Bookshelf (mainly nonfiction)
 * 
 
 * Yanshou, Li. History of the Southern Dynasties, pp. 5-8『南史』巻二十六　列伝第十六
+  * ←I found that this bibliography may not be accurate. The Book of Song (宋\UTF{4E66}) is accurate.
   * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (\UTF{8BBA}\UTF{8BED}). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
 
 My Favorite Papers
@@ -42,3 +43,7 @@ Others
     * 
 * Movies
 * Music
+* Quotes
+  * [D]o not follow in my footsteps or in the footsteps of anybody else. Rather make a path of your own choosing, in directions which interest you most at the time. If you feel most comfortable with the established curriculum or the conventional career, I wish you the best of success in it. But if your interests or opportunities lead you in unusual directions, do not be afraid to stray from the general norm. If you think hard how to generalize your earlier learning and experiences, you will profit from them in the most unexpected ways. Everyone in this wide world has a different variety that we all need to foster and develop, to ensure the continued progress of human knowledge, the continuous renewal of our various cultures, and the ultimate prosperity and happiness of our human race.
+(Tony Hoare, “Stories from a Life in Interesting Times”, 2001)
+
