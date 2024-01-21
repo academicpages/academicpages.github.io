@@ -55,8 +55,6 @@ bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
-plugins:
-  - jekyll-seo-tag
 
 # Social Sharing
 twitter:
@@ -268,6 +266,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
