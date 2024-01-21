@@ -29,6 +29,8 @@ During the first two years of my PhD, I worked on two particularly unique changi
 
 The other intriguing changing-look AGN I've worked on is the candidate binary supermassive black hole AT2019cuk/Tick Tock/SDSS J1430. This source was first suggested to be a binary supermassive black hole within 3 years of merging by [Jiang et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220111633J/abstract), based on a decreasing periodic signal in ZTF data and interesting optical broad line evolution. If truly a binary, this would be the first chance to witness an electromagnetic merger of two supermassive black holes, which is highly anticipated given the next generation gravitational wave detectors (e.g. [LISA](https://lisa.nasa.gov/)) and the highly uncertain electromagnetic emission in these events. However, after tracking this system for 8 months, we found no periodic behavior in X-ray, UV, or optical emission, thus challenging the binary hypothesis. The high-cadence NICER monitoring we performed (with ~2 observations per day every day for 8 months) revealed these repetitive and stochastic hard X-ray flares that have never been seen before in an AGN. We present these results in [Masterson et al. (2023b)](https://ui.adsabs.harvard.edu/abs/2023ApJ...945L..34M/abstract), and suggest three potential models for the flares, the most likely of which we expect to be the variable corona model, in which the flares arise from intrinsic changes to the corona due to increased magnetization levels. 
 
+![Left: X-ray light curve of AT2019cuk from NICER, with flares marked as orange stars. Right: schematic for flares from increased magnetic activity in the corona.](/images/AT2019cuk_flares.jpg)
+
 ---
 
 ## High Resolution X-ray Spectroscopy of Nearby AGN 
