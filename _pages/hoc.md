@@ -34,7 +34,6 @@ Introductory/Must-read Books and Papers
   * The first edition is more technical and focuses on software. 
 * Swade, Doron. (2022). The History of Computing: A Very Short Introduction
   * I plan to translate it into Japanese
-* Goldstine, Herman H. (1980). The Computer from Pascal to von Neumann
 
 Recommended Books and Papers
 ======
@@ -59,7 +58,8 @@ Recommended Books and Papers
   
 * History of Computer
   * Haigh, Thomas, Mark Priestley, and Crispin Rope, ENIAC in Action: Making and Remaking the Modern Computer, (2016)
-  
+  * Goldstine, Herman H. (1980). The Computer from Pascal to von Neumann
+  * 
 * Military and Computing
   * 
   

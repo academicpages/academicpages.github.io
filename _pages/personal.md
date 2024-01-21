@@ -22,7 +22,7 @@ My Bookshelf (mainly nonfiction)
 * Thomas S. Kuhn, (1962), The Structure of Scientific Revolutions
   * “Almost always the men who achieve these fundamental inventions of a new paradigm have been either very young or very new to the field whose paradigm they change. “
 “The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the  recourse to philosophy and to debate over fundamentals, all these are  symptoms of a transition from normal to extraordinary research. “
-  * Kuhn's ideas are difficult to understand due to the assumption of knowledge in the history of physics, which is not commonly taught in modern physics textbooks, and less rigorous discussion. However, the concept of paradigm is really intriguing and sparked my initial interest in the history and philosophy of science.
+  * This book is difficult to read due to the assumption of knowledge in the history of physics, which is not commonly taught in modern physics textbooks, and less rigorous discussion. However, the concept of paradigm is really intriguing and sparked my initial interest in the history and philosophy of science.
 * 
 * Jose Ortega Y Gasset, 1929, The Revolt of the Mass
   * I particularly enjoyed Chapter 10: Primitivism and History, and Chapter 12: The Barbarism of “Specialization”.
@@ -34,7 +34,7 @@ My Favorite Papers
 ======
 * G&ouml;del, Kurt. (1931), "&Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme I".
   * On Formally Undecidable Propositions of Principia Mathematica and Related Systems.
-  * In class, I carefully read the paper itself instead of other textbooks. Although I did not fully understand some of it, this experience has significantly influenced my career. I will likely read it at least two more times to understand it better.
+  * In class, I carefully read the paper itself instead of other textbooks. Although I did not fully understand some points of it, this paper has significantly influenced my career. I will likely read it at least two more times to understand it better.
     
 * Turing, A.M. (1936), "On Computable Numbers, with an Application to the Entscheidungsproblem" 
 
@@ -48,10 +48,11 @@ My Favorite Papers
 Others
 ======
 * Fictions (I don't read much fiction&#129394;. Fact is stranger than fiction...)
-  * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
-    * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
   * Abbott, Edwin A. (1884), Flatland: A Romance of Many Dimensions
     * 
+  * Casti, John L. (1998), The Cambridge Quintet: A Work of Scientific Speculation 
+    * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
+
 * Movies
 * Music
 * Quotes
