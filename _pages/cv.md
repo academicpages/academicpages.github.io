@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-> As an industry-based PhD student at UTS, I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
+> As an industry-based PhD student, I am passionate about developing NLP systems that are practical, robust, efficient, and can be applied to the industry. I have both research and industry experience in NLP and Data Science. \
 > **[Download my Resume here](https://zhangzihangit.github.io/files/zihan_zhang_resume.pdf "download"){:target="_blank"}**
 
 ## 📚 Education
@@ -15,10 +15,10 @@ redirect_from:
 
 ### University of Technology Sydney
 
-<p>PhD in Engineering and IT &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
+<p>Ph.D. student in School of Computer Science, <a href="https://utsnlp.github.io/" target="_blank">UTS NLP Group</a> &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
 
 - Natural language processing
-- Machine learning
+- Supervisor: [Prof. Ling Chen](https://profiles.uts.edu.au/Ling.Chen){:target="_blank"}
 
 ### University of Melbourne
 
@@ -78,13 +78,14 @@ Annual Conference of the North American Chapter of the Association for Computati
 
 ### Research Analyst
 
-<p>TPG Telecom &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Present</em></p>
+<p>TPG Telecom &nbsp;&nbsp; <em>Sydney, Australia</em>  &nbsp;&nbsp; ⏲️  <em>Mar 2021 - Dec 2023</em></p>
 
 As a part of the Data and Analytics Centre of Excellence (CoE) team, I transform numerous data into actionable insights.
 - [**NPS**](https://en.wikipedia.org/wiki/Net_Promoter){:target="_blank"} **topic modelling** - model customers' feedback/comments and derive insights to improve customer service satisfaction
 - **Market offer text extraction** - automatically extract and analyse competitors' offers, transforming raw unstructured data into structured data that the market team could use
 - **Webchat & Call Centre dialogue analysis** - preliminary study on raw dialogue data between agents and customers
 - **Postpay/Prepay/FWA customer insights analysis** - model and analysis customers churn and upgrade
+- **Cloud experience** - get involved in cloud services, familiar with data ETL and DevOps on AWS and Databricks
 
 ### Front-End Developer Intern
 
@@ -138,25 +139,26 @@ A Guttman chart based students assessment analysis system. It can be used to hel
 - I was responsible for developing the frontend pages and integrating them with the backend developers. The project used Python as the backend programming language, adopted the Client/Server model, and used RESTful API for HTTP communication.
 
 
-## ☀️ Services
+## ☀️ Academic Services
 ---
 
-Academic Reviewer:
+Peer Reviewer:
 - EMNLP 2022-2023
 - EACL 2023
 - ACL Rolling Review October, December 2023
 
 ## ⭐ Skills & Certificates
 
+
 **Languages**: Mandarin (native), English (fluent) \
-**Programming**: Python $\gg$ JavaScript $==$ SQL $>$ Spark $==$ Java $>$ C $==$ C++ $==$ Haskell \
-**Libraries & Frameworks**: PyTorch, HuggingFace, Amazon Web Service, Databricks \
+**Programming**: Python $>$ SQL $==$ JavaScript $>$ Spark $==$ Java $>$ C $==$ C++ $==$ Haskell \
+**Libraries & Services**: PyTorch, HuggingFace, Scikit-learn and Pandas, Amazon Web Services (S3, SageMaker, Redshift), Databricks \
+**Software & Tools & Management**: Git, Linux, Agile, Scrum, Confluence, Jira, $\LaTeX$ \
+**Web Dev**: React, Ant Design, material-ui, HTML, CSS \
+**Computer Network**: basic HTTP, TCP/IP, cryptography, web security \
 **Certificates**:
   - [AWS Cloud Practitioner](https://www.credly.com/badges/35ab6c23-ab2e-46e1-af9a-68988cd8fdda/public_url){:target="_blank"}
   - [(Databricks) Large Language Models: Application through Production](https://courses.edx.org/certificates/2e4450253cf4494d91aa796a2a3b5fda){:target="_blank"}
+  - [Deep Learning Specialization (Coursera by Andrew Ng)](https://www.coursera.org/account/accomplishments/certificate/DMEYXLSEHSSA){:target="_blank"}
 
-**Other**:
-  - Git
-  - CI/CD Pipelines
-  - Data ETL
 
