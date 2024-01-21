@@ -194,6 +194,15 @@ collections:
 
 # Defaults
 defaults:
+  # _jptexts
+  - scope:
+      path: ""
+      type: jptexts
+    values:
+      layout: single
+      author_profile: true
+      comments: true
+      related: true
   # _posts
   - scope:
       path: ""

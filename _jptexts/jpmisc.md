@@ -1,7 +1,7 @@
 ---
 title: "日本語資料雑記"
 collection: jptexts
-type: "Workshop"
+type: "jptexts"
 permalink: /jptexts/jpmisc
 venue: "University 1, Department"
 date: 2015-01-01
