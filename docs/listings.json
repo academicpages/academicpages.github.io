@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/research.html",
+    "items": [
+      "/research/23-personalized_rankings.html",
+      "/research/21-counterfactual_predictions.html",
+      "/research/18-restaurant_choice.html"
+    ]
+  },
+  {
+    "listing": "/posts.html",
+    "items": [
+      "/posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html"
+    ]
+  }
+]

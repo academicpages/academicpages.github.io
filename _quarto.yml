@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Rob Donnelly"
+  description: "Rob Donnelly's personal website"
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "Posts"
+        href: posts.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv/index.qmd
+      # - text: "Teaching"
+      #   href: teaching/index.qmd
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+

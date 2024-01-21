@@ -1,0 +1,662 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>A Simpler Alternative to X-Learner for Uplift Modeling - Rob Donnelly, Economics PhD</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="Rob Donnelly, Economics PhD">
+<meta property="og:title"
+  content="A Simpler Alternative to X-Learner for Uplift Modeling">
+
+
+<link rel="canonical" href="https://robdonnelly.me/posts/2013/01/simple-x-learner">
+<meta property="og:url" content="https://robdonnelly.me/posts/2013/01/simple-x-learner">
+
+
+
+<meta property="og:description" content="A guide to the simplified X-learner approach for Uplift modeling">
+
+
+
+<meta name="twitter:site" content="@robdonnelly47">
+<meta name="twitter:title"
+  content="A Simpler Alternative to X-Learner for Uplift Modeling">
+<meta name="twitter:description" content="A guide to the simplified X-learner approach for Uplift modeling">
+<meta name="twitter:url" content="https://robdonnelly.me/posts/2013/01/simple-x-learner">
+
+
+<meta name="twitter:card" content="summary">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2023-01-15T00:00:00-08:00">
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "Person",
+      "name" : "Rob Donnelly",
+      "url" : "https://robdonnelly.me",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+<link href="https://robdonnelly.me/feed.xml"
+  type="application/atom+xml" rel="alternate" title="Rob Donnelly, Economics PhD Feed">
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="https://robdonnelly.me/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="https://robdonnelly.me/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="https://robdonnelly.me/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="https://robdonnelly.me/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="https://robdonnelly.me/assets/css/academicons.css" />
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="https://robdonnelly.me/">Rob Donnelly, Economics PhD</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://robdonnelly.me/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="https://robdonnelly.me/teaching/">Teaching</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="https://robdonnelly.me/images/bio-photo.jpeg" class="author__avatar" alt="Rob Donnelly">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Rob Donnelly</h3>
+    <p class="author__bio">Economics and Machine Learning Researcher</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Brooklyn, NYC</li>
+      
+      
+        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> https://arena-ai.com</li>
+      
+      
+      
+        <li><a href="mailto:rndonnelly@gmail.com"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
+      
+      
+        <li><a href="https://keybase.io/https://keybase.io/rodonn"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
+      
+       
+        <li><a href="https://www.researchgate.net/profile/Robert-Donnelly-4"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
+      
+      
+        <li><a href="https://twitter.com/robdonnelly47"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+      
+      
+      
+      
+        <li><a href="https://www.linkedin.com/in/https://www.linkedin.com/in/robert-donnelly-causal"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
+      
+      
+      
+      
+      
+      
+        <li><a href="https://github.com/rodonn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        <li><a href="https://scholar.google.com/citations?user=EdFy2nwAAAAJ"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+      
+      
+      
+        <li><a href="https://orcid.org/0000-0003-3649-4914"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+      
+      
+      
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    
+    <meta itemprop="headline" content="A Simpler Alternative to X-Learner for Uplift Modeling">
+    
+    <meta itemprop="description" content="A guide to the simplified X-learner approach for Uplift modeling">
+    
+    
+    <meta itemprop="datePublished" content=" January 15, 2023">
+    
+
+    <div class="page__inner-wrap">
+      
+      <header>
+        <h1 class="page__title" itemprop="headline">A Simpler Alternative to X-Learner for Uplift Modeling
+</h1>
+        
+        <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  9 minute read
+	
+</p>
+        
+        
+
+        
+        <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time
+            datetime="2023-01-15T00:00:00-08:00">January 15, 2023</time></p>
+        
+
+
+        
+
+      </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>Meta-learners like S-Learner, T-Learner, and X-Learner are some of the most
+widely used approaches for Uplift modeling. When teaching about these
+approaches, I find that students often find the X-learner model somewhat
+confusing to understand. In this post, I describe a modified approach I call
+simplified X-learner (Xs-learner) that is easier to understand, faster to
+implement, and in my experience often works as well or better in practice.</p>
+
+<h2 id="uplift-modeling">Uplift Modeling</h2>
+
+<p>A/B testing is a common method used at tech companies to make
+informed decisions. For example, imagine you want to send out a coupon to users
+and you want to know how much it will increase the chances of them completing
+their first order with your service. By running an A/B test, you can determine
+on average how effective the coupon is. However, you may also want to know which
+users the coupon will help you generate higher profits and which users the
+coupon will cause you to lose money.</p>
+
+<p>Uplift modeling is a technique that lets us go beyond learning the average
+effect of a treatment and instead helps us understand how the effect of the
+treatment varies across your users. This allows us to more efficiently decide
+which treatment to send to each user.</p>
+
+<h2 id="meta-learners">Meta-learners</h2>
+
+<p>Some of the most common approaches for solving uplift problems are known as
+meta-learners, because they are ways to take existing supervised learning
+algorithms and using their predictions in order to make estimates of the
+treatment effect for each user.</p>
+
+<p>I’ll be demonstrating each of these approaches using a dataset from Lenta, a
+large Russian grocery store that sent out text messages to their users and saw
+whether it would increase their probability of making a purchase.  In each of
+the examples I will be using the following notation:</p>
+
+<ul>
+  <li>Y: Did the user make a purchase (the outcome variable)</li>
+  <li>T: Did the user receive a text message(the treatment variable)</li>
+  <li>X: All the other information we know about the user, e.g. age, gender, purchase history. (The Lenta dataset has almost 200 features describing each user)</li>
+</ul>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="n">plt</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="n">np</span>
+<span class="kn">import</span> <span class="nn">pandas</span> <span class="k">as</span> <span class="n">pd</span>
+<span class="kn">import</span> <span class="nn">seaborn</span> <span class="k">as</span> <span class="n">sns</span>
+<span class="kn">from</span> <span class="nn">sklearn.model_selection</span> <span class="kn">import</span> <span class="n">train_test_split</span>
+<span class="kn">from</span> <span class="nn">sklearn.preprocessing</span> <span class="kn">import</span> <span class="n">OneHotEncoder</span>
+<span class="kn">from</span> <span class="nn">xgboost</span> <span class="kn">import</span> <span class="n">XGBClassifier</span><span class="p">,</span> <span class="n">XGBRegressor</span>
+<span class="kn">from</span> <span class="nn">sklift.datasets</span> <span class="kn">import</span> <span class="n">fetch_lenta</span>
+<span class="kn">from</span> <span class="nn">sklift.viz</span> <span class="kn">import</span> <span class="n">plot_qini_curve</span>
+
+<span class="kn">from</span> <span class="nn">numpy.random</span> <span class="kn">import</span> <span class="n">default_rng</span>
+<span class="n">rng</span> <span class="o">=</span> <span class="n">default_rng</span><span class="p">()</span>
+</code></pre></div></div>
+
+<p>We’ll use the sklift package, which has a useful function that helps download
+the data for the Lenta uplift experiment and do some basic processing of the
+data.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">data</span> <span class="o">=</span> <span class="n">fetch_lenta</span><span class="p">()</span>
+<span class="n">Y</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'target_name'</span><span class="p">]</span>
+<span class="n">X</span> <span class="o">=</span> <span class="n">data</span><span class="p">[</span><span class="s">'feature_names'</span><span class="p">]</span>
+
+<span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="n">concat</span><span class="p">([</span><span class="n">data</span><span class="p">[</span><span class="s">'target'</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'treatment'</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="s">'data'</span><span class="p">]],</span> <span class="n">axis</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+<span class="n">gender_map</span> <span class="o">=</span> <span class="p">{</span><span class="s">'Ж'</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="s">'М'</span><span class="p">:</span> <span class="mi">1</span><span class="p">}</span>
+<span class="n">group_map</span> <span class="o">=</span> <span class="p">{</span><span class="s">'test'</span><span class="p">:</span> <span class="mi">1</span><span class="p">,</span> <span class="s">'control'</span><span class="p">:</span> <span class="mi">0</span><span class="p">}</span>
+<span class="n">df</span><span class="p">[</span><span class="s">'gender'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s">'gender'</span><span class="p">].</span><span class="nb">map</span><span class="p">(</span><span class="n">gender_map</span><span class="p">)</span>
+<span class="n">df</span><span class="p">[</span><span class="s">'treatment'</span><span class="p">]</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s">'group'</span><span class="p">].</span><span class="nb">map</span><span class="p">(</span><span class="n">group_map</span><span class="p">)</span>
+<span class="n">T</span> <span class="o">=</span> <span class="s">'treatment'</span>
+
+<span class="c1"># Split our data into a training and an evaluation sample
+</span>
+<span class="n">df_train</span><span class="p">,</span> <span class="n">df_test</span> <span class="o">=</span> <span class="n">train_test_split</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> <span class="n">test_size</span><span class="o">=</span><span class="mf">0.3</span><span class="p">,</span> <span class="n">random_state</span><span class="o">=</span><span class="mi">42</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="s-learner">S-Learner</h3>
+
+<p>S-learner is the simplest and easiest to understand of these approaches. With
+S-learner you fit a single machine learning model using all of your data, with
+the treatment variable (did you get a text message) as one of the features. You
+can then use this model to predict “what would happen if the user got the text”
+and “what would happen if the user did not get the text”. The difference between
+these two predictions is your estimate of the treatment effect of the text
+message on the user.</p>
+
+<p>In all my examples, I use XGBoost as a simple and effective baseline ML model
+that is fast to train and generally works well on many problems. In any real
+world problem you should be testing more than one type of model and should be
+doing cross validation to find hyperparameters that work well for your
+particular problem.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">slearner</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+<span class="n">slearner</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train</span><span class="p">[</span><span class="n">X</span><span class="o">+</span><span class="p">[</span><span class="n">T</span><span class="p">]],</span> <span class="n">df_train</span><span class="p">[</span><span class="n">Y</span><span class="p">])</span>
+
+<span class="c1"># Calculate the difference in predictions when T=1 vs T=0
+# This is our estimate of the effect of the coupon for each user in our data
+</span><span class="n">slearner_te</span> <span class="o">=</span> <span class="n">slearner</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">].</span><span class="n">assign</span><span class="p">(</span><span class="o">**</span><span class="p">{</span><span class="n">T</span><span class="p">:</span> <span class="mi">1</span><span class="p">}))[:,</span> <span class="mi">1</span><span class="p">]</span> \
+            <span class="o">-</span> <span class="n">slearner</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">].</span><span class="n">assign</span><span class="p">(</span><span class="o">**</span><span class="p">{</span><span class="n">T</span><span class="p">:</span> <span class="mi">0</span><span class="p">}))[:,</span> <span class="mi">1</span><span class="p">]</span>
+</code></pre></div></div>
+
+<p>One downside of the S-learner model is that there is nothing that tells the model to give special attention to the treatment variable. This means that often your machine learning model will focus on other variables that are stronger predictors of the outcome and end up ignoring the effect of the treatment. This means that on average your estimates of the treatment will be biased towards 0.</p>
+
+<p><img src="/images/2023-01-15-simple-x-learner/x-learner-s.webp" alt="S-learner treatment effect distribution" /></p>
+
+<h3 id="t-learner">T-learner</h3>
+
+<p>T-learner uses two separate models. The first model looks only at the users who did not receive the coupon. The second model looks only at the users who did receive the coupon. To predict the treatment effect, we take the difference between the predictions of these two models.
+T-learner essentially forces your models to pay attention to the treatment variable since you make sure that each of the models only focuses on either the treated or untreated observations in your data.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">tlearner_0</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+<span class="n">tlearner_1</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+
+
+<span class="c1"># Split data into treated and untreated
+</span><span class="n">df_train_0</span> <span class="o">=</span> <span class="n">df_train</span><span class="p">[</span><span class="n">df_train</span><span class="p">[</span><span class="n">T</span><span class="p">]</span> <span class="o">==</span> <span class="mi">0</span><span class="p">]</span>
+<span class="n">df_train_1</span> <span class="o">=</span> <span class="n">df_train</span><span class="p">[</span><span class="n">df_train</span><span class="p">[</span><span class="n">T</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1</span><span class="p">]</span>
+
+<span class="c1"># Fit the models on each sample
+</span><span class="n">tlearner_0</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_0</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">df_train_0</span><span class="p">[</span><span class="n">Y</span><span class="p">])</span>
+<span class="n">tlearner_1</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_1</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">df_train_1</span><span class="p">[</span><span class="n">Y</span><span class="p">])</span>
+
+<span class="c1"># Calculate the difference in predictions
+</span><span class="n">tlearner_te</span> <span class="o">=</span> <span class="n">tlearner_1</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">[</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">]](:,</span> <span class="mi">1</span><span class="p">)</span> \
+            <span class="o">-</span> <span class="n">tlearner_0</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">[</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">]](:,</span> <span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p><img src="/images/2023-01-15-simple-x-learner/x-learner-t.webp" alt="T-learner treatment effect distribution" /></p>
+
+<h3 id="simplified-x-learner-xs-learner">Simplified X-learner (Xs-learner)</h3>
+
+<p>The simplified X-learner use 3 models to form its predictions. The first two are
+exactly the same models we used for T-learner: one model trained only using the
+treated observations, and the other model trained using only the untreated
+observations.</p>
+
+<p>With T-learner we formed our treatment effect estimates by taking the difference
+between the predictions of these two models (predicted outcome when treated
+minus predicted outcome when untreated). The Xs-learner takes the actual outcome
+of the user under the treatment their received and compares that to the
+predicted outcome if they received the other treatment (actual outcome minus
+predicted outcome).</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># We could also just reuse the models we made for the T-learner
+</span><span class="n">xlearner_0</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+<span class="n">xlearner_1</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+
+<span class="c1"># Split data into treated and untreated
+</span><span class="n">df_train_0</span> <span class="o">=</span> <span class="n">df_train</span><span class="p">[</span><span class="n">df_train</span><span class="p">[</span><span class="n">T</span><span class="p">]</span> <span class="o">==</span> <span class="mi">0</span><span class="p">]</span>
+<span class="n">df_train_1</span> <span class="o">=</span> <span class="n">df_train</span><span class="p">[</span><span class="n">df_train</span><span class="p">[</span><span class="n">T</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1</span><span class="p">]</span>
+
+<span class="c1"># Fit the models on each sample
+</span><span class="n">xlearner_0</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_0</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">df_train_0</span><span class="p">[</span><span class="n">Y</span><span class="p">])</span>
+<span class="n">xlearner_1</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_1</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">df_train_1</span><span class="p">[</span><span class="n">Y</span><span class="p">])</span>
+
+<span class="c1"># Calculate the difference between actual outcomes and predictions
+</span><span class="n">xlearner_te_0</span> <span class="o">=</span> <span class="n">xlearner_1</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">[</span><span class="n">df_train_0</span><span class="p">[</span><span class="n">X</span><span class="p">]](:,</span> <span class="mi">1</span><span class="p">)</span> <span class="o">-</span> <span class="n">df_train_0</span><span class="p">[</span><span class="n">Y</span><span class="p">]</span>
+<span class="n">xlearner_te_1</span> <span class="o">=</span> <span class="n">df_train_1</span><span class="p">[</span><span class="n">Y</span><span class="p">]</span> <span class="o">-</span> <span class="n">xlearner_0</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">[</span><span class="n">df_train_1</span><span class="p">[</span><span class="n">X</span><span class="p">]](:,</span> <span class="mi">1</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>We can’t use these differences directly, because we would not be able to make
+predictions for any new users since we wouldn’t know the actual outcomes for
+these new users. So we need to train one more model. This model predicts the
+treatment effect as a function of the X variables.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Even though the outcome is binary, the treatment effects are continuous
+</span><span class="n">xlearner_combined</span> <span class="o">=</span> <span class="n">XGBRegressor</span><span class="p">()</span>
+
+<span class="c1"># Fit the combined model
+</span><span class="n">xlearner_combined</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span>
+  <span class="c1"># Stack the X variables for the treated and untreated users
+</span>  <span class="n">pd</span><span class="p">.</span><span class="n">concat</span><span class="p">[[</span><span class="n">df_train_0</span><span class="p">,</span> <span class="n">df_train_1</span><span class="p">]](</span><span class="n">X</span><span class="p">),</span>
+  <span class="c1"># Stack the X-learner treatment effects for treated and untreated users
+</span>  <span class="n">pd</span><span class="p">.</span><span class="n">concat</span><span class="p">([</span><span class="n">xlearner_te_0</span><span class="p">,</span> <span class="n">xlearner_te_1</span><span class="p">])</span>
+<span class="p">)</span>
+
+<span class="c1"># Predict treatment effects for each user
+</span><span class="n">xlearner_simple_te</span> <span class="o">=</span> <span class="n">xlearner_combined</span><span class="p">.</span><span class="n">predict</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">])</span>
+</code></pre></div></div>
+
+<p><img src="/images/2023-01-15-simple-x-learner/x-learner-xs.webp" alt="Xs-learner treatment effect distribution" /></p>
+
+<h3 id="full-x-learner">Full X-learner</h3>
+
+<p>The simplified X-Learner required 3 ML models. The full X-learner as originally
+proposed by Künzel et al. requires 5 ML models.</p>
+
+<p>Instead of fitting one combined model that predicts the treatment effects for
+everyone, the full X-learner uses two separate models, one for the treated users
+and one for the untreated users. This gives us two difference models that can
+predict treatment effects for new users. Künzel et al. recommend taking a
+weighted average of the two models, with the weights determined by a final
+propensity score model that predicts the probability of receiving the treatment.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># Define the new models that are not used in the simple version
+</span><span class="n">xlearner_te_model_0</span> <span class="o">=</span> <span class="n">XGBRegressor</span><span class="p">()</span>
+<span class="n">xlearner_te_model_1</span> <span class="o">=</span> <span class="n">XGBRegressor</span><span class="p">()</span>
+<span class="n">xlearner_propensity</span> <span class="o">=</span> <span class="n">XGBClassifier</span><span class="p">()</span>
+
+<span class="n">xlearner_te_model_0</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_0</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">xlearner_te_0</span><span class="p">)</span>
+<span class="n">xlearner_te_model_1</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train_1</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">xlearner_te_1</span><span class="p">)</span>
+
+<span class="c1"># Calculate predictions from both models
+</span><span class="n">xlearner_te_model_0_te</span> <span class="o">=</span> <span class="n">xlearner_te_model_0</span><span class="p">.</span><span class="n">predict</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">])</span>
+<span class="n">xlearner_te_model_1_te</span> <span class="o">=</span> <span class="n">xlearner_te_model_1</span><span class="p">.</span><span class="n">predict</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">])</span>
+
+<span class="c1"># Calculate the propensity scores
+</span><span class="n">xlearner_propensity</span><span class="p">.</span><span class="n">fit</span><span class="p">(</span><span class="n">df_train</span><span class="p">[</span><span class="n">X</span><span class="p">],</span> <span class="n">df_train</span><span class="p">[</span><span class="n">T</span><span class="p">])</span>
+<span class="n">xlearner_propensities</span> <span class="o">=</span> <span class="n">xlearner_propensity</span><span class="p">.</span><span class="n">predict_proba</span><span class="p">[</span><span class="n">df_test</span><span class="p">[</span><span class="n">X</span><span class="p">]](:,</span> <span class="mi">1</span><span class="p">)</span>
+
+<span class="c1"># Calculate the treatment effects as propensity weighted average
+</span><span class="n">xlearner_te</span> <span class="o">=</span> <span class="n">xlearner_propensities</span> <span class="o">*</span><span class="n">xlearner_te_model_0_te</span> <span class="o">+</span> <span class="p">(</span><span class="mi">1</span> <span class="o">-</span> <span class="n">xlearner_propensities</span><span class="p">)</span><span class="o">*</span> <span class="n">xlearner_te_model_1_te</span>
+</code></pre></div></div>
+
+<p><img src="/images/2023-01-15-simple-x-learner/x-learner-x.webp" alt="X-learner treatment effect distribution" /></p>
+
+<h1 id="comparing-theresults">Comparing the Results</h1>
+
+<p>We can compare the performance of each of these models using our held-out test
+set data. Here I am using Qini plots, which are a common approach for comparing
+the performance of Uplift models. Similar to an ROC curve, the higher the
+model’s line goes above the diagonal, the better the performance.</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">fig</span><span class="p">,</span> <span class="n">ax</span> <span class="o">=</span> <span class="n">plt</span><span class="p">.</span><span class="n">subplots</span><span class="p">(</span><span class="n">figsize</span><span class="o">=</span><span class="p">(</span><span class="mi">20</span><span class="p">,</span> <span class="mi">10</span><span class="p">))</span>
+<span class="k">def</span> <span class="nf">plot_qini_short</span><span class="p">(</span><span class="n">model</span><span class="p">,</span> <span class="n">label</span><span class="p">,</span> <span class="n">color</span><span class="p">,</span> <span class="n">linestyle</span><span class="p">):</span>
+    <span class="n">plot_qini_curve</span><span class="p">(</span><span class="n">df_test</span><span class="p">[</span><span class="n">Y</span><span class="p">],</span> <span class="n">model</span><span class="p">,</span> <span class="n">df_test</span><span class="p">[</span><span class="n">T</span><span class="p">],</span> <span class="n">name</span><span class="o">=</span><span class="n">label</span><span class="p">,</span> <span class="n">ax</span><span class="o">=</span><span class="n">ax</span><span class="p">,</span> <span class="n">perfect</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="p">,</span> <span class="n">linestyle</span><span class="o">=</span><span class="n">linestyle</span><span class="p">)</span>
+<span class="n">plot_qini_short</span><span class="p">(</span><span class="n">slearner_te</span><span class="p">,</span> <span class="s">'Slearner'</span><span class="p">,</span> <span class="s">'blue'</span><span class="p">,</span> <span class="s">'solid'</span><span class="p">)</span>
+<span class="n">plot_qini_short</span><span class="p">(</span><span class="n">tlearner_te</span><span class="p">,</span> <span class="s">'Tlearner'</span><span class="p">,</span> <span class="s">'red'</span><span class="p">,</span> <span class="s">'solid'</span><span class="p">)</span>
+<span class="n">plot_qini_short</span><span class="p">(</span><span class="n">xlearner_simple_te</span><span class="p">,</span> <span class="s">'Xlearner Simple'</span><span class="p">,</span> <span class="s">'purple'</span><span class="p">,</span> <span class="s">'solid'</span><span class="p">)</span>
+<span class="n">plot_qini_short</span><span class="p">(</span><span class="n">xlearner_te</span><span class="p">,</span> <span class="s">'Xlearner'</span><span class="p">,</span> <span class="s">'green'</span><span class="p">,</span> <span class="s">'solid'</span><span class="p">)</span>
+<span class="n">ax</span><span class="p">.</span><span class="n">legend</span><span class="p">(</span><span class="n">loc</span><span class="o">=</span><span class="s">'lower right'</span><span class="p">);</span>
+</code></pre></div></div>
+
+<p><img src="/images/2023-01-15-simple-x-learner/uplift.webp" alt="uplift curve" /></p>
+
+<p>For this particular dataset, the simplified X-Learner had the best overall performance.</p>
+
+<p>We shouldn’t draw any strong conclusions about the relative performance of
+difference algorithms from this single example. In my experience, which
+algorithm works best varies a lot depending on the specific problem you are
+working on. However, I do think that this example demonstrates that the
+simplified X-Learner (Xs-learner) is one more approach worth considering when
+working on Uplift problems.</p>
+
+<h1 id="references">References</h1>
+
+<ul>
+  <li>Athey, Susan, and Guido W. Imbens. Machine learning for estimating heterogeneous causal effects. №3350. 2015. <a href="https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-estimating-heretogeneous-casual-effects">https://www.gsb.stanford.edu/faculty-research/working-papers/machine-learning-estimating-heretogeneous-casual-effects</a></li>
+  <li>Künzel, Sören R., et al. “Metalearners for estimating heterogeneous treatment effects using machine learning.” Proceedings of the national academy of sciences 116.10 (2019): 4156–4165. <a href="http://sekhon.berkeley.edu/papers/x-learner.pdf">http://sekhon.berkeley.edu/papers/x-learner.pdf</a></li>
+  <li>Gutierrez, Pierre, and Jean-Yves Gérardy. “Causal inference and uplift modelling: A review of the literature.” International conference on predictive applications and APIs. PMLR, 2017. <a href="http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf">http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf</a></li>
+</ul>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+  
+
+
+
+
+  
+  
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fa fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      
+      
+      <a href="https://robdonnelly.me/tags/#causal-inference" class="page__taxonomy-item" rel="tag">causal_inference</a><span class="sep">, </span>
+    
+      
+      
+      <a href="https://robdonnelly.me/tags/#machine-learning" class="page__taxonomy-item" rel="tag">machine_learning</a>
+    
+    </span>
+  </p>
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=https://robdonnelly.me/posts/2013/01/simple-x-learner" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=https://robdonnelly.me/posts/2013/01/simple-x-learner" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://robdonnelly.me/posts/2013/01/simple-x-learner" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="https://twitter.com/robdonnelly47"><i class="fab fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    
+    
+    
+      <li><a href="https://github.com/rodonn"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    <li><a href="https://robdonnelly.me/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+  </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; 2023 Rob Donnelly. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+
+      </footer>
+    </div>
+
+    <script src="https://robdonnelly.me/assets/js/main.min.js"></script>
+
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-87DS4BSFQC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-87DS4BSFQC');
+</script>
+
+
+
+
+
+
+
+  </body>
+</html>
+

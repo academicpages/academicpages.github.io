@@ -1,0 +1,14 @@
+{
+  "hash": "519aeb984ed64204a2e4bae03752ea23",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Curriculum vitae\nexcerpt: My current CV\nexecute:\n  freeze: true  # never re-render during project render\nengine: knitr \nresources:\n  - \"robdonnelly.pdf\"\ncv:\n  pdf: \"robdonnelly.pdf\"\n---\n\n::: {.cell}\n<style type=\"text/css\">\n.embed-container {\n    position: relative;\n    padding-bottom: 129%;\n    height: 0;\n    overflow: hidden;\n    max-width: 100%;\n}\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n</style>\n:::\n\n```{=html}\n<p class=\"text-center\">\n  <a class=\"btn btn-primary btn-lg cv-download\" href=\"robdonnelly.pdf\" target=\"_blank\">\n    <i class=\"fa-solid fa-file-arrow-down\"></i>&ensp;Download current CV\n  </a>\n</p>\n<div class=\"embed-container\">\n  <iframe src=\"robdonnelly.pdf#toolbar=0\" style=\"border: 0.5px;width: 100%;\"></iframe>\n</div>\n```\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
