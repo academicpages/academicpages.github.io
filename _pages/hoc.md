@@ -17,7 +17,7 @@ Everything has a history.
 The image below is not accurate, but it is roughly correct.
 ![History of Computing](/images/hoc.png)
 
-Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing might also be familiar with early programming languages such as ALGOL or LISP.
+Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL or LISP.
 
 * Journal: 
 
