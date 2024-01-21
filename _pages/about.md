@@ -14,4 +14,4 @@ Currently I am doing research on macro-financial models.
 
 You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:2020011968@student.cup.edu.cn)/ [Github](https://github.com/Kiberji)/ [Wechat](Murmansk001).
+[Email](mailto:2020011968@student.cup.edu.cn)/ [Github](https://github.com/Kiberji)/ [Wechat](wechat1.png).
