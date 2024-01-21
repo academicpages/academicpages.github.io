@@ -47,6 +47,9 @@ Others
 
 Under Construction!!!
 ======
+  <ul>{% for post in site.jptexts %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Publications
 ======
