@@ -15,7 +15,7 @@ What is the History of Computing
 Everything has a History.
 
 
-Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL or LISP.
+Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing might also be familiar with early programming languages such as ALGOL or LISP.
 
 * Journal: 
 
@@ -38,18 +38,25 @@ Recommended Books and Papers
 ======
 * History of CS
   * 
+    * Mahoney, Michael S., edited by Thomas Haigh, Histories of Computing (2011). 
+    
 * History of Theoretical Computer Science (TCS)
-  * Program Semantics
-  * Cryptography
+    * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
   
 * Philosophy of Computing
-  * 
+  * 'Philosophy of science without history of science is empty; history of science without philosophy of science is blind.' (I. Lakatos,\UTF{00A0}The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
   
 * History of AI
   * 
   
 * Cybernetics
   * 
+  * 
+    * Gerovitch, Slava, From Newspeak to Cyberspeak, (2004). 
+
+  
+* History of Computer
+  * Haigh, Thomas, Mark Priestley, and Crispin Rope, ENIAC in Action: Making and Remaking the Modern Computer, (2016)
   
 * Military and Computing
   * 
@@ -76,7 +83,10 @@ Primary Source
 Useful Links
 ======
   * [The Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
+  * [ALAN TURING maintained by Andrew Hodges](https://www.turing.org.uk/sitemap.html)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
+  * [Academician A. Ershov’s archive](http://ershov.iis.nsk.su/en/index)
+  * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
 
 Others
 ======  
