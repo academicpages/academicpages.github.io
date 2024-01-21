@@ -38,7 +38,7 @@ layout: default
           <!-- <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
           <p><i>{{ page.venue }}</i>, {{ page.location }} </p>
         {% elsif page.collection == 'professional' %} 
-        <p> {{ page.location }} </p> 
+        <p><i> {{post.timeline}} </i>, {{ page.location }} </p> 
         {% elsif page.venue and page.date %}
           <!-- <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p> -->
           <p>Published in <i>{{ page.venue }}</i>, {{ page.location }} </p>
