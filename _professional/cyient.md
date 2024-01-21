@@ -3,7 +3,8 @@ title: "@ Cyient Ltd."
 collection: professional
 type: "professsional experience"
 permalink: /professional/cyient
-Timeline: "2014 - 2017"
+designation: "Mechanical Design Engineer"
+timeline: "2014 - 2017"
 #date: 2019/08/15
 location: "Hyderabad, TG, India"
 ---
@@ -29,7 +30,7 @@ Prepared the finite element (FE) model of 3D AVT assembly within 2D high pressur
 **Project Details**:
 The goal of this project was to perform the HCF structural analysis on integrated bladed rotors stages 5–8 to assess the life at the leading edge, trailing edge, trench, and balance cut locations as per the criteria mentioned in the engineering statement of work (ESW).
 
-Developed a finite element (FE) model for the IBR sub-model, ensuring that the mesh error remained within the 30% error criteria at critical locations. These locations included the leading and trailing edges of the airfoil, trenches on the rotor rim surface, and the balance cut region, all implemented using ANSYS 14.5. The sub-model was prepared based on the requirement, considering both a single sector and, at times, a $180^{\degree}$ model. Boundary conditions and loads for all the time points of a mission were applied. Once again, the sub-modeling concept was employed to conduct the thermal analysis. Thermal loads and cut boundary conditions were obtained from the global model and applied to this sub-model. Prepared and reported a detailed result pitch and stress summary of all critical locations.
+Developed a finite element (FE) model for the IBR sub-model, ensuring that the mesh error remained within the 30% error criteria at critical locations. These locations included the leading and trailing edges of the airfoil, trenches on the rotor rim surface, and the balance cut region, all implemented using ANSYS 14.5. The sub-model was prepared based on the requirement, considering both a single sector and, at times, a $180^{\circ}$ model. Boundary conditions and loads for all the time points of a mission were applied. Once again, the sub-modeling concept was employed to conduct the thermal analysis. Thermal loads and cut boundary conditions were obtained from the global model and applied to this sub-model. Prepared and reported a detailed result pitch and stress summary of all critical locations.
 
 <h3>Structural Analysis of front hub with balance mass and rivets</h3>
 <br>
