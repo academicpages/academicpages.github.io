@@ -14,6 +14,8 @@ What is the History of Computing
 ======
 Everything has a History.
 
+The image below is not entirely accurate, but it is roughly correct.
+![History of Computing](/images/hoc.png)
 
 Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing might also be familiar with early programming languages such as ALGOL or LISP.
 
@@ -44,7 +46,7 @@ Recommended Books and Papers
     * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
   
 * Philosophy of Computing
-  * 'Philosophy of science without history of science is empty; history of science without philosophy of science is blind.' (I. Lakatos,\UTF{00A0}The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
+  * 'Philosophy of science without history of science is empty; history of science without philosophy of science is blind.' (I. Lakatos, The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
   
 * History of AI
   * 
