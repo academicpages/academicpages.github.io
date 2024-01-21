@@ -1,5 +1,5 @@
 ---
-title: "@ Cyient Ltd"
+title: "@ Cyient Ltd."
 collection: professional
 type: "professsional experience"
 permalink: /professional/cyient
