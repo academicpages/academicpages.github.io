@@ -35,10 +35,23 @@ Developed a finite element (FE) model for the IBR sub-model, ensuring that the m
 <br>
 Client: Pratt & Whitney
 <br>
-Timeline: May '15 - Nov '15
+Timeline: Jan '15 - Apr '15
 <br>
 Project Details:
 The aim of this project was to conduct static stress analysis on the front hub with a balance mass and rivets. The redesign of the model is focused on assessing the life at critical locations such as the front hub oil drain slots, flow hole, rivet hole, and balance cut location. This evaluation aligns with the specifications outlined in the engineering statement of work (ESW). Additionally, the project involved checking the deflection of the front hub arm and ensuring clearance between the front hub and the stator knife edge.
 <br>
 The FE model of the front hub with balance mass and rivets sub-model was created using ANSYS V14.5, ensuring that the mesh error remained below the 30% error criteria at critical locations, specifically the rivet holes of the balance mass, oil drain slot, balance cut, and flow hole of the front hub. Boundary conditions and loads were applied for all the time points throughout the entire mission duration. The sub-modeling concept was utilized to extract thermal and cut boundary conditions from the global model. A comprehensive result presentation and stress summary were prepared for all critical locations. Depending on the size of the model, two to three sub-models were considered.
+<br>
+<h3>Structural analysis on BA and 30k global model</h3>
+<br>
+Client: Pratt & Whitney
+<br>
+Timeline: Jan '15 - Apr '15
+<br>
+Project Details:
+The primary objectives of this task included:
+* Defining attributes, including thermal and pressure loads, within Pratt & Whitney Auto Modeler (PWAM), an in-house modeling tool employed for generating finite element models. These models were subsequently analyzed using Unigraphics (UG) NX7.5 and ANSYS V12.0.
+* Simulating the assembly of the global model to accommodate various types of missions and flight cycles.
+<br>
+Attributes of the global model were defined using the Pratt and Whitney Automodeler (PWAM) tool, which generates an optimized finite element model with thermal and pressure components essential for analysis. The mesh error percentage at critical locations of Rotors 5 to 8, front hub, aft hub, and on the tie-shaft was verified to ensure compliance with the 30% error criteria. The global model incorporated HPC, high-pressure turbine (HPT), #3 bearing, and #4 bearing assemblies. A comprehensive analysis was conducted for all time points corresponding to various missions and different thermal conditions. Three preloads were taken into account for the analysis, simulated at the HPC, HPT, and #4 bearing locations of the tie shaft, as well as through interference fit at the #3 bearing location. Following the application of the necessary preload, static stress analysis was conducted for the entire flight cycle to examine the stress and displacements of the global model. Subsequently, this global model was utilized to extract loads and boundary conditions for sub-models. PW life input files were generated using a tool called Surf life.
 <br>
