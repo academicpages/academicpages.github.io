@@ -76,5 +76,10 @@ Useful Links
 ======
   * [The Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
-  
+
+Others
+======  
+    <ul>{% for post in site.jptexts %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
