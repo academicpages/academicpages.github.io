@@ -14,7 +14,7 @@ For a given $f \in C(J; L^\infty(\Omega))$ and $\psi \in H^1(\Omega)$ with $\psi
 For all $t \in (0,T_F]$, find $u(t) \in K$ contained in $H^1_{0}(\Omega)$ such that
 
 $$
-    \begin{array}{rrlrrrrll}
+    \begin{array}{rrlrrllll}
         & ( \partial_t u, v-u ) + a(u, v-u)
         & \geq
         & ( f(t), v-u )
