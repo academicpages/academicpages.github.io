@@ -1,0 +1,14 @@
+/*------------------------------------------------------------------
+    [Progress Bar]
+------------------------------------------------------------------*/
+
+.progress-box {
+    .progress {
+        box-shadow: none;
+        height: 3px;
+    }
+
+    .progress-bar {
+        @include cubic-transition($delay: 0, $duration: 2000ms, $property: (all));
+    }
+}

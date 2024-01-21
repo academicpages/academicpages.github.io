@@ -1,0 +1,22 @@
+/*------------------------------------------------------------------
+  	[Social Icons]
+------------------------------------------------------------------*/
+
+.social-icons {
+	display: inline-block;
+	@include size(40px);
+	@include font($size: 16px);
+	color: $color-heading;
+	background: $color-white;
+	text-align: center;
+	border-radius: 50%;
+	vertical-align: middle;
+	padding: 11px;
+	@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+
+	&:hover {
+		color: $color-white;
+		background: $color-heading;
+		@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+	}
+}

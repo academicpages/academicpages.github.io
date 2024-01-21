@@ -1,0 +1,32 @@
+/*------------------------------------------------------------------
+  	[Button]
+------------------------------------------------------------------*/
+
+.btn-theme {
+	@include button();
+}
+
+.btn-icon {
+	@include position(relative, $top: 1px);
+	margin-right: 10px;
+}
+
+.btn-white-bg {
+	@include button-color($color-heading, $color-white, $color-white, $color-base, 0, transparent, transparent);
+}
+
+.btn-white-brd {
+	@include button-color($color-white, $color-heading, transparent, $color-white, 2px, $color-white, $color-white);
+}
+
+.btn-default-bg {
+	@include button-color($color-heading, $color-white, #f3f4f5, $color-base, 0, transparent, transparent);
+}
+
+.btn-theme-sm {
+	@include button-size(13px, 600, 15px 40px);
+}
+
+.btn-theme-md {
+	@include button-size(15px, 600, 20px 30px);
+}

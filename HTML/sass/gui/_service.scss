@@ -1,0 +1,34 @@
+/*------------------------------------------------------------------
+  	[Service]
+------------------------------------------------------------------*/
+
+.service {
+	background: $color-white;
+	padding: 30px;
+
+	.service-element,
+	.service-info {
+		@include translate3d(0,0,0);
+		@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+	}
+
+	.service-icon {
+		display: block;
+		@include font($size: 30px);
+		color: $color-link-hover;
+		margin-bottom: 30px;
+	}
+
+	&:hover {
+		.service-element {
+			opacity: 0;
+			@include translate3d(0,-100%,0);
+			@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+		}
+
+		.service-info {
+			@include translate3d(0,-30%,0);
+			@include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+		}
+	}
+}

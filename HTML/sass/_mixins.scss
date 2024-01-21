@@ -1,0 +1,216 @@
+// --------------------------------------------------
+// Clearfix
+// --------------------------------------------------
+
+// eg: @include clearfix;
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
+
+
+// --------------------------------------------------
+// Font
+// --------------------------------------------------
+
+// eg: @include font($size: 14px, $style: italic, $weight: 400, $variant: normal, $family: $font-family-base);
+@mixin font($size: null, $style: null, $weight: null, $variant: null, $family: null) {
+    font-size: $size;
+    font-style: $style;
+    font-weight: $weight;
+    font-variant: $variant;
+    font-family: $family;
+}
+
+
+// --------------------------------------------------
+// Positioning
+// --------------------------------------------------
+
+// eg: @include position(absolute, $top: 5px, $left: 5px);
+@mixin position($position, $top: null, $right: null, $bottom: null, $left: null) {
+    position: $position;
+    top: $top;
+    left: $left;
+    right: $right;
+    bottom: $bottom;
+}
+
+
+// --------------------------------------------------
+// Sizing
+// --------------------------------------------------
+
+// eg 2: @include size(100%, 1px); */
+@mixin size($width, $height: $width) {
+    width: $width;
+    height: $height;
+}
+
+
+// --------------------------------------------------
+// Theme Button
+// --------------------------------------------------
+
+// eg: @include button();
+@mixin button() {
+    position: relative;
+    display: inline-block;
+    line-height: 1;
+    text-align: center;
+    background-image: none;
+    border-style: solid;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+        touch-action: manipulation;
+    cursor: pointer;
+    @include user-select(none);
+
+    &:focus,
+    &:active:focus,
+    &.active:focus,
+    &.focus,
+    &:active.focus,
+    &.active.focus {
+        outline: none;
+    }
+
+    &:hover {
+        @include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+    }
+
+    &:hover,
+    &:focus,
+    &.focus {
+        text-decoration: none;
+    }
+
+    &:active,
+    &.active {
+        background-image: none;
+        outline: 0;
+    }
+
+    &.disabled,
+    &[disabled],
+    fieldset[disabled] & {
+        cursor: not-allowed;
+        box-shadow: none;
+        opacity: .65;
+        pointer-events: none;
+    }
+}
+
+// eg: @include button-color($color-base, $color-white, transparent, $color-base, 1px, $color-base, $color-base);
+@mixin button-color($btn-color, $btn-color-hover, $btn-bg-color, $btn-bg-hover-color, $btn-border-width, $btn-border-color, $btn-border-hover-color) {
+    color: $btn-color;
+    background: $btn-bg-color;
+    border-color: $btn-border-color;
+    border-width: $btn-border-width;
+
+    &:hover,
+    &:focus,
+    &.focus {
+        color: $btn-color-hover;
+        background: $btn-bg-hover-color;
+        border-color: $btn-border-hover-color;
+    }
+}
+
+// eg: @include button-size($font-size-14, $font-weight-400, 6px 12px);
+@mixin button-size($btn-font-size, $btn-fweight, $btn-padding) {
+    font-size: $btn-font-size;
+    font-weight: $btn-fweight;
+    padding: $btn-padding;
+}
+
+
+// --------------------------------------------------
+// User Select
+// --------------------------------------------------
+
+/* eg: @include user-select(none); */
+@mixin user-select($user-select) {
+    -webkit-user-select: ($user-select);
+    -moz-user-select: ($user-select);
+    -ms-user-select: ($user-select);
+    user-select: ($user-select);
+}
+
+
+// --------------------------------------------------
+// Placeholder
+// --------------------------------------------------
+
+// eg: @include placeholder($color-base);
+@mixin placeholder($color: $input-color-placeholder) {
+    &::-moz-placeholder           { color: $color; } // Firefox 19+
+    &:-ms-input-placeholder       { color: $color; } // Internet Egplorer 10+
+    &::-webkit-input-placeholder  { color: $color; } // Safari and Chrome
+}
+
+
+// --------------------------------------------------
+// RGBA Background Opacity
+// --------------------------------------------------
+
+// eg: @include bg-opacity($color-dark, .2);
+@mixin bg-opacity($color, $opacity: 0.3) {
+    background: rgba($color, $opacity);
+}
+
+
+// --------------------------------------------------
+// Cubic Bezier Transition
+// --------------------------------------------------
+
+// eg: @include cubic-transition($delay: 0, $duration: 300ms, $property: (all));
+@mixin cubic-transition($delay, $duration, $property) {
+    transition: {
+        duration: $duration;
+        property: $property;
+        timing-function: cubic-bezier(.7,1,.7,1);
+    }
+}
+
+
+// --------------------------------------------------
+// Rotate
+// --------------------------------------------------
+
+/* eg: @include rotate(45deg); */
+@mixin rotate($degrees) {
+    -webkit-transform: rotate($degrees);
+    -moz-transform: rotate($degrees);
+    transform: rotate($degrees);
+}
+
+
+// --------------------------------------------------
+// Translate 3D Transition
+// --------------------------------------------------
+
+/* eg: @include translate3d(0,0,0); */
+@mixin translate3d($x, $y, $z) {
+    -webkit-transform: translate3d($x, $y, $z);
+    -moz-transform: translate3d($x, $y, $z);
+    transform: translate3d($x, $y, $z);
+}
+
+
+// --------------------------------------------------
+// Border Radius
+// --------------------------------------------------
+
+/* eg: @include border-radius(3px); */
+@mixin border-radius($radius) {
+    border-radius: $radius;
+}

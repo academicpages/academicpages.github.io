@@ -1,0 +1,46 @@
+/*------------------------------------------------------------------
+  	[Promo Block]
+------------------------------------------------------------------*/
+
+.promo-block {
+	position: relative;
+	background: $color-sky-light;
+	padding-top: 220px;
+
+	@media (max-width: $screen-sm-min) {
+		text-align: center;
+		padding-top: 170px;
+	}
+
+	.promo-block-title {
+		@include font($size: 70px);
+		line-height: 1;
+
+		@media (max-width: $screen-xs-min) {
+			@include font($size: 50px);
+		}
+	}
+
+	.promo-block-text {
+		@include font($size: 25px);
+	}
+
+	.promo-block-img-wrap {
+		@include position(relative);
+		height: 400px;
+		
+		@media (max-width: $screen-sm-min) {
+			height: auto;
+		}
+	}
+
+	.promo-block-img {
+		@include position(absolute, $bottom: 0, $right: 0);
+
+		@media (max-width: $screen-sm-min) {
+			@include position(relative);
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+}
