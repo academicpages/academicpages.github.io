@@ -13,4 +13,4 @@ My research interest includes energy finance, energy economics, climate change e
 Currently I am doing research on macro-financial models.
 
 You can find my CV here: [Kiber's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-[Email](mailto:2020011968@student.cup.edu.cn)/ [Github](https://github.com/Kiberji)/ [Wechat](../image/wechat.png).
+[Email](mailto:2020011968@student.cup.edu.cn)/ [Github](https://github.com/Kiberji)/ [Wechat](Murmansk001).
