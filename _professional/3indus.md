@@ -2,7 +2,7 @@
 title: "@ Indus Refrigeration Private Ltd."
 collection: professional
 type: "professsional experience"
-permalink: /professional/indus
+permalink: /professional/3indus
 designation: "Engineering Tech Intern"
 timeline: "2013 - 2014"
 #date: 2019/08/15

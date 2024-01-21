@@ -2,7 +2,7 @@
 title: "@ National Mineral Development Corporation (NMDC)"
 collection: professional
 type: "professsional experience"
-permalink: /professional/nmdc
+permalink: /professional/2nmdc
 designation: "Engineering Tech Intern"
 timeline: "2013"
 #date: 2019/08/15

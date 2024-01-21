@@ -2,7 +2,7 @@
 title: "@ Cyient Ltd."
 collection: professional
 type: "professsional experience"
-permalink: /professional/cyient
+permalink: /professional/4cyient
 designation: "Mechanical Design Engineer"
 timeline: "2014 - 2017"
 #date: 2019/08/15

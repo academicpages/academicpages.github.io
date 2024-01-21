@@ -2,7 +2,7 @@
 title: "@ Bharat Heavy Electrical Ltd. (BHEL)"
 collection: professional
 type: "professsional experience"
-permalink: /professional/bhel
+permalink: /professional/1bhel
 designation: "Engineering Tech Intern"
 timeline: "2012"
 #date: 2019/08/15
