@@ -1,5 +1,5 @@
 ---
-
+layout: archive
 title: "Introduction to the History of Computing"
 permalink: /hoc/
 author_profile: true
