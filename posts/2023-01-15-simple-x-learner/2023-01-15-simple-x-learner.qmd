@@ -2,7 +2,6 @@
 title: 'A Simpler Alternative to X-Learner for Uplift Modeling'
 date: 2023-01-15
 permalink: /posts/2013/01/simple-x-learner
-asset_path: /
 description: "A guide to the simplified X-learner approach for Uplift modeling"
 image: "uplift.webp"
 tags:

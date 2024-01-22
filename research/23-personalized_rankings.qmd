@@ -3,12 +3,14 @@ title: "Welfare Effects of Personalized Rankings"
 author: Robert Donnelly, Ayush Kanodia, and Ilya Morozov
 publication: 'Marketing Science'
 year: 2023
-description: 'Developed a novel model to measure the impact of personalized search results on consumer welfare'
+description: 'Published in Marketing Science'
 permalink: /publication/personalized_rankings
 date: 2023-05-15
 paperurl: 'https://doi.org/10.1287/mksc.2023.1441'
 localurl: '/files/personalized_rankings.pdf'
 ---
 Developed a novel latent-factorization model in PyTorch for customer search and used it to measure the impact of personalized search research on customer welfare based on data from an experiment run at Wayfair.
+
+![Image](/images/personalized_rankings.png)
 
 [Download paper here](/files/personalized_rankings.pdf)

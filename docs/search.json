@@ -25,28 +25,28 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Welfare Effects of Personalized Rankings\n\n\n\n\n\nDeveloped a novel model to measure the impact of personalized search results on consumer welfare\n\n\n\n\n\n\nMay 15, 2023\n\n\nRobert Donnelly, Ayush Kanodia, and Ilya Morozov\n\n\n\n\n\n\n  \n\n\n\n\nCounterfactual inference for consumer choice across many product categories\n\n\n\n\n\nDeveloped a variational Bayesian model of customer behavior in grocery stores to understand how they substitute between products when prices and product availability changes. Validated the ability of the model to make counterfactual predictions using held out data from weeks that experienced changes in pricing or out-of-stock products.\n\n\n\n\n\n\nNov 17, 2021\n\n\nRob Donnelly, Fran Ruiz, David Blei, and Susan Athey\n\n\n\n\n\n\n  \n\n\n\n\nEstimating heterogeneous consumer preferences for restaurants and travel time using mobile location data\n\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2018\n\n\nAthey, Susan, David Blei, Robert Donnelly, Francisco Ruiz, and Tobias Schmidt\n\n\n\n\n\n\nNo matching items"
+    "text": "Welfare Effects of Personalized Rankings\n\n\n\n\n\nPublished in Marketing Science\n\n\n\n\n\n\nMay 15, 2023\n\n\nRobert Donnelly, Ayush Kanodia, and Ilya Morozov\n\n\n\n\n\n\n  \n\n\n\n\nCounterfactual inference for consumer choice across many product categories\n\n\n\n\n\nPublished in QME\n\n\n\n\n\n\nNov 17, 2021\n\n\nRob Donnelly, Fran Ruiz, David Blei, and Susan Athey\n\n\n\n\n\n\n  \n\n\n\n\nEstimating heterogeneous consumer preferences for restaurants and travel time using mobile location data\n\n\n\n\n\nPublished in AEA Papers and Proceedings\n\n\n\n\n\n\nMay 1, 2018\n\n\nAthey, Susan, David Blei, Robert Donnelly, Francisco Ruiz, and Tobias Schmidt\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/18-restaurant_choice.html",
     "href": "research/18-restaurant_choice.html",
     "title": "Estimating heterogeneous consumer preferences for restaurants and travel time using mobile location data",
     "section": "",
-    "text": "We estimate a model of consumer choices over restaurants using data from thousands of anonymous mobile phone users. We analyze how consumers reallocate their demand after a restaurant closes and make predictions about what types of restaurants would attract the most customers in a given location.\nDownload paper here"
+    "text": "We estimate a model of consumer choices over restaurants using data from thousands of anonymous mobile phone users. We analyze how consumers reallocate their demand after a restaurant closes and make predictions about what types of restaurants would attract the most customers in a given location.\n\n\n\nImage\n\n\nDownload paper here"
   },
   {
     "objectID": "research/23-personalized_rankings.html",
     "href": "research/23-personalized_rankings.html",
     "title": "Welfare Effects of Personalized Rankings",
     "section": "",
-    "text": "Developed a novel latent-factorization model in PyTorch for customer search and used it to measure the impact of personalized search research on customer welfare based on data from an experiment run at Wayfair.\nDownload paper here"
+    "text": "Developed a novel latent-factorization model in PyTorch for customer search and used it to measure the impact of personalized search research on customer welfare based on data from an experiment run at Wayfair.\n\n\n\nImage\n\n\nDownload paper here"
   },
   {
     "objectID": "research/21-counterfactual_predictions.html",
     "href": "research/21-counterfactual_predictions.html",
     "title": "Counterfactual inference for consumer choice across many product categories",
     "section": "",
-    "text": "Developed a variational Bayesian model of customer behavior in grocery stores to understand how they substitute between products when prices and product availability changes. Validated the ability of the model to make counterfactual predictions using held out data from weeks that experienced changes in pricing or out-of-stock products.\nDownload paper here"
+    "text": "Developed a variational Bayesian model of customer behavior in grocery stores to understand how they substitute between products when prices and product availability changes. Validated the ability of the model to make counterfactual predictions using held out data from weeks that experienced changes in pricing or out-of-stock products.\n\n\n\nImage\n\n\nDownload paper here"
   },
   {
     "objectID": "posts/2023-01-15-simple-x-learner/2023-01-15-simple-x-learner.html",
@@ -75,5 +75,19 @@
     "title": "Posts",
     "section": "",
     "text": "A Simpler Alternative to X-Learner for Uplift Modeling\n\n\n\n\n\nA guide to the simplified X-learner approach for Uplift modeling\n\n\n\n\n\n\nJan 15, 2023\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/2022-applied-causal-infernece.html",
+    "href": "teaching/2022-applied-causal-infernece.html",
+    "title": "Applied Causal Inference",
+    "section": "",
+    "text": "Techniques covered in the class include matching, propensity scores, synthetic controls, doubly robust estimators, heterogeneous treatment effects, and double ML.\nTaught 100+ students across 2 cohorts (2022 and 2023) before the platform hosting the course was shut down.\n\n\n\nApplied Causal Inference"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Applied Causal Inference\n\n\n\n\n\n12 hour online course focused on applications of causal inference\n\n\n\n\n\n\nNov 1, 2022\n\n\n\n\n\n\nNo matching items"
   }
 ]

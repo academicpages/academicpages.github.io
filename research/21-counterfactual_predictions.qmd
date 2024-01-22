@@ -4,7 +4,7 @@ author: 'Rob Donnelly, Fran Ruiz, David Blei, and Susan Athey'
 publication: 'Quantitative Marketing and Economics'
 year: 2021
 permalink: /publication/counterfactual_predictions
-description: 'Developed a variational Bayesian model of customer behavior in grocery stores to understand how they substitute between products when prices and product availability changes. Validated the ability of the model to make counterfactual predictions using held out data from weeks that experienced changes in pricing or out-of-stock products.'
+description: 'Published in QME'
 date: 2021-11-17
 paperurl: 'https://doi.org/10.1007/s11129-021-09241-2'
 localurl: '/files/counterfactual_predictions.pdf'
@@ -12,5 +12,7 @@ localurl: '/files/counterfactual_predictions.pdf'
 ---
 
 Developed a variational Bayesian model of customer behavior in grocery stores to understand how they substitute between products when prices and product availability changes. Validated the ability of the model to make counterfactual predictions using held out data from weeks that experienced changes in pricing or out-of-stock products.
+
+![Image](/images/price_elasticity.png)
 
 [Download paper here](/files/counterfactual_predictions.pdf)

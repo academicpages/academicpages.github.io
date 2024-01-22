@@ -1,0 +1,17 @@
+---
+title: "Teaching"
+listing:
+  contents: teaching
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  field-display-names: 
+    publication: "Publication"
+    year: "Year"
+page-layout: full
+title-block-banner: true
+---
+
+

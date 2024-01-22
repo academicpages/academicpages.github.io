@@ -16,14 +16,14 @@ website:
         href: research.qmd
       - text: "CV"
         href: cv/index.qmd
-      # - text: "Teaching"
-      #   href: teaching/index.qmd
+      - text: "Teaching"
+        href: teaching.qmd
     right:
-      - about.qmd
+      # - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/rodonn
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/robdonnelly47
 format:
   html:
     theme: cosmo
