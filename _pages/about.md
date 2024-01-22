@@ -63,9 +63,8 @@ Research
     <tr>
       <td>
         <ul>
-          <li>December 14th-16th 2023: Santiago de Chile (Chile), ACPP conference.</li>
-          <li>January 10th-14th 2024: New Orleans (LA, U.S.), SPSA conference.</li>
           <li>April 4th-7th 2024: Chicago (IL, U.S.), MPSA conference.</li>
+          <li>June 25th - 28th 2024: Bergen (Norway), NOPSA conference.</li>
        </ul>
       </td>
     </tr>
