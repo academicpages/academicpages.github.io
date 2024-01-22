@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I graduate with the highest distinction from the University of North Carolina at Chapel Hill, earning a Bachelor's degree in Mathematics and Statistics and Analytics with honors. During my undergraduate studies, I conducted an honor thesis focusing on the robustness analysis of Google's PageRank Centrality algorithm on Undirected Networks, under the supervision of Professor [Mariana Olvera-Cravioto](https://molvera.web.unc.edu/).
+I graduated with the highest distinction from the University of North Carolina at Chapel Hill, earning a Bachelor's degree in Mathematics and Statistics and Analytics with honors. During my undergraduate studies, I conducted an honor thesis focusing on the robustness analysis of Google's PageRank Centrality algorithm on Undirected Networks, under the supervision of Professor [Mariana Olvera-Cravioto](https://molvera.web.unc.edu/).
 
 Currently, I work as a Data Engineer Intern at [Cmind Inc](https://www.cmind-ai.com/), a fintech startup in Boston, focusing on building, training, and refining machine learning models, notably boosting models, to classify and predict daily earnings surprises and consistently enhance model accuracy.
 
