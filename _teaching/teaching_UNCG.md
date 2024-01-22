@@ -10,7 +10,6 @@ location: "Greensboro, NC"
 
 <h2> Academic Positions </h2>
 {%include include_teaching/teaching_UNCG.html%}{%include include_teaching/officehours_UNCG.html%}
-
 <br>
 {%include include_teaching/assisting_UNCG.html%}
 <br>
