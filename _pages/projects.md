@@ -37,7 +37,7 @@ No significant correlation between walkability and poverty. Identified higher ob
   <iframe 
     width="640" 
     height="360" 
-    src="https://drive.google.com/file/d/1uLYYMdHlaDcK1wERheH18UssXA11SOsR/view?usp=drive_link" 
+    src="https://drive.google.com/file/d/1uLYYMdHlaDcK1wERheH18UssXA11SOsR/view?usp=sharing" 
     frameborder="0" 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
