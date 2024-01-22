@@ -12,6 +12,11 @@ author_profile: true
 [[**GitHub Repository**](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)]
 [[**Video Overview**](https://www.youtube.com/watch?v=W4uXdOSEJTo)]
 
+<video width="640" height="360" controls>
+  <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.
 
 ## **Objective:**
