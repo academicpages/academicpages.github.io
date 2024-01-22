@@ -27,6 +27,10 @@ I have presented / will be presenting at...
 #### Nordic Sociological Association Conference (NSA)
 - Reykjavik, Iceland: 2022. Panel: Myths and realities of the Nordic welfare state.
 
+#### Nordic Political Science Association Conference (NOPSA)
+- Bergen, Norway: 2024. Panel: Parties, Governments, and Policy Making.
+
+
 #### Society for Institutional & Organizational Economics (SIOE)
 - Toronto, Canada: 2022. [declined]
 
