@@ -22,5 +22,5 @@ Collected data on New York City walkability, poverty, and obesity. Utilized Pyth
 
 ## **Results:**
 No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable New York City neighborhoods.
-<img src="files/Poverty-Walkability.png" alt="Visualization displaying the correlation between Poverty and Walkability in New York City neighborhoods.">
-<img src="files/Obesity-Walkability.png" alt="Visualization displaying the correlation between Obesity and Walkability in New York City neighborhoods.">
+<img src="../files/Poverty-Walkability.png" alt="Visualization displaying the correlation between Poverty and Walkability in New York City neighborhoods.">
+<img src="../files/Obesity-Walkability.png" alt="Visualization displaying the correlation between Obesity and Walkability in New York City neighborhoods.">
