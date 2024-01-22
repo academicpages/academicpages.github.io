@@ -5,11 +5,12 @@ permalink: /Projects/
 author_profile: true
 ---
 
-# [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
+# Walkability and Well-Being - An Urban Analysis
 
-[**GitHub**](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project) [**Video Overview**](https://www.youtube.com/watch?v=W4uXdOSEJTo)
+- [**GitHub Repository**](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
+- [**Video Overview**](https://www.youtube.com/watch?v=W4uXdOSEJTo)
 
-**Old Dominion University | Fall 2023**
+**Old Dominion University** | **Fall 2023**
 
 Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.
 
