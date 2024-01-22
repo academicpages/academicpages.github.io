@@ -9,7 +9,7 @@ author_profile: true
 
 ### **Old Dominion University, Fall 2023**
 
-<video width="640" height="360" controls>
+<video width="100%" height="400" controls allowfullscreen>
   <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
