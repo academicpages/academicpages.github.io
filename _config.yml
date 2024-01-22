@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Kaiyan Li"
-  avatar           : "lky_profile.png"
+  avatar           : "/images/lky_profile.png"
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
   employer         : https://www.cmind-ai.com/

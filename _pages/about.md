@@ -20,5 +20,5 @@ Honor Thesis
 
 Curriculum Project Highlights
 ======
-1. Movies Profit Prediction, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/) [Paper](https://github.com/kyllli/STOR320-Movies-Profit-Prediction-Project)
-2. Ice Curling Analysis, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/) [Paper](https://github.com/kyllli/STOR538-Championship-Paper)
+1. Movies Profit Prediction, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/). [[Paper]](/files/Final%20Paper.html) [[Code]](https://github.com/kyllli/STOR320-Movies-Profit-Prediction-Project)
+2. Ice Curling Analysis, advised by Professor [Mario Giacomazzo](https://stor.unc.edu/faculty-member/giacomazzo-mario/). [[Paper]](/files/STOR%20538%20Championship%20Final%20Paper.pdf)
