@@ -18,7 +18,9 @@ Collaborated with classmates on a project exploring the intricate relationship b
 Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.
 
 ## **Methodology:**
-Collected data on NYC walkability, poverty, and obesity. Utilized Python, Pandas, Matplotlib, and Seaborn for preprocessing and visualization. Merged datasets for comprehensive analysis.
+Collected data on New York City walkability, poverty, and obesity. Utilized Python, Pandas, Matplotlib, and Seaborn for preprocessing and visualization. Merged datasets for comprehensive analysis.
 
 ## **Results:**
-No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable NYC neighborhoods.
+No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable New York City neighborhoods.
+<img src="files/Poverty-Walkability.png" alt="Visualization displaying the correlation between Poverty and Walkability in New York City neighborhoods.">
+<img src="files/Obesity-Walkability.png" alt="Visualization displaying the correlation between Obesity and Walkability in New York City neighborhoods.">
