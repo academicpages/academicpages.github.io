@@ -11,6 +11,13 @@ redirect_from:
 My name is Yu-Sheng Su. I am currently a Research Fellow hosted by [Eric Xing](http://www.cs.cmu.edu/~epxing/) from [CMU](https://www.cmu.edu/) / [MBZUAI](https://mbzuai.ac.ae/) and work on large-scale pre-trained language models (LLMs) now. I completed my Ph.D. in 2023 from the [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn/) at [Tsinghua University](https://www.tsinghua.edu.cn/publish/thu2018en/index.html). Throughout my Ph.D. (from 2019 to 2023), I had the privilege of joining [THUNLP Lab](https://github.com/thunlp) hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm)and being advised by [Zhiyuan Liu](https://scholar.google.com/citations?user=dT0v5u0AAAAJ&hl=zh-TW). Besides, I work closely with a start-up company, [ModelBest](https://github.com/OpenBMB). For further details on my academic research and experience, please refer to my [[Google Scholar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)].
 
 
+<!--You can find my CV [here](/cv/).-->
+## On The Job Market
+I'm on the job market, looking for academic and industrial research positions related to LLMs. [[Google Schlar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] 
+<!-- [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0) -->
+<!-- (in North America) -->
+
+
 ## Research
 <!--
 I have 4-year experiences in LLMs. My research spans the areas of natural language processing and machine learning. My long-term goal of research is to build a general-purpose machine learning system that can <b>sufficiently learn</b> human-like cognitive capacities (e.g., understanding , reasoning, reflecting, etc.), <b>efficiently adapt</b> to various tasks, and remain <b>interactable and reliable</b> when deployed in real applications. Toward this goal, my previous works spans across:
@@ -50,19 +57,9 @@ Recently, I am more focus on:
 
 
 
-<!--You can find my CV [here](/cv/).-->
 
-## On The Job Market
-I'm on the job market, looking for academic and industrial research positions related to LLMs. [[Google Schlar](https://scholar.google.com/citations?user=xwy6Va4AAAAJ&hl=en)] 
-<!-- [[CV]](https://www.dropbox.com/s/4j059nncu2k6lrf/Yusheng_Su_Resume_2023_05_15.pdf?dl=0) -->
-<!-- (in North America) -->
 
-<!-- ## Coming Soon
-Will share our work: [On Transferability of Prompt Tuning for Natural Language Processing](https://arxiv.org/abs/2111.06719)<br>
-<b>Conference</b>: NAACL 2022, Seattle, Washington <br>
-<b>Session</b>: Efficient Methods in NLP <br>
-<b>Time</b>: July 10, 2022, 10:45 – 12:15 (UTC - 7:00) <br>
-</font> -->
+
 
 
 ## News
