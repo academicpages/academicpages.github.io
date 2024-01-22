@@ -123,7 +123,7 @@ A vehicle MPC control vehicle around tracks in a simulator is developed. The cos
 
 ### [2017a] A CNN Traffic Sign Classifer. [link](https://github.com/jwangjie/SDC-Traffic-Sign-Classifier)
 
-In this project, a convolutional neural networks, [improved LeNet](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) is trained to classify traffic signs. 
+In this project, a convolutional neural networks, [improved LeNet]( ) is trained to classify traffic signs. 
 
 <div style="text-align: center">
 <img src="https://jwangjie.github.io/files/ImprovedLeNet.png" 
