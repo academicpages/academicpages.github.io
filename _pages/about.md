@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a 3nd year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). I'm also closely collaborating with Prof. [Misha Belkin](http://misha.belkin-wang.org/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
+I am a 3rd year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). I'm also closely collaborating with Prof. [Misha Belkin](http://misha.belkin-wang.org/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
 
 My journey into computer science started at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/), where I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
 
