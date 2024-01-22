@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /Resume/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,19 +10,17 @@ redirect_from:
 {% include base_path %}
 
 # Chirayu M. Salgarkar
-264 Adams Lake Drive  
-Lawrenceville, GA 30046  
-(770)-608-9702  
 Chirayu.Mihir.Salgarkar@live.mercer.edu
 
-## EDUCATION
-### Mercer University, Macon, GA
-- **Bachelor of Science, Biomedical Engineering and Mathematics; GPA: 3.6**  
-  Expected May 2024, Minors in Computer Science and Biology
+Education
+Mercer University, Macon, GA
+2020-2024
+- Bachelor of Science, Biomedical Engineering and Mathematics, Minors in Computer Science and Biology
 
-### Budapest Semesters in Mathematics, Budapest, Hungary
-- **Summer 2023**  
-  Advanced Mathematics Coursework in Measure Theory and Network Science  
+Budapest Semesters in Mathematics, Budapest, Hungary
+- Summer 2023  
+
+
  
 ## HONORS
 - Stamps Scholarship (full-ride undergraduate scholarship) 2020-2024
