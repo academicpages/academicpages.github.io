@@ -27,7 +27,7 @@ the computational and statistical efficiency of learning methods, and the extent
 
 # Publications and Preprints
 
-1. <b> Mirror Descent on RKBS </b> <br>
+1. <b> Mirror Descent on Reproducing Kernel Banach Space (RKBS) </b> <br>
 **Akash Kumar**, Parthe Pandit, Misha Belkin <br>
 <i>In preparation.</i>
 
