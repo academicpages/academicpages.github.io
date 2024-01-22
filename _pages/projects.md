@@ -7,7 +7,7 @@ author_profile: true
 
 ## [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
 
-**Old Dominion University, Fall 2023**
+### **Old Dominion University, Fall 2023**
 
 <video width="640" height="360" controls>
   <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
