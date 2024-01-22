@@ -11,7 +11,7 @@ author_profile: true
   <iframe 
     width="640" 
     height="360" 
-    src="https://drive.google.com/uc?id=1NrQnWZzLYEATfT2dzGNkGOCA78kkiAy4" 
+    src="https://drive.google.com/file/d/1NrQnWZzLYEATfT2dzGNkGOCA78kkiAy4/view?usp=sharing" 
     frameborder="0" 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
@@ -37,7 +37,7 @@ No significant correlation between walkability and poverty. Identified higher ob
   <iframe 
     width="640" 
     height="360" 
-    src="https://drive.google.com/uc?id=1uLYYMdHlaDcK1wERheH18UssXA11SOsR" 
+    src="https://drive.google.com/file/d/1uLYYMdHlaDcK1wERheH18UssXA11SOsR/view?usp=drive_link" 
     frameborder="0" 
     allowfullscreen
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
