@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Kaiyan Li"
-  avatar           : "/images/lky_profile.png"
+  avatar           : /images/lky_profile.png
   bio              : # "Your biography for the left-hand sidebar"
   location         : # "Location"
-  employer         : https://www.cmind-ai.com/
+  employer         : "Cmind Inc"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : kli16@alumni.unc.edu
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/kaiyan-li-328268221/
+  linkedin         : kaiyan-li-328268221
   # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

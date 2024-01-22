@@ -16,7 +16,7 @@ I'm broadly interested in data-related fields, with a particular interest in exp
 
 Honor Thesis
 ======
-1. Li, Kaiyan. 2023. Robustness of Pagerank Centrality On the Undirected Networks. [https://doi.org/10.17615/93fj-kj91](https://doi.org/10.17615/93fj-kj91)
+1. Li, Kaiyan. 2023. Robustness of PageRank Centrality On the Undirected Networks. [https://doi.org/10.17615/93fj-kj91](https://doi.org/10.17615/93fj-kj91)
 
 Curriculum Project Highlights
 ======
