@@ -225,7 +225,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comments: true
+      comments: false
   # _teaching
   - scope:
       path: ""
