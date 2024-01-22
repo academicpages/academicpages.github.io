@@ -7,7 +7,7 @@ author_profile: true
 
 # Walkability and Well-Being - An Urban Analysis
 
-**Old Dominion University** | **Fall 2023**
+**Old Dominion University, Fall 2023**
 
 - [**GitHub Repository**](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
 - [**Video Overview**](https://www.youtube.com/watch?v=W4uXdOSEJTo)
