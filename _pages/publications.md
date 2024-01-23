@@ -28,7 +28,7 @@ Under review [Preprint](https://arxiv.org/abs/2312.01130)
 **Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 
 ***Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li*
-[Ppreprint](https://arxiv.org/abs/1910.02544v1)
+[Preprint](https://arxiv.org/abs/1910.02544v1)
 
 # Projects
 
