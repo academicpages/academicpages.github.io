@@ -18,17 +18,17 @@ Under review Paper upon request
 **Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
 *Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz*
-[*Pdf*](https://arxiv.org/abs/2312.01135) IEEE [RoboSoft 2024](https://softroboticsconference.org/) at San Diego, CA, USA
+[Pdf](https://arxiv.org/abs/2312.01135) IEEE [RoboSoft 2024](https://softroboticsconference.org/) at San Diego, CA, USA
 
 **STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 
 *Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz*
-Under review [*preprint*](https://arxiv.org/abs/2312.01130)
+Under review [Preprint](https://arxiv.org/abs/2312.01130)
 
-***Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data***
+**Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data**
 
-**Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
-[*preprint*](https://arxiv.org/abs/1910.02544v1)
+***Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li*
+[Ppreprint](https://arxiv.org/abs/1910.02544v1)
 
 # Projects
 
