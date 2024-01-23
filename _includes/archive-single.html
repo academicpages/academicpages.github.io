@@ -43,7 +43,7 @@
           <p><i>{{ post.venue }}</i>, {{ post.location }} </p>
           {% if post.excerpt and site.read_more == 'enabled' %}
             <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-          {%end if%}
+          {% endif %}
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'professional' %} 
