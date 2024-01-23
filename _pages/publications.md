@@ -46,7 +46,7 @@ Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and M
       <a href="https://github.com/Andyliu7081/WPI_RBE550_Motion_Planning_Course_Projects.git"> Project Repository</a>
     </td>
     <td style="border: none">
-      <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/step.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
