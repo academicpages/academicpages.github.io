@@ -27,10 +27,10 @@
       </label>
     </div>
     
-<!--    <div class="checkbox-email-notification">
+    <div class="checkbox-email-notification">
       <input type="checkbox" name="options[subscribe]" value="email">
         Notify me of new comments on this post.
-    </div>-->
+    </div>
 
     <div class="textfield narrowfield hp">
       <label for="hp">
@@ -38,7 +38,7 @@
       </label>
     </div>
     
-<!--     <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div> -->
+    <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
 
     <button class="button" id="comment-form-submit">Submit</button>
 
@@ -57,3 +57,15 @@
   </div>
 </article>
 
+<!-- Simple Markdown Editor -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css"/>
+<script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+<script>
+  var simplemde = new SimpleMDE({
+    element: document.getElementById("comment-form-message"),
+    forceSync: true,
+    spellChecker: false,
+    status: false,
+    placeholder: "Your comment (markdown accepted)",
+  });
+</script>
