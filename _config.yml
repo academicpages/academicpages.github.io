@@ -48,7 +48,8 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-
+# staticman (comments) configuration
+staticman_url: https://sj-staticman.herokuapp.com/v2/entry/SatyajithBoyana/SatyajithBoyana.github.io/master/comments
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -269,7 +270,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comments: true
+      comments: false
 
 # Sass/SCSS
 sass:
