@@ -39,7 +39,7 @@
     {% endif %}
 
     {% if post.collection == 'professional' %} 
-    <p> <i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </p> 
+    <p><small><i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </small></p> 
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
