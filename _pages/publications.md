@@ -7,7 +7,7 @@ author_profile: true
 
 ## Research highlights
 
-Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://osf.io/preprints/osf/yxpg8). _[Open access at OSF (preprint)](https://osf.io/preprints/osf/yxpg8).
+Kaaronen, Roope O., Walsh, Matthew J., Henrich, Allison K., Wisher, Isobel, Miu, Elena, Manninen, Mikael A., Eronen, Jussi T, & Riede, Felix. (2024). [A global cross-cultural analysis of string figures reveals evidence of deep transmission and innovation](https://osf.io/preprints/osf/yxpg8). [Open access at OSF (preprint)](https://osf.io/preprints/osf/yxpg8).
 
 > Few cultural practices beyond language are as widespread as string figure games. Their global distribution and potential to yield insights into cultural transmission and cognition have long been noted. Yet, it remains unknown how or when this behavior originated. We combined a global cross-cultural inventory of string figures with a novel methodology based on knot theory. We performed a computational analysis of a global sample string figures. We found 83 recurring string figure designs, some of which are regionally restricted while others display a global distribution. Their clear geographic distribution and sturctural details reveal processes of cultural transmission, innovation, and convergent evolution. Most strikingly, the global distribution of some figures raises the possibility of shared ancient origins.
 
