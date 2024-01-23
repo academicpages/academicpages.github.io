@@ -47,7 +47,7 @@ Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and M
     </td>
     <td style = "border: none">
       <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
-      <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/plan_output.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
