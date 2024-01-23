@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS Robotics, University of Michigan - Ann Arbor (expected 2025)
-* BE Information Technology, University of Mumbai (2023)
+* BEng Information Technology, University of Mumbai (2023)
 
 Experience
 ======
