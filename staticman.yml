@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["gabescode.com", "www.gabescode.com"]
+  allowedOrigins: ["https://satyajithboyana.github.io", "satyajithboyana.github.io"]
 
   # (*) REQUIRED
   #
@@ -61,7 +61,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "Gabe's Code"
+  name: "Satyajith's Website"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
