@@ -12,18 +12,12 @@ redirect_from:
 
 Education
 ======
-* MS Robotics, University of Michigan - Ann Arbor (expected 2025)
-* BEng Information Technology, University of Mumbai (2023)
-
-
-Education
-======
 <hr>
 
 | Degree, University / School                                                | Grade        |Duration |  
 | :---                                                                       | :---         |    ---: |
-| MS Robotics, University of Michigan                                        | GPA 3.67/4   | *Aug, 2023 - Apr, 2025* |
-| BEng Information Technology, University of Mumbai                          | CGPA 9.35/10 | *Jul, 2019 - Jun, 2023* |
+| MS Robotics, University of Michigan                                        | GPA 3.67/4   | *Aug 2023 - Apr 2025* |
+| BEng Information Technology, University of Mumbai                          | CGPA 9.35/10 | *Jul 2019 - Jun 2023* |
 
 <br>
 
@@ -31,9 +25,10 @@ Work Experience
 =====
 <hr>
 
-|                                                           |                         |
-| :---                                                      |                    ---: | 
-| **Robotics Engineer  -   Wastefull Insights**             | *Jun, 2022 - Jun, 2023* |
+|                                                                        |                         |
+| :---                                                                   |                    ---: | 
+| **Student Researcher  -   Autonomous Robotic Manipulation (ARM) Lab**  | *Jan 2024 - Present*    |
+| Guide: Dr. Dmitry Berenson |
 
 * Developed CI/CD pipeline for containerized environments of multiple robots to reach deployment time under 20 minutes.
 * Leveraged GStreamer's functionality by developing vision pipelines using Nvidia DeepStream SDK and reduced image processing latency by shifting from frame-based approach to UDP.
