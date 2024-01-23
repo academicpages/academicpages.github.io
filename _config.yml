@@ -279,7 +279,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comments: false
+      comments: true
 
 # Sass/SCSS
 sass:
