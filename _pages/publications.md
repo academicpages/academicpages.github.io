@@ -42,10 +42,7 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
       <p style="font-size: 16px;"><a href="https://github.com/Andyliu7081/WPI-IQP-Ubiquitous-EEG-Headset-"> Project Repository</a> <a href="https://digital.wpi.edu/concern/student_works/zk51vm06g?locale=en"> Pdf</a></p>
     </td>
     <td style = "border: none">
-      <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
-    </td>
-    <td style = "border: none">
-      <img src="images/plan_output.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/tamp.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
@@ -59,9 +56,6 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
     </td>
     <td style = "border: none">
       <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
-    </td>
-    <td style = "border: none">
-      <img src="images/plan_output.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
