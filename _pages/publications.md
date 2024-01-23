@@ -8,7 +8,6 @@ redirect_from:
    - /publications.html
 ---
 
----
 # Publications
 
 ***Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance***
