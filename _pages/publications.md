@@ -30,7 +30,6 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 **Haotian Liu**, Lin Xi, Ying Zhao, Zhixiang Li
 [*preprint*](https://arxiv.org/abs/1910.02544v1)
 
----
 # Projects
 
 <table style = "border: none">
