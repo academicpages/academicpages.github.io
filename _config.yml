@@ -54,6 +54,12 @@ comments:
   provider: "staticman_v2"
   staticman:
     endpoint: "https://sj-staticman.herokuapp.com/v3/entry/github/"
+
+# reCaptcha
+  reCaptcha:
+    enabled: true
+    siteKey: "6LcQgFopAAAAAMvcgQUrDp3-Qa2fmuqgwRKtxEtV"
+    secret: "6LcQgFopAAAAANPRGyJlOBNBh2moPwSgXJiWT5eW"
 # SEO Related
 google_site_verification :
 bing_site_verification   :
