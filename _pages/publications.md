@@ -42,3 +42,14 @@ Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and M
 
 **Haotian Liu**, Lehong Wang
 [*Project Repository*](https://github.com/Andyliu7081/WPI_RBE550_Motion_Planning_Course_Projects.git)
+<table style="border: none">
+  <tr>
+    <td style="border: none">
+      <b style="font-size: 18px;">RBE 550 Final Project: A Brief Introduction to Robotic Task and Motion Planning with PDDL and PDDLStream</b><br>
+      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Lehong Wang</i>
+    </td>
+    <td style="border: none">
+      <img src="images/cvpr_new.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
+    </td>
+  </tr>
+</table>
