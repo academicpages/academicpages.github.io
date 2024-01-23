@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[* Keramati, A., Keramati, M. R., and Arefian, M. H. (2023). **”Students’ Reflection on the Effect of Collaborative Learning on Learning Environment and Academic Achievement in Online Reflective Platforms”.** Journal of Reflective Practice. (accepted)](http://dx.doi.org/10.1080/14623943.2024.2305868)
+[* Keramati, A., Keramati, M. R., and Arefian, M. H. (2023). **”Students’ Reflection on the Effect of Collaborative Learning on Learning Environment and Academic Achievement in Online Reflective Platforms”.** Reflective Practice. (accepted)](http://dx.doi.org/10.1080/14623943.2024.2305868)
 
 [* Keramati, M. R., Gillies, R., Ansarizadeh, F., and Keramati, A. (2023). **”The Concept of Cooperative Learning in Australia and Iran”.** Iranian Journal of Comparative Education.](https://journal.cesir.ir/article_183132.html)
 
