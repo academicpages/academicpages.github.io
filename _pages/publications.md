@@ -38,15 +38,16 @@ Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
 Yujie Guo, **Haotian Liu**, Yuan Yifu, Lehong Wang, Haohao Yi, Wirt Jones, and Meng Wang
 [*Project Repository*](https://github.com/Andyliu7081/WPI-IQP-Ubiquitous-EEG-Headset-) [*Pdf*](https://digital.wpi.edu/concern/student_works/zk51vm06g?locale=en)
 
-<table style="border: none">
+<table style = "border: none">
   <tr>
-    <td style="border: none">
+    <td style = "border: none">
       <b style="font-size: 18px;">RBE 550 Final Project: A Brief Introduction to Robotic Task and Motion Planning with PDDL and PDDLStream</b><br>
-      <i style="font-size: 16px;"><strong>Haotian Liu*</strong>, Lehong Wang</i>
-      <a href="https://github.com/Andyliu7081/WPI_RBE550_Motion_Planning_Course_Projects.git"> Project Repository</a>
+      <i style="font-size: 16px;"><strong>Haotian Liu</strong>, Lehong Wang</i>
+      <p style="font-size: 16px;"><a href="https://github.com/Andyliu7081/WPI_RBE550_Motion_Planning_Course_Projects.git"> Project Repository</a></p>
     </td>
-    <td style="border: none">
-      <img src="images/step.png" style ="width: 500px; height: auto; align: right; border: #343a40 2px solid;">
+    <td style = "border: none">
+      <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
+      <img src="images/step.png" style ="width: 300px; height: auto; align: right; border: #343a40 2px solid;">
     </td>
   </tr>
 </table>
