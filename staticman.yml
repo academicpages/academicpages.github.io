@@ -1,0 +1,101 @@
+# Name of the property. You can have multiple properties with completely
+# different config blocks for different sections of your site.
+# For example, you can have one property to handle comment submission and
+# another one to handle posts.
+# To encrypt strings use the following endpoint:
+# https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
+
+comments:
+  # (*) REQUIRED
+  #
+  # Names of the fields the form is allowed to submit. If a field that is
+  # not here is part of the request, an error will be thrown.
+  allowedFields: ["name", "email", "url", "message"]
+
+  # (*) REQUIRED WHEN USING NOTIFICATIONS
+  #
+  # When allowedOrigins is defined, only requests sent from one of the domains
+  # listed will be accepted. The origin is sent as part as the `options` object
+  # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
+  allowedOrigins: ["gabescode.com", "www.gabescode.com"]
+
+  # (*) REQUIRED
+  #
+  # Name of the branch being used. Must match the one sent in the URL of the
+  # request.
+  branch: "master"
+
+  commitMessage: "New comment by {fields.name}"
+
+  # (*) REQUIRED
+  #
+  # Destination path (filename) for the data files. Accepts placeholders.
+  filename: "comment-{@timestamp}"
+
+  # The format of the generated data files. Accepted values are "json", "yaml"
+  # or "frontmatter"
+  format: "yaml"
+
+  # List of fields to be populated automatically by Staticman and included in
+  # the data file. Keys are the name of the field. The value can be an object
+  # with a `type` property, which configures the generated field, or any value
+  # to be used directly (e.g. a string, number or array)
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601"
+
+  # Whether entries need to be approved before they are published to the main
+  # branch. If set to `true`, a pull request will be created for your approval.
+  # Otherwise, entries will be published to the main branch automatically.
+  moderation: true
+
+  # Akismet spam detection.
+  # akismet:
+  #   enabled: true
+  #   author: "name"
+  #   authorEmail: "email"
+  #   authorUrl: "url"
+  #   content: "message"
+  #   type: "comment"
+
+  # Name of the site. Used in notification emails.
+  name: "Gabe's Code"
+
+  # Notification settings. When enabled, users can choose to receive notifications
+  # via email when someone adds a reply or a new comment. This requires an account
+  # with Mailgun, which you can get for free at http://mailgun.com.
+  notifications:
+    # Enable notifications
+    enabled: true
+
+    # (!) ENCRYPTED
+    #
+    # Mailgun API key
+    apiKey: "Sm6DoPG4iug0GZBosUViYBBnSurvxW7AbIv0USVnd1QdmvRVEhhyv0aEIQARYmQMU1OGQbzdYqSZVFWchKNe3Y7oHK0b6tb6YomJlt6Ri8YIRvyRAgjXWJszkhV6POv8PBjFoIcbVt9JOSghTZUb8Gs9bRt5Ux4euDM8gJKfEveWQJrBwMlb200AeRfDrC3anDhBZkhjhQFJEvfLTYIbkUKE+Nr7jQqOATB3iN/8N6k7cfgKZbdqF+ouyGb6j8rMFCby4rb1N5E5yCl9KOOpVIsO1Nv0T60XZqwr8WfsPmhW1CCamtJJazEIymyy8n61cJ75LWN/3nNT13XNGjDAkT0LtWprRP60HMe9+1grFiVe0eXrrksmKDZOonb+pd7uk8Wnwh8nEYqmsB6LHgYMtTaeHUSZHTEou6wVIMYQojgNj2vmN5WvhGib6hacyTs4S5WN2S7X0+a5fSTlm/7PvrsI6+YoMr5j0Hb2hQmrW1eL5hapWCnbo0G0MmMcBmIQnYZfiIP0y07FMsbEoTt9e3+dm9pUXMRdMVvzG/dTCFFWTpOjcysLUaZnmRt2lXYlSget+2zfCeCQuVwE/OPueXlbFvgXV2d/r8Ixn4pXTCtx7wHLYHC9hHWexhEJcKa7KtsBPlDvX14BhhTN7pS/e0NeuiQJV6D5YSMX4aGsDmo="
+
+    # (!) ENCRYPTED
+    #
+    # Mailgun domain (encrypted)
+    domain: "AlawAnOUgfG/onHCDlqNf5iQpWPhZ8c0M9H3Sh6mkFUJuQnENdvkOJzjOdm0n2Z3KwHCMuGwjgULxh56KYo/D9AMKWFjtdw4apyQs7nigXgt5eK2cJZz1+VJLJoZ4JVCV7eIy3nzRl7Dk7ixbKwMymGgwDwpegsVV61ZXunx2snu0OuA4xaQbNXDETejcTbR3sKf+fLFsYzldYz2Woey6m/s9L+mQPvVKisa6nQzD0p9gW6AMxZBNnWJpLBpIgut7E5a2tBiW24spn9CwRzRIIrz3y9l4i56JB7hDmLC5yN4s6R0LAzGR7ZJEievKwy8xw2L5FC0Ss36iyMsY6eTZB2j0s6TIT/rBV+B3q/DkM0LN2Iv0lrbNFaUsAKPSZgMhPU3gQboz0mckBswYk2nzNkkBERW7KLEAi9ItAJli7YUP8Oes1NiBFu/x/ZsDc8rOVzGxPcWYXy7ZYvSPkKYPeCIinmBFId77cw0w4KCtUH6fmKx862mGT1dsfwfOtu5HGxoz1yZ091Vke4TytJ2MTed1MCWTodIESRAlt4cvWUYnmF8w/oBrivcZ2GusZe6FoDKkET+ldM1poMJo+vFcDdF9lNDkLov0o6swIS8GsGH7ltm2cLwBWVYJFbwV/ry3ExhRHIV+I5AB+OHY/sakxD03xvayoXj3XU1vCkr/oQ="
+  
+  # (*) REQUIRED
+  #
+  # Destination path (directory) for the data files. Accepts placeholders.
+  path: "_data/comments/{options.slug}"
+
+  # Names of required files. If any of these isn't in the request or is empty,
+  # an error will be thrown.
+  requiredFields: ["name", "email", "message"]
+
+  # List of transformations to apply to any of the fields supplied. Keys are
+  # the name of the field and values are possible transformation types.
+  transforms:
+    email: md5
+
+  # reCaptcha
+  reCaptcha:
+    enabled: true
+    siteKey: "6Lel8YUUAAAAAJkNXVJ1SwFHPPtrm6cuzu_9Zmms"
+    secret: "MIoIV5aZ1Ub5200P848T2kgR8l1YyjkVb//3LODl5SbFmt6jFRO9KjXdTlIoLZ2DnAjrJ6pVlDwzToVwRZzVTowjR10scKMbzscBbNzbfn3AL9/TU+9KEjXp5Vx7rIpOYXu0j/p7cq8kpJTYJunq6de4YFQwCENikLqedLX3rcdVrY8IjQSu3lru7k0x0D6TYIBNBl+5Ugaxkn0UG2GaJFlUGHjuXOTWGceBQpqh/0NrtkkClC+OI/Nvo7YfkIlKoMIdBByM4CV1zZYqmR9Ax6z4i8/IX2o6+8GoytdDEBgwFHU1/hQ4pj5gFaqG8Rp/ZaludZt4Spr3quslzg6FBh4mXwQcT2u+KKZIp9Kys3OPjlf2jnnQnYGkkvTGtagy6CcFesQZaBNBYW2RzqkQ8SEkopGZ0CiumtGo7a0VEBNeHTvwTBZZaz28JHgtJNkTDayN3AGUSwaQyolIo4SFkRv56jTS1HLMpD4u/HrbxJIukjjT1gRaq1iehoCanaLs8RxVKMcPiCEYssI2Yv/+ltA5c5u1ROg3+7T1VJO8Ws29XgTZnTIennJ9RDEXl0tvdpoC4dQrISSJW+AC1Fa3CZCbhF524+mZ6LW0sj6b0DFRO87/KgyKzOt98FeZOIQNOt1MA1cNm6r2iaori/DM2VIcJ7N9HYUaOlbdivrE0ag="
