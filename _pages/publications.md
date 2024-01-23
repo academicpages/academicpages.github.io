@@ -10,20 +10,20 @@ author_profile: true
 
 # Publications
 
-***Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance***
+**Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance**
 
-**Haotian Liu\***, Fangzhou Lin\*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory Fischer, Yanhua Li, and Ziming Zhang (* co-first author)
-*Under review* Paper upon request
+***Haotian Liu\***, Fangzhou Lin\*, Songlin Hou, Haoying Zhou, Kazunori Yamada, Gregory Fischer, Yanhua Li, and Ziming Zhang* (* co-first author)
+Under review Paper upon request
 
-***Vision-based FDM Printing for Fabricating Airtight Soft Actuators***
+**Vision-based FDM Printing for Fabricating Airtight Soft Actuators**
 
-Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz
-[*preprint*](https://arxiv.org/abs/2312.01135) IEEE [RoboSoft 2024](https://softroboticsconference.org/) at San Diego, CA, USA
+*Yijia Wu\*, Zilin Dai\*, **Haotian Liu**, Lehong Wang, and Markus P. Nemitz*
+[*Pdf*](https://arxiv.org/abs/2312.01135) IEEE [RoboSoft 2024](https://softroboticsconference.org/) at San Diego, CA, USA
 
-***STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics***
+**STREAM: Software Tool for Routing Efficiently Advanced Macrofluidics**
 
-Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz
-[*preprint*](https://arxiv.org/abs/2312.01130)
+*Lehong Wang, Savita V. Kendre, **Haotian Liu**, and Markus P. Nemitz*
+Under review [*preprint*](https://arxiv.org/abs/2312.01130)
 
 ***Using deep learning and machine learning to detect epileptic seizure with electroencephalography (EEG) data***
 
