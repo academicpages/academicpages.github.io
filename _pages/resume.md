@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * MS Robotics, University of Michigan (expected 2025)
-● CGPA 3.67; Mentor @MHacks 2023, Volunteer @IROS 2023 @M|Linguistics, M|Dining Staff
-● Courses: Math for Robotics, Robotics Systems Lab, Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Directed Research
+  * CGPA 3.67; Mentor @MHacks 2023, Volunteer @IROS 2023 @M|Linguistics, M|Dining Staff
+  * Courses: Math for Robotics, Robotics Systems Lab, Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Directed Research
 
 * BEng Information Technology, University of Mumbai (2023)
-● CGPA 9.35/10; Activities: Formula Student Racing, Chess team captain, Rotaract club editor, College magazine editor
+  * CGPA 9.35/10; Activities: Formula Student Racing, Chess team captain, Rotaract club editor, College magazine editor
 
 Experience
 ======
@@ -70,18 +70,18 @@ Projects
 ======
 
 * Robotics Systems Lab (ROB 550), (code) (video)
-● Armlab: CV pipeline integrating forward and inverse kinematics for a 5-DOF robot arm to autonomously sort and stack colored blocks.
-1st place in all class competitions and current Robotics Department record holder for most blocks stacked vertically (18).
-● Botlab: Developed a mobile robot (MBot) with PID control, SLAM, and A* planning for exploration; designed a novel gripper mechanism.
+  * Armlab: CV pipeline integrating forward and inverse kinematics for a 5-DOF robot arm to autonomously sort and stack colored blocks.
+  * 1st place in all class competitions and current Robotics Department record holder for most blocks stacked vertically (18).
+  * Botlab: Developed a mobile robot (MBot) with PID control, SLAM, and A* planning for exploration; designed a novel gripper mechanism.
 
 * Pixel Polyglots: Pronunciation Enhancement in Online Language Learning (EECS 504), (code) (video)
-● Fast/low-GPU personalized deepfakes to visualize pronunciation; modifying latent codes of StyleGAN images for expression correction.
+  * Fast/low-GPU personalized deepfakes to visualize pronunciation; modifying latent codes of StyleGAN images for expression correction.
 
 * CGISP —A Centralized Geographic Information System (GIS) for Marine Shipping Ports
-● Satellite-imaging-based traffic management to optimize ship docking, mitigating congestion near port waters and improving efficiency.
+  * Satellite-imaging-based traffic management to optimize ship docking, mitigating congestion near port waters and improving efficiency.
 
 * EV Sherlock—Optimization & Workload Analysis of Electric Vehicle Charging Stations, (code)
-● App predicting the most optimum locations for installing new EV charging stations in a city, given the distribution of existing stations.
+  * App predicting the most optimum locations for installing new EV charging stations in a city, given the distribution of existing stations.
 
   
 Extracurriculars
