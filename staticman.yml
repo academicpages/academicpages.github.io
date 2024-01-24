@@ -2,9 +2,6 @@
 # different config blocks for different sections of your site.
 # For example, you can have one property to handle comment submission and
 # another one to handle posts.
-# To encrypt strings use the following endpoint:
-# https://api.staticman.net/v2/encrypt/{TEXT TO BE ENCRYPTED}
-
 comments:
   # (*) REQUIRED
   #
@@ -15,17 +12,15 @@ comments:
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
   # When allowedOrigins is defined, only requests sent from one of the domains
-  # listed will be accepted. The origin is sent as part as the `options` object
+  # listed will be accepted. The origin is sent as part of the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["https://satyajithboyana.github.io", "satyajithboyana.github.io"]
+  allowedOrigins: ["satyajithboyana.github.io","https://satyajithboyana.github.io"]
 
   # (*) REQUIRED
   #
   # Name of the branch being used. Must match the one sent in the URL of the
   # request.
   branch: "master"
-
-  commitMessage: "New comment by {fields.name} in {options.slug}"
 
   # (*) REQUIRED
   #
@@ -42,26 +37,19 @@ comments:
   # to be used directly (e.g. a string, number or array)
   generatedFields:
     date:
-      type: "date"
+      type: date
       options:
         format: "iso8601"
+#        format: "timestamp-seconds"
 
-  # Whether entries need to be approved before they are published to the main
+  # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
   moderation: false
 
-  # Akismet spam detection.
-  # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
-  #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
-
   # Name of the site. Used in notification emails.
-  name: "Satyajith's Website"
+  #name: "eduardoboucas.com"
+  name: "satyajithboyana.github.io"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -71,15 +59,13 @@ comments:
     enabled: true
 
     # (!) ENCRYPTED
-    #
     # Mailgun API key
-    # apiKey: "Sm6DoPG4iug0GZBosUViYBBnSurvxW7AbIv0USVnd1QdmvRVEhhyv0aEIQARYmQMU1OGQbzdYqSZVFWchKNe3Y7oHK0b6tb6YomJlt6Ri8YIRvyRAgjXWJszkhV6POv8PBjFoIcbVt9JOSghTZUb8Gs9bRt5Ux4euDM8gJKfEveWQJrBwMlb200AeRfDrC3anDhBZkhjhQFJEvfLTYIbkUKE+Nr7jQqOATB3iN/8N6k7cfgKZbdqF+ouyGb6j8rMFCby4rb1N5E5yCl9KOOpVIsO1Nv0T60XZqwr8WfsPmhW1CCamtJJazEIymyy8n61cJ75LWN/3nNT13XNGjDAkT0LtWprRP60HMe9+1grFiVe0eXrrksmKDZOonb+pd7uk8Wnwh8nEYqmsB6LHgYMtTaeHUSZHTEou6wVIMYQojgNj2vmN5WvhGib6hacyTs4S5WN2S7X0+a5fSTlm/7PvrsI6+YoMr5j0Hb2hQmrW1eL5hapWCnbo0G0MmMcBmIQnYZfiIP0y07FMsbEoTt9e3+dm9pUXMRdMVvzG/dTCFFWTpOjcysLUaZnmRt2lXYlSget+2zfCeCQuVwE/OPueXlbFvgXV2d/r8Ixn4pXTCtx7wHLYHC9hHWexhEJcKa7KtsBPlDvX14BhhTN7pS/e0NeuiQJV6D5YSMX4aGsDmo="
+    # apiKey: "RgOfnipSWQ8h5PUdg90LqqGBGX+SVDe9gx1Gsb/bVKeARVoqEXm9W2TpO6xaEUnrS2DUJtmjcRDMToEP2Qr73Sw4PDzF2H9o8XHujlj0qB3B4ExO3mOvKWJq1TMYrYX43445VnrMIxGp5OlCoFm7ropAYDgM5YQUMq2EmrFWQiyFaagCS5bkyYgxB0ljxsmhEhIDRuJVIdkfN1yY5qKjD95TY5wzcPTbFu+W9yHm4NnAToAGnW8hCSWbCF6l8qyWSjcwaiBVK8K3BmqVGVDUG/5/YWCjjMqAW+E8bxZxFAfFfLsz2sknWg61iYNY0qkhYWIXoEjKJlHsq/yYxS5Wu5w3QjAGs+1mlp7zJUj4PL2vt4HbOzfVteqiqrxHjz7Qj2k36uxIiHkAotYULxsek2Yd8W5Oan8JdCpSIpGAvOdJlGfqD2HvgXRgz0Jnh9hegcVrfaMdF7PzPiqkiAB1kEWYXUaxUd95L7hzGDH5T96A6r19f54fkeulLyyg3m0z0co6mtnxHjIL1F36MiTfY7YKmgubn1++lYpzGUHQwdKp2KBjsnKqbwxmPYCWp01dwtxONyiUD9GB+CwsdvCHcAOoWQEm9SqJt8tfMJOXVWjPirHyK5mh5PhvtNRuDfWt/yHCwrBVRZfjl87RWxQRxj4ipK4cqPpPpklHwQRyiVo="
 
     # (!) ENCRYPTED
-    #
     # Mailgun domain (encrypted)
-    # domain: "AlawAnOUgfG/onHCDlqNf5iQpWPhZ8c0M9H3Sh6mkFUJuQnENdvkOJzjOdm0n2Z3KwHCMuGwjgULxh56KYo/D9AMKWFjtdw4apyQs7nigXgt5eK2cJZz1+VJLJoZ4JVCV7eIy3nzRl7Dk7ixbKwMymGgwDwpegsVV61ZXunx2snu0OuA4xaQbNXDETejcTbR3sKf+fLFsYzldYz2Woey6m/s9L+mQPvVKisa6nQzD0p9gW6AMxZBNnWJpLBpIgut7E5a2tBiW24spn9CwRzRIIrz3y9l4i56JB7hDmLC5yN4s6R0LAzGR7ZJEievKwy8xw2L5FC0Ss36iyMsY6eTZB2j0s6TIT/rBV+B3q/DkM0LN2Iv0lrbNFaUsAKPSZgMhPU3gQboz0mckBswYk2nzNkkBERW7KLEAi9ItAJli7YUP8Oes1NiBFu/x/ZsDc8rOVzGxPcWYXy7ZYvSPkKYPeCIinmBFId77cw0w4KCtUH6fmKx862mGT1dsfwfOtu5HGxoz1yZ091Vke4TytJ2MTed1MCWTodIESRAlt4cvWUYnmF8w/oBrivcZ2GusZe6FoDKkET+ldM1poMJo+vFcDdF9lNDkLov0o6swIS8GsGH7ltm2cLwBWVYJFbwV/ry3ExhRHIV+I5AB+OHY/sakxD03xvayoXj3XU1vCkr/oQ="
-  
+    # domain: "fNa648Jey38BGxkoXnn2PWU+NR6J5W5bF1PBhxxkUPb5V30me1NYkQ/NOEmdiP1utXZvDoX3PG3gNC4cV84DculFuZzH7Rj2BMTXxtum4S05fxTxESp4v3meUp9QTo4j5aaoMeLj3FYUwhFCOU+ta8WrnI86B7vRCp1vywPxTBKP9XIE2MoT6vISz35DcQx/e5l0UY+CsO3DV1OAp0jU2Fe0mEz4KY11+FM2M9gFoEoDpC6OVxXBgY3zRRGZnM38taDZ0bUvseE9/82GL4bSAgoP6YetiHOG6bxQt3YTAolILKC3HE4Anxv6Bu0tugaaomC0MNokHH5auanDZedVYNYo/5CwJlv6eq5FJ+yK7aK0dofpcIqbxE0DY5kdNi/TzHJrsE2iv476Foa/ShbexS9Envt9hYu8sKdpZbRp4HV7NGP2NIk7hAAuuT1GTqn+RRVzKyUt4GFEAlaG5vR6y0zqhhMCXPr0UTe/hJyVYKbqRgAx3JhoCg0dJ4dpReByaT4lJvJcy9qn3/lGIWqfQpy1qiGgvRlHrFME7zpKvbKWm0nuzOpWUVcHl9dRSEy9S1oCd9GVkLdsF5xiBtRgXtWLcFstFJ+l7i93kCie6s0X/QYCXIAe3hw3DeuLr7GsQWZug92+CKUPjhjqSulxGx8dkRnADgrAanJMZHg1jik="
+
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
@@ -87,15 +73,18 @@ comments:
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
-  requiredFields: ["name", "email", "message"]
+  requiredFields: ["name", "message"]
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
 
-  reCaptcha
   # reCaptcha:
-  #   enabled: false
-  #   siteKey: "6LcQgFopAAAAAMvcgQUrDp3-Qa2fmuqgwRKtxEtV"
-  #   secret: "w0qyIldbvO/kJJN5+DXu6qigjbdKQHCb0NkBJ0sE+/b2uYtlXwCuumP9sN0pJNkdTxTwF6iUHlKhsUammrcNX6/NEX+aWLIER0BuMznZTR877+M5fQZEB1Ym4tg2GXK2jZNtx0EVRGGLN/TDtTJcEX572mNrV04vr1Ca2X0ZR/l5Ch8LL4QV04dTeMsMizusCw6arv9FNs/35KutseYfWiZjE3ZgYnUe7sYwxRiY1mYQiXMhfRUmqyw3jXzsa8mhYwf9O5aYj40WRXSjlW3Qdtly+SITgxV7/fYGoLxCzKjWxeCOA7LcpS8Q+LQo2dPibDMMq9OOKO3LMoDJPmEPzIah7Q3LM6McHgqQ7OvA5kAzN8EQGULhCU/Go1T6/7FAjTenFglv+igwFNHGtgllf9BeVOoZZkF8QQ2zyb2cavoDpucjREtcU1S8u5fYCIj+bKgatAgNMUweBXOwHC41SPyz/JvPGxIDzVjCKTqyTIG1Ecw0usowcuoQ0BlG1Q7jLr2I2379edOUdBmjCvffPnvkQOh+3RBbtevAJ3I6utYYQvpPMrSQSekDdamW3390fz4msufQZfSpBnmvPrUs40Mb44JP59orevwAdav/gIulUcNgGTxMQRrkTwHz1l8YCn4ULjWXEKXKJGlZ0O2EcwlzYNEbEFu1/aPfejf6/bg="
+  #   enabled: true
+  #   siteKey: "6LcK3xkUAAAAAKdppIIORt78Df93D2qvOGtZinEy"
+  #   secret: "ZDr0M2qiOuw9w60zudvJr/ncny8eAcC9xezVJrqWYquHIZs6ydlY5XfJqbpOw8iYJcs3lYz3n2aL98v/6I8DXSO1b3L+eG9S458DENkCewodjDoHpwvuy2qNnNtPtALxC79dQnjmBKtr79uWCEjb8QwVolHndly5ZBnIUNE/fNCs56beTHxziZNC0zbsWSqQYIfH0glbaER3ro0VUgYTRPcI6X1hMk1xWLsa0uLtDPOPRcV21KB9ZpgahP4Bz1WQ+skNfeKkiwHvxsurLFcGWAbq+7kidnsIRmdmU9c2QD9i6goBu/g1Tc6PYawMM+ik+tADsNDspLNjOlx4TEtnVrI8EvONspE2M/WZa+QYy2raB5psy1ny/oCIuMblopHAJbigcq6y1hZfQS/QvIlWYRHuqgkI8xCEWRvSZpIofYYivk/rbUQ/DdbqGs0Bi44K9LTEytDV4jYwEyibNQ5gaxZOvJ7k34JP4+ypbUwU9SmYFr1HnTEKhg7piy64G6M1VJnZiwroWAX5NSVB7mgVwG/ofnDRfxyR/QwCYG09tV16u/P9+tbDIE7gkPXeVZMVf4aTsEbdb2p3Ng4tk4DbmcxUZf5SLAuoWG86bOHM8vvDpumLKfeqL+l31395smLu+xR3QQEWAxHTiwsKS9N9CCfSgDDQGzY/NagKMmk7wu8="
+
+  # Akismet spam detection
+  # akismet:
+  #   enabled: true
