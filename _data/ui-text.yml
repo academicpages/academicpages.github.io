@@ -27,7 +27,7 @@ en: &DEFAULT_EN
   comments_title             : "Comments"
   more_label                 : "Learn more"
   related_label              : "You may also enjoy"
-  follow_label               : "Follow"
+  follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
   website_label              : "Website"
@@ -36,11 +36,7 @@ en: &DEFAULT_EN
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
   comment_form_comment_label : "Comment"
-  comment_form_permalink     : "Permalink to this comment"
-  comment_form_at            : "at"
   comment_form_md_info       : "Markdown is supported."
-  comment_form_reply_to      : "⮩ Reply"
-  comment_form_cancel_reply  : "Cancel reply"
   comment_form_name_label    : "Name"
   comment_form_email_label   : "Email address"
   comment_form_website_label : "Website (optional)"
@@ -276,20 +272,20 @@ pt-PT:
   <<: *DEFAULT_PT
 # Brazilian Portuguese
 pt-BR:
-  skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
+  skip_links                 : "Pular links"
+  skip_primary_nav           : "Pular para navegação primária"
+  skip_content               : "Pular para conteúdo"
+  skip_footer                : "Pular para rodapé"
   page                       : "Página"
   pagination_previous        : "Anterior"
   pagination_next            : "Próxima"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : "Início"
   breadcrumb_separator       : "/"
-  menu_label                 :
-  search_label               : "Buscar"
+  menu_label                 : "Chavear menu"
+  search_label               : "Chavear busca"
   toc_label                  : "Nesta página"
   ext_link_label             : "Link direto"
-  less_than                  : "menos que"
+  less_than                  : "menos de"
   minute_read                : "minuto(s) de leitura"
   share_on_label             : "Compartilhe"
   meta_label                 :
@@ -300,13 +296,13 @@ pt-BR:
   comments_title             : "Comentários"
   more_label                 : "Saiba mais"
   related_label              : "Talvez você também goste"
-  follow_label               : "Acompanhe no"
+  follow_label               : "Siga:"
   feed_label                 : "Feed"
   powered_by                 : "Desenvolvido com"
   website_label              : "Site"
   email_label                : "E-mail"
   recent_posts               : "Publicações recentes"
-  undefined_wpm              : "Parâmetro words_per_minute indefinido no _config.yml"
+  undefined_wpm              : "Parâmetro words_per_minute não definido em _config.yml"
   comment_form_info          : "Seu e-mail não será publicado. Os campos obrigatórios estão marcados"
   comment_form_comment_label : "Comentário"
   comment_form_md_info       : "Você pode usar Markdown."
@@ -318,9 +314,9 @@ pt-BR:
   comment_success_msg        : "Obrigado pelo seu comentário! Ele aparecerá no site assim que for aprovado."
   comment_error_msg          : "Desculpe, ocorreu um erro no envio. Verifique se todos os campos obrigatórios foram preenchidos e tente novamente."
   loading_label              : "Carregando..."
-  search_label_text          :
-  search_placeholder_text    : "Pesquisar..."
-  search_algolia_no_results  :
+  search_label_text          : "Digite seu termo de busca..."
+  search_placeholder_text    : "Digite seu termo de busca..."
+  search_algolia_no_results  : "Nenhum resultado"
   results_found              : "Resultado(s) encontrado(s)"
   back_to_top                : "Voltar para o topo"
 
@@ -500,7 +496,7 @@ de: &DEFAULT_DE
   toc_label                  : "Auf dieser Seite"
   ext_link_label             : "Direkter Link"
   less_than                  : "weniger als"
-  minute_read                : "Minuten zum lesen"
+  minute_read                : "Minuten zum Lesen"
   share_on_label             : "Teilen auf"
   meta_label                 :
   tags_label                 : "Tags:"
@@ -510,7 +506,7 @@ de: &DEFAULT_DE
   comments_title             : "Kommentare"
   more_label                 : "Mehr anzeigen"
   related_label              : "Ihnen gefällt vielleicht auch"
-  follow_label               : "Folgen"
+  follow_label               : "Folgen:"
   feed_label                 : "Feed"
   powered_by                 : "Möglich durch"
   website_label              : "Webseite"
@@ -519,13 +515,9 @@ de: &DEFAULT_DE
   undefined_wpm              : "Undefinierter Parameter words_per_minute in _config.yml"
   comment_form_info          : "Ihre E-Mail Adresse wird nicht veröffentlicht. Benötigte Felder sind markiert"
   comment_form_comment_label : "Kommentar"
-  comment_form_permalink     : "Permalink zu diesem Kommentar"
-  comment_form_at            : "von"
   comment_form_md_info       : "Markdown wird unterstützt."
-  comment_form_reply_to      : "⮩ Antworten"
-  comment_form_cancel_reply  : "Antworten abbrechen"
   comment_form_name_label    : "Name"
-  comment_form_email_label   : "E-Mail-Adresse"
+  comment_form_email_label   : "E-Mail-Addresse"
   comment_form_website_label : "Webseite (optional)"
   comment_btn_submit         : "Kommentar absenden"
   comment_btn_submitted      : "Versendet"
@@ -1026,16 +1018,16 @@ vi-VN:
 # ------
 da: &DEFAULT_DA
   skip_links                 :
-  skip_primary_nav           :
-  skip_content               :
-  skip_footer                :
+  skip_primary_nav           : "Gå til hovedmenuen"
+  skip_content               : "Gå til indholdet"
+  skip_footer                : "Gå til sidefoden"
   page                       : "Side"
   pagination_previous        : "Forrige"
   pagination_next            : "Næste"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : "Forside"
   breadcrumb_separator       : "/"
   menu_label                 : "Vis/skjul menu"
-  search_label               :
+  search_label               : "Søgning til/fra"
   toc_label                  : "På denne side"
   ext_link_label             : "Direkte link"
   less_than                  : "mindre end"
@@ -1067,9 +1059,9 @@ da: &DEFAULT_DA
   comment_success_msg        : "Tak for din kommentar! Den bliver vist på siden, så snart den er godkendt."
   comment_error_msg          : "Desværre skete der en fejl. Prøv igen, mens du sørger for at alle obligatoriske felter er udfyldt."
   loading_label              : "Indlæser..."
-  search_label_text          :
+  search_label_text          : "Hvad leder du efter..."
   search_placeholder_text    : "Hvad leder du efter..."
-  search_algolia_no_results  :
+  search_algolia_no_results  : "Ingen resultater"
   results_found              : "Resultat(er) fundet"
   back_to_top                : "Tilbage til toppen"
 da-DK:
@@ -1912,6 +1904,120 @@ he: &DEFAULT_HE
   back_to_top                : "חזרה להתחלה"
 he-IL:
   <<: *DEFAULT_HE
+
+# Arabic (عربي)
+# --------------
+ar: &DEFAULT_AR
+  skip_links                 : "تخطي الروابط"
+  skip_primary_nav           : "تخطى الى شريط التنقل"
+  skip_content               : "الانتقال الى المحتوى"
+  skip_footer                : "الانتقال الى ذيل الصفحة"
+  page                       : "صفحه"
+  pagination_previous        : "قبل"
+  pagination_next            : "بعد"
+  breadcrumb_home_label      : "الرئيس"
+  breadcrumb_separator       : "/"
+  menu_label                 : "الخيارات"
+  search_label               : "البحث"
+  toc_label                  : "على هذه الصفحة"
+  ext_link_label             : "رابط مباشر"
+  less_than                  : "اقل من"
+  minute_read                : "دقيقة قرائية"
+  share_on_label             : "مشاركة"
+  meta_label                 :
+  tags_label                 : "العلامات الوصفية:"
+  categories_label           : "الفئات:"
+  date_label                 : "تم التحديث:"
+  comments_label             : "اترك تعليق"
+  comments_title             : "التعليقات"
+  more_label                 : "اقرأ المزيد"
+  related_label              : "قد يعجبك أيضا"
+  follow_label               : "تابع:"
+  feed_label                 : "الاخبار - RSS"
+  powered_by                 : "تم تطوير بواسطة"
+  website_label              : "موقع"
+  email_label                : "ايميل"
+  recent_posts               : "المشاركات الأخيرة"
+  undefined_wpm              : "معامل غير معرف في words_per_minute (كلمة في الدقيقة) في ملف _config.yml"
+  comment_form_info          : "لن يتم نشر عنوان بريدك الإلكتروني. الحقول المطلوبة إلزامية"
+  comment_form_comment_label : "تعليق"
+  comment_form_md_info       : "لغة ال Markdown مدعومة."
+  comment_form_name_label    : "الاسم"
+  comment_form_email_label   : "البريد الالكتروني"
+  comment_form_website_label : "الموقع (اختياري)"
+  comment_btn_submit         : "أضف تعليق"
+  comment_btn_submitted      : "تم الإرسال"
+  comment_success_msg        : "شكراً على التعليق! سيتم اظهاره عندما يتم موافقة عليه."
+  comment_error_msg          : "للأسف, هناك خطأ في المحاولة. الرجاء الحرص على تعبئة جميع الخانات و محاولة مجدداً."
+  loading_label              : "جاري التحميل..."
+  search_label_text          : "اكتب مصطلح للبحث..."
+  search_placeholder_text    : "اكتب مصطلح للبحث..."
+  search_algolia_no_results  : "لا توجد نتائج"
+  results_found              : "تم إيجاد نتيجة"
+  back_to_top                : "الانتقال الى الأعلى"
+ar-SD:
+  <<: *DEFAULT_AR
+ar-SA:
+  <<: *DEFAULT_AR
+ar-AE:
+  <<: *DEFAULT_AR
+ar-EG:
+  <<: *DEFAULT_AR
+
+# Kiswahili
+# -----------------
+sw: &DEFAULT_SW
+  skip_links                 : "Ruka viungo"
+  skip_primary_nav           : "Ruka orodha kuu"
+  skip_content               : "Ruka maandiko maakuu"
+  skip_footer                : "Ruka chini"
+  page                       : "Ukurasa"
+  pagination_previous        : "Rudi"
+  pagination_next            : "Endelea"
+  breadcrumb_home_label      : "Ukurasa wa kwanza"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Wezesha/Zima orodha"
+  search_label               : "Wezesha/Zima kutafuta"
+  toc_label                  : "Kwa ukurasa huu"
+  ext_link_label             : "Kiungo mbio"
+  less_than                  : "Soma kwa dakikia ndogo kuliko"
+  minute_read                : "Soma kwa dakika"
+  share_on_label             : "Tangaza"
+  meta_label                 :
+  tags_label                 : "Alama:"
+  categories_label           : "Aina:"
+  date_label                 : "Geuzi ya mwisho:"
+  comments_label             : "Wacha maoni"
+  comments_title             : "Maoni"
+  more_label                 : "Jifunze zaidi"
+  related_label              : "Pia, utapenda"
+  follow_label               : "Fuata:"
+  feed_label                 : "Feed"
+  powered_by                 : "Inatumia"
+  website_label              : "Tovuti"
+  email_label                : "Barua pepe"
+  recent_posts               : "Makala juzi"
+  undefined_wpm              : "Ingizo words_per_minute kwa _config.yml haijawekwa"
+  comment_form_info          : "Barua pepe yako haitaonekana. Kuna alama kwa ingizo tunahitaji."
+  comment_form_comment_label : "Maoni"
+  comment_form_md_info       : "Unaweza kutumia `Markdown`."
+  comment_form_name_label    : "Jina"
+  comment_form_email_label   : "Barua pepe"
+  comment_form_website_label : "Tovuti (hiari)"
+  comment_btn_submit         : "Tuma maoni"
+  comment_btn_submitted      : "Umetuma"
+  comment_success_msg        : "Asante kwa maoni yako! Itaonekana ikiridhiwa."
+  comment_error_msg          : "Pole, kuna makosa kwa ingizo yako. Tafadhali angalia umeandika kwa ingizo zote zinahitaji, na jaribu tena."
+  loading_label              : "Inapakiwa..."
+  search_label_text          : "Ingiza neno unatafuta..."
+  search_placeholder_text    : "Ingiza neno unatafuta..."
+  search_algolia_no_results  : "Hakuna matokeo"
+  results_found              : "Tumepata"
+  back_to_top                : "Rudi juu"
+sw-KE:
+  <<: *DEFAULT_SW
+sw-TZ:
+  <<: *DEFAULT_SW
 
 # Another locale
 # --------------

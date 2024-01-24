@@ -20,41 +20,33 @@ words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-# comments:
-#   provider               : "Staticman" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-#   disqus:
-#     shortname            :
-#   discourse:
-#     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-#   facebook:
-#     appid                :
-#     num_posts            : # 5 (default)
-#     colorscheme          : # "light" (default), "dark"
-# staticman:
-#   allowedFields          : ['name', 'email', 'url', 'message']
-#   branch                 : "master" # "master", "gh-pages"
-#   commitMessage          : "New comment."
-#   filename               : comment-{@timestamp}
-#   format                 : "yml"
-#   moderation             : true
-#   path                   : "_data/comments/{options.slug}"
-#   requiredFields         : ['name', 'email', 'message']
-#   transforms:
-#     email                : "md5"
-#   generatedFields:
-#     date:
-#       type               : "date"
-#       options:
-#         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
-
 comments:
-  provider: "staticman_v2"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  giscus:
+    repo_id              : # Shown during giscus setup at https://giscus.app
+    category_name        : # Full text name of the category
+    category_id          : # Shown during giscus setup at https://giscus.app
+    discussion_term      : # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
-    branch:  "master"
-    endpoint: "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
-    #staticman_url: https://sj-staticman-e1e324188f93.herokuapp.com/v2/entry/satyajithboyana/satyajithboyana.github.io/master/comments
+    branch               :  "master"
+    endpoint             :  "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
 # reCaptcha
   # reCaptcha:
   #   enabled: false
