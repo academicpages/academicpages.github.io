@@ -11,128 +11,88 @@
       <h4 class="page__comments-title">{{ comments_label }}</h4>
       <section class="fb-comments" data-href="{{ page.url | absolute_url }}" data-mobile="true" data-num-posts="{{ site.comments.facebook.num_posts | default: 5 }}" data-width="100%" data-colorscheme="{{ site.comments.facebook.colorscheme | default: 'light' }}"></section>
     {% when "staticman_v2" %}
-      <section id="static-comments">
-        {% if site.repository and site.comments.staticman.branch %}
-          <!-- Start static comments -->
-          <div class="js-comments">
-            {% if site.data.comments[page.slug] %}
-              <h4 class="page__comments-title">
-                {% if site.data.comments[page.slug].size > 1 %}
-                  {{ site.data.comments[page.slug] | size }}
-                {% endif %}
-                <span data-translate="comments_title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</span>
-              </h4>
-              {% assign comments = site.data.comments[page.slug] | sort | where_exp: "comment", "comment[1]._parent == comment[1]._id" %}
+    <section id="static-comments">
+      {% if site.repository and site.comments.staticman.branch %}
+        <!-- Start static comments -->
+        <div class="js-comments">
+          {% if site.data.comments[page.slug] %}
+            <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_title | default: "Comments" }}</h4>
+            {% assign comments = site.data.comments[page.slug] %}
 
-              {% for comment in comments %}
-                {% assign id          = comment[1]._id %}
-                {% assign parent      = comment[1]._parent %}
-                {% assign email       = comment[1].email %}
-                {% assign name        = comment[1].name %}
-                {% assign url         = comment[1].url %}
-                {% assign date        = comment[1].date %}
-                {% assign message     = comment[1].message %}
+            <!-- In order to sort by date we must have an array of objects, not an array of arrays, so
+                  create a new array of plain comment objects and then sort by the comment date. -->
+            {% assign commentObjects = '' | split: '' %}
+            {% for comment in comments %}
+              {% assign commentObject = comment[1] %}
+              {% assign commentObjects = commentObjects | push: commentObject %}
+            {% endfor %}
+            {% assign comments = commentObjects | sort: "date" %}
 
-                {% capture i %}{{ id }}{% endcapture %}
-                {% assign replies = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._id != i' | where_exp: 'comment', 'comment[1]._parent == i' %}
-                {% if replies.size > 0 %}
-                  {% assign is_last = false %}
-                {% endif %}
-          
-                {% include comment.html id=id parent=parent avatar=avatar email=email name=name url=url date=date message=message is_last=is_last replies=replies %}
-              {% endfor %}
+            {% for comment in comments %}
+              {% assign email = comment.email %}
+              {% assign name = comment.name %}
+              {% assign url = comment.url %}
+              {% assign date = comment.date %}
+              {% assign message = comment.message %}
+              {% include comment.html index=forloop.index email=email name=name url=url date=date message=message %}
+            {% endfor %}
+          {% endif %}
+        </div>
+        <!-- End static comments -->
+
+        <!-- Start new comment form -->
+        <div class="page__comments-form">
+          <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
+          <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
+          <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.comments.staticman.endpoint }}{{ site.repository }}/{{ site.comments.staticman.branch }}/comments">
+            <div class="form__spinner">
+              <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
+              <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
+            </div>
+
+            <div class="form-group">
+              <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
+              <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
+              <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
+            </div>
+            <div class="form-group">
+              <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
+              <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
+            </div>
+            <div class="form-group">
+              <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }} <small class="required">*</small></label>
+              <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
+            </div>
+            <div class="form-group">
+              <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
+              <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
+            </div>
+            <div class="form-group hidden" style="display: none;">
+              <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+              <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+              <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+              {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
+              {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
+            </div>
+            <!-- Start comment form alert messaging -->
+            <p class="hidden js-notice">
+              <strong class="js-notice-text"></strong>
+            </p>
+            <!-- End comment form alert messaging -->
+            {% if site.reCaptcha.siteKey %}
+              <div class="form-group">
+                <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+              </div>
             {% endif %}
-          </div>
-          <!-- End static comments -->
- 
-          <!-- {% unless page.comments_locked == true %} -->
-          <!-- Start new comment form -->
-          <form class="js-form form" method="post" action="{{ site.staticmanUrl }}" autocomplete="off">
-            <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-            <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
-            <input type="hidden" id="comment-replying-to" name="fields[replying_to]" value="">
-            <input type="hidden" name="options[slug]" value="{{ post_slug }}">
-            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-            <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
-          
-            <fieldset>
-              <div class="textfield">
-                <label for="comment-form-message"><h2>Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
-                  <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message"></textarea>
-                </label>
-              </div>
-            </fieldset>
-          
-            <fieldset>
-              <div class="textfield">
-                <label for="comment-form-name">Name
-                  <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Your name"/>
-                </label>
-              </div>
-            </fieldset>
-          
-            <fieldset>
-              <div class="textfield">
-                <label for="comment-form-email">E-mail
-                  <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (optional, used only to send comments.)"/>
-                </label>
-              </div>
-            </fieldset>
-          
-            <fieldset>
-              <div class="notify-me">
-                <label for="comment-form-reply">
-                  <input type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
-                </label>
-                Send me an email when someone comments.
-              </div>
-            </fieldset>
-          
-            <fieldset>
-              <div class="textfield">
-                <label for="hp">
-                  <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
-                </label>
-              </div>
-            </fieldset>
-          
-            <fieldset>
-              <!--div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-theme="dark"></div-->
-              <div id="reCaptcha"></div>
-            </fieldset>
-          
-            <fieldset>
-              <button class="button" id="comment-form-submit"> <!-- add id for Spinner -->
-                Submit
-              </button>
-            </fieldset>
-          
+            <div class="form-group">
+              <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
+            </div>
           </form>
-          
-          <br>
-          <small>
-            <p>Comments are held for moderation. There will be a delay before they appear.<br>
-            Comments may include <a href="https://commonmark.org/help/" rel="nofollow"><strong>Markdown</strong></a>.<br>
-            To share something privately: <a href="mailto:willy@spinningnumbers.org">Contact me</a>.</p>
-          </small>
-          
-          <script>
-            function showReCaptcha() {
-              var node = document.createElement("div");
-              node.setAttribute('class', 'g-recaptcha');
-              node.setAttribute('data-sitekey', '{{ site.reCaptcha.siteKey }}');
-              if (window.matchMedia && 
-                  window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                  node.setAttribute('data-theme', "dark");
-              }
-              document.getElementById("reCaptcha").appendChild(node);
-            }
-            showReCaptcha();
-          </script>
-
-          {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
-        {% endif %}
-      </section>
+        </div>
+        <!-- End new comment form -->
+        {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
+      {% endif %}
+    </section>
     {% when "staticman" %}
       <section id="static-comments">
         {% if site.repository and site.staticman.branch %}
