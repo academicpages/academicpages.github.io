@@ -148,7 +148,7 @@ exclude:
   - package.json
   - tmp
   - vendor
-  - blog/
+  # - blog/
 keep_files:
   - .git
   - .svn
