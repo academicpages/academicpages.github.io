@@ -8,17 +8,17 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ '' | absolute_url }}</link>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    <!-- {% for post in site.posts limit:20 %}
+    {% for page in site.pages limit:20 %}
       <item>
-        <title>{{ post.title | xml_escape }}</title>
+        <title>{{ page.title | xml_escape }}</title>
         <description>
-          {% if post.subtitle %}{{ post.subtitle | xml_escape }} - {% endif %}
-          {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+          {% if page.subtitle %}{{ page.subtitle | xml_escape }} - {% endif %}
+          {{ page.content | strip_html | xml_escape | truncatewords: 50 }}
         </description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <pubDate>{{ page.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <link>{{ page.url | absolute_url }}</link>
+        <guid isPermaLink="true">{{ page.url | absolute_url }}</guid>
       </item>
-    {% endfor %} -->
+    {% endfor %}
   </channel>
 </rss>
