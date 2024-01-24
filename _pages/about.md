@@ -10,7 +10,9 @@ redirect_from:
 
 I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ). Prior to this, I received my bachelor's degree in Computer Science & Mathematics and Applied Mathematics from University of Electronic Science and Technology of China, where I worked as a research intern under the supervision of [Prof. Wen Li](https://wenli-vision.github.io/).
 
-My research interests primarily revolve around the interpretability and representation capabilities of deep neural networks (e.g., properties of large language models), as well as the application of artificial intelligence in other research areas (e.g., AI for biology, psychology). Currently, I am actively engaged in the research on fundational Large Language Models (LLMs), with a specific focus on designing efficient and effective structures (e.g. Mixture of Experts).
+My research interests primarily revolve around **(1)** the interpretability and representation capability of deep neural networks
+(e.g., sparsity in large language models), **(2)** the fundamental structure design of neural networks (e.g., mixture of experts), and **(3)** the
+application of artificial intelligence in other research areas (e.g., AI for biology, psychology). Currently, I am engaged in the research on fundational Large Language Models (LLMs), with a specific focus on designing efficient and effective structures.
 
 <span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me.** </span>
 
