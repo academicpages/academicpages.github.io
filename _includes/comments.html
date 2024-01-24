@@ -56,11 +56,11 @@
             <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
           
             <fieldset>
-            <div class="textfield">
-              <label for="comment-form-message"><h2>Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
-                <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message"></textarea>
-              </label>
-            </div>
+              <div class="textfield">
+                <label for="comment-form-message"><h2>Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
+                  <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message"></textarea>
+                </label>
+              </div>
             </fieldset>
           
             <fieldset>
@@ -88,7 +88,7 @@
               </div>
             </fieldset>
           
-              <fieldset>
+            <fieldset>
               <div class="textfield">
                 <label for="hp">
                   <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
@@ -111,23 +111,23 @@
           
           <br>
           <small>
-          <p>Comments are held for moderation. There will be a delay before they appear.<br>
-          Comments may include <a href="https://commonmark.org/help/" rel="nofollow"><strong>Markdown</strong></a>.<br>
-          To share something privately: <a href="mailto:willy@spinningnumbers.org">Contact me</a>.</p>
+            <p>Comments are held for moderation. There will be a delay before they appear.<br>
+            Comments may include <a href="https://commonmark.org/help/" rel="nofollow"><strong>Markdown</strong></a>.<br>
+            To share something privately: <a href="mailto:willy@spinningnumbers.org">Contact me</a>.</p>
           </small>
           
           <script>
-          function showReCaptcha() {
-            var node = document.createElement("div");
-            node.setAttribute('class', 'g-recaptcha');
-            node.setAttribute('data-sitekey', '{{ site.reCaptcha.siteKey }}');
-            if (window.matchMedia && 
-                window.matchMedia('(prefers-color-scheme: dark)').matches) {
-                node.setAttribute('data-theme', "dark");
+            function showReCaptcha() {
+              var node = document.createElement("div");
+              node.setAttribute('class', 'g-recaptcha');
+              node.setAttribute('data-sitekey', '{{ site.reCaptcha.siteKey }}');
+              if (window.matchMedia && 
+                  window.matchMedia('(prefers-color-scheme: dark)').matches) {
+                  node.setAttribute('data-theme', "dark");
+              }
+              document.getElementById("reCaptcha").appendChild(node);
             }
-            document.getElementById("reCaptcha").appendChild(node);
-          }
-          showReCaptcha();
+            showReCaptcha();
           </script>
 
           {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
