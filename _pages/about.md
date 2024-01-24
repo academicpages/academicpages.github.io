@@ -30,7 +30,3 @@ Now I mainly research about the information system that helps to do Flipped Lear
 
 Upon entering university, I worked as part-time engineer at a software development company in Toyohashi. I have developing experience in various languages, mainly C#. \
 豊橋市内のソフトウェア開発会社にてアルバイトを経験．C#をメインに多種多様な言語でデスクトップアプリ開発，API開発，Webバックエンドからフロントエンドまで幅広く開発経験あり．
-
-ex. Mature Lady Gt. 2020年10月結成，2022年3月解散 豊橋発ポップポストロックバンド Mature Ladyでギター担当．豊橋 club KNOTを拠点に活動し，2021年10月には1st Single "busy tonight?" を発表．同月配信で "Ao", "Citrus" をリリース．
-
-高専教員になることを目指して，研究活動に勤しんでいたところ一足早く非常勤講師の職をいただくことができました．今後も邁進して，常勤採用していただくことを目指します．
