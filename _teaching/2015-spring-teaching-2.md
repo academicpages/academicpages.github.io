@@ -1,8 +1,8 @@
 ---
 title: "Assistant Teacher"
 collection: teaching
-type: "Magistrale"
-permalink: /teaching/2016-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/2016-spring-teaching
 venue: "National University of Colombia, Department of Mechanical and Mechatronic Engineering"
 date: 2016-08-01
 location: "Bogotá, Colombia"
@@ -11,6 +11,7 @@ location: "Bogotá, Colombia"
 
 Activity
 ------
+4 ECTS
 __Master’s scholarship__
 - Technical drawing and representation of typical mechanical hardware. 
 - Limits, tolerances, and adjustments. Geometric Tolerances (GD&T). Surface Finishes. According to ISO standards.
