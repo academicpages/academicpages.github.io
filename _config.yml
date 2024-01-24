@@ -49,16 +49,17 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-# comments:
-#   provider: "staticman_v2"
-#   staticman:
-#     endpoint: "https://sj-staticman.herokuapp.com/v3/entry/github/"
+comments:
+  provider: "staticman_v2"
+  staticman:
+    branch:  "master"
+    endpoint: "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
 
 # reCaptcha
   reCaptcha:
     enabled: true
     siteKey: "6LcQgFopAAAAAMvcgQUrDp3-Qa2fmuqgwRKtxEtV"
-    secret: "6LcQgFopAAAAANPRGyJlOBNBh2moPwSgXJiWT5eW"
+    secret: "w0qyIldbvO/kJJN5+DXu6qigjbdKQHCb0NkBJ0sE+/b2uYtlXwCuumP9sN0pJNkdTxTwF6iUHlKhsUammrcNX6/NEX+aWLIER0BuMznZTR877+M5fQZEB1Ym4tg2GXK2jZNtx0EVRGGLN/TDtTJcEX572mNrV04vr1Ca2X0ZR/l5Ch8LL4QV04dTeMsMizusCw6arv9FNs/35KutseYfWiZjE3ZgYnUe7sYwxRiY1mYQiXMhfRUmqyw3jXzsa8mhYwf9O5aYj40WRXSjlW3Qdtly+SITgxV7/fYGoLxCzKjWxeCOA7LcpS8Q+LQo2dPibDMMq9OOKO3LMoDJPmEPzIah7Q3LM6McHgqQ7OvA5kAzN8EQGULhCU/Go1T6/7FAjTenFglv+igwFNHGtgllf9BeVOoZZkF8QQ2zyb2cavoDpucjREtcU1S8u5fYCIj+bKgatAgNMUweBXOwHC41SPyz/JvPGxIDzVjCKTqyTIG1Ecw0usowcuoQ0BlG1Q7jLr2I2379edOUdBmjCvffPnvkQOh+3RBbtevAJ3I6utYYQvpPMrSQSekDdamW3390fz4msufQZfSpBnmvPrUs40Mb44JP59orevwAdav/gIulUcNgGTxMQRrkTwHz1l8YCn4ULjWXEKXKJGlZ0O2EcwlzYNEbEFu1/aPfejf6/bg="
 # SEO Related
 google_site_verification :
 bing_site_verification   :

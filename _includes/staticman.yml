@@ -17,7 +17,7 @@ comments:
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  allowedOrigins: ["https://satyajithboyana.github.io", "satyajithboyana.github.io"]
+  allowedOrigins: ["mrumpler.at", "www.mrumpler.at"]
 
   # (*) REQUIRED
   #
@@ -44,7 +44,7 @@ comments:
     date:
       type: "date"
       options:
-        format: "iso8601"
+        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 
   # Whether entries need to be approved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
@@ -52,16 +52,16 @@ comments:
   moderation: false
 
   # Akismet spam detection.
-  # akismet:
-  #   enabled: true
-  #   author: "name"
-  #   authorEmail: "email"
+  akismet:
+    enabled: true
+    author: "name"
+    authorEmail: "email"
   #   authorUrl: "url"
-  #   content: "message"
-  #   type: "comment"
+    content: "message"
+    type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "Satyajith's Website"
+  name: "Michaels Blog"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -73,13 +73,19 @@ comments:
     # (!) ENCRYPTED
     #
     # Mailgun API key
-    # apiKey: "Sm6DoPG4iug0GZBosUViYBBnSurvxW7AbIv0USVnd1QdmvRVEhhyv0aEIQARYmQMU1OGQbzdYqSZVFWchKNe3Y7oHK0b6tb6YomJlt6Ri8YIRvyRAgjXWJszkhV6POv8PBjFoIcbVt9JOSghTZUb8Gs9bRt5Ux4euDM8gJKfEveWQJrBwMlb200AeRfDrC3anDhBZkhjhQFJEvfLTYIbkUKE+Nr7jQqOATB3iN/8N6k7cfgKZbdqF+ouyGb6j8rMFCby4rb1N5E5yCl9KOOpVIsO1Nv0T60XZqwr8WfsPmhW1CCamtJJazEIymyy8n61cJ75LWN/3nNT13XNGjDAkT0LtWprRP60HMe9+1grFiVe0eXrrksmKDZOonb+pd7uk8Wnwh8nEYqmsB6LHgYMtTaeHUSZHTEou6wVIMYQojgNj2vmN5WvhGib6hacyTs4S5WN2S7X0+a5fSTlm/7PvrsI6+YoMr5j0Hb2hQmrW1eL5hapWCnbo0G0MmMcBmIQnYZfiIP0y07FMsbEoTt9e3+dm9pUXMRdMVvzG/dTCFFWTpOjcysLUaZnmRt2lXYlSget+2zfCeCQuVwE/OPueXlbFvgXV2d/r8Ixn4pXTCtx7wHLYHC9hHWexhEJcKa7KtsBPlDvX14BhhTN7pS/e0NeuiQJV6D5YSMX4aGsDmo="
+    apiKey: "zC27ZYC5fvhFenht1BARm+AnLFtRqq55HFwp5QcunyLhrF1i4380FEVNGMiGsm+jna1E9eL1ByhgAHVXQaGlVUCsCE+ICxi4LvNlFANJfXWe6oEjLs+6oUGaXNPh2wFHH2K09To/thpWx8tSV1TzuYxhxUyd3+CeXfMbAcrRLD+OWZjSH/OUcYwlTvzSXfUqrPHAYNQKrUWDPE0/WgFowGgJ/Aw573cWVpCyfxgm0R15vi+Lu+cnxg3eG5+noW15y0Kf9d6URaKifGo0goaiksBGCj1mey0rmsmfMMwX25OgSjYn1nceBYIqGcAGuB8TKJyQZfEkaFGi14YcbPe1KQ=="
 
     # (!) ENCRYPTED
     #
     # Mailgun domain (encrypted)
-    # domain: "AlawAnOUgfG/onHCDlqNf5iQpWPhZ8c0M9H3Sh6mkFUJuQnENdvkOJzjOdm0n2Z3KwHCMuGwjgULxh56KYo/D9AMKWFjtdw4apyQs7nigXgt5eK2cJZz1+VJLJoZ4JVCV7eIy3nzRl7Dk7ixbKwMymGgwDwpegsVV61ZXunx2snu0OuA4xaQbNXDETejcTbR3sKf+fLFsYzldYz2Woey6m/s9L+mQPvVKisa6nQzD0p9gW6AMxZBNnWJpLBpIgut7E5a2tBiW24spn9CwRzRIIrz3y9l4i56JB7hDmLC5yN4s6R0LAzGR7ZJEievKwy8xw2L5FC0Ss36iyMsY6eTZB2j0s6TIT/rBV+B3q/DkM0LN2Iv0lrbNFaUsAKPSZgMhPU3gQboz0mckBswYk2nzNkkBERW7KLEAi9ItAJli7YUP8Oes1NiBFu/x/ZsDc8rOVzGxPcWYXy7ZYvSPkKYPeCIinmBFId77cw0w4KCtUH6fmKx862mGT1dsfwfOtu5HGxoz1yZ091Vke4TytJ2MTed1MCWTodIESRAlt4cvWUYnmF8w/oBrivcZ2GusZe6FoDKkET+ldM1poMJo+vFcDdF9lNDkLov0o6swIS8GsGH7ltm2cLwBWVYJFbwV/ry3ExhRHIV+I5AB+OHY/sakxD03xvayoXj3XU1vCkr/oQ="
-  
+    domain: "ra2e11C9AVvN47v0HDHRSeNzSDB62NkZc0KhOKboAQN0p4gz5Y6OwPYrq2vVjgptRZZYQvDZ/g+nvovNBiedor7mA8XWnKV4auZRgphbLCwJHCiRGxNBSMRoxkyuQvaB/5zQXx9H0tSGMlwxIwuV+rsheWmlqs8SoTqzi/U2/BjolS/dOFL3dn2NjYtn6iDh9anTIvnZU8uxLXYwZQYIOGI6+tut6HWi1CVy9vATe/Z0TjsDoqFNsclByrIZGo+44U2E3bywr3Ouil6JgDRsqo4uB0lJw2+8pftR36J0RM7TTx+Zd44RrMi4jztl8Ol11Zdy3XwYZkoseo7mvYq8sA=="
+
+    # by default staticman can only send to the US mailGun API. The EU host has to be specified here. See https://github.com/eduardoboucas/staticman/pull/275/files
+    apiHost: "api.eu.mailgun.net"
+
+    # emails will be sent from this address
+    fromAddress: "Michaels Blog <noreply@mg.mrumpler.at>"
+
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
@@ -93,9 +99,14 @@ comments:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+    name: antixss
+    message: antixss
 
-  reCaptcha
+  # reCaptcha
+  # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
-    siteKey: "6LcQgFopAAAAAMvcgQUrDp3-Qa2fmuqgwRKtxEtV"
-    secret: "w0qyIldbvO/kJJN5+DXu6qigjbdKQHCb0NkBJ0sE+/b2uYtlXwCuumP9sN0pJNkdTxTwF6iUHlKhsUammrcNX6/NEX+aWLIER0BuMznZTR877+M5fQZEB1Ym4tg2GXK2jZNtx0EVRGGLN/TDtTJcEX572mNrV04vr1Ca2X0ZR/l5Ch8LL4QV04dTeMsMizusCw6arv9FNs/35KutseYfWiZjE3ZgYnUe7sYwxRiY1mYQiXMhfRUmqyw3jXzsa8mhYwf9O5aYj40WRXSjlW3Qdtly+SITgxV7/fYGoLxCzKjWxeCOA7LcpS8Q+LQo2dPibDMMq9OOKO3LMoDJPmEPzIah7Q3LM6McHgqQ7OvA5kAzN8EQGULhCU/Go1T6/7FAjTenFglv+igwFNHGtgllf9BeVOoZZkF8QQ2zyb2cavoDpucjREtcU1S8u5fYCIj+bKgatAgNMUweBXOwHC41SPyz/JvPGxIDzVjCKTqyTIG1Ecw0usowcuoQ0BlG1Q7jLr2I2379edOUdBmjCvffPnvkQOh+3RBbtevAJ3I6utYYQvpPMrSQSekDdamW3390fz4msufQZfSpBnmvPrUs40Mb44JP59orevwAdav/gIulUcNgGTxMQRrkTwHz1l8YCn4ULjWXEKXKJGlZ0O2EcwlzYNEbEFu1/aPfejf6/bg="
+    siteKey: "6LdTL28UAAAAAA5yKYsc7proZtMu-54BbhvPrwpN"
+    # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+    # For more information, https://staticman.net/docs/encryption
+    secret: "eD2XDynTi5PzFQnBceQZB4s5vDaYnpTAdfrRx+W+iLE0ZDQ4IKP/LU+ZV908JrGgiJEA8WCB/wm/xI3KgEAMseux7fpTPv1lfC5rfuPeZcFyK+VrE034KI2rpz15d+VIZ3uRLfecnmGvR+Gt3zYyl7Wv7KpXB9tgbRb1OKsjv6p5N3/a5CLcwytVC9SV+EzZ0XyNDnP6cNaDGL4bnAYotTWYYj+mJ8YEgo36L7qajpXfMr/F9oLqk8V9hHhLdIAJKjvv12YIla0c2kCDd7Xuu9SdDIFL/eIks6wP3lXqN4UlLDM65bRgVw8Um5LWfLvZDaHKIKMjKJVPZYOK8c1j1A=="
