@@ -41,77 +41,54 @@
         <!-- End static comments -->
 
         <!-- Start new comment form -->
-        <form class="js-form form" method="post" action="{{ site.staticman_url }}">
-          <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
-          <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
-          <input type="hidden" id="comment-replying-to-uid" name="fields[replying_to_uid]" value="">
-          <input type="hidden" name="options[slug]" value="{{ page.slug }}">
-          <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-          <input type="hidden" name="options[reCaptcha][secret]"  value="{{ site.reCaptcha.secret }}">
-        
-          <div class="textfield">
-            <label for="comment-form-message"><h2>Add Comment <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">(cancel reply)</a></small></h2>
-              <textarea class="textfield__input" name="fields[message]" type="text" id="comment-form-message" placeholder="Your comment (markdown accepted)" required rows="6"></textarea>
-            </label>
-            <div class="comment-form-message-footnote">
-              Learn how to write in Markdown with this <a rel="nofollow" target="_blank" href="https://kramdown.gettalong.org/quickref.html">Quick Reference</a>.
+        <div class="page__comments-form">
+          <h4 class="page__comments-title">{{ site.data.ui-text[site.locale].comments_label | default: "Leave a Comment" }}</h4>
+          <p class="small">{{ site.data.ui-text[site.locale].comment_form_info | default: "Your email address will not be published. Required fields are marked" }} <span class="required">*</span></p>
+          <form id="new_comment" class="page__comments-form js-form form" method="post" action="{{ site.comments.staticman.endpoint }}{{ site.repository }}/{{ site.comments.staticman.branch }}/comments">
+            <div class="form__spinner">
+              <i class="fas fa-spinner fa-spin fa-3x fa-fw"></i>
+              <span class="sr-only">{{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}</span>
             </div>
-          </div>
-        
-            <div class="textfield narrowfield">
-              <label for="comment-form-name">Name
-                <input class="textfield__input" name="fields[name]" type="text" id="comment-form-name" placeholder="Your name (required)" required/>
-              </label>
+
+            <div class="form-group">
+              <label for="comment-form-message">{{ site.data.ui-text[site.locale].comment_form_comment_label | default: "Comment" }} <small class="required">*</small></label>
+              <textarea type="text" rows="3" id="comment-form-message" name="fields[message]" tabindex="1"></textarea>
+              <div class="small help-block"><a href="https://daringfireball.net/projects/markdown/">{{ site.data.ui-text[site.locale].comment_form_md_info | default: "Markdown is supported." }}</a></div>
             </div>
-        
-            <div class="textfield narrowfield">
-              <label for="comment-form-email">E-mail
-                <input class="textfield__input" name="fields[email]" type="email" id="comment-form-email" placeholder="Your email (optional)"/>
-              </label>
+            <div class="form-group">
+              <label for="comment-form-name">{{ site.data.ui-text[site.locale].comment_form_name_label | default: "Name" }} <small class="required">*</small></label>
+              <input type="text" id="comment-form-name" name="fields[name]" tabindex="2" />
             </div>
-            
-            <div class="checkbox-email-notification">
-              <input type="checkbox" name="options[subscribe]" value="email">
-                Notify me of new comments on this post.
+            <div class="form-group">
+              <label for="comment-form-email">{{ site.data.ui-text[site.locale].comment_form_email_label | default: "Email address" }} <small class="required">*</small></label>
+              <input type="email" id="comment-form-email" name="fields[email]" tabindex="3" />
             </div>
-        
-            <div class="textfield narrowfield hp">
-              <label for="hp">
-                <input class="textfield__input" name="fields[hp]" id="hp" type="text" placeholder="Leave blank">
-              </label>
+            <div class="form-group">
+              <label for="comment-form-url">{{ site.data.ui-text[site.locale].comment_form_website_label | default: "Website (optional)" }}</label>
+              <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
             </div>
-            
-            <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
-        
-            <button class="button" id="comment-form-submit">Submit</button>
-        
-            <div class="comment-form-footnote">
-              * E-mail is used to display <a rel="nofollow" target="_blank" href="https://gravatar.com/">Gravatar</a>.
+            <div class="form-group hidden" style="display: none;">
+              <input type="hidden" name="options[slug]" value="{{ page.slug }}">
+              <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
+              <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
+              {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
+              {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
             </div>
-        </form>
-        
-        <article class="modal mdl-card mdl-shadow--2dp">
-          <div>
-            <h3 class="modal-title js-modal-title"></h3>
-          </div>
-          <div class="mdl-card__supporting-text js-modal-text"></div>
-          <div class="mdl-card__actions mdl-card--border">
-            <button class="button mdl-button--colored mdl-js-button mdl-js-ripple-effect js-close-modal">Close</button>
-          </div>
-        </article>
-        
-        <!-- Simple Markdown Editor -->
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css"/>
-        <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
-        <script>
-          var simplemde = new SimpleMDE({
-            element: document.getElementById("comment-form-message"),
-            forceSync: true,
-            spellChecker: false,
-            status: false,
-            placeholder: "Your comment (markdown accepted)",
-          });
-        </script>
+            <!-- Start comment form alert messaging -->
+            <p class="hidden js-notice">
+              <strong class="js-notice-text"></strong>
+            </p>
+            <!-- End comment form alert messaging -->
+            {% if site.reCaptcha.siteKey %}
+              <div class="form-group">
+                <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+              </div>
+            {% endif %}
+            <div class="form-group">
+              <button type="submit" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
+            </div>
+          </form>
+        </div>
         <!-- End new comment form -->
         {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
       {% endif %}
