@@ -44,8 +44,8 @@
             {% endif %}
           </div>
           <!-- End static comments -->
-
-          {% unless page.comments_locked == true %}
+ 
+          <!-- {% unless page.comments_locked == true %} -->
           <!-- Start new comment form -->
           <div id="respond" class="page__comments-form">
             <h4 class="page__comments-title">
@@ -94,13 +94,13 @@
                   <!-- <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div> -->
                 </div>
               {% endif %}
-              <div class="form-group">
+              <!-- <div class="form-group">
                 <button type="button" disabled="disabled" id="comment-form-submit" tabindex="5" class="btn btn--primary btn--large" data-translate="comment_btn_submit">{{ site.data.ui-text[site.locale].comment_btn_submit | default: "Submit Comment" }}</button>
-              </div>
+              </div> -->
             </form>
           </div>
           <!-- End new comment form -->
-          {% endunless %}
+          <!-- {% endunless %} -->
 
           {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
         {% endif %}
