@@ -42,7 +42,7 @@ en: &DEFAULT_EN
   comment_form_website_label : "Website (optional)"
   comment_btn_submit         : "Submit comment"
   comment_btn_submitted      : "Submitted"
-  comment_success_msg        : "Thanks for your comment! It will show on the site once it has been approved."
+  comment_success_msg        : "Thank you for your thoughtful comment – your support brightens my virtual space!"
   comment_error_msg          : "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again."
   loading_label              : "Loading..."
   search_label_text          : "Enter your search term..."
