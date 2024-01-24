@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * MS Robotics, University of Michigan (expected 2025)
-  * CGPA 3.67; Mentor @MHacks 2023, Volunteer @IROS 2023 @M|Linguistics, M|Dining Staff
+  * CGPA 3.67; Mentor @MHacks 2023, Volunteer @IROS 2023 @M Linguistics, M Dining Staff
   * Courses: Math for Robotics, Robotics Systems Lab, Computer Vision, Mobile Robotics, Deep Learning for Robot Perception, Directed Research
 
 * BEng Information Technology, University of Mumbai (2023)
@@ -46,8 +46,7 @@ Experience
   
 Tech Stack
 ======
-Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, NLTK, Flask, FastAPI, Django,
-MongoDB, NoSQL, PostgreSQL, Docker, Kubernetes, TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS, SolidWorks, AutoCAD
+Python, C++, C, Elixir, R, Golang, PyTorch, TensorFlow, Keras, OpenCV, GluonCV, MONAI, MediaPipe, Flask, FastAPI, Django, MongoDB, NoSQL, PostgreSQL, Docker, Kubernetes, TensorRT, DeepStream, Horovod, AWS, Git, Linux, ROS2, Fusion360, Rhino 8
 
 
 Publications
