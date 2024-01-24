@@ -35,16 +35,16 @@
       $('.page__comments-form .js-notice').removeClass('hidden');
       $('.page__comments-form .js-notice-text').html(message);
     }
-    var verifyCaptcha = function(response) {
-    if(response.length == 0) {
-    } else {
-        var _el=$('#comment-form-submit');
-        _el.removeAttr("disabled");
-        _el.addClass('button-primary dark-blue-bg');
-        _el.attr('aria-disabled', 'false');
-        _el.attr('type', 'submit');
-    }
-};
+    // var verifyCaptcha = function(response) {
+    //   if(response.length == 0) {
+    //   } else {
+    //       var _el=$('#comment-form-submit');
+    //       _el.removeAttr("disabled");
+    //       _el.addClass('button-primary dark-blue-bg');
+    //       _el.attr('aria-disabled', 'false');
+    //       _el.attr('type', 'submit');
+    //   }
+    // };
   })(jQuery);
   </script>
 {% endif %}

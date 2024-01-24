@@ -82,6 +82,7 @@
                 {% if site.reCaptcha.siteKey %}<input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">{% endif %}
                 {% if site.reCaptcha.secret %}<input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">{% endif %}
               </div>
+              
               <!-- Start comment form alert messaging -->
               <p class="hidden js-notice">
                 <strong class="js-notice-text"></strong>
@@ -89,7 +90,8 @@
               <!-- End comment form alert messaging -->
               {% if site.reCaptcha.siteKey %}
                 <div class="form-group">
-                  <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div>
+                  <div id="reCaptcha" class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+                  <!-- <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-callback="verifyCaptcha"></div> -->
                 </div>
               {% endif %}
               <div class="form-group">
