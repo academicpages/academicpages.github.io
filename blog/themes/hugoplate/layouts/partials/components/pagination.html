@@ -1,0 +1,138 @@
+{{ $paginator := .Paginator }}
+<!-- Number of links either side of the current page. -->
+{{ $adjacent_links := 2 }}
+<!-- $max_links = ($adjacent_links * 2) + 1 -->
+{{ $max_links := (add (mul $adjacent_links 2) 1) }}
+<!-- $lower_limit = $adjacent_links + 1 -->
+{{ $lower_limit := (add $adjacent_links 1) }}
+<!-- $upper_limit = $paginator.TotalPages - $adjacent_links -->
+{{ $upper_limit := (sub $paginator.TotalPages $adjacent_links) }}
+<!-- If there's more than one page. -->
+{{ if gt $paginator.TotalPages 1 }}
+  <nav
+    class="flex items-center justify-center space-x-3"
+    aria-label="Pagination">
+    <!-- Previous page. -->
+    {{ if $paginator.HasPrev }}
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="{{ $paginator.Prev.URL }}"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    {{ else }}
+      <span class="text-light rounded px-2 py-1.5">
+        <span class="sr-only">Previous</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M12.707 5.293a1 1 0 010 1.414L9.414 10l3.293 3.293a1 1 0 01-1.414 1.414l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </span>
+    {{ end }}
+
+
+    <!-- Page numbers -->
+    {{ range $paginator.Pagers }}
+      {{ $.Scratch.Set "page_number_flag" false }}
+      <!-- Advanced page numbers. -->
+      {{ if gt $paginator.TotalPages $max_links }}
+        <!-- Lower limit pages. -->
+        <!-- If the user is on a page which is in the lower limit.  -->
+        {{ if le $paginator.PageNumber $lower_limit }}
+          <!-- If the current loop page is less than max_links. -->
+          {{ if le .PageNumber $max_links }}
+            {{ $.Scratch.Set "page_number_flag" true }}
+          {{ end }}
+          <!-- Upper limit pages. -->
+          <!-- If the user is on a page which is in the upper limit. -->
+        {{ else if ge $paginator.PageNumber $upper_limit }}
+          <!-- If the current loop page is greater than total pages minus $max_links -->
+          {{ if gt .PageNumber (sub $paginator.TotalPages $max_links) }}
+            {{ $.Scratch.Set "page_number_flag" true }}
+          {{ end }}
+          <!-- Middle pages. -->
+        {{ else }}
+          {{ if and ( ge .PageNumber (sub $paginator.PageNumber $adjacent_links) ) ( le .PageNumber (add $paginator.PageNumber $adjacent_links) ) }}
+            {{ $.Scratch.Set "page_number_flag" true }}
+          {{ end }}
+        {{ end }}
+        <!-- Simple page numbers. -->
+      {{ else }}
+        {{ $.Scratch.Set "page_number_flag" true }}
+      {{ end }}
+      <!-- Output page numbers. -->
+      {{ if eq ($.Scratch.Get "page_number_flag") true }}
+
+        {{ if eq . $paginator }}
+          <span
+            aria-current="page"
+            class="bg-primary dark:bg-darkmode-primary dark:text-dark rounded px-4 py-2 text-white">
+            {{ .PageNumber }}
+          </span>
+        {{ else }}
+          <a
+            href="{{ .URL }}"
+            aria-current="page"
+            class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-4 py-2">
+            {{ .PageNumber }}
+          </a>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+
+
+    <!-- Next page. -->
+    {{ if $paginator.HasNext }}
+      <a
+        class="text-dark hover:bg-theme-light dark:text-darkmode-dark dark:hover:bg-darkmode-theme-light rounded px-2 py-1.5"
+        href="{{ $paginator.Next.URL }}"
+        aria-label="Pagination Arrow">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </a>
+    {{ else }}
+      <span class="text-light rounded px-2 py-1.5">
+        <span class="sr-only">Next</span>
+        <svg
+          viewBox="0 0 20 20"
+          fill="currentColor"
+          aria-hidden="true"
+          height="30"
+          width="30">
+          <path
+            fill-rule="evenodd"
+            d="M7.293 14.707a1 1 0 010-1.414L10.586 10 7.293 6.707a1 1 0 011.414-1.414l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414 0z"
+            clip-rule="evenodd" />
+        </svg>
+      </span>
+    {{ end }}
+  </nav>
+{{ end }}

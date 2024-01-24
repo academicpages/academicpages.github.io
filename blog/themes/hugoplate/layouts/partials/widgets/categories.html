@@ -1,0 +1,23 @@
+<!-- categories -->
+{{ if isset site.Taxonomies "categories" }}
+  {{ if not (eq (len site.Taxonomies.categories) 0) }}
+    <div class="mb-8">
+      <h5 class="mb-6">{{ i18n "categories" }}</h5>
+      <div class="bg-theme-light dark:bg-darkmode-theme-light rounded p-8">
+        <ul class="space-y-4">
+          {{ range $name, $items := site.Taxonomies.categories }}
+            <li>
+              <a
+                class="hover:text-primary dark:hover:text-darkmode-primary {{ if (and (eq $.Page.Kind `term`) (eq $.Page.Type `categories`) (eq $.Page.Title .Page.Title)) }}
+                  active
+                {{ end }} flex justify-between"
+                href="{{ .Page.RelPermalink }}">
+                {{ .Page.Title }} <span>( {{ len $items }} )</span>
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

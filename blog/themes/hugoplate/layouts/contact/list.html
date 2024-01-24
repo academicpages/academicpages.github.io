@@ -1,0 +1,120 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <section class="section-sm">
+    <div class="container">
+      <div class="row">
+        <div class="md:col-10 lg:col-6 mx-auto">
+          <form action="{{ site.Params.contact_form_action }}" method="POST">
+            <div class="mb-6">
+              <label for="name" class="form-label">
+                Full Name <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="name"
+                name="name"
+                class="form-input"
+                placeholder="John Doe"
+                type="text" />
+            </div>
+            <div class="mb-6">
+              <label for="email" class="form-label">
+                Working Mail <span class="text-red-500">*</span>
+              </label>
+              <input
+                id="email"
+                name="email"
+                class="form-input"
+                placeholder="john.doe@email.com"
+                type="email" />
+            </div>
+            <div class="mb-6">
+              <label for="message" class="form-label">
+                Anything else? <span class="text-red-500">*</span>
+              </label>
+              <textarea
+                id="message"
+                name="message"
+                class="form-input"
+                placeholder="Message goes here..."
+                rows="8"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- google map -->
+  {{ with site.Params.google_map }}
+    {{ if .enable }}
+      <div
+        id="map"
+        style="height: 400px;"
+        data-latitude="{{ .map_latitude }}"
+        data-longitude="{{ .map_longitude }}"
+        data-marker="{{ .map_marker | relURL }}"
+        data-marker-name="{{ site.Title }}"></div>
+    {{ end }}
+  {{ end }}
+
+  {{ with site.Params.subscription }}
+    {{ if .enable }}
+      <!-- subscription form -->
+      <form
+        action="{{ .mailchimp_form_action | safeURL }}"
+        method="post"
+        id="mc-embedded-subscribe-form"
+        novalidate="novalidate">
+        <div class="input-group w-75 mx-auto mb-3">
+          <input
+            type="email"
+            name="EMAIL"
+            placeholder="Email"
+            class="form-control required email mce_inline_error"
+            id="mce-EMAIL"
+            aria-required="true"
+            autocomplete="off"
+            required />
+          <button
+            class="input-group-text"
+            name="subscribe"
+            id="mc-embedded-subscribe">
+            {{ .button_label }}
+          </button>
+        </div>
+        <input
+          type="hidden"
+          name="EMAILTYPE"
+          id="mce-EMAILTYPE-0"
+          value="html" />
+        <div style="position:absolute;left:-5000px" aria-hidden="true">
+          <input type="text" name="{{ .name }}" tabindex="-1" />
+        </div>
+      </form>
+      <div id="mce-responses" class="clear">
+        <div
+          class="response text-white"
+          id="mce-error-response"
+          style="display:none"></div>
+        <div
+          class="response text-white"
+          id="mce-success-response"
+          style="display:none"></div>
+      </div>
+      <script
+        type="text/javascript"
+        src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+      <!-- /subscription form -->
+    {{ end }}
+  {{ end }}
+
+  {{ if site.Params.google_map.enable }}
+    {{ $gmap:= resources.Get "plugins/maps/google-map.js" }}
+    <script defer src="{{ $gmap.RelPermalink }}"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key={{ site.Params.google_map.map_api_key }}&libraries=places"></script>
+  {{ end }}
+
+{{ end }}

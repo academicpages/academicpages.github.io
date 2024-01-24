@@ -1,0 +1,78 @@
+{
+  "name": "postcss-cli",
+  "version": "11.0.0",
+  "description": "CLI for PostCSS",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "bin": {
+    "postcss": "./index.js"
+  },
+  "scripts": {
+    "ci": "eslint . && c8 ava -v && npm run prettier -- --list-different",
+    "clean": "node test/helpers/clean.js",
+    "prettier": "prettier --single-quote --no-semi \"**/*.{js,md}\"",
+    "format": "npm run prettier -- --write && eslint . --fix",
+    "pretest": "npm run clean && npm run format",
+    "test": "c8 ava -v"
+  },
+  "dependencies": {
+    "chokidar": "^3.3.0",
+    "dependency-graph": "^0.11.0",
+    "fs-extra": "^11.0.0",
+    "get-stdin": "^9.0.0",
+    "globby": "^14.0.0",
+    "picocolors": "^1.0.0",
+    "postcss-load-config": "^5.0.0",
+    "postcss-reporter": "^7.0.0",
+    "pretty-hrtime": "^1.0.3",
+    "read-cache": "^1.0.0",
+    "slash": "^5.0.0",
+    "yargs": "^17.0.0"
+  },
+  "devDependencies": {
+    "ava": "^3.1.0",
+    "c8": "^8.0.0",
+    "coveralls": "^3.0.0",
+    "eslint": "^8.55.0",
+    "eslint-config-problems": "8.0.0",
+    "postcss": "^8.0.4",
+    "postcss-import": "^15.0.0",
+    "prettier": "~3.1.0",
+    "sugarss": "^4.0.0",
+    "uuid": "^9.0.0"
+  },
+  "peerDependencies": {
+    "postcss": "^8.0.0"
+  },
+  "files": [
+    "index.js",
+    "lib",
+    "!**/*.test.js"
+  ],
+  "keywords": [
+    "cli",
+    "postcss",
+    "postcss-runner"
+  ],
+  "contributors": [
+    {
+      "name": "Michael Ciniawky",
+      "email": "michael.ciniawsky@gmail.com"
+    },
+    {
+      "name": "Ryan Zimmermann",
+      "email": "opensrc@ryanzim.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/postcss/postcss-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/postcss/postcss-cli/issues"
+  },
+  "homepage": "https://github.com/postcss/postcss-cli#readme",
+  "license": "MIT"
+}

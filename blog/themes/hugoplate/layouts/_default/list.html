@@ -1,0 +1,20 @@
+{{ define "main" }}
+  {{ partial "page-header" . }}
+
+
+  <section class="section">
+    <div class="container">
+      <ul class="text-center">
+        {{ range .RegularPages }}
+          <li class="m-3">
+            <a
+              href="{{ .Permalink }}"
+              class="text-dark dark:text-darkmode-dark block text-xl">
+              {{ .Title }}
+            </a>
+          </li>
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+{{ end }}
