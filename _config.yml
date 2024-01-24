@@ -87,7 +87,7 @@ author:
   employer         : "University of Granada"
   pubmed           : 
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "andymec3000@outlook.com
+  email            : "andymec3000@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/andimec/"
   orcid            : "https://orcid.org/0000-0002-9911-9786"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "https://twitter.com/andimec_23"
