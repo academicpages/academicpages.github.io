@@ -32,7 +32,7 @@
       {% else %}
         {% if title == '@UNCG' %}
           <h1>style="background-color: rgb(000,051,102); color: rgb(255,204,000);"><a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</h1> 
-        {% elsif title != @UNCG %}
+        {% elsif title != '@UNCG' %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
           {% endif %} 
       {% endif %}
@@ -69,6 +69,9 @@
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+      {% if post.collection == 'teaching' %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      {% endif %}
     {% endif %}
   </article>
 </div>
