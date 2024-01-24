@@ -49,10 +49,10 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
-comments:
-  provider: "staticman_v2"
-  staticman:
-    endpoint: "https://sj-staticman.herokuapp.com/v3/entry/github/"
+# comments:
+#   provider: "staticman_v2"
+#   staticman:
+#     endpoint: "https://sj-staticman.herokuapp.com/v3/entry/github/"
 
 # reCaptcha
   reCaptcha:
