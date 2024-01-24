@@ -68,6 +68,7 @@
                 <input type="url" id="comment-form-url" name="fields[url]" tabindex="4"/>
               </div>
               <div class="form-group hidden" style="display: none;">
+                {% if page.title == "Teaching" %} page.slug = "teaching" {% endif %}
                 <input type="hidden" name="options[slug]" value="{{ page.slug }}">
                 <label for="comment-form-location">Not used. Leave blank if you are a human.</label>
                 <input type="text" id="comment-form-location" name="fields[hidden]" autocomplete="off"/>
