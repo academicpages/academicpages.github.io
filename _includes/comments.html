@@ -26,7 +26,7 @@
                 {% assign commentObject = comment[1] %}
                 {% assign commentObjects = commentObjects | push: commentObject %}
               {% endfor %}
-              {% assign comments = commentObjects | sort: "date" %}
+              {% assign comments = commentObjects | sort: "date" | reverse %}
 
               {% for comment in comments %}
                 {% assign email = comment.email %}
