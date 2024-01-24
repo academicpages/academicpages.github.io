@@ -1,1 +1,0 @@
-../mini-svg-data-uri/cli.js

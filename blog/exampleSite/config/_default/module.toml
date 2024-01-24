@@ -1,0 +1,93 @@
+[hugoVersion]
+extended = true
+min = "0.115.2"
+
+[[imports]]
+path = "github.com/zeon-studio/hugoplate"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/search"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/pwa"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/images"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/videos"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/icons/font-awesome"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/icons/themify-icons"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/gzip-caching"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/adsense"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/accordion"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/table-of-contents"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/tab"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/modal"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/gallery-slider"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/preloader"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/social-share"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/cookie-consent"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/custom-script"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/components/render-link"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/components/valine-comment"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/components/crisp-chat"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/shortcodes/button"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/shortcodes/notice"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/seo-tools/basic-seo"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/seo-tools/site-verifications"
+
+[[imports]]
+path = "github.com/gethugothemes/hugo-modules/seo-tools/google-tag-manager"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/seo-tools/baidu-analytics"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/seo-tools/matomo-analytics"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/seo-tools/plausible-analytics"
+
+# [[imports]]
+# path = "github.com/gethugothemes/hugo-modules/seo-tools/counter-analytics"

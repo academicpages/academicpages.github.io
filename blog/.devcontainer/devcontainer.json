@@ -1,0 +1,24 @@
+{
+	"name": "Hugo",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+			"NODE_VERSION": "20",
+			"GO_VERSION": "1.21.4",
+			"HUGO_VERSION": "0.120.4"
+		}
+	},
+	"customizations": {
+		"vscode": {
+			"settings": {},
+			"extensions": [
+				"bradlc.vscode-tailwindcss",
+				"budparr.language-hugo-vscode",
+				"tamasfe.even-better-toml"
+			]
+		}
+	},
+	"remoteUser": "node",
+	"postCreateCommand": "npm install && npm run dev:example",
+	"forwardPorts": [1313]
+}

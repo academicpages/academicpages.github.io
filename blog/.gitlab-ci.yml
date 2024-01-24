@@ -1,0 +1,38 @@
+stages:
+  - build
+
+variables:
+  HUGO_ENV: production
+  HUGO_VERSION: "0.121.2"
+  GO_VERSION: "1.20.5"
+  NODE_VERSION: "18.16.1"
+
+cache:
+  paths:
+    - node_modules/
+
+default:
+  image: node:${NODE_VERSION}
+  before_script:
+    - echo "USING NODE ${NODE_VERSION}"
+    - apt-get update && apt-get install -y curl
+    - curl -LO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz"
+    - tar -xvf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+    - mv hugo /usr/local/bin/
+    - rm hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+    - echo "HUGO ${HUGO_VERSION} INSTALLED"
+    - curl -LO "https://dl.google.com/go/go${GO_VERSION}.linux-amd64.tar.gz"
+    - tar -C /usr/local -xzf go${GO_VERSION}.linux-amd64.tar.gz
+    - export PATH=$PATH:/usr/local/go/bin
+    - rm go${GO_VERSION}.linux-amd64.tar.gz
+    - echo "GO ${GO_VERSION} INSTALLED"
+    - npm install
+
+pages:
+  stage: build
+  script:
+    - npm run project-setup
+    - npm run build
+  artifacts:
+    paths:
+      - public
