@@ -38,9 +38,7 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-    {% if post.collection == 'professional' %} 
-    <p><small><i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </small></p> 
-    {% endif %}
+   
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
@@ -51,9 +49,8 @@
     {% if post.collection == 'teaching' %}
       <!-- <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
       <p><i>{{ post.venue }}</i>, {{ post.location }} </p>
-      {% if post.excerpt and site.read_more == 'enabled' %}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-      {% endif %}
+    {% elsif post.collection == 'professional' %} 
+      <p><small><i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </small></p> 
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
