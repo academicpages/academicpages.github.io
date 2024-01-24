@@ -19,6 +19,4 @@ location: "Greensboro, NC"
 <br>
 {%include include_teaching/tutoring_UNCG.html%}
 
-<section id="comments at uncg">
-  <!-- Content of the section -->
-</section>
+## commentsteachinguncg
