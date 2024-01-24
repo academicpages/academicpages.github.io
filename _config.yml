@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Anderson Sabogal"
-  avatar           : "Anderson_LK.png"
-  bio              : ":nut_and_bolt: A humanist and passionate mechanical engineer with a deep-seated fascination for science."
+  avatar           : # "Anderson_LK.png"
+  bio              : "A humanist and passionate mechanical engineer with a deep-seated fascination for science."
   location         : "Granada - Spain"
   employer         : University of Granada
   pubmed           : 
