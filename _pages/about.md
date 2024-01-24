@@ -18,12 +18,6 @@ He is a co-author in <a style="text-decoration:none" href="https://www.cs.ubc.ca
 
 Before joining Ph.D., he was a *Data Scientist* in an R&D team headed by CTO at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a>. He did his masters from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a>.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=patel-zeel&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patel-zeel&layout=compact" />
-</a>
 
 Updates
 ======
