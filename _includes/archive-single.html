@@ -40,9 +40,9 @@
     
     {% if post.collection == 'teaching' %}
       <!-- <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
-      <p><small><i>{{post.designation}}, {{ post.venue }}</i>, {{ post.location }} </small></p>
+      <p><font size="-1"><i>{{post.designation}}, {{ post.venue }}</i>, {{ post.location }} </font></p>
     {% elsif post.collection == 'professional' %} 
-      <p><small><i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </small></p> 
+      <p><font size="-1"><i>{{post.designation}}, {{post.timeline}}</i>, {{ post.location }} </font></p> 
     {% elsif post.collection == 'publications' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
