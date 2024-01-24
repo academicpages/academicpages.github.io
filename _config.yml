@@ -53,7 +53,8 @@ comments:
   provider: "staticman_v2"
   staticman:
     branch:  "master"
-    staticmanUrl: https://sj-staticman-e1e324188f93.herokuapp.com/v2/entry/satyajithboyana/satyajithboyana.github.io/master/comments
+    endpoint: "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
+    #staticmanUrl: https://sj-staticman-e1e324188f93.herokuapp.com/v2/entry/satyajithboyana/satyajithboyana.github.io/master/comments
 # reCaptcha
   reCaptcha:
     enabled: false
