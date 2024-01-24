@@ -16,4 +16,4 @@ location: "Greensboro, NC"
 
 {%include include_teaching/tutoring_UNCG.html%}
 
-## comments_teachinguncg  
+## comments_teachinguncg
