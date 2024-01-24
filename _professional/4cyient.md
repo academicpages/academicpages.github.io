@@ -62,7 +62,3 @@ Attributes of the global model were defined using the Pratt and Whitney Automode
 <br>
 **Project Details**:
 After completing my college education and joining [Cyient Ltd.](https://www.cyient.com/engineering/mechanical-engineering), I underwent an extensive six-month induction training program. This program extensively covered industry best practices and ensured I gained a thorough understanding of essential CAD/CAE tools. This immersive training program laid a solid foundation for my professional journey, providing me with the necessary skills and knowledge to excel in my role as a mechanical design engineer.
-
-{% if page.comments == true %}
-  {% include comments.html %}
-{% endif %}
