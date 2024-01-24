@@ -54,7 +54,7 @@ comments:
   staticman:
     branch:  "master"
     endpoint: "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
-    #staticmanUrl: https://sj-staticman-e1e324188f93.herokuapp.com/v2/entry/satyajithboyana/satyajithboyana.github.io/master/comments
+    staticmanUrl: https://sj-staticman-e1e324188f93.herokuapp.com/v2/entry/satyajithboyana/satyajithboyana.github.io/master/comments
 # reCaptcha
   reCaptcha:
     enabled: false
