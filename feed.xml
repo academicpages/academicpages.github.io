@@ -8,7 +8,7 @@ layout: null
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ '' | absolute_url }}</link>
     <atom:link href="{{ 'feed.xml' | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:20 %}
+    <!-- {% for post in site.posts limit:20 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>
@@ -19,6 +19,6 @@ layout: null
         <link>{{ post.url | absolute_url }}</link>
         <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
       </item>
-    {% endfor %}
+    {% endfor %} -->
   </channel>
 </rss>
