@@ -5,7 +5,7 @@
       var form = this;
 
       $(form).addClass('disabled');
-      $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> ' + translations.getTranslation("loading_label"));
+      $('#comment-form-submit').html('<i class="fas fa-spinner fa-spin fa-fw"></i> {{ site.data.ui-text[site.locale].loading_label | default: "Loading..." }}');
 
       $.ajax({
         type: $(this).attr('method'),
@@ -13,17 +13,17 @@
         data: $(this).serialize(),
         contentType: 'application/x-www-form-urlencoded',
         success: function (data) {
-          $('#comment-form-submit').html(translations.getTranslation('comment_btn_submitted'));
+          $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submitted | default: "Submitted" }}');
           $('.page__comments-form .js-notice').removeClass('notice--danger');
           $('.page__comments-form .js-notice').addClass('notice--success');
-          showAlert(translations.getTranslation('comment_success_msg'));
+          showAlert('{{ site.data.ui-text[site.locale].comment_success_msg | default: "Thanks for your comment! It will show on the site once it has been approved." }}');
         },
         error: function (err) {
           console.log(err);
-          $('#comment-form-submit').html(translations.getTranslation('comment_btn_submit'));
+          $('#comment-form-submit').html('{{ site.data.ui-text[site.locale].comment_btn_submit  | default: "Submit Comment" }}');
           $('.page__comments-form .js-notice').removeClass('notice--success');
           $('.page__comments-form .js-notice').addClass('notice--danger');
-          showAlert(translations.getTranslation('comment_error_msg'));
+          showAlert('{{ site.data.ui-text[site.locale].comment_error_msg | default: "Sorry, there was an error with your submission. Please make sure all required fields have been completed and try again." }}');
           $(form).removeClass('disabled');
         }
       });
@@ -35,16 +35,6 @@
       $('.page__comments-form .js-notice').removeClass('hidden');
       $('.page__comments-form .js-notice-text').html(message);
     }
-    // var verifyCaptcha = function(response) {
-    //   if(response.length == 0) {
-    //   } else {
-    //       var _el=$('#comment-form-submit');
-    //       _el.removeAttr("disabled");
-    //       _el.addClass('button-primary dark-blue-bg');
-    //       _el.attr('aria-disabled', 'false');
-    //       _el.attr('type', 'submit');
-    //   }
-    // };
   })(jQuery);
   </script>
 {% endif %}

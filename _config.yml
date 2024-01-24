@@ -44,9 +44,6 @@ comments:
   staticman:
     branch               :  "master"
     endpoint             :  "https://sj-staticman-e1e324188f93.herokuapp.com/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
 # reCaptcha
   # reCaptcha:
   #   enabled: false
