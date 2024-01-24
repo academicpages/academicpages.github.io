@@ -5,7 +5,7 @@
   <div class="comment__content-wrapper">
     <h3 class="comment__author" itemprop="author" itemscope itemtype="https://schema.org/Person">
       {% unless include.url == blank %}
-        <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.email }}">{{ include.name }}</a></span>
+        <span itemprop="name"><a rel="external nofollow" itemprop="url" href="{{ include.url }}">{{ include.name }}</a></span>
       {% else %}
         <span itemprop="name">{{ include.name }}</span>
       {% endunless %}
