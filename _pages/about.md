@@ -23,7 +23,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 <br/>
 
 
-<span class='anchor' id='education'></span>
+<span class='anchor' id='educations'></span>
 
 🎓 Education
 ---
