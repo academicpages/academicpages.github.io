@@ -66,7 +66,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 + IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='/images/CPCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Changhong Fu*, Xiaoxiao Yang, Fan Li, Juntao Xu, `Changjing Liu`, Peng Lu. Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020. 
