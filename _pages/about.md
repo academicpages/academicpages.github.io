@@ -50,17 +50,10 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 📝 Publications
 ---  
-
-**Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA**
-
-+ **Changjing Liu**, Zhiwu Wang*, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen
-
-+ Artificial Organs, 2023 (SCI Q3)
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Changjing Liu`, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  
+-	`Changjing Liu`, Zhiwu Wang*, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  
 [[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://dx.doi.org/10.3390/s22093587) [[下载]](https://dx.doi.org/10.3390/s22093587)
 
 </div>
@@ -73,7 +66,16 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 + IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020
 
-<br/>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Changhong Fu*, Xiaoxiao Yang, Fan Li, Juntao Xu, `Changjing Liu`, Peng Lu. Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020. 
+[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://dx.doi.org/10.3390/s22093587) [[下载]](https://dx.doi.org/10.3390/s22093587)
+
+</div>
+</div>
+
+<span class='anchor' id='-lwzl'></span>
 
 💻 Projects
 ---  
