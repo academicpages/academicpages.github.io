@@ -1,2 +1,2 @@
-_site/
-
+# dependencies
+/node_modules
