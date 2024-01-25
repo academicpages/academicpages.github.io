@@ -50,33 +50,33 @@ Cost estimation is the process of predicting the cost of a project, product, or 
 
 There are several options for cost estimation in the cloud:
 
-ü Cost calculators: Most cloud providers offer cost calculators that allow you to estimate the cost of various cloud resources based on your usage patterns and requirements. These calculators can help you compare the cost of different options and choose the most cost-effective solution.
+ Cost calculators: Most cloud providers offer cost calculators that allow you to estimate the cost of various cloud resources based on your usage patterns and requirements. These calculators can help you compare the cost of different options and choose the most cost-effective solution.
 
-ü Cost optimization tools: Many cloud providers offer tools and services to help organizations optimize their resource usage and costs. These tools can help identify cost drivers, forecast future costs, and recommend optimization strategies.
+ Cost optimization tools: Many cloud providers offer tools and services to help organizations optimize their resource usage and costs. These tools can help identify cost drivers, forecast future costs, and recommend optimization strategies.
 
-ü Pricing plans: Many cloud providers offer a variety of pricing plans that offer different levels of resources and support at different price points. Carefully reviewing and comparing these plans can help you choose the one that best meets your needs and budget.
+ Pricing plans: Many cloud providers offer a variety of pricing plans that offer different levels of resources and support at different price points. Carefully reviewing and comparing these plans can help you choose the one that best meets your needs and budget.
 
-ü Cost monitoring and management tools: There are a variety of tools and services available that can help you monitor your cloud resource usage and costs in real-time. These tools can alert you to unexpected cost spikes and help you identify opportunities for cost optimization.
+ Cost monitoring and management tools: There are a variety of tools and services available that can help you monitor your cloud resource usage and costs in real-time. These tools can alert you to unexpected cost spikes and help you identify opportunities for cost optimization.
 
-ü Negotiating with vendors: Some cloud providers may be willing to negotiate pricing or offer discounts for large or long-term commitments. It may be worth negotiating with your provider to see if you can get a better deal on your cloud resources.
+ Negotiating with vendors: Some cloud providers may be willing to negotiate pricing or offer discounts for large or long-term commitments. It may be worth negotiating with your provider to see if you can get a better deal on your cloud resources.
 
-ü Resource optimization: Identifying and eliminating unnecessary or underutilized resources can help reduce your overall cloud costs. This could include retiring or decommissioning old resources, optimizing resource allocation, and consolidating resources where possible.
+ Resource optimization: Identifying and eliminating unnecessary or underutilized resources can help reduce your overall cloud costs. This could include retiring or decommissioning old resources, optimizing resource allocation, and consolidating resources where possible.
 
 ## 1.3. Available tools
 
 There are several tools available for cost estimation:
 
-ü Cost calculators: Many cloud providers offer cost calculators that allow you to estimate the cost of various cloud resources based on your usage patterns and requirements. These calculators can help you compare the cost of different options and choose the most cost-effective solution. E.g. Total Cost of Ownership (TCO) Calculator in AWS, The Azure Pricing Calculator, Google Cloud Pricing Calculator
+ Cost calculators: Many cloud providers offer cost calculators that allow you to estimate the cost of various cloud resources based on your usage patterns and requirements. These calculators can help you compare the cost of different options and choose the most cost-effective solution. E.g. Total Cost of Ownership (TCO) Calculator in AWS, The Azure Pricing Calculator, Google Cloud Pricing Calculator
 
-ü Cost monitoring and management tools: There are a variety of tools and services available that can help you monitor your cloud resource usage and costs in real-time. These tools can alert you to unexpected cost spikes and help you identify opportunities for cost optimization.
+ Cost monitoring and management tools: There are a variety of tools and services available that can help you monitor your cloud resource usage and costs in real-time. These tools can alert you to unexpected cost spikes and help you identify opportunities for cost optimization.
 
-ü Project management software: Many project management software platforms offer cost estimation and budgeting tools to help organizations plan and track project costs.
+ Project management software: Many project management software platforms offer cost estimation and budgeting tools to help organizations plan and track project costs.
 
-ü Specialized cost estimation software: There are also specialized cost estimation software tools that are specifically designed for cost estimation. These tools often offer advanced features and capabilities, such as the ability to create detailed cost breakdowns and incorporate risk analysis.
+ Specialized cost estimation software: There are also specialized cost estimation software tools that are specifically designed for cost estimation. These tools often offer advanced features and capabilities, such as the ability to create detailed cost breakdowns and incorporate risk analysis.
 
-ü Infracost: Infracost is a tool that helps users optimize their costs when using Terraform for infrastructure management. It provides real-time cost estimates for infrastructure resources and suggests ways to reduce costs through optimization.
+ Infracost: Infracost is a tool that helps users optimize their costs when using Terraform for infrastructure management. It provides real-time cost estimates for infrastructure resources and suggests ways to reduce costs through optimization.
 
-ü Teracost: TeraCost is a cloud cost management and optimization platform that helps organizations optimize their cloud costs by providing visibility into resource usage and costs, identifying opportunities for optimization, and recommending actions to reduce costs. It offers a range of features, including cost forecasting, budget tracking, and resource optimization recommendations, and is designed to work with a variety of cloud providers, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
+ Teracost: TeraCost is a cloud cost management and optimization platform that helps organizations optimize their cloud costs by providing visibility into resource usage and costs, identifying opportunities for optimization, and recommending actions to reduce costs. It offers a range of features, including cost forecasting, budget tracking, and resource optimization recommendations, and is designed to work with a variety of cloud providers, including Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP).
 
 ## 2\. Infracost
 
@@ -88,17 +88,17 @@ Infracost is a tool that is specifically designed to optimize costs in Terraform
 
 Infracost is a tool that can be used for cost optimization in Terraform, a popular Infrastructure as Code (IaC) tool. It provides several advantages over other cost optimization tools available for Terraform:
 
-ü Real-time cost estimation: Infracost provides real-time cost estimates for all the resources in your Terraform code, so you can make informed decisions about your infrastructure costs.
+ Real-time cost estimation: Infracost provides real-time cost estimates for all the resources in your Terraform code, so you can make informed decisions about your infrastructure costs.
 
-ü Integration with Terraform: Infracost integrates seamlessly with Terraform, so you can see the cost estimates for your infrastructure as you write your code. This helps you avoid costly mistakes and optimize your infrastructure costs from the start.
+ Integration with Terraform: Infracost integrates seamlessly with Terraform, so you can see the cost estimates for your infrastructure as you write your code. This helps you avoid costly mistakes and optimize your infrastructure costs from the start.
 
-ü Custom pricing: Infracost allows you to set custom pricing for your resources, so you can better reflect your organization’s negotiated rates or your unique usage patterns.
+ Custom pricing: Infracost allows you to set custom pricing for your resources, so you can better reflect your organization’s negotiated rates or your unique usage patterns.
 
-ü Resource filtering: Infracost allows you to filter resources by tag, type, and name, making it easier to focus on specific resources and optimize their costs.
+ Resource filtering: Infracost allows you to filter resources by tag, type, and name, making it easier to focus on specific resources and optimize their costs.
 
-ü Resource grouping: Infracost groups similar resources together, making it easier to compare costs and identify opportunities for optimization.
+ Resource grouping: Infracost groups similar resources together, making it easier to compare costs and identify opportunities for optimization.
 
-ü Easy to use: Infracost is easy to use and requires minimal setup, so you can start optimizing your infrastructure costs quickly and easily.
+ Easy to use: Infracost is easy to use and requires minimal setup, so you can start optimizing your infrastructure costs quickly and easily.
 
 Overall, Infracost provides a comprehensive and user-friendly solution for cost optimization in Terraform, making it an excellent choice for organizations looking to optimize their infrastructure costs.
 
@@ -106,17 +106,17 @@ Overall, Infracost provides a comprehensive and user-friendly solution for cost 
 
 Infracost is a useful tool for gaining visibility into the cost of your infrastructure and optimizing your spend on cloud resources. However, it does have some limitations to consider:
 
-ü Limited to supported cloud providers: Infracost currently supports only a limited number of cloud providers, including AWS, Azure, and Google Cloud. If you are using a different cloud provider or a combination of multiple providers, Infracost may not be able to provide cost estimates for your infrastructure.
+ Limited to supported cloud providers: Infracost currently supports only a limited number of cloud providers, including AWS, Azure, and Google Cloud. If you are using a different cloud provider or a combination of multiple providers, Infracost may not be able to provide cost estimates for your infrastructure.
 
-ü Dependent on accurate resource pricing: Infracost relies on accurate resource pricing information from the supported cloud providers. If the pricing information is incorrect or out of date, Infracost cost estimates may not be accurate.
+ Dependent on accurate resource pricing: Infracost relies on accurate resource pricing information from the supported cloud providers. If the pricing information is incorrect or out of date, Infracost cost estimates may not be accurate.
 
-ü Limited to resources supported by the cloud providers: Infracost can only provide cost estimates for resources that are supported by the cloud providers it integrates with. If you are using custom resources or resources from third-party providers, Infracost may not be able to provide cost estimates for them.
+ Limited to resources supported by the cloud providers: Infracost can only provide cost estimates for resources that are supported by the cloud providers it integrates with. If you are using custom resources or resources from third-party providers, Infracost may not be able to provide cost estimates for them.
 
-ü Requires manual integration with infrastructure as code: While Infracost integrates with popular infrastructure as code tools such as Terraform and CloudFormation, it requires manual integration. This means you will need to set up Infracost and configure it to work with your infrastructure as code tools, which can be time-consuming and require some technical expertise.
+ Requires manual integration with infrastructure as code: While Infracost integrates with popular infrastructure as code tools such as Terraform and CloudFormation, it requires manual integration. This means you will need to set up Infracost and configure it to work with your infrastructure as code tools, which can be time-consuming and require some technical expertise.
 
-ü Limited to infrastructure costs: Infracost only provides estimates for the cost of your infrastructure resources, such as compute instances and storage. It does not include other costs such as data transfer fees or licensing costs for third-party software.
+ Limited to infrastructure costs: Infracost only provides estimates for the cost of your infrastructure resources, such as compute instances and storage. It does not include other costs such as data transfer fees or licensing costs for third-party software.
 
-ü Limited to current infrastructure: Infracost only provides cost estimates for your current infrastructure. It does not allow you to compare the cost of different infrastructure configurations or predict the cost of future infrastructure changes.
+ Limited to current infrastructure: Infracost only provides cost estimates for your current infrastructure. It does not allow you to compare the cost of different infrastructure configurations or predict the cost of future infrastructure changes.
 
 Overall, while Infracost is a useful tool for gaining visibility into the cost of your infrastructure and optimizing your spend on cloud resources, it is limited in its scope and may not be suitable for all organizations or infrastructure configurations.
 
@@ -124,15 +124,15 @@ Overall, while Infracost is a useful tool for gaining visibility into the cost o
 
 Some possible use cases for Infracost include:
 
-ü Identifying and reducing over-provisioned resources: Infracost can help you identify resources that are over-provisioned, which means they have more capacity than is necessary to meet your workload demands. By reducing the capacity of these resources, you can save on your cloud costs.
+ Identifying and reducing over-provisioned resources: Infracost can help you identify resources that are over-provisioned, which means they have more capacity than is necessary to meet your workload demands. By reducing the capacity of these resources, you can save on your cloud costs.
 
-ü Optimizing resource usage: Infracost can help you optimize resource usage by identifying underutilized resources and suggesting ways to improve their utilization. For example, if you have a virtual machine that is only running at 20% capacity, Infracost may suggest moving workloads to that machine to better utilize its capacity.
+ Optimizing resource usage: Infracost can help you optimize resource usage by identifying underutilized resources and suggesting ways to improve their utilization. For example, if you have a virtual machine that is only running at 20% capacity, Infracost may suggest moving workloads to that machine to better utilize its capacity.
 
-ü Estimating costs for infrastructure changes: Infracost can be used to estimate the costs of making changes to your infrastructure, such as adding or removing resources. This can help you plan for changes and ensure that they are cost-effective.
+ Estimating costs for infrastructure changes: Infracost can be used to estimate the costs of making changes to your infrastructure, such as adding or removing resources. This can help you plan for changes and ensure that they are cost-effective.
 
-ü Analysing cloud cost trends: Infracost can provide detailed cost breakdowns and graphs that allow you to understand your cloud costs over time and identify trends that may impact your budget. This can help you plan and make decisions to optimize your costs.
+ Analysing cloud cost trends: Infracost can provide detailed cost breakdowns and graphs that allow you to understand your cloud costs over time and identify trends that may impact your budget. This can help you plan and make decisions to optimize your costs.
 
-ü Auditing and compliance: Infracost can be used to audit your infrastructure and ensure that it complies with company policies or regulatory requirements. It can also help you identify resources that may be overpriced or misconfigured, allowing you to take corrective action.
+ Auditing and compliance: Infracost can be used to audit your infrastructure and ensure that it complies with company policies or regulatory requirements. It can also help you identify resources that may be overpriced or misconfigured, allowing you to take corrective action.
 
 ## 2.5 Impact analysis
 
@@ -142,67 +142,67 @@ Infracost is a tool that allows users to perform cost analysis on their infrastr
 
 ## 3.1 Basic workflow
 
-ü The workflow of infracost involves the following steps:
+ The workflow of infracost involves the following steps:
 
-ü Install the infracost CLI tool: Infracost can be installed as a standalone CLI tool or as a Terraform plugin. To install the CLI tool, you can use the following command:
+ Install the infracost CLI tool: Infracost can be installed as a standalone CLI tool or as a Terraform plugin. To install the CLI tool, you can use the following command:
 
 curl -sfL [https://raw.githubusercontent.com/infracost/infracost/stable/scripts/install.sh](https://raw.githubusercontent.com/infracost/infracost/stable/scripts/install.sh) | sh
 
-ü Initialize infracost: Once you have installed the infracost CLI tool, you can initialize it by running the following command in your Terraform directory:
+ Initialize infracost: Once you have installed the infracost CLI tool, you can initialize it by running the following command in your Terraform directory:
 
 infracost init
 
-ü This will create a default configuration file (infracost.yml) in your Terraform directory, which you can customize as per your needs.
+ This will create a default configuration file (infracost.yml) in your Terraform directory, which you can customize as per your needs.
 
-ü Add infracost to your Terraform workflow: You can add infracost to your Terraform workflow by using the infracost command before or after running terraform plan or terraform apply. For example, you can run the following command to generate a cost estimate before applying your changes:
+ Add infracost to your Terraform workflow: You can add infracost to your Terraform workflow by using the infracost command before or after running terraform plan or terraform apply. For example, you can run the following command to generate a cost estimate before applying your changes:
 
 infracost plan
 
-ü Alternatively, you can run the following command to generate a cost estimate after applying your changes:
+ Alternatively, you can run the following command to generate a cost estimate after applying your changes:
 
 infracost apply
 
-ü Review the cost estimate: Infracost will generate a cost estimate in the form of a table, which will show you the estimated cost of each resource in your Terraform configuration. You can review the cost estimate and make any necessary changes to your configuration to optimize costs.
+ Review the cost estimate: Infracost will generate a cost estimate in the form of a table, which will show you the estimated cost of each resource in your Terraform configuration. You can review the cost estimate and make any necessary changes to your configuration to optimize costs.
 
-ü Repeat the process: You can repeat the process of running infracost before or after applying your changes as many times as you like, until you are satisfied with the cost estimate.
+ Repeat the process: You can repeat the process of running infracost before or after applying your changes as many times as you like, until you are satisfied with the cost estimate.
 
-ü Use infracost with version control: You can also use infracost with version control systems like Git to track changes to your cost estimates over time. This can be useful for comparing the costs of different versions of your Terraform configuration and for identifying cost-saving opportunities.
+ Use infracost with version control: You can also use infracost with version control systems like Git to track changes to your cost estimates over time. This can be useful for comparing the costs of different versions of your Terraform configuration and for identifying cost-saving opportunities.
 
-ü Use infracost with CI/CD: You can also integrate infracost with your CI/CD pipeline to automate the process of generating and reviewing cost estimates. This can be especially useful if you have a large number of Terraform configurations that need to be regularly reviewed for cost optimization.
+ Use infracost with CI/CD: You can also integrate infracost with your CI/CD pipeline to automate the process of generating and reviewing cost estimates. This can be especially useful if you have a large number of Terraform configurations that need to be regularly reviewed for cost optimization.
 
 ## 3.2 DevOps workflow
 
 ## 3.2.1 Azure DevOps
 
-ü The workflow for using infracost with Azure DevOps involves integrating infracost into your Azure DevOps pipeline. This can be done by adding the infracost task to your pipeline and configuring it to run at the appropriate stage.
+ The workflow for using infracost with Azure DevOps involves integrating infracost into your Azure DevOps pipeline. This can be done by adding the infracost task to your pipeline and configuring it to run at the appropriate stage.
 
-ü To begin, you will need to install the infracost extension from the Azure DevOps marketplace. Next, you will need to create a pipeline and add the infracost task to it. In the task configuration, you will need to specify the path to your Terraform configuration files, as well as any additional arguments that you want to pass to infracost.
+ To begin, you will need to install the infracost extension from the Azure DevOps marketplace. Next, you will need to create a pipeline and add the infracost task to it. In the task configuration, you will need to specify the path to your Terraform configuration files, as well as any additional arguments that you want to pass to infracost.
 
-ü Once the task is configured, you can run your pipeline as usual. As part of the pipeline execution, infracost will analyze your Terraform configuration and provide cost estimates for the resources that are being created. This information will be displayed in the pipeline output, allowing you to easily see the cost implications of your changes.
+ Once the task is configured, you can run your pipeline as usual. As part of the pipeline execution, infracost will analyze your Terraform configuration and provide cost estimates for the resources that are being created. This information will be displayed in the pipeline output, allowing you to easily see the cost implications of your changes.
 
-ü In addition to running infracost as part of your pipeline, you can also use it to create pull request checks. This allows you to enforce cost limits on pull requests, ensuring that any changes that are made do not exceed a certain budget.
+ In addition to running infracost as part of your pipeline, you can also use it to create pull request checks. This allows you to enforce cost limits on pull requests, ensuring that any changes that are made do not exceed a certain budget.
 
-ü Overall, integrating infracost into your Azure DevOps workflow can help you better understand the cost implications of your infrastructure changes, and ensure that you are making cost-effective decisions as you develop and deploy your applications.
+ Overall, integrating infracost into your Azure DevOps workflow can help you better understand the cost implications of your infrastructure changes, and ensure that you are making cost-effective decisions as you develop and deploy your applications.
 
 ## 3.2.2 Jenkins
 
 The workflow for using infracost with Jenkins typically involves the following steps:
 
-ü Install the infracost plugin in Jenkins. This can be done through the Jenkins Plugin Manager.
+ Install the infracost plugin in Jenkins. This can be done through the Jenkins Plugin Manager.
 
-ü Configure the infracost plugin in the Jenkins Global Configuration page. This includes specifying the AWS access keys, the Terraform version, and the desired frequency for cost scans.
+ Configure the infracost plugin in the Jenkins Global Configuration page. This includes specifying the AWS access keys, the Terraform version, and the desired frequency for cost scans.
 
-ü In your Jenkins job, add a build step to run infracost. This can be done by selecting “Infracost” from the Add Build Step dropdown menu.
+ In your Jenkins job, add a build step to run infracost. This can be done by selecting “Infracost” from the Add Build Step dropdown menu.
 
-ü In the infracost build step, specify the path to your Terraform configuration files and any additional command line options.
+ In the infracost build step, specify the path to your Terraform configuration files and any additional command line options.
 
-ü Run the Jenkins job to trigger the infracost scan. The infracost plugin will scan your Terraform configuration files and generate a report on the estimated cost of your infrastructure.
+ Run the Jenkins job to trigger the infracost scan. The infracost plugin will scan your Terraform configuration files and generate a report on the estimated cost of your infrastructure.
 
-ü View the infracost report in the Jenkins build output. The report will contain a breakdown of the cost estimates for each resource, as well as a total estimate for the entire infrastructure.
+ View the infracost report in the Jenkins build output. The report will contain a breakdown of the cost estimates for each resource, as well as a total estimate for the entire infrastructure.
 
-ü Optionally, you can configure infracost to fail the Jenkins build if the estimated cost exceeds a certain threshold. This can help prevent overspending on infrastructure costs.
+ Optionally, you can configure infracost to fail the Jenkins build if the estimated cost exceeds a certain threshold. This can help prevent overspending on infrastructure costs.
 
-ü By integrating infracost into your Jenkins workflow, you can easily track the cost of your infrastructure and make informed decisions about resource allocation and optimization.
+ By integrating infracost into your Jenkins workflow, you can easily track the cost of your infrastructure and make informed decisions about resource allocation and optimization.
 
 Apart from all Infracost supports multiple CI/CD platforms shown below,
 
@@ -214,48 +214,48 @@ Apart from all Infracost supports multiple CI/CD platforms shown below,
 
 ## 4.1.1 Installing extension
 
-ü Go to your organization setting page in Azure Devops
+ Go to your organization setting page in Azure Devops
 
 [https://dev.azure.com/{org\_name}/\_settings/extensions?tab=installed](https://dev.azure.com/%7Borg_name%7D/_settings/extensions?tab=installed)
 
-ü Go to the marketplace link and install Infracost extension
+ Go to the marketplace link and install Infracost extension
 
 [https://marketplace.visualstudio.com/items?itemName=Infracost.infracost-tasks](https://marketplace.visualstudio.com/items?itemName=Infracost.infracost-tasks)
 
-ü Go to the Infracost Dashboard URL and login with your account
+ Go to the Infracost Dashboard URL and login with your account
 
 [https://dashboard.infracost.io/](https://dashboard.infracost.io/)
 
 ## 4.1.2 Making the repo ready
 
-ü Upon login go to organization settings and copy the API and keep it in safe place for later use
+ Upon login go to organization settings and copy the API and keep it in safe place for later use
 
-ü If you do not already have a Terraform file, create one or coy from my repo,
+ If you do not already have a Terraform file, create one or coy from my repo,
 
 [https://github.com/Kunaldastiger/Terraform-Sample/blob/main/Virtual-machines/MicrosoftWindowsServer.tf](https://github.com/Kunaldastiger/Terraform-Sample/blob/main/Virtual-machines/MicrosoftWindowsServer.tf)
 
-ü Apart from this you must have a pipeline yaml file or a pipeline created in classic fashion,  
+ Apart from this you must have a pipeline yaml file or a pipeline created in classic fashion,  
 code for the same can be found here,
 
 [https://github.com/Kunaldastiger/Terraform-Sample/blob/main/azure-deployment.yaml](https://github.com/Kunaldastiger/Terraform-Sample/blob/main/azure-deployment.yaml)
 
-ü Now run the pipeline and check if resource is getting created or not, needless to say, you also need to have a service connection to azure.
+ Now run the pipeline and check if resource is getting created or not, needless to say, you also need to have a service connection to azure.
 
 If you do not have a service connection kindly follow below steps,
 
-Ø Sign in to Azure DevOps and navigate to the Project Settings page.
+ Sign in to Azure DevOps and navigate to the Project Settings page.
 
-Ø In the left menu, under “Pipelines,” select “Service Connections.”
+ In the left menu, under “Pipelines,” select “Service Connections.”
 
-Ø Click the “New Service Connection” button.
+ Click the “New Service Connection” button.
 
-Ø In the “Add new service connection” dialog, select “Azure Resource Manager” from the “Type” dropdown menu.
+ In the “Add new service connection” dialog, select “Azure Resource Manager” from the “Type” dropdown menu.
 
-Ø Give the service connection a name and click “Next.”
+ Give the service connection a name and click “Next.”
 
-Ø In the “Authorize Azure Resource Manager” dialog, select the Azure subscription you want to use and click “Authorize.”
+ In the “Authorize Azure Resource Manager” dialog, select the Azure subscription you want to use and click “Authorize.”
 
-Ø After the authorization process is complete, click “Finish” to create the service connection.
+ After the authorization process is complete, click “Finish” to create the service connection.
 
 You can now use this service connection in your Azure DevOps pipelines to access resources in your Azure subscription. For example, you could use it to deploy an application to an Azure web app, create or delete Azure resources, or run Azure Resource Manager templates.
 
@@ -368,42 +368,42 @@ In the pipeline, variables add the below variables
 
 ![](https://miro.medium.com/v2/resize:fit:643/1*N40nSKnlEH0lfQDLAvpEPQ.png)
 
-Ø To do the same,  
+ To do the same,  
 Sign into Azure DevOps and navigate to your project.
 
-Ø In the left menu, under “Pipelines,” select “Pipelines.”
+ In the left menu, under “Pipelines,” select “Pipelines.”
 
-Ø Select the pipeline you want to add a variable to and click the “Edit” button.
+ Select the pipeline you want to add a variable to and click the “Edit” button.
 
-Ø In the pipeline editor, click the “Variables” tab.
+ In the pipeline editor, click the “Variables” tab.
 
-Ø Click the “Add” button to add a new variable.
+ Click the “Add” button to add a new variable.
 
-Ø In the “Add variable” dialog, enter a name and value for the variable. You can also specify whether the variable is secret and should be masked in the log output.
+ In the “Add variable” dialog, enter a name and value for the variable. You can also specify whether the variable is secret and should be masked in the log output.
 
-Ø Click “Save” to add the variable to the pipeline.
+ Click “Save” to add the variable to the pipeline.
 
 You can now use the pipeline variable in your pipeline tasks by using the syntax $(variableName). You can also use pipeline variables to control the flow of your pipeline, by using conditions or branching.
 
 ## 4.1.1 Additional settings
 
-ü Enable pull request build triggers. Without this, Azure Pipelines do not trigger builds with the pull request ID, thus comments cannot be posted by the integration.
+ Enable pull request build triggers. Without this, Azure Pipelines do not trigger builds with the pull request ID, thus comments cannot be posted by the integration.
 
-ü From your Azure DevOps organization, click on your project > Project Settings > Repositories
+ From your Azure DevOps organization, click on your project > Project Settings > Repositories
 
-ü Select the repository that your created the pipeline for in step 1
+ Select the repository that your created the pipeline for in step 1
 
-ü Select the Policies tab and under the Branch Policies select on your default branch (master or main)
+ Select the Policies tab and under the Branch Policies select on your default branch (master or main)
 
-ü Scroll to Build Validation and click + sign to add one if you don’t have one already
+ Scroll to Build Validation and click + sign to add one if you don’t have one already
 
-ü Set your ‘Build pipeline’ to the pipeline you created in step 1, leave ‘Path filter’ blank, set ‘Trigger’ to Automatic, and ‘Policy requirement’ to Optional (you can also use Required but we don’t recommend it).
+ Set your ‘Build pipeline’ to the pipeline you created in step 1, leave ‘Path filter’ blank, set ‘Trigger’ to Automatic, and ‘Policy requirement’ to Optional (you can also use Required but we don’t recommend it).
 
-ü Enable Azure Pipelines to post pull request comments
+ Enable Azure Pipelines to post pull request comments
 
-ü From your Azure DevOps organization, click on your project > Project Settings > Repositories > your repository.
+ From your Azure DevOps organization, click on your project > Project Settings > Repositories > your repository.
 
-ü Click on the Securities tab, scroll down to Users and click on the ‘\[project name\] Build Service (\[org name\])’ user, and set the ‘Contribute to pull requests’ to Allow.
+ Click on the Securities tab, scroll down to Users and click on the ‘\[project name\] Build Service (\[org name\])’ user, and set the ‘Contribute to pull requests’ to Allow.
 
 If you are using github instead of azure repo the code for the same is available at below link,
 
@@ -411,46 +411,46 @@ If you are using github instead of azure repo the code for the same is available
 
 ## 4.1.2 Creating a Pull Request
 
-Ø Not you have to create a new branch and make some changes in the new branch to that the resource cost may increase or decrease,  
+ Not you have to create a new branch and make some changes in the new branch to that the resource cost may increase or decrease,  
 To create a new branch and do a pull request in an Azure Repo, you’ll need to follow these steps:
 
-Ø Navigate to the Azure Repos page in Azure DevOps.
+ Navigate to the Azure Repos page in Azure DevOps.
 
-Ø Select the repository that you want to create the branch and pull request in.
+ Select the repository that you want to create the branch and pull request in.
 
-Ø On the repository page, click on the “Branches” tab.
+ On the repository page, click on the “Branches” tab.
 
-Ø Click on the “New branch” button.
+ Click on the “New branch” button.
 
-Ø Enter a name for the new branch and select the branch that you want to base the new branch on.
+ Enter a name for the new branch and select the branch that you want to base the new branch on.
 
-Ø Click on the “Create branch” button to create the new branch.
+ Click on the “Create branch” button to create the new branch.
 
 Once the new branch has been created, you can switch to it and make the necessary changes. When you’re ready to submit the changes for review, you can follow the steps above to create a pull request.
 
-Ø Navigate to the Azure Repos page in Azure DevOps.
+ Navigate to the Azure Repos page in Azure DevOps.
 
-Ø Select the repository that you want to create the pull request in.
+ Select the repository that you want to create the pull request in.
 
-Ø On the repository page, click on the “Pull requests” tab.
+ On the repository page, click on the “Pull requests” tab.
 
-Ø Click on the “New pull request” button.
+ Click on the “New pull request” button.
 
-Ø Select the source and target branches for the pull request. The source branch is the branch that contains the changes that you want to merge, and the target branch is the branch that you want to merge the changes into.
+ Select the source and target branches for the pull request. The source branch is the branch that contains the changes that you want to merge, and the target branch is the branch that you want to merge the changes into.
 
-Ø Review the changes that will be included in the pull request. You can use the “Files changed” tab to view the individual changes and make any necessary adjustments.
+ Review the changes that will be included in the pull request. You can use the “Files changed” tab to view the individual changes and make any necessary adjustments.
 
-Ø Add a title and optional description for the pull request.
+ Add a title and optional description for the pull request.
 
-Ø If you want to request a review from specific people or teams, you can use the “Reviewers” field to add them.
+ If you want to request a review from specific people or teams, you can use the “Reviewers” field to add them.
 
-Ø When you’re ready to create the pull request, click on the “Create pull request” button.
+ When you’re ready to create the pull request, click on the “Create pull request” button.
 
 After this you should see your pipeline starts running as the trigger is set as main pull request!
 
 ## 4.1.3 Viewing the dashboard
 
-ü Log in to [https://dashboard.infracost.io/](https://dashboard.infracost.io/) and select the repo ,
+ Log in to [https://dashboard.infracost.io/](https://dashboard.infracost.io/) and select the repo ,
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*lr335paLDs5BXxIMUFiJdw.png)
 
@@ -460,37 +460,37 @@ The Infracost dashboard is a web-based tool that provides an overview of the cos
 
 The dashboard is divided into several sections:
 
-Ø Overview: This section provides a summary of your infrastructure costs, including the total cost of your resources and the breakdown of costs by resource type.
+ Overview: This section provides a summary of your infrastructure costs, including the total cost of your resources and the breakdown of costs by resource type.
 
-Ø Resources: This section lists all of the infrastructure resources in your project, along with their cost, resource type, and resource ID. You can use this section to view the cost of individual resources and identify opportunities for cost optimization.
+ Resources: This section lists all of the infrastructure resources in your project, along with their cost, resource type, and resource ID. You can use this section to view the cost of individual resources and identify opportunities for cost optimization.
 
-Ø Billing: This section provides information about your billing history, including the total amount billed, the billing period, and the date of the most recent bill.
+ Billing: This section provides information about your billing history, including the total amount billed, the billing period, and the date of the most recent bill.
 
-Ø Costs by resource type: This section displays a breakdown of your costs by resource type, showing you which types of resources are the most expensive.
+ Costs by resource type: This section displays a breakdown of your costs by resource type, showing you which types of resources are the most expensive.
 
-Ø Costs by tag: This section displays a breakdown of your costs by tag, allowing you to see which resources are associated with a particular tag and their costs.
+ Costs by tag: This section displays a breakdown of your costs by tag, allowing you to see which resources are associated with a particular tag and their costs.
 
-Ø Cost trends: This section displays a chart showing the trend in your infrastructure costs over time. You can use this chart to identify trends in your costs and identify opportunities for cost optimization.
+ Cost trends: This section displays a chart showing the trend in your infrastructure costs over time. You can use this chart to identify trends in your costs and identify opportunities for cost optimization.
 
 ## 4.1.1 Dashboard use cases
 
 There are several things that you can do from the Infracost dashboard to manage and optimize the cost of your infrastructure resources:
 
-Ø View a summary of your infrastructure costs: The dashboard provides an overview of your total infrastructure costs, as well as a breakdown of costs by resource type. This can help you understand the overall cost of your infrastructure and identify areas where you might be able to save money.
+ View a summary of your infrastructure costs: The dashboard provides an overview of your total infrastructure costs, as well as a breakdown of costs by resource type. This can help you understand the overall cost of your infrastructure and identify areas where you might be able to save money.
 
-Ø View detailed information about individual resources: The dashboard provides detailed information about each infrastructure resource, including its cost, resource type, and resource ID. This can help you understand the cost of individual resources and identify opportunities for cost optimization.
+ View detailed information about individual resources: The dashboard provides detailed information about each infrastructure resource, including its cost, resource type, and resource ID. This can help you understand the cost of individual resources and identify opportunities for cost optimization.
 
-Ø View your billing history: The dashboard includes a section on billing that provides information about your total amount billed, the billing period, and the date of the most recent bill. This can help you understand your billing history and track changes in your costs over time.
+ View your billing history: The dashboard includes a section on billing that provides information about your total amount billed, the billing period, and the date of the most recent bill. This can help you understand your billing history and track changes in your costs over time.
 
-Ø View costs by resource type and tag: The dashboard provides a breakdown of costs by resource type and tag, which can help you understand which types of resources the most expensive and which resources are are associated with a particular tag.
+ View costs by resource type and tag: The dashboard provides a breakdown of costs by resource type and tag, which can help you understand which types of resources the most expensive and which resources are are associated with a particular tag.
 
-Ø View cost trends over time: The dashboard includes a chart showing the trend in your infrastructure costs over time. This can help you identify trends in your costs and identify opportunities for cost optimization.
+ View cost trends over time: The dashboard includes a chart showing the trend in your infrastructure costs over time. This can help you identify trends in your costs and identify opportunities for cost optimization.
 
 ## 1\. Navigation
 
 ## 5.1 PR cost difference
 
-ü Click on the repo and select the repository you are using in the Infracost dashboard,
+ Click on the repo and select the repository you are using in the Infracost dashboard,
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*PoTqM2wA9xHgEBiPttzqSw.png)
 
@@ -502,19 +502,19 @@ Click to see the full cost estimate and it will open the detailed cost estimates
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*mneFcpcqfz2on7hPsXwpjQ.png)
 
-ü Here in the diff output tab you can see the difference that will occur if you merge the changes,
+ Here in the diff output tab you can see the difference that will occur if you merge the changes,
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*70chuQkrt0JR9XwO85e3BQ.png)
 
-ü Click on the Table output to see all the involved cost,
+ Click on the Table output to see all the involved cost,
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*GEAfTOXK8nr2XZyWioBklg.png)
 
-ü Under each resource you can see detailed cost report of the individual items,
+ Under each resource you can see detailed cost report of the individual items,
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*BUm6Xnn_x2r0dWh7dSvisA.png)
 
-ü You may also choose to export the data in CSV format by clicking on export data.
+ You may also choose to export the data in CSV format by clicking on export data.
 
 ## 6\. Diagram
 
@@ -524,21 +524,21 @@ I have prepared a simple flow diagram that is very easy to understand, let’s g
 
 ## 6.1 New Branch
 
-ü Here basically we are creating a new branch so that, we can start making changes to existing infrastructure, creating a new branch in a version control system like Azure Repos allows you to work on a copy of your codebase and make changes to it without affecting the main branch (often called the “master” branch). This is useful when you want to make changes to your infrastructure, as it allows you to test and validate your changes before merging them into the main branch.
+ Here basically we are creating a new branch so that, we can start making changes to existing infrastructure, creating a new branch in a version control system like Azure Repos allows you to work on a copy of your codebase and make changes to it without affecting the main branch (often called the “master” branch). This is useful when you want to make changes to your infrastructure, as it allows you to test and validate your changes before merging them into the main branch.
 
-ü By creating a new branch, you can make changes to your infrastructure in a safe and isolated environment, without worrying about breaking anything in the main branch. This can help you avoid disruptions to your infrastructure and ensure that any changes you make are well-tested and ready for production.
+ By creating a new branch, you can make changes to your infrastructure in a safe and isolated environment, without worrying about breaking anything in the main branch. This can help you avoid disruptions to your infrastructure and ensure that any changes you make are well-tested and ready for production.
 
 ## 6.2 Making changes
 
-ü When you make changes to your codebase in a feature branch, you are working on a copy of the code that is separate from the main branch (often called the “master” branch). This allows you to make changes and test them without affecting the main branch, which can be useful when you are developing new features or making changes to your infrastructure. So you can just pull the code to your IDE like VS code and start making changes in the TF file, once done you can then push it to the dev/feature branch,
+ When you make changes to your codebase in a feature branch, you are working on a copy of the code that is separate from the main branch (often called the “master” branch). This allows you to make changes and test them without affecting the main branch, which can be useful when you are developing new features or making changes to your infrastructure. So you can just pull the code to your IDE like VS code and start making changes in the TF file, once done you can then push it to the dev/feature branch,
 
 ## 6.3 Pull Request
 
-ü Create a pull request: When you’re ready to merge your changes into the main branch, you’ll need to create a pull request. This will allow other members of your team to review your changes and decide whether to merge them into the main branch.
+ Create a pull request: When you’re ready to merge your changes into the main branch, you’ll need to create a pull request. This will allow other members of your team to review your changes and decide whether to merge them into the main branch.
 
-ü Here once you create a pull request the pipeline will start running,
+ Here once you create a pull request the pipeline will start running,
 
-ü Once pipeline run finishes you can go to Infracost dashboard and view the cost estimation.
+ Once pipeline run finishes you can go to Infracost dashboard and view the cost estimation.
 
 ## 6.4 Release
 
@@ -554,39 +554,39 @@ It needs further research and collaboration.
 
 Infracost is an open-source tool though it has some pricing options, the free version provides plenty of options to get the job done, the features offered in the free versions are:
 
-ü Open source
+ Open source
 
-ü Get cost breakdowns and diffs
+ Get cost breakdowns and diffs
 
-ü CI/CD integrations (GitHub, GitLab, Bitbucket, Azure DevOps…)
+ CI/CD integrations (GitHub, GitLab, Bitbucket, Azure DevOps…)
 
-ü Works with Terraform Cloud & Terragrunt
+ Works with Terraform Cloud & Terragrunt
 
-ü Use our hosted Cloud Pricing API or self-host
+ Use our hosted Cloud Pricing API or self-host
 
-ü Community supported
+ Community supported
 
 For an annual fee of $30 some additionally functionalities can be availed,
 
-ü In addition to Infracost Community:
+ In addition to Infracost Community:
 
-ü Visibility across all changes, see pull requests that increase/decrease costs the most
+ Visibility across all changes, see pull requests that increase/decrease costs the most
 
-ü Guardrails with custom messages/notifications/actions
+ Guardrails with custom messages/notifications/actions
 
-ü Policies in pull requests (e.g. gp2 to gp3)
+ Policies in pull requests (e.g. gp2 to gp3)
 
-ü Custom price books and discounts
+ Custom price books and discounts
 
-ü Jira integration
+ Jira integration
 
-ü Custom reports
+ Custom reports
 
-ü GitHub App integration with pull request status/metadata
+ GitHub App integration with pull request status/metadata
 
-ü Team management
+ Team management
 
-ü SSO
+ SSO
 
 ## Read my blogs:
 [![Medium](https://i.imgur.com/TgYYM9w.png)](https://kunaldaskd.medium.com)
