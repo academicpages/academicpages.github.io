@@ -56,7 +56,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 + Artificial Organs, 2023 (SCI Q3)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="10%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Changjing Liu`, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  
