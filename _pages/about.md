@@ -20,6 +20,9 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 
 <br/>
 
+
+<span class='anchor' id='education'></span>
+
 🎓 Education
 ---
 
@@ -29,7 +32,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 **Sept. 2017 - Aug. 2021**
 + <img class="svg" src="/images/tongjiu_logo.png" width="30pt"> B.Eng. in Mechanical Engineering, School of Mechanical and Energy Engineering, Tongji University
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='work_experience'></span>
 
 🏭 Work experience
 ---  
@@ -47,6 +50,8 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 + Proposed algorithm on robotic arm for end-effector error estimation, enhancing antenna near-field test accuracy.
 
 <br/>
+
+<span class='anchor' id='publications'></span>
 
 📝 Publications
 ---  
@@ -69,7 +74,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 </div>
 </div>
 
-<span class='anchor' id='-lwzl'></span>
+<span class='anchor' id='projects'></span>
 
 💻 Projects
 ---  
@@ -88,6 +93,8 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 + Designed Web and WeChat remote medical monitoring platform for visualization and control.
 
 <br/>
+
+<span class='anchor' id='awards'></span>
 
 🏅 Awards and Honors
 ---  
