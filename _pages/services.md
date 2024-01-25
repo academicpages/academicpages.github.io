@@ -32,6 +32,7 @@ author_profile: true
 
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
 ======
+1. <span style="font-size: 16px;">2024 EuCNC & 6G Summit, Antwerp, Belgium, 2024.</span>
 1. <span style="font-size: 16px;">International Conference on Networks (ICN), Barcelona, Spain, 2024.</span>
 1. <span style="font-size: 16px;">International Conference on Computer Communications and Networks (ICCCN), Hawaii, USA, 2024.</span>
 1. <span style="font-size: 16px;">IEEE ICC, Communication QoS, Reliability and Modeling, 2024.</span>
