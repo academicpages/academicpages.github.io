@@ -1,3 +1,18 @@
 {
-  "index": "My Homepage"
+  "index": {
+    "title": "Home",
+    "theme": {
+      "breadcrumb": false,
+      "toc": true,
+      "pagination": false
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "theme": {
+      "breadcrumb": false,
+      "toc": true,
+      "pagination": false
+    }
+  }
 }
