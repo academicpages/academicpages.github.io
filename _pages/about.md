@@ -21,7 +21,8 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 <br/>
 
 🎓 Education
-======
+---
+
 **Sept. 2021 - Mar. 2024 (expected)** 
 + <img class="svg" src="/images/sjtu_logo.png" width="35pt"> M.Sc in Instrument Acience and Technology, School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University 
 
@@ -31,7 +32,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 <span class='anchor' id='-lwzl'></span>
 
 🏭 Work experience
-======
+---  
 **Jul. 2023 - Sept. 2023**
 
 Autopilot Software Engineer Intern, Huawei Technologies Co., Ltd.
@@ -48,7 +49,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 <br/>
 
 📝 Publications
-======
+---  
 
 **Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA**
 
@@ -75,7 +76,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 <br/>
 
 💻 Projects
-======
+---  
 **Pysicial simulation and defecation perception algorithm for artificial anal sphincter system**
 
 + Designed and optimized pressure sensors and embedded software for artificial anal sphincter ( AAS) system.
@@ -93,7 +94,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 <br/>
 
 🏅 Awards and Honors
-======
+---  
 + Graduate Outstanding Scholarship at Shanghai Jiao Tong University ( **Top 10%**), 2023
 + Second-Class Master's Academic Scholarship at Shanghai Jiao Tong University, 2022
 + First Prize Scholarship at Tongji University ( **Top 5%**), 2019-2020
