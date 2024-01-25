@@ -28,15 +28,6 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 **Sept. 2017 - Aug. 2021**
 + <img class="svg" src="/images/tongjiu_logo.png" width="30pt"> B.Eng. in Mechanical Engineering, School of Mechanical and Energy Engineering, Tongji University
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='/images/sjtu_logo.png' alt="sym" width="10%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
-</div>
-</div>
-
 <span class='anchor' id='-lwzl'></span>
 
 🏭 Work experience
@@ -64,6 +55,15 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 + **Changjing Liu**, Zhiwu Wang*, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen
 
 + Artificial Organs, 2023 (SCI Q3)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="10%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Changjing Liu`, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  
+[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://dx.doi.org/10.3390/s22093587) [[下载]](https://dx.doi.org/10.3390/s22093587)
+
+</div>
+</div>
 
 
 **Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking**
