@@ -1,128 +1,86 @@
 {
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./c4Diagram-6af2d31c.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./c4Diagram-6af2d31c.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_c4Diagram-6af2d31c_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./classDiagram-14bbef50.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./classDiagram-14bbef50.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_classDiagram-14bbef50_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./classDiagram-v2-36dc72da.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./classDiagram-v2-36dc72da.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_classDiagram-v2-36dc72da_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./erDiagram-4c71174c.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./erDiagram-4c71174c.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_erDiagram-4c71174c_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowDiagram-18ba08e1.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowDiagram-18ba08e1.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_flowDiagram-18ba08e1_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowDiagram-v2-d21afba7.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowDiagram-v2-d21afba7.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_flowDiagram-v2-d21afba7_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowchart-elk-definition-d0e11316.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./flowchart-elk-definition-d0e11316.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_flowchart-elk-definition-d0e11316_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./ganttDiagram-d9c0fa4d.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./ganttDiagram-d9c0fa4d.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_ganttDiagram-d9c0fa4d_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./gitGraphDiagram-20ac17d4.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./gitGraphDiagram-20ac17d4.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_gitGraphDiagram-20ac17d4_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./infoDiagram-98fa4f49.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./infoDiagram-98fa4f49.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_infoDiagram-98fa4f49_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./journeyDiagram-0938c3e3.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./journeyDiagram-0938c3e3.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_journeyDiagram-0938c3e3_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./mindmap-definition-e19a4bed.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./mindmap-definition-e19a4bed.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_mindmap-definition-e19a4bed_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./pieDiagram-cc8a845d.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./pieDiagram-cc8a845d.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_pieDiagram-cc8a845d_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./quadrantDiagram-d70906b3.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./quadrantDiagram-d70906b3.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_quadrantDiagram-d70906b3_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./requirementDiagram-025ed9cd.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./requirementDiagram-025ed9cd.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_requirementDiagram-025ed9cd_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./sankeyDiagram-86f1d020.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./sankeyDiagram-86f1d020.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_sankeyDiagram-86f1d020_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./sequenceDiagram-d8e7905c.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./sequenceDiagram-d8e7905c.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_sequenceDiagram-d8e7905c_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./stateDiagram-b8fc1844.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./stateDiagram-b8fc1844.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_stateDiagram-b8fc1844_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./stateDiagram-v2-8daeecfe.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./stateDiagram-v2-8daeecfe.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_stateDiagram-v2-8daeecfe_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./timeline-definition-026dd3a6.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./timeline-definition-026dd3a6.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_timeline-definition-026dd3a6_js.js"
-    ]
+    "id": null,
+    "files": []
   },
   "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./xychartDiagram-a7b7bb0e.js": {
-    "id": "../node_modules/mermaid/dist/mermaid-04fb0060.js -> ./xychartDiagram-a7b7bb0e.js",
-    "files": [
-      "static/chunks/node_modules_mermaid_dist_xychartDiagram-a7b7bb0e_js.js"
-    ]
+    "id": null,
+    "files": []
   }
 }
