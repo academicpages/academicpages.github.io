@@ -1,0 +1,18 @@
+{
+  "index": {
+    "title": "About Me",
+    "theme": {
+      "breadcrumb": false,
+      "toc": true,
+      "pagination": false
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "theme": {
+      "breadcrumb": false,
+      "toc": true,
+      "pagination": false
+    }
+  }
+}
