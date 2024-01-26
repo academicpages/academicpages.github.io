@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pulin Disanayaka"
   avatar           : "profile_1.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "👋 Hello! I'm Pulin Disanayaka, a passionate Machine Learning Engineer currently contributing my skills and knowledge at Dialog Axiata. I find immense joy in unraveling the mysteries of artificial intelligence, particularly in the realm of machine learning."
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Pulin-Dissanayaka"
   uri              :
   bitbucket        :
   codepen          :
