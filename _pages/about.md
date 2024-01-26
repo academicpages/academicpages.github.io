@@ -80,12 +80,19 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 💻 Projects
 ---  
+
+<!-- <img src='/images/aas1.gif' width="50%">
+<img src='/images/aas2.gif' width="50%"> -->
+<p style="display: flex">
+<img src="/images/aas1.gif">
+<img src="/images/aas2.gif">
+</p>
 **Pysicial simulation and defecation perception algorithm for artificial anal sphincter system**
 
-+ Designed and optimized pressure sensors and embedded software for artificial anal sphincter ( AAS) system.
++ Designed and optimized the pysicial artificial anal sphincter ( AAS) system.
 + Proposed a simulation platform of AAS mechanical motion and pressure sensors with intestinal environment using [SOFA](https://www.sofa-framework.org/community/doc/) ( framework for medical simulation and robotics), and evaluated it in vitro experiments.
 + Proposed a hybird LSTM-Kalman algorithm for defecation perception reconstruction, and used the proposed simulation platform for dataset expansion and model training.
-+ Submitted [Pull Request](https://github.com/sofa-framework/sofa/pull/3164) to solve variable compatibility in SOFA, and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
++ Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
 
 <!-- ![tupian](https://github.com/Changjing-Liu/Changjing-Liu.github.io/blob/master/images/my.png) -->
 
