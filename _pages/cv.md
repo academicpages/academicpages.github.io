@@ -23,7 +23,7 @@ Work experience
   * Developing inhouse propriatary modules to reduce the development time by Data Scientist
 
 * Nov 2022 - Mar 2023: Data Scientist(Intern), WSO2
-  * Worked in the Growth Hacking team at WSO2, did R&D work on user behavioural to identify abnormal usage in Choreo platform.
+  * Worked in the Growth Hacking team at WSO2, did R&D work on [Choreo](https://wso2.com/choreo/).
   * Duties : Developing a dashboard to analyze the behaviour of the Choreo users and identify any abnormal usage or behaviours.
   
   
