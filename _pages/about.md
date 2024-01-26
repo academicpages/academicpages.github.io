@@ -8,16 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani and I am a computer scientist passionate about designing
-programming language-based tools to enable more generalizable, interpretable, and reliable machine learning
-algorithms.
+My name is Kia Rahmani, and I am a computer scientist passionate about designing generalizable, interpretable, and reliable machine learning algorithms using the theory of programming languages.
 
 
-I am currently a postdoctoral fellow at the [computer science department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/). I am a member of the [Autonomous Mobile Robotics Laboratory](https://amrl.cs.utexas.edu/), where I am supervised by Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
+I currently serve as a postdoctoral fellow at the [Computer Science Department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
 
 
-The primary focus of my research is on neurosymbolic algorithms for sequential decision making. My ultimate scientific goal is to design autonomous agents that can provide formal explanation and guarantees about their behaviors. 
-
+The current focus of my research is on neuro-symbolic algorithms for sequential decision making. My ultimate scientific goal is to train intelligent agents that can provide formal explanation and guarantees about their behaviors. 
 
 Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
@@ -50,7 +47,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     </font> 
     <br /> 
     <font size="2">
-      <a href="https://popl24.sigplan.org/"> 
+      <a href="https://dl.acm.org/doi/10.1145/3632860"> 
       [POPL'24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages]</a>
       <a href="/files/popl24.pdf">
       [pre-print]
