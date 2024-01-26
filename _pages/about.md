@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a computer science graduate student at [Viterbi School of Engineering](https://viterbischool.usc.edu/) of University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I work in the intersection of Software Analysis and LLMs.
 
-Additionally, I play classical piano and am eagerly interested in social sciences and human social behavior.
+Additionally, I play classical piano and am eagerly interested in social sciences, especially human social behavior, and computational social science.
 
 <br>
 
