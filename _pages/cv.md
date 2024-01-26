@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Pulin Disanayaka"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Colombo Faculty of Science, B.Sc in Statistics and Computer Science, 2023
+* Coventry University - Coventry, B.Sc Data Science, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2023 - Present: Machine Learning Engineer(DevOps), Dialog Axiata
+  * Developing a model pipeline using CI/CD framework to segment customers based on their usage, behavioural, demographic features.
+  * Developing an Upsell package recommendation system to recommend customers with newer and better packages.
+  * Duties : Following CI/CD framework for development to ease the development, testing and maintainability.
+  * Developing inhouse propriatary modules to reduce the development time by Data Scientist
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2022 - Mar 2023: Data Scientist(Intern), WSO2
+  * Worked in the Growth Hacking team at WSO2, did R&D work on user behavioural to identify abnormal usage in Choreo platform.
+  * Duties : Developing a dashboard to analyze the behaviour of the Choreo users and identify any abnormal usage or behaviours.
+  
   
 Skills
 ======
