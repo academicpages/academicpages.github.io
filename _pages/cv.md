@@ -29,12 +29,15 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Python
+* AWS
+  * SageMaker
+  * CodeCommit(Git)
   * Sub-skill 2.3
-* Skill 3
+  * Cloud Watch
+* SnowFlake
+  * Procedures (Python, JS)
+  * DAG Creation
 
 Publications
 ======
