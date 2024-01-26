@@ -25,9 +25,9 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: ./blog
+    # defaults:
+      # run:
+        # working-directory: ./blog
     steps:
       - uses: actions/checkout@v3
       - name: Set up Node.js
@@ -42,7 +42,7 @@ jobs:
           sudo mv hugo /usr/local/bin/
           rm hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.tar.gz
           hugo version
-        # working-directory: ./blog/
+        working-directory: ./blog/
 
       - name: Install Go
         run: |
@@ -51,19 +51,19 @@ jobs:
           echo "export PATH=$PATH:/usr/local/go/bin" >> $GITHUB_ENV
           rm go${{ env.GO_VERSION }}.linux-amd64.tar.gz
           go version
-        # working-directory: ./blog
+        working-directory: ./blog
 
       - name: Setup Project
         run: npm run project-setup
-        # working-directory: ./blog
+        working-directory: ./blog
 
       - name: Install npm dependencies
         run: npm install
-        # working-directory: ./blog
+        working-directory: ./blog
 
       - name: Publish to GitHub Pages
         run: npm run build
-        # working-directory: ./blog
+        working-directory: ./blog
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
