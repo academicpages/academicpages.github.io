@@ -267,34 +267,34 @@ Awards
 
 Projects and Research
 ======
-* 2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation
+* <span style="color: blue; font-weight: bold;">2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation</span>
   
   <div style="text-align: justify">
     This project proposes an approach using a vision-aided prosthesis arm to assist people with upper limb disabilities in efficiently interacting with objects. A crucial part of the project involves using the DenseFusion algorithm to estimate the 6D pose of the object to be grasped. In this paper our primary focus was on accurately determining the position and orientation of objects in a kitchen environment, specifically utensils, to enable users to pick them up with ease. Building upon the foundational work, this project extends the vision system's capabilities by implementing pose estimation through RGB, depth, and binary mask images of the object and scene. To ensure the robust performance of our proposed system, we generated a proprietary dataset using Unity and HTC VIVE headsets. The dataset comprises essential information for the DenseFusion algorithm, structured in the LINEMOD dataset format. The Unity-based process involves 3D modeling of the object to be grasped, and extracting intrinsic and extrinsic parameters, including rotational and translational matrices, and RGB images. For the success of unity modeling, we have adopted methods from a research  team HYBRIDE from Institut de Neurosciences Cognitives et Intégratives d’Aquitaine (INCIA). To assess the system's performance we compute error functional MSE after the back projection of the estimated pose into the image plane.  
-    As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future. 
+    As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future.
     
-    [Read the full paper on Overleaf](https://www.overleaf.com/read/sdqdmvdwwtmd#fbbe29)
+    * [Read the full paper on Overleaf](https://www.overleaf.com/read/sdqdmvdwwtmd#fbbe29)
     
   </div>
   
   * [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
 _____________________________________________________________________________________ 
 
-* 2023/24, Implementation of different image segmentation algorithm
+* <span style="color: blue; font-weight: bold;">2023/24, Implementation of different image segmentation algorithm</span>
   <div style="text-align: justify">
-    The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications. 
+    The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications.
     
-[Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
+    * [Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
 
   </div>
 
 * <span style="color: blue; font-weight: bold;">2023/24, 3D Tetris Game using Augmented Realty(AR)</span>
   [Gitlab repository](https://gitlab.emi.u-bordeaux.fr/tlengfeld/ar-tetris-app)
 
-* 2023/24, AI Based Real Time Fitness Assistance
+* <span style="color: blue; font-weight: bold;">2023/24, AI Based Real Time Fitness Assistance</span>
     [Github Repository](https://github.com/getnetdemil/Real--Time-Fitness-Assistance-)
 
-* 2023/24, Explainable AI Projects
+* <span style="color: blue; font-weight: bold;">2023/24, Explainable AI Projects</span>
   * Gaze Fixation Density Maps / Wooding maps [Report](https://www.overleaf.com/read/tcmmggwntjqm#7ec2ee)
   * Advanced representation of saliency maps [Report](https://www.overleaf.com/read/zxjkqbjptqkt#a493d1)
   * Blackbox Explainer Methods [Report](https://www.overleaf.com/read/gnycrkkkyxfv#fcd6c0)
@@ -305,22 +305,22 @@ ________________________________________________________________________________
   * [University of Bordeaux](https://www.u-bordeaux.fr/en)
 ___________________________________________________________
 
-* 2023, 3D Reconstruction of an Object/Scene with Camera Calibration and Feature Matching
+* <span style="color: blue; font-weight: bold;">2023, 3D Reconstruction of an Object/Scene with Camera Calibration and Feature Matching</span>
   
   <div style="text-align: justify">
     In this project, I have worked on reconstructing 3D objects and scenes by utilizing camera calibration and feature-matching techniques. This is a cutting- 
      edge application of computer vision, which has a wide range of potential applications in fields like augmented reality, archaeology, and robotics
   </div>
   
-* 2023, Computer Vision Projects in Object Detection and Tracking
+* <span style="color: blue; font-weight: bold;">2023, Computer Vision Projects in Object Detection and Tracking</span>
   
   <div style="text-align: justify">
     This research project, conducted in 2023 as part of a video sequence analysis course, focuses on the realm of computer vision with an emphasis on object detection and tracking. It delves into state-of-the-art methods for identifying and monitoring objects within video data. My experience involves applying techniques such as particle filters, Kalman filters, and video segmentation, directly relevant to enhancing object tracking capabilities. The outcomes of this research have potential applications in diverse fields, including surveillance and autonomous vehicles.
   </div>
   
-* 2023, Advanced Projects in People Detection and Biometric Recognition
+* <span style="color: blue; font-weight: bold;">2023, Advanced Projects in People Detection and Biometric Recognition</span>
   
-* 2023, Multi-Database Evaluation and Enhancement of DeepFake Detection Systems
+* <span style="color: blue; font-weight: bold;">2023, Multi-Database Evaluation and Enhancement of DeepFake Detection Systems</span>
   
   <div style="text-align: justify">
     Its part of People Detection and Biometric Recognition course in 2023, I gained hands-on experience in several critical areas. This included using YOLOv5 for people detection, which is crucial for surveillance and tracking. I also learned signature recognition, enabling me to analyze handwritten signatures for document verification. Face recognition was another highlight, allowing me to identify individuals based on facial features, valuable for security and access control. Additionally, I acquired skills in deepfake recognition, an essential tool in detecting manipulated media. Finally, I worked in biometric data recognition, encompassing fingerprint, iris, and voice recognition, providing knowledge for secure authentication and identification systems. This comprehensive training has equipped me with practical expertise applicable in various industries, from law enforcement to digital security  and authentication technologies.
@@ -328,25 +328,25 @@ ___________________________________________________________
   
   * [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
 ____________________________________________________________________    
-* 2022, Predicting Air Pressure System (APS) Failure at Scania Truck
+* <span style="color: blue; font-weight: bold;">2022, Predicting Air Pressure System (APS) Failure at Scania Truck</span>
   
-* 2022, Heart (Murmur Sound) Diseases Classification using Machine Learning
+* <span style="color: blue; font-weight: bold;">2022, Heart (Murmur Sound) Diseases Classification using Machine Learning</span>
   
-* 2022, Custom Data Processing Program for Page Alignment, Optical Marker Detection, and Handwritten Data Digitization
+* <span style="color: blue; font-weight: bold;">2022, Custom Data Processing Program for Page Alignment, Optical Marker Detection, and Handwritten Data Digitization</span>
   
-* 2022, Custom Coin Detector and Identifier: Accurate Currency Quantification from Images
+* <span style="color: blue; font-weight: bold;">2022, Custom Coin Detector and Identifier: Accurate Currency Quantification from Images</span>
   
-* 2022, Aerial Image Restoration and Land Type Identification System Using Customized Deconvolution and Texture Analysis
+* <span style="color: blue; font-weight: bold;">2022, Aerial Image Restoration and Land Type Identification System Using Customized Deconvolution and Texture Analysis</span>
   
-* 2022, Custom Human Action Classifier Using 3D GLOH Descriptors and SVM
+* <span style="color: blue; font-weight: bold;">2022, Custom Human Action Classifier Using 3D GLOH Descriptors and SVM</span>
   
   * [Pázmány Péter Catholic University](https://ppke.hu/en)
 _______________________________________________________________
-* 2022, Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture
+* <span style="color: blue; font-weight: bold;">2022, Performance Analysis of 60-120 GHz mmWave Ranges Radio Over Fiber with Multi Input Multi Output Architecture</span>
  
-* 2017 – 2018,  Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language
+* <span style="color: blue; font-weight: bold;">2017 – 2018,  Design and Implementation of Smart Microscope For Automatic Protozoan Disease Detection and Diagnosis Using Python Programming Language</span>
   
-* 2016 – 2017,  Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language
+* <span style="color: blue; font-weight: bold;">2016 – 2017,  Design of Smart Microscope for Amoeba Disease Detection Using MATLAB Programing Language</span>
   * [Bahir Dar University](https://www.bdu.edu.et/)
 
 <div style="text-align: center;">
