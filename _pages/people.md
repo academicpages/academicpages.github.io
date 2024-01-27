@@ -7,19 +7,26 @@ author_profile: true
 
 ## Current
 ### Ph.D.
-<!-- ![AAA](../images/gallery/img1.jpg) -->
+| ![Person 1](path/to/person1.jpg) | ![Person 2](path/to/person2.jpg) | ![Person 3](path/to/person3.jpg) | ![Person 4](path/to/person4.jpg) |
+| :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: |
+|          Name 1                   |          Name 2                   |          Name 3                   |          Name 4                   |
 
-| ![Person 1](../images/gallery/img1.jpg) | ![Person 2](../images/gallery/img1.jpg) | ![Person 3](../images/gallery/img1.jpg) | ![Person 4](../images/gallery/img1.jpg) |
+
+<!-- ::: {layout-ncol=5} -->
+
+<!-- | ![Person 1](../images/gallery/img1.jpg) | ![Person 2](../images/gallery/img1.jpg) | ![Person 3](../images/gallery/img1.jpg) | ![Person 4](../images/gallery/img1.jpg) |
 | ------------------------- | ------------------------- | ------------------------- | ------------------------- |
 | Name 1                    | Name 2                    | Name 3                    | Name 4                    |
 
-| ![Person 1](../images/gallery/img1.jpg) | ![Person 2](../images/gallery/img1.jpg) |
-| ------------------------- | ------------------------- | ------------------------- |
-| Name 1                    | Name 2                    | Name 3                    |
+| ![Person 1](../images/gallery/img1.jpg) | ![Person 2](../images/gallery/img1.jpg) | |
+| ------------------------- | ------------------------- | ------------------------- | |
+| Name 1                    | Name 2                    | Name 3                    | | -->
 
 - Pramod Kumar
 - Tom Glint Isaac
 - Kailash Prasad (Prime Minister Research Fellow, Intel India Research Fellow)
+
+![AAA](../images/gallery/img1.jpg)
 
 ### M.Tech
 
