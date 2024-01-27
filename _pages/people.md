@@ -60,11 +60,11 @@ author_profile: true
 
 ### M.Tech
 2023
-- Alok Pradhan
-- Yaswanth
+- [Alok Pradhan](https://www.linkedin.com/in/alokpradhan0001/)
+- [Yaswanth](https://www.linkedin.com/in/yaswanth-ram-mittapalli/)
 
 2022
-- Aditya Biswas - Thesis Title SRAM based In Memory Computing for Energy Efficient AI system - Working as R&D Engineer, Synopsys Inc.
+- [Aditya Biswas](https://www.linkedin.com/in/aditya-biswas-330886179/) - Thesis Title SRAM based In Memory Computing for Energy Efficient AI system - Working as R&D Engineer, Synopsys Inc.
 
 2021
 - Anoop Kumar - Working as Hardware Engineer, Qualcomm
@@ -114,8 +114,8 @@ author_profile: true
 - Bala Saranya Y - Thesis Title Evaluating the scaling effects on synchronizers and global interconnects in multi-core SoCs - Working as SSC at Infosys
 
 ### B.Tech
-- Sai Shubham
-- Shubham Pandit
+- [Sai Shubham](https://www.linkedin.com/in/sai-shubham-38218a190/)
+- [Shubham Pandit](https://www.linkedin.com/in/shubham-pandit-065667193/)
 - Earandi Saineeth
 - Dheeraj Kumar
 - Sai Ruthvik
