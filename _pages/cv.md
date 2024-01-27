@@ -1,3 +1,10 @@
+<style>
+  /* CSS code to change text color */
+  .project-item {
+    color: red; /* Change 'red' to the color you desire */
+  }
+</style>
+* <span class="project-item">2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation</span>
 ---
 layout: archive
 title: "Resume" 
@@ -54,6 +61,7 @@ Skills, Tools, and Libraries
 Programming Languages
 ======
 
+  <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/python.png" alt="Python" style="width: 35px;">
     <br>
@@ -62,7 +70,6 @@ Programming Languages
     </div>
   </div>
   
-  <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/c++.png" alt="C++" style="width: 35px;">
     <br>
@@ -282,9 +289,9 @@ ________________________________________________________________________________
 
 * 2023/24, Implementation of different image segmentation algorithm
   <div style="text-align: justify">
-    The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications.
+    The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications. 
     
-    [Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
+[Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
   </div>
 
 * 2023/24, 3D Tetris Game using Augmented Realty(AR)
