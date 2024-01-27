@@ -8,8 +8,8 @@ author_profile: true
 ## Current
 ### Ph.D.
 - Pramod Kumar
-- Tom Glint Isaac
-- Kailash Prasad (Prime Minister Research Fellow, Intel India Research Fellow)
+- [Tom Glint Isaac](https://sites.google.com/view/tomglint/home) (Ph.D 2023)
+- [Kailash Prasad](https://kailashprasad.com/) (Ph.D 2023) (Prime Minister Research Fellow, Intel India Research Fellow)
 <!-- | ![Person 1](path/to/person1.jpg) | ![Person 2](path/to/person2.jpg) | ![Person 3](path/to/person3.jpg) | ![Person 4](path/to/person4.jpg) |
 | :------------------------------: | :------------------------------: | :------------------------------: | :------------------------------: |
 |          Name 1                   |          Name 2                   |          Name 3                   |          Name 4                   | -->
@@ -32,11 +32,18 @@ author_profile: true
 
 
 ### B.Tech
-- Neel Shah
-- Jinay Dagli
-- Aryan Gupta
-- Patel Vrajesh
-- Nitesh Maurya
+- [Neel Shah](https://www.linkedin.com/in/neel-shah-756612218/)
+- [Jinay Dagli](https://jinay08.github.io/)
+- [Aryan Gupta](https://www.linkedin.com/in/aryan-gupta-4a4682202/)
+- [Patel Vrajesh](https://www.linkedin.com/in/vrajesh-patel-b3b76a214/)
+- [Nitesh Maurya](https://www.linkedin.com/in/nitesh-maurya/)
+- [Aravind Krishna](https://www.linkedin.com/in/aravind-krishna-919a26202/)
+- [Ruchit Chudasama](https://www.linkedin.com/in/ruchit-chudasama-a04465219/)
+- [Sukanya More](https://www.linkedin.com/in/sukanya-more-341485202/)
+- [R Yeeshu Dhurandhar](https://www.linkedin.com/in/ryeeshudhurandhar/)
+- [Mithil Pechimuthu](https://www.linkedin.com/in/mithil-pechimuthu-82830525a/)
+- [Zaqi Momin](https://www.linkedin.com/in/zaqi-momin-9969aa233/)
+- [Mihir Agarwal](https://www.linkedin.com/in/mihir-agarwal-33b913188/)
 
 ### Research Staff
 - Govind Prasad
