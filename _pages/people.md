@@ -5,34 +5,31 @@ permalink: /people/
 author_profile: true
 ---
 
-Current
-======
-
-## Ph.D. Students
+# Current
+### Ph.D.
 - Pramod Kumar
 - Tom Glint Isaac
 - Kailash Prasad ,(Prime Minister Research Fellow, Intel India Research Fellow)
 
-M.Tech Students
-======
+### M.Tech
 
 
 
-B.Tech Students
-======
+
+### B.Tech
 - Neel Shah
 - Jinay Dagli
 - Aryan Gupta
 - Patel Vrajesh
 - Nitesh Maurya
 
-Research Staff
-======
+### Research Staff
 - Govind Prasad
 - Daya Prashanth
 
-Alumni Ph.D. Students
-======
+# Alumni 
+
+### Ph.D.
 - Neelam Surana - Senior ASIC Engineer, NVIDIA
 - [Chandan Kumar Jha](https://chajha.github.io/) - Post Doctoral Researcher at the Cyber-Physical Systems of the Deutsches Forschungszentrum für Künstliche
 - [Sneha N Ved](https://www.linkedin.com/in/sneha-ved/) - Senior Product Manager,Pushpay
