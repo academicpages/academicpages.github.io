@@ -271,25 +271,24 @@ Projects and Research
   
   <div style="text-align: justify">
     This project proposes an approach using a vision-aided prosthesis arm to assist people with upper limb disabilities in efficiently interacting with objects. A crucial part of the project involves using the DenseFusion algorithm to estimate the 6D pose of the object to be grasped. In this paper our primary focus was on accurately determining the position and orientation of objects in a kitchen environment, specifically utensils, to enable users to pick them up with ease. Building upon the foundational work, this project extends the vision system's capabilities by implementing pose estimation through RGB, depth, and binary mask images of the object and scene. To ensure the robust performance of our proposed system, we generated a proprietary dataset using Unity and HTC VIVE headsets. The dataset comprises essential information for the DenseFusion algorithm, structured in the LINEMOD dataset format. The Unity-based process involves 3D modeling of the object to be grasped, and extracting intrinsic and extrinsic parameters, including rotational and translational matrices, and RGB images. For the success of unity modeling, we have adopted methods from a research  team HYBRIDE from Institut de Neurosciences Cognitives et Intégratives d’Aquitaine (INCIA). To assess the system's performance we compute error functional MSE after the back projection of the estimated pose into the image plane.  
-As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future. [Read the full paper on Overleaf](https://www.overleaf.com/read/sdqdmvdwwtmd#fbbe29)
+As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future. 
+[Read Report](https://www.overleaf.com/read/sdqdmvdwwtmd#fbbe29)
     
   </div>
   
   * [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
 _____________________________________________________________________________________ 
 
-* <span style="color: #7D3C98; font-weight: bold;">2023/24, Implementation of different image segmentation algorithm</span>
+* <span style="color: #7D3C98; font-weight: bold;">2023/24, Implementation of Different Image Segmentation Algorithm</span>
   <div style="text-align: justify">
-    The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications.
-    
-    [Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
-
+    This project aimed to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating a background. Lastly, the DeepLabV3+ model, widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed con,trol, which is essential for crop yield improvement. The project successfully achieved the desired results and demonstrated the potential of using deep learning models for agricultural applications.
+[Read Report](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
   </div>
 
-* <span style="color: #7D3C98; font-weight: bold;">2023/24, 3D Tetris Game using Augmented Realty(AR)</span>
+* <span style="color: #7D3C98; font-weight: bold;">2023/24, 3D Tetris Game using Augmented Reality(AR)</span>
   [Gitlab repository](https://gitlab.emi.u-bordeaux.fr/tlengfeld/ar-tetris-app)
 
-* <span style="color: #7D3C98; font-weight: bold;">2023/24, AI Based Real Time Fitness Assistance</span>
+* <span style="color: #7D3C98; font-weight: bold;">2023/24, AI-Based Real-Time Fitness Assistance</span>
     [Github Repository](https://github.com/getnetdemil/Real--Time-Fitness-Assistance-)
 
 * <span style="color: #7D3C98; font-weight: bold;">2023/24, Explainable AI Projects</span>
@@ -298,7 +297,7 @@ ________________________________________________________________________________
   * Blackbox Explainer Methods [Report](https://www.overleaf.com/read/gnycrkkkyxfv#fcd6c0)
   * White-Box Explanation Methods [Report](https://www.overleaf.com/read/bpkjbbyjfwnt#358c72)
   * Evaluations of Features Attribution Methods [Report](https://www.overleaf.com/read/qrfxynkvbfbp#33a234)
-* 2023/24, Acquisition and Reconstruction projects
+* <span style="color: #7D3C98; font-weight: bold;">2023/24, Acquisition and Reconstruction projects</span>
 
   * [University of Bordeaux](https://www.u-bordeaux.fr/en)
 ___________________________________________________________
