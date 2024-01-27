@@ -25,7 +25,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 
 <span class='anchor' id='educations'></span>
 
-# 🎓 Education
+# 🎓 Educations
 ---
 
 **Sept. 2021 - Mar. 2024 (expected)** 
