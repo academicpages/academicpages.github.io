@@ -131,7 +131,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 <br/> -->
 
-**Remote medical monitoring system based on IOT** [[Project]](https://github.com/Changjing-Liu/remote-medical-monitoring)
+**Remote Medical Monitoring System Based on IOT** [[Project]](https://github.com/Changjing-Liu/remote-medical-monitoring)
 
 <div class='paper-box'>
 
