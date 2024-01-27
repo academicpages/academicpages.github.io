@@ -10,38 +10,6 @@ redirect_from:
 {% include base_path %}
 [English PDF](https://getnetdemil.github.io/files/Getnet_Demil_Resume.pdf)
 
-Education
-======
-<div class="timeline">
-  <ul>
-    <li class="left">
-      <a href="https://www.u-bordeaux.fr/en">University of Bordeaux-UBx, France</a>
-      <p>Master's degree, Image Processing and Computer Vision</p>
-      <p>2022 - 2024</p>
-    </li>
-    <li class="right">
-      <a href="https://www.uam.es/uam/inicio">Autonomous University of Madrid-UaM, Spain</a>
-      <p>Master's degree, Image Processing and Computer Vision</p>
-      <p>2022 - 2024</p>
-    </li>
-    <li class="left">
-      <a href="https://ppke.hu/en">Pázmány Péter Catholic University-PPCU, Hungary</a>
-      <p>Master's degree, Computer Science and Engineering Specialization in Image Processing and Computer Vision</p>
-      <p>2022 - 2024</p>
-    </li>
-    <li class="right">
-      <a href="https://bit.bdu.edu.et/">Bahir Dar Institute of Technology, Bahir Dar University-BDU, Ethiopia</a>
-      <p>Master of Science - MS, Communication System Engineering</p>
-      <p>2020 - 2022</p>
-    </li>
-    <li class="left">
-      <a href="https://bit.bdu.edu.et/">Bahir Dar Institute of Technology, Bahir Dar University-BDU, Ethiopia</a>
-      <p>Bachelor of Science - BS, Electrical, Electronics and Communications Engineering</p>
-      <p>2013 - 2018</p>
-    </li>
-  </ul>
-</div>
-
 
 Education
 ======
