@@ -5,8 +5,10 @@ permalink: /people/
 author_profile: true
 ---
 
-Ph.D. Students
+Current
 ======
+
+## Ph.D. Students
 - Pramod Kumar
 - Tom Glint Isaac
 - Kailash Prasad ,(Prime Minister Research Fellow, Intel India Research Fellow)
