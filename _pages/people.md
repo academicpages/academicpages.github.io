@@ -1,41 +1,42 @@
 ---
 layout: archive
 title: "People"
-permalink: /people/
+permalink: people/
 author_profile: true
 ---
 
-# Current
-### Ph.D.
+## Current
+#### Ph.D.
 - Pramod Kumar
 - Tom Glint Isaac
-- Kailash Prasad ,(Prime Minister Research Fellow, Intel India Research Fellow)
+- Kailash Prasad (Prime Minister Research Fellow, Intel India Research Fellow)
 
-### M.Tech
-
-
+#### M.Tech
 
 
-### B.Tech
+
+
+#### B.Tech
 - Neel Shah
 - Jinay Dagli
 - Aryan Gupta
 - Patel Vrajesh
 - Nitesh Maurya
 
-### Research Staff
+#### Research Staff
 - Govind Prasad
 - Daya Prashanth
 
-# Alumni 
+#### Outside IITGn Interns
 
-### Ph.D.
+## Alumni 
+
+#### Ph.D.
 - Neelam Surana - Senior ASIC Engineer, NVIDIA
 - [Chandan Kumar Jha](https://chajha.github.io/) - Post Doctoral Researcher at the Cyber-Physical Systems of the Deutsches Forschungszentrum für Künstliche
 - [Sneha N Ved](https://www.linkedin.com/in/sneha-ved/) - Senior Product Manager,Pushpay
 
-Alumni M.Tech
-======
+#### M.Tech
 2023
 - Alok Pradhan
 - Yaswanth
@@ -90,8 +91,7 @@ Alumni M.Tech
 
 - Bala Saranya Y - Thesis Title Evaluating the scaling effects on synchronizers and global interconnects in multi-core SoCs - Working as SSC at Infosys
 
-Alumni B.Tech
-======
+#### B.Tech
 - Sai Shubham
 - Shubham Pandit
 - Earandi Saineeth
@@ -122,9 +122,10 @@ Alumni B.Tech
 - Sai Theja Lolla
 - Sushmitha Yalla
 
-Alumni Research Staff
-======
+#### Research Staff
 - Ankit Kumar Verma
 - Sumit Walia
 - Divya Gajera
 - Vibhor Srivastava
+
+#### Outside IITGn Interns
