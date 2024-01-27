@@ -56,7 +56,7 @@ author_profile: true
 ### Ph.D.
 - Neelam Surana - Senior ASIC Engineer, NVIDIA
 - [Chandan Kumar Jha](https://chajha.github.io/) - Post Doctoral Researcher at the Cyber-Physical Systems of the Deutsches Forschungszentrum für Künstliche
-- [Sneha N Ved](https://www.linkedin.com/in/sneha-ved/) - Senior Product Manager,Pushpay
+- [Sneha N Ved](https://www.linkedin.com/in/sneha-ved/) - Senior Product Manager, Pushpay
 
 ### M.Tech
 2023
