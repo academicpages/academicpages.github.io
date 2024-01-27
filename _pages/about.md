@@ -29,10 +29,10 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 ---
 
 **Sept. 2021 - Mar. 2024 (expected)** 
-+ <img class="svg" src="/images/sjtu_logo.png" width="35pt"> M.Sc in Instrument Acience and Technology, School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University 
++ <img class="svg" src="/images/sjtu_logo.png" width="35pt"> School of Electronic Information & Electrical Engineering, Shanghai Jiao Tong University 
 
 **Sept. 2017 - Aug. 2021**
-+ <img class="svg" src="/images/tongjiu_logo.png" width="30pt"> B.Eng. in Mechanical Engineering, School of Mechanical and Energy Engineering, Tongji University
++ <img class="svg" src="/images/tongjiu_logo.png" width="30pt"> School of Mechanical and Energy Engineering, Tongji University
 
 <span class='anchor' id='work_experience'></span>
 
@@ -40,21 +40,21 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 ---  
 **Jul. 2023 - Sept. 2023**
 
-Autopilot Software Engineer Intern, Huawei Technologies Co., Ltd.
-+ Researched on ROS parsing of autopilot simulation, and implemented general parser and introspection.
-+ Developed a ROS parser in autopilot simulation, experimented and analyzed the parsing complexity and speed.
+Autopilot Software Engineer Intern, *Huawei Technologies Co., Ltd.* <img src='/images/huawei.jpeg' width="50pt">
++ Researched and on ROS parsing of autopilot simulation.
++ Developed, experimented and analyzed the ROS parsing complexity and speed.
 
 ---  
 
 **Jul. 2021 - Aug. 2021**
 
-Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
-+ Developed cartesian path decoupling and terminal velocity/acceleration global control on Windows with roslibpy.
-+ Proposed algorithm on robotic arm for end-effector error estimation, enhancing antenna near-field test accuracy.
+Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img src='/images/FMM.png' width="60pt">
++ Developed terminal velocity/acceleration global control on Windows with roslibpy.
++ Proposed an end-effector error estimation algorithm, enhancing antenna near-field test accuracy.
 
-<br/>
 
 <span class='anchor' id='publications'></span>
+
 
 # 📝 Publications
 ---  
@@ -83,7 +83,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 # 💻 Projects
 ---  
 
-**Pysicial Simulation of Artificial Anal Sphincter(AAS) system**
+**Medical Simulation of Artificial Anal Sphincter(AAS) system**
 
 <div class='paper-box'>
 
@@ -95,10 +95,9 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 <div class='paper-box-text' markdown="1">
 
--	Designed a pysicial artificial anal sphincter (AAS) System.
-- Proposed a simulation platform of AAS.
-- Proposed a hybird LSTM-Kalman algorithm for defecation perception algorithm.
-- Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
+- Pysicial simulation of AAS system.
+- LSTM-Kalman algorithm for defecation perception.
+- Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) as the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
 
 </div>
 </div>
@@ -124,7 +123,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 <!-- ![tupian](https://github.com/Changjing-Liu/Changjing-Liu.github.io/blob/master/images/my.png) -->
 
----  
+
 <!-- **Remote medical monitoring system based on IOT** [Link](https://github.com/Changjing-Liu/remote-medical-monitoring)
 + Completed hardware and software design of the terminal device, implemented the heart rate and blood oxygen collection algorithm.
 + Deployed the IoT platform and cloud server for data storage and query.
@@ -132,7 +131,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 <br/> -->
 
-**Remote medical monitoring system based on IOT** [Project](https://github.com/Changjing-Liu/remote-medical-monitoring)
+**Remote medical monitoring system based on IOT** [[Project]](https://github.com/Changjing-Liu/remote-medical-monitoring)
 
 <div class='paper-box'>
 
@@ -144,10 +143,10 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 <div class='paper-box-text' markdown="1">
 
-+ Completed hardware and software design of the device.
-+ Implemented the heart rate and blood oxygen algorithm.
-+ Deployed the IoT platform and cloud server for data storage and query.
-+ Designed Web and WeChat remote medical monitoring platform.
++ Hard/software design of the device.
++ Heart rate and blood oxygen algorithm.
++ IoT platform and cloud server.
++ Web and WeChat remote monitoring platform.
 
 </div>
 </div>
