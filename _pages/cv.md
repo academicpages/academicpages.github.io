@@ -285,9 +285,10 @@ ________________________________________________________________________________
     The objective of this project was to perform semantic segmentation on the images of crop fields, background, and weeds. To achieve this, three different segmentation models were deployed - U-Net, Attention U-Net, and DeepLabV3+. These models were used to extract the relevant features from the images and classify each pixel as either crop, weed or background. The U-Net model, which is known for its high accuracy in medical imaging, was used as a baseline and coded from scratch. The Attention U-Net model was employed to improve the accuracy of the segmentation results by incorporating an attention mechanism. Lastly, the DeepLabV3+ model, which is widely used in computer vision tasks, was used to further enhance the results. The segmentation task involved identifying the crop and weeds accurately to enable efficient and precise weed control, which is essential for crop yield improvement. The project was successful in achieving the desired results and demonstrated the potential of using deep learning models for agricultural applications. 
     
 [Read the full paper from Overleaf](https://www.overleaf.com/read/ymwsmntfrpmr#2bdf2a)
+
   </div>
 
-* 2023/24, 3D Tetris Game using Augmented Realty(AR)
+* <span style="color: blue; font-weight: bold;">2023/24, 3D Tetris Game using Augmented Realty(AR)</span>
   [Gitlab repository](https://gitlab.emi.u-bordeaux.fr/tlengfeld/ar-tetris-app)
 
 * 2023/24, AI Based Real Time Fitness Assistance
