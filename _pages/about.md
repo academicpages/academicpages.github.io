@@ -64,7 +64,7 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 [[ArXiv 2020](https://arxiv.org/abs/2008.09660)]
 
 # Talks
-Feature Learning in Large Language Models (Adobe Research, San Jose)
+Feature Learning in Large Language Models (Adobe Research, San Jose)<br>
 Teaching via Best-case Counterexamples (UCSD AI Seminar)
 
   
