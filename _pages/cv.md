@@ -1,10 +1,3 @@
-<style>
-  /* CSS code to change text color */
-  .project-item {
-    color: red; /* Change 'red' to the color you desire */
-  }
-</style>
-* <span class="project-item">2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation</span>
 ---
 layout: archive
 title: "Resume" 
