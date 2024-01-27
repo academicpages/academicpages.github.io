@@ -60,7 +60,7 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 
 
 7. <b> Deletion to Induced Matching </b> <br>
-**Akash Kumar**, [Mithilesh Kumar](https://anantvigyan.com/aboutme.html).<br> 
+**Akash Kumar**, Mithilesh Kumar.<br> 
 [[ArXiv 2020](https://arxiv.org/abs/2008.09660)]
 
 # Talks
