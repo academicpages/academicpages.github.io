@@ -50,24 +50,10 @@ Skills, Tools, and Libraries
   * Spanish- Español (A1)
 * Computer Hardware and Network troubleshooting Skills
    * Cisco Certified Network Associate, CCNA I, Huawei networking device
-* Microsoft Oﬀice Product
-   * MS Word, MS Excel, MS PowerPoint, MS Publisher, MS Teams, Office365
-* Simulator Sofwares Skill
-   * Packet tracer, VLSI Design, OptiSystem Software, Proetus, Eagle
-* Operating System
-   * Microsoft Windows, Ubuntu, Linux, CentOS, Kali Linux
 
 Programming Languages
 ======
 
-<div style="text-align: center;">
-  <div style="display: inline-block; margin-right: 10px;">
-    <img src="/images/c++.png" alt="C++" style="width: 35px;">
-    <br>
-    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
-      <span style="color: white;">C++</span>
-    </div>
-  </div>
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/python.png" alt="Python" style="width: 35px;">
     <br>
@@ -75,6 +61,16 @@ Programming Languages
       <span style="color: white;">Python</span>
     </div>
   </div>
+  
+  <div style="text-align: center;">
+  <div style="display: inline-block; margin-right: 10px;">
+    <img src="/images/c++.png" alt="C++" style="width: 35px;">
+    <br>
+    <div style="background-color: #27ae60; padding: 5px; border-radius: 5px; margin-top: 10px;">
+      <span style="color: white;">C++</span>
+    </div>
+  </div>
+    
   <div style="display: inline-block; margin-right: 10px;">
     <img src="/images/matlab.png" alt="MATLAB" style="width: 35px;">
     <br>
@@ -274,11 +270,8 @@ Projects and Research
 * 2022 – present, Vision Aided Recognition of Objects to Grasp with a Robot Arm, 6D Pose Estimation
   
   <div style="text-align: justify">
-    The purpose of this research is to enhance the ability of prosthetic arms to recognize and grasp objects by incorporating vision information. The   
-    DenseFusion and BB8 algorithms are utilized as the methods for achieving this goal. A significant benefit of this project lies in the crucial role of pose 
-    estimation, which facilitates effective object grasping from the surrounding environment. The research is conducted in collaboration with Bolutife Atoki, 
-    under the supervision of Professor Jenny Benois-pineau. By engaging in this project, participants have the opportunity to develop skills in deep learning. 
-    As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future.
+    This project proposes an approach using a vision-aided prosthesis arm to assist people with upper limb disabilities in efficiently interacting with objects. A crucial part of the project involves using the DenseFusion algorithm to estimate the 6D pose of the object to be grasped. In this paper our primary focus was on accurately determining the position and orientation of objects in a kitchen environment, specifically utensils, to enable users to pick them up with ease. Building upon the foundational work, this project extends the vision system's capabilities by implementing pose estimation through RGB, depth, and binary mask images of the object and scene. To ensure the robust performance of our proposed system, we generated a proprietary dataset using Unity and HTC VIVE headsets. The dataset comprises essential information for the DenseFusion algorithm, structured in the LINEMOD dataset format. The Unity-based process involves 3D modeling of the object to be grasped, and extracting intrinsic and extrinsic parameters, including rotational and translational matrices, and RGB images. For the success of unity modeling, we have adopted methods from a research  team HYBRIDE from Institut de Neurosciences Cognitives et Intégratives d’Aquitaine (INCIA). To assess the system's performance we compute error functional MSE after the back projection of the estimated pose into the image plane.  
+    As an ongoing initiative at the University of Bordeaux in France, this research holds promising potential for the future. [Read the full paper on Overleaf](https://www.overleaf.com/read/sdqdmvdwwtmd#fbbe29)
   </div>
   
   * [Pázmány Péter Catholic University](https://ppke.hu/en), [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio) and  [University of Bordeaux](https://www.u-bordeaux.fr/en)
@@ -294,10 +287,7 @@ ________________________________________________________________________________
 * 2023, Computer Vision Projects in Object Detection and Tracking
   
   <div style="text-align: justify">
-    This research project, conducted in 2023 as part of a video sequence analysis course, focuses on the realm of computer vision with an emphasis on object 
-    detection and tracking. It delves into state-of-the-art methods for identifying and monitoring objects within video data. My experience involves applying 
-    techniques such as particle filters, Kalman filters, and video segmentation, directly relevant to enhancing object tracking capabilities. The outcomes of 
-    this research have potential applications in diverse fields, including surveillance and autonomous vehicles.
+    This research project, conducted in 2023 as part of a video sequence analysis course, focuses on the realm of computer vision with an emphasis on object detection and tracking. It delves into state-of-the-art methods for identifying and monitoring objects within video data. My experience involves applying techniques such as particle filters, Kalman filters, and video segmentation, directly relevant to enhancing object tracking capabilities. The outcomes of this research have potential applications in diverse fields, including surveillance and autonomous vehicles.
   </div>
   
 * 2023, Advanced Projects in People Detection and Biometric Recognition
@@ -305,13 +295,7 @@ ________________________________________________________________________________
 * 2023, Multi-Database Evaluation and Enhancement of DeepFake Detection Systems
   
   <div style="text-align: justify">
-    Its part of People Detection and Biometric Recognition course in 2023, I gained hands-on experience in several critical areas. This included using YOLOv5 
-     for people detection, which is crucial for surveillance and tracking. I also learned signature recognition, enabling me to analyze handwritten signatures 
-     for document verification. Face recognition was another highlight, allowing me to identify individuals based on facial features, valuable for security 
-    and access control. Additionally, I acquired skills in deepfake recognition, an essential tool in detecting manipulated media. Finally, I worked in 
-    biometric data recognition, encompassing fingerprint, iris, and voice recognition, providing knowledge for secure authentication and identification 
-    systems. This comprehensive training has equipped me with practical expertise applicable in various industries, from law enforcement to digital security 
-     and authentication technologies.
+    Its part of People Detection and Biometric Recognition course in 2023, I gained hands-on experience in several critical areas. This included using YOLOv5 for people detection, which is crucial for surveillance and tracking. I also learned signature recognition, enabling me to analyze handwritten signatures for document verification. Face recognition was another highlight, allowing me to identify individuals based on facial features, valuable for security and access control. Additionally, I acquired skills in deepfake recognition, an essential tool in detecting manipulated media. Finally, I worked in biometric data recognition, encompassing fingerprint, iris, and voice recognition, providing knowledge for secure authentication and identification systems. This comprehensive training has equipped me with practical expertise applicable in various industries, from law enforcement to digital security  and authentication technologies.
   </div>
   
   * [Universidad Autonoma de Madrid](https://www.uam.es/uam/inicio)
