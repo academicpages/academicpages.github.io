@@ -25,7 +25,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 
 <span class='anchor' id='educations'></span>
 
-🎓 Education
+# 🎓 Education
 ---
 
 **Sept. 2021 - Mar. 2024 (expected)** 
@@ -36,7 +36,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 
 <span class='anchor' id='work_experience'></span>
 
-🏭 Work experience
+# 🏭 Work experience
 ---  
 **Jul. 2023 - Sept. 2023**
 
@@ -44,6 +44,7 @@ Autopilot Software Engineer Intern, Huawei Technologies Co., Ltd.
 + Researched on ROS parsing of autopilot simulation, and implemented general parser and introspection.
 + Developed a ROS parser in autopilot simulation, experimented and analyzed the parsing complexity and speed.
 
+---  
 
 **Jul. 2021 - Aug. 2021**
 
@@ -55,7 +56,7 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 
 <span class='anchor' id='publications'></span>
 
-📝 Publications
+# 📝 Publications
 ---  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,36 +77,84 @@ Robot Software Algorithm Intern, Fragrant Mountain Microwave Co., Ltd.
 </div>
 </div>
 
+
 <span class='anchor' id='projects'></span>
 
-💻 Projects
+# 💻 Projects
 ---  
 
-<!-- <img src='/images/aas1.gif' width="50%">
-<img src='/images/aas2.gif' width="50%"> -->
+**Pysicial Simulation of Artificial Anal Sphincter(AAS) system**
+
+<div class='paper-box'>
+
+<div class='paper-box-image'>
+  <div>
+    <img src='/images/aas.gif' alt="sym" width="110%">
+  </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
+-	Designed a pysicial artificial anal sphincter (AAS) System.
+- Proposed a simulation platform of AAS.
+- Proposed a hybird LSTM-Kalman algorithm for defecation perception algorithm.
+- Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
+
+</div>
+</div>
+
+<!-- ## Pysicial simulation and defecation perception algorithm for artificial anal sphincter system
+
+<img src='/images/aas1.gif'  width="40%">
+<img src='/images/aas2.gif'  width="40%">
+
 <p style="display: flex">
 <img src="/images/aas1.gif">
 <img src="/images/aas2.gif">
 </p>
-**Pysicial simulation and defecation perception algorithm for artificial anal sphincter system**
+<p>
+<img src="/images/aas1.gif" width="40%" style="float:left">
+<img src="/images/aas2.gif" width="40%" style="float:left">
+</p>
 
 + Designed and optimized the pysicial artificial anal sphincter ( AAS) system.
 + Proposed a simulation platform of AAS mechanical motion and pressure sensors with intestinal environment using [SOFA](https://www.sofa-framework.org/community/doc/) ( framework for medical simulation and robotics), and evaluated it in vitro experiments.
 + Proposed a hybird LSTM-Kalman algorithm for defecation perception reconstruction, and used the proposed simulation platform for dataset expansion and model training.
-+ Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
++ Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) and became the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/). -->
 
 <!-- ![tupian](https://github.com/Changjing-Liu/Changjing-Liu.github.io/blob/master/images/my.png) -->
 
-**Remote medical monitoring system based on IOT** [Link](https://github.com/Changjing-Liu/remote-medical-monitoring)
+---  
+<!-- **Remote medical monitoring system based on IOT** [Link](https://github.com/Changjing-Liu/remote-medical-monitoring)
 + Completed hardware and software design of the terminal device, implemented the heart rate and blood oxygen collection algorithm.
 + Deployed the IoT platform and cloud server for data storage and query.
 + Designed Web and WeChat remote medical monitoring platform for visualization and control.
 
-<br/>
+<br/> -->
+
+**Remote medical monitoring system based on IOT** [Project](https://github.com/Changjing-Liu/remote-medical-monitoring)
+
+<div class='paper-box'>
+
+<div class='paper-box-image'>
+  <div>
+    <img src='/images/remote.png' alt="sym" width="110%">
+  </div>
+</div>
+
+<div class='paper-box-text' markdown="1">
+
++ Completed hardware and software design of the device.
++ Implemented the heart rate and blood oxygen algorithm.
++ Deployed the IoT platform and cloud server for data storage and query.
++ Designed Web and WeChat remote medical monitoring platform.
+
+</div>
+</div>
 
 <span class='anchor' id='awards'></span>
 
-🏅 Awards and Honors
+# 🏅 Awards and Honors
 ---  
 + Graduate Outstanding Scholarship at Shanghai Jiao Tong University ( **Top 10%**), 2023
 + Second-Class Master's Academic Scholarship at Shanghai Jiao Tong University, 2022
