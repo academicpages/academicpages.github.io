@@ -24,10 +24,10 @@ redirect_from:
 연구 분야 (Research Areas)
 ---
 * 5G/B5G network (FANET, Heterogeneous, massive MIMO, D2D)
-* Deep reinforcement learning algorithm-based network optimization
-* IoT, ICT sensing-based, sensor fusion-based smart solution (with WiFi, MQTT, HTTP, BLE, NFC protocols)
+* Deep reinforcement learning algorithm-based optimization
+* IoT, ICT sensing-based, sensor fusion-based smart solution (with WiFi signals, multi-modal sensors, Camera, etc)
 * SDR testbed-based wireless communication (Design and validation)
-* Objective detection and tracking based on a multi-modal AI model (fusion of RF signals and video streams)
+* Objective detection and tracking based on a multi-modal AI model (fusion of WiFi signals and video streams)
 
 
 연구 경험 (Research Experience)
@@ -59,20 +59,20 @@ redirect_from:
 주요 역량 (Summary of Qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc,.)
-  * 강화학습 알고리즘 기반의 문제 접근 및 최적화 기술 설계 및 구현 능력
+  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
+  * 강화학습 알고리즘 기반의 문제 접근 및 최적화 기술 설계 능력 (DQN, DDQN, A2C, A3C, PPO, Pareto-policy, MO-A3Cs, etc.)
   * IoT, ICT 센싱 및 mobilie applocation, server 통합 구현을 통한 스마트 솔루션 프로그램 개발 및 구현 능력
   * 소프트웨어 정의 라디오 기반 4X4 MIMO-OFDM system, TDMA-based multi-hop relay network 설계 및 구현 능력
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
-  * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행
+  * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행 및 관리
   * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
 <br>
 
 * **발표 및 시각화 능력 (presentation and visualization skills)**
   * 워크샵, 학술대회, 세미나 등의 발표 활동 다수 진행
-  * 다수의 사업 및 연구 제안서 업무를 통한 문서화, 시각화 능력
+  * 다수의 국가 사업 및 연구 업무를 통한 문서화, 시각화 능력
 
 
 <!-- 소속 학회 (Professional Memberships)
