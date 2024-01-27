@@ -82,7 +82,10 @@ analytics:
 author:
   name             : "Joycee Mekie"
   avatar           : "joycee.jpg"
-  bio              : "Associate Professor, Electrical Engineering, IIT Gandhinagar"
+  bio              : > 
+                    Associate Professor
+                    Electrical Engineering
+                    IIT Gandhinagar
   location         : "Gandhinagar, Gujarat, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
