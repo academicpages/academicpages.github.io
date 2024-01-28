@@ -5,13 +5,11 @@ permalink: /activities/
 author_profile: true
 ---
 
-Organization
-======
+## Organization
 * I organize the SDU Operator Algebras seminar together with [Alistair Miller](https://sites.google.com/view/alistair-miller/home?authuser=0).
 * I am a co-organizer of the [NSeaG](https://sites.google.com/view/nseag/home) workshop 2024: [OdenSeaG](https://sites.google.com/view/odenseag2024/home).
 
-Talks
-======
+## Talks
 Below is a selection of talks I have given the past few years
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, Fields Institute Operator Algebras Seminar, Fields Institute, Toronto. (October 2023)
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, IWOTA -- International Workshop on Operator Theory and Applications, University of Helsinki. (July-August 2023)
