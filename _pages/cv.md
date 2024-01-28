@@ -34,4 +34,4 @@ Teaching
      * MA1102 Introduction to analysis II (exercise sessions and responsibility for remote students), spring 2018
      * Student assistant in various undergraduate courses fall 2013-spring 2017
   
-![Beitostølen](/images/beitostoelen_baat.jpg)
+![Beitostølen](/images/beitostoelen_bat.jpg)
