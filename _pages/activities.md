@@ -5,4 +5,3 @@ permalink: /activities/
 author_profile: true
 ---
 
-# Activities
