@@ -19,7 +19,7 @@ Employment
 
 Education
 ======
-* 2021: PhD in mathematics at the Norwegian University of Science and Technology, Trondheim. Supervised by [Professor Franz Luef](https://www.ntnu.edu/employees/franz.luef)f and [Professor Eduard Ortega](https://www.ntnu.edu/employees/eduard.ortega). 
+* 2021: PhD in mathematics at the Norwegian University of Science and Technology, Trondheim. Supervised by [Professor Franz Luef](https://www.ntnu.edu/employees/franz.luef) and [Professor Eduard Ortega](https://www.ntnu.edu/employees/eduard.ortega). 
 * 2017: Master of Science in mathematical sciences at the Norwegian University of Science and Technology, Trondheim. Supervised by [Professor Franz Luef](https://www.ntnu.edu/employees/franz.luef). 
 * 2015: Bachelor of Science in mathematical sciences at the Norwegian University of Science and Technology, Trondheim
 
