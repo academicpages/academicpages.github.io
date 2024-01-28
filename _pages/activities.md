@@ -23,4 +23,4 @@ Below is a selection of talks I have given the past few years
 * C*-uniqueness results for groupoids, Glasgow Late August Symbolic Dynamics, Groups, and Operators Workshop, University of Glasgow. (August 2022)
 * C*-uniqueness of L1-algebras: History and recent results, Online seminar, University of Copenhagen and University of Southern Denmark, Online. (January 2022)
 
-![Graakallen](/images/geiranger_foss.jpg)
+![Geiranerfjorden](/images/geiranger_foss.jpg)
