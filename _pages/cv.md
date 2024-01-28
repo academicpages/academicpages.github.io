@@ -9,22 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-Employment
-======
+## Employment
 * 2022-2024: Postdoc at The University of Southern Denmark, Odense.
 * 2021-2022: Data engineering consultant at Bouvet Rogaland ASA.
 * 2017-2021: Doctoral research fellow at the Norwegian University of Science and Technology, Trondheim.
 * 2012-2017: Student assistant at the Norwegian University of Science and Technology, Trondheim.
 
 
-Education
-======
+## Education
 * 2021: PhD in mathematics at the Norwegian University of Science and Technology, Trondheim. Supervised by [Professor Franz Luef](https://www.ntnu.edu/employees/franz.luef) and [Professor Eduard Ortega](https://www.ntnu.edu/employees/eduard.ortega). 
 * 2017: Master of Science in mathematical sciences at the Norwegian University of Science and Technology, Trondheim. Supervised by [Professor Franz Luef](https://www.ntnu.edu/employees/franz.luef). 
 * 2015: Bachelor of Science in mathematical sciences at the Norwegian University of Science and Technology, Trondheim
 
-Teaching
-======
+## Teaching
 * At SDU Odense
      * MM819 Introduction to operator algebras (TA), fall 2023
      * MM849 Selected topics in modern analysis, topic: Analysis on locally compact groups and group C*-algebras (instructor), spring 2023
