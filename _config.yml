@@ -186,14 +186,14 @@ defaults:
       layout: single
       author_profile: true
   # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comments: false
+  # - scope:
+  #     path: ""
+  #     type: projects
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: false
+  #     comments: false
   # _resume
   - scope:
       path: ""
