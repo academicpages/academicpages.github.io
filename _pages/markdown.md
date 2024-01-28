@@ -1,202 +1,339 @@
----
-permalink: /markdown/
-title: "Markdown"
-author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
----
+[//]: # (---)
 
-## Locations of key files/directories
-
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
+[//]: # (permalink: /markdown/)
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+[//]: # (title: "Markdown")
 
-## Markdown guide
+[//]: # (author_profile: true)
 
-### Header three
+[//]: # (redirect_from: )
 
-#### Header four
+[//]: # (  - /md/)
 
-##### Header five
+[//]: # (  - /markdown.html)
 
-###### Header six
+[//]: # (---)
 
-## Blockquotes
+[//]: # ()
+[//]: # (## Locations of key files/directories)
 
-Single line blockquote:
+[//]: # ()
+[//]: # (* Basic config options: _config.yml)
 
-> Quotes are cool.
+[//]: # (* Top navigation bar config: _data/navigation.yml)
 
-## Tables
+[//]: # (* Single pages: _pages/)
 
-### Table 1
+[//]: # (* Collections of pages are .md or .html files in:)
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+[//]: # (  * _publications/)
 
-### Table 2
+[//]: # (  * _portfolio/)
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+[//]: # (  * _posts/)
 
-## Definition Lists
+[//]: # (  * _teaching/)
 
-Definition List Title
-:   Definition list division.
+[//]: # (  * _talks/)
 
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+[//]: # (* Footer: _includes/footer.html)
 
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+[//]: # (* Static files &#40;like PDFs&#41;: /files/)
 
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+[//]: # (* Profile image &#40;can set in _config.yml&#41;: images/profile.png)
 
-## Unordered Lists (Nested)
+[//]: # ()
+[//]: # (## Tips and hints)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+[//]: # ()
+[//]: # (* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.)
 
-## Ordered List (Nested)
+[//]: # (* Go to the [commit list]&#40;https://github.com/academicpages/academicpages.github.io/commits/master&#41; &#40;on your repo&#41; to find the last version Github built with Jekyll. )
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+[//]: # (  * Green check: successful build)
 
-## Buttons
+[//]: # (  * Orange circle: building)
 
-Make any link standout more when applying the `.btn` class.
+[//]: # (  * Red X: error)
 
-## Notices
+[//]: # (  * No icon: not built)
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+[//]: # ()
+[//]: # (## Resources)
 
-## HTML Tags
+[//]: # ( * [Liquid syntax guide]&#40;https://shopify.github.io/liquid/tags/control-flow/&#41;)
 
-### Address Tag
+[//]: # ()
+[//]: # (## Markdown guide)
 
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
+[//]: # ()
+[//]: # (### Header three)
 
-### Anchor Tag (aka. Link)
+[//]: # ()
+[//]: # (#### Header four)
 
-This is an example of a [link](http://github.com "Github").
+[//]: # ()
+[//]: # (##### Header five)
 
-### Abbreviation Tag
+[//]: # ()
+[//]: # (###### Header six)
 
-The abbreviation CSS stands for "Cascading Style Sheets".
+[//]: # ()
+[//]: # (## Blockquotes)
 
-*[CSS]: Cascading Style Sheets
+[//]: # ()
+[//]: # (Single line blockquote:)
 
-### Cite Tag
+[//]: # ()
+[//]: # (> Quotes are cool.)
 
-"Code is poetry." ---<cite>Automattic</cite>
+[//]: # ()
+[//]: # (## Tables)
 
-### Code Tag
+[//]: # ()
+[//]: # (### Table 1)
 
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
+[//]: # ()
+[//]: # (| Entry            | Item   |                                                              |)
 
-### Strike Tag
+[//]: # (| --------         | ------ | ------------------------------------------------------------ |)
 
-This tag will let you <strike>strikeout text</strike>.
+[//]: # (| [John Doe]&#40;#&#41;    | 2016   | Description of the item in the list                          |)
 
-### Emphasize Tag
+[//]: # (| [Jane Doe]&#40;#&#41;    | 2019   | Description of the item in the list                          |)
 
-The emphasize tag should _italicize_ text.
+[//]: # (| [Doe Doe]&#40;#&#41;     | 2022   | Description of the item in the list                          |)
 
-### Insert Tag
+[//]: # ()
+[//]: # (### Table 2)
 
-This tag should denote <ins>inserted</ins> text.
+[//]: # ()
+[//]: # (| Header1 | Header2 | Header3 |)
 
-### Keyboard Tag
+[//]: # (|:--------|:-------:|--------:|)
 
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
+[//]: # (| cell1   | cell2   | cell3   |)
 
-### Preformatted Tag
+[//]: # (| cell4   | cell5   | cell6   |)
 
-This tag styles large blocks of code.
+[//]: # (|-----------------------------|)
 
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
+[//]: # (| cell1   | cell2   | cell3   |)
 
-### Quote Tag
+[//]: # (| cell4   | cell5   | cell6   |)
 
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+[//]: # (|=============================|)
 
-### Strong Tag
+[//]: # (| Foot1   | Foot2   | Foot3   |)
 
-This tag shows **bold text**.
+[//]: # ()
+[//]: # (## Definition Lists)
 
-### Subscript Tag
+[//]: # ()
+[//]: # (Definition List Title)
 
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
+[//]: # (:   Definition list division.)
 
-### Superscript Tag
+[//]: # ()
+[//]: # (Startup)
 
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
+[//]: # (:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.)
 
-### Variable Tag
+[//]: # ()
+[//]: # (#dowork)
 
-This allows you to denote <var>variables</var>.
+[//]: # (:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.)
+
+[//]: # ()
+[//]: # (Do It Live)
+
+[//]: # (:   I'll let Bill O'Reilly [explain]&#40;https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live"&#41; this one.)
+
+[//]: # ()
+[//]: # (## Unordered Lists &#40;Nested&#41;)
+
+[//]: # ()
+[//]: # (  * List item one )
+
+[//]: # (      * List item one )
+
+[//]: # (          * List item one)
+
+[//]: # (          * List item two)
+
+[//]: # (          * List item three)
+
+[//]: # (          * List item four)
+
+[//]: # (      * List item two)
+
+[//]: # (      * List item three)
+
+[//]: # (      * List item four)
+
+[//]: # (  * List item two)
+
+[//]: # (  * List item three)
+
+[//]: # (  * List item four)
+
+[//]: # ()
+[//]: # (## Ordered List &#40;Nested&#41;)
+
+[//]: # ()
+[//]: # (  1. List item one )
+
+[//]: # (      1. List item one )
+
+[//]: # (          1. List item one)
+
+[//]: # (          2. List item two)
+
+[//]: # (          3. List item three)
+
+[//]: # (          4. List item four)
+
+[//]: # (      2. List item two)
+
+[//]: # (      3. List item three)
+
+[//]: # (      4. List item four)
+
+[//]: # (  2. List item two)
+
+[//]: # (  3. List item three)
+
+[//]: # (  4. List item four)
+
+[//]: # ()
+[//]: # (## Buttons)
+
+[//]: # ()
+[//]: # (Make any link standout more when applying the `.btn` class.)
+
+[//]: # ()
+[//]: # (## Notices)
+
+[//]: # ()
+[//]: # (**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.)
+
+[//]: # ({: .notice})
+
+[//]: # ()
+[//]: # (## HTML Tags)
+
+[//]: # ()
+[//]: # (### Address Tag)
+
+[//]: # ()
+[//]: # (<address>)
+
+[//]: # (  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States)
+
+[//]: # (</address>)
+
+[//]: # ()
+[//]: # (### Anchor Tag &#40;aka. Link&#41;)
+
+[//]: # ()
+[//]: # (This is an example of a [link]&#40;http://github.com "Github"&#41;.)
+
+[//]: # ()
+[//]: # (### Abbreviation Tag)
+
+[//]: # ()
+[//]: # (The abbreviation CSS stands for "Cascading Style Sheets".)
+
+[//]: # ()
+[//]: # (*[CSS]: Cascading Style Sheets)
+
+[//]: # ()
+[//]: # (### Cite Tag)
+
+[//]: # ()
+[//]: # ("Code is poetry." ---<cite>Automattic</cite>)
+
+[//]: # ()
+[//]: # (### Code Tag)
+
+[//]: # ()
+[//]: # (You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.)
+
+[//]: # ()
+[//]: # (### Strike Tag)
+
+[//]: # ()
+[//]: # (This tag will let you <strike>strikeout text</strike>.)
+
+[//]: # ()
+[//]: # (### Emphasize Tag)
+
+[//]: # ()
+[//]: # (The emphasize tag should _italicize_ text.)
+
+[//]: # ()
+[//]: # (### Insert Tag)
+
+[//]: # ()
+[//]: # (This tag should denote <ins>inserted</ins> text.)
+
+[//]: # ()
+[//]: # (### Keyboard Tag)
+
+[//]: # ()
+[//]: # (This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.)
+
+[//]: # ()
+[//]: # (### Preformatted Tag)
+
+[//]: # ()
+[//]: # (This tag styles large blocks of code.)
+
+[//]: # ()
+[//]: # (<pre>)
+
+[//]: # (.post-title {)
+
+[//]: # (  margin: 0 0 5px;)
+
+[//]: # (  font-weight: bold;)
+
+[//]: # (  font-size: 38px;)
+
+[//]: # (  line-height: 1.2;)
+
+[//]: # (  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;)
+
+[//]: # (})
+
+[//]: # (</pre>)
+
+[//]: # ()
+[//]: # (### Quote Tag)
+
+[//]: # ()
+[//]: # (<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer)
+
+[//]: # ()
+[//]: # (### Strong Tag)
+
+[//]: # ()
+[//]: # (This tag shows **bold text**.)
+
+[//]: # ()
+[//]: # (### Subscript Tag)
+
+[//]: # ()
+[//]: # (Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.)
+
+[//]: # ()
+[//]: # (### Superscript Tag)
+
+[//]: # ()
+[//]: # (Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.)
+
+[//]: # ()
+[//]: # (### Variable Tag)
+
+[//]: # ()
+[//]: # (This allows you to denote <var>variables</var>.)
