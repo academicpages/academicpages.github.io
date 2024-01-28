@@ -20,4 +20,4 @@ Published papers
 * Gabor Duality Theory for Morita Equivalent C*-algebras (with Mads S. Jakobsen and Franz Luef). Internat. J. Math., 31 (2020), no. 10, 2050073. DOI: [10.1142/S0129167X20500731](https://www.worldscientific.com/doi/abs/10.1142/S0129167X20500731)
 * Heisenberg Modules as Function Spaces (with Ulrik Enstad). Journal of Fourier Analysis and Applications 26.2 (2020). DOI: [10.1007/s00041-020-09729-7](https://link.springer.com/article/10.1007/s00041-020-09729-7)
 
-![Romsdalseggen](/images/romsdalseggen_view.jpeg)
+![Romsdalseggen](/images/romsdalseggen_view.jpg)
