@@ -15,4 +15,4 @@ My research interests lie in the intersection between operator algebras and grou
 I co-organize the [SDU Operator Algebras Seminar](https://sites.google.com/view/operator-algebras-sdu). 
 
 
-![Nature1](/images/received_937146447266576.jpeg)
+![Graakallen](/images/graakallen.jpeg)
