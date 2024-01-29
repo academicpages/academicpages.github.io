@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div class="text-center text-justify">
+<div style="text-align: justify; display: inline-block;">
 
 Pradeep, a Senior Homomorphic Encryption Researcher at the [Technology Innovation Institute](https://www.tii.ae/cryptography) in Abu Dhabi, United Arab Emirates, leads cutting-edge research in homomorphic encryption—a groundbreaking paradigm for secure computation preserving privacy during data processing.
 
