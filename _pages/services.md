@@ -19,6 +19,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Guest Editor, “Internet of Things and Cyber-Physical Systems Journal”, Trustworthy and explainable artificial intelligence for the Internet of Things (IoT), Special Issue.</span>
 1. <span style="font-size: 16px;">Reviewer, Computer Communications Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE JSAC Special Issue on Open RAN: a New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Services Computing.</span>
