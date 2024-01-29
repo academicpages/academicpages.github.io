@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /books/
+permalink: /articles/
 author_profile: true
 ---
 
@@ -24,7 +24,7 @@ author_profile: true
   </li>
   <li>
     <a style="text-decoration:none" 
-       href="https://github.com/patel-zeel/blog/blob/master/_posts/BLR___GP.pdf">Bayesian linear regression is Gaussian process with linear kernel
+       href="https://github.com/patel-zeel/blog/blob/main/posts/BLR___GP.pdf">Bayesian linear regression is Gaussian process with linear kernel
     </a>
   </li>
 </ul>
