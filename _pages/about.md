@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-KMA Solaiman earned his Ph.D. in Computer Science from Purdue University, where his research centered on Multimodal Information Extraction and Situation-aware data recommendation in real-world applications. 
-
 Welcome! My name is **Solaiman**. I earned my Ph.D. in Computer Science 
 <!-- [Computer Science](https://www.cs.purdue.edu/) -->
  from [**Purdue University**](https://www.cs.purdue.edu/), where my research centered on Multimodal Information Extraction and Situation-aware data recommendation in real-world applications. 
