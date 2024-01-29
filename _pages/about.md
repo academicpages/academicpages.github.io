@@ -8,25 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is **Solaiman**. I am a Ph.D. Candidate in Computer Science
+KMA Solaiman earned his Ph.D. in Computer Science from Purdue University, where his research centered on Multimodal Information Extraction and Situation-aware data recommendation in real-world applications. 
+
+Welcome! My name is **Solaiman**. I earned my Ph.D. in Computer Science 
 <!-- [Computer Science](https://www.cs.purdue.edu/) -->
- at [**Purdue University**](https://www.cs.purdue.edu/),
+ from [**Purdue University**](https://www.cs.purdue.edu/), where my research centered on Multimodal Information Extraction and Situation-aware data recommendation in real-world applications. 
 <!-- (http://purdue.edu/) -->
-working with Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). 
+I was advised by Prof. [Bharat Bhargava](https://www.cs.purdue.edu/homes/bb/). 
 During my Ph.D., I have worked closely with Prof. [Michael Stonebraker](https://www.csail.mit.edu/person/michael-stonebraker) for the [REALM/SKOD](https://news.northropgrumman.com/news/releases/northrop-grumman-launches-new-research-consortium-for-artificial-intelligence-and-machine-learning) project.
 <!-- the A.M. Turing Award recipient Michael Stonebraker. -->
 <!-- I earned my M.Sc. in Computer Science from Purdue University and my B.Sc. in [Computer Science & Engineering](https://cse.buet.ac.bd/) from [Bangladesh University of Engineering & Technology (BUET)](https://www.buet.ac.bd/web/#/) ([B.Sc. Dissertation](/files/publications/ug-thesis-2014.pdf)).  -->
 I also served as a faculty member at Ahsanullah University of Science and Technology ([AUST](https://www.aust.edu/cse)) and United International University ([UIU](https://www.uiu.ac.bd/)).
 <!-- Update when you get phd like this: I obtained my Ph.D. from the College of Information and Computer Sciences (CICS), University of Massachusetts, Amherst under the supervision of Prof. Alexandra Meliou (Ph.D. Dissertation). -->
 
-My research interests revolve around heterogeneous data management in general, 
-<!-- and multimodal information retrieval in particular.  -->
+<!-- My research interests revolve around heterogeneous data management in general, 
 but the application areas of my work have been interdisciplinary, spanning from data discovery and novelty management to 
-<!-- machine learning,  -->
 multimodal information retrieval, natural language processing, and video feature extraction. In collaboration with non-academic parties (e.g., West Lafayette Police Department, NGC), my systems are inspired by real-world use cases. 
-<!-- I am interested in designing mechanisms for enhancing system usability and developing intelligent tools towards boosting productivity for a diverse group of users, ranging from end users to data scientists and developers. -->
 <br>
-I am interested in designing mechanisms for identifying patterns and novelties in heterogeneous data sources towards better understanding of the data, focusing on the explanability of the models to better use them for situational awareness. 
+I am interested in designing mechanisms for identifying patterns and novelties in heterogeneous data sources towards better understanding of the data, focusing on the explanability of the models to better use them for situational awareness.  -->
+
+My research intersects with machine learning, multimodal information retrieval, open-world learning, and
+data management systems. I built systems and techniques to enable scalable and robust multimodal data
+processing in open-world environment, while working with practical applications and end users. Combining insights
+from computer vision, nlp, representation learning, and information retrieval, I design techniques to enable practical
+cross-modal retrieval system via feature-centered knowledge accumulation. Additionally, my research focused on
+acquiring fundamental insights that facilitate dependable open-world learning, which can operate securely and
+flexibly in the presence of dynamic and unforeseen data streams. My work has appeared in top data management
+venues like IEEE, AAAI, SIGMOD, and VLDB. I have collaborated with multiple industry and academic partners
+such as MIT, NGC, USC, and DARPA.
 
 
 <!-- **Open To Work:**  -->
