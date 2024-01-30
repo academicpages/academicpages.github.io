@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Salar Mokhtari Laleh"
-  avatar           : "/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Artificial Intelligence Researcher & Lecturers"
   location         : "Iran"
   employer         :
