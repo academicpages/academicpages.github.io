@@ -23,6 +23,8 @@ I am interested in various topics, ranging from low-level to high-level vision a
 
 Publications
 ======
+<br/>
+<br/>
 International Journals  
 ======
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 31, pp. 4090 - 4103, Jun. 2022 <br/>(Impact factor: **10.856**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
