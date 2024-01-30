@@ -7,16 +7,15 @@ main:
     url: https://salarmokhtaril.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: https://salarmokhtaril.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: https://salarmokhtaril.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://salarmokhtaril.github.io/year-archive/
     
   - title: "CV"
     url: https://salarmokhtaril.github.io/files/SalarMokhtariLalehCV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+ 
