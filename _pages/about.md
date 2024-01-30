@@ -48,7 +48,7 @@ International Conferences
 Technical Report
 ======
 
-|<figure style="width: 120px"> <img src="https://jhcho90.github.io/images/database3.PNG" alt=""> </figure> | **DIML/CVL RGB-D Dataset:**<br/>**2M RGB-D Images of Natural Indoor and Outdoor Scenes** <br/>[Report](https://arxiv.org/pdf/2110.11590.pdf) |
+|<figure style="width: 120px"> <img src="https://jhcho90.github.io/images/database3.PNG" alt=""> </figure> | **DIML/CVL RGB-D Dataset:**<br/>**2M RGB-D Images of Natural Indoor and Outdoor Scenes** <br/>[arXiv](https://arxiv.org/pdf/2110.11590.pdf) |
 
 
  <br/>
