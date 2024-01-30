@@ -23,6 +23,7 @@ I am interested in various topics, ranging from low-level to high-level vision a
 
 Publications
 ======
+
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ref_rain.png" alt=""> </figure> | **Improving Image de-raining using Reference-guided Transformers**<br/>Zihao Ye, **Jaehoon Cho**, Changjae Oh<br/>IEEE International Conference on Image Processing **(ICIP)**, Oct. 2024 <br/>(**Submitted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) \| [Project page](https://ziiihooo.com/blog/2024/derain/) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/MTL.png" alt=""> </figure> | **Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**<br/>Wonhyeok Choi, Mingyu Shin, Hyukzae Lee, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br/>IEEE International Conference on Robotics and Automation **(ICRA)**, May. 2024 <br/>(**Accepted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 31, pp. 4090 - 4103, Jun. 2022 <br/>(Impact factor: **10.856**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
