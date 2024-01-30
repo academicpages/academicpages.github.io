@@ -14,9 +14,18 @@ redirect_from:
 As a passionate student of computer engineering with a strong interest in Artificial Intelligence, I am eager to explore the frontiers of this rapidly growing field and contribute to innovative research and development projects. Throughout my academic career, I have gained a solid foundation in computer science, mathematics, and related disciplines, and have begun to develop expertise in areas such as machine learning, natural language processing, and computer vision. Through internships and coursework, I have also gained practical experience in applying AI to real-world problems and have demonstrated strong analytical, problem-solving, and communication skills.
 
 
-Education
+Academic Background
 ======
 * B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
+
+------
+Research Interests
+=====
+| | |
+| -------- | ------- |
+| Machine Learning  |  Robotics |
+| IoT | Network and Cybersecurity |
+| Optimization    | Algorithm    |
 
 
 Academic Experience 
@@ -38,19 +47,19 @@ Academic Experience
   * Lecturer: Dr.Seyed Amir Mortazavi
 
 * Teaching Assistant of **Discrete Mathematics**, <small> Jan 2021- May 2022</small> 
-  * Logisia Magazine.
-    *  Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
+  
 
 
 
 Volunteer work & Affiliations 
 ======
 * Member of the Computer Engineering Association of Tabriz University , <small> Jan 2021 – Jan 2023</small> 
-  * Responsible for proposing and arranging scientific and recreational events for students of Electrical and Computer Engineering faculty at the University of Tabriz.
+  * Computer Engineering Association of Tabriz university.
+    * Responsible for proposing and arranging scientific and recreational events for students of Electrical and Computer Engineering faculty at the University of Tabriz.
 
 * Writer,  <small> Apr 2020 – Mar 2021</small>
- * Logisia Magazine.
- * Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
+  * Logisia Magazine.
+     * Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
 
 Site-wide configuration
 ------
