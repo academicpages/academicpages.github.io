@@ -16,13 +16,40 @@ As a passionate student of computer engineering with a strong interest in Artifi
 
 Education
 ======
-* B.Sc. Computer Engineering, University of Tabriz,<small>Sep 2018- Oct 2023</small> 
+* B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
 
 
 Academic Experience 
 ======
-* Teaching Assistant of **Engineering Probability & Statistics**
+* Teaching Assistant of **Engineering Probability & Statistics**, <small> Sep 2023- Jan 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
 
+* Teaching Assistant of **Software Engineer 1 **, <small> Sep 2023- Jan 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Leili Farzinvash
+
+* Teaching Assistant of **Algorithm Design**, <small> Feb 2023- Jun 2023</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Pedram Salhpour
+
+* Teaching Assistant of **Linear Algebra and its applications**, <small> Apr 2021- Sep 2022</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
+
+* Teaching Assistant of **Discrete Mathematics**, <small> Jan 2021- May 2022</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
+
+
+Volunteer work & Affiliations 
+======
+* Member of the Computer Engineering Association of Tabriz University , <small> Jan 2021 – Jan 2023</small> 
+  * Responsible for proposing and arranging scientific and recreational events for students of Electrical and Computer Engineering faculty at the University of Tabriz.
+
+* Writer,  <small> Apr 2020 – Mar 2021</small>
+ * Logisia Magazine.
+ * Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
 
 Site-wide configuration
 ------
