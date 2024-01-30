@@ -18,7 +18,11 @@ Academic Background
 ======
 * B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
 
-------
+
+
+---
+
+
 
 Research Interests
 ======
