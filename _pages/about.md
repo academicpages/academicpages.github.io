@@ -14,7 +14,7 @@ redirect_from:
 <span style="font-size: 22px;">Research Interests</span>
 ======
 - <span style="font-size: 16px;">**Applied AI** [eXplainable AI (eXplainable Reinforcement Learning), Genertaive AI (Generative Reinforcement Learning), Quantum AI (Quantum Reinforcement Learning), Graph Neural Network (GNN-Reinforcement Learning), Lifelong RL (Federated, Distributed, Meta Learning), and MLOps (Reinforcement Learning)]</span>
-- <span style="font-size: 16px;">**5G/6G** [Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, Security, and Smart Grid]</span>
+- <span style="font-size: 16px;">**5G/6G** [Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, and Smart Grid]</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">News</span>
