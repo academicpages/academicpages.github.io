@@ -67,8 +67,7 @@ Academic Experience
   * Faculty of electrical and computer engineering, University of Tabriz, Iran.
   * Lecturer: Dr.Seyed Amir Mortazavi
   
-
-
+<br>
 
 Volunteer work & Affiliations 
 ======
