@@ -16,9 +16,8 @@ As a passionate student of computer engineering with a strong interest in Artifi
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. Computer Engineering, University of Tabriz, Sep 2018- Oct 2023
+
 
 
 Site-wide configuration
