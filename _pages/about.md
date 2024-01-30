@@ -23,15 +23,6 @@ I am interested in various topics, ranging from low-level to high-level vision a
 
 Research
 ======
-International Journals
-<br/>
-
-| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ref_rain.png" alt=""> </figure> | **Improving Image de-raining using Reference-guided Transformers**<br/>Zihao Ye, **Jaehoon Cho**, Changjae Oh<br/>IEEE International Conference on Image Processing **(ICIP)**, Oct. 2024 <br/>(**Submitted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) \| [Project page](https://ziiihooo.com/blog/2024/derain/) |
-| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/MTL.png" alt=""> </figure> | **Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**<br/>Wonhyeok Choi, Mingyu Shin, Hyukzae Lee, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br/>IEEE International Conference on Robotics and Automation **(ICRA)**, May. 2024 <br/>(**Accepted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
-| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/video2.png" alt=""> </figure> | **Wide and Narrow: Video Prediction from Context and Motion**<br/>**Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br/>British Machine Vision Conference **(BMVC)** 2021<br/>[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0795.pdf) |
-| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ICME.png" alt=""> </figure> | **Multi-task Self-supervised Visual Representation Learning for Monocular Road Segmentation**<br/>**Jaehoon Cho**, Youngjung Kim, Hyungjoo Jung, Changjae Oh, Jaesung Youn, Kwanghoon Sohn Sohn<br/>IEEE International Conference on Multimedia and Expo **(ICME)** 2018<br/> **(Oral Presentation)**  <br/>[Paper](https://jhcho90.github.io/files/road_ICME2018.pdf) \| [Data](https://drive.google.com/file/d/1RgDBR_HNAVnyqQplIWRMSkT-7V93mUjz/view?usp=sharing) |
-
-
 International Conferences
 <br/>
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 31, pp. 4090 - 4103, Jun. 2022 <br/>(Impact factor: **10.856**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
@@ -39,6 +30,12 @@ International Conferences
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/tip.png" alt=""> </figure> | **Single Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 29, pp. 7274-7289, Jun. 2020 <br/>(Impact factor: **9.340**)<br/>[Paper](https://jhcho90.github.io/files/derain_TIP2020.pdf) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/sensors.png" alt=""> </figure> | **Pyramid Inter-Attention for High Dynamic Range Imaging**<br/> Sungil Choi, **Jaehoon Cho**, Wonil Song, Jihwan Choe, Jisung Yoo, Kwanghoon Sohn <br/> **Sensors**, vol. 20, pp. 5102, Jun. 2020 (Impact factor: **3.275**) <br/>[Paper](https://jhcho90.github.io/files/HDR_SENSORS2020.pdf) |
 
+International Journals
+<br/>
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ref_rain.png" alt=""> </figure> | **Improving Image de-raining using Reference-guided Transformers**<br/>Zihao Ye, **Jaehoon Cho**, Changjae Oh<br/>IEEE International Conference on Image Processing **(ICIP)**, Oct. 2024 <br/>(**Submitted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) \| [Project page](https://ziiihooo.com/blog/2024/derain/) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/MTL.png" alt=""> </figure> | **Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**<br/>Wonhyeok Choi, Mingyu Shin, Hyukzae Lee, **Jaehoon Cho**, Jaehyeon Park, Sunghoon Im<br/>IEEE International Conference on Robotics and Automation **(ICRA)**, May. 2024 <br/>(**Accepted**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/video2.png" alt=""> </figure> | **Wide and Narrow: Video Prediction from Context and Motion**<br/>**Jaehoon Cho**, Jiyoung Lee, Changjae Oh, Wonil Song, Kwanghoon Sohn<br/>British Machine Vision Conference **(BMVC)** 2021<br/>[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0795.pdf) |
+| <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/ICME.png" alt=""> </figure> | **Multi-task Self-supervised Visual Representation Learning for Monocular Road Segmentation**<br/>**Jaehoon Cho**, Youngjung Kim, Hyungjoo Jung, Changjae Oh, Jaesung Youn, Kwanghoon Sohn Sohn<br/>IEEE International Conference on Multimedia and Expo **(ICME)** 2018<br/> **(Oral Presentation)**  <br/>[Paper](https://jhcho90.github.io/files/road_ICME2018.pdf) \| [Data](https://drive.google.com/file/d/1RgDBR_HNAVnyqQplIWRMSkT-7V93mUjz/view?usp=sharing) |
 
  <br/>
  <br/>
