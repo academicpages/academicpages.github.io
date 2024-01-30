@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant of Discrete Mathematics "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Tabriz, Electrical & Computer Engineering Department"
+date: Jan 2021 - May 2022
+location: "Tabriz, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Lecturer: Dr. Dr.Seyed Amir Mortazavi
 
 Heading 1
 ======
