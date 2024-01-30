@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-![salar mokhtari laleh](../images/salar-mokhtari-laleh.jpg){: .align-rgiht width"300px"}
+<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
 # about Me 
 As a passionate student of computer engineering with a strong interest in Artificial Intelligence, I am eager to explore the frontiers of this rapidly growing field and contribute to innovative research and development projects. Throughout my academic career, I have gained a solid foundation in computer science, mathematics, and related disciplines, and have begun to develop expertise in areas such as machine learning, natural language processing, and computer vision. Through internships and coursework, I have also gained practical experience in applying AI to real-world problems and have demonstrated strong analytical, problem-solving, and communication skills.
 
