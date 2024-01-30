@@ -38,8 +38,9 @@ Academic Experience
   * Lecturer: Dr.Seyed Amir Mortazavi
 
 * Teaching Assistant of **Discrete Mathematics**, <small> Jan 2021- May 2022</small> 
-  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
-  * Lecturer: Dr.Seyed Amir Mortazavi
+  * Logisia Magazine.
+    *  Author and translator on the topics of Artificial Intelligence and Software engineering in Logisia magazine in the university of Tabriz Electrical and Computer Engineering Faculty.
+
 
 
 Volunteer work & Affiliations 
