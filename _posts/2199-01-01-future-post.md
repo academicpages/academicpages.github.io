@@ -1,7 +1,7 @@
 ---
 title: 'Fake News Detection using DistilBERT Pretrained Model and Transfer Learning'
 date: 2024-01-30
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2012/08/blog-post-FakeNews/
 tags:
   - Ai
   - Deep Learning
