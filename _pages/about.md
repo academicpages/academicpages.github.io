@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<img src="https://media.licdn.com/dms/image/D4E16AQFUHQtgKZakeQ/profile-displaybackgroundimage-shrink_350_1400/0/1692531750659?e=1712188800&v=beta&t=MB07YBIVzJzaVVQBSkY0jg9TwKShQPlsqDWfqwT_f8E" class="floatpic" width="360" height="480">
+<img src="https://media.licdn.com/dms/image/D4E16AQFUHQtgKZakeQ/profile-displaybackgroundimage-shrink_350_1400/0/1692531750659?e=1712188800&v=beta&t=MB07YBIVzJzaVVQBSkY0jg9TwKShQPlsqDWfqwT_f8E" class="floatpic" width="100%" height="480">
 # about Me 
 As a passionate student of computer engineering with a strong interest in Artificial Intelligence, I am eager to explore the frontiers of this rapidly growing field and contribute to innovative research and development projects. Throughout my academic career, I have gained a solid foundation in computer science, mathematics, and related disciplines, and have begun to develop expertise in areas such as machine learning, natural language processing, and computer vision. Through internships and coursework, I have also gained practical experience in applying AI to real-world problems and have demonstrated strong analytical, problem-solving, and communication skills.
 
