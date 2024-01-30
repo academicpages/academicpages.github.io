@@ -76,7 +76,7 @@ KR 10-2097869, Mar. 2020. <br/>
 Invited Talks
 ======
 
-&middot; [Hyundai Motor Company Conference](https://devcon.hyundaimotorgroup.com/), “Multi-Task Learning Research Considering Embedded Performance”, 2023. [[Link](https://www.youtube.com/watch?v=kwQxIml-GGE&list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w&index=12&ab_channel=HMGDeveloperRelations) <br/>
+&middot; [Hyundai Motor Company Conference](https://devcon.hyundaimotorgroup.com/), “Multi-Task Learning Research Considering Embedded Performance”, 2023. [Link](https://www.youtube.com/watch?v=kwQxIml-GGE&list=PLypFzBtJUO_gDlP0xkac4kXAaGcr_w31w&index=12&ab_channel=HMGDeveloperRelations) <br/>
 &middot; [NAVER LABS](https://www.naverlabs.com/en/), “A Study on Outdoor Scene Understanding in the Dynamic Outdoor Environment”, 2021. <br/>
 &middot; [42dot](https://42dot.ai/), “Deep Neural Network for Single Image De-raining using Real-world Time-lapse Data”, 2021. <br/>
 
