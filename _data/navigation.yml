@@ -4,7 +4,7 @@ main:
   #  url: /publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: https://salarmokhtaril.github.io/talks/    
 
   - title: "Teaching"
     url: /teaching/    
@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/SalarMokhtariLalehCV.pdf
+    url: https://salarmokhtaril.github.io/files/SalarMokhtariLalehCV.pdf
     
   - title: "Guide"
     url: /markdown/
