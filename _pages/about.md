@@ -16,8 +16,12 @@ As a passionate student of computer engineering with a strong interest in Artifi
 
 Education
 ======
-* B.Sc. Computer Engineering, University of Tabriz, Sep 2018- Oct 2023
+* B.Sc. Computer Engineering, University of Tabriz,<small>Sep 2018- Oct 2023</small> 
 
+
+Academic Experience 
+======
+* Teaching Assistant of **Engineering Probability & Statistics**
 
 
 Site-wide configuration
