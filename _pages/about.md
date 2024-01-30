@@ -19,12 +19,13 @@ Academic Background
 * B.Sc. Computer Engineering, University of Tabriz, <small> Sep 2018- Oct 2023</small> 
 
 ------
+
 Research Interests
 ======
 
 
-| | |
-| -------- | ------- |
+
+| :--------: | :-------: |
 | Machine Learning  |  Robotics |
 | IoT | Network and Cybersecurity |
 | Optimization    | Algorithm    |
@@ -36,7 +37,7 @@ Academic Experience
   * Faculty of electrical and computer engineering, University of Tabriz, Iran.
   * Lecturer: Dr.Seyed Amir Mortazavi
 
-* Teaching Assistant of **Software Engineer 1 **, <small> Sep 2023- Jan 2023</small> 
+* Teaching Assistant of **Software Engineer 1**, <small> Sep 2023- Jan 2023</small> 
   * Faculty of electrical and computer engineering, University of Tabriz, Iran.
   * Lecturer: Dr.Leili Farzinvash
 
