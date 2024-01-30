@@ -11,9 +11,9 @@ title                    : "Salar Mokhtari Laleh"
 title_separator          : "-"
 name                     : &name "Salar Mokhtari Laleh"
 description              : &description "Artificial Intelligence Researcher & Lecturers"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://salarmokhtaril.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/salarMokhtariL/salarMokhtariL.github.io/tree/master"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Salar Mokhtari Laleh"
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/75142232?v=4"
   bio              : "Artificial Intelligence Researcher & Lecturers"
   location         : "Iran"
   employer         :
