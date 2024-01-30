@@ -23,6 +23,7 @@ I am interested in various topics, ranging from low-level to high-level vision a
 
 Publications
 ======
+<br/>
 
 International Journals  
 ======
