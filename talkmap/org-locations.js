@@ -120,6 +120,11 @@ var addressPoints = [
     55.86053320408491, 
     -4.242903124728601
   ],
+  [
+    "Glasgow, Scotland", // EPSA: 2024 (University of Strathclyde,The Technology and Innovation Centre)
+    50.94876148678886, 
+    6.94348770962405
+  ],
 // ECPR
   [
     "Inssbruck, Austria", // ECPR: 2022 (University of Innsbruck)

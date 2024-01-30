@@ -64,7 +64,8 @@ Research
       <td>
         <ul>
           <li>April 4th-7th 2024: Chicago (IL, U.S.), MPSA conference.</li>
-          <li>June 25th - 28th 2024: Bergen (Norway), NOPSA conference.</li>
+          <li>June 25th-28th 2024: Bergen (Norway), NOPSA conference.</li>
+          <li>July 4th-6th 2024: Cologne (Germany), EPSA conference.</li>
        </ul>
       </td>
     </tr>

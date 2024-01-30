@@ -18,6 +18,7 @@ I have presented / will be presenting at...
 
 
 #### European Political Science Association (EPSA)
+- Cologne, Germany: 2024: Panel: TBA.
 - Glasgow, Scotland: 2023: Panel: The many dimension of evaluating candidates.
 - Prague, Czech Republic: 2022. Panel: Patronage & Accountability.
 
