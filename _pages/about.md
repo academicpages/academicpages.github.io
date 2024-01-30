@@ -110,6 +110,5 @@ References
 
 
 | :--------: | :-------: |
-| **Dr. Seyed Amir Mortazavi** <br> <small>Director of the Department of Information and Technology, Faculty of Electrical & Computer Engineering, University of Tabriz, Tabriz,ran</small> <br>sa.mortezavi@tabrizu.ac.ir |  Robotics |
-| IoT | Network and Cybersecurity |
-| Optimization    | Algorithm    |
+| **Dr. Seyed Amir Mortazavi** <br>sa.mortezavi@tabrizu.ac.ir |  **Dr. Pedram Salehpour** <br>psalehpoor@tabrizu.ac.ir |
+| **Dr. Leili Farzinvash** <br>l.farzinvash@tabrizu.ac.ir | **Dr. Abdulhamid Moalemi Khayavi** <br>s moallemi@tabrizu.ac.ir   |
