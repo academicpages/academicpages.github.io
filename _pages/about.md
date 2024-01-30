@@ -20,7 +20,9 @@ Academic Background
 
 ------
 Research Interests
-=====
+======
+
+
 | | |
 | -------- | ------- |
 | Machine Learning  |  Robotics |
@@ -47,6 +49,8 @@ Academic Experience
   * Lecturer: Dr.Seyed Amir Mortazavi
 
 * Teaching Assistant of **Discrete Mathematics**, <small> Jan 2021- May 2022</small> 
+  * Faculty of electrical and computer engineering, University of Tabriz, Iran.
+  * Lecturer: Dr.Seyed Amir Mortazavi
   
 
 
