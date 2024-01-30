@@ -23,8 +23,8 @@ I am interested in various topics, ranging from low-level to high-level vision a
 
 Research
 ======
+&middot; International Journals  
 <br/>
-&middot; International Journals  <br/>
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/memory.PNG" alt=""> </figure> | **Memory-guided Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 31, pp. 4090 - 4103, Jun. 2022 <br/>(Impact factor: **10.856**) <br/>[Paper](https://jhcho90.github.io/files/TIP22_deraining.pdf) |
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/eswa3.png" alt=""> </figure> | **Deep Monocular Depth Estimation Leveraging a Large-scale Outdoor Stereo Dataset**<br/>**Jaehoon Cho**, Dongbo Min, Youngjung Kim, Kwanghoon Sohn<br/>Expert Systems With Applications **(ESWA)**, vol. 178, Mar. 2021 <br/>(Impact Factor: **5.452**) <br/>[Project page](https://dimlrgbd.github.io/) \| [Paper](https://jhcho90.github.io/files/Depth_ESWA2021.pdf) \| [Dataset](https://dimlrgbd.github.io/rawdata) | 
 | <figure style="width: 120px"> <img src="https://jhcho90.github.io/images/tip.png" alt=""> </figure> | **Single Image Deraining using Time-lapse data**<br/>**Jaehoon Cho**, Seungryong Kim, Dongbo Min, Kwanghoon Sohn<br/>IEEE Trans. on Image Processing **(TIP)**, vol. 29, pp. 7274-7289, Jun. 2020 <br/>(Impact factor: **9.340**)<br/>[Paper](https://jhcho90.github.io/files/derain_TIP2020.pdf) |
