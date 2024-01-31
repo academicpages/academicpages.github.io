@@ -25,9 +25,9 @@ redirect_from:
 ---
 * 5G/B5G network (FANET, Heterogeneous, massive MIMO, D2D)
 * Deep reinforcement learning algorithm-based optimization
-* IoT, ICT sensing-based, sensor fusion-based smart solution (with WiFi signals, multi-modal sensors, Camera, etc)
+* IoT sensing-based, sensor fusion-based smart solution (with WiFi signals, multi-modal sensors, Camera, etc)
 * SDR testbed-based wireless communication (Design and validation)
-* Objective detection and tracking based on a multi-modal AI model (fusion of WiFi signals and video streams)
+* Object detection and tracking based on a multi-modal AI model (fusion of WiFi signals and video streams)
 
 
 연구 경험 (Research Experience)
