@@ -13,8 +13,8 @@ Big Data Analytics, Robust & Computational Statistics, Statistical Learning, Sto
 
 Education
 ======
-1. [Ph.D., Mathematics](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=238122), University of Wisconsin-Milwaukee, Milwaukee, WI (2018).
-1. M.S., Mathematics, [New Mexico State University](https://math.nmsu.edu/), Las Cruces, NM (2013).
+. [Ph.D., Mathematics](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=238122), University of Wisconsin-Milwaukee, Milwaukee, WI (2018).
+. M.S., Mathematics, [New Mexico State University](https://math.nmsu.edu/), Las Cruces, NM (2013).
 1. M.A., Mathematics, [Tribhuvan University](https://www.cdmathtu.edu.np/), Kathmandu, Nepal (2009).
 1. B.A., Mathematics, [Tribhuvan University](https://tu.edu.np/), Kathmandu, Nepal (2005).
 1. B.Ed., Mathematics Education, [Tribhuvan University](https://dhmc.tu.edu.np/), Dhankuta, Nepal (2004).
