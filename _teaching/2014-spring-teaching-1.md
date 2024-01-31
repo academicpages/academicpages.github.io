@@ -1,5 +1,5 @@
 ---
-title: "CC713 MINERIA DE DATOS"
+#title: "CC713 MINERIA DE DATOS"
 collection: teaching
 type: "Pregrado"
 #permalink: /teaching/2014-spring-teaching-1
