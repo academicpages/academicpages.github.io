@@ -3,7 +3,15 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-### Purdue University (2016-23)
+### University of Maryland Baltimore County (2023 -- )
+- **CMSC 471: Introduction to Artificial Intelligence**
+    - [Spring'24](https://umbc-cmsc471.github.io/spring2024/)
+    - [Fall'23](https://umbc-cmsc471.github.io/fall2023-public/)
+- **CMSC 478: Introduction to Machine Learning**
+    - [Spring'24](https://umbc-cmsc478.github.io/spring2024/)
+    - [Fall'23](https://umbc-cmsc478.github.io/fall2023-public/)
+
+### Purdue University (2016 -- 23)
 - [CS 59000BB: Situation Awareness, Adversarial ML, and Explainable AI](https://www.cs.purdue.edu/homes/bb/2020-fall-cs590bb/),  Fall 2020 <br>
 [CS 54701: Information Retrieval](https://www.cs.purdue.edu/homes/clifton/cs54701/), Spring 2020 <br>
 <b> Guest lectured </b> on <i>situational knowledge, knowledge graphs, and multimodal information retrieval</i>. Talked about cross correlation learning, metric learning, decoder-encoder networks, and attention networks. Taught about video feature extraction with YOLO, text feature extraction, graph embedding techniques, and graph matching. Also demonstrated a multimodal retrieval system with text, image, and video modalities.
@@ -16,7 +24,7 @@ Developed solutions to five programming assignments throughout the semester whil
     - CS44800: Introduction To Relational Database Systems; [Fall 2019](https://www.cs.purdue.edu/homes/bb/cs448f19/), [Spring 2023](https://www.cs.purdue.edu/homes/bb/cs448s23/index.html)
     - [CS53600: Data Communication and Computer Networks](https://gitlab.com/purdue-cs536/fall-2022/public); Fall 2022
 
-### 2014-16
+### 2014 -- 16
 - <b>Primary Instructor</b>, Ahsanullah University of Science & Technology (Bangladesh)
     - CSE 1102: Structured Programming (C); [Fall 2014](https://sites.google.com/site/kmasolaiman/courses/fall-2014/cse-1102)
     - CSE 1108: Introduction to Computer Systems; Fall 2015
