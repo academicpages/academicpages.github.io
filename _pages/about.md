@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "pathivara.jpg"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
