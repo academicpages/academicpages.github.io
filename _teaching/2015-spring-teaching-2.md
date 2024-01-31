@@ -2,7 +2,7 @@
 title: "CC716 GESTION DE SOLUCIONES TI"
 collection: teaching
 type: "Pregrado"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/CC716-GESTION-DE-SOLUCIONES TI
 venue: "Universidad de Tarapacá, Departamento de Ingeniería y Tecnologías"
 date: 2023-08-07
 ---
