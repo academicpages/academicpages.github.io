@@ -17,13 +17,13 @@ Experiencia
 ======
 * Profesor instructor - Departamento de Ingeniería y Tecnologías, Universidad de Tarapacá , 2022 - hoy
 
-Publicaciones
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Difusión
+Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
