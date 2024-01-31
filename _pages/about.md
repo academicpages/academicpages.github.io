@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-[Formal Verification of Machine Learning Models](https://bhabeshmali.github.io/publications)
+[Formal Verification of Machine Learning Models](https://bhabeshmali.github.io/fpv/)
 ======
 
 
-Machine Learning for EDA
+[Machine Learning for EDA](https://bhabeshmali.github.io/mlForEDA/)
 ======
 
 LLM for EDA/Verification

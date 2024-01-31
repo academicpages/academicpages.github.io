@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "FV for ML Models"
-permalink: /publications/
+title: "Formal Verification of ML Models"
+permalink: /fpv/
 author_profile: true
 ---
 
