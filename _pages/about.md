@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Sobre mi"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,17 @@ redirect_from:
   - /about.html
 ---
 
--Recibí mi título en Ingeniería Civil Informática en la Universidad de Tarapacá con promedio 6,0. Mi memoria consistió en un estudio comparativo de técnicas de clasificación con datos de estudiantes mujeres que eligen carreras de computación/informática en universidades pertenecientes al Consejo de Rectores de las Universidades de Chile (CRUCH) en el norte de Chile, con el fin de identificar variables relevantes para elegir dichas carreras. En el transcurso de mi carrera realice diversas ayudantías y presente un trabajo en una conferencia. Después de graduarme, seguí realizando clases en la Universidad y descubrí que no podía dejar de lado la docencia ni la investigación. 
+Welcome to my personal site!. 
 
-Actualmente sigo como docente y en miras de iniciar un magister para especializarme en el área relacionada visión por computador. 
+I received a degree in Computer Science Engineering from the Tarapacá University, where I graduated with a score of 6.0
+My final project consisted of a comparative study of classification techniques using data from female students choosing computer science/information technology careers in universities affiliated with the Council of Rectors of Universities in Chile (CRUCH) in the northern region of Chile. The aim was to identify relevant variables influencing the choice of such careers.
+During my undergraduate degree, I made different teaching assistant and presented a paper at a conference. After graduated, I continued to teach at the university and discovered that I could not give up teaching and research. 
+Actually I’m lecturing in Tarapacá University and I’m interested in pursuing postgraduate studies, specifically a Master's program focusing on research areas in computer vision and reinforcement learning. 
 
-🔬 Áreas de interés :
 
-  * Visión por computador
-  * Reconocimiento de patrones
+🔬 Interests :
+
+  * Computer Vision
+  * Pattern Recognition
+  * Reinforcement Learning
  
