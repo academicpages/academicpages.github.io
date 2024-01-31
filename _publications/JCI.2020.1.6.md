@@ -1,0 +1,16 @@
+---
+title: "Diseno para la adaptacion e instrumentacion de una maquina de remo a ser usada en sujetos con lesion medular"
+collection: publications
+permalink: /publication/01/08/2020-https://doi.org/10.46571/JCI.2020.1.6
+excerpt: 'description'
+date: 01/08/2020
+venue: 'Journal de Ciencia e Ingenieria'
+paperurl: 'http://andimec.github.io/files/paper1.pdf'
+citation: 'cite'
+---
+
+<a href='http://andimec.github.io/files/paper1.pdf'>Download paper here</a>
+
+description
+
+Recommended citation: cite
