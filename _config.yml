@@ -88,7 +88,8 @@ author:
   avatar           : "solaiman-profile-pic.jpeg" # "profile.png"    # it's image uploaded to /images/
   bio              : PhD in Computer Science, Purdue University #"Computer Scientist"
   location         : Catonsville, MD
-  employer         :
+  employer         : UMBC
+  employerpage     : "https://www.csee.umbc.edu/kma-solaiman-salvi/"
   cv               : "/files/pdf/kma_solaiman.pdf" # "/files/pdf/Solaiman_CV_Spring23.pdf"
   pubmed           :
   orcid            : # "http://orcid.org/0000-0003-1218-9237"                   # don't wanna show, uncomment if want to show in homepage
