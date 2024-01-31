@@ -64,6 +64,7 @@ Research
       <td>
         <ul>
           <li>April 4th-7th 2024: Chicago (IL, U.S.), MPSA conference.</li>
+          <li>May 21st-23rd 2024: Copenhagen (Denmark), NOLAN/FIEALC conference.</li>
           <li>June 25th-28th 2024: Bergen (Norway), NOPSA conference.</li>
           <li>July 4th-6th 2024: Cologne (Germany), EPSA conference.</li>
        </ul>
@@ -72,7 +73,7 @@ Research
   </tbody>
 </table>
 
-
+May 21-23, 2024
 
 <!---
 

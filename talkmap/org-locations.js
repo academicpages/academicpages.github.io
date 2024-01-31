@@ -10,10 +10,13 @@ var addressPoints = [
     29.949545,
     -90.076742
   ],
-  // LASA
   [
     "Vancouver, CA", // LASA 2023 (Canada)
     49.28912777573468, -123.11687059483036
+  ],
+  [
+    "Copenhagen, Denmark", // NOLAN 2024 Nordic Political Science Association Conference
+    55.661830163502444, 12.59017367381444
   ],
   [
     "San Francisco, USA", // LASA 2022 (Zoom!)
