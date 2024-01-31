@@ -6,8 +6,6 @@ redirect_from:
   - /Research-Interst.html
 ---
 
- 
-
 Preprints
 ======
 - **Poudyal, C.** (2024). Robust estimation of the tail index of a single parameter Pareto distribution from grouped data. [arXiv:2401.14593](https://arxiv.org/abs/2401.14593)
