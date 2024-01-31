@@ -1,6 +1,6 @@
 ---
 collection: publications
-permalink: /
+permalink: /publication/Research_Interest
 author_profile: true
 redirect_from: 
   - /publications/
