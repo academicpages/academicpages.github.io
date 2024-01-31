@@ -2,7 +2,7 @@
 title: "Preprints"
 collection: publications
 permalink: /publication/Research_Interest
-author_profile: true
+author_profile: false
 redirect_from: 
   - /publications/
   - /Research-Interst.html/
