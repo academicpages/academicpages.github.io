@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Mathematical Sciences, University of Wisconsin-Milwaukee. My research areas includes; Actuarial Data Science
+I am an Assistant Professor in the Department of Mathematical Sciences, University of Wisconsin-Milwaukee. My research areas include; Actuarial Data Science
 Big Data Analytics, Robust & Computational Statistics, Statistical Learning, Stochastic Optimization, etc. 
 
 Education
