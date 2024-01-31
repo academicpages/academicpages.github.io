@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Picture Please!"
+title: "pathivara.jpg"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
