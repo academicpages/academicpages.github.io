@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am an Assistant Professor in the Department of Mathematical Sciences, University of Wisconsin-Milwaukee. My research areas includes; Actuarial Data Science
+Big Data Analytics, Robust & Computational Statistics, Statistical Learning, Stochastic Optimization, etc. 
 
 Education
 ======
