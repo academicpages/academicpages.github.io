@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. [Ph.D., Mathematics](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=238122), University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, The USA (2018).
+1. M.S., Mathematics, New Mexico State University, Las Cruces, New Mexico, The USA (2013).
+1. M.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2009).
+1. B.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2005).
+1. B.Ed., Mathematics Education, Tribhuvan University, Dhankuta, Nepal (2004).
 
 Site-wide configuration
 ------
