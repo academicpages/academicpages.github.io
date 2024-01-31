@@ -14,6 +14,8 @@ permalink: /collaborators/
 
 -[Andrea Luppi (U.K)](https://scholar.google.com/citations?user=oHHFZY4AAAAJ&hl=en)
 
+-[Robin Carhart-Harris (USA)] (https://www.carhartharrislab.com/interviews)
+
 -[Cesar Maldonado (Mexico)](https://sites.google.com/view/cesarmaldonado/home)
 
 -[Joana Cabral (Portugal)](https://sites.google.com/site/cvjoanacabral/)
