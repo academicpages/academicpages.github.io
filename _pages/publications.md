@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "FV for ML Models"
 permalink: /publications/
 author_profile: true
 ---
