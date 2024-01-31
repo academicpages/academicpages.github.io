@@ -1,10 +1,10 @@
 ---
-title: "CC713 MINERIA DE DATOS"
+title: "CC713 Data Mining"
 collection: teaching
-type: "Pregrado"
-permalink: /teaching/CC713-MINERIA-DE-DATOS
-venue: "Universidad de Tarapacá, Departamento de Ingeniería y Tecnologías"
+type: "undergraduate"
+permalink: /teaching/CC713-Data-Mining
+venue: "Tarapacá Univeristy"
 date: 2023-03-01
 ---
-
-Asignatura base para el área de Minería de datos. Se da a conocer y aplicar técnicas y herramientas para descubrir patrones útiles para la toma de decisión.
+Years: 2023-2024
+Generate knowledge from various types of data, applying the process of 'knowledge discovery in databases,' with emphasis on Data Mining techniques (data cleaning, classification, clustering, association analysis, etc)
