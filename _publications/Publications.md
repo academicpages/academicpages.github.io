@@ -2,7 +2,7 @@
 title: "Publications"
 collection: publications
 permalink: /publication/Publications
-author_profile: true
+author_profile: false 
 redirect_from: 
   - /publications/
   - /Research-Interst.html/
