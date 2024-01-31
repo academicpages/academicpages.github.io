@@ -1,7 +1,7 @@
 ---
 title: "Multipurpose Vacuum Accident Scenarios (MuVacAS) prototype for the IFMIF-DONES linear accelerator."
 collection: publications
-permalink: /publication/01/09/2023-https://doi.org/10.18429/JACoW-IPAC2023-THPA156
+permalink: /publication/JACoW-IPAC2023-THPA156
 excerpt: 'Presentation of the prototype MuVacAS at the International Particle Accelerator Conference IPAC 2023'
 date: 01/09/2023
 venue: 'JACoW Publishing'
