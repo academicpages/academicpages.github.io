@@ -23,8 +23,8 @@ redirect_from:
 
 연구 분야 (Research Areas)
 ---
-* 5G/B5G network (FANET, Heterogeneous, massive MIMO, D2D)
-* Deep reinforcement learning algorithm-based optimization
+* 5G/B5G network (Heterogeneous, massive MIMO systems)
+* Deep reinforcement learning algorithm-based optimization (multi-agent, multi-objective RL)
 * IoT sensing-based, sensor fusion-based smart solution (with WiFi signals, multi-modal sensors, Camera, etc)
 * SDR testbed-based wireless communication (Design and validation)
 * Object detection and tracking based on a multi-modal AI model (fusion of WiFi signals and video streams)
