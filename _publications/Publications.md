@@ -1,5 +1,13 @@
-Publications
-======
+---
+title: "Publications"
+collection: publications
+permalink: /publication/Publications
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /Research-Interst.html/
+---
+
 - **Poudyal, C.**, Zhao, Q., and Brazauskas, V. (2024). [Method of winsorized moments for robust fitting of truncated and censored lognormal distributions](https://doi.org/10.1080/10920277.2023.2183869). *North American Actuarial Journal*. Forthcoming.
 - **Poudyal, C.**, and Brazauskas, V. (2023). [Finite-sample performance of the T- and W-estimators for the Pareto tail index under data truncation and censoring](https://doi.org/10.1080/00949655.2022.2146114). *Journal of Statistical Computation and Simulation*, 93(10): 1601-1621.
 - **Poudyal, C.**, and Brazauskas, V. (2022). [Robust estimation of loss models for truncated and censored severity data](https://variancejournal.org/article/38334-robust-estimation-of-loss-models-for-truncated-and-censored-severity-data). *Variance*, 15(2): 1-20.
