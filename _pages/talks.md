@@ -32,7 +32,7 @@ I have presented / will be presenting at...
 - Bergen, Norway: 2024. Panel: Parties, Governments, and Policy Making.
 
 
-#### Nordic Political Science Association Conference (NOLAN)
+#### Nordic Latin American Research Network (NOLAN)
 - Copenhagen, Denmark: 2024. Panel: TBA.
 
 
