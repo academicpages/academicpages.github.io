@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-1. [Ph.D., Mathematics](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=238122), University of Wisconsin-Milwaukee, Milwaukee, Wisconsin, The USA (2018).
-1. M.S., Mathematics, New Mexico State University, Las Cruces, New Mexico, The USA (2013).
+1. [Ph.D., Mathematics](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=238122), University of Wisconsin-Milwaukee, Milwaukee, WI (2018).
+1. M.S., Mathematics, New Mexico State University, Las Cruces, NM (2013).
 1. M.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2009).
 1. B.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2005).
 1. B.Ed., Mathematics Education, Tribhuvan University, Dhankuta, Nepal (2004).
