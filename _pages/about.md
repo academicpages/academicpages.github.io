@@ -16,11 +16,8 @@ Education
 1. B.A., Mathematics, Tribhuvan University, Kathmandu, Nepal (2005).
 1. B.Ed., Mathematics Education, Tribhuvan University, Dhankuta, Nepal (2004).
 
-Site-wide configuration
-------
-To come! 
-
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Experience
+======
+1. August 2023 - Assistant Professor, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. 
+1. August 2021 July 2023, Visiting Assistant Professor with Graduate Faculty status, Department of Statistics and Data Science, University of Central Florida, Orlando, FL.
+1. August 2018 July 2021, Assistant Professor, Department of Mathematics, Tennessee Tech University, Cookeville, TN.
