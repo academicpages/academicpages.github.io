@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 Educación
 ======
@@ -44,4 +44,4 @@ Actividades extracurriculares
 Certificaciones y diplomados
 ======
 * Diploma de Postítulo en Ciencia e ingeniería de Datos, Universidad de Chile, 2021
-* Cambridge English Entry Level Certificate in ESOL International (Level A2), 2019
+* Cambridge English Entry Level Certificate in ESOL International (Level A2), 2019 -->
