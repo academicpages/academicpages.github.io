@@ -2,7 +2,7 @@
 permalink: /
 author_profile: true
 redirect_from: 
-  - /Research-Interst/
+  - /publications/
   - /Research-Interst.html
 ---
 
