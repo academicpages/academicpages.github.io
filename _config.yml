@@ -181,6 +181,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+    exclude: "2015-10-01-paper-title-number-3.md"
   portfolio:
     output: true
     permalink: /:collection/:path/
