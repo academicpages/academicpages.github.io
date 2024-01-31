@@ -19,5 +19,5 @@ Education
 Experience
 ======
 1. August 2023 - Assistant Professor, Department of Mathematical Sciences, University of Wisconsin-Milwaukee, Milwaukee, WI. 
-1. August 2021 July 2023, Visiting Assistant Professor with Graduate Faculty status, Department of Statistics and Data Science, University of Central Florida, Orlando, FL.
-1. August 2018 July 2021, Assistant Professor, Department of Mathematics, Tennessee Tech University, Cookeville, TN.
+1. August 2021 - July 2023, Visiting Assistant Professor with Graduate Faculty status, Department of Statistics and Data Science, University of Central Florida, Orlando, FL.
+1. August 2018 - July 2021, Assistant Professor, Department of Mathematics, Tennessee Tech University, Cookeville, TN.
