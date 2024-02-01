@@ -234,7 +234,7 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      comment: true
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -242,7 +242,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
+      share: true
 
 # Sass/SCSS
 sass:
