@@ -11,6 +11,8 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Sasse
 * Language: English
 * Credits: 5 CP
+* Programs: B.Sc./M.Sc. IT-Security
+* Examination: 100 % Written Exam (120 Minutes)
 
 Course Description
 ======
