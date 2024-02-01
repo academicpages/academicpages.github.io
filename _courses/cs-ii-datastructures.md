@@ -11,3 +11,5 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr.-Ing. Güneysu
 * Language: German
 * Credits: 5 CP
+* Programs: B.Sc. Applied Computer Science, B.Sc. IT-Security
+* Examination: 100 % Written Exam (120 Minutes)
