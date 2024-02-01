@@ -12,6 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 1 CP
 * Programs: B.Sc. IT-Security
+* Examination: Pass by attendance
 
 
 Course Description
