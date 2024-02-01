@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. IT-Security
-* Examination: Pass if final exam (120 Minutes) passed
+* Examination: Pass if final exam (120 Minutes) passed + 8 % Programming Projects
 
 Contents
 ======
