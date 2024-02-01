@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Dr. Bonse
 * Language: German
 * Credits: 5CP
-* Eamination: 100% Written Exam
+* Examination: 100% Written Exam
 
 Course Description
 ======
