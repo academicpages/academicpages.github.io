@@ -6,7 +6,7 @@ excerpt: 'As an institution with experience in archiving records from different 
 date: 2020-05-01
 venue: 'The Southwest Archivist'
 paperurl: 'https://societyofsouthwestarchivists.wildapricot.org/resources/Documents/Newsletters/SWA2020v43no2-May.pdf'
-citation: 'Pryse, JA. (2020). "Carl Albert Center COVID-19 Curation Project." The Southwestern Archivist(Capital Printing Co.) 43 (2): 18-24.'
+citation: 'Pryse, JA. (2020). Carl Albert Center COVID-19 Curation Project. The Southwestern Archivist(Capital Printing Co.) 43 (2): 18-24.'
 ---
 [Download paper here](https://societyofsouthwestarchivists.wildapricot.org/resources/Documents/Newsletters/SWA2020v43no2-May.pdf)
 
