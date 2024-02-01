@@ -11,7 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Zeume
 * Language: German
 * Credits: 5 CP
-* Examination: 100 % Written Exam (120 Minutes)
+* Examination: 100 % Written Exam (120 Minutes) + 10 % Homework
 
 
 Course Description
