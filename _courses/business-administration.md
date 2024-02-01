@@ -11,6 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Dr. Düsing
 * Language: German
 * Credits: 5 CP
+* Examination: 100 % Written Exam (120 Minutes)
 
 Course Description
 ======
