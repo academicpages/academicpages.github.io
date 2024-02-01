@@ -11,7 +11,8 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Lipinski
 * Language: German
 * Credits: 10 CP
-* Programs: B.Sc. Eletrical and Computer Engineering, B.Sc. IT-Security
+* Programs: B.Sc. Electrical and Computer Engineering, B.Sc. IT-Security
+* Examination: 100 % Written Exam (120 Minutes)
 
 
 Course Description
