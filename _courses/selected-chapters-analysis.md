@@ -8,6 +8,10 @@ date: 2019-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. Abbondandolo
+* Lecturer: Prof. Dr. Abbondandolo
+* Language: German
+* Credits: 6 CP
+* Programs: B.Sc. Mathematics
+* Examination: 100 % Seminar Talk
 
 My topic: Chebychev Polynomials
