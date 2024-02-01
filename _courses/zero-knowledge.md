@@ -12,6 +12,7 @@ location: "Bochum, Germany"
 * Language: English
 * Credits: 5 CP
 * Programs: M.Sc. IT-Security, M.Sc. Mathematics
+* Examination: 100 % Oral Exam (45 Minutes)
 
 
 Course Description
