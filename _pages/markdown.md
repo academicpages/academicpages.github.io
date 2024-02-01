@@ -1,202 +1,29 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Grants"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## Grant Funded Projects - Contributions and Management
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* [The James R. Jones Carl Albert Center Digital Archive (PI)](https://oucac.access.preservica.com/): Ambassador James R. Jones donated $1,000,000 to facilitate the migration of all digital collections from ArchivesSpace to the Preservica digital content management platform (Gift received on 2021-08-19).
+* [Historical Collection of Political Campaign Advertisements: Online Archiving, Automated Coding, and Scientific Analysis (co-PI)](https://s-lib024.lib.uiowa.edu/campaignvids/index.html): Collaboration with Harvard University and Iowa State University, funded by the National Science Foundation (NSF) with a grant of $380,000 (Awarded on 2022-02-03). The project aims to develop an automated system to identify politically relevant content from ad images, audio, and text and create a user-friendly interface for researchers.
+* [American Congress Digital Archives Portal (co-PI)](https://congressarchives.org/) Collaboration with the National Endowment for the Humanities (NEH), Dirksen Congressional Center, Robert J. Dole Institute of Politics at the University of Kansas, Richard B. Russell Library for Political Research and Studies at the University of Georgia, and the University of Hawai’i, funded with $350,000 (Awarded on 2023-04-18).
+* Congressional Correspondence Handwriting Textract Pilot Project (PI): A pilot project by the Data Institute for Societal Challenges (DISC) to evaluate AWS Textract platform for optical character recognition (OCR) on handwritten letters in archival holdings, funded with $2,500 (Awarded on 2022-05-19).
+* [The Independent Student Voice: Access to the University of Oklahoma’s Historic Newspaper (PI)](https://gateway.okhistory.org/explore/collections/OUSN/): Supported by the Ethics and Excellence in Journalism Foundation with a grant of $25,000 (Awarded on 2020-01-01). This project digitized 100 years of the Campus newspaper, resulting in over 475,000 freely accessible pages on the Gateway to Oklahoma History.
+* [Redlining, a Community Driven Exhibit (co-PI)](https://cacredlining.omeka.net/): Funded by the Oklahoma Humanities Foundation with $5,000 (Awarded on 2020-01-01). The project aims to create an interactive platform that explores the after-effects of redlining through time and place using the voices of Oklahoma City communities.
+* [Carl Albert Center COVID-19 Digital Curation Project (PI)](https://caccovid19.omeka.net/): Created with $5,000 from the Data Institute for Societal Challenges (DISC) at the University of Oklahoma. The project documents COVID-19 announcements, policies, and responses from various entities.
+* [Carl Albert Platform of Interactive Discovery (PI)](https://cacdiscovery.omeka.net/): Funded with $3,000 from the Oklahoma Department of Libraries and the Oklahoma Historical Records Advisory Board. The project aims to digitize, preserve, and host the Carl Albert Photograph Series and related textual passages.
+* Improving Access to Collections: Grants for Archival Collections Representing Oklahoma: Providing Access to the Digital Materials of the Carl Albert Collection (PI): Funded with $2,859.00 from the National Historical Publications and Records Commission (NHPRC) through the Oklahoma Historical Records Advisory Board (OHRAB) and Oklahoma Department of Libraries (ODL) grant.
+* Sounds of History (PI): Supported by the Oklahoma Humanities Foundation with a grant of $1,500 (Awarded on 2020-02-14). The project aims to create an archival audio studio at the Carl Albert Congressional Research and Studies Center.
+* Carl Albert Congressional Research and Studies Center Native American Politics Archival Workshop (co-PI): Funded with $5,000 from the Special Projects Fund of The American Political Science Association’s Centennial Center (APSA). The project provides funding for non- OU scholars to access the Center's archival collections and hosts a weeklong workshop to explore unexplored segments.
+* [Bob Wills and his Texas Playboys, Let’s Playboys: Supported by The Grammy Foundation, with $20,000 (Managed in 2012-04-01)](https://www.oklahoman.com/story/entertainment/music/2015/05/26/oklahoma-historical-society-releases-bob-wills-record/60744203007/). The project aimed to preserve, digitize, and produce an album of 600 hours of Bob Wills’ music recorded in the 1940s on glass transcription discs.
+* [The Gateway to Oklahoma History: Supported by the Ethics and Excellence in Journalism Foundation](https://gateway.okhistory.org/). This project involved the digitization of Oklahoma newspapers prior to 1923, with three awards received in 2009, 2011, and 2013.
+* Oklahoma Commissioners of the Land Office Digitization and Preservation Project (PI): Funded with $98,000 from the Oklahoma Commissioners of Land. The project transferred and preserved over 20,000 pages of historical land records dating before Oklahoma Statehood (1905-1907) to enable remote access.
+* [The Oklahoma State Legislature Preservation and Digitization Program – Oklahoma Senate (PI)](https://oksenate.gov/calendar/journals): Resulted in 13 million searchable pages of Oklahoma State Senate Journals from statehood (1907) through the present, funded in FY2015.
+* Oklahoma State Tourism and Recreation Digitization Project (PI): Funded with $90,000 from the Oklahoma Department of Tourism and the State of Oklahoma. The project resulted in over 118,000 preserved and digitized maps, ledgers, photographs, and blueprints accessible within the State OMES networked platform.
+* [The Living Legends Oral History Project (PI)](https://www.youtube.com/@OHSAudioArchives): Supported by a grant of $3,000 to digitize, preserve, and conserve 3,000 magnetic tape reel-to-reel recordings of individual oral histories from prominent Oklahoma citizens (Awarded in FY2014).
 
-## Tips and hints
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
-
-## Markdown guide
-
-### Header three
-
-#### Header four
-
-##### Header five
-
-###### Header six
-
-## Blockquotes
-
-Single line blockquote:
-
-> Quotes are cool.
-
-## Tables
-
-### Table 1
-
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
-
-### Table 2
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
-
-## Definition Lists
-
-Definition List Title
-:   Definition list division.
-
-Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
-
-#dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
-
-Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
-
-## Unordered Lists (Nested)
-
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
-
-## Ordered List (Nested)
-
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
-      2. List item two
-      3. List item three
-      4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
-
-## HTML Tags
-
-### Address Tag
-
-<address>
-  1 Infinite Loop<br /> Cupertino, CA 95014<br /> United States
-</address>
-
-### Anchor Tag (aka. Link)
-
-This is an example of a [link](http://github.com "Github").
-
-### Abbreviation Tag
-
-The abbreviation CSS stands for "Cascading Style Sheets".
-
-*[CSS]: Cascading Style Sheets
-
-### Cite Tag
-
-"Code is poetry." ---<cite>Automattic</cite>
-
-### Code Tag
-
-You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
-
-### Strike Tag
-
-This tag will let you <strike>strikeout text</strike>.
-
-### Emphasize Tag
-
-The emphasize tag should _italicize_ text.
-
-### Insert Tag
-
-This tag should denote <ins>inserted</ins> text.
-
-### Keyboard Tag
-
-This scarcely known tag emulates <kbd>keyboard text</kbd>, which is usually styled like the `<code>` tag.
-
-### Preformatted Tag
-
-This tag styles large blocks of code.
-
-<pre>
-.post-title {
-  margin: 0 0 5px;
-  font-weight: bold;
-  font-size: 38px;
-  line-height: 1.2;
-  and here's a line of some really, really, really, really long text, just to see how the PRE tag handles it and to find out how it overflows;
-}
-</pre>
-
-### Quote Tag
-
-<q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
-
-### Strong Tag
-
-This tag shows **bold text**.
-
-### Subscript Tag
-
-Getting our science styling on with H<sub>2</sub>O, which should push the "2" down.
-
-### Superscript Tag
-
-Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
-
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
