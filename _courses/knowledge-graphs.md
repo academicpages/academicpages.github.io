@@ -11,6 +11,7 @@ location: "Bochum, Germany"
 * Lecturer: Jun.-Prof. Dr. Acosta
 * Language: English
 * Credits: 5 CP
+* Examination: 100 % Written Exam (90 Minutes)
 
 
 Course Description
