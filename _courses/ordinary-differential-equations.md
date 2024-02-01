@@ -12,6 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 9 CP
 * Programs: B.A./B.Sc./M.Ed./M.Sc. Mathematics
+* Examination: 100 % Oral Exam (120 Minutes)
 
 
 Course Description
