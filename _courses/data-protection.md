@@ -8,7 +8,11 @@ date: 2022-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Lentzsch and Loser
+* Lecturer: Lentzsch and Loser
+* Language: German
+* Credits: 5 CP
+* Programs: B.Sc. Applied Computer Science, B.Sc. Computer Science, B.Sc. IT-Security
+* Examination: 100 % Written Exam (90 Minutes)
 
 Course Description
 ======
