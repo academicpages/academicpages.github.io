@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: English
 * Credits: 9 CP
 * Programs: M.Sc. Mathematics, M.Sc. IT-Security, M.Sc. Applied Computer Science, M.Sc. Computer Science
-* Examination: Oral Exam (30 Minutes)
+* Examination: 100 % Oral Exam (30 Minutes)
 
 Prior Knowledge
 =====
