@@ -1,7 +1,7 @@
 ---
 title: "Carl Albert Center COVID-19 Curation Project"
 collection: publications
-permalink: /publication/2020covid.md
+permalink: /publication/2020covid
 excerpt: 'As an institution with experience in archiving records from different levels of government, the Center has the appropriate experience and tools necessary to collect, preserve, and share both paper and digital records, correspondence, public communications, and website data related to the State of Oklahoma and the City of Norman, Oklahoma's COVID-19 pandemic response.'
 date: 2020-05-01
 venue: 'The Southwest Archivist'
