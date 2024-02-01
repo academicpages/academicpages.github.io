@@ -15,7 +15,7 @@ redirect_from:
 [Machine Learning for EDA](https://bhabeshmali.github.io/mlForEDA/)
 ======
 
-[LLM for EDA/Verification]
+[LLM for EDA/Verification]()
 ======
 
 Site-wide configuration
