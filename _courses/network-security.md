@@ -11,7 +11,8 @@ location: "Bochum, Germany"
 * Lecturer: Prof. Dr. Schwenk
 * Language: German
 * Credits: 5 CP
-* Progams: B.Sc. IT-Security, M.Sc. IT-Security / Networks and Systems
+* Programs: B.Sc. IT-Security, M.Sc. IT-Security / Networks and Systems
+* Examination: 100 % Written Exam (120 Minutes)
 
 
 Course Description
