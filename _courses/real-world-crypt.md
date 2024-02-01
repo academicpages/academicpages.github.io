@@ -8,6 +8,10 @@ date: 2020-10-01
 location: "Bochum, Germany"
 ---
 
-offered by Prof. Dr. May
+* Lecturer: Prof. Dr. May
+* Language: German
+* Credits: 3 CP
+* Program: B.Sc./M.Sc. Mathematics, B.Sc./M.Sc. IT-Security
+* Examination: 100 % Seminar Talk
 
 My topic: McTiny: Fast High-Confidence Post-Quantum Key Erasure for Tiny Network Servers
