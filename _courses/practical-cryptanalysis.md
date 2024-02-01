@@ -12,6 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 4 CP
 * Programs: B.Sc./M.Sc. IT-Security
+* Examination: Pass if all 4 projects successfully completed
 
 Course Description
 ======
