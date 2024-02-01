@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 9 CP
 * Programs: B.A./B.Sc. Mathematics, B.Sc. IT-Security
-* Examination: 100 % Oral Exam (45 Minutes) / 100 % Written Exam (120 Minutes)
+* Examination: 100 % Written Exam (120 Minutes) + 10 % Homework / 100 % Oral Exam (45 Minutes)
 
 Course Description
 ======
