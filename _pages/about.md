@@ -15,7 +15,14 @@ redirect_from:
 [Machine Learning for EDA](https://bhabeshmali.github.io/mlForEDA/)
 ======
 
-[LLM for EDA/Verification]()
+[LLM for EDA/Verification](https://bhabeshmali.github.io/llm/)
+======
+
+
+[Logic Locking](https://bhabeshmali.github.io/ll/)
+======
+
+[Side Channel Analysis](https://bhabeshmali.github.io/sca/)
 ======
 
 Site-wide configuration
