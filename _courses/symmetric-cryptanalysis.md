@@ -12,6 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: M.Sc. Applied Computer Science, M.Sc. IT-Security
+* Examination: 100 % Oral Exam (30 Minutes) + Presenting Programming Projects
 
 
 Course Description
