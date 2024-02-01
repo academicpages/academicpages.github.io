@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 3 CP
 * Programs: B.Sc. IT-Security
-* Examination: Lab
+* Examination: Pass if 10 projects successfully completed
 
 Prior Knowledge
 =====
