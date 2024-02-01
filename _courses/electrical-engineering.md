@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 5 CP
 * Programs: B.Sc. Electrical and Computer Engineering, B.Sc. IT-Security
-* Examination: 100 % Written Exam (120 Minutes)
+* Examination: 100 % Written Exam (120 Minutes) + 10 % Homework
 
 Prior Knowledge
 =====
