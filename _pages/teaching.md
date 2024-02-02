@@ -1,7 +1,7 @@
 ---
 title: 'Teaching Experience'
 collection: teaching
-permalink: /teaching/2022-2024-teaching-1.md
+permalink: /teaching/teaching.md
 
 ---
 LIS 5463 Archival Representation
