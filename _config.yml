@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shikang Peng"
 title_separator          : "-"
 name                     : &name "Shikang Peng"
-description              : &description "Master's Student at the University of Chicago"
+description              : &description "Master's Student at University of Chicago"
 url                      : https://shikangpeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shikangpeng/shikangpeng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Shikang Peng"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Master's student at UChicago"
   location         : "Chicago, IL, US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "shikangpeng"
   google_plus      :
   keybase          :
   instagram        :
