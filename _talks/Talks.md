@@ -7,7 +7,7 @@ redirect_from:
   - /talks.html
 ---
 
-Conference and Workshop Presentations (Current year 2023)
+# Conference and Workshop Presentations (Current year 2023)
 
 Archival Education and Research Institute AERI (June 19-23, 2023) - Julian P. Kanter Collection: Chaos and Order. Louisiana State University. https://www.lsu.edu/chse/sis/resources/aeri/aeri2023_prelim_program.pdf
 
