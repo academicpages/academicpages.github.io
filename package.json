@@ -1,22 +1,40 @@
 {
-  "name": "my-app",
+  "name": "edotau",
   "version": "1.0",
   "homepage": "https://audotventures.github.io/",
   "private": true,
   "scripts": {
     "dev": "next",
-    "deploy": "gh-pages -d out",
+    "deploy": "gh-pages -d docs",
     "build": "next build && mv out docs",
     "start": "next start"
   },
-  "dependencies": {
+  "devDependencies": {
     "gh-pages": "^6.1.1",
     "next": "^14.1.0",
-    "nextra": "^2.13.2",
-    "nextra-theme-docs": "^2.13.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-transition-group": "^4.4.5",
     "styletron-engine-atomic": "1.4.6",
-    "styletron-react": "6.1.0"
+    "styletron-react": "6.1.0",
+    "typescript": "5.3.3",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2",
+    "webpack-dev-server": "^3.4.1"
+  },
+  "peerDependencies": {
+    "react": ">= 16",
+    "react-dom": ">= 16",
+    "react-transition-group": ">= 4",
+    "styletron-engine-atomic": "^1.4.0",
+    "styletron-react": "^5.2.0"
+  },
+  "dependencies": {
+    "@mdx-js/loader": "^3.0.0",
+    "@next/mdx": "^14.1.0",
+    "atomize": "^1.0.28",
+    "gh": "^2.8.9",
+    "nextra": "^2.13.3",
+    "nextra-theme-docs": "^2.13.3"
   }
 }

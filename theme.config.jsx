@@ -1,7 +1,10 @@
 export default {
-  logo: <span></span>,
+  logo: <span>Home</span>,
   project: {
-    link: 'https://github.com/audotventures/audotventures.github.io'
-  }
+    link: 'https://github.com/edotau'
+  },
+  footer: {
+    text: 'edotau et. al. 2024',
+  },
   // ... other theme options
 }

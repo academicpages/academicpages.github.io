@@ -1,0 +1,23 @@
+{
+  "index": {
+    "title": "Home",
+    "theme": {
+      "breadcrumb": false,
+      "toc": false
+    }
+  },
+  "experience": {
+    "title": "Experience",
+    "theme": {
+      "breadcrumb": false,
+      "toc": false
+    }
+  },
+  "projects": {
+    "title": "Projects",
+    "theme": {
+      "breadcrumb": false,
+      "toc": false
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<div>
+  <h2>Genomic Basis of Adaptive Evolution</h2>
+  Stickleback repeated adaptation to new environments provide a powerful mechanism to study the molecular genetics of evolutionary changes in wild populations. As we develop stickleback genomic sequencing technologies, we can start mapping genes that control evolutionary change to the genetic basis of adaptive evolution.
+  
+  <h2>Marine Stickleback Genome</h2>
+  The newly minted marine stickleback genome was assembled into 22 chromosomes, 455MB in genome length with an N50 of 21,246,911 base pairs and nearly gapless with only 715 gaps remaining. The marine stickleback was from the Rabbit Slough, Alaska population was was sequenced by combining several long read sequencing technologies with comprehensive enhanced informative short read Illumina sequencing.
+  
+  <li>Visualization: [UCSC Genome Browser](http://genome.ucsc.edu/cgi-bin/hgHubConnect?hgHub_do_redirect=on&hgHubConnect.remakeTrackHub=on&hgHub_do_firstDb=1&hubUrl=http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/hub.txt)</li>
+  <li>Chain Nets to other stickleback assemblies are available: [Here](https://edotau.github.io/chainNets)</li>
+  <li>Stickleback Assembly: [Download](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/rabsTHREEspine.fa)</li>
+  <li>Raw Fastq Data Files: [PacBio](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/assembly/pacbio/) , [10x Genomics](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/assembly/10xGenomics) , [Hi-C](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/assembly/hic) , [Nanopore](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/assembly/nanopore) </li>
+  <h2>Stickleback Genes and Transcripts</h2>
+  <li>Ensembl Mapped: [genePred](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/genePred/rabsTHREEspine.ensembl.mapped.gp) , [GTF](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/gtf/rabsTHREEspine.ensembl.mapped.gtf) , [GFF3](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/gff/rabsTHREEspine.ensembl.mapped.gff) </li>
+  <li>RNASEQ Genes: [genePred](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/genePred/rna-seq.genes.mapped.ensembl.gp) , [GTF](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/gtf/rna-seq.genes.mapped.ensembl.gtf) , [GFF3](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genes/gff/rna-seq.genes.mapped.ensembl.gff) </li>
+
+  <h2>Genome-Wide Variation Between Freshwater and Marine Stickleback</h2>
+  Pairwise maine and freshwater stickleback genome alignments were produced in [AXT](https://genome.ucsc.edu/goldenPath/help/axt.html) format with [LASTZ](http://www.bx.psu.edu/~rsharris/lastz/README.lastz-1.04.03.html) and converted to [CHAIN](https://genome.ucsc.edu/goldenPath/help/chain.html) format with [axtChain](https://github.com/ENCODE-DCC/kentUtils/blob/master/src/hg/mouseStuff/axtChain/axtChain.c) . AXT and CHAIN alignments were generated in both directions. The set of alignments were computed using the marine stickleback as the target genome which used the freshwater stickleback as the query genome. However, the second set of alignments were computed in reverse, this time with freshwater genome as the target with the marine stickleback as its query genome and further processed using [chainSwap](https://github.com/ENCODE-DCC/kentUtils/blob/master/src/hg/mouseStuff/chainSwap/chainSwap.c) . LASTZ and axtChain were programmed into a wrapping [script](https://raw.githubusercontent.com/edotau/sticklebackCipher/master/lastz/lastz.sh) . All chains were merged and sorted with [chainMergeSort](https://github.com/ENCODE-DCC/kentUtils/blob/master/src/hg/mouseStuff/chainMergeSort/chainMergeSort.c) . Finally the best alignments from chains are selected with [chainNet](https://github.com/ENCODE-DCC/kentUtils/blob/master/src/hg/mouseStuff/chainNet/chainNet.c) using a red-black trees algorithm to keep track of areas of a chromosome are already covered until there are no bases left and distinguish duplicated from non-duplicated regions. The resulting file is hierarchical collection of chains, with the highest-scoring non-overlapping chains on top, and gaps filled by possible lower-scoring chains called a NET. Nets are single-coverage target genomes, but not for query genomes unless it has been filtered to be single-coverage on both target and query. We generated reciprocal-best netted chains our pairwise netted chains by writing a wrapping [bash script](https://raw.githubusercontent.com/edotau/sticklebackCipher/master/lastz/reciprocalBestChainNets.sh) . All programs to process chains and nets are open sourced UCSC Kent Utilities developed to examines genomic duplications, deletions, and rearrangements of the first whole-genome comparisons between human and mouse [J Kent 2003](https://www.pnas.org/content/pnas/100/20/11484.full.pdf).
+
+  <h3>Marine Freshwater Hybrid Crosses</h3>
+
+  <li>GATK: [SNPS](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/vcfs/snps), [INDELS](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/vcfs/indels)</li>
+  Two different F1 hybrid (Freshwater x Marine) [stickleback](https://en.wikipedia.org/wiki/Three-spined_stickleback) fish were crossed from [Matadero Creek](https://www.google.com/maps/place/Matadero+Creek/@37.4241044,-122.1510844,14z/data=!3m1!4b1!4m5!3m4!1s0x808fbaf41f10715b:0xc780fcc2d1157053!8m2!3d37.4241062!4d-122.1335748) with [Little Campbell](https://www.google.com/maps/place/Little+Campbell+River/@49.0339164,-122.7053782,13z/data=!3m1!4b1!4m5!3m4!1s0x5485c5e345db5175:0x48382b94481b427a!8m2!3d49.0339216!4d-122.6703588) and [Rabbit Slough](https://www.google.com/maps/place/Rabbit+Slough/@61.5398359,-149.3153327,14z/data=!4m5!3m4!1s0x56c8e14ff29fb997:0x4542770c26b5618a!8m2!3d61.5333333!4d-149.2666666) with [Lake Matanuska](https://www.google.com/maps/place/Matanuska+Lake/@61.555098,-149.2414204,15z/data=!3m1!4b1!4m5!3m4!1s0x56c8e17081d30ab5:0x911087de19454c0b!8m2!3d61.5550708!4d-149.231791). A Summary Table of populations sampled and libraries sequenced to investigate each allele are described in panel B. We generated [ATAC-Seq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4374986/) , [RNA-Seq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949280/), and [WGS](https://www.internationalgenome.org/sites/1000genomes.org/files/docs/nature09534.pdf) libraries to screen for allele specific enhancers near regions of increased chromatin accessibility that could perhaps be regulating differential gene expression. We perform a [Fisher's Exact Test](https://en.wikipedia.org/wiki/Fisher%27s_exact_test) genome-wide to determine statistical significance if heterogygous SNPs sites are differentially increased or decreased in chromatin accessibility are enhancers or regulatory elements nearby differentially expressed genes.
+
+  <h2>Differential Chromatin Accessibility and Gene Expression</h2>
+  <li>Results: [Download](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/beds/differentialChromatin/)</li>
+  <img
+    src="/pictures/pilotF1Hybrid.svg"
+    alt="Photo"
+    height={800}
+    width={1200}
+    className="next-image"
+  />
+  <h2>Differential Chromatin Accessibility and Gene Expression</h2>
+  <li>Results: [Download](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/beds/differentialChromatin/)</li>
+  <img
+    src="/pictures/chr04_30595050_30815018.svg"
+    alt="Photo"
+    height={400}
+    width={900}
+    className="next-image"
+  />
+  After genotyping 18 stickleback genomes and 4 transcriptomes, 9,468,248 SNPs genome wide were detcted. Testing each heterogygous SNPs site pinpointed to this PLXNA4 gene located near the end of chromosome 4 spanning a little more than 200 kb.
+  <p>In the F1 hybrid WGS data is heterozygous for both SNPs. However, in the atac-seq cross, the genotype is homozygous suggesting one of the alleles is differentially increased in chromatin accessibility, while the other allele is completely closed. What is even more interesting is nearby in the rna-seq data shows gene expression is clearly down-regulated in one allele and increased gene expression with the other allele.</p>
+  <p>What's PLXNA4? [PLXNA4](https://www.omim.org/entry/604280) is a receptor for proteins SEMA3A and SEMA6, which mediate the effects of multiple semaphorins, including controlling diverse aspects of the nervous system development and plasticity, ranging from axon guidance and neuron migration to synaptic organization [Sun et al., 2013](https://science.sciencemag.org/content/342/6158/1241974). PLXNA4 has recently been identified in genome wide association studies (GWAS), as a novel genetic player associated with Alzheimer's disease [Han et al., 2018](https://www.frontiersin.org/articles/10.3389/fnins.2018.00946/full).</p>
+  <h3>Raw Data</h3>
+  <li>ATAC-Seq: [fastqs](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/atacseq/), [bams](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/bams/atacseq/), [peaks](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/bams/atacseq/peakCalls)</li>
+  <li>RNA-Seq: [fastqs](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/atacseq/), [bams](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/bams/rnaseq) , [genePred](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/genePred), [gene enrichments](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/beds/rna_seq/)</li>
+  <li>Genome-Seq: [fastqs](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/raw_data/genomeseq), [bams](http://trackhub.genome.duke.edu/lowelab/edotau/rabsTHREEspine/myHub/bams/genomeseq)</li>
+
+  <h3>Chromosome Spanning Assemblies</h3>
+  Hi-C libraries are commonly used today for assembling draft genomes largely because these libraries can provide insight into 3-D chomosome structures and investigate chromosome interactions in close proximity. A freshwater three-spine stickleback Hi-C library previously provided a noticeable improvement to the Gasterosteus aculeatus freshwater assembly [CL Peichel, 2017](https://academic.oup.com/jhered/article/108/6/693/3957968)
+  However, Karyotype characterization in sticklebacks have previously reported to have a high divergence chromosomal morphology [Kitano 2009](https://www.nature.com/articles/nature08441) , [Ross 2009](https://pubmed.ncbi.nlm.nih.gov/19229325/) When we mapped previously generated freshwater Hi-C data to both the freshwater assembly and the marine stickleback genome revealed identical heat map signatures. Similarly when we mapped marine H-C data against the freshwater and marine genomes respectfully, produced the same Hi-C heat map profiles suggesting both assemblies are high contiguity chromosome level assemblies, but no large detectable chromosomal rearrangements or translocations.
+  <img
+    src="/pictures/hic-plot.svg"
+    alt="Photo"
+    height={900}
+    width={900}
+    className="next-image"
+    />
+
+  <h3>Marine Freshwater Chomosomal Inversions</h3>
+  Performing marine to freshwater genome alignments and comparisons reveal consistent findings with previous work which identified 3 marine freshwater chromosome inversions located on chromosomes 1, 11, and 21 [Jones et al. 2012](https://www.nature.com/articles/nature10944.pdf). On the marine stickleback genome coordinates, the inversions span roughly from 26.630.694 to 27,081,942 on chromosome one, 6,311,704 to 6,740,674 on chromosome eleven, and 9,570,312 to 11,281,238 on chromosome twenty-one.
+  <img
+    src="/pictures/inversions.svg"
+    alt="Photo"
+    height={300}
+    width={700}
+    className="next-image"
+  />
+  <h3>Presence Absence</h3>
+  PITX1 contains multiple regulatory switches that allow for transcription of that gene in multiple tissues.
+  <img
+    src="/pictures/pitx1_PA.svg"
+    alt="Photo"
+    height={400}
+    width={900}
+    className="next-image"
+    />
+  <h3>Genomic Software Projects</h3>
+  <li>github.com/edotau/[goFish](https://github.com/edotau/goFish)</li>
+  <li>Slurm Compute Cluster: [sticklebackCipher](https://github.com/edotau/sticklebackCipher)</li>
+  <h3>Lowe Lab Software</h3>
+  <li>Website: [vertgenlab](http://www.vertgenlab.org/)</li>
+  <li>github.com/ [gonomics](https://github.com/vertgenlab/gonomics)</li>
+</div>
