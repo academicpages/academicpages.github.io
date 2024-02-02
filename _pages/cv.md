@@ -11,17 +11,17 @@ redirect_from:
 
 ## Education
 
-* PhD Candidate Information Science | pending | University of North Texas
+* PhD Candidate Information Science, pending, University of North Texas
     * Major: Information Science
     * Enrolled in Dissertation hours
 
-* M.L.I.S. Library and Information Science | 2015 | University of North Texas
+* M.L.I.S. Library and Information Science, 2015, University of North Texas
     * Major: Archival Digital Records Management, Data Curation
 
-* M.S. Master Of Museum Science | 2011 | University of Oklahoma
+* M.S. Master Of Museum Science, 2011, University of Oklahoma
     * Major: Digital Content Management, Data Curation
 
-* B.S. Bachelor Of Criminal Justice | 2007 | University of Central Oklahoma
+* B.S. Bachelor Of Criminal Justice, 2007, University of Central Oklahoma
     * Major: Criminal Justice Administration
     * Internship: United States Postal Inspection Service
 
