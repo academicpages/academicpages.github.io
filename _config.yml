@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Patrick / Webpage"
+title                    : "Home"
 title_separator          : "- "
 name                     : &name "Patrick O'Hara"
 description              : &description "Personal webpage"
