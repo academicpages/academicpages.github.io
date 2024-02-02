@@ -1,16 +1,18 @@
 # main links links
 main:
-  - title: "CV"
-    url: /cv/
-  
+  - title: "Grants and Funding"
+    url: /markdown/
+ 
   - title: "Teaching Experience"
     url: /teaching/    
     
   - title: "Publications"
     url: /publications/
 
+  - title: "CV"
+    url: /cv/
+    
   - title: "Talks"
     url: /talks/    
 
-  - title: "Grants"
-    url: /markdown/
+
