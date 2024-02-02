@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * PhD Candidate Information Science | pending | University of North Texas
     * Major: Information Science
     * Enrolled in Dissertation hours
