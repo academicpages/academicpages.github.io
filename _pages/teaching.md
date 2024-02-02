@@ -1,9 +1,10 @@
 ---
-layout: archive
+permalink: /teaching/
 title: "Teaching Experience"
 author_profile: true
-collection: teaching
-permalink: /teaching/teaching.md
+redirect_from: 
+  - /md/
+  - /teaching.html
 ---
 LIS 5463 Archival Representation
   This course provides an introduction to the theory and practice of managing archival documents, such as personal papers, institutional records, photographs, and other unpublished material. The theoretical principles, methodologies, and practical administration of the responsibilities of archivists working in today's business, government, and non-profit environments will be discussed. Included are aspects of classification, metadata creation, and facilitating access
