@@ -27,7 +27,7 @@ Approximately 50 years have passed since the beginning of this field.
 
 Introductory/Must-read Books and Papers
 ======
-* Computer: A History of the Information Machine 『コンピューティング史』
+* Computer: A History of the Information Machine 『コンピューティング史』，『コンピュータ200年史』
   * 
   * 『イラストで学ぶ　世界を変えたコンピュータの歴史』
 * A History of Modern Computing 『モダン・コンピューティングの歴史』

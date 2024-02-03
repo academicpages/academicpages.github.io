@@ -11,7 +11,7 @@ author_profile: true
 
 What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Game (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards etc.
 
-Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
+Reading is one of my hobbies. I read about 200\UTF{2013}300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
 As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;.
 
@@ -30,13 +30,15 @@ My Bookshelf (mainly nonfiction)
   * ←I found that this bibliography may not be accurate. The Book of Song (宋\UTF{4E66}) is accurate.
   * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (\UTF{8BBA}\UTF{8BED}). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
 
+* Kumiko Tanaka-Ishii, (2010), Semiotics of Programming 
+
 My Favorite Papers
 ======
 * G&ouml;del, Kurt. (1931), "&Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme I".
   * On Formally Undecidable Propositions of Principia Mathematica and Related Systems.
   * In class, I carefully read the paper itself instead of other textbooks. Although I did not fully understand some points of it, this paper has significantly influenced my career. I will likely read it at least two more times to understand it better.
     
-* Turing, A.M. (1936), "On Computable Numbers, with an Application to the Entscheidungsproblem" 
+
 
 * Kleene, Stephen C. (1951), "Representation of Events in Nerve Nets and Finite Automata".
   * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
