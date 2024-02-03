@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title:
+# title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +17,7 @@ I study the physics of galaxies in a data-driven way. My research focuses on und
 
 I earned my doctorate at Nagoya University, where I investigated the potential of unsupervised machine learning techniques for understanding galaxy evolution. Prior to that, I focused on solving inverse problems in astrophysics, particularly in the context of imaging surveys and Faraday tomography.
 
-I invite you to explore my website and learn more about my research, publications, and ongoing projects. 
+<!-- I invite you to explore my website and learn more about my research, publications, and ongoing projects.  -->
 <!-- Some parts are still under construction but thank you for visiting! -->
 
 ## Recent Updates

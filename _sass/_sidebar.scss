@@ -87,8 +87,8 @@
     // border-radius: 50%;
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      // padding: 5px;
+      // border: 1px solid $border-color;
     }
   }
 }
@@ -110,6 +110,7 @@
 
 .author__name {
   margin: 0;
+  text-align: center;
 
   @include breakpoint($large) {
     margin-top: 10px;
