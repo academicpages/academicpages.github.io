@@ -17,7 +17,7 @@ redirect_from:
 
 ## Research Focus
 
- **Research Fields:** Political Economy, Labour Economics, Social Choice<br> 
+ **Research Fields:** Political Economy, Labor Economics, Social Choice<br> 
  **Research Topics:** Electoral Outcomes, Voting Costs, Environmental Policies<br>
 
 
