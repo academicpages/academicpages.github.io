@@ -7,11 +7,6 @@ redirect_from:
   - /resume
 ---
 
-|             |              | Test Text     |
-| :---        |  :---:       |          ---: |
-|             |              | Here's this   |
-|             |              | And more      |
-
  **Phone:** +49 351 463 35848<br>
  **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)<br>
 
