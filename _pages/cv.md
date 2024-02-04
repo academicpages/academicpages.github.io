@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<div dir="rtl"> 
+|             |              | Test Text     |
+| :---        |  :---:       |          ---: |
+|             |              | Here's this   |
+|             |              | And more      |
 
  **Phone:** +49 351 463 35848<br>
  **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)<br>
@@ -16,7 +19,6 @@ redirect_from:
  **Institution:** TU Dresden<br>
  **Chair:** Chair of Economic Policy and Economic Research<br>
 
-<div dir="ltr">
 
 ## Research Focus
 
