@@ -10,14 +10,12 @@ redirect_from:
 [comment]: <>({% include base_path %})
 <div style="text-align: right"> 
 
- **Phone:** +49 49 351 463 35848\ 
- **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)\
+ **Phone:** +49 49 351 463 35848<br>
+ **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)<br>
 
- **Current Position:** Research Assistant / Ph.D. Student\
- 
- **Institution:** TU Dresden
- 
- **Chair:** Chair of Economic Policy and Economic Research
+ **Current Position:** Research Assistant / Ph.D. Student<br>
+ **Institution:** TU Dresden<br>
+ **Chair:** Chair of Economic Policy and Economic Research<br>
 </div>
 ## Research Focus
 
