@@ -53,10 +53,10 @@ redirect_from:
 
  **Prof. Dr. Alexander Kemnitz**<br>
    TU Dresden, 01062 Dresden<br>
-   Email: [alexander.kemnitz@tu-dresden.de]
+   Email: [alexander.kemnitz@tu-dresden.de](alexander.kemnitz@tu-dresden.de)
 
  **Ass. Prof. Dr. Valentin Lindlacher**<br>
    TU Dresden, 01062 Dresden<br>
-   Email: [valentin.lindlacher@tu-dresden.de]<br>
+   Email: [valentin.lindlacher@tu-dresden.de](valentin.lindlacher@tu-dresden.de)<br>
    
 Last updated: Dec 19, 2023
