@@ -9,51 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- **Phone:** +49 49 351 463 35848
+- **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Current Position:** Research Assistant / Ph.D. Student
+- **Institution:** TU Dresden
+- **Chair:** Chair of Economic Policy and Economic Research
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Focus
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Research Fields:** Political Economy, Labour Economics, Social Choice
+- **Research Topics:** Electoral Outcomes, Voting Costs, Environmental Policies
+
+## Education
+
+- **2016-2020:** M.Sc. Economics, TU Dresden
+- **2015-2016:** M.Sc. Applied Economics, LFU Innsbruck
+- **2012-2015:** B.Sc. Economics, LMU Munich
+
+## Work Experience
+
+- **Since 2021:** Research Assistant / Ph.D. Student at TU Dresden
+
+## Work in Progress
+
+- **"Should I Mail or Should I Go: Insights From a One-Time All-Postal Runoff Election"** (with V. Lindlacher)
+- **"Labor Market Impact of Environmental Policy: Evidence from the EU"**
+- **"Voting Costs and Turnout: Evidence from Germany"**
+
+## Non-Peer-Reviewed Work
+
+- **"Faktoren von Familiengründung, Kinderlosigkeit und Kinderreichtum in Ostdeutschland"** (with K. Heisig and T. Scheurer), *2023, ifo Dresden Studie 89*
+- **"Was Ersteltern von Personen ohne Kinder in Ostdeutschland unterscheidet"** (with K. Heisig), *2023, ifo Dresden berichtet 31*
+- **"Faktoren der Kinderlosigkeit in Ostdeutschland"** (with K. Heisig and T. Scheurer), *2022, ifo Dresden berichtet 29*
+
+## Teaching
+
+- **Since 2021:** Economics of Migration (Master)
+- **Since 2021:** Microeconomics II (Bachelor)
+- **Since 2021:** Supervision of Master's Theses
+
+## References
+
+- **Prof. Dr. Alexander Kemnitz**
+  - TU Dresden, 01062 Dresden
+  - Email: [alexander.kemnitz@tu-dresden.de]
+
+- **Ass. Prof. Dr. Valentin Lindlacher**
+  - TU Dresden, 01062 Dresden
+  - Email: [valentin.lindlacher@tu-dresden.de]
+
+Last updated: Dec 19, 2023
