@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[comment]: <>({% include base_path %})
 
 - **Phone:** +49 49 351 463 35848
 - **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)
