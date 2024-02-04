@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[view CV here](https://louloupivron.github.io/files/Lean_LaTeX_résumé-4.pdf)
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
