@@ -9,12 +9,10 @@ redirect_from:
 
 [comment]: <>({% include base_path %})
 
- **Phone:** +49 49 351 463 35848
- 
- **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)
+ **Phone:** +49 49 351 463 35848\ 
+ **Email:** [marius.kroeper@tu-dresden.de](marius.kroeper@tu-dresden.de)\
 
-
- **Current Position:** Research Assistant / Ph.D. Student
+ **Current Position:** Research Assistant / Ph.D. Student\
  
  **Institution:** TU Dresden
  
