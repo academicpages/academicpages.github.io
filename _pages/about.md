@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently pursuing my PhD at the [School of Design, Hunan University](http://design.hnu.edu.cn/), in China, under the mentorship of Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). Previously, I spent a year as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/) in Italy. I hold both a master's and a bachelor's degree in industrial design from [Hunan University](http://www.hnu.edu.cn/). Additionally, my master's program included a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
+I am a Ph.D at [School of Design, Hunan University](http://design.hnu.edu.cn/), China, under the mentorship of Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). Previously, I spent a year as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/) in Italy. I hold both a master's and a bachelor's degree in industrial design from [Hunan University](http://www.hnu.edu.cn/). Additionally, my master's program included a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
 
 
 Research Interests
