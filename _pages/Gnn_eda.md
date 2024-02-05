@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "LLM for Verification/EDA"
-permalink: /llm/
+title: "Graph Neural Network for EDA"
+permalink: /gnnForEDA/
 author_profile: true
 ---
 
