@@ -14,6 +14,7 @@ Education
   * **Advisor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
 * M.S. in Applied Mathematics, University of Chittagong, 2019
   * **Thesis**: *Viscous fluid flow due to motion of boundaries or gravity*
+  * Part of the thesis work(with extension) is published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
 * B.Sc. in Mathematics, University of Chittagong, 2017
 
 Work experience
