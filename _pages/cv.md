@@ -7,5 +7,6 @@ redirect_from:
   - /resume
 ---
 
- 
-[Download here](/files/CV_Marius_Kroeper_en.pdf) (Last updated: Dec 19, 2023)
+ You can find my CV here:<br>
+[PDF Version](/files/CV_Marius_Kroeper_en.pdf) <br>
+(Last updated: Dec 19, 2023)
