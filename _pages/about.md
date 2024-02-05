@@ -12,6 +12,9 @@ I am a NORDITA Fellow at the Nordita Institute and Stockholm University working 
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* Feb 5th-8th: At ANU this week, On Tuesday, I am giving the joint CGA-RSAA seminar on neutron star mergers
+* January 29th-4th: Attending the TDU conference where I am giving a talk on Redback
+* January 18th 2024: Sarin and Metzger 2023 - _Tidal Disruption Events through the Lens of the Cooling Envelope Model_ Accepted in ApJL. Check it out on [arXiv](https://arxiv.org/abs/2307.15121).
 * November 14th-17th: At the OzGrav retreat in Adelaide! 
 * November 13th: Sarin et al. 2023 - _Measuring the nuclear equation of state with neutron star-black hole mergers_ submitted to PRL. Check it out on the [arXiv](https://arxiv.org/abs/2311.05689)
 * November 7th: Travelling to Australia! Will be spending the summer here and attending a few conferences. 
