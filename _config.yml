@@ -8,9 +8,12 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Marius Kroeper"
+excerpt                  : "I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology. Specializing in applied microeconomics..."
+seo_title                : "Personal Website of Marius Kroeper, Applied Economics, econ"
+seo_description          : "I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology. Specializing in applied microeconomics..."
 title_separator          : "-"
 name                     : &name "Marius Kroeper"
-description              : &description "personal description"
+description              : &description "I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at Dresden University of Technology. Specializing in applied microeconomics..."
 url                      : https://MariusKroeper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
