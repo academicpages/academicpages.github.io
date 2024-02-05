@@ -8,4 +8,4 @@ redirect_from:
 ---
 
  
-Download CV [here](/files/CV_Marius_Kroeper_en.pdf)
+Download CV [here](/files/CV_Marius_Kroeper_en.pdf).
