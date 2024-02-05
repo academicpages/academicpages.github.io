@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Health Sciences](https://bouve.northeastern.edu/health-sciences/) at Northeastern University, as well as an Impact Engine Fellow of the [Real-World Healthcare Navigator](https://impactengines.northeastern.edu/ie/rwhn/). 
+I am an Assistant Professor in the [Department of Health Sciences](https://bouve.northeastern.edu/health-sciences/) at Northeastern University, an Impact Engine Fellow of the [Real-World Healthcare Navigator](https://impactengines.northeastern.edu/ie/rwhn/), and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
 
-[My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical methods to leverage real-world data to improve decision-making in public health and clinical medicine, including robust and efficient estimation and inference of treatment effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated and transfer learning, and sensitivity analysis.
+[My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making in public health and clinical medicine. This involves designing robust, efficient, and targeted estimators for causal effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated and transfer learning, and sensitivity analysis.
 
 I obtained my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Professor Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I completed a postdoctoral fellowship in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about), advised by [Professor Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I received an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge, an MA in Global Affairs from Tsinghua University, and a BS in Public Health and Biostatistics from UNC - Chapel Hill.
 
@@ -31,6 +31,8 @@ Banff International Research Station, Aug 2022
 Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Virtual.
 
 ## Recent News  
+Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Studies 2]** Boston, MA.  
+
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)  
 
