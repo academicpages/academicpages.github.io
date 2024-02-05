@@ -85,7 +85,9 @@ analytics:
 author:
   name             : "Marius Kroeper"
   avatar           : "profile.png"
-  bio              : "Research Assistant/\nPhD Student\nEconomics"
+  bio              : "Research Assistant/"
+                      "PhD Student"
+                      "Economics"
   location         : "Berlin/Dresden, GER"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -118,6 +120,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  graduation-cap   : "TU Dresden"
+  
 
 
 # Reading Files
