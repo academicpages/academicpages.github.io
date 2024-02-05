@@ -1,12 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-## Working Paper
+## Working in Progress
 
+-**"Should I Mail or Should I Go: Insights From a One-Time All-Postal Runoff Election"** (with V. Lindlacher)
+-**Labor Market Impact of Environmental Policy: Evidence from the EU"**
+-**Voting Costs and Turnout: Evidence from Germany"**
 
 ## Non-Peer-Reviewed Work
 
