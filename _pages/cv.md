@@ -23,12 +23,18 @@ Work experience
   * **Mentor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
   * **Duties included**:  
 * Summer 2023: **Mathematical oncology programmer**, Moffitt Cancer Center, Tampa, FL-33612, USA
-  - [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
-  - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/)
-  - June 2023 - August 2023
+  - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/), [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
+  - **Duties included**:
+      - I worked with [Rejniak Lab](http://rejniak.net/RejniakLab/people.html) to study a few interstitial fluid flow problems that emerge from the field of mathematical oncology.
 
 * Fall 2021--present: **Graduate Teaching Assistant**, Tulane University, New orleans, LA-70118,USA
-  * **Duties included**:  
+  * **Duties included**:
+    * Conducting recitation sessions, evaluating quizzes, and exam scripts for Calculus I,  Calculus II, Consolidated Calculus, and Statistics for scientists.
+    * Participating in the Math Center to assist undergrads.
+* Feb 2020 -- July 2021: **Instructor** in Math, Dept. of Computer Science, Prime University, Dhaka-1216, Bangladesh.
+  * **Duties included**:
+    * Taught courses in I) Differential & Integral Calculus, II) Linear Algebra & Matrix analysis, III) Complex Variables & Transform Methods, IV) Co-ordinate Geometry & Vector Analysis, and V) Differential Equations & Numerical Methods.
+    * Created course plans, questions, and evaluated assignments, and exam scripts. Involved in student advising and trained in curriculum development.
   
 Skills
 ======
