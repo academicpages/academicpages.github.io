@@ -15,7 +15,7 @@ redirect_from:
 [Machine Learning for EDA](https://bhabeshmali.github.io/mlForEDA/)
 ======
 
-[Graph Neural Network for EDA](https://bhabeshmali.github.io/gnnforEDA/)
+[Graph Neural Network for EDA](https://bhabeshmali.github.io/gnnForEDA/)
 ======
 
 
