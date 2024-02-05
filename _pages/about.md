@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant and Ph.D. student in Economics at the Chair of Economic Policy and Economic Research at [Dresden University of Technology](https://tu-dresden.de/bu/wirtschaft/vwl/wuw). I am an applied microeconomist. My research interests are primarily in the fields of political economy and social choice. My research centers on the examination of policy effects on voting behavior, specifically addressing topics such as the impact of information on voting modes and turnout, the consequences of relocating polling stations on voter turnout, and the effects of natural reserves on party outcomes. 
+I am currently working as a research assistant and pursuing my Ph.D. in Economics at the Chair of Economic Policy and Economic Research at [Dresden University of Technology](https://tu-dresden.de/bu/wirtschaft/vwl/wuw). As an applied microeconomist, my focus lies within the area of political economy and social choice. In my research, I delve into the relationship between policy and voting behavior.
+Specifically, I explore various aspects, including the influence of information on voting modes and turnout, the repercussions of relocating polling stations on voter participation, and the impact of natural reserves on party outcomes. My work aims to contribute valuable insights to the intersection of economics, politics, and social decision-making.
+
 
 [](/files/googled453e9d6f698f158.html)
