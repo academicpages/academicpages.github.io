@@ -90,12 +90,14 @@
     margin-top: 1em;
     font-family: $sans-serif;
     font-weight: bold;
+    font-size: 0.8em;
   }
 
   dd {
     margin-left: 1em;
     font-family: $sans-serif;
-    font-size: $type-size-6;
+    // font-size: $type-size-6;
+    font-size: 0.8em;
   }
 
   .small {
