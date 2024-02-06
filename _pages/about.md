@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Haha"
 excerpt: ""
 author_profile: true
 redirect_from: 
