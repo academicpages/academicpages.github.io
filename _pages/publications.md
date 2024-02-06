@@ -33,7 +33,7 @@ author_profile: true
 
 <span style="font-size: 22px;">Conference Papers</span>
 ======
-1. <span style="font-size: 16px;">R. Nikbakht, F. Javed, **F. Rezazadeh** et al, "Decentralized Energy Marketplace via NFTs and AI-based Agents", IEEE Conference, 2024, under review. [[arxiv](https://arxiv.org/abs/2311.10406)]</span>
+1. <span style="font-size: 16px;">R. Nikbakht, F. Javed, **F. Rezazadeh** et al, "Decentralized Energy Marketplace via NFTs and AI-based Agents", IEEE ENERGYCON, 2024. [[arxiv](https://arxiv.org/abs/2311.10406)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, and J. Mangues-Bafalluy, "Explanation-Guided Deep Reinforcement Learning for Trustworthy 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10283684)][[arxiv](https://arxiv.org/abs/2303.15000)]</span>
 1. <span style="font-size: 16px;">S. Roy, **F. Rezazadeh**, H. Chergui, and C. Verikoukis, "Joint Explainability and Sensitivity-Aware Federated Deep Learning for Transparent 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10279790)][[arxiv](https://arxiv.org/abs/2309.13325)]</span>
 1. <span style="font-size: 16px;">E. Zeydan, L. Blanco, S. Barrachina-Muñoz, **F. Rezazadeh** et al., "A Marketplace Solution for Distributed Network Management and Orchestration of Slices", 3rd International Workshop on Analytics for Service and Application Management (IEEE-AnServApp 2023), 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10327832)]</span>
