@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dart Zheng is a Knitting Engineer and Assistant Dean at SIFEC under the Oriental International (Group) Co., Ltd. He is also the Head of the Knitting Department and a teacher at the Shanghai Sanda University's Fashion Institute. Furthermore, Dart Zheng is the founder of SIFEC's Knitting Design and Sample Studio."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
