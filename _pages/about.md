@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Shilong Mu
-
-## Education
+# Education
 
 - **Bachelor of Science in Electronic Information Engineering**
   - [China University of Mining and Technology](https://www.cumt.edu.cn/)
@@ -21,7 +19,7 @@ redirect_from:
   - [SSR Group](https://ssr-group.net/index.html)
   - Currently enrolled
 
-## Research Interests
+# Research Interests
 
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
 - Tactile sensing and feedback reconstruction
