@@ -10,22 +10,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mathematics, Tulane University, 2021--present
+* Ph.D. in Mathematics, Tulane University, 2021--present
   * **Advisor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci), Pendergraft Nola Lee Haynes Professor, Tulane University
 * M.S. in Applied Mathematics, University of Chittagong, 2019
   * **Thesis**: *Viscous fluid flow due to motion of boundaries or gravity*
-  * Part of the thesis work(with extension) is published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
+  * Part of the thesis work(with extension) was published in a [research article](https://doi.org/10.1016/j.aej.2022.03.023).
 * B.Sc. in Mathematics, University of Chittagong, 2017
 
 Work experience
 ======
-* Spring 2024--present: **Graduate Research Assistant**, Tulane University, New orleans, LA-70118,USA
+* Spring 2024--present: **Graduate Research Assistant**, Tulane University, New Orleans, LA-70118,USA
   * **Mentor**: [Lisa J. Fauci](https://sse.tulane.edu/math/faculty/fauci) and [Tommaso Buvoli](https://www.tommasobuvoli.com/)
   * **Duties included**:  
 * Summer 2023: **Mathematical oncology programmer**, Moffitt Cancer Center, Tampa, FL-33612, USA
   - **Mentor**:  [Kasia A. Rejniak](https://www.moffitt.org/research-science/researchers/katarzyna-rejniak/), [Rejniak Lab](http://rejniak.net/RejniakLab/people.html), Integrated Mathematical Oncology
   - **Duties included**:
-      - I worked with [Rejniak Lab](http://rejniak.net/RejniakLab/people.html) to study a few interstitial fluid flow problems that emerge from the field of mathematical oncology.
+      - I worked with [Rejniak Lab](http://rejniak.net/RejniakLab/people.html) to study a few interstitial fluid flow problems that emerged from the field of mathematical oncology.
 
 * Fall 2021--present: **Graduate Teaching Assistant**, Tulane University, New orleans, LA-70118,USA
   * **Duties included**:
@@ -69,5 +69,6 @@ Teaching
 Service and leadership
 ======
 * **Vice president**, SIAM student chapter, Tulane University (for 2022-23)
-* Graduate student member- American Mathematical Society (**AMS**)
-* Graduate student member- Society of industrial and applied mathematics (**SIAM**)
+* Graduate student member- [American Mathematical Society](ams.org) (**AMS**)
+* Graduate student member- [Society for Industrial and Applied Mathematics](https://www.siam.org/) (**SIAM**)
+* Member, [American Physical Society](https://www.aps.org/)(**APS**)
