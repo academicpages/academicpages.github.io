@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Erik Eisenach / Personal Space"
+title                    : "Erik Eisenach/Personal Space"
 title_separator          : "-"
 name                     : &name "Erik Eisenach"
 description              : &description "personal description"
