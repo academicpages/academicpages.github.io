@@ -1,22 +1,20 @@
 ---
 permalink: /
-title: 
-excerpt: 
+title: Education
+excerpt: Education
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Education
-
 - **Bachelor of Science in Electronic Information Engineering**
   - [China University of Mining and Technology](https://www.cumt.edu.cn/)
   - September 2018 - June 2022
 
 - **Master of Science in Data Science and Information Technology**
-  - Tsinghua-Berkeley Shenzhen Institute, [Tsinghua University](https://www.tbsi.edu.cn/)
-  - Smart Sensing and Robotics (SSR) group, [SSR Group](https://ssr-group.net/index.html)
+  - [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/), Tsinghua University
+  - [Smart Sensing and Robotics (SSR) group](https://ssr-group.net/index.html)
   - September 2022 - June 2025
 
 
