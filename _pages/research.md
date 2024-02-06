@@ -15,6 +15,17 @@ author_profile: true
   gtag('config', 'G-JXH49J0PEN');
 </script>
 
+Publications
+---
+<b>The possibilities and limits of international status: evidence from foreign aid and public opinion</b> (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Conditionally accepted at Review of International Organizations</a>) 
+<details>
+  <summary><i>Abstract</i></summary>
+  
+States use symbolic gestures to increase their international status, or relative position, within the international community. But how do the status-seeking actions of one state a ect the status of others? The common assumption is that improvements in one state's status lead to the relative deterioration of other states' status by comparison. In this paper, we focus on status' social qualities to delineate multiple theoretical pathways through which one state's status can change -- or not -- relative to another. Status is not conferred in a vacuum and the consequences of status-altering activities may spill over to third-parties. We field an original survey and reanalyze several existing studies to understand how relative status operates in the case of foreign aid; these surveys reveal novel empirical patterns about the circumstances under which a state's status will change relative to other states. We extend the analysis to examine who updates perceptions, what actions change status, and for whom status changes. Our findings suggest that status-enhancing actions may be successful at augmenting status amongst peers, but ultimately unsuccessful at changing global hierarchies.
+</details>
+
+<p>
+<p>
 
 Working Papers
 ---
@@ -80,16 +91,6 @@ mechanisms in the case of gene editing,  nding support for the theory in data 
 scienti c employment patterns and a survey experiment examining public backlash.
 Our results demonstrate that technological disruption increases interdependence and
 undermines states' ability to regulate in isolation.
-</details>
-
-<p>
-<p>
-
-<b>The possibilities and limits of international status: evidence from foreign aid and public opinion</b> (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">R&R at Review of International Organizations</a>) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-  States use symbolic gestures to increase their international status, or relative position, within the international community. But how do the status-seeking actions of one state affect the status of others? The common assumption is that improvements in one state's status lead to the relative deterioration of other states' status by comparison. In this paper, we focus on status' social qualities to delineate multiple theoretical pathways through which one state's status can change -- or not -- relative to another. Status is not conferred in a vacuum and the consequences of status-altering activities may spill over to third-parties. We field an original survey and reanalyze several existing studies to understand how relative status operates in the case of foreign aid; these surveys reveal novel empirical patterns about the circumstances under which a state's status will update relative to other states. Our results demonstrate how focusing on any single definition of status may blind observers to changes along other dimensions and fundamentally alter the conclusions drawn about status-changing activity.
 </details>
 
 <p>
