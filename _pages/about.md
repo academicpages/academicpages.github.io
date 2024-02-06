@@ -14,7 +14,7 @@ I am a PhD student in Statistics at the School of Mathematics, [University of Ed
 
 My **research interests** are in developping robust and efficient Bayesian inference algorithms for complex dynamical systems and signal processing. My PhD work is focused on Bayesian filtering and smoothing of state-space models.
 
-Take a look at my [resume](resume.pdf). 
+<!-- Take a look at my [resume](resume.pdf).  -->
 
 News
 ======
