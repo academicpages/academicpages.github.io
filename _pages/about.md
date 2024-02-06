@@ -47,7 +47,6 @@ November 4, 2022, Conversation with Assitant Professor Rebecca Johnson at George
 Thomas V. Maher, Charles Seguin, and Yongjun Zhang. 2024. ''The Racial Limits of Disruption: How Race and Tactics Influence Social Movement Organization Testimony Before Congress, 1960-1995.'' Social Forces.
 
 Yongjun Zhang and Jennifer Heerwig. 2024. ''Gender, Race, and Intersectionality in the Political Donations of America’s Corporate Elite." The Sociological Quarterly.
-\medskip
 
 Andrew Davis and Yongjun Zhang. 2023. ''[Civil Society and Democracy under Pressure: Does Authoritarian Mobilization and Party Incapacity Diminish the Positive Effect of Civil Society?](https://doi.org/10.1080/00380253.2023.2289500).'' The Sociological Quarterly.
 
