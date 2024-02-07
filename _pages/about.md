@@ -36,6 +36,7 @@ CET4:548&emsp;&emsp;&emsp;&emsp;&emsp;CET6:493
 
 Personal Honor
 ------
+- First-class Scholarship for Excellent Student of Zhengzhou University in 2023
 - 2022 National Inspirational Scholarship
 - Merit Student of Zhengzhou University 2022
 - First-class Scholarship for Excellent Student of Zhengzhou University in 2021
