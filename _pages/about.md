@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a third year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes **natural language processing，computer vision, computer graphics and machine learning**.    
+I'm a fourth year undergraduate student from [School of CSAI、SE](http://www7.zzu.edu.cn/csai/), [ZhengZhou University](http://www.zzu.edu.cn/). My research interest includes **natural language processing，computer vision, computer graphics and machine learning**.    
 Now, I'm working as an intern in [ICT](http://www.ict.ac.cn/) and conducting research on geometry learning in [Mr. Gao Lin's](https://people.ucas.edu.cn/~ict_gaolin) project team.
 
 Educational Background
