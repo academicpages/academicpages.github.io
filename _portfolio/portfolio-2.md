@@ -1,5 +1,5 @@
 ---
-title: "Segmentation Service for Tellecommunication userbase"
+title: "Segmentation Service for telecommunication customer base"
 excerpt: "Segmentation service used to segment different users based on their feature qualities<br/><img src='/images/segmentation.jpg'>"
 collection: portfolio
 ---
