@@ -3,14 +3,14 @@ title: "Domain Complexity Estimation for Distributed AI Systems in Open-World Pe
 collection: publications 
 permalink: /publications/journal-and-conference-and-workshop/ai-domain-complexity
 # date: 2020-06-08
-year: 2023
-venue: 'Submitted to Artificial Intelligence'
+year: 2024
+venue: 'Submitted to IEEE TAI'
 venue-type: 'Preprint'
 research-category: 'Novelties in Learning Algorithms'
 
 website-separation-category: 'c1'
 
-pdf: '/files/publications/ai-domain-complexity-2023.pdf'
+pdf: '/files/publications/IEEE_TAI_2024.pdf'
 
 link: 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 

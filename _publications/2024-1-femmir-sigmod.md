@@ -1,16 +1,16 @@
 ---
-title: "Multi-modal Information Retrieval for Systems with Explicit Information Needs and Object Properties (FemmIR)"
+title: "Multimodal Information Retrieval for Open World with Edit Distance Weak Supervision"
 collection: publications 
-permalink: /publications/journal-and-conference-and-workshop/femmir23
+permalink: /publications/journal-and-conference-and-workshop/femmir24
 # date: 2020-06-08
-year: 2023
-venue: 'Submitted to SIGMOD'
+year: 2024
+venue: 'Submitted to ICDE'
 venue-type: 'Preprint'
 research-category: 'Multimodal Information Retrieval'
 
 website-separation-category: 'c1'
 
-pdf: '/files/publications/sigmod-femmir-2023.pdf'
+pdf: '/files/publications/icde-femmir-2024.pdf'
 
 # link: 'http://dx.doi.org/10.13140/RG.2.2.14853.63204'
 
