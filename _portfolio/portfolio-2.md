@@ -1,6 +1,6 @@
 ---
 title: "Segmentation Service for Tellecommunication userbase"
-excerpt: "Segmentation service used to segment different users based on their feature qualities<br/><img src='/images/segmentation.png'>"
+excerpt: "Segmentation service used to segment different users based on their feature qualities<br/><img src='/images/segmentation.jpg'>"
 collection: portfolio
 ---
 
