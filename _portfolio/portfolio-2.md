@@ -1,0 +1,13 @@
+---
+title: "Segmentation Service for Tellecommunication userbase"
+excerpt: "Segmentation service used to segment different users based on their feature qualities<br/><img src='/images/segmentation.png'>"
+collection: portfolio
+---
+
+Project which segment more than 14 million customers in market based on different type of features.
+
+### Technology
+
+- Python
+- Multiprocessing
+- SnowFlake (SQL)
