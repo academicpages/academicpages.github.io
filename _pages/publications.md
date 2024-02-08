@@ -36,15 +36,15 @@ International Conference on Applied Cryptography and Network Security. 2024. To 
 
 11. **Breach Extraction Attacks: Exposing and Addressing the Leakage in Second Generation Compromised Credential Checking Services**\
 Dario Pasquini <sup>*</sup>, Danilo Francati <sup>*</sup>, Giuseppe Ateniese, and Evgenios M. Kornaropoulos\
-IEEE Symposium on Security and Privacy. 2024.\
-[https://eprint.iacr.org/2023/1848.pdf](https://eprint.iacr.org/2023/1848.pdf)\
+2024 IEEE Symposium on Security and Privacy (SP), San Francisco, CA, USA, 2024 pp. 114-114.\
+[https://www.computer.org/csdl/proceedings-article/sp/2024/313000a114/1Ub23nm5zGM](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a114/1Ub23nm5zGM)\
 <sup>*</sup>= Equal contribution
 
 
 10. **Registered (Inner-Product) Functional Encryption**\
 Danilo Francati, Daniele Friolo, Monosij Maitra, Giulio Malavolta, Ahmadreza Rahimi, and Daniele Venturi\
-Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security.\
-[https://eprint.iacr.org/2023/395](https://eprint.iacr.org/2023/395)
+Advances in Cryptology–ASIACRYPT 2023: International Conference on the Theory and Application of Cryptology and Information Security, Proceedings (pp. 99-133). Springer Nature Singapore, 2024, ISBN:978-981-99-8733-7\
+[https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4](https://link.springer.com/chapter/10.1007/978-981-99-8733-7_4)
 
 9. **Multi-key and Multi-input Predicate encryption from Learning with Errors**  
 Danilo Francati, Daniele Friolo, Giulio Malavolta, and Daniele Venturi   
