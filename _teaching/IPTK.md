@@ -8,4 +8,4 @@ date: 2021-01-01
 location: "Darmstadt, Germany"
 ---
 
-Organized the “Internet” practical course, which involves the supervision of students working in groups developing a mobile application with a set topic per semester. More than 50 students on average per semester.
+Organized the “Internet” practical course, which involves the supervision of students working in groups developing a mobile application with a set topic per semester. More than 50 students on average per semester (2021-2024).
