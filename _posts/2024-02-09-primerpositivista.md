@@ -7,7 +7,6 @@ tags:
 ---
 
 
-
 <div style="text-align: justify;">
 
 <br>El Proyecto Gutenberg, repositorio digital de obras clásicas y modernas, alberga una edición de 1458 de los Breviarios fantásticos y extraordinarios, de Horacio Primavera. En todas estas historias cortas, el protagonista lleva el nombre del autor como compromiso ético. Y como epígrafe se lee: "Al buscar lo efímero, hallamos lo eterno". A continuación se transcribe, sin latinismos, una de esas evocadoras narraciones.<br>
