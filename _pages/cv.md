@@ -76,6 +76,8 @@ Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. 
 
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2023). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology_ Advance online publication. https://doi.org/10.1080/15213269.2023.2281545
 
+Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody variations to improve cognitive processing in Alzheimer’s patients. Alzheimer's & Dementia, 19(S19). https://doi.org/10.1002/alz.075530
+
 Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022). Effects of narrative-persuasive frames on Twitter regarding blood donation: pride versus empathy and people versus numbers. _Profesional de la Información, 31_(4). https://doi.org/10.3145/epi.2022.jul.15
 
 Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology_. https://doi.org/10.1177%2F0261927X221078317
