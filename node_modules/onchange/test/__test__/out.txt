@@ -1,2 +1,0 @@
-change __test__/file.txt
-change __test__/file.txt
