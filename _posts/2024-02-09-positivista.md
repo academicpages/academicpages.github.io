@@ -1,7 +1,7 @@
 ---
 title: 'El primer positivista'
 date: 2024-02-09
-permalink: /posts/2024/02/primerpositivista/
+permalink: /posts/2024/02/positivista/
 tags:
   
 ---
