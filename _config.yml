@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nikolaos Alexopoulos"
 title_separator          : "-"
 name                     : &name "Nikolaos Alexopoulos"
-description              : &description "Postdoctoral researcher at TU Darmstadt"
+description              : &description "MSCA Postdoctoral Fellow at AUEB"
 url                      : https://www.alexopoulos.ch # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikalexo.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Nikolaos Alexopoulos"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at TU Darmstadt. Interested in security & privacy and distributed systems."
-  location         : "Darmstadt, Germany"
+  bio              : "MSCA Postdoctoral Fellow at AUEB. Interested in security & privacy and distributed systems."
+  location         : "Athens, Greece"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V_Ku_v8AAAAJ"
-  email            : "alexopoulosATtk.tu-darmstadt.de"
+  email            : "alexopoulosATaueb.gr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
