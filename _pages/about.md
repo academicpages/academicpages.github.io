@@ -25,6 +25,9 @@ redirect_from:
 [Side Channel Analysis](https://bhabeshmali.github.io/sca/)
 ======
 
+[Machine Learning for HLS](https://bhabeshmali.github.io/MLforHLS/)
+======
+
 <!-- Site-wide configuration
 ------
 
