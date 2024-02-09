@@ -116,6 +116,10 @@ author:
   youtube          :
   wikipedia        :
 
+feed:
+  posts:
+    - {slug: "{{ slug }}", comments: "{{ comments }}"}
+    exclude: ["404.md"]
 
 # Reading Files
 include:
@@ -157,7 +161,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "404.md"
+excerpt_separator: "\n\n"
 incremental: false
 
 
