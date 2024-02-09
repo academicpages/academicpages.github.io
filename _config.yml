@@ -116,10 +116,8 @@ author:
   youtube          :
   wikipedia        :
 
-feed:
-  posts:
-    - {slug: "{{ slug }}", comments: "{{ comments }}"}
-    exclude: ["404.md"]
+
+    
 
 # Reading Files
 include:
