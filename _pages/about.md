@@ -15,7 +15,7 @@ I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](htt
 # News
 
 I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025.
-- Our paper: **Vision-based FDM Printing for Fabricating Airtight Soft Actuators** has been accepted by IEEE RoboSoft 2024!
+- Our paper: *Vision-based FDM Printing for Fabricating Airtight Soft Actuators* has been accepted by **IEEE RoboSoft 2024** as an **Oral Presentation**!
 
 # Research Vision
 
