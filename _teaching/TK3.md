@@ -2,7 +2,7 @@
 title: "TK3: Ubiquitous / Mobile Computing"
 collection: teaching
 type: "Undergraduate/graduate course"
-permalink: /teaching/2020-pin/
+permalink: /teaching/2020-tk3/
 venue: "Technical University of Darmstadt"
 date: 2020-09-23
 location: "Darmstadt, Germany"
