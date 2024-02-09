@@ -9,9 +9,13 @@ author_profile: true
 
 {% include base_path %}
 
-What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Game (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards etc.
+What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Game (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, (cooking?) etc.
 
-Reading is one of my hobbies. I read about 200\UTF{2013}300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
+Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
+
+-
+\UTF{2013}%
+—
 
 As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;.
 
