@@ -13,9 +13,6 @@ What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playi
 
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
--
-\UTF{2013}%
-—
 
 As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;.
 
@@ -35,6 +32,8 @@ My Bookshelf (mainly nonfiction)
   * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (\UTF{8BBA}\UTF{8BED}). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
 
 * Kumiko Tanaka-Ishii, (2010), Semiotics of Programming 
+* Jun'ichiro Tanizaki, (1933), In Praise of Shadows『陰翳礼讃』
+* Soseki Natsume, (1914), My Individualism and the Philosophical Foundations of Literature『私の個人主義』
 
 My Favorite Papers
 ======
