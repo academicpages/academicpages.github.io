@@ -205,14 +205,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: pages
+      type: sidechannel
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: MLforEDA
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Gnn_eda
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: MLforHLS
     values:
       layout: talk
       author_profile: true
