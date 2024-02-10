@@ -13,7 +13,7 @@ Under Construction!!!
 ======
 * I am currently working on my graduation thesis. I will update this site by late February&#128583;.
 
-Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in logic and mathematics in computer science, such as programming languages and formal methods.
+Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in building compilers, and logic and mathematics in computer science, such as programming languages and formal methods.
 
 Miscellaneous
 ======
