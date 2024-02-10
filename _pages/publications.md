@@ -23,7 +23,7 @@ author_profile: true
 <ol class="leftpad" reversed>
 <!-- <span class="author"> <button class="btn--small">Venue Type</button> <button class="btn--small">Research Area</button> </span> -->
 
-<h2 style="color:#7700DD"> 2021 - 2023 </h2>
+<h2 style="color:#7700DD"> 2021 - 2024 </h2>
 <!-- <h3 style="color:#7700DD">JOURNAL, CONFERENCE, AND WORKSHOP PAPERS </h3>  -->
 <!--AND DEMONSTRATIONS (PEER-REVIEWED)-->
 {% for post in site.publications reversed %}
