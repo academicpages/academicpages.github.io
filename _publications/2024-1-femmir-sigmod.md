@@ -3,7 +3,7 @@ title: "Multimodal Information Retrieval for Open World with Edit Distance Weak 
 collection: publications 
 permalink: /publications/journal-and-conference-and-workshop/femmir24
 # date: 2020-06-08
-year: 2024
+year: 2024 
 venue: 'Submitted to ICDE'
 venue-type: 'Preprint'
 research-category: 'Multimodal Information Retrieval'
@@ -28,4 +28,5 @@ authors: '<b><u>K.M.A. Solaiman*</u></b> and Bharat Bhargava'
 # talk/ video
 # source code
 # award
+notes: SIGMOD'23
 ---

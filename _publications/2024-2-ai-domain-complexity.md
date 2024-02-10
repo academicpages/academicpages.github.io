@@ -26,4 +26,5 @@ authors: 'Shafkat Islam*, <b><u>K.M.A. Solaiman*</u></b>,  Ruy De Oliveira, Bhar
 # talk/ video
 # source code
 # award
+notes: Journal of AI'23
 ---
