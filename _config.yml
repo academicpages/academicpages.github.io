@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Jeremiah Hackett, LCSW"
   avatar           : "jch.png"
-  bio              : "Clinical social worker"
-  location         : "Location"
+  bio              : "Clinical Social Worker, Psychotherapist"
+  location         : "Brooklyn, NY"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : jeremiahhackett.lscsw@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
