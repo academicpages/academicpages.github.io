@@ -27,6 +27,18 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
 
+<b>Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions </b> (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) (Accepted at World Development) 
+<details>
+  <summary><i>Abstract</i></summary>
+  
+(1) Aid withdrawals and suspensions are not a niche issue: they change the context for development and are very qualitatively different from not giving aid at all.
+(2) Aid withdrawals and suspensions involve a long chain of political calculations by both donors and aid-receiving states that remain understudied.
+(3) A key area we should explore morefor further research is the political calculations and options available to aid-receiving states, and how donors factor these choices into their initial or subsequent decisions on whether or not to suspend aid.
+</details>
+
+<p>
+<p>
+
 Working Papers
 ---
 <b>Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire</b> (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>) 
@@ -96,17 +108,7 @@ undermines states' ability to regulate in isolation.
 <p>
 <p>
 
-<b>Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions </b> (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) (R&R at World Development) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-(1) Aid withdrawals and suspensions are not a niche issue: they change the context for development and are very qualitatively different from not giving aid at all.
-(2) Aid withdrawals and suspensions involve a long chain of political calculations by both donors and aid-receiving states that remain understudied.
-(3) A key area we should explore morefor further research is the political calculations and options available to aid-receiving states, and how donors factor these choices into their initial or subsequent decisions on whether or not to suspend aid.
-</details>
 
-<p>
-<p>
 
 
 <h2 style="font-size:22px; "> Other Work </h2>
