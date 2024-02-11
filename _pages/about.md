@@ -8,5 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-My name is Matthew Craig and I'm a Ph.D. candidate who is on the market at [Kent State University's College of Communication & Information](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwj26YSc6uj1AhXBIDQIHSaWDdsQFnoECAsQAQ&url=https%3A%2F%2Fwww.kent.edu%2Fcci&usg=AOvVaw04BGhcYaaYgr9IEWDwWGxl). I'm a human-machine communication scholar who applies interpersonal communication to study how people create meaning with and through technology via communication. The context for my current research concerns the presence of inequities in the access, use, and outcomes of technology, particularly at the intersections of surveillance, privacy management, and techno-social practices.
+About Me.
+
+I'm a social scientist who employs mixed-methods with nearly a decade of combined research and practitioner experiences. My subject expertise are in human-machine communication which converges communication studies with the interdisciplinary fields of human-computer and human-robot interaction. I am currently a Ph.D. candidate in Communication & Information at Kent State University's College of Communication & Information on track to defend my dissertation Spring, 2024. I am on the job market for tenure track academic positions, postdoctorates,and open to research opportunities.
+
+I use both quantitative and qualitative methods including but not limited to surveys, interviews, and experimental designs to understand how we make sense of how machines manage our private information and personalize our experiences and how this affects us psychologically, impacts our behavior in human-computer interaction, and is influenced by society and our communication experiences. This includes both mediated contexts such as digital communication channels (e.g., computer-mediated communication; social media) and contexts in which we interact with robots and AI powered chat agents.
+
+Please email me at mailto:matthewjacraig@gmail.com to get in contact.
 
