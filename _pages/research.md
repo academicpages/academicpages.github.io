@@ -13,7 +13,7 @@ author_profile: true
   gtag('js', new Date());
 
   gtag('config', 'G-JXH49J0PEN');
-</script>
+</script> 
 
 Publications
 ---
