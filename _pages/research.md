@@ -42,8 +42,11 @@ States use symbolic gestures to increase their international status, or relative
 Working Papers
 ---
 
+<p>
+<p>
+  
 <b>Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire</b> (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>) 
-<details open>
+<details>
   <summary><i>Abstract</i></summary>
 
   Greening foreign aid is a vital step in the fight against climate change. However, international promotion of climate-friendly policies may come at a perceived cost of development support. As international actors withdraw their support from fossil fuel projects and move towards renewable sources, the distributional effects of these policies can create backlash against both international funders and their domestic allies in developing countries. I use a spatial difference-in-differences design to show that the withdrawal of World Bank support for a coal plant in Kosovo altered voting patterns for pro-international parties; coal-producing areas voted disproportionately against this party in the wake of withdrawal. However, places with potential for investment in renewables voted for the pro-international party. While international organizations can incentivize climate-friendly policies in developing nations, these interventions reshape the distribution of economic benefits in recipient countries. In the global fight against climate change, who bears the cost of international action may determine the interventions' fate.
@@ -56,21 +59,7 @@ Working Papers
 <details>
   <summary><i>Abstract</i></summary>
   
-  While some scholars find that recipient citizens credit domestic governments for aid,
-other scholars see aid credited to international donors. I theorize the conditions under
-which aid recipients will credit donors or governments. I start from two stylized facts:
-1) aid is politically targeted and 2) aid features a long chain of diverse actors. The
-political targeting of aid leads political allies of the domestic government to expect,
-and often receive, large shares of aid. However, politically excluded groups can observe
-this phenomenon and do not expect to receive targeted aid from domestic governments.
-When politically excluded groups receive aid, they attribute less credit to the government,
-instead crediting international organizations with the aid. Using ethnicity as a
-salient and visible political cleavage, I show that when ethnic groups are excluded from
-political power, they do not credit governments with foreign aid. This pattern reverses
-when aid is non-excludable, where government involvement is visible, and spatial ethnic
-segregation low. By targeting aid at ethnic minorities, international organizations
-may create perverse incentives for domestic governments to further shift funding away
-from ethnic minorities if targeting these groups offers few domestic political benefits.
+  While some scholars find that recipient citizens credit domestic governments for aid, other scholars see aid credited to international donors. I theorize the conditions under which aid recipients will credit donors or governments. I start from two stylized facts: 1) aid is politically targeted and 2) aid features a long chain of diverse actors. The political targeting of aid leads political allies of the domestic government to expect, and often receive, large shares of aid. However, politically excluded groups can observe this phenomenon and do not expect to receive targeted aid from domestic governments. When politically excluded groups receive aid, they attribute less credit to the government, instead crediting international organizations with the aid. Using ethnicity as a salient and visible political cleavage, I show that when ethnic groups are excluded from political power, they do not credit governments with foreign aid. This pattern reverses when aid is non-excludable, where government involvement is visible, and spatial ethnic segregation low. By targeting aid at ethnic minorities, international organizations may create perverse incentives for domestic governments to further shift funding away from ethnic minorities if targeting these groups offers few domestic political benefits.
 </details>
 
 <p>
