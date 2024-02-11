@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bhabesh Mali | PhD Scholar @IIT Guwahati"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Bhabesh Mali"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://bhabeshmali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback te image placed in /images/, .e.g. "500x300.png"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -78,43 +78,43 @@ analytics:
     tracking_id          :
 
 
-# # Site Author
-# author:
-#   name             : "Your Sidebar Name"
-#   avatar           : "profile.png"
-#   bio              : "Your biography for the left-hand sidebar"
-#   location         : "Location"
-#   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
-#   email            :
-#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "academicpages"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           :
-#   linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#   steam            :
-#   tumblr           :
-#   twitter          : "replacethistwitterhandle"
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          :
-#   wikipedia        :
+# Site Author
+author:
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
@@ -181,10 +181,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  MLforHLS:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  MLfor:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -205,14 +205,14 @@ defaults:
   # _pages
   - scope:
       path: ""
-      type: sidechannel
+      type: pages
     values:
       layout: single
       author_profile: true
   # _teaching
   - scope:
       path: ""
-      type: MLforEDA
+      type: teaching
     values:
       layout: single
       author_profile: true
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publicatio
+      type: publications
     values:
       layout: single
       author_profile: true
@@ -230,7 +230,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: Gnn_eda
+      type: portfolio
     values:
       layout: single
       author_profile: true
@@ -239,7 +239,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: MLforHLS
+      type: talks
     values:
       layout: talk
       author_profile: true
