@@ -14,5 +14,4 @@ I'm a social scientist who employs mixed-methods with nearly a decade of combine
 
 I use both quantitative and qualitative methods including but not limited to surveys, interviews, and experimental designs to understand how we make sense of how machines manage our private information and personalize our experiences and how this affects us psychologically, impacts our behavior in human-computer interaction, and is influenced by society and our communication experiences. This includes both mediated contexts such as digital communication channels (e.g., computer-mediated communication; social media) and contexts in which we interact with robots and AI powered chat agents.
 
-Please email me at mailto:matthewjacraig@gmail.com to get in contact.
-
+Please email me at [matthewjacraig@gmail.com](mailto:matthewjacraig@gmail.com) to get in contact.

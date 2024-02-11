@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+# Education
 ======
-**Ph. D., Communication & Information**, Expected May, 2024
+## Ph. D., Communication & Information
+College of Communication & Information
 Kent State University, Kent, OH
-
 **Dissertation**: Human-Machine Communication Privacy Management: An Examination of Privacy Expectations, Practices, Breakdowns, and Recalibration with Social Media Algorithms
 
-**Dissertation Advisors**: Jeffrey T. Child, Ph.D., Mina Choi, Ph.D., Michael Beam, Ph.D.
+**Dissertation Committee**: Michael Beam, Ph.D. (Chair), Jeffrey T. Child, Ph.D., Mina Choi, Ph.D., Judith Gere, Ph.D.
 
 
 **M.A., Communication**
