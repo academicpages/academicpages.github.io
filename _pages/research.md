@@ -5,7 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-JXH49J0PEN"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
