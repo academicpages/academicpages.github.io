@@ -7,7 +7,7 @@ an # Welcome to Jekyll!
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ethan Feilich"
 title_separator          : "-"
 name                     : &name "Ethan Feilich"
 description              : &description "Personal Website of Ethan Feilich"
@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "Economist in the Office of Economic Policy"
   location         : "Washington, D.C."
-  employer         : "U.S. Department of the Treasury"
+  employer         : # "U.S. Department of the Treasury"
   pubmed           :
   googlescholar    : 
-  email            : "ejfeilich@protonmail.com"
+  email            : # "ejfeilich@protonmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
