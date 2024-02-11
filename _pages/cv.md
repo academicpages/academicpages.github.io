@@ -20,7 +20,7 @@ Education
 
 Working Experience
 ======
-* 2020-2025: Research Assistant
+* 2020-2025: Graduate Research Assistant
   * Emory University
   * Duties included: Leading research projects on various topics of machine learning, such as multi-task learning, continual learning, and domain generalization, etc.
   * Supervisor: Professor Liang Zhao
@@ -29,10 +29,7 @@ Working Experience
   * NEC Lab America
   * Duties included: Developing machine learning algorithms for domain adaptation on time series data.
   * Mentor: Junxiang Wang
- 
-* Summer 2017: Intern
-  * China Financial Futures Exchange
-  * Duties included: Developing the data platform for a daily overview of the global financial market.
+
 
 <!-- 
 Skills
