@@ -28,15 +28,17 @@ Banff International Research Station, Aug 2022
 [[Video]](https://www.birs.ca/events/2022/5-day-workshops/22w5184/videos/watch/202208221400-Han.html)
 
 ## Upcoming Talks  
-Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Virtual.
+[Apr 2024] Invited talk at the Center for Signal Processing, Imaging, Reasoning, and Learning, Northeastern University.
 
 ## Recent News  
+Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).
+
 Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Studies 2]** Boston, MA.  
 
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)  
 
-Dec 12, 2023. **[Invited talk at Peking University School of Economics and Institute for Global Health and Development]** Virtual.  
+Dec 12, 2023. **[Invited talk at Peking University School of Economics and Institute for Global Health and Development]** Beijing, China (Virtual).  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
 Dec 4, 2023. **[Invited talk at Cytel Inc.]** Cambridge, MA.  
