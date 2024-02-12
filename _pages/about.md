@@ -13,7 +13,7 @@ Hi, I'm Paschal *(pas-kal)*.
 I'm a PhD student at Purdue University's Elmore Family School of Electrical and Computer Engineering, currently advised by [Prof Jamie Davis](https://davisjam.github.io/) and [Prof Aravind Machiry](https://machiry.github.io/).
 
 ## Research Interests
-My research sits at the intersection of software engineering, security, and cyber-physical systems. I improve the security of software systems by studying prevalent security vulnerabilities and designing novel and practical systems to detect them or prevent their exploitation.
+My research sits at the intersection of software engineering, security, and embedded systems. I use various static and dynamic analysis techniques to design novel vulnerability detection and software defense systems. My research has been published at [ASE 2023](https://ieeexplore.ieee.org/abstract/document/10298483), [DSN 2023](https://ieeexplore.ieee.org/abstract/document/10206998), [Arxiv 2023](https://arxiv.org/abs/2310.14117) and [ESEC/FSE 2022](https://dl.acm.org/doi/abs/10.1145/3540250.3560879).
 
 ## Personal
 Fun facts about me
