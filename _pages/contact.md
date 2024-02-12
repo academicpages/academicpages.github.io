@@ -1,7 +1,6 @@
 ---
 permalink: /contact/
 title: "Contact"
-excerpt: "Contact me"
 author_profile: false
 ---
 Contact information is below, including email and various web services.
