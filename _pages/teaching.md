@@ -6,7 +6,7 @@ author_profile: true
 
 ## Instructor
 
-BUS 314 Business Finance, *Fall 2024 (scheduled)*
+BUS 314 Business Finance, *Summer 2024, Fall 2024 (scheduled)*
 : Introduction to the theory and practice of financial management: analysis and decision making for asset management, capital budgeting, capital structure, and dividend policy. Topics covered include time-value of money, bond pricing, and project valuation.
 : [Syllabus] 
 
