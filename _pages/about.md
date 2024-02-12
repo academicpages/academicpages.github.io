@@ -17,10 +17,7 @@ From 2021-2023, I was part of Co-designing for Trust, an NSF grant, focused on m
 (CHI) 2023 and 2024.
 
 **Past:** 
-I completed my Bachelors in Information Systems from University of Mumbai, followed by M.S. in Data Science and M.Ed. in Learning Sciences with generous funding from [Indiana University Bloomington](https://www.indiana.edu/) School of Education. At Indiana University, I have worked with and been mentored by Drs. [Rebecca Neri](https://ucla.academia.edu/RebeccaNeri), [Norman Su](https://users.soe.ucsc.edu/~normsu/), and [Phoebe Wakhungu](https://education.indiana.edu/about/directory/profiles/wakhungu-phoebe.html). In this work, I was applying data science skills in higher education, writing about datafication in classroooms, and learning about human-centered design. 
-
-
-Below is an up-to-date list of my co-authored publications. 
+I completed my Bachelors in Engineering in Information Systems from University of Mumbai, followed by M.S. in Data Science and M.Ed. in Learning Sciences with generous funding from [Indiana University Bloomington](https://www.indiana.edu/) School of Education. At Indiana University, I have worked with and been mentored by Drs. [Rebecca Neri](https://ucla.academia.edu/RebeccaNeri), [Norman Su](https://users.soe.ucsc.edu/~normsu/), and [Phoebe Wakhungu](https://education.indiana.edu/about/directory/profiles/wakhungu-phoebe.html). In this work, I was applying data science skills in higher education, writing about datafication in classroooms, and learning about human-centered design. 
 
 
 Publications
