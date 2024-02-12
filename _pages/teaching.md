@@ -12,13 +12,11 @@ BUS 314 Business Finance, *Fall 2024 (scheduled)*
 
 BUS 313 Economic and Financial Environment of Global Business, *Spring 2024*
 : Introduction to international trade, financial flows, and direct investment with a focus on public and private institutions including government policies and capital markets.
-: [Syllabus]
-url: "/files/SyllabusBUS313.pdf
+: [Syllabus](http://hamzaessaidi.github.io/files/SyllabusBUS313.pdf)
 
 INS 300 Principles of Insurance, *Spring 2023, Spring 2024*
 : Introductory course discussing basic risk management concepts and techniques with applications to business and personal financial decision-making. Topics include life, property, casualty, liability, health, disability, and long-term care.
-: [Syllabus]
-url: /files/SyllabusINS300.pdf
+: [Syllabus](http://hamzaessaidi.github.io/files/SyllabusINS300.pdf)
 ## Teaching Assistant
 Duties include weekly office hours, teaching review sessions, and grading.
 
