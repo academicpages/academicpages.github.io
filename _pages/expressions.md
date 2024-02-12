@@ -1,7 +1,6 @@
 ---
 permalink: /experience/
 title: "Work experience"
-excerpt: "my experience"
 author_profile: true
 ---
 
