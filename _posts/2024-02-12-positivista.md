@@ -9,7 +9,7 @@ tags:
 
 <div style="text-align: justify;">
 
-<br>El Proyecto Gutenberg, repositorio digital de obras clásicas y modernas, alberga una edición de 1663 de los Breviarios fantásticos y extraordinarios, de Horacio Primavera. En todas estas historias cortas, el protagonista lleva el nombre del autor como compromiso ético. Y como epígrafe se lee: "Al buscar lo efímero, hallamos lo eterno". A continuación se transcribe, sin latinismos, una de esas evocadoras narraciones.<br>
+<br>El Proyecto Gutenberg, repositorio digital de obras clásicas y modernas, alberga una edición de 1663 de los Breviarios fantásticos y extraordinarios, de Horacio Primavera. En todas estas historias cortas, el protagonista lleva el nombre del autor como supuesto compromiso ético. A continuación se transcribe, sin latinismos, una de esas narraciones.<br><br>
 </div>
 
 <div style="text-align: justify;">
@@ -18,7 +18,7 @@ tags:
 
 <strong>El primer positivista</strong><br>
 
-Por Horacio Primavera.<br>
+Por Horacio Primavera<br>
 </div><br>
 
 <div style="text-align: right;">
