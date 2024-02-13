@@ -14,12 +14,16 @@ tags:
 
 <div style="text-align: justify;">
 <br><div style="background-color: rgb(221, 221, 221); padding: 12px;">
-<div style="text-align: center;">
+<div style="text-align: center;"><br>
 
 <strong>El primer positivista</strong><br>
 
-<em>Por Horacio Primavera. Noviembre 09, 1663.</em>
+Por Horacio Primavera.<br>
 </div><br>
+
+<div style="text-align: right;">
+<em>Noviembre 09, 1663.</em><br>
+</div>
 
 <br>Cuando el yo-dormido de Horacio presenció la caída de un rayo esplendoroso sobre la extensión solitaria de una pampa, fue <em>el augurio</em> del trueno —inminentemente grosero— lo que lo arrancó de su ensoñación antes de haberlo podido escuchar. Embargado por la resonancia ondulante, Horacio sufrió convulsiones, que pensó debían ser el eco de una epifanía fugaz: una idea que surge y se esfuma con la velocidad de un relámpago, siendo la epifanía tan sólo el retumbar de su paso. En sus cuadernos, Horacio escribió: «Quien decide perseguir una epifanía se embarca en una tarea imposible: como un cirujano que disecciona un relámpago, debe tratar de capturar su esencia a través de los ecos de su estallido, recomponiendo esa visión instantánea en su forma más pura».<br>
 
@@ -27,7 +31,7 @@ tags:
 
 <br>Pronto comprendió la tragedia: había soñado un relámpago sin sentido profundo. No era metáfora del amor, la amistad ni otro sentimiento elevado. Era simplemente un rayo sordo que caía sobre una pampa yerma. Casi como venganza ante la ruptura del equilibrio, el trueno llegó acaso <em>Horacianamente</em>. Y en tanto intersección, Horacio debía ejercer de cirujano del trueno e intentar reconstruir un rayo que no era más que un rayo, en un esfuerzo vano por liberarse de este encadenamiento.<br>
 
-<br>Horacio y su tarea cayeron pronto en el olvido. No obstante, su infructuoso intento de diseccionar aquel anodino relámpago contenía el germen de un cambio paradigmático: negando toda posibilidad de interpretación metafísica del fenómeno, fue él quien sentó las bases del positivismo y del empirismo moderno. Antes de Homero, era Horacio librando una batalla frente a inefables bestias en un océano de soledad.<br>
+<br>Horacio y su tarea cayeron pronto en el olvido. No obstante, su infructuoso intento de diseccionar aquel anodino relámpago contenía el germen de un cambio paradigmático: negando toda posibilidad de interpretación metafísica del fenómeno, fue él quien sentó las bases del positivismo y del empirismo moderno. Antes de Homero, era Horacio librando una batalla frente a inefables bestias en un océano de soledad.<br><br>
 
 </div><br>
 
