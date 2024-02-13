@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem "jekyll", "=3.9.3"
 gem 'jekyll-redirect-from'
 gem 'github-pages', group: :jekyll_plugins
+gem "github-pages", "=228"
 
 group :jekyll_plugins do
   gem 'jekyll-algolia', '~> 1.0'
