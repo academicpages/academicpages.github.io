@@ -17,12 +17,17 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
 # Ongoing Work
 
   * ### Bayesian Online Allocation with Buyback
-    * With Rad Niazadeh, Jan Vondrák, and Pranav Nuti
+    * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
-
+  * ### Online Job Assignment
+    * With Yiding Feng, Ian Kash, and Rad Niazadeh
+    
 # Publications
 
+  * ### [Prophet Inequalities with Recourse]
+    * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
+    * With Rad Niazadeh, Jan Vondrák, and Pranav Nuti
   * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
     * In Proceedings of the 24th ACM Conference on Economics and Computation (EC 2023)
     * With Yiding Feng and Rad Niazadeh
