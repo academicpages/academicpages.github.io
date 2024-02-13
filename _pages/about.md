@@ -23,7 +23,7 @@ Research
 =======
 
 
-<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>democratic development</b> and <b>clientelism</b>. As an applied methodologist I also have a strong interest in statistical as well as experimental methods (lab and survey-based).</p>
+<p class="lead">My primary subfield is the political economy of <b>inequality</b>,  <b>democratic development</b> and <b>clientelism</b>. I also have a strong interest in statistical as well as experimental methods (lab and survey-based).</p>
 
 <p class="lead"> My research is either forthcoming, or has been published in Electoral Studies, Political Psychology, the European Journal of Political Economy, Acta Politica, Journal of Politics in Latin America, among others.</p>
 
