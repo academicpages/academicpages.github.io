@@ -25,7 +25,7 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     
 # Publications
 
-  * ### [Prophet Inequalities with Recourse]
+  * ### Prophet Inequalities with Recourse
     * In Proceedings of the 56th Annual ACM Symposium on Theory of Computing (STOC 2024)
     * With Rad Niazadeh, Jan Vondrák, and Pranav Nuti
   * ### [Online Resource Allocation with Buyback: Optimal Algorithms via Primal-Dual](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4245468)
