@@ -22,7 +22,7 @@ Por Horacio Primavera<br>
 </div><br>
 
 <div style="text-align: right;">
-<em>Noviembre 09, 1663.</em><br>
+<em>Noviembre 09, 1663</em><br>
 </div>
 
 <br>Cuando el yo-dormido de Horacio presenció la caída de un rayo esplendoroso sobre la extensión solitaria de una pampa, fue <em>el augurio</em> del trueno —inminentemente grosero— lo que lo arrancó de su ensoñación antes de haberlo podido escuchar. Embargado por la resonancia ondulante, Horacio sufrió convulsiones, que pensó debían ser el eco de una epifanía fugaz: una idea que surge y se esfuma con la velocidad de un relámpago, siendo la epifanía tan sólo el retumbar de su paso. En sus cuadernos, Horacio escribió: «Quien decide perseguir una epifanía se embarca en una tarea imposible: como un cirujano que disecciona un relámpago, debe tratar de capturar su esencia a través de los ecos de su estallido, recomponiendo esa visión instantánea en su forma más pura».<br>
