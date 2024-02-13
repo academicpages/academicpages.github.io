@@ -19,8 +19,8 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
-- <span style="font-size: 16px;">[Feb 12, 2024] Our workshop proposal, entitled 'Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)', has been accepted at IEEE-Meditcom 2024.</span>
-- <span style="font-size: 16px;">[Feb 04, 2024] Our paper, entitled 'Decentralized Energy Marketplace via NFTs and AI-based Agents,' has been accepted for presentation at IEEE-ENERGYCON 2024.</span>
+- <span style="font-size: 16px;">[Feb 12, 2024] Our workshop proposal, entitled 'Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)', has been accepted at IEEE Meditcom 2024.</span>
+- <span style="font-size: 16px;">[Feb 04, 2024] Our paper, entitled 'Decentralized Energy Marketplace via NFTs and AI-based Agents,' has been accepted for presentation at IEEE ENERGYCON 2024.</span>
 - <span style="font-size: 16px;">[Jan 18, 2024] Invited as TPC member of 2024 EuCNC & 6G Summit, 2024.</span>
 - <span style="font-size: 16px;">[Dec 28, 2023] Invited Speaker at 3rd International Forum on Electronics and Electrical Engineering, 2024.</span>
 - <span style="font-size: 16px;">[Dec 20, 2023] Awarded IEEE ComSoc Student Grant for 2023 IEEE NFV-SDN.</span>
