@@ -117,12 +117,11 @@ author:
   wikipedia        :
 
 
-
 # Reading Files
 include:
   - .htaccess
   - _pages
-  - _posts
+  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -183,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
