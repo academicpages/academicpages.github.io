@@ -20,8 +20,6 @@ I completed my undergraduate degree in Computer Engineering at Sharif University
     * With Rad Niazadeh, Pranav Nuti, and Jan Vondrák
   * ### Dynamic Information Design in the Principal-Agent problem
     * With René Caldentey and Ennio Stacchetti
-  * ### Online Job Assignment
-    * With Yiding Feng, Ian Kash, and Rad Niazadeh
     
 # Publications
 
