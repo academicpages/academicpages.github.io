@@ -7,7 +7,7 @@ author_profile: true
 
 ## About the Anti-AAPI Hate Speech Project
 
-The Anti-AAPI Hate Speech and Incident Project aims to detect, monitor, and study anti-AAPI hate speech and incident on social media platform (i.e., Twitter) using advanced computational methods and online/field experiments. Since the outbreak of the novel coronavirus, we have witnessed the surge of anti-Asian attacks. Based on a report from stopaapihate.org, there were over 4000 self-reported hate incidents targeting AAPI communities. But we lack critical data on the scale and scope as well as the consequences of these incidents. This project aims to address these issues.
+The Anti-AAPI Hate Speech and Incident Project aims to detect, monitor, and study anti-AAPI hate speech and incident and associated mental health issues on social media platform (i.e., Twitter) using advanced computational methods and online/field experiments. Since the outbreak of the novel coronavirus, we have witnessed the surge of anti-Asian attacks. Based on a report from stopaapihate.org, there were over 4000 self-reported hate incidents targeting AAPI communities. But we lack critical data on the scale and scope as well as the consequences of these incidents. This project aims to address these issues.
 
 This project is funded by a seed grant from the Institute of Advanced Computational Social Science (IACS) at Stony Brook University. IACS is an interdisplinary institute advancing the intellectual foundations of computation and data, with high-impact applications in engineering and the physical, environmental, life sciences and the humanities. 
 
