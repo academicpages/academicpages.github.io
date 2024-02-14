@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 
-I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Multi-modal Sensing based Medical Assistive Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/), Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/), and Prof. [Christopher Julius Nycz](https://www.wpi.edu/people/faculty/cjnycz) at [AIM Lab](http://aimlab.wpi.edu/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV.pdf).
+I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Multi-modal Sensing Medical Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV.pdf).
 
 # News
 
