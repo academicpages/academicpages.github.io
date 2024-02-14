@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Kathmandu University, Department of Geomatics Engineering"
-date: 2019-2022
+date: 2019-10-1-2022-07-30
 location: "City, Country"
 ---
 
