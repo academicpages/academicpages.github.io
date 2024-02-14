@@ -10,11 +10,11 @@ redirect_from:
 
 # About Me
 
-I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Multi-modal Sensing Medical Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV.pdf).
+I'm a junior-year undergraduate student at [Worcester Polytechnic Institute](https://www.wpi.edu/), majoring in Robotic Engineering and minoring in Mathematics. Currently, I am conducting research on multiple robotic and computer vision topics: 3D Point Cloud Completion, FDM Printing Soft Robotics, Robotic Task Motion Planning, and Multi-modal Sensing Medical Automation. My research works are supervised by Prof. [Ziming Zhang](https://www.wpi.edu/people/faculty/zzhang15) at [VISLab@WPI](https://zhang-vislab.github.io/) and Prof. [Markus Nemitz](https://www.wpi.edu/people/faculty/mnemitz) at [RMG](https://wp.wpi.edu/roboticmaterialsgroup/). CV: [Link](https://Andyliu7081.github.io/files/Haotian_Liu_CV_Feb14.pdf).
 
 # News
 
-I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025.
+I am actively exploring opportunities for a visiting researcher position in the summer of 2024, as well as a Ph.D. student position for the fall of 2025. Feel free to contact me via email(hliu8 AT wpi dot edu) or LinkedIn.
 - Our paper: *Vision-based FDM Printing for Fabricating Airtight Soft Actuators* has been accepted by **IEEE RoboSoft 2024** as an **Oral Presentation**!
 
 # Research Vision
