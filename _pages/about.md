@@ -12,7 +12,7 @@ redirect_from:
 
 I am a senior research engineer at [Hyundai Motor Company](https://www.hyundai.com/worldwide/en/), South Korea. I received a Ph.D. from Yonsei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 
-I am interested in various topics, ranging from low-level to high-level vision and their connections to autonomous driving assistance systems. Recently, I've concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation, but not limited to.
+I am interested in various topics, ranging from low-level to high-level vision and their connections to autonomous driving assistance systems. Working on autonomous driving systems has allowed me to solve many real-world problems by leveraging computer vision algorithms. Challenging myself awards me the most satisfaction towards solving real-world problems. Recently, I've concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation, but not limited to.
 
 
 
