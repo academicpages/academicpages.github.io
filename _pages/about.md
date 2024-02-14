@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-My name is Jaehoon and I work as a senior research engineer at [Hyundai Motor Company](https://www.hyundai.com/worldwide/en/), in south Korea. I received a Ph.D. from Yonsei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
+My name is Jaehoon, and I work as a senior research engineer at [Hyundai Motor Company](https://www.hyundai.com/worldwide/en/), in South Korea. I received a Ph.D. from Yonsei University, advised by [Prof. Kwanghoon Sohn](http://diml.yonsei.ac.kr/professor/). 
 
-I am interested in various topics, ranging from low-level to high-level vision and their connections to autonomous driving assistance systems. Working on autonomous drivign systems has allowed me to solve many real-world problems by leveraging computer vision algorithms. I feel that challenging myself awards me the most satisfaction towards solving real-world problems. Recently, I've concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation, but not limited to.
+I am interested in various topics, ranging from low-level to high-level vision and their connections to autonomous driving assistance systems. Working on autonomous driving systems has allowed me to solve many real-world problems by leveraging computer vision algorithms. Challenging myself awards me the most satisfaction towards solving real-world problems. Recently, I've concentrated on multi-task learning containing 2D/3D object detection, semantic segmentation, and monocular depth estimation, but not limited to.
 
 
 
@@ -67,7 +67,7 @@ KR 1020230300154, Aug. 2023. <br/>
 US 18/507,548, DE 102023211571.9, CN 202311628407.4, KR 1020230200237, Sep. 2023. <br/>
 &middot; Reliable pseudo label generation technique for semi-supervised semantic segmentation<br/>
 US 18/508,967, KR 1020230044302, Jun. 2023. <br/>
-&middot; GAN-based dataset generation technique using dual domain discriminator<br/>
+&middot; GAN-based dataset generation technique using dual-domain discriminator<br/>
 KR 1020230100239, Apr. 2023. <br/>
 &middot; A prototype network-based noise information extraction method<br/>
 US 18/367,845, KR 1020230034680, May. 2023. <br/>
@@ -100,8 +100,7 @@ Invited Talks
 Blogs
 ======
 
-&middot; [HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques
-”, 2023 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
+&middot; [HMG DEVELOPERS](https://developers.hyundaimotorgroup.com/), “[Deep Learning Optimization] Hardware-Friendly Deep Learning Network: Understanding Reparameterization Techniques”, 2023 [Link](https://developers.hyundaimotorgroup.com/blog/291) <br/>
 
 
 
