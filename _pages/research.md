@@ -41,8 +41,6 @@ States use symbolic gestures to increase their international status, or relative
 Working Papers
 ---
 
-<p>
-<p>
   
 <b>Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire</b> (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>) 
 <details>
@@ -74,7 +72,7 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 <p>
 
-<b>Innovation and Interdependence: The Case of Gene-Editing Technology</b> (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">draft</a>) 
+<b>Innovation and Interdependence: The Case of Gene-Editing Technology</b> (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
