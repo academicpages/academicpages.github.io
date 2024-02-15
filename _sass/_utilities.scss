@@ -233,6 +233,11 @@ body:hover .visually-hidden button {
     color: $linkedin-color;
   }
 
+  .fa-mastodon,
+  .fa-mastodon-square {
+    color: $mastodon-color;
+  }
+
   .ai-orcid-square {
     color: $orcid-color;
   }
