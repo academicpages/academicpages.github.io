@@ -16,7 +16,7 @@ author_profile: true
 
 Publications
 ---
-<b>The possibilities and limits of international status: evidence from foreign aid and public opinion</b> (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Conditionally accepted at Review of International Organizations</a>) 
+The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Conditionally accepted at Review of International Organizations</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -26,7 +26,7 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
 
-<b>Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions </b> (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) (Accepted at World Development) 
+Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) (Accepted at World Development) 
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -43,7 +43,7 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
   
-<b>Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire</b> (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">job market paper</a>) 
+Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">draft</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
@@ -53,7 +53,7 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
   
-<b>A political economy of aid and legitimacy</b> (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">draft</a>) 
+A political economy of aid and legitimacy (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">draft</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -63,7 +63,7 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
   
-<b>Aid, blame, and backlash</b> (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">draft</a>)
+Aid, blame, and backlash (<a href= "https://cobrienudry.github.io/files/blame_May2023.pdf">draft</a>)
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -73,7 +73,7 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 <p>
 
-<b>Innovation and Interdependence: The Case of Gene-Editing Technology</b> (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
