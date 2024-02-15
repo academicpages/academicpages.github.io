@@ -33,7 +33,7 @@ group :jekyll_plugins do
   gem 'jekyll-glossary_tooltip'
 end
 
-
+gem 'jekyll-glossary_tooltip'
 gem "jekyll-paginate"
 gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.8"
