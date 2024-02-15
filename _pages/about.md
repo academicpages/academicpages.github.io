@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before that, I received my B.Eng. degree from the Dept. of Electronic Engineering, Tsinghua University in July, 2020. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
+I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to that, I received my B.Eng. degree from the Dept. of Electronic Engineering, Tsinghua University. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
 
 
 My current research interests are focused on the **theoretical foundations** and **scalable algorithms** for generative language models, aiming to develop *verifiable*, *consistent* and *robust* AI systems capable of generating natural language indistinguishable from that of humans.
@@ -96,7 +96,7 @@ Specifically, my research is theoretically motivated to advance language models 
 - **Yang Huiyan (杨惠妍) Scholarship**, Tsinghua University, 2021
 - **Comprehensive Merit Scholarship**, Tsinghua University, 2017/2019
 - **Gold Medal**, 32nd China Physics Olympiads (CPhO), 2015 
-- **Honor Roll of Distinction (Top 1%)**, American Mathematics Contest 12 (AMC12), 2015
+- **Distinguished Honor Roll (Top 1%)**, [American Mathematics Contest](https://amc-reg.maa.org/reports/generalreports.aspx) 12A (AMC 12A), 2015
 
 ## Education
 
@@ -113,6 +113,6 @@ I was a Head TA in the undergraduate course **Artificial Neural Network**, instr
 
 ## Personal
 
-I am a cellist :violin: in the Tsinghua University Symphony Orchestra (TUSO). Check out our performance of [Symphony No. 8](https://www.bilibili.com/video/BV1Yh4y1g7t7) by [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k). I also like playing guitar :guitar: in daily life. I love music!
+I am a cellist :violin: in the Tsinghua University Symphony Orchestra (TUSO). Explore our 30th-anniversary concert, featuring a performance of [Symphony No. 8](https://www.bilibili.com/video/BV1Yh4y1g7t7) by [Antonín Dvořák](https://en.wikipedia.org/wiki/Anton%C3%ADn_Dvo%C5%99%C3%A1k).
 
 
