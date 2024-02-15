@@ -43,13 +43,13 @@ author:
   goodreads        :
   google_plus      :
   keybase          :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   instagram        :
   lastfm           :
   linkedin         :
-  kaggle           : # "https://www.kaggle.com/yourprofile"
+  kaggle           : # "kaggleusername"
   mastodon         : "mastodonhandle"
-  medium           : #"add medium profile url here"
+  medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
