@@ -11,9 +11,9 @@
   definition: '<b>Language generation with multi-hop reasoning on commonsense knowledge graph</b> <br> Haozhe Ji, Pei Ke, Shaohan Huang, Furu Wei, Xiaoyan Zhu, Minlie Huang. <br> <em>EMNLP 2020</em>.'
   url: https://aclanthology.org/2020.emnlp-main.54
 - term: lamemo
-  definition: '<b>LaMemo: Language modeling with look-ahead memory</b> Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang. <br> <em>NAACL 2022</em>.'
+  definition: '<b>LaMemo: Language modeling with look-ahead memory</b> <br> Haozhe Ji, Rongsheng Zhang, Zhenyu Yang, Zhipeng Hu, Minlie Huang. <br> <em>NAACL 2022</em>.'
   url: https://aclanthology.org/2022.naacl-main.422
 - term: discodvt
-  definition: '<b>DiscoDVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer</b> <br>Haozhe Ji, Minlie Huang. <br> <em>EMNLP 2021</em>.'
+  definition: '<b>DiscoDVT: Generating Long Text with Discourse-Aware Discrete Variational Transformer</b> <br> Haozhe Ji, Minlie Huang. <br> <em>EMNLP 2021</em>.'
   url: https://aclanthology.org/2021.emnlp-main.347
 

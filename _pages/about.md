@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-I am Haozhe Ji, a penultimate-year Ph.D. student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to my Ph.D. journey, I received my B.Eng. degree from Dept. of Electronic Engineering, Tsinghua University. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
+I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Before that, I received my B.Eng. degree from the Dept. of Electronic Engineering, Tsinghua University in July, 2020. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
 
 
-Currently, my research interests are focused on the **theoretical foundations** and **scalable algorithms** for generative language models, aiming to develop *verifiable*, *consistent* and *robust* AI systems capable of generating natural language indistinguishable from that of humans.
+My current research interests are focused on the **theoretical foundations** and **scalable algorithms** for generative language models, aiming to develop *verifiable*, *consistent* and *robust* AI systems capable of generating natural language indistinguishable from that of humans.
 
 Specifically, my research is theoretically motivated to advance language models beyond the inherent limitations of **Auto-Regressive (AR) modeling** and **Maximum Likelihood Estimation (MLE) objective** by providing practical and scalable solutions.
 
@@ -100,8 +100,8 @@ Specifically, my research is theoretically motivated to advance language models 
 
 ## Education
 
-- Sep 2020 - present. Ph.D student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
-- Sep 2016 - Jul 2020. B.Eng. in Electronic Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/). 
+- September, 2020 - present. Ph.D. student in [CoAI Group](http://coai.cs.tsinghua.edu.cn/), Dept. of Computer Science and Technology, Tsinghua University. Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/)
+- September, 2016 - July, 2020. B.Eng. in Electronic Engineering, [Tsinghua University](https://www.tsinghua.edu.cn/). 
 
 ## Services
 
