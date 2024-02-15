@@ -26,10 +26,11 @@ Awards
 * 2021: STEM scholarship awarded to the best 50 students (by GPA) among all recent graduates from Politecnico and University of Turin
 * 2021: Scholarship “Premio allo studio” by Banca Centro Emilia for outstanding recent graduates
 
-Work experience
+Teaching Experience
 ======
-* Spring 2021: Data Scientist, MindIT
-  * Duties included: 	Conducting data analysis and causal inference on retailer data using Python
-* Summer 2020-2022: Farmer, Farm 'Collari'
+* Fall 2023: TA for STSCI 3080, Cornell University
+* Spring 2024: TA for STSCI 3080, Cornell University
+
+
   
   
