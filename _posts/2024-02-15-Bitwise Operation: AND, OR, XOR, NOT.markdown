@@ -1,7 +1,7 @@
 ---
 title: 'Bitwise Operation: AND, OR, XOR, NOT'
 date: 2024-02-15
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2024/02/Bitwise Operation/
 tags:
   - competitive programming
   
