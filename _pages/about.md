@@ -16,6 +16,6 @@ Previously, I was a master's student in Mathematics, curriculum 'Stochastics and
 I obtained my B.sc. in Statistics at the University of Bologna, where I was supervised by [Christian Hennig](https://scholar.google.com/citations?user=ZG9XA4IAAAAJ&hl=en). Here I worked on [quantile-based clustering](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-13/issue-2/Quantile-based-clustering/10.1214/19-EJS1640.full), exploring new approaches to estimate the 'true' number of clusters.
 
 # Research Interest:
-*  **Cluster analysis** both from a theory and practical point of view
+*  **Causal Inference** 
 * **Statistical Learning theory and Decision Making** 
 * **Bayesian Nonparametric Statistics** 
