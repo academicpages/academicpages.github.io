@@ -17,6 +17,9 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 ruby "3.1.3"
 
+# TravisCI
+gem "rake", "~> 12"
+
 gem "jekyll", "~> 3.9.3"
 gem 'jekyll-relative-links', '~> 0.7.0'
 
