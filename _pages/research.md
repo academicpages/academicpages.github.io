@@ -54,7 +54,7 @@ Working Papers
 <p>
 <p>
   
-<b>A political economy of aid and legitimacy</b> (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">Under review</a>) 
+<b>A political economy of aid and legitimacy</b> (<a href="https://cobrienudry.github.io/files/minority_2023.pdf">draft</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
