@@ -1,0 +1,98 @@
+/* Tooltip from https://www.w3schools.com/css/css_tooltip.asp */
+.jekyll-glossary {
+    position: relative;
+    display: inline-block;
+    /* border-bottom: 2px dotted #0074bd; */
+    cursor: default;
+    color: #0477AA; 
+    font-size: 0.9em;
+    position: relative; 
+    bottom: 2px;
+    margin-right: 0px;
+  }
+
+  .jekyll-glossary::before {
+    content: '[';
+    position: relative; 
+    left: 3px;
+  }
+
+  .jekyll-glossary::after {
+    content: ']';
+    position: relative; 
+    right: 3px;
+  }
+  
+  .jekyll-glossary .jekyll-glossary-tooltip {
+    visibility: hidden;
+    width: 120px;
+    background-color: white;
+    color: black;
+    text-align: left;
+    font-size: 1.0em;
+    font-family: 'Open Sans', sans-serif;
+    padding: 12px;
+    border-radius: 3px;
+    border-color: grey;
+    border-width: 1px;
+    border-style: solid;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 2px 10px;
+
+  
+    /* Position the tooltip text - see examples below! */
+    position: absolute;
+    z-index: 1;
+  
+    width: 500px;
+    top: 110%;
+    left: 50%;
+    margin-left: -250px; /* Use half of the width to center the tooltip */
+  }
+
+  .jekyll-glossary a {
+    color: #0477AA;
+    font-weight: 700;
+  }
+  
+  .jekyll-glossary a:hover, .jekyll-glossary a:focus {
+    color: #0477AA;
+    text-decoration: underline;
+  }
+
+  
+  /* Show the tooltip text when you mouse over the tooltip container */
+  .jekyll-glossary:hover .jekyll-glossary-tooltip {
+    visibility: visible;
+  }
+  
+  /* Style the source link (if there is one provided in the glossary entry). */
+  .jekyll-glossary-source-link:before {
+    content: "[PDF]";  // "(reference)", "<link>" or whatever you want.
+  }
+  
+  /* Arrow created with borders. */
+  .jekyll-glossary .jekyll-glossary-tooltip::after {
+    visibility: visible;
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent transparent black transparent;
+  }
+  
+  /* Animation from invisible to visible on hover. */
+  .jekyll-glossary .jekyll-glossary-tooltip {
+    opacity: 0;
+    transition: all 0.1s ease-in-out;
+  }
+  .jekyll-glossary:hover .jekyll-glossary-tooltip {
+    opacity: 0.95;
+  }
+  .jekyll-glossary .jekyll-glossary-tooltip:hover{
+    transition-duration:2s;
+  }
+
+

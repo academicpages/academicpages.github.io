@@ -15,13 +15,26 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
+ruby "3.1.3"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "jekyll", "~> 3.9.3"
+gem 'jekyll-relative-links', '~> 0.7.0'
+
+#gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
+  gem "jekyll-gist"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem "jekyll-redirect-from"
+  gem 'jekyll-glossary_tooltip'
 end
+
+
+gem "jekyll-paginate"
+gem "kramdown-parser-gfm"
+gem "webrick", "~> 1.8"
+gem 'jemoji'
