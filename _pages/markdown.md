@@ -151,6 +151,18 @@ The abbreviation CSS stands for "Cascading Style Sheets".
 
 You will learn later on in these tests that `word-wrap: break-word;` will be your best friend.
 
+You can also write larger blocks of code with syntax highlighting supported for some languages, such as Python:
+
+```python
+print('Hello World!')
+```
+
+or R:
+
+```R
+print("Hello World!", quote = FALSE)
+```
+
 ### Strike Tag
 
 This tag will let you <strike>strikeout text</strike>.
