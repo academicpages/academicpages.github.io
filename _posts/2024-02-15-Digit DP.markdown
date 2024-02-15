@@ -1,7 +1,7 @@
 ---
 title: 'Digit DP'
 date: 2024-02-15
-permalink: /posts/2024/02/Bitwise Operation/
+permalink: /posts/2024/02/Digit DP/
 tags:
   - competitive programming
   
@@ -44,10 +44,3 @@ Using the above approach we can find the total valid numbers in the range 0 to b
 
 ## How to solve for range a to b in a single recursion?
 In the above approach we used an extra parameter f1 which helped us to make sure the sequence is not getting larger than b. Can’t we do the similar thing so that the sequence does not become smaller than a? Yes of course. For that, we need to maintain an extra parameter f2 which will say if there exist a position t such that sq[t] > a[t]. Depending on the value of f2 we can select the digits in our current position so that the sequence does not become smaller than a. Note: We also have to maintain the condition for f1 parallely so that the sequence remains valid.
-
-## Problem List
-1.[Investigation](https://vjudge.net/problem/LightOJ-1068)
-
-# Bitwise Operation: AND, OR, XOR, NOT
-
-
