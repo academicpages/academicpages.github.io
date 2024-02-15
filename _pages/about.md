@@ -109,7 +109,7 @@ Reviewer/Program Committee: ACL, EMNLP, NAACL, ARR
 
 ## Teaching
 
-I was a Head TA in the undergraduate course **Artificial Neural Network**, instructed by [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml) (2021 Fall, 2022 Fall, 2023 Fall).
+I was the Head TA of the undergraduate course **Artificial Neural Network**, instructed by [Minlie Huang](https://coai.cs.tsinghua.edu.cn/hml) (2021 Fall, 2022 Fall, 2023 Fall).
 
 ## Personal
 
