@@ -19,4 +19,4 @@ redirect_from:
 
 I am a postdoctoral fellow in the Browne Center at the University of Pennsylvania and an incoming Assistant Professor in the Political Science Department at the University of Illinois, Urbana-Champaign (2024). I recieved my PhD in political science from Yale in 2023. My research agenda, broadly characterized as the international political economy of development, examines the domestic political consequences of foreign aid with particular attention to climate finance.
 
-My work has been published or accepted at World Development, Review of International Organizations, and Political Science.
+My work has been published or accepted at <span class="emphasize">World Development</span>, <span class="emphasize">Review of International Organizations</span>, and <span class="emphasize">PS: Political Science & Politics</span>.
