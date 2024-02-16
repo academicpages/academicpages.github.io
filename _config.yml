@@ -81,9 +81,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Erik Eisenach"
+  avatar           : "IMG_1094.png"
+  bio              : "I am a Quantum Engineer at Quantum Brilliance GmbH"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
