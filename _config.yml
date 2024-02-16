@@ -43,7 +43,7 @@ author:
   dribbble         : # Username
   github           : "academicpages"
   kaggle           : # Username  
-  stackoverflow    : # Username    
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
