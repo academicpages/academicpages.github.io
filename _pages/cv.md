@@ -70,7 +70,7 @@ redirect_from:
 
 * **발표 및 시각화 능력 (presentation and visualization skills)**
   * 워크샵, 학술대회, 세미나, 성과발표회 등의 다양한 발표 경험
-  * 다수의 정부 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
+  * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
 
 <!-- 소속 학회 (Professional Memberships)
