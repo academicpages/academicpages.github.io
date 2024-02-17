@@ -1,12 +1,3 @@
----
-permalink: /
-title: "About"
-#excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4MFKZNB73K"></script>
@@ -17,6 +8,16 @@ redirect_from:
 
   gtag('config', 'G-4MFKZNB73K');
 </script>
+
+---
+permalink: /
+title: "About"
+#excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 Under Construction!!!
 ======

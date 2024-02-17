@@ -1,10 +1,3 @@
----
-
-title: "Graduation Thesis"
-permalink: /gradthesis/
-author_profile: true
-
----
 
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-4MFKZNB73K"></script>
@@ -15,6 +8,14 @@ author_profile: true
 
   gtag('config', 'G-4MFKZNB73K');
 </script>
+
+---
+
+title: "Graduation Thesis"
+permalink: /gradthesis/
+author_profile: true
+
+---
 
 I am writing a thesis on the history of computing.
 
