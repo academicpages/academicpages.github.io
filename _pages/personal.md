@@ -7,9 +7,19 @@ author_profile: true
 #  - /resume
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4MFKZNB73K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4MFKZNB73K');
+</script>
+
 {% include base_path %}
 
-What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Game (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, (cooking?) etc.
+What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, (cooking?), etc.
 
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
@@ -22,7 +32,7 @@ My Bookshelf (mainly nonfiction)
   * 
 * Thomas S. Kuhn, (1962), *The Structure of Scientific Revolutions*
   * “Almost always the men who achieve these fundamental inventions of a new paradigm have been either very young or very new to the field whose paradigm they change. “
-“The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the  recourse to philosophy and to debate over fundamentals, all these are  symptoms of a transition from normal to extraordinary research. “
+“The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research. “
   * This book is difficult to read due to the assumption of knowledge in the history of physics, which is not commonly taught in modern physics textbooks, and less rigorous discussion. However, the concept of paradigm is really intriguing and sparked my initial interest in the history and philosophy of science.
 * 
 * Jose Ortega Y Gasset, 1929, *The Revolt of the Mass*
