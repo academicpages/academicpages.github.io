@@ -33,6 +33,24 @@ redirect_from:
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+ * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+
+## MathJax 
+
+Support for MathJax Version 3.0 is included in the template:
+
+$$
+\displaylines{
+\nabla \cdot E= \frac{\rho}{\epsilon_0} \\\
+\nabla \cdot B=0 \\\
+\nabla \times E= -\partial_tB \\\
+\nabla \times B  = \mu_0 \left(J + \varepsilon_0 \partial_t E \right)
+}
+$$
+
+The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed mathematics, while `\\(...\\)` should be used for in-line mathematics (ex., \\(a^2 + b^2 = c^2\\))
+
+**Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772).
 
 ## Markdown guide
 
@@ -65,7 +83,8 @@ Single line blockquote:
 | Header1 | Header2 | Header3 |
 |:--------|:-------:|--------:|
 | cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
+| cell4   | ce
+ll5   | cell6   |
 |-----------------------------|
 | cell1   | cell2   | cell3   |
 | cell4   | cell5   | cell6   |
