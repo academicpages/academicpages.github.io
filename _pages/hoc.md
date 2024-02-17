@@ -95,5 +95,5 @@ Others
 ======  
       {% for post in site.jptexts %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
   
