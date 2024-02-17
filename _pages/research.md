@@ -15,7 +15,7 @@ title: Research
 <p align="justify">This paper studies how firms respond to differential, size-based tax rates using administrative tax data in Lithuania. Exploiting a notch in the tax schedule faced by corporations, it documents strong behavioral responses to tax incentives—revenue elasticity is estimated at 0.35 and cost elasticity at -1.3, implying a large total profit elasticity of 7.4. It then leverages the panel structure of the data to provide insights on the dynamic effects of these tax incentives. Firms located close to but below the notch report systematically lower revenue growth in the short term, but the effects dissipate over time.</p>
 
 ---
-**The Impact of COVID-19 on Formal Firms: Micro Tax Data Simulations across Countries**  
+**[The Impact of COVID-19 on Formal Firms: Lessons from Administrative Tax Data](https://pablogarriga.github.io/files/covid19-firm-impacts.pdf)**
 (with Pierre Bachas, Anne Brockmeyer, Camille Semelet)
 
 - Coverage: [Economics Observatory](https://www.economicsobservatory.com/how-does-lockdown-affect-firms-developing-countries) and [UCL Stone Centre](https://www.stone-econ.org/research/the-impact-of-covid-19-on-formal-firms-micro-tax-data-simulations-across-countries)
@@ -31,7 +31,7 @@ title: Research
 
 
 ---
-**[Firms as Tax Collectors](https://pablogarriga.github.io/files/garriga_jmp.pdf)** — *Revise & Resubmit at Journal of Public Economics*  
+**[Firms as Tax Collectors](https://pablogarriga.github.io/files/firms-as-tax-collectors.pdf)** — *Revise & Resubmit at Journal of Public Economics*  
 (with Darío Tortarolo)
 
 - Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
