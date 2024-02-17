@@ -20,15 +20,15 @@ During my Ph.D., my research interests were in natural language processing and c
 
 News
 =====
-* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/8Mg3lt4t2j5dtFKCsRet4g" target="_blank">[Blog: 多场景预估]</a>    
-* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/zH-GRezM_kptrMz6Go1iIQ" target="_blank">[Blog: 曝光保量策略]</a>   
-* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a> <a href="https://github.com/alibaba/Elastic-Federated-Learning-Solution/blob/FedAds/docs/efls-dataset/dataset.md" target="_blank">[Blog: 联邦学习CVR预估数据集]</a>  
-* Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023. <a href="https://arxiv.org/pdf/2211.11191.pdf" target="_blank">[Paper]</a> <a href="https://arxiv.org/pdf/2211.11191.pdf" target="_blank">[Blog: 超图学习]</a>    
-* Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022. <a href="https://arxiv.org/pdf/2206.13108.pdf" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/A-nijbyMktnwLetv9QNZKg" target="_blank">[Blog: 多场景预估]</a>  
-* Apr. 2022: [Creative] Two first-authored papers about *ad creative generation* were accepted at NAACL 2022 and SIGIR 2022. <a href="https://arxiv.org/pdf/2205.08943.pdf" target="_blank">[Paper1]</a> <a href="https://arxiv.org/pdf/2205.14970.pdf" target="_blank">[Paper2]</a> <a href="https://mp.weixin.qq.com/s/xPP9r0TZ5KTtuvm1ziCUHw" target="_blank">[Blog: 面向效率的创意生成]</a>    
-* Apr. 2022: [Ranking] A first-authored paper about *calibrated ranking* was accepted at SIGIR 2022. <a href="https://arxiv.org/pdf/2205.07295.pdf" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/B31BRBC-q3WNw9KXuSHGtA" target="_blank">[Blog: 基于DNN的CVR校准]</a>    
-* Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022. <a href="https://arxiv.org/pdf/2201.08024.pdf" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/KMISe2GT65UFF9MEYA3oQQ" target="_blank">[Blog: CVR预估去偏]</a>     
-* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482061" target="_blank">[Paper]</a> <a href="https://mp.weixin.qq.com/s/lIA1A2-Yqq6ZBYdcg-c-ow" target="_blank">[Blog: 基于AutoML的多任务预估]</a>   
+* Aug. 2023: [Ranking] Our paper about *multi-domain pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
+* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
+* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a>   
+* Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph learning* for ad retrieval was accepted at WWW 2023. <a href="https://arxiv.org/pdf/2211.11191.pdf" target="_blank">[Paper]</a>     
+* Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-domain ranking* was accepted at CIKM 2022. <a href="https://arxiv.org/pdf/2206.13108.pdf" target="_blank">[Paper]</a>   
+* Apr. 2022: [Creative] Two first-authored papers about *ad creative generation* were accepted at NAACL 2022 and SIGIR 2022. <a href="https://arxiv.org/pdf/2205.08943.pdf" target="_blank">[Paper1]</a> <a href="https://arxiv.org/pdf/2205.14970.pdf" target="_blank">[Paper2]</a>     
+* Apr. 2022: [Ranking] A first-authored paper about *calibrated ranking* was accepted at SIGIR 2022. <a href="https://arxiv.org/pdf/2205.07295.pdf" target="_blank">[Paper]</a>     
+* Jan. 2022: [Ranking] A co-first authored paper about *debiased ranking* was accepted at WWW 2022. <a href="https://arxiv.org/pdf/2201.08024.pdf" target="_blank">[Paper]</a>      
+* Aug. 2021: [Ranking] A first-authored paper about *multi-task ranking* with AutoML was accepted at CIKM 2021. <a href="https://dl.acm.org/doi/abs/10.1145/3459637.3482061" target="_blank">[Paper]</a>   
 
 
 Experience and Education
