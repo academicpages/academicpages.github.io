@@ -93,7 +93,7 @@ Useful Links
 
 Others
 ======  
-    <ul>{% for post in site.jptexts %}
+      {% for post in site.jptexts %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
