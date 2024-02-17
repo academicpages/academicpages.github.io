@@ -1,10 +1,10 @@
 ---
-title: "Teaching Assistant, Biomedical Signal and Image Processing"
+title: "Volunteer, Museum of Science Nanodays"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Workshop"
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
+date: 2015-01-01
 location: "City, Country"
 ---
 

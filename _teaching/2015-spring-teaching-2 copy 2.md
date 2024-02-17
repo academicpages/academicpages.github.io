@@ -1,11 +1,11 @@
 ---
-title: "Teaching Assistant, Biomedical Signal and Image Processing"
+title: "Volunteer, MIT Science Policy Initiative"
 collection: teaching
-type: "Graduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Volunteer"
+permalink: /teaching/2015-spring-teaching-1
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2015-01-01
+location: "Washington, DC"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

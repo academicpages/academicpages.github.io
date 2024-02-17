@@ -54,23 +54,44 @@ Key technical skills
   * Quantum system simulation and modeling, utilizing tools like MATLAB and Python for predictive analysis and 
 design optimization.
 
+### Software Tools
+
 |Programming | Simulation Software | Engineering Software | 
 | --- | --- | --- | 
-|MATLAB| Ansys HFSS| Solidworks | 
-|Python| COMSOL | Fusion 360 |
-|LabVIEW| [FEMM](https://www.femm.info/wiki/Download) |      |
+|MATLAB*| Ansys HFSS*| Solidworks* | 
+|Python*| COMSOL* | Fusion 360 |
+|LabVIEW*| [FEMM](https://www.femm.info/wiki/Download)* |      |
 |   C++  |  LTSpice  |        |
 |  CUDA  |  Sonnet   |        |
-| Mathermatics | Keysight ADS |      |
-|        |   Microwave Office |      |
+| Mathermatica | Keysight ADS |      |
+|        |   Microwave Office |  <i>* High Proficiency </i>   |
+
+### Fabrication Tools
+
+
+|Hardware tool category | Tool name  | 
+| :--- | :---  |
+|  Electron beam lithography | - Raith Voyager <br> - Raith e-LINE Plus | 
+|  Optical lithography | - DMO Microwriter ML3  |
+|  Reactive Ion Etching | - Oxford Instruments RIE <br> - Diener PCCE  |
+|  Wire bonding | - F&S Bondtec wirebonder Type: 53xxBDA  |
+|  Thin Film Deposition | - Leybold Univex <br> - Pfeiffer PSL500  |
+
+<!--|  Ion Beam Milling | - Raith IonLine Plus <br> Oxford Instruments Ionfab 300  |
+|  Chemical Vapor Deposition | - Oxford Instruments PlasmaPro 80  | -->
+
+
 
 
 
 Publications and patents
 ======
+Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Patents
   
 Talks
 ======
@@ -78,12 +99,18 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching and volunteer opportunities
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards and Honors
 ======
-* Currently signed in to 43 different slack teams
+  * MITLL Best Paper Award (2021)
+  * NSF Graduate Research Fellowship (2016)
+  * NASA Space Grant Fellowship (2013)
+  * Member <i>Phi Beta Kappa</i>, Academic Honor Society (2014)
+  * Member <i>Tau Beta Pi</i>, Engineering Honor Society (2014)
+  * 317<sup>th</sup> Airlift Squadron Enlisted of the Quarter (2012) 
+
