@@ -1,15 +1,15 @@
 ---
 title: "Cavity-enhanced microwave readout of a solid-state spin sensor"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-03-01-cavity
+excerpt: 'In this paper we demonstrate high-fidelity, room-temperature readout of an ensemble of nitrogen-vacancy centers via strong coupling to a dielectric microwave cavity, building on similar techniques commonly applied in cryogenic circuit cavity quantum electrodynamics.'
+date: 2021-03-01
+venue: 'Nature Communications'
+paperurl: 'https://www.nature.com/articles/s41467-021-21256-7'
+citation: 'Eisenach, E., Barry, J, O`Keeffe, M., Schloss, J., Steinecker, M., Englund, D., Braje, D. (2021). &quot;Cavity-enhanced microwave readout of a solid-state spin sensor.&quot; <i>Nature Communications</i>. 12(1357).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Overcoming poor readout is an increasingly urgent challenge for devices based on solid-state spin defects, particularly given their rapid adoption in quantum sensing, quantum information, and tests of fundamental physics. However, in spite of experimental progress in specific systems, solid-state spin sensors still lack a universal, high-fidelity readout technique. Here we demonstrate high-fidelity, room-temperature readout of an ensemble of nitrogen-vacancy centers via strong coupling to a dielectric microwave cavity, building on similar techniques commonly applied in cryogenic circuit cavity quantum electrodynamics. This strong collective interaction allows the spin ensemble’s microwave transition to be probed directly, thereby overcoming the optical photon shot noise limitations of conventional fluorescence readout. Applying this technique to magnetometry, we show magnetic sensitivity approaching the Johnson–Nyquist noise limit of the system. Our results pave a clear path to achieve unity readout fidelity of solid-state spin sensors through increased ensemble size, reduced spin-resonance linewidth, or improved cavity quality factor.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.nature.com/articles/s41467-021-21256-7)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+<b>Recommended citation:</b> Eisenach, E., Barry, J, O`Keeffe, M., Schloss, J., Steinecker, M., Englund, D., Braje, D. (2021). Cavity-enhanced microwave readout of a solid-state spin sensor. <i>Nature Communications</i>. 12(1357)
