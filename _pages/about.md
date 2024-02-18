@@ -64,13 +64,6 @@ My research interests primarily revolve around **(1)** interpretability and repr
 3. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding, "***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***", IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
 
 
-## Preprints
-
-1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, "***A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer***", Under Review by The 41st International Conference on Machine Learning (ICML 2024).
-2. Xingran Chen, Zhangyang Gao, Cheng Tan, Siyuan Li, **Daize Dong**, Stan Z. Li, "***OmniMixup: Generalize Mixup with Mixing-Pair Sampling Distribution***", Under Review by The 41st International Conference on Machine Learning (ICML 2024).
-3. Tong Zhu, **Daize Dong**, Xiaoye Qu, Jiacheng Ruan, Wenliang Chen, Yu Cheng, "***Dynamic Data Mixing Maximizes Instruction Tuning for Mixture-of-Experts***", Under Review by The 62nd Annual Meeting of the Association for Computational Linguistics (ACL 2024).
-4. Tong Chu, **Daize Dong**, Jinhong Deng, Lixin Duan, Wen Li, "***Blending and Aggregating the Target for Blended-Target Domain Adaptation***", Under Review by IEEE Transactions on Image Processing (IEEE-TIP).
-
 
 ## Projects
 
