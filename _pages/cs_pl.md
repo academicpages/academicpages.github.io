@@ -34,7 +34,7 @@ Under Construction!!!
 Derivatives of Regular Expressions
 ======
 
-* Regular Expressions, Operations, Definition of the Derivatives, Kleene Algebra, Why Use Derivatives, Some Interesting Research (PLDI2021, VPL)
+* Regular Expressions, Definition of the Derivatives, Kleene Algebra, Why Use Derivatives, Some Interesting Research (PLDI2021, VPL)
 * 
 
 

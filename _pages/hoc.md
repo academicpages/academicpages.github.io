@@ -40,24 +40,26 @@ Approximately 50 years have passed since the beginning of this field.
 
 Introductory/Must-read Books and Papers
 ======
-* Computer: A History of the Information Machine 『コンピューティング史』，『コンピュータ200年史』
+* *Computer: A History of the Information Machine* 『コンピューティング史』，『コンピュータ200年史』
   * 
   * 『イラストで学ぶ　世界を変えたコンピュータの歴史』
-* A History of Modern Computing 『モダン・コンピューティングの歴史』
+* *A History of Modern Computing* 『モダン・コンピューティングの歴史』
   * The first edition is more technical and focuses on software. 
-* Swade, Doron. (2022). The History of Computing: A Very Short Introduction
-  * I plan to translate it into Japanese
+* Swade, Doron. (2022). *The History of Computing: A Very Short Introduction*
+  * I plan to translate this into Japanese
 
 Recommended Books and Papers
 ======
-* History of CS
+* History of Computer Science
   * 
-    * Mahoney, Michael S., edited by Thomas Haigh, Histories of Computing (2011). 
+    * Mahoney, Michael S., edited by Thomas Haigh, *Histories of Computing* (2011). 
     
 * History of Theoretical Computer Science (TCS)
+    * 
     * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
   
 * Philosophy of Computing
+  * 
   * "Philosophy of science without history of science is empty; history of science without philosophy of science is blind." (I. Lakatos, The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
   
 * History of AI
@@ -66,12 +68,12 @@ Recommended Books and Papers
 * Cybernetics
   * 
   * 
-    * Gerovitch, Slava, From Newspeak to Cyberspeak, (2004). 
+    * Gerovitch, Slava, *From Newspeak to Cyberspeak*, (2004). 
 
   
 * History of Computer
-  * Haigh, Thomas, Mark Priestley, and Crispin Rope, ENIAC in Action: Making and Remaking the Modern Computer, (2016)
-  * Goldstine, Herman H. (1980). The Computer from Pascal to von Neumann
+  * Haigh, Thomas, Mark Priestley, and Crispin Rope, *ENIAC in Action: Making and Remaking the Modern Computer*, (2016)
+  * Goldstine, Herman H. (1980). *The Computer from Pascal to von Neumann*
   * 
 * Military and Computing
   * 
@@ -90,6 +92,7 @@ Recommended Books and Papers
 Historians of Computing (partial)
 ======
 In any field, knowing researchers and what they are doing is important to start research.
+*
 
 Primary Source
 ======
