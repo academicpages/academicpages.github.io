@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 
-[CV](/files/Ke Ma_CV.pdf)
+[CV (English Version)](/files/Ke Ma_CV.pdf)
+
+[CV (Chinese Version)](/files/Ke Ma_CV (Chinese version).pdf)
 
 
 
