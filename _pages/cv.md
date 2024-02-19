@@ -12,12 +12,12 @@ redirect_from:
 Current Position
 ======
 
-Lecturer in Video Game Development, College of Digital Arts (CoDA), Birmingham City University, 2023 - Ongoing
+Lecturer in Video Game Development, College of Digital Arts (CoDA), Birmingham City University, August 2023 - Ongoing
 
 
 Education
 ======
-Ph.D Candidate in Graphics and Vision, DMT Lab, Birmingham City University, 2020 - Ongoing
+Ph.D Candidate in Graphics and Vision, DMT Lab, Birmingham City University, 2020 - March 2024
 
 PG. Cert. in Research Practice, Birmingham City University, 2020 - 2021
 
@@ -36,9 +36,9 @@ Skills
 * Programming Languages
   * Python, C++, C#
 * Deep Learning
-  * Tensorflow, Keras, OpenCV
+  * Tensorflow, Keras, OpenCV, PyTorch
 * Graphics
-  * Unity, Blender, OpenGL
+  * Unity, Blender, OpenGL, MeshLab
 
 Publications
 ======
@@ -52,7 +52,7 @@ Past Teaching Experience
   - Delivering theoretical and practical classes on 2D game development adopting Objected-Oriented Programming principles, teaching students to build, test and profile the performance of their games.
 
 * **Module Coordinator for Game Audio**, B.Sc. Sound Engineering and Production, B.Sc Computer Games Technology, B.Sc Music Technology
-  - Delivering content on implementations of audio interactions in game engines, tutoring groups of students collaborating across Sound Engineering and Production, Music Technology and Computer Games Technology UG courses.
+  - Delivering content on implementations of audio interactions in game engines (Unity/UE5 + FMOD), tutoring groups of students collaborating across Sound Engineering and Production, Music Technology and Computer Games Technology UG courses.
 
 * **Demonstrator for Programming for Game Engines**, B.Sc. Computer Games Technology, Birmingham City University
   - Assisting in theoretical teaching of core elements of game engines and graphics applications. The module requires students to build and test the performance of an engine based on OpenGL to render game scenes.
