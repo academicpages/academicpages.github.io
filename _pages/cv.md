@@ -11,8 +11,9 @@ redirect_from:
 
 학력 (Education)
 ---
-* 석사, 조선대학교 컴퓨터공학과 (2024.02, 졸업 예정)
-* 학사, 조선대학교 컴퓨터공학과 (2022.02)
+* 석사, 조선대학교 (컴퓨터공학과, 2022.03 - 2024.02)
+* 학사, 조선대학교 (컴퓨터공학과, 2016.03 - 2022.02)
+* 졸업, 금호고등학교 (인문, 2013.03 - 2016.02)
 
 
 석사 학위 논문 (Master's Thesis)
@@ -26,7 +27,7 @@ redirect_from:
 * Object detection and tracking based on novel AI approach (Teacher-student based knowledge distillation, multimodal)
 * IoT sensing-based, data/sensor fusion-based smart solution (NFC, BLE, RF signals, multimodal sensors, camera, etc)
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
-* Deep reinforcement learning algorithm-based optimization (Policy-based, multi-agent, multi-objective RL)
+* Reinforcement learning algorithm-based optimization (Policy-based, multi-agent, multi-objective RL)
 
 연구 경험 (Research Experience)
 ---
@@ -73,7 +74,7 @@ redirect_from:
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
 
-<!-- 소속 학회 (Professional Memberships)
+소속 학회 (Professional Memberships)
 ---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
@@ -82,9 +83,10 @@ redirect_from:
   * 학생회원, 한국스마트미디어학회 (2020 ~ present)
 
 
-자격증 (Certifications)
+<!-- 자격증 (Certifications)
 ---
   * 정보처리기사
   * 언플러그드코딩지도사 1급
   * 인성코딩지도사
+  * AICE Associate
   * 한국사 2급 -->
