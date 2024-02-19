@@ -9,27 +9,9 @@ redirect_from:
 ---
 
 # Introduction
-I am a machine learning engineer at [Realtor.com](www.https://www.realtor.com/) and former researcher focused on developing scalable models for both inference and prediction in geospatial settings with a focus on latent variable models and Bayesian methods. My educational background consists of degrees in [physics (BA, 2013)](https://www.macalester.edu/physics/), [statistics (MS, 2020)](https://stat.duke.edu/), and [civil engineering (PhD, 2020)](http://borsuk.pratt.duke.edu/) . 
+I am an AI architect / ML engineering focusing on applications of large language models. My formal education background includes degrees in physics, engineering, and statistics.
 
-I have consulted in the past for firms using Bayesian methods in marketing analytics and have previously worked in the healthcare sector as a database engineer. I also worked as a part of the GeoAI research group at Oak Ridge National Lab on problems related to security and geospatial modeling.  I also have teaching experience as a university instructor for graduate-level classes in applied statistical modeling. You can find more additional information at the curriculum vitae linked on this webpage. 
-
-# Previous research projects
-![image](images/research_banner.png)
-
-A short list of my past research efforts are shown below. A common vein running through all of them is that they typically involve some element of observational or structural uncertainty, necessitating probabilistic analysis. Additionally, they often involve data which is intrinsically spatial in nature and is thus amenable to spatial statistical methods.
- 
-* Statistical wetland modeling
-* Integrating expert knowledge in posterior simulation for geospatial categorical data
-* Dimension reduction for high-dimensional data
-* Bayesian inference for engineering models
-* Leveraging graphical structure in deep generative models
-
-<object data="images/terrain_dgm.pdf" width="1000" height="600" type='application/pdf'></object>
-
-<object data="images/wetland_model.pdf" width="1000" height="600" type='application/pdf'></object>
-
-<object data="images/inverse_advi.pdf" width="1000" height="600" type='application/pdf'></object>
-
+My past research interests included graphical models for big data, environmental statistics, and statistical physics. My favorite book is [ITILA03](https://www.inference.org.uk/itprnn/book.pdf) with [PGM09](https://mitpress.mit.edu/9780262013192/probabilistic-graphical-models/) coming in a close second.
 
 <!---
 ------
