@@ -5,35 +5,39 @@ permalink: /research/
 author_profile: true
 ---
 ## Corporate Finance
-### CEO Overconfidence and Corporate Innovation Under Distress: Evidence from Hurricane Strikes
+### Confident CEOs, Unsteady Times: Corporate Innovation Following Natural Disasters
 ### Abstract:
-Studies have documented a positive relationship between CEO Overconfidence and
-corporation innovation, and a negative relationship between natural disasters and corporate innovation outcomes. I study whether overconfidence remains positively related
-to innovation following natural disasters. Using a Difference-in-Difference model of
-natural disasters occuring between 1998 and 2017, I examine the impact of natural
-disasters on corporate innovation between affected firms led by both overconfident and
-non-overconfident managers. Firms led with overconfident managers consistently underperform relative to other affected firms, suggesting that overconfident CEOs are
-more prone to react negatively under distress, in both cross-sectional and fixed-effect
-models. In addition, I find that the negative association between natural disasters and
-corporate innovation is mostly driven by firms with Overconfident CEOs. The results
-are robust to alternative specifications of both disaster risk and managerial overconfidence. Potential explanatory channels show that overconfident CEOs significantly
-reduce R&D expenditure following disasters, which could explain the results of lower
-tangibility, higher net working capital, and are more likely to have negative net income.
-From an inventors-perspective, I find that innovator productivity remains unchanged
-and in some cases increases, however innovators are less willing to work at firms in
-affected areas.
+Studies have documented a positive relationship between CEO Overconfidence and corporation
+innovation, and a negative relationship between natural disasters and corporate innovation outcomes.
+I examine the role of overconfidence in mediating the latter effect. Using a Difference-in-Difference
+model of natural disasters occurring between 1998 and 2017, I examine the impact of natural
+disasters on corporate innovation between affected firms led by both overconfident and non-
+overconfident managers. Firms led with overconfident managers consistently underperform relative to
+other affected firms, suggesting that overconfident CEOs are more prone to react negatively under
+distress, in both cross-sectional and fixed-effect models. In addition, I find that the negative
+association between natural disasters and corporate innovation is mostly driven by firms with
+Overconfident CEOs. The results are robust to alternative specifications of both disaster risk and managerial overconfidence. 
 
-### Does Income Inequality Impede Innovation? Evidence from the SEC Mandated Pay Ratio Disclosure
+
+### Inventor's Inequality Aversion
 ### Abstract:
-I examine the importance of an SEC filing rule that enhances pay transparency by
-requiring U.S public companies to disclose both employee and CEO compensation. I
-test whether this information availability impacts corporate innovation. Firms that
-disclose high pay ratios experience lower innovation outcomes three years following
-the disclosure. Moreover, innovator output declines following the disclosure of a high
-pay ratio. This effect is monotonic decreasing with pay ratio levels. Additionally,
-previously available information regarding compensation mitigates the impact of the
-disclosure. These effects are robust to various specifications. My results suggest that
-innovators are inequality-averse and concerned about high pay dispersion.
+I investigate the impact of inequality aversion on corporate innovation
+outcomes, specifically examining its variation across racial and ethnic lines among
+innovators by using Machine Learning to identify the characteristics of innovators. Using
+a quasi-natural experiment that required public U.S. firms to disclose both CEO and
+median employee pay, I find that although innovators are generally inequality averse,
+variations in aversion exist. Specifically, women, older individuals, and minority
+inventors exhibit higher levels of inequality aversion compared to men, younger
+individuals, and white inventors. This finding suggests a potential explanation for the
+observed disparity in innovation output between these groups. To further validate this
+hypothesis, I rely on previously disclosed information related to labor expenses and find
+that the effect is mitigated when a firm previously disclosed that information in their
+financial statements. Moreover, the drift between the expected pay of a CEO and the
+actual pay of CEO is higher, the innovation outcomes are lower. Conversely, the higher
+the drift between the expected pay of employees and the actual pay, the higher the
+innovation outcome. Altogether, these results show the presence of inequality aversion
+among inventors and its consequential effects on innovation when information becomes
+more available.
 
 
 ## Risk Management and Insurance
