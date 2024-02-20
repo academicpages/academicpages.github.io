@@ -27,14 +27,13 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 
 Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) World Development.
-Volume 178, June 2024, 106571 <a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"> link </a> (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>) 
+Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"> link </a>) (<a href= "cobrienudry.github.io/files/WD_aid_withdrawal_intro.pdf">ungated</a>) 
 
 <details>
   <summary><i>Abstract</i></summary>
-  
-(1) Aid withdrawals and suspensions are not a niche issue: they change the context for development and are very qualitatively different from not giving aid at all.
-(2) Aid withdrawals and suspensions involve a long chain of political calculations by both donors and aid-receiving states that remain understudied.
-(3) A key area we should explore morefor further research is the political calculations and options available to aid-receiving states, and how donors factor these choices into their initial or subsequent decisions on whether or not to suspend aid.
+• Aid withdrawals/suspensions are qualitatively different from giving no aid, and frame development.
+• Aid suspensions follow a long chain of understudied political calculations and decisions by donors and recipients.
+• Further research is needed on the political calculations and options used by aid-receiving states to discipline donors.
 </details>
 
 <p>
