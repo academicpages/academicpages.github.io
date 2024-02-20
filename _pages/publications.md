@@ -55,16 +55,6 @@ author_profile: true
 {% endfor %}
 ------
 
-<br>
-<br>
-<h1>Workshops</h1>
-------
-{% for post in site.publications reversed %}
-  {% if post.pubtype == 'workshop' %}
-      {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-------
 
 <br>
 <br>
