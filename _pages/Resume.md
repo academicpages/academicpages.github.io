@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Resume"
-permalink: /Resume/
+permalink: annahaynie.github.io/Annastasia_Haynie_Resume.pdf
 author_profile: true
 redirect_from:
   - /resume
