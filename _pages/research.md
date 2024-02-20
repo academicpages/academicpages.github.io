@@ -26,7 +26,9 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
 
-Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) (Accepted at World Development) 
+Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) World Development.
+Volume 178, June 2024, 106571 <a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"> link </a> (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>) 
+
 <details>
   <summary><i>Abstract</i></summary>
   
