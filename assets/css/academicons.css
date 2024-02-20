@@ -1,481 +1,218 @@
 /*
- *  Academicons 1.9.4 by James Walsh (https://github.com/jpswalsh) and Katja Bercic (https://github.com/katjabercic)
- *  Fonts generated using FontForge - https://fontforge.org
+ *  Academicons 1.8.0 by James Walsh - https://github.com/jpswalsh
+ *  Fonts generated using the IcoMoon app - http://icomoon.io/app
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
     font-family: 'Academicons';
+    src:url('../fonts/academicons.eot?v=1.8.0');
+    src:url('../fonts/academicons.eot?v=1.8.0') format('embedded-opentype'),
+        url('../fonts/academicons.ttf?v=1.8.0') format('truetype'),
+        url('../fonts/academicons.woff?v=1.8.0') format('woff'),
+        url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
+    font-weight: normal;
     font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
-        url('../fonts/academicons.ttf') format('truetype'),
-        url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
 }
 .ai {
-  font-family: 'Academicons';
-  font-weight: 400;
-  -moz-osx-font-smoothing: grayscale;
-  -webkit-font-smoothing: antialiased;
-  display: inline-block;
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  line-height: 1;
+	display:inline-block;
+	font:normal normal normal 14px/1 Academicons;
+	font-size:inherit;
+	text-rendering:auto;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
 }
 .ai-academia:before {
-  content: "\e9af";
+  content: "\e800";
 }
 .ai-academia-square:before {
-  content: "\e93d";
+  content: "\e801";
 }
 .ai-acclaim:before {
-  content: "\e92e";
+  content: "\e802";
 }
 .ai-acclaim-square:before {
-  content: "\e93a";
+  content: "\e803";
 }
 .ai-acm:before {
-  content: "\e93c";
+  content: "\e804";
 }
 .ai-acm-square:before {
-  content: "\e95d";
-}
-.ai-acmdl:before {
-  content: "\e96a";
-}
-.ai-acmdl-square:before {
-  content: "\e9d3";
+  content: "\e805";
 }
 .ai-ads:before {
-  content: "\e9cb";
+  content: "\e806";
 }
 .ai-ads-square:before {
-  content: "\e94a";
-}
-.ai-africarxiv:before {
-  content: "\e91b";
-}
-.ai-africarxiv-square:before {
-  content: "\e90b";
-}
-.ai-archive:before {
-  content: "\e955";
-}
-.ai-archive-square:before {
-  content: "\e956";
+  content: "\e807";
 }
 .ai-arxiv:before {
-  content: "\e974";
+  content: "\e808";
 }
 .ai-arxiv-square:before {
-  content: "\e9a6";
+  content: "\e809";
 }
 .ai-biorxiv:before {
-  content: "\e9a2";
+  content: "\e810";
 }
 .ai-biorxiv-square:before {
-  content: "\e98b";
+  content: "\e811";
 }
 .ai-ceur:before {
-  content: "\e96d";
+  content: "\e812";
 }
-.ai-ceur-square:before {
-  content: "\e92f";
+.ai-ceur-box:before {
+  content: "\e813";
 }
-.ai-ciencia-vitae:before {
-  content: "\e912";
+.ai-courser:before {
+  content: "\e814";
 }
-.ai-ciencia-vitae-square:before {
-  content: "\e913";
-}
-.ai-clarivate:before {
-  content: "\e924";
-}
-.ai-clarivate-square:before {
-  content: "\e925";
-}
-.ai-closed-access:before {
-  content: "\e942";
-}
-.ai-closed-access-square:before {
-  content: "\e943";
-}
-.ai-conversation:before {
-  content: "\e94c";
-}
-.ai-conversation-square:before {
-  content: "\e915";
-}
-.ai-coursera:before {
-  content: "\e95f";
-}
-.ai-coursera-square:before {
-  content: "\e97f";
-}
-.ai-crossref:before {
-  content: "\e918";
-}
-.ai-crossref-square:before {
-  content: "\e919";
-}
-.ai-cv:before {
-  content: "\e9a5";
-}
-.ai-cv-square:before {
-  content: "\e90a";
-}
-.ai-datacite:before {
-  content: "\e91c";
-}
-.ai-datacite-square:before {
-  content: "\e91d";
+.ai-courser-square:before {
+  content: "\e815";
 }
 .ai-dataverse:before {
-  content: "\e9f7";
+  content: "\e816";
 }
-.ai-dataverse-square:before {
-  content: "\e9e4";
+.ai-dataverse-box:before {
+  content: "\e817";
 }
 .ai-dblp:before {
-  content: "\e94f";
+  content: "\e818";
 }
 .ai-dblp-square:before {
-  content: "\e93f";
+  content: "\e819";
 }
 .ai-depsy:before {
-  content: "\e97a";
+  content: "\e820";
 }
 .ai-depsy-square:before {
-  content: "\e94b";
+  content: "\e821";
 }
 .ai-doi:before {
-  content: "\e97e";
+  content: "\e822";
 }
 .ai-doi-square:before {
-  content: "\e98f";
+  content: "\e823";
 }
 .ai-dryad:before {
-  content: "\e97c";
+  content: "\e824";
 }
 .ai-dryad-square:before {
-  content: "\e98c";
-}
-.ai-elsevier:before {
-  content: "\e961";
-}
-.ai-elsevier-square:before {
-  content: "\e910";
+  content: "\e825";
 }
 .ai-figshare:before {
-  content: "\e981";
+  content: "\e826";
 }
 .ai-figshare-square:before {
-  content: "\e9e7";
+  content: "\e827";
 }
 .ai-google-scholar:before {
-  content: "\e9d4";
+  content: "\e828";
 }
 .ai-google-scholar-square:before {
-  content: "\e9f9";
-}
-.ai-hal:before {
-  content: "\e92c";
-}
-.ai-hal-square:before {
-  content: "\e92d";
-}
-.ai-hypothesis:before {
-  content: "\e95a";
-}
-.ai-hypothesis-square:before {
-  content: "\e95b";
-}
-.ai-ideas-repec:before {
-  content: "\e9ed";
-}
-.ai-ideas-repec-square:before {
-  content: "\e9f8";
+  content: "\e829";
 }
 .ai-ieee:before {
-  content: "\e929";
+  content: "\e830";
 }
 .ai-ieee-square:before {
-  content: "\e9b9";
+  content: "\e831";
 }
 .ai-impactstory:before {
-  content: "\e9cf";
+  content: "\e832";
 }
 .ai-impactstory-square:before {
-  content: "\e9aa";
-}
-.ai-inaturalist:before {
-  content: "\e900";
-}
-.ai-inaturalist-square:before {
-  content: "\e901";
-}
-.ai-inpn:before {
-  content: "\e902";
-}
-.ai-inpn-square:before {
-  content: "\e903";
+  content: "\e833";
 }
 .ai-inspire:before {
-  content: "\e9e9";
+  content: "\e834";
 }
 .ai-inspire-square:before {
-  content: "\e9fe";
-}
-.ai-isidore:before {
-  content: "\e936";
-}
-.ai-isidore-square:before {
-  content: "\e954";
-}
-.ai-isni:before {
-  content: "\e957";
-}
-.ai-isni-square:before {
-  content: "\e958";
-}
-.ai-jstor:before {
-  content: "\e938";
-}
-.ai-jstor-square:before {
-  content: "\e944";
-}
-.ai-lattes:before {
-  content: "\e9b3";
-}
-.ai-lattes-square:before {
-  content: "\e99c";
-}
-.ai-mathoverflow:before {
-  content: "\e9f6";
-}
-.ai-mathoverflow-square:before {
-  content: "\e97b";
+  content: "\e835";
 }
 .ai-mendeley:before {
-  content: "\e9f0";
+  content: "\e836";
 }
 .ai-mendeley-square:before {
-  content: "\e9f3";
-}
-.ai-moodle:before {
-  content: "\e907";
-}
-.ai-moodle-square:before {
-  content: "\e908";
-}
-.ai-mtmt:before {
-  content: "\e950";
-}
-.ai-mtmt-square:before {
-  content: "\e951";
-}
-.ai-nakala:before {
-  content: "\e940";
-}
-.ai-nakala-square:before {
-  content: "\e941";
-}
-.ai-obp:before {
-  content: "\e92a";
-}
-.ai-obp-square:before {
-  content: "\e92b";
+  content: "\e837";
 }
 .ai-open-access:before {
-  content: "\e939";
+  content: "\e838";
 }
 .ai-open-access-square:before {
-  content: "\e9f4";
-}
-.ai-open-data:before {
-  content: "\e966";
-}
-.ai-open-data-square:before {
-  content: "\e967";
-}
-.ai-open-materials:before {
-  content: "\e968";
-}
-.ai-open-materials-square:before {
-  content: "\e969";
-}
-.ai-openedition:before {
-  content: "\e946";
-}
-.ai-openedition-square:before {
-  content: "\e947";
+  content: "\e839";
 }
 .ai-orcid:before {
-  content: "\e9d9";
+  content: "\e840";
 }
 .ai-orcid-square:before {
-  content: "\e9c3";
+  content: "\e841";
 }
 .ai-osf:before {
-  content: "\e9ef";
+  content: "\e842";
 }
 .ai-osf-square:before {
-  content: "\e931";
+  content: "\e843";
 }
 .ai-overleaf:before {
-  content: "\e914";
+  content: "\e844";
 }
 .ai-overleaf-square:before {
-  content: "\e98d";
+  content: "\e845";
 }
 .ai-philpapers:before {
-  content: "\e98a";
+  content: "\e846";
 }
 .ai-philpapers-square:before {
-  content: "\e96f";
+  content: "\e847";
 }
 .ai-piazza:before {
-  content: "\e99a";
+  content: "\e848";
 }
 .ai-piazza-square:before {
-  content: "\e90c";
-}
-.ai-preregistered:before {
-  content: "\e906";
-}
-.ai-preregistered-square:before {
-  content: "\e96b";
-}
-.ai-protocols:before {
-  content: "\e952";
-}
-.ai-protocols-square:before {
-  content: "\e953";
-}
-.ai-psyarxiv:before {
-  content: "\e90e";
-}
-.ai-psyarxiv-square:before {
-  content: "\e90f";
+  content: "\e849";
 }
 .ai-publons:before {
-  content: "\e937";
+  content: "\e850";
 }
 .ai-publons-square:before {
-  content: "\e94e";
+  content: "\e851";
 }
 .ai-pubmed:before {
-  content: "\e99f";
+  content: "\e852";
 }
 .ai-pubmed-square:before {
-  content: "\e97d";
-}
-.ai-pubpeer:before {
-  content: "\e922";
-}
-.ai-pubpeer-square:before {
-  content: "\e923";
-}
-.ai-researcherid:before {
-  content: "\e91a";
-}
-.ai-researcherid-square:before {
-  content: "\e95c";
+  content: "\e853";
 }
 .ai-researchgate:before {
-  content: "\e95e";
+  content: "\e854";
 }
 .ai-researchgate-square:before {
-  content: "\e99e";
-}
-.ai-ror:before {
-  content: "\e948";
-}
-.ai-ror-square:before {
-  content: "\e949";
-}
-.ai-sci-hub:before {
-  content: "\e959";
-}
-.ai-sci-hub-square:before {
-  content: "\e905";
+  content: "\e855";
 }
 .ai-scirate:before {
-  content: "\e98e";
+  content: "\e856";
 }
 .ai-scirate-square:before {
-  content: "\e99d";
-}
-.ai-scopus:before {
-  content: "\e91e";
-}
-.ai-scopus-square:before {
-  content: "\e91f";
-}
-.ai-semantic-scholar:before {
-  content: "\e96e";
-}
-.ai-semantic-scholar-square:before {
-  content: "\e96c";
+  content: "\e857";
 }
 .ai-springer:before {
-  content: "\e928";
+  content: "\e858";
 }
 .ai-springer-square:before {
-  content: "\e99b";
-}
-.ai-ssrn:before {
-  content: "\e916";
-}
-.ai-ssrn-square:before {
-  content: "\e917";
-}
-.ai-stackoverflow:before {
-  content: "\e920";
-}
-.ai-stackoverflow-square:before {
-  content: "\e921";
-}
-.ai-viaf:before {
-  content: "\e933";
-}
-.ai-viaf-square:before {
-  content: "\e934";
-}
-.ai-wiley:before {
-  content: "\e926";
-}
-.ai-wiley-square:before {
-  content: "\e927";
-}
-.ai-zenodo:before {
-  content: "\e911";
+  content: "\e859";
 }
 .ai-zotero:before {
-  content: "\e962";
+  content: "\e860";
 }
 .ai-zotero-square:before {
-  content: "\e932";
+  content: "\e861";
 }
 /*  Duplication of the FontAwesome style classes using 'ai' in place of 'fa'. */
 .ai-lg {
-  font-size: 1.33333em;
+  font-size: 1.33333333em;
   line-height: 0.75em;
-  vertical-align: -.0667em;
-}
-.ai-xs {
-  font-size: .75em;
-}
-.ai-sm {
-  font-size: .875em;
-}
-
-.ai-1x {
-  font-size: 1em;
+  vertical-align: -15%;
 }
 .ai-2x {
   font-size: 2em;
@@ -489,83 +226,102 @@
 .ai-5x {
   font-size: 5em;
 }
-.ai-6x {
-  font-size: 6em;
-}
-.ai-7x {
-  font-size: 7em;
-}
-.ai-8x {
-  font-size: 8em;
-}
-.ai-9x {
-  font-size: 9em;
-}
-.ai-10x {
-  font-size: 10em;
-}
-
 .ai-fw {
+  width: 1.28571429em;
   text-align: center;
-  width: 1.25em;
 }
-
 .ai-ul {
-  list-style-type: none;
-  margin-left: 2.5em;
   padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
 }
 .ai-ul > li {
-    position: relative;
+  position: relative;
 }
 .ai-li {
-  left: -2em;
   position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
   text-align: center;
-  width: 2em;
-  line-height: inherit;
 }
-
+.ai-li.fa-lg {
+  left: -1.85714286em;
+}
 .ai-border {
-border: solid 0.08em #eee;
-border-radius: .1em;
   padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
 }
-
 .ai-pull-left {
   float: left;
 }
 .ai-pull-right {
   float: right;
 }
-.ai.ai-pull-left {
+.ai.fa-pull-left {
   margin-right: .3em;
 }
-.ai.ai-pull-right {
-  margin-right: .3em;
+.ai.fa-pull-right {
+  margin-left: .3em;
 }
-
-.ai-stack {
-  display: inline-block;
-  height: 2em;
-  line-height: 2em;
-  position: relative;
-  vertical-align: middle;
-  width: 2.5em;
+/*  
+ *  Repeat of the FontAwesome style classes to prevent override if academicons.css
+ *  is called after font-awesome.css.
+ */
+.fa-lg {
+  font-size: 1.33333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
 }
-.ai-stack-1x,
-.ai-stack-2x {
-  left: 0;
-  position: absolute;
-  text-align: center;
-  width: 100%;
-}
-.ai-stack-1x {
-  line-height: inherit;
-}
-.ai-stack-2x {
+.fa-2x {
   font-size: 2em;
 }
-.ai-inverse {
-  color: #fff;
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
+}
+.fa-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
+.fa-ul {
+  padding-left: 0;
+  margin-left: 2.14285714em;
+  list-style-type: none;
+}
+.fa-ul > li {
+  position: relative;
+}
+.fa-li {
+  position: absolute;
+  left: -2.14285714em;
+  width: 2.14285714em;
+  top: 0.14285714em;
+  text-align: center;
+}
+.fa-li.fa-lg {
+  left: -1.85714286em;
+}
+.fa-border {
+  padding: .2em .25em .15em;
+  border: solid 0.08em #eeeeee;
+  border-radius: .1em;
+}
+.fa-pull-left {
+  float: left;
+}
+.fa-pull-right {
+  float: right;
+}
+.fa.fa-pull-left {
+  margin-right: .3em;
+}
+.fa.fa-pull-right {
+  margin-left: .3em;
 }
