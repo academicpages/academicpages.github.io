@@ -11,9 +11,9 @@ title                    : "Ke Ma(马可)"
 title_separator          : "-"
 name                     : &name "Ke Ma"
 description              : &description "PhD"
-url                      : https://maaakeee.github.io/make.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://maaaakeeee.github.io/make2.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "maaakeee/make.github.io"
+repository               : "maaaakeeee/make2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ke Ma(马可)"
-  avatar           : "profile.png"
+  avatar           : "profile2.JPG"
   bio              : "PhD <br> School of Design <br> Hunan University <br> Changsha, China"
 #  location         : "Changsha, China"
   employer         :
