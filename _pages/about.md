@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Postdoctoral Fellow at the University of Copenhagen. My research interests are Macroeconomics, Monetary Economics, and Firm Dynamics. 
+I am an Assistant Professor at NYU Abu Dhabi. My research interests are Macroeconomics, Monetary Economics, and Firm Dynamics. 
 
 <!-- ====== -->
 
