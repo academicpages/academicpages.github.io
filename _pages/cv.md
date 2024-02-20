@@ -24,10 +24,10 @@ redirect_from:
 
 연구 분야 (Research Areas)
 ---
-* Object detection and tracking based on novel AI approach (Teacher-student based knowledge distillation, multimodal)
+* Object detection and tracking based on novel AI approach (Knowledge distillation, federated multimodal learning)
 * IoT sensing-based, data/sensor fusion-based smart solution (NFC, BLE, RF signals, multimodal sensors, camera, etc)
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
-* Reinforcement learning algorithm-based optimization (Policy-based, multi-agent, multi-objective RL)
+* Reinforcement learning-based optimization (single and multi-agent, multi-objective RL, and human feedback-based RL)
 
 연구 경험 (Research Experience)
 ---
@@ -66,7 +66,7 @@ redirect_from:
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
   * 4년 간 글로벌 멤버로 구성된 연구실에서의 활동 및 협업 프로젝트 진행 및 관리
-  * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장 역할을 수행, 다수의 수상 이력
+  * IoT 캡스톤 프로젝트 및 여러 프로젝트 수행 간 팀장/매니저 역할 수행, 다수의 수상 이력
 <br>
 
 * **발표 및 시각화 능력 (presentation and visualization skills)**
