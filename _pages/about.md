@@ -17,12 +17,12 @@ Research Interests
 
 ***Methodologies***
 
-* User Perception and Preferences
-* Availability of Information Systems
-* Human-computer Interaction and Experience Design
-* Design Research Methods
-* Experimental Psychology
-* Product-service System Design
+* 用户感知与偏好
+* 信息系统可用性
+* 人机交互与体验设计
+* 设计学研究方法
+* 实验心理学
+* 产品服务系统设计
 
 
 ***Applications***
@@ -33,3 +33,5 @@ Research Interests
 
 
 ***To my fellow researchers***: If you are interested in collaborating on research projects, please don't hesitate to connect with me.
+
+***有关本网站的英文版本，请访问*** [maaakeee.com](https://maaakeee.com//)
