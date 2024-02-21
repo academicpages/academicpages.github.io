@@ -19,8 +19,8 @@ redirect_from:
 
 Contact me  
 ------    
-wetchat:___lix        
-email&emsp;:hblijinwen@126.com     
+wechat:___lix        
+email&ensp;:hblijinwen@126.com     
 
 
 
