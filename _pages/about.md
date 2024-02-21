@@ -12,7 +12,16 @@ I am a PhD candidate at the Institute of AI in Management, LMU Munich. I do caus
 
 I believe in the data-driven automation and human-computer cooperation – they should become the main booster of sustainable development and inclusive society.
 
-My research interests include  
-- Causal Machine Learning 
+My research interests include
+- Causal Machine Learning / Treatment Effect Estimation
 - Causal Inference
 - Probabilistic Modelling
+
+
+## News
+#### 2024
+- [02.2024 - 05.2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
+- [01.2024] 3 papers accepted to ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
+](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
+
+#### 2023
