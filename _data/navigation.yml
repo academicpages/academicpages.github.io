@@ -1,21 +1,21 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "出版物"
     url: /publications/
 
-  - title: "Projects"
+  - title: "课题与项目"
     url: /projects/    
 
-  - title: "Teaching"
+  - title: "教学"
     url: /terms/    
     
-  - title: "Awards & Positions"
+  - title: "获奖与任职"
     url: /awards/
         
-  - title: "Portfolio"
+  - title: "作品集"
     url: /portfolio/
     
-  - title: "CV"
+  - title: "简历"
     url: /cv/
     
 #  - title: "Guide"
