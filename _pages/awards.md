@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards"
+title: "获奖"
 permalink: /awards/
 author_profile: true
 ---
@@ -25,7 +25,7 @@ author_profile: true
 * 2013年10月, 获湖南大学三好学生.
 
 
-## Positions
+## 任职
 
 * 2018年9月——2019年12月, 担任湖南大学设计艺术学院博士生党支部书记, 编号:15435200018.
 
