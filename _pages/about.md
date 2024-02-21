@@ -11,6 +11,8 @@ redirect_from:
 
 I am a Ph.D at [School of Design, Hunan University](http://design.hnu.edu.cn/), China, under the mentorship of Professor [Renke He](http://design.hnu.edu.cn/info/1023/2729.htm). Previously, I spent a year as a visiting scholar at the [Design Department of Politecnico di Milano](http://www.dipartimentodesign.polimi.it/en/) in Italy. I hold both a master's and a bachelor's degree in industrial design from [Hunan University](http://www.hnu.edu.cn/). Additionally, my master's program included a six-month academic exchange at the [College of Design, Shih Chien University](http://www.scdesign.usc.edu.tw/), Taiwan.
 
+湖南大学设计艺术学院设计学博士，师从何人可教授。
+
 
 研究方向
 ======
