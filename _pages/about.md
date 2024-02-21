@@ -34,4 +34,3 @@ redirect_from:
 
 ***致我的研究同仁***：如果您有兴趣合作研究论文，请随时与我联系。
 
-***有关本网站的英文版本，请访问*** [maaakeee.com](https://maaakeee.com//)
