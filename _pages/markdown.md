@@ -7,4 +7,4 @@ redirect_from:
   - /markdown.html
 ---
 
-***有关本网站的英文版本，请访问*** [maaakeee.com](https://maaakeee.com//)
+***For the Chinese version of this website, please visit*** [maaaakeeee.com](https://maaaakeeee.com//).
