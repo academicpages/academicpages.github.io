@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "简历"
 permalink: /cv/
 author_profile: true
 ---
 
 
-[CV (English Version)](/files/Ke Ma_CV.pdf)
+[简历 (英文版)](/files/Ke Ma_CV.pdf)
 
-[CV (Chinese Version)](/files/Ke Ma_CV (Chinese version).pdf)
+[简历 (中文版)](/files/Ke Ma_CV (Chinese version).pdf)
 
 
 
