@@ -35,4 +35,8 @@ My research interests include
 - ✈️ [Jul 2023] Attending [ICML 2023](https://icml.cc/Conferences/2023) at Honolulu, Hawaii, USA
 - 🏫 [Jun 2023] Attending [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) as a participant and teacher assistant
 - 🚀 [Jun 2023] Joined Konrad Zuse School of Excellence in Reliable AI (relAI) as an [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/)
-- 📙 [Apr 2023] 1 paper accepted at ICML 2023: [Normalizing Flows for Interventional Density Estimation](https://valentyn1997.github.io/publications/2023-07-20-normalizing-flows-for-interventional-density-estimation/) 
+- 📙 [Apr 2023] 1 paper accepted at ICML 2023: [Normalizing Flows for Interventional Density Estimation](https://valentyn1997.github.io/publications/2023-07-20-normalizing-flows-for-interventional-density-estimation/)
+
+### 2022
+- 📙 [Nov 2022] 1 paper accepted at AAAI 2023: [Estimating Average Causal Effects from Patient Trajectories](https://valentyn1997.github.io/publications/2023-02-07-estimating-average-causal-effects-from-patient-trajectories/)
+- 📙 [May 2022] 1 paper accepted at ICML 2022: [Causal Transformer for Estimating Counterfactual Outcomes](https://valentyn1997.github.io/publications/2022-07-21-causal-transformer-for-estimating-counterfactual-outcomes/)
