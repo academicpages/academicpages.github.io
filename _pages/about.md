@@ -29,6 +29,7 @@ My research interests include
 
 ### 2023
 - 🧘‍ [Nov 2023] Attending [relAI retreat 2023](https://zuseschoolrelai.de/relai-retreat-2023-day-1/) at Chiemsee, Germany 
+- 💼 [Oct 2023] Attending [Zuse Schools autumn event 2023](https://www.daad.de/en/the-daad/zuse-schools/) in Dresden, Germany
 - 📙 [Sep 2023] 3 papers accepted at the NeurIPS 2023: [Sharp Bounds for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2023-11-01-sharp-bounds-for-generalized-causal-sensitivity-analysis/) (postrer), [Reliable Off-Policy Learning for Dosage Combinations](https://valentyn1997.github.io/publications/2023-11-01-reliable-off-policy-learning-for-dosage-combinations/) (poster), [Partial Counterfactual Identification of Continuous Outcomes with a Curvature Sensitivity Model
 ](https://valentyn1997.github.io/publications/2023-11-01-partial-counterfactual-identification-of-continuous-outcomes-with-a-curvature-sensitivity-model/) (spotlight) 
 - ✈️ [Jul 2023] Attending [ICML 2023](https://icml.cc/Conferences/2023) at Honolulu, Hawaii, USA
