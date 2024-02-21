@@ -52,7 +52,7 @@ redirect_from:
 * Junior Java Developer, ProFIX (Kyiv, Ukraine), 2017 - 2018
   
 ## Honors & Awards
-* [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI, since 2023
+* [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI (relAI), since 2023
 * LMU Study Scholarship for International Students, 2019
 * Ukrainian Team Programming Olympiad, 2016
 
