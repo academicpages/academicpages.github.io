@@ -19,6 +19,8 @@ redirect_from:
 
 Contact me  
 ------    
+wetchat:___lix        
+email  :hblijinwen@126.com     
 
 Education
 ------
