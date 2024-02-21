@@ -17,11 +17,14 @@ redirect_from:
 [//]: # (This may be the most platform independent comment)
 [//]: <> (I received my B.S in EE from Hubei Engineering University and receive my M in EECS from Shanghai Maritime University.)  
 
+Contact me  
+------    
+
 Education
 ------
 
 
-Work & Intern experience
+Work experience
 ------
 
 
