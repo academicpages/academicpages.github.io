@@ -26,6 +26,7 @@ My research interests include
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
 - 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
+- 🎤 [Jan 2024] Presenting at the 2nd Munich CausalML Workshop
 
 ### 2023
 - 🧘‍ [Nov 2023] Attending [relAI retreat 2023](https://zuseschoolrelai.de/relai-retreat-2023-day-1/) in Chiemsee, Germany 
@@ -33,10 +34,16 @@ My research interests include
 - 📙 [Sep 2023] 3 papers accepted at NeurIPS 2023: [Sharp Bounds for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2023-11-01-sharp-bounds-for-generalized-causal-sensitivity-analysis/) (postrer), [Reliable Off-Policy Learning for Dosage Combinations](https://valentyn1997.github.io/publications/2023-11-01-reliable-off-policy-learning-for-dosage-combinations/) (poster), [Partial Counterfactual Identification of Continuous Outcomes with a Curvature Sensitivity Model
 ](https://valentyn1997.github.io/publications/2023-11-01-partial-counterfactual-identification-of-continuous-outcomes-with-a-curvature-sensitivity-model/) (spotlight) 
 - ✈️ [Jul 2023] Attending [ICML 2023](https://icml.cc/Conferences/2023) at Honolulu, Hawaii, USA
+- 🏫 [Jul 2023] Attending [Munich Econometrics Workshop 2023](https://munichmetrics.de/workshop-2023) in Munich, Germany
 - 🏫 [Jun 2023] Attending [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) as a participant and teacher assistant
 - 🚀 [Jun 2023] Joined Konrad Zuse School of Excellence in Reliable AI (relAI) as an [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/)
+- 🎤 [May 2023] Presenting at the 1st Munich CausalML Workshop
 - 📙 [Apr 2023] 1 paper accepted at ICML 2023: [Normalizing Flows for Interventional Density Estimation](https://valentyn1997.github.io/publications/2023-07-20-normalizing-flows-for-interventional-density-estimation/)
+- 🎤 [Feb 2023] Presenting at the [Causality Discussion Group](https://valentyn1997.github.io/talks/2023-02-01-talk-ct-cdg/)
 
 ### 2022
 - 📙 [Nov 2022] 1 paper accepted at AAAI 2023: [Estimating Average Causal Effects from Patient Trajectories](https://valentyn1997.github.io/publications/2023-02-07-estimating-average-causal-effects-from-patient-trajectories/)
 - 📙 [May 2022] 1 paper accepted at ICML 2022: [Causal Transformer for Estimating Counterfactual Outcomes](https://valentyn1997.github.io/publications/2022-07-21-causal-transformer-for-estimating-counterfactual-outcomes/)
+
+### 2021
+- 🚀 [Jun 2021] Started a PhD under the supervision of [prof. Stefan Feuerriegel](https://www.ai.bwl.uni-muenchen.de/index.html) at the LMU Munich
