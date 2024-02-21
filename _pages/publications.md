@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Journal Publications"
+title: "期刊论文"
 permalink: /publications/
 author_profile: true
 ---
@@ -27,7 +27,7 @@ author_profile: true
 
 
 
-Conference Proceedings
+国际会议
 ======
 
 6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. (Accepted) 
@@ -42,7 +42,7 @@ Conference Proceedings
 
 1\. He R, Gao M, Vezzoli C, **Ma K**. Designing Sustainable Product-Service Systems Applied to Distributed Economies in Water-Energy-Food Nexus approach. *Cumulus Roma* (2021). p. 3382-3400. [[link]](https://cumulusroma2020.org/proceedings-files/DC(s)_PROCEEDINGS_full_vol2.pdf) 
 
-Patents
+实用新型专利
 ======
 
 * 一种带有音响功能的游戏鼠标, ZL202221941264.3, 排名1. [[link]](https://kns.cnki.net/kcms2/article/abstract?v=kxaUMs6x7-4I2jr5WTdXti3zQ9F92xu0djlSA8-Y0a-w2p-ld1Ocs337MT9aFg1ZVUBrOZhTCSIkS9v_ts7OI-FWDYt4YFxC&uniplatform=NZKPT)
