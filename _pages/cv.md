@@ -38,7 +38,7 @@ redirect_from:
 {% include archive-single-talk-cv.html %}
 {% endfor %}</ul>
 
-## Activities
+## Academic activities
 * Research stay at [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge, Feb-May 2024
 * Reviewer at [AISTATS 2024](https://aistats.org/aistats2024/)
 * Reviewer at [ICLR 2024](https://iclr.cc/Conferences/2024)
