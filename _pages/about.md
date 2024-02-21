@@ -26,7 +26,7 @@ My research interests include
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
 - 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
-- 🎤 [Jan 2024] Presenting the pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the 2nd Munich CausalML Workshop
+- 🎤 [Jan 2024] Presenting the pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich CausalML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
 
 ### 2023
 - 🧘‍ [Nov 2023] Attending [relAI retreat 2023](https://zuseschoolrelai.de/relai-retreat-2023-day-1/) in Chiemsee, Germany 
