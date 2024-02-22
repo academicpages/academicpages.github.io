@@ -51,7 +51,7 @@ Recently, I am more focus on:
 * <b>AI Alignment - weaker supervision </b> Aligning AI models to act in accordance with human values is challenging: these values are taught by humans who make mistakes, harbor biases, and have a complex that is hard to completely specify. AI models often learn to exploit even minor imperfections in the specified objective, a tendency known as reward hacking. To achieve the alignment goal, a core open problem is a scalable oversight. Thus, I study how to explain, understand, and evaluate ways to better control how AI models extend  our supervision over tasks that are beyond our direct oversight, thereby improving alignment and their ability to generalize. ([Model Emotion](https://arxiv.org/abs/2302.09582), [Chateval](https://arxiv.org/abs/2308.07201)) 
 -->
 
-* <b>AI Alignment</b> Interpretability - [Model Emotion](https://arxiv.org/abs/2302.09582), Scale-oversight - [Chateval](https://arxiv.org/abs/2308.07201))
+* <b>AI Alignment</b> Interpretability - [Model Emotion](https://arxiv.org/abs/2302.09582), Scale-oversight - [Chateval](https://arxiv.org/abs/2308.07201)
 
 
 <!--and train/guide another AI system that smarter than human.-->
