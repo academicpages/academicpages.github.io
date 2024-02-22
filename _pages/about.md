@@ -34,9 +34,9 @@ Publication
 
 **Lin TF**, Busch, S.E., Hansel, C. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. *bioRxiv (in revision at Nature Communications)*. 2023. <a href="https://www.biorxiv.org/content/10.1101/2023.07.19.549760v2" style="color: black;">link</a>
 
-**Lin TF\***, Huang MY\*. A quantitative approach to study the adaptation of rhythmic eye movements and the resulting tonic eye deviation in larval zebrafish. *J Neurosci Res*. 2023. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.25220" style="color: black;">link</a>
+**Lin TF\* (sole corresponding author)**, Huang MY\*. A quantitative approach to study the adaptation of rhythmic eye movements and the resulting tonic eye deviation in larval zebrafish. *J Neurosci Res*. 2023. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.25220" style="color: black;">link</a>
 
-**Lin TF\***, Mohammadi M, Cullen KE, Chacron MJ, Huang MY\*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
+**Lin TF\* (co-corresponding author)**, Mohammadi M, Cullen KE, Chacron MJ, Huang MY\*. Optokinetic set-point adaptation functions as an internal dynamic calibration mechanism for oculomotor disequilibrium. *iScience*. 2022. <a href="https://www.cell.com/action/showPdf?pii=S2589-0042%2822%2901607-8" style="color: black;">link</a>
 
 **Lin TF**, Mohammadi M, Fathalla AM, Pul D, Lüthi D, Romano F, Straumann D, Cullen KE, Chacron MJ, Huang MY\*. Negative optokinetic afternystagmus in larval zebrafish demonstrates set-point adaptation. *Sci Rep*. 2019. <a href="https://www.nature.com/articles/s41598-019-55457-4.pdf" style="color: black;">link</a>
 
