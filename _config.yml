@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Welcome to shuli's homepage"
+title                    : "SHU LI"
 title_separator          : "-"
 name                     : &name "Shu LI"
 description              : &description "Ph.D. candidate in CS at INRIA"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Shu LI"
-  pronouns         : "he/his" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "PhD in CS"
   location         : "Inria, Paris, France"
   employer         : #"Red Brick University"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shuligraph"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "shuligraph"  # Replace this with your X / Twitter handle
+  twitter          : "@shuligraph"  # Replace this with your X / Twitter handle
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
