@@ -32,7 +32,7 @@ Publication
 
 **Lin TF**, Grasselli G, Hansel C. Cellular Mechanisms Underlying Cerebellar Learning. In Byrne JH (Ed.). *Learning and Memory: A Comprehensive Reference, 3rd Edition. Elsevier Science.* (Book chapter; in press)
 
-**Lin TF**, Busch, S.E., Hansel, C. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. *bioRxiv (in revision at Nature Communications)*. 2023. <a href="https://www.biorxiv.org/content/10.1101/2023.07.19.549760v2" style="color: black;">link</a>
+**Lin TF**, Busch, S.E., Hansel, C. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. *bioRxiv (in revision at Nature Communications)*. 2023. <a href="https://www.biorxiv.org/content/10.1101/2023.07.19.549760v3" style="color: black;">link</a>
 
 **Lin TF\* (sole corresponding author)**, Huang MY\*. A quantitative approach to study the adaptation of rhythmic eye movements and the resulting tonic eye deviation in larval zebrafish. *J Neurosci Res*. 2023. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.25220" style="color: black;">link</a>
 
