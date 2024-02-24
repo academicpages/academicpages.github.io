@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "马可的学术主页"
+title: "关于我"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
