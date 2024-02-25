@@ -7,6 +7,10 @@ main:
     
     #- title: "CV"
     #url: https://angadhn.github.io/Angadh_CV.pdf
+    #
+
+  - title: "Blog Posts"
+    url: /year-archive/
 
   - title: "Dynamics Textbook"
     url: https://angadhn.github.io/ComputationalDynamics/kinematics/introduction.html

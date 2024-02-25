@@ -6,9 +6,11 @@ categories: [Your Categories Here]
 
 {% newthought "Much of today's `free' or consumer internet" %} is built on three principles:
 
-1. **Involuntary user data exploitation**: Recent debates around generative AI have returned attention to this.
-2. **Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a political weapon to broadcast misinformation during elections, especially in developing economies. It was central to disinformation campaigns during elections in Brazil{% sidenote 'recuero2021discursive' 'See citation details in your bibliography.' %}, India{% sidenote 'banaji2019whatsapp' 'See citation details in your bibliography.' %}, and Lebanon{% sidenote 'elaudio' 'See citation details in your bibliography.' %}.
-3. **Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
+**Involuntary user data exploitation**: Recent debates around generative AI have returned attention to this.
+
+**Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a political weapon to broadcast misinformation during elections, especially in developing economies. It was central to disinformation campaigns during elections in Brazil{% sidenote 'recuero2021discursive' 'See citation details in your bibliography.' %}, India{% sidenote 'banaji2019whatsapp' 'See citation details in your bibliography.' %}, and Lebanon{% sidenote 'elaudio' 'See citation details in your bibliography.' %}.
+
+**Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
 
 ## A proposal for new mechanics of online publication could ameliorate today's consumer internet
 
