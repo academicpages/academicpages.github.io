@@ -16,11 +16,17 @@ India{% sidenote 'banaji2019whatsapp' 'Banaji, Shakuntala, Bhat, Ramnath, Agarwa
 
 **Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
 
-# A proposal for new mechanics of online publication could ameliorate today's consumer internet
+# New mechanics for a more thoughtful process for online posting
 
-I have been thinking a lot about the fundamental mechanics of online social platforms and how they can be designed to be less exploitative/manipulative and offer more respectful experiences on the internet. Specifically, I have been thinking about how publication should work on the internet and how this should be facilitated by personal reflection. This would work better, in my opinion, than online public shaming/arguments on comments threads of existing platforms.
+I have been thinking a lot about the fundamental mechanics of online social platforms and how they
+can be designed to be less exploitative/manipulative and offer more respectful experiences on the internet.
+Specifically, I have been thinking about how publication should work on the internet and how this should be
+facilitated by personal reflection. This would work better, in my opinion, than online public shaming/arguments
+on comments threads of existing platforms.
 
-So, my idea is to re-imagine modern-day social media and personal messaging systems to introduce a new way to publish that allows content publication/broadcasting only using content that exists within a chat in your inbox. If this sounds unclear, think of having a button on WhatsApp or Gmail that converts a set of chat messages/emails/drafts between you and some friends into a blog or project proposal or white paper. In addition to human collaborations making the content appropriate for public sharing, an on-device AI agent (not on the cloud) enhancing/improving your pre-publication work, exposing biases in your thinking (think of this as an AI agent commenting in your GDocs). And then a button allows you to publish this content (or warns you against publishing). The on-device AI preserves privacy and recent developments show that LLMs can work on current personal computing hardware. A cloud-based agent could also be used for a second stage of monitoring; this would not violate user data privacy because the user's intent with posting is, after all, to have the data examined.
+So, my idea is to re-imagine modern-day social media and personal messaging systems to introduce a new way
+to publish that allows content publication/broadcasting only using content that exists within a chat in your inbox.
+If this sounds unclear, think of having a button on WhatsApp or Gmail that converts a set of chat messages/emails/drafts between you and some friends into a blog or project proposal or white paper. In addition to human collaborations making the content appropriate for public sharing, an on-device AI agent (not on the cloud) enhancing/improving your pre-publication work, exposing biases in your thinking (think of this as an AI agent commenting in your GDocs). And then a button allows you to publish this content (or warns you against publishing). The on-device AI preserves privacy and recent developments show that LLMs can work on current personal computing hardware. A cloud-based agent could also be used for a second stage of monitoring; this would not violate user data privacy because the user's intent with posting is, after all, to have the data examined.
 
 I believe this introduction of some friction in the publication process that encourages reflection is one step towards driving individual users towards a society that's fairer and more respectful.
 
