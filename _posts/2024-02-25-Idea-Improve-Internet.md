@@ -8,7 +8,11 @@ categories: [Your Categories Here]
 
 **Involuntary user data exploitation**: Recent debates around generative AI have returned attention to this.
 
-**Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a political weapon to broadcast misinformation during elections, especially in developing economies. It was central to disinformation campaigns during elections in Brazil{% sidenote 'recuero2021discursive' 'See citation details in your bibliography.' %}, India{% sidenote 'banaji2019whatsapp' 'See citation details in your bibliography.' %}, and Lebanon{% sidenote 'elaudio' 'See citation details in your bibliography.' %}.
+**Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a
+political weapon to broadcast misinformation during elections, especially in developing economies.
+It was central to disinformation campaigns during elections in Brazil
+{% sidenote 'elaudio' 'El-Masri, Azza, Riedl, Martin J, and Woolley, Samuel. "Audio misinformation on WhatsApp: A case study from Lebanon." Harvard Kennedy School (HKS) Misinformation Review, 2022.' %},
+India{% sidenote 'banaji2019whatsapp' 'Banaji, Shakuntala, Bhat, Ramnath, Agarwal, Anushi, Passanha, Nihal, and Sadhana Pravin, Mukti. "WhatsApp vigilantes: An exploration of citizen reception and circulation of WhatsApp misinformation linked to mob violence in India." Department of Media and Communications, London School of Economics and Political Science, London, UK, 2019.' %}, and Lebanon{% sidenote 'recuero2021discursive' 'Recuero, Raquel, Soares, Felipe, and Vinhas, Otávio. "Discursive strategies for disinformation on WhatsApp and Twitter during the 2018 Brazilian presidential election." First Monday, 2021.' %}.
 
 **Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
 
