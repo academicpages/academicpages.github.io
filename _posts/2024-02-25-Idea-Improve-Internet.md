@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Three major issues in today's consumer Internet"
 date:   2024-02-10 22:33:30
 categories: [Your Categories Here]
