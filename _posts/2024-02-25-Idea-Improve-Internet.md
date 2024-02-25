@@ -12,7 +12,7 @@ categories: [Your Categories Here]
 
 **Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
 
-## A proposal for new mechanics of online publication could ameliorate today's consumer internet
+# A proposal for new mechanics of online publication could ameliorate today's consumer internet
 
 I have been thinking a lot about the fundamental mechanics of online social platforms and how they can be designed to be less exploitative/manipulative and offer more respectful experiences on the internet. Specifically, I have been thinking about how publication should work on the internet and how this should be facilitated by personal reflection. This would work better, in my opinion, than online public shaming/arguments on comments threads of existing platforms.
 
@@ -20,7 +20,7 @@ So, my idea is to re-imagine modern-day social media and personal messaging syst
 
 I believe this introduction of some friction in the publication process that encourages reflection is one step towards driving individual users towards a society that's fairer and more respectful.
 
-## Some personal progress on making such a platform
+# Some personal progress on making such a platform
 
 In this spirit, I spent some free time working on an inbox-to-publication platform using audio/speech as the communication modality. This choice was informed by my Indian heritage, where I feel spoken literacy is higher than written literacy which is being exploited as I mentioned earlier. [Click here to see an (out-of-date) demo](https://youtu.be/VbslBJX4Rfw?si=awveglcB-5oahR2C) of an iOS called Howler from 2022.
 
