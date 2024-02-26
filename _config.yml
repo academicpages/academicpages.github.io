@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Matteo Guida / NLP"
+title: "Matteo Guida, Ph.D"
 title_separator: "-"
 name: &name "Matteo Guida"
 description: &description "Student in Natural Language Processing"
