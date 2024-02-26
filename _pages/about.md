@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-👨‍💻 I am a final year graduate student at the University of Konstanz.
+👨‍💻 I have a Masters in Speech and Language Processing from the University of Konstanz.
 
-📚 My research interests evolve around Natural Language Processing.
+📚 My research interests evolve around Natural Language Processing, with a focus on ethical and interpretable approaches.
 
-🏫 I recently got a PhD position at the University of Melbourne, in the Faculty of Engineering and Information Systems.
+🏫 I am a PhD candidate at the University of Melbourne, in the Faculty of Engineering and Information Systems.
 
+🔬 Currently investigating patterns of narratives and selective framing in news coverage of contemporary polarizing issues.
