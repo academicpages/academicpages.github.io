@@ -3,6 +3,17 @@ permalink: /research/
 title: Research
 ---
 
+### Publications
+
+---
+**[Firms as Tax Collectors](https://pablogarriga.github.io/files/firms-as-tax-collectors.pdf)** — *Accepted for publication at Journal of Public Economics*  
+(with Darío Tortarolo)
+
+- Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
+- Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
+
+<p align="justify">We study the implications of delegating tax collection duties on firms. We exploit a major reform to the withholding regime of the Turnover Tax in the City of Buenos Aires, where a substantial number of large firms were appointed to act as Collection Agents (CAs) based on a predetermined revenue threshold. Combining rich firm-to-firm administrative data along with quasi-experimental methods, we show that: (i) firms newly appointed as CAs do not experience any effects on their reported business activity; (ii) firms with pre-existing commercial ties to CAs increase their self-reported income; (iii) the government collects more tax revenue. Additionally, the analysis of a subsequent reform that reduced third-party collection of the tax shows that firms respond symmetrically by reducing their reported income. These results are in line with other papers suggesting that reforms to the tax administration can have a considerable impact when it comes to raising revenue and building tax capacity. In particular, our findings can provide guidance to other middle- and low-income countries on ways to determine who the right tax collector is as a function of the level of development.</p>
+
 ### Working Papers
 
 ---
@@ -29,36 +40,11 @@ title: Research
 
 <p align="justify">The last decades have witnessed a revolution in manufacturing production characterized by increasing technology adoption and a strong expansion of international trade. Simultaneously, the income distribution has exhibited both polarization and concentration among the richest. Combining datasets from the U.S. Census Bureau, the U.S. Internal Revenue Service, the International Federation of Robotics, EU KLEMS, and COMTRADE, we study the causal effect of industrial automation on income inequality in the U.S. during 2010–2015. We exploit spatial and time variations in exposure to robots arising from past differences in industry specialization across U.S. metropolitan areas and the evolution of robot adoption across industries. We document a robust positive impact of robotics on income for only the top 1 percent of taxpayers, which is largest for top income fractiles. Therefore, industrial automation fuels income inequality and, particularly, top income inequality. According to our estimates, one more robot per thousand workers results in relative increments of the total taxable income accruing to fractiles P99 to P99.9, P99.9 to P99.99 and P99.99 to P100, of 2.1 percent, 3.5 percent and 5.9 percent, respectively. We also find that robotization leads to increased exports to high-income and upper-middle-income economies, and that this is one of the key mechanisms behind the surge in top income inequality.</p>
 
-
----
-**[Firms as Tax Collectors](https://pablogarriga.github.io/files/firms-as-tax-collectors.pdf)** — *Revise & Resubmit at Journal of Public Economics*  
-(with Darío Tortarolo)
-
-- Winner of the [2022 ITAX PhD Student Award](https://www.iipf.org/itaxaward.html)
-- Coverage: [World Bank Development Impact Blog](https://blogs.worldbank.org/impactevaluations/improving-tax-administration-and-compliance-appointing-firms-withholding-agents)
-<!-- - Presentations: [2021 NBER Business Taxation in a Federal System](https://www.nber.org/conferences/business-taxation-federal-system-fall-2021), [6th Zurich PF Conference](https://www.econ.uzh.ch/dam/jcr:c4ffd510-e423-45db-bf6f-a0c4a465bf8b/Program%20CED_2021.pdf), [56th AAEP meeting](https://aaep.org.ar/reuniones-anuales-aaep/lvi-reunion-anual-buenos-aires/), [19th Midwest International Economic Development Conference](https://sites.google.com/a/umn.edu/miedc/), [78th IIPF Confernce](https://www.iipf.org/congress2022.htm), NTA 115th Annual Conference -->
-
-<p align="justify">We study the implications of delegating tax collection duties on firms. We exploit a major reform to the withholding regime of the Turnover Tax in the City of Buenos Aires, where a substantial number of large firms were appointed to act as Collection Agents (CAs) based on a predetermined revenue threshold. Combining rich firm-to-firm administrative data along with quasi-experimental methods, we show that: (i) firms newly appointed as CAs do not experience any effects on their reported business activity; (ii) firms with pre-existing commercial ties to CAs increase their self-reported income; (iii) the government collects more tax revenue. Additionally, the analysis of a subsequent reform that reduced third-party collection of the tax shows that firms respond symmetrically by reducing their reported income. These results are in line with other papers suggesting that reforms to the tax administration can have a considerable impact when it comes to raising revenue and building tax capacity. In particular, our findings can provide guidance to other middle- and low-income countries on ways to determine who the right tax collector is as a function of the level of development.</p>
-
-<!-- **Firms as Tax Collectors** JMP (with Darío Tortarolo)
-
-[Draft coming soon, pending disclosure review by the tax authority]
-
-<table border="none!important;" style="width:100%; margin-bottom: 10px">
-    <td style="width:40%;"><img src="https://pablogarriga.github.io/images/collection-agents.png"></td>
-    <td><p align="justify">We study the implications of delegating tax collection duties on firms. We exploit a major reform to the withholding regime of the Turnover Tax in the City of Buenos Aires, where a substantial number of large firms were appointed to act as Collection Agents (CAs) based on a predetermined revenue threshold. Combining rich firm-to-firm administrative data along with quasi-experimental methods, we show that: (i) firms newly appointed as CAs do not experience any effects on their reported business activity; (ii) firms with pre-existing commercial ties to CAs increase their self-reported income; (iii) the government collects more tax revenue. Additionally, the analysis of a subsequent reform that reduced third-party collection of the tax shows firms respond symmetrically by reducing their reported income. These results are in line with other papers suggesting that reforms to the tax administration can have considerable impact when it comes to raising revenue and building tax capacity. In particular, our findings can provide guidance to other middle- and low-income countries on ways to determine who the right tax collector is as a function of the level of development.</p></td>
-</table> -->
-
 ---
 **[Tax Filings vs Tax Withholdings: Behavioral Responses from Firms and Tax Preparers](https://pablogarriga.github.io/files/tax-preparers.pdf)**  
 (with Darío Tortarolo)  
 
 <p align="justify">We study the relationship between tax filings and tax withholdings for the Argentine Turnover Tax on businesses and we shed light on the role of tax preparers in that relationship. Firms file a tax return every month through a centralized online platform and can (i) claim a refund if the amount withheld in advance (third-party reported by suppliers and clients) exceeds the tax liability, or (ii) remit the difference if the tax liability is higher than withholdings. Using rich administrative data, we first document sharp bunching exactly at the point where tax liabilities (reported by the firm) equal tax withholdings (third-party reported) and argue that this pattern is due to strategic under-reporting of income so that the tax balance matches the withholding shown by the online platform. Second, by linking firms to tax preparers through shared contact information we study the role of accountants on this behavior. We analyze how correlated are the behaviors of firms who share the same accountant (network). We find a positive relationship between accountants and the bunching behavior observed on their clients. We also exploit information on past audits and show that, within a network, non-audited firms respond to their peer's audit, suggesting that tax preparers might act as diffusers of information across firms.</p>
-
-<!-- <table border="none!important;" style="width:100%; margin-bottom: 10px">
-    <td style="width:40%;"><img src="https://pablogarriga.github.io/images/images/bunching.jpg"></td>
-    <td><p align="justify">We study the relationship between tax filings and tax withholdings for the Argentine Turnover Tax on businesses and we shed light on the role of tax preparers in that relationship. Firms file a tax return every month through a centralized online platform and can (i) claim a refund if the amount withheld in advance (third-party reported by suppliers and clients) exceeds the tax liability, or (ii) remit the difference if the tax liability is higher than withholdings. Using rich administrative data we first document sharp bunching exactly at the point where tax liabilities (reported by the firm) equal tax withholdings (third-party reported) and argue that this pattern is due to strategic under-reporting of income so that the tax balance matches the withholding shown by the online platform. Second, by linking firms to tax preparers through shared contact information we study the role of accountants on this behavior. We analyze how correlated are the behaviors of firms who share the same accountant (network). We find a positive relationship between accountants and the bunching behavior observed on their clients. We also exploit information on past audits and show that, within a network, non-audited firms respond to their peer's audit, suggesting that tax preparers might act as diffusers of information across firms.</p></td>
-</table> -->
 
 ### Work in Progress
 
