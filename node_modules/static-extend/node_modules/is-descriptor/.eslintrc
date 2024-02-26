@@ -1,0 +1,16 @@
+{
+	"extends": "@ljharb",
+
+	"rules": {
+		"func-style": "warn",
+	},
+
+	"overrides": [
+		{
+			"files": "test/**/*.js",
+			"rules": {
+				"max-lines-per-function": "off",
+			},
+		},
+	],
+}
