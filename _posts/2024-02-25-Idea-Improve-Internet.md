@@ -1,22 +1,24 @@
 ---
 title:  "Three major issues in today's consumer Internet"
 date:   2024-02-10 22:33:30
-categories: [Your Categories Here]
+categories:
+  - Social Networking
+  - Internet
 ---
 
 {% newthought "Much of today's `free' or consumer internet" %} is built on three principles:
 
-**Involuntary user data exploitation**: Recent debates around generative AI have returned attention to this.
+1. **Involuntary user data exploitation**: Recent debates around generative AI have returned attention to this.
 
-**Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a
+2. **Novel manipulation of users by malicious actors through personal chat**: WhatsApp is used as a
 political weapon to broadcast misinformation during elections, especially in developing economies.
 It was central to disinformation campaigns during elections in Brazil
 {% sidenote 'elaudio' 'El-Masri, Azza, Riedl, Martin J, and Woolley, Samuel. "Audio misinformation on WhatsApp: A case study from Lebanon." Harvard Kennedy School (HKS) Misinformation Review, 2022.' %},
 India{% sidenote 'banaji2019whatsapp' 'Banaji, Shakuntala, Bhat, Ramnath, Agarwal, Anushi, Passanha, Nihal, and Sadhana Pravin, Mukti. "WhatsApp vigilantes: An exploration of citizen reception and circulation of WhatsApp misinformation linked to mob violence in India." Department of Media and Communications, London School of Economics and Political Science, London, UK, 2019.' %}, and Lebanon{% sidenote 'recuero2021discursive' 'Recuero, Raquel, Soares, Felipe, and Vinhas, Otávio. "Discursive strategies for disinformation on WhatsApp and Twitter during the 2018 Brazilian presidential election." First Monday, 2021.' %}.
 
-**Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
+3. **Social media companies incentivize poor online behaviors**: X and Reddit allow users to publish posts rapidly; some are insightful and informative while others lack taste, to put it mildly, leading to polarizing toxic content.
 
-# New mechanics for a more thoughtful process for online posting
+# Proposal for new mechanics of online publication could ameliorate today's consumer internet
 
 I have been thinking a lot about the fundamental mechanics of online social platforms and how they
 can be designed to be less exploitative/manipulative and offer more respectful experiences on the internet.
