@@ -95,6 +95,7 @@ body {
   }
 
 	h1, h2, h3, h4, h5, h6 {
+		max-width: 75%; // Adjust the percentage as needed
 		.header-link {
 			position: relative;
 			left: 0.5em;
