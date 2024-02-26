@@ -657,8 +657,8 @@ img { max-width: 100%; }
 
 .sidenote, .marginnote { float: right;
                          clear: right;
-                         margin-right: -60%;
-                         width: 50%;
+                         margin-right: -50%;
+                         width: 45%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
                          font-size: 0.7rem;
@@ -667,7 +667,7 @@ img { max-width: 100%; }
                          position: relative; }
 
 
-li .sidenote, li .marginnote{ margin-right: -80%; } //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
+li .sidenote, li .marginnote{ margin-right: -50%; width: 25%} //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
 
 blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
