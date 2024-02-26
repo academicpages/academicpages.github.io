@@ -7,6 +7,7 @@
 # server process.
 
 # Basic Site Settings
+theme: jekyll-theme-minimal
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
