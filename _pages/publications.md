@@ -58,6 +58,18 @@ author_profile: true
 
 <br>
 <br>
+<h1>Workshop Presentations</h1>
+------
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'workshop' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+------
+
+
+<br>
+<br>
 <h1>Lecture Presentations</h1>
 ------
 {% for post in site.publications reversed %}
