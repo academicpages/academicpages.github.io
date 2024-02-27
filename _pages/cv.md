@@ -19,7 +19,7 @@ redirect_from:
 석사 학위 논문 (Master's Thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-off Optimization
-* Supervisors: 최우열
+* Supervisor: 최우열
 
 
 연구 분야 (Research Areas)
@@ -38,8 +38,8 @@ redirect_from:
 
 * **개발 및 교육 관련 (development and education-related)**
   * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08 - present)
-  * NHN 아카데미 백엔드 과정 수업 조교 (2022.08 - 2023.02)
-  * 다중 게이트웨이 및 비컨을 활용한 실시간 위치 추정 시스템 설계 및 구현, Intflow (2022.04 - 2022.08)
+  * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08 - 2023.02)
+  * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09 - 2022.12)
   * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (Oct. 18-31, 2021)​
   * 딥러닝 기반 비접촉 발열 측정 시스템 개발 및 실험 참여, Intflow (2020.12 - 2021.02)
   * 소프트웨어 교육 강사, 나주 세지중학교 (2020.03 - 2020.07)
@@ -58,10 +58,10 @@ redirect_from:
 주요 역량 (Summary of Qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
-  * 다양한 프로그래밍 플랫폼 및 언어 활용 능력 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
-  * 강화학습 알고리즘 기반의 문제 접근 및 최적화 기술 설계 능력 (DQN, DDQN, A2C, A3C, PPO, Pareto-policy, MO-A3Cs, etc.)
-  * IoT, ICT 센싱 및 mobilie applocation, server 통합 구현을 통한 스마트 솔루션 프로그램 개발 및 구현 능력
-  * 소프트웨어 정의 라디오 기반 4X4 MIMO-OFDM system, TDMA-based multi-hop relay network 설계 및 구현 능력
+  * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
+  * 강화학습 알고리즘 기반의 목적함수 최적화 설계 (DQN, DDQN, A2C, A3C, PPO, Pareto-policy, MO-A3Cs, etc.)
+  * IoT, ICT 센싱 및 mobilie applocation, multi-thread server 통합을 기반 스마트 솔루션 개발 및 구현
+  * 소프트웨어 정의 라디오 기반 4X4 MIMO-OFDM, TDMA-based multi-hop relay network 등 무선 테스트베드 설계 및 구현
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
