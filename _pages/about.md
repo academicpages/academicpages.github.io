@@ -95,7 +95,7 @@ Specifically, my research is theoretically motivated to advance language models 
 - **Sohu Scholarship**, Tsinghua University, 2022
 - **Yang Huiyan (杨惠妍) Scholarship**, Tsinghua University, 2021
 - **Comprehensive Merit Scholarship**, Tsinghua University, 2017/2019
-- **Gold Medal**, 32nd China Physics Olympiads (CPhO), 2015 
+- **Gold Medal**, 32nd Chinese Physics Olympiads (CPhO), 2015 
 - **Distinguished Honor Roll (Top 1%)**, [American Mathematics Contest](https://amc-reg.maa.org/reports/generalreports.aspx) 12A (AMC 12A), 2015
 
 ## Education
