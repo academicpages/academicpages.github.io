@@ -62,7 +62,7 @@ redirect_from:
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
   * 강화학습 알고리즘 기반의 목적함수 최적화 설계 (DQN, DDQN, A2C, A3C, PPO, Pareto-policy, MO-A3Cs, etc.)
   * IoT, ICT 센싱 및 mobilie applocation, multi-thread server 통합을 기반 스마트 솔루션 개발 및 구현
-  * 소프트웨어 정의 라디오 기반 4X4 MIMO-OFDM, TDMA-based multi-hop relay network 등 무선 테스트베드 설계 및 구현
+  * SDR 기반 4X4 MIMO-OFDM, TDMA-based multi-hop relay network 등 무선 테스트베드 설계 및 구현
 <br>
 
 * **협업 및 의사소통 능력 (collaborative and communicative skills)**
