@@ -24,20 +24,20 @@ redirect_from:
 
 연구 분야 (Research Areas)
 ---
-* Object detection and tracking based on novel AI approach (Knowledge distillation, federated multimodal learning)
-* IoT sensing-based, data/sensor fusion-based smart solution (NFC, BLE, RF signals, multimodal sensors, camera, etc)
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
 * Reinforcement learning-based optimization (single and multi-agent, multi-objective RL, and human feedback-based RL)
+* Object detection and tracking based on novel AI approach (Knowledge distillation, federated multimodal learning)
+* IoT sensing-based, data/sensor fusion-based smart solution (NFC, BLE, RF signals, multimodal sensors, camera, etc)
 
 연구 경험 (Research Experience)
 ---
 * **연구 관련 (research-related)**
-  * 산학연 연구개발 및 국제 프로젝트 참여 연구원 (2022.03 - present)
-  * 산학연 연구개발 및 국제 프로젝트 참여 학부 연구원 (2019.09 - 2022.02)
+  * 산학연 연구개발 및 국제 프로젝트 일반 연구원 (2022.03 - 2024.02)
+  * 산학연 연구개발 및 국제 프로젝트 학부 연구원 (2019.09 - 2022.02)
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
-  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08 - present)
+  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08 - 2024.02)
   * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08 - 2023.02)
   * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09 - 2022.12)
   * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (Oct. 18-31, 2021)​
