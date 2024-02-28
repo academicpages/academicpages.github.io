@@ -1,0 +1,24 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// AN Notes: https://github.com/NaanProphet/tripodvideoninja/commit/d9905c1f71ac57597b20073c95c50807e45f57a5
+/* hack to fill the left-hand-side when there is no author */
+ .wide_post article.page {
+     float: left;
+     width: 100%;
+ }
+
+ /* push the TOC out to the right just a little*/
+ .sidebar__right {
+ 	padding-left: 5%;
+ }
+ .layout--single {
+ 	margin-left: 10%;
+ 	margin-right: 10%;
+ }

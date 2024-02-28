@@ -25,12 +25,45 @@
         </button>
         {% endif %}
 	<!-- Add this in your site's header, footer, or any common section visible across pages -->
+
+	{% if site.minimal_mistakes_skin2 %}
 	<div class="theme-switch-wrapper">
     	<label class="theme-switch" for="checkbox">
-        	<input type="checkbox" id="checkbox" />
+        	<input type="checkbox" id="checkbox" onchange="toggleTheme()" />
         	<div class="slider round"></div>
     	</label>
+
+	<script>
+function toggleTheme() {
+    var checkbox = document.getElementById('checkbox');
+    var themeSource = document.getElementById('theme_source');
+    var themeSource2 = document.getElementById('theme_source_2');
+
+    if (checkbox.checked) {
+        themeSource.setAttribute('rel', 'stylesheet alternate');
+        themeSource2.setAttribute('rel', 'stylesheet');
+        sessionStorage.setItem('theme', 'dark');
+    } else {
+        themeSource2.setAttribute('rel', 'stylesheet alternate');
+        themeSource.setAttribute('rel', 'stylesheet');
+        sessionStorage.setItem('theme', 'light');
+    }
+}
+
+// Initialize the checkbox state based on the saved theme
+window.onload = function() {
+    var currentTheme = sessionStorage.getItem('theme');
+    var checkbox = document.getElementById('checkbox');
+    if (currentTheme === 'dark') {
+        checkbox.checked = true;
+    } else {
+        checkbox.checked = false;
+    }
+}
+</script>
+
 	</div>
+	{% endif %}
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>

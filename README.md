@@ -4,6 +4,7 @@ Then run `rake publish` at the command line.
 
 2. Navigation buttons can be added and removed by editing contents of `_data/navigation.yml`.
 
+3. While ChatGPT helped with some things, the theme solutiuon was best solved for [here](https://github.com/mmistakes/minimal-mistakes/discussions/2033#discussioncomment-257421).
 
 This website makes use of the [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 alongside the [Tufte CSS implementation]()
