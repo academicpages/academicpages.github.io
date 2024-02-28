@@ -71,5 +71,3 @@ Undergraduate Teaching Experience
   * Advisors: Dr. Arturo De Lozanne
     
             
-======
-
