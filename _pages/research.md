@@ -8,12 +8,14 @@ redirect_from:
 
 ## Investigating the dynamic between social networks and valence bias
 
-This is an ongoing project, collecting data Spring 2024. See below for the abstract and a poster I presented at SAS 2024.
-### Abstract
+This is an ongoing project, collecting data in Spring 2024. See below for a summary and a poster I presented at SAS 2024.
+### Brief Summary
+Recent literature suggests important links between one’s social network/connectedness and valence bias, but causality has yet to be established. We will directly investigate the relationship between social networks and valence bias by conducting a longitudinal study in a bounded population. This work will be foundational to establishing the impact of valence bias in real-world social dynamics.
+
 
 ### Poster 
-<img src='/images/500x300.png'>
-[Link to PDF](path/to/your/document.pdf)
+<img src='/images/SN and VB Poster Final.png'>
+
 
 
 
