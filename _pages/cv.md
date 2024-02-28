@@ -11,41 +11,43 @@ redirect_from:
 
 학력 (Education)
 ---
-* 석사, 조선대학교 (컴퓨터공학과, 2022.03 - 2024.02)
-* 학사, 조선대학교 (컴퓨터공학과, 2016.03 - 2022.02)
-* 졸업, 금호고등학교 (인문, 2013.03 - 2016.02)
+* 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
+* 학사, 조선대학교 (컴퓨터공학과, 2016.03.02 - 2022.02.25)
+* 졸업, 금호고등학교 (인문, 2013.03.04 - 2016.02.02)
 
+병역 (Military service)
+---
+* 만기제대, 보병 (111102) 육군 (2016.12.13 - 2018.09.12)
 
-석사 학위 논문 (Master's Thesis)
+석사 학위 논문 (Master's thesis)
 ---
 * Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-off Optimization
 * Supervisor: 최우열
 
-
-연구 분야 (Research Areas)
+연구 분야 (Research areas)
 ---
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
 * Reinforcement learning-based optimization (single and multi-agent, multi-objective RL, and human feedback-based RL)
 * Object detection and tracking based on novel AI approach (Knowledge distillation, federated multimodal learning)
 * IoT sensing-based, data/sensor fusion-based smart solution (NFC, BLE, RF signals, multimodal sensors, camera, etc)
 
-연구 경험 (Research Experience)
+연구 경험 (Research experience)
 ---
 * **연구 관련 (research-related)**
-  * 산학연 연구개발 및 국제 프로젝트 일반 연구원 (2022.03 - 2024.02)
-  * 산학연 연구개발 및 국제 프로젝트 학부 연구원 (2019.09 - 2022.02)
+  * 산학연 연구개발 및 국제 프로젝트 일반 연구원 (2022.03.04 - 2024.02.29)
+  * 산학연 연구개발 및 국제 프로젝트 학부 연구원 (2019.09.02 - 2022.02.25)
 <br>
 
 * **개발 및 교육 관련 (development and education-related)**
-  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08 - 2024.02)
-  * 시험 조교, 조선대학교 학부과정 프로그래밍 언어 및 실습 (2023.03 - 2023.09)
-  * 서버 관리자, 조선대학교 EX-online judge (OJ) 시스템 서버 유지 및 관리 (2023.03 - 2023.05) 
-  * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08 - 2023.02)
-  * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09 - 2022.12)
-  * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (Oct. 18-31, 2021)​
-  * 딥러닝 기반 비접촉 발열 측정 시스템 개발 및 실험 참여, Intflow (2020.12 - 2021.02)
-  * 세지중학교 소프트웨어 교육 강사, 주말교육기부 찾아가는 SW교육강사 (2020.06 - 2020.07)
-  * 소프트웨어 강사 양성 과정 이수, 한전 KDN (2019.11.11-21)
+  * 서버 관리자, 조선대학교 EX-online judge (OJ) 시스템 서버 유지 및 관리 (2023.03.04 - 2023.08.31)
+  * 연구 멘토, 학부생 멘토링 연구실 멘토 프로그램 (실시간 위치 추정 시스템 설계 및 구현) (2022.09.02 - 2022.12.28)
+  * 멀티모달 센서 logging 기술 및 모바일 애플리케이션 설계 및 개발, KAIST MINT Lab (2022.08.04 - 2024.02.29)
+  * 수업 조교, NHN 아카데미 백엔드 교육과정 (2022.08.01 - 2023.02.28)
+  * 시험 조교, 조선대학교 학부과정 프로그래밍 언어 및 실습 (2022.03.04 - 2023.12.24)
+  * 개발도상국 전력 선불 거래를 위한 모바일 애플리케이션 설계 및 구현, Encored P&P (2021.10.18 - 2021.10.31)​
+  * 딥러닝 기반 비접촉 발열 측정 시스템 개발 및 실험 참여, Intflow (2021.01.01 - 2021.01.31)
+  * 세지중학교 소프트웨어 교육 강사, 주말교육기부 찾아가는 SW교육강사 (2020.06.20 - 2020.07.19)
+  * 소프트웨어 강사 양성 과정 이수, 한전 KDN (2020.01.02 - 2020.01.22)
 <br>
 
 * **수상 경력 (honors and awards)**
@@ -57,7 +59,7 @@ redirect_from:
   <!-- * 장려상, 대학교 산학협력단 연합 지역 개발 융합대회 (2020.01.29 - 31) -->
 
 
-주요 역량 (Summary of Qualifications)
+주요 역량 (Summary of qualifications)
 ---
 * **프로그래밍 능력 (programming skills)**
   * 다양한 프로그래밍 언어 및 프레임워크 활용 (Python, Java, LabVIEW, MATLAB, TensorFlow, PyTorch, PyQt, etc.)
@@ -76,7 +78,7 @@ redirect_from:
   * 다수의 국책 R&D 사업 제안서, 보고서 기획 및 작성을 통한 문서화, 시각화 능력 보유
 
 
-소속 학회 (Professional Memberships)
+소속 학회 (Professional memberships)
 ---
   * graduate student member, IEEE (2021 ~ present)
   * 학생회원, 한국전자파학회 (2021 ~ present)
