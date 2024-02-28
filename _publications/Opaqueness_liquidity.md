@@ -14,7 +14,7 @@ authors:
     lastname: "Mendes"
 keywords: "over-the-counter, liquidity, learning by holding, opaqueness"
 venue: "Working Paper"
-paperurl: 'https://drive.google.com/file/d/1G5xc50bSJXyHnou74a1857Ifwq7QdPBX/view?usp=drive_link'
+paperurl: 'https://gstoledo.github.io/docs/LMT_Opaqueness.pdf'
 ---
 
 
