@@ -27,6 +27,6 @@ It has been established that social rejection impacts people’s emotions, behav
 
 
 ### Poster 
-<img src='/images/500x300.png'>
-[Link to PDF](path/to/your/document.pdf)
+<img src='/images/hermione poster.png'>
+
 
