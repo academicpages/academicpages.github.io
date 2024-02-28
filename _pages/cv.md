@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Download CV [here](https://github.com/gstoledo/personal-cv/blob/master/Cv_GT.pdf)**
+**Download CV [here](https://gstoledo.github.io/docs/Cv_GT.pdf)**
 
 Education
 ======
