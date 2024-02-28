@@ -89,7 +89,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 <div class='paper-box-image'>
   <div>
-    <img src='/images/AAS_dev.png' alt="sym" width="110%">
+    <img src='/images/AAS_dev.png' alt="sym" width="115%">
   </div>
 </div>
 
@@ -97,7 +97,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 - Development of AAS system prototype.
 - Calibration experiments and in vitro experiments
-- Animal experiments (in collaboration with Ruijin Hospital, SJTU School of Medicine)
+- Animal experiments (in collaboration with [Ruijin Hospital, SJTU School of Medicine](https://www.shsmu.edu.cn/english/info/1085/1233.htm))
 
 </div>
 </div>
@@ -157,7 +157,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 <div class='paper-box-image'>
   <div>
-    <img src='/images/remote.png' alt="sym" width="120%">
+    <img src='/images/remote.png' alt="sym" width="110%">
   </div>
 </div>
 
