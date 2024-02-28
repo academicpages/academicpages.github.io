@@ -89,7 +89,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 
 <div class='paper-box-image'>
   <div>
-    <img src='/images/AAS_dev.png' alt="sym" width="115%">
+    <img src='/images/AAS_dev.png' alt="sym" width="110%">
   </div>
 </div>
 
@@ -116,6 +116,7 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 <div class='paper-box-text' markdown="1">
 
 - Medical simulation of AAS system.
+- Simulated force sensor computation and verification.
 - LSTM-Kalman algorithm for defecation perception.
 - Submitted [PR](https://github.com/sofa-framework/sofa/pull/3164) as the contributor of [SOFA (v22.12)](https://www.sofa-framework.org/about/sofa-v22-12/).
 
