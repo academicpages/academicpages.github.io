@@ -70,6 +70,7 @@ I'm a senior student at School of information and communication engineering 'cla
 - **Singapore International Pre-Graduate Award (SIPGA)** 2023, A STAR of Singapore
 - **People's Daily Scholarship [(人民网奖学金)](http://yjy.people.com.cn/n1/2023/1214/c441532-40139097.html)** 2023, People's Daily Online of China
 - **[Best Paper Nomination Award](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)** 2023, The IEEE Technical Community on Learning Technology
+- **BUPT-SICE Excellent Student Creative Foundation** 2023, Beijing University of Posts and Telecommunications
 
 
 # Publications
