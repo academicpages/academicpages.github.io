@@ -24,6 +24,13 @@
           <i class="fas fa-search"></i>
         </button>
         {% endif %}
+	<!-- Add this in your site's header, footer, or any common section visible across pages -->
+	<div class="theme-switch-wrapper">
+    	<label class="theme-switch" for="checkbox">
+        	<input type="checkbox" id="checkbox" />
+        	<div class="slider round"></div>
+    	</label>
+	</div>
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
