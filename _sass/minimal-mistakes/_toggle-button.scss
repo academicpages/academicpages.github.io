@@ -32,7 +32,7 @@
     bottom: 4px;
     content: "";
     height: 26px;
-    left: 4px;
+    left: 4px; /* Initially positioned at the left */
     position: absolute;
     transition: .4s;
     width: 26px;
@@ -48,5 +48,9 @@ input:checked + .slider {
 
 .slider.round:before {
     border-radius: 50%;
+}
+
+input:checked + .slider:before {
+    left: calc(100% - 30px); /* Shifts the slider to the right when checked */
 }
 
