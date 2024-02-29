@@ -8,7 +8,7 @@ author_profile: true
 
 <span style="font-size: 22px;">Organizing/Chairing</span>
 ======
-1. <span style="font-size: 16px;">Chair, IEEE MeditCom 2024, "1st International Workshop on Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN) Workshop", 2024.</span>
+1. <span style="font-size: 16px;">Chair, IEEE MeditCom 2024, "1st International Workshop on Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)", 2024.</span>
 1. <span style="font-size: 16px;">Committee Member, "IEEE International Mediterranean Conference on Communications and Networking (IEEE Meditcom)", 2021.</span>
 1. <span style="font-size: 16px;">Chair, IEEE ICC2023, "SAC Machine Learning for Communications and Networking Track", 2023.</span>
 1. <span style="font-size: 16px;">Organizing member, "IEEE Spain - Technical Activities and Standards", 2023-present.</span>

@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Feb 26-28, 2024] Presented live demo on 'Explainable Graph Reinforcement Learning' at Mobile world Congress (MWC), 2024.</span>
 - <span style="font-size: 16px;">[Feb 26, 2024] Invited as TPC member of 2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2024), 2024.</span>
 - <span style="font-size: 16px;">[Feb 22, 2024] Our paper, entitled 'A Novel Approach for Scalable and Sustainable 6G Networks', has been accepted at IEEE Open Journal of the Communications Society.</span>
 - <span style="font-size: 16px;">[Feb 12, 2024] Our workshop proposal, entitled 'Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)', has been accepted at IEEE Meditcom 2024.</span>
