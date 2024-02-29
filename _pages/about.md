@@ -30,11 +30,11 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     <br /> 
     <font size="2">
       [Under Submission]
-      <a href="https://github.com/ut-amrl/plunder">
+      <a href="https://amrl.cs.utexas.edu/plunder">
       [Project Website]
       </a>
       <a href="https://arxiv.org/abs/2303.01440">
-      [Arxiv]
+      [pre-print]
       </a>
     </font>
     </li>
@@ -95,7 +95,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
       [OOPSLA'21: ACM Conference on Object-Oriented Programming, Languages, Systems, and Applications]</a>
       <br/>
       <a href="https://arxiv.org/abs/2109.02445">
-      [Arxiv]
+      [pre-print]
       </a>
       <a href="/files/nlx.pdf">
       [Pdf]
