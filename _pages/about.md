@@ -10,14 +10,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University(SJTU)](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
+Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
 Right now I major in instrument science and technology.
-My current research interest mainly focus on **medical robotics and medical simulation** supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
+My current research interests mainly focus on **medical robotics and medical simulation**, supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
 
-Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) in Shanghai, China in 2021 with a bachelor's degree in mechanical engineering (Mechatronics), and seized the award of the First Prize Scholarship at Tongji University (Top 5%). 
-During my undergraduate studies, I mainly focused on **drone visuial tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
+Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) in Shanghai, China, in 2021 with a bachelor's degree in mechanical engineering (Mechatronics), and seized the award of the First Prize Scholarship at Tongji University (Top 5%). 
+During my undergraduate studies, I mainly focused on **drone visual tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
 
-I'm looking for a job or Ph.D opportunity in the field of **medical simulation, robotics**, etc.
+I'm looking for a job or PhD opportunity in the field of **medical simulation, robotics**, etc.
 Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.pdf) to find my up-to-date CV.
 
 <br/>
