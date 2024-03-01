@@ -76,7 +76,7 @@ function getCleanPath() {
   // Function to increment view count
   function updatePageViews() {
     const pagePath = getCleanPath();
-    const pageRef = db.collection('pageViews').doc(pagePath);
+    const pageRef = db.collection('pageViews').doc('total');
 
     pageRef.get().then((doc) => {
       if (doc.exists) {
@@ -91,7 +91,7 @@ function getCleanPath() {
   // Function to display page views
 function displayPageViews() {
   const pagePath = getCleanPath(); // Use the getCleanPath function here as well
-  const pageRef = db.collection('pageViews').doc(pagePath);
+  const pageRef = db.collection('pageViews').doc('total');
 
   pageRef.get().then((doc) => {
     if (doc.exists) {
