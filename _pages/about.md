@@ -12,7 +12,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="notice notice--announcement" markdown="1">
-#### I am [speaking](https://2024-na.nixcon.org/talks/) at [NixCon North America](https://2024-na.nixcon.org/) this year. Reach out if you'd like to meet with me at [SCaLE 21x](https://www.socallinuxexpo.org/scale/21x) (March 14-17, 2024 in Pasadena, California).
+#### I am [speaking](https://2024-na.nixcon.org/talks/#the-case-for-nix-on-the-home-server) at [NixCon North America](https://2024-na.nixcon.org/) this year. Reach out if you'd like to meet with me at [SCaLE 21x](https://www.socallinuxexpo.org/scale/21x) (March 14-17, 2024 in Pasadena, California). I highly encourage anyone to join the 250+ people who are coming to Nixcon!
 </div>
 
 I am a fourth year undergraduate at UC San Diego double majoring in Math and Computer Science and minoring in Classical Studies. Outside of class, you will find me at the [Triton Unmanned Aerial Systems](https://tuas.ucsd.edu/) club working working as a jack-of-all-trades and on 3D path planning for our autonomous plane. I mentor [FIRST Robotics Team 812](https://www.themidnightmechanics.com/) where I hope to inspire high schoolers with a "sense of wonder" through hands on experience.
