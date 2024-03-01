@@ -72,43 +72,40 @@ function getCleanPath() {
   return path;
 }
   
+// Function to increment the overall site view count
+function updateTotalPageViews() {
+  const totalViewsRef = db.collection('siteViews').doc('total');
 
-  // Function to increment view count
-  function updatePageViews() {
-    const pagePath = getCleanPath();
-    const pageRef = db.collection('pageViews').doc(pagePath);
-
-    pageRef.get().then((doc) => {
-      if (doc.exists) {
-        pageRef.update({ views: firebase.firestore.FieldValue.increment(1) });
-      } else {
-        pageRef.set({ views: 1 });
-      }
-    });
-  }
-
-  // Function to display page views
-  // Function to display page views
-function displayPageViews() {
-  const pagePath = getCleanPath(); // Use the getCleanPath function here as well
-  const pageRef = db.collection('pageViews').doc(pagePath);
-
-  pageRef.get().then((doc) => {
+  totalViewsRef.get().then((doc) => {
     if (doc.exists) {
-      document.getElementById('viewCounter').innerText = `Views: ${doc.data().views}`;
+      totalViewsRef.update({ views: firebase.firestore.FieldValue.increment(1) });
     } else {
-      document.getElementById('viewCounter').innerText = 'Views: 0';
+      totalViewsRef.set({ views: 1 });
     }
-  }).catch((error) => {
-    console.error("Error getting document:", error); // For debugging
   });
 }
 
-  // Call the functions when the window loads
-  window.addEventListener('load', function() {
-  updatePageViews();
-  displayPageViews();
+// Function to display the overall site view count
+function displayTotalPageViews() {
+  const totalViewsRef = db.collection('siteViews').doc('total');
+
+  totalViewsRef.get().then((doc) => {
+    if (doc.exists) {
+      document.getElementById('viewCounter').innerText = `Total Views: ${doc.data().views}`;
+    } else {
+      document.getElementById('viewCounter').innerText = 'Total Views: 0';
+    }
+  }).catch((error) => {
+    console.error("Error getting document:", error);
+  });
+}
+
+// Call the functions when the window loads
+window.addEventListener('load', function() {
+  updateTotalPageViews();
+  displayTotalPageViews();
 });
+
 </script>
     
 
