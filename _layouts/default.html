@@ -88,18 +88,21 @@ function getCleanPath() {
   }
 
   // Function to display page views
-  function displayPageViews() {
-    const pagePath = window.location.pathname;
-    const pageRef = db.collection('pageViews').doc(pagePath);
+  // Function to display page views
+function displayPageViews() {
+  const pagePath = getCleanPath(); // Use the getCleanPath function here as well
+  const pageRef = db.collection('pageViews').doc(pagePath);
 
-    pageRef.get().then((doc) => {
-      if (doc.exists) {
-        document.getElementById('viewCounter').innerText = `Views: ${doc.data().views}`;
-      } else {
-        document.getElementById('viewCounter').innerText = 'Views: 0';
-      }
-    });
-  }
+  pageRef.get().then((doc) => {
+    if (doc.exists) {
+      document.getElementById('viewCounter').innerText = `Views: ${doc.data().views}`;
+    } else {
+      document.getElementById('viewCounter').innerText = 'Views: 0';
+    }
+  }).catch((error) => {
+    console.error("Error getting document:", error); // For debugging
+  });
+}
 
   // Call the functions when the window loads
   window.addEventListener('load', function() {
