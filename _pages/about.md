@@ -11,17 +11,20 @@ redirect_from:
  
 About me
 ---
-I'm a postdoctoral research associate in [Kerschensteiner Lab](https://kerschensteinerlab.wustl.edu/). My research aims to answer WHY questions about the neuronal computation and architecture in the brain. I apply a variety of machine learning tools to explore and explain the findings in mouse and human retina in responding to natural movies as well as the corresponding visual-guided behavior. 
+As a Postdoctoral Research Associate in the [Kerschensteiner Lab](https://kerschensteinerlab.wustl.edu/), I am deeply engaged in unraveling the complexities of neuronal computation and architecture within the brain. My research is driven by a profound curiosity to understand the 'why' behind the ways our brain processes information. Leveraging a diverse array of machine learning tools, I delve into the intricacies of how the mouse and human retina respond to natural movies, and how these responses influence visually-guided behavior.
 
-I was a McDonnell International Scholar in the Neuroscience PhD Program at Washington University in St. Louis. In Kerschensteiner Lab, I used two-photon calcium imaging, multi-electrode array and computational modeling to study visual processing in the mouse and human retina. 
+My academic journey was significantly enriched by my tenure as a McDonnell International Scholar in the Neuroscience PhD Program at Washington University in St. Louis. During my time in the Kerschensteiner Lab, I honed my expertise in two-photon calcium imaging, multi-electrode array recordings, and computational modeling, all aimed at decoding visual processing in the retinas of mice and humans.
 
-Before that, I was a visiting scholar in [Parvizi Lab](http://med.stanford.edu/parvizi-lab.html) at Stanford University. Earlier, I was a research assistant at the Institute of Cognitive Neuroscience, National Central University in Taiwan. Earlier, I received my B.S.E. degree in Chemical Engineering from National Taiwan University. 
+Prior to my doctoral studies, I contributed to groundbreaking research as a Visiting Scholar in the [Parvizi Lab](http://med.stanford.edu/parvizi-lab.html) at Stanford University. This followed a period as a Research Assistant at the Institute of Cognitive Neuroscience, National Central University in Taiwan. I having earned a B.S.E. degree in Chemical Engineering from National Taiwan University.
 
-I am married to [Avah Banerjee](https://www.avahbanerjee.com/).
+On a personal note, I am happily married to [Avah Banerjee](https://www.avahbanerjee.com/), and we have a Chihuahua named Mickey. They are the center of my world.
 
 
 Selected Publication
 ----
+* **JC Hsiang**, N Shen, F Soto, D Kerschensteiner.
+  Distributed feature representations of natural stimuli across parallel retinal pathways.
+  _Nature Communications, 2024_ [paper](https://www.nature.com/articles/s41467-024-46348-y)
 * T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.  
   Dendritic and parallel processing of visual threats in the retina control defensive responses.   
   _Science Advances, 2020_ [paper](https://advances.sciencemag.org/content/6/47/eabc9920.abstract)
