@@ -22,6 +22,9 @@ I am married to [Avah Banerjee](https://www.avahbanerjee.com/).
 
 Selected Publication
 ----
+* **JC Hsiang**, N Shen, F Soto, D Kerschensteiner.
+  Distributed feature representations of natural stimuli across parallel retinal pathways.
+  _Nature Communications, 2024_ [paper](https://www.nature.com/articles/s41467-024-46348-y)
 * T Kim, N Shen, **JC Hsiang**, KP Johnson, D Kerschensteiner.  
   Dendritic and parallel processing of visual threats in the retina control defensive responses.   
   _Science Advances, 2020_ [paper](https://advances.sciencemag.org/content/6/47/eabc9920.abstract)
