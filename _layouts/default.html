@@ -61,8 +61,16 @@
 
   var db = firebase.firestore();
 
+  function getCleanPath() {
+  let path = window.location.pathname;
+  // Remove leading and trailing slashes and replace internal slashes with a different character
+  path = path.replace(/^\/|\/$/g, '').replace(/\//g, '_');
+  return path;
+}
+
   // Function to increment view count
   function updatePageViews() {
+    const pagePath = getCleanPath();
     const pagePath = window.location.pathname;
     const pageRef = db.collection('pageViews').doc(pagePath);
 
@@ -90,10 +98,10 @@
   }
 
   // Call the functions when the window loads
-  window.onload = function() {
-    updatePageViews();
-    displayPageViews();
-  }
+  window.addEventListener('load', function() {
+  updatePageViews();
+  displayPageViews();
+});
 </script>
     
 
