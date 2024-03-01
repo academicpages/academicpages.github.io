@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Cristóbal Patiño"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Univerisdad Nacional del Carmen [Facultad de Ingeniería]"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cpatino@pampano.unacar.mx" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
