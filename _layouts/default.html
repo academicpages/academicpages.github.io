@@ -61,12 +61,17 @@
 
   var db = firebase.firestore();
 
-  function getCleanPath() {
+function getCleanPath() {
   let path = window.location.pathname;
+  // Check if the path is just a slash, which is the root of the site
+  if (path === '/') {
+    return 'root'; // Use a placeholder like 'root' for the root path
+  }
   // Remove leading and trailing slashes and replace internal slashes with a different character
   path = path.replace(/^\/|\/$/g, '').replace(/\//g, '_');
   return path;
 }
+  
 
   // Function to increment view count
   function updatePageViews() {
