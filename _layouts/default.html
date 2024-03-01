@@ -12,6 +12,10 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+    <!-- Add Firebase SDK -->
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-analytics.js"></script>
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
@@ -32,10 +36,68 @@
       <footer>
         {% include footer/custom.html %}
         {% include_cached footer.html %}
+	<div id="viewCounter">Views: 0</div>
       </footer>
     </div>
 
     {% include scripts.html %}
+    <!-- Begin: ChatGPT stuff for firebase counter-->
+<script>
+  // Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBHfzThmGgycGkU3bROZBoVSWON08n8yUc",
+    authDomain: "mywebsite-4914a.firebaseapp.com",
+    projectId: "mywebsite-4914a",
+    storageBucket: "mywebsite-4914a.appspot.com",
+    messagingSenderId: "966713391944",
+    appId: "1:966713391944:web:ba2e3ce5166884ec9c117d",
+    measurementId: "G-5DZQBSQQF2"
+  };
 
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  // If using Firebase Analytics
+  firebase.analytics();
+
+  var db = firebase.firestore();
+
+  // Function to increment view count
+  function updatePageViews() {
+    const pagePath = window.location.pathname;
+    const pageRef = db.collection('pageViews').doc(pagePath);
+
+    pageRef.get().then((doc) => {
+      if (doc.exists) {
+        pageRef.update({ views: firebase.firestore.FieldValue.increment(1) });
+      } else {
+        pageRef.set({ views: 1 });
+      }
+    });
+  }
+
+  // Function to display page views
+  function displayPageViews() {
+    const pagePath = window.location.pathname;
+    const pageRef = db.collection('pageViews').doc(pagePath);
+
+    pageRef.get().then((doc) => {
+      if (doc.exists) {
+        document.getElementById('viewCounter').innerText = `Views: ${doc.data().views}`;
+      } else {
+        document.getElementById('viewCounter').innerText = 'Views: 0';
+      }
+    });
+  }
+
+  // Call the functions when the window loads
+  window.onload = function() {
+    updatePageViews();
+    displayPageViews();
+  }
+</script>
+    
+
+
+    <!-- End: ChatGPT stuff for firebase counter-->
   </body>
 </html>
