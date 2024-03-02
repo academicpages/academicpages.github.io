@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-马可，[湖南大学设计艺术学院](http://design.hnu.edu.cn/)设计学博士，本硕博均毕业于[湖南大学](http://www.hnu.edu.cn/)，师从[何人可](http://design.hnu.edu.cn/info/1023/2729.htm)教授。曾获得国家留学基金委资助，公派赴意大利[米兰理工大学设计学院](http://www.dipartimentodesign.polimi.it/en/)进行为期一年的博士联合培养。此外，硕士期间曾赴[台湾实践大学设计学院](http://www.scdesign.usc.edu.tw/)进行了为期半年的交流学习。
+马可，[湖南大学设计艺术学院](http://design.hnu.edu.cn/)设计学博士，本硕博均毕业于[湖南大学](http://www.hnu.edu.cn/)，师从[何人可](http://design.hnu.edu.cn/info/1023/2729.htm)教授。曾获得国家留学基金委(CSC)资助，公派赴意大利[米兰理工大学设计学院](http://www.dipartimentodesign.polimi.it/en/)进行了为期一年的博士联合培养。此外，硕士期间曾赴[台湾实践大学设计学院](http://www.scdesign.usc.edu.tw/)进行了为期半年的交流学习。
 
 
 研究方向
