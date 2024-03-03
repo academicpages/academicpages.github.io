@@ -44,7 +44,7 @@ To achieve this goal, LLMs should be *comprehend instructions and efficiently ad
 Recently, I am more focus on:
 
 
-* <b>Autonomous Agent </b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)) <small> Note that: Currently, I am exploring ways to transform an assistant agent into an autonomous agent. </small> [[Resaerch Talk 2](https://drive.google.com/file/d/1kxnBD_Q-zX5CD7raNSqd9IflbES8HTkW/view?usp=sharing)]
+* <b>Autonomous Agent </b> Developing agents (based on LLMs) that can autonomously interact with the external environment (or humans) to self-improve and drive long-horizon decision-making, thereby accomplishing more complex tasks in the real world ([AgentVerse](https://arxiv.org/abs/2308.10848), [XAgent](https://blog.x-agent.net/about/), [Tool Leaning](https://arxiv.org/abs/2304.08354), [ChatDev](https://arxiv.org/abs/2307.07924)) <small> Note that: Currently, I am exploring ways to transform an assistant agent into an autonomous agent. </small> [[Resaerch Talk 2](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
 
 
 <!-- 
