@@ -74,7 +74,7 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
-* [Feb. 2024] Invited Research Talk at [Microsfot Research - Semantic Machines Team](https://www.alibabagroup.com/en-US/about-alibaba)] hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
+* [Feb. 2024] Invited Research Talk at [Microsfot Research - Semantic Machines Team](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
 * [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba). Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)].
 * [Dec. 2023] I will attend EMNLP (Singapore) and NeurIPS (New Orleans, U.S.A) conference. Welcome DM me via [Twitter](https://twitter.com/thu_yushengsu) / <yushengsu.thu@gmail.com> and say "HI" to me.
@@ -197,7 +197,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com
 -->
 
 ## Talks
-* [Feb. 2024] Invited Research Talk at [Microsfot Research - Semantic Machines Team](https://www.alibabagroup.com/en-US/about-alibaba)] hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
+* [Feb. 2024] Invited Research Talk at [Microsfot Research - Semantic Machines Team](https://www.alibabagroup.com/en-US/about-alibaba) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
 * [Jan. 2024] Invited Research Talk at [Alibaba DAMO Academy](https://www.alibabagroup.com/en-US/about-alibaba)]. Topic: From Assistant Agents (Co-pilots) to Autonomous Agents [[slide](https://drive.google.com/file/d/15WedlWig3TyBXhM43nFAveLARNzAXB5s/view?usp=sharing)]
 * [Jul. 2023] Invited Research Talk at [CMU](https://www.cmu.edu/)/[MBZUAI](https://mbzuai.ac.ae/) hosted by [Eric P. Xing](http://www.cs.cmu.edu/~epxing/). Topic: Efficient Adaptation of Large-scale Pre-trained Language Models [[slide](https://drive.google.com/file/d/1ow2Q-YUOk-Hyvou3VAH88yvGlQzS7SFN/view?usp=sharing)].
 * [Sep. 2022] Invited Talk (on-line) @ [SAP - AI Research](https://www.sap.com/products/artificial-intelligence.html), Headquarter, Germany
