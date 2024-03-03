@@ -7,9 +7,9 @@
 
 .theme-switch {
     display: inline-block;
-    height: 34px;
+    height: 26px; /* Reduced height */
     position: relative;
-    width: 60px;
+    width: 50px; /* Reduced width for smaller slider */
 }
 
 .theme-switch input { 
@@ -31,11 +31,11 @@
     background-color: #f3f3f3;
     bottom: 4px;
     content: "";
-    height: 26px;
+    height: 18px; /* Reduced height */
     left: 4px; /* Initially positioned at the left */
     position: absolute;
     transition: .4s;
-    width: 26px;
+    width: 18px; /* Reduced width */
 }
 
 input:checked + .slider {
@@ -43,7 +43,7 @@ input:checked + .slider {
 }
 
 .slider.round {
-    border-radius: 34px;
+    border-radius: 26px; /* Adjusted for reduced height */
 }
 
 .slider.round:before {
@@ -51,6 +51,6 @@ input:checked + .slider {
 }
 
 input:checked + .slider:before {
-    left: calc(100% - 30px); /* Shifts the slider to the right when checked */
+    left: calc(100% - 22px); /* Adjust left position for smaller button */
 }
 
