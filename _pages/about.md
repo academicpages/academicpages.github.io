@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final year undergraduate at [BITS Pilani, Goa Campus](https://www.bits-pilani.ac.in/goa/) pursuing B. E. Computer Science. My interests lie in **Human Computer Interaction, Game and Web Development, Algorithms, and Natural Language Processing and Parsers**.  
+I am a graduate student at Arizona State University pursuing M. S. Computer Science with a specialization in Cybersecurity. My interests lie at the intersection of **Software and Network Security and Privacy, Artificial Intelligence, Game Development, and Algorithms.**
 
 I am currently working as an undergraduate thesis researcher at IHMI Lab at BITS Pilani under the supervision of [Dr. Surjya Ghosh](https://surjya-ghosh.github.io/) focused on Human Computer Interaction. 
 
