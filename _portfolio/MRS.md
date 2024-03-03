@@ -1,6 +1,6 @@
 ---
 title: "Swimming of a thin filament immersed in a viscous fluid using the Method of Regularized Stokeslet"
-excerpt: "Final project for a special topics course titled _Boundary integral method_ of 22  <br/><img src='/images/anim_RS001.gif'>"
+excerpt: "Final project for a special topics course titled _Boundary integral method_ of 22  <br/><img src='/images/RS1.gif'>"
 collection: portfolio
 ---
 
