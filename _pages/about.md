@@ -221,15 +221,15 @@ Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, 
 
 ## Work Experiences
 
-### Tsinghua University - NLP Lab. (Beijing) 09.2019 - 08.2023
+### Tsinghua University - NLP Lab. (Beijing) 2019 - 2023
 * Ph.D. NLP Group, AI, Computer Science Department 
 * Advised by [Prof. Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) and hosted by [Maosong Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4033.htm).
 
-### MediaTek. (Taiwan) 07.2018 - 08.2019
+### MediaTek. (Taiwan) 2018 - 2019
 * Deep/Machine Learning Engineer Intern
 * Advised by Jing-Han Wang.
 
-### Microsoft. (Taiwan) 07.2015 - 07.2016
+### Microsoft. (Taiwan) 2015 - 2016
 * Research and Development Intern
 * Advised by [Kuang-Chao Yeh](https://www.linkedin.com/in/kuang-chao-yeh/) and [Gordon Chang](https://www.linkedin.com/in/gordonwinnow).
 
