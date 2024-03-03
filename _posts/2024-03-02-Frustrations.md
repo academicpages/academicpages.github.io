@@ -5,7 +5,8 @@ categories:
   - Habits
 ---
 
-{% newthought " today's `free' or consumer internet" %} is built on three principles:
+{% newthought "Autonomy"%} is in short supply because it is not trait that
+is in demand.
 
 
 
