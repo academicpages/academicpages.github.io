@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-10-01-RiskAversion-number-3
 excerpt: 'Do people know their own risk preferences, or do risk choices change with experience and observation?'
 date: 2023-10-01
-venue: 'SSRN'
+venue: 'Journal of Risk and Uncertainty'
 paperurl: '[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4156943](https://link.springer.com/article/10.1007/s11166-023-09413-3#citeas)'
 citation: 'Charness, G., Chemaya, N. & Trujano-Ochoa, D. Learning your own risk preferences. J Risk Uncertain 67, 1–19 (2023). https://doi.org/10.1007/s11166-023-09413-3'
 ---
