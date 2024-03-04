@@ -8,4 +8,6 @@ date: 2021-09-01
 location: "UCSB"
 ---
 
-This was my first experience as an instructor.
+I helped with the preparation of the course before it was implemented.
+Since then, I have served multiple times as the Instructor and TA.
+I was the Head TA for the course in the Winter of 2024.
