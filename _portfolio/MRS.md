@@ -1,6 +1,6 @@
 ---
 title: "Swimming of a thin filament immersed in a viscous fluid using the Method of Regularized Stokeslet"
-excerpt: "Final project for a special topics course titled _Boundary integral method_ <br/><img src='/images/RS1.gif'>"
+excerpt: "Final project for a special topics course titled _Boundary Integral Method_ <br/><img src='/images/RS1.gif'>"
 collection: portfolio
 ---
 
@@ -11,11 +11,9 @@ collection: portfolio
 **Note:** Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
 
 The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows  
-  $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}, \nabla . \textbf{u}=0$$
-where $\mu$ is the fluid viscosity, $p$ is the pressure, $\textbf{u}$ is the velocity, and $\textbf{F}$ is force. A fundamental solution of these equations is called a $Stokeslet$. The particular case of a single force $\mathbf{f}_0$ exerted at $\mathbf{x}_0$ results in a velocity  field given by
+  $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}, \nabla . \textbf{u}=0$$ where $\mu$ is the fluid viscosity, $p$ is the pressure, $\textbf{u}$ is the velocity, and $\textbf{F}$ is force. A fundamental solution of these equations is called a $Stokeslet$. The particular case of a single force $\mathbf{f}_0$ exerted at $\mathbf{x}_0$ results in a velocity  field given by
 $$\mathbf{u}=\frac{\mathbf{f}_0}{8\pi\mu r}+\frac{(\mathbf{f_0\cdot(x-x_0)})(\mathbf{x-x_0})}{8
-\pi\mu r}$$
-where $r=||\mathbf{x-x_0}||$.
+\pi\mu r}$$ where $r=||\mathbf{x-x_0}||$.
 
 Note this solution is undefined at $r=0$ or $\mathbf{x=x}_0$.
 
