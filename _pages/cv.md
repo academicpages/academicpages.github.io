@@ -64,6 +64,8 @@ Skills
 ======
 * English: Fluent
 * Spanish: Native
+* R Programming: tidyverse and ggplot
+* Otree to implement experiments
 * Cumbia Dancer
 * Skateboard (for commuting)
 
