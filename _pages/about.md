@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am at UCSB in the Ph.D. program in economics with an interest in Experimental Economics and Belief Updating. 
-Especially, I am interested in the implication of biases in strategic settings.
+I started my Ph.D. in 2019 at UCSB with an emphasis in the field of Experimental and Behavioral Economics. 
+Especially, I am interested in higher order beliefs, willingness to pay for information, risk preference elicitation and misinformation.
 
-
-I was born in Mexico City, I studied for my college and master's there.
-Before, I got a bachelor's degree in Experimental Psychology 
-and studied a Specialization in Applied Statistics at UNAM.
 I studied for my master's degree in Economics at CIDE.
+Before, I studied a Specialization in Applied Statistics 
+and got a bachelor's degree in Experimental Psychology at UNAM.
+
