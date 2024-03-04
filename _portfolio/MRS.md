@@ -1,6 +1,6 @@
 ---
 title: "Swimming of a thin filament immersed in a viscous fluid using the Method of Regularized Stokeslet"
-excerpt: "Final project for a special topics course titled _Boundary integral method_ of 22  <br/><img src='/images/RS1.gif'>"
+excerpt: "Final project for a special topics course titled _Boundary integral method_ <br/><img src='/images/RS1.gif'>"
 collection: portfolio
 ---
 
@@ -10,9 +10,8 @@ collection: portfolio
 
 **Note:** Source codes are available in [RegularizedStokeslet](https://github.com/muddin21/RegularizedStokeslet).
 
-The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows 
-  $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}$$
-  $$ \nabla \cdot \textbf{u}=0$$
+The fluid flow problems in tiny scales are usually modeled  by the Stokes equations for incompressible flows  
+  $$\mu \Delta \textbf{u}=\nabla p-\textbf{F}, \nabla . \textbf{u}=0$$
 where $\mu$ is the fluid viscosity, $p$ is the pressure, $\textbf{u}$ is the velocity, and $\textbf{F}$ is force. A fundamental solution of these equations is called a $Stokeslet$. The particular case of a single force $\mathbf{f}_0$ exerted at $\mathbf{x}_0$ results in a velocity  field given by
 $$\mathbf{u}=\frac{\mathbf{f}_0}{8\pi\mu r}+\frac{(\mathbf{f_0\cdot(x-x_0)})(\mathbf{x-x_0})}{8
 \pi\mu r}$$
@@ -20,7 +19,9 @@ where $r=||\mathbf{x-x_0}||$.
 
 Note this solution is undefined at $r=0$ or $\mathbf{x=x}_0$.
 
-However, the singularities can be eliminated through the function(usually known as blob function) $\phi_{\delta}(\mathbf{x})$ which is radially symmetric and satisfies that the integral over the space is one. So, considering $\mathbf{F}=\mathbf{f}_0\phi_{\delta}$ the singularity can be removed. The idea is due to [Professor Cortez](https://epubs.siam.org/doi/10.1137/S106482750038146X).
+However, the singularities can be eliminated through the function(usually known as blob function) $\phi_{\delta}(\mathbf{x})$ which is radially symmetric and satisfies that the integral over the space is one. So, considering $$\boldsymbol{F}=\boldsymbol f_0 \phi_{\delta}$$ the singularity can be removed. 
+
+The idea is due to [Professor Cortez](https://epubs.siam.org/doi/10.1137/S106482750038146X).
 
 With the following choice of blob function:
 $$\phi_\delta(r)=\dfrac{15\delta^4}{8\pi(r^2+\delta^2)^{\frac{7}{2}}}$$
@@ -29,7 +30,7 @@ $$\vec{u}(x)=\boldsymbol f_0 \dfrac{r^2+2\delta^2}{8\pi\mu(r^2+\delta^2)^{\frac{
 
 
 
-## Swimming of filament immersed in a viscous fluid
+## Swimming filament immersed in a viscous fluid
 
 We suppose the slender body is a sine wave,
 $$y(s)=A\cos(\lambda s-2\pi t),z(s)=0$$
