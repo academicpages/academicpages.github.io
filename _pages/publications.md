@@ -7,9 +7,13 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en).
 
+<b>[Intergenerational Social Mobility Among the
+Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and Disadvantage](http://mebucca.github.io/research/sm2g)</b><br>
+<b>Mauricio Bucca</b>, Lucas Drouhot. <i>Sociological Science</i>, [forthcoming]. 
+
 <b>[Heatmaps for Patterns of Association in log-Linear Models](http://mebucca.github.io/research/viz_llm)</b><br>
 <b>Mauricio Bucca</b>. <i>Socius</i>, 2020. 
-    
+
 <b>[It’s not just how the game is played, it’s whether you win or lose](http://mebucca.github.io/research/beliefs_experiment)</b><br>
 Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>, 2019. Media Coverage: [New York Times](https://mebucca.github.io/files/papers/beliefs_experiment_nyt.pdf), [Washington Post](https://mebucca.github.io/files/papers/beliefs_experiment_wp.pdf),
 [New Scientists](https://mebucca.github.io/files/papers/beliefs_experiment_ns.pdf), [Science Daily](https://mebucca.github.io/files/papers/beliefs_experiment_sd.pdf), [Cornell Chronicle](https://mebucca.github.io/files/papers/beliefs_experiment_cc.pdf), [De Correspondent (in Dutch)](https://mebucca.github.io/files/papers/beliefs_experiment_dc.pdf), [Esquire (in Italian)](https://mebucca.github.io/files/papers/beliefs_experiment_es.pdf)   
