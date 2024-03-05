@@ -7,10 +7,12 @@ author_profile: true
 
 ## Working papers
 
-<b>[Intergenerational Social Mobility Among the
-Children of Immigrants in Western Europe: Between Assimilation and Disadvantage](http://mebucca.github.io/research/sm2geu)</b><br>
-<b>Mauricio Bucca</b>, Lucas Drouhot. <i>Under Review</i>. 
 
+<b>[Are within-racial group inequalities by skin color *really* greater than inequalities between racial groups in the United States?](http://mebucca.github.io/research/viz_skin)</b><br>
+<b>Mauricio Bucca</b>.  Under Review.
+
+<b>[Colorism revisited: the effects of skin color on educational and labor market outcomes in the United States](http://mebucca.github.io/research/skincolor)</b><br>
+<b>Mauricio Bucca</b>.  Under Review.
 
 <b>[Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation](http://mebucca.github.io/research/bw_sc)</b><br>
 <b>Mauricio Bucca</b>.

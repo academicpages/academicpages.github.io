@@ -7,6 +7,12 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en).
 
+
+<b>[Intergenerational Social Mobility Among the
+Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and Disadvantage](http://mebucca.github.io/research/sm2geu)</b><br>
+<b>Mauricio Bucca</b>,  Lucas Drouhot. <i>Sociological Science</i>, [forthcoming]. 
+
+
 <b>[Heatmaps for Patterns of Association in log-Linear Models](http://mebucca.github.io/research/viz_llm)</b><br>
 <b>Mauricio Bucca</b>. <i>Socius</i>, 2020. 
     
