@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arshia Hemmat / Arshia Hemmat"
+title                    : "Arshia Hemmat / Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Arshia Hemmat"
 description              : &description "Researcher at TUM"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Arshia Hemmat"
-  avatar           : "profile.png"
+  avatar           : "arshia.jpeg"
   bio              : "Researcher at Technical University of Munich"
   location         : "Tehran"
   employer         :
