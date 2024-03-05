@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
+title: "Deep Learning"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+permalink: /teaching/deep-learning-2021-fall
+venue: "Sharif University of Technology, Department of EE"
+date: 2023
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+---
+title: "Machine Learning"
+collection: teaching
+type: "undergraduate course"
+permalink: /teaching/deep-learning-2021-fall
+venue: "University of Isfahan, Department of CE"
+date: 2023
+location: "Isfahan, Iran"
+---
