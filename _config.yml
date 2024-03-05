@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "de_DE"
+locale                   : "en_US"
 title                    : "Geography and Music: Personal Website Jan Niklas"
 title_separator          : "-"
 name                     : &name "Jan"
