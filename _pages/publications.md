@@ -7,6 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=nD0LNU4AAAAJ&hl=en).
 
+
 <b>[Intergenerational Social Mobility Among the
 Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and Disadvantage](http://mebucca.github.io/research/sm2g)</b><br>
 <b>Mauricio Bucca</b>, Lucas Drouhot. <i>Sociological Science</i>, [forthcoming]. 
