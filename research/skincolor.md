@@ -4,7 +4,7 @@ collection: research
 permalink: /research/skincolor
 citation: '<b>Mauricio Bucca</b>.'
 ---
-[[PDF]](https://mebucca.github.io/files/papers/skincol.pdf)
+
 
 
 ## Abstract
