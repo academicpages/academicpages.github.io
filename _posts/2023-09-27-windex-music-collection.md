@@ -2,7 +2,6 @@
 title: 'Window as an Instrument: A Collection'
 date: 2023-09-27
 permalink: /windex/
-excerpt: 
 redirect_from:
   - /windex-music/
 tags:

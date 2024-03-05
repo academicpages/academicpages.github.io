@@ -2,7 +2,6 @@
 title: 'Junior year of UCSD in review'
 date: 2023-08-30
 permalink: /junior-year/
-excerpt: 
 tags:
   - UCSD
   - undergrad
