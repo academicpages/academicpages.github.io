@@ -1,0 +1,11 @@
+---
+title: "3D Vessel Segmentation Using Geometric Approaches"
+collection: research-experiences
+type: "Research Experience"
+permalink: /research-experiences/3d-vessel-segmentation
+venue: "Technical University of Munich, Computer Aided Medical Procedures (CAMP)"
+date: 2023-05-01
+location: "Munich, Germany"
+---
+
+This research focuses on leveraging geometric deep learning techniques for the accurate segmentation of blood vessels in 3D medical images. The aim is to enhance diagnostic and therapeutic procedures in medicine, showcasing the potential of geometric approaches in complex image segmentation tasks.
