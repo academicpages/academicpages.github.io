@@ -25,7 +25,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     <li>Programmatic Imitation Learning from Unlabeled and Noisy Demonstrations
     <br />
     <font size="3">
-      (Jimmy Xin, Linus Zheng, Jiayi Wei, <b>Kia Rahmani</b>, Jarrett Holtz, Isil Dillig, Joydeep Biswas)
+      (Jimmy Xin*, Linus Zheng*, <b>Kia Rahmani</b>, Jiayi Wei, Jarrett Holtz, Isil Dillig, Joydeep Biswas)
     </font> 
     <br /> 
     <font size="2">
