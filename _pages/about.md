@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I've put a link to my resume in the links on the left under the website option.
+
 
 My internship at Technical University of Munich
 ------
