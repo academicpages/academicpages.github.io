@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en_US"
-title                    : "Geography and Music: Personal Website Jan Niklas"
+title                    : "I am a Geographer and Musician based in Hanover, Germany"
 title_separator          : "-"
 name                     : &name "Jan Niklas"
 description              : &description "welcome to my space :)"
