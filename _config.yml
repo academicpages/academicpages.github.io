@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "de_DE"
-title                    : "Your Name / Site Title"
+title                    : "Geography and Music: Personal Website Jan Niklas"
 title_separator          : "-"
 name                     : &name "Jan"
 description              : &description "welcome to my space!"
