@@ -10,9 +10,9 @@
 locale                   : "en_US"
 title                    : "Geography and Music: Personal Website Jan Niklas"
 title_separator          : "-"
-name                     : &name "Jan"
+name                     : &name "Jan Niklas"
 description              : &description "welcome to my space :)"
-url                      : https://schmidjan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jnschmd44.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jnschmd44/jnschmd44.github.io"
 
