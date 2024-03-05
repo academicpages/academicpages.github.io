@@ -17,7 +17,7 @@ I came upon Mr. Decurtins under the most unusual circumstances. My highschool ph
 
 Mr. Decurtins overflows with curiosity and has truly inspired me with his motto of instilling a *sense of wonder*. Each class started with a "sense of wonder" section where he would pull up a student submitted image. Mr. Decurtins would ask the class questions and try to explain the pictured phenomenon. I wish more teachers would motivate their classes and teach students to wonder.
 
-<a title="Stefan Krause, Germany, FAL, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_brennt_durch.jpg"><img alt="Glühwendel brennt durch" src="../images/teachers/719px-Glühwendel_brennt_durch.jpg"></a>
+<a title="Stefan Krause, Germany, FAL, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_brennt_durch.jpg"><img alt="Glühwendel brennt durch" src="../images/teachers/719px-Glühwendel_brennt_durch.webp"></a>
 Source: <a href="https://commons.wikimedia.org/wiki/File:Gl%C3%BChwendel_brennt_durch.jpg">Stefan Krause, Germany</a>, FAL, via Wikimedia Commons
 
 Mr. Decurtins sometimes told stories. I'll do my best to share my favorite story.
@@ -26,7 +26,7 @@ Mr. Decurtins sometimes told stories. I'll do my best to share my favorite story
 
 Without a doubt, Mr. Decurtins is the most amazing teacher I have ever had. He put every ounce of energy he had into teaching the class. Mr. Decurtins had us do online homework assignments so that we could get feedback in real time. Online homework is much more common now, but I spent all of my schooling years submitting paper homeworks, handwriting essays, and printing out research papers. Mr. Decurtins was famous for responding to emails at any hour of the day, within minutes. His experiment-driven teaching style is the most fun I have ever had. He started the tradition of cardboard boat races in the physics class. At the end of the year, students make boats out of cardboard and duct tape, sit in them, and race them across the pool[^1].
 
-![](../images/teachers/Struggle-Bus-at-M-A-cardboard-boat-races1.jpg)
+![](../images/teachers/Struggle-Bus-at-M-A-cardboard-boat-races1.webp)
 Source: [InMenlo](https://inmenlo.com/2013/06/01/spotted-cardboard-boat-races-at-menlo-atherton/)
 
 I still remember his hands-on labs, hilarious stories, and dedication to teaching. 
@@ -86,7 +86,7 @@ Harsh Gondaliya, Calvin Lee, and Shreyas Ramaprasad saved me from one of the har
 
 Aidan is an intellectual who really knows his stuff. He somehow made the esoteric philosophies of Haskell make sense.
 
-![are you my beta step? because my life has no normal form without you <3 good luck everyone!](../images/teachers/blackboard.png)
+![are you my beta step? because my life has no normal form without you <3 good luck everyone!](../images/teachers/blackboard.webp)
 
 ## Best administrators:
 
