@@ -1,0 +1,145 @@
+---
+title: "TP terra"
+format: html
+editor: source
+---
+
+```{r}
+# Charger les bibliothèques nécessaires
+library(terra)
+library(tidyterra)
+library(geodata)
+library(ggplot2)
+```
+
+# Exercices avec Terra
+# Importer le Raster d'Azote
+
+Pour travailler avec les rendements de blé à l'échelle mondiale, nous allons télécharger un raster.
+
+```{r}
+gph <- crop_monfreda("wheat","yield", path=tempdir())
+```
+
+
+## Graphique
+
+Faites un graphique du raster gph en utilisant ggplot2 et Tidyterra
+
+```{r}
+
+```
+
+## La résolution est trop élévé pour le TP, 
+
+## Résolution, Valeurs Max et Min
+```{r}
+# Trouver la résolution
+resolution <-
+
+# Valeur max
+max_value <-
+
+# Valeur min
+min_value <-
+```
+
+##Changer le CRS du raster, utiliser un CRS de votre choix
+
+Vous pouvez consulter https:/epsg.Io/ qui recense toutes les différents CRS avec leurs codes EPSG corresôndant.
+
+```{r}
+# Changer le CRS
+new_crs <-
+```
+
+## Renommer la Couche
+
+Reprendre le raster gph d'origine i.e CRS non modifié
+```{r}
+# Modifier le nom de la couche de raster
+gph <-
+```
+
+## Calculer la Moyenne
+```{r}
+# Calculer les valeurs moyennes du raster
+raster_mean <-
+```
+
+## Reclassifier les Valeurs du Raster
+
+Utiliser une table de valeur de votre choix
+
+```{r}
+# Reclassifier les valeurs du raster
+reclassified <-
+```
+
+## Opération Mathématique sur le Raster
+
+Avec le raster gph, multiplier les valeurs du raster par un 3
+
+```{r}
+multiplied_raster <-
+```
+
+## Créer un Histogramme des Valeurs du Raster
+```{r}
+# Créer un histogramme des valeurs du raster
+histogram <-
+```
+
+## Exporter le Raster
+```{r}
+# Exporter le raster 
+
+```
+
+## Statistiques Descriptives du Raster
+
+En utilisant le raster gph, calculer les statistiques descriptives du raster
+
+```{r}
+# Calculer les statistiques descriptives du raster
+summary_stats <-
+```
+
+
+# Importer un Fichier Vectoriel
+
+```{r}
+# Définir le chemin du fichier vectoriel
+path_vect <- system.file("ex/lux.shp", package = "terra")
+
+# Importer le fichier vectoriel
+lux_shp <-
+```
+
+## Extraction d'Informations pour le Luxembourg
+
+Extraire les données de rendement du raster gph pour le Luxembourg
+
+
+```{r}
+cropped_raster <-
+```
+
+
+## Graphiques
+
+Faites un graphique superposant le raster cropped_raster and le fichier vectorielle lux_shp en utilisant ggplot2 et Tidyterra
+
+```{r}
+plot <-
+```
+
+
+## Calcul des Niveaux Moyens d'Azote par Canton
+
+Calculer les rendements moyens de blé pour chaque canton, utiliser le raster cropped_raster
+
+```{r}
+mean_yield_canton <-
+```
+

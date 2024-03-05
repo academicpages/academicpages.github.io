@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Early Forecasting of Corn Yield and Price Variations Using Satellite Vegetation Products"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-04-17-early-forecasting-corn-yield
+excerpt: 'This paper discusses early forecasting of corn yield and price variations using satellite vegetation products.'
+date: 2023-04-17
+venue: 'SSRN'
+paperurl: 'https://doi.org/10.2139/ssrn.4421600'
+citation: 'Teste, F., Makowski, D., Bazzi, H., Ciais, P. (2023). &quot;Early Forecasting of Corn Yield and Price Variations Using Satellite Vegetation Products.&quot; <i>SSRN</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abtract**
+Several approaches based on process-based, statistical or economic models have been developed and are currently used by market analysts and governmental agencies to forecast agricultural yields and commodity prices at the national and global scales. However, these models require input data that are often difficult to obtain before crop harvest and their predictions are not always reliable. Satellite data products provide easily accessible sources of information on vegetation characteristics, potentially relevant for predicting crop yield and commodity prices at a large scale, before harvest. This study presents and evaluates several methods for forecasting variations in US
+corn yield and global corn prices using regional vegetation satellite products. The spatial dimension of maps of vegetation indices derived from satellite products in the US Corn Belt is first reduced either by their spatial means or by principal components derived using the Empirical Orthogonal Function (EOF) method. Mean values and EOF principal components are then used as explanatory variables in generalized LASSO linear models to forecast corn price and yield changes at different time horizons, before harvest. A cross-validation method was implemented to assess the model
+performances using Area under the ROC curve (AUC), the Brier Skill Score (BSS) and the Matthew Correlation Coefficient (MCC). The results revealed that EOF principal components derived from satellite-based gross primary production (GPP) in July could be used to predict variations in US corn yields, with an AUC of 0.97 (95% CI 0.92-1), a BSS of 0.75 and an MCC of 0.83. The results also showed that the July spatial averages of satellite GPP data obtained in the US Corn Belt could be used to forecast the forthcoming increase or decrease of global corn prices as evidenced by an AUC reaching up to 0.91, a BSS up to 0.5, and an MCC up to 0.67. Finally, we compared our forecasts of yield and price variations to those derived from the WASDE forecasting method currently implemented in the US. This comparison showed that our approach was at least as accurate and often more accurate than WASDE. This study demonstrates how satellite data can be used to forecast variations in crop yields and corn prices several months before harvest. 

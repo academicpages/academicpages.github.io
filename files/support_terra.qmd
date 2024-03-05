@@ -1,0 +1,574 @@
+---
+title: "Happy R : package terra"
+author: "Florian Teste & Jérémy Lamouroux"
+format: html
+smooth-scroll: true
+editor: visual
+css: style.css
+code-fold: show
+code-tools: true
+toc : true
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: justify
+# Package terra
+
+Ce Quarto se base sur le travail de ; [Timothée Giraud & Hugues Pecout](https://rcarto.github.io/geomatique_avec_r/les-donn%C3%A9es-raster-le-package-terra.html).
+
+## Présentation des objets `SpatVector` & `SpatRaster`
+
+Le package R appelé `terra` est un outil puissant pour gérer des données spatiales, qu'elles soient de type vectoriel ou raster. Il permet de manipuler ces données en les stockant dans des structures spécifiques, à savoir les objets de type `SpatVector` et `SpatRaster`.
+
+Un objet `SpatVector` est principalement utilisé pour représenter des données vectorielles. Ces données décrivent la géométrie ou la forme d'objets géographiques et peuvent également contenir des informations supplémentaires. Par exemple, un jeu de données vectorielles peut décrire les frontières des pays du monde (en termes de géométrie) tout en incluant des informations telles que les noms des pays et leur population en 2015. Il peut également être utilisé pour représenter des éléments comme les réseaux routiers avec leur géométrie, leur type et leurs noms.
+
+En revanche, un objet `SpatRaster` est conçu pour stocker des données sous forme matricielle. Ces rasters sont couramment utilisés pour représenter des phénomènes continus dans l'espace, comme l'altitude du terrain. Ils subdivisent la surface terrestre en une grille de rectangles de taille égale, appelés cellules ou pixels, chacun ayant une ou plusieurs valeurs associées (ou parfois des valeurs manquantes) pour les variables d'intérêt. La valeur d'une cellule dans un raster représente généralement la valeur moyenne ou dominante de la zone qu'elle couvre.
+
+Ci-dessous les différents packages utilisés au cours de cet atelier :
+
+-   Le package [`terra`](https://cran.r-project.org/web/packages/terra/index.html) permet d'importer et d'exporter des fichiers raster. Il repose sur la bibliothèque [GDAL](https://gdal.org/) qui permet de lire et de traiter un très grand nombre de format d'images géographiques.
+
+-   Le package [`ggplot2`](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)Un système pour créer des graphiques de manière "déclarative", basé sur "La grammaire des graphiques". Vous fournissez les données, dites à 'ggplot2' comment faire correspondre les variables à l'esthétique, quelles primitives graphiques utiliser, et il s'occupe des détails.
+
+-   Le package [`tidyterra`](https://rdrr.io/cran/tidyterra/)Extension de 'tidyverse' pour les objets 'SpatRaster' et 'SpatVector' du package 'terra'. Elle inclut également de nouvelles fonctions 'geom\_' qui fournissent un moyen pratique de visualiser les objets 'terra' avec 'ggplot2'.
+
+-   Le package [`dplyr`](https://cran.r-project.org/web/packages/dplyr/index.html)Un outil rapide et cohérent pour travailler avec des objets de type dataframe, à la fois en mémoire et hors mémoire.
+
+-   Le package [`geodata`](https://cran.r-project.org/web/packages/geodata/index.html)Fonctions de téléchargement de données géographiques destinées à l'analyse spatiale et à la cartographie. Le logiciel facilite l'accès au climat, aux cultures, à l'altitude, à l'utilisation des terres, au sol, à la présence d'espèces, à l'accessibilité, aux limites administratives et à d'autres données.
+
+-   le package [`gridExtra`](https://cran.r-project.org/web/packages/gridExtra/index.html) Fournit un certain nombre de fonctions au niveau de l'utilisateur pour travailler avec des graphiques "en grille", notamment pour organiser plusieurs tracés en grille sur une page et dessiner des tableaux.
+
+-   le package [`ggspatial`](https://cran.r-project.org/web/packages/ggspatial/index.html) Pour ajouter des options dans nos graphiques spatiaux.
+
+```{r terra, message=FALSE, warning=FALSE}
+library(terra)
+library(ggplot2)
+library(tidyterra)
+library(dplyr)
+library(geodata)
+library(gridExtra)
+library(ggspatial)
+```
+
+## Import et export de données `SpatRaster`
+
+La fonction `rast()` permet de créer et/ou d'importer des données raster. Les lignes suivantes importent le fichier raster **elev.tif** ([*Tagged Image File Format*](https://fr.wikipedia.org/wiki/Tagged_Image_File_Format)) dans un objet de type `SpatRaster` (par défaut).
+
+```{r import_raster, message=FALSE}
+rep <- system.file("ex/elev.tif", package="terra")
+#Altitude au Luxembourg
+elevation <- rast(rep)
+elevation
+```
+
+Modification du nom de la variable stockée (altitude).
+
+```{r names_raster, message=FALSE}
+names(elevation) <- "Altitude" 
+elevation
+```
+
+La fonction `writeRaster()` permet d'enregistrer un objet `SpatRaster` sur votre machine, dans le format de votre choix.
+
+```{r export_raster, eval=FALSE}
+writeRaster(x = elevation, filename = paste(rep,"new_elevation_Lot.tif", sep="/"))
+```
+
+## Utilisation des données `SpatVector`
+
+Import de données vectorielles (découpages communaux) avec la fonction `vect`. Ces données seront stockées dans un objet `SpatVector`.
+
+La fonction `gadm()` permet d'importer une carte du Luxembourg au format SpatVector.
+
+```{r crop_raster, eval=TRUE}
+pathshp <- system.file("ex/lux.shp", package = "terra")
+LUX<- vect(pathshp)
+
+#LUX <- gadm(country = "LUX", level=1, path = tempdir())
+
+plot(LUX)
+LUX
+```
+
+### Geometrie et attributs
+
+Pour extraire les attributs (data.frame) d'un SpatVector, utilisez :
+
+```{r}
+d <- as.data.frame(LUX)
+head(d)
+```
+
+Vous pouvez également extraire la géométrie sous la forme d'une matrice (ce qui est rarement nécessaire).
+
+```{r}
+g <- geom(LUX)
+head(g)
+```
+
+Ou comme sous forme de texte
+
+```{r}
+g <- geom(LUX, wkt=TRUE)
+substr(g, 1, 50)
+```
+
+### Variables
+
+Vous pouvez extraire une variable comme vous le feriez avec un `data.frame`.
+
+```{r}
+LUX$NAME_1
+```
+
+Pour extraire l'information d'un SpatVector à une ou plusieurs variables, vous pouvez utiliser la notation ci-dessous. Notez la différence avec l'exemple précédent. L'exemple précédent renvoie un vecteur de valeurs. Avec l'approche ci-dessous, vous obtenez un nouveau SpatVector avec une seule variable.
+
+```{r}
+LUX[, "NAME_1"]
+```
+
+Vous pouvez ajouter une nouvelle variable à un `SpatVector` comme s'il s'agissait d'un `data.frame`.
+
+```{r}
+set.seed(0)
+LUX$lets <- sample(letters, nrow(LUX))
+LUX
+```
+
+Notez que pour obtenir le nombre de géométries du SpatVector `LUX`, vous pouvez utiliser `nrow(LUX)`, ou `size(LUX)`. Vous pouvez aussi utiliser `perim(LUX)` pour obtenir la "longueur" des objets spatiaux (zéro pour les points, la longueur des lignes, ou le périmètre des polygones).
+
+```{r}
+perim(LUX)
+```
+
+Attribution d'une nouvelle valeur à une variable existante.
+
+```{r}
+LUX$lets <- sample(LETTERS, nrow(LUX))
+head(LUX)
+```
+
+Pour se débarrasser d'une variable, il suffit de lui attribuer la valeur `NULL`.
+
+```{r}
+LUX$lets <- NULL
+```
+
+## Affichage d'un objet SpatRaster
+
+La fonction `plot` ou `ggplot()` permet d'afficher un objet `SpatRaster`.
+
+```{r affichage_1_raster, eval=TRUE, fig.align='center', fig.width=6}
+plot(elevation)
+```
+
+```{r affichage_2_raster, eval=TRUE, fig.align='center', fig.width=6}
+ggplot() +
+    tidyterra::geom_spatraster(data = elevation, maxcell = 5e+07) +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent") +
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) + 
+    theme_classic() +
+    labs(title = "Carte de l'altitude Luxembourg", fill = "Altitude en m", size =10)  
+```
+
+## Modifications de la zone d'étude
+
+### (Re)projections
+
+Pour modifier le système de projection d'un raster, utilisez la fonction `project()`. Il est alors nécessaire d'indiquer la méthode d'estimation des nouvelles valeurs des cellules. Vous pouvez consulter <https:/epsg.Io/> qui recense tous les CRS dispopnibles avec leurs codes EPSG correspondant.
+
+```{r project_raster, eval=TRUE, fig.align='center', out.width="95%"}
+elevation_reproj <- terra::project(elevation, "EPSG:2154")
+```
+
+### Crop
+
+Le découpage d'un raster en fonction de l'étendue d'un autre objet `SpatVector` ou `SpatRaster` est réalisable avec la fonction `crop()`.
+
+Extraction des districtes du Luxembourg.
+
+```{r crop_raster_1, eval=TRUE}
+Diekirch <- LUX[LUX$NAME_1 == "Diekirch"]
+Grevenmacher <- subset(LUX, LUX$NAME_1 == "Grevenmacher", c("NAME_1"))
+ggplot() +
+    tidyterra::geom_spatvector(data = Grevenmacher, fill="transparent") +
+    theme_classic()  
+```
+
+Utilisation de la fonction `crop()`. Les deux couches de données doivent être dans la même projection.
+
+```{r crop_raster_2, eval=TRUE}
+elevation
+crop_Lux_Diekirch <- crop(elevation, Diekirch, mask=TRUE)
+crop_Lux_Grevenmacher <- crop(elevation, Grevenmacher, mask=TRUE)
+```
+
+Affichage des crops avec plot
+
+```{r crop_raster_3, eval=TRUE, fig.align='center', fig.width=6}
+plot(LUX)
+plot(crop_Lux_Grevenmacher, add=TRUE, legend=FALSE)
+```
+
+Affichage des crops avec ggplot et tidyterra
+
+```{r crop_raster_4, eval=TRUE, fig.align='center', fig.width=6}
+ggplot() +
+    geom_spatraster(data = crop_Lux_Grevenmacher, maxcell = 5e+07) +
+    geom_spatvector(data=LUX, fill = "NA") +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent") +
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+    theme_classic() +
+    labs(title = "Carte de l'altitude de Grevenmacher", fill = "Altitude en m", size =10)  
+
+```
+
+## Agrégation & désagrégation
+
+Le ré-échantillonnage d'un raster dans une résolution différente se fait en deux étapes.
+
+Afficher la résolution d'un raster avec la fonction `res()`.
+
+```{r agr_raster, eval=TRUE}
+# Taille des cellules ?
+res(elevation_reproj) 
+```
+
+Créer une grille de même étendue, puis en diminuer la résolution spatiale (plus grosses cellules).
+
+```{r agr_raster_1, eval=TRUE}
+elevation_reproj_LowerGrid  <- elevation_reproj
+# Tailles des cellules = 500 mètres
+res(elevation_reproj_LowerGrid) <- 500
+# res(Elevation_HigherGrid) <- 10
+elevation_reproj_LowerGrid
+```
+
+La fonction `resample()` permet de ré-échantillonner les valeurs de départ dans la nouvelle résolution spatiale.
+
+```{r agr_raster_2, eval=TRUE, fig.align='center', fig.width=6}
+
+elevation_reproj_LowerGrid <- resample(elevation_reproj, 
+                                elevation_reproj_LowerGrid, threads = 10) 
+
+#plot(elevation_reproj_LowerGrid, main="Taille des cellules = 500m\nMéthode de ré-échantillonnage")
+ggplot() +
+    geom_spatraster(data = elevation_reproj_LowerGrid, maxcell = 5e+07) +
+    coord_sf(crs = 2154, datum = sf::st_crs(2154)) +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent") +
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+    theme_classic() +
+    labs(title = "Taille des cellules = 500m\nMéthode de ré-échantillonnage", fill = "Altitude en m", size =10) 
+```
+
+### Fusion de raster
+
+Fusionner plusieurs objets `SpatRaster` en un seul avec `merge()` ou `mosaic()`.
+
+Les rasters d'élévation **crop_Lux_Diekirch** et **crop_Lux_Grevenmacher** sont des découpages du raster élevation du Luxembourg par district. Nous allons maintenant les réassembler.
+
+La différence entre les fonctions `merge()` ou `mosaic()` concerne les valeurs des cellules qui se superposent. La fonction `mosaic()` calcule la valeur moyenne, tandis que `merge()` conserve la valeur du premier objet `SpatRaster` appelé dans la fonction.
+
+fonction merge
+
+```{r merge_raster_1, eval=TRUE, fig.align='center', fig.width=6}
+# Dans cet exemple, merge() et mosaic() donnent le même résultat
+merge_raster <- merge(crop_Lux_Diekirch, crop_Lux_Grevenmacher)
+
+plot(merge_raster)
+```
+
+fonction mosaic
+
+```{r mosaic_raster_1, eval=TRUE, fig.align='center', fig.width=6}
+crop_Lux_Diekirch2 <- crop_Lux_Diekirch$Altitude + 1000
+# Dans cet exemple, merge() et mosaic() donnent le même résultat
+mosaic_raster <- mosaic(crop_Lux_Diekirch, crop_Lux_Diekirch2, fun=sum)
+
+plot(mosaic_raster)
+```
+
+## Algèbre spatial
+
+L'algèbre spatial se classifie en quatre groupes d'opération \[\@Tomlin_1990\] :
+
+-   ***Local*** : opération par cellule, sur une ou plusieurs couches;\
+-   ***Focal*** : opération de voisinage (cellules environnantes);\
+-   ***Zonal*** : pour résumer les valeurs matricielles pour certaines zones, généralement irrégulières;\
+-   ***Global*** : pour résumer les valeurs matricielles d'une ou plusieurs matrices.
+
+### Opérations locales
+
+<!-- Les opérations locales concernent les calculs réalisés indépendamment sur une cellule, à partir d'une ou plusieurs couches (matrices).  -->
+
+#### Remplacement de valeur
+
+```{r op_local_0, eval=TRUE}
+elevation_test<- elevation
+# Remplace les valeurs -9999 par NA
+elevation_test[elevation_test[[1]]== -9999] <- NA
+
+# Remplace les valeurs < 1500 par NA
+elevation_test[elevation_test< 250]  <- NA
+plot(elevation_test)
+```
+
+```{r op_local_00, eval=TRUE}
+# Remplace les valeurs NA par 0
+elevation_test[is.na(elevation_test)] <- 0
+```
+
+#### Opération sur chaque cellule
+
+```{r op_local_1, eval=TRUE}
+
+# Ajout de 1000 à la valeur de chaque cellule
+elevation_test<-  elevation_test+ 1000
+
+# Suppression de l'altitude médiane à la valeur de chaque cellule
+elevation_test_median <-  elevation_test- global(elevation_test, median)[[1]]
+```
+
+```{r op_local_2, eval=TRUE,  fig.align='center', fig.width=8}
+#par(mfrow=c(1,2), mar=c(0,0,0,0))
+#plot(elevation_test, main="elevation_test\nElevation + 1000")
+#plot(elevation_test_median, main="elevation_test_median\nElevation - median value")
+
+plot1 <- ggplot() +
+    geom_spatraster(data = elevation_test, maxcell = 5e+07) +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent") +
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+    theme_classic() +
+    labs(title = "Taille des cellules = 500m\nMéthode de ré-échantillonnage", fill = "Altitude en m", size =10) 
+plot2 <- ggplot() +
+    geom_spatraster(data = elevation_test_median, maxcell = 5e+07) +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent")+
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+    theme_classic() +
+    labs(title = "Taille des cellules = 500m\nMéthode de ré-échantillonnage", fill = "Altitude en m", size =10) 
+
+gridExtra::grid.arrange(plot1, plot2, ncol = 2)
+```
+
+#### Reclassification
+
+La reclassification des valeurs d'un raster peut aussi bien être utilisée pour discrétiser des données quantitatives que pour catégoriser des modalités qualitatives.
+
+Cela permet, par exemple, de répartir les différentes strates d'altitude selon cinq découpages désirés : altitude entre 0 et 200 mètres, altitude entre 200 et 400 mètres, etc. Pour cela, il est d'abord nécessaire de construire la table (matrice) de correspondance.
+
+```{r reclass_2, eval=TRUE}
+reclassif <- matrix(c(0, 199, 1, 
+                      200, 299, 2, 
+                      300, 399, 3, 
+                      400, 499, 4,
+                      500, 599, 5
+                      ), 
+                    ncol = 3, byrow = TRUE)
+
+```
+
+Les valeurs comprises entre 0 et 199 seront remplacées par la valeur 1.\
+Les valeurs comprises entre 200 et 299 seront remplacées par la valeur 2.\
+Les valeurs comprises entre 300 et 399 seront remplacées par la valeur 3.\
+...
+
+```{r reclass_3, eval=TRUE}
+reclassif
+```
+
+La fonction `classify()` permet de réaliser la reclassification.
+
+```{r reclass_4, eval=TRUE}
+elevation_5class <- classify(elevation, rcl = reclassif, others=NA)
+
+plot(elevation_5class, type ="classes")
+```
+
+Affichage avec les intitulés et couleurs officiels des différentes catégories.
+
+```{r reclass_6, eval=TRUE, fig.align='center', out.width="80%"}
+#dev.off()
+#plot(elevation_5class, 
+#     type ="classes", 
+#     levels=c("Inférieur à 200m",
+#              "Entre 200m et 299m",
+#              "Entre 300m et 399m",
+#              "Entre 400m et 499m",
+#              "Entre 500m et 599m"),
+#     mar=c(3, 1.5, 1, 11))
+
+custom_labels <- c("1" = "Inférieur à 200m", 
+                   "2" = "Entre 200m et 299m",
+                   "3" = "Entre 300m et 399m",
+                   "4" = "Entre 400m et 499m",
+                   "5" = "Entre 500m et 599m")
+
+elevation_5class_f <- as.factor(elevation_5class)
+ggplot() +
+  geom_spatraster(data = elevation_5class_f) + 
+  scale_fill_whitebox_d(palette="atlas", labels = custom_labels,direction=-1) +
+  ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+  ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+  labs(title = "Transformation en 5 classes de la variable altitude",fill = "Altitude en m") +
+  theme_classic()
+
+```
+
+#### Fonction extract: extrait les valeurs d'un SpatRaster à partir d'un SpatVector
+
+```{r exctract1, eval=TRUE, fig.align='center', out.width="80%"}
+xy <- cbind(895968.9, 7016047)
+xy <- rbind(xy-100, xy, xy+1000)
+```
+
+Nous pouvons créer des points aléatoires à l'intérieur du Luxembourg par échantillonnage aléatoire.
+
+```{r exctract2, eval=TRUE, fig.align='center', out.width="80%"}
+pts <- spatSample(elevation_reproj, 100,as.points=TRUE, method="random", na.rm=TRUE, as.df = FALSE) %>% 
+  rename(Altitude_sampled= Altitude)
+pts
+```
+
+Affichage des points
+
+```{r exctract3, eval=TRUE, fig.align='center', out.width="80%"}
+#plot(elevation_reproj)
+#plot(pts, add=TRUE)
+ggplot() +
+    geom_spatraster(data = elevation_reproj, maxcell = 5e+07) +
+    geom_spatvector(data=pts, fill="NA") + 
+    coord_sf(crs = 2154, datum = sf::st_crs(2154)) +
+    scale_fill_whitebox_c(palette="atlas",
+                          direction=-1,
+                          na.value = "transparent") +
+    ggspatial::annotation_scale(location = "bl", line_width = .5, height = unit(0.1, "cm"), 
+                     tick_height = unit(0.1, "cm")) + 
+    ggspatial::annotation_north_arrow(location = "tl", style = ggspatial::north_arrow_nautical) +
+    theme_classic() +
+    labs(title = "Carte altitude, affichage des points", fill = "Altitude en m", size =10) 
+```
+
+Nous pouvons maintenant utiliser les points pour extraire l'altitude
+
+```{r exctract4, eval=TRUE, fig.align='center', out.width="80%"}
+extracted_alt <- terra::extract(elevation_reproj, pts, bind = TRUE) %>% 
+  rename(Altitude_extracted = Altitude)
+
+extracted_alt
+```
+
+### Opérations globales
+
+Les opérations globales permettent de résumer les valeurs matricielles d'une ou plusieurs matrices.
+
+```{r op_global_1, eval=TRUE}
+# Valeur moyenne
+global(elevation, fun = "mean", na.rm=TRUE)
+```
+
+```{r op_global_2, eval=TRUE}
+# Écart-type
+global(elevation, fun = "sd", na.rm=TRUE)
+```
+
+```{r op_global_3, eval=TRUE}
+# Fréquence
+freq(elevation_5class)
+# Tableau de contingence
+table(elevation_5class[])
+```
+
+Représentations statistiques qui résument les informations matricielles.
+
+```{r op_global_4, eval=TRUE,  fig.align='center', fig.width=6}
+# Histogramme
+hist(elevation)
+# Densité
+density(elevation)
+```
+
+### Opérations zonales
+
+Les opérations zonales permettent de résumer les valeurs matricielles de certaines zones (groupe de cellules contiguë dans l'espace ou en valeur).
+
+#### Opération zonale sur une extraction
+
+**Toutes les opérations globales peuvent être réalisées sur une extraction de cellules résultant des fonctions `crop()`, `mask()`, `segregate()`...**
+
+Exemple : élévation moyenne pour le luxembourg.
+
+```{r op_global_6, eval=TRUE}
+# Valeur moyenne du raster "mask" sur Cahors
+global(crop_Lux_Grevenmacher , fun = "mean", na.rm=TRUE)
+```
+
+#### Opération zonale à partir d'une couche vectorielle
+
+La fonction `extract()` permet d'extraire et de manipuler les valeurs des cellules qui intersectent des données vectorielles.
+
+Exemple à partir de polygones :
+
+```{r op_zonal_poly, eval=TRUE}
+# Moyenne d'élévation pour chaque polygone (commune) ?
+elevation_by_com <-  extract(elevation, LUX, fun=mean, na.rm=TRUE)
+head(elevation_by_com, 3)
+```
+
+### Vectorisation
+
+Transformer un raster en polygones vectoriels.
+
+```{r Raster_vec4, eval=TRUE}
+Polygone_Elevation <- as.polygons(elevation)
+```
+
+```{r Raster_vec44, eval=TRUE}
+plot(Polygone_Elevation, y = 1, border="white")
+```
+
+Transformer un raster en points vectoriels.
+
+```{r Raster_vec5, eval=TRUE}
+Points_Elevation <- as.points(elevation)
+```
+
+```{r Raster_vec55, eval=TRUE}
+plot(Points_Elevation, y = 1, cex = 0.3)
+```
+
+Transformer un raster en lignes vectorielles.
+
+```{r Raster_vec6, eval=TRUE}
+Lines_Elevation <- as.lines(elevation)
+```
+
+```{r Raster_vec66, eval=TRUE}
+plot(Lines_Elevation)
+```
+:::

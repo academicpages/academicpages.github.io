@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2022-05-22-combining-lidar-sentinel2
+excerpt: 'This paper presents a method for estimating basal area and wood volume in complex forest environments using LiDAR and Sentinel-2 imagery.'
+date: 2022-05-22
+venue: 'IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing'
+paperurl: 'https://doi.org/10.1109/JSTARS.2022.3175609'
+citation: 'Lahssini, K., Teste, F., Dayal, K., Durrieu, S., Ienco, D., Monnet, J-M. (2022). &quot;Combining LiDAR Metrics and Sentinel-2 Imagery to Estimate Basal Area and Wood Volume in Complex Forest Environment via Neural Networks.&quot; <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+Forest ecosystems play a fundamental role in natural balances and climate mechanisms through their contribution to global carbon storage. Their sustainable management and conservation is crucial in the current context of global warming and biodiversity conservation. To tackle such challenges, earth observation data have been identified as a valuable source of information. While earth observation data constitute an unprecedented opportunity to monitor forest ecosystems, its effective exploitation still poses serious challenges since multimodal information needs to be combined to describe complex natural phenomena. To deal with this particular issue in the context of structure and biophysical variables estimation for forest characterization, we propose a new deep learning-based fusion strategy to combine together high density three-dimensional (3-D) point clouds acquired by airborne laser scanning with high-resolution optical imagery. In order to manage and fully exploit the available multimodal information, we implement a two-branch late fusion deep learning architecture taking advantage of the specificity of each modality. On the one hand, a 2-D CNN branch is devoted to the analysis of Sentinel-2 time series data, and on the other hand, a multilayer perceptron branch is dedicated to the processing of LiDAR-derived information. The performance of our framework is evaluated on two forest variables of interest: total volume and basal area at stand level. The obtained results underline that the availability of multimodal remote sensing data is not a direct synonym of performance improvements but, the way in which they are combined together is of paramount importance.
