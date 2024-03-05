@@ -22,7 +22,7 @@ To appear in *European Conference on Computer Systems (EuroSys)*, 2024.
 * **Scalable and Efficient Full-Graph GNN Training for Large Graphs** \[[pdf](https://kl4805.github.io/files/g3-sigmod23.pdf)\]<br>
 Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> In *the ACM Conference on Management of Data (SIGMOD)*, 2023.
 
-* **MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference** <br>
+* **MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference** \[[pdf](https://kl4805.github.io/files/msn23.pdf)\] <br>
 Weiyan Wang, Yiming Zhang, **Yilun Jin**, Han Tian, Li Chen <br> To appear in *IEEE International Conference on Mobility, Sensing, and Networking (MSN)*, 2023. 
 
 ## 2022
