@@ -27,7 +27,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 - Firm Technology Upgrading and The Strength of Weak Ties: Evidence from Senegal
 
 -  [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps)
-  - 
+    
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
 ## Other Publications
