@@ -12,9 +12,9 @@ title                    : "I am a Geographer and Musician based in Hanover, Ger
 title_separator          : "-"
 name                     : &name "Jan Niklas"
 description              : &description "welcome to my space :)"
-url                      : https://jnschmd92.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jnschmd44.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jnschmd44/jnschmd92.github.io"
+repository               : "jnschmd44/jnschmd44.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
