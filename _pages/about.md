@@ -17,14 +17,17 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 ## Research
 ### Selected Work in Progress
 
-- [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps)
 
-- [Technology Adoption, Informal Contracts and Development: Evidence from digitizing payments in the Senegalese taxi industry](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
-
-- Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
+- [Overcoming Information Asymmetries Within Firms: Evidence from Senegal’s Digital Payments Revolution](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
 
 - Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles)
 
+- Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
+
+- Firm Technology Upgrading and The Strength of Weak Ties: Evidence from Senegal
+
+-  [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps)
+  - 
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
 ## Other Publications
