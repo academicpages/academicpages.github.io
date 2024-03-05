@@ -85,7 +85,7 @@ author:
   bio              : "Researcher at Technical University of Munich"
   location         : "Tehran"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=lASBGvMAAAAJ"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Amirarshia-Hemmat"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/arshiahemmat/"
   google_plus      :
   keybase          :
   instagram        :
