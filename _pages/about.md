@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Arshia Hemmat's Academic Portfolio"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
