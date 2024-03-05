@@ -10,7 +10,7 @@ redirect_from:
 I've put a link to my resume in the links on the left under the website option.
 
 
-My internship at Technical University of Munich
+My Internship Journey at Technical University of Munich
 ------
 My current engagement as a visiting student researcher in CAMP at the Technical University of Munich, under the guidance of Professor Nassir Navab, has been transformative. Focused on 3D vessel segmentation and counterfactual modeling using vision-linguistic models, these projects underscore my dedication to advancing knowledge at the intersection of computer vision and deep learning.
 
