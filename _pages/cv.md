@@ -6,29 +6,28 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# Amir Arshia Hemmat
 
-## COMPUTER ENGINEERING STUDENT
-- **CAMP chair Technical University of Munich**
+### COMPUTER ENGINEERING STUDENT
+- CAMP chair Technical University of Munich
 - Email: arshiahemmat6@gmail.com
 - LinkedIn: ArshiaHemmat
 
-### Education
+## Education
 
-#### Technical University of Munich (TUM)
-- **VISITOR STUDENT RESEARCHER IN CAMP**
+### Technical University of Munich (TUM)
+- VISITOR STUDENT RESEARCHER IN CAMP
   - Advisor: Prof. Nassir Navab
   - Location: Munich Germany
   - Duration: Jun. 2023 - PRESENT
 
-#### Sharif University of Technology (SUT)
-- **STUDENT RESEARCHER IN RIML**
+### Sharif University of Technology (SUT)
+- STUDENT RESEARCHER IN RIML
   - Advisor: Prof. Mohammad Hossein Rohban
   - Location: Tehran IRAN
   - Duration: Nov. 2022 - PRESENT
 
-#### University of Isfahan (UI)
-- **B.S. IN COMPUTER ENGINEERING**
+### University of Isfahan (UI)
+- B.S. IN COMPUTER ENGINEERING
   - GPA: 3.83 out of 4
   - GPA of last four semester: 4 out of 4
   - Thesis topic: Graph Fusion in Multi-modal Networks with Zero-shot Evaluation
