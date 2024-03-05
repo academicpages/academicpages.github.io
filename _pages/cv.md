@@ -48,26 +48,26 @@ redirect_from:
   - Authors: Reza Abbasi, Amirarshia Hemmat, Mahdi Samiei, Mohammad Hossein Rohban, Mahdieh Soleymani Baghshah
   - Conference: ICLR 2024
 
-### Research Experiences
-- **3D vessel segmentation using geometric approaches**
-  - Advisor: Prof. Nassir Navab, Technical University of Munich
-  - Duration: May 2023- Present
+#### Research Experiences
+- **3D Vessel Segmentation Using Geometric Approaches**  
+  *Advisor: Prof. Nassir Navab, Technical University of Munich*  
+  Focusing on leveraging geometric deep learning techniques for the segmentation of blood vessels in 3D imaging, this project aims to improve diagnostic accuracy and treatment planning in medical practice.
 
-- **Counterfactual Modelling using vision-linguistic models**
-  - Advisor: Prof. Nassir Navab, Technical University of Munich
-  - Duration: Aug 2023- Present
+- **Counterfactual Modelling Using Vision-Linguistic Models**  
+  *Advisor: Prof. Nassir Navab, Technical University of Munich*  
+  Investigating the generation of counterfactual scenarios through the integration of visual and linguistic data, this research holds promise for enhancing AI interpretability and reliability across various applications, including autonomous driving and medical diagnostics.
 
-- **Vision-Linguistic Models**
-  - Advisor: Prof. Mohammad Hossein Rohban, Sharif University of Technology
-  - Duration: Feb 2023 - Oct 2023
+- **Vision-Linguistic Models**  
+  *Advisor: Prof. Mohammad Hossein Rohban, Sharif University of Technology*  
+  This research explores the integration of visual perception and language processing in AI systems, aiming to advance machine understanding and interpretation of complex visual-textual information.
 
-- **Zero-shot Learning in Medical domain**
-  - Advisor: Dr. Peyman Adibi, University of Isfahan
-  - Duration: Aug 2021 - Nov 2022
+- **Zero-shot Learning in Medical Domain**  
+  *Advisor: Dr. Peyman Adibi, University of Isfahan*  
+  Developing models for identifying medical conditions unseen during training, this work is poised to revolutionize diagnostic methodologies by mitigating the reliance on extensive labeled datasets.
 
-- **Text summarization using Graph Neural Network**
-  - Advisor: Dr. Hamidreza Baradaran, University of Isfahan
-  - Duration: Feb 2022 - Aug 2022
+- **Text Summarization Using Graph Neural Network**  
+  *Advisor: Dr. Hamidreza Baradaran, University of Isfahan*  
+  Employing graph neural networks for efficient text summarization, this project seeks to enhance the coherence and relevance of automated summaries, facilitating improved information retrieval and understanding in voluminous text data.
 
 ### Honors & Awards
 - TUM Summer Research Fellowship, Technical University of Munich, 2023
