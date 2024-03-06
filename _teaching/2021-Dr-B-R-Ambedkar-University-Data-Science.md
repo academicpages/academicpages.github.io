@@ -9,8 +9,12 @@ location: "Agra, India"
 excerpt: ""
 ---
 
+![Dr. B. R. Ambedkar University](/images/br2.jpg)
+
 ## Overview
 I had the privilege of designing and delivering a series of engaging lectures on the roadmap to data science at Dr. B. R. Ambedkar University, Agra. These lectures targeted undergraduate and postgraduate students, researchers, and professionals interested in exploring the field of data science.
+
+![Dr. B. R. Ambedkar University](/images/br1.jpg)
 
 ## Key Highlights
 - **Curriculum Development:** Developed a comprehensive curriculum that covered fundamental concepts, techniques, and tools essential for understanding data science.
