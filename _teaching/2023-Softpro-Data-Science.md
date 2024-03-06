@@ -6,6 +6,7 @@ permalink: /teaching/2023-Softpro-India-Data-Science
 venue: "Softpro India"
 date: 2023-04-08
 location: "Lucknow, India"
+excerpt: ""
 ---
 
 # Data Science and Personality Development Trainer at Softpro India, Lucknow
