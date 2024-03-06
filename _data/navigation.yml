@@ -4,7 +4,7 @@ main:
     url: /publications/    
 
   - title: "Lectures"
-    url: /lectures/ 
+    url: /teaching/
 
   - title: "Talks"
     url: /talks/   
@@ -14,7 +14,7 @@ main:
     
   - title: "CV"
 #    url: /cv/
-    url: /files/paper3.pdf
+    url: /files/Aun-Mohammad-Kidwai-FlowCV-Resume-20240306.pdf
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
