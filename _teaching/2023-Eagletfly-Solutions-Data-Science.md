@@ -1,5 +1,5 @@
 ---
-title: "Data Science"
+title: "Data Science | Eagletfly Solutions"
 collection: teaching
 type: "Training"
 permalink: /teaching/2023-Eagletfly-Solutions-Data-Science
