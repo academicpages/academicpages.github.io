@@ -12,9 +12,14 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***6th March 2024***
+> 
+> We are starting the year strongly, our paper "Open Source Language Models Can Provide Feedback: Evaluating LLMs’ Ability to Help Students Using GPT-4-As-A-Judge" (first author) has been accepted for publication at [ITICSE](https://iticse.acm.org/2024/).
+
+
 > ***15th December 2023***
 > 
-> Our paper "Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions" has been accepted at [ICSE SEET](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track)! 
+> Our paper "Let's Ask AI About Their Programs: Exploring ChatGPT's Answers To Program Comprehension Questions" (second author) has been accepted at [ICSE SEET](https://conf.researchr.org/track/icse-2024/icse-2024-software-engineering-education-and-training-track)! 
 
 > ***19th October 2023***
 > 
