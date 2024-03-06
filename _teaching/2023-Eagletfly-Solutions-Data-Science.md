@@ -9,8 +9,12 @@ location: "Delhi, India"
 excerpt: ""
 ---
 
+![Eagletfly Solutions](/images/ef1.jpg)
+
 ## Overview
 In my role as a Data Science Trainer at Eagletfly Solutions, I was tasked with conducting comprehensive training sessions on data science fundamentals, machine learning algorithms, and statistical analysis. These sessions were tailored for a wide range of participants, including corporate clients, university students, and professionals eager to deepen their understanding of data science.
+
+![Eagletfly Solutions](/images/ef2.jpg)
 
 ## Contributions and Impact
 - **Training Execution:** Conducted training sessions that covered data science fundamentals, machine learning algorithms, and statistical analysis for diverse groups.
