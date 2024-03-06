@@ -1,13 +1,39 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Aun Mohammad Kidwai"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome to my professional portfolio on GitHub.io. I am **Aun Mohammad Kidwai**, a dedicated Data Scientist with a rich background in data analytics, machine learning, and predictive modeling. With over six years of experience in the field, my journey has spanned across leading technology firms, where I've honed my skills in transforming complex data into actionable insights and innovative solutions. This webpage serves as a gateway to my projects, experiences, and the skills I've cultivated in the realm of Data Science and Technology. Here, you'll find a showcase of my work, reflections on my professional path, and a glimpse into the technologies and methodologies I'm passionate about. Thank you for visiting, and I look forward to connecting with you.
+
+## Key Highlights of My Professional Journey
+- **Innovative Solutions:** At Clavis Technologies Pvt. Ltd., I spearheaded the creation of an intelligent document processing application, cutting manual processing by 40%.
+- **Agile Leadership:** As a Technical Lead / Developer at Tata Consultancy Services, I successfully implemented agile methodologies, boosting project completion speed by 30%.
+- **Technical Support Excellence:** My role as Associate System Engineer at Tata Consultancy Services emphasized my commitment to resolving client IT issues efficiently, serving as the departmental point of contact.
+- **Continuous Learning:** Across roles, I've focused on mastering new technologies and methodologies, showcasing my dedication to professional growth and innovation.
+
+## Skills and Expertise
+
+In my data science career, I've developed a robust set of skills, detailed as follows:
+
+- **Programming Languages:**
+  - Python: Advanced proficiency in data analysis, machine learning, and web development applications.
+- **Data Science Tools and Libraries:**
+  - NumPy, Pandas, Scikit-Learn: For data manipulation and machine learning.
+  - TensorFlow, Keras, PyTorch: For deep learning projects.
+- **Data Visualization:**
+  - Tools like Matplotlib, Seaborn, and Tableau for creating insightful visualizations.
+- **Machine Learning and Deep Learning:**
+  - Experienced in supervised and unsupervised learning, CNNs, and RNNs.
+- **Web Development:**
+  - HTML, CSS, JavaScript, Django, Flask for developing and deploying web applications.
+- **Databases:**
+  - SQL and MongoDB for database management and querying.
+- **Soft Skills:**
+  - Excellent communication, problem-solving, and continuous learning.
 
 A data-driven personal website
 ======
