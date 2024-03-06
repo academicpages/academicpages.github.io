@@ -9,8 +9,6 @@ location: "Lucknow, India"
 excerpt: ""
 ---
 
-# Data Science and Personality Development Trainer at Softpro India, Lucknow
-
 ## Overview
 At Softpro India, I embraced the dual role of a Data Science and Personality Development Trainer, facilitating sessions that spanned self-awareness, communication skills, emotional intelligence, leadership, and personal branding. My aim was to cater to the holistic development of participants, preparing them not only in technical expertise but also in essential soft skills.
 
