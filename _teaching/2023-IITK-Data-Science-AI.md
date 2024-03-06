@@ -9,8 +9,12 @@ location: "Kanpur, India"
 excerpt: ""
 ---
 
+![Indian Institute of Technology, Kanpur](/images/iitk1.jpg)
+
 ## Overview
 As a workshop trainer at the Indian Institute of Technology, Kanpur, I was responsible for conducting workshops and training programs on data science and artificial intelligence topics. These sessions were aimed at undergraduate and postgraduate students, researchers, and professionals seeking to deepen their knowledge in these cutting-edge fields.
+
+![Indian Institute of Technology, Kanpur](/images/iitk2.jpg)
 
 ## Responsibilities and Achievements
 - **Curriculum Design:** Optimized workshop curricula to include theoretical concepts, practical exercises, and case studies, ensuring a comprehensive understanding of data science and AI techniques.
