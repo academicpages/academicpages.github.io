@@ -1,5 +1,5 @@
 ---
-title: "Roadmap to Data Science | Dr. B. R. Ambedkar University"
+title: "Roadmap to Data Science"
 collection: lectures
 type: "University course"
 permalink: /lectures/2021-Dr-B-R-Ambedkar-University-Data-Science

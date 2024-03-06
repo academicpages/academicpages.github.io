@@ -1,5 +1,5 @@
 ---
-title: "Data Science | Softpro India"
+title: "Data Science"
 collection: teaching
 type: "Training"
 permalink: /teaching/2023-Softpro-India-Data-Science
