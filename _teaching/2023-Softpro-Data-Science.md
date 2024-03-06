@@ -9,8 +9,12 @@ location: "Lucknow, India"
 excerpt: ""
 ---
 
+![Softpro India](/images/si2.jpg)
+
 ## Overview
 At Softpro India, I embraced the dual role of a Data Science and Personality Development Trainer, facilitating sessions that spanned self-awareness, communication skills, emotional intelligence, leadership, and personal branding. My aim was to cater to the holistic development of participants, preparing them not only in technical expertise but also in essential soft skills.
+
+![Softpro India](/images/si1.jpg)
 
 ## Achievements and Responsibilities
 - **Personal Development Sessions:** Conducted comprehensive sessions on self-awareness, communication skills, emotional intelligence, leadership, and personal branding.
