@@ -20,7 +20,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 - [Overcoming Information Asymmetries Within Firms: Evidence from Senegal’s Digital Payments Revolution](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
 
-- Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles)
+- [Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders](https://pedl.cepr.org/content/relational-frictions-along-supply-chain-evidence-randomised-experiment-among-senegalese-0) (with Edward Wiles)
 
 - Transaction Costs, Liquidity Constraints, and Barriers to Electricity Access: Evidence from Prepaid Solar Metering Subsidy in Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
 
