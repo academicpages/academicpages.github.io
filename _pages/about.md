@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aun Mohammad Kidwai"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
