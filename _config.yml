@@ -21,7 +21,7 @@ repository               : "aunkidwai/aunkidwai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpg"
   name             : "Aun Mohammad Kidwai"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
@@ -232,7 +232,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _lectures
+  # _teaching
   - scope:
       path: ""
       type: teaching
