@@ -1,5 +1,5 @@
 ---
-title: "Data Science and AI Workshop"
+title: "Data Science and AI Workshop Trainer at Indian Institute of Technology, Kanpur"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-IITK-Data-Science-AI
