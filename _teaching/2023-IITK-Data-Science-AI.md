@@ -6,6 +6,7 @@ permalink: /teaching/2023-IITK-Data-Science-AI
 venue: "Indian Institute of Technology, Kanpur"
 date: 2023-03-25
 location: "Kanpur, India"
+excerpt: ""
 ---
 
 # Data Science and AI Workshop Trainer at Indian Institute of Technology, Kanpur

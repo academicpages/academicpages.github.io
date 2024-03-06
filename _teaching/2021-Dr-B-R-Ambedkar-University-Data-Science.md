@@ -6,6 +6,7 @@ permalink: /lectures/2021-Dr-B-R-Ambedkar-University-Data-Science
 venue: "Dr. B. R. Ambedkar University"
 date: 2021-03-13
 location: "Agra, India"
+excerpt: ""
 ---
 
 # Roadmap to Data Science Lecture at Dr. B. R. Ambedkar University, Agra

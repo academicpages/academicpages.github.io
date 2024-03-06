@@ -6,6 +6,7 @@ permalink: /teaching/2023-Eagletfly-Solutions-Data-Science
 venue: "Eagletfly Solutions"
 date: 2023-01-15
 location: "Delhi, India"
+excerpt: ""
 ---
 
 # Data Science and Personality Development Trainer at Eagletfly Solutions, Noida
