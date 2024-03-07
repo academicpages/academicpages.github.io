@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Doctor en ciencias en Metalurgia y Ciencia de los Materiales
+  * Fecha de obtención del grado 11/03/2011
+  * Instituto de Investigaciones Metalúrgicas, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH).
+  * Tesis: Producción  de nanopartículas del sistema Al-Cu-Fe por molienda mecánica para sintetizar nanoestructuras de carbono y producción de hidrógeno.
+ 
+* Maestro en Metalurgia y Ciencia de los Materiales.
+  * Fecha de obtención del grado: 11/12/2007
+  * Instituto de Investigaciones Metalúrgicas, UMSNH.
+  * Tesis: Síntesis de Nanopartículas por Molienda Húmeda de Cristales y Cuasicristales del Sistema AlCuFe.
+ 
+* Licenciado en Ciencias Físico Matemáticas.
+  * Fecha de obtención del grado: 04/08/2005
+  * Facultad de Cs. Físico Matemáticas, UMSNH.
+  * Tesis: Procesamiento y Modelado de Nanoestructuras a través de la Técnica de Microscopia Electrónica de Alta Resolución (HRTEM).
+
 
 Work experience
 ======
