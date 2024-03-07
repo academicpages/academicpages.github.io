@@ -29,7 +29,7 @@ Educación
 
 Experiencia
 ======
-*Profesor investigador de tiempo completo titular B
+* Profesor investigador de tiempo completo titular B
   * Facultad de Ingeniería, Universidad Autónoma del Carmen.
   * Sistema Nacional de Investigadores Nivel 1, vigencia 31-dic-2027.
   * Miembro del Cuerpo Académico Consolidado “Materiales Avanzados” (clave:UNACAR-CA-40).
