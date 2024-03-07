@@ -103,6 +103,7 @@ For each paper, click on 📚 for the PDF version and on 🌍 for additional res
 <details>
   <summary><b>Topic 4: Learning about language and language-guided interaction </b></summary>
   <ul>
+    <li> MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception <a href="https://arxiv.org/pdf/2312.07472.pdf">📚</a></li>
     <li>Plan4MC: Skill reinforcement learning and planning for open-world Minecraft tasks <a href="https://arxiv.org/abs/2303.16563">📚</a></li> 
     <li>VOYAGER: An Open-Ended Embodied Agent with Large Language Models <a href="https://arxiv.org/abs/2305.16291">📚</a></li>
     <li>Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents <a href="https://arxiv.org/pdf/2302.01560.pdf">📚</a></li> 
