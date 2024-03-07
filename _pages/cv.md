@@ -27,22 +27,16 @@ Educación
   * Tesis: Procesamiento y Modelado de Nanoestructuras a través de la Técnica de Microscopia Electrónica de Alta Resolución (HRTEM).
 
 
-Work experience
+Experiencia
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*Profesor investigador de tiempo completo titular B
+  * Facultad de Ingeniería, Universidad Autónoma del Carmen.
+  * Sistema Nacional de Investigadores Nivel 1, vigencia 31-dic-2027.
+  * Miembro del Cuerpo Académico Consolidado “Materiales Avanzados” (clave:UNACAR-CA-40).
+  * Perfil deseable (PRODEP), vigencia al 01-sep-2025
+  * Gestor del programa educativo de Ing. Mecánica 2012-2014.
+  * Miembro del Comité Tecno-científico de Innovación (CoTCI), de la Dirección General de Investigación y Posgrado  de la UNACAR, 2015-2017 y 2023-a la fecha.
+  * Coordinador de la Maestría en Ingeniería de Materiales y Energía, desde 2016-2018.
   
 Skills
 ======
