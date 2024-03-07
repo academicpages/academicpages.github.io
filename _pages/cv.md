@@ -14,7 +14,7 @@ Educación
 * Doctor en ciencias en Metalurgia y Ciencia de los Materiales
   * Fecha de obtención del grado 11/03/2011
   * Instituto de Investigaciones Metalúrgicas, Universidad Michoacana de San Nicolás de Hidalgo (UMSNH).
-  * Tesis: Producción  de nanopartículas del sistema\\(Al-Cu-Fe\\) por molienda mecánica para sintetizar nanoestructuras de carbono y producción de hidrógeno.
+  * Tesis: Producción  de nanopartículas del sistema \\(Al-Cu-Fe\\) por molienda mecánica para sintetizar nanoestructuras de carbono y producción de hidrógeno.
  
 * Maestro en Metalurgia y Ciencia de los Materiales.
   * Fecha de obtención del grado: 11/12/2007
