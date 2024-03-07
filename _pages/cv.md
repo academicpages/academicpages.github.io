@@ -23,6 +23,8 @@ redirect_from:
 
 ## Teaching
 * At SDU Odense
+     * MM561 Innovation (TA), spring 2024
+     * MM573 Metric spaces (TA), spring 2024
      * MM819 Introduction to operator algebras (TA), fall 2023
      * MM849 Selected topics in modern analysis, topic: Analysis on locally compact groups and group C*-algebras (instructor), spring 2023
      * MM819 Introduction to operator algebras (TA), fall 2022
