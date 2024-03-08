@@ -33,14 +33,19 @@ tags:
 
 <br>El mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada parece contar una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), minimizaré mi intervención como analista. En este ejercicio narrativo, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que da título a esta entrada de mi blog. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br><br>
 </div>
-<hr>
+
 <br>
+
+<div style="text-align: center;">
+***
+</div><br>
+
 <div style="text-align: justify;">
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 Allí está, en la penitenciaría, asomando por entre las rejas su cabeza grande y oscilante, el antropófago.
 
-</div><br>
+</div>
 
 </div><br>
 
