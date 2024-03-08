@@ -54,22 +54,15 @@ Experiencia laboral
   * __Tecnológico Nacional de México - Instituto Tecnológico de Morelia__. __[2007-01-01]__
 
 
-
-Habilidades:
-• Síntesis de nanomateriales por molienda y aleado mecánico.
-• Síntesis de materiales energéticos a base de aluminio y aleaciones.
-• Caracterización de materiales cristalinos y cuasi cristalinos por la técnica de difracción de rayos X(XRD).
-• Análisis e interpretación de micrografías de materiales metálicos obtenidas por microcopia óptica y microscopia electrónica de barrido(SEM).
-• Caracterización estructural de nanomateriales por las técnicas de XRD, MEB y Microscopia Electrónica de Alta Resolución(HRTEM).
-  
-Skills
+Habilidades
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Síntesis de nanomateriales por molienda y aleado mecánico.
+* Síntesis de materiales energéticos a base de aluminio y aleaciones.
+* Caracterización de materiales cristalinos y cuasi cristalinos por la técnica de difracción de *Rayos X* (XRD).
+* Análisis e interpretación de micrografías de materiales metálicos obtenidas por microcopia óptica y microscopia electrónica de barrido(SEM).
+* Caracterización estructural de nanomateriales por las técnicas de *XRD*, *MEB* y *Microscopia Electrónica de Alta Resolución*(HRTEM).
+  
 
 Publications
 ======
