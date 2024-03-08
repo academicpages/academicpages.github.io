@@ -52,6 +52,7 @@ Allí está, en la penitenciaría, asomando por entre las rejas su cabeza grande
 ![Figure 1](/images/2009ff.png)
 
 <div style="text-align: justify;">
+<br>
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 Todos lo conocen. Las gentes caen allí como llovidas por ver al antropófago. Dicen que en estos tiempos es un fenómeno. Le tienen recelo. Van de tres en tres, por lo menos, armados de cuchillas, y cuando divisan su cabeza grande se quedan temblando, estremeciéndose al sentir el imaginario mordisco que les hace poner carne de gallina. Después le van teniendo confianza, los más valientes han llegado hasta a provocarle, introduciendo por un instante un dedo tembloroso por entre los hierros. Así repetidas veces como se hace con las aves enjauladas que dan picotazos.
@@ -68,11 +69,11 @@ Todos lo conocen. Las gentes caen allí como llovidas por ver al antropófago. D
 
 Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
-Algunos creen que se ha vuelto un perfecto idiota; que aquello fue solo un momento de locura.<br>
+<br>Algunos creen que se ha vuelto un perfecto idiota; que aquello fue solo un momento de locura.<br>
 
-Pero no les oiga; tenga mucho cuidado frente al antropófago: estará esperando un momento oportuno para saltar contra un curioso y arrebatarle la nariz de una sola dentellada.<br>
+<br>Pero no les oiga; tenga mucho cuidado frente al antropófago: estará esperando un momento oportuno para saltar contra un curioso y arrebatarle la nariz de una sola dentellada.<br>
 
-Medite usted en la figura que haría si el antropófago se almorzara su nariz.
+<br>Medite usted en la figura que haría si el antropófago se almorzara su nariz.
 </div><br>
 
 </div><br>
@@ -90,7 +91,7 @@ Medite usted en la figura que haría si el antropófago se almorzara su nariz.
 
 ¡Ya lo veo con su aspecto de calavera!<br>
 
-¡Ya lo veo con su miserable cara de Lázaro, de sifilítico o canceroso! ¡Con el unguis asomando por entre la mucosa amoratada! ¡Con los pliegues de la boca honda, cerrados como un ángulo!
+<br>¡Ya lo veo con su miserable cara de Lázaro, de sifilítico o canceroso! ¡Con el unguis asomando por entre la mucosa amoratada! ¡Con los pliegues de la boca honda, cerrados como un ángulo!
 </div><br>
 
 </div><br>
