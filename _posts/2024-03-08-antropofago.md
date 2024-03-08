@@ -30,7 +30,7 @@ tags:
 
 <br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[segunda entrada]</a>, analicé con mayor detalle la relación entre las incautaciones de cocaína y la tasa de muertes violentas de intención no determinada. Al hacer un <em>zoom in</em> a nivel provincial entre incautaciones (datos de nivel nacional) y tasas (a nivel de cada provincia), emergió un mapa de calor representado por el nivel de significancia estadística arrojado por la regresión lineal respectiva. Lo que comenzó como un ejercicio intelectual, repleto de números y parámetros, pareció cobrar vida propia: este mapa de calor parece coincidir notablemente con las rutas de la cocaína recientemente reveladas por la inteligencia policial; en ese sentido, el ejercicio de ir <em>hasta donde la razón y los datos nos llevaran</em> encontraba, por así decirlo, una "triangulación" de una fuente externa confiable e independiente.<br>
 
-</div>
+</div><br>
 
 ![Figure 1](/images/compma.png)
 
