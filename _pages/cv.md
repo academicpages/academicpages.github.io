@@ -37,6 +37,29 @@ Experiencia
   * Gestor del programa educativo de Ing. Mecánica 2012-2014.
   * Miembro del Comité Tecno-científico de Innovación (CoTCI), de la Dirección General de Investigación y Posgrado  de la UNACAR, 2015-2017 y 2023-a la fecha.
   * Coordinador de la Maestría en Ingeniería de Materiales y Energía, desde 2016-2018.
+ 
+Experiencia laboral
+======
+
+* PROFESOR DE ASIGNATURA DE LAS CARRERAS DE INGENERIA MECANICA, ELECTRICA Y ELECTRONICA
+  * TECNOLOGICO NACIONAL DE MEXICO-Instituto Tecnológico de Morelia. [2007-01-01]
+
+* Técnico laboratorista de física del programa educativo de biología
+  * UNIVERSIDAD MICHOACANA DE SAN NICOLAS DE HIDALGO [2010-11-01]
+ 
+
+* Profesor de tiempo completo titular B, Adscrito al programa educativo de Ingeniería Mecánica
+  * FACULTAD DE INGENIERIA DE LA UNIVERSIDAD AUTONOMA DEL CARMEN.
+  * Impartición de cursos de: Resistencia de materiales, mecánica de sólidos, tópicos selectos de matemáticas, física moderna, Dinámica, algebra superior, matemáticas avanzadas, técnicas de caracterización de materiales, sistemas electromecánicos, tópicos de nanotecnología.
+  * Más de 30productos en publicación de libros, capítulos de libro en editoriales y artículos de revistas científicas de renombre:  
+  * 10 Direcciones de tesis de posgrados y 8 de licenciatura. [2012-01-05- a la fecha]
+
+Habilidades:
+• Síntesis de nanomateriales por molienda y aleado mecánico.
+• Síntesis de materiales energéticos a base de aluminio y aleaciones.
+• Caracterización de materiales cristalinos y cuasi cristalinos por la técnica de difracción de rayos X(XRD).
+• Análisis e interpretación de micrografías de materiales metálicos obtenidas por microcopia óptica y microscopia electrónica de barrido(SEM).
+• Caracterización estructural de nanomateriales por las técnicas de XRD, MEB y Microscopia Electrónica de Alta Resolución(HRTEM).
   
 Skills
 ======
