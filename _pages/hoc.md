@@ -36,9 +36,7 @@ Like historians in other disciplines who read Latin or Ancient Greek, Historians
 
 History of the History of Computing
 ======
-Approximately 50 years have passed since the beginning of this field. If you would like to know more, please check this page. {% for post in site.historiography %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
+Approximately 50 years have passed since the beginning of this field. If you would like to know more, please check this page. {% for post in site.historiography %} {% include archive-single-cv.html %} {% endfor %}
 
 Introductory/Must-read Books and Papers
 ======
