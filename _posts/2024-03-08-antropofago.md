@@ -33,7 +33,7 @@ tags:
 
 <br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">[ruptura política]</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br><br>
 
-</div>
+</div><br>
 
 ![Figure 5](/images/causasycoca2.jpeg)<br>
 
@@ -47,7 +47,7 @@ tags:
 
 <div style="text-align: justify;">
 <br>
-<br> A partir de la interpretación de este mapa de calor, construí un diseño cuasi-experimental para intentar aislar el efecto dinámico de la salida de la Base de Manta en la tasa de muertes violentas de intención no determinada. Específicamente, diseñé un estudio de eventos aplicado a un modelo de Diferencia-en-Diferencias (DiD), utilizando 252 observaciones anuales a nivel provincial entre 2007 y 2018. Esta estimación indicó que, tras el cese de operaciones de la base, las provincias clave en rutas de narcotráfico, especialmente en la costa, experimentaron <strong>un aumento del 75,48%</strong> en las tasas de muertes violentas de intención indeterminada en 2010. Este efecto se invierte con el tiempo, lo que sugiere la apertura y/o consolidación de rutas logísticas en provincias amazónicas como Napo.<br><br>
+<br> A partir de la interpretación de este mapa de calor, construí un diseño cuasi-experimental para intentar aislar el efecto dinámico de la salida de la Base de Manta en la tasa de muertes violentas de intención no determinada. Específicamente, diseñé un estudio de eventos aplicado a un modelo de Diferencia-en-Diferencias (DiD), utilizando 252 observaciones anuales a nivel provincial entre 2007 y 2018. Esta estimación indicó que, tras el cese de operaciones de la base, las provincias clave en rutas de narcotráfico, especialmente en la costa, experimentaron <strong>un aumento del 75,48%</strong> en las tasas de muertes violentas de intención indeterminada en 2010. Este efecto se invierte con el tiempo, lo que sugiere la apertura y/o consolidación de rutas logísticas en provincias amazónicas como Napo.<br>
 </div><br>
 
 
@@ -62,7 +62,7 @@ tags:
 
 <br>Dado mi enfoque como investigador es más teórico –propiamente, me especializo en la <a ref= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por definir mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
-<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, <em>pareciera</em> que las cifras narran por sí mismas una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también <em>completamente</em> al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br><br>
+<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, <em>pareciera</em> que las cifras narran por sí mismas una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también <em>completamente</em> al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
 </div>
 
 <br>
