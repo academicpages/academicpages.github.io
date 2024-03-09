@@ -413,7 +413,7 @@ La señora de Nico Tiberio, Natalia, es morena y delgada.<br>
 
 </div><br>
 
-</div><br>
+
 
 
 ![Figure 6](/images/2017ff.png)
@@ -437,7 +437,7 @@ Se abalanzó gozoso sobre él; lo levantó en sus brazos, y abriendo mucho la bo
 
 </div><br>
 
-</div><br>
+
 
 
 ![Figure 6](/images/compff6.png)
@@ -457,7 +457,7 @@ Y como no hay en la vida cosa cabal, vinieron los vecinos a arrancarle de su abs
 
 </div><br>
 
-</div><br>
+
 
 ![Figure 6](/images/2018ff.png)
 
@@ -472,12 +472,12 @@ Pero Tiberio (hijo), se quedó sin nariz, sin orejas, sin una ceja, sin una meji
 
 <br>Así, con su sangriento y descarbado aspecto, parecía llevar en la cara todas las ulceraciones de un hospital.<br>
 
-<br>Si yo creyera a los imbéciles tendría que decir: Tiberio (padre) es como quien se come lo que crea.
+<br>Si yo creyera a los imbéciles tendría que decir: Tiberio (padre) es como quien se come lo que crea. 
 </div><br>
 
 </div><br>
 
-</div><br>
+
 
 ![Figure 5](/images/traficados.jpeg)
 <div style="text-align: center;font-size:13px;">
