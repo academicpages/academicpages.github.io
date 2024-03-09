@@ -100,7 +100,7 @@ Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://ciudadseva.com/texto/el-antropofago/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
+<a href= "https://inredh.org/doce-anos-sin-verdad-en-el-bombardeo-de-angostura/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
 </div><br>
 
 <div style="text-align: justify;">
