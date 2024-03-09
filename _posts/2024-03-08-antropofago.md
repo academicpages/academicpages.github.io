@@ -23,11 +23,11 @@ tags:
 
 <div style="text-align: justify;">
 
-<br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br>
+<br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br><br>
 
 </div>
 
-![Figure 5](/images/causasycoca2.jpeg)<br>
+![Figure 1](/images/comparativo3.png)<br>
 
 <div style="text-align: justify;">
 
@@ -35,6 +35,7 @@ tags:
 
 </div>
 
+![Figure 5](/images/causasycoca2.jpeg)<br>
 
 <div style="text-align: justify;">
 
