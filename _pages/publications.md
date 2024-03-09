@@ -78,7 +78,7 @@ Jiahao Zhao, **Penghui Wei**, Wenji Mao
 **SIGIR ’21** (short): Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 1778--1782. Virtual Event, Canada, July 11--15, 2021.    
 
 * **A Knowledge Enhanced Learning and Semantic Composition Model for Multi-Claim Fact Checking**  
-Shuai Wang, **Penghui Wei**, Jiahao Zhao, Daniel Zeng  
+Shuai Wang, **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 Knowledge-Based Systems, 2024.  
 
 * **Knowledge Structure driven Prototype Learning and Verification for Fact Checking**  
