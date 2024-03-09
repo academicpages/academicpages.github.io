@@ -5,23 +5,10 @@ permalink: /posts/2024/03/antropofago/
 tags:
  
 ---
-<div style="text-align: justify;">
-
-<script>
-    var password = prompt("Please enter the password to view this page:", "");
-    var correctPassword = "nosoyladea"; 
-
-    if (password == correctPassword) {
-        document.querySelector('.content').style.display = 'block';
-    } else {
-        alert("Incorrect password. You will be redirected.");
-        window.location = "https://www.dea.gov/"; 
-    }
-</script>
-
-</div>
 
 <div style="text-align: justify;">
+
+<br>
 
 <br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br><br>
 
