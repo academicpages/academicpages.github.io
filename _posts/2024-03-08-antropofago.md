@@ -47,9 +47,9 @@ tags:
 
 <br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque casi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
 
-<br>Dado que mi enfoque como investigador es más teórico –propiamente, me especializo en la <a ref= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
+<br>Dado que mi enfoque como investigador es más teórico –propiamente, me especializo en la <a href= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
-<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, utilizando los mismos datos de mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[segunda entrada]</a>, me percaté de que <em>pareciera</em> como si las cifras quisieran narrar por sí mismas una historia cuya interpretación dependerá del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo-experimental, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también completamente al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
+<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, utilizando los mismos datos de mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[segunda entrada]</a>, me percaté de que <em>pareciera</em> como si las cifras quisieran narrar por sí mismas una historia cuya interpretación dependerá del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo-experimental, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a href= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también completamente al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
 </div>
 
 <br>
@@ -100,7 +100,7 @@ Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
 <div style="text-align: center;font-size:13px;">
 
-<a ref= "https://ciudadseva.com/texto/el-antropofago/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
+<a href= "https://ciudadseva.com/texto/el-antropofago/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
 </div><br>
 
 <div style="text-align: justify;">
@@ -135,7 +135,7 @@ Va usted a dar un magnífico espectáculo.<br>
 ![Figure 5](/images/traficados.jpeg)
 <div style="text-align: center;font-size:13px;">
 
-<a ref= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
+<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
 </div><br>
 
 <div style="text-align: justify;">
@@ -169,7 +169,7 @@ Al principio le prescribieron dieta: legumbres y nada más que legumbres; pero h
 
 <div style="text-align: center;font-size:13px;">
 
-<a ref= "https://www.unodc.org/documents/data-and-analysis/WDR2011/World_Drug_Report_2011_spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
+<a href= "https://www.unodc.org/documents/data-and-analysis/WDR2011/World_Drug_Report_2011_spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
 las Drogas, 2011.
 </div><br>
 
@@ -259,7 +259,7 @@ Sí, sí, creo sinceramente que el antropófago está en lo justo; que no hay ra
 
 <div style="text-align: center;font-size:13px;">
 
-<a ref= "https://www.unodc.org/doc/wdr2013/World_Drug_Report_2013_Spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
+<a href= "https://www.unodc.org/doc/wdr2013/World_Drug_Report_2013_Spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
 las Drogas, 2013.
 </div><br>
 
@@ -480,5 +480,5 @@ Pero Tiberio (hijo), se quedó sin nariz, sin orejas, sin una ceja, sin una meji
 ![Figure 5](/images/traficados.jpeg)
 <div style="text-align: center;font-size:13px;">
 
-<a ref= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
+<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
 </div><br>
