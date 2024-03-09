@@ -251,15 +251,7 @@ Sí, sí, creo sinceramente que el antropófago está en lo justo; que no hay ra
 
 <br>No quiero que ningún malintencionado diga después que soy yo pariente de mi defendido, como ya me lo dijo un comisario a propósito de aquel asunto de Octavio Ramírez.<br>
 
-<br>Así sucedió la cosa, con antecedentes y todo:<br>
-
-<br>En un pequeño pueblo del sur, hace más o menos treinta años, contrajeron matrimonio dos conocidos habitantes de la localidad: Nicanor Tiberio, dado al oficio de matarife, y Dolores Orellana, comadrona y abacera.<br>
-
-<br>A los once meses justos de casados les nació un muchacho, Nico, el pequeño Nico, que después se hizo grande y ha dado tanto que hacer.<br>
-
-<br>La señora de Tiberio tenía razones indiscutibles para creer que el niño era oncemesino, cosa rara y de peligros. De peligros porque quien se nutre con tanto tiempo de sustancias humanas es lógico que sienta más tarde la necesidad de ellas.<br>
-
-<br>Yo desearía que los lectores fijen bien su atención en este detalle, que es a mi ver justificativo para Nico Tiberio y para mí, que he tomado cartas en el asunto.<br>
+<br>Así sucedió la cosa, con antecedentes y todo:
 
 </div><br>
 
@@ -273,7 +265,21 @@ Sí, sí, creo sinceramente que el antropófago está en lo justo; que no hay ra
 las Drogas, 2013.
 </div><br>
 
+<div style="text-align: justify;">
 
+<div style="background-color: rgb(221, 221, 221); padding: 14px;">
+
+En un pequeño pueblo del sur, hace más o menos treinta años, contrajeron matrimonio dos conocidos habitantes de la localidad: Nicanor Tiberio, dado al oficio de matarife, y Dolores Orellana, comadrona y abacera.<br>
+
+<br>A los once meses justos de casados les nació un muchacho, Nico, el pequeño Nico, que después se hizo grande y ha dado tanto que hacer.<br>
+
+<br>La señora de Tiberio tenía razones indiscutibles para creer que el niño era oncemesino, cosa rara y de peligros. De peligros porque quien se nutre con tanto tiempo de sustancias humanas es lógico que sienta más tarde la necesidad de ellas.<br>
+
+<br>Yo desearía que los lectores fijen bien su atención en este detalle, que es a mi ver justificativo para Nico Tiberio y para mí, que he tomado cartas en el asunto.<br>
+
+</div><br>
+
+</div><br>
 
 ![Figure 6](/images/compff3.png)
 
@@ -419,13 +425,13 @@ La señora de Nico Tiberio, Natalia, es morena y delgada.<br>
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 
-¡Pero no haber reparado nunca en eso! ¡Qué estúpido!<br>
+Se abalanzó gozoso sobre él; lo levantó en sus brazos, y abriendo mucho la boca, empezó a morderle la cara, arrancándole regulares trozos a cada dentellada, riendo, bufando, entusiasmándose cada vez más.<br>
 
-<br>¡Tenía que dejar a sus amigotes con la boca abierta!<br>
+<br>El niño se esquivaba de él que se lo comía por el lado más cercano, sin dignarse escoger.<br>
 
-<br>Estaba como loco, sin saber lo que le pasaba y con un justificable deseo de seguir mordiendo.<br>
+<br>Los cartílagos sonaban dulcemente entre los molares del padre. Se chupaba los dientes y lamía los labios.<br>
 
-<br>Por fortuna suya oyó los lamentos del chiquitín, de su hijo, que se frotaba los ojos con las manos.<br>
+<br>¡El placer que debió sentir Nico Tiberio!
 
 </div><br>
 
@@ -443,15 +449,7 @@ La señora de Nico Tiberio, Natalia, es morena y delgada.<br>
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 
-Se abalanzó gozoso sobre él; lo levantó en sus brazos, y abriendo mucho la boca, empezó a morderle la cara, arrancándole regulares trozos a cada dentellada, riendo, bufando, entusiasmándose cada vez más.<br>
-
-<br>El niño se esquivaba de él que se lo comía por el lado más cercano, sin dignarse escoger.<br>
-
-<br>Los cartílagos sonaban dulcemente entre los molares del padre. Se chupaba los dientes y lamía los labios.<br>
-
-<br>¡El placer que debió sentir Nico Tiberio!<br>
-
-<br>Y como no hay en la vida cosa cabal, vinieron los vecinos a arrancarle de su abstraído entretenimiento. Le dieron de garrotazos, con una crueldad sin límites, le ataron, cuando le vieron tendido y sin conocimiento; le entregaron a la policía…<br>
+Y como no hay en la vida cosa cabal, vinieron los vecinos a arrancarle de su abstraído entretenimiento. Le dieron de garrotazos, con una crueldad sin límites, le ataron, cuando le vieron tendido y sin conocimiento; le entregaron a la policía…<br>
 
 <br>¡Ahora se vengarán de él!<br>
 
