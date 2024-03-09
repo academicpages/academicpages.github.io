@@ -24,7 +24,7 @@ What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playi
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
 
-As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;.
+As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, Yoichiro Nambu, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;. Particularly, I have been interested in the work of the Lw\UTF{00F3}w\UTF{2013}Warsaw school of logic, including J. \UTF{0141}ukasiewicz, S. Le\UTF{015B}niewski, and A. Tarski.
 
 My Bookshelf (mainly nonfiction)
 ======

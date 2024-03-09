@@ -27,16 +27,20 @@ What is the History of Computing
 ======
 Everything has a history.
 
-The image below is not accurate, but it is roughly correct.
+
 ![History of Computing](/images/hoc.png)
 
 Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL, LISP, and Prolog.
 
-* Journal: 
+* Journal: *IEEE Annals of the History of Computing*
 
 History of the History of Computing
 ======
 Approximately 50 years have passed since the beginning of this field.
+
+      {% for post in site.historiography %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
 
 Introductory/Must-read Books and Papers
 ======
@@ -48,7 +52,7 @@ Introductory/Must-read Books and Papers
 * Swade, Doron. (2022). *The History of Computing: A Very Short Introduction*
   * I plan to translate this into Japanese
 
-Recommended Books and Papers
+Recommended Books and Papers (I have not kept up with the latest research.)
 ======
 * History of Computer Science
   * 
@@ -69,6 +73,7 @@ Recommended Books and Papers
   * 
   * 
     * Gerovitch, Slava, *From Newspeak to Cyberspeak*, (2004). 
+      * This book deals with the reception of cybernetics in the Soviet Union. Although the history of cybernetics is complex and difficult to write about, the third chapter of this book provides a complete and clear summary of the history, noting the similarities between Kolmogorov and Wiener. I found the history of science in the Soviet Union fascinating after reading this book.
 
   
 * History of Computer
@@ -87,16 +92,18 @@ Recommended Books and Papers
 * Business History
 * Industrial History  
 * Biography
+  * Beyer, Kurt W. 2009. Grace Hopper and the Invention of the Information Age. Cambridge: MIT Press
   
   
 Historians of Computing (partial)
 ======
 In any field, knowing researchers and what they are doing is important to start research.
+
 *
 
 Primary Source
 ======
-* 
+* Martin Davis, Undecidability: Basic Papers on Problems Propositions Unsolvable Problems and Computable Functions
 
 Useful Links
 ======

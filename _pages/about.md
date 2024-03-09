@@ -21,7 +21,7 @@ redirect_from:
 
 Under Construction!!!
 ======
-* I am currently working on my graduation thesis. I will update this page by late February&#128583;.
+* I will update this page by late March&#128583;.
 
 Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in building compilers, and logic and mathematics in computer science, such as Programming Languages and Formal Methods.
 
