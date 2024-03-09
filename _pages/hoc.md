@@ -114,7 +114,7 @@ Useful Links
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
 
 Others
+======  
       {% for post in site.jptexts %}
-    {% include archive-single-cv.html %}
   {% endfor %}
   
