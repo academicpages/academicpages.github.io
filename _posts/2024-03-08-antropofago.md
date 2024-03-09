@@ -120,14 +120,16 @@ Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
 
 <div style="text-align: justify;">
+
 <br>
+
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 
 Va usted a dar un magnífico espectáculo.<br>
 
-Vea que hasta los mismos carceleros, hombres siniestros, le tienen miedo.<br>
+<br>Vea que hasta los mismos carceleros, hombres siniestros, le tienen miedo.<br>
 
-La comida se la arrojan desde lejos. El antropófago se inclina, husmea, escoge la carne —que se la dan cruda— y la masca sabrosamente, lleno de placer, mientras la sanguaza le chorrea por los labios.
+<br>La comida se la arrojan desde lejos. El antropófago se inclina, husmea, escoge la carne —que se la dan cruda— y la masca sabrosamente, lleno de placer, mientras la sanguaza le chorrea por los labios.
 </div><br>
 
 </div><br>
