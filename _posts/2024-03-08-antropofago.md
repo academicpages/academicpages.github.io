@@ -37,10 +37,10 @@ tags:
 <div style="text-align: justify;">
 <br>
 <br> A partir de la interpretación de este mapa de calor, construí un diseño cuasi-experimental para intentar aislar el efecto dinámico de la salida de la Base de Manta en la tasa de muertes violentas de intención no determinada. Específicamente, diseñé un estudio de eventos aplicado a un modelo de Diferencia-en-Diferencias (DiD), utilizando 252 observaciones anuales a nivel provincial entre 2007 y 2018. Esta estimación indicó que, tras el cese de operaciones de la base, las provincias clave en rutas de narcotráfico, especialmente en la costa, experimentaron <strong>un aumento del 75,48%</strong> en las tasas de muertes violentas de intención indeterminada en 2010. Este efecto se invierte con el tiempo, lo que sugiere la apertura y/o consolidación de rutas logísticas en provincias amazónicas como Napo.<br><br>
-</div>
+</div><br>
 
 
-![Figure 3](/images/efectoFF2.png)<br>
+![Figure 3](/images/efectoFF2.png)<br><br>
 
 <div style="text-align: justify;">
 
@@ -51,7 +51,7 @@ tags:
 
 <br>Aunque mi enfoque es más teórico –yo me especializo en la <a ref= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por definir mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
-<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, <em>pareciera</em> que las cifras narran por sí mismas una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo, para que no se sientan desacompañados, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también <em>completamente</em> al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br><br>
+<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, <em>pareciera</em> que las cifras narran por sí mismas una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también <em>completamente</em> al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br><br>
 </div>
 
 <br>
@@ -65,7 +65,7 @@ tags:
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 Allí está, en la penitenciaría, asomando por entre las rejas su cabeza grande y oscilante, el antropófago.
 
-</div>
+</div><br>
 
 </div><br>
 
@@ -100,7 +100,7 @@ Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
 ![Figure 3](/images/angostura.jpg)
 
-<div style="text-align: center;font-size:11px;">
+<div style="text-align: center;font-size:12px;">
 
 <a ref= "https://ciudadseva.com/texto/el-antropofago/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
 </div><br>
