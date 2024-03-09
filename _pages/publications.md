@@ -79,4 +79,3 @@ author_profile: true
 {% endfor %}
 ------
 <br>
-<sup>*</sup> Equal authorship
