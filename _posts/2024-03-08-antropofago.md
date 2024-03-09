@@ -25,8 +25,18 @@ tags:
 
 <br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br>
 
+</div>
+
+![Figure 5](/images/causasycoca2.jpeg)<br>
+
+<div style="text-align: justify;">
+
 <br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">[ruptura política]</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br>
 
+</div>
+
+
+<div style="text-align: justify;">
 
 <br>En mi <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[segunda entrada]</a>, analicé con mayor detalle la relación entre las incautaciones de cocaína y la tasa de muertes violentas de intención no determinada. Al hacer un <em>zoom in</em> a nivel provincial entre incautaciones (datos de nivel nacional) y tasas (a nivel de cada provincia), emergió un mapa de calor representado por el nivel de significancia estadística arrojado por la regresión lineal respectiva. Lo que comenzó como un ejercicio intelectual, repleto de números y parámetros, pareció cobrar vida propia: este mapa de calor parece coincidir notablemente con las rutas de la cocaína recientemente reveladas por la inteligencia policial; en ese sentido, el ejercicio de ir <em>hasta donde la razón y los datos nos llevaran</em> encontraba, por así decirlo, una "triangulación" de una fuente externa confiable e independiente.<br><br>
 
