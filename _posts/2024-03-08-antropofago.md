@@ -60,7 +60,7 @@ tags:
 
 <br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque casi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
 
-<br>Aunque mi enfoque es más teórico –yo me especializo en la <a ref= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por definir mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
+<br>Dado mi enfoque como investigador es más teórico –propiamente, me especializo en la <a ref= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por definir mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
 <br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, <em>pareciera</em> que las cifras narran por sí mismas una historia cuya interpretación depende del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a ref= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también <em>completamente</em> al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br><br>
 </div>
@@ -88,9 +88,9 @@ Allí está, en la penitenciaría, asomando por entre las rejas su cabeza grande
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 Todos lo conocen. Las gentes caen allí como llovidas por ver al antropófago. Dicen que en estos tiempos es un fenómeno. Le tienen recelo. Van de tres en tres, por lo menos, armados de cuchillas, y cuando divisan su cabeza grande se quedan temblando, estremeciéndose al sentir el imaginario mordisco que les hace poner carne de gallina. Después le van teniendo confianza, los más valientes han llegado hasta a provocarle, introduciendo por un instante un dedo tembloroso por entre los hierros. Así repetidas veces como se hace con las aves enjauladas que dan picotazos.
 
-</div>
+</div><br>
 
-</div>
+</div><br>
 
 ![Figure 2](/images/2010ff.png)
 
