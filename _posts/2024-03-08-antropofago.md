@@ -36,7 +36,15 @@ tags:
 
 <div style="text-align: justify;">
 <br>
-<br> A partir de la interpretación de este mapa de calor, construí un diseño cuasi-experimental para intentar aislar el efecto dinámico de la salida de la Base de Manta en la tasa de muertes violentas de intención no determinada. Específicamente, diseñé un estudio de eventos aplicado a un modelo de Diferencia-en-Diferencias (DiD), utilizando 252 observaciones anuales a nivel provincial entre 2007 y 2018. Esta estimación indicó que, tras el cese de operaciones de la base, las provincias clave en rutas de narcotráfico, especialmente en la costa, experimentaron <strong>un aumento del 75,48%</strong> en las tasas de muertes violentas de intención indeterminada en 2010. Este efecto se invierte con el tiempo, lo que sugiere la apertura y/o consolidación de rutas logísticas en provincias amazónicas como Sucumbíos y Napo. <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[Allí]</a> también realicé una serie de pruebas para verificar los supuestos clave del estimador DiD (tendencias paralelas), pruebas de falsificación asignando aleatoriamente un tratamiento placebo, y estimadores alternativos, como Newey-West con cuatro rezagos, que ajustan la heterocedasticidad y las autocorrelaciones.<br><br>
+<br> A partir de la interpretación de este mapa de calor, construí un diseño cuasi-experimental para intentar aislar el efecto dinámico de la salida de la Base de Manta en la tasa de muertes violentas de intención no determinada. Específicamente, diseñé un estudio de eventos aplicado a un modelo de Diferencia-en-Diferencias (DiD), utilizando 252 observaciones anuales a nivel provincial entre 2007 y 2018. Esta estimación indicó que, tras el cese de operaciones de la base, las provincias clave en rutas de narcotráfico, especialmente en la costa, experimentaron <strong>un aumento del 75,48%</strong> en las tasas de muertes violentas de intención indeterminada en 2010. Este efecto se invierte con el tiempo, lo que sugiere la apertura y/o consolidación de rutas logísticas en provincias amazónicas como Napo.<br><br>
+</div>
+
+
+![Figure 3](/images/efectoFF2.png)<br>
+
+<div style="text-align: justify;">
+
+ <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[En ese post]</a> también realicé una serie de pruebas para verificar los supuestos clave del estimador DiD (tendencias paralelas), pruebas de falsificación asignando aleatoriamente un tratamiento placebo, y estimadores alternativos, como Newey-West con cuatro rezagos, que ajustan la heterocedasticidad y las autocorrelaciones.<br>
 
 
 <br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque casi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
