@@ -31,7 +31,7 @@ tags:
 
 <div style="text-align: justify;">
 
-<br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">[ruptura política]</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br>
+<br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">[ruptura política]</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br><br>
 
 </div>
 
