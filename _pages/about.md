@@ -13,7 +13,7 @@ redirect_from:
 What I'm interested in
 ======
 
-I’m interested in the intersection between medicine and computer science by advancing neuroscience research with computer science. In particular, I'm investigating ways to use machine learning to expand our understanding of brain networks.
+I’m interested in the intersection of medicine and computer science by advancing neuroscience research with computer science. In particular, I'm investigating ways to use machine learning to expand our understanding of brain networks.
 
 What I'm working on
 ======
