@@ -7,6 +7,19 @@ tags:
 ---
 
 <div style="text-align: justify;">
+<br>
+
+<div style="background-color: rgb(221, 221, 221); padding: 14px;">
+<strong>TL;DR:</strong> Durante un período de 12 años, entre 2007 y 2018, se desconocen las causas exactas de muerte de aproximadamente <strong>7,379 ecuatorianos</strong>, lo que equivale a un promedio alarmante de 820 muertes por año, o 2.2 ecuatorianos cada día.<br>
+
+<br>Estas cifras revelan una posible violación sistemática de los derechos humanos y una situación de impunidad generalizada en Ecuador.<br> 
+
+<br>Cada una de estas muertes violentas sin esclarecer representa potencialmente un crimen sin resolver y una violación flagrante del derecho fundamental a la vida. La acumulación de miles de estos casos sin una respuesta efectiva por parte del sistema de justicia socava profundamente el Estado de Derecho y pone en tela de juicio el cumplimiento de las obligaciones internacionales del Estado en materia de derechos humanos.
+</div><br>
+
+</div><br>
+
+<div style="text-align: justify;">
 
 
 <br>En la <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br><br>
@@ -44,9 +57,9 @@ tags:
  <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[En ese post]</a> también realicé una serie de pruebas para verificar los supuestos clave del estimador DiD (tendencias paralelas), pruebas de falsificación asignando aleatoriamente un tratamiento placebo, y estimadores alternativos, como Newey-West con cuatro rezagos, que ajustan la heterocedasticidad y las autocorrelaciones.<br>
 
 
-<br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque casi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
+<br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque cuasi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
 
-<br>Dado que mi enfoque como investigador es más teórico –propiamente, me especializo en la <a href= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo de Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
+<br>Dado que mi enfoque como investigador es más teórico –propiamente, me especializo en la <a href= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo del Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
 <br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, utilizando los mismos datos de mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[segunda entrada]</a>, me percaté de que <em>pareciera</em> como si las cifras quisieran narrar por sí mismas una historia cuya interpretación dependerá del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo-experimental, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a href= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también completamente al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
 </div>
