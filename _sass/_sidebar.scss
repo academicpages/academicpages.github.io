@@ -13,6 +13,11 @@
   @include clearfix();
   margin-bottom: 1em;
 
+  @media screen and (min-width: 1024px) {
+    position: fixed;
+    padding-top: $masthead-height;
+  }
+
   @include breakpoint($large) {
     @include span(2 of 12);
     opacity: 1;
@@ -23,7 +28,6 @@
       opacity: 1;
     }
   }
-
 
   @include breakpoint($x-large) {
     padding-right: 0;
