@@ -12,7 +12,7 @@ location: "Bochum, Germany"
 * Language: German
 * Credits: 9 CP
 * Programs: B.A./B.Sc./M.Sc. Mathematics
-* Examination: 100 % Written Exam (120 Minutes) + 10 % Homework
+* Examination: 100 % Written Exam (120 Minutes)
 
 Course Description
 ======
