@@ -7,17 +7,18 @@ tags:
 ---
 
 <div style="text-align: justify;">
+
 <br>
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
-<strong>TL;DR:</strong> Durante un período de 12 años, entre 2007 y 2018, se desconocen las causas exactas de muerte de aproximadamente <strong>7,379 ecuatorianos</strong>, lo que equivale a un promedio alarmante de 820 muertes por año, o 2.2 ecuatorianos cada día.<br>
+Durante un período de 12 años, entre 2007 y 2018, se desconocen las causas exactas de muerte de aproximadamente <strong>7,379 ecuatorianos</strong>, lo que equivale a un promedio alarmante de 820 muertes por año, o 2.2 ecuatorianos cada día.<br>
 
 <br>Estas cifras revelan una posible violación sistemática de los derechos humanos y una situación de impunidad generalizada en Ecuador.<br> 
 
 <br>Cada una de estas muertes violentas sin esclarecer representa potencialmente un crimen sin resolver y una violación flagrante del derecho fundamental a la vida. La acumulación de miles de estos casos sin una respuesta efectiva por parte del sistema de justicia socava profundamente el Estado de Derecho y pone en tela de juicio el cumplimiento de las obligaciones internacionales del Estado en materia de derechos humanos.
 </div><br>
 
-</div><br>
+</div>
 
 <div style="text-align: justify;">
 
