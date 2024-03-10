@@ -9,7 +9,7 @@ location: "Bochum, Germany"
 
 offered by Prof. Dr. May (2022/23), Prof. Dr. Fleischhacker (2023/24)
 
-Corrector (2022/23), Corrector & Exercise Supervisor (2022/23)
+Corrector (2022/23), Corrector & Exercise Supervisor (2023/24)
 
 Course Description
 ======
