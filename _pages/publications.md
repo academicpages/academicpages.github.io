@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## Preprint
+* <b>Gradient-Free Adaptive Global Pruning for Pre-trained Language Models</b>.<br>
+<b>Guangji Bai</b>, Yijiang Li, Chen Ling, Kibaek Kim, Liang Zhao.<br>
+<i>arXiv. Under review</i>.<br>
+[[paper](https://arxiv.org/pdf/2402.17946v1)]<br>
+
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
