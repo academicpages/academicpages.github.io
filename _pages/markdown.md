@@ -54,6 +54,8 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 ## Markdown guide
 
+Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+
 ### Header three
 
 #### Header four
@@ -141,8 +143,31 @@ Make any link standout more when applying the `.btn` class.
 
 ## Notices
 
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
+Basic notices or call-outs are supported using the following syntax:
+
+```markdown
+**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
 {: .notice}
+```
+
+which wil render as:
+
+**Watch out!** You can also add notices by appending `{: .notice}` to the line following paragraph.
+{: .notice}
+
+### Footnotes
+
+Footnotes can be useful for clarifying points in the text, or citing information.[^1] Markdown support numeric footnotes, as well as text as long as the values are unique.[^note]
+
+```markdown
+This is the regular text.[^1] This is more regular text.[^note]
+
+[^1]: This is the footnote itself.
+[^note]: This is another footnote.
+```
+
+[^1]: Such as this footnote.
+[^note]: When using text for footnotes markers, no spaces are permitted in the name.
 
 ## HTML Tags
 
