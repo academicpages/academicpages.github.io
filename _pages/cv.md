@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Currently M.Sc. in Biophysics, Humboldt-Universität zu Berlin, 2026 (expected)
+* B.Sc. in Biochemistry, Universität zu Köln, 2024
+* Preperatory M-course for German University Entrance (Feststellungsprüfung), Niedersächsisches Studienkolleg Hannover, 2019
+* Highschool-leaving certificate with DSD-II (12-years), Chuyen Ngoai Ngu FLSS Hanoi, 2018
 
-Work experience
+Internship
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Virology, 2023
+  * National Institute of Veterinary Medicine, Hanoi
+  * Duties includes: Haemagglutination inhibition test to diagnose chicken flu virus H5N1
+  * RT-qPCR to diagnose chicken flu virus H5N1
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Bachelor Thesis
+  * AG Niefind, Institut für Biochemie, Universität zu Köln
+  * Supervisor: C. Werner
+  * Characterisation of protein kinase CK2a mutants related to Okur-Chung Neurodevelopmental syndrome
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bioinformatics tools
+  * Origin
+  * ChimeraX, PyMol
+  * ImageJ
+* MS-Office: Word, Office, Powerpoint
+* Python, MatLab, RStudio
+* Intercultural sensibility
 
-Publications
+
+Student volunteering
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Beisitzer im Vorstand, ISAC - Internationale Hochschulgruppe der Universität zu Köln, 2022-2023
+* Buddy-Programm, Mathematisch-Naturwissenschaftliche Falkutät der Universität zu Köln, 2021-2022
   
-Talks
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Vietnamese, native proficiency
+* German, advanced
+* English, advanced
   
-Teaching
+Hobby
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* In my free time, I like swimmming
