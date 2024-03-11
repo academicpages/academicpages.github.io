@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Florian E. C. Blanc"
-  avatar           : "profile.png"
+  avatar           : "profile_reduced.png"
   bio              : "Computational molecular biophysicist."
   location         : "Lyon, France"
   employer         :
