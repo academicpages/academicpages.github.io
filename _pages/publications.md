@@ -11,18 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-<h1>Research Achievements</h1>
-------
-
-| SCIE | KCI | International Conf. | Domestic Conf. | Workshops | Domestic Patents | SW Registrations |
-|:-----------:|:----------:|:-------------------------:|:--------------------:|:---------:|:----------------:|:----------------------:|
-| 2 (2<sup>*</sup>)      | 1          | 2                         | 17                   | 2         | 3                | 5 (1<sup>*</sup>)                 |
-
-<sup>*</sup> In preparation
-------
-
-<br>
-<br>
 <h1>International Journals</h1>
 ------
 {% for post in site.publications reversed %}
