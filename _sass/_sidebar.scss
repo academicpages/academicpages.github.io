@@ -125,6 +125,13 @@
   font-size: $type-size-5;
 }
 
+.sidebar .author__desktop {
+  display: none;
+  @media screen and (min-width: 1024px) {
+    display: block;
+  }
+}
+
 .author__pronouns {
   margin: 0;
 
