@@ -2,6 +2,12 @@
 
 
 import os
+import argparse
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument("-b","--bib_file",type=str)
+args = parser.parse_args()
 
 
 def parse_bib_file(file_path):
@@ -71,5 +77,5 @@ def convert_bib_to_markdown(bib_file):
             file.write(markdown_content)
 
 # Example usage
-convert_bib_to_markdown('My_Publications.bib')
+convert_bib_to_markdown(args.bib_file)
 
