@@ -8,7 +8,5 @@ date: 2017-09-01
 location: "Strasbourg, France"
 ---
 
-# Scientific methodology: mathematical tools for chemistry
-
 Elementary calculus, linear algebra, Euclidean geometry, trigonometry, probabilities and statistics. 
 

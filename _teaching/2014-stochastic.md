@@ -8,8 +8,6 @@ date: 2014-12-01
 location: "Créteil, France"
 ---
 
-# Stochastic signal processing for biomedical data
-
 - Spectral analysis: Fourier transform, wavelet transform
 - Machine learning: principal component analysis, support vector machines
  

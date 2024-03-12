@@ -8,7 +8,6 @@ date: 2021-01-01
 location: "Frankfurt am Main, Germany"
 ---
 
-# Computational drug discovery
 - Introduction to MD simulations of proteins and small drug-like molecules.
 - Statistical-mechanical theory of binding affinity.
 - Binding free energy calculations.
