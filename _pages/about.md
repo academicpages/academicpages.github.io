@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate studying machine learning at [Duke University](https://duke.edu/) under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/). My research is primarily in deep learning for medical image analysis in topics such as anomaly detection and domain adaptation, and I am also interested in interpretability and understanding deep learning from a scientific perspective. I have also worked as a research intern in the Math, Stats, and Data Science Group at [PNNL](https://www.pnnl.gov/).
+I'm a Ph.D. candidate studying machine learning at [Duke University](https://duke.edu/) under Prof. [Maciej Mazurowski](https://sites.duke.edu/mazurowski/). My research is primarily in deep learning for medical image analysis, in topics such as domain adaptation, image translation and generation, and anomaly detection. Additionally, I am drawn to interpretability and understanding deep learning from a scientific perspective. I have also worked as a research intern in the Math, Stats, and Data Science Group at [PNNL](https://www.pnnl.gov/).
 
 See my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=a9rXidMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of my publications, with a few recent papers highlighted in the section below.
 
