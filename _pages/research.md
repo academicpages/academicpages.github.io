@@ -16,7 +16,7 @@ author_profile: true
 
 Publications
 ---
-The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (<a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">Conditionally accepted at Review of International Organizations</a>) 
+2. The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (Conditionally accepted at <i>Review of International Organizations</i>)  <a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf"> ungated </a>
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -26,7 +26,7 @@ States use symbolic gestures to increase their international status, or relative
 <p>
 <p>
 
-Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) World Development.
+1. Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) <i>World Development</i>.
 Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X"> link </a>) (<a href= "cobrienudry.github.io/files/WD_aid_withdrawal_intro.pdf">ungated</a>) 
 
 <details>
