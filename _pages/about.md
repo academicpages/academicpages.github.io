@@ -193,7 +193,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com
 
 ## LLM Pre-training Projects
 * (Member) <b> CPM-X </b> First Chinese-version large-scale pre-trained language model in 2020-2021.
-* 
+  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsinghuaAI&repo=CPM)](https://github.com/TsinghuaAI/CPM)
 
 <!--
