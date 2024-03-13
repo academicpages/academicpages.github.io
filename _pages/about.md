@@ -191,6 +191,10 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=BMTools)](https://github.com/OpenBMB/BMTools)
 
 
+## LLM Pre-training Projects
+(Member) <b> CPM-X </b> First Chinese-version large-scale pre-trained language model in 2020-2021.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TsinghuaAI&repo=CPM)](https://github.com/TsinghuaAI/CPM)
+
 <!--
 ## Teaching
 * [Jul. 2022] Tsinghu University - NLP Big Model Course (Summer) [link](https://www.bilibili.com/video/BV1UG411p7zv?p=1&unique_k=OwC3PgP)
