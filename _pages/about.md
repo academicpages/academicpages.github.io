@@ -18,11 +18,13 @@ redirect_from:
 
 
 - 🔭 I’m currently a PhD student in Mechanical Engineering @ [University of Beira Interior](https://www.ubi.pt/) (Portugal)
+- Check PhD work in [Resume PhD Thesis](https://silviomcandido.github.io/webJet/index.html)
 - 🌱 Working in Computational Fluid Dynamics (CFD) for Study the Whipping and Atomization of Electrohydrodynamic Liquid Jets. Have a look...
 
 <br/> <img src='/images/s118.png' style='width: 100%; height: auto;'>
 
 ## NEWS
+
 [2023 IMECE® International Mechanical Engineering Congress & Exposition](https://event.asme.org/IMECE), New Orleans, LA, USA (29/10/2023 - 02/11/2023): <br>
  - "A Three-Dimensional Numerical Investigation of Taylor Cone Jet Instabilities Using the VOF Method" by S. Cândido & J. Páscoa
  - "Improving Efficiency of Automotive Coating and Curing Processes Through Deep Learning Algorithms and High-Fidelity CFD Modeling" by S. Cândido, M. Pendar & J. Páscoa
