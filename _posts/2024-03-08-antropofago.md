@@ -494,4 +494,96 @@ Pero Tiberio (hijo), se quedó sin nariz, sin orejas, sin una ceja, sin una meji
 <div style="text-align: center;font-size:13px;">
 
 <a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
-</div><br>
+</div><br><br><br>
+
+
+<hr>
+<hr>
+<br>
+<div style="text-align: center;" >
+<strong>Replicación</strong>
+
+</div>
+<br>
+
+<div style="text-align: justify;" >
+
+<strong>A.</strong> La base de datos para el mapeo geográfico-temporal la pueden encontrar haciendo click <a href="https://www.dropbox.com/scl/fi/oxwkex7lt8l3r8exnswvp/Var.csv?rlkey=p59j95cjsb7l3dkbytc4pc7cg&dl=0">[aquí]</a>.<br> 
+
+<br><strong>B.</strong> La variable relevante se denomina "Var" y cuantifica la variación porcentual del logaritmo natural de la tasa. En concreto, para eludir cualquier división por cero durante la transformación, se aplica la fórmula $\ln(2+\text{TasaViolentasIndetermidas})$ a los datos de la tasa para asegurar comparabilidad entre provincias.<br>
+
+<br><strong>C.</strong> En este <a href="https://gadm.org/download_country.html">[link]</a> pueden descargar el <em> Shapefile </em> para realizar el mapeo, con el archivo pertinente denominado 'gadm41_ECU_1.shp'. Luego, pueden aplicar el comando en R que se muestra a continuación.
+
+</div>
+<br>
+
+<div style="display: flex; justify-content: center;">
+
+<pre style="background-color: #f4f4f4; color: #333; padding: 20px; border: 2px solid #000; box-shadow: 0 4px 6px rgba(0,0,0,0.1); font-family: 'Courier New', Courier, monospace; line-height: 1.5; overflow-x: auto; font-size: 12px;">
+<code>
+# Cargar las bibliotecas
+library(ggplot2)
+library(tidyverse) 
+library(sf)        
+library(readr)     
+
+# Cargar los datos 
+data <- read_csv('/Var.csv')
+provinces <- st_read('/gadm41_ECU_1.shp')
+
+# Ejemplo: Filtrar los datos para el año 2010
+filtered_data <- data %>% filter(Year == 2010)
+
+# Combinar los datos filtrados con el archivo de forma de las provincias
+final_data <- provinces %>% left_join(filtered_data, by = "CC_1")
+
+# Calcular el centroide de las geometrías para mejorar la visualización
+final_data$geometry_centroid <- st_centroid(final_data$geometry)
+
+# Definir los límites mínimos y máximos de la variable "Var"
+min_var <- max(0, min(final_data$Var, na.rm = TRUE)) # Mínimo valor de "Var", pero no menos que 0
+max_var <- 50 # Máximo 
+
+# Crear el mapa para el ejemplo del año 2010
+ggplot(final_data) +
+  geom_sf(aes(fill = Var), color = "black") + 
+  scale_fill_gradient(
+    low = "green", 
+    high = "black", 
+    name = " ", # Nombre de la barra de colores
+    limits = c(min_var, max_var), 
+    breaks = c(min_var, max_var),
+    labels = c(paste0(round(min_var, 2), "%"), paste0(round(max_var, 2), "%")), 
+    na.value = "black", 
+    oob = scales::squish 
+  ) +
+  geom_sf_text(aes(label = Provincia), size = 2.7, color = "black", check_overlap = TRUE) + 
+  coord_sf(xlim = c(-81.5, -75), ylim = NULL) + 
+  labs( # Etiquetas del gráfico
+    title = "Tasa de Muertes Violentas de Intención no Determinada",
+    subtitle = "Aumentos en variación porcentual anual. Año 2010",
+    caption = " ",
+    fill = " "
+  ) +
+  theme_minimal() + 
+  theme(
+    plot.caption = element_text(hjust = 0.5, size = 10, margin = margin(t = 5, b = 0), face = "plain"),
+    plot.title = element_text(hjust = 0.5, size = 15, margin = margin(t = 0, b = 8), face = "bold"),
+    plot.subtitle = element_text(hjust = 0.5, size = 13, margin = margin(t = 0, b = -8), face = "plain"),
+    axis.title = element_blank(),
+    axis.text = element_blank(),
+    axis.ticks = element_blank(),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    legend.margin = margin(t = -15, b = 10),
+    legend.position = "bottom",
+    legend.title = element_text(size = 10),
+    panel.background = element_rect(fill = "white", colour = "white"),
+    plot.background = element_rect(fill = "white", colour = "white"),
+    plot.margin = margin(t = 5, r = -5, b = 5, l = -5, unit = "mm")
+  )
+
+
+
+</code></pre>
+</div>
