@@ -16,7 +16,7 @@ author_profile: true
 [[paper](https://arxiv.org/abs/2401.00625)]<br>
 
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
-Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+Junxiang Wang, <b>Guangji Bai</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/abs/2312.12276)]<br>
 
