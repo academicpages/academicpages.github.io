@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Steven M. Lombardo, PhD"
 title_separator          : "-"
-name                     : &name "test test test Your Name"
+name                     : &name "Steven M. Lombardo"
 description              : &description "Research Associate"
 url                      : https://smlombardo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "smlombardo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : ""
+  name             : "Steven M. Lombardo, PhD"
   pronouns         : # example: "she/her"  
   bio              : "Fisheries Ecology, Human Dimensions, and Geospatial Programming"
   location         : "Fort Pierce, FL"
