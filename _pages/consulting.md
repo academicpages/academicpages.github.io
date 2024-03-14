@@ -5,8 +5,8 @@ permalink: /consulting/
 author_profile: true
 ---
 
-- Insolvency and Bankruptcy Board of India (IBBI) [2024--ongoing]
-  - Behavioral impact of the Insolvency and Bankruptcy Code (IBC)
+- Insolvency and Bankruptcy Board of India [2024--ongoing]
+  - Behavioral impact of the Insolvency and Bankruptcy Code 
   
 
 - Union Bank of India [2019-2020]
