@@ -27,9 +27,6 @@ Imaginemos que las muertes violentas de intención no determinada son <em>comple
 
 <br>He tomado las críticas superficiales de la mejor manera que sé hacerlo: como oportunidades para mejorar aún más el análisis. En concreto, las reformulé como una pregunta: ¿Esta <em>otrora inexplicable</em> concentración geográfica-temporal ocurre también con muertes catalogadas oficialmente como accidentales? Para ilustrarlo, me enfoqué en la categoría "Accidentes de transporte terrestre" del Registro Estadístico de Defunciones Generales del INEC. A continuación, presento una colección del cotejo y contraste respectivo, en donde utilizo esta categoría de accidentes como un "Placebo" extra que robustece aún más los resultados de mi diseño cuasi-experimental, en la medida en que las concentraciones geográfico-temporales parecen ocurrir en tal magnitud únicamente en las muertes violentas de intención no determinada.
 
-
-
-
 </div><br>
 
 <div style="text-align: center;">
@@ -45,6 +42,8 @@ Imaginemos que las muertes violentas de intención no determinada son <em>comple
 ![Figure 4](/images/200910.png)
 
 <div style="text-align: center;">
+
+<br>
 <hr>
 <strong>Años: 2012-2013</strong>
 <hr>
@@ -58,6 +57,7 @@ Imaginemos que las muertes violentas de intención no determinada son <em>comple
 ![Figure 4](/images/201213.png)
 
 <div style="text-align: center;">
+<br>
 <hr>
 <strong>Años: 2016-2017</strong>
 <hr>
