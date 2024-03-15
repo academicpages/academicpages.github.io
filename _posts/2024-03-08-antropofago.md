@@ -41,7 +41,7 @@ Durante un período de 12 años, entre 2007 y 2018, se desconocen las circunstan
 
 </div><br>
 
-![Figure 2](/images/comparativoFFF.png)<br>
+![Figure 5](/images/cocaycausaFFF.png)<br>
 
 <div style="text-align: justify;">
 
