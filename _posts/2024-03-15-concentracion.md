@@ -77,7 +77,7 @@ Imaginemos que las muertes violentas de intención no determinada son <em>comple
 
 <br>Otro aspecto positivo derivado de este ejercicio de robustez fue el descubrimiento de patrones llamativos en la tasa de suicidios desde 2014, detalles disponibles en el <a href="https://www.dropbox.com/scl/fi/hjsfo7zczdjqzcgh7zp5a/VarAmpliado.csv?rlkey=byavsnpkya52vnwqbp9x4cnty&dl=0">[enlace anterior]</a>. Desde ese año en adelante, la tasa de suicidios mostró un incremento constante, alcanzando niveles récord nunca vistos desde 1999 en los años inmediatamente posteriores.<br><br>
 
-</div>
+</div><br>
 
 ![Figure 4](/images/201314S.png)
 
