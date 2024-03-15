@@ -7,13 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at CREST, under the supervision of [Vianney Perchet](https://vianney.ai/), since September 2020. My PhD title is "Online Matching in Random Graphs". I am interested in online learning and algorithms. My current topics of research are Online Matching and Multi-Armed bandits.
 
+I am an Assistant Professor in the Information Systems and Operations Management department at HEC Paris. My research focuses on online learning on algorithms, with applications in digital advertising. I received my Ph.D. in Applied Mathematics from ENSAE Paris in 2023 where my advisor was [Vianney Perchet](https://vianney.ai/). Before my PhD, I completed my master and undergraduate studies at Ecole polytechnique (France) in 2019, and graduated from the master MVA (ENS Cachan) in 2019, with a major in machine learning.
 
-
-Before that I got an engineering degree from Ecole Polytechnique and graduated the master MVA (Machine Learning and Computer Vision) from ENS Paris-Saclay.
-
-Between June and October 2022, I am an intern at DeepMind London in the Foundations team under the supervision of [Claire Vernade](https://www.cvernade.com/).
 
 ------
 
