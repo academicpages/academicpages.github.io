@@ -8,7 +8,7 @@ tags:
 
 <div style="text-align: justify;">
 
-<br>En la <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[tercera entrada]</a> de mi trilogía, que busca comprender la serie de eventos que condujeron a Ecuador a sumirse en una espiral de violencia, demostré que el efecto causal aislado adquiere mayor credibilidad debido a la concentración geográfica y temporal de las muertes violentas de intención no determinada. Estas muertes, que incluyen estrangulamientos y envenenamientos en los que "la información disponible no permite distinguir entre accidente, lesión autoinfligida y agresión", según la <a href="https://ais.paho.org/classifications/Chapters/">[Clasificación Internacional de Enfermedades]</a>, se concentran específicamente en provincias situadas en las rutas clave del narcotráfico de cocaína. En ese análisis, mi razonamiento central fue el siguiente:<br>
+<br>En la <a href="https://arduinotomasi.github.io/posts/2024/03/antropofago/">[tercera entrada]</a> de mi trilogía, que busca comprender la serie de eventos que condujeron a Ecuador a sumirse en una espiral de violencia, demostré que el efecto causal aislado adquiere mayor credibilidad debido a la concentración geográfica y temporal de las muertes violentas de intención no determinada. Estas muertes, que incluyen estrangulamientos y envenenamientos en los que "la información disponible no permite distinguir entre accidente, lesión autoinfligida y agresión", según la <a href="https://ais.paho.org/classifications/Chapters/">[Clasificación Internacional de Enfermedades]</a>, se concentran específicamente en provincias situadas en las rutas clave del narcotráfico de cocaína. En ese análisis, mi razonamiento central fue el siguiente:<br>
 </div>
 
 <div style="text-align: justify;">
