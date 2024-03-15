@@ -83,7 +83,7 @@ Imaginemos que las muertes violentas de intención no determinada son <em>comple
 
 <div style="text-align: justify;">
 
-<br>¿Será este el siguiente paso del análisis de las <a href="https://www.dropbox.com/scl/fi/hjsfo7zczdjqzcgh7zp5a/VarAmpliado.csv?rlkey=byavsnpkya52vnwqbp9x4cnty&dl=0">[muertes violentas inusuales]</a> ocurridas desde la salida de la Base de Manta en septiembre de 2009 hasta la ruptura política entre Rafael Correa y su sucesor y exaliado, Lenin Moreno? Habrá que agradecer a los autodenominados "correístas" por esta potencial nueva línea de investigación.<br>
+<br>¿Será este el siguiente paso del análisis de las <a href="https://www.planv.com.ec/historias/politica/muertes-sin-aclarar-la-decada-correista-1">[muertes violentas inusuales]</a> ocurridas desde la salida de la Base de Manta en septiembre de 2009 hasta la ruptura política entre Rafael Correa y su sucesor y exaliado, Lenin Moreno? Habrá que agradecer a los autodenominados "correístas" por esta potencial nueva línea de investigación.<br>
 
 <br>
 
