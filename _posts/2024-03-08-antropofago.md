@@ -7,6 +7,7 @@ tags:
 ---
 
 <div style="text-align: justify;">
+
 <div style="text-align: right;">
 <em>Fecha de última actualización: 15 de marzo de 2024</em><br>
 </div>
