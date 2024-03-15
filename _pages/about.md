@@ -22,6 +22,6 @@ Please see my recent work below:
 
 - Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Seung Joo Lee): [Draft.pdf](https://zhenghua-qi.github.io/files/AD_AS_draft.pdf)
 
-- Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele)
+- Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Draft coming soon!]
 
 - Diagnostic Expectations in Housing Price Dynamics (with Byoungchan Lee)
