@@ -35,12 +35,12 @@
   }
 
   h3, h4 {
-    font-size: $type-size-8;
+    font-size: $type-size-5;
   }
 
   p, li {
     font-family: $sans-serif;
-    font-size: $type-size-10;
+    font-size: $type-size-6;
     line-height: 1.5;
   }
 
@@ -118,7 +118,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-8;
+  font-size: $type-size-5;
 }
 
 .author__bio {
@@ -227,7 +227,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-8;
+    font-size: $type-size-5;
     text-decoration: none;
 
     &:hover {
