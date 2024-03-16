@@ -1,10 +1,9 @@
 ---
 layout: archive
-# title: ""
+title: ""
 permalink: /research/
 author_profile: true
 ---
-
 Works in Progress
 ---------------	
 Biased Experts and Public Trust
