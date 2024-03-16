@@ -1,17 +1,18 @@
 ---
 layout: archive
-title: ""
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
-Works in Progress
----------------	
+
+#### Works in Progress
+
 Biased Experts and Public Trust
 
 The Effect of Social Unrest on Sovereign Bonds (with Grace Gu)
 
-Non-peer Reviewed Publications
----------------	
+#### Non-peer Reviewed Publications
+	
 Belief Management and Unethical Behavior (with Marta Serra-Garcia and Silvia Saccardo)<br>
 Forthcoming, *Research Handbook on Unethical Behavior*.
 
