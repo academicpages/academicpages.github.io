@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Download my CV [here](https://albertkjoller.github.io/files/Albert_Kjoeller_Jacobsen_CV.pdf).
+
 <!-- 
 Education
 ------
