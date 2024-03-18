@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yusheng Su (Yu-Sheng Su)"
+title                    : "Yu-Sheng (Ethan) Su"
 title_separator          : "-"
 name                     : &name "Yu-Sheng (Ethan) Su"
 description              : &description "LLM researcher"
