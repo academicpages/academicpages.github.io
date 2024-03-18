@@ -211,6 +211,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  study:
+    output: true
+    premalink: /:collection/:path/
+  project:
+    output: true
+    premalink: /:collection/:path/
 
 
 # Defaults
