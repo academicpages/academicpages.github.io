@@ -9,11 +9,11 @@ main:
   #- title: "Projects"
   #  url: /Projects/    
 
-	- title: "Publications"
+  - title: "Publications"
     url: /publications/
 
   - title: "Talks"
-  	url: /talks/
+    url: /talks/
 
   - title: "Teaching"
     url: /teaching/    
