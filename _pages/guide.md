@@ -13,6 +13,8 @@ redirect_from:
 
 ------   
 
++ [部署工程师的自我修养-cuda方向](https://github.com/lix19937/history/faqs.md)    
+
 + [cv](https://github.com/lix19937/cv-cookbook)      
 
 + [dnn](https://github.com/lix19937/dnn-cookbook)      
