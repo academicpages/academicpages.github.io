@@ -317,14 +317,14 @@ tag_archive:
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
-	enabled:
-  	- categories
+  enabled:
+    - categories
     - tags
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-  	category: /categories/:name/
+    category: /categories/:name/
     tag: /tags/:name/
 
 
