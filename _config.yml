@@ -12,7 +12,7 @@ title                    : "Julien Lie-Panis"
 title_separator          : ""
 name                     : &name "Julien-Panis"
 description              : &description "personal description"
-url                      : https://julienliepanis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jliep.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "jliep/jliep.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "jliep/jliep.github.io"
 
