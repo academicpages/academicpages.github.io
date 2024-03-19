@@ -14,7 +14,7 @@ name                     : &name "Julien-Panis"
 description              : &description "personal description"
 url                      : https://julienliepanis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jliep/ji.github.io"
+repository               : "jliep/jliep.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "jliep/ji.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Julien"
+  name             : "Julien Lie-Panis"
   pronouns         : # example: "she/her"  
   bio              : "Game theory, psychology, social sciences"
   location         : "Germany"
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "@jliep.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "jliep.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
