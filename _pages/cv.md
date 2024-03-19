@@ -42,16 +42,6 @@ Projects
   - Engineered scalable deployment with NGINX, Gunicorn, and Docker
   - Developing a reporting dashboard for national teams
 
-Technical Skills
-================
-
-* **Languages:** Python, Bash, Java, Powershell
-* **Frameworks:** Litestar, Django, Flask, FastAPI, Jinja2, OAuth, PostgreSQL, TailwindCSS, Bootstrap, SQLAlchemy
-* **Tools:** Git, Docker, LXD/LXC, NGINX, Ansible, Azure, Prometheus, Grafana, Zabbix, OpenTelemetry
-* **Operating Systems:** Windows Server (2012-2022), Ubuntu Server, Red Hat Server (RHEL/CentOS/Rocky Linux)
-* **Software:** VMWare vSphere, ESXi, Proxmox, Hyper-V, GPO, ServiceNow, SCCM, Citrix
-* **Currently Learning:** Kubernetes, Rancher (Harvester, k3s), Jenkins, Terraform, Rust
-
 Open Source
 ===========
 
@@ -69,29 +59,15 @@ Open Source
   * Maintained projects including a [SQLAlchemy companion library](https://github.com/jolt-org/advanced-alchemy), 
     Python runtime type introspection utility library, and more.
 
-Projects
-========
+Technical Skills
+================
 
-Xpress Order Management | Web app for teams across the nation to order tests
-
-* Developed and deployed multi-environment (Dev/QA/Prod) Flask web app
-* Integrated LDAP and OAuth authentication, registration, tiered permissions, and password reset
-* Implemented Docker containerization to deploy at scale with NGINX and Gunicorn
-* Utilized Bootstrap along with Jinja2 to dynamically update the data and UI
-* Designed a complex databases with SQLite, PostgreSQL, order data, and permissions
-* Built a reporting dashboard for national teams to understand their workloads, business cost, and patient data
-
-Homelab | VMWare vSphere, Active Directory, Linux, Docker, Azure
-
-* Designed, deployed, and maintained production-level systems solely for the purpose of learning more about them
-* Designed systems around hardware constrains (Dell R510, R620, R430s) in a highly available 8-node cluster
-  using vSphere, IPMI, Reverse Proxy with NGINX, and container deployment and management
-* Implemented Docker containerization for individual services with source-controlled configuration
-* Designed networks with multiple VLANs for segmentation of services such as IoT, Servers, End Users, and Security
-* Automated various deployments using Powershell and Bash
-* Provides various services including OpenID (OAuth2), 
-  public and intranet web hosting, NAS storage, VDI remote environments, 
-  logging and monitoring with tools like Grafana, Elasticsearch, and logstash, and much more
+* **Languages:** Python, Bash, Java, Powershell
+* **Frameworks:** Litestar, Django, Flask, FastAPI, Jinja2, OAuth, PostgreSQL, TailwindCSS, Bootstrap, SQLAlchemy
+* **Tools:** Git, Docker, LXD/LXC, NGINX, Ansible, Azure, Prometheus, Grafana, Zabbix, OpenTelemetry
+* **Operating Systems:** Windows Server (2012-2022), Ubuntu Server, Red Hat Server (RHEL/CentOS/Rocky Linux)
+* **Software:** VMWare vSphere, ESXi, Proxmox, Hyper-V, GPO, ServiceNow, SCCM, Citrix
+* **Currently Learning:** Kubernetes, Rancher (Harvester, k3s), Jenkins, Terraform, Rust
 
 Education
 =========
