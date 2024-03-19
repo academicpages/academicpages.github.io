@@ -5,7 +5,7 @@ permalink: research/
 author_profile: true
 ---
 
-# Research Interests
+### Research Interests
 - Memory Centric Circuits and Architectures
 - Approximate Circuits and Architectures for Machine Learning
 - Asynchronous Design
