@@ -7,3 +7,6 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# This weird file (not a text file)
+.DS_Store
