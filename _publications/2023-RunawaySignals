@@ -1,0 +1,14 @@
+---
+title: "Runaway Signals: Exaggerated Displays of Commitment May Result from Second-Order Signaling"
+collection: publications
+permalink: /publication/2023-runawaysignals
+#excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
+date: 2022-04-27
+venue: 'Proceedings of the Royal Society B: Biological Sciences'
+paperurl: '/files/Runaway Signals.pdf'
+link: 'https://royalsocietypublishing.org/doi/full/10.1098/rspb.2021.2266'
+citation: 'Lie-Panis, J., & Dessalles, J. L. (2023). Runaway signals: Exaggerated displays of commitment may result from second-order signaling. <i>Journal of Theoretical Biology, 572</i>, 111586.'
+si: '/files/SI for Runaway Signals.pdf'
+code: 'https://evolife.telecom-paris.fr/outrage/'
+type: "journal"
+---

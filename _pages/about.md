@@ -14,6 +14,6 @@ Hi! I'm Julien, a post-doc working with Christian Hilbe at the [Max Planck Insti
 I work at the interface between game theory and social psychology. I often use insights from social psychology to design more realistic mathematical models, and sometimes test the predictions of these models in the lab. 
 In particular, I take a cognitive approach to reputation and cooperation: What information do we need to infer that a partner is trustworthy? Based on what model of the social world can we make this inference? Under what conditions will people evolve to cooperate according to our model of the social world?
 
-I enjoy working with scientists from across the social sciences. I'm always looking to learn new things, and keen to make models and experiments that are relevant for a broad audience. I'm also quite keen to answer questions from other young or aspiring scientists. Don't hesitate to contact me!
+I enjoy working with scientists from across the social sciences. I'm always looking to learn new things, and keen to make models that are relevant for non-modelers. I'm also quite keen to answer questions from other young or aspiring scientists. Don't hesitate to contact me!
 
 Here's a recent [CV](files/CV.pdf).

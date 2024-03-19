@@ -27,5 +27,18 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+      document.querySelectorAll('a').forEach(function(link) {
+    // Check if the link is an external link or a direct link to a file
+      if (link.hostname !== window.location.hostname || /\.(pdf|docx|pptx|xls|zip)$/i.test(link.pathname)) {
+        link.target = "_blank";
+      // Optional: add rel="noopener noreferrer" for security reasons
+        link.rel = "noopener noreferrer";
+      }
+      });
+    });
+    </script>
+
   </body>
 </html>
