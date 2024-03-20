@@ -266,15 +266,31 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+      
+  # _study
   - scope:
       path: ""
-      type: talks
+      type: posts
     values:
-      layout: talk
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
- 
+      related: true
+      
+  # _project
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
