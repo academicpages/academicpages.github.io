@@ -274,24 +274,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _study
-  - scope:
-      path: ""
-      type: study
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _project
-  - scope:
-      path: ""
-      type: project
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
