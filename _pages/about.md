@@ -61,8 +61,19 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2023</div><img src='/images/AAS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Changjing Liu`, Zhiwu Wang, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  
-[[HTML]](https://dx.doi.org/10.3390/s22093587)
+-	**Changjing Liu**, Zhiwu Wang, Guozheng Yan, Pingping Jiang, Lichao Wang, Yelin Chen. 
+- Simulation of Artificial Anal Sphincter Motion and Interaction with Intestinal Environment using SOFA. 
+- *Artificial Organs*, 2023, 47(11), 1710-1719.(JCR:Q3; IF:2.4)  [[HTML]](https://dx.doi.org/10.3390/s22093587)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Artificial Organs 2024</div><img src='/images/aor14662.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	Yelin Chen, Pingping Jiang, Lichao Wang, Guozheng Yan, Zhiwu Wang, **Changjing Liu**, Ding Han. 
+- Robust voltage‐controlled transcutaneous energy transfer system for artificial anal sphincter. 
+- *Artificial Organs*, 2023, 48(1), 37-49.(JCR:Q3; IF:2.4)  [[HTML]](https://onlinelibrary.wiley.com/doi/10.1111/aor.14662)
 
 </div>
 </div>
@@ -71,8 +82,9 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2020</div><img src='/images/CPCF.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	Changhong Fu, Xiaoxiao Yang, Fan Li, Juntao Xu, `Changjing Liu`, Peng Lu. Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking. *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020. 
-[[HTML]](https://ieeexplore.ieee.org/document/9340954) [[PDF]]([https://dx.doi.org/10.3390/s22093587](https://ras.papercept.net/images/temp/IROS/files/1858.pdf))
+-	Changhong Fu, Xiaoxiao Yang, Fan Li, Juntao Xu, **Changjing Liu**, Peng Lu. 
+- Learning Consistency Pursued Correlation Filters for Real-Time UAV Tracking. 
+- *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020. [[HTML]](https://ieeexplore.ieee.org/document/9340954) [[PDF]]([https://dx.doi.org/10.3390/s22093587](https://ras.papercept.net/images/temp/IROS/files/1858.pdf))
 
 </div>
 </div>
