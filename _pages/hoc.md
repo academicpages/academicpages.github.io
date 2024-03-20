@@ -28,6 +28,7 @@ What is the History of Computing
 Everything has a history.
 
 
+The image below is not accurate, but it is roughly correct. 
 ![History of Computing](/images/hoc.png)
 
 Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL, LISP, and Prolog.
@@ -58,13 +59,15 @@ Recommended Books and Papers (I have not kept up with the latest research.)
   * 
     * Mahoney, Michael S., edited by Thomas Haigh, *Histories of Computing* (2011). 
     
-* History of Theoretical Computer Science (TCS)
+* History of Theoretical Computer Science (Program Semantics, ,,,,)
     * 
     * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
   
 * Philosophy of Computing
-  * 
   * "Philosophy of science without history of science is empty; history of science without philosophy of science is blind." (I. Lakatos, The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
+  * 
+  * 
+  * Paul Humphreys, *Philosophical Papers*, 2018
   
 * History of AI
   * 
@@ -80,7 +83,7 @@ Recommended Books and Papers (I have not kept up with the latest research.)
   * Haigh, Thomas, Mark Priestley, and Crispin Rope, *ENIAC in Action: Making and Remaking the Modern Computer*, (2016)
   * Goldstine, Herman H. (1980). *The Computer from Pascal to von Neumann*
   * 
-* Military and Computing
+* Military and Computing, History of Cryptography
   * 
   
 * History of Mathematics (with a focus on computing)
@@ -88,12 +91,18 @@ Recommended Books and Papers (I have not kept up with the latest research.)
   
 * Social History
   * Gender History
-  * 
+  * Cultural History
+    * Scott Selisker, *Huma Programming: Brainwashing, Automatons, and American Unfreedom*, 2016
 * Business History
 * Industrial History  
 * Biography
   * Beyer, Kurt W. 2009. Grace Hopper and the Invention of the Information Age. Cambridge: MIT Press
   
+* Other studies that may be helpful
+  * *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
+    * 
+  * 
+    
   
 Historians of Computing (partial)
 ======
