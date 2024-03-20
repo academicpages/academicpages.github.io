@@ -20,12 +20,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<!--
 <h1 style="margin-top: 100px;">In preparation</h1>
 {% for post in site.publications reversed %}
   {% if post.type == "preprint" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+--->
 
 <h1 style="margin-top: 100px;">Other</h1>
 {% for post in site.publications reversed %}

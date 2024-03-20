@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Julien, a post-doc working with Christian Hilbe at the [Max Planck Institute for Evolutionary Biology](http://web.evolbio.mpg.de/social-behaviour). I did my PhD with Jean-Baptiste André and Jean-Louis Dessalles. 
+Hi! I'm Julien, a post-doc working with Christian Hilbe at the [Max Planck Institute for Evolutionary Biology](http://web.evolbio.mpg.de/social-behaviour). I did my PhD with Jean-Baptiste André, at [Ecole Normale Supérieure](https://cognition.ens.fr/en) and Jean-Louis Dessalles, at [Telecom Paris](https://www.telecom-paris.fr/en/research/laboratories/information-processing-and-communication-laboratory-ltci). I am originally trained in Mathematics, and have studied (in that order) Economics, International Relations, Social Sciences, and Cognitive Sciences.
 
 <!--Before that, I obtained a PhD in Cognitive Sciences---I was advised by Jean-Baptiste André and Jean-Louis Dessalles. Even before that, I studied (from most recent to oldest) Social Sciences, International Relations, Economics, and Mathematics, my original training, and original love, to which I eventually returned.
 -->

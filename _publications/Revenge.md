@@ -1,4 +1,4 @@
----
+<!-----
 title: "The Repeated Punishment Game Explains Why, and When, We Seek Revenge"
 collection: publications
 permalink: /publication/revenge
