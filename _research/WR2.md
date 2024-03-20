@@ -1,6 +1,6 @@
 ---
 title: "Economic development forecasting using news at the regional level in Peru"
-excerpt: "With Javier Beverinotti & Roberto Mendoza"
+excerpt: "With Javier Beverinotti"
 collection: research
 ---
 
