@@ -217,9 +217,6 @@ collections:
   project:
     output: true
     premalink: /:collection/:path/
-  category:
-    output: true
-    permalink: /:collection/:path/
 
 
 # Defaults
