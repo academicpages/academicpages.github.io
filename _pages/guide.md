@@ -22,11 +22,11 @@ redirect_from:
     + [utils](https://github.com/lix19937/utils)   
     + [cudaacc](https://github.com/lix19937/cudaacc)   
 
-+ [llm](https://github.com/lix19937/llm-deploy)
++ [NN部署工程师的自我修养-qnn方向](https://github.com/lix19937/snpe/blob/main/faqs.md)
+
++ [大模型推理](https://github.com/lix19937/llm-deploy)      
   
-+ [cv](https://github.com/lix19937/cv-cookbook)  
-
-
++ [图像处理](https://github.com/lix19937/cv-cookbook)    
 
 
 
