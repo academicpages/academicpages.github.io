@@ -267,29 +267,7 @@ defaults:
       share: true
       comment: true
       
-  # _study
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      
-  # _project
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+
       
 # Sass/SCSS
 sass:
