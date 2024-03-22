@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 {% include group-by-array collection=site.posts field="categories" %}
 
-{% for category in group_names %}
+{% for category in group_items %}
   {% assign posts = category.items %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
   {% for post in posts %}
