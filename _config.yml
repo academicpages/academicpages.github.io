@@ -217,6 +217,9 @@ collections:
   project:
     output: true
     premalink: /:collection/:path/
+  snack:
+    output: true
+    premalink: /:collection/:path/
 
 
 # Defaults
@@ -288,7 +291,17 @@ defaults:
       comments: true
       share: true
       related: true
-
+ # _snack
+  - scope:
+      path: ""
+      type: snack
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
       
 # Sass/SCSS
 sass:
