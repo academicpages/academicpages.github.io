@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% assign combined_collection = site.teaching | concat: site.study %}
+{% assign combined_collection = site.study | concat: site.project | concat: stie.snack %}
 {% include group-by-array collection=combined_collection field="categories" %}
 
 {% for category in group_names %}
