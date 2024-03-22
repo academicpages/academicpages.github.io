@@ -9,7 +9,7 @@ redirect_from:
 published: true
 ---
 
-I am a Ph.D. candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/). My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
+I am a Ph.D. candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) and [Geometric Learning Lab](http://www.robinwalters.com/index.html), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/). My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
 
 Prior to the Ph.D. program, I received my Master's degree in Computer Science from [Northeastern University](https://www.northeastern.edu) and my Bachelor's degree in Computer Science and Technology from [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
 
@@ -120,14 +120,16 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ![](images/haojie_iclr24.png){: .align-right width="200px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
-Haojie Huang, Owen Lewis Howell, **Dian Wang**, Xupeng Zhu, Robert Platt, Robin Walters  
+Haojie Huang, Owen Lewis Howell\*, **Dian Wang\***, Xupeng Zhu\*, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
 *ICLR 2024, Vienna, Austria*  
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/fourtran_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://openreview.net/pdf?id=UulwvAU1W0','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtube.com/playlist?list=PLtEvDdcT-Ai8irdlBB7wDsfOuOIZo1ZM2&si=iBD87RsHBr5aIFXt','_blank')">Video</button>
 <br>
 
 ![](images/haojie_ijrr.png){: .align-right width="200px"}
 **Leveraging Symmetries in Pick and Place**  
-Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters, Robert Platt  
+Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *The International Journal of Robotics Research. 2023*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://github.com/HaojHuang/Equivariant-Transporter-Net','_blank')">Code</button>
@@ -162,8 +164,7 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 
 ![](images/iclr23.gif){: .align-right width="200px"}
 **The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**  
-**Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters\*, Robert Platt\*  
-\* Equal Advising  
+**Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *ICLR 2023, Kigali, Rwanda,* ***Spotlight***  
 <span style="color:DarkGray"><em>NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations</em></span>  
 <button class="button-4" onclick="window.open('https://pointw.github.io/extrinsic_page/','_blank')">Webpage</button>
@@ -177,7 +178,6 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
 **SEIL: Simulation-augmented Equivariant Imitation Learning**  
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
-\* Equal Contribution  
 *ICRA 2023, London, UK*  
 <span style="color:DarkGray"><em>CoRL 2022 Workshop on Sim-to-Real Robot Learning</em></span>  
 <button class="button-4" onclick="window.open('https://saulbatman.github.io/project/seil/','_blank')">Webpage</button>
@@ -221,7 +221,6 @@ Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt
 ![](images/bulletarm.png){: .align-right width="200px"}
 **BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
 **Dian Wang\***, Colin Kohler\*, Xupeng Zhu, Mingxi Jia, Robert Platt  
-\* Equal Contribution  
 *ISRR 2022, Geneva, Switzerland*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2205.14292.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://github.com/ColinKohler/BulletArm','_blank')">Code</button>
@@ -311,9 +310,11 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=ZimZlsJTaTU','_blank')">Video</button>
 <br>
 
+\* indicates equal contribution; <sup>†</sup> indicates equal advising.  
+
 ## Service
 Organizer: RSS2023 Workshop on Symmetries in Robot Learning  
-Reviewer: ICLR 2024, 2023. NeurIPS 2023. ICRA 2024, 2023, 2022, 2019. CoRL 2023, 2022. IROS 2023, 2021. RAL 2023, 2022. T-RO 2022.
+Reviewer: ICML 2024. ICLR 2023-2024. NeurIPS 2023. ICRA 2019, 2022-2024. CoRL 2022-2023. IROS 2021, 2023. RAL 2022-2024. T-RO 2022.
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
