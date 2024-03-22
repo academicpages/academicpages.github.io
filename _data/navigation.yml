@@ -7,7 +7,7 @@ main:
     url: /study/
 
   - title: "Projects"
-    url: /projects/    
+    url: /project/    
 
   - title: "Snack"
     url: /snack/
