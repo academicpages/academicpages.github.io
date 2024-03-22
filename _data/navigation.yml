@@ -12,7 +12,7 @@ main:
   - title: "Snack"
     url: /snack/
 
-  - titile: "Tag"
+  - title: "Tag"
     url: /tags/
   #- title: "Publications"
   #  url: /publications/
