@@ -25,7 +25,10 @@ redirect_from:
 + [NN部署工程师的自我修养-qnn方向](https://github.com/lix19937/snpe/blob/main/faqs.md)
 
 + [大模型推理](https://github.com/lix19937/llm-deploy)      
-  
+
++ [推理引擎](https://github.com/lix19937/xinfer)
+
+
 + [图像处理](https://github.com/lix19937/cv-cookbook)    
 
 
