@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h3 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
         {{ title }}
       {% elsif post.link %}
@@ -34,7 +34,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2>
+    </h3>
     
     {% if post.read_time %}
     {% elsif post.read_time and post.collection == 'posts' %}
@@ -56,8 +56,12 @@
       
       <!-- citation and icon code -->
       <p>
+        <!--<p style="line-height: 1.5;">
+        <span style="font-size: 12 px;">-->
       {% if post.citation %}
-        {{ post.citation }}
+        <span style="font-size: smaller;">
+          {{ post.citation }}
+        </span>
       {% endif %}
       <br>
       {% if post.link %}
