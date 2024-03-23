@@ -16,7 +16,7 @@ author_profile: true
   gtag('config', 'G-4MFKZNB73K');
 </script>
 
-Translation of The History of Computing: a Very Short Introduction
+Translation of *The History of Computing: a Very Short Introduction*
 ======
 
 * 

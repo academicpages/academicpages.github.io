@@ -19,7 +19,7 @@ author_profile: true
 
 {% include base_path %}
 
-What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, (cooking?,) etc.
+What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, fishing, (cooking?,) etc.
 
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 

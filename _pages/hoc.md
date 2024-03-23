@@ -31,7 +31,7 @@ Everything has a history.
 The image below is not accurate, but it is roughly correct. 
 ![History of Computing](/images/hoc.png)
 
-Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with early programming languages such as ALGOL, LISP, and Prolog.
+Like historians in other disciplines who read Latin or Ancient Greek, Historians of Computing should also be familiar with programming languages such as ALGOL, LISP, and Prolog.
 
 
 
@@ -60,11 +60,11 @@ Introductory/Must-read Books and Papers
 * Howard Rheingold, *Tools for Thought: The History and Future of Mind-Expanding Technology*『新 思考のための道具 知性を拡張するためのテクノロジー：その歴史と未来』
 * 
 
-Recommended Books and Papers (I have not kept up with the latest research.)
+Recommended Books and Papers (NB: I have not followed the latest research.)
 ======
 * History of Computer Science
   * 
-    * Mahoney, Michael S., edited by Thomas Haigh, *Histories of Computing* (2011). 
+    * Michael S. Mahoney, edited by Thomas Haigh, *Histories of Computing* (2011). 
     
 * History of Theoretical Computer Science (Program Semantics, ,,,,)
     * 
@@ -121,33 +121,37 @@ Recommended Books and Papers (I have not kept up with the latest research.)
   
 * Biography
   * Beyer, Kurt W. 2009. Grace Hopper and the Invention of the Information Age. Cambridge: MIT Press
-  * Charles Petzold, *The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine* 『チューリングを読む：コンピュータサイエンスの金字塔を楽しもう』
   * Chris Bernhardt, *Turing's Vision: The Birth of Computer Science*
   * Andrew Hodges, *Alan Turing: The Enigma: The Book That Inspired the Film The Imitation Game* 『エニグマ アラン・チューリング伝 上・下』
   * B. Jack Copeland, *The Essential Turing: Seminal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life plus The Secrets of Enigma* 『チューリング：情報時代のパイオニア』
   * 
-  * William Aspray, *John von Neumann and the Origins of Modern Computing* 『ノイマンとコンピュータの起源』
   * Ananyo Bhattacharya, *The Man from the Future: The Visionary Life of John von Neumann* 『未来から来た男：ジョン・フォン・ノイマン』
   * Norman MacRae, *John Von Neumann: The Scientific Genius Who Pioneered the Modern Computer, Game Theory, Nuclear Deterrence, and Much More*『フォン・ノイマンの生涯』（朝日選書，のちに，ちくま学芸文庫に）
   * 
   * Jimmy Soni & Rob Goodman, *A Mind at Play: How Claude Shannon Invented the Information Age* 『クロード・シャノン 情報時代を発明した男』
+  *
+  *
   * 
+
+
+    * William Aspray, *John von Neumann and the Origins of Modern Computing* 『ノイマンとコンピュータの起源』
+    * Charles Petzold, *The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine* 『チューリングを読む：コンピュータサイエンスの金字塔を楽しもう』
   
 * Other studies that may be helpful
-  * *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
-    * Daniel R. Headrick, *When Information Came of Age: Technologies of Knowledge in the Age of Reason and Revolution, 1700-1850*『情報時代の到来：「理性と革命の時代」における知識のテクノロジー』
-      * History of information systems, history of information (≠ knowledge) transmission
-    * Alfred W. Crosby, *The Measure of Reality: Quantification in Western Europe, 1250\UTF{2013}1600*『数量化革命：ヨーロッパ覇権をもたらした世界観の誕生』
-      * History of quantification covering the period before Headrick's book.
+  * Ruth Schwartz Cowan, *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
+  * Daniel R. Headrick, *When Information Came of Age: Technologies of Knowledge in the Age of Reason and Revolution, 1700-1850*『情報時代の到来：「理性と革命の時代」における知識のテクノロジー』
+    * History of information systems, history of information (≠ knowledge) transmission
+  * Alfred W. Crosby, *The Measure of Reality: Quantification in Western Europe, 1250-1600*『数量化革命：ヨーロッパ覇権をもたらした世界観の誕生』
+    * History of quantification covering the period before Headrick's book.
   * 
 * 日本語で書かれたコンピューティング史（残念なことに，訳書を含め，日本語で書かれたモノグラフは極めて少ない）   
- * 杉本舞『「人工知能」前夜：コンピュータと脳は似ているか』
- * 喜多千草『インターネットの思想史』(2003)，『起源のインターネット』（2005）
- * 国立歴史民俗博物館編『REKIHAKU特集：人工知能の現代史』
-   * 日本でコンピューティング史をしている研究者大集結．
- * 『コンピュータ理論の起源[第１巻]：チューリング』
-   * 第2巻はノイマンとのこと．
- * 『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いだろう
+  * 杉本舞『「人工知能」前夜：コンピュータと脳は似ているか』
+  * 喜多千草『インターネットの思想史』(2003)，『起源のインターネット』（2005）
+  * 国立歴史民俗博物館編『REKIHAKU特集：人工知能の現代史』
+    * 日本でコンピューティング史をしている研究者大集結．
+  * 『コンピュータ理論の起源[第１巻]：チューリング』
+    * 第2巻はノイマンとのこと．
+  * 『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いだろう
   
 Historians of Computing (partial)
 ======
