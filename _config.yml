@@ -21,7 +21,7 @@ repository               : "Almondshin/almondshin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/Almondshin/PrevBlog/assets/88614978/5717a4d0-9203-4964-b969-258cad18984b"
+  avatar           : "ori.jpg"
   name             : "오리의 성장 일기"
   pronouns         : # example: "she/her"  
   bio              : "Backend Development Learning" #소개
