@@ -20,7 +20,7 @@ author_profile: true
 {% include base_path %}
 Under Construction!!!
 ======
-*Last Updated: March 23, 2024
+Last Updated: March 23, 2024
 
 As a sophomore, I encountered huge difficulty in knowing which books or papers I should read when I started researching the history of computing. This field has a limited number of researchers, making it challenging for beginners to obtain sufficient information without taking significant initiative or encountering good fortune. (In Japan, there are about five researchers in this field... I am grateful to my academic adviser for granting me a high level of autonomy and offering me appropriate guidance, despite being far from his expertise.) I decided to write an introductory article for beginners to help those who are struggling, like myself at the time, and to increase awareness of the History of Computing field.  I will provide some comments for someone fluent in Japanese (such as the availability of Japanese translation). 
 
