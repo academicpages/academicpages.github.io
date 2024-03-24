@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "🇺🇸"
-    url: /publications_en/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "🇯🇵"
-    url: /publications_ja/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "CV"
     url: /cv/
