@@ -18,6 +18,8 @@ author_profile: true
 </script>
 
 {% include base_path %}
+Under Construction!!!
+======
 Last Updated: March 23, 2024
 
 As a sophomore, I encountered huge difficulty in knowing which books or papers I should read when I started researching the history of computing. This field has a limited number of researchers, making it challenging for beginners to obtain sufficient information without taking significant initiative or encountering good fortune. (In Japan, there are about five researchers in this field... I am grateful to my academic adviser for granting me a high level of autonomy and offering me appropriate guidance, despite being far from his expertise.) I decided to write an introductory article for beginners to help those who are struggling, like myself at the time, and to increase awareness of the History of Computing field.  I will provide some comments for someone fluent in Japanese (such as the availability of Japanese translation). 
@@ -100,8 +102,7 @@ Recommended Books and Papers (NB: I have not followed the latest research.)
   
 * Social History
   * Gender History
-    * Nathan L. Ensmenger, *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise
-*
+    * Nathan L. Ensmenger, *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise*
     * Mar Hicks, *Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing*
     * Janet Abbate, *Recoding Gender: Women's Changing Participation in Computing*
   * Cultural History
@@ -158,10 +159,14 @@ Historians of Computing (partial)
 In any field, knowing researchers and what they are doing is important to start research.
 
 * 
+*
+*
 
 Primary Source
 ======
 * Martin Davis, Undecidability: Basic Papers on Problems Propositions Unsolvable Problems and Computable Functions
+*
+*
 
 Useful Links
 ======

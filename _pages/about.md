@@ -21,7 +21,7 @@ redirect_from:
 
 Under Construction!!!
 ======
-* I will update this page by late March&#128583;.
+* I will update this website by late March&#128583;.
 
 Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Formal Methods.
 
@@ -40,6 +40,8 @@ Miscellaneous
   * Programming
     * Python, OCaml, Java, C (, ALGOL 60?)    
   * Service
-    * ICFP Student Volunteer (September 2023)
+    * ICFP 2023 Student Volunteer (September 2023)
+    * FLOPS 2024 (May 2024) (planned)
     * The History of Science Society of Japan, 70th Annual General Meeting (May 2023)
+    * The History of Science Society of Japan, 71th Annual General Meeting (May 2024) (planned)
   

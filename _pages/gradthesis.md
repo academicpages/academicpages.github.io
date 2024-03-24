@@ -1,6 +1,6 @@
 ---
 
-title: "Graduation Thesis"
+title: "C.A.R. Hoare’s Programming Research in the 1960s"
 permalink: /gradthesis/
 author_profile: true
 
@@ -16,15 +16,14 @@ author_profile: true
   gtag('config', 'G-4MFKZNB73K');
 </script>
 
-I am writing a thesis on the history of computing.
 
-C.A.R. Hoare’s Programming Research in the 1960s
+
 ======
 
 * 0 Explanatory Notes
 
 * 1 Introduction
-  * 1.1 Research Questions of the Paper
+  * 1.1 Research Questions of this Paper
   * 1.2 Significance of the Questions
     * 1.2.1 Significance of Software History Research
     * 1.2.2 Significance of the 1960s as the Transformative Period in Computing. 
@@ -40,7 +39,7 @@ C.A.R. Hoare’s Programming Research in the 1960s
     * 1.4.2 Sources Used
   * 1.5 Structure of the Paper
 
-* 2 Oxford University and Naval Service After Graduation (1934\UTF{2013}1958)
+* 2 Hoare and Logic: Oxford University and Naval Service After Graduation (1934\UTF{2013}1958)
   * 2.1 History of Computing in the 1960s
     * 2.1.1 Emergence of the Concept of "Software"
     * 2.1.2 Emergence of "Computer Science"
@@ -53,8 +52,8 @@ C.A.R. Hoare’s Programming Research in the 1960s
     * 2.3.2 Russian Language
   * 2.4 Conclusion
 
-* 3 Hoare and Algorithms \UTF{2013} Study in Russia and Elliot Brothers (1958\UTF{2013}1968)
-  * 3.1 Return to Oxford, Then to Moscow \UTF{2013} Probability, Statistics, Machine Translation (1958\UTF{2013}1960)
+* 3 Hoare and Sort Algorithms: Study in Russia and Elliot Brothers (1958\UTF{2013}1968)
+  * 3.1 Return to Oxford, Then to Moscow \UTF{2013} Statistics,  Probability, Machine Translation (1958\UTF{2013}1960)
     * 3.1.1 Return to Oxford University
       * 3.1.1.1 Statistics Course
       * 3.1.1.2 Mercury Autocode
@@ -70,7 +69,7 @@ C.A.R. Hoare’s Programming Research in the 1960s
     * 3.3.2 From Industry to Academia
   * 3.4 Conclusion
 
-* 4 Hoare and Program Semantics (1964\UTF{2013})
+* 4 Hoare and Formal Methods (1964\UTF{2013})
   * 4.1 Hoare and Challenges in 1960s Computing (1964\UTF{2013}1967)
     * 4.1.1 Challenges in 1960s in Proving Program Correctness 
       * 4.1.1.1 Software Crisis
@@ -80,7 +79,7 @@ C.A.R. Hoare’s Programming Research in the 1960s
     * 4.1.3 Hoare's Dissatisfaction with Existing Program Semantics and His Proposals
       * 4.1.3.1 Hoare's Dissatisfaction
       * 4.1.3.2 Hoare's Proposals
-  * 4.2 "An Axiomatic Basis for Computer Programming"  (December 1967\UTF{2013})
+  * 4.2 "An Axiomatic Basis for Computer Programming"
     * 4.2.1 Draft at Manchester \UTF{2013} December 1967, "The Axiomatic Method"
     * 4.2.2 Arrival at Queen's University Belfast—Floyd and Wijngaarden's Paper
       * 4.2.2.1 Arrival at Queen's University
