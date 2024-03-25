@@ -22,6 +22,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
+\[March 2024\] We are hosting the **Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs** with plenty of awards. Click [here](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) to contribute ingenious solutions! 
+
 \[September 2023\] Beginning my internship at Amazon!
 
 \[August 2023\] One co-authored paper is accepted at **EuroSys 2024**. Congratulations!
@@ -30,35 +32,19 @@ News
 
 \[February 2023\] One co-authored paper is accepted at **SIGMOD 2023**. Congratulations!
 
-\[December 2022\] Invited to serve on the Program Committee for **KDD 2023** and **ICML 2023**. 
+\[December 2022\] Invited to serve on the Program Committee for **KDD 2023** for the first time! 
 
 \[December 2022\] **SecureBoost** received the **2021 Best Paper Award** for IEEE Intelligent Systems. Congratulations!
 
 \[October 2022\] Recognized as a **Top Reviewer** of NeurIPS 2022!
 
-\[July 2022\] Invited to serve as Reviewer (Program Committee Member) for **AAAI 2023** and **ICLR 2023**. 
-
 \[July 2022\] Recognized as an **Outstanding Reviewer** (Top 10%) of ICML 2022!
-
-\[June 2022\] Invited to serve as a Reviewer for the new **[LoG](https://logconference.org/)** Conference 2022! 
 
 \[May 2022\] CrossTReS is accepted at **KDD 2022**. Congratulations!
 
-\[March 2022\] Invited to serve as a Reviewer for **NeurIPS 2022** and its **Datasets and Benchmarks Track**. 
-
-\[February 2022\] Invited to serve as a Reviewer for **[TMLR](https://www.jmlr.org/tmlr/)**.
-
-\[January 2022\] Invited to serve as a Reviewer for **ICML 2022**. 
-
 \[August 2021\] I passed my Ph.D. qualifying exam and became a Ph.D. candidate. \[[slides](https://kl4805.github.io/files/slides.pdf)\]
 
-\[July 2021\] Invited to the Program Committee Board (i.e. to serve a three-year term as Program Committee Members) for **IJCAI 2022-24**.
-
-\[June 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021 Datasets and Benchmarks Track** and **ICLR 2022**. 
-
 \[May 2021\] SecureBoost is accepted at **IEEE Intelligent Systems**. Congratulations to my co-authors! 
-
-\[April 2021\] Invited to serve as a Program Committee Member for **NeurIPS 2021**. 
 
 \[January 2021\] One co-authored paper is accepted at **TheWebConf 2021** as a long paper. Congratulations to my co-authors!
 
