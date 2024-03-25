@@ -9,7 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+## Education
 ======
 * Ph.D. in Medicine, 2023
   * Division of Radiology and Biomedical Engineering, Graduate School of Medicine, The University of Tokyo, Tokyo, Japan
@@ -21,7 +27,7 @@ Education
 * B.S. in Medicine, 2015
   * Department of Medicine, The University of Tokyo, Tokyo, Japan
 
-Work experience
+## Work experience
 ======
 * Department of Computational Diagnostic Radiology and Preventive Medicine, the University of Tokyo Hospital, 2023--
 * Department of Radiology, the University of Tokyo Hospital, 2021--2022
@@ -30,28 +36,3 @@ Work experience
 * Department of Radiology, SHOWA University Hospital, 2018
 * Department of Radiology, SHOWA University Fujigaoka Hospital, 2017
 * Department of Radiology, SHOWA University Hospital, 2017
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Qualifications
-======
-* Medical Doctor
-* Board-certified Diagnostic Radiologist
-* Applied Information Technology Engineer Examination
-* LPIC Essentials
