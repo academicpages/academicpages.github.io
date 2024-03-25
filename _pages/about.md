@@ -22,7 +22,7 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk) and (yljin \[at\] pku.e
 
 News
 ======
-\[March 2024\] We are hosting the **Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs** with plenty of awards. Click [here](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) to contribute ingenious solutions! 
+\[March 2024\] We are hosting the 🛍️**Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs** with plenty of awards. Click [here](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) to contribute ingenious solutions 🚀! 
 
 \[September 2023\] Beginning my internship at Amazon!
 
