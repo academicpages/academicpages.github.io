@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-free-quarter
 venue: "Department of Medicine, the University of Tokyo"
-date: 2024-01
+date: 2024-01-10
 location: "Tokyo, Japan"
 ---
