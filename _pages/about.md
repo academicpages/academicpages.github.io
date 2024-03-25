@@ -18,7 +18,7 @@ I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Pro
 
 Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](https://www.pku.edu.cn), China, obtaining both a B.S in Computer Science and a B.Economics at the National School of Development. I was fortunate to have [Prof. Guojie Song](https://gjsong-pku.cn) as my advisor during my days at PKU, with whom I collaborate very well. 
 
-You can contact me via (yilun.jin \[at\] connect.ust.hk). **I am on the job market for 2024 and 2025, looking for industrial positions on large language models (LLM), domain-specific LLMs, as well as graph data mining.** Drop me a message if you are interested!
+You can contact me via (yilun.jin \[at\] connect.ust.hk). **I am on the job market for 2024 and 2025, looking for industrial positions on large language models (LLM), domain-specific LLMs, transfer learning, and graph machine learning.** Drop me a message if you are interested!
 
 News
 ======
