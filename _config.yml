@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Yuta Nakamura"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Biomedical natural language processing (NLP) researcher & Diagnostic radiologist at the University of Tokyo Hospital"
   location         : "Tokyo, Japan"
   employer         :
