@@ -66,27 +66,27 @@ es: &DEFAULT_ES
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
   comments_label             : "Comentar"
-  comments_title             :
+  comments_title             : "Deja un comentario"
   more_label                 : "Ver más"
-  related_label              : "Podrías ver también"
+  related_label              : "Quizás te interese"
   follow_label               : "Seguir:"
   feed_label                 : "Feed"
-  powered_by                 : "Powered by"
+  powered_by                 : "Creado por"
   website_label              : "Sitio web"
-  email_label                : "Email"
+  email_label                : "Correo"
   recent_posts               : "Entradas recientes"
-  undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
-  comment_form_info          :
-  comment_form_comment_label :
-  comment_form_md_info       :
-  comment_form_name_label    :
-  comment_form_email_label   :
-  comment_form_website_label :
-  comment_btn_submit         :
-  comment_btn_submitted      :
-  comment_success_msg        :
-  comment_error_msg          :
-  loading_label              :
+  undefined_wpm              : "Parámetro words_per_minute (palabras por minuto) no definido en _config.yml"
+  comment_form_info          : "No se publicará tu correo electrónico. Véanse marcados los campos obligatorios"
+  comment_form_comment_label : "Comentario"
+  comment_form_md_info       : "Markdown es compatible"
+  comment_form_name_label    : "Nombre"
+  comment_form_email_label   : "Correo electrónico"
+  comment_form_website_label : "Página web (opcional)"
+  comment_btn_submit         : "Enviar comentario"
+  comment_btn_submitted      : "Enviado"
+  comment_success_msg        : "¡Gracias por tu comentario! Aparecerá en la página cuando sea aprobado." 
+  comment_error_msg          : "Lo sentimos, ha habido un error con tu solicitud. Por favor, asegúrate de rellenar todos los campos obligatorios e inténtalo de nuevo."
+  loading_label              : "Cargando..."
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
