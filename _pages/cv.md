@@ -31,13 +31,6 @@ Work experience
 * Department of Radiology, SHOWA University Fujigaoka Hospital, 2017
 * Department of Radiology, SHOWA University Hospital, 2017
 
-Skills
-======
-* Diagnostic Radiology
-* Natural Language Processing
-* Passed LPIC Essentials
-* Passed Fundamental Information Technology Engineer Examination
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -55,3 +48,10 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Qualifications
+======
+* Medical Doctor
+* Board-certified Diagnostic Radiologist
+* Applied Information Technology Engineer Examination
+* LPIC Essentials
