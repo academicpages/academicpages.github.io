@@ -56,5 +56,3 @@ author_profile: true
   - with Murali Srinivasan, Jalaj Pathak and Kunal Biswas
 7. Does the operational tone of IPO-bound firms' disclosure matter?
   - with Tarun Jain and Jalaj Pathak
-# 8. Related party transaction in India: Trends and determinants
-#   - with Narendra Kushwaha and Arun Upadhyay
