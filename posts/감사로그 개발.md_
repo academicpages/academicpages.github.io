@@ -1,0 +1,239 @@
+---
+title: 감사로그 개발
+format: list
+feed: 
+date: 28-09-2023
+---
+서비스의 백오피스 개발을 담당하고 있는 오리는 <br>
+데이터 변경, 조회 추적이나, 보안적 측면이나, 사용자의 활동을 모니터링 하기 위해 <br>
+감사로그 기능을 개발하기로 해요. <br>
+
+이런 감사로그 개발을 위해 개발되었는 웹관리도구 서비스 모듈에 AOP를 적용해보기로 합니다.
+
+
+## AOP(Aspect-Oriented Programming) 란?
+AOP(관점 지향 프로그래밍)는 프로그래밍 방식 중 하나로, 
+복잡한 프로그램을 다룰 때 여러 부분에서 반복적으로 나타나는 문제들을 효과적으로 관리하기 위한 방법론입니다.
+
+조금 더 이해하기 쉽게 예시를 들어 설명해보겠습니다.
+
+**영화 제작과 AOP**
+
+영화 제작을 생각해보세요.<br> 
+영화의 주요 내용, 즉 주인공의 사랑 이야기나 모험 등은 '핵심적인 관점'에 해당합니다.<br> 
+그런데 영화를 만들려면 이 스토리 외에도 여러 가지 부가적인 작업이 필요합니다.<br>
+
+예를 들면
+- 조명 설정
+- 음향 효과
+- 배경음악
+- CG
+
+이러한 부가적인 작업들은 '부가적인 관점'에 해당합니다.<br> 
+이런 작업들은 스토리의 주요 내용과는 별개지만, 영화 제작에는 필수적입니다.<br>
+
+이렇게 영화 제작 과정에서<br>
+스토리 외에 반복적으로 필요한 작업들,<br>
+예를 들면 조명이나 음향 설정 같은 것들을<br>
+프로그래밍 세계에서는 '흩어진 관심사'라고 부릅니다.<br>
+
+이 '흩어진 관심사'들을 효과적으로 관리하고,<br>
+반복적인 작업을 줄여주는 것이 바로 AOP의 주된 목표입니다.<br>
+
+요약하면 AOP는 프로그래밍에서 반복되는 작업들을 효율적으로 관리하기 위한 방법론입니다.<br>
+
+왜 AOP라는 방법론이 나오게 됐냐면 **객체 지향 프로그래밍(OOP)**으로는 <br>
+여러 모듈 혹은 기능에 걸쳐 반복적으로 나타나는 <br>
+공통의 관심사(예: 로깅, 보안, 트랜잭션 관리)를<br> 
+효과적으로 분리하고 재사용하기 어려웠기 때문입니다. <br>
+
+이러한 반복적인 코드는 시스템 전반에 걸쳐 퍼져 있어 유지보수가 어렵고,<br> 
+코드의 중복으로 인해 프로젝트의 복잡도가 증가하는 문제가 발생했습니다.<br>
+
+AOP는 이러한 문제를 해결하기 위해 나온 방법론으로,<br> 
+흩어진 관심사를 중앙화하여 모듈화하고,<br>
+필요한 위치에 자동으로 적용되게 하는 기능을 제공함으로써<br>
+코드의 중복을 줄이고 유지보수성을 향상시키는 목적을 가지고 있습니다.<br>
+
+**객체 지향 프로그래밍(OOP)과 그 한계**
+
+조금 더 이해하기 쉽게 예시를 들어 설명해보겠습니다.<br>
+
+객체 지향 프로그래밍(OOP)은 마치 레고 블록을 조립하는 것처럼, 프로그램을 여러 개의 작은 부품(모듈)으로 나눠서 구성하는 방식입니다. 각 블록은 정의한 역할을 하며, 이렇게 나누면 프로그램을 이해하기 쉽고 수정하기도 편리합니다.
+
+그런데, 문제는 모든 레고 작품에 필요한 '접착제'와 같은 부품이 있다는 것입니다.<br>
+예를 들면, '로깅'이나 '보안'과 같은 기능은 프로그램의 여러 부분에서 필요하죠.<br>
+이런 기능들을 객체 지향 프로그래밍의 방식을 사용하여 각각의 블록마다 넣어주려고 하면,<br>
+블록이 복잡해지고 어지럽게 됩니다.<br>
+
+AOP는 이런 문제를 해결하기 위해 나온 도구입니다.
+
+AOP의 주요 개념은 다음과 같습니다
+
+1.&nbsp;**Aspect (관점)**:
+  - 관점은 프로그램에서 반복적으로 사용되는 기능을 의미합니다. <br>
+  - 예를 들면, 로깅, 보안, 트랜잭션 관리 등의 기능이 이에 해당합니다.<br> 
+  - 이러한 기능들은 여러 다른 부분에 걸쳐 사용될 수 있습니다.<br>
+
+2.&nbsp;**Join Point (조인 포인트)**:
+  - 조인 포인트는 관점의 코드가 삽입될 수 있는 프로그램의 특정 지점을 의미합니다.<br>
+  - 예를 들어, 메소드 호출이나 객체 생성과 같은 시점이 조인 포인트가 될 수 있습니다.<br>
+
+3.&nbsp;**Advice (어드바이스)**:<br>
+  - 어드바이스는 조인 포인트에서 실행되어야 할 코드의 실제 내용을 의미합니다.<br>
+  - 즉, 어떤 작업을 언제 수행할지를 정의한 것입니다.<br> 
+  - 예를 들면, 메소드 호출 전에 로깅을 수행하는 코드가 어드바이스에 해당합니다.<br>
+
+4.&nbsp;**Pointcut (포인트컷)**:<br>
+  - 포인트컷은 어드바이스가 실행될 조인 포인트를 선택하는 표현식입니다.<br>
+  - 즉, 어떤 조인 포인트에서 어떤 어드바이스를 실행할지를 결정하는 규칙입니다.<br>
+
+5.&nbsp;**Weaving (위빙)**:<br>
+  - 위빙은 관점의 코드를 프로그램의 실제 코드에 합치는 과정을 의미합니다.<br> 
+  - 이 과정은 컴파일 타임, 로드 타임, 또는 런타임 중 어느 때든 발생할 수 있습니다.<br>
+
+
+AOP의 주요개념을 코드로 작성해보면 다음과 같습니다.
+
+**Aspect 정의하기**<br>
+(적용되어있는 AOP의 주요 개념 : Aspect, Pointcut, Advice)
+
+``` java
+package com.example.aop;
+
+import org.aspectj.lang.annotation.Aspect;
+import org.aspectj.lang.annotation.Before;
+
+@Aspect  // 이 클래스는 AOP 관점(Aspect)로 동작한다는 것을 나타냅니다.
+		// 아래의 코드들은 이 관점내에 포함됩니다.
+public class LoggingAspect {
+	
+    // 메소드 호출 전에 로깅을 수행하는 어드바이스 정의
+    @Before("execution(* com.example.service.*.*(..))")  // 포인트컷 표현식: com.example.service 패키지의 모든 메소드 호출 전에 실행
+    public void logBeforeMethodCall() {
+        System.out.println("메소드가 호출되기 전에 로그를 출력합니다.");
+    }
+}
+
+```
+#### **Aspect (관점)**:
+``` java
+@Aspect  // 이 클래스는 AOP 관점(Aspect)로 정의됩니다.
+public class LoggingAspect {
+}
+```
+위의 `LoggingAspect` 클래스는 `@Aspect` 어노테이션으로 인해 AOP의 관점(Aspect)으로 작동합니다.
+
+#### **Advice (어드바이스)**
+특정 조인 포인트에서 실행되어야 할 코드의 실제 내용을 의미합니다.
+``` java
+@Before
+```
+위의 메서드는 특정 조인 포인트에서 실행되기 전에 수행되는 로직(어드바이스)을 정의합니다.
+
+#### **Pointcut (포인트컷)**
+어떤 조인 포인트에서 어떤 어드바이스를 실행할지 결정하는 규칙을 의미합니다.
+```java
+`@Before("execution(* com.example.service.*.*(..))")`
+```
+위의 포인트컷은 "com.example.service 패키지의 모든 클래스의 모든 메소드"를 의미합니다.
+
+
+**Service 클래스**
+(적용되어있는 AOP의 주요 개념 : Join Point)
+``` java
+package com.example.service;
+
+public class UserService {
+
+    public void addUser() {
+        // 사용자를 추가하는 로직
+        System.out.println("사용자 추가");
+    }
+
+    public void deleteUser() {
+        // 사용자를 삭제하는 로직
+        System.out.println("사용자 삭제");
+    }
+}
+
+```
+
+#### **Join Point (조인 포인트)**:
+모든 메서드 호출이나 객체 생성과 같은 프로그램의 실행 시점들을 조인 포인트라고 합니다.<br>
+위 코드에서는 `UserService`의 `addUser`와 `deleteUser` 메소드 호출이 조인 포인트가 됩니다.<br>
+
+#### **Weaving (위빙)**
+위빙은 관점의 코드를 프로그램의 실제 코드에 합치는 과정을 의미합니다.<br>
+여기서는 Spring AOP를 사용하므로, 프로그램이 실행될 때 위빙이 발생합니다
+
+**실행결과**
+UserService의 `addUser`나 `deleteUser` 메소드를 호출하면,<br>
+우리가 정의한 관점(Aspect)의 어드바이스가 먼저 실행됩니다.
+
+``` java
+  메소드가 호출되기 전에 로그를 출력합니다.
+  사용자 추가
+```
+
+이러한 AOP의 기능을 사용하여 사용자의 행동을 감사할 수 있는 감사로그 기능을 구현하기로 합니다.
+
+메서드 호출 전에 필요한 정보를 수집하고, <br>
+메서드 실행 성공/실패 여부를 남기고, 메서드 호출 후에 감사로그를 남기기 위해 <br>
+적용되는 Advice는 @Around로 설정합니다. <br>
+
+``` java
+  
+  //전달하는 파라미터 값의 검증이 필요 없다면 Advice는 @Around가 아닌
+  //@After를 사용했을 것 같아요.
+  @Around("@annotation(AuditLog)")
+  public Object aroundLogger(ProceedingJoinPoint joinPoint) throws Exception {
+  
+    // 비지니스 로직 처리전에 Http요청에서 세션 정보를 가져오고, Http 요청 정보를 가져옵니다.
+    // - (사용자의 인증정보와 권한과 사용자의 행동(검색,변경정보)를 가져오기 위함이에요)
+    Object result = null;
+    MethodSignature methodSignature = (MethodSignature) joinPoint.getSignature();
+    HttpSession session = ((ServletRequestAttributes) (RequestContextHolder.currentRequestAttributes())).getRequest().getSession();
+    HttpServletRequest request = ((ServletRequestAttributes) RequestContextHolder.currentRequestAttributes()).getRequest();
+  
+    String actionCode = methodSignature.getMethod().getAnnotation(AuditLog.class).actionCode().getCode();
+    String menuCode = methodSignature.getMethod().getAnnotation(AuditLog.class).menuCode().getCode();
+  
+    String resultCode = "";
+    String managerId = "";
+  
+    try {
+      //@Around 어드바이스는 ProceedingJoinPoint의 proceed(); 메서드를 기점으로<br>
+      //비지니스 로직 실행 전,후를 구분해요
+      result = joinPoint.proceed();                     
+      resultCode = EnumResultCode.SUCCESS.getCode();
+      
+      // 정상적으로 실행되었다면 실행결과를 넣어주고,
+      // 특정 예외가 발생한다면 실패로 기록하면서 결과를 AOP에서 반환해줍니다.<br>
+      //- (ajax 요청에 대한 응답을 해줌과 동시에 감사로그에도 기록하려고 했습니다.)
+    } catch (RegistryIPException e){
+      managerId = (String) session.getAttribute(MOKConstants.SESSION_MANAGER_ID);
+      insertAuditAdminLog(request, menuCode, managerId, actionCode, resultCode);
+      return e.getMessage();
+    } catch (Throwable e ) {
+      resultCode = EnumResultCode.FAIL.getCode();
+    }
+
+    if (session.getAttribute(MOKConstants.SESSION_MANAGER_ID) == null || session.getAttribute(MOKConstants.SESSION_MANAGER_ID).equals("") ){
+        managerId = "";
+    } else {
+       managerId = (String) session.getAttribute(MOKConstants.SESSION_MANAGER_ID);
+    }
+
+
+    insertAuditAdminLog(request, menuCode, managerId, actionCode, resultCode);
+    return result;
+    }
+
+```
+
+AOP를 활용하여 감사로그 구현을 완성한 오리는 이를 통해 효율적인 코드 작성이 가능한지 깨닫게 되었습니다.
+
+오리는 **기술의 선택은 단순히 그 기술이 얼마나 혁신적이거나 새로운 것인지가 아니라,**<br>
+**그것이 현재의 문제를 해결하는 데 얼마나 효과적인지에 따라 결정**되어야 한다는 것을 알게되었습니다.🌱🦆
+
