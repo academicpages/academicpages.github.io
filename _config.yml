@@ -26,17 +26,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Marshall University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zhup@marshall.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=23sOkXYAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9045-2398"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Pingping-Zhu-6"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
