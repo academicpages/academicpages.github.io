@@ -1,6 +1,6 @@
 ---
 title: ExcelDownload 기능을 구현해보자
-format: list
+permalink: /posts/2023/08/ExcelDownload-1/
 date: 2023-08-10
 tags:
   - Excel

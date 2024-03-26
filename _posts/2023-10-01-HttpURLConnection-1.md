@@ -1,6 +1,6 @@
 ---
 title: HttpURLConnection을 활용한 요청
-format: list
+permalink: /posts/2023/10/HttpURLConnection-1/
 date: 2023-10-01
 tags:
    - HttpURLConnection

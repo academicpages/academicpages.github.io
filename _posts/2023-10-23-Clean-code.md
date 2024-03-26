@@ -1,11 +1,9 @@
 ---
 title: Clean code
-format: list
-feed: show
+permalink: /posts/2023/10/Clean-code/
 date: 2023-10-23
 tags:
   - clean code
-  - 
 ---
 
 ## 좋은코드?<br>
