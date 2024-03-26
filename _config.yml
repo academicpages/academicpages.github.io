@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Amir David"
   avatar           : "profile.png"
-  bio              : "Software Developer at the Canadian Institute for Cybersecurity"
-  location         : "Fredericton, NB, Canada"
+  bio              : "MMath student at the University of Waterloo"
+  location         : "Waterloo, ON, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "adavid3@unb.ca"
+  email            : "a7david@uwaterloo.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
