@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Developer at the [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/) and a Master of Computer Science student at the [University of New Brunswick](https://www.unb.ca/fredericton/cs/).
+I am a Master of Mathematics (MMath) in Computer Science student at the [University of Waterloo](https://uwaterloo.ca), part of the [Cryptography, Security, and Privacy (CrySP)](https://crysp.uwaterloo.ca) lab, under the supervision of [Prof. Florian Kerschbaum](https://cs.uwaterloo.ca/~fkerschb/)
