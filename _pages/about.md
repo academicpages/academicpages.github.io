@@ -1,10 +1,11 @@
 ---
 permalink: /
-title: "블로그 이사중...."
+title: "Blog posts"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+redirect_from:
+    - /wordpress/blog-posts/
+#redirect_from:
+#- /about/
+#- /about.html
 
-블로그 이사중..
+---
