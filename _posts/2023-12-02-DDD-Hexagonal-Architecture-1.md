@@ -1,5 +1,5 @@
 ---
-title: DDD, Clean Architecture and Hexagonal
+title: DDD, Clean Architecture and Hexagonal 1
 permalink: /posts/2023/12/DDD-Hexagonal-Architecture-1/
 date: 2023-12-02
 tags:
