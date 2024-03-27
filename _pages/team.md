@@ -48,10 +48,9 @@ Originally from Greece, I set off on my (scientific) odyssey in Molecular Biolog
 With the ever-growing scientific evidence showcasing a link between our diet, gut microbiome and various diseases, along with a famous quote attributed to the Ancient Greek physician Hippocrates “All disease begins in the gut”, it was clear to me that during my Ph.D. I had to follow my gut feeling and pursue my curiosity to study the gut-brain axis link to neurodegeneration. In the Salta group, through my JPND-funded project, I aim to address the potential effect of early lifestyle interventions on the adult hippocampal neurogenesis in the context of Alzheimer’s disease.
 In my free time I enjoy deep conversations, photowalks, reading books, and yoga. I´d add cooking, but for me it is not merely a hobby; Mediterranean diet is an integral part of my routine. “We are what we eat” is a message that I´d like to convey through and beyond my project.
 
-### Alumni
-
-
 - **[Martin Buitrago Arango, student](https://nin.nl/author/buitragoherseninstituut-knaw-nl/)**
 
 Hey! I’m a Master’s student and deeply fascinated by the molecular mechanisms in health and disease. I’ve traveled (not only from Latin America to Europe but) through some areas of Biology and found that I’m most enthusiastic about science because it is the way to find the pieces of the puzzle in complex conditions, such as I am currently doing in Alzheimer’s disease.
 Sapere aude combined with a bit of intuition is how I am enthusiastic about learning and contributing to this beautiful purpose!
+
+### Alumni
