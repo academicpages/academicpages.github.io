@@ -3,7 +3,7 @@ title: "Generative AI in Education: Equipping Teachers to Navigate, Utilize, & C
 collection: talks
 type: "Talk"
 venue: "College of Education"
-date: 2024-03-19
+date: 2024-04-16
 location: "Michigan State University"
 pdf: 
 link: /talks/
