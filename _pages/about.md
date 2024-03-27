@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "CZECHMATE CZ - vítejte!"
+excerpt: "O mně"
 author_profile: true
 redirect_from: 
   - /about/
