@@ -21,10 +21,10 @@ repository               : "saltalab/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "esalta.webp"
-  name             : "Evgenia Salta"
+  avatar           : "Salta_mylogo.png"
+  name             : "Salta Group"
   pronouns         : # example: "she/her"  
-  bio              : "Neurogeneration and Neurodegeneration Group"
+  bio              : "Neurogeneration and Neurodegeneration"
   location         : "Amsterdam"
   employer         : "Netherlands Institute for Neuroscience"
   uri              : nin.nl
@@ -32,10 +32,10 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=fQkEeloAAAAJ&hl=en&oi=ao"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : # URL
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Salta+E&cauthor_id=36736288"
   researchgate     : # URL
 
   # Repositories and software development
