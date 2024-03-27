@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Salta Group"
 description              : &description "Webpage of Neurogeneration and Neurodegeneration Group, led by Evgenia Salta at Netherlands Institute for Neuroscience in Amsterdam."
-url                      : https://saltalab.github.io 
+url                      : https://nin.nl/research-groups/salta/#researchers 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "saltalab/academicpages.github.io"
 
