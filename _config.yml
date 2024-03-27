@@ -3,17 +3,18 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 # Site Settings
-locale                   : "cs-CZ"
-title                    : "David Havlík (DLP) / CZECHMATE CZ s.r.o."
+locale                   : "en-US"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name
 description              : &description
 url                      : https://david-czechmatecz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "david-czechmatecz/david-czechmatecz.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -47,13 +48,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -73,48 +77,49 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
 
 # Site Author
 author:
-  name             : "David Havlík (DLP)"
-  avatar           : "profile - Copy.png"
-  bio              : "Specialista na úniky a bezpečnost informací 🔒🌐 jednatel a společník CZECHMATE CZ s.r.o."
-  location         : "Česko, Teplice"
-  employer         : 
-  pubmed           : 
-  googlescholar    : 
-  email            : "david.havlik@czechmatecz.com"
-  researchgate     :  
+  name             : "Your Sidebar Name"
+  avatar           : "profile.png"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "datadetective.dlp"
+  facebook         :
   foursquare       :
-  github           : "david-czechmatecz"
+  github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        : "czechmate_cz"
-  impactstory      : 
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "dhavlik"
-  orcid            : 
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "david_havlik"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
-  youtube          : 
+  youtube          :
   wikipedia        :
+
 
 # Reading Files
 include:
@@ -243,6 +248,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
