@@ -25,15 +25,15 @@ author_profile: true
 ## Work in progress
 
 <b>Inequality of opportunity and outcomes and its effects on the legitimacy of inequality and social cohesion</b><br>
-<b>Mauricio Bucca</b>, Mario Molina <i>In preparation</i>. 
+<b>Mauricio Bucca</b>, Mario Molina. <i>In preparation</i> 
 
-<b>Class-Based Name Giving Patterns in 20th Century Chile: dynamics of imitation and differentiation/b><br>
-<b>Mauricio Bucca</b>, Mario Molina, Luca Pesando and Roberto Cantillán.<i>In preparation</i>. 
-
-<b>Intersectional dynamics of intermarriage and migration in Latin America/b><br>
+<b>Class-Based Name Giving Patterns in 20th Century Chile: dynamics of imitation and differentiation</b><br>
+<b>Mauricio Bucca</b>, Mario Molina, Luca Pesando and Roberto Cantillán. <i>In preparation</i>. 
+ 
+<b>Intersectional dynamics of intermarriage and migration in Latin America</b><br>
 Luca Pesando, <b>Mauricio Bucca</b>, Alejandra Abufhele and Daniela Urbina. <i>In preparation</i>. 
 
-<b>The impact on air pollution and extreme weather on educational achievement by socioeconomic status in Chilean schools/b><br>
+<b>The impact on air pollution and extreme weather on educational achievement by socioeconomic status in Chilean schools</b><br>
 Risto Conte, <b>Mauricio Bucca</b>. <i>In preparation</i>. 
 
 <b>Intergenerational mobility and occupational plans</b><br>
