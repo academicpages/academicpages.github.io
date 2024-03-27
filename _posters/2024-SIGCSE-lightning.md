@@ -1,0 +1,10 @@
+---
+title: "Integrating Critical Analysis of Society and Technology into K-12 Computing Through Teacher Co-Design"
+collection: publications
+date: 2024-03-21
+venue: 'SIGCSE'
+paperurl: https://dl.acm.org/doi/10.1145/3626253.3635338
+pdf: '/files/slides/2024-sigcse-lightning.pdf'
+citation: '<b><u>Hu, A. D.</u></b>, Yadav, A. (2024). Integrating Critical Analysis of Society and Technology into K-12 Computing Through Teacher Co-Design. Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2.'
+excerpt: 'As demand for K-12 computer science (CS) education grows, we argue that most students would be best served by CS classes that not only teach computational thinking/programming, but also challenge them to critically analyze the role of technology in society. One of the main barriers to implementing this into K-12 classrooms is a lack of research on how in-service CS teachers can integrate critical pedagogy into their school context and existing curricula. This lightning talk presents a proposed method to co-design lessons with current K-12 CS teachers to integrate critical perspectives into their classrooms. Teacher participants will join a synchronous summer professional development where we will teach them critical computing content drawn from relevant books and frameworks, and collaborate with them to design or modify lessons that will engage their students in critical analysis. Teachers will be encouraged to include content relevant to their communities. For example, a teacher in Detroit might teach facial recognition in the context of continued use of the technology by police, despite wrongful arrests. Results from this work will inform future sociocultural content integration into K-12 CS courses (e.g. "ethics content"). Feedback from the audience will be used to improve the methods and literature review of the study.'
+---
