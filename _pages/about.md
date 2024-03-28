@@ -23,7 +23,7 @@ Under Construction!!!
 ======
 * I will update this website by late March&#128583;.
 
-Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Formal Methods.
+Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0, valedictorian). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Formal Methods.
 
 Miscellaneous
 ======
