@@ -26,7 +26,7 @@ News
 ======
 \[March 2024\] We are hosting the 🛍️**Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs** with plenty of awards. Click [here](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) to contribute ingenious solutions 🚀! 
 
-\[September 2023\] Beginning my internship at Amazon!
+\[September 2023\] Beginning my internship at Amazon [Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus) Team!
 
 \[August 2023\] One co-authored paper is accepted at **EuroSys 2024**. Congratulations!
 
