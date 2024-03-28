@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third-year Ph.D. student at Monash University, supervised by [Prof. Shirui Pan](https://shiruipan.github.io/), [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang), and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
+I am a final-year Ph.D. student at Monash University, supervised by [Prof. Shirui Pan](https://shiruipan.github.io/), [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang), and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 
 News
 ------
