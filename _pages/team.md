@@ -19,7 +19,7 @@ The career of Alzheimer researcher Evgenia Salta began in Greece, where she stud
 “I strongly believe that ‘if you are the smartest person in the room, you’re in the wrong room’. Unless you are the only person in the room. Mom and PI in training, fortunate to learn something new every day”.
 
 <a href="https://nin.nl/author/snoeckherseninstituut-knaw-nl/">
-  <img src="https://github.com/saltalab/saltalab.github.io/blob/master/images/SSoneck.png" alt="Sarah" style="width:300px;height:300px;">
+  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/SSoneck.png" alt="Sarah" style="width:300px;height:300px;">
 </a>
 
 **Sarah Snoeck, Technician & Lab responsible**
