@@ -15,7 +15,7 @@ I'm a final-year PhD student in the research groups of both Professor David Scan
 
 
 ### Recent Highlights
-<img align="right" width="400" src="files\doped_SnB_combined_logos.png" style="padding: 10px">[`doped`]((https://doped.readthedocs.io/en/latest/)), my python defect calculation package (which interfaces with our defect structure-searching code [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), and other codes developed in the Scanlon & Walsh groups such as [`easyunfold`](https://smtg-bham.github.io/easyunfold/) and [`py-sc-fermi`](https://py-sc-fermi.readthedocs.io/en/latest/), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl)) now has a proper [documentation site](https://doped.readthedocs.io/en/latest/), check it out!
+<img align="right" width="400" src="files\doped_SnB_combined_logos.png" style="padding: 10px">[`doped`](https://doped.readthedocs.io/en/latest/), my python defect calculation package (which interfaces with our defect structure-searching code [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), and other codes developed in the Scanlon & Walsh groups such as [`easyunfold`](https://smtg-bham.github.io/easyunfold/) and [`py-sc-fermi`](https://py-sc-fermi.readthedocs.io/en/latest/), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl)) now has a proper [documentation site](https://doped.readthedocs.io/en/latest/), check it out!
 
 <br>
 I was delighted to be awarded a Gold Graduate Student Award at the MRS Spring 2023 conference in San Francisco (got 'em on the rebound coach), which was followed by a road trip around California with some great people! 🚗😵‍💫
