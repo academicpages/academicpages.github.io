@@ -13,9 +13,9 @@ title_separator          : "-"
 name                     : &name "Kazuki Yamauchi"
 description              : &description "personal description"
 url                      : "https://kyamauchi1023.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/kazuki-yamauchi.github.io" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
-theme                    : jekyll-theme-minimal
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "kyamauchi1023/kazuki-yamauchi.github.io"
+github                   : [metadata]
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
