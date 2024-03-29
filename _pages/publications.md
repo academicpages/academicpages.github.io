@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-## Peer-Reviewed International Conference Paper
+## International Conferences (Peer-Reviewed)
 
 -  <u>Kazuki Yamauchi</u>, Yusuke Ijima, and Yuki Saito<br>
 **StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-supervised Learning Models**<br>
@@ -34,7 +34,7 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 
 
 
-## Domestic Conferences -Non Reviewed- (Japanese)
+## Domestic Conferences
 
 - <u>山内 一輝</u>, 井島 勇祐, 齋藤 佑樹<br>
 **StyleCap: 音声および言語の自己教師あり学習モデルに基づく音声の発話スタイルに関するキャプション生成**<br>
