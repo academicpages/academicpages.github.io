@@ -15,9 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<p></p>
-
-# Peer-Reviewed International Conference Paper
+## Peer-Reviewed International Conference Paper
 
 -  <u>Kazuki Yamauchi</u>, Yusuke Ijima, and Yuki Saito<br>
 **StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-supervised Learning Models**<br>
@@ -26,7 +24,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 
 
 
-# Preprint
+## Preprint
 
 - Wataru Nakata\*, <u>Kazuki Yamauchi</u>\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\*Equal contribution)<br>
 **UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
@@ -36,7 +34,7 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 
 
 
-# Domestic Conferences -Non Reviewed- (Japanese)
+## Domestic Conferences -Non Reviewed- (Japanese)
 
 - <u>山内 一輝</u>, 井島 勇祐, 齋藤 佑樹<br>
 **StyleCap: 音声および言語の自己教師あり学習モデルに基づく音声の発話スタイルに関するキャプション生成**<br>
