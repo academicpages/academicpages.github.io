@@ -4,8 +4,8 @@
 
 .masthead {
   position: fixed;
-  background: white;
-  border-bottom: 1px solid $border-color;
+  // background: white;
+  // border-bottom: 1px solid $border-color;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -17,9 +17,11 @@
   z-index: 20;
 
   &__inner-wrap {
+    background: white;
+    border-bottom: 1px solid $border-color;
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1em 1em 0em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {
