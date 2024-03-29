@@ -1,49 +1,82 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+layout: archive
+title: "About"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am a 2nd-year Master student at [System #1 lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
+My research focuses on the domain of spoken language processing such as speech synthesis, voice conversion, and para/non-linguistic information modeling.
+I am especially interested in modeling and generating expressive prosody.
+Also, through it, I aim to the development of human-friendly speech agents that can adaptively and naturally communicate with a variety of people.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+[東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [システム情報学専攻第一研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士2年の山内一輝です．
+音声合成，音声変換．パラ言語/非言語的情報のモデリングなど，音声言語情報処理の領域を中心に研究しています．
+その中でも特に，表現力豊かな韻律のモデリングと生成に興味を持っています．
+また，それを通して，様々な人と適応的かつ自然にコミュニケーションができる，ヒューマンフレンドリーな音声エージェントの開発を目指しています．
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**Email (university)**: yamauchi-kazuki042 [at] g.ecc.u-tokyo.ac.jp<br>
+**Email (personal)**: kyamauchi1023 [at] gmail.com<br>
+**Address**: Room #140, Engineering bldg. #6, 7-3-1 Hongo, Bunkyo-ku, Tokyo 113-8656, Japan
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+## Research Interests
 
-**Markdown generator**
+- Spoken Language Processing / 音声言語情報処理
+- Natural Language Processing / 自然言語処理
+- Deep Learning / 深層学習
+- Signal Processing / 信号処理
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Education
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- Apr. 2023 - Mar. 2025<br>
+**Master’s Degree in Information Science and Technology**, the University of Tokyo, Japan / 東京大学<br>
+Department of Creative Informatics, Graduate School of Information Science and Technology / 大学院情報理工学系研究科 創造情報学専攻
+- Apr. 2019 - Mar. 2023<br>
+**Bachelor’s Degree in Engineering**, the University of Tokyo, Japan / 東京大学<br>
+Department of Mathematical Engineering and Information Physics, Faculty of Engineering / 工学部 計数工学科
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+## Awards & Honours
+
+- Mar. 2024<br>
+**Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
+Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge
+- Mar. 2024<br>
+**Best Student Poster Award / 学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
+IEICE Speech Committee / 電子情報通信学会 音声研究会
+
+
+<!-- ## Grants & Scholarships -->
+
+
+## Research and Work Experiences
+
+- Mar. 2023 -<br>
+**CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
+Researching on speech processing.
+- Aug. 2023 - Sep. 2023<br>
+**NTT Human Informatics Laboratories / NTT人間情報研究所**, Research Internship<br>
+Researched on speaking style captioning.
+- Sep. 2021 - Mar. 2024<br>
+**Nagase Brothers Inc. / 株式会社ナガセ**, Part-Time AI Researcher & Engineer<br>
+Worked on natural language processing and developed web application.
+
+
+<!-- ## Volunteer Works:
+
+- Apr. 2024 - <br>
+**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員**  -->
+
+
+<!-- ## Other Experiences
+
+- Apr. 2024<br>
+**Invited to Google Research Talk, Google Tokyo, Japan**<br>
+Talked about our technical report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge. -->
