@@ -284,6 +284,7 @@ PLATFORMS
 DEPENDENCIES
   faraday-retry
   github-pages
+  jekyll
   jekyll-feed
   jekyll-sitemap
   webrick (~> 1.8)
