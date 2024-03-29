@@ -11,7 +11,7 @@ remote_theme             : pages-themes/cayman@v0.2.0
 title                    : "Seán R. Kavanagh"
 title_separator          : "-"
 name                     : &name "Seán R. Kavanagh"
-description              : &description "PhD Researcher at University College London & Imperial College London"
+description              : &description "Environmental Fellow at Harvard"
 url                      : https://seankavanagh.com #kavanase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kavanase/kavanase.github.io"
@@ -85,7 +85,7 @@ analytics:
 author:
   name             : "Seán R. Kavanagh"
   avatar           : "profile.jpeg"
-  bio              : "PhD Researcher at University College London & Imperial College London"
+  bio              : "Environmental Fellow at Harvard"
   cv               : "https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf"
   location         : "London, UK"
   employer         :
