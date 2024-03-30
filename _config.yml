@@ -21,7 +21,7 @@ repository               : "themichaelwarren/site.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mw-logo-square.png"
+  avatar           : "mw-coffee.jpeg"
   name             : "Michael Warren"
   pronouns         : # example: "he/his"  
   bio              : "hello again"
