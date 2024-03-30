@@ -10,6 +10,9 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
+  height: 100vh;
+  overflow-y: auto;
+
   @include clearfix();
   margin-bottom: 1em;
 
