@@ -80,3 +80,4 @@ Others
   * L. Wittgenstein: “A person caught in a philosophical confusion is like a man in a room who wants to get out but doesn’t know how. He tries the window but it is too high. He tries the chimney but it is too narrow. And if he would only *turn around*, he would see that the door has been open all the time!” (Norman Malcolm, *Ludwig Wittgenstein: A Memoir*, 2001, p.44)
   * All the time you're saying to yourself, "I could do that, but I won't" -- which is just another way of saying that you can't. (Richard Feynman, *Surely You're Joking, Mr. Feynman!*, 1985, p.33)
 
+* [昔の日本語ブログ](https://grand410.blogspot.com/2022/11/blog-post.html)
