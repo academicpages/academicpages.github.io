@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mw logo square.png"
   name             : "Michael Warren"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : # example: "he/his"  
+  bio              : "hello again"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Queen & Co."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hi@themichaelwarren.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
