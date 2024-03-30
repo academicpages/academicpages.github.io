@@ -12,7 +12,7 @@ title                    : "(the) Michael Warren"
 title_separator          : "-"
 name                     : &name "Michael Warren"
 description              : &description "Minnesotan in Japan"
-url                      : https://themichaelwarren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "themichaelwarren/site.github.io"
 
