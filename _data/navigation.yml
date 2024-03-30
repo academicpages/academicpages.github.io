@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Now"
+    url: /now/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Music"
+    url: /music/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Mixes"
+    url: /mixes/    
     
-  - title: "Portfolio"
+  - title: "Songs"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Bands"
     url: /year-archive/
     
   - title: "CV"
