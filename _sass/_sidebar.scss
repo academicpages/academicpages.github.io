@@ -10,13 +10,17 @@
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
-  height: 100vh;
-  overflow-y: auto; // Scroll sidebar content
+  
+  
 
   @include clearfix();
   margin-bottom: 1em;
 
-  @media screen and (min-width: 1024px) {
+  
+
+  @media screen and (min-width: 925px) {
+    height: 100vh;
+    overflow-y: auto; // Scroll sidebar content
     position: fixed;
     padding-top: $masthead-height;
   }
