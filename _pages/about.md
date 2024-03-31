@@ -8,18 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-PhD Student, Applied Mathematics and Network Laboratory, Dept. of Computer Science and Engineering, Toyohashi University of Technology, Japan \
-豊橋技術科学大学 大学院 工学研究科 情報・知能工学専攻 博士後期課程 応用数理ネットワーク（梅村）研究室
+PhD Student, Spoken Language Processing Laboratory, Dept. of Computer Science and Engineering, Toyohashi University of Technology, Japan \
+豊橋技術科学大学 大学院 工学研究科 情報・知能工学専攻 博士後期課程 音声言語処理（北岡）研究室 \
+(~Mar 2024, Applied Mathematics and Network Laboratory) \
+（〜2024年3月，応用数理ネットワーク（梅村）研究室）
 
 Student, Leadning Graduate School at TUT \
 博士課程教育リーディングプログラム履修生
 
 Student, Gijutsu-Kagaku-Kyoin (Teacher in Engineerings & Sciences) Program at TUT \
 技術科学教員プログラム 履修生
-
-Part-time Lecturer; National Institute of Technology, Toyota College, Japan\
-豊田工業高等専門学校 非常勤講師\
-"Programming Language Theory" held in Dept. of Information Engineering, 4th grade (equivalents to 13th counted from elem.) of KOSEN
 
 # Bio
 After graduating from National Institute of Technology, Toyota College; I entered Toyohashi University of Technology.\
