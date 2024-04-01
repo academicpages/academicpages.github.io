@@ -1,0 +1,1045 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta  http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+	<link rel="stylesheet" type="text/css" href="webpage/bootstrap.min.css"/>
+    <script language="javascript" src="webpage/jquery.min.js"></script>
+	<script language="javascript" src="webpage/bootstrap.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="webpage/cssReset.css"/>
+	<title>Junwei Liang / 梁俊卫</title>
+	<meta name="description" content="Personal website for Junwei Liang. Junwei Liang obtained his Ph.D. in Language and Information Technology at Carnegie Mellon University in 2021. He received the Master of Language Technologies degree from the Language Technologies Institute at Carnegie Mellon University in 2017. He was at Google Pittsburgh as a student researcher in 2018 and an research intern at Google in 2019 and 2020. His research interests include computer vision, human trajectory prediction and machine learning.">
+	<meta name="keywords" content="Junwei Liang,CMU,computer vision,PhD,梁俊卫,Carnegie Mellon University">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156016426-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156016426-1');
+</script>
+
+</head>
+<body>
+<style type='text/css'>
+	body{
+		font-family:arial,"Microsoft YaHei",微软雅黑,宋体,Helvetica;
+		font-size:15px;
+	}
+	/*
+		div.content:
+			provide the content div in the middle
+	*/
+	body div.content{
+		/*width:1280px;*/
+		width:1200px;
+		margin:0 auto;
+		line-height:30px;
+	}
+	/*
+		header wrapper
+	*/
+	body div.header{
+		background-color:#2196F3;
+	}
+	body div.header > div.content{
+		padding:10px;
+	}
+	/*
+		footer1
+	*/
+	body div.footer1{
+		margin-top:30px;
+		background-color:#64B5F6;
+	}
+	/*
+		footer2
+	*/
+	body div.footer2{
+		background-color:#2196F3;
+	}
+	body div.footer > div.content{
+		padding:10px;
+	}
+	body div.footer1 > div.content{
+		padding:20px;
+		line-height:40px;
+		font-size:1.2em;
+	}
+	/*
+		utils css
+	*/
+	div.white-text{
+		color:white;
+	}
+	div.content > div.title{
+		padding:20px 0;
+		border-top:1px silver solid;
+		margin-top:30px;
+		font-size:2em;
+		font-weight:bold;
+	}
+	body a{
+		text-decoration:none;
+	}
+	div.content ul{
+		list-style: disc inside none;
+	}
+	div.content ol{
+		list-style: none inside none;
+	}
+	div.content li{
+		line-height:30px;
+		padding-bottom:5px;
+	}
+	div.content div.float-right{
+		float:right;
+	}
+</style>
+<!-- css for bio -->
+<style type="text/css">
+	/*
+		bio
+	*/
+	div.bio{
+		font-size:1.2em;
+	}
+	div.bio > div.left{
+		float:left;
+		width:250px;
+	}
+	div.bio > div.left > img.me{
+		max-height:250px;
+		margin:10px;
+		max-width:230px;
+		margin-top:20px;
+		margin-left:0px;
+	}
+
+	div.bio > div.right{
+		margin:0 0 0 260px;
+		min-height:360px;
+	}
+	div.bio > div.right > div.line.name{
+		padding:15px 0;
+		line-height:40px;
+	}
+	div.bio > div.right > div.name > span.name,div.bio > div.right > div.name > span.chineseName{
+		font-size:2em;
+		font-weight:bold;
+	}
+	div.bio > div.right > div.name > span.chinesesName{
+		font-family:"Microsoft YaHei",微软雅黑,宋体,Helvetica,arial;
+	}
+	div.bio > div.right > div.name > span.misc{
+		font-size:1.5em;
+		font-weight:bold;
+	}
+	div.bio > div.right > div.line.school{
+		padding:5px 0;
+	}
+
+	div.bio > div.right > div.line.office{
+		padding:5px 0;
+	}
+
+</style>
+<!-- quick link and intro -->
+<style type="text/css">
+div.quickLink{
+	min-height:70px;
+}
+div.quickLink > .block{
+	display:block;
+	float:left;
+	padding:10px 0px;
+	text-align:center;
+	border:1px silver solid;
+	border-radius:5px;
+	box-shadow:2px 2px 1px silver;
+	width:140px;
+	margin-right:50px;
+	margin-top:20px;
+	cursor:pointer;
+}
+</style>
+<!-- research and education -->
+<style type="text/css">
+div.research > ul > li > span.title,div.research > ul > li > div.time,
+div.education > ul > li > span.title,div.education > ul > li > div.time,
+div.pro > ul > li > span.title{
+	font-weight:bold;
+	font-size:1.1em;
+}
+div.research > ul > li > div.info,
+div.education > ul > li > div.info,
+div.pro > ul > li > div.info{
+	padding-left:20px;
+	word-wrap:break-word;
+}
+</style>
+<!-- publications -->
+<style type="text/css">
+div.publications > ol > li{
+	padding-bottom: 30px;
+}
+div.publications > ol > li > span.title{
+	font-weight:bold;
+	font-size:1.2em;
+}
+div.publications > ol > li > div.info{
+	padding-left:20px;
+	word-wrap:break-word;
+}
+div.publications > ol > li > div.info.italic{
+	font-style: italic;
+}
+div.publications div.imgblock{
+	float:left;
+	height:180px;
+	width:300px;
+	padding:10px;
+	margin-right:30px;
+	text-align: center;
+}
+div.publications div.imgblock > img{
+	max-width:100%;
+	max-height:100%;
+}
+img.press{
+	height:20px;
+}
+div.bio > div.left > a.quickLink{
+	margin-right:15px;
+	width: 30px;
+}
+div.bio > div.left > a.quickLink > img{
+	width: 30px;
+	height:30px;
+}
+</style>
+<div class="header">
+	<div class="content white-text">
+		Junwei Liang
+	</div>
+</div>
+
+
+<div class="content bio">
+	<!-- bio -->
+	<div class="left">
+		<img class='me' src="resources/me.jpeg"></img>
+		<br/>
+		<a class="quickLink" href="https://scholar.google.com/citations?hl=en&user=bMedjfUAAAAJ">
+			<img class='scholar' style="" src="resources/googlescholar.png"></img>
+		</a>
+		<a class="quickLink" href="https://github.com/JunweiLiang">
+			<img class='github' style="" src="resources/github.png"></img>
+		</a>
+		<a class="quickLink" href="https://paperswithcode.com/search?q=author%3AJunwei+Liang" title="Papers with code">
+			<img class='paperswithcode' style="" src="resources/paperswithcode.png"></img>
+		</a>
+		<a class="quickLink" href="https://www.linkedin.com/in/junweiliang/">
+			<img class='linkedin' style="" src="resources/linkedin.png"></img>
+		</a>
+		<a class="quickLink" href="https://www.semanticscholar.org/author/Junwei-Liang/1915796">
+			<img class='semanticscholar' style="height:25px" src="resources/semantic_scholar.png"></img>
+		</a>
+		<br/>
+		<a class="quickLink" href="https://twitter.com/JunweilLiang">
+			<img class='twitter' style="" src="resources/twitter.png"></img>
+		</a>
+		<a class="quickLink" href="https://medium.com/@junweil">
+			<img class='medium' style="" src="resources/medium.png"></img>
+		</a>
+		<a class="quickLink" href="https://www.zhihu.com/people/junwei-liang-50">
+			<img class='zhihu' style="height:25px" title="My Zhihu page" src="resources/zhihu.png"></img>
+		</a>
+		<a class="quickLink" href="https://www.youtube.com/channel/UC-z7ZWp8Rbu2xhxnbAL_bRQ">
+			<img class='youtube' style="height:20px" title="My Youtube channel" src="resources/yt.png"></img>
+		</a>
+		<a class="quickLink" href="https://www.researchgate.net/profile/Junwei_Liang3">
+			<img class='researchgate' style="height:25px" src="resources/rg.png"></img>
+		</a>
+		<br/>
+		<a class="quickLink" href="https://dblp.org/pers/hd/l/Liang_0001:Junwei">
+			<img class='dblp' style="height:20px" src="resources/dblp.png"></img>
+		</a>
+		<a class="quickLink" href="http://aminer.cn/profile/junwei-liang/562cb48c45cedb3398c9e13b">
+			<img class='aminer' style="height:20px;width: 50px;margin-top:4px" src="resources/aminer.png"></img>
+		</a>
+		<a class="quickLink" href="camera_ready/cv_JunweiLiang.pdf">
+			<img class='aminer' style="height:30px;width: 30px;margin-top:0px" src="resources/cv.png"></img>
+		</a>
+
+		<a class="quickLink" href="https://g.co/kgs/gTWf5W">
+			<img class='aminer' name="Google knowledge graph" style="height:30px;width: 30px;margin-top:0px" src="resources/gkg.png"></img>
+		</a>
+
+	</div>
+	<div class="right">
+		<div class="line name">
+			<br/>
+			<span class="name">Junwei Liang</span>
+			<span class="misc">(Ph.D.)</span> &nbsp; &nbsp; &nbsp;
+			<span class="chineseName">梁俊卫</span>
+		</div>
+		<div class="line intro">
+			Greetings! I am a researcher at Tencent Youtu Lab, where I work on computer vision, machine learning research and applications.
+			<br/>
+			I obtained my Ph.D. under the supervision of <a href="https://scholar.google.com/citations?user=Py54GcEAAAAJ&hl=en">Prof. Alexander Hauptmann</a> at Carnegie Mellon University in 2021. <br/>
+			My research interests are human trajectory prediction, large-scale computer vision and video analytics in general. <br/>
+			<span style="font-weight: bold">My mission: develop AI technologies for social good.</span>
+		</div>
+		<div class="line office">
+			<br/>
+			My thesis is <a href="thesis/">here</a>. Email: junweil@alumni.cmu.edu / junweiliang1114@gmail.com
+		</div>
+	</div>
+</div>
+
+<div class="content quickLink">
+	<a class="block" href="#publications">Publications</a>
+	<a class="block" href="#honors">Awards</a>
+	<a class="block" href="#media">Media Coverage</a>
+	<a class="block" href="#projects">Projects</a>
+	<a class="block" href="#teaching">Talks</a>
+	<a class="block" href="thesis/">Thesis</a>
+</div>
+<!--
+<div class="content intro">
+	<div class='title'>Introduction</div>
+	 <br/>
+</div>
+-->
+
+<div class="content news">
+	<a name="news"></a>
+	<div class="title">News</div>
+	<ul>
+		<li>
+			[06/2022] Our shooter localization system featured in another major <a href="https://www.washingtonpost.com/investigations/interactive/2022/shireen-abu-akleh-death/?itid=lk_inline_manual_4">Washington Post news report</a>.
+		</li>
+		<li>
+			[04/2022] Achieved <span style="font-weight:bold;">second-place</span> out of 150 teams on the <a href="https://arxiv.org/pdf/2204.10380.pdf">public leaderboard</a> of the Naturalist Driver Action Recognition Task - AI City Challenge @ CVPR 2022.
+			[<a href="https://openaccess.thecvf.com/content/CVPR2022W/AICity/papers/Liang_Stargazer_A_Transformer-Based_Driver_Action_Detection_System_for_Intelligent_Transportation_CVPRW_2022_paper.pdf">CVPRW Paper</a>]
+			[<a href="https://www.youtube.com/watch?v=u4CrNKt4P54">Presentation</a>] [<a href="https://github.com/JunweiLiang/aicity_action">Code and Model</a>]
+		</li>
+		<li>
+			[10/2021] Published a <a href="https://www.techbeat.net/talk-info?id=588">research talk</a> at TechBeat.net on Pedestrian Trajectory Prediction. [<a href="https://www.techbeat.net/talk-info?id=588">将门TechBeat</a>] [<a href="https://www.bilibili.com/video/BV1Y44y1x7nv/">B站</a>]
+		</li>
+		<li>
+			[09/2021] Joined <span style="font-weight:bold">Tencent Youtu Lab</span> as a researcher.
+		</li>
+		<li>
+			[08/2021] Received Doctoral Consortium Award at ICCV 2021, mentored by <a href="https://people.epfl.ch/alexandre.alahi?lang=en">Prof. Alexandre Alahi</a>.
+		</li>
+		<li>
+			[08/2021] 1 paper accepted by <span style="font-weight:bold">ICCV 2021</span>. 
+		</li>
+		<li>
+			[08/2021] Our <a href="https://vera.cs.cmu.edu">VERA</a> system helps another major <span style="font-weight:bold">Washington Post</span> news report. [<a href="https://www.washingtonpost.com/world/interactive/2021/myanmar-crackdown-military-coup/">link</a>]
+				<a href="https://www.washingtonpost.com/world/interactive/2021/myanmar-crackdown-military-coup/">
+					<img class="press" src="resources/wapo.png"></img>
+				</a>
+		</li>
+		<li>
+			[07/2021] Successfully defended my Ph.D. thesis: From Recognition to Prediction: Analysis of Human Action and Trajectory Prediction in Video. [<a href="thesis/">link</a>]
+		</li>
+		<li>
+			[04/2021] Featured in a <a href="https://www.washingtonpost.com/investigations/interactive/2021/dc-police-records-capitol-riot/">front-page news report</a> (04/15) by Washington Post using crowding counting technologies. [<a href="https://www.youtube.com/watch?v=rsQTY9083r8?t=1086">video</a>] [<a href="https://www.zhihu.com/zvideo/1366151651770834944">知乎</a>]
+			<a href="https://www.washingtonpost.com/investigations/interactive/2021/dc-police-records-capitol-riot/">
+					<img class="press" src="resources/wapo.png"></img>
+			</a>
+		</li>
+		<li>
+			[01/2021] Invited presentation at ICPR'20 pattern forecasting workshop. <a href="https://sites.google.com/di.uniroma1.it/patcast/program?authuser=0">Link</a>
+		</li>
+		<!--<li>
+			[10/2020] Successfully proposed my PhD. thesis.
+		</li>-->
+		<li>
+			[09/2020] We won the <a href="https://www.herox.com/ASAPS1">Automated Streams Analysis for Public Safety Challenge</a> with a <a href="https://www.herox.com/ASAPS1/update/3483">$30k prize</a>.
+		</li>
+		<li>
+			[08/2020] Our <a href="https://arxiv.org/abs/2006.16479">paper</a> has been accepted by WACV 2021 (one strong-accept) and <span style="font-weight:bold">reported by CMU news</span>:
+			<a href="https://www.cmu.edu/news/stories/archives/2020/august/drones-hurricane-damage.html">
+					<img class="press" src="resources/cmu.png"></img>
+			</a>
+		</li>
+		<li>
+			[08/2020] Analyzed videos for journalist from <span style="font-weight:bold">the Washington Post</span> on a <a href="https://www.washingtonpost.com/sports/2020/08/26/redskins-cheerleaders-video-daniel-snyder-washington/">major news</a>.
+				<a href="https://www.washingtonpost.com/sports/2020/08/26/redskins-cheerleaders-video-daniel-snyder-washington/">
+					<img class="press" src="resources/wapo.png"></img>
+				</a>
+		</li>
+		<li>
+			[07/2020] Awarded <a href="https://baijiahao.baidu.com/s?id=1671984902144018200&wfr=spider&for=pc"><span style="font-style: italic;">"AI Rising Star"</span></a> at the <a href="https://worldaic.com.cn/portal/en/index.html">World AI Conference</a>.
+		</li>
+		<li>
+			[07/2020] <a href="https://next.cs.cmu.edu/simaug/"><span style="font-style: italic;">SimAug</span></a> paper accepted by <span style="font-weight:bold">ECCV 2020</span>.
+		</li>
+		<li>
+			[06/2020] <a href="https://next.cs.cmu.edu/multiverse/index.html"><span style="font-style: italic;">Multiverse</span></a> (<span style="font-weight:bold">CVPR 2020</span>) code and dataset are released! [<a href="https://medium.com/@junweil/cvpr20-the-garden-of-forking-paths-towards-multi-future-trajectory-prediction-df23221dc9f8">blog</a>] [<a href="https://zhuanlan.zhihu.com/p/148343447">知乎</a>] [<a href="https://github.com/JunweiLiang/Multiverse">code</a>]
+		</li>
+		<li>
+			[04/2020] A vision-based <a href="https://github.com/JunweiLiang/social-distancing-prediction"><span style="font-style: italic;">Social Distancing Early Forecasting</span></a> system is open-sourced</span>. Project received $6200 <a href="https://edu.google.com/programs/credits/research/">Google Cloud Research Grant</a>.
+		</li>
+		<li>
+			[03/2020] <span style="font-weight:bold">Guest lecture</span> at CMU 11-775 class for grad students. [<a href="https://youtu.be/nbT7IIU8Sdc">Video</a>]
+		</li>
+		<!--
+		<li>
+			[12/2019] <a href="https://next.cs.cmu.edu/multiverse/index.html"><span style="font-style: italic;">Multiverse</span></a> paper is out! Accepted by <span style="font-weight:bold">CVPR 2020</span>.
+		</li>
+		-->
+		<li>
+			[12/2019] Received <a href="http://scholarship.baidu.com/">Baidu Scholarship</a> (10 recipients globally).
+			Press Coverage:
+				<a href="http://news.ruc.edu.cn/archives/267603">
+					<img class="press" src="resources/ruc.png"></img>
+				</a>,
+				<a href="http://m.china.com.cn/appshare/doc_1_20_1489589.html?from=groupmessage&isappinstalled=0">
+					<img class="press" src="resources/china.png"></img>
+				</a>,
+				<a href="https://baijiahao.baidu.com/s?id=1654884571460145099&wfr=spider&for=pc">
+					<img class="press" src="resources/baidu.png"></img>
+				</a>,
+				<a href="https://www.yanxishe.com/blogDetail/17504">
+					<img class="press" src="resources/yanxishe.png"></img>
+				</a>,
+				<a href="http://app.bjheadline.com/8816/newshow.php?newsid=5514954&src=stream&typeid=20&uid=335186&did=16835adeb9fa457b8ec1f9b570dcc4b1&show=0&fSize=M&ver=2.6.3&ff=fz&mood=wx&from=groupmessage&isappinstalled=0">
+					<img class="press" src="resources/bjheadline.png"></img>
+				</a>
+		</li>
+		<li>
+			[09/2019] Our <a href="https://vera.cs.cmu.edu/">Shooter Localization System</a> won <span style="font-weight:bold">Best Demo</span> award at <a href="https://cbmi2019.org/">CBMI2019</a>. [<a href="https://vera.cs.cmu.edu/" target="_blank">Project Site</a>]
+			<br/>Press Coverage:
+				<a href="https://www.cmu.edu/news/stories/archives/2019/november/system-locates-shooters-using-smartphone-video.html">
+					<img class="press" src="resources/cmu.png"></img>
+				</a>,
+				<a href="https://pittsburgh.cbslocal.com/2019/11/20/cmu-develops-video-system-locate-mass-shooters/">
+					<img class="press" src="resources/cbs.png"></img>
+				</a>,
+				<a href="https://www.post-gazette.com/business/tech-news/2019/11/20/Carnegie-Mellon-CMU-develops-cellphone-smartphone-video-system-location-shooter-triangulate/stories/201911200101">
+					<img class="press" src="resources/post.png"></img>
+				</a>,
+				<a href="https://gizmodo.com/smartphone-videos-can-now-be-analyzed-and-used-to-pinpo-1839979803">
+					<img class="press" src="resources/gizmodo.png"></img>
+				</a>,
+				<a href="https://www.dailymail.co.uk/sciencetech/article-7707501/Carnegie-Mellon-aims-end-pro-longed-massacres-locates-active-shooters.html">
+					<img class="press" src="resources/dailymail.png"></img>
+				</a>,
+				<a href="https://www.techspot.com/news/82881-researchers-develop-system-can-pinpoint-shooter-location-using.html">
+					<img class="press" src="resources/techspot.png"></img>
+				</a>
+		</li>
+		<li>
+			[06/2019] Presented Future Prediction paper at <span style="font-weight:bold">CVPR 2019</span>. It was reported by the media and it received <span style="font-weight:bold">30k+ views</span> in a week. <a href="https://next.cs.cmu.edu" target="_blank"><i title="Go to project page" class="icon-zoom-in"></i></a> [<a href="https://twitter.com/jcniebles/status/1141366303921303552" target="_blank">Tweets</a>]
+		</li>
+		<li>[04/2019] Our CMU team's (INF & MUDSML) system achieved the <span style="font-weight:bold">best performance</span> on the <a href="https://actev.nist.gov/prizechallenge#tab_leaderboard" target="_blank">activity detection challenge</a> (<a href="resources/actev-prizechallenge-06-2019.png" target="_blank">Cached</a>) in surveillance videos hosted by NIST & IARPA. <!--The competitors include all other DIVA-funded teams from universities and companies as well as other strong participants from all over the world.--> We have released our code and model for Object Detection & Tracking <a href="https://github.com/JunweiLiang/Object_Detection_Tracking">here</a>. </li>
+		<li>[12/2018] <span style="font-weight:bold">MemexQA</span> paper accepted by <span style="font-weight:bold">TPAMI 2019</span>. <a href="https://memexqa.cs.cmu.edu" target="_blank"><i title="Go to project page" class="icon-zoom-in"></i></a></li>
+
+		<li>[06/2018] Presented MemexQA paper at <span style="font-weight:bold">CVPR 2018</span>. [<a href="https://youtu.be/TBOnKekODCI?t=1h11m29s" target="_blank">Spotlight Talk</a>]</li>
+		<!--<li>[03/2017] Two papers accepted by ICASSP 2017.</li>
+		<li>[02/2017] Two demo papers accepted by <span style="font-weight:bold">AAAI 2017</span>.</li>-->
+		<li>[11/2016] <span style="font-weight:bold">Best performer</span> in the NIST TRECVID 2016 Ad-hoc Video Search Challenge (no annotation track).</li>
+		<!--<li>[02/2016] One oral paper accepted by <span style="font-weight:bold">IJCAI 2016</span>.</li>-->
+	</ul>
+</div>
+
+
+<div class="content honors" name='honors'>
+	<a name="honors"></a>
+	<div class="title">Awards</div>
+	<ul>
+		<li>
+			<a href="https://baijiahao.baidu.com/s?id=1671984902144018200&wfr=spider&for=pc"><span style="font-style: italic;">Rising Star</span></a> (云帆奖-明日之星), World AI Conference <div class="float-right">2020</div>
+		</li>
+		<li>Baidu Scholarship (10 Ph.D. student worldwide) <div class="float-right">2019</div></li>
+		<li>Winner, <a href="https://www.herox.com/ASAPS1/update/3483">Automated Streams Analysis for Public Safety Challenge</a> - $30k prize <div class="float-right">2020</div></li>
+		<li>Best Demo Award at CBMI2019 <div class="float-right">2019</div></li>
+		<li>Yahoo! Fellowship <div class="float-right">2016-2018</div></li>
+		<li>Winner, TRECVID ActEV Challenge <div class="float-right">2019</div></li>
+		<li>Winner, TRECVID Ad-hoc Video Search Challenge, no annotation track  <div class="float-right">2016</div></li>
+		<li>CMU LTI Student Research Symposium Best Paper Honorable Mentions <div class="float-right">2018</div></li>
+		<li>Google Cloud COVID-19 Research Grant - $6200 <div class="float-right">2020</div></li>
+		<li>ICCV Doctoral Consortium Award <div class="float-right">2021</div></li>
+		<!--
+		<li>CVPR, CES, IJCAI, ICASSP, NIST PSCR, NIST TRECVID student travel grants <div class="float-right">2016-2020</div></li>
+		<li>Best Undergraduate Thesis (Top 5%) <div class="float-right">2015</div></li>
+		<li>Second Prize, the National Undergraduates Computer Design Competition of China <div class="float-right">2014</div></li>
+		<li>National Prize (Top 10%), National Undergraduates Innovation Project <div class="float-right">2013</div></li>
+	-->
+	</ul>
+</div>
+
+<div class="content education">
+	<a name="projects"></a>
+	<div class="title">Projects</div>
+	<ul>
+		<li>
+			<span class="title">Efficient Action Detection <div class="float-right time">2021 - </div>
+			<div class="info">
+				<a href="https://github.com/JunweiLiang/aicity_action">Naturalist Driver Action Recognition</a>
+			</div>
+		</li>
+
+		<li>
+			<span class="title">Trajectory/Activity Forecasting [See global paper rankings on <a href="https://paperswithcode.com/task/trajectory-prediction">PaperWithCode</a>]</span> <div class="float-right time">2018 - present</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/simaug">SimAug - Multi-view Adversarial Learning</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/multiverse">Multiverse - 3D Simulation</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/index.html">Next-Prediction</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=google&repo=next-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://github.com/JunweiLiang/social-distancing-prediction">COVID-19 Project - Social Distancing Early Forecasting [Awarded $6200 GCP research credits]</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=social-distancing-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://github.com/JunweiLiang/Object_Detection_Tracking">Object Detection and Tracking in Videos</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Object_Detection_Tracking&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+		</li>
+
+		<li>
+			<span class="title">Public Safety / AI for Social Good [sponsored by <a href="https://www.nist.gov/ctl/pscr/real-time-video-analytics-situation-awareness">NIST</a>] [<a href="https://www.herox.com/ASAPS1/update/3483">ASAPS challenge</a> winner]</span> <div class="float-right time">2017 - 2021</div>
+			<div class="info">
+				<a href="https://vera.cs.cmu.edu/">Gunshot Detection & Shooter Localization</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=VERA_Shooter_Localization&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://vera.cs.cmu.edu/VERA_3D_Reconstruction/">3D Event Reconstruction</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=VERA_3D_Reconstruction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://aladdin1.inf.cs.cmu.edu/human-rights">Video Analytic Toolkit</a>
+			</div>
+		</li>
+
+		<li>
+			<span class="title">Multimodal Question Answering</span> <div class="float-right time">2016 - 2019</div>
+			<div class="info">
+				<a href="https://memexqa.cs.cmu.edu/">MemexQA - the First Personal Multimedia Collection QA dataset</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=FVTA_MemexQA&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="#">Dual Attention Network</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=DualAttentionNetwork&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+		</li>
+
+		<li>
+			<span class="title">Weakly Supervised Learning</span> <div class="float-right time">2015 - 2017</div>
+			<div class="info">
+				<a href="https://www.cs.cmu.edu/~junweil/camera_ready/ijcai16.pdf">Webly-labeled Learning</a>
+			</div>
+			<div class="info">
+				<a href="#">Video Semantic Features</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Semantic_Features&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+		</li>
+	</ul>
+</div>
+
+<div class="content publications">
+	<a name="publications"></a>
+	<div class="title">Selected Publications [<a href="https://scholar.google.com/citations?hl=en&user=bMedjfUAAAAJ" target="_blank">Google Scholar</a>]</div>
+	<ol>
+		<li>
+			<div class="imgblock"><img src="camera_ready/multiverse.gif"></img></div>
+			<span class="title">The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2020.</span> &nbsp;
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/1912.06445" target="_blank">[Paper]</a>
+				<a class="" href="https://next.cs.cmu.edu/multiverse/resources/cvpr2020.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://youtu.be/RW45YQHxIhk" target="_blank">[Demo Video]</a>
+				<a class="" href="https://next.cs.cmu.edu/multiverse" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://medium.com/@junweil/cvpr20-the-garden-of-forking-paths-towards-multi-future-trajectory-prediction-df23221dc9f8">[blog]</a>
+				<a href="https://zhuanlan.zhihu.com/p/148343447">[知乎]</a>
+				<a href="https://research.google/pubs/pub49224/">[Google Research]</a>
+				<a href="https://mp.weixin.qq.com/s/s6bk5psLwpGpO1VwtQqo_g">[读芯术学术报告]</a>
+				<a href="https://sites.google.com/di.uniroma1.it/patcast/program?authuser=0">[Invited presentation at ICPR'20 pattern forecasting workshop]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<!--<div class="imgblock"><img src="camera_ready/peekfuture.png"></img></div>-->
+			<div class="imgblock" style="height:280px"><img src="camera_ready/next.gif"></img></div>
+			<span class="title">Peeking into the Future: Predicting Future Person Activities and Locations in Videos
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Juan Carlos Niebles, Alexander Hauptmann, Li Fei-Fei</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2019.</span> <span class="text-error">(Translated and reported by multiple Chinese media (<a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E9%87%8F%E5%AD%90%E4%BD%8D" target="_blank">量子位</a> & <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83" target="_blank">机器之心</a>, 02/13/2019), with 30k+ views in a week.)</span> </div>
+			<div class="info"><span class="text-error">#1 Tensorflow-based code on <a href="https://paperswithcode.com/task/trajectory-prediction">PaperWithCode</a> in Trajectory Prediction task. </span> <iframe src="https://ghbtns.com/github-btn.html?user=google&repo=next-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/1902.03748" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/future19.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=NyrGxGoS01U" target="_blank">[Demo Video]</a>
+				<a class="" href="https://next.cs.cmu.edu" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://research.google/pubs/pub47873/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/simaug.gif"></img></div>
+			<span class="title">SimAug: Learning Robust Representations from Simulation for Trajectory Prediction
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">ECCV 2020.</span> &nbsp;
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/2004.02022" target="_blank">[Paper]</a>
+				<a class="" href="https://next.cs.cmu.edu/simaug/resources/eccv2020.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://next.cs.cmu.edu/simaug" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://research.google/pubs/pub49354/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"  style="height:170px;" ><img src="camera_ready/mm19.gif"></img></div>
+			<span class="title">Shooter Localization Using Social Media Videos
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Jay Aronson, Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">ACM Multimedia (MM) 2019.</span> <span class="text-error"><br/>(Press coverage:
+				<a href="https://pittsburgh.cbslocal.com/2019/11/20/cmu-develops-video-system-locate-mass-shooters/">
+					<img class="press" src="resources/cbs.png"></img>
+				</a>,
+				<a href="https://www.cmu.edu/news/stories/archives/2019/november/system-locates-shooters-using-smartphone-video.html">
+					<img class="press" src="resources/cmu.png"></img>
+				</a>,
+
+				<a href="https://www.wpxi.com/news/top-stories/shooters-can-be-located-with-smartphone-video-using-new-cmu-developed-tool/1010922936">
+					<img class="press" src="resources/wpxi.png"></img>
+				</a>,
+				<a href="https://www.post-gazette.com/business/tech-news/2019/11/20/Carnegie-Mellon-CMU-develops-cellphone-smartphone-video-system-location-shooter-triangulate/stories/201911200101">
+					<img class="press" src="resources/post.png"></img>
+				</a>,
+				<a href="https://www.dailymail.co.uk/sciencetech/article-7707501/Carnegie-Mellon-aims-end-pro-longed-massacres-locates-active-shooters.html">
+					<img class="press" src="resources/dailymail.png"></img>
+				</a>,
+				<a href="https://gizmodo.com/smartphone-videos-can-now-be-analyzed-and-used-to-pinpo-1839979803">
+					<img class="press" src="resources/gizmodo.png"></img>
+				</a>,
+				<a href="https://www.msn.com/en-us/news/us/researchers-at-carnegie-mellon-university-develop-video-system-to-locate-mass-shooters/ar-BBX3wRA">
+					<img class="press" src="resources/msn.png"></img>
+				</a>,
+				<a href="https://www.techspot.com/news/82881-researchers-develop-system-can-pinpoint-shooter-location-using.html">
+					<img class="press" src="resources/techspot.png"></img>
+				</a>,
+				<a href="https://www.sciencedaily.com/releases/2019/11/191120070712.htm">
+					<img class="press" src="resources/science_daily.png"></img>
+				</a>,
+				<a href="https://gcn.com/articles/2019/11/22/smartphone-shooter-location.aspx">
+					<img class="press" src="resources/gcn.png"></img>
+				</a>
+			)</span> </div>
+			<div class="stuff">
+				<a class="" href="https://www.cmu.edu/chrs/publications/pdf/shooter-localization-using-social-media-videos.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/mm19.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=6q7LqqzrY2I" target="_blank">[Demo Video]</a>
+				<a class="" href="https://vera.cs.cmu.edu" target="_blank">[Project Page]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<div class="imgblock"><img src="camera_ready/memexqa.png"></img></div>
+			<span class="title">Focal Visual-Text Attention for Memex Question Answering
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Liangliang Cao, Yannis Kalantidis, Li-Jia Li, and Alexander Hauptmann</div>
+			<div class="info">In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019. </div>
+			<div class="stuff">
+				<a class="" href="https://ieeexplore.ieee.org/document/8603827" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/tpami19.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=hH-SXKA7hE8" target="_blank">[Demo Video]</a>
+				<a class="" href="https://memexqa.cs.cmu.edu" target="_blank">[Code/Model/Dataset]</a>
+				<a href="https://research.google/pubs/pub47871/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<div class="imgblock"><img src="camera_ready/fvta.png"></img></div>
+			<span class="title">Focal Visual-Text Attention for Visual Question Answering
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Liangliang Cao, Li-Jia Li, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2018.</span> <span class="text-error">(Spotlight Paper, <span style="font-weight:bold">6.8%</span> acceptance rate)</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/cvpr18.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/cvpr18.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://memexqa.cs.cmu.edu/fvta.html" target="_blank">[Code/Model]</a>
+				<a  class="" href="https://youtu.be/TBOnKekODCI?t=1h11m29s" target="_blank">[Presentation]</a>
+				<a href="https://research.google/pubs/pub47012/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/3d_recon.png"></img></div>
+			<span class="title">An Event Reconstruction Tool for Conflict Monitoring Using Social Media
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Desai Fan, Han Lu, Poyao Huang, Jia Chen, Lu Jiang, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">AAAI 2017 Demo.</span></div>
+			<div class="stuff">
+				<a class="" href="https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/download/14659/14033" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/aaai17_2.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=DAhL5QL9Ko4" target="_blank">[Demo Video]</a>
+				<a class="" href="https://vera.cs.cmu.edu/VERA_3D_Reconstruction/" target="_blank">[Project Page]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/aaai17_1.png"></img></div>
+			<span class="title">Webly-Supervised Learning of Multimodal Video Detectors
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">AAAI 2017 Demo.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/aaai17_1.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/aaai17_1.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=3he6VDwYMCQ" target="_blank">[Demo Video]</a>
+				<a class="" href="posters/well_poster.pptx" target="_blank">[Poster]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/ijcai16.png"></img></div>
+			<span class="title">Learning to Detect Concepts from Webly-Labeled Video Data
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Deyu Meng, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">IJCAI 2016.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/ijcai16.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/ijcai16.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=3he6VDwYMCQ" target="_blank">[Demo Video]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<div class="imgblock"><img src="camera_ready/icmr16.png"></img></div>
+			<span class="title">Video Description Generation using Audio and Visual Cues
+			</span>
+			<div class="info text-success italic">Qin Jin, and <span style="font-weight:bold">Junwei Liang</span></div>
+			<div class="info"><span style="font-weight: bold">ICMR 2016.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/icmr16.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/icmr16.bib" target="_blank">[BibTex]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/icassp17_1.png"></img></div>
+			<span class="title">Temporal Localization of Audio Events for Conflict Monitoring in Social Media
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">ICASSP 2017.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/icassp17_1.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/icassp17_1.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=em-0CsJoqeU" target="_blank">[Demo Video]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+
+	</ol>
+</div>
+
+<div class="content education">
+	<a name="education"></a>
+	<div class="title">Educations</div>
+	<ul>
+		<li>
+			<span class="title">Ph.D. in Artificial Intelligence</span> <div class="float-right time">2017 - 2021</div>
+			<div class="info">School of Computer Science, Carnegie Mellon University</div>
+			<div class="info">Advisor: <a href="https://scholar.google.com/citations?user=Py54GcEAAAAJ&hl=en">Alexander Hauptmann</a></div>
+			<div class="info">Thesis: From Recognition to Prediction: Analysis of Human Action and Trajectory Prediction in Video [<a href="thesis/">Link</a>]</div>
+		</li>
+		<li>
+			<span class="title">M.S. in Artificial Intelligence</span> <div class="float-right time">2015 - 2017</div>
+			<div class="info">School of Computer Science, Carnegie Mellon University</div>
+			<div class="info">Advisor: <a href="https://scholar.google.com/citations?user=Py54GcEAAAAJ&hl=en">Alexander Hauptmann</a></div>
+		</li>
+		<li>
+			<span class="title">B.S. in Computer Science</span> <div class="float-right time">2011 - 2015</div>
+			<div class="info">School of Information, Renmin University of China</div>
+			<div class="info">Advisor: <a href="https://scholar.google.com/citations?user=8UkYbCMAAAAJ&hl=en">Qin Jin</a></div>
+		</li>
+	</ul>
+</div>
+
+<div class="content pro">
+	<a name="media"></a>
+	<div class="title">Selected Media</div>
+	<ul>
+		<li>
+			<span style="font-weight: bold">Washington Post.</span> <span style="font-style: italic;">How Shireen Abu Akleh was killed</span> (provided gunshot and shooter analysis), June 2022.
+			[<a href="https://www.washingtonpost.com/investigations/interactive/2022/shireen-abu-akleh-death/?itid=lk_inline_manual_4/">Link</a>]
+		</li>
+		<li>
+			<span style="font-weight: bold">Washington Post.</span> <span style="font-style: italic;">Anatomy of a crackdown</span> (provided gunshot and shooter analysis), August 25, 2021.
+			[<a href="https://www.washingtonpost.com/world/interactive/2021/myanmar-crackdown-military-coup//">Link</a>]
+		</li>
+		<li>
+			<span style="font-weight: bold">Washington Post.</span> <span style="font-style: italic;">17 requests for backup in 78 minutes</span> (provided crowd counting analysis), April 15, 2021.
+			[<a href="https://www.washingtonpost.com/investigations/interactive/2021/dc-police-records-capitol-riot/">Link</a>]
+		</li>
+		<li>
+			<span style="font-weight: bold">Carnegie Mellon University News.</span> <span style="font-style: italic;">Amateur Drone Videos Could Aid in Natural Disaster Damage Assessment</span>, August 28, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">AZO Robotics.</span> <span style="font-style: italic;">New AI System Helps Detect Damage Caused to Buildings by Hurricanes</span>, August 31, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">Washington Post.</span> <span style="font-style: italic;">Lewd cheerleader videos, sexist rules: Ex-employees decry Washington’s NFL team workplace</span> (featured in the video analytics), August 26, 2020.
+			[<a href="https://www.washingtonpost.com/sports/2020/08/26/redskins-cheerleaders-video-daniel-snyder-washington/">Link</a>]
+		</li>
+		<li>
+			<span style="font-weight: bold">CBS.</span> <span style="font-style: italic;">Researchers At Carnegie Mellon University Develop Video System To Locate Mass Shooters Using Smartphones</span>, November 20, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">post-gazette.</span> <span style="font-style: italic;">CMU develops video system that can locate mass shooter</span>, November 20, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">GIZMODO.</span> <span style="font-style: italic;">Smartphone Videos Can Now Be Analyzed and Used to Pinpoint the Location of a Shooter</span>, November 21, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">DailyMail.</span> <span style="font-style: italic;">Active shooters can be located within minutes by new software that analyzes smartphone video from the scene and can even identify the type of gun</span>, November 20, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">Techspot.</span> <span style="font-style: italic;">Researchers develop system that can pinpoint a shooter's location using smartphone videos</span>, November 21, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">New York Times.</span> <span style="font-style: italic;">Who Killed the Kiev Protesters? A 3-D Model Holds the Clues</span> (featured in the video analytics), May 30, 2018.
+		</li>
+		<li>
+			<span style="font-weight: bold">读芯术.</span> <span style="font-style: italic;">卡内基梅隆大学梁俊卫：视频中行人的多种未来轨迹预测</span>, August, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">Baidu.</span> <span style="font-style: italic;">乘风破浪的AI技术青年——首届WAIC云帆奖名单公布</span>, July 11, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">China.com.cn.</span> <span style="font-style: italic;">人大高瓴人工智能学院“高屋建瓴-青年说”首期开讲</span>, Jan 6, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">Baidu.</span> <span style="font-style: italic;">AI界的中国力量！百度奖学金助力中国AI人才绽放光芒！</span>, Jan 5, 2020.
+		</li>
+		<li>
+			<span style="font-weight: bold">量子位.</span> <span style="font-style: italic;">李飞飞团队造出”窥视未来”新AI:去哪干啥一起猜, 准确率压倒老前辈</span>, received 30k+ views in a week, Feb 13, 2019.
+		</li>
+		<li>
+			<span style="font-weight: bold">机器之心.</span> <span style="font-style: italic;">遇见未来！李飞飞等提出端到端系统Next预测未来路径与活动</span>, Feb 14, 2019.
+		</li>
+	</ul>
+</div>
+
+<div class="content research">
+	<a name="research"></a>
+	<div class="title">Research Experience</div>
+	<ul>
+		<li>
+			<span class="title">Researcher at Tencent Youtu Lab</span> <div class="float-right time">2021 - present</div>
+			<div class="info">
+				Work on large-scale video and language models and efficient long-term action detection applications.
+			</div>
+		</li>
+		<li>
+			<span class="title">Research Assistant at Carnegie Mellon University</span> <div class="float-right time">2015 - 2021</div>
+			<div class="info">
+				Worked on Large-scale Video Analysis and Retrieval. Studied unsupervised learning of video concept detectors from the Internet. Also participated in the development of event reconstruction tool.
+				The project is for Synchronization and localization of noisy user-generated videos to reconstruct the event scene and timeline from unorganized social media videos, affiliates with CMU <a href="http://www.cmu.edu/chrs/" target="_blank">Center for Human Rights Science</a>.
+				I'm also the major contributor to the government-funded projects: <a href="https://www.nist.gov/ctl/pscr/real-time-video-analytics-situation-awareness" target="_blank">PSCR by NIST</a> (2017-2020), <a href="https://www.iarpa.gov/index.php/research-programs/diva" target="_blank">DIVA by IARPA</a> (2017-2021) and <a href="https://www.iarpa.gov/index.php/research-programs/aladdin-video" target="_blank">ALADDIN by IARPA</a> (2017).
+				Advised by <a href="https://scholar.google.com/citations?user=Py54GcEAAAAJ" target="_blank">Prof. Alexander Hauptmann</a>.
+				<!--[<a href="https://www.nist.gov/video/real-time-video-analytics-situation-awareness" target="_blank">PSCR 2018 presentation</a>, <a href="https://www.nist.gov/ctl/pscr/2019-stakeholder-meeting-analytics-sessions" target="_blank">2019</a>]-->
+			</div>
+		</li>
+		<li>
+			<span class="title">Research Intern at Google Cloud AI</span> <div class="float-right time">May 2020 - Aug 2020</div>
+			<div class="info">
+				Worked on viewpoint equivariant representation learning for activity recognition.
+				Advised by <a href="https://scholar.google.com/citations?user=_lswGcYAAAAJ&hl=en" target="_blank">Dr. Ting Yu</a>, <a href="https://scholar.google.com/citations?user=vM1SktEAAAAJ&hl=en" target="_blank">Dr. Xuehan Xiong</a> and <a href="http://llcao.net/" target="_blank">Prof. Liangliang Cao</a>.
+			</div>
+		</li>
+		<li>
+			<span class="title">Research Intern at Google AI</span> <div class="float-right time">May 2019 - Aug 2019</div>
+			<div class="info">
+				Worked on future person activity and trajectory prediction in videos. Integrated research models to a Google Cloud product. Used 3D simulator (carla.org) to collect multi-modal future behavioral data.
+				Advised by <a href="http://www.cs.cmu.edu/~lujiang/" target="_blank">Dr. Lu Jiang</a> and <a href="https://www.cs.ubc.ca/~murphyk/" target="_blank">Prof. Kevin Murphy</a>.
+			</div>
+		</li>
+		<li>
+			<span class="title">Student Researcher at Google Cloud AI</span> <div class="float-right time">May 2018 - Dec 2018</div>
+			<div class="info">
+				Worked on activity recognition and prediction in multi-perspective streaming videos. Studied principal computer vision and high-level semantic reasoning models for interperson and person-object interaction to help AI better understand human activities. Advised by <a href="http://www.cs.cmu.edu/~lujiang/" target="_blank">Dr. Lu Jiang</a> and <a href="http://www.niebles.net/" target="_blank">Prof. Juan Carlos Niebles</a>.
+			</div>
+		</li>
+		<li>
+			<span class="title">Research Assistant at Renmin University of China</span> <div class="float-right time">2013 - 2015</div>
+			<div class="info">
+				Studied semantic concept annotation on user-generated videos using audio. Participated HUAWEI semantic concept annotation of UGC videos grand challenge 2014 and ranked 3rd in the evaluation. Also worked on natural language description generation for images and videos with deep models. Ranked 1st in ImageCLEF 2015 “image to sentence” subtask in the evaluation. Advised by <a href="https://scholar.google.com/citations?user=8UkYbCMAAAAJ&hl=zh-CN" target="_blank">Prof. Qin Jin</a>.
+			</div>
+		</li>
+	</ul>
+</div>
+
+<div class="content pro">
+	<a name="teaching"></a>
+	<div class="title">Teaching & Talks</div>
+	<ul>
+		<li>
+			<span class="title">Invited Presentation: The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+				[<a href="https://sites.google.com/di.uniroma1.it/patcast/program?authuser=0" target="_blank">Link</a>]
+			</span><div class="float-right time">2021</div>
+			<div class="info">Presented at ICPR'20 pattern forecasting workshop. </div>
+		</li>
+		<li>
+			<span class="title">Research Presentation: The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+				<!--[<a href="https://www.youtube.com/watch?v=DQEKznQKn6s" target="_blank">Talk</a>]-->
+			</span><div class="float-right time">2020</div>
+			<div class="info">Presented internally at <span style="font-weight: bold">Waymo's</span> machine learning reading group with about 60 attendees. </div>
+		</li>
+		<li>
+			<span class="title">Research Presentation: The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+				[<a href="https://lti.cs.cmu.edu/content/lti-summer-seminar-2020" target="_blank">Link</a>]
+			</span><div class="float-right time">2020</div>
+			<div class="info">Live presentation for CMU graduate students at LTI Summer Seminar. </div>
+		</li>
+		<li>
+			<span class="title">Research Presentation: The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+				[<a href="https://mp.weixin.qq.com/s/s6bk5psLwpGpO1VwtQqo_g" target="_blank">Talk</a>]
+			</span><div class="float-right time">2020</div>
+			<div class="info">Live presentation for hundreds of Chinese college students. </div>
+		</li>
+		<li>
+			<span class="title">Contributed Talk: Shooter Localization Using Social Media Videos [<a href="https://www.youtube.com/watch?v=DQEKznQKn6s" target="_blank">Talk</a>] </span><div class="float-right time">2020</div>
+			<div class="info">At <a href="https://www.cmu.edu/scs/ml4sg/">AI for Social Good</a>, Carnegie Mellon University</div>
+		</li>
+		<li>
+			<span class="title">Guest Lecture: Introduction to Machine Learning in Computer Vision [<a href="https://docs.google.com/presentation/d/1xvDyHBWIvn-Z5Mj-5Up47YvzET5zl6X0dTSQyFXf-v0/edit?usp=sharing" target="_blank">Slides</a>] [<a href="https://youtu.be/nbT7IIU8Sdc" target="_blank">Video</a>]</span><div class="float-right time">2020</div>
+			<div class="info">11-775 Large-scale Multimedia Analysis,  hosted by Prof. Alex Hauptmann and Prof. Rita Singh, Carnegie Mellon University</div>
+		</li>
+		<li>
+			<span class="title">Invited Talk: Real-time Video Analytics for Situation Awareness
+				[<a href="https://www.nist.gov/video/real-time-video-analytics-situation-awareness" target="_blank">Talk-2018</a>]
+				[<a href="https://www.nist.gov/ctl/pscr/real-time-video-analytics-situation-awareness" target="_blank">Talk-2019</a>]
+			</span><div class="float-right time">2019</div>
+			<div class="info">At the Public Safety Communications Research annual conference hosted by <a href="https://www.nist.gov/ctl/pscr">NIST PSCR</a>.</div>
+		</li>
+		<li>
+			<span class="title">Oral Talk: Focal Visual-Text Attention for Memex Question Answering
+			</span><div class="float-right time">2018</div>
+			<div class="info">At CMU LTI Student Research Symposium 2018. Received best paper honorable mentions award.</div>
+		</li>
+		<li>
+			<span class="title">Spotlight Talk: Focal Visual-Text Attention for Visual Question Answering [<a href="https://www.youtube.com/watch?v=TBOnKekODCI&feature=youtu.be&t=1h11m29s" target="_blank">Video</a>]</span><div class="float-right time">2018</div>
+			<div class="info">At CVPR 2018 in Salt Lake City</div>
+		</li>
+		<li>
+			<span class="title">Oral Talk: Learning to Detect Concepts from Webly-Labeled Video Data
+			</span><div class="float-right time">2016</div>
+			<div class="info">At IJCAI 2016 in New York City.</div>
+		</li>
+		<li>
+			<span class="title">Teaching Assistant</span><div class="float-right time">2021</div>
+			<div class="info">11-775 Large-scale Multimedia Analysis, Carnegie Mellon University</div>
+
+		</li>
+		<li>
+			<span class="title">Teaching Assistant</span><div class="float-right time">2018</div>
+			<div class="info">LTI Colloquium,  hosted by Prof. Alex Hauptmann, Carnegie Mellon University</div>
+
+		</li>
+		<li>
+			<span class="title">Teaching Assistant</span><div class="float-right time">2014</div>
+			<div class="info">Practical Course on Speech Synthesis and Building Synthetic Voices by Prof. Alan Black, Summer School of Renmin University of China</div>
+		</li>
+	</ul>
+</div>
+<div class="content pro">
+	<div class="title">Academic Service</div>
+	<ul>
+		<li>
+			<span class="title">Journal Reviewer</span>
+			<div class="info">IEEE Transactions on Pattern Analysis and Machine Intelligence <span style="font-weight: bold;">(TPAMI)</span></div>
+			<div class="info">IEEE Transactions on Image Processing (TIP)</div>
+			<div class="info">Pattern Recognition</div>
+			<div class="info">Artificial Intelligence Review (AIRE)</div>
+			<div class="info">IEEE Transactions on Intelligent Transportation Systems (ITS)</div>
+			<div class="info">IEEE Transactions on Multimedia</div>
+			<div class="info">IEEE Access</div>
+			<div class="info">IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</div>
+			<div class="info">ACM TOMM</div>
+			<div class="info">Neurocomputing</div>
+			<div class="info">Nature Scientific Reports</div>
+			<div class="info">Information Sciences</div>
+			<div class="info">Defense Technology</div>
+		</li>
+		<li>
+			<span class="title">Conference Reviewer</span>
+			<div class="info">CVPR/ICCV/AAAI/WACV/ECCV, 2021/2022</div>
+			<div class="info">ACM Multimedia 2017/2019/2020/2021</div>
+			<div class="info">ACM Multimedia Asia 2021</div>
+			<div class="info">NAACL-HLT SRW 2021</div>
+			<div class="info">ACL 2020 Student Research Workshop</div>
+			<div class="info">CVPR 2020 AI for Content Creation Workshop</div>
+		</li>
+	</ul>
+</div>
+
+<div class="content pro">
+	<div class="title">Web Application Portfolio</div>
+	<ul>
+		<li>
+			<span class="title"><a href="https://vera.cs.cmu.edu/">Shooter Localization from Social Media Videos</a></span>
+			<div class="info">Widely reported by news media. Presented at CES 2020.</div>
+		</li>
+		<li>
+			<span class="title"><a href="https://github.com/JunweiLiang/Lecture_Attendance_Management">Attendance Management System</a></span>
+			<div class="info">
+				Used within <a href="https://www.lti.cs.cmu.edu/">CMU LTI</a> for a course with over a hundred students every semester since 2017.
+			</div>
+		</li>
+		<li>
+			<span class="title">Major CMS websites for organizations</span>
+			<div class="info"><a href="http://www.hillhouseacademy.com/">Hillhouse Academy</a>,  <a href="https://dasai.ruc.edu.cn/index.php/site/designer">Annual Computer Design Competition in China (>2000 users annually)</a> </div>
+		</li>
+	</ul>
+</div>
+
+
+<div class="footer footer1">
+	<div class="content white-text">
+		Informedia Lab, Language Technologies Institute <br/>
+		School of Computer Science <br/>
+		Carnegie Mellon University
+	</div>
+<div class="footer footer2">
+	<div class="content white-text">
+		Created and designed by <a style="color:white" href="https://junweiliang.me">Junwei Liang</a> in CMU.
+	</div>
+</div>
+
+<!--
+	a Junwei Liang's production
+	contact: junweil@cs.cmu.edu
+-->
+</body>
+</html>

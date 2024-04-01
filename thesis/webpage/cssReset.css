@@ -1,0 +1,280 @@
+﻿@charset "utf-8";
+html{
+    height:100%;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+	-webkit-font-smoothing:antialiased;
+}
+body{
+	margin:0;
+	padding:0;
+	background-color:#fff;
+	min-height:100%;
+	height:auto !important;
+	height:100%;
+	color:#404040;
+    /*font:微软雅黑,Helvetica,arial;
+	font-family:微软雅黑,Helvetica,arial;*/
+	font-size:16px;
+}
+h1,h2,h3,h4,h5,h6,p,figure,form{
+    margin:0;
+}
+table{
+	border-collapse:collapse;
+	border-spacing:0;
+}
+img{
+	border:0;
+    vertical-align:middle;
+    -ms-interpolation-mode: bicubic;
+}
+a{
+	text-decoration:none;
+}
+a:focus {
+    outline: thin dotted;
+}
+a:hover{
+	text-decoration:none;
+}
+/* hn */
+h1{
+	font-size:16px;
+	line-height:36px;
+}
+h2{
+	font-size:14px;
+	line-height:30px;
+}
+h3{
+	line-height:24px;
+}
+h3,h4,h5,h6{
+	font-size:12px;
+}
+/* ul ol dl */
+ul,li,ol{
+    margin: 0;
+	padding:0;
+	/*list-style: none outside none;*/
+}
+/*
+ul.has-style li,ol li{
+	margin-left:25px;
+}
+ul.has-style li{
+    list-style:disc;
+}
+ol li{
+	list-style:decimal;
+}
+ul.inline-style li{
+	float:left;
+	display:inline;
+}*/
+dl{
+    margin-bottom: 18px;
+}
+dt{
+    font-weight: bold;
+}
+dd{
+    margin:0 0 0 9px;
+	padding:0;
+}
+svg:not(:root) {
+    overflow: hidden;
+}
+/* clearfix */
+.clearfix:before, .clearfix:after {
+    content:"";
+    display:table;
+}
+.clearfix:after{
+	clear:both;
+	overflow:hidden;
+}
+.clearfix{
+    zoom:1;
+}
+/* -------------------------------------------------
+ * form
+ * -------------------------------------------------
+*/
+button,input,select,textarea{
+    font-size:100%;
+    font-family:tahoma;
+    margin: 0;
+	outline: 0 none;
+    vertical-align: baseline;
+    *vertical-align: middle;
+}
+textarea{
+    overflow: auto;
+    vertical-align: top; 
+	resize:none;
+}
+button,input{
+    line-height: normal;
+}
+button,
+html input[type="button"], 
+input[type="reset"],
+input[type="submit"],
+.submit-btn{
+    -webkit-appearance: button; 
+    cursor: pointer; 
+    *overflow: visible;
+}
+button[disabled],
+input[disabled],
+.disable{
+    cursor: default;
+}
+input[type="checkbox"],
+input[type="radio"],
+.form-radio,
+.form-checkbox{
+    box-sizing: border-box;
+    padding: 0;
+    *height: 13px;
+    *width: 13px;
+}
+fieldset{
+    border: 1px solid #c0c0c0;
+    margin: 0 2px 18px;
+    padding: 0.35em 0.625em 0.75em;
+}
+legend{
+    border: 0;
+    padding: 0;
+    white-space: normal;
+    *margin-left: -7px;
+}
+button::-moz-focus-inner,
+input::-moz-focus-inner{
+    border: 0;
+    padding: 0;
+}
+/* -------------------------------------------------
+ * css3 & html5
+ * -------------------------------------------------
+*/
+/* html5 */
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{
+    display: block;
+}
+audio,canvas,video{
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+audio:not([controls]){
+    display: none;
+    height: 0;
+}
+input[type="search"]{
+    -webkit-appearance: textfield;
+    -moz-box-sizing: content-box;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+}
+:-moz-placeholder{
+  color: #999;
+}
+::-webkit-input-placeholder{
+  color: #999;
+}
+/* -------------------------------------------------
+ * 非常见标签
+ * -------------------------------------------------
+*/
+abbr[title]{
+    border-bottom: 1px dotted;
+}
+b,strong{
+    font-weight: bold;
+}
+blockquote{
+    margin: 1em 40px;
+}
+dfn{
+    font-style: italic;
+}
+mark{
+    background: #ff0;
+    color: #444;
+}
+code,kbd,pre,samp{
+    font-family: monospace, serif;
+    _font-family: 'courier new', monospace;
+    font-size: 1em;
+}
+pre{
+    margin: 1em 0;
+	white-space: pre;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+q{
+    quotes: none;
+}
+q:before,
+q:after{
+    content: '';
+    content: none;
+}
+small{
+    font-size: 80%;
+}
+sub,sup{
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup{
+    top: -0.5em;
+}
+sub{
+    bottom: -0.25em;
+}
+/*********************
+	自定义用法
+*/
+span.space{
+	/*行内小空格，用于icon与文字之间*/
+	width:5px;
+	height:5px;
+	display:inline-block; 
+	/**display:inline; IE6、7 block 元素 
+	*zoom:1;*/
+}
+div.loading{
+/*载入中的gif动图，路径以 本文件为基准*/
+width:16px;
+height:16px;
+background:url('../assets/images/loading.gif') no-repeat center center;
+display:inline-block;
+}
+div.wrapLoading{
+	text-align:center;
+	width:100%;
+	padding:10px 0;
+}
+div.wrap{margin:0 auto;width:980px}/*该网站中各个模块的wrap*/
+div.clearLeft{clear:left}
+div.clearRight{clear:right}
+div.clearBoth{clear:both}
+div.mask{position:absolute;top:0;left:0;width:100%;height:100%;
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)"; /* ie8  */
+    filter:alpha(opacity=50);    /* ie5-7  */
+    opacity: 0.5;    /* css standard, currently it works in most modern browsers  */
+background-color:black;text-align:center;color:white}
+/* 关闭按钮增大 */
+div.close{
+	padding:6px;
+	padding-top:0;
+}
+

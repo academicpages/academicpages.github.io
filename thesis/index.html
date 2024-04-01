@@ -1,0 +1,483 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta  http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=0" />
+	<link rel="stylesheet" type="text/css" href="webpage/bootstrap.min.css"/>
+    <script language="javascript" src="webpage/jquery.min.js"></script>
+	<script language="javascript" src="webpage/bootstrap.min.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="webpage/cssReset.css"/>
+	<title>Junwei Liang's PhD. Proposal</title>
+	<meta name="description" content="PhD Thesis proposal for Junwei Liang at CMU. Joint Analysis and Prediction of Human Actions and Paths in Video">
+	<meta name="keywords" content="Junwei Liang,CMU,computer vision,PhD,梁俊卫,{Action Recognition, Trajectory Prediction, Action Prediction, Human Behavioral Analysis, Future Prediction, Machine Perception, Autonomous Driving">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156016426-8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-156016426-8');
+</script>
+
+
+</head>
+<body>
+<style type='text/css'>
+	body{
+		font-family:arial,"Microsoft YaHei",微软雅黑,宋体,Helvetica;
+		font-size:15px;
+	}
+	/*
+		div.content:
+			provide the content div in the middle
+	*/
+	body div.content{
+		/*width:1280px;*/
+		width:1000px;
+		margin:0 auto;
+		line-height:30px;
+	}
+	/*
+		header wrapper
+	*/
+	body div.header{
+		background-color:#2196F3;
+	}
+	body div.header > div.content{
+		padding:10px;
+	}
+	/*
+		footer1
+	*/
+	body div.footer1{
+		margin-top:30px;
+		background-color:#64B5F6;
+	}
+	/*
+		footer2
+	*/
+	body div.footer2{
+		background-color:#2196F3;
+	}
+	body div.footer > div.content{
+		padding:10px;
+	}
+	body div.footer1 > div.content{
+		padding:20px;
+		line-height:40px;
+		font-size:1.2em;
+	}
+	/*
+		utils css
+	*/
+	div.white-text{
+		color:white;
+	}
+	div.content > div.title{
+		padding:20px 0;
+		border-top:1px silver solid;
+		margin-top:30px;
+		font-size:2em;
+		font-weight:bold;
+	}
+	body a{
+		text-decoration:none;
+	}
+	div.content ul{
+		list-style: disc inside none;
+	}
+	div.content ol{
+		list-style: none inside none;
+	}
+	div.content li{
+		line-height:30px;
+		padding-bottom:5px;
+	}
+	div.content div.float-right{
+		float:right;
+	}
+</style>
+<!-- css for bio -->
+<style type="text/css">
+	/*
+		bio
+	*/
+	div.bio{
+		font-size:1.2em;
+	}
+	div.bio > div.left{
+		float:left;
+		width:250px;
+	}
+	div.bio > div.left > img.me{
+		max-height:250px;
+		margin:10px;
+		max-width:230px;
+		margin-top:20px;
+		margin-left:0px;
+	}
+
+	div.bio > div.right{
+		margin:0 0 0 260px;
+		min-height:360px;
+	}
+	div.bio > div.right > div.line.name{
+		padding:15px 0;
+		line-height:40px;
+	}
+	div.bio > div.right > div.name > span.name,div.bio > div.right > div.name > span.chineseName{
+		font-size:2em;
+		font-weight:bold;
+	}
+	div.bio > div.right > div.name > span.chinesesName{
+		font-family:"Microsoft YaHei",微软雅黑,宋体,Helvetica,arial;
+	}
+	div.bio > div.right > div.name > span.misc{
+		font-size:1.5em;
+		font-weight:bold;
+	}
+	div.bio > div.right > div.line.school{
+		padding:5px 0;
+	}
+
+	div.bio > div.right > div.line.office{
+		padding:5px 0;
+	}
+
+</style>
+<!-- quick link and intro -->
+<style type="text/css">
+div.quickLink{
+	min-height:70px;
+}
+div.quickLink > .block{
+	display:block;
+	float:left;
+	padding:10px 0px;
+	text-align:center;
+	border:1px silver solid;
+	border-radius:5px;
+	box-shadow:2px 2px 1px silver;
+	width:140px;
+	margin-right:50px;
+	margin-top:20px;
+	cursor:pointer;
+}
+</style>
+<!-- research and education -->
+<style type="text/css">
+div.research > ul > li > span.title,div.research > ul > li > div.time,
+div.education > ul > li > span.title,div.education > ul > li > div.time,
+div.pro > ul > li > span.title{
+	font-weight:bold;
+	font-size:1.1em;
+}
+div.research > ul > li > div.info,
+div.education > ul > li > div.info,
+div.pro > ul > li > div.info{
+	padding-left:20px;
+	word-wrap:break-word;
+}
+</style>
+<!-- publications -->
+<style type="text/css">
+div.publications > ol > li{
+	padding-bottom: 30px;
+}
+div.publications > ol > li > span.title{
+	font-weight:bold;
+	font-size:1.2em;
+}
+div.publications > ol > li > div.info{
+	padding-left:20px;
+	word-wrap:break-word;
+}
+div.publications > ol > li > div.info.italic{
+	font-style: italic;
+}
+div.publications div.imgblock{
+	float:left;
+	height:180px;
+	width:300px;
+	padding:10px;
+	margin-right:30px;
+	text-align: center;
+}
+div.publications div.imgblock > img{
+	max-width:100%;
+	max-height:100%;
+}
+img.press{
+	height:20px;
+}
+div.bio > div.left > a.quickLink{
+	margin-right:15px;
+	width: 30px;
+}
+div.bio > div.left > a.quickLink > img{
+	width: 30px;
+	height:30px;
+}
+</style>
+<div class="header">
+	<div class="content white-text">
+		Junwei Liang's PhD Thesis
+	</div>
+</div>
+
+<div class="content intro">
+	<div class='title' style="border-top:0px">From Recognition to Prediction:
+Analysis of Human Action and Trajectory
+Prediction in Video</div>
+	<span style="font-weight:bold"><a href="../">Junwei Liang</a></span> <br/>
+	June. 30, 2020<br/>
+	Carnegie Mellon University
+</div>
+
+<div class="content">
+	<div class="title">Thesis Committee</div>
+	<ul>
+		<li>
+			<a href="https://www.cs.cmu.edu/~alex/">Prof. Alex Hauptmann</a>, Carnegie Mellon University (Chair)
+		</li>
+		<li>
+			<a href="https://www.cs.cmu.edu/~awb/">Prof. Alan W Black</a>, Carnegie Mellon University
+		</li>
+		<li>
+			<a href="https://www.cs.cmu.edu/~kkitani/">Prof. Kris Kitani</a>, Carnegie Mellon University
+		</li>
+		<li>
+			<a href="http://www.lujiang.info/">Dr. Lu Jiang</a>, Google Research
+		</li>
+	</ul>
+
+	<div class="title" style="border-top:0px">Document</div>
+	The write-up can be found <a href="https://arxiv.org/abs/2011.10670">here</a>. <br/>
+
+	<div class="title" style="border-top:0px">Slides</div>
+	The slides [.pdf] can be found <a href="camera_ready/defense_slides_public.pdf">here</a>. <br/>
+
+	<div class="title">Abstract</div>
+		With the advancement in computer vision deep learning, systems now are able
+to analyze an unprecedented amount of rich visual information from videos to enable applications such as autonomous driving, socially-aware robot assistant and
+public safety monitoring. Deciphering human behaviors to predict their future
+paths/trajectories and what they would do from videos is important in these applications. However, human trajectory prediction still remains a challenging task,
+as scene semantics and human intent are difficult to model. Many systems do not
+provide high-level semantic attributes to reason about pedestrian future. This design hinders prediction performance in video data from diverse domains and unseen scenarios. To enable optimal future human behavioral forecasting, it is crucial
+for the system to be able to detect and analyze human activities as well as scene
+semantics, passing informative features to the subsequent prediction module for
+context understanding.
+		<br/>
+		In this thesis, we conduct human action analysis and develop robust algorithm
+and models for human trajectory prediction in urban traffic scenes. This thesis consists of three parts. The first part analyzes human actions. We aim to develop an efficient object detection and tracking system similar to the perception system used in
+self-driving, and tackle action recognition problem under weakly-supervised learning settings. We propose a method to learn viewpoint invariant representations for
+video action recognition and detection with better generalization. In the second
+part, we tackle the problem of trajectory forecasting with scene semantic understanding. We study multi-modal future trajectory prediction using scene semantics
+and exploit 3D simulation for robust learning. Finally, in the third part, we explore
+using both scene semantics and action analysis for prediction of human trajectories.
+We show our model efficacy on a new challenging long-term trajectory prediction
+benchmark with multi-view camera data in traffic scenes.
+</div>
+
+
+<div class="content education">
+	<a name="projects"></a>
+	<div class="title">Code/Datasets/Models</div>
+	<ul>
+		<li>
+			<span class="title">Trajectory/Activity Forecasting [See global paper rankings on <a href="https://paperswithcode.com/task/trajectory-prediction">PaperWithCode</a>]</span> <div class="float-right time">2018 - present</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/simaug">SimAug - Multi-view Adversarial Learning</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/multiverse">Multiverse - 3D Simulation</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://next.cs.cmu.edu/index.html">Next-Prediction</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=google&repo=next-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://github.com/JunweiLiang/social-distancing-prediction">COVID-19 Project - Social Distancing Early Forecasting [Awarded $6200 GCP research credits]</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=social-distancing-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="info">
+				<a href="https://github.com/JunweiLiang/Object_Detection_Tracking">Object Detection and Tracking in Videos</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Object_Detection_Tracking&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+		</li>
+
+		<li>
+			<span class="title">Weakly Supervised Learning</span> <div class="float-right time">2015 - 2017</div>
+			<div class="info">
+				<a href="https://www.cs.cmu.edu/~junweil/camera_ready/ijcai16.pdf">Webly-labeled Learning</a>
+			</div>
+			<div class="info">
+				<a href="#">Video Semantic Features</a>
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Semantic_Features&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+		</li>
+	</ul>
+</div>
+
+<div class="content publications">
+	<a name="publications"></a>
+	<div class="title">References</div>
+	My thesis is based on the following publications:
+	<ol>
+		<li>
+			<div class="imgblock"><img src="camera_ready/multiverse.gif"></img></div>
+			<span class="title">The Garden of Forking Paths: Towards Multi-Future Trajectory Prediction
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Kevin Murphy, Ting Yu, Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2020.</span> &nbsp;
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/1912.06445" target="_blank">[Paper]</a>
+				<a class="" href="https://next.cs.cmu.edu/multiverse/resources/cvpr2020.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://youtu.be/RW45YQHxIhk" target="_blank">[Demo Video]</a>
+				<a class="" href="https://next.cs.cmu.edu/multiverse" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://medium.com/@junweil/cvpr20-the-garden-of-forking-paths-towards-multi-future-trajectory-prediction-df23221dc9f8">[blog]</a>
+				<a href="https://zhuanlan.zhihu.com/p/148343447">[知乎]</a>
+				<a href="https://research.google/pubs/pub49224/">[Google Research]</a>
+				<a href="https://mp.weixin.qq.com/s/s6bk5psLwpGpO1VwtQqo_g">[读芯术学术报告]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<!--<div class="imgblock"><img src="camera_ready/peekfuture.png"></img></div>-->
+			<div class="imgblock" style="height:280px"><img src="camera_ready/next.gif"></img></div>
+			<span class="title">Peeking into the Future: Predicting Future Person Activities and Locations in Videos
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Juan Carlos Niebles, Alexander Hauptmann, Li Fei-Fei</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2019.</span> <span class="text-error">(Translated and reported by multiple Chinese media (<a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E9%87%8F%E5%AD%90%E4%BD%8D" target="_blank">量子位</a> & <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83" target="_blank">机器之心</a>, 02/13/2019), with 30k+ views in a week.)</span> </div>
+			<div class="info"><span class="text-error">#1 Tensorflow-based code on <a href="https://paperswithcode.com/task/trajectory-prediction">PaperWithCode</a> in Trajectory Prediction task. </span> <iframe src="https://ghbtns.com/github-btn.html?user=google&repo=next-prediction&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/1902.03748" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/future19.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=NyrGxGoS01U" target="_blank">[Demo Video]</a>
+				<a class="" href="https://next.cs.cmu.edu" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://research.google/pubs/pub47873/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/simaug.gif"></img></div>
+			<span class="title">SimAug: Learning Robust Representations from Simulation for Trajectory Prediction
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">ECCV 2020.</span> &nbsp;
+				<iframe src="https://ghbtns.com/github-btn.html?user=JunweiLiang&repo=Multiverse&type=star&count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe>
+			</div>
+			<div class="stuff">
+				<a class="" href="https://arxiv.org/abs/2004.02022" target="_blank">[Paper]</a>
+				<a class="" href="https://next.cs.cmu.edu/simaug/resources/eccv2020.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://next.cs.cmu.edu/simaug" target="_blank">[Project Page/Code/Model]</a>
+				<a href="https://research.google/pubs/pub49354/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/memexqa.png"></img></div>
+			<span class="title">Focal Visual-Text Attention for Memex Question Answering
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Liangliang Cao, Yannis Kalantidis, Li-Jia Li, and Alexander Hauptmann</div>
+			<div class="info">In IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019. </div>
+			<div class="stuff">
+				<a class="" href="https://ieeexplore.ieee.org/document/8603827" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/tpami19.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=hH-SXKA7hE8" target="_blank">[Demo Video]</a>
+				<a class="" href="https://memexqa.cs.cmu.edu" target="_blank">[Code/Model/Dataset]</a>
+				<a href="https://research.google/pubs/pub47871/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+		<li>
+			<div class="imgblock"><img src="camera_ready/fvta.png"></img></div>
+			<span class="title">Focal Visual-Text Attention for Visual Question Answering
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Liangliang Cao, Li-Jia Li, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">CVPR 2018.</span> <span class="text-error">(Spotlight Paper, <span style="font-weight:bold">6.8%</span> acceptance rate)</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/cvpr18.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/cvpr18.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://memexqa.cs.cmu.edu/fvta.html" target="_blank">[Code/Model]</a>
+				<a  class="" href="https://youtu.be/TBOnKekODCI?t=1h11m29s" target="_blank">[Presentation]</a>
+				<a href="https://research.google/pubs/pub47012/">[Google Research]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/aaai17_1.png"></img></div>
+			<span class="title">Webly-Supervised Learning of Multimodal Video Detectors
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">AAAI 2017 Demo.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/aaai17_1.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/aaai17_1.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=3he6VDwYMCQ" target="_blank">[Demo Video]</a>
+				<a class="" href="posters/well_poster.pptx" target="_blank">[Poster]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/ijcai16.png"></img></div>
+			<span class="title">Leveraging Multi-modal Prior Knowledge for Large-scale Concept Learning in Noisy Web Data
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Deyu Meng, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">ICMR 2017.</span></div>
+			<div class="stuff">
+				<a class="" href="http://www.lujiang.info/camera_ready_papers/icmr17.pdf" target="_blank">[Paper]</a>
+				<a class="" href="https://www.youtube.com/watch?v=3he6VDwYMCQ" target="_blank">[Demo Video]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+		<li>
+			<div class="imgblock"><img src="camera_ready/ijcai16.png"></img></div>
+			<span class="title">Learning to Detect Concepts from Webly-Labeled Video Data
+			</span>
+			<div class="info text-success italic"><span style="font-weight:bold">Junwei Liang</span>, Lu Jiang, Deyu Meng, and Alexander Hauptmann</div>
+			<div class="info"><span style="font-weight: bold">IJCAI 2016.</span></div>
+			<div class="stuff">
+				<a class="" href="camera_ready/ijcai16.pdf" target="_blank">[Paper]</a>
+				<a class="" href="camera_ready/ijcai16.bib" target="_blank">[BibTex]</a>
+				<a class="" href="https://www.youtube.com/watch?v=3he6VDwYMCQ" target="_blank">[Demo Video]</a>
+			</div>
+			<div style="clear:both"></div>
+		</li>
+
+	</ol>
+</div>
+
+
+
+
+<div class="footer footer1">
+	<div class="content white-text">
+		Informedia Lab, Language Technologies Institute <br/>
+		School of Computer Science <br/>
+		Carnegie Mellon University
+	</div>
+<div class="footer footer2">
+	<div class="content white-text">
+		Created and designed by <a style="color:white" href="https://junweiliang.me">Junwei Liang</a> in CMU.
+	</div>
+</div>
+
+<!--
+	a Junwei Liang's production
+	contact: junweil@cs.cmu.edu
+-->
+</body>
+</html>
