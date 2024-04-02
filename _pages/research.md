@@ -40,7 +40,7 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
 <p>
   
 <h2 style="font-size:22px; ">Under review </h2>
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">R & R at International Studies Quarterly</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
