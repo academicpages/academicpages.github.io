@@ -38,6 +38,31 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
 
 <p>
 <p>
+  
+<h2 style="font-size:22px; ">Under review </h2>
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
+<details>
+  <summary><i>Abstract</i></summary>
+  
+  Technological breakthroughs often reshape patterns of international exchange and
+interdependence, posing unique challenges for governments. We argue that innovation
+reduces policy autonomy among national governments in two ways. First, lower barriers
+to entry create opportunities for forum-shopping by researchers,  rms, and other actors.
+This facilitates regulatory arbitrage as actors evade national rules by relocating to more
+permissive jurisdictions. Second, public unease about new technologies creates the
+potential for backlash against controversial applications. This backlash can spill across
+borders: accidents or misuse in one jurisdiction undermine support for research and
+commercial development elsewhere. Together, these processes can generate ine cient
+cycles of accelerated progress disrupted by damaging controversies. We test these
+mechanisms in the case of gene editing,  nding support for the theory in data on
+scienti c employment patterns and a survey experiment examining public backlash.
+Our results demonstrate that technological disruption increases interdependence and
+undermines states' ability to regulate in isolation.
+</details>
+
+<p>
+<p>
+
 
 <h2 style="font-size:22px; "> Working Papers</h2>
 
@@ -74,28 +99,7 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 <p>
 
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">Under review</a>) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-  Technological breakthroughs often reshape patterns of international exchange and
-interdependence, posing unique challenges for governments. We argue that innovation
-reduces policy autonomy among national governments in two ways. First, lower barriers
-to entry create opportunities for forum-shopping by researchers,  rms, and other actors.
-This facilitates regulatory arbitrage as actors evade national rules by relocating to more
-permissive jurisdictions. Second, public unease about new technologies creates the
-potential for backlash against controversial applications. This backlash can spill across
-borders: accidents or misuse in one jurisdiction undermine support for research and
-commercial development elsewhere. Together, these processes can generate ine cient
-cycles of accelerated progress disrupted by damaging controversies. We test these
-mechanisms in the case of gene editing,  nding support for the theory in data on
-scienti c employment patterns and a survey experiment examining public backlash.
-Our results demonstrate that technological disruption increases interdependence and
-undermines states' ability to regulate in isolation.
-</details>
 
-<p>
-<p>
 
 
 
