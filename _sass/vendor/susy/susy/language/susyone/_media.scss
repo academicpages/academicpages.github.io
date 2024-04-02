@@ -1,0 +1,105 @@
+// ---------------------------------------------------------------------------
+// Media Mixins
+
+// Create a new layout context for (@content) descendants.
+//
+// $layout-cols : a (unitless) number of columns to use for this layout.
+@mixin layout(
+  $layout-cols
+) {
+  // store default $total-columns setting for later, then change it.
+  $default-layout   : $total-columns;
+  $total-columns    : $layout-cols !global;
+
+  // apply children in this new layout context.
+  @content;
+
+  // return to default $total-columns setting.
+  $total-columns    : $default-layout !global;
+}
+
+// Nest a block of code inside a new media-query and layout context.
+//
+// $media-layout  : a list of values [$min $layout $max $ie] including...
+//                : - one unitless number (columns in a layout)
+//                : - two optional lengths (min and max-width media-query breakpoints).
+//                : - one optional boolean or string to trigger fallback support for IE.
+// $font-size     : [optional] The base font-size of your layout, if you are using ems.
+//                : - defaults to $base-font-size
+@mixin at-breakpoint(
+  $media-layout,
+  $font-size: $base-font-size
+) {
+  $media-layout : medialayout($media-layout,$font-size);
+  $min          : nth($media-layout,1);
+  $layout       : nth($media-layout,2);
+  $max          : nth($media-layout,3);
+  $ie           : nth($media-layout,4);
+
+  @if not($breakpoint-media-output) and not($breakpoint-ie-output) and not($breakpoint-raw-output) {
+    @warn "Either $breakpoint-media-output, $breakpoint-ie-output, or $breakpoint-raw-output must be true for at-breakpoint to work.";
+  }
+
+  // We need to have either a min-width breakpoint or a layout in order to proceed.
+  @if $min or $layout or $max {
+
+    // If we don't have a layout, we create one based on the min-width.
+    @if not($layout) {
+      $layout: get-layout($min);
+    }
+
+    // If we still don't have a layout, we have a problem.
+    @if $layout {
+      // Set our new layout context.
+      @include layout($layout) {
+        @if $breakpoint-media-output {
+          @include with-browser-ranges(css-mediaqueries) {
+            @if $min and $max {
+              // Both $min and $max
+              @media (min-width: $min) and (max-width: $max) {
+                @content;
+              }
+            } @else {
+              @if not($min) and not($max) {
+                // Neither $min nor $max:
+                // We can create a breakpoint based on the number of columns in the layout.
+                $min: fix-ems(container-outer-width($width: false));
+              }
+              @if $min {
+                // Min only:
+                @media (min-width: $min) {
+                  @content;
+                }
+              } @else {
+                // Max only:
+                @media (max-width: $max) {
+                  @content;
+                }
+              }
+            }
+          }
+        }
+        // Set an IE fallback
+        @if $ie and $breakpoint-ie-output {
+          @if (type-of($ie) == 'bool') {
+            $ie: 'lt-ie9';
+          }
+          .#{$ie} & {
+            @content;
+          }
+        }
+
+        @if $breakpoint-raw-output {
+          @content;
+        }
+      }
+    } @else {
+      @warn "We were unable to determine a layout for your breakpoint.";
+    }
+
+  } @else {
+    @warn "You need to provide either a valid layout (number of columns)"
+        + "or a valid media-query min-width breakpoint (length).";
+  }
+
+}
