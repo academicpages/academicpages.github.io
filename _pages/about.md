@@ -182,7 +182,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=XAgent)](https://github.com/OpenBMB/XAgent)
 
 
-* (Member) <b>ChatDev</b>. ChatDev creates customized software using natural language idea through LLM-powered multi-agent collaboration. [[Youtube1](https://www.youtube.com/watch?v=yoAWsIfEzCw)], [[Youtube2](https://www.youtube.com/watch?v=QPBmsgGufXE)]
+* (Member) <b>ChatDev</b>. ChatDev creates customized software using natural language idea through LLM-powered multi-agent collaboration. [[Youtube1](https://www.youtube.com/watch?v=yoAWsIfEzCw)], [[Youtube2](https://www.youtube.com/watch?v=QPBmsgGufXE)] [[Andrew Ng's talk](https://www.youtube.com/watch?v=sal78ACtGTc&t=559s)]
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OpenBMB&repo=ChatDev)](https://github.com/OpenBMB/ChatDev)
 
