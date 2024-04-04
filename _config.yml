@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "YunSeok Choi"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "Assistant Professor at Hankuk University of Foreign Studies"
   location         : "Seoul, Korea"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
