@@ -13,7 +13,7 @@
   @include clearfix();
   margin-bottom: 1em;
 
-  @media screen and (min-width: 1024px) {
+  @media screen and (min-width: $sidebar-min-width) {
     position: fixed;
     padding-top: $masthead-height;
   }
@@ -30,6 +30,7 @@
   }
 
   @include breakpoint($x-large) {
+    max-width: $sidebar-link-max-width;
     padding-right: 0;
   }
 
