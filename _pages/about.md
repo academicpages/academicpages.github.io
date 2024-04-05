@@ -32,4 +32,4 @@ That does not apply to everyone, she warns. ‘All sorts of things play a role i
 
 ## Recent News from the lab
 ------
-* Our group page has launched!
+* 05.04.2024 - Our group page has launched!
