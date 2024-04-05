@@ -222,7 +222,7 @@ ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com
 * Reviewer: ACL Rolling 2021
 * Reviewer: EMNLP/ACL/IEEE-TASLP 2021
 -->
-Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI
+Reviewer (Since 2021): ACL, NAACL, AACL, ACL Roling, EMNLP, COLING, ICLR, ICML, IJCAI, AAAI
 
 
 
