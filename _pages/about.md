@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in Division of Language&AI at Hankuk University of Foreign Studies, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
 
-# Education
+## Education
 ======
 > Ph.D in Department of Software, Sungkyunkwan University, 2024
   * Thesis: Learning to Understand Code and Generate Text in Pre-trained Language Models
