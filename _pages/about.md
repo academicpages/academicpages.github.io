@@ -10,12 +10,18 @@ redirect_from:
 
 I am an Assistant Professor in Division of Language&AI at Hankuk University of Foreign Studies, Seoul, Korea. My Research Interest is in the field of Natural Language Processing, especially about (i) Code Understanding and Generation, (ii) Multimodal Language Understanding, and (iii) Robust Large Language Model.
 
+> Hiring! I am looking for M.S./Ph.D. students and undergraduate interns who are interested in NLP research. If you are interested, please send your CV to my email (right at the left sidebar).
+
+## Recent News
+* 1 paper has been accepted to LREC-Coling 2024
 
 ## Education
-* Ph.D in Department of Software, Sungkyunkwan University, 2024
+* Sungkyunkwan University (SKKU), 2016.03 ~ 2024.02
+  * Ph.D in Department of Software  
   * Thesis: Learning to Understand Code and Generate Text in Pre-trained Language Models
   * Supervisor: Prof. Jee-Hyong Lee
-* B.S. in Department of Software, Sungkyunkwan University, 2016
+* Sungkyunkwan University (SKKU), 2012.03 ~ 2016.02
+  * B.S. in Department of Software 
   * Supervisor: Prof. Jee-Hyong Lee
 
 <!--
