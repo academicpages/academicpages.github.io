@@ -26,7 +26,8 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 ## Research Interests
 
-- Spoken Language Processing / 音声言語情報処理
+- Speech and Language Processing / 音声言語情報処理
+- Speech Synthesis / 音声合成
 - Natural Language Processing / 自然言語処理
 - Deep Learning / 深層学習
 - Signal Processing / 信号処理
