@@ -3,8 +3,8 @@ title: "Code Defect Detection using Pre-trained Language Models with Encoder-Dec
 collection: publications
 permalink: /publication/2024-05-22-Code-Defect-Detection-using-Pre-trained-Language-Models-with-Encoder-Decoder-via-Line-Level-Defect-Localization
 date: 2024-05-22
-venue: 'LREC-Coling 2024'
+venue: 'LREC-Coling'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[paper](http://academicpages.github.io/files/paper1.pdf)
