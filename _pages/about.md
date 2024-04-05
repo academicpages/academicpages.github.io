@@ -12,10 +12,10 @@ I am an Assistant Professor in Division of Language&AI at Hankuk University of F
 
 
 ## Education
-> Ph.D in Department of Software, Sungkyunkwan University, 2024
+Ph.D in Department of Software, Sungkyunkwan University, 2024
   * Thesis: Learning to Understand Code and Generate Text in Pre-trained Language Models
   * Supervisor: Prof. Jee-Hyong Lee
-> B.S. in Department of Software, Sungkyunkwan University, 2016
+B.S. in Department of Software, Sungkyunkwan University, 2016
   * Supervisor: Prof. Jee-Hyong Lee
 
 <!--
