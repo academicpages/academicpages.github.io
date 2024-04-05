@@ -83,6 +83,7 @@ Programming Languages
 所属・活動
 ======
 * 2024/4-継続中	豊橋技術科学大学 情報・知能工学系 音声言語処理研究室
+* 2024/3-2024/9	Publicity Chair, The 11th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2024).
 * 2023/5-2024/3 早稲田大阪学園向陽台高等学校 指導助言者
   * 文部科学省「多様性に応じた新時代の学び充実支援事業」
   * 多様な児童生徒のための「小中高大」を貫くEdTechを活用した通信制教育の可能性の検討 ―本校と、北摂の教育委員会等との向陽台コンソーシアムによる、一人も取り残さない教育の在り方の検証―
