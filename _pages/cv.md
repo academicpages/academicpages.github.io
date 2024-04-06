@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'>
-
 학력 (Education)
 ---
 * 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
@@ -91,6 +89,8 @@ redirect_from:
   * 학생회원, 대한전자공학회 (2020 ~ present)
   * 학생회원, 한국스마트미디어학회 (2020 ~ present)
 
+
+<embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'>
 
 <!-- 자격증 (Certifications)
 ---
