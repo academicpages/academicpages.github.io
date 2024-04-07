@@ -15,13 +15,13 @@ tags:
 <style>
 @font-face {
     font-family: 'GyeonggiBatang';
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangRegular.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangRegular.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangRegular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangRegular.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangRegular.ttf') format("truetype");
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.eot');
+    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.eot?#iefix') format('embedded-opentype'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.ttf') format("truetype");
     font-display: swap;
 }
 body {
@@ -82,7 +82,7 @@ public class MiddleSquare {
 우리는 여기서 type A를 getter라고 부를 수 있을까?<br>
 아니면 type B를 getter라고 부를 수 있을까??<br>
 
-<img src="../images/accessor.png" alt="accessor.png">
+<img src="/images/accessor.png" alt="accessor.png">
 
 먼저 type B를 보겠습니다.<br>
 여기서 우리는 그 누구도 해당 필드를 직접 건드리지 않기를 바라며, 접근 제어자를 **private**으로 설정한 필드와 get 수식어가 붙은 **getSeed()** method를 볼 수 있습니다.
@@ -124,13 +124,13 @@ getNextNumber -> nextNumber or calculatedNumber
 이에 대해 찾아보기 위해 ChatGPT에 질문을 해봤습니다.
 > ChatGPT에 질문한 이유는 인터넷에서 검색을 통해 답변을 알아보려고 했기 때문에 인터넷에 그러한 답변들이 많은 것 같으니 ChatGPT가 어떻게 답변했는지 살펴보겠습니다.
 
-<img src="../images/GPTQuestion1.png" alt="GPTQuestion1.png">
-<img src="../images/GPTQuestion2.png" alt="GPTQuestion2.png">
+<img src="/images/GPTQuestion1.png" alt="GPTQuestion1.png">
+<img src="/images/GPTQuestion2.png" alt="GPTQuestion2.png">
 <br>
 <br>
 <br>
 
-<img src="../images/GPTAnswer.png" alt="GPTAnswer.png">
+<img src="/images/GPTAnswer.png" alt="GPTAnswer.png">
 
 
 위 ChatGPT가 말한 내용을 살펴봅시다. <br>
@@ -284,7 +284,7 @@ API에 데이터를 사용하고 객체 지향 패러다임을 유지하려고 �
 
 캡슐화는 JAVA와 객체 지향의 아버지 중 한 명인 Java의 아버지 Grady Booch(그래디 부치)가 한 이야기를 보겠습니다.
 
-<img src="../images/Grady_Booch.png" alt="GradyBooch.png">
+<img src="/images/Grady_Booch.png" alt="GradyBooch.png">
 
 
 그러니까 캡슐화는 간단히 말해서 정보 은닉, 데이터 은닉을 의미하므로 추상화에 아주 가깝다는 뜻이고 추상화는 당신에게서 무언가를 추상화 하므로 당신은 그 안에 무엇이 있는지 알 필요가 없습니다. 당신은 내가 말하는 내용만 알면 됩니다. 따라서 알고리즘이 어떻게 작동하는지 알 필요가 없습니다. 나는 당신을 위한 알고리즘 입니다. 여기서 캡슐화는 당신이 알 수 없다는 것을 의미하며, 시도하더라도 알고리즘이 어떻게 작동하는지 알 수가 없다는 것을 말합니다.<br>
@@ -316,7 +316,7 @@ API에 데이터를 사용하고 객체 지향 패러다임을 유지하려고 �
 
 그래서 캡슐화는 느슨한 결합으로 이어집니다.
 
-<img src="../images/David_West.png" alt="DavidWest.png">
+<img src="/images/David_West.png" alt="DavidWest.png">
 
 David West는 말합니다 대부분의 캡슐화는 실제 장벽이라기보다는 규율이며, 객체의 무결성은 절대적인 의미에서 보호되는 경우는 없으며, 특히 소프트웨어에서는 더욱 그러하므로 객체의 캡슐화를 존중하는 것은 객체를 사용하는 사용자에게 달려있다.<br>
 
@@ -335,7 +335,7 @@ private int seed;
 
 위에서 인용한 두 작가의 책중에 객체 지향 프로그래밍의 전통적인 책을 보시려면 Object-Oriented Analysis and Design with Applications, 더 나은 객체 지향 프로그래밍을 배우고 싶다면 Object Thinking을 추천합니다.<br>
 
-<img src="../images/myOpinion.png" alt="myOpinion.png">
+<img src="/images/myOpinion.png" alt="myOpinion.png">
 
 하지만 우리는 getter, pubilc int getSeed() 이렇게 사용하고 있죠...<br>
 
@@ -406,7 +406,7 @@ isEmployee라는 method를 도입합니다 따라서 이 사용자가 직원인�
 
 type B는 훨씬 더 정교하고, 훨씬 더 똑똑하고, 훨씬 더 독립적이고, 무결성이 더 높기 때문에 이렇게 말합니다.<br>
 
-<img src="../images/typeB.png" alt="typeB.png">
+<img src="/images/typeB.png" alt="typeB.png">
 
 
 이것이 type A보다 type B가 훨씬 더 객체 지향적인 디자인이다라고 말할 수 있는 것입니다.<br>
