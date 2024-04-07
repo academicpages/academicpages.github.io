@@ -14,13 +14,15 @@ tags:
 
 <style>
 @font-face {
-    font-family: 'BMJUA';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-family: 'NanumSquareNeo-Variable';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/NanumSquareNeo-Variable.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
 body {
-    font-family: 'BMJUA', sans-serif;
+   font-family: 'NanumSquareNeo-Variable', sans-serif;
+   font-weight: normal; /* 볼드를 더 낮게 설정 */
+   font-style: normal; /* 기울임체 해제 */
 }
 </style>
 

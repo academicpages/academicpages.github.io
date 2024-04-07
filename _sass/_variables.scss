@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif, GyeonggiBatang ;
-$sans-serif                 : GyeonggiBatang ;
+$serif                      : Georgia, Times, serif, NanumSquareNeo-Variable ;
+$sans-serif                 : NanumSquareNeo-Variable ;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 
@@ -29,7 +29,7 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
-$GyeonggiBatang             : GyeonggiBatang, serif;
+$NanumSquareNeo-Variable                      : NanumSquareNeo-Variable, serif;
 
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
