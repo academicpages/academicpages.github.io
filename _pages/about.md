@@ -29,7 +29,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     </font> 
     <br /> 
     <font size="2">
-      <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369">
+      <a href="https://ieeexplore.ieee.org/document/10493855">
       [IEEE Robotics and Automation Letters]
       </a>
       <a href="https://amrl.cs.utexas.edu/plunder">
