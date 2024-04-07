@@ -13,12 +13,14 @@ tags:
 ---
 
 <style>
-@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
-.hanna * {
- font-family: 'Hanna', fantasy;
+@font-face {
+    font-family: 'BMJUA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/BMJUA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
 }
 body {
-    font-family: 'hanna', sans-serif;
+    font-family: 'BMJUA', sans-serif;
 }
 </style>
 
