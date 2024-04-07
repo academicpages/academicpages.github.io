@@ -13,14 +13,12 @@ tags:
 ---
 
 <style>
-@font-face {
-   font-family: 'BMHANNAPro';
-   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.0/BMHANNAPro.woff') format('woff');
-   font-weight: normal;
-   font-style: normal;
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+.hanna * {
+ font-family: 'Hanna', fantasy;
 }
 body {
-    font-family: 'BMHANNAPro', sans-serif;
+    font-family: 'hanna', sans-serif;
 }
 </style>
 
@@ -31,10 +29,8 @@ getter가 실제로 객체지향 프로그래밍을 더 효과적으로 작성�
 이것에 대한 근거로 몇몇 유명한 작가들의 말, 유명한 참고자료를 내가 이해한 내용을 기반으로 같이 첨부하여 설명드리겠습니다.
 
 >첫 번째 추상화에 대해서 설명하고, <br>
-> `getter 사용이 캡슐화에 도움이 된다고 하지만 역시 내 생각에는 아닌 것 같습니다.` <br>
 > 그런 다음 대한에 대해 몇가지 아이디어를 소개하겠습니다. <br>
-> - getter 없이 사용하는 방법 
->
+> getter 없이 사용하는 방법 <br>
 >위 getter 없이 사용이 가능한 것인지에 대해 논의하고 자료를 찾아보며 정리할 예정입니다.
 
 # 1. getter란? 무엇인가?
