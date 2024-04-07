@@ -14,18 +14,13 @@ tags:
 
 <style>
 @font-face {
-    font-family: 'GyeonggiBatang';
-    font-weight: 700;
-    font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.eot');
-    src: url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.eot?#iefix') format('embedded-opentype'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.woff') format('woff'),
-        url('https://cdn.jsdelivr.net/gh/webfontworld/gyeonggi/GyeonggiBatangBold.ttf') format("truetype");
-    font-display: swap;
+   font-family: 'BMHANNAPro';
+   src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_seven@1.0/BMHANNAPro.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
 }
 body {
-    font-family: 'GyeonggiBatang', sans-serif;
+    font-family: 'BMHANNAPro', sans-serif;
 }
 </style>
 
@@ -124,8 +119,8 @@ getNextNumber -> nextNumber or calculatedNumber
 이에 대해 찾아보기 위해 ChatGPT에 질문을 해봤습니다.
 > ChatGPT에 질문한 이유는 인터넷에서 검색을 통해 답변을 알아보려고 했기 때문에 인터넷에 그러한 답변들이 많은 것 같으니 ChatGPT가 어떻게 답변했는지 살펴보겠습니다.
 
-<img src="/images/GPTQuestion1.png" alt="GPTQuestion1.png">
-<img src="/images/GPTQuestion2.png" alt="GPTQuestion2.png">
+<img src="/images/GPTQuestion1.png" alt="GPTQuestion1.png" width="690px" height="70px">
+<img src="/images/GPTQuestion2.png" alt="GPTQuestion2.png" width="690px" height="70px">
 <br>
 <br>
 <br>
