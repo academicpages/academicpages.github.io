@@ -715,3 +715,8 @@ new Employee(new User(60)).isEmployee()
 -> 왜 그런 일이 발생하는지, 데이터를 제공하기 위해 객체가 필요한 이유를 먼저 생각해보세요
 
 ---
+
+### 참고한 글
+[getter 쓰지 말라고만 하고 가버리면 어떡해요](https://velog.io/@backfox/getter-%EC%93%B0%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0%EB%A7%8C-%ED%95%98%EA%B3%A0-%EA%B0%80%EB%B2%84%EB%A6%AC%EB%A9%B4-%EC%96%B4%EB%96%A1%ED%95%B4%EC%9A%94) <br>
+[setter 쓰지 말라고만 하고 가버리면 어떡해요](https://velog.io/@backfox/setter-%EC%93%B0%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0%EB%A7%8C-%ED%95%98%EA%B3%A0-%EA%B0%80%EB%B2%84%EB%A6%AC%EB%A9%B4-%EC%96%B4%EB%96%A1%ED%95%B4%EC%9A%94) <br>
+[Why getter and setter methods are evil](/files/WhyGetterAndSetterMethodsAreEvil.pdf)
