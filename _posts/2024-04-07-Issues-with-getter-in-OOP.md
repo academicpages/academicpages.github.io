@@ -280,7 +280,9 @@ API에 데이터를 사용하고 객체 지향 패러다임을 유지하려고 �
 
 캡슐화는 JAVA와 객체 지향의 아버지 중 한 명인 Java의 아버지 Grady Booch(그래디 부치)가 한 이야기를 보겠습니다.
 
+<img src="/images/booch_grady.jpg" alt="booch_grady.jpg" width="150">
 <img src="/images/Grady_Booch.png" alt="GradyBooch.png">
+
 
 
 그러니까 캡슐화는 간단히 말해서 정보 은닉, 데이터 은닉을 의미하므로 추상화에 아주 가깝다는 뜻이고 추상화는 당신에게서 무언가를 추상화 하므로 당신은 그 안에 무엇이 있는지 알 필요가 없습니다. 당신은 내가 말하는 내용만 알면 됩니다. 따라서 알고리즘이 어떻게 작동하는지 알 필요가 없습니다. 나는 당신을 위한 알고리즘 입니다. 여기서 캡슐화는 당신이 알 수 없다는 것을 의미하며, 시도하더라도 알고리즘이 어떻게 작동하는지 알 수가 없다는 것을 말합니다.<br>
@@ -331,6 +333,7 @@ private int seed;
 
 위에서 인용한 두 작가의 책중에 객체 지향 프로그래밍의 전통적인 책을 보시려면 Object-Oriented Analysis and Design with Applications, 더 나은 객체 지향 프로그래밍을 배우고 싶다면 Object Thinking을 추천합니다.<br>
 
+<img src="/images/DavidWest.jpg" alt="DavidWest.jpg" width="150">
 <img src="/images/myOpinion.png" alt="myOpinion.png">
 
 하지만 우리는 getter, pubilc int getSeed() 이렇게 사용하고 있죠...<br>
