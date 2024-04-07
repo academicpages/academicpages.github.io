@@ -300,7 +300,7 @@ API에 데이터를 사용하고 객체 지향 패러다임을 유지하려고 �
 
 그리고 그것은 결합력(coupling)을 감소시키는 역할을 합니다.<br>
 
-결합력, 응집력이 있는데 결합력은 감소 할수록 좋고, 응집력을 증가 할수록 좋습니다.<br>
+객체의 결합력, 응집력이 있는데 결합력은 감소 할수록 좋고, 응집력을 증가 할수록 좋습니다.<br>
 
 1. **결합력 감소**: 정보 은닉은 결합력을 감소시킵니다. 이는 클래스나 객체 사이의 의존성을 줄여서 변경이나 수정이 발생했을 때 다른 부분에 미치는 영향을 최소화합니다.
 2. **응집력 향상**: 정보 은닉은 클래스나 객체의 응집력을 향상시킵니다. 클래스나 객체는 자신의 데이터와 동작을 함께 포함하므로, 관련된 작업들이 한 곳에 모여 있어 유지보수와 이해가 쉬워집니다.
@@ -314,6 +314,7 @@ API에 데이터를 사용하고 객체 지향 패러다임을 유지하려고 �
 
 그래서 캡슐화는 느슨한 결합으로 이어집니다.
 
+<img src="/images/DavidWest.jpg" alt="DavidWest.jpg" width="150">
 <img src="/images/David_West.png" alt="DavidWest.png">
 
 David West는 말합니다 대부분의 캡슐화는 실제 장벽이라기보다는 규율이며, 객체의 무결성은 절대적인 의미에서 보호되는 경우는 없으며, 특히 소프트웨어에서는 더욱 그러하므로 객체의 캡슐화를 존중하는 것은 객체를 사용하는 사용자에게 달려있다.<br>
@@ -331,9 +332,9 @@ private int seed;
 
 반면에 David West 등의 저자들은 캡슐화를 엄격한 장벽으로 보는 것보다는 더 나은 프로그래밍을 위한 행동 규칙으로 이해하는 것이 중요하다고 제안합니다. 이는 객체의 무결성이 절대적으로 보호되지 않는다는 점을 강조하며, 사용자가 객체의 캡슐화를 존중해야 한다고 설명합니다.<br>
 
-위에서 인용한 두 작가의 책중에 객체 지향 프로그래밍의 전통적인 책을 보시려면 Object-Oriented Analysis and Design with Applications, 더 나은 객체 지향 프로그래밍을 배우고 싶다면 Object Thinking을 추천합니다.<br>
+위에서 인용한 두 작가의 책중에 객체 지향 프로그래밍의 전통적인 책을 보시려면 Object-Oriented Analysis and Design with Applications <br>
+더 나은 객체 지향 프로그래밍을 배우고 싶다면 Object Thinking을 추천합니다.<br>
 
-<img src="/images/DavidWest.jpg" alt="DavidWest.jpg" width="150">
 <img src="/images/myOpinion.png" alt="myOpinion.png">
 
 하지만 우리는 getter, pubilc int getSeed() 이렇게 사용하고 있죠...<br>
@@ -722,4 +723,8 @@ new Employee(new User(60)).isEmployee()
 ### 참고한 글
 [getter 쓰지 말라고만 하고 가버리면 어떡해요](https://velog.io/@backfox/getter-%EC%93%B0%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0%EB%A7%8C-%ED%95%98%EA%B3%A0-%EA%B0%80%EB%B2%84%EB%A6%AC%EB%A9%B4-%EC%96%B4%EB%96%A1%ED%95%B4%EC%9A%94) <br>
 [setter 쓰지 말라고만 하고 가버리면 어떡해요](https://velog.io/@backfox/setter-%EC%93%B0%EC%A7%80-%EB%A7%90%EB%9D%BC%EA%B3%A0%EB%A7%8C-%ED%95%98%EA%B3%A0-%EA%B0%80%EB%B2%84%EB%A6%AC%EB%A9%B4-%EC%96%B4%EB%96%A1%ED%95%B4%EC%9A%94) <br>
-[Why getter and setter methods are evil](/files/WhyGetterAndSetterMethodsAreEvil.pdf)
+[Why getter and setter methods are evil](/files/WhyGetterAndSetterMethodsAreEvil.pdf)<br>
+[Object-Oriented Analysis and Design with Applications 책 by Grady Booch]()<br>
+[Object Thinking 책 by David West]()<br>
+[yegor256의 블로그](https://www.yegor256.com/)<br>
+[Why Getters-and-Setters Is An Anti-Pattern? (webinar #4)](https://www.youtube.com/live/WSgP85kr6eU?si=QYOx7vwIe9N-Hmyw)<br>
