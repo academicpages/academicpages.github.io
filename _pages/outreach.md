@@ -21,7 +21,7 @@ redirect_from:
 
 ## Short Movies & Videos
 
-- [‘How do you keep your brain young’ (with D. Swaab & E. Scherder)](https://youtu.be/PqfcXQDmeyk)
+- [How do you keep your brain young (with D. Swaab & E. Scherder)](https://youtu.be/PqfcXQDmeyk)
 - [Alzheimer’s research using human brain](https://www.linkedin.com/posts/deborah-alfarez-42b3a56_alzheimersdisease-alzheimer-hersendonor-ugcPost-6790602624077963264-jQxW)
 - [VIB Seminar: Career talks](https://vimeo.com/541585035/39da189c8f)
 
