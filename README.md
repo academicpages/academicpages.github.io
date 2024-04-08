@@ -1,3 +1,4 @@
+My page can be accessed via https://koyayoshizawa.github.io/
 
 # Academic Pages
 
