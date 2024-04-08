@@ -89,7 +89,6 @@ redirect_from:
   * 학생회원, 대한전자공학회 (2020 ~ present)
   * 학생회원, 한국스마트미디어학회 (2020 ~ present)
 
-
 <embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'>
 
 <!-- 자격증 (Certifications)
