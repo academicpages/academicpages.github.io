@@ -8,10 +8,10 @@ redirect_from:
   - /service
 ---
 
-## Talks for public audience
+## Talks
 
-- [Science Café, Wageningen University & Research, Wageningen](http://sciencecafewageningen.nl/)
-- [CogniTalks, University of Amsterdam, Amsterdam](https://dezwijger.nl/programma/cognitalks-2024)
+- [9th of April 2024 - CogniTalks, University of Amsterdam, Amsterdam](https://dezwijger.nl/programma/cognitalks-2024)
+- [17th of April 2024 - Science Café, Wageningen University & Research, Wageningen](http://sciencecafewageningen.nl/)
 
 
 ## Podcasts
