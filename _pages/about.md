@@ -1,13 +1,23 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Greetings, I am Sidharth!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a first year master's student in the Department of Electrical and Computer Engineering at the University of Washington, Seattle. I reveived my bachelor's in Electronics and Instrumentation Engineering from College of Engineering Trivandrum.
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My research interests are in bridging speech/audio processing and neuroscience.
+
+In University of Washington, I am fortunate to be advised by Dr. Jeffrey Herron in [Neural Systems lab](https://neural.cs.washington.edu) where I work alongside [Vishwas Sathish](https://scholar.google.com/citations?user=Ad01nlUAAAAJ&hl=en) on identifying potential biomarker for pain from electrophysiological signals. I am also a part of [Mobile Intelligence lab](https://homes.cs.washington.edu/~gshyam/) where I work on developing a foundational model for spatial audio alongside [Malek Itani](https://malekitani.github.io) and [Dr. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/). 
+
+Prior to joining University of Washington, I was a research intern at the [Learning and Extraction of Acoustic Patterns (LEAP) lab](http://leap.ee.iisc.ac.in) where I worked alongside [Dr. Sriram Ganapathy](http://www.leap.ee.iisc.ac.in/sriram/) on the [DISPLACE 2023 Challenge](https://displace2023.github.io).
+
+
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +56,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
