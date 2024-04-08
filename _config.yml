@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "en-UK"
+title                    : "Koya YOSHIZAWA's Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Koya YOSHIZAWA"
+description              : &description "Researcher about Cell Division"
+url                      : https://koyayoshizawa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "koyayoshizawa/koyayoshizawa.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,21 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Koya YOSHIZAWA"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD student at Ryota UEHARA's lab, focusing on cell division machinery"
+  location         : "Sapporo, Japan"
+  employer         : "Hokkaido University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kyoshizawa@sci.hokudai.ac.jp" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=TYDv97QAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8863-1437"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Koya+Yoshizawa&sort=date"
+  researchgate     : "https://www.researchgate.net/profile/Koya-Yoshizawa"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -280,7 +280,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Tokyo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
