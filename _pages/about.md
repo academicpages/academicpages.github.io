@@ -48,7 +48,7 @@ Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
 - [**Gradient-Free Adaptive Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v1)   
   _Preprint_ 
 
-## 3. Continual and Lifelong Learning
+## 3. Replay-based Continual Learning
 Focusing on memory-replay and neuro-inspiration approaches for continual learning.
 - [**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://openreview.net/pdf?id=Fhx7nVoCQW)   
   _AMHN Workshop @NeurIPS 2023_  
