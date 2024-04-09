@@ -30,7 +30,7 @@ redirect_from:
 <div style="margin-top: 35px;"></div>
 
 <p align="center">
-  <img src="../images/book_chapters.jpg" alt="Book Chapter" width="400" height="301">
+  <img src="../images/book_chapters.jpg" alt="Book Chapter" width="600" height="301">
 </p>
 
 
