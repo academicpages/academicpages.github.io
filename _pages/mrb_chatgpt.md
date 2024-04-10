@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Measurement and Representation Biases in Digital Trace Data-based Studies"
+title: "Measurement and Representation Biases in Digital Trace Data-based Studies (ChatGPT's Version)"
 permalink: /mrb_chatgpt/
 author_profile: true
 ---
+
+**Note:** This webpage is a result of me trying to get ChatGPT to do clerical jobs for me, i.e., embed links to a predefined list of papers for my reading seminar. It failed. And so I hope it goes without saying that this is not me endorsing ChatGPT's application for this task. Here's the 'hand-curated version': https://indiiigo.github.io/mrb/
 
 #### Construct definition
 
