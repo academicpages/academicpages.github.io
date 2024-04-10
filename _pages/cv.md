@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My mostly updated CV [here](http://indiiigo.github.io/files/Indira_CV.pdf)
+Here's my mostly updated [CV](http://indiiigo.github.io/files/Indira_CV.pdf)
