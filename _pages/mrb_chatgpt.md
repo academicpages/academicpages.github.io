@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Measurement and Representation Biases in Digital Trace Data-based Studies"
+permalink: /mrb_chatgpt/
+author_profile: true
+---
+
 #### Construct definition
 
 - Ruths, Derek, and Jürgen Pfeffer. ["Social media for large studies of behavior."](https://www.science.org/doi/full/10.1126/science.346.6213.1063) Science 346.6213 (2014): 1063-1064.
