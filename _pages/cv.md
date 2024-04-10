@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Please see detailed CV here:**  [CV](files/Humphries_CV_2024.pdf) {: .notice}
+**Please see detailed CV here:**  [CV](files/Humphries_CV_2024.pdf) 
+{: .notice}
 
 
 Education
