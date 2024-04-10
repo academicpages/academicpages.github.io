@@ -13,15 +13,19 @@ The course assessment will be based on a presentation and final report of a chos
 
 ### Schedule and Assigned Readings
 
-**April 10th** [Introduction and kickoff](http://indiiigo.github.io/files/mrb/session_0_intro.pdf)\
-**April 24th** How to read and review a research paper AND overview of research w/ digital traces\
-1. Keshav, Srinivasan. ["How to read a paper."](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.  
-2. Pain, Elisabeth [“How to review a paper”](https://www.science.org/content/article/how-review-paper)\
+**April 10th** [Introduction and kickoff](http://indiiigo.github.io/files/mrb/session_0_intro.pdf)
+
+**April 24th** How to read and review a research paper AND overview of research w/ digital traces
+- Keshav, Srinivasan. ["How to read a paper."](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.  
+- Pain, Elisabeth [“How to review a paper”](https://www.science.org/content/article/how-review-paper)
+
 **May 8th** Social data biases
-Olteanu, Alexandra, et al. ["Social data: Biases, methodological pitfalls, and ethical boundaries."](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)  Frontiers in big data 2 (2019)
+- Olteanu, Alexandra, et al. ["Social data: Biases, methodological pitfalls, and ethical boundaries."](https://www.frontiersin.org/articles/10.3389/fdata.2019.00013/full)  Frontiers in big data 2 (2019)
+
 **May 15th** Measurement and Representation Errors
-1. Groves, Robert M., and Lars Lyberg. ["Total survey error: Past, present, and future."](https://academic.oup.com/poq/article/74/5/849/1817502) Public opinion quarterly 74.5 (2010) 
-2. Sen, Indira, et al. ["A total error framework for digital traces of human behavior on online platforms."](https://academic.oup.com/poq/article/85/S1/399/6359490) Public Opinion Quarterly 85.S1 (2021)\  
+- Groves, Robert M., and Lars Lyberg. ["Total survey error: Past, present, and future."](https://academic.oup.com/poq/article/74/5/849/1817502) Public opinion quarterly 74.5 (2010) 
+- Sen, Indira, et al. ["A total error framework for digital traces of human behavior on online platforms."](https://academic.oup.com/poq/article/85/S1/399/6359490) Public Opinion Quarterly 85.S1 (2021)
+
 **May 22th**	guest presentation\
 **Jun 5**	student presentation\
 **Jun 12**	guest presentation [Max Pellert]\
@@ -32,7 +36,7 @@ Olteanu, Alexandra, et al. ["Social data: Biases, methodological pitfalls, and e
 **Jul 17**	student presentation\
 **Jul 24**	guest presentation\
 **Jul 31**	student presentation\
-**Aug 7**	student presentation\
+**Aug 7**	student presentation
 
 ### Suggested Readings
 
