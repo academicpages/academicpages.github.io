@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr.TIAN Yu:Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am  a postdoctoral researcher in the Department of Civil and Environmental Engineering at [Hong Kong Polytechnic University (PolyU)](https://www.polyu.edu.hk/). I am glad to be advised by [Prof. YIN Zhen-Yu](https://zhenyuyin.wixsite.com/polyu) and hosted on GitHub pages. Before my service at PolyU, I was awarded a Ph.D degree in Civil Engineering from the City University of Hong Kong (CityU) in 2022. My Ph.D. study was supervised by [Dr.Kostas SENETAKIS](http://senetakis.weebly.com/). Prior to my Ph.D study, I obtained an M.sc degree from Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/) in 2018 and a bachelor's degree from [Central South University (CSU)](https://www.csu.edu.cn/) in 2017, respectively.
+
+You may find my C.V. (here)[]
 
 A data-driven personal website
 ======
