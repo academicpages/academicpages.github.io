@@ -20,4 +20,4 @@ redirect_from:
 
 {% include base_path %}
 
-![alt text](../images/tree.png "SU Tree"){:width="900px"}
+![dipolar solvent](../images/dipolarsolvent.png "two models of dipolar solvent"){:width="400px"}
