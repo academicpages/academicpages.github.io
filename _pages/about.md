@@ -32,11 +32,14 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
       <a href="https://ieeexplore.ieee.org/document/10493855">
       [IEEE Robotics and Automation Letters]
       </a>
+      <a href="https://youtu.be/Fy1P_46c54A?si=Ji5lmdo3lg6G1H4N">
+      [Video]
+      </a>
       <a href="https://amrl.cs.utexas.edu/plunder">
       [Project Website]
       </a>
       <a href="https://arxiv.org/abs/2303.01440">
-      [pre-print]
+      [Arxiv]
       </a>
     </font>
     </li>
@@ -52,7 +55,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
       <a href="https://dl.acm.org/doi/10.1145/3632860"> 
       [POPL'24: 51st ACM SIGPLAN Symposium on Principles of Programming Languages]</a>
       <a href="/files/popl24.pdf">
-      [pre-print]
+      [Arxiv]
       </a>
     </font> 
     </li>
