@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexander Kulpe"
 title_separator          : "-"
 name                     : &name "Alexander Kulpe"
-description              : &description "M.Sc. Student at RUB"
+description              : &description "PhD Student at CASA / RUB"
 url                      : https://alexkulpe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alexkulpe/alexkulpe.github.io"
@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Alexander Kulpe"
-  avatar           : "profile.png"
-  bio              : "M.Sc. Student at RUB"
+  avatar           : "alexander.jpg"
+  bio              : "PhD Student"
   location         : "Ruhr University Bochum, Germany"
-  employer         :
+  employer         : "CASA / RUB"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
