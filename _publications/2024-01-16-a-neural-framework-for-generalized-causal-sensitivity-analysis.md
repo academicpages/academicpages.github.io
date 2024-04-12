@@ -5,6 +5,9 @@ authors: 'D. Frauen, F. Imrie, A. Curth, <b>V. Melnychuk</b>, S. Feuerriegel, M.
 date: 2024-01-16
 excerpt: "![neural-sens](/images/neural-sens.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2311.16026'
+poster: 'https://iclr.cc/media/PosterPDFs/ICLR%202024/18052.png?t=1712666669.7898104'
+paperurl: 'https://openreview.net/pdf?id=ikX6D1oM1c'
+code: 'https://github.com/DennisFrauen/NeuralCSA'
 venue: ICLR
 ---
 
