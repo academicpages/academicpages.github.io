@@ -5,6 +5,9 @@ authors: 'K. Hess, <b>V. Melnychuk</b>, D. Frauen, S. Feuerriegel'
 date: 2024-01-16
 excerpt: "![fair-policy](/images/BNCDE.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2310.17463'
+paperurl: 'https://openreview.net/pdf?id=uwO71a8wET'
+poster: 'https://iclr.cc/media/PosterPDFs/ICLR%202024/17558.png?t=1712669639.339985'
+code: 'https://github.com/konstantinhess/Bayesian-Neural-CDE'
 venue: ICLR
 ---
 
