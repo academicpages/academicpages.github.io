@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * M.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2022-2024 (expected)
-  * current GPA: 0.7
+  * current GPA: very good (0.7)
 * M.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2022-2024
   * Grade: excellent (99%)
   * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
-  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/) ([Ruhr-Universität Bochum](https://https://www.ruhr-uni-bochum.de/de)), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
+  * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
 * B.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2018-2022
   * Grade: very good (91%)
   * Thesis: Cryptanalysis of McEliece
@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* 2019-present: Student Assistant / Graduate Assistant
+* 2019-2024: Student Assistant / Graduate Assistant
   * Ruhr University Bochum
   * Corrector:
     * Algorithm Paradigms (SuSe 21, SuSe 22; Prof. Dr Buchin)
@@ -42,7 +42,7 @@ Work experience
     * Mathematics I for Computer Science and IT Security (WiSe 21/22; Prof. Dr. Leander)
 
 * Summer 2021: Intern / Research Position
-  * [secunet Security Networks AG](https://www.secunet.com/en/), Division Homeland Security, Team Cryptography Systems and Applications
+  * [secunet Security Networks AG](https://www.secunet.com/en/), Division Homeland Security, Team Cryptographic Systems and Applications
   * Supervisor: Sebastian Vogt
   * Analysis of general concepts in the field Post-Quantum Cryptography
   * Analysis and technical preparation of the impacts of Post-Quantum Cryptography on TLS
@@ -69,7 +69,7 @@ Publications
 
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
