@@ -16,7 +16,8 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /cv/
-    
+  # url: /cv/
+    url: /files/04-2024-cv_tkacova-long.pdf
+
   #- title: "Guide"
   #  url: /markdown/
