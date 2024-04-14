@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Peer-reviewed
+## Peer-reviewed articles
 
 - Tkacova, K., Idler, A., Johnson, N. and López, E., 2023. Explaining conflict violence in terms of conflict actor dynamics. _Scientific reports_, 13(1), p.21187.
     - URL: [DOI](https://doi.org/10.1038/s41598-023-48218-x)
