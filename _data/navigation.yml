@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
+  #- title: "Portfolio"
+  #  url: /portfolio/
 
   - title: "Publications"
-    url: /publications/
+    url: /publications-new/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
   # url: /cv/
-    url: /files/04-2024-cv_tkacova-long.pdf
+    url: /files/04-2024-cv_tkacova-short.pdf
 
   #- title: "Guide"
   #  url: /markdown/
