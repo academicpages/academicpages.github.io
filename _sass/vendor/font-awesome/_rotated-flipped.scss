@@ -22,10 +22,10 @@
 }
 
 .#{$fa-css-prefix}-flip-both,
-.#{$fa-css-prefix}-flip-horizontal.#{$fa-css-prefix}-flip-vertical { 
+.#{$fa-css-prefix}-flip-horizontal.#{$fa-css-prefix}-flip-vertical {
   transform: scale(-1, -1);
 }
 
 .#{$fa-css-prefix}-rotate-by {
-  transform: rotate(var(--#{$fa-css-prefix}-rotate-angle, none));
+  transform: rotate(var(--#{$fa-css-prefix}-rotate-angle, 0));
 }
