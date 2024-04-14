@@ -4,7 +4,8 @@ main:
   #  url: /portfolio/
 
   - title: "Publications"
-    url: /publications/
+  #  url: /publications/
+     url: /_pages/publications.md
 
   #- title: "Talks"
   #  url: /talks/    
