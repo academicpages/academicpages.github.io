@@ -12,6 +12,7 @@ redirect_from:
 
 📚 My research interests evolve around Natural Language Processing, with a focus on ethical and interpretable approaches.
 
-🏫 I am a PhD candidate at the University of Melbourne, in the Faculty of Engineering and Information Systems.
+🏫 I am a first-year PhD candidate at the University of Melbourne, in the Faculty of Engineering and Information Systems.
 
-🔬 Currently investigating patterns of narratives and selective framing in news coverage of contemporary polarizing issues.
+🔬 Currently investigating automatic venues of frame detection in news coverage of contemporary polarizing issues,
+supervised by [Prof. Dr. Lea Frermann](https://www.frermann.de/) and [Prof. Dr. Ed Hovy](https://findanexpert.unimelb.edu.au/profile/887453-eduard-hovy)
