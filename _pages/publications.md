@@ -1,5 +1,6 @@
 ---
 layout: page
+sitemap: true
 title: "Publications"
 permalink: /publications.md
 author_profile: true
