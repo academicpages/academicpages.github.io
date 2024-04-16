@@ -1,10 +1,10 @@
 ---
-title: "EDEP 608 Research Panel"
+title: "Research Panel (EDEP 608)"
 collection: talks
 type: "Panel"
-venue: UH Manoa
+venue: EDEP 608
 date: 2024-04-15
-location: 
+location: UH Manoa
 pdf: 
 link: /talks/
 ---

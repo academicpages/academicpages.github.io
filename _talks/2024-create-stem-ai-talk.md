@@ -5,6 +5,6 @@ type: "Talk"
 venue: "College of Education"
 date: 2024-04-16
 location: "Michigan State University"
-pdf: 
+pdf: /files/slides/2024-create-ai.pdf
 link: /talks/
 ---
