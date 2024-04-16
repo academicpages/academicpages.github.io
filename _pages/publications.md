@@ -35,6 +35,18 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/pdf/2206.00057)][code]<br>
 
+## 2024
+* <b>Visual Attention-Prompted Prediction and Learning</b>.<br>
+Yifei Zhang, Siyi Gu, Bo Pan, <b>Guangji Bai</b>, Xiaofeng Yang, Liang Zhao.<br>
+<i>2024 International Joint Conference on Artificial Intelligence (IJCAI 2024)</i>.<br>
+[[paper](https://arxiv.org/abs/2310.08420)]<br>
+
+* <b>Uncertainty Quantification for In-Context Learning of Large Language Models</b>.<br>
+Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, <b>Guangji Bai</b>, Liang Zhao, Haifeng Chen.<br>
+<i>The North American Chapter of the Association for Computational Linguistics (NAACL 2024 Main Conference)</i>.<br>
+[[paper](https://arxiv.org/abs/2402.10189)][[code](https://github.com/lingchen0331/UQ_ICL)]<br>
+
+
 ## 2023
 * <b>Saliency-Guided Hidden Associative Replay for Continual Learning</b>.<br>
 <b>Guangji Bai</b>, Qilong Zhao, Xiaoyang Jiang, Liang Zhao.<br>
