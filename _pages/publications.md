@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Publications"
-permalink: /publications/
+permalink: /publications.md
+author_profile: true
 ---
 
 ## Peer-reviewed articles
