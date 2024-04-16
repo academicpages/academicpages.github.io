@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a NORDITA Fellow at the Nordita Institute and Stockholm University working on several aspects of gravitational-wave multi-messenger astrophysics, neutron stars, and transients more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
+I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and Nordita Institute where I was previously a Nordita Fellow. I work on several aspects of gravitational-wave multi-messenger astrophysics, neutron stars, and transients more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* April 15th: Sarin et al. 2024 - _The origin of the coherent radio flash potentially associated with GRB 201006A_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.08048).
+* April 12th: Sarin and Rosswog 2024 - _Cautionary tales on heating-rate prescriptions in kilonovae_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.07271).
 * Feb 8th: Rosswog et al. 2024 - _Mergers of double neutron stars with one high-spin component: brighter kilonovae and fallback accretion, weaker gravitational waves_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2310.15920).
 * Feb 5th-8th: At ANU this week, On Tuesday, I am giving the joint CGA-RSAA seminar on neutron star mergers
 * January 29th-4th: Attending the TDU conference where I am giving a talk on Redback
