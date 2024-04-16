@@ -1,8 +1,7 @@
 ---
-layout: page
-sitemap: true
+layout: archive
 title: "Publications"
-permalink: /publications.md
+permalink: /_pages/publications.md
 author_profile: true
 ---
 
