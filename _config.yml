@@ -26,8 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Political scientist studying the dynamics of contemporary and historical armed conflicts"
   location         : "Oxford, UK"
-  employer1        : "University of Oxford"
-  employer2        : "Pembroke College"
+  employer         : "Uni of Oxford, Pembroke College"
   uri              : # URL
   email            : "katerina.tkacova@bsg.ox.ac.uk" 
 
