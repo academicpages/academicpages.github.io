@@ -5,7 +5,7 @@ main:
 
   - title: "Publications"
   #  url: /publications/
-    url: /_pages/publications.md
+    url: /_pages/publications.md/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -18,7 +18,7 @@ main:
     
   - title: "CV"
   # url: /cv/
-    url: /files/04-2024-cv_tkacova-short.pdf
+    url: /files/04-2024-cv_tkacova-short.pdf/
 
   #- title: "Guide"
   #  url: /markdown/
