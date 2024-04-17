@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/BPI_240403_4881.jpg"
+  avatar           : "BPI_240403_4881.jpg"
   name             : "Edson Wu"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics at The University of Texas at Austin"
