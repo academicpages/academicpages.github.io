@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 # Working Papers
-WP1
+"Relative-Price Changes as Aggregate Supply Shocks Revisited: Theory and Evidence"
+with [Hassan Afrouzi](https://afrouzi.com/) and [Saroj Bhattarai](https://sites.google.com/site/bhattaraisaroj/home)
 
 WP2
 # Publications
