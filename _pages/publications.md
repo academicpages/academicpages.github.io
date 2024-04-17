@@ -95,6 +95,8 @@ Wo das alte Geld seit hundert Jahren wohnt [Zeit Online](https://www.zeit.de/gel
 
 True Crime-Podcast “Mordlust - Verbrechen und ihre Hintergründe”, [Folge 142 Der letze Wille](https://mordlust-podcast.podigee.io/148-142-der-letzte-wille)
 
+Studie: Frauen erben weniger als Männer – und zahlen dennoch mehr Erbschaftssteuer [Merkur](https://www.merkur.de/leben/geld/firma-frauen-erben-weniger-maenner-zahlen-mehr-erbschaftssteuern-schenkung-bargeld-unternehmen-zr-93011622.html)
+
 
 
 
