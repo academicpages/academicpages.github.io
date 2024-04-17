@@ -5,7 +5,7 @@ main:
     url: files/CV_EAAW.pdf
 
   - title: "Working Papers"
-    url: workingpapers/
+    url: _pages/about.md#working-papers
   
   - title: "Publications"
     url: publications/
