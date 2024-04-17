@@ -36,8 +36,7 @@ author_profile: true
 7. Import tax evasion in cross-border e-commerce
   - with Souvik Dutta, Tarun Jain and Prithwiraj Mukherjee  
   
-8. Does the tone of Fed's Board of Governors' speeches move US equity markets?
-  - with Sankarshan Basu, Jalaj Pathak and Ashok Thampy
+
 
 
 # Works in progress
