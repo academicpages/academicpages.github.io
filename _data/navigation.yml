@@ -2,7 +2,7 @@
 main:
   - title: "CV"
     #url: /cv/
-    url: files/CV_EAAW.pdf
+    url: /files/CV_EAAW.pdf
 
   - title: "Working Papers"
     url: /#working-papers
