@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Edson Wu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Edson Wu"
 description              : &description "personal description"
 url                      : https://edson-wu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
