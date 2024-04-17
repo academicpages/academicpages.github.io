@@ -6,8 +6,6 @@ main:
 
   - title: "Working Papers"
     url: /#working-papers
-    #url: _working-papers/
-    #url: _pages/about.md#working-papers
   
   - title: "Publications"
     url: /#publications
@@ -15,8 +13,8 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: teaching/    
+  #- title: "Teaching"
+  #  url: teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
