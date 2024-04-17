@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Edson Wu"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Edson Wu"
 description              : &description "personal description"
 url                      : https://edson-wu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
