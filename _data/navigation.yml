@@ -8,7 +8,7 @@ main:
     url: _working-papers/
   
   - title: "Publications"
-    url: publications/
+    url: _publications/
 
   #- title: "Talks"
   #  url: /talks/    
