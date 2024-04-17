@@ -44,7 +44,7 @@ author_profile: true
 
 1. Seeking Alpha: More Sophisticated Than Meets the Eye
   - with Duo (Selina) Pei and Xing Huan 
-<!-- 2. Stocks and the city: Financial influencer networks and their impact on trading activity
+<!--- 2. Stocks and the city: Financial influencer networks and their impact on trading activity
   - with Bidisha Chakrabarty, Jalaj Pathak and Raghavendra Rau -->
 3. The semantic complexity of Federal Reserve communication
   - with Hitesh Doshi and Jalaj Pathak
