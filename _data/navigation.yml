@@ -10,7 +10,7 @@ main:
     #url: _pages/about.md#working-papers
   
   - title: "Publications"
-    url: _publications/
+    url: #publications
 
   #- title: "Talks"
   #  url: /talks/    
