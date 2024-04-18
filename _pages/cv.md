@@ -27,10 +27,11 @@ Projects
       * “Introduction to Special Relativity” by Resnick
       * “Special Relativity for the Enthusiastic Beginner” by D. Morin
       * “Special Relativity for the Enthusiast” by T. Strohm
-      * “The visual appearance of rapidly moving objects” by Victor F. Weisskopf
-      * “The Geometrical Appearance of Large Objects Moving at Relativistic Speeds” by G. D. Scott and M. R. Viner  
-      * “Differing observations on the landing of the rod into the slot” by Chandru Iyer and G. M. Prabhu
-      * “Generic composition of boosts: an elementary derivation of the Wigner rotation” by Rafael Ferraro and Marc Thibeault
+      * Weisskopf, Victor F. “The Visual Appearance of Rapidly Moving Objects.” Physics Today 13, no. 9 (September 1, 1960): 24–27. https://doi.org/10.1063/1.3057105.
+      * Scott, G. D., and M. R. Viner. “The Geometrical Appearance of Large Objects Moving at Relativistic Speeds.” American Journal of Physics 33, no. 7 (July 1, 1965): 534–36. https://doi.org/10.1119/1.1971890.  
+      * [“Differing observations on the landing of the rod into the slot” by Chandru Iyer and G. M. Prabhu](https://doi.org/10.1119/1.2346686)
+      * Ferraro, Rafael, and Marc Thibeault. “Generic Composition of Boosts: An Elementary Derivation of the Wigner Rotation.” European Journal of Physics 20, no. 3 (May 1, 1999): 143–51. https://doi.org/10.1088/0143-0807/20/3/003.
+
 
 
 * Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
@@ -56,3 +57,18 @@ Courses taken
 * Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM (ongoing), Statistical Mechanics (ongoing), Foundational QM (ongoing)
 * Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to
 Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory (ongoing)
+
+Articles covered
+======
+* Padgett, Miles J., and Robert W. Boyd. “An Introduction to Ghost Imaging: Quantum and Classical.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 375, no. 2099 (August 6, 2017): 20160233. https://doi.org/10.1098/rsta.2016.0233.
+* Elitzur, Avshalom C., and Lev Vaidman. “Quantum Mechanical Interaction-Free Measurements.” Foundations of Physics 23, no. 7 (July 1993): 987–97. https://doi.org/10.1007/BF00736012.
+* Pittman, T. B., Y. H. Shih, D. V. Strekalov, and A. V. Sergienko. “Optical Imaging by Means of Two-Photon Quantum Entanglement.” Physical Review A 52, no. 5 (November 1, 1995): R3429–32. https://doi.org/10.1103/PhysRevA.52.R3429.
+* Aspden, Reuben S, Daniel S Tasca, Robert W Boyd, and Miles J Padgett. “EPR-Based Ghost Imaging Using a Single-Photon-Sensitive Camera.” New Journal of Physics 15, no. 7 (July 17, 2013): 073032. https://doi.org/10.1088/1367-2630/15/7/073032.
+* Araújo, Mateus, Adrien Feix, Fabio Costa, and Časlav Brukner. “Quantum Circuits Cannot Control Unknown Operations.” New Journal of Physics 16, no. 9 (September 22, 2014): 093026. https://doi.org/10.1088/1367-2630/16/9/093026.
+* Tirole, Romain, Stefano Vezzoli, Emanuele Galiffi, Iain Robertson, Dries Maurice, Benjamin Tilmann, Stefan A. Maier, John B. Pendry, and Riccardo Sapienza. “Double-Slit Time Diffraction at Optical Frequencies.” Nature Physics 19, no. 7 (July 2023): 999–1002. https://doi.org/10.1038/s41567-023-01993-w.
+* Ruiz-Perez, Lidia, and Juan Carlos Garcia-Escartin. “Quantum Arithmetic with the Quantum Fourier Transform.” Quantum Information Processing 16, no. 6 (June 2017): 152. https://doi.org/10.1007/s11128-017-1603-1.
+* Draper, Thomas G. “Addition on a Quantum Computer.” arXiv, August 7, 2000. https://doi.org/10.48550/arXiv.quant-ph/0008033.
+* Bell, J. S. “On the Einstein Podolsky Rosen Paradox.” Physics Physique Fizika 1, no. 3 (November 1, 1964): 195–200. https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195.
+* Hardy, Lucien. “Quantum Mechanics, Local Realistic Theories, and Lorentz-Invariant Realistic Theories.” Physical Review Letters 68, no. 20 (May 18, 1992): 2981–84. https://doi.org/10.1103/PhysRevLett.68.2981.
+* 
+
