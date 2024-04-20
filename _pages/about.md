@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+<img src="/images/venn-diagram.png" width='500' style='margin-left:20px;float:right;'/>
+
 I study computing education from a critical perspective!
 
 I'm a PhD candidate advised by [Aman Yadav](https://www.amanyadav.org/) and a member of the [Justice, Education, and Technology (JET) Lab](https://msujet.org/) in MSU's [Educational Psychology & Educational Technology (EPET)](https://education.msu.edu/cepse/epet/) program.
-
-<img src="/images/venn-diagram.png" width='500'/>
 
 ### Announcements
 
