@@ -70,7 +70,7 @@ The nicest human I have ever met. Professor Kelting puts his students first, eve
 
 ### So Many More
 I am indebted to so many other amazing teachers whom I cannot hope to list.
-Specifically, I would like to thank Mrs. Liane Strub, Mrs. Lisa Otsuka, Mr. Mike Dumbra, Mrs. Kristen Bryan, Mrs. Crystal Mcrae, Professor Gary Cottrell, and Professor Ruth Luo.
+Specifically, I would like to thank Mrs. Liane Strub, Mrs. Lisa Otsuka, Mr. Mike Dumbra, Mrs. Kristen Bryan, Mrs. Caitlyn Macrae, Professor Gary Cottrell, and Professor Ruth Luo.
 
 ## Best TAs:
 
