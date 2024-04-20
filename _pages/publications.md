@@ -12,13 +12,11 @@ author_profile: true
   }
 </style>
 
-# Peer-reviewed publications
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-# Non-archived (posters, conference presentations)
+# Posters & Conference Presentations
 
 {% for post in site.posters reversed %}
   {% include archive-single.html %}
