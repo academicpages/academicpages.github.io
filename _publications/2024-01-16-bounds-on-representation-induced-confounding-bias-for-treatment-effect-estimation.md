@@ -8,6 +8,7 @@ arxiv: 'https://arxiv.org/abs/2311.11321'
 poster: 'https://iclr.cc/media/PosterPDFs/ICLR%202024/18278.png?t=1712930874.2539537'
 paperurl: 'https://openreview.net/pdf?id=d3xKPQVjSc'
 code: 'https://github.com/Valentyn1997/RICB'
+slides: 'https://iclr.cc/media/iclr-2024/Slides/18278.pdf'
 venue: ICLR
 ---
 
