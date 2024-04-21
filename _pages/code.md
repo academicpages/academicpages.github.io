@@ -5,6 +5,13 @@ permalink: /code/
 author_profile: true
 ---
 
+#  <a href="https://adsynthesizer.github.io/"> ADSynthesizer </a>
+
+We build a realisitic Active Directory attack graph generator using metagraph abstractions.
+
+![Alt text](https://hxnguyen.github.io/images/adsynth.png "a title")
+
+
 #  <a href="http://autonetkit.org"> Autonetkit </a>
 
 I built  the first version of Autonetkit - open source code to automatically  generate emulations of large networks with sophisticated policies. Autonetkit is now used in the Cisco VIRL lab.
