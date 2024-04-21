@@ -7,15 +7,18 @@ author_profile: true
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
 ### 2024
-*   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2024). Limited Query Graph Connectivity Test. Proceedings of the AAAI Conference on Artificial Intelligence, 38(18), 20718-20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A***
-*   Lang white, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. 15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop).
-*   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. Brisbane, Australia, June 24-27, 2024. **CORE A***
+*   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2024). Limited Query Graph Connectivity Test. _Proceedings of the AAAI Conference on Artificial Intelligence_, 38(18), 20718-20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A***
+*   Lang white, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. _15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop)_.
+*   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. _Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks_. Brisbane, Australia, June 24-27, 2024. **CORE A***
+*  Ngo, Q. H, Guo. M.,Nguyen, H., ( (2024). Optimizing Cyber Response Time on Temporal Active Directory Networks Using Decoys. _Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)_. **CORE A**
+*  Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G. (2024).Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes. _Proceedings of the 5th IEEE World AI IoT Congress 2024_. Seattle USA 29-31 May 2024
+*  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024). August 3-9th, 2024, Jeju, South Korea. ***CORE A***
   
   ### 2023
-* Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. to appear in Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024 [Accepted 01 December 2023]. **CORE A***
-* Nguyen L., Nguyen D., Nguyen H., Ngo, D.,  Wagner M., (2023). Multi-Agent Task Assignment in Vehicular Edge Computing: A Regret-Matching Learning-Based Approach. IEEE Transactions on Emerging Topics in Computational Intelligence, DOI: 10.1109/TETCI.2023.3339540.
-* Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G.. A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management. IEEE Transactions on Mobile Computing, September 2023. **CORE A***
-* Chowdhury, A., Nguyen, H., CoZure:  Context Free Grammar Co-Pilot Tool for Finding New Lateral Movements in Azure Active Directory, Accepted to appear in the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023), October 2023, Hong Kong. **CORE A**
+* Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. To appear in _Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024_ [Accepted 01 December 2023]. **CORE A***
+* Nguyen L., Nguyen D., Nguyen H., Ngo, D.,  Wagner M., (2023). Multi-Agent Task Assignment in Vehicular Edge Computing: A Regret-Matching Learning-Based Approach. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2023.3339540.
+* Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G.. A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management. _IEEE Transactions on Mobile Computing_, September 2023. **CORE A***
+* Chowdhury, A., Nguyen, H., CoZure:  Context Free Grammar Co-Pilot Tool for Finding New Lateral Movements in Azure Active Directory, _Procs. of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2023)_, October 2023, Hong Kong. **CORE A**
 *  Phu, A. T., Li, B., Ullah, F., Huque, T. U., Naha, R., Babar, M. A., & Nguyen, H. (2023). Defending SDN against packet injection attacks using deep learning. _Computer Networks_, 109935. **CORE A**
 *  Chowdhury, A., Nguyen, H., Ashenden, D., & Pogrebna, G. (2023). POSTER: A Teacher-Student with Human Feedback Model for Human-AI Collaboration in Cybersecurity. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 1040–1042. **CORE A**
 *  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2023). A Scalable Double Oracle Algorithm for Hardening Large Active Directory Systems. _Proceedings of the 2023 ACM Asia Conference on Computer and Communications Security_, 993–1003. **CORE A**
