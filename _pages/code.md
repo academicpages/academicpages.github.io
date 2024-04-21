@@ -7,9 +7,10 @@ author_profile: true
 
 #  <a href="https://adsynthesizer.github.io/"> ADSynthesizer </a>
 
-We build a realisitic Active Directory attack graph generator using metagraph abstractions.
+We build a realistic Active Directory attack graph generator using metagraph abstractions.
 
 ![Alt text](https://hxnguyen.github.io/images/adsynth.png "a title")
+![Alt text](https://hxnguyen.github.io/images/ad_and_attack.jpeg "a title")
 
 
 #  <a href="http://autonetkit.org"> Autonetkit </a>
