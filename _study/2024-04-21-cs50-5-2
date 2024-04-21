@@ -49,4 +49,111 @@ So the typedef structure is usually 'typedef oldName newName', where the names a
 
 # Dynamic Memory Allocatoin
 We've seen one way to work with pointers, namely pointing a pointer variable at another variable that already exits in our system. This requires us to know exactly how much memory our system will need at th emoment our program is compiled. What if we don't know how much memory we'll need at compile-time? Maybe you're going to be asking the user to give you a number and they're going to genearate a hundred linked list object.   How do we get access to new memory while our program is running?
-We can do this by allocating memory from the heap. The heap is a giant pool of memory.
+We can do this by allocating memory from the heap. The heap is a giant pool of memory. Dynamically allocated memory comes from a pool of memory known as the heap and statically allocated memory which is anything that you give a name to, typically like a variable name, is going to be set up on the stack. 
+malloc finds memory for you and returns a pointer to that memory. If it can't give you memory, it'll  hand you back NULL.
+```c
+// static memory allocation 
+int x = get_int();
+float stack_array[x];
+
+// dynamic memory allocation
+float* heap_array = malloc(x * sizeof(float));
+```
+There are 3 golden rules using malloc.
+- Every block of memory that you malloc() must subsequently be free()d.
+- Only memory that you malloc() should be free()d.
+- Do not free() a block of memory more than once.
+Once you free memory, if you try to use it, some strange things might result. 
+
+# Call stacks
+The process of recursion migh have seemed a bit magical. How does a function know to wait for another function and pass its data to some other thing that's running at the same time? When you call a function, a big chunk of memory is set aside for that function to do its work. We call shuch chunks of memory stack frames or function frames. It's possible more than one functions' frame might exist in memory at any given time.
+- The frame for the most recently called function is always on the top of the stack and we call it active frame.
+- When a new function is called, a new frame is pushed onto the top of  the stack and becomes the activve frame.
+- When a function finishes its work, its frame is popped off o fthe stack, and the frame immediately below it becoms the new, active, function on the top of the stack. This function picks up immediately where it left off.
+
+# File Pointers 
+The ability to read data from and write data to files is the primary means of storing persistent data, data taht does not disappear when your program stops running.
+The abstraction of files that C provides is implemented in a data strucure known as a FILE. 
+- The file manipulation functions all live in stdio.h. All of them accept FILE'\*' as one of their parameters, except for the function fopen(), which is used to get a FILE pointer in the first place.
+- fopen, fclose, fgetc, fputc, fread, fwrite is most common file I/O functions
+- fopen()
+  - opens a file and returns a file pointer to it.
+  - always check the return value t o make sure you don't get back NULL.
+  ```c
+  FILE* ptr1 = fopen("file1.txt", "r");
+  FILE* ptr2 = fopen("file2.txt", "w");
+  FILE* ptr3 = fopen("file3.txt", "a");
+  ```
+- fclose()
+  - closes the file ointed to by the given file pointer.
+  ```c
+  fclose(ptr1);
+  ```
+- fgetc()
+  - reads and returns the next character from the file pointed to.
+  - Note: The operation of the file pointer passed in as a parameter must be "r" for read, or you will suffer an error.
+  ```c
+  char ch = fgetc(ptr1);
+  ```
+  ```c
+  char ch;
+  while ((ch = fgetc(ptr)) != EOF){
+    printf("%c", ch);
+  }
+  - EOF is a special value that's deined in stdio.h, which is the end of  file character. The code above is a duplicate of linux command 'cat'.
+- fputc()
+  - writes or appends the specified character to the pointed-to file.
+  - Note: The operation of the file pointer passed in as a parameter must be "w" for write or "a" for append, or you will suffer an error.
+  ```c
+  fputc("!", ptr3);
+  ```
+  ```c
+  char ch;
+  while ((ch = fgetc(ptr)) != EOF){
+    fputc(ch, ptr2);
+  }
+  - The code above is a duplicate of linux command 'cp'.
+- fread()
+  ```c
+  fread(<buffer>, <size>, <qty>, <file pointer>);
+  ```
+  - reads <qty>units of size <size> from the file pointed to and stores them in memory in a buffer (usually an array) pointed to by <buffer>. Generic version of fgetc() that allows us to get any amount of information.
+  - Note: The operation of the file pointer passed in as a parameter must be "r" for read, or you will suffer an error.
+  ```c
+  int arr[10];
+  fread(arr, sizeof(int), 10, ptr);
+
+  double* arr2 = malloc(sizeof(double) * 80);
+  fread(arr2, sizeof(double), 80, ptr);
+
+  char c;
+  fread(&c, sizeof(char), 1, ptr);
+  ```
+  - We are reading 40 bytes of information from the file and storing those 40 bytes somewhere where we have set aside 40 bytes worth of memory - arr.
+- fwrite()
+  ```c
+  fwrite(<buffer>, <size>, <qty>, <file pointer>);
+  ```
+  - writes <qty>units of size <size> from the file pointed to by reading them from a buffer(usually an array) pointed to by <buffer>.
+  - Note: The operation of the file pointer passed in as a parameter must be "w" for write or "a" for append, or you will suffer an error.
+  ```c
+  int arr[10];
+  fwrite(arr, sizeof(int), 10, ptr);
+
+  double* arr2 = malloc(sizeof(double) * 80);
+  fwrite(arr2, sizeof(double), 80, ptr);
+
+  char c;
+  fwrite(&c, sizeof(char), 1, ptr);
+  ```
+
+
+
+
+
+
+
+
+
+
+
