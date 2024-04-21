@@ -27,7 +27,7 @@ author:
   bio              : "Ph.D. Candidate in Civil, Environmental, and Ocean Engineering, Stevens Institute of Technology"
   location         : "Hoboken, NJ"
   employer         : #"Red Brick University"
-  uri              : "https://www.linkedin.com/in/berina-mina-kilicarslan-4ba95baa/"
+  uri              : # URL - Update with the correct link to your profile
   email            : "bkilicar@stevens.edu" 
 
   # Academic websites
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/berina-mina-kilicarslan-4ba95baa/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
