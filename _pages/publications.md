@@ -14,7 +14,7 @@ You can also find my articles on <a href="https://scholar.google.com.au/citation
 *  Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G. (2024).Context-Aware Orchestration of Energy-Efficient Gossip Learning Schemes. _Proceedings of the 5th IEEE World AI IoT Congress 2024_. Seattle USA 29-31 May 2024
 *  Zhang, Y., Ward, M., Guo, M., & Nguyen, H. (2024). Practical Anytime Algorithms for Judicious Partitioning of Active Directory Attack Graphs. _Proceedings of the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)_. August 3-9th, 2024, Jeju, South Korea. **CORE A***
   
-  ### 2023
+### 2023
 * Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. To appear in _Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024_ [Accepted 01 December 2023]. **CORE A***
 * Nguyen L., Nguyen D., Nguyen H., Ngo, D.,  Wagner M., (2023). Multi-Agent Task Assignment in Vehicular Edge Computing: A Regret-Matching Learning-Based Approach. _IEEE Transactions on Emerging Topics in Computational Intelligence_, DOI: 10.1109/TETCI.2023.3339540.
 * Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G.. A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management. _IEEE Transactions on Mobile Computing_, September 2023. **CORE A***
