@@ -1,0 +1,52 @@
+---
+title: "[CS50] 05-2 Shorts"
+date: 2024-04-21
+permalink: /study/2024-04-21-cs50-2
+categories: basic
+tags:
+  - memory
+---
+
+In this post, the shorts video of the fifth lecture of CS50 is summarized.
+
+# Memory
+Every file on your computer lives on your disk drive, be it a hard disk drive(HDD) or a solid-state drive(SDD). It's usually somewhere in the neighborhood of 250GBs to maybe a couple of TBs now. Even when your computer is shut off, you can turn it back on and you'll find your files are there again when you reboot your system. 
+We can't actually do anything with the data that is in hard disk, or in a solid-state drive. We have to move it to RAM. 
+You may have somewhere in the neighborhood of 512MBs to 2, 4, 8, 16GBs of RAM. That's where all of the volatile data exists. But when we turn our computer off, all of the data in RAM is destroyed.
+
+# Pointers
+- What happens if we try to dereference a pointer whose value is NULL? Segmentation falut occurs. It is a good behavior to set your pointers to NULL immediately if you aren't setting them to a known, desired value. It defends against accidental dangerous manipulation of unknown pointers.
+- When you write code as below, you will get a pointer to an integer, and two integers.
+  ```c
+  int* px, py, pz;
+  ```
+  Since '\*' is actually part of both the type name and part or the variable name, if I want to create multiple pointers on the same line, of the same type, I should write like this.
+  ```c
+  int* px, *py, *pz;
+  ```
+
+# typedef
+The C keyword typedef provides a way to create a shorthand or rewritten name for data types. The basic idea is to first define a type in the normal way, then alias it to something else. 
+```c
+typedef <old name> <new name>;
+```
+typedef becomes great when combined with structures. Structures have a two-word type name but you can short it to one by using typedef.
+```c
+struct car{
+  ...
+};
+
+typedef struct car cat_t;
+```
+Alternatively because structures are som commonly used in typedef, you can actually define the type in between the start and the end.
+```c
+typedef struct car{
+ ...
+}
+car_t;
+```
+So the typedef structure is usually 'typedef oldName newName', where the names are already types that you've created. But you can actually define a structure right in the middle of the typdef instead of having to define it separately.
+
+# Dynamic Memory Allocatoin
+We've seen one way to work with pointers, namely pointing a pointer variable at another variable that already exits in our system. This requires us to know exactly how much memory our system will need at th emoment our program is compiled. What if we don't know how much memory we'll need at compile-time? Maybe you're going to be asking the user to give you a number and they're going to genearate a hundred linked list object.   How do we get access to new memory while our program is running?
+We can do this by allocating memory from the heap. The heap is a giant pool of memory.
