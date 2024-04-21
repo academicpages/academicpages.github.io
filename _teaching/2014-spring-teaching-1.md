@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "E241: Probability and Statistics with Data Science Applications"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "Stevens Institute of Tehcnology, CEOE"
+date: 2023-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+In the fall of 2023, I served as a Teaching Assistant for E241, which covers probability theory and introduces concepts in data science. Topics included random variables, distribution functions, maximum likelihood estimation, confidence intervals, hypothesis testing, and regression.
