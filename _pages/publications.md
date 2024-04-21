@@ -6,8 +6,12 @@ author_profile: true
 ---
 You can also find my articles on <a href="https://scholar.google.com.au/citations?user=fepnqKwAAAAJ&hl=en">my Google Scholar profile</a>.
 
-### 2023
-*   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2023). Limited Query Graph Connectivity Test. To appear Proceedings of Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI) 2024 [Accepted 09 December 2023]. **CORE A***
+### 2024
+*   Guo, M., Li, J., Neumann, A., Neumann F. Nguyen, H., (2024). Limited Query Graph Connectivity Test. Proceedings of the AAAI Conference on Artificial Intelligence, 38(18), 20718-20725. https://doi.org/10.1609/aaai.v38i18.30059 **CORE A***
+*   Lang white, Duong Nguyen, Hung Nguyen (2024). Satisfaction and Regret in Stackelberg Games. 15th Workshop on Optimization and Learning in Multiagent Systems (AAMAS 2024 workshop).
+*   Nhu Long Do, Nick Falkner, Hung NGuyen (2024). ADSynth: Synthesizing Realistic Active Directory Graphs. Proceedings of the 54th Annual IEEE/IFIP International Conference on Dependable Systems and Networks. Brisbane, Australia, June 24-27, 2024. **CORE A***
+  
+  ### 2023
 * Ngo, Q. H, Guo. M.,Nguyen, H., (2023). Catch Me if You Can: Effective Honeypot Placement in Dynamic AD Attack Graphs. to appear in Proceedings of the  IEEE International Conference on Computer Communications (Infocom) 2024 [Accepted 01 December 2023]. **CORE A***
 * Nguyen L., Nguyen D., Nguyen H., Ngo, D.,  Wagner M., (2023). Multi-Agent Task Assignment in Vehicular Edge Computing: A Regret-Matching Learning-Based Approach. IEEE Transactions on Emerging Topics in Computational Intelligence, DOI: 10.1109/TETCI.2023.3339540.
 * Dinani, M.; Holzer, A.; Nguyen, H.; Marsan, M.; Rizzo, G.. A Gossip Learning Approach to Urban Trajectory Nowcasting for Anticipatory RAN Management. IEEE Transactions on Mobile Computing, September 2023. **CORE A***
