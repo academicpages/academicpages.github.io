@@ -14,6 +14,7 @@ I'm leading a research group on Cyber-AI, applying new advances in AI to solve p
 I'm an associate editor for: 
 - IEEE Transactions on Artificial Intelligence and 
 - Ad-Hoc Networks journals. 
+
 I also serve on numerous TPC for international conferences including:
 - The Web Conference (2024)
 - World Congress on AIIoT (2024)
