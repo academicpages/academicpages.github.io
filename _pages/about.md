@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/venn-diagram.png" width='300' style='margin-left:20px;float:right;'/>
+<img src="/images/venn-diagram.png" width='50%' style='margin-left:20px;float:right;'/>
 
 I study computing education from a critical perspective!
 
