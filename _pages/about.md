@@ -13,6 +13,8 @@ I study computing education from a critical perspective!
 
 I'm a PhD candidate advised by [Aman Yadav](https://www.amanyadav.org/) and a member of the [Justice, Education, and Technology (JET) Lab](https://msujet.org/) in MSU's [Educational Psychology & Educational Technology (EPET)](https://education.msu.edu/cepse/epet/) program.
 
+I will be on the job market starting fall 2024!
+
 ### Announcements
 
 <!--{: .notice--info}
