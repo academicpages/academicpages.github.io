@@ -18,7 +18,7 @@ I'm an associate editor for:
 I also serve on numerous TPC for international conferences including:
 - The Web Conference (2024)
 - World Congress on AIIoT (2024)
-
+- Cyber Security and Privacy Workshop with IEEE COMSNETS 2024
 
 # News:
 - (21/04/2024): We are providing  2 PhD scholarships of up to $60K/year stipend  for research on AI and higher-graph models for network security. Please contact me directly if interested.
