@@ -17,7 +17,9 @@ Hello and வணக்கம் 👋! I am **Prashant Govindarajan**, a second y
 Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond 😁! Also, I am always looking forward to strengthening my foundations in crystallography, density functional theory, and solid-state physics, and getting domain-related inputs for my research. So if you have a background in these areas or wish to discuss about the RL aspects of my research, I'd love to have a conversation some time!
 
 # News
-- <span style="color:red"> **January 2024**</span> **Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning** accepted for the AI4Mat-2023 Digital Discovery Special Issue!
+- <span style="color:red"> **April 2024**</span> Passed my quals! I'm a PhD Candidate now!
+- <span style="color:red"> **March 2024**</span> Organizing MoML Conference (summer edition) for the second time ([MoML 2024](https://portal.ml4dd.com/moml-2024))!
+- <span style="color:red"> **January 2024**</span> [Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00024b) accepted for the AI4Mat-2023 Digital Discovery Special Issue!
 - <span style="color:red"> **December 2023**</span> Presented poster at AI4Mat Workshop at NeurIPS 2023, New Orleans
 - <span style="color:red"> **November 2023**</span> Volunteer for [Graduate Application Assistance Program for Underrepresented Students in AI](https://chandar-lab.github.io/grad-app-help/)
 - <span style="color:red"> **November 2023**</span> Presented poster at MoML 2023, MIT
