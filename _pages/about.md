@@ -20,7 +20,13 @@ I am currently a PhD student in [the School of Information](https://ischool.ubc.
 
 * **Talafha, B.**, Waheed, A., & Abdul-Mageed, M. (2023). N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition. arXiv preprint arXiv:2306.02902.
 
-* Za'ter, M. E., & **Talafha, B.** (2022). Bench-Marking And Improving Arabic Automatic Image Captioning Through The Use Of Multi-Task Learning Paradigm. arXiv preprint arXiv:2202.05474.
+* Waheed, A., **Talafha, B.**, Sullivan, P., Elmadany, A., & Abdul-Mageed, M. (2023). VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System. arXiv preprint arXiv:2310.11069.
+
+* Jarrar, M., Abdul-Mageed, M., Khalilia, M., **Talafha, B.**, Elmadany, A., Hamad, N., & Omar, A. (2023). WojoodNER 2023: The First Arabic Named Entity Recognition Shared Task. arXiv preprint arXiv:2310.16153.
+
+* Ebrahimi, A., Mager, M., Wiemerslage, A., Denisov, P., Oncevay, A., Liu, D., , **Talafha, B.**, ... & Kann, K. (2022, August). Findings of the Second AmericasNLP Competition on Speech-to-Text Translation. In NeurIPS 2022 Competition Track (pp. 217-232). PMLR. 
+
+* Za'ter, M. E., & **Talafha, B.** (2022). Benchmarking and Improving Arabic Automatic Image Captioning Through The Use Of Multi-Task Learning Paradigm. arXiv preprint arXiv:2202.05474.
 
 * **Talafha, B.**, Za’Ter, M. E., Suleiman, S., Al-Ayyoub, M., & Al-Kabi, M. N. (2021, November). sarcasm detection and quantification in arabic tweets. In 2021 IEEE 33rd International Conference on Tools with Artificial Intelligence (ICTAI) (pp. 1121-1125). IEEE.
 
