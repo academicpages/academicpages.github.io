@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Alejandra Rodas-Gaiter.JPG"
+  avatar           : "profile.png"
   name             : "Alejandra Rodas-Gaiter"
   pronouns         : "she/her"  
   bio              : "Doctor of Philosophy (PhD) candidate in Public Administration and Policy"
