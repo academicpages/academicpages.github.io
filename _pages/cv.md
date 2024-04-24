@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Public Administration and Policy, University of Georgia - SPIA (United States), 2024 (expected)
