@@ -19,7 +19,7 @@ author_profile: true
 
 -  <u>Kazuki Yamauchi</u>, Yusuke Ijima, and Yuki Saito<br>
 **StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-supervised Learning Models**<br>
-IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. (Accepted)<br>
+IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024.<br>
 \[[arXiv](https://arxiv.org/abs/2311.16509)\] \[[demo](https://ntt-hilab-gensp.github.io/icassp2024stylecap/)\]
 
 
