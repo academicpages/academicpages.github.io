@@ -75,8 +75,8 @@ Worked on natural language processing and developed web application.
 **Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員**  -->
 
 
-<!-- ## Other Experiences
+## Other Experiences
 
 - Apr. 2024<br>
 **Invited to Google Research Talk, Google Tokyo, Japan**<br>
-Talked about our technical report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge. -->
+Talked about our technical report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge.
