@@ -15,7 +15,7 @@ The course assessment will be based on a presentation and final report of a chos
 
 **April 10th** [Introduction and kickoff](http://indiiigo.github.io/files/mrb/session_0_intro.pdf)
 
-**April 24th** How to read and review a research paper AND overview of research w/ digital traces
+**April 24th** [How to read and review a research paper AND overview of research with digital traces](http://indiiigo.github.io/files/mrb/session_1_working_with_digital_traces.pdf)
 - Keshav, Srinivasan. ["How to read a paper."](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf) ACM SIGCOMM Computer Communication Review 37.3 (2007): 83-84.  
 - Pain, Elisabeth [“How to review a paper”](https://www.science.org/content/article/how-review-paper)
 
