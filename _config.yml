@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "306A1002.jpg"
   name             : "Alejandra Rodas-Gaiter"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Athens, GA, US"
+  employer         : "University of Georgia"
+  URI              : "https://spia.uga.edu/student/alejandra-rodas-gaiter/"
+  email            : "alejandra.rodas@uga.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
