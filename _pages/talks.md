@@ -19,6 +19,7 @@ For The Pacific Northwest Seminar on Topology, Algebra, and Geometry in Data Sci
 See the talk [here](../assets/pdf/AI_talk_astroX.pdf). For [ERIRA 2022](https://nickk124.github.io/outreach/) ASTRO-X.
 
 ## Posters
+- [The Effect of Intrinsic Dataset Properties on Generalization: Unraveling Learning Differences Between Natural and Medical Images](../assets/pdf/intrinsicproperties_iclr2024.pdf) *(ICLR 2024).*
 - [Attributing Learned Concepts in Neural Networks to Training Data](../assets/pdf/attrib_conceptattribution_poster.pdf) *(NeurIPS 2023 Workshop on Attributing Model Behavior at Scale **[Oral]**).*
 - [Reverse Engineering Breast MRIs: Predicting Acquisition Parameters Directly from Images](../assets/pdf/midl23_reverseengineering_poster.pdf) *(MIDL 2023).*
 - [The Intrinsic Manifolds of Radiological Images and their Role in Deep Learning](../assets/pdf/miccai22_intrinsicmanifolds_poster.pdf) *(MICCAI 2022).* *Poster won Judges' Choice Award at the Duke University Pratt School of Engineering Fall 2022 Poster Session.*
