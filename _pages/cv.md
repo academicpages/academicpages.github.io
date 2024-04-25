@@ -63,6 +63,10 @@ redirect_from:
 # Service
 * MSU Ignite speaker selection committee (2024)
   * Reviewed candidate talks for a general audience research presentation series, and coached the accepted presenters.
+* PhD practicum committee (student member)
+  * Mike Frazier (2023-24)
+  * Jenn Sutcliffe (2024-)
+  * Aisel (Ice) Akmedova (2024-)
 * [JET Lab](https://msujet.org/) meeting leader (2023-present)
   * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests.
 * Student representative for EPET (2022-2023)
