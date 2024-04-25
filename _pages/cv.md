@@ -64,7 +64,7 @@ redirect_from:
 * PhD practicum committee (student member)
   * [Mike Frazier](https://www.linkedin.com/in/mikefraziered) (2023-24)
   * [Jenn Sutcliffe](http://www.cgreenhow.org/research-team/) (2024-)
-  * [Aisel (Ice) Akmedova](http://www.cgreenhow.org/research-team/) (2024-)
+  * [Aisel (Ice) Akhmedova](http://www.cgreenhow.org/research-team/) (2024-)
 * [JET Lab](https://msujet.org/) meeting leader (2023-)
   * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests.
 * MSU Ignite speaker selection committee (2024)
