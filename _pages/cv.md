@@ -61,13 +61,13 @@ redirect_from:
 * [Husky 100](https://www.washington.edu/husky100/year/2020/#name=andrew-hu), University of Washington (2020)
 
 # Service
+* PhD practicum committee (student member)
+  * [Mike Frazier](https://www.linkedin.com/in/mikefraziered) (2023-24)
+  * [Jenn Sutcliffe](http://www.cgreenhow.org/research-team/) (2024-)
+  * [Aisel (Ice) Akmedova](http://www.cgreenhow.org/research-team/) (2024-)
+* [JET Lab](https://msujet.org/) meeting leader (2023-)
+  * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests.
 * MSU Ignite speaker selection committee (2024)
   * Reviewed candidate talks for a general audience research presentation series, and coached the accepted presenters.
-* PhD practicum committee (student member)
-  * Mike Frazier (2023-24)
-  * Jenn Sutcliffe (2024-)
-  * Aisel (Ice) Akmedova (2024-)
-* [JET Lab](https://msujet.org/) meeting leader (2023-present)
-  * Changed the structure of our lab meetings to center students presenting their work and getting feedback, as well as building community by inviting guests with similar interests.
 * Student representative for EPET (2022-2023)
   * Attended faculty meetings, raised student concerns to faculty, helped onboard first year PhD students.
