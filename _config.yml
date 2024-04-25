@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anne Drew Hu (they/them)"
+  name             : "Anne Drew Hu <br/>(they/them)"
   avatar           : "annedrew_kiva_square.png"
   bio              : "PhD Candidate at MSU Educational Psychology & Educational Technology"
   location         : "Mid-Michigan & Seattle"
