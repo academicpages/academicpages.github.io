@@ -24,16 +24,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**ICAS
 
 
 
-## Preprint
-
-- Wataru Nakata\*, <u>Kazuki Yamauchi</u>\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\*Equal contribution)<br>
-**UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
-Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge, Mar. 2024.<br>
-**Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
-\[[arXiv](https://arxiv.org/abs/2403.13720)\] \[[code](https://huggingface.co/sarulab-speech/UTDUSS-Vocoder)\]
-
-
-
 ## Domestic Conferences
 
 - <u>山内 一輝</u>, 井島 勇祐, 齋藤 佑樹<br>
@@ -59,3 +49,12 @@ Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Uni
 日本音響学会 2023年秋季研究発表会 講演論文集, 2-Q-30, pp. 1255--1256, 2023年9月.<br>
 \[[pdf](/files/yamauchi23asja_paper.pdf)\] \[[poster](/files/yamauchi23asja_poster.pdf)\]
 
+
+
+## Preprint
+
+- Wataru Nakata\*, <u>Kazuki Yamauchi</u>\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\*Equal contribution)<br>
+**UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
+Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge, Mar. 2024.<br>
+**Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
+\[[arXiv](https://arxiv.org/abs/2403.13720)\] \[[code](https://huggingface.co/sarulab-speech/UTDUSS-Vocoder)\]
