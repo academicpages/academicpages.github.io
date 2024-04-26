@@ -5,10 +5,7 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "Portfolio"
-    url: /portfolio/
-    
-  - title: "CV"
+  - title: Education
     url: /cv/
 
   - title: "Activities"
