@@ -45,3 +45,6 @@ Dungeon Master / September 2021 – May 2022
 Planning Committee Member / Spring 2022
 Worked alongside high school and college students to research and develop the position papers for spring conference. Assisted with execution of Model UN Conference.
 
+## HISD Chronicles
+Cofounder and Satire Journalist / 2024
+Created a website and wrote satire articles. ([link](https://s1827317.wixsite.com/the-hisd-chronicles))
