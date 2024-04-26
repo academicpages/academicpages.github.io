@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /activities
+permalink: /activities/
 title: "Activities"
 excerpt: "My Activities"
 author_profile: true
