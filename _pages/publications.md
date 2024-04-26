@@ -10,9 +10,9 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 # Conference Papers
 ## 2024
-* **Accelerating Privacy-Preserving Machine Learning With GeniBatch** <br>
+* **Accelerating Privacy-Preserving Machine Learning With GeniBatch** \[[pdf](https://kl4805.github.io/files/genibatch.pdf)\]<br>
 Xinyang Huang, Junxue Zhang, Xiaodian Cheng, Hong Zhang, **Yilun Jin**, Shuihai Hu, Han Tian, Kai Chen. <br>
-To appear in *European Conference on Computer Systems (EuroSys)*, 2024. 
+In *European Conference on Computer Systems (EuroSys)*, 2024. 
 
 
 ## 2023
