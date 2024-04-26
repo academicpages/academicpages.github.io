@@ -5,7 +5,7 @@ title: "Activities"
 excerpt: "My Activities"
 author_profile: true
 redirect_from: 
-  - /activities.html
+  - /activities
 ---
 
 ## TowerFall Club
