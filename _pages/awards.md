@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /activities/
-title: "Activities"
-excerpt: "My Activities"
+permalink: /awards/
+title: "Awards"
+excerpt: "My Awards"
 author_profile: true 
 ---
