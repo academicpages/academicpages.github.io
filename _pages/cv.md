@@ -8,7 +8,7 @@ redirect_from:
 ---
 # CV
 ## Education
-#### Energy Institute High School
+### Energy Institute High School
 Current GPA 4.75
 Current Class Ranking: 1 out of 183
 STEM Engineering Project Based Learning Curriculum
