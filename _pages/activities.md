@@ -13,6 +13,7 @@ author_profile: true
 
 ## First Robotics Competition
 **Coding squad member / September 2023 – January 2024**
+- Used C++ and Github.
 
 ## AFA Chamber Music Wind Ensemble
 **Clarinetist / September 2023 – December 2023; January 2023 – May 2023**
@@ -39,7 +40,7 @@ author_profile: true
 
 ## Dungeons and Dragons Club, Lanier Middle School
 **President / September 2022 – May 2023**
-- Dungeon Master / September 2021 – May 2022
+**Dungeon Master / September 2021 – May 2022**
 
 ## Global Classrooms Houston Model UN Conference, Houston
 **Planning Committee Member / Spring 2022**
