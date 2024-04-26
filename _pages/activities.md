@@ -7,9 +7,7 @@ author_profile: true
 ---
 
 ## TowerFall Club
-- Founder and President / 2023-2024
-- TowerFall is a multiplayer versus fighting game.
-- Recruited members, obtained teacher sponsor, met weekly with club members.
+- Founder and President / 2023-2024 /n TowerFall is a multiplayer versus fighting game. \nRecruited members, obtained teacher sponsor, met weekly with club members.
 
 ## First Robotics Competition
 - Coding squad member / September 2023 – January 2024
