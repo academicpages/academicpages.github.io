@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-# Hello!
-I am a kid
+## Hello!
+I am a 9th grader at Energy Institute High School. I love coding and playing TowerFall with my friends. I plan to go into data science in the future.
