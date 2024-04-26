@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-# CV
 ## Education
 ### Energy Institute High School
 Current GPA 4.75
