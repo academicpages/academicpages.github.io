@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alex G. / Website"
+title                    : "Alex G. / Resume"
 title_separator          : "-"
 name                     : &name "Alex Grigoriadis"
 description              : &description "personal description"
