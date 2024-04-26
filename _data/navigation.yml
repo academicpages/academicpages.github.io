@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: Education
+  - title: "CV"
     url: /cv/
 
   - title: "Activities"
