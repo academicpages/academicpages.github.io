@@ -22,7 +22,7 @@ github                   : [metadata]
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "my-profile.png"
+  avatar           : "my-profile2.png"
   name             : "Kazuki Yamauchi"
   pronouns         : # example: "she/her"  
   bio              : "Master student at UTokyo"
