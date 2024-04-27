@@ -11,6 +11,7 @@ author_profile: true
 
 ## Talks
 Below is a selection of talks I have given the past few years
+* Ideal intersection properties for group-graded Banach *-algebras, Analysis seminar, Chalmers University, Gothenburg. (March 2024)
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, Fields Institute Operator Algebras Seminar, Fields Institute, Toronto. (October 2023)
 * Detecting ideals in reduced crossed product C*-algebras of topological dynamical systems, IWOTA -- International Workshop on Operator Theory and Applications, University of Helsinki. (July-August 2023)
 * Gabor analysis and an ideal intersection property, Workshop on Quantum Harmonic Analysis, NTNU Trondheim. (June 2023)
