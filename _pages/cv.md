@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-My CV as a [pdf](../files/Cecile_Meier_Scherling_CV_public.pdf).
+My CV as a [pdf](http://https://cecile-meier-scherling.github.io/files/Cecile_Meier_Scherling_gitwebsite.pdf).
