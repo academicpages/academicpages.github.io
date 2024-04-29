@@ -86,7 +86,7 @@ author:
   location         : "Providence, RI"
   employer         : "Brown University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?view_op=list_works&hl=en&user=5_m37F8AAAAJ
   email            : "cecile_meier-scherling [at] brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cecile-meier-scherling"
+  github           : https://github.com/cecile-meier-scherling
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/cecilemeier-scherling/"
+  linkedin         : https://www.linkedin.com/in/cecilemeier-scherling/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -123,6 +123,7 @@ include:
   - _pages
   - files
 exclude:
+  - _pages/archive-layout-with-content.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -191,17 +192,17 @@ collections:
 
 # Defaults
 defaults:
-  # # _posts
-  # - scope:
-  #     path: ""
-  #     type: posts
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     read_time: true
-  #     comments: true
-  #     share: true
-  #     related: true
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
