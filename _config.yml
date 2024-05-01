@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Min Yang (杨敏) / Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Min Yang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://minyanghit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "minyanghit/minyanghit.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Min Yang"
+  pronouns         : "he/his"  
+  bio              : "Multi-Modal Learning"
+  location         : "Shenzhen, China"
+  employer         : "Harbin Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "minyang@hit.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
