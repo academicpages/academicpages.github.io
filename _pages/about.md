@@ -26,4 +26,4 @@ The [Archives Handwriting Text Extraction and Analysis Project](https://github.c
 
 For more info
 ------
-For more info about my current research, please email me at japryse@ou.edu
+For more info about my current research, please email me at [japryse@ou.edu](japryse@ou.edu)
