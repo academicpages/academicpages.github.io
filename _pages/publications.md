@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024):1-12. doi: 10.1080/14606925.2024.2313290. **(A&HCI, 设计学顶刊)** [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
+7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024) 27:368-379. doi: 10.1080/14606925.2024.2313290. **(A&HCI, 设计学顶刊)** [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
 
 
 6\. **Ma K**, Gao M, Guida FE, He R. Understanding the Influencing Factors and Mechanism of Social Compensation for Chinese Older Adults Using Social Media in the Context of Smart Home: A Qualitative Analysis. *Frontiers in Public Health* (2023) 11:1-20. doi: 10.3389/fpubh.2023.1174920. **(SCI&SSCI, JCR Q1, IF=5.2)** [[link]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1174920/full)
