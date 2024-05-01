@@ -10,11 +10,11 @@ redirect_from:
 
 As the Senior Archivist III, I provide leadership and direction for the Carl Albert Congressional Research and Studies Center Archive's distinguished repository of manuscripts, photographs, audiovisual materials, and born-digital assets from the late 1800s. My primary professional objective is to advance adequate infrastructure and long-term digital collection management strategies. As a committed archivist, educator, and collaborator, I have significantly contributed to the profession through my leadership, advocacy, and program development skills. 
 
-As a practitioner and educator, I can foster interdisciplinary collaborations and offer innovative concepts bridging the gap between technology and collection management. As a collaborator, I strive to explore inclusive and inventive methods to broaden access to information. My academic qualifications include a master's degree in Library and Information Science (MLIS) with a specialization in Digital Content Management and a master's degree in Museum Science (M.S.) with a focus on Digital Asset Management. I am a Ph.D. candidate in Information Science at the University of North Texas, concentrating on large-scale digital asset management.
+As a practitioner and educator, I can foster interdisciplinary collaborations and offer innovative concepts bridging the technology and collection management gap. As a collaborator, I strive to explore inclusive and inventive methods to broaden access to information. My academic qualifications include a master's degree in Library and Information Science (MLIS) with a specialization in Digital Content Management and a master's degree in Museum Science (M.S.) with a focus on Digital Asset Management. I am a Ph.D. candidate in Information Science at the University of North Texas, concentrating on large-scale digital asset management.
 
 Data-driven, Efficiency-Focused Research
 ======
-My research focuses on the impact of information system components (data + human) and the ability to efficiently process information (product). My work centers on cultural heritage content/information management systems and workflow methodology. I am interested in measuring the rate and efficiency of information flow by exploring traditional goal and system models and forecasting models to predict or prevent possible barriers and obstructions from subsystem to the end product.
+My research focuses on the impact of information system components (data + human) and the ability to process information (product) efficiently. My work centers on cultural heritage content/information management systems and workflow methodology. I am interested in measuring the rate and efficiency of information flow by exploring traditional goal and system models and forecasting models to predict or prevent possible barriers and obstructions from subsystem to the end product.
 
 Current Large-Scale Projects
 ======
@@ -26,4 +26,4 @@ The [Archives Handwriting Text Extraction and Analysis Project](https://github.c
 
 For more info
 ------
-For more info about my current research, please email me at [japryse@ou.edu](japryse@ou.edu)
+For more info about my current research, please email me at [japryse\@ou.edu](mailto:japryse@ou.edu)
