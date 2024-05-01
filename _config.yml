@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Arindam's Homepage"
+title                    : "Arindam Homepage"
 title_separator          : "-"
 name                     : &name "Arindam Sikdar"
 description              : &description "Post Doctoral Researcher in EdgeHill University"
