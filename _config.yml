@@ -12,7 +12,7 @@ title                    : "Arindam's Homepage"
 title_separator          : "-"
 name                     : &name "Arindam Sikdar"
 description              : &description "Post Doctoral Researcher in EdgeHill University"
-url                      : https://arindam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Arindam-1991/arindam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Arindam-1991/arindam.github.io"
 
