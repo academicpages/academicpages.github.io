@@ -7,7 +7,7 @@ author_profile: true
 
 April 2024
 ======
-![ls](../icons/igarss.png){: width="300" }   
+![ls](../icons/igarss.png){: width="800" } 
 I have receive the IGARSS Student travel grant to present my research at the IGARSS-2024 to be held in Athens.
 
 
