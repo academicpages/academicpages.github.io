@@ -14,7 +14,7 @@ name                     : &name "Reza Abazari"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "abazari/abazari.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,9 +25,9 @@ author:
   name             : "Reza Abazari"
   pronouns         : # example: "she/her"  
   bio              : "Assoc. Prof. of Applied Mathematics"
-  location         : "Earth"
+  location         : "Ardabil, IRAN"
   employer         : "University of Mohaghegh Ardabili"
-  uri              : # URL
+  uri              : "https://academics.uma.ac.ir/profiles?lng=en&name=abazari-r"
   email            : "abazari-r@uma.ac.ir" 
 
   # Academic websites
