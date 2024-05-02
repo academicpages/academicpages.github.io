@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Reza Abazari"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assoc. Prof. of Applied Mathematics"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Mohaghegh Ardabili"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "abazari-r@uma.ac.ir" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
+  googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
