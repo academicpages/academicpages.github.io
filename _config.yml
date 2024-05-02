@@ -31,12 +31,12 @@ author:
   email            : "abazari-r@uma.ac.ir" 
 
   # Academic websites
-  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
-  Googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
+  googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Reza_Abazari3"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
