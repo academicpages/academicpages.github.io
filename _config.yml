@@ -12,7 +12,7 @@ title                    : "Reza Abazari"
 title_separator          : "-"
 name                     : &name "Reza Abazari"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://abazari.github.io # the base hostname & protocol for your site e.g. "https://abazari.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abazari/abazari.github.io"
 
@@ -31,8 +31,8 @@ author:
   email            : "abazari-r@uma.ac.ir" 
 
   # Academic websites
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
-  googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
+  Scopus           : "https://www.scopus.com/authid/detail.uri?authorId=28767526200"
+  Googlescholar    : "https://scholar.google.com/citations?user=rqSaUX8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
