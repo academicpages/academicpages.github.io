@@ -9,16 +9,26 @@ redirect_from:
 
 :wave: Hello! My name is Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf).
 
-I am a ~~(second)~~ third-year PhD student in Computer Science at the [University of Waterloo](https://uwaterloo.ca/) in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). During my PhD, I've done some fun internships at [Google Research](https://research.google/) (Fall & Winter 2023). Before, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). 
+I'm currently a ~~(second)~~ third-year PhD student in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo in Canada, advised by Prof. [Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My research area includes improving evaluation and benchmarking of information retrieval systems across diverse domains and languages. I am the author of the [BEIR benchmark](http://beir.io) and also developed the [MIRACL](http://miracl.ai), [SWIM-IR](https://github.com/google-research-datasets/swim-ir) and similar datasets. More recently, I have been working on better evaluation of Retrieval-Augmented Generation (RAG) systems, where I am co-hosting the first ever RAG competition: [TREC 2024 RAG](https://trec-rag.github.io). :tada:
 
-I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017).
+During my PhD, I've been involved in research collaborations with [Vectara](https://vectara.com/) (2024) and [Huawei](http://dev3.noahlab.com.hk/) (2022). I've done a few internships during my PhD at [Google Research](https://research.google/) (2023). Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017).
 
-I maintain a list of my publications under the [Research](/publications/) tab. Feel free to reach out to me via email: nandan.thakur@uwaterloo.ca.
+I maintain a list of my publications under the [Research](/publications/) tab. Feel free to reach out to me via email: `nandan.thakur@uwaterloo.ca`.
 
-<span style="color:red">I am actively looking for research internships in Summer 2024!</span>
+<span style="color:red">I am actively looking for research internships in Fall 2024!</span>
 
 ## :fire: Recent News
+* <sub>**[May 2024]** Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
+* <sub>**[Apr 2024]** I will be attending in-person NAACL 2024 in Mexico City, Mexico between 16-20 June 2024 and SIGIR in Washington DC, USA between 14-18 July 2024. If interested, do reach out!
+* <sub>**[Apr 2024]** Received a 3K USD grant from Google to attend the NAACL 2024 Conference in Mexico City, 2024.
+* <sub>**[Apr 2024]** My work on "Systematic Evaluation of Neural Retrieval Models on the Touch{\'e}~2020 Argument Retrieval Subset of BEIR" has been accepted at **SIGIR 2024 (Reproduction)**.
+* <sub>**[Apr 2024]** My work on "Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses" has been accepted at **SIGIR 2024 (Resource)**.
+* <sub>**[Mar 2024]** My Google internship work on "SWIM-IR: Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval" has been accepted at **NAACL 2024**.
+* <sub>**[Feb 2024]** Started part time research colaboration on improving multilingual RAG systems with [Vectara](https://vectara.com/).
+* <sub>**[Jan 2024]** Gave two research talks on "Hetergeneous Benchmarking of Information Retrieval" in IIT-D (Delhi) and IIIT-Delhi [[presentation]](https://docs.google.com/presentation/d/1IxwfL8zZnq6hn6KFuYm8vm9uM8Zq4B8d/edit#slide=id.p1) [[video]](https://www.youtube.com/watch?v=5ujaTVx-AkI).
 * <sub>**[Nov 2023]** TREC RAG 2024 has been accepted and will be conducted as a shared task in TREC 2024.
+
+<details markdown=1><summary markdown="span"><b>Click here for older news</b></summary>
 * <sub>**[Nov 2023]** My internship work at Google is out on [Arxiv](https://arxiv.org/abs/2311.05800), dataset is released [here](https://github.com/google-research-datasets/swim-ir).
 * <sub>**[Jul 2023]** I will be attending the SIGIR 2023 virtual conference being held in Taipei, Taiwan! Say hi to me (virtally)!</sub>
 * <sub>**[Jul 2023]** I will be attending the ACL 2023 in-person conference being held in Toronto, Canada! Say hi to me!</sub>
@@ -28,8 +38,6 @@ I maintain a list of my publications under the [Research](/publications/) tab. F
 * <sub>**[May 2023]** The Evaluating Embedding API Paper has been accepted in [ACL 2023 Industry Track](https://2023.aclweb.org/calls/industry_track/)!</sub>
 * <sub>**[Sep 2022]** The MIRACL Challenge was accepted in [WSDM Cup 2023](https://www.wsdm-conference.org/2023/program/wsdm-cup). The Challenge is now live and looking for participants.</sub> 
 * <sub>**[Aug 2022]** I started my Fall Internship at the Language Team in [Google Research](https://research.google/teams/language/) with Daniel Cer and Jianmo Ni.</sub>
-
-<details markdown=1><summary markdown="span"><b>Click here for older news</b></summary>
 * <sub>**[Mar 2021]** Augmented SBERT got accepted as a long paper at NAACL 2021! [PDF](https://aclanthology.org/2021.naacl-main.28/) []
 * <sub>**[Feb 2021]** Designed and Attended The First ELLIS NLP 2021 Workshop Website. [<a href="https://sites.google.com/view/ellisnlp2021/organization?authuser=0#h.jhoas58vwjmn">link</a>]</sub>
 * <sub>**[Jan 2021]** Designed the Second 2021 SustaiNLP Workshop Website. [<a href="https://sites.google.com/view/sustainlp2021">link</a>]</li>
