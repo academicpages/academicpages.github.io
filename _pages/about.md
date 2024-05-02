@@ -23,6 +23,8 @@ My research interests include
 
 # News
 ### 2024
+- ✈️ [May 2023] Attending [ICLR 2024](https://iclr.cc/Conferences/2024) in Vienna, Austria
+- 📙 [May 2024] 1 paper accepted at ICML 2024: [Fair Off-Policy Learning from Observational Data](https://valentyn1997.github.io/publications/2023-03-15-fair-off-policy-learning-from-observational-data/)
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
 - 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
