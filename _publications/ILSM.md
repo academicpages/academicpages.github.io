@@ -5,7 +5,7 @@ permalink: /publication/ILSM
 date: 2023-10-01
 venue: Catena
 ---
-<b>This paper is Published in Catena, read the paper ![here] (https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) </b>
+<b>This paper is Published in Catena, read the paper [here] (https://www.sciencedirect.com/science/article/abs/pii/S0341816223007440?via%3Dihub) </b>
 
 ![ILSM](/images/ILSM.jpg){: width="900" }  
 
