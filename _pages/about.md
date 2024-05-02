@@ -15,7 +15,7 @@ I got my Ph.D. in Applied Mathematics at the [University of Tabriz](https://tabr
 Research Interests
 ======
 General:  Applied Mathematics,
-Specific: Computational Mathematics, Mathematical methods in medical sciences, Medical Image analyzing.
+Specific: Computational Mathematics, Mathematical methods in medical sciences, Medical Image analysis.
 
 
 
@@ -28,7 +28,7 @@ Ardabil, Iran.
 E-mail(s): abazari-r@uma.ac.ir, 
            abazari.r@gmail.com,
 Phone: (+98)91 4951 1950
-       (+98)45 3150 6024
+       (+98)45 3150 6024.
 
 
 
