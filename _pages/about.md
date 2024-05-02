@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-I am a 2nd-year Master student at [System #1 lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
-My research focuses on the domain of spoken language processing such as speech synthesis, voice conversion, and para/non-linguistic information modeling.
+I am a 2nd-year Master student at [Saruwatari & Saito Lab.](https://www.sp.ipc.i.u-tokyo.ac.jp/index-en), [Graduate school of Information Science and Technology](https://www.i.u-tokyo.ac.jp/index_e.shtml), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html), Japan.
+My research focuses on the domain of speech and language processing such as speech synthesis, voice conversion, and para/non-linguistic information modeling.
 I am especially interested in modeling and generating expressive prosody.
 Also, through it, I aim to the development of human-friendly speech agents that can adaptively and naturally communicate with a variety of people.
 
