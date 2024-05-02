@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Reza Abazari"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Reza Abazari"
 description              : &description "personal description"
