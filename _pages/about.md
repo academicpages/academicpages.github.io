@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani, and I am a computer scientist passionate about designing generalizable, interpretable, and reliable machine learning algorithms using the theory of programming languages.
-
+My name is Kia Rahmani, and I am a computer scientist passionate about designing interpretable and reliable artificial intelligence through the theory of programming languages.
 
 I currently serve as a postdoctoral fellow at the [Computer Science Department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
 
 
-The current focus of my research is on neuro-symbolic algorithms for sequential decision making. My ultimate scientific goal is to train intelligent agents that can provide formal explanation and guarantees about their behaviors. 
+The current focus of my research is on neuro-symbolic algorithms for sequential decision making. My ultimate scientific goal is to design AI agents that can provide formal explanation and guarantees about their behaviors. 
 
 Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
 
@@ -174,8 +173,12 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
 
 ## Service
 <ul> 
+  <li>
+    2024: Reviewed for <a href="https://www.sbir.gov/about"> DoE SBIR and STTR Programs</a> and
+    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"> IEEE Robotics and Automation Letters (RA-L)</a> 
+  </li>
   <li> 
-  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a>
+  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a> and <a href="https://www.tahri.org/"> Technological Advances in Human-Robot Interaction </a>
   </li>
   <li> 
   2021: Reviewed for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
