@@ -92,8 +92,8 @@ TUAS is in the sweet spot of size. You can get to know everyone in the club. Als
 
 Check out why members of our different subteams think:
 
-<details>
-<summary>
+<details markdown="1">
+<summary markdown="1">
 
 **Airframe**: 🛫
 </summary>
@@ -105,8 +105,8 @@ From Day One in TUAS we have been learning all sorts of manufacturing techniques
 </div>
 </details>
 
-<details>
-<summary>
+<details markdown="1">
+<summary markdown="1">
 
 **Software**: 💻
 </summary>
@@ -120,8 +120,8 @@ I also think TritonUAS is unique among other organizations and projects for how 
 
 </details>
 
-<details>
-<summary>
+<details markdown="1">
+<summary markdown="1">
 
 **Embedded**: 🔌
 </summary>
@@ -137,8 +137,8 @@ If it has to do with power, general electronics, or microcontrollers and the sof
 
 </details>
 
-<details>
-<summary>
+<details markdown="1">
+<summary markdown="1">
 
 **Business**: 🕴
 </summary>
@@ -189,7 +189,7 @@ Other schools and other clubs have horrible interview processes. For example, UC
 
 I joined SEDS and Triton Robotics for about a week each. Both clubs gave me horrible first impressions. The Triton Robotics software lead did not know anything. He was only into computer vision and pawning off tasks without giving any help. SEDS has literally zero software. They jebaited me saying there was something to work on, but they just wanted me to do CRUD work. I would have been making software to view launch logs and support the ground control station. The lead for the project I was assigned to did not know any software himself. Also, they cancelled the project I worked on the next year (cubesat), so I dodged a bullet. The rocket clubs are MATLAB enjoyers and don't want any software engineering.
 
-If I remember correctly, neither Triton Robotics nor SEDS were using git when I joined Also it's stupid that SEDS has 100k in funding yet still begs community members for money and charges fees to students.
+If I remember correctly, neither Triton Robotics nor SEDS were using git when I joined. Also it's stupid that SEDS has 100k in funding yet still begs community members for money and charges fees to students.
 </div>
 
 <img src="/images/10-reasons/outreach.webp" class="post-image" loading="lazy">
