@@ -2,6 +2,7 @@
    CUSTOM CSS 
    ========================================================================== */
 
+// recommended read blog post
 .recommend {
     border-radius: 999px;
     background: #d6ffbd;
@@ -17,3 +18,121 @@
     text-transform: uppercase;
     font-feature-settings: "cpsp" on;
 }
+
+// 10 reasons tuas
+
+$ucsd-navy: #182B49;
+$ucsd-blue: #00629B;
+$ucsd-yellow: #FFCD00;
+$ucsd-gold: #C69214;
+
+// Custom Quote
+
+.quote-author {
+	background-color:$ucsd-gold; //rgb(69, 26, 3);
+	color: white;
+	letter-spacing:.025em;
+	font-feature-settings:"smcp";
+	font-weight:700;
+	padding:.25rem;
+	padding-left:.5rem;
+	padding-right:.5rem;
+	font-variant: small-caps;
+	border-radius:.5rem;
+	width: fit-content;
+	left: 1.75rem;
+	position:relative;
+	top: 1rem;
+}
+
+.quote-body {
+	border: solid;
+	background-color:rgb(255, 247, 237);
+	border-radius:.5rem;
+	border-color: $ucsd-gold; //rgb(69, 26, 3);
+	border-width: 2px;
+	padding-left:1.25rem;
+	padding-right:1.25rem;
+	padding-top: 1.25em;
+	margin-bottom: 1.25em;
+}
+
+.commentary-author {
+	background-color:$ucsd-blue; //rgb(69, 26, 3);
+	color: white;
+	letter-spacing:.025em;
+	font-feature-settings:"smcp";
+	font-weight:700;
+	padding:.25rem;
+	padding-left:.5rem;
+	padding-right:.5rem;
+	font-variant: small-caps;
+	border-radius:.5rem;
+	width: fit-content;
+	left: 1.75rem;
+	position:relative;
+	top: 1rem;
+}
+
+.commentary-body {
+	border: solid;
+	background-color:rgb(237, 243, 255);
+	border-radius:.5rem;
+	border-color: $ucsd-blue; //rgb(69, 26, 3);
+	border-width: 2px;
+	padding-left:1.25rem;
+	padding-right:1.25rem;
+	padding-top: 1.25em;
+	margin-bottom: 1.25em;
+}
+
+// for figure captions
+.caption {
+	text-align: center;
+	margin-top: 1em;
+	font-weight: bold;
+}
+
+// details
+summary {
+	margin: 1rem auto;
+	padding: 0 1rem;
+	// border: 2px solid transparent;
+	border-radius: 0.5em;
+	outline: none;
+	display: block;
+	background: $ucsd-blue;
+	color: white;
+	padding-left: 2.2rem;
+	position: relative;
+	cursor: pointer;
+
+	// remove Hugo markdown parsing bottom margin
+	> :last-child {
+		margin-bottom: 0rem;
+	  }
+  }
+  details {
+	outline: none;
+	box-sizing: border-box;
+	margin-top: .25em;
+  }
+  details summary::-webkit-details-marker {
+	display:none;
+  }
+  details[open] > summary:before {
+	transform: rotate(90deg);
+  }
+  // animate arrow
+  summary:before {
+	content: '';
+	border-width: .4rem;
+	border-style: solid;
+	border-color: transparent transparent transparent #fff;
+	position: absolute;
+	top: 1.3rem;
+	left: 1rem;
+	transform: rotate(0);
+	transform-origin: .2rem 50%;
+	transition: .25s transform ease;
+  }
