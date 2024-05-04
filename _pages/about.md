@@ -10,14 +10,16 @@ redirect_from:
 
 I am Haozhe Ji, a penultimate-year Ph.D. student from [CoAI Group](http://coai.cs.tsinghua.edu.cn/) in the Dept. of Computer Science and Technology, Tsinghua University, advised by [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml/). Prior to that, I received my B.Eng. degree from the Dept. of Electronic Engineering, Tsinghua University. Please find my **CV here** [[English](files/cv_haozhe_en.pdf)].
 
+My research interests center around developing **theoretically grounded and scalable algorithms** to improve neural language models on **natural language generation** and **language model alignment**. 
 
-My current research interests are focused on the **theoretical foundations** and **scalable algorithms** for generative language models, aiming to develop *verifiable*, *consistent* and *robust* AI systems capable of generating natural language indistinguishable from that of humans.
+Specifically, my current research focused to address the **distribution mis-specification** due to the expressivity limitation of Auto-Regressive Modeling (ARM) and the inherent bias of Maximum Likelihood Estimation (MLE).
 
-Specifically, my research is theoretically motivated to advance language models beyond the inherent limitations of **Auto-Regressive (AR) modeling** and **Maximum Likelihood Estimation (MLE) objective** by providing practical and scalable solutions.
 
-- To overcome the capacity limitation of AR models, my research delves into a broader spectrum of expressive model families, including semi-parametric models {% glossary grf, display: 8%}, memory-augmented models {% glossary lamemo, display: 5%}, latent variable models {% glossary discodvt, display: 6%} and energy-based models {% glossary Daemon, display: 2%}.
+- To overcome the expressivity limitation of ARM, my research considered a broader spectrum of expressive model families, including semi-parametric models {% glossary grf, display: 8%}, memory-augmented models {% glossary lamemo, display: 5%}, latent variable models {% glossary discodvt, display: 6%} and energy-based models {% glossary Daemon, display: 2%}.
+    
+    
+- To tackle the inherent bias of MLE, my research proposed theoretically grounded and practically accessible training objectives {% glossary EXO, display: 1%}{% glossary TaiLr, display: 3%} and decoding frameworks {% glossary Daemon, display: 2%}, aiming to achieve better alignment with human language.
 
-- To tackle the biases inherent in the conventional MLE objective, my research introduces theoretically grounded and practically accessible training objectives {% glossary EXO, display: 1%}{% glossary TaiLr, display: 3%} and decoding frameworks {% glossary Daemon, display: 2%}, aiming to achieve better alignment with human language.
 
 
 
@@ -28,17 +30,18 @@ Specifically, my research is theoretically motivated to advance language models 
 1. **Haozhe Ji**, Cheng Lu, Yilin Niu, Pei Ke, Hongning Wang, Jun Zhu, Jie Tang, Minlie Huang. <br>
 **Towards Efficient and Exact Optimization of Language Model Alignment**.
 <br> 
-<u>arXiv:2402.00856.</u> <br>
+<u>International Conference on Machine Learning 
+<em>ICML 2024</em>.</u> <br>
 [[paper]](https://arxiv.org/abs/2402.00856) [[repo]](https://github.com/haozheji/exact-optimization)
 
 2. **Haozhe Ji**, Pei Ke, Hongning Wang, Minlie Huang. <br>
 **Language Model Decoding as Direct Metrics Optimization**. <br>
-<u>The Twelfth International Conference on Learning Representations, <em>ICLR 2024</em>.</u> <br>
+<u>International Conference on Learning Representations, <em>ICLR 2024</em>.</u> <br>
 [[paper]](https://arxiv.org/abs/2310.01041)
 
 3. **Haozhe Ji**, Pei Ke, Zhipeng Hu, Rongsheng Zhang, Minlie Huang. <br>
 **Tailoring Language Generation Models under Total Variation Distance**. <br>
-<u>The Eleventh International Conference on Learning Representations, <em>ICLR 2023</em>. <br> <strong><font color=red bold>(Notable top 5%)</font></strong></u> <br>
+<u>International Conference on Learning Representations, <em>ICLR 2023</em>. <br> <strong><font color=red bold>(Notable top 5%)</font></strong></u> <br>
 [[paper]](https://openreview.net/forum?id=VELL0PlWfc) [[repo]](https://github.com/thu-coai/TaiLr)
 
 4. Pei Ke, **Haozhe Ji**, Zhenyu Yang, Yi Huang, Junlan Feng, Xiaoyan Zhu, Minlie Huang. <br>
