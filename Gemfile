@@ -15,7 +15,7 @@ gem "github-pages", group: :jekyll_plugins
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
-ruby "3.1.3"
+ruby "3.1.0"
 
 # TravisCI
 gem "rake", "~> 12"
