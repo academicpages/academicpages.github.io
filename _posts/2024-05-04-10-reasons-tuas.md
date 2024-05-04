@@ -3,7 +3,7 @@ title: "10 reasons I chose to join Triton UAS"
 permalink: /10-reasons
 redirect_from:
   - /10
-date: 2024-05-03
+date: 2024-05-04
 tags:
   - undergrad
 header:
