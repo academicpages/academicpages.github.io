@@ -2,7 +2,7 @@
 title: "Cryptanalysis of McEliece"
 collection: talks
 type: "Talk"
-permalink: /talks/2022-02-09-talk-1
+permalink: /talks/Cryptanalysis-McEliece
 venue: "Bachelor Thesis Presentation"
 date: 2022-02-09
 location: "Ruhr University Bochum, Germany"
