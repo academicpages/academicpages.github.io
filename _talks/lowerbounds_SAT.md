@@ -8,4 +8,4 @@ date: 2023-07-05
 location: "Ruhr University Bochum, Germany"
 ---
 
-You can find the slides [here](http://alexkulpe.github.io/files/lowerbounds_SAT.pdf).
+You can find the german slides [here](http://alexkulpe.github.io/files/lowerbounds_SAT.pdf).
