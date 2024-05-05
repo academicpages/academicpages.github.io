@@ -2,7 +2,7 @@
 title: "Conditional lower bounds based on SAT"
 collection: talks
 type: "Talk"
-permalink: /talks/2023-07-05-talk-1
+permalink: /talks/lowerbounds_SAT
 venue: "Satisfiability Seminar"
 date: 2023-07-05
 location: "Ruhr University Bochum, Germany"
