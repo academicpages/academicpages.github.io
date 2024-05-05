@@ -11,23 +11,37 @@ redirect_from:
 
 Education
 ======
+
+* PhD Student in Quantum Information and Cryprography, 2024-2027 (expected)
+  * Supervisors: [Prof. Dr. Michael Walter](https://qi.rub.de/walter), [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/)
+  * working on the DFG-funded CASA Fundamental Research Project "Robust Certification of Quantum Devices"
 * M.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2022-2024 (expected)
-  * current GPA: very good (0.7)
+  * current GPA: excellent (0.8)
+  * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
+  * Thesis Grade: very good (1.0)
+  * Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
 * M.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2022-2024
   * Grade: excellent (99%)
   * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
+  * Thesis Grade: excellent (99%)
   * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
 * B.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2018-2022
   * Grade: very good (91%)
   * Thesis: Cryptanalysis of McEliece
+  * Thesis Grade: excellent (95%)
   * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
 * B.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2018-2022
   * Grade: very good (1.4)
   * Thesis: Cryptanalysis of McEliece
+  * Thesis Grade: very good (1.0)
   * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
 
 Work experience
 ======
+* 2024-2027: Research Assistant & PhD Student
+  * Quantum Information, Ruhr University Bochum / Hub A, CASA - Cybersecurity in the Age of Large-Scale Adversaries
+  * working on the DFG-funded CASA Fundamental Research Project "Robust Certification of Quantum Devices"
+
 * 2019-2024: Student Assistant / Graduate Assistant
   * Ruhr University Bochum
   * Corrector:
