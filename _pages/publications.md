@@ -10,9 +10,13 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 # Conference Papers
 ## 2024
+* **Efficient Decentralized Federated Singular Vector Decomposition** <br>
+Di Chai, Junxue Zhang, Liu Yang, **Yilun Jin**, Leye Wang, Kai Chen, Qiang Yang. <br>
+To Appear in *the 2024 USENIX Annual Technical Conference (ATC)*, 2024. 
+
 * **Understanding Communication Characteristics of Distributed Training** <br>
 Wenxue Li, Xiangzhou Liu, Yuxuan Li, **Yilun Jin**, Han Tian, Zhizhen Zhong, Guyue Liu, Ying Zhang, Kai Chen. <br>
-To Appear in *the 8th Asia-Pacific Workshop on Networking (APNet)*, 2024
+To Appear in *the 8th Asia-Pacific Workshop on Networking (APNet)*, 2024. 
 
 * **Accelerating Privacy-Preserving Machine Learning With GeniBatch** \[[pdf](https://kl4805.github.io/files/genibatch.pdf)\]<br>
 Xinyang Huang, Junxue Zhang, Xiaodian Cheng, Hong Zhang, **Yilun Jin**, Shuihai Hu, Han Tian, Kai Chen. <br>
