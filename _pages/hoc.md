@@ -71,7 +71,10 @@ Recommended Books and Papers (NB: I have not followed the latest research.)
 * History of Theoretical Computer Science (Program Semantics, ,,,,)
     * 
     * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
+    * Toma Kawanishi, "Prehistory of Switching Theory in Japan:Akira Nakashima and His Relay-circuit Theory."(2019)
     * Martin Davis, *The Universal Computer: The Road from Leibniz to Turing* 『万能コンピュータ：ライプニッツからチューリングへの道すじ』
+* History of Software
+  *   
   
 * Philosophy of Computing
   * "Philosophy of science without history of science is empty; history of science without philosophy of science is blind." (I. Lakatos, The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
@@ -105,6 +108,7 @@ Recommended Books and Papers (NB: I have not followed the latest research.)
     * Nathan L. Ensmenger, *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise*
     * Mar Hicks, *Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing*
     * Janet Abbate, *Recoding Gender: Women's Changing Participation in Computing*
+    * Nathalia Holt, *Rise of the Rocket Girls - The Women Who Propelled Us, From Missiles to the Moon to Mars* 『ロケットガールの誕生ーコンピューターになった女性たち』
   * Cultural History
     * Scott Selisker, *Huma Programming: Brainwashing, Automatons, and American Unfreedom*, 2016
     
@@ -140,6 +144,9 @@ Recommended Books and Papers (NB: I have not followed the latest research.)
   
 * Other studies that may be helpful
   * Ruth Schwartz Cowan, *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
+  * Ben Allen, "Critical approaches to the materiality of source code: between text and machine." (2017)
+    * PhD thesis @ Stanford University, advised by Andrea Lunsford and Thomas Mullaney
+  * Mark C. Marino, *Critical Code Studies* (2020)
   * Daniel R. Headrick, *When Information Came of Age: Technologies of Knowledge in the Age of Reason and Revolution, 1700-1850*『情報時代の到来：「理性と革命の時代」における知識のテクノロジー』
     * History of information systems, history of information (≠ knowledge) transmission
   * Alfred W. Crosby, *The Measure of Reality: Quantification in Western Europe, 1250-1600*『数量化革命：ヨーロッパ覇権をもたらした世界観の誕生』
@@ -152,7 +159,9 @@ Recommended Books and Papers (NB: I have not followed the latest research.)
     * 日本でコンピューティング史をしている研究者大集結．
   * 『コンピュータ理論の起源[第１巻]：チューリング』
     * 第2巻はノイマンとのこと．
-  * 『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いだろう
+  *
+  *
+  * 『コンピューティング史』巻末の杉本舞先生による「解題と読書リスト」をまず確認すると良いだろう．『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いかもしれない．
   
 Historians of Computing (partial)
 ======
@@ -166,6 +175,11 @@ Primary Source
 ======
 * Martin Davis, Undecidability: Basic Papers on Problems Propositions Unsolvable Problems and Computable Functions
 *
+* Gottfried Wilhelm Leibniz, 
+  * Machina arithmetica in qua non aditio tantum et subtractio sed et multiplicatio nullo, divisio vero paene nullo animi labore peragantur, 1685「加減乗除が楽にできる算術機械」
+  * Mira numerorum omnium expressio per 1 et 0, repraesentans rerum originem ex Deo et Nihilo, seu Mysterium creationis, 1696「すべての数を1と0によって表す驚くべき表記法．これは事物が神と無から由来すること，すなわち創造の神秘，を表現している」
+  * Brevis descriptio Machinae Arithmeticae, 1710「算術計算機についての概説」
+  *
 *
 
 Useful Links
@@ -175,6 +189,8 @@ Useful Links
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
   * [Academician A. Ershov’s archive](http://ershov.iis.nsk.su/en/index)
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
+  * 
+  * [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
 
 Others
 ======  
