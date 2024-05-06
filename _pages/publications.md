@@ -5,19 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+9\. **Ma K**. Exploring the Influence of Social Compensation Design on General Acceptance of Chinese Older Adults Using Social Media in the Context of Smart Home. *Computers in Human Behavior*. **(Working Paper)** 
 
+8\. **Ma K**. Development and Validation of Social Compensation Design Scale for Urban Older Users in the Context of Smart Home Social Media. *Behaviour & Information Technology*. **(Under Review)**
 
 7\. **Ma K**. Development of an extended TAM model for enabling online social experience with smart home displays for older adults. *The Design Journal* (2024) 27:368-379. doi: 10.1080/14606925.2024.2313290. **(A&HCI, 设计学顶刊)** [[link]](https://www.tandfonline.com/doi/full/10.1080/14606925.2024.2313290)
 
-
 6\. **Ma K**, Gao M, Guida FE, He R. Understanding the Influencing Factors and Mechanism of Social Compensation for Chinese Older Adults Using Social Media in the Context of Smart Home: A Qualitative Analysis. *Frontiers in Public Health* (2023) 11:1-20. doi: 10.3389/fpubh.2023.1174920. **(SCI&SSCI, JCR Q1, IF=5.2)** [[link]](https://www.frontiersin.org/articles/10.3389/fpubh.2023.1174920/full)
-
 
 5\. Gao M, **Ma K**, He R, Vezzoli C, Li N. A Bibliometric Analysis of Sustainable Product Design Methods from 1999 to 2022: Trends, Progress, and Disparities between China and the Rest of the World. *Sustainability* (2023) 15:1-24. doi: 10.3390/su151612440. **(SCI&SSCI, JCR Q2, IF=3.9)** [[link]](https://www.mdpi.com/2071-1050/15/16/12440)
 
-
 4\. Gao M, He R, Vezzoli C, **Ma K**, Zhang Y. Characterizing and Defining of Designing Sustainable Product-Service Systems Applied to Distributed Water-Energy-Food Nexus. *Frontiers in Environmental Science* (2022) 10:1–14. doi: 10.3389/fenvs.2022.864281. **(SCI, JCR Q2, IF=4.6)** [[link]](https://www.frontiersin.org/article/10.3389/fenvs.2022.864281)
-
 
 3\. 郝涔钧, 何人可, 尹璐, **马可**. 基于情感化交互的家用扫地机器人故障表达. *包装工程* (2022) 43:98-105+115. doi: 10.19554/j.cnki.1001-3563.2022.02.013. **(中文核心)** [[link]](https://kns.cnki.net/kcms2/article/abstract?v=PhqKDHt8vRBUvp3m0UU1FLIWxYg3NkvajNmIX2YK7iLfiZc_C1EsYYITTcXL2P2x2vxnQG6nRnnlbl8asGkvY-Db10atAltx5cswaSVy8QCutkGn7a10zk4SkOpiKuilDS4dUOtCo3Hn2EmuQScbwQ==&uniplatform=NZKPT&language=CHS)
 
