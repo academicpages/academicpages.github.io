@@ -5,6 +5,5 @@ collection: solving
 ---
 
 
-1. a very usefull tool, .shp to json. [here](https://mapshaper.org/)
-2. visual geo: [(1)kepler](https://kepler.gl/demo), [(2)flowmap](https://www.flowmap.blue/)
-  
+1. very usefull refer. [here](https://juejin.cn/post/6953893780080721956)
+    
