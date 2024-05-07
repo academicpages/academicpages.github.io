@@ -18,6 +18,7 @@ nav_order: 5
 
 ### UNC Chapel Hill (Undergraduate)
 
+*Mathematics*
 - Numerical Techniques (PHYS 331)
 - Physical Modeling (PHYS 358)
 - Mathematical Methods I & II (ODEs II, Fourier Analysis, Partial Differential Equations, Complex Analysis) (MATH 529 & 529)
@@ -26,3 +27,15 @@ nav_order: 5
 - Ordinary Differential Equations (ODEs) (MATH 383H)
 - Multivariable and Vector Calculus (MATH 233H)
 - Probability (MATH 535)
+
+*Physics*
+
+- Quantum Mechanics I & II
+- Quantum Computing
+- Electromagnetism I & II
+- Thermodynamics and Statistical Mechanics
+- Cosmology
+- Classical Mechanics
+- Astrophysics
+- Observational Astronomy/Astronomical Data
+- Experimental Techniques
