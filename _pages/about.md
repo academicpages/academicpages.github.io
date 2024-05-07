@@ -8,23 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-I am Owen Xingjian Zhang, a senior undergrad student studying CS & Math in [University of Illinois, Urbana-Champaign](https://cs.illinois.edu/). Currently, I am interested in Social Computing and Human Computer Interaction(HCI), working under the supervision of [Prof. Karrie Karahalios](https://cs.illinois.edu/about/people/faculty/kkarahal) at Social Space Lab, [Prof. Brian Bailey](https://cs.illinois.edu/about/people/faculty/bpbailey) at Orchid Lab, and [Prof. Andrés Monroy-Hernández](https://www.andresmh.com/) at Princeton HCI. Before coming to US, I studied in [The Hong Kong Polytechnic Univeristy](https://www.polyu.edu.hk/en/) and I was born in Guiyang, China.
+I am Owen Xingjian Zhang, a CS grad student at Princeton University. Currently, I am interested in Social Computing and Human Computer Interaction(HCI), working with [Prof. Andrés Monroy-Hernández](https://www.andresmh.com/) at [Princeton HCI](https://hci.princeton.edu/). I graduated from UIUC in 2023, where I was fortunate to be advised by [Prof. Karrie Karahalios](https://cs.illinois.edu/about/people/faculty/kkarahal) at Social Space Lab and [Prof. Brian Bailey](https://cs.illinois.edu/about/people/faculty/bpbailey) at Orchid Lab. Before coming to US, I studied in Hong Kong and I was born in Guiyang, China.
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 
-Research Interest
+Research Interests
 ======
-I am primarily curious about how social technologies form people's persona and shape their behaviors, how they can enhance the representation of minorities, and how they can improve teamwork efficiency. Specifically, I am interested in 
-1. Studying people's behavior as they experience different online social signals
-2. Implementing tools and proposing suggestions to enhance the representation of minorities
-3. Investigating ways to improve work efficiency and transform the future of work.
+**Social Computing, Social Media, Mental Health, Human-AI Interaction, Decentralization, Computational Social Science**
 
-**Currently, I am searching for HCI PhD positions 2023 Fall.**
+I have a broad interest in these areas, and at a deeper level, I am eager to explore answers to the following questions:
+
+1. How can we design scalable and accessible mental health services using the power of emerging technologies like Generative AI?
+
+1. What are the challenges and opportunities for the future of social media, especially on decentralized platforms?
+
+1. What is the best way for AI to emulate and interact with humans to provide support that feels genuinely human-like?
+
+**Currently, I am searching for HCI-related PhD positions 2025 Fall.**
 
 
 About my name
 ======
-Most of people call me **Owen**, but I would like to introduce my Chinese name: 行健(Xingjian). It means the strong and robust movement as a requirement for gentlemen, which comes from a quote in [I Ching](https://en.wikipedia.org/wiki/I_Ching), a 3000-year-old ancient Chinese divination.
+Most of people call me **Owen**, but I would like to introduce my Chinese name: **行健(Xingjian)**. Fun fact: there is another Chinese-French novelist shares the same name, and he is the [Nobel Laureate in Literature in 2000](https://en.wikipedia.org/wiki/Gao_Xingjian), the year I was born. "Xingjian" means the strong and robust movement as a requirement for gentlemen, which comes from a quote in [I Ching](https://en.wikipedia.org/wiki/I_Ching), a 3000-year-old ancient Chinese divination.
 Example: The full sentence:
 ![The full sentence](/Xingjian.jpg)
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->

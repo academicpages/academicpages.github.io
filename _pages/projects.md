@@ -15,19 +15,21 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**Owen Xingjian Zhang**, Shuyao Zhou, Jiayi Geng, Yuhan Liu. Dr. GPT in Campus Counseling: Understanding Higher Education Students’ Opinions on LLM-assisted Mental Health Services. Plan to submit to CSCW 2025.
 
 Yi-Shyuan Chiang*, Ho Shan (Sharon) Lam*, **Xingjian Zhang**, Eshwar Chandrasekharan. Crumbl: An awareness enhancing tool
-for cookie collection. [SOUPS 2022 Posters](/_pages/poster.pdf) [Full Paper](https://www.usenix.org/system/files/soups2022-poster53_chiang_abstract_final.pdf)
+for cookie collection. SOUPS 2022 [Posters](/_pages/poster.pdf),  [Link](https://www.usenix.org/system/files/soups2022-poster53_chiang_abstract_final.pdf)
 
-Yuhan Liu, **Xingjian Zhang**, Mariana Consuelo Fernandez, Vibhav Nanda, Ankhitha Manjunatha, Alexander Yang, Orestis
-Papakyriakopoulos, Andrés Monroy-Hernández. Mapping out the Ecosystem of Independent Food Delivery Platforms. Plan to
-submit to CSCW 2023.
+Yuhan Liu, **Owen Xingjian Zhang**, Mariana Consuelo Fernandez, Vibhav Nanda, Ankhitha Manjunatha, Alexander Yang, Orestis
+Papakyriakopoulos, Andrés Monroy-Hernández. Mapping out the Ecosystem of Independent Food Delivery Platforms. Accepted as CSCW 2024 Full Paper. [Link](https://arxiv.org/abs/2402.14159)
 
-**Xingjian Zhang**, Tiffany Li, Karrie Karahalios. The change of attitudes and perceived effectiveness in first-time online instructors
-during Covid19. Plan to submit to CSCW 2024.
+**Owen Xingjian Zhang**, Tiffany Li, Karrie Karahalios. The change of attitudes and perceived effectiveness in first-time online instructors
+during Covid19. Senior Thesis. [Link](senior_thesis.pdf)
 
-Maggie Mengqing Zhang, **Xingjian Zhang**. “Pictures tell a thousand words”: using computer vision to explore trolls’ visual
-strategies. CVSS 2022 Workshop. Plan to submit to CHI 2023 Late Breaking Work.
+Maggie Mengqing Zhang, **Owen Xingjian Zhang**. “Pictures tell a thousand words”: using computer vision to explore trolls’ visual
+strategies. Accepted in CVSS 2022 Workshop.
+
+Blog: Five Themes Discussed at Princeton’s Workshop on Decentralized Social Media [Link](https://freedom-to-tinker.com/2024/03/19/five-themes-discussed-at-princetons-workshop-on-decentralized-social-media/)
 
 Project: Graph Visualization on Music App [Video](https://www.youtube.com/watch?v=gTI0JKvbVX8)
 
