@@ -91,7 +91,7 @@ I am currently a Ph.D. student of the [Department of Computing](https://www.poly
 <br>&nbsp;&nbsp;&nbsp;University of Edinburgh
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Elizabeth Polgreen](https://polgreen.github.io/)
 
-+ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <small>2016.09 - 2020.06</small>
++ <img align="left" decoding="async" src="/images/whu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;BEng in Computer Science and Technology | <small>2017.09 - 2020.06</small>
 <br>&nbsp;&nbsp;&nbsp;Wuhan University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Huajun Liu](http://csold.whu.edu.cn/teacherinfo.aspx?id=303)
 
