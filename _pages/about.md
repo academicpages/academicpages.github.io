@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Feb 26, 2024] Invited as TPC member of 2nd International Conference on AI-generated Content (AIGC 2024), 2024.</span>
 - <span style="font-size: 16px;">[Apr 17, 2024] Invited as a book reviewer in the Neuro-symbolic AI area for Wiley-IEEE Press, 2024.</span>
 - <span style="font-size: 16px;">[Feb 26-28, 2024] Presented live demo on 'Explainable Graph Reinforcement Learning' at Mobile world Congress (MWC), 2024.</span>
 - <span style="font-size: 16px;">[Feb 26, 2024] Invited as TPC member of 2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2024), 2024.</span>
