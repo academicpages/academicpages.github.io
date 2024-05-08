@@ -178,7 +178,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"> IEEE Robotics and Automation Letters (RA-L)</a> 
   </li>
   <li> 
-  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a> and <a href="https://www.tahri.org/"> Technological Advances in Human-Robot Interaction </a>
+  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a> and <a href="https://www.tahri.org/"> International Symposium on Technological Advances in Human-Robot Interaction </a>
   </li>
   <li> 
   2021: Reviewed for <a href="https://aiplans.github.io/"> AIPLANS workshop at NeurIPS 2021 </a>
