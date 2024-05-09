@@ -9,6 +9,11 @@ Fábio's teaching activities have focused on various aspects of hydrology, inclu
 
 | Academic term    | Course | Level | Institution                                    |
 | --------         | ------ | -------------------------------------------------------|
+|2023.2|Hydropower Structures|Undergraduate|UFAL|
+|2023.2|Fluid Mechanics|Undergraduate|UFAL|
+|2023.2|Hydrology|Graduate|PPGRHS/UFAL|
+|2023.1|Hydropower Structures|Undergraduate|UFAL|
+|2023.1|Fluid Mechanics|Undergraduate|UFAL|
 |2023.1|Hydrology|Graduate|PPGRHS/UFAL|
 |2022.2|Hydropower Structures|Undergraduate|UFAL|
 |2022.2|Curriculum Extension Activities|Undergraduate|UFAL|
