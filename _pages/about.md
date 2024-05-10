@@ -12,10 +12,13 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***8th May 2024***
+> 
+> Our short paper "Propagating Large Language Models Programming Feedback" (first author) has been accepted as a Work In Progress at [L@S24](https://learningatscale.hosting.acm.org/las2024/).
 
 > ***16th April 2024***
 > 
-> Great news! Our paper "Using Program Repair as a Proxy for Language Models’ Feedback Ability in Programming Education" (first author) has been accepted at ([BEA]([https://iticse.acm.org/2024/](https://sig-edu.org/bea/2024))).
+> Great news! Our paper "Using Program Repair as a Proxy for Language Models’ Feedback Ability in Programming Education" (first author) has been accepted at [BEA24](https://sig-edu.org/bea/2024).
 
 
 > ***6th March 2024***
