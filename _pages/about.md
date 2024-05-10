@@ -17,12 +17,9 @@ As part of [his doctoral studies](https://www.lunduniversity.lu.se/lup/publicati
 
 Building upon his expertise, Fábio joined the [Department of Organismic and Evolutionary Biology at Harvard University](https://oeb.harvard.edu/), where he modified the Ecosystem Demography (ED) Model. He introduced a river routing scheme to simulate overland flow along river networks.
 
-Besides their expertise in Earth System modeling, Fábio has also excelled as a data scientist. Over the past 20 years, he has worked with various models, accessing and manipulating different types of data files. He has mastered the use of external datasets as boundary conditions for regional models and utilized data visualization platforms to analyze large datasets efficiently.
+He has worked with various models, accessing and manipulating different types of data files. He has mastered the use of external datasets as boundary conditions for regional models and utilized data visualization platforms to analyze large datasets efficiently.
 
-His ability to bridge the gap between science, education and policy formulation proved invaluable, as he has been teaching at [UFSC](https://ufsc.br/) (2015-2016) and [UFAL](https://ufal.br/) (2016-present) since 2015 and he has served as a spokesperson, organizing workshops to communicate research outcomes to policymakers, particularly in discussions surrounding hydropower development across terrestrial ecosystems.
+Fábio has been teaching at [UFSC](https://ufsc.br/) (2015-2016) and [UFAL](https://ufal.br/) (2016-present) and successfully led research projects in collaboration with universities in Sweden and the USA.
 
-Furthermore, Fábio has excelled as a global partnership coordinator, successfully leading research projects in collaboration with universities in Sweden and the USA.
+He possesses a strong academic background, with a bachelor's degree in Civil Engineering from [UFAL](https://ufal.br/), a master's degree in Water Resources Engineering from the [Instituto de Pesquisas Hidráulicas](https://www.ufrgs.br/iph/), and a doctoral degree from [Lund University's Division of Water Resources Engineering](https://www.tvrl.lth.se/english/).
 
-Fábio possesses a strong academic background, with a bachelor's degree in Civil Engineering from [UFAL](https://ufal.br/), a master's degree in Water Resources Engineering from the [Instituto de Pesquisas Hidráulicas](https://www.ufrgs.br/iph/), and a doctoral degree from [Lund University's Division of Water Resources Engineering](https://www.tvrl.lth.se/english/).
-
-With their extensive experience in Earth System modeling, data science, policy advocacy, and global partnerships, Fábio brings a unique skill set to contribute effectively to research and development in environmental sciences.

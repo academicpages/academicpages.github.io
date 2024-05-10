@@ -2,9 +2,9 @@
 title: "Integrating ecosystem models and hydrological routing for assessing climate change and land use impacts on surface hydrology"
 collection: talks
 type: "Seminar"
-permalink: /talks/2019-10-24-seminar-1
+permalink: /talks/24/10/2019-seminar-1
 venue: "Department of Physical Geography and Ecosystem Science (Nateko)"
-date: 2019-10-24
+date: 24/10/2019
 location: "Lund, Sweden"
 ---
 
