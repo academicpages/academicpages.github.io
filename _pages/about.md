@@ -88,7 +88,7 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
     </li>
 </ul>
 <ul>
-    <li>Multi-modal Program Inference: a Marriage of Pre-trained Language Models and Component-based Synthesis
+    <li>Multi-modal Program Inference: a Marriage of Large Language Models and Component-based Synthesis
     <br />
     <font size="3">
       (<b>Kia Rahmani</b>, Mohammad Raza, Sumit Gulwani, Vu Le, Daniel Morris, Arjun Radhakrishna, Gustavo Soares, Ashish Tiwari)
