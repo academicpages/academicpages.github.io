@@ -18,7 +18,7 @@ Publications
 ---
 <ol>
   <li>
-    The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) <i>Review of International Organizations</i> (<a href =https://link.springer.com/article/10.1007/s11558-024-09543-6>link</a>)  <a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>
+    The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) <i>Review of International Organizations</i> (<a href=https://link.springer.com/article/10.1007/s11558-024-09543-6>link</a>)  <a href="https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>
 <details>
   <summary><i>Abstract</i></summary>
   
