@@ -1,4 +1,4 @@
----
+****---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -16,16 +16,19 @@ author_profile: true
 
 Publications
 ---
-2. The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (Conditionally accepted at <i>Review of International Organizations</i>)  <a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>
+<ol>
+  <li>
+    The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) (Conditionally accepted at <i>Review of International Organizations</i>)  <a href= "https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>
 <details>
   <summary><i>Abstract</i></summary>
   
 States use symbolic gestures to increase their international status, or relative position, within the international community. But how do the status-seeking actions of one state a ect the status of others? The common assumption is that improvements in one state's status lead to the relative deterioration of other states' status by comparison. In this paper, we focus on status' social qualities to delineate multiple theoretical pathways through which one state's status can change -- or not -- relative to another. Status is not conferred in a vacuum and the consequences of status-altering activities may spill over to third-parties. We field an original survey and reanalyze several existing studies to understand how relative status operates in the case of foreign aid; these surveys reveal novel empirical patterns about the circumstances under which a state's status will change relative to other states. We extend the analysis to examine who updates perceptions, what actions change status, and for whom status changes. Our findings suggest that status-enhancing actions may be successful at augmenting status amongst peers, but ultimately unsuccessful at changing global hierarchies.
-</details>
+</details> 
+</li>
 
 <p>
 <p>
-
+<li>
 1. Foreign Aid Withdrawals and Suspensions: Why, When and Are They Effective? Introductin to Special Issue on Foreign Aid Withdrawals and Suspensions (with <a href="https://www.birmingham.ac.uk/staff/profiles/gov/cheeseman-nic.aspx" >Nic Cheesemand</a> and <a href="http://haleyswedlund.com/" >Haley Swedlund</a>) <i>World Development</i>.
 Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/article/pii/S0305750X2400041X">link</a>) (<a href= "cobrienudry.github.io/files/WD_aid_withdrawal_intro.pdf">ungated</a>) 
 
@@ -35,7 +38,9 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
 • Aid suspensions follow a long chain of understudied political calculations and decisions by donors and recipients.
 • Further research is needed on the political calculations and options used by aid-receiving states to discipline donors.
 </details>
+</li>
 
+</ol>
 <p>
 <p>
   
