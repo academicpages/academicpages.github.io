@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yudai Urabe"
   avatar           : "profile.jpg"
-  bio              : "Fourth-year undergraduate student at Waseda University"
+  bio              : 
   location         : # "Location"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "grand@toki.waseda.jp"
+  email            : "urabe.y.aa@m.titech.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

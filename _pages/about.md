@@ -23,7 +23,8 @@ Under Construction!!!
 ======
 * I will update this website by late March&#128583;.
 
-Hi there! I am Yudai Urabe, a fourth-year undergraduate student at Waseda University in Japan. I majored in History of Science and minored in Computer Science (GPA: 3.9/4.0, valedictorian). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Formal Methods. [CV](http://yudaiurabe.github.io/files/YudaiUrabe_CV.pdf)
+Hi there! I am a research student in [the Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/) at the [Tokyo Institute of Technology](https://www.titech.ac.jp/english/about/organization/schools/organization04) in Japan. Before joining Tokyo Tech, I majored in History of Science and minored in Computer Science at [Waseda University](https://www.waseda.jp/top/en/) (GPA: 3.9/4.0, valedictorian). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Automata Theory. [CV](http://yudaiurabe.github.io/files/YudaiUrabe_CV.pdf)
+
 
 Miscellaneous
 ======
