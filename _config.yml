@@ -21,11 +21,11 @@ repository               : "nguyenhongphu/nguyenhongphu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "phu.png"
+  avatar           : "phu.JPG"
   name             : "This is Phu Nguyen"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Vietnam-Netherlands-Luxembourg-Norway-Earth"
+  bio              : "Dr. Phu Nguyen is a Senior Research Scientist at SINTEF, Norway"
+  location         : "VN-NL-LU-NO-Earth"
   employer         : "SINTEF Norway"
   uri              : https://www.linkedin.com/in/nguyenhongphu/
   email            : "firstname.lastname@sintef.no" 
