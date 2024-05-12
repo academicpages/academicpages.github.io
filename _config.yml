@@ -12,7 +12,7 @@ title                    : "Yuvraj's Portfolio"
 title_separator          : "-"
 name                     : &name "Yuvraj Singh"
 description              : &description "personal description"
-url                      :  https://yuvraj-singh-portfolio.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuvrajsingh-mist.github.io/yuvraj-singh-portfolio.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YuvrajSingh-mist/yuvraj-singh-portfolio.github.io"
 
