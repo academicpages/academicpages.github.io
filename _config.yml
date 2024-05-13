@@ -12,30 +12,30 @@ title                    : "Seung Deok Seo"
 title_separator          : "-"
 name                     : &name "Seung Deok Seo"
 description              : &description "Political Science PhD student"
-url                      : #https://seo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://seo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
-repository               : #"SeungDeokSEO/seo.github.io"
+repository               : "SeungDeokSEO/seo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SeungDeokSEO/seo.github.io/images/Untitled design (5).png.jpg"
+  avatar           : "images/Untitled design (5).png.jpg"
   name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
   bio              : "Political Science PhD student"
   location         : "Champaign"
-  employer         : "University of Illinois Urbana Champaign"
+  employer         : "University of Illinois"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : #"http://orcid.org/yourorcidurl"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
