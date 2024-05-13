@@ -26,3 +26,6 @@ You can learn more about me, like the fact that I practice surfing and climbing 
 * Machine Learning with Graphs
 * Robust Statistics
 * Privacy in Machine Learning
+
+## News
+* PhD position on Private and Byzantine-Robust Federated Learning [here](http://batistelb.github.io/files/PhD_federated_privacy_robustness.pdf). <sub><sup><span style="color:grey">13-05-2024</span></sup></sub>
