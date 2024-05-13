@@ -13,7 +13,7 @@ redirect_from:
 
 ------   
 
-+ [NN部署工程师的自我修养-cuda方向](https://github.com/lix19937/history/blob/main/faqs.md)      
++ [NN部署工程师的自我修养-cuda](https://github.com/lix19937/history/blob/main/faqs.md)      
     + [dnn](https://github.com/lix19937/dnn-cookbook)      
     + [tensorrt](https://github.com/lix19937/tensorrt-insight)      
       + [pytorch-quantization](https://github.com/lix19937/pytorch-quantization)   
@@ -22,8 +22,14 @@ redirect_from:
     + [utils](https://github.com/lix19937/utils)   
     + [cudaacc](https://github.com/lix19937/cudaacc)   
 
-+ [NN部署工程师的自我修养-qnn方向](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN部署工程师的自我修养-qnn](https://github.com/lix19937/snpe/blob/main/faqs.md)
 
++ [NN部署工程师的自我修养-onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
+
++ [NN部署工程师的自我修养-cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
+
++ [NN部署工程师的自我修养-pytorch](https://github.com/lix19937/snpe/blob/main/faqs.md)
+  
 + [大模型推理](https://github.com/lix19937/llm-deploy)      
 
 + [推理引擎](https://github.com/lix19937/xinfer)
