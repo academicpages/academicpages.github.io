@@ -21,14 +21,14 @@ repository               : "SeungDeokSEO/seo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Untitled design (5).png.jpg"
+  avatar           : "images/bio-photo.jpg"
   name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
   bio              : "Political Science PhD student"
   location         : "Champaign"
   employer         : "University of Illinois"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : #"none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
