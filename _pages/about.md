@@ -17,6 +17,7 @@ Hello and வணக்கம் 👋! I am **Prashant Govindarajan**, a second y
 Besides academics, I like watching and playing football, reading, and cooking (photos coming up soon!). Feel free to reach out to me if you wish to have a chat about research and beyond 😁! Also, I am always looking forward to strengthening my foundations in crystallography, density functional theory, and solid-state physics, and getting domain-related inputs for my research. So if you have a background in these areas or wish to discuss about the RL aspects of my research, I'd love to have a conversation some time!
 
 # News
+- <span style="color:red"> **May 2024**</span> Attended the [Sciencepreneurship Summer School](https://sciencepreneurship.ch/summer-school-2024) in EPFL, Switzerland, and our team won the first place in the pitch competition!
 - <span style="color:red"> **April 2024**</span> Passed my quals! I'm a PhD Candidate now!
 - <span style="color:red"> **March 2024**</span> Organizing MoML Conference (summer edition) for the second time ([MoML 2024](https://portal.ml4dd.com/moml-2024))!
 - <span style="color:red"> **January 2024**</span> [Learning Conditional Policies for Crystal Design Using Offline Reinforcement Learning](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00024b) accepted for the AI4Mat-2023 Digital Discovery Special Issue!
