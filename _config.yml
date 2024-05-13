@@ -12,9 +12,9 @@ title                    : "Seung Deok Seo"
 title_separator          : "-"
 name                     : &name "Seung Deok Seo"
 description              : &description "Political Science PhD student"
-url                      : https://seo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "SeungDeokSEO/seo.github.io"
+url                      : #https://seo.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
+repository               : #"SeungDeokSEO/seo.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
   bio              : "Political Science PhD student"
-  location         : "Champaign, IL, US"
+  location         : "Champaign"
   employer         : "University of Illinois Urbana Champaign"
   uri              : # URL
   email            : "none@example.org" 
