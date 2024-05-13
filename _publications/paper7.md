@@ -1,0 +1,12 @@
+---
+title: "SEEKR2: Versatile Multiscale Milestoning Utilizing the OpenMM Molecular Dynamics Engine"
+collection: publications
+permalink: /publication/paper7
+excerpt: 'We present SEEKR2 (simulation-enabled estimation of kinetic rates version 2)─the latest iteration in the family of SEEKR programs for using multiscale simulation methods to computationally estimate the kinetics and thermodynamics of molecular processes, in particular, ligand-receptor binding. SEEKR2 generates equivalent, or improved, results compared to the earlier versions of SEEKR but with significant increases in speed and capabilities. SEEKR2 has also been built with greater ease of usability and with extensible features to enable future expansions of the method. Now, in addition to supporting simulations using NAMD, calculations may be run with the fast and extensible OpenMM simulation engine. The Brownian dynamics portion of the calculation has also been upgraded to Browndye 2. Furthermore, this version of SEEKR supports hydrogen mass repartitioning, which significantly reduces computational cost, while showing little, if any, loss of accuracy in the predicted kinetics.'
+date: 2022-06-27
+venue: 'Journal of Chemical Theory and Computation, ACS'
+paperurl: '/files/paper7.pdf'
+citation: 'Lane W. Votapka, Andrew M. Stokely, Anupam A. Ojha, and Rommie E. Amaro. "SEEKR2: Versatile multiscale milestoning utilizing the OpenMM molecular dynamics engine." Journal of chemical information and modeling 62, no. 13 (2022): 3253-3262.'
+---
+
+We present SEEKR2 (simulation-enabled estimation of kinetic rates version 2)─the latest iteration in the family of SEEKR programs for using multiscale simulation methods to computationally estimate the kinetics and thermodynamics of molecular processes, in particular, ligand-receptor binding. SEEKR2 generates equivalent, or improved, results compared to the earlier versions of SEEKR but with significant increases in speed and capabilities. SEEKR2 has also been built with greater ease of usability and with extensible features to enable future expansions of the method. Now, in addition to supporting simulations using NAMD, calculations may be run with the fast and extensible OpenMM simulation engine. The Brownian dynamics portion of the calculation has also been upgraded to Browndye 2. Furthermore, this version of SEEKR supports hydrogen mass repartitioning, which significantly reduces computational cost, while showing little, if any, loss of accuracy in the predicted kinetics.

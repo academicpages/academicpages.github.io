@@ -1,0 +1,12 @@
+---
+title: "Predicting Ligand Binding Kinetics Using a Markovian Milestoning with Voronoi Tessellations Multiscale Approach"
+collection: publications
+permalink: /publication/paper4
+excerpt: 'Accurate and efficient computational predictions of ligand binding kinetics can be useful to inform drug discovery campaigns, particularly in the screening and lead optimization phases. Simulation enabled estimation of kinetic rates (SEEKR) is a multiscale molecular dynamics, Brownian dynamics, and milestoning simulation approach for calculating receptor–ligand association and dissociation rates. Here, we present the implementation of a Markovian milestoning with Voronoi tessellations approach that significantly reduces the simulation cost of calculations as well as further improving their parallelizability. The new approach is applied to a host–guest system to assess its effectiveness for rank-ordering compounds by kinetic rates and to the model protein system, trypsin, with the noncovalent inhibitor benzamidine. For both applications, we demonstrate that the new approach requires up to a factor of 10 less simulation time to achieve results with comparable or increased accuracy.'
+date: 2020-06-24
+venue: 'Journal of Chemical Theory and Computation, ACS'
+paperurl: '/files/paper4.pdf'
+citation: 'Benjamin R. Jagger, Anupam A. Ojha, and Rommie E. Amaro. "Predicting ligand binding kinetics using a Markovian milestoning with Voronoi tessellations multiscale approach." Journal of Chemical Theory and Computation 16, no. 8 (2020): 5348-5357.'
+---
+
+Accurate and efficient computational predictions of ligand binding kinetics can be useful to inform drug discovery campaigns, particularly in the screening and lead optimization phases. Simulation enabled estimation of kinetic rates (SEEKR) is a multiscale molecular dynamics, Brownian dynamics, and milestoning simulation approach for calculating receptor–ligand association and dissociation rates. Here, we present the implementation of a Markovian milestoning with Voronoi tessellations approach that significantly reduces the simulation cost of calculations as well as further improving their parallelizability. The new approach is applied to a host–guest system to assess its effectiveness for rank-ordering compounds by kinetic rates and to the model protein system, trypsin, with the noncovalent inhibitor benzamidine. For both applications, we demonstrate that the new approach requires up to a factor of 10 less simulation time to achieve results with comparable or increased accuracy.
