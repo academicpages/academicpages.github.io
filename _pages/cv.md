@@ -15,9 +15,16 @@ redirect_from:
 
 ## Experience
 
+### Sr DevOps Engineer
+#### Cyncly, Bangalore, India
+*March 2024 - Present*
+- Collaboration with developers to deploy API in microservice based architechture.
+- Branching strategy,Deployment strategy,approval mechanism ,DevOps Workflow design and setup.
+- Fine tuning resources to match the needs of AI Models and Cost optimization.
+
 ### DevOps Lead
 #### Tiger Analytics Pvt Ltd, Chennai, India
-*July 2022 - Present*
+*July 2022 - March 2024*
 - Accelerated deployment cycle through ETL pipeline automation for a BFS provider.
 - Implemented CI/CD automation in the Europe region, reducing manual deployment time by half.
 - Cut Data bricks costs by 35% using a microservice architecture on Azure for a global CPG brand.
@@ -86,24 +93,12 @@ Azure CLI, ARM, Python, Bash, PowerShell, Docker, Git, HCL, SonarQube, Kubernete
 
 ### MS in Data Science
 #### Liverpool John Moores University
-*Ongoing*, Liverpool, UK
+Liverpool, UK
 
 ### B. Tech in Electronics and Communication Engineering
 #### Seacom Engineering College
-*2021*, West Bengal, India
+West Bengal, India
 
 ### Diploma in Electronics and Telecommunication Engineering
 #### Ramakrishna Mission Shilpamandira
-*2017*, West Bengal, India
-
----
-
-## Personal Details
-- **Date of Birth:** 27th March 1996
-- **Gender:** Male
-
----
-
-
-**Contact Information:**
-- Email: [KunalDas@protonmail.com](mailto:KunalDas@protonmail.com)
+West Bengal, India
