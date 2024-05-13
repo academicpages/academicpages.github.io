@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Seung Deok"
+title                    : "Seung Deok Seo"
 title_separator          : "-"
 name                     : &name "Seung Deok Seo"
 description              : &description "Political Science PhD student"
@@ -22,10 +22,10 @@ repository               : "SeungDeokSEO/seo.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Seung Deok"
+  name             : "Seung Deok Seo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Political Science PhD student"
+  location         : "University of Illinois Urbana Champaign"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
