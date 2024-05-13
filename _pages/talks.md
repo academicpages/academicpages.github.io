@@ -5,7 +5,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-Here, I highlight some of my notable academic talks not published in any conference proceedings.
+Here, I highlight some of my notable academic talks and poster presentations not published in any conference proceedings.
+
+[**Nonparametric Network Causal Inference for Continuous Exposures in Mobile Source Air Pollution**](/files/talks/ACIC-Poster-2024.pdf)
+American Causal Inference Conference, May 2024
+
+[**Assumption-Lean Causal Inference for Mobile Source Air Pollution**](/files/talks/Balkus - NE-SRS-SDS-v2.pdf)
+ASA Boston Chapter Student Research Symposium on Statistics and Data Science, April 2024
 
 [**Improving Natural Language Classification with Augmented Data from GPT-3**](https://www.youtube.com/watch?v=hRlqtPYel4Y)  
 University of Massachusetts Dartmouth, April 2022

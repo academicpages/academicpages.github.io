@@ -11,6 +11,11 @@ For a complete listing, please refer to my [Google Scholar](https://scholar.goog
 
 Published
 ---
+
+[**Improving Short Text Classification With Augmented Data Using GPT-3**](https://www.cambridge.org/core/journals/natural-language-engineering/article/improving-short-text-classification-with-augmented-data-using-gpt3/4F23066E3F0156382190BD76DA9A7BA5)  
+Natural Language Engineering (2023).  
+**Balkus SV**, Yan D.  
+
 [**Federated Fuzzy Clustering for Longitudinal Health Data**](https://ieeexplore.ieee.org/abstract/document/9983621)  
 IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (2022).  
 **Balkus SV**, Fang H, Wang H.  
@@ -27,12 +32,7 @@ Gurugubelli VS, Fang H, Shikany JM, **Balkus SV**, Rumbut J, Ngo H, Wang H, Alli
 IEEE Internet of Things Journal (2021).  
 **Balkus SV**, Fang H, Rumbut R, Moormann A, Boyer E.  
 
-Submitted for Publication
----
 
-[**Improving Short Text Classification With Augmented Data Using GPT-3**](https://arxiv.org/abs/2205.10981)  
-submitted to Natural Language Engineering.  
-**Balkus SV**, Yan D.  
 
 {% include base_path %}
 
