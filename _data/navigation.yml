@@ -6,8 +6,8 @@ main:
   - title: "History of Computing"
     url: /hoc/
 
-  - title: "Graduation Thesis"
-    url: /gradthesis/
+#  - title: "Graduation Thesis"
+#    url: /gradthesis/
 
   - title: "Personal"
     url: /personal/
