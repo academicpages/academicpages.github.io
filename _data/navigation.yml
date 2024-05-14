@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Course information"
+    url: /Course-information/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Preparation"
+    url: /Preparation/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Lectures"
+    url: /Lectures/
+
+  - title: "Labs"
+    url: /Labs/
+
+  - title: "Labs answers"
+    url: /Labs-answers/
+
+  - title: "Assignments"
+    url: /Assignments/
+
+  - title: "Exam"
+    url: /Exam/
