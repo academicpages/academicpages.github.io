@@ -21,18 +21,18 @@ repository               : "tshahedi.github.io/adav-course/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "anastasia.png"
-  name             : "Anastasia Giachanou"
+  avatar           : #"anastasia.png"
+  name             : #"Anastasia Giachanou"
   pronouns         : # example: "she/her"
-  bio              : "Course coordinator"
-  location         : "Netherlands"
-  employer         : "Utrecht University"
-  uri              : "https://www.uu.nl/staff/AGiachanou/"
+  bio              : #"Course coordinator"
+  location         : #"Netherlands"
+  employer         : #"Utrecht University"
+  uri              : #"https://www.uu.nl/staff/AGiachanou/"
   email            : #
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=76trlH8AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=76trlH8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : anastasiaGiachanou
+  github           : #anastasiaGiachanou
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : anastasia-giachanou
+  linkedin         : #anastasia-giachanou
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
