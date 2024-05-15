@@ -46,7 +46,9 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-
+        {% if page.slidesurl %}
+          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Slides</a></p>
+        {% endif %}
         {% if page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
         {% elsif page.citation %}
