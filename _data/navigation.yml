@@ -12,8 +12,8 @@ main:
   - title: "Personal"
     url: /personal/
 
-  - title: "翻訳 (Translation)"
-    url: /tr/
+#  - title: "翻訳 (Translation)"
+#    url: /tr/
 
 #  - title: "Guide"
 #    url: /markdown/
