@@ -46,13 +46,17 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {% if page.slidesurl %}
-          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Slides</a></p>
-        {% endif %}
-        {% if page.citation and page.paperurl %}
+
+        {% if page.citation and page.paperurl and page.slidesurl %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a> <a href="{{ page.slidesurl }}">Slides</a></p>
+        {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+        {% elsif page.citation and page.slidesurl %}
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }} <a href="{{ page.slidesurl }}">Slides</a></p>
         {% elsif page.citation %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }} </p>
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
+        {% elsif page.slidesurl %}
+          <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Slides</a></p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
