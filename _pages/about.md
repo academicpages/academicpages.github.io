@@ -74,6 +74,8 @@ Recently, I am more focus on:
 * [Feb. 2021] Got one paper accepted at WWW 2021. 
 * [Aug. 2020] Got one paper accepted at EMNLP 2020. 
 </font> -->
+* [May. 2024] Thrilled to announce that [ChatDev](https://arxiv.org/abs/2307.07924) was accepted by ACL 2024.
+* [May. 2024] I will attend ICLR (vienna, Austria) conference. Let's grad a coffee. Welcome DM me via [Twitter]
 * [Mar. 2024] Invited Research Talk at [Microsoft Research - AI Frontiers](https://www.microsoft.com/en-us/research/lab/ai-frontiers/) hosted by [Guoqing Zheng](https://www.microsoft.com/en-us/research/people/zheng/). Topic: Efficient Tuning of Large-scale Pre-trained Language Models (LLMs) [[slide](https://drive.google.com/file/d/1zo5aGkeOw16PoUYPxjW_2xllAValW_1x/view?usp=sharing)]
 * [Feb. 2024] Invited Research Talk at [Microsoft Research - Semantic Machines](https://www.microsoft.com/en-us/research/group/semantic-machines/) hosted by [Ben Van Durme](https://www.microsoft.com/en-us/research/people/bevandur/). Topic: Next-Generation Co-pilot: From Assistant Agent to Autonomy Agent [[slide](https://drive.google.com/file/d/12M7O3cq8cJX7XXxUMG4IkkwuYP5s8nAh/view?usp=sharing)]
 * [Jan. 2024] Thrilled to announce that [AgentVerse](https://openreview.net/forum?id=EHg5GDnyq1) and [ChatEval](https://openreview.net/forum?id=FQepisCUWu) were accepted by ICLR 2024.
@@ -96,6 +98,10 @@ Recently, I am more focus on:
 
 
 ## Publications
+
+* <b>Communicative agents for software development</b>\
+*Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
+ACL 2024. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
 
 * <b>AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors in Agents</b>\
 *<b>Yusheng Su</b><sup><big>*</big></sup>, Weize Chen<sup><big>*</big></sup>, Jingwei Zuo, Cheng Yang, Chenfei Yuan, Chen Qian, Chi-Min Chan, Yujia Qin, Yaxi Lu, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou* (&nbsp;<sup><big>*</big></sup> indicates equal contribution)\
@@ -149,9 +155,6 @@ EMNLP 2020 Findings, AI OPEN 2021. [[pdf](https://arxiv.org/abs/2009.13964)] [[p
 *Yujia Qin, Shengding Hu, Yankai Lin, Weize Chen, Ning Ding, Ganqu Cui, Zheni Zeng, Yufei Huang, Chaojun Xiao, Chi Han, Yi Ren Fung, <b>Yusheng Su</b>, Huadong Wang, Cheng Qian, Runchu Tian, Kunlun Zhu, Shihao Liang, Xingyu Shen, Bokai Xu, Zhen Zhang, Yining Ye, Bowen Li, Ziwei Tang, Jing Yi, Yuzhang Zhu, Zhenning Dai, Lan Yan, Xin Cong, Yaxi Lu, Weilin Zhao, Yuxiang Huang, Junxi Yan, Xu Han, Xian Sun, Dahai Li, Jason Phang, Cheng Yang, Tongshuang Wu, Heng Ji, Zhiyuan Liu, Maosong Sun*\
 ArXiv 2023. [[pdf](https://arxiv.org/abs/2304.08354)] [[code](https://github.com/OpenBMB/BMTools)] 
 
-* <b>Communicative agents for software development</b>\
-*Chen Qian, Xin Cong, Cheng Yang, Weize Chen, <b>Yusheng Su</b>, Juyuan Xu, Zhiyuan Liu, Maosong Sun*\
-ArXiv 2023. [[pdf](https://arxiv.org/abs/2307.07924)] [[code](https://github.com/openbmb/chatdev)]
 
 
 
