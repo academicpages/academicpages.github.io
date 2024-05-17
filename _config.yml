@@ -16,24 +16,22 @@ url                      : https://github.com/Rheahu816/Rheahu.github.io # the b
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Hu Dianhan"
-  pronouns         : # example: "she/her"  
+  pronouns         : she/her 
   bio              : "Refuse to be bored"
   location         : "Changsha, Hunan, China"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : 
+  uri              : 
   email            : "1837105324@qq.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  arxiv            : 
+  googlescholar    : 
+  impactstory      : 
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -43,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Rheahu816/Rheahu.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
