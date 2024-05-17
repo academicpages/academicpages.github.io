@@ -26,7 +26,7 @@ This project focuses on enhancing machine learning models' adaptability and effe
 
 ### b) Domain Adaptation
 - [**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
-  _Preprint_  
+  _KDD 2024_  
 
 ### c) Domain Generalization
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
