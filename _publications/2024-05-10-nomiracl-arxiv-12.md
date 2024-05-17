@@ -1,9 +1,9 @@
 ---
 title: "NoMIRACL: Knowing When You Don't Know for Robust Multilingual Retrieval-Augmented Generation"
 collection: publications
-permalink: /publication/2024-05-17-nomiracl-arxiv-12
+permalink: /publication/2024-05-10-nomiracl-arxiv-12
 excerpt: 'A multlingual hallucination evaluation dataset for measuring LLM performance on non-answerable questions in RAG systems.'
-date: 2024-05-17
+date: 2024-05-10
 venue: 'Arxiv Preprint'
 paperurl: 'https://arxiv.org/abs/2312.11361'
 citation: ''
