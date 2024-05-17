@@ -12,16 +12,19 @@ My research interests lie within NLP and Information Retrieval. I like to study 
 In order to train neural retriever systems, large amounts of human-labeled training data is required which is often cumbersome and expensive to generate for real-world tasks. Data efficiency plays a crucial role to address this challenge. Transfer learning is motivated by distilling knowledge from pretrained models or LLMs to train data-efficient models. Data Augmentation techniques involve generating high-quality synthetic data for training purposes. Zero-shot learning enables models to generalize to unseen classes or queries without any training examples.
 
 ### :speaking_head: Languages: Multilingual Retrieval
-Multilingual Retrieval aims to provide relevant search results for user searching across multiple languages. Multilingual retrieval involves various challenges, including language mismatch, translation ambiguity, and language-specific resource limitations. To overcome these challenges, machine translation, cross-lingual IR and mulitilingual embeddings have been employed. However, training data for such tasks is even more scarce than English making it a important challenge.
+Multilingual Retrieval aims to provide relevant search results for user searching across multiple languages. Multilingual retrieval involves various challenges, including language mismatch, translation ambiguity, and language-specific resource limitations. To overcome these challenges, machine translation, cross-lingual IR and multilingual embeddings have been employed. However, training data for such tasks is even more scarce than English making it a important challenge.
 
 ## :scroll: Publications
 For an updated list of publications please refer either to my [Google Scholar profile](https://scholar.google.com/citations?user=CE9GJoMAAAAJ&hl=en) or [Semantic Scholar profile](https://www.semanticscholar.org/author/Nandan-Thakur/47583894). 
 
 \* denotes equal contribution
 
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+{% assign publications_by_year = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
 
-  {% for post in site.publications reversed%}
+{% for year in publications_by_year %}
+### {{ year.name }}
+<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+  {% for post in year.items %}
   <tr>
     <td style="border: none; padding:2.5%;width:25%;vertical-align:middle;max-width:100px;max-height:100px">
       <img src="/{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -60,3 +63,4 @@ For an updated list of publications please refer either to my [Google Scholar pr
   </tr>
   {% endfor %}
 </table>
+{% endfor %}
