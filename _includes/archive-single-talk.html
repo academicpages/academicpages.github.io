@@ -27,9 +27,9 @@
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
-        <a href="{{ post.permalink }}">{{ title }}</a> <a href="{{  post.permalink  }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        <a href="{{ post.permalink }}">{{ title }}</a> <a href="{{  post.permalink  }}" target="_blank" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.permalink }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.permalink }}" target="_blank" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
 

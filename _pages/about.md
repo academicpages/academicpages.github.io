@@ -1,16 +1,15 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my homepage!"
+excerpt: "Welcome to my homepage!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<br/>
+I am a Peruvian economist and MA Student at [UConn](https://uconn.edu/){:target="_blank"}-[El Instituto](https://elin.uconn.edu/){:target="_blank"}. I will apply to obtain a PhD in Economics in any program of high prestige to develop an academic career.
 
-B.A. in Economics from the [Universidad Nacional Mayor de San Marcos (UNMSM)](https://www.unmsm.edu.pe/la-universidad/historia#linea/) 
-with over 4 years of experience in applied research and teaching. I will apply to obtain a PhD in Economics in any program of high prestige to develop an academic career.
+My research interests are: Regional development, Economic geography, Urban economics, Economic history, Human capital.
 
-My research interests are: Regional development, Economic geography, Urban economics, Economic history, Human capital, Experimental economics, Mechanisms design. 
-
-You can contact me at <a href="mailto:luis.palomino1390@gmail.com?">luis.palomino1390@gmail.com</a>
+You can contact me at <a href="mailto:luis.palomino@uconn.edu?">luis.palomino@uconn.edu</a>

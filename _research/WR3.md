@@ -1,6 +1,6 @@
 ---
-title: "Estimation of GDP at the subnational level using satellite data of night lights: Peru 1993-2018"
-excerpt: "(With Bruno Seminario). <i>Universidad del Pacífico, Research Document</i>. Forthcoming. <b>(Original in Spanish)</b>"
+title: "Extractive industries, inequality and welfare in developing countries: Mining industry in Peru"
+excerpt: "With Gonzalo Delgado, Álvaro Paredes & Bruno Seminario"
 collection: research
 ---
 

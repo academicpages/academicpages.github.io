@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.permalink }}">{{ title }}</a> <a href="{{ post.permalink }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        <a href="{{ post.permalink }}" rel="permalink">{{ title }}</a>
+        <a href="{{ post.permalink }}" target="_blank" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
     
@@ -53,9 +53,9 @@
     {% endif %}
     
     {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      <p>{{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <p>{{ post.citation }} </p>
     {% elsif post.paperurl %}
       <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
     {% endif %}

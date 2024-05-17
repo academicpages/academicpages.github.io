@@ -1,6 +1,6 @@
 ---
-title: "How can we promote the use of learning platforms? Results of a pilot study in Chile"
-excerpt: "(With Elena Arias Ortiz & Julián Cristia). <i>Inter-American Development Bank, Technical Note</i>. Forthcoming. <b>(Original in Spanish)</b>"
+title: "COVID-19 and residential choices in Peru"
+excerpt: "Advisory committees: Delia Furtado (Primary Advisor), Charles Venator Santiago, Debarchana Ghosh"
 collection: research
 ---
 

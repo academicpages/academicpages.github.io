@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luis Palomino"
   avatar           : "profile.png"
-  bio              : "Economics Consultant-IADB <br> Teaching Assistant-UP"
+  bio              : "Researcher and Economist <br> MA student-UConn <br> GA-UConn" # "Economics Consultant-IADB <br> MA student-UConn"
   location         : 
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "palominol"
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0003-3217-2635"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
