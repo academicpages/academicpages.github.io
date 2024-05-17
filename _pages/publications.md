@@ -43,7 +43,7 @@ Yifei Zhang, Siyi Gu, Bo Pan, <b>Guangji Bai</b>, Xiaofeng Yang, Liang Zhao.<br>
 
 * <b>Uncertainty Quantification for In-Context Learning of Large Language Models</b>.<br>
 Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oishi, Takao Osaki, Katsushi Matsuda, Jie Ji, <b>Guangji Bai</b>, Liang Zhao, Haifeng Chen.<br>
-<i>The North American Chapter of the Association for Computational Linguistics (NAACL 2024 Main Conference)</i>.<br>
+<i>The North American Chapter of the Association for Computational Linguistics (NAACL 2024 Long Paper)</i>.<br>
 [[paper](https://arxiv.org/abs/2402.10189)][[code](https://github.com/lingchen0331/UQ_ICL)]<br>
 
 
