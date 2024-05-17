@@ -11,7 +11,7 @@ I am a final-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 
 News
 ------
-* 2024/03: Our paper on [GNN against label noise]() has been accepted by KDD 2024.
+* 2024/05: Our paper on [GNN against label noise]() has been accepted by KDD 2024.
 * 2024/03: Our paper on [diffusion model for data imputation]() has been accepted by ICLR 2024 GenAI4DM Workshop.
 * 2024/02: Our survey on [federated learning](https://arxiv.org/pdf/2102.12920.pdf) has been accepted by IJMLC.
 * 2023/12: Our paper on [graph OOD detection](https://arxiv.org/pdf/2401.06176.pdf) has been accepted by AAAI 2024.
