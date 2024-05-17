@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of Literature and Journalism
 
 You can find my CV here: [Hu Dianhan's Curriculum Vitae](https://docs.foxitcloud.cn/cloudShare/?code=J8zWUYlL).
 
-[Email](mailto:1837105324@qq.com) / [Github](https://github.com/Rheahu816/Rheahu.github.io) / [Wechat](../images/wechat.jpg)
+[Email](mailto:1837105324@qq.com) / [Github](https://github.com/Rheahu816/Rheahu.github.io) / [Wechat](images/wechat.jpg.jpg)
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
