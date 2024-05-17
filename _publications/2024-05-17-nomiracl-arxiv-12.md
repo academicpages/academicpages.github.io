@@ -10,7 +10,7 @@ citation: ''
 authors: '<strong> Nandan Thakur </strong>, Luiz Bonifacio, Xinyu Zhang, Odunayo Ogundepo, Ehsan Kamalloo, David Alfonso-Hermelo, Xiaoguang Li, Qun Liu, Boxing Chen, Mehdi Rezagholizadeh, Jimmy Lin'
 image: 'images/nomiracl.png'
 code: 'https://github.com/project-miracl/nomiracl'
-affiliation: 'University of Waterloo, Huawei Noah's Ark Lab.'
+affiliation: 'University of Waterloo, Huawei Noah's Ark Lab'
 dataset: 'https://huggingface.co/datasets/miracl/nomiracl'
 
 ---

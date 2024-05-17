@@ -10,7 +10,7 @@ citation: ''
 authors: '<strong> Nandan Thakur </strong>, Nils Reimers, Jimmy Lin.'
 image: 'images/income.png'
 code: 'https://github.com/thakur-nandan/income'
-affiliation: 'University of Waterloo and Cohere.'
+affiliation: 'University of Waterloo, Cohere.ai'
 dataset: 'https://huggingface.co/income'
 
 ---
