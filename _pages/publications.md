@@ -20,8 +20,9 @@ For an updated list of publications please refer either to my [Google Scholar pr
 \* denotes equal contribution
 
 {% assign publications_by_year = site.publications | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% assign sorted_publications_by_year = publications_by_year | sort: "name" | reverse %}
 
-{% for year in publications_by_year %}
+{% for year in sorted_publications_by_year %}
 ### {{ year.name }}
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
   {% for post in year.items %}
@@ -37,25 +38,25 @@ For an updated list of publications please refer either to my [Google Scholar pr
       {{post.affiliation}}
       <br>
         {% if post.paperurl %}
-          <a href="{{post.paperurl}}">[paper]</a> /
+          <a href="{{post.paperurl}}"><i class="fas fa-file-alt"></i> [paper]</a>
         {% endif %}
         {% if post.page %}
-          <a href="{{post.page}}">[website]</a> /
+          <a href="{{post.page}}"><i class="fas fa-globe"></i> [website]</a>
         {% endif %}
         {% if post.code %}
-          <a href="{{post.code}}">[code]</a> /
+          <a href="{{post.code}}"><i class="fas fa-code"></i> [code]</a>
         {% endif %}
         {% if post.video %}
-          <a href="{{post.video}}">[video]</a> /
+          <a href="{{post.video}}"><i class="fas fa-video"></i> [video]</a>
         {% endif %}
         {% if post.poster %}
-          <a href="{{post.poster}}">[poster]</a> /
+          <a href="{{post.poster}}"><i class="fas fa-image"></i> [poster]</a>
         {% endif %}
         {% if post.slides %}
-          <a href="{{post.slides}}">[slides]</a> /
+          <a href="{{post.slides}}"><i class="fas fa-slideshare"></i> [slides]</a>
         {% endif %}
         {% if post.dataset %}
-          <a href="{{post.dataset}}">[dataset]</a> /
+          <a href="{{post.dataset}}"><i class="fas fa-database"></i> [dataset]</a>
         {% endif %}
       <p></p>
       {{ post.excerpt }}
