@@ -261,7 +261,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _talks
+  # _talks
   - scope:
       path: ""
       type: talks
