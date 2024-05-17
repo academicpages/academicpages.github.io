@@ -15,11 +15,6 @@ author_profile: true
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
 
-* <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
-Junxiang Wang, <b>Guangji Bai</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
-<i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/abs/2312.12276)]<br>
-
 * <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
 Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
@@ -36,6 +31,11 @@ Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/pdf/2206.00057)][code]<br>
 
 ## 2024
+* <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
+Junxiang Wang, <b>Guangji Bai</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+<i>The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2024)</i>.<br>
+[[paper](https://arxiv.org/abs/2312.12276)]<br>
+
 * <b>Visual Attention-Prompted Prediction and Learning</b>.<br>
 Yifei Zhang, Siyi Gu, Bo Pan, <b>Guangji Bai</b>, Xiaofeng Yang, Liang Zhao.<br>
 <i>2024 International Joint Conference on Artificial Intelligence (IJCAI 2024)</i>.<br>
