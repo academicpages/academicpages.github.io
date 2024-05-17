@@ -6,16 +6,11 @@ author_profile: true
 ---
 
 {% if site.talkmap_link == true %}
+
 <p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+
 {% endif %}
 
-<div class="talks-list">
-  {% for post in site.talks reversed %}
-    <div class="talk">
-      <h2>{{ post.title }}</h2>
-      <p><strong>Date:</strong> {{ post.date | date: "%B %d, %Y" }}</p>
-      <p><strong>Location:</strong> {{ post.location }}</p>
-      <hr>
-    </div>
-  {% endfor %}
-</div>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk.html %}
+{% endfor %}
