@@ -3,7 +3,7 @@ title: "HAGRID: A Human-LLM Collaborative Dataset for Generative Information-See
 collection: publications
 permalink: /publication/2023-07-31-hagrid-arxiv-10
 excerpt: 'A high-quality dataset for training and evaluating generative search (RAG) models with citations.'
-date: 2023-07-18
+date: 2023-07-31
 venue: 'Arxiv Preprint'
 paperurl: 'https://arxiv.org/abs/2307.16883'
 citation: ''

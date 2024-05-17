@@ -14,19 +14,6 @@
     font-weight: normal;
     font-style: normal;
 }
-.publication-links a {
-  text-decoration: none;
-  color: #007acc;
-  margin-right: 10px;
-  display: inline-block;
-  transition: color 0.3s;
-}
-.publication-links a:hover {
-  color: #005f99;
-}
-.publication-links i {
-  margin-right: 5px;
-}
 .ai {
 	display:inline-block;
 	font:normal normal normal 14px/1 Academicons;

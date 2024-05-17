@@ -39,3 +39,20 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom styles for publication links
+.publication-links a {
+    text-decoration: none;
+    color: #007acc;
+    margin-right: 10px;
+    display: inline-block;
+    transition: color 0.3s;
+  }
+  
+  .publication-links a:hover {
+    color: #005f99;
+  }
+  
+  .publication-links i {
+    margin-right: 5px;
+  }
