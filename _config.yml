@@ -21,17 +21,17 @@ repository               : "konstantingoe/konstantingoe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "nero_me.jpeg"
+  name             : "Konstantin Göbler"
+  pronouns         : # example: "she/her"
+  bio              : "Statistician interested in causality and graphical models."
+  location         : "Munich, Germany"
+  employer         : "Technical University of Munich (TUM)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "konstantin.goebler(at)tum.de"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/search/stat?searchtype=author&query=G%C3%B6bler,+K"
   googlescholar    : "https://scholar.google.de/citations?user=c6CvCRUAAAAJ&hl=de&oi=ao"
   impactstory      : # URL
   orcid            : # URL "http://orcid.org/yourorcidurl"
