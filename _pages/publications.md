@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference
 -----
+* Divide and Denoise: Empowering Simple Models for Robust Semi-Supervised Node Classification \[[PDF]()\] \[[Code]()\]    
+Kaize Ding, Xiaoxiao Ma, **Yixin Liu**, Shirui Pan.   
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD**), 2024. 
+
 * GOODAT: Towards Test-time Graph Out-of-Distribution Detection \[[PDF]()\] \[[Code]()\]    
 Luzhi Wang, Di Jin, He Zhang, **Yixin Liu**, Dongxiao He, Wenjie Wang, Shirui Pan, Tat-Seng Chua.   
 AAAI Conference on Artificial Intelligence (**AAAI**), 2024. 
