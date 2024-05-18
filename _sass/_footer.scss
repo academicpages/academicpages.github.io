@@ -50,10 +50,10 @@
   .fal {
     color: mix(#fff, $gray, 25%);
   }
-    
+
   // change footer font-size here
   font-family: $garamond;
-  font-size: 1.0em;
+  font-size: $type-size-4;
 }
 
 .page__footer-follow {
