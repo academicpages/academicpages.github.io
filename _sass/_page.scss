@@ -55,8 +55,10 @@
     border-bottom: 1px solid $border-color;
   }
 
+  // change font size of main body text here
   p, li, dl {
-    font-size: 19px;
+    // font-size: $type-size-5;
+    font-size: 20px;
   }
 
   /* paragraph indents */
