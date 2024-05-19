@@ -23,31 +23,55 @@ If you wish to learn more about my research, visit [Research](/publications/) wh
 
 <span style="color:red">I am actively looking for research internships in Fall 2024!</span>
 
-## :fire: Recent News
-* <sub>**[May 2024]** :boom: I have been awarded the <span style="color:red">David R. Cheriton Graduate Scholarship</span> starting Fall 2024 for my scholastic excellence in my PhD! [[Link]](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)
-* <sub>**[May 2024]** :boom: Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
-* <sub>**[Apr 2024]** :palm_tree: I will be attending in-person NAACL 2024 in Mexico City, Mexico between 16-20 June 2024 and SIGIR in Washington DC, USA between 14-18 July 2024. If interested, do reach out!
-* <sub>**[Apr 2024]** Received a 3K USD grant from Google to attend the NAACL 2024 Conference in Mexico City, 2024.
-* <sub>**[Apr 2024]** My work on "Systematic Evaluation of Neural Retrieval Models on the Touch{\'e}~2020 Argument Retrieval Subset of BEIR" has been accepted at **SIGIR 2024 (Reproduction)**.
-* <sub>**[Apr 2024]** My work on "Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses" has been accepted at **SIGIR 2024 (Resource)**.
-* <sub>**[Mar 2024]** My Google internship work on "SWIM-IR: Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval" has been accepted at **NAACL 2024**.
-* <sub>**[Feb 2024]** Started part time research colaboration on improving multilingual RAG systems with [Vectara](https://vectara.com/).
-* <sub>**[Jan 2024]** Gave two research talks on "Hetergeneous Benchmarking of Information Retrieval" in IIT-D (Delhi) and IIIT-Delhi [[presentation]](https://docs.google.com/presentation/d/1IxwfL8zZnq6hn6KFuYm8vm9uM8Zq4B8d/edit#slide=id.p1) [[video]](https://www.youtube.com/watch?v=5ujaTVx-AkI).
-* <sub>**[Nov 2023]** TREC RAG 2024 has been accepted and will be conducted as a shared task in TREC 2024.
 
-<details markdown=1><summary markdown="span"><b>Click here for older news</b></summary>
-* <sub>**[Nov 2023]** My internship work at Google is out on [Arxiv](https://arxiv.org/abs/2311.05800), dataset is released [here](https://github.com/google-research-datasets/swim-ir).
-* <sub>**[Jul 2023]** I will be attending the SIGIR 2023 virtual conference being held in Taipei, Taiwan! Say hi to me (virtally)!</sub>
-* <sub>**[Jul 2023]** I will be attending the ACL 2023 in-person conference being held in Toronto, Canada! Say hi to me!</sub>
-* <sub>**[Jun 2023]** The Domain Adaptation Paper has been accepted in [ReNeuIR 2023 Workshop](https://reneuir.org/) to be held jointly with SIGIR 2023!</sub>
-* <sub>**[Jun 2023]** The SPRINT Toolkit Paper has been accepted in [SIGIR 2023 Resource Track](https://sigir.org/sigir2023/)!</sub>
-* <sub>**[May 2023]** The MIRACL Paper has been accepted in [TACL 2023](https://transacl.org/index.php/tacl)!</sub>
-* <sub>**[May 2023]** The Evaluating Embedding API Paper has been accepted in [ACL 2023 Industry Track](https://2023.aclweb.org/calls/industry_track/)!</sub>
-* <sub>**[Sep 2022]** The MIRACL Challenge was accepted in [WSDM Cup 2023](https://www.wsdm-conference.org/2023/program/wsdm-cup). The Challenge is now live and looking for participants.</sub> 
-* <sub>**[Aug 2022]** I started my Fall Internship at the Language Team in [Google Research](https://research.google/teams/language/) with Daniel Cer and Jianmo Ni.</sub>
-* <sub>**[Mar 2021]** Augmented SBERT got accepted as a long paper at NAACL 2021! [PDF](https://aclanthology.org/2021.naacl-main.28/) []
-* <sub>**[Feb 2021]** Designed and Attended The First ELLIS NLP 2021 Workshop Website. [<a href="https://sites.google.com/view/ellisnlp2021/organization?authuser=0#h.jhoas58vwjmn">link</a>]</sub>
-* <sub>**[Jan 2021]** Designed the Second 2021 SustaiNLP Workshop Website. [<a href="https://sites.google.com/view/sustainlp2021">link</a>]</li>
-* <sub>**[Nov 2020]** [Cancelled (COVID-19)] Selected to speak at PyCon Italia 2020: "Extract or Replace Keywords in sentences 28x times faster than Regex - FlashText". [<a href="https://pycon.it/en/talk/extract-or-replace-keywords-in-sentences-28x-times-faster-than-regex-flashtexttm">Abstract</a>] [<a href="https://www.youtube.com/watch?v=s8WP79QU1zw">YouTube</a>] [<a href="https://github.com/vi3k6i5/flashtext">Github</a>]</sub>
-* <sub>**[Jul 2020]** ArgumenText won 4th place amongst 3000+ startups in Nordbayerischen Businessplan. [<a href="https://www.baystartup.de/startupdate/aus-den-wettbewerben/sieger-der-phase-2-im-businessplan-wettbewerb-nordbayern-2020">link</a>] </sub>
-* <sub>**[Jul 2020]** I attended the Association for Computational Linguistics (ACL) 2020 virtual conference.</sub>
+## :fire: Recent News
+
+<details markdown="1"><summary><b>2024</b></summary>
+
+- **[May 2024]** :trophy: I have been awarded the <span style="color:red">David R. Cheriton Graduate Scholarship</span> starting Fall 2024 for my scholastic excellence in my PhD! [[Link]](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)
+- **[May 2024]** :handshake: Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
+- **[Apr 2024]** :airplane: I will be attending in-person NAACL 2024 in Mexico City, Mexico between 16-20 June 2024 and SIGIR in Washington DC, USA between 14-18 July 2024. If interested, do reach out!
+- **[Apr 2024]** :moneybag: Received a 3K USD grant from Google to attend the NAACL 2024 Conference in Mexico City, 2024.
+- **[Apr 2024]** :page_facing_up: My work on "Systematic Evaluation of Neural Retrieval Models on the Touch{\'e}~2020 Argument Retrieval Subset of BEIR" has been accepted at **SIGIR 2024 (Reproduction)**.
+- **[Apr 2024]** :page_facing_up: My work on "Resources for Brewing BEIR: Reproducible Reference Models and Statistical Analyses" has been accepted at **SIGIR 2024 (Resource)**.
+- **[Mar 2024]** :page_facing_up: My Google internship work on "SWIM-IR: Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval" has been accepted at **NAACL 2024**.
+- **[Feb 2024]** :bulb: Started part time research collaboration on improving multilingual RAG systems with [Vectara](https://vectara.com/).
+- **[Jan 2024]** :speaking_head: Gave two research talks on "Heterogeneous Benchmarking of Information Retrieval" in IIT-D (Delhi) and IIIT-Delhi [[presentation]](https://docs.google.com/presentation/d/1IxwfL8zZnq6hn6KFuYm8vm9uM8Zq4B8d/edit#slide=id.p1) [[video]](https://www.youtube.com/watch?v=5ujaTVx-AkI).
+
+</details>
+
+<details markdown="1"><summary><b>2023</b></summary>
+
+- **[Nov 2023]** :scroll: TREC RAG 2024 has been accepted and will be conducted as a shared task in TREC 2024.
+- **[Nov 2023]** :newspaper: My internship work at Google is out on [Arxiv](https://arxiv.org/abs/2311.05800), dataset is released [here](https://github.com/google-research-datasets/swim-ir).
+- **[Jul 2023]** :computer: I will be attending the SIGIR 2023 virtual conference being held in Taipei, Taiwan! Say hi to me (virtually)!
+- **[Jul 2023]** :cityscape: I will be attending the ACL 2023 in-person conference being held in Toronto, Canada! Say hi to me!
+- **[Jun 2023]** :page_facing_up: The Domain Adaptation Paper has been accepted in [ReNeuIR 2023 Workshop](https://reneuir.org/) to be held jointly with SIGIR 2023!
+- **[Jun 2023]** :page_facing_up: The SPRINT Toolkit Paper has been accepted in [SIGIR 2023 Resource Track](https://sigir.org/sigir2023/)!
+- **[May 2023]** :page_facing_up: The MIRACL Paper has been accepted in [TACL 2023](https://transacl.org/index.php/tacl)!
+- **[May 2023]** :page_facing_up: The Evaluating Embedding API Paper has been accepted in [ACL 2023 Industry Track](https://2023.aclweb.org/calls/industry_track/)!
+
+</details>
+
+<details markdown="1"><summary><b>2022</b></summary>
+
+- **[Sep 2022]** :trophy: The MIRACL Challenge was accepted in [WSDM Cup 2023](https://www.wsdm-conference.org/2023/program/wsdm-cup). The Challenge is now live and looking for participants.
+- **[Aug 2022]** :briefcase: I started my Fall Internship at the Language Team in [Google Research](https://research.google/teams/language/) with Daniel Cer and Jianmo Ni.
+
+</details>
+
+<details markdown="1"><summary><b>2021</b></summary>
+
+- **[Mar 2021]** :page_facing_up: Augmented SBERT got accepted as a long paper at NAACL 2021! [PDF](https://aclanthology.org/2021.naacl-main.28/)
+- **[Feb 2021]** :globe_with_meridians: Designed and attended The First ELLIS NLP 2021 Workshop. [Website](https://sites.google.com/view/ellisnlp2021/organization?authuser=0#h.jhoas58vwjmn)
+- **[Jan 2021]** :globe_with_meridians: Designed the Second 2021 SustaiNLP Workshop Website. [Website](https://sites.google.com/view/sustainlp2021)
+
+</details>
+
+<details markdown="1"><summary><b>2020</b></summary>
+
+- **[Nov 2020]** :no_entry_sign: [Cancelled (COVID-19)] Selected to speak at PyCon Italia 2020: "Extract or Replace Keywords in sentences 28x times faster than Regex - FlashText". [Abstract](https://pycon.it/en/talk/extract-or-replace-keywords-in-sentences-28x-times-faster-than-regex-flashtexttm) [YouTube](https://www.youtube.com/watch?v=s8WP79QU1zw) [Github](https://github.com/vi3k6i5/flashtext)
+- **[Jul 2020]** :trophy: ArgumenText won 4th place amongst 3000+ startups in Nordbayerischen Businessplan. [Link](https://www.baystartup.de/startupdate/aus-den-wettbewerben/sieger-der-phase-2-im-businessplan-wettbewerb-nordbayern-2020)
+- **[Jul 2020]** :computer: I attended the Association for Computational Linguistics (ACL) 2020 virtual conference.
+
+</details>
