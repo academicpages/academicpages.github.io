@@ -26,7 +26,7 @@ If you wish to learn more about my research, visit [Research](/publications/) wh
 
 ## :fire: Recent News
 
-<details markdown="1"><summary><b>2024</b></summary>
+### 2024
 
 - **[May 2024]** :trophy: I have been awarded the <span style="color:red">David R. Cheriton Graduate Scholarship</span> starting Fall 2024 for my scholastic excellence in my PhD! [[Link]](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)
 - **[May 2024]** :handshake: Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
@@ -38,7 +38,6 @@ If you wish to learn more about my research, visit [Research](/publications/) wh
 - **[Feb 2024]** :bulb: Started part time research collaboration on improving multilingual RAG systems with [Vectara](https://vectara.com/).
 - **[Jan 2024]** :speaking_head: Gave two research talks on "Heterogeneous Benchmarking of Information Retrieval" in IIT-D (Delhi) and IIIT-Delhi [[presentation]](https://docs.google.com/presentation/d/1IxwfL8zZnq6hn6KFuYm8vm9uM8Zq4B8d/edit#slide=id.p1) [[video]](https://www.youtube.com/watch?v=5ujaTVx-AkI).
 
-</details>
 
 <details markdown="1"><summary><b>2023</b></summary>
 
