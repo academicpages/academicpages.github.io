@@ -50,9 +50,10 @@ Introductory/Must-read Books and Papers
 * Journal: *IEEE Annals of the History of Computing*
 
 * *Computer: A History of the Information Machine* 
-<div style="font-size: 0.8em">『コンピューティング史：人間は情報をいかに取り扱ってきたか』，『コンピュータ200年史：情報マシーン開発物語』（後者は旧訳）</div>
+<div style="font-size: 0.6em">『コンピューティング史：人間は情報をいかに取り扱ってきたか』，『コンピュータ200年史：情報マシーン開発物語』（後者は旧訳）</div>
   * This is the most popular textbook that provides a comprehensive history of computing from 19C, before the advent of electronic computers, to the spread of personal computers and the use of the Internet in the modern era. An illustrated book was written based on this book.
-    * Rachel Ignotofsky, *The History of the Computer: People, Inventions, and Technology that Changed Our World*『イラストで学ぶ　世界を変えたコンピュータの歴史』
+    * Rachel Ignotofsky, *The History of the Computer: People, Inventions, and Technology that Changed Our World*
+    <div style="font-size: 0.6em">『イラストで学ぶ　世界を変えたコンピュータの歴史』</div>
 * Thomas Haigh and Paul E. Ceruzzi, *A New History of Modern Computing*, *A History of Modern Computing* 『モダン・コンピューティングの歴史』
   * The latter is more technical and focuses on software. 
 * Swade, Doron. (2022). *The History of Computing: A Very Short Introduction*
