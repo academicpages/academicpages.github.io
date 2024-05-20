@@ -9,6 +9,11 @@ redirect_from:
 
 # Conference and Workshop Presentations
 
+## 2024
+
+**Association of Centers for the Study of Congress Annual Meeting ACSC (May 14-17, 2024)** - AI and Python for Efficient and Standardized Archival Processes. National Archives and Records Administration, 
+Washington, D.C. https://www.lsu.edu/chse/sis/resources/aeri/aeri2023_prelim_program.pdf](https://congresscenters.org/events-2/annual-meeting/
+
 ## 2023
 
 **Archival Education and Research Institute AERI (June 19-23, 2023)** - Julian P. Kanter Collection: Chaos and Order. Louisiana State University. https://www.lsu.edu/chse/sis/resources/aeri/aeri2023_prelim_program.pdf
