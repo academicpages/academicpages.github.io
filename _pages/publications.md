@@ -7,23 +7,23 @@ author_profile: true
 
 ## Preprints:
 
+6. **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du, [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642), 2024
+
 5. D. Zeng\*, Y. Dai\*, **P. Cheng**\*, T. Hu, W. Chen, N. Du, Z. Xu, [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/abs/2312.07401), 2023
 
-4. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du, [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045), 2023
-
 3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
-
-2. J. Xie, **P. Cheng**, X. Liang, Y. Dai, and N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), 2023
 
 1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
 
 ## Conference Papers:
 
+17. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du, [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045), Findings of the Association for Computational Linguistics (ACL), 2024
+
+16. J. Xie, **P. Cheng**, X. Liang, Y. Dai, and N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+
 15. K. Bai\*, **P. Cheng**\*, W. Hao, R. Henao, and L. Carin, [Estimating Total Correlation with Mutual Information Estimators](https://arxiv.org/pdf/2011.04794.pdf), Artificial Intelligence and Statistics Conference (AISTATS), 2023
 
 14. R. Wang\*, **P.cheng**\*, R. Henao, [Mitigating Gender Bias for Text Generation via Mutual Information Minimization](https://proceedings.mlr.press/v206/wang23c/wang23c.pdf), Artificial Intelligence and Statistics Conference (AISTATS), 2023
-
-15. W. Hao, N. Mehta, K.J. Liang, **P. Cheng**, M. El-Khamy, and L. Carin, [Waffle: Weight anonymized factorization for federated learning](https://proceedings.mlr.press/v206/wang23c/wang23c.pdf), IEEE Access, 2022.
 
 13. S. Luo, **P. Cheng**, S. Yu, [Semi-constraint Optimal Transport for Entity Alignment with Dangling Cases
 ](https://arxiv.org/abs/2203.05744), Findings of the Association for Computational Linguistics (ACL), 2022
