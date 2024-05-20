@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an **[Old Dominion University](https://online.odu.edu/) graduate student** pursuing an **M.S. in Computer Science**, where I expect to graduate by Spring 2025.
+I am an **[Old Dominion University](https://odu.edu/) graduate student** pursuing an **M.S. in Computer Science**, where I expect to graduate by Spring 2025.
 
 Technology, understanding different cultures, and continual learning have always been central to my life.  I thrive on the excitement of generating creative and innovative solutions within a collaborative setting while continually learning from others and my own experiences.
 
