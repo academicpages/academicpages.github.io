@@ -8,10 +8,6 @@ author_profile: true
 ## Working papers
 
 
-<b>[Are within-racial group inequalities by skin color *really* greater than inequalities between racial groups in the United States?](http://mebucca.github.io/research/viz_skin)</b><br>
-<b>Mauricio Bucca</b>.  Under Review.
-
-
 <b>[Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation](http://mebucca.github.io/research/bw_sc)</b><br>
 <b>Mauricio Bucca</b>.
 

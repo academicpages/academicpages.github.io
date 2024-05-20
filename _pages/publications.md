@@ -17,6 +17,10 @@ Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and
 <b>Mauricio Bucca</b>,  Lucas Drouhot. <i>Sociological Science</i>, [forthcoming]. 
 
 
+<b>[Are within-racial group inequalities by skin color *really* greater than inequalities between racial groups in the United States?](http://mebucca.github.io/research/viz_skin)</b><br>
+<b>Mauricio Bucca</b>, <i>Socius</i>, [forthcoming]. 
+
+
 <b>[Heatmaps for Patterns of Association in log-Linear Models](http://mebucca.github.io/research/viz_llm)</b><br>
 <b>Mauricio Bucca</b>. <i>Socius</i>, 2020. 
     
