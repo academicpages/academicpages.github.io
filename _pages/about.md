@@ -18,7 +18,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 | | | | | |
 |-----:|-----|:-------|:-----|----|
-|Preprint|<image src="/images/papers/fig_spag.pdf" width="480" height="300">| [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642)| **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du|2024|
+|Preprint|<image src="/images/papers/fig_spag_1.png" width="480" height="300">| [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642)| **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du|2024|
 |ACL|<image src="/images/papers/apo_framework_shot.png" width="480" height="300">| [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)| **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du|2024|
 |Preprint|<image src="/images/papers/fig_DSP.png" width="480" height="300">| [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)| **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du|2023|
 |Preprint|<image src="/images/papers/Fig_RLM.png"  width ="480" height = "300">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
