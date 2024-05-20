@@ -2,6 +2,8 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
+   $primary-color: #012837; //midnight blue
+
 #main {
   @include container;
   @include clearfix;
@@ -10,7 +12,7 @@
   padding-right: 1em;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
-
+  background: $primary-color;
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
