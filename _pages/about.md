@@ -18,14 +18,13 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 
 | | | | | |
 |-----:|-----|:-------|:-----|----|
-
-|Preprint|<image src="/images/papers/fig_spag.pdf" width="400" height="250">| [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642)| **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du|2024|
-|Preprint|<image src="/images/papers/fig_DSP.png" width="400" height="225">| [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)| **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du|2023|
-|Preprint|<image src="/images/papers/Fig_RLM.png"  width ="400" height = "225">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
-|ACL|<image src="/images/papers/apo_framework_shot.png" width="400" height="250">| [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)| **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du|2024|
-|ICLR| <image src="/images/papers/fig_FairFIL.png"  width="400" height="250"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
-|ICLR| <image src="/images/papers/fig_IDEVC.png"  width="400" height="250"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|
-|ICML| <image src="/images/papers/fig_CLUB.png"  width="400" height="250">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
+|Preprint|<image src="/images/papers/fig_spag.pdf" width="480" height="300">| [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642)| **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du|2024|
+|ACL|<image src="/images/papers/apo_framework_shot.png" width="480" height="300">| [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045)| **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du|2024|
+|Preprint|<image src="/images/papers/fig_DSP.png" width="480" height="300">| [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)| **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du|2023|
+|Preprint|<image src="/images/papers/Fig_RLM.png"  width ="480" height = "300">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
+|ICLR| <image src="/images/papers/fig_FairFIL.png"  width="480" height="300"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
+|ICLR| <image src="/images/papers/fig_IDEVC.png"  width="480" height="300"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|
+|ICML| <image src="/images/papers/fig_CLUB.png"  width="480" height="300">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
 
