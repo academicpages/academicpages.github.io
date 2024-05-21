@@ -12,8 +12,8 @@ redirect_from:
 I am broadly interested in the interpretation of the observed galaxy distribution and the inference of underlying
 galaxy evolution physics and cosmology.
 
-Full up-to-date CV can be found here (April 2022):
-[Download CV here](http://sandyyuan.github.io/files/CV.pdf)
+Full up-to-date CV can be found here (April 2024):
+[Download CV here](http://sandyyuan.github.io/files/CV1.pdf)
 
 Employment
 ======
