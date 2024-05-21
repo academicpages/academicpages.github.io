@@ -54,9 +54,9 @@ Extracurricular
 
 Courses taken
 ======
-* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM (ongoing), Statistical Mechanics (ongoing), Foundational QM (ongoing)
+* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM, Statistical Mechanics, Foundational QM
 * Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to
-Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory (ongoing)
+Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
 
 Articles covered
 ======
@@ -70,5 +70,5 @@ Articles covered
 * Draper, Thomas G. “Addition on a Quantum Computer.” arXiv, August 7, 2000. [https://doi.org/10.48550/arXiv.quant-ph/0008033](https://doi.org/10.48550/arXiv.quant-ph/0008033).
 * Bell, J. S. “On the Einstein Podolsky Rosen Paradox.” Physics Physique Fizika 1, no. 3 (November 1, 1964): 195–200. [https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195](https://doi.org/10.1103/PhysicsPhysiqueFizika.1.195).
 * Hardy, Lucien. “Quantum Mechanics, Local Realistic Theories, and Lorentz-Invariant Realistic Theories.” Physical Review Letters 68, no. 20 (May 18, 1992): 2981–84. [https://doi.org/10.1103/PhysRevLett.68.2981](https://doi.org/10.1103/PhysRevLett.68.2981).
-
-
+* Bennett, Charles H., et Gilles Brassard. « Quantum cryptography: Public key distribution and coin tossing ». Theoretical Computer Science, vol. 560, décembre 2014, p. 7‑11. arXiv.org, [https://doi.org/10.1016/j.tcs.2014.05.025](https://doi.org/10.1016/j.tcs.2014.05.025).
+* Scarani, Valerio, et Renato Renner. « Quantum cryptography with finite resources: unconditional security bound for discrete-variable protocols with one-way post-processing ». Physical Review Letters, vol. 100, no 20, mai 2008, p. 200501. arXiv.org, [https://doi.org/10.1103/PhysRevLett.100.200501](https://doi.org/10.1103/PhysRevLett.100.200501).
