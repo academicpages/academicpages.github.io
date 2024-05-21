@@ -24,13 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Yufan Kang"
   pronouns         : # example: "she/her"  
-  bio              : 
-                  text: "Yufan Kang is a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. She is also a student member of"
-                  link:
-                    text: "Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)"
-                    url: "https://www.admscentre.org.au"
-                    
-                  text: ". She started her PhD in 2021 and expected to finish in 2025. She mainly works in the direction of Responsible AI in Spatial-Temporal Data Mining."
+  bio              : "Research is fun!"  
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
