@@ -22,9 +22,9 @@ repository               : "TinaKYF/yufan_kang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yufan Kang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Yufan Kang is a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. She is also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). She started her PhD in 2021 and expected to finish in 2025. She mainly works in the direction of Responsible AI in Spatial-Temporal Data Mining."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
