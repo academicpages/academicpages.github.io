@@ -19,7 +19,7 @@ This paper investigates the role of firms in discovering new inventors who apply
 
 
 ## $\color{olive}{Selected \space Work \space in \space Progress}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" target="_blank">Jacob Weber</a>) <br/> <a href="#/" onclick="visib('github')">Abstract</a> 
+- The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" target="_blank">Jacob Weber</a>) <br/> <a href="#/" onclick="visib('github')">Abstract</a> Draft Available Upon Request 
 <div id='github' style="display: none; text-align: justify; line-height: 1.2" >
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 
