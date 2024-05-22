@@ -28,14 +28,12 @@ Hi there! I am a research student in [the Department of Mathematical and Computi
 
 Miscellaneous
 ======
-
-* Miscellaneous
-  * The Purpose of this Website
-    * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' two years ago, I initially associated them with Leibniz and Russell&#128512; The former has little to do with Leibniz, while the latter was conceived by Russell).
-  * Reflecting on the Year
-    * As the year comes to a close, I reflect on the past year and recognize personal growth in various aspects. In particular, I have come to believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. Although I also love alone time, I really enjoy interacting with other people. I hope this site, which I created for the first time, will help me to interact with various people in graduate school.
+* The Purpose of this Website
+  * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' two years ago, I initially associated them with Leibniz and Russell&#128512; The former has little to do with Leibniz, while the latter was conceived by Russell).
+* Reflecting on the Year
+  * As the year comes to a close, I reflect on the past year and recognize personal growth in various aspects. In particular, I have come to believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. Although I also love alone time, I really enjoy interacting with other people. I hope this site, which I created for the first time, will help me to interact with various people in graduate school.
     
-  * I think it is really important to formulate original and intellectually interesting questions. To achieve this, it is inevitable to understand the research that has been done so far. During my undergraduate studies, I became interested in how theories and technologies presented in classes and textbooks are conceived,  and I did research on the history of science (especially, the history of computing). 
+* I think it is really important to formulate original and intellectually interesting questions. To achieve this, it is inevitable to understand the research that has been done so far. During my undergraduate studies, I became interested in how theories and technologies presented in classes and textbooks are conceived,  and I did research on the history of science (especially, the history of computing). 
     I am currently applying to graduate school in Computer Science. Leveraging my past as a student in the history of science, I plan to apply the knowledge and skills I acquired in shaping my future as a student in computer science (especially, programming languages).
 
   * Programming
