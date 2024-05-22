@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Myself"
+title                    : "Kush Singhy"
 title_separator          : ""
-name                     : &name "Kush Singhy"
+name                     : &name "Myself"
 description              : &description ""
 url                      : https://kush-singhy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,7 +21,7 @@ repository               : "kush-singhy/kush-singhy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.jpeg"
   name             : "Kush Singhy"
   pronouns         : # example: "she/her"  
   bio              : "Documenting my life and interests"
