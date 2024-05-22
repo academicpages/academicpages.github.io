@@ -1,4 +1,8 @@
 ---
+hide:
+  - title
+---
+---
 permalink: /
 title: "Yufan Kang"
 author_profile: true
