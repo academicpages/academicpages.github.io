@@ -1,5 +1,4 @@
 ---
-hide:
 permalink: /
 title: "Yufan Kang"
 author_profile: true
@@ -7,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+h1 {
+    display: none;
+}
+</style>
+
 
 I'm currently a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. I'm also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). I started her PhD in 2021 and expected to finish in 2025, and I mainly work in the direction of Responsible AI in Spatial-Temporal Data Mining.
 
