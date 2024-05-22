@@ -166,14 +166,14 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
     * 日本でコンピューティング史をしている研究者大集結．
   * 『コンピュータ理論の起源[第１巻]：チューリング』
     * 第2巻はノイマンとのこと．
-  *
+  * 
   * 『コンピューティング史』巻末の杉本舞先生による「解題と読書リスト」をまず確認すると良いだろう．『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いかもしれない．
   
 Historians of Computing (partial)
 ======
 In any field, it is important to know the researchers and what they do when beginning research. The list below may include people who are not historians of computing.
 
-* [Aaron Mendon-Plasek[
+* [Aaron Mendon-Plasek]
 * [Atushi Akera]
 * [Ben Allen]
 * [David C. Brock]
@@ -184,7 +184,7 @@ In any field, it is important to know the researchers and what they do when begi
 * [Eden Medina]
 * [Edgar Graham Daylight](https://www.dijkstrascry.com/about)
 * [George Dyson]
-* Gerard Alberts
+* [Gerard Alberts]
 * [Gerard O'Regan]
 * [Jack Copeland]
 * [Janet Abbate]
