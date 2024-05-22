@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yufan Kang"
+title                    : 
 title_separator          :
 name                     : 
-description              : "Yufan Kang"
+description              : 
 url                      : https://yufankang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "TinaKYF/yufan_kang.github.io"
