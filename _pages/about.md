@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Yufan Kang is a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. She is also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). She started her PhD in 2021 and expected to finish in 2025. She mainly works in the direction of Responsible AI in Spatial-Temporal Data Mining.
+I'm currently a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. I'm also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). I started her PhD in 2021 and expected to finish in 2025, and I mainly work in the direction of Responsible AI in Spatial-Temporal Data Mining.
 
-A data-driven personal website
+Before starting my PhD degree, I completed my Honours degree in Computer Science in the direction of Pervasive Mobile Computing, and I was a research intern in Microsoft Cortana Intelligence Institute after my Honours degree. Before that, I completed my Bachelor degree in the University of Melbourne in major of both Discrete Mathematics and Statistics and Computer Science. 
+
+Selected Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- Shao, Wei*, Yufan Kang*, Ziyan Peng, Xiao Xiao, Lei Wang, Yuhui Yang, Flora D. Salim, Spatio-temporal Early Prediction based on Multi-objective Reinforcement Learning. Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024.
+-Kang, Yufan, Rongsheng Zhang, Wei Shao, Flora D. Salim, and Jeffrey Chan, 2024, July. Promoting Two-sided Fairness in Dynamic Vehicle Routing Problems. In Proceedings of the Genetic and Evolutionary Computation Conference. 
+- Shao, Wei*, Ziyan Peng*, Yufan Kang*, Xiao Xiao, and Zhiling Jin. [Early Spatiotemporal Event Prediction via Adaptive Controller and Spatiotemporal Embedding](https://ieeexplore.ieee.org/abstract/document/10415705). In 2023 IEEE International Conference on Data Mining (ICDM), pp. 1307-1312. IEEE, 2023.
+- Shao, Wei* & Zhiling, Jin* & Wang, Shuo & Kang, Yufan & Xiao, Xiao & Menouar, Hamid & Zhang, Zhaofeng & Zhang, Junshan & Salim, Flora. (2022). [Long-term Spatio-Temporal Forecasting via Dynamic Multiple-Graph Attention](https://arxiv.org/abs/2204.11008). 2200-2207. 10.24963/ijcai.2022/306. 
+- Kang, Yufan, Mohammad Saiedur Rahaman, Yongli Ren, Mark Sanderson, Ryen W. White, and Flora D. Salim. [App usage on-the-move: Context-and commute-aware next app prediction](http://ryenwhite.com/papers/KangPMC2022.pdf). Pervasive and Mobile Computing 87 (2022): 101704.
 
 Getting started
 ======
