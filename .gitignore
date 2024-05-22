@@ -1,6 +1,9 @@
 # Ignore the contents of the _site directory
 _site/
 
+# Ignore the directory for local files during development
+local/
+
 # Ignore the Gemfile that is generated
 Gemfile.lock
 

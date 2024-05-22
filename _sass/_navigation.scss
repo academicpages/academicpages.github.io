@@ -191,7 +191,7 @@
 
   button {
     position: absolute;
-    height: 100%;
+    height: 2.5rem;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
@@ -199,6 +199,7 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+    z-index: 100;
   }
 
   .visible-links {
@@ -210,6 +211,7 @@
 
       &:first-child {
         font-weight: bold;
+        text-wrap: wrap;
 
         a {
           margin-left: 0;
