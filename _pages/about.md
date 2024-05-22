@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yufan Kang"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
