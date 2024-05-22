@@ -7,6 +7,11 @@ redirect_from:
   - /about.html
 ---
 
+- Ziyun Wei successfully defends his PhD thesis "Robust Querying for Data Analysis and Processing"!
+- Our paper on JoinGym was accepted at RLC 2024!
+- Our tutorial on large language models was accepted at ICDE 2024!
+- Our papers on ThalamusDB and ROME are accepted at SIGMOD 2024!
+- Two papers are accepted at the Q-DATA workshop!
 - Our extended paper on DB-BERT, the tuning tool that "reads" the manual, accepted by VLDBJ!
 - Our paper "Quantum-Inspired Digital Annealing for Join Ordering" accepted at PVLDB'23!
 - Two papers accepted at PVLDB'23! Both apply LLMs to data management problems.
