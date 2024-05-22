@@ -5,17 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
+### 2024
+
+- **SIGMOD 2024** ThalamusDB: Approximate Query Processing on Multi-Modal Data. _Saehan Jo, Immanuel Trummer_.
+- **SIGMOD 2024** ROME: Robust Query Optimization via Parallel Multi-Plan Execution. _Ziyun Wei, Immanuel Trummer_.
+- **SIGMOD 2024** Demonstrating λ-Tune: Exploiting Large Language Models for Workload-Adaptive Database System Tuning. _Victor Giannakouris, Immanuel Trummer_.
+- **ICDE 2024** Tutorial on Large Language Models: Principles and Practice. _Immanuel Trummer_.
+- **VLDB 2024** Quantum-Inspired Digital Annealing for Join Ordering. _Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer_.  
+[[Paper](https://lfdr.de/Publications/2023/ScTrMa_TR.pdf)]
+- **VLDB 2024** Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes. _Simran Arora, Brandon Yang, Sabri Eyuboglu, Avanika Narayan, Andrew Hojel, Immanuel Trummer, Christopher Re_.  
+[[Paper](https://arxiv.org/abs/2304.09433) [Code](https://github.com/HazyResearch/evaporate)]
+- **VLDB 2024** Can Large Language Models Predict Data Correlations from Column Names? _Immanuel Trummer_.  
+[[Paper](https://dl.acm.org/doi/10.14778/3625054.3625066) [Code](https://github.com/itrummer/DataCorrelationPredictionWithNLP)]
+- **Q-DATA 2024** Leveraging Quantum Computing for Database Index Selection. _Immanuel Trummer, Davide Venturelli_.
+- **Q-DATA 2024** Towards Out-of-Core Simulators for Quantum Computing. _Immanuel Trummer_.
+- **RLC 2024** JoinGym: An Efficient Join Order Selection Environment. _Junxiong Wang, Kaiwen Wang, Yueying Li, Nathan Kallus, Immanuel Trummer, Wen Sun_.
+
 ### 2023
 
 - **MEAP Book** AI-Assisted Data Science: Large Language Models for Multimodal Data Analysis. _Immanuel Trummer_.  
 [[Book](https://www.manning.com/books/ai-assisted-data-science)]
 - **VLDBJ 2023** DB-BERT: a Database Tuning Tool that "Reads" the Manual. _Immanuel Trummer_.
-- **PVLDB 2023** Quantum-Inspired Digital Annealing for Join Ordering. _Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer_.  
-[[Paper](https://lfdr.de/Publications/2023/ScTrMa_TR.pdf)]
-- **PVLDB 2023** Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes. _Simran Arora, Brandon Yang, Sabri Eyuboglu, Avanika Narayan, Andrew Hojel, Immanuel Trummer, Christopher Re_.  
-[[Paper](https://arxiv.org/abs/2304.09433) [Code](https://github.com/HazyResearch/evaporate)]
-- **PVLDB 2023** Can Large Language Models Predict Data Correlations from Column Names? _Immanuel Trummer_.  
-[[Paper](https://arxiv.org/pdf/2107.04553.pdf) [Code](https://github.com/itrummer/DataCorrelationPredictionWithNLP)]
 - **PVLDB 2023** ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Join Algorithms via Reinforcement Learning. _Junxiong Wang, Immanuel Trummer, Ahmet Kara, Dan Olteanu_.  
 [[Paper](https://arxiv.org/pdf/2307.16540) [Code](https://github.com/jxiw/ADOPT)]
 - **PVLDB 2023** Demonstrating ADOPT: Adaptively Optimizing Attribute Orders for Worst-Case Optimal Joins via Reinforcement Learning. _Junxiong Wang, Immanuel Trummer, Ahmet Kara, Dan Olteanu_.  
