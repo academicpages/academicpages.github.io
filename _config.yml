@@ -21,7 +21,7 @@ repository               : "kush-singhy/kush-singhy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpeg"
+  avatar           : "headshot.jpg"
   name             : "Kush Singhy"
   pronouns         : # example: "she/her"  
   bio              : "Documenting my life and interests"
