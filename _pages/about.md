@@ -13,7 +13,8 @@ h1 {
 }
 </style>
 
-
+About Me
+======
 I'm currently a PhD Student from the School of Computing Technologies at RMIT University under the supervision of Prof. Jeffrey Chan and Prof. Flora D. Salim. I'm also a student member of [Australian Research Council (ARC) Centre of Excellence for Automated Decision-Making and Society (ADM+S)](https://www.admscentre.org.au). I started her PhD in 2021 and expected to finish in 2025, and I mainly work in the direction of Responsible AI in Spatial-Temporal Data Mining.
 
 Before starting my PhD degree, I completed my Honours degree in Computer Science in the direction of Pervasive Mobile Computing, and I was a research intern in Microsoft Cortana Intelligence Institute after my Honours degree. Before that, I completed my Bachelor degree in the University of Melbourne in major of both Discrete Mathematics and Statistics and Computer Science. 
