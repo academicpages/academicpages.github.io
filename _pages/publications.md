@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Preprint
-* <b>Gradient-Free Adaptive Global Pruning for Pre-trained Language Models</b>.<br>
+* <b>SparseLLM: Towards Global Pruning for Pre-trained Language Models</b>.<br>
 <b>Guangji Bai</b>, Yijiang Li, Chen Ling, Kibaek Kim, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/pdf/2402.17946v1)]<br>
