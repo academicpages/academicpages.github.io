@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Ashish's Homepage"
 title_separator          : "-"
 name                     : &name "Ashish Shivajirao Jadhav"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://ashishjadhav.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashishjadhav/ashishjadhav.github.io"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Ashish Shivajirao Jadhav"
   pronouns         : # example: "she/her"  
-  bio              : "I am interested in software developement, cloud and AI "
+  bio              : "Tech lover and aspiring entrepreneur. Passionate about tech. When I'm not coding, I'm exploring new cafes or hiking trails."
   location         : "Magdeburg, Germany"
-  employer         : "Otto-von-Guericke University Magdeburg"
+  employer         : "Compolytics GmbH"
   uri              : # URL
   email            : "jashish387@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  orcid            : 
+  pubmed           : 
+  researchgate     : "https://www.researchgate.net/profile/Ashish-Jadhav-7"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jashish387"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
