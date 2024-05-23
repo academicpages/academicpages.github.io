@@ -45,7 +45,7 @@ Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
 ### b) Model Compression & Acceleration of LLMs 
 - [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
   _Preprint_
-- [**Gradient-Free Adaptive Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v1)   
+- [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v1)   
   _Preprint_ 
 
 ## 3. Neuro-Inspired Continual Learning
