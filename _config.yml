@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kush Singhy"
+title                    : ""
 title_separator          : ""
 name                     : &name "Myself"
 description              : &description ""
@@ -21,7 +21,7 @@ repository               : "kush-singhy/kush-singhy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.jpg"
+  avatar           : "avatar.JPG"
   name             : "Kush Singhy"
   pronouns         : # example: "she/her"  
   bio              : "Documenting my life and interests"
