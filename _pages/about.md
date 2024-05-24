@@ -187,15 +187,39 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
       
 
 ## Service
-<ul> 
+<ul>
   <li>
-    2024: Reviewed for <a href="https://www.sbir.gov/about"> DoE SBIR and STTR Programs</a> and
-    <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369"> IEEE Robotics and Automation Letters (RA-L)</a> 
+    <strong>2024</strong>
+    <ul>
+      <li><strong>Program Committee</strong></li>
+      <ul>
+        <li><a href="https://neurips.cc/Conferences/2024">Conference on Neural Information Processing Systems (NeurIPS)</a></li>
+        <li><a href="https://www.sbir.gov/about">DoE SBIR and STTR Programs</a></li>
+        <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369">IEEE Robotics and Automation Letters (RA-L)</a></li>
+      </ul>
+    </ul>
   </li>
-  <li> 
-  2023: Reviewed for  <a href="https://ieee-iros.org/">  IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) </a> and <a href="https://www.tahri.org/"> International Symposium on Technological Advances in Human-Robot Interaction </a>
+  <li>
+    <strong>2023</strong>
+    <ul>
+      <li><strong>Program Committee</strong></li>
+      <ul>
+        <li><a href="https://www.tahri.org/">International Symposium on Technological Advances in Human-Robot Interaction (TAHRI)</a></li>
+      </ul>
+      <li><strong>Reviewer</strong></li>
+        <ul>
+        <li><a href="https://ieee-iros.org/">IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</a></li>
+      </ul>
+    </ul>
   </li>
-  <li> 
-  2021: Reviewed for <a href="https://aiplans.github.io/"> Advances in Programming Languages and Neurosymbolic Systems Workshop (@Neurips 2021) </a>
-  </li> </ul>
+  <li>
+    <strong>2021</strong>
+    <ul>
+      <li><strong>Program Committee</strong></li>
+      <ul>
+        <li><a href="https://aiplans.github.io/">Advances in Programming Languages and Neurosymbolic Systems Workshop (@Neurips 2021)</a></li>
+      </ul>
+    </ul>
+  </li>
+</ul>
 
