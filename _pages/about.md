@@ -21,6 +21,21 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
 
 ## Publications & Patents
 <ul>
+    <li>Dynamic Model Predictive Shielding for Provably Safe Reinforcement Learning
+    <br />
+    <font size="3">
+      (Arko Banerjee, <b>Kia Rahmani</b>, Joydeep Biswas, Isil Dillig)
+    </font> 
+    <br /> 
+    <font size="2">
+      [Under Submission]
+      <a href="https://arxiv.org/abs/2405.13863">
+      [Arxiv]
+      </a>
+    </font>
+    </li>
+</ul>
+<ul>
     <li>Programmatic Imitation Learning from Unlabeled and Noisy Demonstrations
     <br />
     <font size="3">
