@@ -25,8 +25,8 @@ author:
   name             : "Zhenghao Zhou"
   pronouns         : # example: "she/her"  
   bio              : "a ordinary boy"
-  location         : "China"
-  employer         : "Red Brick University"
+  location         : "Changsha,China"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "Zachariah_Zhou@163.com" 
 
