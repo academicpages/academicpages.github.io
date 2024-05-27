@@ -16,7 +16,7 @@ tags:
 <div style="text-align: right;">
 <br>
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
-<em>No es inútil recordarles al respecto mi comparación del año pasado entre ciertos fenómenos del orden simbólico y lo que sucede en las máquinas, en el sentido moderno del término, esas máquinas que todavía no llegan a hablar, pero que de un minuto a otro lo harán. Se las nutre con pequeñas cifras y se espera que nos den lo que quizá nos hubiera tomado cien mil años calcular. Pero sólo podemos introducir cosas en el circuito respetando el ritmo propio de la máquina:<br> si no, caen en el vacío, no pueden entrar. [Todo] lo rehusado en el orden simbólico, en el sentido de la</em> Verwerfung, <em>reaparece en lo real.<br><br>
+<em>No es inútil recordarles al respecto mi comparación del año pasado entre ciertos fenómenos del orden simbólico y lo que sucede en las máquinas, en el sentido moderno del término, esas máquinas que todavía no llegan a hablar, pero que de un minuto a otro lo harán. Se las nutre con pequeñas cifras y se espera que nos den lo que quizá nos hubiera tomado cien mil años calcular. Pero sólo podemos introducir cosas en el circuito respetando el ritmo propio de la máquina: si no, caen en el vacío, no pueden entrar. [Todo] lo rehusado en el orden simbólico, en el sentido de la</em> Verwerfung, <em>reaparece en lo real.<br><br>
 
   [Y en] el momento en que aparece en lo real, es decir
 acompañado de ese sentimiento de realidad que es la característica fundamental del fenómeno elemental, el sujeto [psicótico en el fenómeno de la alucinación verbal] literalmente habla con su yo, y es como si un tercero, su doble, hablase y comentase su actividad.</em><br><br>
