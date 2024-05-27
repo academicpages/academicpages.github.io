@@ -3,7 +3,7 @@ title: 'De la materialidad de las ideas'
 date: 2024-05-27
 permalink: /posts/2024/27/materialidad/
 tags:
- 
+ - Random
 ---
 
 
