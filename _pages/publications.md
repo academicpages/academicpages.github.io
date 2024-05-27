@@ -17,7 +17,7 @@ author_profile: true
 
 ## Conference Papers:
 
-17. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, N. Du, [Adversarial Preference Optimization](https://arxiv.org/abs/2311.08045), Findings of the Association for Computational Linguistics (ACL), 2024
+17. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, T. Hu, P. Cao, N. Du, X. Li, [Adversarial Preference Optimization: Enhancing Your Alignment via RM-LLM Games](https://arxiv.org/abs/2311.08045), Findings of the Association for Computational Linguistics (ACL), 2024
 
 16. J. Xie, **P. Cheng**, X. Liang, Y. Dai, and N. Du, [Chunk, Align, Select: A Simple Long-sequence Processing Method for Transformers](https://arxiv.org/pdf/2308.13191.pdf), Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
