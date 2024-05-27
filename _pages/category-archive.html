@@ -10,6 +10,17 @@ sidebar_main: true
 {% assign combined_collection = site.study | concat: site.project | concat: site.snack %}
 {% include group-by-array collection=combined_collection field="categories" %}
 
+<!-- 카테고리별 게시물 수 요약 -->
+<div class="categories-summary">
+  <h2>Category Summary</h2>
+  <ul>
+    {% for category in group_names %}
+      {% assign posts = group_items[forloop.index0] %}
+      <li><a href="#{{ category | slugify }}">{{ category }}: {{ posts | size }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
 {% for category in group_names %}
   {% assign posts = group_items[forloop.index0] %}
   <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
