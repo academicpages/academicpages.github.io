@@ -1,3 +1,14 @@
+---
+permalink: /
+title: "Aditi A Surve"
+author_profile: true
+redirect_from:
+    - /about/
+    - /about.html
+
+---
+
+
 Hello!
 
 Welcome to my website. 
