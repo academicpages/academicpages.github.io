@@ -16,3 +16,4 @@ INS 300 Principles of Insurance, *Spring 2023, Spring 2024*
 : Introductory course discussing basic risk management concepts and techniques with applications to business and personal financial decision-making. Topics include life, property, casualty, liability, health, disability, and long-term care.
 : [Syllabus](http://hamzaessaidi.github.io/files/SyllabusINS300.pdf)
 
+Average Course Evaluation: 4.5/5.0: [Evaluations](http://hamzaessaidi.github.io/files/CES.pdf)
