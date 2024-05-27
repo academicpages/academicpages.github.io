@@ -15,7 +15,7 @@ tags:
 
 <div style="text-align: right;">
 <br>
-<div style="background-color: rgb(221, 221, 221); padding: 14px;">
+<div style="background-color: rgb(221, 221, 221); padding: 20px;">
 <em>No es inútil recordarles al respecto mi comparación del año pasado entre ciertos fenómenos del orden simbólico y lo que sucede en las máquinas, en el sentido moderno del término, esas máquinas que todavía no llegan a hablar, pero que de un minuto a otro lo harán. Se las nutre con pequeñas cifras y se espera que nos den lo que quizá nos hubiera tomado cien mil años calcular. Pero sólo podemos introducir cosas en el circuito respetando el ritmo propio de la máquina: si no, caen en el vacío, no pueden entrar. [Todo] lo rehusado en el orden simbólico, en el sentido de la</em> Verwerfung, <em>reaparece en lo real.<br><br>
 
   [Y en] el momento en que aparece en lo real, es decir
@@ -33,12 +33,12 @@ acompañado de ese sentimiento de realidad que es la característica fundamental
 
 <div style="text-align: right;">
 <br>
-<div style="background-color: rgb(221, 221, 221); padding: 14px;">
+<div style="background-color: rgb(221, 221, 221); padding: 20px;">
 <em>[Es] imposible desconocer, en la fenomenología de la psicosis, la originalidad del significante en cuanto tal. Lo que hay de tangible en el fenómeno de todo lo que se despliega en la psicosis, es que se trata del abordaje por el sujeto del significante en cuanto tal, y de la imposibilidad de ese abordaje.<br><br>
 
-[Por ejemplo, todos] los días los periódicos dicen que Dios sabe si es peligroso el progreso de la ciencia, etc., pero esto nos deja indiferentes. ¿Por qué? Porque están todos, incluyéndome a mí, insertos en ese significante mayor que se llama Papá Noel. Con Papá Noel esto siempre se arregla, y, diría aún mas, se arregla bien. </em><br>
+<br>[Por ejemplo, todos] los días los periódicos dicen que Dios sabe si es peligroso el progreso de la ciencia, etc., pero esto nos deja indiferentes. ¿Por qué? Porque están todos, incluyéndome a mí, insertos en ese significante mayor que se llama Papá Noel. Con Papá Noel esto siempre se arregla, y, diría aún mas, se arregla bien. </em><br><br>
 
-<em>¿De qué se trata en el psicótico? Supongan alguien impensable para nosotros, uno de esos señores de los que se cuenta —si es que alguna vez existió, no crean que otorgo importancia alguna a esos rumores— que eran capaces de disciplinarse hasta el punto de no creer en Papá Noel, y de convencerse de que todo el bien que se hace acarrea un mal equivalente, y que en consecuencia no hay que hacerlo. Basta con que lo admitan, aunque más no fuese un instante, para concebir que toda clase de cosas pueden depender de ello, que son fundamentales a nivel del significante.<br>
+<em>¿De qué se trata en el psicótico? Supongan alguien impensable para nosotros, uno de esos señores de los que se cuenta —si es que alguna vez existió, no crean que otorgo importancia alguna a esos rumores— que eran capaces de disciplinarse hasta el punto de no creer en Papá Noel, y de convencerse de que todo el bien que se hace acarrea un mal equivalente, y que en consecuencia no hay que hacerlo. Basta con que lo admitan, aunque más no fuese un instante, para concebir que toda clase de cosas pueden depender de ello, que son fundamentales a nivel del significante.<br><br>
 
 Pues bien, el psicótico tiene respecto a ustedes la desventaja, pero también el privilegio, de haberse hallado colocado en
 relación al significante un poquitito trastocado, atravesado. A
