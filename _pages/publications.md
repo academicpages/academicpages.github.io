@@ -5,43 +5,17 @@ permalink: /research/
 author_profile: true
 ---
 ## Corporate Finance
-### Confident CEOs, Unsteady Times: Corporate Innovation Following Natural Disasters
-### Abstract:
-Studies have documented a positive relationship between CEO Overconfidence and corporation
-innovation, and a negative relationship between natural disasters and corporate innovation outcomes.
-I examine the role of overconfidence in mediating the latter effect. Using a Difference-in-Difference
-model of natural disasters occurring between 1998 and 2017, I examine the impact of natural
-disasters on corporate innovation between affected firms led by both overconfident and non-
-overconfident managers. Firms led with overconfident managers consistently underperform relative to
-other affected firms, suggesting that overconfident CEOs are more prone to react negatively under
-distress, in both cross-sectional and fixed-effect models. In addition, I find that the negative
-association between natural disasters and corporate innovation is mostly driven by firms with
-Overconfident CEOs. The results are robust to alternative specifications of both disaster risk and managerial overconfidence. 
-
 
 ### Inventor's Inequality Aversion
 ### Abstract:
-I investigate the impact of inequality aversion on corporate innovation
-outcomes, specifically examining its variation across racial and ethnic lines among
-innovators by using Machine Learning to identify the characteristics of innovators. Using
-a quasi-natural experiment that required public U.S. firms to disclose both CEO and
-median employee pay, I find that although innovators are generally inequality averse,
-variations in aversion exist. Specifically, women, older individuals, and minority
-inventors exhibit higher levels of inequality aversion compared to men, younger
-individuals, and white inventors. This finding suggests a potential explanation for the
-observed disparity in innovation output between these groups. To further validate this
-hypothesis, I rely on previously disclosed information related to labor expenses and find
-that the effect is mitigated when a firm previously disclosed that information in their
-financial statements. Moreover, the drift between the expected pay of a CEO and the
-actual pay of CEO is higher, the innovation outcomes are lower. Conversely, the higher
-the drift between the expected pay of employees and the actual pay, the higher the
-innovation outcome. Altogether, these results show the presence of inequality aversion
-among inventors and its consequential effects on innovation when information becomes
-more available.
+The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. I examine how the first-time disclosure of the SEC-mandated CEO-worker pay ratio impacts innovation outcomes, both at the firm and inventor levels. I find a negative relationship between the disclosed pay ratio and subsequent quantity and quality of patent production. Information asymmetry, increased inventor mobility, and reduced productivity are all plausible channels that explain the observed reduction in innovation outcomes. Gender, race, and age cohorts of inventors explain variations in responses, consistent with the inequality aversion theory.
 
+### On the Resilience of Managerial Overconfidence
+### Abstract:
+This paper studies the resiliency of CEO overconfidence using a staggered Difference-in-Difference model of natural disasters occurring between 1996 and 2017 as proxy for distress. I examine the role of overconfidence in mediating the relationship between corporate innovation and natural disasters. The results are two-fold: (1) Affected firms led by overconfident CEOs consistently underperform relative to affected firms led by non-overconfident CEOs (2) The negative relationship between disasters and innovation outcomes documented in the literature is driven entirely by overconfident CEOs. Neither changes in R\&D expenditure nor changes in inventor productivity explain the results. However, risk perception and an increase in risk-aversion of Overconfident CEOs following natural disasters could explain the reduction in innovation outcomes. The results are robust to alternative specifications of both disaster risk and managerial overconfidence. The findings highlight the limitations of the benefits of overconfidence. 
 
 ## Risk Management and Insurance
-### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice. 
+### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice 
 *With Jing Ai*
 ### Abstract: 
 Flood insurance by the NFIP is the most important risk management infrastructure in the 
@@ -57,7 +31,7 @@ outcomes, being racial/ethnic minority exacerbates the effects. More nuanced eff
 across minority groups are also identified. Our results add to the discussions on 
 discrimination by institutions and have significant public policy implications.
 
-### The Demographics of Property Insurance: Evidence from the Homeowners Insurance Market. 
+### The Demographics of Property Insurance: Evidence from the Homeowners Insurance Market 
 *With Jing Ai and Charles Nyce*
 ### Abstract:
 We provide evidence that there is a disparate impact on minorities of the availability of private 
