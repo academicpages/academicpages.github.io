@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Aditi A Surve"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Pullman, WA"
   employer         : "Washington State University"
   uri              : # URL
