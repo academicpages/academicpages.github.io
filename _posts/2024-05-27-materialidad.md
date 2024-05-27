@@ -20,7 +20,7 @@ tags:
 
   [Y en] el momento en que aparece en lo real, es decir
 acompañado de ese sentimiento de realidad que es la característica fundamental del fenómeno elemental, el sujeto [psicótico en el fenómeno de la alucinación verbal] literalmente habla con su yo, y es como si un tercero, su doble, hablase y comentase su actividad.</em><br><br>
-</em> — Lacan, Seminario III, p. 24-26.
+ — Lacan, Seminario III, p. 24-26.
 
 </div><br>
 
@@ -46,7 +46,7 @@ partir del momento en que es conminado a ponerse de
 acuerdo con sus significantes, es necesario que haga un considerable esfuerzo de retrospección, que culmina, Dios mío, en
 cosas extremadamente descocadas, que constituyen lo que se
 llama el desarrollo de una psicosis.</em><br><br>
-</em> — Lacan, Seminario III, p. 455-457.
+ — Lacan, Seminario III, p. 455-457.
 
 </div><br>
 
