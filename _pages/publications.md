@@ -8,7 +8,7 @@ author_profile: true
 
 ### Inventor's Inequality Aversion
 ### Abstract:
-The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. I examine how the first-time disclosure of the SEC-mandated CEO-worker pay ratio impacts innovation outcomes, both at the firm and inventor levels. I find a negative relationship between the disclosed pay ratio and subsequent quantity and quality of patent production. Information asymmetry, increased inventor mobility, and reduced productivity are all plausible channels that explain the observed reduction in innovation outcomes. Gender, race, and age cohorts of inventors explain variations in responses, consistent with the inequality aversion theory.
+The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. I examine how the first-time disclosure of the SEC-mandated CEO-worker pay ratio impacts innovation outcomes, both at the firm and inventor levels. I find a negative relationship between the disclosed pay ratio and subsequent quantity and quality of patent production. Information asymmetry, increased inventor mobility, and reduced productivity are all plausible channels that explain the observed reduction in innovation outcomes with gender, race, and age cohorts of inventors explaining variations in responses, consistent with the inequality aversion theory.
 
 ### On the Resilience of Managerial Overconfidence
 ### Abstract:
