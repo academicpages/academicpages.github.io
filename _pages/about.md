@@ -17,16 +17,15 @@ I am currently a student at Otto-von-Guericke University pursuing a masters degr
 ## Skills and Expertise
 
 ### Technical Skills
-- **Programming Languages:** Python, C
-- **Cloud Technologies:** AWS
-- **Machine Learning:** TensorFlow, scikit-learn, PyTorch, Keras, openCV
-- **Shell Scripting:** Bash, zsh
-- **Version Control:** Git CLI, github
-- **Computer Networking:** TCP/IP, DNS, HTTP/HTTPS, SSH, subnet
+- **Programming Languages :**  Python , HTML, SQL (basics), C, Pyspark.
+- **Frameworks (DL, ML, CV, NLP ) :**  Tensorflow, Pytorch, Scikit-learn, openCV, opensmile, Rasa.
+- **Libraries (data, visualization, web) :**  Numpy, Pandas, Requests, Matplotlib, Seaborn , Jekyll, Flask.
+- **OS, Shell, version control:**  Linux, bash, Zsh , git cli.
+- **Cloud and MLops :**  AWS, Github, Heroku, MLFlow.
 
 ### Soft Skills
-- Problem-solving
-- Critical thinking
-- Team collaboration
+- Teamwork, Problem solving, creativity, Resilience, Critical thinking, Communication,
+consultative approach, research.
+
 
 
