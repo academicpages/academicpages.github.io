@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<h1>Posts in {{ page.title }}</h1>
+<ul>
+  {% for post in page.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
+/*
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
   {% include page__hero.html %}
 {% endif %}
@@ -22,3 +33,4 @@ layout: default
     {{ content }}
   </div>
 </div>
+*/
