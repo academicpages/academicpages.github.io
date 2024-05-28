@@ -5,6 +5,8 @@ permalink: /Projects/
 author_profile: true
 ---
 
+## [Course Companion](https://github.com/ethanlanders/Course-Companion)
+
 ## [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
 
 ### **Old Dominion University, Fall 2023**

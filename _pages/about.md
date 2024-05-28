@@ -14,4 +14,4 @@ Technology, understanding different cultures, and continual learning have always
 
 In December 2023, I began organizing for two local Southwest Florida Meetup communities, [Python SWFL](https://www.meetup.com/pythonswfl/) and the [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/).
 
-I am passionate about technology, communication, travel, concerts, and mastering Spanish :)
+I am passionate about technology, communication, travel, concerts, and mastering Spanish.
