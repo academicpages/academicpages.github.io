@@ -356,7 +356,7 @@ jekyll-archives:
     - categories
     - tags
   layouts:
-    category: archive-taxonomy
+    category: category
     tag: archive-taxonomy
   permalinks:
     category: /categories/:name/
