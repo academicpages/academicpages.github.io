@@ -26,7 +26,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 - Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
 
-- [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps)
+- [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps), Revision Requested, *Quantitative Economics*
     
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
