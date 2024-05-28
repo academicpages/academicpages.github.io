@@ -16,16 +16,11 @@ sidebar_main: true
   <ul>
     {% for category in group_names %}
       {% assign posts = group_items[forloop.index0] %}
-      <li><a href="#{{ category | slugify }}">{{ category }}: {{ posts | size }}</a></li>
+      <li>
+        <a href="{{ site.baseurl }}/categories/{{ category | slugify }}/">
+          {{ category }}: {{ posts | size }}
+        </a>
+      </li>
     {% endfor %}
   </ul>
 </div>
-
-{% for category in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ category | slugify }}" class="archive__subtitle">{{ category }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
-
