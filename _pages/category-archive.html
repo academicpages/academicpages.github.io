@@ -1,11 +1,21 @@
 ---
-layout: archive
+layout: page
 permalink: /categories/
 title: "Posts by Category"
 author_profile: true
 sidebar_main: true
 ---
 
+<h1>Categories</h1>
+<ul>
+  {% for category in site.categories %}
+    <li>
+      <a href="{{ site.baseurl }}/categories/{{ category[0] }}/">{{ category[0] }}</a> ({{ category[1].size }})
+    </li>
+  {% endfor %}
+</ul>
+
+/*
 {% include base_path %}
 {% assign combined_collection = site.study | concat: site.project | concat: site.snack %}
 {% include group-by-array collection=combined_collection field="categories" %}
@@ -28,3 +38,5 @@ sidebar_main: true
     {% include archive-single.html %}
   {% endfor %}
 {% endfor %}
+*/
+
