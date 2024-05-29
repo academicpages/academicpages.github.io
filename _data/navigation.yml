@@ -1,19 +1,16 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+
+  - title: "University"
+    url: /university/    
+
   - title: "Books"
     url: /books/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Thoughts"
+    url: /thoughts/
     
   - title: "CV"
     url: /cv/
