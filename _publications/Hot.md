@@ -2,13 +2,7 @@
 title: "Temperature and Insurance: Evidence from Baidu Index"
 collection: publications
 permalink: /publication/2024-05-08-paper-title-number-2
-excerpt: 'Abstract: This study evaluates the impacts of a tuberculosis (TB) control program in China. TB remained a
-public health threat in China in early 1990s, the Chinese Government introduced a comprehensive control
-program that incorporated the Directly Observed Treatment Short-Course across 13 provinces during 1992
-and 2001. Our study demonstrates the program reduces TB infection rates. Results regarding sickness, child
-care provision, and employment exhibit a diverse contemporaneous pattern across different age groups and
-urban-rural heterogeneity. The effect of the program spillover to the subsequent generation by increasing
-high school completion rate. The cost-benefit analysis demonstrates the cost-effectiveness of the program.'
+excerpt: 'Need to be done.'
 date: 2024-05-30
 venue: 'Working in progress'
 #paperurl: 'https://ynbsztl.github.io/publications/'
