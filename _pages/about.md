@@ -9,7 +9,9 @@ redirect_from:
 
 This is a temporary personal academic home page of Jingmin Huang.
 
-
+Working Papers
+======
+[Pirce Discrimination with estimation errors](https://www.dropbox.com/scl/fi/ns7cwms034mmjhbqd2yrn/1.pdf?rlkey=iyczof10p0ku5ygm9g956pqix&st=rt6wo2p5&dl=0)
 
 
 Next is the template
