@@ -16,12 +16,12 @@ Projects
 
 harmonic
 ------
-harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969).
+harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969). The original paper introducing the learned harmonic mean is available [here](https://arxiv.org/abs/2111.12720).
 
 
 S2WAV: Differentiable and accelerated spherical wavelets with JAX
 -------
-S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group, available on [GitHub](https://github.com/astro-informatics/s2wav) and PyPi. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators.
+S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group, available on [GitHub](https://github.com/astro-informatics/s2wav) and PyPi. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators. The paper introducing the algorithms is available [here](https://arxiv.org/abs/2402.01282).
 
 Project on coreference resolution at the Guardian
 -------
