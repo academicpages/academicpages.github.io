@@ -14,14 +14,14 @@ I'm a doctoral researcher at UCL's Centre for Doctoral Training in Data Intensiv
 Projects
 ======
 
-[harmonic](https://github.com/astro-informatics/harmonic)
+harmonic
 ------
-harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator (McEwen et al. 2021) to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2307.00048).
+harmonic is an open source, well tested and documented Python implementation of the learnt harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969).
 
 
-[S2WAV: Differentiable and accelerated spherical wavelets with JAX](https://github.com/astro-informatics/s2wav) 
+S2WAV: Differentiable and accelerated spherical wavelets with JAX
 -------
-S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators.
+S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group, available on [GitHub](https://github.com/astro-informatics/s2wav) and PyPi. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators.
 
 Project on coreference resolution at the Guardian
 -------
