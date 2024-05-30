@@ -6,7 +6,7 @@ excerpt: "Abstract: This study investigates the long and short-term effects of C
 date: 2024-05-30
 venue: "Social Science & Medicine"
 #paperurl: "http://academicpages.github.io/files/paper3.pdf"
-citation: "Guo, M., Huang, J., Li, F., Li, X., & Zhang, T. (2024). Living Environment Improvement and Human Capital Accumulation: Evidence from A Schistosomiasis Control Policy in China. <i>Social Science and Medicine, with editor</i>."
+citation: "Min, Guo.,Jingwei Huang*,Fenghang Li,Xun Li, Tianlei Zhang(2024). Living Environment Improvement and Human Capital Accumulation: Evidence from A Schistosomiasis Control Policy in China. <i>Social Science and Medicine, with editor</i>."
 ---
     
 
