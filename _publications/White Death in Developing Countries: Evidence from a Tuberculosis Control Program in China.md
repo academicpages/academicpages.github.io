@@ -9,7 +9,7 @@ and 2001. Our study demonstrates the program reduces TB infection rates. Results
 care provision, and employment exhibit a diverse contemporaneous pattern across different age groups and
 urban-rural heterogeneity. The effect of the program spillover to the subsequent generation by increasing
 high school completion rate. The cost-benefit analysis demonstrates the cost-effectiveness of the program.'
-date: 2024-05-30
+date: 2024-05-08
 venue: 'Journal of Development Economics'
 #paperurl: 'https://ynbsztl.github.io/publications/'
 citation: 'Min Guo, Jingwei Huang*, Tianlei Zhang. (2024). White Death in Developing Countries: Evidence from a Tuberculosis Control Program in China. <i>Journal of Development Economics, under review</i>.'
