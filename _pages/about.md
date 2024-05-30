@@ -25,7 +25,7 @@ S2WAV: Differentiable and accelerated spherical wavelets with JAX
 -------
 S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group, available on [GitHub](https://github.com/astro-informatics/s2wav) and PyPi. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators. The paper introducing the algorithms is available [here](https://arxiv.org/abs/2402.01282).
 
-Coreference resolution for quoate attribution at the Guardian
+Coreference resolution for quote attribution at the Guardian
 -------
 As part of my industry group project I had the opportunity to work with the amazing Data Science team at the Guardian on a project on coreference resolution for quote attribution in Guardian articles. Our work is described in a blog post on the Guardian website: "Who said what: using machine learning to correctly attribute quotes", [here](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes).
 
