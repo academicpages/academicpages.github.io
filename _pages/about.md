@@ -23,9 +23,9 @@ harmonic is an open source, well tested and documented Python implementation of 
 -------
 S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators.
 
-Who said what: using machine learning to correctly attribute quotes
+Project on coreference resolution at the Guardian
 -------
-As part of my industry group project I had the opportunity to work with the amazing Data Science team at the Guardian on a project on coreference resolution for quote attribution in Guardian articles. Our work is described in a blog post on the Guardian website [here](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes).
+As part of my industry group project I had the opportunity to work with the amazing Data Science team at the Guardian on a project on coreference resolution for quote attribution in Guardian articles. Our work is described in a blog post on the Guardian website: "Who said what: using machine learning to correctly attribute quotes", [here](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes).
 
 
 Alan Turing Institute Data Study Group
