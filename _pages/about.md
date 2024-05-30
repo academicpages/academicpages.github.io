@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the Scientific AI (SciAI) group at the Mullard Space Science Laboratory. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
 
+If you're interested in my work or have any questions please drop me an email!
+
 
 Projects
 ======
