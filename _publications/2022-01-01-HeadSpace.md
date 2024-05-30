@@ -9,3 +9,8 @@ category: publications
 date: 2022-01-01
 paperurl: /files/papers/headspace.pdf
 ---
+
+This paper is the conference version of HeadSpace, a FF-style heuristic search state-space narrative planner that can construct plans where characters can attempt (and fail) actions which they believe are executable in the world due to incorrect beliefs about the preconditions of the action.
+
+
+[Paper]({{ "/papers/headspace.pdf" }})
