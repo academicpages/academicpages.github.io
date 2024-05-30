@@ -18,6 +18,8 @@ Education
 
 Experience
 ======
+* 2024/05: Spring into Quant Finance Insights Week at G-Research
+
 * 2023/05: Data Study Group Participant at The Alan Turing Institute
 
 * 2023/01-05: Work experience, CDT Group project at The Guardian
@@ -31,13 +33,15 @@ Experience
 
 Awards and Accomplishments
 ======
-* International Research Opportunities (IROP) Award at Imperial College
+* Cosmology and Astroparticle Student and Postdoc Exchange Network (CASPEN) Grant
+* [G-Research Grant for early career researchers](https://www.gresearch.com/news/g-research-march-2024-grant-winners/)
+* International Research Opportunities (IROP) Award at Imperial College London
 * DAAD RISE Germany Scholarship
 * 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   

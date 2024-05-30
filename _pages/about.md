@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at the Mullard Space Science Laboratory. My research focuses on developing machine learning based methods for data analysis in Astrophysics and beyond. I am enthusiastic about applying data science to solve problems in a variety of research fields and industry.
+I'm a doctoral researcher at UCL's Centre for Doctoral Training in Data Intensive Science working with the AstroInfo group at the Mullard Space Science Laboratory. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
 
 
 Projects
@@ -22,3 +22,12 @@ harmonic is an open source, well tested and documented Python implementation of 
 [S2WAV: Differentiable and accelerated spherical wavelets with JAX](https://github.com/astro-informatics/s2wav) 
 -------
 S2WAV is a JAX package for computing wavelet transforms on the sphere and rotation group. It leverages autodiff to provide differentiable transforms, which are also deployable on modern hardware accelerators (e.g. GPUs and TPUs), and can be mapped across multiple accelerators.
+
+Who said what: using machine learning to correctly attribute quotes
+-------
+As part of my industry group project I had the opportunity to work with the amazing Data Science team at the Guardian on a project on coreference resolution for quote attribution in Guardian articles. Our work is described in a blog post on the Guardian website [here](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes).
+
+
+Alan Turing Institute Data Study Group
+-------
+Intense research sprint working on detecting land cover change in the Peak District National Park using multispectral aerial photography. Our team produced change maps using statistical and machine learning methods, explored the use of Siamese networks, autoencoders and introducing synthetic change to train supervised models for the task. Results from the project are described in a report available [here](https://www.turing.ac.uk/news/publications/data-study-group-final-report-peak-district-national-park-authority).
