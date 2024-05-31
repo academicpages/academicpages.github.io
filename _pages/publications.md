@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
+## Selected Preprints
 * <b>*SparseLLM*: Towards Global Pruning for Pre-trained Language Models</b>.<br>
 <b>Guangji Bai</b>, Yijiang Li, Chen Ling, Kibaek Kim, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
@@ -15,20 +15,10 @@ author_profile: true
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
 
-* <b>Knowledge-enhanced Neural Machine Reasoning: A Review</b>.<br>
-Tanmoy Chowdhury, Chen Ling, Xuchao Zhang, Xujiang Zhao, <b>Guangji Bai</b>, Jian Pei, Haifeng Chen, Liang Zhao.<br>
+* <b>Continuous Temporal Domain Generalization</b>.<br>
+Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao<br>
 <i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2302.02093)]<br>
-
-* <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
-<b>Guangji Bai</b>, Ziyang Yu*, Zheng Chai, Yue Cheng, Liang Zhao.<br>
-<i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2308.13466)][[code](https://github.com/BaiTheBest/SAT)]<br>
-
-* <b>Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization</b>.<br>
-Zheng Chai, <b>Guangji Bai*</b>, Liang Zhao, Yue Cheng.<br>
-<i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2206.00057)][code]<br>
+[[paper](https://arxiv.org/abs/2405.16075)]<br>
 
 ## 2024
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
