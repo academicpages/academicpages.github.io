@@ -6,11 +6,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  #- title: "Teaching"
-   # url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Portfolio"
+    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -20,5 +20,5 @@ main:
     
   #- title: "Skills"
    # url: /markdown/
-   - title: "Research"
-     url: /non-menu-page/
+  - title: "Research"
+    url: /non-menu-page/
