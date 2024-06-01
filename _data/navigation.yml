@@ -1,5 +1,15 @@
 # main links links
 main:
+
+    
+  - title: "CV"
+    url: /cv/
+    
+  #- title: "Skills"
+   # url: /markdown/
+  - title: "Research"
+    url: /non-menu-page/
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,11 +24,3 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  #- title: "Skills"
-   # url: /markdown/
-  - title: "Research"
-    url: /non-menu-page/
