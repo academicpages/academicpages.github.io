@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "china"
+title                    : "academic"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "lyc"
 description              : &description "personal description"
 url                      : https://thelychen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
