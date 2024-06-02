@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# 
+<br>
 Hello! My name is **Junhan Zhang (Julien, 张峻涵)**. I am currently a Master's student majoring in Intellectual Property Management at the Shanghai International College of Intellectual Property (SICIP) at Tongji University.
 
 ## About Me
@@ -24,9 +24,9 @@ I had the great honor of being advised by [*Mei Xue*](https://ocean.tongji.edu.c
 - Intellectual Property Management
 
 ## Education
-- Sep. 2021 - Present, *M.Sc.* in Intellectual Property Management, Shanghai International College of Intellectual Property (SICIP), *Tongji University*, China
-- Oct. 2023 - Apr. 2024, *Exchange student*, RWTH Business School, *Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)*, Germany
-- Sep. 2017 - Jul. 2021, *B.Sc.* in Geophysics, School of Ocean and Earth Science, *Tongji University*, China
+- *Sep. 2021 - Present*, **M.Sc. in Intellectual Property Management**, Shanghai International College of Intellectual Property (SICIP), **Tongji University**, China
+- *Oct. 2023 - Apr. 2024*, **Exchange student**, RWTH Business School, **Rheinisch-Westfälische Technische Hochschule Aachen (RWTH Aachen University)**, Germany
+- *Sep. 2017 - Jul. 2021*, **B.Sc. in Geophysics**, School of Ocean and Earth Science, **Tongji University**, China
 
 ## Skills
 - Programming: C/C++, Matlab, Python, R, Stata, LaTeX
