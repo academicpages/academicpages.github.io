@@ -10,17 +10,24 @@ redirect_from:
 
 ## ES  
 
-Soy investigador independiente de CONICET en el [Laboratorio de Ecología Evolutiva](https://eebfblog.wordpress.com/), ([IMBIV](http://imbiv.conicet.unc.edu.ar/), [Universidad Nacional de Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina). Estudio ecología y evolución de las interacciones planta-animal, centrado en evolución rápida, adaptación local, especiación y diversificación. Para abordar estos temas, en nuestro grupo de investigación aplicamos una variedad de métodos: cuantificación del color, morfometría geométrica, filogenética, genética de poblaciones y diferentes modelos estadísticos en R. Algunas preguntas que motivan mi investigación son:   
+Soy investigador independiente del Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET) en el [Laboratorio de Ecología Evolutiva](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), Instituto Multidisciplinario de Biología Vegetal ([IMBIV](http://imbiv.conicet.unc.edu.ar/), Universidad Nacional de Córdoba - CONICET, Argentina). También soy actualmente Presidente de la Sociedad Argentina de Biología Evolutiva ([SABE](https://sociedadevolucion.com.ar/)).
 
-+ ¿Cómo se acumulan los cambios cuantitativos y se transforman en diferencias cualitativas durante la especiación?   
-+ ¿La asociación de rasgos permanece estable durante el cambio evolutivo? ¿Cómo entender el doble papel de las asociaciones de rasgos como restricción y resultado de la selección natural?   
-+ ¿Cómo surgen los rasgos complejos y cómo se mantienen estables durante la evolución?   
+Mi investigación se centra en la ecología y evolución de las interacciones planta-animal, evolución rápida, adaptación local, especiación y diversificación. La mayor parte de mis trabajos recientes se cetran en el género *Salvia* y sus polinizadores. En nuestro grupo de investigación utilizamos diversos métodos, como la morfometría geométrica, la cuantificación del color, la filogenética, la genética de poblaciones y la modelización estadística. 
+
+Las cuestiones clave que impulsan mi investigación son
++ ¿Cómo se acumulan los cambios cuantitativos y se transforman en diferencias cualitativas durante la especiación?
++ ¿Permanecen estables las asociaciones de rasgos durante el cambio evolutivo? ¿Cómo podemos entender el doble papel de las asociaciones de rasgos como limitaciones y resultados de la selección natural?
++ ¿Cómo surgen los rasgos complejos y se mantienen estables durante la evolución?
 
 ## EN   
 
-I am CONICET independent researcher at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), ([IMBIV](http://imbiv.conicet.unc.edu.ar/), [National University of Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina). I study the ecology and evolution of plant-animal interactions, rapid evolution, local adaptation, speciation and diversification. To do this, in our reserarch group we apply a variety of methods: color quantification, geometric morphometrics, phylogenetics, population genetics and statistical modelling in R. Some questions that motivate my research are:   
+I am independent researcher with the National Council of Scientific and Technical Research (CONICET) at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), Multidisciplinary Institute of Plant Biology ([IMBIV](http://imbiv.conicet.unc.edu.ar/), National University of Córdoba - CONICET, Argentina). I am also currently President of the Argentine Society of Evolutionary Biology ([SABE](https://sociedadevolucion.com.ar/)).
 
-+ How quantitative changes accumulates and transform into qualitative differences during speciation?   
-+ Do trait association remain stable during evolutionary change? How to understand the dual role of trait associations as constraints and outcomes of natural selection?   
-+ How complex traits arise and remain stable during evolution?
+My research focuses on the ecology and evolution of plant-animal interactions, rapid evolution, local adaptation, speciation and diversification. Most of my recent work focuses on the genus *Salvia* and its pollinators. In our research group we use a variety of methods including  geometric morphometrics, colour quantification, phylogenetics, population genetics and statistical modelling.
+
+Key questions driving my research include
++ How do quantitative changes accumulate and transform into qualitative differences during speciation?
++ Do trait associations remain stable during evolutionary change? How can we understand the dual role of trait associations as both constraints and outcomes of natural selection?
++ How do complex traits emerge and remain stable during evolution?
+
 

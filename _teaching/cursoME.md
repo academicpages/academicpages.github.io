@@ -8,4 +8,4 @@ date: 2019-10-22
 location: "Córdoba, Argentina"
 ---
 
-Podés consultar la última versión disponible de este curso [aquí](https://santiagombv.github.io/cursoME/).
+Dictado junto a la Dra. Mariana Pereyra. Podés consultar la última versión disponible de este curso [aquí](https://curso-statscba.github.io/modelos_avanzados/index.html). Para versiones antriores [aquí](https://santiagombv.github.io/cursoME/).
