@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "BJJ"
+title: "The BJJ Journey"
 permalink: /bjj/
 author_profile: true
 redirect_from:
@@ -10,7 +10,24 @@ redirect_from:
 
 
 
-### (September 15, 2022) I started training at Renzo Gracie Austin under [John Danaher](https://en.wikipedia.org/wiki/John_Danaher_(martial_artist)).
-### (June 11, 2022) I received my second stripe from Coach Carlos Soto.
-### (DECEMBER 7, 2021) I received my first stripe from Coach Carlos Soto.
+Here, I share my thoughts and experiences related to the art and science of [Brazilian Jiu Jitsu](https://en.wikipedia.org/wiki/Brazilian_jiu-jitsu).
+
+---
+
+## Southern California: The Birthplace of BJJ in the United States
+
+TBD
+
+
+---
+
+## Training in Austin: The wisdom of John Danaher
+
+TBD
+
+---
+
+## The Beginnings: The Impact of Impact Zone
+
+TBD
 
