@@ -7,7 +7,7 @@ author_profile: true
 
 
 * **M.Sc. Student in Computer Engineering** <br>
-**Amirkabir University of Technology (Tehran Polytechnique), Tehran, Iran** <br>
+**Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran** <br>
 Advisor: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB;"> Prof. Morteza Saheb Zamani</a> <br>
 
 
