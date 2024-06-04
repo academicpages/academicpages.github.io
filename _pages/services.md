@@ -23,6 +23,8 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
+1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Artificial Intelligence.</span>
+1. <span style="font-size: 16px;">Reviewer, IEEE Open Journal of the Communications Society.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE JSAC Special Issue on Open RAN: a New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Services Computing.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Mobile Computing.</span>
