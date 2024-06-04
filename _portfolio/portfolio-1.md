@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Earthquake Simulartion for Emergency Prevention in Turkey"
+excerpt: "Applying network science models to simulate and validate the geographical exposure of infrastructure to natural disasters, with an application to the recent earthquakes in Turkey/Syria. <br/><img src='/images/earthquakes.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Applying network science models to simulate and validate the geographical exposure of infrastructure to natural disasters, with an application to the recent earthquakes in Turkey/Syria.

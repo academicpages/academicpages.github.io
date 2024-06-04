@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* ME in Computational Science and Engineering, Harvard University, 2024
+* BSc in Mathematics and Physics, Biology minor, Ecole Polytechnique, 2022
+* Visiting student in Engineering, Oxford University, Fall 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2023 - June 2024: Research Assistant - Pehlevan Lab
+  * Harvard University
+  * Supervisor: Professors Dina Obeid and Cengiz Pehlevan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2024 -  May 2024: Teaching Fellow
+  * Harvard University. Course : GENED1188: Rise of the Machines? Understanding and Using Generative AI
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2023 - December 2023: Teaching Fellow
+  * Harvard University. Course : APMTH 10: Computing with Python for Scientists and Engineers
+
+* September 2022 - April 2024: CEO & Co-Founder - Anemone
+  * Anemone is an alternative to LinkedIn dedicated to cultural and creative industries
+
+* Summer 2021: Research Assistant
+  * National Institute for Research in Digital Technology (INRIA)
+  * Supervisor: Professor Martin Genet
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * C++
+  * React
+  * React-Native
+  * Git-Github
+  * Latex
+* Languages
+  * French
+  * English
+  * Spanish
 
 Publications
 ======
