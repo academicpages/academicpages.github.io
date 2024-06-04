@@ -41,8 +41,12 @@ Skills
   * C++
   * React
   * React-Native
+  * Pytorch
+  * TensorFlow
+  * NetworkX
   * Git-Github
   * Latex
+  * Weights and Biases
 * Languages
   * French
   * English
