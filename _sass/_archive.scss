@@ -42,8 +42,6 @@
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
-  text-align: justify; /* 추가된 부분 */
-  text-align-last: left; /* 추가된 부분 */
 
   a + a {
     opacity: 0.5;
@@ -62,8 +60,6 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
-  text-align: justify; /* 추가된 부분 */
-  text-align-last: left; /* 추가된 부분 */
 
   & + p {
     text-indent: 0;
