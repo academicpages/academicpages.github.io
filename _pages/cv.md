@@ -34,7 +34,7 @@ Experience
 Awards and Accomplishments
 ======
 * Cosmology and Astroparticle Student and Postdoc Exchange Network (CASPEN) Grant
-* [G-Research Grant for early career researchers](https://www.gresearch.com/news/g-research-march-2024-grant-winners/)
+* G-Research Grant for early career researchers
 * International Research Opportunities (IROP) Award at Imperial College London
 * DAAD RISE Germany Scholarship
 * 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
