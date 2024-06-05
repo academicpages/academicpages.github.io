@@ -72,6 +72,7 @@ Skills
   * React-Native
   * Pytorch
   * TensorFlow
+  * Pandas
   * NetworkX
   * FastApi
   * tailwindcss
