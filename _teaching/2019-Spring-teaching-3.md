@@ -1,5 +1,5 @@
 ---
-title: "Tutoring for High School Finalists at Lycée Camille Claudel, Palaiseau, France"
+title: "Tutoring for High School Finalists at Lycée Camille Claudel"
 collection: teaching
 type: "Senior High School Mathematics"
 permalink: /teaching/2019-spring-teaching

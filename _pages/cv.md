@@ -65,11 +65,14 @@ Skills
 * Programming
   * Python
   * C++
+  * SQL
   * React
   * React-Native
   * Pytorch
   * TensorFlow
   * NetworkX
+  * FastApi
+  * tailwindcss
   * Git-Github
   * Latex
   * Weights and Biases
