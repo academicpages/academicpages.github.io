@@ -21,19 +21,41 @@ Work experience
   * Harvard University
   * Supervisor: Professors Dina Obeid and Cengiz Pehlevan
 
-* January 2024 -  May 2024: Teaching Fellow
-  * Harvard University. Course : GENED1188: Rise of the Machines? Understanding and Using Generative AI
-
-* September 2023 - December 2023: Teaching Fellow
-  * Harvard University. Course : APMTH 10: Computing with Python for Scientists and Engineers
-
 * September 2022 - April 2024: CEO & Co-Founder - Anemone
-  * Anemone is an alternative to LinkedIn dedicated to cultural and creative industries
+  * [Anemone](https://anemone.paris) is an alternative to LinkedIn dedicated to cultural and creative industries
 
 * Summer 2021: Research Assistant
   * National Institute for Research in Digital Technology (INRIA)
   * Supervisor: Professor Martin Genet
+ 
+
+
+<!-- 
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+
+Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
+
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
+ 
 Skills
 ======
 * Programming
@@ -51,26 +73,3 @@ Skills
   * French
   * English
   * Spanish
-  
-<!-- 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
