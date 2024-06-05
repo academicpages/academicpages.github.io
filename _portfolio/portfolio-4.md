@@ -1,6 +1,6 @@
 ---
 title: "Extending Lotka-Volterra Equations to n-species"
-excerpt: "Project as part of AM205 <br/><img src='/images/lotka-volterra.png'>"
+excerpt: "Project as part of AM205 course at Harvard <br/><img src='/images/lotka-volterra.png'>"
 collection: portfolio
 ---
 
