@@ -23,6 +23,7 @@ Work experience
 
 * September 2022 - April 2024: CEO & Co-Founder - Anemone
   * [Anemone](https://anemone.paris) is an alternative to LinkedIn dedicated to cultural and creative industries
+  * Recipient of a 30k€ subsidy from French Public Investment Bank (BPI) and Greater Paris Region
 
 * Summer 2021: Research Assistant
   * National Institute for Research in Digital Technology (INRIA)
