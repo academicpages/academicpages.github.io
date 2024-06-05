@@ -30,7 +30,6 @@ Work experience
   * Supervisor: Professor Martin Genet
  
 
-
 <!-- 
 Publications
 ======
@@ -55,6 +54,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Honors
+======
+* Recipient of the Arthur Sachs Scholarship granted to French students admitted to Harvard 
+* Awarded the following distinction at Ecole Polytechnique : _Outstanding student who has distinguished himself through his dedication to the Ecole Polytechnique community and to the welfare of society._
 
  
 Skills

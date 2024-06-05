@@ -1,7 +1,7 @@
 ---
-title: "Mobile App to get historical insights on Parisian Metro Stations"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Metropolis"
+excerpt: " Mobile App to get historical insights on Parisian Metro Stations <br/><img src='/images/logo_metro.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Parisian has a rich cultural history and although I grew up there, I still don't know the origin behind the names of most metro stations which are grounded in historical events. I developed an app to get historical insights behind metro stations in Paris, which not maps all metro locations on a 2d grid (organized by lines) and links them to a description of their name's origin. A preview of it can be found [here](https://youtu.be/P3YZqTRIS44). 
