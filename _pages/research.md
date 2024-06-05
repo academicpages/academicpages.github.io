@@ -64,7 +64,7 @@ undermines states' ability to regulate in isolation.
 <p>
 <p>
   
-Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">Under review</a>) 
+Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/O'Brien-Udry_greening_aid.pdf">Under review</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
