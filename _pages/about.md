@@ -8,9 +8,9 @@ redirect_from:
 ---
 Welcome to my website !
 
-I just graduated from Harvard with a Master of Engineering in Computational Science and Engineering. I also obtained a BSc at Ecole Polytechnique where I double majored in mathematics and physics, and minored in Biology. 
+I recently graduated from Harvard with a Master of Engineering in Computational Science and Engineering. Before that, I earned a Bachelor of Science degree from Ecole Polytechnique, where I double majored in Mathematics and Physics, and minored in Biology.
 
-I am fascinated with AI's multimodal applications. My hobbies are playing chess and composing music.
+I am passionate about the multimodal applications of AI. In my free time, I enjoy playing chess and composing music.
 
 I also love [marmite](https://en.wikipedia.org/wiki/Marmite#:~:text=Marmite%20(%2Fˈm%C9%91%CB%90rm,by%20the%20British%20company%20Unilever)).
 
