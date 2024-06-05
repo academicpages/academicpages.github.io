@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Majid Ghasemi"
 title_separator          : "-"
 name                     : &name "Majid Ghasemi"
-description              : &description "Computer Science Bachelor's Degree Student at IKIU"
+description              : &description "Graduate Teaching & Research Assistant - Wilfrid Laurier University, Canada"
 url                      : https://majidghassemi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majidghassemi/majidghassemi.github.io"
@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Majid Ghasemi"
   avatar           : "profile.jpg"
-  bio              : "Computer Science Student at IKIU - Machine Learning Researcher"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "majiddghassemi@gmail.com"
+  bio              : "Graduate Teaching & Research Assistant - Wilfrid Laurier University, Canada"
+  googlescholar    : "https://scholar.google.com/citations?user=cHOAJEgAAAAJ&hl=en"
+  email            : "mghasemi@wlu.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   github           : "majidghassemi"
   linkedin         : "https://www.linkedin.com/in/majiddghasemi/"
-  orcid            : "https://orcid.org/0000-0001-5785-2843"
-  twitter          : "https://twitter.com/_thewm"
+  # orcid            : "https://orcid.org/0000-0001-5785-2843"
+  # twitter          : "https://twitter.com/_thewm"
 
 
 # Reading Files
