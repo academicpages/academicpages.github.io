@@ -63,20 +63,19 @@ undermines states' ability to regulate in isolation.
 
 <p>
 <p>
-
-
-<h2 style="font-size:22px; "> Working Papers</h2>
-
-<p>
-<p>
   
-Greening Foreign Aid: How International Efforts to Promote Clean Energy Backfire (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">draft</a>) 
+Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/o'brien-udry_JMP.pdf">Under review</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
-  Greening foreign aid is a vital step in the fight against climate change. However, international promotion of climate-friendly policies may come at a perceived cost of development support. As international actors withdraw their support from fossil fuel projects and move towards renewable sources, the distributional effects of these policies can create backlash against both international funders and their domestic allies in developing countries. I use a spatial difference-in-differences design to show that the withdrawal of World Bank support for a coal plant in Kosovo altered voting patterns for pro-international parties; coal-producing areas voted disproportionately against this party in the wake of withdrawal. However, places with potential for investment in renewables voted for the pro-international party. While international organizations can incentivize climate-friendly policies in developing nations, these interventions reshape the distribution of economic benefits in recipient countries. In the global fight against climate change, who bears the cost of international action may determine the interventions' fate.
+Greening foreign aid is a vital step in the fight against climate change, but requires donors to shift their funding away from carbon-intensive development projects. Novel data from the World Bank shows that aid withdrawal, particularly in the energy sec- tor, is common. As donors withdraw their support for fossil fuels in favor of renewable energy, the economic benefits to voters in aid-dependent countries depends on their representatives’ links to foreign funding. I use a spatial difference-in-differences design to test the theory in the case of the World Bank’s withdrawal of support for a coal plant in Kosovo. Aid withdrawal altered voting patterns for parties with close ties to the international community: coal-producing areas voted disproportionately against this party while places with potential for investment in renewables voted for it. The distri- butional effects of the green energy transition may determine long-term international influence as their domestic allies bear the costs (and benefits). The centrality of inter- national funding for energy in developing nations adds nuance to our understanding of global climate politics.
 </details>
 
+<p>
+<p>
+
+
+<h2 style="font-size:22px; "> Working Papers</h2>
 <p>
 <p>
   
@@ -100,9 +99,36 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 <p>
 
+<h2 style="font-size:22px; "> In Progress </h2>
+
+<p>
+<p>
+  
+The Politics of the Environmental Kuznets Curve (with <a href= "https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>)
+<details>
+  <summary><i>Abstract</i></summary>
+  
+How do politics map onto the environmental Kuznets curve (EKC)? According to the EKC, as countries develop from low to middle-income, they specialize in industries with higher emissions. Both very low-income (pre-industrialized) and very high-income (de-industrialized) countries are comparatively more likely to specialize in low-emission sectors. We argue that countries on different locations of the EKC will vary in their domestic political cleavages. While populism and environmentalism are at odds in de-industrialized countries, newly industrialized countries will see parties unify the two concepts. Data from political party manifestos and public statements supports these conjectures. We then trace the evolution of support for environmental and populist policies amongst programmatic political parties in sub-Saharan Africa.  Using historical labor and public opinion data, we examine if political parties representing ethnic groups with labor concentration in newly exporting industries become more likely to oppose both environmental and populist policies. Concurrently, we look at when the international community begins to increase its support for environmentally friendly policies, these parties simultaneously become anti-international collaboration while maintaining pro-globalization positions.
+</details>
+
+<p>
+<p>
 
 
+<p>
+<p>
+  
+Gender and Opportunity in the Post-Carbon Economy (with <a href= "https://www.richardtclark.com/">Richard Clark</a> and <a href= "https://www.noahzucker.com/">Noah Zucker</a>)
+<details>
+  <summary><i>Abstract</i></summary>
+  
+Women are typically more supportive of climate action than men. However, in fossil fuel communities, women align with men in resisting decarbonization. How can we make sense of this? We argue that differences in post-carbon economic opportunity explain variation in women's support for decarbonization. In areas reliant on fossil fuel industries intensive in low-skilled male labor, communities underinvest in education and gender-equitable welfare. This leaves women without the skills or time needed to find gainful employment as husbands in fossil fuel industries lose work, diminishing the appeal of decarbonization. Where investments of this sort are made, women are better able to find well-paying jobs as fossil fuel industries decline, increasing the appeal of the post-carbon economy. Men, who often see their social status as tied to the survival of local fossil fuel industries, are less swayed by changes in post-carbon economic opportunity. To support this argument, we combine local labor market data with original survey experiments fielded in coal, oil, and gas communities across the United States. Our findings shed light on the makeup of climate coalitions in advanced economies and highlight the importance of centering gender in just transition policymaking.
 
+
+</details>
+
+<p>
+<p>
 
 
 <h2 style="font-size:22px; "> Other Work </h2>
