@@ -1,14 +1,14 @@
 ---
 layout: archive
 title: ""
-permalink: /dissertation/
+permalink: /bookproject/
 author_profile: true
 ---
 
-# Pre-Electoral Coalitions in Electoral Autocracies
+# Ousting an Autocrat: Temporary Alliances of Opposition Parties in Electoral Authoritarian Regimes
 
 ## Research Question and Motivation
-As of 2022, more than $72\%$ of the world population lives under autocracies. Opposition in these regimes is often deemed as weak and fragmented. However, opposition political parties in autocracies are the locus of the most organized form of dissent against the incumbent, and little research focuses on these parties. My dissertation project examining opposition political parties' electoral strategies in authoritarian settings aims to unravel mechanisms leading to liberalizing outcomes. To understand how and when opposition political parties pave the way for autocratic reversal, I start from the assumption in the literature that opposition coalitions are needed to effectively challenge autocratic incumbents. I investigate an understudied aspect of autocratic reversal: ``**under what conditions do some opposition parties in electoral authoritarian regimes successfully form a pre-electoral coalition (PEC), while others fail to coordinate?**''
+As of 2022, more than $72\%$ of the world population lives under autocracies. Opposition in these regimes is often deemed as weak and fragmented. However, opposition political parties in autocracies are the locus of the most organized form of dissent against the incumbent, and little research focuses on these parties. My book project examining opposition political parties' electoral strategies in authoritarian settings aims to unravel mechanisms leading to liberalizing outcomes. To understand how and when opposition political parties pave the way for autocratic reversal, I start from the assumption in the literature that opposition coalitions are needed to effectively challenge autocratic incumbents. I investigate an understudied aspect of autocratic reversal: ``**under what conditions do some opposition parties in electoral authoritarian regimes successfully form a pre-electoral coalition (PEC), while others fail to coordinate?**''
 
 ## Argument
 Existing literature highlights specific institutional characteristics and the level of repression as the primary explanatory factors in coalition formation. In my research, I show that the agency of these parties matters as much as the context that they operate. I theorize on two factors: (1) internal organization and cohesiveness of each party, and (2) ideological polarization of parties in the opposition. More importantly, I argue that these two factors are not independent of each and that different combinations of these two factors matter in coalition-building. I offer cross-sectional and cross-temporal evidence on electoral coalitions in electoral authoritarian regimes. My research shows that party institutions matters. Particularly, I find that highly polarized opposition parties can come to an agreement only if they have strong internal structure. With this research, I contribute to the emerging literature on opposition coordination, and provide critical insights for opposition actors at the normative level.
@@ -29,4 +29,4 @@ In the final empirical chapter, I investigate the proposed question using the ca
 - Received the **Best Paper Award** at ISA-South for third emprical chapter 
 - **Best Fieldwork Award -- Honorable Mention** from APSA's Democracy and Autocracy section
 - Got **2nd place at 3MT** (The Three Minute Thesis) Competition at GSU
-- My dissertation research has been supported by the [William A. Steiger Fund for Legislative Studies](https://connect.apsanet.org/centennialcenter/2022/09/01/pre-electoral-opposition-coalitions-in-authoritarian-regimes/) of the APSA Centennial Grant, Craigie Fellowship, and GSU's [Library Dissertation Award](https://graduate.gsu.edu/dissertation-library-travel-awards/).  
+- My book project is based on my dissertation research which has been supported by the [William A. Steiger Fund for Legislative Studies](https://connect.apsanet.org/centennialcenter/2022/09/01/pre-electoral-opposition-coalitions-in-authoritarian-regimes/) of the APSA Centennial Grant, Craigie Fellowship, and GSU's [Library Dissertation Award](https://graduate.gsu.edu/dissertation-library-travel-awards/).  
