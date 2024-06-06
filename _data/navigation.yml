@@ -3,20 +3,21 @@ main:
   - title: "CV"
     #url: /cv/
     url: /files/Resume.pdf
- # - title: "Publications"
- #   url: /publications/
+
+ - title: "Pentest Lab Writeups"
+    url: /year-archive/
+    
+  - title: "OSCP Notes"
+    url: /publications/
 
  # - title: "Talks"
  #   url: /talks/    
 
  # - title: "Teaching"
  #   url: /teaching/    
-
-  - title: "Pentest Lab Writeups"
-    url: /year-archive/
     
-  - title: "OSCP Notes"
-    url: /portfolio/
+ # - title: "Portfolio"
+ #  url: /portfolio/
     
  #  - title: "Guide"
  #    url: /markdown/
