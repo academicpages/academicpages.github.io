@@ -43,6 +43,22 @@ author_profile: true
   border: 1px solid #ccc;
   border-top: none;
 }
+
+/* Style the GitHub button */
+.github-button {
+  display: inline-block;
+  padding: 10px 20px;
+  margin-top: 10px;
+  font-size: 16px;
+  background-color: #24292e;
+  color: #ffffff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.github-button:hover {
+  background-color: #3b4045;
+}
 </style>
 
 <div class="tab">
@@ -52,11 +68,25 @@ author_profile: true
 </div>
 
 <div id="CourseCompanion" class="tabcontent">
-  <h2><a href="https://github.com/ethanlanders/Course-Companion">Course Companion</a></h2>
+  <h2>Course Companion</h2>
+  <a href="https://github.com/ethanlanders/Course-Companion" class="github-button">View on GitHub</a>
+  <h3>Old Dominion University, Fall 2023 & Spring 2024</h3>
+  <p>Worked with a team of eight on our senior year capstone project to develop Course Companion, a tool designed to help university instructors improve the accessibility and quality of their course materials. This software allows educators to upload course materials for in-depth analysis, providing valuable insights and suggestions for enhancement.</p>
+  <h4>Key Features:</h4>
+    <ul>
+      <li>Navigable GUI for easy use</li>
+      <li>Document analysis for course materials in various file types</li>
+      <li>Accessibility suggestions for educators</li>
+      <li>Detailed report generation for easy review and reference</li>
+      <li>View and save previously generated reports</li>
+    </ul>
+    <h4>Technologies Used:</h4>
+    <p>Python, PyQt5, Pandoc</p>
 </div>
 
 <div id="UrbanAnalysis" class="tabcontent">
-  <h2><a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project">Walkability and Well-Being - An Urban Analysis</a></h2>
+  <h2>Walkability and Well-Being - An Urban Analysis</h2>
+  <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
   <h3>Old Dominion University, Fall 2023</h3>
 
   <video width="100%" height="400" controls allowfullscreen>
@@ -79,7 +109,8 @@ author_profile: true
 </div>
 
 <div id="CPUScheduling" class="tabcontent">
-  <h2><a href="https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project">CPU Scheduling & Process Synchronization</a></h2>
+  <h2>CPU Scheduling & Process Synchronization</h2>
+  <a href="https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project" class="github-button">View on GitHub</a>
   <h3>Old Dominion University, Fall 2023</h3>
 
   <video width="100%" height="400" controls allowfullscreen>
