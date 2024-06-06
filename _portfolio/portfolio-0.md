@@ -1,6 +1,6 @@
 ---
 title: "Neural Regularization Without Neural Data to Increase DNN's Adversarial Robustness"
-excerpt: "Master's Thesis - Investigating a neuroscience inspired defense adversarial attacks, and proposing another approach which obtains improved results. Our method does not require neural data making it accessible to the wide ML community. <br/><img src='/images/spectra_2_final_all.png'>"
+excerpt: "Master's Thesis - Recent studies indicate that training CNNs with regularizers that promote brain-like representations, using neural recordings, can improve model robustness. However, the requirement to collect neural data restricts the utility of these methods. We developed a regularizer that mimics the computational function of neural regularizers without the need for direct neural recordings, thereby expanding the usability and effectiveness of these techniques. <br/><img src='/images/spectra_2_final_all.png'>"
 collection: portfolio
 ---
 
