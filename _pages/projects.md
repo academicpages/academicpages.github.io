@@ -62,9 +62,9 @@ author_profile: true
 </style>
 
 <div class="tab">
-  <button class="tablinks" onclick="openProject(event, 'CourseCompanion')">Course Companion</button>
-  <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')">Walkability & Well-Being</button>
-  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')">CPU Scheduling & Process Synchronization</button>
+  <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
+  <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
+  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Scheduling & Process Synchronization</b></button>
 </div>
 
 <div id="CourseCompanion" class="tabcontent">
@@ -150,8 +150,4 @@ function openProject(evt, projectName) {
   document.getElementById(projectName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-window.onload = function() {
-  // Simulate a click on the first project tab when the page loads
-  document.querySelector('.tablinks:first-child').click();
-};
 </script>
