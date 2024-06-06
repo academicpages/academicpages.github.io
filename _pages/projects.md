@@ -70,6 +70,7 @@ author_profile: true
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
+  <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
   <h3>Video Demo:</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GDShteNxp6c" frameborder="0" allowfullscreen></iframe>
 </div>
@@ -95,7 +96,7 @@ author_profile: true
   <h2>Walkability and Well-Being - An Urban Analysis</h2>
   <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
-
+  <h3>Video Demo:</h3>
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
     Your browser does not support the video tag.
@@ -120,6 +121,7 @@ author_profile: true
   <a href="https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project" class="github-button">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
 
+  <h3>Video Demo:</h3>
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/CS471CourseProject.mp4" type="video/mp4">
     Your browser does not support the video tag.
