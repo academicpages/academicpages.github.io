@@ -6,12 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+My name is Nicomedes
 
-Your "About Me" section is well-detailed and paints a vivid picture of your experiences and interests. Here's a refined version for clarity and flow:
+I am currently pursuing a master's degree in Engineering Sciences, with my thesis centered on Autonomous Vehicles and with my team we are developing a Soft robot for submarine Antarctic exploratión. 
+
 
 ---
-
-My name is Nicomedes, born in Santa Cruz, Bolivia. From a young age, I had a passion for machines and creating things. At just 12, I began working in a carpentry shop, learning invaluable skills from master carpenters. This curiosity spurred me on to explore various paths, each igniting new passions and providing profound lessons.
+ I was born in Santa Cruz, Bolivia. From a young age, I had a passion for machines and creating things. At just 12, I began working in a carpentry shop, learning invaluable skills from master carpenters. This curiosity spurred me on to explore various paths, each igniting new passions and providing profound lessons.
 
 During my years as a magician, I honed my ability to engage with people and steer impromptu presentations. Photography taught me that the most intriguing details often lie hidden, awaiting discovery from a fresh perspective. Through music, I learned the importance of practice and reflection, recognizing the need to pause and evaluate our actions to avoid repeating mistakes. These pursuits not only enhanced my ability to express myself but also my capability to devise creative solutions.
 
