@@ -51,55 +51,57 @@ author_profile: true
 </div>
 
 <div id="CourseCompanion" class="tabcontent">
-  ## [Course Companion](https://github.com/ethanlanders/Course-Companion)
+  <h2><a href="https://github.com/ethanlanders/Course-Companion">Course Companion</a></h2>
 </div>
 
 <div id="UrbanAnalysis" class="tabcontent">
-  ## [Walkability and Well-Being - An Urban Analysis](https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project)
-
-  ### **Old Dominion University, Fall 2023**
+  <h2><a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project">Walkability and Well-Being - An Urban Analysis</a></h2>
+  <h3>Old Dominion University, Fall 2023</h3>
 
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
-  Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.
+  <p>Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.</p>
 
-  ## **Objective:**
-  Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.
+  <h3>Objective:</h3>
+  <p>Investigate correlations between walkability and well-being indicators, such as concentrated poverty rates and student obesity rates.</p>
 
-  ## **Methodology:**
-  Collected data on New York City walkability, poverty, and obesity. Utilized Python, Pandas, Matplotlib, and Seaborn for preprocessing and visualization. Merged datasets for comprehensive analysis.
+  <h3>Methodology:</h3>
+  <p>Collected data on New York City walkability, poverty, and obesity. Utilized Python, Pandas, Matplotlib, and Seaborn for preprocessing and visualization. Merged datasets for comprehensive analysis.</p>
 
-  ## **Results:**
-  No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable New York City neighborhoods.
+  <h3>Results:</h3>
+  <p>No significant correlation between walkability and poverty. Identified higher obesity rates in less walkable New York City neighborhoods.</p>
   <img src="../files/Poverty-Walkability.png" alt="Visualization displaying the correlation between Poverty and Walkability in New York City neighborhoods.">
   <img src="../files/Obesity-Walkability.png" alt="Visualization displaying the correlation between Obesity and Walkability in New York City neighborhoods.">
 </div>
 
 <div id="CPUScheduling" class="tabcontent">
-  ## [CPU Scheduling & Process Synchronization](https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project)
-
-  ### **Old Dominion University, Fall 2023**
+  <h2><a href="https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project">CPU Scheduling & Process Synchronization</a></h2>
+  <h3>Old Dominion University, Fall 2023</h3>
 
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/CS471CourseProject.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 
-  Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.
+  <p>Collaborated with a classmate on a comprehensive project addressing CPU scheduling algorithms and process synchronization.</p>
 
-  ## CPU Scheduling Problem:
-  * Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.
-  * Utilized C++ to handle 541 simulated processes, addressing arrival time, CPU burst length, and priority.
-  * The problem incorporates well-documented code and sample input data files and produces detailed statistics for each scheduling algorithm.
+  <h3>CPU Scheduling Problem:</h3>
+  <ul>
+    <li>Developed a CPU scheduler simulation with FIFO, SJF, and Priority algorithms.</li>
+    <li>Utilized C++ to handle 541 simulated processes, addressing arrival time, CPU burst length, and priority.</li>
+    <li>The problem incorporates well-documented code and sample input data files and produces detailed statistics for each scheduling algorithm.</li>
+  </ul>
 
-  ## Process Synchronization Problem:
-  * Classmate led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.
-  * The solution is implemented in C++ and covers various scenarios, providing insights into overall turnaround time.
+  <h3>Process Synchronization Problem:</h3>
+  <ul>
+    <li>Classmate led the development of the Producer-Consumer problem using Pthreads, with comprehensive testing and performance measurement.</li>
+    <li>The solution is implemented in C++ and covers various scenarios, providing insights into overall turnaround time.</li>
+  </ul>
 
-  This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.
+  <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
 
 <script>
