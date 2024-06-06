@@ -80,7 +80,7 @@ author_profile: true
       <li>Detailed report generation for easy review and reference</li>
       <li>View and save previously generated reports</li>
     </ul>
-    <h3>Technologies Used:</h4>
+    <h3>Technologies Used:</h3>
     <p>Python, PyQt5, Pandoc</p>
 </div>
 
