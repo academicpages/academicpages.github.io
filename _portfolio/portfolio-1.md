@@ -1,6 +1,6 @@
 ---
 title: "3D modeling final"
-excerpt: "In this project I modeled the helicarrier from the avengers movie<br/><img src='images\Modelacion\Render_1_nicomedes_edited.png'>"
+excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
