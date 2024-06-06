@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ### 2024
-
+- **SIGMOD 2024**  Nexus: Correlation Discovery over Collections of Spatio-Temporal Tabular Data. _Yue Gong, Sainyam Galhotra, and Raul Castro Fernandez_. 
+- **SIGMOD 2024** Faster Algorithms for Fair Max-Min Diversification in R^d. _Yash Kurkure, Miles Shamo, Joseph Wiseman, Sainyam Galhotra, and Stavros Sintos_. 
 - **SIGMOD 2024** ThalamusDB: Approximate Query Processing on Multi-Modal Data. _Saehan Jo, Immanuel Trummer_.
 - **SIGMOD 2024** ROME: Robust Query Optimization via Parallel Multi-Plan Execution. _Ziyun Wei, Immanuel Trummer_.
 - **SIGMOD 2024** Demonstrating λ-Tune: Exploiting Large Language Models for Workload-Adaptive Database System Tuning. _Victor Giannakouris, Immanuel Trummer_.
