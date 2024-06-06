@@ -9,6 +9,7 @@ author_profile: true
 /* CSS for tabbed navigation */
 .tab {
   overflow-x: auto;
+  white-space: nowrap;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
