@@ -8,7 +8,7 @@ author_profile: true
 <style>
 /* CSS for tabbed navigation */
 .tab {
-  overflow: hidden;
+  overflow-x: auto;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
