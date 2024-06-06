@@ -152,3 +152,10 @@ function openProject(evt, projectName) {
   evt.currentTarget.className += " active";
 }
 </script>
+
+<script>
+window.onload = function() {
+  // Simulate a click on the first project tab when the page loads
+  document.querySelector('.tab button:first-child').click();
+};
+</script>
