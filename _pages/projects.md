@@ -70,7 +70,7 @@ author_profile: true
 <div id="CourseCompanion" class="tabcontent">
   <h2>Course Companion</h2>
   <a href="https://github.com/ethanlanders/Course-Companion" class="github-button">View on GitHub</a>
-  <h4>Old Dominion University, Fall 2023 & Spring 2024</h4>
+  <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
   <p>Worked with a team of eight on our senior year capstone project to develop Course Companion, a tool designed to help university instructors improve the accessibility and quality of their course materials. This software allows educators to upload course materials for in-depth analysis, providing valuable insights and suggestions for enhancement.</p>
   <h3>Key Features:</h3>
     <ul>
@@ -87,7 +87,7 @@ author_profile: true
 <div id="UrbanAnalysis" class="tabcontent">
   <h2>Walkability and Well-Being - An Urban Analysis</h2>
   <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
-  <h4>Old Dominion University, Fall 2023</h4>
+  <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
 
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
@@ -111,7 +111,7 @@ author_profile: true
 <div id="CPUScheduling" class="tabcontent">
   <h2>CPU Scheduling & Process Synchronization</h2>
   <a href="https://github.com/ethanlanders/CPUScheduling-ProcessSynchronization-CS471Project" class="github-button">View on GitHub</a>
-  <h4>Old Dominion University, Fall 2023</h4>
+  <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
 
   <video width="100%" height="400" controls allowfullscreen>
     <source src="../files/CS471CourseProject.mp4" type="video/mp4">
