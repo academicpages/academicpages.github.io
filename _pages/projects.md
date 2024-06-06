@@ -70,6 +70,7 @@ author_profile: true
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
+  <h2>Netflix Film Analysis</h2>
   <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
   <h3>Video Demo:</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GDShteNxp6c" frameborder="0" allowfullscreen></iframe>
