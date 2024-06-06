@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
-    
+    #url: /cv/
+    url: /files/Resume.pdf
  # - title: "Publications"
  #   url: /publications/
 
