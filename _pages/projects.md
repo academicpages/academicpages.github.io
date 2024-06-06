@@ -74,7 +74,7 @@ author_profile: true
   <a href="https://github.com/ethanlanders/netflix-film-analysis" class="github-button">View on GitHub</a>
   <h3>Video Demo:</h3>
   <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GDShteNxp6c" frameborder="0" allowfullscreen></iframe>
-  <a href="https://colab.research.google.com/drive/15Z0Y3_eYU-PMwSIJ4-XGYdNBDaoJ52hA?usp=sharing">Click here to view the project report.</a>
+  <span><a href="https://colab.research.google.com/drive/15Z0Y3_eYU-PMwSIJ4-XGYdNBDaoJ52hA?usp=sharing">Click here</a> to view the project report.</span>
 
 </div>
 
