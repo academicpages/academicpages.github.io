@@ -70,6 +70,8 @@ author_profile: true
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
+  <h3>Video Demo:</h3>
+  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=GDShteNxp6c" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <div id="CourseCompanion" class="tabcontent">
