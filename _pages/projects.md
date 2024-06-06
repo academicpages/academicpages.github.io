@@ -22,7 +22,7 @@ author_profile: true
   cursor: pointer;
   padding: 14px 16px;
   transition: 0.3s;
-  font-size: 17px;
+  font-size: 16px;
   font-family: Helvetica, Arial, sans-serif;
   color: #444
 }
@@ -66,7 +66,7 @@ author_profile: true
   <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>Netflix Film Analysis</b></button>
   <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
   <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
-  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Scheduling & Process Synchronization</b></button>
+  <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button>
 </div>
 
 <div id="NetflixFilmAnalysis" class="tabcontent">
