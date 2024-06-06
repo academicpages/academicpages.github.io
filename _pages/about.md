@@ -12,4 +12,4 @@ Welcome to my personal website. I am a Research Fellow in the [Meel group](https
 
 I recently defended [my dissertation](https://hdl.handle.net/1887/3455662), *Optimal decision-making under constraints and uncertainty*, at Leiden University (NL). Part of the research therein was conducted while I was a visiting researcher at Université catholique de Louvain (BE) and the University of Toronto (CA).
 
-If you would like to know more about my current position, research interests and achievements, please check out [my cv](https://latower.github.io/cv/). You will find a list of code and publications on [this page](latower.github.io/publications/).
+If you would like to know more about my current position, research interests and achievements, please check out [my cv](https://latower.github.io/cv/). You will find a list of code and publications on [this page](https://latower.github.io/publications/).
