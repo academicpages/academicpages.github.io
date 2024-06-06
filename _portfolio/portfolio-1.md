@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "3D modeling final"
+excerpt: "In this project I modeled the helicarrier from the avengers movie<br/><img src=images\Modelacion\Render_1_nicomedes_edited.png'>"
 collection: portfolio
 ---
 
