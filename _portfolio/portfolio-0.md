@@ -1,7 +1,9 @@
 ---
-title: "Neural Regularization Without Neural Data to CNN's Increase Adversarial Robustness"
-excerpt: "Master's Thesis - Investigating a neuroscience inspired defense adversarial attacks, and proposing another approach not requiring neural data to lead improved results.  <br/><img src='/images/spectra_2_final_all.png'>"
+title: "Neural Regularization Without Neural Data to Increase DNN's Adversarial Robustness"
+excerpt: "Master's Thesis - Investigating a neuroscience inspired defense adversarial attacks, and proposing another approach which obtains improved results. Our method does not require neural data making it accessible to the wide ML community. <br/><img src='/images/spectra_2_final_all.png'>"
 collection: portfolio
 ---
 
 Convolutional Neural Networks (CNNs) excel in many visual tasks but are highly sensitive to slight input perturbations that are imperceptible to the human eye, often resulting in task failures. Recent studies indicate that training CNNs with regularizers that promote brain-like representations, using neural recordings, can improve model robustness. However, the requirement to collect neural data restricts the utility of these methods. Is it possible to develop regularizers that mimic the computa- tional function of neural regularizers without the need for direct neural recordings, thereby expanding the usability and effectiveness of these techniques? In this work, we inspect a neural regularizer intro- duced in Li et al. 16 to extract its underlying strength. This regularizer uses neural representational similarities, which we find also correlate with pixel similarities. Motivated by this finding, we intro- duce a new regularizer that retains the essence of the original but is computed using only image pixel similarities, eliminating the need for neural recordings. We show that our regularizer significantly ad- vances model robustness for a wide range of black box attacks. Our work opens the door to explore how biologically motivated loss functions can be used to drive the performance of artificial neural networks using a method accessible to the broader machine learning community.
+
+Paper accepted as a poster to the 2024 Computational and Cognitive Neuroscience Conference, taking place at MIT this summer. Our work was also suhmitted to NeurIPS 2024. 
