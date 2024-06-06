@@ -23,6 +23,7 @@ author_profile: true
   padding: 14px 16px;
   transition: 0.3s;
   font-size: 17px;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 /* Change background color of buttons on hover */
@@ -46,7 +47,7 @@ author_profile: true
 
 <div class="tab">
   <button class="tablinks" onclick="openProject(event, 'CourseCompanion')">Course Companion</button>
-  <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')">Walkability and Well-Being</button>
+  <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')">Walkability & Well-Being</button>
   <button class="tablinks" onclick="openProject(event, 'CPUScheduling')">CPU Scheduling & Process Synchronization</button>
 </div>
 
