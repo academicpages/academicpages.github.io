@@ -1,6 +1,6 @@
 ---
 title: "Augmented Reality DJing"
-excerpt: "Apply audio effects on your favorite tunes by moving your hands in space, without DJ decks <br/><img src='/images/AR-DJ_image.png'>"
+excerpt: "Apply audio effects on your favorite tunes by moving your hands in space, without DJ decks. <br/><img src='/images/AR-DJ_image.png'>"
 collection: portfolio
 ---
 

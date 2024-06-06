@@ -1,6 +1,6 @@
 ---
 title: "Automatic Differentiation Package"
-excerpt: "Automatic Differentation Package as part of AC207 course at Harvard
+excerpt: "Automatic Differentation Package as part of AC207 course at Harvard.
  <br/><img src='/images/computational_graph.png'>"
 collection: portfolio
 ---
