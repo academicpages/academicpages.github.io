@@ -11,12 +11,12 @@ main:
 
  # - title: "Teaching"
  #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
+
+  - title: "Pentest Lab Writeups"
     url: /year-archive/
+    
+  - title: "OSCP Notes"
+    url: /portfolio/
     
  #  - title: "Guide"
  #    url: /markdown/
