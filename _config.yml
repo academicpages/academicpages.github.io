@@ -6,6 +6,14 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+#delete this section if the site doesn't work
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Chris's Homepage"
@@ -154,6 +162,7 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
+  - assets
   - CHANGELOG
   - Capfile
   - Gemfile
