@@ -82,7 +82,7 @@ analytics:
 author:
   name             : # "Alice Wu"
   avatar           : "aw_profile2.jpg"
-  bio              : "Ph.D. Candidate in Economics, Harvard University"
+  bio              : # ""
   location         : # "Location"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=SI3MS48AAAAJ&hl=en"
