@@ -16,7 +16,7 @@ redirect_from:
 
 ## Mineral-Microbe Interactions
 
-* Post-doctoral journey develped my interest in mineral-microbe interactions and geobiotechnology. Now exploring biogeochemical transformation and transport of chemical and biological components at different temporal and spatial scales.
+* Post-doctoral journey develped my interest in mineral-microbe interactions and geobiotechnology. Now exploring biogeochemical transformation and transport of chemical and biological components during various climate change scenarios at different temporal and spatial scales.
   
 ## Earth Science Education Research
 
