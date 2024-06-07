@@ -31,14 +31,10 @@ This project focuses on enhancing machine learning models' adaptability and effe
 ### c) Domain Generalization
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
   _ICLR 2023_   
-- [**Deep Spatial Domain Generalization**](https://arxiv.org/pdf/2210.00729)  
-  _ICDM 2022_ 
 
 ## 2. Efficient Large-Scale Machine Learning
 Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
 ### a) Distributed Training for Graph Neural Networks (GNNs)
-- [**Distributed Graph Neural Network Training with Periodic Stale Representation Synchronization**](https://arxiv.org/pdf/2206.00057)   
-  _Preprint_  
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
   _Preprint_
   
