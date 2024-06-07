@@ -12,6 +12,9 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* June 3: Today, I am at the Royal Swedish Academy of Sciences, giving an invited talk on the future of multi-messenger astronomy.
+* May 30th: _Candidate strongly-lensed Type Ia supernovae in the Zwicky Transient Facility archive_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2405.18589).
+* May 30th: Today I am in Uppsala, giving an invited seminar on neutron star mergers.
 * May 12-16th: This week I am in Toronto, attending the hotwiring conference. I will be giving a talk on Redback.
 * May 12th: Sarin et al. 2024 - _Redback: A Bayesian inference software package for electromagnetic transients_. Accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2308.12806) and [GitHub](https://github.com/nikhil-sarin/redback).
 * April 15th: Sarin et al. 2024 - _The origin of the coherent radio flash potentially associated with GRB 201006A_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.08048).
