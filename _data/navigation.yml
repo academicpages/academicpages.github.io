@@ -1,23 +1,24 @@
 # main links links
 main:
   - title: "CV"
-    #url: /cv/
+    # url: /cv/
     url: /files/Resume.pdf
 
- - title: "Pentest Lab Writeups"
-    url: /year-archive/
-    
-  - title: "OSCP Notes"
+  - title: "Portfolio"
+    url: /portfolio/
+  
+  - title: "Publications"
     url: /publications/
+    # url: https://scholar.google.es/citations?user=xxxxxxxx=en
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
 
- # - title: "Talks"
- #   url: /talks/    
+  # - title: "Talks"
+  #   url: /talks/    
 
- # - title: "Teaching"
- #   url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
     
- # - title: "Portfolio"
- #  url: /portfolio/
-    
- #  - title: "Guide"
- #    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
