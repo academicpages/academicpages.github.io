@@ -11,45 +11,54 @@ redirect_from:
 
 Education
 ======
-* Bachelor's degree in economics - PUCP (2016 - 2021)
-* Specialization Diploma in Data Science for the Social Sciences and Public Administration - QLAB - PUCP (August 2021 - June 2022) 
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2021: Research Assistant
-  * PUCP - Department of Economics
-  * Duties included: Writing academic literature reviews, designing and deploying surveys, market analysis, interviews with experts, proposing and applying econometric models
-  * Supervisor: José Tavera
+* Spring 2024: Academic Pages Collaborator
+  * Github University
+  * Duties includes: Updates and improvements to template
+  * Supervisor: The Users
 
-Extra-curricular activities
-======
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
 
-* Fall - Winter 2021: HR Assisant
-  * Económica Magazine
-  * Duties included: Follow-ups with the areas of the organization and their members. Communication with area managers. Development of infographics concerning worker wellbeing. Presentations on the advancements of the Human Resources area.
-  * Supervisor: Yanira Luna
-
-* Spring 2021 - Summer 2022
-  * Económica Magazine
-  * Duties included: Creation of economic news summaries, opinion pieces. Tasked with building a database for peer review and editorial board. Interviews with experts in diverse topics. 
-  * Supervisor: André Lama
-
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
   
 Skills
 ======
-* English as a second language (C2)
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
-* Statistical software:
-
-  * Python (Advanced)
-  * R (Intermediate)
-  * EViews (Intermediate)
-  * MATLAB (Basic)
-  * Stata (Basic)
-* Writing (English and spanish)
-
-* Word, Excel, PowerPoint
-
-* APIs and web scraping
-
-* Applied Econometrics and Machine Learning
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
