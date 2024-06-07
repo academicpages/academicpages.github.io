@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Julia Woodward"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+# Welcome!
+I am excited to announce that I have joined University of South Florida as an Assistant Professor in the Department of Computer Science and Engineering!<br/><br/> I earned a Ph.D. in Human-Centered Computing from the University of Florida, and I was a National Science Foundation Graduate Research Fellow. I previously received a B.S. in Digital Arts and Science in 2017 from the University of Florida. I am the creator and director of [The Engaging Computing Design (EnCoDe) Research Lab](https://encoderesearchlab.org/).
 
 A data-driven personal website
 ======
