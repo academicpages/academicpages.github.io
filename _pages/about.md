@@ -10,11 +10,15 @@ redirect_from:
 # Welcome!
 I am excited to announce that I have joined University of South Florida as an Assistant Professor in the Department of Computer Science and Engineering!<br/><br/> I earned a Ph.D. in Human-Centered Computing from the University of Florida, and I was a National Science Foundation Graduate Research Fellow. I previously received a B.S. in Digital Arts and Science in 2017 from the University of Florida. I am the creator and director of [The Engaging Computing Design (EnCoDe) Research Lab](https://encoderesearchlab.org/).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research lies in the field of human-computer interaction (HCI), which focuses on comprehending how people use and conceptualize technology in order to design more effective experiences. My main research interests include designing visual information in augmented reality (AR) headsets for both adults and children, and understanding how children think about and use technology. My goal is to design technology that better supports human endeavors, especially for underrepresented populations such as children. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Research Areas: human-computer interaction, natural user interfaces, augmented reality, child-computer interaction
+
+**Click here to view and download my CV:** [Julia-Woodward-CV ](https://juliawoodward.wordpress.com/wp-content/uploads/2024/05/juliawoodward-longcv-v2.pdf)
+
+## Recent Tweets (Check out @JuliaWoodward94 for more): 
+======
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Can you see the number ?? 👀 <br>Eye test 😎<br><br>One Correct Answer Wins $1,000,000 💰 <a href="https://t.co/MnDFHgROw3">pic.twitter.com/MnDFHgROw3</a></p>&mdash; Elon Musk (Parody) (@MuskUniverseUsa) <a href="https://twitter.com/MuskUniverseUsa/status/1798293929164783888?ref_src=twsrc%5Etfw">June 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Getting started
 ======
