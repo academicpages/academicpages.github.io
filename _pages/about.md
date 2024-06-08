@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year undergraduate student studying **Data Science and Economics** from the [School of Statistics](http://stat.ruc.edu.cn) and the [School of Applied Economics](http://ae.ruc.edu.cn/home/), [Renmin University of China](https://www.ruc.edu.cn). I also had an amazing experience in Spring 2024 as an exchange student at [UC Berkeley](https://www.berkeley.edu). I'm fortunate to join the Strutured Data Science Lab and work under [Prof. Hongteng Xu](https://hongtengxu.github.io). 
+I'm a second year undergraduate student studying **Data Science and Economics** from the [School of Statistics](http://stat.ruc.edu.cn) and the [School of Applied Economics](http://ae.ruc.edu.cn/home/), [Renmin University of China](https://www.ruc.edu.cn). I also had an amazing experience in Spring 2024 as an exchange student at [UC Berkeley](https://www.berkeley.edu). I'm fortunate to join the [S-Data Science Lab](https://github.com/SDS-Lab) and work under [Prof. Hongteng Xu](https://hongtengxu.github.io). 
 
 Research Interest
 -----
