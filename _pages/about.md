@@ -8,20 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a staff engineer in the Search Ads team at Baidu Inc., working on developing large language models. Prior to joining Baidu, I was an algorithm expert in the Ad Tech team at Alibaba Group (AliStar, 2021). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I am currently a staff engineer in the Search Ads team at Baidu Inc., working on developing large language models for ad creative generation. Prior to that, I was an algorithm expert in the Ad Tech team at Alibaba Group with honor "Alibaba-Star" ("阿里星"). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 
 Research Interests
 ======
-My research interests are in **computational advertising** and **large language models**, and broader interests include reinforcement learning, federated learning, graph neural networks and their applications in advertising, search and recommendation.   
+My research interests are in **Computational Advertising** and **Generative AI**, and broader interests include reinforcement learning, federated learning, graph neural networks and their applications in advertising, search and recommendation.    
 
-During my Ph.D., my research interests were in natural language processing and computational social science, especially *opinion mining* and *opinionated text generation* in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
+During my Ph.D., my research interests were in **Natural Language Processing** and **Computational Social Science**, especially opinion mining and opinionated text generation in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
 
 
 News
 =====
 * Aug. 2023: [Ranking] Our paper about *multi-scenario pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
-* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy for brand advertising with reinforcement learning was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
+* May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learningfor brand advertising was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
 * Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a>   
 * Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph neural networks* for ad retrieval was accepted at WWW 2023. <a href="https://arxiv.org/pdf/2211.11191.pdf" target="_blank">[Paper]</a>     
 * Aug. 2022: [Ranking] A co-corresponding authored paper about *multi-scenario ad ranking* was accepted at CIKM 2022. <a href="https://arxiv.org/pdf/2206.13108.pdf" target="_blank">[Paper]</a>   
