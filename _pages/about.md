@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my [CV.pdf](https://zhenghua-qi.github.io/files/CV_AUG30.pdf) (August 2022) here. I am currently visiting the University of California, Berkeley during the 23-24 academic year. 
+Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my [CV.pdf](https://zhenghua-qi.github.io/files/CV_AUG30.pdf) (August 2022) here.
 
 My research interests are in macroeconomics and expectation formation. 
 
