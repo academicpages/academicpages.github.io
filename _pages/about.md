@@ -17,5 +17,7 @@ Currently, I'm exploring my research interest in topics of **Statistical Learnin
 Awards
 ----
 **Academic Merit Scholarship**, Renmin University of China, 2023
+
 **Beijing First Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2023
+
 **Meritorious Prize**, COMAP’s Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2023
