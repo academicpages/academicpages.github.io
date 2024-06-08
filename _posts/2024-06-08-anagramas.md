@@ -18,7 +18,7 @@ En el principio escapé como un rayo<br>
 que golpea la tierra<br>
 con violencia de huracán.<br>
 En el principio la acción, serpiente,<br>
-<span style="margin-left: 155px; display: inline-block;">la herida,</span>
+<span style="margin-left: 160px; display: inline-block;">la herida,</span>
 <br>y la voz hablaba los siglos.<br>
 
 <br><strong>II</strong><br>
@@ -26,7 +26,7 @@ Una luciérnaga se agita<br>
 bajo el sol de mediodía,<br>
 y desfallece y en el paladar<br>
 <span style="margin-left: 160px; display: inline-block;">saliva el fracaso.</span>                              
-"La victoria", dice el bicho,<br>
+<br>"La victoria", dice el bicho,<br>
 "está en el atardecer de los astros".<br>
 <br>Una luciérnaga vence<br>
 en el ocaso perpetuo,<br>
@@ -42,7 +42,7 @@ como quien abraza la tragedia,<br>
 como quien <br>
 <span style="margin-left: 80px; display: inline-block;">[con la locura entre los nudillos]
 </span>                              
-golpea una ley sobre el cuerpo del otro.<br>
+<br>golpea una ley sobre el cuerpo del otro.<br>
 <br>Camino arrastrando un desierto,<br>
 como quien tose arena en llamas<br>
 mientras Sísifo cubre su rostro.<br>
