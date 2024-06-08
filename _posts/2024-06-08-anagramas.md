@@ -42,11 +42,11 @@ como quien abraza la tragedia,<br>
 como quien <br>
 <span style="margin-left: 80px; display: inline-block;">[con la locura entre los nudillos]
 </span>                              
-<br>golpea una ley sobre el cuerpo del otro.<br>
+<br><em>golpea</em> una ley sobre el cuerpo del otro.<br>
 <br>Camino arrastrando un desierto,<br>
 como quien tose arena en llamas<br>
 mientras Sísifo cubre su rostro.<br>
-<br>¡Y qué es la soledad<br>
+¡Y qué es la soledad<br>
 sino un anagrama de virtud!<br>
 
 </div><br>
