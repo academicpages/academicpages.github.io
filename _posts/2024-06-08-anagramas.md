@@ -18,7 +18,7 @@ En el principio escapé como un rayo<br>
 que golpea la tierra<br>
 con violencia de huracán.<br>
 En el principio la acción, serpiente,<br>
-<span style="margin-left: 160px; display: inline-block;">la herida,</span>
+<span style="margin-left: 180px; display: inline-block;">la herida,</span>
 <br>y la voz hablaba los siglos.<br>
 
 <br><strong>II</strong><br>
