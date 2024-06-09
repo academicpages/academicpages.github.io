@@ -4,7 +4,7 @@ collection: teaching
 type: ""
 permalink: 
 venue: ""
-date: 
+date: 2024-06-09
 location: ""
 ---
 
