@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Rather be a late-bloomer than an early-finished article! I am a life-long-learning person/researcher/toastmaster, always thrive for developing not only research skills but also personal development skills. I am the best karaoke singer and poem composer about my research! I received the first prize at the LuxDoc Science Slam 2014 in Luxembourg for presenting my scientific, multilingual poem on Model-Driven Security. 
+Rather be a late-bloomer than an early-finished article! I am a life-long-learning person/researcher/toastmaster, always thrive for developing not only research skills but also personal development skills. I wrote a poem about the research work of my #PhD, and could #karaoke it to win the first prize at a Science Slam :)
 
 HIGHER EDUCATION
 ======
