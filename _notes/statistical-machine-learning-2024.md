@@ -1,8 +1,8 @@
 ---
 title: "Statistical Machine Learning"
-collection: note
+collection: notes
 type: "Undergraduate course"
-permalink: /note/statistical-machine-learning-2024.md
+permalink: /notes/statistical-machine-learning-2024.md
 venue: "Renmin University of China"
 date: 2024-06-09
 location: "Beijing, China"
