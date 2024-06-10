@@ -71,6 +71,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
 Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2023). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication_ Advance online publication. https://doi.org/10.1080/10410236.2023.2292830
 
