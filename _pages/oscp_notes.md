@@ -1,3 +1,10 @@
+---
+layout: single
+title: "OSCP Notes"
+permalink: /oscp_notes/
+author_profile: true
+---
+
 ### Disclaimer - This page is meant as a personal reference page; there exist better places on the internet to learn penetration testing concepts and commands. 
 
 # Preliminary Scanning 
