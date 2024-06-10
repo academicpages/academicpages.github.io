@@ -189,8 +189,13 @@ Piñeiro, V., **Rodríguez, I.** , Igartua, J.J. (2014) _La Comunicación del Pa
 **Rodríguez-de-Dios, I.** (2022). Adolescencia entre dispositivos digitales: Investigación y pánico moral. Escuela de Comunicación de la Universidad del Azuay, Cuenca (Ecuador), 25 April 2022.
 
 
-# RESEARCH VISITS
+# TEACHING AND RESEARCH VISITS
 ============
+
+### Teaching stay at the Institute of Communication (Erasmus+) 2024
+Mykolas Romeris University (Lithuania)
+15/04/2024 – 19/04/2024
+
 ### Research stay at the Antwerp Social Lab 2022
 Antwerp Social Lab and MIOS (Media & ICT in Organisations and Society) research group, University of Antwerp (Belgium)
 25/04/2022 – 30/06/2022
