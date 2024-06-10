@@ -12,6 +12,7 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* June 10-15th: This week I am attending the ZTF meeting and the Transient Sympsium at the Royal Academy of Sciences. I am giving a talk on Redback.
 * June 3: Today, I am at the Royal Swedish Academy of Sciences, giving an invited talk on the future of multi-messenger astronomy.
 * May 30th: _Candidate strongly-lensed Type Ia supernovae in the Zwicky Transient Facility archive_ submitted. Check it out on [arXiv](https://arxiv.org/abs/2405.18589).
 * May 30th: Today I am in Uppsala, giving an invited seminar on neutron star mergers.
