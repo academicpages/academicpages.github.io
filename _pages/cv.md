@@ -127,6 +127,9 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2024, May 28-31). Impacto del contacto intergrupal mediado con personas trans a través de YouTube en la transfobia. [Paper presentation]. IX Congreso Internacional de la AE-IC, ‘Comunicación e Innovación Sostenible’, Murcia, Spain.
+
 Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O., & Mas, L. (2023, July 16-20). Prosody variations to improve cognitive processing in Alzheimer's patients [Poster presentation]. Alzheimer’s Association International Conference, Amsterdam, The Netherlands.
 
 Blanco-Fernández, V., Villegas-Simón, I., Anglada-Pujol, O., Castellví Lloveras, M. & **Rodríguez-de-Dios, I.** (2023, June 6-10). Presentation of Retrats Intermitents (Intermittent Portraits), a podcast of LGBTIQA+ representation, plus a live recording of a program. Media, Gender and Sexualities: Representations, Literacies and Audiences, Benasque, Spain.
