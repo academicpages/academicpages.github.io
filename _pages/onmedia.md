@@ -9,6 +9,7 @@ author_profile: true
 ### Does the use of social media affect the well-being of adolescents?
 <i> El Observatorio Social. Fundación La Caixa</i> (June 2024).
 [https://elobservatoriosocial.fundacionlacaixa.org/en/-/use-social-media-well-being-adolescents](https://elobservatoriosocial.fundacionlacaixa.org/en/-/use-social-media-well-being-adolescents)
+
 Spanish: [https://elobservatoriosocial.fundacionlacaixa.org/es/-/uso-redes-sociales-bienestar-adolescentes](https://elobservatoriosocial.fundacionlacaixa.org/es/-/uso-redes-sociales-bienestar-adolescentes)
 
 # 2023
