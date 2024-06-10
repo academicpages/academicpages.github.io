@@ -8,7 +8,7 @@ main:
     url: /portfolio/
   
   - title: "OSCP Notes"
-    url: /_pages/oscp_notes.md
+    url: /oscp_notes.md
     # url: https://scholar.google.es/citations?user=xxxxxxxx=en
         
   # - title: "Blog Posts"
