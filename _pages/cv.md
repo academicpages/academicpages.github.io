@@ -246,6 +246,8 @@ Principal investigator: Valeriano Piñeiro Naval
 Work team member
 
 # RESEARCH DISSEMINATION
+===========
+
 ### Retrats intermitents 2022-2023
 Podcast about LGBTIQA+ media representation. 
 Funded by FCRI (Fundació Catalana per a la Recerca i la Innovació; Convocatòria Joan Oró 2022)
