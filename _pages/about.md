@@ -25,7 +25,7 @@ This project focuses on enhancing machine learning models' adaptability and effe
   _KDD 2022_  
 
 ### b) Domain Adaptation
-- [**Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
+- [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
   _KDD 2024_  
 
 ### c) Domain Generalization
