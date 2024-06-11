@@ -143,6 +143,7 @@ author_profile: true
   <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
 
+ <!-- Below Sourced from ChatGPT -->
 <script>
 function openProject(evt, projectName) {
   var i, tabcontent, tablinks;
@@ -155,13 +156,16 @@ function openProject(evt, projectName) {
     tablinks[i].className = tablinks[i].className.replace(" active", "");
   }
   document.getElementById(projectName).style.display = "block";
-  evt.currentTarget.className += " active";
+  if (evt) {
+    evt.currentTarget.className += " active";
+  } else {
+    // Directly add 'active' class to the first tab button on load
+    tablinks[0].className += " active";
+  }
 }
-</script>
 
-<script>
 window.onload = function() {
-  // Simulate a click on the first project tab when the page loads
-  document.querySelector('.tab button:first-child').click();
+  // Directly call the openProject function to open the first tab
+  openProject(null, 'NetflixFilmAnalysis');
 };
 </script>
