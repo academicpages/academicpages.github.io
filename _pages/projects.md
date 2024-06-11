@@ -100,10 +100,7 @@ author_profile: true
   <a href="https://github.com/ethanlanders/Walkability-And-Well-Being-Analysis-CS620-Data-Project" class="github-button">View on GitHub</a>
   <p><b>Old Dominion University, Fall 2023 & Spring 2024</b></p>
   <h3>Video Demo:</h3>
-  <video width="100%" height="400" controls allowfullscreen>
-    <source src="../files/Walkability&WellBeing_CS620.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/W4uXdOSEJTo?si=CW39xMWMVd9xYa0k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <p>Collaborated with classmates on a project exploring the intricate relationship between community walkability and various facets of well-being in urban environments, focusing on New York City neighborhoods.</p>
 
