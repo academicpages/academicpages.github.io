@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,13 @@ author:
   name             : "Hafez Ghaemi"
   avatar           : "headshot.jpg"
   bio              : 
-  location         : 
-  employer         :
+  location         : "Montreal, QC, Canada"
+  employer         : "Mila - Université de Montréal"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JCLX6oYAAAAJ&hl=en"
   email            : "hafez.ghaemi@umontreal.ca"
-  researchgate     : "https://www.researchgate.net/profile/Hafez-Ghaemi"
+  researchgate     : 
+  openreview       : "https://openreview.net/profile?id=~Hafez_Ghaemi1" 
   uri              :
   bitbucket        :
   codepen          :
@@ -97,6 +98,7 @@ author:
   facebook         :
   foursquare       :
   github           : "hafezgh"
+  X                : "https://x.com/hafezghm"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,10 +111,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "hafezghm"
+  twitter          :
   vine             :
   weibo            :
-  youtube:
+  youtube          :
   xing             :
   wikipedia        :
 
