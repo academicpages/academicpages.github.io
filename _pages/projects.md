@@ -142,30 +142,3 @@ author_profile: true
 
   <p>This project allowed us to delve into the intricacies of operating systems, applying theoretical concepts to practical problem-solving.</p>
 </div>
-
- <!-- Below Sourced from ChatGPT -->
-<script>
-function openProject(evt, projectName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
-  document.getElementById(projectName).style.display = "block";
-  if (evt) {
-    evt.currentTarget.className += " active";
-  } else {
-    // Directly add 'active' class to the first tab button on load
-    tablinks[0].className += " active";
-  }
-}
-
-window.onload = function() {
-  // Directly call the openProject function to open the first tab
-  openProject(null, 'NetflixFilmAnalysis');
-};
-</script>
