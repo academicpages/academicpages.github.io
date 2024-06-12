@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Student and Graduate Research Assistant at the Department of Civil and Environmental Engineering, College of Engineering, [Villanova University](https://www1.villanova.edu/university.html), PA, USA. I am the menber of the Dr. Xiong’s Research Group supervised by [Dr. Chenfeng Xiong](https://cfxiong.github.io/). I am dedicating to the development of DL and transportation!
+I am a Ph.D. Student and Graduate Research Assistant at the Department of Civil and Environmental Engineering, College of Engineering, [Villanova University](https://www1.villanova.edu/university.html), PA, USA. I am the menber of the Villanova Human Mobility Data Lab (NovaMobility) supervised by [Dr. Chenfeng Xiong](https://cfxiong.github.io/). I am dedicating to the development of DL and transportation!
 
 My current research centers on the area of traffic data analyzing, machine learning, deep learning, automated driving, and transportation big data. The research including the map matching, human mobility analysis and also the traffic simulation.
 <span style="color:Blue"> *Feel free to contact me for research discussion and possible collaboration!* </span>
@@ -26,4 +26,4 @@ News
 - 07/2023: I received my <span style="color:GoldenRod">Ph.D. offer </span> from Villanova University! I'm looking forward to my new researches and life at Villanova!
 - 07/2023: My paper [Robust Lane Detection through Self Pre-training with Masked Sequential Autoencoders and Fine-tuning with Customized PolyLoss](https://arxiv.org/abs/2305.17271) is accepted by the journal of *IEEE Transactions on Intelligent Transportation Systems* !
 - 06/2023: I received my <span style="color:GoldenRod">M.Eng. degree </span> in traffic and transportation from Lanzhou Jiaotong University!
-               
+                
