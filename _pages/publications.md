@@ -12,6 +12,9 @@ author_profile: true
 
 ### Peer-Reviewed Journal Articles:
 
+- **Tuncel, O.** 2024. Talking to elites: A guide for novice interviewers. *Qualitative and Multi-Method Research* (Accepted)
+   <details><summary> Abstract </summary> <br> Elite interviewing is one of the most useful tools in any political scientist’s toolbox when we want to understand elites’ decision making process, yet, the lack of trusted guide for novice interviewers poses great problems in garnering insider information. This paper offers suggestions for graduate students, junior faculty, and faculty new to interviewing for making the most effective use of the qualitative elite interviewing. It proposes what the researcher should be aware of before and after the interview. It discusses and puts forward concrete advice addressing a wide range of issues including but not limited to arranging interviews, positionality of the researcher, and organization of interviews and preparation. The information is based on the author’s own experience of interviewing politicians, government officials, and political party leaders. </details>
+
 - **Tuncel, O.** 2023. [Selective inclusion under competitive autocratic regimes: An example from the Turkish educational civil society](https://www.tandfonline.com/doi/full/10.1080/17448689.2023.2206152). *Journal of Civil Society.* [Free e-print (limited to 50 links)](https://www.tandfonline.com/eprint/RHS7CBWRGBHNN6YP8VID/full?target=10.1080/17448689.2023.2206152)
    <details><summary> Abstract </summary> <br> This article attempts to explain the role of the educational civil society in Turkey from 2003 to 2012, where the regime excessively co-opts and controls associational life while maintaining a veneer of nominal compliance with democratic values. While existing studies fail to explain how the state interacts with these organizations during regime transitions, this research addresses this gap by adopting two educational policy periods as a case study. Thus, it shows the role of civil society under competitive autocratic regimes and which mechanisms the state uses in its shifting approach to civil society organizations in policymaking. This article claims that the state co-opts government-friendly civil society organizations and alters existing laws and regulations of educational institutions to keep the facade of democracy. Competitive autocratic state structure and its limited capacity, however, compel the regime to include different civil society organizations into the policymaking. Additionally, these organizations’ extensive knowledge and expertise are indispensable and invaluable resources the state needs to implement policies. Based on elite interviews of state officials and civil society organizations, and extensive document research, this article presents crucial insights on how competitive autocratic regimes adapt their approach to civil society. </details>
    
@@ -39,18 +42,17 @@ author_profile: true
 - Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's Struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
 
 ### Under Review
+- [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper, journal article*
+- Understanding Opposition Strategies Through Opposition Learning: Example of Turkish Opposition Parties Navigating the New Electoral Field. *journal article*
 - Reducing partisan affective polarization through common humanity and perspective-taking: An online survey experiment in the United States. (with Jennifer McCoy and Juan Gomez) *book chapter*
-- Talking to elites: A guide for novice interviewers. *journal article*
 
 ### Selected Working Papers
-- [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper, journal article*
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
+- Conduct and reporting of elite interviewing in political science research. *journal article* (EMW project)
  
 ### Work-In-Progress
 - What explains opposition-led coalitions success? The role of party organization and party diversity. *journal article*
-- Opposition learning: How opposition updates information and professionalizes in an autocratizing context. *journal article*
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
-- Displacing an education system through formal and informal institutional changes. *journal article*
 - Can peace survive the party-state? (with Carrie Manning) *journal article*
