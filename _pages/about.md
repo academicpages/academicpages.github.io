@@ -46,10 +46,10 @@ Department of Mathematical Engineering and Information Physics, Faculty of Engin
 ## Awards & Honours
 
 - Mar. 2024<br>
-**Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
+🎉 **Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
 Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge
 - Mar. 2024<br>
-**Best Student Poster Award / 学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
+🎉 **Best Student Poster Award / 学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
 IEICE Speech Committee / 電子情報通信学会 音声研究会
 
 
