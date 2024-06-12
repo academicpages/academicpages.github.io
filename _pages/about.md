@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my page! 
 
-I am a fifth year Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (**MIT**). My research explores the interplay between technology and firms in lower-income countries, especially in Francophone West Africa. My dissertation focuses on the adoption and impacts of various types of technologies on small and medium-sized businesses, with a particular emphasis on digital technologies, which have seen rapid growth in Africa over the past decade. 
+I am a fifth year Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (**MIT**). My research is in development economics and explores the interplay between technology and firms in lower-income countries, especially in Francophone West Africa. My dissertation focuses on the adoption and impacts of various types of technologies on small and medium-sized businesses, with a particular emphasis on digital technologies, which have seen rapid growth in Africa over the past decade. 
 
 In the past seven years, I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
 
