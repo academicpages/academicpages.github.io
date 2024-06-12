@@ -11,10 +11,11 @@ location: "Beijing, China"
 
 | Lecture                                               | Note   | Code                                                         |
 | --------                                              | ------ | ------------------------------------------------------------ |
-| Lecture 1: Introduction to Machine Learning         | [Note](/files/statistical-machine-learning-2024/lec1.pdf)   | [Code](/files/statistical-machine-learning-2024/lec1.ipynb)                       |
-| Lecture 2: Mathematical Preliminaries for ML       | [Note](/files/statistical-machine-learning-2024/lec2.pdf)   | [Code](/files/statistical-machine-learning-2024/lec2.ipynb)                          |
-| Lecture 3-5: Linear Regression                     | [Note](/files/statistical-machine-learning-2024/lec3-5.pdf)   | [Code](/files/statistical-machine-learning-2024/lec3-5.ipynb)                          |
-| Lecture 6: Linear Dimensionality Reduction            | [Note](/files/statistical-machine-learning-2024/lec6.pdf)   | [Code](/files/statistical-machine-learning-2024/lec6.ipynb)                          |
-| Lecture 7: Nonlinear Dimensionality Reduction         | [Note](/files/statistical-machine-learning-2024/lec7.pdf)   | [Code](/files/statistical-machine-learning-2024/lec7.ipynb)                          |
+| Lecture 1: Introduction to Machine Learning         | [Note](/files/statistical-machine-learning-2024/lec1.pdf)   | [Random Matrices Practice](/files/statistical-machine-learning-2024/lab1_random_matrice.ipynb)                       |
+| Lecture 2: Mathematical Preliminaries for ML       | [Note](/files/statistical-machine-learning-2024/lec2.pdf)   |                           |
+| Lecture 3-5: Linear Regression                     | [Note](/files/statistical-machine-learning-2024/lec3-5.pdf)   | [Polynomial Regression](/files/statistical-machine-learning-2024/lab2_poly_reg_sgd.ipynb), [Ridge & LASSO](/files/statistical-machine-learning-2024/lab3_ridge_lasso.ipynb), [Kernel Regression](/files/statistical-machine-learning-2024/lab4_kernel_regression.ipynb)                          |
+| Lecture 6: Linear Dimensionality Reduction            | [Note](/files/statistical-machine-learning-2024/lec6.pdf)   | [Linear Dimensionality Reduction](/files/statistical-machine-learning-2024/lab5_linear_dimensionality_reduction.ipynb)                          |
+| Lecture 7: Nonlinear Dimensionality Reduction         | [Note](/files/statistical-machine-learning-2024/lec7.pdf)   | [Nonlinear Dimensionality Reduction](/files/statistical-machine-learning-2024/lab6_nonlinear_dimensionality_reduction.ipynb)                          |
 | Lecture 8: Clustering and Typical Methods             | [Note](/files/statistical-machine-learning-2024/lec8.pdf)   | [Code](/files/statistical-machine-learning-2024/lec8.ipynb)|
-| Lecture 9: Gaussian Mixture Models and EM Algorithm   | [Note](/files/statistical-machine-learning-2024/lec9.pdf)   | [Code](/files/statistical-machine-learning-2024/lec9.ipynb)
+| Lecture 9: Gaussian Mixture Models and EM Algorithm   | [Note](/files/statistical-machine-learning-2024/lec9.pdf)   | [Code](/files/statistical-machine-learning-2024/lec9.ipynb)|
+| Lecture 10: Bayesian GMM and Non-parametric Clustering   | [Note](/files/statistical-machine-learning-2024/lec10.pdf)   | [Code](/files/statistical-machine-learning-2024/lec10.ipynb)
