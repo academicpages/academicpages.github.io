@@ -163,9 +163,4 @@ function openProject(evt, projectName) {
   document.getElementById(projectName).style.display = "block";
   evt.currentTarget.className += " active";
 }
-
-// Optionally, you can add code to open the first tab by default
-document.addEventListener("DOMContentLoaded", function() {
-  document.querySelector(".tablinks").click();
-});
 </script>
