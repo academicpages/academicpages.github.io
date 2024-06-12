@@ -22,7 +22,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 - [Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders](https://pedl.cepr.org/content/relational-frictions-along-supply-chain-evidence-randomised-experiment-among-senegalese-0) (with Edward Wiles)
 
-- Technology Diffusion Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion
+- Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion
 
 - Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
 
