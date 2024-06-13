@@ -14,7 +14,7 @@ nav_order: 2
 For The Pacific Northwest Seminar on Topology, Algebra, and Geometry in Data Science (TAG-DS), a hybrid seminar at the University of Washington Math Department. Slides are [here](../assets/pdf/intrinsic_manifolds_TAG-DS_talk.pdf). 
 - My related paper from MICCAI 2022: open access preprint [here](https://arxiv.org/abs/2207.02797) and published paper [here](https://link.springer.com/chapter/10.1007/978-3-031-16452-1_65).
 
-**What actually *is* Artificial Intelligence, and how does it relate to astronomy? *(August 2022)***
+**What actually *is* Artificial Intelligence, and how does it relate to astronomy? *(June 2024, August 2022)***
 
 See the talk [here](../assets/pdf/AI_talk_astroX.pdf). For [ERIRA 2022 and 2024](https://nickk124.github.io/outreach/) ASTRO-X.
 
