@@ -41,8 +41,9 @@ Projects
   
 Programming Skills
 ======
-* Intermediate Python
-* Basic Mathematica
+* Python
+* Mathematica
+* LabVIEW
   
  
 Extracurricular
@@ -58,7 +59,7 @@ Courses taken
 * Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to
 Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
 
-Articles covered
+Papers and articles studied
 ======
 * Padgett, Miles J., and Robert W. Boyd. “An Introduction to Ghost Imaging: Quantum and Classical.” Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences 375, no. 2099 (August 6, 2017): 20160233. [https://doi.org/10.1098/rsta.2016.0233](https://doi.org/10.1098/rsta.2016.0233).
 * Elitzur, Avshalom C., and Lev Vaidman. “Quantum Mechanical Interaction-Free Measurements.” Foundations of Physics 23, no. 7 (July 1993): 987–97. [https://doi.org/10.1007/BF00736012](https://doi.org/10.1007/BF00736012).
@@ -72,3 +73,4 @@ Articles covered
 * Hardy, Lucien. “Quantum Mechanics, Local Realistic Theories, and Lorentz-Invariant Realistic Theories.” Physical Review Letters 68, no. 20 (May 18, 1992): 2981–84. [https://doi.org/10.1103/PhysRevLett.68.2981](https://doi.org/10.1103/PhysRevLett.68.2981).
 * Bennett, Charles H., et Gilles Brassard. « Quantum cryptography: Public key distribution and coin tossing ». Theoretical Computer Science, vol. 560, décembre 2014, p. 7‑11. arXiv.org, [https://doi.org/10.1016/j.tcs.2014.05.025](https://doi.org/10.1016/j.tcs.2014.05.025).
 * Scarani, Valerio, et Renato Renner. « Quantum cryptography with finite resources: unconditional security bound for discrete-variable protocols with one-way post-processing ». Physical Review Letters, vol. 100, no 20, mai 2008, p. 200501. arXiv.org, [https://doi.org/10.1103/PhysRevLett.100.200501](https://doi.org/10.1103/PhysRevLett.100.200501).
+* Zetie, K. P., et al. “How Does a Mach-Zehnder Interferometer Work?” Physics Education, vol. 35, no. 1, Jan. 2000, p. 46. iopscience.iop.org, [https://doi.org/10.1088/0031-9120/35/1/308](https://doi.org/10.1088/0031-9120/35/1/308).
