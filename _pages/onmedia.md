@@ -6,6 +6,12 @@ author_profile: true
 ---
 
 # 2024
+
+### El 99,4% de los jóvenes españoles encuentran apoyo en las redes sociales
+<i> La Nueva España </i> (June 2024).
+[https://www.lne.es/la-pizarra/2024/06/11/99-4-jovenes-espanoles-encuentran-103599055.html](https://www.lne.es/la-pizarra/2024/06/11/99-4-jovenes-espanoles-encuentran-103599055.html)
+
+
 ### Does the use of social media affect the well-being of adolescents?
 <i> El Observatorio Social. Fundación La Caixa</i> (June 2024).
 [https://elobservatoriosocial.fundacionlacaixa.org/en/-/use-social-media-well-being-adolescents](https://elobservatoriosocial.fundacionlacaixa.org/en/-/use-social-media-well-being-adolescents)
