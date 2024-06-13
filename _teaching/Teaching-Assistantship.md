@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching Assistantship"
+title: "Teaching-Assistantship"
 permalink: /teaching/
 ---
 
