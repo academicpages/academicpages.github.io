@@ -9,7 +9,7 @@ nav_order: 4
 
 ## ERIRA (Educational Research in Radio Astronomy)
 
-![Group picture from ERIRA 2019 at Green Bank Radio Observatory, in front of the 40 ft. radio telescope.](../assets/img/group.JPG)
+<img src="../assets/img/group.JPG" alt="Me teaching a student how to use radio telescope analysis software." width="50%">
 
 Since 2018, I’ve been a mentor for ERIRA (Educational Research in Radio Astronomy), a week-long intensive astronomy research program that takes place at the Green Bank Radio Observatory (NRAO), WV during the summer, founded and led by my undergraduate advisor Prof. Dan Reichart, for almost 30 years. During ERIRA, I mentor (mostly college) students in topics such as machine learning and data science, physical modeling, computer programming, and other skills that are useful for astronomy.
 
