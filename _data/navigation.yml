@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
    # url: /talks/    
 
-  - title: "Teaching Assistantship"
+- title: "Teaching Assistantship"
     url: /teaching/    
     
   #- title: "Portfolio"
@@ -15,7 +15,7 @@ main:
   #- title: "Blog Posts"
    # url: /year-archive/
     
-  - title: "CV"
+- title: "CV"
     url: /cv/
     
   #- title: "Guide"
