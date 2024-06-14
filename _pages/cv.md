@@ -20,15 +20,20 @@ Education
 
 Working Experience
 ======
-* 2020-2025: Graduate Research Assistant
+* 2020-2025 (expected): Graduate Research Assistant
   * Emory University
   * Duties included: Leading research projects on various topics of machine learning, such as multi-task learning, continual learning, and domain generalization, etc.
-  * Supervisor: Professor Liang Zhao
+  * Supervisor: Professor [Liang Zhao](https://cs.emory.edu/~lzhao41/)
+
+* Summer 2024: Givens (Intern)
+  * Argonne National Lab
+  * Duties included: Closely working on LLM training under the Federated Learning setting, focusing on model compression and personalized local model techniques.
+  * Supervisor: Dr. [Kibaek Kim](https://kibaekkim.github.io/)
 
 * Summer 2023: Research Intern
   * NEC Lab America
   * Duties included: Developing machine learning algorithms for domain adaptation on time series data.
-  * Mentor: Junxiang Wang
+  * Mentor: Dr. [Junxiang Wang](https://xianggebenben.github.io/Junxiang_Wang.github.io/)
 
 
 <!-- 
