@@ -16,9 +16,9 @@ Education
   * Supervisors: [Prof. Dr. Michael Walter](https://qi.rub.de/walter), [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/)
   * working on the DFG-funded CASA Fundamental Research Project "Robust Certification of Quantum Devices"
 * M.Sc. Mathematics with Minor in Computer Science, Ruhr University Bochum, 2022-2024 (expected)
-  * current GPA: excellent (0.8)
+  * current GPA: excellent (0.7)
   * Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding
-  * Thesis Grade: very good (1.0)
+  * Thesis Grade: very good (0.7)
   * Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
 * M.Sc. IT-Security / Information Technology, Ruhr University Bochum, 2022-2024
   * Grade: excellent (99%)
@@ -61,6 +61,24 @@ Work experience
   * Analysis of general concepts in the field Post-Quantum Cryptography
   * Analysis and technical preparation of the impacts of Post-Quantum Cryptography on TLS
   * Presentation of the work results in a webinar
+
+
+Awards & Scholarships
+======
+
+* Prize for being Valedictorian IT-Security
+  * 2024
+  * 500€ sponsored by [Edgeless Systems](https://www.edgeless.systems)
+* [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html) (Germany Scholarship)
+  * 2018 - 2024
+  * 300€ per month (approx. 20,000€ in total) for outstanding achievements and special commitment
+  * funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+* DPG Bookprize (German Physical Society)
+  * 2018
+  * for excellent performance in Physics
+* DPG Abiturprize (German Physical Society)
+  * 2018
+  * for very good performances in Physics
 
 <!--
 Skills
