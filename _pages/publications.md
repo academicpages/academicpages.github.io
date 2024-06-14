@@ -28,7 +28,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 
 - **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークン生成によるテキスト音声合成のための音声主観評価値予測に基づくdecoding戦略**<br>
-情報処理学会研究報告, 2024-SLP-152, Vol. 2024-SLP-152, No. 14, 2024年6月. \[音学シンポジウム, ポスター発表\]<br>
+情報処理学会研究報告, Vol. 2024-SLP-152, No. 14, 2024年6月. \[音学シンポジウム, ポスター発表\]<br>
 \[[pdf](/files/yamauchi24otogaku_paper.pdf)\] \[[poster](/files/yamauchi24otogaku_poster.pdf)\]
 
 
