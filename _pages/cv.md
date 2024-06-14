@@ -28,7 +28,7 @@ Working Experience
 * Summer 2024: Givens (Intern)
   * Argonne National Lab
   * Duties included: Closely working on LLM training under the Federated Learning setting, focusing on model compression and personalized local model techniques.
-  * Supervisor: Dr. [Kibaek Kim](https://kibaekkim.github.io/)
+  * Mentor: Dr. [Kibaek Kim](https://kibaekkim.github.io/)
 
 * Summer 2023: Research Intern
   * NEC Lab America
