@@ -14,7 +14,7 @@ author_profile: true
 -   Then more detailed - Nmap -A -p $IP
 	- Where the open ports from the previous scan follow the -p flag
 	- Ex: -p22,80,445
--   Nmap -p- $IP
+-   nmap -sS -Pn -p- $IP
 	- Checks all ports - run this after getting started on the first scan because it takes a while
 -   Nmap -sU $IP
 - Nmap Scripting Engine
