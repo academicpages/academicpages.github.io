@@ -45,6 +45,9 @@ Department of Mathematical Engineering and Information Physics, Faculty of Engin
 
 ## Awards & Honours
 
+- Jun. 2024<br>
+🎉 **Best Presentation Award / 優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
+Sound Symposium / 音学シンポジウム
 - Mar. 2024<br>
 🎉 **Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
 Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge
