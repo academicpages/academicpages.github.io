@@ -29,7 +29,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 - **<u>山内 一輝</u>**, 中田 亘, 齋藤 佑樹, 猿渡 洋<br>
 **離散音声トークン生成によるテキスト音声合成のための音声主観評価値予測に基づくdecoding戦略**<br>
 情報処理学会研究報告, Vol. 2024-SLP-152, No. 14, 2024年6月. \[音学シンポジウム, ポスター発表\]<br>
-🎉 **音学シンポジウム優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
+🎉 **音学シンポジウム 優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
 \[[pdf](/files/yamauchi24otogaku_paper.pdf)\] \[[poster](/files/yamauchi24otogaku_poster.pdf)\]
 
 
@@ -42,7 +42,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 - **<u>山内 一輝</u>**, 齋藤 佑樹, 猿渡 洋<br>
 **VQ-VAEに基づく解釈可能なアクセント潜在変数を用いた多方言音声合成**<br>
 電子情報通信学会研究報告, SP2023-80, Vol. 123, No. 403, pp.220--225, 2024年3月. \[音声・音響・信号処理ワークショップ, ポスター発表\]<br>
-🎉 **SP研究会学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
+🎉 **音声研究会 学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
 \[[pdf](/files/yamauchi24sp03_paper.pdf)\] \[[poster](/files/yamauchi24sp03_poster.pdf)\]
 
 
