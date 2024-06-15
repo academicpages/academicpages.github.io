@@ -33,7 +33,7 @@ News
 
 Experience and Education
 ======
-**[Experience](experiences/)**  
+**[Experience](experience/)**  
 
 * **Sep. 2023 -- Present.** Staff MLE, Search Ads @ Baidu Inc.   
 Working on developing large language models to build the next-generation of Baidu's search ads system.
