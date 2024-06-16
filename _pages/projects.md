@@ -25,7 +25,7 @@ author_profile: true
   transition: 0.3s;
   font-size: 16px;
   font-family: Helvetica, Arial, sans-serif;
-  color: #444
+  color: #444;
 }
 
 /* Change background color of buttons on hover */
