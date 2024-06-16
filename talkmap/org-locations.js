@@ -18,5 +18,10 @@ var addressPoints = [
     "Los Angeles, CA",
     34.0543942,
     -118.2439408
+  ],
+  [
+    "Sheraton Grand, Macao SAR, China",
+    22.144570461745957,
+    113.56467346603488
   ]
 ];
