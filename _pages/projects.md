@@ -8,8 +8,7 @@ author_profile: true
 <style>
 /* CSS for tabbed navigation */
 .tab {
-  display: flex;
-  justify-content: space-between;
+  overflow: hidden;
   border: 1px solid #ccc;
   background-color: #f1f1f1;
 }
