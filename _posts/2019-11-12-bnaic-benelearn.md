@@ -4,8 +4,8 @@ date: 2019-11-12
 permalink: /posts/2019/11/bnaic-benelearn/
 tags:
   - conference
-  - bnaic
-  - benelearn
+  - BNAIC
+  - BeNeLearn
 ---
 
 

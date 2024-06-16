@@ -4,6 +4,7 @@ date: 2018-11-06
 permalink: /posts/2018/11/informatics-ladies-day/
 tags:
   - outreach
+  - Women in Tech
 ---
 
 Op vrijdag 16 november 2018 organiseren [VHTO](https://www.vhto.nl/over-vhto/) (Landelijk expertisebureau meisjes/vrouwen en bèta/techniek) en LIAXX (het vrouwennetwerk van de opleiding Informatica aan Universiteit Leiden) weer een [Informatics Ladies’ Day](https://www.universiteitleiden.nl/agenda/extra/2018/11/informatics-ladies-day) (ILD)!
