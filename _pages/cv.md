@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+오영우 (Youngwoo Oh, 吳煐宇)
+---
+
 학력 (Education)
 ---
 * 석사, 조선대학교 (컴퓨터공학과, 2022.03.02 - 2024.02.23)
@@ -22,6 +25,12 @@ redirect_from:
 ---
 * 만기제대, 육군 (2016.12.13 - 2018.09.12)
   * 병과 : 111102 (기관총)
+
+어학 (Language Skill)
+---
+* OPIc (Oral Proficiency Interview)
+  * Intermediate Mid 2, 2G8915615426 (2024.04.28)
+
 
 석사 학위 논문 (Master's thesis)
 ---
