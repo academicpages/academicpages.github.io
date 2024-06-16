@@ -64,7 +64,7 @@ author_profile: true
 </style>
 
 <div class="tab">
-  <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>NETFLIX Film Analysis</b></button>
+  <button class="tablinks" onclick="openProject(event, 'NetflixFilmAnalysis')"><b>Netflix Film Analysis</b></button>
   <button class="tablinks" onclick="openProject(event, 'CourseCompanion')"><b>Course Companion</b></button>
   <button class="tablinks" onclick="openProject(event, 'UrbanAnalysis')"><b>Walkability & Well-Being</b></button>
   <button class="tablinks" onclick="openProject(event, 'CPUScheduling')"><b>CPU Management</b></button>
