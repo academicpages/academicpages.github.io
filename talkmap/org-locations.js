@@ -1,27 +1,12 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
-  ],
-  [
-    "London, UK",
-    51.5073219,
-    -0.1276473
-  ],
-  [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
-  ],
-  [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
-  ],
-  [
-    "Sheraton Grand, Macao SAR, China",
+    "IJCAI 2023: Sheraton Grand, Macao SAR, China",
     22.144570461745957,
     113.56467346603488
+  ],
+  [
+    "Arizona State University, School of Computing and Augmented Intelligence: Tempe, AZ, USA",
+    33.423595929604254,
+    -111.93974132380079
   ]
 ];
