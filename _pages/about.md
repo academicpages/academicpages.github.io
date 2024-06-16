@@ -12,9 +12,9 @@ I am an [Old Dominion University](https://odu.edu/) graduate student pursuing an
 
 Technology, understanding different cultures, and continual learning have always been central to my life.  I thrive on the excitement of generating creative and innovative solutions within a collaborative setting while continually learning from others and my own experiences.
 
-I am an organizer for two large tech Meetup groups:
+I am an organizer for two large Southwest Florida tech Meetup groups:
 * [Python SWFL](https://www.meetup.com/pythonswfl/)
-  - Volunteer-run interdisciplinary user group based in Southwest Florida dedicated to exploration and experimentation with the Python programming language.
+  - Volunteer-run interdisciplinary user group for exploration and experimentation with the Python programming language.
   - Over 350 members.
 * [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/)
   - A collective of technology groups and industry leaders dedicated to fostering innovation, promoting technology education, and driving the growth of technology in Southwest Florida.
