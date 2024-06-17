@@ -5,6 +5,7 @@ authors: 'D. Frauen, <b>V. Melnychuk</b>, S. Feuerriegel'
 date: 2024-05-01
 excerpt: "![fair-policy](/images/fair-policy.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2303.08516'
+paperurl: 'https://openreview.net/pdf?id=poEPRuNvM3'
 venue: ICML
 ---
 
