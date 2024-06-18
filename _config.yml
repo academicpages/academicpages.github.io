@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cleo O'Brien-Udry"
 title_separator          : "-"
 name                     : &name "Cleo O'Brien-Udry"
-description              : &description "PhD Candidate, Yale University"
+description              : &description "Postdoctoral fellow, Christopher H. Browne Center, University of Pennsylvania"
 url                      : https://cobrienudry.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cobrienudry/cobrienudry.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Cleo O'Brien-Udry"
   avatar           : web_profile.png
   bio              : 
-  location         : "New Haven, CT"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=xho2hdAAAAAJ"
-  email            : "cleo.obrien-udry@yale.edu"
+  email            : "coudry@sas.upenn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
