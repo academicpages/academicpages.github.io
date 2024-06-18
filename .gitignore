@@ -10,3 +10,14 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+**/__pycache__
+*.pyc
+.DS_Store
+.idea
+.env
+.coverage
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+dist/
