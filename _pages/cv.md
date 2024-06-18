@@ -5,60 +5,54 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* Ph.D in Computational Mechanics, Dalian University of Technology, 2019-2023
+
+  Dissertation: “Optimal Design of Topological Materials in A Continuous Medium”
+
+* M.S. in Solid Mechanics, Beijing Jiaotong University, 2016-2019
+
+  Dissertation: “Properties and Operations of Waves in Folded Structures”
+
+* B.S. in Engineering Mechanics, Ningbo University, 2012-2016
+
+  Dissertation: “The FEM Analysis of Lithium Niobate Resonator Sensors in Lateral Field Excitation”
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023: Postdoctoral Assistant
+  * Boston University
+  * Research included: Mechanical Engineering
+  * Supervisor: Professor Harold S. Park
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Programming language
+  * C++, LATEX, MATLAB, PYTHON, MATHEMATICAS
+
+* FEM software
+  * COMSOL, ABAQUS
+
+* Design software
+  * CAD, 3D MAX, PHOTOSHOP, ILLUSTRATOR
+
+* Experiment equipment
+  * POLYTEC VIBROMETER  
+
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
