@@ -25,7 +25,7 @@ My research is focused on the wave propagation in the classical system, i.e., th
 
   Dissertation: “The FEM Analysis of Lithium Niobate Resonator Sensors in Lateral Field Excitation”
 
-### Work experience
+### Work Experience
 
 * Fall 2023: Postdoctoral Assistant
   * Boston University
