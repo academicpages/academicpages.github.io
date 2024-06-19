@@ -25,17 +25,18 @@ import os
 import re
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
+# publist = {
+#     "proceeding": {
+#         "file" : "proceedings.bib",  # replace with .bib name
+#         "venuekey": "booktitle",
+#         "venue-pretext": "In the proceedings of ",
+#         "collection" : {"name":"publications",
+#                         "permalink":"/publication/"}
+#
+#     },
 publist = {
-    "proceeding": {
-        "file" : "proceedings.bib",
-        "venuekey": "booktitle",
-        "venue-pretext": "In the proceedings of ",
-        "collection" : {"name":"publications",
-                        "permalink":"/publication/"}
-        
-    },
     "journal":{
-        "file": "pubs.bib",
+        "file": "publications.bib",
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
@@ -64,7 +65,7 @@ for pubsource in publist:
         pub_year = "1900"
         pub_month = "01"
         pub_day = "01"
-        
+
         b = bibdata.entries[bib_id].fields
         
         try:
@@ -145,7 +146,11 @@ for pubsource in publist:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
             if url:
-                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n" 
+                md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
+                # testing EMF
+                #md += "\n[Download BibTeX citation](http://ericfell.github.io/markdown_generator/publications.bib" + bib_key  ")  \n"
+                md += "\n[Download BibTeX citation](" + "[@" + bib_id + "])\n"
+
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
 
@@ -153,7 +158,7 @@ for pubsource in publist:
 
             with open("../_publications/" + md_filename, 'w', encoding="utf-8") as f:
                 f.write(md)
-            print(f'SUCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
+            print(f'SUCCESSFULLY PARSED {bib_id}: \"', b["title"][:60],"..."*(len(b['title'])>60),"\"")
         # field may not exist for a reference
         except KeyError as e:
             print(f'WARNING Missing Expected Field {e} from entry {bib_id}: \"', b["title"][:30],"..."*(len(b['title'])>30),"\"")
