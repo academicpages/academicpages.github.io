@@ -2,6 +2,7 @@
 title: "Long-Term Stability of Ferri-/Ferrocyanide as an Electroactive Component for Redox Flow Battery Applications: On the Origin of Apparent Capacity Fade"
 collection: publications
 permalink: /publication/2023-07-01-Long-Term-Stability-of-Ferri-Ferrocyanide-as-an-Electroactive-Component-for-Redox-Flow-Battery-Applications-On-the-Origin-of-Apparent-Capacity-Fade
+excerpt: ''
 date: 2023-07-01
 venue: 'Journal of The Electrochemical Society'
 paperurl: 'https://dx.doi.org/10.1149/1945-7111/ace936'
@@ -9,4 +10,20 @@ citation: ' Eric Fell,  Diana De,  Yan Jing,  Valeria Gutierrez-Venegas,  Thomas
 ---
 [Access paper here](https://dx.doi.org/10.1149/1945-7111/ace936){:target="_blank"}
 
-[Download BibTeX citation]([@2023_Fell_JES])
+BibTeX citation
+
+```bash 
+@article{2023_Fell_JES,
+    author = "Fell, Eric M. and De Porcellinis, Diana and Jing, Yan and Gutierrez-Venegas, Valeria and George, Thomas Y. and Gordon, Roy G. and Granados-Focil, Sergio and Aziz, Michael J.",
+    journal = "Journal of The Electrochemical Society",
+    title = "Long-{Term} {Stability} of {Ferri}-/{Ferrocyanide} as an {Electroactive} {Component} for {Redox} {Flow} {Battery} {Applications}: {On} the {Origin} of {Apparent} {Capacity} {Fade}",
+    year = "2023",
+    month = "July",
+    number = "7",
+    pages = "070525",
+    volume = "170",
+    doi = "10.1149/1945-7111/ace936",
+    url = "https://dx.doi.org/10.1149/1945-7111/ace936",
+    date = "2023-07"
+}
+```
