@@ -4,19 +4,19 @@ main:
     url: research/    
 
   - title: "Projects"
-    url: /projects/    
+    url: projects/    
     
   - title: "Teaching"
-    url: /teaching/
+    url: teaching/
         
   - title: "People"
-    url: /people/
+    url: people/
     
   - title: "Blogs"
-    url: /blogs/
+    url: blogs/
     
   - title: "Prospective Students"
-    url: /prospective-students/
+    url: prospective-students/
 
   - title: "CV"
-    url: /cv/
+    url: cv/
