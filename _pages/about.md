@@ -10,6 +10,26 @@ redirect_from:
 
 My research is focused on the wave propagation in the classical system, i.e., the solid mechanics, acoustics, and optics. The relative expertises include the band theory in phononic/photonic crystals, the optimization of metamaterials, and the design of topological materials. My current works are about the catalogue of topological phononic/photonic materials and the machine learning enhanced physics. The successes include the optimal design of the quantum spin/valley Hall topological insulators, the crystalline topological insulators, the 3D helical multipole topological insulators, and the machine learning models of the quantum spin/valley Hall topological insulators and the higher-order topological insulators.
 
+### Education
+
+* Ph.D in Computational Mechanics, Dalian University of Technology, 2019-2023
+
+  Dissertation: “Optimal Design of Topological Materials in A Continuous Medium”
+
+* M.S. in Solid Mechanics, Beijing Jiaotong University, 2016-2019
+
+  Dissertation: “Properties and Operations of Waves in Folded Structures”
+
+* B.S. in Engineering Mechanics, Ningbo University, 2012-2016
+
+  Dissertation: “The FEM Analysis of Lithium Niobate Resonator Sensors in Lateral Field Excitation”
+
+### Work experience
+
+* Fall 2023: Postdoctoral Assistant
+  * Boston University
+  * Research included: Mechanical Engineering
+  * Supervisor: Professor Harold S. Park
 ### Professional Researches
 
 ##### The Optimization of Topological Materials 2021-2023
