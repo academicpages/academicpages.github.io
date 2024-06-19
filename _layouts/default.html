@@ -41,7 +41,7 @@
     </div>
 
     {% include scripts.html %}
-    <!-- Begin: ChatGPT stuff for firebase counter-->
+    <!-- Begin: ChatGPT stuff for firebase site views counter-->
 <script>
   // Firebase configuration
   var firebaseConfig = {
@@ -74,7 +74,7 @@ function getCleanPath() {
   
 
   // Function to increment view count
-  function updatePageViews() {
+  function updateSiteViews() {
     const pagePath = getCleanPath();
     const pageRef = db.collection('pageViews').doc('total');
 
@@ -89,7 +89,7 @@ function getCleanPath() {
 
   // Function to display page views
   // Function to display page views
-function displayPageViews() {
+function displaySiteViews() {
   const pagePath = getCleanPath(); // Use the getCleanPath function here as well
   const pageRef = db.collection('pageViews').doc('total');
 
@@ -104,12 +104,48 @@ function displayPageViews() {
   });
 }
 
+    // Function to increment view count for the current blog post
+      function updateBlogPostViews() {
+        const pagePath = getCleanPath();
+        const pageRef = db.collection('pageViews').doc(pagePath);
+
+        pageRef.get().then((doc) => {
+          if (doc.exists) {
+            pageRef.update({ views: firebase.firestore.FieldValue.increment(1) });
+          } else {
+            pageRef.set({ views: 1 });
+          }
+        }).catch((error) => {
+          console.error("Error updating page views:", error);
+        });
+      }
+
+      // Function to display view count for the current blog post
+      function displayBlogPostViews() {
+        const pagePath = getCleanPath();
+        const pageRef = db.collection('pageViews').doc(pagePath);
+
+        pageRef.get().then((doc) => {
+          if (doc.exists) {
+            document.getElementById('blogViewCounter').innerText = `Views: ${doc.data().views}`;
+          } else {
+            document.getElementById('blogViewCounter').innerText = 'Views: 0';
+          }
+        }).catch((error) => {
+          console.error("Error getting page views:", error);
+        });
+  
+
   // Call the functions when the window loads
   window.addEventListener('load', function() {
-  updatePageViews();
-  displayPageViews();
+  updateSiteViews();
+  displaySiteViews();
+  if (document.getElementById('blogViewCounter')) {
+    updateBlogPostViews();
+    displayBlogPostViews();
+  }
 });
 </script>
-    <!-- End: ChatGPT stuff for firebase counter-->
+    <!-- End: ChatGPT stuff for firebase site views counter-->
   </body>
 </html>
