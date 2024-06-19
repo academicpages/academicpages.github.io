@@ -74,4 +74,4 @@ My research is focused on the wave propagation in the classical system, i.e., th
 
 ### For More Information
 
-You can find my CV here [JiachenLuo's Curriculum Vitae](https://academicpages.github.io/_pages/cv).
+You can find my CV here [JiachenLuo's Curriculum Vitae](https://jiachenluo.github.io/academicpages.github.io/_pages/cv).
