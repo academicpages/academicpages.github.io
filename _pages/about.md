@@ -31,6 +31,7 @@ My research is focused on the wave propagation in the classical system, i.e., th
   * Boston University
   * Research included: Mechanical Engineering
   * Supervisor: Professor Harold S. Park
+  
 ### Professional Researches
 
 ##### The Optimization of Topological Materials 2021-2023
