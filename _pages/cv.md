@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+### Education
 ======
 
 * Ph.D in Computational Mechanics, Dalian University of Technology, 2019-2023
@@ -25,7 +25,7 @@ Education
 
   Dissertation: “The FEM Analysis of Lithium Niobate Resonator Sensors in Lateral Field Excitation”
 
-Work experience
+### Work experience
 ======
 
 * Fall 2023: Postdoctoral Assistant
@@ -33,7 +33,7 @@ Work experience
   * Research included: Mechanical Engineering
   * Supervisor: Professor Harold S. Park
 
-Skills
+### Skills
 ======
 
 * Programming language
@@ -49,7 +49,7 @@ Skills
   * POLYTEC VIBROMETER  
 
 
-Publications
+### Publications
 ======
 
   <ul>{% for post in site.publications reversed %}
