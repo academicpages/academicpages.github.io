@@ -1,0 +1,12 @@
+---
+title: "Near Neutral pH Redox Flow Battery with Low Permeability and Long-Lifetime Phosphonated Viologen Active Species"
+collection: publications
+permalink: /publication/2020-01-01-Near-Neutral-pH-Redox-Flow-Battery-with-Low-Permeability-and-Long-Lifetime-Phosphonated-Viologen-Active-Species
+date: 2020-01-01
+venue: 'Advanced Energy Materials'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202000100'
+citation: ' Shijian Jin,  Eric Fell,  Lucia Vina-Lopez,  Yan Jing,  P. Michalak,  Roy Gordon,  Michael Aziz, &quot;Near Neutral pH Redox Flow Battery with Low Permeability and Long-Lifetime Phosphonated Viologen Active Species.&quot; Advanced Energy Materials, 2020.'
+---
+[Access paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202000100){:target="_blank"}
+
+[Download BibTeX citation]([@2020_Jin_AEM])

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Eric M. Fell"
+title: "(WORK IN PROGRESS) Eric M. Fell"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -23,7 +23,7 @@ In progress!
   - Harvard
 * **MSc Materials Science and Mechanical Engineering (2021)**
   - Harvard
-* **BSc Chemistry (2017)
+* **BSc Chemistry (2017)**
   - Simon Fraser University
 
 
