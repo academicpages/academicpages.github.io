@@ -10,9 +10,7 @@ redirect_from:
 
 My research is focused on the wave propagation in the classical system, i.e., the solid mechanics, acoustics, and optics. The relative expertises include the band theory in phononic/photonic crystals, the optimization of metamaterials, and the design of topological materials. My current works are about the catalogue of topological phononic/photonic materials and the machine learning enhanced physics. The successes include the optimal design of the quantum spin/valley Hall topological insulators, the crystalline topological insulators, the 3D helical multipole topological insulators, and the machine learning models of the quantum spin/valley Hall topological insulators and the higher-order topological insulators.
 
-Here is my individual [CV page](https://academicpages.github.io/_pages/cv).
-
-### PROFESSIONAL RESEARCHES
+### Professional Researches
 
 ##### The Optimization of Topological Materials 2021-2023
 
@@ -41,7 +39,7 @@ Here is my individual [CV page](https://academicpages.github.io/_pages/cv).
 
 * The homotopy analysis method in the large deflection of the thin circular plate
 
-### HONORS AND AWARDS
+### Honors And Awards
 
 * Second-class Scholarship 2019-2022
   Dalian University of Technology
@@ -51,3 +49,7 @@ Here is my individual [CV page](https://academicpages.github.io/_pages/cv).
   Beijing Jiaotong University
 * The First Prize 2014
   China Undergraduate Mathematical Contest in Modelling
+
+### For More Information
+
+Here is my individual [CV page](https://academicpages.github.io/_pages/cv).
