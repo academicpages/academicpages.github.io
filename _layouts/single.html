@@ -97,3 +97,75 @@ layout: default
     </div>
   {% endif %}
 </div>
+
+<!-- Add Firebase SDK -->
+<script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.0.0/firebase-analytics.js"></script>
+<script>
+  // Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyBHfzThmGgycGkU3bROZBoVSWON08n8yUc",
+    authDomain: "mywebsite-4914a.firebaseapp.com",
+    projectId: "mywebsite-4914a",
+    storageBucket: "mywebsite-4914a.appspot.com",
+    messagingSenderId: "966713391944",
+    appId: "1:966713391944:web:ba2e3ce5166884ec9c117d",
+    measurementId: "G-5DZQBSQQF2"
+  };
+
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  // If using Firebase Analytics
+  firebase.analytics();
+
+  var db = firebase.firestore();
+
+  // Function to get a clean path for the current post
+  function getCleanPath() {
+    let path = window.location.pathname;
+    // Check if the path is just a slash, which is the root of the site
+    if (path === '/') {
+      return 'root'; // Use a placeholder like 'root' for the root path
+    }
+    // Remove leading and trailing slashes and replace internal slashes with a different character
+    path = path.replace(/^\/|\/$/g, '').replace(/\//g, '_');
+    return path;
+  }
+
+  // Function to increment view count for the current post
+  function updateBlogPostViews() {
+    const pagePath = getCleanPath();
+    const pageRef = db.collection('blogViews').doc(pagePath);
+
+    pageRef.get().then((doc) => {
+      if (doc.exists) {
+        pageRef.update({ views: firebase.firestore.FieldValue.increment(1) });
+      } else {
+        pageRef.set({ views: 1 });
+      }
+    });
+  }
+
+  // Function to display view count for the current post
+  function displayBlogPostViews() {
+    const pagePath = getCleanPath();
+    const pageRef = db.collection('blogViews').doc(pagePath);
+
+    pageRef.get().then((doc) => {
+      if (doc.exists) {
+        document.getElementById('blogViewCounter').innerText = `Views: ${doc.data().views}`;
+      } else {
+        document.getElementById('blogViewCounter').innerText = 'Views: 0';
+      }
+    }).catch((error) => {
+      console.error("Error getting document:", error); // For debugging
+    });
+  }
+
+  // Call the functions when the window loads
+  window.addEventListener('load', function() {
+    updateBlogPostViews();
+    displayBlogPostViews();
+  });
+</script>
