@@ -52,4 +52,4 @@ My research is focused on the wave propagation in the classical system, i.e., th
 
 ### For More Information
 
-Here is my individual [CV page](https://academicpages.github.io/_pages/cv).
+My individual [CV page](https://academicpages.github.io/_pages/cv).
