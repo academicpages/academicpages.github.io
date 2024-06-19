@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "bloemfontein"
 title                    : "Eugene Msizi Buthelezi"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  employer         : "University of Free State"
+  uri              : https://www.ufs.ac.za/econ/departments-and-divisions/economics-home/general/meet-the-team
   email            : "none@example.org" 
 
   # Academic websites
