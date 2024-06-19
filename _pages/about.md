@@ -119,6 +119,15 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+![](images/haojie_imagine.png){: .align-right width="200px"}
+**IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
+Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/imagine_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.11740','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=EpYUDb8bUP4','_blank')">Video</button>
+<br>
+
 ![](images/haojie_iclr24.png){: .align-right width="200px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 Haojie Huang, Owen Lewis Howell\*, **Dian Wang\***, Xupeng Zhu\*, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
