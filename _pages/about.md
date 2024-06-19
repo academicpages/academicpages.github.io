@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "RESEARCH INTERESTS"
+title: "ABOUT ME"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 
 ---
+### Research Interests
 
 My research is focused on the wave propagation in the classical system, i.e., the solid mechanics, acoustics, and optics. The relative expertises include the band theory in phononic/photonic crystals, the optimization of metamaterials, and the design of topological materials. My current works are about the catalogue of topological phononic/photonic materials and the machine learning enhanced physics. The successes include the optimal design of the quantum spin/valley Hall topological insulators, the crystalline topological insulators, the 3D helical multipole topological insulators, and the machine learning models of the quantum spin/valley Hall topological insulators and the higher-order topological insulators.
 
@@ -72,4 +73,4 @@ My research is focused on the wave propagation in the classical system, i.e., th
 
 ### For More Information
 
-My individual [CV page](https://academicpages.github.io/_pages/cv).
+You can find my CV here [JiachenLuo's Curriculum Vitae](https://academicpages.github.io/_pages/cv).
