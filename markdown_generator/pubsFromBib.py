@@ -58,9 +58,11 @@ def html_escape(text):
 for pubsource in publist:
     parser = bibtex.Parser()
     bibdata = parser.parse_file(publist[pubsource]["file"])
+    raw_bib = bibdata.to_string('bibtex').split("\n@article")
+    print(len(raw_bib))
 
     #loop through the individual references in a given bibtex file
-    for bib_id in bibdata.entries:
+    for idx,bib_id in enumerate(bibdata.entries):
         #reset default date
         pub_year = "1900"
         pub_month = "01"
@@ -119,12 +121,17 @@ for pubsource in publist:
             md += """collection: """ +  publist[pubsource]["collection"]["name"]
 
             md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+
             
             note = False
             if "note" in b.keys():
                 if len(str(b["note"])) > 5:
                     md += "\nexcerpt: '" + html_escape(b["note"]) + "'"
                     note = True
+            else:
+                # testing EMF
+                md += """\nexcerpt: ''"""
+
 
             md += "\ndate: " + str(pub_date) 
 
@@ -148,8 +155,11 @@ for pubsource in publist:
             if url:
                 md += "\n[Access paper here](" + b["url"] + "){:target=\"_blank\"}\n"
                 # testing EMF
-                #md += "\n[Download BibTeX citation](http://ericfell.github.io/markdown_generator/publications.bib" + bib_key  ")  \n"
-                md += "\n[Download BibTeX citation](" + "[@" + bib_id + "])\n"
+                md += "\nBibTeX citation\n"
+                bash_bib = "\n```bash \n@article" + str(raw_bib[idx]) + "```\n"
+                md += bash_bib
+                
+
 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-","+"))+"){:target=\"_blank\"} for full citation"
