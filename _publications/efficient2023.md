@@ -1,7 +1,7 @@
 ---
 title: "Efficient design of helical higher-order topological insulators in 3d elastic medium"
 collection: publications
-date: 2023
+date: 2023-10-01
 venue: 'Journal of the Mechanics and Physics of Solids'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
