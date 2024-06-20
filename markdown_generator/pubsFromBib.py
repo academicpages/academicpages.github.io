@@ -43,22 +43,22 @@ publist = {
 }
 
 html_escape_table = {
-    "&": "&amp;",
+    #"&": "&amp;",
     '"': "&quot;",
-    "'": "&apos;"
+    "'": "&apos;",
+    # "\\&": "&",
     }
 
 
 def html_escape(text):
     """Produce entities within text."""
-    return "".join(html_escape_table.get(c,c) for c in text)
+    return "".join(html_escape_table.get(c, c) for c in text)
 
 
 for pubsource in publist:
     parser = bibtex.Parser()
     bibdata = parser.parse_file(publist[pubsource]["file"])
     raw_bib = bibdata.to_string('bibtex').split("\n@article")
-    print(len(raw_bib))
 
     # loop through the individual references in a given bibtex file
     for idx, bib_id in enumerate(bibdata.entries):
@@ -91,10 +91,10 @@ for pubsource in publist:
             clean_title = b["title"].replace("{", "").replace("}", "").replace("\\", "").replace(" ", "-")
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
-            url_slug = url_slug.replace("--","-")
+            url_slug = url_slug.replace("--", "-")
 
-            md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
-            html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
+            md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--", "-")
+            html_filename = (str(pub_date) + "-" + url_slug).replace("--", "-")
 
             # Build Citation from text
             citation = ""
@@ -119,7 +119,9 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}", "").replace("\\", "")) + ".\""
 
             # add venue logic depending on citation type i.e. Journal name
-            venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}", "").replace("\\", "")
+            venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}", "")
+            if "\\&" not in venue:
+                venue = venue.replace("\\", "")
 
             citation = citation + " " + html_escape(venue)
             # add publication year to citation
@@ -165,7 +167,8 @@ for pubsource in publist:
 
                 md += "\nBibTeX citation\n"
                 # generate markdown bash cell of bibtex citation
-                md += "\n```bash \n@article" + str(raw_bib[idx]) + "```\n"
+                add_bib = str(raw_bib[idx]).replace("\\\\", "\\")
+                md += "\n```bash \n@article" + add_bib + "```\n"
 
             else:
                 md += "\nUse [Google Scholar](https://scholar.google.com/scholar?q="+html.escape(clean_title.replace("-", "+"))+"){:target=\"_blank\"} for full citation"
