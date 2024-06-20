@@ -6,7 +6,7 @@ excerpt: ''
 date: 2024-04-01
 venue: 'Journal of The Electrochemical Society'
 paperurl: 'https://dx.doi.org/10.1149/1945-7111/ad3855'
-citation: ' <b>Eric M. Fell</b>,  Thomas Y. George,  Yan Jing,  Roy G. Gordon,  Michael J. Aziz, &quot;Leveraging Temperature-Dependent (Electro)Chemical Kinetics for High-Throughput Flow Battery Characterization.&quot; Journal of The Electrochemical Society, 2024.'
+citation: ' <b>Eric M. Fell</b>,  Thomas Y. George,  Yan Jing,  Roy G. Gordon,  Michael J. Aziz, &quot;Leveraging Temperature-Dependent (Electro)Chemical Kinetics for High-Throughput Flow Battery Characterization.&quot; Journal of The Electrochemical Society, <b>171</b>, 040501, (2024).'
 ---
 [Access paper here](https://dx.doi.org/10.1149/1945-7111/ad3855){:target="_blank"}
 
