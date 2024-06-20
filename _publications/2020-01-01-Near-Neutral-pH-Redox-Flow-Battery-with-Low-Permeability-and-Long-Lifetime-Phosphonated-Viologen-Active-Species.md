@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-01-01
 venue: 'Advanced Energy Materials'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202000100'
-citation: ' Shijian Jin,  **Eric M. Fell**,  Lucia Vina-Lopez,  Yan Jing,  P. Winston Michalak,  Roy G. Gordon,  Michael J. Aziz, &quot;Near Neutral pH Redox Flow Battery with Low Permeability and Long-Lifetime Phosphonated Viologen Active Species.&quot; Advanced Energy Materials, 2020.'
+citation: ' Shijian Jin,  <b>Eric M. Fell<b>,  Lucia Vina-Lopez,  Yan Jing,  P. Winston Michalak,  Roy G. Gordon,  Michael J. Aziz, &quot;Near Neutral pH Redox Flow Battery with Low Permeability and Long-Lifetime Phosphonated Viologen Active Species.&quot; Advanced Energy Materials, 2020.'
 ---
 [Access paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/aenm.202000100){:target="_blank"}
 
