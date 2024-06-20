@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Research"
-    url: research/    
+    url: /research/    
 
   - title: "Projects"
-    url: projects/    
+    url: /projects/    
     
   - title: "Teaching"
-    url: teaching/
+    url: /teaching/
         
   - title: "People"
-    url: people/
+    url: /people/
     
   - title: "Blogs"
-    url: blogs/
+    url: /blogs/
     
   - title: "Prospective Students"
-    url: prospective-students/
+    url: /prospective-students/
 
   - title: "CV"
-    url: files/JoyceeCV.pdf
+    url: /files/JoyceeCV.pdf
