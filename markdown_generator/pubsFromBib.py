@@ -43,10 +43,9 @@ publist = {
 }
 
 html_escape_table = {
-    #"&": "&amp;",
+    "\\&": "&amp;",
     '"': "&quot;",
     "'": "&apos;",
-    # "\\&": "&",
     }
 
 
@@ -119,9 +118,9 @@ for pubsource in publist:
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}", "").replace("\\", "")) + ".\""
 
             # add venue logic depending on citation type i.e. Journal name
-            venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}", "")
-            if "\\&" not in venue:
-                venue = venue.replace("\\", "")
+            venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}", "").replace("\\", "")
+            #if "\\&" not in venue:
+            #    venue = venue.replace("\\", "")
 
             citation = citation + " " + html_escape(venue)
             # add publication year to citation
