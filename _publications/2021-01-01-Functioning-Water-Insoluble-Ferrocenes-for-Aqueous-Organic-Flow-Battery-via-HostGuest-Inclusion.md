@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-01-01
 venue: 'ChemSusChem'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/cssc.202002516'
-citation: ' Yuanyuan Li,  Ziang Xu,  Yahua Liu,  Shijian Jin,  Eric Fell,  Baoguo Wang,  Roy Gordon,  Michael Aziz,  Zhengjin Yang,  Tongwen Xu, &quot;Functioning Water-Insoluble Ferrocenes for Aqueous Organic Flow Battery via Host–Guest Inclusion.&quot; ChemSusChem, 2021.'
+citation: ' Yuanyuan Li,  Ziang Xu,  Yahua Liu,  Shijian Jin,  Eric M. Fell,  Baoguo Wang,  Roy G. Gordon,  Michael J. Aziz,  Zhengjin Yang,  Tongwen Xu, &quot;Functioning Water-Insoluble Ferrocenes for Aqueous Organic Flow Battery via Host–Guest Inclusion.&quot; ChemSusChem, 2021.'
 ---
 [Access paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/cssc.202002516){:target="_blank"}
 
