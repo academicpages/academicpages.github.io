@@ -73,7 +73,7 @@ for pubsource in publist:
         try:
             pub_year = f'{b["year"]}'
 
-            #todo: this hack for month and day needs some cleanup
+            # todo: this hack for month and day needs some cleanup
             if "month" in b.keys(): 
                 if(len(b["month"])<3):
                     pub_month = "0"+b["month"]
@@ -89,7 +89,7 @@ for pubsource in publist:
                 
             pub_date = pub_year+"-"+pub_month+"-"+pub_day
             
-            #strip out {} as needed (some bibtex entries that maintain formatting)
+            # strip out {} as needed (some bibtex entries that maintain formatting)
             clean_title = b["title"].replace("{", "").replace("}","").replace("\\","").replace(" ","-")    
 
             url_slug = re.sub("\\[.*\\]|[^a-zA-Z0-9_-]", "", clean_title)
@@ -98,29 +98,34 @@ for pubsource in publist:
             md_filename = (str(pub_date) + "-" + url_slug + ".md").replace("--","-")
             html_filename = (str(pub_date) + "-" + url_slug).replace("--","-")
 
-            #Build Citation from text
+            # Build Citation from text
             citation = ""
 
-            #citation authors - todo - add highlighting for primary author?
+            # citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
-            #citation title
+                first_name = author.first_names[0]
+                middle_name = None if not author.middle_names else author.middle_names[0]
+                # prelast_name = None if not author.prelast_names else author.prelast_names[0]
+                last_name = " ".join([str(x) for x in author.last_names])
+                full_name = first_name + " " + " ".join(filter(None, (middle_name, last_name)))
+                citation = citation + " " + full_name + ", "
+
+            # citation title
             citation = citation + "\"" + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + ".\""
 
-            #add venue logic depending on citation type
+            # add venue logic depending on citation type
             venue = publist[pubsource]["venue-pretext"]+b[publist[pubsource]["venuekey"]].replace("{", "").replace("}","").replace("\\","")
 
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
 
+            # YAML variables
+            md = "---\ntitle: \"" + html_escape(b["title"].replace("{", "").replace("}", "").replace("\\", "")) + '"\n'
             
-            ## YAML variables
-            md = "---\ntitle: \""   + html_escape(b["title"].replace("{", "").replace("}","").replace("\\","")) + '"\n'
-            
-            md += """collection: """ +  publist[pubsource]["collection"]["name"]
+            md += """collection: """ + publist[pubsource]["collection"]["name"]
 
-            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"]  + html_filename
+            md += """\npermalink: """ + publist[pubsource]["collection"]["permalink"] + html_filename
 
             
             note = False

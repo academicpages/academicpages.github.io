@@ -6,7 +6,7 @@ excerpt: 'Software available at [PyPI](https://pypi.org/project/rfbzero/), versi
 date: Under review-01-01
 venue: 'Journal of Open Source Software'
 paperurl: 'https://pypi.org/project/rfbzero/'
-citation: ' Eric Fell,  Jeremy Fell,  Michael Aziz, &quot;RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling.&quot; Journal of Open Source Software, Under review.'
+citation: ' Eric M. Fell,  Jeremy A. Fell,  Michael J. Aziz, &quot;RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling.&quot; Journal of Open Source Software, Under review.'
 ---
 Software available at [PyPI](https://pypi.org/project/rfbzero/), version 1.0.1
 
@@ -20,6 +20,7 @@ BibTeX citation
     journal = "Journal of Open Source Software",
     title = "{RFBzero}: A {Python} package for zero-dimensional simulation of redox flow battery cycling",
     year = "Under review",
+    doi = "10.5281/zenodo.11594955",
     note = "Software available at [PyPI](https://pypi.org/project/rfbzero/), version 1.0.1",
     url = "https://pypi.org/project/rfbzero/"
 }
