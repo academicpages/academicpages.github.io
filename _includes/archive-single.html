@@ -52,12 +52,12 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {% comment %}
-    EMF
-    original version below included in first four <p lines:
-    "<p>Recommended citation: {{..."
-    but I've removed it, seems redundant to say this
-    {% endcomment %}
+    {%
+      # EMF
+      # original version below included in first four <p lines:
+      # "<p>Recommended citation: {{..."
+      # but I've removed it, seems redundant to say this
+    %}
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>{{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
