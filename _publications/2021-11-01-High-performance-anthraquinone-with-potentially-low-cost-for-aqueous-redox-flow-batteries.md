@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-11-01
 venue: 'Journal of Materials Chemistry A'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta08900e'
-citation: ' Min Wu,  Meisam Bahari,  <b>Eric M. Fell</b>,  Roy G. Gordon,  Michael J. Aziz, &quot;High-performance anthraquinone with potentially low cost for aqueous redox flow batteries.&quot; Journal of Materials Chemistry A, <b>9</b>, 26709--26716, (2021).'
+citation: ' Min Wu,  Meisam Bahari,  <b>Eric M. Fell</b>,  Roy G. Gordon,  Michael J. Aziz, &quot;High-performance anthraquinone with potentially low cost for aqueous redox flow batteries.&quot; Journal of Materials Chemistry A, 9, 26709--26716, (2021).'
 ---
 [Access paper here](https://pubs.rsc.org/en/content/articlelanding/2021/ta/d1ta08900e){:target="_blank"}
 
