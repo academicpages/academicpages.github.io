@@ -43,7 +43,7 @@ publist = {
 }
 
 html_escape_table = {
-    "\\&": "&amp;",
+    "&": "&amp;",
     '"': "&quot;",
     "'": "&apos;",
     }
@@ -119,13 +119,16 @@ for pubsource in publist:
 
             # add venue logic depending on citation type i.e. Journal name
             venue = publist[pubsource]["venue-pretext"] + b[publist[pubsource]["venuekey"]].replace("{", "").replace("}", "").replace("\\", "")
-            #if "\\&" not in venue:
-            #    venue = venue.replace("\\", "")
+            # if "&" in venue:
+            #     print(venue)
+            #     venue = venue.replace("\&", "&amp;")
+            # else:
+            #     venue = venue.replace("\\", "")
 
             citation = citation + " " + html_escape(venue)
             # add publication year to citation
             # OG citation = citation + ", " + pub_year + "."
-            citation = citation + ", " + f'<b>{b["volume"]}</b>, ' + f'{b["pages"]}, (' + pub_year + ")."
+            citation = citation + ", " + f'{b["volume"]}, ' + f'{b["pages"]}, (' + pub_year + ")."
 
             # YAML variables
             md = "---\ntitle: \"" + html_escape(b["title"].replace("{", "").replace("}", "").replace("\\", "")) + '"\n'
@@ -146,6 +149,7 @@ for pubsource in publist:
             md += "\ndate: " + str(pub_date) 
 
             md += "\nvenue: '" + html_escape(venue) + "'"
+            #md += "\nvenue: '" + venue + "'"
             
             url = False
             if "url" in b.keys():
@@ -153,7 +157,12 @@ for pubsource in publist:
                     md += "\npaperurl: '" + b["url"] + "'"
                     url = True
 
-            md += "\ncitation: '" + html_escape(citation) + "'"
+            final_citation = html_escape(citation)
+            if "&amp;amp;" in final_citation:
+                final_citation = final_citation.replace("&amp;amp;", "&amp;")
+
+            #md += "\ncitation: '" + html_escape(citation) + "'"
+            md += "\ncitation: '" + final_citation + "'"
 
             md += "\n---"
 
