@@ -46,6 +46,7 @@ html_escape_table = {
     "&": "&amp;",
     '"': "&quot;",
     "'": "&apos;",
+    "--": "&ndash;",
     }
 
 
@@ -160,6 +161,8 @@ for pubsource in publist:
             final_citation = html_escape(citation)
             if "&amp;amp;" in final_citation:
                 final_citation = final_citation.replace("&amp;amp;", "&amp;")
+            if "--" in final_citation:
+                final_citation = final_citation.replace("--", "&ndash;")
 
             #md += "\ncitation: '" + html_escape(citation) + "'"
             md += "\ncitation: '" + final_citation + "'"
