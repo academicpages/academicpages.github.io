@@ -46,12 +46,6 @@ layout: default
 
       <section class="page__content" itemprop="text">
         {{ content }}
-        {%
-          # EMF
-          # original version below included in first four <p lines:
-          # "... : smaller">Recommended citation: {{..."
-          # but I've removed it, seems redundant to say this
-        %}
         {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">{{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
