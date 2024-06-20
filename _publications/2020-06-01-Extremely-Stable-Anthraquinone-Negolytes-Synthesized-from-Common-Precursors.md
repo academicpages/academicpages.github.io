@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-06-01
 venue: 'Chem'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2451929420301340'
-citation: ' Min Wu,  Yan Jing,  Andrew A. Wong,  <b>Eric M. Fell</b>,  Shijian Jin,  Zhijiang Tang,  Roy G. Gordon,  Michael J. Aziz, &quot;Extremely Stable Anthraquinone Negolytes Synthesized from Common Precursors.&quot; Chem, 6, 1432--1442, (2020).'
+citation: ' Min Wu,  Yan Jing,  Andrew A. Wong,  <b>Eric M. Fell</b>,  Shijian Jin,  Zhijiang Tang,  Roy G. Gordon,  Michael J. Aziz, &quot;Extremely Stable Anthraquinone Negolytes Synthesized from Common Precursors.&quot; Chem, 6, 1432&ndash;1442, (2020).'
 ---
 [Access paper here](https://www.sciencedirect.com/science/article/pii/S2451929420301340){:target="_blank"}
 
