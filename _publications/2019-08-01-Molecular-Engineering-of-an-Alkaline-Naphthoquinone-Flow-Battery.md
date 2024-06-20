@@ -6,7 +6,7 @@ excerpt: ''
 date: 2019-08-01
 venue: 'ACS Energy Letters'
 paperurl: 'https://doi.org/10.1021/acsenergylett.9b01321'
-citation: ' Liuchuan Tong,  Marc-Antoni Goulet,  Daniel P. Tabor,  Emily F. Kerr,  Diana De Porcellinis,  Eric M. Fell,  Alán Aspuru-Guzik,  Roy G. Gordon,  Michael J. Aziz, &quot;Molecular Engineering of an Alkaline Naphthoquinone Flow Battery.&quot; ACS Energy Letters, 2019.'
+citation: ' Liuchuan Tong,  Marc-Antoni Goulet,  Daniel P. Tabor,  Emily F. Kerr,  Diana De Porcellinis,  **Eric M. Fell**,  Alán Aspuru-Guzik,  Roy G. Gordon,  Michael J. Aziz, &quot;Molecular Engineering of an Alkaline Naphthoquinone Flow Battery.&quot; ACS Energy Letters, 2019.'
 ---
 [Access paper here](https://doi.org/10.1021/acsenergylett.9b01321){:target="_blank"}
 

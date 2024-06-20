@@ -109,6 +109,11 @@ for pubsource in publist:
                 # prelast_name = None if not author.prelast_names else author.prelast_names[0]
                 last_name = " ".join([str(x) for x in author.last_names])
                 full_name = first_name + " " + " ".join(filter(None, (middle_name, last_name)))
+
+                # testing
+                if full_name == "Eric M. Fell":
+                    full_name = "**Eric M. Fell**"
+
                 citation = citation + " " + full_name + ", "
 
             # citation title

@@ -6,7 +6,7 @@ excerpt: ''
 date: 2023-01-01
 venue: 'ACS Energy Letters'
 paperurl: 'https://doi.org/10.1021/acsenergylett.2c01691'
-citation: ' Emily F. Kerr,  Zhijiang Tang,  Thomas Y. George,  Shijian Jin,  Eric M. Fell,  Kiana Amini,  Yan Jing,  Min Wu,  Roy G. Gordon,  Michael J. Aziz, &quot;High Energy Density Aqueous Flow Battery Utilizing Extremely Stable, Branching-Induced High-Solubility Anthraquinone near Neutral pH.&quot; ACS Energy Letters, 2023.'
+citation: ' Emily F. Kerr,  Zhijiang Tang,  Thomas Y. George,  Shijian Jin,  **Eric M. Fell**,  Kiana Amini,  Yan Jing,  Min Wu,  Roy G. Gordon,  Michael J. Aziz, &quot;High Energy Density Aqueous Flow Battery Utilizing Extremely Stable, Branching-Induced High-Solubility Anthraquinone near Neutral pH.&quot; ACS Energy Letters, 2023.'
 ---
 [Access paper here](https://doi.org/10.1021/acsenergylett.2c01691){:target="_blank"}
 
