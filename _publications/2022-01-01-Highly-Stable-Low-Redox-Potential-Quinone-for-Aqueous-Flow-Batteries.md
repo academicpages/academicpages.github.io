@@ -6,7 +6,7 @@ excerpt: ''
 date: 2022-01-01
 venue: 'Batteries &amp; Supercaps'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/batt.202200009'
-citation: ' Min Wu,  Meisam Bahari,  Yan Jing,  Kiana Amini,  <b>Eric M. Fell<b>,  Thomas Y. George,  Roy G. Gordon,  Michael J. Aziz, &quot;Highly Stable, Low Redox Potential Quinone for Aqueous Flow Batteries.&quot; Batteries &amp;amp; Supercaps, 2022.'
+citation: ' Min Wu,  Meisam Bahari,  Yan Jing,  Kiana Amini,  <b>Eric M. Fell</b>,  Thomas Y. George,  Roy G. Gordon,  Michael J. Aziz, &quot;Highly Stable, Low Redox Potential Quinone for Aqueous Flow Batteries.&quot; Batteries &amp;amp; Supercaps, 2022.'
 ---
 [Access paper here](https://onlinelibrary.wiley.com/doi/abs/10.1002/batt.202200009){:target="_blank"}
 

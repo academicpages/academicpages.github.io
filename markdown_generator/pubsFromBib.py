@@ -112,7 +112,7 @@ for pubsource in publist:
 
                 # testing
                 if full_name == "Eric M. Fell":
-                    full_name = "<b>Eric M. Fell<b>"
+                    full_name = "<b>Eric M. Fell</b>"
 
                 citation = citation + " " + full_name + ", "
 

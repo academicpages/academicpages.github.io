@@ -6,7 +6,7 @@ excerpt: 'Software available at [PyPI](https://pypi.org/project/rfbzero/), versi
 date: Under review-01-01
 venue: 'Journal of Open Source Software'
 paperurl: 'https://pypi.org/project/rfbzero/'
-citation: ' <b>Eric M. Fell<b>,  Jeremy A. Fell,  Michael J. Aziz, &quot;RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling.&quot; Journal of Open Source Software, Under review.'
+citation: ' <b>Eric M. Fell</b>,  Jeremy A. Fell,  Michael J. Aziz, &quot;RFBzero: A Python package for zero-dimensional simulation of redox flow battery cycling.&quot; Journal of Open Source Software, Under review.'
 ---
 Software available at [PyPI](https://pypi.org/project/rfbzero/), version 1.0.1
 

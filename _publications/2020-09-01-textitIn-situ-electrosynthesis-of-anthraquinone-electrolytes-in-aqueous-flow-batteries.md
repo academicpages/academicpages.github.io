@@ -6,7 +6,7 @@ excerpt: ''
 date: 2020-09-01
 venue: 'Green Chemistry'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2020/gc/d0gc02236e'
-citation: ' Yan Jing,  Min Wu,  Andrew A. Wong,  <b>Eric M. Fell<b>,  Shijian Jin,  Daniel A. Pollack,  Emily F. Kerr,  Roy G. Gordon,  Michael J. Aziz, &quot;textitIn situ electrosynthesis of anthraquinone electrolytes in aqueous flow batteries.&quot; Green Chemistry, 2020.'
+citation: ' Yan Jing,  Min Wu,  Andrew A. Wong,  <b>Eric M. Fell</b>,  Shijian Jin,  Daniel A. Pollack,  Emily F. Kerr,  Roy G. Gordon,  Michael J. Aziz, &quot;textitIn situ electrosynthesis of anthraquinone electrolytes in aqueous flow batteries.&quot; Green Chemistry, 2020.'
 ---
 [Access paper here](https://pubs.rsc.org/en/content/articlelanding/2020/gc/d0gc02236e){:target="_blank"}
 
