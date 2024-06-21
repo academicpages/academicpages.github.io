@@ -7,17 +7,15 @@ redirect_from:
   - /resume
 ---
 <iframe
-    src="http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf"
+    src="https://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf"
     frameBorder="0"
     scrolling="auto"
-    height="600"
+    height="950"
     width="100%"
-    Your browser does not support iframes.
 ></iframe>
 
-
 {% include base_path %}
-##  [***My CV***](http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf)
+##  [***My CV***](https://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf)
 
 Education
 ======
