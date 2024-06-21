@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)). My advisor is Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). I am interested in cognitive flexibility, learning and memory. I investigate the role of cortex and hippocampus in these functions -- in a non-traditional way :) Currently my main project is titled "[Mice in the Manhattan Maze](https://www.youtube.com/watch?v=ULZqNH9vWPA&ab_channel=MouseMazeData)," which features a novel reconfigurable maze for studying rapid learning and flexible routing. 
 
-I was the teaching assistant for CNS187 Neural Computation for two years, a graduate-level course requirement for students in Computation and Neural System. I am currently the president of the Neurotechers (23-24), the official club for Caltech graduate students in neuroscience. 
+Outside research, I am actively involved in teaching and student activities around Caltech (See a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) of me on the front page of Caltech). I was the teaching assistant for CNS187 Neural Computation for two years, a graduate-level course requirement for students in Computation and Neural System. I am currently the president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. 
 
 Prior to Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree (M.Phil) in Education and Psychology at the University of Cambridge. 
 
