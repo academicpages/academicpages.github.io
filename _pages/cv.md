@@ -13,7 +13,17 @@ redirect_from:
     height="100%"
     width="100%"
 ></iframe> -->
+
 {% include base_path %}
+{% capture written_label %}'None'{% endcapture %}
+
+If the embedded PDF below does not load, you can <u><a href="http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf">download it here.</a></u>
+<br/>
+
+<embed src="http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf" type="application/pdf" width="100%" /
+
+
+<!-- {% include base_path %}
 ##  [***My CV***](http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf)
 
 Education
@@ -70,4 +80,4 @@ Projects
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
- -->
+ --> -->
