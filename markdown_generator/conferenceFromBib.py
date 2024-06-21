@@ -17,7 +17,6 @@ from time import strptime
 from pybtex.database.input import bibtex
 
 
-
 publist = {
         "file": "conference_talks.bib",  # replace with .bib name
         "venuekey": "booktitle",
@@ -40,6 +39,11 @@ def html_escape(text):
 
 
 all_citations = []
+presentation_type = []
+
+talks_list = []
+invited_talks_list = []
+posters_list = []
 
 parser = bibtex.Parser()
 bibdata = parser.parse_file(publist["file"])
@@ -115,7 +119,23 @@ for idx, bib_id in enumerate(bibdata.entries):
         citation = citation + " " + html_escape(b["address"].replace("{", "").replace("}", "").replace("\\", ""))
         # add date
         citation = citation + " (" + b["month"] + " " + b["year"] + ")."
-        all_citations.append(citation)
+        #all_citations.append(citation)
+
+        # sort by presentation type
+        present = b["note"].replace("{", "").replace("}", "").replace("\\", "").lower()
+
+        if present == "talk":
+            talks_list.append(citation)
+        elif present == "invited talk":
+            invited_talks_list.append(citation)
+        elif present == "poster":
+            posters_list.append(citation)
+        else:
+            talks_list.append(citation)
+
+
+
+
     except KeyError as e:
         print(f'WARNING Missing Expected Field {e} from entry {bib_id}: \"', b["title"][:30], "..." * (len(b['title']) > 30), "\"")
         continue
@@ -128,19 +148,47 @@ html += 'title: "Talks and presentations"\n'
 html += "permalink: " + publist["collection"]["permalink"]
 html += "\nauthor_profile: true\n---\n\n\n"
 
-
+# invited talks sections (reverse chronological)
 html += "<b>Invited Talks</b>\n"
-# start section
 html += "\n<ul>\n"
 
-#invited_talks = []
-
-# do reverse chronological order
-for inv_talk in all_citations[::-1]:
+for inv_talk in invited_talks_list[::-1]:
     html += "  <li> " + inv_talk + " </li>\n"
-
 # end section
 html += "</ul>\n"
+
+# regular talks section
+html += "\n<b>Talks</b>\n"
+html += "\n<ul>\n"
+
+for reg_talk in talks_list[::-1]:
+    html += "  <li> " + reg_talk + " </li>\n"
+# end section
+html += "</ul>\n"
+
+# posters section
+html += "\n<b>Posters</b>\n"
+html += "\n<ul>\n"
+
+# poster section
+for poster in posters_list[::-1]:
+    html += "  <li> " + poster + " </li>\n"
+# end section
+html += "</ul>\n"
+
+
+
+
+
+
+# creating html lists
+
+# OG do reverse chronological order
+#for inv_talk in all_citations[::-1]:
+#    html += "  <li> " + inv_talk + " </li>\n"
+
+# end section
+#html += "</ul>\n"
 
 with open("../_pages/talks2.html", 'w', encoding="utf-8") as f:
     f.write(html)
