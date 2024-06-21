@@ -77,7 +77,6 @@ for idx, bib_id in enumerate(bibdata.entries):
 
         # add authors to citation
         for author in bibdata.entries[bib_id].persons["author"]:
-            #print(author.first_names)
             first_name = author.first_names[0]
             middle_name = None if not author.middle_names else author.middle_names[0]
             # uncomment below if pre-last names exist i.e. 'van ...'
@@ -110,11 +109,12 @@ for idx, bib_id in enumerate(bibdata.entries):
         # else:
         #     venue = venue.replace("\\", "")
 
-        citation = citation + html_escape(venue) + ", "
+        # add and italicize conference name
+        citation = citation + "<i>" + html_escape(venue) + "</i>."
         # add location
         citation = citation + " " + html_escape(b["address"].replace("{", "").replace("}", "").replace("\\", ""))
         # add date
-        citation = citation + " (" + b["month"] + " " + b["year"] + ")"
+        citation = citation + " (" + b["month"] + " " + b["year"] + ")."
         all_citations.append(citation)
     except KeyError as e:
         print(f'WARNING Missing Expected Field {e} from entry {bib_id}: \"', b["title"][:30], "..." * (len(b['title']) > 30), "\"")
