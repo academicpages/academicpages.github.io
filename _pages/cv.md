@@ -7,12 +7,11 @@ redirect_from:
   - /resume
 ---
 <iframe
-    src="https://www.overleaf.com/download/project/6491ae2f8101c73202b85b09/build/190383c9ac4-0b4a80f92587d369/output/output.pdf?compileGroup=standard&clsiserverid=clsi-reg-n2d-b-f-7p6b&enable_pdf_caching=true&"
+    src="http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf"
     frameBorder="0"
     scrolling="auto"
-    height="800%"
-    style="border"
-    width="600%"
+    height="600"
+    width="100%"
     Your browser does not support iframes.
 ></iframe>
 
