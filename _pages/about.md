@@ -128,6 +128,13 @@ Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, 
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=EpYUDb8bUP4','_blank')">Video</button>
 <br>
 
+![](images/arsh_offline.png){: .align-right width="200px"}
+**Equivariant Offline Reinforcement Learning**  
+Arsh Tangri, Ondrej Biza, **Dian Wang**, David Klee, Owen Howell, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.13961','_blank')">PDF</button>
+<br>
+
 ![](images/haojie_iclr24.png){: .align-right width="200px"}
 **Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
 Haojie Huang, Owen Lewis Howell\*, **Dian Wang\***, Xupeng Zhu\*, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
