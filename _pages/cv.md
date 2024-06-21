@@ -7,12 +7,15 @@ redirect_from:
   - /resume
 ---
 <iframe
-    src="/files/Mostafa%20Othman.pdf"
+    src="https://www.overleaf.com/download/project/6491ae2f8101c73202b85b09/build/190383c9ac4-0b4a80f92587d369/output/output.pdf?compileGroup=standard&clsiserverid=clsi-reg-n2d-b-f-7p6b&enable_pdf_caching=true&"
     frameBorder="0"
     scrolling="auto"
-    height="100%"
-    width="100%"
+    height="800%"
+    style="border"
+    width="600%"
+    Your browser does not support iframes.
 ></iframe>
+
 
 {% include base_path %}
 ##  [***My CV***](http://mostafa-metwaly.github.io/files/MostafaOthman_CV.pdf)
@@ -55,19 +58,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Projects
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
