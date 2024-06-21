@@ -7,9 +7,10 @@ venue: "Renmin University of China"
 date: 2024-06-09
 location: "Beijing, China"
 ---
-
+# About
 This course is lectured by Prof Hongteng Xu, covering the basic concepts and methods of statistical machine learning. The lecture focuses on the mathematical derivation of ML algorithms and the implementation of these algorithms in Python.
 
+# Contents
 | Lecture                                               | Note   | Code                                                         |
 | --------                                              | ------ | ------------------------------------------------------------ |
 | Lecture 1: Introduction to Machine Learning         | [Note](/files/statistical-machine-learning-2024/lec1.pdf)   | [Random Matrices Practice](/files/statistical-machine-learning-2024/lab1_random_matrice.ipynb)                       |
