@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: timeline.qmd
+        text: Timeline
+      - href: publications.qmd
+        text: Publications
+      - href: blog
+        text: Blog
+      - href: _data/CV.pdf
+        text: CV
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: superhero
+    css: styles.css
+    toc: true
+
+
+

@@ -1,0 +1,34 @@
+---
+title: <u>Zeel</u> B Patel
+image: images/profile_crop.png
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/patel_zeel_
+    - icon: github
+      text: Github
+      href: https://github.com/patel-zeel
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zeel-b-patel/
+    - icon: envelope
+      text: Email
+      href: mailto:patel_zeel@iitgn.ac.in
+    - icon: book
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en
+---
+
+
+<div style="text-align: justify">
+Zeel is a PhD student in Computer Science and Engineering at the <a style="text-decoration:none" href="https://nipunbatra.github.io/lab/">Sustainability lab</a>, <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by Prof. <a style="text-decoration:none" href="https://nipunbatra.github.io">Nipun Batra</a>. His research area of interest is *Probabilistic Machine Learning* and its applications to *Environment Modeling* and *Sensor Placement*.
+
+He is a co-author in <a style="text-decoration:none" href="https://www.cs.ubc.ca/~murphyk/">Dr. Kevin Murphy</a>'s latest book <a style="text-decoration:none" href="https://probml.github.io/pml-book/book2.html">Probabilistic Machine Learning: Advanced Topics</a> (<img src="https://img.shields.io/github/downloads/probml/pml2-book/total" alt="download stats shield">). He was a Google Summer of Code (GSoC) contributor at Google (TensorFlow) in 2022.
+
+Before joining Ph.D., he was a *Data Scientist* in an R&D team headed by CTO at <a style="text-decoration:none" href="https://www.inspirisys.com">Inspirisys Solutions Ltd.</a>. He did his masters from <a style="text-decoration:none" href="https://www.iiitdm.ac.in/">IIITDM Kancheepuram</a>.
+
+</div>
