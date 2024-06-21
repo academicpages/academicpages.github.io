@@ -21,6 +21,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Book Reviewer, Wiley-IEEE Press.</span>
 1. <span style="font-size: 16px;">Reviewer, Computer Communications Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Physical Communication Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Artificial Intelligence.</span>
