@@ -17,8 +17,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 [[CV](https://houeix.github.io/files/DeivyHoueix_CV_June24.pdf)] [[Email](mailto:houeix@mit.edu)]
 
 
-## Research
-### Working Papers
+## Working Papers
 
 - [Overcoming Information Asymmetries Within Firms: The Role of Digitalization](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0), *Draft Coming Soon*
 
@@ -30,7 +29,7 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 - [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps), Revision Requested, *Quantitative Economics*
     
-### Selected Work in Progress
+## Selected Work in Progress
 
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
