@@ -10,6 +10,17 @@ layout: compress
     {% include head.html %}
     {% include head/custom.html %}
     {% include analytics.html %}
+
+    <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var links = document.querySelectorAll('a');
+    links.forEach(function(link) {
+      link.setAttribute('target', '_blank');
+    });
+  });
+</script>
+
+    
   </head>
 
   <body>
