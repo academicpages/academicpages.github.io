@@ -82,8 +82,8 @@ analytics:
 author:
   name             : #"Shivam Sharma"
   avatar           : "shivlinkedin.png"
-  bio              : "PhD Student @ IIT Delhi, India. Technical Lead @ Wipro AI Research (Lab45)."
-  location         : "Delhi, NCR"
+  bio              : "PhD Student @ IIT Delhi, India."
+  location         : "Greater Noida, India"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=RzntnxoAAAAJ&hl=en"
   email            : "shiv6891.iitd@gmail.com"
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shivam-sharma-36221040"
+  linkedin         : #"shivam-sharma-36221040"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
