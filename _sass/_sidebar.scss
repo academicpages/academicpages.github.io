@@ -70,6 +70,7 @@
    ========================================================================== */
 
 .author__avatar {
+   
   display: table-cell;
   vertical-align: top;
    width: 100px; // set the desired width
@@ -86,6 +87,7 @@
   }
 
   img {
+     min-width: 80em
     max-width: 175px;
     border-radius: 50%;
 
