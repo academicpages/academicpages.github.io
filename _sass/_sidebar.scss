@@ -24,14 +24,14 @@
     }
   }
 
-
   @include breakpoint($x-large) {
     padding-right: 0;
+    margin-left: 2em; // Increase the margin to create more space for the avatar
   }
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
   }
 
   h3, h4 {
@@ -39,7 +39,7 @@
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -70,11 +70,11 @@
    ========================================================================== */
 
 .author__avatar {
-   //Container
+   // Container
   display: table-cell;
   vertical-align: top;
   width: 200px; // set the desired width
-  //height: 200px; // set the desired height
+  height: 200px; // set the desired height
 
   @include breakpoint($large) {
     display: block;
@@ -83,10 +83,10 @@
   }
 
   img {
-     width: 100%; // make the image fill the container's width
-    //height: 100%; // make the image fill the container's height
+    width: 100%; // make the image fill the container's width
+    height: 100%; // make the image fill the container's height
     object-fit: cover; // ensure the image covers the container without distortion
-     border-radius: 50%; // remove this line to make the image square
+    // border-radius: 50%; // remove this line to make the image square
 
     @include breakpoint($large) {
       padding: 5px;
@@ -101,6 +101,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     display: block;
@@ -112,19 +113,22 @@
 
 .author__name {
   margin: 0;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
   font-size: $type-size-5;
 }
 
 .author__bio {
   margin: 0;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -136,7 +140,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
   z-index: 10;
   position: relative;
   cursor: pointer;
