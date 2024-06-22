@@ -73,9 +73,8 @@
    
   display: table-cell;
   vertical-align: top;
-   width: 100px; // set the desired width
-  //height: 150px; // set the desired height
-  //width: 36px;
+    width: 150px; // set the desired width for the img
+    height: 150px; // set the desired height for the img
   // set width only, for non-square avatars
   // height: 36px;
    
@@ -87,9 +86,11 @@
   }
 
   img {
-     min-width: 80em
-    max-width: 175px;
-    border-radius: 50%;
+    //  min-width: 80em
+    // max-width: 175px;
+      width: 150px; // set the desired width for the img
+    height: 150px; // set the desired height for the img
+    //border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
