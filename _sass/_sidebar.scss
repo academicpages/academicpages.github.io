@@ -73,8 +73,8 @@
    //Container
   display: table-cell;
   vertical-align: top;
-  width: 250px; // set the desired width
-  height: 250px; // set the desired height
+  width: 200px; // set the desired width
+  height: 200px; // set the desired height
 
   @include breakpoint($large) {
     display: block;
@@ -83,9 +83,10 @@
   }
 
   img {
-    width: 250px; // set the desired width for the img
-    height: 250px; // set the desired height for the img
-    //border-radius: 50%; // remove this line to make the image square
+     width: 100%; // make the image fill the container's width
+    height: 100%; // make the image fill the container's height
+    object-fit: cover; // ensure the image covers the container without distortion
+    // border-radius: 50%; // remove this line to make the image square
 
     @include breakpoint($large) {
       padding: 5px;
