@@ -17,19 +17,20 @@ My dissertation investigates the adoption and impact of various technologies on 
 In the past seven years, I have been involved in research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
 
 ## Research
-### Selected Work in Progress
+### Working Papers
 
+- [Overcoming Information Asymmetries Within Firms: The Role of Digitalization](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0), *Draft Coming Soon*
 
-- [Overcoming Information Asymmetries Within Firms: The Role of Digitalization](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0)
+- [Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders](https://pedl.cepr.org/content/relational-frictions-along-supply-chain-evidence-randomised-experiment-among-senegalese-0) (with Edward Wiles), *Draft Coming Soon*
 
-- [Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders](https://pedl.cepr.org/content/relational-frictions-along-supply-chain-evidence-randomised-experiment-among-senegalese-0) (with Edward Wiles)
+- Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion, *Draft Coming Soon*
 
-- Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion
-
-- Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki)
+- Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
 
 - [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, Marcel Fafchamps), Revision Requested, *Quantitative Economics*
     
+### Selected Work in Progress
+
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
 
 ## Other Publications
