@@ -6,6 +6,10 @@
    Default
    ========================================================================== */
 
+body {
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Apply font to the entire body
+}
+
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -26,12 +30,12 @@
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-left: 2em; // Increase the margin to create more space for the avatar
+    margin-left: 1em; // Reduce the margin to create more space for the avatar
   }
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
   }
 
   h3, h4 {
@@ -39,7 +43,7 @@
   }
 
   p, li {
-    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -73,13 +77,13 @@
    // Container
   display: table-cell;
   vertical-align: top;
-  width: 200px; // set the desired width
-  height: 200px; // set the desired height
+  width: 250px; // set the desired width
+  height: 250px; // set the desired height
 
   @include breakpoint($large) {
     display: block;
-    width: auto;
-    height: auto;
+    width: 250px;
+    height: 250px;
   }
 
   img {
@@ -101,7 +105,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     display: block;
@@ -113,7 +117,7 @@
 
 .author__name {
   margin: 0;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -122,13 +126,13 @@
 }
 
 .sidebar .author__name {
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
   font-size: $type-size-5;
 }
 
 .author__bio {
   margin: 0;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -140,7 +144,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; // Change font to Palatino Linotype
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important; // Change font to Palatino Linotype
   z-index: 10;
   position: relative;
   cursor: pointer;
