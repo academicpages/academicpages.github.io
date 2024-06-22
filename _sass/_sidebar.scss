@@ -30,7 +30,7 @@ body {
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-left: 1em; // Reduce the margin to create more space for the avatar
+    margin-left: 1.5em; // Adjust the margin to create more balanced space for the avatar
   }
 
   h2, h3, h4, h5, h6 {
@@ -77,13 +77,13 @@ body {
    // Container
   display: table-cell;
   vertical-align: top;
-  width: 250px; // set the desired width
-  height: 250px; // set the desired height
+  width: 200px; // slightly reduce the desired width
+  height: 200px; // slightly reduce the desired height
 
   @include breakpoint($large) {
     display: block;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
   }
 
   img {
