@@ -30,7 +30,7 @@ body {
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-left: 0; // Revert the margin to its original setting
+    margin-left: 0.5em; // Revert the margin to its original setting
   }
 
   h2, h3, h4, h5, h6 {
@@ -77,13 +77,13 @@ body {
    // Container
   display: table-cell;
   vertical-align: top;
-  width: 200px; // slightly reduce the desired width
-  height: 200px; // slightly reduce the desired height
+  width: 210px; // slightly reduce the desired width
+  height: 210px; // slightly reduce the desired height
 
   @include breakpoint($large) {
     display: block;
-    width: 200px;
-    height: 200px;
+    width: 210px;
+    height: 210px;
   }
 
   img {
