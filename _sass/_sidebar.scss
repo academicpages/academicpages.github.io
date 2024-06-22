@@ -70,10 +70,11 @@
    ========================================================================== */
 
 .author__avatar {
+   //Container
   display: table-cell;
   vertical-align: top;
-  width: 150px; // set the desired width
-  height: 150px; // set the desired height
+  width: 250px; // set the desired width
+  height: 250px; // set the desired height
 
   @include breakpoint($large) {
     display: block;
@@ -82,8 +83,8 @@
   }
 
   img {
-    width: 150px; // set the desired width for the img
-    height: 150px; // set the desired height for the img
+    width: 250px; // set the desired width for the img
+    height: 250px; // set the desired height for the img
     //border-radius: 50%; // remove this line to make the image square
 
     @include breakpoint($large) {
