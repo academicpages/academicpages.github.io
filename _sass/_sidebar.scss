@@ -77,13 +77,13 @@ body {
    // Container
   display: table-cell;
   vertical-align: top;
-  width: 190px; // slightly reduce the desired width
-  height: 190px; // slightly reduce the desired height
+  width: 200px; // slightly reduce the desired width
+  height: 200px; // slightly reduce the desired height
 
   @include breakpoint($large) {
     display: block;
-    width: 190px;
-    height: 190px;
+    width: 200px;
+    height: 200px;
   }
 
   img {
