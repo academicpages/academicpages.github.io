@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Deivy Houeix"
-  avatar           : "profile_dh.jpg"
+  avatar           : "profile_dh.jpg | width=100"
   bio              : #"Your biography for the left-hand sidebar"
   location         : #"Cambridge, USA"
   employer         :
