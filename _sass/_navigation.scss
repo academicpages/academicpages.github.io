@@ -13,7 +13,7 @@
   margin-bottom: 0;
   padding-left: 2em;
   padding-right: 2em;
-  font-family: $sans-serif;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.30s;
@@ -66,7 +66,7 @@
     margin: 0;
     padding: 0;
     list-style-type: none;
-    font-family: $sans-serif;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   }
 
   li {
@@ -77,7 +77,7 @@
     a {
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
-      font-family: $sans-serif;
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
       font-size: 14px;
       font-weight: bold;
       line-height: 1.5;
@@ -126,7 +126,7 @@
     padding: 1em 2em;
     float: left;
     width: 50%;
-    font-family: $sans-serif;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
     font-size: $type-size-5;
     font-weight: bold;
     text-align: center;
@@ -183,6 +183,7 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     &:hover {
       color: $masthead-link-color-hover;
@@ -199,6 +200,7 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   }
 
   .visible-links {
@@ -225,6 +227,7 @@
 
     a {
       position: relative;
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
       &:before {
         content: "";
@@ -259,11 +262,13 @@
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
       &:hover {
         color: $masthead-link-color-hover;
@@ -315,6 +320,7 @@
 
 .nav__list {
   font-size: 1.25rem;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
   ul {
     margin-bottom: 1em;
@@ -324,6 +330,7 @@
     display: block;
     padding: 0.125em 0;
     color: inherit;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     &:hover {
       text-decoration: underline;
@@ -338,6 +345,7 @@
     font-weight: bold;
     background: $primary-color;
     border-radius: $border-radius;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     &:hover {
       color: #fff;
@@ -348,7 +356,7 @@
 .nav__title {
   margin: 0;
   padding: 0.5rem 1rem;
-  font-family: $sans-serif-narrow;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   font-size: $type-size-5;
   font-weight: bold;
 }
@@ -357,7 +365,7 @@
   display: block;
   margin: 0.5rem 0;
   padding: 0.5rem 0;
-  font-family: $sans-serif-narrow;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
@@ -370,7 +378,7 @@
    ========================================================================== */
 
 .toc {
-  font-family: $sans-serif-narrow;
+  font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -385,6 +393,7 @@
     background: $primary-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
   }
 }
 
@@ -403,6 +412,7 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     &:hover {
       color: #000;
