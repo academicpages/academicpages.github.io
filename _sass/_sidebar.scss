@@ -30,7 +30,7 @@ body {
 
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-left: 0.5em; // Revert the margin to its original setting
+    margin-left: 0; // Revert the margin to its original setting
   }
 
   h2, h3, h4, h5, h6 {
