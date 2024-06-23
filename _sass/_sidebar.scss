@@ -29,7 +29,7 @@ body {
   }
 
   @include breakpoint($x-large) {
-    padding-right: 0;
+    padding-right: 0; /* Adjusted */
     margin-left: 0; // Revert the margin to its original setting
   }
 
@@ -60,7 +60,7 @@ body {
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    margin-left: span(0.5 of 12); /* Adjusted */
     z-index: 10;
   }
 
@@ -77,13 +77,13 @@ body {
    // Container
   display: table-cell;
   vertical-align: top;
-  width: 210px; // slightly reduce the desired width
-  height: 210px; // slightly reduce the desired height
+  width: 250px; // Increased width
+  height: 250px; // Increased height
 
   @include breakpoint($large) {
     display: block;
-    width: 210px;
-    height: 210px;
+    width: 250px; // Increased width
+    height: 250px; // Increased height
   }
 
   img {
