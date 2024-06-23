@@ -19,15 +19,15 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 ## Working Papers
 
-- Overcoming Information Asymmetries Within Firms: The Role of Digitalization, *Draft Coming Soon*
+1. Overcoming Information Asymmetries Within Firms: The Role of Digitalization, *Draft Coming Soon*
 
-- Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
+2. Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
-- Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion, *Draft Coming Soon*
+3. Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion, *Draft Coming Soon*
 
-- Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
+4. Hidden Barriers to Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
 
-- [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, and Marcel Fafchamps), Revision Requested, *Quantitative Economics*
+5. [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2305.pdf) (with Pascaline Dupas, and Marcel Fafchamps), Revision Requested, *Quantitative Economics*
     
 ## Selected Work in Progress
 
