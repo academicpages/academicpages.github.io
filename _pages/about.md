@@ -19,9 +19,9 @@ In the past seven years, I have been involved in research projects in Côte d'Iv
 
 ## Working Papers
 
-- [Overcoming Information Asymmetries Within Firms: The Role of Digitalization](https://pedl.cepr.org/content/adoption-and-impacts-digital-payment-technologies-evidence-informal-transit-0), *Draft Coming Soon*
+- Overcoming Information Asymmetries Within Firms: The Role of Digitalization, *Draft Coming Soon*
 
-- [Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders](https://pedl.cepr.org/content/relational-frictions-along-supply-chain-evidence-randomised-experiment-among-senegalese-0) (with Edward Wiles), *Draft Coming Soon*
+- Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
 - Nationwide Diffusion of Technology Within Firms' Social Networks: Evidence from Senegal’s Digital Payments Expansion, *Draft Coming Soon*
 
