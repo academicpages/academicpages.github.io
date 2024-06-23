@@ -18,7 +18,7 @@ body {
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12); // Adjusted from 2 of 12 to 1.5 of 12 to reduce sidebar width
+    @include span(2 of 12); // Reduce sidebar width from 2 of 12 to 1 of 12
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -66,6 +66,20 @@ body {
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
+  }
+}
+
+/*
+   Main content
+   ========================================================================== */
+
+.main-content {
+  @include breakpoint($large) {
+    @include span(10 of 12); // Increase main content width from 10 of 12 to 11 of 12
+  }
+
+  @include breakpoint($x-large) {
+    @include span(11 of 12); // Increase main content width from 11 of 12 to 12 of 12
   }
 }
 
