@@ -1,5 +1,5 @@
 ---
-title: "Solving the Identifying Code Set Problem with Grouped Independent Support"
+title: "IJCAI 2023: Solving the Identifying Code Set Problem with Grouped Independent Support"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/2023-08-23-ijcai-gismo
