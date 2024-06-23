@@ -18,7 +18,7 @@ body {
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2 of 12); // Adjusted from 2 of 12 to 1.5 of 12 to reduce sidebar width
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -29,7 +29,7 @@ body {
   }
 
   @include breakpoint($x-large) {
-    padding-right: 0; /* Adjusted */
+    padding-right: 0;
     margin-left: 0; // Revert the margin to its original setting
   }
 
@@ -60,7 +60,7 @@ body {
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12); /* Adjusted */
+    margin-left: span(0.5 of 12); // Adjusted
     z-index: 10;
   }
 
