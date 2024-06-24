@@ -3,8 +3,8 @@ main:
   # - title: "Projects"
   #   url: /projects/
 
-  - title: "Resume"
-    url: /resume/
+  # - title: "Resume"
+  #   url: /resume/
    
   - title: "Guide"
     url: /guide/  
