@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "ModRef 2023 at CP 2023: Heart House Building, St. George Campus, University of Toronto, Toronto, Canada",
+    43.6640177620086,
+    -79.3943227993122
+  ],
+  [
     "IJCAI 2023: Sheraton Grand, Macao SAR, China",
     22.144570461745957,
     113.56467346603488
