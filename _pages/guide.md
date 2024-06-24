@@ -13,17 +13,17 @@ redirect_from:
 
 ------   
 
-+ [NN部署工程师的自我修养-NV](https://github.com/lix19937/history/blob/main/faqs.md)      
++ [NN加速-NV](https://github.com/lix19937/history/blob/main/faqs.md)      
 
-+ [NN部署工程师的自我修养-QCOM](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN加速-QCOM](https://github.com/lix19937/snpe/blob/main/faqs.md)
 
-+ [NN部署工程师的自我修养-TI](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN加速-TI](https://github.com/lix19937/snpe/blob/main/faqs.md)
   
-+ [NN部署工程师的自我修养-onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
++ [NN加速-onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
 
-+ [NN部署工程师的自我修养-cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
++ [NN加速-cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
 
-+ [NN部署工程师的自我修养-torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN加速-torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
   
 + [大模型推理](https://github.com/lix19937/llm-deploy)      
 
