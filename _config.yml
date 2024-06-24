@@ -198,11 +198,11 @@ defaults:
   #- scope:
   #    path: ""
   #    type: resume
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: false
+  #    comment: false
 
 # Sass/SCSS
 sass:
