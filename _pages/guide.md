@@ -13,21 +13,21 @@ redirect_from:
 
 ------   
 
-+ [NN加速-NV](https://github.com/lix19937/history/blob/main/faqs.md)      
++ [NN 10x -NV](https://github.com/lix19937/history/blob/main/faqs.md)      
 
-+ [NN加速-QCOM](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN 10x -QCOM](https://github.com/lix19937/snpe/blob/main/faqs.md)
 
-+ [NN加速-TI](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN 10x -TI](https://github.com/lix19937/snpe/blob/main/faqs.md)
   
-+ [NN加速-onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
++ [NN 10x -onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
 
-+ [NN加速-cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
++ [NN 10x -cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
 
-+ [NN加速-torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN 10x -torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
   
-+ [大模型推理](https://github.com/lix19937/llm-deploy)      
++ [LLM-infer](https://github.com/lix19937/llm-deploy)      
 
-+ [推理引擎](https://github.com/lix19937/xinfer)
++ [engine](https://github.com/lix19937/xinfer)
 
 + [图像处理](https://github.com/lix19937/cv-cookbook)    
 
