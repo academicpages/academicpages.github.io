@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to lix19937's homepage. 
+Welcome to lix19937's [homepage](https://lix-it.com/). 
 
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
