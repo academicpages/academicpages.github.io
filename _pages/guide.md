@@ -23,7 +23,7 @@ redirect_from:
 
 + [NN部署工程师的自我修养-cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
 
-+ [NN部署工程师的自我修养-pytorch](https://github.com/lix19937/snpe/blob/main/faqs.md)
++ [NN部署工程师的自我修养-torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
   
 + [大模型推理](https://github.com/lix19937/llm-deploy)      
 
