@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to lix19937's [homepage](https://lix-it.com/). 
+Welcome to lix19937's [homepage](https://lix-it.com/).      
+[10x your pipeline](../images/10x.png)    
 
 [comment]: <> (This is a comment, it will not be included)
 [comment]: <> (in  the output file unless you use it in)
