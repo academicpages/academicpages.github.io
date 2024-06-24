@@ -29,7 +29,7 @@ redirect_from:
 
 + [engine](https://github.com/lix19937/xinfer)
 
-+ [图像处理](https://github.com/lix19937/cv-cookbook)    
++ [image processing](https://github.com/lix19937/cv-cookbook)    
 
 
 
