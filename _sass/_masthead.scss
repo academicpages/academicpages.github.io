@@ -15,7 +15,7 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif !important;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
