@@ -128,6 +128,13 @@ Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, 
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=EpYUDb8bUP4','_blank')">Video</button>
 <br>
 
+![](images/mingxi_gem.png){: .align-right width="200px"}
+**Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
+Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
+<br>
+
 ![](images/arsh_offline.png){: .align-right width="200px"}
 **Equivariant Offline Reinforcement Learning**  
 Arsh Tangri, Ondrej Biza, **Dian Wang**, David Klee, Owen Howell, Robert Platt  
