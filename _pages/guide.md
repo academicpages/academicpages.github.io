@@ -17,9 +17,11 @@ redirect_from:
 
 + [NN 10x -QCOM](https://github.com/lix19937/snpe/blob/main/faqs.md)
 
-+ [NN 10x -TI](https://github.com/lix19937/snpe/blob/main/faqs.md)
-  
-+ [NN 10x -onnx](https://github.com/lix19937/snpe/blob/main/faqs.md)    
++ [NN 10x -TI](https://github.com/lix19937/ti/blob/main/faqs.md)
+
++ [NN 10x -Intel](https://github.com/lix19937/intel/blob/main/faqs.md)    
+
++ [NN 10x -onnxruntime](https://github.com/lix19937/onnxruntime/blob/main/faqs.md)    
 
 + [NN 10x -cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
 
