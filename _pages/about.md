@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[June 25, 2024] Our paper, entitled 'Intelligible Protocol Learning for Resource Allocation in 6G O-RAN Slicing', has been accepted at IEEE Wireless Communications.</span>
 - <span style="font-size: 16px;">[June 21, 2024] Invited as Reviewer of Physical Communication Journal, 2024.</span>
 - <span style="font-size: 16px;">[June 04, 2024] Invited as Reviewer of IEEE Transactions on Artificial Intelligence, 2024.</span>
 - <span style="font-size: 16px;">[June 01, 2024] Invited as Reviewer of IEEE Open Journal of the Communications Society, 2024.</span>
