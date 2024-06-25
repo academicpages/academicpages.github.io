@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yujun Zhou / Personal Homepage"
+title                    : "Yujun Zhou's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yujun Zhou"
 description              : &description ""
@@ -24,7 +24,7 @@ author:
   avatar           : "Yujun1.png"
   name             : "Yujun Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Second year PhD student"
+  bio              : "Second-year PhD student"
   location         : "South Bend, IN, USA"
   employer         : "University of Notre Dame"
   uri              : # URL
