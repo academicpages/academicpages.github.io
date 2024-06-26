@@ -15,7 +15,7 @@ module Jekyll
     def render(context)
       if @text.size == 3
         "<div class='epigraph'><blockquote><p>#{@text[0]}</p>"+
-        "<footer>#{@text[1]}, "+"<cite>#{@text[2]}</cite></footer></blockquote></div>"
+        "<footer>#{@text[1]} "+"<cite>#{@text[2]}</cite></footer></blockquote></div>"
       else
         "<div class='epigraph'><blockquote><p>#{@text[0]}</p>"+
         "<footer>#{@text[1]}</footer></blockquote></div>"
