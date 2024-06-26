@@ -13,7 +13,7 @@ website:
         text: Publications
       - href: blog
         text: Blog
-      - href: _data/CV.pdf
+      - href: cv/Zeel_CV.pdf
         text: CV
 
 format:

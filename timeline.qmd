@@ -1,0 +1,89 @@
+---
+format: 
+  html:
+    page-layout: full
+    css: timeline.scss
+---
+
+<!-- Colors for different categories -->
+<!-- Conference - #FBCA3E -->
+<!-- Publication = #41516C -->
+<!-- Achievement - #E24A68 -->
+<!-- Service - #4CADAD -->
+
+<ul>
+    <li style="--accent-color:#E24A68">
+        <div class="date">2024 Jun 17</div>
+        <div class="title">Achievement</div>
+        <div class="descr">Received Microsoft Research India PhD Fellowship</a></div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2023 Oct 27</div>
+        <div class="title">Publication</div>
+        <div class="descr">A workshop paper titled [Towards Scalable Identification of Brick Kilns from Satellite Imagery with Active Learning](https://openreview.net/forum?id=F6jSo0PIKy) got accepted in [NeurIPS 2023 Workshop on Adaptive Experimental Design and Active Learning in the Real World](https://realworldml.github.io/neurips2023/)</a></div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2023 Sep 22</div>
+        <div class="title">Publication</div>
+        <div class="descr">A paper titled [Fine-Grained Spatio-Temporal Particulate Matter Dataset From Delhi For ML based Modeling](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ee799aff607fcf39c01df6391e96f92c-Abstract-Datasets_and_Benchmarks.html) got accepted in [NeurIPS 2023 Datasets and Benchmarks Track](https://neurips.cc/Conferences/2023/CallForDatasetsBenchmarks)</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2023 Sep 11</div>
+        <div class="title">Publication</div>
+        <div class="descr">A visual explainable [Conformal Prediction: A Visual Introduction](https://conformal-prediction.streamlit.app/) got accepted at [VisXAI](https://visxai.io/2023).</div>
+    </li>
+    <li style="--accent-color:#4CADAD">
+        <div class="date">2023 Aug 25</div>
+        <div class="title">Service</div>
+        <div class="descr">Reviewer at [AAAI 2024](https://aaai.org/aaai-conference/)</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2023 Jan 29-31</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended Google Research Week at Bangalore, India</div>
+    </li>
+    <li style="--accent-color:#4CADAD">
+        <div class="date">2022 Oct 19</div>
+        <div class="title">Service</div>
+        <div class="descr">Reviewer at [AISTATS 2023](https://aistats.org/aistats2023/)</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2022 Oct 14</div>
+        <div class="title">Publication</div>
+        <div class="descr">Two workshop papers got accepted at [NeurIPS Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems](https://gp-seminar-series.github.io/neurips-2022/)</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2022 Aug 16</div>
+        <div class="title">Conference</div>
+        <div class="descr">Presented an [invited talk](https://www.youtube.com/watch?v=zAEOeIU0d78&t=6517s) at [ICAS-ASIC](https://cstep.in/event-details.php?id=2042) conference in Bengalore organized by [CSTEP](https://cstep.in/) and [UC Davis Air Quality Research Center](https://airquality.ucdavis.edu/)</div>
+    </li>
+    <li style="--accent-color:#E24A68">
+        <div class="date">2022 May 21</div>
+        <div class="title">Achievement</div>
+        <div class="descr">Selected as a Google Summer of Code contributor at TensorFlow [[Proposal]](https://summerofcode.withgoogle.com/proposals/details/kDIlco6v) [[Final Report]](https://github.com/patel-zeel/gsoc22/blob/main/gsoc22.md) <br><br> Mentors: [Kevin Murphy](https://www.cs.ubc.ca/~murphyk/) and [Nipun Batra](https://nipunbatra.github.io/)</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2022 Apr 26</div>
+        <div class="title">Publication</div>
+        <div class="descr">Our work [Samachar: Print News Media on Air Pollution in India](https://dl.acm.org/doi/abs/10.1145/3530190.3534812) is accepted in [ACM COMPASS 2022](https://compass.acm.org/)</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2022 Feb 8-11</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended Google Research Week virtually</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2021 Dec 02</div>
+        <div class="title">Publication</div>
+        <div class="descr">Our work [Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference](https://ojs.aaai.org/index.php/AAAI/article/view/21467) is accepted at [AAAI 22](https://aaai.org/aaai-conference/) (15% acceptance rate)</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2021 Sep 13-16</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended [Gaussian Process Summer School](https://gpss.cc/) virtually </div>
+    </li>
+</ul>
+
+
+
+<div class="credits"><a target="_blank" href="https://codepen.io/MarkBoots/pen/OJOqNyB">inspired by</a></div>
