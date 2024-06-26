@@ -21,6 +21,8 @@ redirect_from:
 
 + [NN 10x -Intel](https://github.com/lix19937/intel/blob/main/faqs.md)    
 
++ [NN 10x -HW](https://github.com/lix19937/hw/blob/main/faqs.md)     
+  
 + [NN 10x -onnxruntime](https://github.com/lix19937/onnxruntime/blob/main/faqs.md)    
 
 + [NN 10x -cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
