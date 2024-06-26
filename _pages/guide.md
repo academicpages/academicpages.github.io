@@ -28,7 +28,11 @@ redirect_from:
 + [NN 10x -cpp](https://github.com/lix19937/snpe/blob/main/faqs.md)   
 
 + [NN 10x -torch](https://github.com/lix19937/snpe/blob/main/faqs.md)
-  
+
++ [openvx](https://github.com/lix19937/openvx)
+
++ [mediapipe](https://github.com/lix19937/mediapipe)
+
 + [LLM-infer](https://github.com/lix19937/llm-deploy)      
 
 + [engine](https://github.com/lix19937/xinfer)
