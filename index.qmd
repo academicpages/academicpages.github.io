@@ -9,8 +9,8 @@ about:
     - icon: file-earmark-pdf
       text: CV
       href: cv/Zeel_CV.pdf
-    - icon: twitter
-      text: Twitter
+    - icon: twitter-x
+      text: X (Twitter)
       href: https://twitter.com/patel_zeel_
     - icon: github
       text: Github
@@ -24,12 +24,10 @@ about:
     - icon: book
       text: Google Scholar
       href: https://scholar.google.com/citations?user=7LY1_u4AAAAJ&hl=en
-
-format: 
-  html:
-    page-layout: full
+    - icon: stack-overflow
+      text: Stack Overflow
+      href: https://stackoverflow.com/users/13330701/zeel-b-patel
 ---
-
 
 <div style="text-align: justify">
 Zeel is a PhD student in Computer Science and Engineering at the <a style="text-decoration:none" href="https://nipunbatra.github.io/lab/">Sustainability lab</a>, <a style="text-decoration:none" href="https://www.iitgn.ac.in/">IIT Gandhinagar</a> advised by Prof. <a style="text-decoration:none" href="https://nipunbatra.github.io">Nipun Batra</a>. His research area of interest is "Spatio Temporal Modeling with Machine Learning".

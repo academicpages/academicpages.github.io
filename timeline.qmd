@@ -10,12 +10,18 @@ format:
 <!-- Publication = #41516C -->
 <!-- Achievement - #E24A68 -->
 <!-- Service - #4CADAD -->
+<!-- Milestone - #BBAC4B -->
 
 <ul>
     <li style="--accent-color:#E24A68">
         <div class="date">2024 Jun 17</div>
         <div class="title">Achievement</div>
         <div class="descr">Received Microsoft Research India PhD Fellowship</a></div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2023 Dec 10-16</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended NeurIPS conference in-person at New Orleans, USA</div>
     </li>
     <li style="--accent-color:#41516C">
         <div class="date">2023 Oct 27</div>
@@ -73,7 +79,7 @@ format:
         <div class="descr">Attended Google Research Week virtually</div>
     </li>
     <li style="--accent-color:#41516C">
-        <div class="date">2021 Dec 02</div>
+        <div class="date">2021 Dec 2</div>
         <div class="title">Publication</div>
         <div class="descr">Our work [Accurate and Scalable Gaussian Processes for Fine-grained Air Quality Inference](https://ojs.aaai.org/index.php/AAAI/article/view/21467) is accepted at [AAAI 22](https://aaai.org/aaai-conference/) (15% acceptance rate)</div>
     </li>
@@ -82,8 +88,48 @@ format:
         <div class="title">Conference</div>
         <div class="descr">Attended [Gaussian Process Summer School](https://gpss.cc/) virtually </div>
     </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2021 Jun 18</div>
+        <div class="title">Publication</div>
+        <div class="descr">A paper titled "Towards Active Air Quality Station Deployment" accepted in [SubSetML](https://sites.google.com/view/icml-2021-subsetml/home) workshop in ICML 2021</div>
+    </li>
+    <li style="--accent-color:#4CADAD">
+        <div class="date">2021 Jun 7</div>
+        <div class="title">Service</div>
+        <div class="descr">Reviewer at [ACM COMPASS 2021](https://2021.compass.acm.org/index.html) Posters and Demos</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2021 Apr 7-10</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended [Google Graduate Symposium 2021](https://sites.google.com/view/graduatesymposium2021) virtually </div>
+    </li>
+    <li style="--accent-color:#BBAC4B">
+        <div class="date">2021 Mar 8</div>
+        <div class="title">Milestone</div>
+        <div class="descr">Cleared PhD Qualifiers Exam</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2020 Dec 22</div>
+        <div class="title">Publication</div>
+        <div class="descr">Our work [Vartalaap: What Drives #AirQuality Discussions: Politics,Pollution or Pseudo-science?](https://dl.acm.org/doi/abs/10.1145/3449170) is accepted and published in [ACM CSCW 2021](https://cscw.acm.org/2021/)</div>
+    </li>
+    <li style="--accent-color:#41516C">
+        <div class="date">2020 Oct 15</div>
+        <div class="title">Publication</div>
+        <div class="descr">A poster [A toolkit for spatial interpolation and sensor placement](https://dl.acm.org/doi/pdf/10.1145/3384419.3430407) is accepted in [ACM SenSys 2020](https://sensys.acm.org/2020/)</div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2020 Sep 14-17</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended [Gaussian Process Summer School](http://gpss.cc/gpss20/program) virtually </div>
+    </li>
+    <li style="--accent-color:#FBCA3E">
+        <div class="date">2020 Aug 23-27</div>
+        <div class="title">Conference</div>
+        <div class="descr">Attended [KDD](https://www.kdd.org/kdd2020/) conference virtually </div>
+    </li>
 </ul>
 
 
 
-<div class="credits"><a target="_blank" href="https://codepen.io/MarkBoots/pen/OJOqNyB">inspired by</a></div>
+<div class="credits"><a target="_blank" href="https://codepen.io/MarkBoots/pen/OJOqNyB">theme is inspired by</a></div>
