@@ -10,10 +10,14 @@ redirect_from:
 
 Resume in PDF Format: [Resume.pdf](/files/resume.pdf)
 
+[//]: # (TODO: Update PDF)
+
 Experience
 ==========
 
-* Senior Linux Systems Administrator | Feb 2022 – Present @ *O'Reilly Auto Parts* (Remote)
+* Infrastructure Engineer | July 2024 - Present @ *Python Software Foundation* (Remote)
+
+* Senior Linux Systems Administrator | Feb 2022 – July 2024 @ *O'Reilly Auto Parts* (Remote)
   - Managed petabyte-scale storage systems and computational infrastructure, ensuring seamless operations
   - Enhanced system reliability and efficiency through maintenance of distributed systems using Ansible and Terraform
   - Supported Ubuntu/RHEL servers with VMware, Containers, and IaC, optimizing server performance
