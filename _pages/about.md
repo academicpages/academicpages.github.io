@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: nick_kyoto.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Email: nicholas (dot) konz (at) duke (dot) edu</p>
