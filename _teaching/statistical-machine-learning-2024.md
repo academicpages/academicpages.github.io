@@ -2,11 +2,16 @@
 title: "Statistical Machine Learning"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/statistical-machine-learning-2024.md
+permalink: /teaching/statistical-machine-learning-2024
 venue: "Renmin University of China"
 date: 2024-06-09
 location: "Beijing, China"
 ---
+
+This is a math intensive machine learning course lectured by [Prof. Hongteng Xu](https://hongtengxu.github.io) from GSAI, Renmin University of China. The course has a focus on the mathematical derivations and theorems behind machine learning algorithms, covering four major topics in statistical learning: Regression, Dimensionality Reduction, Clustering, and Classification.
+
+The lecture notes of this course and correspondng code for each lecture is provided below.
+
 
 | Lecture                                               | Note   | Code                                                         |
 | --------                                              | ------ | ------------------------------------------------------------ |
