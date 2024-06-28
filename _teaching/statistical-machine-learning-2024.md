@@ -2,7 +2,7 @@
 title: "Statistical Machine Learning"
 collection: teaching
 type: "Undergraduate course"
-permalink: /
+permalink: /teaching/statistical-machine-learning-2024.md
 venue: "Renmin University of China"
 date: 2024-06-09
 location: "Beijing, China"
