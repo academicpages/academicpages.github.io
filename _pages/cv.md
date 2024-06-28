@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-오영우 (Youngwoo Oh, 吳煐宇)
+오영우 (Oh Youngwoo, 吳煐宇)
 ---
 
 학력 (Education)
@@ -34,7 +34,7 @@ redirect_from:
 
 석사 학위 논문 (Master's thesis)
 ---
-* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-off Optimization
+* Title: Multi-Objective Reinforcement Learning for Power Allocation in Massive MIMO Networks: A Solution to Spectral and Energy Trade-Off Optimization
 * Supervisor: 최우열
 
 연구 분야 (Research areas)
