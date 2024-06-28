@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Contact"
-permalink: /contact/
+title: "News"
+permalink: /news/
 author_profile: true
 ---    
 
 
-## Past News
+## 2021
 <span style="color:red">[9.2021]</span> Our paper is accepted by the International Journal of Medical Informatics (IJMI) (IF:3.21)! 
 
 <span style="color:red">[8.2021]</span> Our paper is accepted by MEDINFO 2021! 
