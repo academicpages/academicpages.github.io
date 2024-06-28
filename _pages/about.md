@@ -25,9 +25,5 @@ News
 
 <span style="color:red">[3.2023]</span> Our paper "EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension" was accepted by JAMIA (IF: 7.942)!   
 
-<span style="color:red">[11.2022]</span> I will make a presentation in the conference “2022 AI-Enhanced Clinical Trials” (Boston, MA)!   
 
-<span style="color:red">[8.2022]</span> I have joined the department of Computer Science at University of North Carolina Greensboro this fall!
-
-<span style="color:red">[3.2022]</span> Our paper "Combining Human and Machine Intelligence for Clinical Trial Eligibility Querying" was accepted by JAMIA directly without any revision!   
   
