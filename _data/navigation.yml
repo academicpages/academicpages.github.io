@@ -6,11 +6,11 @@ main:
   - title: "Research"
     url: /research/    
 
-  - title: "Teaching&Services"
-    url: /teaching&services/
+  - title: "Teaching"
+    url: /teaching/
       
   - title: "Lab"
     url: /lab/
     
-  - title: "Resources"
-    url: /resources/
+  - title: "News"
+    url: /news/
