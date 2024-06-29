@@ -8,24 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Associate in the ECE Department at the University of Waterloo. Prior to joining the University of Waterloo, I was a Postdoctoral Fellow in the ECE Department at Queen’s University. I develop algorithms that combine the high performance of machine learning with the theoretical guarantees of stability and safety of model-based control. I focused on applying machine learning techniques to dynamic modeling and control for autonomous systems. My research goal is to improve the performance and safety of robotic systems in dynamic and uncertain environments.
+I am an incoming Assistant Professor in the Department of Mechanical Engineering at the University of Manitoba, where I direct the Robot Autonomy Lab. My research focuses on enhancing the safety and reliability of autonomous systems and mobile robotics. By integrating advanced machine learning techniques with traditional model-based robotic methodologies, I aim to develop advanced algorithms that ensure the operational safety of autonomous systems in uncertain and dynamic environments.
 
-I received my PhD degree in Mechanical Engineering, specializing in robotics control, from the University of Calgary, Canada. The research focused on locomotion mode selection and motion planning of a leg-tracked [quadrupedal robot](https://jiewang.name/publications/arXiv2019/). After that, I worked as a Postdoc Fellow at the University of Calgary. I developed and implemented perception solutions for drones including [visual SLAM](https://jiewang.name/publications/slam2019) and CNN-based multi-object detection and [tracking](https://jiewang.name/publications/rsmdpi2019). 
+### I am actively recruiting master's and PhD students! ###
+#### If you are interested in joining my lab, please apply by sending your CV (2 pages max) titled "RAL2025-Application" to my email address at [jwangjie@outlook.com](mailto:jwangjie@outlook.com). ####
+
+I received my PhD in Mechanical and Manufacturing Engineering, specializing in robotics control, from the University of Calgary. My doctoral research focused on the locomotion mode selection and motion planning of a leg-tracked quadrupedal robot. Prior to my current position, I was a Research Associate at Concordia University, working on unmanned aerial vehicles (UAVs) for wildfire detection and fighting. I also worked as a Research Associate at the University of Waterloo, developing a safe learning-based control framework for mixed-vehicle platooning control. Additionally, I served as a Postdoctoral Fellow at Queen’s University, proposing a high-performance path-following algorithm for ground mobile robots, and at the University of Calgary, developing robust multi-vehicle tracking algorithms for UAVs.
+
+Throughout my career, I aim to push the boundaries of robotics and autonomous systems, leveraging the strengths of both machine learning and model-based control to address real-world challenges. 
 
 **Recent News:**
 
-[April, 2023](https://youtu.be/s5qTAvRGYIo): One major limitation of the submitted works is that the data used for modeling human-driven vehicles was collected in a human-in-the-loop simulator, which may not fully capture real-world driving conditions. To overcome this limitation, we are currently collecting data through field experiments, which will improve the quality of our models and enhance their applicability in real-world settings. A preliminary field experiment video is available for viewing at [Field Experiment Data Collection for Human-Driven Vehicle Modeling](
-https://youtu.be/s5qTAvRGYIo).
+[June 2024](http://jiewang.name/): I will join the Department of Mechanical Engineering at the University of Manitoba on September 1, 2024, as an Assistant Professor. 
+
+[April 2024](https://youtu.be/s5qTAvRGYIo): Three papers focused on developing learning-based models for human-autonomous vehicle interaction to enhance safety in mixed-vehicle platooning control have been accepted. Watch the field experiment video at [Field Experiment Data Collection for Human-Driven Vehicle Modeling](https://youtu.be/s5qTAvRGYIo).
 
 <div style="text-align: center">
   <img src="https://jwangjie.github.io/publications/publications/car_platooning_dji.gif" width="80%" height="auto" />
 </div>
-<br>
+<be>
 
-[March, 2023](https://scholar.google.ca/citations?hl=en&user=BI7jiWQAAAAJ): Two papers, focused on developing learning-based models for human-autonomous vehicle interaction to enhance safety in mixed-vehicle platooning control, have been submitted to [IROS2023](https://arxiv.org/abs/2211.04665) and [RA-L](https://arxiv.org/abs/2303.09452). The codes can be accessed at [GP-MPC-of-Platooning](https://github.com/CL2-UWaterloo/GP-MPC-of-Platooning). 
+- [J8] Jie Wang*, Yash Vardhan Pant, Lei Zhao, Michal Antkiewicz, and Krzysztof Czarnecki. “Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles”. Accepted by IEEE Transactions on Intelligent Transportation Systems on March 26, 2024.
+- [J7] Jie Wang*, Yash Vardhan Pant, and Zhihao Jiang. “Learning-Based Modeling of Human-Autonomous Vehicle Interaction for Improved Safety in Mixed-Vehicle Platooning Control”. Accepted by Transportation Research Part C: Emerging Technologies on March 26, 2024.
+- [J6] Jie Wang*, Zhihao Jiang, and Yash Vardhan Pant. “Improving Safety in Mixed Traffic: A Learning-based Model Predictive Control for Autonomous and Human-Driven Vehicle Platooning”. Knowledge-Based Systems, vol. 293, no. 111673, 2024.
 
-[Jan. 31, 2023](https://jiewang.name/publications/GP-FBLMPC2022/): The GP-FBLMPC [Paper](https://jiewang.name/publications/GP-FBLMPC2022/) has been accepted by the Journal of Field Robotics. What a great trip!
 
-[July. 04, 2022](https://jiewang.name/publications/simulator2022/): "How to pick a mobile robot simulator: A quantitative comparison of CoppeliaSim, Gazebo, MORSE and Webots with a focus on accuracy of motion" [Paper](https://doi.org/10.1016/j.simpat.2022.102629) was accepted. This is my first time to supervise graduate students publishing papers as a corresponding author!   
 
-[Apr. 04, 2020](https://jiewang.name/posts/2020/04/gpr/): An Intuitive Tutorial to [Gaussian Processes Regression](https://github.com/jwangjie/An-Intuitive-Tutorial-to-Gaussian-Processes-Regression) posted.
+
+
