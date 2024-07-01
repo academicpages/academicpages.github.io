@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Feiwen Xiao"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Learning scientist & Instructional designer"
   location         : "U.S."
   employer         : "Penn State University"
@@ -37,7 +37,7 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : “https://www.researchgate.net/profile/Feiwen-Xiao/research”
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
