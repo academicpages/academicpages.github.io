@@ -40,9 +40,9 @@ redirect_from:
 연구 분야 (Research areas)
 ---
 * Object detection and tracking based on novel AI approach (Knowledge distillation, multimodal learning)
-* IoT sensing and data storage srver-based smart solution (NFC, WiFi, BLE, multimodal sensors, camera, etc)
+* IoT sensing and data server-based smart solution (NFC, WiFi, BLE, multimodal sensors, camera, etc)
+* Reinforcement learning-based optimization (single, multi-agent, and multi-objective RL)
 * 5G/B5G network (Heterogeneous, sensor netowrks, and massive MIMO systems)
-* Reinforcement learning-based optimization (single and multi-agent, multi-objective RL, and human feedback-based RL)
 
 연구 경험 (Research experience)
 ---
