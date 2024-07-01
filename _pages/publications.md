@@ -36,6 +36,7 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 - **<u>山内 一輝</u>**, 井島 勇祐, 齋藤 佑樹<br>
 **StyleCap: 音声および言語の自己教師あり学習モデルに基づく音声の発話スタイルに関するキャプション生成**<br>
 日本音響学会 2024年春季研究発表会 講演論文集, 3-2-14, pp. 843--846, 2024年3月. \[日本音響学会, 口頭発表\]<br>
+🎉 **日本音響学会 学生優秀発表賞** \[[link](https://acoustics.jp/awards/student/)\]<br>
 \[[pdf](/files/yamauchi24asjs_paper.pdf)\] \[[slide](/files/yamauchi24asjs_slide.pdf)\]
 
 
