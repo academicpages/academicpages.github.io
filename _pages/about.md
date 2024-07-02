@@ -22,39 +22,9 @@ Throughout my career, I aim to push the boundaries of robotics and autonomous sy
 
 [June 2024](http://jiewang.name/): I will join the Department of Mechanical Engineering at the University of Manitoba on September 1, 2024, as an Assistant Professor. 
 
-[April 2024](https://youtu.be/s5qTAvRGYIo): Three papers focused on developing learning-based models for human-autonomous vehicle interaction to enhance safety in mixed-vehicle platooning control have been accepted. Watch the field experiment video at [Field Experiment Data Collection for Human-Driven Vehicle Modeling](https://youtu.be/s5qTAvRGYIo).
+[April 2024](https://youtu.be/s5qTAvRGYIo): [Three papers](https://scholar.google.ca/citations?user=BI7jiWQAAAAJ&hl=en) focused on developing learning-based models for human-autonomous vehicle interaction to enhance safety in mixed-vehicle platooning control have been accepted. Watch the field experiment video at [Field Experiment Data Collection for Human-Driven Vehicle Modeling](https://youtu.be/s5qTAvRGYIo).
 
 <div style="text-align: center">
   <img src="https://jwangjie.github.io/publications/publications/car_platooning_dji.gif" width="80%" height="auto" />
 </div>
 <be>
-
-```
-@article{wang2024enhancing,
-  title={Enhancing safety in mixed traffic: Learning-based modeling and efficient control of autonomous and human-driven vehicles},
-  author={Wang, Jie and Pant, Yash Vardhan and Zhao, Lei and Antkiewicz, Micha{\l} and Czarnecki, Krzysztof},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2024},
-  publisher={IEEE}
-}
-
-@article{wang2024learning,
-  title={Learning-based modeling of human-autonomous vehicle interaction for improved safety in mixed-vehicle platooning control},
-  author={Wang, Jie and Pant, Yash Vardhan and Jiang, Zhihao},
-  journal={Transportation Research Part C: Emerging Technologies},
-  volume={162},
-  pages={104600},
-  year={2024},
-  publisher={Elsevier}
-}
-
-@article{wang2024improving,
-  title={Improving safety in mixed traffic: A learning-based model predictive control for autonomous and human-driven vehicle platooning},
-  author={Wang, Jie and Jiang, Zhihao and Pant, Yash Vardhan},
-  journal={Knowledge-Based Systems},
-  volume={293},
-  pages={111673},
-  year={2024},
-  publisher={Elsevier}
-}
-```
