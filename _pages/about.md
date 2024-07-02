@@ -29,14 +29,32 @@ Throughout my career, I aim to push the boundaries of robotics and autonomous sy
 </div>
 <be>
 
+```
+@article{wang2024enhancing,
+  title={Enhancing safety in mixed traffic: Learning-based modeling and efficient control of autonomous and human-driven vehicles},
+  author={Wang, Jie and Pant, Yash Vardhan and Zhao, Lei and Antkiewicz, Micha{\l} and Czarnecki, Krzysztof},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2024},
+  publisher={IEEE}
+}
 
-- [J8] Jie Wang*, Yash Vardhan Pant, Lei Zhao, Michal Antkiewicz, and Krzysztof Czarnecki. “Enhancing Safety in Mixed Traffic: Learning-Based Modeling and Efficient Control of Autonomous and Human-Driven Vehicles”. Accepted by IEEE Transactions on Intelligent Transportation Systems on March 26, 2024.
+@article{wang2024learning,
+  title={Learning-based modeling of human-autonomous vehicle interaction for improved safety in mixed-vehicle platooning control},
+  author={Wang, Jie and Pant, Yash Vardhan and Jiang, Zhihao},
+  journal={Transportation Research Part C: Emerging Technologies},
+  volume={162},
+  pages={104600},
+  year={2024},
+  publisher={Elsevier}
+}
 
-- [J7] Jie Wang*, Yash Vardhan Pant, and Zhihao Jiang. “Learning-Based Modeling of Human-Autonomous Vehicle Interaction for Improved Safety in Mixed-Vehicle Platooning Control”. Accepted by Transportation Research Part C: Emerging Technologies on March 26, 2024.
-  
-- [J6] Jie Wang*, Zhihao Jiang, and Yash Vardhan Pant. “Improving Safety in Mixed Traffic: A Learning-based Model Predictive Control for Autonomous and Human-Driven Vehicle Platooning”. Knowledge-Based Systems, vol. 293, no. 111673, 2024.
-
-
-
-
-
+@article{wang2024improving,
+  title={Improving safety in mixed traffic: A learning-based model predictive control for autonomous and human-driven vehicle platooning},
+  author={Wang, Jie and Jiang, Zhihao and Pant, Yash Vardhan},
+  journal={Knowledge-Based Systems},
+  volume={293},
+  pages={111673},
+  year={2024},
+  publisher={Elsevier}
+}
+```
