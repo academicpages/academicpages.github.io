@@ -13,6 +13,6 @@ author_profile: true
 
 - [Fundamental Anomalies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3783526), with Erica X.N. Li, Shujing Wang, and Cindy Yu, R&R at __*Management Science*__
 - Cross-Sectional Analysis of Conditional Stock Returns: Quantile Regression with Machine Learning, with Haitao Li and Cindy Yu
-- A Semiparametric Causal Estimator with Nonignorability, with Cindy Yu
+- A Semiparametric Causal Estimator with Nonignorability, with Cindy Yu and Zhonglei Wang
 - Portfolio Construction Using Predicted Extreme Stock Returns in the Cross Section: Classification Task with Machine Learning, with Zihao Chen, Haitao Li, and Cindy Yu
 - The Global Change in Corporate Production Function, with Erica X.N. Li and Dan su
