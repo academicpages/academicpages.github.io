@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc in the Redwood Center for Theoretical Neuroscience at UC Berkeley. My research interests are in neurally plausible models of data representation and information processing, and in particular, on computing using randomized distributed representations of data.
+I am an assistant teaching professor in the electrical and computer engineering department at UC Davis. I am broadly interested in algorithmic aspects of data science and on learning and reasoning under constraints on computational resources like memory, precision, and network communication. I am particularly interested in exploiting randomness to develop algorithms that have formal guarantees of correctness while lending themselves to realization in highly-parallel and noisy hardware.
 
-I received my PhD in Computer Science from UC San Diego in September 2023, where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
+Prior to joining UC Davis, I was a postdoctoral scholar in the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu) at UC Berkeley. I received my PhD in Computer Science from UC San Diego in September 2023, where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
 
 # Publications
 
