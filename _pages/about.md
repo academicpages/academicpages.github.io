@@ -15,4 +15,4 @@ I am an assistant professor at the [Paula and Gregory Chow Institute for Studies
 In my research, I strive to help foster an understanding of the financial world from the data and statistical perspective. I incorporate quantitative analysis of financial data with advanced statistical tools in economic models. I examine economic asset pricing models through the behavior of the most basic economic unit, firms. I also exploit the conditional distributional information of asset returns by aggregating quantiles that locally characterize the motion of returns. I also develop methods that answer questions in causal inference when the treatment assignment is [nonignorable](https://en.wikipedia.org/wiki/Ignorability).
 
 For more information, please get in touch with me at:
-glma [at] iastate [dot] edu
+glma [at] xmu [dot] edu [dot] cn
