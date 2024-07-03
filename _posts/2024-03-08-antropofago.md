@@ -13,8 +13,8 @@ tags:
   <em>Select a language to translate to:</em>
 
  <br> <a href="https://translate.google.com/translate?sl=es&tl=en&u=https://arduinotomasi.github.io/posts/2024/03/antropofago/">English</a> |
-  <a href="https://translate.google.com/translate?sl=es&tl=fr&u=https://arduinotomasi.github.io/posts/2024/05/beneath/">Français</a> |
-  <a href="https://translate.google.com/translate?sl=es&tl=it&u=https://arduinotomasi.github.io/posts/2024/05/beneath/">Italiano</a>
+  <a href="https://translate.google.com/translate?sl=es&tl=fr&u=https://arduinotomasi.github.io/posts/2024/03/antropofago/">Français</a> |
+  <a href="https://translate.google.com/translate?sl=es&tl=it&u=https://arduinotomasi.github.io/posts/2024/03/antropofago/">Italiano</a>
 
 </div>
 
