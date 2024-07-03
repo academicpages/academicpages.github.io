@@ -119,6 +119,14 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+![](images/equidiff.gif){: .align-right width="200px"}
+**Equivariant Diffusion Policy**  
+**Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://pointw.github.io/equidiff_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
+<br>
+
 ![](images/haojie_imagine.png){: .align-right width="200px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
