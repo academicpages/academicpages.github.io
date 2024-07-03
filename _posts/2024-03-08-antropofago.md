@@ -9,8 +9,15 @@ tags:
 <div style="text-align: justify;">
 
 <div style="text-align: right;">
-<em>Fecha de última actualización: 15 de marzo de 2024</em><br>
+
+  <em>Select a language to translate to:</em>
+
+ <br> <a href="https://translate.google.com/translate?sl=en&tl=en&u=https://arduinotomasi.github.io/posts/2024/03/antropofago/">English</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=fr&u=https://arduinotomasi.github.io/posts/2024/05/beneath/">Français</a> |
+  <a href="https://translate.google.com/translate?sl=en&tl=it&u=https://arduinotomasi.github.io/posts/2024/05/beneath/">Italiano</a>
+
 </div>
+
 
 <br>
 
@@ -29,15 +36,15 @@ Durante un período de 12 años, entre 2007 y 2018, se desconocen las circunstan
 <div style="text-align: justify;">
 
 
-<br>En la <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[primera entrada]</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">[TC Televisión]</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br><br>
+<br>En la <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">primera entrada</a> de mi trilogía que busca comprender la serie de eventos que condujeron al Ecuador a sumirse en una espiral de violencia, cuyo punto culminante fue la toma del canal público <a href="https://cnnespanol.cnn.com/2024/01/09/hombres-encapuchados-toman-las-instalaciones-de-tc-television-en-ecuador/">TC Televisión</a> <em>en vivo y en directo</em>, expuse el curioso fenómeno de que, mientras la tasa de homicidios experimentaba una caída sin precedentes, la tasa de muertes violentas de intención no determinada registraba un aumento sin igual en la historia del Ecuador desde, al menos, 1999.<br><br>
 
 </div>
 
-![Figure 2](/images/comparativoFFF.png)<br>
+![Figure 2](/images/comparativo20242.png)<br>
 
 <div style="text-align: justify;">
 
-<br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">[ruptura política]</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br><br>
+<br>En ese análisis, encontré la aparente existencia de una relación estadísticamente significativa entre esta peculiar tasa y las incautaciones de cocaína, exclusivamente durante el período comprendido entre 2010, tras la salida de la Base de Manta en septiembre de 2009, y 2018, después de la <a href="https://www.bbc.com/mundo/noticias-america-latina-49987257">ruptura política</a> entre Rafael Correa y su sucesor y exaliado, Lenin Moreno. Concretamente, encontré que cuando las incautaciones disminuyen, esta tasa aumenta, y viceversa. Asimismo, señalé que, coincidentemente, tras el cese de operaciones de la base, también se registró un drástico incremento en la tasa de tráfico de menores de 17 años.<br><br>
 
 </div><br>
 
@@ -45,7 +52,7 @@ Durante un período de 12 años, entre 2007 y 2018, se desconocen las circunstan
 
 <div style="text-align: justify;">
 
-<br>En mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[segunda entrada]</a>, analicé con mayor detalle la relación entre las incautaciones de cocaína y la tasa de muertes violentas de intención no determinada. Al hacer un <em>zoom in</em> a nivel provincial entre incautaciones (datos de nivel nacional) y tasas (a nivel de cada provincia), emergió un mapa de calor representado por el nivel de significancia estadística arrojado por la regresión lineal respectiva. Lo que comenzó como un ejercicio intelectual, repleto de números y parámetros, pareció cobrar vida propia: este mapa de calor parece coincidir notablemente con las rutas de la cocaína recientemente reveladas por la inteligencia policial; en ese sentido, el ejercicio de ir <em>hasta donde la razón y los datos nos llevaran</em> encontraba, por así decirlo, una "triangulación" de una fuente externa confiable e independiente.<br><br>
+<br>En mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">segunda entrada</a>, analicé con mayor detalle la relación entre las incautaciones de cocaína y la tasa de muertes violentas de intención no determinada. Al hacer un <em>zoom in</em> a nivel provincial entre incautaciones (datos de nivel nacional) y tasas (a nivel de cada provincia), emergió un mapa de calor representado por el nivel de significancia estadística arrojado por la regresión lineal respectiva. Lo que comenzó como un ejercicio intelectual, repleto de números y parámetros, pareció cobrar vida propia: este mapa de calor parece coincidir notablemente con las rutas de la cocaína recientemente reveladas por la inteligencia policial; en ese sentido, el ejercicio de ir <em>hasta donde la razón y los datos nos llevaran</em> encontraba, por así decirlo, una "triangulación" de una fuente externa confiable e independiente.<br><br>
 
 </div><br>
 
@@ -61,14 +68,14 @@ Durante un período de 12 años, entre 2007 y 2018, se desconocen las circunstan
 
 <div style="text-align: justify;">
 
- <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[En ese post]</a> también realicé una serie de pruebas para verificar los supuestos clave del estimador DiD (tendencias paralelas), pruebas de falsificación asignando aleatoriamente un tratamiento placebo, y estimadores alternativos, como Newey-West con cuatro rezagos, que ajustan la heterocedasticidad y las autocorrelaciones.<br>
+ <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">En ese post</a> también realicé una serie de pruebas para verificar los supuestos clave del estimador DiD (tendencias paralelas), pruebas de falsificación asignando aleatoriamente un tratamiento placebo, y estimadores alternativos, como Newey-West con cuatro rezagos, que ajustan la heterocedasticidad y las autocorrelaciones.<br>
 
 
 <br>Justo cuando estaba por dar por cerrado este tema, pensando en hacer quizás un par de pruebas más de robustez, me di cuenta de que había pasado por alto una pregunta importante. Si el enfoque cuasi-experimental verdaderamente identifica un impacto real y significativo del cierre de la base, entonces ¿de dónde vienen exactamente esas variaciones en las tasas de muertes violentas de intención no determinada? ¿Es algo que está pasando sistemáticamente en todo el país, o es acaso un efecto que solo se ve en algunas provincias en particular?<br>
 
-<br>Dado que mi enfoque como investigador es más teórico –propiamente, me especializo en la <a href= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">[teoría de juegos]</a>– que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo del Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
+<br>Dado que mi enfoque como investigador es más teórico – propiamente, me especializo en la <a href= "https://www.bbc.com/mundo/noticias/2015/02/150220_teoria_de_juegos_que_es_finde_dv">teoría de juegos</a> – que empírico, empecé por intentar definir bien mis expectativas antes de analizar cualquier dato. Mi razonamiento fue así: imaginemos que este tipo de muertes son <em>completamente</em> accidentales. Si esto fuera cierto, entonces esperaríamos que su distribución geográfica y temporal a lo largo del Ecuador sea bastante uniforme, <em> ya que no estamos hablando de un virus o una enfermedad que se propaga</em>. Si encontramos que la distribución es más o menos uniforme, entonces no podríamos atribuir directamente los resultados a la clausura de la Base de Manta en 2009. Pero, ¿qué nos dice si, al analizar las variaciones de estas tasas, vemos patrones que concentran ciertas provincias juntas, asumiendo que estas tasas reflejan simplemente accidentes?<br>
 
-<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, utilizando los mismos datos de mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">[segunda entrada]</a>, me percaté de que <em>pareciera</em> como si las cifras quisieran narrar por sí mismas una historia cuya interpretación dependerá del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo-experimental, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a href= "https://ciudadseva.com/texto/el-antropofago/">['El antropófago']</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también completamente al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
+<br>Tras realizar el mapeo geográfico-temporal de las variaciones anuales de las tasas de muertes violentas de intención indeterminada, utilizando los mismos datos de mi <a href="https://arduinotomasi.github.io/posts/2024/02/Polvo/">segunda entrada</a>, me percaté de que <em>pareciera</em> como si las cifras quisieran narrar por sí mismas una historia cuya interpretación dependerá del lector. Para maximizar su experiencia de descubrimiento (si alguno), a partir de este momento minimizaré mi intervención como analista. En este ejercicio narrativo-experimental, para que el lector no se sienta abandonado, los acompañará el escritor ecuatoriano Pablo Palacio a través de su cuento <a href= "https://ciudadseva.com/texto/el-antropofago/">'El antropófago'</a>, que inspira el título de esta publicación en mi blog. La elección de este cuento fue también completamente al azar. Salvo por las descripciones y notas de las imágenes, todo el texto que sigue es de autoría de Palacio.<br>
 </div>
 
 <br>
@@ -119,7 +126,7 @@ Pero el antropófago se está quieto, mirando con sus ojos vacíos.<br>
 
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://inredh.org/doce-anos-sin-verdad-en-el-bombardeo-de-angostura/">[Fundación Regional de Asesoría en Derechos Humanos, INREDH]:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
+<a href= "https://inredh.org/doce-anos-sin-verdad-en-el-bombardeo-de-angostura/">Fundación Regional de Asesoría en Derechos Humanos, INREDH:</a><br> "Se cumplieron 13 años del bombardeo de Angostura; familiares lo recordaron con un plantón". 
 </div><br>
 
 <div style="text-align: justify;">
@@ -154,7 +161,7 @@ Va usted a dar un magnífico espectáculo.<br>
 ![Figure 5](/images/traficados.jpeg)
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
+<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
 </div><br>
 
 <div style="text-align: justify;">
@@ -188,7 +195,7 @@ Al principio le prescribieron dieta: legumbres y nada más que legumbres; pero h
 
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://www.unodc.org/documents/data-and-analysis/WDR2011/World_Drug_Report_2011_spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
+<a href= "https://www.unodc.org/documents/data-and-analysis/WDR2011/World_Drug_Report_2011_spanish.pdf">Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC:</a><br> Informe Mundial sobre 
 las Drogas, 2011.
 </div><br>
 
@@ -220,19 +227,19 @@ Pero ¡qué cosas! No creáis en la sinceridad de mis disquisiciones. No quiero 
 
 Los estudiantes reíamos de buena gana y nos acercamos mucho para mirarlo. Creo que ni yo ni ellos lo olvidaremos. Estábamos admirados, y ¡cómo gozábamos al mismo tiempo de su aspecto casi infantil y del fracaso completo de las doctrinas de nuestro profesor!<br>
 
-<br>—Véanlo, véanlo como parece un niño —dijo.<br>
+<br>— Véanlo, véanlo como parece un niño — dijo.<br>
 
-<br>—Sí, un niño visto con una lente.<br>
+<br>— Sí, un niño visto con una lente.<br>
 
-<br>—Ha de tener las piernas llenas de roscas.<br>
+<br>— Ha de tener las piernas llenas de roscas.<br>
 
-<br>—Y deberán ponerle talco en las axilas para evitar las escaldaduras.<br>
+<br>— Y deberán ponerle talco en las axilas para evitar las escaldaduras.<br>
 
-<br>—Y lo bañarán con jabón de Reuter.<br>
+<br>— Y lo bañarán con jabón de Reuter.<br>
 
-<br>—Ha de vomitar blanco.<br>
+<br>— Ha de vomitar blanco.<br>
 
-<br>—Ha de oler a senos.<br>
+<br>— Ha de oler a senos.<br>
 
 <br>Así se burlaban los infames de aquel pobre hombre que miraba vagamente y cuya gran cabeza oscilaba como una aguja imantada.
 
@@ -278,7 +285,7 @@ Sí, sí, creo sinceramente que el antropófago está en lo justo; que no hay ra
 
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://www.unodc.org/doc/wdr2013/World_Drug_Report_2013_Spanish.pdf">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> Informe Mundial sobre 
+<a href= "https://www.unodc.org/doc/wdr2013/World_Drug_Report_2013_Spanish.pdf">Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC:</a><br> Informe Mundial sobre 
 las Drogas, 2013.
 </div><br>
 
@@ -306,7 +313,7 @@ En un pequeño pueblo del sur, hace más o menos treinta años, contrajeron matr
 
 Bien. La primera lucha que suscitó el chico en el seno del matrimonio fue a los cinco años, cuando ya vagabundeaba y comenzó a tomársele en serio. Era a propósito de la profesión. Una divergencia tan vulgar y usual entre los padres, que casi, al parecer, no vale la pena darle ningún valor. Sin embargo, para mí lo tiene.<br>
 
-<br>Nicanor quería que el muchacho fuera carnicero, como él. Dolores opinaba que debía seguir una carrera honrosa, la medicina. Decía que Nico era inteligente y que no había que desperdiciarlo. Alegaba con lo de las aspiraciones —las mujeres son especialistas en lo de las aspiraciones.<br>
+<br>Nicanor quería que el muchacho fuera carnicero, como él. Dolores opinaba que debía seguir una carrera honrosa, la medicina. Decía que Nico era inteligente y que no había que desperdiciarlo. Alegaba con lo de las aspiraciones — las mujeres son especialistas en lo de las aspiraciones.<br>
 
 <br>Discutieron el asunto tan acremente y tan largo que a los diez años no lo resolvían todavía. El uno: que carnicero ha de ser; la otra: que ha de llegar a médico. A los diez años Nico tenía el mismo aspecto de un niño; aspecto que creo olvidé de describir. Tenía el pobre muchacho una carne tan suave que le daba ternura a su madre; carne de pan mojado en leche, como que había pasado tiempo curtiéndose en las entrañas de Dolores.<br>
 
@@ -349,7 +356,7 @@ Dolores, despechada, murió el 15 de mayo del 1909 (¿Será también este un dat
 
 <div style="background-color: rgb(221, 221, 221); padding: 14px;">
 
-La noche del 23 de marzo, Nico Tiberio, que vino a establecerse en la capital tres años atrás con la mujer y el pequeño —dato que he olvidado de referir a su tiempo—, se quedó hasta bien tarde en un figón de San Roque, bebiendo y charlando.<br>
+La noche del 23 de marzo, Nico Tiberio, que vino a establecerse en la capital tres años atrás con la mujer y el pequeño — dato que he olvidado de referir a su tiempo —, se quedó hasta bien tarde en un figón de San Roque, bebiendo y charlando.<br>
 
 <br>Estaba con Daniel Cruz y Juan Albán, personas bastante conocidas que prestaron, con oportunidad, sus declaraciones ante el juez competente. Según ellos, el tantas veces nombrado Nico Tiberio no dio manifestaciones extraordinarias que pudieran hacer luz en su decisión. Se habló de mujeres y de platos sabrosos. Se jugó un poco a los dados. Cerca de la una de la mañana, cada cual la tomó por su lado.<br>
 
@@ -380,11 +387,11 @@ Al principio le atacó un irresistible deseo de mujer. Después le dieron ganas 
 
 <br>Extrañada, le preguntó:<br>
 
-<br>—¿Pero qué te pasa, hombre?<br>
+<br>— ¿Pero qué te pasa, hombre?<br>
 
 <br>Y él, mucho más borracho de lo que debía estar, gritó:<br>
 
-<br>—Nada, animal; ¿a ti qué te importa?; ¡a echarse!<br>
+<br>— Nada, animal; ¿a ti qué te importa?; ¡a echarse!<br>
 
 <br>Mas en vez de hacerlo, se levantó del lecho y fue a pararse en medio de la pieza. ¿Quién sabía qué le irían a mentir a ese bruto?
 
@@ -492,14 +499,14 @@ Pero Tiberio (hijo), se quedó sin nariz, sin orejas, sin una ceja, sin una meji
 <br>Si yo creyera a los imbéciles tendría que decir: Tiberio (padre) es como quien se come lo que crea. 
 </div><br>
 
-</div><br>
+</div>
 
 
 
 ![Figure 5](/images/traficados.jpeg)
 <div style="text-align: center;font-size:13px;">
 
-<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">[Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC]:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
+<a href= "https://arduinotomasi.github.io/posts/2024/01/Patria/">Oficina de las Naciones Unidas contra la Droga y el Delito, UNODC:</a><br> La Trata de Personas y el Tráfico Ilícito de Migrantes
 </div><br><br><br>
 
 
@@ -514,11 +521,11 @@ Pero Tiberio (hijo), se quedó sin nariz, sin orejas, sin una ceja, sin una meji
 
 <div style="text-align: justify;" >
 
-<strong>A.</strong> La base de datos para el mapeo geográfico-temporal la pueden encontrar haciendo click <a href="https://www.dropbox.com/scl/fi/oxwkex7lt8l3r8exnswvp/Var.csv?rlkey=p59j95cjsb7l3dkbytc4pc7cg&dl=0">[aquí]</a>.<br> 
+<strong>A.</strong> La base de datos para el mapeo geográfico-temporal la pueden encontrar haciendo click <a href="https://www.dropbox.com/scl/fi/oxwkex7lt8l3r8exnswvp/Var.csv?rlkey=p59j95cjsb7l3dkbytc4pc7cg&dl=0">aquí</a>.<br> 
 
 <br><strong>B.</strong> La variable relevante se denomina "Var" y cuantifica la variación porcentual del logaritmo natural de la tasa. En concreto, para eludir cualquier división por cero durante la transformación, se aplica la fórmula $\ln(2+\text{TasaViolentasIndetermidas})$ a los datos de la tasa para asegurar comparabilidad entre provincias.<br>
 
-<br><strong>C.</strong> En este <a href="https://gadm.org/download_country.html">[link]</a> pueden descargar el <em> Shapefile </em> para realizar el mapeo, con el archivo pertinente denominado 'gadm41_ECU_1.shp'. Luego, pueden aplicar el comando en R que se muestra a continuación.
+<br><strong>C.</strong> En este <a href="https://gadm.org/download_country.html">link</a> pueden descargar el <em> Shapefile </em> para realizar el mapeo, con el archivo pertinente denominado 'gadm41_ECU_1.shp'. Luego, pueden aplicar el comando en R que se muestra a continuación.
 
 </div>
 <br>
