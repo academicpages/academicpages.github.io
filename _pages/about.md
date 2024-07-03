@@ -26,37 +26,39 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 ## Research Interests
 
-- Speech and Language Processing / 音声言語情報処理
-- Speech Synthesis / 音声合成
-- Natural Language Processing / 自然言語処理
-- Deep Learning / 深層学習
-- Signal Processing / 信号処理
+- Speech and Language Processing
+- Speech Synthesis
+- Natural Language Processing
+- Deep Learning
+- Signal Processing
 
 
 ## Education
 
 - Apr. 2023 - Mar. 2025<br>
-**Master’s Degree in Information Science and Technology**, the University of Tokyo, Japan / 東京大学<br>
-Department of Creative Informatics, Graduate School of Information Science and Technology / 大学院情報理工学系研究科 創造情報学専攻
+**Master’s Degree in Information Science and Technology**, the University of Tokyo, Japan<br>
+Department of Creative Informatics, Graduate School of Information Science and Technology
+(東京大学 大学院情報理工学系研究科 創造情報学専攻)
 - Apr. 2019 - Mar. 2023<br>
-**Bachelor’s Degree in Engineering**, the University of Tokyo, Japan / 東京大学<br>
-Department of Mathematical Engineering and Information Physics, Faculty of Engineering / 工学部 計数工学科
+**Bachelor’s Degree in Engineering**, the University of Tokyo, Japan<br>
+Department of Mathematical Engineering and Information Physics, Faculty of Engineering
+(東京大学 工学部 計数工学科)
 
 
 ## Awards & Honours
 
 - Jun. 2024<br>
-🎉 **Best Presentation Award / 優秀発表賞** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
-Sound Symposium / 音学シンポジウム
+🎉 **Best Presentation Award (優秀発表賞)** \[[link](https://www.ipsj.or.jp/award/musslp-award1.html)\]<br>
+Sound Symposium (音学シンポジウム)
 - Mar. 2024<br>
 🎉 **Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
 Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge
 - Mar. 2024<br>
-🎉 **Best Student Presentation Award / 学生優秀発表賞** \[[link](https://acoustics.jp/awards/student/)\]<br>
-Acoustical Society of Japan, ASJ / 日本音響学会
+🎉 **Best Student Presentation Award (学生優秀発表賞)** \[[link](https://acoustics.jp/awards/student/)\]<br>
+Acoustical Society of Japan, ASJ (日本音響学)
 - Mar. 2024<br>
-🎉 **Best Student Poster Award / 学生ポスター賞** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
-IEICE Speech Committee / 電子情報通信学会 音声研究会
+🎉 **Best Student Poster Award (学生ポスター賞)** \[[link](https://www.ieice.org/iss/sp/jpn/special/sp-poster-prize.html)\]<br>
+IEICE Speech Committee (電子情報通信学会 音声研究会)
 
 
 <!-- ## Grants & Scholarships -->
@@ -65,13 +67,13 @@ IEICE Speech Committee / 電子情報通信学会 音声研究会
 ## Research and Work Experiences
 
 - Mar. 2023 -<br>
-**CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
+**CoeFont Co.,Ltd. (株式会社CoeFont)**, Part-Time AI Researcher<br>
 Researching on speech processing.
 - Aug. 2023 - Sep. 2023<br>
-**NTT Human Informatics Laboratories / NTT人間情報研究所**, Research Internship<br>
+**NTT Human Informatics Laboratories (NTT人間情報研究所)**, Research Internship<br>
 Researched on speaking style captioning.
 - Sep. 2021 - Mar. 2024<br>
-**Nagase Brothers Inc. / 株式会社ナガセ**, Part-Time AI Researcher & Engineer<br>
+**Nagase Brothers Inc. (株式会社ナガセ)**, Part-Time AI Researcher & Engineer<br>
 Worked on natural language processing and developed web application.
 
 
