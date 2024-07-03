@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Tiexing Wang"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tiexing Wang"
+description              : &description "Research geophysicist/Deep learning researcher"
 url                      : https://tiexingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tiexingwang/tiexingwang.github.io"
@@ -22,13 +22,13 @@ repository               : "tiexingwang/tiexingwang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tiexing Wang"
+  pronouns         : "He/him" # example: "she/her"  
+  bio              : "Project Research Geophysicist"
+  location         : "Gatwick, UK"
+  employer         : "Shearwater Geoservices"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tiexingwang1992@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
