@@ -18,5 +18,6 @@ I am generally interested in Cryptography, Cryptanalysis, Theoretical Computer S
 Announcement and News
 ======
 
-* I will be at the IACR Summer School on Post-Quantum Cryptogaphy in Warsaw 🇵🇱 (14.07. - 19.07.). You can meet me there!
 * I will be at the QKD Summer School in Les Diablerets 🇨🇭(19.08. - 23.08. You can meet me there!
+* I will be at the IACR Summer School on Post-Quantum Cryptogaphy in Warsaw 🇵🇱 (14.07. - 19.07.). You can meet me there!
+
