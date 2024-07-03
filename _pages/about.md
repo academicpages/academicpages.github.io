@@ -9,13 +9,13 @@ redirect_from:
 ---
 A Brief Self-Introduction
 ======
-My name is Ma Qi (马 骐). In Chinese naming customs, the family name is traditionally placed first, so "Ma" (马) is my family name. The character "Ma" (马) means "horse" in Chinese, while the character "Qi" (骐) refers to a famous excellent horse in history.
+My name is Ma Qi (马 骐). 
 
-I was born in Huaibei, China on July 16, 2002. Currently, I am pursuing my Master's degree at Université Toulouse III-Paul Sabatier.
+I was born in Huaibei, China on July 16, 2002. Currently, I am pursuing my Doctoral degree at Rutgers University in New Jersey, USA.
 
 Research Interest
 -----
-My research interests span a range of topics, from Partial Differential Equations (PDE) to Geometric Analysis. I am actively searching for opportunities to continue my academic journey by pursuing a Master 2 and a PhD position, both within France and internationally.
+My research interests span a range of topics, from Partial Differential Equations (PDE) to Geometric Analysis. My supervisor is Mr. Yanyan Li.
 
 
 Education (More [info](../_pages/Education.md))
@@ -24,6 +24,8 @@ Education (More [info](../_pages/Education.md))
   [Transcript](../files/Transcript20230814.pdf)
 
 * Sept. 2023-June 2024, Université Toulouse III-Paul Sabatier, Master 1 in Mathematics.
+
+* Sept. 2024- Now, Rutgers University, PhD in Mathematics. 
 
 CV
 =====
@@ -59,8 +61,10 @@ Awards and Honors
 Contact
 =====
 My **E-mail**: 
+* qi.ma@rutgers.edu    
 * ma.qi.math@gmail.com
-* mq_luoji@whu.edu.cn        
+* mq_luoji@whu.edu.cn
+
 
 Please Feel free to send me an e-mail.
 
