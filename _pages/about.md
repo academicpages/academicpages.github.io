@@ -8,17 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)). My advisor is Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). I am interested in cognitive flexibility, learning and memory. I investigate the role of cortex and hippocampus in these functions -- in a non-traditional way :) Currently my main project is titled "[Mice in the Manhattan Maze](https://www.youtube.com/watch?v=ULZqNH9vWPA&ab_channel=MouseMazeData)," which features a novel reconfigurable maze for studying rapid learning and flexible routing. 
+I am a fourth-year PhD student in the Neurobiology program at the California Institute of Technology ([Caltech](https://neuroscience.caltech.edu/)). My advisor is Prof. [Markus Meister](https://meisterlab.caltech.edu/markusmeister). My research focuses on cognitive flexibility, learning, and memory, with a particular interest in the essence of cortex and hippocampus in these functions. My current project, titled "[Mice in the Manhattan Maze](https://www.youtube.com/watch?v=ULZqNH9vWPA&ab_channel=MouseMazeData)," employs an original massively reconfigurable maze to study rapid learning and flexible routing in wildtype mice and acortical mice. 
 
-Outside research, I am actively involved in teaching and student activities around Caltech (See a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) of me on the front page of Caltech). I was the teaching assistant for CNS187 Neural Computation for two years, a graduate-level course requirement for students in Computation and Neural System. I am currently the president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. 
+Beyond research, I am actively involved in teaching and student activities around Caltech. For two years, I served as the head teaching assistant for CNS187 Neural Computation, a graduate-level course requirement for students in Computation and Neural System. Additionally, I am the current president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. You can learn more about me in a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) on Caltech's frontpage, and a short assay about the [best students in class](https://magazine.caltech.edu/post/caltech-initiative-for-students). 
 
-Prior to Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree (M.Phil) in Education and Psychology at the University of Cambridge. 
+In my free time, I enjoy exploring the mountains, hiking in the summer and spending in the winter. This season I'm preparing for a day hike to Mt Whitney. I am also an avid bird watcher, painter and wildlife photographer. 
+
+Before joining Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree (M.Phil) in Education and Psychology from the University of Cambridge. 
 
 
 News
 ======
 
-**2023/12/19** - With Hristos Courellis from Adolphs and Rutishauser Lab, I won the [2024 Chen Innovator Grant](https://neuroscience.caltech.edu/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024) for an independent project by graduate students. We will report our results in 2025.   
+**2024/08/06** - I will present our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://2024.ccneuro.org/poster/?id=485). Check out the full abstract in the link! I received a full travel grant from the Chen Insitute for attending this conference. 
+
+**2024/06/17** - My Advisor Prof. Markus Meister presented our work ["Mouse navigation without hippocampus or neocortex"](https://inavsymposium.com/wp-content/uploads/2024/06/Poster_abstracts_iNAV2024.pdf), of which I am co-first author, at iNAV 2024 in Merano, Italy. 
+
+**2023/12/19** - With Hristos Courellis from Adolphs and Rutishauser Lab, I won the [2024 Chen Innovator Grant](https://neuroscience.caltech.edu/grants/chen-graduate-innovator-grant-awards/chen-graduate-innovator-grant-awards-2024) for an independent project by graduate students. We will report our results in 2025. 
 
 **2023/09/26** - I am the president of the [NeuroTechers](https://neurotechers.caltech.edu/) for this academic year (2023-2024). 
 
