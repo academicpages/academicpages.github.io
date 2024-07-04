@@ -18,7 +18,7 @@ from geopy import Nominatim
 # Set a custom user agent
 geocoder = Nominatim(user_agent="personal_website_tiexingwang")
 
-g = glob.glob("*.md")
+g = glob.glob("_talks/*.md")
 
 location_dict = {}
 location = ""
