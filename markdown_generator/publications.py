@@ -34,8 +34,13 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
+# publications = pd.read_csv("publications_twang.tsv", sep="\t", header=0)
+# publications
+# publications.to_csv("Publications_twang.csv")
+
+publications = pd.read_csv("publications_twang.csv")
+
+
 
 
 # ## Escape special characters
