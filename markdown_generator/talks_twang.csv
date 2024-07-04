@@ -1,6 +1,6 @@
 ,title,type,url_slug,venue,date,location,talk_url,description
-0,Primary estimation via sparse inversion ,Conference proceedings talk,talk-1,,15/6/2017,"Viena, Austria",,
-1,Primary estimation via sparse inversion from blended data,Conference proceedings talk,talk-2,,16/9/2019,"San Antonio, USA",,
-2,Harmonic imaging ,Conference proceedings talk,talk-3,,1/9/2023,"Houston, USA",,
-3,Marine vibroseis data processing,Conference proceedings talk,talk-4,,14/11/2024,"London, UK",,
-4,Diffusion model data interpolation,Conference proceedings talk,talk-5,,4/11/2024,"Rotterdam, Netherlands",,
+0,Primary estimation via sparse inversion ,Conference proceedings talk,talk-1,EAGE,15/6/2017,"Viena, Austria",,
+1,Primary estimation via sparse inversion from blended data,Conference proceedings talk,talk-2,IMAGE,16/9/2019,"San Antonio, USA",,
+2,Harmonic imaging ,Conference proceedings talk,talk-3,IMAGE,1/9/2023,"Houston, USA",,
+3,Marine vibroseis data processing,Conference proceedings talk,talk-4,Petex,14/11/2024,"London, UK",,
+4,Diffusion model data interpolation,Conference proceedings talk,talk-5,EAGE,4/11/2024,"Rotterdam, Netherlands",,
