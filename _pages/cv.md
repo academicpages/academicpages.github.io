@@ -13,22 +13,26 @@ Education
 ======
 * B.S. in Computer Science, Leibniz University Hannover, 2017
 * M.S. in Computer Science, Leibniz University Hannover, 2020
-* Ph.D in Interpretable AI, Leibniz University Hannover, 2024 (expected)
+* Ph.D in Interpretable AI, Leibniz University Hannover, 2024/2025 (expected)
 
 Work experience
 ======
+* October 2020-now: Researcher/PhD Student 
+  * L3S Research Center Hannover
+  * Tasks: Research, teaching, student supervision, proposal writing
+  * Supervisors: Prof. Avishek Anand (TU Delft), Prof. Wolfgang Nejdl (L3S, Uni Hannover)
 * Summer 2019: Software Development Intern
   * OpenMarket, London
-  * Duties included: Enterprise Java and Javascript development (AWS/Terraform)
+  * Tasks included: Enterprise Java and Javascript development (AWS/Terraform)
   * Supervisor: Geeta Kholia
 * 2018-2019 (13 months, part-time): Student Trainee - Software Development
   * PPI AG, Hannover
-  * Duties included: Enterprise Java Development
+  * Tasks included: Enterprise Java Development
   * Supervisor: Dr. Karl-Ingo Friese
 
 * 2016-2018 (18 months, part-time): Research Assistant 
   * Department of Software Engineering, Leibniz University Hannover
-  * Duties included: Investigating communication behavior and its effects on project success
+  * Tasks included: Investigating communication behavior and its effects on project success
   * Supervisor: Dr. Jil Klünder
   
 Skills
@@ -47,11 +51,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
