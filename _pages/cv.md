@@ -13,7 +13,7 @@ Education
 ======
 
 * **PhD Quantum Information and Cryptography** (2024 - 2027 (expected))\
-  CASA: Cybersecurity in the Age of Large-Scale Adversaries
+  CASA: Cybersecurity in the Age of Large-Scale Adversaries\
   Ruhr University Bochum
 * **M.Sc. IT-Security / Information Technology, M.Sc. Mathematics** (2022 - 2024)\
   Ruhr University Bochum
