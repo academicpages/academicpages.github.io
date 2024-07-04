@@ -12,6 +12,15 @@ redirect_from:
 Education
 ======
 
+* PhD Quantum Information and Cryptography (2024 - 2027 (expected))
+  CASA: Cybersecurity in the Age of Large-Scale Adversaries
+  Ruhr University Bochum
+* M.Sc. IT-Security / Information Technology, M.Sc. Mathematics (2022 - 2024)
+  Ruhr University Bochum
+* B.Sc. IT-Security / Information Technology, B.Sc. Mathematics (2018 - 2022)
+  Ruhr University Bochum
+
+<!--
 * PhD Student in Quantum Information and Cryprography, 2024-2027 (expected)
   * Supervisors: [Prof. Dr. Michael Walter](https://qi.rub.de/walter), [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/)
   * working on the DFG-funded CASA Fundamental Research Project "Robust Certification of Quantum Devices"
@@ -35,9 +44,19 @@ Education
   * Thesis: Cryptanalysis of McEliece
   * Thesis Grade: very good (1.0)
   * Advisor: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
+-->
 
 Work experience
 ======
+
+* Research Assistant (2024 - 2027 (expected))
+  Ruhr University Bochum
+* Student Assistant (2019 - 2024)
+  Ruhr University Bochum
+* Intern (Summer 2021)
+  secunet Security Networks AG, Division Homeland Security, Team Cryptographic Systems and Applications
+
+<!--
 * 2024-2027: Research Assistant & PhD Student
   * Quantum Information, Ruhr University Bochum / Hub A, CASA - Cybersecurity in the Age of Large-Scale Adversaries
   * working on the DFG-funded CASA Fundamental Research Project "Robust Certification of Quantum Devices"
@@ -61,7 +80,9 @@ Work experience
   * Analysis of general concepts in the field Post-Quantum Cryptography
   * Analysis and technical preparation of the impacts of Post-Quantum Cryptography on TLS
   * Presentation of the work results in a webinar
+-->
 
+<!--
 
 Awards & Scholarships
 ======
@@ -79,6 +100,8 @@ Awards & Scholarships
 * DPG Abiturprize (German Physical Society)
   * 2018
   * for very good performances in Physics
+
+-->
 
 <!--
 Skills
