@@ -21,7 +21,7 @@ repository               : "GinoMarttelo/psyginogithub.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "fotoperfil.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "I’m studying for a PhD but am not a special human being."
