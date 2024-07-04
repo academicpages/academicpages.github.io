@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 
-* PhD Quantum Information and Cryptography (2024 - 2027 (expected))
+* **PhD Quantum Information and Cryptography** (2024 - 2027 (expected))\
   CASA: Cybersecurity in the Age of Large-Scale Adversaries
   Ruhr University Bochum
-* M.Sc. IT-Security / Information Technology, M.Sc. Mathematics (2022 - 2024)
+* **M.Sc. IT-Security / Information Technology, M.Sc. Mathematics** (2022 - 2024)\
   Ruhr University Bochum
-* B.Sc. IT-Security / Information Technology, B.Sc. Mathematics (2018 - 2022)
+* **B.Sc. IT-Security / Information Technology, B.Sc. Mathematics** (2018 - 2022)\
   Ruhr University Bochum
 
 <!--
@@ -49,11 +49,11 @@ Education
 Work experience
 ======
 
-* Research Assistant (2024 - 2027 (expected))
+* **Research Assistant** (2024 - 2027 (expected))\
   Ruhr University Bochum
-* Student Assistant (2019 - 2024)
+* **Student Assistant** (2019 - 2024)\
   Ruhr University Bochum
-* Intern (Summer 2021)
+* **Intern** (Summer 2021)\
   secunet Security Networks AG, Division Homeland Security, Team Cryptographic Systems and Applications
 
 <!--
@@ -87,13 +87,14 @@ Work experience
 Awards & Scholarships
 ======
 
-* Prize for being Valedictorian IT-Security
-  * 2024
-  * 500€ sponsored by [Edgeless Systems](https://www.edgeless.systems)
-* [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html) (Germany Scholarship)
-  * 2018 - 2024
-  * 300€ per month (approx. 20,000€ in total) for outstanding achievements and special commitment
-  * funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+* Prize for being Valedictorian IT-Security\
+  2024\
+  500€ sponsored by [Edgeless Systems](https://www.edgeless.systems)
+* [Deutschlandstipendium](https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/english_node.html) (Germany Scholarship)\
+  2018 - 2024\
+  300€ per month (approx. 20,000€ in total) for outstanding achievements and special commitment\
+  funded by the Federal Ministry of Education and Research in cooperation with [Dr. Hans Paul Bürkner](https://en.wikipedia.org/wiki/Hans-Paul_Bürkner) (2018 - 2019) and Horst Görtz Foundation (2019 - 2024)
+<!--
 * DPG Bookprize (German Physical Society)
   * 2018
   * for excellent performance in Physics
