@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "de-DE"
+title                    : "Christina Hummelt"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Christina Hummelt"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chummelt.github.io/christinahummelt.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Christina Hummelt"
+  pronouns         : "she/her"# example: "she/her"  
+  bio              : "Product Owner Data Science"
+  location         : "Münster"
+  employer         : "flaschenpost SE"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "christina.hummelt@flapo.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/christinahummelt/" #Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
