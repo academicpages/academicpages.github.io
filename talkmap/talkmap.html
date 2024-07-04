@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_b0bc53df7e102b023b41f82711ed2006 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_b0bc53df7e102b023b41f82711ed2006" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_b0bc53df7e102b023b41f82711ed2006 = L.map(
+                "map_b0bc53df7e102b023b41f82711ed2006",
+                {
+                    center: [42.1611336, -34.631327756905534],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 2,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_374fdb6a4a30133daf7a03c3ec73fd2f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_374fdb6a4a30133daf7a03c3ec73fd2f.addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+            var marker_d522f9e437b952ead761f25498cb3f1c = L.marker(
+                [48.2083537, 16.3725042],
+                {}
+            ).addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+        var popup_4f8f7a1a74b21099b85a12c03836e1fd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_79135b696d43cac96ad0a5d6bdc408d1 = $(`<div id="html_79135b696d43cac96ad0a5d6bdc408d1" style="width: 100.0%; height: 100.0%;">Viena, Austria</div>`)[0];
+                popup_4f8f7a1a74b21099b85a12c03836e1fd.setContent(html_79135b696d43cac96ad0a5d6bdc408d1);
+            
+        
+
+        marker_d522f9e437b952ead761f25498cb3f1c.bindPopup(popup_4f8f7a1a74b21099b85a12c03836e1fd)
+        ;
+
+        
+    
+    
+            var marker_bff538c26e056ff434ad5eb846f0b56d = L.marker(
+                [29.4246002, -98.4951405],
+                {}
+            ).addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+        var popup_cbdca5c636d5eb8e934c58f1faca68fc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_11998a5cccd7db14b5be18ad50deae7f = $(`<div id="html_11998a5cccd7db14b5be18ad50deae7f" style="width: 100.0%; height: 100.0%;">San Antonio, USA</div>`)[0];
+                popup_cbdca5c636d5eb8e934c58f1faca68fc.setContent(html_11998a5cccd7db14b5be18ad50deae7f);
+            
+        
+
+        marker_bff538c26e056ff434ad5eb846f0b56d.bindPopup(popup_cbdca5c636d5eb8e934c58f1faca68fc)
+        ;
+
+        
+    
+    
+            var marker_719ca59801be968d8b66714ba2f13be7 = L.marker(
+                [29.7589382, -95.3676974],
+                {}
+            ).addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+        var popup_8a75ae7ed574a087980d7661a789ebaf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f25452a90dfe5e833452304d9b7fdb8b = $(`<div id="html_f25452a90dfe5e833452304d9b7fdb8b" style="width: 100.0%; height: 100.0%;">Houston, USA</div>`)[0];
+                popup_8a75ae7ed574a087980d7661a789ebaf.setContent(html_f25452a90dfe5e833452304d9b7fdb8b);
+            
+        
+
+        marker_719ca59801be968d8b66714ba2f13be7.bindPopup(popup_8a75ae7ed574a087980d7661a789ebaf)
+        ;
+
+        
+    
+    
+            var marker_2499951014ea69331fa6e02cd962dd2d = L.marker(
+                [51.4893335, -0.14405508452768728],
+                {}
+            ).addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+        var popup_e64f8db93e1a5b25a388da52305f0214 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fe4d78504160bb1549b0e64272823b8d = $(`<div id="html_fe4d78504160bb1549b0e64272823b8d" style="width: 100.0%; height: 100.0%;">London, UK</div>`)[0];
+                popup_e64f8db93e1a5b25a388da52305f0214.setContent(html_fe4d78504160bb1549b0e64272823b8d);
+            
+        
+
+        marker_2499951014ea69331fa6e02cd962dd2d.bindPopup(popup_e64f8db93e1a5b25a388da52305f0214)
+        ;
+
+        
+    
+    
+            var marker_5c4e07abc7ddac1ddf53202999247d43 = L.marker(
+                [51.9244424, 4.47775],
+                {}
+            ).addTo(map_b0bc53df7e102b023b41f82711ed2006);
+        
+    
+        var popup_e31538a236bfda6bf92fffd8e2079fc2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b21f464b7c7bcabf8e54813b832289ce = $(`<div id="html_b21f464b7c7bcabf8e54813b832289ce" style="width: 100.0%; height: 100.0%;">Rotterdam, Netherlands</div>`)[0];
+                popup_e31538a236bfda6bf92fffd8e2079fc2.setContent(html_b21f464b7c7bcabf8e54813b832289ce);
+            
+        
+
+        marker_5c4e07abc7ddac1ddf53202999247d43.bindPopup(popup_e31538a236bfda6bf92fffd8e2079fc2)
+        ;
+
+        
+    
+</script>
+</html>
