@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Carmona Díaz, G. M., Villada Zapata, J., Piñeres, J. D., & Jiménez Leal, W. (2021). Persuasión moral en el marco del posconflicto en Colombia: un estudio sobre la calidad de los argumentos y la experticia de la fuente. Acta Colombiana de Psicología, 24(2), 144-155.
