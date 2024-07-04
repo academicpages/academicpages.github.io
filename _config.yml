@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Tiexing Wang"
+title                    : "Tiexing Wang"
 title_separator          : "-"
 name                     : &name "Tiexing Wang"
-description              : &description "Research geophysicist/Deep learning researcher"
+description              : &description "" #Research geophysicist/Deep learning researcher
 url                      : https://tiexingwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tiexingwang/tiexingwang.github.io"
