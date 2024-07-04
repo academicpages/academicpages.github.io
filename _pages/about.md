@@ -9,7 +9,7 @@ redirect_from:
 
 Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Information Sciences and Technology](https://ist.psu.edu/) at [The Pennsylvania State University](https://www.psu.edu/). My advisor is [Dr.Suhang Wang](https://suhangwang.ist.psu.edu/). I obtained my Bachelor's degree in Computer Science from [Dalian University of Technology](https://en.dlut.edu.cn/). My research interests are Trustworthy Machine Learning, Vision Language Model and Graph Neural Network.
 
-**News**
+<h2>News</h2>
 
 [6/2024] Check out our preprint on Graph Backdoor Defense. [\[Paper\]](https://arxiv.org/abs/2406.09836)
 
@@ -20,9 +20,9 @@ Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Informatio
 [5/2024] One paper is accepted by ICML 2024.
 
 
-**Publications**
+<h2>Publications</h2>
 
-**Conference Papers**
+<h3>Conference Papers</h3>
 
 ["Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective"](https://arxiv.org/abs/2405.10757) [<b>KDD 2024</b>]
 
@@ -32,7 +32,7 @@ Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Informatio
 
 Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
 
-**Preprints**
+<h3>Preprints</h3>
 
 ["Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks"](https://arxiv.org/abs/2406.09836) [06/24]
 
@@ -55,11 +55,11 @@ Huaisheng Zhu, Guoji Fu, Zhimeng Guo, **Zhiwei Zhang**, Teng Xiao, Suhang Wang.
 **B.E.** in Computer Science (Sep. 2018 - Jun. 2022) Dalian University of Technology, Dalian, China
 
 
-**Experiences**
+<h2>Experiences</h2>
 
 [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)  
 Computer Vision Researcher
 
-**Services**
+<h2>Services</h2>
 
 Reviewer or subreviewer for KDD 2024, CIKM2024, RecSys 2024, SIGIR 2024, NeuroComputing
