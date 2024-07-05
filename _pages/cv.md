@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+You can finde a full CV [here](https://alexkulpe.github.io/files/CV.pdf).
+
+
 Education
 ======
 
