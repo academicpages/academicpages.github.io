@@ -23,7 +23,7 @@ Education
   Ruhr University Bochum\
   Bachelor Thesis: Cryptanalysis of McEliece\
   Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
-* **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)
+* **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)\
   Priv. Martin-Butzer-Gymnasium Dierdorf
 
 <!--
