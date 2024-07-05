@@ -49,9 +49,7 @@ Huaisheng Zhu, Guoji Fu, Zhimeng Guo, **Zhiwei Zhang**, Teng Xiao, Suhang Wang.
 <h2>Education</h2>
 
 **Ph.D.** in Informatics (Jan. 2023 - Present) Penn State University, Pennsylvania, US
-
 **M.S.** in Computer Science (Aug. 2022 - Dec. 2022) Georgia Institute of Technology. (Dropped)
-
 **B.E.** in Computer Science (Sep. 2018 - Jun. 2022) Dalian University of Technology, Dalian, China
 
 
