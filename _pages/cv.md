@@ -13,8 +13,8 @@ Education
 ======
 
 * **PhD Quantum Information and Cryptography** (expected 2027)\
-  CASA: Cybersecurity in the Age of Large-Scale Adversaries\
-  Ruhr University Bochum
+  CASA: Cybersecurity in the Age of Large-Scale Adversaries & Ruhr University Bochum\
+  Supervisors: [Prof. Dr. Michael Walter](https://qi.rub.de/walter) (CASA & RUB), [Asst. Prof. Dr. Giulio Malavolta](https://sites.google.com/view/giuliomalavolta/) (CASA & Bocconi University)
 * **M.Sc. IT-Security / Information Technology, M.Sc. Mathematics** (2024)\
   Ruhr University Bochum\
   Master Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding\
