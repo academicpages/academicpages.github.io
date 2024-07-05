@@ -16,9 +16,13 @@ Education
   CASA: Cybersecurity in the Age of Large-Scale Adversaries\
   Ruhr University Bochum
 * **M.Sc. IT-Security / Information Technology, M.Sc. Mathematics** (2024)\
-  Ruhr University Bochum
+  Ruhr University Bochum\
+  Master Thesis: Time-Memory Tradeoffs for Subset Sum and Decoding\
+  Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Dr. André Esser](https://andreesser.info) ([Technology Innovation Institute Abu Dhabi](https://www.tii.ae))
 * **B.Sc. IT-Security / Information Technology, B.Sc. Mathematics** (2022)\
-  Ruhr University Bochum
+  Ruhr University Bochum\
+  Bachelor Thesis: Cryptanalysis of McEliece\
+  Advisors: [Prof. Dr. Alexander May](https://informatik.rub.de/may/), [Timo Glaser](https://informatik.rub.de/cits/people/glaser/)
 * **Abitur** (A-levels: Mathematics, Physics, Latin) (2018)
   Priv. Martin-Butzer-Gymnasium Dierdorf
 
