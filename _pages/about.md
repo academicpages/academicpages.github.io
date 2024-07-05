@@ -11,12 +11,9 @@ Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Informatio
 
 <h2>News</h2>
 
-[6/2024] Check out our preprint on Graph Backdoor Defense. [\[Paper\]](https://arxiv.org/abs/2406.09836)
-
-[5/2024] One paper is accepted by KDD 2024.
-
-[5/2024] I passed the qualifying exam and became a Ph.D. candidate.
-
+[6/2024] Check out our preprint on Graph Backdoor Defense. [\[Paper\]](https://arxiv.org/abs/2406.09836)<br>
+[5/2024] One paper is accepted by KDD 2024.<br>
+[5/2024] I passed the qualifying exam and became a Ph.D. candidate.<br>
 [5/2024] One paper is accepted by ICML 2024.
 
 
@@ -24,26 +21,21 @@ Hi, I am Zhiwei Zhang. A second-year Ph.D. student in the [College of Informatio
 
 <h3>Conference Papers</h3>
 
-["Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective"](https://arxiv.org/abs/2405.10757) [<b>KDD 2024</b>]
-
+["Rethinking Graph Backdoor Attacks: A Distribution-Preserving Perspective"](https://arxiv.org/abs/2405.10757) [<b>KDD 2024</b>]<br>
 **Zhiwei Zhang**, Minhua Lin, Enyan Dai, Suhang Wang.
 
-["Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1)) [<b>ICML 2024</b>]
-
+["Efficient Contrastive Learning for Fast and Accurate Inference on Graphs"](https://openreview.net/forum?id=vsy21Xodrt&referrer=%5Bthe%20profile%20of%20Vasant%20G%20Honavar%5D(%2Fprofile%3Fid%3D~Vasant_G_Honavar1)) [<b>ICML 2024</b>]<br>
 Teng Xiao, Huaisheng Zhu, **Zhiwei Zhang**, Zhimeng Guo, Charu C. Aggarwal, Suhang Wang, Vasant G Honavar
 
 <h3>Preprints</h3>
 
-["Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks"](https://arxiv.org/abs/2406.09836) [06/24]
-
+["Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Networks"](https://arxiv.org/abs/2406.09836) [06/24]<br>
 **Zhiwei Zhang**, Minhua Lin, Junjie Xu, Zongyu Wu, Enyan Dai, Suhang Wang
 
-["Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks"](https://arxiv.org/pdf/2402.15680.pdf) [02/24]
-
+["Overcoming Pitfalls in Graph Contrastive Learning Evaluation: Toward Comprehensive Benchmarks"](https://arxiv.org/pdf/2402.15680.pdf) [02/24]<br>
 Qian Ma, Hongliang Chi, Hengrui Zhang, Kay Liu, **Zhiwei Zhang**, Lu Cheng, Suhang Wang, Philip S Yu, Yao Ma.
 
-["Fairness-aware Message Passing for Graph Neural Networks"](https://arxiv.org/pdf/2306.11132.pdf) [06/23]
-
+["Fairness-aware Message Passing for Graph Neural Networks"](https://arxiv.org/pdf/2306.11132.pdf) [06/23]<br>
 Huaisheng Zhu, Guoji Fu, Zhimeng Guo, **Zhiwei Zhang**, Teng Xiao, Suhang Wang.
 
 <h2>Education</h2>
