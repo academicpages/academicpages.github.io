@@ -48,8 +48,7 @@ Huaisheng Zhu, Guoji Fu, Zhimeng Guo, **Zhiwei Zhang**, Teng Xiao, Suhang Wang.
 
 <h2>Experiences</h2>
 
-[SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)  
-Computer Vision Researcher
+Computer Vision Researcher Intern @ [SenseTime](https://www.sensetime.com/en)         (2021.11-2022.06)
 
 <h2>Services</h2>
 
