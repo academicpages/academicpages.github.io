@@ -67,7 +67,9 @@ See [teaching](latower.github.io/teaching).
 
 #### PROGRAM COMMITTEE MEMBER
 
-  <!-- - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/)  -->
+  - [ICML 2024](https://icml.cc/Conferences/2024/) 
+  - [IJCAI 2024](https://ijcai24.org)
+  - [AAAI 2024](https://aaai.org/Conferences/AAAI-24/) 
   - [NeurIPS 2023](https://nips.cc/Conferences/2023)
   - [AAAI 2023](https://aaai.org/Conferences/AAAI-23/) 
   - [NeurIPS 2022](https://nips.cc/Conferences/2022)
