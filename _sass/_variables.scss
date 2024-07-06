@@ -20,6 +20,8 @@ $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$handlee                    : "handlee", sans-serif;
+$inconstant                 : "inconstant-variable", $handlee, sans-serif;
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
@@ -29,7 +31,7 @@ $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
 $global-font-family         : $sans-serif;
-$header-font-family         : 'Handlee'; // $sans-serif;
+$header-font-family         : $inconstant;// $sans-serif; //'Handlee'; // $sans-serif;
 $caption-font-family        : $serif;
 
 /* type scale */
