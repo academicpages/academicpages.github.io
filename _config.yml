@@ -3,7 +3,8 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 encoding: utf-8
 
@@ -16,10 +17,71 @@ description              : &description "personal description"
 url                      : https://latower.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "latower/latower.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "alatour.JPG"
+  name             : "anna latour"
+  pronouns	   : "she/her or they/them"
+  bio              : "research fellow. computer scientist. feminist."
+  location         : "Earth"
+  employer         : "National University of Singapore"
+  uri		   : # URL
+  email		   : # fake
+ 
+  # Academic websites
+  arxiv	 	   : # URL
+  dblp             : "https://dblp.org/pid/204/8189.html"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=nf5lfegAAAAJ"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0002-5802-8271"
+  semantic         : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Anna-Latour-2"
+
+  # Repositories and software development  
+  bitbucket        : "latower"
+  codepen          :
+  dribbble         :
+  github           : "latower"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "annalatour"
+  mastodon         : "mathstodon.xyz/@anna"
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "aldlatour"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
+
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : false
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : true #change to true to add link to talkmap on talks page
 comments:
@@ -49,13 +111,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -75,50 +140,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "anna latour"
-  avatar           : "alatour.JPG"
-  bio              : "research fellow. computer scientist. feminist."
-  location         : # "Singapore"
-  employer         : "National University of Singapore"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=nf5lfegAAAAJ"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Anna-Latour-2"
-  uri              :
-  bitbucket        : "latower"
-  codepen          :
-  dblp             : "https://dblp.org/pid/204/8189.html"
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "latower"
-  google_plus      :
-  keybase          :
-  mastodon         : "mathstodon.xyz/@anna"
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "annalatour"
-  orcid            : "https://orcid.org/0000-0002-5802-8271"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "aldlatour"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
@@ -245,6 +269,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
