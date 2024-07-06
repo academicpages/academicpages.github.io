@@ -1,0 +1,25 @@
+ 
+/*!
+ * Inconstant Regular by Dyslexia Scotland - https://www.nothingcomicaboutdyslexia.com/inconstant-regular
+ * License - https://danielbrokstad.com/Inconstant-Regular: The license of all Font Software sold directly through this website is a Commercial Desktop License for installation on up to five (5) units. Not to be resold.
+ */
+@import 'variables';
+
+@font-face {
+  font-family: 'Inconstant-Variable';
+  font-style: normal;
+  font-weight: 900;
+  // src: url('#{$ir-font-path}/ir-solid-900.eot');
+  // src: url('#{$ir-font-path}/ir-solid-900.eot?#iefix') format('embedded-opentype'),
+  src:
+  url('#{$ir-font-path}/Variable/InconstantVF.woff2') format('woff2'),
+  url('#{$ir-font-path}/Variable/InconstantVF.woff') format('woff'),
+  url('#{$ir-font-path}/Variable/InconstantVF.ttf') format('truetype');
+  // url('#{$ir-font-path}/ir-solid-900.svg#fontawesome') format('svg');
+}
+
+.ir,
+.irs {
+  font-family: 'Inconstant-Variable';
+  font-weight: 900;
+}
