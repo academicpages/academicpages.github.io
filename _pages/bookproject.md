@@ -7,6 +7,12 @@ author_profile: true
 
 # Ousting an Autocrat: Temporary Alliances of Opposition Parties in Electoral Authoritarian Regimes
 
+## Rewards, Grants, and Fundings
+- **Best Paper Award** at ISA-South for third emprical chapter 
+- **Best Fieldwork Award -- Honorable Mention** from APSA's Democracy and Autocracy section
+- **2nd place at 3MT** (The Three Minute Thesis) Competition at GSU
+- My book project is based on my dissertation research which has been supported by the [William A. Steiger Fund for Legislative Studies](https://connect.apsanet.org/centennialcenter/2022/09/01/pre-electoral-opposition-coalitions-in-authoritarian-regimes/) of the APSA Centennial Grant, Craigie Fellowship, and GSU's [Library Dissertation Award](https://graduate.gsu.edu/dissertation-library-travel-awards/).
+
 ## Research Question and Motivation
 As of 2022, more than $72\%$ of the world population lives under autocracies. Opposition in these regimes is often deemed as weak and fragmented. However, opposition political parties in autocracies are the locus of the most organized form of dissent against the incumbent, and little research focuses on these parties. My book project examining opposition political parties' electoral strategies in authoritarian settings aims to unravel mechanisms leading to liberalizing outcomes. To understand how and when opposition political parties pave the way for autocratic reversal, I start from the assumption in the literature that opposition coalitions are needed to effectively challenge autocratic incumbents. I investigate an understudied aspect of autocratic reversal: ``**under what conditions do some opposition parties in electoral authoritarian regimes successfully form a pre-electoral coalition (PEC), while others fail to coordinate?**''
 
@@ -25,8 +31,4 @@ In the second empirical chapter, I assess the validity of my analysis using a di
 ## Empirical Chapter 3
 In the final empirical chapter, I investigate the proposed question using the case of opposition political parties in Turkey during the Justice and Development Party regime (2002 - present). Mainly, I focus on two elections: (1) the 2018 general election as a negative case in which the opposition formed a coalition but failed to find a joint candidate, and (2) the 2023 general elections as a positive case in which the opposition successfully formed a coalition through joint-lists and joint candidate strategies. This chapter provides further support to my argument and I show that having high levels of intra-party cohesiveness and ideological diversity enabled these parties to form a coalition. This chapter relies on three different pieces of evidence: (1) site-intensive methods that include elite interviews, shadowing, and participant observation, (2) process tracing, and (3) quantitative text analysis of party manifestos and party leaders’ tweets.
 
-## Rewards, Grants, and Fundings
-- **Best Paper Award** at ISA-South for third emprical chapter 
-- **Best Fieldwork Award -- Honorable Mention** from APSA's Democracy and Autocracy section
-- **2nd place at 3MT** (The Three Minute Thesis) Competition at GSU
-- My book project is based on my dissertation research which has been supported by the [William A. Steiger Fund for Legislative Studies](https://connect.apsanet.org/centennialcenter/2022/09/01/pre-electoral-opposition-coalitions-in-authoritarian-regimes/) of the APSA Centennial Grant, Craigie Fellowship, and GSU's [Library Dissertation Award](https://graduate.gsu.edu/dissertation-library-travel-awards/).  
+![Ousting an Autocrat](figures/book_project.png)
