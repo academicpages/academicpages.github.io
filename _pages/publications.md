@@ -50,8 +50,8 @@ author_profile: true
 
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- Conduct and reporting of elite interviewing in political science research. *journal article* (EMW project)
-- Explaining the Success of Opposition Coalitions Against Autocrats 
+- Conduct and reporting of elite interviewing in political science research. *journal article* (EMW project, will be presented at APSA 2024)
+- Explaining the success of opposition coalitions against autocrats *journal article* (will be presented at APSA 2024) 
  
 ### Work-In-Progress
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
