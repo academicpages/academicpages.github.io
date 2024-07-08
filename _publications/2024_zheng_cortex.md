@@ -2,7 +2,7 @@
 title: "Life without Cortex"
 collection: publications
 permalink: /publication/2024_zheng_cortex
-excerpt: 'This work is co-first-authored with Dr. Zeynep Turan.'
+excerpt: 'This work is co-first-authored with Dr. Zeynep Turan. Click the link for the abstract!'
 date: June 2024
 venue: 'In Prep'
 citation: '**Zheng, J.**, Turan, Z., Pollak, D., and Meister, M. (In Prep). Life without Cortex'

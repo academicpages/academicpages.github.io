@@ -12,12 +12,12 @@ I am a fourth-year PhD student in the Neurobiology program at the California Ins
 
 Beyond research, I am actively involved in teaching and student activities around Caltech. For two years, I served as the head teaching assistant for CNS187 Neural Computation, a graduate-level course requirement for students in Computation and Neural System. Additionally, I am the current president of the [Neurotechers](https://neurotechers.caltech.edu/) (23-), the official club for Caltech graduate students in neuroscience. You can learn more about me in a short [Spotlight](https://thisis.caltech.edu/person-spotlight-listing?p=2) on Caltech's frontpage, and a short assay about the [best students in class](https://magazine.caltech.edu/post/caltech-initiative-for-students). 
 
-In my free time, I enjoy exploring the mountains, hiking in the summer and spending in the winter. This season I'm preparing for a day hike to Mt Whitney. I am also an avid bird watcher, painter and wildlife photographer. 
+In my free time, I enjoy exploring the mountains, hiking in the summer and skiing in the winter. This season I'm preparing for summitting [Mt Whitney](https://en.wikipedia.org/wiki/Mount_Whitney). I am also an avid bird watcher, artist and wildlife photographer. 
 
 Before joining Caltech, I did my undergraduate studies at Cornell University (B.S. in Biological Engineering) and Shanghai Jiao Tong University (B.Eng. in Food Science and Engineering). I then obtained a Master's degree (M.Phil) in Education and Psychology from the University of Cambridge. 
 
 
-News
+News and Announcements
 ======
 
 **2024/08/06** - I will present our latest progress on the Manhattan Maze, featuring acortical mice, in [CCN 2024](https://2024.ccneuro.org/poster/?id=485). Check out the full abstract in the link! I received a full travel grant from the Chen Insitute for attending this conference. 
