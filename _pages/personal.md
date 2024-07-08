@@ -19,7 +19,7 @@ author_profile: true
 
 {% include base_path %}
 
-What I really like: Chatting, Reading, Watching Comedies, Hiking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, Fishing, (Cooking?,) etc.
+What I really like: Chatting, Reading, Writing, Watching Comedies, Hiking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, Fishing, (Cooking?,) etc.
 
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
@@ -68,7 +68,7 @@ Others
   * Abbott, Edwin A. (1884), *Flatland: A Romance of Many Dimensions*
     * 
   * Casti, John L. (1998), *The Cambridge Quintet: A Work of Scientific Speculation* 
-    * A unique fiction written by a complexity scientist known for Paradigms Lost and Complexification. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
+    * A unique fiction written by a complexity scientist known for *Paradigms Lost* and *Complexification*. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
   * 
 
 * Movies

@@ -92,6 +92,7 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
   * Paul Humphreys, *Philosophical Papers*, 2018
     
 * Cybernetics
+  * Ronald R. Kline. *The Cybernetics Moment: Or Why We Call Our Age the Information Age.* (2015)
   * Heims, Steve Joshua, *The Cybernetics Group* (1991)『サイバネティクス学者たちーアメリカ戦後科学の出発』.
   * 
   * Gerovitch, Slava, *From Newspeak to Cyberspeak*, (2004). 『ニュースピークからサイバースピークへ：ソ連における科学・政治・言語』
@@ -118,6 +119,7 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
     * Janet Abbate, *Recoding Gender: Women's Changing Participation in Computing*
     * Nathalia Holt, *Rise of the Rocket Girls - The Women Who Propelled Us, From Missiles to the Moon to Mars* 『ロケットガールの誕生：コンピューターになった女性たち』
     * William Aspray, *Women and Information Technology: Research on Underrepresentation* (2006)
+    * Kathy Kleiman, *Proving Ground: The Untold Story of the Six Women Who Programmed the World’s First Modern Computer*, Hachette Book Group (Grand Central Publishing), 2022. 『コンピューター誕生の歴史に隠れた6人の女性プログラマー』
   * Cultural History
     * Scott Selisker, *Huma Programming: Brainwashing, Automatons, and American Unfreedom*, 2016
     
