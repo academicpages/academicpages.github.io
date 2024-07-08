@@ -14,9 +14,9 @@ redirect_from:
 * Tools used in quantifying climate-tectonic interplay include (1) geochronology, such as low-temperature thermochronology and optically stimulated luminescence dating; (2) remote sensing data; (3) multidisciplinary sedimentology, tectonics, and geomorphology approach; and (4) statistical and numerical modeling.
 * Field expeditions include Arunachal Pradesh Himalaya (specifically in the Siang, Dibang, and Lohit river valleys), the Shillong plateau, and the Belt of Schuppen (especially in the southeastern boundary of Assam valley and the western part of Nagaland).
 
-# Mineral-Microbe Interactions
+# Mineral-Microbe-Water Interactions
 
-* Post-doctoral journey develped my interest in mineral-microbe interactions and geobiotechnology. Now exploring biogeochemical transformation and transport of chemical and biological components at different temporal and spatial scales.
+* Post-doctoral journey develped my interest in mineral-microbe-water interactions and geobiotechnology. Now exploring (1) how minerals form and react with their surrounding solutions - atomic to pore scale geochemical Processes, (2) biogeochemical transformation and transportation of chemical and biological components at different temporal and spatial scales.
   
 # Earth Science Education Research
 
