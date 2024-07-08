@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Zhan ao Huang/Lecturer"
 title_separator          : "-"
 name                     : &name "Zhan ao Huang"
-description              : &description "Chengdu University of Information Technology"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "School of Computer Science, Chengdu University of Information Technology"
+url                      : "https://huangza123.github.io/huangza.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://scholar.google.com.hk/citations?user=aN2sfk4AAAAJ&hl=zh-CN"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
