@@ -127,6 +127,13 @@ document.addEventListener("DOMContentLoaded", function() {
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <br>
 
+![](images/boce_orbit.png){: .align-right width="200px"}
+**OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
+Boce Hu, Xupeng Zhu\*, **Dian Wang\***, Zihao Dong\*, Haojie Huang\*, Chenghao Wang\*, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.03531','_blank')">PDF</button>
+<br>
+
 ![](images/haojie_imagine.png){: .align-right width="200px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
