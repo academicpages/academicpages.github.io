@@ -3,7 +3,7 @@
 </br>
 
 # John Ragland
-<p style="text-align: center;">PhD Student, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
+<p style="text-align: center;">PhD Candidate, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
 
 ---
 ## Education
@@ -22,7 +22,7 @@ M.S. in the department of Electrical and Computer Engineering, suma cum laude 20
 Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expected)</br>
 *Adviser:* Shima Abadi</br>
 *Thesis:* Using coherent ambient sound to probe the ocean</br>
-*Emphasis:* Digital Signal Processing, Acoustics, Machine Learning</br>
+*Emphasis:* Ambient noise interferometry, Ocean basin tomography</br>
 
 ## Experience
 - Graduate Teaching Assistant, May 2019 - May 2020, *Auburn University*

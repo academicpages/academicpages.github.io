@@ -3,7 +3,7 @@
 </br>
 
 # John Ragland
-<p style="text-align: center;">PhD Student, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
+<p style="text-align: center;">PhD Candidate, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
 
 ---
 ## Education
@@ -22,7 +22,7 @@ M.S. in the department of Electrical and Computer Engineering, suma cum laude 20
 Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expected)</br>
 *Adviser:* Shima Abadi</br>
 *Thesis:* Using coherent ambient sound to probe the ocean</br>
-*Emphasis:* Digital Signal Processing, Acoustics, Machine Learning</br>
+*Emphasis:* Ambient noise interferometry, Ocean basin tomography</br>
 
 ## Experience
 - Graduate Teaching Assistant, May 2019 - May 2020, *Auburn University*
@@ -33,11 +33,15 @@ Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expec
 
 
   
-    (submitted) Schönau, Martha and Hiron, Luna and **Ragland, John** and Raja, Keshav and Skitka, Joseph and Solano, Miguel and Xu, Xiaobiao and Arbic, Brian and Buijsman, Maarten and Chassignet, Eric and Coelho, Emanuel and Helber, Robert and Shriver, Jay and Summers, Jason and Verlinden, Kathryn and Wallcraft, Allan, (2023), An overview to modeling, characterizing, and predicting the effects of internal gravity waves on acoustic propagation at basin to global scales, *Oceanography Magazine* </br>
+    (in preperation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of American Express Letters Vol. * </br>[ [link] ](https://doi.org/) </br>
   
 
   
-    (in preparation) **Ragland, John** and Abadi, Shima and Sabra, Karim, (2023), Using ocean ambient sound to sense arrival time fluctuations due to temperature, *Journal of the Acoustical Society of America* </br>
+    (in preparation) **Ragland, John** and Abadi, Shima and Sabra, Karim, (2024), Using coherent ambient sound to measure water column temperature, *Geophysical Research Letters* </br>
+  
+
+  
+    (submitted) Schönau, Martha and Hiron, Luna and **Ragland, John** and Raja, Keshav and Skitka, Joseph and Solano, Miguel and Xu, Xiaobiao and Arbic, Brian and Buijsman, Maarten and Chassignet, Eric and Coelho, Emanuel and Helber, Robert and Shriver, Jay and Summers, Jason and Verlinden, Kathryn and Wallcraft, Allan, (2023), An overview to modeling, characterizing, and predicting the effects of internal gravity waves on acoustic propagation at basin to global scales, *Oceanography Magazine* </br>
   
 
   
@@ -57,21 +61,27 @@ Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expec
 ## Talks
 
 ### Invited Talks
-Navy Research Laboratory, Ocean Sciences Division, Stennis MS - Mar, 2023</br></br>
+Navy Research Laboratory, Ocean Sciences Division, Stennis MS - March, 2023</br></br>
 MG&amp;G Group, University of Washington, Seattle WA - May, 2023</br></br>
-Applied Research Laboratory - UW, Seattle WA - Nov, 2022</br></br>
+Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
 ### Conference Presentations
 
   
-    (in preparation) **Ragland, John** and Abadi, Shima, (2023), Using ocean ambient sound to sense arrival time fluctuations due to temperature, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* </br>
+    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Abadi, Shima and Dall’Osto, David and Gemba, Kay, (2024), Towards acoustic observations of ocean basin temperatures using the Kauai beacon and Ocean Observatories Initiative Hydrophones, , *New Orleans, LA* </br>
   
 
 
 
   
-    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Gemba, Kay and Abadi, Shima, (2023), Detecting the Kauai source beacon with ocean observatories innitiative hydrophones, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* </br>
+    **Ragland, John** and Abadi, Shima, (2023), Using ocean ambient sound to sense arrival time fluctuations due to temperature, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* [ [link] ]()</br>
+  
+
+
+
+  
+    **Ragland, John** and Durofchalk, Nicholas and Gemba, Kay and Abadi, Shima, (2023), Detecting the Kauai source beacon with ocean observatories innitiative hydrophones, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* [ [link] ]()</br>
   
 
 

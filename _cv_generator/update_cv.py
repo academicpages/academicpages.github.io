@@ -87,6 +87,8 @@ files_dir = os.path.abspath(os.path.join(os.getcwd(), '..', 'files/'))
 
 cv_tools.delete_files_in_directory(files_dir)
 
+# Skipping attachment handling for now
+"""
 for talk_attachment in talk_attachments:
     fn = talk_attachment['data']['path'][12:]
     os.system(
@@ -107,7 +109,7 @@ for invited_attachment in invited_attachments:
     os.system(
         f"cp '{zot_dir}{fn}' '{files_dir}/{fn.replace(' ','_')}'"
     )
-
+"""
 for k,i in enumerate(talks_bib_entries):
     start = i[0].index("@") 
     if k == 0:
