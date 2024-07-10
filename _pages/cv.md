@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ======
+* M.D./Ph.D. student, Columbia University, 2024 - 
+
 * B.A. _magna cum laude_ with highest honors in Computer Science, Harvard University, 2021
   * Track: Mind, Brain & Behavior
   * Secondary Field: Mathematical Sciences
