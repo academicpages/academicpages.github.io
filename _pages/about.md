@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+- Our paper on generating compressed schema descriptions as LLM input was accepted at VLDB 2024!
 - Ziyun Wei successfully defends his PhD thesis "Robust Querying for Data Analysis and Processing"!
 - Our paper on JoinGym was accepted at RLC 2024!
 - Our tutorial on large language models was accepted at ICDE 2024!
