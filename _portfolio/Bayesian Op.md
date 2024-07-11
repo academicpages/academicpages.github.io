@@ -1,12 +1,18 @@
 ---
-title: "Pandas speed up..."
-excerpt: "don't use for always!"
+title: "Bayesian Optimization Package"
+excerpt: "some error when using pymc"
 collection: solving
 ---
 
-for will loop always slows things down, and these operations can take anywhere from a few days to a few seconds.
 
-**don't! use! for! anymore!!!**
+**Package 1: [pymc](https://www.pymc.io/welcome.html)**
+**ERROR 0: import pymc as pm  !!!!IMPORTANCE!!!!NOT PYMC3 OR PYMC4**
+ERROR 1: NotImplementedError: Cannot convert ‘XXXX’ to a tensor variable
+[Solving](https://discourse.pymc.io/t/error-notimplementederror-cannot-convert-to-a-tensor-variable/13355)
+ERROR 2: ImportError: cannot import name ‘gaussian’ from ‘scipy.signal’
+[Solving](https://discourse.pymc.io/t/importerror-cannot-import-name-gaussian-from-scipy-signal/14170)
 
-1. very usefull refer. [here](https://juejin.cn/post/6953893780080721956)
-   
+**Package 2: [BayesianOptimization](https://github.com/bayesian-optimization/BayesianOptimization?tab=readme-ov-file)**
+
+A very simple OP.
+ 
