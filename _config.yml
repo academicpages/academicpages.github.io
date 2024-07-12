@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Tianyang Wang's Academic Page"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Tianyang Wang"
+description              : &description "specializing in computer vision with a focus on medical imaging"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,17 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Tianyang Wang"
+  pronouns         : # example: "he/him"  
+  bio              : "Third-year undergraduate student at the School of AI and Advanced Computing, specializing in computer vision with a focus on medical imaging."
+  location         : "Xi'an, China"
+  employer         : "Xi'an Jiaotong-Liverpool University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Tianyang.Wang21@student.xjtlu.edu.cn"  # ✉️ Feel free to reach out to me via email for any academic inquiries or collaborations.
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.cz/citations?user=057tu_4AAAAJ&hl=zh-CN" # 📚 Check out my academic work on Google Scholar.
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
