@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a graduate student from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), [Guangdong University of Technology](https://english.gdut.edu.cn/). My research interests include Natural Language Processing, Graph Neural Networks, Sentiment Analysis, and Social Media.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. liu dongning](https://www.scholat.com/liudn.en) of  Graph Neural
+Networks Lab from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology. I was advised by Fenghuan Li and Si Li from [School of Computer Science and Technology](https://cs.gdut.edu.cn/English/About_us.htm), Guangdong University of Technology.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Chen Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:cc13895479019@gmail.com) / [Github](https://ccxaoxx.github.io/ChenChen.github.io/) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/m0_53382422)
