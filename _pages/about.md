@@ -129,7 +129,8 @@ Reviewer for ISBI (2023)
 # Selected Awards and Honors
 
 
-[2022-2023] University Academic Achievement Award (Top <span class="highlight">10%</span></em></p> in Xi’an Jiaotong-Liverpool University University)
+<p>[2022-2023] University Academic Achievement Award (Top <span class="highlight">10%</span> in Xi’an Jiaotong-Liverpool University)</p>
+
 
 
 # SELECTED NATIONAL PATENT
