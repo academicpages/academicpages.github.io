@@ -19,8 +19,6 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
 
 ## Recent and Selected Publications
 
-
-
 <style>
   .card {
     display: flex;
@@ -68,18 +66,18 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
 </style>
 
 <div class="card">
-    <div style="flex: 0 0 120px; margin-right: 20px;">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/BiF.png" alt="BiF3-Net">
     </div>
     <div style="flex: 1;">
       <h3>BiF<sup>3</sup>-Net: A Full BiFormer Full-scale Fusion Network for Accurate Gastrointestinal Images Segmentation</h3>
       <p>Yunze Wang, Silin Chen, Xi Long, Yi Tian, Ye Huang, Tianyang Wang, Jingxin Liu.</p>
-      <p><em>Medical Imaging with Deep Learning (MIDL), 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
+      <p><em>Medical Imaging with Deep Learning (MIDL), 2024</em> <a href="https://openreview.net/pdf?id=kIRMpUufhm" target="_blank">[PDF]</a></p>
     </div>
 </div>
 
 <div class="card">
-    <div style="flex: 0 0 120px; margin-right: 20px;">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/LLM.png" alt="Survey">
     </div>
     <div style="flex: 1;">
