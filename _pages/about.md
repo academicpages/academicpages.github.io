@@ -68,11 +68,22 @@ I am **Tianyang Wang**, a third-year undergraduate specializing in computer visi
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="images/Ynet.png" alt="Ynet">
+    </div>
+    <div style="flex: 1;">
+      <h3>Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images</h3>
+      <p><span class="author-bold">Tianyang Wang</span>, Xi Long, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
+      <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span class="highlight">Under Review</span></em></p>
+    </div>
+</div>
+
+<div class="card">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/Wave-MAE.png" alt="Wave-MAE">
     </div>
     <div style="flex: 1;">
       <h3>Consistency Regularization Augmented Wavelet-based Masked Autoencoder for Multiple Thorax Disease Classification</h3>
-      <p>Yunze Wang, Silin Chen, <span class="author-bold">Tianyang Wang</span>, Jingxin Liu.</p>
+      <p>Yunze Wang, Silin Chen, <span class="author-bold">Tianyang Wang</span>, Yuexiang Li, Siqi Huang, Xiaowei Huang, Jingxin Liu.</p>
       <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span class="highlight">Under Review</span></em></p>
     </div>
 </div>
