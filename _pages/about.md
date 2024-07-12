@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
+ 
 
 I am Tianyang Wang, a third-year undergraduate specializing in computer vision at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research focuses on medical imaging, and I am eager to further this work during my prospective PhD studies. I am currently advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu).
 
