@@ -89,14 +89,12 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
 
 
 <div class="card">
-    <div style="flex: 0 0 180px; margin-right: 20px;">
-      <img src="images/WaveBernDiff.png" alt="WaveBernDiff">
-    </div>
     <div style="flex: 1;">
       <h3>WaveBernDiff: Advancing Medical Image Segmentation with Wavelet-Integrated Bernoulli Diffusion</h3>
       <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="under-preparing">Under Preparing</span></em></p>
     </div>
 </div>
+
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
