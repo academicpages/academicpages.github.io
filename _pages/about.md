@@ -19,6 +19,20 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
 
 ## Recent and Selected Publications
 
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
+  <div style="flex: 0 0 120px; margin-right: 20px;">
+    <img src="images/BiF.png" alt="BiF3-Net" style="width: 100%; height: auto; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h3 style="margin: 0 0 10px; color: #0056b3;">BiF<sup>3</sup>-Net: A Full BiFormer Full-scale Fusion Network for Accurate Gastrointestinal Images Segmentation</h3>
+    <p style="margin: 0 0 10px; font-size: 1rem; color: #333;">Yunze Wang, Silin Chen, Xi Long, Yi Tian, Ye Huang, Tianyang Wang, Jingxin Liu.</p>
+    <p style="margin: 0; font-size: 0.9rem; color: #666;"><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[PDF]</a></p>
+  </div>
+</div>
+
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
   <div style="flex: 0 0 120px; margin-right: 20px;">
     <img src="images/LLM.png" alt="Survey" style="width: 100%; height: auto; border-radius: 8px;">
@@ -29,3 +43,7 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
     <p style="margin: 0; font-size: 0.9rem; color: #666;"><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[PDF]</a></p>
   </div>
 </div>
+
+
+
+
