@@ -1,6 +1,6 @@
 ---
 permalink: /
- 
+
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,13 +9,7 @@ redirect_from:
 
 ## About Me
 
-My name is Tianyang Wang, a third-year undergraduate student at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). I specialize in computer vision with a focus on medical imaging. I am passionate about advancing this field and aspire to pursue a PhD in the same area. 🎓
-
-I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu) at Xi'an Jiaotong-Liverpool University. 
- 
-
-
-
+I am Tianyang Wang, a third-year undergraduate specializing in computer vision at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research focuses on medical imaging, and I am eager to further this work during my prospective PhD studies. I am currently advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu).
 
 ## Recent and Selected Publications
 
@@ -65,7 +59,6 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
   }
 </style>
 
-
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/Wave-MAE.png" alt="Wave-MAE">
@@ -104,13 +97,8 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
       <img src="images/LLM.png" alt="Survey">
     </div>
     <div style="flex: 1;">
-      <h3>Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals</h3>
+      <h3>Surveying Attitudinal Alignment Between Large Language Models and Humans Towards 17 Sustainable Development Goals</h3>
       <p>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
       <p><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
     </div>
 </div>
-
-
-
-
-
