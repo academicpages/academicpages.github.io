@@ -66,7 +66,16 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
 </style>
 
 
-
+<div class="card">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="images/Wave-MAE.png" alt="Wave-MAE">
+    </div>
+    <div style="flex: 1;">
+      <h3>Consistency Regularization Augmented Wavelet-based Masked Autoencoder for Multiple Thorax Disease Classification</h3>
+      <p>Yunze Wang, Silin Chen, Tianyang Wang, Jingxin Liu.</p>
+      <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - Under Review</em></p>
+    </div>
+</div>
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
