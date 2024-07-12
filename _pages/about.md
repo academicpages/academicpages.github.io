@@ -11,6 +11,9 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
 
 ## Recent and Selected Publications
 
+ 
+
+
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
 
@@ -22,6 +25,11 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
   h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
   }
+  
+.under-preparing {
+    color: #007bff; /* Bootstrap primary blue for consistency or any other shade of blue you prefer */
+    font-weight: bold;
+}
 
   .card {
     display: flex;
@@ -77,6 +85,18 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
     font-weight: bold;
   }
 </style>
+
+
+
+<div class="card">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="images/WaveBernDiff.png" alt="WaveBernDiff">
+    </div>
+    <div style="flex: 1;">
+      <h3>WaveBernDiff: Advancing Medical Image Segmentation with Wavelet-Integrated Bernoulli Diffusion</h3>
+      <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="under-preparing">Under Preparing</span></em></p>
+    </div>
+</div>
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
