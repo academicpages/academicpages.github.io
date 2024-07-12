@@ -16,6 +16,7 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
 
   body {
     font-family: 'Roboto', sans-serif;
+    background-color: #f9f9f9; /* Light grey background for the whole page */
   }
 
   h1, h2, h3 {
@@ -28,8 +29,10 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
     margin-bottom: 20px;
     border-bottom: 1px solid #ddd;
     padding-bottom: 15px;
+    background-color: #fff; /* White background for cards */
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
     transition: box-shadow 0.3s, transform 0.3s ease;
+    border-radius: 8px; /* Rounded corners for cards */
   }
 
   .card:hover {
@@ -47,14 +50,12 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
     margin: 0 0 5px;
     color: #333;
     font-weight: bold;
-    font-family: 'Open Sans', sans-serif;
   }
 
   .card p {
     margin: 0;
     font-size: 0.9rem;
     color: #666;
-    font-family: 'Roboto', sans-serif;
   }
 
   .card a {
