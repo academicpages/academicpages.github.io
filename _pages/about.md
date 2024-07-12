@@ -21,28 +21,74 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
-  <div style="flex: 0 0 120px; margin-right: 20px;">
-    <img src="images/BiF.png" alt="BiF3-Net" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1;">
-    <h3 style="margin: 0 0 10px; color: #0056b3;">BiF<sup>3</sup>-Net: A Full BiFormer Full-scale Fusion Network for Accurate Gastrointestinal Images Segmentation</h3>
-    <p style="margin: 0 0 10px; font-size: 1rem; color: #333;">Yunze Wang, Silin Chen, Xi Long, Yi Tian, Ye Huang, Tianyang Wang, Jingxin Liu.</p>
-    <p style="margin: 0; font-size: 0.9rem; color: #666;"><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[PDF]</a></p>
-  </div>
+<style>
+  .card {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 20px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: box-shadow 0.3s;
+  }
+
+  .card:hover {
+    box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+
+  .card h3 {
+    margin: 0 0 10px;
+    color: #333;
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+  }
+
+  .card p {
+    margin: 0;
+    font-size: 1rem;
+    color: #666;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .card a {
+    color: #1a73e8;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  .card a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<div class="card">
+    <div style="flex: 0 0 120px; margin-right: 20px;">
+      <img src="images/BiF.png" alt="BiF3-Net">
+    </div>
+    <div style="flex: 1;">
+      <h3>BiF<sup>3</sup>-Net: A Full BiFormer Full-scale Fusion Network for Accurate Gastrointestinal Images Segmentation</h3>
+      <p>Yunze Wang, Silin Chen, Xi Long, Yi Tian, Ye Huang, Tianyang Wang, Jingxin Liu.</p>
+      <p><em>Medical Imaging with Deep Learning (MIDL), 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
+    </div>
 </div>
 
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 30px; border-bottom: 1px solid #ddd; padding-bottom: 20px;">
-  <div style="flex: 0 0 120px; margin-right: 20px;">
-    <img src="images/LLM.png" alt="Survey" style="width: 100%; height: auto; border-radius: 8px;">
-  </div>
-  <div style="flex: 1;">
-    <h3 style="margin: 0 0 10px; color: #0056b3;">Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals</h3>
-    <p style="margin: 0 0 10px; font-size: 1rem; color: #333;">Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
-    <p style="margin: 0; font-size: 0.9rem; color: #666;"><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank" style="color: #1a73e8; text-decoration: none; font-weight: bold;">[PDF]</a></p>
-  </div>
+<div class="card">
+    <div style="flex: 0 0 120px; margin-right: 20px;">
+      <img src="images/LLM.png" alt="Survey">
+    </div>
+    <div style="flex: 1;">
+      <h3>Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals</h3>
+      <p>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
+      <p><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
+    </div>
 </div>
+
 
 
 
