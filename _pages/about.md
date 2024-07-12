@@ -1,17 +1,22 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Tianyang Wang's Academic Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of Al and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research interest includes computer vision, machine learning, and computational photography.
+## About Me
 
-I am very fortunate to be advised by [Prof. JingxinLiu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu) of Xi'an Jiaotong-Liverpool University. 
- [Google Scholar](https://scholar.google.cz/citations?user=057tu_4AAAAJ&hl=zh-CN)/[Email](Tianyang.Wang21@student.xjtlu.edu.cn)
-————————————————
+I am a third-year undergraduate student at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research interests include computer vision, machine learning, and computational photography.
+
+I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu) at Xi'an Jiaotong-Liverpool University. 
+
+- [Google Scholar](https://scholar.google.cz/citations?user=057tu_4AAAAJ&hl=zh-CN)
+- [Email](mailto:Tianyang.Wang21@student.xjtlu.edu.cn)
+
+ 
 
       
 A data-driven personal website
