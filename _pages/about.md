@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Tianyang Wang**, a third-year undergraduate specializing in computer vision at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research focuses on medical imaging, and I am eager to further this work during my prospective PhD studies. I am currently advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu).
+I am Tianyang Wang, a third-year undergraduate specializing in computer vision at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research focuses on medical imaging, and I am eager to further this work during my prospective PhD studies. I am currently advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu).
 
 ## Recent and Selected Publications
 
@@ -120,3 +120,19 @@ I am **Tianyang Wang**, a third-year undergraduate specializing in computer visi
       <p><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
     </div>
 </div>
+
+# Academic Service
+
+Reviewer for ISBI (2023)
+
+
+# Selected Awards and Honors
+
+
+[2022-2023] University Academic Achievement Award (Top <span class="highlight">10%</span></em></p> in Xi’an Jiaotong-Liverpool University University)
+
+
+# SELECTED NATIONAL PATENT
+
+
+[Mar. 2024] Cell Membrane Image Unsupervised Segmentation Model Training Method
