@@ -19,7 +19,7 @@ Beside from research, I'm also member in [UWClassmates](https://uwclassmate.com/
 - **University of Washington**, *2022 - 2026 (expected)*
   <br>*B.S. in Computer Science, AMATH*
   <br>
-  - GPA: 3.93/4.00, Dean’s List (All Quarters & Years)
+  - Dean’s List (All Quarters & Years)
 
 ## 🏅 Competitions & Projects
 - INRIX Amazon University Hack 2023, **ParkinGPT** [[website]](https://devpost.com/software/destchat/)
