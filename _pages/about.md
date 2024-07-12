@@ -20,8 +20,13 @@ images/LLM.png
 
 ## Recent and Selected Publications
 
-### Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals
-![Survey](images/LLM.png)
-**Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.**  
-*arXiv preprint, 2024*  
-[PDF](https://arxiv.org/pdf/2404.13885)
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex: 0 0 100px;">
+    <img src="images/LLM.png" alt="Survey" style="width: 100%;">
+  </div>
+  <div style="flex: 1; padding-left: 15px;">
+    <h4 style="margin: 0;">Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals</h4>
+    <p style="margin: 0;"><strong>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, Tianyang Wang, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</strong></p>
+    <p style="margin: 0;"><em>arXiv preprint, 2024</em> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
+  </div>
+</div>
