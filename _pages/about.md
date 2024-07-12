@@ -65,6 +65,20 @@ I am very fortunate to be advised by [Prof. Jingxin Liu](https://scholar.xjtlu.e
   }
 </style>
 
+
+
+
+<div class="card">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="images/SDDA.png" alt="SDDA-MAE">
+    </div>
+    <div style="flex: 1;">
+      <h3>SDDA-MAE: Self-distillation enhanced Dual Attention Masked Autoencoder for Small-scale Medical Image Datasets</h3>
+      <p>Yunze Wang, Silin Chen, Tianyang Wang, Jingxin Liu.</p>
+      <p><em>Medical Imaging with Deep Learning (MIDL), 2024</em> <a href="https://openreview.net/pdf?id=Ow20DosS2K" target="_blank">[PDF]</a></p>
+    </div>
+</div>
+
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/BiF.png" alt="BiF3-Net">
