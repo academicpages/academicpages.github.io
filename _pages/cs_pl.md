@@ -30,13 +30,13 @@ Regular expressions can be converted to deterministic finite automata (DFA) usin
 * Definition
 The derivative of a regular expression e with respect to a character a is defined as follows:
 
-$∂_a$ &#8709; = &#8709;\\%
+$∂_a$ &#8709; = &#8709;\\
 $∂_a$  a = ε\\
-$∂_a$  ε = &#8709;\\%
-$∂_a$  b = &#8709;\\%
+$∂_a$  ε = &#8709;\\
+$∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
 $∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2\\ 
-$∂_a$ e\UTF{2217} = ($∂_a$ e)e\UTF{2217}\\%
+$∂_a$ e\\UTF{2217} = ($∂_a$ e)e\\UTF{2217}\\
 
 Here, a,b ∈ Σ and a ≠ b
 
@@ -46,9 +46,9 @@ The auxiliary function for the given regular expression ν(e) is defined as foll
 \emptyset & \text{otherwise}
 \end{cases} \]
 
-The derivative with respect to strings is extended as follows:
+The derivative with respect to strings is extended as follows:\\
 $∂_a$ e = e,\\
-$∂_wa$ e = $∂_a$ ($∂_w$ e)\\
+$∂_w_a$ e = $∂_a$ ($∂_w$ e)
 
 Example
 For e = xyza(b + c)* and w = "xyz", we have:
@@ -83,10 +83,10 @@ Define:
 e1 = e + 0(0 + 1)\UTF{2217}, e2 = e1 +(0+1)\UTF{2217}, e3 = e+(0+1)\UTF{2217} 
 
 For exmple: 
-∂0e \UTF{2248} e+0(0+1)\UTF{2217} = e1, 
-∂1e \UTF{2248} e, 
-∂0e1 \UTF{2248}e+0(0+1)\UTF{2217} +(0+1)\UTF{2217} =e2,
-∂1e1 \UTF{2248} e
+$∂_0$e \UTF{2248} e+0(0+1)\UTF{2217} = e1,\\ 
+$∂_1$e \UTF{2248} e,\\
+$∂_0$e1 \UTF{2248}e+0(0+1)\UTF{2217} +(0+1)\UTF{2217} =e2,\\
+$∂_1$e1 \UTF{2248} e\\
 ...
 
 Since ε∈ L(e2) and ε∈ L(e3), F = {e2, e3}. Thus, with Q = {e, e1, e2, e3}, we can construct the DFA A_e = (Q, {0,1}, δ, e, F) using the above transitions. (States [e2] and [e3] are collapsed into a single state due to their language equivalence under ≡.
