@@ -47,8 +47,8 @@ The auxiliary function for the given regular expression ν(e) is defined as foll
 \end{cases} \]
 
 The derivative with respect to strings is extended as follows:\\
-$∂_a$ e = e,\\
-$∂_(wa)$ e = $∂_a$ ($∂_w$ e)
+$∂_a$ e = e,;\\
+$∂_{wa}$ e = $∂_a$ ($∂_w$ e)
 
 Example
 For e = xyza(b + c)* and w = "xyz", we have:
@@ -72,21 +72,21 @@ where:
 δ([e], a) = [$∂_w$ e0]，F = {[e] | [e] ∈ Q, ε∈ L(e)}
     * Weaker Equivalence Relation
       * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.  
- e1 +e2 \UTF{2248} e2 +e1, (e1 +e2) + e3 \UTF{2248} e1 +(e2 + e3), (e1 e2) e3 \UTF{2248} e1(e2 e3), (e\UTF{2217})\UTF{2217} \UTF{2248} e\UTF{2217}, e+e\UTF{2248}e, e \UTF{2205} \UTF{2248} \UTF{2205} e \UTF{2248} \UTF{2205}, e ε \UTF{2248} ε e \UTF{2248} e, \UTF{2205} + e \UTF{2248} e, ε\UTF{2217} \UTF{2248} ε, \UTF{2205}\UTF{2217} \UTF{2248} ε
+ e1 +e2 &asymp; e2 +e1, (e1 + e2) + e3 &asymp; e1 + (e2 + e3), (e1 e2) e3 &asymp; e1(e2 e3), (e\UTF{2217})\UTF{2217} &asymp; e\UTF{2217}, e + e &asymp; e, e \UTF{2205} &asymp; \UTF{2205} e &asymp; \UTF{2205}, e ε &asymp; ε e &asymp; e, \UTF{2205} + e &asymp; e, ε\UTF{2217} &asymp; ε, \UTF{2205}\UTF{2217} &asymp; ε
 
 
 * Example
 To construct a DFA from the regular expression e = (0 + 1)\UTF{2217}00(0 + 1)\UTF{2217}: 
 
-Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] using the equivalence \UTF{2248} mentioned above, where  a ={0, 1} and e0 = {e, e1 e2, e3}, resultion in 2 * 4 patterns.
+Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] using the equivalence &asymp; mentioned above, where  a ={0, 1} and e0 = {e, e1 e2, e3}, resultion in 2 * 4 patterns.
 Define: 
 e1 = e + 0(0 + 1)\UTF{2217}, e2 = e1 +(0+1)\UTF{2217}, e3 = e+(0+1)\UTF{2217} 
 
 For exmple: 
-$∂_0$e \UTF{2248} e+0(0+1)\UTF{2217} = e1,\\ 
-$∂_1$e \UTF{2248} e,\\
-$∂_0$e1 \UTF{2248}e+0(0+1)\UTF{2217} +(0+1)\UTF{2217} =e2,\\
-$∂_1$e1 \UTF{2248} e\\
+$∂_0$e &asymp; e+0(0+1)\UTF{2217} = e1,\\ 
+$∂_1$e &asymp; e,\\
+$∂_0$e1 &asymp; e+0(0+1)\UTF{2217} +(0+1)\UTF{2217} =e2,\\
+$∂_1$e1 &asymp; e\\
 ...
 
 Since ε∈ L(e2) and ε∈ L(e3), F = {e2, e3}. Thus, with Q = {e, e1, e2, e3}, we can construct the DFA A_e = (Q, {0,1}, δ, e, F) using the above transitions. (States [e2] and [e3] are collapsed into a single state due to their language equivalence under ≡.
