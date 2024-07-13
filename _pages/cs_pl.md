@@ -29,14 +29,14 @@ Regular expressions can be converted to deterministic finite automata (DFA) usin
 
 Definition
 ======
-The derivative of a regular expression e with respect to a character a is defined as follows:
+The derivative of a regular expression *e* with respect to a character *a* is defined as follows:
 
 $∂_a$ &#8709; = &#8709;\\
 $∂_a$  a = ε\\
 $∂_a$  ε = &#8709;\\
 $∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
-$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\ 
+$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\
 $∂_a$ e * = ($∂_a$ e)e*\\
 
 Here, a,b ∈ Σ and a ≠ b
@@ -48,7 +48,7 @@ The auxiliary function for the given regular expression ν(e) is defined as foll
 \end{cases} \]
 
 The derivative with respect to strings is extended as follows:\\
-$∂_a$ e = e,;\\
+$∂_a$ e = e,\\
 $∂_{wa}$ e = $∂_a$ ($∂_w$ e)
 
 Example
@@ -75,7 +75,7 @@ where:
 δ([e], a) = [$∂_w$ e0]，F = {[e] | [e] ∈ Q, ε∈ L(e)}
 
     * Weaker Equivalence Relation
-      * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.\\ 
+      * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.\\
  e1 +e2 &asymp; e2 +e1,\\
  (e1 + e2) + e3 &asymp; e1 + (e2 + e3),\\
  (e1 e2) e3 &asymp; e1(e2 e3),\\
@@ -98,7 +98,7 @@ e1 = e + 0(0 + 1)*, e2 = e1 +(0+1)*, e3 = e+(0+1)*
 For example\\
 $∂_0$ e &asymp; e+0(0+1)* = e1,\\
 $∂_1$ e &asymp; e,\\
-$∂_0$ e1 &asymp; e+0(0+1)*+(0+1)* = e2,\\
+$∂_0$ e1 &asymp; e+0(0+1)\*+(0+1)\* = e2,\\
 $∂_1$ e1 &asymp; e\\
 ...
 
@@ -125,10 +125,10 @@ Key papers by McCulloch and Pitts, Kleene, and Thompson.
 
 References
 ======
-    - Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481-494.
-    - John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman. *Introduction to automata theory, languages, and computation*, 2nd edition, (March 2001).
-    - Sakarovitch J. *Elements of Automata Theory*. Thomas R, trans. Cambridge University Press; 2009.
-    - *Encyclopedia of Theoretical Computer Science*, 2022
+- Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481-494.
+- John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman. *Introduction to automata theory, languages, and computation*, 2nd edition, (March 2001).
+- Sakarovitch J. *Elements of Automata Theory*. Thomas R, trans. Cambridge University Press; 2009.
+- *Encyclopedia of Theoretical Computer Science*, 2022
 
 
 
