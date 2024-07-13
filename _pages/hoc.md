@@ -175,50 +175,50 @@ Historians of Computing (partial)
 ======
 In any field, it is important to know the researchers and what they do when beginning research. The list below may include people who are not historians of computing.
 
-* [Aaron Mendon-Plasek]
-* [Atushi Akera]
-* [Ben Allen]
-* [David C. Brock]
+* Aaron Mendon-Plasek
+* Atsushi Akera
+* Ben Allen
+* David C. Brock
 * [David E. Dunning](https://www.davidedunning.com/)
-* [David Link]
-* [Donald MacKenzie]
+* David Link
+* Donald MacKenzie
 * [Doron Swade](https://archivesit.org.uk/interviews/doron-swade-mbe/)
-* [Eden Medina]
+* Eden Medina
 * [Edgar Graham Daylight](https://www.dijkstrascry.com/about)
-* [George Dyson]
-* [Gerard Alberts]
-* [Gerard O'Regan]
-* [Jack Copeland]
-* [Janet Abbate]
-* [James W. Cortada]
-* [Jeffery R Yost]()
-* [Jennifer S. Light]
-* [JoAnne Yater]
+* George Dyson
+* Gerard Alberts
+* Gerard O'Regan
+* Jack Copeland
+* Janet Abbate
+* James W. Cortada
+* Jeffery R Yost
+* Jennifer S. Light
+* JoAnne Yater
 * [Joy Lisi Rankin](http://joyrankin.com/)
-* [Ksenia Tatarchenko]
+* Ksenia Tatarchenko
 * [Laine Nooney](https://studioforcreativeinquiry.org/people/laine-nooney)
-* [Leonard J. Shustek]
+* Leonard J. Shustek
 * [Liesbeth De Mol](https://codesync.global/speaker/liesbeth-de-mol/)
-* [Maarten Bullynck]
+* Maarten Bullynck
 * [Mai Sugimoto](http://www17.plala.or.jp/mai_sugimoto/index2.htm)
 * [Mar Hicks](https://marhicks.com/)
 * [Mark Priestley](http://markpriestley.net/archives/99)
-* [Martin Campbell-Kelly]
-* [Mary Croarken]
-* [Matti Tedre]
+* Martin Campbell-Kelly
+* Mary Croarken
+* Matti Tedre
 * [Michael Mahoney](http://www.princeton.edu/~hos/Mahoney/)
 * [Nathan Ensmenger](https://homes.luddy.indiana.edu/nensmeng/bio.html)
-* [Paul E. Ceruzzi]
-* [Paul N. Edwards]
-* [Pierre Mounier-Kuhn]
+* Paul E. Ceruzzi
+* Paul N. Edwards
+* Pierre Mounier-Kuhn
 * [Rebecca Slayton](https://sts.cornell.edu/rebecca-slayton)
-* [Sam Schirvar]
+* Sam Schirvar
 * [Stephanie Dick](https://www.sas.upenn.edu/~sadick/RESEARCH.html)
 * [Thomas Haigh](https://www.tomandmaria.com/Tom/)
 * [Thomas Mullaney](https://history.stanford.edu/people/thomas-mullaney)
 * [Troy Kaighin Astarte](http://homepages.cs.ncl.ac.uk/troy.astarte/#recent)
-* [William Aspray]
-* [Zachary Loeb]
+* William Aspray
+* Zachary Loeb
 
 Primary Source
 ======
