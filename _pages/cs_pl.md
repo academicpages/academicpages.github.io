@@ -35,8 +35,8 @@ $∂_a$  a = ε\\
 $∂_a$  ε = &#8709;\\
 $∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
-$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2\\ 
-$∂_a$ e\\UTF{2217} = ($∂_a$ e)e\\UTF{2217}\\
+$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\ 
+$∂_a$ e \UTF{2217} = ($∂_a$ e)e\UTF{2217} ;\\
 
 Here, a,b ∈ Σ and a ≠ b
 
@@ -48,7 +48,7 @@ The auxiliary function for the given regular expression ν(e) is defined as foll
 
 The derivative with respect to strings is extended as follows:\\
 $∂_a$ e = e,\\
-$∂_w_a$ e = $∂_a$ ($∂_w$ e)
+$∂_(wa)$ e = $∂_a$ ($∂_w$ e)
 
 Example
 For e = xyza(b + c)* and w = "xyz", we have:
@@ -58,7 +58,7 @@ $∂_wa$ e = (b +c)*
 
 Regular expressions are closed under string derivatives (Theorem 4.1 in [Brzozowski, 1964]). Thus, we can define the language described by regular expression $∂_w$ e. The language denoted by $∂_w$ e corresponds to the left quotient of L(e) by the string "w".
 
-L($∂_w$ e) = w^(−1) L(e)
+L($∂_w$ e) = \(w^{−1}\) L(e)
 	      = {w′ | ww′ ∈ L(e)} 
 
 * Constructing Automata Using Derivatives of Regular Expressions
@@ -108,7 +108,7 @@ Key papers by McCulloch and Pitts, Kleene, and Thompson.
 
 
 * References
-    * Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481\UTF{2013}494.
+    * Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481-494.
     * John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman. *Introduction to automata theory, languages, and computation*, 2nd edition, (March 2001).
     *  Sakarovitch J. *Elements of Automata Theory*. Thomas R, trans. Cambridge University Press; 2009.
     * *Encyclopedia of Theoretical Computer Science*, 2022
