@@ -37,7 +37,7 @@ $∂_a$  ε = &#8709;\\
 $∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
 $∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\ 
-$∂_a$ e * = ($∂_a$ e)e* ;\\
+$∂_a$ e * = ($∂_a$ e)e*\\
 
 Here, a,b ∈ Σ and a ≠ b
 
@@ -73,8 +73,9 @@ Constructing Automata Using Derivatives of Regular Expressions
 A_e0 = (Q, Σ, δ, [e0], F)
 where: 
 δ([e], a) = [$∂_w$ e0]，F = {[e] | [e] ∈ Q, ε∈ L(e)}
+
     * Weaker Equivalence Relation
-      * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.\\  
+      * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.\\ 
  e1 +e2 &asymp; e2 +e1,\\
  (e1 + e2) + e3 &asymp; e1 + (e2 + e3),\\
  (e1 e2) e3 &asymp; e1(e2 e3),\\
@@ -94,8 +95,8 @@ Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] us
 Define: 
 e1 = e + 0(0 + 1)*, e2 = e1 +(0+1)*, e3 = e+(0+1)*
 
-For exmple:\\
-$∂_0$ e &asymp; e+0(0+1)* = e1,\\ 
+For example\\
+$∂_0$ e &asymp; e+0(0+1)* = e1,\\
 $∂_1$ e &asymp; e,\\
 $∂_0$ e1 &asymp; e+0(0+1)*+(0+1)* = e2,\\
 $∂_1$ e1 &asymp; e\\
@@ -104,6 +105,7 @@ $∂_1$ e1 &asymp; e\\
 Since ε∈ L(e2) and ε∈ L(e3), F = {e2, e3}. Thus, with Q = {e, e1, e2, e3}, we can construct the DFA $A_e$ = (Q, {0,1}, δ, e, F) using the above transitions. (States [e2] and [e3] are collapsed into a single state due to their language equivalence under ≡.
 
 Here is the transition diagram of the DFA.
+→
 
 Research on Derivatives of Regular Expressions
 ======
@@ -123,10 +125,10 @@ Key papers by McCulloch and Pitts, Kleene, and Thompson.
 
 References
 ======
-    * Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481-494.
-    * John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman. *Introduction to automata theory, languages, and computation*, 2nd edition, (March 2001).
-    *  Sakarovitch J. *Elements of Automata Theory*. Thomas R, trans. Cambridge University Press; 2009.
-    * *Encyclopedia of Theoretical Computer Science*, 2022
+    - Janusz A. Brzozowski. 1964. Derivatives of Regular Expressions. J. ACM 11, 4 (Oct. 1964), 481-494.
+    - John E. Hopcroft, Rajeev Motwani, and Jeffrey D. Ullman. *Introduction to automata theory, languages, and computation*, 2nd edition, (March 2001).
+    - Sakarovitch J. *Elements of Automata Theory*. Thomas R, trans. Cambridge University Press; 2009.
+    - *Encyclopedia of Theoretical Computer Science*, 2022
 
 
 
