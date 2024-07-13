@@ -19,6 +19,7 @@ author_profile: true
 
 Under Construction!!!
 ======
+I am preparing an article on continuation.
 
 
 Derivatives of Regular Expression
@@ -29,13 +30,13 @@ Regular expressions can be converted to deterministic finite automata (DFA) usin
 * Definition
 The derivative of a regular expression e with respect to a character a is defined as follows:
 
-$∂_a$ \UTF{2205} = \UTF{2205}%
-∂_a a = ε
-∂_a ε = \UTF{2205}%
-∂_a b = \UTF{2205}%
-∂_a (e1 e2) = (∂_a e1) e2 + ν(e1)∂_a e2 (← This is remarkably different from the typical differentiation of functions.)
-∂_a(e1 + e2) = ∂_a e1 + ∂_a e2 
-∂_a e\UTF{2217} = (∂_a e)e\UTF{2217}%
+$∂_a$ &#8709; = &#8709;%
+$∂_a$  a = ε
+$∂_a$  ε = &#8709;%
+$∂_a$  b = &#8709;%
+$∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)
+$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2 
+$∂_a$ e\UTF{2217} = ($∂_a$ e)e\UTF{2217}%
 
 Here, a,b ∈ Σ and a ≠ b
 

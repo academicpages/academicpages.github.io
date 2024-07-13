@@ -21,7 +21,7 @@ redirect_from:
 
 Under Construction!!!
 ======
-* I will update this website by late March&#128583;.
+* I will update this website by late August&#128583;.
 
 Hi there! I am a research student in [the Department of Mathematical and Computing Science](https://educ.titech.ac.jp/is/eng/) at the [Tokyo Institute of Technology](https://www.titech.ac.jp/english/about/organization/schools/organization04), Japan. Before joining Tokyo Tech, I majored in History of Science and minored in Computer Science at [Waseda University](https://www.waseda.jp/top/en/) (GPA: 3.9/4.0, valedictorian). I am currently interested in building compilers, and logic and mathematics in computer science like Programming Languages and Automata Theory. [Here](http://yudaiurabe.github.io/files/YudaiUrabe_CV.pdf) is my CV.
 
@@ -29,7 +29,7 @@ Hi there! I am a research student in [the Department of Mathematical and Computi
 Miscellaneous
 ======
 * The Purpose of this Website
-  * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' two years ago, I initially associated them with Leibniz and Russell&#128512; The former has little to do with Leibniz, while the latter was conceived by Russell).
+  * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' during my junior year at college, I initially associated them with Leibniz and Russell&#128512; The former has little to do with Leibniz, while the latter was conceived by Russell).
 * Reflecting on the Year
   * As the year comes to a close, I reflect on the past year and recognize personal growth in various aspects. In particular, I have come to believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. Although I also love alone time, I really enjoy interacting with other people. I hope this site, which I created for the first time, will help me to interact with various people in graduate school.
     
@@ -37,7 +37,7 @@ Miscellaneous
     I am currently applying to graduate school in Computer Science. Leveraging my past as a student in the history of science, I plan to apply the knowledge and skills I acquired in shaping my future as a student in computer science (especially, programming languages).
 
   * Programming
-    * Python, OCaml, Java, C (, ALGOL 60?)    
+    * Python, OCaml, Java, C, Isabelle/HOL,  ALGOL 60
   * Service
     * ICFP 2023 Student Volunteer (September 2023)
     * FLOPS 2024 (May 2024) (planned)

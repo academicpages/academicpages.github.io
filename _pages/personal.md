@@ -25,7 +25,7 @@ What I really like: Chatting, Reading, Writing, Watching Comedies, Hiking, Karao
 Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below, I will list some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
 
-As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, Yoichiro Nambu, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;. Particularly, I have been interested in the work of the Lw\UTF{00F3}&oacute;w-Warsaw school of logic, including J. \UTF{0141}&#321;ukasiewicz, S. Le&#347;\UTF{015B}niewski, and A. Tarski.
+As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, Yoichiro Nambu, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;. Particularly, I have been interested in the work of the Lw&oacute;w-Warsaw school of logic, including J. &#321;ukasiewicz, S. Le&#347;niewski, and A. Tarski.
 
 My Bookshelf (mainly nonfiction)
 ======
@@ -39,8 +39,8 @@ My Bookshelf (mainly nonfiction)
 * Jose Ortega Y Gasset, 1929, *The Revolt of the Mass*
   * I particularly enjoyed Chapter 10: Primitivism and History, and Chapter 12: The Barbarism of “Specialization”.
 * Yanshou, Li. *History of the Southern Dynasties*, pp. 5-8『南史』巻二十六　列伝第十六
-  * ←I found that this bibliography may not be accurate. The Book of Song (宋\UTF{4E66}, &#26360;) is accurate.
-  * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (\UTF{8BBA}\UTF{8BED}, &#35770;&#35486;). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
+  * ←I found that this bibliography may not be accurate. The Book of Song (宋&#26360;) is accurate.
+  * The biography of Yuan Can (袁粲). Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (&#35770;&#35486;). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
 
 * Kumiko Tanaka-Ishii, (2010), *Semiotics of Programming* 
   * 
