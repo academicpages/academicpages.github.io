@@ -36,8 +36,8 @@ $∂_a$  a = ε\\
 $∂_a$  ε = &#8709;\\
 $∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
-$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\
-$∂_a$ e\* = ($∂_a$ e)e\*\\
+$∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2\\
+$∂_a$ e\* = ($∂_a$ e)e\* \\
 
 Here, a,b ∈ Σ and a ≠ b
 
