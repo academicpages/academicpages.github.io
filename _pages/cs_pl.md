@@ -66,26 +66,26 @@ L($∂_w$ e) = \(w^{−1}\) L(e)
     * We write e1 ≡ e2 if L(e1) = L(e2). The relation ≡ divides expressions e into equivalence classes denoted by [e].
     * Example
       * For instance, L((0+1)*) = L((0*1*)*) = {0, 1}*, hence (0+1)* ≡ (0*1*)*.
-    * Here, the set Q = {[$∂_w$ e0]| w ∈ Σ*} becomes finite. We can construct a DFA $A_e0$ that accepts L(e0) by using these equivalence classes [$∂_w$ e0] as states. (This construction corresponds to reading character a from state e by differentiating e with a.)
+    * Here, the set Q = {[$∂_w$ e0]| w ∈ Σ*} becomes finite. We can construct a DFA $A_{e0}$ that accepts L(e0) by using these equivalence classes [$∂_w$ e0] as states. (This construction corresponds to reading character a from state e by differentiating e with a.)
 A_e0 = (Q, Σ, δ, [e0], F)
 where: 
 δ([e], a) = [$∂_w$ e0]，F = {[e] | [e] ∈ Q, ε∈ L(e)}
     * Weaker Equivalence Relation
       * Using a weaker relation &asymp; defined below instead of ≡, we can ensure that the equivalence classes remains finite, allowing for the construction of a DFA.  
- e1 +e2 &asymp; e2 +e1, (e1 + e2) + e3 &asymp; e1 + (e2 + e3), (e1 e2) e3 &asymp; e1(e2 e3), (e\UTF{2217})\UTF{2217} &asymp; e\UTF{2217}, e + e &asymp; e, e \UTF{2205} &asymp; \UTF{2205} e &asymp; \UTF{2205}, e ε &asymp; ε e &asymp; e, \UTF{2205} + e &asymp; e, ε\UTF{2217} &asymp; ε, \UTF{2205}\UTF{2217} &asymp; ε
+ e1 +e2 &asymp; e2 +e1, (e1 + e2) + e3 &asymp; e1 + (e2 + e3), (e1 e2) e3 &asymp; e1(e2 e3), (e*)* &asymp; e*, e + e &asymp; e, e &#8709; &asymp; &#8709; e &asymp; &#8709;, e ε &asymp; ε e &asymp; e, &#8709; + e &asymp; e, ε* &asymp; ε, &#8709;* &asymp; ε
 
 
 * Example
-To construct a DFA from the regular expression e = (0 + 1)\UTF{2217}00(0 + 1)\UTF{2217}: 
+To construct a DFA from the regular expression e = (0 + 1)*00(0 + 1)*: 
 
-Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] using the equivalence &asymp; mentioned above, where  a ={0, 1} and e0 = {e, e1 e2, e3}, resultion in 2 * 4 patterns.
+Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] using the equivalence &asymp; mentioned above, where  a ={0, 1} and e0 = {e, e1 e2, e3}, resultion in 2 $ \times $ 4 patterns.
 Define: 
-e1 = e + 0(0 + 1)\UTF{2217}, e2 = e1 +(0+1)\UTF{2217}, e3 = e+(0+1)\UTF{2217} 
+e1 = e + 0(0 + 1)*, e2 = e1 +(0+1)*, e3 = e+(0+1)*
 
 For exmple: 
-$∂_0$e &asymp; e+0(0+1)\UTF{2217} = e1,\\ 
+$∂_0$e &asymp; e+0(0+1)* = e1,\\ 
 $∂_1$e &asymp; e,\\
-$∂_0$e1 &asymp; e+0(0+1)$\UTF{2217}$ +(0+1)$\UTF{2217}$ = e2,\\
+$∂_0$e1 &asymp; e+0(0+1)*+(0+1)* = e2,\\
 $∂_1$e1 &asymp; e\\
 ...
 
