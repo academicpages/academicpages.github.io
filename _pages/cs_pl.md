@@ -37,7 +37,7 @@ $∂_a$  ε = &#8709;\\
 $∂_a$  b = &#8709;\\
 $∂_a$ (e1 e2) = ($∂_a$ e1) e2 + ν(e1)$∂_a$ e2 (← This is remarkably different from the typical differentiation of functions.)\\
 $∂_a$ (e1 + e2) = $∂_a$ e1 + $∂_a$ e2;\\
-$∂_a$ e * = ($∂_a$ e)e*\\
+$∂_a$ e\* = ($∂_a$ e)e\*\\
 
 Here, a,b ∈ Σ and a ≠ b
 
@@ -52,8 +52,8 @@ $∂_a$ e = e,\\
 $∂_{wa}$ e = $∂_a$ ($∂_w$ e)
 
 Example
-For e = xyza(b + c)* and w = "xyz", we have:
-$∂_wa$ e = (b +c)*
+For e = xyza(b + c)\* and w = "xyz", we have:
+$∂_wa$ e = (b +c)\*
 
 Language Described by $∂_w$ e
 ======
@@ -68,7 +68,7 @@ Constructing Automata Using Derivatives of Regular Expressions
   * Definition (Equivalence of Regular Expressions)
     * We write e1 ≡ e2 if L(e1) = L(e2). The relation ≡ divides expressions e into equivalence classes denoted by [e].
     * Example
-      * For instance, L((0+1)*) = L((0*1*)*) = {0, 1}*, hence (0+1)* ≡ (0*1*)*.
+      * For instance, L((0+1)\*) = L((0\*1\*)\*) = {0, 1}\*, hence (0+1)\* ≡ (0\*1*\)\*.
     * Here, the set Q = {[$∂_w$ e0]| w ∈ Σ*} becomes finite. We can construct a DFA A_e0 that accepts L(e0) by using these equivalence classes [$∂_w$ e0] as states. (This construction corresponds to reading character a from state e by differentiating e with a.)
 A_e0 = (Q, Σ, δ, [e0], F)
 where: 
@@ -79,24 +79,24 @@ where:
  e1 +e2 &asymp; e2 +e1,\\
  (e1 + e2) + e3 &asymp; e1 + (e2 + e3),\\
  (e1 e2) e3 &asymp; e1(e2 e3),\\
- (e*)* &asymp; e*,\\
+ (e\*)\* &asymp; e\*,\\
  e + e &asymp; e,\\
  e &#8709; &asymp; &#8709; e &asymp; &#8709;,\\
  e ε &asymp; ε e &asymp; e,\\
  &#8709; + e &asymp; e,\\
- ε* &asymp; ε,\\
- &#8709;* &asymp; ε
+ ε\* &asymp; ε,\\
+ &#8709;\* &asymp; ε
 
 
 * Example
-To construct a DFA from the regular expression e = (0 + 1)*00(0 + 1)*: 
+To construct a DFA from the regular expression e = (0 + 1)\*00(0 + 1)\*: 
 
 Firstly, to determine the set of states for the DFA, compute all [$∂_a$ e0] using the equivalence &asymp; mentioned above, where  a ={0, 1} and e0 = {e, e1 e2, e3}, resultion in 2 $ \times $ 4 patterns.
 Define: 
-e1 = e + 0(0 + 1)*, e2 = e1 +(0+1)*, e3 = e+(0+1)*
+e1 = e + 0(0 + 1)\*, e2 = e1 +(0+1)\*, e3 = e+(0+1)\*
 
 For example\\
-$∂_0$ e &asymp; e+0(0+1)* = e1,\\
+$∂_0$ e &asymp; e+0(0+1)\* = e1,\\
 $∂_1$ e &asymp; e,\\
 $∂_0$ e1 &asymp; e+0(0+1)\*+(0+1)\* = e2,\\
 $∂_1$ e1 &asymp; e\\
