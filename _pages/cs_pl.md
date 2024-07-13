@@ -47,7 +47,7 @@ The auxiliary function for the given regular expression ν(e) is defined as foll
 \end{cases} \]
 
 The derivative with respect to strings is extended as follows:\\
-$∂_a$ e = e,;\\
+$∂_a$ e = e,\\
 $∂_{wa}$ e = $∂_a$ ($∂_w$ e)
 
 Example
@@ -85,7 +85,7 @@ e1 = e + 0(0 + 1)\UTF{2217}, e2 = e1 +(0+1)\UTF{2217}, e3 = e+(0+1)\UTF{2217}
 For exmple: 
 $∂_0$e &asymp; e+0(0+1)\UTF{2217} = e1,\\ 
 $∂_1$e &asymp; e,\\
-$∂_0$e1 &asymp; e+0(0+1)\UTF{2217} +(0+1)\UTF{2217} =e2,\\
+$∂_0$e1 &asymp; e+0(0+1)$\UTF{2217}$ +(0+1)$\UTF{2217}$ = e2,\\
 $∂_1$e1 &asymp; e\\
 ...
 
