@@ -13,7 +13,7 @@ Hi! I'm an undergraduate student and researcher at the University of Washington.
 
 My research interests are broadly in the fields of machine learning and natural language processing. I'm especially passionate about Large Language Model includes LLM pruning and quantization and their applications in real world scenarios.
 
-Beside from research, I'm also member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the course [website](https://uwclassmate.com/)
+Beside from research, I'm also a member in [UWClassmates](https://uwclassmate.com/) technology group. We maintain and add new features for the UW courses [website](https://uwclassmate.com/)
 
 ## 🎓 Education
 - **University of Washington**, *2022 - 2026 (expected)*
