@@ -175,7 +175,9 @@ Reviewer for ISBI (2023)
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg&size=small"></script>
+<div style="width: 300px; height: 300px; margin: auto; position: relative;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
+</div>
 
 
 
