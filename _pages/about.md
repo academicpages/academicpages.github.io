@@ -180,34 +180,38 @@ Reviewer for ISBI (2023)
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Globe Map</title>
+    <title>Customized Globe</title>
     <style>
-        /* 设置容器样式 */
         #globe-container {
+            width: 300px; /* Adjust the width as needed */
+            height: 300px; /* Adjust the height as needed */
             position: relative;
-            width: 200px;  /* 设置宽度 */
-            height: 200px; /* 设置高度 */
-            margin: 0 auto; /* 居中对齐 */
-            border-radius: 50%; /* 使其成为圆形 */
-            overflow: hidden; /* 隐藏超出部分 */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影 */
-            background: #87CEEB; /* 设置地球蓝色背景 */
-            border: 2px solid #00BFFF; /* 添加边框以模拟大气层 */
         }
-        /* 设置globe样式 */
-        #globe-container iframe {
+        
+        #globe {
+            width: 100%;
+            height: 100%;
+            background: radial-gradient(circle at center, #3E92CC, #1D4E89);
+            border-radius: 50%;
+            overflow: hidden;
+        }
+        
+        .clustrmaps-widget {
             position: absolute;
-            top: -25%;
-            left: -25%;
-            width: 150%;
-            height: 150%;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
         }
     </style>
 </head>
 <body>
 
 <div id="globe-container">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
+    <div id="globe">
+        <div class="clustrmaps-widget">
+            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
+        </div>
+    </div>
 </div>
 
 </body>
