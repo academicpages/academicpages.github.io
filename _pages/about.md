@@ -175,6 +175,42 @@ Reviewer for ISBI (2023)
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Globe Map</title>
+    <style>
+        /* 设置容器样式 */
+        #globe-container {
+            position: relative;
+            width: 200px;  /* 设置宽度 */
+            height: 200px; /* 设置高度 */
+            margin: 0 auto; /* 居中对齐 */
+            border-radius: 50%; /* 使其成为圆形 */
+            overflow: hidden; /* 隐藏超出部分 */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影 */
+            background: #87CEEB; /* 设置地球蓝色背景 */
+            border: 2px solid #00BFFF; /* 添加边框以模拟大气层 */
+        }
+        /* 设置globe样式 */
+        #globe-container iframe {
+            position: absolute;
+            top: -25%;
+            left: -25%;
+            width: 150%;
+            height: 150%;
+        }
+    </style>
+</head>
+<body>
+
+<div id="globe-container">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
+</div>
+
+</body>
+</html>
 
 
