@@ -102,7 +102,7 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
     </div>
     <div style="flex: 1;">
       <h3>Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images</h3>
-      <p><span class="author-bold">Tianyang Wang</span>, Xi Long, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
+      Xi Long, <p><span class="author-bold">Tianyang Wang</span>, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
       <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span class="highlight">Under Review</span></em></p>
     </div>
 </div>
