@@ -175,46 +175,7 @@ Reviewer for ISBI (2023)
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Customized Globe</title>
-    <style>
-        #globe-container {
-            width: 300px; /* Adjust the width as needed */
-            height: 300px; /* Adjust the height as needed */
-            position: relative;
-        }
-        
-        #globe {
-            width: 100%;
-            height: 100%;
-            background: radial-gradient(circle at center, #3E92CC, #1D4E89);
-            border-radius: 50%;
-            overflow: hidden;
-        }
-        
-        .clustrmaps-widget {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-        }
-    </style>
-</head>
-<body>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg&size=small"></script>
 
-<div id="globe-container">
-    <div id="globe">
-        <div class="clustrmaps-widget">
-            <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
-        </div>
-    </div>
-</div>
-
-</body>
-</html>
 
 
