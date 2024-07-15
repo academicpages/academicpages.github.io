@@ -115,12 +115,12 @@ Research on Derivatives of Regular Expressions
 Appendix 1: The Definition of Regular Language using Finite Monoids and Homomorphisms
 ======
 This definition will be particularly useful for defining regular tree languages using finite algebras.
-~~~
+  * ~~~
 
 Appendix 2: History of Regular Expressions
 ======
 Key papers by McCulloch and Pitts, Kleene, and Thompson.
-~~~
+  * ~~~
 
 
 References
