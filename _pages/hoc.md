@@ -29,7 +29,7 @@ What is the History of Computing
 ======
 Everything has a history.
 
-~~I will write something here~~
+I will write something here~~
 
 The image below is not accurate, but it is roughly correct. 
 ![History of Computing](/images/hoc.png)
@@ -49,7 +49,6 @@ If you would like to know more, please check the link above.
 Introductory/Must-read Books and Papers
 ======
 * Journal: *IEEE Annals of the History of Computing*
-
 * *Computer: A History of the Information Machine* 『コンピューティング史：人間は情報をいかに取り扱ってきたか』，『コンピュータ200年史：情報マシーン開発物語』（後者は旧訳）
   * This is the most popular textbook that provides a comprehensive history of computing from 19C, before the advent of electronic computers, to the spread of personal computers and the use of the Internet in the modern era. An illustrated book was written based on this book.↓
     * Rachel Ignotofsky, *The History of the Computer: People, Inventions, and Technology that Changed Our World*『イラストで学ぶ　世界を変えたコンピュータの歴史』
@@ -66,6 +65,8 @@ Introductory/Must-read Books and Papers
 * Donald Knuth, "Let's Not Dumb Down the History of Computer Science" (2014)
   * [This movie](https://kailathlecture.stanford.edu/2014KailathLecture.html) will be useful.
 * Thomas Haigh, "The Tears of Donald Knuth"(2015)
+* Thomas Haigh, [Key Resources in the History of Computing](https://www.tomandmaria.com/Tom/Writing/ResourceFilePublished.pdf)
+* Thomas Haigh, [Tools and Methods in the History of Computing](https://www.tomandmaria.com/Tom/Resources/TeachingCS_files/v3_document.htm)
 
 Recommended Books and Papers (NB: I have not followed the latest research and the following is far from a complete list.)
 ======
@@ -86,9 +87,10 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
   * Valdez, Maria Eloina Pel\UTF{00E4}ez. “A Gift from Pandora’s Box: The Software Crisis”, PhD thesis, University of Edinburgh, 1988.
   * Thomas Haigh, “Software in the 1960s as Concept, Service, and Product”, IEEE Annals of the History of Computing, 24, no.1 (2002): 5-13.
   * Daylight, E.G., *The Dawn of Software Engineering: From Turing to Dijkstra. Lonely Scholar* (2012)
+  
 * Philosophy of Computing
   * "Philosophy of science without history of science is empty; history of science without philosophy of science is blind." (I. Lakatos, The methodology of scientific research programmes, Philosophical Papers, Vol. 1, 1978, p.102)
-  * 
+  * William J. Rapaport, *Philosophy of Computer Science: An Introduction to the Issues and the Literature*, 2023
   * Paul Humphreys, *Philosophical Papers*, 2018
     
 * Cybernetics
@@ -102,7 +104,7 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
 * History of Computer
   * Goldstine, Herman H. (1980). *The Computer from Pascal to von Neumann* 『計算機の歴史：パスカルからノイマンまで』（2016年に復刊）
   * Eames, Charles, and Ray Eames, ed. A Computer Perspective: Background to the Computer Age. Harvard University Press, 1990. 『コンピュータ・パースペクティブー計算機創造の軌跡』.
-    * Haigh, Thomas, Mark Priestley, and Crispin Rope, *ENIAC in Action: Making and Remaking the Modern Computer*, (2016) 『ENIAC』
+  * Haigh, Thomas, Mark Priestley, and Crispin Rope, *ENIAC in Action: Making and Remaking the Modern Computer*, (2016) 『ENIAC』
     
 * Military and Computing, History of Cryptography
   * Edwards, Paul N., The Closed World: Computers and the Politics of Discourse in Cold War America, Cambridge, MA: MIT Press, 1996.『クローズドワールド』.
@@ -168,7 +170,6 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
     * 日本でコンピューティング史をしている研究者大集結．
   * 『コンピュータ理論の起源[第１巻]：チューリング』
     * 第2巻はノイマンとのこと．
-  * 
   * 『コンピューティング史』巻末の杉本舞先生による「解題と読書リスト」をまず確認すると良いだろう．『科学史事典』や『Oxford数学史』や「科学史研究」も適宜参照すると良いかもしれない．
   
 Historians of Computing (partial)
@@ -222,7 +223,7 @@ In any field, it is important to know the researchers and what they do when begi
 
 Primary Source
 ======
-* Martin Davis, Undecidability: Basic Papers on Problems Propositions Unsolvable Problems and Computable Functions
+* Martin Davis, *Undecidability: Basic Papers on Problems Propositions Unsolvable Problems and Computable Functions*
 * 
 * Gottfried Wilhelm Leibniz, 
   * Machina arithmetica in qua non aditio tantum et subtractio sed et multiplicatio nullo, divisio vero paene nullo animi labore peragantur, 1685「加減乗除が楽にできる算術機械」
@@ -235,13 +236,11 @@ Useful Links
 ======
   * [Computer History Museum](https://computerhistory.org/)
   * [Table of contents for issues of IEEE Annals of the History of Computing](https://ftp.math.utah.edu/pub/tex/bib/toc/ieeeannhistcomput.html)
-  * 
   * [The Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
   * [ALAN TURING maintained by Andrew Hodges](https://www.turing.org.uk/sitemap.html)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
   * [Academician A. Ershov’s archive](http://ershov.iis.nsk.su/en/index)
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
-  * 
   * [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
 
 Others
