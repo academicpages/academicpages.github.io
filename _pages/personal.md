@@ -49,7 +49,7 @@ Books (mainly nonfiction) and Papers
 * Soseki Natsume, (1914), *My Individualism and the Philosophical Foundations of Literature*『私の個人主義』
 * G&ouml;del, Kurt. (1931), "&Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme I".
   * On Formally Undecidable Propositions of Principia Mathematica and Related Systems.
-  *
+  * 
     
 * Kleene, Stephen C. (1951), "Representation of Events in Nerve Nets and Finite Automata".
   * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
