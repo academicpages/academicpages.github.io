@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-- Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Kannan Raghunandan. Related Party Transactions and Audit Fees: Indian Evidence. *<u>Auditing: A Journal of Practice & Theory<u>*, Forthcoming
+- Narendra Nath Kushwaha, Abhinav Anand, M Jayadev, and Kannan Raghunandan. Related Party Transactions and Audit Fees: Indian Evidence. *<u>Auditing: A Journal of Practice & Theory</u>*, *Forthcoming*
 
 - Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. *<u>Operations Research Letters</u>*, 51, 47-53. (2023).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4287321)
