@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+- Kushwaha, Narendra Nath, Anand, Abhinav, Jayadev, M and Raghunandan, Kannan, Related Party Transactions and Audit Fees: Indian Evidence. *<u>Auditing: A Journal of Practice & Theory<u>*, *Forthcoming*
+
 - Abhinav Anand, Souvik Dutta and Prithwiraj Mukherjee. Platform Exploitation in the Sharing Economy. *<u>Operations Research Letters</u>*, 51, 47-53. (2023).
   - Preprint: [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4287321)
 - Abhinav Anand and Jalaj Pathak. The Role of Reddit in the GameStop Short Squeeze. *<u>Economics Letters</u>*, 211 (C), (2022).

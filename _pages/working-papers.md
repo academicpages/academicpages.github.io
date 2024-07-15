@@ -5,9 +5,7 @@ permalink: /working-papers/
 author_profile: true
 ---
 
-1. Related party transactions and audit fees: Indian evidence
-  - with Narendra Kushwaha, Jayadev M and Kannan Raghunandan
-  - Working paper link on SSRN: <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139071>
+
   
 2. Federal Reserve speeches and sovereign credit risk
   - with Hitesh Doshi, Ankit Kumar and Jalaj Pathak
