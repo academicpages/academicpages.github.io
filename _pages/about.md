@@ -9,11 +9,9 @@ redirect_from:
 
 I am Tianyang Wang, a third-year undergraduate specializing in computer vision at the [School of AI and Advanced Computing](https://www.xjtlu.edu.cn/en/study/departments/school-of-ai-and-advanced-computing), [Xi'an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My research interest includes medical image analysis and computer vision, and I am eager to further this work during my prospective PhD studies. I am currently advised by [Prof. Jingxin Liu](https://scholar.xjtlu.edu.cn/en/persons/JingxinLiu).
 
-
 I have been actively searching for the right mentor and project as I am very eager to continue my studies in this field. I would be truly grateful for the opportunity to collaborate with like-minded individuals. If you are interested, please feel free to drop me a message.😊 [Email](mailto:Tianyang.Wang21@student.xjtlu.edu.cn)
 
 ## Recent and Selected Publications
-
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
@@ -87,15 +85,12 @@ I have been actively searching for the right mentor and project as I am very eag
   }
 </style>
 
-
-
 <div class="card">
     <div style="flex: 1;">
       <h3>WaveBernDiff: Advancing Medical Image Segmentation with Wavelet-Integrated Bernoulli Diffusion</h3>
       <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="under-preparing">Under Preparing</span></em></p>
     </div>
 </div>
-
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
@@ -152,33 +147,86 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-# Academic Service
+## Academic Service
 
 Reviewer for ISBI (2023)
 
-
-# Selected Awards and Honors
-
+## Selected Awards and Honors
 
 <p>[2022-2023] University Academic Achievement Award (Top <span class="highlight">10%</span> in Xi’an Jiaotong-Liverpool University)</p>
 
-
-
-# Selected Patents
-
+## Selected Patents
 
 [Mar. 2024] Cell Membrane Image Unsupervised Segmentation Model Training Method
 
-
-# Research Internships
+## Research Internships
 
 [Jul. 2024 - present] REMOTE STUDENT INTERN at [Maizie Zhou Lab](https://lab.vanderbilt.edu/maizie-zhou-lab/), [Vanderbilt University](https://engineering.vanderbilt.edu/).
-
-
 
 <div style="width: 300px; height: 300px; margin: auto; position: relative;">
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=RwBqRq6xzq9lFA3r90Fgkra3GrzykxAwW96Cy8sSsYg"></script>
 </div>
 
+## Leave a Message
 
+<div id="message-form">
+  <h2>Leave a Message</h2>
+  <form action="https://formspree.io/f/{your_form_id}" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required>
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required>
+    
+    <label for="message">Message:</label>
+    <textarea id="message" name="message" rows="4" required></textarea>
+    
+    <button type="submit">Send Message</button>
+  </form>
+</div>
 
+<style>
+  #message-form {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    max-width: 600px;
+    margin: auto;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  #message-form h2 {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+  }
+  
+  #message-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+  }
+  
+  #message-form input, #message-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #message-form button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #message-form button:hover {
+    background-color: #0056b3;
+  }
+</style>
