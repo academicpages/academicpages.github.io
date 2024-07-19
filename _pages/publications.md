@@ -37,18 +37,18 @@ _Neural Information Processing Systems (NeurIPS), 2022_ \
 _International Conference on Machine Learning (ICML), 2022_ \
 **Long oral presentation, top 2% submissions** \
 **Outstanding Paper Award** \
-[[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/pdf/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
+[[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison), <a href="https://sanaelotfi.github.io/files/posters/LML_Poster_ICML_2022.pdf" target="_blank">poster</a>, [talk](https://slideslive.com/38983095/bayesian-model-selection-the-marginal-likelihood-and-generalization), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/LML_Sanae_Lotfi_ICML_2022.pdf" target="_blank">slides</a>]
 
 **[Dangers of Bayesian Model Averaging under Covariate Shift](https://arxiv.org/abs/2106.11905)** \
 Pavel Izmailov, Patrick Nicholson, **Sanae Lotfi**, Andrew Gordon Wilson \
 _Neural Information Processing Systems (NeurIPS), 2021_ \
-[[arxiv](https://arxiv.org/abs/2106.11905), [code](https://github.com/izmailovpavel/bnn_covariate_shift), <a href="https://sanaelotfi.github.io/pdf/posters/BMA_Dangers_Poster_NeurIPS_2021.pdf" target="_blank">poster</a>]
+[[arxiv](https://arxiv.org/abs/2106.11905), [code](https://github.com/izmailovpavel/bnn_covariate_shift), <a href="https://sanaelotfi.github.io/files/posters/BMA_Dangers_Poster_NeurIPS_2021.pdf" target="_blank">poster</a>]
 
 **[Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling](https://arxiv.org/abs/2102.13042)** \
 Gregory W. Benton, Wesley J. Maddox, **Sanae Lotfi**, Andrew Gordon Wilson \
 _International Conference on Machine Learning (ICML), 2021_ \
 **Spotlight Presentation** \
-[[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/pdf/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
+[[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
 
 **[Evaluating Approximate Inference in Bayesian Deep Learning](https://proceedings.mlr.press/v176/wilson22a/wilson22a.pdf)** \
 Andrew Gordon Wilson, **Sanae Lotfi**, Sharad Vikram, Matthew D. Hoffman, Yarin Gal, Yingzhen Li, Melanie F. Pradier, Andrew Foong, Sebastian Farquhar, Pavel Izmailov \
@@ -78,3 +78,13 @@ Polytechnique Montreal
 <sup>*</sup> denotes equal contribution. 
 
 You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile. 
+
+---
+### Surveys
+**<a href="https://sanaelotfi.github.io/files/project_reports/pac_bayes_bounds_survey.pdf" target="_blank">Understanding the Generalization of Deep Neural Networks through PAC-Bayes bounds </a>**\
+Andres Potapczynski, Sanae Lotfi, Anthony Chen, Chris Ick \
+Mathematics of Deep Learning, CS-GA 3033, Spring 2022
+
+**<a href="https://sanaelotfi.github.io/files/project_reports/causal_representation_learning_survey.pdf" target="_blank">Causal Representation Learning </a>**\
+Sanae Lotfi, Taro Makino, Lily Zhang \
+Inference and Representation, DS-GA 1005, Fall 2021
