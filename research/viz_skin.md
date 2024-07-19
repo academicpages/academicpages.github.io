@@ -4,6 +4,7 @@ collection: research
 permalink: /research/viz_skin
 citation: '<b>Mauricio Bucca</b>.'
 ---
+[[PDF]](https://journals.sagepub.com/doi/epub/10.1177/23780231241259656)
 
 
 ## Abstract
