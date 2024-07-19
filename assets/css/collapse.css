@@ -1,17 +1,17 @@
 .container {
-    width:100%;
+    width:90%;
     border:1px solid #d3d3d3;
 }
 .container div {
-    width:100%;
+    width:90%;
 }
 .container .header {
     background-color:#d3d3d3;
-    padding: 2px;
+    padding: 3px;
     cursor: pointer;
     font-weight: bold;
 }
 .container .content {
     display: none;
-    padding : 5px;
+    padding : 6px;
 }
