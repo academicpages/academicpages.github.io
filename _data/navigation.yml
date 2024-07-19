@@ -1,5 +1,6 @@
 # main links links
 main:
+
 - title: "Publications"
     url: /publications/
 
@@ -9,20 +10,11 @@ main:
 - title: "Awards"
    url: /awards/ 
 
- - title: "Service"
-   url: /Service/    
+- title: "Service"
+   url: /service/    
 
 - title: "Teaching"
-  url: /teaching/   
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
+   url: /teaching/ 
     
 - title: "CV"
-    url: https://sanaelotfi.github.io/files/cv/cv_sanae_lotfi.pdf
-    
- # - title: "Guide"
- #   url: /markdown/
+   url: https://sanaelotfi.github.io/files/cv/cv_sanae_lotfi.pdf
