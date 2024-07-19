@@ -15,6 +15,8 @@ Prior to NYU, I obtained a master’s degree in applied mathematics from Polytec
 
 In 2022-2023, I was fortunate to work with [Brandon Amos](http://bamos.github.io/) as a Visiting Researcher in the Fundamental AI Research (FAIR) group at Meta AI. I was also fortunate to work with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at Amazon as an Applied Scientist Intern in summer 2022.
 
+**You can contact me at sl8160[at]nyu[dot]edu**
+
 Recent News 
 ======
 
