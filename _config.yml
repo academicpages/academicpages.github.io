@@ -24,11 +24,11 @@ author:
   avatar           : "https://sanaelotfi.github.io/images/photo_SL.jpg"
   name             : "Sanae Lotfi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at NYU. I work on the foundations of deep learning."
+  bio              : "PhD candidate at NYU. I work on the foundations of deep learning. You can contact me at sl8160[at]nyu[dot]edu"
   location         : "New York, USA"
   employer         : "NYU, MSR NYC"
-  uri              : "https://sanaelotfi.github.io/"
-  email            : "sl8160@nyu.edy" 
+  uri              : # "https://sanaelotfi.github.io/"
+  email            : # "sl8160@nyu.edy" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
