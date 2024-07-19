@@ -15,7 +15,7 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 **You can contact me at sl8160[at]nyu[dot]edu**
 
-## Work Experience
+### Work Experience
 
 - I am currently interning at **Microsoft Research**, where I work with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/) to build novel methods for efficient large language model merging for mutli-task learning. 
   
@@ -24,7 +24,7 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 - In summer 2022, I worked with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at **Amazon** to understand and quantify distribution shift in time series.  
 
 
-## Recent News 
+### Recent News 
 
 - July 2024: I will be a keynote speaker at the [Machine Learning and Compression Workshop](https://neuralcompression.github.io/workshop24) @ NeurIPS 2024. 
 
