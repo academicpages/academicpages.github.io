@@ -21,13 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_SL.jpg"
+  avatar           : "https://sanaelotfi.github.io/images/photo_SL.jpg"
   name             : "Sanae Lotfi"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at New York University. I strive to provide a prescriptive understanding of deep learning and build robust models."
+  bio              : "PhD candidate at NYU. I work on the foundations of deep learning."
   location         : "New York, USA"
-  employer         : "New York University, MSR NYC"
-  uri              : # URL
+  employer         : "NYU, MSR NYC"
+  uri              : "https://sanaelotfi.github.io/"
   email            : "sl8160@nyu.edy" 
 
   # Academic websites
