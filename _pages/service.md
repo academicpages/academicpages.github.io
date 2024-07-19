@@ -34,6 +34,6 @@ author_profile: true
 ### Reviewing
 
 - Conferences: Neural Information Processing Systems (NeurIPS), International Conference on Machine Learning (ICML), International Conference on Learning Representations (ICLR), Conference on Machine Learning, Optimization, and Data Science (LOD)
-- Journals: Journal of Machine Learning Research (JMLR)
-- Workshops: NeurIPS 2023 Attributing Model Behavior at Scale Workshop, NeurIPS 2022 Women in Machine Learning Workshop - Area Chair, NeurIPS 2021 Bayesian Deep Learning Workshop, NeurIPS 2019 Women in Machine Learning Workshop
-- Competitions: NeurIPS 2023 Competition Track
+- Journals: Journal of Machine Learning Research (JMLR).
+- Workshops: NeurIPS 2023 Attributing Model Behavior at Scale Workshop, NeurIPS 2022 Women in Machine Learning Workshop - Area Chair, NeurIPS 2021 Bayesian Deep Learning Workshop, NeurIPS 2019 Women in Machine Learning Workshop.
+- Competitions: NeurIPS 2023 Competition Track.
