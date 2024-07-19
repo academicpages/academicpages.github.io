@@ -5,9 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile. 
-
-
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
@@ -18,10 +15,6 @@ _Under conference review._
 **Sanae Lotfi<sup>\*</sup>**, Marc Finzi<sup>\*</sup>, Yilun Kuang<sup>\*</sup>, Tim G. J. Rudner, Micah Goldblum, Andrew Gordon Wilson \
 _International Conference on Machine Learning (ICML), 2024_ \
 [[arxiv](https://arxiv.org/abs/2312.17173), [code](https://github.com/Sanaelotfi/sublora-bounds-for-llms)]
-
-**Mitigating Augmentation Bias with Input-Dependent Distributions over Augmentations** \
-**Sanae Lotfi**, Tim G. J. Rudner, Brandon Amos, Andrew Gordon Wilson \
-_Under review, soon on arxiv._ 
 
 **[Bayesian Model Selection, the Marginal Likelihood, and Generalization (Extended Paper)](https://arxiv.org/abs/2202.11678)** \
 **Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
@@ -78,3 +71,5 @@ _Master's Thesis, 2020_ \
 Polytechnique Montreal
 
 <sup>*</sup> denotes equal contribution. 
+
+You can also find my papers on <a href="{{site.author.googlescholar}}">my Google Scholar profile. 
