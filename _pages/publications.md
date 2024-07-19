@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<br>
-
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
