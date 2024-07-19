@@ -96,18 +96,18 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/Ynet.png" alt="Ynet">
     </div>
     <div style="flex: 1;">
       <h3>Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images</h3>
-      <p>Xi Long, <span class="author-bold">Tianyang Wang*</span>, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
+      <p><span class="author-bold">Xi Long*</span>, <span class="author-bold">Tianyang Wang*</span>, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
       <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span class="highlight">Under Review</span></em></p>
-      <p>* Co–first author</p>
+      <p><strong>* Co–first author</strong></p>
     </div>
 </div>
+
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
