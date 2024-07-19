@@ -7,7 +7,7 @@
 @font-face {
     font-family: 'Academicons';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 350;
     font-display: block;
     src:url('../fonts/academicons.eot');
     src:url('../fonts/academicons.eot') format('embedded-opentype'),
@@ -17,7 +17,7 @@
 }
 .ai {
   font-family: 'Academicons';
-  font-weight: 400;
+  font-weight: 350;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   display: inline-block;
