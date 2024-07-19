@@ -7,10 +7,10 @@ author_profile: true
 
 ### Organizing and Leadership 
 
-- Organizer of the Workshop on Scientific Methods for Understanding Neural Networks @ NeurIPS 2024. 
+- Organizer of the Scientific Methods for Understanding Neural Networks workshop @ NeurIPS 2024. 
 - Organizer of the [Muslims in ML affinity workshop](http://www.musiml.org/) @ NeurIPS 2023.
 - Leader of the Robustness of Deep Learning Models to Distribution Shift session @ WiML, ICML 2022. 
-- Organizer of the competition [Approximate Inference in Bayesian Deep Learning](https://izmailovpavel.github.io/neurips_bdl_competition/) @ NeurIPS 2021.
+- Organizer of the [Approximate Inference in Bayesian Deep Learning](https://izmailovpavel.github.io/neurips_bdl_competition/) competition @ NeurIPS 2021.
 
 ### Outreach and Volunteering
 
