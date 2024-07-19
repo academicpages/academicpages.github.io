@@ -8,7 +8,7 @@ author_profile: true
 **[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)** \
 **Sanae Lotfi<sup>\*</sup>**, Yilun Kuang<sup>\*</sup>, Brandon Amos, Micah Goldblum, Marc Finzi, Andrew Gordon Wilson \
 _ICML Workshop on Theoretical Foundations of Foundation Models, 2024_ \
-**Oral Presentation** 
+**Oral Presentation** \ 
 _Under conference review._ 
 
 **[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)** \
@@ -16,11 +16,16 @@ _Under conference review._
 _International Conference on Machine Learning (ICML), 2024_ \
 [[arxiv](https://arxiv.org/abs/2312.17173), [code](https://github.com/Sanaelotfi/sublora-bounds-for-llms)]
 
+
 **[Bayesian Model Selection, the Marginal Likelihood, and Generalization (Extended Paper)](https://arxiv.org/abs/2202.11678)** \
 **Sanae Lotfi**, Pavel Izmailov, Gregory Benton, Micah Goldblum, Andrew Gordon Wilson \
 _Journal of Machine Learning Research (JMLR), 2023_ \
 **Best Papers Track** \
 [[arxiv](https://arxiv.org/pdf/2202.11678.pdf), [code](https://github.com/Sanaelotfi/Bayesian_model_comparison)]
+
+**Mitigating Augmentation Bias with Input-Dependent Distributions over Augmentations** \
+**Sanae Lotfi**, Tim G. J. Rudner, Brandon Amos, Andrew Gordon Wilson \
+_Under review, soon on arxiv._ 
 
 **[PAC-Bayes Compression Bounds So Tight That They Can Explain Generalization](https://arxiv.org/abs/2211.13609)** \
 **Sanae Lotfi<sup>\*</sup>**, Marc Finzi<sup>\*</sup>, Sanyam Kapoor<sup>\*</sup>, Andres Potapczynski<sup>\*</sup>, Micah Goldblum, Andrew Gordon Wilson \
