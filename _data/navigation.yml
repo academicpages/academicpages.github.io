@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: github.com/sonanmemon/.web/tree/master/files/CV-SonanMemon-June-2024.pdf
+    url: /files/CV-SonanMemon-June-2024.pdf
 
   - title: "Research"
     url: /portfolio/    
