@@ -20,7 +20,7 @@ Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.i
 #myList {
     margin-bottom: 0;
 }
-#myList li:nth-child(n+6) {
+#myList li:nth-child(n+7) {
     display: none;
 }
 #more {
@@ -34,7 +34,7 @@ Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.i
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("more").addEventListener("click", function(){
-      var listItems = document.querySelectorAll('#myList li:nth-child(n+6)');
+      var listItems = document.querySelectorAll('#myList li:nth-child(n+7)');
       for(var i=0; i<listItems.length; i++){
         listItems[i].style.display = 'list-item';
       }
@@ -45,6 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <ul id="myList">
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
+  <li>06/2024: I am proud to be part of the <a href="https://www.youtube.com/watch?v=B9g2yhHs5Wg">Khoury Story</a>!</li>
   <li>04/2024: I will be returning to the Boston Dynamic AI Institute as a summer intern.</li>
   <li>09/2023: Our paper <a href="https://arxiv.org/pdf/2303.04745.pdf">A General Theory of Correct, Incorrect, and Extrinsic Equivariance</a> is accepted at NeurIPS 2023.</li>
   <li>07/2023: Recording of our <a href="https://sites.google.com/view/rss23-sym">Workshop on Symmetries in Robot Learning</a> is available <a href="https://www.youtube.com/watch?v=E2l16T0biu4">here</a>.</li>
@@ -353,8 +354,9 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 \* indicates equal contribution; <sup>†</sup> indicates equal advising.  
 
 ## Service
-Organizer: RSS2023 Workshop on Symmetries in Robot Learning  
-Reviewer: ICML 2024. ICLR 2023-2024. NeurIPS 2023. ICRA 2019, 2022-2024. CoRL 2022-2023. IROS 2021, 2023. RAL 2022-2024. T-RO 2022.
+Organizer: RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
+Reviewer: IJRR2024. ICML 2024. ICLR 2023-2024. NeurIPS 2023. ICRA 2019, 2022-2024. CoRL 2022-2024. IROS
+2021, 2023. RAL 2022-2024. T-RO 2022.
 
 ## Education
 + (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
