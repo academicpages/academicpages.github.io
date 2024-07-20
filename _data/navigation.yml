@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: https://sanaelotfi.github.io/files/cv/cv_sanae_lotfi.pdf
+    
   - title: "Publications"
     url: /publications/
 
@@ -14,6 +17,3 @@ main:
     
   - title: "Teaching"
     url: /teaching/
-    
-  - title: "CV"
-    url: https://sanaelotfi.github.io/files/cv/cv_sanae_lotfi.pdf
