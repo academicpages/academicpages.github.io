@@ -14,14 +14,14 @@ name                     : &name "SONAN MEMON"
 description              : &description "PhD Economics Student at University of Oregon."
 url                      : https://sonanmemon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sonanmemon/sonanmemon.github.io"
+repository               : "sonanmemon/.web"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/sonan-picture.jpg"
+  avatar           : "sonan-picture.jpg"
   name             : "S Memon" 
   bio              : "I am an aspiring macroeconomist."
   location         : "Eugene, Oregon, USA"
@@ -38,7 +38,7 @@ author:
 
   # Social media
  
-  twitter          : # @sonan_memon for X / Twitter
+  twitter          : @sonan_memon
 
 
 
