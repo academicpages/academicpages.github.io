@@ -21,7 +21,7 @@ repository               : "sonanmemon/.web"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sonan-picture.jpg"
+  avatar           : "https://github.com/sonanmemon/.web/tree/master/files/CV-SonanMemon-June-2024.pdf"
   name             : "S Memon" 
   bio              : "I am an aspiring macroeconomist."
   location         : "Eugene, Oregon, USA"
