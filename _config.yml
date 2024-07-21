@@ -45,7 +45,7 @@ author:
 
 
 # Site Settings
-teaser                   :  "500x300.png"
+#teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 130
 future                   : true
