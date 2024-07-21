@@ -14,7 +14,7 @@ My dissertation investigates the adoption and impact of technologies on small an
 
 Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.
 
-[[CV](https://houeix.github.io/files/DeivyHoueix_CV_June24.pdf)] [[Email](mailto:houeix@mit.edu)]
+[[CV](https://houeix.github.io/files/DeivyHoueix_CV_July24.pdf)] [[Email](mailto:houeix@mit.edu)]
 
 
 ## Working Papers
