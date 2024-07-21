@@ -3,18 +3,21 @@ main:
   - title: "Publications"
     url: /publications/  
 
+   - title: "CV"
+    url: /cv/
+
   - title: "Book Project"
     url: /bookproject/  
 
   - title: "Teaching"
     url: /teaching/    
-    
-  - title: "CV"
-    url: /cv/
   
   - title: "Datasets"
     url: /datasets/
     
   - title: "Resources"
     url: /resources/
+
+  - title: "Contact"
+    url: /contact/
     
