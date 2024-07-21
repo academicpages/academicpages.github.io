@@ -21,7 +21,7 @@ repository               : "ryputtam/ryputtam.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me_at_redwoods.jpg"
+  avatar           : "grad_pic.jpg"
   name             : "Rushya Puttam"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist"
