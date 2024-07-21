@@ -17,8 +17,11 @@
 }
 
 .page {
+  padding:0;
   @include breakpoint($large) {
     @include span(10 of 12 last);
+    @include prefix(0.5 of 12);
+    @include suffix(2 of 12);
   }
 
   .page__inner-wrap {
