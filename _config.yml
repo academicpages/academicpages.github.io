@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-x:
-  username               : &x "DeivyHoueix"
+twitter:
+  username               : &twitter "DeivyHoueix"
 facebook:
   username               :
   app_id                 :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  x                : *x
+  twitter          : "DeivyHoueix"
   vine             :
   weibo            :
   xing             :
