@@ -2,8 +2,7 @@
 main:
 
     
-  - title: "CV"
-    url: /cv/
+
     
   #- title: "Skills"
    # url: /markdown/
@@ -13,7 +12,10 @@ main:
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
+  - title: "CV"
+    url: /cv/
+
+  #- title: "Personal"
   #  url: /talks/    
 
   # - title: "Teaching"
