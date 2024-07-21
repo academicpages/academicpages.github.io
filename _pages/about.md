@@ -21,9 +21,9 @@ Over the past eight years, I have conducted research projects in Côte d'Ivoire,
 
 1. Digitalization and Within-Firm Contracts, *Draft Coming Soon*
 
-2. Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
+2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
 
-3. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
+3. Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
 4. Digital Access and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
 
