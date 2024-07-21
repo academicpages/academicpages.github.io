@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
+title: "Clustering Algorithsm from Scratch"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Clustering is one of the important algorithms in unsupervised learning of machine learning. This project aims to implement the clustering algorithms: k-means and k-means++ from scratch in pyspark.
+
+[Git Repository](https://github.com/ryputtam/Clustering-Algorithms-in-PySpark) 
