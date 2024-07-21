@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-👋 I am a PhD Economics Student at the University of Oregon, Eugene, Oregon, USA. 
+👋 I am a PhD Economics Student at the University of Oregon, Eugene, USA. 
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS (Lahore), Pakistan.
 
