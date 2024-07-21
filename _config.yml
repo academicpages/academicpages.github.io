@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SONAN MEMON"
+title                    : "S Memon's Homepage"
 title_separator          : "-"
-name                     : &name "SONAN MEMON"
-description              : &description "PhD Economics Student at University of Oregon."
+name                     : &name ""
+description              : &description "PhD Econ Student at UOregon, USA."
 url                      : https://sonanmemon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonanmemon/sonanmemon.github.io"
@@ -22,10 +22,10 @@ repository               : "sonanmemon/sonanmemon.github.io"
 author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
-  name             : "S Memon" 
-  bio              : "I am an aspiring macroeconomist."
+  name             : "Sonan Memon" 
+  bio              : "I am an aspiring macroeconomist, intersted in empirical anlaysis of monetary policy regimes and their transmission on inflation, inflation expectation formation through social learning and international supply chain networks."
   location         : "Eugene, Oregon, USA"
-  employer         : "Department of Economics, University of Oregon"
+  employer         : "Department of Economics, University of Oregon."
   uri              : https://socialsciences.uoregon.edu/economics
   email            : "smemon@uoregon.org" 
 
@@ -33,12 +33,14 @@ author:
  
   researchgate     : https://www.researchgate.net/profile/Sonan-Memon-2
 
+
   # Repositories and software development
   github           : "sonanmemon" 
 
   # Social media
  
-  twitter          : "Sonan Memon"
+  twitter          : Sonan Memon
+  linkedin         : https://www.linkedin.com/in/sonan-memon/
 
 
 
