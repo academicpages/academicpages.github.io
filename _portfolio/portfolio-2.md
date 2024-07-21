@@ -4,7 +4,7 @@ excerpt: "Association rules with Apriori algorithm
 <br/><img src='/images/AffinityAnalysis.png'>"
 collection: portfolio
 ---
-<div style="float: right; margin-left: 20px; width: 20%;">
+<div style="float: right; margin-left: 20px; width: 33%;">
     <img src='/images/AffinityAnalysis.png' style="width: 100%;display: block;">
 </div>
 
