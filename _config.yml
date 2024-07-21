@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
-  bio              : "I am an aspiring macroeconomist, interested in applied monetary policy, global supply chain networks and expectation driven business cycles."
+  bio              : "I am an aspiring macroeconomist."
   location         : "Eugene, Oregon, USA"
   employer         : "Department of Economics, University of Oregon."
   uri              : 
@@ -39,8 +39,8 @@ author:
 
   # Social media
  
-  twitter          : https://x.com/sonan_memon?s=09
-  linkedin         : https://pk.linkedin.com/in/sonan-memon
+  twitter          : sonan_memon?s=09
+  linkedin         : sonan-memon?_l=en_US
 
 
 
