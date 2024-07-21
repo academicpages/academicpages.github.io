@@ -25,15 +25,15 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 - July 2024: I'm co-organizing a workshop on _Scientific Methods for Understanding Neural Networks_ @ NeurIPS 2024. More details coming soon! 
 
-- June 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)_ got selected for an oral presentation at the [ICML Workshop on Theoretical Foundations of Foundation Models](https://sites.google.com/view/tf2m). 
+- June 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)_ got selected for an oral presentation at the ICML Workshop on Theoretical Foundations of Foundation Models. 
 
-- June 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at ML Collective. 
+- June 2024: I gave a talk on _Generalization Bounds for LLMs_ at ML Collective. 
 
 - June 2024: I started my summer internship at Microsoft Research NYC where I will be working on large language model merging for multi-task learning. 
 
 - May 2024: _[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)_ got accepted to ICML! 
 
-- May 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at Cohere for AI and UIUC ML Reading group.
+- May 2024: I gave a talk on _Generalization Bounds for LLMs_ at Cohere for AI and UIUC ML Reading group.
 
 ### Selected Publications  
 
