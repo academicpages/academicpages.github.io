@@ -13,7 +13,7 @@ My PhD research has been recognized with an [ICML Outstanding Paper Award](https
 
 I am currently interning at **Microsoft Research**, where I work with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/) to build novel methods for efficient large language model merging for mutli-task learning. In 2022-2023, I was a Visiting Researcher at **Meta FAIR**, where I worked with [Brandon Amos](http://bamos.github.io/) to derive generalization bounds for LLMs and understand the benefits of input-dependent augmentations in image classification. In summer 2022, I worked with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at **Amazon** to understand and quantify distribution shift in time series.  
 
-Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) at Polytechnique Montreal to design stochastic first and second-order algorithms with compelling theoretical and empirical properties for large-scale optimization. I was awarded the [Best Master's Thesis Award](https://www.gerad.ca/en/posts/903) for this work. 
+Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) to design stochastic first and second-order algorithms with compelling theoretical and empirical properties for large-scale optimization. I received the [Best Master's Thesis Award](https://www.gerad.ca/en/posts/903) for this work. 
 
  **I will graduate in Spring 2025 and will start looking for postdoc and research scientist positions in Fall 2024. Feel free to reach out if you see a fit!**
 
