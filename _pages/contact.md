@@ -3,12 +3,17 @@ layout: archive
 title: ""
 permalink: /contact/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-Ozlem Tuncel
+# CONTACT
+
+If you’d like to request a letter of recommendation or reference from me, [please click here for more information](/files/letters.pdf).
+
+## TO REACH ME
+
 otuncelgurlek1@gsu.edu
+
+## TO FIND ME
 
 Georgia State University Library
 Library South Research Data Services Suite 
