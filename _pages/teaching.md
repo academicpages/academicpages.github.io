@@ -8,9 +8,6 @@ author_profile: true
 ### Section Leader: Introduction to Data Science for PhD Students @ NYU, Fall 2021, 2023 & 2024
 - Prepared and delivered lab sessions, created assignments, graded assignments and class projects, and held office hours. 
 
-### Grader: Big Data @ NYU, Spring 2022 
-- Graded quizzes, assignments and class projects.  
-
 ### Teaching Assistant: Harnessing Quantum Matter Data Revolution Summer School, Summer 2021
 - Prepared and delivered hands-on sessions on density estimation methods, probabilistic PCA, and probabilistic modeling tools.
 
