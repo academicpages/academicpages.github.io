@@ -1,5 +1,5 @@
 ---
-title: "Tic-tac-toe"
+title: "Tic Tac Toe"
 excerpt: "Object Oriented Programming Refresher with tic-tac-toe game implementation in python"
 collection: portfolio
 ---
