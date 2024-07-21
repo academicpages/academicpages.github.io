@@ -40,12 +40,12 @@ author:
   # Social media
  
   twitter          : Sonan Memon
-  linkedin         : https://www.linkedin.com/in/sonan-memon/
+  linkedin         : Sonan Memon
 
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -91,7 +91,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &sonan_memon
+  username               : Sonan Memon
 
 
 
