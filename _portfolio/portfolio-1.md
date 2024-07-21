@@ -1,6 +1,7 @@
 ---
 title: "Clustering Algorithms Project"
-excerpt: "Implementation of kmeans and kmeans++ number 1<br/><img src='/images/clusteringg.jpg'>"
+excerpt: "Implementation of kmeans and kmeans++ 
+<br/><img src='/images/clustering.png'>"
 collection: portfolio
 ---
 
