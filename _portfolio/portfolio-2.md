@@ -1,7 +1,6 @@
 ---
 title: "Market Basket Analysis"
-excerpt: "Association rules with Apriori algorithm 
-<br/><img src='/images/AffinityAnalysis.png'>"
+excerpt: "Association rules with Apriori algorithm "
 collection: portfolio
 ---
 <div style="float: right; margin-left: 20px; width: 33%;">
