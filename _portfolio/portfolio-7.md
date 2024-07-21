@@ -4,14 +4,15 @@ excerpt: "An ever-evolving curated collection of concise code snippets and found
 collection: portfolio
 ---
 <div style="float: right; margin-left: 20px; width: 33%;">
-    <img src='/images/twordcloud.png' style="width: 100%;display: block;">
+    <img src='/images/wordcloud.png' style="width: 100%;display: block;">
 </div>
 
 
 As I continue my journey in the field of Data Science, I strive to document and replicate a diverse range of concepts. This repository serves as a valuable resource for my learning and growth. Currently, it includes:
 - PySpark code for data cleaning and manipulation
 - Lambda functions
-- *In Progres**: Logistic regression implementation using Spark MLlib
+- *In Progress*: Logistic regression implementation using Spark MLlib
+
 I look forward to expanding this collection with more insights and projects in the future!
 
 
