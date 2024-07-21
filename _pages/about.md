@@ -11,9 +11,9 @@ I am a PhD candidate at NYU advised by [Andrew Gordon Wilson](https://cims.nyu.e
 
 My PhD research has been recognized with an [ICML Outstanding Paper Award](https://icml.cc/virtual/2022/poster/17991) and is generously supported by the [Microsoft Research PhD Fellowship](https://nyudatascience.medium.com/cds-students-sanae-lotfi-and-lucius-bynum-receive-the-microsoft-research-phd-fellowship-63ce04660227), the [Google DeepMind Fellowship](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), and the Meta AI Mentorship Program. I was recently distinguished as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop) by the University of Maryland Center for Machine Learning.
 
-I am currently interning at **Microsoft Research**, where I work with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/) to build novel methods for efficient large language model merging for mutli-task learning. In 2022-2023, I was a Visiting Researcher at **Meta FAIR**, where I worked with [Brandon Amos](http://bamos.github.io/) to derive generalization bounds for large language models and understand the benefits of input-dependent augmentations in image classification. In summer 2022, I worked with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at **Amazon** to understand and quantify distribution shift in time series.  
+I am currently interning at **Microsoft Research**, where I work with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/) to build novel methods for efficient large language model merging for mutli-task learning. In 2022-2023, I was a Visiting Researcher at **Meta FAIR**, where I worked with [Brandon Amos](http://bamos.github.io/) to derive generalization bounds for LLMs and understand the benefits of input-dependent augmentations in image classification. In summer 2022, I worked with [Bernie Wang](http://web.mit.edu/~ywang02/www/) and [Richard Kurle](https://scholar.google.fr/citations?user=q2YBN34AAAAJ&hl=en) at **Amazon** to understand and quantify distribution shift in time series.  
 
-Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) at Polytechnique Montreal to design stochastic first and second-order algorithms with compelling theoretical and empirical properties for machine learning and large-scale optimization. I was awarded the [Best Master's Thesis Award](https://www.gerad.ca/en/posts/903) for this work. 
+Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea-lodi/) and [Dominique Orban](https://dpo.github.io/) at Polytechnique Montreal to design stochastic first and second-order algorithms with compelling theoretical and empirical properties for large-scale optimization. I was awarded the [Best Master's Thesis Award](https://www.gerad.ca/en/posts/903) for this work. 
 
  **I will graduate in Spring 2025 and will start looking for postdoc and research scientist positions in Fall 2024. Feel free to reach out if you see a fit!**
 
@@ -25,11 +25,11 @@ Prior to NYU, I worked with [Andrea Lodi](https://tech.cornell.edu/people/andrea
 
 - July 2024: I'm co-organizing a workshop on _Scientific Methods for Understanding Neural Networks_ @ NeurIPS 2024. More details coming soon! 
 
-- June 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)_ got selected for an oral presentation at the ICML Workshop on Theoretical Foundations of Foundation Models. 
+- June 2024: _[Unlocking Tokens as Data Points for Generalization Bounds on Larger Language Models](https://openreview.net/forum?id=cQWsTeTSkZ)_ got selected for an oral presentation at the [ICML Workshop on Theoretical Foundations of Foundation Models](https://sites.google.com/view/tf2m). 
 
 - June 2024: I gave a talk on _Non-Vacuous Generalization Bounds for Large Language Models_ at ML Collective. 
 
-- June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning with [Miro Dudik](https://www.microsoft.com/en-us/research/people/mdudik/) and [Jordan Ash](https://www.jordantash.com/). 
+- June 2024: I started my summer internship at Microsoft Research NYC, where I will be working on large language model merging for multi-task learning. 
 
 - May 2024: _[Non-Vacuous Generalization Bounds for Large Language Models](https://arxiv.org/abs/2312.17173)_ got accepted to ICML! 
 
