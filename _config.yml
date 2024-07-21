@@ -39,15 +39,15 @@ author:
 
   # Social media
  
-  twitter          : Sonan Memon
-  linkedin         : Sonan Memon
+  twitter          : https://x.com/sonan_memon?s=09
+  linkedin         : https://pk.linkedin.com/in/sonan-memon
 
 
 
 # Site Settings
 teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
+words_per_minute         : 130
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
