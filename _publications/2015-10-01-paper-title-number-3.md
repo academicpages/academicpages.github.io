@@ -1,13 +1,9 @@
 ---
-title: "Paper Title Number 3"
+title: "Inflation in Pakistan: High Frequency Estimation and Forecasting"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'I  begin  by  motivating  the  utility  of  high-frequency  inflation  estimation  and reviewing  recent  work  done  at  the  State  Bank  of  Pakistan  for  inflation  forecasting  and now-casting GDP using  machine  learning (ML) tools. I also present stylised factsabout the structure of historical and especially recent inflation trends in Pakistan. However, since the available data andalready used methods cannot achieve high-frequency  forecasting,  I  discuss  three  novel  techniques  from  recent  literature,  includingweb  scrapping, scanner  dataand synthetic  data.  Due  to  a  lack  of  access  to  Pakistan's scanner  and  web-scrapped  data,  I  generate  synthetic  data  using generative ML  models (Gaussian  Copula  and  PAR  models)  and numerical  analysis (cubic  spline  interpolation) methods. I use cubic splines to estimate the monthly inflation rate from quarterly data and unknown  high  frequency,  weekly  inflation  rate  from  actual  monthly  data.  Meanwhile,  I use  a  probabilistic  autoregressive  ML  model  to  forecast  future  short-run  inflation  for Pakistan from 2020 to 2023. I evaluate  the  accuracy  of  ML  forecasts  by  comparing  them  with  forecast  error variances  and  predictions  from  conventional  reduced  form  vector  autoregressive  models (VAR).'
+date: 2022-12-01
+venue: 'PIDE Working Papers'
+paperurl: 'https://pide.org.pk/wp-content/uploads/wp-0224-inf ... -and-forecasting.pdf'
+citation: 'Memon, S. (2022). Inflation in Pakistan: High-Frequency Estimation and Forecasting (No. 2022: 12). Pakistan Institute of Development Economics.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
