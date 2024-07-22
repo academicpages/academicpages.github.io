@@ -272,6 +272,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # articles
+  - scope:
+      path: ""
+      type: articles
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
 
 # Sass/SCSS
