@@ -21,7 +21,7 @@ repository               : "sanaelotfi/sanaelotfi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://sanaelotfi.github.io/images/photo_SL.jpg"
+  avatar           : "https://sanaelotfi.github.io/images/sanaelotfi.jpg"
   name             : "Sanae Lotfi"
   pronouns         : # example: "she/her"  
   bio              : "PhD candidate at NYU. I work on the foundations of deep learning."
