@@ -11,6 +11,8 @@ I am a Data Scientist at UnitedHealthcare. My work revolves around the marketing
 
 In my free time, I like exploring National Parks, playing badminton, crocheting and indulging in [photography](https://unsplash.com/@rputtam).
 
+Check out my work in the Portfolio and Blog sections.
+
 
 
 [//]: # (comment test - not visible)
