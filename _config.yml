@@ -212,6 +212,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  articles:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
