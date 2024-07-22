@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at UnitedHealthcare. My work revolves around the marketing analytics and member targeting using machine learning and statistical analysis. I am currently delving into the intricacies of  causal inference.
+I am a Data Scientist at UnitedHealthcare. My work revolves around marketing analytics and member targeting using machine learning and statistical analysis. I am currently delving into the complexities of experimentation and causal inference.
 
-In my free time, I like exploring National Parks, playing badminton, crocheting and indulging in [photography](https://unsplash.com/@rputtam).
+In my free time, I enjoy exploring National Parks, playing badminton, crocheting, and indulging in [photography](https://unsplash.com/@rputtam).
 
-Check out my work in the Portfolio and Blog sections.
+Check out my work in the Portfolio and Blog sections. Feel free to reach out if you're interested in collaborating on projects or research papers in the field of AI/ML!
 
 
 
