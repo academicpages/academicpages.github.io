@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at NYU advised by [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). I work on the foundations of deep learning and focus on understanding the generalization properties of deep neural networks using notions that relate to generalization such as model compression, the marginal likelihood, and PAC-Bayes bounds. Using insights about generalization, my goal is to build more robust and reliable machine learning models. 
+I am a PhD candidate at NYU advised by [Andrew Gordon Wilson](https://cims.nyu.edu/~andrewgw/). I work on the foundations of deep learning and focus on understanding the generalization properties of deep neural networks using notions that relate to generalization such as model compression, the marginal likelihood, PAC-Bayes bounds, and loss surface analysis. Using insights about generalization, my goal is to build more robust and reliable machine learning models. 
 
 My PhD research has been recognized with an [ICML Outstanding Paper Award](https://icml.cc/virtual/2022/poster/17991) and is generously supported by the [Microsoft Research PhD Fellowship](https://nyudatascience.medium.com/cds-students-sanae-lotfi-and-lucius-bynum-receive-the-microsoft-research-phd-fellowship-63ce04660227), the [Google DeepMind Fellowship](https://nyudatascience.medium.com/deepmind-fellow-profile-sanae-lotfi-9197c0c5fb94), and the Meta AI Mentorship Program. I was recently distinguished as a [Rising Star in Machine Learning](https://ml.umd.edu/rising-stars-workshop) by the University of Maryland Center for Machine Learning.
 
