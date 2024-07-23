@@ -23,8 +23,9 @@ My research interests include
 
 # News
 ### 2024
-- ✈️ [July 2024] Attending [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria
-- 🎤 [June 2024] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [Tissue Image Analytics (TIA) seminar (University of Warwick)](https://valentyn1997.github.io/talks/2024-06-24-talk-tia-seminar/)
+- ✈️ [Jul 2024] Attending [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria
+- 🧘‍ [Jul 2024] Attending [relAI retreat 2024](https://zuseschoolrelai.de/relai-retreat-2024/) & presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' in Miesbach, Germany 
+- 🎤 [Jun 2024] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [Tissue Image Analytics (TIA) seminar (University of Warwick)](https://valentyn1997.github.io/talks/2024-06-24-talk-tia-seminar/)
 - ✈️ [May 2024] Attending [ICLR 2024](https://iclr.cc/Conferences/2024) in Vienna, Austria
 - 📙 [May 2024] 1 paper accepted at ICML 2024: [Fair Off-Policy Learning from Observational Data](https://valentyn1997.github.io/publications/2024-05-01-fair-off-policy-learning-from-observational-data/)
 - 📙 [Apr 2024] A paper published in Nature Medicine: [Causal Machine Learning for Predicting Treatment Outcomes](https://valentyn1997.github.io/publications/2024-04-19-causal-machine-learning-for-predicting-treatment-outcomes/)
