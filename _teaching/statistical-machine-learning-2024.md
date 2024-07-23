@@ -22,4 +22,7 @@ The lecture notes of this course and correspondng code for each lecture is provi
 | Lecture 7: Nonlinear Dimensionality Reduction         | [Note](/files/statistical-machine-learning-2024/lec7.pdf)   | [Nonlinear Dimensionality Reduction](/files/statistical-machine-learning-2024/lab6_nonlinear_dimensionality_reduction.ipynb)                          |
 | Lecture 8: Clustering and Typical Methods             | [Note](/files/statistical-machine-learning-2024/lec8.pdf)   | [Code](/files/statistical-machine-learning-2024/lec8.ipynb)|
 | Lecture 9: Gaussian Mixture Models and EM Algorithm   | [Note](/files/statistical-machine-learning-2024/lec9.pdf)   | [Code](/files/statistical-machine-learning-2024/lec9.ipynb)|
-| Lecture 10: Bayesian GMM and Non-parametric Clustering   | [Note](/files/statistical-machine-learning-2024/lec10.pdf)   | [Code](/files/statistical-machine-learning-2024/lec10.ipynb)
+| Lecture 10: Non-parametric Clustering   | [Note](/files/statistical-machine-learning-2024/lec10.pdf)   | [Code](/files/statistical-machine-learning-2024/lec10.ipynb)
+| Lecture 11: Introduction to Classification   | [Note](/files/statistical-machine-learning-2024/lec11.pdf)   | [Code](/files/statistical-machine-learning-2024/lec11.ipynb)
+| Lecture 12: Support Vector Machine   | [Note](/files/statistical-machine-learning-2024/lec12.pdf)   | [Code](/files/statistical-machine-learning-2024/lec12.ipynb)
+| Lecture 13: Decision Tree and Ensemble Learning  | [Note](/files/statistical-machine-learning-2024/lec13.pdf)   | [Code](/files/statistical-machine-learning-2024/lec13.ipynb)
