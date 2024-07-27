@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /louiszengCN.github.io/_pages/about.md/
 title: "Biography"
 author_profile: true
 redirect_from: 
