@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a final-year master's student in Robotics at the University of Leeds, under the supervision of [Prof. Pietro Valdastri](https://scholar.google.co.uk/citations?hl=zh-CN&user=jFBao_MAAAAJ) and [Prof. Dominic Jones](https://scholar.google.co.uk/citations?hl=zh-CN&user=uCA2FIMAAAAJ). My research is conducted within the [STORMLAB](https://www.stormlabuk.com/). This is a dual master's degree program funded by CSC(China Scholarship Council), and I am also a second-year master's student at China University of Mining and Technology Beijing, supervised by [Prof. Dengke He](https://dcxy.cumtb.edu.cn/info/1011/2117.htm) and [Prof. Suping Peng](https://crsm.cumtb.edu.cn/info/1044/1187.htm). Here is the [link](https://skl.cumt.edu.cn/) to my research group.
+I received my Bachelor's degree in Electronic Information Science and Technology from South China Agricultural University.
+<span style="color:red">I will graduate in 2025 and am currently seeking a Ph.D. position starting in the fall of 2025.</span>
 
 A data-driven personal website
 ======
