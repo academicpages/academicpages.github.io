@@ -1,11 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Qahwah & Network"
@@ -20,11 +12,8 @@ repository               : "qahwork.github.io/"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "QahWork"
-  #pronouns         : # example: "she/her"  
-  #bio              : "Short biography for the left-hand sidebar"
   location         : "South Korea"
   #employer         : "Red Brick University"
   #uri              : # URL
@@ -69,10 +58,7 @@ author:
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
-  xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
-
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
