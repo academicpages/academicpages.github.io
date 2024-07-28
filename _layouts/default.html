@@ -18,6 +18,18 @@ layout: compress
 
     {{ content }}
 
+    <section id="blog-posts">
+      <h2>Blog Posts</h2>
+      <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+            <p>{{ post.excerpt }}</p>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
