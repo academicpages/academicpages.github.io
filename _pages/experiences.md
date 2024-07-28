@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * Sep. 2023 -- Present. Staff MLE, Search Ads @ Baidu Inc.   
-Working on developing large language models to build the next-generation of Baidu's search ads system.
+Working on developing large language models to build Baidu's next-generation search ads system.
 
 * Jul. 2021 -- Sep. 2023. Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
 Worked on large-scale retrieval, ranking and generation models to improve ad revenue.  
