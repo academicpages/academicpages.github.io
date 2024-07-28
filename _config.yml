@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_1802 2.png"
+  avatar           : "profile_pic.png"
   name             : "Gabriel Saco" 
   pronouns         : # example: "she/her"  
   bio              : "Economics - Machine Learning - Data Science - Finance"
