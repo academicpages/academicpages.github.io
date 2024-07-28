@@ -22,7 +22,7 @@ News
 =====
 * Aug. 2023: [Ranking] Our paper about *multi-scenario pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
 * May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning for brand advertising was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
-* Apr. 2023: [Ranking] A first-authored resource paper about *vertical federated learning* benchmark for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a>   
+* Apr. 2023: [Ranking] A first-authored paper about *vertical federated learning* benchmark and diffusion-based feature synthesis for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a>   
 * Jan. 2023: [Retrieval] A co-first authored paper about *hypergraph neural networks* for ad retrieval was accepted at WWW 2023. <a href="https://arxiv.org/pdf/2211.11191.pdf" target="_blank">[Paper]</a>     
 * Aug. 2022: [Ranking] A corresponding authored paper about *multi-scenario ad ranking* was accepted at CIKM 2022. <a href="https://arxiv.org/pdf/2206.13108.pdf" target="_blank">[Paper]</a>   
 * Apr. 2022: [Creative] Two first-authored papers about *personalized ad creative generation* were accepted at NAACL 2022 and SIGIR 2022. <a href="https://arxiv.org/pdf/2205.08943.pdf" target="_blank">[Paper1]</a> <a href="https://arxiv.org/pdf/2205.14970.pdf" target="_blank">[Paper2]</a>     
@@ -36,7 +36,7 @@ Experience and Education
 **[Experience](experience/)**  
 
 * **Sep. 2023 -- Present.** Staff MLE, Search Ads @ Baidu Inc.   
-Working on developing large language models to build the next-generation of Baidu's search ads system.
+Working on developing large language models to build Baidu's next-generation search ads system.
 
 * **Jul. 2021 -- Sep. 2023.** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
 Worked on large-scale retrieval, ranking and generation models to improve ad revenue.    
