@@ -1,6 +1,6 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
+title: 'Sample'
+date: 2024-07-28
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
