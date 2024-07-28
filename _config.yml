@@ -1,4 +1,5 @@
 # Basic Site Settings
+show_blog_on_home: true
 locale                   : "en-US"
 title                    : "Qahwah & Network"
 title_separator          : "-"
