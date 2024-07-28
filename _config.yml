@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "Lima, Peru"
+title                    : "My academic website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gabriel Saco"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/IMG_1802 2.jpg"
+  name             : "Gabriel Saco"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Lima, Perú" 
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
