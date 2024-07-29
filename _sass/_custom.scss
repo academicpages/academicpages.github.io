@@ -1,0 +1,39 @@
+.profile-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.profile-picture {
+  margin-bottom: 15px;
+  flex: 1 1 350px;
+}
+.profile-picture img {
+  width: 100%;
+  max-width: 350px;
+  height: auto;
+  margin-right: 15px;
+}
+.profile-text {
+  flex: 1 1 300px;
+}
+.profile-info {
+  text-align: center;
+  margin-top: 15px;
+}
+/* Media Queries for Responsive Design */
+@media (max-width: 768px) {
+  .profile-container {
+    flex-direction: column;
+  }
+  .profile-picture {
+    order: -1; /* Moves the picture to appear first */
+    margin-right: 0;
+    margin-bottom: 15px; /* Adds space below the picture */
+  }
+  .profile-info {
+    margin-top: 20px;
+  }
+  .profile-text {
+    margin-top: 15px; /* Adds space above the text */
+  }
+}
