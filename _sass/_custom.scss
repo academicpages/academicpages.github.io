@@ -2,20 +2,21 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  width: 100%; /* Ensure container takes full width */
+  width: 100%;
 }
 .profile-picture {
+  flex: 0 0 auto; /* Prevent image from stretching */
   margin-bottom: 15px;
-  flex: 1 1 320px;
 }
 .profile-picture img {
   width: 100%;
   max-width: 320px;
   height: auto;
-  margin-right: 25px; /* Default margin for desktop */
+  margin-right: 15px; /* Default margin for desktop */
 }
 .profile-text {
   flex: 1;
+  width: calc(100% - 320px); /* Ensures the text takes the remaining space */
 }
 .profile-info {
   text-align: center;
@@ -25,7 +26,7 @@
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column;
-    align-items: flex-start; /* Ensure items align to the start */
+    align-items: flex-start; /* Align items to the start on mobile */
   }
   .profile-picture {
     order: -1;
@@ -37,7 +38,7 @@
   }
   .profile-text {
     margin-top: 0; /* Removes extra space above the text */
-    width: 100%; /* Ensure text takes full width */
+    width: 100%; /* Ensures text takes full width on mobile */
   }
   .profile-info {
     margin-top: 20px;
