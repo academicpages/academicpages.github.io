@@ -15,11 +15,11 @@ main:
   #- title: "Portfolio"
   #  url: /year-archive/
         
-  - title: "Blog (Maintenance)"
-    url: /
+#   - title: "Blog (Maintenance)"
+#     url: /
     
   - title: "CV"
     url: /cv/
     
-  - title: "Notes"
-    url: https://notes.scriptr.dev/
+#   - title: "Notes"
+#     url: https://notes.scriptr.dev/
