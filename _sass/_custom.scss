@@ -5,16 +5,16 @@
 }
 .profile-picture {
   margin-bottom: 15px;
-  flex: 1 1 350px;
+  flex: 1 1 320px;
 }
 .profile-picture img {
   width: 100%;
-  max-width: 350px;
+  max-width: 320px;
   height: auto;
-  margin-right: 15px;
+  margin-right: 25px;
 }
 .profile-text {
-  flex: 1 1 300px;
+  flex: 1;
 }
 .profile-info {
   text-align: center;
@@ -26,7 +26,7 @@
     flex-direction: column;
   }
   .profile-picture {
-    order: -1; /* Moves the picture to appear first */
+    order: -1;
     margin-right: 0;
     margin-bottom: 15px; /* Adds space below the picture */
   }
