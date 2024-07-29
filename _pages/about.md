@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a final-year Ph.D. student at the [Department of Computer Science, Emory University](https://www.cs.emory.edu/home/), where I am fortunate to be advised by Dr. [Liang Zhao](https://cs.emory.edu/~lzhao41/). Previously, I received my master's degree in Statistics from George Washington University in 2020. I received my bachelor's degree in Mathematics from the [School of Mathematical Science, Fudan University](https://math.fudan.edu.cn/) in Shanghai, China in 2018. I worked as a research intern at [Argonne National Laboratory](https://www.anl.gov/) and  [NEC Lab America](https://www.nec-labs.com/).
 
-**<span style="color:blue">I am actively looking for applied scientist and machine learning engineer positions starting in 2025. Please feel free to DM me on [LinkedIn](https://www.linkedin.com/).</span>**
+![highlight](https://img.shields.io/badge/Notice-Important-blue) **I am actively looking for applied scientist and machine learning engineer positions starting in 2025. Please feel free to DM me on [LinkedIn](https://www.linkedin.com/).**
 
 Research Interests
 ======
