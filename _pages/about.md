@@ -37,5 +37,5 @@ I am also particularly excited about learning the [Rust programming language][ru
 [psf]: https://www.python.org/psf
 [pypi]: https://pypi.org
 [pycon]: https://pycon.org
-[pydotorg]]: https://python.org
+[pydotorg]: https://python.org
 [rust]: https://www.rust-lang.org/
