@@ -10,6 +10,6 @@ author_profile: true
 - Microsoft Research PhD Fellowship, 2023-2025
 - Outstanding Paper Award at ICML, 2022
 - Google DeepMind Fellowship, 2021
-- Several Travel Awards: ICML 2023, NeurIPS 2022, ICML 2022 
+- Several Travel Awards: NeurIPS 2023, ICML 2023, NeurIPS 2022, ICML 2022 
 - McKinsey First Generation Achievement Award, 2020
 - Best Master’s Thesis Award, 2020 
