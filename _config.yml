@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jacob Coffee"
   avatar           : "profile.jpg"
-  bio              : "Senior Linux Systems Administrator - Retail DevOps. Student of Computer Science specializing in Distributed Systems, Cloud Computing, and Automation."
+  bio              : "Infrastructure Engineer. Perpetual Computer Science Student."
   location         : "Birmingham, AL"
-  employer         :
+  employer         : "https://www.python.org/psf-landing/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
