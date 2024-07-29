@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/2024-07-29-this-is-a-test/index.html",
+    "href": "posts/2024-07-29-this-is-a-test/index.html",
+    "title": "This is a test",
+    "section": "",
+    "text": "I am trying to use quarto to generate a new personal website, including a personal blog. The idea is using this to replace my current github pages personal page - quarto is a tool that I understand way better than the complex template I am currently using, and being able to write it all in markdown would be a blessing.\nEven more, I am looking forward to having a space to write a personal blog, with minimal fuss - no CMS, no complex dependencies. Just write markdown, render, push. Heck, I might even just write markdown and push, and use a github action to do the rendering.\nFor now, this lives in a separate repo, while I iron out things and try to make it look nice(r)."
+  },
+  {
+    "objectID": "posts/2024-07-29-this-is-a-test/index.html#what-am-i-testing",
+    "href": "posts/2024-07-29-this-is-a-test/index.html#what-am-i-testing",
+    "title": "This is a test",
+    "section": "",
+    "text": "I am trying to use quarto to generate a new personal website, including a personal blog. The idea is using this to replace my current github pages personal page - quarto is a tool that I understand way better than the complex template I am currently using, and being able to write it all in markdown would be a blessing.\nEven more, I am looking forward to having a space to write a personal blog, with minimal fuss - no CMS, no complex dependencies. Just write markdown, render, push. Heck, I might even just write markdown and push, and use a github action to do the rendering.\nFor now, this lives in a separate repo, while I iron out things and try to make it look nice(r)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Erick Martins Ratamero, Ph.D.",
+    "section": "",
+    "text": "I manage the Imaging Applications team at The Jackson Laboratory, working in the Research IT department. My expertise is in microscopy data analysis and management, with my previous life being the data person at CAMDU."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "This is a test\n\n\n\nQuarto\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nErick Ratamero\n\n\nJul 29, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

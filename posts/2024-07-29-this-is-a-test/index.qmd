@@ -1,0 +1,23 @@
+---
+title: "This is a test"
+description: "blog post description (appears underneath the title in smaller text) which is included on the listing page"
+author:
+  - name: Erick Ratamero
+    url: https://erickmartins.github.io/
+    orcid: 0000-0002-7545-3675
+    affiliation: The Jackson Laboratory
+    affiliation-url: https://jax.org/ 
+date: 2024-07-29
+categories: [Quarto] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# This is a test
+
+## what am I testing?
+
+I am trying to use [quarto](https://quarto.org) to generate a new personal website, including a personal blog. The idea is using this to replace my current github pages [personal page](https://erickmartins.github.io) - quarto is a tool that I understand way better than the complex template I am currently using, and being able to write it all in markdown would be a blessing.
+
+Even more, I am looking forward to having a space to write a personal blog, with minimal fuss - no CMS, no complex dependencies. Just write markdown, render, push. Heck, I might even just write markdown and push, and use a github action to do the rendering.
+
+For now, this lives in a separate repo, while I iron out things and try to make it look nice(r). 

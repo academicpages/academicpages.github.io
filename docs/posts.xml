@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Erick Martins Ratamero, Ph.D.</title>
+<link>https://erickmartins.github.io/posts.html</link>
+<atom:link href="https://erickmartins.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Erick Ratamero&#39;s blog</description>
+<generator>quarto-1.5.53</generator>
+<lastBuildDate>Mon, 29 Jul 2024 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>This is a test</title>
+  <dc:creator>Erick Ratamero</dc:creator>
+  <link>https://erickmartins.github.io/posts/2024-07-29-this-is-a-test/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="this-is-a-test" class="level1">
+<h1>This is a test</h1>
+<section id="what-am-i-testing" class="level2">
+<h2 class="anchored" data-anchor-id="what-am-i-testing">what am I testing?</h2>
+<p>I am trying to use <a href="https://quarto.org">quarto</a> to generate a new personal website, including a personal blog. The idea is using this to replace my current github pages <a href="https://erickmartins.github.io">personal page</a> - quarto is a tool that I understand way better than the complex template I am currently using, and being able to write it all in markdown would be a blessing.</p>
+<p>Even more, I am looking forward to having a space to write a personal blog, with minimal fuss - no CMS, no complex dependencies. Just write markdown, render, push. Heck, I might even just write markdown and push, and use a github action to do the rendering.</p>
+<p>For now, this lives in a separate repo, while I iron out things and try to make it look nice(r).</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>Quarto</category>
+  <guid>https://erickmartins.github.io/posts/2024-07-29-this-is-a-test/</guid>
+  <pubDate>Mon, 29 Jul 2024 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>OME Community Meeting 2024 round-up</title>
+  <dc:creator>Erick Ratamero</dc:creator>
+  <link>https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<section id="ome-community-meeting-2024---what-happened-there" class="level1">
+<h1>OME Community Meeting 2024 - what happened there?</h1>
+<p>So as a first real blogpost I decided it was a good idea to write a quick recap/summary of what happened during the <a href="https://www.openmicroscopy.org/events/ome-community-meeting-2024/">OME 2024 Community Meeting</a> - it’s both a pretty easy write for me and potentially helpful for other folks out there.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="PXL_20240529_073549219.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Did you know there’s a Lemmings statue in Dundee?"><img src="https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/PXL_20240529_073549219.jpg" class="img-fluid figure-img" alt="Did you know there’s a Lemmings statue in Dundee?"></a></p>
+<figcaption>Did you know there’s a Lemmings statue in Dundee?</figcaption>
+</figure>
+</div>
+<section id="so-what-is-this-meeting" class="level2">
+<h2 class="anchored" data-anchor-id="so-what-is-this-meeting">So what is this meeting?</h2>
+<p>Probably a good place to start is explaining <a href="https://www.openmicroscopy.org/index.html">OME</a> - according to themselves,</p>
+<blockquote class="blockquote">
+<p>a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data.</p>
+</blockquote>
+<p>In practice, it’s a community of like-minded tool developers who write things that are 1) open-source; 2) dealing with microscopy data; 3) uses the <a href="https://ome-model.readthedocs.io/en/stable/">OME data model</a> to some degree - and the users of such tools. In the past (i.e.&nbsp;pre-pandemic), this was a relatively large meeting (100-200 people is my guess?), with lots of end-users presenting their use cases.</p>
+<p>Post-pandemic, this survived in a kinda-barebones, virtual-only format for a few years, until May this year, when we finally managed to meet in person again, in lovely Dundee, Scotland. Even better, I was invited to give a talk! (for the record, this is the second time ever I had an proper invited talk, and the first time I managed to be there to actually give it.). Though much smaller than previous meetings (attendance was around 45 people), most of the big names are core developers were there.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="PXL_20240528_100142225.PANO.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="the day before the conference, I climbed a hill"><img src="https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/PXL_20240528_100142225.PANO.jpg" class="img-fluid figure-img" alt="the day before the conference, I climbed a hill"></a></p>
+<figcaption>the day before the conference, I climbed a hill</figcaption>
+</figure>
+</div>
+</section>
+<section id="now-a-quick-recap-per-day" class="level2">
+<h2 class="anchored" data-anchor-id="now-a-quick-recap-per-day">Now a quick recap per day</h2>
+<section id="day-0-speakers-dinner" class="level3">
+<h3 class="anchored" data-anchor-id="day-0-speakers-dinner">Day 0: speakers’ dinner</h3>
+<p>So the day before the actual meeting, the people giving invited talks had the chance to have dinner together - it’s the kind of informal opportunity to network and enjoy each other’s company that is really hard to replicate virtually, and after 5 years without in-person meetings, it was great to see many familiar faces! We also had a LOT of tapas. I did not take pictures, so you’ll have to believe me.</p>
+</section>
+<section id="day-1-bioimage-data-resources-and-community" class="level3">
+<h3 class="anchored" data-anchor-id="day-1-bioimage-data-resources-and-community">Day 1: BioImage Data Resources and Community</h3>
+<p>This was the main “conference day” - invited talks from all over the world, about how institutions and cross-institutional entities are involved in the OME ecosystem. This is where we (i.e.&nbsp;The Jackson Laboratory folks) gave our invited talk, and essential projects around OME (such as <a href="https://www.openmicroscopy.org/bio-formats/">Bio-formats</a> and the <a href="https://idr.openmicroscopy.org/">IDR</a> gave community updates.</p>
+<p>The big takeaway in my opinion was that large national entities, such as German Bioimaging, France Bioimaging and NL-Bioimaging, are deeptly invested in OME. Similarly, large public data repositories also rely heavily on the tools the data models of the OME environment; not only the IDR, but also things like the Bioimage Archive and SSBD. These entities have a mix of either centralized and distributed infrastructure, and very different ideas for what metadata standards should look like, making harmonization between these disparate cases pretty hard.</p>
+<p>Still, some common themes have emerged, such as the <em>desire</em> to have common metadata standards, and a convergence towards using OME-Zarr as the file format for the future. We are seeing, for example, multiple efforts for processing OME-Zarr using Slurm/HPC have emerged (such as the awesome <a href="https://fractal-analytics-platform.github.io/">Fractal</a>). The day ended with very good food (you’ll start to sense a theme here) at <a href="https://www.dca.org.uk/experience-dca/eat-and-drink-at-jute/">Dundee Contemporary Arts</a>.</p>
+</section>
+<section id="day-2-training-on-omero-and-workshops" class="level3">
+<h3 class="anchored" data-anchor-id="day-2-training-on-omero-and-workshops">Day 2: Training on OMERO and Workshops</h3>
+<p>For the first half of day 2, we had a few more talks, focusing on using <a href="https://www.openmicroscopy.org/omero/">OMERO</a> in training settings - it included an initially funny, but then just awesome story about a collaboration with an Indonesian university, which was unwittingly “abusing” the demo OMERO server provided by the University of Dundee to teach pathology classes to medical students. The “abuse” was discovered and, instead of just cutting them off, a partnership was developed, and now Dundee hosts a separate server for the Indonesian folks.</p>
+<p>The second half of day 2 was dedicated to workshops - we had breakout rooms with a few scheduled sessions, and an extra room for impromptu/ad-hoc sessions. The sessions I attended had a lot of Zarr talk, including the first discussions of a “Dundee Pledge” - an attempt to align the folks in the room around a set of practices and tools that would allow for easily extensible metadata. Again, the day ended with excellent food - this time, at an Indian place whose name escapes me right now.</p>
+</section>
+<section id="day-3-unmeeting" class="level3">
+<h3 class="anchored" data-anchor-id="day-3-unmeeting">Day 3: Unmeeting</h3>
+<p>Day 3 was a half-day, scheduled to end at lunchtime. It was “organized” as an <a href="https://en.wikipedia.org/wiki/Unconference">unmeeting</a> - participants decided what the agenda of day 3 would be at the beginning of the day. What ended up happening was a lot of work and discussion around what eventually became the <a href="https://forum.image.sc/t/ome2024-ngff-challenge/97363">OME2024 NGFF Challenge</a>.</p>
+<p>So what is that? In brief, in Josh Moore’s words,</p>
+<blockquote class="blockquote">
+<p>converting some significant corpus of day (e.g., 1 PB) using what we think the next version of OME-Zarr (e.g., including sharding, collections, etc.) will be by the end of September.</p>
+</blockquote>
+<p>It’s an ambitious plan: it involves fast-forwarding some specifications in a pretty speculative way, coordinating multiple entities and institutions, and herding cats in a very short timeframe. The plan is to, very quickly, demonstrate that this is a viable way of going in the future, and speed up tool development in some areas. Excitingly, since as part of the challenge multiple institutions agree on a (<em>very</em>) minimal metadata standard, that means a single front-end can index and search data that exists in many different storage sources, paving the way for a future where public data repositories can be fully federated.</p>
+<p>Since then, multiple working groups have made quick progress, and in two days we are hitting the date where specifications for the challenge will enter a freeze. That will give people time to get their tooling in order, and to actually convert the data they will provide for the challenge. Needless to say, we at JAX will be taking part in it, planning to offer around 50TB of Zarr files to it.</p>
+<p>I am told this day ended with a scotch tasting - I had an early plane to catch and ended up skipping it.</p>
+</section>
+<section id="what-about-next-year" class="level3">
+<h3 class="anchored" data-anchor-id="what-about-next-year">What about next year?</h3>
+<p>The idea is to continue in-person meetings for next year - folks in the US have soft-committed to organizing it this side of the pond next year. We’re still looking for a location (probably on the East Coast), but there’s already work being done towards that!</p>
+</section>
+</section>
+<section id="final-thoughts" class="level2">
+<h2 class="anchored" data-anchor-id="final-thoughts">Final thoughts</h2>
+<p>I think it’s fair to say this was the most <em>intense</em> (and probably the best) scientific meeting I have ever attended - the fact that this is very much the niche where I spend most of my time, and the relatively small size of the meeting, meant that every waking hour was spent having meaningful, important discussions. You’d go for breakfast and other folks would be there, already talking shop. Then you’d spend the whole day at the conference, then have dinner at the conference, then go grab drinks with the conference folks. Of course, there was plenty of time for less-professional talk as well, but but you still had to be “on”. I am VERY excited for next year already - especially if it ends up being in our backyard!</p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <category>OME</category>
+  <category>OMERO</category>
+  <category>Conference</category>
+  <guid>https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/</guid>
+  <pubDate>Mon, 29 Jul 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://erickmartins.github.io/posts/2024-07-29-ome-meeting-roundup/ome-logomark.svg" medium="image" type="image/svg+xml"/>
+</item>
+</channel>
+</rss>

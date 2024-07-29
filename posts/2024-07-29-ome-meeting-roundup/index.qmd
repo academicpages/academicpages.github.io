@@ -1,0 +1,75 @@
+---
+title: "OME Community Meeting 2024 round-up"
+image: ome-logomark.svg
+lightbox: true
+description: "In which I talk about the things that happened at the OME Community Meeting 2024 in Dundee, Scotland"
+author:
+  - name: Erick Ratamero
+    url: https://erickmartins.github.io/
+    orcid: 0000-0002-7545-3675
+    affiliation: The Jackson Laboratory
+    affiliation-url: https://jax.org/ 
+date: 2024-07-29
+categories: [OME, OMERO, Conference] # self-defined categories
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+# OME Community Meeting 2024 - what happened there?
+
+So as a first real blogpost I decided it was a good idea to write a quick recap/summary of what happened during the [OME 2024 Community Meeting](https://www.openmicroscopy.org/events/ome-community-meeting-2024/) - it's both a pretty easy write for me and potentially helpful for other folks out there.
+
+![Did you know there's a Lemmings statue in Dundee?](PXL_20240529_073549219.jpg)
+
+## So what is this meeting?
+
+Probably a good place to start is explaining [OME](https://www.openmicroscopy.org/index.html) - according to themselves,
+
+> a consortium of universities, research labs, industry and developers producing open-source software and format standards for microscopy data.
+
+In practice, it's a community of like-minded tool developers who write things that are 1) open-source; 2) dealing with microscopy data; 3) uses the [OME data model](https://ome-model.readthedocs.io/en/stable/) to some degree - and the users of such tools. In the past (i.e. pre-pandemic), this was a relatively large meeting (100-200 people is my guess?), with lots of end-users presenting their use cases.
+
+Post-pandemic, this survived in a kinda-barebones, virtual-only format for a few years, until May this year, when we finally managed to meet in person again, in lovely Dundee, Scotland. Even better, I was invited to give a talk! (for the record, this is the second time ever I had an proper invited talk, and the first time I managed to be there to actually give it.). Though much smaller than previous meetings (attendance was around 45 people), most of the big names are core developers were there.
+
+![the day before the conference, I climbed a hill](PXL_20240528_100142225.PANO.jpg)
+
+## Now a quick recap per day
+
+### Day 0: speakers' dinner
+
+So the day before the actual meeting, the people giving invited talks had the chance to have dinner together - it's the kind of informal opportunity to network and enjoy each other's company that is really hard to replicate virtually, and after 5 years without in-person meetings, it was great to see many familiar faces! We also had a LOT of tapas. I did not take pictures, so you'll have to believe me.
+
+### Day 1: BioImage Data Resources and Community
+
+This was the main "conference day" - invited talks from all over the world, about how institutions and cross-institutional entities are involved in the OME ecosystem. This is where we (i.e. The Jackson Laboratory folks) gave our invited talk, and essential projects around OME (such as [Bio-formats](https://www.openmicroscopy.org/bio-formats/) and the [IDR](https://idr.openmicroscopy.org/) gave community updates. 
+
+The big takeaway in my opinion was that large national entities, such as German Bioimaging, France Bioimaging and NL-Bioimaging, are deeptly invested in OME. Similarly, large public data repositories also rely heavily on the tools the data models of the OME environment; not only the IDR, but also things like the Bioimage Archive and SSBD. These entities have a mix of either centralized and distributed infrastructure, and very different ideas for what metadata standards should look like, making harmonization between these disparate cases pretty hard. 
+
+Still, some common themes have emerged, such as the _desire_ to have common metadata standards, and a convergence towards using OME-Zarr as the file format for the future. We are seeing, for example, multiple efforts for processing OME-Zarr using Slurm/HPC have emerged (such as the awesome [Fractal](https://fractal-analytics-platform.github.io/)). The day ended with very good food (you'll start to sense a theme here) at [Dundee Contemporary Arts](https://www.dca.org.uk/experience-dca/eat-and-drink-at-jute/).
+
+### Day 2: Training on OMERO and Workshops
+
+For the first half of day 2, we had a few more talks, focusing on using [OMERO](https://www.openmicroscopy.org/omero/) in training settings - it included an initially funny, but then just awesome story about a collaboration with an Indonesian university, which was unwittingly "abusing" the demo OMERO server provided by the University of Dundee to teach pathology classes to medical students. The "abuse" was discovered and, instead of just cutting them off, a partnership was developed, and now Dundee hosts a separate server for the Indonesian folks.
+
+The second half of day 2 was dedicated to workshops - we had breakout rooms with a few scheduled sessions, and an extra room for impromptu/ad-hoc sessions. The sessions I attended had a lot of Zarr talk, including the first discussions of a "Dundee Pledge" - an attempt to align the folks in the room around a set of practices and tools that would allow for easily extensible metadata. Again, the day ended with excellent food - this time, at an Indian place whose name escapes me right now.
+
+### Day 3: Unmeeting
+
+Day 3 was a half-day, scheduled to end at lunchtime. It was "organized" as an [unmeeting](https://en.wikipedia.org/wiki/Unconference) - participants decided what the agenda of day 3 would be at the beginning of the day. What ended up happening was a lot of work and discussion around what eventually became the [OME2024 NGFF Challenge](https://forum.image.sc/t/ome2024-ngff-challenge/97363). 
+
+So what is that? In brief, in Josh Moore's words,
+
+> converting some significant corpus of day (e.g., 1 PB) using what we think the next version of OME-Zarr (e.g., including sharding, collections, etc.) will be by the end of September.
+
+It's an ambitious plan: it involves fast-forwarding some specifications in a pretty speculative way, coordinating multiple entities and institutions, and herding cats in a very short timeframe. The plan is to, very quickly, demonstrate that this is a viable way of going in the future, and speed up tool development in some areas. Excitingly, since as part of the challenge multiple institutions agree on a (_very_) minimal metadata standard, that means a single front-end can index and search data that exists in many different storage sources, paving the way for a future where public data repositories can be fully federated.
+
+Since then, multiple working groups have made quick progress, and in two days we are hitting the date where specifications for the challenge will enter a freeze. That will give people time to get their tooling in order, and to actually convert the data they will provide for the challenge. Needless to say, we at JAX will be taking part in it, planning to offer around 50TB of Zarr files to it.
+
+I am told this day ended with a scotch tasting - I had an early plane to catch and ended up skipping it.
+
+### What about next year?
+
+The idea is to continue in-person meetings for next year - folks in the US have soft-committed to organizing it this side of the pond next year. We're still looking for a location (probably on the East Coast), but there's already work being done towards that!
+
+## Final thoughts
+
+I think it's fair to say this was the most _intense_ (and probably the best) scientific meeting I have ever attended - the fact that this is very much the niche where I spend most of my time, and the relatively small size of the meeting, meant that every waking hour was spent having meaningful, important discussions. You'd go for breakfast and other folks would be there, already talking shop. Then you'd spend the whole day at the conference, then have dinner at the conference, then go grab drinks with the conference folks. Of course, there was plenty of time for less-professional talk as well, but but you still had to be "on". I am VERY excited for next year already - especially if it ends up being in our backyard!

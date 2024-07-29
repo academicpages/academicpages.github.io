@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Erick Martins Ratamero, Ph.D."
+  site-url: https://erickmartins.github.io
+  description: "Erick Ratamero's blog"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - cv.qmd
+      - posts.qmd
+    right:
+      - icon: rss
+        href: posts.xml
+
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+
