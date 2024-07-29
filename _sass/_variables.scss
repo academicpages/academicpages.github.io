@@ -6,6 +6,12 @@
    Typography
    ========================================================================== */
 
+.profile-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
 $doc-font-size              : 16;
 
 /* paragraph indention */
