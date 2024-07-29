@@ -29,7 +29,7 @@ downloads per month (at the time of writing.) These libraries are trusted by top
 the European Union, and American universities.
 
 My research interests lie in the interplay between large-scale distributed systems, cloud computing, and automation. 
-I am also particularly excited about learning the [Rust programming language][rust.
+I am also particularly excited about learning the [Rust programming language][rust].
 
 [litestar]: https://litestar.dev
 [litestar-org]: https://github/com/litestar-org
