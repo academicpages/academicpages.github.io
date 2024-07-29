@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+![Profile Picture](https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg)
+
+
 Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the **[Massachusetts Institute of Technology](https://economics.mit.edu/) (MIT)**. My research is in development economics, focusing on **technology and firms** in lower-income countries, particularly in Francophone West Africa.
 
 My dissertation investigates the adoption and impact of technologies on small and medium-sized businesses, with a particular focus on digital technologies. I examine how relationships within and between firms influence technology adoption and business outcomes. 
