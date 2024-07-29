@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 350px; margin-right: 15px; margin-bottom: 15px;"/>
+    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 350px; margin-right: 25px; margin-bottom: 15px;"/>
   </div>
   <div style="flex: 1;">
     <p>Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in development economics, focusing on <strong>technology and firms</strong> in lower-income countries, particularly in Francophone West Africa.</p>
