@@ -16,7 +16,7 @@ redirect_from:
     <p>I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV_July24.pdf">CV</a> <a href="mailto:houeix@mit.edu">Email</a></p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 250px; border-radius: 75%;"/>
+    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 250px"/>
   </div>
 </div>
 
