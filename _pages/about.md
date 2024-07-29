@@ -70,4 +70,8 @@ _ICML 2021_ \
 **Spotlight Presentation** \
 [[arxiv](https://arxiv.org/abs/2102.13042), [code](https://github.com/g-benton/loss-surface-simplexes), <a href="https://sanaelotfi.github.io/files/slides/conference_presentations/Loss_Surface_Simplexes_ICML_2021.pdf" target="_blank">slides</a>]
 
+**[Stochastic First and Second Order Optimization Methods for Machine Learning](https://publications.polymtl.ca/5457/)** \
+**Sanae Lotfi** \
+_Master's Thesis, Polytechnique Montreal 2020_ \
+**Best Thesis Award** 
   
