@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /non-menu-page/
 
 author_profile: true
