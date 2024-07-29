@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1; padding-right: 20px;">
     <p>Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in development economics, focusing on <strong>technology and firms</strong> in lower-income countries, particularly in Francophone West Africa.</p>
     <p>My dissertation investigates the adoption and impact of technologies on small and medium-sized businesses, with a particular focus on digital technologies. I examine how relationships within and between firms influence technology adoption and business outcomes.</p>
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo.</p>
     <p>I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV_July24.pdf">CV</a> <a href="mailto:houeix@mit.edu">Email</a></p>
   </div>
   <div>
-    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 250px"/>
+    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture" style="width: 250px;"/>
   </div>
 </div>
 
