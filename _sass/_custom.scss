@@ -2,6 +2,7 @@
   display: flex;
   align-items: center;
   flex-wrap: wrap;
+  width: 100%; /* Ensure container takes full width */
 }
 .profile-picture {
   margin-bottom: 15px;
@@ -11,7 +12,7 @@
   width: 100%;
   max-width: 320px;
   height: auto;
-  margin-right: 10px;
+  margin-right: 25px; /* Default margin for desktop */
 }
 .profile-text {
   flex: 1;
@@ -24,16 +25,21 @@
 @media (max-width: 768px) {
   .profile-container {
     flex-direction: column;
+    align-items: flex-start; /* Ensure items align to the start */
   }
   .profile-picture {
     order: -1;
     margin-right: 0;
     margin-bottom: 15px; /* Adds space below the picture */
   }
-  .profile-info {
-    margin-top: 20px;
+  .profile-picture img {
+    margin-right: 0; /* Removes space to the right of the picture on mobile */
   }
   .profile-text {
-    margin-top: 15px; /* Adds space above the text */
+    margin-top: 0; /* Removes extra space above the text */
+    width: 100%; /* Ensure text takes full width */
+  }
+  .profile-info {
+    margin-top: 20px;
   }
 }
