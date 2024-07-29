@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="profile-container">
   <div class="profile-picture">
-    <img src="https://raw.githubusercontent.com/houeix/houeix.github.io/1c1bbf2e961951d37fe742e57066c91b32553194/images/profile_dh.jpg" alt="Profile Picture"/>
+    <img src="https://github.com/houeix/houeix.github.io/blob/master/images/profile_dh.jpg?raw=true" alt="Profile Picture"/>
   </div>
   <div class="profile-text">
     <p>Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in development economics, focusing on <strong>technology and firms</strong> in lower-income countries, particularly in Francophone West Africa.</p>
