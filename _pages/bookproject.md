@@ -7,7 +7,7 @@ author_profile: true
 
 # Ousting an Autocrat: Temporary Alliances of Opposition Parties in Electoral Authoritarian Regimes
 
-<img src="figures/book_project.png" alt="Ousting an Autocrat" style="float: right; margin-left: 20px; width: 300px;">
+![Ousting an Autocrat](figures/book_project.png)
 
 ## Rewards, Grants, and Fundings
 - **Best Paper Award** at ISA-South for third emprical chapter 
