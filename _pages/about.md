@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior Computer Science major and student researcher at Pomona College, currently applying to PhD programs in Computer Science. I am interested in the privacy and security of ML systems as well as the application of ML to system security problems. Apart from this, I am also interested in genetic algorithms, tech policy, and the evolving privacy and security implications of generative AI.
+I am a first-year PhD student at the University of Chicago, where I am advised by Professor [Grant Ho](https://people.cs.uchicago.edu/~grantho/). My research focuses on the application of ML to security problems as well as the privacy and security of ML systems. Apart from this, I am also interested in tech policy and the evolving privacy and security implications of generative AI.
 
-***The overarching goal that I wish to pursue as a researcher is to develop solutions that make technology used in daily life more secure and safe.***
-
-These days, I am working on two projects related to this goal.
-* **Securing Federated Learning Against Post-Breach Evasion Attacks**: I am researching and developing evasion attack defense methods for federated learning systems as my senior thesis advised by Dr. Eleanor Birrell and Dr. Anthony Clark.
-* **Adversarial Training for Sim-to-Real Transfer**: I am researching adversarial training and its potential benefits for the sim-to-real transferability of computer vision models in order to develop more safe, robust mobile robots with Dr. Anthony Clark's Autonomous Robotics and Complex Systems (ARCS) Lab.
-
-Since May 2021, I have worked for the ARCS Lab, where I focus on researching and developing creative approaches to ease the pain of sim-to-real transfer. Through cybersecurity and software engineering internships, I have also gained experience in building out ML-driven security solutions and mobile applications.
+I received my bachelor's degree in Computer Science at Pomona College. During undergrad, I worked with Professor [Anthony Clark](https://cs.pomona.edu/~ajc//) in the [ARCS Lab](https://cs.pomona.edu/~ajc/arcslab/) and completed a senior thesis on the defense of federated learning against evasion attacks with Professors [Eleanor Birrell](https://cs.pomona.edu/~ebirrell/) and [Anthony Clark](https://cs.pomona.edu/~ajc//). Through cybersecurity and software engineering internships, I have built out ML-driven security solutions for sim-swap fraud detection and various mobile applications, including a social media platform for surfers called [SurfStop](https://github.com/christymarc/SurfStop).
