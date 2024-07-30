@@ -17,8 +17,9 @@
 .pronunciation {
   margin-top: 10px; /* Adds space between the image and the text */
   font-style: italic;
-  font-size: 0.875em; /* Small font size */
+  font-size: 0.75em; /* Smaller font size */
   color: #555; /* Optional: A subtle color */
+  text-align: center; /* Center the text */
 }
 .profile-text {
   flex: 1;
