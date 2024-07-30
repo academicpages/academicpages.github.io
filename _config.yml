@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Biraj Borgohain / Earth Sciences"
+title                    : "Hello"
 title_separator          : "-"
 name                     : &name "Biraj Borgohain" #chnaged
 description              : &description "personal description"
