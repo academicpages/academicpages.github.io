@@ -7,6 +7,8 @@ author_profile: true
 
 # Ousting an Autocrat: Temporary Alliances of Opposition Parties in Electoral Authoritarian Regimes
 
+<img src="figures/book_project.png" alt="Ousting an Autocrat" align="right" width="250px">
+
 ## Rewards, Grants, and Fundings
 - **Best Paper Award** at ISA-South for third emprical chapter 
 - **Best Fieldwork Award -- Honorable Mention** from APSA's Democracy and Autocracy section
@@ -25,8 +27,6 @@ More importantly, these two factors -- internal cohesion and external positionin
 In some parts of the world, such as Hungary and Kenya, opposition-led coalitions have proven to be critical mechanisms in the fight against autocrats. In other countries, including Venezuela, Brazil, and Togo, forming a coalition has been much more challenging. Coordination has occurred periodically, leading to varying degrees of success. In these contexts, the coordination of opposition parties can seem like a distant dream, and sometimes collaboration may not be possible at all. To address this puzzle, *Ousting an Autocrat* employs a mixed-methodological approach. More importantly, my book explains this critical variation in coordination by exploring three key factors: the internal organization of political parties, the ideological differences among the parties, and the overall learning experiences of these parties over the years. I adopt a mixed-methodological approach -- large-N quantitative analysis, causal case selection, and site-intensive methods -- to explore how political parties' organizational structures and ideological and political agenda diversity explain opposition bargaining prior to the elections. In testing my theory, I draw on an original dataset on elections in electoral authoritarian regimes and archival materials, interviews with party chairs and co-chairs, and shadowing insights. I focus on Turkey in my fieldwork, but I also explore elections in Hungary, and North Macedonia as influential and pathway cases. 
 
 ## Empirical Chapters
-
-![Ousting an Autocrat](figures/book_project.png)
 
 In the first empirical chapter, I use an original dataset to test the implications of the theory. This chapter provides a detailed exposition of the patterns and characteristics of PEC behavior through the lens of descriptive statistics derived from an original dataset meticulously constructed for this study. And second, it presents the empirical results of the analysis conducted. Given the absence of existing datasets tracking temporary alliances formed within autocratic regimes, this chapter elucidates the methodology behind creating the original dataset and offers key descriptive insights. Encompassing executive and lower-house legislative elections in electoral authoritarian regimes spanning from 1970 to 2019, the dataset comprises 2,867 country-year observations, with 1,149 observations corresponding to election years. 
 
