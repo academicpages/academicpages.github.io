@@ -1,6 +1,6 @@
 .profile-container {
   display: flex;
-  align-items: center;
+  align-items: flex-start; /* Align items at the top */
   flex-wrap: wrap;
   width: 100%;
 }
