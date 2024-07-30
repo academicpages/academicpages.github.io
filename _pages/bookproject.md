@@ -7,8 +7,6 @@ author_profile: true
 
 # Ousting an Autocrat: Temporary Alliances of Opposition Parties in Electoral Authoritarian Regimes
 
-![Ousting an Autocrat](figures/book_project.png)
-
 ## Rewards, Grants, and Fundings
 - **Best Paper Award** at ISA-South for third emprical chapter 
 - **Best Fieldwork Award -- Honorable Mention** from APSA's Democracy and Autocracy section
@@ -25,6 +23,8 @@ More importantly, these two factors -- internal cohesion and external positionin
 
 ## Methodological Approach
 In some parts of the world, such as Hungary and Kenya, opposition-led coalitions have proven to be critical mechanisms in the fight against autocrats. In other countries, including Venezuela, Brazil, and Togo, forming a coalition has been much more challenging. Coordination has occurred periodically, leading to varying degrees of success. In these contexts, the coordination of opposition parties can seem like a distant dream, and sometimes collaboration may not be possible at all. To address this puzzle, *Ousting an Autocrat* employs a mixed-methodological approach. More importantly, my book explains this critical variation in coordination by exploring three key factors: the internal organization of political parties, the ideological differences among the parties, and the overall learning experiences of these parties over the years. I adopt a mixed-methodological approach -- large-N quantitative analysis, causal case selection, and site-intensive methods -- to explore how political parties' organizational structures and ideological and political agenda diversity explain opposition bargaining prior to the elections. In testing my theory, I draw on an original dataset on elections in electoral authoritarian regimes and archival materials, interviews with party chairs and co-chairs, and shadowing insights. I focus on Turkey in my fieldwork, but I also explore elections in Hungary, and North Macedonia as influential and pathway cases. 
+
+![Ousting an Autocrat](figures/book_project.png)
 
 ## Empirical Chapters
 
