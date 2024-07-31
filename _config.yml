@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruohan Li"
-  avatar           : "for git.jpg"
+  avatar           : "Ruohan_GIT.jpg"
   bio              : "Ph.D. Student and Graduate Research Assistant at Villanova"
   location         : "Villanova, PA, USA"
   employer         :
@@ -332,4 +332,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-           
+            
