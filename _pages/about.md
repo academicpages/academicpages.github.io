@@ -21,6 +21,9 @@ I will be on the job market starting fall 2024!
 Our work on epistemic tensions in integrating computational thinking into humanities was [published in the journal Computer Science Education]()!-->
 
 {: .notice--info}
+I passed my dissertation proposal defense! I will study how K-12 computing teachers integrate critical perspectives into their classrooms by co-designing lessons with them.
+
+{: .notice--info}
 I gave a 5 min talk about my research ([practice recording available here](https://www.youtube.com/watch?v=bDoaW2CeBcU)), at MSU Ignite Talks [which was covered by local news](https://www.wlns.com/news/msu-brings-fast-paced-speaking-event-series-to-campus/).
 
 {: .notice--info}
