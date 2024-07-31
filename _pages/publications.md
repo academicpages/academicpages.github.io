@@ -22,7 +22,7 @@ Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao<br>
 
 ## 2024
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
-Junxiang Wang, <b>Guangji Bai</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2024)</i>.<br>
 [[paper](https://arxiv.org/abs/2312.12276)]<br>
 
@@ -70,7 +70,7 @@ Zishan Gu, Ke Zhang, <b>Guangji Bai</b>, Liang Chen, Liang Zhao, Carl Yang.<br>
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)][[code](https://github.com/BaiTheBest/SRDML)]<br>
 
 * <b>Deep Spatial Domain Generalization</b>.<br>
-Dazhou Yu, <b>Guangji Bai*</b>, Yun Li, Liang Zhao.<br>
+Dazhou Yu, <b>Guangji Bai</b>, Yun Li, Liang Zhao.<br>
 <i>The 22nd IEEE International Conference on Data Mining (ICDM 2022)</i>.<br>
 [[paper](https://arxiv.org/pdf/2210.00729)][[code](https://github.com/dyu62/Deep-domain-generalization)]<br>
 
