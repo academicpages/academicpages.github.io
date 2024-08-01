@@ -4,8 +4,7 @@ main:
     
 
     
-  #- title: "Skills"
-   # url: /markdown/
+
   - title: "Research"
     url: /non-menu-page/
     
@@ -14,6 +13,8 @@ main:
 
   - title: "CV"
     url: /cv/
+  - title: "Skills"
+    url: /markdown/
 
   - title: "Bio"
     url: /talks/    
