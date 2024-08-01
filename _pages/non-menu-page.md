@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 # Climate-Tectonic Interaction
 * PhD training developed my interest in investigating the interactions between climate and tectonic processes that impact the habitability and sustainability of life.
-* Tools used in quantifying climate-tectonic interplay include (1) geochronology, such as low-temperature thermochronology and optically stimulated luminescence dating; (2) remote sensing data; (3) multidisciplinary sedimentology, tectonics, and geomorphology approach; and (4) statistical and numerical modeling.
+* Tools used in quantifying climate-tectonic interplay include (1) geochronology, such as low-temperature thermochronology and optically stimulated luminescence dating; (2) remote sensing data; (3) multidisciplinary sedimentology, tectonics, and geomorphology approach; and (4) Bayesian statistical modeling.
 * Field expeditions include Arunachal Pradesh Himalaya (specifically in the Siang, Dibang, and Lohit river valleys), the Shillong plateau, and the Belt of Schuppen (especially in the southeastern boundary of Assam valley and the western part of Nagaland).
 
 # Mineral-Microbe-Water Interaction
