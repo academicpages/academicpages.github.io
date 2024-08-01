@@ -89,7 +89,7 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <div class="card">
     <div style="flex: 1;">
-      <h3>Unsupervised Segmentation of Corneal Endothelium with Guttae in Specular Microscopy Images via Synthetic Training Data</h3>
+      <h3>Enhanced Corneal Endothelial Cell Segmentation via Denoising Diffusion Probabilistic Model</h3>
       <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="under-preparing">Under Preparing</span></em></p>
     </div>
 </div>
