@@ -20,7 +20,7 @@ My contact information: zqiae@connect.ust.hk
 
 Please see my recent work below:
 
-- Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Seung Joo Lee): [Draft](https://zhenghua-qi.github.io/files/AD_AS_draft.pdf)
+- Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy (with Marc Dordal i Carreras and Seung Joo Lee): [Draft](https://zhenghua-qi.github.io/files/AD_AS_draft.pdf) [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4891217)
 
 - Bank Loan Reliance and Inflation Inattention (with Tiziano Ropele): [Slides](https://zhenghua-qi.github.io/files/inflation_slides.pdf) [Draft coming soon!]
 
