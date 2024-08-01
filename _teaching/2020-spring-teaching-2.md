@@ -5,7 +5,7 @@ type: "Teaching"
 permalink: /teaching/2020-spring-teaching-1
 venue: "Kathmandu University, Department of Geomatics Engineering"
 date: 2019-10-1-2022-07-30
-location: "City, Country"
+location: "Dhulikhel, Nepal"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
