@@ -35,7 +35,7 @@ redirect_from:
 
 4. Digital Access and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
 
-5. [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PeerRanking_paper_2408.pdf) (with Pascaline Dupas and Marcel Fafchamps), Revision Requested, ***Quantitative Economics***
+5. [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PovertyRanking_paper_2408.pdf) (with Pascaline Dupas and Marcel Fafchamps), Revision Requested, ***Quantitative Economics***
     
 ## Selected Work in Progress
 
