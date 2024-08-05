@@ -14,7 +14,7 @@ My research focuses on the domain of speech and language processing such as spee
 I am especially interested in modeling and generating expressive prosody.
 Also, through it, I aim to the development of human-friendly speech agents that can adaptively and naturally communicate with a variety of people.
 
-[東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [システム情報学専攻第一研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士2年の山内一輝です．
+[東京大学](https://www.u-tokyo.ac.jp/ja/index.html) [大学院情報理工学系研究科](https://www.i.u-tokyo.ac.jp/index.shtml) [猿渡・齋藤研究室](https://www.sp.ipc.i.u-tokyo.ac.jp/) 修士2年の山内一輝です．
 音声合成，音声変換，パラ言語/非言語情報のモデリングなど，音声言語情報処理の領域を中心に研究しています．
 その中でも特に，表現力豊かな韻律のモデリングや生成に興味を持っています．
 また，それを通して，様々な人と適応的かつ自然にコミュニケーションができる，ヒューマンフレンドリーな音声エージェントの開発を目指しています．
@@ -80,7 +80,7 @@ Worked on natural language processing and developed web application.
 <!-- ## Volunteer Works:
 
 - Apr. 2024 - <br>
-**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員**  -->
+**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 会員**  -->
 
 
 ## Other Experiences
