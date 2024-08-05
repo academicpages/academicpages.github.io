@@ -21,7 +21,7 @@ redirect_from:
 </div>
 
 <div class="profile-info">
-  I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV_August24.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
+  I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
 
