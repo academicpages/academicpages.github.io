@@ -7,15 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
-## Lab Members
+## Current Lab Members
 
 |:---        |:---        |:---      |
-| <img src="https://yingchengsun.github.io/academic/images/Kevin.png"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sony.jpeg"  width="100" style="float: left"> | <img src="https://yingchengsun.github.io/academic/images/Sean.jpeg"  width="100" style="float: left">   | 
-| __Kevin Hayes__ | __Sony Annem__ | __Sean Edwards__ (Graudated in 2023) | 
-| Dean’s List Honoree in 2023 Spring| WFBMI Intern 2023| Provost Student Excellence Awards 2023 |
-| In the Lab | In the Lab | First job: Xtern Software |
+| <img src="https://yingchengsun.github.io/academic/images/Kevin.png"  width="100" style="float: left"> | <img src=""  width="100" style="float: left"> | <img src=""  width="100" style="float: left">   | 
+| __Kevin Hayes__ | __Harsha Bangera__ | __Samantha Schnell__| 
+| Dean’s List Honoree in 2023 Spring| | |
 
-## Collaborators
-  + [Dr. Hao Liu](https://dr-haoliu.github.io/)
-  + [Dr. Yifan Guo](https://yifan-guo.com/www/index.html)
-  + [Dr. Tianxi Ji](http://www.myweb.ttu.edu/tiji/)
+
+## Alumni
+  + [Maximilian Doerr](2023-2024)
+  + [Sony Annem](2023-2024, UNCG GRADUATE SHOWCASE 2nd prize Award)
+  + [Sumithra Hariguruprasad](2023-2024)
+  + [Manichandana Kuluri](2023-2024)
+  + [Sean Edwards](2022-2023, Provost Student Excellence Award)
+
