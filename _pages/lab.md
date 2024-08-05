@@ -16,9 +16,9 @@ author_profile: true
 
 
 ## Alumni
-  + [Maximilian Doerr](2023-2024)
-  + [Sony Annem](2023-2024, UNCG GRADUATE SHOWCASE 2nd prize Award)
-  + [Sumithra Hariguruprasad](2023-2024)
-  + [Manichandana Kuluri](2023-2024)
-  + [Sean Edwards](2022-2023, Provost Student Excellence Award)
+  + [Maximilian Doerr] (2023-2024)
+  + [Sony Annem] (2023-2024, UNCG GRADUATE SHOWCASE 2nd prize Award)
+  + [Sumithra Hariguruprasad] (2023-2024)
+  + [Manichandana Kuluri] (2023-2024)
+  + [Sean Edwards] (2022-2023, Provost Student Excellence Award)
 
