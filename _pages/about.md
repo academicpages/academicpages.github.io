@@ -35,16 +35,16 @@ This project focuses on enhancing machine learning models' adaptability and effe
   _ICLR 2023_   
 
 ## 2. Efficient Large-Scale Machine Learning
-Exploring scalable solutions in machine learning, particularly in GNNs and LLMs.
-### a) Distributed Training for Graph Neural Networks (GNNs)
-- [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
-  _Preprint_
-  
-### b) Model Compression & Acceleration of LLMs 
+Exploring scalable solutions in machine learning, particularly in LLMs and GNNs.
+### a) Model Compression & Acceleration of LLMs 
 - [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
-  _Preprint_
+  _Under review of CSUR_
 - [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v3)   
   _Preprint_ 
+
+### b) Distributed Training for Graph Neural Networks (GNNs)
+- [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
+  _Preprint_
 
 ## 3. Neuro-Inspired Continual Learning
 Focusing on memory-replay and neuro-inspiration approaches for continual learning.
