@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to lix19937's [workspaces](https://lix-it.com/). For more details, please refer to Guide.      
+Welcome to lix19937's [workspaces](https://lix-it.com/). For more details, please refer to [Guide](https://lix19937.github.io/guide/).       
 ![10x your pipeline](../images/10x.png)  
      
 
