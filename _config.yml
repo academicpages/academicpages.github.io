@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : " "
+title                    : "MA Xuelong/Personal Page"
 title_separator          : "-"
 name                     : &name "Ma Xuelong"
 #description              : &description "Love sports"
@@ -21,7 +21,7 @@ name                     : &name "Ma Xuelong"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "max.png"
   name             : "Ma Xuelong"
   pronouns         : # example: "she/her"  
   bio              : "A Master Student"
