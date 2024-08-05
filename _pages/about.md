@@ -21,7 +21,7 @@ redirect_from:
 </div>
 
 <div class="profile-info">
-  I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV_July24.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
+  I will be on the <strong>Academic Job Market in Fall 2024</strong>. <a href="https://houeix.github.io/files/DeivyHoueix_CV_August24.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
 
@@ -31,9 +31,9 @@ redirect_from:
 
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
 
-3. Relational Frictions Along the Supply Chain: Evidence from Social Commerce Among Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
+3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
-4. Digital Access and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
+4. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
 
 5. [Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence](/files/PovertyRanking_paper_2408.pdf) (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
     
