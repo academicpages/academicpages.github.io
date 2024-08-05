@@ -1,0 +1,35 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+Here, I have listed some of the projects that I have worked on until now.
+
+
+
+
+{% for post in site.projects %}
+{% if post.category == "SMD" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+## Spacecraft Dynamics and Control
+
+{% for post in site.projects %}
+{% if post.category == "SDC" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
+
+<h1>Spacecraft GNC</h1>
+
+{% for post in site.projects %}
+{% if post.category == "GNC" %}
+{% include archive-single.html %}
+{% endif %}
+{% endfor %}
