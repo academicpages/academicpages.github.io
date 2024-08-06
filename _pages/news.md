@@ -4,6 +4,12 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---    
+## 2023
+
+
+<span style="color:red">[8.2023]</span> [Congratulations to Sonny Annem winning the Graudate Showcase 2024!](https://compsci.uncg.edu/two-masters-students-won-uncg-graduate-showcase-2024/)!
+
+<span style="color:red">[4.2023]</span> Congratulations to Kevin Hayes winning the Dean’s List Honoree in 2023 Spring!  
 
 ## 2022
 <span style="color:red">[11.2022]</span> I will make a presentation in the conference “2022 AI-Enhanced Clinical Trials” (Boston, MA)!   
