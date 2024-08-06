@@ -8,7 +8,6 @@ author_profile: true
 {% include base_path %}
 
 ## Current Lab Members
-======
 
 <div class="row">
     <div class="column">
