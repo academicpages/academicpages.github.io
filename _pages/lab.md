@@ -9,6 +9,18 @@ author_profile: true
 
 ## Current Lab Members
 
+<div class="row">
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zihanwangki.github.io/">Zihan Wang</a><br/>(2020 - )</p>
+      </div>
+      </center>
+    </div>
+</div>
 |:---        |:---        |:---      |
 | <img src="https://yingchengsun.github.io/academic/images/Kevin.png"  width="100" style="float: left"> | <img src=""  width="100" style="float: left"> | <img src=""  width="100" style="float: left">   | 
 | __Kevin Hayes__ | __Harsha Bangera__ | __Samantha Schnell__| 
