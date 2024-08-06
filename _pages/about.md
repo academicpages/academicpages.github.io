@@ -17,6 +17,12 @@ My research interests include Information Retrieval, Machine Learning and Softwa
 
 News    
 ======
+<span style="color:red">[9.2023]</span> Congratulations to Sony Annem winning the Munroe Undergraduate Student Research Grant -!!  
+<span style="color:red">[4.2024]</span> I appeared in the [Campus Weekly News] (https://www.uncg.edu/research/uncg-computer-scientist-applies-ai-to-health-care/)!  
+<span style="color:red">[4.2024]</span> I won the Generative AI Implementation Grant -!!  
+<span style="color:red">[2.2024]</span> I won the FY24 Internal Funding Award -!!  
+
+
 
 
 
