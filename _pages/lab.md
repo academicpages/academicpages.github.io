@@ -16,15 +16,31 @@ author_profile: true
             <img src="/academic/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">Kevin Hayes</a><br/>(2023 - )</p>
+            <p><a href = "https://www.linkedin.com/in/kevin-hayes-54248a228/">Kevin Hayes</a><br/>(Dean’s List Honoree in 2023 Spring)</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/academic/images/" class="author__avatar" alt="Harsha Bangera">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/harshaamin/">Harsha Bangera</a><br/>(2024 - )</p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/academic/images/" class="author__avatar" alt="Supriya Kottam">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://www.linkedin.com/in/supriya-kottam/">Supriya Kottam</a><br/>(2024 - )</p>
       </div>
       </center>
     </div>
 </div>
-|:---        |:---        |:---      |
-| <img src="https://yingchengsun.github.io/academic/images/Kevin.png"  width="100" style="float: left"> | <img src=""  width="100" style="float: left"> | <img src=""  width="100" style="float: left">   | 
-| __Kevin Hayes__ | __Harsha Bangera__ | __Samantha Schnell__| 
-| Dean’s List Honoree in 2023 Spring| | |
 
 
 ## Alumni
