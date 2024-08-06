@@ -10,7 +10,7 @@ author_profile: true
 
 <span style="color:red">[5.2023]</span> Congratulations to Sean Edwards for winning the Provost Student Excellence Awards 2023!!   
 
-<span style="color:red">[4.2023]</span> [Congratulations to Sonny Annem winning the Graudate Showcase 2024!](https://compsci.uncg.edu/two-masters-students-won-uncg-graduate-showcase-2024/)!
+<span style="color:red">[4.2023]</span> Congratulations to Sonny Annem winning the [Graudate Showcase 2024](https://compsci.uncg.edu/two-masters-students-won-uncg-graduate-showcase-2024/)!
 
 <span style="color:red">[4.2023]</span> I will attend the Workshop on ECG Informatics in Precision Medicine (Wake Forest Uniersity, Apr 27th)!   
 
