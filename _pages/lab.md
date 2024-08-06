@@ -9,8 +9,8 @@ author_profile: true
 
 ## Current Lab Members
 
-<div class="row">
-    <div class="column">
+<div class="column">
+    <div class="row">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
@@ -20,7 +20,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column">
+    <div class="row">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Harsha.jpeg" class="author__avatar" alt="Harsha Bangera">
@@ -30,7 +30,7 @@ author_profile: true
       </div>
       </center>
     </div>
-    <div class="column">
+    <div class="row">
       <center>
       <div class="author__avatar">
             <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
