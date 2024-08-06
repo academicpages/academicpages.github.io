@@ -9,7 +9,13 @@ author_profile: true
 ## Journal Articles
 <span style="color:red">_* Note that  **JAMIA** and **JBI** are leading health informatics journals with impact factor 7.942 and 8.000_</span>
 
+<<<<<<< HEAD
 + Kang, T., **Sun, Y.(Co-first author)**, Kim, J.H., Ta, C., Perotte, A., Schiffer, K., Wu, M., Zhao, Y., Moustafa-Fahmy, N., Peng, Y. and Weng, C., 2023. EvidenceMap: a three-level knowledge representation for medical evidence computation and comprehension. **_Journal of the American Medical Informatics Association_**, p.ocad036. 
+=======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+>>>>>>> upstream/master
 
 + Lee, J., Liu, C., Kim, J., Chen, Z., **Sun, Y.**, Rogers, J.R., Chung, W.K. and Weng, C., 2022. Deep learning for rare disease: A scoping review. **_Journal of Biomedical Informatics(JBI)_**, p.104227.
 
