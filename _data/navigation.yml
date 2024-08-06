@@ -2,10 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-    My name is Sophia and I am studying at Rutgers as Electrical and Computer Engineering. 
+    print('My name is Sophia and I am studying at Rutgers as Electrical and Computer Engineering.') 
     
-    I have a strong foundation in programming languages:
-    Python, Java, MATLAB, and C++ (mainly use Python)
+    print('I have a strong foundation in programming languages: ')
+    print('Python, Java, MATLAB, and C++ (mainly use Python)
     Projects I have done:
     In my previous semester, I took Probability & Random Processes, using MATLAB to build graphs of PDFs and CDFs for my assignments.
     In the Principles of Electrical Engineering lab, I worked with a classmate to build low-pass and band-pass filters on a breadboard.
@@ -21,4 +21,4 @@ main:
     Excel, Google Sheets, Matplotlib, and Tableau
     
     Languages I can speak:
-    Chinese (Cantonese), Chinese (Mandarin), English, Korean
+    Chinese (Cantonese), Chinese (Mandarin), English, Korean')
