@@ -6,7 +6,7 @@ author_profile: true
 
 BUS 314 Business Finance, *Summer 2024, Fall 2024 (scheduled)*
 : Introduction to the theory and practice of financial management: analysis and decision making for asset management, capital budgeting, capital structure, and dividend policy. Topics covered include time-value of money, bond pricing, and project valuation.
-: [Syllabus] 
+: [Syllabus](http://hamzaessaidi.github.io/files/SyllabusBUS314.pdf)
 
 BUS 313 Economic and Financial Environment of Global Business, *Spring 2024*
 : Introduction to international trade, financial flows, and direct investment with a focus on public and private institutions including government policies and capital markets.
