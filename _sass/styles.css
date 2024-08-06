@@ -10,6 +10,16 @@ summary {
     background-color: #f9f9f9;
     border: 1px solid #ddd;
 }
+.links {
+    margin-bottom: 0.5em;
+}
+.links a {
+    text-decoration: none;
+    color: #007bff;
+}
+.links a:hover {
+    text-decoration: underline;
+}
 
 /* Profile container styling */
 .profile-container {
@@ -31,4 +41,7 @@ summary {
 .profile-info {
     font-size: 1.2em;
     margin-bottom: 2em;
+}
+.paper {
+    margin-bottom: 1.5em;
 }
