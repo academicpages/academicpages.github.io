@@ -11,12 +11,6 @@ redirect_from:
 
 I'm a PhD. student from University of Chinese Academy of Sciences. I recieved my B.C. degree from Beijing Institute of Technology. My research interest includes Quantum computing, Ising Machine, Optical computing, Photonics, etc.
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
-[Email](Aromele_333@163.com) / 
-————————————————
-
-
 
 
 
