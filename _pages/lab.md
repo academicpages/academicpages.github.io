@@ -41,8 +41,8 @@ author_profile: true
       </center>
     </div>
 </div>
-
-
+<div class="row">
+</div>
 ## Alumni
   + Maximilian Doerr (2023-2024)
   + Sony Annem (2023-2024, UNCG Graudate Showcase 2nd prize Award)
