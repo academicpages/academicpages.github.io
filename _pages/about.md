@@ -10,6 +10,7 @@ redirect_from:
 ---
 
 I'm a PhD. student from University of Chinese Academy of Sciences. I recieved my B.C. degree from Beijing Institute of Technology. My research interest includes Quantum computing, Ising Machine, Optical computing, Photonics, etc.
+Email: [aromele_333@163.com](aromele_333@163.com)
 
 
 
