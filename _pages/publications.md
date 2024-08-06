@@ -8,11 +8,11 @@ author_profile: true
 
 ### Inventor's Inequality Aversion
 ### Abstract:
-The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. I examine how the first-time disclosure of the SEC-mandated CEO-worker pay ratio impacts innovation outcomes, both at the firm and inventor levels. I find a negative relationship between the disclosed pay ratio and subsequent quantity and quality of patent production. Information asymmetry, increased inventor mobility, and reduced productivity are all plausible channels that explain the observed reduction in innovation outcomes with gender, race, and age cohorts of inventors explaining variations in responses, consistent with the inequality aversion theory.
+The consequences of income inequality extend beyond social and moral considerations, with tangible economic implications for the long-term performance of companies. Using the first-time disclosure of the SEC-mandated CEO-worker pay ratio as proxy for within-firm inequality, I find a significant decrease in innovation of firms disclosing high pay ratios, explained by an increase in inventor mobility and a decrease in productivity. Inventor characteristics, such as gender, race, and age cohorts, explain variations in responses, consistent with the inequality aversion theory.
 
 ### On the Resilience of Managerial Overconfidence
 ### Abstract:
-This paper studies the resiliency of CEO overconfidence using a staggered Difference-in-Difference model of natural disasters occurring between 1996 and 2017 as proxy for distress. I examine the role of overconfidence in mediating the relationship between corporate innovation and natural disasters. The results are two-fold: (1) Affected firms led by overconfident CEOs consistently underperform relative to affected firms led by non-overconfident CEOs (2) The negative relationship between disasters and innovation outcomes documented in the literature is driven entirely by overconfident CEOs. Neither changes in R\&D expenditure nor changes in inventor productivity explain the results. However, risk perception and an increase in risk-aversion of Overconfident CEOs following natural disasters could explain the reduction in innovation outcomes. The results are robust to alternative specifications of both disaster risk and managerial overconfidence. The findings highlight the limitations of the benefits of overconfidence. 
+This paper examines the resiliency of CEO overconfidence using a staggered Difference-in-Difference model of natural disasters occurring between 1996 and 2017 as proxy for distress. I examine the role of overconfidence in mediating the relationship between corporate innovation and natural disasters. The results are two-fold: (1) Affected firms led by overconfident CEOs consistently underperform relative to affected firms led by non-overconfident CEOs (2) The negative relationship between disasters and innovation outcomes documented in the literature is driven entirely by overconfident CEOs. Neither changes in R\&D expenditure nor changes in inventor productivity explain the results. However, risk perception and an increase in risk-aversion of Overconfident CEOs following natural disasters could explain the reduction in innovation outcomes. The results are robust to alternative specifications of both disaster risk and managerial overconfidence. The findings highlight the limitations of the benefits of overconfidence. 
 
 ## Risk Management and Insurance
 ### The National Flood Insurance Program, Racial and Ethnic Disparity, and the Pursuit of Environmental Justice 
@@ -25,11 +25,7 @@ in insurance outcomes for these groups. Using a combined dataset of nationwide f
 insurance policies and claims, and census tract level demographics, we find that 
 minorities tend to pay higher premium, obtain less coverage per premium dollar, and 
 have a lower likelihood of getting claims paid. They also have lower insurance take up 
-rates. To aid identification, we utilize an exogenous shock of losing the Minority Tract 
-designation. We also find that while social vulnerability leads to less favorable insurance 
-outcomes, being racial/ethnic minority exacerbates the effects. More nuanced effects 
-across minority groups are also identified. Our results add to the discussions on 
-discrimination by institutions and have significant public policy implications.
+rates. Our results add to the discussions on discrimination by institutions and have significant public policy implications.
 
 ### The Demographics of Property Insurance: Evidence from the Homeowners Insurance Market 
 *With Jing Ai and Charles Nyce*
