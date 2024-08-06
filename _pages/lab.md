@@ -13,7 +13,7 @@ author_profile: true
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
+            <img src="/academic/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
       </div>
       <div class="author__content">
             <p><a href = "https://zihanwangki.github.io/">Kevin Hayes</a><br/>(2023 - )</p>
