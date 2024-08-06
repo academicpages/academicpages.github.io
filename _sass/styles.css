@@ -1,0 +1,34 @@
+details {
+    margin-bottom: 1em;
+}
+summary {
+    font-weight: bold;
+    cursor: pointer;
+}
+.abstract-content {
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
+
+/* Profile container styling */
+.profile-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2em;
+}
+.profile-picture {
+    margin-right: 1em;
+}
+.profile-picture img {
+    border-radius: 50%;
+    max-width: 150px;
+    height: auto;
+}
+.profile-text {
+    max-width: 600px;
+}
+.profile-info {
+    font-size: 1.2em;
+    margin-bottom: 2em;
+}
