@@ -23,7 +23,7 @@ author_profile: true
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/academic/images/" class="author__avatar" alt="Harsha Bangera">
+            <img src="/academic/images/Harsha.jpeg" class="author__avatar" alt="Harsha Bangera">
       </div>
       <div class="author__content">
             <p><a href = "https://www.linkedin.com/in/harshaamin/">Harsha Bangera</a><br/>(2024 - )</p>
@@ -33,7 +33,7 @@ author_profile: true
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/academic/images/" class="author__avatar" alt="Supriya Kottam">
+            <img src="/academic/images/Supriya.jpeg" class="author__avatar" alt="Supriya Kottam">
       </div>
       <div class="author__content">
             <p><a href = "https://www.linkedin.com/in/supriya-kottam/">Supriya Kottam</a><br/>(2024 - )</p>
@@ -45,7 +45,7 @@ author_profile: true
 
 ## Alumni
   + Maximilian Doerr (2023-2024)
-  + Sony Annem (2023-2024, UNCG GRADUATE SHOWCASE 2nd prize Award)
+  + Sony Annem (2023-2024, UNCG Graudate Showcase 2nd prize Award)
   + Sumithra Hariguruprasad (2023-2024)
   + Manichandana Kuluri (2023-2024)
   + Sean Edwards (2022-2023, Provost Student Excellence Award)
