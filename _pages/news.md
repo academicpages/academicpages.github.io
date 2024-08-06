@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---    
 ## 2023
+<span style="color:red">[9.2023]</span> Congratulations to Sony Annem winning the Munroe Undergraduate Student Research Grant -!!  
 
 <span style="color:red">[5.2023]</span> Congratulations to Kevin Hayes winning the Dean’s List Honoree in 2023 Spring!  
 
