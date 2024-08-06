@@ -42,3 +42,6 @@ See the talk [here](../assets/pdf/AI_talk_astroX.pdf). For [ERIRA 2022 and 2024]
 
 - [Part 1](https://sites.duke.edu/mazurowski/2022/07/13/breast-mri-cancer-detect-tutorial-part1/)
 - [Part 2 (*Featured on the Editors' Picks of Towards Data Science*)](https://towardsdatascience.com/train-a-neural-network-to-detect-breast-mri-tumors-with-pytorch-250a02be7777)
+
+#### Differential Geometry Cheatsheet
+See [here](https://github.com/nickk124/differentialgeometry-cheatsheet).
