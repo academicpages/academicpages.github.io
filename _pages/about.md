@@ -15,6 +15,7 @@ Python, Java, MATLAB, and C++ (mainly use Python)
 Projects I have done:
 In my previous semester, I took Probability & Random Processes, using MATLAB to build graphs of PDFs and CDFs for my assignments.
 Additionally, in the Principles of Electrical Engineering lab, I worked with a classmate to build low-pass and band-pass filters on a breadboard.
+
 Extracurricular Activities:
 Joined the Multi-cultural Club as a social media manager 
 Joined the Hong Kong Student Association as a member
