@@ -13,10 +13,10 @@ author_profile: true
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
+            <img src="/academic/images/Kevin.png" class="author__avatar" alt="Kevin Hayes">
       </div>
       <div class="author__content">
-            <p><a href = "https://www.linkedin.com/in/kevin-hayes-54248a228/">Kevin Hayes</a><br/>(Dean’s List Honoree in 2023 Spring)</p>
+            <p><a href = "https://www.linkedin.com/in/kevin-hayes-54248a228/">Kevin Hayes</a><br/>(2023 - )</p>
       </div>
       </center>
     </div>
