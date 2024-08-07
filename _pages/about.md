@@ -39,9 +39,9 @@ redirect_from:
     
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
    <details>
-        <summary>Abstract</summary> 
+        <summary>Abstract | <a href="https://houeix.github.io/files/TechnologyDiffusionNetwork_Houeix.pdf">PDF</a> </summary> 
         <div class="abstract-content">
-            <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payments technology in Senegal. By leveraging two novel sources of network data --- mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal --- I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
+            <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payments technology in Senegal. By leveraging two novel sources of network data - mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal - I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
         </div>
     </details>
     
