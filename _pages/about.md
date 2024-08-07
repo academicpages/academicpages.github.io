@@ -20,19 +20,17 @@ Selected Projects
 =====
 ## 1. Domain and Knowledge Transfer
 Enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
-### a) Multi-task Learning
+### a) Multi-Task Learning
 - [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
 - [**Saliency-Regularized Deep Multi-Task Learning**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)  
   _KDD 2022_  
 
-### b) Domain Adaptation
+### b) Domain Adaptation/Generalization
 - [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
   _KDD 2024_  
-
-### c) Domain Generalization
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
-  _ICLR 2023_   
+  _ICLR 2023_ 
 
 ## 2. Efficient Large-Scale Machine Learning
 Exploring scalable solutions in machine learning.
