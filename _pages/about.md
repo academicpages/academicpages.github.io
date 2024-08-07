@@ -42,7 +42,7 @@ Exploring scalable solutions in machine learning, particularly in LLMs and GNNs.
 - [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v3)   
   _Preprint_ 
 
-### b) Distributed Training for Graph Neural Networks (GNNs)
+### b) Distributed Training for Deep Neural Networks
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
   _Preprint_
 
