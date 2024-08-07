@@ -37,7 +37,7 @@ redirect_from:
 
 
     
-2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
+2. Nationwide Diffusion of Technology Within Firms’ Social Networks
    <details>
         <summary>Abstract | <a href="https://houeix.github.io/files/TechnologyDiffusionNetwork_Houeix.pdf">PDF</a> </summary> 
         <div class="abstract-content">
