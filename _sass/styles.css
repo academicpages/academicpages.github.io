@@ -12,12 +12,19 @@ summary {
 }
 .links {
     margin-bottom: 0.5em;
+    font-size: 0.9em;
 }
-.links a {
+.links a, .abstract-button {
     text-decoration: none;
     color: #007bff;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: inherit;
+    font-family: inherit;
+    padding: 0;
 }
-.links a:hover {
+.links a:hover, .abstract-button:hover {
     text-decoration: underline;
 }
 
@@ -41,6 +48,10 @@ summary {
 .profile-info {
     font-size: 1.2em;
     margin-bottom: 2em;
+}
+.papers-list {
+    list-style-type: decimal;
+    margin-left: 20px;
 }
 .paper {
     margin-bottom: 1.5em;
