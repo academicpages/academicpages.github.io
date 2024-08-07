@@ -27,7 +27,7 @@ redirect_from:
 
 ## Working Papers
 
-1. Digitalization and Within-Firm Contracts, *Draft Coming Soon*
+1. Digitalization and Within-Firm Contracts **(Job Market Paper)**, *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
