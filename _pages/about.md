@@ -30,9 +30,9 @@ redirect_from:
 1. Digitalization and Within-Firm Contracts, *Draft Coming Soon*
 
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
- - <a href="#" onclick="toggleAbstract('abstract2')">Abstract</a> | <a href="URL_to_PDF2.com">PDF</a>
+  - <a href="#" onclick="toggleAbstract('abstract2')">Abstract</a> | <a href="URL_to_PDF2">PDF</a>
     <div id="abstract2" style="display:none; margin-top: 5px;">Here is a brief abstract of the paper...</div>
-                
+         
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
 4. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
