@@ -35,7 +35,7 @@ This project focuses on enhancing machine learning models' adaptability and effe
   _ICLR 2023_   
 
 ## 2. Efficient Large-Scale Machine Learning
-Exploring scalable solutions in machine learning, particularly in LLMs and GNNs.
+Exploring scalable solutions in machine learning.
 ### a) Model Compression & Acceleration of LLMs 
 - [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
   _Under review of CSUR_
