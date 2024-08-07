@@ -30,6 +30,8 @@ redirect_from:
 1. Digitalization and Within-Firm Contracts, *Draft Coming Soon*
 
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
+ - <a href="#" onclick="toggleAbstract('abstract2')">Abstract</a> | <a href="URL_to_PDF2.com">PDF</a>
+    <div id="abstract2" style="display:none; margin-top: 5px;">Here is a brief abstract of the paper...</div>
                 
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
@@ -47,3 +49,13 @@ redirect_from:
 - [Urban Development in Africa: Preliminary Report on the Addis Ababa SEDRI Study](http://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/audri_addis.pdf) (with Girum Abebe, Daniel Agness, Pascaline Dupas, Marcel Fafchamps, and Tigabu Getahun), 2018.
 
 
+<script>
+function toggleAbstract(id) {
+  var element = document.getElementById(id);
+  if (element.style.display === "none") {
+    element.style.display = "block";
+  } else {
+    element.style.display = "none";
+  }
+}
+</script>
