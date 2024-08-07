@@ -30,9 +30,13 @@ redirect_from:
 1. Digitalization and Within-Firm Contracts, *Draft Coming Soon*
 
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
-  - <a href="#" onclick="toggleAbstract('abstract2')">Abstract</a> | <a href="URL_to_PDF2">PDF</a>
-    <div id="abstract2" style="display:none; margin-top: 5px;">Here is a brief abstract of the paper...</div>
-         
+   <details>
+        <summary>Abstract  | <a href="https://economics.mit.edu/">PDF</a> </summary> 
+        <div class="abstract-content">
+            <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payments technology in Senegal. By leveraging two novel sources of network data --- mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal --- I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
+        </div>
+    </details>
+    
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
 4. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
@@ -49,13 +53,3 @@ redirect_from:
 - [Urban Development in Africa: Preliminary Report on the Addis Ababa SEDRI Study](http://fsi-live.s3.us-west-1.amazonaws.com/s3fs-public/audri_addis.pdf) (with Girum Abebe, Daniel Agness, Pascaline Dupas, Marcel Fafchamps, and Tigabu Getahun), 2018.
 
 
-<script>
-function toggleAbstract(id) {
-  var element = document.getElementById(id);
-  if (element.style.display === "none") {
-    element.style.display = "block";
-  } else {
-    element.style.display = "none";
-  }
-}
-</script>
