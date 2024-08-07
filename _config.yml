@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Eason Huang"
+  pronouns         : # example: "he/his"  
+  bio              : "An honest person passionate about machine learning and quantitative analysis"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
