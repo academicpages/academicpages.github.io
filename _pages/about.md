@@ -19,7 +19,7 @@ I am interested in designing **efficient, generalizable, and explainable learnin
 Selected Projects
 =====
 ## 1. Domain and Knowledge Transfer
-This project focuses on enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
+Enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
 ### a) Multi-task Learning
 - [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
   _SDM 2023_  
