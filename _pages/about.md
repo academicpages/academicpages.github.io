@@ -12,6 +12,7 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* August 6th: Clarke et al. 2024 - _Quantifying the coincidence between gravitational waves and fast radio bursts from neutron star--black hole mergers_ submitted to PRD. Check it out on the [arXiv](https://ui.adsabs.harvard.edu/abs/2024arXiv240802534C/abstract)
 * July 22-24th: This week I am in London, attending the PAX meeting on gravitational waves
 * July 3rd: Sarin et al. 2024 - _Measuring the nuclear equation of state with neutron star-black hole mergers_ accepted in PRD. Check it out on the [arXiv](https://arxiv.org/abs/2311.05689)
 * June 10-15th: This week I am attending the ZTF meeting and the Transient Symposium at the Royal Academy of Sciences. I am giving a talk on Redback.
