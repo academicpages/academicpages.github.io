@@ -1,5 +1,5 @@
 ---
-title: "Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation"
+title: "Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation, ICLR 2024 paper"
 collection: talks
 type: "Presentation"
 venue: "2nd Munich CausalML Workshop"
