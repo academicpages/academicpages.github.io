@@ -23,6 +23,7 @@ My research interests include
 
 # News
 ### 2024
+- 🎤 [Aug 2024] Presenting the tutorial 'Causal ML for treatment effect estimation' at the [3rd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-08-07-talk-munich-causal-ml/)
 - ✈️ [Jul 2024] Attending [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria
 - 🧘‍ [Jul 2024] Attending [relAI retreat 2024](https://zuseschoolrelai.de/relai-retreat-2024/) & presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' in Miesbach, Germany 
 - 🎤 [Jun 2024] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [Tissue Image Analytics (TIA) seminar (University of Warwick)](https://valentyn1997.github.io/talks/2024-06-24-talk-tia-seminar/)
@@ -32,7 +33,7 @@ My research interests include
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
 - 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
-- 🎤 [Jan 2024] Presenting the pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich CausalML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
+- 🎤 [Jan 2024] Presenting the pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
 
 ### 2023
 - 🏅 [Nov 2023] Designated as a top reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
@@ -44,7 +45,7 @@ My research interests include
 - 🏫 [Jul 2023] Attending [Munich Econometrics Workshop 2023](https://munichmetrics.de/workshop-2023) in Munich, Germany
 - 🏫 [Jun 2023] Attending [Nordic Probabilistic AI School 2023](https://probabilistic.ai/) as a participant and teacher assistant
 - 🚀 [Jun 2023] Joined Konrad Zuse School of Excellence in Reliable AI (relAI) as an [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/)
-- 🎤 [May 2023] Presenting ICML 2022 & 2023 papers at the [1st Munich CausalML Workshop](https://valentyn1997.github.io/talks/2023-05-31-talk-munich-causal-ml/)
+- 🎤 [May 2023] Presenting ICML 2022 & 2023 papers at the [1st Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2023-05-31-talk-munich-causal-ml/)
 - 🏅 [Apr 2023] Designated as a top reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/)
 - 📙 [Apr 2023] 1 paper accepted at ICML 2023: [Normalizing Flows for Interventional Density Estimation](https://valentyn1997.github.io/publications/2023-07-20-normalizing-flows-for-interventional-density-estimation/)
 - 🎤 [Feb 2023] Presenting ICML 2022 paper 'Causal Transformer for Estimating Counterfactual Outcomes' at the [Causality Discussion Group](https://valentyn1997.github.io/talks/2023-02-01-talk-ct-cdg/)

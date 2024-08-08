@@ -2,7 +2,7 @@
 title: "ICML 2022 & 2023 papers"
 collection: talks
 type: "Presentation"
-venue: "1st Munich CausalML Workshop"
+venue: "1st Munich Causal ML Workshop"
 date: 2023-05-31
 location: "LMU Munich, Munich, Germany"
 slides: 'https://docs.google.com/presentation/d/1SGORtYxZR3QMPcit972klL-1jSqh-3GL/edit?usp=sharing&ouid=109713321342366246841&rtpof=true&sd=true'

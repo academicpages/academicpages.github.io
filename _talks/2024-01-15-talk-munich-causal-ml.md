@@ -2,7 +2,7 @@
 title: "Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation, ICLR 2024 paper"
 collection: talks
 type: "Presentation"
-venue: "2nd Munich CausalML Workshop"
+venue: "2nd Munich Causal ML Workshop"
 date: 2024-01-15
 location: "LMU Munich, Munich, Germany"
 slides: 'https://docs.google.com/presentation/d/1TYfvgoJm2XLGq97-O_Xrh7Gd5p0kKIOB/edit?usp=sharing&ouid=109713321342366246841&rtpof=true&sd=true'
