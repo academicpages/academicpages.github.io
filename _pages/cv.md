@@ -49,3 +49,11 @@ Skills
 Service and leadership
 ======
 * President (2016-17), Vidyut, The Physics Society, Miranda House, University of Delhi
+
+Presentations 
+
+=========== 
+* Poster presentation: CogSci 2024, Title: Processing of scene intrinsics in the visual ventral stream
+* Poster presentation: Cogsci 2023, Title: Perception of Mooney faces: Extreme Generalization through Inverse rendering?
+
+
