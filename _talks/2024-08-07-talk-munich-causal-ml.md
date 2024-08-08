@@ -8,4 +8,4 @@ location: "LMU Munich, Munich, Germany"
 slides: 'https://docs.google.com/presentation/d/1E8nSRrpJvwtSbObObgILlojDGgHTcOqA/edit?usp=sharing&ouid=109713321342366246841&rtpof=true&sd=true'
 ---
 
-Practical tutorial on the universe of the causal ML methods. 
+Tutorial on the universe of the causal ML methods. 
