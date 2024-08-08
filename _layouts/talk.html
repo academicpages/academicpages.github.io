@@ -22,7 +22,7 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
-    {% if post.venue %}<meta itemprop="venue" content="{{ page.venue }},  {{page.location}} "> <p class="archive__item-excerpt" itemprop="description">{% endif %}
+    {% if page.venue %}<meta itemprop="venue" content="{{ page.venue }},  {{page.location}} "> <p class="archive__item-excerpt" itemprop="description">{% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
