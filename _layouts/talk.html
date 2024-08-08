@@ -40,8 +40,11 @@ layout: default
             {% if page.recording %}
               <a href=" {{ page.recording }} ">Recording</a>
             {% endif %}
+            {% if page.recording and page.slides %}
+              |
+            {% endif %}
             {% if page.slides %}
-              | <a href=" {{ page.slides }} ">Slides</a>
+               <a href=" {{ page.slides }} ">Slides</a>
             {% endif %}
           </p>
 
