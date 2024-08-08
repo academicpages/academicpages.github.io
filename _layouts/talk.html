@@ -35,7 +35,7 @@ layout: default
         {% elsif page.date %}
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></p>
         {% endif %}
-        {% if page.type %}<p><strong><i class="fa-solid fa-location-dot" aria-hidden="true"></i>Location:</strong> {{ page.venue }},  {{page.location}} {% endif %}
+        {% if page.type %}<p><strong><i class="fa-solid fa-map-location-dot"></i>Location:</strong> {{ page.venue }},  {{page.location}} {% endif %}
           <p>
             {% if page.recording %}
               <a href=" {{ page.recording }} ">Recording</a>
