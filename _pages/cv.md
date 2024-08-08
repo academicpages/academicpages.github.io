@@ -39,6 +39,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
+* Reviewer at [ICML 2024](https://icml.cc/Conferences/2024)
 * Research stay at [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge, Feb-May 2024
 * Reviewer at [AISTATS 2024](https://aistats.org/aistats2024/)
 * Reviewer at [ICLR 2024](https://iclr.cc/Conferences/2024)
