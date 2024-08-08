@@ -41,8 +41,11 @@
     {% if post.recording %}
       <a href=" {{ post.recording }} ">Recording</a>
     {% endif %}
+    {% if post.recording and post.slides %}
+      |
+    {% endif %}
     {% if post.slides %}
-      | <a href=" {{ post.slides }} ">Slides</a>
+      <a href=" {{ post.slides }} ">Slides</a>
     {% endif %}
     </p>
 <!--    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}-->
