@@ -1,0 +1,27 @@
+---
+layout: compress
+---
+
+{% include base_path %}
+
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
+  <head>
+    {% include head.html %}
+  </head>
+
+  <body>
+
+    <!-- {% include navbar.html %} -->
+    {% include navbar.html %}
+
+    {{ content }}
+
+    <div class="page__footer">
+      <footer>
+        {% include footer.html %}
+      </footer>
+    </div>
+
+  </body>
+</html>

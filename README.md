@@ -1,3 +1,17 @@
+# Personal Website
+
+## Preparing Files
+
+```bash
+make
+```
+
+## Local Serving
+
+```bash
+bundle exec jekyll serve
+```
+
 ## Subdomain Records
 
 ### Software

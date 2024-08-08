@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications
+
+  - title: "Software"
+    url: /software
+
+  - title: "Talks"
+    url: /talks    
+    
+  - title: "CV"
+    url: /assets/files/Sledzieski_Samuel_CV.pdf

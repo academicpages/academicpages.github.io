@@ -1,0 +1,102 @@
+- type: journal
+  publications:
+    
+    - title: "Democratizing Protein Language Models with Parameter-Efficient Fine-Tuning"
+      authors: "Sledzieski, Kshirsagar, Baek, Berger, Dodhia, Lavista Ferres"
+      venue: "Proceedings of the National Academy of Sciences"
+      extra: "121.26 (2024): e2405840121"
+      date: 2024-06-20
+      pdf: "https://www.pnas.org/doi/10.1073/pnas.2405840121"
+      code: "https://cb.csail.mit.edu/cb/topsyturvy/"
+    
+    - title: "TT3D: Leveraging Pre-Computed Protein Sequence Models to Predict Protein-Protein Interactions"
+      authors: "Sledzieski*, Devkota*, Singh, Cowen, Berger"
+      venue: "Bioinformatics"
+      extra: "2023: btad663"
+      date: 2023-10-28
+      pdf: "https://academic.oup.com/bioinformatics/article/39/11/btad663/7332153"
+      code: "https://github.com/microsoft/peft_proteomics"
+      talk: "https://www.youtube.com/watch?v=tL3aRs4gSgM"
+    
+    - title: Contrastive learning in protein language space predicts interactions between drugs and protein targets
+      authors: "Sledzieski*, Singh*, Bryson, Cowen, Berger"
+      venue: "Proceedings of the National Academy of Sciences"
+      extra: "120.24 (2023): e2220778120"
+      date: 2023-06-08
+      pdf: "https://www.pnas.org/doi/epdf/10.1073/pnas.2220778120"
+      code: "https://cb.csail.mit.edu/cb/conplex/"
+    
+    - title: "Transfer of knowledge from model organisms to evolutionarily distant non-model organisms: The coral <i>Pocillopora damicornis</i> membrane signaling receptome"
+      authors: "Kumar, Brenner, Sledzieski, Olaosebikan, Lynn-Goin, Putnam, Yang, Lewinski, Singh, Daniels, Cowen, Klein-Seetharaman"
+      venue: "Plos one"
+      extra: "18.2 (2023). 10.1371/journal.pone.0270965"
+      date: 2023-02-03
+      pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9897584/pdf/pone.0270965.pdf"
+    
+    - title: "virDTL: Viral recombination analysis through phylogenetic reconciliation and its application to sarbecoviruses and SARS-CoV-2"
+      authors: "Zaman*, Sledzieski*, Wu, Bansal"
+      venue: "J Comput Biol"
+      extra: "2022 Sep 20. doi: 10.1089/cmb.2021.0507. Epub ahead of print. PMID: 36125448"
+      date: 2022-09-20
+      pdf: "https://www.liebertpub.com/doi/10.1089/cmb.2021.0507"
+      code: "https://github.com/suz11001/virDTL"
+    
+    - title: "Topsy-Turvy: integrating a global view into sequence-based PPI prediction"
+      authors: "Singh*, Devkota*, Sledzieski, Berger, Cowen"
+      venue: "Bioinformatics"
+      extra: "38.Supplement_1 (July 2022): i264–i272"
+      date: 2022-06-27
+      pdf: "https://academic.oup.com/bioinformatics/article/38/Supplement_1/i264/6617505"
+      code: "https://cb.csail.mit.edu/cb/topsyturvy/"
+      talk: "https://www.youtube.com/watch?v=8PbWHE-pXf8"
+    
+    - title: "D-SCRIPT translates genome to phenome with sequence-based, structure-aware, genome-scale predictions of protein-protein interactions"
+      authors: "Sledzieski*, Singh*, Cowen, Berger"
+      venue: "Cell Systems"
+      extra: "12.10 (2021): 969-982"
+      date: 2021-10-20
+      pdf: "https://www.cell.com/cell-systems/pdfExtended/S2405-4712(21)00333-1"
+      code: "https://cb.csail.mit.edu/cb/dscript/"
+
+- type: conference
+  publications:
+    
+    - title: "Parameter-Efficient Fine-Tuning of Protein Language Models Improves Prediction of Protein-Protein Interactions"
+      authors: "Sledzieski, Kshirsagar, Baek, Berger, Dodhia, Lavista Ferres"
+      venue: "Machine Learning for Structural Biology Workshop at NeurIPS"
+      date: 2023-12-15
+      pdf: "https://www.mlsb.io/papers_2023/Parameter-Efficient_Fine-Tuning_of_Protein_Language_Models_Improves_Prediction_of_Protein-Protein_Interactions.pdf"
+    
+    - title: "Contrasting drugs from decoys"
+      authors: "Sledzieski*, Singh*, Cowen, Berger"
+      venue: "Machine Learning for Structural Biology Workshop at NeurIPS"
+      date: 2022-11-03
+      pdf: "https://www.biorxiv.org/content/10.1101/2022.11.03.515086v1.full.pdf"
+    
+    - title: "AdaPro: Adapting Protein Language Models for Rapid Drug-Target Interaction Prediction"
+      authors: "Sledzieski*, Singh*, Cowen, Berger"
+      venue: "Machine Learning for Structural Biology Workshop at NeurIPS"
+      date: 2021-12-13
+      pdf: "https://www.biorxiv.org/content/10.1101/2021.12.13.472073v1.full.pdf"
+    
+    - title: "Sequence-based prediction of protein-protein interactions: a structure-aware interpretable deep learning model"
+      authors: "Sledzieski*, Singh*, Cowen, Berger"
+      venue: "Conference on Research in Computational Molecular Biology (RECOMB)"
+      date: 2021-01-25
+      pdf: "https://www.biorxiv.org/content/10.1101/2021.01.22.427866v1.full.pdf"
+
+    - title: "TreeFix-TP: Phylogenetic Error Correction for Accurate Reconstruction of Viral Transmission Networks"
+      authors: "Sledzieski*, Zhang, Mandoiu, Bansal"
+      venue: "Pacific Symposium on Biocomputing (PSB)"
+      date: 2021-01-06
+      pdf: "https://www.worldscientific.com/doi/pdf/10.1142/9789811232701_0012"
+      code: "https://github.com/samsledje/TreeFix-TP"
+
+- type: preprint
+  publications:
+    - title: Single-cell mosaicism analysis reveals cell-type-specific somatic mutational burden in Alzheimer’s Dementia
+      authors: "Kousi, Boix, Park, Mathys, Sledzieski, Peng, Bennett, Tsai, Kellis"
+      venue: bioRxiv
+      extra: "posted 22 April 2022, 10.1101/2022.04.21.489103"
+      date: 2022-04-22
+      pdf: "https://www.biorxiv.org/content/10.1101/2022.04.21.489103v1.full.pdf"
