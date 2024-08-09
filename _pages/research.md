@@ -10,8 +10,6 @@ My research focuses on **AI Chip and System**, with the following directions:
 * Agile Development for AI Chips 
 
 I have an online paper collection for AI chip-related research, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which is helpful for students to learn the history and SOTA of AI hardware research.
-<br/><br/>
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=dsa5AVOFg0rRpp7KEbZkefF_b96H2AZUpT5NKWikq3s&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
 
 [Jul. 2023] **AutoDCIM, Automated Digital CIM Macro Compiler.**
 - I worked with ACCESS and developed AutoDCIM, the first automated digital CIM (DCIM) macro compiler. AutoDCIM takes the user specifications as inputs and generates a DCIM macro architecture with an optimized layout. With the growing interest in the DCIM field, AutoDCIM will play an important role in agile DCIM implementation and developing an ecosystem for DCIM-based AI computing.
