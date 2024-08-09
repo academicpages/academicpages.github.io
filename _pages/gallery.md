@@ -4,7 +4,7 @@ permalink: /gallery/
 author_profile: true
 ---
 
-## University of Macau, Macau, China, May 2024
+## University of Macau, Macau, China, May 2024 
 
 <img src="/images/2024_macau[1].jpg" />
 
