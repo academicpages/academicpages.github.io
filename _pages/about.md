@@ -1,49 +1,100 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Fengbin Tu (涂锋斌)"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+**Assistant Professor**
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+*The Hong Kong University of Science and Technology (HKUST)*    
+*Department of Electronic and Computer Engineering*
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Fengbin Tu is currently an [Assistant Professor](https://ece.hkust.edu.hk/fengbintu) in the Department of Electronic and Computer Engineering at The Hong Kong University of Science and Technology and a core faculty member of the AI Chip Center for Emerging Smart Systems ([ACCESS](https://inno-access.hk)) under InnoHK. He received the Ph.D. degree from the Institute of Microelectronics, Tsinghua University, under the supervision of Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm). He was a Postdoctoral Scholar at the Scalable Energy-efficient Architecture Lab (SEAL), working with Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie), University of California, Santa Barbara, from 2019 to 2022. He was a Postdoctoral Fellow at ACCESS, working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui), from 2022 to 2023. His Ph.D. dissertation entitled "[Architecture Design and Memory Optimization for Neural Network Accelerators](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CDFD&dbname=CDFDLAST2021&filename=1020828815.nh&uniplatform=NZKPT&v=bdVUOsJf2lwjfXuqPWOsl9s67ZxHKZjmHQbPimTBdIB2qgEfou0_v25FCF04_vHM)" was recognized by the Tsinghua Excellent Dissertation Award. His AI chips Thinker and ReDCIM won the 2017 ISLPED Design Contest Award and 2023 Top-10 Research Advances in China Semiconductors, respectively. Dr. Tu has an online collection of research on AI chip and architecture design, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which has attracted many researchers all around the world.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Research Interests
+AI Chip, Computing-in-Memory, Computer Architecture, Reconfigurable Computing
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Professional Experience
+Oct. 2022 - Present: **The Hong Kong University of Science and Technology (HKUST)**
+* **Assistant Professor** (Since Jun. 2023)
+* **Adjunct Assistant Professor** (Oct. 2022 - Jun. 2023)
+* Department of Electronic and Computer Engineering 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+May 2022 - Present: **AI Chip Center for Emerging Smart Systems (ACCESS)**
+* **Faculty Member** (Since Jun. 2023)
+* **Postdoctoral Fellow** (May. 2022 - Jun. 2023), working with Prof. [Tim Cheng](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng) and Prof. [Chi-Ying Tsui](https://seng.hkust.edu.hk/about/people/faculty/chi-ying-tsui)
 
-**Markdown generator**
+Oct. 2019 - May 2022: **University of California, Santa Barbara (UCSB)**
+* **Postdoctoral Scholar**, working with Prof. [Yuan Xie](https://ece.hkust.edu.hk/yuanxie)
+* Scalable Energy-efficient Architecture Lab (SEAL)
+* Department of Electrical and Computer Engineering   
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Education Experience
+Sep. 2013 - Jul. 2019: **Tsinghua University (THU)**
+* **Ph.D.** in Electronic Science and Technology
+* Dissertation: **Architecture Design and Memory Optimization for Neural Network Accelerators**
+  - Tsinghua Excellent Dissertation Award
+  - Advisor: Prof. [Shaojun Wei](https://www.ime.tsinghua.edu.cn/info/1015/1151.htm) and Prof. [Shouyi Yin](https://www.ime.tsinghua.edu.cn/info/1015/1018.htm)
+* Beijing Outstanding Graduate (5%), GPA Rank 2/20 in the Institute of Microelectronics 
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Sep. 2009 - Jun. 2013: **Beijing University of Posts and Telecommunications (BUPT)**
+* **B.S.** in Electronic Science and Technology 
+* Beijing Outstanding Graduate (5%), GPA Rank 1/255 in the School of Electronic Engineering
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Academic Services
+### Conference Services
+* PC Member, Design Automation Conference (DAC 2022 - 2024)
+* PC Member, Asia and South Pacific Design Automation Conference (ASP-DAC 2023, 2025)
+* PC Member, IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS 2022)
+* PC Member, Ph.D. Forum at DAC (2024)
+* PC Member, The 1st International Workshop on Acceleration and Optimization of Multi-modal Computing (ISCA Workshop, AOMC 2024)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+### Journal Editor
+* Science China Information Sciences (SCIS Guest Editor for Special Topic: AI Chips and Systems for Large Language Models, 2024)
+* Journal of Semiconductors (JOS Youth Editorial Board Member, 2024 - Present)
+
+### Journal Reviewer
+* IEEE Journal of Solid-State Circuits (JSSC 2023 - Present)
+* IEEE Transactions on Circuits and Systems I: Regular Papers (TCAS-I 2023 - Present)
+* IEEE Transactions on Computers (TC 2024 - Present)
+* IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2021 - Present)
+* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2023 - Present)
+* IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS 2022 - Present)
+* IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS 2021 - Present)
+* IEEE Micro (2021 - Present)
+* ACM Transactions on Design Automation of Electronic Systems (TODAES, Since 2024)
+
+## Honors and Awards
+* WAIC Yunfan Award ("Bright Stars", Top-10 Chinese AI Scholars under 35, 2024)
+* 2023 Top-10 Research Advances in China Semiconductors (2023)
+* ZGC Forum Top-100 New Technologies and Products (2023)
+* Nomination Award for 2021 Top-10 Research Advances in China Semiconductors (2021)
+* Top-Pick Paper Award in Chinese Institute of Electronics (2021)
+* Beijing Outstanding Graduate (BUPT 2013, THU 2019, 5%)
+* THU Excellent Dissertation Award (2019)
+* THU Outstanding Student Scholarship (2016, 2018)
+* THU DengFeng Fellowship (2015, 2018)
+* IME Outstanding Young Researcher Award (2018)
+* National Scholarship for Ph.D. Students (THU 2017, 0.2%)
+* ISLPED'17 Design Contest Award (2017)
+* THU Outstanding Postgraduate Assistant (2016)
+* ICFC Fellowship for Outstanding Ph.D. Students (2016)
+* Lam Research Scholarship (2015)
+* Excellent Paper Award of THU Ph.D. Student Forum (2015)
+* National Scholarship for Undergraduate Students (BUPT 2010, 2011, 2012, 0.2%)
+* BUPT Merit Student (2010, 2011, 2012)
+
+## Course Teaching
+* ELEC 2350: Introduction to Computer Organization and Design (Spring 2024)
+* ELEC 6910H: Advanced AI Chip and System (Fall 2025)
+
+## Contact
+Address: Room 2418, 2/F (Lift 25/26), Academic Building, The Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong, China
+
+Email: fengbintu at ust dot hk
+<br/><br/>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=fa9RQj-cgl1m5eQQQyP1VHu5hbgUfLQa-PSsV3Cc58w&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
