@@ -12,9 +12,7 @@ I am a researcher in statistics and machine learning in the [MAGNET](https://tea
 
 From June 2023 to July 2024, I was a postdoc in the [ARGO](https://www.di.ens.fr/argo/) team of Inria Paris and [DI ENS](https://www.di.ens.fr/) (computer science department of Ecole Normale Supérieure), working with [Kevin Scaman](https://kscaman.github.io/) on the generalization properties of Federated Learning algorithms. I also worked in close collaboration with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Marc Tommasi](http://researchers.lille.inria.fr/tommasi/) and [Giovanni Neglia](http://www-sop.inria.fr/members/Giovanni.Neglia/). Before that, I was a postdoc in the [MAGNET](https://team.inria.fr/magnet/) team, working with Marc Tommasi, Aurélien Bellet and [Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec) (EPFL) on decentralized optimization. 
 
-In January 2021, I completed a PhD in applied mathematics at Centre Borelli, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/) and [Argyris Kalogeratos](https://kalogeratos.com/psite/). My thesis work focused on statistical learning problems for data observed over graph structures, with applications to anomaly and change-point detection.
-
-Prior to my thesis, I obtained a master in mathematics, computer vision and machine learning (MVA) at ENS Paris-Saclay.
+In January 2021, I completed a PhD in applied mathematics at Centre Borelli, ENS Paris-Saclay, under the supervision of Prof. [Nicolas Vayatis](https://nvayatis.perso.math.cnrs.fr/) and [Argyris Kalogeratos](https://kalogeratos.com/psite/). My thesis work focused on statistical learning problems for data observed over graph structures, with applications to anomaly and change-point detection. Prior to my thesis, I obtained a master in mathematics, computer vision and machine learning (MVA) at ENS Paris-Saclay.
 
 You can learn more about me on my [CV](http://batistelb.github.io/files/cv-new.pdf).
 
