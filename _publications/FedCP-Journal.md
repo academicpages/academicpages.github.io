@@ -1,5 +1,5 @@
 ---
-title: "Marginal and training-conditional guarantees in one-shot federated conformal prediction"
+title: "Marginal and Training-Conditional Guarantees in One-Shot Federated Conformal Prediction"
 collection: publications
 link: https://hal.science/hal-04579882v1
 permalink: /publication/federated-cp-journal
