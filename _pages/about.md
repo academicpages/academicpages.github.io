@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher in statistics and machine learning in the [MAGNET](https://team.inria.fr/magnet/) team of Inria Lille. I am notably focused on decentralized learning methods, on the different tradeoffs that appear when trustworthy constraints (privacy, robustness, fairness) are imposed, and on provably quantifing the prediction uncertainty of decentralized models.
+I am a researcher in statistics and machine learning in the [MAGNET](https://team.inria.fr/magnet/) team of Inria Lille. In particular, I focus on decentralized learning methods, on the different tradeoffs that appear when trustworthy constraints (privacy, robustness, fairness) are imposed, and on provably quantifing the prediction uncertainty of decentralized models.
 
 From June 2023 to July 2024, I was a postdoc in the [ARGO](https://www.di.ens.fr/argo/) team of Inria Paris and [DI ENS](https://www.di.ens.fr/) (computer science department of Ecole Normale Supérieure), working with [Kevin Scaman](https://kscaman.github.io/) on the generalization properties of Federated Learning algorithms. I also worked in close collaboration with [Aurélien Bellet](http://researchers.lille.inria.fr/abellet/), [Marc Tommasi](http://researchers.lille.inria.fr/tommasi/) and [Giovanni Neglia](http://www-sop.inria.fr/members/Giovanni.Neglia/). Before that, I was a postdoc in the [MAGNET](https://team.inria.fr/magnet/) team, working with Marc Tommasi, Aurélien Bellet and [Anne-Marie Kermarrec](https://people.epfl.ch/anne-marie.kermarrec) (EPFL) on decentralized optimization. 
 
