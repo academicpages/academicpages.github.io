@@ -10,7 +10,7 @@ redirect_from:
 
 <div class="profile-container">
   <div class="profile-picture">
-    <img src="https://github.com/houeix/houeix.github.io/blob/master/images/profile_dh.jpg?raw=true" alt="Profile Picture"/>
+    <img src="https://github.com/houeix/houeix.github.io/blob/master/images/profile_dh_v2.jpg?raw=true" alt="Profile Picture"/>
     <p class="pronunciation"><small>My name is pronounced: Day-vee Wex</small></p> 
   </div>
   <div class="profile-text">
