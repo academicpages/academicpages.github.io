@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Fengbin Tu"
+title                    : "Fengbin's Home"
 title_separator          : "-"
 name                     : &name "Fengbin Tu"
 description              : &description "Assistant Professor at HKUST"
