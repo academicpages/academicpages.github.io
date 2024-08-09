@@ -21,7 +21,7 @@ repository               : "fengbintu/fengbintu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile[1].png"
+  avatar           : "profile[1].jpg"
   name             : "Fengbin Tu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Electronic Science and Technology"
