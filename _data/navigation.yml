@@ -12,6 +12,11 @@ main:
 
   - title: "Projects"
     url: /projects/
+    subpages:
+      - title: "Current Projects"
+        url: /projects/current/
+      - title: "Past Projects"
+        url: /projects/past/
 
   - title: "CV"
     url: /cv/

@@ -11,7 +11,7 @@ Here, I have listed some of the projects that I have worked on until now.
 <br />
 <h1>Space Mission Design</h1>
 
-{% for post in site.projects %}
+{% for post in site.projects.past %}
 {% if post.category == "SMD" %}
 {% include archive-single.html %}
 {% endif %}
@@ -19,7 +19,7 @@ Here, I have listed some of the projects that I have worked on until now.
 
 <h1>Space dynamics and control</h1>
 
-{% for post in site.projects %}
+{% for post in site.projects.past %}
 {% if post.category == "SDC" %}
 {% include archive-single.html %}
 {% endif %}
@@ -27,7 +27,7 @@ Here, I have listed some of the projects that I have worked on until now.
 
 <h1>Spacecraft GNC</h1>
 
-{% for post in site.projects %}
+{% for post in site.projects.past %}
 {% if post.category == "GNC" %}
 {% include archive-single.html %}
 {% endif %}

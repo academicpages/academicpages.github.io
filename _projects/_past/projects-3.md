@@ -3,8 +3,8 @@ title: "Teacher Mentor - Space technolgy and Exploration"
 excerpt: "Excellent experience disparsing knowledge to students<br/>
 <strong>June 2020 to April 2021</strong><br/>
 (PHOTO: @ESSERD)<br/><img src='/images/SSERD.png' width='200' height='150' alt='In-Orbit Servicing Target Inspection'>"
-
 collection: projects
+permalink: /projects/past/
 ---
 
 I worked as a Teaching Mentor for an NGO organization dedicated to providing students with a platform to explore and understand the opportunities in Space science and technology. I was handling students mostly in their undergraduate studies from various disciplines to work towards carrying out preliminary research and design studies. It was an enriching learning experience for me to interact with students and transfer the knowledge I have gained in my academic journey. 

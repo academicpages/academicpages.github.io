@@ -5,6 +5,7 @@ excerpt: "Mars ice sample return mission<br/>
 (PHOTO: @ESA)<br/><br/><img src='/images/Polispace.jpeg' width='200' height='150' alt='In-Orbit Servicing Target Inspection'>"
 collection: projects
 category: "SMD"
+permalink: /projects/past/
 ---
 
 I was part of the University space club called “Polispace” as a Junior project manager. In this position, I handled a team of 10 undergraduates working towards the AIAA space mission design competition. I was responsible for providing them with necessary knowledge and skills to deal with space mission design. Here is aa video of me presenting the team to the youtube live audience on the launch day of Polispace.
