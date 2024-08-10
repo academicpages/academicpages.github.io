@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/
-  
+
   - title: "Softwares"
     url: /softwares/
 
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "News"
     url: /news/
@@ -17,6 +17,6 @@ main:
 
   - title: "Blog Posts"
     url: /posts/
-   
+
   - title: "Other activities"
     url: /activities/
