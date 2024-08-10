@@ -3,15 +3,18 @@ main:
   - title: "Publications"
     url: /publications/
   
-  - title: "News"
-    url: /news/
+  - title: "Softwares"
+    url: /softwares/
 
   - title: "Talks"
     url: /talks/    
 
+  - title: "News"
+    url: /news/
+
   - title: "Tutoring"
     url: /tutoring/
-    
+
   - title: "Blog Posts"
     url: /posts/
    
