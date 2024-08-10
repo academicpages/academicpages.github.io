@@ -5,11 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 My research focuses on **AI Chip and System**, with the following directions:
-* Reconfigurable AI Chip Architecture
 * Computing-in-Memory Architecture for Emerging AI Applications
+* [Reconfigurable AI Chip Architecture](#reconfigurable-ai-chip-architecture)
 * Agile Development for AI Chips 
 
 I have an online paper collection for AI chip-related research, [Neural Networks on Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon), which is helpful for students to learn the history and SOTA of AI hardware research.
+
+## Reconfigurable AI Chip Architecture
 
 [Jul. 2023] **AutoDCIM, Automated Digital CIM Macro Compiler.**
 - I worked with ACCESS and developed AutoDCIM, the first automated digital CIM (DCIM) macro compiler. AutoDCIM takes the user specifications as inputs and generates a DCIM macro architecture with an optimized layout. With the growing interest in the DCIM field, AutoDCIM will play an important role in agile DCIM implementation and developing an ecosystem for DCIM-based AI computing.
@@ -18,14 +20,14 @@ I have an online paper collection for AI chip-related research, [Neural Networks
 [Feb. 2023] **Scaling-out Reconfigurable Digital CIM.**
 - I designed two 28nm chips that scale out the AI capability based on Reconfigurable Digital Computing-In-Memory (CIM). TensorCIM is the first CIM processor for tensor computing in a Multi-Chip-Module system. MulTCIM is the first CIM accelerator for the emerging multimodal Transformer models, which leverages attention-token-bit hybrid sparsity to improve energy efficiency.
 - [TensorCIM: A 28nm 3.7nJ/Gather and 8.3TFLOPS/W FP32 Digital-CIM Tensor Processor for MCM-CIM-based Beyond-NN Acceleration](https://ieeexplore.ieee.org/abstract/document/10067285) (**ISSCC'23**, extended to [**JSSC'24**](https://ieeexplore.ieee.org/document/10555118))
-- [MulTCIM: A 28nm 2.24$\mu$J/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (**ISSCC'23**, extended to [**JSSC'24**](https://ieeexplore.ieee.org/document/10226612))
+- [MulTCIM: A 28nm 2.24uJ/Token Attention-Token-Bit Hybrid Sparse Digital CIM-based Accelerator for Multimodal Transformers](https://ieeexplore.ieee.org/abstract/document/10067842) (**ISSCC'23**, extended to [**JSSC'24**](https://ieeexplore.ieee.org/document/10226612))
 )
 
 [Feb. 2022] **Reconfigurable Digital Computing-In-Memory AI Chip.**
 - I designed an innovative AI chip architecture, Reconfigurable Digital Computing-In-Memory. The architecture fuses the philosophy of reconfigurable computing and digital computing-in-memory, balancing efficiency, accuracy, and flexibility for emerging AI chips. I designed two 28nm chips based on the new architecture, Reconfigurable Digital CIM (ReDCIM) and Transformer CIM (TranCIM). ReDCIM (pronounced as "red-CIM") is the first CIM chip for cloud AI with flexible FP/INT support, which was covered by [Synced](https://mp.weixin.qq.com/s/v82Bt99l43S6Kegf83_q6A). TranCIM is the first CIM chip for Transformer models, which tackles the memory and computation challenges raised by Transformer's attention mechanism.
 - ReDCIM: [A 28nm 29.2TFLOPS/W BF16 and 36.5TOPS/W INT8 Reconfigurable Digital CIM Processor with Unified FP/INT Pipeline and Bitwise in-Memory Booth Multiplication for Cloud Deep Learning Acceleration](https://ieeexplore.ieee.org/document/9731762) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9968289))
   - ReDCIM was awarded the [2023 Top-10 Research Advances in China Semiconductors](https://mp.weixin.qq.com/s?__biz=MzA4OTY2Njc1Nw==&mid=2650731796&idx=1&sn=20715157349e7b05c33a499bfb3ff49b&chksm=881d30bebf6ab9a891cc54bc66f95126fbaf295b2df5121a91b8fe95029ecde29237719e9ac8&mpshare=1&scene=2&srcid=0205egurWwnMVy5QKhWrR1d3&sharer_shareinfo=0a5e68f5bd8e867fbaa555ede0957cef&sharer_shareinfo_first=9d0438640e200e56fc5ef6d3473b320a#rd), which was featured by [ACCESS](https://www.linkedin.com/posts/inno-accesshk_access-hkust-access-activity-7161248635551125505-VcrD/?utm_source=share&utm_medium=member_desktop) and [HKUST SENG News](https://seng.hkust.edu.hk/news/20240228/reconfigurable-digital-computing-memory-ai-chip-ece-professors-selected-chinas-2023-top-10-research-advances-semiconductors).
-- TranCIM: [A 28nm 15.59$\mu$J/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
+- TranCIM: [A 28nm 15.59uJ/Token Full-Digital Bitline-Transpose CIM-based Sparse Transformer Accelerator with Pipeline/Parallel Reconfigurable Modes](https://ieeexplore.ieee.org/document/9731645) (**ISSCC'22**, extended to [**JSSC'23**](https://ieeexplore.ieee.org/document/9931922))
 
 [Aug. 2020] **Evolver, Evolvable AI Chip.**
 - [Evolver: A Deep Learning Processor with On-Device Quantization-Voltage-Frequency Tuning](https://ieeexplore.ieee.org/document/9209075) (**JSSC'21**)
