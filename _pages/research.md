@@ -6,14 +6,16 @@ author_profile: true
 
 {% include base_path %}
 
-The field of synthetic biology seeks to extract living organisms’ extensive capabilities and implement them in new contexts for useful functions, enabling impactful applications in medicine, manufacturing, agriculture, and sustainability. 
+The ﬁeld of synthetic biology seeks to re-engineer natural parts and pathways for impactful applications in living therapeutics, controlled environmental release and remediation, and sustainable biomanufacturing. Yet, most synthetic biology designs to date are templated in organisms selected by natural selection, not rational design. The irreconcilable differences between nature’s goal to survive and adapt and the engineer’s goal to execute designed functions often lead to mutations and loss of function.
 
-**The grand vision of synthetic biology is to enable biology by design** – applying engineering principles (modularity, standardization, and automation) to develop a systematic framework to design biological systems from the ground instead of modifying existing organisms using one-off, non-generalizable approaches. 
+I believe that, by pivoting away from the current paradigm of engineering biology (modifying existing biological systems to achieve desired functions) to biology-by-design (creating biological systems from the ground up with deﬁned functions), we can unlock the breakthrough capability to realize synthetic biology’s full potential. This is my research vision, and my lab will attain this vision using three approaches:
 
-Although synthetic biology has progressed significantly in the past decades, most efforts have focused on *designing biology* (applying engineering to existing biology), *not biology by design* (building biology from the ground up with a defined purpose). 
+• **Assemble:** Develop in vitro expression platforms to execute biological designs outside the constraints set by living cells.
 
-This skewed focus presents significant challenges in the practical application of engineered biological systems, where the cells’ need to adapt and survive clashes with engineers’ need to execute designed functions. 
+• **Modularize:** Recode complex natural genomes to create adaptive genomes compatible with interchangeable parts and predictive design.
 
-We can only realize synthetic biology's true potential when we achieve biology by design. This is my long-term research vision, and I believe we are close to unlocking biology by design using cell-free systems. 
+• **Synthesize:** Integrate and validate designed biosystems to deliver synthetic biosystems meeting the design specifications.
 
-***Why cell-free systems?*** Cell-free systems harness living cells’ gene expression capability to perform the same function without having to keep the cells alive. A typical cell-free reaction consists of just three components: the machinery for gene expression, the energy to power gene expression, and the DNA program coding for gene expression. By removing the burden of cell survival and the membrane barrier, cell-free systems allow precise engineering and execution of desired functions beyond the constraints of living cells, making them the ideal platform to enable biology by design.
+Working toward this vision, my lab will ﬁrst focus on developing synthetic bacteriophages. Bacteriophages are viruses that speciﬁcally infect bacteria and offer both simplicity and complexity – with the simplest bacteriophage encoding just four genes and the most complex encoding up to a thousand genes. Moreover, the urgency of antibiotic resistance has revived interest in phage therapy for treating pathogenic infections. Recent discoveries about phage-microbe interactions in the human gut microbiome further underscore the potential for designing phages to modulate microbiome composition and function.
+
+Taken together, my lab aims to unlock the transformative potential of biology by design, beginning with bacteriophages. This work can pave the way for innovations in medicine and microbial community control, contributing to human health and beyond.
