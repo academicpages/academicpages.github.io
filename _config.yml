@@ -198,7 +198,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -214,7 +214,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
   # _posts
   - scope:
