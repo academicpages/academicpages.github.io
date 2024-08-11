@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-As a former McNair Scholar, I bring a deep-rooted, personal commitment to raising awareness, accessibility, and opportunities in STEM research to underrepresented groups. Outside of universities, I am part of the Engineering Biology Research Consortium’s effort to extend the reach of synthetic biology beyond research-intensive (R1) institutions. I am also a long-time mentor for the international Genetically Engineering Machines (iGEM) – where I have mentored 2 collegiate teams and 1 women-majority high school team to compete in the annual iGEM Jamboree. My mentorship effort was recognized with the Most Dedicated Mentor Award by the iGEM community in 2021.
-
-The advancement of science depends on diverse experiences and perspectives, and I am driven to promote diversity and inclusion through my research, mentorship, teaching, and outreach activities.
+As a Presidential Postdoctoral Fellow and a former McNair Scholar, I bring a deep-rooted, personal commitment to raising awareness, accessibility, and opportunities in STEM research to underrepresented groups. Outside of research, I am part of the Engineering Biology Research Consortium’s effort to extend the reach of synthetic biology beyond research-intensive (R1) institutions. I am also a long-time mentor for the international Genetically Engineering Machines (iGEM) and have served as a mentor for high school and collegiate teams to compete in the annual iGEM Jamboree. My mentorship effort was recognized with the Most Dedicated Mentor Award by the iGEM community in 2021.
 
 Caltech Summer Undergraduate Research Fellowships (SURF) Seminar Day, *Presentation Judge*, 2023
 
