@@ -10,9 +10,9 @@ The ﬁeld of synthetic biology seeks to re-engineer natural parts and pathways 
 
 I believe that, by pivoting away from the current paradigm of engineering biology (modifying existing biological systems to achieve desired functions) to biology-by-design (creating biological systems from the ground up with deﬁned functions), we can unlock the breakthrough capability to realize synthetic biology’s full potential. This is my research vision, and my lab will attain this vision using three approaches:
 
-• **Assemble:** Develop in vitro expression platforms to execute biological designs outside the constraints set by living cells.
-• **Modularize:** Recode complex natural genomes to create adaptive genomes compatible with interchangeable parts and predictive design.
-• **Synthesize:** Integrate and validate designed biosystems to deliver synthetic biosystems meeting the design specifications.
+- **Assemble:** Develop in vitro expression platforms to execute biological designs outside the constraints set by living cells.
+- **Modularize:** Recode complex natural genomes to create adaptive genomes compatible with interchangeable parts and predictive design.
+- **Synthesize:** Integrate and validate designed biosystems to deliver synthetic biosystems meeting the design specifications.
 
 Working toward this vision, my lab will ﬁrst focus on developing synthetic bacteriophages. Bacteriophages are viruses that speciﬁcally infect bacteria and offer both simplicity and complexity – with the simplest bacteriophage encoding just four genes and the most complex encoding up to a thousand genes. Moreover, the urgency of antibiotic resistance has revived interest in phage therapy for treating pathogenic infections. Recent discoveries about phage-microbe interactions in the human gut microbiome further underscore the potential for designing phages to modulate microbiome composition and function.
 
