@@ -17,6 +17,4 @@ In my teaching experiences, I have taught classes in Transport Phenomena (co-ins
  
 As a chemical engineering faculty candidate, I am enthusiastic about teaching undergraduate classes in numerical methods, chemical kinetics, and transport phenomena. Additionally, I am interested in teaching graduate classes in biomolecular engineering as well as developing new courses in synthetic biosystems design and virus-based technologies.
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
 {% endfor %}
