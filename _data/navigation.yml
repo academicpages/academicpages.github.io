@@ -2,21 +2,12 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/  
   
   - title: "CV"
     url: /files/YZ_CV.pdf
 
-  - title: "Teaching"
+  - title: "Teaching and Mentoring"
     url: /teaching/    
-    
-  - title: "Mentoring"
-    url: /mentoring/
         
   - title: "Outreach"
     url: /outreach/
