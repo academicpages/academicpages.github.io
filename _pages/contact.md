@@ -14,6 +14,6 @@ otuncelgurlek1@gsu.edu
 ## TO FIND ME
 
 Georgia State University Library
-Library South Research Data Services Suite 
+Library South Research Data Services Suite 225 
 100 Decatur St. SE
 Atlanta, GA 30303
