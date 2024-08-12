@@ -15,10 +15,12 @@ I'm an associate editor for the following Quartile 1 international journals:
 - IEEE Transactions on Artificial Intelligence and 
 - Ad-Hoc Networks 
 
-I also serve on numerous TPC for international conferences including (in 2024):
-- The Web Conference (2024)
-- World Congress on AIIoT (2024)
-- Cyber Security and Privacy Workshop with IEEE COMSNETS (2024)
+I serve on numerous TPC for international conferences including (in 2025 and 2024):
+- __AAAMAS (2025) (CORE A*)__
+- __ACM AsiaCCS (2025) (CORE A)__
+- __The Web Conference (2024) (CORE A*)__
+- __World Congress on AIIoT (2024)__
+- __Cyber Security and Privacy Workshop with IEEE COMSNETS (2024)__
 
 # News:
 - (21/04/2024): We are providing  2 PhD scholarships of up to $60K/year stipend  for research on AI and higher-graph models for network security. Please contact me directly if interested.
