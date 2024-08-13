@@ -30,7 +30,7 @@ author_profile: true
    - [Replication data](https://github.com/ozlemtuncel/ozlemtuncel.github.io/blob/e27b1fcf30f3382b58edd9301108ba60072719e5/files/Supplementary_Materials.zip?raw=true) 
    - [PREP Data Website](https://sites.gsu.edu/prepdata/)
 
-- **Tuncel, O.** 2017. [AKP Dönemi Eğitim Politikalarına İlişkin Bir Örnek: Değerler Eğitimi](http://www.feministyaklasimlar.org/ozet/?postid=3057). (An Example from Education Policies of the AKP Period: Values Education). *Kültür ve Siyasette Feminist Yaklaşımlar*, 33, 3-26. (in Turkish)
+- **Tuncel, O.** 2017. [AKP dönemi eğitim politikalarına ilişkin bir örnek: Değerler eğitimi](http://www.feministyaklasimlar.org/ozet/?postid=3057). (An example from education policies of the AKP period: Values education). *Kültür ve Siyasette Feminist Yaklaşımlar*, 33, 3-26. (in Turkish)
 
 ### Book Chapters:
 - McCoy, J., Gomez Cruces, J. S., **Tuncel, O.**, & Littvay, L. (2025). [Reducing partisan animus in populist contexts: Limitations of shared common humanity and perspective-taking interventions.](https://www.routledge.com/The-Ideational-Approach-to-Populism-Volume-II-Consequences-and-Mitigation/Chryssogelos-Hawkins-Hawkins-Littvay-Wiesehomeier/p/book/9781032788883) In Angelos Chryssogelos, Eliza Tanner Hawkins, Kirk A. Hawkins, Levente Littvay, and Nina Wiesehomeier (Eds.) [The ideational approach to populism, Volume II: Consequences and mitigation](https://www.routledge.com/The-Ideational-Approach-to-Populism-Volume-II-Consequences-and-Mitigation/Chryssogelos-Hawkins-Hawkins-Littvay-Wiesehomeier/p/book/9781032788883). Routledge.
@@ -42,15 +42,15 @@ author_profile: true
 ### Policy Papers and Other Publication:
 - **Tuncel, O.**, Manning, C., & Smith, I. 2022. [Political integration and post-war elections](https://fba.se/en/about-fba/publications/political-integration-and-post-war-elections/). In the Political Dynamics of DDR Series. *The Folke Bernadotte Academy (FBA).*
 - McCoy, J., Press, B., Somer, M., & **Tuncel, O.** 2022, May 05. [Reducing Pernicious Polarization: A Comparative Historical Analysis of Depolarization](https://carnegieendowment.org/2022/05/05/reducing-pernicious-polarization-comparative-historical-analysis-of-depolarization-pub-87034). *Carnegie*.
-- Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's Struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
+- Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
 
 ### Under Review
-- [Ousting an autocrat: Pre-electoral coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper, journal article*
-- Understanding Opposition Strategies Through Opposition Learning: Example of Turkish Opposition Parties Navigating the New Electoral Field. *journal article*
+- [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper*
+- [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article*
 
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- Conduct and reporting of elite interviewing in political science research. *journal article* (EMW project, will be presented at APSA 2024)
+- Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/), will be presented at APSA 2024)
 - Explaining the success of opposition coalitions against autocrats. *journal article* (will be presented at APSA 2024) 
  
 ### Work-In-Progress
