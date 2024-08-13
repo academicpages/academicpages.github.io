@@ -85,10 +85,10 @@ author:
   bio              : "Researcher and developer"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.fr/citations?user=LtzNKccAAAAJ&hl=en&oi=ao"
+  email            : somnath3112@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Somnath-Buriuly"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "somnath-buriuly-86629759/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-5432-4516"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : # http://stackoverflow.com/users/9780928/somnath
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "somnath3112"
   vine             :
   weibo            :
   xing             :
