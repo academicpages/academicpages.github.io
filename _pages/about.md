@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+
 <span class='anchor' id='about-me'></span>
 
 Hello, my name is Changjing Liu (刘常靖), a master student at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), Shanghai, China, welcome to my homepage!
 Right now I major in instrument science and technology.
 My current research interests mainly focus on **medical robotics and medical simulation**, supervised by [Prof. Zhiwu Wang](http://www.ie.sjtu.edu.cn/Data/View/260) and [Prof. Guozheng Yan](https://baike.baidu.com/item/%E9%A2%9C%E5%9B%BD%E6%AD%A3/437103).
+
+This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+A data-driven personal website
 
 Prior to this, I graduated from [Tongji University](https://www.tongji.edu.cn/) in Shanghai, China, in 2021 with a bachelor's degree in mechanical engineering (Mechatronics), and seized the award of the First Prize Scholarship at Tongji University (Top 5%). 
 During my undergraduate studies, I mainly focused on **drone visual tracking** under the supervision of [Prof. Changhong Fu](https://vision4robotics.github.io/authors/changhong-fu/) in [Vision4Rbotics Group](https://vision4robotics.github.io/).
@@ -24,6 +29,7 @@ Click [here](https://changjing-liu.github.io/assets/resume_changjingliu_english.
 
 
 <span class='anchor' id='educations'></span>
+
 
 # 🎓 Educations
 ---
@@ -191,10 +197,12 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 + IoT platform and cloud server.
 + Web and WeChat remote monitoring platform.
 
+
 </div>
 </div>
 
 <span class='anchor' id='awards'></span>
+
 
 # 🏅 Awards and Honors
 ---  
@@ -203,3 +211,4 @@ Robot Software Algorithm Intern, *Fragrant Mountain Microwave Co., Ltd.* <img sr
 + First Prize Scholarship at Tongji University ( **Top 5%**), 2019-2020
 + Sencond Prize of Shanghai Undergraduate Mathematical Contest in Modeling, 2019
 + Sencond Prize Scholarship at Tongji University, 2018-2019
+
