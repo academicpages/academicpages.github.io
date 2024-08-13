@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Somnath Buriuly"
 description              : &description "Research Scholar"
