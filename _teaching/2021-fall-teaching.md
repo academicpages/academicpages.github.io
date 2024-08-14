@@ -4,7 +4,9 @@ collection: teaching
 type: "ECONS 321: Economics of Sports in America (Online)"
 venue: "Washington State University, School of Economics Sciences"
 date: Fall 2021 
-location: "Pullman, Wa"
+location: "Pullman, WA"
 ---
 
-Syllabus: [Click Here](files/ECONS-102-ONLIN-1-G01-02692-Fund of Macroeconomics.pdf)
+Syllabus: [Click Here](/files/Syllabus%20for%202021-Fall-ECONS-321-ONLIN-1-01-10941-Economics%20of%20Sports%20in%20America.pdf)
+
+Teaching Evaluation: [Click Here](/files/2021%20Fall%20Instructor%20Quick%20Report%20ECONS%20321%2001%20ONLIN%20PULLM_82761ebb-a487-499b-b8e4-575ba3e7baaaen-US.pdf)
