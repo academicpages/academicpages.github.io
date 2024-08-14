@@ -3,7 +3,7 @@ title: "Instructor"
 collection: teaching
 type: "ECONS 321: Economics of Sports in America (Online)"
 venue: "Washington State University, School of Economics Sciences"
-date: Fall 2021 
+date: 2021-08-15 
 location: "Pullman, WA"
 ---
 
