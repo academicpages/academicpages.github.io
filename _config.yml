@@ -302,7 +302,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-
+remote_theme: yaoyao-liu/minimal-light
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
