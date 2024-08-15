@@ -10,6 +10,7 @@ redirect_from:
 ![Illustration of automated tuning](/images/automated.png){: .align-right width="300px"} 
 I am a second-year physics master's student in the [Department of Quantum System Electronics](https://www.sanken.osaka-u.ac.jp/labs/qse/indexEN.html) at Osaka University, Japan.
 I do research on automated tuning of gate-defined quantum dots. 
+
 <p>I am advised by Dr. Takafumi Fujita and Professor Akira Oiwa.</p>
 
 Research Interest
@@ -17,8 +18,7 @@ Research Interest
 My main research interest lies in the intersection of machine learning and Quantum computing.
 Currently I am doing research on developping methods for tuning spin qubits in semiconductor quantum dots. 
 
-The electron spins in multiple quantum dots must be tuned to a desirable state with optimal tunnel coupling and detuning for optimal operation as a qubit.
-In addition,Fast characterization and automation of the adjustment are essential for realizing scalable quantum processors.
+To perform quantum computation using spin qubits, the electron spins in multiple quantum dots must be tuned to a desirable state with optimal tunnel coupling and detuning for effective qubit operation. In addition, fast characterization and automation of these adjustments are essential for realizing scalable quantum processors.
 
 ![tuning](/images/tuning.png){: .center width="800px"} 
 
@@ -27,13 +27,28 @@ Projects
 ======
 
 
-Time-Efficient Tuning of a Quadruple Quantum Dot into Single Dot Regime by using a LSTM neural network
+## Time-Efficient Tuning into Single Dot Regime by using a LSTM neural network
 
-Developed a Long Short-Term Memory neural network to form single dots in the Ray-based Classification framework. This method effectively tunes a GaAs quadruple quantum dot into four separate single-dot regimes, addressing scalability challenges in quantum dot systems by minimizing the need for manual tuning.
+For my master's thesis, I developed a closed-loop feedback system to tune the fine gates of a quadruple quantum dot device into a single dot state. A Long Short-Term Memory (LSTM) neural network was used to train a machine learning model capable of distinguishing between currents with Coulomb peak traces and those without. 
 
-![Forming single dot by ray method](/images/ray_method.png){: .center width="800px"} 
+This method was inspired by the Ray-based Classification framework. By effectively tuning quantum dot devices into single-dot regimes, I aimed to address scalability challenges in spin qubit systems by minimizing the need for manual tuning.
 
+![Forming single dot by ray method](/images/ray_method.png){: .center width="900px"} 
 
+## Locations of key files/directories
+
+- **Basic config options:** `_config.yml`
+- **Top navigation bar config:** `_data/navigation.yml`
+- **Single pages:** `_pages/`
+- **Collections of pages are .md or .html files in:**
+  - `_publications/`
+  - `_portfolio/`
+  - `_posts/`
+  - `_teaching/`
+  - `_talks/`
+- **Footer:** `_includes/footer.html`
+- **Static files (like PDFs):** `/files/`
+- **Profile image (can set in _config.yml):** `images/profile.png`
 
 Automatic virtual gate extraction of simulated DQD stability diagrams
 
