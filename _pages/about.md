@@ -14,13 +14,25 @@ I am advised by Dr. Takafumi Fujita and Professor Akira Oiwa.
 
 Research Interest
 ======
+My main research interest lies in the intersection of machine learning and Quantum computing.
+Currently I am doing research on developping methods for tuning spin qubits in semiconductor quantum dots. 
+
+The electron spins in multiple quantum dots must be tuned to a desirable state with optimal tunnel coupling and detuning for optimal operation as a qubit.
+In addition,Fast characterization and automation of the adjustment are essential for realizing scalable quantum processors.
+
+![tuning](/images/tuning.png){: .center width="800px"} 
 
 
 Projects
 ======
-Time-Efficient Method of Tuning a Quadruple Quantum Dot into Single Dot Regime by using ray-based method
+
+
+Time-Efficient Tuning of a Quadruple Quantum Dot into Single Dot Regime by using a LSTM neural network
 
 Developed a Long Short-Term Memory neural network to form single dots in the Ray-based Classification framework. This method effectively tunes a GaAs quadruple quantum dot into four separate single-dot regimes, addressing scalability challenges in quantum dot systems by minimizing the need for manual tuning.
+
+![Forming single dot by ray method](/images/ray_method.png){: .center width="800px"} 
+
 
 
 Automatic virtual gate extraction of simulated DQD stability diagrams
