@@ -24,7 +24,8 @@ author:
   avatar           : "personal_photo.jpg"
   name             : "Ehsan Alizadeh"
   pronouns         : # example: "she/her"  
-  bio              : "Quantum computing @ Osaka University"
+  bio              : "Physics@ Osaka University
+                      A Graduate student wondering how machine learning could contribute to Quantum computing  "
   location         : "Osaka,Japan"
   employer         : "Osaka University"
   uri              : # URL
@@ -57,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : ehsan-alizadeh-095a92181
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
