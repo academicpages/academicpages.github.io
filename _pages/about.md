@@ -17,8 +17,8 @@ I will be on the job market starting fall 2024!
 
 ### Announcements
 
-<!--{: .notice--info}
-Our work on epistemic tensions in integrating computational thinking into humanities was [published in the journal Computer Science Education]()!-->
+{: .notice--info}
+Our work on epistemic tensions in integrating computational thinking into humanities was [published in the journal Computer Science Education](https://doi.org/10.1080/08993408.2024.2380163)!
 
 {: .notice--info}
 🎉 I passed my dissertation proposal defense! "Computing is changing the world for better and for worse, but computing education has largely been uncritical of its effect on society. Teachers need to prepare students to question the narratives of the tech industry, especially in K-12 where students are learning how to actively participate in democracy. I will research how K-12 computing teachers integrate critical perspectives into their classrooms by co-designing lessons with them."
