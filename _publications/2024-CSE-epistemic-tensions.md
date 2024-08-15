@@ -1,5 +1,5 @@
 ---
-title: '“These Two Worlds Are Antithetical": Epistemic Tensions in Integrating Computational Thinking in K12 Humanities and Arts'
+title: '“These two worlds are antithetical”: epistemic tensions in integrating computational thinking in K12 humanities and arts'
 collection: publications
 date: 2024-05-31
 venue: "Computer Science Education"
