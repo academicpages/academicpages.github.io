@@ -2,7 +2,6 @@
 permalink: /
 title: "Hi there! I am Ehsan!"
 author_profile: true
-redirect_from: 
   - /about/
   - /about.html
 ---
