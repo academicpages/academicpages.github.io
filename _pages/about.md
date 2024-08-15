@@ -12,6 +12,10 @@ I am an assistant teaching professor in the electrical and computer engineering 
 
 Prior to joining UC Davis, I was a postdoctoral scholar in the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu) at UC Berkeley. I received my PhD in Computer Science from UC San Diego in September 2023, where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings and Jesse Shapiro.
 
+# TA Positions
+
+If you are a student interested in serving as a TA for a class I am teaching, please submit an applicaiton through the process managed by the ECE department. I cannot accept TA assignment requests made over email.
+
 # Publications
 
 For a complete list of publications please see my [GoogleScholar](https://scholar.google.com/citations?user=SJywXQkAAAAJ&hl=en) profile.
