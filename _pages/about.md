@@ -10,7 +10,7 @@ redirect_from:
 ![Illustration of automated tuning](/images/automated.png){: .align-right width="300px"} 
 I am a second-year physics master's student in the [Department of Quantum System Electronics](https://www.sanken.osaka-u.ac.jp/labs/qse/indexEN.html) at Osaka University, Japan.
 I do research on automated tuning of gate-defined quantum dots. 
-I am advised by Dr. Takafumi Fujita and Professor Akira Oiwa.
+<p>I am advised by Dr. Takafumi Fujita and Professor Akira Oiwa.</p>
 
 Research Interest
 ======
