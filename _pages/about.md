@@ -101,7 +101,7 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
-      <img src="images/Ynet.png" alt="Ynet">
+      <img src="images/Ynet.jpg" alt="Ynet">
     </div>
     <div style="flex: 1;">
       <h3>Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images</h3>
