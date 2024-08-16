@@ -11,7 +11,7 @@ I am Tianyang Wang, a third-year undergraduate specializing in computer vision a
 
 I have been actively searching for the right mentor and project as I am very eager to continue my studies in this field. I would be truly grateful for the opportunity to collaborate with like-minded individuals. If you are interested, please feel free to drop me a message.😊 [Email](mailto:Tianyang.Wang21@student.xjtlu.edu.cn)
 
-2025 Fall 
+2025 Fall for Phd Position.
 
 ## Recent and Selected Publications
 
