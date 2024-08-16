@@ -103,7 +103,7 @@ I have been actively searching for the right mentor and project as I am very eag
     <div style="flex: 1;">
       <h3>Pseudo Training Data Generation for Unsupervised Cell Membrane Segmentation in Immunohistochemistry Images</h3>
       <p>Xi Long*, <span class="author-bold">Tianyang Wang*</span>, Yanjia Kan, Yunze Wang, Silin Chen, Albert Zhou, Xianxu Hou, Jingxin Liu.</p>
-      <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span style="color: #d4e157;">Congratulations! Our work has been accepted by BIBM 2024. The first undergraduate paper is finally accepted!</span></em></p>
+      <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span style="color: red;">Congratulations! Our work has been accepted by BIBM 2024. The job I did at the beginning of my undergraduate year, which is finally accepted!!!</span></em></p>
       <p><span class="author-bold">*</span> equal contribution</p>
     </div>
 </div>
