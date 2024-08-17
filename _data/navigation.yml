@@ -12,7 +12,7 @@ main:
     url: /wp/    
     
   - title: "Talks & Videos"
-    url: /portfolio/
+    url: /talks/
     
   - title: "CV"
     url: /cv/
