@@ -15,6 +15,7 @@ description              : &description "V. P. of R & D, Supra"
 url                      : https://raghavendra80.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raghavendra80.github.io"
+<<<<<<< HEAD
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -83,6 +84,8 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
+=======
+>>>>>>> d344e04 (Update _config.yml)
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
