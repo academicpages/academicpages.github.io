@@ -1,0 +1,196 @@
+@InProceedings{praveen_et_al:OASIcs.FMBC.2024.3,
+  author =	{Praveen, M. and Ramesh, Raghavendra and Doidge, Isaac},
+  title =	{{Formally Verifying the Safety of Pipelined Moonshot Consensus Protocol}},
+  booktitle =	{5th International Workshop on Formal Methods for Blockchains (FMBC 2024)},
+  pages =	{3:1--3:16},
+  series =	{Open Access Series in Informatics (OASIcs)},
+  ISBN =	{978-3-95977-317-1},
+  ISSN =	{2190-6807},
+  year =	{2024},
+  volume =	{118},
+  editor =	{Bernardo, Bruno and Marmsoler, Diego},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/OASIcs.FMBC.2024.3},
+  URN =		{urn:nbn:de:0030-drops-198688},
+  doi =		{10.4230/OASIcs.FMBC.2024.3},
+  annote =	{Keywords: Blockchain consensus, Safety, Formal verification}
+}
+
+@misc{doidge2024moonshotoptimizingchainbasedrotating,
+      title={Moonshot: Optimizing Chain-Based Rotating Leader BFT via Optimistic Proposals}, 
+      author={Isaac Doidge and Raghavendra Ramesh and Nibesh Shrestha and Joshua Tobkin},
+      year={2024},
+      eprint={2401.01791},
+      archivePrefix={arXiv},
+      primaryClass={cs.DC},
+      url={https://arxiv.org/abs/2401.01791}, 
+}
+
+@article{ROBINSON2022100030,
+title = {Atomic Crosschain Transactions for Ethereum Private Sidechains},
+journal = {Blockchain: Research and Applications},
+volume = {3},
+number = {1},
+pages = {100030},
+year = {2022},
+issn = {2096-7209},
+doi = {https://doi.org/10.1016/j.bcra.2021.100030},
+url = {https://www.sciencedirect.com/science/article/pii/S2096720921000257},
+author = {Peter Robinson and Raghavendra Ramesh and Sandra Johnson},
+keywords = {Crosschain, Blockchain, Transaction, Atomic, Ethereum},
+abstract = {The Atomic Crosschain Transaction for Ethereum Private Sidechains protocol allows composable programming across permissioned Ethereum blockchains. It allows for inter-contract and inter-blockchain function calls that are both synchronous and atomic: if one part fails, the whole call tree of function calls is discarded. The protocol is not based on existing techniques such as Hash Time Locked Contracts, relay chains, block header transfer, or trusted intermediaries. It uses (a) threshold signatures to prove values across blockchains, (b) coordination contracts to manage the state of crosschain transactions, and (c) a function call tree commitment scheme to allow users to commit to a call tree and then later check that the correct function calls have been executed. This paper analyses the processing overhead of using this technique compared to using multiple standard non-atomic single blockchain transactions. The additional processing is analysed for four scenarios involving multiple blockchains: a Trade–Finance system, the Hotel–Train problem, a Supply Chain with Provenance, and an Oracle. The protocol is shown to have both safety and liveness properties.}
+}
+
+@INPROCEEDINGS{9461132,
+  author={Robinson, Peter and Ramesh, Raghavendra},
+  booktitle={2021 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)}, 
+  title={General Purpose Atomic Crosschain Transactions}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-3},
+  url={},
+  keywords={Protocols;Conferences;Blockchain;Writing;Programming;Cryptocurrency;blockchain;ethereum;cross;transaction;atomic},
+  doi={10.1109/ICBC51069.2021.9461132}}
+
+@inproceedings{10.1145/3088515.3088519,
+author = {Hassanshahi, Behnaz and Ramesh, Raghavendra Kagalavadi and Krishnan, Padmanabhan and Scholz, Bernhard and Lu, Yi},
+title = {An efficient tunable selective points-to analysis for large codebases},
+year = {2017},
+isbn = {9781450350723},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3088515.3088519},
+doi = {10.1145/3088515.3088519},
+abstract = {Points-to analysis is a fundamental static program analysis technique for tools including compilers and bug-checkers. Although object-based context sensitivity is known to improve precision of points-to analysis, scaling it for large Java codebases remains a challenge.  In this work, we develop a tunable, client-independent, object-sensitive points-to analysis framework where heap cloning is applied selectively. This approach is aimed at large codebases where standard analysis is typically expensive. Our design includes a pre-analysis that determines program points that contribute to the cost of an object-sensitive points-to analysis. A subsequent analysis then determines the context depth for each allocation site. While our framework can run standalone, it is also possible to tune it – the user of the framework can use the knowledge of the codebase being analysed to influence the selection of expensive program points as well as the process to differentiate the required context-depth. Overall, the approach determines where the cloning is beneficial and where the cloning is unlikely to be beneficial.  We have implemented our approach using Souffl\'{e} (a Datalog compiler) and an extension of the DOOP framework. Our experiments on large programs, including OpenJDK, show that our technique is efficient and precise. For the OpenJDK, our analysis reduces 27\% of runtime and 18\% of memory usage in comparison with 2O1H points-to analysis for a negligible loss of precision, while for Jython from the DaCapo benchmark suite, the same analysis reduces 91\% of runtime for no loss of precision.},
+booktitle = {Proceedings of the 6th ACM SIGPLAN International Workshop on State Of the Art in Program Analysis},
+pages = {13–18},
+numpages = {6},
+keywords = {points-to analysis, selective context-sensitivity},
+location = {Barcelona, Spain},
+series = {SOAP 2017}
+}
+
+@article{krishnan2016detecting,
+  title={Detecting Unauthorized Information Flows using Points-to Analysis},
+  author={Padmanabhan Krishnan and Yi Lu and Kagalavadi Ramesh Raghavendra},
+  journal={Engineering \& Technology Reference},
+  year={2016},
+  publisher={IET Digital Library},
+  doi={10.1049/etr.2015.0141},
+  url={https://digital-library.theiet.org/content/reference/10.1049/etr.2015.0141}
+}
+
+@article{dsouza2011model,
+  title={Model-Checking Trace-Based Information Flow Properties for Infinite-State Systems},
+  author={Deepak D'Souza and Kagalavadi Ramesh Raghavendra},
+  journal={Journal of Computer Security},
+  volume={19},
+  number={1},
+  pages={101--138},
+  year={2011},
+  publisher={IOS Press},
+  doi={10.3233/JCS-2010-0549},
+  url={https://content.iospress.com/articles/journal-of-computer-security/jcs549}
+}
+
+@InProceedings{baskar_et_al:LIPIcs.FSTTCS.2013.163,
+  author =	{Baskar, Anguraj and Naldurg, Prasad and Raghavendra, K. R. and Suresh, S. P.},
+  title =	{{Primal Infon Logic: Derivability in Polynomial Time}},
+  booktitle =	{IARCS Annual Conference on Foundations of Software Technology and Theoretical Computer Science (FSTTCS 2013)},
+  pages =	{163--174},
+  series =	{Leibniz International Proceedings in Informatics (LIPIcs)},
+  ISBN =	{978-3-939897-64-4},
+  ISSN =	{1868-8969},
+  year =	{2013},
+  volume =	{24},
+  editor =	{Seth, Anil and Vishnoi, Nisheeth K.},
+  publisher =	{Schloss Dagstuhl -- Leibniz-Zentrum f{\"u}r Informatik},
+  address =	{Dagstuhl, Germany},
+  URL =		{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2013.163},
+  URN =		{urn:nbn:de:0030-drops-43708},
+  doi =		{10.4230/LIPIcs.FSTTCS.2013.163},
+  annote =	{Keywords: Authorization logics, Intuitionistic modal logic, Proof theory, Cut elimination, Subformula property}
+}
+
+@InProceedings{10.1007/978-3-642-33167-1_34,
+author="D'Souza, Deepak and Raghavendra, K. R.",
+editor="Foresti, Sara and Yung, Moti and Martinelli, Fabio",
+title="Model-Checking Bisimulation-Based Information Flow Properties for Infinite State Systems",
+booktitle="Computer Security -- ESORICS 2012",
+year="2012",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="591--608",
+abstract="Bisimulation-based information flow properties were introduced by Focardi and Gorrieri [1] as a way of specifying security properties for transition system models. These properties were shown to be decidable for finite-state systems. In this paper, we study the problem of verifying these properties for some well-known classes of infinite state systems. We show that all the properties are undecidable for each of these classes of systems.",
+isbn="978-3-642-33167-1"
+}
+
+@inproceedings{10.1145/1998441.1998454,
+author = {Naldurg, Prasad and K.R., Raghavendra},
+title = {SEAL: a logic programming framework for specifying and verifying access control models},
+year = {2011},
+isbn = {9781450306881},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/1998441.1998454},
+doi = {10.1145/1998441.1998454},
+abstract = {We present SEAL, a language for specification and analysis of safety properties for label-based access control systems. A SEAL program represents a possibly infinite-state non-deterministic transition system describing the dynamic behavior of entities and their relevant access control operations. The features of our language are derived directly from the need to model new access control features arising from state-of-the art models in Windows 7, Asbestos, HiStar and others. We show that the reachability problem for this class of models is undecidable even for simple SEAL programs, but a bounded model-checking algorithm is able to validate interesting properties and discover relevant attacks.},
+booktitle = {Proceedings of the 16th ACM Symposium on Access Control Models and Technologies},
+pages = {83–92},
+numpages = {10},
+keywords = {logic programs, label-based access, bounded model checking, attacks, access control, Windows 7},
+location = {Innsbruck, Austria},
+series = {SACMAT '11}
+}
+
+@article{dsouza2011model,
+  title={Model-Checking Trace-Based Information Flow Properties},
+  author={Deepak D'Souza and Raveendra Holla and Kagalavadi Ramesh Raghavendra and Barbara Sprick},
+  journal={Journal of Computer Security},
+  volume={19},
+  number={1},
+  pages={101--138},
+  year={2011},
+  publisher={IOS Press},
+  doi={10.3233/JCS-2010-0400},
+  url={https://content.iospress.com/articles/journal-of-computer-security/jcs400}
+}
+
+@InProceedings{10.1007/978-3-540-89862-7_2,
+author="D'Souza, Deepak
+and Holla, Raveendra
+and Kulkarni, Janardhan
+and Ramesh, Raghavendra K.
+and Sprick, Barbara",
+editor="Sekar, R.
+and Pujari, Arun K.",
+title="On the Decidability of Model-Checking Information Flow Properties",
+booktitle="Information Systems Security",
+year="2008",
+publisher="Springer Berlin Heidelberg",
+address="Berlin, Heidelberg",
+pages="26--40",
+abstract="Current standard security practices do not provide substantial assurance about information flow security: the end-to-end behavior of a computing system. Noninterference is the basic semantical condition used to account for information flow security. In the literature, there are many definitions of noninterference: Non-inference, Separability and so on. Mantel presented a framework of Basic Security Predicates (BSPs) for characterizing the definitions of noninterference in the literature. Model-checking these BSPs for finite state systems was shown to be decidable in [8]. In this paper, we show that verifying these BSPs for the more expressive system model of pushdown systems is undecidable. We also give an example of a simple security property which is undecidable even for finite-state systems: the property is a weak form of non-inference called WNI, which is not expressible in Mantel's BSP framework.",
+isbn="978-3-540-89862-7"
+}
+
+@article{DSOUZA200539,
+title = {An Automata Based Approach for Verifying Information Flow Properties},
+journal = {Electronic Notes in Theoretical Computer Science},
+volume = {135},
+number = {1},
+pages = {39-58},
+year = {2005},
+note = {Proceedings of the Second Workshop on Automated Reasoning for Security Protocol Analysis (ARSPA 2005)},
+issn = {1571-0661},
+doi = {https://doi.org/10.1016/j.entcs.2005.06.005},
+url = {https://www.sciencedirect.com/science/article/pii/S1571066105050516},
+author = {Deepak D'Souza and K.R. Raghavendra and Barbara Sprick},
+keywords = {information flow control, verification, finite state systems},
+abstract = {We present an automated verification technique to verify trace based information flow properties for finite state systems. We show that the Basic Security Predicates (BSPs) defined by Mantel in [Mantel, H., Possibilistic Definitions of Security – An Assembly Kit, in: Proceedings of the 13th IEEE Computer Security Foundations Workshop (2000), pp. 185–199], which are shown to be the building blocks of known trace based information flow properties, can be characterised in terms of regularity preserving language theoretic operations. This leads to a decision procedure for checking whether a finite state system satisfies a given BSP. Verification techniques in the literature (e.g. unwinding) are based on the structure of the transition system and are incomplete in some cases. In contrast, our technique is language based and complete for all information flow properties that can be expressed in terms of BSPs.}
+}
+
+
+
