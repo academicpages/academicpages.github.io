@@ -1,19 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Peer Reviewed Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Blogs & Whitepapers"
+    url: /wp/    
     
-  - title: "Portfolio"
+  - title: "Talks & Videos"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
