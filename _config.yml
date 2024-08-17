@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Raghavendra Ramesh @ Supra"
+title                    : "Raghavendra @ Supra"
 title_separator          : "-"
 name                     : &name "Raghavendra Ramesh"
-description              : &description "personal description"
+description              : &description "Vice President of R & D, Supra"
 url                      : https://raghavendra80.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "raghavendra80.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Raghavendra"
+  name             : "Raghavendra Ramesh"
   avatar           : "raghavendra.jpg"
-  bio              : "Blockchain R&D"
-  location         : "Location"
+  bio              : "Leads Blockchain R&D"
+  location         : "Brisbane, Australia"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=JZik0U0AAAAJ&hl=en"
