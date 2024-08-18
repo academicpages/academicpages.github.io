@@ -8,7 +8,7 @@ author_profile: true
 
 Under Review
 ======
-* **Ruohan Li**, Hualan Wang*.A Novel Highway Traffic Capacity Analysis Method under Road Region Atmospheric Environment Constraints Based on a Computational Fluid Dynamics Model . <var>Atmospheric Pollution Research</var>. 2024. [Submitted to Journal]
+* **Ruohan Li**, Hualan Wang*. A Novel Highway Traffic Capacity Analysis Method under Road Region Atmospheric Environment Constraints Based on a Computational Fluid Dynamics Model . <var>Atmospheric Pollution Research</var>. 2024. [Submitted to Journal]
 * **Ruohan Li**, Arash Tavakoli, C. Nataraja, Chenfeng Xiong*. Sup-HMM Map Matching of Location Data Trajectories: A Heterogeneous and Bayesian-Optimized Hidden Markov Approach . <var>The Transportation Research Board (TRB) 104nd Annual Meeting</var>. 2024. [Under Review]
   
 Journal Publications
@@ -33,4 +33,4 @@ Patent
 ======
 * Vision-Based Lane Detection System With Self-supervised Pre-training Through Masked Sequential Auto-encoders (VLD_SP-MSAE) (Computer Software Copyright Registration in China, 2024R11L1180902, submitted and under review).
 * Automated lane detection (IDF OCT-22-060, granted on May 25, 2024, Patent number 2033551)
-                     
+                      
