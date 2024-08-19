@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "avater.jpg"
+  name             : "Lijian Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Macau"
+  employer         : "University of Macau"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mc35305@umac.mo" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
+  googlescholar    : "https://scholar.google.com/citations?user=Pe_tlDMAAAAJ&hl=zh-CN"
+  # impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Lijian-Li-2"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
