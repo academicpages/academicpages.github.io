@@ -100,6 +100,15 @@ Donors use foreign aid to promote liberal values such as democracy and multicul-
 <p>
 
 <h2 style="font-size:22px; "> In Progress </h2>
+<p>
+<p>
+
+Fishing for cooperation: how climate change affects international environmental regimes  (with <a href= "http://kellymatush.com/">Kelly Matush</a>)
+<details>
+  <summary><i>Abstract</i></summary>
+Governing mobile assets is a key task for international cooperation. Environmental and economic treaties organize national engagement with agriculture, herding, and aquaculture. As global warming changes the habitability of areas for different species, how does international cooperation respond to current and expected changes in asset mobility? Do international treaties broaden to accommodate new actors and geographies? How do states that previously were not covered by existing treaties interact with the environmental regulation regime? Using data from fish populations, we map changes in fish migration and breeding onto international environmental treaties to understand how the regulatory landscape responds to instability sparked climate change.
+
+  </details>
 
 <p>
 <p>
