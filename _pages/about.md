@@ -187,9 +187,7 @@ Reviewer for ISBI (2023)
 [Mar. 2024] Cell Membrane Image Unsupervised Segmentation Model Training Method
 
 
-# Research Internships
-
-[Jul. 2024 - present] REMOTE STUDENT INTERN at [Maizie Zhou Lab](https://lab.vanderbilt.edu/maizie-zhou-lab/), [Vanderbilt University](https://engineering.vanderbilt.edu/).
+ 
 
 
 
