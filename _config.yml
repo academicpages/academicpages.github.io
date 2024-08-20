@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joycee Mekie"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Joycee Mekie"
 description              : &description "personal description"
-url                      : https://ryeeshudhurandhar.github.io/joyceemekie.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ryeeshudhurandhar.github.io/joyceemekie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "RYeeshuDhurandhar/joyceemekie.github.io/"
+repository               : "RYeeshuDhurandhar/joyceemekie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -85,9 +85,11 @@ author:
   bio              : > 
               Associate Professor <br>
               Electrical Engineering <br>
-              IIT Gandhinagar
+              IIT Gandhinagar<br><br>
+              Office: AB 13/327c<br>
+              Lab: Nanoelectronics Devices and Circuits Laboratory (nanoDC Lab)
 
-  office           : "Academic Block 4/320 | Nanoelectronics Devices and Circuits Laboratory (nanoDC Lab)"
+  office           : 
   location         : "Gandhinagar, Gujarat, India"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
