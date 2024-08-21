@@ -9,6 +9,11 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 (<sup>\*</sup> indicates equal contribution. )
 
 # Conference Papers
+## 2025 
+* **Achieving Fairness Generalizability for Learning-based Congestion Control with Jury**<br>
+Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, Yilun Jin, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
+To appear in *European Conference on Conputer Systems (EuroSys)*, 2025. 
+
 ## 2024
 * **Efficient Decentralized Federated Singular Vector Decomposition** \[[pdf](https://www.usenix.org/system/files/atc24-chai.pdf)\]<br>
 Di Chai, Junxue Zhang, Liu Yang, **Yilun Jin**, Leye Wang, Kai Chen, Qiang Yang. <br>
