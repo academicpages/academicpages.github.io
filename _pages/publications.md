@@ -11,7 +11,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 # Conference Papers
 ## 2025 
 * **Achieving Fairness Generalizability for Learning-based Congestion Control with Jury**<br>
-Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, Yilun Jin, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
+Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
 To appear in *European Conference on Conputer Systems (EuroSys)*, 2025. 
 
 ## 2024
