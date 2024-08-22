@@ -11,23 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ol>
+<li>The role of short-term changes in cognitive capacity on economic expenditure among Kenyan agro-pastoralists</li>
+
+<p>Link: <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0247008">here</a></p>
+
+Abstract: The increased exposure of pastoralist communities in East Africa to climatic shocks has focused attention on the resilience of these communities. Although many social scientists directly or indirectly infer versions of homo-economic agents, increasing evidence in development behavioral economics, indicates that such assumptions may be misplaced. Despite on-going advances in the science concerning the effects of stress on dynamic changes in short-term cognitive capacity, there remains limited understanding of the effects of changes in cognitive capacity on economic decision making. The present research empirically evaluates the drivers of short-term changes in cognitive capacity–cognitive ability and heuristic use–and its effect on crop and livestock expenditure among predominantly poor Kenyan agro-pastoralists. Three rounds of cognition and survey data from Samburu, Kenya is analysed. The primary data was collected at the end of the 2015–16 East African drought and covers an 11-month period between October 2016 and September 2017. Dynamic panel estimation, employing maximum likelihood, is used on balanced and unbalanced data. Results indicate that fluid intelligence and heuristic use, along with literacy and stressors, affect crop expenditure. Perceptions of scarcity, relative to prior expectations, are also identified as an important determinant of short-term changes in cognitive ability. These results underscore the importance of better understanding the effects of short-term changes in cognitive capacity on economic expenditure among the poor.
+
+<p>Citation: Iles RA, Surve A, Kagundu S, Gatumu H (2021) The role of short-term changes in cognitive capacity on economic expenditure among Kenyan agro-pastoralists. PLoS ONE 16(3): e0247008. <a href=https://doi.org/10.1371/journal.pone.0247008>https://doi.org/10.1371/journal.pone.0247008</a></p>
+
+
+<li>Economics of East Coast fever: a literature review</li>
+
+<p>Link: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10526366/">here</a></p>
+
+Abstract: East Coast fever (ECF) is a cattle disease caused by a protozoan parasite called Theileria parva (T. parva). Theileria parva is transmitted among cattle by ticks. It is endemic in parts of central, eastern, and southern Africa and imposes an economic burden through illness and death of approximately a half of a billion U.S. dollars annually. This paper reviews existing science on the economics of ECF. We utilize a conceptual model that defines primary categories of economic costs due to ECF and use it to organize a synthesis of the literature on aggregate and micro level direct costs of the disease and the costs and benefits related to various ECF management strategies. We then identify knowledge gaps to motivate for future research.
+
+<p>Citation: Surve, A. A., Hwang, J. Y., Manian, S., Onono, J. O., & Yoder, J. (2023). Economics of East Coast fever: A literature review. Frontiers in Veterinary Science, 10, 1239110.<a href = https://doi.org/10.3389/fvets.2023.1239110>https://doi.org/10.3389/fvets.2023.1239110</a></p>
+
+
+</ol>
