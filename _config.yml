@@ -215,7 +215,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  fieldwork:
+  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -264,7 +264,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: fieldwork
+      type: portfolio
     values:
       layout: single
       author_profile: true
