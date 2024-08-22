@@ -15,7 +15,7 @@ redirect_from:
   </div>
   <div class="profile-text">
     <p>Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in <strong>development economics and organizational economics</strong>, focusing on technology and firms in lower-income countries, particularly in West Africa.</p>
-    <p>My dissertation investigates the adoption and impact of technologies on small and medium-sized businesses, with a particular focus on digital technologies. I examine how relationships within and between firms influence technology adoption and business outcomes.</p>
+    <p>My dissertation explores how digital technologies reshape economic relationships and contract structures within and between firms, while uncovering the key drivers and barriers to their adoption.</p>    
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo. </p>
   </div>
 </div>
