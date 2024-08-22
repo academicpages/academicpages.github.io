@@ -37,7 +37,7 @@ redirect_from:
 
 
     
-2. Nationwide Diffusion of Technology Within Firms’ Social Networks
+2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
