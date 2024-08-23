@@ -52,6 +52,7 @@ Skills & Technology
 * Single-source authoring
 * Topic-based authoring
 * Style Guides (AP Style, Microsoft Style Guide)
+
 *Technology*
 * Amazon Web Services (AWS)
 * JIRA/Confluence
@@ -62,6 +63,7 @@ Skills & Technology
 ## Basic Proficiency 
 *Writing*
 * Docs-as-code
+
 *Technology*
 * GitHub/Git
 * Python
