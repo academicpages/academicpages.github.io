@@ -165,7 +165,7 @@ I have been actively searching for the right mentor and project as I am very eag
     <div style="flex: 1;">
         <h3>Surveying Attitudinal Alignment Between Large Language Models and Humans Towards 17 Sustainable Development Goals</h3>
         <p>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, <span class="author-bold">Tianyang Wang</span>, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
-        <p><em>WIREs Data Mining and Knowledge Discovery, 2024 - <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a> <span style="font-weight: bold; color: red;">Under Review</span></em></p>
+        <p><em>WIREs Data Mining and Knowledge Discovery, 2024  <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a> <span style="font-weight: bold; color: red;">- Under Review</span></em></p>
     </div>
 </div>
 
