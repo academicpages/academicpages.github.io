@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /home/
 title: Hello!
 author_profile: true
 ---
