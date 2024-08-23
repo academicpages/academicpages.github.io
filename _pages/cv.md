@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+\
 Education
 ======
 BA, English — University of Notre Dame, 2024
@@ -16,16 +16,16 @@ BA, English — University of Notre Dame, 2024
 
 Professional Experience
 ======
-**Associate Technical Writer**
-[Paradox](https://www.paradox.ai/)
-September 2024 - Present
+**Associate Technical Writer**\
+[Paradox](https://www.paradox.ai/)\
+September 2024 - Present\
 
-**Technical Writer Intern**
-[Epistemix](https://www.epistemix.com/)
+**Technical Writer Intern**\
+[Epistemix](https://www.epistemix.com/)\
 June 2024 - August 2024
 
-**Digital Forensics Investigator**
-St. Joseph County Prosecutor's Office, Cyber Crimes Unit
+**Digital Forensics Investigator**\
+St. Joseph County Prosecutor's Office, Cyber Crimes Unit\
 May 2022 - May 2024
     * Promoted to Senior Digital Forensics Investigator in Aug. 2023.
     * Worked 10 hours/week during the 2022-2023, 2023-2024 academic year.
