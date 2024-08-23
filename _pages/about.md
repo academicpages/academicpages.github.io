@@ -13,8 +13,8 @@ I am currently an Associate Technical Writer based in Scottsdale, Arizona at [Pa
 
 ![Scottsdale, Arizona](images/scottsdale.jpg)
 
-I have a diverse background in technical writing for SaaS companies that serve different verticals—such as legal, financial, healthcare, and retail—and experience working as a digital forensics investigator for a government organization.
+With a diverse background in technical writing for SaaS companies across various sectors—such as legal, financial, and healthcare—and experience in digital forensics as a sworn law enforcement professional, I always bring a unique perspective and skill set to my work. 
 
-I'm passionate about technology and values-driven companies. During my early career, I'm always looking to upskill. I'm broadly interested in cloud computing, generative AI, UX, and API documentation.
+I'm passionate about technology and values-driven tech companies. During my early career, I'm always looking to upskill. I'm broadly interested in cloud computing, generative AI, user experience, cybersecurity, and API documentation.
 
 Feel free to take a look at my [resumé](https://katherine-holtz.github.io/cv/), view my [writing portfolio](https://katherine-holtz.github.io/portfolio/), or send me a message through [LinkedIn](https://www.linkedin.com/in/katherine-holtz/) or [email](mailto:katherineaholtz@gmail.com).
