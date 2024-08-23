@@ -11,32 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.A. in English with a minor in Computing and Digital Technologies (Cyber Safety and Security Track), University of Notre Dame, 2024
+BA, English — University of Notre Dame, 2024
+  * Minor: Computing and Digital Technologies (Cyber Safety and Security Track)
 
 Professional Experience
 ======
-* September 2024 - Present: Associate Technical Writer at (Paradox)[https://www.paradox.ai/]
+**Associate Technical Writer**
+[Paradox](https://www.paradox.ai/)
+September 2024 - Present
 
-* June 2024 - August 2024: Technical Writer Intern at (Epistemix)[https://www.epistemix.com/]
+**Technical Writer Intern**
+[Epistemix](https://www.epistemix.com/)
+June 2024 - August 2024
 
-* May 2022 - May 2024: Digital Forensics Investigator at the St. Joseph County Prosecutor's Office, Cyber Crimes Unit
+**Digital Forensics Investigator**
+St. Joseph County Prosecutor's Office, Cyber Crimes Unit
+May 2022 - May 2024
     * Promoted to Senior Digital Forensics Investigator in Aug. 2023.
     * Worked 10 hours/week during the 2022-2023, 2023-2024 academic year.
     * Worked 40 hours/week during the summer of 2022.
 
-* June 2023 - August 2023: Technical Writer Intern at (Intapp)[https://www.intapp.com/] 
+**Associate Technical Writer Intern**
+[Intapp](https://www.intapp.com/) 
+June 2023 - August 2023
   
 Skills & Technology
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Interests
-======
-
-
-======
+## Advanced Proficiency 
+## Intermediate Proficiency 
+## Basic Proficiency 
