@@ -2,9 +2,6 @@
 permalink: /
 title: Hello!
 author_profile: true
-redirect_from: 
-  - /home/
-  - /home.html
 ---
  
 I am currently an Associate Technical Writer based in Scottsdale, Arizona at [Paradox](https://www.paradox.ai/), a company that reimagines the future of hiring and recruiting.
