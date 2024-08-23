@@ -32,7 +32,7 @@ May 2022 - May 2024
 * Worked 40 hours/week during the summer of 2022.
 
 **Associate Technical Writer Intern**\
-[Intapp](https://www.intapp.com/)\ 
+[Intapp](https://www.intapp.com/)  
 June 2023 - August 2023
   
 Skills & Technology
