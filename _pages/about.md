@@ -6,10 +6,8 @@ author_profile: true
  
 I graduated from the University of Notre Dame.
 
-## Reading and Writing
+## Academic
 
-## Digital Forensics
+## Work
 
-## Traveling
-
-## Volleyball 
+## Interests
