@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: About Me
 author_profile: true
 redirect_from: 
@@ -7,4 +7,5 @@ redirect_from:
   - /about.md
 ---
  
-I graduated from the University of Notre Dame. 
+I graduated from the University of Notre Dame.
+
