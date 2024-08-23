@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Hello!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-\ 
-## About Me
+ 
+## Hello! Welcome to my Portfolio
 I am currently an Associate Technical Writer based in Scottsdale, Arizona at [Paradox](https://www.paradox.ai/), a company reimagining the future of hiring and recruiting.
 
 With a diverse background in technical writing for SaaS companies across various sectors—such as legal, financial, and healthcare—and experience in digital forensics as a sworn law enforcement professional, I always bring a unique perspective and skill set to my work. 
