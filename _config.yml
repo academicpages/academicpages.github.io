@@ -26,18 +26,14 @@ author:
   pronouns         : "she/her"  
   bio              : "Technical writer"
   location         : "Scottsdale, AZ"
-  employer         : "[Paradox](https://www.paradox.ai/)"
+  employer         : "<a href="https://www.paradox.ai/">Paradox</a>"
   email            : "katherineaholtz@gmail.com" 
-
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-
 
   # Repositories and software development
   github           : "katherine-holtz"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/katherine-holtz/"
+  linkedin         : "<a href="https://www.linkedin.com/in/katherine-holtz/">LinkedIn</a>"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
