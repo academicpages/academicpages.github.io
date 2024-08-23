@@ -24,7 +24,7 @@ September 2024 - Present
 [Epistemix](https://www.epistemix.com/)\
 June 2024 - August 2024
 
-**Digital Forensics Investigator**\
+**Senior Digital Forensics Investigator**\
 St. Joseph County Prosecutor's Office, Cyber Crimes Unit\
 May 2022 - May 2024
 * Promoted to Senior Digital Forensics Investigator in Aug. 2023.
@@ -38,8 +38,6 @@ June 2023 - August 2023
 Skills & Technology
 ======
 ## Advanced Proficiency
-*Writing*
-
 *Technology*
 * Microsoft Office Products (Teams, Word, Outlook, Excel)
 * Google Workspace Products
@@ -52,7 +50,6 @@ Skills & Technology
 * Single-source authoring
 * Topic-based authoring
 * Style Guides (AP Style, Microsoft Style Guide)
-
 *Technology*
 * Amazon Web Services (AWS)
 * JIRA/Confluence
@@ -63,7 +60,6 @@ Skills & Technology
 ## Basic Proficiency 
 *Writing*
 * Docs-as-code
-
 *Technology*
 * GitHub/Git
 * Python
