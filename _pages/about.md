@@ -10,6 +10,6 @@ I graduated from the University of Notre Dame.
 
 ## Digital Forensics
 
-## Studying Abroad in Dublin, Ireland
+## Traveling
 
 ## Volleyball 
