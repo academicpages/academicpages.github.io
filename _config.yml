@@ -12,8 +12,7 @@ title                    : "Kat Holtz's Portfolio"
 title_separator          : "-"
 name                     : &name "Katherine (Kat) Holtz"
 description              : &description "personal description"
-url                      : https://katherine-holtz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+URL                      : "https://katherine-holtz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 repository               : "katherine-holtz/katherine-holtz.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -26,14 +25,14 @@ author:
   pronouns         : "she/her"  
   bio              : "Technical writer"
   location         : "Scottsdale, AZ"
-  employer         : "<a href="https://www.paradox.ai/">Paradox</a>"
+  employer         : "Paradox"
   email            : "katherineaholtz@gmail.com" 
 
   # Repositories and software development
   github           : "katherine-holtz"
 
   # Social media
-  linkedin         : "<a href="https://www.linkedin.com/in/katherine-holtz/">LinkedIn</a>"
+  linkedin         : "https://www.linkedin.com/in/katherine-holtz/"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
