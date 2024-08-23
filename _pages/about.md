@@ -160,14 +160,16 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
-      <img src="images/LLM.png" alt="Survey">
+        <img src="images/LLM.png" alt="Survey">
     </div>
     <div style="flex: 1;">
-      <h3>Surveying Attitudinal Alignment Between Large Language Models and Humans Towards 17 Sustainable Development Goals</h3>
-      <p>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, <span class="author-bold">Tianyang Wang</span>, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
-      <p><em>WIREs Data Mining and Knowledge Discovery, 2024 - <span class="highlight">Under Review</span></em></p> <a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</p>
+        <h3>Surveying Attitudinal Alignment Between Large Language Models and Humans Towards 17 Sustainable Development Goals</h3>
+        <p>Qingyang Wu, Ying Xu, Tingsong Xiao, Yunze Xiao, Yitong Li, <span class="author-bold">Tianyang Wang</span>, Yichi Zhang, Shanghai Zhong, Yuwei Zhang, Wei Lu, Yifan Yang.</p>
+        <p><em>WIREs Data Mining and Knowledge Discovery, 2024 - <span class="highlight">Under Review</span></em></p>
+        <p><a href="https://arxiv.org/pdf/2404.13885" target="_blank">[PDF]</a></p>
     </div>
 </div>
+
 
 # Academic Service
 
