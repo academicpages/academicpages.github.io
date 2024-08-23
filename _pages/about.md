@@ -9,7 +9,7 @@ redirect_from:
 
 ## About Me
 
-I am currently an Associate Technical Writer based in Scottsdale, Arizona at [Paradox](https://www.paradox.ai/), a company dedicated to reimagining the future of hiring.
+I am currently an Associate Technical Writer based in Scottsdale, Arizona at [Paradox](https://www.paradox.ai/), a company reimagining the future of hiring and recruiting.
 
 ![Scottsdale, Arizona](images/scottsdale.jpg)
 
