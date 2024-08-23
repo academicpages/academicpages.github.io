@@ -7,3 +7,4 @@ redirect_from:
   - /about.html
 ---
  
+I graduated from the University of Notre Dame. 
