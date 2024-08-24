@@ -14,6 +14,7 @@ If that's my definitive answer to why I love reading and writing so much, it mak
 Outside of work, I love to travel (and scrapbook my travel adventures). I studied abroad at Trinity College Dublin in Dublin, Ireland during the spring of 2023, where I went all over both Ireland and Europe (my top three favorite cities were Prague, Amsterdam, and Edinburgh). My current travel bucket list consists of the national parks, Iceland, and South Korea.
 
 ![Ireland](https://github.com/katherine-holtz/katherine-holtz.github.io/blob/deb5926e4c3ebc1bdc523bdd78dec8fe9f02d7d7/images/ireland.jpg)
+<img src="https://github.com/katherine-holtz/katherine-holtz.github.io/raw/deb5926e4c3ebc1bdc523bdd78dec8fe9f02d7d7/images/ireland.jpg" alt="Ireland" width="300"/>
 
 I've also played indoor and beach volleyball for 14 years, and although I don't competitively play anymore, I always try to join casual leagues and intramural teams. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. I want to try my hand at the [Rock 'n' Roll Running Series](https://www.runrocknroll.com/).
 
