@@ -37,7 +37,7 @@ Palo Alto, CA
 
 ## Skills & Technology
 
-# Advanced Proficiency
+### Advanced Proficiency
 
 **Technology**
 - Microsoft Office Products (Teams, Word, Outlook, Excel)
@@ -47,7 +47,7 @@ Palo Alto, CA
 - HTML/CSS
 - Markdown
 
-# Intermediate Proficiency
+### Intermediate Proficiency
 
 **Writing**
 - Single-source authoring
@@ -62,7 +62,7 @@ Palo Alto, CA
 - Command Line (CLI)
 - Visual Studio Code
 
-# Basic Proficiency
+### Basic Proficiency
 
 **Writing**
 - Docs-as-code
