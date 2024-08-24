@@ -30,9 +30,6 @@ Remote
 St. Joseph County Prosecutor's Office, Cyber Crimes Unit\
 May 2022 - May 2024\
 Notre Dame, IN
-* Promoted to Senior Digital Forensics Investigator in Aug. 2023.
-* Worked 10 hours/week during the 2022-2023, 2023-2024 academic year.
-* Worked 40 hours/week during the summer of 2022.
 
 **Associate Technical Writer Intern**\
 [Intapp](https://www.intapp.com/)  
