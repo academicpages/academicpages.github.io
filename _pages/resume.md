@@ -39,7 +39,7 @@ Palo Alto, CA
 
 ### Advanced Proficiency
 
-**Technology**
+*Technology*
 - Microsoft Office Products (Teams, Word, Outlook, Excel)
 - Google Workspace Products
 - Slack
@@ -49,12 +49,12 @@ Palo Alto, CA
 
 ### Intermediate Proficiency
 
-**Writing**
+*Writing*
 - Single-source authoring
 - Topic-based authoring
 - Style Guides (AP Style, Microsoft Style Guide)
 
-**Technology**
+*Technology*
 - Amazon Web Services (AWS)
 - JIRA/Confluence
 - Paligo
@@ -64,10 +64,10 @@ Palo Alto, CA
 
 ### Basic Proficiency
 
-**Writing**
+*Writing*
 - Docs-as-code
 
-**Technology**
+*Technology*
 - GitHub/Git
 - Python
 - Pendo.io
