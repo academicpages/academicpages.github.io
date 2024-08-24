@@ -16,7 +16,7 @@ For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../a
 Publications
 ======
 
-![Jama Network Open](../images/Wechat.jpg)
+![Jama Network Open](../images/Figure_JNO.jpg)
 
 **Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality**
 **Zeping Yang**, Ninghao Huang, ... Nan Li<sup>*</sup>.
