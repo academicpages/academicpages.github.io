@@ -12,5 +12,5 @@ With a diverse background in technical writing for SaaS companies across various
 
 I'm passionate about working for values-driven tech companies. I believe technology can improve people's lives, and I'm dedicated to writing about technology that achieves this goal.
 
-During my early career, I'm always looking to upskill. I'm broadly interested in cloud computing, generative AI, user experience, cybersecurity, and API documentation.
+During my early career, I'm always looking to upskill. I'm broadly interested in user experience, cybersecurity, cloud computing, generative AI, and API documentation.
 
