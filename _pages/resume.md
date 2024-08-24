@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-BA, English — University of Notre Dame, 2024
-  * Minor: Computing and Digital Technologies (Cyber Safety and Security Track)
+BA, English — University of Notre Dame, 2024\
+Minored in Computing and Digital Technologies (Cyber Safety and Security Track)
 
 Professional Experience
 ======
