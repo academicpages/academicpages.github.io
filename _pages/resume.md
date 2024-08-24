@@ -59,7 +59,7 @@ Palo Alto, CA
 - JIRA/Confluence
 - Paligo
 - SnagIt
-- Command Line (CLI)
+- Command Line
 - Visual Studio Code
 
 ### Basic Proficiency
