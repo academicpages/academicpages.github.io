@@ -9,13 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 BA, English — University of Notre Dame, 2024\
 Minored in Computing and Digital Technologies (Cyber Safety and Security Track)
 
-Professional Experience
-======
+## Professional Experience
+
 **Associate Technical Writer**\
 [Paradox](https://www.paradox.ai/)\
 September 2024 - Present\
@@ -36,9 +35,9 @@ Notre Dame, IN
 June 2023 - August 2023\
 Palo Alto, CA
 
-# Skills & Technology
+## Skills & Technology
 
-## Advanced Proficiency
+# Advanced Proficiency
 
 **Technology**
 - Microsoft Office Products (Teams, Word, Outlook, Excel)
@@ -48,7 +47,7 @@ Palo Alto, CA
 - HTML/CSS
 - Markdown
 
-## Intermediate Proficiency
+# Intermediate Proficiency
 
 **Writing**
 - Single-source authoring
@@ -63,7 +62,7 @@ Palo Alto, CA
 - Command Line (CLI)
 - Visual Studio Code
 
-## Basic Proficiency
+# Basic Proficiency
 
 **Writing**
 - Docs-as-code
