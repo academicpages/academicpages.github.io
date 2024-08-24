@@ -15,6 +15,6 @@ Outside of work, I love to travel (and scrapbook my travel adventures). I studie
 
 <img src="https://github.com/katherine-holtz/katherine-holtz.github.io/raw/deb5926e4c3ebc1bdc523bdd78dec8fe9f02d7d7/images/ireland.jpg" alt="Ireland" width="400"/>
 
-I've also played indoor and beach volleyball for 14 years, and although I don't competitively play anymore, I always try to join casual leagues and intramural teams. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. I want to try my hand at the [Rock 'n' Roll Running Series](https://www.runrocknroll.com/).
+I've also played indoor and beach volleyball for 14 years, and although I don't competitively play anymore, I always try to join casual leagues and intramural teams. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. 
 
 Lastly, I've always been a creative writer. I wrote stories on the school bus in sixth grade, and although fiction writing is something I've lost touch with during university, I know I'll be disappointing my younger self if I never try to publish my own novel. I love reading and writing anything, from mystery thriller to fantasy to literary. 
