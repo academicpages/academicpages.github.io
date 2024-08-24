@@ -18,4 +18,4 @@ Outside of work, I love to travel (and scrapbook my travel adventures). I studie
 
 I've also played indoor and beach volleyball for 14 years, and although I don't competitively play anymore, I always try to join casual leagues and intramural teams. On the side, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year.
 
-Lastly, I've always been a creative writer. I wrote stories on the bus in sixth grade, and although fiction writing is something I've lost touch with as I got swept away by university, I know I'll be disappointing my younger self if I never at least try to publish my own novel. I love reading and writing anything, from mystery thriller to fantasy to literary. 
+Lastly, I've always been a creative writer. I wrote stories on the school bus in sixth grade, and although fiction writing is something I've lost touch with during university, I know I'll be disappointing my younger self if I never try to publish my own novel. I love reading and writing anything, from mystery thriller to fantasy to literary. 
