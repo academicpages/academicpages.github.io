@@ -13,8 +13,8 @@ If that's my definitive answer to why I love reading and writing so much, it mak
 ## My Interests
 Outside of work, I love to travel (and scrapbook my travel adventures). I studied abroad at Trinity College Dublin in Dublin, Ireland during the spring of 2023, where I went all over both Ireland and Europe (my favorite cities were Prague, Amsterdam, and Edinburgh). My current travel bucket list consists of going to the national parks, Iceland, and South Korea.
 
-![Ireland](images/ireland.jpg){: .small-img }
-![Scrapbook](images/scrapbook.jpg){: .small-img }
+![Ireland](images/ireland.jpg)
+![Scrapbook](images/scrapbook.jpg)
 
 I've also played indoor and beach volleyball for 14 years, and although I don't competitively play anymore, I always try to join casual leagues and intramural teams. On the side, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year.
 
