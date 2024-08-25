@@ -1,12 +1,19 @@
-main:
-#  - title: "Publications"
-#    url: /publications/
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. 
+# Removing a link prevents it from showing in the header, but does not prevent it from being included in the site.
 
-#  - title: "Talks"
-#    url: /talks/    
-        
-#  - title: "Blog"
-#    url: /year-archive/
+main:
+
+  # - title: "Publications"
+    # url: /publications/
+
+  # - title: "Essays"
+    # url: /year-archive/
+
+  # - title: "Talks"
+    # url: /talks/
     
-#  - title: "Guide"
-#    url: /markdown/
+  # - title: "Guide"
+    # url: /markdown/
