@@ -12,7 +12,7 @@ title                    : "Zeping Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Zeping Yang"
 description              : &description "Mr.Zeping Yang is a second year Master student at Peking University. He will graduate next year and is looking for potential Ph.D position."
-url                      : https://Zeping Yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://Zeping Yang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZepingYang/ZepingYang.github.io"
 
@@ -21,12 +21,12 @@ repository               : "ZepingYang/ZepingYang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "./images/Profile.png"
   name             : "Zeping Yang"
   pronouns         : # example: "she/her"  
   bio              : "Mr.Zeping Yang is a second year Master student at Peking University. He will graduate next year and is looking for potential Ph.D position."
   location         : "Beijng, China"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "yangzeping1028@pku.edu.cn" 
 
@@ -46,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
