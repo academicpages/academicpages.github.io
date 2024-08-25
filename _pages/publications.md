@@ -18,6 +18,14 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[GNNs Also Deserve Editing, and They Need It More Than Once.” International Conference on Machine Learning, 2024]()
+</b><br> Shaochen. Zhong, Duy Le, Zirui Liu, <b>Zhimeng Jiang</b>, ..., Xia Hu. <br>
+International Conference on Machine Learning (**ICML**), 2024. 
+
+<b>[LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning]()
+</b><br> Hongye Jin*, Xiaotian Han*, Jingfeng Yang, <b>Zhimeng Jiang</b>, Zirui Liu, Chia-Yuan Chang, Huiyuan Chen, Xia Hu , Mahashweta Das, Xia Hu. <br>
+International Conference on Machine Learning (**ICML**), 2024. 
+
 <b>[Chasing Fairness in Graphs: A GNN Architecture Perspective]()
 </b><br> <b>Zhimeng Jiang</b>, Xiaotian Han, Chao Fan, Zirui Liu, Na Zou, Ali Mostafavi, Xia Hu. <br>
 AAAI Association for the Advancement of Artificial Intelligence(**AAAI**), 2024.

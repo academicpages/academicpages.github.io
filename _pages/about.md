@@ -17,6 +17,8 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
+  <p><span style="color:darkred;">[2024/07]</span> Our paper [<a href="https://arxiv.org/pdf/2310.01508">CODA</a>] won [<a href="https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_icqsr2024-industrialquality-productionoptimization-activity-7224142281002401793-sG72?utm_source=share&utm_medium=member_ios">INFORMS ICQSR’24 best paper competition award</a>]. </p>
+  <p><span style="color:darkred;">[2024/5]</span> Two papers are accepted by ICML 2024, where our spotlight (3.5%) paper [<a href="https://arxiv.org/abs/2401.01325">Self-Extend</a>]is highlighted during [<a href="https://www.youtube.com/watch?v=TV7qCk1dBWA">Google I/O</a>] session.</p>
   <p><span style="color:darkred;">[2023/12]</span> One paper is accepted by AAAI 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> One paper is accepted by WSDM 2024.</p>
   <p><span style="color:darkred;">[2023/10]</span> I have successfully passed my thesis defense.</p>

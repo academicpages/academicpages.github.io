@@ -10,6 +10,10 @@ author_profile: true
 
 <li> <font color="red">  CIKM'22 Best Demo Paper Award </font> <br /></li>
 
+<li> INFORMS ICQSR’24 Best Paper Competition Award, 2024. <br /></li>
+
+<li> NeurIPS Scholar Award, 2023. <br /></li>
+
 <li> Student Travel Grant Award, Texas A&M University, 2022, 2023. <br /></li>
 
 <li> Chinese Undergraduates Mathematics Competitions, 1st class (Rank: 6/60k+), Mar. 2015. <br /></li>
