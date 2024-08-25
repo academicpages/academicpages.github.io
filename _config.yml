@@ -12,7 +12,7 @@ title                    : "Zeping Yang's Homepage"
 title_separator          : "-"
 name                     : &name "Zeping Yang"
 description              : &description "Mr.Zeping Yang is a second year Master student at Peking University. He will graduate next year and is looking for potential Ph.D position."
-url                      : "https://Zeping Yang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ZepingYang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZepingYang/ZepingYang.github.io"
 
