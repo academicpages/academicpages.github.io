@@ -13,7 +13,7 @@ I have broad interests in understanding the intricate relationships and mechanis
 
 For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2024.08.20.pdf). 
 
-If you’d like to get in touch, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
+If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
 Publications
 ======
