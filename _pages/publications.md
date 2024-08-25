@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Conference/Journal Papers
-<b>[GNNs Also Deserve Editing, and They Need It More Than Once.” International Conference on Machine Learning, 2024]()
+<b>[GNNs Also Deserve Editing, and They Need It More Than Once]()
 </b><br> Shaochen. Zhong, Duy Le, Zirui Liu, <b>Zhimeng Jiang</b>, ..., Xia Hu. <br>
 International Conference on Machine Learning (**ICML**), 2024. 
 
