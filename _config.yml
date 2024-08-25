@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Zeping Yang - Homepage"
 title_separator          : "-"
 name                     : &name "Zeping Yang"
 description              : &description "Mr.Zeping Yang is a second year Master student at Peking University. He will graduate next year and is looking for potential Ph.D position."
