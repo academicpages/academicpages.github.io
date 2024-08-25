@@ -8,7 +8,7 @@ redirect_from:
 
 {% newthought 'I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
 Everything that I learned about the field of rigid body dynamics was from the late
-[Prof. Fidels Eke](https://web.archive.org/web/20230127150437/https://mae.ucdavis.edu/news/memoriam-professor-emeritus-fidelis-eke), an
+[Prof. Fidels O. Eke](https://web.archive.org/web/20230127150437/https://mae.ucdavis.edu/news/memoriam-professor-emeritus-fidelis-eke), an
 extraordinary scholar and human being.
 I was also fortunate to spend a year at the DARTS Lab, researching computational multibody robot dynamics
  under [Dr. Abhi Jain](https://www-robotics.jpl.nasa.gov/who-we-are/people/abhinandan_jain/), at the NASA Jet Propulsion Laboratory.
