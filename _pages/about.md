@@ -11,7 +11,9 @@ Welcome to Mr. Zeping Yang’s academic webpage! This page is established to doc
 
 I have broad interests in understanding the intricate relationships and mechanisms through which environmental and metabolic exposures influence reproductive health outcomes. My research work has resulted in 4 publications in high-impact journals, including a first-author paper currently under review at *JAMA Network Open* (IF = 10.5). Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and its chemical components—and common adverse pregnancy outcomes. 
 
-For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2024.08.20.pdf).
+For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2024.08.20.pdf). 
+
+If you’d like to get in touch, feel free to scan my WeChat QR code: ![Zeping Yang's WeChat QR Code](../images/Wechat.png).
 
 Publications
 ======
