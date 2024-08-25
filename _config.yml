@@ -296,6 +296,7 @@ defaults:
       layout: single
       author_profile: true
       classes: wide
+  # _publications
   - scope:
       path: "_publications"
       type: publications
