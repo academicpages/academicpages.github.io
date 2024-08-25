@@ -279,6 +279,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  online_textbooks:
+    output: true
+    permalink: /online_textbooks/:path/
 
 # Defaults
 defaults:
@@ -312,12 +315,11 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _teaching
+  # _online_textbooks
   - scope:
       path: ""
-      type: teaching
+      type: online_textbooks
     values:
-      layout: single
+      layout: single  # Or another layout if needed
       author_profile: true
       share: true
-      comments: true
