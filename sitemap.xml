@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://frezazadeh.github.io/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/awards/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/innovations/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/publications/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/projects/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/teaching/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/services/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://frezazadeh.github.io/credentials/</loc>
+  <lastmod>2024-08-06T07:04:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
