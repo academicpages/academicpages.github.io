@@ -1,6 +1,7 @@
 ---
 title: "Angular momentum of free variable mass systems is partially conserved"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-08-01-angular-momentum-free-variable-mass-systems
 excerpt: 'This paper demonstrates that angular momentum of free variable mass systems is partially conserved.'
 date: 2018-08-01

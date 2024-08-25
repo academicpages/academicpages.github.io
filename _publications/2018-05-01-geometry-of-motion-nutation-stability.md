@@ -1,6 +1,7 @@
 ---
 title: "Geometry of motion and nutation stability of free axisymmetric variable mass systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-05-01-geometry-of-motion-nutation-stability
 excerpt: 'This paper examines the geometry of motion and nutation stability in free axisymmetric variable mass systems.'
 date: 2018-05-01

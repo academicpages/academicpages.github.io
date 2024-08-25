@@ -9,6 +9,15 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{% assign categories = site.publication_category %}
+
+{% for category in categories %}
+  <h2>{{ category[1].title }}</h2>
+  <ul>
+    {% for post in site.publications reversed %}
+      {% if post.category == category[0] %}
+        {% include archive-single.html %}
+      {% endif %}
+    {% endfor %}
+  </ul>
 {% endfor %}
