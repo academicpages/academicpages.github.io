@@ -41,9 +41,9 @@ Conference Reviewer:
 Senior PC Member: CIKM'23 (demo track)
 
 PC Member:
-* NeurIPS: 22-23
-* ICML: 22-23
-* ICLR: 24
+* NeurIPS: 22-24
+* ICML: 22-24
+* ICLR: 24-25
 * KDD: 23
 * LOG: 22-23
 * AAAI: 23-24
@@ -54,6 +54,7 @@ PC Member:
 * ICLR’20, KDD’20, CIKM’20, WSDM’21 (External)
 
 Journal Reviewer: 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * ACM Transactions on Knowledge Discovery in Data (TKDD)
 * ACM Transactions on Intelligent Systems and Technology (TIST)

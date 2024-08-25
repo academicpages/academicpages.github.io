@@ -19,7 +19,7 @@ author_profile: true
 
 ## Conference/Journal Papers
 <b>[GNNs Also Deserve Editing, and They Need It More Than Once]()
-</b><br> Shaochen. Zhong, Duy Le, Zirui Liu, <b>Zhimeng Jiang</b>, ..., Xia Hu. <br>
+</b><br> Shaochen Zhong, Duy Le, Zirui Liu, <b>Zhimeng Jiang</b>, ..., Xia Hu. <br>
 International Conference on Machine Learning (**ICML**), 2024. 
 
 <b>[LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning]()
