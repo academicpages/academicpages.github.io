@@ -299,7 +299,7 @@ defaults:
       classes: wide
   # _research
   - scope:
-      path: "_publications"
+      path: ""
       type: publications
     values:
       layout: single
