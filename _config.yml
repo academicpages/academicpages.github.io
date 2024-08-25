@@ -21,10 +21,10 @@ repository               : "ZepingYang/ZepingYang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/Profile.png"
+  avatar           : "Profile.png"
   name             : "Zeping Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Mr.Zeping Yang is a second year Master student at Peking University. He will graduate next year and is looking for potential Ph.D position."
+  bio              : "Mr.Zeping Yang is a second year Master student of Epidemiology at Peking University. He will graduate next year and is looking for potential Ph.D positions."
   location         : "Beijng, China"
   employer         : # ""
   uri              : # URL
@@ -55,7 +55,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/zeping-yang-240a762bb/"# Username
+  linkedin         : "https://www.linkedin.com/in/zeping-yang-240a762bb"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -70,7 +70,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  wechat           : "./images/Wechat.png"
+  wechat           : "Wechat.png"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
