@@ -1,6 +1,7 @@
 ---
 title: "Lagrange's equations for rocket-type variable mass systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2012-10-01-lagrange-equations-rocket-type
 excerpt: "This paper discusses Lagrange's equations for rocket-type variable mass systems."
 date: 2012-10-01

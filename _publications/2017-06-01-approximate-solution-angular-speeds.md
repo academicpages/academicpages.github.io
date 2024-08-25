@@ -1,6 +1,7 @@
 ---
 title: "Approximate solution to the angular speeds of a nearly-symmetric mass-varying cylindrical body"
 collection: publications
+category: conferences
 permalink: /publication/2017-06-01-approximate-solution-angular-speeds
 excerpt: 'This paper presents an approximate solution to the angular speeds of a nearly-symmetric mass-varying cylindrical body.'
 date: 2017-06-01

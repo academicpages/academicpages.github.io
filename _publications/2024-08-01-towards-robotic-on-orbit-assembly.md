@@ -1,6 +1,7 @@
 ---
 title: "Towards Robotic On-Orbit Assembly of Large Space Telescopes: Mission Architectures, Concepts, and Analyses"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-06-01-towards-robotic-on-orbit-assembly
 excerpt: 'This paper discusses mission architectures and concepts for robotic on-orbit assembly of large space telescopes.'
 date: 2024-08-24

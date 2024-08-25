@@ -1,6 +1,7 @@
 ---
 title: "Robotics and AI-enabled on-orbit operations with future generation of small satellites"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-03-01-robotics-ai-enabled-on-orbit-operations
 excerpt: 'This paper discusses robotics and AI-enabled on-orbit operations with future generation of small satellites.'
 date: 2018-03-01

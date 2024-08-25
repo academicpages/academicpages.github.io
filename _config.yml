@@ -15,6 +15,15 @@
 minimal_mistakes_skin    : "dark" #  "sunrise", "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum"
 minimal_mistakes_skin2   : "sunrise"
 
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
+
 # Site Settings
 locale                   : "en-GB"
 title                    : "Angadh"
@@ -300,6 +309,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
     values:
       layout: single
       author_profile: true
