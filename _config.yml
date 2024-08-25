@@ -1,9 +1,17 @@
-# Site Settings
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. 
+# If you change this file, please restart the server process.
+
+# Basic Site Settings
 locale                   : "en-US"
 title                    : "Onno Kampman"
 title_separator          : "-"
 name                     : &name "Onno Pepijn Kampman"
-description              : &description "Computational Neuroscientist"
+description              : &description "Cognitive Scientist"
 url                      : https://onnokampman.github.io  # the base hostname & protocol for your site
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
 repository               : "OnnoKampman.github.io"
@@ -39,20 +47,27 @@ analytics:
 # Site Author
 author:
 #  name             : "Onno Kampman"
-  avatar           : "onno_cambridge.JPG"
-#  bio              : "Computational Neuroscientist"
+  avatar           : "onno_cambridge.JPG"  # placed in /images/
+#  bio              : "Cognitive Scientist"
 #  location         : "Cambridge, United Kingdom"
-  googlescholar    : "gSVe8CkAAAAJ"
   email            : "opk20@cam.ac.uk"
   uri              :
-  angellist        : "onno-kampman"
-  github           : "OnnoKampman"
-  gitlab           :
-  goodreads        : "43642138-onno"
-  linkedin         : "onnokampman"
+
+  # Academic websites
+  arxiv            :
+  googlescholar    : "gSVe8CkAAAAJ"
   orcid            : "0000-0001-8125-2565"
   semanticscholar  : "Onno-P.-Kampman/145315291"
+
+  # Repositories and software development
+  github           : "OnnoKampman"
+  gitlab           :
   stackoverflow    : "https://stackoverflow.com/users/5938762/onno-kampman"
+
+  # Social media
+  angellist        : "onno-kampman"
+  goodreads        : "43642138-onno"
+  linkedin         : "onnokampman"
   twitter          : "KampmanOnno"
 
 # Reading Files
