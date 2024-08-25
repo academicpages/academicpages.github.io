@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani, and I am a computer scientist passionate about designing interpretable and reliable artificial intelligence through the theory of programming languages.
+My name is Kia Rahmani, and I am an AI scientist at [Durbale](https://durable.ai/). I am passionate about designing interpretable and reliable artificial intelligence through the theory of programming languages. At Durable, we aim to bridge the gap between natural language and code through trustworthy program synthesis methods.
 
-I currently serve as a postdoctoral fellow at the [Computer Science Department](https://www.cs.utexas.edu/) of the [University of Texas at Austin](https://www.utexas.edu/), under the supervision of Prof. [Işil Dillig](https://www.cs.utexas.edu/~isil/) and Prof. [Joydeep Biswas](https://www.joydeepb.com/). 
-
-
-The current focus of my research is on neuro-symbolic algorithms for sequential decision making. My ultimate scientific goal is to design AI agents that can provide formal explanation and guarantees about their behaviors. 
-
-Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/) and Dr. [M. Raza](https://www.microsoft.com/en-us/research/people/moraza/).
-
+Before joining Durable, I served as a post-doctoral researcher at the [University of Texas at Austin](https://www.utexas.edu/) under the supervision of Prof. [I. Dillig](https://www.cs.utexas.edu/~isil/) and obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
 
 ## Publications & Patents
@@ -188,6 +182,15 @@ Prior to joining UT, I obtained my PhD from [Purdue University](https://www.cs.p
 
 ## Service
 <ul>
+  <li>
+    <strong>2025</strong>
+    <ul>
+      <li><strong>Program Committee</strong></li>
+      <ul>
+        <li><a href="https://iclr.cc/Conferences/2025"> International Conference on Learning Representations (ICLR)</a></li>
+      </ul>
+    </ul>
+  </li>
   <li>
     <strong>2024</strong>
     <ul>
