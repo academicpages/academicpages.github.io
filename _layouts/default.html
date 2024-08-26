@@ -27,5 +27,22 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        // 选择 About Me 链接
+        const aboutMeLink = document.querySelector('a[href=""], a[href="javascript:void(0);"]');
+
+        if (aboutMeLink) {
+          aboutMeLink.addEventListener("click", function(e) {
+            e.preventDefault(); // 阻止默认链接行为
+            window.scrollTo({
+              top: 0,
+              behavior: 'smooth' // 平滑滚动效果
+            });
+          });
+        }
+      });
+    </script>
+
   </body>
 </html>
