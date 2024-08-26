@@ -1,0 +1,16 @@
+---
+title: "COLOR: A Framework for Applying Graph Coloring to Subgraph Cardinality Estimation"
+collection: publications
+permalink: /publication/2024-5-10-color
+excerpt: 'This work builds on the concept of stable colorings in graph theory and applies it to produce accurate, efficient cardinality estimates in graph databases.'
+date: 2024-5-10
+venue: 'PVLDB 2025'
+paperurl: 'https://arxiv.org/pdf/2405.06767'
+citation: 'Deeds, Kyle, et al. "Color: A Framework for Applying Graph Coloring to Subgraph Cardinality Estimation." arXiv preprint arXiv:2405.06767 (2024).'
+---
+This work builds on the concept of stable colorings in graph theory and applies it to produce accurate, efficient cardinality estimates in graph databases (Accepted for VLDB 2025).
+
+[Download paper here](https://arxiv.org/pdf/2405.06767)
+[Explore the code here](https://github.com/uwdb/color)
+
+Recommended citation: Deeds, Kyle, et al. "Color: A Framework for Applying Graph Coloring to Subgraph Cardinality Estimation." arXiv preprint arXiv:2405.06767 (2024).
