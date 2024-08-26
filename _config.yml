@@ -24,7 +24,10 @@ author:
   avatar           : "Profile.png"
   name             : "Zeping Yang"
   pronouns         : # example: "she/her"  
-  bio              : "Mr.Zeping Yang is a second year Master student of Epidemiology at Peking University. He will graduate next year and is looking for potential Ph.D positions."
+  bio: |
+  Peking University
+  
+  Mr. Zeping Yang is a second year Master student of Epidemiology at Peking University. He will graduate next year and is looking for potential Ph.D positions.
   location         : "Beijng, China"
   employer         : # ""
   uri              : # URL
