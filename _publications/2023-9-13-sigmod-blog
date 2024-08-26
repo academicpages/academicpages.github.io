@@ -1,0 +1,16 @@
+
+---
+title: "The Case for Cardinality Bounds: Principled Conservatism in Query Optimization"
+collection: publications
+permalink: /publication/2023-9-13-sigmod-blog
+excerpt: 'This blog post discusses the dual approaches for conservative cardinality estimation in SafeBound and FactorJoin.'
+date: 2023-9-13
+venue: 'ACM SIGMOD Blog'
+paperurl: 'https://wp.sigmod.org/?p=3707'
+citation: 'Deeds, K., & Wu. Z., The Case for Cardinality Bounds: Principled Conservatism in Query Optimization. Sept. 9th 2023. ACM SIGMOD Blog.'
+---
+'This blog post discusses the dual approaches for conservative cardinality estimation in SafeBound and FactorJoin.'
+
+[See the blog post here](https://wp.sigmod.org/?p=3707)
+
+Recommended citation: Deeds, K., & Wu. Z., The Case for Cardinality Bounds: Principled Conservatism in Query Optimization. Sept. 9th 2023. ACM SIGMOD Blog.
