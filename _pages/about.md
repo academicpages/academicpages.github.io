@@ -15,7 +15,7 @@ For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../a
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
-📝 Publications
+<h1 id="publications">📝 Publications</h1>
 ======
 
 ![Jama Network Open](../images/Figure_JNO.png)
@@ -29,24 +29,28 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 [👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) **…**
 
-🎖 Honors and Awards
+<h1 id="honors-and-awards">🎖 Honors and Awards</h1>
 ======
+
 - *2023.05* Silver Award. 8th China International "Internet+" Innovation and Entrepreneurship Competition 
 - *2021.05* The First Prize. 29th “Challenge Cup” Peking University Interdisciplinary Group 
 - *2020.05* The First Prize. 28th “Challenge Cup” Peking University Interdisciplinary Group
 
-📖 Educations
+<h1 id="educations">📖 Educations</h1>
 ======
+
 - *2023.09 - 2025.06*, MM, School of Public Health, Peking University, Beijing, China
 - *2018.09 - 2023.06*, MB, School of Public Health, Peking University, Beijing, China
 
-🪪 Internships
+<h1 id="internships">🪪 Internships</h1>
 ======
+
 - *2022.09 - 2022.12*, Departmental Assistant, Beijing Chaoyang District Center for Diseases Prevention and Control, Beijing, China.
 - *2021.02 - 2022.01*, Medical Intern, Beijing Haidian Hospital, Beijing, China.
 
-🧰 Skills
+<h1 id="skills">🧰 Skills</h1>
 ======
+
 - Data Analysis: R, Stata, SPSS (Learning: SAS)
 - Machine Learning: Ridge, Lasso, Elastic Regression (Improving: mlr3 book)
 - Epidemiological Tools: EpiData, PASS
