@@ -44,9 +44,13 @@ Skills
   * R
   * Matlab
   * Lisp
-  * Git/Github
-  * Latex
+* Cloud computing Platforms
+  * AWS
   * Microsoft Azure
+* Dev tools
+  * Git/Github
+* Misc
+  * Latex
 * Languages
   * French
   * English
