@@ -25,13 +25,13 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
+Teaching and Mentoring
+======
+* Teaching Assistant for 'CSE 544: Graduate Database Management Systems'
+  * Taught a lecture on memory management in DMBS', designed homework assignments, held office hours, and graded assignments
+* Undergraduate Research Mentor (Dec. 2022 - Aug. 2024)
+  * Was fortunate to recruit and work with Diandre Sabale on a succesful research project resulting in a VLDB 2025 publication
 
 Industry experience
 ======
@@ -41,7 +41,3 @@ Industry experience
   * Performed an evaluation of database technologies and existing data flows for a non-profit which consults for municipal and county-owned electrical utilities.
 * Summer 2020: Research Intern at Microsoft Research
   * Adapted learned indexing techniques to handle string data.
-  
-Service and leadership
-======
-* Undergraduate research mentor (Dec. 2022 - Aug. 2024)
