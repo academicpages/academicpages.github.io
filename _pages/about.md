@@ -10,6 +10,11 @@ I've always loved reading and writing, so naturally, I studied English. In unive
 
 If that's my definitive answer to why I love reading and writing so much, it makes sense that I found an affinity with technology. In the tech industry, there are always new trends emerging, which can feel overwhelming. Mass layoffs during a bust cycle add to the uncertainty. Despite these things, I see myself working in the tech industry for a while—as long it allows me to continue learning and growing. 
 
+So, why technical writing?
+1. I love the idea of breaking down complex topics or products and making it easy for others to understand, whether that’s through words, images, or other formats. There’s something really cool about making complicated information simple, so there's never a barrier of accessing information. 
+2. I enjoy the challenge of organizing information and designing content. It feels like solving a puzzle, and I love figuring out how to set up knowledge bases so that they work well for everyone, whether inside or outside of a company.
+3. I love learning new things and also helping others learn new things. As a technical writer, you get to do both by knowing your audience and collaborating with subject matter experts (SMEs).
+
 ## My Interests
 Outside of work, I love to travel. I studied abroad at Trinity College Dublin in Dublin, Ireland during the spring of 2023, where I went all over both Ireland and Europe (my top three favorite cities were Prague, Amsterdam, and Edinburgh). My current travel bucket list includes the national parks, British Columbia, Iceland, and South Korea. I scrapbook my travel adventures, which is the reason why I hoard every single train or plane ticket I somehow acquire.
 
