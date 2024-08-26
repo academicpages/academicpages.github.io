@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 <div id="about-me">
+</div>
 
 Welcome to Mr. Zeping Yang’s academic webpage! This page is established to document my academic journey, where I share my academic experiences, skills and achievements. You can also have a quick access to knowing me. I am currently pursuing a Master’s degree in the [Institute of Reproductive and Child Health](https://irch.pku.edu.cn/), [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
 
@@ -16,8 +17,6 @@ I have broad interests in understanding the intricate relationships and mechanis
 For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD 2024.08.20.pdf). 
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
-
-</div>
 
 <h2 id="publications">📝 Publications</h2>
 
