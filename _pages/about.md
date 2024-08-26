@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<span id="about-me"></span>
-
 Welcome to Mr. Zeping Yang’s academic webpage! This page is established to document my academic journey, where I share my academic experiences, skills and achievements. You can also have a quick access to knowing me. I am currently pursuing a Master’s degree in the [Institute of Reproductive and Child Health](https://irch.pku.edu.cn/), [School of Public Health](https://sph.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), China. During my Master’s program, I received comprehensive training in multiple disciplines, including Epidemiology, Geographic Information Systems (GIS), and Reproductive Health. I will graduate next year and am actively seeking opportunities for a Ph.D. position in related fields.
 
 I have broad interests in understanding the intricate relationships and mechanisms through which environmental and metabolic exposures influence reproductive health outcomes. My research work has resulted in 4 publications in high-impact journals, including a first-author paper currently under review at *JAMA Network Open* (IF = 10.5). Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and its chemical components—and common adverse pregnancy outcomes. 
