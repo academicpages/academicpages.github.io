@@ -15,7 +15,7 @@ For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../a
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
-Publications
+📝 Publications
 ======
 
 ![Jama Network Open](../images/Figure_JNO.png)
