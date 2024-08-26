@@ -16,21 +16,7 @@ layout: compress
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    <!-- 固定在页面顶部的导航栏 -->
-    <nav style="position: fixed; top: 0; width: 100%; background-color: #fff; z-index: 1000; padding: 10px 0; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
-      <ul style="list-style-type: none; margin: 0; padding: 0; text-align: center;">
-        <li style="display: inline; margin-right: 20px;"><a href="#publications">Publications</a></li>
-        <li style="display: inline; margin-right: 20px;"><a href="#honors-and-awards">Honors and Awards</a></li>
-        <li style="display: inline; margin-right: 20px;"><a href="#educations">Educations</a></li>
-        <li style="display: inline; margin-right: 20px;"><a href="#internships">Internships</a></li>
-        <li style="display: inline; margin-right: 20px;"><a href="#skills">Skills</a></li>
-      </ul>
-    </nav>
-
-    <!-- 为了防止导航栏遮挡内容，给主体内容添加一个上边距 -->
-    <div style="padding-top: 60px;">
-      {{ content }}
-    </div>
+    {{ content }}
 
     <div class="page__footer">
       <footer>
