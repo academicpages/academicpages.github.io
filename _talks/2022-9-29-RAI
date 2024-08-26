@@ -1,0 +1,10 @@
+---
+title: "Degree Sequence Bounds for Robust Query Optimization"
+collection: talks
+type: "Talk"
+permalink: /talks/2022-9-29-RAI
+venue: "RelationalAI"
+date: 2022-9-29
+location: "San Francisco, California"
+---
+This talk presented our work on Degree Sequence Bounds from both the theoretical and sytems perspective. 
