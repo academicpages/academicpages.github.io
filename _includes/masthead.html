@@ -7,8 +7,7 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
-            <!-- 点击 Homepage 时滚动到顶部 -->
-            <a href="javascript:void(0);" id="homepage-link">Homepage</a>
+            <a href="javascript:void(0);">Homepage</a>
           </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
@@ -24,16 +23,3 @@
     </div>
   </div>
 </div>
-
-<!-- 添加 JavaScript 实现滚动到顶部 -->
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    document.getElementById("homepage-link").addEventListener("click", function(e) {
-      e.preventDefault(); // 阻止默认链接行为
-      window.scrollTo({
-        top: 0,
-        behavior: 'smooth' // 平滑滚动效果
-      });
-    });
-  });
-</script>
