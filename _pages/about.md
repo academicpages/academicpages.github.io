@@ -15,7 +15,7 @@ Outside of work, I love to travel. I studied abroad at Trinity College Dublin in
 
 <img src="https://github.com/katherine-holtz/katherine-holtz.github.io/raw/deb5926e4c3ebc1bdc523bdd78dec8fe9f02d7d7/images/ireland.jpg" alt="Ireland" width="400"/>
 
-<img src="https://github.com/katherine-holtz/katherine-holtz.github.io/blob/b6c81cd7c14b0213266c136b79a8456717ac04e9/images/scrapbook.jpg" alt="Scrapbook" width="400"/>
+<img src="https://github.com/katherine-holtz/katherine-holtz.github.io/raw/b6c81cd7c14b0213266c136b79a8456717ac04e9/images/scrapbook.jpg" alt="Scrapbook" width="400"/>
 
 I've also played indoor and beach volleyball for 14 years, and although I don't play competitively anymore, I try to join every casual league or intramural team I come across. Aside from volleyball, I love to run. I ran my first half marathon during my last semester of university, and I hope to run my first marathon next year. Hopefully, I'll be Boston-bound someday. 
 
