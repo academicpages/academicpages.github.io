@@ -11,37 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.S. in Statistics and Computer Science, Harvard University, 2020
+* Ph.D in Computer Science, University of Washington, 2026 (expected)
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -53,7 +31,17 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
+Industry experience
+======
+* Summer 2023: Research Intern at RelationalAI
+  * Implemented the Degree Sequence Bound in the query optimizer of a production database system.
+* Fall 2021: Database Consultant at The Energy Authority
+  * Performed an evaluation of database technologies and existing data flows for a non-profit which consults for municipal and county-owned electrical utilities.
+* Summer 2020: Research Intern at Microsoft Research
+  * Adapted learned indexing techniques to handle string data.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Undergraduate research mentor (Dec. 2022 - Aug. 2024)
