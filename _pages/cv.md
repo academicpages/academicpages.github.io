@@ -41,3 +41,5 @@ Industry experience
   * Performed an evaluation of database technologies and existing data flows for a non-profit which consults for municipal and county-owned electrical utilities.
 * Summer 2020: Research Intern at Microsoft Research
   * Adapted learned indexing techniques to handle string data.
+* Summer 2018, 2019: Software Engineering Intern at Google
+  * Implemented data engineering pipelines to support search for hotel and vacation rental listing 
