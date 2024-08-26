@@ -6,4 +6,17 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /#publications
+
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
+
+  - title: "Educations"
+    url: /#educations
+
+  - title: "Internships"
+    url: /#internships
+
+  - title: "Skills"
+    url: /#skills
+
