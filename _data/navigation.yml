@@ -4,5 +4,22 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
+main:
+  - title: "About Me"
+    url: /#
 
+  - title: "Publications"
+    url: /#publications
+
+  - title: "Honors and Awards"
+    url: /#honors-and-awards
+
+  - title: "Educations"
+    url: /#educations
+
+  - title: "Internships"
+    url: /#internships
+
+  - title: "Skills"
+    url: /#skills
 
