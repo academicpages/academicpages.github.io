@@ -22,7 +22,7 @@ Last Updated: March 23, 2024
 
 What I really like: Chatting, Reading, Writing, Watching Comedies, Hiking, Cooking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, Fishing, etc.
 
-Reading is one of my hobbies. I read about 200-300 books a year, excluding books related to my research. Below is a partial list of some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
+Reading is one of my hobbies. I read about 200 books a year, excluding books related to my research. Below is a partial list of some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
 
 
 As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, Yoichiro Nambu, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;. Particularly, I have been interested in the work of the Lw&oacute;w-Warsaw school of logic, including J. &#321;ukasiewicz, S. Le&#347;niewski, and A. Tarski.
@@ -55,7 +55,7 @@ Books (mainly nonfiction) and Papers
   * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
   
 * Zemanek, H., (1966), “Semiotics and Programming Languages”
-
+* *ACM Turing Award lectures : the first twenty years, 1966 to 1985*
 * Minsky, Marvin, (1970), “Form and Content in Computer Science”.
   * 
 

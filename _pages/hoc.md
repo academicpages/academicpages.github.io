@@ -49,6 +49,8 @@ If you would like to know more, please check the link above.
 Introductory/Must-read Books and Papers
 ======
 * Journal: *IEEE Annals of the History of Computing*
+* Thomas S. Mullaney and Christopher Rea, *Where Research Begins Choosing a Research Project That Matters to You (and the World)*
+  * [WRB](https://whereresearchbegins.com/)
 * *Computer: A History of the Information Machine* 『コンピューティング史：人間は情報をいかに取り扱ってきたか』，『コンピュータ200年史：情報マシーン開発物語』（後者は旧訳）
   * This is the most popular textbook that provides a comprehensive history of computing from 19C, before the advent of electronic computers, to the spread of personal computers and the use of the Internet in the modern era. An illustrated book was written based on this book.↓
     * Rachel Ignotofsky, *The History of the Computer: People, Inventions, and Technology that Changed Our World*『イラストで学ぶ　世界を変えたコンピュータの歴史』
@@ -64,6 +66,7 @@ Introductory/Must-read Books and Papers
 * Martin Cambell-Kelly, "The History of the History of Software" (2007)
 * Donald Knuth, "Let's Not Dumb Down the History of Computer Science" (2014)
   * [This movie](https://kailathlecture.stanford.edu/2014KailathLecture.html) will be useful.
+* Martin Campbell-Kelly, "Knuth and the Spectrum of History" (2014)
 * Thomas Haigh, "The Tears of Donald Knuth"(2015)
 * Thomas Haigh, [Key Resources in the History of Computing](https://www.tomandmaria.com/Tom/Writing/ResourceFilePublished.pdf)
 * Thomas Haigh, [Tools and Methods in the History of Computing](https://www.tomandmaria.com/Tom/Resources/TeachingCS_files/v3_document.htm)
@@ -151,9 +154,11 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
   * 
   * William Aspray, *John von Neumann and the Origins of Modern Computing* 『ノイマンとコンピュータの起源』
   * Charles Petzold, *The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine* 『チューリングを読む：コンピュータサイエンスの金字塔を楽しもう』
+  * Tara Abraham, *Rebel Genius: Warren S. McCulloch's Transdisciplinary Life in Science*, 2016
   
 * Other studies that may be helpful
   * Ruth Schwartz Cowan, *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
+  * Virginia Postrel, *The Fabric of Civilization: How Textiles Made the World*『織物の文明史』
   * Ben Allen, "Critical approaches to the materiality of source code: between text and machine." (2017)
     * PhD thesis at Stanford University, advised by Andrea Lunsford and Thomas Mullaney
   * Mark C. Marino, *Critical Code Studies* (2020)

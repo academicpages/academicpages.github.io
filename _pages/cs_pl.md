@@ -120,7 +120,7 @@ This definition will be particularly useful for defining regular tree languages 
 Appendix 2: History of Regular Expressions
 ======
 Key papers by McCulloch and Pitts, Kleene, and Thompson.
-  * ~~~
+  * ~~~マコーダック『考える機械』
 
 
 References
