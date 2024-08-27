@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "AI-Enabled RF-Sensing for Radar Detection of Body-Worn IEDs"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
