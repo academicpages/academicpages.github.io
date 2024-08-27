@@ -15,5 +15,6 @@ I made several important additions to the curriculum this semester, in addition 
 - Week 1
   - Freedom of speech
   - Land acknolwedgements and their role in education
+  - Exploring data on segregation in the US
 
 ---
