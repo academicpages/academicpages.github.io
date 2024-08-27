@@ -325,3 +325,41 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.publications {
+  margin-top: 20px;
+}
+
+.publication {
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.publication h2 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.publication p {
+  margin: 5px 0;
+}
+
+.publication-links {
+  margin-top: 10px;
+}
+
+.publication-link {
+  margin-right: 10px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.publication-link:hover {
+  text-decoration: underline;
+}
+
+.publication img {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+}

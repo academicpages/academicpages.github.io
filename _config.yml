@@ -316,3 +316,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+[[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 2
