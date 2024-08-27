@@ -21,7 +21,7 @@ repository               : "ngochungnguyenlg/nnhung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avata.jpeg"
+  avatar           : "profile.png"
   name             : "Nguyen Ngoc Hung"
   pronouns         : # example: "she/her"  
   bio              : "Master of Science"
