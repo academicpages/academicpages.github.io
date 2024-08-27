@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /Research/
+author_profile: true
+---
+
 Working Papers
 ======
 [The Perceived Sources of Unexpected Inflation]() 
