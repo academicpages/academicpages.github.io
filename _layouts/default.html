@@ -7,25 +7,29 @@ layout: compress
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
-    {% include head.html %}
+    {% include head.html %} 
     {% include head/custom.html %}
+
+    <!-- Link to the custom style.css file -->
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
 
   <body>
+    {% include browser-upgrade.html %}  
+    {% include masthead.html %}  
 
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
+    <!-- Main content of the page -->
+    <main>
+      {{ content }}
+    </main>
 
     <div class="page__footer">
       <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
+        {% include footer/custom.html %}  
+        {% include footer.html %} 
       </footer>
     </div>
 
-    {% include scripts.html %}
-
+    {% include scripts.html %}  
   </body>
 </html>

@@ -1,0 +1,31 @@
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find our articles on <a href="{{site.author.googlescholar}}">here</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
+<!-- Simplified rendering of publications by categories -->
+{% assign categories = "Peer-Reviewed Publications,Conference Proceedings,Preprints/Under review" | split: "," %}
+
+{% for category in categories %}
+  {% assign title_shown = false %}
+  {% for post in site.publications reversed %}
+    {% if post.category == category %}
+      {% unless title_shown %}
+        <h2>{{ category }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      <p>{{ post.citation | markdownify }} <a href="{{ post.paperurl }}">(link to the article)</a></p>
+    {% endif %}
+  {% endfor %}
+  {% if title_shown == false %}
+    <p>No publications found under {{ category }}.</p>
+  {% endif %}
+{% endfor %}

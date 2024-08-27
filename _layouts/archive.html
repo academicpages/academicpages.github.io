@@ -16,9 +16,7 @@ layout: default
   {% include sidebar.html %}
 
   <div class="archive">
-    {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
-    {% endunless %}
+    <h1 class="page__title">{{ page.title }}</h1>
     {{ content }}
   </div>
 </div>

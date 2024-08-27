@@ -1,0 +1,104 @@
+/* Custom styles for your site */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+}
+
+.header {
+  background-color: #333;
+  color: #ffffff;
+  padding: 10px 0;
+}
+
+.header .logo {
+  max-width: 150px;
+}
+
+.person-profile {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+  background-color: transparent; 
+}
+
+.person-profile img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+/* General styling for the people list */
+.people-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.person-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ddd; /* Optional: Add a border between items */
+  padding-bottom: 10px; /* Optional: Add padding below each item */
+}
+
+.person-photo {
+  margin-right: 20px; /* Space between photo and text */
+}
+
+.person-photo img {
+  width: 150px; /* Set a fixed width for the images */
+  height: 150px; /* Set a fixed height for the images */
+  object-fit: cover; /* Ensure images cover the area without distortion */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+
+.person-info {
+  flex: 1;
+}
+
+.person-name {
+  font-size: 1.2em;
+  font-weight: bold;
+  text-decoration: none;
+  color: #333; /* Adjust text color as needed */
+}
+
+.person-name:hover {
+  text-decoration: underline;
+}
+
+/* General styles for news list */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-item {
+  border-bottom: 1px solid #ddd;
+  padding: 15px 0;
+}
+
+.news-item h2 {
+  margin: 0 0 10px;
+}
+
+.news-thumbnail,
+.news-photo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px 0;
+}
+
+.news-date {
+  font-size: 0.9em;
+  color: #666;
+}
+
+.news-content {
+  margin: 10px 0;
+}
