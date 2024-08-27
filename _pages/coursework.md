@@ -10,6 +10,7 @@ nav_order: 5
 ### Duke University (Graduate)
 
 - Generative Models (CS 590-01, Prof. Bhuwan Dhingra)
+- Machine Learning in Adversarial Settings (ECE 663, Prof. Neil Gong)
 - Advanced Topics in Deep Learning (ECE 590-07, Prof. Vahid Tarokh)
 - Introduction to Deep Learning (ECE 685D, Prof. Vahid Tarokh)
 - Engineering Deep Neural Networks (ECE 590-02/ECE 661, Prof. Yiran Chen)
