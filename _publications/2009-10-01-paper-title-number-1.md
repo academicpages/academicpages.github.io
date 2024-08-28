@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Feature selection using metaheuristics made easy: Open source MAFESE library in Python"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://www.sciencedirect.com/science/article/abs/pii/S0167739X24003030
+excerpt: 'The library for Feature selection in Python '
+date: 2024-55
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: ''
+paperurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
