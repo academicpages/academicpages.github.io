@@ -2,11 +2,11 @@
 title: "Deadline-Aware Joint Task Scheduling and Offloading in Mobile Edge Computing Systems"
 collection: publications
 category: manuscripts
-permalink: 'https://ieeexplore.ieee.org/document/10592058'
+permalink: 'JIoT_072024'
 excerpt: ''
 date: 2024-07-10
 venue: 'IEEE Internet of Things Journal'
-slidesurl: ''
+slidesurl: 'https://ieeexplore.ieee.org/document/10592058'
 paperurl: ''
 citation: ''
 ---
