@@ -22,6 +22,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 ![PLOS Medicine](../images/Figure_JNO.png)
 
 **Earlier age at menopause, plasma metabolome, and risk of premature mortality: A cohort study in the UK Biobank**
+
 **Zeping Yang**, Ninghao Huang, ... Nan Li<sup>*</sup>.
 
 - **Question** What is the metabolomic signature associated with the age at menopause, and does it mediate the relationship between earlier age at menopause and increased risk of premature mortality?
