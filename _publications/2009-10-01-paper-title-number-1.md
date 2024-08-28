@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: https://www.sciencedirect.com/science/article/abs/pii/S0167739X24003030
 excerpt: 'The library for Feature selection in Python '
-date: 2024-55
-venue: 'Journal 1'
+date: 2024-05
+venue: 'Future Generation Computer Systems'
 slidesurl: ''
 paperurl: ''
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
