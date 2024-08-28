@@ -1,0 +1,337 @@
+%-------------------------
+% Resume in Latex
+% Author : Abey George
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+% \documentclass[letterpaper,11pt]{article}
+
+\documentclass[a4paper,20pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\usepackage{graphicx}
+
+% \usepackage[left=1in, right=1in, top=1in, bottom=0.1cm]{geometry}
+\usepackage[a4paper, left=2cm, right=2cm, top=2cm, bottom=0cm]{geometry}
+
+
+\usepackage[utf8]{inputenc}
+
+
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+
+\RequirePackage{tikz}
+\RequirePackage{xcolor}
+\RequirePackage{fontawesome}
+\usepackage{tikz}
+\usetikzlibrary{svg.path}
+
+
+\definecolor{cvblue}{HTML}{0E5484}
+\definecolor{black}{HTML}{130810}
+\definecolor{darkcolor}{HTML}{0F4539}
+\definecolor{cvgreen}{HTML}{3BD80D}
+\definecolor{taggreen}{HTML}{00E278}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+\colorlet{name}{black}
+\colorlet{tagline}{darkcolor}
+\colorlet{heading}{darkcolor}
+\colorlet{headingrule}{cvblue}
+\colorlet{accent}{darkcolor}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+% \pagestyle{fancy}
+% \fancyhf{}  % clear all header and footer fields
+% \fancyfoot{}
+% \renewcommand{\headrulewidth}{0pt}
+% \renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\classesList}[4]{
+    \item\small{
+        {#1 #2 #3 #4 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{\large#1} & \textbf{\small #2} \\
+      \textit{\large#3} & \textit{\small #4} \\
+      
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{1.001\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & \textbf{\small #2}\\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+
+\newcommand\sbullet[1][.5]{\mathbin{\vcenter{\hbox{\scalebox{#1}{$\bullet$}}}}}
+
+
+
+\DeclareUnicodeCharacter{2212}{-} % Declare Unicode character U+2212 as a hyphen-minus
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+\vfill
+%----------HEADING----------
+
+
+\begin{center}
+    {\Huge \scshape Cedar Chen}  \href{https://tallsong.github.io/}{\raisebox{0.7\height}\faExternalLink }     \\ \vspace{1pt}
+    Beijing,China \\ \vspace{1pt}
+    \small \href{tel:+19048785401}{ \raisebox{-0.1\height}\faPhone\ \underline{+1-9048785491} ~} \href{mailto:a1249812431@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{a1249812431@gmail.com}} ~ 
+    \href{https://linkedin.com/in/cedarchen}{\raisebox{-0.2\height}\faLinkedinSquare\ \underline{cedarchen}}  ~
+    \href{https://github.com/tallsong}{\raisebox{-0.2\height}\faGithub\ \underline{tallsong}} ~    
+    \vspace{-8pt}
+\end{center}
+
+
+
+
+
+%------PERSONAL SUMMARY-------
+\section{SUMMARY}
+    %\resumeSubHeadingListStart        
+5 years of software development work experience, proficient in \textbf{C++} and \textbf{Python} , as well as data operations with MySQL. Experience in distributed storage systems in private cloud platforms, SDKs in big data platforms, compilers, and industrial (desktop) software. 4 years in Linux  multi-threading API and 5 years in C++/data structure algorithm.
+        \vspace*{2.0\multicolsep}
+    %\resumeSubHeadingListEnd
+
+\vspace{10pt}
+%-----------PROGRAMMING SKILLS-----------
+\vspace{-12pt}
+\section{TECHNICAL SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+
+
+    \textbf{\normalsize{Programming Languages:}}{ \normalsize{Python, C, C++, JavaScript , Shell}} \\
+    \textbf{\normalsize{Distributed System:}}{ \normalsize{Experience with microservices architecture, Apache Spark}} \\
+    \textbf{\normalsize{Databases:}}{ \normalsize{MySQL, Redis}} \\
+    \textbf{\normalsize{Tools \& Technologies:}}{ \normalsize{Git, Docker, Kubernetes, Linux, Django, Qt, Flask, Scrapy, CEPH}} \\
+    \textbf{\normalsize{A/B Testing Platforms:}}{ \normalsize{Familiarity with large-scale experimentation frameworks, eg: Ansible}} \\
+
+    }}
+ \end{itemize}
+ \vspace{-15pt}
+
+
+
+
+
+
+%-----------EXPERIENCE-----------
+\section{PROFESSIONAL EXPERIENCE}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Runjian \href{https://www.runjian.com/index.php/News/index/cid/5.html}{\raisebox{-0.1\height}\faExternalLink }}{2023.02 -- Present} 
+      {\underline{Software Engineer}}{Beijing, China}
+      \resumeItemListStart
+           \resumeItem{\textbf{EBConverter}}
+          {As a software development engineer in the DEA software team to using \textbf{C++} and \textbf{Qt} to complete tasks which are responsible for implementing drawing(XML) conversion functions, ensuring data accuracy and system scalability.}
+    
+      \resumeItemListEnd  
+        
+ 
+
+    \resumeSubheading
+      {JD.com \href{https://corporate.jd.com/ourBusiness}{\raisebox{-0.1\height}\faExternalLink }}{2021.10 -- 2022.08} 
+      {\underline{Software Engineer}}{Beijing, China}
+      \resumeItemListStart
+      
+         \resumeItem{\textbf{SQL Parser}}
+          {Enhanced and optimized a distributed  SQL Parser, which is a SQL parsing system in AI system for generating \textbf{AST} by parsing the \textbf{SQL} input by the user through \textbf{Lexer} and \textbf{parser}, and then perform \textbf{code generation} to generate the corresponding secure computing \textbf{Python} API code (\textbf{ANTLR}, \textbf{PySpark}), resulting in a 50\% improvement in parsing capabilities.}
+       \resumeItem{\textbf{Jupyter}}
+          {Played a key role in the development of a Jupyter-based data platform, focusing on scalability and user customization, such as developing custom user login, code detection, custom kernel, and other functions, which enable users to login platform and use jupyter kernel deployed by our team(\textbf{Jupyter}, \textbf{Python}, \textbf{Kubernetes}, \textbf{Docker}).}
+        \resumeItem{\textbf{File Service}}
+          {File Service is a microservice, my role is to  lead the development of a microservice-based file storage solution and develope user data storage, query, and other related functions (\textbf{Flask}, \textbf{Pandas}) which supports access to file list of folders from the \textbf{file system}, \textbf{HDFS}, and \textbf{Amazon S3} interfaces, improving response speed by 30\% and ensuring system reliability for millions of users.}
+      \resumeItemListEnd  
+
+    \resumeSubheading
+      {Institute of Information Engineering, Chinese Academy of Sciences \href{http://www.iie.cas.cn/jggk2020/dwjj2020/}{\raisebox{-0.1\height}\faExternalLink }}{2020.07 -- 2021.10} 
+      {\underline{Software Engineer}}{Beijing, China}
+      \resumeItemListStart
+      
+        \resumeItem{\textbf{Security Authorization Management System}}
+          {Optimized the user interface and implemented the backend functions (\textbf{C++}, \textbf{QT}, \textbf{socket}) of the security and security authorization management system of the virtualization platform, reducing the time to manage access by 40\% through automation.}
+             \resumeItem{\textbf{Distributed Storage System}}
+          {Optimized backend systems to support large-scale data operations, contributing to improved system performance and customer satisfaction, such as designed and implemented a distributed storage system, mainly implementing user management, uploading and downloading files, file collection and sharing, user history viewing, and other functions (\textbf{CEPH}, \textbf{Linux}, \textbf{Django}, \textbf{Boto3}, \textbf{HTML}, \textbf{CSS}, \textbf{JavaScript}, \textbf{Python}).}
+    
+        \resumeItem{\textbf{Storage Cluster Monitoring Module}}
+          {Storage cluster monitoring module development and document online browsing function implementation (\textbf{Flask}, \textbf{JavaScript}, \textbf{Python}).}
+      \resumeItemListEnd  
+
+
+    \resumeSubheading
+      {Yuexin Technology \href{http://www.yuexintec.com/about.html}{\raisebox{-0.1\height}\faExternalLink }}{2019.06 -- 2019.12} 
+      {\underline{Software Engineer Intern}}{Beijing, China}
+      \resumeItemListStart
+      
+        \resumeItem{Data warehouse extraction, scheduling, processing, cleaning, and analysis of hundreds of millions of data levels.}
+        \resumeItem{Use \textbf{ETL} tools to write scripts and \textbf{SQL} to process data (\textbf{Kettle}, \textbf{JavaScript}).}
+        \resumeItem{Developing data crawlers for enterprise industrial and commercial data, which updated more than 200Million lines data became updated. (\textbf{Python}, \textbf{Scrapy}, \textbf{XPath}).}
+      \resumeItemListEnd  
+
+    
+  \resumeSubHeadingListEnd
+
+
+
+
+
+
+%-----------PROJECTS-----------
+\section{Open Source Projects and Works}
+    \vspace{-5pt}
+    \resumeSubHeadingListStart
+
+      \resumeProjectHeading
+          {\href{https://github.com/tallsong/studyabroadapplication}{\textbf{\large{\underline{University Information Retrieval System}}} \href{Project Link}{\raisebox{-0.1\height}\faExternalLink }} }{2019.12 -- present} 
+          \resumeItemListStart
+            \resumeItem{\normalsize{Built and deployed a web system .}}
+            \resumeItem{\normalsize{This system regularly captures data of 1500 universities from other websites and displays the data on the page (\textbf{Scrapy}, \textbf{HTML}, \textbf{CSS}, \textbf{JavaScript}).}}
+            \resumeItem{\normalsize{User can register, log on, activate, view history, and collect satisfactory institutions (\textbf{Redis}, \textbf{Celery})}.}
+            \resumeItem{\normalsize{Retrieve university information (\textbf{MySQL}, \textbf{Amap API}, \textbf{Whoosh}, \textbf{Haystack} ) through keywords, longitude, latitude, and ranking}.}
+            
+            %TODO add live demo
+          \resumeItemListEnd
+          \vspace{-13pt}
+          
+  
+          
+       \resumeProjectHeading
+          {\href{https://github.com/tallsong/voice}{\textbf{\large{\underline{Chinese Language Evaluation System}}} {\raisebox{-0.1\height}\faExternalLink }} $|$}{2020.07 -- 2020.10} 
+          \resumeItemListStart
+            \resumeItem{\normalsize{Built a web system that can input English-generated corresponding audio files and play online, and display the corresponding audio map(\textbf{Django}, \textbf{JavaScript}, \textbf{Xunfei API}).}}
+            \resumeItem{\normalsize{Through this system, Chinese can be entered online and scores can be given in real-time.}} \\
+            %TODO add live demo
+            %\resumeItem{\textcolor{accent} {\href{Live Project Link} {\underline{\normalsize{Live site here}}}}}
+          \resumeItemListEnd 
+          \vspace{-13pt}
+          
+
+          
+    \resumeSubHeadingListEnd
+
+
+%
+
+
+\vspace{0.1cm}
+%-----------EDUCATION-----------
+\section{EDUCATION}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Guangdong Baiyun University}{2016.09 -- 2020.07}
+      {Bachelor's in Information Management and Information System}{Guangzhou, China}
+       
+
+
+   
+  \resumeSubHeadingListEnd
+  
+\vspace{-13pt}
+
+
+ 
+ 
+ \newpage
+ %-----------CERTIFICATIONS---------------
+
+
+\section{CERTIFICATIONS}
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com} {Machine Learning Certificate- Coursera}}\\
+$\sbullet[.75] \hspace{0.2cm}${\href{certificateLink.com} {Winner of the Third Prize Award in the Preliminary Round of the 2017 “FLTRP Cup” English Writing Contest.}}\\
+
+
+
+
+
+
+\vfill
+\end{document}
