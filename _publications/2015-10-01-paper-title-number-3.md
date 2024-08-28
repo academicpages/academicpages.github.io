@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Integrated metaheuristic algorithms with extreme learning machine models for river streamflow prediction"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: https://www.nature.com/articles/s41598-024-63908-w
+excerpt: ''
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Scientific Reports of Nature'
+slidesurl: ''
+paperurl: ''
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Accurate river streamflow prediction is pivotal for effective resource planning and flood risk management. Traditional river streamflow forecasting models encounter challenges such as nonlinearity, stochastic behavior, and convergence reliability. To overcome these, we introduce novel hybrid models that combine extreme learning machines (ELM) with cutting-edge mathematical inspired metaheuristic optimization algorithms, including Pareto-like sequential sampling (PSS), weighted mean of vectors (INFO), and the Runge–Kutta optimizer (RUN). Our comparative assessment includes 20 hybrid models across eight metaheuristic categories, using streamflow data from the Aswan High Dam on the Nile River. Our findings highlight the superior performance of mathematically based models, which demonstrate enhanced predictive accuracy, robust convergence, and sustained stability. Specifically, the PSS-ELM model achieves superior performance with a root mean square error of 2.0667, a Pearson’s correlation index (R) of 0.9374, and a Nash–Sutcliffe efficiency (NSE) of 0.8642. Additionally, INFO-ELM and RUN-ELM models exhibit robust convergence with mean absolute percentage errors of 15.21% and 15.28% respectively, a mean absolute errors of 1.2145 and 1.2105, and high Kling-Gupta efficiencies values of 0.9113 and 0.9124, respectively. These findings suggest that the adoption of our proposed models significantly enhances water management strategies and reduces any risks.
