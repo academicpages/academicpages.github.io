@@ -12,6 +12,7 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* August 28th: Srinivasaragavan et al. 2024 - _Optical and Radio Analysis of Systemically Classified Broad-lined Type Ic Supernovae from the Zwicky Transient Facility_ accepted in ApJ. Check it out on [arXiv](https://arxiv.org/abs/2408.14586).
 * August 28th: Sarin et al. 2024 - _The origin of the coherent radio flash potentially associated with GRB 201006A_ accepted in ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.08048).
 * August 25th: Sarin and Rosswog 2024 - _Cautionary tales on heating-rate prescriptions in kilonovae_ accepted in ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.07271).
 * August 6th: Clarke et al. 2024 - _Quantifying the coincidence between gravitational waves and fast radio bursts from neutron star--black hole mergers_ submitted to PRD. Check it out on the [arXiv](https://ui.adsabs.harvard.edu/abs/2024arXiv240802534C/abstract)
