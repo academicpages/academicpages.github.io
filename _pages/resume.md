@@ -39,6 +39,9 @@ Palo Alto, CA
 
 ### Advanced Proficiency
 
+*Writing*
+- Style Guides (AP Style, Microsoft Style Guide)
+- 
 *Technology*
 - Microsoft Office Products (Teams, Word, Outlook, Excel)
 - Google Workspace Products
@@ -52,7 +55,6 @@ Palo Alto, CA
 *Writing*
 - Single-source authoring
 - Topic-based authoring
-- Style Guides (AP Style, Microsoft Style Guide)
 
 *Technology*
 - Amazon Web Services (AWS)
