@@ -22,6 +22,7 @@ main:
     
   - title: "CV"
     url: /files/CV_Dilshara_Herath.pdf
+    target: "_blank"
     
   # - title: "Guide"
   #   url: /markdown/

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hello there, I'm Dilshara"
+title: "👋Hello there, I'm Dilshara."
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,9 @@ redirect_from:
 
 🔬My research interest is on Machine Learning, Deep Learning and Computer Vision related areas.
 
-📚I am currently working on my Final Year Project on Micro-UAS Detection using ELF (Extremely Low signal)emitted by Drone motors, by integrating DSP (📶Digital Signal Processing), 🧠Deep Learning.
+📚I am currently working on my Final Year Project on Micro-UAS Detection using ELF (Extremely Low signal) signals emitted by Drone motors, by integrating DSP (📶Digital Signal Processing), 🧠Deep Learning.
+
+Stay Tuned for more Updates!  
 
 
 <!-- A data-driven personal website
