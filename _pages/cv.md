@@ -127,6 +127,7 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+**Rodríguez-de-Dios, I.** (2024, June 20-24). Social Media and Adolescents’ Well-being: The Role of Online Support, Online Victimization, and Personality Traits. [Paper presentation]. 74th Annual ICA Conference, Gold Coast, Australia.
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2024, May 28-31). Impacto del contacto intergrupal mediado con personas trans a través de YouTube en la transfobia. [Paper presentation]. IX Congreso Internacional de la AE-IC, ‘Comunicación e Innovación Sostenible’, Murcia, Spain.
 
@@ -255,8 +256,10 @@ https://www.retratsintermitents.cat/
 
 # TEACHING
 ===========
-### Lecturer _Communication Research Methods_ 2022-2023
+### Lecturer _Communication Research Methods_ 2022-2024
 (_Métodos de Investigación en Comunicación_). Bachelor in Audiovisual Communication and Creation, University of Salamanca
+### Supervisor _Master&#39;s and Bachelor&#39; Thesis Dissertations_ 2023
+(2 students) University of Salamanca
 ### Supervisor _Master&#39;s Thesis Dissertations_ 2022
 (2 students) MSc Strategic Communication and Public Relations, Pompeu Fabra University
 ### Lecturer _Advanced Data Analyses_ 2022
