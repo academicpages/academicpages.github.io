@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🏫I am a Final year Undergraduate student at the University of Ruhuna
+🏫I am a Final Year Undergraduate at the University of Ruhuna
 
-🔬My research interest is on Machine Learning, Deep Learning and Computer Vision related areas.
+🔬My research interests are on Machine Learning, Deep Learning and Computer Vision related areas.
 
 📚I am currently working on my Final Year Project on Micro-UAS Detection using ELF (Extremely Low signal) signals emitted by Drone motors, by integrating DSP (📶Digital Signal Processing), 🧠Deep Learning.
 
