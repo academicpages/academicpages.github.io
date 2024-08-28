@@ -11,35 +11,38 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electronics, Hanyang, 2024
+* Eng.D. in Engineering, Hanoi University of Science and Technology, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024 - Present: Senior AI 
+  * AI center, FPT Software
+  * Duties includes: Quantization and Compressing methods.
+  * Division: AI in Chip
+* Fall 2021 - 2024: Research Assistant
+  * Hanyang University
+  * Duties included: Mobile Edge Computing Researcher
+  * Supervisor: Prof. Sang-Woon Jeon
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2018-2021: Senior Software Engineer
+  * LG Electronics - LG Innotek
+  * Duties included: Wireless Module Engineer, Image Analysis.
+  * Division: Vehicle Component Solution
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Motor Design lab
+  * Hanoi University of Science and Technology
+  * Duties included: Research Assistant
+  * Supervisor: Prof. Bui Minh Dinh
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming languages: C++/C, Python, Java
+* Algorithms:
+  * Greedy, dynamic programming...
+  * Deep learning, Deep Reinforcement learning
+  * Analysis and correctness proof
+* Paper writing
 
 Publications
 ======
