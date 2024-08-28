@@ -12,14 +12,7 @@ I have conducted Laboratory Practicals for the module **EE4301 - Communication S
  offered by the Department of Electrical and Information Engineering, University of Ruhuna. 
 
 
-Lab 1 - Amplitude Modulation
-======
-
-Lab 2 - Frequency Modulation (FM)
-======
-
-Lab 3 - Digital Carrier Wave Modulation (ASK, FSK, PSK)
-======
-
-Lab 4 - Pulse Code Modulation
-======
+-Lab 1 - Amplitude Modulation
+-Lab 2 - Frequency Modulation (FM)
+-Lab 3 - Digital Carrier Wave Modulation (ASK, FSK, PSK)
+-Lab 4 - Pulse Code Modulation

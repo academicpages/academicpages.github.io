@@ -12,11 +12,6 @@ I have conducted Laboratory Practicals for the module **EE2201 - Fundamentals of
  offered by the Department of Electrical and Information Engineering, University of Ruhuna. 
 
 
-Lab 1 - Introduction to Resistors, Capacitors, Diodes and Bipolar Junction Transistors (BJTs)
-======
-
-Lab 2 - Combinational Logic Circuits
-======
-
-Lab 3 - Sequential Logic Circuits
-======
+-Lab 1 - Introduction to Resistors, Capacitors, Diodes and Bipolar Junction Transistors (BJTs)
+-Lab 2 - Combinational Logic Circuits
+-Lab 3 - Sequential Logic Circuits
