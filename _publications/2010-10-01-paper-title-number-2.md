@@ -3,7 +3,7 @@ title: "Deadline-Aware Joint Task Scheduling and Offloading in Mobile Edge Compu
 collection: publications
 category: manuscripts
 permalink: 'https://ieeexplore.ieee.org/document/10592058'
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2024-07-10
 venue: 'IEEE Internet of Things Journal'
 slidesurl: ''
