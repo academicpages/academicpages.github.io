@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: https://www.nature.com/articles/s41598-024-63908-w
 excerpt: ''
-date: 2034-06-01
+date: 2024-06-01
 venue: 'Scientific Reports of Nature'
 slidesurl: ''
 paperurl: ''
