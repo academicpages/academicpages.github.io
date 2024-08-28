@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nguyen Ngoc Hung"
+title: "Nguyen, Ngoc Hung"
 author_profile: true
 redirect_from: 
   - /about/
