@@ -12,5 +12,6 @@ citation: 'K. Senarathne, A. Hatharasinghe, W. Seram, D. Herath, C. Seneviratne 
 '
 ---
 
-Abstract
+Abstract: 
+
 The threat posed by improvised explosive devices (IEDs) worn by suicide bombers has intensified in recent years. It is imperative to detect whether a suspected bomber is wearing an IED at a sufficiently large distance to mitigate such threats. This paper proposes an approach that utilizes radar technology and a deep-learning algorithm to identify body-worn IEDs. We employed CST Studio Suite, a high-performance 3D electromagnetic analysis software, to facilitate full-wave simulations. The fundamental characteristics of the radar cross section (RCS) of IEDs were found for various metallic, non-metallic, and human (soft tissue) models. We developed a deep learning (DL) model, which was trained and tested using data from CST simulations conducted with CST Studio Suite software. The DL model was able to achieve 96% of average detection accuracy.

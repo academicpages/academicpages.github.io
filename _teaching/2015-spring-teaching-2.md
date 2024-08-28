@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 2"
+title: "Laboratory Practicals for 1st Year Students"
 collection: teaching
-type: "Workshop"
+type: "Laboratory Practicals"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "University of Ruhuna, Electrical and Information Engineering"
+date: 2024-02-01
+location: "Galle, Sri Lanka"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I have conducted Laboratory Practicals for the module **EE2201 - Fundamentals of Electronics**
+ offered by the Department of Electrical and Information Engineering, University of Ruhuna. 
 
-Heading 1
+
+Lab 1 - Introduction to Resistors, Capacitors, Diodes and Bipolar Junction Transistors (BJTs)
 ======
 
-Heading 2
+Lab 2 - Combinational Logic Circuits
 ======
 
-Heading 3
+Lab 3 - Sequential Logic Circuits
 ======
