@@ -41,7 +41,7 @@ Palo Alto, CA
 
 *Writing*
 - Style Guides (AP Style, Microsoft Style Guide)
-- 
+
 *Technology*
 - Microsoft Office Products (Teams, Word, Outlook, Excel)
 - Google Workspace Products
