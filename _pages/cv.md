@@ -28,9 +28,8 @@ Awards
 
 Teaching Experience
 ======
-* Fall 2023: TA for STSCI 3080, Cornell University
 * Spring 2024: TA for STSCI 3080, Cornell University
-
+* Fall 2024: TA for [STSCI 3900](https://causal3900.github.io/index.html) Cornell University
 
   
   
