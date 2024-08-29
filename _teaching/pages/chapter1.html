@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style and exceptions</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<div id="container">
+
+<h1>PEP 8: Python style guide</h1>
+<div id="nav">
+    <a href="chapter1.html" id="ch1lnk">PEP8</a>
+    <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+    <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+    <a href="chapter4.html" id="ch4lnk">Functions</a>
+    <a href="chapter5.html" id="ch5lnk">OOP</a>
+    <a href="chapter6.html" id="ch6lnk">data</a>
+    <a href="chapter7.html" id="ch7lnk">Cython</a>
+  </div>
+
+<h2 id="section1">1.1 The PEP 8 style guide</h2>
+        <p>
+            PEP stands for <i><a href="https://peps.python.org/pep-0008/">Python Enhancement Proposals. It states:</a></i>
+        </p>
+        <ol>
+            <li>Use <b>4</b> spaces per indentation level.
+                <a href="https://peps.python.org/pep-0008/#indentation">🐍</a>
+            </li>
+            <li>Python disallows 
+                <b>mixing tabs and spaces</b> for indentation.
+                <a href="https://peps.python.org/pep-0008/#maximum-line-length">🐍</a>
+            </li>
+            <li>The use of blank lines: 
+                <b>no more than TWO.</b>
+                <a href="https://peps.python.org/pep-0008/#blank-lines">🐍</a>
+            </li>
+            <li>The use of white spaces.
+                <a href="https://peps.python.org/pep-0008/#pet-peeves">🐍</a>
+            </li>
+            <li>Naming conventions. 
+                <a href="https://peps.python.org/pep-0008/#naming-conventions">🐍</a>
+            </li>
+        </ol>
+        <hr width="50%" color="grey" />
+
+<h2 id="section2">1.2 Error message reading and handling</h2>
+    
+        <p>
+            As a sidenote, I find it useful to talk about debugging information, although it is not part of the style guide. So if you write in your <tt>exception_example.py</tt>:
+            
+        </p>
+        <!-- <div class="editor-container"> -->
+        <div class="editor">
+            <textarea id="pythonCode1" style="display:none;"></textarea>
+            <div id="codeMirrorEditor1"></div>
+        </div>
+        <p>You will see the following error message when you run your script:</p>
+        <div class="editor">
+            <textarea id="pythonCode2" style="display:none;"></textarea>
+            <div id="codeMirrorEditor2"></div>
+        </div>
+        <!-- </div> -->
+        <p>Here is a great introduction that you should read: 
+            <a href="https://realpython.com/python-traceback/">Understanding the Python Traceback.</a>
+        </p>
+
+<div class="scoped-text">
+        <div class="spaced-text">Example 1.1</div>
+
+        <textarea id="pythonCode11" style="display:none;"></textarea>
+        <div id="codeMirrorEditor11" class="codeMirrorEditor"></div>
+        <button id="runCode11" onclick="runPythonCode(editor11, 'output11')">
+            Run Code
+        </button>
+        <pre id="output11"></pre>
+</div>
+
+
+        <p>
+            <a href="https://docs.python.org/3/tutorial/errors.html">
+                Read more.
+            </a>
+        </p>
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter1-scripts.js"></script>
+</body>
+</html>

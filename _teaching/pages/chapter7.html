@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accelerating Python</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <div id="container">
+<h1>Accelerating Python with Cython</h1>
+<div id="nav">
+    <a href="chapter1.html" id="ch1lnk">PEP8</a>
+    <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+    <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+    <a href="chapter4.html" id="ch4lnk">Functions</a>
+    <a href="chapter5.html" id="ch5lnk">OOP</a>
+    <a href="chapter6.html" id="ch6lnk">data</a>
+    <a href="chapter7.html" id="ch7lnk">Cython</a>
+  </div>
+<h2>7.1 High performant Python containers</h2>
+
+<h2>7.2 Lazy evaluation and iterators</h2>
+<p>We will look at two examples. Example one shows avoidance of duplicate computing. Example shows function overhead is costly.</p>
+<div class="scoped-text">
+    <div class="spaced-text">Example 7.1</div>
+    <textarea id="pythonCode71" style="display:none;"></textarea>
+    <div id="codeMirrorEditor71" class="codeMirrorEditor"></div>
+    <button id="runCode71" onclick="runPythonCode(edito71, 'output71')">
+        Run Code
+    </button>
+    <pre id="output71"></pre>
+</div>
+
+<div class="scoped-text">
+    <div class="spaced-text">Example 7.2</div>
+    <textarea id="pythonCode72" style="display:none;"></textarea>
+    <div id="codeMirrorEditor72" class="codeMirrorEditor"></div>
+    <button id="runCode72" onclick="runPythonCode(editor72, 'output72')">
+        Run Code
+    </button>
+    <pre id="output72"></pre>
+</div>
+
+<h2>7.3 Cython</h2>
+
+<h2>7.4 Numba</h2>
+
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+        
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter7-scripts.js"></script>
+    </div>
+</body>
+</html>
