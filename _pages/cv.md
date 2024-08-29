@@ -12,7 +12,7 @@ My full CV is [here](Ngoc_Hung_Nguyen_CV_updated.pdf)
 Education
 ======
 * M.S. in Electronics, Hanyang, 2024
-* Eng.D. in Engineering, Hanoi University of Science and Technology, 2018
+* B.S in Engineering, Hanoi University of Science and Technology, 2018
 
 Work experience
 ======
