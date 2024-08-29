@@ -43,10 +43,10 @@ Palo Alto, CA
 - Style Guides (AP Style, Microsoft Style Guide)
 
 *Technology*
-- Microsoft Office Products (Teams, Word, Outlook, Excel)
+- Microsoft Office Products (Word, Outlook, Excel)
 - Google Workspace Products
-- Slack
-- Zoom
+- Collaboration Software (Teams, Zoom, Slack)
+- Monday.com
 - HTML/CSS
 - Markdown
 
@@ -68,6 +68,7 @@ Palo Alto, CA
 
 *Writing*
 - Docs-as-code
+- Static site generators: MkDocs, Jekyll
 
 *Technology*
 - GitHub/Git
