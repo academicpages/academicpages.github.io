@@ -6,7 +6,7 @@ permalink: "Future_Comp_05_2024"
 excerpt: 'The library for Feature selection in Python '
 date: 2024-05-01
 venue: 'Future Generation Computer Systems'
-slidesurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167739X24003030'
+slidesurl: ''
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0167739X24003030'
 citation: ''
 ---

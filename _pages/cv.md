@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: "My Curriculum Vitae"
-permalink: /cv/
+permalink: /cv/Ngoc_Hung_Nguyen_cv.pdf
 author_profile: true
 redirect_from:
   - /resume
+  - /cv/Ngoc_Hung_Nguyen_cv.pdf
 ---
 
 {% include base_path %}
