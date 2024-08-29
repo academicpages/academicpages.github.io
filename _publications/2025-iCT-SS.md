@@ -1,7 +1,7 @@
 ---
-title: "Integrating Computational Thinking in Social Studies: Pathways for Enhancing Curriculum and Instruction"
+title: "<i>(under review)</i> Integrating Computational Thinking in Social Studies: Pathways for Enhancing Curriculum and Instruction"
 collection: publications
-date: 2025-03-13
+date: 2024-07-13
 venue: "SIGCSE"
 paperurl: 
 pdf: 

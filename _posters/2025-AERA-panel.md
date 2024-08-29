@@ -1,5 +1,5 @@
 ---
-title: "(under review) Why Does Education Need AI?"
+title: "<i>(under review)</i> Why Does Education Need AI?"
 collection: publications
 date: 2025-03-21
 venue: 'AERA'

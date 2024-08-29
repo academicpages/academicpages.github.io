@@ -1,5 +1,5 @@
 ---
-title: "(under review) Pre-service Teacher Perspectives on Generative AI"
+title: "<i>(under review)</i> Pre-service Teacher Perspectives on Generative AI"
 collection: publications
 date: 2025-03-21
 venue: 'AERA'
