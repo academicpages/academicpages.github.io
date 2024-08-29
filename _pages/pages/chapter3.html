@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Variables</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+<div id="toc">
+    <a href="#section1">3.1 Basic elements</a><br>
+    <a href="#section11" style="margin-left: 15px;">3.1.1 names, values</a><br>
+    <a href="#section12" style="margin-left: 15px;">3.1.2 namespaces</a><br>
+    <a href="#section2">3.2 Expressions</a><br>
+    <a href="#section21" style="margin-left: 15px;">3.2.1 atom</a><br>
+    <a href="#section22" style="margin-left: 15px;">3.2.2 primaries</a><br>
+    <a href="#section23" style="margin-left: 15px;">3.2.3 comparisons</a><br>
+    <a href="#section24" style="margin-left: 15px;">3.2.4 precedence</a><br>
+    <a href="#section3">3.3 Statements</a>
+</div>
+<div id="container">
+<h1>Python variables, expressions and statements</h1>
+<div id="nav">
+    <a href="chapter1.html" id="ch1lnk">PEP8</a>
+    <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+    <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+    <a href="chapter4.html" id="ch4lnk">Functions</a>
+    <a href="chapter5.html" id="ch5lnk">OOP</a>
+    <a href="chapter6.html" id="ch6lnk">data</a>
+    <a href="chapter7.html" id="ch7lnk">Cython</a>
+  </div>
+<h2 id="section1">3.1 Basic elements: names and values</h2>
+
+<h3 id="section11">3.1.1 Names are bound to values</h3>
+        <p>Python "variables" are  special.</p>
+        <!-- Example -->
+<div class="scoped-text">
+        <div class="spaced-text">Example 3.1</div>
+
+        <textarea id="pythonCode31" style="display:none;"></textarea>
+        <div id="codeMirrorEditor31" class="codeMirrorEditor"></div>
+        <button id="runCode31" onclick="runPythonCode(editor31, 'output31')">
+            Run Code
+        </button>
+        <!-- <p>Output:</p> -->
+        <pre id="output31"></pre>
+</div>
+
+        <!-- Python variables explained -->
+        <p>
+            <a href="https://david.goodger.org/projects/pycon/2007/idiomatic/handout.html#other-languages-have-variables">
+                Other languages have "variables" (🎨 Time to draw!)?
+            </a>
+        </p>
+
+        <h3 class="pre-list">Terms:</h3>
+        <ul>
+            <li>
+                <a href="https://docs.python.org/3/reference/expressions.html#atom-identifiers">
+                    <span class="hover-container">
+                        names
+                        <span class="hover-text">An identifier occurring as an atom is a name.</span>
+                    </span></a>
+                and <a href="https://docs.python.org/3/reference/datamodel.html#objects-values-and-types">values</a>
+            </li>
+            <li>assignment,
+                <a href="https://docs.python.org/3/reference/executionmodel.html#naming">
+                    <span class="hover-container">
+                        binding,
+                        <span class="hover-text"><i>Names</i> refer to objects.</span>
+                    </span></a>
+                and reference
+            </li>
+            <li><a href="https://docs.python.org/3/reference/datamodel.html#objects-values-and-types">mutability</a> (<a href="https://docs.python.org/3/library/stdtypes.html#immutable-sequence-types">see also</a>)</li>
+        </ul>
+<div class="scoped-text">
+        <div class="spaced-text">
+            Example 3.2<sup><a href="#fn32" id="fnref32">1</a></sup>
+        </div>
+<!-- n+=1 id -->
+        <textarea id="pythonCode32" style="display:none;"></textarea>
+        <div id="codeMirrorEditor32" class="codeMirrorEditor"></div>
+        <button id="runCode32" onclick="runPythonCode(editor32, 'output32')">
+            Run Code
+        </button>
+        <pre id="output32"></pre>
+<!-- list append -->
+        <textarea id="pythonCode33" style="display:none;"></textarea>
+        <div id="codeMirrorEditor33" class="codeMirrorEditor"></div>
+        <button id="runCode33" onclick="runPythonCode(editor33, 'output33')">
+            Run Code
+        </button>
+        <pre id="output33"></pre>
+<!-- immutable string -->
+        <textarea id="pythonCode34" style="display:none;"></textarea>
+        <div id="codeMirrorEditor34" class="codeMirrorEditor"></div>
+        <button id="runCode34" onclick="runPythonCode(editor34, 'output34')">
+            Run Code
+        </button>
+        <pre id="output34"></pre>
+</div>
+
+<h3 class="pre-list">"Fact"s taken from <a href="https://nedbatchelder.com/text/names.html">Ned Bathelder's website</a>:</h3>
+<ul>
+    <li class="custom-bullet">Names refer to values.</li>
+    <li>Many names can refer to one value.</li>
+    <li>Names are reassigned independently of other names.</li>
+    <li>Values live until nothing references them.</li>
+    <li class="custom-bullet">Assignment never copies data.</li>
+    <li>Changes in a value are visible through all of its names.</li>
+    <li>References can be more than just names.</li>
+    <li>Lots of things are assignment.</li>
+    <li class="custom-bullet">Python passes function arguments by assiging to them.</li>
+    <li>Any name can refer to any value at any time.</li>
+    <li class="custom-bullet">Names have no type, values have no scope.</li>
+    <li>Values can't be deleted, only names can.</li>
+</ul>
+<div class="takehome">
+    <h2>Takehome message</h2>
+    <p>1. Python names are "pointers".</p>
+    <p>2. Names bound to mutable objects do not change.</p>
+    <p>3. Names bound to immutable objects can switch.</p>
+</div>
+
+<h3 id="section12">3.1.2 Namespaces</h3>
+<p>Here we distinguish two concepts: namespace and scope: 
+    <a href="https://docs.python.org/3/tutorial/classes.html">
+        A namespace is a mapping from names to objects.</a>
+    <a href="https://docs.python.org/3/tutorial/classes.html">
+        A scope is a textual region of a Python program where a namespace is directly accessible.</a>
+</p>
+<div class="scoped-text">
+    <div class="spaced-text">
+        <a href="https://docs.python.org/3/tutorial/classes.html">Example 3.3 (click to see source)</a>
+    </div>
+<!-- n+=1 id -->
+    <textarea id="pythonCode35" style="display:none;"></textarea>
+    <div id="codeMirrorEditor35" class="codeMirrorEditor"></div>
+    <button id="runCode35" onclick="runPythonCode(editor35, 'output35')">
+        Run Code
+    </button>
+    <pre id="output35"></pre>
+</div>
+
+<p>Namespaces are usefule when deciding the order of <a href="https://docs.python.org/3/reference/executionmodel.html#resolution-of-names">resolution of names</a>. Python follows the "LEGB" rule to resolve names: <br>
+Local => Enclosed => Global => Built-in</p>
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.4</div>
+    <textarea id="pythonCode399" style="display:none;"></textarea>
+    <div id="codeMirrorEditor399" class="codeMirrorEditor"></div>
+    <button id="runCode399" onclick="runPythonCode(freeeditor31, 'output399')">
+        Run Code
+    </button>
+    <pre id="output399"></pre>
+</div>
+
+
+<p>Further examples:</p>
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.5</div>
+    <textarea id="pythonCode38" style="display:none;"></textarea>
+    <div id="codeMirrorEditor38" class="codeMirrorEditor"></div>
+    <button id="runCode38" onclick="runPythonCode(editor38, 'output38')">
+        Run Code
+    </button>
+    <pre id="output38"></pre>
+</div>
+
+<div class="takehome">
+    <h2>Takehome message</h2>
+    <p>1. Python interpreter searches from smaller namespaces to larger namespaces for a name.</p>
+    <img src="../images/legb.png" alt="LEGB rule" width=300px><br>
+    source: https://8thlight.com/insights/some-common-gotchas-in-python <br>
+    <p>2. The exception is the unbound local names from within a class. They "jump" from local to global namespaces.</p>
+
+    <p>3. A subtle point is that our code live in the __main__ module with ONE global space. For multiple .py files, each has its own global.</p>
+</div>
+
+<h2 id="section2">3.2 Expressions</h2>
+<p><a href="https://docs.python.org/3/reference/expressions.html#grammar-token-python-grammar-enclosure">Here</a> is the official document.</p>
+
+<h3 id="section21">3.2.1 Atom</h3>
+<!-- <p class="pre-list">A primer on BNF notations.</p> -->
+<ul>
+    <li><tt>atom      ::=  identifier | literal | enclosure</tt></li>
+    <li><tt>literal   ::=  stringliteral | bytesliteral
+        | integer | floatnumber | imagnumber</tt></li>
+    <li><tt>stringliteral   ::=  [stringprefix](shortstring | longstring)</tt></li>
+    <li><tt>stringprefix    ::=  "r" | "u" | "R" | "U" | "f" | "F"
+        | "fr" | "Fr" | "fR" | "FR" | "rf" | "rF" | "Rf" | "RF"</tt></li>
+</ul>
+
+<h3 id="section22">3.2.2 Primaries</h3>
+There are 5 types of primaries.
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.6</div>
+    <textarea id="pythonCode397" style="display:none;"></textarea>
+    <div id="codeMirrorEditor397" class="codeMirrorEditor"></div>
+</div>
+
+<h3 id="section23">3.2.3 <a href="https://docs.python.org/3/reference/expressions.html#comparisons">Comparisons</a></h3>
+<ul>
+    <li><</li>
+    <li>></li>
+    <li>==</li>
+    <li>>=</li>
+    <li><=</li>
+    <li>!=</li>
+</ul>
+<p>Besides these, also comparisons are:</p>
+<ul>
+    <li>is [not]</li>
+    <li>[not] in</li>
+</ul>
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.7</div>
+    <textarea id="pythonCode396" style="display:none;"></textarea>
+    <div id="codeMirrorEditor396" class="codeMirrorEditor"></div>
+    <button id="runCode396" onclick="runPythonCode(freeeditor34, 'output396')">
+        Run Code
+    </button>
+    <pre id="output396"></pre>
+</div>
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.8</div>
+    <textarea id="pythonCode395" style="display:none;"></textarea>
+    <div id="codeMirrorEditor395" class="codeMirrorEditor"></div>
+    <button id="runCode395" onclick="runPythonCode(freeeditor35, 'output395')">
+        Run Code
+    </button>
+    <pre id="output395"></pre>
+</div>
+<div class="takehome">
+    <h2>Takehome message</h2>
+    <p>1. Comparisons involving NaN are all false, except NaN != NaN</p>
+    <p>2. None is a singleton (only one instance for its class). Use <tt>is</tt> or <tt>is not</tt>.</p>
+    <p>3. <tt>x is y</tt> should imply <tt>x == y</tt>.</p>
+    <p>4. <tt>==</tt> invokes <tt>__eq__()</tt>; <tt>is</tt> invokes <tt>id()</tt> comparison; <tt>in</tt> invoke <tt>__contains__()</tt> method if defined; </p>
+</div>
+
+<h3 id="section24">3.2.4 Operation precedence</h3>
+<p>Expressions comes first, then parimaries, then arithmatic, then bitwise, then comparison. <br>
+    See <a href="https://docs.python.org/3/reference/expressions.html#operator-precedence">here</a> for reference.</p>
+
+<h2 id="section3">3.3 Statements</h2>
+
+<h3 id="section31">3.3.1 Expression statement</h3>
+<p>"<i>In interactive mode, if the value is not None, it is converted to a string using the built-in repr() function and the resulting string is written to standard output on a line by itself (except if the result is None, so that procedure calls do not cause any output.)</i>"</p>
+
+<h3 id="section32">3.3.2 Assignment statements</h3>
+
+
+<p>1. Name binding constructs</p>
+<div class="scoped-text">
+        <div class="spaced-text">
+            Example 3.9
+        </div>
+        <textarea id="pythonCode37" style="display:none;"></textarea>
+        <div id="codeMirrorEditor37" class="codeMirrorEditor"></div>
+</div>
+
+<p>2. Augmented assignment (eval then assign)</p>
+<div class="scoped-text">
+        <div class="spaced-text">
+            Example 3.10 (🎨 <b>Time to draw!</b>)
+        </div>
+<!-- n+=1 id -->
+        <textarea id="pythonCode36" style="display:none;"></textarea>
+        <div id="codeMirrorEditor36" class="codeMirrorEditor"></div>
+        <button id="runCode36" onclick="runPythonCode(editor36, 'output36')">
+            Run Code
+        </button>
+        <pre id="output36"></pre>
+</div>
+<p>Augmented assignment calls different functions: for mutable objects, <tt>x+=1</tt> is not equal to <tt>x = x + 1</tt>. The augmented add (<tt>+=</tt>) can modify objects in place.</p>
+
+<p>A gotcha is to bring to your attention.</p>
+<!-- class A -->
+<!-- a = [5]
+d = 1
+class A:
+    # a = 42
+    a += [3]
+    a = a + [4]
+    print(a)
+    d += 1
+    # c = [a + i for i in range(3)]
+    # print(b)
+    
+print(a) -->
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.11</div>
+    <textarea id="pythonCode398" style="display:none;"></textarea>
+    <div id="codeMirrorEditor398" class="codeMirrorEditor"></div>
+    <button id="runCode398" onclick="runPythonCode(freeeditor32, 'output398')">
+        Run Code
+    </button>
+    <pre id="output398"></pre>
+</div>
+
+<p>3. The <a href="https://docs.python.org/3/reference/simple_stmts.html#attr-target-note">attribute</a> appearing as a name always refer to the instance attribute.</p>
+
+<h3>3.3.3 The <a href="https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement"><tt>assert</tt></a> statement: <tt>assert None is None [, 1 == 2]</tt></h3>
+
+<p>Assertions are primarily for debugging purposes. For a complex code where the bug lies can be difficult to pinpoint. Assertions help by providing checkpoints throughout the code, allowing you to verify that certain conditions hold true as the program executes. If an assertion fails, it raises an AssertionError and provides immediate feedback about where the assumption in the code was violated. This can save time by helping you identify the problematic section of code more quickly.</p>
+
+<p>Note when not debugging, an <a href="https://docs.python.org/3/glossary.html#term-EAFP">EAFP</a> style is preferred in the Python language than the <a href="https://docs.python.org/3/glossary.html#term-LBYL">LBYL</a> style.</p>
+
+<h3>3.3.4 Use <a href="https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement"><tt>raise</tt></a> to throw an exception.</h3>
+<div class="scoped-text">
+    <div class="spaced-text">Example 3.12</div>
+    <textarea id="pythonCode39" style="display:none;"></textarea>
+    <div id="codeMirrorEditor39" class="codeMirrorEditor"></div>
+    <button id="runCode39" onclick="runPythonCode(editor39, 'output39')">
+        Run Code
+    </button>
+    <pre id="output399"></pre>
+</div>
+
+
+<h3>3.3.5 The <tt>yield</tt> will be in <a href="chapter4.html#section2">Functions</a>.</h3>
+<h3>3.3.6 The <a href="https://docs.python.org/3/reference/compound_stmts.html#the-try-statement"><tt>try</tt></a> statement</h3>
+        <p>1. Lifecycle of the <tt>except ... as ...</tt> clause.</p>
+        <p>2. <tt>finally</tt> is always executed, even after <tt>return</tt>.</p>
+        <p>3. Execution order of except: let's go back to the <a href="chapter1.html#section2">exception example</a>.</p>
+
+
+        <hr>
+        <sup id="fn1">1. [Reference: https://nedbatchelder.com/text/names.html]
+            <a href="#fnref1" title="">↩</a>
+        </sup>
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+        
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter3-scripts.js"></script>
+    </div>
+</body>
+</html>

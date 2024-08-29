@@ -1,0 +1,243 @@
+#container {
+    width: 800px; /* Set the width you desire */
+    margin: 0 auto; /* Centers the container */
+    padding: 20px; /* Optional padding inside the container */
+    border: 1px solid #ccc; /* Optional border */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Optional shadow */
+}
+#toc {
+    width: auto;
+    white-space: nowrap;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    /* top: 50px; */
+    left: calc((100% - 800px) / 2 - 200px); /* Position TOC to the left of the container */
+    /* top: 20px; */
+    position: fixed; /* Keep it positioned relative to the page */
+    display: none;
+}
+@media (max-width: 1000px) {
+    #toc {
+        display: none; /* Hide the TOC when the screen is too small */
+    }
+
+    #container {
+        margin: 0 20px; /* Add margin to keep content centered when TOC is hidden */
+    }
+}
+div#nav{
+    text-align: center;
+}
+div#nav ul{
+    display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+.CodeMirror {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    height: auto;
+    font-size: 20px;
+}
+
+pre {
+    /* padding: 1em; */
+    /* border: 1px solid #ddd; */
+    border-radius: 5px;
+    background: #f5f5f5;
+    overflow-x: auto;
+    font-size: 20px;
+}
+
+.highlight {
+    background: #f5f5f5;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1em;
+}
+
+p {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+/* .editor {
+    width: 400px;
+    font-size: 16px;
+} */
+
+.editor-container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+}
+
+.editor {
+    flex: 1;
+    margin-right: 10px; /* Space between editors */
+}
+
+.codeMirrorEditor1, .codeMirrorEditor2 {
+    height: 200px; /* Set the height for CodeMirror editors */
+    border: 1px solid #ddd;
+}
+
+.inline-python-code {
+    background-color: #f7f7f7;
+    border-radius: 4px;
+    font-family: "Courier New", Courier, monospace;
+    padding: 2px 5px;
+    color: #d63384;
+    font-size: 16px;
+    border: 1px solid #e1e1e8;
+}
+
+.scoped-text {
+    border: 2px solid #4CAF50; /* Green border */
+    padding-top: -30px;
+    padding-bottom: -30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 10px;
+}
+
+.spaced-text {
+    line-height: 1.8; /* Adjusts the vertical space between lines of text */
+    font-weight: bolder;
+}
+
+#backToTopBtn {
+    display: none; /* Hidden by default */
+    position: fixed; /* Fixed position */
+    bottom: 20px; /* 20px from the bottom */
+    right: calc((100% - 800px) / 2 - 110px);; /* 20px from the right */
+    z-index: 99; /* Make sure it does not overlap */
+    border: none; /* Remove borders */
+    outline: none; /* Remove outline */
+    background-color: #555; /* Background color */
+    color: white; /* Text color */
+    cursor: pointer; /* Add a mouse pointer on hover */
+    padding: 10px 15px; /* Some padding */
+    border-radius: 10px; /* Rounded corners */
+    font-size: 18px; /* Increase font size */
+}
+#backToTopBtn:hover {
+    background-color: #333; /* Darker background on hover */
+}
+
+table.header {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+
+th.header, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+th.header {
+    background-color: #f4f4f4;
+}
+
+ul {
+    list-style-type: disc;
+    padding-left: 20px; /* Remove default bullets */
+}
+
+/* Apply custom bullet style to a specific list item */
+.custom-bullet::before {
+    content: "*"; /* Custom symbol */
+    margin-left: -20px; /* Adjust this to align the custom bullet */
+    margin-right: 10px; /* Space between the bullet and the text */
+}
+
+/* Hide the default bullet for the custom list item */
+.custom-bullet {
+    list-style-type: none;
+}
+
+.pre-list {
+    margin-bottom: -10px;
+}
+
+.hover-container {
+    position: relative;
+    display: inline-block;
+}
+
+.hover-text {
+    visibility: hidden;
+    width: auto;
+    max-width: 900px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Position the tooltip above the word */
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    white-space: nowrap;
+}
+
+.hover-container:hover .hover-text {
+    visibility: visible;
+    opacity: 1;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Optional: Add custom styles for hover */
+a:hover {
+    color: blue; /* Change color on hover */
+    text-decoration: underline; /* Add underline back on hover */
+}
+
+.takehome {
+    background-color: #f9f9f9; /* Light grey background for contrast */
+    border-left: 5px solid #007bff; /* Blue bar on the left */
+    padding: 20px;
+    margin: 0 0; /* Space around the conclusion block */
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1); /* Optional shadow for emphasis */
+    font-style: italic; /* Italicize text to differentiate it */
+}
+.takehome h2 {
+    margin-top: 0;
+    color: #007bff; /* Match the border color for a consistent look */
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+.takehome p {
+    margin-bottom: 0px;
+}
+
+code.language-c {
+    font-size: 14px;
+    padding: 0;
+    margin: 0;
+    line-height: 1px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+  }

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual environments</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+<div id="container">
+
+<h1>Virtual environment management and IDE</h1>
+<div id="nav">
+    <a href="chapter1.html" id="ch1lnk">PEP8</a>
+    <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+    <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+    <a href="chapter4.html" id="ch4lnk">Functions</a>
+    <a href="chapter5.html" id="ch5lnk">OOP</a>
+    <a href="chapter6.html" id="ch6lnk">data</a>
+    <a href="chapter7.html" id="ch7lnk">Cython</a>
+  </div>
+<h2>2.1 Why Python virtual environments</h2>
+
+        <p>Although one can run Python command simply as other programs, the <i>base</i> Python comes with limited functionality. For exmaple, only using base Python, we cannot access functions defined in the Numpy module.</p>
+
+        <p>Python versions and module versions require compatability. Incompatibility can occur when, for example,</p>
+        <ul>
+            <li>in Python 3.8+, you use <tt>async</tt> or <tt>await</tt> as variable names.</li>
+            <li>older <tt>matplotlib</tt> modules meets support newer Numpy. (Try <tt>matplotlib==2.2.2</tt> and <tt>numpy==1.20</tt>)</li>
+            <li><tt>DeprecationWarning</tt>s</li>
+        </ul>
+
+        <p>We sometimes need to work with older versions of our code (recall the code you wrote 4 years ago). Other times, we might just want to use the most updated version of Python modules. To resolve the incompatibility issues, we create self-contained Python <b>environments</b>.</p>
+
+        <img src="../images/pyenvs.webp" width=800px alt="pyenvs?">
+        pic source: https://www.dataquest.io/blog/a-complete-guide-to-python-virtual-environments/
+
+<h2>2.2 Using <tt>venv</tt> to manage environments</h2>
+
+        <p>The venv documentation is <a href="https://docs.python.org/3/library/venv.html">here</a>.</p>
+
+<div class="scoped-text">
+        <div class="spaced-text">
+            Example 2.1 (create a "newenv" environment)
+        </div>
+        <table class="header">
+            <tr>
+                <th class="header">purpose</th>
+                <th class="header">command (in terminal)</th>
+            </tr>
+            <tr>
+                <td>create <tt>venv</tt></td>
+                <td><tt>./python.exe -m venv ./newenv</tt></td>
+            </tr>
+            <tr>
+                <td>go into <tt>newenv</tt></td>
+                <td><tt>.\newenv\Scripts\Activate.bat</tt></td>
+            </tr>
+            <tr>
+                <td>upgrade <tt>pip</tt></td>
+                <td><tt>.\python.exe -m pip install --upgrade pip</tt></td>
+            </tr>
+        </table>
+</div>
+
+<h2>2.3 Using <tt>conda</tt> to manage environments</h2>
+
+        <p><a href="https://www.anaconda.com/blog/understanding-conda-and-pip">Difference between <tt>venv</tt>+<tt>pip</tt> and <tt>conda</tt></a>.</p>
+        <p>It is a good idea to get familiarized with the coding environment: the interplay of the Python interpreter, the supporting packages managed by <tt>venv</tt>, and the code that calls them.</p>
+
+        <p>Using pip, we have the environemnt managed almost all by ourselves, including the locations. Using <a href="https://www.anaconda.com/">Anaconda</a>, a big heavy Python distribution that automatically have 250+ packages installed.</p>
+
+        <p>💡 What's your choice?            
+            <!-- My prefernce is always light-weighted software/programs. The combination I use is <tt>conda</tt> + VS Code. I do not have a standalone Python and all my Python interpreters are from <a href="https://docs.anaconda.com/miniconda/">Miniconda</a>, a Python distritbuion that takes 1/10 the size of Anaconda. The reason I do not use <tt>venv</tt> is my laziness in remembering the locations of my Python environments. -->
+        </p>
+
+        <p>In general, when you set up your computer, make a directory (or have <tt>conda</tt> do it for you) to store your Python "workers". Store you code and data independently of that environment. Call Python to do its job when you need it.</p>
+<div class="scoped-text">
+        <div class="spaced-text">
+            Example 2.2 (conda)
+        </div>
+        <table class="header">
+            <tr>
+                <th class="header">purpose</th>
+                <th class="header">command (in Anaconda Prompt)</th>
+            </tr>
+            <tr>
+                <td>create a named conda env</td>
+                <td><tt>conda create --name newenv</tt></td>
+            </tr>
+            <tr>
+                <td>create a conda env by loc</td>
+                <td><tt>conda create --prefix ./envs</tt></td>
+            </tr>
+            <tr>
+                <td>go into newenv<sup><a href="#fn21" id="fnref21">1</a></sup></td>
+                <td><tt>conda activate newenv</tt></td>
+            </tr>
+            <tr>
+                <td>install a package</td>
+                <td><tt>conda install numpy</tt></td>
+            </tr>
+        </table>
+</div>
+<div class="takehome">
+    <h2>Takehome message</h2>
+    <p>1. venv is part of Python standard library.</p>
+    <p>2. Check pip when installing Python.</p>
+    <p>3. conda is a chamberlain taking care of your Python environments.</p>
+</div>
+
+<h2>2.4 Writing code</h2>
+
+        <p>Choose whatever you like. Pycharm, spyder, VS Code, etc. Note the combination <tt>#%%</tt> is handy to execute parts of code.</p>
+        <p>Separate from the Python virtual environment, you need organize your code properly. For example:
+        </p>
+        <div class="scoped-text">
+            <div class="spaced-text">Example 2.3</div>
+    
+            <textarea id="pythonCode21" style="display:none;"></textarea>
+            <div id="codeMirrorEditor21" class="codeMirrorEditor"></div>
+    </div>
+        <hr>
+        <sup id="fn21">1. For Linux servers, use <tt>source activate</tt>
+            <a href="#fnref21" title="">↩</a>
+        </sup>
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter2-scripts.js"></script>
+    </div>
+</body>
+</html>

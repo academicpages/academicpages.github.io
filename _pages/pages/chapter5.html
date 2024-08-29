@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objects</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+<div id="toc">
+    <a href="#section1">5.1 Members</a><br>
+    <a href="#section11" style="margin-left: 15px;">5.1.1 naming</a><br>
+    <a href="#section12" style="margin-left: 15px;">5.1.2 static/class</a><br>
+    <a href="#section13" style="margin-left: 15px;">5.1.3 dunder</a><br>
+    <a href="#section2">5.2 Descriptors</a><br>
+    <a href="#section21" style="margin-left: 15px;">5.2.1 Introduciton</a><br>
+    <a href="#section22" style="margin-left: 15px;">5.2.2 Example</a><br>
+    <a href="#section3">5.3 Inheritance</a><br>
+    <a href="#section31" style="margin-left: 15px;">5.3.1 super()</a><br>
+    <a href="#section32" style="margin-left: 15px;">5.3.2 the abc</a><br>
+    <a href="#section33" style="margin-left: 15px;">5.3.3 multiple</a><br>
+</div>
+<div id="container">
+<h1>Object oriented programming in Python</h1>
+    <div id="nav">
+        <a href="chapter1.html" id="ch1lnk">PEP8</a>
+        <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+        <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+        <a href="chapter4.html" id="ch4lnk">Functions</a>
+        <a href="chapter5.html" id="ch5lnk">OOP</a>
+        <a href="chapter6.html" id="ch6lnk">data</a>
+        <a href="chapter7.html" id="ch7lnk">Cython</a>
+    </div>
+
+<h2 id="section1">5.1 Members</h2>
+    <p>Members are the attributes and methods. Attributes are like "variables", and methods are "inside" functions.</p>
+
+    <h3 id="section11"> 5.1.1 Naming conventions: Private names and name mangling</h3>
+    <p>Python encourage the use of one "<tt>_</tt>" (underscore) to indicate private names. Python enforce the use of two "__" to indicate name mangling.</p>
+
+    <p>Simply speaking, "name mangling" means when you use a leading d(ouble)under(score) without trailing underscores to bind a name inside a class definition, the actual name is transormed to <tt>_ClassName__varname</tt>.</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.1
+        </div>
+        <textarea id="pythonCode50" style="display:none;"></textarea>
+        <div id="codeMirrorEditor50" class="codeMirrorEditor"></div>
+        <button id="runCode50" onclick="runPythonCode(editor50, 'output50')">
+            Run Code
+        </button>
+        <pre id="output50"></pre>
+    </div>
+
+    <h3>Use class attributes to store data.</h3>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.2
+        </div>
+        <textarea id="pythonCode51" style="display:none;"></textarea>
+        <div id="codeMirrorEditor51" class="codeMirrorEditor"></div>
+        <button id="runCode51" onclick="runPythonCode(editor51, 'output51')">
+            Run Code
+        </button>
+        <pre id="output51"></pre>
+    </div>
+
+    <h3>You can also use a singleton class and define class attributes to save memory.</h3>
+
+    <h3 id="section12">5.1.2 Instance, class, and static methods</h3>
+    <p>Instance methods are the methods bound to an instance of a class. The instance is the caller of this method. The first parameter of instance methods is reserved for <tt>self</tt>. Static methods do not operate on an instance or a class directly, and the caller can be either an instance or a class. Class methods act on a class. An instance can also be a caller. The first parameter is <tt>cls</tt>.</p>
+
+    <p>For example, we can define a <tt>Student</tt> class to store the grades. But we'll see that grading does not rely on a single student.</p>
+
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.10
+        </div>
+        <textarea id="pythonCode510" style="display:none;"></textarea>
+        <div id="codeMirrorEditor510" class="codeMirrorEditor"></div>
+        <button id="runCode510" onclick="runPythonCode(editor510, 'output510')">
+            Run Code
+        </button>
+        <pre id="output510"></pre>
+    </div>
+
+    <p>Suppose now we need a class specifically for the grades of the first-year students, but we want to keep the structure of the general <tt>Student</tt> class. For practical usage, we want to read data from a spreadsheet and create instances for each student. For example:</p>
+    <img src="../images/student.png" alt="Student spreadsheet" width=300px class="center">
+
+    <p>We could define a static method to read in the record.</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.11
+        </div>
+        <textarea id="pythonCode511" style="display:none;"></textarea>
+        <div id="codeMirrorEditor511" class="codeMirrorEditor"></div>
+        <button id="runCode511" onclick="runPythonCode(editor511, 'output511')">
+            Run Code
+        </button>
+        <pre id="output511"></pre>
+    </div>
+
+    <p>But when you want specific methods defined in the <tt>FirstYear</tt> class, you cannot call it from the instance created by <tt>read</tt>. This is where we need the <tt>@classmethod</tt> decorator.</p>
+
+    <h3 id="section13">5.1.3 Special methods: <tt>__call__()</tt> and <tt>__new__()</tt></h3>
+    <p><b>Introduction to the <tt>__call__</tt> method</b></p>
+    <p>We start by introducing the idea of "callable". An object <tt>obj</tt> is callable when you can <b>call</b> it. In other words, when <tt>obj()</tt> or <tt>obj(*args, **kwargs)</tt> has meaning. Examples include, a function, a class, and an instance.</p>
+
+    <p>The reason that most of these objects are callable is the implementation of the <tt>__call__</tt> method. Note that when you see dunders prior and after the methods' name, the methods are special methods.</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.3
+        </div>
+        <textarea id="pythonCode52" style="display:none;"></textarea>
+        <div id="codeMirrorEditor52" class="codeMirrorEditor"></div>
+        <button id="runCode52" onclick="runPythonCode(editor52, 'output52')">
+            Run Code
+        </button>
+        <pre id="output52"></pre>
+    </div>
+
+    <p>We can use the callable feature to achieve some goals. For example, when we want to count how many times an instance is called. We can use</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.4
+        </div>
+        <textarea id="pythonCode53" style="display:none;"></textarea>
+        <div id="codeMirrorEditor53" class="codeMirrorEditor"></div>
+        <button id="runCode53" onclick="runPythonCode(editor53, 'output53')">
+            Run Code
+        </button>
+        <pre id="output53"></pre>
+    </div>
+
+    <p>Do not confuse yourself with <tt>__init__</tt> and <tt>__call__</tt>. A simple way to think about them is than <tt>__init__</tt>is used when the instance is on the left-hand side and <tt>__call__</tt> is used when the instance is on the right-hand side.</p>
+
+    <p><b>Class as decorators</b></p>
+    <p>Every callable object can be a decorator. Why? Remember that a decorator <tt>@decor</tt> is just another of using <tt>func = decor(func)</tt>. Let's use the <tt>Counter</tt> class to keep track of the times a function is called.</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.5
+        </div>
+        <textarea id="pythonCode54" style="display:none;"></textarea>
+        <div id="codeMirrorEditor54" class="codeMirrorEditor"></div>
+        <button id="runCode54" onclick="runPythonCode(editor54, 'output54')">
+            Run Code
+        </button>
+        <pre id="output54"></pre>
+    </div>
+
+
+<h2 id="section2">5.2 Descriptors and the myths of <tt>@property</tt></h2>
+
+    <h3 id="section21">5.2.1 Introduction</h3>
+    <p>You probably have used the <tt>@property</tt> decorator. For example, we can define a class that records the temperature of a day:</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.6
+        </div>
+        <textarea id="pythonCode55" style="display:none;"></textarea>
+        <div id="codeMirrorEditor55" class="codeMirrorEditor"></div>
+        <button id="runCode55" onclick="runPythonCode(editor55, 'output55')">
+            Run Code
+        </button>
+        <pre id="output55"></pre>
+    </div>
+    
+    <p>We do not want people to arbitrarily modufy the value of <tt>temperature</tt>, so we can use the property decorator to add protection to the <tt>temperature</tt> attribute.</p>
+    <div class="scoped-text">
+        <div class="spaced-text" id="ex57">
+            Example 5.7
+        </div>
+        <textarea id="pythonCode56" style="display:none;"></textarea>
+        <div id="codeMirrorEditor56" class="codeMirrorEditor"></div>
+        <button id="runCode56" onclick="runPythonCode(editor56, 'output56')">
+            Run Code
+        </button>
+        <pre id="output56"></pre>
+    </div>
+
+    <p>We know that <tt>@property</tt> turns an attribute into a property. Namely, am attribute with methods bound to it. The myths are that property is an example of a wider concept known as <b>descriptor</b>. Descriptor have their own syntax when you define it. Descriptors make attributes of a class behave in ways you need it. The syntax is referred to as the <i>descriptor protocol</i>:</p>
+    <ul>
+        <li><tt>__get__(self, instance, owner)</tt></li>
+        <li><tt>__set__(self, instance, value)</tt></li>
+        <li><tt>__delet__(self, instance)</tt></li>
+    </ul>
+
+    <p>Descriptors require an instance to be passed as an attribute to a class:</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.8
+        </div>
+        <textarea id="pythonCode57" style="display:none;"></textarea>
+        <div id="codeMirrorEditor57" class="codeMirrorEditor"></div>
+        <button id="runCode57" onclick="runPythonCode(editor57, 'output57')">
+            Run Code
+        </button>
+        <pre id="output57"></pre>
+    </div>
+
+    <p>Let's turn <a href="#ex57">Example 5.7</a> into a descriptor style.</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.9
+        </div>
+        <textarea id="pythonCode58" style="display:none;"></textarea>
+        <div id="codeMirrorEditor58" class="codeMirrorEditor"></div>
+        <button id="runCode58" onclick="runPythonCode(editor58, 'output58')">
+            Run Code
+        </button>
+        <pre id="output58"></pre>
+    </div>
+
+    <p>After this whole lot of effort, you wonder, why do we need descriptors at all? One use case is the so-called "lazy property". Each run of a machine learning algorithm can take a very long time. We do not want to recompute the same not-so-easy-to-get results again and again. So if sometimes we already have a set of results, we prevent the algorithm from running again.</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            <a href="https://realpython.com/python-descriptors/#how-to-use-python-descriptors-properly">Example 5.10</a>
+        </div>
+        <textarea id="pythonCode59" style="display:none;"></textarea>
+        <div id="codeMirrorEditor59" class="codeMirrorEditor"></div>
+        source: https://realpython.com/python-descriptors/#how-to-use-python-descriptors-properly <br>
+        <button id="runCode59" onclick="runPythonCode(editor59, 'output59')">
+            Run Code
+        </button>
+        <pre id="output59"></pre>
+    </div>
+
+    <h3 id="section22">5.2.2 An example</h3>
+    <p>Now let's combine what we learned. Imagine we need to define a class which requires us to define a decorator inside:</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.12
+        </div>
+        <textarea id="pythonCode512" style="display:none;"></textarea>
+        <div id="codeMirrorEditor512" class="codeMirrorEditor"></div>
+        <button id="runCode512" onclick="runPythonCode(editor512, 'output512')">
+            Run Code
+        </button>
+        <pre id="output512"></pre>
+    </div>
+    <p>💡Can you think of other ways?</p>    
+
+
+<h2 id="section3">5.3 Inheritance</h2>
+    
+    <p>Inheritance is an important feature of object-oriented programming (OOP), which Python supports. I assume you have used inheritance from time to time (for example, <tt>class MyNN(torch.nn/Module)</tt>), so we will first review some basics of inheritance and talk about multiple inheritance and why you should not use unless you are sure what you are doing.</p>
+
+    <p>Consider a situation when you want to implement a sequence of machine learning algorithms, including neural networks (DNN, CNN, RNN, etc.), tree-based models (boosting trees and random forest), correlation based models (PCA, PLS etc.), and penalty-based models (Lasso, ridge, etc.).</p>
+
+    <p>You need to implement all these many algorithms and organize them properly. Design the structure of you class/functions before you start coding.</p>
+
+    <p>One way to approach this task is bottom-up: think about the commmon features and try to group the algorithms together. Then all is left is a bunch of detailed implementations.</p>
+
+    <p>An example structure can be as follows:</p>
+    <img src="../images/inheritance.png" alt="UML" width=600px class="center">
+
+    <p>We abstract the common features from all these classes. At least all them need data, therefore</p>
+
+    <textarea id="pythonCode515" style="display:none;"></textarea>
+        <div id="codeMirrorEditor515" class="codeMirrorEditor"></div>
+
+    <p>We then move on to a lower level. Take NeuralNets as an example, all neural nets a forward step and a train method. Therefore,</p>
+
+    <textarea id="pythonCode516" style="display:none;"></textarea>
+    <div id="codeMirrorEditor516" class="codeMirrorEditor"></div>
+
+    <p>The drawback of writing our code in this way is that if we unintentiously make an instance of <tt>NeuralNets</tt>, we run into trouble calling the <tt>forward</tt> and <tt>train_model</tt> methods. We will see ways to fix it.</p>
+
+    <h3 id="section31">5.3.1 The <tt>super()</tt> instance</h3>
+    <p>The official document says that <tt>super()</tt> only returns a "proxy object".</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.12
+        </div>
+        <textarea id="pythonCode517" style="display:none;"></textarea>
+        <div id="codeMirrorEditor517" class="codeMirrorEditor"></div>
+        <button id="runCode517" onclick="runPythonCode(editor517, 'output517')">
+            Run Code
+        </button>
+        <pre id="output517"></pre>
+    </div>
+
+    <h3 id="section32">5.3.2 The <b>A</b>bstract <b>B</b>ase <b>C</b>lasses</h3>
+    <p>The abstract base class in Python is a way to provide a base class that only specify the API but prevents us from create an instance. This way, we can better structure our code.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode518" style="display:none;"></textarea>
+        <div id="codeMirrorEditor518" class="codeMirrorEditor"></div>
+        <button id="runCode518" onclick="runPythonCode(editor518, 'output518')">
+            Run Code
+        </button>
+        <pre id="output518"></pre>
+    </div>
+
+    <p>Later on, we can define DNN, CNN, and RNN classes to inherit the base NeuralNet class. Detailed implementations will happens there.</p>
+    <textarea id="pythonCode519" style="display:none;"></textarea>
+    <div id="codeMirrorEditor519" class="codeMirrorEditor"></div>
+
+    <h3 id="section33">5.3.3 Multiple inheritance</h3>
+    <p>Multiple inheritance allows us to derive classes from multiple parent classes. The idea is simple, if we want functions implemented in different parent classes, we can combine them by multiple inheritance. The only thing to keep in mind is the method resolution order (MRO). Python adopts linearization-combine methods to determine the MRO (🎨 <b>Time to draw!</b>). When using multiple inheritance, make sure the chain is through.</p>
+
+    <div class="scoped-text">
+        <textarea id="pythonCode520" style="display:none;"></textarea>
+        <div id="codeMirrorEditor520" class="codeMirrorEditor"></div>
+        <button id="runCode520" onclick="runPythonCode(editor520, 'output520')">
+            Run Code
+        </button>
+        <pre id="output520"></pre>
+    </div>
+
+    <p>We quickly skimmed some of the aspects of the inheritance feature of Python, skipping many details. <a href="https://realpython.com/inheritance-composition-python/">This tutorial</a> provides you with more background information.</p>
+
+
+<h2 id="section4">Misc</h2>
+
+    <p>1. function and method</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.13
+        </div>
+        <textarea id="pythonCode513" style="display:none;"></textarea>
+        <div id="codeMirrorEditor513" class="codeMirrorEditor"></div>
+        <button id="runCode513" onclick="runPythonCode(editor513, 'output513')">
+            Run Code
+        </button>
+        <pre id="output513"></pre>
+    </div>
+
+    <p>2. a useful decorator</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 5.14
+        </div>
+        <textarea id="pythonCode514" style="display:none;"></textarea>
+        <div id="codeMirrorEditor514" class="codeMirrorEditor"></div>
+        <button id="runCode514" onclick="runPythonCode(editor514, 'output514')">
+            Run Code
+        </button>
+        <pre id="output514"></pre>
+    </div>
+
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+        
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter5-scripts.js"></script>
+    </div>
+</body>
+</html>

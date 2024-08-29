@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Functions</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <!-- C program box -->
+    <link rel="stylesheet" href="../css/c-style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/prism.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.29.0/components/prism-c.min.js"></script>
+    <!-- All other -->
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+<div id="toc">
+    <a href="#section1">4.1 Simple functions</a><br>
+    <a href="#section2">4.2 The call stack</a><br>
+    <a href="#section21" style="margin-left: 15px;">4.2.1 Call procedure</a><br>
+    <a href="#section22" style="margin-left: 15px;">4.2.2 <tt>yield</tt></a><br>
+    <a href="#section23" style="margin-left: 15px;">4.2.3 coroutines</a><br>
+    <a href="#section3">4.3 Higher-order</a><br>
+    <a href="#section4">4.4 Decorators</a><br>
+    <a href="#section5">4.5 Recursion</a>
+</div>
+<div id="container">
+<h1>Functions</h1>
+    <div id="nav">
+        <a href="chapter1.html" id="ch1lnk">PEP8</a>
+        <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+        <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+        <a href="chapter4.html" id="ch4lnk">Functions</a>
+        <a href="chapter5.html" id="ch5lnk">OOP</a>
+        <a href="chapter6.html" id="ch6lnk">data</a>
+        <a href="chapter7.html" id="ch7lnk">Cython</a>
+    </div>
+
+
+<h2 id="section1">4.1 Simple functions</h2>
+    <p>A function is defined and called using the terms:</p>
+    <textarea id="pythonCode40" style="display:none;"></textarea>
+    <div id="codeMirrorEditor40" class="codeMirrorEditor"></div>
+
+    <h3 class="pre-list">Function CREATION procedure:<sup><a href="#fn41" id="fnref41">1</a></sup></h3>
+    <ol>
+        <li>Create a functio with signature <tt>function_name([formal_parameters])</tt></li>
+        <li>Set the body of function (in heap<sup><a href="#fn42" id="fnref42">2</a></sup></h3>)</li>
+        <li>Bind <tt>function_name</tt> to the function in current frame</li>
+    </ol>
+    <p>1. Names of <tt>builtins</tt> functions.</p>
+        <div class="scoped-text">
+            <div class="spaced-text">
+                Example 4.1
+            </div>
+        <!-- n+=1 id -->
+            <textarea id="pythonCode41" style="display:none;"></textarea>
+            <div id="codeMirrorEditor41" class="codeMirrorEditor"></div>
+            <button id="runCode41" onclick="runPythonCode(editor41, 'output41')">
+                Run Code
+            </button>
+            <pre id="output41"></pre>
+        </div>
+        <p>💡How to fix it?</p>
+        <textarea id="pythonCode42" style="display:none;"></textarea>
+        <div id="codeMirrorEditor42" class="codeMirrorEditor"></div>
+
+    <p>2. Modify values out of the function scope</p>
+    <p>💡Why do we need Python functions?</p>
+    <p>Python functions either (1) returns some value to the caller, or (2) have some side effects.</p>
+        <pre><code class="language-c" >/* side effect */
+void swap(int *x, int *y)
+{
+    int *tmp;
+    tmp = x;
+    x = y;
+    y = tmp;
+    return;
+}
+/* return value */
+int* createArray()
+{
+    int res[10];
+    return &(res[0]);
+}</code></pre>
+        <div class="scoped-text">
+            <div class="spaced-text">
+                Example 4.2 (<a href="https://docs.python-guide.org/writing/gotchas/">a common gotcha</a>)
+            </div>
+            <textarea id="pythonCode43" style="display:none;"></textarea>
+            <div id="codeMirrorEditor43" class="codeMirrorEditor"></div>
+            <button id="runCode43" onclick="runPythonCode(editor43, 'output43')">
+                Run Code
+            </button>
+            <pre id="output43"></pre>
+        </div>
+
+    <p>3. Chained call of function</p>
+        <div class="scoped-text">
+            <div class="spaced-text">
+                Example 4.3
+            </div>
+        <!-- n+=1 id -->
+            <textarea id="pythonCode44" style="display:none;"></textarea>
+            <div id="codeMirrorEditor44" class="codeMirrorEditor"></div>
+            <button id="runCode44" onclick="runPythonCode(editor44, 'output44')">
+                Run Code
+            </button>
+            <pre id="output44"></pre>
+        </div>
+
+
+<h2 id="section2">4.2 How is a function called (stack frames and namespace)</h2>
+    <h3 class="pre-list" id="section21">1. Function CALL procedure:<sup><a href="#fn41" id="fnref41">3</a></sup></h3>
+    <ol>
+        <li>Add a local frame, forming a new environment</li>
+        <li>Bind the function's formal parameters to its arguments in that frame</li>
+        <li>Execute the body of the function in that new environment</li>
+    </ol>
+    <p>🎨 <b>Time to draw!</b></p>
+    <p>To visualize: use <a href="https://pythontutor.com/"><tt>pythontutor</tt>!</a></p>
+
+    <h3 id="section22">2. The <tt>yield</tt> statement</h3>
+    <p>Generators are also functions. The object is generator-iterator. The generator function differs from normal functions in that the frame is SUSPENDED after executing <tt>yield</tt>. It is resumed with certain behaviors.</p>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.4
+        </div>
+    <!-- n+=1 id -->
+        <textarea id="pythonCode45" style="display:none;"></textarea>
+        <div id="codeMirrorEditor45" class="codeMirrorEditor"></div>
+        <button id="runCode45" onclick="runPythonCode(editor45, 'output45')">
+            Run Code
+        </button>
+        <pre id="output45"></pre>
+    </div>
+
+    <h3 id="section23">3. <tt>yield</tt> for coroutines</h3>
+    <p>The <tt>yield</tt> statement can do more than sending out results to generators.</p>
+    <img src="../images/yield1.jpg" width="200px">
+    <img src="../images/yield.jpg" width="250px">
+    
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.5
+        </div>
+        <textarea id="pythonCode410" style="display:none;"></textarea>
+        <div id="codeMirrorEditor410" class="codeMirrorEditor"></div>
+        code source: Fluent Python
+        <button id="runCode410" onclick="runPythonCode(editor410, 'output410')">
+            Run Code
+        </button>
+        <pre id="output410"></pre>
+    </div>
+    <textarea id="pythonCode411" style="display:none;"></textarea>
+    <div id="codeMirrorEditor411" class="codeMirrorEditor"></div>
+    <button id="runCode411" onclick="runPythonCode(editor410, 'output411')">
+        Run Code
+    </button>
+    <pre id="output410"></pre>
+
+
+<h2 id="section3">4.3 Higher order functions</h2>
+    <p>In Python, everything is an object. So when we call <tt>f(x=1)</tt>, we pass an <tt>int</tt> object to <tt>x</tt>. Similarly, functions in Python are also objects. We can also pass functions as parameters to a function and receive another function as the output. Therefore, we abstract the computational processes. For example, consider implementing 3 machine learning algorithms to analyze data, we can store the detailed algorithm code in one file but in our <tt>main.py</tt>, we can use a common function to call the algorithms.</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.6 (function as arguments, first-class)
+        </div>
+    <!-- n+=1 id -->
+        <textarea id="pythonCode46" style="display:none;"></textarea>
+        <div id="codeMirrorEditor46" class="codeMirrorEditor"></div>
+        <button id="runCode46" onclick="runPythonCode(editor46, 'output46')">
+            Run Code
+        </button>
+        <pre id="output46"></pre>
+    </div>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.7 (function as return value)
+        </div>
+    <!-- n+=1 id -->
+        <textarea id="pythonCode47" style="display:none;"></textarea>
+        <div id="codeMirrorEditor47" class="codeMirrorEditor"></div>
+        <button id="runCode47" onclick="runPythonCode(editor47, 'output47')">
+            Run Code
+        </button>
+        <pre id="output47"></pre>
+    </div>
+
+
+<h2 id="section4">4.4 Decorators</h2>
+    <p>We use decorators to simplify higher-order functions. One important usage of decorators is to "add" extra behaviors of other functions. Let's go back to the <tt>fibonacci</tt> function we defined. The reason it takes long time to get returns for <tt>fibonacci(35)</tt> is the recursive computation of <tt>fibonacci(1)</tt> through <tt>fibonacci(34)</tt>. Suppose we can save the already-computed results instead of call back itself. The computation time can be greatly shortened. The question is, how can we implement such a method?</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.8
+        </div>
+        <textarea id="pythonCode413" style="display:none;"></textarea>
+        <div id="codeMirrorEditor413" class="codeMirrorEditor"></div>
+        <button id="runCode413" onclick="runPythonCode(editor413, 'output413')">
+            Run Code
+        </button>
+        <pre id="output413"></pre>
+    </div>
+
+    <p>Remember: decorator is applied to function at definition, not at runtime. So retroactively modify the definition of the decorator function will not change the already defined-decorated function.</p>
+
+    <p>When we want to access the attributes of the functions, a useful decorator is <tt>@functools.wraps</tt>.</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.9
+        </div>
+        <textarea id="pythonCode414" style="display:none;"></textarea>
+        <div id="codeMirrorEditor414" class="codeMirrorEditor"></div>
+        <button id="runCode414" onclick="runPythonCode(editor414, 'output414')">
+            Run Code
+        </button>
+        <pre id="output414"></pre>
+    </div>
+
+    <p>Remember: we need to "prime" a coroutine so that we can <tt>send</tt> values to it? People thinking of it as tedious wrap the generator function in a decorator.</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.10
+        </div>
+        <textarea id="pythonCode49" style="display:none;"></textarea>
+        <div id="codeMirrorEditor49" class="codeMirrorEditor"></div>
+        <button id="runCode49" onclick="runPythonCode(editor49, 'output49')">
+            Run Code
+        </button>
+        <pre id="output49"></pre>
+    </div>
+    <p>Learn more about decorators <a href="https://realpython.com/primer-on-python-decorators/#simple-decorators-in-python">here</a>.</p>
+
+    <p>We will talk about a more complicated example <a href="chapter5.html">here</a>.</p>
+
+    <p>Thinking about adding parameters to the decorator? Check <a href="https://realpython.com/primer-on-python-decorators/#creating-decorators-with-optional-arguments">this</a> out.</p>
+
+
+<h2 id="section5">4.5 Recursion</h2>
+    <p>When a function refers to itself inside the body function ...</p>
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.11 (Recursion 1)
+        </div>
+    <!-- n+=1 id -->
+        <textarea id="pythonCode48" style="display:none;"></textarea>
+        <div id="codeMirrorEditor48" class="codeMirrorEditor"></div>
+        <button id="runCode48" onclick="runPythonCode(editor48, 'output48')">
+            Run Code
+        </button>
+        <pre id="output48"></pre>
+    </div>
+
+    <div class="scoped-text">
+        <div class="spaced-text">
+            Example 4.12 (Recursion 1)
+        </div>
+    <!-- n+=1 id -->
+        <textarea id="pythonCode412" style="display:none;"></textarea>
+        <div id="codeMirrorEditor412" class="codeMirrorEditor"></div>
+        <button id="runCode412" onclick="runPythonCode(editor412, 'output412')">
+            Run Code
+        </button>
+        <pre id="output412"></pre>
+    </div>
+
+    <p>Recursion is very useful. For example, we can implement the auto differentiation method <a href="chapter5.html">later</a>.</p>
+
+
+
+<hr>
+<sup id="fn41">1., 3. [Reference: John DeNero, CS61A, UCB]
+    <a href="#fnref41" title="">↩</a>
+</sup><br>
+<sup id="fn42">2. Heap stores objects; stack stores references.
+    <a href="#fnref42" title="">↩</a>
+</sup>
+
+
+        <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+        <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+            ↑ Top
+        </button>
+
+        
+        <script src="../js/shared-scripts.js"></script>
+        <script src="../js/chapter4-scripts.js"></script>
+    </div>
+</body>
+</html>

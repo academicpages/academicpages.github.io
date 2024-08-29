@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numpy and pandas</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/dracula.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/theme/monokai.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/codemirror.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.0/mode/python/python.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/pyodide/v0.21.3/full/pyodide.js"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+    <div id="container">
+<h1>Data manipulation with pandas</h1>
+<div id="nav">
+    <a href="chapter1.html" id="ch1lnk">PEP8</a>
+    <a href="chapter2.html" id="ch2lnk">venv/conda</a>
+    <a href="chapter3.html" id="ch3lnk">expr/sttms</a>
+    <a href="chapter4.html" id="ch4lnk">Functions</a>
+    <a href="chapter5.html" id="ch5lnk">OOP</a>
+    <a href="chapter6.html" id="ch6lnk">data</a>
+    <a href="chapter7.html" id="ch7lnk">Cython</a>
+  </div>
+
+<h2>6.1 pandas basics</h2>
+<h3>6.1.1 <tt>stack()</tt></h3>
+
+    <p>Pandas dataframes use "index" to identify rows and "column" to identify columns. Sometimes we will encounter multiindex dataframes. For example,</p>
+
+    <div class="scoped-text">
+        <textarea id="pythonCode61" style="display:none;"></textarea>
+        <div id="codeMirrorEditor61" class="codeMirrorEditor"></div>
+        <button id="runCode61" onclick="runPythonCode(editor61, 'output61')">
+            Run Code
+        </button>
+        <pre id="output61"></pre>
+    </div>
+    <p>As usual, we can slice rows of the dataframe with numbers, without bothering the index: <tt>df1[:4]</tt>. A more preferred way is to use <tt>.loc</tt> or <tt>.iloc</tt>: <tt>df1.loc[("bar", "one"), "height"]</tt>, <tt>df1.iloc[1, 1]</tt>.</p>
+
+    <p>These slicing and accessing functionalities will not affect the <b>index</b> and the <b>columns</b> directly. When cleaning data, a more frequently encountered context is to change the shape of the data. Leveraging pandas' index and column data structure, This can be easily done.</p>
+
+    <div class="scoped-text">
+        <textarea id="pythonCode62" style="display:none;"></textarea>
+        <div id="codeMirrorEditor62" class="codeMirrorEditor"></div>
+        <button id="runCode62" onclick="runPythonCode(editor62, 'output62')">
+            Run Code
+        </button>
+        <pre id="output62"></pre>
+    </div>
+    <p>Note: here using the <tt>unstack()</tt> function, we can interchange the index and the column. The positions of the data are different but the contents are the same.</p>
+
+    <h3>6.1.2 The <tt>dplyr</tt> pipeline</h3>
+    <p>Let's take a look at the famous iris data for classification. We want to first compute two ratios. $$x = \frac{sepal\_width}{sepal\_length}$$ and $$y=\frac{petal\_width}{petal\_length}.$$</p>
+
+    <p>Then we will make a plot of the two ratios.</p>
+
+    <p>Let's read in the data and using a pipeline operator to glue our commands together.</p>
+    
+    <div class="scoped-text">
+        <textarea id="pythonCode63" style="display:none;"></textarea>
+        <div id="codeMirrorEditor63" class="codeMirrorEditor"></div>
+        <button id="runCode63" onclick="runPythonCode(editor63, 'output63')">
+            Run Code
+        </button>
+        <pre id="output63"></pre>
+    </div>
+
+    <h3>6.1.3 Long-wide conversion</h3>
+    <p>We look at another conversion of data. This time, we allow the contents of the table to be swapable with the index/columns. The difference is how we organize data. If we keep the contents unchangble, the index/column provides us with the aspects how we view the contents. When we allow contents as index/columns, we are summarising the contents.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode64" style="display:none;"></textarea>
+        <div id="codeMirrorEditor64" class="codeMirrorEditor"></div>
+        <button id="runCode64" onclick="runPythonCode(editor64, 'output64')">
+            Run Code
+        </button>
+        <pre id="output64"></pre>
+    </div>
+
+    <p>Since we are summarising the data contents, we can also pass to <tt>aggfunc</tt> an arguments.</p>
+
+    <p>We can also convert wide tables to long tables. This way, we are analyzing information. In machine learning studies (also in general data analysis), we use rows to represent observations and columns to represent the attributes of the units. When we pull columns down to rows (wide to long), we make attributes observations. This can happen when the attributes are repeated observations or comparisons of the same kind.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode65" style="display:none;"></textarea>
+        <div id="codeMirrorEditor65" class="codeMirrorEditor"></div>
+        <button id="runCode65" onclick="runPythonCode(editor65, 'output65')">
+            Run Code
+        </button>
+        <pre id="output65"></pre>
+    </div>
+
+    <h3>6.1.4 alignment</h3>
+    <p>pandas aligns indeces and cloumns before performing operations to ensure consistency. So when you have unmatching index/cloumn, the operations will give unwanted values.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode66" style="display:none;"></textarea>
+        <div id="codeMirrorEditor66" class="codeMirrorEditor"></div>
+        <button id="runCode66" onclick="runPythonCode(editor66, 'output66')">
+            Run Code
+        </button>
+        <pre id="output66"></pre>
+    </div>
+
+    <p>This is rensonable. We are also sure that the data we want to manipulate appear in the right place.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode67" style="display:none;"></textarea>
+        <div id="codeMirrorEditor67" class="codeMirrorEditor"></div>
+        <button id="runCode67" onclick="runPythonCode(editor67, 'output67')">
+            Run Code
+        </button>
+        <pre id="output67"></pre>
+    </div>
+
+    <p>What is weird, though, is the alignment-assignment precedence.</p>
+    <div class="scoped-text">
+        <textarea id="pythonCode68" style="display:none;"></textarea>
+        <div id="codeMirrorEditor68" class="codeMirrorEditor"></div>
+        <button id="runCode68" onclick="runPythonCode(editor68, 'output68')">
+            Run Code
+        </button>
+        <pre id="output68"></pre>
+    </div>
+
+    <h3>6.1.5 WRDS connection</h3>
+    <p>See <a href="https://wrds-www.wharton.upenn.edu/documents/1443/wrds_connection.html">this post</a> for an introduction.</p>
+
+
+    <p text-align="right"><a href="python-aug.html">Back⏎</a></p>
+    <button onclick="scrollToTop()" id="backToTopBtn" title="Go to top">
+        ↑ Top
+    </button>
+
+    
+    <script src="../js/shared-scripts.js"></script>
+    <script src="../js/chapter6-scripts.js"></script>
+    </div>
+</body>
+</html>
