@@ -24,12 +24,12 @@ redirect_from:
 * B.A. in [Education, Communities, and Organizations](https://education.uw.edu/programs/undergraduate/eco) @ University of Washington, Seattle, 2020
 * B.S. in [Computer Science](https://www.cs.washington.edu/academics/ugrad) @ University of Washington, Seattle, 2020
 
-# Publications
+# Peer-Reviewed Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-# Posters & Conference Presentations
+# Posters & Conference Presentations (Peer-Reviewed)
   <ul>{% for post in site.posters reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
