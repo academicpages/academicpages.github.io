@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My full CV is [here](cv/Ngoc_Hung_Nguyen_cv.pdf)
+My full CV is [here](Ngoc_Hung_Nguyen_cv.pdf)
 {% include base_path %}
 
 Education
