@@ -6,8 +6,8 @@ permalink: "paper1"
 excerpt: ''
 date: 2024-06-01
 venue: 'Scientific Reports of Nature'
-slidesurl: 'https://www.nature.com/articles/s41598-024-63908-w'
-paperurl: ''
+slidesurl: ''
+paperurl: 'https://www.nature.com/articles/s41598-024-63908-w'
 citation: ''
 ---
 

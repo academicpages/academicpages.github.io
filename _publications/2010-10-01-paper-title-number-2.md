@@ -6,8 +6,8 @@ permalink: 'JIoT_072024'
 excerpt: ''
 date: 2024-07-10
 venue: 'IEEE Internet of Things Journal'
-slidesurl: 'https://ieeexplore.ieee.org/document/10592058'
-paperurl: ''
+slidesurl: ''
+paperurl: 'https://ieeexplore.ieee.org/document/10592058'
 citation: ''
 ---
 
