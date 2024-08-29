@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "My Curriculum Vitae"
-permalink: /cv/Ngoc_Hung_Nguyen_cv.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
