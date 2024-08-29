@@ -5,7 +5,7 @@ date: 2024-07-13
 venue: "SIGCSE"
 paperurl: 
 pdf: 
-citation: '(under review)'
+citation: 'SIGCSE 2025'
 excerpt: "This paper explores the integration of computational thinking (CT)
 in non-STEM fields, emphasizing its relevance beyond traditional
 STEM education. We present findings from a Delphi study involv-
