@@ -17,6 +17,11 @@ author_profile: true
 
 ## International Conferences (Peer-Reviewed)
 
+-  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
+**Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**<br>
+IEEE Spoken Language Technology Workshop (**IEEE SLT**), 2024. (Accepted)<br>
+
+
 -  **<u>Kazuki Yamauchi</u>**, Yusuke Ijima, and Yuki Saito<br>
 **StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-supervised Learning Models**<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE ICASSP**), 2024. \[Poster presentation\]<br>
