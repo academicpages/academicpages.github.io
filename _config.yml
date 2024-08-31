@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "JIA DA/Personal Pages"
+title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "JIA DA"
 description              : &description "Beginner CTF player"
