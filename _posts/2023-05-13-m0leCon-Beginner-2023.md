@@ -11,11 +11,12 @@ Online-CTF
 ![image](https://github.com/user-attachments/assets/42859dc5-7313-4d6a-94b6-cdd06f36bde2)<br>
 
 ## Table of Contents
-- [1. Sanity_Check-50](#1.Sanity_Check-50)<br>
-[2. Unguessable-50](#2-unguessable-50)<br>
-[3. SecureAscess-50](#3-secureascess-50)<br>
-[4. The wall](#4-the-wall)<br>
-[5. Polito Pay 2Win](#5-polito-pay-2win)<br>
+
+- [1. Sanity_Check-50](#1sanity_check-50)<br>
+[2. Unguessable-50](#2unguessable-50)<br>
+[3. SecureAscess-50](#3secureascess-50)<br>
+[4. The wall](#4the-wall)<br>
+[5. Polito Pay 2Win](#5polito-pay-2win)<br>
 [6. Politoch(e)tbot](#6-politochtbot)<br>
 [7. Strange extension-50](#7-strange-extension-50)<br>
 [8. A sky full of 5t4r5](#8-a-sky-full-of-5t4r5)
