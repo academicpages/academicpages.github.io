@@ -9,14 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-=======
+## Education
 * BSc in Mathematics, Imperial College London, 2019,
 * MSc in Mathematical Sciences, Oxford University, 2020.
 * ME in Computational Science and Engineering, Harvard University, 2022.
 
-Work experience
-=======
+## Work experience
 * Since August 2023: Quantitative Researcher (Full-time)
   * QLS advisors
   * Coding in Python
@@ -36,8 +34,7 @@ Work experience
   * École Polytechnique
   * Supervisor: Professor Stéphane Gaubert and Doctor Marianne Akian
   
-Skills
-=======
+## Skills
 * Programming 
   * Python
   * C++/C
@@ -56,13 +53,11 @@ Skills
   * English
   * German
   
-Talks
-=======
+## Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Service and leadership
-=======
+## Service and leadership
 * De la Haute-Savoie aux grandes écoles
 * Imperial College Oenology Society
