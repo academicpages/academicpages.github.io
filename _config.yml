@@ -30,7 +30,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          :  "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "www.linkedin.com/in/raphaelpierrepellegrin"
+  linkedin         : "raphaelpierrepellegrin"
   orcid            : 
   pinterest        :
   soundcloud       :
