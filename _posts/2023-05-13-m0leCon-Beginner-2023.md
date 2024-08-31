@@ -12,12 +12,12 @@ Online-CTF
 
 ## Table of Contents
 
-- [1. Sanity_Check-50](#1sanity_check-50)<br>
+[1. Sanity_Check-50](#1sanity_check-50)<br>
 [2. Unguessable-50](#2unguessable-50)<br>
 [3. SecureAscess-50](#3secureascess-50)<br>
 [4. The wall](#4the-wall)<br>
 [5. Polito Pay 2Win](#5polito-pay-2win)<br>
-[6. Politoch(e)tbot](#6-politochtbot)<br>
+[6. Politoch(e)tbot](#6-politochetbot)<br>
 [7. Strange extension-50](#7-strange-extension-50)<br>
 [8. A sky full of 5t4r5](#8-a-sky-full-of-5t4r5)
 
