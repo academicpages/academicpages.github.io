@@ -8,8 +8,8 @@ main:
   - title: "Write-UP"
     url: /Write-UP/
 
-  #- title: "Talks"
-   # url: /talks/    
+  - title: "Talks"
+   url: /talks/    
 
  # - title: "Teaching"
     # url: /teaching/    
