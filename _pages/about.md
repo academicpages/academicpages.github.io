@@ -38,9 +38,9 @@ General Aeronautics - Software Engineer L3
 ------ 
 
 • Architected and deployed an in-house live-streaming server, proficient in handling high volumes of drone video streams,
-maintaining system stability for 400+ concurrent streams.<br>
+maintaining system stability for 400+ concurrent streams.<br><br>
 • Led a team in developing a multilingual, WhatsApp-integrated chatbot to streamline the booking process through direct
-customer engagement, utilizing Redis-based message caching to reduce latency.<br>
+customer engagement, utilizing Redis-based message caching to reduce latency.<br><br>
 • Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
 location and workload distribution to maximize resource utilization<br>
 
@@ -48,29 +48,27 @@ General Aeronautics - Software Engineer L2
 ------ 
 
 • Deployed an on-premises Django server that uses physical PKI Tokens to expose APIs for secure cryptographic operations.
-Further, used OpenVPN to privatize API access to specific cloud servers.
+Further, used OpenVPN to privatize API access to specific cloud servers.<br>
 • Designed and implemented a proprietary algorithm that streamlined after-sales drone support processes, reducing repair
-times and decreasing drone downtime by 20% to meet stringent SLA commitments.
-• Transitioned 5 servers from a monolithic to a micro-services-based architecture, improving their scalability
+times and decreasing drone downtime by 20% to meet stringent SLA commitments.<br>
+• Transitioned 5 servers from a monolithic to a micro-services-based architecture, improving their scalability<br>
 
 
-General Aeronautics - Software Engineer L2
+General Aeronautics - Software Engineer L1
 ------ 
 
 • Developed a Django server to facilitate communication with drones, enabling functionalities such as registration, key
-generation, and over-the-air master firmware updates.
-
-• Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.
-
+generation, and over-the-air master firmware updates.<br>
+• Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.<br>
 • Contributed to organizational efforts to meet DGCA (Directorate General of Civil Aviation) drone security compliance
-requirements on the software level.
+requirements on the software level.<br>
 
 General Aeronautics - Software Developer Intern
 ------ 
 
 • Integrated call masking functionality into the server to protect customer identities and designed an efficient backend to
-support multiple concurrent calls with a single virtual number.
-• Received the “Best Intern Award” and a pre-placement offer for outstanding performance
+support multiple concurrent calls with a single virtual number.<br>
+• Received the “Best Intern Award” and a pre-placement offer for outstanding performance.<br>
 
 Projects
 ======
