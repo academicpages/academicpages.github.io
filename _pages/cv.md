@@ -14,7 +14,8 @@ Education
 
 * B.Tech. in Computer Science and Engineering, REVA University, 2022
 * Relevant coursework: Data Structures and Algorithms; Software Engineering; Object-Oriented Concepts; Computer Networks;
-Operating Systems; Database Management Systems; Cryptography; Machine Learning; Cloud Computing; Internet of Things
+Operating Systems; Database Management Systems; Cryptography; Machine Learning; Cloud Computing; Internet of Things.
+
 Work experience
 ======
 * Apr 2024 - Present: General Aeronautics - Software Engineer L3
