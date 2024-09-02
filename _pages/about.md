@@ -48,9 +48,9 @@ General Aeronautics - Software Engineer L2
 ------ 
 
 • Deployed an on-premises Django server that uses physical PKI Tokens to expose APIs for secure cryptographic operations.
-Further, used OpenVPN to privatize API access to specific cloud servers.<br>
+Further, used OpenVPN to privatize API access to specific cloud servers.<br><br>
 • Designed and implemented a proprietary algorithm that streamlined after-sales drone support processes, reducing repair
-times and decreasing drone downtime by 20% to meet stringent SLA commitments.<br>
+times and decreasing drone downtime by 20% to meet stringent SLA commitments.<br><br>
 • Transitioned 5 servers from a monolithic to a micro-services-based architecture, improving their scalability<br>
 
 
@@ -58,8 +58,8 @@ General Aeronautics - Software Engineer L1
 ------ 
 
 • Developed a Django server to facilitate communication with drones, enabling functionalities such as registration, key
-generation, and over-the-air master firmware updates.<br>
-• Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.<br>
+generation, and over-the-air master firmware updates.<br><br>
+• Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.<br><br>
 • Contributed to organizational efforts to meet DGCA (Directorate General of Civil Aviation) drone security compliance
 requirements on the software level.<br>
 
@@ -67,7 +67,7 @@ General Aeronautics - Software Developer Intern
 ------ 
 
 • Integrated call masking functionality into the server to protect customer identities and designed an efficient backend to
-support multiple concurrent calls with a single virtual number.<br>
+support multiple concurrent calls with a single virtual number.<br><br>
 • Received the “Best Intern Award” and a pre-placement offer for outstanding performance.<br>
 
 Projects

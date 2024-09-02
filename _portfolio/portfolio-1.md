@@ -1,7 +1,17 @@
 ---
 title: "projects item number 1"
 excerpt: "Short description of projects item number 1<br/><img src='/images/500x300.png'>"
-collection: projects
+collection: Projects
 ---
 
-This is an item in your projects. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+MaskCop
+------
+Developed and deployed an accurate (92%) automated mask detection system using Python, OpenCV, and Ten-
+sorFlow. This system integrated seamlessly within the department, enhancing campus safety protocols by enabling automated
+warnings for mask policy violations.
+
+WebSight Dynamics: Analytics of Top Websites. 
+------
+A comprehensive analytics project involved in developing seven distinct
+web-scraping bots to mine data from 120 top-tier websites. The findings were published in an IEEE conference, showcasing the
+project’s blend of technical prowess and ethical considerations

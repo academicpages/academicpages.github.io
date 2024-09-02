@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
+* B.Tech. in Computer Science and Engineering, REVA University, 2022
+* Relevant coursework: Data Structures and Algorithms; Software Engineering; Object-Oriented Concepts; Computer Networks;
+Operating Systems; Database Management Systems; Cryptography; Machine Learning; Cloud Computing; Internet of Things
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr 2024 - Present: General Aeronautics - Software Engineer L3
+  * Architected and deployed an in-house live-streaming server, proficient in handling high volumes of drone video streams,
+  maintaining system stability for 400+ concurrent streams.
+  * Led a team in developing a multilingual, WhatsApp-integrated chatbot to streamline the booking process through direct
+  customer engagement, utilizing Redis-based message caching to reduce latency.
+  * Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
+  location and workload distribution to maximize resource utilization.
 
 * Fall 2015: Research Assistant
   * Github University
