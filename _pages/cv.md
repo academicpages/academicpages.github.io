@@ -25,25 +25,37 @@ Work experience
   * Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
   location and workload distribution to maximize resource utilization.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2023 – Apr 2024: General Aeronautics - Software Engineer L2
+  * Deployed an on-premises Django server that uses physical PKI Tokens to expose APIs for secure cryptographic operations.
+  Further, used OpenVPN to privatize API access to specific cloud servers.
+  * Designed and implemented a proprietary algorithm that streamlined after-sales drone support processes, reducing repair
+  times and decreasing drone downtime by 20% to meet stringent SLA commitments.
+  * Transitioned 5 servers from a monolithic to a micro-services-based architecture, improving their scalability.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2022–Apr 2023: General Aeronautics - Software Engineer L1
+  * Developed a Django server to facilitate communication with drones, enabling functionalities such as registration, key
+  generation, and over-the-air master firmware updates.
+  * Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.
+  * Contributed to organizational efforts to meet DGCA (Directorate General of Civil Aviation) drone security compliance
+  requirements on the software level
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Programming Languages
+  * Python
+  * JavaScript
+* Web technologies 
+  * HTML
+  * CSS
+  * Django
+  * Node.js
+  * Express.js
+* Databases & Cloud\
+  * MySQL
+  * Proficient with AWS
+  * Docker
+  * Kubernetes
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -64,4 +76,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
