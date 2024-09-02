@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06
@@ -36,4 +36,4 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
+Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html). -->
