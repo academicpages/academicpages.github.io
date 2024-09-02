@@ -28,7 +28,7 @@ Web Scraping Approaches and their Performance on Modern Websites
 Bots account for a significant portion of internet traffic, with many engaging in web scraping to extract data from websites. This paper explores seven different web scraping methods, ranging from basic HTTP requests to advanced techniques using Selenium and undetectable Chrome drivers. The study tests these methods on 120 websites across various categories, analyzing their effectiveness in data extraction and the ability of websites to detect and block these bots. Results are visualized through graphs, highlighting the strengths and weaknesses of each approach.
 
 Recommended citation: A. S. Bale, N. Ghorpade, Rohith. S, S. Kamalesh, Rohith. R and Rohan. B. S, "Web Scraping Approaches and their Performance on Modern Websites," 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC), Coimbatore, India
-Download Paper(https://ieeexplore.ieee.org/document/9885689)
+[Download Paper](https://ieeexplore.ieee.org/document/9885689)
 
 
 Experience
