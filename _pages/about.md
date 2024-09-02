@@ -7,30 +7,52 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a projects, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a software engineer with a deep interest in how technology can make a difference in agriculture. My journey in this field began at General Aeronautics, and agriculture drone manufacture, where I worked on projects that directly benefited thousands of farmers by improving their ability to make data-driven decisions. From developing real-time drone data systems to architecting scalable solutions, I've seen how tech can transform traditional farming into something more efficient and sustainable.
 
-A data-driven personal website
+My work is driven by a desire to solve practical problems. My research interest are in applying machine learning, computer vision, and data analytics to agriculture, focusing on creating tools that help farmers optimize their resources and improve crop health. My background in Computer Science has equipped me with the technical skills needed to tackle these challenges, but it's my hands-on experience that has truly shaped my approach.
+
+I'm particularly interested in the potential of precision agriculture and how it can address some of the biggest challenges in global food security. By combining my technical expertise with a strong focus on impact, I aim to develop solutions that are practical and accessible to those who need them most.
+
+
+
+
+
+
+
+ Conference Papers
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Web Scraping Approaches and their Performance on Modern Websites
+------
 
-Getting started
+Bots account for a significant portion of internet traffic, with many engaging in web scraping to extract data from websites. This paper explores seven different web scraping methods, ranging from basic HTTP requests to advanced techniques using Selenium and undetectable Chrome drivers. The study tests these methods on 120 websites across various categories, analyzing their effectiveness in data extraction and the ability of websites to detect and block these bots. Results are visualized through graphs, highlighting the strengths and weaknesses of each approach.
+
+Recommended citation: A. S. Bale, N. Ghorpade, Rohith. S, S. Kamalesh, Rohith. R and Rohan. B. S, "Web Scraping Approaches and their Performance on Modern Websites," 2022 3rd International Conference on Electronics and Sustainable Communication Systems (ICESC), Coimbatore, India
+Download Paper(https://ieeexplore.ieee.org/document/9885689)
+
+
+Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+General Aeronautics 
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a projects or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
+
+Projects
+======
+
+MaskCop
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Developed and deployed an accurate (92%) automated mask detection system using Python, OpenCV, and Ten-
+sorFlow. This system integrated seamlessly within the department, enhancing campus safety protocols by enabling automated
+warnings for mask policy violations.
+
+WebSight Dynamics: Analytics of Top Websites. 
+------
+A comprehensive analytics project involved in developing seven distinct
+web-scraping bots to mine data from 120 top-tier websites. The findings were published in an IEEE conference, showcasing the
+project’s blend of technical prowess and ethical considerations
+
+<!--
 
 **Markdown generator**
 
@@ -46,4 +68,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
