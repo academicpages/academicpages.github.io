@@ -209,18 +209,18 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: false
-    permalink: /:collection/:path/
+  #teaching:
+    #output: false
+    #permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: false
     permalink: /:collection/:path/
-  talks:
-    output: false
-    permalink: /:collection/:path/
+  # talks:
+    # output: false
+    # permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -261,10 +261,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
