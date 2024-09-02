@@ -33,9 +33,16 @@ Download Paper(https://ieeexplore.ieee.org/document/9885689)
 
 Experience
 ======
-General Aeronautics 
-------
 
+General Aeronautics - Software Engineer L3
+------ 
+
+• Architected and deployed an in-house live-streaming server, proficient in handling high volumes of drone video streams,
+maintaining system stability for 400+ concurrent streams.
+• Led a team in developing a multilingual, WhatsApp-integrated chatbot to streamline the booking process through direct
+customer engagement, utilizing Redis-based message caching to reduce latency.
+• Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
+location and workload distribution to maximize resource utilization
 
 Projects
 ======
