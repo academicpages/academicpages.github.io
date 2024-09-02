@@ -38,11 +38,11 @@ General Aeronautics - Software Engineer L3
 ------ 
 
 • Architected and deployed an in-house live-streaming server, proficient in handling high volumes of drone video streams,
-maintaining system stability for 400+ concurrent streams.
+maintaining system stability for 400+ concurrent streams.<br>
 • Led a team in developing a multilingual, WhatsApp-integrated chatbot to streamline the booking process through direct
-customer engagement, utilizing Redis-based message caching to reduce latency.
+customer engagement, utilizing Redis-based message caching to reduce latency.<br>
 • Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
-location and workload distribution to maximize resource utilization
+location and workload distribution to maximize resource utilization<br>
 
 General Aeronautics - Software Engineer L2
 ------ 
@@ -59,7 +59,9 @@ General Aeronautics - Software Engineer L2
 
 • Developed a Django server to facilitate communication with drones, enabling functionalities such as registration, key
 generation, and over-the-air master firmware updates.
+
 • Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.
+
 • Contributed to organizational efforts to meet DGCA (Directorate General of Civil Aviation) drone security compliance
 requirements on the software level.
 
