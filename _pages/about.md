@@ -30,7 +30,7 @@ Enhancing machine learning models' adaptability and effectiveness across various
 - [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
   _KDD 2024_  
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
-  _ICLR 2023_ 
+  _ICLR 2023 (<span style="color: red;">Oral</span>)_ 
 
 ## 2. Efficient Large-Scale Machine Learning
 Exploring scalable solutions in machine learning.
