@@ -44,6 +44,32 @@ customer engagement, utilizing Redis-based message caching to reduce latency.
 • Designed a revenue-generating platform that efficiently matches agriculture drone service providers with farmers based on
 location and workload distribution to maximize resource utilization
 
+General Aeronautics - Software Engineer L2
+------ 
+
+• Deployed an on-premises Django server that uses physical PKI Tokens to expose APIs for secure cryptographic operations.
+Further, used OpenVPN to privatize API access to specific cloud servers.
+• Designed and implemented a proprietary algorithm that streamlined after-sales drone support processes, reducing repair
+times and decreasing drone downtime by 20% to meet stringent SLA commitments.
+• Transitioned 5 servers from a monolithic to a micro-services-based architecture, improving their scalability
+
+
+General Aeronautics - Software Engineer L2
+------ 
+
+• Developed a Django server to facilitate communication with drones, enabling functionalities such as registration, key
+generation, and over-the-air master firmware updates.
+• Integrated a payment gateway into the server to enable secure and seamless online transactions amounting to millions.
+• Contributed to organizational efforts to meet DGCA (Directorate General of Civil Aviation) drone security compliance
+requirements on the software level.
+
+General Aeronautics - Software Developer Intern
+------ 
+
+• Integrated call masking functionality into the server to protect customer identities and designed an efficient backend to
+support multiple concurrent calls with a single virtual number.
+• Received the “Best Intern Award” and a pre-placement offer for outstanding performance
+
 Projects
 ======
 
