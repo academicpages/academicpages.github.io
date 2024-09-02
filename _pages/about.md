@@ -14,7 +14,7 @@ Welcome! I am a final-year Ph.D. student at the [Department of Computer Science,
 
 Research Interests
 ======
-I am interested in designing **efficient** and **generalizable** learning algorithms. Specifically, my current research topics include but are not limited to **1.** Developing various learning algorithms for knowledge/domain transfer, such as multi-task learning (MTL), domain adaptation (DA), and domain generalization (DG). **2.** Designing large-scale machine learning algorithms with enhanced efficiency, such as model compression & acceleration of LLMs and distributed training for deep neural networks. **3.** Online learning such as continual/lifelong learning with memory replay and neuro-inspiration. 
+I am interested in designing **efficient** and **generalizable** learning algorithms. Specifically, my current research topics include but are not limited to **1.** Developing various learning algorithms for knowledge/domain transfer, such as multi-task learning (MTL), domain adaptation (DA), and domain generalization (DG). **2.** Designing large-scale machine learning algorithms with enhanced efficiency, such as model compression & acceleration of LLMs and distributed training for deep neural networks. **3.** Online learning such as continual/lifelong learning with efficient memory replay and neuro-inspiration. 
 
 Selected Projects
 =====
