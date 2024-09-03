@@ -1,0 +1,1086 @@
+<!DOCTYPE html><html lang="en-US"><head><title>OSFC Tock OS verification</title><meta property="og:title" content="OSFC Tock OS verification"><meta name="description" content="A talk by Samir Rashid https://godsped.com"><meta property="og:description" content="A talk by Samir Rashid https://godsped.com"><meta charset="UTF-8"><meta name="viewport" content="width=device-width,height=device-height,initial-scale=1.0"><meta name="apple-mobile-web-app-capable" content="yes"><meta http-equiv="X-UA-Compatible" content="ie=edge"><meta property="og:type" content="website"><meta name="twitter:card" content="summary"><style>@media screen{body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button{-webkit-tap-highlight-color:transparent;-webkit-appearance:none;appearance:none;background-color:initial;border:0;color:inherit;cursor:pointer;font-size:inherit;opacity:.8;outline:none;padding:0;transition:opacity .2s linear}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:disabled,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:disabled,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:disabled,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:disabled{cursor:not-allowed;opacity:.15!important}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover{opacity:1}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:active,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:active,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover:active,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover:active{opacity:.6}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:not(:disabled),body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button:hover:not(:disabled),body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button:hover:not(:disabled),body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button:hover:not(:disabled){transition:none}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button.bespoke-marp-presenter-info-page-prev{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNNjggOTAgMjggNTBsNDAtNDAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button.bespoke-marp-presenter-info-page-next{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJtMzIgOTAgNDAtNDAtNDAtNDAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen]{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48c3R5bGU+LmF7ZmlsbDpub25lO3N0cm9rZTojZmZmO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6NXB4fTwvc3R5bGU+PC9kZWZzPjxyZWN0IHdpZHRoPSI4MCIgaGVpZ2h0PSI2MCIgeD0iMTAiIHk9IjIwIiBjbGFzcz0iYSIgcng9IjUuNjciLz48cGF0aCBkPSJNNDAgNzBIMjBWNTBtMjAgMEwyMCA3MG00MC00MGgyMHYyMG0tMjAgMCAyMC0yMCIgY2xhc3M9ImEiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button.exit[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button.exit[data-bespoke-marp-osc=fullscreen]{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48ZGVmcz48c3R5bGU+LmF7ZmlsbDpub25lO3N0cm9rZTojZmZmO3N0cm9rZS1saW5lY2FwOnJvdW5kO3N0cm9rZS1saW5lam9pbjpyb3VuZDtzdHJva2Utd2lkdGg6NXB4fTwvc3R5bGU+PC9kZWZzPjxyZWN0IHdpZHRoPSI4MCIgaGVpZ2h0PSI2MCIgeD0iMTAiIHk9IjIwIiBjbGFzcz0iYSIgcng9IjUuNjciLz48cGF0aCBkPSJNMjAgNTBoMjB2MjBtLTIwIDAgMjAtMjBtNDAgMEg2MFYzMG0yMCAwTDYwIDUwIiBjbGFzcz0iYSIvPjwvc3ZnPg==")}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter]{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNODcuOCA0Ny41Qzg5IDUwIDg3LjcgNTIgODUgNTJIMzVhOC43IDguNyAwIDAgMS03LjItNC41bC0xNS42LTMxQzExIDE0IDEyLjIgMTIgMTUgMTJoNTBhOC44IDguOCAwIDAgMSA3LjIgNC41ek02MCA1MnYzNm0tMTAgMGgyME00NSA0MmgyMCIvPjwvc3ZnPg==") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button.bespoke-marp-presenter-note-bigger{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNMTIgNTBoODBNNTIgOTBWMTAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button.bespoke-marp-presenter-note-smaller{background:#0000 url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSI1IiBkPSJNMTIgNTBoODAiLz48L3N2Zz4=") no-repeat 50%;background-size:contain;overflow:hidden;text-indent:100%;white-space:nowrap}}@keyframes __bespoke_marp_transition_reduced_outgoing__{0%{opacity:1}to{opacity:0}}@keyframes __bespoke_marp_transition_reduced_incoming__{0%{mix-blend-mode:plus-lighter;opacity:0}to{mix-blend-mode:plus-lighter;opacity:1}}.bespoke-marp-note,.bespoke-marp-osc,.bespoke-progress-parent{display:none;transition:none}@media screen{::view-transition-group(*){animation-duration:var(--marp-bespoke-transition-animation-duration,.5s);animation-timing-function:ease}::view-transition-new(*),::view-transition-old(*){animation-delay:0s;animation-direction:var(--marp-bespoke-transition-animation-direction,normal);animation-duration:var(--marp-bespoke-transition-animation-duration,.5s);animation-fill-mode:both;animation-name:var(--marp-bespoke-transition-animation-name,var(--marp-bespoke-transition-animation-name-fallback,__bespoke_marp_transition_no_animation__));mix-blend-mode:normal}::view-transition-old(*){--marp-bespoke-transition-animation-name-fallback:__bespoke_marp_transition_reduced_outgoing__;animation-timing-function:ease}::view-transition-new(*){--marp-bespoke-transition-animation-name-fallback:__bespoke_marp_transition_reduced_incoming__;animation-timing-function:ease}::view-transition-new(root),::view-transition-old(root){animation-timing-function:linear}::view-transition-new(__bespoke_marp_transition_osc__),::view-transition-old(__bespoke_marp_transition_osc__){animation-duration:0s!important;animation-name:__bespoke_marp_transition_osc__!important}::view-transition-new(__bespoke_marp_transition_osc__){opacity:0!important}.bespoke-marp-transition-warming-up::view-transition-group(*),.bespoke-marp-transition-warming-up::view-transition-new(*),.bespoke-marp-transition-warming-up::view-transition-old(*){animation-play-state:paused!important}body,html{height:100%;margin:0}body{background:#000;overflow:hidden}svg.bespoke-marp-slide{content-visibility:hidden;opacity:0;pointer-events:none;z-index:-1}svg.bespoke-marp-slide:not(.bespoke-marp-active) *{view-transition-name:none!important}svg.bespoke-marp-slide.bespoke-marp-active{content-visibility:visible;opacity:1;pointer-events:auto;z-index:0}svg.bespoke-marp-slide.bespoke-marp-active.bespoke-marp-active-ready *{animation-name:__bespoke_marp__!important}@supports not (content-visibility:hidden){svg.bespoke-marp-slide[data-bespoke-marp-load=hideable]{display:none}svg.bespoke-marp-slide[data-bespoke-marp-load=hideable].bespoke-marp-active{display:block}}}@media screen and (prefers-reduced-motion:reduce){svg.bespoke-marp-slide *{view-transition-name:none!important}}@media screen{[data-bespoke-marp-fragment=inactive]{visibility:hidden}body[data-bespoke-view=""] .bespoke-marp-parent,body[data-bespoke-view=next] .bespoke-marp-parent{inset:0;position:absolute}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc{view-transition-name:__bespoke_marp_transition_osc__;background:#000000a6;border-radius:7px;bottom:50px;color:#fff;contain:paint;display:block;font-family:Helvetica,Arial,sans-serif;font-size:16px;left:50%;line-height:0;opacity:1;padding:12px;position:absolute;touch-action:manipulation;transform:translateX(-50%);transition:opacity .2s linear;-webkit-user-select:none;user-select:none;white-space:nowrap;will-change:transform;z-index:1}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>*,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>*{margin-left:6px}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>:first-child,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>:first-child{margin-left:0}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>span,body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>span{opacity:.8}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>span[data-bespoke-marp-osc=page],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>span[data-bespoke-marp-osc=page]{display:inline-block;min-width:140px;text-align:center}body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=""] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=fullscreen],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=next],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=presenter],body[data-bespoke-view=next] .bespoke-marp-parent>.bespoke-marp-osc>button[data-bespoke-marp-osc=prev]{height:32px;line-height:32px;width:32px}body[data-bespoke-view=""] .bespoke-marp-parent.bespoke-marp-inactive,body[data-bespoke-view=next] .bespoke-marp-parent.bespoke-marp-inactive{cursor:none}body[data-bespoke-view=""] .bespoke-marp-parent.bespoke-marp-inactive>.bespoke-marp-osc,body[data-bespoke-view=next] .bespoke-marp-parent.bespoke-marp-inactive>.bespoke-marp-osc{opacity:0;pointer-events:none}body[data-bespoke-view=""] svg.bespoke-marp-slide,body[data-bespoke-view=next] svg.bespoke-marp-slide{height:100%;left:0;position:absolute;top:0;width:100%}body[data-bespoke-view=""] .bespoke-progress-parent{background:#222;display:flex;height:5px;width:100%}body[data-bespoke-view=""] .bespoke-progress-parent+.bespoke-marp-parent{top:5px}body[data-bespoke-view=""] .bespoke-progress-parent .bespoke-progress-bar{background:#0288d1;flex:0 0 0;transition:flex-basis .2s cubic-bezier(0,1,1,1)}body[data-bespoke-view=next]{background:#0000}body[data-bespoke-view=presenter]{background:#161616}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container{display:grid;font-family:Helvetica,Arial,sans-serif;grid-template:"current dragbar next" minmax(140px,1fr) "current dragbar note" 2fr "info    dragbar note" 3em;grid-template-columns:minmax(3px,var(--bespoke-marp-presenter-split-ratio,66%)) 0 minmax(3px,1fr);height:100%;left:0;position:absolute;top:0;width:100%}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent{grid-area:current;overflow:hidden;position:relative}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent svg.bespoke-marp-slide{height:calc(100% - 40px);left:20px;pointer-events:none;position:absolute;top:20px;-webkit-user-select:none;user-select:none;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-parent svg.bespoke-marp-slide.bespoke-marp-active{filter:drop-shadow(0 3px 10px rgba(0,0,0,.5))}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container{background:#0288d1;cursor:col-resize;grid-area:dragbar;margin-left:-3px;opacity:0;position:relative;transition:opacity .4s linear .1s;width:6px;z-index:10}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container:hover{opacity:1}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-dragbar-container.active{opacity:1;transition-delay:0s}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container{background:#222;cursor:pointer;display:none;grid-area:next;overflow:hidden;position:relative}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container.active{display:block}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-next-container iframe.bespoke-marp-presenter-next{background:#0000;border:0;display:block;filter:drop-shadow(0 3px 10px rgba(0,0,0,.5));height:calc(100% - 40px);left:20px;pointer-events:none;position:absolute;top:20px;-webkit-user-select:none;user-select:none;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container{background:#222;color:#eee;grid-area:note;position:relative;z-index:1}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container button{height:1.5em;line-height:1.5em;width:1.5em}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-wrapper{display:block;inset:0;position:absolute}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-buttons{background:#000000a6;border-radius:4px;bottom:0;display:flex;gap:4px;margin:12px;opacity:0;padding:6px;pointer-events:none;position:absolute;right:0;transition:opacity .2s linear}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-buttons:focus-within,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-presenter-note-wrapper:focus-within+.bespoke-marp-presenter-note-buttons,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container:hover .bespoke-marp-presenter-note-buttons{opacity:1;pointer-events:auto}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note{word-wrap:break-word;box-sizing:border-box;font-size:calc(1.1em*var(--bespoke-marp-note-font-scale, 1));height:calc(100% - 40px);margin:20px;overflow:auto;padding-right:3px;scrollbar-color:#eeeeee80 #0000;scrollbar-width:thin;white-space:pre-wrap;width:calc(100% - 40px)}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar{width:6px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar-track{background:#0000}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note::-webkit-scrollbar-thumb{background:#eeeeee80;border-radius:6px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note:empty{pointer-events:none}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note.active{display:block}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note p:first-child{margin-top:0}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-note-container .bespoke-marp-note p:last-child{margin-bottom:0}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container{align-items:center;box-sizing:border-box;color:#eee;display:flex;flex-wrap:nowrap;grid-area:info;justify-content:center;overflow:hidden;padding:0 10px}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-time,body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer{box-sizing:border-box;display:block;padding:0 10px;white-space:nowrap;width:100%}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container button{height:1.5em;line-height:1.5em;width:1.5em}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page{order:2;text-align:center}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-page .bespoke-marp-presenter-info-page-text{display:inline-block;min-width:120px;text-align:center}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-time{color:#999;order:1;text-align:left}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer{color:#999;order:3;text-align:right}body[data-bespoke-view=presenter] .bespoke-marp-presenter-container .bespoke-marp-presenter-info-container .bespoke-marp-presenter-info-timer:hover{cursor:pointer}}@media print{.bespoke-marp-presenter-info-container,.bespoke-marp-presenter-next-container,.bespoke-marp-presenter-note-container{display:none}}</style><style>@keyframes marp-outgoing-transition-__builtin__fade{0%{opacity:1}to{opacity:0}}@keyframes marp-incoming-transition-__builtin__fade{0%{mix-blend-mode:plus-lighter;opacity:0}to{mix-blend-mode:plus-lighter;opacity:1}}</style><style>div#\:\$p>svg>foreignObject>section{width:1280px;height:720px;box-sizing:border-box;overflow:hidden;position:relative;scroll-snap-align:center center}div#\:\$p>svg>foreignObject>section:after{bottom:0;content:attr(data-marpit-pagination);padding:inherit;pointer-events:none;position:absolute;right:0}div#\:\$p>svg>foreignObject>section:not([data-marpit-pagination]):after{display:none}/* Normalization */div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){font-size:2em;margin:0.67em 0}div#\:\$p>svg>foreignObject>section video::-webkit-media-controls{will-change:transform}@page{size:1280px 720px;margin:0}@media print{body,html{background-color:#fff;margin:0;page-break-inside:avoid;break-inside:avoid-page}div#\:\$p>svg>foreignObject>section{page-break-before:always;break-before:page}div#\:\$p>svg>foreignObject>section,div#\:\$p>svg>foreignObject>section *{-webkit-print-color-adjust:exact!important;animation-delay:0s!important;animation-duration:0s!important;color-adjust:exact!important;transition:none!important}div#\:\$p>svg[data-marpit-svg]{display:block;height:100vh;width:100vw}}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]{direction:ltr}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]>svg{overflow:visible;min-height:1px;min-width:1px}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG]>svg a{fill:blue;stroke:blue}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][display=true]{display:block;text-align:center;margin:1em 0}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][display=true][width=full]{display:flex}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][justify=left]{text-align:left}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG][justify=right]{text-align:right}div#\:\$p>svg>foreignObject>section g[data-mml-node=merror]>g{fill:red;stroke:red}div#\:\$p>svg>foreignObject>section g[data-mml-node=merror]>rect[data-background]{fill:yellow;stroke:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>line[data-line],div#\:\$p>svg>foreignObject>section svg[data-table]>g>line[data-line]{stroke-width:70px;fill:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>rect[data-frame],div#\:\$p>svg>foreignObject>section svg[data-table]>g>rect[data-frame]{stroke-width:70px;fill:none}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>.mjx-dashed,div#\:\$p>svg>foreignObject>section svg[data-table]>g>.mjx-dashed{stroke-dasharray:140}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>.mjx-dotted,div#\:\$p>svg>foreignObject>section svg[data-table]>g>.mjx-dotted{stroke-linecap:round;stroke-dasharray:0,140}div#\:\$p>svg>foreignObject>section g[data-mml-node=mtable]>g>svg{overflow:visible}div#\:\$p>svg>foreignObject>section [jax=SVG] mjx-tool{display:inline-block;position:relative;width:0;height:0}div#\:\$p>svg>foreignObject>section [jax=SVG] mjx-tool>mjx-tip{position:absolute;top:0;left:0}div#\:\$p>svg>foreignObject>section mjx-tool>mjx-tip{display:inline-block;padding:.2em;border:1px solid #888;font-size:70%;background-color:#F8F8F8;color:black;box-shadow:2px 2px 5px #AAAAAA}div#\:\$p>svg>foreignObject>section g[data-mml-node=maction][data-toggle]{cursor:pointer}div#\:\$p>svg>foreignObject>section mjx-status{display:block;position:fixed;left:1em;bottom:1em;min-width:25%;padding:.2em .4em;border:1px solid #888;font-size:90%;background-color:#F8F8F8;color:black}div#\:\$p>svg>foreignObject>section foreignObject[data-mjx-xml]{font-family:initial;line-height:normal;overflow:visible}div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] path[data-c],div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] use[data-c]{stroke-width:3}@media print{div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] path[data-c],div#\:\$p>svg>foreignObject>section mjx-container[jax=SVG] use[data-c]{stroke-width:0}}div#\:\$p>svg>foreignObject>section img[data-marp-twemoji]{background:transparent;height:1em;margin:0 .05em 0 .1em;vertical-align:-.1em;width:1em}
+/*!
+ * Marp default theme.
+ *
+ * @theme default
+ * @author Yuki Hattori
+ *
+ * @auto-scaling true
+ * @size 16:9 1280px 720px
+ * @size 4:3 960px 720px
+ */div#\:\$p>svg>foreignObject>section{--color-prettylights-syntax-comment:#6e7781;--color-prettylights-syntax-constant:#0550ae;--color-prettylights-syntax-entity:#8250df;--color-prettylights-syntax-storage-modifier-import:#24292f;--color-prettylights-syntax-entity-tag:#116329;--color-prettylights-syntax-keyword:#cf222e;--color-prettylights-syntax-string:#0a3069;--color-prettylights-syntax-variable:#953800;--color-prettylights-syntax-brackethighlighter-unmatched:#82071e;--color-prettylights-syntax-invalid-illegal-text:#f6f8fa;--color-prettylights-syntax-invalid-illegal-bg:#82071e;--color-prettylights-syntax-carriage-return-text:#f6f8fa;--color-prettylights-syntax-carriage-return-bg:#cf222e;--color-prettylights-syntax-string-regexp:#116329;--color-prettylights-syntax-markup-list:#3b2300;--color-prettylights-syntax-markup-heading:#0550ae;--color-prettylights-syntax-markup-italic:#24292f;--color-prettylights-syntax-markup-bold:#24292f;--color-prettylights-syntax-markup-deleted-text:#82071e;--color-prettylights-syntax-markup-deleted-bg:#ffebe9;--color-prettylights-syntax-markup-inserted-text:#116329;--color-prettylights-syntax-markup-inserted-bg:#dafbe1;--color-prettylights-syntax-markup-changed-text:#953800;--color-prettylights-syntax-markup-changed-bg:#ffd8b5;--color-prettylights-syntax-markup-ignored-text:#eaeef2;--color-prettylights-syntax-markup-ignored-bg:#0550ae;--color-prettylights-syntax-meta-diff-range:#8250df;--color-prettylights-syntax-brackethighlighter-angle:#57606a;--color-prettylights-syntax-sublimelinter-gutter-mark:#8c959f;--color-prettylights-syntax-constant-other-reference-link:#0a3069;--color-fg-default:#24292f;--color-fg-muted:#57606a;--color-fg-subtle:#6e7781;--color-canvas-default:#fff;--color-canvas-subtle:#f6f8fa;--color-border-default:#d0d7de;--color-border-muted:#d8dee4;--color-neutral-muted:rgba(175,184,193,.2);--color-accent-fg:#0969da;--color-accent-emphasis:#0969da;--color-attention-subtle:#fff8c5;--color-danger-fg:#cf222e;color-scheme:light}div#\:\$p>svg>foreignObject>section:where(.invert){--color-prettylights-syntax-comment:#8b949e;--color-prettylights-syntax-constant:#79c0ff;--color-prettylights-syntax-entity:#d2a8ff;--color-prettylights-syntax-storage-modifier-import:#c9d1d9;--color-prettylights-syntax-entity-tag:#7ee787;--color-prettylights-syntax-keyword:#ff7b72;--color-prettylights-syntax-string:#a5d6ff;--color-prettylights-syntax-variable:#ffa657;--color-prettylights-syntax-brackethighlighter-unmatched:#f85149;--color-prettylights-syntax-invalid-illegal-text:#f0f6fc;--color-prettylights-syntax-invalid-illegal-bg:#8e1519;--color-prettylights-syntax-carriage-return-text:#f0f6fc;--color-prettylights-syntax-carriage-return-bg:#b62324;--color-prettylights-syntax-string-regexp:#7ee787;--color-prettylights-syntax-markup-list:#f2cc60;--color-prettylights-syntax-markup-heading:#1f6feb;--color-prettylights-syntax-markup-italic:#c9d1d9;--color-prettylights-syntax-markup-bold:#c9d1d9;--color-prettylights-syntax-markup-deleted-text:#ffdcd7;--color-prettylights-syntax-markup-deleted-bg:#67060c;--color-prettylights-syntax-markup-inserted-text:#aff5b4;--color-prettylights-syntax-markup-inserted-bg:#033a16;--color-prettylights-syntax-markup-changed-text:#ffdfb6;--color-prettylights-syntax-markup-changed-bg:#5a1e02;--color-prettylights-syntax-markup-ignored-text:#c9d1d9;--color-prettylights-syntax-markup-ignored-bg:#1158c7;--color-prettylights-syntax-meta-diff-range:#d2a8ff;--color-prettylights-syntax-brackethighlighter-angle:#8b949e;--color-prettylights-syntax-sublimelinter-gutter-mark:#484f58;--color-prettylights-syntax-constant-other-reference-link:#a5d6ff;--color-fg-default:#c9d1d9;--color-fg-muted:#8b949e;--color-fg-subtle:#6e7681;--color-canvas-default:#0d1117;--color-canvas-subtle:#161b22;--color-border-default:#30363d;--color-border-muted:#21262d;--color-neutral-muted:hsla(215,8%,47%,.4);--color-accent-fg:#58a6ff;--color-accent-emphasis:#1f6feb;--color-attention-subtle:rgba(187,128,9,.15);--color-danger-fg:#f85149;color-scheme:dark}div#\:\$p>svg>foreignObject>section{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;word-wrap:break-word;background-color:var(--color-canvas-default);color:var(--color-fg-default);font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:16px;line-height:1.5;margin:0}div#\:\$p>svg>foreignObject>section{--marpit-root-font-size:16px}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor .octicon-link:before,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor .octicon-link:before{background-color:currentColor;content:" ";display:inline-block;height:16px;-webkit-mask-image:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 0 1 0-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 4.95 4.95l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83 0z"/></svg>');mask-image:url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" viewBox="0 0 16 16"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 0 1 0-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 4.95 4.95l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83 0z"/></svg>');width:16px}div#\:\$p>svg>foreignObject>section details,div#\:\$p>svg>foreignObject>section figcaption,div#\:\$p>svg>foreignObject>section figure{display:block}div#\:\$p>svg>foreignObject>section summary{display:list-item}div#\:\$p>svg>foreignObject>section [hidden]{display:none!important}div#\:\$p>svg>foreignObject>section a{background-color:transparent;color:var(--color-accent-fg);text-decoration:none}div#\:\$p>svg>foreignObject>section abbr[title]{border-bottom:none;-webkit-text-decoration:underline dotted;text-decoration:underline dotted}div#\:\$p>svg>foreignObject>section b,div#\:\$p>svg>foreignObject>section strong{font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section dfn{font-style:italic}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){border-bottom:1px solid var(--color-border-muted);font-size:2em;font-weight:var(--base-text-weight-semibold,600);margin:.67em 0;padding-bottom:.3em}div#\:\$p>svg>foreignObject>section mark{background-color:var(--color-attention-subtle);color:var(--color-fg-default)}div#\:\$p>svg>foreignObject>section small{font-size:90%}div#\:\$p>svg>foreignObject>section sub,div#\:\$p>svg>foreignObject>section sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}div#\:\$p>svg>foreignObject>section sub{bottom:-.25em}div#\:\$p>svg>foreignObject>section sup{top:-.5em}div#\:\$p>svg>foreignObject>section img{background-color:var(--color-canvas-default);border-style:none;box-sizing:content-box;max-width:100%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section kbd,div#\:\$p>svg>foreignObject>section samp{font-family:monospace;font-size:1em}div#\:\$p>svg>foreignObject>section figure{margin:1em 40px}div#\:\$p>svg>foreignObject>section hr{background:transparent;background-color:var(--color-border-default);border:0;box-sizing:content-box;height:.25em;margin:24px 0;overflow:hidden;padding:0}div#\:\$p>svg>foreignObject>section input{font:inherit;font-family:inherit;font-size:inherit;line-height:inherit;margin:0;overflow:visible}div#\:\$p>svg>foreignObject>section [type=button],div#\:\$p>svg>foreignObject>section [type=reset],div#\:\$p>svg>foreignObject>section [type=submit]{-webkit-appearance:button}div#\:\$p>svg>foreignObject>section [type=checkbox],div#\:\$p>svg>foreignObject>section [type=radio]{box-sizing:border-box;padding:0}div#\:\$p>svg>foreignObject>section [type=number]::-webkit-inner-spin-button,div#\:\$p>svg>foreignObject>section [type=number]::-webkit-outer-spin-button{height:auto}div#\:\$p>svg>foreignObject>section [type=search]::-webkit-search-cancel-button,div#\:\$p>svg>foreignObject>section [type=search]::-webkit-search-decoration{-webkit-appearance:none}div#\:\$p>svg>foreignObject>section ::-webkit-input-placeholder{color:inherit;opacity:.54}div#\:\$p>svg>foreignObject>section ::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}div#\:\$p>svg>foreignObject>section a:hover{text-decoration:underline}div#\:\$p>svg>foreignObject>section ::-moz-placeholder{color:var(--color-fg-subtle);opacity:1}div#\:\$p>svg>foreignObject>section ::placeholder{color:var(--color-fg-subtle);opacity:1}div#\:\$p>svg>foreignObject>section hr:after,div#\:\$p>svg>foreignObject>section hr:before{content:"";display:table}div#\:\$p>svg>foreignObject>section hr:after{clear:both}div#\:\$p>svg>foreignObject>section table{border-collapse:collapse;border-spacing:0;display:block;max-width:100%;overflow:auto;width:-moz-max-content;width:max-content}div#\:\$p>svg>foreignObject>section td,div#\:\$p>svg>foreignObject>section th{padding:0}div#\:\$p>svg>foreignObject>section details summary{cursor:pointer}div#\:\$p>svg>foreignObject>section details:not([open])>:not(summary){display:none!important}div#\:\$p>svg>foreignObject>section [role=button]:focus,div#\:\$p>svg>foreignObject>section a:focus,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus,div#\:\$p>svg>foreignObject>section input[type=radio]:focus{box-shadow:none;outline:2px solid var(--color-accent-fg);outline-offset:-2px}div#\:\$p>svg>foreignObject>section [role=button]:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section a:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus:not(:focus-visible),div#\:\$p>svg>foreignObject>section input[type=radio]:focus:not(:focus-visible){outline:1px solid transparent}div#\:\$p>svg>foreignObject>section [role=button]:focus-visible,div#\:\$p>svg>foreignObject>section a:focus-visible,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus-visible,div#\:\$p>svg>foreignObject>section input[type=radio]:focus-visible{box-shadow:none;outline:2px solid var(--color-accent-fg);outline-offset:-2px}div#\:\$p>svg>foreignObject>section a:not([class]):focus,div#\:\$p>svg>foreignObject>section a:not([class]):focus-visible,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus,div#\:\$p>svg>foreignObject>section input[type=checkbox]:focus-visible,div#\:\$p>svg>foreignObject>section input[type=radio]:focus,div#\:\$p>svg>foreignObject>section input[type=radio]:focus-visible{outline-offset:0}div#\:\$p>svg>foreignObject>section kbd{background-color:var(--color-canvas-subtle);border-bottom-color:var(--color-neutral-muted);border:1px solid var(--color-neutral-muted);border-radius:6px;box-shadow:inset 0 -1px 0 var(--color-neutral-muted);color:var(--color-fg-default);display:inline-block;font:11px ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;line-height:10px;padding:3px 5px;vertical-align:middle}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){font-weight:var(--base-text-weight-semibold,600);line-height:1.25;margin-bottom:16px;margin-top:24px}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){border-bottom:1px solid var(--color-border-muted);font-size:1.5em;padding-bottom:.3em}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-size:1.25em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4){font-size:1em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-size:.875em}div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){color:var(--color-fg-muted);font-size:.85em;font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section p{margin-bottom:10px;margin-top:0}div#\:\$p>svg>foreignObject>section blockquote{border-left:.25em solid var(--color-border-default);color:var(--color-fg-muted);margin:0;padding:0 1em}div#\:\$p>svg>foreignObject>section ol,div#\:\$p>svg>foreignObject>section ul{margin-bottom:0;margin-top:0;padding-left:2em}div#\:\$p>svg>foreignObject>section ol ol,div#\:\$p>svg>foreignObject>section ul ol{list-style-type:lower-roman}div#\:\$p>svg>foreignObject>section ol ol ol,div#\:\$p>svg>foreignObject>section ol ul ol,div#\:\$p>svg>foreignObject>section ul ol ol,div#\:\$p>svg>foreignObject>section ul ul ol{list-style-type:lower-alpha}div#\:\$p>svg>foreignObject>section dd{margin-left:0}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section samp,div#\:\$p>svg>foreignObject>section tt{font-family:ui-monospace,SFMono-Regular,SF Mono,Menlo,Consolas,Liberation Mono,monospace;font-size:12px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){word-wrap:normal;margin-bottom:0;margin-top:0}div#\:\$p>svg>foreignObject>section .octicon{fill:currentColor;display:inline-block;overflow:visible!important;vertical-align:text-bottom}div#\:\$p>svg>foreignObject>section input::-webkit-inner-spin-button,div#\:\$p>svg>foreignObject>section input::-webkit-outer-spin-button{-webkit-appearance:none;appearance:none;margin:0}div#\:\$p>svg>foreignObject>section:after,div#\:\$p>svg>foreignObject>section:before{
+  /* content:""; */display:table}div#\:\$p>svg>foreignObject>section:after{clear:both}div#\:\$p>svg>foreignObject>section>:first-child{margin-top:0!important}div#\:\$p>svg>foreignObject>section>:last-child{margin-bottom:0!important}div#\:\$p>svg>foreignObject>section a:not([href]){color:inherit;text-decoration:none}div#\:\$p>svg>foreignObject>section .absent{color:var(--color-danger-fg)}div#\:\$p>svg>foreignObject>section .anchor{float:left;line-height:1;margin-left:-20px;padding-right:4px}div#\:\$p>svg>foreignObject>section .anchor:focus{outline:none}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre),div#\:\$p>svg>foreignObject>section blockquote,div#\:\$p>svg>foreignObject>section details,div#\:\$p>svg>foreignObject>section dl,div#\:\$p>svg>foreignObject>section ol,div#\:\$p>svg>foreignObject>section p,div#\:\$p>svg>foreignObject>section table,div#\:\$p>svg>foreignObject>section ul{margin-bottom:16px;margin-top:0}div#\:\$p>svg>foreignObject>section blockquote>:first-child{margin-top:0}div#\:\$p>svg>foreignObject>section blockquote>:last-child{margin-bottom:0}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) .octicon-link,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) .octicon-link{color:var(--color-fg-default);vertical-align:middle;visibility:hidden}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor{text-decoration:none}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5):hover .anchor .octicon-link,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6):hover .anchor .octicon-link{visibility:visible}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) code,div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) tt,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) code,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) tt,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) code,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) tt,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) code,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) tt,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) code,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) tt,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) code,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) tt{font-size:inherit;padding:0 .2em}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section summary :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section summary :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section summary :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section summary :is(h6,marp-h6){display:inline-block}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h3,marp-h3) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h4,marp-h4) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h5,marp-h5) .anchor,div#\:\$p>svg>foreignObject>section summary :is(h6,marp-h6) .anchor{margin-left:-40px}div#\:\$p>svg>foreignObject>section summary :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section summary :is(h2,marp-h2){border-bottom:0;padding-bottom:0}div#\:\$p>svg>foreignObject>section ol.no-list,div#\:\$p>svg>foreignObject>section ul.no-list{list-style-type:none;padding:0}div#\:\$p>svg>foreignObject>section ol[type=a]{list-style-type:lower-alpha}div#\:\$p>svg>foreignObject>section ol[type=A]{list-style-type:upper-alpha}div#\:\$p>svg>foreignObject>section ol[type=i]{list-style-type:lower-roman}div#\:\$p>svg>foreignObject>section ol[type=I]{list-style-type:upper-roman}div#\:\$p>svg>foreignObject>section div>ol:not([type]),div#\:\$p>svg>foreignObject>section ol[type="1"]{list-style-type:decimal}div#\:\$p>svg>foreignObject>section ol ol,div#\:\$p>svg>foreignObject>section ol ul,div#\:\$p>svg>foreignObject>section ul ol,div#\:\$p>svg>foreignObject>section ul ul{margin-bottom:0;margin-top:0}div#\:\$p>svg>foreignObject>section li>p{margin-top:16px}div#\:\$p>svg>foreignObject>section li+li{margin-top:.25em}div#\:\$p>svg>foreignObject>section dl{padding:0}div#\:\$p>svg>foreignObject>section dl dt{font-size:1em;font-style:italic;font-weight:var(--base-text-weight-semibold,600);margin-top:16px;padding:0}div#\:\$p>svg>foreignObject>section dl dd{margin-bottom:16px;padding:0 16px}div#\:\$p>svg>foreignObject>section table th{font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section table td,div#\:\$p>svg>foreignObject>section table th{border:1px solid var(--color-border-default);padding:6px 13px}div#\:\$p>svg>foreignObject>section table tr{background-color:var(--color-canvas-default);border-top:1px solid var(--color-border-muted)}div#\:\$p>svg>foreignObject>section table tr:nth-child(2n){background-color:var(--color-canvas-subtle)}div#\:\$p>svg>foreignObject>section table img{background-color:transparent}div#\:\$p>svg>foreignObject>section img[align=right]{padding-left:20px}div#\:\$p>svg>foreignObject>section img[align=left]{padding-right:20px}div#\:\$p>svg>foreignObject>section .emoji{background-color:transparent;max-width:none;vertical-align:text-top}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame,div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame>:is(span,marp-span){display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame>:is(span,marp-span){border:1px solid var(--color-border-default);float:left;margin:13px 0 0;padding:7px;width:auto}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame :is(span,marp-span) img{display:block;float:left}div#\:\$p>svg>foreignObject>section :is(span,marp-span).frame :is(span,marp-span) :is(span,marp-span){clear:both;color:var(--color-fg-default);display:block;padding:5px 0 0}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center{clear:both;display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center>:is(span,marp-span){display:block;margin:13px auto 0;overflow:hidden;text-align:center}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-center :is(span,marp-span) img{margin:0 auto;text-align:center}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right{clear:both;display:block;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right>:is(span,marp-span){display:block;margin:13px 0 0;overflow:hidden;text-align:right}div#\:\$p>svg>foreignObject>section :is(span,marp-span).align-right :is(span,marp-span) img{margin:0;text-align:right}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-left{display:block;float:left;margin-right:13px;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-left :is(span,marp-span){margin:13px 0 0}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-right{display:block;float:right;margin-left:13px;overflow:hidden}div#\:\$p>svg>foreignObject>section :is(span,marp-span).float-right>:is(span,marp-span){display:block;margin:13px auto 0;overflow:hidden;text-align:right}div#\:\$p>svg>foreignObject>section code,div#\:\$p>svg>foreignObject>section tt{background-color:var(--color-neutral-muted);border-radius:6px;font-size:85%;margin:0;padding:.2em .4em;white-space:break-spaces}div#\:\$p>svg>foreignObject>section code br,div#\:\$p>svg>foreignObject>section tt br{display:none}div#\:\$p>svg>foreignObject>section del code{text-decoration:inherit}div#\:\$p>svg>foreignObject>section samp{font-size:85%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) code{font-size:100%}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre)>code{background:transparent;border:0;margin:0;padding:0;white-space:pre;word-break:normal}div#\:\$p>svg>foreignObject>section .highlight{margin-bottom:16px}div#\:\$p>svg>foreignObject>section .highlight :is(pre,marp-pre){margin-bottom:0;word-break:normal}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){background-color:var(--color-canvas-subtle);border-radius:6px;font-size:85%;line-height:1.45;overflow:auto;padding:16px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) code,div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) tt{word-wrap:normal;background-color:transparent;border:0;display:inline;line-height:inherit;margin:0;max-width:auto;overflow:visible;padding:0}div#\:\$p>svg>foreignObject>section .csv-data td,div#\:\$p>svg>foreignObject>section .csv-data th{font-size:12px;line-height:1;overflow:hidden;padding:5px;text-align:left;white-space:nowrap}div#\:\$p>svg>foreignObject>section .csv-data .blob-num{background:var(--color-canvas-default);border:0;padding:10px 8px 9px;text-align:right}div#\:\$p>svg>foreignObject>section .csv-data tr{border-top:0}div#\:\$p>svg>foreignObject>section .csv-data th{background:var(--color-canvas-subtle);border-top:0;font-weight:var(--base-text-weight-semibold,600)}div#\:\$p>svg>foreignObject>section [data-footnote-ref]:before{content:"["}div#\:\$p>svg>foreignObject>section [data-footnote-ref]:after{content:"]"}div#\:\$p>svg>foreignObject>section .footnotes{border-top:1px solid var(--color-border-default);color:var(--color-fg-muted);font-size:12px}div#\:\$p>svg>foreignObject>section div#\:\$p>svg>foreignObject>section section.footnotes{--marpit-root-font-size:12px}div#\:\$p>svg>foreignObject>section .footnotes ol{padding-left:16px}div#\:\$p>svg>foreignObject>section .footnotes ol ul{display:inline-block;margin-top:16px;padding-left:16px}div#\:\$p>svg>foreignObject>section .footnotes li{position:relative}div#\:\$p>svg>foreignObject>section .footnotes li:target:before{border:2px solid var(--color-accent-emphasis);border-radius:6px;bottom:-8px;content:"";left:-24px;pointer-events:none;position:absolute;right:-8px;top:-8px}div#\:\$p>svg>foreignObject>section .footnotes li:target{color:var(--color-fg-default)}div#\:\$p>svg>foreignObject>section .footnotes .data-footnote-backref g-emoji{font-family:monospace}div#\:\$p>svg>foreignObject>section .pl-c{color:var(--color-prettylights-syntax-comment)}div#\:\$p>svg>foreignObject>section .pl-c1,div#\:\$p>svg>foreignObject>section .pl-s .pl-v{color:var(--color-prettylights-syntax-constant)}div#\:\$p>svg>foreignObject>section .pl-e,div#\:\$p>svg>foreignObject>section .pl-en{color:var(--color-prettylights-syntax-entity)}div#\:\$p>svg>foreignObject>section .pl-s .pl-s1,div#\:\$p>svg>foreignObject>section .pl-smi{color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section .pl-ent{color:var(--color-prettylights-syntax-entity-tag)}div#\:\$p>svg>foreignObject>section .pl-k{color:var(--color-prettylights-syntax-keyword)}div#\:\$p>svg>foreignObject>section .pl-pds,div#\:\$p>svg>foreignObject>section .pl-s,div#\:\$p>svg>foreignObject>section .pl-s .pl-pse .pl-s1,div#\:\$p>svg>foreignObject>section .pl-sr,div#\:\$p>svg>foreignObject>section .pl-sr .pl-cce,div#\:\$p>svg>foreignObject>section .pl-sr .pl-sra,div#\:\$p>svg>foreignObject>section .pl-sr .pl-sre{color:var(--color-prettylights-syntax-string)}div#\:\$p>svg>foreignObject>section .pl-smw,div#\:\$p>svg>foreignObject>section .pl-v{color:var(--color-prettylights-syntax-variable)}div#\:\$p>svg>foreignObject>section .pl-bu{color:var(--color-prettylights-syntax-brackethighlighter-unmatched)}div#\:\$p>svg>foreignObject>section .pl-ii{background-color:var(--color-prettylights-syntax-invalid-illegal-bg);color:var(--color-prettylights-syntax-invalid-illegal-text)}div#\:\$p>svg>foreignObject>section .pl-c2{background-color:var(--color-prettylights-syntax-carriage-return-bg);color:var(--color-prettylights-syntax-carriage-return-text)}div#\:\$p>svg>foreignObject>section .pl-sr .pl-cce{color:var(--color-prettylights-syntax-string-regexp);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-ml{color:var(--color-prettylights-syntax-markup-list)}div#\:\$p>svg>foreignObject>section .pl-mh,div#\:\$p>svg>foreignObject>section .pl-mh .pl-en,div#\:\$p>svg>foreignObject>section .pl-ms{color:var(--color-prettylights-syntax-markup-heading);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-mi{color:var(--color-prettylights-syntax-markup-italic);font-style:italic}div#\:\$p>svg>foreignObject>section .pl-mb{color:var(--color-prettylights-syntax-markup-bold);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-md{background-color:var(--color-prettylights-syntax-markup-deleted-bg);color:var(--color-prettylights-syntax-markup-deleted-text)}div#\:\$p>svg>foreignObject>section .pl-mi1{background-color:var(--color-prettylights-syntax-markup-inserted-bg);color:var(--color-prettylights-syntax-markup-inserted-text)}div#\:\$p>svg>foreignObject>section .pl-mc{background-color:var(--color-prettylights-syntax-markup-changed-bg);color:var(--color-prettylights-syntax-markup-changed-text)}div#\:\$p>svg>foreignObject>section .pl-mi2{background-color:var(--color-prettylights-syntax-markup-ignored-bg);color:var(--color-prettylights-syntax-markup-ignored-text)}div#\:\$p>svg>foreignObject>section .pl-mdr{color:var(--color-prettylights-syntax-meta-diff-range);font-weight:700}div#\:\$p>svg>foreignObject>section .pl-ba{color:var(--color-prettylights-syntax-brackethighlighter-angle)}div#\:\$p>svg>foreignObject>section .pl-sg{color:var(--color-prettylights-syntax-sublimelinter-gutter-mark)}div#\:\$p>svg>foreignObject>section .pl-corl{color:var(--color-prettylights-syntax-constant-other-reference-link);text-decoration:underline}div#\:\$p>svg>foreignObject>section g-emoji{display:inline-block;font-family:Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;font-size:1em;font-style:normal!important;font-weight:var(--base-text-weight-normal,400);line-height:1;min-width:1ch;vertical-align:-.075em}div#\:\$p>svg>foreignObject>section g-emoji img{height:1em;width:1em}div#\:\$p>svg>foreignObject>section .task-list-item{list-style-type:none}div#\:\$p>svg>foreignObject>section .task-list-item label{font-weight:var(--base-text-weight-normal,400)}div#\:\$p>svg>foreignObject>section .task-list-item.enabled label{cursor:pointer}div#\:\$p>svg>foreignObject>section .task-list-item+.task-list-item{margin-top:4px}div#\:\$p>svg>foreignObject>section .task-list-item .handle{display:none}div#\:\$p>svg>foreignObject>section .task-list-item-checkbox{margin:0 .2em .25em -1.4em;vertical-align:middle}div#\:\$p>svg>foreignObject>section .contains-task-list:dir(rtl) .task-list-item-checkbox{margin:0 -1.6em .25em .2em}div#\:\$p>svg>foreignObject>section .contains-task-list{position:relative}div#\:\$p>svg>foreignObject>section .contains-task-list:focus-within .task-list-item-convert-container,div#\:\$p>svg>foreignObject>section .contains-task-list:hover .task-list-item-convert-container{clip:auto;display:block;height:24px;overflow:visible;width:auto}div#\:\$p>svg>foreignObject>section ::-webkit-calendar-picker-indicator{filter:invert(50%)}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){color:var(--h1-color);font-size:1.6em}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){border-bottom:none}div#\:\$p>svg>foreignObject>section :is(h2,marp-h2){font-size:1.3em}div#\:\$p>svg>foreignObject>section :is(h3,marp-h3){font-size:1.1em}div#\:\$p>svg>foreignObject>section :is(h4,marp-h4){font-size:1.05em}div#\:\$p>svg>foreignObject>section :is(h5,marp-h5){font-size:1em}div#\:\$p>svg>foreignObject>section :is(h6,marp-h6){font-size:.9em}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1) strong,div#\:\$p>svg>foreignObject>section :is(h2,marp-h2) strong,div#\:\$p>svg>foreignObject>section :is(h3,marp-h3) strong,div#\:\$p>svg>foreignObject>section :is(h4,marp-h4) strong,div#\:\$p>svg>foreignObject>section :is(h5,marp-h5) strong,div#\:\$p>svg>foreignObject>section :is(h6,marp-h6) strong{color:var(--heading-strong-color);font-weight:inherit}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h4,marp-h4)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h5,marp-h5)::part(auto-scaling),div#\:\$p>svg>foreignObject>section :is(h6,marp-h6)::part(auto-scaling){max-height:563px}div#\:\$p>svg>foreignObject>section hr{height:0;padding-top:.25em}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){border:1px solid var(--color-border-default);line-height:1.15;overflow:visible}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre)::part(auto-scaling){max-height:529px}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs){color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-doctag),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-keyword),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta .hljs-keyword),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-template-tag),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-template-variable),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-type),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-variable.language_){color:var(--color-prettylights-syntax-keyword)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.class_),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.class_.inherited__),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-title.function_){color:var(--color-prettylights-syntax-entity)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-attr),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-attribute),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-literal),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-number),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-operator),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-attr),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-class),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-id),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-variable){color:var(--color-prettylights-syntax-constant)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-meta .hljs-string),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-regexp),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-string){color:var(--color-prettylights-syntax-string)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-built_in),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-symbol){color:var(--color-prettylights-syntax-variable)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-code),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-comment),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-formula){color:var(--color-prettylights-syntax-comment)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-name),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-quote),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-pseudo),div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-selector-tag){color:var(--color-prettylights-syntax-entity-tag)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-subst){color:var(--color-prettylights-syntax-storage-modifier-import)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-section){color:var(--color-prettylights-syntax-markup-heading);font-weight:700}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-bullet){color:var(--color-prettylights-syntax-markup-list)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-emphasis){color:var(--color-prettylights-syntax-markup-italic);font-style:italic}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-strong){color:var(--color-prettylights-syntax-markup-bold);font-weight:700}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-addition){background-color:var(--color-prettylights-syntax-markup-inserted-bg);color:var(--color-prettylights-syntax-markup-inserted-text)}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) :where(.hljs-deletion){background-color:var(--color-prettylights-syntax-markup-deleted-bg);color:var(--color-prettylights-syntax-markup-deleted-text)}div#\:\$p>svg>foreignObject>section footer,div#\:\$p>svg>foreignObject>section header{color:var(--header-footer-color);font-size:18px;left:30px;margin:0;position:absolute}div#\:\$p>svg>foreignObject>section header{top:21px}div#\:\$p>svg>foreignObject>section footer{bottom:21px}div#\:\$p>svg>foreignObject>section{--h1-color:#246;--header-footer-color:hsla(0,0%,40%,.75);--heading-strong-color:#48c;--paginate-color:#777;align-items:stretch;display:flex;flex-flow:column nowrap;font-size:29px;height:720px;justify-content:center;padding:78.5px;width:1280px}div#\:\$p>svg>foreignObject>section{--marpit-root-font-size:29px}div#\:\$p>svg>foreignObject>section:where(.invert){--h1-color:#cee7ff;--header-footer-color:hsla(0,0%,60%,.75);--heading-strong-color:#7bf;--paginate-color:#999}div#\:\$p>svg>foreignObject>section>:last-child,div#\:\$p>svg>foreignObject>section[data-footer]>:nth-last-child(2){margin-bottom:0}div#\:\$p>svg>foreignObject>section>:first-child,div#\:\$p>svg>foreignObject>section>header:first-child+*{margin-top:0}div#\:\$p>svg>foreignObject>section:after{bottom:21px;color:var(--paginate-color);font-size:24px;padding:0;position:absolute;right:30px}div#\:\$p>svg>foreignObject>section:after{--marpit-root-font-size:24px}div#\:\$p>svg>foreignObject>section[data-color] :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section[data-color] :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section[data-color] :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section[data-color] :is(h4,marp-h4),div#\:\$p>svg>foreignObject>section[data-color] :is(h5,marp-h5),div#\:\$p>svg>foreignObject>section[data-color] :is(h6,marp-h6){color:currentcolor}
+/* Font */
+/* Body */@font-face{font-family:"lato";src:url("./font/Lato-Regular.ttf")}
+/* Title */@font-face{font-family:"raleway";src:url("./font/Raleway-SemiBold.ttf")}
+/* Code */@font-face{font-family:"hack";src:url("./font/Hack-Regular.ttf")}
+/* Global style */div#\:\$p>svg>foreignObject>section{background:#DFDFDA;font-family:'lato',serif!important}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1){background:#C2C2BD;padding:2%;color:#382D29;border-radius:10px;font-family:'raleway',serif!important}div#\:\$p>svg>foreignObject>section :is(h1,marp-h1),div#\:\$p>svg>foreignObject>section :is(h2,marp-h2),div#\:\$p>svg>foreignObject>section :is(h3,marp-h3),div#\:\$p>svg>foreignObject>section :is(h4,marp-h4){color:black;font-family:'raleway',serif!important}
+/* PNG image transparent background workaround (issue#119) */div#\:\$p>svg>foreignObject>section img{background-color:transparent!important;border-radius:4%}
+/* Code block */div#\:\$p>svg>foreignObject>section :is(pre,marp-pre){background:#f6f7f6;font-family:'hack',serif!important
+   /* font-size: 2em; */}div#\:\$p>svg>foreignObject>section code{font-family:'hack',serif!important}
+/* Hyperlinks */div#\:\$p>svg>foreignObject>section a{color:#2b7982}
+/* Quote */div#\:\$p>svg>foreignObject>section blockquote{color:black}
+/* Two columns */
+/* https://github.com/orgs/marp-team/discussions/62#discussioncomment-257185 */div#\:\$p>svg>foreignObject>section div.twocols{
+  /* margin-top: 35px; */column-count:2}div#\:\$p>svg>foreignObject>section div.twocols :is(h1,marp-h1):first-child,div#\:\$p>svg>foreignObject>section div.twocols :is(h2,marp-h2):first-child,div#\:\$p>svg>foreignObject>section div.twocols p:first-child,div#\:\$p>svg>foreignObject>section div.twocols ul li p:first-child,div#\:\$p>svg>foreignObject>section div.twocols ul li:first-child,div#\:\$p>svg>foreignObject>section div.twocols ul:first-child{margin-top:0!important}div#\:\$p>svg>foreignObject>section div.twocols p.break{break-before:column;margin-top:0}
+/* Center images with "center" label */div#\:\$p>svg>foreignObject>section img[alt~=center]{display:block;margin:0 auto}
+/* Clear background with "transparent" label */div#\:\$p>svg>foreignObject>section img[alt~=transparent]{mix-blend-mode:multiply}
+/* figure {
+  mix-blend-mode: multiply;
+  background: #DFDFDA;
+} */
+/* Highlighting line in code block */
+/* https://github.com/marp-team/marp-vscode/issues/146 */div#\:\$p>svg>foreignObject>section .highlighted-line{background-color:#ff0;display:block;margin:0 -16px;padding:0 16px}div#\:\$p>svg>foreignObject>section .reveal-items-list li{list-style-type:none}div#\:\$p>svg>foreignObject>section .reveal-items-list ul{padding:0;list-style:none}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) ol{padding:0;margin:0;list-style:none}div#\:\$p>svg>foreignObject>section :is(pre,marp-pre) li{padding:0;margin:0;list-style:none}
+/*
+TODO:
+To show things one at a time
+https://github.com/marp-team/marpit/issues/209#issuecomment-551116303
+*/
+/* ul, ol {
+    list-style-type: none;
+    padding-left: 0;
+} */
+/* TODO: INCREASE FONT */div#\:\$p>svg>foreignObject>section[data-marpit-scope-f6h7Zm5s] ul{list-style-type:none;padding:0}div#\:\$p>svg>foreignObject>section[data-marpit-scope-biXwfuWo] .image-container{display:flex;justify-content:space-between}div#\:\$p>svg>foreignObject>section[data-marpit-scope-biXwfuWo] .image-container img{flex:1;max-width:33%;height:auto;object-fit:contain;margin:0 10px /* Adjust the margin as needed */}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]{columns:initial!important;display:block!important;padding:0!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]:after,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]:before,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content]:after,div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content]:before{display:none!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]{all:initial;display:flex;flex-direction:row;height:100%;overflow:hidden;width:100%}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container][data-marpit-advanced-background-direction=vertical]{flex-direction:column}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split]>div[data-marpit-advanced-background-container]{width:var(--marpit-advanced-background-split,50%)}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split=right]>div[data-marpit-advanced-background-container]{margin-left:calc(100% - var(--marpit-advanced-background-split, 50%))}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]>figure{all:initial;background-position:center;background-repeat:no-repeat;background-size:cover;flex:auto;margin:0}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=content],div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=pseudo]{background:transparent!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background=pseudo],div#\:\$p>svg[data-marpit-svg]>foreignObject[data-marpit-advanced-background=pseudo]{pointer-events:none!important}div#\:\$p>svg>foreignObject>section[data-marpit-advanced-background-split]{width:100%;height:100%}</style></head><body><div class="bespoke-marp-osc"><button data-bespoke-marp-osc="prev" tabindex="-1" title="Previous slide">Previous slide</button><span data-bespoke-marp-osc="page"></span><button data-bespoke-marp-osc="next" tabindex="-1" title="Next slide">Next slide</button><button data-bespoke-marp-osc="fullscreen" tabindex="-1" title="Toggle fullscreen (f)">Toggle fullscreen</button><button data-bespoke-marp-osc="presenter" tabindex="-1" title="Open presenter view (p)">Open presenter view</button></div><div id=":$p"><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="1" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="1" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+
+<h2 id="starting-soon">Starting Soon:</h2>
+<h1 id="provable-security-in-embedded-systems-verification-work-in-img-srcimgtocksvg-styleheight095em-os">Provable Security in Embedded Systems: Verification Work in <img src="./img/tock.svg" style="height:0.95em" /> OS</h1>
+<h2 id="by-samir-rashid">By Samir Rashid</h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="2" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="2" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="3" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<video controls width="1100" autoplay muted preload>
+  <source src="./img/Ariane_5.mp4" type="video/mp4" />
+<p><a href="https://www.youtube.com/watch?v=gp_D8r-2hwk&t=50s">YouTube link</a><br />
+</video></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="4" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+
+<h2 id="an-integer-overflow-caused-370m-to-vaporize-in-40-seconds"><strong>an integer overflow caused $370M to vaporize in 40 seconds</strong></h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" data-marpit-scope-f6h7Zm5s="" data-marpit-fragments="1" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-class="reveal-items-list" class="reveal-items-list" data-marpit-pagination="5" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;--class:reveal-items-list;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+
+<h5 id="thankfully-boeing-has-learned-from-this-incident-and-provably-avoids-overflow">Thankfully Boeing has learned from this incident and provably avoids overflow</h5>
+<ul>
+<li data-marpit-fragment="1">
+<h4 id="by-restarting-your-plane-br-br-center">by restarting your plane... <br /> <br /> <img src="./img/image-5.png" alt="center" /></h4>
+</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6" data-marpit-scope-biXwfuWo="" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="6" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<div class="image-container">
+    <img data-marpit-fragment src="./img/image-16.png" alt="transparent" />
+    <img data-marpit-fragment src="./img/image-17.png" alt="transparent" />
+    <img data-marpit-fragment src="./img/image-18.png" alt="transparent" />
+</div>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}"><h1>Compile time techniques for safer firmware</h1>
+<h2 id="samir-rashid-evan-johnson-nico-lehmann-ranjit-jhala"><strong>Samir Rashid</strong>, Evan Johnson, Nico Lehmann, Ranjit Jhala</h2>
+<h3 id="open-source-firmware-conference-september-3-2024">Open Source Firmware Conference, September 3, 2024</h3>
+<p><br /> <br /> <br /> <br /> <br /></p>
+<p>Presentation permalink:<br />
+<a href="https://godsped.com/safe-firmware/">godsped.com/safe-firmware</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="8" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/fault-locations.png" alt="center transparent" style="width:1200px;" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-marpit-fragments="6" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="9" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="classifying-bugs">Classifying bugs</h1>
+<ul>
+<li data-marpit-fragment="1"><strong>Memory management</strong>: buffer overflows, null dereference</li>
+<li data-marpit-fragment="2"><strong>Undefined behavior</strong><br />
+<br /></li>
+<li data-marpit-fragment="3"><strong>Faulty drivers</strong></li>
+<li data-marpit-fragment="4"><strong>Concurrency/Locking</strong> <br />
+<br /></li>
+<li data-marpit-fragment="5"><strong>Logic bugs</strong>: <em>semantic</em> errors </li>
+<li data-marpit-fragment="6"><strong>Malicious attacks</strong>: <code>xz</code> poisoned contributions </li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="10" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="1-compartmentalizing-firmware-with-rust">1. Compartmentalizing firmware with Rust</h1>
+<h2 id="2-lightweight-verification-for-firmware">2. Lightweight verification for firmware</h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11" data-marpit-fragments="5" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="11" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="tock-os">Tock OS</h1>
+<ul>
+<li data-marpit-fragment="1">embedded operating system</li>
+<li data-marpit-fragment="2">designed for safe, robust multitenancy on microcontrollers</li>
+</ul>
+<br />
+<ul>
+<li data-marpit-fragment="3">used at <img src="././img/UCSD_logo.png" style="height:1.5em" /> <img src="././img/princeton.png" style="height:2.5em" /> <img src="././img/stanford.webp" style="height:2em" alt="transparent" /></li>
+<li data-marpit-fragment="4">used in industry by Google, Microsoft, HP, Western Digital</li>
+<li data-marpit-fragment="5"><img src="././img/opensk.png" style="height:5em" alt="transparent" /> <img src="././img/opentitan.png" style="height:5em" /></li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12" data-marpit-fragments="3" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="12" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="processes-hardware-protection">Processes: hardware protection</h1>
+<div class="twocols">
+<br />
+<ul>
+<li data-marpit-fragment="1">isolated by Memory Protection Unit</li>
+<li data-marpit-fragment="2">written in any language</li>
+<li data-marpit-fragment="3">loadable and restartable</li>
+</ul>
+<p class="break"></p>
+<p><img src="./img/./architecture_simplified_proc.png" alt="transparent" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-marpit-fragments="6" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="13" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="capsules-drivers-are-isolated-by-rust">Capsules (drivers) are isolated by Rust</h1>
+<div class="twocols">
+<br />
+<ul>
+<li data-marpit-fragment="1">written in <strong>safe</strong> Rust</li>
+<li data-marpit-fragment="2">users choose which capsules to trust </li>
+<li data-marpit-fragment="3"><strong>zero-size capabilities</strong> enable access to privileged functions </li>
+<li data-marpit-fragment="4"><strong>zero cost</strong> overhead for this isolation via Rust language safety</li>
+<li data-marpit-fragment="5">static memory usage </li>
+<li data-marpit-fragment="6"><strong>capsule threat model is buggy but not malicious</strong></li>
+</ul>
+<p class="break"></p>
+<p><img src="./img/./architecture_simplified_capsule.png" alt="transparent" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14" data-marpit-fragments="2" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="14" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="kernel">Kernel</h1>
+<div class="twocols">
+<br />
+<ul>
+<li data-marpit-fragment="1">small Trusted Compute Base</li>
+<li data-marpit-fragment="2">safety via Rust's language sandbox</li>
+</ul>
+<p class="break"></p>
+<p><img src="./img/./architecture_simplified.png" alt="transparent" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15" data-marpit-fragments="9" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="15" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="secure-by-design">Secure by design</h1>
+
+<ul>
+<li data-marpit-fragment="1"><strong>Rust</strong>
+<ul>
+<li data-marpit-fragment="2"><strong>Memory management</strong>         <img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2705.svg" data-marp-twemoji=""/> Rust language safety</li>
+<li data-marpit-fragment="3"><strong>Undefined behavior</strong>             <img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2705.svg" data-marp-twemoji=""/> undefined behavior is explicit with <code>unsafe</code></li>
+</ul>
+</li>
+<li data-marpit-fragment="4"><strong>Architecture</strong> 
+<ul>
+<li data-marpit-fragment="5"><strong>Faulty drivers</strong>                       <img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2705.svg" data-marp-twemoji=""/> capsules are isolated</li>
+<li data-marpit-fragment="6"><strong>Concurrency/Locking</strong>          <img class="emoji" draggable="false" alt="✅" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2705.svg" data-marp-twemoji=""/></li>
+</ul>
+</li>
+<li data-marpit-fragment="7"><strong><img class="emoji" draggable="false" alt="❓" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2753.svg" data-marp-twemoji=""/><img class="emoji" draggable="false" alt="❓" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2753.svg" data-marp-twemoji=""/><img class="emoji" draggable="false" alt="❓" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/2753.svg" data-marp-twemoji=""/></strong> 
+<ul>
+<li data-marpit-fragment="8"><strong>Logic bugs</strong>                             <img class="emoji" draggable="false" alt="⚠" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/26a0.svg" data-marp-twemoji=""/> testing and code review is not enough</li>
+<li data-marpit-fragment="9"><strong>Malicious attacks</strong>                  <img class="emoji" draggable="false" alt="❌" src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@14.1.2/assets/svg/274c.svg" data-marp-twemoji=""/>️</li>
+</ul>
+</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="16" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="you-can-still-have-a-lot-of-bugs">you can still have A LOT OF bugs</h1>
+<p><img src="./img/image-1.png" alt="center" /></p>
+<p><a href="https://www.usenix.org/system/files/conference/atc16/atc16_paper-huang.pdf">Huang 2016</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="17" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="bugs-stay-undetected-and-exploitable-for-years">bugs stay undetected (and exploitable) for years</h1>
+<p><img src="./img/./faults.png" alt="center" style="width:900px;" /></p>
+<p><a href="https://coccinelle.gitlabpages.inria.fr/website/papers/asplos11.pdf">Palix 2011</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="18" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h2 id="1-compartmentalizing-firmware-with-rust-1">1. Compartmentalizing firmware with Rust</h2>
+<h1 id="2-lightweight-verification-for-firmware-1">2. Lightweight verification for firmware</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="19" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="what-is-formal-verification">what is formal verification?</h1>
+<h2>
+<blockquote>
+<p>Formal verification is the process of using automatic proof procedures to establish that a computer program will do what it’s supposed to.</p>
+</blockquote>
+</h2>
+<p>- <a href="https://www.amazon.science/blog/how-to-integrate-formal-proofs-into-software-development">Amazon</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="20" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h2 id="here-are-all-the-rumors-you-have-heard"><strong>here are all the rumors you have heard</strong></h2>
+<ul>
+<li>&quot;It is so slow&quot;</li>
+<li>&quot;I don't want to rewrite my code&quot;</li>
+<li>&quot;You need a PhD in formal methods first&quot;</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="21" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h2 id="here-are-all-the-rumors-you-have-heard-1"><strong>here are all the rumors you have heard</strong></h2>
+<ul>
+<li>&quot;it is so slow&quot; -&gt; <strong>takes seconds</strong></li>
+<li>&quot;I don't want to rewrite my code&quot; -&gt; <strong>incrementally retrofit existing code</strong></li>
+<li>&quot;You need a PhD in formal methods first&quot; -&gt; <strong>actually it's easy!</strong></li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="22" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="demo-abs">Demo: <code>abs()</code></h1>
+<iframe
+  id="inlineFrameExample"
+  title="Inline Frame Example"
+  width="100%"
+  height="100%"
+  src="https://flux.programming.systems/?code=U1aMTszJyS_XKM0rLU5N0Yzl4krLU0hMKtaosFLINDbSVNC1A9EK1VwKCplpChUKdrYKBmCegkIFkKxVSM0pToUK6IJFuGoB">
+</iframe>
+<a style="text-align: center; font-size: 1em;" href="https://flux.programming.systems/?code=U1aMTszJyS_XKM0rLU5N0Yzl4krLU0hMKtaosFLINDbSVNC1A9EK1VwKCplpChUKdrYKBmCegkIFkKxVSM0pToUK6IJFuGoB">
+https://flux.programming.systems/
+</a>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="23" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="example-of-running-the-type-system-on-a-function">Example of running the type system on a function</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">fn</span> <span class="hljs-title function_">abs</span>(x: <span class="hljs-type">i32</span>) <span class="hljs-punctuation">-&gt;</span> <span class="hljs-type">i32</span> {
+  <span class="hljs-keyword">if</span> x &gt;= <span class="hljs-number">0</span> {
+    x
+  } <span class="hljs-keyword">else</span> {
+    -x
+  }
+}
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="24" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h2 id="then-we-can-add-this">then we can add this</h2>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-meta">#[flux::sig(fn(x: i32) -&gt; {v. i32[v]</span> | v &gt;= <span class="hljs-number">0</span> &amp;&amp; v &gt;= x})]
+</code></pre>
+<h2 id="fails-because-absmin_int-overflows">fails because <code>abs(MIN_INT)</code> overflows</h2>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-meta">#[flux::sig(fn(x: i32{x != i32::MIN}) -&gt; {v. i32[v]</span> | v &gt;= <span class="hljs-number">0</span> &amp;&amp; v &gt;= x})]
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="25" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="liquid-types">liquid types</h1>
+<h2 id="liquid-types--types--decidable-logical-predicates">liquid types = types + <em>decidable</em> logical predicates</h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="26" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="demo-refine-pmp-from-risc-v-spec">Demo: refine PMP from RISC-V spec</h1>
+
+<h2 id="goal-encode-the-spec-into-the-code"><strong>Goal: encode the spec into the code</strong></h2>
+<p>we are still working on the formal model, but this is the high level for how you would apply liquid types to abstract properties</p>
+<p>This means you can reduce trust on the kernel and rely on the specification of the flux annotations to maintain memory isolation.</p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="27" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/./issue.png" alt="" /></p>
+<p><a href="https://github.com/tock/tock/issues/3541">tock#3541</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="28" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/./pmp1.png" alt="" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="29" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="29" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/./pmp2.png" alt="" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="30" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/./pmp3.png" alt="" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31" data-marpit-fragments="9" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="31" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="summary">Summary</h1>
+
+<ul>
+<li data-marpit-fragment="1"><strong>Rust</strong>
+<ul>
+<li data-marpit-fragment="2"><strong>Memory management</strong> Rust language safety</li>
+<li data-marpit-fragment="3"><strong>Undefined behavior</strong> is explicit and minimized</li>
+</ul>
+</li>
+<li data-marpit-fragment="4"><strong>Architecture</strong>
+<ul>
+<li data-marpit-fragment="5"><strong>Faulty drivers</strong> capsules are isolated from kernel</li>
+<li data-marpit-fragment="6"><strong>Concurrency/Locking</strong> avoided</li>
+</ul>
+</li>
+<li data-marpit-fragment="7"><strong>Lightweight verification</strong>
+<ul>
+<li data-marpit-fragment="8"><strong>Logic bugs</strong> via verification</li>
+<li data-marpit-fragment="9"><strong>Malicious attacks</strong> cannot break the easily auditable compile-time safety</li>
+</ul>
+</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="32" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h2 id="tock-safe-embedded-operating-system">Tock: safe embedded operating system</h2>
+<p>Tock is open source!<br />
+<a href="https://tockos.org/">https://tockos.org/</a><br />
+Join Tock Slack, Matrix, verification mailing list</p>
+<h2 id="flux-scalable-rust-verification">Flux: scalable Rust verification</h2>
+<blockquote>
+<p>Proving should be as easy as programming</p>
+</blockquote>
+<p><a href="https://github.com/flux-rs/flux/">https://github.com/flux-rs/flux/</a></p>
+<p><a href="https://flux.programming.systems/">https://flux.programming.systems/</a></p>
+<h2 id="presentation-permalink-godspedcomsafe-firmware">Presentation permalink: <a href="https://godsped.com/safe-firmware/">godsped.com/safe-firmware</a></h2>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="33" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="33" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="errata-slide">Errata slide</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="34" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="34" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="backup-slides">backup slides</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="35" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="35" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="walkthrough">Walkthrough</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">fn</span> <span class="hljs-title function_">abs</span>(x: <span class="hljs-type">i32</span>) <span class="hljs-punctuation">-&gt;</span> <span class="hljs-type">i32</span> {
+    <span class="hljs-keyword">if</span> x &lt; <span class="hljs-number">0</span> {
+      <span class="hljs-number">0</span> - x
+    } <span class="hljs-keyword">else</span> {
+        x
+    }
+}
+</code></pre>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs">x : <span class="hljs-type">i32</span>
+<span class="hljs-number">0</span> : <span class="hljs-type">i32</span>{v: v == <span class="hljs-number">0</span>}
+x &lt; <span class="hljs-number">0</span> :: <span class="hljs-type">bool</span>{b: b == x &lt; <span class="hljs-number">0</span> }
+<span class="hljs-number">0</span> - x :: <span class="hljs-type">i32</span>{n: n == <span class="hljs-number">0</span> - x }
+
+<span class="hljs-keyword">if</span> x &lt; <span class="hljs-number">0</span> then <span class="hljs-number">0</span> - x <span class="hljs-keyword">else</span> x
+    :: <span class="hljs-type">i32</span>{n:
+       |    (      x &lt; <span class="hljs-number">0</span>  =&gt; n == <span class="hljs-number">0</span> - x )
+         &amp;&amp; ( <span class="hljs-title function_ invoke__">not</span> (x &lt; <span class="hljs-number">0</span>) =&gt; n == x     )
+       }
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="36" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="36" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p>The inferred type is stronger than the postcondition we originally requested:</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">if</span> x &lt; <span class="hljs-number">0</span> then <span class="hljs-number">0</span> - x <span class="hljs-keyword">else</span> x
+    :: <span class="hljs-type">i32</span>{n : <span class="hljs-number">0</span> &lt;= n }
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="37" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="37" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="smt-solver">SMT solver</h1>
+<p>Flux uses a Satisfiability Modulo Theories to check typing rules</p>
+<p>Flux will ask an SMT solver (Z3) if the return type is a subtype of the function return type.</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">if</span> x &lt; <span class="hljs-number">0</span> then <span class="hljs-number">0</span> - x <span class="hljs-keyword">else</span> x
+    :: <span class="hljs-type">i32</span>{n:
+       |    (      x &lt; <span class="hljs-number">0</span>  =&gt; n == <span class="hljs-number">0</span> - x )
+         &amp;&amp; ( <span class="hljs-title function_ invoke__">not</span> (x &lt; <span class="hljs-number">0</span>) =&gt; n == x     )
+       }
+</code></pre>
+<p>... is a subtype of the user-supplied type:</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">if</span> x &lt; <span class="hljs-number">0</span> then <span class="hljs-number">0</span> - x <span class="hljs-keyword">else</span> x
+    :: <span class="hljs-type">i32</span>{n : <span class="hljs-number">0</span> &lt;= n }
+</code></pre>
+<p><a href="https://github.com/Gabriella439/slides/blob/main/liquidhaskell/slides.md">src</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="38" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="38" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="key-point">Key point</h1>
+<p>Able to reason about complex thingss in an imperative language due to Rust ownership</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">fn</span> <span class="hljs-title function_">ris</span>() {
+  <span class="hljs-keyword">let</span> <span class="hljs-keyword">mut </span><span class="hljs-variable">x</span> = <span class="hljs-built_in">vec!</span>[<span class="hljs-number">0</span>, <span class="hljs-number">1</span>];  <span class="hljs-comment">// x: Vec&lt;i32&gt;</span>
+  <span class="hljs-keyword">let</span> <span class="hljs-variable">y</span> = x;               <span class="hljs-comment">// x: Uninit, y: Vec&lt;i32&gt;</span>
+  x = <span class="hljs-built_in">vec!</span>[<span class="hljs-number">2</span>, <span class="hljs-number">3</span>]           <span class="hljs-comment">// x: Vec&lt;i32&gt;, y: Vec&lt;i32&gt;</span>
+}
+
+<span class="hljs-keyword">fn</span> <span class="hljs-title function_">hefe</span>() {
+    <span class="hljs-keyword">let</span> <span class="hljs-keyword">mut </span><span class="hljs-variable">x</span> = <span class="hljs-number">0</span>;      <span class="hljs-comment">// x: i32[0]</span>
+    x += <span class="hljs-number">10</span>;            <span class="hljs-comment">// x: i32[10]</span>
+    x += <span class="hljs-number">10</span>;            <span class="hljs-comment">// x: i32[20]</span>
+}
+
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="39" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="39" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p>At any given time, you can have either one mutable reference or any number of shared references.</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">fn</span> <span class="hljs-title function_">decr</span>(x: &amp;<span class="hljs-keyword">mut</span> {v. <span class="hljs-type">i32</span>[v] | v &gt; <span class="hljs-number">0</span>}) {
+   *x -= <span class="hljs-number">1</span>;
+}
+
+</code></pre>
+<p>Writing through an &amp;mut reference must preserve refinements</p>
+<p>Can fix by</p>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs"><span class="hljs-keyword">fn</span> <span class="hljs-title function_">decr</span>(x: &amp;<span class="hljs-keyword">mut</span> {v. <span class="hljs-type">i32</span>[v] | v &gt; <span class="hljs-number">0</span>}) {
+   <span class="hljs-keyword">let</span> <span class="hljs-variable">n</span> = *x;
+   <span class="hljs-keyword">if</span> n &gt; <span class="hljs-number">1</span> {
+      *x = n - <span class="hljs-number">1</span>;
+   }
+}
+
+</code></pre>
+<p>Does get a bit more complicated with mutable changes where the type changes.</p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="40" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="40" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="java-binary-search-slide">Java binary search slide</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="41" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="41" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="what-is-an-smt-solver">What is an SMT solver</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="42" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="42" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="recap">Recap</h1>
+<ol>
+<li>Completely untrusted (by kernel, each other): Applications</li>
+<li>Trusted for liveness, software enforcement of memory<br />
+safety: Kernel capsules (networking stack, console, sensor<br />
+drivers, virtualization layers), chip specific code</li>
+<li>Completely trusted: Core kernel (board/architecture spe-<br />
+cific code, scheduler, configuration)</li>
+</ol>
+<p><a href="https://people.eecs.berkeley.edu/~prabal/pubs/papers/ayers22tiered.pdf">Tiered Trust</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="43" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="43" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="grammar-of-refinements">Grammar of refinements</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-rs">r ::= n                     <span class="hljs-comment">// numbers 1,2,3...</span>
+    | x                     <span class="hljs-comment">// identifiers x,y,z...</span>
+    | x.f                   <span class="hljs-comment">// index-field access</span>
+    | r + r                 <span class="hljs-comment">// addition</span>
+    | r - r                 <span class="hljs-comment">// subtraction</span>
+    | n * e                 <span class="hljs-comment">// multiplication by constant</span>
+    | <span class="hljs-keyword">if</span> r { r } <span class="hljs-keyword">else</span> { r } <span class="hljs-comment">// if-then-else</span>
+    | <span class="hljs-title function_ invoke__">f</span>(r...)               <span class="hljs-comment">// function application</span>
+    | <span class="hljs-literal">true</span> | <span class="hljs-literal">false</span>          <span class="hljs-comment">// booleans</span>
+    | r == r                <span class="hljs-comment">// equality</span>
+    | r != r                <span class="hljs-comment">// not equal</span>
+    | r &lt; r                 <span class="hljs-comment">// less than</span>
+    | r &lt;= r                <span class="hljs-comment">// less than or equal</span>
+    | r &gt; r                 <span class="hljs-comment">// greater than</span>
+    | r &gt;= r                <span class="hljs-comment">// greater than or equal</span>
+    | r || r                <span class="hljs-comment">// disjunction</span>
+    | r &amp;&amp; r                <span class="hljs-comment">// conjunction</span>
+    | r =&gt; r                <span class="hljs-comment">// implication</span>
+    | !r                    <span class="hljs-comment">// negation</span>
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="44" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="44" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="tock-architecture">Tock Architecture</h1>
+<p><img src="./img/image-14.png" alt="center transparent" style="width:900px;" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="45" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="45" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="tock-architecture-1">Tock Architecture</h1>
+<p><img src="./img/image-15.png" alt="center transparent" style="width:900px;" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="46" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="46" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="flux-loc-overhead">Flux LOC overhead</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="47" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="47" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="flux-typing-runtime-overhead-seconds">Flux typing runtime overhead (seconds)</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="48" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="48" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="rvec">Rvec</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="49" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="49" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/image-20.png" alt="alt text" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="50" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="50" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="random-claims">random claims</h1>
+<p><img src="./img/image-8.png" alt="center" /><br />
+Linux is huge and growing<br />
+<a href="https://coccinelle.gitlabpages.inria.fr/website/papers/asplos11.pdf">Palix 2011</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="51" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="51" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/image-11.png" alt="center transparent" /></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="52" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="52" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="example-of-a-more-complex-property">example of a more complex property</h1>
+<p><strong>Security of a sandbox - read wave</strong><br />
+security of IFC - read other paper<br />
+Show LOC stats<br />
+high level idea of memory protection in tock</p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="53" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="53" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p><img src="./img/image-19.png" alt="alt text" /><br />
+squirrelfs</p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="54" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="54" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<p>Typestate guard against power leaks</p>
+<p>RAII where the objects are hardware</p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="55" data-marpit-fragments="5" data-header="&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;" data-paginate="true" data-marpit-pagination="55" data-marpit-pagination-total="55" style="--header:&lt;img src=&quot;./img/osfc.png&quot; width=50% align=right style=&quot;margin:0% -235% 0%  0%;&quot; &gt;;--paginate:true;" data-transition-back="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}" data-transition="{&quot;name&quot;:&quot;fade&quot;,&quot;builtinFallback&quot;:true}">
+<header><img src="./img/osfc.png" width=50% align=right style="margin:0% -235% 0%  0%;" /></header>
+<h1 id="downsides">Downsides</h1>
+
+<ul>
+<li data-marpit-fragment="1">More mental effort
+<ul>
+<li data-marpit-fragment="2">but now you understand your code...</li>
+</ul>
+</li>
+<li data-marpit-fragment="3">Active development
+<ul>
+<li data-marpit-fragment="4">currently, not stable!!!</li>
+</ul>
+</li>
+<li data-marpit-fragment="5">Not as powerful as other formal methods</li>
+</ul>
+</section>
+<script>!function(){"use strict";const t={h1:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"1"},style:"display: block; font-size: 2em; margin-block-start: 0.67em; margin-block-end: 0.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h2:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"2"},style:"display: block; font-size: 1.5em; margin-block-start: 0.83em; margin-block-end: 0.83em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h3:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"3"},style:"display: block; font-size: 1.17em; margin-block-start: 1em; margin-block-end: 1em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h4:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"4"},style:"display: block; margin-block-start: 1.33em; margin-block-end: 1.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h5:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"5"},style:"display: block; font-size: 0.83em; margin-block-start: 1.67em; margin-block-end: 1.67em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},h6:{proto:()=>HTMLHeadingElement,attrs:{role:"heading","aria-level":"6"},style:"display: block; font-size: 0.67em; margin-block-start: 2.33em; margin-block-end: 2.33em; margin-inline-start: 0px; margin-inline-end: 0px; font-weight: bold;"},span:{proto:()=>HTMLSpanElement},pre:{proto:()=>HTMLElement,style:"display: block; font-family: monospace; white-space: pre; margin: 1em 0; --marp-auto-scaling-white-space: pre;"}},e="data-marp-auto-scaling-wrapper",i="data-marp-auto-scaling-svg",n="data-marp-auto-scaling-container";class s extends HTMLElement{constructor(){super(),this.svgPreserveAspectRatio="xMinYMid meet";const t=t=>([e])=>{const{width:i,height:n}=e.contentRect;this[t]={width:i,height:n},this.updateSVGRect()};this.attachShadow({mode:"open"}),this.containerObserver=new ResizeObserver(t("containerSize")),this.wrapperObserver=new ResizeObserver(((...e)=>{t("wrapperSize")(...e),this.flushSvgDisplay()}))}static get observedAttributes(){return["data-downscale-only"]}connectedCallback(){var t,s,o,r,a;this.shadowRoot.innerHTML=`\n<style>\n  svg[${i}] { display: block; width: 100%; height: auto; vertical-align: top; }\n  span[${n}] { display: table; white-space: var(--marp-auto-scaling-white-space, nowrap); width: max-content; }\n</style>\n<div ${e}>\n  <svg part="svg" ${i}>\n    <foreignObject><span ${n}><slot></slot></span></foreignObject>\n  </svg>\n</div>\n    `.split(/\n\s*/).join(""),this.wrapper=null!==(t=this.shadowRoot.querySelector(`div[${e}]`))&&void 0!==t?t:void 0;const l=this.svg;this.svg=null!==(o=null===(s=this.wrapper)||void 0===s?void 0:s.querySelector(`svg[${i}]`))&&void 0!==o?o:void 0,this.svg!==l&&(this.svgComputedStyle=this.svg?window.getComputedStyle(this.svg):void 0),this.container=null!==(a=null===(r=this.svg)||void 0===r?void 0:r.querySelector(`span[${n}]`))&&void 0!==a?a:void 0,this.observe()}disconnectedCallback(){this.svg=void 0,this.svgComputedStyle=void 0,this.wrapper=void 0,this.container=void 0,this.observe()}attributeChangedCallback(){this.observe()}flushSvgDisplay(){const{svg:t}=this;t&&(t.style.display="inline",requestAnimationFrame((()=>{t.style.display=""})))}observe(){this.containerObserver.disconnect(),this.wrapperObserver.disconnect(),this.wrapper&&this.wrapperObserver.observe(this.wrapper),this.container&&this.containerObserver.observe(this.container),this.svgComputedStyle&&this.observeSVGStyle(this.svgComputedStyle)}observeSVGStyle(t){const e=()=>{const i=(()=>{const e=t.getPropertyValue("--preserve-aspect-ratio");if(e)return e.trim();return`x${(({textAlign:t,direction:e})=>{if(t.endsWith("left"))return"Min";if(t.endsWith("right"))return"Max";if("start"===t||"end"===t){let i="rtl"===e;return"end"===t&&(i=!i),i?"Max":"Min"}return"Mid"})(t)}YMid meet`})();i!==this.svgPreserveAspectRatio&&(this.svgPreserveAspectRatio=i,this.updateSVGRect()),t===this.svgComputedStyle&&requestAnimationFrame(e)};e()}updateSVGRect(){var t,e,i,n,s,o,r;let a=Math.ceil(null!==(e=null===(t=this.containerSize)||void 0===t?void 0:t.width)&&void 0!==e?e:0);const l=Math.ceil(null!==(n=null===(i=this.containerSize)||void 0===i?void 0:i.height)&&void 0!==n?n:0);void 0!==this.dataset.downscaleOnly&&(a=Math.max(a,null!==(o=null===(s=this.wrapperSize)||void 0===s?void 0:s.width)&&void 0!==o?o:0));const c=null===(r=this.svg)||void 0===r?void 0:r.querySelector(":scope > foreignObject");if(null==c||c.setAttribute("width",`${a}`),null==c||c.setAttribute("height",`${l}`),this.svg&&(this.svg.setAttribute("viewBox",`0 0 ${a} ${l}`),this.svg.setAttribute("preserveAspectRatio",this.svgPreserveAspectRatio),this.svg.style.height=a<=0||l<=0?"0":""),this.container){const t=this.svgPreserveAspectRatio.toLowerCase();this.container.style.marginLeft=t.startsWith("xmid")||t.startsWith("xmax")?"auto":"0",this.container.style.marginRight=t.startsWith("xmi")?"auto":"0"}}}const o=(t,{attrs:e={},style:i})=>class extends t{constructor(...t){super(...t);for(const[t,i]of Object.entries(e))this.hasAttribute(t)||this.setAttribute(t,i);this.attachShadow({mode:"open"})}static get observedAttributes(){return["data-auto-scaling"]}connectedCallback(){this._update()}attributeChangedCallback(){this._update()}_update(){const t=i?`<style>:host { ${i} }</style>`:"";let e="<slot></slot>";const{autoScaling:n}=this.dataset;if(void 0!==n){e=`<marp-auto-scaling exportparts="svg:auto-scaling" ${"downscale-only"===n?"data-downscale-only":""}>${e}</marp-auto-scaling>`}this.shadowRoot.innerHTML=t+e}};let r;const a=Symbol();let l;const c="marpitSVGPolyfill:setZoomFactor,",d=Symbol(),g=Symbol();const h=()=>{const t="Apple Computer, Inc."===navigator.vendor,e=t?[u]:[],i={then:e=>(t?(async()=>{if(void 0===l){const t=document.createElement("canvas");t.width=10,t.height=10;const e=t.getContext("2d"),i=new Image(10,10),n=new Promise((t=>{i.addEventListener("load",(()=>t()))}));i.crossOrigin="anonymous",i.src="data:image/svg+xml;charset=utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2210%22%20height%3D%2210%22%20viewBox%3D%220%200%201%201%22%3E%3CforeignObject%20width%3D%221%22%20height%3D%221%22%20requiredExtensions%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%3E%3Cdiv%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxhtml%22%20style%3D%22width%3A%201px%3B%20height%3A%201px%3B%20background%3A%20red%3B%20position%3A%20relative%22%3E%3C%2Fdiv%3E%3C%2FforeignObject%3E%3C%2Fsvg%3E",await n,e.drawImage(i,0,0),l=e.getImageData(5,5,1,1).data[3]<128}return l})().then((t=>{null==e||e(t?[u]:[])})):null==e||e([]),i)};return Object.assign(e,i)};let p,m;function u(t){const e="object"==typeof t&&t.target||document,i="object"==typeof t?t.zoom:t;window[g]||(Object.defineProperty(window,g,{configurable:!0,value:!0}),document.body.style.zoom=1.0001,document.body.offsetHeight,document.body.style.zoom=1,window.addEventListener("message",(({data:t,origin:e})=>{if(e===window.origin)try{if(t&&"string"==typeof t&&t.startsWith(c)){const[,e]=t.split(","),i=Number.parseFloat(e);Number.isNaN(i)||(m=i)}}catch(t){console.error(t)}})));let n=!1;Array.from(e.querySelectorAll("svg[data-marpit-svg]"),(t=>{var e,s,o,r;t.style.transform||(t.style.transform="translateZ(0)");const a=i||m||t.currentScale||1;p!==a&&(p=a,n=a);const l=t.getBoundingClientRect(),{length:c}=t.children;for(let i=0;i<c;i+=1){const n=t.children[i];if(n.getScreenCTM){const t=n.getScreenCTM();if(t){const i=null!==(s=null===(e=n.x)||void 0===e?void 0:e.baseVal.value)&&void 0!==s?s:0,c=null!==(r=null===(o=n.y)||void 0===o?void 0:o.baseVal.value)&&void 0!==r?r:0,d=n.children.length;for(let e=0;e<d;e+=1){const s=n.children[e];if("SECTION"===s.tagName){const{style:e}=s;e.transformOrigin||(e.transformOrigin=`${-i}px ${-c}px`),e.transform=`scale(${a}) matrix(${t.a}, ${t.b}, ${t.c}, ${t.d}, ${t.e-l.left}, ${t.f-l.top}) translateZ(0.0001px)`;break}}}}}})),!1!==n&&Array.from(e.querySelectorAll("iframe"),(({contentWindow:t})=>{null==t||t.postMessage(`${c}${n}`,"null"===window.origin?"*":window.origin)}))}function v({once:t=!1,target:e=document}={}){const i=function(t=document){if(t[d])return t[d];let e=!0;const i=()=>{e=!1,delete t[d]};Object.defineProperty(t,d,{configurable:!0,value:i});let n=[],s=!1;(async()=>{try{n=await h()}finally{s=!0}})();const o=()=>{for(const e of n)e({target:t});s&&0===n.length||e&&window.requestAnimationFrame(o)};return o(),i}(e);return t?(i(),()=>{}):i}p=1,m=void 0;const b=Symbol(),w=(e=document)=>{if("undefined"==typeof window)throw new Error("Marp Core's browser script is valid only in browser context.");if(((e=document)=>{const i=window[a];i||customElements.define("marp-auto-scaling",s);for(const n of Object.keys(t)){const s=`marp-${n}`,a=t[n].proto();null!=r||(r=!!document.createElement("div",{is:"marp-auto-scaling"}).outerHTML.startsWith("<div is")),r&&a!==HTMLElement?i||customElements.define(s,o(a,{style:t[n].style}),{extends:n}):(i||customElements.define(s,o(HTMLElement,t[n])),e.querySelectorAll(`${n}[is="${s}"]`).forEach((t=>{t.outerHTML=t.outerHTML.replace(new RegExp(`^<${n}`,"i"),`<${s}`).replace(new RegExp(`</${n}>$`,"i"),`</${s}>`)})))}window[a]=!0})(e),e[b])return e[b];const i=v({target:e}),n=()=>{i(),delete e[b]},l=Object.assign(n,{cleanup:n,update:()=>w(e)});return Object.defineProperty(e,b,{configurable:!0,value:l}),l},y=document.currentScript;w(y?y.getRootNode():document)}();
+</script></foreignObject></svg></div><div class="bespoke-marp-note" data-index="0" tabindex="0"><p>[motivating opening story]</p><p>Good morning. It’s an honor to be invited here for osfc. I’m glad I have you all in the morning while everyone is fresh 😀</p><p>&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 300 120&quot; width=&quot;100%&quot;&gt;
+
+  &lt;line x1=&quot;10&quot; y1=&quot;10&quot; x2=&quot;290&quot; y2=&quot;10&quot; stroke=&quot;black&quot; stroke-width=&quot;2&quot;/&gt;
+
+  &lt;g id=&quot;arrow-group&quot; transform=&quot;translate(0, 10)&quot;&gt;
+    &lt;path id=&quot;arrow&quot; d=&quot;M0 25 L0 10 L-5 15 M0 10 L5 15&quot; fill=&quot;none&quot; stroke=&quot;blue&quot; stroke-width=&quot;2&quot;/&gt;
+  &lt;/g&gt;
+  
+  &lt;circle id=&quot;dot&quot; cx=&quot;250&quot; cy=&quot;10&quot; r=&quot;3&quot; fill=&quot;blue&quot; opacity=&quot;0&quot;&gt;
+    &lt;animate 
+      attributeName=&quot;opacity&quot;
+      values=&quot;0;0;1;1&quot;
+      keyTimes=&quot;0;0.45;0.451;1&quot;
+      dur=&quot;20s&quot;
+      repeatCount=&quot;indefinite&quot;
+    /&gt;
+  &lt;/circle&gt;
+
+  &lt;defs&gt;
+    &lt;style&gt;
+      @keyframes overflow {
+        0% { transform: translateX(10px); }
+        50% { transform: translateX(270px); }
+        51% { transform: translateX(10px); }
+        100% { transform: translateX(270px); }
+      }
+      #arrow-group {
+        animation: overflow 20s linear infinite;
+      }
+    &lt;/style&gt;
+  &lt;/defs&gt;
+&lt;/svg&gt;</p></div><div class="bespoke-marp-note" data-index="1" tabindex="0"><p>Intentionally empty to prevent video autoplay</p></div><div class="bespoke-marp-note" data-index="2" tabindex="0"><p>In 1996, the Ariane 5 rocket launched. The flight contol software was working to keep the rocket orientation vertical and manage the horizontal velocity.
+37 seconds into flight, an unsafe conversion of this 64 bit float to a 16 bit signed integer overflows and causes a hardware fault on both of the redundant inertial navifation systems. This hardware failure quickly cascades errors, leading the rocket to veer off course and self destruct.</p><p>Source:
+https://en.wikipedia.org/wiki/Ariane_flight_V88
+https://www.bugsnag.com/blog/bug-day-ariane-5-disaster/
+
+https://www.youtube.com/watch?v=gp_D8r-2hwk&amp;t=50s
+
+https://en.wikipedia.org/wiki/List_of_software_bugs</p></div><div class="bespoke-marp-note" data-index="3" tabindex="0"><p>In other words</p></div><div class="bespoke-marp-note" data-index="4" tabindex="0"><p>Oh you have to restart your plane. Oh, it's only potentially catastrophic.
+
+The bad news is that firmware has gone everywhere since the 1990s.</p><p>https://www.theregister.com/2020/04/02/boeing_787_power_cycle_51_days_stale_data/</p></div><div class="bespoke-marp-note" data-index="5" tabindex="0"><p>There is software **controlling your car, 
+
+your heart, 
+
+and your brain**. And these all have wireless access, and can be hacked.
+
+If firmware isn't reliable, then everything else above us on the software stack is compromised.
+
+https://www.popsci.com/technology/rivian-zonal-electrical-architecture/
+https://www.shutterstock.com/image-vector/human-heart-pacemaker-cardio-implant-1367119706</p></div><div class="bespoke-marp-note" data-index="6" tabindex="0"><p>My name is Samir Rashid and I am going to describe how the Tock operating system eliminates many bugs that plague other OSes at compile time and how we are mitigating logic bugs in Tock OS using lightweight formal verification.</p></div><div class="bespoke-marp-note" data-index="7" tabindex="0"><p>Before we see how Tock OS is safe, we need to understand our threat model. What kinds of bugs do systems face that we want to protect Tock from?
+
+If you look at the types of bugs in Linux, you will see two things. Most bugs are located in drivers and most to do with memory. Different types of bugs are not equally distributed, so protecting ourselves from some kinds of bugs actually prevents the vast majority of failures.</p></div><div class="bespoke-marp-note" data-index="8" tabindex="0"><p>Issues with race conditions or deadlock</p><p>programmer has a misunderstanding</p><p>(two tiered trust, no memory bugs,  no external deps)</p><p>We have a spectrum of bugs that range in difficulty to fix.
+Let's look at how Tock works to mitigate all these threats.
+
+https://tockos.org/documentation/design</p></div><div class="bespoke-marp-note" data-index="9" tabindex="0"><p>First I will give an overview of Tock OS and its design, then I will share our work applying formal verification to Tock.</p></div><div class="bespoke-marp-note" data-index="10" tabindex="0"><p>Tock is an OS for low-power embedded devices and enforces isolation and safety between processes. Tock is used as a research platform in many universities. Some use cases are as an OS for connected IoT devices or as a root of trust, as it is being used in OpenSK and OpenTitan. Tock runs on millions of consumer devices.</p><p>pluton OS and modern chromebook security processor</p><p># We need OSes to be safe
+
+&gt; We show that the lifespan of faults in Linux 2.6 is comparable
+&gt; to that observed for previous versions, at slightly under 2 years.
+&gt; Nevertheless, we find that fault kinds that are more likely to have
+&gt; a visible impact during execution have a much shorter average
+lifespan, of as little as one year
+
+&gt; Although fault-finding tools are now being used regularly in
+Linux development, they seem to have only had a small impact
+on the kinds of faults we consider. Research is thus needed on
+how such tools can be better integrated into the development
+process.
+
+https://coccinelle.gitlabpages.inria.fr/website/papers/asplos11.pdf
+
+---</p><p># most bugs come from drivers
+![center transparent](./img/image.png)
+
+---</p><p># most bugs are problems with `null` (memory safety)</p><p>![width:600px center transparent](./img/image-9.png)</p></div><div class="bespoke-marp-note" data-index="11" tabindex="0"><p>- stack will grow towards MPU boundary, preventing process data corruption. A reall issue on these severely memory constrained devices</p></div><div class="bespoke-marp-note" data-index="12" tabindex="0"><p>Capsules are also written in Rust and are compiled with the kernel, so you can choose which capsules to trust.</p><p>capabilities are enforced through the type system. Basically this means that a capsule that wants to do something privileged such as having control over the network, then it is given a type that says you can use the network at compile time. Then in order to call network functions it provides that type. This means that if a capsule tries to do something illegal, it will fail at compile time.</p><p>- move almost all memory and CPU overhead of security checks to compile-time</p><p>- gets memory from grant region of each process</p><p>* buggy userspace drivers cannot compromise system *integrity* as they are isolated from the rest of the kernel</p><p>TODO: show capability function signature?, gloss over explanation
+```rs
+pub fn manage_process&lt;C: ProcessManagementCapability&gt;(_c: &amp;C) {}
+
+pub unsafe trait ProcessManagementCapability {}
+```</p><p>need some compile time access to kernel but we are isolating them. we dont care that they can be buggy because they are isolated</p></div><div class="bespoke-marp-note" data-index="13" tabindex="0"><p>WE DO CARE ABOUT LOGIC BUGS in the kernel
+Uses unsafe Rust, but fundamentally abstractions over hardware need to be unsafe and trusted. do need to trust hardware drivers</p><p>The kernel is only a few thousand lines, so this pushes complexity to drivers. The kernel is written in Rust and Rust enforces memory safety for the system.</p></div><div class="bespoke-marp-note" data-index="14" tabindex="0"><p>TODO: these are not aligned</p><p>Rust is great, we have now eliminated memory and implicit undefined behavior.</p><p>Next, Tocks' architecture compartmentalizes the tiers you need to trust drivers, bypasses concurrency problems as it is not concurrent.</p><p>using safe Rust and disallowing external dependencies reduces Tock's attack surface, but bugs can always get through even the most scrutinized open source projects and now projects need to deal with the reality that there could be highly resourced attackers who want to exploit their project, such as what happened to xz.</p><p>[Threat model](https://github.com/tock/tock/tree/master/doc/threat_model), [Design](https://tockos.org/documentation/design)</p><p>TODO: mention *encapsulated functions* 
+
+# Note: concurrency
+
+- Tock is not concurrent so these don't apply
+- can use tools like Loom, Shuttle, Miri, mirai to stop undefined behavior and concurrency issues
+So we are left with this really tough problem. How do we deal with these last two?</p></div><div class="bespoke-marp-note" data-index="15" tabindex="0"><p>90% of patches to linux memory allocation code are bugfixes, code maintenance, and optimizations.  10% are new features</p></div><div class="bespoke-marp-note" data-index="16" tabindex="0"><p>If you look at bugs which have been fixed in the Linux kernel, they last on average about two years from introduction to fix.</p></div><div class="bespoke-marp-note" data-index="18" tabindex="0"><p>We want our programs to be “correct” and have certain properties - not leaking sensitive data, or is crash safe.</p></div><div class="bespoke-marp-note" data-index="21" tabindex="0"><p>I am going to be showing a tool called Flux. Flux is under active development and allows you to refine variables in Rust.
+
+So we have this funciton to do absolute value.
+Flux is modular, so if we want to express some properties about this function, then it is just like adding a type signature to this function.</p></div><div class="bespoke-marp-note" data-index="22" tabindex="0"><p>Typing is function wide</p><p>TODO: just say precondition, postcondition live. show the failure with no type signature. how can we fix this. then we can also show output is positive.</p><p>This works because Rust compiles and we have no constraints</p></div><div class="bespoke-marp-note" data-index="23" tabindex="0"><p>Say this during demo
+
+Subset of the parent type
+you can express whatever contraints you want</p></div><div class="bespoke-marp-note" data-index="24" tabindex="0"><p>Flux is built on liquid types, which is a form of refinement types.
+
+Another interesting use case is you could refine your own datastructures to prevent out of bounds indexing or redundant checks on function inputs.</p></div><div class="bespoke-marp-note" data-index="25" tabindex="0"><p>## Claim:: a lot of bugs happen when systems don't behave as the developer expects, or the hardware doesn't behave as the system expects</p><p>I got these requirements from the RISC-V spec. So now even without reading the code, just from looking at the types and function headers I know this code does have a correct view of the hardware. We can extend this to express certain invariants. For example, we always want the following property to hold: that a process can always access its own memory and not anyone else's.
+This makes it impossible to have the bug like we saw before.</p></div><div class="bespoke-marp-note" data-index="26" tabindex="0"><p>[tock#2135](https://github.com/tock/tock/issues/2135)</p><p>We are going to look at how you could prevent a bug like this from ever getting introduced. Do you think it is possible to prevent a logic bug like this at compile time?</p></div><div class="bespoke-marp-note" data-index="29" tabindex="0"><p>I have copied the headers from Zephyr
+
+```c
+static bool set_pmp_entry(unsigned int *index_p, uint8_t perm,
+			  uintptr_t start, size_t size,
+			  unsigned long *pmp_addr, unsigned long *pmp_cfg,
+			  unsigned int index_limit)
+```
+
+---</p><p># at compile time let's try illegal things
+
+Now with flux, our spec is in our code
+
+{before: comments, man page, hundreds of page intel spec} -&gt; rustc.
+
+LIVE DEMO: just add the type signatures to the todo!(); unimplemented functions
+
+Then show the development process that these things will fail at compile time.</p><p>---
+# Demo: `can_access` predicate
+Now these failures are great. But Flux gives us even more superpowers.
+
+- add the can_access predicate and find a bug (tock uncleared region bug).</p><p>How many of you can look at a MPU function in your code and know it cannot get called to accidentally expose kernel data to processes? It is probably not so easy! You either read through your code and will see some runtime code in the function which asserts this or you have no idea. You are waiting for an attacker to figure it out for you.
+Here seeing what your code guarantees is simply the act of reading the function signature and any annotated invariants.</p><p># Let's take a look at a real piece of code from Zephyr's MPU configuration and translate this to Tock+Flux
+
+```c
+/* Region definition data structure */
+struct arm_mpu_region {
+	/* Region Base Address */
+	uint32_t base;
+	/* Region Name */
+	const char *name;
+#if defined(CONFIG_CPU_AARCH32_CORTEX_R)
+	/* Region Size */
+	uint32_t size;
+#endif
+	/* Region Attributes */
+	arm_mpu_region_attr_t attr;
+};
+
+/* MPU configuration data structure */
+struct arm_mpu_config {
+	/* Number of regions */
+	uint32_t num_regions;
+	/* Regions */
+	const struct arm_mpu_region *mpu_regions;
+};
+```
+
+[zephyr/include/zephyr/arch/arm/mpu/arm_mpu.h](https://github.com/zephyrproject-rtos/zephyr/blob/6b8ebeb9d19a5c267c204e55fea889f955101362/include/zephyr/arch/arm/mpu/arm_mpu.h#L28)
+
+---</p><p># Now I am going to explain how this is working.
+
+- these are all subtypes, so they are still valid types
+- subtype encodes properties
+- can use SMT
+
+```c
+x = 0 // int[0]
+y = 1 // int[1]
+x + y // int[1] done by typing rules
+// but you can do this for arbitrary predicates
+```
+
+```
+another example fully annotated
+```
+
+---</p><p>---
+
+# You can catch index out of bounds
+
+```rs
+RVec
+
+fn refine_length of array
+```
+
+This *could* enable you to refactor your code to be faster since you won't need to use Rust runtime bounds checking as you know the length of your data statically.
+
+[bounds checking](https://readyset.io/blog/bounds-checks)
+[liquid haskell presentation](https://github.com/Gabriella439/slides/blob/main/liquidhaskell/slides.md)</p><p>Now you can safely index without using iterators. This could help performance by avoiding bounds checking on hot paths.</p><p>A refinement type denotes a subtype of another type, characterized by a given predicate. In our example, { i:Int | 0 &lt;= i &amp;&amp; i &lt; len xs } is a subtype of Int, whose values i satisfy the predicate 0 &lt;= i &amp;&amp; i &lt; len xs. The specifications allow us to name the arguments of functions and to refer to them in the predicates, such as the list argument named xs. The language used to describe a predicate is not Haskell, but a separate language with functions and logical connectives. When predicates need to refer to Haskell functions, the functions can be translated to the logic.
+
+The function elemAt continues to be partial in Haskell, but it is total according to its specification. And Liquid Haskell is powerful enough to check that elemAt meets the specification, i.e. given a valid index, the function won’t fail. It is a choice of the user to use Liquid Haskell to ensure that the invocations meet the specification as well, or to leave the invocations unverified. The solution not only leaves the original function untouched, which dependent types could also achieve, but it is remarkably economical in the way of expressing the property we care about.</p><p>![center](./img/image-7.png)</p><p>---
+
+# examples of bugs caught
+
+often the worst bugs are hard to reproduce or imagine (you have to imagine it to test it)
+
+you can only prove the existence of bugs with testing, not their absence
+
+Do you have any good examples. I have some mediocre ones.
+
+TODO: can i reproduce the timer bug here
+
+   &lt;style&gt;
+    .timeline-container {
+        position: relative;
+        width: 100%;
+        height: 50px;
+        background-color: #ddd;
+        border-radius: 25px;
+        overflow: hidden;
+    }
+
+    .arrow {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        background-color: #ff5722;
+        clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+        animation: moveArrow 5s linear infinite;
+        transform: rotate(0deg);
+        bottom: 0; /* Position arrow at the bottom */
+    }
+
+    .now-dot {
+        position: absolute;
+        right: 80px;
+        top: 50%;
+        transform: translateY(-50%);
+        width: 20px;
+        height: 20px;
+        background-color: #4caf50;
+        border-radius: 50%;
+    }
+
+    .time-display {
+        position: relative;
+        top: 20px;
+        font-size: 20px;
+        color: #333;
+        text-align: center;
+        width: 100%;
+    }
+
+    @keyframes moveArrow {
+        0% { left: -30px; }
+        100% { left: calc(100% + 30px); }
+    }
+&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;div class=&quot;timeline-container&quot;&gt;
+    &lt;div class=&quot;arrow&quot; id=&quot;arrow&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;now-dot&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;time-display&quot; id=&quot;timeDisplay&quot;&gt;The time to do this is 0&lt;/div&gt;
+
+&lt;script&gt;
+    const arrow = document.getElementById('arrow');
+    const timeDisplay = document.getElementById('timeDisplay');
+    const timelineWidth = document.querySelector('.timeline-container').offsetWidth;
+    const nowDotPosition = timelineWidth - 40; // Position of the &quot;now&quot; dot
+
+    function updateTime() {
+        const arrowPosition = arrow.getBoundingClientRect().left;
+        const distanceToNow = Math.abs(arrowPosition - nowDotPosition);
+
+        if (arrowPosition &lt; nowDotPosition - 300) {
+            timeDisplay.textContent = 'soon';
+/*         } else if (arrowPosition &gt;= nowDotPosition || arrowPosition &gt; nowDotPosition - 300) {
+            timeDisplay.textContent = 'now'; */
+        } else {
+            timeDisplay.textContent = `The time to do this is in ${Math.round(arrowPosition - timelineWidth + nowDotPosition)} days`;
+        }
+    }
+
+    setInterval(updateTime, 100); // Update the time display every 100ms
+&lt;/script&gt;</p><p>I don’t have great examples but I can show you there have been timer things caught in Tock via loose formal methods and the AWS example of hash collision.
+
+Developers have more confidence in implementing optimizations and accepting code changes in PRs.
+I have found bugs that are virtually impossible to find by reading the code. We will take a look at previous security bugs in Tock, how we came up with system properties to verify, and show how these problems are now impossible produce.</p></div><div class="bespoke-marp-note" data-index="30" tabindex="0"><p>Tock eliminates</p></div><div class="bespoke-marp-note" data-index="32" tabindex="0"><p>hi &gt; lo, doesnt overflow address
+
+- kernel/app break overlap. show arbitrary high level property and then verify that
+
+you donn't find bugs weeks later with fuzzing or months later with integration testing.
+
+TODO: learn the syntactic sugar, what is @
+TODO: read flux docs
+TODO: find WaVe src code
+TODO: NEED TO UNDERSTAND THAT KAPPA LOOP INVARIANT
+TODO: need to make sure flux highlighting squiglies works for live demo
+TODO: keep backup pdf, printout of extra section titles, tabs open with all demos</p><p>Here is a real bug Amazon found using methods similar to what we are doing
+
+[using-lightweight-formal-methods-to-validate-a-key-value](https://assets.amazon.science/07/6c/81bfc2c243249a8b8b65cc2135e4/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3.pdf)
+
+something about using https://github.com/proptest-rs/proptest with models
+
+https://github.com/GaloisInc/crucible
+https://github.com/model-checking/kani
+
+
+Even experts of the program they wrote can have a hard time debugging things. These bugs can be very costly.
+https://corp.roblox.com/newsroom/2022/01/roblox-return-to-service-10-28-10-31-2021
+
+Astrée: &quot;In 2003, Astrée proved the absence of any runtime errors in the primary flight-control software of an Airbus model. The system’s 132,000 lines of C code were analyzed completely automatically in only 80 minutes on a 2.8GHz 32-bit PC using 300MB of memory (and in only 50 minutes on an AMD Athlon 64 using 580MB of memory). Since then, Airbus France has been using Astrée in the development of safety-critical software for vari­ous plane series, including the A380.&quot;,
+
+&gt; Despite 20+ years of research on processor verification, it
+remains hard to use formal verification techniques in commercial pro-
+cessor development. There are two significant factors: scaling issues and
+return on investment. The scaling issues include the size of modern pro-
+cessor specifications, the size/complexity of processor designs, the size
+of design/verification teams and the (non)availability of enough formal
+verification experts. The return on investment issues include the need to
+start catching bugs early in development, the need to continue catching
+bugs throughout development, and the need to be able to reuse verifica-
+tion IP, tools and techniques across a wide range of design styles.
+https://alastairreid.github.io/papers/cav2016_isa_formal.pdf
+
+Tock is an open source project where we do not have control over what gets accepted. THus we have chosen this approach to gradually make PRs and show the value of merging this work. 
+
+Intel totally does not understand how their CPUs work https://danluu.com/cpu-bugs/
+
+Great Brad presentation on Tock internals: https://docs.google.com/presentation/d/1A7ug4snhK0XUDg7Cc1wWGqCrhlA02pBM/edit#slide=id.p1
+
+Toyota unintended acceleration
+https://www.nhtsa.gov/sites/nhtsa.gov/files/nasa-ua_report.pdf
+https://www.nhtsa.gov/sites/nhtsa.gov/files/nhtsa_report_execsum.pdf
+https://en.wikipedia.org/wiki/2009%E2%80%932011_Toyota_vehicle_recalls#Investigations
+https://users.ece.cmu.edu/~koopman/pubs/koopman14_toyota_ua_slides.pdf AMAZING SLIDES</p></div><div class="bespoke-marp-note" data-index="34" tabindex="0"><p>Let's try finding the type of abs()</p></div><div class="bespoke-marp-note" data-index="36" tabindex="0"><p>TODO: check my syntax here</p></div><div class="bespoke-marp-note" data-index="49" tabindex="0"><p>There are still ways to unexplicitlt panic https://stackoverflow.com/a/72705968</p><p>---
+
+# Logic bugs are the hardest to find. (thus we need verification)
+
+![center](./img/image-2.png)
+
+https://www.cs.purdue.edu/homes/lintan/publications/bugchar-emse14.pdf
+
+Logic bugs don't manifest as crashes, so it is not enough to do fully automated methods such as fuzzing. Fuzzing for properties will not capture every execution, so it is better to catch bugs earlier and faster with verification.  Fuzzing wont find bugs during development.
+
+* Rust does do runtime bounds checking for other kinds of indexing.
+Thankfully safe Rust doesn't have undefined behavior, apart from compiler bugs. The catch? It's that the defined behavior is to panic and crash.</p><p># Kinds of logic bugs
+- Indexing*
+- Integer overflows
+- Divide by zero
+- Application specific misbehaviors</p><p>https://www.cs.purdue.edu/homes/lintan/publications/bugchar-emse14.pdf</p></div><div class="bespoke-marp-note" data-index="51" tabindex="0"><p>https://github.com/flux-rs/flux-demo/blob/main/src/typestate.rs</p></div><div class="bespoke-marp-note" data-index="54" tabindex="0"><p>Flux and real world verification is still quite nascent, but the underlying theoretical foundations are decades old. And this robustness definitely shows. Our work using Flux is actively guiding its development as we work to make Flux production ready for anyone to use.</p><p>I think the future is combining different kinds of formal techniques. (like AWS shardstore)</p><p># Things are looking up</p><p>TODO: let's retrospect for a second, read backwards.</p><p>you donn't find bugs weeks later with fuzzing or months later with integration testing.</p><p>among subsystems
+![bg right fit](./img/image-3.png)
+
+https://www.cs.purdue.edu/homes/lintan/publications/bugchar-emse14.pdf
+---</p><p># Claim: bugs are not uniformly distributed
+
+![center width:700px](./img/image-6.png)
+
+or among files. ie. we know where the complexity lies and could capture and prove those areas to be bug free</p><p>TODO: mention these two facts, very interesting
+
+
+&gt; Summary: Linux mm is being actively updated,
+The code changes are highly concentrated around its
+key functionalities: 80% of the patches were com-
+mitted to the 25% of the source code.
+
+&lt;br&gt;
+
+&gt; 4.2 Semantic Bugs Are Dominant Root Causes.
+Figure 1(a) shows that the dominant root causes are semantic bugs in Mozilla,
+Apache, and the Linux kernel, accounting for 87.0% in Mozilla, 82.5% in
+Apache, and 70.1% in the Linux kernel.  
+
+We should be putting the most effort towards stopping the worst kinds of bugs (data loss, isolation breaks)</p><p>&gt; Memory Error (MErr): We find that null pointer
+dereferences (e.g., [45, 67, 76]) are the most common
+bugs because of the missing validations of pointers be-
+fore using them in mm
+
+---</p><p>&gt; Logic: We identify three important logic bugs: case-
+by-case, state update and fault handler. For the first
+two types, they may not stall the system or generate ex-
+ceptions immediately, but they make the system execute
+in unexpected workflow or states, resulting in incorrect
+states or runtime error eventually. Fixing these bugs of-
+ten require domain specific knowledge. For example,
+when shmem intends to replace a swap cache page, the
+original implementation calls cgroup migration without
+lrucare based on the incorrect assumption that the page
+is not on the LRU list
+
+https://www.usenix.org/system/files/conference/atc16/atc16_paper-huang.pdf
+
+---</p><p>They find that even mature memory alocators are bugging due to their complexity.
+We could verify specific properties
+Security bugs are increasing
+
+![center](./img/image-4.png)</p><p>we have had such a probelm with solving all corner cases in timers in tock. *insert joke*. It's time to squash these bugs. Oh wait the time is in four billion seconds.</p><p># gradual types for verification idea.
+
+- like optional typing in Python</p><p>What if we could optionally annotate with logical constraints in the same way you use any type system
+So easy to prevent divide by zero bugs at compile time
+YOU GET FEEDBACK ON BUGS WHILE YOU DEVELOP! NOT AFTER like in model checking or less formal processes like automobile certification</p><p>- gradual and noninvasive
+- does not require you to be an expert to verify.</p><p>What does this look like</p><p>do the cool inverted blue box focus around this (logic errors)
+
+The problem is not the number of bugs, but its severity.</p><p>For this section, I'm going to go over formal verification. We are going to take a look at the most serious bug ever in Tock's memory isolation and learn how to provably prevent it from ever happening again. 
+We are going to build up some intuition for how to prevent this from happening.</p><p>---
+
+# Idea
+
+You Index types with pure values
+```js
+         B[v]
+Base-Type    Refinement Index
+```
+
+Meaning of the index depends on the type
+
+&lt;br&gt;
+
+i32 is indexed by the (pure) integer it is equal to
+```rs {1}
+let x = 5;     : i32[5]
+let y = 2 + 3; : i32[5]
+```
+
+```rs {2-3}
+true   : bool[true]
+3 &lt; 10 : bool[true]
+```</p><p>---
+
+# liquid types
+Subset of the parent type
+
+* Type:
+```rs
+i32{v: 0 &lt; v} // positive `i32`s
+```
+
+* Function:
+```rs
+#[flux::sig(fn(a: i32, b: i32) -&gt; i32{v: v &gt;= a &amp;&amp; v &gt;= b})]
+pub fn max(a: i32, b i32) -&gt; i32
+Precondition             Postcondition
+```</p><p>---
+
+# Example runtime bug: index out of bounds
+
+```rs
+fn print_first(vec: Vec&lt;i32&gt;) {
+   println!(&quot;first: {}&quot;, vec[0]);   . 
+}
+
+fn main() {
+   print_first(vec![]);
+}
+```
+
+TODO: verify this to not crash by showing adding ghost var to verify vector length
+
+```md
+thread 'main' panicked at 'index out of bounds: the len is 0 but the index is 0'
+```</p><p>It turns out that we can prevents bugs like this at compile time, meaning there is no runtime cost associated with bounds checking.</p><p>---
+
+# Note: Tock uses Typestate and a lot of Rust-isms that detract from the main idea, so we will look at Zephyr.
+# Typestate, but with Flux
+
+If you have used typestate in Rust or RAII, this is similar. You can push complexity into compile time, making it easier to write correct code. 
+
+&gt; Typestates are a technique for moving properties of state (the dynamic information a program is processing) into the type level (the static world that the compiler can check ahead-of-time).
+
+https://cliffle.com/blog/rust-typestate/</p><p>This enables things like the zero cost capabilities I mentioned earlier.
+This is pretty cool! Now we can avoid some pretty subtle bugs at compile time.
+
+Okay this is relatively straightforward. Now we have seen why this is low cost verification and how well it integrates into the type system.
+Let me explain how this works and we can look at a more complex scenario.
+
+If you don't want to rearchitect your app to use typestate, you can use Flux.
+Maybe one day we will have automated C-&gt;Rust code conversion. For whatever reason you could use this instead of typestate.</p><p>Also, because these states are enforced by the type system, there is no longer room for errors by consumers of this interface. If they try to perform an illegal state transition, the code will not compile!</p><p>Hardware security is great, but it is useless if we don't configure it correctly. very small bug can be a very big problem.</p><p>---
+
+# RVec
+
+```rs
+#[flux::opaque]
+#[flux::refined_by(len: int)]
+#[flux::invariant(0 &lt;= len)]
+pub struct RVec&lt;T&gt; {
+    inner: Vec&lt;T&gt;,
+}
+```</p><p>---
+
+# What does zephyr RISCV PMP code look like
+
+It performs &quot;sanity checks&quot; = runtime cost.
+This simple function can panic if you call it wrong! Can kill the whole system.</p><p>TODO: red highlight removed lines</p><p>```c {6-13}
+static void write_pmp_entries(unsigned int start, unsigned int end,
+			      bool clear_trailing_entries,
+			      unsigned long *pmp_addr, unsigned long *pmp_cfg,
+			      unsigned int index_limit)
+{
+	__ASSERT(start &lt; end &amp;&amp; end &lt;= index_limit &amp;&amp;
+		 index_limit &lt;= CONFIG_PMP_SLOTS,
+		 &quot;bad PMP range (start=%u end=%u)&quot;, start, end);
+
+	/* Be extra paranoid in case assertions are disabled */
+	if (start &gt;= end || end &gt; index_limit) {
+		k_panic();
+	}
+```
+
+Show crossing out these lines. This *could* enable you to refactor your code to be faster since you won't need to use Rust runtime bounds checking as you know the length of your data statically.</p><p>Remember that we don't have virtual memory, we only have an MPU to support the OS in protection.</p><p>---
+
+# `write_pmp_entries` (bad pmp range) -&gt; 💣
+
+---</p><p>Now we have a basic understanding of the syntax. Let's turn back to the problem at hand.</p><p># You think your code doesn't have bugs because you write great `requirement`s like this
+
+```c {8}
+/**
+ * @brief Write a range of PMP entries to corresponding PMP registers
+ *
+ * PMP registers are accessed with the csr instruction which only takes an
+ * immediate value as the actual register. This is performed more efficiently
+ * in assembly code (pmp.S) than what is possible with C code.
+ *
+ * Requirement: start &lt; end &amp;&amp; end &lt;= CONFIG_PMP_SLOTS
+ *
+ * @param start Start of the PMP range to be written
+ * @param end End (exclusive) of the PMP range to be written
+ * @param clear_trailing_entries True if trailing entries must be turned off
+ * @param pmp_addr Array of pmpaddr values (starting at entry 0).
+ * @param pmp_cfg Array of pmpcfg values (starting at entry 0).
+ */
+extern void z_riscv_write_pmp_entries(unsigned int start, unsigned int end,
+				      bool clear_trailing_entries,
+				      const unsigned long *pmp_addr,
+				      const unsigned long *pmp_cfg);
+```
+
+https://github.com/zephyrproject-rtos/zephyr/blob/main/arch/riscv/core/pmp.c</p><p>Right now the state of the art is comments like this, reading the man page, or doing guess and check if your code works.</p><p># Logic bugs
+
+One problem is if our function is called wrong.
+
+But we can also have logic soundness issues like the Tock bug.
+
+So we do want more guarantees like that you can only access your regions. This was a really subtle and serious bug.
+
+It is simply understood, but very hard to imagine this bug existing.
+
+---</p><p># Let's improve this with Flux
+
+Note: Tock uses typestate, so you can't have a badly constructed MPU region.
+
+But I am not here to talk about Rust. Now taht we have an idea of how this issupposed to work, let's replicate it in Flux.
+
+---</p></div><script>/*!! License: https://unpkg.com/@marp-team/marp-cli@3.2.0/lib/bespoke.js.LICENSE.txt */
+!function(){"use strict";function e(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}var t={from:function(e,t){var n,r=1===(e.parent||e).nodeType?e.parent||e:document.querySelector(e.parent||e),o=[].filter.call("string"==typeof e.slides?r.querySelectorAll(e.slides):e.slides||r.children,(function(e){return"SCRIPT"!==e.nodeName})),i={},a=function(e,t){return(t=t||{}).index=o.indexOf(e),t.slide=e,t},s=function(e,t){i[e]=(i[e]||[]).filter((function(e){return e!==t}))},l=function(e,t){return(i[e]||[]).reduce((function(e,n){return e&&!1!==n(t)}),!0)},c=function(e,t){o[e]&&(n&&l("deactivate",a(n,t)),n=o[e],l("activate",a(n,t)))},d=function(e,t){var r=o.indexOf(n)+e;l(e>0?"next":"prev",a(n,t))&&c(r,t)},u={off:s,on:function(e,t){return(i[e]||(i[e]=[])).push(t),s.bind(null,e,t)},fire:l,slide:function(e,t){if(!arguments.length)return o.indexOf(n);l("slide",a(o[e],t))&&c(e,t)},next:d.bind(null,1),prev:d.bind(null,-1),parent:r,slides:o,destroy:function(e){l("destroy",a(n,e)),i={}}};return(t||[]).forEach((function(e){e(u)})),n||c(0),u}},n=e(t);const r=document.body,o=(...e)=>history.replaceState(...e),i="presenter",a="next",s=["",i,a],l="bespoke-marp-",c=`data-${l}`,d=(e,{protocol:t,host:n,pathname:r,hash:o}=location)=>{const i=e.toString();return`${t}//${n}${r}${i?"?":""}${i}${o}`},u=()=>r.dataset.bespokeView,f=e=>new URLSearchParams(location.search).get(e),m=(e,t={})=>{var n;const r={location,setter:o,...t},i=new URLSearchParams(r.location.search);for(const t of Object.keys(e)){const n=e[t];"string"==typeof n?i.set(t,n):i.delete(t)}try{r.setter({...null!==(n=window.history.state)&&void 0!==n?n:{}},"",d(i,r.location))}catch(e){console.error(e)}},g=(()=>{const e="bespoke-marp";try{return localStorage.setItem(e,e),localStorage.removeItem(e),!0}catch(e){return!1}})(),p=e=>{try{return localStorage.getItem(e)}catch(e){return null}},v=(e,t)=>{try{return localStorage.setItem(e,t),!0}catch(e){return!1}},h=e=>{try{return localStorage.removeItem(e),!0}catch(e){return!1}},y=(e,t)=>{const n="aria-hidden";t?e.setAttribute(n,"true"):e.removeAttribute(n)},b=e=>{e.parent.classList.add(`${l}parent`),e.slides.forEach((e=>e.classList.add(`${l}slide`))),e.on("activate",(t=>{const n=`${l}active`,r=t.slide,o=r.classList,i=!o.contains(n);if(e.slides.forEach((e=>{e.classList.remove(n),y(e,!0)})),o.add(n),y(r,!1),i){const e=`${n}-ready`;o.add(e),document.body.clientHeight,o.remove(e)}}))},w=e=>{let t=0,n=0;Object.defineProperty(e,"fragments",{enumerable:!0,value:e.slides.map((e=>[null,...e.querySelectorAll("[data-marpit-fragment]")]))});const r=r=>void 0!==e.fragments[t][n+r],o=(r,o)=>{t=r,n=o,e.fragments.forEach(((e,t)=>{e.forEach(((e,n)=>{if(null==e)return;const i=t<r||t===r&&n<=o;e.setAttribute(`${c}fragment`,(i?"":"in")+"active");const a=`${c}current-fragment`;t===r&&n===o?e.setAttribute(a,"current"):e.removeAttribute(a)}))})),e.fragmentIndex=o;const i={slide:e.slides[r],index:r,fragments:e.fragments[r],fragmentIndex:o};e.fire("fragment",i)};e.on("next",(({fragment:i=!0})=>{if(i){if(r(1))return o(t,n+1),!1;const i=t+1;e.fragments[i]&&o(i,0)}else{const r=e.fragments[t].length;if(n+1<r)return o(t,r-1),!1;const i=e.fragments[t+1];i&&o(t+1,i.length-1)}})),e.on("prev",(({fragment:i=!0})=>{if(r(-1)&&i)return o(t,n-1),!1;const a=t-1;e.fragments[a]&&o(a,e.fragments[a].length-1)})),e.on("slide",(({index:t,fragment:n})=>{let r=0;if(void 0!==n){const o=e.fragments[t];if(o){const{length:e}=o;r=-1===n?e-1:Math.min(Math.max(n,0),e-1)}}o(t,r)})),o(0,0)},x=document,k=()=>!(!x.fullscreenEnabled&&!x.webkitFullscreenEnabled),$=()=>!(!x.fullscreenElement&&!x.webkitFullscreenElement),E=e=>{e.fullscreen=()=>{k()&&(async()=>{return $()?null===(e=x.exitFullscreen||x.webkitExitFullscreen)||void 0===e?void 0:e.call(x):((e=x.body)=>{var t;return null===(t=e.requestFullscreen||e.webkitRequestFullscreen)||void 0===t?void 0:t.call(e)})();var e})()},document.addEventListener("keydown",(t=>{"f"!==t.key&&"F11"!==t.key||t.altKey||t.ctrlKey||t.metaKey||!k()||(e.fullscreen(),t.preventDefault())}))},L=`${l}inactive`,S=(e=2e3)=>({parent:t,fire:n})=>{const r=t.classList,o=e=>n(`marp-${e?"":"in"}active`);let i;const a=()=>{i&&clearTimeout(i),i=setTimeout((()=>{r.add(L),o()}),e),r.contains(L)&&(r.remove(L),o(!0))};for(const e of["mousedown","mousemove","touchend"])document.addEventListener(e,a);setTimeout(a,0)},P=["AUDIO","BUTTON","INPUT","SELECT","TEXTAREA","VIDEO"],_=e=>{e.parent.addEventListener("keydown",(e=>{if(!e.target)return;const t=e.target;(P.includes(t.nodeName)||"true"===t.contentEditable)&&e.stopPropagation()}))},T=e=>{window.addEventListener("load",(()=>{for(const t of e.slides){const e=t.querySelector("marp-auto-scaling, [data-auto-scaling], [data-marp-fitting]");t.setAttribute(`${c}load`,e?"":"hideable")}}))},I=({interval:e=250}={})=>t=>{document.addEventListener("keydown",(e=>{if(" "===e.key&&e.shiftKey)t.prev();else if("ArrowLeft"===e.key||"ArrowUp"===e.key||"PageUp"===e.key)t.prev({fragment:!e.shiftKey});else if(" "!==e.key||e.shiftKey)if("ArrowRight"===e.key||"ArrowDown"===e.key||"PageDown"===e.key)t.next({fragment:!e.shiftKey});else if("End"===e.key)t.slide(t.slides.length-1,{fragment:-1});else{if("Home"!==e.key)return;t.slide(0)}else t.next();e.preventDefault()}));let n,r,o=0;t.parent.addEventListener("wheel",(i=>{let a=!1;const s=(e,t)=>{e&&(a=a||((e,t)=>((e,t)=>{const n="X"===t?"Width":"Height";return e[`client${n}`]<e[`scroll${n}`]})(e,t)&&((e,t)=>{const{overflow:n}=e,r=e[`overflow${t}`];return"auto"===n||"scroll"===n||"auto"===r||"scroll"===r})(getComputedStyle(e),t))(e,t)),(null==e?void 0:e.parentElement)&&s(e.parentElement,t)};if(0!==i.deltaX&&s(i.target,"X"),0!==i.deltaY&&s(i.target,"Y"),a)return;i.preventDefault();const l=Math.sqrt(i.deltaX**2+i.deltaY**2);if(void 0!==i.wheelDelta){if(void 0===i.webkitForce&&Math.abs(i.wheelDelta)<40)return;if(i.deltaMode===i.DOM_DELTA_PIXEL&&l<4)return}else if(i.deltaMode===i.DOM_DELTA_PIXEL&&l<12)return;r&&clearTimeout(r),r=setTimeout((()=>{n=0}),e);const c=Date.now()-o<e,d=l<=n;if(n=l,c||d)return;let u;(i.deltaX>0||i.deltaY>0)&&(u="next"),(i.deltaX<0||i.deltaY<0)&&(u="prev"),u&&(t[u](),o=Date.now())}))},M=(e=`.${l}osc`)=>{const t=document.querySelector(e);if(!t)return()=>{};const n=(e,n)=>{t.querySelectorAll(`[${c}osc=${JSON.stringify(e)}]`).forEach(n)};return k()||n("fullscreen",(e=>e.style.display="none")),g||n("presenter",(e=>{e.disabled=!0,e.title="Presenter view is disabled due to restricted localStorage."})),e=>{t.addEventListener("click",(t=>{if(t.target instanceof HTMLElement){const{bespokeMarpOsc:n}=t.target.dataset;n&&t.target.blur();const r={fragment:!t.shiftKey};"next"===n?e.next(r):"prev"===n?e.prev(r):"fullscreen"===n?null==e||e.fullscreen():"presenter"===n&&e.openPresenterView()}})),e.parent.appendChild(t),e.on("activate",(({index:t})=>{n("page",(n=>n.textContent=`Page ${t+1} of ${e.slides.length}`))})),e.on("fragment",(({index:t,fragments:r,fragmentIndex:o})=>{n("prev",(e=>e.disabled=0===t&&0===o)),n("next",(n=>n.disabled=t===e.slides.length-1&&o===r.length-1))})),e.on("marp-active",(()=>y(t,!1))),e.on("marp-inactive",(()=>y(t,!0))),k()&&(e=>{for(const t of["","webkit"])x.addEventListener(t+"fullscreenchange",e)})((()=>n("fullscreen",(e=>e.classList.toggle("exit",k()&&$())))))}},O=e=>{window.addEventListener("message",(t=>{if(t.origin!==window.origin)return;const[n,r]=t.data.split(":");if("navigate"===n){const[t,n]=r.split(",");let o=Number.parseInt(t,10),i=Number.parseInt(n,10)+1;i>=e.fragments[o].length&&(o+=1,i=0),e.slide(o,{fragment:i})}}))};var A=["area","base","br","col","command","embed","hr","img","input","keygen","link","meta","param","source","track","wbr"];let C=e=>String(e).replace(/[&<>"']/g,(e=>`&${D[e]};`)),D={"&":"amp","<":"lt",">":"gt",'"':"quot","'":"apos"},N="dangerouslySetInnerHTML",B={className:"class",htmlFor:"for"},q={};function K(e,t){let n=[],r="";t=t||{};for(let e=arguments.length;e-- >2;)n.push(arguments[e]);if("function"==typeof e)return t.children=n.reverse(),e(t);if(e){if(r+="<"+e,t)for(let e in t)!1!==t[e]&&null!=t[e]&&e!==N&&(r+=` ${B[e]?B[e]:C(e)}="${C(t[e])}"`);r+=">"}if(-1===A.indexOf(e)){if(t[N])r+=t[N].__html;else for(;n.length;){let e=n.pop();if(e)if(e.pop)for(let t=e.length;t--;)n.push(e[t]);else r+=!0===q[e]?e:C(e)}r+=e?`</${e}>`:""}return q[r]=!0,r}const j=({children:e})=>K(null,null,...e),F=`${l}presenter-`,V={container:`${F}container`,dragbar:`${F}dragbar-container`,next:`${F}next`,nextContainer:`${F}next-container`,noteContainer:`${F}note-container`,noteWrapper:`${F}note-wrapper`,noteButtons:`${F}note-buttons`,infoContainer:`${F}info-container`,infoPage:`${F}info-page`,infoPageText:`${F}info-page-text`,infoPagePrev:`${F}info-page-prev`,infoPageNext:`${F}info-page-next`,noteButtonsBigger:`${F}note-bigger`,noteButtonsSmaller:`${F}note-smaller`,infoTime:`${F}info-time`,infoTimer:`${F}info-timer`},U=e=>{const{title:t}=document;document.title="[Presenter view]"+(t?` - ${t}`:"");const n={},r=e=>(n[e]=n[e]||document.querySelector(`.${e}`),n[e]);document.body.appendChild((e=>{const t=document.createElement("div");return t.className=V.container,t.appendChild(e),t.insertAdjacentHTML("beforeend",K(j,null,K("div",{class:V.nextContainer},K("iframe",{class:V.next,src:"?view=next"})),K("div",{class:V.dragbar}),K("div",{class:V.noteContainer},K("div",{class:V.noteWrapper}),K("div",{class:V.noteButtons},K("button",{class:V.noteButtonsSmaller,tabindex:"-1",title:"Smaller notes font size"},"Smaller notes font size"),K("button",{class:V.noteButtonsBigger,tabindex:"-1",title:"Bigger notes font size"},"Bigger notes font size"))),K("div",{class:V.infoContainer},K("div",{class:V.infoPage},K("button",{class:V.infoPagePrev,tabindex:"-1",title:"Previous"},"Previous"),K("span",{class:V.infoPageText}),K("button",{class:V.infoPageNext,tabindex:"-1",title:"Next"},"Next")),K("time",{class:V.infoTime,title:"Current time"}),K("time",{class:V.infoTimer,title:"Timer"})))),t})(e.parent)),(e=>{let t=!1;r(V.dragbar).addEventListener("mousedown",(()=>{t=!0,r(V.dragbar).classList.add("active")})),window.addEventListener("mouseup",(()=>{t=!1,r(V.dragbar).classList.remove("active")})),window.addEventListener("mousemove",(e=>{if(!t)return;const n=e.clientX/document.documentElement.clientWidth*100;r(V.container).style.setProperty("--bespoke-marp-presenter-split-ratio",`${Math.max(0,Math.min(100,n))}%`)})),r(V.nextContainer).addEventListener("click",(()=>e.next()));const n=r(V.next),o=(i=n,(e,t)=>{var n;return null===(n=i.contentWindow)||void 0===n?void 0:n.postMessage(`navigate:${e},${t}`,"null"===window.origin?"*":window.origin)});var i;n.addEventListener("load",(()=>{r(V.nextContainer).classList.add("active"),o(e.slide(),e.fragmentIndex),e.on("fragment",(({index:e,fragmentIndex:t})=>o(e,t)))}));const a=document.querySelectorAll(".bespoke-marp-note");a.forEach((e=>{e.addEventListener("keydown",(e=>e.stopPropagation())),r(V.noteWrapper).appendChild(e)})),e.on("activate",(()=>a.forEach((t=>t.classList.toggle("active",t.dataset.index==e.slide())))));let s=0;const l=e=>{s=Math.max(-5,s+e),r(V.noteContainer).style.setProperty("--bespoke-marp-note-font-scale",(1.2**s).toFixed(4))},c=()=>l(1),d=()=>l(-1),u=r(V.noteButtonsBigger),f=r(V.noteButtonsSmaller);u.addEventListener("click",(()=>{u.blur(),c()})),f.addEventListener("click",(()=>{f.blur(),d()})),document.addEventListener("keydown",(e=>{"+"===e.key&&c(),"-"===e.key&&d()}),!0),e.on("activate",(({index:t})=>{r(V.infoPageText).textContent=`${t+1} / ${e.slides.length}`}));const m=r(V.infoPagePrev),g=r(V.infoPageNext);m.addEventListener("click",(t=>{m.blur(),e.prev({fragment:!t.shiftKey})})),g.addEventListener("click",(t=>{g.blur(),e.next({fragment:!t.shiftKey})})),e.on("fragment",(({index:t,fragments:n,fragmentIndex:r})=>{m.disabled=0===t&&0===r,g.disabled=t===e.slides.length-1&&r===n.length-1}));let p=new Date;const v=()=>{const e=new Date,t=e=>`${Math.floor(e)}`.padStart(2,"0"),n=e.getTime()-p.getTime(),o=t(n/1e3%60),i=t(n/1e3/60%60),a=t(n/36e5%24);r(V.infoTime).textContent=e.toLocaleTimeString(),r(V.infoTimer).textContent=`${a}:${i}:${o}`};v(),setInterval(v,250),r(V.infoTimer).addEventListener("click",(()=>{p=new Date}))})(e)},X=e=>{if(!(e=>e.syncKey&&"string"==typeof e.syncKey)(e))throw new Error("The current instance of Bespoke.js is invalid for Marp bespoke presenter plugin.");Object.defineProperties(e,{openPresenterView:{enumerable:!0,value:H},presenterUrl:{enumerable:!0,get:R}}),g&&document.addEventListener("keydown",(t=>{"p"!==t.key||t.altKey||t.ctrlKey||t.metaKey||(t.preventDefault(),e.openPresenterView())}))};function H(){const{max:e,floor:t}=Math,n=e(t(.85*window.innerWidth),640),r=e(t(.85*window.innerHeight),360);return window.open(this.presenterUrl,F+this.syncKey,`width=${n},height=${r},menubar=no,toolbar=no`)}function R(){const e=new URLSearchParams(location.search);return e.set("view","presenter"),e.set("sync",this.syncKey),d(e)}const W=e=>{const t=u();return t===a&&e.appendChild(document.createElement("span")),{"":X,[i]:U,[a]:O}[t]},J=e=>{e.on("activate",(t=>{document.querySelectorAll(".bespoke-progress-parent > .bespoke-progress-bar").forEach((n=>{n.style.flexBasis=100*t.index/(e.slides.length-1)+"%"}))}))},Y=e=>{const t=Number.parseInt(e,10);return Number.isNaN(t)?null:t},z=(e={})=>{const t={history:!0,...e};return e=>{let n=!0;const r=e=>{const t=n;try{return n=!0,e()}finally{n=t}},o=(t={fragment:!0})=>{let n=t.fragment?Y(f("f")||""):null;((t,n)=>{const{min:r,max:o}=Math,{fragments:i,slides:a}=e,s=o(0,r(t,a.length-1)),l=o(0,r(n||0,i[s].length-1));s===e.slide()&&l===e.fragmentIndex||e.slide(s,{fragment:l})})((()=>{var t,r;if(location.hash){const[o]=location.hash.slice(1).split(":~:");if(/^\d+$/.test(o))return(null!==(t=Y(o))&&void 0!==t?t:1)-1;const i=document.getElementById(o)||document.querySelector(`a[name="${CSS.escape(o)}"]`);if(i){const{length:t}=e.slides;for(let o=0;o<t;o+=1)if(e.slides[o].contains(i)){const t=null===(r=e.fragments)||void 0===r?void 0:r[o],a=i.closest("[data-marpit-fragment]");if(t&&a){const e=t.indexOf(a);e>=0&&(n=e)}return o}}}return 0})(),n)};e.on("fragment",(({index:e,fragmentIndex:r})=>{n||m({f:0===r||r.toString()},{location:{...location,hash:`#${e+1}`},setter:(...e)=>t.history?history.pushState(...e):history.replaceState(...e)})})),setTimeout((()=>{o(),window.addEventListener("hashchange",(()=>r((()=>{o({fragment:!1}),m({f:void 0})})))),window.addEventListener("popstate",(()=>{n||r((()=>o()))})),n=!1}),0)}},G=(e={})=>{var t;const n=e.key||(null===(t=window.history.state)||void 0===t?void 0:t.marpBespokeSyncKey)||Math.random().toString(36).slice(2),r=`bespoke-marp-sync-${n}`;var i;i={marpBespokeSyncKey:n},m({},{setter:(e,...t)=>o({...e,...i},...t)});const a=()=>{const e=p(r);return e?JSON.parse(e):Object.create(null)},s=e=>{const t=a(),n={...t,...e(t)};return v(r,JSON.stringify(n)),n},l=()=>{window.removeEventListener("pageshow",l),s((e=>({reference:(e.reference||0)+1})))};return e=>{l(),Object.defineProperty(e,"syncKey",{value:n,enumerable:!0});let t=!0;setTimeout((()=>{e.on("fragment",(e=>{t&&s((()=>({index:e.index,fragmentIndex:e.fragmentIndex})))}))}),0),window.addEventListener("storage",(n=>{if(n.key===r&&n.oldValue&&n.newValue){const r=JSON.parse(n.oldValue),o=JSON.parse(n.newValue);if(r.index!==o.index||r.fragmentIndex!==o.fragmentIndex)try{t=!1,e.slide(o.index,{fragment:o.fragmentIndex,forSync:!0})}finally{t=!0}}}));const o=()=>{const{reference:e}=a();void 0===e||e<=1?h(r):s((()=>({reference:e-1})))};window.addEventListener("pagehide",(e=>{e.persisted&&window.addEventListener("pageshow",l),o()})),e.on("destroy",o)}},{PI:Q,abs:Z,sqrt:ee,atan2:te}=Math,ne={passive:!0},re=({slope:e=-.7,swipeThreshold:t=30}={})=>n=>{let r;const o=n.parent,i=e=>{const t=o.getBoundingClientRect();return{x:e.pageX-(t.left+t.right)/2,y:e.pageY-(t.top+t.bottom)/2}};o.addEventListener("touchstart",(({touches:e})=>{r=1===e.length?i(e[0]):void 0}),ne),o.addEventListener("touchmove",(e=>{if(r)if(1===e.touches.length){e.preventDefault();const t=i(e.touches[0]),n=t.x-r.x,o=t.y-r.y;r.delta=ee(Z(n)**2+Z(o)**2),r.radian=te(n,o)}else r=void 0})),o.addEventListener("touchend",(o=>{if(r){if(r.delta&&r.delta>=t&&r.radian){const t=(r.radian-e+Q)%(2*Q)-Q;n[t<0?"next":"prev"](),o.stopPropagation()}r=void 0}}),ne)},oe=new Map;oe.clear(),oe.set("none",{backward:{both:void 0,incoming:void 0,outgoing:void 0},forward:{both:void 0,incoming:void 0,outgoing:void 0}});const ie={both:"",outgoing:"outgoing-",incoming:"incoming-"},ae={forward:"",backward:"-backward"},se=e=>`--marp-bespoke-transition-animation-${e}`,le=e=>`--marp-transition-${e}`,ce=se("name"),de=se("duration"),ue=e=>new Promise((t=>{const n={},r=document.createElement("div"),o=e=>{r.remove(),t(e)};r.addEventListener("animationstart",(()=>o(n))),Object.assign(r.style,{animationName:e,animationDuration:"1s",animationFillMode:"both",animationPlayState:"paused",position:"absolute",pointerEvents:"none"}),document.body.appendChild(r);const i=getComputedStyle(r).getPropertyValue(le("duration"));i&&(n.defaultDuration=i),((e,t)=>{requestAnimationFrame((()=>{e.style.animationPlayState="running",requestAnimationFrame((()=>t(void 0)))}))})(r,o)})),fe=async e=>oe.has(e)?oe.get(e):(e=>{const t={},n=[];for(const[r,o]of Object.entries(ie))for(const[i,a]of Object.entries(ae)){const s=`marp-${o}transition${a}-${e}`;n.push(ue(s).then((e=>{t[i]=t[i]||{},t[i][r]=e?{...e,name:s}:void 0})))}return Promise.all(n).then((()=>t))})(e).then((t=>(oe.set(e,t),t))),me=e=>Object.values(e).flatMap(Object.values).every((e=>!e)),ge=(e,{type:t,backward:n})=>{const r=e[n?"backward":"forward"],o=(()=>{const e=r[t],n=e=>({[ce]:e.name});if(e)return n(e);if(r.both){const e=n(r.both);return"incoming"===t&&(e[se("direction")]="reverse"),e}})();return!o&&n?ge(e,{type:t,backward:!1}):o||{[ce]:"__bespoke_marp_transition_no_animation__"}},pe=e=>{if(e)try{const t=JSON.parse(e);if((e=>{if("object"!=typeof e)return!1;const t=e;return"string"==typeof t.name&&(void 0===t.duration||"string"==typeof t.duration)})(t))return t}catch(e){}},ve="_tSId",he="_tA",ye="bespoke-marp-transition-warming-up",be=window.matchMedia("(prefers-reduced-motion: reduce)"),we="__bespoke_marp_transition_reduced_outgoing__",xe="__bespoke_marp_transition_reduced_incoming__",ke={forward:{both:void 0,incoming:{name:xe},outgoing:{name:we}},backward:{both:void 0,incoming:{name:xe},outgoing:{name:we}}},$e=e=>{if(!document.startViewTransition)return;const t=t=>(void 0!==t&&(e._tD=t),e._tD);let n;t(!1),((...e)=>{const t=[...new Set(e).values()];return Promise.all(t.map((e=>fe(e)))).then()})(...Array.from(document.querySelectorAll("section[data-transition], section[data-transition-back]")).flatMap((e=>[e.dataset.transition,e.dataset.transitionBack].flatMap((e=>{const t=pe(e);return[null==t?void 0:t.name,(null==t?void 0:t.builtinFallback)?`__builtin__${t.name}`:void 0]})).filter((e=>!!e))))).then((()=>{document.querySelectorAll("style").forEach((e=>{e.innerHTML=e.innerHTML.replace(/--marp-transition-duration:[^;}]*[;}]/g,(e=>e.slice(0,-1)+"!important"+e.slice(-1)))}))}));const r=(n,{back:r,cond:o})=>i=>{var a;const s=t();if(s)return!!i[he]||!("object"!=typeof s||(s.skipTransition(),!i.forSync));if(!o(i))return!0;const l=e.slides[e.slide()],c=()=>{var e;return null!==(e=i.back)&&void 0!==e?e:r},d="data-transition"+(c()?"-back":""),u=l.querySelector(`section[${d}]`);if(!u)return!0;const f=pe(null!==(a=u.getAttribute(d))&&void 0!==a?a:void 0);return!f||((async(e,{builtinFallback:t=!0}={})=>{let n=await fe(e);if(me(n)){if(!t)return;return n=await fe(`__builtin__${e}`),me(n)?void 0:n}return n})(f.name,{builtinFallback:f.builtinFallback}).then((e=>{if(!e){t(!0);try{n(i)}finally{t(!1)}return}let r=e;be.matches&&(console.warn("Use a constant animation to transition because preferring reduced motion by viewer has detected."),r=ke);const o=document.getElementById(ve);o&&o.remove();const a=document.createElement("style");a.id=ve,document.head.appendChild(a),((e,t)=>{const n=[`:root{${le("direction")}:${t.backward?-1:1};}`,":root:has(.bespoke-marp-inactive){cursor:none;}"],r=t=>{var n,o,i;const a=(null===(n=e[t].both)||void 0===n?void 0:n.defaultDuration)||(null===(o=e[t].outgoing)||void 0===o?void 0:o.defaultDuration)||(null===(i=e[t].incoming)||void 0===i?void 0:i.defaultDuration);return"forward"===t?a:a||r("forward")},o=t.duration||r(t.backward?"backward":"forward");void 0!==o&&n.push(`::view-transition-group(*){${de}:${o};}`);const i=e=>Object.entries(e).map((([e,t])=>`${e}:${t};`)).join("");return n.push(`::view-transition-old(root){${i(ge(e,{...t,type:"outgoing"}))}}`,`::view-transition-new(root){${i(ge(e,{...t,type:"incoming"}))}}`),n})(r,{backward:c(),duration:f.duration}).forEach((e=>{var t;return null===(t=a.sheet)||void 0===t?void 0:t.insertRule(e)}));const s=document.documentElement.classList;s.add(ye);let l=!1;const d=()=>{l||(n(i),l=!0,s.remove(ye))},u=()=>{t(!1),a.remove(),s.remove(ye)};try{t(!0);const e=document.startViewTransition(d);t(e),e.finished.finally(u)}catch(e){console.error(e),d(),u()}})),!1)};e.on("prev",r((t=>e.prev({...t,[he]:!0})),{back:!0,cond:e=>{var t;return e.index>0&&!((null===(t=e.fragment)||void 0===t||t)&&n.fragmentIndex>0)}})),e.on("next",r((t=>e.next({...t,[he]:!0})),{cond:t=>t.index+1<e.slides.length&&!(n.fragmentIndex+1<n.fragments.length)})),setTimeout((()=>{e.on("slide",r((t=>e.slide(t.index,{...t,[he]:!0})),{cond:t=>{const n=e.slide();return t.index!==n&&(t.back=t.index<n,!0)}}))}),0),e.on("fragment",(e=>{n=e}))};let Ee;const Le=()=>(void 0===Ee&&(Ee="wakeLock"in navigator&&navigator.wakeLock),Ee),Se=async()=>{const e=Le();if(e)try{return await e.request("screen")}catch(e){console.warn(e)}return null},Pe=async()=>{if(!Le())return;let e;const t=()=>{e&&"visible"===document.visibilityState&&Se()};for(const e of["visibilitychange","fullscreenchange"])document.addEventListener(e,t);return e=await Se(),e};((e=document.getElementById(":$p"))=>{(()=>{const e=f("view");r.dataset.bespokeView=e===a||e===i?e:""})();const t=(e=>{const t=f(e);return m({[e]:void 0}),t})("sync")||void 0;n.from(e,((...e)=>{const t=s.findIndex((e=>u()===e));return e.map((([e,n])=>e[t]&&n)).filter((e=>e))})([[1,1,0],G({key:t})],[[1,1,1],W(e)],[[1,1,0],_],[[1,1,1],b],[[1,0,0],S()],[[1,1,1],T],[[1,1,1],z({history:!1})],[[1,1,0],I()],[[1,1,0],E],[[1,0,0],J],[[1,1,0],re()],[[1,0,0],M()],[[1,0,0],$e],[[1,1,1],w],[[1,1,0],Pe]))})()}();</script></body></html>
