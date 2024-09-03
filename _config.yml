@@ -22,16 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Zeping Liu"
+  pronouns         : "he/his"  
+  bio              : "First Phd Student of Geography at the University of Texas at Austin"
+  location         : "Austin, TX"
+  employer         : "The University of Texas at Austin"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zeping.liu AT utexas.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
