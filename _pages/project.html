@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+            padding: 20px;
+        }
+
+        .project-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            /* box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); */
+            border: 1px solid #e0e0e0;
+            max-width: 800px;
+            margin: auto;
+            margin-bottom: 20px;
+        }
+
+        .project-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .project-year {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+
+        .project-content {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .project-image {
+            flex: 1 1 45%;
+            max-width: 45%;
+            border-radius: 8px;
+        }
+
+        .project-details {
+            flex: 1 1 50%;
+            max-width: 50%;
+        }
+
+        .project-title {
+            font-size: 18px;
+            color: #1a73e8;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .project-authors {
+            font-size: 16px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        .project-description {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 20px;
+        }
+
+        .project-buttons a {
+            display: inline-block;
+            margin-right: 10px;
+            margin-bottom: 10px;
+            padding: 8px 12px;
+            background-color: #1a73e8;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        .project-buttons a:hover {
+            background-color: #1669c1;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .project-content {
+                flex-direction: column;
+            }
+
+            .project-image,
+            .project-details {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div id="projects-list"></div>
+
+    <script>
+       
+        const projectsData = [
+
+            {
+                image: "https://dummyimage.com/600x400/ffffff/000000",
+                title: "Chip Tape-out grant",
+                description: "Testing 'Radiation-hard-by-design Standard Cell Library' under SMDP-C2SD project [sanction in process]",
+                grantAmount: "Rs. 9.83 Lakhs",
+                authors: "J. Mekie",
+                projectLink: "#"
+            },
+            {
+                image: "https://dummyimage.com/600x400/ffffff/000000",
+                title: "Comparative Study of Soft Error Tolerant Synchronous and Asynchronous Processors",
+                description: "Core Grant Research, SERB",
+                grantAmount: "INR. 50,63,696",
+                authors: "J. Mekie and N. Mohapatra",
+                projectLink: "#"
+            },
+            {
+                image: "https://dummyimage.com/600x400/ffffff/000000",
+                title: "Approximate Circuits and Architectures for Error Resilient Applications",
+                description: "Intel PhD Fellowship",
+                grantAmount: "8 Lakhs",
+                authors: "C. K. Jha and J. Mekie",
+                // duration: "1 year",
+                // fundingAgency: "Intel India",
+                projectLink: "#"
+            },
+            {
+                image: "https://dummyimage.com/600x400/ffffff/000000",
+                title: "Special manpower development project: Chips to System design (SMDP:C2SD)",
+                description: "Ministry of Electronics and Information Technology",
+                grantAmount: "INR 70 lakhs",
+                authors: "N. Mohapatra (PI) and J. Mekie (Co-PI)",
+                projectLink: "#"
+            },
+            {
+                image: "https://dummyimage.com/600x400/ffffff/000000",
+                title: "Young Faculty Research Fellowship (YFRF)",
+                description: "Ministry of Electronics and Information Technology (MEITY), 2018-current, 2 years extendable to 5 years",
+                grantAmount: "Rs. 37 Lakhs",
+                // additionalAmount: "Rs. 14,44,627",
+                authors: "J. Mekie",
+                projectLink: "#"
+            }
+        ];
+
+
+        function renderProjects(data) {
+            const projectsList = document.getElementById('projects-list');
+            data.forEach(project => {
+                const projectContainer = document.createElement('div');
+                projectContainer.classList.add('project-container');
+
+                const projectYear = document.createElement('div');
+                projectYear.classList.add('project-year');
+                projectYear.textContent = project.year;
+                projectContainer.appendChild(projectYear);
+
+                const projectContent = document.createElement('div');
+                projectContent.classList.add('project-content');
+
+                const projectImage = document.createElement('img');
+                projectImage.classList.add('project-image');
+                projectImage.src = project.image;
+                projectContent.appendChild(projectImage);
+
+                const projectDetails = document.createElement('div');
+                projectDetails.classList.add('project-details');
+
+                const projectTitle = document.createElement('a');
+                projectTitle.classList.add('project-title');
+                projectTitle.textContent = project.title;
+                projectTitle.href = project.projectLink;
+                projectDetails.appendChild(projectTitle);
+
+                const projectAuthors = document.createElement('div');
+                projectAuthors.classList.add('project-authors');
+                projectAuthors.textContent = project.authors;
+                projectDetails.appendChild(projectAuthors);
+
+                const projectDescription = document.createElement('div');
+                projectDescription.classList.add('project-description');
+                projectDescription.textContent = project.description;
+                projectDetails.appendChild(projectDescription);
+
+                const projectGrant = document.createElement('div');
+                projectGrant.classList.add('project-grant');
+                projectGrant.textContent = "Grant Amount " + project.grantAmount;
+                projectDetails.appendChild(projectGrant);
+
+                // incase new fields are needed just copy tgr above line and change the field name like 'fundungAgency' and 'duration'
+                //but the list above should also be changed accordigly.
+
+                const projectButtons = document.createElement('div');
+                projectButtons.classList.add('project-buttons');
+
+                // const projectLink = document.createElement('a');
+                // projectLink.href = project.projectLink;
+                // projectLink.textContent = "Grant Info";
+                // projectButtons.appendChild(projectLink);
+
+                projectDetails.appendChild(projectButtons);
+                projectContent.appendChild(projectDetails);
+                projectContainer.appendChild(projectContent);
+
+                projectsList.appendChild(projectContainer);
+            });
+        }
+
+        renderProjects(projectsData);
+    </script>
+</body>
+
+</html>
