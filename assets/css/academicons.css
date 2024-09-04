@@ -325,3 +325,18 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+
+.paper-button {
+  display: inline-block;
+  padding: 5px 5px;
+  margin: 4px 0;
+  background-color: #2E86C1; /* Change this to your desired button color */
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+  border-radius: 5px;
+}
+
+.paper-button:hover {
+  background-color: #21618C;
+}
