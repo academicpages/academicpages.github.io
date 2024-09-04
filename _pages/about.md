@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "吕骏峰的主页 Alan Lyu's Pages"
 author_profile: true
 redirect_from: 
   - /about/
