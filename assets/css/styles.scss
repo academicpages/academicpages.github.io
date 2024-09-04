@@ -1,0 +1,88 @@
+/*-- scss:defaults --*/
+
+@import 'https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap';
+
+$font-family: "Nunito", sans-serif;
+$font-family-serif: "Nunito", sans-serif;
+
+/*-- scss:rules --*/
+kbd,
+.kbd {
+    background-color: #f6f5f5 !important;
+}
+
+// .navbar {
+//     // padding-top: 0.25rem;
+//     // padding-bottom: 0.5rem; 
+//     // height: 100%;
+//     font-family: $font-family;
+//     font-size: large;
+//     display:flex;
+//     vertical-align:bottom;
+// }
+
+.navbar {
+  font-family: $font-family;
+  font-size: large;
+  display: flex;
+  align-items: center; /* Center items vertically */  
+  height: auto; /* Adjust the height as needed */
+  padding: 0; /* Remove padding if necessary */
+}
+
+.navbar .navbar-nav {
+  display: flex;
+  align-items: center; /* Ensure nav items are centered vertically */
+  height: 100%; /* Full height of the navbar */
+}
+
+/* Apply the font-family to body to ensure all text uses Nunito */
+body {
+    font-family: $font-family;
+}
+
+.paper {
+    display: flex;
+    margin-bottom: 5px;
+  }
+  
+  .paper-image {
+    width: 35%;
+    height:200px;
+    height: auto;
+    margin-right: 10px;
+    object-fit: contain; /* Ensure the image fits within the container */
+  }
+  
+  .paper-details {
+    width: 65%;
+  }
+
+  .paper-details p {
+    margin-bottom: 2px; /* Adjust the value as needed */
+}
+  
+  .paper-title {
+    color: #2E86C1; /* Change this to your desired color */
+  }
+  
+  .paper-button {
+    display: inline-block;
+    padding: 5px 5px;
+    margin: 4px 0;
+    background-color: #2E86C1; /* Change this to your desired button color */
+    color: white;
+    text-decoration: none;
+    font-size: 13px;
+    border-radius: 5px;
+  }
+  
+  .paper-button:hover {
+    background-color: #21618C;
+  }
+
+  .separator {
+    width: 100%;
+    border-top: 1px solid #eee; /* Adjust the color and width as needed */
+    margin: 20px 0; /* Adjust the spacing as needed */
+  }
