@@ -5,13 +5,6 @@ permalink: research/
 author_profile: true
 ---
 
----
-layout: archive
-title: "Research"
-permalink: research/
-author_profile: true
----
-
 ## 2024 
 
 <div class="paper">
