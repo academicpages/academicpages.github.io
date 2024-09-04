@@ -24,8 +24,8 @@ author:
   avatar           : "LJF.png"
   name             : "Alan Lyu(吕骏峰)"
   pronouns         : # example: "she/her"  
-  bio              : "The truth always turns out to be simpler than you thought."
-  location         : "Beijing, China"
+  bio              : #"The truth always turns out to be simpler than you thought."
+  location         : "China"
   employer         : "Peking University"
   uri              : # URL
   email            : "AlanLyu2024@163.com" 
