@@ -12,4 +12,4 @@ The research area that interests me is condensed matter physics and its applicat
 
 Click [here](../assets/CV_JunfengLyu.pdf) to get my CV.
 
-[Email](AlanLyu2024@163.com) / [Github](https://github.com/JunfengLyu)
+[Email](mailto:2300011515@stu.pku.edu.cn) / [Github](https://github.com/JunfengLyu)
