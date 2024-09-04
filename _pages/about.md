@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Computer Graphics Group"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Our group (<font color=#FF0000>CGVSL</font>) is an interdisciplinary research laboratory. The group's mission is to advance computer graphics research; its theme is the enhancement of human creativity and innovation through advances in computer graphics. 
+Our group (CGVSL) is an interdisciplinary research laboratory. The group's mission is to advance computer graphics research; its theme is the enhancement of human creativity and innovation through advances in computer graphics. 
 
 This group is founded by [Prof. Tong-Yee Lee](http://graphics.csie.ncku.edu.tw/Tony/tony.htm) since 1997. The group in 2009 consists of 2 faculties, 8 PhD students and  10 MS students.
 
