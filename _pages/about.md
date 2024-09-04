@@ -28,7 +28,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - **Findings** In this prospective cohort study of 33,687 participants, earlier menopause was significantly linked to a 60% higher risk of premature mortality for those experiencing menopause before 40 years old. A metabolomic signature of 106 metabolites correlated with premature mortality mediated 13.6% (1.9%–28.3%) of this association.
 - **Meaning** An identified metabolomic signature may potentially predict and manage premature mortality risks associated with early menopause.
 
-[👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) **…**
+[👉_Click here to check out my full publications_](https://scholar.google.com/citations?user=A8k3EK4AAAAJ&hl=zh-CN) …
 
 <h2 id="honors-and-awards">🎖 Honors and Awards</h2>
 
