@@ -10,12 +10,14 @@ redirect_from:
 {% newthought 'At present, I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of
 London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
 Since entering academia in 2020, I have attempted to traverse the twofold research and education
-landscape in a manner that emphasises (or, at least, promotes) consciousness expansion of myself and
-my advisees. Exploration-based (as opposed to examination-based) studies deviates from the conventions
-of academic training. Exploration is eschewed in the extant populist model of science as research
-group leaders are incentivised to enhance their personal metrics by collecting more publications,
-which is a metric but not an effective measure of growth- especially of one's advisees{%sidenote
-'' 'Of course, this presumes that advisees are also self-motivated to grow.'%}.
+landscape in a manner that I think can expand emphasises consciousness- both mine and
+that of those who try to work with me, especially if they are students or early career researchers.
+Exploration-based (as opposed to examination-focused) learning deviates from the conventions
+of formal academia especially because its rewards lie in non-metric achievements; this is true not
+just in academia's education component. Exploration is also eschewed in the extant populist model
+of science as research group leaders are incentivised to enhance their personal metrics by collecting
+more publications, which is a metric but not an effective measure of growth- especially of one's
+advisees{%sidenote '' 'Of course, this presumes that advisees are also self-motivated to grow.'%}.
 My conclusion is that a lot of today's professoriate are not too different from philatelists[^a].
 
 ## My Research and Pedagogic Principle: Tasteful engineering creativity via constructivist experimentation
