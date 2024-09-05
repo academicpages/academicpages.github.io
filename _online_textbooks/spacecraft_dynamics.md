@@ -1,6 +1,6 @@
 ---
-title: "Spacecraft Dynamics"
-excerpt: "An in-depth resource on spacecraft dynamics, covering key principles and theories."
+title: "Computational Spacecraft Dynamics"
+excerpt: "An introduction to spacecraft dynamics modelling and simulation."
 url: "http://www.angadhn.com/SpacecraftDynamics/introduction.html"
 ---
 
