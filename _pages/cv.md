@@ -28,6 +28,19 @@ Summer schools and workshops
 * Aug 2022: ESSLLI summer school, Galway, Ireland (logic, NLP and ML)
 * Jun 2022: Como summer school, Italy (probability and causal methods)
 
+
+Teaching assistance
+======
+* Feb 2024 - June 2024: "Machine Learning", MSc program
+* Feb 2024 - June 2024: "Machine Learning and AI", BSc program
+* Sep 2023 - Dec 2023: "Computer Programming in C and Python", BSc program
+* Feb 2023 - June 2023: "Machine learning", BSc program
+* Feb 2023 - June 2023: "Artificial intelligence", BSc program
+* Sep 2022 - Dec 2022: "Computer Programming in C and Python", BSc program
+* Sep 2022 - Dec 2022: "Game theory", BSc program
+* Feb 2022 - Jun 2022: "Machine Learning", MSc program
+* Sep 2021 - Dec 2021: "Computer Programming in C and Python", BSc program
+
 Work experience
 ======
 
