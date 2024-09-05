@@ -15,6 +15,6 @@ I’m Elizaveta Demyanenko, a fourth year Phd student in Statistics and Computer
 
 ## Research Interests
 
-- Statistical Machine Learning
-- Computational biology
-- Message-passing algorithms
+- Statistical physics
+- Diffusion models
+- Attention mechanisms
