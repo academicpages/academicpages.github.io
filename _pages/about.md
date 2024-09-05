@@ -6,13 +6,46 @@ redirect_from:
   - /about.html
 ---
 
-{% newthought 'I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
-Everything that I learned about the field of rigid body dynamics was from the late
-[Prof. Fidels O. Eke](https://web.archive.org/web/20230127150437/https://mae.ucdavis.edu/news/memoriam-professor-emeritus-fidelis-eke), an
-extraordinary scholar and human being.
-I was also fortunate to spend a year at the DARTS Lab, researching computational multibody robot dynamics
- under [Dr. Abhi Jain](https://www-robotics.jpl.nasa.gov/who-we-are/people/abhinandan_jain/), at the NASA Jet Propulsion Laboratory.
- This led up to a postdocotoral appointment at the
-[Surrey Space Centre](https://www.surrey.ac.uk/surrey-space-centre) based within the University of Surrey- here, I worked with [SSTL](https://www.sstl.co.uk) and Airbus to develop missions, architectures, and technology
-development/demonstration plans for in-space robotic assembly alongside driving development of lab-based testbed along these lines. It is these experiences that got me into the field of space robotics despite,
- building upon a fundamental engineering science-based PhD in Mechanical and Aerospace Engineering at the University of California, Davis.
+{% newthought 'At present, I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of
+London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
+Since entering academia in 2020, I have attempted to traverse the twofold research and education
+landscape in a manner that emphasises (or, at least, promotes) consciousness expansion of myself and
+my advisees. Exploration-based (as opposed to examination-based) studies deviates from the conventions
+of academic training. Exploration is eschewed in the extant populist model of science as research
+group leaders are incentivised to enhance their personal metrics by collecting more publications,
+which is a metric but not an effective measure of growth- especially of one's advisees{%sidenote
+'' 'Of course, this presumes that advisees are also self-motivated to grow.'%}.
+My conclusion is that a lot of today's professoriate are not too different from philatelists[^a].
+
+## My Research and Pedagogic Principle: Tasteful engineering creativity via constructivist experimentation
+My new approach to personal learning and pedagogic growth bears some parallels to Papert's
+constructivist philosophy. My interpretation of this is that intuition and interest comes from
+experimenting with new and previously unknown interactive tools, much like a child playing with an
+ever-expanding collection of toys, to enhance their understanding of the world. My belief is that
+this leads to one eventually uncovering{% sidenote '' 'In some cases, even _discovering_'.%} their
+interests, which I see as an important precursor to developing taste. I am writing this while
+reflecting on the efforts of some extraordinary students who, over the Summer of 2024, collectively 
+created an online textbook on Spacecraft Dynamics[^b] based on previous handwritten lecture notes. 
+
+## My Interests: Multibody Spacecraft Dynamics and Future Space Systems
+Everything that I learned about my academic field of expertise (classical mechanics and
+rigid multibody dynamics) and effective written communication was from the
+[late Prof. Fidels O. Eke](https://web.archive.org/web/20230127150437/https://mae.ucdavis.edu/news/memoriam-professor-emeritus-fidelis-eke){% sidenote '' '[His UC Davis obituary](https://mae.ucdavis.edu/news/memoriam-professor-emeritus-fidelis-eke)' %},
+a truly extraordinary scholar and gentleman. Towards the completion of my PhD, I was fortunate to
+be accepted by [Dr. Abhi Jain](https://www-robotics.jpl.nasa.gov/who-we-are/people/abhinandan_jain/)
+to spend a year at the [NASA Jet Propulsion Laboratory's DARTSLab](https://dartslab.jpl.nasa.gov),
+where Abhi's group has made fundamental contributions to computational/algorithmic multibody robot
+dynamics. This led into a postdocotoral appointment at the
+[Surrey Space Centre](https://www.surrey.ac.uk/surrey-space-centre)- here, I worked with
+[SSTL](https://www.sstl.co.uk) and Airbus to develop missions, architectures, and technology
+development/demonstration plans for [in-space robotic assembly](http://angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly) alongside driving development of lab-based technology
+development testbeds. Here, again, I was adroitly guided by
+[Prof. Craig Underwood](https://www.surrey.ac.uk/people/craig-underwood) who possesses an
+encyclopaedic knowledge of space missions while also being a real space engineer. It is these
+experiences that got me into the field of space robotics that builds on a fundamental engineering
+science-based PhD in Mechanical and Aerospace Engineering at the University of California, Davis.
+
+#### Footnotes
+[^a]: A commentary will be needed from me to clarify this as I do believe that documentation is important in STEM but more important is training future scientists to be effectively communicate in writing.
+
+[^b]: The students built on prior basic knowledge of Python, $\LaTeX$, and Markdown but more importantly some of them learned how to thoroughly review [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls). They were able to teach their friends, via remote pair programming, how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit.
