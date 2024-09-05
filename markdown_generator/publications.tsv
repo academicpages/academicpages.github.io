@@ -1,2 +1,4 @@
 pub_date	title	venue	paper_url
-2020-06-14	Entropic gradient descent algorithms and wide flat minima	ICLR	https://openreview.net/pdf?id=xjXg0bnoDmS
+2021	Entropic gradient descent algorithms and wide flat minima	ICLR	https://openreview.net/pdf?id=xjXg0bnoDmS
+pub_date	title	venue	paper_url
+2024	The twin peaks of learning neural networks	Machine Learning: Science and Technology	https://iopscience.iop.org/article/10.1088/2632-2153/ad524d/pdf
