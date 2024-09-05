@@ -44,10 +44,10 @@ Teaching assistance
 Work experience
 ======
 * Nov 2022 - Feb 2023: Special collaboration project at Alkemy S.p.A.
-    developed an autonomous anomaly detection pipeline in Python with MLOps using statistical methods
+    - developed an autonomous anomaly detection pipeline in Python with MLOps using statistical methods
 * Sep 2019 - June 2020: Research Assistant in ARTLAB Bocconi
-      - ran experiments on alternative optimization techniques and analyzed their effects on robustness against adversarial examples of images
-      - improved the robustness of Deep Q-Learning methods
+    - ran experiments on alternative optimization techniques and analyzed their effects on robustness against adversarial examples of images
+    - improved the robustness of Deep Q-Learning methods
 * Nov 2018 - Mar 2019 Intern Data Scientist in Quick Algorithm company
     - developed predictive models for the Scops analytical platform
 
