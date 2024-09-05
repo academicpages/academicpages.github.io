@@ -1,6 +1,6 @@
 ---
 title: "Symbolic Computational Dynamics"
-excerpt: "An introduction to spacecraft dynamics modelling and simulation."
+excerpt: "An introduction to multibody dynamics and the use of symbolic computation in modelling them."
 url: "https://www.angadhn.com/ComputationalDynamics/kinematics/introduction.html"
 ---
 
