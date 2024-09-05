@@ -43,21 +43,14 @@ Teaching assistance
 
 Work experience
 ======
+* Nov 2022 - Feb 2023: Special collaboration project at Alkemy S.p.A.
+    developed an autonomous anomaly detection pipeline in Python with MLOps using statistical methods
+* Sep 2019 - June 2020: Research Assistant in ARTLAB Bocconi
+      - ran experiments on alternative optimization techniques and analyzed their effects on robustness against adversarial examples of images
+      - improved the robustness of Deep Q-Learning methods
+* Nov 2018 - Mar 2019 Intern Data Scientist in Quick Algorithm company
+    - developed predictive models for the Scops analytical platform
 
-* Nov 2022 - Feb 2023 : Special collaboration project in Alkemy company
-  - developing an anomaly detection module using statistical methods
-* Feb 2023 - present : Teaching Assistant on "Machine learning", BEMACS BSc program
-* Sep 2022 - Dec 2022 : Teaching Assistant on "Game Theory", elective course in BSc program
-* Sep 2022 - Dec 2022 : Teaching Assistant on "Computer Programming", BAI BSc program
-* Sep 2021 - Dec 2021 : Teaching Assistant on "Computer Programming", BAI BSc program
-* Feb 2022 - Jun 2022: Teaching Assistant on "Machine Learning", DSBA MSc program
-* Sep 2019 - June 2020: Research Assistant in [ARTLAB](http://www.artlab.unibocconi.eu/wps/wcm/connect/Cdr/Artlab/Home/) Bocconi
-  - running experiments on alternative optimization techniques and analyzing their effects on robustness against adversarial examples of images
-  - improving the robustness of Deep Q-Learning methods
-
-* Nov 2018 - Mar 2019 Intern Data Scientist in Quick Algorithm company 
-  - developing  models for the Scops analytical platform
-  
 Skills
 ======
 Programming Languages:
@@ -72,4 +65,6 @@ Languages:
 Publications
 ======
   Pittorino, Fabrizio, et al. "Entropic gradient descent algorithms and wide flat minima." Journal of Statistical Mechanics: Theory and Experiment 2021.12 (2021) (ICLR conference)
+  Demyanenko, Elizaveta, et al. "The twin peaks of learning neural networks." Machine Learning: Science and Technology (2024) (presented at the Cargese workshop)
+  Demyanenko, Straziota, et al. "Sampling through Algorithmic Diffusion in Non-Convex Perceptron Problems" (2024) (preprint, presented at the Youth In High Dimensions conference)
 
