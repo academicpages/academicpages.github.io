@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+mathjax: true
 redirect_from: 
   - /about/
   - /about.html
@@ -48,4 +49,4 @@ science-based PhD in Mechanical and Aerospace Engineering at the University of C
 #### Footnotes
 [^a]: A commentary will be needed from me to clarify this as I do believe that documentation is important in STEM but more important is training future scientists to be effectively communicate in writing.
 
-[^b]: The students built on prior basic knowledge of Python, $\LaTeX$, and Markdown but more importantly some of them learned how to thoroughly review [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls). They were able to teach their friends, via remote pair programming, how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit.
+[^b]: The students built on prior basic knowledge of Python, $$\LaTeX$$, and Markdown but more importantly some of them learned how to thoroughly review [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls). They were able to teach their friends, via remote pair programming, how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit.
