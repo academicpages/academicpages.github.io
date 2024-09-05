@@ -14,7 +14,7 @@ Prior to joining UC Davis, I was a postdoctoral scholar in the [Redwood Center f
 
 # TA Positions
 
-If you are a student interested in serving as a TA for a class I am teaching, please submit an applicaiton through the process managed by the ECE department. I cannot accept TA assignment requests made over email.
+If you are a student interested in serving as a TA for a class I am teaching, please submit an application through the process managed by the ECE department. I cannot accept TA assignment requests made over email.
 
 # Publications
 
