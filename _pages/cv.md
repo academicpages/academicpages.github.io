@@ -53,8 +53,8 @@ Work experience
 
 Skills
 ======
-Programming Languages:
- - Python/Julia/C/C++/R/bash
+* Programming Languages: Python (PyTorch/Keras)/Julia (Flux)/C/bash/R
+* HPC (parallelization over GPU/CPU), git, SQL
 
 Languages:
  - Russian (Native)
@@ -64,7 +64,9 @@ Languages:
 
 Publications
 ======
-  Pittorino, Fabrizio, et al. "Entropic gradient descent algorithms and wide flat minima." Journal of Statistical Mechanics: Theory and Experiment 2021.12 (2021) (ICLR conference)
-  Demyanenko, Elizaveta, et al. "The twin peaks of learning neural networks." Machine Learning: Science and Technology (2024) (presented at the Cargese workshop)
-  Demyanenko, Straziota, et al. "Sampling through Algorithmic Diffusion in Non-Convex Perceptron Problems" (2024) (preprint, presented at the Youth In High Dimensions conference)
+  - Pittorino, Fabrizio, et al. "Entropic gradient descent algorithms and wide flat minima." Journal of Statistical Mechanics: Theory and Experiment 2021.12 (2021) (ICLR conference)
+  
+  - Demyanenko, Elizaveta, et al. "The twin peaks of learning neural networks." Machine Learning: Science and Technology (2024) (presented at the Cargese workshop)
+  
+  - Demyanenko, Straziota, et al. "Sampling through Algorithmic Diffusion in Non-Convex Perceptron Problems" (2024) (preprint, presented at the Youth In High Dimensions conference)
 
