@@ -21,9 +21,12 @@ Education
 
 Summer schools and workshops
 ======
-* Jun 2022: Como summer school (probability and causal methods)
-* Aug 2022: ESSLLI summer school, Galway (logic and NLP)
-* Dec 2022: CompBio workshop, Milan (computational biology)
+* May 2024: Youth In High Dimensions conference, Trieste, Italy, (ML & statistical physics), poster presentation
+* Aug 2023: Cargese workshop, Corsica, France, (ML \& statistical physics), poster presentation
+* July 2023: SigmaPhy conference, Heraklion, Greece, (statistical physics), poster presentation
+* Dec 2022: CompBio workshop, Milan, Italy (computational biology \& ML)
+* Aug 2022: ESSLLI summer school, Galway, Ireland (logic, NLP and ML)
+* Jun 2022: Como summer school, Italy (probability and causal methods)
 
 Work experience
 ======
