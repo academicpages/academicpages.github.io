@@ -29,7 +29,7 @@ I have a broad interest in these areas, and at a deeper level, I am eager to exp
     <div class="chat-title">Chat with Virtual Owen</div>
     <div id="chatbox" class="chat-box">
         <div class="bot-message">
-            <img src="virtual_me.png" alt="Bot Avatar">
+            <img src="_pages/virtual_me.png" alt="Bot Avatar">
             <p>Hello, I am virtual Owen, what do you want to know about me?</p>
         </div>
     </div>
@@ -49,7 +49,7 @@ I have a broad interest in these areas, and at a deeper level, I am eager to exp
             const chatbox = document.getElementById('chatbox');
             chatbox.innerHTML += `
                 <div class="user-message">
-                    <img src="bio-photo.jpg" alt="User Avatar">
+                    <img src="images/bio-photo.jpg" alt="User Avatar">
                     <p>${userMessage}</p>
                 </div>`;
             document.getElementById('inputMessage').value = "";
@@ -73,7 +73,7 @@ I have a broad interest in these areas, and at a deeper level, I am eager to exp
 
             chatbox.innerHTML += `
                 <div class="bot-message">
-                    <img src="virtual_me.png" alt="Bot Avatar">
+                    <img src="_pages/virtual_me.png" alt="Bot Avatar">
                     <p>${botReply}</p>
                 </div>`;
             chatbox.scrollTop = chatbox.scrollHeight;
@@ -95,6 +95,7 @@ body {
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 200px;
 }
 
 .chat-title {
