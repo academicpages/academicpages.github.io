@@ -99,7 +99,7 @@ I have been actively searching for the right mentor and project as I am very eag
       <img src="images/DDPM.jpg" alt="DDPM">
     </div>
     <div style="flex: 1;">
-      <h3>Enhanced Corneal Endothelial Cell Segmentation via Denoising Diffusion Probabilistic Model</h3>
+      <h3>Enhanced Corneal Endothelial Cell Segmentation via Frequency-Selected Residual Fourier Diffusion Models</h3>
       <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="highlight">Under Review</span></em></p>
     </div>
 </div>
