@@ -7,7 +7,7 @@
 # server process.
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dilara Vefa Ayyildiz / Computer Vision Engineer"
+title                    : "Dilara Vefa Ayyildiz"
 title_separator          : "-"
 name                     : &name "Dilara Vefa Ayyildiz"
 description              : &description "Computer Vision Engineer and Data Scientist"
