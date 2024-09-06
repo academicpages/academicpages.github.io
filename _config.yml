@@ -5,15 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dilara Vefa Ayyildiz / Computer Vision Engineer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+name                     : &name "Dilara Vefa Ayyildiz"
+description              : &description "Computer Vision Engineer and Data Scientist"
+url                      : https://academicpages.github.io 
+baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -22,14 +21,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
-
+  name             : "Dilara Vefa Ayyildiz"
+  pronouns         : "she/her"
+  bio              : "Computer Vision Engineer and Data Scientist specializing in AI and autonomous driving."
+  location         : "Florida / USA"
+  employer         : "Connected Wise LLC"
+  uri              : # URL can be added later
+  email            : "vefaayyildiz@gmail.com"
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
