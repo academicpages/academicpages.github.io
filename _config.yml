@@ -20,7 +20,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "image0.jpeg"
   name             : "Dilara Vefa Ayyildiz"
   pronouns         : "she/her"
   bio              : "Computer Vision Engineer and Data Scientist specializing in AI and autonomous driving."
