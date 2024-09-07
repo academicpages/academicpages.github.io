@@ -205,78 +205,94 @@ kramdown:
   enable_coderay: false
 
 
-# These settings control the types of collections used by the template
+# Publication Category - Remove this section
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
+
+# Collections for new sections
 collections:
-  teaching:
+  education:
     output: true
     permalink: /:collection/:path/
-  publications:
+  experience:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research_projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  teaching_tutoring:
     output: true
     permalink: /:collection/:path/
+  conferences_events:
+    output: true
+    permalink: /:collection/:path/
+  leaderships:
+    output: true
+    permalink: /:collection/:path/
+  activities:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults for new sections
+defaults:
+  # _education
+  - scope:
+      path: ""
+      type: education
+    values:
+      layout: single
+      author_profile: true
+  # _experience
+  - scope:
+      path: ""
+      type: experience
+    values:
+      layout: single
+      author_profile: true
+  # _research_projects
+  - scope:
+      path: ""
+      type: research_projects
+    values:
+      layout: single
+      author_profile: true
+  # _teaching_tutoring
+  - scope:
+      path: ""
+      type: teaching_tutoring
+    values:
+      layout: single
+      author_profile: true
+  # _conferences_events
+  - scope:
+      path: ""
+      type: conferences_events
+    values:
+      layout: single
+      author_profile: true
+  # _leaderships
+  - scope:
+      path: ""
+      type: leaderships
+    values:
+      layout: single
+      author_profile: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
+
 
 
 # These settings control how pages and collections are included in the site
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
 
 # Sass/SCSS
 sass:
