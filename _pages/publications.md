@@ -9,11 +9,13 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+(Equal contribution\*. Corresponding author†.)
+
 **Generation**
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
-**NAACL ’22**: Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, pages 9–-17. Seattle, Washington, USA, July 10--15, 2022.
+**NAACL ’22**: Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics, Industry Track, pages 9–-17. Seattle, Washington, USA, July 10--15, 2022.
 
 * **Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding**  
 **Penghui Wei**, Shaoguo Liu, Xuanhua Yang, Liang Wang, Bo Zheng  
@@ -35,7 +37,7 @@ author_profile: true
 **SIGIR ’23**: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 3037-–3046. July 23--27, 2023.  
 
 * **Correlative Preference Transfer with Hierarchical Hypergraph Network for Multi-Domain Recommendation**  
-Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
+Zixuan Xu\*, **Penghui Wei**\*, Shaoguo Liu, Liang Wang, Bo Zheng  
 **WWW ’23**: Proceedings of the Web Conference 2023, pages 983–-991. Austin, Texas, USA, April 30 -- May 4, 2023.   
 
 * **Hybrid Contrastive Constraints for Multi-Scenario Ad Ranking**  
@@ -43,7 +45,7 @@ Shanlei Mu, **Penghui Wei**, Wayne Xin Zhao, Shaoguo Liu, Liang Wang, Bo Zheng
 **CIKM ’23**: Proceedings of the 32nd ACM International Conference on Information and Knowledge Management, pages 1857–-1866. Birmingham, UK, October 21--25, 2023.        
 
 * **UKD: Debiasing Conversion Rate Estimation via Uncertainty-regularized Knowledge Distillation**  
-Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng (\*: Equal contribution)  
+Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng  
 **WWW ’22**: Proceedings of the Web Conference 2022, pages 2078--2087. Online, Lyon, France, April 25--29, 2022.
 
 * **Posterior Probability Matters: Doubly-Adaptive Calibration for Neural Predictions in Online Advertising**  
@@ -51,7 +53,7 @@ Zixuan Xu\*, **Penghui Wei**\*, Weimin Zhang, Shaoguo Liu, Liang Wang, Bo Zheng 
 **SIGIR ’22**: Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 2645–-2649. Madrid, Spain, July 11--15, 2022.    
 
 * **AdaSparse: Learning Adaptively Sparse Structures for Multi-Domain Click-Through Rate Prediction**  
-Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu, Liang Wang, Bo Zheng (†: Corresponding author)    
+Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu, Liang Wang, Bo Zheng    
 **CIKM ’22**: Proceedings of the 31st ACM International Conference on Information and Knowledge Management, pages 4635–-4639. Hybrid Conference, Hosted in Atlanta, Georgia, USA, October 17-21, 2022.
    
 * **AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation**  
