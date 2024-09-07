@@ -34,25 +34,25 @@ analytics:
 collections:
   education:
     output: true
-    permalink: /:collection/:path/
+    permalink: /education/:path/
   experience:
     output: true
-    permalink: /:collection/:path/
+    permalink: /experience/:path/
   research_projects:
     output: true
-    permalink: /:collection/:path/
+    permalink: /research_projects/:path/
   teaching_tutoring:
     output: true
-    permalink: /:collection/:path/
+    permalink: /teaching_tutoring/:path/
   conferences_events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /conferences_events/:path/
   leaderships:
     output: true
-    permalink: /:collection/:path/
+    permalink: /leaderships/:path/
   activities:
     output: true
-    permalink: /:collection/:path/
+    permalink: /activities/:path/
 
 # Defaults for new sections
 defaults:
