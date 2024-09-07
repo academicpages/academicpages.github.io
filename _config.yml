@@ -1,10 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Dilara Vefa Ayyildiz"
@@ -15,267 +8,103 @@ url                      : https://academicpages.github.io
 baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
 
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
+# Site Author
 author:
-  # Biographic information
   avatar           : "profile.png"
   name             : "Dilara Vefa Ayyildiz"
   pronouns         : "she/her"
   bio              : "Computer Vision Engineer and Data Scientist specializing in AI and autonomous driving."
   location         : "Florida / USA"
   employer         : "Florida Polytechnic University"
-  uri              : # URL can be added later
   email            : "vefaayyildiz@gmail.com"
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : 
-  impactstory      : # URL
-  orcid            : 
-  semantic         : # URL
-  pubmed           : 
-  researchgate     : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : 
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
-  # Social media
-  bluesky          :  # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # URL
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   : 
+breadcrumbs              : false
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
-    shortname            :
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
-  transforms:
-    email                : "md5"
-  generatedFields:
-    date:
-      type               : "date"
-      options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
-
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
-
-
-# Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
+read_more                : "disabled"
+talkmap_link             : false
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-  google:
-    tracking_id          :
+  provider               :  "false"
 
-
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-keep_files:
-  - .git
-  - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
-
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false
-
-
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-
-# These settings control the types of collections used by the template
+# Collections for the new sections
 collections:
-  teaching:
+  education:
     output: true
     permalink: /:collection/:path/
-  publications:
+  experience:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research_projects:
     output: true
     permalink: /:collection/:path/
-  talks:
+  teaching_tutoring:
+    output: true
+    permalink: /:collection/:path/
+  conferences_events:
+    output: true
+    permalink: /:collection/:path/
+  leaderships:
+    output: true
+    permalink: /:collection/:path/
+  activities:
     output: true
     permalink: /:collection/:path/
 
-
-# These settings control how pages and collections are included in the site
+# Defaults for new sections
 defaults:
-  # _posts
+  # _education
   - scope:
       path: ""
-      type: posts
+      type: education
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
+  # _experience
   - scope:
       path: ""
-      type: pages
+      type: experience
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _research_projects
   - scope:
       path: ""
-      type: teaching
+      type: research_projects
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _publications
+  # _teaching_tutoring
   - scope:
       path: ""
-      type: publications
+      type: teaching_tutoring
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
-  # _portfolio
+  # _conferences_events
   - scope:
       path: ""
-      type: portfolio
+      type: conferences_events
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
-  # _talks
+  # _leaderships
   - scope:
       path: ""
-      type: talks
+      type: leaderships
     values:
-      layout: talk
+      layout: single
       author_profile: true
-      share: true
+  # _activities
+  - scope:
+      path: ""
+      type: activities
+    values:
+      layout: single
+      author_profile: true
 
 
 # Sass/SCSS
