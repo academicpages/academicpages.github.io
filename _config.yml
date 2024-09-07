@@ -9,7 +9,7 @@ baseurl                  : ""
 repository               : "academicpages/academicpages.github.io"
 
 # Change theme here:
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/merlot@v0.2.0
 
 # Site Author
 author:
