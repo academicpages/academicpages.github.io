@@ -56,6 +56,18 @@ collections:
 
 # Defaults for new sections
 defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
   # _education
   - scope:
       path: ""
