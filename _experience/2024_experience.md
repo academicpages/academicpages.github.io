@@ -4,8 +4,7 @@ title: "Experience"
 permalink: /experience/
 author_profile: true
 ---
-
-# Experience
+![work](https://vefaayyildiz.github.io/images/work.png)  
 
 ## Connected Wise LLC, Orlando, FL, USA  
 **Computer Vision Systems Engineer**  
