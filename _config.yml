@@ -4,9 +4,9 @@ title                    : "Dilara Vefa Ayyildiz"
 title_separator          : "-"
 name                     : &name "Dilara Vefa Ayyildiz"
 description              : &description "Computer Vision Engineer and Data Scientist"
-url                      : https://academicpages.github.io 
+url                      : https://vefaayyildiz.github.io 
 baseurl                  : "" 
-repository               : "academicpages/academicpages.github.io"
+repository               : "vefaayyildiz.github.io"
 
 # Change theme here:
 remote_theme: pages-themes/merlot@v0.2.0
