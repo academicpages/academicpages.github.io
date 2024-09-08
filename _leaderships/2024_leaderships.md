@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Leadership"
-permalink: /leadership/
+permalink: /leaderships/
 author_profile: true
 ---
 
