@@ -13,7 +13,7 @@ remote_theme: pages-themes/merlot@v0.2.0
 
 # Site Author
 author:
-  avatar           : "profile.png"
+  avatar           : "https://vefaayyildiz.github.io/images/vefa.png"
   name             : "Dilara Vefa Ayyildiz"
   pronouns         : "she/her"
   bio              : "Computer Vision Engineer and Data Scientist specializing in AI and autonomous driving."
