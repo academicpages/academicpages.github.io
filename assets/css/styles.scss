@@ -47,12 +47,11 @@ body {
   }
   
   .paper-image {
-    width: 5%;
+    width: 50px;
     // height:200px;
     height: auto;
     margin-right: 10px;
-    // object-fit: contain; /* Ensure the image fits within the container */
-    object-fit: scale-down; /* Ensure the image fits within the container */
+    object-fit: contain; /* Ensure the image fits within the container */
   }
   
   .paper-details {
