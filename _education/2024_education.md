@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# EDUCATION
+![edu](https://vefaayyildiz.github.io/images/acade.png)  
 
 ## Florida Polytechnic University  
 *Master of Science in Data Science, GPA: 3.96/4.00*  

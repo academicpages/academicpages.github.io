@@ -5,7 +5,7 @@ permalink: /research_projects/
 author_profile: true
 ---
 
-# Research & Projects
+![rese](https://vefaayyildiz.github.io/images/rese.png)  
 
 ## DOE Vector Project  
 **Computer Vision Systems Engineer**  

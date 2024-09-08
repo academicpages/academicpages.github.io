@@ -5,6 +5,7 @@ permalink: /teaching_tutoring/
 author_profile: true
 ---
 
+![teac](https://vefaayyildiz.github.io/images/teac.png)  
 
 
 ## Middle/High School Math Tutoring  
