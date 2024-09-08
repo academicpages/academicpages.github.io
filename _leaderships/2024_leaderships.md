@@ -5,7 +5,8 @@ permalink: /leaderships/
 author_profile: true
 ---
 
-# Leadership Roles
+![lead](https://vefaayyildiz.github.io/images/lead.png)  
+
 
 ## Florida Polytechnic University  
 **Student Government Association - Audit and Budget Committee Chair/Graduate Representative**  
