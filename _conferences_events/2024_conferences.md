@@ -13,12 +13,15 @@ author_profile: true
 
 - Presented at Transpo2024 in Orlando, representing Connected Wise LLC, focusing on transportation safety technologies.
 
+![trs](https://vefaayyildiz.github.io/images/trs.png) 
+
 ## 2024 Plug and Play Orlando Launch Program  
 **SmartCities Batch Representative**  
 *July 2024*
 
 - Represented Connected Wise LLC at the Plug and Play Smart Cities event, showcasing AI-driven transportation innovations.
 
+![pnp](https://vefaayyildiz.github.io/images/pnp.png) 
 ## 2024 Florida Section of MAA  
 **Student Speaker**  
 *February 2024*
@@ -30,6 +33,8 @@ author_profile: true
 *January 2024*
 
 - Exhibited at the Transportation Research Board (TRB) annual meeting, showcasing autonomous vehicle safety research.
+
+![trb](https://vefaayyildiz.github.io/images/trb.png) 
 
 ## 2023 FAV SUMMIT  
 **Student Exhibitor**  
