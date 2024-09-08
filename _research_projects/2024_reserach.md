@@ -21,7 +21,7 @@ author_profile: true
 ## A Bridge Weigh-in-Motion System  
 **Computer Vision Systems Engineer**  
 *October 2023 - Present*
-
+- "USDOT SBIR Phase 2 grant-funded project"
 - Engineered machine learning models using convolutional neural networks (CNNs) to convert pixel coordinates into real-world data, utilizing OpenCV and perspective transformation matrices for precise axle and FDOT's 13 class classification.
 - Monitored traffic using deep learning models on CCTV footage, applying YOLOv10 for object detection and the BotSort algorithm for continuous tracking of heavy trucks, optimizing for axle identification and classification.
 - Work on a low-cost, portable, and reliable BWIM technology to identify overweight vehicles passing load-posted bridges, addressing the lack of enforcement on rural bridges.
@@ -61,7 +61,7 @@ author_profile: true
 - Created diverse, high-quality synthetic datasets of emergency vehicles under varying environmental conditions using GANs (Generative Adversarial Networks), addressing limitations of real-world data.
 - Integrated synthetic data into existing machine learning pipelines using TensorFlow and PyTorch, resulting in a marked improvement in model performance for emergency vehicle detection, validated through real-world testing.
 
-![LLMs and Diffusion Models](https://vefaayyildiz.github.io/images/syn.png)  
+![LLMs and Diffusion Models](https://vefaayyildiz.github.io/images/mas1.png)  
 
 ---
 
@@ -69,9 +69,11 @@ author_profile: true
 *Izmir University of Economics*  
 *September 2020 - September 2021*
 
+- "The Scientific and Technological Research Council of Türkiye granded project"
 - Designed a computer vision system using OpenCV and Hough Transform algorithms to optimize vehicle mirror positions, reducing blind spots and improving safety.
 - Developed a driver monitoring system with Haar cascades for facial detection and CNN-based eye-tracking to detect driver drowsiness, providing real-time alerts and enhancing safety measures.
 
+![bac1](https://vefaayyildiz.github.io/images/bac1.png)  
 ---
 
 ## Nebula Rocket Team - Izmir University of Economics  
