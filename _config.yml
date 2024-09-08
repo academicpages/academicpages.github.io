@@ -18,8 +18,31 @@ author:
   pronouns         : "she/her"
   bio              : "Computer Vision Engineer and Data Scientist specializing in AI and autonomous driving."
   location         : "Florida / USA"
-  employer         : "Florida Polytechnic University"
   email            : "vefaayyildiz@gmail.com"
+
+  # Social Media and Professional Networks
+  linkedin         : "https://www.linkedin.com/in/dilara-vefa-ayyildiz-m-sc-31951514b/"
+  github           : "https://github.com/vefaayyildiz"
+
+  # Skills and Expertise
+  skills:
+    - Python
+    - R
+    - TensorFlow
+    - PyTorch
+    - OpenCV
+    - YOLO
+    - CNNs
+    - Problem solving
+    - Team collaboration
+
+
+  # Languages and Certifications
+  languages:
+    - English (Fluent)
+    - Turkish (Native)
+    - Spanish (Beginner)
+
 
 # Site Settings
 teaser                   : 
