@@ -14,15 +14,19 @@ author_profile: true
 - Developed AI sensing systems using YOLO models and BotSort for real-time object detection and tracking in both in-vehicle and infrastructure setups.
 - Designed in-vehicle systems with NVIDIA Jetson Orin hardware to detect road users and integrate V2X messages, enhancing adaptive driving and collision avoidance.
 
+![DOE Vector Project](https://vefaayyildiz.github.io/images/doe.png)  
+
 ---
 
 ## A Bridge Weigh-in-Motion System  
 **Computer Vision Systems Engineer**  
 *October 2023 - Present*
 
-- Engineered machine learning models using convolutional neural networks (CNNs) to convert pixel coordinates into real-world data, utilizing OpenCV and perspective transformation matrices for precise axle and vehicle weight detection.
+- Engineered machine learning models using convolutional neural networks (CNNs) to convert pixel coordinates into real-world data, utilizing OpenCV and perspective transformation matrices for precise axle and FDOT's 13 class classification.
 - Monitored traffic using deep learning models on CCTV footage, applying YOLOv10 for object detection and the BotSort algorithm for continuous tracking of heavy trucks, optimizing for axle identification and classification.
 - Work on a low-cost, portable, and reliable BWIM technology to identify overweight vehicles passing load-posted bridges, addressing the lack of enforcement on rural bridges.
+
+![Bridge Weigh-in-Motion](https://vefaayyildiz.github.io/images/bridge.png)  
 
 ---
 
@@ -33,6 +37,8 @@ author_profile: true
 - Developed object detection and classification models using YOLOv8 and YOLOv9, enhancing vehicle-to-everything (V2X) communication by providing real-time detection of vehicles, pedestrians, and road signs through onboard cameras.
 - Organized and processed extensive datasets, ensuring data accuracy and relevance for model optimization.
 - Enhanced model performance by implementing data augmentation techniques such as image rotation, scaling, and flipping, improving robustness across diverse environmental conditions and boosting classification accuracy.
+
+![On-Board Machine Vision](https://vefaayyildiz.github.io/images/v2x.png)  
 
 ---
 
@@ -54,6 +60,8 @@ author_profile: true
 - Developed a cutting-edge approach to generate synthetic images using LLMs and diffusion models, aimed at enhancing datasets for autonomous vehicle training in object detection and classification.
 - Created diverse, high-quality synthetic datasets of emergency vehicles under varying environmental conditions using GANs (Generative Adversarial Networks), addressing limitations of real-world data.
 - Integrated synthetic data into existing machine learning pipelines using TensorFlow and PyTorch, resulting in a marked improvement in model performance for emergency vehicle detection, validated through real-world testing.
+
+![LLMs and Diffusion Models](https://vefaayyildiz.github.io/images/syn.png)  
 
 ---
 
