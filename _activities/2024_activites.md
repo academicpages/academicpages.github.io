@@ -5,7 +5,7 @@ permalink: /activities/
 author_profile: true
 ---
 
-![activities](https://vefaayyildiz.github.io/images/activities.jpg)  
+![act](https://vefaayyildiz.github.io/images/act.png)  
 
 
 "A strong body makes the mind strong" has always been my philosophy when it comes to both sports and life. Scientifically, the link between an active body and the release of happiness hormones is well-established, and it's clear that these hormones help create more productive individuals. That's why, for years, running 5Ks three times a week has been an essential part of my life. In addition to this, living in Florida means I adapt my activities based on the weather. During hurricane season, I figure skate four times a week, but when the weather is clear, I surf twice a week and skate three times a week.
