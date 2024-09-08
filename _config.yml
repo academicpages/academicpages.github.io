@@ -21,27 +21,10 @@ author:
   email            : "vefaayyildiz@gmail.com"
 
   # Social Media and Professional Networks
-  linkedin         : "https://www.linkedin.com/in/dilara-vefa-ayyildiz-m-sc-31951514b/"
-  github           : "https://github.com/vefaayyildiz"
-
-  # Skills and Expertise
-  skills:
-    - Python
-    - R
-    - TensorFlow
-    - PyTorch
-    - OpenCV
-    - YOLO
-    - CNNs
-    - Problem solving
-    - Team collaboration
+  linkedin         : "/dilara-vefa-ayyildiz-m-sc-31951514b/"
+  github           : "/vefaayyildiz"
 
 
-  # Languages and Certifications
-  languages:
-    - English (Fluent)
-    - Turkish (Native)
-    - Spanish (Beginner)
 
 
 # Site Settings
