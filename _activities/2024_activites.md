@@ -16,7 +16,7 @@ I consider my work and academic life to be things I genuinely enjoy, so I count 
 
 I hope these little insights into my life bring a smile to your face. And first, I'd like to take a moment to express how lucky I feel to have my sister as my sister. To share more with you, here are a few photos of my life. Enjoy!
 
-![activities1](https://vefaayyildiz.github.io/images/1A1490C8-73E4-48EE-ED-955410BEF6F6.jpg)  
+![activities1](https://vefaayyildiz.github.io/images/dilan.jpg)  
 ![activities2](https://vefaayyildiz.github.io/images/image000007.jpg)  
 ![activities3](https://vefaayyildiz.github.io/images/IMG_1077.jpg)  
 ![activities4](https://vefaayyildiz.github.io/images/IMG_1200.jpg)  
