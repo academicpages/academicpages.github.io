@@ -1,0 +1,11 @@
+---
+title: "Galley: Modern Query Optimization for Sparse Tensor Programs"
+collection: talks
+type: "Talk"
+permalink: /talks/2024-10-5-MIT
+venue: "Massachusetts Institute of Technology"
+date: 2024-10-5
+location: "Cambridge, Massachusetts"
+---
+
+This talk introduced Galley, our system for declarative sparse tensor programming.
