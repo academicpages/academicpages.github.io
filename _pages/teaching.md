@@ -9,7 +9,7 @@ redirect_from:
 
 **List of the courses I TA'ed for:**
 * **Digital Design**, Amirkabir University of Technology, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a> Fall-2024
-* **Digital Electronics (Pulse Technique)**, Shahrood University of Technology, Instructors: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, Spring-2023
+* **Digital Electronics (Pulse Technique)**, Shahrood University of Technology, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, Spring-2023
 
 * **Signal and Systems**, Shahrood University of Technology, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, from Fall-2021 to Spring-2023
   
