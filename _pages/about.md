@@ -20,7 +20,7 @@ Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.i
 #myList {
     margin-bottom: 0;
 }
-#myList li:nth-child(n+7) {
+#myList li:nth-child(n+6) {
     display: none;
 }
 #more {
@@ -34,7 +34,7 @@ Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.i
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   document.getElementById("more").addEventListener("click", function(){
-      var listItems = document.querySelectorAll('#myList li:nth-child(n+7)');
+      var listItems = document.querySelectorAll('#myList li:nth-child(n+6)');
       for(var i=0; i<listItems.length; i++){
         listItems[i].style.display = 'list-item';
       }
@@ -44,6 +44,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
+  <li>09/2024: Three papers are accepted at CoRL 2024.</li>
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
   <li>06/2024: I am proud to be part of the <a href="https://www.youtube.com/watch?v=B9g2yhHs5Wg">Khoury Story</a>!</li>
   <li>04/2024: I will be returning to the Boston Dynamic AI Institute as a summer intern.</li>
@@ -124,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ![](images/equidiff.gif){: .align-right width="200px"}
 **Equivariant Diffusion Policy**  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*Preprint*  
+*CoRL 2024, Munich, Germany*  
 <button class="button-4" onclick="window.open('https://pointw.github.io/equidiff_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <br>
@@ -132,14 +133,14 @@ document.addEventListener("DOMContentLoaded", function() {
 ![](images/boce_orbit.png){: .align-right width="200px"}
 **OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
 Boce Hu, Xupeng Zhu\*, **Dian Wang\***, Zihao Dong\*, Haojie Huang\*, Chenghao Wang\*, Robin Walters, Robert Platt  
-*Preprint*  
+*CoRL 2024, Munich, Germany*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.03531','_blank')">PDF</button>
 <br>
 
 ![](images/haojie_imagine.png){: .align-right width="200px"}
 **IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
 Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
-*Preprint*  
+*CoRL 2024, Munich, Germany*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/imagine_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.11740','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=EpYUDb8bUP4','_blank')">Video</button>
