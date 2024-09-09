@@ -9,7 +9,8 @@ author_profile: true
 ## 2024 
 
 <div class="paper">
-<img src="../files/Images/2023/Hardware_Software_Codesign_of_DNN_Accele.png" class="paper-image">
+<div class="content">
+<div><img src="../files/Images/2023/Hardware_Software_Codesign_of_DNN_Accele.png" class="paper-image"></div>
 <div class="paper-details">
 <p class="paper-title">Hardware-Software Codesign of DNN Accelerators using Approximate Posit Multipliers</p>
 <p>Tom Glint, Kailash Prasad, Jinay Dagli, Krishil Gandhi, Aryan Gupta, Vrajesh Patel, Neel Shah, Joycee Mekie</p>
@@ -22,6 +23,7 @@ author_profile: true
 <a href="https://medium.com/@lalitagod100/iitgn-researcher-creates-gadget-to-get-around-restrictions-on-fitness-tracking-80869cea0264" class="paper-button">Medium Article</a>
 <a href="https://www.cs.cmu.edu/news/2024/jouleseye" class="paper-button">CMU News</a>
 <a href="https://www.hackster.io/news/your-wearable-is-lying-to-you-28f2e5f56338" class="paper-button">Hackster</a> -->
+</div>
 </div>
 </div>
 
