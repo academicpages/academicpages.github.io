@@ -37,7 +37,7 @@ Miscellaneous
     
 * I think it is really important to formulate original and intellectually interesting questions. To achieve this, it is inevitable to understand the research that has been done so far. During my undergraduate studies, I became interested in how theories and technologies presented in classes and textbooks are conceived,  and I did research on the history of science (especially, the history of computing).    Recently, I feel that the history and philosophy of science as meta-science and abstraction in PL are similar. I believe that the ability to formulate questions that I acquired in my research in the humanities will be useful in my future research in PL (I want to be a researcher who can formulate questions and solve them with the help of others).
 
-* What I believe is important
+* **What I believe is important**
   * The various experiences of the last year have made me believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. 
 
 * Programming
