@@ -14,7 +14,7 @@ redirect_from:
 
 * **Signal and Systems**, Shahrood University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=o7-0hSEAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, from Fall-2021 to Spring-2023
 
-* * * **Signal and Systems**, Shahrood University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=me0-P8UAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Dr. Marvi</a>, from Fall-2021 to Spring-2023
+* **Signal and Systems**, Shahrood University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=me0-P8UAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Dr. Marvi</a>, Spring-2023
   
 * **Analog Electronics**, Shahrood University of Technology, Instructor: <a href="https://scholar.google.com/citations?user=JxMfuz0AAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Dr. Ashraf</a>, Fall-2022
   
