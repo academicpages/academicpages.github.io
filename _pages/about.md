@@ -19,7 +19,7 @@ redirect_from:
 </script>
 
 
-Under Construction!!!
+Under Construction!!!&#128679;
 ======
 * I will update this website by late August&#128583;.
 
