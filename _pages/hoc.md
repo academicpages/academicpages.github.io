@@ -241,6 +241,7 @@ Useful Links
 ======
   * [Computer History Museum](https://computerhistory.org/)
   * [Table of contents for issues of IEEE Annals of the History of Computing](https://ftp.math.utah.edu/pub/tex/bib/toc/ieeeannhistcomput.html)
+  * [What Is a Computer?](https://cse.buffalo.edu/~rapaport/584/whatisacomputer.html)
   * [The Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/)
   * [ALAN TURING maintained by Andrew Hodges](https://www.turing.org.uk/sitemap.html)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
