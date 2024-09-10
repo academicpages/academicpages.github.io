@@ -2,50 +2,47 @@
 </br>
 </br>
 
-# John Ragland
-<p style="text-align: center;">PhD Candidate, Electrical and Computer Engineering, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
+# John Ragland PhD
+<p style="text-align: center;">Post-Doctoral Scholar, School of Oceanography, University of Washington </br> phone: (256)-678-2268, email: jhrag (at) uw (dot) edu, website: [ [John-Ragland.github.io] ](https://John-Ragland.github.io)</p>
 
 ---
 ## Education
-**Auburn University**
-B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2015-2019</br>
-*Honors College Scholar*</br>
+**University of Washington**
+Ph.D. in the department of Electrical and Computer Engineering, 2020-2024</br>
+*Adviser:* Shima Abadi</br>
+*Thesis:* Using coherent ambient sound to probe the ocean</br>
+*Emphasis:* Ambient noise interferometry, Ocean basin tomography</br>
 
 **Auburn University**
 M.S. in the department of Electrical and Computer Engineering, suma cum laude 2019-2020</br>
 *Adviser:* Thaddeus Roppel</br>
 *Thesis:* Digital Simulation and Recreation of a Vacuum Tube Guitar Amp [ [link] ](http://hdl.handle.net/10415/7112)</br>
 *Emphasis:* Digital Signal Processing, Real-time Audio Processing, Physical Modeling
+
+**Auburn University**
+B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2015-2019</br>
+*Honors College Scholar*</br>
 </br>
 
-**University of Washington**
-Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expected)</br>
-*Adviser:* Shima Abadi</br>
-*Thesis:* Using coherent ambient sound to probe the ocean</br>
-*Emphasis:* Ambient noise interferometry, Ocean basin tomography</br>
-
 ## Experience
-- Graduate Teaching Assistant, May 2019 - May 2020, *Auburn University*
-- Graduate Researcher, June 2020 - (present), *The University of Washington*
+- Post-Doctoral Scholar, July 2024 - (present), *University of Washington*
+- Graduate Researcher, June 2020 - June 2024, *The University of Washington*
 - Summer Intern, June 2022 - September 2022, *Applied Research in Acoustics*
+- Graduate Teaching Assistant, May 2019 - May 2020, *Auburn University*
 
 ## Journal Publications
 
 
   
-    (in preperation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of American Express Letters Vol. * </br>[ [link] ](https://doi.org/) </br>
+    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of American Express Letters* </br>
   
 
   
-    (in preparation) **Ragland, John** and Abadi, Shima and Sabra, Karim, (2024), Using coherent ambient sound to measure water column temperature, *Geophysical Research Letters* </br>
+    **Ragland, John** and Abadi, Shima and Sabra, Karim, (2024), Using Ocean Ambient Sound to Measure Local Integrated Deep Ocean Temperature, *Geophysical Research Letters Vol. 51* </br>[ [link] ](https://doi.org/10.1029/2024GL108943) </br>
   
 
   
-    (submitted) Schönau, Martha and Hiron, Luna and **Ragland, John** and Raja, Keshav and Skitka, Joseph and Solano, Miguel and Xu, Xiaobiao and Arbic, Brian and Buijsman, Maarten and Chassignet, Eric and Coelho, Emanuel and Helber, Robert and Shriver, Jay and Summers, Jason and Verlinden, Kathryn and Wallcraft, Allan, (2023), An overview to modeling, characterizing, and predicting the effects of internal gravity waves on acoustic propagation at basin to global scales, *Oceanography Magazine* </br>
-  
-
-  
-    **Ragland, John** and Abadi, Shima, (2022), Exploring surface source contributions to ocean ambient noise interferometry with airgun shots, *The Journal of the Acoustical Society of America Vol. 152* </br>[ [link] ](https://doi.org/10.1121/10.0015231) </br>
+    (submitted) Schönau, Martha and Hiron, Luna and **Ragland, John** and Raja, Keshav and Skitka, Joseph and Solano, Miguel and Xu, Xiaobiao and Arbic, Brian and Buijsman, Maarten and Chassignet, Eric and Coelho, Emanuel and Helber, Robert and Shriver, Jay and Summers, Jason and Verlinden, Kathryn and Wallcraft, Allan, (2024), An overview to modeling, characterizing, and predicting the effects of internal gravity waves on acoustic propagation at basin to global scales, *Oceanography Magazine* </br>
   
 
   
@@ -56,26 +53,37 @@ Ph.D. in the department of Electrical and Computer Engineering, 2020-(2024 expec
     **Ragland, John** and Abadi, Shima and Sabra, Karim, (2022), Long-term noise interferometry analysis in the northeast Pacific Ocean, *The Journal of the Acoustical Society of America Vol. 151* </br>[ [link] ](https://doi.org/10.1121/10.0009232) </br>
   
 
+  
+    **Ragland, John** and Abadi, Shima, (2022), Exploring surface source contributions to ocean ambient noise interferometry with airgun shots, *The Journal of the Acoustical Society of America Vol. 152* </br>[ [link] ](https://doi.org/10.1121/10.0015231) </br>
+  
+
 
 
 ## Talks
 
 ### Invited Talks
-Navy Research Laboratory, Ocean Sciences Division, Stennis MS - March, 2023</br></br>
+MG&amp;G Group, University of Washington, Seattle WA - February, 2024</br></br>
 MG&amp;G Group, University of Washington, Seattle WA - May, 2023</br></br>
+Navy Research Laboratory, Ocean Sciences Division, Stennis MS - March, 2023</br></br>
 Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
 ### Conference Presentations
 
   
-    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Abadi, Shima and Dall’Osto, David and Gemba, Kay, (2024), Towards acoustic observations of ocean basin temperatures using the Kauai beacon and Ocean Observatories Initiative Hydrophones, , *New Orleans, LA* </br>
+    **Ragland, John** and Durofchalk, Nicholas and Gemba, Kay and Dall’Osto, David and Abadi, Shima, (2024), Kauai Beacon receptions and analysis with open-access hydrophones in the North Pacific Ocean, 186th Meeting of the Acoustical Society of America, *Ottawa, CA* [ [link] ]()</br>
   
 
 
 
   
-    **Ragland, John** and Abadi, Shima, (2023), Using ocean ambient sound to sense arrival time fluctuations due to temperature, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* [ [link] ]()</br>
+    **Ragland, John** and Durofchalk, Nicholas and Abadi, Shima and Dall’Osto, David and Gemba, Kay, (2024), Towards acoustic observations of ocean basin temperatures using the Kauai beacon and Ocean Observatories Initiative Hydrophones, Ocean Sciences Meeting, *New Orleans, LA* [ [link] ]()</br>
+  
+
+
+
+  
+    **Ragland, John** and Abadi, Shima, (2023), Towards estimating water column properties using ambient noise interferometry in the deep ocean, Underwater Acoustics Conference and Exposition, *Kalamata, Greece* [ [link] ]()</br>
   
 
 
@@ -87,7 +95,7 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
   
-    **Ragland, John** and Abadi, Shima, (2023), Towards estimating water column properties using ambient noise interferometry in the deep ocean, Underwater Acoustics Conference and Exposition, *Kalamata, Greece* [ [link] ]()</br>
+    **Ragland, John** and Abadi, Shima, (2023), Using ocean ambient sound to sense arrival time fluctuations due to temperature, 185th Meeting of the Acoustical Society of America, *Sydney, Australia* [ [link] ]()</br>
   
 
 
@@ -123,25 +131,31 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
   
-    **Ragland, John** and Abadi, Shima, (2022), Overview of ocean ambient noise interferometry – Theory and simulation, 183th Meeting of the Acoustical Society of America, *Nashville, TN* [ [link] ](https://doi.org/10.1121/10.0016311)</br>
-  
-
-
-
-  
     **Ragland, John** and Schwock, Felix and Liu, Zhaoyu and Abadi, Shima, (2022), Overview of ambient noise research and outreach with OOI hydrophones, AGU Fall Meeting, *Chicago, IL* [ [link] ](https://ui.adsabs.harvard.edu/abs/2022AGUFMOS25E0961R)</br>
   
 
 
 
   
-    Schwock, Felix and **Ragland, John** and Abadi, Shima, (2021), OOIPy: A Python toolbox for accessing and analyzing sata from the Ocean Observatories Initiative, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://asa.scitation.org/doi/abs/10.1121/10.0007845)</br>
+    **Ragland, John** and Abadi, Shima, (2022), Overview of ocean ambient noise interferometry – Theory and simulation, 183th Meeting of the Acoustical Society of America, *Nashville, TN* [ [link] ](https://doi.org/10.1121/10.0016311)</br>
+  
+
+
+
+  
+    **Ragland, John** and Schwock, Felix and Munson, Matthew and Abadi, Shima, (2021), An overview of ambient sound using OOI hydrophone network, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007594)</br>
   
 
 
 
   
     Alvaro, Alejandro and Schwock, Felix and **Ragland, John** and Abadi, Shima, (2021), Ship detection from passive underwater acoustic recordings using machine learning, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007848)</br>
+  
+
+
+
+  
+    Schwock, Felix and **Ragland, John** and Abadi, Shima, (2021), OOIPy: A Python toolbox for accessing and analyzing sata from the Ocean Observatories Initiative, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://asa.scitation.org/doi/abs/10.1121/10.0007845)</br>
   
 
 
@@ -154,12 +168,6 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
   
     **Ragland, John** and Abadi, Shima, (2021), Long-term noise interferometry analysis in the northeast Pacific Ocean, 179th Meeting of the Acoustical Society of America, *Online Meeting* [ [link] ](https://doi.org/10.1121/10.0004609)</br>
-  
-
-
-
-  
-    **Ragland, John** and Schwock, Felix and Munson, Matthew and Abadi, Shima, (2021), An overview of ambient sound using OOI hydrophone network, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007594)</br>
   
 
 

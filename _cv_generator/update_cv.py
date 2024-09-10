@@ -146,6 +146,7 @@ for k, i in enumerate(invited_bib_entries):
 
 files_dir_url = 'https://john-ragland.github.io/files'
 
+"""
 for k, paper in enumerate(papers):
     for paper_attachment in paper_attachments:
         if paper['key'] == paper_attachment['data']['parentItem']:
@@ -169,6 +170,7 @@ for k, invite in enumerate(invited):
         if invite['key'] == invite_attachment['data']['parentItem']:
             fn = f"{files_dir_url}/{invite_attachment['data']['path'][12:].replace(' ','_')}"
             invited_bib_entries[k] = cv_tools.insert_string_before_last_brace(invited_bib_entries[k][0], f'filepath={ {fn} }')
+"""
 
 # Write Bibtex files
 with open('talks.bib', 'w', encoding='utf-8') as file:
@@ -201,36 +203,47 @@ with open('invited.bib') as file:
 with open('thesi.bib') as file:
     thesi = bibtexparser.load(file).entries
 
-# Load the Markdown template
+# Load the Markdown templates
 with open('template.md') as file:
     template_content = file.read()
+with open('template_short.md') as file:
+    template_short_content = file.read()
 
 # Create a Jinja2 Template object
 template = Template(template_content)
+template_short = Template(template_short_content)
 
 # Render the template with the publications data
 markdown_output = template.render(papers=papers, talks=talks, thesi=thesi, invited=invited)
+markdown_output_short = template_short.render(papers=papers, talks=talks, thesi=thesi, invited=invited)
 
 # Save the rendered Markdown content to a file
 with open('cv.md', 'w') as file:
     file.write(markdown_output)
 
+with open('cv_short.md', 'w') as file:
+    file.write(markdown_output_short)
+
 # Bold every instance of my name
 def bold_string_in_markdown(markdown_content, target_string):
     markdown_new = markdown_content.replace(target_string, '**' + target_string + '**')
-
     return markdown_new
 
 # Read the Markdown content from file
 with open('cv.md') as file:
     markdown_content = file.read()
+with open('cv_short.md') as file:
+    markdown_content_short = file.read()
 
 # Bold the target string in the Markdown content
 bolded_content = bold_string_in_markdown(markdown_content, 'Ragland, John')
+bolded_content_short = bold_string_in_markdown(markdown_content_short, 'Ragland, John')
 
 # Save the bolded Markdown content to a new file
 with open('cv.md', 'w') as file:
     file.write(bolded_content)
+with open('cv_short.md', 'w') as file:
+    file.write(bolded_content_short)
 
 print('markdown file written')
 
@@ -238,6 +251,8 @@ print('markdown file written')
 # Read the Markdown content from file
 with open('cv.md') as file:
     markdown_content = file.read()
+with open('cv_short.md') as file:
+    markdown_content_short = file.read()
 
 # Create a Jinja2 environment and load the template file
 env = Environment(loader=FileSystemLoader('.'))
@@ -245,16 +260,21 @@ template = env.get_template('cv_template.html')
 
 # Render the template with the Markdown content
 rendered_content = template.render(content=markdown_content)
+rendered_content_short = template.render(content=markdown_content_short)
 
 # Write the rendered content to a temporary Markdown file
 with open('temp.md', 'w') as file:
     file.write(rendered_content)
+with open('temp_short.md', 'w') as file:
+    file.write(rendered_content_short)
 
 # Convert the temporary Markdown file to HTML using Pandoc
 subprocess.run(['pandoc', 'temp.md', '-o', 'cv.html'])
+subprocess.run(['pandoc', 'temp_short.md', '-o', 'cv_short.html'])
 
 # Remove the temporary Markdown file
 subprocess.run(['rm', 'temp.md'])
+subprocess.run(['rm', 'temp_short.md'])
 
 print('HTML file written')
 
@@ -263,6 +283,10 @@ print('writing pdf...')
 os.system(
     'wkhtmltopdf --page-size Letter --margin-top 25.4mm --margin-bottom 25.4mm --margin-left 25.4mm --margin-right 25.4 cv.html cv.pdf'
 )
+os.system(
+    'wkhtmltopdf --page-size Letter --margin-top 25.4mm --margin-bottom 25.4mm --margin-left 25.4mm --margin-right 25.4 cv_short.html cv_short.pdf'
+)
+
 print('PDF written.\nCV update complte.')
 
                 
