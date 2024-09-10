@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Batiste Le Bars"
 title_separator          : "-"
 name                     : &name "Batiste Le Bars"
-description              : &description "Postdoc @ Inria "
+description              : &description "Research scientist @ Inria "
 url                      : https://batistelb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BatisteLB/BatisteLB.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Batiste Le Bars"
   avatar           : "new-prof.jpg"
-  bio              : "Postdoc"
-  location         : "Inria Paris, France"
+  bio              : "Research scientist"
+  location         : "Inria Lille, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=A-4CZ8UAAAAJ&hl"
