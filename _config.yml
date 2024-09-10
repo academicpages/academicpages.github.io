@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuchen Wang's academic homepage"
+title                    : "Yuchen's homepage"
 title_separator          : "-"
 name                     : &name "Yuchen Wang"
-description              : &description "A student who hope to learn more about AI."
+description              : &description "A student who seeks advance."
 url                      : https://wangyuchen333.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wangyuchen333/wangyuchen333.github.io"
