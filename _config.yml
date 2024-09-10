@@ -26,9 +26,11 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Gothenburg"
-  employer         : "University of Gothenburg, Chalmers"
+  employer         : "University of Gothenburg"
+  employer         : "Chalmers University of Technology"
   uri              : # URL
-  email            : "jornsten@chalmers.se, <p> rebecka.jornsten@gu.se" 
+  email            : "jornsten@chalmers.se"
+  email            : "rebecka.jornsten@gu.se" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
