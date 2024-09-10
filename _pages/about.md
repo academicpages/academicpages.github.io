@@ -11,9 +11,7 @@ published: true
 
 I am a Ph.D. candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) and [Geometric Learning Lab](http://www.robinwalters.com/index.html), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/). My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
 
-Prior to the Ph.D. program, I received my Master's degree in Computer Science from [Northeastern University](https://www.northeastern.edu) and my Bachelor's degree in Computer Science and Technology from [Sichuan University](http://www.scu.edu.cn), Chengdu, China.
-
-Email: wang dot dian at northeastern dot edu. CV: [link](https://pointw.github.io/CV/dian_wang_cv.pdf).
+**I am currently on the job market, primarily seeking opportunities in academia. You can view my CV [here](https://pointw.github.io/CV/dian_wang_cv.pdf). If you believe I would be a good fit for your department, feel free to contact me at wang dot dian at northeastern dot edu.**
 
 ## News
 <style>
