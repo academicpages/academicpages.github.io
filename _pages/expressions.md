@@ -25,7 +25,7 @@ author_profile: true
 
 
 **Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-* **Digital Design**, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, Fall-2024
+* **Digital Design**, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, (Fall-2024)
 
 
 **Teaching Assistant** - Shahrood University of Technology <br>
