@@ -105,3 +105,32 @@ types of invasion.
 Link to the <a href=""> application system TBA. </a> <p>
 
 ======
+
+<div class="left">
+               <h3> AI, Deep Learning </h3>
+		<li> <b> Neural Networks and Control Theory:</b> Together with <a href="https://www.chalmers.se/sv/personal/Sidor/balazs-adam-kulcsar.aspx"> Professor Balazs Kulcsar </a> at Electrical Engineering, I supervise PhD students Viktor Andersson and Vincent Szolnoky, funded by
+<a href="https://www.centiro.se/"> Centiro </a>.  In this team we work on problems ranging from methodological and theoretical challenges in neural networks to practical applications in logistics and transportation.
+<li> <b>AI-Integromics:</b> We have several theses projects centering on the development of data integration methods for systems biology using
+deep neural networks paired with structured regularization. 2 postdocs in this group work in this area in collaboration with  <a href="https://liu.se/en/employee/mikgu75"> Mika Gustafsson's group </a> at
+Linköping university and <a  href="http://nelanderlab.org">Sven Nelander's group</a> at Uppsala University.
+<!---<li> <b>Explainable Neural Networks: </b> This is a project in collaboration with
+<a href="https://www.chalmers.se/sv/personal/Sidor/claes-strannegard.aspx"> Claes Strannegård </a> and <a href="http://www.math.chalmers.se/~jonasson/"> Johan Jonassaon. </a> We are trying to
+open the black-box of deep learning by investigating different ways of building the network architecture or utilizing different loss functions.	
+--->
+</div>
+		<div class="right">
+		<h3> Machine Learning, Systems Biology </h3>
+
+<!---<li> <b> Multi-response Random Forests: </b>  Mikael Böörs wrote an excellent thesis on this topic.
+We want to extend this method to much more complicated data distributions and also look into scalability. There are many applications in systems biology for this problem.
+--->
+<li> <b> Flexible Joint Matrix Factorization: </b>  My PhD student  <a href="#People"> Felix Held </a> is working on
+both theoretical and practical aspects of data integration through matrix factorization. There are many open problems one can pursue here; scalability, applications, generalizations.
+<li> <b> Accelerated training and regularization of neural networks: </b>  My PhD students  <a href="#People"> Oskar Allerbo and Maria Matveev</a> work on
+methodological projects centering on new regularization techniques and training strategies for neural networks.
+<!---<li> <b> Multi-level network models:</b> My PhD student  <a href="#People"> Jonatan Kallus </a> is working on network estimation methods that can handle complex data structures.
+We want to extend these to single-cell data where we have a lot of missing values.--->
+
+
+
+	</div>
