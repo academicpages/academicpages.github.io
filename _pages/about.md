@@ -89,7 +89,7 @@ Faculty of Science, University of Gothenburg
 
 
 	<h2> What's new? </h2>
-&bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date TBA.
+&bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date .
 <p>
  <!--Two positions are funded through the joint WASP-DDLS call. -->
  This position is funded through the <a href="https://kaw.wallenberg.org/en/research-projects-2022"> Knut and Alice Wallenberg Foundation.
