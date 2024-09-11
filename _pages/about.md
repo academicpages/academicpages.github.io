@@ -105,13 +105,12 @@ Link to the <a href=""> application system TBA. </a> <p>
 
 --- start-multi-column: ExampleRegion3
 
-# Column 1
+Column 1
 
 --- end-column ---
 
-# Column 2
+ Column 2
 
 --- end-multi-column
 
 
-======
