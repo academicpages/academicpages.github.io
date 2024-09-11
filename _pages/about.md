@@ -7,6 +7,18 @@ redirect_from:
   - /about.html
 ---
 
+My background is in Engineering Physics. I studied for my masters at the Lund Institute of 
+  Technology from 1991 to 1996, specializing in statistics and applied nuclear physics. I obtained my Ph.D. in Mathematical Statistics from UC. Berkeley 
+  in 2001 under the supervision of Professor <a href="https://binyu.stat.berkeley.edu/"> Bin Yu</a>. I was a tenure track assistant professor at the Department of Statistics, Rutgers University 2002-2008 and was 
+  promoted to tenure associate professor in 2008. I returned to Sweden in 2009, joining the department of <a href="http://www.chalmers.se/math/EN"> Mathematical Sciences</a>
+<br><a href="http://www.gu.se/english/?languageId=100001&contentId=-1&disableRedirect=true&returnUrl=http%3A%2F%2Fwww.gu.se%2F">University of Gothenburg/</a>
+<a href="http://www.chalmers.se/en/Pages/default.aspx">Chalmers</a> as an associate professor of mathematical statistics and was 
+ subsequently promoted to professor of applied statistics and biostatistics in 2016. <p>
+ Since 2018 I serve as 
+ h<a href="https://science.gu.se/english/about/organisation/steering_group/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fscience.gu.se%2Ffakulteten%2FOrganisation%2Fledningsgruppen%2F"> Vice-Dean for Research and Research Infrastructures </a><br>
+Faculty of Science, University of Gothenburg
+<p>
+
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
