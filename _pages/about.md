@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="justify-text">
-Yihan Jin is a graduate student in Mechanical Engineering at Shanghai Jiao Tong University (SJTU), specializing in intelligent maintenance methods and advanced simulation of machine tools. His research focuses on integrating machine learning architectures, such as CNN and Transformer models, to monitor tool wear and detect faults in real time. Besides, under the guidance of [Professor Nicholas X. Fang](https://www.mech.hku.hk/academic-staff/fang-x), Yihan has also contributed to projects at the University of Hong Kong (HKU), where he developed innovative methods for scan path optimization and 3D model reconstruction using robotic ultrasound imaging.
+Yihan Jin is a graduate student in Mechanical Engineering at Shanghai Jiao Tong University (SJTU), specializing in intelligent maintenance methods and advanced simulation of machine tools. His research focuses on integrating machine learning architectures, such as CNN and Transformer models, to monitor tool wear and detect faults in real time. Besides, under the guidance of [an example site](https://www.mech.hku.hk/academic-staff/fang-x), Yihan has also contributed to projects at the University of Hong Kong (HKU), where he developed innovative methods for scan path optimization and 3D model reconstruction using robotic ultrasound imaging.
 </div>
 
 <div class="justify-text">
