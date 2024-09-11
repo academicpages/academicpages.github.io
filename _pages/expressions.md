@@ -24,8 +24,8 @@ author_profile: true
 * **CE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
 
 
-**Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-* **Digital Design**, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, (Fall 2024)
+**Teaching Assistant - Amirkabir University of Technology (Tehran Polytechnic)**** <br>
+* Digital Design, Instructors: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Saheb zamani </a> and <a href="https://scholar.google.com/citations?user=2RN0Y2YAAAAJ&hl=en" style="color: #0011DB; text-decoration: underline;"> Prof. Sedighi </a>, (Fall 2024)
 
 
 **Teaching Assistant** - Shahrood University of Technology <br>
