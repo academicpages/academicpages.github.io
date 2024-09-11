@@ -11,54 +11,64 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **North South University, Dhaka, Bangladesh**  
+  *Bachelor of Science in Computer Science and Engineering (Expected Graduation: 2024)*  
+  **CGPA**: 3.88/4.00 (Top 2%)  
+  *Specialization*: Natural Language Processing, Deep Learning, Machine Learning  
+  - Achieved an average of more than 90% marks  
+  - Awarded summa cum laude distinction  
+  - Received a 75% merit-based scholarship  
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Research Assistant, NLP**  
+  *North South University, Dec. 2023 - Feb. 2024*  
+  *Supervisor*: Dr. Mohammad Rashedur Rahman  
+  - Conducted data annotation for multiple datasets, ensuring high accuracy  
+  - Assisted in data collection and methodology refinement  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Teaching Assistant**  
+  *North South University, Feb. 2023 - Present*  
+  - Conducted tutorials for CSE 225 (Data Structures) and CSE 215 (OOP)  
+  - Graded assignments and provided detailed feedback  
+  - Assisted in proctoring quizzes and exams  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming Languages**: Python, C++, Java, SQL, PHP  
+* **Frameworks & Tools**: TensorFlow, PyTorch, Scikit-learn, AutoCAD  
+* **Technical Skills**: Machine Learning, Natural Language Processing, Deep Learning, Data Analysis  
+* **Soft Skills**: Problem-solving, Team Collaboration, Communication  
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Projects
+======
+* **CAM-KD: Class Activation Map-Based Knowledge Distillation**  
+  - Developed CAM-based knowledge distillation model improving CIFAR-10 performance  
+* **Multiclass Vulnerability Detection in Source Code Using Draper VDISC Dataset**  
+  - Implemented LLM-based models (CodeBERT, GraphCodeBERT, UniXcoder) for code vulnerability detection  
+* **Predictive Insights into Early Marriage in Bangladesh**  
+  - Developed machine learning models for early marriage prediction using socio-economic data  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **NSU Problem Solvers**  
+  - Regular ICPC participant  
+  - Mentored students in Data Structures and Algorithms  
