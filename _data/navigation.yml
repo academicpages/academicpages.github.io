@@ -5,6 +5,9 @@ main:
 
   - title: "Professional Experience"
     url: /experience/
+
+   - title: "Information for Students"
+    url: /infostudents/
     
   #- title: "Projects"
   #  url: /portfolio/
