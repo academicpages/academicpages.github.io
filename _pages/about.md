@@ -16,6 +16,7 @@ Currently, I'm a research assistant at Tehran Polytechnic University.
 
 **My Research Interests include:**
 - AI Hardware Accelerator
+- Reconfigurable Computing
 - Machine Learning
 - Deep Learning
 - Signal Processing
