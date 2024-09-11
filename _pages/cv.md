@@ -17,23 +17,27 @@ Education
 Research experience
 ======
 * Project: The design theory and intelligent maintenance method of a machine tool
-  * Place: Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures, Shanghai Jiao Tong University(SJTU)
+  * Place: Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures
+    Shanghai Jiao Tong University(SJTU)
   * Advisor: Prof. Mingdong Zhou
   * Time: 09/2022-present
  
 * Project: 2D scan path optimization and 3D model reconstruction based on robotic ultrasound imaging
-  * Place: Jockey-Club STEM Lab of Scalable and Sustainable Photonic Manufacturing, The University of Hong Kong(HKU)
+  * Place: Jockey-Club STEM Lab of Scalable and Sustainable Photonic Manufacturing
+    The University of Hong Kong(HKU)
   * Advisor: Prof. Nicholas X. Fang
   * Mentor: Dr. Erqian Dong
   * Time: 08/2024-present
  
 * Project: Shanghai Automotive Industry Corporation (SAIC) Hongyan HILA frame tractor and battery pack simulation
-  * Place: Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures, Shanghai Jiao Tong University(SJTU)
+  * Place: Shanghai Key Laboratory of Digital Manufacture for Thin-walled Structures
+    Shanghai Jiao Tong University(SJTU)
   * Advisor: Prof. Mingdong Zhou
   * Time: 03/2022-05/2022
  
 * Project: Medical-Industrial Interdisciplinary Research Project
-  * Place: Ruijin Hospital, Shanghai Jiaotong University School of Medicine, Shanghai Jiao Tong University(SJTU)
+  * Place: Ruijin Hospital, Shanghai Jiaotong University School of Medicine
+    Shanghai Jiao Tong University(SJTU)
   * Advisor: Prof. Mingdong Zhou
   * Time: 12/2019-03/2022
 
