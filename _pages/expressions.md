@@ -23,6 +23,10 @@ author_profile: true
 * **CE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>
 * **CE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
 
+
+**Teaching Assistant** - Amirkabir University of Technology (Tehran Polytechnic) <br>
+
+
 **Teaching Assistant** - Shahrood University of Technology <br>
 * **Digital Electronics (Pulse Technique)**, Instructor: <a href="https://shahroodut.ac.ir/en/as/?id=S036" style="color: #0011DB; text-decoration: underline;"> Dr. Ahmadyfard</a>, (Spring 2023)
 
