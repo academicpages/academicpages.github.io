@@ -177,6 +177,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  infostudents:
+    output: true
+    permalink: /:collection/:path/
   #portfolio:
   #  output: true
   #  permalink: /:collection/:path/
