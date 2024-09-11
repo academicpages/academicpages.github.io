@@ -569,3 +569,6 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.justify-text {
+    text-align: justify;
+}
