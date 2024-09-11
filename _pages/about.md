@@ -13,7 +13,7 @@ I am an Assistant Professor in the School of Information Sciences at the Univers
 
 <!-- In 2019, I spent a year as a research scientist (Research Staff Member) at IBM Almaden Research Center, working on Machine Learning, Natural Language Processing,  and Information Retrieval problems. I obtained my Ph.D. from the [Computer Science Department](http://cs.illinois.edu), [University of Illinois at Urbana - Champaign](http://illinois.edu), under the supervision of Prof. [ChengXiang Zhai](http://czhai.cs.illinois.edu), [Text Information Management and Analysis Group (TIMAN)](http://sifaka.cs.uiuc.edu/ir). I was selected as an [EECS Rising Star](https://publish.illinois.edu/rising-stars/) participant in 2019. -->
 
-<span style="font-size:16px;color: red;"><b>AMA Office Hours: Tuesdays 4-5 PM CT, Office #5156 iSchool Hub Bldg. (614 E. Daniel St.) and [Zoom](https://illinois.zoom.us/j/89862098818?pwd=bir98nipGTZa8EOuesF2viXz7Ko70a.1)</b></span>
+<span style="font-size:14px;color: red;"><b>AMA Office Hours: Tuesdays 4-5 PM CT, Office #5156 iSchool Hub Bldg. (614 E. Daniel St.) and [Zoom](https://illinois.zoom.us/j/89862098818?pwd=bir98nipGTZa8EOuesF2viXz7Ko70a.1)</b></span>
 
 <!-- <span style="font-size:14px;color: red;">*Interested in joining our research group? Please submit [this form](https://forms.gle/sSktghq1tGTkx9XA7), and consider directly applying to the VT graduate program and including me in your research statement. We will be reaching out to individuals that complete the form and we believe are a good fit. Due to email volume, responses to emails cannot be guaranteed.*</span> -->
 
