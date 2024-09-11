@@ -15,13 +15,27 @@ My background is in Engineering Physics. I studied for my masters at the Lund In
 <a href="http://www.chalmers.se/en/Pages/default.aspx">Chalmers</a> as an associate professor of mathematical statistics and was 
  subsequently promoted to professor of applied statistics and biostatistics in 2016. <p>
  Since 2018 I serve as 
- h<a href="https://science.gu.se/english/about/organisation/steering_group/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fscience.gu.se%2Ffakulteten%2FOrganisation%2Fledningsgruppen%2F"> Vice-Dean for Research and Research Infrastructures </a><br>
+ <a href="https://science.gu.se/english/about/organisation/steering_group/?languageId=100001&disableRedirect=true&returnUrl=http%3A%2F%2Fscience.gu.se%2Ffakulteten%2FOrganisation%2Fledningsgruppen%2F"> Vice-Dean for Research and Research Infrastructures </a><br>
 Faculty of Science, University of Gothenburg
 <p>
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+div id="content">
+		<div class="full">
 
-A data-driven personal website
+	<h2> What's new? </h2>
+&bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date TBA.
+<p>
+ <!--Two positions are funded through the joint WASP-DDLS call. -->
+ This position is funded through the <a href="https://kaw.wallenberg.org/en/research-projects-2022"> Knut and Alice Wallenberg Foundation.
+<p>
+Project: "The Routes of Glioblastoma and their Patient-Specific Vulnerabilities" </a> is coordinated through
+<a  href="http://nelanderlab.org">Sven Nelander's group</a> at Uppsala. This PhD project centers on the development of new matrix- and tensor-imputation methods for 
+accelerated drug discovery.  You would be
+working closely with researchers in the Nelander lab on an innovative set of experiments that will be conducted to collect information on different
+types of invasion. 
+<br>
+Link to the <a href=""> application system TBA. </a> <p>
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
