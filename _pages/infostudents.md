@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /interested_students/
+permalink: /infostudents/
 author_profile: true
 ---
 
