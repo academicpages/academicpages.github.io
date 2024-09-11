@@ -87,8 +87,6 @@ My background is in Engineering Physics. I studied for my masters at the Lund In
 Faculty of Science, University of Gothenburg
 <p>
 
-<div id="content">
-		<div class="full">
 
 	<h2> What's new? </h2>
 &bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date TBA.
