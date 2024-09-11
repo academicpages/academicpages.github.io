@@ -11,23 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mathematical Statistics, UC Berkeley, 2001
+* M.Sc. in Engineering Physics, Lund Institute of Technology, 1996
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2008: Tenured Associate Professor
+  * Rutgers University
+  * Department of Statistics
 
-* Summer 2015: Research Assistant
+* 2002-2008: Tenure track Assistant Professor
+  * Rutgers University
+  * Department of Statistics
+
+* Consultant, AT&T Bell labs: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
