@@ -29,3 +29,4 @@ I hold *Ask Me Anything (AMA)* office hours every Tuesday, 4-5pm CT, at Office #
 <u>Due to the large volume of inquiries, I am unable to respond to individual queries via email or other platforms.</u>
 If you do not receive a response, it is likely that there are no positions currently available or 
 that your research interests and/or background are not a match for our lab at this time. 
+Additionally, please note that there are no open positions at Virginia Tech, either at the Blacksburg or the NOVA campus at this time.
