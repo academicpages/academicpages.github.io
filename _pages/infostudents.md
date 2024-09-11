@@ -19,7 +19,7 @@ please submit your application directly and complete this [interest form](https:
 If you’re already a UIUC student and you are interested in joining my lab, please fill out the [interest form](https://forms.gle/biPTEzwSR5841T4eA). 
 I will contact you if there are available positions that match your background and research interests. It is expected that you have taken at least one core ML-related course before reaching out. Note that undergraduate students are typically recruited through the [NCSA SPIN](https://spin.ncsa.illinois.edu/) program. If you are a pre-college student, I encourage you to check the [UIUC Worldwide Youth in Science and Engineering (WYSE)](https://wyse.grainger.illinois.edu) programs for available opportunities. 
 For any other general inquiries (e.g., independent studies, courses, general topics of interest, or other questions), 
-I hold *Ask Me Anything (AMA)* office hours every Tuesday, 4-5pm CT, at Office #5156 in the iSchool Hub Building (614 E. Daniel St.) and on [Zoom](https://illinois.zoom.us/j/89862098818?pwd=bir98nipGTZa8EOuesF2viXz7Ko70a.1).
+I hold *Ask Me Anything (AMA)* office hours every Tuesday, 4-5pm CT, at Office #5156 in the iSchool Hub Bldg. (614 E. Daniel St.) and on [Zoom](https://illinois.zoom.us/j/89862098818?pwd=bir98nipGTZa8EOuesF2viXz7Ko70a.1).
 
 ## Important Note
 <u>Due to a large volume of emails, I am unable to respond to individual queries via email or other platforms.</u>
