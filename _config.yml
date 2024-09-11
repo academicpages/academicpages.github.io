@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
-  uri              : "https://jinyihan1001.github.io/jinyihan.github.io"
+  uri              : https://jinyihan1001.github.io/jinyihan.github.io
   email            : "jinyihan1001@sjtu.edu.cn" 
 
   # Academic websites
