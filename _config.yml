@@ -22,6 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Rfig.PNG"
+  <a href="RJpic.JPG"> <IMG src="RJornsten.jpg", style="padding-right:20pt"; ALIGN="left", hspace="300", width="300", height="200"></a>
   name             : "Rebecka Jörnsten"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
