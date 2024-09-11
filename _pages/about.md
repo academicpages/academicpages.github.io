@@ -7,74 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-<div id="sidebar">
-<!--       <a href="rumford2.jpg"><img src="rumford2.jpg" width="140" height="190" alt="sample content image" ></a> -->
-        <ul> <li><p style="text-align: left; padding-right: 0pt; width:100%; font-size:1em">
-		    <font size=+1> Contact: </font> <br>
-			<a href="mailto:jornsten@chalmers.se">jornsten@chalmers.se</a>
-            <IMG src="mailto.png",  ALIGN="justify", width="15", height="10"/><br>
-			+46 31 772-3534 <br>
-			Office: MVL 3056</li> </ul>
-		<ul class="sidemenu">
-			<li><font size=+1><div id="DP"; onmouseover="changetext()"; onmouseout="returntext()";>Biography</div> </font>
-				<ul class="vmenu">
-                <li><a  href="CVJornstenW.pdf">Curriculum Vitae</a></li>
-				<li><a href="https://scholar.google.se/citations?user=SO9llAMAAAAJ&hl=sv">List of publications</a></li>
-				</ul></li>
- <!--            <li><a name="#Software "href="rcodes.html">R codes and packages</a> -->
-<!--               <ul class="vmenu">
-				<li><a  href="epoc.html">EPoC</a></li>
-                <li><a  href="rcodes.html">Older Rcodes</a></li>
-				</ul></li> -->
-			<li><a href="#Links">Links</a>
-                <ul class="vmenu">
-				<li><a  href="http://nelanderlab.org">Sven Nelander's group</a></li>
-                                  <li> <a href="https://www.chalmers.se/en/centres/chair/Pages/default.aspx"> CHAIR - Chalmers AI Research Center </a> </li>
-                       <li> <a href="https://www.chalmers.se/en/departments/math/research/research-groups/AIMS/Pages/default.aspx"> AI@MS - AI at Mathematical Sciences </a></li>
-
-<li> <a href="https://wasp-sweden.org/graduate-school/"> Wallenberg AI - WASP PhD School </a></li>
-<li> <a href="https://www.chalmers.se/en/areas-of-advance/Pages/AoA-under-construction.aspx"> Area of Advance - Health Engineering </a> </li>
-				</ul></li>
-
-
-				</ul></li>
- <ul class="sidemenu">
- <li><a href="https://science.gu.se/"> Science@GU </a>
-                <ul class="vmenu">
-
-                   <li> <a href="https://medarbetarportalen.gu.se/internt-science/service-stod/sabbaticalprogrammet/?languageId=100001&skipSSOCheck=true&referer=https%3A%2F%2Fwww.google.com%2F"> Sabbatical Program </a>
-                  <!--- <li> <a href="https://medarbetarportalen.gu.se/internt-science/service-stod/kommunicera/kalender-detalj/?eventId=70136968948"> Spotlight on Research - Faculty Day Nov 13 </a> </li>
---->
-
-				</ul></li>
-		</ul>
-      <a href="forsen.jpeg"> <IMG src="forsen.jpeg",  ALIGN="left", width="170", height="120"/></a> <br> <br>
-
-
-
-        <ul class="sidemenu">
-<li><a href="#Resources"> Resources </a>
-                <ul class="vmenu">
-                <li> <a href="http://www.bioconductor.org/"> Bioconductor </a></li>
-                <li> <a href="http://www.r-project.org/"> R project </a></li>
-                <li> <a href="https://statmodeling.stat.columbia.edu/"> Andrew Gelman's blog </a></li>
-</ul></li>
-</ul>
-
-             <ul class="sidemenu">
-<li><a href="#Other">Recommended books</a> </li></ul>
-<ul class="vmenu">
-		<a href="http://www-stat.stanford.edu/~tibs/ElemStatLearn/"> <IMG src="ESL.jpg",align="left",width="60", height="120"/><br>Elements of Statistical Learning</a><br>
-		<a href="http://www.stat.cmu.edu/~larry/all-of-statistics/index.html"> <IMG src="allofstats.jpg",align="left",width="60", height="120"/><br>All of Statistics</a>
-
-		</ul>		
-	</div>
-
-
-<br> <br>
-
 My background is in Engineering Physics. I studied for my masters at the Lund Institute of 
   Technology from 1991 to 1996, specializing in statistics and applied nuclear physics. I obtained my Ph.D. in Mathematical Statistics from UC. Berkeley 
   in 2001 under the supervision of Professor <a href="https://binyu.stat.berkeley.edu/"> Bin Yu</a>. I was a tenure track assistant professor at the Department of Statistics, Rutgers University 2002-2008 and was 
@@ -87,9 +19,11 @@ My background is in Engineering Physics. I studied for my masters at the Lund In
 Faculty of Science, University of Gothenburg
 <p>
 
+<div id="content">
+		<div class="full">
 
 	<h2> What's new? </h2>
-&bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date .
+&bull; <b>PhD opening in computational statistics with applications to cancer biology</b>  <p> Start date TBA.
 <p>
  <!--Two positions are funded through the joint WASP-DDLS call. -->
  This position is funded through the <a href="https://kaw.wallenberg.org/en/research-projects-2022"> Knut and Alice Wallenberg Foundation.
@@ -102,6 +36,4 @@ types of invasion.
 <br>
 Link to the <a href=""> application system TBA. </a> <p>
 
-
-
-
+======
