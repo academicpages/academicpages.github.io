@@ -82,6 +82,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Patents Category - The following the list of publication categories and their headings
+patents_category:
+  books:
+    title: 'Books'
+  chinese patents:
+    title: 'Chinese Patents'    
+  english patents:
+    title: 'English Patents'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
