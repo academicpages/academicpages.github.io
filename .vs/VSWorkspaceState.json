@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
     "",
+    "\\images",
+    "\\images\\students",
+    "\\_pages",
     "\\_portfolio"
   ],
+  "SelectedNode": "\\images\\students",
   "PreviewInSolutionExplorer": false
 }
