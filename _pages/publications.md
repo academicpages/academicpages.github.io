@@ -20,6 +20,7 @@ author_profile: true
 -  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
 **Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**<br>
 IEEE Spoken Language Technology Workshop (**IEEE SLT**), Dec. 2024. (Accepted)<br>
+\[[arXiv](https://arxiv.org/abs/2409.07265)\] \[[demo](https://kyamauchi1023.github.io/yamauchi24slt/)\]
 
 
 -  **<u>Kazuki Yamauchi</u>**, Yusuke Ijima, and Yuki Saito<br>
