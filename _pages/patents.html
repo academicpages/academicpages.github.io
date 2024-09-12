@@ -11,11 +11,11 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+<!-- New style rendering if patents categories are defined -->
+{% if site.patents_category %}
+  {% for category in site.patents_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in site.patents reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
@@ -27,7 +27,7 @@ author_profile: true
     {% endfor %}
   {% endfor %}
 {% else %}
-  {% for post in site.publications reversed %}
+  {% for post in site.patents reversed %}
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
