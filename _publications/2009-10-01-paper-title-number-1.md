@@ -1,5 +1,6 @@
 ---
 title: "Paper Title Number 1"
+teaser: 'image002.jpg'
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1

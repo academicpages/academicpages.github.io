@@ -34,7 +34,7 @@
   color: mix(#fff, $gray, 25%);
   border-bottom: 1px solid $border-color;
 
-  + .list__item .archive__item-title {
+  +.list__item .archive__item-title {
     margin-top: 0.5em;
   }
 }
@@ -43,7 +43,7 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
-  a + a {
+  a+a {
     opacity: 0.5;
   }
 }
@@ -61,14 +61,26 @@
   margin-top: 0;
   font-size: $type-size-6;
 
-  & + p {
+  &+p {
     text-indent: 0;
+  }
+}
+
+.archive__item-sideimg {
+  float: left;
+  // width: 550px;
+  height: 100%;
+
+  img {
+    // width: 100%;
+    object-fit: cover;
   }
 }
 
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
+
   img {
     width: 100%;
   }
@@ -130,14 +142,17 @@
 
   @include breakpoint($small) {
     @include gallery(5 of 10);
+
     .archive__item-teaser {
       max-height: 200px;
     }
   }
 
   @include breakpoint($medium) {
-    margin-left: 0; /* reset before mixin does its thing*/
-    margin-right: 0; /* reset before mixin does its thing*/
+    margin-left: 0;
+    /* reset before mixin does its thing*/
+    margin-right: 0;
+    /* reset before mixin does its thing*/
     @include gallery(2.5 of 10);
 
     .archive__item-teaser {
@@ -150,6 +165,69 @@
     }
   }
 }
+
+
+/* ==========================================================================
+   Table Item
+   ========================================================================== */
+
+   .table__item {
+    margin-bottom: 2em;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    overflow: hidden;
+    display: table;
+    width: 100%;
+  
+    .archive__item {
+      display: table-row;
+      padding: 1em;
+      border-bottom: 1px solid $border-color;
+  
+      &:last-child {
+        border-bottom: none;
+      }
+  
+      .archive__item-content {
+        display: table-cell;
+        vertical-align: middle;
+
+        .archive__item-title {
+          margin-bottom: 0.5em;
+        }
+  
+        .archive__item-excerpt {
+          margin-top: 0.5em;
+        }
+      }
+    }
+  }
+  
+  /* Responsive Design */
+  @include breakpoint($medium) {
+    .table__item {
+      .archive__item {
+        padding: 1.5em;
+      }
+
+      .archive__item-content {
+        padding: 1.5em;
+      }
+    }
+  }
+  
+  @include breakpoint($large) {
+    .table__item {
+      .archive__item {
+        padding: 2em;
+      }
+
+      .archive__item-content {
+        padding: 2em;
+      }
+    }
+  }
+  
 
 
 /*

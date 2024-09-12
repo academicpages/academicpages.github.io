@@ -1,11 +1,13 @@
 ---
+layout: archive
 permalink: /
 title: "Welcome to Computer Graphics Group"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 Our group (CGVSL) is an interdisciplinary research laboratory. The group's mission is to advance computer graphics research; its theme is the enhancement of human creativity and innovation through advances in computer graphics. 
 

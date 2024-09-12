@@ -12,16 +12,16 @@ main:
     url: /professor/    
 
   - title: "Members"
-    url: /teaching/    
+    url: /member/    
     
   - title: "Publications"
     url: /publications/
         
   - title: "Resources"
-    url: /year-archive/
+    url: /resources/
     
   - title: "Grants"
-    url: /cv/
+    url: /grants/
     
   - title: "Course"
     url: /markdown/

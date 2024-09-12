@@ -3,22 +3,25 @@ layout: default
 ---
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
-  {% include page__hero.html %}
+{% include page__hero.html %}
 {% endif %}
 
 {% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
+{% unless paginator %}
+{% include breadcrumbs.html %}
+{% endunless %}
 {% endif %}
 
 <div id="main" role="main">
   {% include sidebar.html %}
-
+  {% if page.author_profile or layout.author_profile or page.sidebar %}
   <div class="archive">
+    {% endif %}
     {% unless page.header.overlay_color or page.header.overlay_image %}
-      <h1 class="page__title">{{ page.title }}</h1>
+    <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+    {% if page.author_profile or layout.author_profile or page.sidebar %}
   </div>
+  {% endif %}
 </div>
