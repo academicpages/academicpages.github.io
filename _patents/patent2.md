@@ -3,7 +3,7 @@ title: "一种可扩展式电动车底盘结构拓扑优化方法"
 collection: patents
 category: chinese patents
 permalink: /patents/patent1
-excerpt: '本发明公开了一种可扩展式电动车底盘结构拓扑优化方法，涉及电动车底盘结构设计领域'
+excerpt: '本发明公开了一种可扩展式电动车底盘结构拓扑优化方法，涉及电动车底盘结构设计领域。'
 date: 2022-04-26
 venue: 'April 26'
 paperurl: 'https://jinyihan1001.github.io/jinyihan.github.io/files/CN202210466624.pdf'
