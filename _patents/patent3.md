@@ -2,7 +2,7 @@
 title: "一种高精密坐标镗床结构模态测试方法"
 collection: patents
 category: chinese patents
-permalink: /patents/patent1
+permalink: /patents/patent3
 excerpt: '本发明公开了一种高精密坐标镗床结构模态测试方法，包括：建立高精密坐标镗床主轴箱的模态测试系统；对所述主轴箱施加激励，采集激励数据；对所述激励数据进行分析，获取所述主轴箱的模态信息。'
 date: 2023-11-27
 venue: 'November 27'
