@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "一种基于中医大数据分析的腰椎突症疗效评价专家系统"
 collection: patents
 category: Chinese Patents
 permalink: /patents/patent1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-30
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'files/CN202110048140.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
