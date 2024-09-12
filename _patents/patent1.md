@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 1"
 collection: patents
-category: chinese patents
+category: Chinese Patents
 permalink: /patents/patent1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-30
