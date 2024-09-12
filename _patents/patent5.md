@@ -2,7 +2,7 @@
 title: "一种高精密坐标镗床刀具颤振智能监控方法"
 collection: patents
 category: chinese patents
-permalink: /patents/patent1
+permalink: /patents/patent5
 excerpt: '本发明公开了一种高精密坐标镗床刀具颤振智能监控方法，包括：步骤1、搭建坐标镗床刀具颤振监测系统；步骤2、建立刀具颤振监测模型；步骤3、采集刀具参数，获取刀具的颤振状态。'
 date: 2024-01-12
 venue: 'January 12'
