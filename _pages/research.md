@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Robotic Ultrasound Imaging
 ======
-* Master of Engineering in Mechanical Engineering, Shanghai Jiao Tong University, 09/2022-03/2025(expected)
-* Bachelor of Engineering in Mechanical Engineering, Shanghai Jiao Tong University, 09/2018-06/2022
+Build a 3 degrees of freedom robotic ultrasound imaging robotic system
