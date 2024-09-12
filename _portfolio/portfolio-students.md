@@ -4,6 +4,12 @@ excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/downsta
 collection: portfolio
 ---
 
+# 2024级
+
+|姚佳俊| 叶镇| 慕成林| 胡浩| 
+|:-----------:|:----------:|:----------:|:----------:|
+|![姚佳俊](/images/students/姚佳俊1.jpg "姚佳俊")| ![叶镇](/images/students/叶镇1.jpg "叶镇")| ![慕成林](/images/students/慕成林1.jpg "慕成林")| ![胡浩](/images/students/胡浩1.jpg "胡浩")|
+
 # 2023级
 
 |陈春海| 彭俊翔| 
