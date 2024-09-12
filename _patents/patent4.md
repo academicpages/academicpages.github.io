@@ -2,7 +2,7 @@
 title: "高精密坐标镗床主轴箱结构热变形的测量装置及测量方法"
 collection: patents
 category: chinese patents
-permalink: /patents/patent1
+permalink: /patents/patent4
 excerpt: '本发明提供了一种高精密坐标镗床主轴箱结构热变形的测量装置及测量方法。所述测量装置包括主轴箱、加热板、垫铁、温控箱、水平仪、温度传感器、千分表。'
 date: 2023-12-04
 venue: 'December 04'
