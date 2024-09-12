@@ -1,7 +1,7 @@
 ---
 title: "一种基于中医大数据分析的腰椎突症疗效评价专家系统"
 collection: patents
-category: Chinese Patents
+category: chinese patents
 permalink: /patents/patent1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-04-30
