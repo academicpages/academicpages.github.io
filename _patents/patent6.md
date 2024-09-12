@@ -2,7 +2,7 @@
 title: "一种高精密坐标镗床刀具磨损智能预测方法"
 collection: patents
 category: chinese patents
-permalink: /patents/patent1
+permalink: /patents/patent6
 excerpt: '本发明公开一种高精密坐标镗床刀具磨损智能预测方法，涉及切削加工刀具技术领域。'
 date: 2024-01-24
 venue: 'January 24'
