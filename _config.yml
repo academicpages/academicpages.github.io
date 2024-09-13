@@ -12,7 +12,7 @@ title                    : "Applied Data Analysis and Visualization Homepage"
 title_separator          : "-"
 name                     : &name "Anastasia Giachanou"
 description              : &description "personal description"
-url                      : https://tshahedi.github.io/adav-course/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tshahedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/adav-course" # the subpath of your site, e.g. "/blog"
 repository               : "tshahedi.github.io"
 
