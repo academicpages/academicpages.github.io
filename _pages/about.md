@@ -29,8 +29,8 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
 <div class="pubs-container">
 <div class="pubs-item">
     <div class="p">
-     [**Recommender Systems in the Era of Large Language Models (LLMs)**](https://arxiv.org/abs/2307.02046)
-  <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, **Yunqing Liu**, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
+    <a href="https://arxiv.org/abs/2307.02046"> Recommender Systems in the Era of Large Language Models (LLMs) </a>
+  <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
   <br> arXiv:2307.02046
   <br> <a href="https://arxiv.org/abs/2307.02046" class="button">arXiv</a> <a href="/files/LLM4Rec.pdf" class="button">PDF</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial</a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
