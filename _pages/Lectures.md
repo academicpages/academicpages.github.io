@@ -8,7 +8,7 @@ author_profile: true
 ### Lecture Schedule
 
 | Week | Date       | Lecture Topic                                                            | Lecturer                                       | Reading Material                                                                                      |
-|------|------------|--------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+|----|-----------------|--------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1    | 2024-09-10 | [Introduction](http://tshahedi.github.io/adav-course/files/Introduction.pdf)                 | Dr. Anastasia Giachanou                        | Chapter 1: Introduction <br> Chapter 2.1: What is Statistical Learning                                |
 | 2    | 2024-09-17 | [Data Visualisation](http://tshahedi.github.io/adav-course/files/Visualisation.pdf)                                                       | Dr. Javier Garcia-Bernardo                     | Chapter 1: Look at Data <br> Chapter 4: Show the Right Numbers <br> Chapter 5.3 & 5.4: Plot Text Directly and Label Outliers <br> Chapter 3: Make a Plot |
 | 3    | 2024-09-24 | [Model Fit and Cross Validation](http://tshahedi.github.io/adav-course/files/ModelFit.pdf)                                            | Javier Garcia-Bernardo, Ayoub Bagheri, Emmeke Aarts | Chapter 2.2: Assessing Model Accuracy <br> Chapter 5.1: Resampling Methods: Cross-Validation           |
