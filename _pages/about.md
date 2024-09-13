@@ -32,7 +32,7 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2307.02046"> <b>Recommender Systems in the Era of Large Language Models (LLMs) </b></a>
   <br> Wenqi Fan, Zihuai Zhao, Jiatong Li, <b>Yunqing Liu</b>, Xiaowei Mei, Yiqi Wang, Jiliang Tang, Qing Li
-  <br> arXiv:2307.02046
+  <br> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)
   <br> <a href="https://arxiv.org/abs/2307.02046" class="button">arXiv</a> <a href="/files/LLM4Rec.pdf" class="button">PDF</a> <a href="https://advanced-recommender-systems.github.io/llms_rec_tutorial/" class="button">Tutorial</a> 
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">IEEE TKDE</div><img src='/images/LLMs_tasks.png' alt="sym" width="400"></div></div>
@@ -44,7 +44,7 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
     <div class="p">
     <a href="https://arxiv.org/abs/2306.06615"> <b>Empowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective</b></a>
   <br> Jiatong Li*, <b>Yunqing Liu</b>*, Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, Qing Li
-  <br> arXiv:2302.02591
+  <br> IEEE Transactions on Knowledge and Data Engineering (<b>TKDE</b>)
   <br> *Co-first author
   <br> <a href="https://arxiv.org/abs/2306.06615" class="button">arXiv</a> <a href="/files/MolReGPT.pdf" class="button">PDF</a> <a href="https://github.com/phenixace/MolReGPT" class="button">Code</a> <a href="https://mp.weixin.qq.com/s/h5D-rOcOZ8_J65UHH_Z2uQ" class="button">中文Chinese</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
