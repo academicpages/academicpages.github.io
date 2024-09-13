@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Applied Data Science and Visualization - 2024 Course Overview"
+title: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-# Welcome
+## Welcome!
 
 This is the course website for the courses ADS: Applied Data Analysis and Visualization (201900027; part of the Utrecht University wide minor (Applied data science)[https://students.uu.nl/en/academics/minors/applied-data-science]), and Applied Data Analysis and visualization 1 for Economists (ECB2ADAVE; part of the minor Applied data science for Economists). These courses will be taught in parallel. When content is course specific, it will be mentioned explicitly.
 
