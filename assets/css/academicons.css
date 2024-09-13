@@ -325,3 +325,33 @@
 .fa.fa-pull-right {
   margin-left: .3em;
 }
+.pubs-container {
+  height: 80em; /* Or any other height */
+  overflow-y: scroll; /* This enables the vertical scrollbar if content overflows */
+}
+.pubs-item {
+  background-color: #f8f8f8; /* Light gray background */
+  border: 1px solid #ddd; /* Light gray border */
+  padding: 15px; /* Spacing inside the news item */
+  margin-bottom: 10px; /* Spacing between news items */
+  border-radius: 5px; /* Rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.pubs-item h3 {
+  margin-top: 0;
+  color: #333; /* Darker color for the title */
+  font-size: 1.2em; /* Slightly larger font for the title */
+}
+
+.pubs-item p {
+  color: #666; /* Gray color for the text */
+  font-size: 1em; /* Standard font size for the text */
+  line-height: 1.5; /* Spacing between lines */
+}
+
+.pubs-item .date {
+  font-size: 0.8em; /* Smaller font size for the date */
+  color: #999; /* Lighter color for the date */
+  margin-top: 10px; /* Spacing above the date */
+}
