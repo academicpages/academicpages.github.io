@@ -570,24 +570,24 @@ border-radius: .1em;
   color: #fff;
 }
 
-/* Table styles to adjust column widths based on content */
+/* Table styles to adjust column widths automatically based on content */
 table {
   width: 100%; /* Makes the table take up the full width of the container */
   border-collapse: collapse; /* Ensures borders collapse into one line */
-  table-layout: auto; /* Allows columns to adjust their width based on content */
+  table-layout: auto; /* Allow the table to adjust column widths based on content */
 }
 
 th, td {
-  white-space: nowrap; /* Prevents text wrapping in cells */
+  white-space: normal; /* Allows text to wrap naturally */
   padding: 10px; /* Adds padding to each cell */
   border: 1px solid #ddd; /* Adds a thin border between cells */
   text-align: left; /* Left-align text in each cell */
 }
 
-td.date {
-  text-align: center; /* Center-aligns the date column */
-}
-
 th {
   background-color: #f2f2f2; /* Adds a light background color for the headers */
+}
+
+td.date {
+  text-align: center; /* Center-aligns the date column */
 }
