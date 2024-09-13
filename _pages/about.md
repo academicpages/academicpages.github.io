@@ -24,13 +24,13 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
 <div class="news-item">
   <div class="date">07/11/2024</div>
     <div class="p">
-     Invited to give a talk at Queen Mary University of London.
+     11111
     </div>
   </div>
 <div class="news-item">
   <div class="date">10/10/2024</div>
     <div class="p">
-   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI</a> in Marrakesh, Morocco!</div>
+   1111</div>
    </div>
 
 ## Research Interest
