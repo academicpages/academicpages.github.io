@@ -19,6 +19,8 @@ A mini collection of songs that have a clean window squeaking sound. Sorted by d
 
 5. [Beleza Pura by Masayoshi Takanaka from Brasilian Skies](https://www.youtube.com/watch?v=ddaHY6z4nXM)
 
+6. [Put On Repeat by Sabrina Claudio from Based On A Feeling](https://youtu.be/Pz63aBDQYQ4?t=25)[^1]
+
 Email me if you know of more.
 
 ### Appendix
@@ -28,3 +30,5 @@ Someone made a [similar collection](https://rateyourmusic.com/list/code_gs/songs
 Found these amazing songs by Lil Windex while looking for some additional songs: [Cleanin Up](https://www.youtube.com/watch?v=bMA_iZ7effY), [Bitcoin Ca$h](https://www.youtube.com/watch?v=nAMRFDs9iOs).
 
 A random crazy [song](https://www.youtube.com/watch?v=3vbR2X3sJNs) by Ugly God that samples the iPhone ringtone.
+
+[^1]: Could be a false positive.
