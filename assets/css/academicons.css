@@ -570,13 +570,14 @@ border-radius: .1em;
   color: #fff;
 }
 
-/* Table styles to prevent text wrapping and ensure content stays in one line */
+/* Table styles to prevent text wrapping and ensure content stays on one line */
 table {
-  border-collapse: collapse; /* Ensures borders collapse into one line */
+  border-collapse: collapse; /* Ensure borders collapse into one line */
+  width: 100%; /* Adjust table to fill available space */
 }
 
 th, td {
-  white-space: nowrap; /* Prevents text from wrapping and forces everything to be in one line */
+  white-space: nowrap; /* Prevent text from wrapping and keep everything in one line */
   padding: 10px; /* Adds padding to each cell */
   border: 1px solid #ddd; /* Adds a thin border between cells */
   text-align: left; /* Left-align text in each cell */
@@ -584,6 +585,7 @@ th, td {
 
 td.date {
   text-align: center; /* Center-aligns the date column */
+  white-space: nowrap; /* Ensures the date is always in one line */
 }
 
 th {
