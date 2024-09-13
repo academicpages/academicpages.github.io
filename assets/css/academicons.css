@@ -569,3 +569,21 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+/* Table styles to prevent text wrapping and adjust margins */
+table {
+  table-layout: fixed; /* Ensures consistent column widths */
+  width: 100%; /* Makes the table take up the full width of the container */
+}
+
+th, td {
+  white-space: nowrap; /* Prevents text wrapping */
+  overflow: hidden; /* Ensures overflow doesn't affect layout */
+  text-overflow: ellipsis; /* Adds "..." if the text exceeds cell width */
+  padding: 10px; /* Adds padding to each cell */
+}
+
+td.date {
+  width: 120px; /* Adjusts width specifically for the date column */
+  text-align: center; /* Centers the date within the cell */
+}
