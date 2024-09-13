@@ -82,7 +82,6 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
     <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609"> <b>Late-Stage Photoredox C–H Amidation of N-Unprotected Indole Derivatives: Access to N-(Indol-2-yl)amides</b></a>
   <br> Yue Weng, Bo Ding, <b>Yunqing Liu</b>, Chunlan Song, Lo-Ying Chan, and Chien-Wei Chiang
   <br> <b><i>Organic Letters</i>, 2021</b>, <i>23</i>(7), 2710-2714
-  <br> DOI:10.1021/acs.orglett.1c00609
   <br> <a href="https://pubs.acs.org/doi/10.1021/acs.orglett.1c00609" class="button">Website</a> <a href="/files/acs.orglett.1c00609.pdf" class="button">PDF</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">Org. Lett.</div><img src='/images/2021ACS.png' alt="sym" width="400"></div></div>
@@ -95,7 +94,6 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
     <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572"> <b>Selective Photoredox Trifluoromethylation of Tryptophan-Containing Peptides</b></a>
   <br> Bo Ding, Yue Weng, <b>Yunqing Liu</b>, Chunlan Song, Le Yin, Jiafan Yuan, Yanrui Ren, Aiwen Lei, Chien-Wei Chiang
   <br> <b><i>European Journal of Organic Chemistry</i>, 2019</b>, <i>46</i>(12), 7596-7605
-  <br> DOI:10.1002/ejoc.201901572
   <br> <a href="https://chemistry-europe.onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201901572" class="button">Website</a> <a href="/files/ejoc.201901572.pdf" class="button">PDF</a>
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
