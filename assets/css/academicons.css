@@ -570,15 +570,13 @@ border-radius: .1em;
   color: #fff;
 }
 
-/* Table styles to prevent text wrapping and adjust column width based on content */
+/* Table styles to prevent text wrapping and ensure content stays in one line */
 table {
-  width: auto; /* Let the table width be determined by the content */
   border-collapse: collapse; /* Ensures borders collapse into one line */
-  table-layout: auto; /* Allow the table to adjust column widths based on content */
 }
 
 th, td {
-  white-space: nowrap; /* Prevents text from wrapping */
+  white-space: nowrap; /* Prevents text from wrapping and forces everything to be in one line */
   padding: 10px; /* Adds padding to each cell */
   border: 1px solid #ddd; /* Adds a thin border between cells */
   text-align: left; /* Left-align text in each cell */
