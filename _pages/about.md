@@ -105,6 +105,7 @@ I am currently a Ph.D. student of the Department of Computing (COMP), The Hong K
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 2px;'><div><div class="badge">EurJOC</div><img src='/images/ejoc_3.jpg' alt="sym" width="400"></div></div>
   
 </div>
+</div>
 
 
 
