@@ -326,7 +326,7 @@
   margin-left: .3em;
 }
 .pubs-container {
-  height: 80em; /* Or any other height */
+  height: 60em; /* Or any other height */
   overflow-y: scroll; /* This enables the vertical scrollbar if content overflows */
 }
 .pubs-item {
