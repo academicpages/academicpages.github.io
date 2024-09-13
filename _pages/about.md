@@ -17,6 +17,22 @@ redirect_from:
 
 I am currently a Ph.D. student of the Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU) <img src='/images/polyu_logo.png' style='width: 1.2em;'>, under the supervision of [Dr. Wenqi Fan](https://wenqifan03.github.io/). Before joining the PolyU, I received my Master's degree in Computer Science from University of Edinburgh  (M.Sc. in Computer Science) <img src='/images/uoe_log.png' style='width: 1.2em;'>. In 2020, I got my bachelor's degrees from Wuhan University (B.Sc. in Chemistry and B.Eng. in Computer Science and Technology) <img src='/images/whu_logo.png' style='width: 1.2em;'>. I am a self-motivated person and have a strong passion for scientific research. Currently, my research interest lies in AI4Science, Graph Neural Networks, and Natural Language Processing. I am always welcoming collaboration from solid partners.
 
+## News
+----
+
+<div class="news-container">
+<div class="news-item">
+  <div class="date">07/11/2024</div>
+    <div class="p">
+     Invited to give a talk at Queen Mary University of London.
+    </div>
+  </div>
+<div class="news-item">
+  <div class="date">10/10/2024</div>
+    <div class="p">
+   We will be organizing <a href="https://adsmi-miccai.github.io/">MICCAI Workshop on Advancing Data Solutions in Medical Imaging AI</a> in Marrakesh, Morocco!</div>
+   </div>
+
 ## Research Interest
 
 + AI for Science
