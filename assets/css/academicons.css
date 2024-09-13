@@ -574,6 +574,7 @@ border-radius: .1em;
 table {
   width: 100%; /* Makes the table take up the full width of the container */
   border-collapse: collapse; /* Ensures borders collapse into one line */
+  table-layout: auto; /* Allows columns to adjust their width based on content */
 }
 
 th, td {
