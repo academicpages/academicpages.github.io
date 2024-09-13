@@ -1,10 +1,5 @@
 # main links links
 main:
-  - title: "Course information"
-    url: /Course-information/
-
-  - title: "Preparation"
-    url: /Preparation/
 
   - title: "Lectures"
     url: /Lectures/
@@ -14,9 +9,3 @@ main:
 
   - title: "Labs answers"
     url: /Labs-answers/
-
-  - title: "Assignments"
-    url: /Assignments/
-
-  - title: "Exam"
-    url: /Exam/
