@@ -7,7 +7,7 @@ author_profile: true
 
 ### Lecture Schedule
 
-| Week | Date       | Lecture Topic                                                            | Lecturer                                       | Reading Material                                                                                      |
+| Week | Date       | Topic                                                            | Lecturer                                       | Reading     |
 |----|-----------------|--------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1    | 2024-09-10 | [Introduction](http://tshahedi.github.io/adav-course/files/Introduction.pdf)                 | Dr. Anastasia Giachanou                        | [Chapter 1: Introduction <br> Chapter 2.1: What is Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)                                |
 | 2    | 2024-09-17 | [Data Visualisation](http://tshahedi.github.io/adav-course/files/Visualisation.pdf)                                                       | Dr. Javier Garcia-Bernardo                     | Chapter 1: Look at Data <br> Chapter 4: Show the Right Numbers <br> Chapter 5.3 & 5.4: Plot Text Directly and Label Outliers <br> Chapter 3: Make a Plot |
