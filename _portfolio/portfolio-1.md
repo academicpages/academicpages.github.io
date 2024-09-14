@@ -16,7 +16,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 3. Input data dile
    1. Age file ```.csv```
       ```python
-      
+      ```
    3. DEM file ```.xyz```
 #### Set up used
 1. Ubuntu 20.04.6 LTS, 64 bits
@@ -30,11 +30,13 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
          $ python
         >>> import pymc
         >>>
+         ```
 #### Start simulating
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
 2. Run the code by typing and then click ```enter```
     ```python
         python run.py
+    ```
 #### OUtput files
  1. Done, model out contains
     1. Simulated age-elevation plot
