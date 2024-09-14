@@ -18,3 +18,10 @@ This is an item of Equipment and Experiment Display.
 ![moire](/images/x.gif "moire_x")
 ![moire](/images/xy.gif "moire_xy")
 ![moire](/images/y.gif "moire_y")
+
+Students were engaged in research activities.
+![学生在进行科研活动](/images/学生活动_20240914161416.jpg "学生在进行科研活动")
+![学生在进行科研活动](/images/学生活动_20240914161452.jpg "学生在进行科研活动")
+![学生在进行科研活动](/images/学生活动_20240914161508.jpg "学生在进行科研活动")
+![学生在进行科研活动](/images/学生活动_20240914161238.jpg "学生在进行科研活动")
+![学生在进行科研活动](/images/学生活动_20240914161202.jpg "学生在进行科研活动")
