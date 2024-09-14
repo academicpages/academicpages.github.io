@@ -22,7 +22,7 @@ Research Journey
 
 Nguyen, Ngoc Hung started his journey of research when I was a student at Hanoi University of Science and Technology. He deployed research with his labmate at the Motor Design Lab under the supervision of Prof. [Bui Minh Dinh](https://scholar.google.com/citations?hl=en&user=lACArY4AAAAJ) and Chemical Processing Lab under Prof. [Nguyen Dang Binh Thanh](https://scholar.google.com/citations?user=uu5VPhcAAAAJ&hl=vi&oi=sra), here, He did researches in numerical methods, computer system, and motor design. This research then led him to receive a third award for the student research competition at Hanoi University of Science and Technology.
 
-He was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](link). Thanks to Prof. Jeon guided and led him to understand all the research concepts and writing skills. During this time, Ngoc Hung dug deeper into the AI field, especially deep reinforcement learning, Markovian decision professor as well as the computer and cloud systems.
+He was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](link). Thanks to Prof. Jeon guided and led him to understand all the research concepts and writing skills. During this time, Ngoc Hung dug deeper into the AI field, especially deep reinforcement learning, Markovian decision process as well as the computer and cloud systems.
 
 Research Interest
 ======
