@@ -17,7 +17,10 @@ main:
     url: /skills/
 
   - title: "Bio"
-    url: /bio/    
+    url: /bio/ 
+
+  - title: "Codes"
+    url: /talk/
 
   # - title: "Teaching"
   #   url: /teaching/    
