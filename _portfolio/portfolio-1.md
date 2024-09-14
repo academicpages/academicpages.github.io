@@ -4,7 +4,7 @@ excerpt: "User Guide to Run the Code<br/><img src='/images/My_DP_Prayoga.JPG'>"
 collection: 
 ---
 
-# Installation
+### Installation
 (May 2024) by Biraj and Divydeep 
 
 Bayesian erosion model Avdeev et al., (2011) (EPSL) has been modified for generating data presented in Borgohain et al., (2024). 
@@ -13,7 +13,7 @@ Original Avdeev et al., (2011) can be downloaded from link
 
                https://code.google.com/archive/p/thermochron/downloads
 
-# Procedure to run the code: 
+### Procedure to run the code: 
 
      For Ubuntu 20.04.6 LTS, 64 bits steps followed
 1. Creat an environment using (example py2)
