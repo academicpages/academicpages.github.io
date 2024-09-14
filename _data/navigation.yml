@@ -14,7 +14,7 @@ main:
   - title: "CV"
     url: /cv/
   - title: "Skills"
-    url: /markdown/
+    url: /skills/
 
   - title: "Bio"
     url: /talks/    
