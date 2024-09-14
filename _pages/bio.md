@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /talks/
+permalink: /bio/
 author_profile: true
 ---
 
-{% include base_path %}
 
 
 
