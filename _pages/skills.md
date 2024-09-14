@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-* Bayesian erosion model for detrital thermochronological ages inversion
+* Bayesian erosion model for detrital thermochronological ages inversion [Details](https://github.com/birajborgohain/birajborgohain.github.io/blob/master/_pages/bayesian.md)
   * Bayesian probabilistic programming with Markov chain Monte Carlo (MCMC) methods (PyMC).
 * Pyhton
   * Data analysis and visualisation (jupyter lab, matplotlib, scipy, scikit-learn, seaborn)
