@@ -13,7 +13,7 @@ Thank you for your interest in the Perception and Language (PLAN) Lab!
 I recruit graduate students through the School of Information Sciences (iSchool), 
 the Siebel School of Computing and Data Science (CS), and the Electrical and Computer Engineering (ECE) Department at UIUC.
 If you are applying to any of these UIUC Ph.D./M.S. programs and are interested in working in my lab, 
-please submit your application directly and complete this [interest form](https://forms.gle/biPTEzwSR5841T4eA). If there’s a good fit, I’ll be in touch to discuss potential opportunities. Candidates with experience in [Embodied AI](https://isminoula.github.io/readings) topics, who are passionate about advancing this field, and have a strong research background in computer vision or multimodal machine learning are highly encouraged to apply. 
+please submit your application directly and complete this [interest form](https://forms.gle/biPTEzwSR5841T4eA). If there’s a good fit, I’ll be in touch to discuss potential opportunities. Candidates with experience in [Embodied AI](https://isminoula.github.io/readings) topics, who are passionate about advancing this field and have a strong research background in computer vision (including 3DV) or multimodal machine learning are highly encouraged to apply. 
 
 ## Current UIUC Students
 If you’re already a UIUC student and you are interested in joining my lab, please fill out the [interest form](https://forms.gle/biPTEzwSR5841T4eA). 
