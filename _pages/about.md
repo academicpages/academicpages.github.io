@@ -14,7 +14,6 @@ I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX La
 You can find my CV here: [catalan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](2529563321@qq.com) / [Github](https://github.com/CatalanOvO) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Catalany)
-————————————————
 
 A data-driven personal website
 ======
