@@ -4,9 +4,10 @@ title: "The Pax Narca Files"
 permalink: /Pax/
 author_profile: true
 ---
-<div style="text-align: center;">
 
-![Figure 1](/images/correa-con-narcos.jpg)<br>
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  
+  ![Figure 1](/images/correa-con-narcos.jpg)
 
 </div>
 
