@@ -5,7 +5,9 @@ permalink: /Pax/
 author_profile: true
 ---
 <div style="text-align: center;">
+
 ![Figure 1](/images/correa-con-narcos.jpg)<br>
+
 </div>
 
 <br><strong>1. ¿Qué te hicieron, Patria?</strong> <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[Link]</a><br>
