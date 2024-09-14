@@ -11,7 +11,7 @@ redirect_from:
 
 <br>Welcome to my website !<br>
 
-<br>I currently work as a Postdoctoral Researcher at the Harris School of Public Policy at <a href="https://harris.uchicago.edu/directory/arduino-tomasi">The University of Chicago</a>. I earned my PhD in Political Science from The London School of Economics and Political Science in 2021.<br>
+<br>I previously worked as a Postdoctoral Researcher at The University of Chicago. I earned my PhD in Political Science from The London School of Economics and Political Science in 2021.<br>
 
 <br>In my research, I use game-theoretic models to dig deeper into how public policies shape electoral outcomes and how political frictions create economic distortions in developing countries.<br>
 
