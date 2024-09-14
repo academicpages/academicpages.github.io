@@ -5,7 +5,17 @@ permalink: /Pax/
 author_profile: true
 ---
 
+<!-- Metadatos Open Graph -->
+<meta property="og:title" content="The Pax Narca Files" />
+<meta property="og:description" content="Descripción de tu página o archivo." />
+<meta property="og:image" content="https://arduinotomasi.github.io/images/correa-con-narcos.jpg" />
+<meta property="og:url" content="https://arduinotomasi.github.io/Pax/" />
 
+<!-- Metadatos Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="The Pax Narca Files" />
+<meta name="twitter:description" content="Descripción de tu página o archivo." />
+<meta name="twitter:image" content="https://arduinotomasi.github.io/images/correa-con-narcos.jpg" />
 
 <br><strong>1. ¿Qué te hicieron, Patria?</strong> <a href="https://arduinotomasi.github.io/posts/2024/01/Patria/">[Link]</a><br>
 <p style="text-align: justify; font-size: 11.5pt;">Este estudio exploratorio examina los posibles factores que contribuyeron a la escalada de violencia en Ecuador, analizando tres tendencias clave: el aumento de muertes violentas de intención indeterminada (2007-2017), la disminución de incautaciones de cocaína post-2009, y el incremento del tráfico de menores desde 2007. Mediante un análisis estadístico preliminar, se identifican correlaciones sugestivas entre estos fenómenos, planteando hipótesis sobre un posible aumento en la actividad del crimen organizado y una potencial permisividad gubernamental hacia actividades ilícitas. Esta investigación inicial busca proporcionar un punto de partida para futuros estudios más exhaustivos sobre la compleja situación de seguridad en Ecuador, reconociendo la necesidad de investigaciones más profundas y rigurosas para establecer conclusiones definitivas.</p>
