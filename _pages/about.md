@@ -16,10 +16,6 @@ You can find my CV here: [catalan's Curriculum Vitae](../assets/Curriculum_Vitae
 [Email](2529563321@qq.com) / [Github](https://github.com/CatalanOvO) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Catalany)
 ————————————————
 
-                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
-                        
-原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
