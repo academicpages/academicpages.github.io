@@ -17,6 +17,8 @@ Education
 
 Work experience
 ======
+* September 2024 - Now: University teacher
+  * Weifang Institute of Technology
 * April 2021 - June 2021: Quantitative Investment Assistant
   * Jinan Yushi Information Technology Co., Ltd.
   * Responsible for the maintenance, update and statistical analysis of transaction data and financial market data
