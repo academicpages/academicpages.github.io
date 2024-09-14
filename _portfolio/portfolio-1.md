@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Bayesian Erosion Model with Low-Temperature Thermochronology"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/My_DP_Prayoga.JPG'>"
 collection: portfolio
 ---
