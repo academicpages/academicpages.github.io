@@ -20,7 +20,7 @@ main:
     url: /bio/ 
 
   - title: "Codes"
-    url: /talk/
+    url: /talks/
 
   # - title: "Teaching"
   #   url: /teaching/    
