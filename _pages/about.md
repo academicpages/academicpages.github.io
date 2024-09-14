@@ -7,7 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I'm a third year undergraduate student from [School of Information and Software Engineering](https://sise.uestc.edu.cn), [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+
+You can find my CV here: [catalan's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](2529563321@qq.com) / [Github](https://github.com/CatalanOvO) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Catalany)
+————————————————
+
+                            版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。
+                        
+原文链接：https://blog.csdn.net/qd1813100174/article/details/128604858
 
 A data-driven personal website
 ======
