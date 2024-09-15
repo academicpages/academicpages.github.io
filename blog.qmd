@@ -1,0 +1,14 @@
+---
+title: "Blog"
+description: |
+  This part is the same as the Quarto default blog template. 
+listing:
+  contents: blog
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+---
+
+Read more about Quarto blogs [here](https://quarto.org/docs/websites/website-blog.html). 

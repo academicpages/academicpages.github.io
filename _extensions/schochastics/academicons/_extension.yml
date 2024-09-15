@@ -1,0 +1,6 @@
+title: Support for academicons
+author: David Schoch
+version: 0.3.0
+contributes:
+  shortcodes:
+    - academicons.lua

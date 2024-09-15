@@ -1,0 +1,43 @@
+---
+title: "Talks"
+description: |
+  This page provides an example of the default listing.
+listing:
+  - id: rstats
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_1
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    filter-ui: false
+
+  - id: ehr
+    max-description-length: 500
+    image-height: 150px
+    fields: [title, description, image, date]
+    contents: 
+      - talk_2
+    type: default
+    grid-item-border: false
+    sort-ui: false
+    sort: "priority asc"
+    filter-ui: false
+---
+
+## Rstats
+
+::: {#rstats}
+:::
+
+
+## Electronic Health Records 
+
+::: {#ehr}
+:::
+
+
+
+

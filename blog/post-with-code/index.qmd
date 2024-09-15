@@ -1,0 +1,13 @@
+---
+title: "Post With Code"
+author: "Harlow Malloc"
+date: "2022-10-25"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This is a post with executable code.
+
+```{r}
+1 + 1
+```

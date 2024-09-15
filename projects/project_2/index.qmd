@@ -1,0 +1,7 @@
+---
+title: "project_2"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+In this project I work on Machine Learning methods to predict in-hospital mortality. 

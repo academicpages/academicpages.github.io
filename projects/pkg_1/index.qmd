@@ -1,0 +1,8 @@
+---
+title: "pkg_1"
+author: "Author"
+date: "2022-10-25"
+categories: [news, code, analysis]
+---
+
+This package does this. 

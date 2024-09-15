@@ -1,0 +1,28 @@
+---
+title: "Projects"
+description: |
+  This page lists my papers, both published and in the pre-print stage. Take a look!
+listing:
+  - id: publications
+    max-description-length: 350
+    fields: [title, description]
+    contents: 
+      - sb2022gpt
+    type: default
+    grid-item-border: false
+    
+---
+
+
+
+## Publications
+
+
+::: {#publications}
+:::
+
+
+
+
+
+

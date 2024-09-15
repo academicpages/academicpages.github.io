@@ -1,0 +1,9 @@
+---
+title: "Learning from Hospital EHR data with R"
+description: "A 15 minutes introduction to hospital EHR data"
+date: "2019-10-28"
+categories: [ehr]
+priority: 3
+---
+
+![](image.jpg)

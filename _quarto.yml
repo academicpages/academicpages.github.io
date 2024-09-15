@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Salvador Balkus - Personal Website"
+
+  page-footer:
+    left: "&copy; Copyright 2024, Salvador Balkus"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    #background: primary
+
+  sidebar:
+    pinned: true
+    align: center
+    style: "docked"
+    collapse-level: 1
+    #background: primary
+    #type: dark
+    border: true
+    contents:
+
+      - text: "Papers"
+        href: papers.qmd
+
+      - text: "Talks"
+        href: talks.qmd
+
+      - text: "CV"
+        href: files/cv.pdf
+
+format:
+  html:
+    theme: [sandstone, styles.scss]
+    css: styles.css
+    toc: true
+
