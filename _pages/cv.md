@@ -11,9 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in *Information and Communications Engineering*\\
+Tokyo Institute of Technology, April 2024 - present
+* M.S. in *Information and Communications Engineering*\\
+Tokyo Institute of Technology, April 2022 - March 2024
+* B.S. in *Engineering*\\
+Tokyo Institute of Technology, April 2019 - March 2022
+(*early graduation*)
+* Center for Japanese Language and Culture (CJLC)\\
+Osaka University, April 2018 - March 2019 (*MEXT-assigned preparatory school*)
+* Hanoi University of Science and Technology, September 2015 - February 2018
+(*talented program, withdrew*)
+
+Awards
+======
+* Japanese Government (MEXT) Scholarship (*Embassy Recommendation*) (2018 - present)
+* Deputy Representative at Graduation Ceremony, Tokyo Institute of Technology (2022)
 
 Work experience
 ======

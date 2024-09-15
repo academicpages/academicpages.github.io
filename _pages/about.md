@@ -1,11 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+My name is Minh Vu, a PhD student in Information and Communications Engineering
+at the [Tokyo Institute of Technology](https://www.titech.ac.jp) ([Institute of
+Science Tokyo](https://www.isct.ac.jp/en) from October, 2024), Tokyo, Japan, and
+a member of [Slavakis Lab](http://www.slavakislab.ict.e.titech.ac.jp) under the
+supervision of Professor [Konstantinos
+Slavakis](https://scholar.google.com/citations?user=GAX1JdMAAAAJ&hl=en#).
+
+My research interests include reinforcement learning, signal processing and
+optimization. My latest results introduces a novel usage of Gaussian mixture
+model as a function approximator of Q-functions in reinforcement learning. This
+work has been submitted for publication at the [2025 IEEE International
+Conference of Acoustics, Speech and Signal Processing
+(ICASSP)](https://2025.ieeeicassp.org). For more information on my previous
+works, please look at my publications list.
+
+Personal Interests
+------
+Cinema, Footbal (Soccer), Photography (Analog), Running
+
+Contact
+------
+Slavakis Lab,\\
+Department of Information and Communications Engineering,\\
+Tokyo Institute of Technology, Japan\\
+vu.d.aa [at] m.titech.ac.jp
+
+**Access**\\
+Suzukakedai Campus\\
+Building G2, 8th Floor, Room #814\\
+4259-G2-4 Nagatsuta-cho, Midori-ku\\
+Yokohama, Kanagawa, Japan 226-8502
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
