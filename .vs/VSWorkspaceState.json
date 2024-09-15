@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\talkmap",
+    "\\_pages",
     "\\_talks"
   ],
-  "SelectedNode": "\\_talks\\talkmap.py",
+  "SelectedNode": "\\_pages\\talkmap.html",
   "PreviewInSolutionExplorer": false
 }
