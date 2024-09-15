@@ -20,8 +20,9 @@ $(document).ready(function(){
       bumpIt();
     }
   }, 250);
+  
   // FitVids init
-  $("#main").fitVids();
+  fitvids();
 
   // init sticky sidebar
   $(".sticky").Stickyfill();
