@@ -7,7 +7,15 @@
 html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
-  background-color: $background-color;
+ 
+  background-image: url("/images/background.JPG");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: rgba(255, 255, 255, .88);
+  background-blend-mode: overlay;
+
   font-size: 16px;
 
   @include breakpoint($medium) {
