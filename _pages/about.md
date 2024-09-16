@@ -1,49 +1,65 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+## 教育背景
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+### 中国矿业大学
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- 数学学院 数学大类专业 2021.9-2022.6
+- 计算机科学与技术学院 信息安全专业 2022.9-至今
+- 加权平均分：82.7
+- 专业排名：32
+- GPA：3.41
+- 四级成绩：499
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## 荣誉奖项
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- 数学学院 春晖励志奖学金 2022年5月
+- 数学学院 校级三等奖学金 2022年9月
+- 计算机科学与技术学院 校级三等奖学金 2023年9月
+- 中国高校计算机大赛全国总决赛成功参赛奖 2023年5月
+- 五一数学建模数学竞赛优秀奖 2022年5月
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## 专业技能
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- 编程语言：C++/Python/Rust/Java/JavaScript/PHP
+- 技能：
+  - 熟悉RSA/Hash加密原理及操作，可使用多种语言进行加解密的实现；
+  - 对CTF中的Crypto等问题有过学习，擅长使用python编写脚本破解RSA类型的ctf密码学题目；
+  - 熟悉基于的OPENGL的imgui的桌面应用框架，制作简单的高性能桌面应用程序，能够通过利用imgui的工具控制程序的分辨率和刷新率；
+  - 有网络企业实习的经历，曾在河南省夺冠集团实习2个月有余，能够基于Vue前端，Laravel后端的框架构建网页和微信小程序，并且熟悉数据库sql的简单的优化方法。
 
-**Markdown generator**
+## 社团和组织经历
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- 数学学院21级2班班委 2021年09月 – 2022年06月
+  - 学习委员
+  - 管理班级日常的组织学习的任务，在临近考试的期间组织集体学习的活动和同学间的互相答疑，我在任期间，达到了班级英语cet4级90%的通过率，专业课80%的合格率，学年终获得班级优秀班干部的荣誉。
+- 中国矿业大学墨韵书法社团 2021年09月 – 2021年12月
+  - 成员
+  - 和同社团成员学习书法并进行书法作品的创作，并且热衷于书写书法艺术作品，参加相关的业余书法毛笔字的比赛。
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## 兴趣爱好
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- 性格乐观开朗，酷爱运动，热爱健身，擅长打篮球与乒乓球，有过参加比赛并获奖的经历。
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## 研究经历
+
+### 基于Rust的RISC-V内核源码编写（可现场演示） 2023年09月 – 2023年11月
+
+- 项目来源：[清华大学Rust开源操作系统训练营](https://github.com/LearningOS/2023-littlezhe001)
+- 基于Unbutu系统以及QEMU模拟器，模拟risc64位系统环境运行系统，直接更改内核源码。
+  1. 针对系统的任务管理器(TaskManager)模块，增加系统调用任务信息(TaskInfo)，以增加任务管理器(TaskManager)的信息，使得每次调用任务管理器(TaskManager)，例如读，写等操作，获取当前时间等操作都能够记录在内核空间中的数组syscall_times中。
+  2. 针对任务信息(TaskInfo)的系统调用所对应的结构体(taskinfo)，增加结构体的元素，定义运行时间元素(time)，从开始调用的时间开始，从内核空间开始记录运行的时间，从而达到精准测量系统调用时间的目的。
+
+### Linux内核源码中的内存保护与NX位 2023年03月 – 2023年05月
+
+- 指导老师：李勇刚
+- 通过使用gdb等调试工具或ebpf等内核观测工具，找出linux内核是通过哪些系统调用和函数在内存管理上进行保护。
+  1. 编写内存溢出的漏洞代码，在Centos7操作系统上运行，使用gdb工具逐步调试漏洞代码，观察程序因为段错误(segmentation fault)被linux内核强制终止时所调用的内核函数以及系统调用(syscall)。
+  2. 阅读地址随机化(aslr)相关的论文，在linux内核4.0以上的版本对论文中的源码进行复现，并使用文中的python代码(benchmark)对现有的已经随机化的地址和未随机化的地址进行对比。
+  3. 了解Linux内核通过硬件(NX位)保护系统内存的方式，并通过ebpf工具锁定指定的系统调用，跟踪系统调用函数如何在内核层面上运行。
+
+### 基于Rustlings框架下的Rust学习 2024年03月 – 2024年05月
+
+- 项目来源：[清华大学Rust开源操作系统](https://github.com/LearningOS/rust-rustlings-2024-spring-littlezhe001)
+- 基于Rust语言进行基本的数据结构的安全化构建，利用Rust的特性对链式存储结构进行保护以防止内存泄漏。
+  1. 学习基本的rust语言的语法，以及rust基本的数据结构，基于ubutun系统搭建rust编译的环境。
+  2. 基于rust进行多线程编程，并学习原子语句实现基本的信号量机制，编写简单的程序实现互斥的效果。
+  3. 编写链表，二叉树等基础的数据结构，利用rust的生命周期的特性，禁止内存管理上出现泄露(空指针)。
