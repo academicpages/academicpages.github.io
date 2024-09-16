@@ -21,7 +21,7 @@ repository               : "tshahedi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"anastasia.png"
+  avatar           : "Avatar.png"
   name             : #"Anastasia Giachanou"
   pronouns         : # example: "she/her"
   bio              : #"Course coordinator"
