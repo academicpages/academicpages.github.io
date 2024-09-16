@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Applied Data Analysis and Visualization Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Anastasia Giachanou"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "tshahedi.github.io"
 author:
   # Biographic information
   avatar           : "Avatar.png"
-  name             : #"Anastasia Giachanou"
+  name             : "Applied Data Analysis and Visualization"
   pronouns         : # example: "she/her"
   bio              : #"Course coordinator"
   location         : #"Netherlands"
