@@ -80,7 +80,7 @@
   display: table-cell;
   vertical-align: middle;
   width: 250px;
-  height: 10px; /* Set height to make the avatar square */
+  height: 100px; /* Set height to make the avatar square */
 
   @include breakpoint($large) {
     display: block;
