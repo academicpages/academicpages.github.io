@@ -78,8 +78,8 @@
 
 .author__avatar {
   display: table-cell;
-  vertical-align: top;
-  width: 200px;
+  vertical-align: middle;
+  width: 250px;
   height: 200px; /* Set height to make the avatar square */
 
   @include breakpoint($large) {
@@ -89,7 +89,7 @@
   }
 
   img {
-    width: 200px; /* Ensure the image is square by setting both width and height */
+    width: 250px; /* Ensure the image is square by setting both width and height */
     height: 200px;
     object-fit: cover; /* Ensure the image covers the entire square without distortion */
     border-radius: 0%; /* Keep the avatar square */
@@ -118,13 +118,20 @@
 }
 
 .author__name {
+  position: absolute; /* Position the author name at a fixed location */
+  top: 10px; /* Distance from the top */
+  left: 20px; /* Adjust the left distance as needed */
+  z-index: 10; /* Ensure it's on top of other elements */
   margin: 0;
+  font-size: $type-size-5; /* Adjust font size as needed */
+  font-weight: bold; /* Optional: make the name bold */
 
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
