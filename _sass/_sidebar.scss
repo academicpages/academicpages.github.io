@@ -80,8 +80,7 @@
   display: table-cell;
   vertical-align: top;
   width: 200px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  height: 200px; /* Set height to make the avatar square */
 
   @include breakpoint($large) {
     display: block;
@@ -90,15 +89,18 @@
   }
 
   img {
-    max-width: 175px;
-    border-radius: 0%;
+    width: 200px; /* Ensure the image is square by setting both width and height */
+    height: 200px;
+    object-fit: cover; /* Ensure the image covers the entire square without distortion */
+    border-radius: 0%; /* Keep the avatar square */
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      border: 1px solid $border-color; /* Optional border */
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
