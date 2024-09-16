@@ -22,7 +22,7 @@ For all other inquiries (e.g., independent studies, courses, general topics of i
 please stop by during my *Ask Me Anything (AMA)* office hours every Tuesday, 4-5pm CT, at Office #5154 in the iSchool Hub Bldg. and on [Zoom](https://illinois.zoom.us/j/89862098818?pwd=bir98nipGTZa8EOuesF2viXz7Ko70a.1).
 
 ## Important Note
-<u>Due to a large volume of emails, I am unable to respond to individual queries via email or other platforms.</u>
+<b><u>Due to a large volume of emails, I am unable to respond to individual queries via email or other platforms.</u></b>
 If you do not receive a response, it is likely that there are no positions currently available or 
 that your research interests and/or background are not a match for our lab at this time. 
 Finally, I am currently not recruiting students at Virginia Tech, either at the Blacksburg or the NOVA campus.
