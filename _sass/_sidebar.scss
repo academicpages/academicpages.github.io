@@ -79,8 +79,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: middle;
-  width: 250px;
-  height: 200px; /* Set height to make the avatar square */
+  width: 200px;
+  height: 10px; /* Set height to make the avatar square */
 
   @include breakpoint($large) {
     display: block;
@@ -89,8 +89,8 @@
   }
 
   img {
-    width: 250px; /* Ensure the image is square by setting both width and height */
-    height: 200px;
+    width: 200px; /* Ensure the image is square by setting both width and height */
+    height: 100px;
     object-fit: cover; /* Ensure the image covers the entire square without distortion */
     border-radius: 0%; /* Keep the avatar square */
 
