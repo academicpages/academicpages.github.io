@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Homepage"
-title_separator          : "-"
+title_separator          : "Applied Data Analysis and Visualization"
 name                     : &name "Anastasia Giachanou"
 description              : &description "personal description"
 url                      : https://tshahedi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -22,7 +22,7 @@ repository               : "tshahedi.github.io"
 author:
   # Biographic information
   avatar           : "Avatar.png"
-  name             : "Applied Data Analysis and Visualization"
+  name             : #""
   pronouns         : # example: "she/her"
   bio              : #"Course coordinator"
   location         : #"Netherlands"
