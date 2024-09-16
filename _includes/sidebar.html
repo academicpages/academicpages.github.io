@@ -23,11 +23,11 @@
         <button class="btn btn--inverse">Follow</button>
         <ul class="author__urls social-icons">
           <!-- Font Awesome icons / Biographic information  -->
-          {% if author.location %}
-            <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
-          {% endif %}
           {% if author.employer %}
             <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+          {% endif %}
+          {% if author.location %}
+            <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
           {% endif %}
           {% if author.uri %}
             <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -46,9 +46,9 @@
           <!-- {% if author.semantic %}
             <li><a href="{{ author.semantic }}"><i class="ai ai-semantic-scholar ai-fw icon-pad-right"></i>Semantic Scholar</a></li>
           {% endif %} -->
-          {% if author.orcid %}
+          <!-- {% if author.orcid %}
             <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw icon-pad-right"></i>ORCID</a></li>
-          {% endif %}
+{% endif %} -->
           <!-- {% if author.pubmed %}
             <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed ai-fw icon-pad-right"></i>PubMed</a></li>
           {% endif %}                         -->

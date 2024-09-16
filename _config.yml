@@ -20,7 +20,7 @@ author:
   location         : "New York, New York, USA"
   employer         : "Flatiron Institute"
   uri              : # URL
-  email            : "samsl@mit.edu" 
+  email            : "ssledzieski@flatironinstitute.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -98,6 +98,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - scripts
   - tmp
   - vendor
 keep_files:

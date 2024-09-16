@@ -6,11 +6,12 @@ title: "Publications"
 # Publications
 \* Equal contribution
 
-{% for collection in site.data.publications %}
-<h3>{{ collection.type | capitalize }}</h3>
+{% assign types = site.data.publications | group_by: "type" %}
+{% for pub_group in types %}
+<h3>{{ pub_group.name | capitalize }}</h3>
 <ul>
-{% assign publications = collection.publications | sort: "date" | reverse %}
-{% for publication in publications %}
+{% assign publication_group = pub_group.items | sort: "date" | reverse %}
+{% for publication in publication_group %}
 <li>
 {% assign authors = publication.authors | split: ", " %}
 {% for member in authors %}
