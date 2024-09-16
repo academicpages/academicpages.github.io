@@ -3,5 +3,17 @@ title: "Computational Spacecraft Dynamics"
 excerpt: "An introduction to spacecraft dynamics modelling and simulation."
 url: "http://www.angadhn.com/SpacecraftDynamics/introduction.html"
 ---
+## [Weblink](https://www.angadhn.com/ComputationalDynamics/kinematics/introduction.html)
 
-This is the content of the Spacecraft Dynamics textbook, which will be rendered on its own page if needed.
+## Who might find the above link useful?
+The above online textbook is most useful for QMUL's second year Aerospace Engineering undergraduate students taking
+[EMS515U: Introduction to Spacecraft Dynamics](https://www.qmul.ac.uk/modules/items/ems515u-introduction-to-spacecraft-dynamics.html).
+It could also be a useful resource for other educators interested in teaching orbital mechanics, especially using computational
+tools like `numpy`.
+
+## Personal Recommendation of Pre-requisites
+This is my personal list of pre-requisites (not prescribed or stated as so by my employers):
+1. An interest in space engineering.
+2. Vector algebra and basic vector differentiation.
+3. Deep familiarity of classical mechanics, especially as taught by me using symbolic modelling tools over [here](https://www.angadhn.com/ComputationalDynamics).
+
