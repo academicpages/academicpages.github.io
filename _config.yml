@@ -26,17 +26,17 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Versatile Software Engineer | Specializing in Backend Development, Data Engineering, and Data Analysis with a focus on building scalable efficient systems."
   location         : "Arlington, TX"
-  employer         : "Red Brick University"
+  employer         : "University of Texas at Arlington"
   uri              : "https://usamahmoin.github.io/"
   email            : "uxm0937@mavs.uta.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
