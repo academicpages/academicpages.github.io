@@ -19,4 +19,6 @@ author_profile: true
 | 8    | 2024-10-29 | [Text Mining](https://tshahedi.github.io/adav-course/files/R_text_mining.html)                         | Questions 1 - 5 | [08.zip](https://tshahedi.github.io/adav-course/files/08_R_textmining_student.zip)  | [Practical-08](https://tshahedi.github.io/adav-course/files/R_text_mining_answers.html)     |
 | 9    | 2024-11-05 | [Network Analysis](https://tshahedi.github.io/adav-course/files/R_network_analysis_stu.html)           | The first part | [09.zip](https://tshahedi.github.io/adav-course/files/09_R_network_analysis_student.zip)  | [Practical-09](https://tshahedi.github.io/adav-course/files/)     |
 
+<div class="footnote">
 \* The deadline for all homework is at least **2 hours before the start of the lab**, except for the third practical, where the deadline is **one day before the start of the lecture for Week 4**.
+</div>
