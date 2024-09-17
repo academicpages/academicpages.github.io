@@ -118,11 +118,11 @@ body:hover .visually-hidden button {
 }
 
 /* Source: http://snipplr.com/view/10979/css-cross-browser-word-wrap */
-.wordwrap { 
-  white-space: pre-wrap;      /* CSS3 */   
-  white-space: -moz-pre-wrap; /* Firefox */    
-  white-space: -pre-wrap;     /* Opera <7 */   
-  white-space: -o-pre-wrap;   /* Opera 7 */    
+.wordwrap {
+  white-space: pre-wrap;      /* CSS3 */
+  white-space: -moz-pre-wrap; /* Firefox */
+  white-space: -pre-wrap;     /* Opera <7 */
+  white-space: -o-pre-wrap;   /* Opera 7 */
   word-wrap: break-word;      /* IE */
 }
 
@@ -469,10 +469,17 @@ body:hover .visually-hidden button {
    Footnotes
    ========================================================================== */
 
+//.footnote {
+//  color: mix(#fff, $gray, 25%);
+//  text-decoration: none;
+//}
 .footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
+  color: $gray-dark;  /* Make it a bit darker for readability */
+  font-size: 0.8em;   /* Make the footnote text smaller */
+  margin-top: 2em;    /* Add space above the footnote */
+  text-align: left;   /* Align the footnote to the left */
 }
+
 
 .footnotes {
   color: mix(#fff, $gray, 25%);
