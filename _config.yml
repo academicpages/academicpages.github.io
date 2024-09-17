@@ -12,7 +12,7 @@ title                    : "Usamah Moin Mohammed"
 title_separator          : "-"
 name                     : &name "Usamah Moin Mohammed"
 description              : &description "Software Developer | Backend Developer | Data Engineer | Data Analyst"
-url                      : https://usamahmoin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://usamahmoin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://usamahmoin.github.io"
 
