@@ -9,12 +9,26 @@ div.highlighter-rouge, figure.highlight {
   border-radius: $border-radius;
   background-color: $code-background-color;
   box-shadow: $box-shadow;
-  font-size: $type-size-3;
+  font-size: $type-size-4;
+
+  &:before {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0.5em;
+    background-color: $lighter-gray;
+    content: "\f121";
+    font-family: "Font Awesome 6 Free" !important;
+    font-size: $type-size-6;
+    line-height: 1;
+    text-transform: none;
+    speak: none;
+  }
 
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-7;
+    font-size: $type-size-6;
     line-height: 1.8;
   }
 }
