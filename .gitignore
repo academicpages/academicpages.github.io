@@ -1,5 +1,5 @@
 # Ignore the contents of the _site directory and other cache directories
-_site/
+_site*/
 .DS_Store
 .jekyll-metadata
 *Transcript*

@@ -2,6 +2,7 @@
 
 # The instructions from this blog post worked.
 # https://nathan.gs/2019/04/19/using-jekyll-and-nix-to-blog/
+# $ nix-shell -p bundler -p bundix --run 'bundler update; bundler lock; bundler package --no-install --path vendor; bundix; rm -rf vendor'
 
 with import <nixpkgs> { };
 
