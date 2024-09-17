@@ -20,9 +20,9 @@ author_profile: true
 | 9    | 2024-06-20 | [Network Analysis](https://tshahedi.github.io/adav-course/files/R_network_analysis_stu.html)           | The first part | [09.zip](https://tshahedi.github.io/adav-course/files/09_R_network_analysis_student.zip)  | [Practical-09](https://tshahedi.github.io/adav-course/files/)     |
 
 <div class="footnote">
-*The deadline for all homework is at least 2 hours before the start of the lab, except for the third practical, where the deadline is one day before the start of the lecture for Week 4.
+*The deadline for all homework is at least 2 hours before the start of the lab, except for the third practical, where the deadline is the end of the day on Monday, May 13th.
 </div>
 
 <div class="footnote">
-**No lab class (Ascension Day).
+**No lab class (Ascension Day); Note: the completed homework (the whole practical) has to be handed in on Black Board and will be graded.
 </div>
