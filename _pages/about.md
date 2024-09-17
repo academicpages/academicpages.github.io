@@ -12,7 +12,8 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
-* September 13th: Wallace and Sarin 2024 - _A detailed dive into fitting strategies for GRB afterglows with contamination: A case study with kilonovae_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2409.07539). This is Wendy's first paper, which she did as part of her masters's project with me.
+* September 16-20th: This week I am in Paris, attending the [Astrocolibri](https://indico.ijclab.in2p3.fr/event/10545/timetable/#20240920) workshop on multi-messenger astrophysics. I am giving an invited talk on Redback.
+* September 13th: Wallace and Sarin 2024 - _A detailed dive into fitting strategies for GRB afterglows with contamination: A case study with kilonovae_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2409.07539). This is Wendy's first paper, which she did as part of her masters's project with me. Congratulations Wendy!
 * September 3rd: Schulze et al. 2024 - _A cosmic formation site of silicon and sulphur revealed by a new type of supernova explosion_ submitted to Nature. Check it out on [arXiv](https://arxiv.org/abs/2409.02054).
 * August 28th: Srinivasaragavan et al. 2024 - _Optical and Radio Analysis of Systemically Classified Broad-lined Type Ic Supernovae from the Zwicky Transient Facility_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2408.14586).
 * August 28th: Sarin et al. 2024 - _The origin of the coherent radio flash potentially associated with GRB 201006A_ accepted in ApJL. Check it out on [arXiv](https://arxiv.org/abs/2404.08048).
