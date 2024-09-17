@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Usamah Moin Mohammed"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Usamah Moin Mohammed"
+description              : &description "Software Developer | Backend Developer | Data Engineer | Data Analyst"
+url                      : https://usamahmoin.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://usamahmoin.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Usamah Moin Mohammed"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Versatile Software Engineer | Specializing in Backend Development, Data Engineering, and Data Analysis with a focus on building scalable efficient systems."
+  location         : "Arlington, TX"
   employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  uri              : "https://usamahmoin.github.io/"
+  email            : "uxm0937@mavs.uta.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
