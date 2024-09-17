@@ -16,5 +16,13 @@ I made several important additions to the curriculum this semester, in addition 
   - Freedom of speech
   - Land acknolwedgements and their role in education
   - Exploring data on segregation in the US
+- Week 2
+  - Added identity wheel activity
+- Week 3
+  - Added content on non-binary gender and gender performativity/Judith Butler
+    - "How does schooling influence our gender performance? To what extent should teachers teach students differently based on their gender? Under what circumstances? Why?"
+  - Added mood meter based on [RULER approach](https://www.rulerapproach.org/)
+- Week 4
+  - Integrated [Harro's Cycle of Socialization](https://www.nea.org/sites/default/files/2021-02/Cycle%20of%20Socialization%20HARRO.pdf) into discussion of Bronfenbrenner's Ecological Systems Theory.
 
 ---
