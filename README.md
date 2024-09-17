@@ -13,7 +13,7 @@
 
 See more info at https://academicpages.github.io/
 
-## Running Locally
+## Running locally
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
@@ -35,16 +35,17 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-## Using docker
+## Using Docker
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided Dockerfile to build a container that will run the site for you.
+Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-Build the container:
+Start by build the container:
+
 ```bash
 docker build -t jekyll-site .
 ```
 
-Run the container:
+Next, run the container:
 ```bash
 docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 ```
