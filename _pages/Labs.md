@@ -28,10 +28,9 @@ author_profile: true
 </div>
 
 ### Lab Meeting Instructors
-<div class="footnote">
+
 - [Rianne Kraakman](https://www.uu.nl/staff/AMKraakman) - UU-Wide Group (Group 2)
 - [Mariska van den Hove](https://www.uu.nl/medewerkers/MvandenHove) - UU-Wide Group (Groups 1 and 4)
 - [Dr. Anastasia Giachanou](https://www.uu.nl/staff/AGiachanou) - Economics Group (Group 1)
 - [Dr. Peter Gerbrands](https://www.uu.nl/staff/PGerbrands) - Economics Group (Group 2)
 - [Dr. Sönke Matthewes](https://www.uu.nl/staff/SHMatthewes) - Economics Group (Group 3 and 4)
-</div>
