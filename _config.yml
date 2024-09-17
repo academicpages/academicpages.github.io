@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Avatar2.png"
   name             : #""
-  pronouns         : "Materials for Applied Data Analysis and Visualization course"
-  bio              : #"Course coordinator"
+  pronouns         : #""
+  bio              : "Materials for Applied Data Analysis and Visualization course"
   location         : #"Netherlands"
   employer         : #"Utrecht University"
   uri              : #"https://www.uu.nl/staff/AGiachanou/"
