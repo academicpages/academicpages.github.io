@@ -93,10 +93,11 @@
     height: 200px;
     object-fit: cover; /* Ensure the image covers the entire square without distortion */
     border-radius: 0%; /* Keep the avatar square */
+    padding: 0; /* Remove any padding */
 
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color; /* Optional border */
+      padding: 0; /* Ensure no padding on larger screens */
+      border: none; /* Remove any borders */
     }
   }
 }
