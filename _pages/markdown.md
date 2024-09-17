@@ -260,6 +260,14 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 This allows you to denote <var>variables</var>.
 
+## Magnific images
+
+<a class="popup-link" href="/images/stablediffusion-doing-all-the-work.png">
+    <img src="/images/stablediffusion-doing-all-the-work.png" alt="Thumbnail">
+</a>
+
+[https://dimsemenov.com/plugins/magnific-popup/](https://dimsemenov.com/plugins/magnific-popup/)
+
 ***
 **Footnotes**
 

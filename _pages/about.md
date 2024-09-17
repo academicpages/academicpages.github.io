@@ -20,6 +20,7 @@ I graduated with my bachelor's from UC San Diego, double majoring in Math and Co
 During my undergrad, I worked with Professor [Pat Pannuto](https://patpannuto.com/) on the Rust-based [Tock Operating System](https://tockos.org/). Tock takes advantage of Rust type-safety to offer fault isolation, dynamic memory management, and concurrency that are not typically available to power constrained microcontrollers. We revisited network interface design and abstractions. Our goal was to integrate fair sharing of limited radio on-time and network bandwidth. I am particularly interested in how interfaces can be used to make compile-time guarantees about network operation. Tock's secure [OpenThread port](https://book.tockos.org/course/thread-net/overview) came out of this project, and my colleages are continuing work to get compile-time guarantees about energy efficiency. Previously, I was a member of [The Computing for Social Good Lab at UCSD](https://melsherief.eng.ucsd.edu/research) where I researched mental burnout and problem gambling on social media using NLP.
 
 I am actively interested in new positions at this time. I am interested in work where I can work on formal verification and/or systems software (Operating Systems, Low-Level, or Performance) and prefer to be able to open source my work. Please check my [resume](https://godsped.com/cv) for links to my past experiences.
+<!-- update alongside hire.md -->
 
 ## Interests
 

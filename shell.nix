@@ -19,6 +19,7 @@ in
     buildInputs = [ jekyll_env bundler ruby zlib ];
 
     shellHook = ''
+      # alias make='${jekyll_env}/bin/jekyll serve -l -H localhost'
       exec ${jekyll_env}/bin/jekyll serve --watch --force_polling --future
     '';
   }
