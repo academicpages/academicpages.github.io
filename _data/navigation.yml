@@ -7,5 +7,8 @@ main:
   - title: "Labs"
     url: /Labs/
 
-  - title: "Labs answers"
-    url: /Labs-answers/
+  - title: "Assignments"
+    url: /Assignments/
+
+  - title: "Exam"
+    url: /Exam/
