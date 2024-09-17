@@ -20,5 +20,5 @@ author_profile: true
 | 9    | 2024-11-05 | [Network Analysis](https://tshahedi.github.io/adav-course/files/R_network_analysis_stu.html)           | The first part | [09.zip](https://tshahedi.github.io/adav-course/files/09_R_network_analysis_student.zip)  | [Practical-09](https://tshahedi.github.io/adav-course/files/)     |
 
 <div class="footnote">
-The deadline for all homework is at least **2 hours before the start of the lab**, except for the third practical, where the deadline is **one day before the start of the lecture for Week 4**.
+The deadline for all homework is at least 2 hours before the start of the lab, except for the third practical, where the deadline is one day before the start of the lecture for Week 4.
 </div>
