@@ -9,8 +9,8 @@ author_profile: true
 
 | Week | Date       | Topic                                                            |
 |------|------------|------------------------------------------------------------------|
-| 1    | 2024-09-10 | [Introduction](http://tshahedi.github.io/adav-course/files/Introduction.pdf)                 |
-| 2    | 2024-09-17 | [Data Visualisation](http://tshahedi.github.io/adav-course/files/Visualization.pdf)          |
+| 1    | 2024-09-10 | [Introduction to aDAV in R](http://tshahedi.github.io/adav-course/files/r_introduction_updated.html)                 |
+| 2    | 2024-09-17 | [Data Visualization using ggplot](http://tshahedi.github.io/adav-course/files/Visualization.pdf)          |
 | 3    | 2024-09-24 | [Model Fit and Cross Validation](http://tshahedi.github.io/adav-course/files/ModelFit.pdf)   |
 | 4    | 2024-10-01 | [Linear Regression for Data Science](http://tshahedi.github.io/adav-course/files/regression.pdf) |
 | 5    | 2024-10-08 | [Classification](http://tshahedi.github.io/adav-course/files/Classification.pdf)             |
