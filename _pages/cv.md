@@ -33,9 +33,14 @@ Work Experience
 
 Certifications
 ======
-* Oracle Cloud Infrastructure 2024 Generative AI Certified Professional&#8203;:contentReference[oaicite:0]{index=0}
-* Power BI Specialist&#8203;:contentReference[oaicite:1]{index=1}
+* Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
+* Power BI Specialist
+
+Awards
+======
 * Maverick Advantage Distinction, University of Texas at Arlington
+* Infosys Insta Award : August 2021
+* Infosys Insta Award : January 2022
 
 Skills
 ======
