@@ -139,8 +139,16 @@
 }
 
 .author__pronouns {
-  margin: 0;
   position: absolute;
+  bottom: 0; /* Position it at the bottom of the avatar */
+  left: 0;
+  width: 100%;
+  text-align: center; /* Center the text */
+  margin: 0;
+  padding: 5px 0; /* Add some padding for a cleaner look */
+  background-color: transparent; /* Keep it transparent or adjust if needed */
+  color: gray; /* Make the text gray */
+  font-size: 0.9rem; /* Adjust font size as needed */
 
   @include breakpoint($large) {
     margin-top: 10px;
