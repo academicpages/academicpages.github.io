@@ -220,6 +220,7 @@ The HTML `<details>` tag works well with Markdown and allows you to include coll
 </details>
 
 The source code:
+
 ```HTML
 <details>
   <summary>Collapsed by default</summary>
