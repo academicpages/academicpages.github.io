@@ -210,9 +210,30 @@ or R:
 print("Hello World!", quote = FALSE)
 ```
 
-### Strike Tag
+### Details Tag (collapsible sections)
 
-This tag will let you <strike>strikeout text</strike>.
+The HTML `<details>` tag works well with Markdown and allows you to include collapsible sections, see [W3Schools](https://www.w3schools.com/tags/tag_details.asp) for more information on how to use the tag.
+
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
+
+The source code:
+```HTML
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
+```
+
+Or, you can leave a section open by default by including the `open` attribute in the tag:
+
+<details open>
+  <summary>Open by default</summary>
+  This section is open by default thanks to open in the &lt;details open&gt; tag!
+</details>
+
 
 ### Emphasize Tag
 
@@ -243,6 +264,10 @@ This tag styles large blocks of code.
 ### Quote Tag
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
 
 ### Strong Tag
 
