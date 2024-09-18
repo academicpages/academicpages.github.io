@@ -9,30 +9,72 @@ table {
   font-size: $type-size-6;
   border-collapse: collapse;
   border: 1px solid $light-gray;
+  overflow-x: auto; /* Ensure table can scroll horizontally on small screens */
 
   & + table {
     margin-top: 1em;
+  }
+
+  @include breakpoint($small) {
+    display: block;
+    overflow-x: auto; /* Enable horizontal scroll on smaller screens */
+    white-space: nowrap; /* Prevent text wrapping inside table cells */
   }
 }
 
 thead {
   background-color: $lighter-gray;
   border-bottom: 1px solid $light-gray;
+
+  @include breakpoint($small) {
+    display: block;
+    float: left;
+  }
 }
 
-th {
+tbody {
+  @include breakpoint($small) {
+    display: block;
+    float: left;
+    width: 100%;
+    overflow-x: auto; /* Scroll the table on smaller screens */
+  }
+}
+
+th, td {
   padding: 0.5em;
-  font-weight: bold;
   text-align: left;
   border-right: 1px solid $light-gray;
-}
 
-td {
-  padding: 0.5em;
-  border-bottom: 1px solid $light-gray;
-  border-right: 1px solid $light-gray;
+  @include breakpoint($small) {
+    display: block;
+    white-space: nowrap;
+    text-align: left;
+  }
 }
 
 tr, td, th {
   vertical-align: middle;
+
+  @include breakpoint($small) {
+    display: block;
+  }
+}
+
+tr {
+  @include breakpoint($small) {
+    display: block;
+    margin-bottom: 0.5em;
+  }
+}
+
+th {
+  font-weight: bold;
+
+  @include breakpoint($small) {
+    text-align: right;
+    white-space: nowrap;
+    display: inline-block;
+    padding-right: 0.5em;
+  }
 }
