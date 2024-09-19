@@ -23,12 +23,11 @@ During this course, you will actively learn how to apply the main statistical me
 
 <div class="text-justify">
 
-Part of the course material is based on the course “Data Analysis and Visualization” (academic master level), developed by Daniel Oberski, Peter van der Heijden, Erik-Jan van Kesteren, Ayoub Bagheri and Maarten Cruyff.
+Before the first class, familiarize yourself with RStudio, the IDE we’ll use for data analysis and visualization. RStudio allows you to write, execute, and visualize R code efficiently. For more details, have a look at the <a href="https://tshahedi.github.io/adav-course/files/Preparation.html" target="_blank">Preparation Guide</a>.
 
 </div>
 
-<div class="text-justify">
 
-Before the first class, familiarize yourself with RStudio, the IDE we’ll use for data analysis and visualization. RStudio allows you to write, execute, and visualize R code efficiently. For more details, have a look at the <a href="https://tshahedi.github.io/adav-course/files/Preparation.html" target="_blank">Preparation Guide</a>.
-
+<div class="footnote">
+Note: Part of the course material is based on the course “Data Analysis and Visualization” (academic master level), developed by Daniel Oberski, Peter van der Heijden, Erik-Jan van Kesteren, Ayoub Bagheri and Maarten Cruyff.
 </div>
