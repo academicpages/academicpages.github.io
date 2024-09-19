@@ -27,7 +27,7 @@ The first book we are using in this course is [*Introduction to Statistical Lear
 - [Chapter 2.2: Assessing Model Accuracy](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf) 
 - Optional: [Chapter 3.1 through 3.4: Linear Regression](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf) 
 - [Chapter 5.1: Resampling Methods:Cross-Validation](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)  
-- [Chapter 6.1 & 6.2](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf) 
+- [Chapter 6.1 through 6.2](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf) 
 
 
 #### **Data Visualization**
