@@ -21,8 +21,8 @@ repository               : "misty576/misty576.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Jpnathan Kelly"
+  avatar           : "photo.png"
+  name             : "Jonathan Kelly"
   pronouns         : # example: "she/her"  
   bio              : "Mathematics student"
   location         : "Dublin, Ireland"
