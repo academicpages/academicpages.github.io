@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "zh-CN"
-title                    : "STXT:HELLO!"
+title                    : "STXT的个人网站"
 title_separator          : "-"
 name                     : &name "STXT"
 description              : &description "personal description"
