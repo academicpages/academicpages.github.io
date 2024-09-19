@@ -1,42 +1,103 @@
 <meta charset="utf-8">
-
 {% include seo.html %}
 {% include head/custom.html %}
-
 {% unless site.atom_feed.hide %}
   <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 {% endunless %}
-
 <!-- https://t.co/dKP3o1e -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
-
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}" id="theme_source">
 {% if site.minimal_mistakes_skin2 %}
   <link rel="stylesheet alternate" href="{{ '/assets/css/theme2.css' | relative_url }}" id="theme_source_2">
-  <script>
-    let theme = sessionStorage.getItem('theme');
-    if(theme === "dark")
-    {
-      sessionStorage.setItem('theme', 'dark');
-      node1 = document.getElementById('theme_source');
-      node2 = document.getElementById('theme_source_2');
+{% endif %}
+<script>
+  let theme = sessionStorage.getItem('theme');
+  if(theme === "dark")
+  {
+    sessionStorage.setItem('theme', 'dark');
+    node1 = document.getElementById('theme_source');
+    node2 = document.getElementById('theme_source_2');
+    if (node1 && node2) {
       node1.setAttribute('rel', 'stylesheet alternate'); 
       node2.setAttribute('rel', 'stylesheet');
     }
-    else
-    {
-      sessionStorage.setItem('theme', 'sunrise');
+  }
+  else
+  {
+    sessionStorage.setItem('theme', 'sunrise');
+  }
+  
+  // Add this function for image switching
+  function updateImages() {
+    console.log('updateImages function called');
+    const isDark = sessionStorage.getItem('theme') === 'dark';
+    const theme = isDark ? 'dark' : 'light';
+    console.log('Current theme:', theme);
+    
+    // Function to update the src of an image
+    function updateImageSrc(img) {
+      const src = img.getAttribute('src');
+      if (!src.includes('for_light_theme') && !src.includes('for_dark_theme')) return; // Skip images without theme suffixes
+	    
+      console.log('Processing image:', src);
+      const baseName = src.replace(/for_(light|dark)_theme\.(jpg|jpeg|png|gif|svg)$/, '');
+      const currentExt = src.split('.').pop().toLowerCase();
+      
+      // List of extensions to try, in order of preference
+      const extensions = ['jpg', 'jpeg', 'png', 'gif', 'svg'];
+      
+      // Move the current extension to the front of the list
+      extensions.unshift(extensions.splice(extensions.indexOf(currentExt), 1)[0]);
+      
+      // Function to try loading an image with a specific extension
+      function tryImage(ext) {
+        const themeImage = `${baseName}for_${theme}_theme.${ext}`;
+        console.log('Trying image:', themeImage);
+	return fetch(themeImage, { method: 'HEAD' }) // Add this line: Use HEAD request instead of GET
+          .then(response => {
+            if (response.ok) {
+              console.log('Image found:', themeImage);
+              img.src = themeImage;
+              return true; // Successfully found and set the image
+            }
+            console.log('Image not found:', themeImage);
+            return false; // Image not found with this extension
+          })
+          .catch(() => {
+            console.log('Error fetching:', themeImage);
+            return false; // Error occurred, try next extension
+          });
+      }
+      
+      // Try each extension in order
+      extensions.reduce((promise, ext) => {
+        return promise.then(result => {
+          if (result) return true; // If we've already found an image, stop
+          return tryImage(ext);
+        });
+      }, Promise.resolve(false));
     }
-  </script>
-{% endif %}
+    
+    // Update standard images
+    document.querySelectorAll('img').forEach(updateImageSrc);
+    // Update Tufte marginfigure and sidenote images
+    document.querySelectorAll('.marginnote img, .sidenote img').forEach(updateImageSrc);
+    // Update Tufte fullwidth images
+    document.querySelectorAll('.fullwidth img').forEach(updateImageSrc);
+  }
+  
+  // Call updateImages when DOM is loaded
+  document.addEventListener('DOMContentLoaded', function() {
+    console.log('DOM loaded, calling updateImages');
+    updateImages();
+  });
+</script>
 <link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
-
 {% if site.head_scripts %}
   {% for script in site.head_scripts %}
     <script src="{{ script | relative_url }}"></script>
