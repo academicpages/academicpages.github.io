@@ -5,9 +5,11 @@ mathjax: true
 url: "https://qmplus.qmul.ac.uk/course/view.php?id=22090"
 ---
 
-{% fullwidth 'assets/imgs/HQ_Final_Logo_for_light_theme.png' "Napoleon's March *(Edward Tufte’s English translation)*" %}
-
-{% marginfigure 'mf-id-1' 'assets/imgs/HQ_Final_Logo_for_light_theme.png' 'F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*.'  %}
+{% marginfigure 'mf-id-1' 'assets/imgs/HQ_Final_Logo_for_light_theme.png' 'Logo for SpaceHQ.
+We like to think of ourseleves as a ragtag group of outliers trying to figure out how we
+can build larger structures in space. An example challenge is how we can go from 
+modular stations such as ISS, as seen on the left of our logo, to rotating wheel
+space stations, on the right of our logo.' %}
 
 
 ## Who might find this page useful?
