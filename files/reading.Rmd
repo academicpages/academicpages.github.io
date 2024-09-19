@@ -45,7 +45,7 @@ The second book we are using in this course is [*Data Visualization - A Practica
 
 #### **Mastering Shiny**
 
-In week 6, we will explore making interactive visualizations using R Shiny apps. For this, we will use the book [*Mastering Shiny*](https://mastering-shiny.org/) by Hadley Wickham. The link provides free access to the book online. We will cover the following chapters:
+In week 6, we will explore making interactive visualizations using R Shiny apps. For this, we will use the book [*Mastering Shiny*](https://mastering-shiny.org/) by Hadley Wickham. The link provides free access to the book online. We will cover the following material:
 
 - [Chapters 1 - 3 :Introduction to Shiny Application](https://mastering-shiny.org/)
 - [Chapter 4 - Case Study: ER Injuries](https://mastering-shiny.org/basic-case-study.html)
@@ -55,13 +55,18 @@ In week 6, we will explore making interactive visualizations using R Shiny apps.
 
 In week 8, we will have a look at some basic text mining, for which we will use the book [*Text Mining with R- A Tidy Approach*](https://www.tidytextmining.com/) by Julia Silge and David Robinson. Nice to know: this entire book and its website were made using R Markdown! We will do text mining in week 8, and cover chapter 1 to 3.
 
+- [Chapter 1: The tidy text format](https://www.tidytextmining.com/tidytext)
+- [Chapter 2: Sentiment analysis with tidy data](https://www.tidytextmining.com/sentiment)
+- [Chapter 3: Analyzing word and document frequency: tf-idf](https://www.tidytextmining.com/tfidf)
+
 #### **Network Science**
 
 For the lecture on network science in week 9, we will use the following material:
 
-1. [*First Course in Network Science*](https://networksciencebook.com/) (chapter 0) by Filippo Menczer, Santo Fortunato, and Clayton A. Davis.
-2. [*Network Science*](http://networksciencebook.com/) by Albert-Laszlo Barabasi - Subchapters 2.2, 2.3, 2.4, 2.8, 9.1, and 9.2.
-3. [*Centrality*](https://garcia-centrality.netlify.app/) by David Garcia, 2021.
+- [First Course in Network Science. (chapter 0)](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience/blob/master/sample/chapters/chapter0.pdf) by Filippo Menczer, Santo Fortunato, and Clayton A. Davis.
+- [Network Science-Subchapters 2.2, 2.3, 2.4, 2.8, 9.1 and 9.2](https://networksciencebook.com/) by Albert-Laszlo Barabasi.
+- [Centrality](https://dgarcia-eu.github.io/SocialDataScience/Handouts/4_SNA/044_Centrality/Centrality.html) by David Garcia, 2021.  
+
 
 ### **Optional Literature**
 
