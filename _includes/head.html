@@ -41,6 +41,8 @@
     // Function to update the src of an image
     function updateImageSrc(img) {
       const src = img.getAttribute('src');
+      if (!src.includes('for_light_theme') && !src.includes('for_dark_theme')) return; // Skip images without theme suffixes
+	    
       console.log('Processing image:', src);
       const baseName = src.replace(/for_(light|dark)_theme\.(jpg|jpeg|png|gif|svg)$/, '');
       const currentExt = src.split('.').pop().toLowerCase();
@@ -55,7 +57,7 @@
       function tryImage(ext) {
         const themeImage = `${baseName}for_${theme}_theme.${ext}`;
         console.log('Trying image:', themeImage);
-        return fetch(themeImage)
+	return fetch(themeImage, { method: 'HEAD' }) // Add this line: Use HEAD request instead of GET
           .then(response => {
             if (response.ok) {
               console.log('Image found:', themeImage);
