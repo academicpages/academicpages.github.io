@@ -24,5 +24,6 @@ author_profile: true
 </div>
 
 <div class="footnote">
-  <span style="color: red;">**</span> For more information click [here](https://tshahedi.github.io/adav-course/files/reading.html).
+  <span style="color: red;">&#42;&#42;</span> For more information click
+  <a href="https://tshahedi.github.io/adav-course/files/reading.html" target="_blank">here</a>.
 </div>
