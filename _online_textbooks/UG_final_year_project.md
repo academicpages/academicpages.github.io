@@ -4,6 +4,12 @@ excerpt: "An introduction to multibody dynamics and the use of symbolic computat
 mathjax: true
 url: "https://qmplus.qmul.ac.uk/course/view.php?id=22090"
 ---
+
+{% fullwidth 'assets/imgs/HQ_Final_Logo_for_light_theme.png' "Napoleon's March *(Edward Tufte’s English translation)*" %}
+
+{% marginfigure 'mf-id-1' 'assets/imgs/HQ_Final_Logo_for_light_theme.png' 'F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” *Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice* (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s *Visual Explanations*.'  %}
+
+
 ## Who might find this page useful?
 This is likely only useful for QMUL's final year undergraduate students in who are taking
 [EMS690U final year project](https://www.qmul.ac.uk/modules/items/ems690u-integrated-design-project.html)
