@@ -20,3 +20,9 @@ This is the course website for the courses ADS: Applied Data Analysis and Visual
 During this course, you will actively learn how to apply the main statistical methods in data analysis and how to use machine learning algorithms and visualizing techniques. The course has a strongly practical, hands-on focus: rather than focusing on the mathematics and background of the discussed techniques, you will gain hands-on experience in using them on real data during the course and interpreting the results. This course covers both classical and modern topics in data analysis and visualization.
 
 </div>
+
+<div class="text-justify">
+
+Part of the course material is based on the course “Data Analysis and Visualization” (academic master level), developed by Daniel Oberski, Peter van der Heijden, Erik-Jan van Kesteren, Ayoub Bagheri and Maarten Cruyff.
+
+</div>
