@@ -22,9 +22,18 @@ The following books will be used during the course. For all books, a free (open 
 
 The first book we are using in this course is [*Introduction to Statistical Learning (ISLR)*](https://www.statlearning.com/), abbreviated as ISLR. The [link](https://www.statlearning.com/) will direct you to the website of the book, where a pdf of the (first edition of the) book is available online for free and can be downloaded. Under ‘resources’, you can also find a link to a free online course on the book which includes a very nice series of (short) lectures!
 
+- [Chapter 1: Introduction](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)
+- [Chapter 2.1: What is Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)  
+
 #### **Data Visualization**
 
 The second book we are using in this course is [*Data Visualization - A Practical Introduction (DatVis)*](https://socviz.co/) by Kieran Healy, which we will abbreviate as DatVis. The link will direct you to a preprint version of the book, which is available online for free. We will start with chapter 1, learning all about the basic principles of data visualization and perception.
+
+- [Chapter 1: Look at Data](https://socviz.co/lookatdata.html#lookatdata)
+- [Chapter 4: Show the Right Numbers](https://socviz.co/groupfacettx.html#groupfacettx)
+- [Chapter 5.3: Plot Text Directly](https://socviz.co/workgeoms.html#plot-text-directly)
+- [Chapter 5.4: Label Outliers](https://socviz.co/workgeoms.html#label-outliers)
+- Optional: [Chapter 3: Make a Plot](https://socviz.co/makeplot.html#makeplot) 
 
 #### **Mastering Shiny**
 
