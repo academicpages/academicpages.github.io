@@ -20,6 +20,7 @@ During my Ph.D., my research interests were in **Natural Language Processing** a
 
 News
 =====
+* Jul. 2024: [Creative] Our *GenAI-powered Ad Creative* team was named a Top-8 candidate for the 2024 Baidu Highest Award ("百度最高奖"候选Top8). 
 * Aug. 2023: [Ranking] Our paper about *multi-scenario pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
 * May. 2023: [Strategy] A first-authored paper about *impression pacing* strategy with reinforcement learning for brand advertising was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
 * Apr. 2023: [Ranking] A first-authored paper about *vertical federated learning* benchmark and diffusion-based feature synthesis for CVR estimation was accepted at SIGIR 2023. <a href="https://arxiv.org/pdf/2305.08328.pdf" target="_blank">[Paper]</a>   
@@ -77,4 +78,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Dec. 2023_
+_Last Updated: Sep. 2024_
