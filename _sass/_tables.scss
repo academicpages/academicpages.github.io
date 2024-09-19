@@ -4,7 +4,7 @@
    ========================================================================== */
 
 table {
-  width: 50%;
+  width: auto;
   border-collapse: collapse;
   margin-bottom: 0px;
 }
@@ -31,7 +31,7 @@ th {
 
 @media screen and (max-width: 180px) {
   table {
-    width: 50%;
+    width: auto;
     display: block;
     overflow-x: auto;
   }
