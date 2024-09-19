@@ -7,7 +7,7 @@ author_profile: true
 
 ### Lectures
 
-| Week | Date       | Topic                                                            | Lecturer                                       | Reading     |
+| Week | Date       | Topic                                                            | Lecturer                                       | Reading <span style="color: red;">**</span>     |
 |----|-----------------|--------------------------------------------------------------------------|------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | 1    | 2024-04-23 | [Introduction](https://tshahedi.github.io/adav-course/files/Introduction.pdf) <span style="color:red;">*</span>                 | [Dr. Anastasia Giachanou](https://www.uu.nl/staff/AGiachanou)                        | [Chapter 1: Introduction <br> Chapter 2.1: What is Statistical Learning](https://static1.squarespace.com/static/5ff2adbe3fe4fe33db902812/t/6062a083acbfe82c7195b27d/1617076404560/ISLR%2BSeventh%2BPrinting.pdf)                                |
 | 2    | 2024-04-30 | [Data Visualisation](https://tshahedi.github.io/adav-course/files/Visualization.pdf)                                                       | [Dr. Javier Garcia-Bernardo](https://www.uu.nl/staff/JGarciaBernardo)                     | [Chapter 1: Look at Data <br> Chapter 4: Show the Right Numbers <br> Chapter 5.3 & 5.4: Plot Text Directly and Label Outliers](https://socviz.co/) <br> Optional: [Chapter 3: Make a Plot](https://socviz.co/) |
@@ -21,4 +21,8 @@ author_profile: true
 
 <div class="footnote">
   <span style="color: red;">*</span> NOTE that lectures 1, 8, 9 are scheduled from 11:00 - 12:45, and the rest of the lectures are from 09:00 - 10:45.
+</div>
+
+<div class="footnote">
+  <span style="color: red;">**</span> For more information click [here](https://tshahedi.github.io/adav-course/files/reading.html).
 </div>
