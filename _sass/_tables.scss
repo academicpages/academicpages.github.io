@@ -20,7 +20,7 @@ th {
 }
 
 /* Mobile view adjustments for tables */
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 660px) {
   table {
     border-collapse: separate;
     overflow-x: auto;
@@ -29,9 +29,9 @@ th {
   }
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 180px) {
   table {
-    width: 100%;
+    width: 50%;
     display: block;
     overflow-x: auto;
   }
