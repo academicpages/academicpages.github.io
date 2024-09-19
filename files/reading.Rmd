@@ -3,7 +3,10 @@ title: "Readings"
 output: 
   html_document:
     toc: true
-    toc_depth: 3
+    toc_float: true
+    toc_depth: 4
+    number_sections: false
+    theme: flatly
 ---
 
 ```{r setup, include=FALSE}
@@ -15,21 +18,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The following books will be used during the course. For all books, a free (open source) online version is available.
 
-#### **Introduction to Statistical Learning (ISLR)**
+#### **Introduction to Statistical Learning**
 
-The first book we are using in this course is [*Introduction to Statistical Learning*](https://www.statlearning.com/), abbreviated as ISLR. The [link](https://www.statlearning.com/) will direct you to the website of the book, where a pdf of the (first edition of the) book is available online for free and can be downloaded. Under ‘resources’, you can also find a link to a free online course on the book which includes a very nice series of (short) lectures!
+The first book we are using in this course is [*Introduction to Statistical Learning (ISLR)*](https://www.statlearning.com/), abbreviated as ISLR. The [link](https://www.statlearning.com/) will direct you to the website of the book, where a pdf of the (first edition of the) book is available online for free and can be downloaded. Under ‘resources’, you can also find a link to a free online course on the book which includes a very nice series of (short) lectures!
 
-#### **Data Visualization - A Practical Introduction (DatVis)**
+#### **Data Visualization**
 
-The second book we are using in this course is [*Data Visualization - A Practical Introduction*](https://socviz.co/) by Kieran Healy, which we will abbreviate as DatVis. The link will direct you to a preprint version of the book, which is available online for free. We will start with chapter 1, learning all about the basic principles of data visualization and perception.
+The second book we are using in this course is [*Data Visualization - A Practical Introduction (DatVis)*](https://socviz.co/) by Kieran Healy, which we will abbreviate as DatVis. The link will direct you to a preprint version of the book, which is available online for free. We will start with chapter 1, learning all about the basic principles of data visualization and perception.
 
 #### **Mastering Shiny**
 
 In week 6, we will explore making interactive visualizations using R Shiny apps. For this, we will use the book [*Mastering Shiny*](https://mastering-shiny.org/) by Hadley Wickham. The link provides free access to the book online.
 
-#### **Text Mining with R - A Tidy Approach**
+#### **Text Mining with R**
 
-In week 8, we will have a look at some basic text mining, for which we will use the book [*Text Mining with R*](https://www.tidytextmining.com/) by Julia Silge and David Robinson. Nice to know: this entire book and its website were made using R Markdown! We will do text mining in week 8, and cover chapter 1 to 3.
+In week 8, we will have a look at some basic text mining, for which we will use the book [*Text Mining with R- A Tidy Approach*](https://www.tidytextmining.com/) by Julia Silge and David Robinson. Nice to know: this entire book and its website were made using R Markdown! We will do text mining in week 8, and cover chapter 1 to 3.
 
 #### **Network Science**
 
@@ -41,9 +44,9 @@ For the lecture on network science in week 9, we will use the following material
 
 ### **Optional Literature**
 
-#### **R for Data Science: Import, Tidy, Transform, Visualize, and Model Data**
+#### **R for Data Science**
 
-Another useful resource for this course is the book [*R for Data Science*](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund, also abbreviated as R4DS. This entire book and its website were made using R Markdown! Hadley Wickham and R4DS use a specific dialect of R, a set of packages called the tidyverse. Because these packages are very useful and great for data science, we will be using the tidyverse throughout this course.
+Another useful resource for this course is the book [*R for Data Science: Import, Tidy, Transform, Visualize, and Model Data*](https://r4ds.had.co.nz/) by Hadley Wickham and Garrett Grolemund, also abbreviated as R4DS. This entire book and its website were made using R Markdown! Hadley Wickham and R4DS use a specific dialect of R, a set of packages called the tidyverse. Because these packages are very useful and great for data science, we will be using the tidyverse throughout this course.
 
 #### **Practical Data Science with R**
 
