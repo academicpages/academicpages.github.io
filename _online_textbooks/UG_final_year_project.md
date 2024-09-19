@@ -12,7 +12,7 @@ modular stations such as ISS, as seen on the left of our logo, to rotating wheel
 space stations, on the right of our logo.' %}
 
 
-## Who might find this page useful?
+## Who this page serves?
 This is likely only useful for QMUL's final year undergraduate students in who are taking
 [EMS690U final year project](https://www.qmul.ac.uk/modules/items/ems690u-integrated-design-project.html)
 under my supervision. It will make little to no sense for anyone else (inlcuding those from QMUL) as
@@ -45,8 +45,8 @@ for the assembly. The latter will involve developing a high-level concept of ope
 needed to assemble the desired space station using either robots or astronauts. Again,
 a trade-off analysis is necessary as a precursor that estimates cost, speed, time, risks, etc.
 for each assembly style. By the end of the project, students will be expected to conclude with
-a recommendation on the station design, the chosen assembly architecture in the conops for their
-given occupancy limit, and orbit/attitude control system simulations.
+a recommendation on the station design, the chosen assembly architecture in the ConOps (aka
+Concept of Operations) for their given occupancy limit, and orbit/attitude control system simulations.
 
 ## Weekly Workshop Philosophy
 In line with the [formal assessments (listed below)](http://angadhn.com/online_textbooks/UG_final_year_project/#formal-assessments) but also to prepare you as future leaders in engineering,
@@ -62,7 +62,7 @@ philosophy for their development.
 
 ## Informal Assessments
 Thus, we have the following two informal assessments:
-1. Weekly in-class presentaitons by each member of every group the entire academic year.
+1. Weekly in-class presentations by each member of every group the entire academic year.
 2. 6-page technical report to be submitted in Week 6 of Semester B.
 
 ## Formal Assessments
@@ -77,7 +77,28 @@ Thus, we have the following two informal assessments:
 | **Assessment 6**: Final Group Presentation and Individual Back-up Evidence (15% Group, 10% Individual) | [Due Date]   |
 
 ## Useful Resources:
-This list will grow but useful resources at the time of writing are:
-### Writing:
+This list will grow but useful resources at the time of writing are listed below.
+### Tools for Writing and Research Managemenent:
 1. [$$\LaTeX$$ template on Overleaf](https://www.overleaf.com/latex/templates/qmul-sems-undergraduate-report-template/qdypzhkttgyt)
 that I have posted.
+2. [Zotero](https://www.zotero.org) is an excellent and free tool for collecting all the papers you use for
+your research. These will be used as citations in the Reference section of your report(s). For these
+reasons, tools like Zotero are also called reference management tools. Worth downloading and reading/wathcing some
+tutorials online.
+3. [Google Scholar](https://scholar.google.com) is superb for finding scholarly papers in addition to 
+the resources provided on QM+. A browser plugin can also be installed via Zotero that connects to Google
+Scholar to quickly import papers that you find interesting; link here for
+[Zotero Connector](https://www.zotero.org/download/connectors).
+4. [Inkscape](https://inkscape.org) is one example of a useful tool for making high quality images.
+[Keynote ](https://www.apple.com/uk/keynote/)and PowerPoint are
+also useful tools not only for making presentations but also for quickly making schematics or editing images.
+
+### Some Technical References:
+1. Space Systems Engineering Textbooks. The bible for this is typically [SMAD by James Wertz
+Some goods one are by Stark and Fortescue](https://www.amazon.com/Space-Mission-Engineering-Technology-Library/dp/1881883159) which is also made available via the
+[Internet Archive](https://archive.org/details/spacemissionanal0003edunse). Another is by
+[Fortescue et al.](https://www.amazon.com/Spacecraft-Systems-Engineering-Peter-Fortescue/dp/047075012X/ref=sr_1_1?crid=1Q26KNFTZBRSQ&dib=eyJ2IjoiMSJ9.e0d04EB9lgaq4_O9stPoRdmatNHD5PIdX9hZzjEJaZjVglvWUD5JhGJ3eK5mZ7nJqUYuSfL7tKb1kte3X2Ebqmz_mbqegw7XFk98ScwyQvRcQvGKdmAHEonLpOQKcJ6Q.6z31353CMhm9mEjpNLrAcUx1-TDFRUHJSIUju5o05Iw&dib_tag=se&keywords=stark+fortescue&qid=1726750506&s=books&sprefix=stark+foretescu%2Cstripbooks-intl-ship%2C145&sr=1-1)
+which QMUL students can access on QM+.
+2. If you want to look into how books such as above can inform the development of large space structures, you can
+read my paper on how to [robotically assemble 25 metre space telescopes](https://www.angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly)
+and another [CalTech/NASA-JPL paper on 80 metre telescopes](https://kiss.caltech.edu/papers/largestructure/papers/architecture.pdf).
