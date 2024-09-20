@@ -56,15 +56,15 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Start simulating
 
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
-2. Run the code by typing <span style="font-size:18px; color:green"> ```python run.py``` </span> and then click ```enter```
+2. Run the code by typing ```python run.py``` and then click ```enter```
   
 
 # Output files
  
- 1. Done, model out contains
+ 1. Done, model output contain
     1. Simulated age-elevation plot, a .png file (summary.png)
     2. Goodness of fit test plot, a .png file (KS_test.png)
-    3. ```.csv``` file conating (statistics.csv)
+    3. ```.csv``` file contaning (statistics.csv)
        1. Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
        2. Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
  
