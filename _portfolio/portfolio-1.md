@@ -6,8 +6,12 @@ collection:
 
 
 
-Simulation presented in Borgohain et al., (2024) uses Bayesian erosion model of Avdeev et al., (2011) (EPSL) has been. 
-Following documentation describes: (1) over view of running Bayesian erosion model and (2) configuring a model modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
+Simulation presented in Borgohain et al., (2024, under review, Tectonics) uses Bayesian erosion model of Avdeev et al., (2011, EPSL). Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
+
+Following documentation describes: 
+1. Cver view of running Bayesian erosion model
+2. Configuring a model
+3. Details about code options. 
 
 It contains two main folders: 
 1. ```data```,
