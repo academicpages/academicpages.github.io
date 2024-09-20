@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
 
 I'm a graduate in **Mathematics** from Trinity College Dublin, currently working as a **Risk Consultant** at Murex. I have a strong interest in **Finance**, **Statistics**, **Music**, and **Sports**, and am actively engaged in projects that focus on **Computational Mathematics** and **Probability**.
 
