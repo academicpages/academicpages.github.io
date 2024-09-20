@@ -7,15 +7,15 @@ collection:
 
 
 Simulation presented in Borgohain et al., (2024) uses Bayesian erosion model of Avdeev et al., (2011) (EPSL) has been. 
-Folllowing documentation describes: (1) Procedure to run the model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). It contains two main folders: 1. ```data```, 2. ```detrital_ui```.
+Following documentation describes: (1) over view of running Bayesian erosion model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). It contains two main folders: 1. ```data```, 2. ```detrital_ui```.
 
 # Over view of Bayesian erosion model
-# Input files
+## Input files
 
 1. Code files (Included in ```detrital_ui``` folder)
      1.  <span style="font-size:18px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
-2. Input data dile (Included in ```data``` folder)
+2. Input data file (Included in ```data``` folder)
    1. Age file ```.csv``` in the following formate (only age)
       ```python
            27
@@ -37,7 +37,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
            . . .
       ```
 
-# Set up used
+## Set up used
 
 1. Ubuntu 20.04.6 LTS, 64 bits
 2. Conda environment was created (for example # ```py2```) and activated 
@@ -53,13 +53,13 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
          ```
 
 
-# Start simulating
+## Start simulating
 
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
 2. Run the code by typing ```python run.py``` and then click ```enter```
   
 
-# Output files
+## Output files
  
  1. Done, model output contain
     1. Simulated age-elevation plot, a .png file (summary.png)
