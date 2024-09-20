@@ -7,15 +7,15 @@ collection:
 
 
 Simulation presented in Borgohain et al., (2024) uses Bayesian erosion model of Avdeev et al., (2011) (EPSL) has been. 
-Folllowing documentation describes: (1) Procedure to run the model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
+Folllowing documentation describes: (1) Procedure to run the model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). It contains two main folders: 1. ```data```, 2. ```detrital_ui```.
 
 # Over view of Bayesian erosion model
 # Input files
 
-1. Code file
+1. Code files (Included in ```detrital_ui``` folder)
      1.  <span style="font-size:18px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
-2. Input data dile
+2. Input data dile (Included in ```data``` folder)
    1. Age file ```.csv``` in the following formate (only age)
       ```python
            27
@@ -63,9 +63,9 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
  # Output files
  
  1. Done, model out contains
-    1. Simulated age-elevation plot
-    2. Goodness of fit test plot
-    3. ```.csv``` file conating
+    1. Simulated age-elevation plot, a .png file (summary.png)
+    2. Goodness of fit test plot, a .png file (KS_test.png)
+    3. ```.csv``` file conating (statistics.csv)
        1. Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
        2. Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
  
