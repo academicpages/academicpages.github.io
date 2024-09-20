@@ -9,18 +9,25 @@ redirect_from:
 
 - Graduate in Mathematics at Trinity College Dublin
 
-- Currently working in Credit Risk as a consultant with an active interest in Finance, Statistics, Music and Sports
+- Currently working as a Risk Consultant in Murex with an active interest in Finance, Statistics, Music and Sports
 
-- Currently working on projects in the Computational Mathematics area
+- Currently working on projects in the Computational Mathematics and Probability area
 
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 Selected Projects
 ======
 
 - Credit Risk Project for authorisation strategies
+While working at Murex I have been investigating different authorisation strategies for calculating counterparty credit risk (Pre-Settlement Risk, Settlement Risk) from an analytical point of view. the project involved implementing algorithms that can handle large volumes of trades. Important results range from determining the scenarios where the alternative strategies for calculating risk perform badly (underestimate the exposure) to analysing Monte Carlo simulations and percentage growth of the strategies.
+
+![Credit Risk Photo](/images/cr.png)
 
 - Final Year Thesis
+My Undergraduate thesis investigated the Finite Element Method for 1D and 2D differential equations (Laplace Equation, Heat Equation) and Elliptic PDE's. I created MATLAB programs that solve these differential equations using numerical quadrature and applied the method to the Black-Scholes equation for Euorpean Call/Put Options.  
+
+![FEM Photo](/images/fem.png)
 
 - Miscellaneous projects in Probability + Python
+Here I have gathered some short projects that have been interesting to read about/research. Included will be a short paper with some code that you can run yourself!
+
+![Other Photo](/images/otherimage.png)
