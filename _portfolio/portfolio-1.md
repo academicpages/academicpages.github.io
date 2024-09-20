@@ -14,6 +14,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 
 1. Code file
      1. ``` <span style="font-size:38px; color:green"> This is some text </span> ```
+     2. $ \begin{pmatrix} a & b \\ c & d \end{pmatrix} $
 2. Input data dile
    1. Age file ```.csv```
       ```python
