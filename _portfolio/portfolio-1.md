@@ -71,10 +71,10 @@ It contains two main folders:
 
 ## Output files
  
- 1. Done, model output contain
-    1. Simulated age-elevation plot, a .png file (summary.png)
-    2. Goodness of fit test plot, a .png file (KS_test.png)
-    3. ```.csv``` file contaning (statistics.csv)
+ 1. Done, model output contain:
+    1. Simulated age-elevation plot, a ```.png ```file (summary.png)
+    2. Goodness of fit test plot, a ```.png``` file (KS_test.png)
+    3. A ```.csv``` file (statistics.csv) contaning: 
        1. Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
        2. Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
  
