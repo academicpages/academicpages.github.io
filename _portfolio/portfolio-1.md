@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Erosion Model with Low-Temperature Thermochronology"
-excerpt: "User Guide to Run the Code []: # '<br/><img src='/images/500x300.png'>' "
+excerpt: "User Guide to Run the Code "
 collection: 
 ---
 
