@@ -16,7 +16,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
      1.  <span style="font-size:28px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
 2. Input data dile
-   1. Age file ```.csv```
+   1. Age file ```.csv``` in athe following formate (only age)
       ```python
            27
           13.7
@@ -29,6 +29,12 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
            .     
       ```
    3. DEM file ```.xyz```
+      ```python
+      x y z 
+          217623.033 3251932.988 5165
+          217653.033 3251932.988 5167
+          217683.033 3251932.988 5168
+      
 
 # Set up used
 
