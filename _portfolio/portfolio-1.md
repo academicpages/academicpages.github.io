@@ -9,9 +9,9 @@ collection:
 Simulation presented in Borgohain et al., (2024, under review, Tectonics) uses Bayesian erosion model of Avdeev et al., (2011, EPSL). 
 
 Following documentation describes: 
-1. Cver view of running Bayesian erosion model
-2. Configuring a model
-3. Details about code options. 
+1. Over view of running Bayesian erosion model
+2. Configuring a model (Will be uploaded soon)
+3. Details about code options ((Will be uploaded soon). 
 
 Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
