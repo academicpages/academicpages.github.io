@@ -45,7 +45,8 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
     ```
 
  
- Output files
+ #Output files
+ 
  1. Done, model out contains
     1. Simulated age-elevation plot
     2. Goodness of fit test plot
