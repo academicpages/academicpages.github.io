@@ -63,6 +63,10 @@ Xuanhua Yang, Xiaoyu Peng, **Penghui Wei**†, Shaoguo Liu, Liang Wang, Bo Zheng
 
 **Opinion Mining and Social Science Applications**
 
+* **An LLM-Enabled Knowledge Elicitation and Retrieval Framework for Zero-Shot Cross-Lingual Stance Identification**  
+Ruike Zhang, Yuan Tian, **Penghui Wei**†, Daniel Zeng, Wenji Mao  
+**EMNLP ’24**, Findings: Findings of the Association for Computational Linguistics: EMNLP 2024, to appear. Miami, Florida, USA, November 12–16, 2024.  
+
 * **Effective Inter-Clause Modeling for End-to-End Emotion-Cause Pair Extraction**  
 **Penghui Wei**, Jiahao Zhao, Wenji Mao  
 **ACL ’20**: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3171–3181. Online, July 5–10, 2020.  
