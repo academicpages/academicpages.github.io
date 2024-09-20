@@ -3,7 +3,6 @@ title: "On Carsharing Platforms with Electric Vehicles as Energy Service Provide
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-23-paper-title-number-4.md
-Date: 2024
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10507741/'
 citation: 'Cheng, X., Mamalis, T., Bose, S., & Varshney, L. R. (2024). On Carsharing Platforms With Electric Vehicles as Energy Service Providers. IEEE Transactions on Intelligent Transportation Systems.'
