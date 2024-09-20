@@ -3,7 +3,6 @@ title: "Using Mobile Charging Drones to Mitigate Battery Disruptions of Electric
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-date: 2024-02-17
 venue: '2024 Forum for Innovative Sustainable Transportation Systems (FISTS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10485588'
 citation: 'Cheng, X., Shen, H., Huang, Y., Cheng, Y. L., & Lin, J. (2024, February). Using Mobile Charging Drones to Mitigate Battery Disruptions of Electric Vehicles on Highways. In 2024 Forum for Innovative Sustainable Transportation Systems (FISTS) (pp. 1-6). IEEE.'
