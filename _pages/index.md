@@ -6,17 +6,27 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student in <a target="_blank" href="https://www.eecs.mit.edu/">Electrical Engineering and Computer Science</a> at the
-<a target="_blank" href="http://web.mit.edu/">Massachusetts Institute of Technology</a>. I currently work in the 
-<a target="_blank" href="http://people.csail.mit.edu/bab/">Computation and Biology</a> group at the
-<a target="_blank" href="https://www.csail.mit.edu/">Computer Science and Artificial Intelligence Lab</a>.
-My current research uses large protein language models (PLMs) for various protein structure related tasks, including
-<a target="_blank" href="https://github.com/samsledje/D-SCRIPT">predicting protein interactions from amino acid sequence</a> and
-<a target="_blank" href="https://github.com/samsledje/ConPLex">drug-target interaction prediction</a>.
+I'm currently a Flatiron Research Fellow at the [Flatiron Institute][11] [Center for Computational Biology][12], where I'm a bridge fellow between the [Structural and Molecular Biophysics][13] and [Genomics][14] groups. I'm currently interested in integrating protein structures and dynamics with context-specific biological networks to understand the molecular basis of cellular processes.
 
-Previously, I was a member of the <a target="_blank" href="https://compbio.engr.uconn.edu/">Computational Biology Research Lab</a> at the
-<a target="_blank" href="https://uconn.edu/">University of Connecticut</a>, 
-where my research focused on <a target="_blank" href="https://compbio.engr.uconn.edu/software/treefix-tp/">phylogenetic methods for understanding infectious disease.</a>
-I also worked on <a target="_blank" href="https://github.com/suz11001/virDTL">mapping horizontal gene transfer in SARS-CoV-2.</a>
+I completed my PhD in the [Computation and Biology][8] group at [MIT][5] [CSAIL][7], focusing on protein language models for [protein interaction networks][9] and [drug discovery][10].
+
+I did my undergraduate degree in the [Computational Biology Research Lab][2] at the [University of Connecticut][1], where I worked on [phylogenetics][3] and [viral transmission][4].
 
 ![Textbooks](/assets/images/textbooks.jpg)
+
+[1]: https://uconn.edu/ "University of Connecticut"
+[2]: https://compbio.engr.uconn.edu/ "Computational Biology Research Lab"
+[3]: https://compbio.engr.uconn.edu/software/treefix-tp/ "TreeFix-TP"
+[4]: https://github.com/suz1101/virDTL "virDTL"
+
+[5]: http://web.mit.edu/ "MIT"
+[6]: https://www.eecs.mit.edu/ "Electrical Engineering and Computer Science"
+[7]: https://www.csail.mit.edu/ "Computer Science and Artificial Intelligence Lab"
+[8]: https://people.csail.mit.edu/bab/ "Computation and Biology Group"
+[9]: https://github.com/samsledje/D-SCRIPT "D-SCRIPT"
+[10]: https://github.com/samsledje/ConPLex "ConPLex"
+
+[11]: https://www.simonsfoundation.org/flatiron/ "Flatiron Institute"
+[12]: https://www.simonsfoundation.org/flatiron/center-for-computational-biology/ "Center for Computational Biology"
+[13]: https://www.simonsfoundation.org/flatiron/center-for-computational-biology/structural-and-molecular-biophysics-collaboration/ "Structural and Molecular Biophysics Group"
+[14]: https://www.simonsfoundation.org/flatiron/center-for-computational-biology/genomics/ "Genomics Group"
