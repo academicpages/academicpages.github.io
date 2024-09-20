@@ -24,7 +24,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Set up used
 
 1. Ubuntu 20.04.6 LTS, 64 bits
-2. Conda environment was created (for example ```py2```) and activated 
+2. Conda environment was created (for example # ```py2```) and activated 
 3. Python 2.7 (specifically version python=2.7.18) installed
 4. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
 5. Pymc (version - 2.3.8) installed, link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
