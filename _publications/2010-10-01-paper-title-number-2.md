@@ -9,8 +9,7 @@ paperurl: 'https://www.sciencedirect.com/science/article/pii/S0968090X24002675'
 citation: 'Cheng, X., Nie, Y. M., & Lin, J. (2024). An autonomous modular public transit service. Transportation Research Part C: Emerging Technologies, 104746.'
 ---
 
-**Highlights**
-
+Highlights
 •A proof-of-concept investigation of Autonomous Modular Public Transit (AMPT) service.
 
 •Stylized design models for AMPT on a grid network with demand density scenarios.
