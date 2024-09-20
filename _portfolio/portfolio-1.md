@@ -23,7 +23,7 @@ It contains two main folders:
 ## Input files
 
 1. Code files (Included in ```detrital_ui``` folder)
-     1.  <span style="font-size:18px; color:green"> Four python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
+     1.  <span style="font-size:18px; color:green"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
 2. Input data file (Included in ```data``` folder)
    1. Age file ```.csv``` in the following formate (only age)
