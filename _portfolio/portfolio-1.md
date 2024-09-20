@@ -9,8 +9,9 @@ collection:
 Simulation presented in Borgohain et al., (2024) uses Bayesian erosion model of Avdeev et al., (2011) (EPSL) has been. 
 Folllowing documentation describes: (1) Procedure to run the model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
-### Over view of Bayesian erosion model
+# Over view of Bayesian erosion model
 # Input files
+
 1. Code file
      1. 
 2. Input data dile
@@ -20,6 +21,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
    3. DEM file ```.xyz```
 
 # Set up used
+
 1. Ubuntu 20.04.6 LTS, 64 bits
 2. Conda environment was created (for example ```py2```) and activated 
 3. Python 2.7 (specifically version python=2.7.18) installed
@@ -33,14 +35,17 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
         >>>
          ```
 
+
 # Start simulating
+
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
 2. Run the code by typing and then click ```enter```
     ```python
         python run.py
     ```
 
-#### OUtput files
+ 
+ Output files
  1. Done, model out contains
     1. Simulated age-elevation plot
     2. Goodness of fit test plot
