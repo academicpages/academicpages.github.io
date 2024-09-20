@@ -7,7 +7,11 @@ collection:
 
 
 Simulation presented in Borgohain et al., (2024) uses Bayesian erosion model of Avdeev et al., (2011) (EPSL) has been. 
-Following documentation describes: (1) over view of running Bayesian erosion model and (2) modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). It contains two main folders: 1. ```data```, 2. ```detrital_ui```.
+Following documentation describes: (1) over view of running Bayesian erosion model and (2) configuring a model modification to include ZFT simulation, and to extract model output for ploting in Jupyter. Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
+
+It contains two main folders: 
+1. ```data```,
+2. ```detrital_ui```.
 
 # Over view of Bayesian erosion model
 ## Input files
@@ -53,7 +57,7 @@ Following documentation describes: (1) over view of running Bayesian erosion mod
          ```
 
 
-## Start simulating
+## Running a model
 
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
 2. Run the code by typing ```python run.py``` and then click ```enter```
