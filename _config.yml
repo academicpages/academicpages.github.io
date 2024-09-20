@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xi_cheng.png"
+  avatar           : "images/xi_cheng.png"
   name             : "Xi Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Ezra Systems Postdoctoral Associate"
