@@ -10,8 +10,7 @@ citation: 'Guo, G., Li, X., Zhu, C., Wu, Y., Chen, J., Chen, P., & Cheng, X. (20
 ---
 
 
-**Highlights**
-
+Highlights
 •A thorough and robust HSR classification and grading system is established.
 
 •A data-driven embodied carbon benchmark establishment methodology is developed.
