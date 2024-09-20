@@ -3,6 +3,7 @@ title: "Is electric truck a viable alternative to diesel truck in long-haul oper
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
+date: 2024
 venue: 'Transportation Research Part D: Transport and Environment'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1361920924000762'
 citation: 'Cheng, X., & Lin, J. (2024). Is electric truck a viable alternative to diesel truck in long-haul operation?. Transportation Research Part D: Transport and Environment, 129, 104119.'
