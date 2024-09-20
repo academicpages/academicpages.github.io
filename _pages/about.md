@@ -27,7 +27,7 @@ redirect_from:
 
 ## Working Papers
 
-1. Contracts and Digital Technology Adoption: Evidence from Senegal **(Job Market Paper)**, *Draft Coming Soon*
+1. Asymmetric Information and Digital Technology Adoption: Evidence from Senegal **(Job Market Paper)**, *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
