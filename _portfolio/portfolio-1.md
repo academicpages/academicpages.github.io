@@ -1,6 +1,6 @@
 ---
 title: "Bayesian Erosion Model with Low-Temperature Thermochronology"
-excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_new.png'> "
+excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_1.png'> "
 collection: 
 ---
 
