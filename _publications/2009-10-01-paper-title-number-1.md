@@ -1,5 +1,5 @@
 ---
-Establishing benchmarks to determine the embodied carbon performance of high-speed rail systems
+title: Establishing benchmarks to determine the embodied carbon performance of high-speed rail systems
 collection: publications
 category: manuscripts
 venue: 'Renewable and Sustainable Energy Reviews'
