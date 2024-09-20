@@ -11,7 +11,7 @@ Simulation presented in Borgohain et al., (2024, under review, Tectonics) uses B
 Following documentation describes: 
 1. Over view of running Bayesian erosion model
 2. Configuring a model (Will be uploaded soon)
-3. Details about code options ((Will be uploaded soon). 
+3. Details about code options (Will be uploaded soon). 
 
 Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
