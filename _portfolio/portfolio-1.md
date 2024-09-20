@@ -56,7 +56,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Start simulating
 
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
-2. Run the code by typing <span style="font-size:18px; color:green"> ```python run.py``` : </span> and then click ```enter```
+2. Run the code by typing <span style="font-size:18px; color:green"> ```python run.py``` </span> and then click ```enter```
   
 
  
