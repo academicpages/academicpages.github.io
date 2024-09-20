@@ -13,7 +13,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Input files
 
 1. Code file
-     1. <span style="font-size:38px; color:green">``` This is some text ``` </span>
+     1. ``` <span style="font-size:38px; color:green"> This is some text </span> ```
 2. Input data dile
    1. Age file ```.csv```
       ```python
@@ -46,7 +46,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
     ```
 
  
- #Output files
+ # Output files
  
  1. Done, model out contains
     1. Simulated age-elevation plot
