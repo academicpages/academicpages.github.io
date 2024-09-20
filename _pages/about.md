@@ -7,27 +7,40 @@ redirect_from:
   - /about.html
 ---
 
-- Graduate in Mathematics at Trinity College Dublin
+## About Me
 
-- Currently working as a Risk Consultant in Murex with an active interest in Finance, Statistics, Music and Sports
+I'm a graduate in **Mathematics** from Trinity College Dublin, currently working as a **Risk Consultant** at Murex. I have a strong interest in **Finance**, **Statistics**, **Music**, and **Sports**, and am actively engaged in projects that focus on **Computational Mathematics** and **Probability**.
 
-- Currently working on projects in the Computational Mathematics and Probability area
+---
 
+## Selected Projects
 
-Selected Projects
-======
+### Credit Risk Project for Authorisation Strategies
 
-- Credit Risk Project for authorisation strategies
-While working at Murex I have been investigating different authorisation strategies for calculating counterparty credit risk (Pre-Settlement Risk, Settlement Risk) from an analytical point of view. the project involved implementing algorithms that can handle large volumes of trades. Important results range from determining the scenarios where the alternative strategies for calculating risk perform badly (underestimate the exposure) to analysing Monte Carlo simulations and percentage growth of the strategies.
+While working at Murex, I have been investigating various authorisation strategies for calculating counterparty credit risk, including **Pre-Settlement Risk** and **Settlement Risk**, from an analytical perspective. This project involved implementing algorithms capable of handling large volumes of trades. 
+
+Some key outcomes include:
+- Identifying scenarios where alternative risk calculation strategies underperform (underestimate exposure).
+- Analysing **Monte Carlo simulations** and the percentage growth of the strategies.
 
 ![Credit Risk Photo](/images/cr.png)
 
-- Final Year Thesis
-My Undergraduate thesis investigated the Finite Element Method for 1D and 2D differential equations (Laplace Equation, Heat Equation) and Elliptic PDE's. I created MATLAB programs that solve these differential equations using numerical quadrature and applied the method to the Black-Scholes equation for Euorpean Call/Put Options.  
+---
+
+### Final Year Thesis: Finite Element Method for Differential Equations
+
+In my undergraduate thesis, I explored the **Finite Element Method (FEM)** for solving 1D and 2D differential equations like the **Laplace Equation** and **Heat Equation**, along with **Elliptic PDEs**. Using **MATLAB**, I developed programs to solve these equations with **numerical quadrature**, applying the method to the **Black-Scholes equation** for pricing European Call/Put options.
 
 ![FEM Photo](/images/fem.png)
 
-- Miscellaneous projects in Probability + Python
-Here I have gathered some short projects that have been interesting to read about/research. Included will be a short paper with some code that you can run yourself!
+---
+
+### Miscellaneous Projects in Probability + Python
+
+These projects cover a variety of topics in **Probability** and **Python**, featuring a collection of short research papers and code that you can run yourself. The aim is to explore interesting and challenging concepts through practical examples.
 
 ![Other Photo](/images/otherimage.png)
+
+---
+
+Feel free to reach out if you'd like to discuss any of these projects or collaborate on similar topics!
