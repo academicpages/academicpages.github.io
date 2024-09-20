@@ -13,7 +13,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Input files
 
 1. Code file
-     1.  <span style="font-size:28px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
+     1.  <span style="font-size:18px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
 2. Input data dile
    1. Age file ```.csv``` in the following formate (only age)
@@ -56,10 +56,8 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 # Start simulating
 
 1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
-2. Run the code by typing and then click ```enter```
-    ```python
-        python run.py
-    ```
+2. Run the code by typing <span style="font-size:18px; color:green"> Four python ```python run.py``` files: </span> and then click ```enter```
+  
 
  
  # Output files
