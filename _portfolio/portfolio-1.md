@@ -14,11 +14,19 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 
 1. Code file
      1.  <span style="font-size:28px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
-     2. $ \begin{pmatrix} a & b \\ c & d \end{pmatrix} $
+ 
 2. Input data dile
    1. Age file ```.csv```
       ```python
-           <span style="font-size:18px; color:green">This is some text</span>
+           27
+          13.7
+          11.7
+          14.2
+          9.4
+          6.9
+           .
+           .
+           .     
       ```
    3. DEM file ```.xyz```
 
