@@ -16,19 +16,19 @@ Following documentation describes:
 Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
 It contains two main folders: 
-1. ```data```,
+1. ```data```
 2. ```detrital_ui```.
 
 # Over view of Bayesian erosion model
 ## Input files
 
 1. Code files (Included in ```detrital_ui``` folder)
-     1.  <span style="font-size:18px; color:green"> Four python ```.py``` files: </span> ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
+     1.  <span style="font-size:18px; color:green"> Four python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
  
 2. Input data file (Included in ```data``` folder)
    1. Age file ```.csv``` in the following formate (only age)
       ```python
-           27
+          27.0
           13.7
           11.7
           14.2
