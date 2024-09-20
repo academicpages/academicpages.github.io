@@ -30,11 +30,11 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
       ```
    3. DEM file ```.xyz```
       ```python
-      x y z 
+           x y z 
           217623.033 3251932.988 5165
           217653.033 3251932.988 5167
           217683.033 3251932.988 5168
-      
+      ```
 
 # Set up used
 
