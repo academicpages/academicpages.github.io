@@ -59,8 +59,7 @@ Folllowing documentation describes: (1) Procedure to run the model and (2) modif
 2. Run the code by typing <span style="font-size:18px; color:green"> ```python run.py``` </span> and then click ```enter```
   
 
- 
- # Output files
+# Output files
  
  1. Done, model out contains
     1. Simulated age-elevation plot, a .png file (summary.png)
