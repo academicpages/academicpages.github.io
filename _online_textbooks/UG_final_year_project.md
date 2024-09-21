@@ -11,13 +11,180 @@ can build larger structures in space. An example challenge is how we can go from
 modular stations such as ISS, as seen on the left of our logo, to rotating wheel
 space stations, on the right of our logo.' %}
 
-
 ## Who this page serves?
 This is likely only useful for QMUL's final year undergraduate students in who are taking
 [EMS690U final year project](https://www.qmul.ac.uk/modules/items/ems690u-integrated-design-project.html)
 under my supervision. It will make little to no sense for anyone else (inlcuding those from QMUL) as
 there will be a lot covered in the in-person workshops. This is merely to augment to that; it is not
 meant as a standalone piece.
+
+## Project Areas
+The core thesis of the project is that large (or even ultra-large) space structures
+could help us inspirational or useful things. Human habitation and space-based astronomy
+are classic examples of the former whereas 
+former whereas in-space manufacturing or tackling
+overcome existential risks/threats 
+### In-Space Manufacturing (e.g., Organs, Electronics, and Pharmaceuticals Drugs)
+**<u>Domain</u>**:: Commercial Businesses backed by either venture capital and/or
+space agencies.
+
+[3-D printing artificial organs](https://www.nasa.gov/missions/station/iss-research/3d-bioprinting/)
+would be a boon to those on the donor organs wait-list. ISS astronauts are also working on this technology
+to if these
+[artificial organs can withstand the space environment](https://www.space.com/international-space-station-3d-printed-hearts-astronauts-deep-space-travel).
+
+**<u>Existing Players</u>**
+- **Semiconductors and Electronics**
+    -  [Space Forge](https://www.spaceforge.com)
+- **Pharmaceuticals Drugs** 
+   - [Varda Space](https://www.varda.com)
+   - [BioOrbit](https://www.bioorbit.space/)
+
+
+### Large Space Stations (Modular or Monolithic)
+**<u>Domain</u>**: National space agencies have built space stations so far.
+Commercial entities are now trying to get a piece of the pie.
+
+{% marginnote 'table-2-id' '*Table 1*: A table of space stations launched and planned.' %}
+<div class="table-wrapper">
+  <table class="booktabs">
+    <thead>
+      <tr>
+        <th colspan="3" class="cmid">Space Stations</th>
+        <th class="nocmid"></th>
+      </tr>
+      <tr>
+        <th class="l">Funding</th>
+        <th>Name (Year)</th>
+        <th class="r">Capacity</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td rowspan="17">Govt. funded</td>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_1">Salyut 1</a> (1971)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_3">Salyut 3</a> (1974-1975)</td>
+        <td class="r">2</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_4">Salyut 4</a> (1974-1977)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_5">Salyut 5</a> (1976-1977)</td>
+        <td class="r">2</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_6">Salyut 6</a> (1977-1982)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_7">Salyut 7</a> (1982-1991)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Skylab">Skylab</a> (1973-1979)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Almaz">Almaz</a> (1973-1976)</td>
+        <td class="r">2-3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Mir">Mir</a> (1986-2001)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/International_Space_Station">International Space Station</a> (2000-present)</td>
+        <td class="r">7</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Tiangong-1">Tiangong-1</a> (2011-2018)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Tiangong-2">Tiangong-2</a> (2016-2019)</td>
+        <td class="r">2</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Tiangong_space_station">Tiangong Space Station</a> (2021-present)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Lunar_Gateway">Lunar Gateway</a> (planned 2024)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Russian_Orbital_Service_Station">ROSS</a> (planned 2027)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Indian_Space_Station">Indian Space Station</a> (planned 2035)</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Tiangong_space_station#Future_expansion">China's next-gen station</a> (planned, date TBA)</td>
+        <td class="r">6</td>
+      </tr>
+      <tr>
+        <td colspan="3" style="border-bottom: 2px solid;"></td>
+      </tr>
+      <tr>
+        <td rowspan="8">Private</td>
+        <td><a href="https://en.wikipedia.org/wiki/Axiom_Station">Axiom Station</a> (planned 2025)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://vast.space/">Vast-1</a> (planned 2025)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://vast.space/">Haven-1</a> (planned 2027)</td>
+        <td class="r">8</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Starlab_Space_Station">Starlab</a> (planned 2028)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://explorationcompany.space/">The Exploration Company's Nyx</a> (planned 2028)</td>
+        <td class="r">4</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Orbital_Reef">Orbital Reef</a> (status uncertain)</td>
+        <td class="r">10</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Voyager_Station">Voyager Station</a> (conceptual)</td>
+        <td class="r">400</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Orbital_Reef">Orbital Reef</a> (planned 2027)</td>
+        <td class="r">10</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### Large Space Telescopes (25 metres or more)
+**<u>Domain</u>**: Space agencies and commercial
+
+
+### In-Space Servicing/Repair/Refuelling Systems
+**<u>Domain</u>**: Commercial
+
+### Space-based Geoengineering
+**<u>Domain</u>**: Commercial
+
+### Debris Removal
+**<u>Domain</u>**: Commercial
+**<u>Existing Players</u>**
+
+
+-[ClearSpace](http://clearspace.today)
 
 ## Project Blurb (for Inspiration Only)
 There is a rapidly growing number of man-made satellites in Earth’s orbit, fulfilling
@@ -30,9 +197,8 @@ spend on the satellite) and the overarching purpose of the space station.
 
 Each group will examine a different type of space station, which serves different purposes, including
 - A habitat for long-term occupation
-- A site for disaster-monitoring
-- Persistent Earth observations
-- Space-based astronomy
+- One with the optical telescopes or other imagers for disaster-monitoring, persistent Earth observations,
+or space-based astronomy
 - In-space factory for production of semi-conductors
 
 Students will focus on a single application from the above list and will consider
