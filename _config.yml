@@ -321,7 +321,6 @@ defaults:
       type: online_textbooks
     values:
       layout: single  # Or another layout if needed
-      author_profile: true
       author_profile: false
       classes: wide_post
       read_time: true
@@ -329,3 +328,5 @@ defaults:
       related: false
       mathjax: true
       share: true
+      toc: true
+        

@@ -50,124 +50,186 @@ Commercial entities are now trying to get a piece of the pie.
   <table class="booktabs">
     <thead>
       <tr>
-        <th colspan="3" class="cmid">Space Stations</th>
-        <th class="nocmid"></th>
+        <th colspan="4" class="cmid">Space Stations</th>
       </tr>
       <tr>
         <th class="l">Funding</th>
         <th>Name (Year)</th>
         <th class="r">Capacity</th>
+        <th class="r">Type/Comments</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td rowspan="17">Govt. funded</td>
+        <td rowspan="18">Govt. funded</td>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_1">Salyut 1</a> (1971)</td>
         <td class="r">3</td>
+        <td class="r">Monolithic</td>
+      </tr>
+      <tr>
+        <td><a href="https://en.wikipedia.org/wiki/Salyut_2">Salyut 2</a> (1973)</td>
+        <td class="r">2</td>
+        <td class="r">Monolithic, military. Debris collision failure</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_3">Salyut 3</a> (1974-1975)</td>
         <td class="r">2</td>
+        <td class="r">Monolithic, military</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_4">Salyut 4</a> (1974-1977)</td>
         <td class="r">3</td>
+        <td class="r">Monolithic</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_5">Salyut 5</a> (1976-1977)</td>
         <td class="r">2</td>
+        <td class="r">Monolithic, military</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_6">Salyut 6</a> (1977-1982)</td>
         <td class="r">3</td>
+        <td class="r">Semi-modular</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Salyut_7">Salyut 7</a> (1982-1991)</td>
         <td class="r">3</td>
+        <td class="r">Semi-modular</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Skylab">Skylab</a> (1973-1979)</td>
         <td class="r">3</td>
+        <td class="r">Monolithic</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Almaz">Almaz</a> (1973-1976)</td>
         <td class="r">2-3</td>
+        <td class="r">Monolithic, military</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Mir">Mir</a> (1986-2001)</td>
         <td class="r">3</td>
+        <td class="r">Modular</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/International_Space_Station">International Space Station</a> (2000-present)</td>
         <td class="r">7</td>
+        <td class="r">Modular, international</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Tiangong-1">Tiangong-1</a> (2011-2018)</td>
         <td class="r">3</td>
+        <td class="r">Monolithic prototype</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Tiangong-2">Tiangong-2</a> (2016-2019)</td>
         <td class="r">2</td>
+        <td class="r">Monolithic prototype</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Tiangong_space_station">Tiangong Space Station</a> (2021-present)</td>
         <td class="r">3</td>
+        <td class="r">Modular</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Lunar_Gateway">Lunar Gateway</a> (planned 2024)</td>
         <td class="r">4</td>
+        <td class="r">Modular, lunar orbit</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Russian_Orbital_Service_Station">ROSS</a> (planned 2027)</td>
         <td class="r">4</td>
+        <td class="r">Modular, Russian national</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Indian_Space_Station">Indian Space Station</a> (planned 2035)</td>
         <td class="r">3</td>
+        <td class="r">Likely modular, details TBA</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Tiangong_space_station#Future_expansion">China's next-gen station</a> (planned, date TBA)</td>
         <td class="r">6</td>
+        <td class="r">Likely modular, expanded Tiangong</td>
       </tr>
       <tr>
-        <td colspan="3" style="border-bottom: 2px solid;"></td>
+        <td colspan="4" style="border-bottom: 2px solid;"></td>
       </tr>
       <tr>
         <td rowspan="8">Private</td>
         <td><a href="https://en.wikipedia.org/wiki/Axiom_Station">Axiom Station</a> (planned 2025)</td>
         <td class="r">4</td>
+        <td class="r">Modular, initially ISS-attached</td>
       </tr>
       <tr>
         <td><a href="https://vast.space/">Vast-1</a> (planned 2025)</td>
         <td class="r">4</td>
+        <td class="r">Single module prototype</td>
       </tr>
       <tr>
         <td><a href="https://vast.space/">Haven-1</a> (planned 2027)</td>
         <td class="r">8</td>
+        <td class="r">Larger follow-up to Vast-1</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Starlab_Space_Station">Starlab</a> (planned 2028)</td>
         <td class="r">4</td>
+        <td class="r">Single-launch station</td>
       </tr>
       <tr>
         <td><a href="https://explorationcompany.space/">The Exploration Company's Nyx</a> (planned 2028)</td>
         <td class="r">4</td>
+        <td class="r">Modular, expandable design</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Orbital_Reef">Orbital Reef</a> (status uncertain)</td>
         <td class="r">10</td>
+        <td class="r">Modular, project paused in 2023</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Voyager_Station">Voyager Station</a> (conceptual)</td>
         <td class="r">400</td>
+        <td class="r">Rotating wheel design, highly speculative</td>
       </tr>
       <tr>
         <td><a href="https://en.wikipedia.org/wiki/Orbital_Reef">Orbital Reef</a> (planned 2027)</td>
         <td class="r">10</td>
+        <td class="r">Duplicate entry, remove</td>
       </tr>
     </tbody>
   </table>
 </div>
+
+<!--
+| **Funding**  | **Name (Year)**                                                                                                       | **Capacity** | **Type/Comments**                              |
+| ------------ | --------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------------------------------- |
+|              | [Salyut 1](https://en.wikipedia.org/wiki/Salyut_1) (1971)                                                             | 3            | Monolithic                                     |
+|              | [Salyut 2](https://en.wikipedia.org/wiki/Salyut_2) (1973)                                                             | 2            | Monolithic, military. Debris collision failure |
+|              | [Salyut 3](https://en.wikipedia.org/wiki/Salyut_3) (1974-1975)                                                        | 2            | Monolithic, military                           |
+|              | [Salyut 4](https://en.wikipedia.org/wiki/Salyut_4) (1974-1977)                                                        | 3            | Monolithic                                     |
+|              | [Salyut 5](https://en.wikipedia.org/wiki/Salyut_5) (1976-1977)                                                        | 2            | Monolithic, military                           |
+|              | [Salyut 6](https://en.wikipedia.org/wiki/Salyut_6) (1977-1982)                                                        | 3            | Semi-modular                                   |
+|              | [Salyut 7](https://en.wikipedia.org/wiki/Salyut_7) (1982-1991)                                                        | 3            | Semi-modular                                   |
+| Govt. funded | [Skylab](https://en.wikipedia.org/wiki/Skylab) (1973-1979)                                                            | 3            | Monolithic                                     |
+|              | [Almaz](https://en.wikipedia.org/wiki/Almaz) (1973-1976)                                                              | 2-3          | Monolithic, military                           |
+|              | [Mir](https://en.wikipedia.org/wiki/Mir) (1986-2001)                                                                  | 3            | Modular                                        |
+|              | [International Space Station](https://en.wikipedia.org/wiki/International_Space_Station) (2000-present)               | 7            | Modular, international                         |
+|              | [Tiangong-1](https://en.wikipedia.org/wiki/Tiangong-1) (2011-2018)                                                    | 3            | Monolithic prototype                           |
+|              | [Tiangong-2](https://en.wikipedia.org/wiki/Tiangong-2) (2016-2019)                                                    | 2            | Monolithic prototype                           |
+|              | [Tiangong Space Station](https://en.wikipedia.org/wiki/Tiangong_space_station) (2021-present)                         | 3            | Modular                                        |
+|              | [Lunar Gateway](https://en.wikipedia.org/wiki/Lunar_Gateway) (planned 2024)                                           | 4            | Modular, lunar orbit                           |
+|              | [ROSS](https://en.wikipedia.org/wiki/Russian_Orbital_Service_Station) (planned 2027)                                  | 4            | Modular, Russian national                      |
+|              | [Indian Space Station](https://en.wikipedia.org/wiki/Indian_Space_Station) (planned 2035)                             | 3            | Likely modular, details TBA                    |
+|              | [China's next-gen station](https://en.wikipedia.org/wiki/Tiangong_space_station#Future_expansion) (planned, date TBA) | 6            | Likely modular, expanded Tiangong              |
+|              |                                                                                                                       |              |                                                |
+|              | [Axiom Station](https://en.wikipedia.org/wiki/Axiom_Station) (planned 2025)                                           | 4            | Modular, initially ISS-attached                |
+|              | [Vast-1](https://vast.space/) (planned 2025)                                                                          | 4            | Single module prototype                        |
+|              | [Haven-1](https://vast.space/) (planned 2027)                                                                         | 8            | Larger follow-up to Vast-1                     |
+| Private      | [Starlab](https://en.wikipedia.org/wiki/Starlab_Space_Station) (planned 2028)                                         | 4            | Single-launch station                          |
+|              | [The Exploration Company's Nyx](https://explorationcompany.space/) (planned 2028)                                     | 4            | Modular, expandable design                     |
+|              | [Orbital Reef](https://en.wikipedia.org/wiki/Orbital_Reef) (status uncertain)                                         | 10           | Modular, project paused in 2023                |
+|              | [Voyager Station](https://en.wikipedia.org/wiki/Voyager_Station) (conceptual)                                         | 400          | Rotating wheel design, highly speculative      |
+-->
+
 
 ### Large Space Telescopes (25 metres or more)
 **<u>Domain</u>**: Space agencies and commercial
