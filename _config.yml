@@ -129,7 +129,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @louislongin
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
