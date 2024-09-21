@@ -12,7 +12,7 @@ title                    : "Louis Longin"
 title_separator          : "-"
 name                     : &name "Louis Longin"
 description              : &description "Personal Website of Louis Longin"
-url                      : https://louislongin.github.io/academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://louislongin.github.io"
+url                      : https://louislongin.github.io/ # the base hostname & protocol for your site e.g. "https://louislongin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "louislongin/academicpages.github.io"
 
