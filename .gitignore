@@ -2,3 +2,4 @@ _site/
 
 .DS_Store
 assets/.DS_Store
+._config.yml.swp
