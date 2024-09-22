@@ -6,10 +6,10 @@ collection:
 
 
 
-Results of **Bayesian erosion modeling** of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al., (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al., (2011, EPSL). 
+Results of **Bayesian erosion modeling** of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al. (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al. (2011, EPSL). 
 
-Following documentation describes: 
-1. Over view of running the **Bayesian erosion model** of Avdeev et al., (2011)
+The following documentation describes: 
+1. Overview of running the **Bayesian erosion model** of Avdeev et al., (2011)
 2. Configuring a model (Will be uploaded soon)
 3. Details about code options (Will be uploaded soon). 
 
@@ -19,7 +19,7 @@ It contains two main folders:
 1. ```data```
 2. ```detrital_ui```.
 
-# Over view of Bayesian erosion model
+# Overview of the Bayesian erosion model
 ## Input files
 
 1. Code files (Included in ```detrital_ui``` folder)
@@ -37,7 +37,7 @@ It contains two main folders:
            .
            .  
       ```
-   3. DEM file ```.xyz``` in the following formate (latitude, longitude, elevation).
+   3. DEM file ```.xyz``` in the following format (latitude, longitude, elevation).
       ```python
            x y z 
           217623.033 3251932.988 5165
@@ -54,8 +54,8 @@ It contains two main folders:
 3. Python 2.7 (specifically version python=2.7.18) installed
 4. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
 5. Pymc (version - 2.3.8) installed, link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
-    1. ``` conda install pymc::kabuki ``` was used to install in a anconda environment
-    2. Check for proper installation of pymc
+    1. ``` conda install pymc::kabuki ``` was used to install in a anaconda environment
+    2. Check for installation of ```pymc```
          ```python
          $ python
         >>> import pymc
@@ -65,16 +65,16 @@ It contains two main folders:
 
 ## Running a model
 
-1. Open a terminal in a folder containing code file of Bayesian erosion model and activate the environment ```py2``` 
+1. Open a terminal in a folder containing code files of the Bayesian erosion model and activate the environment ```py2``` 
 2. Run the code by typing ```python run.py``` and then click ```enter```
   
 
 ## Output files
  
- 1. Done, model output contain:
-    1. Simulated age-elevation plot, a ```.png ```file (summary.png)
+ 1. Done, model output contains:
+    1. Simulated age-elevation plot, a ```.png ``` file (summary.png)
     2. Goodness of fit test plot, a ```.png``` file (KS_test.png)
-    3. A ```.csv``` file (statistics.csv) contaning: 
+    3. A ```.csv``` file (statistics.csv) containing: 
        1. Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
        2. Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
  
