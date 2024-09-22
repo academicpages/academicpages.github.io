@@ -25,7 +25,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 1. Create a folder with a sample name (for example <span style="font-size:18px; color:green"> ANIDT4</span>)
 2. In <span style="font-size:18px; color:green"> ANIDT4</span> create another two folder with name ```data``` and ```detrital_ui```.
 3. Upload two input data files in ```data``` folder of <span style="font-size:18px; color:green"> ANIDT4</span>
-     1. Age file ```.csv``` in the following formate (only age of detrital sample <span style="font-size:18px; color:green"> ANIDT4</span>)
+     1. Age file ```.csv``` in the following formate (detrital cooling age distribution of sample <span style="font-size:18px; color:green"> ANIDT4</span>)
       ```python
           27.0
           13.7
@@ -56,8 +56,8 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 3. In ```py2``` environment following packages and libraries are installed
    1. Python 2.7 (specifically version python=2.7.18) installed
    2. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
-   3. Pymc (version - 2.3.8) installed, link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
-      1. ``` conda install pymc::kabuki ``` was used to install in a anaconda environment
+   3. Pymc (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
+      1. ``` conda install pymc::kabuki ``` code was used to install *PyMc*
       2. Check for installation of ```pymc```
          ```python
          $ python
