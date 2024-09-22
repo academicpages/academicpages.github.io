@@ -56,7 +56,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 3. In ```py2``` environment following packages and libraries are installed
    1. Python 2.7 (specifically version python=2.7.18) installed
    2. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
-   3. Pymc (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
+   3. *Pymc* (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
       1. ``` conda install pymc::kabuki ``` code was used to install *PyMc*
       2. Check for installation of ```pymc```
          ```bash
@@ -80,7 +80,27 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
     3. A ```.csv``` file (statistics.csv) containing: 
        1. Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
        2. Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
+          
+# Configuring a model
 
+<span style="font-size:18px; color:red"> Download file</span>'s ```model_setup.py``` file is used primarily to configure model for sample (for example <span style="font-size:18px; color:green"> ANIDT4</span>) for various erosion history scenarios. 
+1. For **uniform erosion history scenario**, which refers to constant erosion rate through time following changes required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
+   1. Assign DEM file location and file name, for example ```ANIDT4.xyz```
+      ```bash
+      catchment_1 = Catchment(hypsometry_file = "../data/ANIDT4.xyz", elevation_column = 'z')
+      ```
+   2. Assign age file location, sample name, catchment data (```catchement_1```), thermochronometric type (```AFT```) for example ```ANIDT4.csv```
+      ```bash
+      sample_1 = DetritalSample(age_file = "../data/ANIDT4.csv", sample_name = 'ANIDT4', catchment = catchment_1, tc_type = 'AFT')
+
+      ```
+   3. The erosion rate that the model can vary ranges from ```0 to 3``` mm/yr. This is the first prior information that we can come to know from previous studies. The minimum and maximum values are required. In ```model_setup.py``` file this is coded as ```erate_prior = (0,3)```.
+   4. The timing of change in erosion rate that the model can vary rang from ```0 to 60``` Ma. This the second prior that we can assign from measured age data. Here minimum and maximum ages are required. In ```model_setup.py``` file this is coded as ```abr_prior = (0,60)```.
+   5. Number of breaks in the exhumation model; in this uniform erosion history scenario, the break will be zero.
+      ```break = 0```.
+      **Note**: ```break = 1``` will be assigned for a one-break model scenario that refers to one discrete change in erosion rates through time. 
+2. For **non-uniform erosion rate scenario**, the only line of code that is required to change is the value in ```break=...```. Here, ```1``` for one-break scenario, ```2``` for two-break (two break refer to two discrete changes in erosion rate through time)
+   
 # References
 
 - *Avdeev, B., Niemi, N. A., & Clark, M. K.* (2011). **Doing more with less: Bayesian estimation of erosion models with detrital thermochronometric data.** Earth and Planetary Science Letters, 305(3–4), 385–395. https://doi.org/10.1016/j.epsl.2011.03.020
