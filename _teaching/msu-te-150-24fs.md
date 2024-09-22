@@ -24,5 +24,10 @@ I made several important additions to the curriculum this semester, in addition 
   - Added mood meter based on [RULER approach](https://www.rulerapproach.org/)
 - Week 4
   - Integrated [Harro's Cycle of Socialization](https://www.nea.org/sites/default/files/2021-02/Cycle%20of%20Socialization%20HARRO.pdf) into discussion of Bronfenbrenner's Ecological Systems Theory.
+- Week 5
+  - Added readings on [asset-based pedagogy](https://ellstudents.com/blogs/the-confianza-way/your-students-have-assets) and the [school-to-prison pipeline](https://www.learningforjustice.org/magazine/spring-2013/the-school-to-prison-pipeline)
+  - Added clip from Katrina Babies documentary (timestamp 0:59-1:08) to class on trauma-informed teaching
+- Week 6
+  - Added reading about controversial classroom discussions in higher ed. Choice of reading between [Bérubé](https://www.aft.org/ae/fall2024/berube) or [Crespo](https://www.aft.org/ae/fall2024/crespo).
 
 ---
