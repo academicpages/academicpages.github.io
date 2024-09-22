@@ -49,13 +49,14 @@ It contains two main folders:
 
 ## Set up used
 
-1. Ubuntu 20.04.6 LTS, 64 bits
-2. Conda environment was created (for example # ```py2```) and activated 
-3. Python 2.7 (specifically version python=2.7.18) installed
-4. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
-5. Pymc (version - 2.3.8) installed, link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
-    1. ``` conda install pymc::kabuki ``` was used to install in a anaconda environment
-    2. Check for installation of ```pymc```
+1. Ubuntu 20.04.6 LTS, 64 bits.
+2. Conda environment was created (for example ```py2```) and activated.
+3. In ```py2``` environment following packages and libraries are installed
+   1. Python 2.7 (specifically version python=2.7.18) installed
+   2. numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
+   3. Pymc (version - 2.3.8) installed, link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
+      1. ``` conda install pymc::kabuki ``` was used to install in a anaconda environment
+      2. Check for installation of ```pymc```
          ```python
          $ python
         >>> import pymc
@@ -66,7 +67,7 @@ It contains two main folders:
 ## Running a model
 
 1. Open a terminal in a folder containing code files of the Bayesian erosion model and activate the environment ```py2``` 
-2. Run the code by typing ```python run.py``` and then click ```enter```
+2. Run the *Bayesian erosion model* by typing ```python run.py``` and then click ```enter```
   
 
 ## Output files
