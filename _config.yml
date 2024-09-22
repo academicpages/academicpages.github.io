@@ -292,12 +292,12 @@ defaults:
     values:
       layout: single
       author_profile: false
-      classes: wide_post
       read_time: true
       comments: # true
       share: false
       related: false
       mathjax: true
+      toc: true        
   # _pages
   - scope:
       path: "_pages"
@@ -322,7 +322,6 @@ defaults:
     values:
       layout: single  # Or another layout if needed
       author_profile: false
-      classes: wide_post
       read_time: true
       comments: true
       related: false
