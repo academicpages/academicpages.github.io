@@ -15,18 +15,17 @@ The following documentation describes:
 
 Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
-It contains two main folders: 
+<span style="font-size:18px; color:red"> Downloaded file</span>  contains two main folders: 
 1. ```data```
 2. ```detrital_ui```.
 
 # Overview of the Bayesian erosion model
 ## Input files
 
-1. Code files (Included in ```detrital_ui``` folder)
-     1.  <span style="font-size:18px; color:green"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
- 
-2. Input data file (Included in ```data``` folder)
-   1. Age file ```.csv``` in the following formate (only age)
+1. Create a folder with a sample name (for example <span style="font-size:18px; color:green"> ANIDT4</span>)
+2. In <span style="font-size:18px; color:green"> ANIDT4</span> create another two folder with name ```data``` and ```detrital_ui```.
+3. Upload two input data files in ```data``` folder of <span style="font-size:18px; color:green"> ANIDT4</span>
+     1. Age file ```.csv``` in the following formate (only age of detrital sample <span style="font-size:18px; color:green"> ANIDT4</span>)
       ```python
           27.0
           13.7
@@ -37,7 +36,7 @@ It contains two main folders:
            .
            .  
       ```
-   3. DEM file ```.xyz``` in the following format (latitude, longitude, elevation).
+      2. DEM file ```.xyz``` in the following format (latitude, longitude, elevation of catchment <span style="font-size:18px; color:green"> ANIDT4</span>).
       ```python
            x y z 
           217623.033 3251932.988 5165
@@ -46,6 +45,9 @@ It contains two main folders:
            . . .
            . . .
       ```
+4. From <span style="font-size:18px; color:red"> Downloaded file</span> copy code files (Included in ```detrital_ui``` folder) paste in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
+     1.  <span style="font-size:18px; color:green"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
+
 
 ## Set up used
 
