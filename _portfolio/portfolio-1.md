@@ -9,11 +9,11 @@ collection:
 Results of **Bayesian erosion modeling** of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al. (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al. (2011, EPSL). 
 
 The following documentation describes: 
-1. Overview of running the **Bayesian erosion model** of Avdeev et al., (2011)
+1. Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
 2. Configuring a model (Will be uploaded soon)
 3. Details about code options (Will be uploaded soon). 
 
-Original Avdeev et al., (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
+Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
 It contains two main folders: 
 1. ```data```
