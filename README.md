@@ -40,17 +40,94 @@ If you have bugfixes and enhancements that you would like to submit as a pull re
 
 Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
-# Analogía con la polarización de la luz.
+# Capítulo 4: Método de Runge-Kutta de Cuarto Orden
 
-Dado que esta situación es nueva, podemos buscar alguna analogía con algún fenómeno físico ya conocido. Por esta razón,  discutiremos algunos aspectos sobre la polarización de la luz.
+## 4.1. Introducción
 
-Consideraciones:
+El método de Runge-Kutta de cuarto orden es un método numérico utilizado para resolver ecuaciones diferenciales ordinarias (EDOs) de la forma:
 
-1. Supongamos que tenemos una **onda de luz polarizada** que se **propaga en la dirección z**.
-2. Luz x-plolarizada:
-    
-    $\mathbf{E} = E_o \hat{\mathbf{x}} cos(kz-\omega t)$.
-    
-3. Luz y-polarizada:
-    
-    $\mathbf{E} = E_o \hat{\mathbf{y}} cos(kz-\omega t)$.
+$$
+\frac{dy}{dt} = f(t, y)
+$$
+
+El método es particularmente útil debido a su precisión y simplicidad. La fórmula básica para avanzar desde el punto \( t_n \) hasta \( t_{n+1} \) con un paso \( h \) es:
+
+$$
+y_{n+1} = y_n + \frac{1}{6}(k_1 + 2k_2 + 2k_3 + k_4)
+$$
+
+donde:
+
+\[
+\begin{align*}
+k_1 &= h f(t_n, y_n) \\
+k_2 &= h f\left(t_n + \frac{h}{2}, y_n + \frac{k_1}{2}\right) \\
+k_3 &= h f\left(t_n + \frac{h}{2}, y_n + \frac{k_2}{2}\right) \\
+k_4 &= h f(t_n + h, y_n + k_3)
+\end{align*}
+\]
+
+## 4.2. Implementación en Fortran
+
+A continuación se muestra una implementación del método de Runge-Kutta de cuarto orden en Fortran para resolver la EDO:
+
+$$
+\frac{dy}{dt} = -2ty
+$$
+
+con la condición inicial \( y(0) = 1 \).
+
+### Código Fortran
+
+```fortran
+! Archivo: runge_kutta.f90
+PROGRAM RungeKutta4
+
+  IMPLICIT NONE
+  REAL :: t, y, h
+  INTEGER :: i, n
+
+  ! Definición de variables
+  REAL, PARAMETER :: t0 = 0.0, y0 = 1.0, tf = 5.0, h_step = 0.1
+  INTEGER, PARAMETER :: n_steps = INT((tf - t0) / h_step)
+
+  ! Inicialización
+  t = t0
+  y = y0
+
+  ! Impresión de la condición inicial
+  PRINT *, 't = ', t, ' y = ', y
+
+  ! Iteración del método de Runge-Kutta de cuarto orden
+  DO i = 1, n_steps
+     CALL RungeKuttaStep(t, y, h_step)
+     PRINT *, 't = ', t, ' y = ', y
+  END DO
+
+CONTAINS
+
+  ! Subrutina para un paso de Runge-Kutta de cuarto orden
+  SUBROUTINE RungeKuttaStep(t, y, h)
+    REAL, INTENT(INOUT) :: t, y
+    REAL, INTENT(IN) :: h
+    REAL :: k1, k2, k3, k4
+
+    ! Cálculo de los coeficientes k1, k2, k3 y k4
+    k1 = h * f(t, y)
+    k2 = h * f(t + 0.5*h, y + 0.5*k1)
+    k3 = h * f(t + 0.5*h, y + 0.5*k2)
+    k4 = h * f(t + h, y + k3)
+
+    ! Actualización de y y t
+    y = y + (1.0 / 6.0) * (k1 + 2.0*k2 + 2.0*k3 + k4)
+    t = t + h
+
+  END SUBROUTINE RungeKuttaStep
+
+  ! Función para la EDO
+  REAL FUNCTION f(t, y)
+    REAL, INTENT(IN) :: t, y
+    f = -2.0 * t * y
+  END FUNCTION f
+
+END PROGRAM RungeKutta4
