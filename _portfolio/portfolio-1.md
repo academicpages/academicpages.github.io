@@ -45,8 +45,8 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
            . . .
            . . .
       ```
-4. From <span style="font-size:18px; color:red"> Downloaded file</span> copy code files (Included in ```detrital_ui``` folder) paste in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
-     1.  <span style="font-size:18px; color:green"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
+4. From <span style="font-size:18px; color:red"> Downloaded file</span>'s containing ```detrital_ui``` folder, copy code files and paste in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
+     1.  <span style="font-size:18px; color:blue"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
 
 
 ## Set up used
@@ -68,7 +68,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 
 ## Running a model
 
-1. Open a terminal in <span style="font-size:18px; color:green"> ANIDT4</span> containing code files of the Bayesian erosion model and activate the environment ```py2``` 
+1. Open a terminal in the folder (```detrital_ui```) of <span style="font-size:18px; color:green"> ANIDT4</span> containing code files (i.e., <span style="font-size:18px; color:blue"> Python files</span>) of the Bayesian erosion model and activate the environment ```py2``` 
 2. Run the *Bayesian erosion model* by typing ```python run.py``` and then click ```enter```
   
 
