@@ -68,7 +68,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 
 ## Running a model
 
-1. Open a terminal in a folder containing code files of the Bayesian erosion model and activate the environment ```py2``` 
+1. Open a terminal in <span style="font-size:18px; color:green"> ANIDT4</span> containing code files of the Bayesian erosion model and activate the environment ```py2``` 
 2. Run the *Bayesian erosion model* by typing ```python run.py``` and then click ```enter```
   
 
