@@ -56,8 +56,8 @@
 
   p,
   li {
-    font-family: $body-font;
-    font-size: $type-size-6;
+    font-family: $sans-serif;
+    font-size: $type-size-5;
     line-height: 1.5;
   }
 
@@ -172,8 +172,9 @@
     margin-bottom: 10px;
   }
 }
+
 .sidebar .author__name {
-  font-family: $sans-font;
+  font-family: $sans-serif;
   font-size: $type-size-5;
 }
 
@@ -324,30 +325,28 @@
   }
 }
 
-/*
-   Wide Pages
-   ========================================================================== */
+// Specific styles for TOC
+.toc {
+  font-family: $sans-serif;
+  font-size: $type-size-5;
 
-.wide .sidebar__right {
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    position: initial;
-    top: initial;
-    right: initial;
-    width: initial;
-    margin-right: initial;
-    padding-left: initial;
-    z-index: initial;
-
-    &.sticky {
-      float: none;
-    }
+  .nav__title {
+    font-size: $type-size-6;
   }
 
-  @include breakpoint($x-large) {
-    width: initial;
-    margin-right: initial;
+  .toc__menu {
+    font-size: $type-size-6;
+
+    ul {
+      padding-left: 1em;
+    }
   }
 }
 
+// Specific styles for author profile
+.author__avatar,
+.author__content,
+.author__urls-wrapper {
+  font-family: $body-font;
+  font-size: $type-size-6;
+}

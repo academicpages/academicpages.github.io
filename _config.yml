@@ -297,7 +297,8 @@ defaults:
       share: false
       related: false
       mathjax: true
-      toc: true        
+      toc: true
+      classes: wide      
   # _pages
   - scope:
       path: "_pages"
@@ -328,3 +329,4 @@ defaults:
       mathjax: true
       share: true
       toc: true
+      classes: wide

@@ -284,8 +284,7 @@ over the coming weeks are listed below (but this is by no means an exhaustive li
 1. **Public Speaking**: elevator pitch style in the early weeks to eventually being able to give rapid updates
 in the later weeks.
 2. **Writing**: Developing writing skills.
-3. **Insight Generation**: Reflecting on technologies {% sidenote '' 'here I do not just mean space technolgoies but 
-even those that you use in preparing your reports such as Github and $$\LaTeX$$' %} and the underlying
+3. **Insight Generation**: Reflecting on technologies[^a] and the underlying
 philosophy for their development.
 
 ## Informal Assessments
@@ -330,3 +329,6 @@ which QMUL students can access on QM+.
 2. If you want to look into how books such as above can inform the development of large space structures, you can
 read my paper on how to [robotically assemble 25 metre space telescopes](https://www.angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly)
 and another [CalTech/NASA-JPL paper on 80 metre telescopes](https://kiss.caltech.edu/papers/largestructure/papers/architecture.pdf).
+
+### Footnotes
+[^a]: Here, I do not just mean space technolgoies but even those that you use in preparing your reports such as Github and $$\LaTeX$$.
