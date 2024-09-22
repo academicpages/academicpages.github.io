@@ -99,7 +99,8 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
    5. Number of breaks in the exhumation model; in this uniform erosion history scenario, the break will be zero.
       ```break = 0```.
       **Note**: ```break = 1``` will be assigned for a one-break model scenario that refers to one discrete change in erosion rates through time. 
-2. For **non-uniform erosion rate scenario**, the only line of code that is required to change is the value in ```break=...```. Here, ```1``` for one-break scenario, ```2``` for two-break (two break refer to two discrete changes in erosion rate through time)
+2. For **non-uniform erosion rate scenario**, the only line of code that is required to change is the value in ```break=...```. Here, ```1``` for the one-break scenario, ```2``` for the two-break (two breaks refer to two discrete changes in erosion rate through time).
+3. The best model scenario (weather zero-break, one-break, or two-break) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit plot (Kolmogorov-Smirnov test). An overlap of these two data suites indicates an acceptable model fit. For example, the below plot displays the cumulative probability plot showing measured AFT (orange dots) and waths of modeled AFT (blue)  ages. Here, the p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered in this example is p >0.05. 
    
 # References
 
