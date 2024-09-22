@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<span style="color: red; font-weight: bold;">I am actively looking for a research scientist intern role.</span>
+
+
 I am a second-year Ph.D. student at [Mila](https://mila.quebec/en/person/hafez-ghaemi/) and [Université de Montréal](https://diro.umontreal.ca/english/home/). My primary research focus is on predictive architectures for self-supervised learning. Particularly, I am interested in building self-supervised world models that can be leveraged in perception and planning in different modalities. I am advised by [Eilif Muller](https://scholar.google.ch/citations?user=r4-NZhwAAAAJ&hl=en) and [Shahab Bakhtiari](https://scholar.google.com/citations?user=f_JDOhEAAAAJ&hl=en).
 
 
