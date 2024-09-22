@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>09/2024: Three papers are accepted at CoRL 2024.</li>
+  <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://arxiv.org/pdf/2407.01812">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
   <li>06/2024: I am proud to be part of the <a href="https://www.youtube.com/watch?v=B9g2yhHs5Wg">Khoury Story</a>!</li>
   <li>04/2024: I will be returning to the Boston Dynamic AI Institute as a summer intern.</li>
@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ![](images/equidiff.gif){: .align-right width="200px"}
 **Equivariant Diffusion Policy**  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*CoRL 2024, Munich, Germany*  
+*CoRL 2024, Munich, Germany*, ***Oral***  
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <br>
