@@ -1,6 +1,8 @@
 ---
 permalink: /
+
 title: "Siéntete como en casa! Explora y conóceme... "
+
 author_profile: true
 redirect_from: 
   - /about/
