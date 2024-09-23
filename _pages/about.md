@@ -10,15 +10,21 @@ redirect_from:
 {% newthought 'At present, I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of
 London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
 Since entering academia in 2020, I have attempted to traverse the twofold research and education
-landscape in a manner that I think can expand emphasises consciousness- both mine and
-that of those who try to work with me, especially if they are students or early career researchers.
-Exploration-based (as opposed to examination-focused) learning deviates from the conventions
-of formal academia especially because its rewards lie in non-metric achievements; this is true not
-just in academia's education component. Exploration is also eschewed in the extant populist model
-of science as research group leaders are incentivised to enhance their personal metrics by collecting
-more publications, which is a metric but not an effective measure of growth- especially of one's
-advisees{%sidenote '' 'Of course, this presumes that advisees are also self-motivated to grow.'%}.
-My conclusion is that a lot of today's professoriate are not too different from philatelists[^a].
+landscape in a manner that I think can expand consciousness- both mine and that of those who try
+to work with me. This is especially that case (I'd like to think) for students and early
+career researchers.
+
+For students, I like to emphases exploration-based learning (as opposed to ), which deviates from
+the conventions of formal academia that are examination-focused (as much as my role permits).
+The dangers of eschewing exploration in educaation is bearing the anti-fruit in the extant
+populist model of STEM research where group leaders are focused on enhancing personal metrics
+by collecting more publications in a bid to raise personal research productivity indices
+{%sidenote '' 'A classic case of Goodhart's law. These metrics are not an effective measure of
+growth- especially not of impacting on the career of advisees. Of course, this presumes advisees must
+also be self-motivated to grow.'%}. My conclusion is that a lot of today's professoriate are not
+too different from philatelists[^a] but a potential answer lies in updating incentive structures. Or
+at least clarifying them; a funder should make clear it wants only journall papers or only datasets
+or a combination of these (and other) outputs.
 
 ## My Research and Pedagogic Principle: Tasteful engineering creativity via constructivist experimentation
 My new approach to personal learning and pedagogic growth bears some parallels to Papert's
