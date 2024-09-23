@@ -60,4 +60,4 @@ science-based PhD in Mechanical and Aerospace Engineering at the University of C
 
 [^b]: The students built on prior basic knowledge of Python, $$\LaTeX$$, and Markdown but more importantly some of them learned how to thoroughly review [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls). They were able to teach their friends, via remote pair programming, how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit.
 
-[^c]: Can one teach someone how to love something?
+[^c]: Can one teach another **how** to love something?

@@ -673,19 +673,19 @@ blockquote .sidenote, blockquote .marginnote { margin-right: -79% }
 
 .sidenote-number { counter-increment: sidenote-counter; }
 
-.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
+.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter, lower-roman) " ";
                                            font-family: et-bembo-roman-old-style;
                                            color: $contrast-color; //added color
                                            position: relative;
                                            vertical-align: baseline; }
 
-.sidenote-number:after { content: counter(sidenote-counter);
+.sidenote-number:after { content: counter(sidenote-counter, lower-roman);
                          font-size: 0.8rem;
 			 color: $contrast-color;
                          top: -0.5rem;
                          left: 0.1rem; }
 
-.sidenote:before { content: counter(sidenote-counter) ".\000a0"; // this is unicode for a non-breaking space
+.sidenote:before { content: counter(sidenote-counter, lower-roman) ".\000a0"; // this is unicode for a non-breaking space
                    color: $contrast-color;
                    top: 0rem; } //removed superscripting for numerical reference in sidenote
 
@@ -755,21 +755,3 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             figure.fullwidth figcaption { margin-left: 0; }
                           }
 /*--- End of Basic Layout stuff from tufte.css ---*/
-/* Footnote styles */
-.footnote {
-  color: $muted-text-color; // or any other color variable you prefer
-  text-decoration: none;
-}
-
-.footnotes {
-  color: $muted-text-color; // or any other color variable you prefer
-}
-
-a.reversefootnote {
-  color: $muted-text-color; // or any other color variable you prefer
-  text-decoration: none;
-
-  &:hover {
-    text-decoration: underline;
-  }
-}
