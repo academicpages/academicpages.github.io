@@ -46,6 +46,15 @@ redirect_from:
     
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
 
+   <details>
+        <summary>Abstract</summary> 
+        <div class="abstract-content">
+            <p>Search and trust frictions have historically hindered the ability of small firms to access foreign input markets. We run a field experiment with 1,862 small garment firms in Senegal, in which we provide exogenous variation in search and trust frictions of interacting with suppliers in Turkey. Our search treatment connects firms to new suppliers using social media, and our two trust treatments vary the information about the types and incentives of these suppliers. To measure the impact on foreign market access, we mystery shop at all firms. Treated firms are 25% more likely to have the varieties the shopper requests and the goods supplied are 32% more likely to be high quality, driven by the search treatment. However, the trust treatments matter for longer-term outcomes: trust-treated firms are significantly more likely to develop these connections into relationships that persist beyond the study. These new relationships lead to increases in profit and sales, particularly among wholesalers.</p>
+        </div>
+    </details>
+
+
+
 4. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
