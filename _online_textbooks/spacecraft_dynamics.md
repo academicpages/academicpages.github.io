@@ -11,6 +11,12 @@ The above online textbook is most useful for QMUL's second year Aerospace Engine
 It could also be a useful resource for other educators interested in teaching orbital mechanics, especially using computational
 tools like `numpy`.
 
+## Personal Recommendation of Pre-requisites
+This is my personal list of pre-requisites (not prescribed or stated as so by my employers):
+1. An interest in space engineering.
+2. Vector algebra and basic vector differentiation.
+3. Deep familiarity of classical mechanics, especially as taught by me using symbolic modelling tools over [here](https://www.angadhn.com/ComputationalDynamics).
+
 ## Assessment Profile for QMUL course EMS515U
 All assessments are conducted on the [JupyterHub platform provided by QMUL](http://hub.comp-teach.qmul.ac.uk).
 
@@ -29,9 +35,4 @@ in the LSR period (100%).
 | Final Exam        | TBD                 | TBD                 |
 | Late Summer Resit | TBD                 | TBD                 |
 
-## Personal Recommendation of Pre-requisites
-This is my personal list of pre-requisites (not prescribed or stated as so by my employers):
-1. An interest in space engineering.
-2. Vector algebra and basic vector differentiation.
-3. Deep familiarity of classical mechanics, especially as taught by me using symbolic modelling tools over [here](https://www.angadhn.com/ComputationalDynamics).
 
