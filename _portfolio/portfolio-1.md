@@ -83,8 +83,8 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
           
 # Configuring a model
 
-<span style="font-size:18px; color:red"> Download file</span>'s ```model_setup.py``` file is used primarily to configure model for a sample (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>) for various erosion history scenarios. 
-1. To model **uniform erosion history scenario**, which refers to constant erosion rate through time, following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
+<span style="font-size:18px; color:red"> Download file</span>'s ```model_setup.py``` file is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
+1. To model **uniform erosion history scenario**, which refers to constant erosion rate through time, the following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
    1. Assign DEM file location and file name, for example, DEM file name is ```ANIDT4.xyz```
       ```bash
       catchment_1 = Catchment(hypsometry_file = "../data/ANIDT4.xyz", elevation_column = 'z')
@@ -99,7 +99,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
    5. Assign a number of breaks in the exhumation model; in this uniform erosion history scenario, the break will be zero. In ```model_setup.py``` file this is coded as ```break = 0```.
      
 2. To model **non-uniform erosion rate scenario**, which refers to variation in erosion rates through time, only the number of break parameters needed to be changed, other parameters are kept the same as was described in **uniform erosion rate scenarios**. Thus, the only line of code that is required to change is the value in ```break=...```. Here, ```1``` for the one-break scenario refers to one discrete change in erosion rates through time, and ```2``` for the two-break refers to two discrete changes in erosion rate through time.
-3. The best model scenario (whether zero-break, one-break, or two-break) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit plot (Kolmogorov-Smirnov test). An overlap of these two data suites indicates an acceptable model fit. For example, the below plot (which will be uploaded soon) displays a degree of overlap between these two; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled AFT (blue) ages. Here, the p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered in this example is p >0.05. 
+3. The best model scenario (whether zero-break, one-break, or two-break) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit plot that displays the results of Kolmogorov-Smirnov test. An overlap of these two data suites indicates an acceptable model fit. For example, the below plot (which will be uploaded soon) displays a degree of overlap between these two; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled AFT (blue) ages. Here, the p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered in this example is p >0.05. 
    
 # References
 
