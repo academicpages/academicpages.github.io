@@ -19,12 +19,13 @@ the conventions of formal academia that are examination-focused (as much as my r
 The dangers of eschewing exploration in educaation is bearing the anti-fruit in the extant
 populist model of STEM research where group leaders are focused on enhancing personal metrics
 by collecting more publications in a bid to raise personal research productivity indices
-{%sidenote '' 'A classic case of Goodhart's law. These metrics are not an effective measure of
-growth- especially not of impacting on the career of advisees. Of course, this presumes advisees must
-also be self-motivated to grow.'%}. My conclusion is that a lot of today's professoriate are not
-too different from philatelists[^a] but a potential answer lies in updating incentive structures. Or
-at least clarifying them; a funder should make clear it wants only journall papers or only datasets
-or a combination of these (and other) outputs.
+{%sidenote '' 'A classic case of Goodhart’s law. My issue is that these metrics are not an
+effective measure of the true outputs from academia- the career of advisees [^c].
+Of course, this presumes advisees must also be self-motivated to grow their opportunities.'%}.
+My conclusion is that a lot of today's professoriate are not too different from
+philatelists[^a] but a potential answer lies in updating incentive structures. Or at least
+clarifying them; a funder should make clear it wants only journall papers or only datasets or
+a combination of these (and other) outputs.
 
 ## My Research and Pedagogic Principle: Tasteful engineering creativity via constructivist experimentation
 My new approach to personal learning and pedagogic growth bears some parallels to Papert's
@@ -58,3 +59,5 @@ science-based PhD in Mechanical and Aerospace Engineering at the University of C
 [^a]: A commentary will be needed from me to clarify this as I do believe that documentation is important in STEM but more important is training future scientists to be effectively communicate in writing.
 
 [^b]: The students built on prior basic knowledge of Python, $$\LaTeX$$, and Markdown but more importantly some of them learned how to thoroughly review [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls). They were able to teach their friends, via remote pair programming, how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit.
+
+[^c]: Can one teach someone how to love something?
