@@ -755,3 +755,28 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             figure.fullwidth figcaption { margin-left: 0; }
                           }
 /*--- End of Basic Layout stuff from tufte.css ---*/
+
+.footnote {
+  color: $muted-text-color;
+  text-decoration: none;
+}
+
+.footnotes {
+  color: $muted-text-color;
+
+  ol,
+  li,
+  p {
+    margin-bottom: 0;
+    font-size: $type-size-6;
+  }
+}
+
+a.reversefootnote {
+  color: $contrast-color;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
