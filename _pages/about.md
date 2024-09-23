@@ -45,7 +45,6 @@ redirect_from:
     </details>
     
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
-
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
