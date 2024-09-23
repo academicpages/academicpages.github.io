@@ -11,27 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, May 2026 (expected)
+* Master of Business Administration (MBA), MIT Sloan School of Management, May 2026 (expected)
+* B.S. in Computer Engineering, University of California San Diego, June 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* TODO, see https://www.linkedin.com/in/junruren/details/experience/
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<!---
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -58,7 +47,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [IEEE UC San Diego Student Branch](https://ieeeucsd.org/)
+  * Chair (President), June 2017 - June 2018
+  * Technical Chair, May 2016 - June 2017
+  * Public Relations Chair, October 2015 - May 2016
+  * Staff Member, May 2015 - October 2015
