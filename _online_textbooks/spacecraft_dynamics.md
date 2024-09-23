@@ -11,6 +11,16 @@ The above online textbook is most useful for QMUL's second year Aerospace Engine
 It could also be a useful resource for other educators interested in teaching orbital mechanics, especially using computational
 tools like `numpy`.
 
+## Assessment Profile for QMUL course EMS515U
+All assessments are conducted on the [JupyterHub platform provided by QMUL](http://hub.comp-teach.qmul.ac.uk).
+
+Assessment is carried out through the following elements:
+- A coursework on orbital mechanics. This is upto and includes the lecture notes on Special Orbits (40%)
+- Final online exam in January assessment period (60%).
+
+For students requiring resits, assessment is carried out through a reassessment written exam
+in the LSR period (100%).
+
 ## Personal Recommendation of Pre-requisites
 This is my personal list of pre-requisites (not prescribed or stated as so by my employers):
 1. An interest in space engineering.
