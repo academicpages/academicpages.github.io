@@ -29,6 +29,7 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 			
 
 ## Timeline:
+- [2024/09/22] One paper ([MORe](https://arxiv.org/abs/2312.07401)) got accepted by EMNLP 2024.
 
 - [2024/05/16] Two papers ([APO](https://arxiv.org/abs/2311.08045) and [SimCAS](https://arxiv.org/pdf/2308.13191)) got accepted by ACL 2024.
 
