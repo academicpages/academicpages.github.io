@@ -21,6 +21,14 @@ Assessment is carried out through the following elements:
 For students requiring resits, assessment is carried out through a reassessment written exam
 in the LSR period (100%).
 
+### Schedule
+
+| Assessment        | Release Date        | Due Date            |
+| ----------------- | ------------------- | ------------------- |
+| Coursework 1      | 11/12/2024 at 17:00 | 16/12/2024 at 23:59 |
+| Final Exam        | TBD                 | TBD                 |
+| Late Summer Resit | TBD                 | TBD                 |
+
 ## Personal Recommendation of Pre-requisites
 This is my personal list of pre-requisites (not prescribed or stated as so by my employers):
 1. An interest in space engineering.
