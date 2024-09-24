@@ -43,6 +43,9 @@ Department of Creative Informatics, Graduate School of Information Science and T
 **Bachelor’s Degree in Engineering**, the University of Tokyo, Japan<br>
 Department of Mathematical Engineering and Information Physics, Faculty of Engineering<br>
 (東京大学 工学部 計数工学科)
+- Apr. 2016 - Mar. 2019<br>
+Aichi Prefectural Meiwa Senior High School<br>
+(愛知県立明和高等学校)
 
 
 ## Awards & Honours
