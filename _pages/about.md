@@ -38,7 +38,7 @@ Enhancing machine learning models' adaptability and effectiveness across various
 Exploring scalable solutions in machine learning.
 ### a) Model Compression & Acceleration of LLMs 
 - [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
-  _Preprint_
+  _Under review of CSUR_
 - [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v3)   
   _NeurIPS 2024_ 
 
