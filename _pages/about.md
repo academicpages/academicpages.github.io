@@ -9,7 +9,7 @@ redirect_from:
 
 -----
 Currently I am an undergraduate student at [Southeast University, China (SEU)](https://www.seu.edu.cn/english/main.htm) majoring the Electronic Science and Technology. And I am a member of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/) afflicted to the [Key Laboratory of MEMS of Ministry of Education](https://mems.seu.edu.cn/), as a research assistant supervised by [Prof. Hua Hong](https://ic.seu.edu.cn/honghua/main.htm). 
-
+---
 My research interest aligns in the sythesis and fabrication of nanomaterials, crystals. I'm pretty familiar with the semiconductor physics and soild state electronic devices. My previous research mainly focused on the nanomaterials, sensors and the applicaton of them. Also, as a student with Bsc. of the EE offers me good understanding of Digital&Analog IC, embedded system etc. It makes me have the skill to program and develop instruments or device system close to application.
 
 -----
