@@ -39,7 +39,7 @@ Miscellaneous
   * The various experiences of the last year have made me believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. 
 
 * Programming
-  * Python, OCaml,  Scala, Java, C, Isabelle/HOL(,  ALGOL 60)
+  * Python, OCaml,  Scala, Java, C, Isabelle/HOL
 * Service
   * ICFP 2023 Student Volunteer (September 2023)
   * FLOPS 2024 (May 2024) (planned)
