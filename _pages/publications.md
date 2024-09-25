@@ -5,22 +5,22 @@ author_profile: true
 ---
 
 ## Selected Preprints
-* <b>*SparseLLM*: Towards Global Pruning for Pre-trained Language Models</b>.<br>
-<b>Guangji Bai</b>, Yijiang Li, Chen Ling, Kibaek Kim, Liang Zhao.<br>
-<i>arXiv. Under review</i>.<br>
-[[paper](https://arxiv.org/pdf/2402.17946v3)][[code](https://github.com/BaiTheBest/SparseLLM)]<br>
-
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
 <i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
 
+## 2024
+* <b>*SparseLLM*: Towards Global Pruning for Pre-trained Language Models</b>.<br>
+<b>Guangji Bai</b>, Yijiang Li, Chen Ling, Kibaek Kim, Liang Zhao.<br>
+<i>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i>.<br>
+[[paper](https://arxiv.org/pdf/2402.17946v3)][[code](https://github.com/BaiTheBest/SparseLLM)]<br>
+
 * <b>Continuous Temporal Domain Generalization</b>.<br>
 Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao<br>
-<i>arXiv. Under review</i>.<br>
+<i>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i>.<br>
 [[paper](https://arxiv.org/abs/2405.16075)]<br>
 
-## 2024
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
 Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2024)</i>.<br>
