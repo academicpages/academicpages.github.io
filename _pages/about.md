@@ -20,4 +20,4 @@ News
 -----
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and present his recent work about CNT alignment.
 
-**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met Prof. Qisi Wang. His attractive research experience about unconventional superconductivity make me so impressive.
+**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met Prof. Qisi Wang. His attractive research experience about unconventional superconductivity makes me so impressive.
