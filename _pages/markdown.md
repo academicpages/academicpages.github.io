@@ -9,7 +9,7 @@ redirect_from:
 
 ## Contact Me
 -----
-Email: hyluo@seu.edu.cn or hyluo7@outlook.com
+Email: [hyluo@seu.edu.cn](hyluo@seu.edu.cn) or [hyluo7@outlook.com](hyluo7@outlook.com)
 
 Address: Southeast University, Jiulonghu Campus, IC&ESE School building, 
 
