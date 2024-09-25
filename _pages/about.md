@@ -11,13 +11,16 @@ I am a final-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 
 News
 ------
-* 2024/05: Our paper on [GNN against label noise]() has been accepted by KDD 2024.
-* 2024/03: Our paper on [diffusion model for data imputation]() has been accepted by ICLR 2024 GenAI4DM Workshop.
+* 2024/08: Our paper on [generalist graph anomaly detection](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
+* 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
+* 2024/07: Our paper on [diffusion model for data imputation](https://arxiv.org/pdf/2407.18013) has been accepted by CIKM 2024.
+* 2024/05: Our paper on [GNN against label noise](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798) has been accepted by KDD 2024.
+* 2024/03: Our paper on [diffusion model for data imputation](https://www.amazon.science/publications/self-supervision-improves-diffusion-models-for-tabular-data-imputation) has been accepted by ICLR 2024 GenAI4DM Workshop.
 * 2024/02: Our survey on [federated learning](https://arxiv.org/pdf/2102.12920.pdf) has been accepted by IJMLC.
 * 2023/12: Our paper on [graph OOD detection](https://arxiv.org/pdf/2401.06176.pdf) has been accepted by AAAI 2024.
 * 2023/11: I give an invited talk at [LoG Conference 2023 Shanghai meetup](https://log2023sh.github.io/).
 * 2023/11: Our paper on [graph+LLM](https://arxiv.org/pdf/2310.05499.pdf) has been accepted by IEEE Intelligent Systems.
-* 2023/09: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2310.16520.pdf) has been accepted by NeurIPS 2023.
+* 2023/09: Our paper on [explainable graph anomaly detection](https://arxiv.org/pdf/2310.16520.pdf) has been accepted by NeurIPS 2023.
 * 2023/09: Our survey on [data-centric graph machine learning](https://arxiv.org/pdf/2309.10979.pdf) is now on arXiv.
 * 2023/09: Our paper on [graph anomaly detection](https://arxiv.org/pdf/2310.11676.pdf) has been accepted by ICDM 2023.
 * 2023/06: We present a tutorial on [graph self-supervised learning](https://shiruipan.github.io/post/GSSL_tutorial.pdf) at IJCNN 2023.
