@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am an undergraduate student at [Southeast University, China (SEU)](https://www.seu.edu.cn/english/main.htm). And I am also a member of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/) as a research assistant.
+Currently I am an undergraduate student at [Southeast University, China (SEU)](https://www.seu.edu.cn/english/main.htm). And I am also a member of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/) afflicted to the [Key Laboratory of MEMS of Ministry of Education](https://mems.seu.edu.cn/) as a research assistant.
 
 A data-driven personal website
 ======
