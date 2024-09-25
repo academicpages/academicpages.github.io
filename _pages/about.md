@@ -22,7 +22,9 @@ Before joining Durable, I served as a post-doctoral researcher at the [Universit
     </font> 
     <br /> 
     <font size="2">
-      [Under Submission]
+      <a href="https://neurips.cc/">
+      [Neurips'24: The Thirty-eighth Annual Conference on Neural Information Processing Systems]
+      </a>
       <a href="https://arxiv.org/abs/2405.13863">
       [Arxiv]
       </a>
