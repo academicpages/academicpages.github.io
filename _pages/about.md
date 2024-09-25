@@ -28,7 +28,9 @@ Enhancing machine learning models' adaptability and effectiveness across various
 
 ### b) Domain Adaptation/Generalization
 - [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
-  _KDD 2024_  
+  _KDD 2024_
+- [**Continuous Temporal Domain Generalization**](https://arxiv.org/abs/2405.16075)   
+  _NeurIPS 2024_  
 - [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
   _ICLR 2023 (<span style="color: red;">Oral</span>)_ 
 
