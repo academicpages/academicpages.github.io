@@ -3,7 +3,7 @@ title: "Computational Spacecraft Dynamics"
 excerpt: "An introduction to spacecraft dynamics modelling and simulation."
 url: "http://www.angadhn.com/SpacecraftDynamics/introduction.html"
 ---
-## [Weblink](https://www.angadhn.com/ComputationalDynamics/kinematics/introduction.html)
+## [Weblink](https://www.angadhn.com/http://angadhn.com/SpacecraftDynamics/)
 
 ## Who might find the above link useful?
 The above online textbook is most useful for QMUL's second year Aerospace Engineering undergraduate students taking
