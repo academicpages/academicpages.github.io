@@ -12,7 +12,7 @@ title                    : "Haoyu Luo Website"
 title_separator          : "-"
 name                     : &name "Haoyu Luo 罗皓宇"
 description              : &description "RA at SEU-NPC"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hyluo7.github.io/hyluopage/"
+url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://hyluo7.github.io/hyluopage/"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyluopage/hyluo7.github.io"
 
