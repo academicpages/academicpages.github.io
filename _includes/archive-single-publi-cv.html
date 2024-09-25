@@ -1,0 +1,13 @@
+{% include base_path %}
+
+{% if post.cv_citation_authors%}
+    {% if post.custom_excerpt %}
+        <li> {{ post.cv_citation_authors }} <a href="{{ base_path }}{{ post.url }}" rel="permalink">"{{ post.title }}."</a> {{ post.cv_citation_other }} </li>
+    {% else %}
+        <li> {{ post.cv_citation_authors }} <b style="font-weight: 600;">"{{ post.title }}."</b> {{ post.cv_citation_other }} </li>
+    {% endif %}
+{% endif %} 
+
+<!-- {% if post.cv_citation_authors%}
+    <li> {{ post.cv_citation_authors }} <a href="{{ base_path }}{{ post.url }}" rel="permalink" style="color: black;">"{{ post.title }}."</a> {{ post.cv_citation_other }} </li>
+{% endif %}  -->

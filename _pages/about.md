@@ -10,13 +10,13 @@ redirect_from:
 
 
 
-Welcome to my website! I am a PhD candidate in Economics at HKUST Business School. Please see my [CV.pdf](https://zhenghua-qi.github.io/files/Curriculum_Vitae_0505.pdf) (August 2024) here.
+Welcome to my website! I am a PhD candidate in Economics at HKUST Business School.
 
 My research interests are in macroeconomics, firm dynamics, and expectations. 
 
 I received my bachelor's degree in Finance from Shandong University and my master's degree in Finance and Economics with distinction from the London School of Economics and Political Science.
 
-My contact information: zqiae@connect.ust.hk
+<!-- My contact information: zqiae@connect.ust.hk -->
 
 Please see my recent work below:
 

@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+<h2>Working Papers</h2>
+<ol style="padding-left: 20px;">
+{% for post in site.working_papers reversed %}
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
+    {% include archive-single-publi.html %}
+  </li>
+{% endfor %}
+</ol>
