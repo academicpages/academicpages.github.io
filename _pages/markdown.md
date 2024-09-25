@@ -11,7 +11,9 @@ redirect_from:
 -----
 Email: hyluo@seu.edu.cn or hyluo7@outlook.com
 
-Address: Southeast University, Jiulonghu Campus, IC&ESE School building, Jiangning, Nanjing, P.R. China
+Address: Southeast University, Jiulonghu Campus, IC&ESE School building, 
+
+Jiangning, Nanjing, P.R. China
 
 If you have any question, please do not hesitate to contact me!
 
