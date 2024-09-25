@@ -23,6 +23,12 @@ Some key outcomes include:
 - Analysing **Monte Carlo simulations** and the percentage growth of the strategies.
 
 ![Credit Risk Photo](/images/cr.png)
+<iframe
+  src="https://mybinder.org/v2/gh/misty576/Git-Repository/HEAD?labpath=voila%2Frender%2FMC_PCGrowth_NGR.ipynb"
+  width="100%"
+  height="800px"
+  frameborder="0">
+</iframe>
 
 ---
 
