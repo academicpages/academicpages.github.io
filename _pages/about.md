@@ -24,7 +24,7 @@ Some key outcomes include:
 
 ![Credit Risk Photo](/images/cr.png)
 <iframe
-  src="https://mybinder.org/v2/gh/misty576/Git-Repository/HEAD?labpath=MC_PCGrowth_NGR.ipynb"
+  src="https://mybinder.org/v2/gh/misty576/Git-Repository/HEAD"
   width="100%"
   height="800px"
   frameborder="0">
