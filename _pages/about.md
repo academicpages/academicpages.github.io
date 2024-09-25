@@ -14,7 +14,7 @@ My research interest aligns in the synthesis and fabrication of nanomaterials, c
 
 I'm seeking for a PhD position relevant with materials, electronics and the field close to them.
 -----
-For more infomation about my publications, please note my CV (pdf version).
+For more infomation about my publications, please refer to my CV (pdf version).
 
 News
 -----
