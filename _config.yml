@@ -21,12 +21,12 @@ repository               : "hyluopage/hyluo7.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : ""
+  avatar           : "hyluolabphoto.jpg"
   name             : "Haoyu Luo"
   pronouns         : # example: "she/her"  
-  bio              : "Currently RA at SEU-NPC"
+  bio              : "Currently RA at SEU-NPC, Seeking for PhD Position"
   location         : "China"
-  employer         : "Southeast University, China"
+  employer         : "EE School & IC School，Southeast University, China"
   uri              : # URL
   email            : "hyluo@seu.edu.cn" 
 
