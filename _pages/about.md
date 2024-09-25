@@ -58,9 +58,7 @@ Services and Awards
 ======
 * PC member for KDD, ICML, ICLR, AISTATS, NeurIPS, AAAI, ICDM, etc.
 * Primary writer for the NSF NAIRR 240189 grant ($15k) on parallel and distributed training of LLMs on graphs.
-* 2023 SDM student travel award
-* 2022 CIKM student travel award
-* 2022 KDD student travel award
+* KDD 22', ICLR 23', SDM 23', CIKM 23', NeurIPS 24' student travel award
 
 
 
