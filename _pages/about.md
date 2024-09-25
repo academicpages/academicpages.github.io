@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am a final-year Ph.D. student at the [Department of Computer Science, Emory University](https://www.cs.emory.edu/home/), where I am fortunate to be advised by Dr. [Liang Zhao](https://cs.emory.edu/~lzhao41/). Previously, I received my master's degree in Statistics from George Washington University in 2020. I received my bachelor's degree in Mathematics from the [School of Mathematical Science, Fudan University](https://math.fudan.edu.cn/) in Shanghai, China in 2018. I worked as a research intern at [Argonne National Laboratory](https://www.anl.gov/) and  [NEC Lab America](https://www.nec-labs.com/).
 
-[comment]: # (<code style="color : Red">News:</code> **I will join the job market in 2025. Please feel free to DM me.**)
+# (<code style="color : Red">News:</code> **I will join the job market in 2025. Please feel free to DM me.**)
 
 Research Interests
 ======
@@ -57,7 +57,7 @@ Focusing on memory-replay and neuro-inspiration approaches for continual learnin
 Services and Awards
 ======
 * PC member for KDD, ICML, ICLR, AISTATS, NeurIPS, AAAI, ICDM, etc.
-* Primary writer for the NSF NAIRR 240189 grant ($15k) on parallel and distributed training of LLMs on graphs.
+* Primary writer for the [NSF NAIRR](https://nairrpilot.org/) 240189 grant ($15k) on parallel and distributed training of LLMs on graphs.
 * KDD 22', ICLR 23', SDM 23', CIKM 23', NeurIPS 24' student travel award
 
 
