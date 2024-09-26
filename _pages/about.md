@@ -15,7 +15,7 @@ Hi there! I’m Shuyi Chen, a first-year Ph.D. student at Heinz College, Carnegi
 
 ### News
 
-- **09/2024**: Awarded with INFORMS Student Scholarship, INFORMS Workshop on Data Science 2024
-- **09/2024**: Two papers accepted by INFORMS Workshop on Data Science and the Workshop on Data Mining and Design Analysis
-- **10/2023**: Paper accepted by EMNLP 2023
-- **10/2023**: Paper accepted by NeurIPS 2023 Workshop on Frontiers
+- **09/2024**: Awarded with INFORMS Student Scholarship, INFORMS Workshop on Data Science 2024.
+- **09/2024**: Two papers accepted by INFORMS Workshop on Data Science and the Workshop on Data Mining and Design Analysis.
+- **10/2023**: Our [paper](https://arxiv.org/abs/2310.14687) got accepted by EMNLP 2023.
+- **10/2023**: Our [paper](https://arxiv.org/abs/2306.08210) got accepted by NeurIPS 2023 Workshop on Frontiers.
