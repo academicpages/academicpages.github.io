@@ -1,9 +1,9 @@
 ---
-title: "API-Assisted Code Generation for Question Answering on Arbitrarily Structured Tables"
+title: "Counterfactual Fairness through Transforming Data Orthogonal to Bias"
 collection: research
-permalink: /research/2023-06-14-API-Assisted-Code Generation-for-Question-Answering-on-Arbitrarily-Structured-Tables
+permalink: /research/2024-06-30-Counterfactual Fairness through Transforming Data Orthogonal to Bias
 excerpt: ''
-date: 2023-06-14
-venue: EMNLP
-paperurl: 'https://arxiv.org/abs/2310.14687'
+date: 2024-06-30
+venue: 
+paperurl: '[https://arxiv.org/abs/2310.14687](https://arxiv.org/abs/2403.17852)'
 ---
