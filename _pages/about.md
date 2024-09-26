@@ -15,9 +15,6 @@ Research Interests
 ======
 My research interests are in **Computational Advertising** and **Generative AI**, and broader interests include reinforcement learning, federated learning, graph neural networks and their applications in advertising, search and recommendation.    
 
-During my Ph.D., my research interests were in **Natural Language Processing** and **Computational Social Science**, especially opinion mining and opinionated text generation in low-resource scenarios (e.g., cross-domain transfer, learning with noisy labels and sequence generation with few paired data).       
-
-
 News
 =====
 * Jul. 2024: [Creative] Our *GenAI-powered Ad Creative* team was named a Top-8 candidate for the 2024 Baidu Highest Award ("百度最高奖"候选Top8). 
