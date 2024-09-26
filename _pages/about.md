@@ -19,5 +19,5 @@ Hi there! I’m Shuyi Chen, a first-year Ph.D. student at Heinz College, Carnegi
 - **10/2023**: Our [paper](https://arxiv.org/abs/2306.08210) got accepted by NeurIPS 2023 Workshop on Frontiers.
 
 ## Conferences and Workshops<span id="conferences-and-workshops"></span>
-- **Shuyi Chen**, Kaize Ding, and Shixiang Zhu. 2023. API-Assisted Code Generation for Question Answering on Varied Table Structures. In New Frontiers in Graph Learning (GLFrontiers), NeurIPS 2023, US.
+- **Shuyi Chen**, Kaize Ding, and Shixiang Zhu. 2023. Uncertainty-Aware Robust Learning on Noisy Graphs. In New Frontiers in Graph Learning (GLFrontiers), NeurIPS 2023, US.
 - Yihan Cao, **Shuyi Chen**, Ryan Liu, Zhiruo Wang, and Daniel Fried. 2023. API-Assisted Code Generation for Question Answering on Varied Table Structures. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 14536–14548, Singapore.
