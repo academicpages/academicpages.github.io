@@ -24,6 +24,8 @@ You can contact me via (yilun.jin \[at\] connect.ust.hk).
 
 News
 ======
+\[September 2024\] ShopBench, the dataset used to organize [Amazon KDD Cup 2024](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms), is accepted at **NeurIPS 2024 Datasets and Benchmarks Track**. Congratulations! 
+
 \[March 2024\] We are hosting the 🛍️**Amazon KDD Cup 2024: Multi-Task Online Shopping Challenge for LLMs** with plenty of awards. Click [here](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms) to contribute ingenious solutions 🚀! 
 
 \[September 2023\] Beginning my internship at Amazon [Rufus](https://www.aboutamazon.com/news/retail/amazon-rufus) Team!
