@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I graduated from CMU's Master of information systems management program and CUHK(SZ) with a bachelor's degree, majoring in supply chain management.
+Hi there! I’m Ryan Chen, a first-year Ph.D. student at Heinz College, Carnegie Mellon University, where I am fortunate to be advised by [Woody Zhu](https://sites.google.com/view/woodyzhu). My research spans Machine Learning (ML) and Operations Research (OR), with a focus on solving real-world problems through statistical methods.  I hold a Master's degree in Information Systems Management from CMU and a B.S. in Mathematics from the Chinese University of Hong Kong (Shenzhen)Please find my CV [here](https://drive.google.com/file/d/1eswMnsV8OjoacEdcaGIqCpmHcAN__mmW/view?usp=sharing).
 
-During my time at CMU, I had the honor to work with [Woody Zhu](https://sites.google.com/view/woodyzhu) on graph and Gaussian process projects.
-
-I am actively applying for Ph.D. programs beginning in 24 Spring or Fall in US and UK.
 
