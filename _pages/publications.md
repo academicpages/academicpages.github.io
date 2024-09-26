@@ -15,6 +15,10 @@ Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, 
 To appear in *European Conference on Conputer Systems (EuroSys)*, 2025. 
 
 ## 2024
+* **ShopBench: A Massive Multi-Task Online Shopping Benchmark for Large Language Models**<br>
+Yilun Jin, Zheng Li, Chenwei Zhang, Tianyu Cao, Yifan Gao, Pratik Sridatt Jayarao, Mao Li, Xin Liu, Ritesh Sarkhel, Xianfeng Tang, Haodong Wang, Zhengyang Wang, Wenju Xu, Jingfeng Yang, Qingyu Yin, Xian Li, Priyanka Nigam, Yi Xu, Kai Chen, Qiang Yang, Meng Jiang, Bing Yin. <br>
+To appear in *the Conference on Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track*, 2024.
+
 * **Efficient Decentralized Federated Singular Vector Decomposition** \[[pdf](https://www.usenix.org/system/files/atc24-chai.pdf)\]<br>
 Di Chai, Junxue Zhang, Liu Yang, **Yilun Jin**, Leye Wang, Kai Chen, Qiang Yang. <br>
 In *the 2024 USENIX Annual Technical Conference (ATC)*, 2024. 
