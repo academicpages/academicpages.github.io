@@ -86,7 +86,7 @@ author:
   location         :
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=culGbtkAAAAJ&hl=en"
   email            : "shuyic@alumni.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
