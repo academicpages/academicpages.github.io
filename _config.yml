@@ -27,7 +27,7 @@ author:
   bio              : "School of Big data and Computer science"
   location         : "Guiyang, Guizhou, China"
   employer         : "Guizhou Normal University"
-  uri              : https://wanganzhi.github.io  # URL
+  uri              : "https://bc.gznu.edu.cn/info/1731/16921.htm"  # URL
   email            : "andyscu@163.com" 
 
   # Academic websites
@@ -35,8 +35,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=xxx"
   baiduscholar     : "https://xueshu.baidu.com/scholarID/CN-B88N6KRJ" # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0736-2624"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  scholarmate      : "https://www.scholarmate.com/P/waz" # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=xxx"
   researchgate     : # URL
 
   # Repositories and software development
