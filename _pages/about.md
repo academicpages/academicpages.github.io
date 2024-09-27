@@ -21,6 +21,7 @@ I have been actively searching for the right mentor and project as I am very eag
 ## Recent and Selected Publications
 
 
+Conference Papers
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
@@ -94,6 +95,8 @@ I have been actively searching for the right mentor and project as I am very eag
   }
 </style>
 
+## 🎓 Conference Papers
+
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/DDPM.jpg" alt="DDPM">
@@ -159,6 +162,8 @@ I have been actively searching for the right mentor and project as I am very eag
       <p><em>Medical Imaging with Deep Learning (MIDL), 2024</em> <a href="https://openreview.net/pdf?id=kIRMpUufhm" target="_blank">[PDF]</a></p>
     </div>
 </div>
+
+## 📑 Journal Papers
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
