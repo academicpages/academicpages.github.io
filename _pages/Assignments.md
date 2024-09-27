@@ -35,7 +35,7 @@ author_profile: true
       <td>1st GA</td>
       <td>-</td>
       <td>-</td>
-      <td>Question 10 - week 2 <br> 1st GA</td>
+      <td>Question 10 (Week 2) <br> 1st GA</td>
       <td>1 point <br> 0.5 point</td>
     </tr>
     <tr>
