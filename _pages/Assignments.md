@@ -25,14 +25,14 @@ author_profile: true
     <tr>
       <td>Graded</td>
       <td>-</td>
-      <td>Full GA<span style="color: red;">^2</span></td>
+      <td>Full GA<span style="color: red;"><sup>2</sup></span></td>
       <td><strong>Exam</strong><span style="color: red;">*</span></td>
       <td>Hands in (9 weeks)</td>
       <td>-</td>
     </tr>
     <tr>
       <td>Non-Graded</td>
-      <td>-<br>1st GA<span style="color: red;">^1</span></td>
+      <td>-<br>1st GA<span style="color: red;"><sup>1</sup></span></td>
       <td>-<br>-</td>
       <td>-<br>-</td>
       <td>Question 10 (Week 2)<br>-</td>
@@ -50,7 +50,8 @@ author_profile: true
 </table>
 
 <div class="footnote">
-  <span style="color: red;">*</span>
+  <span style="color: red;">*</span> More information is available
+  <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
