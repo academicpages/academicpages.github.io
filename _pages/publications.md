@@ -4,6 +4,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<i>* equal contribution</i>.<br>
+
 ## Selected Preprints
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
@@ -17,12 +19,12 @@ author_profile: true
 [[paper](https://arxiv.org/pdf/2402.17946v3)][[code](https://github.com/BaiTheBest/SparseLLM)]<br>
 
 * <b>Continuous Temporal Domain Generalization</b>.<br>
-Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao<br>
+Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao.<br>
 <i>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i>.<br>
 [[paper](https://arxiv.org/abs/2405.16075)]<br>
 
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
-Junxiang Wang, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+Junxiang Wang*, <b>Guangji Bai*</b>, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2024)</i>.<br>
 [[paper](https://arxiv.org/abs/2312.12276)]<br>
 
@@ -44,7 +46,7 @@ Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oi
 [[paper](https://openreview.net/pdf?id=Fhx7nVoCQW)][[code](https://github.com/BaiTheBest/SHARC)]<br>
 
 * <b>Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks</b>.<br>
-<b>Guangji Bai</b>, Chen Ling*, Liang Zhao.<br>
+<b>Guangji Bai*</b>, Chen Ling*, Liang Zhao.<br>
 <i>The Eleventh International Conference on Learning Representations (ICLR 2023, Oral)</i>.<br>
 [[paper](https://openreview.net/pdf?id=sWOsRj4nT1n)][[code](https://github.com/BaiTheBest/DRAIN)]<br>
 
@@ -54,7 +56,7 @@ Chen Ling, Xujiang Zhao, Xuchao Zhang, Wei Cheng, Yanchi Liu, Yiyou Sun, Mika Oi
 [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)][[code](https://github.com/BaiTheBest/SAMC)]<br>
 
 * <b>Sign-Regularized Multi-Task Learning</b>.<br>
-<b>Guangji Bai</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.<br>
+<b>Guangji Bai*</b>, Johnny Torres*, Junxiang Wang, Liang Zhao, Carmen Vaca, Cristina Abad.<br>
 <i>SIAM International Conference on Data Mining (SDM 2023)</i>.<br>
 [[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)][[code](https://github.com/BaiTheBest/SRML)]<br>
 
@@ -80,4 +82,3 @@ Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Lian
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)][[code](https://github.com/YuyangGao/RES)]<br>
 
 
-<i>* equal contribution</i>.<br>
