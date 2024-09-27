@@ -10,15 +10,15 @@ author_profile: true
 <table>
   <thead>
     <tr>
-      <th rowspan="2">Computing factors</th>
-      <th colspan="3">Deadline/Date</th>
-      <th rowspan="2">Assignment</th>
-      <th rowspan="2">Bonus</th>
+      <th rowspan="2" style="text-align: center;">Computing factors</th>
+      <th colspan="3" style="text-align: center;">Deadline/Date</th>
+      <th rowspan="2" style="text-align: center;">Assignment</th>
+      <th rowspan="2" style="text-align: center;">Bonus</th>
     </tr>
     <tr>
-      <th>2024-05-27</th>
-      <th>2024-06-10</th>
-      <th>2024-06-25</th>
+      <th style="text-align: center;">2024-05-27</th>
+      <th style="text-align: center;">2024-06-10</th>
+      <th style="text-align: center;">2024-06-25</th>
     </tr>
   </thead>
   <tbody>
