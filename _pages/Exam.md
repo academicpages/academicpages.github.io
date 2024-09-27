@@ -1,15 +1,11 @@
 ---
-title: "Exam"
-output: 
-  html_document:
-    theme: flatly
+layout: archive
+title: ""
+permalink: /Exam/
+author_profile: true
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-options(repos = c(CRAN = "https://cran.rstudio.com/"))
-```
-
+## Exam
 ---
 The exam will take place on **Tuesday, June 25th** from **11:00 - 13:00**. The exam is on location in **Remindo**. The exam makes up **60%** of your grade, with the remainder determined by your grade for homeworks (**20%**) and the group assignment (**20%**).
 
@@ -26,6 +22,6 @@ Questions will be a combination of:
 
 A week before the exam, we will provide you with some **example exam questions** to give you a taste of what the exam will be like. This is not a practice exam, as it will be much shorter than the actual exam and will not cover all topics of the exam.
 
-Grades will be communicated on **Tuesday, July 2nd**, and the retake will take place on **Tuesday, July 9th** from **11:00 - 13:00**. 
+Grades will be communicated on **Tuesday, July 2nd**, and the retake will take place on **Tuesday, July 9th** from **11:00 - 13:00**.
 
 Note that general rules of the Faculty of Social and Behavioral Sciences for being allowed a resit hold for the **UU wide minor students**, and rules of the **Utrecht University School of Economics** for being allowed a resit hold for the **Economics students**.
