@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. student at Monash University, supervised by [Prof. Shirui Pan](https://shiruipan.github.io/), [Dr. Daokun Zhang](https://research.monash.edu/en/persons/daokun-zhang), and [A/Prof. Vincent Lee](https://research.monash.edu/en/persons/vincent-lee). I obtained my B.S. degree and M.S. degree from Beihang University in 2017 and 2020, respectively. My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
+Hi there! I am Yixin Liu, an ARC research fellow at the School of Information and Communication Technology (ICT), Griffith University, Australia, advised by [Prof. Shirui Pan](https://shiruipan.github.io/). Perious to that, I obtained my Ph.D. degree from Faculty of Information Technology, Monash University, Australia, and obtained my B.S.&M.E. degree from Beihang University, China in 2017 and 2020, respectively. My research interests are in graph representation learning and graph neural networks, with a special focus on unsupervised and weak-supervised scenarios. I am a recipient of the [Google Ph.D. Fellowship](https://research.google/outreach/phd-fellowship) in 2022.
 
 News
 ------
