@@ -21,8 +21,7 @@ I have been actively searching for the right mentor and project as I am very eag
 ## Recent and Selected Publications
 
 
-Conference Papers
-
+ 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
 
