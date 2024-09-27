@@ -188,7 +188,9 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-## 📚 Book Chapters
+
+<h3 id="Book Chapters">📚 Book Chapters</h3>
+ 
 
 # Academic Service
 
