@@ -2,6 +2,7 @@
 title: "Computational Spacecraft Dynamics"
 excerpt: "An introduction to spacecraft dynamics modelling and simulation."
 url: "http://www.angadhn.com/SpacecraftDynamics/introduction.html"
+comments : true
 ---
 ## [Weblink](http://angadhn.com/SpacecraftDynamics)
 
