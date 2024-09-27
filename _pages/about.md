@@ -174,7 +174,8 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-## 📑 Journal Papers
+
+<h3 id="journal-papers">📑 Journal Papers</h3>
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
