@@ -50,7 +50,6 @@ Selected Papers (first-author/co-first-author)
     <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
     <a href="https://github.com/yixinliu233/ARC">[Code]</a>
   </dd>
-  <dd>  </dd>
 </dl>
 
 ---
@@ -77,7 +76,6 @@ Selected Papers (first-author/co-first-author)
     <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
     <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
   </dd>
-  <dd>  </dd>
 </dl>
 
 ---
