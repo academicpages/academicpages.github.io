@@ -224,6 +224,6 @@ Experience
 
 Contact
 ------
-* Email: yixin.liu\[at\]monash\[dot\]edu
+* Email: yixin.liu\[at\]griffith\[dot\]edu\[dot\]au
 
-* Office: Level 2, 25 Exhibition Walk, Clayton, VIC 3800
+* Office: G23 2.38, 1 Parkland Dr, Southport, QLD 4215
