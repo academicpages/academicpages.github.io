@@ -1,6 +1,7 @@
 ---
 title:  "Three major issues in today's consumer Internet"
 date:   2024-02-10 22:33:30
+comments: true
 categories:
   - Social Networking
   - Internet
