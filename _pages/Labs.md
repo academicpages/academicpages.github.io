@@ -5,7 +5,7 @@ permalink: /Labs/
 author_profile: true
 ---
 
-### Labs
+## Labs
 
 | Week | Date       | Topic                                                            | Homework <span style="color:red;">*</span>      | Student zip files      | Answers              |
 |------|------------|------------------------------------------------------------------|----------------|------------------------|----------------------|
@@ -27,7 +27,7 @@ author_profile: true
   <span style="color: red;">**</span> No lab class (Ascension Day); Note: the completed homework (the whole practical) has to be handed in on Black Board and will be graded.
 </div>
 
-### Lab Meeting Instructors
+## Lab Meeting Instructors
 - [Rianne Kraakman](https://www.uu.nl/staff/AMKraakman) - UU-Wide Group (Group 2)
 - [Mariska van den Hove](https://www.uu.nl/medewerkers/MvandenHove) - UU-Wide Group (Groups 1 and 4)
 - [Dr. Anastasia Giachanou](https://www.uu.nl/staff/AGiachanou) - Economics Group (Group 1)
