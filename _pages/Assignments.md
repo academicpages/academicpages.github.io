@@ -32,10 +32,10 @@ author_profile: true
     </tr>
     <tr>
       <td>Non-Graded</td>
-      <td>--------<br>1st GA</td>
+      <td><hr style="border: 1px solid lightgray; width: 100%;"><br>1st GA</td>
       <td>-</td>
       <td>-</td>
-      <td>Question 10 (Week 2)<br>--------</td>
+      <td>Question 10 (Week 2)<br><hr style="border: 1px solid lightgray; width: 100%;"></td>
       <td>1 point <br> 0.5 point</td>
     </tr>
     <tr>
