@@ -18,10 +18,6 @@ I have been actively searching for the right mentor and project as I am very eag
 
 
 
-## Recent and Selected Publications
-
-
- 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Roboto:wght@400;500&display=swap');
 
@@ -33,16 +29,19 @@ I have been actively searching for the right mentor and project as I am very eag
   h1, h2, h3 {
     font-family: 'Open Sans', sans-serif;
   }
-  
-.under-preparing {
-    color: #007bff; /* Bootstrap primary blue for consistency or any other shade of blue you prefer */
-    font-weight: bold;
-}
 
+  /* 减少 h2 的底部间距 */
+  h2 {
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 5px; /* 将默认的底部间距设为较小的值 */
+  }
+  
+  /* 减少卡片的顶部间距 */
   .card {
     display: flex;
     align-items: flex-start;
     margin-bottom: 20px;
+    margin-top: 5px; /* 调整卡片的顶部间距 */
     border-bottom: 1px solid #ddd;
     padding-bottom: 15px;
     background-color: #fff; /* White background for cards */
@@ -94,7 +93,10 @@ I have been actively searching for the right mentor and project as I am very eag
   }
 </style>
 
-## 🎓 Conference Papers
+<!-- 确保 h2 之间没有额外的空白行，减少间距 -->
+<h2>Recent and Selected Publications</h2>
+
+<h2>🎓 Conference Papers</h2>
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
