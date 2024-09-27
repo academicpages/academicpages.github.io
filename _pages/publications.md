@@ -4,8 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-<i>* equal contribution</i>.<br>
-
 ## Selected Preprints
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
@@ -81,4 +79,5 @@ Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Lian
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<br>
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)][[code](https://github.com/YuyangGao/RES)]<br>
 
+<i>* equal contribution</i>.<br>
 
