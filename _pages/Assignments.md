@@ -12,7 +12,7 @@ author_profile: true
     <tr>
       <th rowspan="2" style="text-align: center;">Computing factors</th>
       <th colspan="3" style="text-align: center;">Deadline/Date</th>
-      <th rowspan="2" style="text-align: center;">Homework<span style="color: red;"><sup>4</sup></span></th>
+      <th rowspan="2" style="text-align: center;">Homework</th>
       <th rowspan="2" style="text-align: center;">Bonus</th>
     </tr>
     <tr>
@@ -27,7 +27,7 @@ author_profile: true
       <td>-</td>
       <td>Full GA<span style="color: red;"><sup>2</sup></span></td>
       <td><strong>Exam</strong><span style="color: red;"><sup>3</sup></span></td>
-      <td>Hands in (9 weeks)</td>
+      <td>Hands in (9 weeks)<span style="color: red;"><sup>4</sup></span></td>
       <td>-</td>
     </tr>
     <tr>
