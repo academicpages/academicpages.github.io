@@ -42,6 +42,45 @@ Selected Papers (first-author/co-first-author)
 ------
 
 <dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/arc.png"></dt>
+  <dd><strong>ARC: A Generalist Graph Anomaly Detector with in-Context Learning</strong></dd>
+  <dd><strong>Yixin Liu</strong>, Shiyuan Li, Yu Zheng, Qingfeng Chen, Chengqi Zhang, Shirui Pan</dd>
+  <dd> Advances in Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2405.16771.pdf">[Paper]</a> 
+    <a href="https://github.com/yixinliu233/ARC">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/simpdm.png"></dt>
+  <dd><strong>Self-supervision Improves Diffusion Models for Tabular Data Imputation</strong></dd>
+  <dd><strong>Yixin Liu</strong>, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen</dd>
+  <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2407.18013.pdf">[Paper]</a> 
+    <a href="https://github.com/yixinliu233/SimpDM">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
+  <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/mqe.png"></dt>
+  <dd><strong>Noise-Resilient Unsupervised Graph Representation Learning via Multi-Hop Feature Quality Estimation</strong></dd>
+  <dd>Shiyuan Li*, <strong>Yixin Liu</strong>*, Qingfeng Chen, Geoffrey I Webb, Shirui Pan</dd>
+  <dd> ACM International Conference on Information & Knowledge Management (<strong>CIKM</strong>), 2024</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2407.19944.pdf">[Paper]</a> 
+    <a href="https://github.com/Shiy-Li/MQE">[Code]</a>
+  </dd>
+</dl>
+
+---
+
+<dl>
   <dt><img align="left" width="200" hspace="10"  wspace="20" src="/images/signet.png"></dt>
   <dd><strong>Towards Self-Interpretable Graph-Level Anomaly Detection</strong></dd>
   <dd><strong>Yixin Liu</strong>, Kaize Ding, Qinghua Lu, Fuyi Li, Leo Yu Zhang, Shirui Pan</dd>
