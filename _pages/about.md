@@ -120,6 +120,14 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+![](images/haojie_match.png){: .align-right width="200px"}
+**MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
+Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
+*Preprint*,  
+<button class="button-4" onclick="window.open('https://haojhuang.github.io/match_page/','_blank')">Webpage</button>
+<button class="button-4" onclick="window.open('https://www.arxiv.org/pdf/2409.15517','_blank')">PDF</button>
+<br>
+
 ![](images/equidiff.gif){: .align-right width="200px"}
 **Equivariant Diffusion Policy**  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
