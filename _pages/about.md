@@ -12,6 +12,7 @@ I am a final-year Ph.D. student at Monash University, supervised by [Prof. Shiru
 News
 ------
 * 2024/09: Our paper on [generalist graph anomaly detection with in-context learning](https://arxiv.org/pdf/2405.16771) has been accepted by NeurIPS 2024.
+* 2024/08: Our paper on [data-efficient graph learning](https://arxiv.org/pdf/2405.16771) has been accepted by AI Magazine.
 * 2024/07: Our paper on [graph representation learning](https://arxiv.org/pdf/2407.19944) has been accepted by CIKM 2024.
 * 2024/07: Our paper on [data imputation](https://arxiv.org/pdf/2407.18013) has been accepted by CIKM 2024.
 * 2024/05: Our paper on [GNN against label noise](https://dl.acm.org/doi/pdf/10.1145/3637528.3671798) has been accepted by KDD 2024.
