@@ -12,7 +12,7 @@ author_profile: true
     <tr>
       <th rowspan="2" style="text-align: center;">Computing factors</th>
       <th colspan="3" style="text-align: center;">Deadline/Date</th>
-      <th rowspan="2" style="text-align: center;">Homework<span style="color: red;">**</span></th>
+      <th rowspan="2" style="text-align: center;">Homework<span style="color: red;"><sup>4</sup></span></th>
       <th rowspan="2" style="text-align: center;">Bonus</th>
     </tr>
     <tr>
@@ -26,7 +26,7 @@ author_profile: true
       <td>Graded</td>
       <td>-</td>
       <td>Full GA<span style="color: red;"><sup>2</sup></span></td>
-      <td><strong>Exam</strong><span style="color: red;">*</span></td>
+      <td><strong>Exam</strong><span style="color: red;"><sup>3</sup></span></td>
       <td>Hands in (9 weeks)</td>
       <td>-</td>
     </tr>
@@ -49,20 +49,22 @@ author_profile: true
   </tbody>
 </table>
 
+
+
 <div class="footnote">
-  <span style="color: red;">*</span> More information is available
+  <span style="color: red;"><sup>1</sup></span> Part 1 Group Assignmen.
+</div>
+
+<div class="footnote">
+  <span style="color: red;"><sup>2</sup></span> Full Group Assignmen.
+</div>
+
+<div class="footnote">
+  <span style="color: red;"><sup>3</sup></span> More information is available
   <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;">**</span> More information is available
+  <span style="color: red;"><sup>4</sup></span> More details are available
   <a href="https://tshahedi.github.io/adav-course/Labs/" target="_blank">here</a>.
-</div>
-
-<div class="footnote">
-  <span style="color: red;">^1</span> Part 1 Group Assignmen.
-</div>
-
-<div class="footnote">
-  <span style="color: red;">^2</span> Full Group Assignmen.
 </div>
