@@ -9,7 +9,7 @@ redirect_from:
 
 Hello everyone, I am Mary, and most recently, I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
 
-I absolutely admire abstraction, photography, paintings, films, mathematics, physics, astrology, neurology, cybersecurity, etc. 
+I absolutely admire abstraction, photography, paintings, films, music, mathematics, physics, astrology, neurology, cybersecurity, etc. 
 
 I am a world traveler, and in my spare time, I love to try different cuisines and understand the countries/states' history. Also, I value trying and tasting different kinds of incredibly delicious foods! 
 
