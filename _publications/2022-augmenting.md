@@ -1,5 +1,5 @@
 ---
-title: "Augmenting perception: How artificial intelligence transforms sensory substitutio"
+title: "Augmenting perception: How artificial intelligence transforms sensory substitution"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-augmenting
