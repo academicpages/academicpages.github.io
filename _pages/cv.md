@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!--
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+--->
 * M.S. in Computer Science, California State University, Los Angeles, 2024
 * B.S. in Computer Science, California State University, Los Angeles, 2022
 
