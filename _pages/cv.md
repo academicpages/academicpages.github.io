@@ -14,15 +14,17 @@ Education
 <!--
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)  
 --->
-* M.S. in Computer Science, California State University, Los Angeles, 2024
-* B.S. in Computer Science, California State University, Los Angeles, 2022
+* M.S. in Computer Science, California State University Los Angeles, 2024
+* B.S. in Computer Science, California State University Los Angeles, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2023: Network Security Graduate Assistant
+  * California State University Los Angeles
+  * Duties includes:
+  ** Assisted a Computer Science Professor at Cal State LA in a Computer & Network Security class with 60 students, focusing on network security tools, and supported students in installing and configuring intrusion detection systems, firewalls, and VPNs, among other technologies.
+  **Collaborating with the professor with additional support and contributing to academic education through laboratory work, special projects, and various educational activities, giving students positive feedback, grading their assignments, and enhancing the student's understanding of network security concepts and beyond. 
+  * Supervisor: Edmund Gean
 
 * Fall 2015: Research Assistant
   * Github University
