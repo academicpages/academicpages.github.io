@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Mary Semerdjian"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "she/her"  
+  bio              : "Computer Scientist"
   location         : "Earth"
   employer         : "California State University, Los Angeles"
   uri              : # URL
