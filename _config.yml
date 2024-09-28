@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Louis Longin"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor. Philosophy of Data Ethics and Governance."
   location         : "Munich (Germany)"
-  employer         : "Ludwig-Maximilians-University"
+  employer         : "LMU Munich"
   uri              : # URL
   email            : "louis.longin@lmu.de" 
 
