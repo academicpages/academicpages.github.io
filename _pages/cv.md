@@ -19,20 +19,20 @@ Education
 
 Work experience
 ======
-* Fall 2023: Network Security Graduate Assistant
+* Aug 2023 - Dec 2023: Network Security Graduate Assistant
   * California State University Los Angeles
   * Duties includes: Assisted a Computer Science Professor at Cal State LA in a Computer & Network Security class with 60 students, focusing on network security tools, and supported students in installing and configuring intrusion detection systems, firewalls, and VPNs, among other technologies. Collaborating with the professor with additional support and contributing to academic education through laboratory work, special projects, and various educational activities, giving students positive feedback, grading their assignments, and enhancing the student's understanding of network security concepts and beyond. 
-  * Supervisor: Edmund Gean
+  * Supervisor: Professor Edmund Gean
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2023 - May 2024: Master Thesis
+  * California State University Los Angeles
+  * Duties included: Wrote a Master Thesis under the supervision of Dr. Zilong Ye with the title of the paper ‘Applying Machine Learning Tools for Real-World DDoS Detection’ using two datasets. 
+  * Supervisor: Professor Zilong Ye
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Aug 2021 - May 2022: Senior Capstone Project | Professor. Mathias Brieu (BIOMEDICAL) 
+  * California State University Los Angeles
+  * Duties included: Learned the basics of 3-D modeling using 3D Slicer, 3-D visualization software, and experimenting with Nvidia AIAA, an API that allows users to conveniently create 3-D model objects using trained data to automate it. Focused on creating our own AI model and training it using our data – MRI images of pelvic organs and, lastly, training our own AI model using Clara Train SDK. 
+  * Supervisor: Professor Negin Forouzesh
   
 Skills
 ======
@@ -49,7 +49,9 @@ Skills
 * Network Scanner
   * Nmap
 * Network Intrusion Detection System
-  * Snort   
+  * Snort
+* Medical - Biomedical Software
+  * 3D Slicer
 
 <!-- Publications
 ======
