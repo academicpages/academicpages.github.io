@@ -1,12 +1,43 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mary Semerdjian - Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+Hello everyone, I am Mary, and most recently, I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
+
+Here is a list of what I am skilled in:
+· Programming Languages: C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift
+· Operating Systems: Windows, Linux, Mac OS X
+· Web Development: HTML/CSS, Bootstrap, JavaScript, PHP
+· Database Systems: MySQL, MongoDB, phpMyAdmin
+· Network Security: Cisco
+· Network Scanner: Nmap
+· Penetration Testing: Metasploit
+· Network Intrusion Detection System: Snort
+
+I absolutely admire abstraction, photography, paintings, films, mathematics, physics, astrology, neurology, cybersecurity, etc. 
+
+I am a world traveler, and in my spare time, I love to try different cuisines and understand the countries/states' history. Also, I value trying and tasting different kinds of incredibly delicious foods! 
+
+“’Eat your food with joy and drink your wine with merry heart’ Ecclesiastes 9:7.” 
+
+I love to visit monasteries, ancient ruins -- church ruins -- churches. 
+
+I love to watch films, and some of my favorite movies are Doctor Zhivago, The 10th Victim, The Color of Pomegranate, Rebel Without a Cause, Breakfast at Tiffany's, and much more.
+
+I am an avid hiker and have hiked many places, yet I have discovered human nature and the world. 
+
+Also, I love to visit the desert and mountains.
+
+My favorite hiking places were the Armenian mountains, Mount Sinai, and camel trekking in the Sahara desert.
+ 
+I love to meet new people, and if you're reading this, then nice to meet you!
+
+<!--
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +78,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+--->
