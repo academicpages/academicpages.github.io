@@ -299,7 +299,8 @@ defaults:
       mathjax: true
       toc: true
       comments: true
-      classes: wide      
+      classes: wide
+      comments: true        
   # _pages
   - scope:
       path: "_pages"
@@ -316,6 +317,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: true        
   # _online_textbooks
   - scope:
       path: ""
@@ -329,3 +331,4 @@ defaults:
       share: true
       toc: true
       classes: wide
+      comments: true
