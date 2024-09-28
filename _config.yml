@@ -297,6 +297,7 @@ defaults:
       related: false
       mathjax: true
       toc: true
+      comments: true
       classes: wide      
   # _pages
   - scope:
