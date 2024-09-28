@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mary's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Mary Semerdjian"
 description              : &description "personal description"
