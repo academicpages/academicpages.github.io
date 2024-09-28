@@ -10,7 +10,8 @@ redirect_from:
 Hello everyone, I am Mary, and most recently, I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
 
 Here is a list of what I am skilled in:
-<br >Programming Languages: C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, and Juputer Notebook<br />
+#### Programming Languages: 
+C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, and Juputer Notebook<br />
 - Operating Systems: Windows, Linux, Mac OS X
 - Web Development: HTML/CSS, Bootstrap, JavaScript, PHP
 - Database Systems: MySQL, MongoDB, phpMyAdmin
