@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am presently enrolled in a Master's program at the University of Zurich, majored in Computational Linguistics and minored in Data Science. I am interested in Multilingual NLP and Model Interpretability.
+I am currently pursuing a Master's degree at the University of Zurich, with a major in Computational Linguistics and a minor in Data Science. My research interests lie in Multilingual NLP, model interpretability, and ensuring the reliability of NLP models.
 
 ---
