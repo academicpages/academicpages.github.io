@@ -10,14 +10,13 @@ redirect_from:
 Hello everyone, I am Mary, and most recently, I graduated with a Master of Science in Computer Science. I have a passion for computers. I have many computer skills, knowledge, and fundamentals. In my spare time, I love reading and learning new things I have never tried. 
 
 Here is a list of what I am skilled in:
-#### Programming Languages: 
-C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, and Juputer Notebook<br />
-- Operating Systems: Windows, Linux, Mac OS X
-- Web Development: HTML/CSS, Bootstrap, JavaScript, PHP
-- Database Systems: MySQL, MongoDB, phpMyAdmin
-- Network Security: Cisco
-- Network Scanner: Nmap
-- Network Intrusion Detection System: Snort
+1) Programming Languages: C++, C, Java, JavaScript, Python, SQL, Haskell, Kotlin, BASIC, Swift, and Juputer Notebook
+2) Operating Systems: Windows, Linux, Mac OS X
+3) Web Development: HTML/CSS, Bootstrap, JavaScript, PHP
+4) Database Systems: MySQL, MongoDB, phpMyAdmin
+5) Network Security: Cisco
+6) Network Scanner: Nmap
+7) Network Intrusion Detection System: Snort
 
 I absolutely admire abstraction, photography, paintings, films, mathematics, physics, astrology, neurology, cybersecurity, etc. 
 
