@@ -1,4 +1,5 @@
 _site/
+_code/.ipynb_checkpoints
 
 .DS_Store
 assets/.DS_Store
