@@ -3,7 +3,7 @@ title: "Towards a Middle-Ground Theory of Agency for Artificial Intelligence"
 collection: publications
 category: conferences
 permalink: /publication/2020-ai-agency
-excerpt: ''
+excerpt: 'The paper proposes a middle-ground theory of agency for artificial intelligence that balances between attributing too much or too little agency to AI systems'
 date: 2020-09-01
 venue: 'Journal 1'
 paperurl: 'https://louislongin.github.io/files/longin2020agency.pdf'
