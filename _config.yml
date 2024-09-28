@@ -293,7 +293,6 @@ defaults:
       layout: single
       author_profile: false
       read_time: true
-      comments: # true
       share: false
       related: false
       mathjax: true
@@ -315,7 +314,6 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: # true
   # _online_textbooks
   - scope:
       path: ""
@@ -324,7 +322,6 @@ defaults:
       layout: single  # Or another layout if needed
       author_profile: false
       read_time: true
-      comments: true
       related: false
       mathjax: true
       share: true
