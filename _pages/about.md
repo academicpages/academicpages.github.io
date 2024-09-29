@@ -16,6 +16,3 @@ You can find my CV here: [SENLIN LIU(eliot)'s Curriculum Vitae](../assets/CV(Liu
 [Email](eliotlyu@gmail.com) / [Github]([https://github.com/eliotlyu.github.io/]) / [Wechat](../images/wechat.jpg) / 
 
 
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
