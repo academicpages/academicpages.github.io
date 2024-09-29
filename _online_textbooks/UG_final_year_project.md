@@ -2,7 +2,6 @@
 title: "Final Year Project: Space Station Design"
 excerpt: "An introduction to multibody dynamics and the use of symbolic computation in modelling them."
 mathjax: true
-url: "https://qmplus.qmul.ac.uk/course/view.php?id=22090"
 ---
 
 {% marginfigure 'mf-id-1' 'assets/imgs/HQ_Final_Logo_for_light_theme.png' 'Logo for SpaceHQ.

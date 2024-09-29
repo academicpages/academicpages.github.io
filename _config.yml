@@ -316,8 +316,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
       comments: true        
+      share: true
   # _online_textbooks
   - scope:
       path: ""
@@ -329,6 +329,6 @@ defaults:
       related: false
       mathjax: true
       share: true
+      comments: true        
       toc: true
       classes: wide
-      comments: true
