@@ -4,7 +4,7 @@ collection: Master Thesis
 category: Thesis
 date: 2024-02-17
 ---
-
+[Graphical Abstract](../images/GraphicalAbstract.png)/ 
 ABSTRACT:
 The purpose of this study is to investigate the effect of Exercise Snack-type Resistance Training on changes in Body Composition, Muscle Strength(1RM-leg pressure, 1RM-45oC seated row), blood variables (TG, TC, HDL-C, LDL-C), hs-CRP, and Cortisol levels in men in their 20s. To conduct 
 this study, 10 males in their 20s with a BMI of 25kg/m2 or more and a Body fat (%) of 25% or more, who had no special medical condition and 
