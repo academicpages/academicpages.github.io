@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Senlin Liu"
   pronouns         : # example: "she/her"  
   bio              : "Yonsei University"
   location         : "China GuangZhou"
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         :  "柳森林"
+  linkedin         :  "https://www.linkedin.com/in/%E6%A3%AE%E6%9E%97-%E6%9F%B3-920753318/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
