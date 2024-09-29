@@ -35,7 +35,7 @@ Work experience
   * Duties included: Learned the basics of 3-D modeling using 3D Slicer, 3-D visualization software, and experimenting with Nvidia AIAA, an API that allows users to conveniently create 3-D model objects using trained data to automate it. Focused on creating our own AI model and training it using our data – MRI images of pelvic organs and, lastly, training our own AI model using Clara Train SDK. 
   * Advisor: Dr. Negin Forouzesh
   * Sponsored: Dr. Mathias Brieu (Biomedical)
-  * Link to Senior Capstone Project [(Click Here https://csns.cysun.org/department/cs/project/view?id=7873479)]
+  * Link to Senior Capstone Project [Click Here] (https://csns.cysun.org/department/cs/project/view?id=7873479))
   
 Skills
 ======
