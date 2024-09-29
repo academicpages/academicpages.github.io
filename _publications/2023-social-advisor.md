@@ -3,7 +3,7 @@ title: "The Social Role of AI Advisers"
 collection: publications
 category: books
 permalink: /publication/2023-social-advisor
-excerpt: 'Even basic AI assistants are perceived as sharing responsibility with their human users for outcomes, despite being viewed as tools, while non-AI tools are not held responsible.'
+excerpt: 'This book examines the ontological status of AI advisers, arguing that they occupy a unique conceptual space between tools and human agents in terms of their agentive capacities, responsibility attribution, and ability to influence human perception and decision-making.'
 date: 2023-11-19
 venue: 'Georg Olms Verlag'
 paperurl: 'http://louislongin.github.io/files/longin2023social.pdf'
