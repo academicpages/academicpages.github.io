@@ -10,7 +10,7 @@ redirect_from:
 -----
 Currently I am an undergraduate student at [Southeast University, China (SEU)](https://www.seu.edu.cn/english/main.htm) majoring in the Electronic Science and Technology. And I am a member of [SEU-FEI Nano-Pico Center](http://www.seu-npc.com/) affiliated to the [Key Laboratory of MEMS of Ministry of Education](https://mems.seu.edu.cn/), as a research assistant supervised by [Prof. Hua Hong](https://ic.seu.edu.cn/honghua/main.htm). 
 
-My research interest aligns in the synthesis and fabrication of nanomaterials, crystals, and the application of devices. I'm pretty familiar with the semiconductor physics and soild state electronic devices. My previous research mainly focused on the nanomaterials, sensors and the applicaton of them. Also, as a student with B.S. of the EE, it offers me good understanding of Digital & Analog IC, embedded system etc. So I have profound skills like programmingand and developing instruments or device system close to application.
+My research interest aligns in the synthesis and fabrication of nanomaterials, crystals, and the application of devices. I'm pretty familiar with the semiconductor physics and soild state electronic devices. My previous research mainly focused on the nanomaterials, sensors and the applicaton of them. Also, as a student with B.S. of the EE, it offers me good understanding of Digital & Analog IC, embedded system etc. So I have profound skills like programming and developing instruments or device system close to application.
 
 I'm seeking for a PhD position relevant with materials, electronics and the field close to them.
 -----
@@ -24,4 +24,4 @@ News
 
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
 
-**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive research in [his group](https://qmcuhk.github.io/) experience about unconventional superconductivity and crystal growth so impressive.
+**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive research in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth so impressive.
