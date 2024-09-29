@@ -10,9 +10,9 @@ redirect_from:
 Welcome to Pengyu Cheng's homepage!
 
 
-I am a senior researcher at Tencent AI Lab, working on LLM training, AI agents, and dialogue systems. I have been experienced in research and projects about controllable generation, interpretability, and fairness of NLP. Besides, I have broad interests in probabilistic and information-theoretic machine learning methods.
+I am a senior researcher at Tencent AI Lab, working on LLM training, AI agents, and dialogue systems. I have experience in research and projects related to controllable generation, interpretability, and fairness of NLP. Besides, I have broad interests in probabilistic and information-theoretic machine learning methods.
 
-I received my Ph.D. degree from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. degree from the Department of Mathematical Sciences at Tsinghua University in 2017.
+I received my Ph.D. from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at Tsinghua University in 2017.
 
 ## Selected Publications:
 
@@ -29,11 +29,13 @@ I received my Ph.D. degree from the Department of Electric and Computer Engineer
 			
 
 ## Timeline:
-- [2024/09/22] One paper ([MORe](https://arxiv.org/abs/2312.07401)) got accepted by EMNLP 2024.
+- [2024/09/26] One LLM self-play paper ([SPAG](https://arxiv.org/pdf/2404.10642)) got accepted by NeurIPS 2024.
 
-- [2024/05/16] Two papers ([APO](https://arxiv.org/abs/2311.08045) and [SimCAS](https://arxiv.org/pdf/2308.13191)) got accepted by ACL 2024.
+- [2024/09/22] One RLHF paper ([MORe](https://arxiv.org/abs/2312.07401)) got accepted by EMNLP 2024.
 
-- [2023/01/21] Two co-first-author papers got accepted by AISTATS 2023.
+- [2024/05/16] Two LLM papers ([APO](https://arxiv.org/abs/2311.08045) and [SimCAS](https://arxiv.org/pdf/2308.13191)) got accepted by ACL 2024.
+
+- [2023/01/21] Two co-first-author papers ([TC-estimation](https://arxiv.org/pdf/2011.04794.pdf) and [FairTextGen](https://proceedings.mlr.press/v206/wang23c/wang23c.pdf)) got accepted by AISTATS 2023.
 
 - [2022/02/28] One paper ([SoTead](https://arxiv.org/abs/2203.05744)) got accepted by findings of ACL 2022.
 
