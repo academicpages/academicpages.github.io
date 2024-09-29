@@ -52,19 +52,17 @@ author_profile: true
 
 
 <div class="footnote">
-  <span style="color: red;"><sup>1</sup></span> Part 1 Group Assignmen.
+  <span style="color: red;"><sup>1</sup></span> Part 1 Group Assignmen. Find more information <a href="https://tshahedi.github.io/adav-course/files/1stGA.html" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>2</sup></span> Full Group Assignmen.
+  <span style="color: red;"><sup>2</sup></span> Full Group Assignmen. Find more information <a href="https://tshahedi.github.io/adav-course/files/FullGA.html" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>3</sup></span> More information is available
-  <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
+  <span style="color: red;"><sup>3</sup></span> Find more information <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>4</sup></span> More details are available
-  <a href="https://tshahedi.github.io/adav-course/Labs/" target="_blank">here</a>.
+  <span style="color: red;"><sup>4</sup></span> Further details are available <a href="https://tshahedi.github.io/adav-course/Labs/" target="_blank">here</a>.
 </div>

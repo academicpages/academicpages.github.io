@@ -1,0 +1,244 @@
+---
+title: "" 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+```
+
+## **Group assignment - part 1**
+___
+
+In this first part of your group assignment, you will both visualize data and analyze data using linear regression ‘plus plus’. That is, linear regression analysis on a dataset with many predictors which makes use of subset selection or shrinkage methods, and it is tested how well the model fits the data. When finalizing the complete group assignment (later on in this course), you will use these basics to construct interactive visualizations.
+
+The assignment is to be worked on in threes or fours, for which you will receive the group division from your lab instructor. For this assignment, you will use one of the six datasets which can be found [here](https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip), each of which are outlined in brief below. Each of these datasets has a large number of variables, and it is up to you which variables you will use/not use within your visualization and analysis process. Below you will find a step-by-step walkthrough for the assignment.
+
+The deadline for handing in this first part of Group Assignment is on **Monday May 27th (end of the day)**. Note that handing in part 1 of Group Assignment is not mandatory, and will only be graded with a pass/fail grade. However, you will receive valuable feedback on your progress from your lab instructor which you can use to improve your final submitted Group Assignment. In addition, it will help you to already finish a part of the full Group Assignment which is a larger assignment. If you make a serious attempt, you will receive a **bonus of 0.5** that will be added towards your grade of the Full Group Assignment.
+
+The assignment should be uploaded on BB as a zip file, which contains the following:
+
+- a .Rproj file;
+- a raw Rmarkdown file (.Rmd);
+- a .html compiled Rmarkdown file;
+- a copy of the data you used.
+
+When all these files are present and correct, your instructor should be able to compile your .Rmd file to a .html file with only the files you included.
+
+At the bottom of the assignment, please include a **sentence stating each student’s contribution towards the end product (e.g., which student completed what tasks). Please also mention whether you used any AI tool or not; in case you did use, mention which one and how did you use it**. For collaborative efforts, tasks can be repeated over multiple students. In the extreme case of very diverging unique contributions, the coordinator has the possibility to differentiate the grading over students within a group.
+
+### **Step 1**:
+
+Select one of the provided datasets, and as a group select which variables you wish to use. You are welcome to use as many of the provided variables in the dataset as you like, however it is not expected for you to use all variables, so select those which you feel are best able to use.
+
+### **Step 2**:
+
+Explore and learn about the structure of your data by constructing visualizations. Select a minimum of 2 and maximum of 3 graphs to illustrate your data in your final report.
+
+### **Step 3**:
+
+Based on the content of your data and the visualizations you constructed, formulate 1 research question that you will investigate using linear regression - data science style. That is, in the linear regression, make use of either best subset selection or shrinkage methods (Ridge regression or Lasso). Select the best linear model appropriately. To ensure reproducibility of your findings, please make sure to use set.seed() in your R code.
+
+### **Step 4**:
+
+Present your results in an R markdown file. In the R markdown file, the visualizations and analysis work that you did are presented in a logical order and are combined with a description of the data, a description of the steps you have taken, the research questions you formulated, and your results and conclusions regarding the research question.
+
+In the compiled R markdown file (that is, the .html file), show both your used R code (that is, include the R code chunks) and the output. Show all your work in the Rmarkdown file, this includes any preprocessing of the used data (e.g., steps you have taken to be able to work with the data).
+
+### **Grading**
+
+Your pass/fail grade, the 0.5 bonus grade, and provided feedback will center on:
+
+- Quality and appropriateness of the data visualizations;
+- Formulation of a fitting and clear research question;
+- Quality of the performed regression analysis and analysis choices made;
+- Quality of the interpretation of the model results and drawn conclusions;
+- Quality of the R code;
+- Overall quality of the report and presentation of the results.
+
+Note: Making the assignment alone is not allowed. Students have to stay in their assigned groups.
+
+### **Datasets**:
+
+All datasets can be accessed [here], a brief description of each can be found below:
+
+#### **1. World Bank Indictors (WDB.csv)**
+
+This dataset of different global indicators from the World Bank Open Data, which includes data from over 200 countries from the 1960s - 2019. This contains the following variables:
+
+- Country Name (Country Name)
+- Country Code (Country Code)
+- Continent (Continent)
+- Year (Year)
+- Population (Pop)
+- Female Population (Pop.fe)
+- Male Population (Pop.ma)
+- Birth Rate, crude per 1000 people (birthrate)
+- Death Rate, crude per 1000 people (deathrate)
+- Life Expectancy at Birth in years (lifeexp)
+- Female Life Expectancy at Birth in years (lifeexp.fe)
+- Male Life Expectancy at Birth in years (lifeexp.ma)
+- Educational Spending, percentage of GDP (ed.spend)
+- Compulsory Education Duration in Years (ed.years)
+- Labour Force Total (labour)
+- Literacy Rate in adults, percentage % (lit.rate.per)
+- CO2 Emissions, kt (co2)
+- Gross Domestic product, $ (gdp)
+- Unemployment, percentage of total labour force (unemp)
+- Female Unemployment, percentage of total labour force (unemp.fe)
+- Male Unemployment, percentage of total labour force (unemp.ma)
+- Health Expenditure per capita, $ (health.exp)
+- Hospital Beds per 1000 people (medbeds)
+- Number of Surgical Procedures per 1000 people (surg.pro)
+- Number of Nurses & Midwives per 1000 people (nurse.midwi)
+
+#### **2. College Basketball Dataset (colbaskdat.csv)**
+
+This is a dataset from the 2015-2020 Division I college basketball (USA), provided by [Kaggle](https://www.kaggle.com/andrewsundberg/college-basketball-dataset). It contains the following variables:
+
+- Ranking (RK): The ranking of the team at the end of the regular season
+- Team (TEAM): The Division I college basketball school
+- Athletic Conference (CONF): The league the school participates in
+- Number of Games Played (G)
+- Number of Games Won (W)
+- Adjusted Offensive Efficiency (ADJOE)
+- Adjusted Defensive Efficiency (ADJDE)
+- Power Rating (BARTHAG)
+- Effective Field Goal Percentage Shot (EFG_0)
+- Effective Field Goal Percentage Allowed (EFG_D)
+- Turnover Percentage Allowed (TOR)
+- Turnover Percentage Committed (TORD)
+- Offensive Rebound Percentage (ORB)
+- Defensive Rebound Percentage (DRB)
+- Free Throw Rate (FTR)
+- Free Throw Rate Allowed (FTRD)
+- Two-Point Shooting Percentage (2P_O)
+- Two-Point Shooting Percentage Allowed (2P_D)
+- Three-Point Shooting Percentage (3P_O)
+- Three-Point Shooting Percentage Allowed (3P_D)
+- Adjusted Tempo (ADJ_T)
+- Wins Above Bubble (WAB)
+- Post Season (POSTSEASON)
+- Seed in the NCAA (SEED)
+- Season/Year (Year)
+
+#### **3. Spotify - Top 2000 (Spotify-2000.csv)**
+
+This is a dataset which contains the audio statistics from the top 2000 tracks on Spotify, provided by [Kaggle](https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset). This contains the following variables:
+
+- Index: ID
+- Title: Name of the Track
+- Artist: Name of the Artist
+- Top Genre: Genre of the track
+- Year: Release Year of the track
+- Beats per Minute (BPM): The tempo of the song
+- Energy: The energy of a song
+- Danceability: The higher the value, the easier it is to dance to this song
+- Loudness (dB)
+- Valence: The higher the value, the more positive the mood
+- Length (Duration)
+- Acoustic: The higher the value the more acoustic the song is
+- Speechiness: The higher the value the more spoken words the song contains
+- Popularity: The higher the value the more popular the song is
+
+#### **4. Housing Sales in King County, USA (2014-2015); (kc_house_data.csv)**
+
+This is a dataset which contains Housing sales in King County, USA, provided by [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv). This contains the following variables:
+
+- ID (ID)
+- Date (Date)
+- Price of House (Price)
+- Number of Bedrooms (Bedrooms)
+- Number of Bathrooms (Bathrooms)
+- Size of Living space, measured in sqft (sqft_living)
+- Total Size of Sold Space, measured in sqft (sqft_lot)
+- Number of Floors (floors)
+- Is the Property on the Waterfront (waterfront)
+- View Quality (view)
+- House Condition (condition)
+- House Grade (
+
+grade)
+- Size of Floors above groundfloor (sqft_above)
+- Size of Floors below groundfloor (sqft_basements)
+- Year Built (yr_built)
+- Year Renovated (yr_renovated)
+- Zipcode (zipcode)
+- Latitude (lat)
+- Longitude (long)
+- Size of Living space in 2015, measured in sqft (sqft_living15)
+- Total Size of Sold Space in 2015, measured in sqft (sqft_lot15)
+
+#### **5. Coffee Quality from Coffee Quality Institute (CQI) (coffee.sort.csv)**
+
+This is a dataset which contains data relating to the quality of coffee, provided by [Kaggle](https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi?select=merged_data_cleaned.csv). This contains the following variables:
+
+- Coffee Bean Species (Species)
+- Country of Origin (Country.of.Origin)
+- Region (Region)
+- Name of the Farm (Farm.Name)
+- Farm Owner (Owner)
+- Farm Company (Company)
+- Coffee Bean Certification Body (Certification.Body)
+- Measurement unit (unit_of_measurement)
+- Farm Altitude (Altitude)
+- Highest Altitude Point (altitude_high_meters)
+- Lowest Altitude Point (altitude_low_meters)
+- Number of Bags Produced (Number.of.Bags)
+- Weight of Bags Produced (Bag.Weight)
+- Year of Harvest (Harvest.Year)
+- Date of Grading (Grading.Date)
+- Date of Expiration (Expiration)
+- Bean Variety (Variety)
+- Method of Bean Processing (Processing.Method)
+- Aroma (Aroma)
+- Flavour (Flavor)
+- Aftertaste (Aftertaste)
+- Acidity (Acidity)
+- Body (Body)
+- Balance (Balance)
+- Bean Uniformity (Uniformity)
+- Clean Cup (Clean.Cup)
+- Sweetness (Sweetness)
+- Cupper Points (Cupper.Points)
+- Total Cupper Points (Total.Cup.Points)
+- Moisture (Moisture)
+- Category One Defects (Category.One.Defects)
+- Category Two Defects (Category.Two.Defects)
+- Quakers (Quakers)
+- Bean Colour (Color)
+
+#### **6. Pokemon, Gens 1-7 (pokemon.sort.csv)**
+
+This is a dataset which contains pokemon statistics, for all pokemon generations 1-7, provided by [Kaggle](https://www.kaggle.com/rounakbanik/pokemon). This contains the following variables:
+
+- The English name of the Pokemon (name)
+- The Original Japanese name of the Pokemon (japanese_name)
+- The entry number of the Pokemon in the National Pokedex (pokedex_number)
+- The numbered generation which the Pokemon was first introduced (generation)
+- A stringified list of abilities that the Pokemon is capable of having (abilities)
+- The Primary Type of the Pokemon (type1)
+- The Secondary Type of the Pokemon (type2)
+- Denotes if the Pokemon is legendary. (is_legendary)
+- The percentage of the species that are male. Blank if the Pokemon is genderless. (percentage_male)
+- Height of the Pokemon in metres (height_m)
+- The Weight of the Pokemon in kilograms (weight_kg)
+- The Classification of the Pokemon as described by the Sun and Moon Pokedex (classification)
+- The Experience Growth of the Pokemon (experience_growth)
+- Capture Rate of the Pokemon (capture_rate)
+- The Base total of the Pokemon (base_total)
+- The Base Attack of the Pokemon (attack)
+- The Base Defense of the Pokemon (defense)
+- The Base HP of the Pokemon (hp)
+- The Base Special Attack of the Pokemon (sp_attack)
+- The Base Special Defense of the Pokemon (sp_defense)
+- The Base Speed of the Pokemon (speed)
+- The number of steps required to hatch an egg of the Pokemon (baseeggsteps)
+- Base Happiness of the Pokemon (base_happiness)
+- Eighteen features that denote the amount of damage taken against an attack of a particular type (against_?)
