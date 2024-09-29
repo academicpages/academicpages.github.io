@@ -21,14 +21,17 @@ For more infomation about my publications, please refer to my CV (pdf version, M
 News
 -----
 
-<br/><img src='/images/icaitph.jpg'>
+<br/><img src='/images/icaitph.jpg'
+        sizes="(max-width: 600px) 200px, 50vw" />>
 
 **August 18th, 2024**   Haoyu team's work was successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html). Thanks for our supervisor and corresponding author [Prof. Lin](https://electronic.seu.edu.cn/lt/list.htm)'s thoughtful help.
 
-<br/><img src='/images/technicalsession.jpg'>
+<br/><img src='/images/technicalsession.jpg'
+        sizes="(max-width: 600px) 200px, 50vw" />>
 
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
 
-<br/><img src='/images/cuhkphy.jpg'>
+<br/><img src='/images/cuhkphy.jpg'
+        sizes="(max-width: 600px) 200px, 50vw" />>
 
 **July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive research in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth so impressive.
