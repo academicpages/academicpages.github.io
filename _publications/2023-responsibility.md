@@ -6,7 +6,7 @@ permalink: /publication/2023-responsibility
 excerpt: 'Even basic AI assistants are perceived as sharing responsibility with their human users for outcomes, despite being viewed as tools, while non-AI tools are not held responsible.'
 date: 2023-08-18
 venue: 'iScience'
-paperurl: 'http://academicpages.github.io/files/longin2023responsibility.pdf'
+paperurl: 'http://louislongin.github.io/files/longin2023responsibility.pdf'
 citation: 'Longin, L., Bahrami, B., & Deroy, O. (2023). Intelligence brings responsibility-Even smart AI assistants are held responsible. iScience, 26(8).'
 ---
 
