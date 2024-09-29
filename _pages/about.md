@@ -34,4 +34,4 @@ News
 <br/><img src='/images/cuhkphy.jpg'
         sizes="(max-width: 600px) 200px, 50vw" />
 
-**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive research in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth so impressive.
+**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive researches in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth are so impressive.
