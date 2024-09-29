@@ -328,6 +328,7 @@ which QMUL students can access on QM+.
 2. If you want to look into how books such as above can inform the development of large space structures, you can
 read my paper on how to [robotically assemble 25 metre space telescopes](https://www.angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly)
 and another [CalTech/NASA-JPL paper on 80 metre telescopes](https://kiss.caltech.edu/papers/largestructure/papers/architecture.pdf).
+3. My blog post on [von Braun's rotating wheel space stations](http://www.angadhn.com/large%20space%20stations/space%20exploration/vonBraunWheels/).
 
 ### Footnotes
 [^a]: Here, I do not just mean space technolgoies but even those that you use in preparing your reports such as Github and $$\LaTeX$$.
