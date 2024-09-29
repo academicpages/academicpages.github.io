@@ -29,7 +29,7 @@ Work experience
   * Duties included: Wrote a Master Thesis under the supervision of Dr. Zilong Ye with the title of the paper ‘Applying Machine Learning Tools for Real-World DDoS Detection’ using two datasets. 
   * Supervisor: Professor Zilong Ye
 
-* Aug 2021 - May 2022: Senior Capstone Project | Professor. Mathias Brieu (BIOMEDICAL) 
+* Aug 2021 - May 2022: Senior Capstone Project 
   * California State University Los Angeles
   * Duties included: Learned the basics of 3-D modeling using 3D Slicer, 3-D visualization software, and experimenting with Nvidia AIAA, an API that allows users to conveniently create 3-D model objects using trained data to automate it. Focused on creating our own AI model and training it using our data – MRI images of pelvic organs and, lastly, training our own AI model using Clara Train SDK. 
   * Supervisor: Professor Negin Forouzesh
@@ -52,6 +52,10 @@ Skills
   * Snort
 * Medical - Biomedical Software
   * 3D Slicer
+
+Languages
+======
+* Bilingual in Armenian and English and basic knowledge of Spanish.  
 
 <!-- Publications
 ======
