@@ -1,0 +1,262 @@
+---
+title: ""
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_depth: 4
+    number_sections: false
+    theme: flatly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+```
+
+___
+
+## Final Group Assignment
+
+In this last part of group assignment, you will design and build an RShiny Application, using the work you did in part 1 of group assignment. The purpose of the shiny app is to visualize and provide analytical output for a dataset of your choice (see below), using appropriate visualization and analysis methods covered in this course. The RShiny Application should be a stand-alone application. That is, the user should be able to understand its purpose and outcomes from just the application (so without requiring any additional explanation outside of the application).
+
+For this part of the assignment, please continue working on the dataset you chose for part 1 of the group assignment, which can still be found [here](https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip). A brief outline is repeated below. Each of these datasets has a large number of variables, and it is up to you which variables you will use/not use within your visualization and analysis process. Note that if you would like to adjust the variables you use in the final assignment compared to part 1, you can do so.
+
+The deadline for handing in the full group assignment is on **June 10th (end of the day)**. The assignment should be uploaded on Black Board as a zip file, which contains the following:
+
+- a .Rproj file;
+- the raw shiny files (ui.R/server.R);
+- if appropriate, a separate data preprocessing file (.Rmd).
+
+**At the bottom of the assignment, please include a sentence stating each student’s contribution towards the end product (e.g., which student completed what tasks). Please also mention whether you used any AI tool or not; in case you did use, mention which one and how did you use it**. For collaborative efforts, tasks can be repeated over multiple students. In the extreme case of very diverging unique contributions, the coordinator has the possibility to differentiate the grading over students within a group.
+
+### Step 1:
+
+Review your steps done in part 1 of your group assignment: the selected dataset and variables within the dataset, and the analysis done and visualizations chosen.
+
+### Step 2:
+
+Set up your Shiny application, which includes a title and one or two lines containing the purpose of your application. Your application will use at least three and at maximum six interactive components (such as Checkboxes, Sliders, Select Boxes, etc...).
+
+### Step 3:
+
+Produce an interactive visualization of your data. Use (a selection of) the visualizations you made during part 1 of the assignment as a basis to extend to an interactive visualization. You are of course allowed to improve visualizations made during part 1 in any way, or make completely new ones if you want. In total, use a maximum of two plots to visualize your data and analysis results (see step 4).
+
+### Step 4:
+
+Integrate the statistical method chosen during part 1 into your application. If you want, you can modify or change the statistical method chosen before. Make sure that the application has an added value in terms of the analysis done. For example:
+
+- Use the application to compare the performance of different statistical methods on predicting an outcome in your dataset.
+- Use the application to show the process of tuning a parameter of a statistical method.
+
+In addition, make sure the statistical method applied includes an interactive component. Visualize (part of) your analysis results as part of your first interactive visualization or as a second (interactive) visualization.
+
+### Step 5:
+
+At the bottom of the application, include an interpretation of the analysis results that includes a reactive component. This can either consist of a reactive text or a fixed line of text combined with a reactive table providing the exact analysis results. Note: a reactive component is not an interactive component, and thus does not count for the min. 3 and max. 6 interactive components.
+
+### Step 6:
+
+Present your application, as both a completed application (ui.R/server.R) in addition to well-documented support files, so that it can be understood the steps you have taken both inside and outside (e.g., data preparation) of the RShiny Application to create and present this application.
+
+### Notes:
+
+The following should be noted:
+
+- Attempting to use too much information in a plot is as bad as not using enough information, so use your judgment to decide how to use the Shiny functions to your advantage to display the data in the most appropriate way.
+- You are welcome to provide a separate data preprocessing file (.Rmd), if you would prefer.
+- Since you will be using real-world datasets, there is likely to be some missing data; it is up to you how you would like to manage this.
+- Making the assignment alone is not allowed. Students have to stay in their assigned groups.
+
+### Grading:
+
+Your grade will be determined by:
+
+- Overall creativity and innovation put into the Application; adding components beyond what was taught in the lab will earn you extra points, submitting an Application very similar to the example Application made during the lab will cost you points.
+- Formulation of a fitting and clear research question.
+- Your exploration and preprocessing of the data, including the handling of missing values, and selection of variables.
+- Quality and appropriateness of the data visualizations created within the RShiny Application.
+- Your understanding and appropriate use of different RShiny Interactive Components.
+- Quality, appropriateness, and presentation of statistical techniques used relating to your dataset.
+- Quality and appropriateness of the interpretation of the analysis results and its reactive component.
+- The quality of your R code (i.e., clear structure and in accordance with Hadley Wickham's guidance).
+- Overall quality of the Application (i.e., layout, title and description, stand-alone) and its usability.
+
+### Datasets:
+
+All datasets can be downloaded from [here](https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip), a brief description of each can be found below:
+
+#### 1. World Bank Indicators (WDB.csv)
+
+This dataset of different global indicators from the World Bank Open Data includes data from over 200 countries from the 1960s - 2019. This contains the following variables (Variable name in brackets):
+
+- Country Name (Country Name)
+- Country Code (Country Code)
+- Continent (Continent)
+- Year (Year)
+- Population (Pop)
+- Female Population (Pop.fe)
+- Male Population (Pop.ma)
+- Birth Rate, crude per 1000 people (birthrate)
+- Death Rate, crude per 1000 people (deathrate)
+- Life Expectancy at Birth in years (lifeexp)
+- Female Life Expectancy at Birth in years (lifeexp.fe)
+- Male Life Expectancy at Birth in years (lifeexp.ma)
+- Educational Spending, percentage of GDP (ed.spend)
+- Compulsory Education Duration in Years (ed.years)
+- Labour Force Total (labour)
+- Literacy Rate in adults, percentage % (lit.rate.per)
+- CO2 Emissions, kt (co2)
+- Gross Domestic product, $ (gdp)
+- Unemployment, percentage of total labour force (unemp)
+- Female Unemployment, percentage of total labour force (unemp.fe)
+- Male Unemployment, percentage of total labour force (unemp.ma)
+- Health Expenditure per capita, $ (health.exp)
+- Hospital Beds per 1000 people (medbeds)
+- Number of Surgical Procedures per 1000 people (surg.pro)
+- Number of Nurses & Midwives per 1000 people (nurse.midwi)
+
+#### 2. College Basketball Dataset (colbaskdat.csv)
+
+This is a dataset from the 2015-2020 Division I college basketball (USA), provided by [Kaggle](https://www.kaggle.com/andrewsundberg/college-basketball-dataset). This contains the following variables (Variable name in brackets):
+
+- Ranking (RK)
+- Team (TEAM)
+- Athletic Conference (CONF)
+- Number of Games Played (G)
+- Number of Games Won (W)
+- Adjusted Offensive Efficiency (ADJOE)
+- Adjusted Defensive Efficiency (ADJDE)
+- Power Rating (BARTHAG)
+- Effective Field Goal Percentage Shot (EFG_0)
+- Effective Field Goal Percentage Allowed (EFG_D)
+- Turnover Percentage Allowed (TOR)
+- Turnover Percentage Committed (TORD)
+- Offensive Rebound Percentage (ORB)
+- Defensive Rebound Percentage (DRB)
+- Free Throw Rate (FTR)
+- Free Throw Rate Allowed (FTRD)
+- Two-Point Shooting Percentage (2P_O)
+- Two-Point Shooting Percentage Allowed (2P_D)
+- Three-Point Shooting Percentage (3P_O)
+- Three-Point Shooting Percentage Allowed (3P_D)
+- Adjusted Tempo (ADJ_T)
+- Wins Above Bubble (WAB)
+- Post Season (POSTSEASON)
+- Seed in the NCAA (SEED)
+- Season/Year (Year)
+
+#### 3. Spotify - Top 2000 (Spotify-2000.csv)
+
+This dataset contains the audio statistics from the top 2000 tracks on Spotify, provided by [Kaggle](https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset). This contains the following variables (Variable name in brackets):
+
+- Index (ID)
+- Title (Title)
+- Artist (Artist)
+- Top Genre (Top Genre)
+- Year (Year)
+- Beats per Minute (BPM)
+- Energy (Energy)
+- Danceability (Danceability)
+- Loudness (dB)
+- Valence (Valence)
+- Length (Duration)
+- Acoustic (Acoustic)
+- Speechiness (Speechiness)
+- Popularity (Popularity)
+
+#### 4. Housing Sales in King County, USA (2014-2015); (kc_house_data.csv)
+
+This
+
+ dataset contains housing sales in King County, USA, provided by [Kaggle](https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv). This contains the following variables:
+
+- ID (ID)
+- Date (Date)
+- Price of House (Price)
+- Number of Bedrooms (Bedrooms)
+- Number of Bathrooms (Bathrooms)
+- Size of Living space, measured in sqft (sqft_living)
+- Total Size of Sold Space, measured in sqft (sqft_lot)
+- Number of Floors (floors)
+- Is the Property on the Waterfront (waterfront)
+- View Quality (view)
+- House Condition (condition)
+- House Grade (grade)
+- Size of Floors above ground floor (sqft_above)
+- Size of Floors below ground floor (sqft_basements)
+- Year Built (yr_built)
+- Year Renovated (yr_renovated)
+- Zipcode (zipcode)
+- Latitude (lat)
+- Longitude (long)
+- Size of Living space in 2015, measured in sqft (sqft_living15)
+- Total Size of Sold Space in 2015, measured in sqft (sqft_lot15)
+
+#### 5. Coffee Quality from Coffee Quality Institute (CQI) (coffee.sort.csv)
+
+This dataset contains data relating to the quality of coffee, provided by [Kaggle](https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi?select=merged_data_cleaned.csv). This contains the following variables:
+
+- Coffee Bean Species (Species)
+- Country of Origin (Country.of.Origin)
+- Region (Region)
+- Name of the Farm (Farm.Name)
+- Farm Owner (Owner)
+- Farm Company (Company)
+- Coffee Bean Certification Body (Certification.Body)
+- Measurement unit (unit_of_measurement)
+- Farm Altitude (Altitude)
+- Highest Altitude Point (altitude_high_meters)
+- Lowest Altitude Point (altitude_low_meters)
+- Number of Bags Produced (Number.of.Bags)
+- Weight of Bags Produced (Bag.Weight)
+- Year of Harvest (Harvest.Year)
+- Date of Grading (Grading.Date)
+- Date of Expiration (Expiration)
+- Bean Variety (Variety)
+- Method of Bean Processing (Processing.Method)
+- Aroma (Aroma)
+- Flavour (Flavor)
+- Aftertaste (Aftertaste)
+- Acidity (Acidity)
+- Body (Body)
+- Balance (Balance)
+- Bean Uniformity (Uniformity)
+- Clean Cup (Clean.Cup)
+- Sweetness (Sweetness)
+- Cupper Points (Cupper.Points)
+- Total Cupper Points (Total.Cup.Points)
+- Moisture (Moisture)
+- Category One Defects (Category.One.Defects)
+- Category Two Defects (Category.Two.Defects)
+- Quakers (Quakers)
+- Bean Colour (Color)
+
+#### 6. Pokemon, Gens 1-7 (pokemon.sort.csv)
+
+This dataset contains Pokemon statistics for all Pokemon generations 1-7, provided by [Kaggle](https://www.kaggle.com/rounakbanik/pokemon). This contains the following variables:
+
+- The English name of the Pokemon (name)
+- The Original Japanese name of the Pokemon (japanese_name)
+- The entry number of the Pokemon in the National Pokedex (pokedex_number)
+- The numbered generation which the Pokemon was first introduced (generation)
+- A stringified list of abilities that the Pokemon is capable of having (abilities)
+- The Primary Type of the Pokemon (type1)
+- The Secondary Type of the Pokemon (type2)
+- Denotes if the Pokemon is legendary (is_legendary)
+- The percentage of the species that are male (percentage_male)
+- Height of the Pokemon in meters (height_m)
+- The Weight of the Pokemon in kilograms (weight_kg)
+- The Classification of the Pokemon as described by the Sun and Moon Pokedex (classification)
+- The Experience Growth of the Pokemon (experience_growth)
+- Capture Rate of the Pokemon (capture_rate)
+- The Base total of the Pokemon (base_total)
+- The Base Attack of the Pokemon (attack)
+- The Base Defense of the Pokemon (defense)
+- The Base HP of the Pokemon (hp)
+- The Base Special Attack of the Pokemon (sp_attack)
+- The Base Special Defense of the Pokemon (sp_defense)
+- The Base Speed of the Pokemon (speed)
+- The number of steps required to hatch an egg of the Pokemon (baseeggsteps)
+- Base Happiness of the Pokemon (base_happiness)
+- Eighteen features that denote the amount of damage taken against an attack of a particular type (against_?)

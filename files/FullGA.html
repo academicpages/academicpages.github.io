@@ -11,7 +11,7 @@
 
 
 
-<title>1stGA.knit</title>
+<title>FullGA.knit</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -1499,45 +1499,35 @@ border-radius: 0px;
 </div>
 
 
-<div id="group-assignment---part-1" class="section level2">
-<h2><strong>Group assignment - part 1</strong></h2>
 <hr />
-<p>In this first part of your group assignment, you will both visualize
-data and analyze data using linear regression ‘plus plus’. That is,
-linear regression analysis on a dataset with many predictors which makes
-use of subset selection or shrinkage methods, and it is tested how well
-the model fits the data. When finalizing the complete group assignment
-(later on in this course), you will use these basics to construct
-interactive visualizations.</p>
-<p>The assignment is to be worked on in threes or fours, for which you
-will receive the group division from your lab instructor. For this
-assignment, you will use one of the six datasets which can be found <a href="https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip">here</a>,
-each of which are outlined in brief below. Each of these datasets has a
-large number of variables, and it is up to you which variables you will
-use/not use within your visualization and analysis process. Below you
-will find a step-by-step walkthrough for the assignment.</p>
-<p>The deadline for handing in this first part of Group Assignment is on
-<strong>Monday May 27th (end of the day)</strong>. Note that handing in
-part 1 of Group Assignment is not mandatory, and will only be graded
-with a pass/fail grade. However, you will receive valuable feedback on
-your progress from your lab instructor which you can use to improve your
-final submitted Group Assignment. In addition, it will help you to
-already finish a part of the full Group Assignment which is a larger
-assignment. If you make a serious attempt, you will receive a
-<strong>bonus of 0.5</strong> that will be added towards your grade of
-the Full Group Assignment.</p>
-<p>The assignment should be uploaded on BB as a zip file, which contains
-the following:</p>
+<div id="final-group-assignment" class="section level2">
+<h2>Final Group Assignment</h2>
+<p>In this last part of group assignment, you will design and build an
+RShiny Application, using the work you did in part 1 of group
+assignment. The purpose of the shiny app is to visualize and provide
+analytical output for a dataset of your choice (see below), using
+appropriate visualization and analysis methods covered in this course.
+The RShiny Application should be a stand-alone application. That is, the
+user should be able to understand its purpose and outcomes from just the
+application (so without requiring any additional explanation outside of
+the application).</p>
+<p>For this part of the assignment, please continue working on the
+dataset you chose for part 1 of the group assignment, which can still be
+found <a href="https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip">here</a>.
+A brief outline is repeated below. Each of these datasets has a large
+number of variables, and it is up to you which variables you will
+use/not use within your visualization and analysis process. Note that if
+you would like to adjust the variables you use in the final assignment
+compared to part 1, you can do so.</p>
+<p>The deadline for handing in the full group assignment is on
+<strong>June 10th (end of the day)</strong>. The assignment should be
+uploaded on Black Board as a zip file, which contains the following:</p>
 <ul>
 <li>a .Rproj file;</li>
-<li>a raw Rmarkdown file (.Rmd);</li>
-<li>a .html compiled Rmarkdown file;</li>
-<li>a copy of the data you used.</li>
+<li>the raw shiny files (ui.R/server.R);</li>
+<li>if appropriate, a separate data preprocessing file (.Rmd).</li>
 </ul>
-<p>When all these files are present and correct, your instructor should
-be able to compile your .Rmd file to a .html file with only the files
-you included.</p>
-<p>At the bottom of the assignment, please include a <strong>sentence
+<p><strong>At the bottom of the assignment, please include a sentence
 stating each student’s contribution towards the end product (e.g., which
 student completed what tasks). Please also mention whether you used any
 AI tool or not; in case you did use, mention which one and how did you
@@ -1546,69 +1536,112 @@ multiple students. In the extreme case of very diverging unique
 contributions, the coordinator has the possibility to differentiate the
 grading over students within a group.</p>
 <div id="step-1" class="section level3">
-<h3><strong>Step 1</strong>:</h3>
-<p>Select one of the provided datasets, and as a group select which
-variables you wish to use. You are welcome to use as many of the
-provided variables in the dataset as you like, however it is not
-expected for you to use all variables, so select those which you feel
-are best able to use.</p>
+<h3>Step 1:</h3>
+<p>Review your steps done in part 1 of your group assignment: the
+selected dataset and variables within the dataset, and the analysis done
+and visualizations chosen.</p>
 </div>
 <div id="step-2" class="section level3">
-<h3><strong>Step 2</strong>:</h3>
-<p>Explore and learn about the structure of your data by constructing
-visualizations. Select a minimum of 2 and maximum of 3 graphs to
-illustrate your data in your final report.</p>
+<h3>Step 2:</h3>
+<p>Set up your Shiny application, which includes a title and one or two
+lines containing the purpose of your application. Your application will
+use at least three and at maximum six interactive components (such as
+Checkboxes, Sliders, Select Boxes, etc…).</p>
 </div>
 <div id="step-3" class="section level3">
-<h3><strong>Step 3</strong>:</h3>
-<p>Based on the content of your data and the visualizations you
-constructed, formulate 1 research question that you will investigate
-using linear regression - data science style. That is, in the linear
-regression, make use of either best subset selection or shrinkage
-methods (Ridge regression or Lasso). Select the best linear model
-appropriately. To ensure reproducibility of your findings, please make
-sure to use set.seed() in your R code.</p>
+<h3>Step 3:</h3>
+<p>Produce an interactive visualization of your data. Use (a selection
+of) the visualizations you made during part 1 of the assignment as a
+basis to extend to an interactive visualization. You are of course
+allowed to improve visualizations made during part 1 in any way, or make
+completely new ones if you want. In total, use a maximum of two plots to
+visualize your data and analysis results (see step 4).</p>
 </div>
 <div id="step-4" class="section level3">
-<h3><strong>Step 4</strong>:</h3>
-<p>Present your results in an R markdown file. In the R markdown file,
-the visualizations and analysis work that you did are presented in a
-logical order and are combined with a description of the data, a
-description of the steps you have taken, the research questions you
-formulated, and your results and conclusions regarding the research
-question.</p>
-<p>In the compiled R markdown file (that is, the .html file), show both
-your used R code (that is, include the R code chunks) and the output.
-Show all your work in the Rmarkdown file, this includes any
-preprocessing of the used data (e.g., steps you have taken to be able to
-work with the data).</p>
+<h3>Step 4:</h3>
+<p>Integrate the statistical method chosen during part 1 into your
+application. If you want, you can modify or change the statistical
+method chosen before. Make sure that the application has an added value
+in terms of the analysis done. For example:</p>
+<ul>
+<li>Use the application to compare the performance of different
+statistical methods on predicting an outcome in your dataset.</li>
+<li>Use the application to show the process of tuning a parameter of a
+statistical method.</li>
+</ul>
+<p>In addition, make sure the statistical method applied includes an
+interactive component. Visualize (part of) your analysis results as part
+of your first interactive visualization or as a second (interactive)
+visualization.</p>
+</div>
+<div id="step-5" class="section level3">
+<h3>Step 5:</h3>
+<p>At the bottom of the application, include an interpretation of the
+analysis results that includes a reactive component. This can either
+consist of a reactive text or a fixed line of text combined with a
+reactive table providing the exact analysis results. Note: a reactive
+component is not an interactive component, and thus does not count for
+the min. 3 and max. 6 interactive components.</p>
+</div>
+<div id="step-6" class="section level3">
+<h3>Step 6:</h3>
+<p>Present your application, as both a completed application
+(ui.R/server.R) in addition to well-documented support files, so that it
+can be understood the steps you have taken both inside and outside
+(e.g., data preparation) of the RShiny Application to create and present
+this application.</p>
+</div>
+<div id="notes" class="section level3">
+<h3>Notes:</h3>
+<p>The following should be noted:</p>
+<ul>
+<li>Attempting to use too much information in a plot is as bad as not
+using enough information, so use your judgment to decide how to use the
+Shiny functions to your advantage to display the data in the most
+appropriate way.</li>
+<li>You are welcome to provide a separate data preprocessing file
+(.Rmd), if you would prefer.</li>
+<li>Since you will be using real-world datasets, there is likely to be
+some missing data; it is up to you how you would like to manage
+this.</li>
+<li>Making the assignment alone is not allowed. Students have to stay in
+their assigned groups.</li>
+</ul>
 </div>
 <div id="grading" class="section level3">
-<h3><strong>Grading</strong></h3>
-<p>Your pass/fail grade, the 0.5 bonus grade, and provided feedback will
-center on:</p>
+<h3>Grading:</h3>
+<p>Your grade will be determined by:</p>
 <ul>
-<li>Quality and appropriateness of the data visualizations;</li>
-<li>Formulation of a fitting and clear research question;</li>
-<li>Quality of the performed regression analysis and analysis choices
-made;</li>
-<li>Quality of the interpretation of the model results and drawn
-conclusions;</li>
-<li>Quality of the R code;</li>
-<li>Overall quality of the report and presentation of the results.</li>
+<li>Overall creativity and innovation put into the Application; adding
+components beyond what was taught in the lab will earn you extra points,
+submitting an Application very similar to the example Application made
+during the lab will cost you points.</li>
+<li>Formulation of a fitting and clear research question.</li>
+<li>Your exploration and preprocessing of the data, including the
+handling of missing values, and selection of variables.</li>
+<li>Quality and appropriateness of the data visualizations created
+within the RShiny Application.</li>
+<li>Your understanding and appropriate use of different RShiny
+Interactive Components.</li>
+<li>Quality, appropriateness, and presentation of statistical techniques
+used relating to your dataset.</li>
+<li>Quality and appropriateness of the interpretation of the analysis
+results and its reactive component.</li>
+<li>The quality of your R code (i.e., clear structure and in accordance
+with Hadley Wickham’s guidance).</li>
+<li>Overall quality of the Application (i.e., layout, title and
+description, stand-alone) and its usability.</li>
 </ul>
-<p>Note: Making the assignment alone is not allowed. Students have to
-stay in their assigned groups.</p>
 </div>
 <div id="datasets" class="section level3">
-<h3><strong>Datasets</strong>:</h3>
-<p>All datasets can be accessed [here], a brief description of each can
-be found below:</p>
-<div id="world-bank-indictors-wdb.csv" class="section level4">
-<h4><strong>1. World Bank Indictors (WDB.csv)</strong></h4>
+<h3>Datasets:</h3>
+<p>All datasets can be downloaded from <a href="https://tshahedi.github.io/adav-course/files/datasets-assignment-1stGA.zip">here</a>,
+a brief description of each can be found below:</p>
+<div id="world-bank-indicators-wdb.csv" class="section level4">
+<h4>1. World Bank Indicators (WDB.csv)</h4>
 <p>This dataset of different global indicators from the World Bank Open
-Data, which includes data from over 200 countries from the 1960s - 2019.
-This contains the following variables:</p>
+Data includes data from over 200 countries from the 1960s - 2019. This
+contains the following variables (Variable name in brackets):</p>
 <ul>
 <li>Country Name (Country Name)</li>
 <li>Country Code (Country Code)</li>
@@ -1639,16 +1672,14 @@ This contains the following variables:</p>
 </ul>
 </div>
 <div id="college-basketball-dataset-colbaskdat.csv" class="section level4">
-<h4><strong>2. College Basketball Dataset (colbaskdat.csv)</strong></h4>
+<h4>2. College Basketball Dataset (colbaskdat.csv)</h4>
 <p>This is a dataset from the 2015-2020 Division I college basketball
 (USA), provided by <a href="https://www.kaggle.com/andrewsundberg/college-basketball-dataset">Kaggle</a>.
-It contains the following variables:</p>
+This contains the following variables (Variable name in brackets):</p>
 <ul>
-<li>Ranking (RK): The ranking of the team at the end of the regular
-season</li>
-<li>Team (TEAM): The Division I college basketball school</li>
-<li>Athletic Conference (CONF): The league the school participates
-in</li>
+<li>Ranking (RK)</li>
+<li>Team (TEAM)</li>
+<li>Athletic Conference (CONF)</li>
 <li>Number of Games Played (G)</li>
 <li>Number of Games Won (W)</li>
 <li>Adjusted Offensive Efficiency (ADJOE)</li>
@@ -1674,34 +1705,32 @@ in</li>
 </ul>
 </div>
 <div id="spotify---top-2000-spotify-2000.csv" class="section level4">
-<h4><strong>3. Spotify - Top 2000 (Spotify-2000.csv)</strong></h4>
-<p>This is a dataset which contains the audio statistics from the top
-2000 tracks on Spotify, provided by <a href="https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset">Kaggle</a>.
-This contains the following variables:</p>
+<h4>3. Spotify - Top 2000 (Spotify-2000.csv)</h4>
+<p>This dataset contains the audio statistics from the top 2000 tracks
+on Spotify, provided by <a href="https://www.kaggle.com/iamsumat/spotify-top-2000s-mega-dataset">Kaggle</a>.
+This contains the following variables (Variable name in brackets):</p>
 <ul>
-<li>Index: ID</li>
-<li>Title: Name of the Track</li>
-<li>Artist: Name of the Artist</li>
-<li>Top Genre: Genre of the track</li>
-<li>Year: Release Year of the track</li>
-<li>Beats per Minute (BPM): The tempo of the song</li>
-<li>Energy: The energy of a song</li>
-<li>Danceability: The higher the value, the easier it is to dance to
-this song</li>
+<li>Index (ID)</li>
+<li>Title (Title)</li>
+<li>Artist (Artist)</li>
+<li>Top Genre (Top Genre)</li>
+<li>Year (Year)</li>
+<li>Beats per Minute (BPM)</li>
+<li>Energy (Energy)</li>
+<li>Danceability (Danceability)</li>
 <li>Loudness (dB)</li>
-<li>Valence: The higher the value, the more positive the mood</li>
+<li>Valence (Valence)</li>
 <li>Length (Duration)</li>
-<li>Acoustic: The higher the value the more acoustic the song is</li>
-<li>Speechiness: The higher the value the more spoken words the song
-contains</li>
-<li>Popularity: The higher the value the more popular the song is</li>
+<li>Acoustic (Acoustic)</li>
+<li>Speechiness (Speechiness)</li>
+<li>Popularity (Popularity)</li>
 </ul>
 </div>
 <div id="housing-sales-in-king-county-usa-2014-2015-kc_house_data.csv" class="section level4">
-<h4><strong>4. Housing Sales in King County, USA (2014-2015);
-(kc_house_data.csv)</strong></h4>
-<p>This is a dataset which contains Housing sales in King County, USA,
-provided by <a href="https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv">Kaggle</a>.
+<h4>4. Housing Sales in King County, USA (2014-2015);
+(kc_house_data.csv)</h4>
+<p>This</p>
+<p>dataset contains housing sales in King County, USA, provided by <a href="https://www.kaggle.com/harlfoxem/housesalesprediction?select=kc_house_data.csv">Kaggle</a>.
 This contains the following variables:</p>
 <ul>
 <li>ID (ID)</li>
@@ -1716,8 +1745,8 @@ This contains the following variables:</p>
 <li>View Quality (view)</li>
 <li>House Condition (condition)</li>
 <li>House Grade (grade)</li>
-<li>Size of Floors above groundfloor (sqft_above)</li>
-<li>Size of Floors below groundfloor (sqft_basements)</li>
+<li>Size of Floors above ground floor (sqft_above)</li>
+<li>Size of Floors below ground floor (sqft_basements)</li>
 <li>Year Built (yr_built)</li>
 <li>Year Renovated (yr_renovated)</li>
 <li>Zipcode (zipcode)</li>
@@ -1728,10 +1757,10 @@ This contains the following variables:</p>
 </ul>
 </div>
 <div id="coffee-quality-from-coffee-quality-institute-cqi-coffee.sort.csv" class="section level4">
-<h4><strong>5. Coffee Quality from Coffee Quality Institute (CQI)
-(coffee.sort.csv)</strong></h4>
-<p>This is a dataset which contains data relating to the quality of
-coffee, provided by <a href="https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi?select=merged_data_cleaned.csv">Kaggle</a>.
+<h4>5. Coffee Quality from Coffee Quality Institute (CQI)
+(coffee.sort.csv)</h4>
+<p>This dataset contains data relating to the quality of coffee,
+provided by <a href="https://www.kaggle.com/volpatto/coffee-quality-database-from-cqi?select=merged_data_cleaned.csv">Kaggle</a>.
 This contains the following variables:</p>
 <ul>
 <li>Coffee Bean Species (Species)</li>
@@ -1771,9 +1800,9 @@ This contains the following variables:</p>
 </ul>
 </div>
 <div id="pokemon-gens-1-7-pokemon.sort.csv" class="section level4">
-<h4><strong>6. Pokemon, Gens 1-7 (pokemon.sort.csv)</strong></h4>
-<p>This is a dataset which contains pokemon statistics, for all pokemon
-generations 1-7, provided by <a href="https://www.kaggle.com/rounakbanik/pokemon">Kaggle</a>. This
+<h4>6. Pokemon, Gens 1-7 (pokemon.sort.csv)</h4>
+<p>This dataset contains Pokemon statistics for all Pokemon generations
+1-7, provided by <a href="https://www.kaggle.com/rounakbanik/pokemon">Kaggle</a>. This
 contains the following variables:</p>
 <ul>
 <li>The English name of the Pokemon (name)</li>
@@ -1786,10 +1815,9 @@ contains the following variables:</p>
 having (abilities)</li>
 <li>The Primary Type of the Pokemon (type1)</li>
 <li>The Secondary Type of the Pokemon (type2)</li>
-<li>Denotes if the Pokemon is legendary. (is_legendary)</li>
-<li>The percentage of the species that are male. Blank if the Pokemon is
-genderless. (percentage_male)</li>
-<li>Height of the Pokemon in metres (height_m)</li>
+<li>Denotes if the Pokemon is legendary (is_legendary)</li>
+<li>The percentage of the species that are male (percentage_male)</li>
+<li>Height of the Pokemon in meters (height_m)</li>
 <li>The Weight of the Pokemon in kilograms (weight_kg)</li>
 <li>The Classification of the Pokemon as described by the Sun and Moon
 Pokedex (classification)</li>

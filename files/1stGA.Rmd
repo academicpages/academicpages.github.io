@@ -162,9 +162,7 @@ This is a dataset which contains Housing sales in King County, USA, provided by 
 - Is the Property on the Waterfront (waterfront)
 - View Quality (view)
 - House Condition (condition)
-- House Grade (
-
-grade)
+- House Grade (grade)
 - Size of Floors above groundfloor (sqft_above)
 - Size of Floors below groundfloor (sqft_basements)
 - Year Built (yr_built)
