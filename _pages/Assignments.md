@@ -60,7 +60,7 @@ author_profile: true
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>3</sup></span> Find more information <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
+  <span style="color: red;"><sup>3</sup></span> You can find additional information <a href="https://tshahedi.github.io/adav-course/Exam/" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
