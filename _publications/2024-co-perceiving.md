@@ -6,7 +6,7 @@ permalink: /publication/2024-co-perceiving
 excerpt: 'The paper introduces the concept of co-perception as the ability to distinguish between objects perceived privately and those perceived commonly with others.'
 date: 2024-05-06
 venue: 'Wiley Interdisciplinary Reviews: Cognitive Science'
-paperurl: 'http://academicpages.github.io/files/longin2024co-perceiving.pdf'
+paperurl: 'http://louislongin.github.io/files/longin2024co-perceiving.pdf'
 citation: 'Deroy, O., Longin, L., & Bahrami, B. (2023). Co‐perceiving: Bringing the social into perception. Wiley Interdisciplinary Reviews: Cognitive Science, e1681.'
 ---
 
