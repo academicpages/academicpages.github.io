@@ -16,6 +16,7 @@ Education
 --->
 * M.S. in Computer Science, California State University Los Angeles, 2024
 * B.S. in Computer Science, California State University Los Angeles, 2022
+* A.A. in Computer Science, Los Angeles City College, 2019
 
 Work experience
 ======
