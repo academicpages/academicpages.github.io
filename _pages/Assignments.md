@@ -25,7 +25,7 @@ author_profile: true
     <tr>
       <td>Graded</td>
       <td>-</td>
-      <td>Full GA<span style="color: red;"><sup>2</sup></span></td>
+      <td>Final GA<span style="color: red;"><sup>2</sup></span></td>
       <td><strong>Exam</strong><span style="color: red;"><sup>3</sup></span></td>
       <td>Hands in (9 weeks)<span style="color: red;"><sup>4</sup></span></td>
       <td>-</td>
@@ -56,7 +56,7 @@ author_profile: true
 </div>
 
 <div class="footnote">
-  <span style="color: red;"><sup>2</sup></span> Full Group Assignmen. Find more information <a href="https://tshahedi.github.io/adav-course/files/FullGA.html" target="_blank">here</a>.
+  <span style="color: red;"><sup>2</sup></span> Final Group Assignmen. Find more information <a href="https://tshahedi.github.io/adav-course/files/FullGA.html" target="_blank">here</a>.
 </div>
 
 <div class="footnote">
