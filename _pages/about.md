@@ -1,4 +1,11 @@
-Biography
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 I'm a graduated student from [Department of Physical Education]([https://yonsei.elsevierpure.com/en/organisations/department-of-physical-education]), [Yonsei University]([https://www.yonsei.ac.kr/en_sc/index.jsp]). My research interest includes Sedentary behavior, Cardiometabolic health, Wearable technology, Physical Activity, Chronic Inflammation, and Skeletal Muscle.
 
