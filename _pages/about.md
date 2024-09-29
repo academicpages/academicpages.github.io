@@ -13,6 +13,6 @@ I am very fortunate to be advised by [Prof. Sang-Hoon Suh & Baek Il-young](https
 
 You can find my CV here: [SenLin Liu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](eliotlyu@gmail.com) / [Github](https://github.com/eliotlyu.github.io/) / [Wechat](../images/wechat.jpg) / 
+[Email](mailto:eliotlyu@gmail.com) / [Github](https://eliotlyu.github.io/) / [Wechat](../images/wechat.jpg) / 
 
 
