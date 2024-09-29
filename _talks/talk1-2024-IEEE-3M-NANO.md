@@ -2,7 +2,7 @@
 title: "Fabrication of Polymer Composite Enhanced with CNTs-aggregated Fiber via an Electric-field-assisted Method"
 collection: talks
 type: "Talk"
-permalink: /_talks/talk1-2024-IEEE-3M-NANO.md
+permalink: /_talks/talk1-2024-IEEE-3M-NANO
 venue: "Zhongshan Insititute of Tech"
 date: 2024-07-31
 location: "Zhongshan, Guangdong"
