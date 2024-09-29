@@ -14,10 +14,14 @@ My research interest aligns in the synthesis and fabrication of nanomaterials, c
 
 I'm seeking for a PhD position relevant with materials, electronics and the field close to them.
 -----
-For more infomation about my publications, please refer to my CV (pdf version).
+For more infomation about my publications, please refer to my CV (pdf version, March 2023).
+
+!!!Attention!!! For the latest CV, you can contact me to ask for it. I will reply all in 24 hours.
 
 News
 -----
+**August 18th, 2024**   Haoyu's work successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html).
+
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and present his recent work about CNT alignment.
 
 **July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met Prof. Qisi Wang. His attractive research experience about unconventional superconductivity makes me so impressive.
