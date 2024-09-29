@@ -7,13 +7,13 @@ author_profile: true
 
 ## Preprints:
 
-6. **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du, [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642), 2024
-
 3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
 
 1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
 
 ## Conference Papers:
+
+6. **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du, X. Li, [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642), Neural Information Processing Systems (NeurIPS), 2024
 
 5. D. Zeng\*, Y. Dai\*, **P. Cheng**\*, T. Hu, W. Chen, N. Du, Z. Xu, [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/abs/2312.07401), Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 
