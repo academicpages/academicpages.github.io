@@ -89,7 +89,7 @@
    List view
    ========================================================================== */
 
-/* .list__item {
+ .list__item {
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -105,13 +105,7 @@
   .page__meta {
     margin: 0 0 4px;
   }
-} */
-.list__item {
-
-  .page__meta {
-    margin: 0 0 4px;
-  }
-}
+} 
 
 /*
    Grid view
