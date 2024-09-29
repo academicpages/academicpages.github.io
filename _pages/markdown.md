@@ -17,5 +17,6 @@ Jiangning, Nanjing, P.R. China
 
 If you have any question, please do not hesitate to contact me!
 
-东南大学九龙湖校区电子大楼 罗皓宇
+东南大学九龙湖校区电子信息综合大楼 罗皓宇
+
 <br/><img src='/images/dianzibuilding.jpg'>
