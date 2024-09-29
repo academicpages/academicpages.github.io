@@ -1,20 +1,25 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "undergraduate course"
+permalink: /teaching/2022,Spring-2023,Fall-teaching-2
+venue: "(Dept, yonsei university"
+date: Feb.2022-June.2023
+location: "Seoul, Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Course 1     Tennis Coaching(Spring 2022-Spring 2023) 
+            •  Instructor: Prof. SangHyun Suh (Dept, yonsei university)
+            •  Credit 2; Class: 33 juniors;
 ======
 
-Heading 2
+Course 2     Exercise Physiology Laboratory(Spring 2022-Spring 2023)          
+            •  Instructor: Prof. IlYoung Baik(Dept, yonsei university)
+            •  Credit 2; Class: 26 juniors;
 ======
 
-Heading 3
+Course 3     Health and Exercise(Fall 2022-Fall 2023)                               
+            •  Instructor: Prof. IlYoung Baik(Dept, yonsei university)
+            •  Credit 2; Class: 106 juniors;
 ======
