@@ -20,7 +20,7 @@ For more infomation about my publications, please refer to my CV (pdf version, M
 
 News
 -----
-**August 18th, 2024**   Haoyu team's work was successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html). Thanks for our corresponding author [Prof. Lin'](https://electronic.seu.edu.cn/lt/list.htm） thoughtful help.
+**August 18th, 2024**   Haoyu team's work was successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html). Thanks for our corresponding author [Prof. Lin](https://electronic.seu.edu.cn/lt/list.htm）'s thoughtful help.
 
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
 
