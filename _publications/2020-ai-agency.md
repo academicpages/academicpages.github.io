@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2020-ai-agency
 excerpt: 'The paper proposes a middle-ground theory of agency for artificial intelligence that balances between attributing too much or too little agency to AI systems'
 date: 2020-09-01
-venue: 'Journal 1'
+venue: 'Culturally Sustainable Social Robotics. IOS Press.'
 paperurl: 'https://louislongin.github.io/files/longin2020agency.pdf'
 citation: 'Longin, L. (2020). Towards a Middle-Ground Theory of Agency for Artificial Intelligence. In Culturally Sustainable Social Robotics (pp. 17-26). IOS Press.'
 ---
