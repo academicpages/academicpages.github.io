@@ -8,5 +8,17 @@ You can find my CV here: [SENLIN LIU(eliot)'s Curriculum Vitae](../assets/CV(Liu
 
 [Email](eliotlyu@gmail.com) / [Github]([https://github.com/eliotlyu.github.io/]) / [Wechat](../images/wechat.jpg) / 
 
+Getting started
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create con…ry. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+…
+Example: editing a markdown file for a talk
+![Editing a markdown file for a talk](/images/editing-talk.png)
 
+For more info
+------
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
