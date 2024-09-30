@@ -47,20 +47,22 @@ Here, I assumed that 60% of the pressurized volume is habitable. This is a consi
 compared to the 42% of ISS.
 
 ### How did von Braun imagine its realisation?
+{% marginfigure 'mf-id-1' 'assets/imgs/AssemblyOfRim.png' 'Assembly of the Modular Rotating Wheel Space Station.'  %}
+{% marginfigure 'mf-id-2' 'assets/imgs/CondenserPipesInstallation.png' 'Condenser pipes being unwound for installation.'  %}
+
 The short-version is that he assumed predominantly modular robotic assembly and a minor reliance on inflatables
 for the airlock. First, the hub is inflated using compressed air from built-in tanks. Protection from meteors
 is ensured by putting thin metal plates; this is unnecessary today as we have developed high-strength textiles
 that are used on inflatable space stations. A second launch brings with it an airlock, which is again attached
 by robots; this allows the pressurized hub to be used as a temporary quarters as the station assembly continues
 with astronaut-robot teams.
-{% marginfigure 'mf-id-1' 'assets/imgs/AssemblyOfRim.png' 'Assembly of the Modular Rotating Wheel Space Station.'  %}
 Pre-fabricated and tested on the ground after which it is dismantled and assembled robotically in-orbit.
 A number successive launches (he says) ensure the "parts of the station  are assembled in the correct order".
 Nylon tethers prevent parts from drifting away. The reactor appears to be the next big piece that is installed
 so I assume this is the third launch. This is followed by the elevator shafts and the rim sections being brought
 together. We can assume a single launch for each module: $3$ elevator tubes and 9 rim modules (assuming one per
 section). Assuming condenser pipes are installed from one launch (but the structure itself needs to be unwound robotically, which seems unreasonable/unreal at the moment as a robotic task.
-{% marginfigure 'mf-id-2' 'assets/imgs/CondenserPipesInstallation.png' 'Condenser pipes being unwound for installation.'  %}
+
 
 Lastly, the installation of instruments/equipment (a simple catch-all term for imaging antennas and
 the lab facilities compute for astronomical/Earth Observation data analysis, I think) and two small
@@ -68,6 +70,7 @@ rocket motors on the rim. These rocket motors "blast for a few seconds" to revol
 $3 \, RPM$. 
 
 ## Comparing to ISS and Space Station V (2001: A Space Odyssey)
+{% marginnote 'table-1-id' '*Table 1*:  Comparing the ISS to fictional ideas.' %}
 
 |                                              | ISS    | von Braun              | Space Station V |
 | -------------------------------------------- | ------ | ---------------------- | --------------- |
