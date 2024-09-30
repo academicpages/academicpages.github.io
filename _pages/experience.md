@@ -5,7 +5,7 @@ permalink: /experiences/
 author_profile: true
 ---
 
-**Texas A&M University, College Station**, Aug. 2019 - present \\
+**Texas A&M University, College Station**, Aug. 2019 - Sep. 2023 \\
 -- Ph.D. in Computer Science and Engineer Department \\
 -- [DATA](http://people.tamu.edu/~guangzhou92/Data_Lab/) Lab, supervision by Prof. [Xia Ben Hu](https://people.engr.tamu.edu/xiahu/index.html)
 
