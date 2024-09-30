@@ -60,7 +60,7 @@ Nylon tethers prevent parts from drifting away. The reactor appears to be the ne
 so I assume this is the third launch. This is followed by the elevator shafts and the rim sections being brought
 together. We can assume a single launch for each module: $3$ elevator tubes and 9 rim modules (assuming one per
 section). Assuming condenser pipes are installed from one launch (but the structure itself needs to be unwound robotically, which seems unreasonable/unreal at the moment as a robotic task.
-{% marginfigure 'mf-id-1' 'assets/imgs/CondenserPipesInstallation.png' 'Condense pipes being unwound for installation.'  %}
+{% marginfigure 'mf-id-2' 'assets/imgs/CondenserPipesInstallation.png' 'Condenser pipes being unwound for installation.'  %}
 
 Lastly, the installation of instruments/equipment (a simple catch-all term for imaging antennas and
 the lab facilities compute for astronomical/Earth Observation data analysis, I think) and two small
