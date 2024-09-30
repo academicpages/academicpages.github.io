@@ -106,7 +106,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 - *Avdeev, B., Niemi, N. A., & Clark, M. K.* (2011). **Doing more with less: Bayesian estimation of erosion models with detrital thermochronometric data.** Earth and Planetary Science Letters, 305(3–4), 385–395. https://doi.org/10.1016/j.epsl.2011.03.020
 
 
-- *Borgohain, B., Mathew, G., Salvi, D., Harbola, D., Rai, P.,* (2024). **Spatial and Temporal Variation of Erosion Rate of the Lohit Bomi-Chayu Batholith around Eastern Himalayan Syntaxis (Southeast of Namche Barwa massif),** (Under Review in Tectonics)
+- *Borgohain, B., Mathew, G., Salvi, D., Harbola, D., Rai, P.,* (2024). **Spatial-Temporal Variation in Erosion Rate of Lohit Bomi-Chayu Batholith around Eastern Himalayan Syntaxis (SE of Namche Barwa massif),** (Under Review in Tectonics)
 
 
 
