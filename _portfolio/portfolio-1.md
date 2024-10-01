@@ -59,7 +59,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
    3. *Pymc* (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
       1. ``` conda install pymc::kabuki ``` code was used to install *PyMc*
       2. Check for installation of ```pymc```
-         ```bash
+         ```
          $ python
         >>> import pymc
         >>>
@@ -86,13 +86,12 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 <span style="font-size:18px; color:red"> Download file</span>'s ```model_setup.py``` file is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
 1. To model **uniform erosion history scenario**, which refers to constant erosion rate through time, the following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
    1. Assign DEM file location and file name, for example, DEM file name is ```ANIDT4.xyz```
-      ```bash
+      ```
       catchment_1 = Catchment(hypsometry_file = "../data/ANIDT4.xyz", elevation_column = 'z')
       ```
    2. Assign age file location, sample name, catchment data (```catchement_1```), thermochronometric type (```AFT```), for example, the age file name is ```ANIDT4.csv```
-      ```bash
+      ```
       sample_1 = DetritalSample(age_file = "../data/ANIDT4.csv", sample_name = 'ANIDT4', catchment = catchment_1, tc_type = 'AFT')
-
       ```
    3. Assign the range of the erosion rate that the sample would have experienced, for example, from ```0 to 3``` mm/yr for <span style="font-size:18px; color:green"> ANIDT4</span> sample. This is based on previous studies around the sample location, or it can be a guess. The minimum and maximum values are required. In ```model_setup.py``` file this is coded as ```erate_prior = (0,3)```.
    4. Assign a range of the timing of a change in erosion rate that would have experienced, for example, from ```0 to 60``` Ma for <span style="font-size:18px; color:green"> ANIDT4</span> sample. This is the second prior that we can assign minimum and maximum ages from the measured age distribution of <span style="font-size:18px; color:green"> ANIDT4</span>.  In ```model_setup.py``` file this is coded as ```abr_prior = (0,60)```.
@@ -100,7 +99,13 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
      
 2. To model **non-uniform erosion rate scenario**, which refers to variation in erosion rates through time, only the number of break parameters needed to be changed, other parameters are kept the same as described in **uniform erosion rate scenarios**. Thus, the only line of code that is required to change is the value in ```break=...```. Here, ```break=1``` for the one-break scenario refers to one discrete change in erosion rates through time, and ```break=2``` for the two-break refers to two discrete changes in erosion rate through time.
 3. The best model scenario (whether  ```break=0```[zero-break], ```break=1```[one-break], or ```break=3```[two-break]) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit (GOF) plot that displays the results of Kolmogorov-Smirnov (KS) test. An overlap of these two data suites indicates an acceptable model fit. For example, the below plot (which will be uploaded soon) displays a degree of overlap between these two; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled AFT (blue) ages. Here, the p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered in this example is p >0.05. 
- ![Three model scenario ```zero-break```, ```one-break```, ```two-break``` for a catchment sample's detrital AFT age distribution ]<br/><img src='/images/break models.png'>*Example cooling history modeling using Bayesian erosion model.*   
+
+
+**Three model scenario: ```zero-break```, ```one-break```, and ```two-break``` for a detrital AFT age distribution from a catchment** <br/><img src='/images/break models.png'>*Example cooling history modeling using Bayesian erosion model.*  
+
+     
+
+
 # References
 
 - *Avdeev, B., Niemi, N. A., & Clark, M. K.* (2011). **Doing more with less: Bayesian estimation of erosion models with detrital thermochronometric data.** Earth and Planetary Science Letters, 305(3–4), 385–395. https://doi.org/10.1016/j.epsl.2011.03.020
