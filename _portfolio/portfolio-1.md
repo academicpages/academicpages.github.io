@@ -45,7 +45,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
            . . .
            . . .
       ```
-4. Copy code files from the ```detrital_ui``` folder of <span style="font-size:18px; color:red"> downloaded file</span> , and then paste these in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
+4. Copy code files from the ```detrital_ui``` folder of <span style="font-size:18px; color:red"> downloaded file</span> , and then paste these in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically, the following files:
      -  <span style="font-size:18px; color:blue"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
 
 
@@ -74,7 +74,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 
 ## Output files
  
-Done, model output contains:
+Done, the model output contains:
 - Simulated age-elevation plot, a ```.png ``` file (summary.png)
 - Goodness of fit test plot, a ```.png``` file (KS_test.png)
 - A ```.csv``` file (statistics.csv) containing: 
@@ -83,7 +83,7 @@ Done, model output contains:
           
 # Configuring a model
 
-```model_setup.py``` file (in ```detrital_ui```folder of <span style="font-size:18px; color:red"> downloaded file</span>'s) is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
+```model_setup.py``` file (in ```detrital_ui```folder of <span style="font-size:18px; color:red"> downloaded file</span>) is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
 The following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
 1. Assign paths of input data files
    - Assign DEM file location and file name, for example, DEM file name is ```ANIDT4.xyz```
