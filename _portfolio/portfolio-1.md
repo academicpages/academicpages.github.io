@@ -26,7 +26,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 2. In <span style="font-size:18px; color:green"> ANIDT4</span> create another two folder with name ```data``` and ```detrital_ui```.
 3. Upload two input data files in ```data``` folder of <span style="font-size:18px; color:green"> ANIDT4</span>
      1. Age file ```.csv``` in the following formate (detrital cooling age distribution of sample <span style="font-size:18px; color:green"> ANIDT4</span>)
-      ```bash
+      ```
           27.0
           13.7
           11.7
@@ -37,7 +37,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
            .  
       ```
       2. DEM file ```.xyz``` in the following format (latitude-x, longitude-y, elevation of catchment-z <span style="font-size:18px; color:green"> ANIDT4</span>).
-      ```bash
+      ```
            x y z 
           217623.033 3251932.988 5165
           217653.033 3251932.988 5167
