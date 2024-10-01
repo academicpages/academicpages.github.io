@@ -110,10 +110,9 @@ The following changes are required in ```model_setup.py```, this can be done by 
    - **Non-uniform erosion rate scenario** (```break=1,2```), which refers to variation in erosion rates through time. Here, ```break=1``` for the one-break scenario refers to one discrete change in erosion rates through time, and ```break=2``` for the two-break refers to two discrete changes in erosion rate through time. *Note the change can happen any time (```break=1```) or any number of times (```break=2```) between the assigned time range of change in erosion rates, here, for example between ```0 to 60```Ma*
      
 4. The best model scenario (whether  ```break=0```[zero-break], ```break=1```[one-break], or ```break=2```[two-break]) is evaluated by comparing the cumulative probability distribution of modeled ages and measured ages using a goodness-of-fit (**GOF**) plot that displays the results of Kolmogorov-Smirnov (**KS**) test. An overlap of these two data suites indicates an acceptable model fit. For example, the below plot (which will be uploaded soon) displays a degree of overlap between these two; it is shown using the cumulative probability plots of measured AFT (orange dots) and swaths of modeled AFT (blue) ages. Here, the p-value is used to select the best model; it refers to the probability of getting model results close to observed results and the acceptable fitting criteria considered in this example is p >0.05. 
+<br>
 
-
-**Three model scenario: ```zero-break```, ```one-break```, and ```two-break``` for a detrital AFT age distribution from a catchment** <br/><img src='/images/break models.png'>*Example displaying modeled cooling history using Bayesian erosion model.*  
-
+**Three model scenarios: ```zero-break```, ```one-break```, and ```two-break``` for a detrital AFT age distribution from a catchment** <br/><img src='/images/break models.png'>*Example displaying modeled cooling history using Bayesian erosion model.*  
      
 <br>
 
