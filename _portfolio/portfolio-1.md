@@ -1,12 +1,12 @@
 ---
-title: "Bayesian Erosion Model with Low-Temperature Thermochronology"
+title: "Bayesian Erosion Modeling for inversion of detrital Low-Temperature Thermochronometric ages"
 excerpt: "From detrital age to erosion history: A user guide to run Bayesian Erosion Model  <br/><img src='/images/web_bayes_3.png'> "
 collection: 
 ---
 
 
 
-Results of **Bayesian erosion modeling** of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al. (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al. (2011). 
+Results of **Bayesian erosion modeling** for inversion of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al. (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al. (2011). 
 
 The following documentation describes: 
 1. Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
@@ -19,7 +19,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 1. ```data```
 2. ```detrital_ui```.
 
-# Overview of the Bayesian erosion model
+# Overview of the Bayesian erosion modeling
 ## Input files
 
 1. Create a folder with a sample name (for example <span style="font-size:18px; color:green"> ANIDT4</span>)
