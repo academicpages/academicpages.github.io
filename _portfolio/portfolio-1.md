@@ -34,7 +34,7 @@ The following documentation describes:
         >>> import pymc
         >>>
          ```
-<br>
+***
 *Start*
 
 ## Input files
@@ -83,7 +83,7 @@ Done, the model output contains:
   - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
 
 *End*
-<br>
+***
 
 # Configuring a model
 
@@ -112,7 +112,7 @@ The following changes are required in ```model_setup.py```, this can be done by 
 **Three model scenario: ```zero-break```, ```one-break```, and ```two-break``` for a detrital AFT age distribution from a catchment** <br/><img src='/images/break models.png'>*Example displaying modeled cooling history using Bayesian erosion model.*  
 
      
-
+<br>
 
 # References
 
