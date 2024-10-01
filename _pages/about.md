@@ -1,11 +1,34 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+**Yan Wang**
+
+Hi! I am a research fellow at Nanyang Technological University, Singapore.
+
+I received my Ph.D. from Nanyang Technological University in 2024.
+
+My research interests focus on social interaction and market fragmentation in experimental finance.
+
+
+Curriculum Vitae: [CV](https://github.com/academicpages/academicpages.github.io)
+
+
+Email: [yan006@e.ntu.edu.sg](yan006@e.ntu.edu.sg)
+
+
+**Working papers**
+======
+[**How Dark Trading Harms Financial Markets?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602225#:~:text=When%20information%20is%20diffused%2C%20dark,between%20informed%20and%20uninformed%20traders.) (Revise and Resubmit at the _**Economic Journal**_)
+
+with Edward Halim, Yohanes Eko Riyanto and Nilanjan Roy
+
+
+[**The Bright Side of Dark Markets: Experiments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025127)
+
+with Edward Halim, Yohanes Eko Riyanto and Nilanjan Roy
+
+
+**Trading on Hearsay: Influencers’ Investment Horizon, Transparency of Trading Institution, and Credible Information Sharing**
+
+with Edward Halim, Yohanes Eko Riyanto and Nilanjan Roy
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
