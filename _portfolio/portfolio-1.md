@@ -39,7 +39,7 @@ The following documentation describes:
 
 *Start*
 
-## Input files
+## Load input files
 
 1. Create a folder with a sample name (for example <span style="font-size:18px; color:green"> ANIDT4</span>)
 2. In <span style="font-size:18px; color:green"> ANIDT4</span> create another two folder with name ```data``` and ```detrital_ui```.
