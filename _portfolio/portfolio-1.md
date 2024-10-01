@@ -45,7 +45,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
            . . .
            . . .
       ```
-4. Copy code files from the ```detrital_ui``` folder of <span style="font-size:18px; color:red"> Downloaded file</span> , and then paste these in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
+4. Copy code files from the ```detrital_ui``` folder of <span style="font-size:18px; color:red"> downloaded file</span> , and then paste these in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically following files:
      1.  <span style="font-size:18px; color:blue"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
 
 
