@@ -9,15 +9,15 @@ collection:
 Results of **Bayesian erosion modeling** for inversion of detrital fission-track thermochronometric ages are demonstrated in Borgohain et al. (2024, under review in Tectonics) that utilized a Bayesian erosion model developed by Avdeev et al. (2011). 
 
 The following documentation describes: 
-1. Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
-2. Configuring a model 
-3. Details about code options (Will be uploaded soon). 
+- Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
+- Configuring a model 
+- Details about code options (Will be uploaded soon). 
 
 Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
 <span style="font-size:18px; color:red"> Downloaded file</span>  contains two main folders: 
-1. ```data```
-2. ```detrital_ui```.
+- ```data```
+- ```detrital_ui```.
 
 # Overview of the Bayesian erosion modeling
 ## Input files
@@ -74,12 +74,12 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 
 ## Output files
  
- 1. Done, model output contains:
-    - Simulated age-elevation plot, a ```.png ``` file (summary.png)
-    - Goodness of fit test plot, a ```.png``` file (KS_test.png)
-    - A ```.csv``` file (statistics.csv) containing: 
-       - Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
-       - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
+Done, model output contains:
+- Simulated age-elevation plot, a ```.png ``` file (summary.png)
+- Goodness of fit test plot, a ```.png``` file (KS_test.png)
+- A ```.csv``` file (statistics.csv) containing: 
+  - Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
+  - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
           
 # Configuring a model
 
