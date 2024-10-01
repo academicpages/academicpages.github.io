@@ -37,7 +37,7 @@ The following documentation describes:
 <br>
 <hr style="border:1px solid blue">
 
-*Start*
+*Start...*
 
 ## Load input files
 
@@ -84,7 +84,7 @@ Done, the model output contains:
   - Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
   - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
 
-*End*
+*...End*
 <hr style="border:1px solid blue">
 <br>
 
