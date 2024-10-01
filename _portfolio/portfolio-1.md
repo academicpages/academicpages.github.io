@@ -34,7 +34,7 @@ The following documentation describes:
         >>> import pymc
         >>>
          ```
-___
+<hr style="border:2px solid blue">
 
 *Start*
 
