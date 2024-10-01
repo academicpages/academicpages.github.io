@@ -84,7 +84,7 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 # Configuring a model
 
 <span style="font-size:18px; color:red"> Download file</span>'s ```model_setup.py``` file is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
-1. To model **uniform erosion history scenario** ( ```break=0```), which refers to constant erosion rate through time, the following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
+1. To model **uniform erosion history scenario**, which refers to constant erosion rate through time, the following changes are required in ```model_setup.py```, this can be done by editing class and variables in the ```model_setup.py``` :
    1. Assign DEM file location and file name, for example, DEM file name is ```ANIDT4.xyz```
       ```
       catchment_1 = Catchment(hypsometry_file = "../data/ANIDT4.xyz", elevation_column = 'z')
