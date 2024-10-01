@@ -34,7 +34,8 @@ The following documentation describes:
         >>> import pymc
         >>>
          ```
-***
+___
+
 *Start*
 
 ## Input files
@@ -83,7 +84,8 @@ Done, the model output contains:
   - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
 
 *End*
-***
+
+___
 
 # Configuring a model
 
