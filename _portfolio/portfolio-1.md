@@ -34,6 +34,8 @@ The following documentation describes:
         >>> import pymc
         >>>
          ```
+<br>
+*Start*
 
 ## Input files
 
@@ -67,7 +69,7 @@ The following documentation describes:
 
 ## Running a model
 
-1. Open a terminal in the folder (```detrital_ui```) of <span style="font-size:18px; color:green"> ANIDT4</span> containing code files (i.e., <span style="font-size:18px; color:blue"> Python files</span>) of the Bayesian erosion model and activate the environment ```py2``` 
+1. Open a terminal in the folder (```detrital_ui```) of <span style="font-size:18px; color:green"> ANIDT4</span> containing code files (i.e., <span style="font-size:18px; color:blue"> Python files</span>) and activate the environment ```py2``` 
 2. Run the *Bayesian erosion model* by typing ```python run.py``` and then click ```enter```
   
 
@@ -79,7 +81,10 @@ Done, the model output contains:
 - A ```.csv``` file (statistics.csv) containing: 
   - Erosion rates (mm/yr) ```e1```, ```e2```, ```e3```,...
   - Age of erosion rate change  (Ma) ```abr1```, ```abr2```,...
-          
+
+*End*
+<br>
+
 # Configuring a model
 
 ```model_setup.py``` file (in ```detrital_ui```folder of <span style="font-size:18px; color:red"> downloaded file</span>) is used primarily to configure the model for a sample for various erosion history scenarios (here example sample is <span style="font-size:18px; color:green"> ANIDT4</span>). 
