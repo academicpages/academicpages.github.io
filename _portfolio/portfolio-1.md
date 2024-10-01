@@ -10,7 +10,7 @@ Results of **Bayesian erosion modeling** for inversion of detrital fission-track
 
 The following documentation describes: 
 1. Overview of running the **Bayesian erosion model** of Avdeev et al. (2011)
-2. Configuring a model (Will be uploaded soon)
+2. Configuring a model 
 3. Details about code options (Will be uploaded soon). 
 
 Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
