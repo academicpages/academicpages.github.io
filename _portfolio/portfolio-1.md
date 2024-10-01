@@ -13,13 +13,28 @@ The following documentation describes:
 - Configuring a model 
 - Details about code options (Will be uploaded soon). 
 
-Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). 
 
-<span style="font-size:18px; color:red"> Downloaded file</span>  contains two main folders: 
-- ```data```
-- ```detrital_ui```.
 
-# Overview of the Bayesian erosion modeling
+# Overview of the Bayesian erosion modeling in Python
+
+## Installation and computer setup
+1. Original Avdeev et al. (2011) can be downloaded from a link [click here](https://code.google.com/archive/p/thermochron/downloads). <span style="font-size:18px; color:red"> Downloaded file</span>  contains two main folders: 
+   - ```data```
+   - ```detrital_ui```.
+2. The simulation is carried out in Ubuntu 20.04.6 LTS, 64 bits.
+3. Conda environment was created (for example ```py2```) and activated.
+4. In ```py2``` environment following packages and libraries are required to run Avdeev et al. (2011) Bayesian erosion model 
+   - Python 2.7 (specifically version python=2.7.18) installed
+   - numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
+   - *Pymc* (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
+      - ``` conda install pymc::kabuki ``` code was used to install *PyMc*
+      - Check for installation of ```pymc```
+         ```
+         $ python
+        >>> import pymc
+        >>>
+         ```
+
 ## Input files
 
 1. Create a folder with a sample name (for example <span style="font-size:18px; color:green"> ANIDT4</span>)
@@ -48,22 +63,6 @@ Original Avdeev et al. (2011) can be downloaded from a link [click here](https:/
 4. Copy code files from the ```detrital_ui``` folder of <span style="font-size:18px; color:red"> downloaded file</span> , and then paste these in <span style="font-size:18px; color:green"> ANIDT4</span>'s ```detrital_ui``` folder. Specifically, the following files:
      -  <span style="font-size:18px; color:blue"> Python files</span> (```.py```): ``` common.py```, ```data_type.py```, ```model_setup.py```, ```plot.py```, and ```run.py```
 
-
-## Set up used
-
-1. Ubuntu 20.04.6 LTS, 64 bits.
-2. Conda environment was created (for example ```py2```) and activated.
-3. In ```py2``` environment following packages and libraries are installed
-   - Python 2.7 (specifically version python=2.7.18) installed
-   - numpy (version 1.16.6), matplotlib (1.5.0) installed along with required libraries. Other libraries detail can be found in file called ``` Bayesian_detrital_env.yml ```, [link is here](https://github.com/birajborgohain/Detrital-Thermochron-Avdeev-et-al.-2019/tree/main)
-   - *Pymc* (version - 2.3.8) installed, a link for details is [here](https://pymcmc.readthedocs.io/en/latest/INSTALL.html)
-      - ``` conda install pymc::kabuki ``` code was used to install *PyMc*
-      - Check for installation of ```pymc```
-         ```
-         $ python
-        >>> import pymc
-        >>>
-         ```
 
 
 ## Running a model
