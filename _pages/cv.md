@@ -14,7 +14,7 @@ Download my detailed CV [here](/files/FlorianBlanc_CV.pdf).
 # Education
 
 * **PhD in Computational Chemistry**, Strasbourg University, 2018 
-* Diploma of École Normale Supérieure in Biology and Physics, 2014
+* **École Normale Supérieure**, Diploma in Biology and Physics, 2014
 * MSc in Bioinformatics, Paris-7 University, 2014
 
 # Experience
