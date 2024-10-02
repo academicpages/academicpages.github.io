@@ -15,8 +15,12 @@ redirect_from:
 * Diploma of École Normale Supérieure in Biology and Physics, 2014
 * MSc in Bioinformatics, Paris-7 University, 2014
 
-# Research experience
+# Experience
 
+
+* **Since October 2024: CNRS Research Scientist (permanent position)**
+  * Institut des Sciences Analytiques, France
+  * Computational molecular biophysics, machine learning, physical chemistry  
 
 * **Since September 2023: Post-doctoral researcher**
   * Institut des Sciences Analytiques, France
@@ -42,13 +46,13 @@ redirect_from:
 
 * Oral and written scientific communication
 * Languages: English (fluent), French (native speaker), German (A1)
-* Programming: Python/SciPy, bash, Fortran 90 (basic knowledge), Tcl (basic knowledge)
-* Machine Learning: deep learning, generative learning, dimensionality reduction, density estimation, clustering
+* Programming: `Python`/`SciPy`, `bash`, Fortran 90 (basic knowledge), Tcl (basic knowledge)
+* Machine Learning: deep learning, generative learning, dimensionality reduction, density estimation, clustering (`PyTorch`, `scikit-learn`)
 * Molecular Simulations: Molecular Dynamics (atomistic/coarse-grained), free energy calculations
 
 # Publications
 
-  <ol>{% for post in site.publications %}
+  <ol reversed>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   

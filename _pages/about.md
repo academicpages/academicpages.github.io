@@ -8,16 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher in computational molecular biophysics, part of the Biophysics of Complex Systems team at Institut des Sciences Analytiques, France. 
+I am a permanent **CNRS Research Scientist** in the **Biophysics of Complex Systems** team at Institut des Sciences Analytiques, France. My research falls under **computational molecular biophysics**, **physical chemistry**, and **integrative structural biology**.
+I strive to understand how **biomolecular function** emerges from **structural dynamics** by describing the **atomically-detailed mechanisms** involved. For this, I combine **molecular dynamics simulations**, **machine learning**, and **experimental biophysics**. 
+Leaning on my expertise in **free energy calculations**, I have elucidated **complex molecular mechanisms** in systems ranging from short peptides, to large **molecular motors** (myosin, ATP synthase). I also contributed to early characterizations of the conformational dynamics and 
+immunogenic sites of the **SARS-CoV-2 spike protein**. I am now interested in **pushing the frontiers** of integrative structural biophysics with machine learning approaches. 
 
-
-My motivation is to understand how biomolecular function emerges from structural dynamics by describing the atomically-detailed mechanisms involved. For this, I combine molecular dynamics simulations, machine learning, and experimental biophysics. 
-
-
-
-Topics I am working on include:
-
-- Function of proteins involved in bacterial resistance to silver-based antibiotics
-- Structural basis for energy conversion by molecular motors, such as myosin or ATP synthase
-- Mechanism of Pi release by actin filaments
-- Structural dynamics and immunogenic sites of the SARS-CoV-2 spike protein
