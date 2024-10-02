@@ -9,6 +9,8 @@ redirect_from:
 
 ![](/images/CV_frise_chronologique.png)
 
+Download my detailed CV [here](/files/FlorianBlanc_CV.pdf).
+
 # Education
 
 * **PhD in Computational Chemistry**, Strasbourg University, 2018 
@@ -41,18 +43,3 @@ redirect_from:
   * Strasbourg University & Institut Curie, France
   * Exploring chemo-mechanical transduction in the myosin molecular motor through computer simulations
   * Supervisors: Marco Cecchini & Anne Houdusse
-
-
-# Publications
-
-  <ol reversed>{% for post in site.publications reversed%}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ol>
-  
-  
-# Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
