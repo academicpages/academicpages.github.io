@@ -9,3 +9,5 @@ collection: projects
   - Implemented real-time conversational workflows with **Redis** as the in-memory database for managing session states.
   - Integrated **PostgreSQL** for patient data management and **Elasticsearch** for fast, indexed search queries.
   - Deployed the solution using **Docker** containers on **AWS** and **Azure** for a multi-cloud architecture, enabling high availability and fault tolerance.
+
+------
