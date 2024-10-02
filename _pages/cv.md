@@ -30,3 +30,8 @@ Work experience
   * Virginia Tech, Wireless@VT Lab
   * Duties included: Research on the emergence of communication in multi-agent reinforcement learning systems.
   * Supervisor: Dr. Walid Saad
+
+* Summer and Fall 2023: Research Scientist PhD intern
+  * Procter & Gamble, Cincinnati, OH
+  * Duties included: Robotic manipulation and navigation. 
+  * Supervisor: Dr. Sanket Gaurav
