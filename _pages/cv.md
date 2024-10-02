@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 * Engineering Degree in Electrical and Computer Engineering, ENSEA, France, 2021
 * M.S. in Electrical and Computer Engineering, Georgia Institute of Technology, 2022
 * Ph.D in Electrical and Computer Engineering, Virginia Tech, 2026 (expected)

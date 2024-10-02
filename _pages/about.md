@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a PhD student at Virginia Tech. My research interest lie in understanding how learning agents interact, learn, and communicate in decentralized multi-agent systems. I wonder about the emergence of language, discrete symbols, collective intelligence, culture, and reasoning. 
+I am currently a PhD student at Virginia Tech. My research interest lie in understanding how learning agents interact, learn, and communicate in decentralized multi-agent systems. I wonder about the emergence of language, symbols, collective intelligence, culture, and reasoning. 
