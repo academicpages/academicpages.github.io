@@ -22,7 +22,7 @@ redirect_from:
   * Institut des Sciences Analytiques, France
   * Computational molecular biophysics, machine learning, physical chemistry  
 
-* **Since September 2023: Post-doctoral researcher**
+* **September 2023 - September 2024: Post-doctoral researcher**
   * Institut des Sciences Analytiques, France
   * Integrative modelling of the bacterial silver-resistance machinery Sil
   * Supervisors: Olivier Walker & Maggy Hologne
@@ -52,7 +52,7 @@ redirect_from:
 
 # Publications
 
-  <ol reversed>{% for post in site.publications %}
+  <ol>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
