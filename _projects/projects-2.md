@@ -1,6 +1,6 @@
 ---
 title: "FHIR Data Transformation Tool"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fhir.png'>"
+# excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fhir.png'>"
 collection: projects
 ---
 

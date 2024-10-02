@@ -1,6 +1,6 @@
 ---
 title: "Fusion Automation Framework"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fusion.png'>"
+# excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fusion.png'>"
 collection: projects
 ---
 
