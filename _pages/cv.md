@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-
+![](/images/CV_frise_chronologique)
 
 # Education
 
@@ -52,7 +52,7 @@ redirect_from:
 
 # Publications
 
-  <ol>{% for post in site.publications reversed%}
+  <ol reversed>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
