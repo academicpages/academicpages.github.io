@@ -1,7 +1,7 @@
 ---
 title: "FHIR Data Transformation Tool"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fhir.png'>"
-collection: portfolio
+collection: projects
 ---
 
 - **Technologies**: Python, PySpark, AWS Glue, Azure Data Factory, RESTful APIs, Kafka, PostgreSQL, FHIR

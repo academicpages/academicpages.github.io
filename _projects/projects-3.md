@@ -1,7 +1,7 @@
 ---
 title: "Fusion Automation Framework"
 excerpt: "Short description of portfolio item number 2 <br/><img src='/images/fusion.png'>"
-collection: portfolio
+collection: projects
 ---
 
 - **Technologies**: Python, Django Rest Framework (DRF), TensorFlow, PyTorch, Kubernetes, Jenkins, PostgreSQL

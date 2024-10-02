@@ -1,7 +1,6 @@
 ---
 title: "AI-Powered Chatbot for Healthcare"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/chatbot.png'>"
-collection: portfolio
+collection: projects
 ---
 
 - **Technologies**: Python, FastAPI, AWS Lambda, Azure Cognitive Services, Docker, Redis, PostgreSQL, Elasticsearch
