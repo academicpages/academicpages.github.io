@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **CNRS Research Scientist** in the **Biophysics of Complex Systems** team at Institut des Sciences Analytiques, France. 
+I am a **CNRS Research Scientist** in the [**Biophysics of Complex Systems**](http://nmrbiolchem.univ-lyon1.fr/) team at [Institut des Sciences Analytiques](https://www.isa-lyon.fr/), France. 
 
 
 My research falls under **computational molecular biophysics**, **physical chemistry**, and **integrative structural biology**.
