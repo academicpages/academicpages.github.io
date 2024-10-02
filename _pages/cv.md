@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-![](/images/CV_frise_chronologique)
+![](/images/CV_frise_chronologique.png)
 
 # Education
 
