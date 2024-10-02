@@ -41,14 +41,7 @@ redirect_from:
   * Strasbourg University & Institut Curie, France
   * Exploring chemo-mechanical transduction in the myosin molecular motor through computer simulations
   * Supervisors: Marco Cecchini & Anne Houdusse
-  
-# Skills
 
-* Oral and written scientific communication
-* Languages: English (fluent), French (native speaker), German (A1)
-* Programming: `Python`/`SciPy`, `bash`, Fortran 90 (basic knowledge), Tcl (basic knowledge)
-* Machine Learning: deep learning, generative learning, dimensionality reduction, density estimation, clustering (`PyTorch`, `scikit-learn`)
-* Molecular Simulations: Molecular Dynamics (atomistic/coarse-grained), free energy calculations
 
 # Publications
 
