@@ -1,5 +1,6 @@
 ---
-title: "Analyzing the thermodynamic bases of thermogenesis"
+layout: single
+title: "Thermodynamic bases of thermogenesis by quantum chemistry"
 collection: open-positions
 permalink: /open-positions/thermocreatine-masters-project-2024-2025
 date: 2024-10-03
