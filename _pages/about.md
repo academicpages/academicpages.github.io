@@ -194,16 +194,14 @@ I have been actively searching for the right mentor and project as I am very eag
 <div class="card">
     <div style="flex: 1;">
         <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming</h3>
-        <p>Ming Li, Ziqian Bi*, Tianyang Wang*, Keyu Chen, Jiawei Xu, Qian Niu, Junyu Liu, Benji Peng, Sen Zhang, Xuanhe Pan, Jinlang Wang, Pohsun Feng, Caitlyn Heqi Yin, Yizhu Wen, Ming Liu*†.</p>
-        <p><a href="https://arxiv.org/pdf/2409.19916" target="_blank">PDF</a></p>
+        <p>Ming Li, Ziqian Bi*, Tianyang Wang*, Keyu Chen, Jiawei Xu, Qian Niu, Junyu Liu, Benji Peng, Sen Zhang, Xuanhe Pan, Jinlang Wang, Pohsun Feng, Caitlyn Heqi Yin, Yizhu Wen, Ming Liu*† <a href="https://arxiv.org/pdf/2409.19916" target="_blank">(PDF)</a></p>
     </div>
 </div>
 
 <div class="card">
     <div style="flex: 1;">
         <h3>Deep Learning and Machine Learning: Advancing Big Data Analytics and Management</h3>
-        <p>Pohsun Feng*, Ziqian Bi*, Yizhu Wen*, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, Junyu Liu, Caitlyn Heqi Yin, Sen Zhang, Jinlang Wang, Qian Niu, Ming Li, Tianyang Wang.</p>
-        <p><a href="https://arxiv.org/pdf/2410.01268" target="_blank">PDF</a></p>
+        <p>Pohsun Feng*, Ziqian Bi*, Yizhu Wen*, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, Junyu Liu, Caitlyn Heqi Yin, Sen Zhang, Jinlang Wang, Qian Niu, Ming Li, Tianyang Wang <a href="https://arxiv.org/pdf/2410.01268" target="_blank">(PDF)</a></p>
     </div>
 </div>
 
