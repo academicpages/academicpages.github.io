@@ -191,17 +191,17 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <h3 id="Book Chapters">📚 Book Chapters</h3>
 
-<div class="card">
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <div style="flex: 1;">
         <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming</h3>
-        <p><a href="https://arxiv.org/pdf/2409.19916" target="_blank">Download PDF</a></p>
+        <p><a href="https://arxiv.org/pdf/2409.19916" target="_blank" style="color: #007bff; text-decoration: none;">PDF</a></p>
     </div>
 </div>
 
-<div class="card">
+<div class="card" style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <div style="flex: 1;">
         <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Unveiling AI's Potential Through Tools, Techniques, and Applications</h3>
-        <p><a href="https://arxiv.org/pdf/2410.01268" target="_blank">Download PDF</a></p>
+        <p><a href="https://arxiv.org/pdf/2410.01268" target="_blank" style="color: #007bff; text-decoration: none;">PDF</a></p>
     </div>
 </div>
 
