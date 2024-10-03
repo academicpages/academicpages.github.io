@@ -20,7 +20,7 @@ date: 2024-10-03
 ## Context
 Our bodies constantly dissipate energy to produce heat and maintain their temperature. This process, called **thermogenesis**, involves several enzyme-catalyzed chemical reactions. 
 How much these contribute to overall heat production, and how this latter is affected by **physico-chemical conditions** such as pH, remain unclear. 
-A better understanding of thermogenesis could open the way to **novel treatments** against metabolic diseases and obesity.
+A better understanding of thermogenesis could open the way to **novel treatments** against metabolic diseases and obesity. 
 
 ## Project
 We propose a Master’s research project aiming at **analyzing the thermodynamics of thermogenesis** by combining *ab initio* **quantum chemistry** and **mathematical modelling**. 
@@ -28,6 +28,7 @@ The goal is to develop a **kinetic model of enzymatic reactions** involved, para
 To evaluate these latter, specialized methods for the **identification of transition states** will be used. 
 Later on, extensions to **QM/MM analyses** of the reactions in enzyme **active sites** will be considered. The outcome will be a consistent **mathematical model of thermogenesis** to **predict** heat production per cycle, 
 which will be compared to *in vitro* and *in cellulo* measurements performed by our experimental collaborators. 
+The work will be jointly supervised by Prof. Christophe Morell (expert in DFT and theoretical chemistry), Dr. Guillaume Hoffmann (expert in DFT and machine learning), and Dr Florian Blanc (expert in molecular simulations of proteins).
 
 
 ## Profile
