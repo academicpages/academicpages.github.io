@@ -30,9 +30,9 @@ After I completed my Ph.D. degree, I moved on to my postdoctoral research with <
 Publication
 =
 
-**Lin TF**, Grasselli G, Hansel C\*. Cellular Mechanisms Underlying Cerebellar Learning. In Byrne JH (Ed.). *Learning and Memory: A Comprehensive Reference, 3rd Edition. Elsevier Science.* (Book chapter; hardcopy in press) <a href="[https://www.sciencedirect.com/science/article/abs/pii/B9780443157547000171?via%3Dihub]" style="color: black;">link</a>
+**Lin TF**, Grasselli G, Hansel C\*. Cellular Mechanisms Underlying Cerebellar Learning. In Byrne JH (Ed.). *Learning and Memory: A Comprehensive Reference, 3rd Edition. Elsevier Science.* (Book chapter; hardcopy in press) <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780443157547000171?via%3Dihub" style="color: black;">link</a>
 
-**Lin TF**, Busch, S.E., Hansel, C\*. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. *Nature Communications*. 2023. <a href="[https://www.nature.com/articles/s41467-024-48373-3]" style="color: black;">link</a>
+**Lin TF**, Busch, S.E., Hansel, C\*. Intrinsic and synaptic determinants of receptive field plasticity in Purkinje cells of the mouse cerebellum. *Nature Communications*. 2023. <a href="https://www.nature.com/articles/s41467-024-48373-3" style="color: black;">link</a>
 
 **Lin TF\* (sole corresponding author)**, Huang MY\*. A quantitative approach to study the adaptation of rhythmic eye movements and the resulting tonic eye deviation in larval zebrafish. *J Neurosci Res*. 2023. <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jnr.25220" style="color: black;">link</a>
 
