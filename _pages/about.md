@@ -190,6 +190,22 @@ I have been actively searching for the right mentor and project as I am very eag
 
 
 <h3 id="Book Chapters">📚 Book Chapters</h3>
+
+<div class="card">
+    <div style="flex: 1;">
+        <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Object-Oriented Programming</h3>
+        <p><a href="https://arxiv.org/pdf/2409.19916" target="_blank">Download PDF</a></p>
+    </div>
+</div>
+
+<div class="card">
+    <div style="flex: 1;">
+        <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Unveiling AI's Potential Through Tools, Techniques, and Applications</h3>
+        <p><a href="https://arxiv.org/pdf/2410.01268" target="_blank">Download PDF</a></p>
+    </div>
+</div>
+
+
  
 
 # Academic Service
