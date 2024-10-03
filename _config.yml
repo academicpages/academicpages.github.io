@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Florian Blanc, PhD"
 title_separator          : "-"
 name                     : &name "Florian E.C. Blanc"
-description              : &description "Post-doctoral researcher"
+description              : &description "CNRS Research Scientist"
 url                      : https://flblanc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "flblanc/flblanc.github.io"
@@ -185,6 +185,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  open-positions:
     output: true
     permalink: /:collection/:path/
 
