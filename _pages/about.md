@@ -16,4 +16,4 @@ Over the last two years of my undergraduate studies, I had the privilege of bein
 
 You can find my CV here: [Jianghan's CV](../assets/Jianghan_Resume).
 
-[Email](jz5480@nyu.edu)/[Github](https://github.com/JianghanZHang)/[Linkedin](https://www.linkedin.com/in/jianghan-zhang-4b2529248/)
+[Email](jz5480@nyu.edu) | [Github](https://github.com/JianghanZHang) | [Linkedin](https://www.linkedin.com/in/jianghan-zhang-4b2529248/)
