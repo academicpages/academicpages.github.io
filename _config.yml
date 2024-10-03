@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shikang Peng"
 title_separator          : "-"
 name                     : &name "Shikang Peng"
-description              : &description "Master's Student at University of Chicago"
+description              : &description "PhD Student at University of Toronto"
 url                      : https://shikangpeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shikangpeng/shikangpeng.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shikang Peng"
   avatar           : "profile.png"
-  bio              : "Master's student at UChicago"
-  location         : "Chicago, IL, US"
+  bio              : "PhD Student at UToronto"
+  location         : "Toronto, ON, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=WQhhDeEAAAAJ"
+  email            : "speng@research.baycrest.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "shikang_peng"
   vine             :
   weibo            :
   xing             :
