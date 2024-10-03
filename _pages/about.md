@@ -201,7 +201,7 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <div class="card">
     <div style="flex: 1;">
-        <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Unveiling AI's Potential Through Tools, Techniques, and Applications</h3>
+        <h3>Deep Learning and Machine Learning: Advancing Big Data Analytics and Management</h3>
         <p>Pohsun Feng*, Ziqian Bi*, Yizhu Wen*, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, Junyu Liu, Caitlyn Heqi Yin, Sen Zhang, Jinlang Wang, Qian Niu, Ming Li, Tianyang Wang.</p>
         <p><a href="https://arxiv.org/pdf/2410.01268" target="_blank">PDF</a></p>
     </div>
