@@ -1,12 +1,38 @@
 ---
-title:  "Some Space Stations in Fiction and Reality"
-date:   2024-09-29 14:30:00
+title:  "Inflatable bicycle tubes to realised von Braun Space Stations: a bygone idea worth revisiting?"
+date:   2024-10-06 23:59:59
 comments: true
 categories:
   - Large Space Stations
   - Space Exploration
 ---
-{% newthought An earlier post in my teaching resources for %} an undergraduate project had a pretty helpful
+
+
+# Summary
+
+# An old but discarded idea: bicycle tubes in space
+
+
+# The switch to rigid structures and, eventually, modular space stations
+
+
+# When was it a good time to focus on inflatable space structures?
+
+
+# Why is now a good time to return to inflatable space structures?
+- Starship
+- impending ISS retirement are the two obvious reasons to work on this now
+- BEAM has progressed with the ISS so we might have learned something good here to
+use as a base.
+
+# Technical benefits in other space systesm with advanced inflatables
+
+# Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures beused?
+
+# A DARPA-style program for inflatalbe space structures?
+
+
+
 AI-generated{%sidenote 'thankclaude' 'thanks to [Claude](claude.ai)'%}
 [table](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic).
 This is a quick post about Wernher von Braun's 1950's

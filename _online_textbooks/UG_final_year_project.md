@@ -11,7 +11,7 @@ modular stations such as ISS, as seen on the left of our logo, to rotating wheel
 space stations, on the right of our logo.' %}
 
 ## Who this page serves?
-This is likely only useful for QMUL's final year undergraduate students in who are taking
+{% newthought This is likely only useful for QMUL's %} final year undergraduate students in who are taking
 [EMS690U final year project](https://www.qmul.ac.uk/modules/items/ems690u-integrated-design-project.html)
 under my supervision. It will make little to no sense for anyone else (inlcuding those from QMUL) as
 there will be a lot covered in the in-person workshops. This is merely to augment to that; it is not
