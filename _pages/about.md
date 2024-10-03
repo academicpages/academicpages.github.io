@@ -9,7 +9,7 @@ redirect_from:
 
 ## My Background and Interests
 {% newthought 'At present, I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of
-London in the UK{% sidenote 'One' '[My QMUL page](https://www.sems.qmul.ac.uk/staff/a.nanjangud)' %}.
+London in the UK{% sidenote 'One' '[My QMUL page](https://www.seresearch.qmul.ac.uk/robotics/people/ananjangud/)' %}.
 Since entering academia in 2020, I have attempted to traverse the twofold research and education
 landscape in a manner that I think can expand consciousness- mine as well as of those who try
 to work with me. This is especially that case (I'd like to think) for students and early
