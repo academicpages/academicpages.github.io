@@ -1,5 +1,21 @@
+---
+title: "Analyzing the thermodynamic bases of thermogenesis"
+collection: open-positions
+permalink: /open-positions/thermocreatine-masters-project-2024-2025
+date: 2024-10-03
+---
+
 # Master 2 research internship (6 months): Analyzing the thermodynamic bases of thermogenesis by quantum chemistry and kinetic modelling
 
-Our bodies constantly dissipate energy to produce heat and maintain their temperature. This process, called thermogenesis, involves several enzyme-catalyzed chemical reactions. How much these contribute to overall heat production, and how this latter is affected by physico-chemical conditions such as pH, remain unclear. A better understanding of thermogenesis could open the way to novel treatments against metabolic diseases and obesity.
+Our bodies constantly dissipate energy to produce heat and maintain their temperature. This process, called **thermogenesis**, involves several enzyme-catalyzed chemical reactions. 
+How much these contribute to overall heat production, and how this latter is affected by **physico-chemical conditions** such as pH, remain unclear. 
+A better understanding of thermogenesis could open the way to **novel treatments** against metabolic diseases and obesity.
 
-We propose a Master’s research project aiming at analyzing the thermodynamics of thermogenesis by combining ab initio quantum chemistry and mathematical modelling. The goal is to develop a kinetic model of enzymatic reactions involved, parametrized by thermodynamic data computed by Density Functional Theory (DFT), namely, reaction enthalpies/entropies and activation barriers. To evaluate these latter, specialized methods for the identification of transition states will be used. In a second time, extensions to QM/MM analyses of the reactions in enzyme active sites will be considered. The outcome will be a consistent mathematical model of thermogenesis to predict heat production per cycle, which will be compared to in vitro and in cellulo measurements performed by our experimental collaborators. We are seeking a motivated student with solid programming skills (ideally in Python), a taste for interdisciplinary research, and a strong background in theoretical chemistry and/or computational biology. Machine learning skills would be a plus. Interested candidates should send a CV and a 1-page cover letter to Prof. Christophe Morell (christophe.morell@univ-lyon1.fr).
+We propose a Master’s research project aiming at **analyzing the thermodynamics of thermogenesis** by combining *ab initio* **quantum chemistry** and **mathematical modelling**. 
+The goal is to develop a **kinetic model of enzymatic reactions** involved, parametrized by thermodynamic data computed by **Density Functional Theory (DFT)**, namely, reaction enthalpies/entropies and activation barriers. 
+To evaluate these latter, specialized methods for the **identification of transition states** will be used. 
+Later on, extensions to **QM/MM analyses** of the reactions in enzyme **active sites** will be considered. The outcome will be a consistent **mathematical model of thermogenesis** to **predict** heat production per cycle, 
+which will be compared to *in vitro* and *in cellulo* measurements performed by our experimental collaborators. 
+
+We are seeking a motivated student with solid **programming skills** (ideally in Python), a taste for **interdisciplinary research**, and a strong background in **theoretical chemistry and/or computational biology**. **Machine learning** skills would be a plus. 
+Interested candidates should send a CV and a 1-page cover letter to Prof. Christophe Morell (`christophe.morell_at_univ-lyon1.fr`).
