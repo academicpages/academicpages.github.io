@@ -38,6 +38,20 @@ In my undergraduate thesis, I explored the **Finite Element Method (FEM)** for s
 
 ![FEM Photo](/images/fem.png)
 
+<div style="display: flex; justify-content: center;">
+  <a href="femthesis.pdf" target="_blank">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin-right: 10px; border: none; border-radius: 5px; cursor: pointer;">
+      Thesis
+    </button>
+  </a>
+  <a href="femposter.pdf" target="_blank">
+    <button style="background-color: #008CBA; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      Poster
+    </button>
+  </a>
+</div>
+
+
 ---
 
 ### Miscellaneous Projects in Probability + Python
