@@ -43,6 +43,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 <ul id="myList">
   <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://arxiv.org/pdf/2407.01812">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
+  <li>09/2024: I had a great time visiting the UPenn GRASP lab and presenting at the GRASP SFI seminar. Recording of my talk: <a href="https://www.youtube.com/watch?v=dJG83-6CZMY">link</a>.</li>
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
   <li>06/2024: I am proud to be part of the <a href="https://www.youtube.com/watch?v=B9g2yhHs5Wg">Khoury Story</a>!</li>
   <li>04/2024: I will be returning to the Boston Dynamic AI Institute as a summer intern.</li>
