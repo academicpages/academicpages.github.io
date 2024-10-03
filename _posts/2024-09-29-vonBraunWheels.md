@@ -6,7 +6,8 @@ categories:
   - Large Space Stations
   - Space Exploration
 ---
-{% newthought An earlier post in my teaching resources for %} an undergraduate project had a pretty helpful
+{% newthought "An earlier post in my teaching resources for" %} a final
+year undergraduate project had a pretty helpful
 AI-generated{%sidenote 'thankclaude' 'thanks to [Claude](claude.ai)'%}
 [table](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic).
 This is a quick post about Wernher von Braun's 1950's

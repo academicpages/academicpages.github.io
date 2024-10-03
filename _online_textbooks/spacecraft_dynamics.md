@@ -6,7 +6,7 @@ excerpt: "An introduction to spacecraft dynamics modelling and simulation."
 ## [Weblink](http://angadhn.com/SpacecraftDynamics)
 
 ## Who might find the above link useful?
-{% newthought The above online textbook is most useful for %} QMUL's second year Aerospace Engineering undergraduate students taking
+{% newthought "The above online textbook is most useful for" %} QMUL's second year Aerospace Engineering undergraduate students taking
 [EMS515U: Introduction to Spacecraft Dynamics](https://www.qmul.ac.uk/modules/items/ems515u-introduction-to-spacecraft-dynamics.html).
 It could also be a useful resource for other educators interested in teaching orbital mechanics, especially using computational
 tools like `numpy`.
