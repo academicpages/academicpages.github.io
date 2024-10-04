@@ -1,6 +1,6 @@
 ---
 title:  "Inflatable 'bicycle tubes' to make von Braun Space Stations: a bygone idea worth revisiting?"
-date:   2024-10-06 23:59:59
+date:   2023-10-06 23:59:59
 comments: true
 categories:
   - Large Space Stations
@@ -8,31 +8,39 @@ categories:
 ---
 
 # Background
-The idea of being a space-faring civilisation has been with us for a while
-from the fictional lens as well as a scientific one. Kepler imagined
-[Somnium](https://en.wikipedia.org/wiki/Somnium_(novel)){% sidenote
-`somnium` "At the time of my writing this post, this was also
-readable online [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
-in 1608 and
-[Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
-[Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) from 1865 are contemplations
-of fantastical ideas that make me imagine what flak they might have gotten back 
-then alongside fanfare. Kepler's work in astronomy influenced Newton- influenced by
-others before him like Brahe, an enduring broad impact on science, engineering,
-and human civilisation has come from scientists obsessed with the stars.
-Today's community interested in these topics is larger and more diverse in
-skills leading to astonishing achievements such as the Apollo program and
-other in the $20^{th}$and $21^{st}$ century. Today however, scientists and
-engineers are battling not the law of physics but the limiting sociopolitical views often
-seeking short-term justificaation of projects espeically in the realm of
-space travel and habitation {% sidenote 'inflatables-2' "not so for space
-data services, as satellites have been miniaturised, commodified, and productised
-out of the hands of governments."%}. Overcoming the physics of space is hard enough
-so, beyond this bit of prose, I will focus on achieving space superstructures
-that can expand our presence in space that will allow us to then extend our reach.
-Along the way, readers may find justification for why we need to support space
-superstructures development in the short-term but my hope is to also hopefully
-to reach murkier future imaginings.
+The idea of becoming a space-faring civilisation has occupied us
+from a fictional lens as well as a scientific one for some time now.
+Kepler's [Somnium](https://en.wikipedia.org/wiki/Somnium_(novel))
+{% sidenote `somnium` "At the time of my writing this post, his sci-fi story was
+archived [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
+in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
+[Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) from 1865 are
+fantastical contemplations of space-faring civilisations that brought with 
+it more flak than fanfare {% sidenote 'flak' "Kepler's mom was put on
+[trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
+for witchcraft with some connections to Somnium.
+Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}.
+
+An enduring impact on science, engineering, and human civilisation has come from
+scientists obsessed with the stars; Kepler's work in astronomy influenced Newton,
+for example. The technoscientific community that has emerged from their work
+is larger and more diverse in skills, driving astonishing achievements like
+the Apollo program and others in the $20^{th}$and $21^{st}$ centuries. Today's
+scientists and engineers battle not just the limits imposed by physics but
+that of bureaucratic funders seeking short-term justificaations for projects
+especially in realsiing sci-fi realities of space travel and habitation
+{% sidenote 'inflatables-2' "not so for space data services, as satellites have
+been miniaturised, commodified, and productised out of the hands of governments."%}.
+
+From hereon, this post returns to an old idea of space superstructures: von Braun's rotating wheel
+space stations- he was inspired by Herman Potočnik's idea of ring-shaped habitats
+{% sidenote 'potocnik' "[*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
+in GEO over Berlin. with a focus on inflatable
+habitats. I will also explore options for realising space superstructures
+that can expand our presence in space and then, hopefully more sensibly,
+extend our reach. Along the way, readers may find justification or
+sympathise with supporting the development of space superstructures
+in the near-term but my hope is valuable.
 
 # The vision: What we have wanted to do?
 The vision I want to put forward is to be able to deploy a space station
@@ -42,12 +50,6 @@ increase on any of its predecessors and there aren't any planned either {%
 sidenote 'inflatables-3' "See table [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}. Instead,
 the next likely space station is the Lunar Gateway that will operate at an orbit
 further to the International Space Station (ISS).
-
-
-
-<!-- ## Popular reasons why we should not do this -->
-
-<!-- ## Popular reasons why we should do this -->
 
 # Why do we want to do this? (Or what does success look like? Or what does this enable?)
 Werner von Braun's 1950's vision of rotating wheel space stations estimated
