@@ -1,16 +1,19 @@
 ---
-layout: archive
+layout: page
 title: "Publications"
 permalink: /publications/
 author_profile: true
+years: [2024,2023,2022,2021,2020,2019,2018,2017,2016]
+nav: true
+nav_order: 1
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+<!-- _pages/publications.md -->
+<div class="publications">
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+{%- for y in page.years %}
+  <h2 class="year">{{y}}</h2>
+  {% bibliography -f MyPublications -q @*[year={{y}}]* %}
 {% endfor %}
+
+</div>

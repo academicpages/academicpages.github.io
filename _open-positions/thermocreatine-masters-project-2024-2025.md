@@ -8,11 +8,11 @@ date: 2024-10-03
 
 | Type | Research Internship |
 | ------| ---------------------|
+| Level | Master's student | 
 | Duration   | 6 months     |
 | Start | January 2025 earliest |
 |      Salary          |     ~ 500€/month |
 |Location | ISA, Lyon, France |
-| Level | Master's student | 
 | Contact | Dr Florian Blanc (florian.blanc_at_isa-lyon.fr), Prof. Christophe Morell (christophe.morell_at_univ-lyon1.fr) |
 
 
