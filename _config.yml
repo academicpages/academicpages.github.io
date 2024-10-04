@@ -145,12 +145,12 @@ author:
 # Site Footer
 footer:
   links:
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  url: "https://twitter.com/phytoblankton"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/angadhn"
+    - label: "Soundcloud"
+      icon: "fab fa-fw fa-soundcloud"
+      url: "https://soundcloud.com/angadh-nanjangud"
 
 
 # Reading Files
