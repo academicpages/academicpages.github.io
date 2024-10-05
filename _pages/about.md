@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PHD student from [Shenzhen University](https://www.szu.edu.cn/). My research interest includes blockchian, zero-knowledge proof.
+I'm a PHD student from [Shenzhen University](https://www.szu.edu.cn/). My research interest includes blockchain, zero-knowledge proof.
 
 
 
