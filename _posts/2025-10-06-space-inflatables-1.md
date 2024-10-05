@@ -1,6 +1,6 @@
 ---
 title:  "Inflatable 'bicycle tubes' to make von Braun Space Stations: a bygone idea worth revisiting?"
-date:   2025-10-06 23:59:59
+date:   2023-10-06 23:59:59
 comments: true
 categories:
   - Large Space Stations
@@ -8,56 +8,71 @@ categories:
 ---
 
 ## Background
-The idea of becoming a space-faring civilisation has occupied us
-from a fictional lens as well as a scientific one for some time now.
 Kepler's [Somnium](https://en.wikipedia.org/wiki/Somnium_(novel)){% sidenote
 `somnium` "At the time of my writing this post, his sci-fi story was
 archived [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
 in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
 [Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
 from 1865 are
-fantastical contemplations of space-faring civilisations that brought with 
-it more flak than fanfare {% sidenote 'flak' "Kepler's mom was put on
+early fantasy science-fiction of space-faring civilisations. Kepler
+faced more flak than fanfare for his work 
+{% sidenote 'flak' "Kepler's mom was put on
 [trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
 for witchcraft with some connections to Somnium.
-Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}.
+Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}
+but I was especially surprised to learn about his use of creative writing
+as an additional tool to explore ideas around space-faring and
+extra-terrestrial civilisations; his scientific work in astronomy influenced
+Newton and others indicating an enduring impact on science, engineering, and human
+civilisation stemming from a curiosity about the motion of stars.
+It suffices to say that space habiation has occupied us from a fictional
+and scientific lens for some time now. 
 
-An enduring impact on science, engineering, and human civilisation has come from
-scientists obsessed with the stars; Kepler's work in astronomy influenced Newton,
-for example. The technoscientific community that has emerged from their work
-is larger and more diverse in skills, driving astonishing achievements like
-the Apollo program and others in the $20^{th}$and $21^{st}$ centuries. Today's
-scientists and engineers battle not just the limits imposed by physics but
-that of bureaucratic funders seeking short-term justificaations for projects
-especially in realsiing sci-fi realities of space travel and habitation
-{% sidenote 'inflatables-2' "not so for space data services, as satellites have
-been miniaturised, commodified, and productised out of the hands of governments."%}.
-
-From hereon, this post returns to an old idea of space superstructures: von Braun's rotating wheel
-space stations- he was inspired by Herman Potočnik's idea of ring-shaped
-habitats{% sidenote 'potocnik' "[*The Problem of
-Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
-in GEO over Berlin. with a focus on inflatable
-habitats. I will also explore options for realising space superstructures
-that can expand our presence in space and then, hopefully more sensibly,
-extend our reach. Along the way, readers may find claims as to why supporting
-the development of space superstructures in the near-term is a potentially
-valuable and socially pertinent one.
+Today's technocultural space community of thinkers that have conjured or
+realised astonishing visions like the Apollo program and reusable rocketsin
+the $20^{th}$and $21^{st}$ centuries. The technical community no longer
+battle claims of heresy but politics, as if fighting to overcome the limits 
+of physics isn't hard enough. Bureaucratic operators seek short-term
+justifications for projects thus preventing kicking-off projects
+that propel us towards sci-fi realities of large scale space travel
+and habitation {% sidenote 'inflatables-2' "not so for space data services,
+as satellites have been miniaturised, commodified, and productised out of the hands
+of governments."%}, branding these projects as potentially irresponsible to justify with
+public money. Governments want to solve the flat-lining productivity problem
+{% sidenote "UKproductivity" "I believe investment creates skilled populations,
+some of whom create new visions that result in new jobs and the remaining
+others perform these jobs. I can't definitively prove this, of course." %}
+but want to do so without investing in visions of a limitlessly abundant future.
+Meanwhile, private investors want rapid returns on investment while making
+bold claims {% marginfigure 'thiel' 'assets/imgs/thiel.png' %} leaving
+participation in radical space progress the domain of the superwealthy. From
+hereon, this post will focus on one such radical notion of space
+superstructures, such as rotating wheel space stations, that expand our
+presence in space and then extend our reach to go deeper into space. The
+post mostly argues for a focus on developing inflatable technologies to
+realise these structures in the near-term but it is possible that this is
+too ambitious a goal. Thus, other options (e.g., robots) for realising
+space superstructures will be loosely discussed in related contexts. Along
+the way, readers may find claims that explain why supporting the development 
+of space superstructures in the near-term is potentially valuable and socially
+relevant.
 
 ## The vision
-Simply put, the vision I am putting forward is of a space station with a crew 
-capacity of 100 astronauts, so $>10x$ that of the ISS. In my book, this
-implies a pressurized volume $>20x$ that of the ISS so that each crew member
-has a hypothetical $100m^3$ of volume though this would be lesser in practice
-as the habitable portions have been lesser by around 50% as equipment
-takes up a fair amount of room, as well. A more concrete breakdown of estimated sizes
-is provided below:
+Simply put, the vision I am putting forward is of deploying space stations
+with crew capacities of at least $100 $astronauts, i.e., $>10x$ that of
+the ISS. 
 
-|              Parameters                      | ISS    | von Braun              | Hundred person Habitat |
+
+I assume that a pressurized volume $>20x$ of the ISS gives each crew member a
+hypothetical $100m^3$ of volume though, in practice, the real habitable
+volume is significantly lesser as on-board equipment/instruments take up
+considerable space. A more concrete breakdown of estimated sizes is provided below:
+
+|              Parameters                      | ISS    | von Braun wheel        | Hundred person Habitat |
 | -------------------------------------------- | ------ | ---------------------- | ---------------------- |
 | crew size (# of astronauts)                  | 7-13   | 50-80                  | 100                    |
 | diameter of the station (m)                  | n/a    | 75                     | 300                    |
-| total volume $m^3$                           | 916    | 6217.85                | 26647.93               |
+| total volume $m^3$                           | 916    | 6217.85                | 100000               |
 | habitable %                                  | 42.35% | 60% (assumed)          | ?                      |
 | Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 13223.46               |
 | Rotational speed for artificial gravity (RPM)|  -     | 3                      | 2.44                   |
@@ -70,6 +85,11 @@ increase on any of its predecessors and there aren't any planned either {%
 sidenote 'inflatables-3' "See table [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}. Instead,
 the next likely space station is the Lunar Gateway that will operate at an orbit
 further to the International Space Station (ISS).
+
+von Braun's rotating wheel space stations. He
+was inspired by Herman Potočnik's idea of a $30\,m$ ring-shaped habitat
+{% sidenote 'potocnik' "[*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
+at GEO over Berlin.
 
 ## Why do we want to do this? (Or what does success look like? Or what does
 this enable?) Werner von Braun's 1950's vision of rotating wheel

@@ -661,10 +661,11 @@ img { max-width: 100%; }
                          width: 45%;
                          margin-top: 0;
                          margin-bottom: 1.96rem;
-                         font-size: 0.7rem;
+                         font-size: 0.9rem;
                          line-height: 1.96; //changed to bring line heights into rational pattern
                          vertical-align: baseline;
-                         position: relative; }
+                         position: relative;
+                         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 
 
 li .sidenote, li .marginnote{ margin-right: -50%; width: 25%} //added to allow for the fact that lists are indented and marginnotes and sidenotes push to right
