@@ -48,8 +48,6 @@ Exploring scalable solutions in machine learning.
 
 ## 3. Neuro-Inspired Continual Learning
 Focusing on memory-replay and neuro-inspiration approaches for continual learning.
-[//]: # - [**Saliency-Guided Hidden Associative Replay for Continual Learning**](https://openreview.net/pdf?id=Fhx7nVoCQW)   
-[//]: #  _AMHN Workshop @NeurIPS 2023_  
 - [**Saliency-Augmented Memory Completion for Continual Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)  
   _SDM 2023_  
 
