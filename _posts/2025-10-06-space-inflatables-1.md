@@ -47,8 +47,13 @@ valuable and socially pertinent one.
 ## The vision
 Simply put, the vision I am putting forward is of a space station with a crew 
 capacity of 100 astronauts, so $>10x$ that of the ISS. In my book, this
-implies a pressurized volume $>20x$ that of the ISS:
-|                                              | ISS    | von Braun              | Hundred person Habitat |
+implies a pressurized volume $>20x$ that of the ISS so that each crew member
+has a hypothetical $100m^3$ of volume though this would be lesser in practice
+as the habitable portions have been lesser by around 50% as equipment
+takes up a fair amount of room, as well. A more concrete breakdown of estimated sizes
+is provided below:
+
+|              Parameters                      | ISS    | von Braun              | Hundred person Habitat |
 | -------------------------------------------- | ------ | ---------------------- | ---------------------- |
 | crew size (# of astronauts)                  | 7-13   | 50-80                  | 100                    |
 | diameter of the station (m)                  | n/a    | 75                     | 300                    |

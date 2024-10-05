@@ -52,7 +52,7 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
                //text-align: center; 
                }
 
-th, td{ font-size: 1.2rem;
+th, td{ font-size: 1rem;
         line-height: 1.71428571;  }
 
 .booktabs th.cmid, th { border-bottom: 1px solid lighten($border-color, 25%); }

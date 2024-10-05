@@ -1,7 +1,7 @@
 ---
 title:  "Tufte-style Jekyll blog"
 toc: false
-date:   2060-04-13 09:46:04
+date:   2010-04-13 09:46:04
 mathjax: true
 toc: true
 ---
