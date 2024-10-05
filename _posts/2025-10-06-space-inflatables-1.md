@@ -1,6 +1,6 @@
 ---
 title:  "Inflatable 'bicycle tubes' to make von Braun Space Stations: a bygone idea worth revisiting?"
-date:   2023-10-06 23:59:59
+date:   2025-10-06 23:59:59
 comments: true
 categories:
   - Large Space Stations
