@@ -14,7 +14,8 @@ Kepler's [Somnium](https://en.wikipedia.org/wiki/Somnium_(novel))
 {% sidenote `somnium` "At the time of my writing this post, his sci-fi story was
 archived [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
 in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
-[Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) from 1865 are
+[Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
+from 1865 are
 fantastical contemplations of space-faring civilisations that brought with 
 it more flak than fanfare {% sidenote 'flak' "Kepler's mom was put on
 [trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
@@ -236,3 +237,8 @@ idea to UK's ARIA for an inflatable space robot. To coordinate them, we
 need a ARPA-style program or something close to it.
 
 ## Why not do it in a startup?
+
+
+
+# Footnotes
+[^a]: I've only read a summary of Brick Moon, a story of workers building a 200-foot sphere that are accidentally launched into space to become first inhabitants of space. The moon was to serve as a navigational aid for sailors. It also estimates a cost for the construction at ${\$}250k$ using $12$ million bricks.
