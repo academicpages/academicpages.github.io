@@ -76,6 +76,7 @@ $3 \, RPM$.
 |                                              | ISS    | von Braun              | Space Station V |
 | -------------------------------------------- | ------ | ---------------------- | --------------- |
 | crew size (# of astronauts)                  | 7-13   | 50-80                  | 2               |
+| diameter of the station (m)                  | n/a    | 75                     | 300             |
 | total volume $m^3$                           | 916    | 6217.85                | 26647.93        |
 | habitable %                                  | 42.35% | 60% (assumed)          | ?               |
 | Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 13223.46        |

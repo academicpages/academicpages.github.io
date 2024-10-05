@@ -7,11 +7,11 @@ categories:
   - Space Exploration
 ---
 
-# Background
+## Background
 The idea of becoming a space-faring civilisation has occupied us
 from a fictional lens as well as a scientific one for some time now.
-Kepler's [Somnium](https://en.wikipedia.org/wiki/Somnium_(novel))
-{% sidenote `somnium` "At the time of my writing this post, his sci-fi story was
+Kepler's [Somnium](https://en.wikipedia.org/wiki/Somnium_(novel)){% sidenote
+`somnium` "At the time of my writing this post, his sci-fi story was
 archived [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
 in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
 [Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
@@ -34,31 +34,45 @@ especially in realsiing sci-fi realities of space travel and habitation
 been miniaturised, commodified, and productised out of the hands of governments."%}.
 
 From hereon, this post returns to an old idea of space superstructures: von Braun's rotating wheel
-space stations- he was inspired by Herman Potočnik's idea of ring-shaped habitats
-{% sidenote 'potocnik' "[*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
+space stations- he was inspired by Herman Potočnik's idea of ring-shaped
+habitats{% sidenote 'potocnik' "[*The Problem of
+Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
 in GEO over Berlin. with a focus on inflatable
 habitats. I will also explore options for realising space superstructures
 that can expand our presence in space and then, hopefully more sensibly,
-extend our reach. Along the way, readers may find justification or
-sympathise with supporting the development of space superstructures
-in the near-term but my hope is valuable.
+extend our reach. Along the way, readers may find claims as to why supporting
+the development of space superstructures in the near-term is a potentially
+valuable and socially pertinent one.
 
-# The vision: What we have wanted to do?
-The vision I want to put forward is to be able to deploy a space station
-with a pressurized volume of at least 10x that of the ISS from one single
+## The vision
+Simply put, the vision I am putting forward is of a space station with a crew 
+capacity of 100 astronauts, so $>10x$ that of the ISS. In my book, this
+implies a pressurized volume $>20x$ that of the ISS:
+|                                              | ISS    | von Braun              | Hundred person Habitat |
+| -------------------------------------------- | ------ | ---------------------- | ---------------------- |
+| crew size (# of astronauts)                  | 7-13   | 50-80                  | 100                    |
+| diameter of the station (m)                  | n/a    | 75                     | 300                    |
+| total volume $m^3$                           | 916    | 6217.85                | 26647.93               |
+| habitable %                                  | 42.35% | 60% (assumed)          | ?                      |
+| Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 13223.46               |
+| Rotational speed for artificial gravity (RPM)|  -     | 3                      | 2.44                   |
+| Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 9.81                   |
+
+
+from one single
 rocket launch. To date, no space station has offered an order of magnitude
 increase on any of its predecessors and there aren't any planned either {%
 sidenote 'inflatables-3' "See table [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}. Instead,
 the next likely space station is the Lunar Gateway that will operate at an orbit
 further to the International Space Station (ISS).
 
-# Why do we want to do this? (Or what does success look like? Or what does this enable?)
-Werner von Braun's 1950's vision of rotating wheel space stations estimated
-at least 50 people living and working in such a station. This would be 5x
-to 7x improvement on the ISS but a 10x improvement to 100 astronauts does
-not, to me, seem unrealistic/unreasonable.
+## Why do we want to do this? (Or what does success look like? Or what does
+this enable?) Werner von Braun's 1950's vision of rotating wheel
+space stations estimated at least 50 people living and working in
+such a station. This would be 5x to 7x improvement on the ISS but
+a 10x improvement to 100 astronauts does not, to me, seem unrealistic/unreasonable.
 
-# An old but discarded counterintuitive idea: bicycle tubes in space
+## An old but discarded counterintuitive idea: bicycle tubes in space
 A counterintuitive insight I've developed in space engineering is that
 simpler solutions are often overlooked for things that are the hot
 thing that is usually more complex. One example is ignoring inflatables
@@ -87,18 +101,19 @@ and create larger, more versatile space habitats than ever before.
 It's a reminder that in space engineering, sometimes the most effective
 solutions are those that challenge our Earth-biased intuitions.
 
-# The switch to rigid structures and, eventually, modular space stations
+## The switch to rigid structures and, eventually, modular space stations
 
-# When was it a good time to focus on inflatable space structures?
+## When was it a good time to focus on inflatable space structures?
 
 
-# Why is now a good time to return to inflatable space structures?
+## Why is now a good time to return to inflatable space structures?
 - Starship
 - impending ISS retirement are the two obvious reasons to work on this now
 - BEAM has progressed with the ISS so we might have learned something good here to
 use as a base.
-## BRAINS
-### It is not a daft idea- just a forgotten one
+
+### BRAINS
+#### It is not a daft idea- just a forgotten one
 Based on Goodyear/NASA's work in the 60's, it is unfair to say that nobody has
 done this yet. However, the focus has changed to rigid structures, which
 have gained more space heritage and thus continue to be the preferred option.
@@ -109,7 +124,7 @@ very useful contact as one of the few but leading experts with a similar
 belief on inflatables and the expertise to advise me on successfully
 delivering my program on inflatable tubes.
 
-### There are will be users for inflatable space structures!
+#### There are will be users for inflatable space structures!
 NASA and ESA are obvious "end-user" candidates in the near term for expanded
 R&D in-orbit. Varda would be another as such inflatable modules could host
 their drug manufacturing systems, with the beneficiaries being patients on
@@ -122,10 +137,10 @@ tourism is the eventual and hopefully inevitable outcome.
 
 
 
-# What are the gaps/limitations today? Can we overcome them?
-## 
+## What are the gaps/limitations today? Can we overcome them?
+### 
 
-## BRAINS
+### BRAINS
 The use of inflatable tubular space stations was undertaken by Good Year in
 1961, making the idea (at least) as old as NASA itself; however, the lack of
 soft materials that could handle micrometeoroid collisions led to focus changing
@@ -138,16 +153,16 @@ ARPA program, these would likely be systems with minimal control systems for
 position and orientation. However, the focus would be on using/developing smarter 
 and safer inflatable textiles.
 
-## ARIA
+### ARIA
 
-## According to me/my readings?
+### According to me/my readings?
 
-# Technical benefits in other space systesm with advanced inflatables
+## Technical benefits in other space systesm with advanced inflatables
 
-# Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures beused?
+## Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures beused?
 
-# A DARPA-style program for inflatalbe space structures?
-## BRAINS
+## A DARPA-style program for inflatalbe space structures?
+### BRAINS
 My program's goal aims to achieve technologies for larger orbiting structures for
 habs, fabs, and labs. Two solutions for achieving larger structures are via
 robots that modularly assemble larger structures; and inflatable/deployable
@@ -157,7 +172,7 @@ inflatable structures would be a better solution here as they could be cheaper.
 Thus, my  program would focus on developing inflatable tubes that would be
 versatile enough  to eventually become rotating wheel space stations.
 
-## ARIA
+### ARIA
 My program would develop a space superstructure that increases crew and
 science capacity of the International Space Station by 10x-100x. This
 will be achieved by increasing the usable/occupiable volume that
@@ -221,14 +236,14 @@ some ARIA PDs to JPL and the resulting conversations show that this
 could be overcome because the flow of money does change the power
 dynamics. a bit (don't quote me on this, please).
 
-# In view of these risks, why is a DARPA-style program the right way to do this?
-## Why not do it in academia?
+## In view of these risks, why is a DARPA-style program the right way to do this?
+### Why not do it in academia?
 I already work in academia and the idea of building larger orbiting
 structures faces moral oppositions as people think it will purely serve
 billionaires. This is before we even explore budgets; I don't personally
 know of any academic who wins £50 million in R&D funding via grants.
 
-## Why not do it in a space agency?
+### Why not do it in a space agency?
 The small community on inflatable space structures is distributed and
 I have already been in conversation with some experts; these "pieces of
 the puzzle" are at NASA JSC and JPL. These engineers and researchers
@@ -236,9 +251,9 @@ are unlikely to move from their orgs on a risky project via an FRO, despite thei
 idea to UK's ARIA for an inflatable space robot. To coordinate them, we
 need a ARPA-style program or something close to it.
 
-## Why not do it in a startup?
+### Why not do it in a startup?
 
 
 
-# Footnotes
+## Notes
 [^a]: I've only read a summary of Brick Moon, a story of workers building a 200-foot sphere that are accidentally launched into space to become first inhabitants of space. The moon was to serve as a navigational aid for sailors. It also estimates a cost for the construction at ${\$}250k$ using $12$ million bricks.
