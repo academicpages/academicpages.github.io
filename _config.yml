@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me.png"
+  avatar           : "me.jpg"
   name             : "Zibin Lin"
   pronouns         : # example: "she/her"  
   bio              : "I am Zibin Lin.I am a PHD student of Shenzhen University. My research interest includes blockchain, zero-knowledge proof. "
