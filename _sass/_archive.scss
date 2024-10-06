@@ -47,6 +47,9 @@
   a + a {
     opacity: 0.5;
   }
+  & + p {
+     font-size: $type-size-6;
+   }
 }
 
 /* remove border*/
