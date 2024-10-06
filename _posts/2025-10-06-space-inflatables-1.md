@@ -15,8 +15,7 @@ in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_H
 [Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
 from 1865 are
 early fantasy science-fiction of space-faring humans. Kepler
-faced more flak than fanfare for his work 
-{% sidenote 'flak' "Kepler's mom was put on
+faced more flak than fanfare for his work {% sidenote 'flak' "Kepler's mom was put on
 [trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
 for witchcraft with some connections to Somnium.
 Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}
@@ -35,11 +34,11 @@ battles claims of heresy but politics, as if fighting to overcome the limits
 of physics isn't hard enough. Bureaucratic operators seek short-term
 justifications for projects thus preventing kicking-off projects
 that propel us towards sci-fi realities of large scale space travel
-and habitation {% sidenote 'inflatables-2' "not so for space data services,
+and habitation{% sidenote 'inflatables-2' "not so for space data services,
 as satellites have been miniaturised, commodified, and productised out of the hands
 of governments."%}, branding these projects as potentially irresponsible to justify with
-public money. Governments want to solve the flat-lining productivity problem
-{% sidenote "UKproductivity" "I believe investment creates skilled populations,
+public money. Governments want to solve the flat-lining productivity problem{% sidenote
+"UKproductivity" "I believe investment creates skilled populations,
 some of whom create new visions that result in new jobs and the remaining
 others perform these jobs. I can't definitively prove this, of course." %}
 but want to do so without investing in visions of a limitlessly abundant future.
@@ -62,7 +61,7 @@ Simply put, the vision I am putting forward is of deploying monolithic
 space stations with crew capacities of at least $100$ astronauts, i.e., 
 $>10x$ the ISS's typical crew size; I call this the Hundred Person Habitat (HPH).
 To date, no station has offered an order of magnitude increase on its
-predecessors and none are in the pipeline {% sidenote 'inflatables-3' "The
+predecessors and none are in the pipeline{% sidenote 'inflatables-3' "The
 in-development Lunar Gateway will operate at an orbit further to the
 International Space Station (ISS) with a crew of 4. See table
 [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}.
@@ -101,7 +100,7 @@ space habitat prototype by Goodyear in 1961." %}
 
 In 1961, Goodyear Aircraft Corporation prototyped an inflatable tube
 space station (see above) called the Erectable Torus Manned Space
-Laboratory {% sidenote 'airlocks' "Around the same time, the Soviets
+Laboratory{% sidenote 'airlocks' "Around the same time, the Soviets
 were developing inflatable airlocks; a more modestly sized appendage
 to spacecraft that allows astronauts to move between a pressurized
 spacecraft and the vacuum of space." %}. The idea never made it to
@@ -164,11 +163,10 @@ solutions are those that challenge our Earth-biased intuitions.
 
 ## Why is now a good time to return to inflatable space structures?
 There are probably many more reasons than I describe below as to why now is
-a good time to revisit the GoodYear inflatable station idea {% sidenote 'robotics1'
+a good time to revisit the GoodYear inflatable station idea{% sidenote 'robotics1'
 "Unlike was done with inflatables, we should also ensure support for
 maturing in-space robotic assembly and maintenance technology development
-as I imagine that at even larger scales, a reliance on this stack will be necessary."%}
-{% sidenote 'robotics2' "In fact, such stations are just one application of inflatable 
+as I imagine that at even larger scales, a reliance on this stack will be necessary."%}{% sidenote 'robotics2' "In fact, such stations are just one application of inflatable 
 technologies I see. They could totally transform space robotics by using pneumatic actuation
 for orbital applications thus eliminating the need for radiation-hardened components like
 joint motors- a pretty massive bottleneck in the development of space robotics."%}.
