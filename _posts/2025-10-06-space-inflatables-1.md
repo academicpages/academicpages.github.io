@@ -1,6 +1,6 @@
 ---
 title:  "Inflatable 'bicycle tubes' to make von Braun Space Stations: a bygone idea worth revisiting?"
-date:   2023-10-06 23:59:59
+date:   2024-10-06 20:59:59
 comments: true
 categories:
   - Large Space Stations
@@ -14,7 +14,7 @@ archived [here](https://frostydrew.org/papers.dc/papers/paper-somnium)"%}
 in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_Hale)'s
 [Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
 from 1865 are
-early fantasy science-fiction of space-faring civilisations. Kepler
+early fantasy science-fiction of space-faring humans. Kepler
 faced more flak than fanfare for his work 
 {% sidenote 'flak' "Kepler's mom was put on
 [trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
@@ -30,7 +30,7 @@ and scientific lens for some time now.
 
 Today's technocultural space community of thinkers that have conjured or
 realised astonishing visions like the Apollo program and reusable rocketsin
-the $20^{th}$and $21^{st}$ centuries. The technical community no longer
+the $20^{th}$ and $21^{st}$ centuries. The technical community no longer
 battle claims of heresy but politics, as if fighting to overcome the limits 
 of physics isn't hard enough. Bureaucratic operators seek short-term
 justifications for projects thus preventing kicking-off projects
@@ -58,64 +58,100 @@ of space superstructures in the near-term is potentially valuable and socially
 relevant.
 
 ## The vision
-Simply put, the vision I am putting forward is of deploying space stations
-with crew capacities of at least $100 $astronauts, i.e., $>10x$ that of
-the ISS. 
-
-
-I assume that a pressurized volume $>20x$ of the ISS gives each crew member a
-hypothetical $100m^3$ of volume though, in practice, the real habitable
-volume is significantly lesser as on-board equipment/instruments take up
-considerable space. A more concrete breakdown of estimated sizes is provided below:
+Simply put, the vision I am putting forward is of deploying monolithic
+space stations with crew capacities of at least $100$ astronauts, i.e., 
+$>10x$ the ISS's typical crew size; I call this the Hundred Person Habitat (HPH).
+To date, no station has offered an order of magnitude increase on its
+predecessors and none are in the pipeline {% sidenote 'inflatables-3' "The
+in-development Lunar Gateway will operate at an orbit further to the
+International Space Station (ISS) with a crew of 4. See table
+[here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}.
+Assuming that a pressurized volume $>20x$ of the ISS gives each crew member a 
+hypothetical $100m^3$ of volume though, in practice, the habitable portion is
+roughly identical to the space occupied by on-board equipment/instruments
+for experiments and life support. The station will be a toroid and thus 
+conceptually resembles von Braun's{% sidenote 'potocnik'
+"He was apparetnly inspired by Herman Potočnik's $30\,m$ ring-shaped habitat
+described in [*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" 
+at GEO over Berlin.%} rotating wheel station. The below table provides
+some estimated specifications to compare the ISS to the von Braun 
+and the proposed Hundred Person Habitat (HPH):
 
 |              Parameters                      | ISS    | von Braun wheel        | Hundred person Habitat |
 | -------------------------------------------- | ------ | ---------------------- | ---------------------- |
 | crew size (# of astronauts)                  | 7-13   | 50-80                  | 100                    |
-| diameter of the station (m)                  | n/a    | 75                     | 300                    |
-| total volume $m^3$                           | 916    | 6217.85                | 100000               |
+| diameter of the station (m)                  | n/a    | 75                     | ~75                    |
+| total volume $m^3$                           | 916    | 6217.85                | 20x of ISS             |
 | habitable %                                  | 42.35% | 60% (assumed)          | ?                      |
-| Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 13223.46               |
-| Rotational speed for artificial gravity (RPM)|  -     | 3                      | 2.44                   |
-| Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 9.81                   |
+| Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 183.20                 |
+| Rotational speed for artificial gravity (RPM)|  -     | 3                      | 3                      |
+| Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 1.655                  |
 
 
-from one single
-rocket launch. To date, no space station has offered an order of magnitude
-increase on any of its predecessors and there aren't any planned either {%
-sidenote 'inflatables-3' "See table [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}. Instead,
-the next likely space station is the Lunar Gateway that will operate at an orbit
-further to the International Space Station (ISS).
+As opposed to von Braun's imagined multilaunch architecture, I am
+imposing that this identically sized structure be achievable from a
+single rocket launch by exploting an idea as old
+as NASA itself: using an inflatable
+tube structure.
 
-von Braun's rotating wheel space stations. He
-was inspired by Herman Potočnik's idea of a $30\,m$ ring-shaped habitat
-{% sidenote 'potocnik' "[*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" %}
-at GEO over Berlin.
 
-## Why do we want to do this? (Or what does success look like? Or what does
-this enable?) Werner von Braun's 1950's vision of rotating wheel
-space stations estimated at least 50 people living and working in
-such a station. This would be 5x to 7x improvement on the ISS but
-a 10x improvement to 100 astronauts does not, to me, seem unrealistic/unreasonable.
+## Inflatable tubular space stations: a counterintuitive idea
+{% maincolumn 'assets/imgs/Goodyear1961.JPG' "Testing of an inlatable
+space habitat prototype by Goodyear in 1961." %}
 
-## An old but discarded counterintuitive idea: bicycle tubes in space
-A counterintuitive insight I've developed in space engineering is that
-simpler solutions are often overlooked for things that are the hot
-thing that is usually more complex. One example is ignoring inflatables
-and going deeper into using robots to realise large space structures.
-My insight challenges several deeply ingrained assumptions in our field.
-Firstly, there's a widespread belief that inflatable structures are
-less safe due to the risk of Micrometeoroid and Orbital Debris collisions.
-The incorrect analogy of balloon burstings is often mistakenly applied to sophisticated space inflatables; modern designs incorporate multiple layers
-of high-strength materials that are remarkably resistant to punctures and
-can self-heal. In fact, their flexibility makes them more resilient than
-rigid structures. Secondly, prevalence of robotics in automating human
-tasks has led to an assumption that the same approach is optimal
-everywhere: we see robots building cars and assume they should build
-space stations. But space presents unique challenges where simplicity
-is paramount. Inflatable structures have minimal mechanical complexity,
-reduce failure points, and simplify construction. Moreover, our
-terrestrial experience doesn't include living in inflatable habitats,
-making it non-obvious as a space solution. We're accustomed to rigid
+In 1961, Goodyear Aircraft Corporation prototyped an inflatable tube
+space station (see above) called the Erectable Torus Manned Space
+Laboratory {% sidenote 'airlocks' "Around the same time, the Soviets
+were developing inflatable airlocks; a more modestly sized appendage
+to spacecraft that allows astronauts to move between a pressurized
+spacecraft and the vacuum of space." %}. The idea never made it to
+flight due to concerns that the soft materials it was made from
+(three-ply nylon cords, held together by a butyl elastomer rubber)
+weren’t strong enough to withstand micrometeoroid collisions.
+Nonetheless, this was an early example of a monolithic space station;
+a tenth of von Braun's wheel station that could be packaged to $2\%$
+of its inflated volume (another cool image below).
+
+{% maincolumn 'assets/imgs/LittekenPaper_GoodYear.png' "
+[Litteken's paper on space inflatables](https://ntrs.nasa.gov/api/citations/20190001443/downloads/20190001443.pdf)
+has this really nice image from GoodYear testing. One can see James Webb
+under the full size inflated station; the images on the left show the packaged
+tube structure." %}
+
+A long lull on habitable space inflatables followed
+until NASA's TransHab program (1997) which developed
+high strength materials capable of withstanding collisions with
+micrometeoroids and orbital debris (MMOD). TransHab inspired
+a cylindrical inflatable ISS module ($13\,ft$ in length and $10\,ft$
+in diameter), called BEAM (Bigelow Expandable Activity Module), in
+operation since 2016. The period between the GoodYear and TransHab
+inflatable space stations laid the foundations for today's dominant
+design of rigid space stations. In my eyes, this is a classic example
+of where simpler elegant solutions were traded in for ones that are more
+complex when we think about scale. For example, using rigid stations was
+followed by the ISS that has required in-space assembly mostly by
+astronauts. Building on this idea, most future scalable designs I have seen
+purport the idea of robotic assembly. My recent learnings on inflatables suggest
+that the same outcome might be realised by a simpler single inflatable system though
+the development process will be more complex. The decision to focus
+only on rigid stations/modules for several decades has made these inflatable
+solutions a forgotten one; we threw out the baby with the bathwater.
+
+When I suggest this idea to people today, it seems to them a counterintuitive and
+maybe even outrageous solution for starters exposing biases- even amongst
+experts who are, after all, only human. Firstly, there's a widespread belief
+that inflatable structures are less safe due to the risk of MMOD collisions.
+The incorrect analogy of balloons bursting is often mistakenly applied but
+modern designs incorporate multiple layers of high-strength materials that are
+remarkably resistant to punctures and could even self-heal. In fact, their
+flexibility could make them more resilient than rigid structures. Secondly,
+prevalence of robotics in automating human tasks has led to an assumption
+that the same approach is optimal everywhere: we see robots building cars
+and assume they should build space stations. But space presents unique
+challenges where simplicity is paramount. Inflatable structures have minimal
+mechanical complexity, reduce failure points, and simplify construction.
+Moreover, our terrestrial experience doesn't include living in inflatable
+habitats, making it non-obvious as a space solution. We're accustomed to rigid
 structures so cannot envision lightweight, expandable living spaces as
 a viable alternative. Yet, in the vacuum of space, these structures
 provide vast habitable areas with superior radiation shielding and
@@ -126,31 +162,33 @@ and create larger, more versatile space habitats than ever before.
 It's a reminder that in space engineering, sometimes the most effective
 solutions are those that challenge our Earth-biased intuitions.
 
-## The switch to rigid structures and, eventually, modular space stations
-
-## When was it a good time to focus on inflatable space structures?
-
-
 ## Why is now a good time to return to inflatable space structures?
-- Starship
-- impending ISS retirement are the two obvious reasons to work on this now
-- BEAM has progressed with the ISS so we might have learned something good here to
-use as a base.
+There are probably many reasons than I have thought about why it is
+a good time to revist the GoodYear inflatable station idea {% sidenote 'robotics'
+"Unlike was done with inflatables, we should also ensure support for
+maturing in-space robotic assembly and maintenance technology development
+as I imagine that at even larger scales, a reliance on this stack will be necessary."
+%}. The first has to do with the emerging promise of Starship, which is seeing frequent immpressive
+tests. In contrast, when GoodYear was developing its concept, the
+[Saturn V]{https://www.google.com/search?q=saturn+v+development+year}
+was still in early development and the project might have been easy to kill; I imagine
+the Moon missions would have also led to a reallocation of resources and
+focus. Second, the impending retirement of the ISS means there is a window
+(or even a need) for a successor with a larger volume for both crew sizes
+and science output. Third, there are more commerical users of a large
+inflatable orbital volume than space agencies; in-spae manufacturing
+companies like Varda could use these stations to scale their drug manufacturing,
+with the beneficiaries being patients on Earth. Other avenues here are for materials
+science research and protein crystal growth (not my domain of expertise at all).
+If in-space semiconductor manufacturing becomes a thing, then larger inflatable
+volumes would again answer a question of scaling. Similarly, sci-fi outcomes are
+at-scale 3-d printed organs that would benefit those in need of artificial organs.
+All of this is even before we think about making these stations rotate to produce
+an artificial gravity enabling safer long-haul journeys for astronaut crews
+heading to Mars or other locations away fromt the Earth.
 
-### BRAINS
-#### It is not a daft idea- just a forgotten one
-Based on Goodyear/NASA's work in the 60's, it is unfair to say that nobody has
-done this yet. However, the focus has changed to rigid structures, which
-have gained more space heritage and thus continue to be the preferred option.
-However, I have been in conversation with a small group of inflatable space
-habitat researchers at NASA JSC (e.g., Doug Litteken) and we believe the time
-is ripe to focus on this technology again. At this moment, Doug would be a
-very useful contact as one of the few but leading experts with a similar
-belief on inflatables and the expertise to advise me on successfully
-delivering my program on inflatable tubes.
 
-#### There are will be users for inflatable space structures!
-NASA and ESA are obvious "end-user" candidates in the near term for expanded
+
 R&D in-orbit. Varda would be another as such inflatable modules could host
 their drug manufacturing systems, with the beneficiaries being patients on
 Earth. Other avenues here are for materials science research and protein crystal
@@ -162,121 +200,8 @@ tourism is the eventual and hopefully inevitable outcome.
 
 
 
-## What are the gaps/limitations today? Can we overcome them?
-### 
+<!-- ## Other opportunities with space inflatables? Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures be used? -->
 
-### BRAINS
-The use of inflatable tubular space stations was undertaken by Good Year in
-1961, making the idea (at least) as old as NASA itself; however, the lack of
-soft materials that could handle micrometeoroid collisions led to focus changing
-to rigid space stations. In the late 90's, inflatables came back into the picture
-via NASA's TransHab but with comparably modest ambitions: smaller cylindrical
-volumes instead of tubes. This program would aim to establish the fundamental
-technologies of inflatable tubes while enhancing our knowledge on the dynamics
-of their stability during/after inflation. To fit within the budget of an
-ARPA program, these would likely be systems with minimal control systems for
-position and orientation. However, the focus would be on using/developing smarter 
-and safer inflatable textiles.
-
-### ARIA
-
-### According to me/my readings?
-
-## Technical benefits in other space systesm with advanced inflatables
-
-## Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures beused?
-
-## A DARPA-style program for inflatalbe space structures?
-### BRAINS
-My program's goal aims to achieve technologies for larger orbiting structures for
-habs, fabs, and labs. Two solutions for achieving larger structures are via
-robots that modularly assemble larger structures; and inflatable/deployable
-structures. A third solution would be a combination of the two. Having previously
-analysed in-space assembly robotics, my current revised thesis is that
-inflatable structures would be a better solution here as they could be cheaper. 
-Thus, my  program would focus on developing inflatable tubes that would be
-versatile enough  to eventually become rotating wheel space stations.
-
-### ARIA
-My program would develop a space superstructure that increases crew and
-science capacity of the International Space Station by 10x-100x. This
-will be achieved by increasing the usable/occupiable volume that
-currently is in orbit. A constraint on my program is that this capacity
-should be realised with a single launch of SpaceX’s Starship rocket. My
-current thesis for achieving this is by developing inflatable “bicycle”
-tubes from stronger materials/textiles integrated with flexible optical
-sensors. In space, this system inflates from a packed state in a rocket
-into an inflatable “bicycle tube” resembling Wernher von Braun’s wheel
-space station. Our monolithic station challenges von Braun’s Lego-style
-modular assembly using robots (noting we don’t have autonomous in-space
-construction robots yet!). Inflatables also differ from today’s approaches
-using astronauts for in-space assembled modular stations. Also, modular
-assembly requires multiple rocket launches which is wasteful, slow, and
-hurts the environment. A successful program could make monolithic
-inflatable tubes THE platform technology enabling scalable in-space
-manufacturing with increased usable volumes at reduced cost per cubic
-meter. America’s Varda is maturing in-space pharmaceuticals manufacturing
-and UK’s BioOrbit has a similar thesis. However, they aren’t addressing
-manufacturing at scale, which requires large physical volumes that
-monolithic inflatable stations would rapidly provide. Purer semiconductors
-are also being considered for in-orbit manufacturing. Tubular space
-superstructures will offer a bold stride towards 100-person space stations;
-this is more than an order of magnitude improvement over the ISS (crew size
-and total pressurized volume) that will drive more scientific output from
-space station research. If the tubes are imbued with the ability to rotate,
-future long-haul crewed flights to Mars would have the artificial gravity
-to overcome health-risks to astronauts. Presently, I feel this program
-shouldn’t focus on rotational actuators for artificial gravity as in-space
-manufacturing in microgravity holds a lot more impact but is likely something
-worth exploring as an opportunity space. The emergence of Starship and impending
-ISS retirement are the two obvious reasons to work on this now. But the idea of
-inflating tubes in space isn’t new but as old as NASA; in 1961, Goodyear was
-commissioned to develop inflatable tube space stations. The concept was discarded
-as soft materials weren’t strong enough to withstand micrometeoroid collisions.
-Since then, safer but much smaller inflatable ISS modules have been made from
-Vectran/Kevlar. But larger stations need novel stronger and smarter materials
-to superscale our ability to abundantly manufacture, work, and live in space thus
-enabling a wide range of new scientific, commercial, and exploratory activities.
-A risk is we can’t engineer materials strong enough to withstand stresses at
-station sizes that offer proposed 10x-100x improvements. Also, the lack of a
-community working on this is a risk but the grandeur of the vision and my energy
-should catalyse the right talent around the proposed programme. Another risk is
-potential public scepticism. However, the long-term benefits for human progress
-are profound: scaling sustainable space exploration, advancing materials science
-with Earth applications, and expanding our capacity for scientific discovery. This
-leap in space infrastructure could catalyse breakthroughs in medicine, technology,
-and our understanding of the universe, driving human progress on multiple fronts.
-
-# Reasons a DARPA-style inflatalbe space structures program will fail
-1. $50 million might be insufficient for this program as space programs are
-often over budget. However, the goals could be made more specific to fit
-within this budget or develop a more revised budget.
-2. I feel that an ARPA-style program would work best as the program would
-need to collaborate with
-NASA Johnson's and JPL. However, I wonder if such a program would have too 
-many moving parts to coordinate as an ARPA-style program as opposed to an
-FRO that does in-house technology development.
-3. ITAR could be a bottleneck here; I think my experience introducing
-some ARIA PDs to JPL and the resulting conversations show that this
-could be overcome because the flow of money does change the power
-dynamics. a bit (don't quote me on this, please).
-
-## In view of these risks, why is a DARPA-style program the right way to do this?
-### Why not do it in academia?
-I already work in academia and the idea of building larger orbiting
-structures faces moral oppositions as people think it will purely serve
-billionaires. This is before we even explore budgets; I don't personally
-know of any academic who wins £50 million in R&D funding via grants.
-
-### Why not do it in a space agency?
-The small community on inflatable space structures is distributed and
-I have already been in conversation with some experts; these "pieces of
-the puzzle" are at NASA JSC and JPL. These engineers and researchers
-are unlikely to move from their orgs on a risky project via an FRO, despite their enthusiasm for the topic. I know they're enthusiastic because we pitched an
-idea to UK's ARIA for an inflatable space robot. To coordinate them, we
-need a ARPA-style program or something close to it.
-
-### Why not do it in a startup?
 
 
 
