@@ -14,7 +14,7 @@ redirect_from:
     <p class="pronunciation"><small>My name is pronounced: Day-vee Wex</small></p> 
   </div>
   <div class="profile-text">
-    <p>Welcome! I am a fifth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in <strong>development economics and organizational economics</strong>, focusing on technology and firms in lower-income countries, particularly in West Africa.</p>
+    <p>Welcome! I am a sixth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in <strong>development economics and organizational economics</strong>, focusing on technology and firms in lower-income countries, particularly in West Africa.</p>
     <p>My dissertation explores how digital technologies reshape economic relationships and contract structures within and between firms, and uncovers the key drivers and barriers to their adoption.</p>    
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo. </p>
   </div>
@@ -39,7 +39,7 @@ redirect_from:
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payments technology in Senegal. By leveraging two novel sources of network data - mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal - I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
+            <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payment technology in Senegal. By leveraging two novel sources of network data - mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal - I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
         </div>
     </details>
     
