@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Serkan Gozel / Site Title"
+title                    : "Serkan Gozel"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Serkan Gozel"
 description              : &description "personal description"
-url                      : https://cerkong.github.io/Serkan-Gozel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cerkong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "cerkong/Serkan-Gozel.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
