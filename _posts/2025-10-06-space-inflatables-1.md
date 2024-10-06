@@ -162,11 +162,13 @@ It's a reminder that in space engineering, sometimes the most effective
 solutions are those that challenge our Earth-biased intuitions.
 
 ## Why is now a good time to return to inflatable space structures?
-There are probably many more reasons than I describe below as to why now is
-a good time to revisit the GoodYear inflatable station idea{% sidenote 'robotics1'
+There are probably many more reasons than I describe below as to why
+now {% sidenote 'robotics1'
 "Unlike was done with inflatables, we should also ensure support for
 maturing in-space robotic assembly and maintenance technology development
-as I imagine that at even larger scales, a reliance on this stack will be necessary."%}{% sidenote 'robotics2' "In fact, such stations are just one application of inflatable 
+as I imagine that at even larger scales, a reliance on this stack will be necessary."%}
+is a good time to revisit the GoodYear inflatable station idea {% sidenote 'robotics2' "In fact,
+such stations are just one application of inflatable 
 technologies I see. They could totally transform space robotics by using pneumatic actuation
 for orbital applications thus eliminating the need for radiation-hardened components like
 joint motors- a pretty massive bottleneck in the development of space robotics."%}.
