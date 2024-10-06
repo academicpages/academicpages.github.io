@@ -15,7 +15,7 @@ in 1608 and [Edward Everett Hale](https://en.wikipedia.org/wiki/Edward_Everett_H
 [Brick Moon](https://en.wikipedia.org/wiki/Brick_Moon) [^a]
 from 1865 are
 early fantasy science-fiction of space-faring humans. Kepler
-faced more flak than fanfare for his work {% sidenote 'flak' "Kepler's mom was put on
+faced more flak than fanfare for his work{% sidenote 'flak' "Kepler's mom was put on
 [trial](https://thonyc.wordpress.com/2014/07/30/johannes-keplers-somnium-and-katharina-keplers-trial-for-witchcraft-the-emergence-of-a-myth/)
 for witchcraft with some connections to Somnium.
 Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}
