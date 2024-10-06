@@ -1,6 +1,6 @@
 ---
-title:  "Inflatable 'bicycle tubes' to make von Braun Space Stations: a bygone idea worth revisiting?"
-date:   2024-10-06 20:59:59
+title:  "Inflatable von Braun space stations: an idea worth revisiting?"
+date:   2024-10-06 21:04:59
 comments: true
 categories:
   - Large Space Stations
@@ -21,17 +21,17 @@ faced more flak than fanfare for his work
 for witchcraft with some connections to Somnium.
 Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}
 but I was especially surprised to learn about his use of creative writing
-as an additional tool to explore ideas around space-faring and
+as a force for exploring ideas around space-faring and
 extra-terrestrial civilisations; his scientific work in astronomy influenced
 Newton and others indicating an enduring impact on science, engineering, and human
 civilisation stemming from a curiosity about the motion of stars.
-It suffices to say that space habiation has occupied us from a fictional
+It suffices to say that space habitation has occupied us from a fictional
 and scientific lens for some time now. 
 
-Today's technocultural space community of thinkers that have conjured or
-realised astonishing visions like the Apollo program and reusable rocketsin
+Today's technocultural space community of thinkers has conjured or
+realised astonishing visions like the Apollo program and reusable rockets in
 the $20^{th}$ and $21^{st}$ centuries. The technical community no longer
-battle claims of heresy but politics, as if fighting to overcome the limits 
+battles claims of heresy but politics, as if fighting to overcome the limits 
 of physics isn't hard enough. Bureaucratic operators seek short-term
 justifications for projects thus preventing kicking-off projects
 that propel us towards sci-fi realities of large scale space travel
@@ -44,8 +44,8 @@ some of whom create new visions that result in new jobs and the remaining
 others perform these jobs. I can't definitively prove this, of course." %}
 but want to do so without investing in visions of a limitlessly abundant future.
 Meanwhile, private investors want rapid returns on investment while making
-bold claims {% marginfigure 'thiel' 'assets/imgs/thiel.png' %} leaving
-participation in radical space progress the domain of the superwealthy. From
+bold claims {% marginfigure 'thiel' 'assets/imgs/thiel.png' %}, extending the
+participation in space progress to mostly the superwealthy. From
 hereon, this post will focus on one such radical notion of space
 superstructures, such as rotating wheel space stations, that expand our
 presence in space and then extend our reach to go deeper into space. The
@@ -71,7 +71,7 @@ hypothetical $100m^3$ of volume though, in practice, the habitable portion is
 roughly identical to the space occupied by on-board equipment/instruments
 for experiments and life support. The station will be a toroid and thus 
 conceptually resembles von Braun's{% sidenote 'potocnik'
-"He was apparetnly inspired by Herman Potočnik's $30\,m$ ring-shaped habitat
+"He was apparently inspired by Herman Potočnik's $30\,m$ ring-shaped habitat
 described in [*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" 
 at GEO over Berlin.%} rotating wheel station. The below table provides
 some estimated specifications to compare the ISS to the von Braun 
@@ -88,9 +88,9 @@ and the proposed Hundred Person Habitat (HPH):
 | Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 1.655                  |
 
 
-As opposed to von Braun's imagined multilaunch architecture, I am
+As opposed to von Braun's imagined multi-launch architecture, I am
 imposing that this identically sized structure be achievable from a
-single rocket launch by exploting an idea as old
+single rocket launch by exploiting an idea as old
 as NASA itself: using an inflatable
 tube structure.
 
@@ -137,8 +137,8 @@ the development process will be more complex. The decision to focus
 only on rigid stations/modules for several decades has made these inflatable
 solutions a forgotten one; we threw out the baby with the bathwater.
 
-When I suggest this idea to people today, it seems to them a counterintuitive and
-maybe even outrageous solution for starters exposing biases- even amongst
+When I suggest this idea to people today, it seems a counterintuitive and
+potentially outrageous solution that exposes biases in thinking- even amongst
 experts who are, after all, only human. Firstly, there's a widespread belief
 that inflatable structures are less safe due to the risk of MMOD collisions.
 The incorrect analogy of balloons bursting is often mistakenly applied but
@@ -163,46 +163,36 @@ It's a reminder that in space engineering, sometimes the most effective
 solutions are those that challenge our Earth-biased intuitions.
 
 ## Why is now a good time to return to inflatable space structures?
-There are probably many reasons than I have thought about why it is
-a good time to revist the GoodYear inflatable station idea {% sidenote 'robotics'
+There are probably many more reasons than I describe below as to why now is
+a good time to revisit the GoodYear inflatable station idea {% sidenote 'robotics1'
 "Unlike was done with inflatables, we should also ensure support for
 maturing in-space robotic assembly and maintenance technology development
-as I imagine that at even larger scales, a reliance on this stack will be necessary."
-%}. The first has to do with the emerging promise of Starship, which is seeing frequent immpressive
+as I imagine that at even larger scales, a reliance on this stack will be necessary."%}
+{% sidenote 'robotics2' "In fact, such stations are just one application of inflatable 
+technologies I see. They could totally transform space robotics by using pneumatic actuation
+for orbital applications thus eliminating the need for radiation-hardened components like
+joint motors- a pretty massive bottleneck in the development of space robotics."%}.
+
+The first has to do with the emerging promise of Starship, which is seeing frequent impressive
 tests. In contrast, when GoodYear was developing its concept, the
-[Saturn V]{https://www.google.com/search?q=saturn+v+development+year}
+[Saturn V](https://www.google.com/search?q=saturn+v+development+year)
 was still in early development and the project might have been easy to kill; I imagine
 the Moon missions would have also led to a reallocation of resources and
 focus. Second, the impending retirement of the ISS means there is a window
 (or even a need) for a successor with a larger volume for both crew sizes
-and science output. Third, there are more commerical users of a large
-inflatable orbital volume than space agencies; in-spae manufacturing
+and science output. Third, there are more commercial users of a large
+inflatable orbital volume than space agencies; in-space manufacturing
 companies like Varda could use these stations to scale their drug manufacturing,
 with the beneficiaries being patients on Earth. Other avenues here are for materials
 science research and protein crystal growth (not my domain of expertise at all).
 If in-space semiconductor manufacturing becomes a thing, then larger inflatable
 volumes would again answer a question of scaling. Similarly, sci-fi outcomes are
-at-scale 3-d printed organs that would benefit those in need of artificial organs.
+at-scale 3-D printed organs that would benefit those in need of artificial organs.
 All of this is even before we think about making these stations rotate to produce
 an artificial gravity enabling safer long-haul journeys for astronaut crews
-heading to Mars or other locations away fromt the Earth.
-
-
-
-R&D in-orbit. Varda would be another as such inflatable modules could host
-their drug manufacturing systems, with the beneficiaries being patients on
-Earth. Other avenues here are for materials science research and protein crystal
-growth (not my domain of expertise at all). If in-space semiconductor
-manufacturing becomes a thing, then larger inflatable volumes would be essential
-to scale manufacturing. More sci-fi outcomes are at-scale 3-d printed organs that
-would benefit those in need of artificial organs. "Sci-fi shit" like space
-tourism is the eventual and hopefully inevitable outcome.
-
-
+heading to Mars or other locations away from the Earth.
 
 <!-- ## Other opportunities with space inflatables? Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures be used? -->
-
-
 
 
 ## Notes
