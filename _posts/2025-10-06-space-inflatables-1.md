@@ -128,9 +128,10 @@ operation since 2016. The period between the GoodYear and TransHab
 inflatable space stations laid the foundations for today's dominant
 design of rigid space stations. In my eyes, this is a classic example
 of where simpler elegant solutions were traded in for ones that are more
-complex when we think about scale. For example, using rigid stations was
-followed by the ISS that has required in-space assembly mostly by
-astronauts. Building on this idea, most future scalable designs I have seen
+complex when we think about scale. For example, monolithic rigid stations were
+followed by the modular ones, like the ISS, that have required in-space
+assembly, mostly by astronauts, or propellant-intensive rendezvous
+and docking manoeuvres. Building on this idea, most future scalable designs I have seen
 purport the idea of robotic assembly. My recent learnings on inflatables suggest
 that the same outcome might be realised by a simpler single inflatable system though
 the development process will be less straightforward. The decision to focus
