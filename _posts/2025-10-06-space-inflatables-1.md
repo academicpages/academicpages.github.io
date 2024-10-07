@@ -193,15 +193,11 @@ volumes would again answer a question of scaling. Similarly, sci-fi outcomes are
 at-scale 3-D printed organs that would benefit those in need of artificial organs.
 All of this is even before we think about making these stations rotate to produce
 an artificial gravity enabling safer long-haul journeys for astronaut crews
-heading to Mars or other locations away from the Earth {% sidenote `hansen` "I am
-currently reading James Hansen's
-[_Spacefligth Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf)
-to help me get deeper insights into inflatable space stations. Another of his
-books was adapted into [First Man]({% sidenote `hansen` "I am
+heading to Mars or other locations away from the Earth{% sidenote 'hansen' "I am
 currently reading James Hansen's
 [_Spacefligth Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf) that should
-help me a deeper perspective on inflatable space stations. Another of his books was adapted into
-First Man, with Ryan Gosling playing Neil Armstrong."%}.
+help me a deeper perspective on inflatable space stations. Fun fact: another of his books was adapted into
+[First Man](https://en.wikipedia.org/wiki/First_Man_(film)) with Ryan Gosling playing Neil Armstrong."%}.
 
 <!-- ## Other opportunities with space inflatables? Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures be used? -->
 
