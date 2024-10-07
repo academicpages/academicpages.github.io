@@ -16,7 +16,7 @@ author_profile: true
 [[paper](https://arxiv.org/pdf/2308.13466)]<br>
 
 * <b>Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization</b>.<br>
-<b>Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
+Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/abs/2206.00057)]<br>
 
 ## 2024
