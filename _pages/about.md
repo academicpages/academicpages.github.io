@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yingqiang Wang @ SJTU"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
