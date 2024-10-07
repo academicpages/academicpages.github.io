@@ -67,7 +67,7 @@ in-development Lunar Gateway will operate at an orbit further to the
 International Space Station (ISS) with a crew of 4. See table
 [here](https://www.angadhn.com/online_textbooks/UG_final_year_project/#large-space-stations-modular-or-monolithic)"%}.
 Assuming that a pressurized volume $>20x$ of the ISS gives each crew member a 
-hypothetical $100m^3$ of volume though, in practice, the habitable portion is
+hypothetical $~200\,m^3$ of volume though, in practice, the habitable portion is
 roughly identical to the space occupied by on-board equipment/instruments
 for experiments and life support. The station will be a toroid and thus 
 conceptually resembles von Braun's{% sidenote 'potocnik'
