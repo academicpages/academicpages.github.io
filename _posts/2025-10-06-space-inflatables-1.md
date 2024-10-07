@@ -201,7 +201,7 @@ books was adapted into [First Man]({% sidenote `hansen` "I am
 currently reading James Hansen's
 [_Spacefligth Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf) that should
 help me a deeper perspective on inflatable space stations. Another of his books was adapted into
-First Man, where Ryan Gosling plays Neil Armstrong."}) with Ryan Gosling playing Neil Armstrong."}.
+First Man, where Ryan Gosling plays Neil Armstrong."}) with Ryan Gosling playing Neil Armstrong."%}.
 
 <!-- ## Other opportunities with space inflatables? Long-horizon projections: Where would this take us in 20 years? or Where else could inflatable structures be used? -->
 
