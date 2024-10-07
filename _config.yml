@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yingqiang's Academic Homepage"
+title                    : "Yingqiang Wang @ SJTU"
 title_separator          : "-"
 name                     : &name "Yingqiang Wang"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "GitHubProfile.png"
   name             : "Yingqiang Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PostDoc at NEZHA LAB, SJTU"
   location         : "Shanghai, CHINA"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
