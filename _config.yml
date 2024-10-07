@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yingqiang Wang / Personal Homepage"
+title                    : "Yingqiang's Academic Homepage"
 title_separator          : "-"
 name                     : &name "Yingqiang Wang"
 description              : &description "personal description"
