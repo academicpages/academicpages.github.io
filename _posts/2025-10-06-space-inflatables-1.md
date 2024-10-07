@@ -123,7 +123,7 @@ until NASA's TransHab program (1997) which developed
 high strength materials capable of withstanding collisions with
 micrometeoroids and orbital debris (MMOD). TransHab inspired
 a cylindrical inflatable ISS module ($13\,ft$ in length and $10\,ft$
-in diameter), called BEAM (Bigelow Expandable Activity Module), in
+in diameter)- BEAM (Bigelow Expandable Activity Module)- in
 operation since 2016. The period between the GoodYear and TransHab
 inflatable space stations laid the foundations for today's dominant
 design of rigid space stations. In my eyes, this is a classic example
