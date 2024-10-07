@@ -21,7 +21,7 @@ for witchcraft with some connections to Somnium.
 Also credit for the link where it's [due](https://skullsinthestars.com/2018/02/23/somnium-by-johannes-kepler/)." %}
 but I was especially surprised to learn about his use of creative writing
 as a force for exploring ideas around space-faring and
-extra-terrestrial civilisations; his scientific work in astronomy influenced
+extra-terrestrial civilisations. His scientific work in astronomy influenced
 Newton and others indicating an enduring impact on science, engineering, and human
 civilisation stemming from a curiosity about the motion of stars.
 It suffices to say that space habitation has occupied us from a fictional
@@ -46,8 +46,9 @@ the [UK's productivity puzzle](https://www.ons.gov.uk/employmentandlabourmarket/
 but want to do so without investing in visions of a limitlessly abundant future.
 Meanwhile, private investors want rapid returns on investment while making
 bold claims, like wanting flying cars but getting $140$ characters, extending the
-participation in space progress to mostly the superwealthy. From
-hereon, this post will focus on one such radical notion of space
+participation in space progress to mostly the superwealthy.
+
+From hereon, this post will focus on the radical notion of space
 superstructures, such as rotating wheel space stations, that expand our
 presence in various Earth orbits and then extend our reach to go deeper into space. The
 post mostly argues for a focus on developing inflatable technologies to
@@ -74,9 +75,8 @@ for experiments and life support. The station will be a toroid and thus
 conceptually resembles von Braun's{% sidenote 'potocnik'
 "He was apparently inspired by Herman Potočnik's $30\,m$ ring-shaped habitat
 described in [*The Problem of Space Travel*](https://books.google.co.uk/books/about/The_Problem_of_Space_Travel.html?id=6m0bCwAAQBAJ&redir_esc=y)" 
-at GEO over Berlin.%} rotating wheel station. The below table provides
-some estimated specifications to compare the ISS to the von Braun 
-and the proposed Hundred Person Habitat (HPH):
+at GEO over Berlin.%} rotating wheel station. The below table
+compares the HPH to the ISS and von Braun station:
 
 |              Parameters                      | ISS    | von Braun wheel        | Hundred person Habitat |
 | -------------------------------------------- | ------ | ---------------------- | ---------------------- |
@@ -88,13 +88,11 @@ and the proposed Hundred Person Habitat (HPH):
 | Rotational speed for artificial gravity (RPM)|  -     | 3                      | 3                      |
 | Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 1.655                  |
 
-
 As opposed to von Braun's imagined multi-launch architecture, I am
 imposing that this identically sized structure be achievable from a
 single rocket launch by exploiting an idea as old
 as NASA itself: using an inflatable
 tube structure.
-
 
 ## Inflatable tubular space stations: a counterintuitive idea
 {% maincolumn 'assets/imgs/Goodyear1961.JPG' "Testing of an inlatable
