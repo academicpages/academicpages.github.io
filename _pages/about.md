@@ -19,6 +19,10 @@ Education
 |Nov 2022 – Nov 2023 | Joint Ph.D. | ETH Zürich, Switzerland|  
 |Sep 2019 – Sep 2024 | Ph.D. | Zhejiang University, China|  
 |Sep 2015 – Jul 2019 | B.Eng. | Zhejiang University, China|  
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 Research Interests
 ======
