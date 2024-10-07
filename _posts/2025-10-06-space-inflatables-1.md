@@ -105,7 +105,8 @@ were developing inflatable airlocks; a more modestly sized appendage
 to spacecraft that allows astronauts to move between a pressurized
 spacecraft and the vacuum of space." %}. The idea never made it to
 flight due to concerns that the soft materials it was made from
-(three-ply nylon cords, held together by a butyl elastomer rubber)
+{% sidenote 'goodyear-materials' 'three-ply nylon cords, held together
+by butyl elastomer.'%}
 weren’t strong enough to withstand micrometeoroid collisions.
 Nonetheless, this was an early example of a monolithic space station;
 a tenth of von Braun's wheel station that could be packaged to $2\%$
