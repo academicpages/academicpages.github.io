@@ -7,17 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Yingqiang Wang was born in Jinhua, Zhejiang, China, in 1997. I received my B.Eng. and Ph.D. degrees in ocean engineering from Zhejiang University, Zhejiang, China, in 2019 and 2024, respectively. From Nov. 2022 to Nov. 2023, I was a visiting Ph.D. student with the Institute of Robotics and Intelligent Systems, ETH Zürich, Zürich, Switzerland.
+I have been deeply involved in the development of a passive inverted ultra-short baseline (piUSBL) positioning system for autonomous underwater vehicle (AUV) navigation. My research interests include underwater acoustic navigation, marine robotics, and digital signal processing.
 
-A data-driven personal website
+Contact Info
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Email: yingqiang_wang@zju.edu.cn
 
-Getting started
+Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Nov 2022 – Nov 2023    Joint Ph.D.    ETH Zurich, Zurich, Switzerland  
+Sep 2019 – Sep 2024    Ph.D.          Zhejiang University, Zhoushan, China  
+Sep 2015 – Jul 2019    B.Eng.         Zhejiang University, Hangzhou, China  
+
+Research Interests
+======
+### Underwater Acoustic Navigation
+Since 2018, I have actively engaged in conducting research on underwater acoustic positioning and navigation, focusing particularly on the passive inverted ultra-short baseline (piUSBL) positioning system for small AUV navigation. Given the ongoing advancements in miniaturization and swarm applications in marine robotics, I firmly believe that underwater acoustic navigation should assume an essential role.
+### Marine Robotics
+Autonomous Underwater Vehicles (AUVs) are gaining traction across oceanographic science, offshore industry, and naval defense. The allure of the captivating and enigmatic ocean fuels our innate curiosity for exploration. As we persist in oceanic pursuits, an array of marine robots, particularly innovative ones with enhanced capabilities, will showcase their strengths and play an indispensable role.
+### Biomimetic Underwater System
+Nature’s inspiration knows no bounds. Many fascinating scientific problems, such as underwater propulsion, navigation, sensing, and communication, can draw inspiration from marine life. For example, if we combine acoustic navigation and communication with agile robotic fish in a biomimetic manner, a swarm of bionic fish will unlock new frontiers in ocean exploration.
+
+Academic Activities
+======
+### Membership
+IEEE Oceanic Engineering Society, IEEE Robotics and Automation Society.
+### Reviewer
+The Journal of the Acoustical Society of America (JASA)
+IROS, ICRA, Telecommunication Systems
