@@ -131,7 +131,7 @@ of where simpler elegant solutions were traded in for ones that are more
 complex when we think about scale. For example, monolithic rigid stations were
 followed by the modular ones, like the ISS, that have required in-space
 assembly, mostly by astronauts, or propellant-intensive rendezvous
-and docking manoeuvres. Building on this idea, most future scalable designs I have seen
+and docking manoeuvres. Building on this, most future scalable designs I have seen
 purport the idea of robotic assembly. My recent learnings on inflatables suggest
 that the same outcome might be realised by a simpler single inflatable system though
 the development process will be less straightforward. The decision to focus
