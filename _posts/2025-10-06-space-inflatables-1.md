@@ -32,15 +32,16 @@ realised astonishing visions like the Apollo program and reusable rockets in
 the $20^{th}$ and $21^{st}$ centuries. The technical community no longer
 battles claims of heresy but politics, as if fighting to overcome the limits 
 of physics isn't hard enough. Bureaucratic operators seek short-term
-justifications for projects which preventing progress towards sci-fi realities
+justifications for projects and hinder progress towards sci-fi realities
 of large scale space travel and habitation{% sidenote 'inflatables-2' "not so for
 space data services,
 as satellites have been miniaturised, commodified, and productised out of the hands
-of governments."%}, branding these projects as potentially irresponsible to justify with
-public money. Governments want to solve the flat-lining productivity problem{% sidenote
+of governments."%}, branding these pursuits as potentially irresponsible to justify with
+taxpayer money. Governments want to solve the flat-lining productivity problem{% sidenote
 "UKproductivity" "I believe investment creates skilled populations,
 some of whom create new visions that result in new jobs and the remaining
-others perform these jobs. I can't definitively prove this, of course." %}
+others perform these jobs. I can't definitively prove this, of course but it might
+provide a pathway to solving the [UK's productivity puzzle](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07)." %}
 but want to do so without investing in visions of a limitlessly abundant future.
 Meanwhile, private investors want rapid returns on investment while making
 bold claims, like wanting flying cars but getting $140$ characters, extending the
