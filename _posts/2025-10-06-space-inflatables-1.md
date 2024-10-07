@@ -89,7 +89,7 @@ compares the HPH to the ISS and von Braun station:
 | Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 1.655                  |
 
 As opposed to von Braun's imagined multi-launch architecture, I am
-imposing that this identically sized structure be achievable from a
+imposing {% sidenote 'notproposing' 'Not proposing!'%} that this identically sized structure be achievable from a
 single rocket launch by exploiting an idea as old
 as NASA itself: using an inflatable
 tube structure.
