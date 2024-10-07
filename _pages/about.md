@@ -124,7 +124,7 @@ document.addEventListener("DOMContentLoaded", function() {
 ![](images/haojie_match.png){: .align-right width="200px"}
 **MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
 Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
-*Preprint*,  
+*Preprint*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/match_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://www.arxiv.org/pdf/2409.15517','_blank')">PDF</button>
 <br>
