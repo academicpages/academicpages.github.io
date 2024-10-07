@@ -49,11 +49,11 @@ bold claims, like wanting flying cars but getting $140$ characters, extending th
 participation in space progress to mostly the superwealthy. From
 hereon, this post will focus on one such radical notion of space
 superstructures, such as rotating wheel space stations, that expand our
-presence in space and then extend our reach to go deeper into space. The
+presence in various Earth orbits and then extend our reach to go deeper into space. The
 post mostly argues for a focus on developing inflatable technologies to
 realise these structures in the near-term but it is possible that this is
-too ambitious a goal. Thus, other options (e.g., robots) for realising
-space superstructures will be loosely discussed in related contexts. Along
+too ambitious a goal. Note that other options for realising space superstructures
+(e.g., robots) are not really considered here but are generally important. Along
 the way, readers may find claims that explain why supporting the development 
 of space superstructures in the near-term is potentially valuable and socially
 relevant.
@@ -134,9 +134,9 @@ followed by the ISS that has required in-space assembly mostly by
 astronauts. Building on this idea, most future scalable designs I have seen
 purport the idea of robotic assembly. My recent learnings on inflatables suggest
 that the same outcome might be realised by a simpler single inflatable system though
-the development process will be more complex. The decision to focus
+the development process will be less straightforward. The decision to focus
 only on rigid stations/modules for several decades has made these inflatable
-solutions a forgotten one; we threw out the baby with the bathwater.
+solutions a forgotten one; it appears that we threw out the baby with the bathwater.
 
 When I suggest this idea to people today, it seems a counterintuitive and
 potentially outrageous solution that exposes biases in thinking- even amongst
@@ -166,9 +166,9 @@ solutions are those that challenge our Earth-biased intuitions.
 ## Why is now a good time to return to inflatable space structures?
 There are probably many more reasons than I describe below as to why
 now{% sidenote 'robotics1'
-"Unlike was done with inflatables, we should also ensure support for
-maturing in-space robotic assembly and maintenance technology development
-as I imagine that at even larger scales, a reliance on this stack will be necessary."%}
+"Unlike was done with inflatables, we should maintain/increase support to
+mature in-space robotic assembly and maintenance technology development
+as I imagine that at even larger scales, a reliance on robots is inevitable."%}
 is a good time to revisit the GoodYear inflatable station idea{% sidenote 'robotics2' "In fact,
 such stations are just one application of inflatable 
 technologies I see. They could totally transform space robotics by using pneumatic actuation
