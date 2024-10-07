@@ -178,7 +178,7 @@ joint motors- a pretty massive bottleneck in the development of space robotics."
 The first has to do with the emerging promise of Starship, which is seeing frequent impressive
 tests. In contrast, when GoodYear was developing its concept, the
 [Saturn V](https://www.google.com/search?q=saturn+v+development+year)
-was still in early development and the project might have been easy to kill; I imagine
+was still in early development and the GoodYear project might have been easy to kill; I imagine
 the Moon missions would have also led to a reallocation of resources and
 focus. Second, the impending retirement of the ISS means there is a window
 (or even a need) for a successor with a larger volume for both crew sizes
