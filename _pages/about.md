@@ -17,6 +17,6 @@ I graduated from the Department of Mathematics of the School of Mathematics at S
 
 My CV is here: [Curriculum Vitae](../files/CV_Hongtao_LI_202410.pdf).
 
-[Email](lee.hungtou@gmail.com): lee.hungtou[at]gmail.com / 
+[Email](lee.hungtou@gmail.com): lee.hungtou[at]gmail.com  
 
 
