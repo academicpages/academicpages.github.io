@@ -187,10 +187,11 @@ inflatable orbital volume than space agencies; in-space manufacturing
 companies like Varda could use these stations to scale their drug manufacturing,
 with the beneficiaries being patients on Earth. Other avenues here are for materials
 science research and protein crystal growth (not my domain of expertise at all).
-If in-space semiconductor manufacturing becomes a thing, then larger inflatable
-volumes would again answer the question of scaling. Similarly, sci-fi outcomes are
-at-scale 3-D printed organs that would benefit those in need of artificial organs.
-All of this is even before we think about making these stations rotate to produce
+If in-space semiconductor manufacturing in microgravity becomes a thing, then
+larger inflatable volumes would, again, answer the question of scaling.
+Similarly, sci-fi outcomes such as at-scale 3-D printed organs would benefit
+those in need of artificial hearts and lungs.
+All of which is even before we consider making these stations rotate to produce
 an artificial gravity enabling safer long-haul journeys for astronaut crews
 heading to Mars or other locations away from the Earth{% sidenote 'hansen' "I am
 currently reading James Hansen's
