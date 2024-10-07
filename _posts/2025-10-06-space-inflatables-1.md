@@ -32,9 +32,9 @@ realised astonishing visions like the Apollo program and reusable rockets in
 the $20^{th}$ and $21^{st}$ centuries. The technical community no longer
 battles claims of heresy but politics, as if fighting to overcome the limits 
 of physics isn't hard enough. Bureaucratic operators seek short-term
-justifications for projects thus preventing kicking-off projects
-that propel us towards sci-fi realities of large scale space travel
-and habitation{% sidenote 'inflatables-2' "not so for space data services,
+justifications for projects which preventing progress towards sci-fi realities
+of large scale space travel and habitation{% sidenote 'inflatables-2' "not so for
+space data services,
 as satellites have been miniaturised, commodified, and productised out of the hands
 of governments."%}, branding these projects as potentially irresponsible to justify with
 public money. Governments want to solve the flat-lining productivity problem{% sidenote
@@ -43,7 +43,7 @@ some of whom create new visions that result in new jobs and the remaining
 others perform these jobs. I can't definitively prove this, of course." %}
 but want to do so without investing in visions of a limitlessly abundant future.
 Meanwhile, private investors want rapid returns on investment while making
-bold claims {% marginfigure 'thiel' 'assets/imgs/thiel.png' %}, extending the
+bold claims, like wanting flying cars but getting $140$ characters, extending the
 participation in space progress to mostly the superwealthy. From
 hereon, this post will focus on one such radical notion of space
 superstructures, such as rotating wheel space stations, that expand our
@@ -163,11 +163,11 @@ solutions are those that challenge our Earth-biased intuitions.
 
 ## Why is now a good time to return to inflatable space structures?
 There are probably many more reasons than I describe below as to why
-now {% sidenote 'robotics1'
+now{% sidenote 'robotics1'
 "Unlike was done with inflatables, we should also ensure support for
 maturing in-space robotic assembly and maintenance technology development
 as I imagine that at even larger scales, a reliance on this stack will be necessary."%}
-is a good time to revisit the GoodYear inflatable station idea {% sidenote 'robotics2' "In fact,
+is a good time to revisit the GoodYear inflatable station idea{% sidenote 'robotics2' "In fact,
 such stations are just one application of inflatable 
 technologies I see. They could totally transform space robotics by using pneumatic actuation
 for orbital applications thus eliminating the need for radiation-hardened components like
