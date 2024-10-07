@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Yingqiang Wang was born in Jinhua, Zhejiang, China, in 1997. I received my B.Eng. and Ph.D. degrees in ocean engineering from Zhejiang University, Zhejiang, China, in 2019 and 2024, respectively. From Nov. 2022 to Nov. 2023, I was a visiting Ph.D. student with the Institute of Robotics and Intelligent Systems, ETH Zürich, Zürich, Switzerland.
+I was born in Jinhua, Zhejiang, China, in 1997. I received my B.Eng. and Ph.D. degrees in ocean engineering from Zhejiang University, Zhejiang, China, in 2019 and 2024, respectively. From Nov. 2022 to Nov. 2023, I was a visiting Ph.D. student with the Institute of Robotics and Intelligent Systems, ETH Zürich, Zürich, Switzerland.
 I have been deeply involved in the development of a passive inverted ultra-short baseline (piUSBL) positioning system for autonomous underwater vehicle (AUV) navigation. My research interests include underwater acoustic navigation, marine robotics, and digital signal processing.
 
 Contact Info
