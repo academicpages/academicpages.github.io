@@ -22,12 +22,6 @@ Education
 | Sep 2019 – Sep 2024 | Ph.D. | Zhejiang University | China |  
 | Sep 2015 – Jul 2019 | B.Eng. | Zhejiang University | China |  
 
-|   |   |   |
-|---|---|---|
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
 Research Interests
 ======
 ### Underwater Acoustic Navigation
