@@ -13,10 +13,10 @@ I am very fortunate to be advised by [Prof. Taisude Nakata](https://sites.google
 
 I graduated from the Economic Policy Program at the Graduate School of Public Policy, the University of Tokyo, with a Master's Degree in Public Policy in March 2021.
 
-I graduated from the Department of Mathematics, the School of Mathematics, Sun Yat-sen University, with a B.A. in Mathematics in March 2018.
+I graduated from the Department of Mathematics, the School of Mathematics, Sun Yat-sen University, with a B.A. in Mathematics in June 2018.
 
 My CV is here: [XX's Curriculum Vitae](../assets/).
 
-[Email](lee.hungtou@gmail.com) / [Github](https://github.com/HongtaoLI-Econ)
+[Email](lee.hungtou@gmail.com): lee.hungtou@gmail.com / [Github](https://github.com/HongtaoLI-Econ): https://github.com/HongtaoLI-Econ
 ————————————————
 
