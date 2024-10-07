@@ -191,7 +191,9 @@ If in-space semiconductor manufacturing in microgravity becomes a thing, then
 larger inflatable volumes would, again, answer the question of scaling.
 Similarly, sci-fi outcomes such as at-scale 3-D printing artificial organs
 would benefit those in need of hearts and lungs- demands that are not being met
-by the donor organ market. All of which is even before we consider making these
+by the donor organ market.
+
+All of which is even before we consider making these
 stations rotate to produce an artificial gravity enabling safer long-haul
 journeys for astronaut crews
 heading to Mars or other locations away from the Earth{% sidenote 'hansen' "I am
