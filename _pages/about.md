@@ -10,9 +10,10 @@ redirect_from:
 
 # About
 
-I am currently a computer science graduate student at [Viterbi School of Engineering](https://viterbischool.usc.edu/) of University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research interest is software engineering. I work in the intersection of Software Analysis and LLMs.
+I am currently a computer science graduate student at [Viterbi School of Engineering](https://viterbischool.usc.edu/) of University of Southern California. I am a member of [SoftArch](https://softarch.usc.edu/~neno/) lab under supervision of Nenad Medvidović, and my research field is software engineering. Currently, I am working in the intersection of Software Testing and LLMs.
 
-Additionally, I play classical piano and am eagerly interested in social sciences, especially human social behavior, and computational social science.
+
+Additionally, I play classical piano and am eagerly interested in social sciences, especially and computational social science, and sociology.
 
 <br>
 
@@ -25,7 +26,7 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 **B.Sc Computer Science at Shahid Beheshti University (SBU)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;2018-2022
+&nbsp;&nbsp;&nbsp;&nbsp;2018 - 2022
 
 <br>
 
@@ -73,5 +74,5 @@ Additionally, I play classical piano and am eagerly interested in social science
 
 # Others
 
-* [Writings on Medium.com](https://medium.com/@girraffael)
+* [Articles on Medium.com](https://medium.com/@girraffael)
 <!-- * [Shoreless Sea 🌊🎵](https://t.me/shoreless_sea) -->
