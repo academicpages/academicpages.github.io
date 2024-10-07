@@ -182,7 +182,7 @@ was still in early development and the GoodYear project might have been easy to 
 the Moon missions would have also led to a reallocation of resources and
 focus. Second, the impending retirement of the ISS means there is a window
 (or even a need) for a successor with a larger volume for both crew sizes
-and science output. Third, there are more commercial users of a large
+and science output. Third, there will be eventually be more commercial users of a large
 inflatable orbital volume than space agencies; in-space manufacturing
 companies like Varda could use these stations to scale their drug manufacturing,
 with the beneficiaries being patients on Earth. Other avenues here are for materials
