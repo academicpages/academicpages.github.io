@@ -15,7 +15,7 @@ I graduated from the Economic Policy Program at the Graduate School of Public Po
 
 I graduated from the Department of Mathematics, the School of Mathematics, Sun Yat-sen University, with a Bachelor's Degree in Mathematics in June 2018.
 
-My CV is here: [XX's Curriculum Vitae](../files/CV_Hongtao LI_202410.pdf).
+My CV is here: [Curriculum Vitae](../files/CV_Hongtao_LI_202410.pdf).
 
 [Email](lee.hungtou@gmail.com): lee.hungtou@gmail.com / [Github](https://github.com/HongtaoLI-Econ): https://github.com/HongtaoLI-Econ
 ————————————————
