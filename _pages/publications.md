@@ -4,11 +4,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+<i>* equal contribution</i>.<br>
+
 ## Selected Preprints
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
-<i>arXiv. Under review</i>.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
+
+* <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
+<b>Guangji Bai</b>, Ziyang Yu, Zheng Chai, Yue Cheng, Liang Zhao.<br>
+[[paper](https://arxiv.org/pdf/2308.13466)]<br>
+
+* <b>Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization</b>.<br>
+<b>Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
+[[paper](https://arxiv.org/abs/2206.00057)]<br>
 
 ## 2024
 * <b>*SparseLLM*: Towards Global Pruning for Pre-trained Language Models</b>.<br>
@@ -79,5 +88,4 @@ Yuyang Gao, Tong Steven Sun, <b>Guangji Bai</b>, Siyi Gu, Sungsoo Ray Hong, Lian
 <i>The 28th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2022)</i>.<br>
 [[paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539419)][[code](https://github.com/YuyangGao/RES)]<br>
 
-<i>* equal contribution</i>.<br>
 
