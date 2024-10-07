@@ -16,9 +16,9 @@ Email: yingqiang_wang@zju.edu.cn
 
 Education
 ======
-Nov 2022 – Nov 2023    Joint Ph.D.    ETH Zurich, Zurich, Switzerland  
-Sep 2019 – Sep 2024    Ph.D.          Zhejiang University, Zhoushan, China  
-Sep 2015 – Jul 2019    B.Eng.         Zhejiang University, Hangzhou, China  
+|Nov 2022 – Nov 2023 | Joint Ph.D. | ETH Zürich, Switzerland|  
+|Sep 2019 – Sep 2024 | Ph.D. | Zhejiang University, China|  
+|Sep 2015 – Jul 2019 | B.Eng. | Zhejiang University, China|  
 
 Research Interests
 ======
