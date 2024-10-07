@@ -38,10 +38,11 @@ space data services,
 as satellites have been miniaturised, commodified, and productised out of the hands
 of governments."%}, branding these pursuits as potentially irresponsible to justify with
 taxpayer money. Governments want to solve the flat-lining productivity problem{% sidenote
-"UKproductivity" "I believe investment creates skilled populations,
-some of whom create new visions that result in new jobs and the remaining
-others perform these jobs. I can't definitively prove this, of course but it might
-provide a pathway to solving the [UK's productivity puzzle](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07)." %}
+"UKproductivity" "I believe such investment justifies technical education which
+then creates skilled populations- some of whom work on new visions that generate
+jobs and others work in these jobs or enter the existing labour market. I can't
+definitively prove this, of course, but it feels to me a pathway to solving
+the [UK's productivity puzzle](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/whatistheproductivitypuzzle/2015-07-07)." %}
 but want to do so without investing in visions of a limitlessly abundant future.
 Meanwhile, private investors want rapid returns on investment while making
 bold claims, like wanting flying cars but getting $140$ characters, extending the
