@@ -1,0 +1,106 @@
+body {
+  background-image: url("images/olympics.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+ }
+
+a {
+  color: #807dba;
+  text-decoration: none;
+}
+
+a:focus,
+a:hover {
+  color: #f09228;
+  text-decoration: none;
+}
+
+body,
+td,
+th,
+tr,
+p,
+a {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.4rem;
+  font-size: 1.05rem;
+}
+
+news {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.5rem;
+  font-size: 1.0rem;
+}
+
+name {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  line-height: 3rem;
+  font-size: 2.2rem;
+}
+
+heading {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 2.5rem;
+  font-size: 2.0rem;
+  margin-top: 0.4rem;
+}
+
+subheading {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 2.5rem;
+  font-size: 1.3rem;
+  margin-top: 0.4rem;
+  color: #807dba
+}
+
+papertitle {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 500;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+}
+
+papervenue {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  line-height: 1.5rem;
+  font-size: 1.0rem;
+  color: #a50f15
+}
+
+paper {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  line-height: 1.5rem;
+  font-size: 1.0rem;
+}
+
+.one {
+  width: 400px;
+  height: 200px;
+  position: relative;
+}
+
+.two {
+  width: 400px;
+  height: 200px;
+  position: absolute;
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+.fade {
+  transition: opacity .2s ease-in-out;
+  -moz-transition: opacity .2s ease-in-out;
+  -webkit-transition: opacity .2s ease-in-out;
+}
+
+span.highlight {
+  background-color: #ffffd0;
+}
