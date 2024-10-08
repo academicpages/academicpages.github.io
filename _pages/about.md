@@ -1,13 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Rubin Li Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hello, my name is Rubin Li, and I am currently pursuing a Bachelor’s degree in Telecommunication Engineering at [Sun Yat-sen University](https://www.sysu.edu.cn/). My academic background has provided me with a solid foundation in key areas such as big data, artificial intelligence, and signals and systems. I have gained extensive project experience through both research and internships, including publishing a paper on recommendation systems at ICDM2024 and contributing to patents related to large language models applications. I am passionate about data science and large language models.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am now advised by [Prof. Chang-Dong Wang](https://www.scholat.com/changdongwang.cn) of [Allminer Lab](https://github.com/allminerlab), from [School of Computer Science and Engineering](https://cse.sysu.edu.cn/), Sun Yat-sen University. 
+
+I am a highly self-driven student, eager to further my research in the fields of data science and large language models (LLMs). My research interests include data mining, LLMs, and any related interdisciplinary areas.I am actively seeking a PhD program to further my studies and I am eager to contribute to and collaborate on cutting-edge research projects in these areas. If my profile aligns with your research interests, please contact me. I would love to discuss potential opportunities for collaboration and further learning.
+
+You can find my CV here: [Rubin Li's Curriculum Vitae](../assets/CV_Li%20Rubin%20Sun%20Yat-Sen%20University%209.26.pdf)
+
+[Email](mailto:lirb7@mail2.sysu.edu.cn)
+
+
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -46,4 +58,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
