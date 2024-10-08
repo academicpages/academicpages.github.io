@@ -6,7 +6,7 @@ permalink: /publication/Transportation-Infrastructure-and-Trade
 <!-- -->excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-16
 venue: 'Japan and the World Economy'
-<!--slidesurl: 'http://hongtaoli-econ.github.io/files/slides1.pdf' -->
+<!-- -->slidesurl: 'http://hongtaoli-econ.github.io/files/slides1.pdf' 
 paperurl: 'http://hongtaoli-econ.github.io/files/HAN&LI2022.pdf'
 citation: 'Zheng Han, Hongtao Li,
 Transportation infrastructure and trade,
