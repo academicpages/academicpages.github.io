@@ -1,0 +1,14 @@
+// Output
+// ======
+
+// Output
+// ------
+// Output CSS with proper browser support.
+// - $styles  : <map of css property-value pairs>
+@mixin output(
+  $styles
+) {
+  @each $prop, $val in $styles {
+    @include susy-support($prop, $val);
+  }
+}

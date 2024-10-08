@@ -1,0 +1,35 @@
+# main links links
+main:
+  - title: "Publications"
+    url: publications/
+
+  - title: "Research Experience"
+    url: research/
+
+  - title: "Education"
+    url: education/ 
+    
+  - title: "Work Experience"
+    url: work/  
+    
+  - title: "Portfolio"
+    url: portfolio/
+
+  - title: "Teaching"
+    url: teaching/ 
+
+  - title: "Extracurricular"
+    url: extra/
+    
+  - title: "CV"
+    url: files/Cetin-Eren-Resume.pdf
+    
+  #- title: "Guide"
+  #  url: /markdown/
+
+  #- title: "Talks"
+  #  url: /talks/  
+     
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
