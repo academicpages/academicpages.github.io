@@ -1,12 +1,12 @@
 ---
-title: "transportation infrastructure and trade"
+title: "Transportation Infrastructure and Trade"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 <!-- -->excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-16
-venue: 'Japan and the World Economy'
-slidesurl: 'http://hongtaoli-econ.github.io/files/slides1.pdf' 
+venue: '[Japan and the World Economy](https://www.sciencedirect.com/science/article/pii/S0922142522000470)'
+<!--slidesurl: 'http://hongtaoli-econ.github.io/files/slides1.pdf' -->
 paperurl: 'http://hongtaoli-econ.github.io/files/HAN&LI2022.pdf'
 citation: 'Zheng Han, Hongtao Li,
 Transportation infrastructure and trade,
