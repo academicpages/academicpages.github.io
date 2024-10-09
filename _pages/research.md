@@ -33,9 +33,9 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 
 ## Work in Progress
 
-* Deng, Rex Weiye. Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations. 
+* Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations**. 
 
-* Deng, Rex Weiye, Margit Tavits, and Taishi Muraoka. Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe.
+* Deng, Rex Weiye, Margit Tavits, and Taishi Muraoka. **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
 
 
 
