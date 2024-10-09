@@ -7,43 +7,309 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>奢华星空爱情语</title>
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background: radial-gradient(
+            circle at center,
+            rgba(30, 30, 50, 0.5),
+            rgba(10, 10, 20, 0.8)
+          ),
+          url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80")
+            no-repeat center center fixed;
+        background-size: cover;
+        font-family: "Lato", sans-serif;
+        overflow: hidden;
+        filter: brightness(0.7);
+      }
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+      #love-messages-container {
+        background: linear-gradient(
+          to bottom right,
+          rgba(128, 128, 255, 0.1),
+          rgba(255, 128, 128, 0.1)
+        );
+        backdrop-filter: blur(50px);
+        border-radius: 60px;
+        padding: 80px;
+        box-shadow: 0 50px 100px rgba(0, 0, 0, 0.6);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        max-width: 80%;
+        text-align: center;
+      }
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+      p.love-message {
+        font-size: 32px;
+        color: #fff;
+        text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.7);
+        margin: 40px 0;
+        letter-spacing: 2px;
+        line-height: 1.8;
+        opacity: 0;
+        animation: fadeIn 1.5s ease forwards;
+      }
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+      p.love-message:hover {
+        transform: scale(1.1);
+        text-shadow: 5px 5px 12px rgba(0, 0, 0, 0.8);
+      }
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+      #refresh-button {
+        position: fixed;
+        bottom: 50px;
+        right: 120px;
+        background-color: rgba(255, 255, 255, 0.05);
+        backdrop-filter: blur(30px);
+        border: none;
+        border-radius: 50%;
+        width: 80px;
+        height: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        cursor: pointer;
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.6);
+        font-size: 36px;
+        color: #fff;
+        text-shadow: 4px 4px 10px rgba(0, 0, 0, 0.7);
+      }
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+      .love-heart {
+        position: absolute;
+        font-size: 60px;
+        opacity: 0;
+        transition: all 0.7s ease;
+        animation: fallDown 5s linear forwards;
+      }
 
-**Markdown generator**
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(40px);
+        }
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+      @keyframes fallDown {
+        from {
+          top: -70px;
+          opacity: 0.8;
+        }
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+        to {
+          top: 130%;
+          opacity: 0;
+        }
+      }
+    </style>
+  </head>
 
-For more info
+  <body>
+    <div id="love-messages-container"></div>
+    <button id="refresh-button">&#10084;</button>
+    <script>
+      let clickCount = 0;
+      document
+        .getElementById("refresh-button")
+        .addEventListener("click", function () {
+          generateRandomLoveMessages();
+          const heartContainer = document.body;
+          let heartContent;
+          if (clickCount % 2 === 0) {
+            heartContent = "M💖";
+          } else {
+            heartContent = "Y💖";
+          }
+          const heart = document.createElement("div");
+          heart.classList.add("love-heart");
+          heart.textContent = heartContent;
+          heart.style.top = Math.random() * 75 + "%";
+          heart.style.left = Math.random() * 75 + "%";
+          // 确保新生成的爱心不与已有爱心位置重叠
+          const existingHearts = document.querySelectorAll(".love-heart");
+          for (const existingHeart of existingHearts) {
+            if (
+              Math.abs(existingHeart.offsetTop - heart.offsetTop) < 70 &&
+              Math.abs(existingHeart.offsetLeft - heart.offsetLeft) < 70
+            ) {
+              heart.style.top = Math.random() * 75 + "%";
+              heart.style.left = Math.random() * 75 + "%";
+              break;
+            }
+          }
+          heartContainer.appendChild(heart);
+          heart.style.opacity = 1;
+          clickCount++;
+        });
+
+      function generateRandomLoveMessages() {
+        const loveMessagesContainer = document.getElementById(
+          "love-messages-container"
+        );
+        loveMessagesContainer.innerHTML = "";
+        const allLoveMessages = [
+          "Always by your side.（永远在你身边。）",
+          "Be mine forever.（永远属于我。）",
+          "Cherish every moment.（珍惜每一刻。）",
+          "Deep love endures.（深爱持久。）",
+          "Embrace our love.（拥抱我们的爱。）",
+          "Forever in love.（永远相爱。）",
+          "Gentle love shines.（温柔的爱闪耀。）",
+          "Hold me tight.（紧紧抱住我。）",
+          "Infinite love.（无尽的爱。）",
+          "Joyful love grows.（快乐的爱成长。）",
+          "Kindness in love.（爱中的善良。）",
+          "Love lasts forever.（爱永恒。）",
+          "My heart is yours.（我的心属于你。）",
+          "Never let go.（永不放手。）",
+          "Our love is strong.（我们的爱很强烈。）",
+          "Passionate love burns.（激情的爱燃烧。）",
+          "Quiet love endures.（安静的爱持久。）",
+          "Radiant love shines.（灿烂的爱闪耀。）",
+          "Sweet love endures.（甜蜜的爱持久。）",
+          "True love conquers.（真爱征服一切。）",
+          "United by love.（因爱而团结。）",
+          "Vibrant love lives.（充满活力的爱存在。）",
+          "Warm love surrounds.（温暖的爱围绕。）",
+          "XOXO, love you.（亲亲抱抱，爱你。）",
+          "Yearning for you.（渴望你。）",
+          "Zealous love burns.（热情的爱燃烧。）",
+          "Adore and cherish.（崇拜和珍惜。）",
+          "Affection blooms.（爱意绽放。）",
+          "Always connected.（永远相连。）",
+          "Admire your love.（钦佩你的爱。）",
+          "Allure of love.（爱的诱惑。）",
+          "Affectionate touch.（深情的触摸。）",
+          "Always glowing.（永远发光。）",
+          "Admiring hugs.（令人羡慕的拥抱。）",
+          "Alluring eyes.（迷人的眼睛。）",
+          "Adorable kisses.（可爱的吻。）",
+          "Always kind.（永远善良。）",
+          "Alluring love.（迷人的爱。）",
+          "Admired moments.（令人钦佩的时刻。）",
+          "Affectionate nights.（深情的夜晚。）",
+          "Always on my mind.（永远在我心中。）",
+          "Affectionate promise.（深情的承诺。）",
+          "Always quiet.（永远安静。）",
+          "Admiring rays.（令人钦佩的光芒。）",
+          "Affectionate smile.（深情的微笑。）",
+          "Always true.（永远真实。）",
+          "Adorable union.（可爱的结合。）",
+          "Alluring view.（迷人的景色。）",
+          "Always warm.（永远温暖。）",
+          "Always xoxo.（永远亲亲抱抱。）",
+          "Always yearning.（永远渴望。）",
+          "Always zealous.（永远热情。）",
+          "Beautiful affection.（美丽的感情。）",
+          "Blissful bond.（幸福的纽带。）",
+          "Brilliant connection.（辉煌的联系。）",
+          "Beloved devotion.（心爱的奉献。）",
+          "Bright eyes.（明亮的眼睛。）",
+          "Beautiful forever.（永远美丽。）",
+          "Blissful glow.（幸福的光芒。）",
+          "Beautiful hugs.（美丽的拥抱。）",
+          "Brilliant illumination.（辉煌的照明。）",
+          "Beautiful joy.（美丽的喜悦。）",
+          "Blissful kindness.（幸福的善良。）",
+          "Beautiful love.（美丽的爱。）",
+          "Beloved memories.（心爱的回忆。）",
+          "Blissful nights.（幸福的夜晚。）",
+          "Beautifully one.（美丽地合一。）",
+          "Blissful promise.（幸福的承诺。）",
+          "Beautifully quiet.（美丽地安静。）",
+          "Beautiful rays.（美丽的光芒。）",
+          "Blissful smile.（幸福的微笑。）",
+          "Beautifully true.（美丽地真实。）",
+          "Beautiful union.（美丽的结合。）",
+          "Brilliant view.（辉煌的景色。）",
+          "Beautifully warm.（美丽地温暖。）",
+          "Beautiful xoxo.（美丽的亲亲抱抱。）",
+          "Beautiful yearning.（美丽的渴望。）",
+          "Beautifully zealous.（美丽地热情。）",
+          "Captivating affection.（迷人的感情。）",
+          "Cherished bond.（珍贵的纽带。）",
+          "Compassionate connection.（富有同情心的联系。）",
+          "Constant devotion.（始终如一的奉献。）",
+          "Charming eyes.（迷人的眼睛。）",
+          "Cherished forever.（永远珍惜。）",
+          "Comforting glow.（令人安慰的光芒。）",
+          "Caring hugs.（关怀的拥抱。）",
+          "Captivating illumination.（迷人的照明。）",
+          "Charming joy.（迷人的喜悦。）",
+          "Compassionate kindness.（富有同情心的善良。）",
+          "Captivating love.（迷人的爱。）",
+          "Cherished moments.（珍贵的时刻。）",
+          "Comforting nights.（令人安慰的夜晚。）",
+          "Compassionately one.（富有同情心地合一。）",
+          "Cherished promise.（珍贵的承诺。）",
+          "Comfortingly quiet.（令人安慰地安静。）",
+          "Captivating rays.（迷人的光芒。）",
+          "Charming smile.（迷人的微笑。）",
+          "Compassionately true.（富有同情心地真实。）",
+          "Captivating union.（迷人的结合。）",
+          "Charming view.（迷人的景色。）",
+          "Comfortingly warm.（令人安慰地温暖。）",
+          "Captivating xoxo.（迷人的亲亲抱抱。）",
+          "Charming yearning.（迷人的渴望。）",
+          "Captivating zealous.（迷人地热情。）",
+          "Enchanting love.（迷人的爱。）",
+          "Faithful devotion.（忠诚的奉献。）",
+          "Glorious love.（光荣的爱。）",
+          "Heavenly affection.（天堂般的感情。）",
+          "Innocent love.（纯真的爱。）",
+          "Loyal love.（忠诚的爱。）",
+          "Magical love.（神奇的爱。）",
+          "Nurturing love.（培育的爱。）",
+          "Optimistic love.（乐观的爱。）",
+          "Passionate embrace.（激情的拥抱。）",
+          "Romantic love.（浪漫的爱。）",
+          "Serene love.（宁静的爱。）",
+          "Tender love.（温柔的爱。）",
+          "Unique love.（独特的爱。）",
+          "Vivid love.（生动的爱。）",
+          "Whimsical love.（异想天开的爱。）",
+          "Yearning embrace.（渴望的拥抱。）",
+          "Zestful love.（充满热情的爱。）",
+        ];
+        const selectedMessages = [];
+        while (selectedMessages.length < 6) {
+          const randomIndex = Math.floor(
+            Math.random() * allLoveMessages.length
+          );
+          const message = allLoveMessages[randomIndex];
+          if (!selectedMessages.includes(message)) {
+            selectedMessages.push(message);
+          }
+        }
+        selectedMessages.forEach((message) => {
+          const lovePhrase = document.createElement("p");
+          lovePhrase.classList.add("love-message");
+          lovePhrase.textContent = message;
+          loveMessagesContainer.appendChild(lovePhrase);
+        });
+      }
+
+      generateRandomLoveMessages();
+    </script>
+  </body>
+</html>
+
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
