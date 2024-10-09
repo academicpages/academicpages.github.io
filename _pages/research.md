@@ -6,7 +6,7 @@ title: "Research"
   
 ## Working Papers
 
-  * Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Available at [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4478410).
+  * Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Revise and Resubmit. 
 
 <details><summary>Abstract</summary>
 
