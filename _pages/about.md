@@ -62,4 +62,19 @@ These projects cover a variety of topics in **Probability** and **Python**, feat
 
 ---
 
+### Applying Stochastic Processes to Financial Modelling
+
+In this short project, I create a short HTML Document that explains how you can apply Stochastic Calculus (Geometric Brownian Motion, OU Process) to market trend analyses
+
+![Stochastics for Stocks](/images/stock.png)
+<div style="display: flex; justify-content: center;">
+  <a href="_pages/GBM.html" target="_blank">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin-right: 10px; border: none; border-radius: 5px; cursor: pointer;">
+      Doc
+    </button>
+  </a>
+</div>
+
+
+---
 Feel free to reach out if you'd like to discuss any of these projects or collaborate on similar topics!
