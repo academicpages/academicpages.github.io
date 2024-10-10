@@ -45,7 +45,7 @@ title: "Research"
 
 * Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations**. 
 
-* Deng, Rex Weiye, Margit Tavits, and Taishi Muraoka. **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
+* Deng, Rex Weiye, Taishi Muraoka, and Margit Tavits. **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
 
 
 
