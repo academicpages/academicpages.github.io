@@ -635,7 +635,7 @@ ul,ol { width: 45%;
 */
 //li { padding: 0.5em 0; } //vertical padding on list items screws up vertical rhythym
 
-figure, figure img.maincolumn { max-width: 55%;
+figure, figure img.maincolumn { max-width: 50%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
          margin-bottom: 3em; }
@@ -663,7 +663,7 @@ img { max-width: 100%; }
                          margin-top: 0;
                          margin-bottom: 1.96rem;
                          font-size: 0.9rem;
-                         line-height: 1.96; //changed to bring line heights into rational pattern
+                         line-height: 1.15; //changed to bring line heights into rational pattern
                          vertical-align: baseline;
                          position: relative;
                          font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
