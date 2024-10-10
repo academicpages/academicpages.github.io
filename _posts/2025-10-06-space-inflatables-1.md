@@ -177,7 +177,7 @@ of its inflated volume (another cool image below).
 {% maincolumn 'assets/imgs/LittekenPaper_GoodYear.png' "
 [Litteken's paper on space inflatables](https://ntrs.nasa.gov/api/citations/20190001443/downloads/20190001443.pdf)
 has this really nice image of GoodYear's inital testing taken from James Hansen's
-[_Spacefligth Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf).
+[_Spaceflight Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf).
 One can see James Webb underneath the full size inflated station; the images on the
 left show the packaged tube structure." %}
 
@@ -261,7 +261,7 @@ stations rotate to produce an artificial gravity enabling safer long-haul
 journeys for astronaut crews
 heading to Mars or other locations away from the Earth{% sidenote 'hansen' "I am
 currently reading James Hansen's
-[_Spacefligth Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf) that should
+[_Spaceflight Revolution_](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4308.pdf) that should
 help me a deeper perspective on inflatable space stations. Fun fact: another of his books was adapted into
 [First Man](https://en.wikipedia.org/wiki/First_Man_(film)) with Ryan Gosling playing Neil Armstrong."%}.
 
