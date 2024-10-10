@@ -638,7 +638,7 @@ ul,ol { width: 45%;
 figure, figure img.maincolumn { max-width: 50%;
          -webkit-margin-start: 0;
          -webkit-margin-end: 0;
-         margin-bottom: 3em; }
+         margin-bottom: 1em; }
 
 figcaption { float: right;
              clear: right;
@@ -650,7 +650,8 @@ figcaption { float: right;
              vertical-align: baseline;
              position: relative;
              max-width: 40%;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     	     font-style: italic}
 
 figure.fullwidth figcaption { float: left; margin-right: 0%; margin-left: 33%; max-width: 100%; }
 

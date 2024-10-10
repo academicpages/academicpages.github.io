@@ -44,7 +44,8 @@ table, table.booktabs { width: auto;  //making booktabs style tables the unstyle
                  //margin: 0 auto;
                  border-spacing: 0px;
                  border-top: 2px solid $border-color;
-                 border-bottom: 2px solid $border-color; }
+                 border-bottom: 2px solid $border-color;
+	 	 margin-bottom: 2em}
 
 .booktabs th, th { border-bottom: 1px solid $border-color;
                padding: 0.65ex 0.5em 0.4ex 0.5em;
