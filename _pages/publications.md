@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<i>* equal contribution</i>.<br>
+<i>* Equal contribution</i>.<br>
 
 ## Selected Preprints
 * <b>Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models</b>.<br>
