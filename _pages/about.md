@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kia Rahmani, and I am an AI scientist at [Durbale](https://durable.ai/). I am passionate about designing interpretable and reliable artificial intelligence through the theory of programming languages. At Durable, we aim to bridge the gap between natural language and code through trustworthy program synthesis methods.
+My name is Kia Rahmani, and I am an AI scientist at [Durable](https://durable.ai/). I am passionate about designing interpretable and reliable artificial intelligence through the theory of programming languages. At Durable, we aim to bridge the gap between natural language and code through trustworthy program synthesis methods.
 
 Before joining Durable, I served as a post-doctoral researcher at the [University of Texas at Austin](https://www.utexas.edu/) under the supervision of Prof. [I. Dillig](https://www.cs.utexas.edu/~isil/) and obtained my PhD from [Purdue University](https://www.cs.purdue.edu/) under the supervision of Prof. [S. Jagannathan](https://www.cs.purdue.edu/homes/suresh/) and Prof. [B. Delaware](https://www.cs.purdue.edu/homes/bendy/). I also did an internship with [Microsoft](https://www.microsoft.com/en-us/research/) where I developed a new program synthesis algorithm using large language models, under the supervision of Dr. [S. Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/).
 
