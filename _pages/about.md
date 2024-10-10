@@ -14,7 +14,7 @@ I am a PhD student in Computational Molecular Biology at the [Center for Computa
 
 --- 
 
-## Key research projects
+# Key research projects
 
 ## Bayesian Regression for Predicting the Spread of Antimalarial Drug Resistance
 
