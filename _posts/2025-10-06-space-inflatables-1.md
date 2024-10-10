@@ -78,6 +78,7 @@ described in [*The Problem of Space Travel*](https://books.google.co.uk/books/ab
 at GEO over Berlin.%} rotating wheel station. The below table
 compares the HPH to the ISS and von Braun station:
 
+<!--
 |              Parameters                      | ISS    | von Braun wheel        | Hundred person Habitat |
 | -------------------------------------------- | ------ | ---------------------- | ---------------------- |
 | crew size (# of astronauts)                  | 7-13   | 50-80                  | 100                    |
@@ -87,6 +88,68 @@ compares the HPH to the ISS and von Braun station:
 | Max. volume per crew $(\frac{m^3}{person})$  | 64.66  | 52.67 assuming 50 crew | 183.20                 |
 | Rotational speed for artificial gravity (RPM)|  -     | 3                      | 3                      |
 | Gravity on-board  ($m/s^2$)                  |  -     | 1.655                  | 1.655                  |
+-->
+
+{% marginnote 'space-station-comparison-id' '*Table 1*: Comparison of different space station designs.' %}
+<div class="table-wrapper">
+  <table class="booktabs">
+    <thead>
+      <tr>
+        <th colspan="4" class="cmid">Space Station Comparison</th>
+      </tr>
+      <tr>
+        <th class="l">Parameters</th>
+        <th>ISS</th>
+        <th>von Braun wheel</th>
+        <th class="r">Hundred person Habitat</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Crew size (# of astronauts)</td>
+        <td class="c">7-13</td>
+        <td class="c">50-80</td>
+        <td class="r">100</td>
+      </tr>
+      <tr>
+        <td>Diameter of the station (m)</td>
+        <td class="c">n/a</td>
+        <td class="c">75</td>
+        <td class="r">~75</td>
+      </tr>
+      <tr>
+        <td>Total volume (m³)</td>
+        <td class="c">916</td>
+        <td class="c">6217.85</td>
+        <td class="r">20x of ISS</td>
+      </tr>
+      <tr>
+        <td>Habitable %</td>
+        <td class="c">42.35%</td>
+        <td class="c">60% (assumed)</td>
+        <td class="r">?</td>
+      </tr>
+      <tr>
+        <td>Max. volume per crew (m³/person)</td>
+        <td class="c">64.66</td>
+        <td class="c">52.67 assuming 50 crew</td>
+        <td class="r">183.20</td>
+      </tr>
+      <tr>
+        <td>Rotational speed for artificial gravity (RPM)</td>
+        <td class="c">-</td>
+        <td class="c">3</td>
+        <td class="r">3</td>
+      </tr>
+      <tr>
+        <td>Gravity on-board (m/s²)</td>
+        <td class="c">-</td>
+        <td class="c">1.655</td>
+        <td class="r">1.655</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 As opposed to von Braun's imagined multi-launch architecture, I am
 imposing{% sidenote 'notproposing' 'Not proposing!'%} that this identically sized structure be achievable from a
