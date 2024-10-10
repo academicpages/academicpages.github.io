@@ -34,11 +34,16 @@ Currently, I am a key member of the quantization teams at AI Center, FPT Softwar
 
 In addition, my collaboration with Prof. [Van-Dinh Nguyen](https://scholar.google.com/citations?user=wgsX_zIAAAAJ&hl=en&oi=ao) has allowed me to continue my interest in edge/cloud areas. The work is updated at [ITS research works](https://github.com/ngochungnguyenlg/ITS_paper).
 
+## Activity
+I have completed 14 peer reviews for the following publications:
+
+- Computer Networks Journal (Q1, Elsevier)
+- IEEE Internet of Things Journal (Q1, IEEE)
+- IEEE Communications Letters (Q1, IEEE)
+
 ## Collaboration
 
 Updating.
 
-## For More Information
 
-Updating.
 
