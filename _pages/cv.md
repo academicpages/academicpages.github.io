@@ -64,9 +64,12 @@ Skills
 ======
 * English: Fluent
 * Spanish: Native
-* R Programming: tidyverse and ggplot
-* Otree to implement experiments
-* Cumbia Dancer
-* Skateboard (for commuting)
+* Skateboarding for commuting
+* Cumbia Dancing
+* R Programming: tidyverse and ggplot2
+* Software to implement experiments:
+  * Otree
+  * Qualtrics
+  * Prolific
 
 <embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
