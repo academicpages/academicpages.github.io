@@ -108,7 +108,7 @@ compares the HPH to the ISS and von Braun station:
       <tr>
         <td>Crew size (# of astronauts)</td>
         <td class="c">7-13</td>
-        <td class="c">50-80</td>
+        <td class="c">50</td>
         <td class="r">100</td>
       </tr>
       <tr>
@@ -132,7 +132,7 @@ compares the HPH to the ISS and von Braun station:
       <tr>
         <td>Max. volume per crew (m³/person)</td>
         <td class="c">64.66</td>
-        <td class="c">52.67 assuming 50 crew</td>
+        <td class="c">52.67 </td>
         <td class="r">183.20</td>
       </tr>
       <tr>
