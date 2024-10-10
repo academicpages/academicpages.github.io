@@ -6,7 +6,7 @@ redirect_from:
   - /contact.html
 ---
 
-You can reach me through the following communication channels:
+To get in touch, you can:
 
-* E-mail: [albertkjoller@protonmail.com](albertkjoller@protonmail.com)
-* LinkedIn: [albertkjoller](https://www.linkedin.com/in/albertkjoller)
+1. send me an e-mail at [`akjja@dtu.dk`](akjja@dtu.dk)
+2. connect with me on [LinkedIn](https://www.linkedin.com/in/albertkjoller)

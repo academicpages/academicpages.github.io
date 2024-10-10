@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 #title                    : "Main page / About Me"
-title                    : "Albert Kjøller / About Me"
+title                    : "Albert Kjøller Jacobsen / About Me"
 title_separator          : "-"
 name                     : &name "Albert Kjøller Jacobsen"
 description              : &description "MSc. Eng. Human-Centered AI @ DTU"
@@ -87,8 +87,8 @@ author:
   location         : "Copenhagen, Denmark"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=4034kssAAAAJ&hl=da&oi=ao"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -110,7 +110,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "albertkjoeller"
+  twitter          : #"albertkjoeller"
   vine             :
   weibo            :
   xing             :
