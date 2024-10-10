@@ -8,27 +8,29 @@ redirect_from:
 ---
 
 
-I'm a graduate in **Mathematics** from Trinity College Dublin, currently working as a **Risk Consultant** at Murex. I have a strong interest in **Finance**, **Statistics**, **Music**, and **Sports**, and am actively engaged in projects that focus on **Computational Mathematics** and **Probability**.
+I'm a graduate in Mathematics from Trinity College Dublin, currently working as a Risk Consultant at Murex. 
+
+I have a strong interest in Finance, Statistics, Music, and Sports, and am actively engaged in projects that focus on Computational Mathematics.
 
 ---
 
 ## Selected Projects
 
-### Credit Risk Project for Authorisation Strategies
+---
 
-While working at Murex, I have been investigating various authorisation strategies for calculating counterparty credit risk, including **Pre-Settlement Risk** and **Settlement Risk**, from an analytical perspective. This project involved implementing algorithms capable of handling large volumes of trades. 
+### Applying Stochastic Processes to Financial Modelling
 
-Some key outcomes include:
-- Identifying scenarios where alternative risk calculation strategies underperform (underestimate exposure).
-- Analysing **Monte Carlo simulations** and the percentage growth of the strategies.
+In this short project, I create a short HTML Document that explains how you can apply Stochastic Calculus (Geometric Brownian Motion, OU Process) to predict trends for Index Funds
 
-![Credit Risk Photo](/images/cr.png)
-<iframe
-  src="https://mybinder.org/v2/gh/misty576/Git-Repository/HEAD"
-  width="100%"
-  height="800px"
-  frameborder="0">
-</iframe>
+![Stochastics for Stocks](/images/stock.png)
+<div style="display: flex; justify-content: center;">
+  <a href="_pages/GBM.html" target="_blank">
+    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin-right: 10px; border: none; border-radius: 5px; cursor: pointer;">
+      Full Document
+    </button>
+  </a>
+</div>
+
 
 ---
 
@@ -51,8 +53,28 @@ In my undergraduate thesis, I explored the **Finite Element Method (FEM)** for s
   </a>
 </div>
 
+---
+
+### Credit Risk Project for Authorisation Strategies
+
+While working at Murex, I have been investigating various authorisation strategies for calculating counterparty credit risk, including **Pre-Settlement Risk** and **Settlement Risk**, from an analytical perspective. This project involved implementing algorithms capable of handling large volumes of trades. 
+
+Some key outcomes include:
+- Identifying scenarios where alternative risk calculation strategies underperform (underestimate exposure).
+- Analysing **Monte Carlo simulations** and the percentage growth of the strategies.
+
+![Credit Risk Photo](/images/cr.png)
+<iframe
+  src="https://mybinder.org/v2/gh/misty576/Git-Repository/HEAD"
+  width="100%"
+  height="800px"
+  frameborder="0">
+</iframe>
 
 ---
+
+
+<!--
 
 ### Miscellaneous Projects in Probability + Python
 
@@ -60,21 +82,6 @@ These projects cover a variety of topics in **Probability** and **Python**, feat
 
 ![Other Photo](/images/otherimage.png)
 
----
-
-### Applying Stochastic Processes to Financial Modelling
-
-In this short project, I create a short HTML Document that explains how you can apply Stochastic Calculus (Geometric Brownian Motion, OU Process) to market trend analyses
-
-![Stochastics for Stocks](/images/stock.png)
-<div style="display: flex; justify-content: center;">
-  <a href="_pages/GBM.html" target="_blank">
-    <button style="background-color: #4CAF50; color: white; padding: 10px 20px; margin-right: 10px; border: none; border-radius: 5px; cursor: pointer;">
-      Doc
-    </button>
-  </a>
-</div>
-
-
----
 Feel free to reach out if you'd like to discuss any of these projects or collaborate on similar topics!
+
+-->
