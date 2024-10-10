@@ -4,17 +4,10 @@ main:
     url: /publications/
 
   - title: "Talks and Posters"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+    url: /talks/      
         
   - title: "Other Interests"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
