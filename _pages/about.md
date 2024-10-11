@@ -48,8 +48,8 @@ For students, I like to emphases exploration-based learning (as opposed to ), wh
 the conventions of formal academia that are examination-focused (as much as my role permits).
 The dangers of eschewing exploration in educaation is bearing the anti-fruit in the extant
 populist model of STEM research where group leaders are focused on enhancing personal metrics
-by collecting more publications in a bid to raise personal research productivity indices
-{%sidenote '' 'A classic case of Goodhart’s law. My issue is that these metrics are not an
+by collecting more publications in a bid to raise personal research productivity indices{%sidenote
+'' 'A classic case of Goodhart’s law. My issue is that these metrics are not an
 effective measure of the true outputs from academia- the career of advisees [^b].
 Of course, this presumes advisees must also be self-motivated to grow their opportunities.'%}.
 My conclusion is that a lot of today's professoriate are not too different from
