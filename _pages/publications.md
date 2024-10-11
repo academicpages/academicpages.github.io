@@ -19,7 +19,7 @@ author_profile: true
 
 -  **<u>Kazuki Yamauchi</u>**, Wataru Nakata, Yuki Saito, and Hiroshi Saruwatari<br>
 **Decoding Strategy with Perceptual Rating Prediction for Language Model-Based Text-to-Speech Synthesis**<br>
-Audio Imagination: NeurIPS 2024 Workshop AI-Driven Speech, Music, and Sound Generation, Dec. 2024. (Accepted)<br>
+Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and Sound Generation, Dec. 2024. (Accepted)<br>
 
 
 -  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
