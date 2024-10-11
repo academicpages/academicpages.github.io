@@ -36,12 +36,6 @@ Education
 [//]: # (  * Duties included: Merging pull requests)
 
 [//]: # (  * Supervisor: Professor Hub)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
