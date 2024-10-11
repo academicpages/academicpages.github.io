@@ -12,4 +12,4 @@ I am currently a postdoctoral researcher at the Centre of Excellence in Oil, Gas
 
 **My research interests:** Optimization - *Offline Trajectory Estimation, Trajectory Optimization, Dynamic Programming, Column Generation, Branch-and-cut, Benders' decomposition, Deep Reinfrocement Learning;* and Control - *Extended Kalman Filter, Constrained Optimal Control.* 
 
-**Systems/setups of interest:** *Strapdown Inertial Navigation System (considering Earth's manifold and rotation), Multi-agent time-dependent network, Quadruped, Robotic Arm, Inverted-cart pendulum, Fixed-wing and rotory-wing drones, Unicycle (differential-drive).* 
+**Systems/setups of interest:** *Strapdown Inertial Navigation System (considering Earth's manifold and rotation), Multi-agent time-dependent network, Quadruped, Robotic Arm, Inverted-cart pendulum, Fixed-wing and rotary-wing drones, Unicycle (differential-drive).* 
