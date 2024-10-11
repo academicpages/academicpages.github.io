@@ -3,13 +3,8 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  background: white;
+  position: relative;
   border-bottom: 1px solid $border-color;
-  height: $masthead-height;
-  top: 0;
-  width: 100%;
-
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
