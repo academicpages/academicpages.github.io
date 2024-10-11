@@ -2,9 +2,9 @@
 title: "Adaptive Control Theory"
 collection: teaching
 type: "Postgraduate course by Prof. Sukumar Srikant"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2017-spring-teaching-1
 venue: "IIT Bombay, Systems and Control"
-date: Sprint 2017 (online)
+date: Spring 2017 (online)
 location: "Mumbai, India"
 ---
 
