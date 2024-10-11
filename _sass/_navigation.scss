@@ -191,7 +191,7 @@
 
   button {
     position: absolute;
-    height: 2.5rem;
+    height: 100%;
     right: 0;
     padding: 0 0.5rem;
     border: 0;
@@ -199,7 +199,6 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
-    z-index: 100;
   }
 
   .visible-links {
@@ -211,7 +210,6 @@
 
       &:first-child {
         font-weight: bold;
-        text-wrap: wrap;
 
         a {
           margin-left: 0;
@@ -405,7 +403,6 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
-    text-decoration-line: none !important;
 
     &:hover {
       color: #000;

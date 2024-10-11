@@ -1,42 +1,19 @@
-// base icon class definition
+// Base Class Definition
 // -------------------------
 
-.#{$fa-css-prefix} {
-  font-family: var(--#{$fa-css-prefix}-style-family, '#{$fa-style-family}');
-  font-weight: var(--#{$fa-css-prefix}-style, #{$fa-style});
-}
-
 .#{$fa-css-prefix},
-.#{$fa-css-prefix}-classic,
-.#{$fa-css-prefix}-sharp,
 .fas,
-.#{$fa-css-prefix}-solid,
 .far,
-.#{$fa-css-prefix}-regular,
-.fab,
-.#{$fa-css-prefix}-brands {
+.fal,
+.fab {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  display: var(--#{$fa-css-prefix}-display, #{$fa-display});
+  display: inline-block;
   font-style: normal;
   font-variant: normal;
-  line-height: 1;
   text-rendering: auto;
+  line-height: 1;
 }
-
-.fas,
-.#{$fa-css-prefix}-classic,
-.#{$fa-css-prefix}-solid,
-.far,
-.#{$fa-css-prefix}-regular {
-  font-family: 'Font Awesome 6 Free';
-}
-
-.fab,
-.#{$fa-css-prefix}-brands {
-  font-family: 'Font Awesome 6 Brands';
-}
-
 
 %fa-icon {
   @include fa-icon;
