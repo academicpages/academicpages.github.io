@@ -80,7 +80,6 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Dario Trujano-Ochoa"
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate at UCSB. Experimental, and Behavioral Economist"
@@ -89,16 +88,6 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ"
   email            : "dariotrujanoochoa@ucsb.edu"
-=======
-  name             : "Dario Trujano Ochoa"
-  avatar           : "profile.png"
-  bio              : "Ph.D. Candidate at UCSB. Experimental, and Behavioral Economist"
-  location         : "Isla Vista, CA."
-  employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-xX3w0AAAAJ"
-  email            :
->>>>>>> parent of 52218f4 (Merge branch 'old_version' of https://github.com/DarioTrujanoOchoa/dariotrujanoochoa.github.io into old_version)
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
