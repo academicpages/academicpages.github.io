@@ -26,7 +26,9 @@ Industry experience
   
 Teaching
 ======
-* 2023-: University of Lille
+* 2024-: Centrale Lille
+  * M2 DS: Natural Language Processing
+* 2023: University of Lille
   * M2 SCE: Machine Learning for cognitive science
   * M1 CS: Machine learning introduction
 * 2020-2022: KU Leuven
