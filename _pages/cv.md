@@ -66,4 +66,12 @@ Skills
   * Qualtrics
   * Prolific
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    
+    {% include archive-single-cv.html %}
+    
+  {% endfor %}</ul>
+
 <embed src="https://dariotrujanoochoa.github.io/files/CV_eng.pdf" type="application/pdf" width="100%" />
