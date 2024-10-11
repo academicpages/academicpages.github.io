@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: "Adaptive Control Theory"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course by Prof. Sukumar Srikant"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "IIT Bombay, Systems and Control"
+date: Sprint 2017 (online)
+location: "Mumbai, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
