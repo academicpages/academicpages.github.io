@@ -19,7 +19,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 <h2 id="publications">📝 Publications</h2>
 
-![PLOS Medicine](../images/Figure_JNO.png)
+![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
 
 **Earlier age at menopause, plasma metabolome, and risk of premature mortality: A cohort study in the UK Biobank**
 **Zeping Yang**, Ninghao Huang, ... Nan Li<sup>*</sup>.
