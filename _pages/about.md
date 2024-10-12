@@ -76,7 +76,7 @@ redirect_from:
 
 - Internal Migration, Remittances, and Networks: Evidence from Senegal (with Edward Wiles)
    <details>
-        <summary>Abstract  | <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">PDF</a> </summary> 
+        <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>We explore the relationship between internal migration, remittances, and financial and social networks in lower-income contexts, with a focus on Senegal. To establish new facts and causal evidence, we construct a unique dataset that links migration patterns to both remittance flows and social networks covering the near universe of Senegal's adult population, based on real-time GPS tracking of personal and business transactions and anonymized phone contact directories from the country’s largest mobile money provider. We use this dataset to document patterns of migration and remittance flows to a high degree of spatial and temporal precision, and to explore how financial and social networks affect — and are affected by — these patterns, especially in response to economic or environmental shocks.</p>
         </div>
@@ -85,7 +85,7 @@ redirect_from:
 
 - Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
    <details>
-        <summary>Abstract  | <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">PDF</a> </summary> 
+        <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>Low tax capacity hampers the ability of municipalities in Côte d’Ivoire, as in many other countries, to provide quality public services for their populations. We study the impacts of the nationwide rollout of a digital tax system, through which municipalities will move to entirely cash-less tax collection. We explore the impact on total tax revenue, size of the tax base, spending (including public good provision), and local government accountability.</p>
         </div>
