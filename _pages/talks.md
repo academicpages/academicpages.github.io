@@ -9,7 +9,7 @@ Below you can find some information on talks I have given in the past.
 
 ## Extremal Black Holes 
 
-Based on 2408.05549 in collaboration with C. de Rham and A. J. Tolley. 
+Based on [2408.05549](https://arxiv.org/abs/2408.05549) in collaboration with C. de Rham and A. J. Tolley. 
 
 >**Abstract**: Recently, it was noted that extremal black holes generically suffer from singularities on their event horizons. Particular deformations of asymptotically flat extremal black holes were shown to be marginal, causing the existence of these singularities to strongly depend on even small higher-derivative effective field theory (EFT) corrections, i.e. quantum gravity effects. 
 >
@@ -25,7 +25,7 @@ For the most recent slides on this, see [here](../files/talks/extremal_slides.pd
 
 ## Stacking and Balancing Casual Causality
 
-Based on arXiv:2112.05031 and 2309.04534 in collaboration with C. de Rham, A. Margalit, and A. J. Tolley. 
+Based on [2112.05031](https://arxiv.org/abs/2112.05031) and [2309.04534](https://arxiv.org/abs/2309.04534) in collaboration with C. de Rham, A. Margalit, and A. J. Tolley. 
 
 >**Abstract**: In recent years, causality has emerged as a powerful criterion to distinguish between effective field theories (EFTs) arising from physical and unphysical high-energy theories. 
 >
