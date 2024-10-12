@@ -16,4 +16,4 @@ During my time at Imperial College London, I was teaching assistant for the foll
 I also lectured a mini-course as part of the MSc QFFF "Special Topics" Series:
 
 - JT Gravity, Summer 2023
-  - [Notes]()
+  - [Notes](jtnotes.pdf)
