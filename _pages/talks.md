@@ -21,7 +21,7 @@ I've had the chance to give this seminar on the following occasions:
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
 
-For the most recent slides on this, see [here](../files/talks/extremal_slides.pdf).
+For the most recent slides on this, see [here](../files/talks/extremality_slides.pdf).
 
 ## Stacking and Balancing Casual Causality
 
