@@ -18,8 +18,8 @@ Based on [2408.05549](https://arxiv.org/abs/2408.05549) in collaboration with C.
 I've had the chance to give this seminar on the following occasions:
 
 - Theory Colloquium, Imperial College London, Jul 2024
-- UK Cosmomology Meeting/Ruth Fest, Kings College London, May 2024
-- BritGrav24, Queen Mary University, Apr 2024
+- UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
+- BritGrav24, Queen Mary University London, Apr 2024
 
 For the most recent slides on this, see [here](../files/talks/extremal_slides.pdf).
 
