@@ -207,6 +207,13 @@ I have been actively searching for the right mentor and project as I am very eag
 
 <div class="card">
     <div style="flex: 1;">
+        <h3>Deep Learning and Machine Learning with GPGPU and CUDA: Unlocking the Power of Parallel Computing</h3>
+        <p>MingLi*, Ziqian Bi*†, Tianyang Wang*, Yizhu Wen*, Qian Niu, Junyu Liu, Benji Peng, Sen Zhang, Xuanhe Pan, Jiawei Xu, Jinlang Wang, Keyu Chen, Caitlyn Heqi Yin,  Pohsun Feng, Ming Li†,  <a href="https://arxiv.org/pdf/2410.05686" target="_blank">[PDF]</a></p>
+    </div>
+</div>
+
+<div class="card">
+    <div style="flex: 1;">
         <h3>Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Unveiling AI's Potential Through Tools, Techniques, and Applications</h3>
         <p>Pohsun Feng*†, Ziqian Bi*†, Yizhu Wen*, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, Junyu Liu, Caitlyn Heqi Yin, Sen Zhang, Jinlang Wang, Qian Niu, Ming Li, Tianyang Wang <a href="https://arxiv.org/pdf/2410.01268" target="_blank">[PDF]</a></p>
     </div>
