@@ -16,6 +16,6 @@ During my time at Imperial College London, I was teaching assistant for the foll
 I also lectured a mini-course as part of the MSc QFFF "Special Topics" Series:
 
 - JT Gravity, 2023-2024
-  - [Notes](jtnotes.pdf)
+  - [Notes](../files/teaching/jtnotes.pdf)
 
 In 2023, I also mentored a group of high school students at the Imperial College Maths School on a research project on topological invariants, featured [here](https://www.imperialmathsschool.ac.uk/studentresearchprojects2023).
