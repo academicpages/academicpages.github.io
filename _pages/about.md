@@ -12,6 +12,9 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* October 15-18th: Now in Southampton, visiting the University of Southampton.
+* October 14-15th: I am now in Oxford, where I am giving a [SPIMAX Seminar series](https://www.physics.ox.ac.uk/seminars-and-colloquia) talk and a talk on redback.
+* October 11th: Magnall et al. 2024 - _Directly inferring cosmology and the neutron-star equation of state from gravitational-wave mergers_ submitted to PRD. Check it out on [arXiv](https://arxiv.org/abs/2410.07754).
 * September 30th - October 11th: Visiting Cambridge for the next two weeks, find me at the Kavli Institute for Cosmology or at the Institute of Astronomy. 
 * September 27th: van-dalen et al. 2024 - _The Einstein Probe transient EP240414a: Linking Fast X-ray Transients, Gamma-ray Bursts and Luminous Fast Blue Optical Transients_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2409.19056).
 * September 25th: Gkini et al. 2024 - _Eruptive mass-loss less than a year before the explosion of superluminous supernovae: I. The cases of SN 2020xga and SN 2022xgc_ submitted to A&A. Check it out on [arXiv](https://arxiv.org/abs/2409.17296).
