@@ -22,7 +22,7 @@ My research interests lie in the realm of software engineering, particularly wit
 
 I started my research journey as a student at Hanoi University of Science and Technology. I worked with my labmate at the Motor Design Lab under the supervision of Prof. [Bui Minh Dinh](https://scholar.google.com/citations?hl=en&user=lACArY4AAAAJ) and the Chemical Processing Lab under the guidance of Prof. [Nguyen Dang Binh Thanh](https://scholar.google.com/citations?user=uu5VPhcAAAAJ&hl=vi&oi=sra). Here, I did research in numerical methods, computer systems, and motor design. This research then led me to receive third place in the student research competition at Hanoi University of Science and Technology.
 
-I was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](link). Thanks to Prof. Jeon's guidance, I developed a deeper understanding of research concepts and writing skills. During this time, I also explored AI fields, especially deep reinforcement learning, Markovian decision processes, and cloud systems.
+I was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](link). Thanks to Prof. Jeon's guidance, I developed a deeper understanding of research concepts and writing skills. During this time, I also explored AI fields, especially deep reinforcement learning, Markovian decision processes, and cloud systems which were instrumental in the completion of my [thesis](https://hanyang.dcollection.net/public_resource/pdf/200000719849_20241014175008.pdf).
 
 ## Research Interests
 
