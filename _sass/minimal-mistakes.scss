@@ -22,7 +22,7 @@
 
 /* Core CSS */
 @import "minimal-mistakes/reset";
-@import "minimal-mistakes/base";
+@import "minimal-mistakes/base"; // This handles the font size in all parts of a blogpost (at
 @import "minimal-mistakes/forms";
 @import "minimal-mistakes/tables";
 @import "minimal-mistakes/animations";
