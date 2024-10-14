@@ -16,7 +16,7 @@ title: "Research"
   
 </details>
 
-  * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** 
+  * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** _Working Paper._
 
 <details><summary>Abstract</summary>
 
