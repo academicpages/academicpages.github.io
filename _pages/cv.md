@@ -38,7 +38,16 @@ Projects
   * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
   * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
   * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
-  
+ 
+ 
+* Summer 2024: **Physical Implementations of Quantum Key Distribution Protocols**
+  * _Supervisor: Professor Varun Raghunathan, IISc_
+  * Project consisted of studying and working on the T-12 protocol and the MDI-QKD protocol.
+    * Theoretical aspects included analysis of BB-84, T-12,MDI-QKD protocols, their Secure Key Rate and Quantum Bit Error Rate, understanding the physical components utilised, understanding the operation of beamsplitters, and characterization of single photon and coherent pulses.  
+    * Programming work included streamlining the calibration processes of the instruments, SKR and QBER analysis for T-12 protocol, and for analysing the cases of MDI-QKD.
+    * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) and changing connections for calibration purposes, and for obtaining real-time experimental data.
+  * [Project report and code (will be added soon)](https://github.com/ArnavMetrani)
+
 Programming Skills
 ======
 * Python
@@ -48,16 +57,16 @@ Programming Skills
  
 Extracurricular
 ======
-* Co-convener of IISER Mohali's Physics Club
+* Ex Co-convener of IISER Mohali's Physics Club
+* Participated in IISER-M Foundation Day 2022 and 2023
 * Member of citizen research organization Zooniverse
 * Participated in NASA GLOBE CLOUD CHALLENGE 2022 with CLOUD GAZE
 * Blog on STEM related topics
 
 Courses taken
 ======
-* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM, Statistical Mechanics, Foundational QM
-* Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to
-Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
+* Physics: Introduction to Mechanics, Introduction to Electromagnetism, Waves and Optics, Thermodynamics, Quantum Mechanics, Electrodynamics, Classical Mechanics, Differential Equations, Advanced QM, Statistical Mechanics, Foundational QM, Solid State (Ongoing), Nuclear Physics (Ongoing), Atomic and Molecular Physics (Ongoing), Quantum Computation and Quantum Information (Ongoing) 
+* Mathematics: Introduction to Group Theory, Real Analysis in One variable, Introduction to Differential Geometry, Introduction to Differential Equations, Probability Theory, Theory of Computation, Linear Algebra and Group Theory
 
 Papers and articles studied
 ======
@@ -75,3 +84,5 @@ Papers and articles studied
 * Scarani, Valerio, et Renato Renner. « Quantum cryptography with finite resources: unconditional security bound for discrete-variable protocols with one-way post-processing ». Physical Review Letters, vol. 100, no 20, May 2008, p. 200501. arXiv.org, [https://doi.org/10.1103/PhysRevLett.100.200501](https://doi.org/10.1103/PhysRevLett.100.200501).
 * Jacques, Vincent, et al. “Experimental Realization of Wheeler’s Delayed-Choice Gedanken Experiment.” Science, vol. 315, no. 5814, Feb. 2007, pp. 966–68. DOI.org (Crossref), [https://doi.org/10.1126/science.1136303](https://doi.org/10.1126/science.1136303).
 * Zetie, K. P., et al. “How Does a Mach-Zehnder Interferometer Work?” Physics Education, vol. 35, no. 1, Jan. 2000, p. 46. iopscience.iop.org, [https://doi.org/10.1088/0031-9120/35/1/308](https://doi.org/10.1088/0031-9120/35/1/308).
+* Lucamarini, M., et al. “Efficient Decoy-State Quantum Key Distribution with Quantified Security.” Optics Express, vol. 21, no. 21, Oct. 2013, p. 24550. DOI.org (Crossref), [https://doi.org/10.1364/OE.21.024550](https://doi.org/10.1364/OE.21.024550).
+* Semenenko, Henry, et al. “Chip-Based Measurement-Device-Independent Quantum Key Distribution.” Optica, vol. 7, no. 3, Mar. 2020, p. 238. DOI.org (Crossref), [https://doi.org/10.1364/OPTICA.379679](https://doi.org/10.1364/OPTICA.379679).
