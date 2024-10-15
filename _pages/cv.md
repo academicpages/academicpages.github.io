@@ -45,7 +45,7 @@ Projects
   * Project consisted of studying and working on the T-12 protocol and the MDI-QKD protocol.
     * Theoretical aspects included analysis of BB-84, T-12,MDI-QKD protocols, their Secure Key Rate and Quantum Bit Error Rate, understanding the physical components utilised, understanding the operation of beamsplitters, and characterization of single photon and coherent pulses.  
     * Programming work included streamlining the calibration processes of the instruments, SKR and QBER analysis for T-12 protocol, and for analysing the cases of MDI-QKD.
-    * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) and changing connections for calibration purposes, and for obtaining real-time experimental data.
+    * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) for calibration purposes, and for obtaining real-time experimental data.
   * [Project report and code (will be added soon)](https://github.com/ArnavMetrani)
 
 Programming Skills
