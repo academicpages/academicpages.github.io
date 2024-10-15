@@ -32,14 +32,48 @@ Projects
       * [“Differing observations on the landing of the rod into the slot” by Chandru Iyer and G. M. Prabhu](https://doi.org/10.1119/1.2346686)
       * Ferraro, Rafael, and Marc Thibeault. “Generic Composition of Boosts: An Elementary Derivation of the Wigner Rotation.” European Journal of Physics 20, no. 3 (May 1, 1999): 143–51. [https://doi.org/10.1088/0143-0807/20/3/003](https://doi.org/10.1088/0143-0807/20/3/003).
 
-
-
 * Summer 2023: **Introduction to Quantum Algorithms and Quantum Error Correction**
   * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
   * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
   * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
  
- 
+<div>
+    <canvas id="pdf-render" style="border: 1px solid black;"></canvas>
+</div>
+
+<!-- PDF.js CDN Scripts -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js"></script>
+
+<script>
+  var url = 'https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/QuantumAlgorithmsArnavMetrani.pdf';  // Path to your uploaded PDF
+
+  // Initialize PDF.js
+  var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+  // Load the PDF asynchronously
+  pdfjsLib.getDocument(url).promise.then(function(pdf) {
+    // Fetch the first page
+    pdf.getPage(1).then(function(page) {
+      var scale = 1.5;
+      var viewport = page.getViewport({ scale: scale });
+
+      // Prepare the canvas using PDF page dimensions
+      var canvas = document.getElementById('pdf-render');
+      var context = canvas.getContext('2d');
+      canvas.height = viewport.height;
+      canvas.width = viewport.width;
+
+      // Render the PDF page into the canvas context
+      var renderContext = {
+        canvasContext: context,
+        viewport: viewport
+      };
+      page.render(renderContext);
+    });
+  });
+</script>
+
 * Summer 2024: **Physical Implementations of Quantum Key Distribution Protocols**
   * _Supervisor: Professor Varun Raghunathan, IISc_
   * Project consisted of analysis and physical implementation of the T-12 protocol and the MDI-QKD protocol.
