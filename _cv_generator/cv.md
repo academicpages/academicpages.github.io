@@ -34,7 +34,7 @@ B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2
 
 
   
-    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of American Express Letters* </br>
+    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of America* </br>
   
 
   
@@ -143,12 +143,6 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
   
-    **Ragland, John** and Schwock, Felix and Munson, Matthew and Abadi, Shima, (2021), An overview of ambient sound using OOI hydrophone network, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007594)</br>
-  
-
-
-
-  
     Alvaro, Alejandro and Schwock, Felix and **Ragland, John** and Abadi, Shima, (2021), Ship detection from passive underwater acoustic recordings using machine learning, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007848)</br>
   
 
@@ -172,9 +166,16 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 
 
 
+  
+    **Ragland, John** and Schwock, Felix and Munson, Matthew and Abadi, Shima, (2021), An overview of ambient sound using OOI hydrophone network, 180th Meeting of the Acoustical Society of America, *Seattle, WA* [ [link] ](https://doi.org/10.1121/10.0007594)</br>
+  
+
+
+
 
 ## Awards
 
+- **eScience postdoctoral fellowship** - Fellowship awarded to interdisciplinary researchers who are actively involved in developing and/or utilizing advanced data science tools and techniques in their research at the UW, September 2024
 - **ASA best student paper award** - second place at the ASA Nashville in underwater acoustics technical committee, December 2022
 - **The Daoma and Murray Strasberg Memorial Scholarship** - for Graduate Students in Ocean Acoustics, May 2023
 
@@ -183,7 +184,8 @@ Applied Research Laboratory - UW, Seattle WA - November, 2022</br></br>
 - xrsignal (in development)- a python package that ports functionality from scipy.signal to xarray and is compatible with distributed computing [ [github] ](https://github.com/John-Ragland/xrsignal) 
 
 ## Cruise Experience
-- R/V Rachel Carson, 2022, 2 days - deployed mooring with two hydrophones that was successfully recovered one week later. The goal of this deployment was to acoustically measure methane seeps in the Puget Sound.
+- RC0090 2022, 2 days - deployed mooring with two hydrophones that was successfully recovered one week later. The goal of this deployment was to acoustically measure methane seeps in the Puget Sound.
+- RR2411 2024, 21 days - joint operation to measure deep scattering layer, and low-frequency acoustic propagation around seamounts in the North Atlantic.
 
 ## Media Coverage
 - UW ECE spotlights, [*Listening to the ocean to measure the impact of climate change | UW Department of Electrical & Computer Engineering*](https://web.archive.org/web/20230731211310/https://www.ece.uw.edu/spotlight/listening-to-the-ocean-climate-change/)

@@ -29,7 +29,7 @@ B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2
 
 
   
-    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of American Express Letters* </br>
+    (in preparation) **Ragland, John** and Durofchalk, Nicholas and Dall’Osto, David and Gemba, Kay and Abadi, Shima, (2024), Positive receptions of the Kauai Beacon with Ocean Observatories Initiatve Hydrophones, *The Journal of the Acoustical Society of America* </br>
   
 
   

@@ -60,6 +60,7 @@ B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2
 
 ## Awards
 
+- **eScience postdoctoral fellowship** - Fellowship awarded to interdisciplinary researchers who are actively involved in developing and/or utilizing advanced data science tools and techniques in their research at the UW, September 2024
 - **ASA best student paper award** - second place at the ASA Nashville in underwater acoustics technical committee, December 2022
 - **The Daoma and Murray Strasberg Memorial Scholarship** - for Graduate Students in Ocean Acoustics, May 2023
 
@@ -68,7 +69,8 @@ B.S. in the department of Electrical and Computer Engineering, suma cum laude, 2
 - xrsignal (in development)- a python package that ports functionality from scipy.signal to xarray and is compatible with distributed computing [ [github] ](https://github.com/John-Ragland/xrsignal) 
 
 ## Cruise Experience
-- R/V Rachel Carson, 2022, 2 days - deployed mooring with two hydrophones that was successfully recovered one week later. The goal of this deployment was to acoustically measure methane seeps in the Puget Sound.
+- RC0090 2022, 2 days - deployed mooring with two hydrophones that was successfully recovered one week later. The goal of this deployment was to acoustically measure methane seeps in the Puget Sound.
+- RR2411 2024, 21 days - joint operation to measure deep scattering layer, and low-frequency acoustic propagation around seamounts in the North Atlantic.
 
 ## Media Coverage
 - UW ECE spotlights, [*Listening to the ocean to measure the impact of climate change | UW Department of Electrical & Computer Engineering*](https://web.archive.org/web/20230731211310/https://www.ece.uw.edu/spotlight/listening-to-the-ocean-climate-change/)

@@ -247,6 +247,9 @@ with open('cv_short.md', 'w') as file:
 
 print('markdown file written')
 
+# Copy markdown file tp ../_pages
+os.system('cp cv.md ../_pages/cv.md')
+
 ## write HTML file
 # Read the Markdown content from file
 with open('cv.md') as file:
