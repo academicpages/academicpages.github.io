@@ -292,15 +292,47 @@ Thus, we have the following two informal assessments:
 2. 6-page technical report to be submitted in Week 6 of Semester B.
 
 ## Formal Assessments
+{% marginnote 'table-2-id' '*Table 2*: 2024-25 Assessment List and Submission Deadlines.' %}
+<div class="table-wrapper">
+  <table class="booktabs">
+    <thead>
+      <tr>
+        <th colspan="2" class="cmid">Formal Assessments</th>
+      </tr>
+      <tr>
+        <th class="l">Assessment</th>
+        <th class="r">Due Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1. Front End Individual Design Report (15%)</td>
+        <td class="r">6th December 2024, 16:59</td>
+      </tr>
+      <tr>
+        <td>2. Group Project Proposal/Feasibility Study (10%)</td>
+        <td class="r">TBC</td>
+      </tr>
+      <tr>
+        <td>3. Peer Evaluation with Self Reflection and Action Plan Sem A (Formative)</td>
+        <td class="r">TBC</td>
+      </tr>
+      <tr>
+        <td>4. Self Reflection Sem B and Engagement Mark (10%)</td>
+        <td class="r">TBC</td>
+      </tr>
+      <tr>
+        <td>5. Individual Detailed Design Report (40%)</td>
+        <td class="r">TBC</td>
+      </tr>
+      <tr>
+        <td>6. Final Group Presentation, Individual viva and Back-up Evidence (25%)</td>
+        <td class="r">TBC</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-| **Assessment**                                                                                         | **Due Date** |
-| ------------------------------------------------------------------------------------------------------ | ------------ |
-| **Assessment 1**: Front End Individual Design Report (10%)                                             | [Due Date]   |
-| **Assessment 2**: Group Project Proposal/Feasibility Study (10%)                                       | [Due Date]   |
-| **Assessment 3**: Peer Evaluation with Self Reflection and Action Plan Sem A (0%, Formative)           | [Due Date]   |
-| **Assessment 4**: Peer Evaluation with Self Reflection and Action Plan Sem B (15%)                     | [Due Date]   |
-| **Assessment 5**: Individual Detailed Design Report (40%)                                              | [Due Date]   |
-| **Assessment 6**: Final Group Presentation and Individual Back-up Evidence (15% Group, 10% Individual) | [Due Date]   |
 
 ## Useful Resources:
 This list will grow but useful resources at the time of writing are listed below.
@@ -328,7 +360,9 @@ which QMUL students can access on QM+.
 2. If you want to look into how books such as above can inform the development of large space structures, you can
 read my paper on how to [robotically assemble 25 metre space telescopes](https://www.angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly)
 and another [CalTech/NASA-JPL paper on 80 metre telescopes](https://kiss.caltech.edu/papers/largestructure/papers/architecture.pdf).
-3. My blog post on [von Braun's rotating wheel space stations](http://www.angadhn.com/large%20space%20stations/space%20exploration/vonBraunWheels/).
+3. My blogposts on:
+ - [Comparing wheel space stations to the ISS](http://www.angadhn.com/large%20space%20stations/space%20exploration/vonBraunWheels/)
+ - [Inflatable von Braun stations](http://www.angadhn.com/inflatable%20space%20habitats/inflatable%20space%20habitats/)
 
 ### Footnotes
-[^a]: Here, I do not just mean space technolgoies but even those that you use in preparing your reports such as Github and $$\LaTeX$$.
+[^a]: Here, I do not just mean space technolgoies but even those that you use in preparing your reports such as GitHub and $$\LaTeX$$.
