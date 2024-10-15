@@ -20,7 +20,7 @@ author_profile: true
 ## Conference/Journal Papers
 <b>[Gradient Rewiring for Editable Graph Neural Network Training]()
 </b><br> <b>Zhimeng Jiang</b>, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, Kaixiong Zhou., Na Zou, Xia Hu. <br>
-Neural Information Processing Systems(**NeurIPS**), 2023
+Neural Information Processing Systems(**NeurIPS**), 2024
 
 <b>[GNNs Also Deserve Editing, and They Need It More Than Once]()
 </b><br> Shaochen Zhong, Duy Le, Zirui Liu, <b>Zhimeng Jiang</b>, ..., Xia Hu. <br>
