@@ -46,7 +46,7 @@ Projects
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.10.377/pdf.worker.min.js"></script>
 
 <script>
-  var url = 'https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/QuantumAlgorithmsArnavMetrani.pdf';  // Path to your uploaded PDF
+  var url = 'https://github.com/ArnavMetrani/arnavmetrani.github.io/raw/refs/heads/master/_data/QuantumAlgorithmsArnavMetrani.pdf';  // Path to your uploaded PDF
 
   // Initialize PDF.js
   var pdfjsLib = window['pdfjs-dist/build/pdf'];
