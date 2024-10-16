@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf)
-
+(PDF previews below may take a minute and few reloads to appear.)
 <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 Scholastic
