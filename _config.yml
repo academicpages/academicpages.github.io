@@ -54,6 +54,9 @@ google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+jekyll_clicky:              #Add this if you want to track with Clicky analytics
+  site: 
+    id:  101467287
 
 # Social Sharing
 twitter:
@@ -273,6 +276,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-clicky
 
 
 # Archives
@@ -303,9 +307,7 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
-jekyll_clicky:              #Add this if you want to track with Clicky analytics
-  site: 
-    id:  101467287
+
 
 
 # HTML Compression
