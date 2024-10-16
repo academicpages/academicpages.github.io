@@ -9,7 +9,7 @@ excerpt: "Presented at the <i>workshop on Efficient Natural Language and Speech 
 paperurl: 'https://arxiv.org/pdf/2409.16302'
 # citation: ' Jacobsen, Albert Kjøller; Højbjerg, Phillip Chavarria; Jacobsen, Aron Djurhuus. (2022). &quot;Visual Question Answering with Knowledge-based Semantics.&quot; <i>DTU Department of Applied Mathematics and Computer Science </i>.'
 ---
-<p style="text-align: justify">The paper (preprint) is available on [arXiv](https://arxiv.org/pdf/2409.16302). <br><br>
+<p style="text-align: justify">The paper (preprint) is available on <a href="https://arxiv.org/pdf/2409.16302">arXiv</a>. <br><br>
 
 A workshop version of this paper is to be presented at the <i>Workshop on Efficient Natural Language and Speech Processing (ENLSP) @ NeurIPS, Vancouver, Canada, 2024</i>. Paper and poster URL will be available soon.</p> 
 
