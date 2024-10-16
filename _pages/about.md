@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a MSc. student in the [Human-Centered Artificial Intelligence](https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence) programme at the Technical University of Denmark (DTU). I have a strong background in machine learning and I'm currently writing my thesis on optimization methods relying on differential geometry for improved generalization.
+<p style="text-align: justify">I am studying a MSc. <a href="https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence">Human-Centered Artificial Intelligence</a> at the Technical University of Denmark (DTU). I have a strong background in various aspects of machine learning and I am currently writing my thesis on optimization methods relying on differential geometry for improved generalization.<br><br>
 
-Before starting the MSc. I obtained my BSc. degree in [Articifial Intelligence and Data](https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/artificial-intelligence-and-data) at DTU.
+Before starting the MSc. I obtained my BSc. degree in <a href="https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/artificial-intelligence-and-data">Artificial Intelligence and Data</a> at DTU.</p>
 
 My research interests
 ------
-I'm particularly interested in the theoretical aspects of machine learning and deep learning. Currently, I'm focusing on the following topics:
+<p style="text-align: justify">I'm particularly interested in the theoretical aspects of machine learning and deep learning. Currently, I'm focusing on the following topics:</p>
 
 * Differental geometry for machine learning 
 * Deep learning theory

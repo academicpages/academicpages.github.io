@@ -1,16 +1,19 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+<!-- Publications -->
+{% for post in site.publications reversed %} 
+  {% include archive-single-new.html %}
 {% endfor %}
+
+---
+
+<!-- The site.workshops can also be added if wanted -->

@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 #title                    : "Main page / About Me"
-title                    : "Albert Kjøller Jacobsen / About Me"
+title                    : "Albert Kjøller Jacobsen" # / About Me"
 title_separator          : "-"
 name                     : &name "Albert Kjøller Jacobsen"
 description              : &description "MSc. Eng. Human-Centered AI @ DTU"
@@ -182,6 +182,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workshops:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
@@ -226,6 +229,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _workshops
+  - scope:
+      path: ""
+      type: workshops
     values:
       layout: single
       author_profile: true

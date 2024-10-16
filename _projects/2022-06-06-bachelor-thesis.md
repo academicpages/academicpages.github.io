@@ -2,9 +2,9 @@
 title: "Bachelor Thesis: Visual Question Answering with Knowledge-based Semantics"
 collection: projects
 permalink: /projects/vqa-knowledge-semantics
-excerpt: "This thesis considers an exhaustive state-of-the-art (SOTA) desription of VQA models, theoretical considerations and implementation details for training a VQA model learning towards a semantical- and conceptually strong latent space spanned by the Conceptnet Numberbatch embeddings as well an analysis of model behaviour by exploiting explainability tools."
+excerpt: "<p style='text-align: justify'>This thesis considers an exhaustive state-of-the-art (SOTA) desription of VQA models, theoretical considerations and implementation details for training a VQA model learning towards a semantical- and conceptually strong latent space spanned by the Conceptnet Numberbatch embeddings as well an analysis of model behaviour by exploiting explainability tools.</p>"
 date: 2022-06-06
-venue: 'DTU Department of Applied Mathematics and Computer Science'
+venue: 'DTU, Department of Applied Mathematics and Computer Science'
 paperurl: 'https://findit.dtu.dk/en/catalog/62c6c822d4fccf03d747b3db'
 citation: ' Jacobsen, Albert Kjøller; Højbjerg, Phillip Chavarria; Jacobsen, Aron Djurhuus. (2022). &quot;Visual Question Answering with Knowledge-based Semantics.&quot; <i>DTU Department of Applied Mathematics and Computer Science </i>.'
 ---
@@ -12,7 +12,7 @@ citation: ' Jacobsen, Albert Kjøller; Højbjerg, Phillip Chavarria; Jacobsen, A
 Abstract 
 ======
 
-Visual Question Answering (VQA) is a versatile problem combining major fields like Computer
+<p style="text-align: justify"> Visual Question Answering (VQA) is a versatile problem combining major fields like Computer
 Vision (CV) and Natural Language Processing (NLP) for successfully integrating information
 from questions and images when generating answers requiring common-sense reasoning and
 knowledge about the world. The task has received a lot of attention from researchers as it
@@ -40,7 +40,7 @@ capturing all what is required by the OK-VQA-proposed problem does not appear as
 the objective function - manifested as a triplet loss function - is not capable of fully indicating
 the performance of the model and 3) the optimization approach through hyperparameter
 tuning should be extended. Regardless of the results, a great foundation for future work as
-been set.
+been set.</p>
 
 [Download thesis here](https://findit.dtu.dk/en/catalog/62c6c822d4fccf03d747b3db)
 
