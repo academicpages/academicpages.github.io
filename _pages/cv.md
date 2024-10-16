@@ -11,9 +11,48 @@ redirect_from:
 
 [PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf)
 
-<object data="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf" width="500" height="375" type='application/pdf'>
 
-Education
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf" width="500" height="375">
+
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf" width="500" height="375" type='application/pdf'>
+
+<embed src="https://drive.google.com/viewerng/
+viewer?embedded=true&url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf" width="500" height="375">
+
+<iframe src="https://docs.google.com/gview?url=https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
+<object width="400" height="500" type="application/pdf" data="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+</object>
+
+<object width="400" height="500" type="application/pdf" data="https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+</object>
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf" type="application/pdf" allowfullscreen></iframe>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+<div class="embed-responsive embed-responsive-1by1">
+  <iframe class="embed-responsive-item" src="https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf" type="application/pdf" allowfullscreen></iframe>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
 ======
 * Campion School, 10th Grade, 2019
 * PACE Junior Science College, 11th and 12th Grade, 2021
