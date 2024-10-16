@@ -265,6 +265,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-clicky
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -301,6 +302,10 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
+
+jekyll_clicky:              #Add this if you want to track with Clicky analytics
+  site: 
+    id:  101467287
 
 
 # HTML Compression
