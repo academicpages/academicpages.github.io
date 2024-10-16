@@ -11,7 +11,7 @@ redirect_from:
 
 [PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf)
 
-<object data="https://github.com/ArnavMetrani/arnavmetrani.github.io/raw/refs/heads/master/_data/Resume%20Oct%202024.pdf" width="1000" height="1000" type='application/pdf'/></object>
+<object data="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf" width="1000" height="1000" type='application/pdf'/></object>
 
 Education
 ======
