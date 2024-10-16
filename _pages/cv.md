@@ -13,6 +13,7 @@ redirect_from:
 
 <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
+Scholastic
 ======
 * Campion School, 10th Grade, 2019
 * PACE Junior Science College, 11th and 12th Grade, 2021
@@ -37,6 +38,8 @@ Projects
   * _Supervisor: Professor Kuntal Roy, IISER-Bhopal_ 
   * Project comprised of basic theory of Quantum Computing and studying various aspects such as various Quantum Algorithms, Quantum Error Correction Algorithms, and applications of Quantum Fourier Transform. Project included writing and executing the above quantum circuits on IBM-Q (through Qiskit).
   * [Project report and code](https://github.com/ArnavMetrani/Quantum-Algorithms-report)
+ 
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QuantumAlgorithmsArnavMetrani.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 * Summer 2024: **Physical Implementations of Quantum Key Distribution Protocols**
   * _Supervisor: Professor Varun Raghunathan, IISc_
