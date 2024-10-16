@@ -11,15 +11,7 @@ redirect_from:
 
 [PDF Version](https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf)
 
-
-
-<object width="400" height="500" type="application/pdf" data="https://github.com/ArnavMetrani/arnavmetrani.github.io/blob/master/_data/Resume%20Oct%202024.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
-
-<object width="400" height="500" type="application/pdf" data="https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
-</object>
+<iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/Resume%20Oct%202024.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 ======
 * Campion School, 10th Grade, 2019
