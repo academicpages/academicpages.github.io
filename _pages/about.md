@@ -12,6 +12,10 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***2nd Ocotober 2024***
+> 
+> Our paper ["Evaluating Language Models for Generating and Judging Programming Feedback"](https://arxiv.org/abs/2407.04873) (first author) has been accepted [SIGCSE TS 2025](https://sigcse2025.sigcse.org/).
+
 > ***8th May 2024***
 > 
 > Our short paper "Propagating Large Language Models Programming Feedback" (first author) has been accepted as a Work In Progress at [L@S24](https://learningatscale.hosting.acm.org/las2024/).
@@ -20,11 +24,9 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 > 
 > Great news! Our paper "Using Program Repair as a Proxy for Language Models’ Feedback Ability in Programming Education" (first author) has been accepted at [BEA24](https://sig-edu.org/bea/2024).
 
-
 > ***6th March 2024***
 > 
 > We are starting the year strongly, our paper "Open Source Language Models Can Provide Feedback: Evaluating LLMs’ Ability to Help Students Using GPT-4-As-A-Judge" (first author) has been accepted for publication at [ITICSE](https://iticse.acm.org/2024/).
-
 
 > ***15th December 2023***
 > 
