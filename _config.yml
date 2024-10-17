@@ -15,7 +15,7 @@ author:
   # Biographic information
   avatar           : "profile_photo.png"
   name             : "Giulia Berlusconi"
-  pronouns         : "she/her"  
+  pronouns         : # "she/her"  
   bio              : "Lecturer in Criminology"
   location         : "United Kingdom"
   employer         : "University of Surrey"
