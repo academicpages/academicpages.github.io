@@ -26,7 +26,7 @@ redirect_from:
 
 ## Research Papers
 
-1. Asymmetric Information and Digital Technology Adoption: Evidence from Senegal **(Job Market Paper)**, *Draft Coming Soon*
+1. Asymmetric Information and Digital Technology Adoption: Evidence from Senegal **(Job Market Paper)**, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">RFI</a>, *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
