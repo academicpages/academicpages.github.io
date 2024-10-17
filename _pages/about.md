@@ -36,6 +36,7 @@ redirect_from:
     </details>
 
 2. <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">Liberation</a>
+  _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">Liberation</a>
       <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
