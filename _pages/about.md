@@ -38,13 +38,21 @@ redirect_from:
 
 
 2. Nationwide Diffusion of Technology Within Firms’ Social Networks, *Draft Coming Soon*
+_Media Coverage:_ Liberation
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>I conduct a randomized experiment to study nationwide technology diffusion  of a new digital payment technology in Senegal. By leveraging two novel sources of network data — mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal — I identify three sets of spillovers from taxi firms randomized to receive early access to the technology: to other firms within the taxi industry; to other industries; and to other cities. I show that spillovers go beyond strategic complementarities, reflecting social learning facilitated by social ties and remote interactions.</p>
         </div>
     </details>
-    
+
+    Nationwide Diffusion of Technology Within Firms’ Social Networks
+
+Media Coverage: <a href="[https://houeix.github.io/files/PovertyRanking_paper_2408.pdf](https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1)">Liberation</a>
+
+I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.
+
+
 3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
@@ -63,9 +71,9 @@ redirect_from:
         </div>
     </details>
     
-5. Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
+5. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
    <details>
-        <summary>Abstract  | <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">PDF</a> </summary> 
+        <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>We introduce a novel approach for eliciting relative poverty rankings that aggregates partial orderings reported independently by multiple neighbors. We first identify the conditions under which the method recovers more accurate rankings than the commonly used Borda count method. We then apply the method to secondary data from rural Indonesia and to original data from urban Cote d’Ivoire. We find that the aggregation method works as well as Borda count in the rural setting but, in the urban setting, reconstructed rankings from both the pairwise and Borda count methods are often incomplete and sometimes contain ties. This disparity suggests that eliciting poverty rankings by aggregating rankings from neighbors may be more difficult in urban settings. We also confirm earlier research showing that poverty rankings elicited from neighbors are correlated with measures of poverty obtained from survey data, albeit not strongly. Our original methodology can be applied to many situations in which individuals with incomplete information can only produce a partial ranking of alternatives.</p>
         </div>
