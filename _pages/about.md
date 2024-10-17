@@ -35,18 +35,15 @@ redirect_from:
         </div>
     </details>
 
+2. <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a> 
 
-
-2. <a href="https://drive.google.com/file/d/14eSWT8WUukf5fH95gLj_v3YNxn_Ts-OH/view">Nationwide Diffusion of Technology Within Firms’ Social Networks</a>, _Media Coverage:_ <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">Liberation</a>
-   <details>
+     _Media Coverage_: <a href="https://www.liberation.fr/international/afrique/senegal-wave-le-pingouin-qui-bouleverse-le-secteur-du-paiement-mobile-20230304_RVTXWHCGSBB5XNDNKLNP5SCSVQ/?utm_medium=Social&utm_source=Twitter&xtor=CS7-51-#Echobox=1677936658-1">Liberation</a>
+      <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
             <p>I conduct a randomized experiment to study the nationwide technology diffusion of a new digital payment technology in Senegal. By leveraging two novel sources of network data—mobile money transactions and anonymized phone contact directories covering the near universe of the adult population in Senegal—I causally identify three sets of adoption spillovers from taxi firms randomized to receive early access to the technology: intra-industry among taxi firms; inter-industry between taxi drivers and other small businesses; and inter-regional spillovers from the capital city to businesses in other urban centers. I show that spillovers go beyond strategic complementarities, reflecting social learning within firms' social networks, driven by social ties and remote interactions.</p>
         </div>
     </details>
-
-
-
 
 4. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
    <details>
@@ -55,8 +52,6 @@ redirect_from:
             <p>Search and trust frictions have historically hindered the ability of small firms to access foreign input markets. We run a field experiment with 1,862 small garment firms in Senegal, in which we provide exogenous variation in search and trust frictions of interacting with suppliers in Turkey. Our search treatment connects firms to new suppliers using social media, and our two trust treatments vary the information about the types and incentives of these suppliers. To measure the impact on foreign market access, we mystery shop at all firms. Treated firms are 25% more likely to have the varieties the shopper requests and the goods supplied are 32% more likely to be high quality, driven by the search treatment. However, the trust treatments matter for longer-term outcomes: trust-treated firms are significantly more likely to develop these connections into relationships that persist beyond the study. These new relationships lead to increases in profit and sales, particularly among wholesalers.</p>
         </div>
     </details>
-
-
 
 5. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
    <details>
