@@ -43,15 +43,15 @@ redirect_from:
         </div>
     </details>
 
-4. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
+3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>Search and trust frictions have historically hindered the ability of small firms to access foreign input markets. We run a field experiment with 1,862 small garment firms in Senegal, in which we provide exogenous variation in search and trust frictions of interacting with suppliers in Turkey. Our search treatment connects firms to new suppliers using social media, and our two trust treatments vary the information about the types and incentives of these suppliers. To measure the impact on foreign market access, we mystery shop at all firms. Treated firms are 25% more likely to have the varieties the shopper requests and the goods supplied are 32% more likely to be high quality, driven by the search treatment. However, the trust treatments matter for longer-term outcomes: trust-treated firms are significantly more likely to develop these connections into relationships that persist beyond the study. These new relationships lead to increases in profit and sales, particularly among wholesalers.</p>
+            <p>Search and trust frictions have historically made it hard for small firms in lower-income countries to buy inputs from foreign markets. The growth in smartphone ownership and social media usage has the potential to alleviate these barriers. We run a field experiment leveraging these technological tools to provide exogenous variation in search and trust frictions in a large international import market. The design is informed by a dynamic relational contracting model featuring sequential search for suppliers and trust frictions in the form of adverse selection and moral hazard. In our search treatment, we connect a randomly selected 80% of 1,862 small garment firms in Senegal to new suppliers in Turkey. We then cross-randomize two trust treatments that provide additional information about the types and incentives of these new suppliers. Alleviating search frictions is sufficient to increase access to foreign markets: in all treated groups, firms are 25% more likely to have the varieties a mystery shopper requests and the goods sold are 32% more likely to be high quality. However, the trust treatments are necessary for longer-term impact: these groups are significantly more likely to develop the connections into relationships that persist beyond the study. These new relationships lead to increases in medium-run profit and sales, particularly among wholesalers in the upper tail. Finally, we use the treatment effects to estimate the model and evaluate counterfactuals where we set various combinations of the frictions to zero, finding that the largest gains come from eliminating adverse selection.</p>
         </div>
     </details>
 
-5. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
+4. Financial Inclusion and Rural Electrification: Evidence from Togo (with Paul Brimble, Axel Eizmendi Larrinaga, and Toni Oki), *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -59,7 +59,7 @@ redirect_from:
         </div>
     </details>
     
-6. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
+5. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
