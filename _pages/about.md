@@ -189,6 +189,7 @@ I have been actively searching for the right mentor and project as I am very eag
 </div>
 
 
+<!--
 <h3 id="Book Chapters">📚 Book Chapters</h3>
 
 <div class="card">
@@ -218,6 +219,7 @@ I have been actively searching for the right mentor and project as I am very eag
         <p>Pohsun Feng*†, Ziqian Bi*†, Yizhu Wen*, Xuanhe Pan, Benji Peng, Ming Liu, Jiawei Xu, Keyu Chen, Junyu Liu, Caitlyn Heqi Yin, Sen Zhang, Jinlang Wang, Qian Niu, Ming Li, Tianyang Wang <a href="https://arxiv.org/pdf/2410.01268" target="_blank">[PDF]</a></p>
     </div>
 </div>
+-->
 
 
  
