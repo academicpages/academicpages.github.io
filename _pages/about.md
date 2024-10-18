@@ -136,13 +136,16 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 *CoRL 2024, Munich, Germany*, ***Oral***  
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://youtu.be/xIFSx_NVROU?si=MaxsHmih6AnQKAVy','_blank')">Video</button>
 <br>
 
 ![](images/boce_orbit.png){: .align-right width="200px"}
 **OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
 Boce Hu, Xupeng Zhu\*, **Dian Wang\***, Zihao Dong\*, Haojie Huang\*, Chenghao Wang\*, Robin Walters, Robert Platt  
 *CoRL 2024, Munich, Germany*  
+<button class="button-4" onclick="window.open('https://orbitgrasp.github.io','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.03531','_blank')">PDF</button>
+<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=Y3UxZMPc0ms','_blank')">Video</button>
 <br>
 
 ![](images/haojie_imagine.png){: .align-right width="200px"}
