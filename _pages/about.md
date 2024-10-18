@@ -13,7 +13,7 @@ I have been actively searching for the right mentor and project as I am very eag
 
 
 
-<span style="color:rgb(238, 127, 24)">——❖ Seeking 2025 Fall PhD Position ❖——</span>
+<span style="color:rgb(238, 127, 24)">——❖ Seeking 2025 Fall PhD/RA Position ❖——</span>
 
 
 
