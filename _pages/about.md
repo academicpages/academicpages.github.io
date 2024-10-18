@@ -21,7 +21,7 @@ redirect_from:
 </div>
 
 <div class="profile-info">
-  I am on the <strong>2024-25 Academic Job Market</strong>. <a href="https://houeix.github.io/files/CV_jmp_houeix.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
+  I am on the <strong>2024-25 Academic Job Market</strong>. <a href="https://economics.mit.edu/sites/default/files/2024-10/CV_jmp_houeix_1.pdf">[CV]</a> - <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
 ## Research Papers
