@@ -63,7 +63,7 @@
     </p>
     {% endif %}
 
-    {% if post.citation and post.paperurl and post.slidesurl %}
+    <!-- {% if post.citation and post.paperurl and post.slidesurl %}
     <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a
         href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
@@ -77,7 +77,28 @@
     {% elsif post.slidesurl %}
     <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p>
     </p>
+    {% endif %} -->
+    {% assign output = "" %}
+    {% if post.citation %}
+        {% assign output = output | append: "Recommended citation: " | append: post.citation %}
     {% endif %}
+    {% if post.paperurl %}
+        {% assign output = output | append: " | <a href='" | append: post.paperurl | append: "'>Download Paper</a>" %}
+    {% endif %}
+    {% if post.slidesurl %}
+        {% assign output = output | append: " | <a href='" | append: post.slidesurl | append: "'>Download Slides</a>" %}
+    {% endif %}
+    {% if post.codeurl %}
+        {% assign output = output | append: " | <a href='" | append: post.codeurl | append: "'>Download Code</a>" %}
+    {% endif %}
+    {% if post.videourl %}
+        {% assign output = output | append: " | <a href='" | append: post.videourl | append: "'>Watch Video</a>" %}
+    {% endif %}
+    {% if post.supplementurl %}
+        {% assign output = output | append: " | <a href='" | append: post.supplementurl | append: "'>View Supplement</a>" %}
+    {% endif %}
+    
+    <p>{{ output | strip }}{% if output != "" %} {% endif %}</p>
   </div>
   </article>
 </div>
