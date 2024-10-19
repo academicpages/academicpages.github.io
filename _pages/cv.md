@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full up-to-date CV can be found here (April 2024):
+Full up-to-date resume/CV can be found here (October 2024):
 [Download CV here](http://sandyyuan.github.io/files/CV1.pdf)
 
 Employment
@@ -49,11 +49,4 @@ Publications
 ======
 * [ads](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date+desc)
 * [Arxiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
-  
-Talks
-======
-  Refer to full CV
-  
-Teaching and Service
-======
-  Refer to full CV
+
