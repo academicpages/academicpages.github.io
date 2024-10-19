@@ -80,7 +80,7 @@
     {% endif %} -->
     {% assign output = "" %}
     {% if post.citation %}
-        {% assign output = output | append: "Recommended citation: " | append: post.citation %}
+        {% assign output = output | append: "Recommended citation: " | append: post.citation | append: "<br>" %}
     {% endif %}
     {% if post.paperurl %}
         {% assign output = output | append: " | <a href='" | append: post.paperurl | append: "'>Download Paper</a>" %}

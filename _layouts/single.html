@@ -47,7 +47,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-        {% if page.citation and page.paperurl and page.slidesurl %}
+        <!-- {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a></p>
@@ -57,6 +57,29 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}</p>
         {% elsif page.slidesurl %}
           <p style="font-size: smaller"><a href="{{ page.slidesurl }}">Download Slides</a></p>
+        {% endif %} -->
+        {% assign output = "" %}
+        {% if page.citation %}
+            {% assign output = output | append: "Recommended citation: " | append: page.citation  | append: "<br>" %}
+        {% endif %}
+        {% if page.paperurl %}
+            {% assign output = output | append: " | <a href='" | append: page.paperurl | append: "'>Download Paper</a>" %}
+        {% endif %}
+        {% if page.slidesurl %}
+            {% assign output = output | append: " | <a href='" | append: page.slidesurl | append: "'>Download Slides</a>" %}
+        {% endif %}
+        {% if page.codeurl %}
+            {% assign output = output | append: " | <a href='" | append: page.codeurl | append: "'>Download Code</a>" %}
+        {% endif %}
+        {% if page.videourl %}
+            {% assign output = output | append: " | <a href='" | append: page.videourl | append: "'>Watch Video</a>" %}
+        {% endif %}
+        {% if page.SupplementUrl %}
+            {% assign output = output | append: " | <a href='" | append: page.SupplementUrl | append: "'>View Supplement</a>" %}
+        {% endif %}
+
+        {% if output != "" %}
+            <p style="font-size: smaller">{{ output | strip }}</p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
