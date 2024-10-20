@@ -6,6 +6,7 @@ venue: "<a href='https://warwick.ac.uk/fac/cross_fac/tia/seminars/seminars-23-24
 date: 2024-06-24
 location: "online"
 recording: 'https://warwick.ac.uk/fac/cross_fac/tia/seminars/seminars-23-24/#stefan_feuerriegel'
+slides: 'https://valentyn1997.github.io/doc/2024-06-24-Causal-ML-TIA.pdf'
 ---
 
 **Title**: Causal ML for predicting treatment outcomes
