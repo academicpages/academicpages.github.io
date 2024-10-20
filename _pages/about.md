@@ -23,8 +23,9 @@ My research interests include
 
 # News
 ### 2024
+- 🎤 [Oct 2024] Holding a guest lecture 'Causal machine learning for predicting treatment outcomes' at the [Online Machine Learning School 2024](https://valentyn1997.github.io/talks/2024-10-09-lecture-omls-2024/)
 - 📙 [Sep 2024] 2 papers accepted at NeurIPS 2024: Quantifying Aleatoric Uncertainty of the Treatment Effect: A Novel Orthogonal Learner (poster), [DiffPO: A causal diffusion model for predicting potential outcomes of treatments](https://valentyn1997.github.io/publications/2024-10-11-DiffPO-a-causal-diffusion-model-for-predicting-potential-outcomes-of-treatments/) (poster)
-- 🎤 [Aug 2024] Presenting the tutorial 'Causal ML for treatment effect estimation' at the [3rd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-08-07-talk-munich-causal-ml/)
+- 🎤 [Aug 2024] Presenting a tutorial 'Causal ML for treatment effect estimation' at the [3rd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-08-07-talk-munich-causal-ml/)
 - ✈️ [Jul 2024] Attending [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria
 - 🧘‍ [Jul 2024] Attending [relAI retreat 2024](https://zuseschoolrelai.de/relai-retreat-2024/) & presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' in Miesbach, Germany 
 - 🎤 [Jun 2024] Presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' at the [Tissue Image Analytics (TIA) seminar (University of Warwick)](https://valentyn1997.github.io/talks/2024-06-24-talk-tia-seminar/)
@@ -34,7 +35,7 @@ My research interests include
 - 🎓 [Feb 2024 - May 2024] Attending [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge as a visiting PhD student
 - 📙 [Jan 2024] 3 papers accepted at the ICLR 2024: [A Neural Framework for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2024-01-16-a-neural-framework-for-generalized-causal-sensitivity-analysis/) (poster); [Bayesian Neural Controlled Differential Equations for Treatment Effect Estimation](https://valentyn1997.github.io/publications/2024-01-16-bayesian-neural-controlled-differential-equations-for-treatment-effect-estimation/) (poster); [Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation
 ](https://valentyn1997.github.io/publications/2024-01-16-bounds-on-representation-induced-confounding-bias-for-treatment-effect-estimation/)  (spotlight)
-- 🎤 [Jan 2024] Presenting the pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
+- 🎤 [Jan 2024] Presenting a pre-print 'Bounds on Representation-Induced Confounding Bias for Treatment Effect Estimation' at the [2nd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-01-15-talk-munich-causal-ml/)
 
 ### 2023
 - 🏅 [Nov 2023] Designated as a top reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
@@ -49,7 +50,7 @@ My research interests include
 - 🎤 [May 2023] Presenting ICML 2022 & 2023 papers at the [1st Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2023-05-31-talk-munich-causal-ml/)
 - 🏅 [Apr 2023] Designated as a top reviewer at [AISTATS 2023](http://www.aistats.org/aistats2023/)
 - 📙 [Apr 2023] 1 paper accepted at ICML 2023: [Normalizing Flows for Interventional Density Estimation](https://valentyn1997.github.io/publications/2023-07-20-normalizing-flows-for-interventional-density-estimation/)
-- 🎤 [Feb 2023] Presenting ICML 2022 paper 'Causal Transformer for Estimating Counterfactual Outcomes' at the [Causality Discussion Group](https://valentyn1997.github.io/talks/2023-02-01-talk-ct-cdg/)
+- 🎤 [Feb 2023] Presenting an ICML 2022 paper 'Causal Transformer for Estimating Counterfactual Outcomes' at the [Causality Discussion Group](https://valentyn1997.github.io/talks/2023-02-01-talk-ct-cdg/)
 
 ### 2022
 - 📙 [Nov 2022] 1 paper accepted at AAAI 2023: [Estimating Average Causal Effects from Patient Trajectories](https://valentyn1997.github.io/publications/2023-02-07-estimating-average-causal-effects-from-patient-trajectories/)
