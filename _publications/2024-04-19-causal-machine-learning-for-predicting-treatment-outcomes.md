@@ -5,6 +5,7 @@ authors: 'S. Feuerriegel, D. Frauen, <b>V. Melnychuk</b>, J. Schweisthal, K. Hes
 date: 2024-04-19
 excerpt: "![fair-policy](/images/causal-ML.png){: style='float: left; height: 100px'}"
 paperurl: 'https://www.nature.com/articles/s41591-024-02902-1.pdf'
+arxiv: 'https://arxiv.org/abs/2410.08770'
 venue: Nature Medicine
 ---
 
