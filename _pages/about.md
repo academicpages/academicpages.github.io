@@ -18,6 +18,6 @@ I'm seeking collaboration opportunities to unravel the mysteries behind the powe
 
 I'm currently in the midst of seeking a Research Assistant (RA) or Ph.D. position in Artificial Intelligence. My ambition is to contribute to innovative projects and sharpen my research acumen.
 
-You can find my CV here: [Yuchen's Curriculum Vitae](../assets/CV.pdf).
+You can find my CV here: [Yuchen's Curriculum Vitae](../assets/CV.pdf). My recent readings of paper are here: [Paper Readings](https://github.com/wangyuchen333/paperReadings).
 
 [Email](mailto:wangyuchen333@stu.pku.edu.cn) / [GitHub](https://github.com/wangyuchen333) / [WeChat](../images/wechat.png)
