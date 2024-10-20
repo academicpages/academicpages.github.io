@@ -23,6 +23,7 @@ My research interests include
 
 # News
 ### 2024
+- 📙 [Sep 2024] 2 papers accepted at NeurIPS 2024: Quantifying Aleatoric Uncertainty of the Treatment Effect: A Novel Orthogonal Learner (poster), DiffPO: A causal diffusion model for predicting potential outcomes of treatments (poster)
 - 🎤 [Aug 2024] Presenting the tutorial 'Causal ML for treatment effect estimation' at the [3rd Munich Causal ML Workshop](https://valentyn1997.github.io/talks/2024-08-07-talk-munich-causal-ml/)
 - ✈️ [Jul 2024] Attending [ICML 2024](https://icml.cc/Conferences/2024) in Vienna, Austria
 - 🧘‍ [Jul 2024] Attending [relAI retreat 2024](https://zuseschoolrelai.de/relai-retreat-2024/) & presenting Nature Medicine paper 'Causal machine learning for predicting treatment outcomes' in Miesbach, Germany 
@@ -39,7 +40,7 @@ My research interests include
 - 🏅 [Nov 2023] Designated as a top reviewer at [NeurIPS 2023](https://nips.cc/Conferences/2023)
 - 🧘‍ [Nov 2023] Attending [relAI retreat 2023](https://zuseschoolrelai.de/relai-retreat-2023-day-1/) in Chiemsee, Germany 
 - 💼 [Oct 2023] Attending [Zuse Schools autumn event 2023](https://www.daad.de/en/the-daad/zuse-schools/) in Dresden, Germany
-- 📙 [Sep 2023] 3 papers accepted at NeurIPS 2023: [Sharp Bounds for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2023-11-01-sharp-bounds-for-generalized-causal-sensitivity-analysis/) (postrer), [Reliable Off-Policy Learning for Dosage Combinations](https://valentyn1997.github.io/publications/2023-11-01-reliable-off-policy-learning-for-dosage-combinations/) (poster), [Partial Counterfactual Identification of Continuous Outcomes with a Curvature Sensitivity Model
+- 📙 [Sep 2023] 3 papers accepted at NeurIPS 2023: [Sharp Bounds for Generalized Causal Sensitivity Analysis](https://valentyn1997.github.io/publications/2023-11-01-sharp-bounds-for-generalized-causal-sensitivity-analysis/) (poster), [Reliable Off-Policy Learning for Dosage Combinations](https://valentyn1997.github.io/publications/2023-11-01-reliable-off-policy-learning-for-dosage-combinations/) (poster), [Partial Counterfactual Identification of Continuous Outcomes with a Curvature Sensitivity Model
 ](https://valentyn1997.github.io/publications/2023-11-01-partial-counterfactual-identification-of-continuous-outcomes-with-a-curvature-sensitivity-model/) (spotlight) 
 - ✈️ [Jul 2023] Attending [ICML 2023](https://icml.cc/Conferences/2023) at Honolulu, Hawaii, USA
 - 🏫 [Jul 2023] Attending [Munich Econometrics Workshop 2023](https://munichmetrics.de/workshop-2023) in Munich, Germany
