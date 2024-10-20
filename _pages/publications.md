@@ -15,7 +15,7 @@ author_profile: true
     {% if post.preprint != true %}
       {% assign pub_year = post.date | date: "%Y" %}
       {% if pub_year != current_year %}
-        <h2>{{ pub_year }}</h2>
+        <h3>{{ pub_year }}</h3>
         {% assign current_year = pub_year %}
       {% endif %}
       {% include archive-single-cv.html %}
