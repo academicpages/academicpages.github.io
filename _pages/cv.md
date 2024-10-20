@@ -22,7 +22,7 @@ redirect_from:
     {% if post.preprint != true %}
       {% assign pub_year = post.date | date: "%Y" %}
       {% if pub_year != current_year %}
-        {{ pub_year }}
+        <b>{{ pub_year }}</b>
         {% assign current_year = pub_year %}
       {% endif %}
       {% include archive-single-cv.html %}
