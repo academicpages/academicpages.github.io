@@ -18,6 +18,7 @@ redirect_from:
 ### Peer-reviewed
 <ul>
 {% for post in site.publications reversed %}
+  post.date
   {% if post.preprint != true %}
     {% include archive-single-cv.html %}
   {% endif %}
