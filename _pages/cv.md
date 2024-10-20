@@ -36,11 +36,14 @@ Work experience
 
 * CDI: January - : Data Scientist at [Ivalua](https://www.linkedin.com/company/ivalua/)
 
-  * Building data pipeline for training invoice data capture
-  * Evaluate and deploy current machine learning pipeline
-  * Propose new ideas on how to improve the current architecture of IDC
-  * Building multimodal model for IDC data understanding
   * **Skills**: Machine Learning · Computer Vision · Python (Programming Language) · Natural Language Processing (NLP) · Data Science
+
+  - Constructing a robust data pipeline dedicated to training the invoice data capture system.
+  - Assessing and implementing enhancements to the existing machine learning pipeline.
+  - Innovating and presenting novel concepts to enhance the architecture of the Invoice Data Capture (IDC) system.
+  - Developing a sophisticated multimodal model aimed at advancing the comprehension of IDC data.
+  - Developing views using gradio for testing web service deployed
+  - Specialized LLM Model on custom task and integration on Ivalua Products
 * Internship: April 2022–September 2022: Machine Learning Researcher at Etis Lab, [Ecole nationale supérieure de l&#39;Electronique et de ses Applications](https://www.linkedin.com/school/ensea-ecole-nationale-superieure-de-lelectronique-et-de-ses-applications/)
 
   * Data incremental learning in deep architectures :
