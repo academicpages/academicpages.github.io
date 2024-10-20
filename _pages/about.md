@@ -14,7 +14,7 @@ I am fortunate to be advised by [Prof. Difan Zou](https://difanzou.github.io/) f
 
 My current research interests include how large models extract knowledge and the reasons behind the power of Transformers.
 
-I am seeking a Ph.D. position or Research Assistant role for Fall 2025.
+I'm currently in the midst of seeking a Research Assistant (RA) or Ph.D. position in Artificial Intelligence. My ambition is to contribute to innovative projects and sharpen my research acumen.
 
 You can find my CV here: [Yuchen's Curriculum Vitae](../assets/CV.pdf).
 
