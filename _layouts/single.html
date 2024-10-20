@@ -47,6 +47,10 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
+        {% if page.teaser %}
+          <img style="width: 100%; height: auto;" src={% if teaser contains "://" %} "{{ page.teaser }}" {% else %} "{{ page.teaser | prepend: "/images/" | prepend:
+          base_path }}" {% endif %} alt="">
+        {% endif %}
         <!-- {% if page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">Download Paper</a> | <a href="{{ page.slidesurl }}">Download Slides</a></p>
         {% elsif page.citation and page.paperurl %}
@@ -83,6 +87,7 @@ layout: default
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
+
       </section>
 
       <footer class="page__meta">
