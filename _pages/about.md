@@ -12,7 +12,9 @@ I am a final-year undergraduate student from the [Zhi Class](https://www.cis.pku
 
 I am fortunate to be advised by [Prof. Difan Zou](https://difanzou.github.io/) from the [Department of Computer Science](https://www.cs.hku.hk/) at [The University of Hong Kong](https://www.hku.hk/). Previously, I was advised by [Prof. Di He](https://sai.pku.edu.cn/) from the [School of Intelligence Science and Technology](https://sai.pku.edu.cn/), Peking University.
 
-My current research interests include how large models extract knowledge and the reasons behind the power of Transformers.
+I'm deeply fascinated by the intricacies of Large Language Models (LLMs), the generative capabilities of Diffusion Models, and the transformative potential of transformer architectures and intelligent agents within the expansive field of AI.
+
+I'm seeking collaboration opportunities to unravel the mysteries behind the power of LLMs, delve into the mechanics of transformers, and theorize about the nuances of diffusion models.
 
 I'm currently in the midst of seeking a Research Assistant (RA) or Ph.D. position in Artificial Intelligence. My ambition is to contribute to innovative projects and sharpen my research acumen.
 
