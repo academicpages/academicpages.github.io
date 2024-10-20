@@ -13,7 +13,7 @@ Predicting potential outcomes of interventions from observational data is crucia
 Recommended citation: 
 ```bibtex
 @inproceedings{ma2024diffpo,
-  title={{DiffPO}: A causal diffusion model for predicting potential outcomes of treatments},
+  title={DiffPO: A causal diffusion model for predicting potential outcomes of treatments},
   author={Ma, Yuchen and Melnychuk, Valentyn and Schweisthal, Jonas and Feuerriegel, Stefan},
   booktitle={Advances in Neural Information Processing Systems},
   year={2024}
