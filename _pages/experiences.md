@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I was born in Xi'an, Shaanxi, China, a lovely city with a long and rich history. Currently, I am a student at Peking University, majoring in Intelligence and Technology. In addition to my academic pursuits, I am an avid pool enthusiast and enjoy playing pool in my spare time. I am also a fan of the NBA and enjoy watching basketball games.
+I was born in the historic and charming city of Xi'an, Shaanxi, China. Today, I am pursuing my undergraduate studies at the prestigious Peking University, where I am majoring in Intelligence and Technology. My life is not solely consumed by academia, though; I have a keen interest in a variety of sports and e-sports. Particularly, I am an enthusiastic pool player, and I enjoy watching snooker games. In my free time, I often play Chinese 8-ball with friends.
 
-Back in high school, I was a huge fan of mathematics and won a Provincial First Prize in the National Mathematics Competition. However, during my time at university, I discovered that my true interest lies at the intersection of theory and practice. I am now focusing on advancing our understanding of AI models, which I believe is the key to achieving AGI. This passion drives my aspiration to pursue a Ph.D. in Computer Science and become a researcher in the field of AI.
+I am also an ethicist in the realm of gaming, engaging with both online multiplayer and single-player games. My love for photography is another passion, and I aspire to become a travel influencer and vlogger, sharing my adventures online.
+
+My high school years were marked by a profound love for mathematics, which led me to win a Provincial First Prize in the National Mathematics Competition. However, as I progressed through university, I realized that my true passion lies at the crossroads of theoretical knowledge and practical application. Currently, I am dedicated to enhancing our comprehension of AI models, convinced that this is the pathway to achieving Artificial General Intelligence (AGI). This drive fuels my ambition to pursue a Ph.D. and to become a researcher in the dynamic field of AI.
 
 Education
 ======
