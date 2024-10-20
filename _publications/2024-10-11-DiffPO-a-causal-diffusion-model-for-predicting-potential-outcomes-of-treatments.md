@@ -1,5 +1,5 @@
 ---
-title: "DiffPO: A causal diffusion model for predicting potential outcomes of treatments"
+title: "DiffPO: A Causal Diffusion Model for Predicting Potential Outcomes of Treatments"
 collection: publications
 authors: 'Y. Ma, <b>V. Melnychuk</b>, J. Schweisthal, S. Feuerriegel'
 date: 2024-10-11
@@ -13,7 +13,7 @@ Predicting potential outcomes of interventions from observational data is crucia
 Recommended citation: 
 ```bibtex
 @inproceedings{ma2024diffpo,
-  title={DiffPO: A causal diffusion model for predicting potential outcomes of treatments},
+  title={DiffPO: A Causal Diffusion Model for Predicting Potential Outcomes of Treatments},
   author={Ma, Yuchen and Melnychuk, Valentyn and Schweisthal, Jonas and Feuerriegel, Stefan},
   booktitle={Advances in Neural Information Processing Systems},
   year={2024}
