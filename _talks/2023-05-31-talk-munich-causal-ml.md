@@ -5,7 +5,7 @@ type: "Presentation"
 venue: "1st Munich Causal ML Workshop"
 date: 2023-05-31
 location: "LMU Munich, Munich, Germany"
-slides: 'https://docs.google.com/presentation/d/1SGORtYxZR3QMPcit972klL-1jSqh-3GL/edit?usp=sharing&ouid=109713321342366246841&rtpof=true&sd=true'
+slides: 'https://valentyn1997.github.io/doc/2023-05-31-Workshop.pdf'
 ---
 
 
