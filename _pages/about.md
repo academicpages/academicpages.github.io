@@ -137,6 +137,7 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://youtu.be/xIFSx_NVROU?si=MaxsHmih6AnQKAVy','_blank')">Video</button>
+<button class="button-4" onclick="window.open('https://github.com/pointW/equidiff','_blank')">Code</button>
 <br>
 
 ![](images/boce_orbit.png){: .align-right width="200px"}
