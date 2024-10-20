@@ -18,7 +18,7 @@ author_profile: true
         <h3>{{ pub_year }}</h3>
         {% assign current_year = pub_year %}
       {% endif %}
-      {% include archive-single-cv.html %}
+      {% include archive-single.html %}
     {% endif %}
   {% endfor %}
 </ul>
