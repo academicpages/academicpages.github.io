@@ -71,12 +71,15 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+**Rodríguez-de-Dios, I.** & González-de-Garay, B. (en prensa). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_. 
+
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (in press). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
 
 Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
 Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2024). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication,39_(12), 2906–2919. https://doi.org/10.1080/10410236.2023.2292830
 
-Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2023). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology_ Advance online publication. https://doi.org/10.1080/15213269.2023.2281545
+Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
 
 Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody variations to improve cognitive processing in Alzheimer’s patients. Alzheimer's & Dementia, 19(S19). https://doi.org/10.1002/alz.075530
 
@@ -127,6 +130,7 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
 **Rodríguez-de-Dios, I.** (2024, June 20-24). Social Media and Adolescents’ Well-being: The Role of Online Support, Online Victimization, and Personality Traits. [Paper presentation]. 74th Annual ICA Conference, Gold Coast, Australia.
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. (2024, May 28-31). Impacto del contacto intergrupal mediado con personas trans a través de YouTube en la transfobia. [Paper presentation]. IX Congreso Internacional de la AE-IC, ‘Comunicación e Innovación Sostenible’, Murcia, Spain.
