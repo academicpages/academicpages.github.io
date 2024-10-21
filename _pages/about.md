@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at Microsoft Research India.
+I am a PhD student at Northeastern University, working at the [Programming Research Lab](https://prl.khoury.northeastern.edu/). I am interested in working at the intersection of Distributed Systems + Programming Languages.
 
-There, I am currently working at the intersection of **AI + SE**, specifically using LLMs such as GPT* to perform model-based testing. Previously, I had worked with OpenTelemetry and runtime binary instrumentation of .NET Services for zero-touch distributed tracing.
+Before this, I was a Research Fellow at Microsoft Research India. There, I worked at the intersection of **AI + SE**, specifically using LLMs such as GPT* to perform model-based testing. Previously, I had worked with OpenTelemetry and runtime binary instrumentation of .NET Services for zero-touch distributed tracing.
 
 I completed my Bachelor in Computer Science and Engineering from BITS Pilani Pilani Campus, where I took a variety of courses relating to Networks, Operating Systems, and Parallel Computing.
 
