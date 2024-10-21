@@ -74,7 +74,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
-Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2023). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication_ Advance online publication. https://doi.org/10.1080/10410236.2023.2292830
+Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2024). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication,39_(12), 2906–2919. https://doi.org/10.1080/10410236.2023.2292830
 
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2023). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology_ Advance online publication. https://doi.org/10.1080/15213269.2023.2281545
 
@@ -82,7 +82,7 @@ Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody vari
 
 Durántez-Stolle, P., Martínez-Sanz, R., &amp; **Rodríguez-de-Dios, I**. (2022). Effects of narrative-persuasive frames on Twitter regarding blood donation: pride versus empathy and people versus numbers. _Profesional de la Información, 31_(4). https://doi.org/10.3145/epi.2022.jul.15
 
-Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology_. https://doi.org/10.1177%2F0261927X221078317
+Rodero, E., Larrea, O., **Rodríguez-de-Dios, I**., Lucas, I. (2022). The Expressive Balance Effect: Perception and Physiological Responses of Prosody and Gestures. _Journal of Language and Social Psychology, 41_(6), 659-684.. https://doi.org/10.1177%2F0261927X221078317
 
 Dalla-Pria, L. &amp; **Rodríguez-de-Dios, I.** (2022). CSR communication on social media: the impact of source and framing on message credibility, corporate reputation and WOM. _Corporate Communications: an International Journal, 27_(3), 543-557. https://doi.org/10.1108/CCIJ-09-2021-0097
 
