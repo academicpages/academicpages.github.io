@@ -71,6 +71,7 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+
 **Rodríguez-de-Dios, I.** & González-de-Garay, B. (en prensa). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_. 
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (in press). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace_.
