@@ -1,17 +1,17 @@
 {% include base_path %}
 
 {% if post.header.teaser %}
-{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% elsif post.teaser %}
-{% capture teaser %}{{ post.teaser }}{% endcapture %}
+  {% capture teaser %}{{ post.teaser }}{% endcapture %}
 {% else %}
-{% assign teaser = site.teaser %}
+  {% assign teaser = site.teaser %}
 {% endif %}
 
 {% if post.id %}
-{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-{% assign title = post.title %}
+  {% assign title = post.title %}
 {% endif %}
 
 <div class="{{ include.type | default: " list" }}__item">
@@ -22,12 +22,17 @@
         base_path }}" {% endif %} alt="">
     </div>
     {% else %}
-    {% if teaser %}
-    <div class="archive__item-content" style="width: 600px" >
-      <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/" | prepend:
-        base_path }}" {% endif %} alt="">
-    </div>
-    {% endif %}
+      {% if teaser %}
+      <div class="archive__item-content" style="width: 600px" >
+        <img src=
+          {% if teaser contains "://" %}
+            "{{ teaser }}"
+          {% else %}
+            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
+          {% endif %}
+        alt="">
+      </div>
+      {% endif %}
     {% endif %}
     <div class="archive__item-content" style="width: 600px;">
     <h2 class="archive__item-title" itemprop="headline">
@@ -40,13 +45,13 @@
     </h2>
 
     {% if post.read_time %}
-    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-    <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
-    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{
         site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time
