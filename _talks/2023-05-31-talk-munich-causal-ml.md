@@ -1,5 +1,5 @@
 ---
-title: "ICML 2022 & 2023 papers"
+title: "Causal Transformer for Estimating Counterfactual Outcomes & Normalizing Flows for Interventional Density Estimation, ICML 2022 & 2023 papers"
 collection: talks
 type: "Presentation"
 venue: "1st Munich Causal ML Workshop"
