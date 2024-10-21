@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Hyunwoo Kwon and I am a junior at University of Illinois at Urbana Champaign studying Mechanical Engineering with a minor in Computer Science. I am also a undergraduate researcher for two research groups at UIUC. I have been participating in building automation devices that are optimized in time and performance. I not only come up with the designs for these setups, but also create software dedicated to control these devices. Please check out my portfolio for a elaborated explanation of my work.
+I am Hyunwoo Kwon and I am a senior at University of Illinois at Urbana Champaign with a BS in Mechanical Engineering, and a minor in Computer Science and Computational Science and Engineering. I have research experiences in diverse fields not limited to development of Dynamical mechanical analysis setup, digital twin of bridges, reliability studies on the thermal interface mnaterials. 
 
-I enjoy working in interdisciplinary fields where I can combine knowledge in multiple fields, especially my knowledge in mechanical engineering with software and circuit design. 
+After learning more about the computational aspects of Mechanical Engineering, I hope to pursue a Ph.D in the field of computational mechanics, with interests in developing new computational methods for mechanics and multiscale modeling.
