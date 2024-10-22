@@ -16,7 +16,7 @@ author_profile: true
 [[paper](https://arxiv.org/pdf/2308.13466)]<br>
 
 * <b>Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization</b>.<br>
-<b>Guangji Bai</b>\*, Zheng Chai\*, Liang Zhao, Yue Cheng.<br>
+Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/abs/2206.00057)]<br>
 
 ## 2024
@@ -31,7 +31,7 @@ Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao.<br>
 [[paper](https://arxiv.org/abs/2405.16075)]<br>
 
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
-<b>Guangji Bai</b>\*, Junxiang Wang\*, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
+Junxiang Wang\*, <b>Guangji Bai</b>\*, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
 <i>The 30th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (Research Track, KDD 2024)</i>.<br>
 [[paper](https://arxiv.org/abs/2312.12276)]<br>
 
