@@ -11,56 +11,20 @@ layout: compress
     {% include head/custom.html %}
 
     <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="The Pax Narca Files" />
-    <meta property="og:image" content="https://arduinotomasi.github.io/images/correa-con-narcos.jpg" />
-    <meta property="og:url" content="https://arduinotomasi.github.io/Pax/" />
-
-    <!-- Twitter Cards Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://arduinotomasi.github.io/images/abstr.png" />
+    <meta property="og:image" content="https://arduinotomasi.github.io/images/abstr.png" />
   </head>
 
   <body>
-
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
+    <div class="post-header">
+      <img src="https://arduinotomasi.github.io/images/abstr.png" alt="Blog Image" class="post-image">
     </div>
 
-    {% include scripts.html %}
-
-  </body>
-</html>
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
-  <head>
-    {% include head.html %}
-    {% include head/custom.html %}
-
-    <!-- Open Graph Meta Tags -->
-    <meta property="og:title" content="Semblante exquisito" />
-    <meta property="og:image" content="https://arduinotomasi.github.io/images/abstr.png" />
-    <meta property="og:url" content="https://arduinotomasi.github.io/posts/2024/11/semblante/" />
-
-    <!-- Twitter Cards Meta Tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://arduinotomasi.github.io/images/abstr.png" />
-  </head>
-
-  <body>
-
-    {% include browser-upgrade.html %}
-    {% include masthead.html %}
-
-    {{ content }}
+    <div class="post-content">
+      {{ content }}
+    </div>
 
     <div class="page__footer">
       <footer>
