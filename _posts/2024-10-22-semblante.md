@@ -1,7 +1,7 @@
 ---
 title: 'Semblante exquisito'
-date: 2024-06-11
-permalink: /posts/2024/11/semblante/
+date: 2024-10-22
+permalink: /posts/2024/10/semblante/
 tags:
  - Random
 ---
