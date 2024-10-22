@@ -21,10 +21,10 @@ repository               : "WIZeaz/wizeaz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Yehong Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # 
   googlescholar    : "https://scholar.google.com/citations?user=c7_Y7gcAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0009-4106-8849"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
