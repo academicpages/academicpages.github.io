@@ -14,7 +14,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: " list" }}__item">
+<div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
     <div class="archive__item-teaser">
@@ -36,6 +36,16 @@
     {% endif %}
     <div class="archive__item-content" style="width: 600px;">
     <h2 class="archive__item-title" itemprop="headline">
+      {% assign current_date = "now" | date: "%s" %}
+      {% assign post_date = post.date | date: "%s" %}
+
+      {% if current_date | minus: post_date | divided_by: 86400 < 365 %}
+        {% assign url_check = post.projecturl | append: post.paperurl | append: post.slidesurl | append: post.codeurl | append: post.videourl | append: post.supplementurl %}
+        <!-- <h3>{{url_check}}</h3> -->
+        {% if url_check != "" %}
+          <img src='/images/new.gif' style='height: 25px;'>
+        {% endif %}
+      {% endif %}
       {% if post.link %}
       <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i
           class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -92,6 +102,9 @@
     {% if post.citation %}
         {% assign output = output | append: "Recommended citation: " | append: post.citation | append: "<br>" %}
     {% endif %}
+    {% if post.projecturl %}
+        {% assign output = output | append: " | <a href='" | append: post.projecturl | append: "'>Watch Project</a>" %}
+    {% endif %}
     {% if post.paperurl %}
         {% assign output = output | append: " | <a href='" | append: post.paperurl | append: "'>Download Paper</a>" %}
     {% endif %}
@@ -108,7 +121,16 @@
         {% assign output = output | append: " | <a href='" | append: post.supplementurl | append: "'>View Supplement</a>" %}
     {% endif %}
     
-    <p>{{ output | strip }}{% if output != "" %} {% endif %}</p>
+    <!-- <p>{{ output | strip }}{% if output != "" %} {% endif %}</p> -->
+    {% if output != "" %}
+      <p>
+        {% if current_date | minus: post_date | divided_by: 86400 < 365 %}
+          <img src='/images/new.gif' style='height: 16px;'>
+        {% endif %}
+        {% assign output = output | append: " |" %}
+        {{ output | strip }}
+      </p>
+    {% endif %}
   </div>
   </article>
 </div>

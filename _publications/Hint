@@ -1,0 +1,26 @@
+參數說明
+----
+date: 一定要有年月日
+
+----
+暫時可用url參數
+projecturl
+paperurl
+slidesurl
+codeurl
+videourl
+supplementurl
+
+----
+如果 (時間在一年內) 且 (有paperurl、projecturl之類的url)
+就會自動新增new.gif
+
+----
+老師名字用 粗體+底線
+<strong><u> </u></strong>
+
+紅字用
+<span style="color:red"></span>
+
+期刊名 粗體+斜字
+<strong><i></i></strong>

@@ -66,6 +66,9 @@ layout: default
         {% if page.citation %}
             {% assign output = output | append: "Recommended citation: " | append: page.citation  | append: "<br>" %}
         {% endif %}
+        {% if page.projecturl %}
+            {% assign output = output | append: " | <a href='" | append: page.projecturl | append: "'>Watch Project</a>" %}
+        {% endif %}
         {% if page.paperurl %}
             {% assign output = output | append: " | <a href='" | append: page.paperurl | append: "'>Download Paper</a>" %}
         {% endif %}
@@ -78,12 +81,23 @@ layout: default
         {% if page.videourl %}
             {% assign output = output | append: " | <a href='" | append: page.videourl | append: "'>Watch Video</a>" %}
         {% endif %}
-        {% if page.SupplementUrl %}
-            {% assign output = output | append: " | <a href='" | append: page.SupplementUrl | append: "'>View Supplement</a>" %}
+        {% if page.supplementurl %}
+            {% assign output = output | append: " | <a href='" | append: page.supplementurl | append: "'>View Supplement</a>" %}
         {% endif %}
 
         {% if output != "" %}
-            <p style="font-size: smaller">{{ output | strip }}</p>
+        {% assign current_date = "now" | date: "%s" %}
+        {% assign post_date = page.date | date: "%s" %}
+        {% assign date_difference = current_date | minus: post_date | divided_by: 86400 %}
+        <!-- {% assign days_difference = date_difference | divided_by: 86400 %} -->
+      
+          <p style="font-size: smaller">
+            {% if date_difference < 365 %}
+              <img src='/images/new.gif' style='height: 22px;'>
+            {% endif %}
+            {% assign output = output | append: " |" %}
+            {{ output | strip }}
+          </p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
