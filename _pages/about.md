@@ -26,7 +26,7 @@ redirect_from:
 
 ## Research Papers
 
-1. Asymmetric Information and Digital Technology Adoption: Evidence from Senegal **(Job Market Paper)**, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">RFI</a>, *Draft Coming Soon*
+1. <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a> **(Job Market Paper)**, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">RFI</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -43,7 +43,7 @@ redirect_from:
         </div>
     </details>
 
-3. Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders (with Edward Wiles), *Draft Coming Soon*
+3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with Edward Wiles), *Draft Coming Soon*
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
