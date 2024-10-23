@@ -22,7 +22,7 @@ See the talk [here](../assets/pdf/AI_talk_astroX.pdf). For [ERIRA 2022 and 2024]
 
 **2024**
 
-- Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models *(Upcoming, MICCAI 2024).*
+- [Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models](../assets/pdf/segdiff_MICCAI24.pdf) *(MICCAI 2024).*
 - [Rethinking Perceptual Metrics for Medical Image Translation](../assets/pdf/translationmetrics_MIDL24.pdf) *(MIDL 2024).*
 - [The Effect of Intrinsic Dataset Properties on Generalization: Unraveling Learning Differences Between Natural and Medical Images](../assets/pdf/intrinsicproperties_iclr2024.pdf) *(ICLR 2024).*
 
