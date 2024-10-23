@@ -12,5 +12,3 @@ I'm a second-year graduate student at the [School of Automation](https://automat
 I am very fortunate to be advised by [Prof. Yangang Wang](https://www.yangangwang.com/). Before that, I received my bachelor's degree from the [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/).
 
 [Email](mailto:wendysun0107@gmail.com) / [Github](https://github.com/hql0107)
-
-
