@@ -51,6 +51,12 @@ Neural Information Processing Systems(**NeurIPS**), 2023
 </b><br> Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, <b>Zhimeng Jiang</b>, Kaixiong Zhou, Vipin Chaudhary, Shuai Xu, Xia Hu. <br>
 Neural Information Processing Systems(**NeurIPS**), 2023
 
+
+<b>[Editable Graph Neural Network for Node Classifications](https://arxiv.org/pdf/2305.15265.pdf)
+</b><br>Zirui Liu*, </b>Zhimeng Jiang</b>*, Shaochen Zhong, Kaixiong Zhou, Li Li, Rui Chen, Soo-Hyun Choi, and Xia Hu <br>
+In The 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining on Mining and Learning with Graphs Workshop, 21–27 Jul 2023
+
+
 <b>[DSpar: Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification.](https://openreview.net/forum?id=SaVEXFuozg&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DTMLR%2FAuthors%23your-submissions))
 </b><br>Zirui Liu, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu. <br>
 Transactions on Machine Learning Research (**TMLR**), 2023
