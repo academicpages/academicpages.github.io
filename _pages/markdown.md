@@ -10,6 +10,12 @@ redirect_from:
 ## Grant Funded Projects - Contributions and Management
 
 * [The James R. Jones Carl Albert Center Digital Archive (PI)](https://oucac.access.preservica.com/): Ambassador James R. Jones donated $1,000,000 to facilitate the migration of all digital collections from ArchivesSpace to the Preservica digital content management platform (Gift received on 2021-08-19).
+  
+* [Digital Archives Portal: Congressional Archives for Education (co-PI)]((https://congressarchives.org/) ):
+    * Funding Entity: National Historical Publications and Records Commission (NHPRC), $1.5 million
+    * Collaborative Partners: West Virginia University Libraries (WVUL),
+    * Abstract: This project will further develop the Portal’s technical infrastructure, add significantly more archival content, create educational resources for K-12 civics and history curricula, and conduct outreach activities for educators.
+      
 * [Historical Collection of Political Campaign Advertisements: Online Archiving, Automated Coding, and Scientific Analysis (co-PI)](https://s-lib024.lib.uiowa.edu/campaignvids/index.html):
     * Funding Entity: National Science Foundation
     * Funding Unit: Accountable Institutions and Behavior (AIB) program and the Established Program to Stimulate Competitive Research (EPSCoR)
