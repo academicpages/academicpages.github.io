@@ -79,55 +79,29 @@ Work experience
 Skills
 ======
 
-1. **Machine Learning**
-
-* Tools: TensorFlow, Sklearn, Transformers
-
+1. **Classical Machine Learning**
 2. **Computer Vision**
 3. **Natural Language Processing (NLP)**
-   * Tools: TensorFlow, Sklearn, Transformers
 4. **Data Science**
-5. **Software Development**
-   * Technologies: Python, Java, JavaScript, GraphQL
-6. **Continual Learning**
-   * Techniques: Incremental learning, self-supervised learning, distillation and replay
-7. **Application Development**
-   * Languages: Python, Java, JavaScript
-   * Frameworks: JavaFX
-8. **Data Pipeline Development**
-9. **Multimodal Modeling**
-10. **Incremental Learning**
-11. **Distillation and Replay Techniques**
-12. **Memory-Based Approaches for Continual Learning**
+5. **Self-supervised Learning, Semi-SSL**
+6. **Data Pipeline Development**
+7. **Multimodal Modeling**
+8. **Continual Leaning : Incremental Learning, Distillation and Replay Techniques, Memory-Based Approaches for Continual Learning**
 
 ### Programming Languages:
 
 1. **Python**
-2. **Java**
+2. **Java SE**
 3. **JavaScript**
 
 ### Tools and Technologies:
 
-1. **TensorFlow**
-2. **Sklearn**
-3. **Transformers**
-4. **Java SE**
-5. **JUnit**
-6. **DbUnit**
-7. **GraphQL**
-8. **JavaFX**
-
-### Additional Skills:
-
-1. **Front-End Development**
-   * Technology: JavaScript
-2. **Back-End Development**
-   * Technologies: Python, Java, GraphQL
-3. **Collaboration and Teamwork**
-4. **Proposal of Architectural Improvements**
-5. **Full Software Development Lifecycle**
-6. **Testing and Debugging**
-   * Tools: JUnit, DbUnit
+1. **TensorFlow, Pytorch**
+2. **Sklearn, Numpy, Pandas**
+3. **Transformers, unsloth, Ktrain**
+4. **JUnit, DbUnit**
+5. **SQL, GraphQL, MongoDB**
+6. **Java SE, JavaFX**
 
 Publications
 ============
