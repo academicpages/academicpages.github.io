@@ -59,7 +59,7 @@ redirect_from:
         </div>
     </details>
     
-5. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with Pascaline Dupas and Marcel Fafchamps), Revised August 2024 for ***Quantitative Economics***
+5. <a href="https://houeix.github.io/files/PovertyRanking_paper_2408.pdf">Eliciting Poverty Rankings from Urban or Rural Neighbors: Methodology and Empirical Evidence</a> (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a> and <a href="https://web.stanford.edu/~fafchamp/">Marcel Fafchamps</a>), Revised August 2024 for ***Quantitative Economics***
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
