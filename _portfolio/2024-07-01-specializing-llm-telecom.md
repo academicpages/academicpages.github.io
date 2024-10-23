@@ -3,81 +3,87 @@ title: "Specializing Large Language Models for Telecom Applications"
 excerpt: "Enhancing the Accuracy of Falcon 7.5B and Phi-2 on Telecom Knowledge Using the TeleQnA Dataset <br/><img src='/images/llm-telecom.png'>"
 collection: portfolio
 ---
-**Project Title: Specializing Large Language Models for Telecom Applications**
+
 
 **Project Overview:**
 
-Large language models (LLMs) have made significant strides in text generation, comprehension, and interaction. While their integration into various sectors has been impressive, the telecommunications industry has seen limited adoption. This project aims to bridge that gap by enhancing the performance of LLMs on telecom-specific knowledge using the TeleQnA dataset. The competition focused on improving the accuracy of Falcon 7.5B and Phi-2 models in answering multiple-choice questions related to different telecom knowledge domains.
+Large language models (LLMs) have become highly proficient in text generation, comprehension, and interaction. Despite their successes across various sectors, their application in the telecommunications industry remains limited. This project focuses on optimizing LLMs, specifically using a fine-tuned model called **Phi-3-mini-4k-instruct**, to improve telecom-specific knowledge tasks. The dataset, derived from the **TeleQnA** competition, contains telecom-related multiple-choice questions, and this project aims to enhance model performance using fine-tuning techniques and model-specific optimizations.
+
+![LLM](/images/iStock-1486380350.webp)
+
 
 **Project Objectives:**
 
-1. **Specialize Falcon 7.5B and Phi-2 on Telecom Knowledge:**
+1. **Fine-tune Phi-3-mini-4k-instruct on Telecom Knowledge:**
 
-   - Enhance the accuracy of Falcon 7.5B and Phi-2 models in answering telecom-related multiple-choice questions.
-   - Utilize methods such as Retrieval Augmented Generation (RAG) and prompt engineering to improve model performance.
-2. **Address Key Challenges:**
+   - Train and optimize the Phi-3-mini-4k-instruct model to accurately respond to telecom-specific questions.
+   - Leverage advanced training techniques such as **LoRA (Low-Rank Adaptation)** for efficient model tuning, along with 4-bit quantization to handle large-scale data while reducing memory footprint.
+2. **Overcome Common Challenges:**
 
-   - Tackle the complexity and diversity of telecom-related questions.
-   - Mitigate LLM hallucinations and fabrications.
-   - Improve the explainability of LLM responses.
+   - Address the complexities of telecom-specific terminology and concepts.
+   - Reduce hallucinations common in LLMs when faced with domain-specific queries.
+   - Ensure responses are accurate and can be justified using telecom knowledge.
 
 **Methodology:**
 
-The project involved several key steps to achieve the objectives:
+The fine-tuning process included several key steps, leveraging efficient training techniques and domain-specific adjustments to ensure optimal model performance.
 
 1. **Data Understanding and Preparation:**
 
-   - Analyzed the TeleQnA dataset to understand the structure and content of the telecom knowledge domains.
-   - Preprocessed the dataset to ensure high-quality input for model training.
-2. **Model Specialization:**
+   - The project utilized the **TeleQnA** dataset, ensuring the text data was properly structured and relevant for telecom knowledge tasks.
+   - Data preprocessing was performed using custom utilities to clean and prepare telecom text for model consumption.
+2. **Model Selection and Fine-Tuning:**
 
-   - **Baseline Evaluation:**
-     - Evaluated the initial performance of Falcon 7.5B and Phi-2 models on the TeleQnA dataset.
-   - **Fine-Tuning:**
-     - Fine-tuned the models using the preprocessed dataset, focusing on telecom-specific knowledge.
-   - **Retrieval Augmented Generation (RAG):**
-     - Implemented RAG to enhance the models’ ability to provide accurate answers by retrieving relevant telecom documents.
-   - **Prompt Engineering:**
-     - Developed and tested various prompts to guide the models towards generating more accurate responses.
-3. **Mitigating Hallucinations:**
+   - **Model Choice:** The model chosen for this task is **unsloth/Phi-3-mini-4k-instruct**, a lightweight but robust variant that supports **RoPE Scaling** for extended context length.
+   - **Model Fine-Tuning:**
+     - Implemented parameter-efficient tuning using **QLoRA**, targeting specific layers for low-rank adaptation such as `q_proj`, `k_proj`, and `v_proj` modules, which are critical for understanding attention in telecom-specific contexts.
+     ![Llora](/images/lora-qlora.png)
+     - Utilized **gradient checkpointing** and memory-efficient techniques like **4-bit quantization** to minimize GPU memory consumption, making the process viable for longer sequences.
+3. **Training Setup:**
 
-   - **Training with Reinforcement Learning:**
-     - Used reinforcement learning techniques to penalize incorrect or fabricated responses during training.
-   - **Fact-Checking Mechanism:**
-     - Integrated a post-processing step to check the factual accuracy of the responses against a reliable telecom knowledge base.
-4. **Enhancing Explainability:**
+   - **Training Configuration:**
+     - Used **SFTTrainer** from the `trl` library to manage the fine-tuning process. This allowed for flexible configurations with customized **sequence length**, **packing** strategy, and **multi-GPU support** for telecom-specific fine-tuning.
+     - Batch sizes and learning rates were optimized based on the constraints of the telecom dataset, using **AdamW optimizer with 8-bit precision** to balance performance and memory efficiency.
+4. **Mitigating Hallucinations and Fabrications:**
 
-   - **Attention Visualization:**
-     - Implemented tools to visualize the attention mechanisms within the models.
-   - **Explainable AI Techniques:**
-     - Applied explainable AI techniques to understand the decision-making process of the models.
+   - Focused on limiting fabricated responses by employing **fact-checking mechanisms** and reinforcement-based techniques to penalize hallucinations during the training process.
+   - Integrated post-processing steps, validating output against a trusted telecom knowledge base to ensure factual consistency.
+5. **Tools and Technologies:**
 
-**Tools and Technologies:**
+   - **Python** for coding and model management.
+   - **PyTorch** for model training and handling LLMs.
+   - **Unsloth Libraries** for fine-tuning and efficient memory utilization.
+   - **Hugging Face** for accessing pre-trained language models like Phi-3-mini-4k-instruct and custom dataset handling.
 
-- **Python:** The primary programming language used for developing and implementing the models.
-- **PyTorch:** The main deep learning framework utilized for building and training the models.
-- **Google Colab:** An online platform providing GPU resources for running experiments and facilitating collaborative development.
-- **Hugging Face:** A platform for accessing and fine-tuning pre-trained language models like Falcon 7.5B and Phi-2.
+**Technical Implementation:**
 
-**Domain Knowledge:**
+The fine-tuning was implemented using the following key configurations:
 
-- **Telecommunications:** Understanding the technical specifications and knowledge domains within the telecom industry.
-- **Machine Learning:** Expertise in developing and fine-tuning machine learning models for text recognition and language understanding.
-- **Explainable AI:** Knowledge of techniques to enhance the transparency and interpretability of AI models.
+- **Sequence Length:** Set to 2048 tokens to handle the longer context often found in telecom data.
+- **LoRA Parameters:**
+  - `r=16`, `lora_alpha=16`, with dropout and bias optimizations, ensuring efficient parameter updates during training.
+- **Training Optimizations:**
+  - **CUDA and GPU Settings:** Optimized for GPU usage on Tesla-class hardware, ensuring fast execution and reduced memory overhead.
+  - **Batch Size Adaptation:** Dynamic batch size adjustments based on GPU memory, along with gradient accumulation to ensure stable training.
 
-**Project Report:**
+**Outcome:**
 
-The project's results, methodologies, and findings are documented comprehensively, detailing the techniques used, experiments conducted, and outcomes observed. This documentation provides insights into the model's performance and highlights areas for future improvements.
+- **Enhanced Accuracy:** The model demonstrated improved performance in answering telecom-specific questions, outperforming earlier baselines like **Falcon 7.5B**.
+- **Improved Resource Utilization:** By employing **4-bit quantization** and **LoRA**, the model trained effectively on large datasets without exhausting GPU resources.
 
-**Outcome and Future Work:**
+**Future Work:**
 
-- **Improved Model Accuracy:**
-  - The specialized models showed significant improvements in answering telecom-related questions accurately, enhancing their utility in the telecom industry.
-- **Enhanced Telecom Applications:**
-  - The project paves the way for integrating LLMs into various telecom applications, improving customer support, network management, and other telecom services.
-- **Continuous Improvement:**
-  - Ongoing research includes refining the models further, expanding the dataset, and incorporating feedback from telecom experts to ensure practical and effective solutions.
+- **Dataset Expansion:** Continue expanding the dataset with more specialized telecom questions and edge cases.
+- **Model Scaling:** Explore scaling the fine-tuning to larger models such as **LLaMA-2** or incorporating **RAG** (Retrieval-Augmented Generation) for even more accurate responses.
 
-Code made avalaible [here](https://github.com/KameniAlexNea/object-detection-detr)
+**Code:**
+The full implementation is available [here](https://github.com/KameniAlexNea/specializing-llm-telecom).
+
+---
+
+This updated version aligns with the codebase you shared and includes details such as model-specific fine-tuning (Phi-3-mini-4k), memory optimizations (4-bit quantization), and the use of LoRA. Let me know if you need further adjustments!
+
+Code made avalaible [here](https://github.com/KameniAlexNea/specializing-llm-telecom)
+
 
 <img src='/images/llm-telecom.png'>

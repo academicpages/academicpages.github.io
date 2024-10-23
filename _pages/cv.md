@@ -36,11 +36,15 @@ Work experience
 
 * CDI: January - : Data Scientist at [Ivalua](https://www.linkedin.com/company/ivalua/)
 
-  * Building data pipeline for training invoice data capture
-  * Evaluate and deploy current machine learning pipeline
-  * Propose new ideas on how to improve the current architecture of IDC
-  * Building multimodal model for IDC data understanding
   * **Skills**: Machine Learning · Computer Vision · Python (Programming Language) · Natural Language Processing (NLP) · Data Science
+
+  - Constructing a robust data pipeline dedicated to training the invoice data capture system.
+  - Assessing and implementing enhancements to the existing machine learning pipeline.
+  - Innovating and presenting novel concepts to enhance the architecture of the Invoice Data Capture (IDC) system.
+  - Developing a sophisticated multimodal model aimed at advancing the comprehension of IDC data.
+  - Developing views using gradio for testing web service deployed
+  - Specialized LLM Model on custom task and integration on Ivalua Products
+
 * Internship: April 2022–September 2022: Machine Learning Researcher at Etis Lab, [Ecole nationale supérieure de l&#39;Electronique et de ses Applications](https://www.linkedin.com/school/ensea-ecole-nationale-superieure-de-lelectronique-et-de-ses-applications/)
 
   * Data incremental learning in deep architectures :
@@ -76,55 +80,35 @@ Work experience
 Skills
 ======
 
-1. **Machine Learning**
 
-* Tools: TensorFlow, Sklearn, Transformers
-
+1. **Classical Machine Learning**
 2. **Computer Vision**
 3. **Natural Language Processing (NLP)**
-   * Tools: TensorFlow, Sklearn, Transformers
 4. **Data Science**
-5. **Software Development**
-   * Technologies: Python, Java, JavaScript, GraphQL
-6. **Continual Learning**
-   * Techniques: Incremental learning, self-supervised learning, distillation and replay
-7. **Application Development**
-   * Languages: Python, Java, JavaScript
-   * Frameworks: JavaFX
-8. **Data Pipeline Development**
-9. **Multimodal Modeling**
-10. **Incremental Learning**
-11. **Distillation and Replay Techniques**
-12. **Memory-Based Approaches for Continual Learning**
+5. **Self-supervised Learning, Semi-SSL**
+6. **Data Pipeline Development**
+7. **Multimodal Modeling**
+8. **Continual Leaning : Incremental Learning, Distillation and Replay Techniques, Memory-Based Approaches for Continual Learning**
+
 
 ### Programming Languages:
 
 1. **Python**
-2. **Java**
+
+2. **Java SE**
+
 3. **JavaScript**
 
 ### Tools and Technologies:
 
-1. **TensorFlow**
-2. **Sklearn**
-3. **Transformers**
-4. **Java SE**
-5. **JUnit**
-6. **DbUnit**
-7. **GraphQL**
-8. **JavaFX**
 
-### Additional Skills:
+1. **TensorFlow, Pytorch**
+2. **Sklearn, Numpy, Pandas**
+3. **Transformers, unsloth, Ktrain**
+4. **JUnit, DbUnit**
+5. **SQL, GraphQL, MongoDB**
+6. **Java SE, JavaFX**
 
-1. **Front-End Development**
-   * Technology: JavaScript
-2. **Back-End Development**
-   * Technologies: Python, Java, GraphQL
-3. **Collaboration and Teamwork**
-4. **Proposal of Architectural Improvements**
-5. **Full Software Development Lifecycle**
-6. **Testing and Debugging**
-   * Tools: JUnit, DbUnit
 
 Publications
 ============

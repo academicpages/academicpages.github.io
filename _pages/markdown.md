@@ -30,6 +30,9 @@ redirect_from:
   * Orange circle: building
   * Red X: error
   * No icon: not built
+* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
+  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
+  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
 
 ## Resources
  * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
@@ -207,9 +210,31 @@ or R:
 print("Hello World!", quote = FALSE)
 ```
 
-### Strike Tag
+### Details Tag (collapsible sections)
 
-This tag will let you <strike>strikeout text</strike>.
+The HTML `<details>` tag works well with Markdown and allows you to include collapsible sections, see [W3Schools](https://www.w3schools.com/tags/tag_details.asp) for more information on how to use the tag.
+
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
+
+The source code:
+
+```HTML
+<details>
+  <summary>Collapsed by default</summary>
+  This section was collapsed by default!
+</details>
+```
+
+Or, you can leave a section open by default by including the `open` attribute in the tag:
+
+<details open>
+  <summary>Open by default</summary>
+  This section is open by default thanks to open in the &lt;details open&gt; tag!
+</details>
+
 
 ### Emphasize Tag
 
@@ -240,6 +265,10 @@ This tag styles large blocks of code.
 ### Quote Tag
 
 <q>Developers, developers, developers&#8230;</q> &#8211;Steve Ballmer
+
+### Strike Tag
+
+This tag will let you <strike>strikeout text</strike>.
 
 ### Strong Tag
 
