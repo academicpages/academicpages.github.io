@@ -22,10 +22,24 @@ layout: default
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
-
+ 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
+
+          {% assign url_check = page.projecturl | append: page.paperurl | append: page.slidesurl | append: page.codeurl | append: page.videourl | append: page.supplementurl %}
+          {% if url_check != "" %}
+          {% assign current_date = "now" | date: "%s" %}
+          {% assign post_date = page.date | date: "%s" %}
+          {% assign date_difference = current_date | minus: post_date | divided_by: 86400 %}
+          <!-- {% assign days_difference = date_difference | divided_by: 86400 %} -->
+        
+              {% if date_difference < 365 %}
+                <img src='/images/new.gif' style='height: 26px;'>
+              {% endif %}
+          {% endif %}
+
+
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
