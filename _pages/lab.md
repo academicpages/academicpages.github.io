@@ -21,10 +21,14 @@ Students interested in joining the lab should email <a href= "coudry@illinois.ed
 
 
 Current team members:
+
 Ping Meunprasittiveg
-Sankirtana Ravichandran
-Shlok Shah
-Martha Sulzen
+
+Sankirtana Ravichandran 
+
+Shlok Shah 
+
+Martha Sulzen 
 
 
 
