@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D., Tsinghua University, Department of Computer Science \& Technology, Aug. 2010 - Jun. 2016
+  - Honor Graduate of CS Department
+  - Thesis: [Research on the Key Issues of Usability of Named Data Networking](https://github.com/shockjiang/public-data/blob/main/doc/ndn-usability_phd.pdf), supervised by [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
+
+* B.S.,Tsinghua University, School of Software, Sep. 2006 --- Jun. 2010
+  - Thesis: [Research on the Evolution of IPv6](https://github.com/shockjiang/public-data/blob/main/doc/ipv6-evolution_bachelor.pdf), supervised by [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/) and [Prof. Fei He](https://www.thss.tsinghua.edu.cn/info/1057/1237.htm)
+
+%\cvitem{2011.8 - 2012.7}{Tsinghua-Berkeley Global Technology Entrepreneurship Program,  Tech Leader of \textbf{2nd Award Team}}
 
 Work experience
 ======
