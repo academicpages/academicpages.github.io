@@ -40,7 +40,9 @@ Exploring scalable solutions in machine learning.
 - [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
   _Under review of CSUR_
 - [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946v3)   
-  _NeurIPS 2024_ 
+  _NeurIPS 2024_
+- [**FedSpaLLM: Federated Pruning of Large Language Models**](https://arxiv.org/pdf/2410.14852v1)   
+  _Preprint_ 
 
 ### b) Distributed Training for Deep Neural Networks
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
