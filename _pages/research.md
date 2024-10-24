@@ -41,7 +41,7 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
 <p>
   
 <h2 style="font-size:22px; ">Under review </h2>
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Jan2022.pdf">R & R at <i>International Studies Quarterly</i></a>) 
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">R & R at <i>International Studies Quarterly</i></a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
@@ -64,11 +64,11 @@ undermines states' ability to regulate in isolation.
 <p>
 <p>
   
-Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/O'Brien-Udry_greening_aid.pdf">Under review</a>) 
+Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">Under review</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
-Greening foreign aid is a vital step in the fight against climate change, but requires donors to shift their funding away from carbon-intensive development projects. Novel data from the World Bank shows that aid withdrawal, particularly in the energy sec- tor, is common. As donors withdraw their support for fossil fuels in favor of renewable energy, the economic benefits to voters in aid-dependent countries depends on their representatives’ links to foreign funding. I use a spatial difference-in-differences design to test the theory in the case of the World Bank’s withdrawal of support for a coal plant in Kosovo. Aid withdrawal altered voting patterns for parties with close ties to the international community: coal-producing areas voted disproportionately against this party while places with potential for investment in renewables voted for it. The distri- butional effects of the green energy transition may determine long-term international influence as their domestic allies bear the costs (and benefits). The centrality of inter- national funding for energy in developing nations adds nuance to our understanding of global climate politics.
+Renewable energy investment is a vital step in the fight against climate change. De- veloping countries rely on external funding, often in the form of foreign aid, to support the growing green energy infrastructure. The role of international actors in funding the green energy transition poses particular challenges for domestic politics in developing countries. I argue that the links between international funding and renewable energy change the politics of the distributional effects of the energy transition. I use a spatial difference-in-differences design to test the theory in the case of the World Bank’s with- drawal of support for a coal plant in Kosovo. Aid withdrawal altered voting patterns for parties with close ties to the international community: coal-producing areas voted disproportionately against this party while places with potential for investment in re- newables voted for it. The distributional effects of the green energy transition may determine long-term international influence as their domestic allies bear the costs (and benefits). The centrality of international funding for energy in developing nations adds nuance to our understanding of global climate politics.
 </details>
 
 <p>
