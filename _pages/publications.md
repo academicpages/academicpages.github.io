@@ -11,6 +11,10 @@ author_profile: true
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
 
+* <b>FedSpaLLM: Federated Pruning of Large Language Models</b>.<br>
+<b>Guangji Bai</b>, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim.<br>
+[[paper](https://arxiv.org/pdf/2410.14852v1)]<br>
+
 * <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
 <b>Guangji Bai</b>, Ziyang Yu, Zheng Chai, Yue Cheng, Liang Zhao.<br>
 [[paper](https://arxiv.org/pdf/2308.13466)]<br>
