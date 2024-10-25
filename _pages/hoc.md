@@ -84,8 +84,6 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
     * Priestley, M., *A Science of Operations: Machines, Logic, and the Invention of Programming.* (2011)
     * Daylight, E.G., *Turing Tales* (2016)
     * Toma Kawanishi, "Prehistory of Switching Theory in Japan: Akira Nakashima and His Relay-circuit Theory."(2019)
-    * ”C.A.R. Hoare’s Research in the 1960s and the Emergence of Computer Science as a Discipline”(2024)
-      * my graduation thesis
 
 * History of Software
   * Valdez, Maria Eloina Pel\UTF{00E4}ez. “A Gift from Pandora’s Box: The Software Crisis”, PhD thesis, University of Edinburgh, 1988.
