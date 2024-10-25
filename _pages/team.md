@@ -69,9 +69,6 @@ Spanish researcher with a love for music—whether playing tunes or enjoying mel
 During my research journey, I dove into internships focused on various neurodegenerative diseases. Under the guidance of Prof. Dr. Matthias Jucker, I found a passion for using induced pluripotent stem cells (iPSCs) as a model to study these diseases.
 Currently, I am engaged in my Ph.D. project, exploring the potential beneficial effects of physical exercise on the molecular and cellular aspects of Alzheimer’s disease. This endeavor involves using iPSC-derived cells, including microglia-like cells or iMics, as a platform to study the effects of exercise on brain cells. Through a comprehensive analysis from both morphological and functional perspectives, I aspire to contribute valuable insights to the prevention and protection against aging and neurodegeneration.
 
-<a href="https://nin.nl/author/chasapopoulouherseninstituut-knaw-nl/">
-  <img src="https://raw.githubusercontent.com/saltalab/saltalab.github.io/master/images/zoi.png" alt="Zoi" style="width:350px;height:300px;">
-</a>
 
 
 ### Alumni
