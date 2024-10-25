@@ -292,6 +292,11 @@ body:hover .visually-hidden button {
     color: $tumblr-color;
   }
 
+  .ai-orcid,
+  .ai-orcid-square {
+    color: $orcid-color;
+  }
+
   .fa-twitter,
   .fa-twitter-square {
     color: $twitter-color;
@@ -471,8 +476,8 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
-  text-decoration: none;
+  color: $link-color;
+  text-decoration: none !important;
 }
 
 .footnotes {
@@ -486,7 +491,7 @@ body:hover .visually-hidden button {
 
 a.reversefootnote {
   color: $gray;
-  text-decoration: none;
+  text-decoration: none !important;
 
   &:hover {
     text-decoration: underline;
