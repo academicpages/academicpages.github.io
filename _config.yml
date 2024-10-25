@@ -14,6 +14,13 @@ description              : &description "M.Sc student at Amirkabir University of
 url                      : https://rezaAdinepour.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rezaAdinepour/rezaAdinepour.github.io"
+
+author:
+  # Biographic information
+  location         : "Earth"
+  employer         : "Red Brick University"
+
+
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
