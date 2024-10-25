@@ -15,11 +15,6 @@ url                      : https://rezaAdinepour.github.io # the base hostname &
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rezaAdinepour/rezaAdinepour.github.io"
 
-author:
-  # Biographic information
-  location         : "Earth"
-  employer         : "Red Brick University"
-
 
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -91,7 +86,7 @@ author:
   avatar           : "my_avatar.JPG"
   bio              : "M.Sc student at Amirkabir University of Technology (Tehran Polytechnique)"
   location         : "Tehran, Iran"
-  employer         :
+  employer         : Amirkabir University of Technology
   pubmed           : 
   googlescholar    :  "https://scholar.google.com/citations?hl=en&user=Udim880AAAAJ&view_op=list_works&gmla=AP6z3ObFKaIm8vNkYCRr3ziax4AvW5LfW0YU_ceqRSKjv29JRgqFGs7p7Bfrk_6hotzC5lBFW5up515lIUJxoVBr"
   email            :  "r3zaadinep0ur@gmail.com"
