@@ -12,6 +12,12 @@ videourl
 supplementurl
 
 ----
+如果有連結是指向舊website
+留意一下
+存在自己專用的一個文字檔
+
+----
+feature: 
 如果 (時間在一年內) 且 (有paperurl、projecturl之類的url)
 就會自動新增new.gif
 
