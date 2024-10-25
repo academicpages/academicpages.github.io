@@ -57,7 +57,6 @@ Introductory/Must-read Books and Papers
 * Thomas Haigh and Paul E. Ceruzzi, *A New History of Modern Computing*, *A History of Modern Computing* 『モダン・コンピューティングの歴史』
   * The latter is more technical and focuses on software. 
 * Swade, Doron. (2022). *The History of Computing: A Very Short Introduction*
-  * I plan to translate this into Japanese
 * Paul E. Ceruzzi, *Computing: A Concise History*『コンピュータって: 機械式計算機からスマホまで』
 * George Dyson, *Turing's Cathedral: The Origins of the Digital Universe* 『チューリングの大聖堂: コンピュータの創造とデジタル世界の到来』（文庫版もある）
   * This book mainly focuses on the Institute for Advanced Study in Princeton, where Neumann and others were, rather than on the UK, where Turing was actively working. 
@@ -84,7 +83,9 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
     * Jones, C.B., “The Early Search for Tractable Ways of Reasoning about Programs.” (2003)
     * Priestley, M., *A Science of Operations: Machines, Logic, and the Invention of Programming.* (2011)
     * Daylight, E.G., *Turing Tales* (2016)
-    * Toma Kawanishi, "Prehistory of Switching Theory in Japan:Akira Nakashima and His Relay-circuit Theory."(2019)
+    * Toma Kawanishi, "Prehistory of Switching Theory in Japan: Akira Nakashima and His Relay-circuit Theory."(2019)
+    * ”C.A.R. Hoare’s Research in the 1960s and the Emergence of Computer Science as a Discipline”(2024)
+      * my graduation thesis
 
 * History of Software
   * Valdez, Maria Eloina Pel\UTF{00E4}ez. “A Gift from Pandora’s Box: The Software Crisis”, PhD thesis, University of Edinburgh, 1988.
@@ -155,6 +156,8 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
   * William Aspray, *John von Neumann and the Origins of Modern Computing* 『ノイマンとコンピュータの起源』
   * Charles Petzold, *The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine* 『チューリングを読む：コンピュータサイエンスの金字塔を楽しもう』
   * Tara Abraham, *Rebel Genius: Warren S. McCulloch's Transdisciplinary Life in Science*, 2016
+  * Alan Turing's Systems of Logic: The Princeton Thesis, 2012, edited by Andrew W. Appel
+    * Turing's 1938 Princeton PhD thesis
   
 * Other studies that may be helpful
   * Ruth Schwartz Cowan, *More Work For Mother: The Ironies of Household Technology from the Open Hearth to the Microwave*
@@ -235,8 +238,7 @@ Primary Source
   * Mira numerorum omnium expressio per 1 et 0, repraesentans rerum originem ex Deo et Nihilo, seu Mysterium creationis, 1696「すべての数を1と0によって表す驚くべき表記法．これは事物が神と無から由来すること，すなわち創造の神秘，を表現している」
   * Brevis descriptio Machinae Arithmeticae, 1710「算術計算機についての概説」
   * 
-* Alan Turing's Systems of Logic: The Princeton Thesis, 2012, edited by Andrew W. Appel
-  * Turing's 1938 Princeton PhD thesis
+
 
 Useful Links
 ======
