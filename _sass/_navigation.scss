@@ -234,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: $masthead-link-color-hover;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -374,7 +374,6 @@
 .toc {
   font-family: $sans-serif-narrow;
   color: $gray;
-  text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
   border: 1px solid $border-color;
@@ -413,23 +412,26 @@
     }
   }
 
-  > li:last-child {
-    a {
-      border-bottom: none;
-    }
-  }
-
+  
   li ul > li a {
-    padding-left: 2rem;
+    padding-left: 1.25rem;
     font-weight: normal;
   }
 
   /* hide sub sub links on small screens*/
-  li > ul li {
-    display: none;
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
 
-    @include breakpoint($medium) {
-      display: block;
-    }
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
   }
 }
