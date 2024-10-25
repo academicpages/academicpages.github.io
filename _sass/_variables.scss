@@ -41,6 +41,7 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
+$type-size-syntax           : 0.875em;  // ~14px
 
 /* masthead properties */
 $masthead-height            : 70px;
@@ -72,7 +73,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #2979ab;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -99,6 +100,7 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
+$gitlab-color               : #FCA121;
 
 
 /* links */
@@ -131,10 +133,14 @@ $x-large                    : 1280px !default;
 /*
    Grid
    ========================================================================== */
-
+/*
 $right-sidebar-width-narrow : 50px !default; //200 original
 $right-sidebar-width        : 100px !default; //300 original
 $right-sidebar-width-wide   : 150px !default; //400 original
+*/
+$right-sidebar-width-narrow : 200px !default;
+$right-sidebar-width        : 300px !default;
+$right-sidebar-width-wide   : 400px !default;
 
 $susy: (
   columns: 12,
