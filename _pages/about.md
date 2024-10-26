@@ -50,7 +50,7 @@ redirect_from:
         </div>
     </details>
 
-4. <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
+4. <a href="https://drive.google.com/file/d/148ZYYqffILOZ7Gtk_sbRpWFco6Qxj761/view?usp=sharing">Financial Inclusion and Rural Electrification: Evidence from Togo</a> (with <a href="https://pbrimble.github.io">Paul Brimble</a>, <a href="https://mbrg.bsg.ox.ac.uk/person/axel-eizmendi-larrinaga">Axel Eizmendi Larrinaga</a>, and <a href="https://www.hks.harvard.edu/centers/cid/about-cid/people/phd-affiliates/toni-oki">Toni Oki</a>)
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -69,7 +69,7 @@ redirect_from:
     
 ## Selected Work in Progress
 
-- Internal Migration, Remittances, and Networks: Evidence from Senegal (with Edward Wiles)
+- Internal Migration, Remittances, and Networks: Evidence from Senegal (with <a href="https://www.edward-wiles.com">Edward Wiles</a>)
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
@@ -78,7 +78,7 @@ redirect_from:
     </details>
 
 
-- Digitalization of Local Tax Collection in Côte d’Ivoire (with Pascaline Dupas)
+- Digitalization of Local Tax Collection in Côte d’Ivoire (with <a href="https://sites.google.com/view/pascaline-dupas/home">Pascaline Dupas</a>)
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
