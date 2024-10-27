@@ -3,11 +3,14 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
+#redirect_from:
+#  - /resume
 ---
 
 {% include base_path %}
+<<<<<<< HEAD
+My CV is available [here](/files/YZ_CV.pdf)
+=======
 
 Education
 ======
@@ -62,3 +65,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+>>>>>>> 8d09856f19c27bdc3bfefc859a848e431e6f96a9
