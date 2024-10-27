@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Presidential Postdoctoral Fellow in [Prof. Richard Murray](https://murray.cds.caltech.edu/Main_Page)'s lab at Caltech. My research uses a mass spectrometry-based proteomics approach to study and characterize cell-free protein expression systems.
+I am a postdoctoral research associate at Caltech, co-advised by [Prof. William Clemons](http://clemonslab.caltech.edu) and [Prof. Richard Murray](https://murray.cds.caltech.edu/Main_Page). My research interest is enabling biology by design, creating synthetic biological systems with a defined purpose.
 
-Before joining Caltech, I received my Ph.D. from [Prof. Mark Styczynski](https://sites.gatech.edu/styczynski/)'s lab at Georgia Tech, where I focused on developing cell-free biosensors for point-of-care diagnostics. I earned my B.S. in Chemical Engineering from Cornell University, where I was first introduced to synthetic biology in [Prof. Julius Lucks](https://luckslab.org)'s lab focused on developing RNA-based genetic regulators. 
+Before joining Caltech, I received my Ph.D. in Chemical & Biomolecular Engineering from [Prof. Mark Styczynski](https://sites.gatech.edu/styczynski/)'s lab at Georgia Tech, where I focused on developing cell-free biosensors for point-of-care diagnostics. I earned my B.S. in Chemical & Biomolecular Engineering from Cornell University, where I was first introduced to synthetic biology in [Prof. Julius Lucks](https://luckslab.org)'s lab focused on developing RNA-based genetic regulators. 
 
 Please refer to the [Publications page](/publications) for more details about my research background.
 
-My research interests span the spaces of bacterial synthetic biology, cell-free protein expression systems, self-assembly, biosensor diagnostics, and precision medicine.
+My research interests include cell-free synthetic biology, protein self-assembly, biosensor diagnostics, and precision medicine.
 
-My long-term research interest is to enable biology by design. [*What do I mean*](/research/)
-
-If any of these areas are of interest to you for collaboration, please don’t hesitate to reach out!
+Check out my research section for my long-term research interests in [*Biology by Design*](/research/)
