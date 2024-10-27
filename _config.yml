@@ -6,14 +6,27 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+<<<<<<< HEAD
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+
+# Site Settings
+=======
 # Basic Site Settings
+>>>>>>> 8d09856f19c27bdc3bfefc859a848e431e6f96a9
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yan Zhang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yzhang952.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+<<<<<<< HEAD
+repository               : "yzhang952/yzhang952.github.io"
+=======
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -83,6 +96,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
+>>>>>>> 8d09856f19c27bdc3bfefc859a848e431e6f96a9
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -150,6 +164,49 @@ analytics:
     tracking_id          :
 
 
+<<<<<<< HEAD
+# Site Author
+author:
+  name             : "Yan Zhang"
+  avatar           : "profile.png"
+  bio              : "Postdoc in Bioengineering, Caltech"
+  location         :
+  employer         : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+
+  email            : "yz473@caltech.edu"
+  twitter          : "@YZhang952"
+  googlescholar    : "https://scholar.google.com/citations?user=nmgE5hkAAAAJ&hl=en&authuser=2"
+  linkedin         : "yzhang952"
+  researchgate     : #"https://www.researchgate.net/profile/Yan-Zhang-141"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  orcid            : #"https://orcid.org/0000-0003-0719-5456"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
+
+=======
+>>>>>>> 8d09856f19c27bdc3bfefc859a848e431e6f96a9
 # Reading Files
 include:
   - .htaccess
@@ -182,6 +239,7 @@ exclude:
   - README
   - tmp
   - vendor
+#  - assets 
 keep_files:
   - .git
   - .svn
