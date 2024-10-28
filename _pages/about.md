@@ -42,7 +42,7 @@ redirect_from:
         </div>
     </details>
 
-3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>)
+3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>) - Edward's JMP
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
