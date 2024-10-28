@@ -32,7 +32,7 @@ Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 * <b>Continuous Temporal Domain Generalization</b>.<br>
 Zekun Cai, <b>Guangji Bai</b>, Renhe Jiang, Xuan Song, Liang Zhao.<br>
 <i>The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)</i>.<br>
-[[paper](https://arxiv.org/abs/2405.16075)]<br>
+[[paper](https://arxiv.org/abs/2405.16075)][[code](https://github.com/Zekun-Cai/Koodos)]<br>
 
 * <b>Prompt-based Domain Discrimination for Multi-source Time Series Domain Adaptation</b>.<br>
 Junxiang Wang\*, <b>Guangji Bai</b>\*, Wei Cheng, Zhengzhang Chen, Liang Zhao, Haifeng Chen.<br>
