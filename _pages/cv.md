@@ -17,13 +17,22 @@ Education
 * M.S. in Physics, Università degli Studi di Milano, 2020
 * B.S. in Physics, Università degli Studi di Milano, 2017
 
+Schools
+======
+* July 2024 Cargese Summer School and Workshop - Complex and Glassy Systems
+* June 2023 The Beg Rohu Summer School - Statistical Physics of Complex Systems
+* July 2022 Summer Graduate School Cortona - Mathematics of Machine Learning
+* July 2022 Advanced Statistics and Probability - Bocconi University at Lake Como - Random structures and combinatorial statistics
+* July 2020 Deep Learning: a hands on introduction - University of Genova
 
 Work experience
 ======
 * Jan 2021-Sep 2021: Machine Learning and Artificial Intelligence Analyst, Jakala
-* Teaching Assistant: General Mathematics, a.y. 2022-2023, Università Bocconi 
-  
-  
+* Teaching Assistant: Università Bocconi
+    * Computer Science 1, a.y. 20204
+    * General Mathematics, a.y. 2022-2024
+    * Statistics, a.y. 2023
+    
 Skills
 ======
 * Programming Languages: Python, Julia, C++
