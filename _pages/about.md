@@ -72,6 +72,9 @@ IEICE Speech Committee / 電子情報通信学会 音声研究会
 - Mar. 2023 -<br>
 **CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
 Researching on speech processing.
+- Jul. 2024 - Sep. 2024<br>
+**RIKEN Guardian Robot Project / 理研ガーディアンロボットプロジェクト**, Research Internship<br>
+Researched at Knowledge Acquisition and Dialogue Research Team.
 - Aug. 2023 - Sep. 2023<br>
 **NTT Human Informatics Laboratories / NTT人間情報研究所**, Research Internship<br>
 Researched on speaking style captioning.
@@ -80,10 +83,10 @@ Researched on speaking style captioning.
 Worked on natural language processing and developed web application.
 
 
-<!-- ## Volunteer Works:
+## Volunteer Works:
 
-- Apr. 2024 - <br>
-**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 会員**  -->
+- Oct. 2024 - <br>
+**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員** 
 
 
 ## Other Experiences
