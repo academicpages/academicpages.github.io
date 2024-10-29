@@ -29,7 +29,7 @@ IEEE Spoken Language Technology Workshop (**IEEE SLT**), Dec. 2024. (Accepted)<b
 
 
 -  **<u>Kazuki Yamauchi</u>**, Yusuke Ijima, and Yuki Saito<br>
-**StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-supervised Learning Models**<br>
+**StyleCap: Automatic Speaking-Style Captioning from Speech Based on Speech and Language Self-Supervised Learning Models**<br>
 IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE ICASSP**), Apr. 2024. \[Poster presentation\]<br>
 \[[arXiv](https://arxiv.org/abs/2311.16509)\] \[[demo](https://ntt-hilab-gensp.github.io/icassp2024stylecap/)\] \[[poster](/files/yamauchi24icassp_poster.pdf)\]
 
