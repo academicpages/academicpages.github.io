@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[link to full CV](https://beatriceachilli.github.io/files/Curriculum_Vitae_Achilli.pdf)
+[link to full CV](https://beatriceachilli.github.io/files/Curriculum_Vitae.pdf)
 
 Education
 ======
