@@ -35,7 +35,7 @@ Also, through it, I aim to the development of human-friendly speech agents that 
 
 ## Education
 
-- Apr. 2023 - Mar. 2025<br>
+- Apr. 2023 - Present<br>
 **Master’s Degree in Information Science and Technology**, the University of Tokyo, Japan<br>
 Department of Creative Informatics, Graduate School of Information Science and Technology<br>
 (東京大学 大学院情報理工学系研究科 創造情報学専攻)
@@ -69,7 +69,7 @@ IEICE Speech Committee / 電子情報通信学会 音声研究会
 
 ## Research and Work Experiences
 
-- Mar. 2023 -<br>
+- Mar. 2023 - Present<br>
 **CoeFont Co.,Ltd. / 株式会社CoeFont**, Part-Time AI Researcher<br>
 Researching on speech processing.
 - Jul. 2024 - Sep. 2024<br>
@@ -85,7 +85,7 @@ Worked on natural language processing and developed web application.
 
 ## Volunteer Works:
 
-- Oct. 2024 - <br>
+- Oct. 2024 - Present<br>
 **Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員** 
 
 
