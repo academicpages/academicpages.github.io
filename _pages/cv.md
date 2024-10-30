@@ -16,9 +16,8 @@ Education
   * Report, [A Study on the Optimization of Video Person Re-Identification](https://github.com/shockjiang/public-data/blob/main/doc/video-reid_postdoc_ppt.pdf)
 
 * Aug. 2010 - Jun. 2016, Ph.D., Tsinghua University, Department of Computer Science & Technology
-  - Excellent Graduate of CS Department
+  - Excellent Graduate of CS Department: I published 17 peer-reviewed papers in the field of computer networking during my Ph.D. program, and 9 of them are first author papers. I also contribute to important scientific projects, including 863 projects, etc.
   - Thesis: [Research on the Key Issues of Usability of Named Data Networking](https://github.com/shockjiang/public-data/blob/main/doc/ndn-usability_phd.pdf), supervised by [Prof. Jun Bi](https://scholar.google.com/citations?user=9c8plF0AAAAJ&hl=en)
-  - I published XXX papers in the field of computer networking, XXX patents
 
 * Sep. 2006 - Jun. 2010, B.S.,Tsinghua University, School of Software.
   - Thesis: [Research on the Evolution of IPv6](https://github.com/shockjiang/public-data/blob/main/doc/ipv6-evolution_bachelor.pdf), supervised by [Prof. Jun Bi](http://netarchlab.tsinghua.edu.cn/~junbi/) and [Prof. Fei He](https://www.thss.tsinghua.edu.cn/info/1057/1237.htm)
@@ -73,3 +72,6 @@ Hobbies:
 =======
 * Badminton
 * Hiking
+* Programming to solve real-world problems
+* Reading Novels for relaxation and imagination
+* Philosophy to explore the nature of the world and meaning of life
