@@ -4,8 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
-## $\color{olive}{Working \space Papers}$ 
+### $\color{olive}{Working \space Papers}$ 
 
 - <a href="/files/AliceWu_JMP.pdf" style="color:black" target="_blank"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a>   <br/>
 <a href="#/" onclick="visib('jmp')">Abstract</a> \| <a href="/files/AliceWu_JMP.pdf" target="_blank">Job Market Paper</a>
@@ -18,7 +17,7 @@ The efficient allocation of labor relies on the identification of talent. When e
 This paper investigates the role of firms in discovering new inventors who apply for a patent for the first time. Using employer-employee data from the Italian Social Security Institute matched with patent applications from 1987 to 2009, we identify more than one hundred thousand <em>potential</em> inventors, who either apply for a patent on the job or are predicted to ever invent based on observable characteristics. We find substantial heterogeneity in the discovery of new inventors across firms. Younger potential inventors are much less likely to start applying for patents at a lower-wage firm. The gap between low-wage and high-wage firms in patenting disappears, however, among established inventors with prior patent applications. Further, there is on average a 3-8 log point increase in the annual wage when a worker files her first patent application. We interpret the empirical findings through a model that combines employer learning with incentive contract. When firm investment and worker effort are substitutable, less productive firms would rely more on wage incentive to increase innovation, consistent with our finding that lower-wage firms set a higher wage return to patenting despite limited job mobility among inventors.  </div>
 
 
-## $\color{olive}{Publications}$ 
+### $\color{olive}{Publications}$ 
 - <a href="/files/wu_ejr_restat.pdf" style="color:black" target="_blank">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020. <br/>
 <a href="#/" onclick="visib('ejr')">Abstract</a> \| <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLEBHI" target="_blank">Replication</a> 
 <div id='ejr' style="display: none; text-align: justify; line-height: 1.2" >
@@ -28,11 +27,10 @@ This paper measures gender bias in what people say about women versus men in an 
 - <a href="/files/gendered_language_2018.pdf" style="color:black" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. <br/>
 <a href="#/" onclick="visib('ejr0')">Abstract</a> \| <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20181101" target="_blank">Replication</a>  
 <div id='ejr0' style="display: none; text-align: justify; line-height: 1.2" >
-This paper examines the existence of an unwelcoming or stereotypical culture using evidence on how women and men are portrayed in anonymous discussions on the Economics Job Market Rumors forum (EJMR). I use a Lasso-Logistic model to measure gendered language in EJMR postings, identifying the words that are most strongly associated with discussions about one gender or the other. I find that the words most predictive of a post about a woman are typically about physical appearance or personal information, whereas those most predictive of a post about a man tend to focus on academic or professional characteristics. 
-</div>
+This paper examines the existence of an unwelcoming or stereotypical culture using evidence on how women and men are portrayed in anonymous discussions on the Economics Job Market Rumors forum (EJMR). I use a Lasso-Logistic model to measure gendered language in EJMR postings, identifying the words that are most strongly associated with discussions about one gender or the other. I find that the words most predictive of a post about a woman are typically about physical appearance or personal information, whereas those most predictive of a post about a man tend to focus on academic or professional characteristics. </div>
 
 
-## $\color{olive}{Selected \space Work \space in \space Progress}$ 
+### $\color{olive}{Selected \space Work \space in \space Progress}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" target="_blank">Jacob Weber</a>)  
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
@@ -47,6 +45,15 @@ We use the texts of legal complaints from trade secret litigation to study how f
 -->
 
 
+
+### $\color{olive}{Resting \space Papers}$
+- <a href="/files/social_skills.pdf" style="color:black" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/>
+<a href="#/" onclick="visib('social')">Abstract</a> 
+<div id='social style="display: none; text-align: justify; line-height: 1.2" >
+This paper documents gender differences in life-cycle returns to social skills and math skills in the labor market. Using the National Longitudinal Survey of Youth 1979 data, I test for whether women and men sort into occupations that match with their pre-market skills, and whether there are increasing returns to skills as employers learn about workers’ abilities over time. Workers with higher social skills choose occupations that put higher emphasis on job interactions, but this sorting effect is stronger for men than for women and the gap is widening over the life-cycle. Math skills are also positively correlated with social characteristics of an occupation such as leadership activities, and there is a significant gender gap in sorting by math skills. I then follow the employer learning literature to estimate the returns to each skill and the growth of returns with experience. Returns to social skills and math skills grow at a faster rate for men than for women, suggesting differential speed of employer learning. However, the initial of return to a female worker’s math skills is significantly higher such that on average women enjoy higher returns to math skills in the first 10-15 years of their career. These findings reflect gender differences in both workers’ occupational sorting and employers’ belief updating process, and suggest a higher return to investing in skills that counter beliefs about gender stereotypes. </div>
+
+
+ 
 <!-- note: function below was copied from ranzhuo17's research.md  -->
 [//]: This java script is the button to show abstract 
 <script>
