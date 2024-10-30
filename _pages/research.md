@@ -47,9 +47,8 @@ We use the texts of legal complaints from trade secret litigation to study how f
 
 
 ### $\color{olive}{Resting \space Papers}$
-- <a href="/files/social_skills.pdf" style="color:black" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/>
-<a href="#/" onclick="visib('social')">Abstract</a> 
-<div id='social style="display: none; text-align: justify; line-height: 1.2" >
+- <a href="/files/social_skills.pdf" style="color:black" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/>  <a href="#/" onclick="visib('social')">Abstract</a> 
+<div id='social' style="display: none; text-align: justify; line-height: 1.2" >
 This paper documents gender differences in life-cycle returns to social skills and math skills in the labor market. Using the National Longitudinal Survey of Youth 1979 data, I test for whether women and men sort into occupations that match with their pre-market skills, and whether there are increasing returns to skills as employers learn about workers’ abilities over time. Workers with higher social skills choose occupations that put higher emphasis on job interactions, but this sorting effect is stronger for men than for women and the gap is widening over the life-cycle. Math skills are also positively correlated with social characteristics of an occupation such as leadership activities, and there is a significant gender gap in sorting by math skills. I then follow the employer learning literature to estimate the returns to each skill and the growth of returns with experience. Returns to social skills and math skills grow at a faster rate for men than for women, suggesting differential speed of employer learning. However, the initial of return to a female worker’s math skills is significantly higher such that on average women enjoy higher returns to math skills in the first 10-15 years of their career. These findings reflect gender differences in both workers’ occupational sorting and employers’ belief updating process, and suggest a higher return to investing in skills that counter beliefs about gender stereotypes. </div>
 
 
