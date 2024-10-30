@@ -4,15 +4,20 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+### 2025
+- **PODS 2025** Clustering with Comparison and Distance Oracles. _Sainyam Galhotra, Rahul RayChaudhary, Stavros Sintos_.
 ### 2024
 - **SIGMOD 2024**  Nexus: Correlation Discovery over Collections of Spatio-Temporal Tabular Data. _Yue Gong, Sainyam Galhotra, and Raul Castro Fernandez_. 
 - **SIGMOD 2024** Faster Algorithms for Fair Max-Min Diversification in R^d. _Yash Kurkure, Miles Shamo, Joseph Wiseman, Sainyam Galhotra, and Stavros Sintos_. 
+- **SIGMOD 2024** Demonstration of Ver: View Discovery in the Wild. _Kevin Dharmawan, Chirag A. Kawediya, Yue Gong, Zaki Indra Yudhistira, Zhiru Zhu, Sainyam Galhotra, Adila Alfa Krisnadhi, Raul Castro Fernandez_.
 - **SIGMOD 2024** ThalamusDB: Approximate Query Processing on Multi-Modal Data. _Saehan Jo, Immanuel Trummer_.
 - **SIGMOD 2024** ROME: Robust Query Optimization via Parallel Multi-Plan Execution. _Ziyun Wei, Immanuel Trummer_.
 - **SIGMOD 2024** Demonstrating λ-Tune: Exploiting Large Language Models for Workload-Adaptive Database System Tuning. _Victor Giannakouris, Immanuel Trummer_.
 - **ICDE 2024** Tutorial on Large Language Models: Principles and Practice. _Immanuel Trummer_.
 - **VLDB 2024** Quantum-Inspired Digital Annealing for Join Ordering. _Manuel Schönberger, Immanuel Trummer, Wolfgang Mauerer_.  
+- **VLDB 2024**  Fainder: A Fast and Accurate Index for Distribution-Aware Dataset Search. _Lennart Behme, Sainyam Galhotra, Kaustubh Beedkar, Volker Markl_. 
+- **Neurips 2024** Intervention and Conditioning in Causal Bayesian Networks. _Sainyam Galhotra, Joseph Y. Halpern_.
+
 [[Paper](https://lfdr.de/Publications/2023/ScTrMa_TR.pdf)]
 - **VLDB 2024** Generating Succinct Descriptions of Database Schemata for Cost-Efficient Prompting of Large Language Models. _Immanuel Trummer_.
 - **VLDB 2024** Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes. _Simran Arora, Brandon Yang, Sabri Eyuboglu, Avanika Narayan, Andrew Hojel, Immanuel Trummer, Christopher Re_.  
