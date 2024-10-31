@@ -18,7 +18,7 @@
 - Shanshan Shi, Jun Li, Haibo Wu, Yongmao Ren, **Xiaoke Jiang**, ATSRA: An Accelerated Transmission Strategy Based on Request Aggregation in NDN, INFOCOM 2019 (poster).
 
 2018:
-- Hongwei Ma, **Xiaoke Jiang**, Rui Ma, Zhiyou Ma, Yizhen Cai, and Dah Ming Chiu, "Smart Streaming of Panoramic Video," ACM SIGCOMM 2018 Morning Workshop on Virtual Reality and Augmented Reality Network, August 2018.
+- Hongwei Ma, **Xiaoke Jiang**, Rui Ma, Zhiyou Ma, Yizhen Cai, and Dah Ming Chiu, "Smart Streaming of Panoramic Video", ACM SIGCOMM 2018 Morning Workshop on Virtual Reality and Augmented Reality Network, August 2018.
 - Yi Zhang, **Xiaoke Jiang**, Yi Wang, Kai Lei, "Cache and delivery of VR video over named data networking," IEEE INFOCOM Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2018.
 
 2017: 

@@ -42,19 +42,19 @@ Work experience
     * paper: [UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction](https://kenkunliu.github.io/UniG/)
   * Inertial Navigation and Integrated Localization (IMU + GPS + wheel odom)
 
-* 2018 - 2022, [SenseTime](https://www.sensetime.com/), Senior Researcher, to cope with challenges in the AI-based manifuactor, I have worked on the following topics:
+* 2018 - 2022, [SenseTime](https://www.sensetime.com/), Senior Researcher. I was awarded the "Excellent Employee of SenseTime" in 2019. To cope with challenges in the AI-based manifuactor, I worked on the following topics:
   * Defect Detection
-    * Advance Imaging technology: [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179)
+    * Structured Light Imaging
+      * Optics and Lasers in Engineering (2023) paper, [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179)
     * Defect Detection in Automobile Smart Manufacturing
   * 6D pose estimation for robotic manipulation
-    * CVPR 2022(oral), [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
+    * CVPR 2022(oral) paper, [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
   * AI automiation in Transportation System
-    * patent: 
 
-* 2016 - 2018, [Kandao technology](https://www.kandaovr.com/)
-  * VR Video Delivery and Distribution
-  * VR Video Streaming 
-  
+* 2016 - 2018, [Kandao technology](https://www.kandaovr.com/), Senior Engineer. I was awarded the "Excellent Employee of Kandao" in 2017, and worked on the following topics:
+  * VR Video Streaming Optimization
+    * SIGCOMM'18 VR Workshop paper: [Smart Streaming of Panoramic Video](https://dl.acm.org/doi/pdf/10.1145/3229625.3229628)
+  * VR Video Content Delivery and Distribution (CDN) System
 Skills
 ======
 * Mathematics
