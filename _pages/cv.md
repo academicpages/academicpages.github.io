@@ -37,6 +37,7 @@ Work experience
 * 2022 - now, [IDEA](https://www.idea.edu.cn/research/cvr.html), Senior CV Researcher
   * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model. 
     * [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
+    * [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
     * patent: waiting for release
   * Keypoint detection, waiting for release
   * 3D reconstruction and Novel View Synthesis:
