@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Megan Masterson"
 title_separator          : "-"
 name                     : &name "Megan Masterson"
-description              : &description "4th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
+description              : &description "5th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
 url                      : https://memasterson.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "memasterson/memasterson.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Megan Masterson"
   avatar           : "IMG_4479_Original.jpg"
-  bio              : "4th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
+  bio              : "5th Year PhD Candidate @ MIT Kavli Institute for Astrophysics and Space Research"
   location         : "Cambridge, MA"
   employer         : 
   pubmed           : 
