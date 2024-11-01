@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 
 <b>[Colorism revisited: the effects of skin color on educational and labor market outcomes in the United States](http://mebucca.github.io/research/skincolor)</b><br>
-<b>Mauricio Bucca</b>,  <i>Sociological Science</i>, 2024. 
+<b>Mauricio Bucca</b>.  <i>Sociological Science</i>, 2024. 
 
 
 <b>[Intergenerational Social Mobility Among the
@@ -18,7 +18,12 @@ Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and
 
 
 <b>[Are within-racial group inequalities by skin color *really* greater than inequalities between racial groups in the United States?](http://mebucca.github.io/research/viz_skin)</b><br>
-<b>Mauricio Bucca</b>, <i>Socius</i>, 2024. 
+<b>Mauricio Bucca</b>. <i>Socius</i>, 2024. 
+
+
+<b>[Marrying across Borders in Latin America: Visualizing Intermarriage Flows](http://mebucca.github.io/research/viz_marriageLA)</b><br>
+Adriana Robles, Luca Maria Pesando, Alejandra Abufhele, <b>Mauricio Bucca</b>, Daniela Urbina. <i>Socius</i>, 2024. 
+
 
 <b>[Lasso regularization for selection of log-linear models: an application to educational assortative mating](http://mebucca.github.io/research/lassollm)</b><br>
 <b>Mauricio Bucca</b>, Daniela Urbina. <i>Sociological Methods and Research</i>, 2021. 2019 Clifford Clogg Best Paper award from the ASA's section on Methodology

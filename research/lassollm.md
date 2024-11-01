@@ -4,8 +4,8 @@ collection: research
 permalink: /research/lassollm
 date: 2019-01-01
 venue: 'Sociological Methods and Research'
-citation: '<b>Mauricio Bucca</b>, Daniela Urbina. &quot;Lasso regularization for selection of log-linear models: an application to educational assortative mating.&quot; <i>Sociological Methods and Research</i>. Forthcoming.'
 ---
+
 [[Paper]](https://doi.org/10.1177/0049124119826154) [[Vignette]](https://mebucca.github.io/files/notebooks/Lasso_llm.nb.html)
 
 <i>2019 Clifford Clogg Best Paper award from the ASA's section on Methodology<i>

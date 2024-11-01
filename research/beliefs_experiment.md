@@ -2,7 +2,6 @@
 title: "It’s not just how the game is played, it’s whether you win or lose"
 collection: research
 permalink: /research/beliefs_experiment
-citation: 'Mario Molina, <b>Mauricio Bucca</b>, Michael Macy. <i>Science Advances</i>.'
 ---
 
 [[Paper]](https://advances.sciencemag.org/content/5/7/eaau1156)

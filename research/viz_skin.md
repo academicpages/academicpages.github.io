@@ -2,8 +2,9 @@
 title: "Are within-racial group inequalities by skin color really greater than inequalities between racial groups in the United States?"
 collection: research
 permalink: /research/viz_skin
-citation: '<b>Mauricio Bucca</b>.'
+venue: 'Socius'
 ---
+
 [[PDF]](https://journals.sagepub.com/doi/epub/10.1177/23780231241259656)
 
 

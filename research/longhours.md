@@ -5,8 +5,8 @@ permalink: /research/longhours
 date: 2016-08-01
 venue: 'Russell Sage Foundation Journal of the Social Sciences'
 paperurl: 'https://muse.jhu.edu/article/630321'
-citation: 'Youngjoo Cha, Kim, Weeden, <b>Mauricio Bucca</b> (2016). &quot;Long Work Hours, Part-time Work, and trends in the Gender Gap in Pay, the Motherhood Wage Penalty, and the Fatherhood Wage Premium.&quot; <i>RSF: The Russell Sage Foundation Journal of the Social Sciences</i>. 2(4), 71–102.'
 ---
+
 [[PDF]](https://mebucca.github.io/files/papers/longhours.pdf)
 
 Media Coverage: [[New York Times]](https://mebucca.github.io/files/papers/longhours_nyt.pdf)

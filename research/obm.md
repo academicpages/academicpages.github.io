@@ -2,7 +2,6 @@
 title: "Once in a Blue Moon: Barriers to Intermarriage among Second-Generation Muslims in France"
 collection: research
 permalink: /research/obm
-citation: Lucas Drouhot, <b>Mauricio Bucca</b>,
 ---
 
 

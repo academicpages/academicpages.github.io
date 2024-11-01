@@ -2,7 +2,6 @@
 title: "Black-White differences in intergenerational mobility in the US: evidence from heterogeneity in sibling correlation"
 collection: research
 permalink: /research/bw_sc
-citation: '<b>Mauricio Bucca</b>.'
 ---
 [[PDF]](https://mebucca.github.io/files/papers/mobbw.pdf)
 

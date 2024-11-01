@@ -5,7 +5,6 @@ permalink: /research/beliefs
 date: 2016-06-01
 venue: 'Research in Social Stratification and Mobility'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0276562416300130'
-citation: '<b>Mauricio Bucca</b> (2016). &quot;Merit and Blame in Unequal Societies: Explaining Latin Americans Beliefs about Wealth and Poverty.&quot; <i>Research in Social Stratification and Mobility</i>. 44, 98-112.'
 ---
 [[PDF]](https://mebucca.github.io/files/papers/beliefs.pdf)
 

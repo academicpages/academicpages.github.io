@@ -2,7 +2,6 @@
 title: "Educational assortative marriage and income inequality among Black and White families in the US, 1976-2017"
 collection: research
 permalink: /research/eam_us
-citation: '<b>Mauricio Bucca</b>.'
 ---
 [[PDF]](https://mebucca.github.io/files/papers/aemusa.pdf)
 
