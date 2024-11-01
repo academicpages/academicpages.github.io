@@ -2,8 +2,10 @@
 title: "Colorism revisited: the effects of skin color on educational and labor market outcomes in the United States"
 collection: research
 permalink: /research/skincolor
-citation: '<b>Mauricio Bucca</b>.'
+venue: 'Sociological Science'
+
 ---
+
 [[PDF]](https://sociologicalscience.com/download/vol_11/june/SocSci_v11_517to552.pdf)
 
 

@@ -3,8 +3,9 @@ title: "Intergenerational Social Mobility Among the
 Children of Immigrants in Western Europe: Between Socioeconomic Assimilation and Disadvantage"
 collection: research
 permalink: /research/sm2geu
-citation: '<b>Mauricio Bucca</b>, Lucas Drouhot.'
+venue: 'Sociological Science'
 ---
+
 [[PDF]](https://sociologicalscience.com/download/vol_11/june/SocSci_v11_489to516.pdf)
 
 ## Abstract
