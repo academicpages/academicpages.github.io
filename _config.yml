@@ -8,10 +8,15 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Navya Battula's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Navya Battula"
+description              : &description "Highly motivated and skilled AI Engineer with over an year of experience in developing and deploying
+Generative AI and Deep learning models. Demonstrated expertise in using cutting-edge AI tools and frameworks
+to build robust, scalable solutions. Proficient in a wide range of technologies including PySpark, Hadoop,
+PostgreSQL, TensorFlow, PyTorch, Open CV and more. Proven track record of success through hands-on
+projects and internships, with significant contributions in Computer Vision, Machine Learning, ChatBots and AI-driven
+document management systems. Published researcher with a strong foundation in both theoretical and applied AI."
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +27,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Navya Battula"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Highly motivated and skilled AI Engineer with over an year of experience in developing and deploying
+Generative AI and Deep learning models. Demonstrated expertise in using cutting-edge AI tools and frameworks
+to build robust, scalable solutions. Proficient in a wide range of technologies including PySpark, Hadoop,
+PostgreSQL, TensorFlow, PyTorch, Open CV and more. Proven track record of success through hands-on
+projects and internships, with significant contributions in Computer Vision, Machine Learning, ChatBots and AI-driven
+document management systems. Published researcher with a strong foundation in both theoretical and applied AI."
+  location         : "Seattle, WA"
+  employer         : "OQ Point LLC"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "navyabio12@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +54,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "navyabattula"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -58,7 +68,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Username "navya-battula-27b5861a2"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
