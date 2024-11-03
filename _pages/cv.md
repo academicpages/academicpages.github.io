@@ -11,7 +11,7 @@ redirect_from:
 
 Curriculum Vitae
 ======
-You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/files/Curriculum_Vitae_0505.pdf).
+You can download a PDF version of my CV [here](https://zhenghua-qi.github.io/files/Curriculum Vitae_1103.pdf).
 
 ---
 
@@ -25,20 +25,32 @@ Education
 
 Research
 ======
-## Working Papers
-  <ul>{% for post in site.working_papers %}
-    {% include archive-single-publi-cv.html %}
-  {% endfor %}</ul>
+
+- **[Job Market Paper]** Bank Loan Reliance and Inflation Inattention, with Tiziano Ropele
+- Endogenous Firm Entry and the Supply-Side Effects of Monetary Policy, with Marc Dordal i Carreras and Seung Joo Lee
+- Diagnostic Expectations in Housing Price Dynamics, with Byoungchan Lee
+- The Scarring Effects of Initial Conditions on Firms, work in progress
+
+---
+
+Professional Experience
+=====
+
+**Research**
+- Research Assistant for Prof. Byoungchan Less, 2021 - 2022
+- Research Assistant for Prof. Marc Dordal i Carreras, 2024 - present
+  
+**Teaching**
+- Teaching Assistant, Department of Economics, 2019 - 2024 <br>Macroeconomics, Money and Banking, The Economics of Entrepreneurship and Innovation, Microeconomic Analysis
 
 ---
 
 Awards
 ======
-- Oversea Research Award from HKUST (Jun 2023)
-- Dean’s Postgraduate Scholarship from HKUST (Apr 2023)
-- Postgraduate Studentship from the HKUST (Aug 2019)
-- Fully Sponsored by the China Scholarship Council for Postgraduate Study (May 2018)
-- China National Scholarship for Undergraduate Students (Nov 2015)
+- Oversea Research Award from HKUST, Jun 2023
+- Dean’s Postgraduate Scholarship from HKUST, Apr 2023
+- Postgraduate Studentship from the HKUST, 2019 - present
+- China National Scholarship for Undergraduate Students, Nov 2015
 
 ---
 
@@ -46,7 +58,7 @@ Skills
 ======
 - **Technical Skills**: MATLAB, R, Stata, SPSS, EViews
 - **Languages**: English (fluent), Mandarin (native)
-- **Student Work**: HKUST UG Hall 9 Tutor (2021-2023)
+- **Student Work**: HKUST Undergraduate Hall 9 Tutor (2021-2023)
 
 
 <!-- Work experience

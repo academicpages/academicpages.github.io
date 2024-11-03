@@ -193,6 +193,9 @@ collections:
   working_papers:
     output: true
     permalink: /:collection/:path/
+  works_in_progress:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -262,6 +265,14 @@ defaults:
   - scope:
       path: ""
       type: working_papers
+    values:
+      layout: single-publi
+      author_profile: true
+      share: true
+  # _works_in_progress
+  - scope:
+      path: ""
+      type: works_in_progress
     values:
       layout: single-publi
       author_profile: true

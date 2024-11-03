@@ -15,3 +15,12 @@ author_profile: true
   </li>
 {% endfor %}
 </ol>
+
+<h2>In Progress</h2>
+<ol style="padding-left: 20px;">
+{% for post in site.works_in_progress reversed %}
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
+    {% include archive-single-publi.html %}
+  </li>
+{% endfor %}
+</ol>

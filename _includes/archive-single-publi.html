@@ -52,6 +52,10 @@
       <p>Revise and Resubmit for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'submitted' %}
       <p><i>Submitted</i> </p>
+    {% elsif post.status2 == 'jmp' %}
+      <p><i>Job Market Paper</i> </p>
+    {% elsif post.status2 == 'in_progress' %}
+      <p><i>In Progress</i> </p>
     {% elsif post.collection == 'published_papers' %}
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'policy_papers' %}
@@ -87,6 +91,9 @@
   {% endif %}
   {% if post.wppaperurl %}
     [<a href="{{ post.wppaperurl }}">Draft</a>]
+  {% endif %}
+  {% if post.wppaperurl_mphil %}
+    [<a href="{{ post.wppaperurl_mphil }}">Draft (MPhil Thesis Version)</a>]
   {% endif %}
   {% if post.slidesurl %}
     [<a href="{{ post.slidesurl }}">Slides</a>]
