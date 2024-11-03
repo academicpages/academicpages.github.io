@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "Profile.png"
   name             : "Fizzy Fan"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Any"
+  bio              : "Research Engineer II at Georgia Institute of Technology | Fellow at ICICLE: Intelligent Cyberinfrastructure with Computational Learning in the Environment | Post-doctoral Fellow at IC-Foods"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=LH4SuTEAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
