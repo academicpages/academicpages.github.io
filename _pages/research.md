@@ -30,7 +30,7 @@ This paper measures gender bias in what people say about women versus men in an 
 This paper examines the existence of an unwelcoming or stereotypical culture using evidence on how women and men are portrayed in anonymous discussions on the Economics Job Market Rumors forum (EJMR). I use a Lasso-Logistic model to measure gendered language in EJMR postings, identifying the words that are most strongly associated with discussions about one gender or the other. I find that the words most predictive of a post about a woman are typically about physical appearance or personal information, whereas those most predictive of a post about a man tend to focus on academic or professional characteristics. </div>
 
 
-### $\color{olive}{Selected \space Work \space in \space Progress}$ 
+### $\color{olive}{Selected \space Works \space in \space Progress}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" target="_blank">Jacob Weber</a>)  
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
