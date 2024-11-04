@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aditya Mittal / Site Title"
+title                    : "Aditya Mittal / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aditya Mittal"
 description              : &description "personal description"
 url                      : https://adimittal03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "adimittal03/adimittal03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Aditya Mittal"
+  pronouns         : he/him  
+  bio              : "Statistics Major/Mathematics Minor at UC Davis"
+  location         : "Davis, California"
+  employer         : "University of California, Davis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "adimittal@ucdavis.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,12 +44,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "adimittal03"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
