@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marta Monelli"
 title_separator          : "-"
 name                     : &name "Marta Monelli"
-description              : &description "PhD student at Max Planck institute for Astrophysics"
+description              : &description "Postdoc at Kavli IPMU"
 url                      : https://martamonelli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Marta Monelli"
   avatar           : "profile.png"
-  bio              : "PhD student at Max Planck institute for Astrophysics"
-  location         : "Garching, Germany"
+  bio              : "Postdoc at Kavli IPMU"
+  location         : "Kashiwanoha, Japan"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "monelli [at] mpa-garching.mpg.de"
+  email            : "marta.monelli [at] ipmu.jp"
   researchgate     : #"https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
