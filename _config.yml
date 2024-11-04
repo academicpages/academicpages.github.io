@@ -21,7 +21,7 @@ repository               : "fizzy-fan/fizzy-fan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile.png"
+  avatar           : "Photo.jpg"
   name             : "Fizzy Fan"
   pronouns         : "Any"
   bio              : "Research Engineer II at Georgia Institute of Technology | Fellow at ICICLE: Intelligent Cyberinfrastructure with Computational Learning in the Environment | Post-doctoral Fellow at IC-Foods"
