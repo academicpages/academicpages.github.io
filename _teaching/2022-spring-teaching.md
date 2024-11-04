@@ -1,5 +1,5 @@
 ---
-title: "ECONS 321: Economics of Sports in America (Online) [Spring 2022]"
+title: "ECONS 321: Economics of Sports in America (In Person) [Spring 2022]"
 collection: teaching
 type: "Primary Instructor"
 venue: "Washington State University"

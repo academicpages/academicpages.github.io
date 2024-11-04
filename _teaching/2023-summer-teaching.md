@@ -1,5 +1,5 @@
 ---
-title: "ECONS 102: Fundamentals of Macroeconomics [Summer 2023]"
+title: "ECONS 102: Fundamentals of Macroeconomics (Online) [Summer 2023]"
 collection: teaching
 type: "Primary Instructor"
 venue: "Washington State University"
