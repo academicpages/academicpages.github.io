@@ -11,10 +11,11 @@ I am a research professor in the Department of Information Security at Sejong Un
 
 International Journal
 ======
-* [J4] Joo-Young Roh*, Sang-Hoon Choi*, Ki-Woong Park†, "OOSP: Opportunistic Optimization Scheme for Pod Deployment Enhanced with Multilayered Sensing," Sensors, Vol. 24, Issue 19, Sep 2024.
-* [J3] Sang-Hoon Choi*, Ki-Woong Park†, "iContainer: Consecutive checkpointing with rapid resilience for immortal container-based services," Journal of Network and Computer Applications, Vol. 208, Dec 2022.
-* [J2] Sang-Hoon Choi*, Ki-Woong Park†, "Cloud-BlackBox: Toward practical recording and tracking of VM swarms for multifaceted cloud inspection," Future Generation Computer Systems, Vol. 137, Dec 2022, pp. 219-233.
-* [J1] Yongjun Lee*, Hyun Kwon, Sang-Hoon Choi, Seung-Ho Lim, Sung Hoon Baek, Ki-Woong Park†, "Instruction2vec: Efficient Preprocessor of Assembly Code to Detect Software Weakness with CNN," Applied Sciences, Vol. 9, No. 19, 2019.
+* [J4] Joo-Young Roh*, Sang-Hoon Choi*, Ki-Woong Park†, "OOSP: Opportunistic Optimization Scheme for Pod Deployment Enhanced with Multilayered Sensing," Sensors, Vol. 24, Issue 19, Sep 2024. (SCI, Impact Factor: 3.4)
+* [J3] Sang-Hoon Choi*, Ki-Woong Park†, "iContainer: Consecutive checkpointing with rapid resilience for immortal container-based services," Journal of Network and Computer Applications, Vol. 208, Dec 2022. (SCI, Impact Factor: 7.547)
+* [J2] Sang-Hoon Choi*, Ki-Woong Park†, "Cloud-BlackBox: Toward practical recording and tracking of VM swarms for multifaceted cloud inspection," Future Generation Computer Systems, Vol. 137, Dec 2022, pp. 219-233. (SCI, Impact Factor: 7.307)
+* [J1] Yongjun Lee*, Hyun Kwon, Sang-Hoon Choi, Seung-Ho Lim, Sung Hoon Baek, Ki-Woong Park†, "Instruction2vec: Efficient Preprocessor of Assembly Code to Detect Software Weakness with CNN," Applied Sciences, Vol. 9, No. 19, 2019. (SCI, Impact Factor: 7.307)
+(SCIE, Impact Factor: 2.707)
 
 International Conference
 ======
