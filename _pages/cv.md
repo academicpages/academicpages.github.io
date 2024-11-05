@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research professor in the Department of Information Security at Sejong University and a member of the SysCore Lab. I obtained my Ph.D. from Sejong University in 2023. My research interests include system security, cloud security, and AI security.
+I am a research professor in the Department of Information Security at Sejong University and a member of SysCore Lab. I completed my Ph.D. at Sejong University in 2023, focusing on innovative approaches to securing complex systems. My primary research interests include system security, cloud security, and the rapidly evolving field of AI-related threats and defenses. With a strong focus on documenting and analyzing systems in depth, I am currently developing advanced methodologies for identifying and mitigating AI-driven vulnerabilities, especially in cloud environments. My current work centers on integrating established research outcomes with AI to create resilient, future-ready defense mechanisms against emerging cybersecurity threats.
 
 International Journal
 ======
