@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "Photo.jpg"
   name             : "Fizzy Fan"
-  pronouns         : "Any"
+  pronouns         : "Pronouns: Any"
   bio              : "Research Engineer II at Georgia Institute of Technology | Fellow at ICICLE: Intelligent Cyberinfrastructure with Computational Learning in the Environment | Post-doctoral Fellow at IC-Foods"
   location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "fizzyfan"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
