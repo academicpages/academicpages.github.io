@@ -1,5 +1,5 @@
 ---
-title: "Economic development forecasting using news at the regional level in Peru"
+title: "Measuring poverty and human development through news in Peru"
 excerpt: "With Javier Beverinotti"
 collection: research
 ---

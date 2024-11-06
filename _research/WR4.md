@@ -1,5 +1,5 @@
 ---
-title: "Pension coverage in Chile, Colombia and Peru: Demography, migration and labor"
+title: "Contributory Pension Coverage in Chile, Colombia, and Peru"
 excerpt: "With María Amparo Cruz-Saco, Mirian Gil & Favio Leiva"
 collection: research
 ---

@@ -1,5 +1,5 @@
 ---
-title: "COVID-19 and residential choices in Peru"
+title: "COVID-19 and internal migration patterns in Peru"
 excerpt: "Advisory committees: Delia Furtado (Primary Advisor), Charles Venator Santiago, Debarchana Ghosh"
 collection: research
 ---

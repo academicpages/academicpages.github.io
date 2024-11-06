@@ -1,5 +1,5 @@
 ---
-title: "Extractive industries, inequality and welfare in developing countries: Mining industry in Peru"
+title: "Mining and economic development at the subnational level in Peru, 1993-2018"
 excerpt: "With Gonzalo Delgado, Álvaro Paredes & Bruno Seminario"
 collection: research
 ---
