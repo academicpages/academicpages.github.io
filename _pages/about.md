@@ -33,12 +33,19 @@ You can read my full CV [here](), or find me on Google Scholar via this [link]()
 ## Teaching Assistance
 
 **TTU CS5384** _Logic for Computer Scientists_ <i style="float:right;text-align:right;">Fall 2024</i>
+
 **TTU CS5376** _Communication Networks_ <i style="float:right;text-align:right;">Fall 2024</i>
+
 **TTU CS5373** _Software Modeling and Architecture_ <i style="float:right;text-align:right;">Summmer 2024</i>
+
 **TTU CS6378** _Software Security_ <i style="float:right;text-align:right;">Spring 2024</i>
+
 **TTU CS5332** _Software Engineering: Software Analytics_ <i style="float:right;text-align:right;">Fall 2023</i>
+
 **TTU CS5341** _Pattern Recognition_ <i style="float:right;text-align:right;">Summmer 2023</i>
+
 **TTU CS1412** _Programming Principles_ <i style="float:right;text-align:right;">Summer 2023</i>
+
 **TTU CS4366** _Senior Capstone project_ <i style="float:right;text-align:right;">Spring 2023</i>
 
 
