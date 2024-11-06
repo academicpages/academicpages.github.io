@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemcial Engineering, Southwest Petroleum University, Chengdu, China, 2019
+* M.S. in Chemical Engineering, Chinese Academy of Science, Sino-Danish Center, Beijing, China, 2022
+* M.S. in Chemical and Biochemical Engineering, Technical University of Denmark (Double master), 2021
+* Ph.D in Process Systems Engineering, Vienna University of Technology (TU Wien), Vienna, Austria, 2026 (expected)
 
-Work experience
+Projects experience
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -42,7 +43,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences and Extra-training
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
