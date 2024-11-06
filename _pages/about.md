@@ -20,12 +20,6 @@ You can read my full CV [here](), or find me on Google Scholar via this [link]()
 
 ## Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-paper.html %}
-{% endfor %}
-
-<i>* denotes  joint first authors</i>
-
 
 ## Experience
 
