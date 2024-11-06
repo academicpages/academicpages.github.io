@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "HuBei"
+title                    : "Tengfei Shi / 史腾飞"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Tengfei Shi / 史腾飞"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shitengfei.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Tengfei Shi / 史腾飞"
+  pronouns         : # example: "he/his"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "HuBei, China"
+  employer         : "HuBei University of Art and Science"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tengfeishi_bh@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
