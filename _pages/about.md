@@ -52,8 +52,12 @@ You can read my full CV [here](), or find me on Google Scholar via this [link]()
 ## Selected Awards
 
 **CS Ph.D. Fellowship**, Texas Tech	<i style="float:right;text-align:right;">Since January 2023</i>
+
 **MASTA Scholarship**, Beihang University	<i style="float:right;text-align:right;">09/2019-08/2020</i>
+
 **Good Neighbor Scholarship**, West Texas A&M University	<i style="float:right;text-align:right;">08/2014-05/2018</i>
+
 **Dean’s List**, West Texas A&M University	<i style="float:right;text-align:right;">2014-2018</i>
+
 **Honors Mentions Graduation**, West Texas A&M University	<i style="float:right;text-align:right;">05/2018
 </i>
