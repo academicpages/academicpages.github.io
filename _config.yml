@@ -21,7 +21,7 @@ repository               : "juan-mgc/juan-mgc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profileJMGC.jpg"
   name             : "Juan Marcelo Gutierrez Carballo"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in Texas Tech University"
