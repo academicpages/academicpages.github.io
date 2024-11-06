@@ -15,7 +15,7 @@ Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, 
 To appear in *European Conference on Conputer Systems (EuroSys)*, 2025. 
 
 ## 2024
-* **Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.20745)\]\[[data](https://github.com/KL4805/ShoppingMMLU)\]<br>
+* **Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.20745)\]\[[data](https://github.com/KL4805/ShoppingMMLU)\]\[[slides](https://kl4805.github.io/files/ShoppingMMLU.pdf)\]<br>
 **Yilun Jin**, Zheng Li, Chenwei Zhang, Tianyu Cao, Yifan Gao, Pratik Sridatt Jayarao, Mao Li, Xin Liu, Ritesh Sarkhel, Xianfeng Tang, Haodong Wang, Zhengyang Wang, Wenju Xu, Jingfeng Yang, Qingyu Yin, Xian Li, Priyanka Nigam, Yi Xu, Kai Chen, Qiang Yang, Meng Jiang, Bing Yin. <br>
 To appear in *the Conference on Neural Information Processing Systems (NeurIPS), Datasets and Benchmarks Track*, 2024.
 
