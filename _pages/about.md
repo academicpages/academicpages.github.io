@@ -1,49 +1,58 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Juan Gutierrez"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## About
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am **Juan Marcelo Gutierrez Carballo** (Juan), a second year Ph.D. student in Computer Science at [Texas Tech University](https://www.ttu.edu/), advised by [Prof. Michael Shin](https://www.depts.ttu.edu/cs/faculty/michael_eonsuk_shin/index.php).
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I received my B.S. degree at West Texas A&M University, graduated with honors and was in the dean's list.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am focused on advancing *adaptable software architectures* within the field of software engineering. My research emphasizes designing solutions that dynamically address evolving requirements, allowing systems to *adapt seamlessly* to changes in *security, functionality, and other critical areas*. By leveraging state-machine-driven methods, my work seeks to reduce architectural complexity by managing adaptation and other concerns separately from core application logic.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+You can read my full CV [here](), or find me on Google Scholar via this [link]() 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+## Publications
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+{% for post in site.publications reversed %}
+  {% include archive-paper.html %}
+{% endfor %}
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<i>* denotes  joint first authors</i>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Experience
+
+**Researcher**, [Beihang University](https://ev.buaa.edu.cn/) <i style="float:right;text-align:right;">Beijing, China, 2019 – 2021</i>
+
+**Fullstack Developer**, [TOGABOL S.R.L.](https://togabolsrl.bol/) <i style="float:right;text-align:right;">Santa Cruz, Bolivia, 08/2019 – 01/2022</i>
+
+**Math Lab Tutor**, [West Texas A&M University](https://www.wtamu.edu/) <i style="float:right;text-align:right;">Canyon, Texas, 08/2016-05/2018</i>
+
+
+## Teaching Assistance
+
+**TTU CS5384** _Logic for Computer Scientists_ <i style="float:right;text-align:right;">Fall 2024</i>
+**TTU CS5376** _Communication Networks_ <i style="float:right;text-align:right;">Fall 2024</i>
+**TTU CS5373** _Software Modeling and Architecture_ <i style="float:right;text-align:right;">Summmer 2024</i>
+**TTU CS6378** _Software Security_ <i style="float:right;text-align:right;">Spring 2024</i>
+**TTU CS5332** _Software Engineering: Software Analytics_ <i style="float:right;text-align:right;">Fall 2023</i>
+**TTU CS5341** _Pattern Recognition_ <i style="float:right;text-align:right;">Summmer 2023</i>
+**TTU CS1412** _Programming Principles_ <i style="float:right;text-align:right;">Summer 2023</i>
+**TTU CS4366** _Senior Capstone project_ <i style="float:right;text-align:right;">Spring 2023</i>
+
+
+## Selected Awards
+
+**CS Ph.D. Fellowship**, Texas Tech	<i style="float:right;text-align:right;">Since January 2023</i>
+**MASTA Scholarship**, Beihang University	<i style="float:right;text-align:right;">09/2019-08/2020</i>
+**Good Neighbor Scholarship**, West Texas A&M University	<i style="float:right;text-align:right;">08/2014-05/2018</i>
+**Dean’s List**, West Texas A&M University	<i style="float:right;text-align:right;">2014-2018</i>
+**Honors Mentions Graduation**, West Texas A&M University	<i style="float:right;text-align:right;">05/2018
+</i>
