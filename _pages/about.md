@@ -10,8 +10,7 @@ redirect_from:
 
 This is a personal blog [Pingping'blog](https://Pingping1997.github.io) and hosted on GitHub pages. 
 A  personal website
-======
-Like many other 
+
 
 
 

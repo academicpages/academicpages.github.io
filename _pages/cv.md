@@ -30,23 +30,24 @@ Projects experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematical Programming: GAMs, Python, Julia
+* Data Science: Python, Julia, R
+* Life Cycle Assessment: Brightway2, Activity-Browser, Premise, OpenLCA
+* Engineering Simulation: ANSYS Fluent, COMSOL, MATLAB, Aspen Plus
+* Language: Chinese (Native), English (Fluent), German (Beginner)
+* Hobbies: Biking, Tennis, Swimming, Hiking, Reading, Music
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Conferences and Extra-training
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
