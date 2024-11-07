@@ -94,7 +94,8 @@ author:
   github           : "siwelwerd"
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-5088-2791"
-  twitter          : "siwelwerd"
+  #twitter          : "siwelwerd"
+  bluesky          : "drew-lewis.com" # Replace this with you Bluesky username
 
 
 # Reading Files
