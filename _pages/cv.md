@@ -45,6 +45,7 @@ redirect_from:
 {% endfor %}</ul>
 
 ## Academic activities
+* Reviewer at [NeurIPS 2024](https://nips.cc/Conferences/2024)
 * Reviewer at [ICML 2024](https://icml.cc/Conferences/2024)
 * Research stay at [van der Schaar Lab](https://www.vanderschaar-lab.com/) at the University of Cambridge, Feb-May 2024
 * Reviewer at [AISTATS 2024](https://aistats.org/aistats2024/)
@@ -58,7 +59,8 @@ redirect_from:
 * Intern Data Scientist, Beehiveor Academy and R&D Labs (Kyiv, Ukraine), 2018
 * Junior Java Developer, ProFIX (Kyiv, Ukraine), 2017 - 2018
   
-## Honors & Awards
+## Awards & Affiliations
+* Co-director of the [Causal ML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at the Institute of AI in Management, LMU Munich, since 2024
 * [Associated PhD student](https://zuseschoolrelai.de/people/scientists/valentyn-melnychuk/) at Konrad Zuse School of Excellence in Reliable AI (relAI), since 2023
 * LMU Study Scholarship for International Students, 2019
 * Ukrainian Team Programming Olympiad, 2016
