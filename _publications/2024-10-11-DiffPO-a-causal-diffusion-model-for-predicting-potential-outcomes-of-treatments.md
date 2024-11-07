@@ -5,6 +5,7 @@ authors: 'Y. Ma, <b>V. Melnychuk</b>, J. Schweisthal, S. Feuerriegel'
 date: 2024-10-11
 excerpt: "![diffpo](/images/diffpo.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2410.08924'
+code: 'https://github.com/yccm/DiffPO'
 venue: NeurIPS
 ---
 
