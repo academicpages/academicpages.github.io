@@ -74,9 +74,11 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 **Rodríguez-de-Dios, I.** & González-de-Garay, B. (in press). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_. 
 
+Vinyals-Mirabent, S., Rodero, E., **Rodríguez-de-Dios, I.**, & Mas-Manchon, L. (in press). The impact of self-centered factors on skepticism towards CSR claims during large-scale external crises. _Communication & Society_
+
 Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (2024). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación_
 
-**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (in press). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-X
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-X
 
 Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
