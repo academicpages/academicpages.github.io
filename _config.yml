@@ -21,7 +21,7 @@ repository               : "brendansu/brendansu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Image_20240318234824.jpg"
   name             : "Haotian Su"
   pronouns         : # example: "she/her"  
   bio              : "Applied data scientist in the human factors world"
