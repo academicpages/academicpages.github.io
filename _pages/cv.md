@@ -72,19 +72,19 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
-**Rodríguez-de-Dios, I.** & González-de-Garay, B. (in press). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_. 
+Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (in press). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación_
 
 Vinyals-Mirabent, S., Rodero, E., **Rodríguez-de-Dios, I.**, & Mas-Manchon, L. (in press). The impact of self-centered factors on skepticism towards CSR claims during large-scale external crises. _Communication & Society_
-
-Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (2024). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación_
-
-**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-X
 
 Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
 Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2024). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication,39_(12), 2906–2919. https://doi.org/10.1080/10410236.2023.2292830
 
 Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
+
+**Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_ Advance online publication. https://doi.org/10.1123/ijsc.2024-0156. 
+
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-X
 
 Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody variations to improve cognitive processing in Alzheimer’s patients. Alzheimer's & Dementia, 19(S19). https://doi.org/10.1002/alz.075530
 
