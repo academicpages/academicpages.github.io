@@ -44,6 +44,7 @@ How these solutions help? Invariably, I envision both systems evolving into star
 I have come to agree with this by contrasting my time in Western academia (PhD in California and a permanent academic position in London) to my undergraduate experience in Bangalore. Indian universities operate as a marketplace for employers and jobseekers by inviting companies for on-campus recruitment in the final year. Western universities operate like a prestigious newspaper selling you a subscription to one paper (degree certificate). A more comical comparison might be that these universities sell a ticket at a platform where trains no longer stop and there is no destination.
 
 # Idea
+{% maincolumn "assets/imgs/HowlerLogo_for_dark_theme.png" "" %}
 In the Harry Potter universe, Howlers were owl-delivered letters read aloud to recipients in senders' voices. My eponymous idea, Howler®, builds on this; in-app personal voice messages are quickly converted into podcasts that sound like a synchronous conversation ([listen to exemplar Howlcast](https://firebasestorage.googleapis.com/v0/b/howler-beta-test.appspot.com/o/howlcasts%2FPFMmCatcLcPHo1XOvfBIjrXDVqI2%2F6D002CC7-1C74-401A-A3AA-A962020DBA23?alt=media&token=e3d8ad8e-b6a7-40bb-8ed0-fd55d9488259)). Howler's vision is to democratise podcasting while providing non-toxic content. **I am requesting support from Emergent Ventures AI to continue building Howler**.
 
 ## Novelty
