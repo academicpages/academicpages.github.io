@@ -10,8 +10,8 @@ redirect_from:
 
 👋 Hi there, I'm **Bashar Talafha**
 ---
-
 I am a PhD candidate in the [School of Information](https://ischool.ubc.ca/) at the University of British Columbia (UBC), under the supervision of [Dr. Muhammad Abdul-Mageed](https://mageed.arts.ubc.ca/). My research spans Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Speech Technologies, Large Language Models (LLMs), Multimodal LLMs, Sentiment and Social Media Analysis, and Multilingual/Multidialectal Information Processing. I hold MSc and BSc degrees in Computer Science from the [Jordan University of Science and Technology](https://www.just.edu.jo/Pages/Default.aspx). Prior to beginning my PhD, I worked as a Senior Data Scientist and NLU Team Leader in the Artificial Intelligence department at [Mawdoo3 Ltd.](http://ai.mawdoo3.com) in Amman, Jordan. Earlier, I worked as a Researcher and Machine Learning Engineer at [Samsung Electronics](https://research.samsung.com/srjo) in Amman.
+
 ---
 
 # Publications:
