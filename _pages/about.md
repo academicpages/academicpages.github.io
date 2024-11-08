@@ -42,6 +42,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
+  <li>11/2024: Honored to receive the Best Paper Finalist at CoRL 2024!</li>
   <li>10/2024: Robin and I presented <a href="https://www.youtube.com/watch?v=MU6wpz_8kEA">Pushing the Limits of Equivariant Neural Networks</a> at the <a href="https://www.neurreps.org/speaker-series">NeurReps Speaker Series</a> at MIT.</li>
   <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://arxiv.org/pdf/2407.01812">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
   <li>09/2024: I had a great time visiting the UPenn GRASP lab and presenting at the GRASP SFI seminar. Recording of my talk: <a href="https://www.youtube.com/watch?v=dJG83-6CZMY">link</a>.</li>
@@ -134,7 +135,7 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 ![](images/equidiff.gif){: .align-right width="200px"}
 **Equivariant Diffusion Policy**  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*CoRL 2024, Munich, Germany*, ***Oral***  
+*CoRL 2024, Munich, Germany*, ***Best Paper Finalist***  
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://youtu.be/xIFSx_NVROU?si=MaxsHmih6AnQKAVy','_blank')">Video</button>
