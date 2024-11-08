@@ -18,6 +18,10 @@ I am currently a PhD student in [the School of Information](https://ischool.ubc.
 
 # Publications:
 
+* **Talafha, B.**, Kadaoui, K., Magdy, S.M., Habiboullah, M., Chafei, C.M., El-Shangiti, A.O., Zayed, H., Alhamouri, R., Assi, R., Alraeesi, A. and Mohamed, H., 2024. Casablanca: Data and Models for Multidialectal Arabic Speech Recognition. arXiv preprint arXiv:2410.04527.
+
+* Jarrar, M., Hamad, N., Khalilia, M., **Talafha, B.**, Elmadany, A. and Abdul-Mageed, M., 2024. WojoodNER 2024: The Second Arabic Named Entity Recognition Shared Task. arXiv preprint arXiv:2407.09936.
+
 * **Talafha, B.**, Waheed, A., & Abdul-Mageed, M. (2023). N-Shot Benchmarking of Whisper on Diverse Arabic Speech Recognition. arXiv preprint arXiv:2306.02902.
 
 * Waheed, A., **Talafha, B.**, Sullivan, P., Elmadany, A., & Abdul-Mageed, M. (2023). VoxArabica: A Robust Dialect-Aware Arabic Speech Recognition System. arXiv preprint arXiv:2310.11069.
