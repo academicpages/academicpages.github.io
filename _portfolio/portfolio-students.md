@@ -1,11 +1,11 @@
 ---
 title: "Portfolio-students"
 # excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
-excerpt:科研：难走的路才有好风景！ <br/>
+excerpt: "科研：难走的路才有好风景！ <br/>
 <div style="display: flex; justify-content: space-between;">
     <img src="/images/downstair.gif" style="width: 48%; ">
     <img src="/images/2493466.jpg" style="width: 48%;">
-</div>
+</div> "
 collection: portfolio
 ---
 
