@@ -14,8 +14,7 @@ redirect_from:
     <p class="pronunciation"><small>My name is pronounced: Day-vee Wex</small></p> 
   </div>
   <div class="profile-text">
-    <p>Welcome! I am a sixth-year Ph.D. student in the Department of Economics at the <strong><a href="https://economics.mit.edu/people/phd-students/deivy-houeix">Massachusetts Institute of Technology</a> (MIT)</strong>. My research is in <strong>development economics and organizational economics</strong>, focusing on technology and firms in lower-income countries, particularly in West Africa.</p>
-    <p>My dissertation explores how digital technologies reshape economic relationships and contract structures within and between firms, and uncovers the key drivers and barriers to their adoption.</p>    
+    <p>Welcome! I am a sixth-year Ph.D. student in the Department of Economics at the Massachusetts Institute of Technology (<strong><a href="https://economics.mit.edu/people/phd-students/deivy-houeix">see my MIT Webpage</a></strong>). My primary field is <strong>Development Economics</strong>, with secondary interests in <strong>Organizational Economics</strong>. My dissertation focuses on technology and firms in lower-income countries, particularly in West Africa. I explore how digital technologies reshape economic relationships and contract structures within and between firms, and uncovers the key drivers and barriers to their adoption.</p>
     <p>Over the past eight years, I have conducted research projects in Côte d'Ivoire, Ethiopia, Senegal, and Togo. </p>
   </div>
 </div>
