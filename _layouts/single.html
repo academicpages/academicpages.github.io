@@ -86,6 +86,9 @@ layout: default
         {% if page.paperurl %}
             {% assign output = output | append: " | <a href='" | append: page.paperurl | append: "'>Download Paper</a>" %}
         {% endif %}
+        {% if page.archivurl %}
+            {% assign output = output | append: " | <a href='" | append: page.archivurl | append: "'>Archive</a>" %}
+        {% endif %}
         {% if page.slidesurl %}
             {% assign output = output | append: " | <a href='" | append: page.slidesurl | append: "'>Download Slides</a>" %}
         {% endif %}

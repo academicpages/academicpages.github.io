@@ -38,8 +38,10 @@
     <h2 class="archive__item-title" itemprop="headline">
       {% assign current_date = "now" | date: "%s" %}
       {% assign post_date = post.date | date: "%s" %}
+      {% assign diff_days = current_date | minus: post_date | divided_by: 86400 %}
 
-      {% if current_date | minus: post_date | divided_by: 86400 < 365 %}
+
+      {% if diff_days < 365 %}
         {% assign url_check = post.projecturl | append: post.paperurl | append: post.slidesurl | append: post.codeurl | append: post.videourl | append: post.supplementurl %}
         <!-- <h3>{{url_check}}</h3> -->
         {% if url_check != "" %}
@@ -108,6 +110,9 @@
     {% if post.paperurl %}
         {% assign output = output | append: " | <a href='" | append: post.paperurl | append: "'>Download Paper</a>" %}
     {% endif %}
+    {% if post.archivurl %}
+        {% assign output = output | append: " | <a href='" | append: post.archivurl | append: "'>Archive</a>" %}
+    {% endif %}
     {% if post.slidesurl %}
         {% assign output = output | append: " | <a href='" | append: post.slidesurl | append: "'>Download Slides</a>" %}
     {% endif %}
@@ -124,7 +129,7 @@
     <!-- <p>{{ output | strip }}{% if output != "" %} {% endif %}</p> -->
     {% if output != "" %}
       <p>
-        {% if current_date | minus: post_date | divided_by: 86400 < 365 %}
+        {% if diff_days < 365 %}
           <img src='/images/new.gif' style='height: 16px;'>
         {% endif %}
         {% assign output = output | append: " |" %}
