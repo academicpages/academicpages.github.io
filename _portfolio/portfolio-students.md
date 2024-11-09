@@ -1,12 +1,6 @@
 ---
 title: "Portfolio-students"
-# excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
-excerpt: "科研：难走的路才有好风景！ <br/>
-<div style="display: flex; justify-content: space-between; width: 100%; border: 1px solid red;">
-    <img src='/images/downstair.gif' style="width: 48%; margin-right: 4%;">
-    <img src='/images/2493466.jpg' style="width: 48%;">
-</div>
- "
+excerpt: "科研：难走的路才有好风景！ <br/><img src='/images/downstair.gif'> <br/><img src='/images/2493466.jpg' width='50%'>"
 collection: portfolio
 ---
 
