@@ -43,3 +43,5 @@ collection: portfolio
 ![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1")  
 
 ![202306毕业季2](/images/students/202306毕业季2.jpg "202306毕业季合影2")
+
+![202411沪港论坛](/images/students/第19届沪港力学.jpg "第19届沪港力学合影")
