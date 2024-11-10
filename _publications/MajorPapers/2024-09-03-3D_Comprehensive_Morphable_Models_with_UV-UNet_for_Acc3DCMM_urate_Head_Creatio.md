@@ -9,9 +9,9 @@ date: '2024-09-03'
 venue: 'September 03'
 
 paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/MM-019321.R1.pdf'
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# codeurl: 'https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods'
-# citation: '“3D Comprehensive Morphable Models  with UV-UNet for Acc3DCMM urate Head Creation,” (accepted) IEEE Transactions on Multimedia (TMM) 2024/09/03'
+# slidesurl: ''
+# codeurl: '
+# citation: '“'
 ---
 
 Jie Zhang, Kangneng Zhou, Yan Luximon, <strong><u>Tong-Yee Lee</u></strong>, and Ping Li, “3D Comprehensive Morphable Models  with UV-UNet for Acc3DCMM urate Head Creation,” (<span style="color:red">accepted</span>) <strong><i>IEEE Transactions on Multimedia (TMM)</i></strong> 2024/09/03

@@ -8,7 +8,7 @@ permalink: /publication/2024-09-A_Comprehensive_Evaluation_of_Arbitrary_Image_St
 date: '2024-09-31'
 venue: 'September'
 
-# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+# slidesurl: ''
 projecturl: 'http://ivc.ia.ac.cn/'
 paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/IEEE_TVCG_2024_Fan_survey.pdf'
 codeurl: 'https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods'
