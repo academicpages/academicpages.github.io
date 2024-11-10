@@ -47,7 +47,9 @@ Projects
     * Theoretical aspects included analysis of BB-84, T-12,MDI-QKD protocols, SKR and QBER analysis, analysis of physical components used, characterization of beamsplitter operations, and characterization of single photon and coherent pulses.
     * Programming work included streamlining the instruments' calibration processes, SKR and QBER analysis for T-12 protocol, and analysis of MDI-QKD scenarios.
     * Practical work included running the setup (for T-12 protocol and MDI-QKD protocol) for calibration purposes and for obtaining real-time experimental data.
-  * [Project report and code (will be added soon)](https://github.com/ArnavMetrani)
+  * [Project report and code](https://github.com/ArnavMetrani/QKD_Report-Public)
+
+ <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/ArnavMetrani/arnavmetrani.github.io/refs/heads/master/_data/QKD Report_Public.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>   
 
 Programming Skills
 ======
