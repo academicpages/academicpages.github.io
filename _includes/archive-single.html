@@ -1,20 +1,20 @@
 {% include base_path %}
 
 {% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% elsif post.teaser %}
-  {% capture teaser %}{{ post.teaser }}{% endcapture %}
+{% capture teaser %}{{ post.teaser }}{% endcapture %}
 {% else %}
-  {% assign teaser = site.teaser %}
+{% assign teaser = site.teaser %}
 {% endif %}
 
 {% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %}
+{% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: " list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
     <div class="archive__item-teaser">
@@ -22,32 +22,15 @@
         base_path }}" {% endif %} alt="">
     </div>
     {% else %}
-      {% if teaser %}
-      <div class="archive__item-content" style="width: 600px" >
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-        alt="" style="width: 600px" >
-      </div>
-      {% endif %}
+    {% if teaser %}
+    <div class="archive__item-content">
+      <img src={% if teaser contains "://" %} "{{ teaser }}" {% else %} "{{ teaser | prepend: "/images/" | prepend:
+        base_path }}" {% endif %} alt="">
+    </div>
     {% endif %}
-    <div class="archive__item-content" style="width: 600px;">
+    {% endif %}
+    <div class="archive__item-content">
     <h2 class="archive__item-title" itemprop="headline">
-      {% assign current_date = "now" | date: "%s" %}
-      {% assign post_date = post.date | date: "%s" %}
-      {% assign diff_days = current_date | minus: post_date | divided_by: 86400 %}
-
-
-      {% if diff_days < 365 %}
-        {% assign url_check = post.projecturl | append: post.paperurl | append: post.slidesurl | append: post.codeurl | append: post.videourl | append: post.supplementurl %}
-        <!-- <h3>{{url_check}}</h3> -->
-        {% if url_check != "" %}
-          <img src='/images/new.gif' style='height: 25px;'>
-        {% endif %}
-      {% endif %}
       {% if post.link %}
       <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i
           class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
@@ -57,23 +40,18 @@
     </h2>
 
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+    <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
     {% if post.collection == 'teaching' %}
-      <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.date %}
     <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{
         site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time
         datetime="{{ post.date | default: " 1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" |
         date: "%B %d, %Y" }}</time></p>
-    <!-- {% elsif post.dates %}
-    {% assign date_format = post.date contains "-" and post.date.size > 7 ? "%B %d, %Y" : "%B, %Y" %}
-    <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{
-        site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time
-        datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time></p> -->
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -85,7 +63,7 @@
     </p>
     {% endif %}
 
-    <!-- {% if post.citation and post.paperurl and post.slidesurl %}
+    {% if post.citation and post.paperurl and post.slidesurl %}
     <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a
         href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
@@ -99,42 +77,6 @@
     {% elsif post.slidesurl %}
     <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p>
     </p>
-    {% endif %} -->
-    {% assign output = "" %}
-    {% if post.citation %}
-        {% assign output = output | append: "Recommended citation: " | append: post.citation | append: "<br>" %}
-    {% endif %}
-    {% if post.projecturl %}
-        {% assign output = output | append: " | <a href='" | append: post.projecturl | append: "'>Watch Project</a>" %}
-    {% endif %}
-    {% if post.paperurl %}
-        {% assign output = output | append: " | <a href='" | append: post.paperurl | append: "'>Download Paper</a>" %}
-    {% endif %}
-    {% if post.archivurl %}
-        {% assign output = output | append: " | <a href='" | append: post.archivurl | append: "'>Archive</a>" %}
-    {% endif %}
-    {% if post.slidesurl %}
-        {% assign output = output | append: " | <a href='" | append: post.slidesurl | append: "'>Download Slides</a>" %}
-    {% endif %}
-    {% if post.codeurl %}
-        {% assign output = output | append: " | <a href='" | append: post.codeurl | append: "'>Download Code</a>" %}
-    {% endif %}
-    {% if post.videourl %}
-        {% assign output = output | append: " | <a href='" | append: post.videourl | append: "'>Watch Video</a>" %}
-    {% endif %}
-    {% if post.supplementurl %}
-        {% assign output = output | append: " | <a href='" | append: post.supplementurl | append: "'>View Supplement</a>" %}
-    {% endif %}
-    
-    <!-- <p>{{ output | strip }}{% if output != "" %} {% endif %}</p> -->
-    {% if output != "" %}
-      <p>
-        {% if diff_days < 365 %}
-          <img src='/images/new.gif' style='height: 16px;'>
-        {% endif %}
-        {% assign output = output | append: " |" %}
-        {{ output | strip }}
-      </p>
     {% endif %}
   </div>
   </article>

@@ -80,11 +80,11 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
 <hr />
 {% assign title_shown = true %}
 {% endunless %}
-{% include archive-single.html type="table" %}
+{% include archive-single-publications.html type="table" %}
 {% endfor %}
 {% endfor %}
 {% else %}
 {% for post in site.publications reversed %}
-{% include archive-single.html %}
+{% include archive-single-publications.html %}
 {% endfor %}
 {% endif %}
