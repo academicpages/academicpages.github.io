@@ -84,6 +84,21 @@ publication_category:
   RecentPapers:
     title: 'Recent International Conference Papers (2005~present)'
 
+research_summary_category:
+  Multimedia_Retargeting:
+    title: 'Multimedia Retargeting'
+  Surface_Modeling:
+    title: 'Surface Modeling/Texture Mapping/Geometrric Steganography/AGIM'
+  Non_photo_realistic:
+    title: 'Non-photo-realistic rendering (NPR) & Illusion'
+  Motion_Overview:
+    title: 'Motion Overview + Animation Generation + Music'
+  Focus_Context:
+    title: 'Focus + Context/Word and Image/Shape Cloud/Map Art/ Visualization'
+  Morphing:
+    title: 'Morphing, Shape Interpolation and its Medical Applications'
+
+  
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -221,6 +236,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
+    output: true
+    permalink: /:collection/:path/
+  research_summary:
     output: true
     permalink: /:collection/:path/
 
