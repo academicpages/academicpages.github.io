@@ -21,4 +21,4 @@ projecturl: "http://graphics.csie.ncku.edu.tw/VideoRetargeting/"
 # citation: ''
 ---
 
-Yu-Shuen Wang, Hui-Chih Lin, Olga  Sorkine, <strong><u>Tong-Yee Lee</u></strong> “Motion-based Video Retargeting with Optimized Crop-and-Warp” (<span style="color:red">U.S. Provisional Patent Application No. 61/334,953, May 14, 2010 , Taiwan Patent Pending</span>) <strong><u>ACM Transaction on Graphics (Proceedings of SIGGRAPH 2010)</u></strong>
+Yu-Shuen Wang, Hui-Chih Lin, Olga  Sorkine, <strong><u>Tong-Yee Lee</u></strong> “Motion-based Video Retargeting with Optimized Crop-and-Warp” (<span style="color:red">U.S. Provisional Patent Application No. 61/334,953, May 14, 2010 , Taiwan Patent Pending</span>) <strong><u>ACM Transaction on Graphics (<span style="color:red">Proceedings of SIGGRAPH 2010</span>)</u></strong>

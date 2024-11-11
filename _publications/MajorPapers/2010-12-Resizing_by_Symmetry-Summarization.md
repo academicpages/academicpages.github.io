@@ -21,4 +21,4 @@ projecturl: "http://graphics.csie.ncku.edu.tw/Sum_Resizing"
 # citation: ''
 ---
 
-Huisi Wu, Yushuen Wang, Kun-Chuan Feng, Tien-Tsin Wong, <strong><u>Tong-Yee Lee</u></strong>, Pheng-Ann Heng “Resizing by Symmetry-Summarization” <strong><u>ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2010)</u></strong> Volume 29, Issue 6, Article No. 159, Dec., Seoul, 2010.
+Huisi Wu, Yushuen Wang, Kun-Chuan Feng, Tien-Tsin Wong, <strong><u>Tong-Yee Lee</u></strong>, Pheng-Ann Heng “Resizing by Symmetry-Summarization” <strong><u>ACM Transactions on Graphics (<span style="color:red">Proceedings of SIGGRAPH Asia 2010</span>)</u></strong> Volume 29, Issue 6, Article No. 159, Dec., Seoul, 2010.

@@ -21,4 +21,4 @@ projecturl: "http://graphics.csie.ncku.edu.tw/CI/"
 # citation: ''
 ---
 
-Hung-Kuo Chu, Wei-Hsin Hsu, Niloy J. Mitra, Daniel Cohen-Or, Tien-Tsin Wong, <strong><u>Tong-Yee Lee</u></strong> “CAMOUFLAGE IMAGES” <strong><u>ACM Transaction on Graphics (Proceedings of SIGGRAPH 2010)</u></strong>
+Hung-Kuo Chu, Wei-Hsin Hsu, Niloy J. Mitra, Daniel Cohen-Or, Tien-Tsin Wong, <strong><u>Tong-Yee Lee</u></strong> “CAMOUFLAGE IMAGES” <strong><u>ACM Transaction on Graphics (<span style="color:red">Proceedings of SIGGRAPH 2010</span>)</u></strong>

@@ -20,7 +20,7 @@ paperurl: "/files/publications/papers/ScalableVideoRetargeting.pdf"
 # citation: ''
 ---
 	
-Yu-Shuen Wang, Jen-Hung Hsiao, Olga Sorkine, <strong><u>Tong-Yee Lee</u></strong> “Scalable and Coherent Video Resizing with Per-Frame Optimization” <strong><u>ACM Transactions on Graphics (Proceedings of SIGGRAPH 2011)</u></strong>
+Yu-Shuen Wang, Jen-Hung Hsiao, Olga Sorkine, <strong><u>Tong-Yee Lee</u></strong> “Scalable and Coherent Video Resizing with Per-Frame Optimization” <strong><u>ACM Transactions on Graphics (<span style="color:red">Proceedings of SIGGRAPH 2011</span>)</u></strong>
 
 [Main Video](http://people.cs.nctu.edu.tw/~yushuen/ScalableVideoRetargeting/data/SVR_main.mp4)
 [Result Video](http://people.cs.nctu.edu.tw/~yushuen/ScalableVideoRetargeting/data/SVR_supp.wmv)
