@@ -30,7 +30,8 @@ group :jekyll_plugins do
 end
 
 # gem 'tzinfo-data', platforms: [:x64_mingw]
-gem 'tzinfo-data', platforms: [:mingw, :mswin]
+gem 'tzinfo-data'
+gem 'tzinfo'
 
 require 'em/pure_ruby'
 gem 'sorted_set'
