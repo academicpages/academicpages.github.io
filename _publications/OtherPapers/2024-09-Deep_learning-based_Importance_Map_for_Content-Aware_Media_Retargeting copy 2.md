@@ -13,4 +13,4 @@ paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
 # codeurl: '
 ---
 	
-Thi-Ngoc-Hanh Le, <strong><u>Tong-Yee Lee*</u></strong>, Shih-Syun Lin, Weiming Dong,  “Deep learning-based Importance Map for  Content-Aware Media Retargeting”, Multimedia Tools and Applications  Sept. 83:74301–74322, 2024, https://doi.org/10.1007/s11042-024-18389-4, <strong><u> (<span style="color:red">SCI/EI</span>)</u></strong> 
+Thi-Ngoc-Hanh Le, <strong><u>Tong-Yee Lee*</u></strong>, Shih-Syun Lin, Weiming Dong,  “Deep learning-based Importance Map for  Content-Aware Media Retargeting”, <strong><u>Multimedia Tools and Applications</u></strong>  Sept. 83:74301–74322, 2024, https://doi.org/10.1007/s11042-024-18389-4, <strong><u> (<span style="color:red">SCI/EI</span>)</u></strong> 
