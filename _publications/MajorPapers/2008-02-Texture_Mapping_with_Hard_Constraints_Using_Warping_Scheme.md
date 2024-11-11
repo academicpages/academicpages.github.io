@@ -1,6 +1,6 @@
 ---
 title: "Texture Mapping with Hard Constraints Using Warping Scheme"
-teaser: '/publications/image038.jpg'
+teaser: '/publications/20080228.jpg'
 collection: publications
 category: MajorPapers
 permalink: /publication/2008-02-Texture_Mapping_with_Hard_Constraints_Using_Warping_Scheme

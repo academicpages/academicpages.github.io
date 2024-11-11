@@ -1,6 +1,6 @@
 ---
 title: "Fast and Institutive Polyhedra Morphing Using SMCC Mesh Merging Scheme"
-teaser: '/publications/record7.jpg'
+teaser: '/publications/20030131.jpg'
 collection: publications
 category: MajorPapers
 permalink: /publication/2003-01-Fast_and_Institutive_Polyhedra_Morphing_Using_SMCC_Mesh_Merging_Scheme

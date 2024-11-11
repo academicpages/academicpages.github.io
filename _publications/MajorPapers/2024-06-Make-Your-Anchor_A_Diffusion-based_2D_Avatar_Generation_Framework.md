@@ -1,6 +1,6 @@
 ---
 title: "Make-Your-Anchor: A Diffusion-based 2D Avatar Generation Framework"
-teaser: '/publications/image175.gif'
+teaser: '/publications/20240617.jpg'
 collection: publications
 category: MajorPapers
 permalink: /publication/2024-06-Make-Your-Anchor_A_Diffusion-based_2D_Avatar_Generation_Framework

@@ -1,6 +1,6 @@
 ---
 title: "Computer-aided Prototype System for Nose Surgery (Rhinoplasty)"
-teaser: '/publications/record4.gif'
+teaser: '/publications/20010430.jpg'
 collection: publications
 category: MajorPapers
 permalink: /publication/2001-04-Computer_aided_Prototype_System_for_Nose_Surgery_Rhinoplasty

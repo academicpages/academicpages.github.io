@@ -1,6 +1,6 @@
 ---
 title: "Stylized and Abstract Painterly Rendering System Using a Multi-Scale Segmented Sphere Hierarchy"
-teaser: '/publications/record2.gif'
+teaser: '/publications/record3.gif'
 collection: publications
 category: MajorPapers
 permalink: /publication/2006-01-Stylized_and_Abstract_Painterly_Rendering_System_Using_a_Multi-Scale_Segmented_Sphere_Hierarchy
