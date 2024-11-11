@@ -117,12 +117,20 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
         <div class="post-introduction">{{ post.introduction }}</div>
         {% if post.images %}
             {% for image in post.images %}
-                <img src="{{ image }}" alt="Research Summary Image">
+                <div class="archive__item-content" >
+                    <img src=
+                    {% if image contains "://" %}
+                        "{{ image }}"
+                    {% else %}
+                        "{{ image | prepend: "/images/" | prepend: base_path }}"
+                    {% endif %}
+                    alt="">
+                </div>
             {% endfor %}
         {% endif %}
         {% if post.papers %}
             {% for paper in post.papers %}
-                <div class="post-papers">{{ paper }}</div>
+                <div class="post-papers"><strong>({{ forloop.index }})</strong>  {{ paper }}</div>
             {% endfor %}
         {% endif %}
     {% endfor %}
