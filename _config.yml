@@ -22,11 +22,11 @@ repository               : "albertree/albertree.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Seokki Lee (Albert)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "System-2 Reasoning, Neuro Symbolic, Abstraction and Reasoning"
   location         : "Gwangju, South Korea"
-  employer         : "Gwangju Institute of Science and Technology (GIST)"
+  employer         : "GIST"
   uri              : # URL
   email            : "sklee1103@gm.gist.ac.kr" 
 
