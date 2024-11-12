@@ -16,12 +16,18 @@ Prior to joining UC Davis, I was a postdoctoral scholar in the [Redwood Center f
 
 If you are a student interested in serving as a TA for a class I am teaching, please submit an application through the process managed by the ECE department. I cannot accept TA assignment requests made over email.
 
+# PTA Requests
+
+I cannot grant permission to add (PTA) requests. Please contact CoE or ECE advising for PTA related enquiries.
+
 # Publications
 
 For a complete list of publications please see my [GoogleScholar](https://scholar.google.com/citations?user=SJywXQkAAAAJ&hl=en) profile.
 
 ## Selected Publications
 
+- Christopher J. Kymn, Sonia Mazelet, **Anthony Thomas**, Denis Kleyko, E. Paxon Frady, Friedrich T. Sommer, and Bruno A. Olshausen. "[Binding in hippocampal-entorhinal circuits enables compositionality in cognitive maps](https://openreview.net/pdf?id=JO6T4rEJ32)." Advances in Neural Information Processing Systems (NeurIPS), 2024 (to appear).
+- Denis Kleyko, Christopher J. Kymn, **Anthony Thomas**, Bruno A. Olshausen, Friedrich T. Sommer, E. Paxon Frady. "Principled Neuromorphic Reservoir Computing." Nature Communications (to appear).
 - Arman Khachiyan, **Anthony Thomas**, Huye Zhou, Gordon H Hanson, Alex Cloninger, Tajana Rosing, and Amit Khandelwal. "[Using Neural Networks to Predict Micro-Spatial Economic Growth](https://drive.google.com/file/d/1-3XYSmeD-99A7VYUSb1Viwm3IVYdebLg/view)" American Economic Review: Insights, vol. 4, np. 4, pp 491-506, 2022.
 - **Anthony Thomas**, Sanjoy Dasgupta, and Tajana Rosing. "[A Theoretical Perspective on Hyperdimensional Computing](https://www.jair.org/index.php/jair/article/view/12664)" Journal of Artificial Intelligence Research, vol. 72, pp. 215-249, 2021.
 - **Anthony Thomas** and Arun Kumar. "[A comparative evaluation of systems for scalable linear algebra-based analytics](https://www.vldb.org/pvldb/vol11/p2168-thomas.pdf)" Proceedings of the VLDB Endowment, vol. 11, no. 13, pp. 2168-2182, 2018, VLDB Endowment.
