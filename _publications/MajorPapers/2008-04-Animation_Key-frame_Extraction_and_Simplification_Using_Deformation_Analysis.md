@@ -9,7 +9,7 @@ date: '2008-04-30'
 venue: 'April'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.pdf"
+paperurl: "https://github.com/CGVSL-NCKU/publications-resource/blob/master/Animation_Key-frame_Extraction_and_Simplification_Using_Deformation_Analysis/TCSVT_anim_mesh_2007.pdf"
 videourl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.mp4"
 
 # projecturl: ''
