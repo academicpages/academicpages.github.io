@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Luo Longzan | 罗珑赞"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 You can find my CV here: [Longzan's Curriculum Vitae](../assets/cv.pdf).
 
-[Email](2200013198@stu.pku.edu.cn) / [Github](https://github.com/llllllz666) 
+[Email](2200013198@stu.pku.edu.cn) / [Github](https://github.com/llllllz666) / [wechat](./we.pic.jpg)
 
 A data-driven personal website
 ======
