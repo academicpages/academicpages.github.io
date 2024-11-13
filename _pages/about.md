@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Luo Longzan 罗珑赞"
+title: "Luo Longzan"
 author_profile: true
 redirect_from: 
   - /about/
