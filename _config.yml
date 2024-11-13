@@ -22,13 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Nate Hu"
+  pronouns         : "he/him"
+  bio              : "Data scientist, researcher, and storyteller exploring the intersection of AI and social impact. @Emory University"
+  location         : "Atlanta, GA"
+  employer         : "Emory University"
+  uri              : "https://nate-hu.github.io"
+  email            : "nate.hu@emory.edu"
+  phone            : "(434) 227-1447"
+  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
