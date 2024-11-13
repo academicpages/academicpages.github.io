@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Nate Hu"
   pronouns         : "he/him"
   bio              : "Data scientist, researcher, and storyteller exploring the intersection of AI and social impact. @Emory University"
