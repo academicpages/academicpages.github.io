@@ -1,14 +1,21 @@
 ---
-title: "Paper Title Number 2"
+title: "LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: arxiv
+permalink: /publication/2024-limp
+excerpt: 'We propose an innovative framework leveraging Large Language Models to enhance mobility prediction by incorporating human intent understanding.'
+date: 2024-03-01
+venue: 'arXiv'
+paperurl: 'https://arxiv.org/abs/2408.12832'
+citation: 'Li, S., Feng, J., Chi, J., Hu, X., Zhao, X., & Xu, F. (2024). &quot;LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction.&quot; <i>arXiv preprint arXiv:2408.12832</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces a novel approach to human mobility prediction by incorporating Large Language Models (LLMs) to better understand and predict human movement patterns. The key contributions include:
+
+* Development of the Analyze-Abstract-Infer (A2I) Workflow for enhanced reasoning in mobility prediction
+* Integration of LLMs to capture and understand human intent in movement patterns
+* Implementation of advanced prompt engineering techniques for improved prediction accuracy
+
+[Download paper here](https://arxiv.org/abs/2408.12832)
+
+Recommended citation: Li, S., Feng, J., Chi, J., Hu, X., Zhao, X., & Xu, F. (2024). "LIMP: Large Language Model Enhanced Intent-aware Mobility Prediction." <i>arXiv preprint arXiv:2408.12832</i>.
