@@ -18,24 +18,24 @@ Education
 
 Projects experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2024: Integration of carbon capture and storage/utilization (CCS/CCU) in cement industry
+  * Supply chains and network design of CCS/CCU systems
+  * Prospective life cycle assessment and techno-economic assessment
+  * Mathematical optimization with uncertainties (Two-stage mixed-integer linear programming (MILP))
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-2026: Decarbonization potential of integrating CCUS/CDR in hard-to-abate sectors
+  * Decarbonization pathways and scenarios of hard-to-abate sectors (cement and chemical industry)
+  * Carbon Dioxide Removal (CDR) technologies and systems design
+  * Integrated assessment models (IAMs) and open source packages for energy systems modelling (e.g., MESSAGEix and PyPSA)
   
 Skills
 ======
-* Mathematical Programming: GAMs, Python, Julia
-* Data Science: Python, Julia, R
+* Mathematical Programming: GAMs, Python, Julia (JuMP)
+* Data Science: Python, Julia, R, Git
 * Life Cycle Assessment: Brightway2, Activity-Browser, Premise, OpenLCA
 * Engineering Simulation: ANSYS Fluent, COMSOL, MATLAB, Aspen Plus
 * Language: Chinese (Native), English (Fluent), German (Beginner)
-* Hobbies: Biking, Tennis, Swimming, Hiking, Reading, Music
+* Hobbies: Biking, Tennis, Climbing, Swimming, Reading, Music
 
   
 Conferences and Extra-training
