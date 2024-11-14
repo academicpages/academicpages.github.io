@@ -11,5 +11,5 @@ redirect_from:
 
 ## Download
 
-* To Download my offical transcript in Computer Science (Major), click [here](/files/CE-Transcript-alikeramati.pdf)
-* To Download my offical transcript in Educational Science (Minor), click [here](/files/Ed-Transcript-alikeramati.pdf)
+* To Download my transcript in Computer Engineering (Major), click [Official Persian](/files/CE-Transcripts-OfficialPersian.pdf) or [Translated English](/files/CE-Transcript-English.pdf)
+* To Download my offical transcript in Educational Science (Minor), click [Official Persian](/files/Ed-Transcripts-OfficialPersian.pdf) or [Translated English](/files/Ed-Transcript-English.pdf)
