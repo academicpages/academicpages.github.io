@@ -53,12 +53,21 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+/*purple set
+*/
+$mauve                      : #C6A5FF;
+$purple-mountain            : #967DC1;
+$studio-purple              : #5f43b2;
+$mulled-wine                : #5C4C75;
+$martinique                 : #3E334F;
+$bastille                   : #201A28;
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
+$code-background-color-dark : $purple-mountain;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $mauve;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
