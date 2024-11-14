@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemcial Engineering, Southwest Petroleum University, Chengdu, China, 2019
-* M.S. in Chemical Engineering, Chinese Academy of Science, Sino-Danish Center, Beijing, China, 2022
-* M.S. in Chemical and Biochemical Engineering, Technical University of Denmark (Double master), 2021
+* B.S. in Chemical Engineering, Southwest Petroleum University, Chengdu, China, 2019
+* M.S. in Chemical Engineering, Chinese Academy of Science, Sino-Danish Center (SDC), Beijing, China, 2022
+* M.S. in Chemical and Biochemical Engineering, Technical University of Denmark (DTU) (Double M.S.), 2021
 * Ph.D in Process Systems Engineering, Vienna University of Technology (TU Wien), Vienna, Austria, 2026 (expected)
 
 Projects experience
@@ -23,10 +23,15 @@ Projects experience
   * Prospective life cycle assessment and techno-economic assessment
   * Mathematical optimization with uncertainties (Two-stage mixed-integer linear programming (MILP))
 
-* 2025-2026: Decarbonization potential of integrating CCUS/CDR in hard-to-abate sectors
+* 2024-2026: Decarbonization potential of integrating CCUS/CDR in hard-to-abate sectors
   * Decarbonization pathways and scenarios of hard-to-abate sectors (cement and chemical industry)
   * Carbon Dioxide Removal (CDR) technologies and systems design
   * Integrated assessment models (IAMs) and open source packages for energy systems modelling (e.g., MESSAGEix and PyPSA)
+  
+* 2020-2021:
+* 2019:
+* 2018:
+* 2017:
   
 Skills
 ======
