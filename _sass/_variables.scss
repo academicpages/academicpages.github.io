@@ -52,6 +52,7 @@ $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
+$pearl                      : #E2DFD2;
 
 /*purple set
 */
@@ -63,11 +64,11 @@ $martinique                 : #3E334F;
 $bastille                   : #201A28;
 
 $body-color                 : #fff;
-$background-color           : $mauve;
+$background-color           : $pearl;
 $code-background-color      : $purple-mountain;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$border-color               : $purple-mountain;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
