@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,54 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+# 📝 My Journey in Code and Beyond
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Welcome to a curated walkthrough of my education, experience, and projects that shape my path as a **Software Engineer** and **Tech Enthusiast**.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
+ <a href="https://venkateshaddala.github.io/Addala-Venkatesh/files/resume.pdf" target="_blank" rel="noopener noreferrer">View Full Resume (PDF)</a>
+## 🎓 **Academic Voyage**
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### **Master of Science in Computer Science**
+*University of Central Florida, 2024-2026*  
+Exploring advanced topics from **Algorithms** to **Machine Learning**, I am committed to transforming data into insightful solutions and scalable applications.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### **Bachelor of Technology in Computer Science and Engineering**
+*Sri Venkateswara University, 2017-2020*  
+With a strong foundation in software engineering, I embarked on my professional journey equipped with versatile skills in programming and problem-solving.
+
+### **Diploma in Computer Engineering, SBTET**
+*Sree Vidyanikethan Engineering College, 2014 - 2017*  
+Developed foundational skills in software engineering and computer science, with a strong focus on Software development and programming principles. 
+
+
+---
+
+## 💼 **Professional Experience**
+
+### **Software Engineer, Impetus Inc.**
+*May 2022 - June 2024*  
+Pioneered performance optimization and data management for a variety of enterprise systems, achieving substantial improvements:
+
+- **Data Transformation & Optimization**: Led the migration of complex SAS stored procedures to PySpark on Databricks, significantly boosting processing performance and scalability.
+- **ETL Workflow Orchestration**: Designed ADF pipelines to integrate seamlessly with PySpark-based workflows, ensuring efficient and reliable data movement.
+- **Data Migration**: Spearheaded the migration from Informatica and Teradata to Snowflake for Cummins, enhancing data retrieval and storage efficiencies.
+- **Enhanced BI Capabilities**: Integrated ETL data with Oracle Business Intelligence (OBIEE) for improved visualization and reporting.
+- **Technical Exploration**: Conducted a Proof of Concept (POC) using Scala for multi-platform data ingestion.
+- **Tech Stack**: Python, PySpark, SQL, Snowflake, Databricks, Scala, Informatica, Teradata.
+
+
+### **Software Engineer, Exafluence Inc.**
+*Aug 2020 - May 2022*  
+Focused on building scalable healthcare applications and real-time data pipelines:
+
+- **SQL-to-Spark Conversion**: Converted intricate SQL procedures to Spark, building scalable ETL workflows using Java and Spark SQL.
+- **Data Warehouse Modernization**: Implemented Apache Airflow on Dataproc clusters to streamline data processing workflows.
+- **FHIR Healthcare Application**: Played a critical role in developing EXF-FHIR, a healthcare data application supporting CRUD and version tracking, and leveraged Spark and Kafka for HL7 FHIR-compliant data processing.
+- **API & ETL Development**: Created RESTful FHIR APIs with Java and Spring Boot and built ETL modules for real-time data processing.
+- **Tech Stack**: Java, Spark, Spark SQL, Hive, Apache Airflow, Spring Boot, Kafka, MongoDB, ReactJS, Python.
+
+
+---
+
+ 
