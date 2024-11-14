@@ -5,23 +5,27 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/   
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
+  - title: "Captain's Log"
     url: /cv/
+
+  - title: "Expeditions"
+    url: /projects/    
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Tech Deck"
+    url: /toolkit/
+
+  - title: "Milestones"
+    url: /milestones/
+
+  #- title: "Let's Connect"
+    #url: /talks/ 
+        
+  
+    
+  
+    
+  # - title: "Guide"
+  #   url: /markdown/
