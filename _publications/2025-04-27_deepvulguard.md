@@ -6,7 +6,6 @@ excerpt: 'We present DeepVulGuard, an AI-powered vulnerability detection & repai
 date: 2025-04-27
 venue: 'ICSE'
 venue-type: conference-paper
-paperurl: 'TBD'
 citation: 'Benjamin Steenhoek, Siva Sivaraman, Renata Saldivar, Yevhen Mohylevskyy, Roshanak Zilouchian Moghaddam, and Wei Le. 2025. Closing the Gap: A User Study on the Real-world Usefulness of AI-powered Vulnerability Detection & Repair in the IDE. In 2025 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’25), April 27–May 3, 2025, Ottawa, Canada.'
 ---
 
