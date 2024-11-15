@@ -13,6 +13,4 @@ venue: 'May' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Han-Ying Lin.
-New Surface Flattening Scheme and Its Application in the Visualization of the Human Cortex Unfolding
-Journal of the Chinese Institute of Engineers, Vol. 28, No. 3, pp. 539-544, May 2005,
+<strong><u>Tong-Yee Lee</u></strong>, Han-Ying Lin, "New Surface Flattening Scheme and Its Application in the Visualization of the Human Cortex Unfolding", Journal of the Chinese Institute of Engineers, Vol. 28, No. 3, pp. 539-544, May 2005,

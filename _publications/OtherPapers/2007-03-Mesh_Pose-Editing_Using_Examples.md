@@ -11,5 +11,4 @@ venue: 'March' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin, Hung-Kuo Chu,Yu-Shuen Wang,Shao-Wei Yen, Chang-Rung Tsai
-Mesh Pose-Editing Using Examples. Computer Animation and Virtual Worlds Journal, 2007
+<strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin, Hung-Kuo Chu,Yu-Shuen Wang,Shao-Wei Yen, Chang-Rung Tsai, "Mesh Pose-Editing Using Examples", Computer Animation and Virtual Worlds Journal, 2007

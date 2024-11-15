@@ -12,6 +12,4 @@ paperurl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG_skeleton_2008/TVCG_
 # codeurl: '
 ---
 	
-Yu-Shuen Wang, <strong><u>Tong-Yee Lee*</u></strong>
-Curve Skeleton Extraction Using Iterative Least Squares Optimization
-<strong><u>IEEE Transactions on Visualization and Computer Graphics</u></strong> July/Aug., Vol.14, No.4, 2008, pp. 926-936
+Yu-Shuen Wang, <strong><u>Tong-Yee Lee*</u></strong>, "Curve Skeleton Extraction Using Iterative Least Squares Optimization", <strong><u>IEEE Transactions on Visualization and Computer Graphics</u></strong> July/Aug., Vol.14, No.4, 2008, pp. 926-936

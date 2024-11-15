@@ -14,6 +14,4 @@ venue: 'January' # 如果 date 確定，就補上日期
 ---
 	
 	
-Ping-Hsien Lin, <strong><u>Tong-Yee Lee</u></strong>
-Three-dimensional Scene Walkthrough System Using Multiple Acentric Panorama View (APV) Technique.
-IEICE Transactions on Information and Systems, Vol.E86-D No.1 pp.117-122 2003/Jan. 
+Ping-Hsien Lin, <strong><u>Tong-Yee Lee</u></strong>, "Three-dimensional Scene Walkthrough System Using Multiple Acentric Panorama View (APV) Technique", IEICE Transactions on Information and Systems, Vol.E86-D No.1 pp.117-122 2003/Jan. 

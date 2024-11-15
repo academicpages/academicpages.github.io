@@ -13,6 +13,4 @@ venue: 'March' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 		
-<strong><u>Tong-Yee Lee</u></strong>, Ping-Hsien Lin, Chao-Hung Lin
-Practice and Experience: Interactive Rendering of Colonic Environment on PC-platform
-Journal of Information Science & Engineering, Vol. 17, No. 2, March, 2001, pp. 297-312.
+<strong><u>Tong-Yee Lee</u></strong>, Ping-Hsien Lin, Chao-Hung Lin, "Practice and Experience: Interactive Rendering of Colonic Environment on PC-platform", Journal of Information Science & Engineering, Vol. 17, No. 2, March, 2001, pp. 297-312.

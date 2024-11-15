@@ -13,6 +13,4 @@ venue: 'November' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Hon-YI Chen,.
-The Design and Implementation of Realistic Fish Animation Play System Using Video Sequence,
-Journal of Information Science & Engineering, Vol. 19, No. 6, Nov. 2003, pp. 1071-1085.  [Video][Web]
+<strong><u>Tong-Yee Lee</u></strong>, Hon-YI Chen, "The Design and Implementation of Realistic Fish Animation Play System Using Video Sequence", Journal of Information Science & Engineering, Vol. 19, No. 6, Nov. 2003, pp. 1071-1085.  [Video][Web]

@@ -11,6 +11,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 		
-<strong><u>Tong-Yee Lee</u></strong>, Yu-Shuen Wang , Tai-Guang Chen.
-Segmenting a Deforming Mesh into Near-Rigid Components
-Visual Computer Journal Vol. 22, No. 9-11, Sept. 2006, pp. 729-739
+<strong><u>Tong-Yee Lee</u></strong>, Yu-Shuen Wang , Tai-Guang Chen, "Segmenting a Deforming Mesh into Near-Rigid Components", Visual Computer Journal Vol. 22, No. 9-11, Sept. 2006, pp. 729-739

@@ -11,6 +11,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Zhi-Yuan Yao, Hung-Kuo Chu, Ming-Jen Tai, and Cheng-Chieh Chen.
-Generating Genus-n-to-m Mesh Morphing Using Spherical Parameterization
-Computer Animation and Virtual Worlds Journal,2006, CAVW 17(3-4), pp. 433-443
+<strong><u>Tong-Yee Lee</u></strong>, Zhi-Yuan Yao, Hung-Kuo Chu, Ming-Jen Tai, and Cheng-Chieh Chen, "Generating Genus-n-to-m Mesh Morphing Using Spherical Parameterization", Computer Animation and Virtual Worlds Journal,2006, CAVW 17(3-4), pp. 433-443

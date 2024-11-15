@@ -14,8 +14,7 @@ paperurl: 'http://graphics.csie.ncku.edu.tw/Quad_Sketech/Yao.pdf'
 # codeurl: '
 ---
 	
-C.-Y. Yao, H.-K. Chu, T. Ju and <strong><u>T.-Y. Lee*</u></strong>.
-Compatible quadrangulation by sketching
-Computer Animation And Virtual Worlds (Proceedings of CASA'09)
+C.-Y. Yao, H.-K. Chu, T. Ju and <strong><u>T.-Y. Lee*</u></strong>, "Compatible quadrangulation by sketching", Computer Animation And Virtual Worlds (Proceedings of CASA'09)
+
 [Quad-Dataset and Morphing Application](http://graphics.csie.ncku.edu.tw/Quad_Sketech/Sketch_Quad.rar)
 

@@ -13,6 +13,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 		
-<strong><u>Tong-Yee Lee</u></strong>, C.S Raghavendra, J.B. Nicholas
-Parallel Implementation of Ray-tracing Algorithm on the Distributed Memory Parallel Computers.
-Journal Concurrency: Practice and Experience, 9:10, 947-965, 1997
+<strong><u>Tong-Yee Lee</u></strong>, C.S Raghavendra, J.B. Nicholas, "Parallel Implementation of Ray-tracing Algorithm on the Distributed Memory Parallel Computers", Journal Concurrency: Practice and Experience, 9:10, 947-965, 1997

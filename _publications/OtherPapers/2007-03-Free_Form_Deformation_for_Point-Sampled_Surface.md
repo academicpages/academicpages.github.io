@@ -1,5 +1,5 @@
 ---
-title: "ree_Form_Deformation_for_Point-Sampled_Surface"
+title: "Free Form Deformation for Point-Sampled Surface"
 teaser: '/publications/image090.gif'
 collection: publications
 category: OtherPapers
@@ -11,6 +11,4 @@ venue: 'March' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-Ping-Hsien Lin, <strong><u>Tong-Yee Lee</u></strong>, and C. F. Lin
-Free-Form Deformation for Point-Sampled Surface
-Journal of Information Science & Engineering, Vol. 23, No. 3 (May issue), pp.757-771, 2007.
+Ping-Hsien Lin, <strong><u>Tong-Yee Lee</u></strong>, and C. F. Lin "Free-Form Deformation for Point-Sampled Surface",Journal of Information Science & Engineering, Vol. 23, No. 3 (May issue), pp.757-771, 2007.

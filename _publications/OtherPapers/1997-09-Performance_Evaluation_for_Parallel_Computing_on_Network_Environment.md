@@ -13,6 +13,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>, S.F. Hsiao and T.C. Lu.
-Performance Evaluation for Parallel Computing on Network Environment
-Journal of High Performance Computing Application, Vol. 4, No. 1, pp. 25-35, 1997.
+Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>, S.F. Hsiao and T.C. Lu, "Performance Evaluation for Parallel Computing on Network Environment", Journal of High Performance Computing Application, Vol. 4, No. 1, pp. 25-35, 1997.

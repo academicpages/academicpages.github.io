@@ -92,8 +92,8 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
                 <hr />
             {% endif %}
             {% if post.images %}
+            <div class="archive__item-content" >
                 {% for image in post.images %}
-                    <div class="archive__item-content" >
                         <img src=
                         {% if image contains "://" %}
                             "{{ image }}"
@@ -101,9 +101,9 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
                             "{{ image | prepend: "/images/" | prepend: base_path }}"
                         {% endif %}
                         alt="">
-                    </div>
                     <!-- <img src="{{ image }}" alt="Research Summary Image"> -->
                 {% endfor %}
+            </div>
             {% endif %}
             {% if post.papers %}
                 {% for paper in post.papers %}
@@ -116,8 +116,8 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
     {% for post in site.research_summary reversed %}
         <div class="post-introduction">{{ post.introduction }}</div>
         {% if post.images %}
+        <div class="archive__item-content" >
             {% for image in post.images %}
-                <div class="archive__item-content" >
                     <img src=
                     {% if image contains "://" %}
                         "{{ image }}"
@@ -125,8 +125,8 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
                         "{{ image | prepend: "/images/" | prepend: base_path }}"
                     {% endif %}
                     alt="">
-                </div>
             {% endfor %}
+        </div>
         {% endif %}
         {% if post.papers %}
             {% for paper in post.papers %}

@@ -13,6 +13,4 @@ venue: 'July' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Ping-Hsien Lin, Shaur-Uei Yan, Chun-Hao Lin
-Mesh Decomposition Using Motion Information From Animation Sequence
-Computer Animation and Virtual Worlds Journal, Vol. 16, No. 3-4, July, pp. 519-529, 2005 
+<strong><u>Tong-Yee Lee</u></strong>, Ping-Hsien Lin, Shaur-Uei Yan, Chun-Hao Lin, "Mesh Decomposition Using Motion Information From Animation Sequence", Computer Animation and Virtual Worlds Journal, Vol. 16, No. 3-4, July, pp. 519-529, 2005 

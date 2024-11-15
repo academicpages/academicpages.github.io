@@ -13,6 +13,4 @@ venue: 'March' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, T. L. Weng, Chao-Hung Lin,Y. N. Sun
-Interactive Voxel Surface Rendering in Medical Applications
-Computerized Medical Imaging and Graphics," 23 (1999) pp. 193-200, 1999
+<strong><u>Tong-Yee Lee</u></strong>, T. L. Weng, Chao-Hung Lin,Y. N. Sun, "Interactive Voxel Surface Rendering in Medical Applications", Computerized Medical Imaging and Graphics," 23 (1999) pp. 193-200, 1999

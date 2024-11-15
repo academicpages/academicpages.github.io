@@ -13,6 +13,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-Tainchi Lu, Chungwen Chiang, Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>
-A Web-based Distributed and Collaborative 3D Animation Environment
-Concurrency: Practice and Experience, 9:11, 1261-1268, 1997
+Tainchi Lu, Chungwen Chiang, Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>, "A Web-based Distributed and Collaborative 3D Animation Environment" Concurrency: Practice and Experience, 9:11, 1261-1268, 1997

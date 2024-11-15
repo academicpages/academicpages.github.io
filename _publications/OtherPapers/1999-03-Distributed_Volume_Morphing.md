@@ -13,6 +13,4 @@ venue: 'March' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 		
-Leewen Lin, C.N. Lee, <strong><u>Tong-Yee Lee</u></strong>
-Distributed Volume Morphing.
-Cluster Computing Journal (The Journal of Networks, Software Tools and Applications) Vol. 2 No. 3, pp. 219-227, 1999
+Leewen Lin, C.N. Lee, <strong><u>Tong-Yee Lee</u></strong>, "Distributed Volume Morphing", Cluster Computing Journal (The Journal of Networks, Software Tools and Applications) Vol. 2 No. 3, pp. 219-227, 1999

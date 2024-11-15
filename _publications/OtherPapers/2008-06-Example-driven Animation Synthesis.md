@@ -13,5 +13,4 @@ videourl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/CGI_2008/CGI_2008_animat
 # codeurl: '
 ---
 	
-Yu-Shuen Wang, <strong><u>Tong-Yee Lee</u></strong>, “Example-driven Animation Synthesis ”,
-<strong><u>Computer Graphics International 2008</u></strong> <strong><u>(<span style="color:red">also selected as a special issue of CGI 2008 in The Visual Computer Journal, accepting rate: 39/220</span>), Istanbul, Turkey , June 2008, SCI/EI</u></strong>
+Yu-Shuen Wang, <strong><u>Tong-Yee Lee</u></strong>, “Example-driven Animation Synthesis ”, <strong><u>Computer Graphics International 2008</u></strong> <strong><u>(<span style="color:red">also selected as a special issue of CGI 2008 in The Visual Computer Journal, accepting rate: 39/220</span>), Istanbul, Turkey , June 2008, SCI/EI</u></strong>

@@ -13,6 +13,4 @@ venue: 'June' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, T.L, Weng, Y.N. Sun,
-Optimized Semi-boundary Rendering Scheme
-Journal of Information Science and Engineering, Vol. 15, No. 6, pp. 845-858, 1999
+<strong><u>Tong-Yee Lee</u></strong>, T.L, Weng, Y.N. Sun, "Optimized Semi-boundary Rendering Scheme", Journal of Information Science and Engineering, Vol. 15, No. 6, pp. 845-858, 1999

@@ -13,6 +13,4 @@ venue: 'May' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin
-Growing-cube Iso-surface Extraction Algorithm For Medical Volume Data.
-Computerized Medical Imaging and Graphics. 25:5, page 405-415, 2001
+<strong><u>Tong-Yee Lee</u></strong>, Chao-Hung Lin, "Growing-cube Iso-surface Extraction Algorithm For Medical Volume Data", Computerized Medical Imaging and Graphics. 25:5, page 405-415, 2001

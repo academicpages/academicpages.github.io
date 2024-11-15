@@ -13,6 +13,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 
-Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>, Tain-Chi Lu and Yao-Tsung Chen
-World-Wide Web Based Distributed Animation Environment
-Journal of Computer Networks and ISDN Systems, Vol. 29, No. 14, pp. 1635-1644, 1997
+Chungnan Lee, <strong><u>Tong-Yee Lee</u></strong>, Tain-Chi Lu and Yao-Tsung Chen, "World-Wide Web Based Distributed Animation Environment", Journal of Computer Networks and ISDN Systems, Vol. 29, No. 14, pp. 1635-1644, 1997

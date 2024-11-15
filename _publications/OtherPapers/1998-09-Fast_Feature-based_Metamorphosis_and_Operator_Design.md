@@ -13,6 +13,4 @@ venue: 'September' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-<strong><u>Tong-Yee Lee</u></strong>, Y.C. Lin, L. Lin, Y.N. Sun
-Fast Feature-based Metamorphosis and Operator Design
-<span style="color:red">EuroGraphics'98</span>, Journal of Computer Graphics Forum, Volume 17, Number 3, pp. C15-22, 1998
+<strong><u>Tong-Yee Lee</u></strong>, Y.C. Lin, L. Lin, Y.N. Sun, "Fast Feature-based Metamorphosis and Operator Design", <span style="color:red">EuroGraphics'98</span>, Journal of Computer Graphics Forum, Volume 17, Number 3, pp. C15-22, 1998

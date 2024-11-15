@@ -11,6 +11,4 @@ venue: 'June' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 	
-Chun-Rong Huang, Pau-Choo Chung, <strong><u>Tong-Yee Lee</u></strong>, Sheng-Chih Yang, San-Kan Lee
-Reconstruction and Rendering of Microcalcifications from Two Mammogram Views by Modified Projective Grid Space (MPGS)
-Computerized Medical Imaging & Graphics, 30 (2006), pp. 123-133.
+Chun-Rong Huang, Pau-Choo Chung, <strong><u>Tong-Yee Lee</u></strong>, Sheng-Chih Yang, San-Kan Lee, "Reconstruction and Rendering of Microcalcifications from Two Mammogram Views by Modified Projective Grid Space (MPGS)", Computerized Medical Imaging & Graphics, 30 (2006), pp. 123-133.
