@@ -30,4 +30,8 @@ group :jekyll_plugins do
 end
 
 # gem 'tzinfo-data', platforms: [:x64_mingw]
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem 'tzinfo-data', platforms: [:mingw, :mswin]
+
+# require 'em/pure_ruby'
+# gem 'eventmachine', '1.2.7', git: 'git@github.com:eventmachine/eventmachine', tag: 'v1.2.7'
+gem 'sorted_set'
