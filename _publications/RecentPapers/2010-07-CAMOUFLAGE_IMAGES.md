@@ -1,6 +1,6 @@
 ---
 title: "CAMOUFLAGE IMAGES"
-teaser: '/publications/image022.jpg'
+teaser: '/publications/CAMOUFLAGE_IMAGES.jpg'
 collection: publications
 category: RecentPapers
 permalink: /publications/RecentPapers/2010-07-CAMOUFLAGE_IMAGES

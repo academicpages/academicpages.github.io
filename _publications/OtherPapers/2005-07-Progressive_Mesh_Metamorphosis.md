@@ -1,6 +1,6 @@
 ---
 title: "Progressive Mesh Metamorphosis"
-teaser: '/publications/record16.jpg'
+teaser: '/publications/Progressive_Mesh_Metamorphosis.jpg'
 collection: publications
 category: OtherPapers
 permalink: /publications/OtherPapers/2005-07-Progressive_Mesh_Metamorphosis

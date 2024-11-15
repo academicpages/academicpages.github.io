@@ -1,6 +1,6 @@
 ---
 title: "Mesh Pose-Editing Using Examples"
-teaser: '/publications/record25.jpg'
+teaser: '/publications/Mesh_Pose-Editing_Using_Examples.jpg'
 collection: publications
 category: OtherPapers
 permalink: /publications/OtherPapers/2007-03-Mesh_Pose-Editing_Using_Examples

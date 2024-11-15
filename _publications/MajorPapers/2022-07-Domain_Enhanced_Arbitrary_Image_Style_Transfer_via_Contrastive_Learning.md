@@ -1,6 +1,6 @@
 ---
 title: "Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning"
-teaser: '/publications/image190.gif'
+teaser: '/publications/Domain_Enhanced_Arbitrary_Image_Style_Transfer_via_Contrastive_Learning.jpg'
 collection: publications
 category: MajorPapers
 permalink: /publications/MajorPapers/2022-07-Domain_Enhanced_Arbitrary_Image_Style_Transfer_via_Contrastive_Learning
