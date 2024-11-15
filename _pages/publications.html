@@ -19,11 +19,11 @@ profile</a>.</div>
 </style>
 <div>
 <div class="link-container" style="font-size:16.0pt">
-[<a  class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/tony.htm">Prof. Tong-Yee Lee</a>] [<a 
+[<a class="link-style" href="/professor">Prof. Tong-Yee Lee</a>] [<a 
 class="link-style" href="/research_summary">Research Summary</a>] [<a 
-class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#jp">Major Journal Papers</a>] [<a 
-class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#sjp">Selected Journal Papers</a>] [<a 
-class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ricp">Recent International Conference Papers</a>]
+class="link-style" href="/publications#MajorPapers">Major Journal Papers</a>] [<a 
+class="link-style" href="/publications#OtherPapers">Selected Journal Papers</a>] [<a 
+class="link-style" href="/publications#RecentPapers">Recent International Conference Papers</a>]
 </div>
 
 <br>
@@ -76,7 +76,7 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
 {% continue %}
 {% endif %}
 {% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
+<h2 id={{category[0]}}>{{ category[1].title }}</h2>
 <hr />
 {% assign title_shown = true %}
 {% endunless %}
