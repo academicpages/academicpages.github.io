@@ -1,5 +1,5 @@
 ---
-title: "Disparity-preserving Image Rectangularization for Stereoscopic Panorama,”Multimedia Tools and Applications"
+title: "Disparity-preserving Image Rectangularization for Stereoscopic Panorama"
 teaser: '/publications/image254.gif'
 collection: publications
 category: OtherPapers
