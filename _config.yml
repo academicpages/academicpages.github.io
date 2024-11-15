@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Benjamin Steenhoek"
 title_separator          : "-"
 name                     : &name "Benjamin Steenhoek"
-description              : &description "PhD student at Iowa State University"
+description              : &description "Senior Researcher at Microsoft"
 url                      : https://benjijang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bstee615/bstee615.github.io"
@@ -84,12 +84,12 @@ author:
   avatar           : "profile.png"
   bio              : *description
   location         : #"Ames, IA"
-  employer         : "Iowa State University"
+  employer         : "Microsoft"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dzXbaEMAAAAJ"
   email            : benjis@iastate.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://www.microsoft.com/en-us/research/people/bensteenhoek/"
   bitbucket        :
   codepen          :
   dribbble         :
