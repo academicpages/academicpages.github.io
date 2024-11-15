@@ -1,0 +1,137 @@
+---
+layout: archive
+title: "Research Summary"
+permalink: /research_summary/
+author_profile: false
+---
+<!-- 連結要改 -->
+
+<!-- {% if site.author.googlescholar %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
+profile</a>.</div>
+{% endif %} -->
+<style>
+    .link-style {
+        font-size: 20pt; 
+        font-family: 'Helvetica', serif; 
+        color: #0000EE; 
+    }
+    .tony-profile-image {
+        float: left;          /* 圖片浮動到左側 */
+        margin: 0 15px 10px 0; /* 圖片右側和下方的間距 */
+        width: 150px;         /* 圖片的寬度，可根據需要調整 */
+    }
+    .post-introduction {
+        font-size: 16.0pt;
+        line-height: 115%;
+        font-family: "Times New Roman", serif;
+        color: #0000CC;
+        font-style: italic;
+    }
+    .post-papers {
+        font-size: 14.0pt;
+        font-family: "Times New Roman", serif;
+        color: #212529;
+    }   
+</style>
+<div>
+<div class="link-container" style="font-size:16.0pt">
+[<a  class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/tony.htm">Prof. Tong-Yee Lee</a>] [<a 
+class="link-style" href="/research_summary">Research Summary</a>] [<a 
+class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#jp">Major Journal Papers</a>] [<a 
+class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#sjp">Selected Journal Papers</a>] [<a 
+class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ricp">Recent International Conference Papers</a>]
+</div>
+<br>
+<br>
+<br>
+
+
+
+
+<div class="profile-container">
+    <img src="/images/tony002.jpg" alt="Prof. Tong-Yee Lee" class="tony-profile-image">
+    <div class="profile-text">
+        <a href="http://graphics.csie.ncku.edu.tw/Tony/tony.htm">Prof. Tong-Yee (Tony) Lee</a> is a <strong> Chair Professor</strong> in the 
+        <a href="https://www.csie.ncku.edu.tw/">Computer Science and Information Engineering Department</a> of 
+        <a href="https://www.ncku.edu.tw/">National Cheng-Kung University</a>, and the head of the
+        <a href="http://graphics.csie.ncku.edu.tw/">Computer Graphics Group/Visual System Laboratory</a>. 
+        
+        His research interests are in <strong>multimedia retargeting, computer graphics, visualization, deep learning and medical applications</strong>. 
+        His email: <a href="mailto:tonylee@mail.ncku.edu.tw">tonylee@mail.ncku.edu.tw</a> and the research summary of 
+        <a herf="/publications">his major publications</a> is listed below. Up to now, he has published (or accepted) near 
+        <strong><span style="color:red">90</span> IEEE/ACM Transactions/SIGGRAPH/SIGGRAPH Asia/CVPR papers</strong> including 
+        <strong><span style="color:red">13</span> ACM TOG</strong> and 
+        <strong><span style="color:red">48</span> IEEE TVCG</strong> papers. 
+        Both <strong>TOG</strong> and <strong>TVCG</strong> are <strong><span style="color:red">TOP journals</span></strong> in <strong><span style="color:#0070C0">computer graphics</span></strong>. 
+        Our <strong><span style="color:red">13</span> ACM TOG</strong> papers are also <strong><span style="color:red">SIGGRAPH/SIGGRAPH Asia</span></strong> papers
+        (<strong>total <span style="color:red">12</span> siggraph/siggraph asia papers</strong>). 
+        <a href="http://graphics.csie.ncku.edu.tw/Tony/publication_list/tony_paper_list.pdf">My publication list</a>
+
+    
+        <p>Updated: (2024/10/08)</p>
+    </div>
+</div>
+
+{% if site.research_summary_category %}
+    {% for category in site.research_summary_category %}
+        {% assign title_shown = false %}
+        {% for post in site.research_summary reversed %}
+            {% if post.category != category[0] %}
+                {% continue %}
+            {% endif %}
+            {% unless title_shown %}
+                <h2>{{ category[1].title }}</h2>
+                <hr />
+                {% assign title_shown = true %}
+            {% endunless %}
+            {% if post.introductions %}
+                {% for introduction in post.introductions %}
+                    <div class="post-introduction"><strong>{{ introduction }}</strong></div><br>
+                {% endfor %}
+                <hr />
+            {% endif %}
+            {% if post.images %}
+                {% for image in post.images %}
+                    <div class="archive__item-content" >
+                        <img src=
+                        {% if image contains "://" %}
+                            "{{ image }}"
+                        {% else %}
+                            "{{ image | prepend: "/images/" | prepend: base_path }}"
+                        {% endif %}
+                        alt="">
+                    </div>
+                    <!-- <img src="{{ image }}" alt="Research Summary Image"> -->
+                {% endfor %}
+            {% endif %}
+            {% if post.papers %}
+                {% for paper in post.papers %}
+                    <div class="post-papers"><strong>({{ forloop.index }})</strong>  {{ paper }}</div>
+                {% endfor %}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+{% else %}
+    {% for post in site.research_summary reversed %}
+        <div class="post-introduction">{{ post.introduction }}</div>
+        {% if post.images %}
+            {% for image in post.images %}
+                <div class="archive__item-content" >
+                    <img src=
+                    {% if image contains "://" %}
+                        "{{ image }}"
+                    {% else %}
+                        "{{ image | prepend: "/images/" | prepend: base_path }}"
+                    {% endif %}
+                    alt="">
+                </div>
+            {% endfor %}
+        {% endif %}
+        {% if post.papers %}
+            {% for paper in post.papers %}
+                <div class="post-papers"><strong>({{ forloop.index }})</strong>  {{ paper }}</div>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endif %}

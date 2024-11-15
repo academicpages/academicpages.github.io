@@ -20,7 +20,7 @@ profile</a>.</div>
 <div>
 <div class="link-container" style="font-size:16.0pt">
 [<a  class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/tony.htm">Prof. Tong-Yee Lee</a>] [<a 
-class="link-style" href="http://graphics.csie.ncku.edu.tw/tony_research_summary_2018.htm">Research Summary</a>] [<a 
+class="link-style" href="/research_summary">Research Summary</a>] [<a 
 class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#jp">Major Journal Papers</a>] [<a 
 class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#sjp">Selected Journal Papers</a>] [<a 
 class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ricp">Recent International Conference Papers</a>]
@@ -80,11 +80,11 @@ class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/record_new.htm#ri
 <hr />
 {% assign title_shown = true %}
 {% endunless %}
-{% include archive-single.html type="table" %}
+{% include archive-single-publications.html type="table" %}
 {% endfor %}
 {% endfor %}
 {% else %}
 {% for post in site.publications reversed %}
-{% include archive-single.html %}
+{% include archive-single-publications.html %}
 {% endfor %}
 {% endif %}
