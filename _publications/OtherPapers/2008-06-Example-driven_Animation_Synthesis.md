@@ -3,7 +3,7 @@ title: "Example-driven Animation Synthesis"
 teaser: '/publications/image086.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2008-06-Example-driven Animation Synthesis
+permalink: /publication/2008-06-Example-driven_Animation_Synthesis
 date: '2008-06-31'
 venue: 'June' # 如果 date 確定，就補上日期
 
