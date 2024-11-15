@@ -3,7 +3,7 @@ title: "Motion-based Video Retargeting with Optimized Crop-and-Warp"
 teaser: '/publications/image020.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2010-07-Motion-based_Video_Retargeting_with_Optimized_Crop-and-Warp
+permalink: /publications/MajorPapers/2010-07-Motion-based_Video_Retargeting_with_Optimized_Crop-and-Warp
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2010-07-31'
 venue: 'July'

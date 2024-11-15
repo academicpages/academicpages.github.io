@@ -3,7 +3,7 @@ title: "Feature-constrained Texturing System for 3D Models"
 teaser: '/publications/Feature-constrained_Texturing_System_for_3D_Models.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2005-09-Feature-constrained_Texturing_System_for_3D_Models
+permalink: /publications/RecentPapers/2005-09-Feature-constrained_Texturing_System_for_3D_Models
 date: '2005-09-30'
 venue: 'September' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Interactive High-Relief Reconstruction for Organic and Double-sided Obje
 teaser: '/publications/image216.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2017-07-Interactive_High-Relief_Reconstruction_for_Organic_and_Double-sided_Objects_from_a_Photo
+permalink: /publications/MajorPapers/2017-07-Interactive_High-Relief_Reconstruction_for_Organic_and_Double-sided_Objects_from_a_Photo
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2017-07-31'
 venue: 'July'

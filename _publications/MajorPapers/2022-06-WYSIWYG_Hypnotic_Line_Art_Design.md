@@ -3,7 +3,7 @@ title: "WYSIWYG Hypnotic Line Art Design"
 teaser: '/publications/image194.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2022-06-WYSIWYG_Hypnotic_Line_Art_Design
+permalink: /publications/MajorPapers/2022-06-WYSIWYG_Hypnotic_Line_Art_Design
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2022-06-30'
 venue: 'June'

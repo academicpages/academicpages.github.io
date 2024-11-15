@@ -3,7 +3,7 @@ title: "Camera-Sampling Field and Its Applications"
 teaser: '/publications/record4.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2004-03-Camera_Sampling_Field_and_Its_Applications
+permalink: /publications/MajorPapers/2004-03-Camera_Sampling_Field_and_Its_Applications
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2004-03-31'
 venue: 'March'

@@ -3,7 +3,7 @@ title: "Example-driven Animation Synthesis"
 teaser: "/publications/Example-driven_animation_synthesis.jpg"
 collection: publications
 category: RecentPapers
-permalink: /publication/2008-06-Example-driven_Animation_Synthesis
+permalink: /publications/RecentPapers/2008-06-Example-driven_Animation_Synthesis
 date: '2008-06-30'
 venue: 'June' # 如果 date 確定，就補上日期
 

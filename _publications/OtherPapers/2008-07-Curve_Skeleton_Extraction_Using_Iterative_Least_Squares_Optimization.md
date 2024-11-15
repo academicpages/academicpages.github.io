@@ -3,7 +3,7 @@ title: "Curve Skeleton Extraction Using Iterative Least Squares Optimization"
 teaser: '/publications/image082.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2008-07-Curve_Skeleton_Extraction_Using_Iterative_Least_Squares_Optimization
+permalink: /publications/OtherPapers/2008-07-Curve_Skeleton_Extraction_Using_Iterative_Least_Squares_Optimization
 date: '2008-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 

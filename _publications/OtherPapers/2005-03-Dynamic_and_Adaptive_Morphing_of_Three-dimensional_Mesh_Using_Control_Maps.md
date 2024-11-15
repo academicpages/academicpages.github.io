@@ -3,7 +3,7 @@ title: "Dynamic and Adaptive Morphing of Three-dimensional Mesh Using Control Ma
 teaser: '/publications/image094.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2005-03-Dynamic_and_Adaptive_Morphing_of_Three-dimensional_Mesh_Using_Control_Maps
+permalink: /publications/OtherPapers/2005-03-Dynamic_and_Adaptive_Morphing_of_Three-dimensional_Mesh_Using_Control_Maps
 date: '2005-03-31'
 venue: 'March' # 如果 date 確定，就補上日期
 

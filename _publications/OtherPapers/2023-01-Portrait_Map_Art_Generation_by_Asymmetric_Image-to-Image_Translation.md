@@ -3,7 +3,7 @@ title: "Portrait Map Art Generation by Asymmetric Image-to-Image Translation"
 teaser: '/publications/image246.png'
 collection: publications
 category: OtherPapers
-permalink: /publication/2023-01-Portrait_Map_Art_Generation_by_Asymmetric_Image-to-Image_Translation
+permalink: /publications/OtherPapers/2023-01-Portrait_Map_Art_Generation_by_Asymmetric_Image-to-Image_Translation
 date: '2023-01-31'
 venue: 'January' # 如果 date 確定，就補上日期
 

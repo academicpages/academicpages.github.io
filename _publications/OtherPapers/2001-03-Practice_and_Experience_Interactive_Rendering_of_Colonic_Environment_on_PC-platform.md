@@ -3,7 +3,7 @@ title: "Practice and Experience: Interactive Rendering of Colonic Environment on
 teaser: '/publications/colon1.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2001-03-Practice_and_Experience_Interactive_Rendering_of_Colonic_Environment_on_PC-platform
+permalink: /publications/OtherPapers/2001-03-Practice_and_Experience_Interactive_Rendering_of_Colonic_Environment_on_PC-platform
 date: '2001-03-31'
 venue: 'March' # 如果 date 確定，就補上日期
 

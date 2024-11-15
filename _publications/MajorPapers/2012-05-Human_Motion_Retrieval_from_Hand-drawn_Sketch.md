@@ -3,7 +3,7 @@ title: "Human Motion Retrieval from Hand-drawn Sketch"
 teaser: '/publications/image010.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2012-05-Human_Motion_Retrieval_from_Hand-drawn_Sketch
+permalink: /publications/MajorPapers/2012-05-Human_Motion_Retrieval_from_Hand-drawn_Sketch
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2012-05-31'
 venue: 'May'

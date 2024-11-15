@@ -3,7 +3,7 @@ title: "Social-Event-Driven Camera Control for Multi-Character Animations"
 teaser: '/publications/image_SEDCCfMCA.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2012-09-Social-Event-Driven_Camera_Control_for_Multi-Character_Animations
+permalink: /publications/MajorPapers/2012-09-Social-Event-Driven_Camera_Control_for_Multi-Character_Animations
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2012-09-30'
 venue: 'September'

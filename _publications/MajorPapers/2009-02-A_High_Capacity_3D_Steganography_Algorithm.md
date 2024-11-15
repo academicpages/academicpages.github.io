@@ -3,7 +3,7 @@ title: "A High Capacity 3D Steganography Algorithm"
 teaser: '/publications/image030.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2009-02-A_High_Capacity_3D_Steganography_Algorithm
+permalink: /publications/MajorPapers/2009-02-A_High_Capacity_3D_Steganography_Algorithm
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2009-02-28'
 venue: 'May'

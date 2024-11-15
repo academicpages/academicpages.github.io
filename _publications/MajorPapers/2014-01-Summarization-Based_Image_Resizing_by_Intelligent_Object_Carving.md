@@ -3,7 +3,7 @@ title: "Summarization-Based Image Resizing by Intelligent Object Carving"
 teaser: '/publications/image235.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2014-01-Summarization-Based_Image_Resizing_by_Intelligent_Object_Carving
+permalink: /publications/MajorPapers/2014-01-Summarization-Based_Image_Resizing_by_Intelligent_Object_Carving
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2014-01-31'
 venue: 'May'

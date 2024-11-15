@@ -3,7 +3,7 @@ title: "Animation Streamlines with orthogonal advancing waves"
 teaser: '/publications/image263.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2013-12-Animation_Streamlines_with_orthogonal_advancing_waves
+permalink: /publications/OtherPapers/2013-12-Animation_Streamlines_with_orthogonal_advancing_waves
 date: '2013-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 

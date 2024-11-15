@@ -3,7 +3,7 @@ title: "Skeleton Extraction by Mesh Contraction"
 teaser: '/publications/image038.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-03-Skeleton_Extraction_by_Mesh_Contraction
+permalink: /publications/MajorPapers/2008-03-Skeleton_Extraction_by_Mesh_Contraction
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-03-31'
 venue: 'March'

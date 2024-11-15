@@ -3,7 +3,7 @@ title: "CAMOUFLAGE IMAGES"
 teaser: '/publications/image022.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2010-07-CAMOUFLAGE_IMAGES
+permalink: /publications/MajorPapers/2010-07-CAMOUFLAGE_IMAGES
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2010-07-31'
 venue: 'July'

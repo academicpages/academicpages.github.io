@@ -3,7 +3,7 @@ title: "Mesh Decomposition Using Motion Information From Animation Sequences"
 teaser: '/publications/image074.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2005-07-Mesh_Decomposition_Using_Motion_Information_From_Animation_Sequences
+permalink: /publications/RecentPapers/2005-07-Mesh_Decomposition_Using_Motion_Information_From_Animation_Sequences
 date: '2005-07-31'
 venue: 'July' # 如果 date 確定，就補上日期
 

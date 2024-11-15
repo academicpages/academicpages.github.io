@@ -3,7 +3,7 @@ title: "Optical illusion shape texturing using repeated asymmetric patterns"
 teaser: '/publications/image286.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2014-07-Optical_illusion_shape_texturing_using_repeated_asymmetric_patterns
+permalink: /publications/RecentPapers/2014-07-Optical_illusion_shape_texturing_using_repeated_asymmetric_patterns
 date: '2014-07-31'
 venue: 'July' # 如果 date 確定，就補上日期
 

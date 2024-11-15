@@ -3,7 +3,7 @@ title: "Regenerating Arbitrary Video Sequences with Distillation Path-Finding"
 teaser: '/publications/image167.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-07-Regenerating_Arbitrary_Video_Sequences_with_Distillation_Path-Finding
+permalink: /publications/MajorPapers/2024-07-Regenerating_Arbitrary_Video_Sequences_with_Distillation_Path-Finding
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-07-31'
 venue: 'July'

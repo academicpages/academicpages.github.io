@@ -3,7 +3,7 @@ title: "Object-Coherence Warping for Stereoscopic Image Retargeting"
 teaser: '/publications/image233.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2014-05-Object-Coherence_Warping_for_Stereoscopic_Image_Retargeting
+permalink: /publications/MajorPapers/2014-05-Object-Coherence_Warping_for_Stereoscopic_Image_Retargeting
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2014-05-31'
 venue: 'May'

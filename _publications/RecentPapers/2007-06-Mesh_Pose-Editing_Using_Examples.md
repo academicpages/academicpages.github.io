@@ -3,7 +3,7 @@ title: "Mesh Pose-Editing Using Examples"
 teaser: '/publications/image064.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2007-06-Mesh_Pose-Editing_Using_Examples
+permalink: /publications/RecentPapers/2007-06-Mesh_Pose-Editing_Using_Examples
 date: '2007-06-13'
 venue: 'June' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Efficient camera path planning algorithm for human motion overview"
 teaser: '/publications/image_ECPPAfHMO.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2011-04-Efficient_camera_path_planning_algorithm_for_human_motion_overview
+permalink: /publications/RecentPapers/2011-04-Efficient_camera_path_planning_algorithm_for_human_motion_overview
 date: '2011-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Intrinsic Image Decomposition with Step and Drift Shading Separation"
 teaser: '/publications/image208.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2020-02-Intrinsic_Image_Decomposition_with_Step_and_Drift_Shading_Separation
+permalink: /publications/MajorPapers/2020-02-Intrinsic_Image_Decomposition_with_Step_and_Drift_Shading_Separation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2020-02-28'
 venue: 'February'

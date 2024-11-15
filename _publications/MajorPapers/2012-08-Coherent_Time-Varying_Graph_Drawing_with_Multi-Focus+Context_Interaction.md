@@ -3,7 +3,7 @@ title: "Coherent Time-Varying Graph Drawing with Multi-Focus+Context Interaction
 teaser: '/publications/image_CTVGDwMFCI.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2012-08-Coherent_Time-Varying_Graph_Drawing_with_Multi-Focus+Context_Interaction
+permalink: /publications/MajorPapers/2012-08-Coherent_Time-Varying_Graph_Drawing_with_Multi-Focus+Context_Interaction
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2012-08-31'
 venue: 'August'

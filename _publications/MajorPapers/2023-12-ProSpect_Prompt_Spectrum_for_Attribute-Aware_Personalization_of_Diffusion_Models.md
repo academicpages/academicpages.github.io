@@ -3,7 +3,7 @@ title: "ProSpect: Prompt Spectrum for Attribute-Aware Personalization of Diffusi
 teaser: '/publications/image176.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-12-ProSpect_Prompt_Spectrum_for_Attribute-Aware_Personalization_of_Diffusion_Models
+permalink: /publications/MajorPapers/2023-12-ProSpect_Prompt_Spectrum_for_Attribute-Aware_Personalization_of_Diffusion_Models
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-12-31'
 venue: 'December'

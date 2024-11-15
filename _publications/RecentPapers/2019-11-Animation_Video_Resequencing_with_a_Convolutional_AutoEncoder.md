@@ -3,7 +3,7 @@ title: "Animation Video Resequencing with a Convolutional AutoEncoder"
 teaser: '/publications/image275.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2019-11-Animation_Video_Resequencing_with_a_Convolutional_AutoEncoder
+permalink: /publications/RecentPapers/2019-11-Animation_Video_Resequencing_with_a_Convolutional_AutoEncoder
 date: '2019-11-31'
 venue: 'November' # 如果 date 確定，就補上日期
 

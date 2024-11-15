@@ -3,7 +3,7 @@ title: "Spatially and Temporally Optimized Video Stabilization"
 teaser: '/publications/image238.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2013-08-Spatially_and_Temporally_Optimized_Video_Stabilization
+permalink: /publications/MajorPapers/2013-08-Spatially_and_Temporally_Optimized_Video_Stabilization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2013-08-31'
 venue: 'August'

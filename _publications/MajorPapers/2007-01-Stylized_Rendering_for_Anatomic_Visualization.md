@@ -3,7 +3,7 @@ title: "Stylized Rendering for Anatomic Visualization"
 teaser: '/publications/record2.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2007-01-Stylized_Rendering_for_Anatomic_Visualization
+permalink: /publications/MajorPapers/2007-01-Stylized_Rendering_for_Anatomic_Visualization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2007-01-31'
 venue: 'January'

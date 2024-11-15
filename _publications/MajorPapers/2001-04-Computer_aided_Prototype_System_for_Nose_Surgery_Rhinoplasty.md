@@ -3,7 +3,7 @@ title: "Computer-aided Prototype System for Nose Surgery (Rhinoplasty)"
 teaser: '/publications/20010430.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2001-04-Computer_aided_Prototype_System_for_Nose_Surgery_Rhinoplasty
+permalink: /publications/MajorPapers/2001-04-Computer_aided_Prototype_System_for_Nose_Surgery_Rhinoplasty
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2001-04-30'
 venue: 'April'

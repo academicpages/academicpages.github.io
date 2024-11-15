@@ -3,7 +3,7 @@ title: "Disparity-preserving Image Rectangularization for Stereoscopic Panorama,
 teaser: '/publications/image254.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2020-07-Disparity-preserving_Image_Rectangularization_for_Stereoscopic_Panorama
+permalink: /publications/OtherPapers/2020-07-Disparity-preserving_Image_Rectangularization_for_Stereoscopic_Panorama
 date: '2020-07-10'
 venue: 'July' # 如果 date 確定，就補上日期
 

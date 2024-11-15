@@ -3,7 +3,7 @@ title: "Cartoon Animation Outpainting with Region-guided Motion Inference"
 teaser: '/publications/image171.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-03-Cartoon_Animation_Outpainting_with_Region-guided_Motion_Inference
+permalink: /publications/MajorPapers/2024-03-Cartoon_Animation_Outpainting_with_Region-guided_Motion_Inference
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-03-31'
 venue: 'March'

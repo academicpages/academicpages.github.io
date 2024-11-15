@@ -3,7 +3,7 @@ title: "Double-sided 2.5D Graphics"
 teaser: '/publications/image241.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2013-02-Double-sided_2_5D_Graphics
+permalink: /publications/MajorPapers/2013-02-Double-sided_2_5D_Graphics
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2013-02-27'
 venue: 'February'

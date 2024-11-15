@@ -3,7 +3,7 @@ title: "Optimized Semi-boundary Rendering Scheme"
 teaser: '/publications/Lee_Re9.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/1999-06-Optimized_Semi-boundary_Rendering_Scheme
+permalink: /publications/OtherPapers/1999-06-Optimized_Semi-boundary_Rendering_Scheme
 date: '1999-06-31'
 venue: 'June' # 如果 date 確定，就補上日期
 

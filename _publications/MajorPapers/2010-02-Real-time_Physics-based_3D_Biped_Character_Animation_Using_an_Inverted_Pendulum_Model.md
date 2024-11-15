@@ -3,7 +3,7 @@ title: "Real-time Physics-based 3D Biped Character Animation Using an Inverted P
 teaser: '/publications/image024.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2010-02-Real-time_Physics-based_3D_Biped_Character_Animation_Using_an_Inverted_Pendulum_Model
+permalink: /publications/MajorPapers/2010-02-Real-time_Physics-based_3D_Biped_Character_Animation_Using_an_Inverted_Pendulum_Model
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2010-02-28'
 venue: 'February'

@@ -2,7 +2,7 @@
 title: "Exaggeration Cloning"
 collection: publications
 category: RecentPapers
-permalink: /publication/2007-06-Exaggeration_Cloning
+permalink: /publications/RecentPapers/2007-06-Exaggeration_Cloning
 date: '2007-06-12'
 venue: 'June 11-13' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Measuring and PredictingVisual Importance of Similar Objects"
 teaser: '/publications/image223.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2016-12-Measuring_and_Predicting_Visual_Importance_of_Similar_Objects
+permalink: /publications/MajorPapers/2016-12-Measuring_and_Predicting_Visual_Importance_of_Similar_Objects
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2016-12-31'
 venue: 'February'

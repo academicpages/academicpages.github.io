@@ -3,7 +3,7 @@ title: "Learning a Perceptual Manifold with Deep Features for Animation Video Re
 teaser: '/publications/image248.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2022-01-Learning_a_Perceptual_Manifold_with_Deep_Features_for_Animation_Video_Resequencing
+permalink: /publications/OtherPapers/2022-01-Learning_a_Perceptual_Manifold_with_Deep_Features_for_Animation_Video_Resequencing
 date: '2022-01-14'
 venue: 'January' # 如果 date 確定，就補上日期
 

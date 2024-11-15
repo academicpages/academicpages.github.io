@@ -3,7 +3,7 @@ title: "Interactive 3D Virtual Colonoscopy System"
 teaser: '/publications/colon1.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/1999-02-Interactive_3D_Virtual_Colonoscopy_System
+permalink: /publications/MajorPapers/1999-02-Interactive_3D_Virtual_Colonoscopy_System
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '1999-02-28'
 venue: 'February'

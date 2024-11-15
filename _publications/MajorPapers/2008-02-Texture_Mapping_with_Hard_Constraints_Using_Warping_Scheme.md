@@ -3,7 +3,7 @@ title: "Texture Mapping with Hard Constraints Using Warping Scheme"
 teaser: '/publications/20080228.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-02-Texture_Mapping_with_Hard_Constraints_Using_Warping_Scheme
+permalink: /publications/MajorPapers/2008-02-Texture_Mapping_with_Hard_Constraints_Using_Warping_Scheme
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-02-28'
 venue: 'February'

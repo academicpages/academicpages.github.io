@@ -3,7 +3,7 @@ title: "C3 Assignment: Camera CubeMap Color Assignment for Creative Interior Des
 teaser: '/publications/image192.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2022-08-C3_Assignment_Camera_CubeMap_Color_Assignment_for_Creative_Interior_Design
+permalink: /publications/MajorPapers/2022-08-C3_Assignment_Camera_CubeMap_Color_Assignment_for_Creative_Interior_Design
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2022-08-31'
 venue: 'August'

@@ -3,7 +3,7 @@ title: "Efficient QR Code Beautification with High Quality Visual Content"
 teaser: '/publications/image226.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2015-09-Efficient_QR_Code_Beautification_with_High_Quality_Visual_Content
+permalink: /publications/MajorPapers/2015-09-Efficient_QR_Code_Beautification_with_High_Quality_Visual_Content
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2015-09-30'
 venue: 'September'

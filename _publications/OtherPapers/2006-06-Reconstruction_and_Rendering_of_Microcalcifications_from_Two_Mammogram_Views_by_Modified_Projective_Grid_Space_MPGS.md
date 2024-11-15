@@ -3,7 +3,7 @@ title: "Reconstruction and Rendering of Microcalcifications from Two Mammogram V
 teaser: '/publications/image092.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2006-06-Reconstruction_and_Rendering_of_Microcalcifications_from_Two_Mammogram_Views_by_Modified_Projective_Grid_Space_MPGS
+permalink: /publications/OtherPapers/2006-06-Reconstruction_and_Rendering_of_Microcalcifications_from_Two_Mammogram_Views_by_Modified_Projective_Grid_Space_MPGS
 date: '2006-06-31'
 venue: 'June' # 如果 date 確定，就補上日期
 

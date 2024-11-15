@@ -3,7 +3,7 @@ title: "High Relief from Brush Painting"
 teaser: '/publications/image210.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2019-09-High_Relief_from_Brush_Painting
+permalink: /publications/MajorPapers/2019-09-High_Relief_from_Brush_Painting
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2019-09-30'
 venue: 'September'

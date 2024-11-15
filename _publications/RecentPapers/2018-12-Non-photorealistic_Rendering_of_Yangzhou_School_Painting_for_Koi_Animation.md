@@ -3,7 +3,7 @@ title: "Non-photorealistic Rendering of Yangzhou School Painting for Koi Animati
 teaser: '/publications/image280.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2018-12-Non-photorealistic_Rendering_of_Yangzhou_School_Painting_for_Koi_Animation
+permalink: /publications/RecentPapers/2018-12-Non-photorealistic_Rendering_of_Yangzhou_School_Painting_for_Koi_Animation
 date: '2018-12-30'
 venue: 'December' # 如果 date 確定，就補上日期
 

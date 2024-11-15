@@ -3,7 +3,7 @@ title: "Distributed Volume Morphing"
 teaser: '/publications/image098.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/1999-03-Distributed_Volume_Morphing
+permalink: /publications/OtherPapers/1999-03-Distributed_Volume_Morphing
 date: '1999-03-31'
 venue: 'March' # 如果 date 確定，就補上日期
 

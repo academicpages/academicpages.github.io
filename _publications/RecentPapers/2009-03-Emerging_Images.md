@@ -3,7 +3,7 @@ title: "Emerging Images"
 teaser: '/publications/image026.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2009-03-Emerging_Images
+permalink: /publications/RecentPapers/2009-03-Emerging_Images
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2009-03-31'
 venue: 'March'

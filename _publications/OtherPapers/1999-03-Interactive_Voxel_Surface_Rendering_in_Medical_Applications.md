@@ -3,7 +3,7 @@ title: "Interactive Voxel Surface Rendering in Medical Applications"
 teaser: '/publications/image100.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/1999-03-Interactive_Voxel_Surface_Rendering_in_Medical_Applications
+permalink: /publications/OtherPapers/1999-03-Interactive_Voxel_Surface_Rendering_in_Medical_Applications
 date: '1999-03-30'
 venue: 'March' # 如果 date 確定，就補上日期
 

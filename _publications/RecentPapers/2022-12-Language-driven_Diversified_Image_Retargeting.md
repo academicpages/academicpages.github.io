@@ -3,7 +3,7 @@ title: "Language-driven Diversified Image Retargeting"
 teaser: '/publications/image271.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2022-12-Language-driven_Diversified_Image_Retargeting
+permalink: /publications/RecentPapers/2022-12-Language-driven_Diversified_Image_Retargeting
 date: '2022-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 

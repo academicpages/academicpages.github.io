@@ -3,7 +3,7 @@ title: "Real-time 3D Artistic Rendering System"
 teaser: '/publications/Horse_Paper2.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2005-07-Real-time_3D_Artistic_Rendering_System
+permalink: /publications/RecentPapers/2005-07-Real-time_3D_Artistic_Rendering_System
 date: '2005-07-28'
 venue: 'October' # 如果 date 確定，就補上日期
 

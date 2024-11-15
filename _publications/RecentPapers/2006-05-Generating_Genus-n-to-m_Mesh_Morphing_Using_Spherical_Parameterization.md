@@ -3,7 +3,7 @@ title: "Generating Genus-n-to-m Mesh Morphing Using Spherical Parameterization"
 teaser: '/publications/record29.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2006-05-Generating_Genus-n-to-m_Mesh_Morphing_Using_Spherical_Parameterization
+permalink: /publications/RecentPapers/2006-05-Generating_Genus-n-to-m_Mesh_Morphing_Using_Spherical_Parameterization
 date: '2006-05-31'
 venue: 'May' # 如果 date 確定，就補上日期
 

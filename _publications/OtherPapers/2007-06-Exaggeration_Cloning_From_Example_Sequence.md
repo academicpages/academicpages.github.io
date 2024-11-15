@@ -3,7 +3,7 @@ title: "Exaggeration Cloning From Example Sequence"
 teaser: '/publications/image088.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2007-06-Exaggeration_Cloning_From_Example_Sequence
+permalink: /publications/OtherPapers/2007-06-Exaggeration_Cloning_From_Example_Sequence
 date: '2007-06-31'
 venue: 'June' # 如果 date 確定，就補上日期
 

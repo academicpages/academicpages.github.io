@@ -3,7 +3,7 @@ title: "Animating Streamlines with Repeated Asymmetric Patterns for Steady Flow 
 teaser: '/publications/image_ASwRAPfSFV.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2012-01-Animating_Streamlines_with_Repeated_Asymmetric_Patterns_for_Steady_Flow_Visualization
+permalink: /publications/RecentPapers/2012-01-Animating_Streamlines_with_Repeated_Asymmetric_Patterns_for_Steady_Flow_Visualization
 date: '2012-01-31'
 venue: 'January' # 如果 date 確定，就補上日期
 

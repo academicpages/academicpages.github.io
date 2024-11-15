@@ -3,7 +3,7 @@ title: "Retargeting Videos to Arbitrary Aspect Ratios with an End-to-end Model"
 teaser: '/publications/image164.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-08-Retargeting_Videos_to_Arbitrary_Aspect_Ratios_with_an_End-to-end_Model
+permalink: /publications/MajorPapers/2024-08-Retargeting_Videos_to_Arbitrary_Aspect_Ratios_with_an_End-to-end_Model
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-27'
 venue: 'August'

@@ -3,7 +3,7 @@ title: "MeshWGAN: Mesh-to-Mesh Wasserstein GAN with Multi-Task Gradient Penalty 
 teaser: '/publications/image165.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-08-MeshWGAN_Mesh-to-Mesh_Wasserstein_GAN_with_Multi-Task_Gradient_Penalty_for_3D_Facial_Geometric_Age_Transformation
+permalink: /publications/MajorPapers/2024-08-MeshWGAN_Mesh-to-Mesh_Wasserstein_GAN_with_Multi-Task_Gradient_Penalty_for_3D_Facial_Geometric_Age_Transformation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-26'
 venue: 'August'

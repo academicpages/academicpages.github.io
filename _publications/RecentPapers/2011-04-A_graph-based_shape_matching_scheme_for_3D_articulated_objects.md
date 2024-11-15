@@ -3,7 +3,7 @@ title: "A graph-based shape matching scheme for 3D articulated objects"
 teaser: '/publications/image054.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2011-04-A_graph-based_shape_matching_scheme_for_3D_articulated_objects
+permalink: /publications/RecentPapers/2011-04-A_graph-based_shape_matching_scheme_for_3D_articulated_objects
 date: '2011-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 

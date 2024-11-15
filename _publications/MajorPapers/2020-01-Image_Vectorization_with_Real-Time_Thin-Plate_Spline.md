@@ -3,7 +3,7 @@ title: "Image Vectorization with Real-Time Thin-Plate Spline"
 teaser: '/publications/image206.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2020-01-Image_Vectorization_with_Real-Time_Thin-Plate_Spline
+permalink: /publications/MajorPapers/2020-01-Image_Vectorization_with_Real-Time_Thin-Plate_Spline
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2020-01-31'
 venue: 'January'

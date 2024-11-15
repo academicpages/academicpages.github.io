@@ -2,7 +2,7 @@
 title: "A Natural Pen-and-paper like Sketching Interface for Modeling and Animation"
 collection: publications
 category: RecentPapers
-permalink: /publication/2007-06-A_Natural_Pen-and-paper_like_Sketching_Interface_for_Modeling_and_Animation
+permalink: /publications/RecentPapers/2007-06-A_Natural_Pen-and-paper_like_Sketching_Interface_for_Modeling_and_Animation
 date: '2007-06-11'
 venue: 'June 11-13' # 如果 date 確定，就補上日期
 

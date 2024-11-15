@@ -3,7 +3,7 @@ title: "Content Enhanced Word Art with Depth Perception"
 teaser: '/publications/image285.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2016-12-Content_Enhanced_Word_Art_with_Depth_Perception
+permalink: /publications/RecentPapers/2016-12-Content_Enhanced_Word_Art_with_Depth_Perception
 date: '2016-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 

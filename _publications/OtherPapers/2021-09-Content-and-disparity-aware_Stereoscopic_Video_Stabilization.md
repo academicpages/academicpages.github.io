@@ -3,7 +3,7 @@ title: "Content-and-disparity-aware Stereoscopic Video Stabilization"
 teaser: '/publications/image252.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2021-09-Content-and-disparity-aware_Stereoscopic_Video_Stabilization
+permalink: /publications/OtherPapers/2021-09-Content-and-disparity-aware_Stereoscopic_Video_Stabilization
 date: '2021-09-08'
 venue: 'September' # 如果 date 確定，就補上日期
 

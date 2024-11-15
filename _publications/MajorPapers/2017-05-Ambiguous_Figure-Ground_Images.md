@@ -3,7 +3,7 @@ title: "Ambiguous Figure-Ground Images"
 teaser: '/publications/image220.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2017-05-Ambiguous_Figure-Ground_Images
+permalink: /publications/MajorPapers/2017-05-Ambiguous_Figure-Ground_Images
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2017-05-31'
 venue: 'May'

@@ -3,7 +3,7 @@ title: "Stylized and Abstract Painterly Rendering System Using a Multi-Scale Seg
 teaser: '/publications/record3.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2006-01-Stylized_and_Abstract_Painterly_Rendering_System_Using_a_Multi-Scale_Segmented_Sphere_Hierarchy
+permalink: /publications/MajorPapers/2006-01-Stylized_and_Abstract_Painterly_Rendering_System_Using_a_Multi-Scale_Segmented_Sphere_Hierarchy
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2006-01-31'
 venue: 'January'

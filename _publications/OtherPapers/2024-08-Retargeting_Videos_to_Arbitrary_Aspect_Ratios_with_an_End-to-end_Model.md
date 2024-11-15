@@ -3,7 +3,7 @@ title: "Content-aware media retargeting based on deep important map"
 teaser: '/publications/image247.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2021-11-Content-aware_media_retargeting_based_on_deep_important_map
+permalink: /publications/OtherPapers/2021-11-Content-aware_media_retargeting_based_on_deep_important_map
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-11-08'
 venue: 'November'

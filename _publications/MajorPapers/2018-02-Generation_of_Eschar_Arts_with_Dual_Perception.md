@@ -3,7 +3,7 @@ title: "Generation of Eschar Arts with Dual Perception"
 teaser: '/publications/image212.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2018-02-Generation_of_Eschar_Arts_with_Dual_Perception
+permalink: /publications/MajorPapers/2018-02-Generation_of_Eschar_Arts_with_Dual_Perception
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2018-02-28'
 venue: 'February'

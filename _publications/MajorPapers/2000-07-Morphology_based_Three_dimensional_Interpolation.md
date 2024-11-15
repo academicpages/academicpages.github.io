@@ -3,7 +3,7 @@ title: "Morphology-based Three-dimensional Interpolation"
 teaser: '/publications/record8.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2000-07-Morphology_based_Three_dimensional_Interpolation
+permalink: /publications/MajorPapers/2000-07-Morphology_based_Three_dimensional_Interpolation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2000-07-31'
 venue: 'July'

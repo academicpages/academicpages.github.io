@@ -3,7 +3,7 @@ title: "Template-based 3D Model Fitting Using Dual-domain Relaxation"
 teaser: '/publications/image_Tb3MFUDdR.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2011-08-Template-based_3D_Model_Fitting_Using_Dual-domain_Relaxation
+permalink: /publications/MajorPapers/2011-08-Template-based_3D_Model_Fitting_Using_Dual-domain_Relaxation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2011-08-31'
 venue: 'August'

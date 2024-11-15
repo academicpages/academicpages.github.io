@@ -3,7 +3,7 @@ title: "Animated Pictorial Maps"
 teaser: '/publications/image267.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2024-12-Animated_Pictorial_Maps
+permalink: /publications/RecentPapers/2024-12-Animated_Pictorial_Maps
 date: '2024-12-30'
 venue: 'December' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Balance-Aware Grid Collage for Small Image Collections"
 teaser: '/publications/image182.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-02-Balance_Aware_Grid_Collage_for_Small_Image_Collections
+permalink: /publications/MajorPapers/2023-02-Balance_Aware_Grid_Collage_for_Small_Image_Collections
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-02-28'
 venue: 'February'

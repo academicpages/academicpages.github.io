@@ -3,7 +3,7 @@ title: "Optimized Scale-and-Stretch for Image Resizing"
 teaser: '/publications/image032.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2008-12-Optimized_Scale-and-Stretch_for_Image_Resizing
+permalink: /publications/RecentPapers/2008-12-Optimized_Scale-and-Stretch_for_Image_Resizing
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-12-31'
 venue: 'December'

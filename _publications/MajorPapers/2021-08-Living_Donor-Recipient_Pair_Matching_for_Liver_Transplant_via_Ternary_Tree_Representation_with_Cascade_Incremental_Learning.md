@@ -3,7 +3,7 @@ title: "Living Donor-Recipient Pair Matching for Liver Transplant via Ternary Tr
 teaser: '/publications/image197.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2021-08-Living_Donor-Recipient_Pair_Matching_for_Liver_Transplant_via_Ternary_Tree_Representation_with_Cascade_Incremental_Learning
+permalink: /publications/MajorPapers/2021-08-Living_Donor-Recipient_Pair_Matching_for_Liver_Transplant_via_Ternary_Tree_Representation_with_Cascade_Incremental_Learning
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-08-31'
 venue: 'August'

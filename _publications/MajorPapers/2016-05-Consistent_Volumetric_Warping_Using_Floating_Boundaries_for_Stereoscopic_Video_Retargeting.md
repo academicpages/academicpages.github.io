@@ -3,7 +3,7 @@ title: "Consistent Volumetric Warping Using Floating Boundaries for Stereoscopic
 teaser: '/publications/image225.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2016-05-Consistent_Volumetric_Warping_Using_Floating_Boundaries_for_Stereoscopic_Video_Retargeting
+permalink: /publications/MajorPapers/2016-05-Consistent_Volumetric_Warping_Using_Floating_Boundaries_for_Stereoscopic_Video_Retargeting
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2016-05-31'
 venue: 'May'

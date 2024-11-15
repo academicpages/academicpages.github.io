@@ -3,7 +3,7 @@ title: "Foldover-free Shape Deformation For Biomedicine,”  Journal of Biomedic
 teaser: '/publications/image261.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2014-06-Foldover-free_Shape_Deformation_For_Biomedicine
+permalink: /publications/OtherPapers/2014-06-Foldover-free_Shape_Deformation_For_Biomedicine
 date: '2014-06-30'
 venue: 'June' # 如果 date 確定，就補上日期
 

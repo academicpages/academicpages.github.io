@@ -3,7 +3,7 @@ title: "Content-aware Video Retargeting Using Object-preserving Warping"
 teaser: '/publications/image237.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2013-10-Content-aware_Video_Retargeting_Using_Object-preserving_Warping
+permalink: /publications/MajorPapers/2013-10-Content-aware_Video_Retargeting_Using_Object-preserving_Warping
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2013-10-31'
 venue: 'October'

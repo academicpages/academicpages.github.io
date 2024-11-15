@@ -3,7 +3,7 @@ title: "Multiresolution Remeshing Using Weighted Centroidal Voronoi Diagram"
 teaser: '/publications/image072.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2006-05-Multiresolution_Remeshing_Using_Weighted_Centroidal_Voronoi_Diagram
+permalink: /publications/RecentPapers/2006-05-Multiresolution_Remeshing_Using_Weighted_Centroidal_Voronoi_Diagram
 date: '2006-05-27'
 venue: 'May' # 如果 date 確定，就補上日期
 

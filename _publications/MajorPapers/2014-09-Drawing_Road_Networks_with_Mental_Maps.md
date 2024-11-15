@@ -3,7 +3,7 @@ title: "Drawing Road Networks with Mental Maps"
 teaser: '/publications/image231.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2014-09-Drawing_Road_Networks_with_Mental_Maps
+permalink: /publications/MajorPapers/2014-09-Drawing_Road_Networks_with_Mental_Maps
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2014-09-30'
 venue: 'September'

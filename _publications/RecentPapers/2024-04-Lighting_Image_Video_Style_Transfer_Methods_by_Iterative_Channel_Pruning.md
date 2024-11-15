@@ -3,7 +3,7 @@ title: "Lighting Image/Video Style Transfer Methods by Iterative Channel Pruning
 teaser: '/publications/image268.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2024-04-Lighting_Image_Video_Style_Transfer_Methods_by_Iterative_Channel_Pruning
+permalink: /publications/RecentPapers/2024-04-Lighting_Image_Video_Style_Transfer_Methods_by_Iterative_Channel_Pruning
 date: '2024-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 

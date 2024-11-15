@@ -3,7 +3,7 @@ title: "Depth of Field Rendering Using Multilayer-Neighborhood Optimization"
 teaser: '/publications/image204.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2020-08-Depth_of_Field_Rendering_Using_Multilayer-Neighborhood_Optimization
+permalink: /publications/MajorPapers/2020-08-Depth_of_Field_Rendering_Using_Multilayer-Neighborhood_Optimization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2020-08-31'
 venue: 'August'

@@ -3,7 +3,7 @@ title: "Compatible quadrangulation by sketching"
 teaser: '/publications/image060.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2009-03-Compatible_quadrangulation_by_sketching
+permalink: /publications/RecentPapers/2009-03-Compatible_quadrangulation_by_sketching
 date: '2009-03-30'
 venue: 'March' # 如果 date 確定，就補上日期
 

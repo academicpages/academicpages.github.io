@@ -3,7 +3,7 @@ title: "Fast Accurate and Automatic Brushstroke Extraction"
 teaser: '/publications/image199.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2021-05-Fast_Accurate_and_Automatic_Brushstroke_Extraction
+permalink: /publications/MajorPapers/2021-05-Fast_Accurate_and_Automatic_Brushstroke_Extraction
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-05-31'
 venue: 'May'

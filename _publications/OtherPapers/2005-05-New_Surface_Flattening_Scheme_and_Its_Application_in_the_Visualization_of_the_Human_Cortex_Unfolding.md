@@ -3,7 +3,7 @@ title: "New Surface Flattening Scheme and Its Application in the Visualization o
 teaser: '/publications/image096.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2005-05-New_Surface_Flattening_Scheme_and_Its_Application_in_the_Visualization_of_the_Human_Cortex_Unfolding
+permalink: /publications/OtherPapers/2005-05-New_Surface_Flattening_Scheme_and_Its_Application_in_the_Visualization_of_the_Human_Cortex_Unfolding
 date: '2005-05-31'
 venue: 'May' # 如果 date 確定，就補上日期
 

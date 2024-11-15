@@ -3,7 +3,7 @@ title: "MSEmbGAN: Multi-Stitch Embroidery Synthesis via Region-Aware Texture Gen
 teaser: '/publications/image137.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-08-MSEmbGAN_Multi-Stitch_Embroidery_Synthesis_via_Region-Aware_Texture_Generation
+permalink: /publications/MajorPapers/2024-08-MSEmbGAN_Multi-Stitch_Embroidery_Synthesis_via_Region-Aware_Texture_Generation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-31'
 venue: 'August'

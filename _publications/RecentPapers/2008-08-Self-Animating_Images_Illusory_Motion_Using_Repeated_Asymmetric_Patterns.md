@@ -3,7 +3,7 @@ title: "Self-Animating Images: Illusory Motion Using Repeated Asymmetric Pattern
 teaser: '/publications/image036.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2008-08-Self-Animating_Images_Illusory_Motion_Using_Repeated_Asymmetric_Patterns
+permalink: /publications/RecentPapers/2008-08-Self-Animating_Images_Illusory_Motion_Using_Repeated_Asymmetric_Patterns
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-08-31'
 venue: 'August'

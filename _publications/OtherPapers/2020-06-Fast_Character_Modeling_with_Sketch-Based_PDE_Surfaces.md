@@ -3,7 +3,7 @@ title: "Fast Character Modeling with Sketch-Based PDE Surfaces"
 teaser: '/publications/image255.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2020-06-Fast_Character_Modeling_with_Sketch-Based_PDE_Surfaces
+permalink: /publications/OtherPapers/2020-06-Fast_Character_Modeling_with_Sketch-Based_PDE_Surfaces
 date: '2020-06-06'
 venue: 'June' # 如果 date 確定，就補上日期
 

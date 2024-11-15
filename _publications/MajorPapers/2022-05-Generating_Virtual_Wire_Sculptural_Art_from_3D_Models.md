@@ -3,7 +3,7 @@ title: "Generating Virtual Wire Sculptural Art from 3D Models"
 teaser: '/publications/image054.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2022-05-Generating_Virtual_Wire_Sculptural_Art_from_3D_Models
+permalink: /publications/MajorPapers/2022-05-Generating_Virtual_Wire_Sculptural_Art_from_3D_Models
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2022-05-31'
 venue: 'May'

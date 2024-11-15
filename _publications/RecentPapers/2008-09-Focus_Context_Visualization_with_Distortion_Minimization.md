@@ -3,7 +3,7 @@ title: "Focus+Context Visualization with Distortion Minimization"
 teaser: '/publications/image040.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2008-09-Focus_Context_Visualization_with_Distortion_Minimization
+permalink: /publications/RecentPapers/2008-09-Focus_Context_Visualization_with_Distortion_Minimization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-09-30'
 venue: 'September'

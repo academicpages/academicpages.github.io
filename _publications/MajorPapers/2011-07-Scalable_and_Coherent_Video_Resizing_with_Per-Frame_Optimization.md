@@ -3,7 +3,7 @@ title: "Scalable and Coherent Video Resizing with Per-Frame Optimization"
 teaser: '/publications/image008.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2011-07-Scalable_and_Coherent_Video_Resizing_with_Per-Frame_Optimization
+permalink: /publications/MajorPapers/2011-07-Scalable_and_Coherent_Video_Resizing_with_Per-Frame_Optimization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2011-07-31'
 venue: 'July'

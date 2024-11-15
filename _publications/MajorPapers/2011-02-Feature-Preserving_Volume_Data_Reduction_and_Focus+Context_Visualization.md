@@ -3,7 +3,7 @@ title: "Feature-Preserving Volume Data Reduction and Focus+Context Visualization
 teaser: '/publications/image014.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2011-02-Feature-Preserving_Volume_Data_Reduction_and_Focus+Context_Visualization
+permalink: /publications/MajorPapers/2011-02-Feature-Preserving_Volume_Data_Reduction_and_Focus+Context_Visualization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2011-02-28'
 venue: 'February'

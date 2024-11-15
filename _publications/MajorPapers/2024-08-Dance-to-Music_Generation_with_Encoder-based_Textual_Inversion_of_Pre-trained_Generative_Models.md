@@ -3,7 +3,7 @@ title: "Dance-to-Music Generation with Encoder-based Textual Inversion of Pre-tr
 teaser: '/publications/image151.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-12-Dance-to-Music_Generation_with_Encoder-based_Textual_Inversion_of_Pre-trained_Generative_Models
+permalink: /publications/MajorPapers/2024-12-Dance-to-Music_Generation_with_Encoder-based_Textual_Inversion_of_Pre-trained_Generative_Models
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-30'
 venue: 'August'

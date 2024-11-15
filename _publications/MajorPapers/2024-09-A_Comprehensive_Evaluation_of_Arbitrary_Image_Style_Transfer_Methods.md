@@ -3,7 +3,7 @@ title: "A Comprehensive Evaluation of Arbitrary Image Style Transfer Methods"
 teaser: '/publications/image044.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-09-A_Comprehensive_Evaluation_of_Arbitrary_Image_Style_Transfer_Methods
+permalink: /publications/MajorPapers/2024-09-A_Comprehensive_Evaluation_of_Arbitrary_Image_Style_Transfer_Methods
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-09-31'
 venue: 'September'

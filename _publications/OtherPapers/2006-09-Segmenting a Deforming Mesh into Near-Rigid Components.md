@@ -3,7 +3,7 @@ title: "Segmenting a Deforming Mesh into Near-Rigid Components"
 teaser: '/publications/record30.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2006-09-Segmenting a Deforming Mesh into Near-Rigid Components
+permalink: /publications/OtherPapers/2006-09-Segmenting a Deforming Mesh into Near-Rigid Components
 date: '2006-09-31'
 venue: 'September' # 如果 date 確定，就補上日期
 

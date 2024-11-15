@@ -3,7 +3,7 @@ title: "Animating still natural images using warping"
 teaser: '/publications/image184.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-01-Animating_still_natural_images_using_warping
+permalink: /publications/MajorPapers/2023-01-Animating_still_natural_images_using_warping
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-01-31'
 venue: 'January'

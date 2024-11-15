@@ -3,7 +3,7 @@ title: "Suitable and Style-consistent Multi-texture Recommendation for Cartoon I
 teaser: '/publications/image169.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-07-Suitable_and_Style-consistent_Multi-texture_Recommendation_for_Cartoon_Illustrations
+permalink: /publications/MajorPapers/2024-07-Suitable_and_Style-consistent_Multi-texture_Recommendation_for_Cartoon_Illustrations
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-07-30'
 venue: 'July'

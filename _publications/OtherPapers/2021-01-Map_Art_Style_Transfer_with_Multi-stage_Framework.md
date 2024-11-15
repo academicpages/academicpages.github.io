@@ -3,7 +3,7 @@ title: "Map Art Style Transfer with Multi-stage Framework"
 teaser: '/publications/image250.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2021-01-Map_Art_Style_Transfer_with_Multi-stage_Framework
+permalink: /publications/OtherPapers/2021-01-Map_Art_Style_Transfer_with_Multi-stage_Framework
 date: '2021-01-01'
 venue: 'January' # 如果 date 確定，就補上日期
 

@@ -3,7 +3,7 @@ title: "Curve Skeleton Extraction Using Iterative Least Squares Optimization"
 teaser: '/publications/image046.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-04-Curve_Skeleton_Extraction_Using_Iterative_Least_Squares_Optimization
+permalink: /publications/MajorPapers/2008-04-Curve_Skeleton_Extraction_Using_Iterative_Least_Squares_Optimization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-04-29'
 venue: 'April'

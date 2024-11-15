@@ -3,7 +3,7 @@ title: "Image Retargetability"
 teaser: '/publications/image203.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2021-03-Image_Retargetability
+permalink: /publications/MajorPapers/2021-03-Image_Retargetability
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-03-31'
 venue: 'March'

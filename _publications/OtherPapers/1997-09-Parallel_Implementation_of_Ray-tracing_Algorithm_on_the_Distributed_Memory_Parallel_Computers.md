@@ -3,7 +3,7 @@ title: "Parallel Implementation of Ray-tracing Algorithm on the Distributed Memo
 teaser: '/publications/crystal.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/1997-09-Parallel_Implementation_of_Ray-tracing_Algorithm_on_the_Distributed_Memory_Parallel_Computers
+permalink: /publications/OtherPapers/1997-09-Parallel_Implementation_of_Ray-tracing_Algorithm_on_the_Distributed_Memory_Parallel_Computers
 date: '1997-09-27'
 venue: 'September' # 如果 date 確定，就補上日期
 

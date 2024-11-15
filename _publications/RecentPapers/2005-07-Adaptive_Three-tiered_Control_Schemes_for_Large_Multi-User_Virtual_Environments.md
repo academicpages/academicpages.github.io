@@ -3,7 +3,7 @@ title: "Adaptive Three-tiered Control Schemes for Large Multi-User Virtual Envir
 teaser: '/publications/Ve2.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2005-07-Adaptive_Three-tiered_Control_Schemes_for_Large_Multi-User_Virtual_Environments
+permalink: /publications/RecentPapers/2005-07-Adaptive_Three-tiered_Control_Schemes_for_Large_Multi-User_Virtual_Environments
 date: '2005-07-29'
 venue: 'October' # 如果 date 確定，就補上日期
 

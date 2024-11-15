@@ -3,7 +3,7 @@ title: "Generation of Photorealistic QR Codes"
 teaser: '/publications/image277.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2019-11-Generation_of_Photorealistic_QR_Codes
+permalink: /publications/RecentPapers/2019-11-Generation_of_Photorealistic_QR_Codes
 date: '2019-11-30'
 venue: 'November' # 如果 date 確定，就補上日期
 

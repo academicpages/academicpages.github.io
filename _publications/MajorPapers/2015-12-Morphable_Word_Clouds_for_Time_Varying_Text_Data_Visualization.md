@@ -3,7 +3,7 @@ title: "Morphable Word Clouds for Time-varying Text Data Visualization"
 teaser: '/publications/image227.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2015-12-Morphable_Word_Clouds_for_Time_Varying_Text_Data_Visualization
+permalink: /publications/MajorPapers/2015-12-Morphable_Word_Clouds_for_Time_Varying_Text_Data_Visualization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2015-12-31'
 venue: 'December'

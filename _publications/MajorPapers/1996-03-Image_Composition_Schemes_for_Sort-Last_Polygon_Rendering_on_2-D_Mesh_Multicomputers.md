@@ -3,7 +3,7 @@ title: "Image Composition Schemes for Sort-Last Polygon Rendering on 2-D Mesh Mu
 teaser: '/publications/image052.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/1996-03-Image_Composition_Schemes_for_Sort-Last_Polygon_Rendering_on_2-D_Mesh_Multicomputers
+permalink: /publications/MajorPapers/1996-03-Image_Composition_Schemes_for_Sort-Last_Polygon_Rendering_on_2-D_Mesh_Multicomputers
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '1996-03-31'
 venue: 'March'

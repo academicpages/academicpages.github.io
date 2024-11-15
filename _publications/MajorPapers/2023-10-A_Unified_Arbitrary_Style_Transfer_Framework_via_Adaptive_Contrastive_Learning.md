@@ -3,7 +3,7 @@ title: "A Unified Arbitrary Style Transfer Framework via Adaptive Contrastive Le
 teaser: '/publications/image178.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-10-A_Unified_Arbitrary_Style_Transfer_Framework_via_Adaptive_Contrastive_Learning
+permalink: /publications/MajorPapers/2023-10-A_Unified_Arbitrary_Style_Transfer_Framework_via_Adaptive_Contrastive_Learning
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-10-30'
 venue: 'October'

@@ -3,7 +3,7 @@ title: "Photo Squarization by Deep Multi-Operator Retargeting"
 teaser: '/publications/image283.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2018-10-Photo_Squarization_by_Deep_Multi-Operator_Retargeting
+permalink: /publications/RecentPapers/2018-10-Photo_Squarization_by_Deep_Multi-Operator_Retargeting
 date: '2018-10-31'
 venue: 'October' # 如果 date 確定，就補上日期
 

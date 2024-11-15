@@ -3,7 +3,7 @@ title: "Stylized Motion for 3D Character Rendering and Animation"
 teaser: '/publications/image066.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2006-05-Stylized_Motion_for_3D_Character_Rendering_and_Animation
+permalink: /publications/RecentPapers/2006-05-Stylized_Motion_for_3D_Character_Rendering_and_Animation
 date: '2006-05-30'
 venue: 'May' # 如果 date 確定，就補上日期
 

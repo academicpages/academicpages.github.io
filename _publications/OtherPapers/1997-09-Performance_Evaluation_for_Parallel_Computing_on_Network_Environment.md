@@ -3,7 +3,7 @@ title: "Performance Evaluation for Parallel Computing on Network Environment"
 teaser: '/publications/image104.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/1997-09-Performance_Evaluation_for_Parallel_Computing_on_Network_Environment
+permalink: /publications/OtherPapers/1997-09-Performance_Evaluation_for_Parallel_Computing_on_Network_Environment
 date: '1997-09-30'
 venue: 'September' # 如果 date 確定，就補上日期
 

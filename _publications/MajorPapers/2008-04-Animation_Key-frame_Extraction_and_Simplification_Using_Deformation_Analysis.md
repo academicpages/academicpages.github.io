@@ -3,7 +3,7 @@ title: "Animation Key-frame Extraction and Simplification Using Deformation Anal
 teaser: '/publications/record1.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-04-Animation_Key-frame_Extraction_and_Simplification_Using_Deformation_Analysis
+permalink: /publications/MajorPapers/2008-04-Animation_Key-frame_Extraction_and_Simplification_Using_Deformation_Analysis
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-04-30'
 venue: 'April'

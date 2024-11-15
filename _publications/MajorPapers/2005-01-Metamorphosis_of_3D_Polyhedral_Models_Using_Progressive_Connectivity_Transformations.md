@@ -3,7 +3,7 @@ title: "Metamorphosis of 3D Polyhedral Models Using Progressive Connectivity Tra
 teaser: '/publications/record3.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2005-01-Metamorphosis_of_3D_Polyhedral_Models_Using_Progressive_Connectivity_Transformations
+permalink: /publications/MajorPapers/2005-01-Metamorphosis_of_3D_Polyhedral_Models_Using_Progressive_Connectivity_Transformations
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2005-01-31'
 venue: 'January'

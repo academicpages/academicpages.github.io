@@ -3,7 +3,7 @@ title: "Region-based Line Field Design Using Harmonic Functions"
 teaser: '/publications/image_RbLFDUHF.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2012-06-Region-based_Line_Field_Design_Using_Harmonic_Functions
+permalink: /publications/MajorPapers/2012-06-Region-based_Line_Field_Design_Using_Harmonic_Functions
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2012-06-30'
 venue: 'June'

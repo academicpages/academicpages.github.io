@@ -3,7 +3,7 @@ title: "Content-Based Visual Summarization for Image Collection"
 teaser: '/publications/image201.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2021-04-Content-Based_Visual_Summarization_for_Image_Collection
+permalink: /publications/MajorPapers/2021-04-Content-Based_Visual_Summarization_for_Image_Collection
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-04-30'
 venue: 'April'

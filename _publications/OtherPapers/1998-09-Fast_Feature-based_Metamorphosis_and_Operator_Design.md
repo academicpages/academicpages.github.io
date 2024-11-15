@@ -3,7 +3,7 @@ title: "Fast Feature-based Metamorphosis and Operator Design"
 teaser: '/publications/image050.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/1998-09-Fast_Feature-based_Metamorphosis_and_Operator_Design
+permalink: /publications/OtherPapers/1998-09-Fast_Feature-based_Metamorphosis_and_Operator_Design
 date: '1998-09-31'
 venue: 'September' # 如果 date 確定，就補上日期
 

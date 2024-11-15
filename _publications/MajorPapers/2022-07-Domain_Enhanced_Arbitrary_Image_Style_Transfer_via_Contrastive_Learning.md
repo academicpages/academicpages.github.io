@@ -3,7 +3,7 @@ title: "Domain Enhanced Arbitrary Image Style Transfer via Contrastive Learning"
 teaser: '/publications/image190.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2022-07-Domain_Enhanced_Arbitrary_Image_Style_Transfer_via_Contrastive_Learning
+permalink: /publications/MajorPapers/2022-07-Domain_Enhanced_Arbitrary_Image_Style_Transfer_via_Contrastive_Learning
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2022-07-31'
 venue: 'July'

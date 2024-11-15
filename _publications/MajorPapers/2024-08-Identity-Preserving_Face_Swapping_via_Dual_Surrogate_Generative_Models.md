@@ -3,7 +3,7 @@ title: "Identity-Preserving Face Swapping via Dual Surrogate Generative Models"
 teaser: '/publications/image160.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-08-Identity-Preserving_Face_Swapping_via_Dual_Surrogate_Generative_Models
+permalink: /publications/MajorPapers/2024-08-Identity-Preserving_Face_Swapping_via_Dual_Surrogate_Generative_Models
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-29'
 venue: 'August'

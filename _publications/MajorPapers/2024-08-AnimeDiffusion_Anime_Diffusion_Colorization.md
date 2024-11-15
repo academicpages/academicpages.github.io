@@ -3,7 +3,7 @@ title: "AnimeDiffusion: Anime Diffusion Colorization"
 teaser: '/publications/image162.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-08-AnimeDiffusion_Anime_Diffusion_Colorization
+permalink: /publications/MajorPapers/2024-08-AnimeDiffusion_Anime_Diffusion_Colorization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-08-28'
 venue: 'August'

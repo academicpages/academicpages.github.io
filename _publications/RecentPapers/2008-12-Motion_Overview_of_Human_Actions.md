@@ -3,7 +3,7 @@ title: "Motion Overview of Human Actions"
 teaser: '/publications/image034.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2008-12-Motion_Overview_of_Human_Actions
+permalink: /publications/RecentPapers/2008-12-Motion_Overview_of_Human_Actions
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-12-30'
 venue: 'December'

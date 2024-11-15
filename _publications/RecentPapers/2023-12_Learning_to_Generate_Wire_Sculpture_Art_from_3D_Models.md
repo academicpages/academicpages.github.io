@@ -3,7 +3,7 @@ title: "Learning to Generate Wire Sculpture Art from 3D Models"
 teaser: '/publications/image269.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2023-12-Learning_to_Generate_Wire_Sculpture_Art_from_3D_Models
+permalink: /publications/RecentPapers/2023-12-Learning_to_Generate_Wire_Sculpture_Art_from_3D_Models
 date: '2023-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 

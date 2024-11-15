@@ -3,7 +3,7 @@ title: "Patch-based Synthesis for Non-frontal-parallel Textures (NFPT)"
 teaser: '/publications/image070.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2006-05-Patch-based_Synthesis_for_Non-frontal-parallel_Textures_NFPT
+permalink: /publications/RecentPapers/2006-05-Patch-based_Synthesis_for_Non-frontal-parallel_Textures_NFPT
 date: '2006-05-28'
 venue: 'May' # 如果 date 確定，就補上日期
 

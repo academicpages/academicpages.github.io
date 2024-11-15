@@ -3,7 +3,7 @@ title: "Resizing by Symmetry-Summarization"
 teaser: '/publications/Resizing_by_Symmetry_Summarization.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2010-12-Resizing_by_Symmetry-Summarization
+permalink: /publications/RecentPapers/2010-12-Resizing_by_Symmetry-Summarization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2010-12-31'
 venue: 'December'

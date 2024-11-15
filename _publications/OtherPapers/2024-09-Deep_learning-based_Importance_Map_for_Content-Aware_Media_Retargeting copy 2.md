@@ -3,7 +3,7 @@ title: "Deep learning-based Importance Map for  Content-Aware Media Retargeting"
 teaser: '/publications/image242.jpg'
 collection: publications
 category: OtherPapers
-permalink: /publication/2024-09-Deep_learning-based_Importance_Map_for_Content-Aware_Media_Retargeting
+permalink: /publications/OtherPapers/2024-09-Deep_learning-based_Importance_Map_for_Content-Aware_Media_Retargeting
 date: '2024-09-31'
 venue: 'September' # 如果 date 確定，就補上日期
 

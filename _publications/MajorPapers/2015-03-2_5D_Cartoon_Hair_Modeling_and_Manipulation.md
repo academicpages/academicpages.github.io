@@ -3,7 +3,7 @@ title: "2.5D Cartoon Hair Modeling and Manipulation"
 teaser: '/publications/image229.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2015-03-2_5D_Cartoon_Hair_Modeling_and_Manipulation
+permalink: /publications/MajorPapers/2015-03-2_5D_Cartoon_Hair_Modeling_and_Manipulation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2015-03-31'
 venue: 'March'

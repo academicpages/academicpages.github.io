@@ -3,7 +3,7 @@ title: "Image Retargeting by Texture-Aware Synthesis"
 teaser: '/publications/image221.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2016-02-Image_Retargeting_by_Texture-Aware_Synthesis
+permalink: /publications/MajorPapers/2016-02-Image_Retargeting_by_Texture-Aware_Synthesis
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2016-02-28'
 venue: 'February'

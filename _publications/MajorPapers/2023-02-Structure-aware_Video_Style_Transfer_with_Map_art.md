@@ -3,7 +3,7 @@ title: "Structure-aware Video Style Transfer with Map art"
 teaser: '/publications/image185.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-02-Structure-aware_Video_Style_Transfer_with_Map_art
+permalink: /publications/MajorPapers/2023-02-Structure-aware_Video_Style_Transfer_with_Map_art
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-02-27'
 venue: 'February'

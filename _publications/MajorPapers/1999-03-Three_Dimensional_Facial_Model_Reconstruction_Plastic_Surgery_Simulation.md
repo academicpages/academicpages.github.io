@@ -3,7 +3,7 @@ title: "Three Dimensional Facial Model Reconstruction & Plastic Surgery Simulati
 teaser: '/publications/image050.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/1999-03-Three_Dimensional_Facial_Model_Reconstruction_Plastic_Surgery_Simulation
+permalink: /publications/MajorPapers/1999-03-Three_Dimensional_Facial_Model_Reconstruction_Plastic_Surgery_Simulation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '1999-03-31'
 venue: 'March'

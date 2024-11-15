@@ -3,7 +3,7 @@ title: "Feature-guided Shape-based Image Interpolation"
 teaser: '/publications/20021231.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2002-12-Feature_guided_Shape_based_Image_Interpolation
+permalink: /publications/MajorPapers/2002-12-Feature_guided_Shape_based_Image_Interpolation
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2002-12-31'
 venue: 'December'

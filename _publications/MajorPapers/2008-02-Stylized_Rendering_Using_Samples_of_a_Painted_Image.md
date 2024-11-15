@@ -3,7 +3,7 @@ title: "Stylized Rendering Using Samples of a Painted Image"
 teaser: '/publications/image2008-02-27-044.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-02-Stylized_Rendering_Using_Samples_of_a_Painted_Image
+permalink: /publications/MajorPapers/2008-02-Stylized_Rendering_Using_Samples_of_a_Painted_Image
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-02-27'
 venue: 'February'

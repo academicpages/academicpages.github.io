@@ -3,7 +3,7 @@ title: "3D Comprehensive Morphable Models  with UV-UNet for Acc3DCMM urate Head 
 teaser: '/publications/image111.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2024-09-03-3D_Comprehensive_Morphable_Models_with_UV-UNet_for_Acc3DCMM_urate_Head_Creatio
+permalink: /publications/MajorPapers/2024-09-03-3D_Comprehensive_Morphable_Models_with_UV-UNet_for_Acc3DCMM_urate_Head_Creatio
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2024-09-03'
 venue: 'September 03'

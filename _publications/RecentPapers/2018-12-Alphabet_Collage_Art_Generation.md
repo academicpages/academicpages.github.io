@@ -3,7 +3,7 @@ title: "Alphabet Collage Art Generation"
 teaser: '/publications/image281.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2018-12-Alphabet_Collage_Art_Generation
+permalink: /publications/RecentPapers/2018-12-Alphabet_Collage_Art_Generation
 date: '2018-12-29'
 venue: 'December' # 如果 date 確定，就補上日期
 

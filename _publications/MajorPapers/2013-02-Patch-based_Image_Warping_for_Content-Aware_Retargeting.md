@@ -3,7 +3,7 @@ title: "Patch-based Image Warping for Content-Aware Retargeting"
 teaser: '/publications/image240.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2013-02-Patch-based_Image_Warping_for_Content-Aware_Retargeting
+permalink: /publications/MajorPapers/2013-02-Patch-based_Image_Warping_for_Content-Aware_Retargeting
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2013-02-28'
 venue: 'February'

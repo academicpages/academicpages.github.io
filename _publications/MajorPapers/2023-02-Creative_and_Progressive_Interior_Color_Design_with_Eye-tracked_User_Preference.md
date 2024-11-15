@@ -3,7 +3,7 @@ title: "Creative and Progressive Interior Color Design with Eye-tracked User Pre
 teaser: '/publications/image186.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2023-02-Creative_and_Progressive_Interior_Color_Design_with_Eye-tracked_User_Preference
+permalink: /publications/MajorPapers/2023-02-Creative_and_Progressive_Interior_Color_Design_with_Eye-tracked_User_Preference
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2023-02-26'
 venue: 'February'

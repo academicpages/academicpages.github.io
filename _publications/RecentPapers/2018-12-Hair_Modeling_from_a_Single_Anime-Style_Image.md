@@ -3,7 +3,7 @@ title: "Hair Modeling from a Single Anime-Style Image"
 teaser: '/publications/image279.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2018-12-Hair_Modeling_from_a_Single_Anime-Style_Image
+permalink: /publications/RecentPapers/2018-12-Hair_Modeling_from_a_Single_Anime-Style_Image
 date: '2018-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 

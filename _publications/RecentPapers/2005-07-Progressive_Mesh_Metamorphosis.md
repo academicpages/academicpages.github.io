@@ -3,7 +3,7 @@ title: "Progressive Mesh Metamorphosis"
 teaser: '/publications/record31.jpg'
 collection: publications
 category: RecentPapers
-permalink: /publication/2005-07-Progressive_Mesh_Metamorphosis
+permalink: /publications/RecentPapers/2005-07-Progressive_Mesh_Metamorphosis
 date: '2005-07-30'
 venue: 'October' # 如果 date 確定，就補上日期
 

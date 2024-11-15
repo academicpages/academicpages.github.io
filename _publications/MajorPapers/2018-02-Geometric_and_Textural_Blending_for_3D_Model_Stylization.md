@@ -3,7 +3,7 @@ title: "Geometric and Textural Blending for 3D Model Stylization"
 teaser: '/publications/image214.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2018-02-Geometric_and_Textural_Blending_for_3D_Model_Stylization
+permalink: /publications/MajorPapers/2018-02-Geometric_and_Textural_Blending_for_3D_Model_Stylization
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2018-02-27'
 venue: 'February'

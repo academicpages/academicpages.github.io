@@ -3,7 +3,7 @@ title: "RBF-based Reparameterization Method for Constrained Texture Mapping"
 teaser: '/publications/image_RBFbRMfCTM.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2012-07-RBF-based_Reparameterization_Method_for_Constrained_Texture_Mapping
+permalink: /publications/MajorPapers/2012-07-RBF-based_Reparameterization_Method_for_Constrained_Texture_Mapping
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2012-07-31'
 venue: 'July'

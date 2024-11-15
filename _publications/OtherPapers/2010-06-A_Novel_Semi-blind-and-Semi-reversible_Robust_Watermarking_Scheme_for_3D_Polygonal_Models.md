@@ -3,7 +3,7 @@ title: "A Novel Semi-blind-and-Semi-reversible Robust Watermarking Scheme for 3D
 teaser: '/publications/image058.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/2010-06-A_Novel_Semi-blind-and-Semi-reversible_Robust_Watermarking_Scheme_for_3D_Polygonal_Models
+permalink: /publications/OtherPapers/2010-06-A_Novel_Semi-blind-and-Semi-reversible_Robust_Watermarking_Scheme_for_3D_Polygonal_Models
 date: '2010-06-30'
 venue: 'June' # 如果 date 確定，就補上日期
 

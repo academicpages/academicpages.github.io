@@ -3,7 +3,7 @@ title: "Optimized binarization for eggshell carving art"
 teaser: '/publications/image273.gif'
 collection: publications
 category: RecentPapers
-permalink: /publication/2021-12-Optimized_Binarization_for_Eggshell_Carving_Art
+permalink: /publications/RecentPapers/2021-12-Optimized_Binarization_for_Eggshell_Carving_Art
 date: '2021-12-14'
 venue: 'December' # 如果 date 確定，就補上日期
 

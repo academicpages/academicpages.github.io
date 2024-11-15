@@ -3,7 +3,7 @@ title: "Structure-Aware Motion Deblurring Using Multi-Adversarial Multi-adversar
 teaser: '/publications/image195.jpg'
 collection: publications
 category: MajorPapers
-permalink: /publication/2021-07-Structure_Aware_Motion_Deblurring_Using_Multi_Adversarial_Multi_adversarial_Optimized_CycleGAN
+permalink: /publications/MajorPapers/2021-07-Structure_Aware_Motion_Deblurring_Using_Multi_Adversarial_Multi_adversarial_Optimized_CycleGAN
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2021-07-31'
 venue: 'July'

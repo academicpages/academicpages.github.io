@@ -3,7 +3,7 @@ title: "Adaptive Geometry Image"
 teaser: '/publications/image048.gif'
 collection: publications
 category: MajorPapers
-permalink: /publication/2008-04-Adaptive_Geometry_Image
+permalink: /publications/MajorPapers/2008-04-Adaptive_Geometry_Image
 # excerpt: 'This paper is about fixing template issue #693.'
 date: '2008-04-28'
 venue: 'April'

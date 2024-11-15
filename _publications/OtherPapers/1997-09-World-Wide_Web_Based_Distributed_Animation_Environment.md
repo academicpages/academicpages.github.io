@@ -3,7 +3,7 @@ title: "World-Wide Web Based Distributed Animation Environment"
 teaser: '/publications/image108.gif'
 collection: publications
 category: OtherPapers
-permalink: /publication/1997-09-World-Wide_Web_Based_Distributed_Animation_Environment
+permalink: /publications/OtherPapers/1997-09-World-Wide_Web_Based_Distributed_Animation_Environment
 date: '1997-09-28'
 venue: 'September' # 如果 date 確定，就補上日期
 
