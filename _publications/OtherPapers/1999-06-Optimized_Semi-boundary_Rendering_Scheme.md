@@ -11,6 +11,8 @@ venue: 'June' # 如果 date 確定，就補上日期
 #projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
 #paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
 # codeurl: '
+
+paperurl: "/files/publications/papers/Optimized-Semi-Boundary-SB-Rendering-Scheme.pdf"
 ---
 	
 <strong><u>Tong-Yee Lee</u></strong>, T.L, Weng, Y.N. Sun, "Optimized Semi-boundary Rendering Scheme", Journal of Information Science and Engineering, Vol. 15, No. 6, pp. 845-858, 1999

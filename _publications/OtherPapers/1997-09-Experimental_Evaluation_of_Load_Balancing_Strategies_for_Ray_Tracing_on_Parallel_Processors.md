@@ -9,6 +9,7 @@ venue: 'September' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
 # codeurl: '
+paperurl: "/files/publications/papers/Experimental_Evaluation_of_Load_Balancing_Strategies_for_Ray_Tracing_on_Parallel_Processors.pdf"
 ---
 	
 <strong><u>Tong-Yee Lee</u></strong>, C.S Raghavendra, J.B. Nicholas, "Experimental Evaluation of Load Balancing Strategies for Ray Tracing on Parallel Processors"

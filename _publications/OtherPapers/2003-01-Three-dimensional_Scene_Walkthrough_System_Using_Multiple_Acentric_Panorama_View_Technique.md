@@ -11,6 +11,7 @@ venue: 'January' # 如果 date 確定，就補上日期
 #projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
 #paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
 # codeurl: '
+paperurl: "/files/publications/papers/Three-dimensional_Scene_Walkthrough_System_Using_Multiple_Acentric_Panorama_View_Technique.pdf"
 ---
 	
 	
