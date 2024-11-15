@@ -29,7 +29,7 @@ redirect_from:
 
 ## Research Papers
 
-1. <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a> **(Job Market Paper)**, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">RFI</a>
+1. <a href="https://drive.google.com/file/d/1xPuviUJ2E1m4keNPSSiSYVsBQd7-caCq/view?usp=sharing">Asymmetric Information and Digital Technology Adoption: Evidence from Senegal</a> **(Job Market Paper)**, _Media Coverage_: <a href="https://www.rfi.fr/fr/podcasts/afrique-économie/20230222-à-dakar-le-paiement-mobile-facilite-les-transactions-et-améliore-les-revenus-des-taxis">RFI</a>, <a href="https://blogs.worldbank.org/en/impactevaluations/unlocking-digital-potential--the-double-edged-sword-of-observabi">World Bank Blog - Development Impact</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
