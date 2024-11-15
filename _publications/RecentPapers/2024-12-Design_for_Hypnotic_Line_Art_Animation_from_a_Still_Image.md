@@ -13,4 +13,4 @@ venue: 'December' # 如果 date 確定，就補上日期
 # codeurl: '
 ---
 
-Xin-Wei Lin, Zhi-Yang Goh, Dong-Yi Wu, Thi-Ngoc-Hanh Le, HuiGuang Huang, and <strong><u>Tong-Yee Lee*</u></strong>. 2024. “Design for Hypnotic Line Art Animation from a Still Image,” Poster, ACM SIGGRAPH Asia 2024, Dec., Tokyo, Japan
+Xin-Wei Lin, Zhi-Yang Goh, Dong-Yi Wu, Thi-Ngoc-Hanh Le, HuiGuang Huang, and <strong><u>Tong-Yee Lee*</u></strong>. 2024. “Design for Hypnotic Line Art Animation from a Still Image,” Poster, <strong><i><span style="color:red">ACM SIGGRAPH Asia 2024</span></i></strong>, Dec., Tokyo, Japan
