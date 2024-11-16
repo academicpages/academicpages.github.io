@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 and internal migration patterns in Peru"
-excerpt: "Advisory committees: Delia Furtado (Primary Advisor), Charles Venator Santiago, Debarchana Ghosh"
+excerpt: "Advisory committee: Delia Furtado (Primary Advisor), Charles Venator Santiago, Debarchana Ghosh"
 collection: research
 ---
 
