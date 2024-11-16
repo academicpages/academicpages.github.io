@@ -1,5 +1,5 @@
 ---
-title:  "Emergent Ventures 4 AI: Grant Proposal"
+title:  "Howler"
 date:   2022-06-22 12:14:30
 comments: false
 categories:
@@ -7,12 +7,24 @@ categories:
   -  Grants
 ---
 
+
+# AIGrant
+## Pitch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C8x2bBiaFRs?si=SQAvL0OKU132P2WJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Demo
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VbslBJX4Rfw?si=0VuB5dtqsDkyczMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# YCombinator
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SoVezD4F5-k?si=6nM5tToakeFEIhjY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The below is my proposal to Emergent Ventures 4 AI submitted in June
 2022{% sidenote "EV4AI" "The proposal was not successful and reading it now,
 I can see why. But I think the app I built is still pretty cool, even if it is no
-longer on the App Store" %}.
+longer on the App Store" %}. I also pitched Howler to AIGrant and YCombinator; demos and videos of it are below and my submission to Emergent Venures is after.
 
-# Hi, I'm Angadh
+# Emergent Ventures 4 AI: Grant Proposal
+## Hi, I'm Angadh
 
 In June 2017, after ~10 months as a Visiting Researcher at NASA JPL,
 I was trying to convince a JPL Chief Technologist of deserving a permanent
@@ -40,10 +52,10 @@ Two systems that I am working on are called:
 
 How these solutions help? Invariably, I envision both systems evolving into startups that are engines for generating employment opportunities that have the knock-on effect of re-distributing (or, maybe, disrupting?) privilege. For example, registering Space HQ Ltd as a UK PLC has facilitated engagement with the UK's space innovation network (e.g., [Satellite Applications Catapult](https://sa.catapult.org.uk). As the space industry operates different to software in many aspects, networking is critical for early stage startups; we are now part of the UK's [Space Energy Initiative](https://spaceenergyinitiative.org.uk) that aims to deliver Space Based Solar Power, which requires robotic in-space assembly technologies that Space HQ will develop. Securing a contract from this partnership will enable my research group members to continue onto Space HQ Ltd. I am hoping (and quietly confident) that working on these two efforts will compound to bear a net positive impact on society in terms of opportunities created.
 
-# I agree western university education is a poor value-proposition.
+## I agree western university education is a poor value-proposition.
 I have come to agree with this by contrasting my time in Western academia (PhD in California and a permanent academic position in London) to my undergraduate experience in Bangalore. Indian universities operate as a marketplace for employers and jobseekers by inviting companies for on-campus recruitment in the final year. Western universities operate like a prestigious newspaper selling you a subscription to one paper (degree certificate). A more comical comparison might be that these universities sell a ticket at a platform where trains no longer stop and there is no destination.
 
-# Idea
+## Idea
 {% maincolumn "assets/imgs/HowlerLogo_for_dark_theme.png" "" %}
 In the Harry Potter universe, Howlers were owl-delivered letters read aloud to recipients in senders' voices. My eponymous idea, Howler®, builds on this; in-app personal voice messages are quickly converted into podcasts that sound like a synchronous conversation ([listen to exemplar Howlcast](https://firebasestorage.googleapis.com/v0/b/howler-beta-test.appspot.com/o/howlcasts%2FPFMmCatcLcPHo1XOvfBIjrXDVqI2%2F6D002CC7-1C74-401A-A3AA-A962020DBA23?alt=media&token=e3d8ad8e-b6a7-40bb-8ed0-fd55d9488259)). Howler's vision is to democratise podcasting while providing non-toxic content. **I am requesting support from Emergent Ventures AI to continue building Howler**.
 
