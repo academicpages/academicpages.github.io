@@ -12,46 +12,58 @@ Welcome! I am a final-year Ph.D. student at the [Department of Computer Science,
 
 <span style="color: red;">**News**:</span> I am actively looking for Machine Learning Engineer / Applied Scientist / Research Scientist roles starting anytime in 2025. Feel free to DM me!
 
-Research Interests
-======
-I am interested in designing **efficient** and **generalizable** learning algorithms. Specifically, my current research topics include but are not limited to **1.** Developing various learning algorithms for knowledge/domain transfer, such as multi-task learning (MTL), domain adaptation (DA), and domain generalization (DG). **2.** Designing large-scale machine learning algorithms with enhanced efficiency, such as model compression & acceleration of LLMs and distributed training for deep neural networks. **3.** Online learning such as continual/lifelong learning with efficient memory replay and neuro-inspiration. 
+# Research Interests
+I am passionate about designing **efficient** and **generalizable** learning algorithms with applications across diverse domains. My research focuses on three primary areas:
 
-Selected Projects
-=====
-## 1. Domain and Knowledge Transfer
-Enhancing machine learning models' adaptability and effectiveness across various domains/tasks.
-### a) Multi-Task Learning
-- [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)   
-  _SDM 2023_  
-- [**Saliency-Regularized Deep Multi-Task Learning**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)  
-  _KDD 2022_  
+1. **Efficient Large-Scale Machine Learning:** Developing methods to optimize large-scale models, particularly focusing on model compression, inference optimization, and distributed training for deep learning systems, including LLMs.  
+2. **Domain and Knowledge Transfer:** Enhancing machine learning models' adaptability across various domains/tasks, including multi-task learning, domain adaptation, and domain generalization, with a particular focus on data with temporal concept drift.  
+3. **Neuro-Inspired Continual Learning:** Designing lifelong learning algorithms inspired by neuroscience, incorporating memory replay mechanisms for efficiency and robustness.
 
-### b) Domain Adaptation/Generalization
-- [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)   
-  _KDD 2024_
-- [**Continuous Temporal Domain Generalization**](https://arxiv.org/abs/2405.16075)   
-  _NeurIPS 2024_  
-- [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
-  _ICLR 2023 (<span style="color: red;">Oral</span>)_ 
+---
 
-## 2. Efficient Large-Scale Machine Learning
-Exploring scalable solutions in machine learning.
-### a) Model Compression & Acceleration of LLMs 
-- [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)   
-  _Under review of CSUR_
-- [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946)   
+# Selected Projects
+
+## 1. Efficient Large-Scale Machine Learning
+Exploring scalable and efficient solutions for machine learning systems, with a focus on LLM inference optimization.
+
+### a) Inference Optimization of LLMs
+- [**SparseLLM: Towards Global Pruning for Pre-trained Language Models**](https://arxiv.org/pdf/2402.17946)  
   _NeurIPS 2024_
-- [**FedSpaLLM: Federated Pruning of Large Language Models**](https://arxiv.org/pdf/2410.14852)   
-  _Preprint_ 
+- [**FedSpaLLM: Federated Pruning of Large Language Models**](https://arxiv.org/pdf/2410.14852)  
+  _Preprint_  
+- [**Beyond Efficiency: A Systematic Survey of Resource-Efficient Large Language Models**](https://arxiv.org/abs/2401.00625)  
+  _Under review of CSUR_
 
-### b) Distributed Training for Deep Neural Networks
+### b) Distributed Training for Graph Neural Networks
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
   _Preprint_
 
-## 3. Neuro-Inspired Continual Learning
-Focusing on memory-replay and neuro-inspiration approaches for continual learning.
-- [**Saliency-Augmented Memory Completion for Continual Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)  
+---
+
+## 2. Domain and Knowledge Transfer
+Enhancing machine learning models' adaptability and effectiveness across various domains and tasks, with a focus on temporal domain generalization and multi-task learning.
+
+### a) Domain Adaptation/Generalization
+- [**Prompt-Based Domain Discrimination for Multi-source Time Series Domain Adaptation**](https://arxiv.org/abs/2312.12276)  
+  _KDD 2024_  
+- [**Continuous Temporal Domain Generalization**](https://arxiv.org/abs/2405.16075)  
+  _NeurIPS 2024_  
+- [**Temporal Domain Generalization with Drift-Aware Dynamic Neural Networks**](https://openreview.net/pdf?id=sWOsRj4nT1n)  
+  _ICLR 2023 (<span style="color: red;">Oral</span>)_
+
+### b) Multi-Task Learning
+- [**Sign-Regularized Multi-Task Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch89)  
   _SDM 2023_  
+- [**Saliency-Regularized Deep Multi-Task Learning**](https://dl.acm.org/doi/pdf/10.1145/3534678.3539442)  
+  _KDD 2022_
+
+---
+
+## 3. Neuro-Inspired Continual Learning
+Developing lifelong learning approaches with efficient memory-replay mechanisms and neuro-inspiration.
+- [**Saliency-Augmented Memory Completion for Continual Learning**](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch28)  
+  _SDM 2023_
+
 
 
 Services and Awards
