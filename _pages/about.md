@@ -86,10 +86,10 @@ Worked on natural language processing and developed web application.
 ## Volunteer Works:
 
 - Oct. 2024 - Present<br>
-**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, Organizing member / 日本音響学会 学生・若手フォーラム 幹事会員** 
+**Acoustical Society of Japan (ASJ) Students and Young Researchers Forum, member / 日本音響学会 学生・若手フォーラム 幹事会員** 
 
 
-## Other Experiences
+## Misc.
 
 - Apr. 2024<br>
 **Invited to Google Research Talk, Google Tokyo, Japan**<br>
