@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant teaching professor in the electrical and computer engineering department at UC Davis. I am broadly interested in algorithmic aspects of data science and on learning and reasoning under constraints on computational resources like memory, precision, and network communication. I am particularly interested in exploiting randomness to develop algorithms that have formal guarantees of correctness while lending themselves to realization in highly-parallel and noisy hardware.
+I am an assistant professor of teaching in the electrical and computer engineering department at UC Davis. I am broadly interested in algorithmic aspects of data science and on learning and reasoning under constraints on computational resources like memory, precision, and network communication. I am particularly interested in exploiting randomness to develop algorithms that have formal guarantees of correctness while lending themselves to realization in highly-parallel and noisy hardware.
 
 Prior to joining UC Davis, I was a postdoctoral scholar in the [Redwood Center for Theoretical Neuroscience](https://redwood.berkeley.edu) at UC Berkeley. I received my PhD in Computer Science from UC San Diego in September 2023, where I was supervised by Sanjoy Dasgupta and Tajana Rosing. I received my Bachelor of Science, with high honors, in Agricultural Economics from the University of California, Berkeley in 2013 and previously worked as a Senior Research Analyst at Brown University for Justine Hastings, Jesse Shapiro and Nate Baum-Snow.
 
@@ -18,11 +18,11 @@ I am organizing a paper reading group for UC Davis students on randomness and it
 
 # TA Positions
 
-If you are a student interested in serving as a TA for a class I am teaching, please submit an application through the process managed by the ECE department. I cannot accept TA assignment requests made over email.
+If you are a student interested in serving as a TA for a class I am teaching, please submit an application through the process managed by the ECE department. I cannot accept TA assignment requests made over email and will not respond to emails asking for TA positions.
 
 # PTA Requests
 
-I cannot grant permission to add (PTA) requests. Please contact CoE or ECE advising for PTA related enquiries.
+I cannot grant permission to add (PTA) or drop (PTD) requests. Please contact CoE or ECE advising for PTA/PTD related enquiries.
 
 # Publications
 
