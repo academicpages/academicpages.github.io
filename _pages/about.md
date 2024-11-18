@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-👩🏽‍💻 I am currently a second-year student pursuing a bachelor's degree in computer science at Georgia Tech.
+👩🏽‍💻 I am currently a third-year student pursuing a bachelor's degree in computer science at Georgia Tech.
 
 👩🏽‍🏫 At Georgia Tech, I am a teaching assistant for CS 1332 (Data Structures & Algorithms). As a TA, I help manage a class of over 1000 students, teach weekly recitations, debug/explain concepts during office hours, and grade homeworks/exams.
 
@@ -20,9 +20,9 @@ If you would like to chat about anything, feel free to contact me at [achakrav6@
 
 # Experiences
 
-## Incoming Duolingo Engineering Intern (Summer 2024)
+## Duolingo Engineering Intern (Summer 2024)
 
-I am excited to intern at [Duolingo](https://www.duolingo.com/) in Pittsburgh this upcoming summer!
+Last summer, I interned at [Duolingo](https://www.duolingo.com/) in Pittsburgh!
 
 ## MIT Haystack Observatory REU Intern (Summer 2023)
 
