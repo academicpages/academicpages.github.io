@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiang Gong is a Professor at the University of Electronic Science and Technology of China (UESTC).
+Jiang Gong is a Professor at the University of Electronic Science and Technology of China (UESTC)..
 
 He received a B.S. degree from Jilin University, Changchun, China, in 2015, and the M.S. and Ph.D. degrees from the Delft University of Technology, Delft, the Netherlands, in 2017 and 2023, respectively. From May 2022 to December 2023, he was a senior analog/mixed-signal circuit designer at SiTime, the Netherlands, focusing on phase-locked loop design for precision timing applications. From January 2024 to November 2024, he was a Post-Doctoral Researcher at ETH Zurich, Zurich, Switzerland.
 
