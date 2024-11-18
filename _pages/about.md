@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Jiang Gong is a Professor at the University of Electronic Science and Technology of China (UESTC)..
+
+He received a B.S. degree from Jilin University, Changchun, China, in 2015, and the M.S. and Ph.D. degrees from the Delft University of Technology, Delft, the Netherlands, in 2017 and 2023, respectively. From May 2022 to December 2023, he was a senior analog/mixed-signal circuit designer at SiTime, the Netherlands, focusing on phase-locked loop design for precision timing applications. From January 2024 to November 2024, he was a Post-Doctoral Researcher at ETH Zurich, Zurich, Switzerland.
+
+He is a reviewer for the IEEE JOURNAL OF SOLID-STATE CIRCUITS (JSSC), the IEEE Transactions on Microwave Theory and Techniques (TMTT), the IEEE Transactions on Circuits and Systems I (TCAS-I), and the IEEE Solid-State Circuits Letters (SSCL). He was a recipient of the IEEE Solid-State Circuits Society (SSCS) Predoctoral Achievement Award for 2021–2022 and the Chinese Government Award for Outstanding Self-Financed (non-government sponsored) Students Abroad, and a co-recipient of Best Student Paper Award at IMS-2023 (second place).
+
+His research interest is in analog and mixed-signal integrated circuit design, with a special focus on high-performance clocking circuits. He has published over 8 ISSCC/JSSC papers on frequency synthesizer design, with 5 ISSCC/JSSC papers as the (cou)first author.
 
 A data-driven personal website
 ======
