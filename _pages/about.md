@@ -45,7 +45,7 @@ redirect_from:
         </div>
     </details>
 
-3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>) - Edward's JMP
+3. <a href="https://edwardwiles.github.io/storage/papers/senegal_traders.pdf">Relational Frictions Along the Supply Chain: Evidence from Senegalese Traders</a> (with <a href="https://www.edward-wiles.com">Edward Wiles</a>), Edward's JMP, _Media Coverage_: <a href="https://blogs.worldbank.org/en/impactevaluations/can-social-media-alleviate-search-and-trust-frictions-in-interna">_World Bank Blog - Development Impact_</a>
    <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
