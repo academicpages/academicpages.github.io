@@ -13,7 +13,7 @@ redirect_from:
 
 I have broad interests in understanding the intricate relationships and mechanisms through which environmental and metabolic exposures influence reproductive health outcomes. My research work has resulted in 4 publications in high-impact journals. Recently, I have focused on applying interdisciplinary approaches, such as machine learning and GIS, to investigate the associations between air pollution—particularly PM2.5 and its chemical components—and common adverse pregnancy outcomes. 
 
-For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV Zeping Yang PhD.pdf). 
+For more details, you can find my CV here: [Zeping Yang's Curriculum Vitae](../assets/CV of Zeping Yang 2024.11.18.pdf). 
 
 If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR Code](../assets/Wechat.jpg).
 
@@ -21,7 +21,7 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 
 ![Metabolites](../images/GA_Menopause_Premature_Mortality.png)
 
-**Earlier age at menopause, plasma metabolome, and risk of premature mortality: A cohort study in the UK Biobank**
+**[Earlier Age at Menopause, Plasma Metabolome, and Risk of Premature Mortality](https://doi.org/10.3390/metabo14110571)**
 **Zeping Yang**, Ninghao Huang, ... Nan Li<sup>*</sup>.
 
 - **Question** What is the metabolomic signature associated with the age at menopause, and does it mediate the relationship between earlier age at menopause and increased risk of premature mortality?
