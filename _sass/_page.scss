@@ -335,8 +335,8 @@
 
 .comment__avatar {
   width: 40px;
-  height: 40px;
-  border-radius: 50%;
+  height: 60px; // 修改高度以形成椭圆形外观
+  border-radius: 50% / 25%; // 设置椭圆形
 
   @include breakpoint($large) {
     width: 80px;
