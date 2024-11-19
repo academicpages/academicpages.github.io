@@ -1,8 +1,7 @@
 ---
 permalink: /publications/
-title: "Selected Ten Publications"
+title: " "
 ---
-
 **Selected Ten Publications** *(updated as of November 2024)*
 
 1. **Y. Wu**, W. Maass. "Memory structure created through behavioral time scale synaptic plasticity." **Nature Communications** (accepted in principle).
