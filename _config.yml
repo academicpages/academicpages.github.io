@@ -21,7 +21,7 @@ repository               : "albertree/albertree.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile_Albert.jpg"
   name             : "Seokki Lee (Albert)"
   pronouns         : # example: "she/her"  
   bio              : "System-2 Reasoning, Neuro-Symbolic, Abstraction and Reasoning"
