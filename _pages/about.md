@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### **About me**
+### **Biography**
 Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology, from October 2021 to January 2024. During this period, he focused on brain-like computation and computational neuroscience. His doctoral research, conducted at Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu, centered on brain-inspired computing (2016-2021).
 
 ### **Featured research**
