@@ -4,18 +4,18 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main: # _data/about.md
+main: # _pages/about.md
   - title: "Research"
     url: /research/ 
     
   - title: "Publications"
-    url: /publications/
+    url: /publications/ # _publications/xxxxxx.md
 
   - title: "CV"
     url: /files/Seokki_Lee_CV.pdf # /files/Seokki_Lee_CV.pdf
 
   - title: "Contact"
-    url: /contact/
+    url: /contact/ # _pages/contact.md
 
 
   # - title: "Portfolio"
