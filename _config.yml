@@ -13,7 +13,7 @@ name                     : &name "Dr. Yujie Wu"
 description              : &description "Research Assistant Professor at PolyU"
 url                      : https://yjwu17.github.io/yujiewu/  # Replace 'yourusername' with your GitHub username
 baseurl                  : ""  # The subpath of your site, e.g., "/blog"
-repository               : "yjwu17/yujiewu"  # Replace with your GitHub repository name
+repository               : "yjwu17/yjwu17.github.io"  # Replace with your GitHub repository name
 teaser                   :  # Filename of teaser fallback image placed in /images/, e.g., "500x300.png"
 breadcrumbs              : false  # true, false (default)
 words_per_minute         : 160
