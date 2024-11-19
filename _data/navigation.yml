@@ -8,16 +8,19 @@ main:
   - title: "Research"
     url: /research/
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
-    
   - title: "Publications"
     url: /publications/
 
   - title: "CV"
     url: /cv/
 
+  - title: "Contact"
+    url: /contact/
 
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+  
   # - title: "Talks"
   #   url: /talks/    
 
