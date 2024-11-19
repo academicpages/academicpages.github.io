@@ -7,14 +7,12 @@ redirect_from:
   - /contact/
 ---
 
-<!-- {% include base_path %} -->
-
-# Contact Information
+{% include base_path %}
 
 If you would like to get in touch with me, you can reach me through the following email addresses:
 
-- **Personal Email:** [personal@example.com](mailto:personal@example.com)
-- **Work Email:** [work@example.com](mailto:work@example.com)
-- **Support Email:** [support@example.com](mailto:support@example.com)
+- **Personal Email:** [sklee@naver.com]
+- **Work Email:** [sklee@gist.ac.kr]
+- **Support Email:** [albertlee1103@gmail.com]
 
 Feel free to contact me for any inquiries or support.
