@@ -6,16 +6,16 @@
 
 main: # _pages/about.md
   - title: "Research"
-    url: /research/ 
+    url: /research/ # _research/xxxxxxx.md in _pages/research.html
     
   - title: "Publications"
-    url: /publications/ # _publications/xxxxxx.md
+    url: /publications/ # _publications/xxxxxx.md in _pages/publications.html
 
   - title: "CV"
     url: /files/Seokki_Lee_CV.pdf # /files/Seokki_Lee_CV.pdf
 
   - title: "Contact"
-    url: /contact.md # _pages/contact.md
+    url: /contact # _pages/contact.md
 
 
   # - title: "Portfolio"
