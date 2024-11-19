@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Seokki Lee's Homepage"
+title                    : "Seokki's Homepage"
 title_separator          : "-"
 name                     : &name "Seokki Lee"
 description              : &description "Personal website of Seokki Lee"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_Albert.jpg"
   name             : "Seokki Lee (Albert)"
   pronouns         : # example: "she/her"  
-  bio              : "System-2 Reasoning, Neuro-Symbolic, Abstraction and Reasoning"
+  bio              : "System-2 Reasoning, Neuro-Symbolic, Abstraction and Reasoning, Logical Reasoning, Program Synthesis, Cognitive Science"
   location         : "Gwangju, South Korea"
   employer         : "GIST"
   uri              : # URL
