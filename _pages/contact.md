@@ -7,7 +7,7 @@ redirect_from:
   - /contact/
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 # Contact Information
 
