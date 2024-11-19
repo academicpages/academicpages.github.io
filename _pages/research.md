@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Research Interests"
+title: " "
 ---
 
 
