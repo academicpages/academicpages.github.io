@@ -31,7 +31,7 @@ the computational and statistical efficiency of learning methods, and the extent
 1. <b> Learning Smooth Distance Functions via Queries </b> <br>
 **Akash Kumar**, Sanjoy Dasgupta <br>
 <i>In submission to a conference.<br>
-[[ArXiv upcoming soon]()]
+[[ArXiv coming soon]()]
 
 2. <b> Mirror Descent on Reproducing Kernel Banach Space (RKBS) </b> <br>
 **Akash Kumar**, Misha Belkin, Parthe Pandit <br>
