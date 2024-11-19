@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interests and Ongoing Projects"
 permalink: /research/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Research Interests and Ongoing Projects
+
 ======
 
 
