@@ -11,8 +11,9 @@ redirect_from:
 
 If you would like to get in touch with me, you can reach me through the following email addresses:
 
-- **Personal Email:** [sklee@naver.com]
-- **Work Email:** [sklee@gist.ac.kr]
-- **Support Email:** [albertlee1103@gmail.com]
+
+- **Work Email(Preferred):** sklee1103@gist.ac.kr
+- **Personal Email:** albertlee1103@gmail.com
+- **Secondary Email:** sklee1103@naver.com
 
 Feel free to contact me for any inquiries or support.

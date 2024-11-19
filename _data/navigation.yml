@@ -6,7 +6,7 @@
 
 main: # _pages/about.md
   - title: "Research"
-    url: /research/ # _research/xxxxxxx.md in _pages/research.html
+    url: /research/ # _pages/research.md
     
   - title: "Publications"
     url: /publications/ # _publications/xxxxxx.md in _pages/publications.html
