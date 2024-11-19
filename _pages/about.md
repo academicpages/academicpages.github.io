@@ -12,6 +12,7 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* November 12th: Li et al. 2024 - _The Nature of Optical Afterglows Without Gamma-ray Bursts: Identification of AT2023lcr and Multiwavelength Modeling_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2411.07973).
 * November 7th: Andreoni et al. 2024 - _Rubin ToO 2024: Envisioning the Vera C. Rubin Observatory LSST Target of Opportunity program_ submitted to ApJS. Check it out on [arXiv](https://arxiv.org/abs/2411.04793).
 * October 21-October 27th: This week I am in Liverpool, where I am giving an invited seminar on neutron star mergers and a talk on redback. 
 * October 15-18th: Now in Southampton, visiting the University of Southampton. I am giving a couple of talks here on neutron stars and redback.  
