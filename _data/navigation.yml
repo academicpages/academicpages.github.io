@@ -15,7 +15,7 @@ main: # _pages/about.md
     url: /files/Seokki_Lee_CV.pdf # /files/Seokki_Lee_CV.pdf
 
   - title: "Contact"
-    url: /contact.md/ # _pages/contact.md
+    url: /contact.md # _pages/contact.md
 
 
   # - title: "Portfolio"
