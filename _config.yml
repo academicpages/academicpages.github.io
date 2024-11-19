@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Elene's homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Elene Lominadze"
 description              : &description "personal description"
 url                      : https://elenelomi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "EleneLomi/elenelomi.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Elene Lominadze"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Machine Learning and Bioinformatics"
+  location         : "Oxford"
+  employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "elene.lominadze123@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
