@@ -1,49 +1,54 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+### **About me**
+Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology, from October 2021 to January 2024. During this period, he focused on brain-like computation and computational neuroscience. His doctoral research, conducted at Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu, centered on brain-inspired computing (2016-2021).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+### **Featured research**
+He is dedicated to (1) Exploring the computational principles of the brain, with a specific emphasis on underlying learning mechanisms such as STDP and BTSP; (2) Leveraging these insights to develop brain-inspired general intelligence with exceptional computational and learning efficiency (such as robustness, adaptability, and few-shot learning capabilities)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+In the past five years, his work have been recognized in prestigious journals and top AI conferences, including ***Nature*** (cover paper), ***Science Robotics*** (cover paper), ***Nature Computational Science***, ***Nature Communications***, IEEE TNNLs and AAAI, with about 4.8k google scholar citations. Two of his works have been selected as ESI Top 1% Highly Cited Papers. Two papers have been selected as featured papers by Nature Communications. One of his papers was awarded Best Paper of the Year by the Journal of Control and Decision, and three of his related works have been successfully converted into patents. His participated Tianjic chip project was recognized as one of the top 10 sci-tech achievements in China in 2019.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**Selected Ten Publications** <span style="font-size: small;">(updated as of November 2024)</span>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. **Y. Wu**, W. Maass. "Memory structure created through behavioral time scale synaptic plasticity." **Nature Communications** (accepted in principle).
 
-**Markdown generator**
+2. **Y. Wu**, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." **Nature Communications**, 2024, 15(1): 7355. (Featured papers)
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+3. F. Yu# **Y. Wu#** (#Equal Contribution), et al. "NeuroGPR: Brain-inspired general place recognition with neuromorphic computing." **Science Robotics**, May 2023. (Cover paper)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+4. **Y. Wu**, R. Zhao, J. Zhu, et al. "Brain-inspired global-local learning incorporated with neuromorphic computing." **Nature Communications**, 2022, 13(1): 1-14.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+5. R. Zhao#, Y. Zhe#, H. Zheng#, **Y. Wu#**, et al. "A framework for the general design and computation of hybrid neural networks." **Nature Communications**, 2022.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+6. **Y. Wu**, L. Deng, G. Li, et al. "Direct training for spiking neural networks: faster, larger, better." In *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, 2019, 33: 1311-1318. (Spotlight)
+
+7. **Y. Wu**, L. Deng, G. Li, et al. "Spatio-temporal backpropagation for training high-performance spiking neural networks." **Frontiers in Neuroscience**, 2018, 12: 331. (ESI Top 1% Highly Cited Paper)
+
+8. Z. Zhang#, T. Li#, **Y. Wu#**, et al. "Truly concomitant and independently expressed short- and long-term plasticity in a Bi₂O₂Se-based three-terminal memristor." **Advanced Materials**, 2019, 31(3): 1805769. (Impact Factor: 30.2)
+
+9. J. Pei, ..., **Y. Wu**, et al. "Towards artificial general intelligence with hybrid Tianjic chip architecture." **Nature**, 2019, 572(7767): 106-111. (Cover paper)
+
+10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8.
+
+
+### **Service Activities**
+- Associate Editor for CIS-RAM 2024   
+- Review Editor for *Frontiers in Neuroscience*  
+- Technical Chair for PRSC 2024  
+- Program Committee Member for AAAI 2025  
+- Technical Program Committee Member for the IEEE GlobCon series
+
+### **Hiring**
+I am seeking motivated Post-Doctoral Fellows, Research Assistants, and Ph.D. students with a strong interest and experience in brain-inspired computing and computational neuroscience. If you are interested in joining my research team at PolyU, please email your CV (including research interests, GPA, publications, etc.) and transcript (required for Research Assistant and Ph.D. applicants).
+
+
+
+ 
