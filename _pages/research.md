@@ -7,7 +7,7 @@ redirect_from:
   - /research/
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 
 ======
