@@ -8,14 +8,14 @@ date: 2024-01-01
 location: "City, Country"
 ---
 
-Master course for machine learning and statiscal techniques.
+Master course for machine learning and Signal analysis. Involved in teaching the introduction to the mathematics and guarantees of PCA.
 
-Heading 1
+Lectures
 ======
 Link to the recordings
 
-Test
+<!-- Test
 ======
 
 Heading 3
-======
+====== -->
