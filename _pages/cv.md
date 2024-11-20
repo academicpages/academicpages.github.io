@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Computational Scientist
+
+* Dec. 2023 - July 2024: Computational Scientist
   * Medusa Materials
   * Duties include: Creating mathematical models of chemical processes and writing grants.
 
@@ -43,7 +44,12 @@ Awards
   
 Skills
 ======
-* Skill 1
+* Computing & Data Science:
+  * Python [Advanced], Mathematica [Advanced], MATLAB [Advanced].
+  * Python and MATLAB based numerical modelling.
+  * Computational Simulations of physical, biological or chemical systems.
+  * Machine learning using the Scikit-learn, Tensorflow, Keras, Pytorch.
+  * Software development (e.g. scientific packages, Graphical User Interfaces)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
