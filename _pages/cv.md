@@ -31,6 +31,16 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+ 
+Awards
+======
+* Clarendon Scholarship
+* Kennedy Trust Prize Studentship
+* GW4 IVF Hackathon first place
+* Alexis Heeb Research Scholarship
+* Dean’s List, Department of Physics and Astronomy, UCL
+* Royal Microscopical Society: Studentship Award
+* Brian Duff Research Studentship Award
   
 Skills
 ======
