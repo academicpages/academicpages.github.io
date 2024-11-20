@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Tu Delft"
-date: 2022-2024
+date: 2022-01-01
 location: "City, Country"
 ---
 
