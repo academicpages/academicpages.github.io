@@ -18,7 +18,8 @@ Education
 Work experience
 ======
 * Computational Scientist
-  * Duties include: Creating mathematical models of chemical processes; Writing Grants.
+  * Medusa Materials
+  * Duties include: Creating mathematical models of chemical processes and writing grants.
 
 * Fall 2015: Research Assistant
   * Github University
@@ -47,7 +48,8 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Languages
+  * English, Georgian, Russian
 
 Publications
 ======
