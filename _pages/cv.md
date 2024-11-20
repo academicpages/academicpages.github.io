@@ -50,8 +50,6 @@ Skills
   * Computational Simulations of physical, biological or chemical systems.
   * Machine learning using the Scikit-learn, Tensorflow, Keras, Pytorch.
   * Software (e.g. scientific packages, Graphical User Interfaces)
-* Certifications:
-  * Neural Networks and Deep Learning, Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization, Structuring Machine Learning Projects, Convolutional Neural Networks, Sequence Models.
 * Languages
   * English, Georgian, Russian
 
