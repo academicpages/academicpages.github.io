@@ -176,6 +176,18 @@ body {
     margin-top: -1.5em;
     padding-left: 1.25rem;
   }
+
+  ul {
+    width: 75%;
+    -webkit-padding-start: 5%;
+    -webkit-padding-end: 5%;
+  }
+
+  ol {
+    width: 75%;
+    -webkit-padding-start: 5%;
+    -webkit-padding-end: 5%;
+  }
 }
 
 .page__hero {
@@ -758,3 +770,9 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             figure.fullwidth figcaption { margin-left: 0; }
                           }
 /*--- End of Basic Layout stuff from tufte.css ---*/
+
+@media screen and (max-width: 760px) { 
+    ul,ol { 
+        width: 90%; // Match the width of paragraphs in mobile view
+    }
+}

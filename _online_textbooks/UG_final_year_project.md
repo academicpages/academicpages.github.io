@@ -24,7 +24,7 @@ are classic examples of the former whereas
 former whereas in-space manufacturing or tackling
 overcome existential risks/threats 
 ### In-Space Manufacturing (e.g., Organs, Electronics, and Pharmaceuticals Drugs)
-**<u>Domain</u>**:: Commercial Businesses backed by either venture capital and/or
+**<u>Pursuers</u>**: Commercial businesses backed by either venture capital and/or
 space agencies.
 
 [3-D printing artificial organs](https://www.nasa.gov/missions/station/iss-research/3d-bioprinting/)
@@ -34,11 +34,15 @@ to if these
 
 **<u>Existing Players</u>**
 - **Semiconductors and Electronics**
-    -  [Space Forge](https://www.spaceforge.com)
+    -  [Space Forge](https://www.spaceforge.com) have spokent about 3D
+    printing semiconductors and generally manufacturing advanced materials; at
+    an even I attended, they spoke about how microgravity allows new alloys
+    to be made that don't separate due to a lack of gravity.
+
 - **Pharmaceuticals Drugs** 
    - [Varda Space](https://www.varda.com)
-   - [BioOrbit](https://www.bioorbit.space/)
-
+   - [BioOrbit](https://www.bioorbit.space/) was still nascent when I wrote this in 
+   October 2024.
 
 ### Large Space Stations (Modular or Monolithic)
 **<u>Domain</u>**: National space agencies have built space stations so far.
@@ -247,6 +251,18 @@ Commercial entities are now trying to get a piece of the pie.
 
 -[ClearSpace](http://clearspace.today)
 
+## Technical Areas needing attention
+I will keep adding to this list as
+I learn of areas:
+- Sample return is a technically expensive area of work. At the October 2024 talk 
+at IOP, I think it was Andrew Bacon who spewed some statistics
+of sample return being unchanged since the Shuttle era. It was
+$£40,000/kg$ (USD) in the Shuttle era and is currently $£45,000/kg$ (USD) for
+the SpaceX Dragon 2. I presume this is in 2024 currency as this was said in dialogue.
+
+- Rendezvous and Proximity Operations (RPO) are a technical gap that Astroscale mentioned
+at the same October 2024 talk.
+
 ## Project Blurb (for Inspiration Only)
 There is a rapidly growing number of man-made satellites in Earth’s orbit, fulfilling
 a wide range of tasks. As satellite technology develops, there is a growing interest
@@ -363,6 +379,7 @@ and another [CalTech/NASA-JPL paper on 80 metre telescopes](https://kiss.caltech
 3. My blogposts on:
  - [Comparing wheel space stations to the ISS](http://www.angadhn.com/large%20space%20stations/space%20exploration/vonBraunWheels/)
  - [Inflatable von Braun stations](http://www.angadhn.com/inflatable%20space%20habitats/inflatable%20space%20habitats/)
+4. A LOT of textbooks that I have collected in many areas (not just space) that you can use for your reports is available [here](https://github.com/spaceHQ-ltd/Textbooks).
 
 ### Footnotes
 [^a]: Here, I do not just mean space technolgoies but even those that you use in preparing your reports such as GitHub and $$\LaTeX$$.
