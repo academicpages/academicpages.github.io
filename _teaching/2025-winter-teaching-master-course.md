@@ -2,7 +2,7 @@
 title: "Signal Analysis & Learning"
 collection: teaching
 type: "Master course"
-permalink: /teaching/2025-signal-learning
+permalink: /teaching/_teaching/2025-winter-teaching-master-course
 venue: "Tu delft"
 date: 2025-01-01
 #location: "City, Country"
