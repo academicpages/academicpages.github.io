@@ -2,7 +2,7 @@
 title: "Signal analysis"
 collection: teaching
 type: "Bachelor course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/_teaching/2022-winter-teaching-bachelor-course.md
 venue: "Tu Delft"
 date: 2022-01-01
 location: "City, Country"
