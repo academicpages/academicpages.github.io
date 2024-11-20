@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* DPhil in Computational Biology, University of Oxford, 2028 (expected)
+* DPhil in Machine Learning and Bioinformatics, University of Oxford, 2028 (expected)
 * MSc in Mathematical Modelling and Scientific Computing, University of Oxford, 2023
 * BSc in Theoretical Physics, University College London, 2022
 
