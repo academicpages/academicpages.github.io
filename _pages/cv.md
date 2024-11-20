@@ -49,7 +49,7 @@ Skills
   * Python and MATLAB based numerical modelling.
   * Computational Simulations of physical, biological or chemical systems.
   * Machine learning using the Scikit-learn, Tensorflow, Keras, Pytorch.
-  * Software development (e.g. scientific packages, Graphical User Interfaces)
+  * Software (e.g. scientific packages, Graphical User Interfaces)
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
