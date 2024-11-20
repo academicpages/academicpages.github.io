@@ -22,10 +22,9 @@ Work experience
   * Medusa Materials
   * Duties include: Creating mathematical models of chemical processes and writing grants.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2015: MAT admissions test marking
+  * University of Oxford
+  * Duties included: Marking admissions tests for mathematics at Oxford
 
 * Summer 2015: Research Assistant
   * Github University
@@ -50,7 +49,7 @@ Skills
   * Computational Simulations of physical, biological or chemical systems.
   * Machine learning using the Scikit-learn, Tensorflow, Keras, Pytorch.
   * Software (e.g. scientific packages, Graphical User Interfaces)
-* Languages
+* Languages:
   * English, Georgian, Russian
 
 Publications
