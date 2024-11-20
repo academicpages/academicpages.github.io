@@ -22,15 +22,10 @@ Work experience
   * Medusa Materials
   * Duties include: Creating mathematical models of chemical processes and writing grants.
 
-* Fall 2015: MAT admissions test marking
+* Oct. 2023: MAT admissions test marking
   * University of Oxford
   * Duties included: Marking admissions tests for mathematics at Oxford
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
- 
+  
 Awards
 ======
 * Clarendon Scholarship
