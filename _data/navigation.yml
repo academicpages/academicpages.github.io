@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /files/CV_delft.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
