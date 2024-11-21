@@ -9,11 +9,14 @@ date: 2025-01-01
 #location: "City, Country"
 ---
 
-Master course for machine learning and Signal analysis. Involved in teaching the introduction to the mathematics and guarantees of PCA.
+Master course for machine learning and Signal analysis. Involved in teaching the introduction and some mathematical guarantees of PCA.
 
 Lectures
 ======
+
 Link to the recordings
+I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+
 
 <!-- Test
 ======
