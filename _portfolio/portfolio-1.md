@@ -1,6 +1,6 @@
 ---
 title: "Molecular Dynamics"
-excerpt: "Simulation <br/><img src='/images/500x300.png'>"
+excerpt: "Simulation <br/><img src='/images/MD.png'>"
 collection: portfolio
 ---
 
