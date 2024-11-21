@@ -1,6 +1,6 @@
 ---
-title: "Molecular Dynamics"
-excerpt: "Simulation <br/><img src='/images/MD.png'>"
+title: "Pattern Formation"
+excerpt: "Simulation <br/><img src='/images/GUI.png'>"
 collection: portfolio
 ---
 
