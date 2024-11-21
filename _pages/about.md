@@ -11,4 +11,4 @@ I am a first year PhD student at the University of Oxford, kindly supported by t
 
 Research Interests
 ======
-My interests lie at the intersection of applied mathematics, machine learning and systems biology. I like working with data to develop interpretable tools to uncover hidden patterns. So far my focus has been on Geometric Deep Learning.
+My interests lie at the intersection of applied mathematics, machine learning and systems biology. I like working with data to develop interpretable tools and uncover hidden patterns. So far my focus has been on Geometric Deep Learning.
