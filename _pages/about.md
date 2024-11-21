@@ -144,9 +144,9 @@ I have been actively searching for the right mentor and project as I am very eag
       <img src="images/Wave-MAE.png" alt="Wave-MAE">
     </div>
     <div style="flex: 1;">
-      <h3>Consistency Regularization Augmented Wavelet-based Masked Autoencoder for Multiple Thorax Disease Classification</h3>
-      <p>Yunze Wang*, Silin Chen*, <span class="author-bold">Tianyang Wang*</span>, Yuexiang Li, Siqi Huang, Xiaowei Huang, Jingxin Liu.</p>
-      <p><em>International Conference on Bioinformatics & Biomedicine (BIBM), 2024 - <span class="highlight">Under Review</span></em></p>
+      <h3>Wave-MAE: Wavelet Transform Meets Masked Autoencoder for Multiple Thorax Disease Classification</h3>
+      <p>Yunze Wang*, Silin Chen*, <span class="author-bold">Tianyang Wang*</span>,Zhuo Zhang, Jingxin Liu.</p>
+      <p><em>International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2025 - <span class="highlight">Under Review</span></em></p>
       <p><span class="author-bold">*</span> equal contribution</p>
     </div>
 </div>
