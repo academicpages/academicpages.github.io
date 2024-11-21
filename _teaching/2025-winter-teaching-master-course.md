@@ -14,8 +14,7 @@ Master course for machine learning and Signal analysis. Involved in teaching the
 Lectures
 ======
 
-Link to the recordings
-I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+[Link](https://pauldelacour.github.io/ "We'll Do It Live") to the recordings.
 
 
 <!-- Test
