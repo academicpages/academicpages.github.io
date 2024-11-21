@@ -1,25 +1,21 @@
 
-Greetings! My name is Yuyan Pan (潘芋燕), and I am a Ph.D. Candidate at Beijing University of Technology. My research interests include volume-delay function modeling and calibration, fundamental diagram and queueing theory, traffic demand estimation, traffic flow prediction, big data and machine learning, and open-source transportation modeling software development.
+Greetings! My name is Yuyan Pan (潘芋燕), and I am a Postdoctoral Researcher at Pennsylvania State University. My research interests include Connected and Automated Vehicles, fundamental diagram and queueing theory, traffic demand estimation, traffic flow prediction, big data and machine learning, and open-source transportation modeling software development.
 
 
 Research Interests
 ======
-	Traffic Flow Theories, Systems Modelling in Bottlenecks
+	Connected and Automated Vehicles, Electric Vehicles, Traffic Demand Management
 
-	Traffic State Estimation and Prediction
+	Machine Learning Applications in Smart Mobility, Traffic State Estimation and Prediction
 
-	Machine Learning Applications and Traffic Big Data Analytics
-
-	Transportation Emerging Technology Simulation and Optimization
-
-	Open-source Transportation Modeling Software Development
+	Traffic Flow Theory, Transportation Network Optimization, Dynamic Traffic Assignment
 
 
 Education
 ======
 •	Ph.D., Transportation Engineering
 
-Beijing University of Technology, Beijing, China. (Advisors: Prof. Jifu Guo, Prof. Yanyan Chen, Prof. Xuesong Zhou), 09/2019-10/2023
+Beijing University of Technology, Beijing, China. (Advisors: Prof. Jifu Guo, Prof. Yanyan Chen, Prof. Xuesong Zhou), 09/2019-11/2023
 
 •Dissertation: Cross-resolution bottleneck analysis for dynamic mobility management: integrated parsimaneneous traffic flow fundamentals with data driven approaches
 
@@ -32,11 +28,16 @@ Beijing University of Technology, Beijing, China. (Advisor: Prof. Jianjun Shi), 
 •	B.S., Transportation Engineering
 
 Shandong University of Technology, Zibo, China. (Advisor: Prof. Junyou Zhang), 09/2010-06/2014
-•Thesis: 
 
 
 Publications
 ------
+•	Transportation Letters (1 Paper, 1 First-Authored).
+
+•	Multimodal Transportation (1 Paper, 1 First-Authored).
+
+•	Expert Systems with Applications (1 Papers, 1 First-Authored).
+
 •	Transportation Research Record (1 Paper, 1 First-Authored).
 
 •	Journal of Transportation Engineering, Part A: Systems (2 Paper, 1 First-Authored).
@@ -47,7 +48,7 @@ Publications
 
 •	Science Technology & Engineering (2 Papers, 1 First-Authored).
 
-•	Journal of Highway and Transportation Research and Development (2 Paper, 1 First-Authored).
+•	Journal of Highway and Transportation Research and Development (3 Paper, 1 First-Authored).
 
 See full list here: [Google Scholar](https://scholar.google.com/citations?user=4pjS2hYAAAAJ&hl=zh-CN)
  
@@ -62,23 +63,33 @@ Reviews
 ------
 **Journal Article Reviewer**
 
-  •	  Transportation Research Part C
+  •	 Transportation Research Part B/C/E
 
+  •	 Transportmetrica B: Transport Dynamics
+  
+  •		Transportation Research Record
+
+  •		Transportation
+ 
+  •		Journal of Advanced Transportation
+  
   •		Urban Rail Transit
 
-  •		Transportation Research Record
+  •		Multimodal Transportation
  
-  •		Ain Shams Engineering Journal
+  •		International Journal of Intelligent Systems
 
-  •		Journal of Advanced Transportation
-
+  •		Journal of Highway and Transportation Research and Development 
+  
   •		Complexity 
+
+  •		Ain Shams Engineering Journal
 
 **Conference Proceeding Reviewer**
 
-  •	  TRB Transportation Research Board Annual Meeting
+  •	  TRB Transportation Research Board Annual Meeting (TRB)
 
-  •	  COTA International Conference of Transportation Professionals
+  •	  COTA International Conference of Transportation Professionals (CICTP) 
 
 Skills
 ------
@@ -88,11 +99,11 @@ Skills
 
 **•	Simulation**
 
-  •	 DTALite, VISSIM, TransCAD, Anylogic
+  •	 DTALite, SUMO, VISSIM, TransCAD, Anylogic
 
 **•	Statistics**
 
-  •	 SPSS, SQL, Zotero
+  •	 SPSS, SQL, Zotero, Overleaf
 
 **•	Visualization**
 
@@ -100,7 +111,7 @@ Skills
 
 **•	Language**
 
-  • 	Mandarin, English (CET-6)
+  • 	Mandarin, English
 
 
 
