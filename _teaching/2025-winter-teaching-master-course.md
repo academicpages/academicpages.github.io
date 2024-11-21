@@ -14,7 +14,7 @@ Master course for machine learning and Signal analysis. Involved in teaching the
 Lectures
 ======
 
-[Link](https://pauldelacour.github.io/ "We'll Do It Live") to the recordings.
+[Link](https://pauldelacour.github.io/ "Homepage link for now") to the recordings.
 
 
 <!-- Test
