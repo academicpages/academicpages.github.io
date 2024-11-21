@@ -21,7 +21,7 @@ repository               : "EleneLomi/elenelomi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.png"
+  avatar           : "profile.png"
   name             : "Elene Lominadze"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning and Bioinformatics"
