@@ -16,6 +16,7 @@ venue: 'January' # 如果 date 確定，就補上日期
 # codeurl: '
 # citation: ''
 paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/RAPSA_SPIE_US_final.pdf'
+projecturl: 'https://cgvsl-ncku.github.io/FlowVis/' ## IE可看
 ---
 	
 Chih-Kuo Yeh, Zhanping Liu and <strong><u>Tong-Yee Lee</u></strong> <strong><u>(<span style="color:red">Best Paper Award!!</span>)</u></strong> "Animating Streamlines with Repeated Asymmetric Patterns for Steady Flow Visualization", <strong><i>Conference on Visualization and Data Analysis</i></strong>, Jan. 2012.

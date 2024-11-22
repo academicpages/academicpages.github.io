@@ -11,6 +11,7 @@ venue: 'August'
 
 paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/video_stablization.pdf"
 videourl: "http://people.cs.nctu.edu.tw/~yushuen/VideoStabilization"
+supplementurl: "http://graphics.csie.ncku.edu.tw/Video_Stablization/Data_src/Stabilization_examples.rar" # 29GB
 
 # projecturl: ''
 # videourl: ''

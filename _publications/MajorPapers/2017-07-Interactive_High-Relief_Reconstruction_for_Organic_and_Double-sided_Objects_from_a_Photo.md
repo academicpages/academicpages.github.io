@@ -11,7 +11,6 @@ venue: 'July'
 
 paperurl: "http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_TVCG.pdf"
 videourl: "http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_main.mp4"
-slidesurl: "http://graphics.csie.ncku.edu.tw/TVCG_stylize_2017/StylePG2017.pptx"
 
 # projecturl: ''
 # videourl: ''
