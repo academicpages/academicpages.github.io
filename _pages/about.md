@@ -28,4 +28,4 @@ Get in Touch
 
 Closing Message
 We create games, and games connect dreams.
-[DoDoBird Studio], ready to embark on this incredible journey with you!
+[DoDoBird Studio], ready to embark on this incredible journey with you
