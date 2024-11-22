@@ -1,7 +1,7 @@
 ---
 title: "Pattern Formation"
-excerpt: "Simulation <br/><img src='/images/GUI.png'>"
+excerpt: "Studied Turing Patterns and visualised them through a Graphical User Interface. <br/><img src='/images/GUI.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Implemented numerical schemes and visualised the impact of parameters on pattern formation in reaction-diffusion equations. As specific examples, Diffusion and FitzHugh-Nagumo equations were discussed. The Graphical User Interface was developed in python and used to visualise some of the results.
