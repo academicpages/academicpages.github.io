@@ -21,7 +21,7 @@ repository               : https://yuschang.github.io/ChangsooKim.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Changsoo Kim"
   pronouns         : # example: "she/her"  
   bio              : "Post-Doc Researcher"
