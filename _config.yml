@@ -12,7 +12,7 @@ title                    : "Dr.Changsoo Kim's Homepage"
 title_separator          : "-"
 name                     : &name "Changsoo Kim"
 description              : &description "Scientist interested in Applied Acoustics "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://yuschang.github.io/ChangsooKim.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : https://yuschang.github.io/ChangsooKim.github.io
 
