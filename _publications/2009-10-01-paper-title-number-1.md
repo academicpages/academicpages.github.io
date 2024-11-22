@@ -8,6 +8,6 @@ category: manuscripts
 #venue: 'Journal 1'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf' 
 paperurl: 'https://doi.org/10.1016/j.ecoinf.2024.102909'
-citation: 'Changsoo Kim, Byung-Yeob Kim and Dong-Guk Paeng, 2024, &quot; Bottlenose dolphin identification using synthetic image-based transfer learning, &quot; <i>Ecological Informatics</i>. 102909.'
+citation: 'Changsoo Kim, Byung-Yeob Kim and Dong-Guk Paeng, 2024, &quot; Bottlenose dolphin identification using synthetic image-based transfer learning &quot;, <i>Ecological Informatics</i>. 102909.'
 ---
 
