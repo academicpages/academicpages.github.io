@@ -9,15 +9,16 @@ redirect_from:
 
 I'm a Post-Doc Researcher at Jeju National University in South Korea.
 
-My research interests are 
--> Underwater acoustic monitoring of coastal water
--> Bottlenose dolphin vocalization and behavior 
--> Biomedical application of Ultrasound (ultrasound imaging and Focused Ultrasound)
--> Deep learning, Signal, and image processing
+My research interests are:; 
+-> Underwater acoustic monitoring of coastal water;
+-> Bottlenose dolphin vocalization and behavior; 
+-> Biomedical application of Ultrasound (ultrasound imaging and Focused Ultrasound);
+-> Deep learning, Signal, and image processing;
 
 ------
 # Professional Experiences
-======
+
+
 My professional research experience began with an internship at the Focused Ultrasound Foundation (Charlottesville, VA, US) in 2016. I worked as an Assistant Researcher with Dr. John Snell on the development of an open-source toolkit for transcranial-focused ultrasound targeting.
 
 After completing my Ph.D., I joined the Daegu-Gyeongbuk Medical Innovation Foundation (Daegu, South Korea) as a researcher in 2017. I gained valuable field experience in hardware and software development, as well as experiment design for medical applications of focused ultrasound.
