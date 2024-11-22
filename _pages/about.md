@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a Post-Doc Researcher at Jeju National University in South Korea.
 
-My research interests are:; 
--> Underwater acoustic monitoring of coastal water;
--> Bottlenose dolphin vocalization and behavior; 
--> Biomedical application of Ultrasound (ultrasound imaging and Focused Ultrasound);
--> Deep learning, Signal, and image processing;
+My research interests are:<br /> 
+-> Underwater acoustic monitoring of coastal water <br />
+-> Bottlenose dolphin vocalization and behavior <br />
+-> Biomedical application of Ultrasound (ultrasound imaging and Focused Ultrasound) <br />
+-> Deep learning, Signal, and image processing <br />
 
 ------
 # Professional Experiences
