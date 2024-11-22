@@ -7,7 +7,7 @@
 main:
   - title: "Publications"
     url: /publications/
-
+  
   #- title: "Talks"
   #  url: /talks/    
 
@@ -25,3 +25,6 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+  
+  - title: "Data sharing"
+    url: /DataSharing/
