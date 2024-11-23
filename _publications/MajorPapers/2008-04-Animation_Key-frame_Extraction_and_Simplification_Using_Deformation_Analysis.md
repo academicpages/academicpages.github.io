@@ -10,7 +10,7 @@ venue: 'April'
 
 
 paperurl: "/files/publications/papers/Animation_Generation_and_Retargeting_Based_on_Physics_Characteristics.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.mp4"
+videourl: "/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.mp4"
 
 # projecturl: ''
 # videourl: ''

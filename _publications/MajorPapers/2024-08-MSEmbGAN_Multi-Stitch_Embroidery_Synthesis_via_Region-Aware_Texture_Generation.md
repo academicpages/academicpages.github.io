@@ -8,9 +8,9 @@ permalink: /publications/MajorPapers/2024-08-MSEmbGAN_Multi-Stitch_Embroidery_Sy
 date: '2024-08-31'
 venue: 'August'
 
-paperurl: 'http://graphics.csie.ncku.edu.tw/TVCG_MSEmbGAN/MSEmbGAN_paper.pdf'
+paperurl: '/TVCG_MSEmbGAN/MSEmbGAN_paper.pdf'
 videourl: 'http://graphics.csie.ncku.edu.tw/TVCG_MSEmbGAN/start_1080.mp4'
-supplementurl: 'http://graphics.csie.ncku.edu.tw/TVCG_MSEmbGAN/MSEmbGAN_supplemental.pdf'
+supplementurl: '/TVCG_MSEmbGAN/MSEmbGAN_supplemental.pdf'
 
 # slidesurl: ''
 # codeurl: '

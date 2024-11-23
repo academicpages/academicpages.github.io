@@ -9,7 +9,7 @@ date: '2008-04-29'
 venue: 'April'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG_skeleton_2008/TVCG_skeleton_accepted_2008.pdf"
+paperurl: "/Paper_Video/TVCG_skeleton_2008/TVCG_skeleton_accepted_2008.pdf"
 
 # projecturl: ''
 # videourl: ''

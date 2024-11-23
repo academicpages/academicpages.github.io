@@ -7,9 +7,9 @@ permalink: /publications/RecentPapers/2018-10-Photo_Squarization_by_Deep_Multi-O
 date: '2018-10-31'
 venue: 'October' # 如果 date 確定，就補上日期
 
-slidesurl: "http://graphics.csie.ncku.edu.tw/ACM_MM2018/CGW19-Slide-Hana.pptx"
+slidesurl: "/ACM_MM2018/CGW19-Slide-Hana.pptx"
 # projecturl: ''
-videourl: "http://graphics.csie.ncku.edu.tw/ACM_MM2018/MM2018_SY.wmv"
+videourl: "/ACM_MM2018/MM2018_SY.wmv"
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

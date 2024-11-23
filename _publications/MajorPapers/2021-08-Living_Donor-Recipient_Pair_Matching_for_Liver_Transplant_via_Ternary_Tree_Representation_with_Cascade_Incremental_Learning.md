@@ -9,8 +9,8 @@ date: '2021-08-31'
 venue: 'August'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/IEEE_Liver/ieee_liver.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/IEEE_Liver/liver_video.mp4"
+paperurl: "/IEEE_Liver/ieee_liver.pdf"
+videourl: "/IEEE_Liver/liver_video.mp4"
 
 # projecturl: ''
 # videourl: ''

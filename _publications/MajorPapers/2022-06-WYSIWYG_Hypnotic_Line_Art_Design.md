@@ -9,8 +9,8 @@ date: '2022-06-30'
 venue: 'June'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TVCG_hyp_art_2020/TVCG_final_accepted.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/TVCG_hyp_art_2020/Demo.mp4"
+paperurl: "/TVCG_hyp_art_2020/TVCG_final_accepted.pdf"
+videourl: "/TVCG_hyp_art_2020/Demo.mp4"
 
 # projecturl: ''
 # videourl: ''

@@ -8,9 +8,9 @@ permalink: /publications/MajorPapers/2024-08-Image_Collage_on_Arbitrary_Shape_vi
 date: '2024-08-25'
 venue: 'August'
 
-projecturl: 'http://graphics.csie.ncku.edu.tw/shapedimagecollage/'
-paperurl: 'http://graphics.csie.ncku.edu.tw/shapedimagecollage/image_collage_0222.pdf'
-supplementurl: 'http://graphics.csie.ncku.edu.tw/shapedimagecollage/image_collage_supplements_0222.pdf'
+projecturl: '/shapedimagecollage/'
+paperurl: '/shapedimagecollage/image_collage_0222.pdf'
+supplementurl: '/shapedimagecollage/image_collage_supplements_0222.pdf'
 
 
 

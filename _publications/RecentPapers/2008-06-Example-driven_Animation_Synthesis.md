@@ -9,11 +9,11 @@ venue: 'June' # 如果 date 確定，就補上日期
 
 # slidesurl: 
 # projecturl: 
-videourl: "http://graphics.csie.ncku.edu.tw/Paper_Video/CGI_2008/CGI_2008_animation.mov"
+videourl: "/Paper_Video/CGI_2008/CGI_2008_animation.mov"
 # codeurl: ''
 # supplementurl: 
 # paperurl: "/files/publications/papers/Example-driven_animation_synthesis.pdf"
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/CGI_2008/CGI_2008_motion_synthesis.pdf"
+paperurl: "/Paper_Video/CGI_2008/CGI_2008_motion_synthesis.pdf"
 # slidesurl: ''
 # codeurl: '
 # citation: ''

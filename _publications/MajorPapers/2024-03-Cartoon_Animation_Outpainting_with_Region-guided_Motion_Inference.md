@@ -8,7 +8,7 @@ permalink: /publications/MajorPapers/2024-03-Cartoon_Animation_Outpainting_with_
 date: '2024-03-31'
 venue: 'March'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Wu_TVCG_enlarge_video/CAO-TVCG-2024.pdf"
+paperurl: "/Wu_TVCG_enlarge_video/CAO-TVCG-2024.pdf"
 videourl: 'http://graphics.csie.ncku.edu.tw/Wu_TVCG_enlarge_video/Supp-CAO-TVCG2024.mp4'
 
 # videourl: ''

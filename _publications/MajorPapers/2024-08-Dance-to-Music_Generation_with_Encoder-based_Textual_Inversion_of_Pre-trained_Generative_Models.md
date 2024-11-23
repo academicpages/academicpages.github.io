@@ -9,10 +9,10 @@ date: '2024-08-30'
 venue: 'August'
 
 projecturl: 'https://arxiv.org/html/2401.17800v1#S4'
-paperurl: 'http://graphics.csie.ncku.edu.tw/SIGGRAPH_Asia_2024_Music/Cog6q-papers_168s4-file1.pdf'
+paperurl: '/SIGGRAPH_Asia_2024_Music/Cog6q-papers_168s4-file1.pdf'
 videourl: 'https://www.youtube.com/watch?v=0wLz98zo3nQ'
-supplementurl: 'http://graphics.csie.ncku.edu.tw/SIGGRAPH_Asia_2024_Music/3GHsr-papers_168s2-yaml7_supp_oth.zip'
-codeurl: 'http://graphics.csie.ncku.edu.tw/SIGGRAPH_Asia_2024_Music/kG2BS-papers_168s2-yaml7_supp_data.zip'
+supplementurl: 'https://drive.google.com/file/d/1YVEU0BvgVffUkCjryvrd8EFADcd20QZ2/view'
+codeurl: '/SIGGRAPH_Asia_2024_Music/kG2BS-papers_168s2-yaml7_supp_data.zip'
 
 # slidesurl: ''
 # codeurl: '

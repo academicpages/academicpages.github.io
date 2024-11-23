@@ -9,9 +9,9 @@ date: '2020-08-31'
 venue: 'August'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/DOF_TVCG/DOF_TVCG_final.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/DOF_TVCG/DOF_Demo.mp4"
-supplementurl: "http://graphics.csie.ncku.edu.tw/DOF_TVCG/DOF_Supplement.pdf"
+paperurl: "/DOF_TVCG/DOF_TVCG_final.pdf"
+videourl: "/DOF_TVCG/DOF_Demo.mp4"
+supplementurl: "/DOF_TVCG/DOF_Supplement.pdf"
 
 # projecturl: ''
 # videourl: ''

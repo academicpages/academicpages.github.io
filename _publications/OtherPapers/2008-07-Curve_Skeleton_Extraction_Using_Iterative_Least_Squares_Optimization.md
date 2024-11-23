@@ -8,7 +8,7 @@ date: '2008-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG_skeleton_2008/TVCG_skeleton_accepted_2008.pdf'
+paperurl: '/Paper_Video/TVCG_skeleton_2008/TVCG_skeleton_accepted_2008.pdf'
 # codeurl: '
 ---
 	

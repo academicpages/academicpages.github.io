@@ -9,8 +9,8 @@ date: '2017-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Figure_ground/FG_TVCG_R2.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Figure_ground/TVCG_video.zip"
+paperurl: "/Figure_ground/FG_TVCG_R2.pdf"
+videourl: "/Figure_ground/TVCG_video.zip"
 
 # projecturl: ''
 # videourl: ''

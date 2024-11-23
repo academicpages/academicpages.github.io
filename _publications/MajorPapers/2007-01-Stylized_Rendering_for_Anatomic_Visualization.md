@@ -9,7 +9,7 @@ date: '2007-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/IEEE_paper/c1lee_Jan_issue_2007.pdf"
+paperurl: "/Paper_Video/IEEE_paper/c1lee_Jan_issue_2007.pdf"
 
 # projecturl: ''
 # videourl: ''

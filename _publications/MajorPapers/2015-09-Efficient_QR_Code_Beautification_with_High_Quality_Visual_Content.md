@@ -9,8 +9,8 @@ date: '2015-09-30'
 venue: 'September'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/QR_code/QR_code_TMM.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/QR_code/QR_code_demo_video.rar"
+paperurl: "/QR_code/QR_code_TMM.pdf"
+videourl: "/QR_code/QR_code_demo_video.rar"
 
 # projecturl: ''
 # videourl: ''

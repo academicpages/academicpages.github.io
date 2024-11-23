@@ -10,7 +10,7 @@ venue: 'November'
 
 paperurl: '/files/publications/papers/Content-aware_media_retargeting_based_on_deep_important_map.pdf'
 archivurl: "https://arxiv.org/pdf/2111.04396"
-projecturl: "http://graphics.csie.ncku.edu.tw/deep_saliency/"
+projecturl: "/deep_saliency/"
 
 
 # videourl: ''

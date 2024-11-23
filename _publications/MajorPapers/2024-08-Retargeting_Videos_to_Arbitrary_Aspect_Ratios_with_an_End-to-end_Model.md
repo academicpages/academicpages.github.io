@@ -8,9 +8,9 @@ permalink: /publications/MajorPapers/2024-08-Retargeting_Videos_to_Arbitrary_Asp
 date: '2024-08-27'
 venue: 'August'
 
-projecturl: 'http://graphics.csie.ncku.edu.tw/RETVI/'
-paperurl: 'http://graphics.csie.ncku.edu.tw/RETVI/TVCG_Video_Resizing_manuscript.pdf'
-supplementurl: 'http://graphics.csie.ncku.edu.tw/RETVI/TVCG_Video_Resizing_Supplementary.pdf'
+projecturl: '/RETVI/'
+paperurl: '/RETVI/TVCG_Video_Resizing_manuscript.pdf'
+supplementurl: '/RETVI/TVCG_Video_Resizing_Supplementary.pdf'
 archivurl: "https://arxiv.org/abs/2311.04458"
 
 

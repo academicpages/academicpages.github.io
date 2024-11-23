@@ -8,8 +8,8 @@ permalink: /publications/MajorPapers/2023-12-ProSpect_Prompt_Spectrum_for_Attrib
 date: '2023-12-31'
 venue: 'December'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/TOG-papers_346s4-file1.pdf"
-supplementurl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/TOG_paper_246_supp.pdf"
+paperurl: "/TOG_art_2023/TOG-papers_346s4-file1.pdf"
+supplementurl: "/TOG_art_2023/TOG_paper_246_supp.pdf"
 codeurl: "https://github.com/zyxElsa/ProSpect"
 
 # videourl: ''

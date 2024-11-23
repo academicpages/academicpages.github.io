@@ -9,8 +9,8 @@ date: '2020-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TVCG_Decomp_lighting/manuscript.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/TVCG_Decomp_lighting/Demo_final.mp4"
+paperurl: "/TVCG_Decomp_lighting/manuscript.pdf"
+videourl: "/TVCG_Decomp_lighting/Demo_final.mp4"
 
 # projecturl: ''
 # videourl: ''

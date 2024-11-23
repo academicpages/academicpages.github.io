@@ -8,9 +8,9 @@ date: '2009-03-30'
 venue: 'March' # 如果 date 確定，就補上日期
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Quad_Sketech/Yao.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Quad_Sketech/"
-videourl: "http://graphics.csie.ncku.edu.tw/Quad_Sketech/Final_video_09.mov"
+paperurl: "/Quad_Sketech/Yao.pdf"
+projecturl: "/Quad_Sketech/"
+videourl: "/Quad_Sketech/Final_video_09.mov"
 
 # projecturl: ''
 # videourl: ''

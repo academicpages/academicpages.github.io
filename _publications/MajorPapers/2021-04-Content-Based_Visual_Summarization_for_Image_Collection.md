@@ -9,8 +9,8 @@ date: '2021-04-30'
 venue: 'April'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/VisualSum/VisualSum.pdf"
-supplementurl: "http://graphics.csie.ncku.edu.tw/VisualSum/supplementary.pdf"
+paperurl: "/VisualSum/VisualSum.pdf"
+supplementurl: "/VisualSum/supplementary.pdf"
 projecturl: "http://ivc.ia.ac.cn/VisualSum/"
 videourl: "https://www.youtube.com/embed/MSUgt2yx_Kc"
 

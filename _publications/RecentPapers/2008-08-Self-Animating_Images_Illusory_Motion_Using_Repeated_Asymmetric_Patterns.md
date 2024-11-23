@@ -9,9 +9,9 @@ date: '2008-08-31'
 venue: 'August'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/SAI/a62-chi_TOG.pdf"
-supplementurl: "http://graphics.csie.ncku.edu.tw/SAI/c38-f38_2-a276-suppmatfinal1.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/SAI/"
+paperurl: "/SAI/a62-chi_TOG.pdf"
+supplementurl: "/SAI/c38-f38_2-a276-suppmatfinal1.pdf"
+projecturl: "/SAI/"
 
 # projecturl: ''
 # videourl: ''

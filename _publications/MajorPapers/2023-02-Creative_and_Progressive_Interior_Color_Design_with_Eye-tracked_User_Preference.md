@@ -9,7 +9,7 @@ date: '2023-02-26'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/ACM_TOCHI/acm_tochi_eye_track.pdf"
+paperurl: "/ACM_TOCHI/acm_tochi_eye_track.pdf"
 
 # projecturl: ''
 # videourl: ''

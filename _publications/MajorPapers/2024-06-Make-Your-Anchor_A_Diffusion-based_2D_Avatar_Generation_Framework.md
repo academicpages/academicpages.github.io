@@ -8,9 +8,9 @@ permalink: /publications/MajorPapers/2024-06-Make-Your-Anchor_A_Diffusion-based_
 date: '2024-06-21'
 venue: 'June'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/CVPR2024/2DHumanAvatar.pdf"
+paperurl: "/CVPR2024/2DHumanAvatar.pdf"
 videourl: 'http://graphics.csie.ncku.edu.tw/CVPR2024/demo.mp4'
-supplementurl: "http://graphics.csie.ncku.edu.tw/CVPR2024/2DHumanAvatar_sup.pdf"
+supplementurl: "/CVPR2024/2DHumanAvatar_sup.pdf"
 
 # videourl: ''
 # codeurl: ''

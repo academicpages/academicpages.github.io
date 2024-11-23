@@ -9,8 +9,8 @@ date: '2008-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/ACM_SIGGRAPH/siggraph2008/Skeleton/skeleton-paperfinal.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Skeleton/"
+paperurl: "/Paper_Video/ACM_SIGGRAPH/siggraph2008/Skeleton/skeleton-paperfinal.pdf"
+projecturl: "/Skeleton/"
 
 # projecturl: ''
 # videourl: ''

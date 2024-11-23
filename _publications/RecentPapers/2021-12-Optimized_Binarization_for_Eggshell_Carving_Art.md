@@ -15,7 +15,7 @@ videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/sa21-14_siggraph_asia_2021.pdf'
+paperurl: '/Paper_Video/sa21-14_siggraph_asia_2021.pdf'
 ---
 
 Thi-Ngoc-Hanh Le, Sheng-Yi Yao, Chih-Kuo Yeh, Sheng-Jie Wang, <strong><u>Tong-Yee Lee*</u></strong> "Optimized binarization for eggshell carving art," Poster, <strong><i><span style="color:red">SIGGRAPH Asia 2021</span></i></strong>, 14 TOKYO INTERNATIONAL FORUM, Tokyo, JAPAN, Dec. 14-17, 2021.

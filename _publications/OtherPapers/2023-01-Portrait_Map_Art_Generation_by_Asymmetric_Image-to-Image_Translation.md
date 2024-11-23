@@ -8,7 +8,7 @@ date: '2023-01-31'
 venue: 'January' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Weiming/Dual_Domain_Style_Transfer_via_Asymmetric_CycleGAN_V5.pdf'
+paperurl: '/Weiming/Dual_Domain_Style_Transfer_via_Asymmetric_CycleGAN_V5.pdf'
 # codeurl: '
 ---
 

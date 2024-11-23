@@ -9,9 +9,9 @@ date: '2021-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TIP_cycle_2021/TIP2021.pdf"
+paperurl: "/TIP_cycle_2021/TIP2021.pdf"
 videourl: "http://graphics.csie.ncku.edu.tw/TIP_cycle_2021/TIP_demo.mp4"
-supplementurl: "http://graphics.csie.ncku.edu.tw/TIP_cycle_2021/TIP2021_Supplemental.pdf"
+supplementurl: "/TIP_cycle_2021/TIP2021_Supplemental.pdf"
 
 # projecturl: ''
 # videourl: ''

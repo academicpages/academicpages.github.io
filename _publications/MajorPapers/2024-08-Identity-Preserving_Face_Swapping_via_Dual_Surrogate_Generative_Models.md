@@ -9,7 +9,7 @@ date: '2024-08-29'
 venue: 'August'
 
 projecturl: 'https://bone-11.github.io/cs-cs/'
-paperurl: 'http://graphics.csie.ncku.edu.tw/TOG_face_change_2024/cscs.pdf'
+paperurl: '/TOG_face_change_2024/cscs.pdf'
 
 
 # videourl: ''

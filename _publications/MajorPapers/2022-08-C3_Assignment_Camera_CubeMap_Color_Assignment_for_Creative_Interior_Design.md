@@ -9,8 +9,8 @@ date: '2022-08-31'
 venue: 'August'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/C3_TVCG/c3_tvcg.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/C3_TVCG/3D_Colorization_Demo.mp4"
+paperurl: "/C3_TVCG/c3_tvcg.pdf"
+videourl: "/C3_TVCG/3D_Colorization_Demo.mp4"
 
 # projecturl: ''
 # videourl: ''

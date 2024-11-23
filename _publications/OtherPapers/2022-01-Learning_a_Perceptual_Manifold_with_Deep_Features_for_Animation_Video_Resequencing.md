@@ -8,7 +8,7 @@ date: '2022-01-14'
 venue: 'January' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-projecturl: 'http://graphics.csie.ncku.edu.tw/ManifoldAnimationSequence/'
+projecturl: '/ManifoldAnimationSequence/'
 paperurl: '/Tony/papers/Morace2022_Article_LearningAPerceptualManifoldWit.pdf'
 # codeurl: '
 ---

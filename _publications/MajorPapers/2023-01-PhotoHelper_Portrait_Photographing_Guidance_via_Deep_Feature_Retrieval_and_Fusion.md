@@ -8,8 +8,8 @@ permalink: /publications/MajorPapers/2023-01-PhotoHelper_Portrait_Photographing_
 date: '2023-01-30'
 venue: 'January'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/IEEE_TMM_shooter/photoHelper_TMM2022.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/IEEE_TMM_shooter/photomax.wmv"
+paperurl: "/IEEE_TMM_shooter/photoHelper_TMM2022.pdf"
+videourl: "/IEEE_TMM_shooter/photomax.wmv"
 
 # videourl: ''
 # codeurl: ''

@@ -9,8 +9,8 @@ date: '2023-10-30'
 venue: 'October'
 
 projecturl: "https://github.com/zyxElsa/CAST_pytorch"
-paperurl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/UCAST_Final.pdf"
-supplementurl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/UCAST_Supplementary.pdf"
+paperurl: "/TOG_art_2023/UCAST_Final.pdf"
+supplementurl: "/TOG_art_2023/UCAST_Supplementary.pdf"
 codeurl: "https://github.com/zyxElsa/CAST_pytorch"
 videourl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/Video-demo.mp4"
 

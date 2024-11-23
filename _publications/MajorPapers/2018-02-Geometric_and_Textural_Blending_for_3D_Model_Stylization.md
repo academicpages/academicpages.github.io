@@ -9,9 +9,9 @@ date: '2018-02-27'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TVCG_stylize_2017/bare_adv_steve_2017.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/TVCG_stylize_2017/TVCG_2017_style.mp4"
-slidesurl: "http://graphics.csie.ncku.edu.tw/TVCG_stylize_2017/StylePG2017.pptx"
+paperurl: "/TVCG_stylize_2017/bare_adv_steve_2017.pdf"
+videourl: "/TVCG_stylize_2017/TVCG_2017_style.mp4"
+slidesurl: "/TVCG_stylize_2017/StylePG2017.pptx"
 
 # projecturl: ''
 # videourl: ''

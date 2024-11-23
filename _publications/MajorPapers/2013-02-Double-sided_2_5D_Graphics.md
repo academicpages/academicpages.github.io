@@ -9,7 +9,7 @@ date: '2013-02-27'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/double_side/doublegfx.TVCG.final.pdf"
+paperurl: "/double_side/doublegfx.TVCG.final.pdf"
 
 # projecturl: ''
 # videourl: ''

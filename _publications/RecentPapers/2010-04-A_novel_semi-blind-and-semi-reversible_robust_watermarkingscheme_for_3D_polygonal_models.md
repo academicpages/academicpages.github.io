@@ -15,7 +15,7 @@ venue: 'April' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/CGI2010/CGI_2010_watermark_mesh.pdf'
+paperurl: '/Paper_Video/CGI2010/CGI_2010_watermark_mesh.pdf'
 ---
 	
 Chao-Hung Lin,  Min-Wen Chao,  Chan-Yu Liang,  <strong><u>Tong-Yee Lee</u></strong> "A Novel Semi-blind-and-Semi-reversible Robust Watermarking Scheme for 3D Polygonal Models", Visual Computer (2010) 26: 1101–1111 (<span style="color:red">also in the proceedings of Computer Graphics International 2010(CGI2010), June, Singapore</span>)

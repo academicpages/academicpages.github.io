@@ -8,7 +8,7 @@ date: '2010-06-30'
 venue: 'June' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Paper_Video/CGI2010/CGI_2010_watermark_mesh.pdf'
+paperurl: '/Paper_Video/CGI2010/CGI_2010_watermark_mesh.pdf'
 # codeurl: '
 ---
 

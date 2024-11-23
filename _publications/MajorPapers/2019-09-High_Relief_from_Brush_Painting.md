@@ -9,9 +9,9 @@ date: '2019-09-30'
 venue: 'September'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Fu_TVCG2018/Fu_TVCG2018.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Fu_TVCG2018/Fu_TVCG2018.mp4"
-slidesurl: "http://graphics.csie.ncku.edu.tw/Fu_TVCG2018/Fu_TVCG2018.pptx"
+paperurl: "/Fu_TVCG2018/Fu_TVCG2018.pdf"
+videourl: "/Fu_TVCG2018/Fu_TVCG2018.mp4"
+slidesurl: "https://drive.google.com/open?id=1mguzoWi74yqrOKPGN6rAVWNrZwZG9Lpx"
 
 # projecturl: ''
 # videourl: ''

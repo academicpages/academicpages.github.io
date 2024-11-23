@@ -9,7 +9,7 @@ date: '2009-02-28'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG_Data_Hinding/TVCG_Data_Hinding_accepted_2208_06.pdf"
+paperurl: "/Paper_Video/TVCG_Data_Hinding/TVCG_Data_Hinding_accepted_2208_06.pdf"
 
 # projecturl: ''
 # videourl: ''

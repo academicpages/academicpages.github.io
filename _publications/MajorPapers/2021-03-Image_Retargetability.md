@@ -9,8 +9,8 @@ date: '2021-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/TMM_Retarget/TMM_retarget.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/TMM_Retarget/TMM_retarget.mp4"
+paperurl: "/TMM_Retarget/TMM_retarget.pdf"
+videourl: "/TMM_Retarget/TMM_retarget.mp4"
 
 # projecturl: ''
 # videourl: ''

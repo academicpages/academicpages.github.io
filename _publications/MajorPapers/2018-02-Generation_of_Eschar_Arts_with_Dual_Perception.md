@@ -9,9 +9,9 @@ date: '2018-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Escher/tvcg-escher_art.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Escher/Main_video.mp4"
-slidesurl: "http://graphics.csie.ncku.edu.tw/Escher/PG2017_eschart.pptx"
+paperurl: "/Escher/tvcg-escher_art.pdf"
+videourl: "/Escher/Main_video.mp4"
+slidesurl: "/Escher/PG2017_eschart.pptx"
 
 # projecturl: ''
 # videourl: ''
