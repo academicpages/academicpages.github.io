@@ -9,9 +9,9 @@ date: '2008-12-31'
 venue: 'December'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Image_Resizing/c88-f88_1-a241-paperfinal.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Image_Resizing/"
-videourl: "http://graphics.csie.ncku.edu.tw/Image_Resizing/ImageResizing08.mp4"
+paperurl: "/Image_Resizing/c88-f88_1-a241-paperfinal.pdf"
+projecturl: "/Image_Resizing/"
+videourl: "/Image_Resizing/ImageResizing08.mp4"
 
 # projecturl: ''
 # videourl: ''

@@ -9,7 +9,7 @@ date: '2004-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_CSF_2004.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_CSF_2004.pdf"
 
 # projecturl: ''
 # videourl: ''

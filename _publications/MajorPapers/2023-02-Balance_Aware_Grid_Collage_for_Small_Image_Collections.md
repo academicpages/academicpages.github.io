@@ -8,7 +8,7 @@ permalink: /publications/MajorPapers/2023-02-Balance_Aware_Grid_Collage_for_Smal
 date: '2023-02-28'
 venue: 'February'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/Balance_GVis_final.pdf"
+paperurl: "/Tony/papers/Balance_GVis_final.pdf"
 
 # videourl: ''
 # codeurl: ''

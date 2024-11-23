@@ -9,8 +9,8 @@ date: '2016-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TexResizing_TVCG_2015.pdf"
-supplementurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TexResizing_supp_2016.pdf"
+paperurl: "/Tony/papers/TexResizing_TVCG_2015.pdf"
+supplementurl: "/Tony/papers/TexResizing_supp_2016.pdf"
 
 # projecturl: ''
 # videourl: ''

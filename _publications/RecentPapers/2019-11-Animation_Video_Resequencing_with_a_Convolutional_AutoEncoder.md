@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2019-11-Animation_Video_Resequencing_with_
 date: '2019-11-31'
 venue: 'November' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''
@@ -15,7 +15,8 @@ venue: 'November' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/poster_SA19_Resequence.pdf'
+paperurl: '/Tony/papers/paper_SA19_Resequence.pdf'
+slidesurl: '/Tony/papers/poster_SA19_Resequence.pdf'
 ---
 
 Shang-Wei Zhang, Charles C.Morace, Thi Ngoc Hanh Le, Chih-Kuo Yeh, Shih-Syun Lin, Sheng-Yi Yao, <strong><u>Tong-Yee Lee*</u></strong> "Animation Video Resequencing with a Convolutional AutoEncoder," <strong><i><span style="color:red">SIGGRAPH Asia 2019</span></i></strong>, Poster, Brisbane, Australia, Nov. 2019

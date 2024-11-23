@@ -9,8 +9,8 @@ date: '2012-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Motion_retrieval/Motionpaper_1108_final.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Motion_retrieval/TVCG_submitted_video.rar"
+paperurl: "/Motion_retrieval/Motionpaper_1108_final.pdf"
+videourl: "/Motion_retrieval/TVCG_submitted_video.rar"
 
 # projecturl: ''
 # videourl: ''

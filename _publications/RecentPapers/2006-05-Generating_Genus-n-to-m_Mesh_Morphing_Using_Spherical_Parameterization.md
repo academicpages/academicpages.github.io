@@ -8,9 +8,9 @@ date: '2006-05-31'
 venue: 'May' # 如果 date 確定，就補上日期
 
 paperurl: '/files/publications/papers/gnm_casa06.pdf'
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
-# videourl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.mp4"
+# videourl: 
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

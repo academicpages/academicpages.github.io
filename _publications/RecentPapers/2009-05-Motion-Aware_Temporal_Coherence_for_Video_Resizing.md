@@ -9,9 +9,9 @@ date: '2009-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/VideoResizing/data/videoResizing.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/VideoResizing/"
-videourl: "http://graphics.csie.ncku.edu.tw/VideoResizing/data/videoResizing.mp4"
+paperurl: "/VideoResizing/data/videoResizing.pdf"
+projecturl: "/VideoResizing/"
+videourl: "/VideoResizing/data/videoResizing.mp4"
 
 # projecturl: ''
 # videourl: ''

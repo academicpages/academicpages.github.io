@@ -6,9 +6,9 @@ permalink: /publications/RecentPapers/2007-06-Exaggeration_Cloning
 date: '2007-06-12'
 venue: 'June 11-13' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
-# videourl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.mp4"
+# videourl: 
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

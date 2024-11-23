@@ -9,10 +9,10 @@ date: '2023-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/ACM_TOMM_Animating_Images_accepted.pdf"
-projecturl: 'http://graphics.csie.ncku.edu.tw/AnimatingImages'
+paperurl: "/Tony/papers/ACM_TOMM_Animating_Images_accepted.pdf"
+projecturl: '/AnimatingImages'
 codeurl: 'https://github.com/LeHanhcs/Animating_Still_Images'
-slidesurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/Animating_images.pptx"
+slidesurl: "/Tony/papers/Animating_images.pptx"
 
 # projecturl: ''
 # videourl: ''

@@ -9,7 +9,7 @@ date: '2012-09-30'
 venue: 'September'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TVCG-2010-09-0215.R3_Lin.pdf"
+paperurl: "/Tony/papers/TVCG-2010-09-0215.R3_Lin.pdf"
 projecturl: "https://people.cs.nctu.edu.tw/~wclin/camera.html"
 
 # projecturl: ''

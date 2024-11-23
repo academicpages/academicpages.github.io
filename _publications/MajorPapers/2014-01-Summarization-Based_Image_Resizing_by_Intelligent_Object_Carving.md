@@ -9,7 +9,7 @@ date: '2014-01-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/ObjectResizing_TVCG_2013.pdf"
+paperurl: "/Tony/papers/ObjectResizing_TVCG_2013.pdf"
 
 # projecturl: ''
 # videourl: ''

@@ -8,8 +8,8 @@ date: '2003-01-31'
 venue: 'January' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-#projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
-#paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
+# projecturl: 
+# paperurl: ''
 # codeurl: '
 paperurl: "/files/publications/papers/Three-dimensional_Scene_Walkthrough_System_Using_Multiple_Acentric_Panorama_View_Technique.pdf"
 ---

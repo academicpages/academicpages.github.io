@@ -9,8 +9,8 @@ date: '2011-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Data_Reduction/tvcgsi-2009-07-0155-corrected-2.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Data_Reduction/video.mp4"
+paperurl: "/Data_Reduction/tvcgsi-2009-07-0155-corrected-2.pdf"
+videourl: "/Data_Reduction/video.mp4"
 
 # projecturl: ''
 # videourl: ''

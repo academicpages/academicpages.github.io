@@ -8,7 +8,7 @@ permalink: /publications/MajorPapers/2024-07-Suitable_and_Style-consistent_Multi
 date: '2024-07-30'
 venue: 'July'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TOMM_2024_TexRecom.pdf"
+paperurl: "/Tony/papers/TOMM_2024_TexRecom.pdf"
 
 
 

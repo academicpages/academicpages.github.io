@@ -9,7 +9,7 @@ date: '2016-12-31'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/IEEE_similar_TVCG_2016.pdf"
+paperurl: "/Tony/papers/IEEE_similar_TVCG_2016.pdf"
 projecturl: "http://www.cs.ubc.ca/~chyma/publications/mp/index.html"
 
 # projecturl: ''

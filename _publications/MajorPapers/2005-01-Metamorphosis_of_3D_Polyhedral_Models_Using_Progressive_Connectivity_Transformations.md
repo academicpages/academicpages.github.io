@@ -9,8 +9,8 @@ date: '2005-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/metamorphosis-of-d-polyhedral_PCT.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/jendon/PM/Demo.htm"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/metamorphosis-of-d-polyhedral_PCT.pdf"
+projecturl: "/jendon/PM/Demo.htm"
 
 # projecturl: ''
 # videourl: ''

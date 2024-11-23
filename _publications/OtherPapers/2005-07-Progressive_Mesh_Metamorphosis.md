@@ -8,8 +8,8 @@ date: '2005-07-31'
 venue: 'July' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-#projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
-#paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
+# projecturl: 
+# paperurl: ''
 # codeurl: '
 
 paperurl: '/files/publications/papers/Progressive_mesh_metamorphosis.pdf'

@@ -8,7 +8,7 @@ date: '2018-12-30'
 venue: 'December' # 如果 date 確定，就補上日期
 
 paperurl: '/files/publications/papers/3283289.3283341.pdf'
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''

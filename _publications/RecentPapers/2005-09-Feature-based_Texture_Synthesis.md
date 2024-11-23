@@ -7,9 +7,9 @@ permalink: /publications/RecentPapers/2005-09-Feature-based_Texture_Synthesis
 date: '2005-09-29'
 venue: 'September' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
-# videourl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.mp4"
+# videourl: 
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

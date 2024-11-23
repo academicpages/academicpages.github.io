@@ -8,11 +8,11 @@ permalink: /publications/MajorPapers/2024-07-Regenerating_Arbitrary_Video_Sequen
 date: '2024-07-31'
 venue: 'July'
 
-projecturl: 'http://graphics.csie.ncku.edu.tw/SDPF/'
-paperurl: "http://graphics.csie.ncku.edu.tw/SDPF/TVCG_Video_Resequencing_accepted.pdf"
-supplementurl: 'http://graphics.csie.ncku.edu.tw/SDPF/TVCG_Video_Resequencing_Supplementary.pdf'
+projecturl: '/SDPF/'
+paperurl: "/SDPF/TVCG_Video_Resequencing_accepted.pdf"
+supplementurl: '/SDPF/TVCG_Video_Resequencing_Supplementary.pdf'
 archivurl: 'https://arxiv.org/abs/2311.07170'
-slidesurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/Video_Resequencing.pptx'
+slidesurl: '/Tony/papers/Video_Resequencing.pptx'
 codeurl: "https://github.com/LeHanhcs/SDPF_VideoResequencing"
 
 

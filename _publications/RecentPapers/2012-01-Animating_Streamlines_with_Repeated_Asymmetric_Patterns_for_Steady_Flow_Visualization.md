@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2012-01-Animating_Streamlines_with_Repeate
 date: '2012-01-31'
 venue: 'January' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''
@@ -15,7 +15,7 @@ venue: 'January' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/RAPSA_SPIE_US_final.pdf'
+paperurl: '/Tony/papers/RAPSA_SPIE_US_final.pdf'
 projecturl: 'https://cgvsl-ncku.github.io/FlowVis/' ## IE可看
 ---
 	

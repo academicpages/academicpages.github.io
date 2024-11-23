@@ -8,7 +8,7 @@ date: '1999-03-31'
 venue: 'March' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-#projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
+# projecturl: 
 # codeurl: '
 
 paperurl: "/files/publications/papers/Distributed_Volume_Morphing.pdf"

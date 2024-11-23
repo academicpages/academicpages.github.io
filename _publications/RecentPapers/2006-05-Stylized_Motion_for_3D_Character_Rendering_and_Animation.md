@@ -7,9 +7,9 @@ permalink: /publications/RecentPapers/2006-05-Stylized_Motion_for_3D_Character_R
 date: '2006-05-30'
 venue: 'May' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
-# videourl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.mp4"
+# videourl: 
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

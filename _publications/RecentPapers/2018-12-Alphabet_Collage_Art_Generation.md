@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2018-12-Alphabet_Collage_Art_Generation
 date: '2018-12-29'
 venue: 'December' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''

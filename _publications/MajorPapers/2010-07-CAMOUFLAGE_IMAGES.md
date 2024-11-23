@@ -9,8 +9,8 @@ date: '2010-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/CI/paper_docs/051-chu_small.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/CI/"
+paperurl: "/CI/paper_docs/051-chu_small.pdf"
+projecturl: "/CI/"
 
 # projecturl: ''
 # videourl: ''

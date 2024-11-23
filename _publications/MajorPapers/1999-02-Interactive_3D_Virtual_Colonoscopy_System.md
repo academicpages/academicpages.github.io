@@ -9,7 +9,7 @@ date: '1999-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_colonscopy_1999.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_colonscopy_1999.pdf"
 
 # projecturl: ''
 # videourl: ''

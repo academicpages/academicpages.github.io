@@ -9,8 +9,8 @@ date: '2014-09-30'
 venue: 'September'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/map_TVCG.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Drawing-Road-Networks/"
+paperurl: "/Tony/papers/map_TVCG.pdf"
+projecturl: "/Drawing-Road-Networks/"
 
 # projecturl: ''
 # videourl: ''

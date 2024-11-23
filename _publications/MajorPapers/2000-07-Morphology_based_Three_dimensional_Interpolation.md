@@ -9,7 +9,7 @@ date: '2000-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TMI_morphology_2000.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TMI_morphology_2000.pdf"
 
 # projecturl: ''
 # videourl: ''

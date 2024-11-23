@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2019-11-Generation_of_Photorealistic_QR_Co
 date: '2019-11-30'
 venue: 'November' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''
@@ -15,7 +15,7 @@ venue: 'November' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/siggraph_asia_2019_QR.pdf'
+paperurl: '/Tony/papers/siggraph_asia_2019_QR.pdf'
 ---
 
 Shih-Syun Lin, Yu-Fan Chang, Thi Ngoc Hanh Le, Sheng-Yi Yao, <strong><u>Tong-Yee Lee*</u></strong> "Generation of Photorealistic QR Codes", <strong><i><span style="color:red">SIGGRAPH Asia 2019</span></i></strong>, Poster, Brisbane, Australia, Nov. 2019

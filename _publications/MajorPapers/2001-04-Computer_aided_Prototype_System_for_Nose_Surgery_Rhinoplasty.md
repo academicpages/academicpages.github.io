@@ -9,7 +9,7 @@ date: '2001-04-30'
 venue: 'April'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_Nose_2001.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_Nose_2001.pdf"
 
 # projecturl: ''
 # videourl: ''

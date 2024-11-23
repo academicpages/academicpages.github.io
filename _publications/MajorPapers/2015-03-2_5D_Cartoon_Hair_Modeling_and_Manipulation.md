@@ -9,9 +9,9 @@ date: '2015-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/cartoon_hair/CartoonHair_TVCG_8_16.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Tony/papers/cartoon_hair/hair_TVCG.mp4"
-supplementurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/cartoon_hair/hair_video.mp4"
+paperurl: "/Tony/papers/cartoon_hair/CartoonHair_TVCG_8_16.pdf"
+videourl: "/Tony/papers/cartoon_hair/hair_TVCG.mp4"
+supplementurl: "/Tony/papers/cartoon_hair/hair_video.mp4"
 
 # projecturl: ''
 # videourl: ''

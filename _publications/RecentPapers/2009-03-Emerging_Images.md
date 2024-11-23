@@ -9,8 +9,8 @@ date: '2009-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/EI/paper_docs/ei_siga_09_submit.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/EI/index.html"
+paperurl: "/EI/paper_docs/ei_siga_09_submit.pdf"
+projecturl: "/EI/index.html"
 
 # projecturl: ''
 # videourl: ''

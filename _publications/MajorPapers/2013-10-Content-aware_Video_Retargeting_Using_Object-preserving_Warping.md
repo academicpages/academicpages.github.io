@@ -9,7 +9,7 @@ date: '2013-10-31'
 venue: 'October'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TVCG_video_resizing.pdf"
+paperurl: "/Tony/papers/TVCG_video_resizing.pdf"
 
 # projecturl: ''
 # videourl: ''
@@ -22,8 +22,8 @@ paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TVCG_video_resizing.pdf"
 
 Shih-Syun Lin, Chao-Hung Lin, I-Cheng Yeh, Shu-Huai Chang, Chih-Kuo Yeh, <strong><u>Tong-Yee Lee</u></strong>, "Content-aware Video Retargeting Using Object-preserving Warping",  <strong><u>IEEE Transactions on Visualization and Computer Graphics (TVCG)</u></strong>, Vol. 19, No. 10, October, 2013, pp. 1677-1686.
 
-[video1](http://graphics.csie.ncku.edu.tw/TVCG_video_resize/Main_video.rar)
-[video2](http://graphics.csie.ncku.edu.tw/TVCG_video_resize/Ours_vs_Improved_seam_carving.rar)
-[video3](http://graphics.csie.ncku.edu.tw/TVCG_video_resize/Ours_vs_LS.rar)
-[video4](http://graphics.csie.ncku.edu.tw/TVCG_video_resize/Ours_vs_PFO.rar)
-[video5](http://graphics.csie.ncku.edu.tw/TVCG_video_resize/User_study.rar)
+[video1](/TVCG_video_resize/Main_video.rar)
+[video2](/TVCG_video_resize/Ours_vs_Improved_seam_carving.rar)
+[video3](/TVCG_video_resize/Ours_vs_LS.rar)
+[video4](/TVCG_video_resize/Ours_vs_PFO.rar)
+[video5](/TVCG_video_resize/User_study.rar)

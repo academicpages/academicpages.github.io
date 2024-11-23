@@ -8,7 +8,7 @@ date: '2013-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/inform_vis.pdf'
+paperurl: '/Tony/papers/inform_vis.pdf'
 # codeurl: '
 ---
 

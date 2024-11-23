@@ -8,8 +8,8 @@ date: '2021-09-08'
 venue: 'September' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/SVS_MTAP.pdf'
-videourl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/SVS_MTAP.mp4'
+paperurl: '/Tony/papers/SVS_MTAP.pdf'
+videourl: '/Tony/papers/SVS_MTAP.mp4'
 # codeurl: '
 ---
 	

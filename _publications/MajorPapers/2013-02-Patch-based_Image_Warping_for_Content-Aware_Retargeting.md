@@ -9,7 +9,7 @@ date: '2013-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/IEEE_Multimedia_resizing_2013_Feb.pdf"
+paperurl: "/Tony/papers/IEEE_Multimedia_resizing_2013_Feb.pdf"
 
 # projecturl: ''
 # videourl: ''

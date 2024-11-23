@@ -7,11 +7,11 @@ permalink: /publications/RecentPapers/2007-11-Animation_generation_and_retargeti
 date: '2007-11-28'
 venue: 'November 26-28' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
-# projecturl: "http://graphics.csie.ncku.edu.tw/Vis2008/"
-# videourl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/cameraFinal_70.mov"
+# slidesurl: 
+# projecturl: 
+# videourl: 
 # codeurl: ''
-# supplementurl: "http://visgraph.cse.ust.hk/projects/skeleton"
+# supplementurl: 
 paperurl: "/files/publications/papers/Animation_Generation_and_Retargeting_Based_on_Physics_Characteristics.pdf"
 # slidesurl: ''
 # codeurl: '

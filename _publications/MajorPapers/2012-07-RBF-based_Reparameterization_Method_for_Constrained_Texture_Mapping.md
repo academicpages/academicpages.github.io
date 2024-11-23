@@ -9,7 +9,7 @@ date: '2012-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/TVCG_RBF_mesh.pdf"
+paperurl: "/Tony/papers/TVCG_RBF_mesh.pdf"
 projecturl: "http://vision.csie.ncku.edu.tw/~ichenyeh/homepage/publication/2012_TVCG/"
 
 # projecturl: ''

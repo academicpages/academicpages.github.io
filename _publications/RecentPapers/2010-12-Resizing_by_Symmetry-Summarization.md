@@ -9,8 +9,8 @@ date: '2010-12-31'
 venue: 'December'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Sum_Resizing/sum_resize.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Sum_Resizing"
+paperurl: "/Sum_Resizing/sum_resize.pdf"
+projecturl: "/Sum_Resizing"
 
 # projecturl: ''
 # videourl: ''

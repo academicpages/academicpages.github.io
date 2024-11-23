@@ -9,8 +9,8 @@ date: '2010-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/VideoRetargeting/videoResizing_sig2010.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/VideoRetargeting/"
+paperurl: "/VideoRetargeting/videoResizing_sig2010.pdf"
+projecturl: "/VideoRetargeting/"
 
 # projecturl: ''
 # videourl: ''

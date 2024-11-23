@@ -9,8 +9,8 @@ date: '2014-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/stereo_image_resizing.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Stereoscopic-Image-Retargeting/"
+paperurl: "/Tony/papers/stereo_image_resizing.pdf"
+projecturl: "/Stereoscopic-Image-Retargeting/"
 
 # projecturl: ''
 # videourl: ''

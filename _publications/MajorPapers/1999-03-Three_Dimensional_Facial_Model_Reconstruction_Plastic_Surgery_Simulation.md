@@ -9,7 +9,7 @@ date: '1999-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_facial_surgery_1999.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TITB_facial_surgery_1999.pdf"
 
 # projecturl: ''
 # videourl: ''

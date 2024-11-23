@@ -9,7 +9,7 @@ date: '2020-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/tps_tmm_2019.pdf"
+paperurl: "/Tony/papers/tps_tmm_2019.pdf"
 videourl: "http://graphics.csie.ntust.edu.tw/pub/RealTimeTPS/videos/Introduction.mp4"
 projecturl: "http://graphics.csie.ntust.edu.tw/pub/RealTimeTPS/"
 

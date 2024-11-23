@@ -9,7 +9,7 @@ date: '1996-03-31'
 venue: 'March'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_parallel_rendering_1996.pdf"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_parallel_rendering_1996.pdf"
 
 # projecturl: ''
 # videourl: ''

@@ -9,8 +9,8 @@ date: '2012-06-30'
 venue: 'June'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/Field_Design_final.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Tony/papers/LineFieldDesign_3.mp4"
+paperurl: "/Tony/papers/Field_Design_final.pdf"
+videourl: "/Tony/papers/LineFieldDesign_3.mp4"
 
 # projecturl: ''
 # videourl: ''

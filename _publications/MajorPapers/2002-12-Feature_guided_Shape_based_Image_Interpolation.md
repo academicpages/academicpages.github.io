@@ -9,8 +9,8 @@ date: '2002-12-31'
 venue: 'December'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TMI_interpolation_2002.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/jendon/ImageInterpolation/Interpolation.htm"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TMI_interpolation_2002.pdf"
+projecturl: "/jendon/ImageInterpolation/Interpolation.htm"
 
 # projecturl: ''
 # videourl: ''

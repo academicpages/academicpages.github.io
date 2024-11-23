@@ -9,10 +9,10 @@ date: '2023-02-27'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/ACM_TOMM_MapArt_Video_Accepted.pdf"
-projecturl: 'http://graphics.csie.ncku.edu.tw/MArtVi/'
+paperurl: "/Tony/papers/ACM_TOMM_MapArt_Video_Accepted.pdf"
+projecturl: '/MArtVi/'
 codeurl: 'https://github.com/LeHanhcs/MapArt_animation'
-slidesurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/MapArt_Animation.pptx"
+slidesurl: "/Tony/papers/MapArt_Animation.pptx"
 
 # projecturl: ''
 # videourl: ''

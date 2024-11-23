@@ -8,7 +8,7 @@ date: '2020-07-10'
 venue: 'July' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/MTAP-panorama.pdf'
+paperurl: '/Tony/papers/MTAP-panorama.pdf'
 # codeurl: '
 ---
 	

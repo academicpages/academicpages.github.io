@@ -9,8 +9,8 @@ date: '2009-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Shape_Interpolation/SI_publish_2cols.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Shape_Interpolation/"
+paperurl: "/Shape_Interpolation/SI_publish_2cols.pdf"
+projecturl: "/Shape_Interpolation/"
 
 # projecturl: ''
 # videourl: ''
@@ -23,6 +23,6 @@ projecturl: "http://graphics.csie.ncku.edu.tw/Shape_Interpolation/"
 
 Hung-Kuo Chu, <strong><u>Tong-Yee Lee</u></strong> “Multi-resolution Mean Shift Clustering Algorithm for Shape Interpolation,” <strong><u>IEEE Transactions on Visualization and Computer Graphics (TVCG)</u></strong>, Vol. 15, No. 5, pp. 853-866, 2009
 
-[Video: Method](http://graphics.csie.ncku.edu.tw/Shape_Interpolation/SI_Method.mov)
-[Video: Result](http://graphics.csie.ncku.edu.tw/Shape_Interpolation/SI_Result.mov)
-[Video: Comparison](http://graphics.csie.ncku.edu.tw/Shape_Interpolation/SI_Comparison.mov)
+[Video: Method](/Shape_Interpolation/SI_Method.mov)
+[Video: Result](/Shape_Interpolation/SI_Result.mov)
+[Video: Comparison](/Shape_Interpolation/SI_Comparison.mov)

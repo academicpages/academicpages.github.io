@@ -9,8 +9,8 @@ date: '2022-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/ACM_TOMM_Wire_Art_published_version.pdf"
-projecturl: 'http://graphics.csie.ncku.edu.tw/3D_Wire/'
+paperurl: "/Tony/papers/ACM_TOMM_Wire_Art_published_version.pdf"
+projecturl: '/3D_Wire/'
 
 # projecturl: ''
 # videourl: ''

@@ -8,7 +8,7 @@ permalink: /publications/MajorPapers/2024-09-03-3D_Comprehensive_Morphable_Model
 date: '2024-09-03'
 venue: 'September 03'
 
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/MM-019321.R1.pdf'
+paperurl: '/Tony/papers/MM-019321.R1.pdf'
 # slidesurl: ''
 # codeurl: '
 # citation: '“'

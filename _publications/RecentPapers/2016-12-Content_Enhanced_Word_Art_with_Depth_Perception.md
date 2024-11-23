@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2016-12-Content_Enhanced_Word_Art_with_Dep
 date: '2016-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''
@@ -15,7 +15,7 @@ venue: 'December' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/siggraph_poster_0063.pdf'
+paperurl: '/Tony/papers/siggraph_poster_0063.pdf'
 ---
 	
 Shao-Wei Yen, Chih-Kuo Yeh, Charles C. Morace, Sheng-Yuan Chen, Shih-Syun Lin, Chia-Hsiang Chen, <strong><u>Tong-Yee Lee*</u></strong> "Content Enhanced Word Art with Depth Perception" Poster, <strong><i><span style="color:red">SIGGRAPH Asia 2016</span></i></strong>, Macao, China, Dec.,2016.  

@@ -7,11 +7,11 @@ permalink: /publications/RecentPapers/2007-11-WYSIWYG_Mesh_Decomposition_for_Sta
 date: '2007-11-27'
 venue: 'November 26-28' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
-# projecturl: "http://graphics.csie.ncku.edu.tw/Vis2008/"
-# videourl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/cameraFinal_70.mov"
+# slidesurl: 
+# projecturl: 
+# videourl: 
 # codeurl: ''
-# supplementurl: "http://visgraph.cse.ust.hk/projects/skeleton"
+# supplementurl: 
 paperurl: "/files/publications/papers/WYSIWYG_Mesh_Decomposition_for_Static_Models.pdf"
 # slidesurl: ''
 # codeurl: '

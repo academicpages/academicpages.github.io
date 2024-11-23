@@ -7,9 +7,9 @@ permalink: /publications/RecentPapers/2010-04-A_novel_semi-blind-and-semi-revers
 date: '2010-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
-# projecturl: "http://graphics.csie.ncku.edu.tw/CI/"
-# videourl: "https://www.youtu.be/iSIBzQ3PlDs"
+# slidesurl: 
+# projecturl: 
+# videourl: ""
 # codeurl: ''
 # supplementurl
 # slidesurl: ''

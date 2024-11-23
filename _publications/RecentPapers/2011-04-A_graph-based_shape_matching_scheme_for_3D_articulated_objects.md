@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2011-04-A_graph-based_shape_matching_schem
 date: '2011-04-31'
 venue: 'April' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 # videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''
@@ -15,7 +15,7 @@ venue: 'April' # 如果 date 確定，就補上日期
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/10.1002_cav.396.pdf'
+paperurl: '/Tony/papers/10.1002_cav.396.pdf'
 ---
 	
 Min-Wen Chao, Chao-Hung Lin, Chih-Chieh Chang, <strong><u>Tong-Yee Lee</u></strong> "A Graph-based Shape Matching Scheme for 3D Articulated Objects", <strong><i>Computer Animation And Virtual Worlds (Proceedings of CASA'11)</i></strong> Volume 22, Issue 2-3, April-May 2011.

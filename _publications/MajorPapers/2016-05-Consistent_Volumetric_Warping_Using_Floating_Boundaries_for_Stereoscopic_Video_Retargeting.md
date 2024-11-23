@@ -9,7 +9,7 @@ date: '2016-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/SVR.pdf"
+paperurl: "/Tony/papers/SVR.pdf"
 
 # projecturl: ''
 # videourl: ''

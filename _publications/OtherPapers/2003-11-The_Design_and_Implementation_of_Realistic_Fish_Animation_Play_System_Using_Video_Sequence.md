@@ -8,8 +8,8 @@ date: '2003-11-31'
 venue: 'November' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-#projecturl: 'http://graphics.csie.ncku.edu.tw/A2RMap/'
-#paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/saliency_2024.pdf'
+# projecturl: 
+# paperurl: ''
 # codeurl: '
 
 paperurl: "/files/publications/papers/The_Design_and_Implementation_of_Realistic_Fish_Animation_Play_System_Using_Video_Sequence.pdf"

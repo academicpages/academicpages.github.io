@@ -9,8 +9,8 @@ date: '2017-07-31'
 venue: 'July'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_TVCG.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_main.mp4"
+paperurl: "/high_relief_TVCG/high_releif_TVCG.pdf"
+videourl: "/high_relief_TVCG/high_releif_main.mp4"
 
 # projecturl: ''
 # videourl: ''
@@ -23,5 +23,5 @@ videourl: "http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_main.mp
 
 Chih-Kuo Yeh, Shi-Yang Huang, Pradeep Kumar Jayaraman, Chi-Wing Fu, <strong><u>Tong-Yee Lee*</u></strong> "Interactive High-Relief Reconstruction for Organic and Double-sided Objects from a Photo,"   <strong><u>IEEE Transactions on Visualization and Computer Graphics (TVCG)</u></strong>, Vol. 23, No. 7, July, pp. 1796~1808, 2017 <strong><u> (<span style="color:red">SCI/EI</span>)</u></strong>
 
-[main video](http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif_main.mp4)
-[user video](http://graphics.csie.ncku.edu.tw/high_relief_TVCG/high_releif__user.mp4)
+[main video](/high_relief_TVCG/high_releif_main.mp4)
+[user video](/high_relief_TVCG/high_releif__user.mp4)

@@ -7,7 +7,7 @@ permalink: /publications/RecentPapers/2021-12-Optimized_Binarization_for_Eggshel
 date: '2021-12-14'
 venue: 'December' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
 videourl: "https://www.youtu.be/iSIBzQ3PlDs"
 # codeurl: ''

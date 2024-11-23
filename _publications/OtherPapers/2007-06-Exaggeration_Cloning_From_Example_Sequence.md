@@ -8,7 +8,7 @@ date: '2007-06-31'
 venue: 'June' # 如果 date 確定，就補上日期
 
 # slidesurl: ''
-# paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/http;/'
+# paperurl: ''
 # codeurl: '
 ---
 	

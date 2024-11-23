@@ -9,8 +9,8 @@ date: '2006-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/NPR_2006/2006-TVCG-Stylized%20and%20Abstract%20Painterly%20Rendering.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/NPR_2006/NPR.avi"
+paperurl: "/Paper_Video/TVCG/NPR_2006/2006-TVCG-Stylized%20and%20Abstract%20Painterly%20Rendering.pdf"
+videourl: "/Paper_Video/TVCG/NPR_2006/NPR.avi"
 
 # projecturl: ''
 # videourl: ''

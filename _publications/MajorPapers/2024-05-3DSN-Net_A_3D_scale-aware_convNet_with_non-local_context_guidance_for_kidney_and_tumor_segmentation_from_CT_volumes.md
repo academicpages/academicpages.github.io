@@ -8,7 +8,7 @@ permalink: /publications/MajorPapers/2024-05-3DSN-Net_A_3D_scale-aware_convNet_w
 date: '2024-05-31'
 venue: 'May'
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/3DSN_TCYB.pdf"
+paperurl: "/Tony/papers/3DSN_TCYB.pdf"
 
 
 # videourl: ''

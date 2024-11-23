@@ -9,9 +9,9 @@ date: '2008-12-30'
 venue: 'December'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/paperfinal.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/"
-videourl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/cameraFinal_70.mov"
+paperurl: "/Motion_Overview/paperfinal.pdf"
+projecturl: "/Motion_Overview/"
+videourl: "/Motion_Overview/cameraFinal_70.mov"
 
 # projecturl: ''
 # videourl: ''
@@ -25,5 +25,5 @@ videourl: "http://graphics.csie.ncku.edu.tw/Motion_Overview/cameraFinal_70.mov"
 Jackie Assa,  Daniel Cohen-Or, I-Cheng Yeh ,<strong><u>Tong-Yee Lee</u></strong> “Motion Overview of Human Actions” <strong><u>ACM Transaction on Graphics</u></strong> (<span style="color:red">Proceedings of ACM SIGGRAPH Asia 2008</span>) Vol. 27, No.5, Dec. 2008
 
 
-[Summary video:75M ](http://graphics.csie.ncku.edu.tw/Motion_Overview/cameraFinal_70.mov)
-[User-study video:45M ](http://graphics.csie.ncku.edu.tw/Motion_Overview/user_study.mov)
+[Summary video:75M ](/Motion_Overview/cameraFinal_70.mov)
+[User-study video:45M ](/Motion_Overview/user_study.mov)

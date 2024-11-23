@@ -15,7 +15,7 @@ videourl: "http://graphics.csie.ncku.edu.tw/ACM_MM2018/MM2018_SY.wmv"
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/MM_MO.pdf'
+paperurl: '/Tony/papers/MM_MO.pdf'
 ---
 
 	

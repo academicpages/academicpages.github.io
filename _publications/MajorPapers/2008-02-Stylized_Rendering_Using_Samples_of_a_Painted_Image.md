@@ -9,9 +9,9 @@ date: '2008-02-27'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.mp4"
-supplementurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/NPR_2007/supp0625_image_TVCG_NPR.pdf"
+paperurl: "/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.pdf"
+videourl: "/Paper_Video/TCSVT/TCSVT_anim_mesh_2007.mp4"
+supplementurl: "/Paper_Video/TVCG/NPR_2007/supp0625_image_TVCG_NPR.pdf"
 
 # projecturl: ''
 # videourl: ''

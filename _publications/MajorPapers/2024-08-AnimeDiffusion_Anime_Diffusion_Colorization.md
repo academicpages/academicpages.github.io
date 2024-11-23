@@ -9,7 +9,7 @@ date: '2024-08-28'
 venue: 'August'
 
 projecturl: 'https://xq-meng.github.io/projects/AnimeDiffusion/'
-paperurl: 'http://graphics.csie.ncku.edu.tw/Tony/papers/anime_diffusion_accepted.pdf'
+paperurl: '/Tony/papers/anime_diffusion_accepted.pdf'
 
 
 # videourl: ''

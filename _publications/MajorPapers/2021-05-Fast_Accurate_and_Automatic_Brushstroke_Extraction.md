@@ -9,7 +9,7 @@ date: '2021-05-31'
 venue: 'May'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Tony/papers/ACM_TOMM_Yunfei_update.pdf"
+paperurl: "/Tony/papers/ACM_TOMM_Yunfei_update.pdf"
 
 # projecturl: ''
 # videourl: ''

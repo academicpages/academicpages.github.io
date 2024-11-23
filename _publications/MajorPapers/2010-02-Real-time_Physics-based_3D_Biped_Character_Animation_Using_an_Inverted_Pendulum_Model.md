@@ -9,9 +9,9 @@ date: '2010-02-28'
 venue: 'February'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/IPM/bare_jrnl0629_01.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/IPM/"
-videourl: "http://graphics.csie.ncku.edu.tw/IPM/TVCG_main_video_demo.mov"
+paperurl: "/IPM/bare_jrnl0629_01.pdf"
+projecturl: "/IPM/"
+videourl: "/IPM/TVCG_main_video_demo.mov"
 
 # projecturl: ''
 # videourl: ''
@@ -24,4 +24,4 @@ videourl: "http://graphics.csie.ncku.edu.tw/IPM/TVCG_main_video_demo.mov"
 
 Yao-Yang Tsai, Wen-Chieh Lin, Kuangyou B. Cheng, Jehee Lee, <strong><u>Tong-Yee Lee</u></strong> “Real-time Physics-based 3D Biped Character Animation Using an Inverted Pendulum Model”, <strong><u>IEEE Transactions on Visualization and Computer Graphics (TVCG)</u></strong>,  March/April Issue, Vol. 16, No. 2, pp. 325-337, 2010
 
-[Video Comparison](http://graphics.csie.ncku.edu.tw/IPM/sidebyside_comparison.mov)
+[Video Comparison](/IPM/sidebyside_comparison.mov)

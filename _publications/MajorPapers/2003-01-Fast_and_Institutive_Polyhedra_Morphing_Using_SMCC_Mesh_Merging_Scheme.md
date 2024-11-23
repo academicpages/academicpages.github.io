@@ -9,8 +9,8 @@ date: '2003-01-31'
 venue: 'January'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_Metamorphosis_2003.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/fast_morph.html"
+paperurl: "/Paper_Video/TVCG/other%20IEEE%20papers/IEEE_TVCG_Metamorphosis_2003.pdf"
+projecturl: "/FastMorphing/fast_morph.html"
 
 # projecturl: ''
 # videourl: ''

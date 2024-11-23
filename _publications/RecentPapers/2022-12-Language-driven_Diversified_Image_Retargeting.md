@@ -7,15 +7,15 @@ permalink: /publications/RecentPapers/2022-12-Language-driven_Diversified_Image_
 date: '2022-12-31'
 venue: 'December' # 如果 date 確定，就補上日期
 
-# slidesurl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.pptx"
+# slidesurl: 
 # projecturl: ''
-# videourl: "http://graphics.csie.ncku.edu.tw/ICASSP2024/talk.mp4"
+# videourl: 
 # codeurl: ''
 # supplementurl
 # slidesurl: ''
 # codeurl: '
 # citation: ''
-paperurl: 'http://graphics.csie.ncku.edu.tw/Weiming/siggraph_asia__poster_2022.pdf'
+paperurl: '/Weiming/siggraph_asia__poster_2022.pdf'
 ---
 
 Kexin Wu, Fan Tang, Ning Liu, Oliver Deussen, Thi-ngoc-hanh Le, Weiming Dong, <strong><u>Tong-Yee Lee*</u></strong>, "Language-driven Diversified Image Retargeting" [SIGGRAPH Asia 2022, in Daegu, South Korea](https://sa2022.siggraph.org/en/), Poster, Dec. 6-9, 2022

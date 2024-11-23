@@ -9,8 +9,8 @@ date: '2008-09-30'
 venue: 'September'
 
 
-paperurl: "http://graphics.csie.ncku.edu.tw/Vis2008/template.pdf"
-projecturl: "http://graphics.csie.ncku.edu.tw/Vis2008/"
+paperurl: "/Vis2008/template.pdf"
+projecturl: "/Vis2008/"
 
 # projecturl: ''
 # videourl: ''
