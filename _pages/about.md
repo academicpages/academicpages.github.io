@@ -58,3 +58,11 @@ If you’d like to get in touch with me, [👉_Click here to scan my WeChat QR C
 - Adobe Series: Adobe Photoshop, Adobe Illustrator, Adobe Premiere Pro
 - Language: Chinese, English (Learning: Russian, Janpanese)
 - Sports: Table Tennis, Badminton, Basketball, Swimming (Learning: Tennis)
+
+<h2 id="knowledges">🧰 Knowledge Sharing </h2>
+This section contains some tutorials I wrote during my work process. I think recording these experience and sharing them here may both help those in need and promote my enthusiasim for learning.
+If you find any defects in these tutorials, don't hesitate to contact me in any methods provided by this website.
+- [1. Tutorial : Extraction and use of air pollution data in the CHAP database-from The .nc to the variable 2024.11.23](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from The .nc to the variable 2024.11.23.pdf). 
+
+
+
