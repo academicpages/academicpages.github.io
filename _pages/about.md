@@ -64,7 +64,7 @@ This section contains some tutorials I wrote during my work process. I think rec
 
 If you find any defects in these tutorials, don't hesitate to contact me in any methods provided by this website.
 
-- [1. Tutorial : Extraction and use of air pollution data in the CHAP database-from The .nc to the variable 2024.11.23](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf). 
+- [1. Tutorial : Extraction and use of air pollution data in the CHAP database-from the .nc to the variable](../assets/Tutorial-Extraction and use of air pollution data in the CHAP database-from the .nc to the variable 2024.11.23.pdf). 
 
 
 
