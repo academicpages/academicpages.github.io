@@ -13,6 +13,7 @@ paperurl: "/Tony/papers/ACM_TOMM_MapArt_Video_Accepted.pdf"
 projecturl: '/MArtVi/'
 codeurl: 'https://github.com/LeHanhcs/MapArt_animation'
 slidesurl: "/Tony/papers/MapArt_Animation.pptx"
+videourl: "https://youtu.be/obM6j1yDJWo?feature=shared"
 
 # projecturl: ''
 # videourl: ''

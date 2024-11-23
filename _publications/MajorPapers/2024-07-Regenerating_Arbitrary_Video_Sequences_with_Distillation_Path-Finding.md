@@ -12,7 +12,7 @@ projecturl: '/SDPF/'
 paperurl: "/SDPF/TVCG_Video_Resequencing_accepted.pdf"
 supplementurl: '/SDPF/TVCG_Video_Resequencing_Supplementary.pdf'
 archivurl: 'https://arxiv.org/abs/2311.07170'
-slidesurl: '/Tony/papers/Video_Resequencing.pptx'
+slidesurl: 'https://docs.google.com/presentation/d/1t_kTve8PFn0nHuL7IQ6kl5BbZApCxGzb/edit?usp=drive_link&ouid=104484756371355387863&rtpof=true&sd=true'
 codeurl: "https://github.com/LeHanhcs/SDPF_VideoResequencing"
 
 

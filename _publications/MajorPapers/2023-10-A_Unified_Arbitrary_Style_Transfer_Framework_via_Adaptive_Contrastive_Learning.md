@@ -12,7 +12,7 @@ projecturl: "https://github.com/zyxElsa/CAST_pytorch"
 paperurl: "/TOG_art_2023/UCAST_Final.pdf"
 supplementurl: "/TOG_art_2023/UCAST_Supplementary.pdf"
 codeurl: "https://github.com/zyxElsa/CAST_pytorch"
-videourl: "http://graphics.csie.ncku.edu.tw/TOG_art_2023/Video-demo.mp4"
+videourl: "https://youtu.be/Wt6nPGoCKkw?feature=shared"
 
 # videourl: ''
 # codeurl: ''

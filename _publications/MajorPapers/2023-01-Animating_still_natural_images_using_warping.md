@@ -12,7 +12,7 @@ venue: 'January'
 paperurl: "/Tony/papers/ACM_TOMM_Animating_Images_accepted.pdf"
 projecturl: '/AnimatingImages'
 codeurl: 'https://github.com/LeHanhcs/Animating_Still_Images'
-slidesurl: "/Tony/papers/Animating_images.pptx"
+slidesurl: "https://docs.google.com/presentation/d/1RoUAvkvGpdAXKSSCdFiIgjJfwOd8fbKR/edit?usp=drive_link&ouid=104484756371355387863&rtpof=true&sd=true"
 
 # projecturl: ''
 # videourl: ''
