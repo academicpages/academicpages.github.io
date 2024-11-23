@@ -11,9 +11,9 @@ redirect_from:
 {% newthought 'At present, I am a Lecturer in Spacecraft Engineering'%} at Queen Mary University of
 London in the UK{% sidenote 'One' '[My QMUL page](https://www.seresearch.qmul.ac.uk/robotics/people/ananjangud/)' %}.
 Since entering academia in 2020, I have attempted to traverse the twofold research and education
-landscape in a manner that I think can expand consciousness- mine as well as of those who try
-to work with me. This is especially that case (I'd like to think) for students and early
-career researchers.
+landscape in a manner that I think expands consciousness- mine as well as of those who
+work with me. This is especially the case (I'd like to think) for students and early career
+researchers.
 
 Everything I learned about my academic field of expertise (classical mechanics and
 multibody dynamics) and its effective written communication was from the
@@ -29,8 +29,10 @@ architectures, and technology development/demonstration plans for robotic
 [in-space assembly](http://angadhn.com/publication/2023-06-01-towards-robotic-on-orbit-assembly) while also
 driving development of lab-based technology demonstration testbeds. Here, again, my worldview
 was expanded by [Prof. Craig Underwood](https://www.surrey.ac.uk/people/craig-underwood),
-who possesses an encyclopaedic knowledge of space missions while also being a proper space engineer with
-a deep understanding of technologies across various spacecraft subsystems. These experiences and mentors
+who possesses an encyclopaedic knowledge of space missions while also being a `proper' space engineer with
+a deep understanding of technologies across various spacecraft subsystems.
+
+These experiences and mentors
 got me working in space robotics where my group works on fundamental engineering science-based know-hows
 towards realising futuristic space systems/technologies.
 
