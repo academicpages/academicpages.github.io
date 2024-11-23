@@ -38,24 +38,26 @@ towards realising futuristic space systems/technologies.
 My new approach to personal learning and pedagogic growth bears some parallels to Papert's
 constructivist philosophy. My interpretation of this is that intuition and interest comes from
 experimenting with new and previously unknown interactive tools, much like a child playing with an
-ever-expanding collection of toys, to enhance their understanding of the world. My belief is that
+ever-expanding collection of toys, to enhance their understanding of a topic. My belief is that
 this leads to one eventually uncovering{% sidenote 'Three' 'In some cases, even _discovering_'.%} their
-interests, which I see as an important precursor to developing taste. I am writing this while
+interests, which I see as an important precursor to developing _taste_. I am writing this while
 reflecting on the efforts of some extraordinary students who, over the Summer of 2024, collectively 
 created an online textbook on Spacecraft Dynamics[^a] based on previous handwritten lecture notes.
 
-For students, I like to emphases exploration-based learning (as opposed to ), which deviates from
-the conventions of formal academia that are examination-focused (as much as my role permits).
-The dangers of eschewing exploration in educaation is bearing the anti-fruit in the extant
-populist model of STEM research where group leaders are focused on enhancing personal metrics
+For students, I like to emphasise exploration-based learning, which deviates from
+the conventions of formal academia that are examination-focused (as much as one can do this
+within formal academia). The dangers of eschewing exploration in
+education is bearing the anti-fruit in the extant STEM research model where group
+leaders are focused on enhancing publication metrics
 by collecting more publications in a bid to raise personal research productivity indices{%sidenote
 'Four' 'A classic case of Goodhart’s law. My issue is that these metrics are not an
 effective measure of the true outputs from academia- the career of advisees [^b].
 Of course, this presumes advisees must also be self-motivated to grow their opportunities.'%}.
 My conclusion is that a lot of today's professoriate are not too different from
 philatelists[^c] but a potential answer lies in updating incentive structures. Or at least
-clarifying them; a funder should make clear it wants only journall papers or only datasets or
-a combination of these (and other) outputs.
+clarifying them; a funder should make clear if it wants only journal papers as outputs.
+Similarly, a university there shiuld be incentives for generating well documented
+tools and high-quality datasets.
 
 #### Footnotes
 [^a]: The students built on prior introductory knowledge of Python (nothing fancy), $$\LaTeX$$, and Markdown but more importantly some of them learned how reviewing [pull requests](https://github.com/angadhn/SpacecraftDynamics/pulls) works. Some of them were able to teach their friends- via videos and remote pair programming- how to make contributions without my direct supervision. In the process, this team also taught me about sensibly coordinating a larger Github project while flying by the seat of my pants. I would like to think that we all grew a bit- I did!
