@@ -2,43 +2,44 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
 
 ## Locations of key files/directories
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+- Basic config options: \_config.yml
+- Top navigation bar config: \_data/navigation.yml
+- Single pages: \_pages/
+- Collections of pages are .md or .html files in:
+  - \_publications/
+  - \_techskills/
+  - \_posts/
+  - \_teaching/
+  - \_talks/
+- Footer: \_includes/footer.html
+- Static files (like PDFs): /files/
+- Profile image (can set in \_config.yml): images/profile.png
 
 ## Tips and hints
 
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
-* Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences. 
-  * Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
-  * The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
+- Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
+- Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll.
+  - Green check: successful build
+  - Orange circle: building
+  - Red X: error
+  - No icon: not built
+- Academic Pages uses [Jekyll Kramdown](https://jekyllrb.com/docs/configuration/markdown/), GitHub Flavored Markdown (GFM) parser, which is similar to the version of Markdown used on GitHub, but may have some minor differences.
+  - Some of emoji supported on GitHub should be supposed via the [Jemoji](https://github.com/jekyll/jemoji) plugin :computer:.
+  - The best list of the supported emoji can be found in the [Emojis for Jekyll via Jemoji](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#computer) blog post.
 
 ## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
 
-## MathJax 
+- [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
+- [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+
+## MathJax
 
 Support for MathJax Version 3.0 is included in the template:
 
@@ -57,7 +58,7 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 ## Markdown guide
 
-Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
+Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.
 
 ### Header three
 
@@ -77,68 +78,68 @@ Single line blockquote:
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Entry         | Item |                                     |
+| ------------- | ---- | ----------------------------------- |
+| [John Doe](#) | 2016 | Description of the item in the list |
+| [Jane Doe](#) | 2019 | Description of the item in the list |
+| [Doe Doe](#)  | 2022 | Description of the item in the list |
 
 ### Table 2
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | ce
-ll5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
+| Header1                       | Header2 | Header3 |
+| :---------------------------- | :-----: | ------: |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |   ce    |
+| ll5                           |  cell6  |
+| ----------------------------- |
+| cell1                         |  cell2  |   cell3 |
+| cell4                         |  cell5  |   cell6 |
+| ============================= |
+| Foot1                         |  Foot2  |   Foot3 |
 
 ## Definition Lists
 
 Definition List Title
-:   Definition list division.
+: Definition list division.
 
 Startup
-:   A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
+: A startup company or startup is a company or temporary organization designed to search for a repeatable and scalable business model.
 
 #dowork
-:   Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
+: Coined by Rob Dyrdek and his personal body guard Christopher "Big Black" Boykins, "Do Work" works as a self motivator, to motivating your friends.
 
 Do It Live
-:   I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
+: I'll let Bill O'Reilly [explain](https://www.youtube.com/watch?v=O_HyZ5aW76c "We'll Do It Live") this one.
 
 ## Unordered Lists (Nested)
 
-  * List item one 
-      * List item one 
-          * List item one
-          * List item two
-          * List item three
-          * List item four
-      * List item two
-      * List item three
-      * List item four
-  * List item two
-  * List item three
-  * List item four
+- List item one
+  - List item one
+    - List item one
+    - List item two
+    - List item three
+    - List item four
+  - List item two
+  - List item three
+  - List item four
+- List item two
+- List item three
+- List item four
 
 ## Ordered List (Nested)
 
-  1. List item one 
-      1. List item one 
-          1. List item one
-          2. List item two
-          3. List item three
-          4. List item four
+1. List item one
+   1. List item one
+      1. List item one
       2. List item two
       3. List item three
       4. List item four
-  2. List item two
-  3. List item three
-  4. List item four
+   2. List item two
+   3. List item three
+   4. List item four
+2. List item two
+3. List item three
+4. List item four
 
 ## Buttons
 
@@ -188,7 +189,7 @@ This is an example of a [link](http://github.com "Github").
 
 The abbreviation CSS stands for "Cascading Style Sheets".
 
-*[CSS]: Cascading Style Sheets
+\*[CSS]: Cascading Style Sheets
 
 ### Cite Tag
 
@@ -234,7 +235,6 @@ Or, you can leave a section open by default by including the `open` attribute in
   <summary>Open by default</summary>
   This section is open by default thanks to open in the &lt;details open&gt; tag!
 </details>
-
 
 ### Emphasize Tag
 
@@ -286,8 +286,8 @@ Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should 
 
 This allows you to denote <var>variables</var>.
 
-***
+---
+
 **Footnotes**
 
 The footnotes in the page will be returned following this line, return to the section on <a href="#footnotes">Markdown Footnotes</a>.
-
