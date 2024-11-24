@@ -76,8 +76,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  conferences:
-    title: 'Conference Papers'
+  papers:
+    title: 'Papers'
   patents:
     title: 'Patents'
     
