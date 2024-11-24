@@ -9,7 +9,7 @@ date: '2024-08-31'
 venue: 'August'
 
 paperurl: '/TVCG_MSEmbGAN/MSEmbGAN_paper.pdf'
-videourl: 'http://graphics.csie.ncku.edu.tw/TVCG_MSEmbGAN/start_1080.mp4'
+videourl: 'https://youtu.be/gODnhZvdt5g'
 supplementurl: '/TVCG_MSEmbGAN/MSEmbGAN_supplemental.pdf'
 
 # slidesurl: ''

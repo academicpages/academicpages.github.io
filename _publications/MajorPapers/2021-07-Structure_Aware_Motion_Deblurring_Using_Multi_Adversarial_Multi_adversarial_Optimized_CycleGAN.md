@@ -10,7 +10,7 @@ venue: 'July'
 
 
 paperurl: "/TIP_cycle_2021/TIP2021.pdf"
-videourl: "http://graphics.csie.ncku.edu.tw/TIP_cycle_2021/TIP_demo.mp4"
+videourl: "https://youtu.be/aGYKSwAVo38"
 supplementurl: "/TIP_cycle_2021/TIP2021_Supplemental.pdf"
 
 # projecturl: ''

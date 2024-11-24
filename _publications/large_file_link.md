@@ -2,7 +2,7 @@
 > ## tvcgHead.zip
 > https://drive.google.com/file/d/1ICGWUWIQrtKQ7jMrPoTX1-UO1ZGWf0s-/view?usp=drive_link
 > ## Video_3DFaceAging.mp4
-> 還沒
+> https://youtu.be/xCyvffWuV60
 
 > # EI
 > ## EI/paper_docs/examples/james_walking.zip
@@ -36,29 +36,29 @@
 
 > # deep_saliency
 > ## assets/CAIR_v2.mp4
-> 還沒
+> https://youtu.be/bVYC6ZsmdAc
 > ## assets/CAIR_v2_small.mp4
-> 還沒
+> https://youtu.be/q1ZIBQudd60
 > ## assets/Deep_Saliencymap.mp4
-> 還沒
+> https://youtu.be/OYVGbl3LAkE
 > ## assets/Deep_Saliencymap_v2.mp4
-> 還沒
+> https://youtu.be/Mc2CJKTKq94
 
 > # TVCG_MSEmbGAN
 > ## start_1080.mp4
-> 還沒
+> https://youtu.be/gODnhZvdt5g
 
 > # CVPR2024
 > ## demo.mp4
-> 還沒
+> https://youtu.be/VsBV8pmdzFI
 
 > # Wu_TVCG_enlarge_video
 > ## Supp-CAO-TVCG2024.mp4
-> 還沒
+> https://youtu.be/5MvLaR3-70k
 
 > # TIP_cycle_2021
 > ## TIP_demo.mp4
-> 還沒
+> https://youtu.be/aGYKSwAVo38
 
 > # TOG_art_2023
 > ## Video-Demo.mp4

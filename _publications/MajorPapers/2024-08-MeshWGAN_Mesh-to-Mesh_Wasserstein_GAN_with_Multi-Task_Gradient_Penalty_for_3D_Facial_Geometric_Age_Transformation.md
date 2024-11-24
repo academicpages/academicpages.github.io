@@ -11,7 +11,7 @@ venue: 'August'
 projecturl: 'https://github.com/Easy-Shu/MeshWGAN/'
 paperurl: '/3D_Head_TVCG/TVCG_3D_head.pdf'
 supplementurl: '/3D_Head_TVCG/SupMaterials.pdf'
-videourl: 'http://graphics.csie.ncku.edu.tw/3D_Head_TVCG/Video_3DFaceAging.mp4'
+videourl: 'https://youtu.be/xCyvffWuV60'
 
 
 # videourl: ''

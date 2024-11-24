@@ -9,7 +9,7 @@ date: '2024-06-21'
 venue: 'June'
 
 paperurl: "/CVPR2024/2DHumanAvatar.pdf"
-videourl: 'http://graphics.csie.ncku.edu.tw/CVPR2024/demo.mp4'
+videourl: 'https://youtu.be/VsBV8pmdzFI'
 supplementurl: "/CVPR2024/2DHumanAvatar_sup.pdf"
 
 # videourl: ''
