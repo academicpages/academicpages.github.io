@@ -18,8 +18,11 @@ codeurl: 'https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-I
 <!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
 
 
-<span lang="EN-US" style="font-family:'Comic Sans MS'">Zijun Zhou, Fan Tang, Yuxin Zhang, Oliver Deussen, Juan Cao, Weiming Dong, Xiangtao Li, <strong><u>Tong-Yee Lee</u></strong></span>
+<!-- <span lang="EN-US" style="font-family:'Comic Sans MS'">Zijun Zhou, Fan Tang, Yuxin Zhang, Oliver Deussen, Juan Cao, Weiming Dong, Xiangtao Li, <strong><u>Tong-Yee Lee</u></strong></span>
 <img src="/images/new.gif" style="height: 16px;"><span lang="EN-US" style="font-family:'Comic Sans MS'"><span style="mso-spacerun:yes">&nbsp;</span><a href="/Tony/papers/IEEE_TVCG_2024_Fan_survey.pdf">"A Comprehensive Evaluation of Arbitrary Image Style Transfer Methods"</a></span>
 <i style="mso-bidi-font-style:normal">IEEE  Transactions on Visualization and Computer Graphics (accept 2024/9)</i>
 <br><br>
-<img src="/images/new.gif" style="height: 16px;"><a href="http://ivc.ia.ac.cn/"><span class="MsoHyperlink" style="mso-bidi-font-family:'Times New Roman'">http://ivc.ia.ac.cn/</span></a> or <img src="/images/new.gif" style="height: 16px;"><a href="https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods"><span class="MsoHyperlink" style="mso-bidi-font-family:'Times New Roman'">https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods</span></a>
+<img src="/images/new.gif" style="height: 16px;"><a href="http://ivc.ia.ac.cn/"><span class="MsoHyperlink" style="mso-bidi-font-family:'Times New Roman'">http://ivc.ia.ac.cn/</span></a> or <img src="/images/new.gif" style="height: 16px;"><a href="https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods"><span class="MsoHyperlink" style="mso-bidi-font-family:'Times New Roman'">https://github.com/ZhouZJ-DL/A-Comprehensive-Evaluation-of-Arbitrary-Image-Style-Transfer-Methods</span></a> -->
+
+Zijun Zhou, Fan Tang, Yuxin Zhang, Oliver Deussen, Juan Cao, Weiming Dong, Xiangtao Li, <strong><u>Tong-Yee Lee</u></strong>,  “A Comprehensive Evaluation of Arbitrary Image Style Transfer Methods,” <strong><u>IEEE Transactions on Visualization and Computer Graphics,</u></strong> <strong><u> (<span style="color:red">accept. 2024/09</span>)</u></strong> 
+ 
