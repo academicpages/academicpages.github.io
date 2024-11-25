@@ -19,7 +19,7 @@ Please use the following link to book a 15-minute meeting <a href="https://outlo
 
 University of Illinois Urbana-Champaign
 - Politics of International Development (Fall 2024) <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
-- Politics of Climate Change and Development (Spring 2025)
+- Politics of Climate Change and Development (Spring 2025) <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
 
 
 University of Pennsylvania, Postdoctoral Fellow (2024)
