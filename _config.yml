@@ -12,9 +12,9 @@ title: "About Me"
 title_separator: "-"
 name: &name "Amos Luna"
 description: &description "personal description"
-url: https://amosluna.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url: https://Amos-Luna.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "Amos-Luna/amosluna.github.io"
+repository: "Amos-Luna/Amos-Luna.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
