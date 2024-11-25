@@ -22,54 +22,26 @@ Last Updated: March 23, 2024
 
 What I really like: Chatting, Reading, Writing, Watching Comedies, Hiking, Cooking, Karaoke, Playing Board Games (especially Othello), emoji&#129325; &#128526; &#128548;, Billiards, Fishing, etc.
 
-Reading is one of my hobbies. I read about 200 books a year, excluding books related to my research. Below is a partial list of some of my favorite books and papers. If any of them interest you, I would be happy to discuss them with you!
+* Programming
+  * Python, OCaml,  Scala, Java, C, Isabelle/HOL
+* Service
+  * ICFP 2023 Student Volunteer (September 2023)
+  * FLOPS 2024 (May 2024) (planned)
+  * The History of Science Society of Japan, 70th Annual General Meeting (May 2023)
+  * The History of Science Society of Japan, 71th Annual General Meeting (May 2024) (planned)
 
-
-As a hobby, I have been recently reading the works of L. Boltzmann, M. Planck, A. Einstein, E. Schr&ouml;dinger, L. de Broglie, A. Kolmogorov, Yoichiro Nambu, N. Chomsky, A. Leggett, R. Dawkins, E. Witten, and others, even though I don’t understand all the details&#128521;. Particularly, I have been interested in the work of the Lw&oacute;w-Warsaw school of logic, including J. &#321;ukasiewicz, S. Le&#347;niewski, and A. Tarski.
-
-Books (mainly nonfiction) and Papers
+Miscellaneous
 ======
-* Lorraine Daston, and Peter Galison, (2007), *Objectivity*
-  * 
-* Thomas S. Kuhn, (1962), *The Structure of Scientific Revolutions*
-  * “Almost always the men who achieve these fundamental inventions of a new paradigm have been either very young or very new to the field whose paradigm they change. “, 
-“The proliferation of competing articulations, the willingness to try anything, the expression of explicit discontent, the recourse to philosophy and to debate over fundamentals, all these are symptoms of a transition from normal to extraordinary research. “
-  * This book is difficult to read due to the assumption of knowledge in the history of physics, which is not commonly taught in modern physics textbooks, and less rigorous discussion. However, the concept of paradigm is really intriguing and sparked my initial interest in the history and philosophy of science.
-
-*   
-* Jose Ortega Y Gasset, 1929, *The Revolt of the Mass*
-  * I particularly enjoyed Chapter 10: Primitivism and History, and Chapter 12: The Barbarism of “Specialization”.
-* Yanshou, Li. *History of the Southern Dynasties*, pp. 5-8『南史』巻二十六　列伝第十六
-  * ←I found that this bibliography may not be accurate. The Book of Song (宋&#26360;) is accurate.
-  * The biography of Yuan Can (袁粲) and the story about 狂泉. Being common or widely believed doesn't necessarily mean it's correct. I have studied (modern) Chinese because of my interest in traditional Chinese literature, such as the Analects (&#35770;&#35486;). Additionally, chatting with Chinese speakers has been a motivating factor for me&#128588;. 
-
-* Kumiko Tanaka-Ishii, (2010), *Semiotics of Programming* 
-  * 
-* Jun'ichiro Tanizaki, (1933), *In Praise of Shadows*『陰翳礼讃』
-* Soseki Natsume, (1914), *My Individualism and the Philosophical Foundations of Literature*『私の個人主義』
-* G&ouml;del, Kurt. (1931), "&Uuml;ber formal unentscheidbare S&auml;tze der Principia Mathematica und verwandter Systeme I".
-  * On Formally Undecidable Propositions of Principia Mathematica and Related Systems.
-  * 
-    
-* Kleene, Stephen C. (1951), "Representation of Events in Nerve Nets and Finite Automata".
-  * Kleene conceived regular expressions to redefine the neural model proposed by McCulloch and Pitts. He first modeled regular events (what we now call regular languages) based on natural circuits, then defined regular expressions as a notation to describe these events, using three operations and earliest units (The concept of Finite Automata came later).  The mathematical formulation of natural phenomena attracted me.
+* The Purpose of this Website
+  * My background differs from that of typical computer science students, so I will introduce myself through this website (When I first encountered the terms 'monad' and 'type theory' during my junior year at university, I initially associated them with Leibniz and Russell&#128579; The former has little to do with Leibniz, while the latter was conceived by Russell). Although I also love alone time, as an ambivert, I really enjoy interacting with other people as well. I hope this site, which I created for the first time, will help me to interact with various people in graduate school.
   
-* Zemanek, H., (1966), “Semiotics and Programming Languages”
-* *ACM Turing Award lectures : the first twenty years, 1966 to 1985*
-* Minsky, Marvin, (1970), “Form and Content in Computer Science”.
-  * 
+* I have been interested in extracting essential structures from complex objects (like systems, programs, societies, and natural languages), and the elucidating underlying premises.\\
+  &nbsp;&nbsp; Like a mechanic deconstructing a machine into its parts, I liked to deconstruct abstract objects such as theories and concepts to grasp their structure. I was also interested in the **premise** of how and when each deconstructed idea was conceived. In particular, I was interested in how the "established" theories and technologies we learn about in classes and textbooks, such as automata, Turing machines, program semantics, compilers, and operating systems, were originally conceived (The original ideas were not as organized as what we see in textbooks today!). Then, I conducted research on the history and philosophy of science (especially the history and philosophy of computer science).\\
+  &nbsp;&nbsp; In the process, I audited classes on functional languages and automata theory, which strongly attracted me to the mathematical aspects of computers, and I became interested in the basic principles and structures of computers and programming languages (I was particularly fascinated by the property of automata that can describe infinity with finite descriptions). Though much attention has been paid to what programs to write in recent years, as a person who is concerned with **premises**, I was particularly interested in programming languages as tools necessary for writing programs and expressing ideas. (I think this is similar to Wittgenstein's interest in language). What captivates me the most about PL is the amalgamation of both the engineering aspect—implementing code—and the scientific aspect—rigorously employing mathematics and logic to write proofs.
+    
+* What I believe is important
+  * The various experiences of the last year have made me believe that while knowledge and skills are important, emotional and social intelligence may be even more crucial in conducting research. This includes respecting others, asking for help, maintaining intellectual independence, making a continuous effort, being self-motivated, having a positive attitude, and being adaptable to change. 
 
-Others
-======
-* Fictions (I don't read much fiction&#129394;. Fact is stranger than fiction...)
-  * Abbott, Edwin A. (1884), *Flatland: A Romance of Many Dimensions*
-    * 
-  * Casti, John L. (1998), *The Cambridge Quintet: A Work of Scientific Speculation* 
-    * A unique fiction written by a complexity scientist known for *Paradigms Lost* and *Complexification*. Snow, Turing, Wittgenstein, Haldane (a geneticist), and Schr&ouml;dinger discuss topics related to artificial intelligence. There is no such discussion in terms of historical facts, but the content is solid to some extent. At the end of the book, there is a brief but well-organized history of artificial intelligence until the 1990s.
-  * 
-
-* Movies
-* Music
 * Quotes
   * [D]o not follow in my footsteps or in the footsteps of anybody else. Rather make a path of your own choosing, in directions which interest you most at the time. If you feel most comfortable with the established curriculum or the conventional career, I wish you the best of success in it. But if your interests or opportunities lead you in unusual directions, do not be afraid to stray from the general norm. If you think hard how to generalize your earlier learning and experiences, you will profit from them in the most unexpected ways. Everyone in this wide world has a different variety that we all need to foster and develop, to ensure the continued progress of human knowledge, the continuous renewal of our various cultures, and the ultimate prosperity and happiness of our human race.
 (Tony Hoare, “Stories from a Life in Interesting Times”, 2001)

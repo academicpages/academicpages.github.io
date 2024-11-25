@@ -4,6 +4,7 @@ collection: historiography
 type: "historiography"
 permalink: /historiography/historio
 ---
+Last Updated: March 23, 2024
 
 1960s
 ======
