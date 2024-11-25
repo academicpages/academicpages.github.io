@@ -21,6 +21,9 @@ redirect_from:
   - Keras
   - Tensorflow
   - PyTorch
+  - OpenCV
+  - NLTK/Spacy
+  - Scrapy
 - **Data Processing and Analysis**
   - Pandas, Numpy, Polars, PySpark
   - Snowflake, PostgreSQL
