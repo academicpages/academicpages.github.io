@@ -35,7 +35,8 @@ Education
 Work experience
 ======
 * 2022 - now, [IDEA](https://www.idea.edu.cn/research/cvr.html), Senior CV Researcher
-  * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model. 
+  * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model
+    * [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
     * [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
     * [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
     * patent: waiting for release
@@ -58,6 +59,7 @@ Work experience
   * VR Video Streaming Optimization
     * SIGCOMM'18 VR Workshop paper: [Smart Streaming of Panoramic Video](https://dl.acm.org/doi/pdf/10.1145/3229625.3229628)
   * VR Video Content Delivery and Distribution (CDN) System
+
 Skills
 ======
 * Mathematics
