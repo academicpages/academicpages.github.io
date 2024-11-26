@@ -42,13 +42,14 @@ Publications
 <!-- {% for post in site.publications reversed %}
   {{ post.title }}
   <span class="bullet">&#8226;</span> <!-- Bullet Point -->
-  
+
 {% endfor %} -->
 {% for post in site.publications reversed %}
   <div class="archive__item">
     <h2 class="archive__item-title" itemprop="headline">
+        <span class="bullet">&#8226;</span> <!-- Bullet Point -->
         {% if post.link %}
-          &#8226; <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
         {% endif %}
