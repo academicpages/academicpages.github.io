@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Modelling membrane reshaping by staged polymerization of ESCRT-III filaments"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
