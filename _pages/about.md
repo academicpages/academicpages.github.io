@@ -36,6 +36,13 @@ Contact
 
  I like getting email. If you want to talk about something I do, send me an [email](mailto:p.l.delacour@tudelft.nl)
  
+
+Publications
+====
+{% for post in site.publications reversed %}
+  post
+{% endfor %}
+
 <!---
 Getting started
 ======
