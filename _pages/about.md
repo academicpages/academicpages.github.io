@@ -39,13 +39,11 @@ Contact
 
 Publications
 ====
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {{ post.title }}
-{% endfor %}
-
+{% endfor %} -->
 {% for post in site.publications reversed %}
   <h2 class="archive__item-title" itemprop="headline">
-      second test
       {% if post.link %}
         <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
