@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Chenyang Gu's Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Chenyang Gu"
 description              : &description "personal description"
 url                      : https://gaystarc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "gcy.png"
   name             : "Chenyang Gu"
-  pronouns         : # example: "she/her"  
-  bio              : "Just Do it"
-  location         : "China"
+  pronouns         : "he" # example: "she/her"  
+  bio              : "To Be Gentle and Kind. "
+  location         : "Beijing China"
   employer         : "Peking University"
   uri              : # URL
   email            : "2200012974@stu.pku.edu.cn" 
