@@ -39,10 +39,6 @@ Contact
 
 Publications
 ====
-<!-- {% for post in site.publications reversed %}
-  {{ post.title }}
-  z
--->
 {% for post in site.publications reversed %}
   <div class="archive__item">
     <h2 class="archive__item-title" itemprop="headline">
