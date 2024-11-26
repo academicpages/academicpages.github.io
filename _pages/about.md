@@ -40,7 +40,7 @@ Contact
 Publications
 ====
 {% for post in site.publications reversed %}
-  {% post.title $}
+  <h2>{{ post.title }}</h2>
 {% endfor %}
 
 <!---
