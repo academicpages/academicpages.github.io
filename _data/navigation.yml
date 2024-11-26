@@ -4,6 +4,6 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:  
+main:
   - title: "CV"
-    url: /files/Resume_James_X_Ta
+    url: /cv/
