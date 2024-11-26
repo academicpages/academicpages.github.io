@@ -43,6 +43,16 @@ Publications
   {{ post.title }}
 {% endfor %}
 
+{% for post in site.publications reversed %}
+  <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      {% endif %}
+  </h2>
+{% endfor %}
+
 <!---
 Getting started
 ======
