@@ -50,11 +50,14 @@ author_profile: true
 
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/), will be presented at APSA 2024)
-- Explaining the success of opposition coalitions against autocrats. *journal article* (will be presented at APSA 2024) 
+- Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/), presented at APSA 2024)
+- Unseating Autocratizing Leaders: Electoral Success and Opposition Coalitions in Backsliding Democracies. *journal article* (will be presented at MPSA 2025) 
  
 ### Work-In-Progress
+- Authoritarian control through trusteeship: The case of Kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en))
+- Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
+- Partisanship, political knowledge, and impeachment attitudes in the US. *journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia)) 
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
-- Can peace survive the party-state? (with Carrie Manning) *journal article*
+- Can peace survive the party-state? *journal article* (with Carrie Manning)
