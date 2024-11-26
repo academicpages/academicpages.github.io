@@ -1,6 +1,6 @@
 ---
 title: "Sperm cell tracking and classification"
-excerpt: "Hackathon project for temporal analysis of sperm movement patterns from video data. <br/><img src='/images/MD.png'>"
+excerpt: "Hackathon project for temporal analysis of sperm movement patterns from video data. <br/><img src='/images/Sperm.png'>"
 collection: portfolio
 ---
 
