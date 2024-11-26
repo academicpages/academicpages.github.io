@@ -1,5 +1,5 @@
 ---
-title: "First paper"
+title: "SRSMM"
 collection: publications
 permalink: /publication/2024-11-signal-recovery
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'

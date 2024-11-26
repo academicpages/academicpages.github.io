@@ -43,7 +43,6 @@ Publications
   {{ post.title }}
   <span class="bullet">&#8226;</span> <!-- Bullet Point -->
 
-{% endfor %} -->
 {% for post in site.publications reversed %}
   <div class="archive__item">
     <h2 class="archive__item-title" itemprop="headline">
