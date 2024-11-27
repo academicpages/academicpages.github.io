@@ -4,3 +4,4 @@ _code/.ipynb_checkpoints
 .DS_Store
 assets/.DS_Store
 ._config.yml.swp
+node_modules/

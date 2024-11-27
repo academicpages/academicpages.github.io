@@ -24,6 +24,8 @@
 
     <div class="initial-content">
       {{ content }}
+      <!-- Add the Bluesky comments div here, inside the content area -->
+      <div id="bluesky-comments"></div>
     </div>
 
     {% if site.search == true %}
@@ -114,5 +116,19 @@ function displayPageViews() {
 
     <!-- Claude says to Add this line to include custom.js -->
     <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
+
+    <!-- Bluesky Comments Scripts -->
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/bluesky-comments@latest/dist/bluesky-comments.umd.js"></script>
+    
+    <!-- Bluesky Comments Initialization -->
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+       if (document.getElementById('bluesky-comments')) {
+         initBlueskyComments('bluesky-comments', { author: 'angadhn.com' });
+       }
+     });
+    </script>
   </body>
 </html>

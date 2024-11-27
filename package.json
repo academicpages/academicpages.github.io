@@ -31,5 +31,8 @@
     "add-banner": "node banner.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify && npm run add-banner"
+  },
+  "dependencies": {
+    "bluesky-comments": "^0.4.0"
   }
 }
