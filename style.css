@@ -1,0 +1,106 @@
+/* Resetting default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body and general layout */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #C5C6C7;
+  color: black;
+  padding: 30px;
+
+  text-align: center;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+header p {
+  font-size: 18px;
+}
+
+/* Section Styles */
+.section {
+  background-color: white;
+  margin-top: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+ 
+}
+
+h2 {
+  font-size: 24px;
+  color: #4CAF50;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 10px;
+  margin-bottom: 24px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  margin-bottom: 10px;
+   text-indent: 50px;
+    line-height: 1.6;
+
+}
+ol li {
+  margin-bottom: 10px;
+line-height: 1.6;
+padding-left: 15px;
+   
+
+}
+
+/* Contact Info */
+.contact-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.contact-item i {
+  margin-right: 10px;
+  font-size: 20px;
+  color: #4CAF50;
+}
+
+.contact-item a {
+  text-decoration: none;
+  color: #333;
+}
+
+.contact-item a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #333;
+  color: white;
+  margin-top: 40px;
+}
+
+footer p {
+  font-size: 14px;
+}
+
