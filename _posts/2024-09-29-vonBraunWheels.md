@@ -1,7 +1,6 @@
 ---
 title:  "Some Space Stations in Fiction and Reality"
 date:   2024-09-29 14:30:00
-comments: true
 categories:
   - Large Space Stations
   - Space Exploration
