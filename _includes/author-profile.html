@@ -28,7 +28,7 @@
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li class="author__desktop"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}</li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -58,6 +58,9 @@
       {% endif %}                        
       {% if author.researchgate %}
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i>ResearchGate</a></li>
+      {% endif %}
+      {% if author.scopus %}
+        <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
       <!-- Font Awesome icons / Repositories and software development -->
@@ -106,7 +109,7 @@
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram icon-pad-right" aria-hidden="true"></i>Instagram</a></li>
       {% endif %}      
       {% if author.lastfm %}
-        <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm icon-pad-right" aria-hidden="true"></i>Last.fm</a></li>
+        <li><a href="https://last.fm/user/{{ author.lastfm }}"><i class="fab fa-fw fa-lastfm icon-pad-right" aria-hidden="true"></i>Last.fm</a></li>
       {% endif %}      
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
@@ -148,10 +151,10 @@
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing icon-pad-right" aria-hidden="true"></i>XING</a></li>
       {% endif %}
       {% if author.youtube %}
-        <li><a href="https://www.youtube.com/user/{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
+        <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
       {% if author.zhihu %}
-      <li><a href="{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
+      <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
     </ul>
   </div>

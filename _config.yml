@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -38,6 +38,7 @@ author:
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -71,8 +72,16 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # URL
+  zhihu            : # Username
 
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'    
+  conferences:
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -152,23 +161,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -198,7 +210,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -214,7 +226,7 @@ collections:
     permalink: /:collection/:path/
 
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
   # _posts
   - scope:
@@ -281,22 +293,23 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
+  - jemoji
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jemoji
 
 
