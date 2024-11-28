@@ -84,7 +84,7 @@ redirect_from:
   <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>Trust barriers have long constrained trade among businesses, particularly in contexts with weak contract enforcement. This project examines the potential of digital contracts—self-executing agreements written as lines of code with predefined terms—to address these challenges. In collaboration with Senegal’s largest payment company, I will pilot new digital contract designs, including systems that track and share suppliers’ transaction histories. By enabling suppliers to signal reliability and allowing buyers to update beliefs about supplier quality, these tools can foster trust and improve transaction efficiency. Guided by reputation-building models, the study will assess the impact of digital contracts on key trade outcomes, such as transaction volumes and relationship duration.</p>
+            <p>Trust barriers have long constrained trade among businesses, particularly in contexts with weak contract enforcement. This project examines the potential of digital contracts—self-executing agreements written as lines of code with predefined terms—to address these challenges. In collaboration with Senegal’s largest payment company, I will pilot new digital contract designs guided by reputation-building models, including systems that track and share suppliers’ transaction histories. By enabling suppliers to signal reliability and allowing buyers to update beliefs about supplier quality, these tools can foster trust and improve transaction efficiency. The study will assess the impact of digital contracts on key trade outcomes, such as transaction volumes and relationship duration.</p>
         </div>
     </details>
 
