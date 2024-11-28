@@ -22,7 +22,7 @@ redirect_from:
 
 <div class="profile-info">
   I am on the <strong>2024-25 Academic Job Market</strong>.<br>
-  <a href="https://economics.mit.edu/sites/default/files/2024-11/CV_jmp_houeix_3.pdf">[Access my CV here]</a> - 
+  <a href="https://economics.mit.edu/sites/default/files/2024-11/CV_jmp_houeix_4.pdf">[Access my CV here]</a> - 
   <a href="mailto:houeix@mit.edu">houeix@mit.edu</a>
 </div>
 
@@ -84,7 +84,7 @@ redirect_from:
   <details>
         <summary>Abstract</summary> 
         <div class="abstract-content">
-            <p>Trust barriers have long constrained trade among businesses, particularly in contexts with weak contract enforcement. This project examines the potential of digital contracts—self-executing agreements written as lines of code with predefined terms—to address these challenges. In collaboration with Senegal’s largest payment company, I will pilot new digital contract designs guided by reputation-building models, including systems that track and share suppliers’ transaction histories. By enabling suppliers to signal reliability and allowing buyers to update beliefs about supplier quality, these tools can foster trust and improve transaction efficiency. The study will assess the impact of digital contracts on key trade outcomes, such as transaction volumes and relationship duration.</p>
+            <p>Trust barriers have long constrained trade among businesses, especially in contexts with weak contract enforcement. This project explores the potential of digital contracts—self-executing agreements embedded in code with predefined terms—to address these challenges. In collaboration with Senegal’s largest payment company, I will pilot new digital contract designs guided by reputation-building models, including systems that track and share suppliers’ transaction histories. By enabling suppliers to signal reliability and allowing buyers to update their beliefs about supplier quality, these tools aim to foster trust and improve transaction efficiency. The study will evaluate the impact of digital contracts on key trade outcomes, such as transaction volumes, relationship duration, and overall business growth.</p>
         </div>
     </details>
 
