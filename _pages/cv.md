@@ -13,9 +13,9 @@ redirect_from:
 
 Education
 ======
-* Jun. 2019 - Jun. 2021, Joint Postdoc of Sensetime and Shenzhen Institutes of Advanced Technology, CAS. Cooperative mentor: [Prof. Yu Qiao](http://people.ucas.edu.cn/~qiao) and [Dr. Junjie Yan](https://yan-junjie.github.io/)
+<!-- * Jun. 2019 - Jun. 2021, Joint Postdoc of Sensetime and Shenzhen Institutes of Advanced Technology, CAS. Cooperative mentor: [Prof. Yu Qiao](http://people.ucas.edu.cn/~qiao) and [Dr. Junjie Yan](https://yan-junjie.github.io/)
   * AAAI'21 paper, [SSN3D: Self-separated network to align parts for 3D convolution in video person re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/16262)
-  * Report, [A Study on the Optimization of Video Person Re-Identification](https://github.com/shockjiang/public-data/blob/main/doc/video-reid_postdoc_ppt.pdf)
+  * Report, [A Study on the Optimization of Video Person Re-Identification](https://github.com/shockjiang/public-data/blob/main/doc/video-reid_postdoc_ppt.pdf) -->
 
 * Aug. 2010 - Jun. 2016, Ph.D., Tsinghua University, Department of Computer Science & Technology
   - Excellent Graduate of CS Department: I published 17 peer-reviewed papers in the field of computer networking during my Ph.D. program, and 9 of them are first author papers. I also contribute to important scientific projects, including 863 projects, etc.
@@ -35,12 +35,10 @@ Education
 Work experience
 ======
 * 2022 - now, [IDEA](https://www.idea.edu.cn/research/cvr.html), Senior CV Researcher
-  * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model
-    * [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
-    * [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
-    * [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
-    * patent: waiting for release
-  * Keypoint detection, waiting for release
+  * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model, keypoint detection, etc.
+    * Report, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
+    * Report, [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
+    * Blog, [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
   * 3D reconstruction and Novel View Synthesis:
     * paper: [DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction](https://kenkunliu.github.io/DIG3D/)
     * paper: [UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction](https://kenkunliu.github.io/UniG/)
@@ -52,13 +50,16 @@ Work experience
       * Optics and Lasers in Engineering (2023) paper, [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179)
     * Defect Detection in Automobile Smart Manufacturing
   * 6D pose estimation for robotic manipulation
-    * CVPR 2022(oral) paper, [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
+    * CVPR'22 oral paper, [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
+    * AISTATS'23 paper, [Uni6Dv2: Noise Elimination for 6D Pose Estimation](https://arxiv.org/abs/2208.06416)
+  * Person Reidentification
+    *  AAAI'21 paper, [SSN3D: Self-separated network to align parts for 3D convolution in video person re-identification](https://ojs.aaai.org/index.php/AAAI/article/view/16262)
   * AI automiation in Transportation System
-
 * 2016 - 2018, [Kandao technology](https://www.kandaovr.com/), Senior Engineer. I was awarded the "Excellent Employee of Kandao" in 2017, and worked on the following topics:
-  * VR Video Streaming Optimization
+  * VR Video Streaming Optimization and Video Content Delivery and Distribution (CDN) System
     * SIGCOMM'18 VR Workshop paper: [Smart Streaming of Panoramic Video](https://dl.acm.org/doi/pdf/10.1145/3229625.3229628)
-  * VR Video Content Delivery and Distribution (CDN) System
+    * patents (China and US): [Panoramic video picture quality display method and device](../files/US11533469B2.pdf)
+    * patents (China and US): [Method and device for picture quality assessment after dynamic panoramic video stream cropping](../files/US11438651B2.pdf)
 
 Skills
 ======
