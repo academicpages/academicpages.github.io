@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic_harshul.jpg"
+  avatar           : "pic_harshul.png"
   name             : "Harshul Malik"
   pronouns         : "he/him"  
   bio              : "Data Science Enthusiast"
