@@ -22,4 +22,3 @@ I always wanted to do one of those visual resumes. Here is a work in progress us
 ![tempcvvis10y](https://lonsbio.github.io/lonsbio.com.au/images/tempcvvis10y.png)
 
 For more details on previous employment and experiences, please check out [LinkedIn](https://www.linkedin.com/in/andrew-lonsdale-20a771114).
-
