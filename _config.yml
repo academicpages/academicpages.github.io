@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic_Harshul.jpg"
+  avatar           : "images/pic_harshul.jpg"
   name             : "Harshul Malik"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"  
   bio              : "Data Science Enthusiast"
   location         : "New Delhi, India"
-  employer         : "Indian Institute of Technology Delhi"
+  employer         : "IIT Delhi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "harshul3010@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
