@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "pic_Harshul.jpg"
+  name             : "Harshul Malik"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Science Enthusiast"
+  location         : "New Delhi, India"
+  employer         : "Indian Institute of Technology Delhi"
   uri              : # URL
   email            : "none@example.org" 
 
