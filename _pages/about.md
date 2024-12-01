@@ -26,7 +26,7 @@ J. K. Mandivarapu, **A. Erol**, T. Padhi, G. Kumar, C. R. Larrison, U. Kursuncu
 
 Selected Honors and Awards
 ======
-- Bilkent University Comprehensive Scholarship: Full tuition waiver \& stipend during the B.Sc. Program.
+- Bilkent University Comprehensive Scholarship: Full tuition waiver & stipend during the B.Sc. Program.
 - 2023 Ranked 18th in the Academic Personnel and Postgraduate Education Entrance Exam (ALES) among 150 thousand applicants in Turkey.
 - 2017 Ranked 934th in the Nationwide University Entrance Exam (LYS) among 2 million students
 - 2017 Ranked 1st in Yozgat Şehitler Science High School, GPA: 97.6/100
