@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "images/photo.png"
   name             : "Abdulkadir Erol"
   pronouns         : # example: "she/her"  
   bio              : "MSc Student"
