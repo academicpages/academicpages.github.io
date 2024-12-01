@@ -11,6 +11,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+## Undergraduate - Intermdediate Macroeconomics ##
+*2023- NYUAD*
+
+Lecturer
+
+## Graduate - Macroeconomics ##
+*2023-2024, NYUAD*
+
+Lecturer
+
 ## Graduate - Macroeconomics 2 ##
 *2017-2021, Sciences Po Paris*
 

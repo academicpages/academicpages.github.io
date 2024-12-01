@@ -24,10 +24,9 @@ author_profile: true
 ### Should monetary policy care about redistribution? Optimal fiscal and monetary policy with heterogeneous agents ###
 With François Le Grand and Xavier Ragot. 
 
-[Draft](https://alais-martinbaillon.github.io/files/Manuscript_Martin_Baillon_Le_Grand_Ragot.pdf). Revision requested at the Review of Economic Studies.
+[Draft](https://alais-martinbaillon.github.io/files/LMR_OptimalMonetary.pdf).  R\&R Economic Studies (2nd round).
 
-We derive optimal monetary policy in a heterogeneous-agent economy with nominal frictions and aggregate shocks, considering three assumptions about fiscal policy. First, when time-varying linear taxes on capital and labor can be optimally set, we theoretically prove that optimal monetary policy implements price stability. This implies that monetary policy should focus on ensuring price stability and let fiscal policy deal with redistribution. Second, using both a sequence of simple models and a quantitatively relevant setup, we show that under a standard calibration, the optimal inflation volatility remains low – but positive – when tax rates are constant, and that it tends towards zero when we allow for simple time-varying exogenous tax rates. Third, we consider a constrained-optimal fiscal policy, in which we fix some fiscal tools and let the others be optimally set. We then find that the optimal inflation volatility is also close to zero. In all three cases we find that fiscal policy is more efficient than monetary policy to provide insurance against aggregate shocks.
-
+We derive optimal monetary policy in a heterogeneous-agent economy with nominal frictions and aggregate shocks. We analyze the model with either sticky prices or sticky wages, and different assumptions about fiscal policy. In the sticky-price economy, when fiscal policy is optimally set, optimal monetary policy implements price stability. Inflation volatility remains low when fiscal policy follows empirically relevant rules, except when the slope of the Phillips curve is large and when the distribution of profits is tilted toward high-productive agents. In the sticky-wage economy, optimal price inflation is much more volatile, but wage inflation stays very small. Under both assumptions regarding rigidity, the lower the productivity of agents, the more they benefit from optimal monetary policy.
 
 ## Work in Progress ##
 
@@ -42,3 +41,11 @@ Corporate fiscal policy over the business cycle is carried out in very different
 
 
 How to stimulate aggregate investment? There are different transmission channels from macroeconomic policies to firm’s investment. Changes in firms’ income is an important one. Therefore, designing efficient counter-cyclical policies requires an understanding of how changes in firms’ income translate into changes in firms’ investment and which firms are the most responsive to such policies. In this paper, I use a new method to estimate firms’ marginal propensities (MPIs) to invest out of a transitory liquid income shock. I use a semi-structural method developed in the household literature and I show that this method can overcome difficulties encountered in previous estimations. I also investigate MPIs heterogeneity across firms. I show that firms’ MPIs are positive and significantly different from 0. On average, firms use 14.4% of the change in current income caused by a transitory income shock to invest. Moreover, firms that face financial constraints and/or firms that face liquidity constraints have higher MPIs than the ones that don’t. Finally, I show that MPIs are very heterogeneous across sectors.
+
+
+### Do firm heterogeneous expectations drive misallocation? ###
+With Erwan Gautier and Paul Hubert. 
+
+
+### The Heterogeneous Effects of Bank Losses? ###
+With John Kramer and Tobias Renkin. 
