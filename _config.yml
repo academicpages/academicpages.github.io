@@ -21,10 +21,10 @@ repository               : "Mambacita0224/Mambacita0224.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "yuhang.jpg"
+  avatar           : # "yuhang.png"
   name             : "Yuhang Zeng（曾语航）"
   pronouns         : # example: "she/her"  
-  bio              : # "Short biography for the left-hand sidebar"
+  bio              :  "A year 4 undegrad majoring in Data Science and Technology and Computer Science"
   location         : "Hong Kong SAR"
   employer         : "Hong Kong University of Science and Technology"
   uri              : # URL
