@@ -15,13 +15,16 @@ Here is a link to my CV.
 
 Publications
 ======
-Playing Devil’s Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models  
-**A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu  
+Playing Devil’s Advocate: Unmasking Toxicity and Vulnerabilities in Large Vision-Language Models
+
+**A. Erol**, T. Padhi, A. Saha, M. E. Aktas, U. Kursuncu
+
 *Under Submission*  
 
 Examining Large Language Models: A Comprehensive Assessment from a Mental Health Lens
-(, To be submitted to JMIR Mental Health Research)
+
 J. K. Mandivarapu, **A. Erol**, T. Padhi, G. Kumar, C. R. Larrison, U. Kursuncu
+
 *Under Preparation, arXiv preprint coming soon* 
 
 Selected Honors and Awards
