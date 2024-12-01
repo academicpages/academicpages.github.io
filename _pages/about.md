@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "( ^_^)／ Hello dear reader, I'm Kadir"
+title: "🙃 Hello dear reader, I'm Kadir"
 author_profile: true
 redirect_from: 
   - /about/
