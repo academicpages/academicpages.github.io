@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Kyle Deeds"
 description              : &description "personal description"
 url                      : https://kylebd99.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/kyle.deeds.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/homepage" # the subpath of your site, e.g. "/blog"
 repository               : "kylebd99/kyle.deeds.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
