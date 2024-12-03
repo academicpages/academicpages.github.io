@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Hello!
 
 My name is Taylor Johnson and I am a graduating senior mechanical engineer at the University of Florida and a thermal sciences R&D intern at Sandia National Labs' National Solar Thermal Test Facility (NSTTF). My work focuses on developing scalable, cost-effective energy storage systems to support a renewable-powered future. I specialize in high-temperature thermal energy storage (TES), alternative hydrogen production, and machine learning applications for energy sustainability.
