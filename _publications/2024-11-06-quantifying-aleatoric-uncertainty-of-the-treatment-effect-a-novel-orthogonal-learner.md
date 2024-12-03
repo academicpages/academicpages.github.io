@@ -6,6 +6,7 @@ date: 2024-11-06
 excerpt: "![diffpo](/images/au-learner.png){: style='float: left; height: 100px'}"
 arxiv: 'https://arxiv.org/abs/2411.03387'
 code: 'https://github.com/Valentyn1997/AU-CNFs'
+poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95190.png?t=1733231196.8165712'
 venue: NeurIPS
 ---
 
