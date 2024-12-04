@@ -1,6 +1,6 @@
 ---
 title: "Google analytics sales prediction"
-excerpt: "Use machine learning Xgboost to predict google analytics sales<br/><img src='/images/portfolio_ai_3_xgboost.png'>"
+excerpt: "Use machine learning Xgboost to predict google analytics sales<br/><img src='https://github.com/jvilchesf/portfolio.github.io/blob/main/images/portfolio_ai_3_xgboost.png?raw=true'>"
 collection: portfolio
 ---
 
