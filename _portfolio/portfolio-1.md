@@ -1,6 +1,6 @@
 ---
 title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='https://github.com/jvilchesf/portfolio.github.io/blob/main/images/portfolio_ai_1_tranformers.png'>"
+excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_ai_1_tranformers.png'>"
 collection: portfolio
 ---
 
