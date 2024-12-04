@@ -1,6 +1,6 @@
 ---
 title: "House Prices"
-excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='/images/portfolio_ai_5_housePricing.png'>"
+excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_ai_5_housePricing.png'>"
 collection: portfolio
 ---
 
