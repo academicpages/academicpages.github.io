@@ -1,6 +1,6 @@
 ---
 title: "Convolutional Neuronal Network"
-excerpt: "Creation of CNN ot categorize pictures<br/><img src='/images/portfolio_ai_2_cnn.png'>"
+excerpt: "Creation of CNN ot categorize pictures<br/><img src='https://github.com/jvilchesf/portfolio.github.io/blob/main/images/portfolio_ai_2_cnn.png'>"
 collection: portfolio
 ---
 
