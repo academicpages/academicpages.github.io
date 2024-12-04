@@ -1,6 +1,6 @@
 ---
 title: "Digit Recognizer"
-excerpt: "Deep learning keras tensorflow for image classification.<br/><img src='/images/portfolio_ai_4_digitRecognition.png'>"
+excerpt: "Deep learning keras tensorflow for image classification.<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_ai_4_digitRecognition.png'>"
 collection: portfolio
 ---
 
