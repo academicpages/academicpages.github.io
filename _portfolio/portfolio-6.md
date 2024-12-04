@@ -1,6 +1,6 @@
 ---
 title: "Titanic: Machine Learning from Disaster"
-excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='/images/portfolio_ai_6_titanic.png'>"
+excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_ai_6_titanic.png'>"
 collection: portfolio
 ---
 
