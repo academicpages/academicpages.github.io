@@ -12,7 +12,7 @@ I am a fourth-year undergrad from the [School of International Studies](https://
 
 My undergrad thesis is about methamphetamine (meth) trafficking in China. This project will be descriptive research based on open-access sentencing documents. I aim to present a dynamic of meth imports and implement network analysis and descriptive statistics to provide a comprehensive examination of meth trafficking, including the pattern of geographic routes and the demographic characteristics of captured trafficking offenders. This project is supervised by [Dr. Tracey Fallon](https://research.nottingham.edu.cn/en/persons/tracey-fallon).
 
-You can find my CV here: [Zhengting's Curriculum Vitae](pdf)
+You can find my CV here: [Zhengting's Curriculum Vitae](../assets/CV_Zhengting_HE.pdf)
 
 
 
