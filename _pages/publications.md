@@ -19,13 +19,14 @@ author_profile: true
 
 -  **<u>Kazuki Yamauchi</u>**, Wataru Nakata, Yuki Saito, and Hiroshi Saruwatari<br>
 **Decoding Strategy with Perceptual Rating Prediction for Language Model-Based Text-to-Speech Synthesis**<br>
-Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and Sound Generation, Dec. 2024. (Accepted)<br>
+Audio Imagination: NeurIPS 2024 Workshop on AI-Driven Speech, Music, and Sound Generation, Dec. 2024. \[Poster presentation\]<br>
+\[[paper](https://openreview.net/pdf?id=7gki9ehY8t)\] \[[demo](https://kyamauchi1023.github.io/BOK-PRP/)\] \[[poster](/files/yamauchi24neurips_poster.pdf)\]
 
 
 -  **<u>Kazuki Yamauchi</u>**, Yuki Saito, and Hiroshi Saruwatari<br>
 **Cross-Dialect Text-To-Speech in Pitch-Accent Language Incorporating Multi-Dialect Phoneme-Level BERT**<br>
-IEEE Spoken Language Technology Workshop (**IEEE SLT**), Dec. 2024. (Accepted)<br>
-\[[arXiv](https://arxiv.org/abs/2409.07265)\] \[[demo](https://kyamauchi1023.github.io/yamauchi24slt/)\]
+IEEE Spoken Language Technology Workshop (**IEEE SLT**), Dec. 2024. \[Poster presentation\]<br>
+\[[arXiv](https://arxiv.org/abs/2409.07265)\] \[[demo](https://kyamauchi1023.github.io/yamauchi24slt/)\] \[[poster](/files/yamauchi24slt_poster.pdf)\]
 
 
 -  **<u>Kazuki Yamauchi</u>**, Yusuke Ijima, and Yuki Saito<br>
@@ -76,4 +77,5 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 **UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
 Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge, Mar. 2024.<br>
 🎉 **Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
-\[[arXiv](https://arxiv.org/abs/2403.13720)\] \[[code](https://huggingface.co/sarulab-speech/UTDUSS-Vocoder)\]
+Presented at Recent Breakthrough session in IEEE SLT, Dec. 2024. \[Poster presentation\]<br>
+\[[arXiv](https://arxiv.org/abs/2403.13720)\] \[[code](https://huggingface.co/sarulab-speech/UTDUSS-Vocoder)\] \[[poster](/files/utduss24slt_poster.pdf)\]
