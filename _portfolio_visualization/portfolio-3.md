@@ -1,6 +1,6 @@
 ---
 title: "Sales dashboard"
-excerpt: "Dashboard to follow daily subscription sales<br/><img src='/images/portfolio_viz_3_lookerStudio_Uprofit.png'>"
+excerpt: "Dashboard to follow daily subscription sales<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_3_lookerStudio_Uprofit.png'>"
 collection: portfolio
 ---
 
