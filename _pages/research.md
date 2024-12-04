@@ -13,7 +13,7 @@ Abstract: *We investigate how a reduction in informational voting costs affects 
 - **"A Waiting Game: The Effect of Electoral Irregularities in the 2021 Berlin Elections on Voter Behavior"** <br>
 Abstract: *I investigate the causal effects of administrative failures on voter turnout and choices, using irregularities in some precincts during the 2021 Berlin elections as a quasi-natural experiment. These elections were affected by significant disruptions, including widespread delays, incorrect and missing ballots, and long waiting times. Utilizing administrative data on the postal precinct level, I find that irregularities led to a 1.2 percentage-point decrease in voter turnout, with the effects persisting over three years and multiple elections. The negative impact was disproportionately larger among voters with migrant backgrounds. The analysis also reveals varied impacts depending on the type of irregularity. Additionally, the study highlights partisan consequences, with opposition parties, especially center-left parties, experiencing significant losses, while the governing party and right-wing populists were unaffected. The results suggest that preventing administrative failures could enhance voter turnout and participation, particularly among marginalized groups, thereby strengthening democratic integrity.*
 
-- **"Polarizing the Polls: Candidate Ideology and Electoral Engagement"** (with [V. Lindlacher](http://www.lindlacher.com/) & with [K. Lehmann](https://www.ifo.de/lehmann-k)) [Conceptualization]
+- **"Polarizing the Polls: Candidate Ideology and Electoral Engagement"** (with [V. Lindlacher](http://www.lindlacher.com/) & [K. Lehmann](https://www.ifo.de/lehmann-k)) [Conceptualization]
 
 
 ### Policy Papers
