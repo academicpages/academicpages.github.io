@@ -1,6 +1,6 @@
 ---
 title: "Average rent prices in Ireland"
-excerpt: "Dashboard of historical Average Rent Prices Ireland<br/><img src='/images/portfolio_viz_1_tableau_Ireland.png'>"
+excerpt: "Dashboard of historical Average Rent Prices Ireland<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_1_tableau_Ireland.png'>"
 collection: portfolio
 ---
 
