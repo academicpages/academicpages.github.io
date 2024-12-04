@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Sales dashboard"
+excerpt: "Dashboard to follow daily subscription sales<br/><img src='/images/portfolio_viz_3_lookerStudio_Uprofit.png'>"
 collection: portfolio
 ---
 

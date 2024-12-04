@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Average rent prices in Ireland"
+excerpt: "Dashboard of historical Average Rent Prices Ireland<br/><img src='/images/portfolio_viz_1_tableau_Ireland.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Quality control project monitoring"
+excerpt: "Dashboard to follow project complete metrics<br/><img src='/images/portfolio_viz_2_lookerStudio_QC.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "House Prices"
+excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='/images/portfolio_ai_5_housePricing.png'>"
 collection: portfolio
 ---
 

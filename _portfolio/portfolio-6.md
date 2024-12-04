@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Titanic: Machine Learning from Disaster"
+excerpt: "EDA + XGBOOST toy project to deep into Machine learning.<br/><img src='/images/portfolio_ai_6_titanic.png'>"
 collection: portfolio
 ---
 

@@ -1,49 +1,50 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there, I'm José Miguel Vilches 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## Here is a brief introduction about myself.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hello,
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I'm a computer science engineer with over 10 years of experience, primarily focused on data. I'm a curious, enthusiastic, and easy-going person who is always seeking new challenges. Throughout my career, I've developed a strong attention to detail and resilience against frustration, which have helped me continuously learn and adapt in an ever-evolving field.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+A Brief Overview of My Career:
 
-Site-wide configuration
+Getting My First Job 📦 🎉
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I began my career at a consulting firm in 2013, working as a developer and analyst. This role involved a variety of tasks, primarily focused on developing web applications and managing databases. I learned Java and Oracle SQL to work on projects for one of the company's main clients, Banco Falabella (a bank).It was a very demanding experience. I worked many hours each week, and I think that I learned in three years what I should have learned in six.
 
-Create content & metadata
+Changing My Developer Path 🔄 💻
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+After some time, I aspired to become part of the bank itself. I applied for a position at Banco Falabella and was successful. My new role was completely different, focusing on extracting information from databases to provide to my five commercial coworkers, enabling them to update and send reports to various departments. This transition required me to shift my computer science skills from working with developers to collaborating with commercial teams. Adapting my communication style greatly helped me develop a business-oriented vision and realize that everything I worked on had a purpose beyond just coding.
 
-**Markdown generator**
+My main tasks included maintaining and creating new database processes to deliver data to my coworkers, who then generated reports in Excel. As a computer scientist, this was crazy for me. However, it was during this time that data visualization tools emerged in my career. I began creating Power BI dashboards on my own and demonstrated to my supervisors how effective and easy it was to create and share dashboards. Although I was still new and didn't fully understand how to implement changes in a large company, my persistence paid off. This successful year led me to a new position in the business intelligence area.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+Business Intelligence 📊 🧠
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+I transitioned to the business intelligence department, specifically within the Data Visualization team. Here, we created dashboards for various commercial teams, including credit cards, debit cards, credit, mortgages, and more. During this period, I gained valuable experience in managing commercial requirements and understanding available data, what was possible to achieve, and what might require additional effort.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Sometimes, creating a sales dashboard was straightforward because the data was readily available. Other times, it was challenging to acquire new data or create processes to pull CSV files from different departments to add new columns to the dashboard. At this stage, everything was handled using Oracle and SPSS Modeler as an ETL tool.
 
-For more info
+The positive aspect was that the bank aimed to become a data-driven decision-making company, so they migrated everything to Google Cloud Platform (GCP). This transition allowed me to see the magic of updating 100 million rows in one minute instead of 40 minutes. The bank created a new division called "Data Factory," with a regional focus on Chile, Peru, and Colombia, and the data visualization area was moved there.
+
+Regional Data Visualization Role 🌍 📈 
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+In this role, the department's goals shifted. We began working with both Tableau and Power BI, each serving different purposes. Power BI was used for older, more static reports, while Tableau was the new tool promoted by the department. The main idea was to enable self-service for the various commercial departments. Our primary tasks were to teach them how to use Tableau and administer the Tableau server, ensuring that data sources were updated with the necessary data.
+
+With this new approach, we focused on creating new BigQuery database processes to make data available for them to explore and perform their own analyses.
+
+Pause in My Career ⏸️ 📅
+------
+After COVID-19, I felt a bit stagnant in my role and wanted to learn new skills, my lack of English made it difficutl. I decided to leave my job and traveled to Ireland to improve my English. I spent almost a year attending English classes and seeking new opportunities for growth. During this time, I realized the explosive growth in the field of AI and wanted to be a part of it. I began working as a freelancer while simultaneously studying machine learning, deep learning, and Generative AI. Over the past year, I've earned certificates, created my own projects, and worked towards securing a position in the AI field, I felt enchanted once again by my career.
+
+Freelancer 🧑‍💻 🌟
+------
+Over the past year, I've worked on various projects, one of which has lasted over eight months, primarily in the data visualization field. Thanks to my intensive Python training, my main approach has been to read, organize, and load data using Python before creating visualizations in Tableau, Power BI, or Looker Studio, depending on the client's needs and environment. Most of the time, I've worked with Google tools, but I also have experience with Microsoft Fabric.
+
+**Thank you for taking the time to learn about my journey. I'm excited about the opportunities ahead and look forward to contributing my skills and passion to new challenges in the data and AI fields!**

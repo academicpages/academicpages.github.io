@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Convolutional Neuronal Network"
+excerpt: "Creation of CNN ot categorize pictures<br/><img src='/images/portfolio_ai_2_cnn.png'>"
 collection: portfolio
 ---
 

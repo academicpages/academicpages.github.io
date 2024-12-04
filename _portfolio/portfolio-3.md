@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Google analytics sales prediction"
+excerpt: "Use machine learning Xgboost to predict google analytics sales<br/><img src='/images/portfolio_ai_3_xgboost.png'>"
 collection: portfolio
 ---
 

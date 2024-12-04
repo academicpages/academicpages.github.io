@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "NTY Real states"
+excerpt: "Dashboard to show real states in New York<br/><img src='/images/portfolio_viz_4_tableau_nyrealstates.png'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Rate prices telephone company"
+excerpt: "Dashboard to follow different cost providers<br/><img src='/images/portfolio_viz_5_lookerStudio_telephone.png'>"
 collection: portfolio
 ---
 

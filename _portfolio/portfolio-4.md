@@ -1,6 +1,6 @@
 ---
-title: "GPT Transformer"
-excerpt: "Creation Neuronal Network with pytorch and transfomers<br/><img src='/images/portfolio_ai_1_tranformers.png'>"
+title: "Digit Recognizer"
+excerpt: "Deep learning keras tensorflow for image classification.<br/><img src='/images/portfolio_ai_4_digitRecognition.png'>"
 collection: portfolio
 ---
 
