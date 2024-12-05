@@ -11,7 +11,7 @@ redirect_from:
 # About Me
 I am a 4th year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) where I work with Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Misha Belkin](http://misha.belkin-wang.org/). I completed a BSc in Mathematics and Computer Science, followed by a MSc in Computer Science at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/)
 
-Previously, I have held positions as a research scientist intern/fellow at Adobe Research (San Jose, CA), Max Planch Insitute for Software Systems (Germany), and IBM Research (Bengaluru, IN).
+Previously, I have held positions as a research scientist intern/fellow at Adobe Research (San Jose, CA), Max Planck Insitute for Software Systems (Germany), and IBM Research (Bengaluru, IN).
 
 I am broadly interested in both the theory and practice of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and deep learning theory. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<be>
