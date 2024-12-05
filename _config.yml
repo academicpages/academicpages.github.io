@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ata Otaran / My personal webpage"
 title_separator          : "-"
-name                     : &name "Ata Otaran"
+name                     : &name "Dr. Ata Otaran"
 description              : &description "personal description"
 url                      : https://aotaran.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -28,7 +28,7 @@ author:
   location         : "Saarbrücken, Germany"
   employer         : "Saarland University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ata.otaran@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
