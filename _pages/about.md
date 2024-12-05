@@ -7,34 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Ata Otaran. I am a researcher researcher in the field of robotics, virtual reality and haptic interaction. I am interested in developing tangible and interactive physical interfaces that applications such as education, locomotion in virtual reality shape changing interfaces. 
+Hi, I am Ata Otaran. I am a researcher researcher in the field of robotics, virtual reality and haptic interaction. I develop tangible and smart interfaces that can interact with humans and the environment through haptic interaction. I am interested in combining robotics and human perception knowledge to design novel  interfaces. 
 
-A data-driven personal website
+Lately, I have been working on ...
+<!---
+Areas of Interest
 ======
-Something 
+My university education was mainly focused on classical robotics and control theory subjects. I was interested continued on to 
 
-Getting started
+Experience
 ======
 SomethingSomething
 
-Site-wide configuration
-------
+Projects
+======
 SomethingSomethingSomething
 
-Create content & metadata
-------
-SomethingSomethingSomething
-
-**Markdown generator**
-SomethingSomethingSomethingSomething
-
-
-How to edit your site's GitHub repository
-------
-SomethingSomethingSomethingSomething
-
-For more info
-------
-
-SomethingSomethingSomethingSomethingSomethingSomething
+Teaching
+=======
+--->
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
