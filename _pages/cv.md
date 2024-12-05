@@ -38,8 +38,23 @@ Non-teaching part-time work experience
 
 Skills
 ======
-
-
+* Programming
+  * MATLAB & Simulink
+  * C++ & C#
+  * Python
+* Design softwares
+    \item Solidworks, Inventor
+    \item Blender
+    \item Unity
+* Embedded controllers
+  * TI C2000 series
+  * BeagleBone
+  * Arduino
+* Data acquisition devices
+  * NI-DAQ
+  * Quanser
+  * dSPACE
+    
 Publications
 ======
 
