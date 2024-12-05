@@ -11,9 +11,7 @@ redirect_from:
 
 Hello,
 
-I'm a computer science engineer with over 10 years of experience, primarily focused on data. I'm a curious, enthusiastic, and easy-going person who is always seeking new challenges. Throughout my career, I've developed a strong attention to detail and resilience against frustration, which have helped me continuously learn and adapt in an ever-evolving field.
-
-A Brief Overview of My Career:
+I'm a computer science engineer with over 10 years of experience, primarily focused on data. I'm a curious, enthusiastic, and easy-going person who is always seeking new challenges. Throughout my career, I've developed a strong attention to detail and resilience against frustration, which have helped me continuously learn and adapt in an ever-evolving field.  
 
 Getting My First Job 📦 🎉
 ------
