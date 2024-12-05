@@ -21,7 +21,7 @@ repository               : "aotaran/aotaran.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "AtaOtaranProfile.png"
   name             : "Ata Otaran"
   pronouns         : # example: "he/him"  
   bio              : "Researcher in physical human-robot interaction."
