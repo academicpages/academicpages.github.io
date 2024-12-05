@@ -23,7 +23,7 @@ The country of Ireland, where I lived for two years, was going through a housing
 * This diagram is intended to provide an overview of the workflow.
 
 <div style="text-align: center;">
-    <img src="/images/Workflow_diagram.png" alt="Workflow Diagram" width="200" height="200">
+    <img src="https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/Workflow_diagram.png" alt="Workflow Diagram" width="200" height="200">
 </div>
 
 ## Dataset Description and Methodology
@@ -194,15 +194,15 @@ The country of Ireland, where I lived for two years, was going through a housing
 * I used Tableau to create three main visuals to analyze how rent prices have changed over the years:
     * A map visualization to filter data by each county in Ireland.  
 
-    <img src="/images/portfolio_viz_1_TabeauMap.png" alt="Map" width="500" height="600">
+    <img src="https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_1_TabeauMap.png" alt="Map" width="500" height="600">
 
     * A horizontal bar chart to compare the year-over-year differences in average rent prices.
 
-    <img src="/images/portfolio_viz_1_TabeauHorizontalMap.png" alt="Map" width="500" height="600">
+    <img src="https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_1_TabeauHorizontalMap.png" alt="Map" width="500" height="600">
 
     * A text table to display detailed data for each city within each county.
 
-    <img src="/images/portfolio_viz_1_TabeauTextTable.png" alt="Map" width="500" height="600">
+    <img src="https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_1_TabeauTextTable.png" alt="Map" width="500" height="600">
 
 
 ## 6 Results and Insights
