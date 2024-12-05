@@ -9,16 +9,18 @@ redirect_from:
 ---
 
 # About Me
-I am a 4th year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) advised by Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/). I'm also closely collaborating with Prof. [Misha Belkin](http://misha.belkin-wang.org/). Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/adishsingla.html) at [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), where I had the great fortune to be advised by Dr. [Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). 
+I am a 4th year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) where I work with Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Misha Belkin](http://misha.belkin-wang.org/). I completed a BSc in Mathematics and Computer Science, followed by a MSc in Computer Science at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/)
 
-My journey into computer science started at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/), where I completed my BSc in Mathematics and Computer Science (2013-2016) and MSc in Computer Science (2016-2018) under the supervision of Prof. [K Venkata Subrahmanyam](https://www.cmi.ac.in/~kv/).<br>
+Previously, I have held positions as a research scientist intern/fellow at Adobe Research (San Jose, CA), Max Planch Insitute for Software Systems (Germany), and IBM Research (Bengaluru, IN).
 
-I am broadly interested in the theoretical aspects of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and theory of deep learning. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
-the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<br>
+I am broadly interested in both the theory and practice of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and deep learning theory. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
+the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<be>
+
+My recent/ongoing work is on distance functions, generalization in kernel machines, selective classification, and understanding grokking in trained models.
 
 **Contact**: (username id) akk002 at ucsd dot edu
 
-<i> I'm looking for a research/engineer position for summer internship 2025. Please request CV via email. </i>
+<i> I'm looking for a research/engineer position for a summer internship in 2025. Please request a CV via email. </i>
 
 # Recent News
 1. [Dec, 2024] I'll be attending [Unknown Futures of Generalization workshop](https://simons.berkeley.edu/workshops/unknown-futures-generalization) at Simons Institute, UC Berkeley.
