@@ -43,9 +43,9 @@ Skills
   * C++ & C#
   * Python
 * Design softwares
-    \item Solidworks, Inventor
-    \item Blender
-    \item Unity
+  * Solidworks, Inventor
+  * Blender
+  * Unity
 * Embedded controllers
   * TI C2000 series
   * BeagleBone
