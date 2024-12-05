@@ -13,8 +13,12 @@ Education
 ======
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
     * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017
+    * GPA: 3.90/4, (equivalent to 1.10 in Germany)
+    * Thesis: Design and Control of Series Elastic Actuated Educational Devices, Advisor: Prof. Volkan Patoglu
+* B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015
+    * GPA: 3.58\4, (equivalent to 1.42 in Germany)
+    * Thesis: Design and Control of a Ballbot, Advisor: Prof. Volkan Patoglu
 
 Work experience
 ======
