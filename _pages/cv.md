@@ -17,7 +17,7 @@ Education
     * GPA: 3.90/4, (equivalent to 1.10 in Germany)
     * Thesis: Design and Control of Series Elastic Actuated Educational Devices, Advisor: Prof. Volkan Patoglu
 * B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015
-    * GPA: 3.58\4, (equivalent to 1.42 in Germany)
+    * GPA: 3.58/4, (equivalent to 1.42 in Germany)
     * Thesis: Design and Control of a Ballbot, Advisor: Prof. Volkan Patoglu
 
 Academic Work Experience
