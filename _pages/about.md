@@ -16,3 +16,8 @@ Honor
 * Excellent Undergraduate Dissertation, SDU, 2022
 * Loo-Keng Hua Scholarship, AMSS, 2022
 * National Scholarship for Doctoral Students, AMSS, 2024
+
+Publication
+======
+* (2024) Distributed Learning for Principal Eigenspaces without Moment Constraints, JCGS, published online.
+* (2024) Domain Adaptation under Label Shift, Manuscript.
