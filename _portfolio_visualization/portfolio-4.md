@@ -1,6 +1,6 @@
 ---
 title: "NTY Real states"
-excerpt: "Dashboard to show real states in New York<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_4_tableau_nyrealstates.png'>"
+excerpt: "Dashboard to show real states in New York<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_4_tableau_nyrealstates.png' width = 300 height = 300>"
 collection: portfolio
 ---
 

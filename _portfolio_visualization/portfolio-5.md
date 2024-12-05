@@ -1,6 +1,6 @@
 ---
 title: "Rate prices telephone company"
-excerpt: "Dashboard to follow different cost providers<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_5_lookerStudio_telephone.png'>"
+excerpt: "Dashboard to follow different cost providers<br/><img src='https://raw.githubusercontent.com/jvilchesf/portfolio.github.io/refs/heads/main/images/portfolio_viz_5_lookerStudio_telephone.png' width = 300 height = 300>"
 collection: portfolio
 ---
 
