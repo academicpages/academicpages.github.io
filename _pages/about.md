@@ -20,8 +20,6 @@ Experience
 SomethingSomething
 
 Projects
---->
-======
 SomethingSomethingSomething
 
 Teaching
