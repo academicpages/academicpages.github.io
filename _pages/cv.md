@@ -69,4 +69,4 @@ Publications
 - Caliskan, U., Apaydin, A., Otaran, A., & Patoglu, V. (2018, October). A series elastic brake pedal to preserve conventional pedal feel under regenerative braking. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1367-1373). IEEE.
 - Otaran, A., Tokatli, O., & Patoglu, V. (2018, June). HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots. In International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (pp. 564-574). Springer, Cham.
 - Otaran, A. (2017). Design, control and evaluation of educational devices with series elastic actuation (MSc dissertation).
-- A Otaran , O Tokatli and V Patoglu, ”Hands-On Learning with a Series Elastic Educational Robot”, in the Proceedings of the EuroHaptics as Lecture Notes in Computer Science, 2016.
+- Otaran, A., Tokatli, O. and, & Patoglu, V. ”Hands-On Learning with a Series Elastic Educational Robot”, in the Proceedings of the EuroHaptics as Lecture Notes in Computer Science, 2016.
