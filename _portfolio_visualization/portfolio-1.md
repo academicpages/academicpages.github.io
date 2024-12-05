@@ -14,7 +14,7 @@ The country of Ireland, where I lived for two years, was going through a housing
 
 ## Tools and technologies
 
-* To approach this small project I used:
+* To approach this project I used:
     * Python: Using the requests and pandas libraries, I successfully retrieved from a public repository, got geo coordinates and structured the data.
     * Tableau: Using Tableau I created a dashboard to show the data already structured.
 
