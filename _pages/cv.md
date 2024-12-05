@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
-  - Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
+    * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
