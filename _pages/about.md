@@ -19,5 +19,5 @@ Honor
 
 Publication
 ======
-* (2024) Distributed Learning for Principal Eigenspaces without Moment Constraints, JCGS, published online.
+* (2024) Yong He, Zichen Liu and Yalin Wang, Distributed Learning for Principal Eigenspaces without Moment Constraints, JCGS, published online.
 * (2024) Domain Adaptation under Label Shift, Manuscript.
