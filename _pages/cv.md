@@ -19,6 +19,13 @@ Education
 </ul>  
 </details> </p>
 
+<p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
+<ul style="list-style-type:circle">
+  <li> Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</li>
+  <li> Advisor: Dr. Ildar Farkhatdinov </li>
+</ul>  
+</details> </p>
+
 <!--
 <p><details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017 </summary>
 <ul style="list-style-type:circle">
