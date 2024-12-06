@@ -17,8 +17,8 @@ Education
   <li> Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</li>
   <li> Advisor: Dr. Ildar Farkhatdinov </li>
 </ul>  
-</details>
-<br>
+</details> <br>
+
 <details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017</summary></p>
   
 * GPA: 3.90/4 <!--, (equivalent to 1.10 in Germany)-->
