@@ -1,5 +1,9 @@
 # Comprehensive Guide: Running GPU Workloads on Kubernetes
 
+![Kunal Das, Author](https://miro.medium.com/v2/resize:fill:44:44/1*kfaefcgQPHrPsNobjuiiSg.jpeg)
+
+
+
 ![Image](../images/Running%20GPU%20Workloads%20on%20Kubernetes_thumbnail.jpg)
 
 ## Understanding GPU Computing in Kubernetes
