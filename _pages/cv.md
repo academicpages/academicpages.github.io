@@ -18,7 +18,7 @@ Education
   <li> Advisor: Dr. Ildar Farkhatdinov </li>
 </ul>  
 </details> </p>
-
+<p></p>
 <details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017</summary>
   
 * GPA: 3.90/4 <!--, (equivalent to 1.10 in Germany)-->
