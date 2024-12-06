@@ -21,7 +21,7 @@ Education
 
 <details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017</summary>
   
-* GPA: 3.90/4, (equivalent to 1.10 in Germany)
+* GPA: 3.90/4 <!--, (equivalent to 1.10 in Germany)-->
   
 * Thesis: Design and Control of Series Elastic Actuated Educational Devices
 
@@ -30,7 +30,7 @@ Education
 
 <details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
   
-* GPA: 3.58/4, (equivalent to 1.42 in Germany)
+* GPA: 3.58/4 <!--, (equivalent to 1.42 in Germany)-->
 
 * Thesis: Design and Control of a Ballbot
   
