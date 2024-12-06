@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploaded 12/2024).
 
 {% include base_path %}
 
