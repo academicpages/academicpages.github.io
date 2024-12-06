@@ -19,6 +19,7 @@ Education
   
 * Advisor: Dr. Ildar Farkhatdinov
 </details>
+
 <!--
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
     * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
@@ -28,6 +29,7 @@ Education
 * B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015
     * GPA: 3.58/4, (equivalent to 1.42 in Germany)
     * Thesis: Design and Control of a Ballbot, Advisor: Prof. Volkan Patoglu -->
+    
 Academic Work Experience
 ======
 * Postdoctoral researcher at HCI Group in Saarland University, Saarbrücken February 2022 - October 2024
