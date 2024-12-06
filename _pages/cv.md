@@ -12,6 +12,12 @@ Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploa
 
 Education
 ======
+<details open>
+<summary>* Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
+  * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, 
+  * Advisor: Dr. Ildar Farkhatdinov
+</details>
+
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
     * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
 * M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017
