@@ -28,7 +28,7 @@ Education
 * Advisor: Prof. Volkan Patoglu
 </details>
 
-<details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
+<details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary>
   
 * GPA: 3.58/4 <!--, (equivalent to 1.42 in Germany)-->
 
