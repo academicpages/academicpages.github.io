@@ -12,12 +12,29 @@ Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploa
 
 Education
 ======
-<details>
-<summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
+<details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
   
 * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality
   
 * Advisor: Dr. Ildar Farkhatdinov
+</details>
+
+<details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017</summary>
+  
+* GPA: 3.90/4, (equivalent to 1.10 in Germany)
+  
+* Thesis: Design and Control of Series Elastic Actuated Educational Devices
+
+* Advisor: Prof. Volkan Patoglu
+</details>
+
+<details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
+  
+* GPA: 3.58/4, (equivalent to 1.42 in Germany)
+
+* Thesis: Design and Control of a Ballbot
+  
+*  Advisor: Prof. Volkan Patoglu
 </details>
 
 <!--
