@@ -19,6 +19,7 @@ Education
 </ul>  
 </details> </p>
 
+<!--
 <p><details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017 </summary>
 <ul style="list-style-type:circle">
   <li>  GPA: 3.90/4 
@@ -26,8 +27,8 @@ Education
   <li> Advisor: Prof. Volkan Patoglu
 </ul>  
 </details> </p>
+-->
 
-<!--
 <p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary>
 <ul style="list-style-type:circle">
   <li>  GPA: 3.58/4
@@ -35,7 +36,7 @@ Education
   <li>   Advisor: Prof. Volkan Patoglu
 </ul>  
 </details> </p>
--->
+
 
 <!--
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
