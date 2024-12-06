@@ -19,20 +19,18 @@ Education
 </ul>  
 </details> </p>
 
-<p> <details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017 </summary>
+<p><details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017 </summary>
 <ul style="list-style-type:circle">
-  <li>  GPA: 3.90/4 <!--, (equivalent to 1.10 in Germany)-->
+  <li>  GPA: 3.90/4 
   <li> Thesis: Design and Control of Series Elastic Actuated Educational Devices
   <li> Advisor: Prof. Volkan Patoglu
 </ul>  
 </details> </p>
 
-<p> <details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary>
+<p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary>
 <ul style="list-style-type:circle">
-  <li>  GPA: 3.58/4 <!--, (equivalent to 1.42 in Germany)-->
-
+  <li>  GPA: 3.58/4
   <li>  Thesis: Design and Control of a Ballbot
-  
   <li>   Advisor: Prof. Volkan Patoglu
 </ul>  
 </details> </p>
