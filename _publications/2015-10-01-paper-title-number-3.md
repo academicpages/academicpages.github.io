@@ -3,7 +3,7 @@ title: "Reliability modeling of modular k-out-of-n systems with functional depen
 collection: Journal publications
 category: Journal publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'Reliability Modeling by Bayesian Networks.'
+excerpt: 'Functional Dependency Moeling by Bayesian Networks.'
 date: 2023-05
 venue: 'Reliability Engineering and System Safety'
 paperurl: 'sciencedirect.com/science/article/abs/pii/S0951832023000352'
