@@ -1,6 +1,6 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
+title: "Reliability modeling of modular k-out-of-n systems with functional dependency: a case study of radar transmitter systems"
+collection: Journal publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
