@@ -40,7 +40,7 @@ In *European Conference on Computer Systems (EuroSys)*, 2024.
 Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> In *the ACM Conference on Management of Data (SIGMOD)*, 2023.
 
 * **MDP: Model Decomposition and Parallelization of Vision Transformer for Distributed Edge Inference** \[[pdf](https://kl4805.github.io/files/msn23.pdf)\] <br>
-Weiyan Wang, Yiming Zhang, **Yilun Jin**, Han Tian, Li Chen <br> To appear in *IEEE International Conference on Mobility, Sensing, and Networking (MSN)*, 2023. 
+Weiyan Wang, Yiming Zhang, **Yilun Jin**, Han Tian, Li Chen <br> In *IEEE International Conference on Mobility, Sensing, and Networking (MSN)*, 2023. 
 
 ## 2022
 * **Selective Cross-City Transfer Learning for Traffic Prediction via Source City Region Re-Weighting** \[[pdf](https://kl4805.github.io/files/KDD22.pdf)\]\[[code](https://github.com/KL4805/CrossTReS)\]\[[slides](https://kl4805.github.io/files/final_kdd22.pdf)\]<br>
