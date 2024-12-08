@@ -6,6 +6,7 @@ permalink: /publication/sentiment-polarity-analysis
 excerpt: 'The Internet has become an essential tool for people in the modern world. Humans, like all living organisms, have essential requirements for survival. These include access to atmospheric oxygen, potable water, protective shelter, and sustenance. The constant flux of the world is making our existence less complicated. A significant portion of the population utilizes online food ordering services to have meals delivered to their residences...'
 date: 24 June 2024
 venue: '3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)'
+publisher: 'IEEE'
 paperurl: 'https://arxiv.org/pdf/2405.06667'
 citation: 'Amin, Al, et al. "Sentiment Polarity Analysis of Bangla Food Reviews Using Machine and Deep Learning Algorithms." 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE). IEEE, 2024.'
 ---
