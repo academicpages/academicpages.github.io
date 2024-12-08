@@ -1,6 +1,7 @@
 ---
 title: "Structure function learning of hierarchical multi-state systems with incomplete observation sequences"
 collection: Journal publications
+category: Journal publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Structure Function Learning by EM Algorithm.'
 date: 2021-08
