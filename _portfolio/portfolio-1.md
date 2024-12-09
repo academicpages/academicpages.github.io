@@ -1,6 +1,6 @@
 ---
 title: "Nature-inspired metamaterial based shape changing interfaces"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Teaser5.png'>"
 collection: portfolio
 ---
 
