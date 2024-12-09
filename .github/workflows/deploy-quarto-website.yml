@@ -21,7 +21,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          version: latest
+          version: '1.6.39'
 
       - name: Install R
         uses: r-lib/actions/setup-r@v2
