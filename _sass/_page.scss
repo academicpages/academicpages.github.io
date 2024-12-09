@@ -25,6 +25,7 @@
 
   .page__inner-wrap {
     @include full();
+    text-align: justify;
 
     .page__content,
     .page__meta,
