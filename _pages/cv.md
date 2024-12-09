@@ -86,7 +86,8 @@ Skills
 Publications
 ======
  
-- (Under review) Otaran et. al., Sparsely actuated modular metamaterials for shape-changing interfaces
+- (Forthcoming) Otaran A., Jiang Y., & Steimle J., "Sparsely actuated modular metamaterials for shape-changing interfaces", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
+- (Forthcoming) Sabnis N., Otaran A., Wittchen D., Didion J., Steimle J., \& Strohmeier P. "Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
 - Otaran, A., Farkhatdinov, I. Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. Human Computer Interaction International (HCII), 2024
 - Artin Saberpour Abadian, Ata Otaran, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. 2023. Computational Design of Personalized Wearable Robotic Limbs. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23).
 - Otaran A. and Farkhatdinov I., "Haptic Ankle Platform for Interactive Walking in Virtual Reality," in IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021
