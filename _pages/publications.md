@@ -11,25 +11,25 @@ excerpt: "Publications"
 <sub> (Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
 <sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
-1. <sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier </sub> \
+1. <sub> Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier </sub> \
 <sub>*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control* </sub> \
 <sub>**International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
-1. <sub> <ins> Ata Otaran A. </ins> and Ildar Farkhatdinov </sub> \
+1. <sub> <ins> Ata Otaran </ins> and Ildar Farkhatdinov </sub> \
 <sub> [Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16) </sub> \
 <sub> **Human Computer Interaction International (HCII)** 2024 </sub>
 
-1. <sub> Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. </sub>\
+1. <sub> Artin Saberpour Abadian, <ins>Ata Otaran</ins>, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle </sub>\
 <sub>[Computational Design of Personalized Wearable Robotic Limbs](https://dl.acm.org/doi/10.1145/3586183.3606748) </sub>\
-<sub>**ACM Symposium on User Interface Software and Technology (UIST)** 2023. </sub>
+<sub>**ACM Symposium on User Interface Software and Technology (UIST)** 2023 </sub>
 
-1. <sub> <ins>Ata Otaran</ins> and Ildar Farkhatdinov. </sub> \
-<sub> [Haptic Ankle Platform for Interactive Walking in Virtual Reality.](https://ieeexplore.ieee.org/document/9535237) </sub> \
+1. <sub> <ins>Ata Otaran</ins> and Ildar Farkhatdinov </sub> \
+<sub> [Haptic Ankle Platform for Interactive Walking in Virtual Reality](https://ieeexplore.ieee.org/document/9535237) </sub> \
 <sub>**IEEE Transactions on Visualization and Computer Graphics (TVCG)** 2021 </sub> 
 
 1. <sub> <ins>Ata Otaran</ins> </sub> \
 <sub> [Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality](https://qmro.qmul.ac.uk/xmlui/handle/123456789/84049) </sub> \
-<sub>**PhD Dissertation** (2021). </sub> 
+<sub>**PhD Dissertation** 2021 </sub> 
  
 1. <sub> <ins> Ata Otaran </ins> and Ildar Farkhatdinov </sub> \
 <sub> [Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots](https://ieeexplore.ieee.org/document/9555768)</sub> \
@@ -44,11 +44,11 @@ excerpt: "Publications"
 <sub> **IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEEVR)** 2021 </sub>
 
 1. <sub> <ins> Ata Otaran </ins> and Ildar Farkhatdinov </sub> \
-<sub> [Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction.](https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28) </sub> \
+<sub> [Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction](https://link.springer.com/chapter/10.1007/978-3-030-23807-0_28) </sub> \
 <sub> **In Annual Conference Towards Autonomous Robotic Systems (TAROS)** 2019 </sub>
 
 1. <sub> Umut Caliskan, Ardan Apaydin, <ins> Ata Otaran </ins> and Volkan Patoglu </sub> \
-<sub>  [A series elastic brake pedal to preserve conventional pedal feel under regenerative braking.](https://ieeexplore.ieee.org/document/8594317) </sub> \
+<sub>  [A series elastic brake pedal to preserve conventional pedal feel under regenerative braking](https://ieeexplore.ieee.org/document/8594317) </sub> \
 <sub> **In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)** 2018 </sub>
 
 1. <sub> <ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu </sub> \
