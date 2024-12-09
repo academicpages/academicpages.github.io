@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Profile"
+title: "👏👏 Hello there, I'm Alamin."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello there, I'm Alamin.
 
 I'm final year graduate student at the American International University of Bangladesh.
 
