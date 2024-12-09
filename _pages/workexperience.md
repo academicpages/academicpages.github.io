@@ -88,3 +88,11 @@ redirect_from:
 - I successfully completed end-to-end projects focusing on Deep Learning and Computer Vision to detect and control anomalies and defects in the production and quality chain of a pneumatic company.
 - I have successfully implemented Text Summarization techniques using Transformers and NLP. This has allowed me to process and summarize vast amounts of unstructured data, particularly text-based information. Additionally, I have leveraged these capabilities to automate Question- Answering functionality in Chatbots, resulting in improved user experiences and more efficient information retrieval.
 - I have expertise in developing models that utilize Transfer Learning, Deep Learning, and Computer Vision for the analysis and predictive maintenance of power lines and towers in a hydroelectric company. These models leverage drone technology to gather data and provide insights for efficient monitoring and proactive maintenance of the infrastructure.
+
+**Simplex Go (Peru)** – _Software Developer (temporal contract)_
+<br/>Dec, 2019 – May, 2020
+
+- Developed predictive models using sensor data, Machine Learning algorithms and their execution in actuators to create a Smart-Agriculture environment.
+- I develop Fine-Tuning on BERT/GPT models to make Customer Asistance Bot in a Farmacy environment.
+- Advised on the automation of truck pass rails in Antamina using Digital Image Processing techniques with the Raspberry Pi 3B.
+- Developed a cross-platform augmented reality application with Unity and Vuforia in C# to show possible scenarios of an automation plant and spatial layouts.

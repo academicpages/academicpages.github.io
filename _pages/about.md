@@ -40,7 +40,7 @@ I am proactive, a strong team player, and skilled in leadership, with a commitme
 **Pontifical Catholic University of Peru (PUCP)**
 <br/>Bachelor's degree Mechatronics Eng.
 <br/>GPA: 4 - Tenth Higher in Graduation
-<br/>Agust, 2015 – June, 2021
+<br/>Agust, 2015 – June, 2020
 
 ## Awards:
 
@@ -51,7 +51,7 @@ I am proactive, a strong team player, and skilled in leadership, with a commitme
 - 2nd place BBVA Hackathon 2020, Smart OCR system for financial statements extraction in PDF files supported by Deep Learning techniques.
 - 1st place at Mechatronic Design Project (Autonomous System with Computer Vision for Package Transport in J.CH.D. airport, Lima) - PUCP University - Peru.
 - 1st place at CLAPP 2019 (Latin American Design & Prototype - Robotics and AI Competition) - São Paulo University - Brazil.
-- Recipient of "Beca18" Full Scholarship from "PRONABEC Perú"
+- Recipient of "Beca18" Full University Scholarship from "PRONABEC Perú"
 
 ## Languages
 
