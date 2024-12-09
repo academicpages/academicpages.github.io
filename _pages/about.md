@@ -9,6 +9,8 @@ redirect_from:
 
 A final-year graduate student at the American International University-Bangladesh (AIUB), pursuing a master's degree in Computer Science with a major in Intelligent Systems. 🌟 My academic journey is fueled by a passion for research in **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Science**. 🎓 Currently, I am actively working on my master's thesis, focusing on multilingual offensive text classification, which aims to bridge gaps in language processing research.
 
+In addition to my studies, I serve as a **Lecturer (Adjunct)** at Uttara University, where I am dedicated to sharing knowledge and inspiring the next generation of computer science professionals. 🧑‍🏫✨
+
 My research endeavors include developing innovative solutions in NLP and computer vision, leveraging state-of-the-art machine learning and deep learning models to address complex real-world challenges. 🤖📊
 
 ## Recent News 🗞️
