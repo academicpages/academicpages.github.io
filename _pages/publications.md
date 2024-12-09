@@ -28,8 +28,8 @@ Recorded here is a list of publications, current through 12/2024.
 **Human Computer Interaction International (HCII)** 2024 </sub>
 
 
-1. <sub> <ins>Ata Otaran</ins>, Ildar Farkhatdinov.  
-*Haptic Ankle Platform for Interactive Walking in Virtual Reality.*  
+1. <sub> <ins>Ata Otaran</ins>, Ildar Farkhatdinov.
+*Haptic Ankle Platform for Interactive Walking in Virtual Reality.* 
 **IEEE Transactions on Visualization and Computer Graphics (TVCG)** (2021). </sub>
 
 1. <sub> 
