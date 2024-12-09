@@ -3,9 +3,9 @@ title: "Lecturer (Adjunct)"
 collection: teaching
 type: "Teaching"
 permalink: /teaching/lecturer-uu
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Uttara University, Department of Computer Science and Engineering"
+date: February, 2024
+location: "Dhaka-1230, Bangladesh"
 ---
 🏢 **Organization:** Uttara University.
 
