@@ -100,6 +100,7 @@
 
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
+    text-align: justify; // I added this
   }
 
   .page__meta {
