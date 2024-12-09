@@ -8,11 +8,11 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 12/2024.
 
 1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle.
-*(Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces*  
+*(Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces*  <br />
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** (2025). </sub>
 
 1. <sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier
-*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control*
+*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control*\
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
 1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
