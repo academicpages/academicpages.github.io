@@ -12,7 +12,7 @@ Recorded here is a list of publications, current through 12/2024.
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** (2025). </sub>
 
 1. <sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier
-*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control*\
+*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control* \n
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
 1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
