@@ -13,12 +13,15 @@ main:
     url: /publications/
     # url: https://scholar.google.com/citations?user=jrvFjaQAAAAJ&hl=en
 
+  - title: "Experience"
+    url: /teaching/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
         
