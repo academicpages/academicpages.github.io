@@ -19,14 +19,20 @@ Recorded here is a list of publications, current through 12/2024.
 [Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16)
 **Human Computer Interaction International (HCII)** 2024 </sub>
 
-1. Artin Saberpour Abadian, Ata Otaran, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle <br/>
+1. Artin Saberpour Abadian, Ata Otaran, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle.
 [Computational Design of Personalized Wearable Robotic Limbs](https://dl.acm.org/doi/10.1145/3586183.3606748) <br/>
 **In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST)**, 2023.
+
+1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
+[Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16)
+**Human Computer Interaction International (HCII)** 2024 </sub>
+
 
 1. <sub> <ins>Ata Otaran</ins>, Ildar Farkhatdinov.  
 *Haptic Ankle Platform for Interactive Walking in Virtual Reality.*  
 **IEEE Transactions on Visualization and Computer Graphics (TVCG)** (2021). </sub>
 
+1. <sub> 
 1. Otaran A. and Farkhatdinov I., "Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots," 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021, pp. 453-458
 1. Otaran, A., Tokatli, O., & Patoglu, V. (2021). Physical Human-Robot Interaction Using HandsOn-SEA: An Educational Robotic Platform with Series Elastic Actuation. IEEE Transactions on Haptics (TOH).
 1. Otaran, A., & Farkhatdinov, I. (2021, March). A Short Description of an Ankle-Actuated Seated VR Locomotion Interface. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 64-66). IEEE.
