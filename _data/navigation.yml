@@ -9,7 +9,7 @@ main:
     # url: /cv/
     url: /files/CV.pdf
 
-  - title: "Publications"
+  - title: "Research & Publications"
     url: /publications/
     # url: https://scholar.google.com/citations?user=jrvFjaQAAAAJ&hl=en
 
