@@ -11,13 +11,13 @@ Recorded here is a list of publications, current through 12/2024.
 <sub> (Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
 <sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** (2025). </sub>
 
-1. <sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier
-*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control* \n
-**International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
+1. <sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier </sub> \
+<sub>*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control* </sub> \
+<sub>**International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
-1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
-[Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16)
-**Human Computer Interaction International (HCII)** 2024 </sub>
+1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov </sub> \
+</sub> [Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16) </sub> \
+</sub> **Human Computer Interaction International (HCII)** 2024 </sub>
 
 1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
 [Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16) 
