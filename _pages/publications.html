@@ -21,7 +21,7 @@ author_profile: true
       {% endif %}
       {% unless title_shown %}
         <h2>{{ category[1].title }}</h2><hr />
-        <p>* Denotes equal contribution and joint lead authorship.</p>
+        <p style="color: rgb(23, 23, 146);"><strong>* Denotes equal contribution and joint lead authorship.</strong></p>
         {% assign title_shown = true %}
       {% endunless %}
       {% include archive-single.html %}
