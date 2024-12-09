@@ -29,13 +29,33 @@ Recorded here is a list of publications, current through 12/2024.
 <sub>**IEEE Transactions on Visualization and Computer Graphics (TVCG)** (2021). </sub> 
  
 1. <sub> <ins> Ata Otaran </ins> and Farkhatdinov I.</sub> \
-<sub>  "Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots," </sub> \
+<sub> [Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots](https://ieeexplore.ieee.org/document/9555768)</sub> \
 <sub> 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021 </sub>
 
-1. Otaran, A., Tokatli, O., & Patoglu, V. (2021). Physical Human-Robot Interaction Using HandsOn-SEA: An Educational Robotic Platform with Series Elastic Actuation. IEEE Transactions on Haptics (TOH).
-1. Otaran, A., & Farkhatdinov, I. (2021, March). A Short Description of an Ankle-Actuated Seated VR Locomotion Interface. In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 64-66). IEEE.
-1. Otaran, A., & Farkhatdinov, I. (2019, July). Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction. In Annual Conference Towards Autonomous Robotic Systems (pp. 338-348). Springer, Cham.
-1. Caliskan, U., Apaydin, A., Otaran, A., & Patoglu, V. (2018, October). A series elastic brake pedal to preserve conventional pedal feel under regenerative braking. In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1367-1373). IEEE.
-1. Otaran, A., Tokatli, O., & Patoglu, V. (2018, June). HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots. In International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (pp. 564-574). Springer, Cham.
-1. Otaran, A. (2017). Design, control and evaluation of educational devices with series elastic actuation (MSc dissertation).
-1. Otaran, A., Tokatli, O., & Patoglu, V. ”Hands-On Learning with a Series Elastic Educational Robot”, in the Proceedings of the EuroHaptics as Lecture Notes in Computer Science, 2016.
+1. <sub> Ata Otaran, Tokatli, O., & Patoglu, V. (2021). </sub> \
+<sub> Physical Human-Robot Interaction Using HandsOn-SEA: An Educational Robotic Platform with Series Elastic Actuation.</sub> \
+<sub> IEEE Transactions on Haptics (TOH). </sub>
+
+1. <sub> Otaran, A., & Farkhatdinov, I. (2021, March). </sub> \
+<sub> A Short Description of an Ankle-Actuated Seated VR Locomotion Interface. </sub> \
+<sub> In 2021 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 64-66). IEEE. </sub>
+
+1. <sub> Otaran, A., & Farkhatdinov, I. (2019, July). </sub> \
+<sub> Modeling and Control of Ankle Actuation Platform for Human-Robot Interaction. </sub> \
+<sub> In Annual Conference Towards Autonomous Robotic Systems (pp. 338-348). Springer, Cham. </sub>
+
+1. <sub> Caliskan, U., Apaydin, A., Otaran, A., & Patoglu, V. (2018, October). </sub> \
+<sub>  A series elastic brake pedal to preserve conventional pedal feel under regenerative braking. </sub> \
+<sub> In 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 1367-1373). IEEE. </sub>
+
+1. <sub> Otaran, A., Tokatli, O., & Patoglu, V. (2018, June). </sub> \
+<sub> HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots. </sub> \
+<sub> In International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (pp. 564-574). Springer, Cham. </sub>
+
+1. <sub> Otaran, A. (2017). </sub> \
+<sub> Design, control and evaluation of educational devices with series elastic actuation </sub> \
+<sub> MSc dissertation</sub>
+
+1. <sub> Otaran, A., Tokatli, O., & Patoglu, V. </sub> \
+<sub> Hands-On Learning with a Series Elastic Educational Robot </sub> \
+<sub> in the Proceedings of the EuroHaptics as Lecture Notes in Computer Science, 2016. </sub> \
