@@ -17,13 +17,10 @@ My research endeavors include developing innovative solutions in NLP and compute
 
 ### December 9, 2024
 - 🚀 Working on a master's thesis project focusing on multilingual offensive text classification using advanced machine learning techniques.
-
 ### December 6, 2024
 - ✍️ Submitted an academic paper titled *"Transfer Learning-Based Approaches for Classifying Offensive Multilingual Text in Social Media"* for peer review.
-
 ### December 5, 2024
 - ⚡ Enhanced my CNN+LSTM model, TriLangNet, for improved performance in multilingual offensive text classification tasks.
-
 ### December 4, 2024
 - 🤝 Collaborated on a workshop to introduce NLP techniques for analyzing social media text at AIUB.
 
