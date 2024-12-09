@@ -2,9 +2,9 @@ name: Deploy Quarto Website
 
 on:
   push:
-    branches: [ main ]
+    branches: [ gh-pages ]
   pull_request:
-    branches: [ main ]
+    branches: [ gh-pages ]
   workflow_dispatch:
 
 jobs:
