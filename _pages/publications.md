@@ -8,6 +8,7 @@ excerpt: "Publications"
 Recorded here is a list of publications, current through 12/2024.
 
 1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle
+   
 *(Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces*  
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** (2025). </sub>
 
