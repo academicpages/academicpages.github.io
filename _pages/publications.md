@@ -7,13 +7,18 @@ excerpt: "Publications"
 
 Recorded here is a list of publications, current through 12/2024.
 
-1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle
-   
+1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle.
 *(Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces*  
 **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** (2025). </sub>
 
-1. (Forthcoming) Sabnis N., Otaran A., Wittchen D., Didion J., Steimle J., \& Strohmeier P. "Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
-1. Otaran, A., Farkhatdinov, I. Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. Human Computer Interaction International (HCII), 2024
+1.<sub> Nihar Sabnis, <ins> Ata Otaran A. </ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier
+*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control*
+**International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
+
+1. <sub> <ins> Ata Otaran A. </ins>, Ildar Farkhatdinov
+[Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire.](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_16)
+**Human Computer Interaction International (HCII)** 2024 </sub>
+
 1. Artin Saberpour Abadian, Ata Otaran, Martin Schmitz, Marie Muehlhaus, Rishabh Dabral, Diogo Luvizon, Azumi Maekawa, Masahiko Inami, Christian Theobalt, and Jürgen Steimle. 2023. Computational Design of Personalized Wearable Robotic Limbs. In Proceedings of the 36th Annual ACM Symposium on User Interface Software and Technology (UIST '23).
 1. Otaran A. and Farkhatdinov I., "Haptic Ankle Platform for Interactive Walking in Virtual Reality," in IEEE Transactions on Visualization and Computer Graphics (TVCG), 2021
 1. Otaran A. and Farkhatdinov I., "Walking-in-Place Foot Interface for Locomotion Control and Telepresence of Humanoid Robots," 2020 IEEE-RAS 20th International Conference on Humanoid Robots (Humanoids), 2021, pp. 453-458
