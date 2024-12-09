@@ -3,7 +3,7 @@ title: "PhishGuard: A Convolutional Neural Network Based Model for Detecting Phi
 collection: publications
 category: conferences
 permalink: /publication/phishing-url-detection
-excerpt: 'Cybersecurity is one of the global issues because of the extensive dependence on cyber systems of individuals, industries, and organizations. Among the cyber attacks, phishing is increasing tremendously and affecting the global economy. Therefore, this phenomenon highlights the vital need for enhancing user awareness and robust support at both individual and organizational levels.'
+excerpt: 'Cybersecurity is one of the global issues because of the extensive dependence on cyber systems of individuals, industries, and organizations. Among the cyber attacks, phishing is increasing tremendously and affecting the global economy. Therefore, this phenomenon highlights the vital need for enhancing user awareness and robust support at both individual'
 date: 02 July 2024
 venue: '3rd International Conference on Artificial Intelligence For Internet of Things (AIIoT)'
 publisher: 'IEEE'

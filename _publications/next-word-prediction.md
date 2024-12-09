@@ -3,7 +3,7 @@ title: "Enhancing Bangla Language Next Word Prediction and Sentence Completion t
 collection: publications
 category: conferences
 permalink: /publication/next-word-prediction
-excerpt: 'Texting stands out as the most prominent form of communication worldwide. Individual spend significant amount of time writing whole texts to send emails or write something on social media, which is time consuming in this modern era. Word prediction and sentence completion will be suitable and appropriate in the Bangla language to make textual information easier and more convenient.'
+excerpt: 'Texting stands out as the most prominent form of communication worldwide. Individual spend significant amount of time writing whole texts to send emails or write something on social media, which is time consuming in this modern era. Word prediction and sentence completion will be suitable and appropriate in the Bangla'
 date: 24 June 2024
 venue: '3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)'
 publisher: 'IEEE'
