@@ -7,9 +7,7 @@ venue: "University 1, Department"
 date: May, 2023 - July, 2023
 location: "Dhaka, Bangladesh"
 ---
-🏢 **Organization:** Nimusoft Technology LTD.
-
-📅 **May, 2023 - July, 2023**
+🏢 **Organization:** Nimusoft Technology LTD, 📅 **May, 2023 - July, 2023**
 
 ### **Responsibility:**
 
