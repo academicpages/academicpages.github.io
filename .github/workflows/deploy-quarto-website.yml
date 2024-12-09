@@ -2,14 +2,18 @@ name: Deploy Quarto Website
 
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [ main ]
   pull_request:
-    branches: [ gh-pages ]
+    branches: [ main ]
   workflow_dispatch:
 
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -62,6 +66,8 @@ jobs:
 
       - name: Render Quarto Project
         uses: quarto-dev/quarto-actions/render@v2
+        with:
+          path: mywebsite/ 
 
       - name: Setup Pages
         if: github.event_name != 'pull_request'
@@ -71,10 +77,8 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v1
         with:
-          path: '_site'
+          path: mywebsite/_site  
 
       - name: Deploy to GitHub Pages
         if: github.event_name != 'pull_request'
         uses: actions/deploy-pages@v2
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
