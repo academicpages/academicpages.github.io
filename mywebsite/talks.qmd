@@ -1,0 +1,20 @@
+---
+title: "Talks & Presentations"
+listing:
+  contents: talks
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, location, venue, categories]
+  feed: true
+  date-format: "MMMM D, YYYY"
+  page-size: 12
+format:
+  html:
+    page-layout: full
+    title-block-banner: true
+---
+
+I regularly speak at tech conferences and meetups about Cloud Computing, DevOps, and Data Engineering. Here are some of my recent talks and presentations.

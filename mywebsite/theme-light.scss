@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+// Light theme colors
+$primary: #07cca1;
+$body-bg: #fcfcfc;
+$body-color: #2c2c2c;
+$navbar-bg: $primary;
+$navbar-fg: white;
+$link-color: $primary;
+$code-block-bg: #f8f9fa;
+$code-color: #212529;
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.listing-card {
+  background-color: white;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.quarto-category {
+  background-color: #f0f0f0;
+  color: #666;
+}
+
+pre {
+  background-color: #f8f9fa !important;
+}

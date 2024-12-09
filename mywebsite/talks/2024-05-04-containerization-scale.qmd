@@ -1,0 +1,14 @@
+---
+title: "Containerization at Scale: Challenges and Solutions"
+description: "Deep dive into scaling microservices efficiently with cost optimization strategies"
+date: "2024-05-04"
+location: "Bengaluru, India"
+venue: "Tata 1mg Tech center, Union St, Bangalore SRE May Meetup"
+categories: [Containers, Microservices, SRE, Scaling]
+slides: "https://1drv.ms/p/s!AlRMfvfPCoEoskB-9Dc19c9ubDR0?e=NNmZpJg"
+---
+
+Get the [Slides here](https://1drv.ms/p/s!AlRMfvfPCoEoskB-9Dc19c9ubDR0?e=NNmZpJg)
+
+
+Let's look at scaling microservices at large scale which may involve many problems, involving cost optimization. This talk will also look at many new technologies which can help us scaling efficiently and beyound the usage of HPA or VPA.

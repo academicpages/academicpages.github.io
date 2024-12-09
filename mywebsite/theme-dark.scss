@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+// Dark theme colors
+$primary: #09e7b6;
+$body-bg: #1a1a1a;
+$body-color: #e0e0e0;
+$navbar-bg: #242424;
+$navbar-fg: #e0e0e0;
+$link-color: #98e2e2;
+$code-block-bg: #2d2d2d;
+$code-color: #e0e0e0;
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.listing-card {
+  background-color: #242424;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.card {
+  background-color: #242424;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.quarto-category {
+  background-color: #333333;
+  color: #e0e0e0;
+}
+
+pre {
+  background-color: #2d2d2d !important;
+}
+
+.nav-footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+// Adjust text colors in dark mode
+h1, h2, h3, h4, h5, h6 {
+  color: #e0e0e0;
+}
+
+.quarto-title-banner {
+  background-color: #242424;
+}

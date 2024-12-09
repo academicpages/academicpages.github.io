@@ -1,0 +1,597 @@
+---
+title: "Comprehensive Guide: Running GPU Workloads on Kubernetes"
+description: "Deep dive into running and managing GPU workloads on Kubernetes clusters, including setup, optimization, and best practices"
+date: "2024-12-06"
+categories: [Kubernetes, GPU, Cloud Computing, DevOps]
+image: "./media/Running%20GPU%20Workloads%20on%20Kubernetes_thumbnail.jpg"
+toc: true
+reading-time: true
+---
+
+
+![Kunal Das, Author](https://miro.medium.com/v2/resize:fill:44:44/1*kfaefcgQPHrPsNobjuiiSg.jpeg)
+
+
+
+![Image](./media/Running%20GPU%20Workloads%20on%20Kubernetes_thumbnail.jpg)
+
+## Understanding GPU Computing in Kubernetes
+
+### Architectural Overview
+GPU (Graphics Processing Unit) computing leverages specialized processors originally designed for rendering graphics to perform parallel computations. Unlike CPUs which are optimized for sequential processing with few cores, GPUs contain thousands of smaller cores optimized for handling multiple tasks simultaneously.
+
+#### Key Components in Kubernetes GPU Architecture:
+
+1. **Hardware Layer**
+   - Physical GPU cards (e.g., NVIDIA Tesla, V100, A100)
+   - PCIe interface connection
+   - GPU memory (VRAM)
+   - CUDA cores for parallel processing
+
+2. **Driver Layer**
+   - NVIDIA drivers: Interface between hardware and software
+   - CUDA toolkit: Programming interface for GPU computing
+   - Container runtime hooks: Enable GPU access from containers
+
+3. **Container Runtime Layer**
+   - NVIDIA Container Toolkit (nvidia-docker2)
+   - Container runtime (containerd/Docker)
+   - Device plugin interface
+
+4. **Kubernetes Layer**
+   - NVIDIA Device Plugin
+   - Kubernetes scheduler
+   - Resource allocation system
+
+### How GPU Scheduling Works in Kubernetes
+
+1. **Resource Advertisement**
+   - The NVIDIA Device Plugin runs as a DaemonSet
+   - Discovers GPUs on each node
+   - Advertises GPU resources to Kubernetes API server
+   - Updates node capacity with `nvidia.com/gpu` resource
+
+2. **Resource Scheduling Process**
+   ```
+   Pod Request → Scheduler → Device Plugin → GPU Allocation
+   ```
+   
+   a. Pod makes GPU request through resource limits
+   b. Kubernetes scheduler finds eligible nodes
+   c. Device Plugin handles GPU assignment
+   d. Container runtime configures GPU access
+
+3. **GPU Resource Isolation**
+   - Each container gets exclusive access to assigned GPUs
+   - GPU memory is not oversubscribed
+   - NVIDIA driver enforces hardware-level isolation
+
+### Deep Dive: NVIDIA Device Plugin Workflow
+
+1. **Initialization Phase**
+   ```
+   Device Plugin Start → GPU Discovery → Resource Registration
+   ```
+   - Scans system for NVIDIA GPUs
+   - Creates socket for Kubernetes communication
+   - Registers as device plugin with kubelet
+
+2. **Operation Phase**
+   ```
+   List GPUs → Monitor Health → Handle Allocation
+   ```
+   - Maintains list of available GPUs
+   - Monitors GPU health and status
+   - Handles allocation requests from kubelet
+
+3. **Resource Management**
+   ```
+   Pod Request → Allocation → Environment Setup → Container Start
+   ```
+   - Maps GPU devices to containers
+   - Sets up NVIDIA runtime environment
+   - Configures container GPU access
+
+### Multi-Instance GPU (MIG) Technology
+
+For NVIDIA A100 GPUs, MIG allows:
+1. **Partitioning**
+   - Single GPU split into up to 7 instances
+   - Each instance has dedicated:
+     * Compute resources
+     * Memory
+     * Memory bandwidth
+     * Cache
+
+2. **Isolation Levels**
+   - Hardware-level isolation
+   - Memory protection
+   - Error containment
+   - QoS guarantee
+
+### GPU Memory Management
+
+1. **Allocation Modes**
+   - Exclusive process mode
+   - Time-slicing mode (shared)
+   - MIG mode (for A100)
+
+2. **Memory Hierarchy**
+   ```
+   Global Memory → L2 Cache → L1 Cache → CUDA Cores
+   ```
+
+3. **Resource Limits**
+   - GPU memory is not oversubscribed
+   - Containers see full GPU memory
+   - Memory limits enforced by NVIDIA driver
+
+[Previous content remains the same...]
+
+## Understanding the GPU Workflow in Kubernetes
+
+### 1. Pod Scheduling Flow
+```
+Pod Creation → Resource Check → Node Selection → GPU Binding → Container Start
+```
+
+1. **Pod Creation**
+   - User creates pod with GPU requirements
+   - Scheduler receives pod specification
+
+2. **Resource Check**
+   - Scheduler checks GPU availability
+   - Validates node constraints and taints
+   - Considers topology requirements
+
+3. **Node Selection**
+   - Scheduler selects optimal node
+   - Considers GPU availability and type
+   - Evaluates other scheduling constraints
+
+4. **GPU Binding**
+   - Device plugin assigns specific GPUs
+   - Sets up environment variables
+   - Configures container runtime
+
+5. **Container Start**
+   - Container runtime initializes with GPU access
+   - NVIDIA driver provides GPU interface
+   - Application gains GPU access
+
+### 2. Data Flow in GPU Computing
+
+```
+Application → CUDA API → Driver → GPU → Memory → Results
+```
+
+1. **Application Layer**
+   - Makes CUDA API calls
+   - Manages data transfers
+   - Orchestrates computations
+
+2. **CUDA Layer**
+   - Translates API calls to driver commands
+   - Manages memory transfers
+   - Handles kernel execution
+
+3. **Driver Layer**
+   - Controls GPU hardware
+   - Manages memory allocation
+   - Schedules operations
+
+4. **Hardware Layer**
+   - Executes CUDA kernels
+   - Performs memory operations
+   - Returns results
+
+### 3. Resource Lifecycle
+
+```
+Allocation → Usage → Release → Cleanup
+```
+
+1. **Resource Allocation**
+   - Kubernetes reserves GPU
+   - Device plugin configures access
+   - Container gets exclusive use
+
+2. **Resource Usage**
+   - Application uses GPU
+   - Monitoring tracks utilization
+   - Resource limits enforced
+
+3. **Resource Release**
+   - Pod termination triggers release
+   - GPU returned to pool
+   - Resources cleaned up
+
+4. **Cleanup Process**
+   - Memory cleared
+   - GPU state reset
+   - Resources marked available
+
+[Previous content remains the same...]
+
+## Best Practices and Guidelines
+
+### Resource Optimization
+
+1. **Batch Processing**
+   - Group similar workloads
+   - Use job queues effectively
+   - Implement proper backoff strategies
+
+2. **Memory Management**
+   - Monitor GPU memory usage
+   - Implement proper cleanup
+   - Use appropriate batch sizes
+
+3. **Compute Optimization**
+   - Use optimal CUDA algorithms
+   - Balance CPU and GPU work
+   - Minimize data transfers
+
+## Enough talk, let's dig in
+
+## Prerequisites
+
+Before starting, ensure you have:
+- An active Kubernetes cluster (e.g., AKS cluster)
+- `kubectl` command-line tool installed and configured
+- Access to create or modify node pools
+- Helm v3 installed (for NVIDIA device plugin installation)
+
+## GPU Node Pool Setup
+
+### 1. Select appropriate GPU VM size
+Choose a GPU-enabled VM size based on your workload requirements. Common options include:
+- Standard_NC6s_v3 (1 NVIDIA Tesla V100)
+- Standard_NC24rs_v3 (4 NVIDIA Tesla V100 with RDMA)
+- Standard_ND96asr_v4 (8 NVIDIA A100)
+
+### 2. Create GPU node pool
+
+```bash
+az aks nodepool add \
+    --resource-group myResourceGroup \
+    --cluster-name myAKSCluster \
+    --name gpunodepool \
+    --node-count 1 \
+    --node-vm-size Standard_NC6s_v3 \
+    --node-taints sku=gpu:NoSchedule \
+    --enable-cluster-autoscaler \
+    --min-count 1 \
+    --max-count 3
+```
+
+Key parameters explained:
+- `--node-taints`: Ensures only GPU workloads are scheduled on these expensive nodes
+- `--enable-cluster-autoscaler`: Automatically scales nodes based on demand
+- `--min-count` and `--max-count`: Define scaling boundaries
+
+## NVIDIA Driver Installation
+
+### Option 1: Default AKS Installation
+By default, AKS automatically installs NVIDIA drivers on GPU-capable nodes. This is the recommended approach for most users.
+
+### Option 2: Manual Installation (if needed)
+If you need to manually install or update drivers:
+
+1. Connect to the node:
+```bash
+# Get node name
+kubectl get nodes
+
+# Connect to node (requires SSH access)
+ssh username@node-ip
+```
+
+2. Install NVIDIA drivers:
+```bash
+# Update package list
+sudo apt update
+
+# Install ubuntu-drivers utility
+sudo apt install -y ubuntu-drivers-common
+
+# Install recommended NVIDIA drivers
+sudo ubuntu-drivers install
+
+# Reboot node
+sudo reboot
+```
+
+## NVIDIA Device Plugin Installation
+
+The NVIDIA device plugin is required for Kubernetes to recognize and schedule GPU resources.
+
+### Using Helm (Recommended Method)
+
+1. Add NVIDIA Helm repository:
+```bash
+helm repo add nvdp https://nvidia.github.io/k8s-device-plugin
+helm repo update
+```
+
+2. Install the device plugin:
+```bash
+helm install nvdp nvdp/nvidia-device-plugin \
+    --version=0.15.0 \
+    --namespace nvidia-device-plugin \
+    --create-namespace
+```
+
+## Verification Steps
+
+1. Verify node GPU capability:
+```bash
+kubectl get nodes -o wide
+kubectl describe node <gpu-node-name>
+```
+
+Look for the following in the output:
+```
+Capacity:
+  nvidia.com/gpu: 1
+Allocatable:
+  nvidia.com/gpu: 1
+```
+
+2. Test GPU detection:
+```bash
+# Create a test pod
+kubectl run nvidia-smi --rm -it \
+    --image=nvidia/cuda:11.8.0-base-ubuntu22.04 \
+    --limits=nvidia.com/gpu=1 \
+    --command -- nvidia-smi
+```
+
+## Running GPU Workloads
+
+### Example GPU Workload YAML
+
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: gpu-pod
+spec:
+  containers:
+  - name: gpu-container
+    image: nvidia/cuda:11.8.0-base-ubuntu22.04
+    command: ["nvidia-smi", "-l", "30"]
+    resources:
+      limits:
+        nvidia.com/gpu: 1
+  tolerations:
+  - key: "sku"
+    operator: "Equal"
+    value: "gpu"
+    effect: "NoSchedule"
+```
+
+Key components explained:
+- `resources.limits.nvidia.com/gpu`: Specifies GPU requirement
+- `tolerations`: Matches node taints to allow scheduling
+- `image`: Use CUDA-compatible container image
+
+### Deploy the workload:
+```bash
+kubectl apply -f gpu-workload.yaml
+```
+
+## Monitoring and Troubleshooting
+
+### Monitor GPU Usage
+Using Container Insights, you can monitor:
+- GPU duty cycle
+- GPU memory usage
+- Number of GPUs allocated/available
+
+Key metrics:
+- `containerGpuDutyCycle`
+- `containerGpumemoryUsedBytes`
+- `nodeGpuAllocatable`
+
+### Common Troubleshooting Steps
+
+1. Check GPU driver status:
+```bash
+kubectl exec -it <pod-name> -- nvidia-smi
+```
+
+2. Verify NVIDIA device plugin:
+```bash
+kubectl get pods -n nvidia-device-plugin
+```
+
+3. Check pod events:
+```bash
+kubectl describe pod <pod-name>
+```
+
+
+## Best Practices and Advanced Considerations
+
+### 1. Resource Management Strategy
+
+#### Optimal Resource Allocation
+* Define explicit GPU resource requests and limits in pod specifications
+* Implement resource quotas at namespace level to control GPU allocation
+* Use pod priority classes for critical GPU workloads
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: gpu-workload
+spec:
+  priorityClassName: high-priority-gpu
+  containers:
+  - name: gpu-container
+    resources:
+      limits:
+        nvidia.com/gpu: 1
+      requests:
+        nvidia.com/gpu: 1
+```
+
+#### Node Management
+* Implement node taints and tolerations for GPU nodes
+```yaml
+# Node taint example
+kubectl taint nodes gpu-node-1 gpu=true:NoSchedule
+
+# Pod toleration example
+tolerations:
+- key: "gpu"
+  operator: "Equal"
+  value: "true"
+  effect: "NoSchedule"
+```
+* Use node labels for GPU-specific workload targeting
+* Configure node affinity rules for specialized GPU workloads
+
+### 2. Container Optimization
+
+#### Image Management
+* Base image selection:
+  - Use official NVIDIA CUDA images as base
+  - Choose appropriate CUDA version for your workload
+  - Consider slim variants for reduced image size
+
+#### Build Optimization
+* Implement multi-stage builds to minimize image size
+* Include only necessary CUDA libraries
+* Cache commonly used data in persistent volumes
+```dockerfile
+# Example multi-stage build
+FROM nvidia/cuda:11.8.0-base-ubuntu22.04 as builder
+# Build steps...
+
+FROM nvidia/cuda:11.8.0-runtime-ubuntu22.04
+COPY --from=builder /app/binary /app/
+```
+
+### 3. Performance Monitoring and Optimization
+
+#### Metrics Collection
+* Implement comprehensive monitoring:
+  - GPU utilization percentage
+  - Memory usage patterns
+  - Temperature and power consumption
+  - Error rates and throttling events
+
+#### Alert Configuration
+```yaml
+# Example PrometheusRule for GPU alerts
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: gpu-alerts
+spec:
+  groups:
+  - name: gpu.rules
+    rules:
+    - alert: HighGPUUsage
+      expr: nvidia_gpu_duty_cycle > 90
+      for: 10m
+```
+
+### 4. Cost Management
+
+#### Resource Scheduling
+* Implement spot instances for fault-tolerant workloads
+* Use node auto-scaling based on GPU demand
+* Configure pod disruption budgets for critical workloads
+
+#### Workload Optimization
+```yaml
+# Example CronJob for off-peak processing
+apiVersion: batch/v1
+kind: CronJob
+metadata:
+  name: gpu-batch-job
+spec:
+  schedule: "0 2 * * *"  # Run at 2 AM
+  jobTemplate:
+    spec:
+      template:
+        spec:
+          containers:
+          - name: gpu-processor
+            resources:
+              limits:
+                nvidia.com/gpu: 1
+```
+
+### 5. Security Implementation
+
+#### Access Control
+* Implement RBAC for GPU resource access
+```yaml
+apiVersion: rbac.authorization.k8s.io/v1
+kind: Role
+metadata:
+  name: gpu-user
+rules:
+- apiGroups: [""]
+  resources: ["pods"]
+  verbs: ["create"]
+  resourceNames: ["nvidia.com/gpu"]
+```
+
+#### Runtime Security
+* Enable SecurityContext for GPU containers
+* Implement network policies for GPU workloads
+* Regular security scanning of GPU container images
+
+### 6. Advanced Scenarios
+
+#### Multi-Instance GPU (MIG) Configuration
+```yaml
+# Example MIG profile configuration
+apiVersion: v1
+kind: Pod
+metadata:
+  name: mig-workload
+spec:
+  containers:
+  - name: gpu-container
+    resources:
+      limits:
+        nvidia.com/mig-1g.5gb: 1
+```
+
+#### RDMA for High-Performance Computing
+* Configure RDMA-capable networks
+* Optimize for low-latency communication
+* Implement proper RDMA security controls
+
+#### Development Environment Optimization
+* Set up GPU sharing for development teams
+* Implement resource quotas per development namespace
+* Create development-specific GPU profiles
+
+### Finishing Points
+
+1. **Regular Maintenance Checklist**
+   - Weekly driver updates verification
+   - Monthly performance baseline checking
+   - Quarterly capacity planning review
+
+2. **Documentation Requirements**
+   - Maintain GPU allocation policies
+   - Document troubleshooting procedures
+   - Keep upgrade procedures updated
+
+3. **Future Considerations**
+   - Plan for GPU architecture upgrades
+   - Evaluate emerging GPU technologies
+   - Monitor Kubernetes GPU feature development
+
+4. **Emergency Procedures**
+   - GPU failure handling protocol
+   - Workload failover procedures
+   - Emergency contact information
+

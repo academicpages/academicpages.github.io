@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Kunal Das"
+  favicon: assets/icon.png
+  site-url: https://kunaldas.dev
+  description: "DevOps & Cloud Technology Blog"
+  navbar:
+    background: dark
+    search: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About Me"
+        href: about.qmd
+      - text: "Blog"
+        href: posts.qmd
+      - text: "Talks"
+        href: talks.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: twitter
+        href: https://twitter.com/kunald_official
+      - icon: github
+        href: https://github.com/kunalworldwide
+      - icon: linkedin
+        href: https://linkedin.com/in/kunaldaskd
+  page-footer:
+    right:
+      - icon: github
+        href: https://github.com/kunalworldwide
+      - icon: twitter
+        href: https://twitter.com/kunald_official
+      - icon: linkedin
+        href: https://linkedin.com/in/kunaldaskd
+    background: dark
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    highlight-style: github

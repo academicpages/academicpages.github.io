@@ -1,0 +1,19 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, description, reading-time, image, categories]
+  feed: true
+  date-format: "MMM D, YYYY"
+  page-size: 10
+  image-align: right
+format:
+  html:
+    page-layout: full
+    title-block-banner: false
+---

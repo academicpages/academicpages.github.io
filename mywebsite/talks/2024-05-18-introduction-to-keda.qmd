@@ -1,0 +1,31 @@
+---
+title: "Introduction to KEDA"
+description: "A comprehensive overview of Kubernetes Event-Driven Autoscaling, covering architecture, implementation, and real-world use cases"
+date: "2024-05-18"
+location: "Bengaluru, India"
+venue: "Kubetools Day 2.0 at Guidewire Software"
+categories: [Kubernetes, KEDA, Autoscaling, Cloud Native]
+slides: "https://github.com/kunalworldwide/introductiontokeda/blob/main/Introduction%20to%20KEDA.pdf"
+demo: "https://lnkd.in/du2NFM7F"
+video: "https://lnkd.in/deKraEQb"
+event: "https://www.meetup.com/collabnix/events/300163572/"
+---
+
+The presentation provided a comprehensive overview of Kubernetes Event-Driven Autoscaling (KEDA). It covered the core concepts and advanced features of KEDA, emphasizing its role in dynamic resource scaling based on event-driven metrics.
+
+## Agenda
+
+1. Overview of KEDA
+2. Key Features of KEDA
+3. How KEDA Works
+4. Use Cases
+5. Hands-on Demo
+6. Challenges & Future
+7. Q&A Session
+
+## Resources
+
+- [Presentation Slides]({{< meta slides >}})
+- [Demo Code]({{< meta demo >}})
+- [Recording]({{< meta video >}})
+- [Event Details]({{< meta event >}})

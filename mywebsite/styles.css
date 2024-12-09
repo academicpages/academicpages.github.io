@@ -1,0 +1,62 @@
+/* Add custom fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* General styling */
+body {
+  font-family: 'Inter', sans-serif;
+  line-height: 1.6;
+}
+
+/* Post cards styling */
+.listing-card {
+  margin-bottom: 2rem;
+  transition: transform 0.2s;
+}
+
+.listing-card:hover {
+  transform: translateY(-3px);
+}
+
+.listing-card .card-body {
+  padding: 1.5rem;
+}
+
+.listing-card .card-title {
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+/* Categories styling */
+.quarto-category {
+  padding: 0.2rem 0.6rem;
+  border-radius: 1rem;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  transition: background-color 0.2s;
+  text-decoration: none;
+}
+
+/* Table of contents */
+#toc-title {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.sidebar nav[role=doc-toc] ul {
+  padding-left: 1rem;
+}
+
+/* Footer customization */
+.nav-footer {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.nav-footer-right {
+  text-align: right;
+}
+
+.nav-footer .bi {
+  font-size: 1.5rem;
+  margin: 0 0.5rem;
+}

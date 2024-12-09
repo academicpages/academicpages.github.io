@@ -1,0 +1,122 @@
+---
+title: "Welcome to My Tech Journey"
+page-layout: full
+title-block-banner: true
+listing:
+  - id: recent-posts
+    contents: posts
+    type: default
+    fields: [title, date]
+    sort: "date desc"
+    max-items: 3
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![Kunal Das - DevOps and Cloud ](./posts/media/profile-pic.png)
+<!-- ![Kunal Das - DevOps and Cloud ](./posts/media/profile-pic.png){.rounded-circle .border .border-3 .border-primary .shadow} -->
+:::
+
+::: {.column width="70%"}
+# Hello, I'm Kunal Das 👋
+
+I'm a passionate DevOps Lead and Cloud Administrator with a drive for creating efficient, scalable technology solutions. My expertise lies in streamlining processes, optimizing infrastructures, and solving complex technical challenges.
+
+## 🎯 Professional Focus
+
+- **DevOps Leadership**: Leading teams in implementing robust CI/CD pipelines and infrastructure automation
+- **Cloud Architecture**: Designing and managing solutions across Azure, AWS, and GCP
+- **Cost Optimization**: Proven track record of reducing operational costs while improving system performance
+- **Technical Innovation**: Constantly exploring new technologies and methodologies
+
+## 🌱 Current Endeavors
+
+- 📚 Pursuing MS in Data Science
+- 🎓 Sharing knowledge through technical writings and talks
+- 💡 Exploring emerging trends in MLOps and Cloud Native technologies
+
+## 🔗 Let's Connect
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kunaldaskd)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kunald_official)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunaldaskd)
+:::
+
+::::
+
+::: {.container .mt-5}
+::: {.grid .gap-4 .mb-5}
+
+::: {.g-col-12 .g-col-md-6}
+## 📝 Recent Articles
+::: {.card .shadow-sm .h-100}
+::: {.card-body .p-4}
+::: {#recent-posts}
+:::
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## 🌟 Highlighted Projects
+::: {.card .shadow-sm .h-100}
+::: {.card-body .p-4}
+💰 **[Azure VM Price Checker](https://azurevmpricechecker.streamlit.app)**
+
+A lightning-fast tool for comparing Azure VM prices across regions. Built with Python and Streamlit, this application leverages the Azure Retail Prices API to provide instant price comparisons across all Azure regions.
+
+Features include:
+
+- Quick SKU search with real-time filtering
+- Comprehensive price comparison across regions
+- Multiple pricing models (Spot, Reserved Instances, Dev/Test)
+- Fast, responsive interface with concurrent API calls
+- No Azure credentials required
+
+*Tech Stack: Python, Streamlit, Azure Retail Prices API, ThreadPoolExecutor, Pandas*
+:::
+:::
+:::
+
+:::
+:::
+
+::: {.container .mt-5 .pt-5}
+## 💪 Technical Expertise
+
+::: {.grid .mt-4}
+
+::: {.g-col-6 .g-col-md-3}
+### Cloud Platforms
+- Azure
+- AWS
+- Google Cloud
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### DevOps Tools
+- Docker
+- Kubernetes
+- Jenkins
+- Terraform
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### Programming
+- Python
+- Bash
+- Java
+- C/C++
+:::
+
+::: {.g-col-6 .g-col-md-3}
+### Other Skills
+- MLOps
+- Data Engineering
+- System Design
+- Automation
+:::
+
+:::
+:::

@@ -1,0 +1,87 @@
+---
+title: "About Me"
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](./posts/media/profile-pic.png)
+
+### Connect with Me
+<p align="left">
+<a href="https://twitter.com/kunald_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kunald_official" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunaldaskd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kunaldaskd" height="30" width="40" /></a>
+</p>
+
+📝 **Read my articles on [Medium](https://medium.com/@kunaldaskd)**
+:::
+
+::: {.column width="70%"}
+## Professional Journey
+
+### Sr DevOps Engineer at Cyncly
+*March 2024 - Present*
+
+- Collaboration with developers to deploy API in microservice based architecture
+- Branching strategy, Deployment strategy, approval mechanism, DevOps Workflow design and setup
+- Fine tuning resources to match the needs of AI Models and Cost optimization
+
+### DevOps Lead at Tiger Analytics
+*July 2022 - March 2024*
+
+- Accelerated deployment cycle through ETL pipeline automation for a BFS provider
+- Implemented CI/CD automation in the Europe region, reducing manual deployment time by half
+- Cut Data bricks costs by 35% using a microservice architecture on Azure
+- Developed one-click infrastructure deployment using Azure DevOps and Terraform
+
+### Cloud Admin at Pinacle Technologies
+*November 2020 - July 2022*
+
+- Managed migration of 50+ workloads to ARM-based Azure Cloud
+- Established serverless notification system with 99% uptime
+
+### Previous Roles
+- Server Admin at Quess Corp Limited (2019-2020)
+- System Admin at Precision Infomatic (2017-2019)
+:::
+
+::::
+
+## Education
+- MS in Data Science - Liverpool John Moores University, UK
+- B. Tech in Electronics and Communication Engineering - Seacom Engineering College, India
+- Diploma in Electronics and Telecommunication Engineering - Ramakrishna Mission Shilpamandira, India
+
+## Certifications
+### Microsoft Azure
+- [AZ-400](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/8EE29C994AF3E0FB?sharingId=D3163C5C8DC3CA89)
+- [AZ-104](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/C7C88BA78C786F7C?sharingId=D3163C5C8DC3CA89)
+- [AZ-204](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/B74FC4B5FAB93252?sharingId=D3163C5C8DC3CA89)
+- [AZ-700](https://learn.microsoft.com/api/credentials/share/en-gb/kunaldas-1562/386D2CE66397401B?sharingId=D3163C5C8DC3CA89)
+- [AZ-900](https://www.credly.com/badges/24820cce-4772-42ab-9d24-d6f2399d5d42/linked_in_profile)
+
+### HashiCorp Terraform
+- [HashiCorp Terraform Associate (003)](https://www.credly.com/badges/82c75d4f-a7a6-412e-b289-9af5e595c855/public_url)
+
+
+
+## Technical Expertise
+
+### Core Skills
+- Cloud Platforms: Azure, GCP
+- Containerization: Docker, Kubernetes
+- CI/CD: Azure DevOps, GitHub Actions, Jenkins
+- Infrastructure as Code: Terraform, ARM
+- Programming: Python, Bash, PowerShell
+- Monitoring: Grafana
+- Version Control: Git
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+
+## Languages
+- Bengali - Native
+- English - Proficient
+- Hindi - Proficient
+- Spanish - Beginner
