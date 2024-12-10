@@ -23,7 +23,7 @@ redirect_from:
 
 **Short Description:** Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection) <br>
 
 ---
 
