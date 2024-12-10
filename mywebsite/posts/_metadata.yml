@@ -1,0 +1,11 @@
+comments: 
+  giscus:
+    repo: kunalworldwide/kunalworldwide.github.io
+    repo-id: R_kgDOLCIa1w
+    category: General
+    category-id: DIC_kwDOLCIa184ClGQR
+    mapping: pathname
+    reactions-enabled: true
+    input-position: bottom
+    theme: preferred_color_scheme
+    language: en

@@ -7,6 +7,7 @@ image: "https://miro.medium.com/v2/resize:fit:720/format:webp/1*u3A9mWuZN_E-v-W8
 reading-time: true
 aliases:
   - /posts/2022-10-12-Deploying-Azure-Data-Factory.html
+comments: false
 ---
 
 ![Kunal Das, Author](https://miro.medium.com/v2/resize:fill:44:44/1*kfaefcgQPHrPsNobjuiiSg.jpeg)
