@@ -2,23 +2,11 @@ project:
   type: website
 
 website:
-  google-analytics: "G-F6QMDZ292L"
   title: "Kunal Das"
+  google-analytics: "G-F6QMDZ292L"
   favicon: assets/icon.png
   site-url: https://kunaldas.dev
   description: "DevOps & Cloud Technology Blog"
-  comments:
-    giscus:
-      repo: kunalworldwide/kunalworldwide.github.io
-      repo-id: R_kgDOLCIa1w
-      category: General
-      category-id: DIC_kwDOLCIa184ClGQR
-      mapping: pathname
-      reactions-enabled: true
-      # emit-metadata: false
-      input-position: bottom
-      theme: preferred_color_scheme
-      language: en
   navbar:
     background: dark
     search: true
