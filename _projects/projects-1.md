@@ -1,6 +1,6 @@
 ---
-title: "Nature-inspired metamaterial based shape changing interfaces"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/Teaser5.png'>"
+title: "Nature-inspired metamaterial based shape-changing interfaces"
+excerpt: "This project page shows sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. This project aims to help designers to design and simulate the presented structures. <br/><img src='/images/Teaser5.png'>"
 collection: projects
 ---
 
