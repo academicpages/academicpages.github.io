@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My All Projects"
+title: "📋 My All Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -62,4 +62,19 @@ Feel free to reach out for collaborations or inquiries:
 **Email:** your-email@example.com  
 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
+
+
+<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
+
+### Project 1: Sentiment Analysis
+**Domain:** <span style="color:blue;">Natural Language Processing</span>  
+**Libraries Used:** TensorFlow, Keras  
+**Description:**  
+Perform sentiment analysis on social media text to classify posts as positive, negative, or neutral.
+
+![Project Image](path/to/image.jpg)
+
+**[View Code](https://github.com/yourusername/project1)**
+
+</div>
 
