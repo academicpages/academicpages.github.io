@@ -16,9 +16,8 @@ website:
       mapping: pathname
       reactions-enabled: true
       # emit-metadata: false
-      input-position: top
+      input-position: bottom
       theme: preferred_color_scheme
-      loading: lazy
       language: en
   navbar:
     background: dark
@@ -53,7 +52,6 @@ website:
 
 format:
   html:
-    include-after-body: _partials/comments.html
     theme:
       light: [cosmo, theme-light.scss]
       dark: [darkly, theme-dark.scss]
