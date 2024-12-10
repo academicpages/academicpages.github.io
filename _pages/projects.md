@@ -51,8 +51,6 @@ redirect_from:
 
 ---
 
----
-
 ## 🚀 Books Recommendation System
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
@@ -62,8 +60,6 @@ redirect_from:
 **Short Description:** A book recommendation system suggests books to users based on their preferences, past interactions, or similar user profiles, utilizing algorithms to enhance personalized reading suggestions.
 
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Book-Recommendation-System)
-
----
 
 ---
 
@@ -90,7 +86,6 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Cats-vs-Dogs-Classification-Using-CNN/tree/master)
 
 ---
----
 
 ## 🚀 Cat Vs Dog Classification Using Transfer Learning
 
@@ -102,7 +97,6 @@ redirect_from:
 
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Cats-vs-Dogs-Classification-Using-CNN/tree/master)
 
----
 ---
 
 ## 🚀 Face Mask Detection
@@ -116,7 +110,6 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Face-Mask-Detection)
 
 ---
----
 
 ## 🚀 Fashion Recommendation System Using Transfer Learning
 
@@ -128,7 +121,6 @@ redirect_from:
 
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Fashion-Recommendation-System-using-TL)
 
----
 ---
 
 ## 🚀 Person Identification and Attendance System
@@ -142,7 +134,6 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Person-Identification-and-Attendance-System)
 
 ---
----
 
 ## 🚀 Cotton Plant Disease Prediction
 
@@ -154,7 +145,6 @@ redirect_from:
 
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Deep-Learning/tree/master/Supervised%20Learning/CNN%20With%20Keras/Cotton%20Plant%20Disease)
 
----
 ---
 
 ## 🚀 Which Bollywood Celebrity Are You Using Transfer Learning
@@ -168,7 +158,6 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Which-Bollywood-Celebrity-Are-You_)
 
 ---
----
 
 ## 🚀 CIFAR-10 Object Recognition using ResNet50
 
@@ -180,7 +169,6 @@ redirect_from:
 
 **Implementation Code:** 🤖 [View Code](https://colab.research.google.com/drive/1hz8Z14aNn0424hqUQ_7lKqR0QJKtP2u8)
 
----
 ---
 
 ## 🚀 Digits Classification
@@ -194,7 +182,6 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Classify-Dights-Using-CNN)
 
 ---
----
 
 ## 🚀 Customers Churn Prediction
 
@@ -207,5 +194,3 @@ redirect_from:
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Customers-Churn-Prediction-using-ANN)
 
 ---
-
-
