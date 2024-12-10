@@ -14,67 +14,44 @@ redirect_from:
 ## Project List
 
 ### 1. Spam Email Classification
-**Domain:** [NLP]  
+
+**Domain:** <span style="color:blue">NLP</span> 
+
 **Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas```
+
 **Short Description:**  
-[Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.]
+Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)  
-
-![Project Image](path/to/project-image.jpg)
-
----
-
-### 2. Project Title
-**Domain:** [Domain Name]  
-**Libraries Used:** [List of Libraries/Frameworks]  
-**Short Description:**  
-[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
-
-**Implementation Code:** [View Code](https://github.com/yourusername/your-project2-repo)  
+**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
 
 ![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg)
 
 ---
 
-### 3. Project Title
-**Domain:** [Domain Name]  
-**Libraries Used:** [List of Libraries/Frameworks]  
+### 2. Spam Email Classification Using AvgWord2Vec
+
+**Domain:** <span style="color:blue">NLP</span> 
+
+**Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas, Seaborn, Matplotlib```
+
 **Short Description:**  
-[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
+Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** [View Code](https://github.com/yourusername/your-project3-repo)  
-
-![Project Image](path/to/project-image.jpg)
+**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Email-Classification)
 
 ---
 
-## How to Use This Repository
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   ```
-2. Navigate to the project folder to explore individual projects.
-3. Open the relevant files or follow the instructions in the project-specific documentation.
+### 3. Content Based Movie Recommendation System
 
-## Contact
-Feel free to reach out for collaborations or inquiries:  
-**Email:** your-email@example.com  
-**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+**Domain:** <span style="color:blue">NLP</span> 
 
+**Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas, Seaborn, Matplotlib```
 
+**Short Description:**  
+A content-based movie recommendation system suggests movies to users based on the characteristics of items they have liked or interacted with, analyzing content features such as genres, keywords, or actors to make personalized recommendations.
 
-<div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 20px;">
+**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Content-Based-Movie-Recommendation-System)
 
-### Project 1: Sentiment Analysis
-**Domain:** <span style="color:blue;">Natural Language Processing</span>  
-**Libraries Used:** TensorFlow, Keras  
-**Description:**  
-Perform sentiment analysis on social media text to classify posts as positive, negative, or neutral.
+---
 
-![Project Image](path/to/image.jpg)
-
-**[View Code](https://github.com/yourusername/project1)**
-
-</div>
 
