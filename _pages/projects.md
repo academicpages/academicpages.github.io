@@ -15,7 +15,7 @@ redirect_from:
 
 ## 🚀 Spam Email Classification
 
-![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg){: .align-left width="300px"}
+![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg){: .align-top width="300px"}
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -23,11 +23,9 @@ redirect_from:
 
 **Short Description:** Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection) <br>
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
 
 ---
-
-
 
 ## 🚀 Spam Email Classification Using AvgWord2Vec
 
