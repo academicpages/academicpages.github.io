@@ -4,4 +4,10 @@ excerpt: "This project page shows sparsely actuated metamaterial systems for des
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## [Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)
+
+## Related Academic work
+
+<sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
+<sub> (Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
+<sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
