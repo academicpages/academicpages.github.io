@@ -7,6 +7,19 @@ website:
   favicon: assets/icon.png
   site-url: https://kunaldas.dev
   description: "DevOps & Cloud Technology Blog"
+  comments:
+    giscus:
+      repo: kunalworldwide/kunalworldwide.github.io
+      repo-id: R_kgDOLCIa1w
+      category: General
+      category-id: DIC_kwDOLCIa184ClGQR
+      mapping: pathname
+      reactions-enabled: true
+      # emit-metadata: false
+      input-position: top
+      theme: preferred_color_scheme
+      loading: lazy
+      language: en
   navbar:
     background: dark
     search: true
@@ -40,6 +53,7 @@ website:
 
 format:
   html:
+    include-after-body: _partials/comments.html
     theme:
       light: [cosmo, theme-light.scss]
       dark: [darkly, theme-dark.scss]
