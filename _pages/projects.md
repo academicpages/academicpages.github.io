@@ -23,7 +23,7 @@ redirect_from:
 
 **Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
 
-<!-- ![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg) -->
+![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg){: .align-left width="300px"}
 
 ---
 
