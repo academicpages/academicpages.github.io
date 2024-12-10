@@ -13,44 +13,55 @@ redirect_from:
 
 ## Project List
 
-### 1. Spam Email Classification
+## 1. Spam Email Classification
 
-**Domain:** <span style="color:blue">NLP</span> 
+**Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
 **Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas```
 
-**Short Description:**  
-Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
+**Short Description:** Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)
 
 ![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg)
 
 ---
 
-### 2. Spam Email Classification Using AvgWord2Vec
+## 2. Spam Email Classification Using AvgWord2Vec
 
-**Domain:** <span style="color:blue">NLP</span> 
+**Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
 **Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas, Seaborn, Matplotlib```
 
-**Short Description:**  
-Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
+**Short Description:** Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.
 
-**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Email-Classification)
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Email-Classification)
 
 ---
 
-### 3. Content Based Movie Recommendation System
+## 3. Content Based Movie Recommendation System
 
-**Domain:** <span style="color:blue">NLP</span> 
+**Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
 **Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas, Seaborn, Matplotlib```
 
-**Short Description:**  
-A content-based movie recommendation system suggests movies to users based on the characteristics of items they have liked or interacted with, analyzing content features such as genres, keywords, or actors to make personalized recommendations.
+**Short Description:** A content-based movie recommendation system suggests movies to users based on the characteristics of items they have liked or interacted with, analyzing content features such as genres, keywords, or actors to make personalized recommendations.
 
-**Implementation Code:** [🤖 View Code](https://github.com/alaminbhuyan/Content-Based-Movie-Recommendation-System)
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Content-Based-Movie-Recommendation-System)
+
+---
+
+---
+
+## 4. Books Recommendation System
+
+**Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
+
+**Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas, Seaborn, Matplotlib```
+
+**Short Description:** A book recommendation system suggests books to users based on their preferences, past interactions, or similar user profiles, utilizing algorithms to enhance personalized reading suggestions.
+
+**Implementation Code:** 🤖 [View Code](https://github.com/alaminbhuyan/Book-Recommendation-System)
 
 ---
 
