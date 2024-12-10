@@ -7,5 +7,7 @@ comments:
     mapping: pathname
     reactions-enabled: true
     input-position: bottom
-    theme: preferred_color_scheme
+    theme: 
+     light: theme-light.scss
+     dark: theme-dark.scss
     language: en
