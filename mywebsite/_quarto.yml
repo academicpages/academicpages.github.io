@@ -5,7 +5,8 @@ website:
   title: "Kunal Das"
   favicon: assets/icon.png
   site-url: https://kunaldas.dev
-  description: "DevOps & Cloud Technology Blog"
+  description: "DevOps & Cloud Technology Blog".
+  google-analytics: "G-F6QMDZ292L"
   navbar:
     background: dark
     search: true
