@@ -11,9 +11,9 @@ redirect_from:
 
 > Welcome to my academic portfolio of machine learning projects! This repository highlights the various projects I've worked on, along with their key details.
 
-## Project List
+## 📜 Project List
 
-## 1. Spam Email Classification
+## 🚀 Spam Email Classification
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -27,7 +27,7 @@ redirect_from:
 
 ---
 
-## 2. Spam Email Classification Using AvgWord2Vec
+##🚀 Spam Email Classification Using AvgWord2Vec
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -39,7 +39,7 @@ redirect_from:
 
 ---
 
-## 3. Content Based Movie Recommendation System
+##🚀 Content Based Movie Recommendation System
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -53,7 +53,7 @@ redirect_from:
 
 ---
 
-## 4. Books Recommendation System
+##🚀 Books Recommendation System
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -67,7 +67,7 @@ redirect_from:
 
 ---
 
-## 5. Male and Female Name Classification
+##🚀 Male and Female Name Classification
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
@@ -79,7 +79,7 @@ redirect_from:
 
 ---
 
-## 6. Cat Vs Dog Classification
+##🚀 Cat Vs Dog Classification
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -92,7 +92,7 @@ redirect_from:
 ---
 ---
 
-## 7. Cat Vs Dog Classification Using Transfer Learning
+##🚀 Cat Vs Dog Classification Using Transfer Learning
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -105,7 +105,7 @@ redirect_from:
 ---
 ---
 
-## 8. Face Mask Detection
+##🚀 Face Mask Detection
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -118,7 +118,7 @@ redirect_from:
 ---
 ---
 
-## 8. Fashion Recommendation System Using Transfer Learning
+##🚀 Fashion Recommendation System Using Transfer Learning
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Image Processing</span> 
 
@@ -131,7 +131,7 @@ redirect_from:
 ---
 ---
 
-## 9. Person Identification and Attendance System
+##🚀 Person Identification and Attendance System
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -144,7 +144,7 @@ redirect_from:
 ---
 ---
 
-## 10. Cotton Plant Disease Prediction
+## 🚀 Cotton Plant Disease Prediction
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -157,7 +157,7 @@ redirect_from:
 ---
 ---
 
-## 11. Which Bollywood Celebrity Are You Using Transfer Learning
+## 🚀 Which Bollywood Celebrity Are You Using Transfer Learning
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -170,7 +170,7 @@ redirect_from:
 ---
 ---
 
-## 12. CIFAR-10 Object Recognition using ResNet50
+## 🚀 CIFAR-10 Object Recognition using ResNet50
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Computer Vision</span> 
 
@@ -183,7 +183,7 @@ redirect_from:
 ---
 ---
 
-## 12. Digits Classification
+## 🚀 Digits Classification
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">Image Processing</span> 
 
@@ -196,7 +196,7 @@ redirect_from:
 ---
 ---
 
-## 12. Customers Churn Prediction
+## 🚀 Customers Churn Prediction
 
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">CRM</span> 
 
