@@ -14,9 +14,7 @@ redirect_from:
 ## 📜 Project List
 
 ## 🚀 Spam Email Classification
-
-![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg){: .align-right width="300px"}
-
+<!-- ![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg){: .align-right width="300px"} -->
 **Domain:** <span style="color: rgb(23, 23, 146); font-weight: bold;">NLP</span> 
 
 **Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas```
