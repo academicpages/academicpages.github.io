@@ -17,7 +17,10 @@ main:
     url: /teaching/    
 
   # - title: "Teaching"
-  #   url: /teaching/    
+  #   url: /teaching/  
+
+  - title: "Projects"
+    url: /cv/    
 
   - title: "Talks"
     url: /talks/    
