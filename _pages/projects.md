@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My all projects"
+title: "My All Projects"
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -9,20 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-
-# My Machine Learning Projects
-
-Welcome to my academic portfolio of machine learning projects! This repository highlights the various projects I've worked on, along with their key details.
+> Welcome to my academic portfolio of machine learning projects! This repository highlights the various projects I've worked on, along with their key details.
 
 ## Project List
 
-### 1. Project Title
-**Domain:** [Domain Name]  
-**Libraries Used:** [List of Libraries/Frameworks]  
+### 1. Spam Email Classification
+**Domain:** [NLP]  
+**Libraries Used:** ```Scikit-learn, NLTK, Numpy, Pandas```
 **Short Description:**  
-[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
+[Spam email classification involves automatically categorizing emails as either spam or not spam (ham) using machine learning algorithms.]
 
-**Implementation Code:** [View Code](https://github.com/yourusername/your-project1-repo)  
+**Implementation Code:** [View Code](https://github.com/alaminbhuyan/Spam-Email-Detection)  
 
 ![Project Image](path/to/project-image.jpg)
 
@@ -36,7 +33,7 @@ Welcome to my academic portfolio of machine learning projects! This repository h
 
 **Implementation Code:** [View Code](https://github.com/yourusername/your-project2-repo)  
 
-![Project Image](path/to/project-image.jpg)
+![Project Image](https://alaminbhuyan.github.io/images/alamin.jpg)
 
 ---
 
