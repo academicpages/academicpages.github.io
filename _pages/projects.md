@@ -9,56 +9,60 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience![alt text](image.png)
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# My Machine Learning Projects
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Welcome to my academic portfolio of machine learning projects! This repository highlights the various projects I've worked on, along with their key details.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Project List
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### 1. Project Title
+**Domain:** [Domain Name]  
+**Libraries Used:** [List of Libraries/Frameworks]  
+**Short Description:**  
+[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
+
+**Implementation Code:** [View Code](https://github.com/yourusername/your-project1-repo)  
+
+![Project Image](path/to/project-image.jpg)
+
+---
+
+### 2. Project Title
+**Domain:** [Domain Name]  
+**Libraries Used:** [List of Libraries/Frameworks]  
+**Short Description:**  
+[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
+
+**Implementation Code:** [View Code](https://github.com/yourusername/your-project2-repo)  
+
+![Project Image](path/to/project-image.jpg)
+
+---
+
+### 3. Project Title
+**Domain:** [Domain Name]  
+**Libraries Used:** [List of Libraries/Frameworks]  
+**Short Description:**  
+[Provide a concise description of the project. Mention the problem it solves or the insights it offers.]
+
+**Implementation Code:** [View Code](https://github.com/yourusername/your-project3-repo)  
+
+![Project Image](path/to/project-image.jpg)
+
+---
+
+## How to Use This Repository
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/your-repository.git
+   ```
+2. Navigate to the project folder to explore individual projects.
+3. Open the relevant files or follow the instructions in the project-specific documentation.
+
+## Contact
+Feel free to reach out for collaborations or inquiries:  
+**Email:** your-email@example.com  
+**LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+
+
