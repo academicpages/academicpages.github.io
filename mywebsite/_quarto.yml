@@ -2,11 +2,11 @@ project:
   type: website
 
 website:
+  google-analytics: "G-F6QMDZ292L"
   title: "Kunal Das"
   favicon: assets/icon.png
   site-url: https://kunaldas.dev
-  description: "DevOps & Cloud Technology Blog".
-  google-analytics: "G-F6QMDZ292L"
+  description: "DevOps & Cloud Technology Blog"
   navbar:
     background: dark
     search: true
