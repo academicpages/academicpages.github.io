@@ -8,9 +8,22 @@ redirect_from:
 ---
 
 My research interests lie broadly in gravity and field theory, with a strong emphasis on formal theory. 
-I am currently interested in using causality and extremal horizons as tools to identify physical effective field theories (EFTs), finding covariant actions that manifest electromagnetic duality in gravity, and exploring $T\overline{T}$ deformed theories coupled to JT gravity. 
+I am currently interested in using causality and extremal black holes as tools to identify physical effective field theories (EFTs), finding covariant actions that manifest electromagnetic duality in gravity, and exploring $T\overline{T}$ deformed theories coupled to JT gravity. 
 
 To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
+
+## Deformations of Extremal Black Holes
+
+Black holes are ubiquitous objects in our universe, that (in four dimensions) can be characterised by their mass, charge, and angular momentum. 
+Physical black holes satisfy certain inequalities that put upper limits on their charge and angular momentum, and black holes saturating these are known as extremal black holes.
+Recently, it has been argued that certain static deformations lead to singularities at their horizons. 
+
+Intriguingly, this effect is absent for particular modes in GR, so that the existence of these diverging tidal forces depends strongly on the Wilson coefficients of the EFT. 
+This is however in stark contrast with usual intuition we have about EFTs, namely the principles of decoupling and separation of scales. 
+In my work in collaboration with Andrew J. Tolley and Claudia de Rham, I take a closer look at these deformations to resolve this underlying tension. 
+We clarify that the apparent UV sensitivity is not due to a breakdown of EFT, but rather indicates metric perturbation theory breaking down.
+This is demonstrated by an example of a partial UV completion.
+We also discuss a speculative bound on EFT Wilson coefficients linked to the weak gravity conjecture.
 
 ## Infrared Causality
 
@@ -44,10 +57,10 @@ The symmetry turns out to be off-shell, which has inspired a long history of fin
 For a long time, this closely mirrored electromagnetic duality, for which this problem was solved in recent years.
 
 In ongoing work with Karapet Mkrtchyan, Euihun Joung, and Junggi Yoon I am studying ways to find covariant actions that make this symmetry manifest. 
-The goal is to achieve the same for gravity in $D=4$ and eventually for gravity and higher-spins in higher dimensions. 
-As a concession to simplicity, we are studying toy models in AdS, for which there is a close relation to spin-1 theories where manifestly dual and covariant actions are better understoodMy goal is to achieve the same for gravity in $D=4$ and eventually for gravity and higher-spins in higher dimensions. 
+For simplicity, we are studying a toy model in AdS, for which there is a close relation to spin-1 theories where manifestly dual and covariant actions are better understood.
+My goal is to achieve the same for gravity in $D=4$ and eventually for massless and partially massless gravity and higher-spins in higher dimensions. 
 
-## TTbar Deformations
+## TTbar Deformations and JT Gravity
 
 Lower-dimensional systems offer unique opportunities for studying quantum aspects of gravity. 
 In ongoing work with Andrew J. Tolley, I am exploring $T\overline{T}$-deformed theories coupled to JT gravity.
