@@ -23,6 +23,7 @@ My research interests include
 
 # News
 ### 2024
+- ✈️ [Dec 2024] Attending [NeurIPS 2024](https://nips.cc/Conferences/2024) in Vancouver, Canada
 - 👨‍🏫 [Oct 2024] Designated as a co-director of a newly founded [Causal ML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at the Institute of AI in Management, LMU Munich  
 - 🎤 [Oct 2024] Holding a guest lecture 'Causal machine learning for predicting treatment outcomes' at the [Online Machine Learning School 2024](https://valentyn1997.github.io/talks/2024-10-09-lecture-omls-2024/)
 - 📙 [Sep 2024] 2 papers accepted at NeurIPS 2024: [Quantifying Aleatoric Uncertainty of the Treatment Effect: A Novel Orthogonal Learner](https://valentyn1997.github.io/publications/2024-11-06-quantifying-aleatoric-uncertainty-of-the-treatment-effect-a-novel-orthogonal-learner/) (poster), [DiffPO: A causal diffusion model for predicting potential outcomes of treatments](https://valentyn1997.github.io/publications/2024-10-11-DiffPO-a-causal-diffusion-model-for-predicting-potential-outcomes-of-treatments/) (poster)
