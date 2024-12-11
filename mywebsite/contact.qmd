@@ -17,13 +17,13 @@ Visit my [Topmate Profile](https://topmate.io/kunaldas) to book a one-on-one ses
   <div class="card">
     <h3>🎯 Quick Chat</h3>
     <p>15-minute focused discussion</p>
-    <a href="https://calendly.com/kunalworldwide/15min" class="button">Schedule Now</a>
+    <a href="https://calendly.com/kunalworldwide/quick-chat" class="button">Schedule Now</a>
   </div>
   
   <div class="card">
     <h3>🚀 Deep Dive</h3>
     <p>30-minute detailed consultation</p>
-    <a href="https://calendly.com/kunalworldwide/30min" class="button">Schedule Now</a>
+    <a href="https://topmate.io/kunaldas" class="button">Schedule Now</a>
   </div>
 
   <div class="card">
