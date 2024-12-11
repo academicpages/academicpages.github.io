@@ -14,15 +14,32 @@ I am a 4th year PhD student in the [Computer Science department](https://cse.ucs
 I am broadly interested in both the theory and practice of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and deep learning theory. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
 the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<be>
 
-My recent/ongoing work is on distance functions, generalization in kernel machines, selective classification, and understanding grokking in trained models. Please feel free to drop an email if you have interesting ideas to discuss on these topics.
+More recently, I'm interested in the following problems:
 
+- **Learning Distance Functions:**  
+  Exploring the intersection of manifold learning, linear representation hypothesis, and classical distance learning.<br>
+  [ArXiv 2024](https://arxiv.org/pdf/2412.01290)
+
+- **Kernel Machines:**  
+  Investigating the statistical-computational gap in learning with fixed or adaptive kernels.<br>
+  [ArXiv 2024](https://arxiv.org/abs/2411.11242), [ArXiv 2021](https://arxiv.org/pdf/2010.14043.pdf)
+
+- **Emergent Behavior in Neural Models:**  
+  Studying phenomena such as grokking and phase transitions in neural architectures.<br>
+  [Work in progress]()
+
+- **Generalization with Non-Parametric Models:**  
+  Addressing reliability and hallucination issues in models using simple yet interpretable classifiers like nearest neighbors.  
+  <span style="color:blue"><i>Manuscript on selective classification with Neareat neighbors available</i></span>
+
+  
 **Contact**: (username id) akk002 at ucsd dot edu
 
 <i> I'm looking for a research/engineer position for a summer internship in 2025. Please request a CV via email. </i>
 
 # Recent News
-1. [Dec, 2024] I'll be attending [Unknown Futures of Generalization workshop](https://simons.berkeley.edu/workshops/unknown-futures-generalization) at Simons Institute, UC Berkeley.
-1. [June-Sept, 2023] I was a research scientist intern at Adobe Research (San Jose, CA).
+1. [Dec, 2024] Attended [Unknown Futures of Generalization workshop](https://simons.berkeley.edu/workshops/unknown-futures-generalization) at Simons Institute, UC Berkeley.
+1. [Summer, 2023] I was a research scientist intern at Adobe Research (San Jose, CA).
 1. [Aug, 2022] Attended the [Deep learning theory workshop](https://simons.berkeley.edu/workshops/deep-learning-theory-workshop) at Simons Institute, UC Berkeley.
 1. [July, 2022] Attended a summer school on Discrete Mathematics at Charles University, Prague (CZK).
 
@@ -70,7 +87,7 @@ in the Learning-with-Equivalence-Queries Paradigm </b> <br>
 **Akash Kumar**, Mithilesh Kumar.<br> 
 [[ArXiv 2020](https://arxiv.org/abs/2008.09660)]
 
-# Talks
+# Recent talks
 Feature Learning in Large Language Models (Adobe Research, San Jose)<br>
 Teaching via Best-case Counterexamples (UCSD AI Seminar)
 
