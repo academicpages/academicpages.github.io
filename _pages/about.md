@@ -11,8 +11,7 @@ redirect_from:
 # About Me
 I am a 4th year PhD student in the [Computer Science department](https://cse.ucsd.edu/) at the [University of California San Diego](https://ucsd.edu/) where I work with Prof. [Sanjoy Dasgupta](https://cseweb.ucsd.edu/~dasgupta/) and Prof. [Misha Belkin](http://misha.belkin-wang.org/). I completed a BSc in Mathematics and Computer Science, followed by an MSc in Computer Science at [Chennai Mathematical Institute (CMI, India)](https://www.cmi.ac.in/). Previously, I have held positions as a research scientist intern/fellow at Adobe Research (San Jose, CA), Max Planck Insitute for Software Systems (Germany), and IBM Research (Bengaluru, IN).
 
-I am broadly interested in both the theory and practice of machine learning. More specifically, I'm interested in statistical machine learning, algorithms, interactive learning, optimization, and deep learning theory. I'm enthusiastic to explore and apply ideas from probability theory, analysis, differential geometry, and statistics to understand 
-the computational and statistical efficiency of learning methods, and the extent to which machines can learn from data.<be>
+I am broadly interested in advancing both the theoretical foundations and practical applications of machine learning. Specifically, my focus lies in statistical machine learning, algorithm design, interactive learning, optimization, and the theoretical aspects of deep learning. I am particularly enthusiastic about leveraging tools from probability theory, analysis, differential geometry, and statistics to rigorously study the computational and statistical efficiency of learning algorithms. My goal is to deepen our understanding of the principles underlying data-driven learning and the capabilities of machines to extract meaningful insights from complex datasets.<be>
 
 More recently, I'm interested in the following problems:
 
@@ -35,7 +34,7 @@ More recently, I'm interested in the following problems:
   
 **Contact**: (username id) akk002 at ucsd dot edu
 
-<i> I'm looking for a research/engineer position for a summer internship in 2025. Please request a CV via email. </i>
+<span style="color:red"><i> I'm looking for a research/engineer position for a summer internship in 2025. Please request a CV via email. </i></span>
 
 # Recent News
 1. [Dec, 2024] Attended [Unknown Futures of Generalization workshop](https://simons.berkeley.edu/workshops/unknown-futures-generalization) at Simons Institute, UC Berkeley.
