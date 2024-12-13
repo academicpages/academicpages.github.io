@@ -6,59 +6,75 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Technology, University of Chinese Academy of Sciences, Institute of Automation, 2022-2025 (expected)
+  * GPA: 3.68/4
+  * Major Courses: Information Theory (93), Advanced Operating Systems (92), Principles and Applications of Computational Game Theory
+* B.S. in Biotechnology, Northwest A&F University, College of Life Sciences, 2016-2020
+  * Major Courses: Inorganic Chemistry (97), Genomics and Proteomics, Bioinformatics
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024-Present: Research Intern
+  * Camel.ai & KAUST
+  * Projects:
+    * Created StarCraft II mini-games multimodal environment
+    * Implemented VLM (GPT4o) integration for StarCraft II gameplay
+    * Developed real-time game state understanding approaches
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2024-Present: Research Collaboration
+  * Tencent AI Lab
+  * Projects:
+    * Leading development of large-scale RL models
+    * Built StarCraft II community dataset
+    * Applied adapter tuning techniques for DI-star
+    * Developed RL and language model integration approaches
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* June 2023-Present: Research Assistant
+  * Group Decision Intelligence Laboratory, UCAS
+  * Projects:
+    * Led "Large Language Models Play StarCraft II" project (Neurips 2024)
+    * Created LLM Agent framework and TextSC2 environment
+    * Developed multiple high-impact GitHub projects
+    * Leading "Adaptive Command" project research
+
+* March 2022-June 2023: Research Assistant
+  * Institute of Automation, UCAS
+  * Projects:
+    * Established RL environment for StarCraft II
+    * Implemented PPO and D3QN algorithms
+    * Created CSGO AI system using visual imitation learning
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & AI/ML
+  * PyTorch
+  * LLMs
+  * Reinforcement Learning
+  * Deep Learning
+  * Prompt Engineering
+* Game AI Development
+  * StarCraft II API
+  * CSGO Engine
+  * LLM Agent Building
+* Professional Gaming Achievements
+  * StarCraft II Grandmaster League (Korean Server)
+  * WESG China Regional Finals Top 24
+  * NESO China Regional Finals Top 24
+  * NSL Challenger Division Runner-up
+* Languages
+  * English (IELTS 6.5)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Ma, W. Y., et al. (2024). "Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach." Neurips 2024.
+* "Token-level Direct Preference Optimization." ICML 2024. (Third Author)
+* Ma, W. Y., et al. (2024). "Adaptive Command: Real-Time Policy Adjustment via Language Models in StarCraft II." DAI 2024.
+
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* First Prize in MathorCup Challenge (2023)
+* Second Prize in UCAS Innovation Competition (2023)
