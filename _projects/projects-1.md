@@ -8,7 +8,7 @@ collection: projects
 ---
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="50%">
-    <source src="../videos/MetamaterialAppsShort.mp4" type="video/mp4" width="40%">
+    <source src="/videos/MetamaterialAppsShort.mp4" type="video/mp4" width="40%">
   </video>
 </figure>
 
