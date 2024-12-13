@@ -6,10 +6,15 @@ excerpt: "This project page shows sparsely actuated metamaterial systems for des
 
 collection: projects
 ---
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" width="50%">
+    <source src="../videos/MetamaterialAppsShort.mp4" type="video/mp4" width="40%">
+  </video>
+</figure>
 
-## [Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)
+**[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
-## Related Academic work
+**Related Academic work**
 
 <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
 <sub> (Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
