@@ -11,35 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D --- Waiting for offer
+* B.Eng. in Electronic Science and Technology, Xidian University, 2019 - 2023
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Jul. 2024 --> Dec. 2024: Research Internship
+  * Fusion Ride Inc.
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Haohao Hui
 
-* Fall 2015: Research Assistant
-  * Github University
+* Oct. 2022 --> Mar. 2023: Research Visiting Student
+  * Tohoku University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: [Prof.Dr. Noriharu Suematsu](https://www.wit.riec.tohoku.ac.jp/)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab / Python / C 
+* CST Studio
+* Hands on skills for integrated circuit board and patch antenna
 
 Publications
 ======
@@ -59,6 +50,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
