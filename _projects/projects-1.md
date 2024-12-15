@@ -14,7 +14,7 @@ collection: projects
 
 **[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
-![](/images/MetamatGif2.gif){: .align-right}{: width="200" } <br><br>
+![](/images/MetamatGif2.gif){: .align-right}{: width="100%" } <br><br>
 
 ![](/images/MetamatGif.gif){: .align-right}{: width="200" } <br><br>
 
