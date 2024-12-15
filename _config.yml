@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaohuai Liu / Personal Homepage"
+title                    : "Shaohuai Liu's personal homepage"
 title_separator          : "-"
 name                     : &name "Shaohuai Liu"
-description              : &description "RL for a harmonious world"
+description              : &description "AI for a harmonious world"
 url                      : https://liushaohuai5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liushaohuai5/liushaohuai5.github.io"
