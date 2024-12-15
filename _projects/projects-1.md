@@ -17,8 +17,10 @@ collection: projects
 ![](/images/MetamatGif2.gif){: .align-right}{: width="100%" } <br><br>
 
 ![](/images/MetamatGif.gif){: .align-right}{: width="600" } <br><br>
+<br><br>
+<br><br>
 
-
+![](/images/MetamatGif.gif) <br><br>
 
 **Related Academic work**
 
