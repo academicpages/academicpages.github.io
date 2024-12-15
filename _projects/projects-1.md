@@ -1,26 +1,25 @@
 ---
 title: "Nature-inspired metamaterial-based shape-changing interfaces"
 excerpt: "This project page shows sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. The presented structures are manufactured by 3D printing and enhanced by modular add-ons. This project aims to help designers to design and simulate the presented structures before construction and provide guidance on modular enhancements after construction. 
-<!-- ![]('/images/MetamaterialShort.gif') -->
-<br/><img src='/images/Teaser5.png'>"
+![]('/images/MetamatGif3.gif')
+<!-- <br/><img src='/images/Teaser5.png'>" -->
 
 collection: projects
 ---
+
+<br/><img src='/images/Teaser5.png'>"
+<!-- ![](/images/MetamatGif3.gif) <br><br> -->
+
+**[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
+
+
+
+**Short presentation video**
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" width="100%">
     <source src="/videos/MetamaterialAppsShort.mp4" type="video/mp4" width="100%">
   </video>
 </figure>
-
-**[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
-
-![](/images/MetamatGif2.gif){: .align-right}{: width="100%" } <br><br>
-
-![](/images/MetamatGif.gif){: .align-right}{: width="600" } <br><br>
-<br><br>
-<br><br>
-
-![](/images/MetamatGif.gif) <br><br>
 
 **Related Academic work**
 
