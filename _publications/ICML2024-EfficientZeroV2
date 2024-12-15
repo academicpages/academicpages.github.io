@@ -1,1 +1,22 @@
+---
+title: "EfficientZero-V2: Mastering Discrete and Continuous Control with Limited Data (Spotlight)"
+collection: publications
+permalink: /publication/ICML2024-EfficientZeroV2
+excerpt: 'Sample efficiency remains a crucial challenge in applying Reinforcement Learning (RL) to real-world tasks. While recent algorithms have made significant strides in improving sample efficiency, none have achieved consistently superior performance across diverse domains. In this paper, we introduce EfficientZero V2, a general framework designed for sample-efficient RL algorithms. We have expanded the performance of EfficientZero to multiple domains, encompassing both continuous and discrete actions, as well as visual and low-dimensional inputs. With a series of improvements we propose, EfficientZero V2 outperforms the current state-of-the-art (SOTA) by a significant margin in diverse tasks under the limited data setting. EfficientZero V2 exhibits a notable advancement over the prevailing general algorithm, DreamerV3, achieving superior outcomes in 50 of 66 evaluated tasks across diverse benchmarks, such as Atari 100k, Proprio Control, and Vision Control.'
+date: 2024-05-01
+venue: 'ICML2024'
+paperurl: 'https://arxiv.org/pdf/2403.00564'
+citation: Wang, S., Liu, S., Ye, W., You, J., & Gao, Y. (2024). EfficientZero V2: Mastering Discrete and Continuous Control with Limited Data. arXiv preprint arXiv:2403.00564.
+---
+Sample efficiency remains a crucial challenge in applying Reinforcement Learning (RL) to real-world tasks. While recent algorithms have made significant strides in improving sample efficiency, none have achieved consistently superior performance across diverse domains. In this paper, we introduce EfficientZero V2, a general framework designed for sample-efficient RL algorithms. We have expanded the performance of EfficientZero to multiple domains, encompassing both continuous and discrete actions, as well as visual and low-dimensional inputs. With a series of improvements we propose, EfficientZero V2 outperforms the current state-of-the-art (SOTA) by a significant margin in diverse tasks under the limited data setting. EfficientZero V2 exhibits a notable advancement over the prevailing general algorithm, DreamerV3, achieving superior outcomes in 50 of 66 evaluated tasks across diverse benchmarks, such as Atari 100k, Proprio Control, and Vision Control.
 
+[Download paper here](https://openreview.net/pdf/f74f8223968560f54da45991dd2ba1f3de3ba7cd.pdf)
+
+BibTex:
+'''
+@article{wang2024efficientzero,
+  title={EfficientZero V2: Mastering Discrete and Continuous Control with Limited Data},
+  author={Wang, Shengjie and Liu, Shaohuai and Ye, Weirui and You, Jiacheng and Gao, Yang},
+  journal={arXiv preprint arXiv:2403.00564},
+  year={2024}
+}
