@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "CV"
+  - title: "Resume"
     url: /files/resume.pdf
 
-  - title: "Publications"
+  - title: "Writings"
     url: /publications/
 
-  - title: "Portfolio"
+  - title: "Projects"
     url: /portfolio/    
 
   # - title: "Talks"

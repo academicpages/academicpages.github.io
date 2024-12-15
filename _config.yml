@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ashish's Homepage"
+title                    : "Ashish Jadhav"
 title_separator          : "-"
 name                     : &name "Ashish Shivajirao Jadhav"
 description              : &description ""
@@ -21,14 +21,14 @@ repository               : "ashishjadhav/ashishjadhav.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ashish Shivajirao Jadhav"
   pronouns         : # example: "she/her"  
-  bio              : Working Student @ Compolytics | Deep Learning | MLOps | AWS | Python | Pytorch
+  bio              : ML Engineer at Compolytics | Deep Learning | MLOps | AWS | Python
   location         : "Magdeburg, Germany"
   employer         : "Compolytics GmbH"
-  uri              : # URL
-  email            : "jashish387@gmail.com" 
+  uri              : 
+  email            : # "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

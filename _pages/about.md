@@ -1,31 +1,22 @@
 ---
 permalink: /
-title: "Welcome to My Personal Website"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Aspiring Tech Enthusiast | Student | Future Entrepreneur
-
-Hello! I'm Ashish, a student passionate about technology, cloud  and artificial intelligence. I'm dedicated to mastering these fields and leveraging them to create innovative solutions.
-## About Me
-
-I am currently a student at Otto-von-Guericke University pursuing a masters degree in Electrical Engineering and Information Technology. My journey in technology began when I was in bachelors. Since then, I've been honing my skills in cloud tech, ML, and AI, and I aspire to start my own tech company in the future.
-
-## Skills and Expertise
+I'm passionate about technology, cloud and artificial intelligence. I am currently pursuing masters in Electrical Engineering and Information Technology at [Otto-von-Guericke University](https://www.ovgu.de). My journey in technology began when I was in bachelors. Since then, I've been learning about tech, ML, and AI.
 
 ### Technical Skills
-- **Programming Languages :**  Python , HTML, SQL (basics), C, Pyspark.
-- **Frameworks (DL, ML, CV, NLP ) :**  Tensorflow, Pytorch, Scikit-learn, openCV, opensmile, Rasa.
-- **Libraries (data, visualization, web) :**  Numpy, Pandas, Requests, Matplotlib, Seaborn , Jekyll, Flask.
-- **OS, Shell, version control:**  Linux, bash, Zsh , git cli.
-- **Cloud and MLops :**  AWS, Github, Heroku, MLFlow.
+- **Programming Languages :**  Python, JavaScript, MATLAB, HTML, CSS.
+- **Frameworks (DL, ML, CV, NLP) :**  [Tensorflow](https://www.tensorflow.org), Pytorch, Scikit-learn, openCV, Opensmile, Rasa.
+- **Frameworks (Frontend) :**  Vue, Node.js, Ionic.
+- **Libraries (data, visualization, web) :**  Numpy, Pandas, Requests, Matplotlib, Seaborn, Jekyll, Flask.
+- **OS, Shell, version control :**  Linux, Bash, Zsh, Git.
+- **Tools and Computing Environments :**  SLURM, SSH, HPC Systems.
 
 ### Soft Skills
 - Teamwork, Problem solving, creativity, Resilience, Critical thinking, Communication,
 consultative approach, research.
-
-
-
