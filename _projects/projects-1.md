@@ -16,7 +16,7 @@ collection: projects
 
 ![](/images/MetamatGif2.gif){: .align-right}{: width="100%" } <br><br>
 
-![](/images/MetamatGif.gif){: .align-right}{: width="200" } <br><br>
+![](/images/MetamatGif.gif){: .align-right}{: width="600" } <br><br>
 
 
 
