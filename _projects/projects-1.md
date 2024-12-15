@@ -8,8 +8,6 @@ collection: projects
 <br/><img src='/images/Teaser5.png'>
 <!-- ![](/images/MetamatGif3.gif) <br><br> -->
 
-![](/images/MetamatGif3.gif)
-
 **[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
 
