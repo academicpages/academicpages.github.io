@@ -14,6 +14,10 @@ collection: projects
 
 **[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
+![image-right](/images/MetamaterialShort.gif){: .align-right}{: width="200" } <br><br> Below are some coarse categories containing (some of) my work. Some have their own page for further reading.  (This part of the website is a work-in-progress.) <br><br>
+
+
+
 **Related Academic work**
 
 <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
