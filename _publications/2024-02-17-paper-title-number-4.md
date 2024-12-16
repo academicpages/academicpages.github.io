@@ -1,12 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "n-MVTL Attack: Optimal Transaction Reordering Attack on DeFi"
 collection: publications
 category: conferences
+author: Jianhuan Wang, Jichen Li, Zecheng Li, Xiaotie Deng,Bin Xiao
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: #
+date: 2023
+venue: 'ESORICS'
+paperurl: 'https://www4.comp.polyu.edu.hk/~csbxiao/paper/2023/ESORICS_2023_paper_8668.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
