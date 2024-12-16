@@ -73,7 +73,7 @@ AAMAS 2023: 609-624
 
 MEV Makes Everyone Happy under Greedy Sequencing Rule. 
 Yuhao Li, Mengqian Zhang, Jichen Li, Elynn Chen, Xi Chen, Xiaotie Deng:
-DeFi@CCS 2023: 9-15
+DeFi-CCS 2023: 9-15
 
 2022
 ------
