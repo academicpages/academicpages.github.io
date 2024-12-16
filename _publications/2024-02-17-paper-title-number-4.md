@@ -2,7 +2,6 @@
 title: "n-MVTL Attack: Optimal Transaction Reordering Attack on DeFi"
 collection: publications
 category: conferences
-author: Jianhuan Wang, Jichen Li, Zecheng Li, Xiaotie Deng,Bin Xiao
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: #
 date: 2023
