@@ -71,6 +71,8 @@ Research grant from the Government of Castile and Leon and the European Social F
 
 # PUBLICATIONS: Journal articles
 ===========
+
+
 Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (in press). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación_
 
 Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (in press). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación_
