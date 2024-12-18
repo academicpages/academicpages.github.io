@@ -57,7 +57,9 @@ To run the `docker run` command on Windows, you need to adjust the syntax for th
 ### Steps for Windows:
 1. **Check Docker Installation**: Ensure Docker is installed and running.
 2. **Adjust Path for Volume Mapping**:
+
    - On Windows, replace `$(pwd)` with the full absolute path to your current directory. For example:
+
      ```bash
      -v C:\path\to\your\site:/usr/src/app
      ```
@@ -68,7 +70,7 @@ docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
 ```
 
 ### Things to Keep in Mind:
-1. **Use PowerShell?**:
+1. **Use PowerShell**:
    - If you are using PowerShell, you can use `${PWD}` for the current directory:
      ```bash
      docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
@@ -82,10 +84,12 @@ docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
 
 3. **Run in Command Prompt or PowerShell**:
    - In *Command Prompt*:
+   
      ```bash
      docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
      ```
    - In *PowerShell*:
+
      ```bash
      docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
      ```
