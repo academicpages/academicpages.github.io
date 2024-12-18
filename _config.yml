@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-title                    : "Charlie Atkinson"
+title                    : "Charlie Atkinson's Homepage"
 title_separator          : "-"
 name                     : &name "Charlie Atkinson"
 description              : &description "personal description"
@@ -21,11 +21,11 @@ repository               : "https://charlieatkinson.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "me_at_ucl.jpg"
   name             : "Charlie Atkinson"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Robotics & AI Student"
-  location         : "East-Midlands, UK"
+  location         : "East Midlands, UK"
   employer         : "University of Hull"
   uri              : # URL
   email            : "charlie@charlesxatkinson.co.uk"
@@ -49,7 +49,7 @@ author:
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
