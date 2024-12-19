@@ -9,7 +9,7 @@ redirect_from:
 
 潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
 
-一作或除导师外一作（读博期间）论文成果
+论文成果
 ======
 [1] Hongyang Pan, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
 
