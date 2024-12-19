@@ -11,16 +11,13 @@ redirect_from:
 
 一作或除导师外一作（读博期间）论文成果
 ======
-[1] Hongyang Pan, Yanheng Liu, Geng Sun*, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
-[2] Hongyang Pan, Yanheng Liu, Geng Sun*, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
-[3] Yanheng Liu, Hongyang Pan, Geng Sun*, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
-[4] Yanheng Liu, Hongyang Pan, Geng Sun*, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021). 
+[1] Hongyang Pan, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
+[2] Hongyang Pan, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
+[3] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
+[4] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021). 
 [5] 潘弘洋, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.
-[6]
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+[6] Zemin Sun, Geng Sun, Qingqing Wu, Long He, Shuang Liang, Hongyang Pan, Dusit Niyato, Chau Yuen, Victor C.M. Leung. TJCCT: A Two-timescale Approach for UAV-assisted Mobile Edge Computing, IEEE Transactions on Mobile Computing, 2024.
+[7] Ziwen An, Yanheng Liu, Geng Sun, Hongyang Pan, Aimin Wang. UAV-enabled Wireless Powered Communication Networks: A Joint Scheduling and Trajectory Optimization Approach. IEEE Symposium on Computers and Communications (IEEE ISCC 2022). 
 
 Create content & metadata
 ------
