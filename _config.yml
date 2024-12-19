@@ -21,8 +21,8 @@ repository               : "https://hongyang-pan.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image/Hongyang_Pan.png"
-  name             : "Hongyang Pan"
+  avatar           : "Hongyang_Pan.png"
+  name             : "潘弘洋"
   pronouns         : # example: "He"  
   bio              : "Ph.D. "
   location         : "大连"
