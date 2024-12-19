@@ -18,12 +18,13 @@ author_profile: true
 Please use the following link to book a 15-minute meeting <a href="https://outlook.office.com/bookwithme/user/097003618e5b4e3b89e0a6e1dd785630@illinois.edu/meetingtype/255OXYx9AkKpAh39mGndpQ2?anonymous&ep=mlink"> Office hours</a>
 
 University of Illinois Urbana-Champaign
-- Politics of International Development (Fall 2024) <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
-- Politics of Climate Change and Development (Spring 2025) <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
+- Politics of International Development (undergraudate, Fall 2024) <a href="https://cobrienudry.github.io/files/PLSC 340 revised.docx">syllabus</a>.
+- Politics of Climate Change in Developing States (undergraudate, Spring/Fall 2025) <a href = "https://cobrienudry.github.io/files/The Politics of Climate Change in Developing States.pdf">syllabus</a>
+- International Political Economy (graduate, Spring 2026)
 
 
 University of Pennsylvania, Postdoctoral Fellow (2024)
-- Political Economy of Foreign Aid
+- Political Economy of Foreign Aid (undergraudate, Spring 2024)
 
 Wesleyan University, Visiting Lecturer (2022)
 - Political Economy of Foreign Aid <a href="https://cobrienudry.github.io/files/syllabus.pdf">syllabus</a>.
