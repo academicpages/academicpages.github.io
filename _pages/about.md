@@ -13,13 +13,12 @@ redirect_from:
 </div>
 </H2>  
 
-Hi, I am a PhD student at the Cognitive Computer Vision Lab, supervised by [Bernhard Egger](https://eggerbernhard.ch/) at the Friedrich Alexander University of Erlangen Nuremberg.
+Hi, I am a PhD student at the Cognitive Computer Vision Lab, supervised by [Bernhard Egger](https://eggerbernhard.ch/) at the University of Erlangen Nuremberg.
 I am interested in understanding
 the differences (and possible similarities) between human and machine vision. My interdisciplinary academic trajectory stems from a desire to
 investigate the correspondence between AI and Neuroscience.
 
-Previously, I worked as a Research Scientist in the research group Learning in Early Childhood at the MPI-CBS, Leipzig, Germany. 
-My main responsibility during this time was to design end-to-end pipelines for processing Neuroimaging data.
+Previously, I worked as a Research Scientist in the research group Learning in Early Childhood at the Max Planck Institute of Human Cognitive and Brain Sciences, Leipzig, Germany. My main responsibility during this time was to design end-to-end pipelines for processing Neuroimaging data.
 
 I completed a B.Sc. (H) in Physics in 2018 and a M.Sc. Life Science Informatics in 2020. The reason I went from Physics to Life Science Informatics was to explore unconstrained systems such as the brain.  
 
