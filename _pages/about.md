@@ -7,21 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，, 合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
+潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
 
+一作或除导师外一作（读博期间）论文成果
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+[1] Hongyang Pan, Yanheng Liu, Geng Sun*, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
+[2] Hongyang Pan, Yanheng Liu, Geng Sun*, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
+[3] Yanheng Liu, Hongyang Pan, Geng Sun*, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
+[4] Yanheng Liu, Hongyang Pan, Geng Sun*, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021). 
+[5] 潘弘洋, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.
+[6]
 
 Site-wide configuration
 ------
