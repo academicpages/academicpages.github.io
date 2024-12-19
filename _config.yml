@@ -12,7 +12,7 @@ title                    : "潘弘洋"
 title_separator          : "-"
 name                     : &name "潘弘洋"
 description              : &description "Ph.D."
-url                      : "https://hongyang-pan.github.io/"
+url                      : https://hongyang-pan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://hongyang-pan.github.io/"
 
