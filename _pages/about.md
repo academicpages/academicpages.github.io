@@ -7,7 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
+潘弘洋，博士，大连海事大学信息科学技术学院师资博士后。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
+
+研究方向
+------
+无人机通信
+智能超表面
+多目标优化
+凸优化
+
+
+教育经历
+------
+2024.09 - 至今 大连海事大学，信息科学技术学院，师资博士后，合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)
+2022.10 - 2023.10 新加坡科技设计大学，电子与电气工程，联合培养博士，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow (https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)
+2018.09 - 2024.06 吉林大学，计算机应用技术，硕博连读，合作导师: [刘衍珩 教授](https://ccst.jlu.edu.cn/info/1200/17274.htm)、[孙庚 教授](https://sungeng207.github.io/)
+2013.09 - 2027.06 大连理工大学，过程装备与控制工程，学士 
 
 论文成果
 ======
