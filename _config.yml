@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongyang Pan/Personal Homepage"
+title                    : "潘弘洋"
 title_separator          : "-"
-name                     : &name "Hongyang Pan/Your Name"
+name                     : &name "潘弘洋"
 description              : &description "Ph.D."
 url                      : https://hongyang-pan.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Hongyang Pan"
   pronouns         : # example: "He"  
   bio              : "Ph.D. "
-  location         : "Dalian"
-  employer         : "Dalian Maritime University"
+  location         : "大连"
+  employer         : "大连海事大学"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hypan20@dlmu.edu.cn" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com.hk/citations?user=MmhFickAAAAJ&hl=zh-CN&oi=ao"
