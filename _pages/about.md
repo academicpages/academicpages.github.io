@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "潘弘洋-大连海事大学"
+title: "潘弘洋，大连海事大学"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)， 2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读， 2017年获大连理工大学学士学位。
+潘弘洋，博士，大连海事大学信息科学技术学院师资博士后，, 合作导师: [林彬 教授](https://ist.dlmu.edu.cn/professor/linbin.html)。2022年10月受国家留学基金委资助赴加新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师: [Assoc. Prof. Chau Yuen, IEEE Fellow](https://dr.ntu.edu.sg/cris/rp/rp02157/selectedPublications.html)，2024年6月获吉林大学计算机应用技术专业博士学位，2020年于吉林大学计算机科学与技术学院硕博连读，2017年获大连理工大学学士学位。曾获吉林大学优秀研究生等多项奖励和荣誉称号。
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
