@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hongyang Pan/Personal Homepage"
 title_separator          : "-"
-name                     : &name "Hongyang PaYour Name"
+name                     : &name "Hongyang Pan/Your Name"
 description              : &description "Ph.D."
 url                      : https://hongyang-pan.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
