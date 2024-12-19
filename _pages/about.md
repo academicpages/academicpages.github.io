@@ -13,19 +13,23 @@ redirect_from:
 ======
 [1] Hongyang Pan, Yanheng Liu, Geng Sun, Pengfei Wang, Chau Yuen. Resource Scheduling for UAVs-aided D2D Networks: A Multi-objective Optimization Approach, IEEE Transactions on Wireless Communications, 23(5), 4691-4708, 2024.
 
-
 [2] Hongyang Pan, Yanheng Liu, Geng Sun, Junsong Fan, Shuang Liang, Chau Yuen. Joint Power and 3D Trajectory Optimization for UAV-Enabled Wireless Powered Communication Networks With Obstacles, IEEE Transactions on Communications, 71(4), 2364-2380, 2023.
 
+[3] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.
 
-[3] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Jiahui Li, Shuang Liang. Joint Scheduling and Trajectory Optimization of Charging UAV in Wireless Rechargeable Sensor Networks, IEEE Internet of Things Journal, 9(14), 11796-11813, 2022.\\
-[4] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021).\\
-[5] 潘弘洋, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.\\
-[6] Zemin Sun, Geng Sun, Qingqing Wu, Long He, Shuang Liang, Hongyang Pan, Dusit Niyato, Chau Yuen, Victor C.M. Leung. TJCCT: A Two-timescale Approach for UAV-assisted Mobile Edge Computing, IEEE Transactions on Mobile Computing, 2024.\\
-[7] Ziwen An, Yanheng Liu, Geng Sun, Hongyang Pan, Aimin Wang. UAV-enabled Wireless Powered Communication Networks: A Joint Scheduling and Trajectory Optimization Approach. IEEE Symposium on Computers and Communications (IEEE ISCC 2022).\\
+[4] Yanheng Liu, Hongyang Pan, Geng Sun, Aimin Wang, Scheduling Optimization of Charging UAV in Wireless Rechargeable Sensor Networks. IEEE Symposium on Computers and Communications (IEEE ISCC 2021).
 
-Create content & metadata
+[5] 潘弘洋, 刘昭, 杨波, 等. 基于新一代通信技术的无人机系统群体智能方法综述. 吉林大学学报 (工学版), 2023, 53(3): 629-642.
+
+[6] Zemin Sun, Geng Sun, Qingqing Wu, Long He, Shuang Liang, Hongyang Pan, Dusit Niyato, Chau Yuen, Victor C.M. Leung. TJCCT: A Two-timescale Approach for UAV-assisted Mobile Edge Computing, IEEE Transactions on Mobile Computing, 2024.
+
+[7] Ziwen An, Yanheng Liu, Geng Sun, Hongyang Pan, Aimin Wang. UAV-enabled Wireless Powered Communication Networks: A Joint Scheduling and Trajectory Optimization Approach. IEEE Symposium on Computers and Communications (IEEE ISCC 2022).
+
+专利
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+[1] 一种无人机辅助的无线传感器网络节点充电选择方法 (ZL202111008945.4). 发明人: 潘弘洋, 孙庚, 刘衍珩, 李家辉, 梁爽, 王爱民, 郑晓雅, 樊俊松. 
+
+
 
 **Markdown generator**
 
