@@ -9,6 +9,8 @@ _site/
 .ruby-gemset
 .ruby-version
 *.gem
+
+# Ignore the Gemfile that is generated
 Gemfile.lock
 
 # Files
@@ -26,3 +28,13 @@ gh-pages/
 pkg/
 test/dest
 tmp/*
+
+# Ignore the contents of the _site directory and other cache directories
+.sass-cache/
+
+# Ignore the directory for local files during development
+local/
+
+# Ingore files created by npm
+node_modules
+package-lock.json
