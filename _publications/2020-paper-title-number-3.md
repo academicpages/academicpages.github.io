@@ -10,5 +10,3 @@ citation: 'Kapoor, S. (2022). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>
 ---
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/desc.13381)
-
-Recommended citation: Your Name, You. (2015). "A meta-analysis of mental rotation in first years of life" <i>Journal 1</i>. 1(3).
