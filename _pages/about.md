@@ -9,7 +9,6 @@ redirect_from:
 ---
 <H2>
 <div align="center">
-    Trying to understand the data humans generate
 </div>
 </H2>  
 
