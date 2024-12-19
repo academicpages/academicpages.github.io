@@ -27,6 +27,8 @@ I am an Assistant Professor in the School of Information Sciences at the Univers
 - **May, 2023:** Received a [VT COE 2023 Dean's Award for Excellence](https://eng.vt.edu/about/faculty-awards-and-distinctions/deans-awards.html) as an Outstanding New Assistant Professor!
 - **March, 2023:** Joined the [NeurIPS 2023](https://neurips.cc/Conferences/2023/Committees) and IEEE BigData 2023 Organizing Committees as a Workshop co-Chair and a Vice Program Chair, respectively.
 - **March, 2023:** Invited talk at [UMass CIIR Talk Series](http://ciir.cs.umass.edu/talks).
+
+<!--
 - **March, 2023:** Attending the [ImageXD](https://academicdatascience.org/adsa-meetings/imagexd-2023/) workshop, an invite only two-day workshop hosted by UC Berkeley's Berkeley Institute for Data Science (BIDS) and the Academic Data Science Alliance (ADSA). Thank you to the organizers for putting together an exciting program!
 - **Feb, 2023:** [Team PLANBot](https://vtx.vt.edu/articles/2023/02/-virginia-tech-team-selected-for-the-alexa-prize-taskbot-challen.html) is selected as one of the 10 university teams for the Alexa Prize TaskBot Challenge 2! We are grateful for the funding and support from Amazon Alexa AI.       
 - **Feb, 2023:** Exciting times to do research in AI/ML for Healthcare (ML4H). Read our PLOS Digital Health editorial on what ChatGPT passing the USMLE exam tells us about medical education [here](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0000205). 
@@ -44,8 +46,6 @@ I am an Assistant Professor in the School of Information Sciences at the Univers
 - **April, 2022:** Thrilled to join the [NeurIPS 2022 Organizing Commitee](https://nips.cc/Conferences/2022/Committees) as an Expo co-Chair!
 - **March, 2022:** Gave a talk at the [Women in STEM Mentoring Seminars](https://www.w-stem.org/home). Slides are available [here](https://www.w-stem.org/resources). 
 - **February, 2022:** We are grateful to receive an [NSF EAGER CMMI-AM](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2208864&HistoricalAwards=false) grant!
-
-<!--
 - **January, 2022:** TriGORank, a gene ontology enriched learning-to-rank model for trigenic fitness prediction tasks was published at the [IEEE BIBM'21 BiOK 2021](https://ieeexplore.ieee.org/abstract/document/9669503) workshop. Joint work with the Computer Science Department and the Carl R. Woese Institute for Genomic Biology at the University of Illinois at Urbana-Champaign.
 - **January, 2022:** Recent [paper](https://onlinelibrary.wiley.com/doi/epdf/10.1111/mice.12812) on unsupervised novelty detection in structural health monitoring (SHM) accepted to the Computer-Aided Civil and Infrastructure Engineering (CACAIE) Journal. Joint work with the Department of Civil and Environmental Engineering at Virginia Tech and the Department of Civil Engineering at the KN Toosi University of Technology in Tehran, Iran.
 - **October, 2021:** Chest ImaGenome Dataset for Clinical Reasoning is accepted to NeurIPS'21 Datasets and Benchmarks Track. Paper, dataset, and reviews are available at [OpenReview](https://openreview.net/forum?id=H-d5634yVi&noteId=zHHHvubn33m). Joint work with IBM Research, Rensselaer Polytechnic Institute, MIT Critical Data, Albert Einstein Healthcare Network and Harvard Medical School.
