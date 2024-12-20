@@ -4,3 +4,4 @@ Gemfile.lock
 vendor/
 *~
 logs/
+node_modules/
