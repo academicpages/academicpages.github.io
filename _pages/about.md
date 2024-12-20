@@ -32,11 +32,13 @@ News
 **July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
 
 <br/><img src='/images/cuhkphy.jpg'
-        sizes="(max-width: 600px) 200px, 50vw" />
+        sizes="(max-width: 200px) 200px, 50vw" />
 
 **July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive researches in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth are so impressive.
 
-**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
-
 <br/><img src='/images/rogers24dev19.jpg'
         sizes="(max-width: 600px) 200px, 50vw" />
+
+**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
+
+
