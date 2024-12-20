@@ -21,24 +21,32 @@ For more infomation about my publications, please refer to my CV (pdf version, M
 News
 -----
 
-<br/><img src='/images/icaitph.jpg'
-        sizes="(max-width: 600px) 200px, 50vw" />
 
-**August 18th, 2024**   Haoyu team's work was successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html). Thanks for our supervisor and corresponding author [Prof. Lin](https://electronic.seu.edu.cn/lt/list.htm)'s thoughtful help.
-
-<br/><img src='/images/technicalsession.jpg'
-        sizes="(max-width: 600px) 200px, 50vw" />
-
-**July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
-
-<br/><img src='/images/cuhkphy.jpg'
-        sizes="(max-width: 200px) 100px, 25vw" />
-
-**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive researches in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth are so impressive.
+**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
 
 <br/><img src='/images/jarlinkedinpost.jpg'
         sizes="(max-width: 100px) 100px, 25vw" />
 
-**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
+
+
+**August 18th, 2024**   Haoyu team's work was successfully presented at ICAIT conference and won the [**Best Oral-Presentation award**](https://icait.org/2024.html). Thanks for our supervisor and corresponding author [Prof. Lin](https://electronic.seu.edu.cn/lt/list.htm)'s thoughtful help.
+
+<br/><img src='/images/icaitph.jpg'
+        sizes="(max-width: 600px) 200px, 50vw" />
+
+
+**July 2rd, 2024**   Haoyu attended the summercamp at department of Physics, Chinese University of Hong Kong and met [Prof. Qisi Wang](https://newww.phy.cuhk.edu.hk/teaching_staff/wang-qisi). The attractive researches in [his group](https://qmcuhk.github.io/) about unconventional superconductivity and crystal growth are so impressive.
+
+<br/><img src='/images/cuhkphy.jpg'
+        sizes="(max-width: 200px) 100px, 25vw" />
+
+
+**July 31th, 2024**  Haoyu attended the IEEE 3M-NANO conference at Zhongshan, Guangdong, and presented his recent work about nanoparticle alignment.
+
+<br/><img src='/images/technicalsession.jpg'
+        sizes="(max-width: 600px) 200px, 50vw" />
+
+
+
 
 
