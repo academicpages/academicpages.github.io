@@ -1,7 +1,7 @@
 ---
 title: "Understanding and improving deep learning models for vulnerability detection"
 collection: publications
-permalink: /publication/2024-12-19_phddissertation
+permalink: /publication/2024-12-19-phddissertation
 excerpt: 'In this dissertation, we comprehensively evaluate state-of-the-art (SOTA) DL vulnerability detection models and propose a body of approaches for improving DL for vulnerability detection using static and dynamic analysis.'
 date: 2024-12-19
 venue: 'Iowa State University, ProQuest Dissertations & Theses Global'
