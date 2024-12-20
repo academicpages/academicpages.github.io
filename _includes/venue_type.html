@@ -2,7 +2,7 @@
 <span class="venue-type">
     <span>
         {% case post.venue-type %}
-        {% when "conference-paper" %}
+        {% when "conference-paper" or "workshop-paper" %}
             PAPER
         {% else %}
             {{ post.venue-type | replace: "-", " " | upcase }}
