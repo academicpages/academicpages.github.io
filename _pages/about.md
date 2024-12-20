@@ -36,7 +36,7 @@ Exploring scalable and efficient solutions for machine learning systems, with a 
 
 ### b) Distributed Training for Graph Neural Networks
 - [**Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction**](https://arxiv.org/pdf/2308.13466)  
-  _Preprint_
+  _SDM 2025_
 
 ---
 
