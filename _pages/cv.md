@@ -11,50 +11,59 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, University of California San Diego, 2027 (expected)
+* Ph.D Economics, University of California San Diego, 2027 (expected)
   * GPA: 3.97
-* M.A. in Economics, Central European University (*distinction*), 2021
+* M.A. Economics, Central European University, Vienna (*distinction*), 2021
   * GPA: 4.00
-* B.A. in Economics, Nazarbayev University (*magna cum laude*), 2019
-  * GPA: 3.81 
-  * Minor in Mathematics
+* B.A. Economics, Nazarbayev University, Astana (*magna cum laude*), 2019
+  * GPA: 3.81; minor in mathematics
 
 
-Research areas
+Research Interests
 ======
-* Behavioral and Experimental Economics, Applied Microeconomics
+* Experimental Economics, Behavioral Economics
 
 References 
 ======
-* [Emanuel Vespa](https://sites.google.com/site/emanuelvespa/), UC San Diego 
-* [Isabel Trevino](https://econweb.ucsd.edu/~itrevino/), UC San Diego
+* [Emanuel Vespa (co-chair)](https://sites.google.com/site/emanuelvespa/), UC San Diego 
+* [Isabel Trevino (co-chair)](https://econweb.ucsd.edu/~itrevino/), UC San Diego
 * [Denis Shishkin](https://denisshishkin.com), UC San Diego
 * [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/), UC San Diego
 
-Honors, grants and fellowships
+Grants and Fellowships
 ======
-* UC-Mexico Alianza Short-Term Research Stay in Mexico (USD 3,800), 2023-2024
-* UC San Diego Economics Department Diversity Research Fellowship (USD 1,500), 2023-2024
-* The Weiss Fund for Research in Development Economics (USD 3,330), 2022-2023
-* Institute for Humane Studies - Conference Accelerator Grant (USD 2,000), 2022-2023
-* Summer Research Fellowship (USD 8,000), 2022-2023 
-* Regents Fellowship (USD 18,000), 2021-2022	
-* Peter Hangartner Prize and Fellowship (EUR 5,200)- awarded to one student in Economics MA program, 2020-2021
+* The Weiss Fund for Research in Development Economics - Pilot Grant ($11,100), 2024
+* UC-Mexico Alianza Short-Term Research Stay in Mexico ($7,600), 2024
+* Diversity Research Fellowship, UC San Diego ($1,500), 2023
+* Institute for Humane Studies - Conference Accelerator Grant ($3,000), 2022-2023
+* The Weiss Fund for Research in Development Economics - Exploratory Grant ($3,330), 2022
+* Summer Research Fellowship ($8,000), 2023 
+* Regents Fellowship ($18,000), 2022	
+
+* Peter Hangartner Prize and Fellowship (EUR 5,200), Central European University, 2021
 * Foundation of Budapest Research Grant (EUR 1,200), 2021
-* Outstanding Student in Economics - awarded to 1-3 students in BA program, 2019
+* Outstanding Student in Economics, Nazarbayev University, 2019
   
+<!-- 
 Research experience
 ======
 * Summer Graduate Research with Emanuel Vespa, UC San Diego, 2023
 * Summer Graduate Research with Isabel Trevino, UC San Diego, 2022
 * Research Assistant for Marc Kaufmann, Central European University, 2020
 * Research Assistant for Giulio Seccia, Nazarbayev University, 2018
+ -->
 
-Presentations
+Presentations and Workshops
 ======
-* Graduate Student Research Seminars, Economics Department UC San Diego 2023
-* Instituto Tecnológico Autónomo de México – UC San Diego workshop, GPS UC San Diego 2023
-  
+* Economic Science Association (ESA) North American Meeting, Columbus, 2024
+* Behavioral & Experimental Economics Stanford-Caltech-UC Student Conference, Caltech, 2024
+* Los Angeles Experiments (LAX) Conference, Caltech, 2024
+* Learning, Computational and Bayesian Methods in Experimental Economics, Purdue University, 2024
+* Summer Institute in Theory-Based Experiments, Caltech, 2023
+* Graduate Student Research Seminar, Economics Department UC San Diego, 2023
+* Instituto Tecnológico Autónomo de México (ITAM) – UC San Diego workshop, GPS UC San Diego, 2023
+
+
 Skills
 ======
 * Technical: oTree, Stata, Python, Matlab, Julia, LaTeX
