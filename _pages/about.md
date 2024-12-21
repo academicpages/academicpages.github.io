@@ -27,7 +27,7 @@ News
         sizes="(max-width: 100px) 100px, 25vw" />
 
 
-**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
+**Dec 19th, 2024**   Wearable electronic pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
 
 
 
