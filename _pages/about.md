@@ -15,6 +15,7 @@ My research interest aligns in the synthesis and fabrication of nanomaterials, c
 I'm seeking for a PhD position relevant with materials, electronics and the field close to them.
 -----
 For more infomation about my publications, please refer to my CV (pdf version).
+
 [Open PDF in New Tab](https://github.com/hyluo7/hyluopage/raw/dev-2.0/files/hyluocv_new_dec.pdf){:target="_blank"}
 
 !!!Attention!!! For the latest CV, you can contact me to ask for it. I will reply all in 24 hours.
@@ -22,11 +23,11 @@ For more infomation about my publications, please refer to my CV (pdf version).
 News
 -----
 
-
-**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
-
 <br/><img src='/images/jarlinkedinpost.jpg'
         sizes="(max-width: 100px) 100px, 25vw" />
+
+
+**Dec 19th, 2024**   Wearable electroinc pioneer [Prof. John Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-john.html)' paid visit to our department. The attractive researches in [his group](https://rogersgroup.northwestern.edu/) are really facinating.The future of flexible semiconductor and their integration with wearable electronics was discussed after the seminar.
 
 
 
