@@ -28,8 +28,8 @@ References
 ======
 * [Emanuel Vespa](https://sites.google.com/site/emanuelvespa/), UC San Diego 
 * [Isabel Trevino](https://econweb.ucsd.edu/~itrevino/), UC San Diego
+* [Denis Shishkin](https://denisshishkin.com), UC San Diego
 * [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/), UC San Diego
-* [Prashant Bharadwaj](https://prbharadwaj.wordpress.com), UC San Diego
 
 Honors, grants and fellowships
 ======
@@ -38,7 +38,7 @@ Honors, grants and fellowships
 * The Weiss Fund for Research in Development Economics (USD 3,330), 2022-2023
 * Institute for Humane Studies - Conference Accelerator Grant (USD 2,000), 2022-2023
 * Summer Research Fellowship (USD 8,000), 2022-2023 
-* Regents Fellowship (USD 18,000), 2021-2022
+* Regents Fellowship (USD 18,000), 2021-2022	
 * Peter Hangartner Prize and Fellowship (EUR 5,200)- awarded to one student in Economics MA program, 2020-2021
 * Foundation of Budapest Research Grant (EUR 1,200), 2021
 * Outstanding Student in Economics - awarded to 1-3 students in BA program, 2019
