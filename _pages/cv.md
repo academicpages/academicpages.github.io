@@ -30,18 +30,22 @@ References
 * [Denis Shishkin](https://denisshishkin.com), UC San Diego
 * [Paul Niehaus](https://econweb.ucsd.edu/~pniehaus/), UC San Diego
 
-Grants and Fellowships
+Research Grants
 ======
 * The Weiss Fund for Research in Development Economics - Pilot Grant ($11,100), 2024
+* Research and Travel Grant, Economics Department UC San Diego ($3,400), 2024
 * UC-Mexico Alianza Short-Term Research Stay in Mexico ($7,600), 2024
 * Diversity Research Fellowship, UC San Diego ($1,500), 2023
-* Institute for Humane Studies - Conference Accelerator Grant ($3,000), 2022-2023
+* Institute for Humane Studies - Conference Accelerator Grant ($3,000), 2022
 * The Weiss Fund for Research in Development Economics - Exploratory Grant ($3,330), 2022
+* Foundation of Budapest Research Grant (EUR 1,200), 2021
+
+
+Awards and Fellowships
+======
 * Summer Research Fellowship ($8,000), 2023 
 * Regents Fellowship ($18,000), 2022	
-
 * Peter Hangartner Prize and Fellowship (EUR 5,200), Central European University, 2021
-* Foundation of Budapest Research Grant (EUR 1,200), 2021
 * Outstanding Student in Economics, Nazarbayev University, 2019
   
 <!-- 
