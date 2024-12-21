@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student in the [Economics Department at University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego I did Master's in Economics at Central European University.
+I am a 4th year PhD candidate in the [Economics Department at University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego I did Master's in Economics at Central European University.
 
 
-My research interests are in behavioral and experimental economics with a focus on social learning, misspecified models and discrimination. I also work on topics related to student mental health and peer group support for online tutors.
+My research interests are in experimental and behavioral economics with a focus on social learning, misspecified models and discrimination. I also work on topics related to student mental health and peer group support for online tutors.
 
-Click [here](https://www.howtopronounce.com/alisher#google_vignette) to learn how to pronounce my first name.
+[Here](https://www.howtopronounce.com/alisher#google_vignette) is how to pronounce my first name.
 
 Contact 
 ------
