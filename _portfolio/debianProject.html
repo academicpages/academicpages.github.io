@@ -1,0 +1,295 @@
+---
+title: "Debian Virtual Machine"
+excerpt: "This project involved creating and configuring Ubuntu and Debian virtual machines, setting up networking, logical volumes, and a web server, optimizing performance with a serial console, and customizing the Apache homepage. <br/><img src='/images/debianPic.png'>"
+collection: portfolio
+---
+
+<!DOCTYPE html>
+<html><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Learning Virtualization: A Debian Project</title>
+
+
+
+<link rel="stylesheet" href="/css/rocinante.css" />
+
+<link rel="alternate" type="application/rss+xml" href="https://debproject.github.io/index.xml" title="Learning Virtualization: A Debian Project" />
+<body>
+    <header><h2>
+
+    › Learning Virtualization: A Debian Project
+
+</h2>
+</header>
+    <main>
+
+
+
+
+
+
+    <hr>
+<article class="post-list">
+    <div class="title-group">
+        <div class="title">
+            <h1><a href="/posts/mypost/"></a></h1>
+        </div>
+
+        <div class="date"><h5>Dec 01, 2023</h5></div>
+
+    </div class="title-group">
+
+    <div class="content">
+        <p>For this Project I will be using VMware Workstation 17 Pro.</p>
+<p>And so then, the project begins. Where does it begin exactly?<br>
+A new Ubuntu virtual machine of course.</p>
+<p><strong>Ubuntu Virtual Machine Process</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Create a new virtual machine using the &#34;ubuntu-22.04.2-desktop-amd64.iso&#34; iso.
+</span></span><span style="display:flex;"><span>	Machine Name: ubuntu
+</span></span><span style="display:flex;"><span>	I will be using 2 processors and 1 core for this machine.
+</span></span><span style="display:flex;"><span>	4 kibibytes of RAM.
+</span></span><span style="display:flex;"><span>	NAT networking.
+</span></span><span style="display:flex;"><span>	60 GB maximum disk size.(Split into multiple files)
+</span></span><span style="display:flex;"><span>	Proceed through basic setup:
+</span></span><span style="display:flex;"><span>	Keyboard layout
+</span></span><span style="display:flex;"><span>	Minimal Installation
+</span></span><span style="display:flex;"><span>	Wipe disk and install
+</span></span><span style="display:flex;"><span>	Timezone
+</span></span><span style="display:flex;"><span>	Name and Password:
+</span></span></code></pre></div><p><img src="https://i.imgur.com/xTJ3Inf.png" alt=""></p>
+<p>Beautiful, now my next step is to install another Virtual Machine.<br>
+This time I want to use KVM&rsquo;s virt-manager ulility in combination with Debian 12.</p>
+<p><strong>Debian 12 Virtual Machine Installation Process</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	First things first: I need an Debian Iso.
+</span></span><span style="display:flex;"><span>	  For this: Navigate to https://www.debian.org/download and download the latest version.
+</span></span><span style="display:flex;"><span>	Whilst that is downloading, it is time to setup the virt-manager and assosiated components.
+</span></span><span style="display:flex;"><span>		Steps:
+</span></span><span style="display:flex;"><span>			Navigate to a terminal on Ubuntu machine. (Need to execute following commands as sudo)
+</span></span><span style="display:flex;"><span>				sudo apt install -y qemu-kvm libvirt-clients virt-manager
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>				sudo apt install -y libvirt-daemon-system bridge-utils virtinst libvirt-daemon
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>				sudo apt install -y qemu qemu-kvm qemu-system qemu-utils
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>				sudo usermod -aG libvirt name (replace name with your user)
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>				sudo usermod -aG libvirt-qemu deb
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>			If done correctly, you should be able to now open Virt-Manager
+</span></span><span style="display:flex;"><span>			Furthermore if you check &#34;cat /etc/group&#34; you should see your user under the newly listed groups.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>			I will now reboot to make sure the daemon is running.
+</span></span><span style="display:flex;"><span>				sudo reboot
+</span></span><span style="display:flex;"><span>					-completed, no errors.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>			Continuing:
+</span></span><span style="display:flex;"><span>				Open Virt-Manager
+</span></span><span style="display:flex;"><span>				Since we downloaded the debian iso, we will proceed with the local install.
+</span></span><span style="display:flex;"><span>				Choose ISO: Locate the iso you downloaded and click Forward.
+</span></span><span style="display:flex;"><span>				I will choose to allocate 2 kibibytes to this Debian machine of memory and use two CPUs.
+</span></span><span style="display:flex;"><span>				I will choose to allocate 30.0 GB of disk for this machine. (Lower provided me with installation failed, multiple times).
+</span></span><span style="display:flex;"><span>				Finish
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>				Debian GNU/Linux installer menu (BIOS mode)
+</span></span><span style="display:flex;"><span>				Install (I did not use the GUI option)
+</span></span><span style="display:flex;"><span>				Language: English
+</span></span><span style="display:flex;"><span>				Country: United States
+</span></span><span style="display:flex;"><span>				Keymap: American English
+</span></span><span style="display:flex;"><span>				Hostname: deb
+</span></span><span style="display:flex;"><span>				Domain: N/A
+</span></span><span style="display:flex;"><span>				Pass for root:
+</span></span><span style="display:flex;"><span>				Full name for user: debexample
+</span></span><span style="display:flex;"><span>				Username: deb
+</span></span><span style="display:flex;"><span>				Password:
+</span></span><span style="display:flex;"><span>				Time Zone: Pacific
+</span></span><span style="display:flex;"><span>				Partitioning Method: Guided- use entire disk and setup LVM
+</span></span><span style="display:flex;"><span>				Select Disk:
+</span></span><span style="display:flex;"><span>				Scheme: All files in one partition
+</span></span><span style="display:flex;"><span>				Write Changes? Yes
+</span></span><span style="display:flex;"><span>				Amount of volume group to use: 20.0 GB
+</span></span><span style="display:flex;"><span>				Write changes to disks? Yes
+</span></span><span style="display:flex;"><span>				Scan Extra Media? No
+</span></span><span style="display:flex;"><span>				Debian Archive Mirror Country: United States
+</span></span><span style="display:flex;"><span>				Debian Archive Mirror: deb.debian.org
+</span></span><span style="display:flex;"><span>				HTTP proxy: N/A
+</span></span><span style="display:flex;"><span>				Participate In Package Survey: No
+</span></span><span style="display:flex;"><span>				Tasksel: Choose Software to Install:
+</span></span><span style="display:flex;"><span>					[] Debian desktop environment
+</span></span><span style="display:flex;"><span>					[] ... GNOME
+</span></span><span style="display:flex;"><span>					[*] ... Xfce
+</span></span><span style="display:flex;"><span>					[] ... GNOME Flashback
+</span></span><span style="display:flex;"><span>					[] ... KDE Plasma
+</span></span><span style="display:flex;"><span>					[] ... Cinnamon
+</span></span><span style="display:flex;"><span>					[] ... MATE
+</span></span><span style="display:flex;"><span>					[] ... LXDE
+</span></span><span style="display:flex;"><span>					[] ... LXQt
+</span></span><span style="display:flex;"><span>					[*] web server
+</span></span><span style="display:flex;"><span>					[*] SSH server
+</span></span><span style="display:flex;"><span>					[*] standard system utilities
+</span></span><span style="display:flex;"><span>				Install GRUB boot loader: Yes
+</span></span><span style="display:flex;"><span>				Location: /dev/vda
+</span></span><span style="display:flex;"><span>				Installation Complete: Continue
+</span></span></code></pre></div><p><img src="https://i.imgur.com/x51Ify2.png" alt=""></p>
+<p>And just like that, we&rsquo;ve done it. We&rsquo;ve successfully created our new debian virtual machine.<br>
+Whats the next step? I think we ought&rsquo; to connect from our Ubuntu machine to our debian machine via the terminal.</p>
+<p><strong>Connecting to our Debian machine via our terminal</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		In the debian machine at the terminal type &#34;ip a&#34;
+</span></span><span style="display:flex;"><span>		Look for something like inet 192.168.122.88/24 located near the bottom of the displayed output
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		From the ubuntu machine we&#39;re going to type ssh name@your_ip (replace the name with your username for your machine, and your_ip with the address you found in the displayed output)
+</span></span><span style="display:flex;"><span>		Then you will be prompted for that user&#39;s password.
+</span></span></code></pre></div><p><img src="https://i.imgur.com/N1sVtoA.png" alt=""></p>
+<p>As we can see from the arrows in the terminal, we now have access to our debian virtual machine from our ubuntu terminal.<br>
+Indicating success.<br>
+Now lets try and add 2 small disks to the debian virtual machine.</p>
+<p><strong>Creating Logical Volumes and mounting them using their UUID&rsquo;s</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		To do this we need to navigate to the settings of our debian virtual machine by clicking the blue i with the circle around it inside QEMU/KVM.
+</span></span><span style="display:flex;"><span>		From there, you need to find &#34;VirtIO Disk1&#34; and right click it and select &#34;Add Hardware&#34;
+</span></span><span style="display:flex;"><span>			Once done, we&#39;re going to be adding a new &#34;Storage&#34; device.
+</span></span><span style="display:flex;"><span>			Allocate however much GiB you wish, I will choose 5.
+</span></span><span style="display:flex;"><span>			Press Finish.
+</span></span><span style="display:flex;"><span>		Repeat this process once more, for a another virtual disk. (This step is necessary in order to properly create partitions). Once done, go ahead and go back to the terminal of your debian machine.
+</span></span><span style="display:flex;"><span>		Confirm these changes by typing &#34;lsblk&#34; at the terminal and locating your new &#34;vdb&#34; and &#34;vdc&#34; drives.
+</span></span></code></pre></div><p><img src="https://i.imgur.com/cH35OMO.png" alt=""></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Continuing:
+</span></span><span style="display:flex;"><span>		With those changes confirmed, the next step is to created physical volumes for these two new virtual disks.
+</span></span><span style="display:flex;"><span>			We will be able to do that by typing &#34;sudo pvcreate /dev/vdb /dev/vdc&#34;
+</span></span><span style="display:flex;"><span>		With our new PV&#39;s. We now need to create a volume group and assign the newly created physical volumes to it.
+</span></span><span style="display:flex;"><span>			I will do that by typing &#34;sudo vgcreate newVolume /dev/vdb /dev/vdc&#34;
+</span></span><span style="display:flex;"><span>		Moreover, it is time to now create the logical volume.
+</span></span><span style="display:flex;"><span>			Hence, I will do that by typing &#34;sudo lvcreate -n logicalVolume -L 8G newVolume&#34;
+</span></span><span style="display:flex;"><span>		Now we need to format our logical volume.
+</span></span><span style="display:flex;"><span>			To do this type &#34;sudo mkfs.ext4 /dev/newVolume/logicalVolume&#34; (make file system using extension 4 which is highly suitable for our needs since it&#39;s very compatible.)
+</span></span><span style="display:flex;"><span>		Now we want to create a mount point
+</span></span><span style="display:flex;"><span>			We can express this in the terminal by typing &#34;sudo mkdir /mnt/new_mount_point&#34;
+</span></span><span style="display:flex;"><span>		We can now mount our logical volume to this directory.
+</span></span><span style="display:flex;"><span>			&#34;sudo mount /dev/newVolume/logicalVolume /mnt/new_mount_point&#34;
+</span></span><span style="display:flex;"><span>		Awesome! Now we just want to update our fstab to make sure we dont lose our changes on reboot.
+</span></span><span style="display:flex;"><span>			We can do this by:
+</span></span><span style="display:flex;"><span>				Copying our blkid &#34;sudo blkid&#34; of our /dev/mapper/newVolume-logicalVolume:
+</span></span><span style="display:flex;"><span>				Now we need to update our fstab &#34;sudo nano /etc/fstab&#34;
+</span></span><span style="display:flex;"><span>				At the bottom add a new line and type UUID=your_UUID followed my /mnt/your_mount_point ext4 defaults 0 2
+</span></span></code></pre></div><p><img src="https://i.imgur.com/TINqjQM.png" alt=""></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Continuing:
+</span></span><span style="display:flex;"><span>				Press ctrl+x
+</span></span><span style="display:flex;"><span>				Yes to save modified buffer.
+</span></span><span style="display:flex;"><span>				Enter to save file name.
+</span></span><span style="display:flex;"><span>		Perfect! Now we can test our mounting by typing &#34;sudo mount -a&#34; (to mount all partitions)
+</span></span><span style="display:flex;"><span>		Upon success, we can now deem that this new change will be persistent across reboots.
+</span></span></code></pre></div><p>This system needs to feel more complete so let&rsquo;s add a couple of users.<br>
+<strong>Adding New Users</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		From the terminal type &#34;sudo useradd nameDesired&#34;
+</span></span><span style="display:flex;"><span>			I will do this two times, once for a user named noah, and once for a user named tux.
+</span></span><span style="display:flex;"><span>		In order to see the newly created users:
+</span></span><span style="display:flex;"><span>			Type: &#34;cat /etc/passwd&#34;
+</span></span><span style="display:flex;"><span>		They should be listed towards the bottom.
+</span></span></code></pre></div><p><img src="https://i.imgur.com/8GDo7w1.png" alt=""><br>
+Okay we have new users, what&rsquo;s next?<br>
+I&rsquo;ve noticed one thing, a virtual machine inside of another virtual machine tends to feel latency.<br>
+Let&rsquo;s work from the terminal inside of our debian machine using the serial console.<br>
+To prevent our system from using unnecessary resources.<br>
+<strong>Setting up the Serial Console</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		Alright, this task may seem intimidating, but it&#39;s not. Let&#39;s step through this together.
+</span></span><span style="display:flex;"><span>		First, we&#39;re going to open the grub config file.
+</span></span><span style="display:flex;"><span>			sudo nano /etc/default/grub
+</span></span><span style="display:flex;"><span>		Find GRUB_CMDLINE_LINUX=&#34;&#34;
+</span></span><span style="display:flex;"><span>			In between the parentheses pair, we&#39;re going to add the line &#34;console=ttys0,115200&#34; which tells the kernel to use ttys0 at the default rate.
+</span></span><span style="display:flex;"><span>		Press ctrl+x
+</span></span><span style="display:flex;"><span>		Save Modified Buffer? Yes
+</span></span><span style="display:flex;"><span>		Press enter to save file name.
+</span></span><span style="display:flex;"><span>		Now, let&#39;s update our GRUB.
+</span></span><span style="display:flex;"><span>			sudo update-grub
+</span></span><span style="display:flex;"><span>		Now we need to enable the Serial Console Service:
+</span></span><span style="display:flex;"><span>			sudo nano /etc/systemd/system/serial-console.service
+</span></span><span style="display:flex;"><span>		When the newly &#39;touch&#39;ed document is open we&#39;re going to add the following few lines of code:
+</span></span><span style="display:flex;"><span>			[Unit]
+</span></span><span style="display:flex;"><span>			Description=Serial Console
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>			[Service]
+</span></span><span style="display:flex;"><span>			ExecStart=-/sbin/agetty -L ttyS0 vt100
+</span></span><span style="display:flex;"><span>			Restart=always
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>			[Install]
+</span></span><span style="display:flex;"><span>			WantedBy=multi-user.target
+</span></span><span style="display:flex;"><span>		Press Ctrl+X
+</span></span><span style="display:flex;"><span>		Yes to save modified buffer.
+</span></span><span style="display:flex;"><span>		Enter to save file name.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		Now we need to enable our newly created service.
+</span></span><span style="display:flex;"><span>			Do this by typing &#34;sudo systemctl enable serial-console.service&#34;
+</span></span><span style="display:flex;"><span>		Then we need to additionally start our service
+</span></span><span style="display:flex;"><span>			We can perform this by typing &#34;sudo systemctl start serial-console.service&#34;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		Then all we need to do is reboot to apply and confirm the changes!
+</span></span></code></pre></div><p><img src="https://i.imgur.com/G4Zjzbu.png" alt=""><br>
+Just like that, we&rsquo;ve got access to our serial console.<br>
+I can already notice the increase in performance when using the console this way.</p>
+<p>I have noticed one problem that I&rsquo;d like to address though.<br>
+When I am trying to use sudo on my deb user, I struggle because deb is not in the sudo users list.<br>
+Ultimately having to switch to the root user to do the majority of the changes which could prove inconvenient.<br>
+Let&rsquo;s fix that together.<br>
+<strong>Setting Up A Sudo User</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		This is relatively simple as well.
+</span></span><span style="display:flex;"><span>		First things first, we&#39;re going to open a terminal.
+</span></span><span style="display:flex;"><span>			Then we&#39;re going to type &#34;sudo usermod -aG sudo your_account_name (replace your_account_name with your personal name) in by case I will use &#39;deb&#39;.
+</span></span><span style="display:flex;"><span>		Upon typing &#34;cat /etc/group&#34; you should see the requested user now with sudo access, which will be persistent across reboots.
+</span></span></code></pre></div><p><img src="https://i.imgur.com/U7HpbFW.png" alt="">
+Awesome, now that&rsquo;s proved quite convenient because now I don&rsquo;t have to be the root user to just list my vgs, change another users group, etc.<br>
+What&rsquo;s next though? Is this the end?<br>
+Not quite. Let&rsquo;s do one more thing. Just for funzies.<br>
+<strong>Adding the webserver, and changing the default home page :)</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-markdown" data-lang="markdown"><span style="display:flex;"><span>	Steps:
+</span></span><span style="display:flex;"><span>		Alright first things first, we need to make sure webserver is added.
+</span></span><span style="display:flex;"><span>			You can do this by typing &#34;tasksel&#34; at the terminal, and ensuring that webserver is checked near the bottom.
+</span></span><span style="display:flex;"><span>		Alright, awesome; that&#39;s sorted.
+</span></span><span style="display:flex;"><span>		Let&#39;s adjust the home page and call this project a wrap.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		So the file you need to inquire is located in the /var/www/html/ directory
+</span></span><span style="display:flex;"><span>		It is titled index.html
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		I began by typing &#34;nano /var/www/html/index.html
+</span></span><span style="display:flex;"><span>			I then ctrl+k the whole document to clear it out.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		Then all you need to do is write your required code for a basic barebones-html project. We just want to alter it&#39;s appearance from the default apache2 webpage.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		Lastly, we will ctrl+x to exit our document.
+</span></span><span style="display:flex;"><span>		Yes to save changes.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		We will then &#34;sudo systemctl restart apache2&#34; to check for changes.
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		Finally, open the web application you have locally installed. Type into the url bar &#34;http://localhost&#34;
+</span></span><span style="display:flex;"><span>		What do you see? Well done, friend.
+</span></span></code></pre></div><p><img src="https://i.imgur.com/dNVEuU3.png" alt=""></p>
+<p>This site was made using <em>Hugo</em>&rsquo;s static site generator. Theme = Hugo-Rocinante.</p>
+
+    </div>
+
+
+
+
+</article>
+
+    <div class="paginator">
+
+            <a class="older disabled">« Older posts</a>
+
+
+
+            <a class="newer disabled">Newer posts »</a>
+
+    </div>
+
+    </main>
+    <footer></footer>
+
+    <script>
+      const emailId = atob("");
+    </script></body>
+</html>

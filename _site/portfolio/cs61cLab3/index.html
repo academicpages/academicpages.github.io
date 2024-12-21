@@ -1,0 +1,1121 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+
+<meta charset="utf-8">
+
+
+
+<!-- begin SEO -->
+
+
+
+
+
+
+
+
+
+<title>CS61C Lab 3 (RISC-V Venus) - About Me</title>
+
+
+
+
+
+
+
+<meta property="og:locale" content="en-US">
+<meta property="og:site_name" content="About Me">
+<meta property="og:title" content="CS61C Lab 3 (RISC-V Venus)">
+
+
+  <link rel="canonical" href="http://localhost:4000/portfolio/cs61cLab3/">
+  <meta property="og:url" content="http://localhost:4000/portfolio/cs61cLab3/">
+
+
+
+  <meta property="og:description" name="description" content="This project will involve setting up and becoming familiar with Venus, the RISC-V simulator, while also learning the basics of the RISC-V assembly language, registers, memory access, and debugging. Using this lab I was able to understand how to write, execute, and troubleshoot simple RISC-V programs.">
+
+
+
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <script type="application/ld+json">
+    {
+      "@context" : "http://schema.org",
+      "@type" : "Person",
+      "name" : "Noah VanDenBurg",
+      "url" : "http://localhost:4000",
+      "sameAs" : null
+    }
+  </script>
+
+
+
+
+
+
+<!-- end SEO -->
+
+
+<link href="http://localhost:4000/feed.xml" type="application/atom+xml" rel="alternate" title="About Me Feed">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+    
+
+<!-- start custom head snippets -->
+
+<link rel="apple-touch-icon" sizes="57x57" href="http://localhost:4000/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="60x60" href="http://localhost:4000/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="72x72" href="http://localhost:4000/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="76x76" href="http://localhost:4000/images/apple-touch-icon-76x76.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="114x114" href="http://localhost:4000/images/apple-touch-icon-114x114.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="120x120" href="http://localhost:4000/images/apple-touch-icon-120x120.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="144x144" href="http://localhost:4000/images/apple-touch-icon-144x144.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="152x152" href="http://localhost:4000/images/apple-touch-icon-152x152.png?v=M44lzPylqQ">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:4000/images/apple-touch-icon-180x180.png?v=M44lzPylqQ">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-32x32.png?v=M44lzPylqQ" sizes="32x32">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/android-chrome-192x192.png?v=M44lzPylqQ" sizes="192x192">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-96x96.png?v=M44lzPylqQ" sizes="96x96">
+<link rel="icon" type="image/png" href="http://localhost:4000/images/favicon-16x16.png?v=M44lzPylqQ" sizes="16x16">
+<link rel="manifest" href="http://localhost:4000/images/manifest.json?v=M44lzPylqQ">
+<link rel="mask-icon" href="http://localhost:4000/images/safari-pinned-tab.svg?v=M44lzPylqQ" color="#000000">
+<link rel="shortcut icon" href="/images/favicon.ico?v=M44lzPylqQ">
+<meta name="msapplication-TileColor" content="#000000">
+<meta name="msapplication-TileImage" content="http://localhost:4000/images/mstile-144x144.png?v=M44lzPylqQ">
+<meta name="msapplication-config" content="http://localhost:4000/images/browserconfig.xml?v=M44lzPylqQ">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="http://localhost:4000/assets/css/academicons.css"/>
+
+
+<!-- Support for MatJax -->
+<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body>
+
+    <!--[if lt IE 9]>
+<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <button><div class="navicon"></div></button>
+        <ul class="visible-links">
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="http://localhost:4000/">About Me</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/talks/">Talks</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/teaching/">Teaching</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/portfolio/">Portfolio</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/year-archive/">Blog Posts</a></li>
+          
+            
+            <li class="masthead__menu-item"><a href="http://localhost:4000/cv/">CV</a></li>
+          
+        </ul>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+    
+
+
+
+
+
+<div id="main" role="main">
+  
+
+
+  <div class="sidebar sticky">
+  
+
+
+
+<div itemscope itemtype="http://schema.org/Person">
+
+  <div class="author__avatar">
+    
+    	<img src="http://localhost:4000/images/me.png" class="author__avatar" alt="Noah VanDenBurg">
+    
+  </div>
+
+  <div class="author__content">
+    <h3 class="author__name">Noah VanDenBurg</h3>
+    
+    <p class="author__bio">Math Tutor | Studying Computer Science</p>
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      <!-- Font Awesome icons / Biographic information  -->
+      
+        <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>Oakdale, CA</li>
+      
+      
+        <li class="author__desktop"><i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>Modesto Junior College</li>
+      
+      
+      
+        <li><a href="mailto:noah930486@my.yosemite.edu"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>Email</a></li>
+      
+
+      <!-- Font Awesome and Academicons icons / Academic websites -->
+            
+      
+      
+      
+      
+                              
+      
+      
+
+      <!-- Font Awesome icons / Repositories and software development -->
+      
+            
+            
+      
+        <li><a href="https://github.com/BlueSpiderLily"><i class="fab fa-fw fa-github icon-pad-right" aria-hidden="true"></i>Github</a></li>
+      
+            
+            
+
+      <!-- Font Awesome icons / Social media -->
+      
+      
+            
+      
+                  
+                  
+      
+            
+            
+            
+      
+            
+                  
+            
+      
+            
+            
+      
+              
+      
+                      
+      
+      
+            
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="headline" content="CS61C Lab 3 (RISC-V Venus)">
+    <meta itemprop="description" content="This project will involve setting up and becoming familiar with Venus, the RISC-V simulator, while also learning the basics of the RISC-V assembly language, registers, memory access, and debugging. Using this lab I was able to understand how to write, execute, and troubleshoot simple RISC-V programs.">
+    
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h1 class="page__title" itemprop="headline">CS61C Lab 3 (RISC-V Venus)
+</h1>
+          
+        
+        
+            
+        </header>
+      
+
+      <section class="page__content" itemprop="text">
+        <p>December 2024</p>
+
+<p>Disclaimer: The content presented here reflects my understanding of materials from UC Berkeley’s CS61C course “Great Ideas of Computer Architecture (Machine Structures)” Lab 3, and while it includes my own contributions, it is not entirely my original work.</p>
+
+<p>For this project I plan to prepare working with RISC-V assembly and debugging tools such as Venus. Here’s a summary of the steps and key concepts covered:</p>
+<h1 id="setup">Setup:</h1>
+<p>For this project I cloned into the git repository using GIT Bash.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git clone https://github.com/61c-teach/fa24-lab-starter.git
+</code></pre></div></div>
+
+<p>Thereafter, I installed tools necessary for this lab using the command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bash tools/download_tools.sh
+</code></pre></div></div>
+
+<p>Also I did need to install the latest version of java.</p>
+
+<p>And with that, my machine was practically ready.</p>
+
+<h1 id="exercise-1-venus-basics">Exercise 1: Venus Basics</h1>
+<p>We use Venus so that any changes made on our local machine can replicate themselves to Venus web’s frontend and vice versa.</p>
+
+<p>In my cloned project labs folder I needed to expose my projects directory by using an open port and the command:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>java <span class="nt">-jar</span> tools/venus.jar <span class="nb">.</span> <span class="nt">-dm</span>
+</code></pre></div></div>
+
+<p><img src="/images/risc/riscv1.png" alt="javalinLogo" /></p>
+
+<p>Now if I open Venus on my local web browser, I can now see the web terminal and we can mount our local machines project folder to this website. This way if we apply any changes in either place, the changes will replicate respectively.</p>
+
+<p>We can do this by performing the command in our Venus terminal:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>mount <span class="nb">local </span>labs
+</code></pre></div></div>
+
+<p><img src="/images/risc/riscv2.png" alt="" /></p>
+
+<p>As we can see it asks for an authentication key which we can see in our local machines terminal. Successfully providing this key to Venus will then link our files like we wish.</p>
+
+<p>Navigating to our files tab, we can now see the success.</p>
+
+<p><img src="/images/risc/riscv3.png" alt="" /></p>
+
+<p>Now we’re ready to really get to the fun!</p>
+
+<h1 id="exercise-2-venus-basics">Exercise 2: Venus Basics</h1>
+
+<p>In this exercise we’re asked to answer all eleven questions.
+We will do so here,</p>
+
+<h3 id="walkthrough-exercise-2">Walkthrough Exercise 2:</h3>
+
+<p>First though, we must open the respective file, “fib.s” in our project folder.</p>
+<ul>
+  <li>Question 1: What is the machine code of the highlighted instruction? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv4.png" alt="" />
+    <blockquote>
+      <p>0x000002B3</p>
+    </blockquote>
+  </li>
+  <li>Question 2: What is the machine code of the instruction at address 0x34? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv5.png" alt="" />
+    <blockquote>
+      <p>0x00000073</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>On the right side of our screen we also have a “registers” tab, which we can use to see all 32 bit registers.</p>
+<ul>
+  <li>Question 3: What is the value of the sp register? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv6.png" alt="" />
+    <blockquote>
+      <p>0x7FFFFFE0</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>We’re asked to continue stepping until the value in the register ‘t1’ changes. Our initial value is:
+  <img src="/images/risc/riscv7.png" alt="" /></p>
+<blockquote>
+  <p>0x00000000</p>
+</blockquote>
+
+<p>At offset 0x8 we see the change:</p>
+<ul>
+  <li>Question 4: What is the new value of the t1 register? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv8.png" alt="" />
+    <blockquote>
+      <p>0x00000001</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>It’s also asking for the machine code of the current instruction:</p>
+<ul>
+  <li>Question 5: What is the machine code of the current instruction? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv9.png" alt="" />
+    <blockquote>
+      <p>0x10000E17</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Stepping until offset 0x10, we’re then asked:</p>
+<ul>
+  <li>Question 6: What is the value of the t3 register? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv10.png" alt="" />
+    <blockquote>
+      <p>0x10000000</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>We’re also asked what it points to, and we can see this instruction says “lw x28 0(x28)”, the 0(x28) is key to me showing a dereference of an address. So lets take its address and find what it points to.</p>
+<ul>
+  <li>Question 7: What is the byte that t3 points to? The answer should be an 8 bit (1 byte) hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv11.png" alt="" />
+    <blockquote>
+      <p>0C</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Next, we’re asked to set a breakpoint on offset 0x28, and find the value in the t0 register.</p>
+<ul>
+  <li>Question 8: What is the value of the t0 register? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv12.png" alt="" />
+    <blockquote>
+      <p>0x00000001</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Stepping into the loops breakpoint six more times like asked, we need to find the new value of the t0 register.</p>
+<ul>
+  <li>Question 8: What is the value of the t0 register? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv13.png" alt="" />
+    <blockquote>
+      <p>0x0000000D</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Now we’re asked to change from hexadecimal and read the decimal value:</p>
+<ul>
+  <li>Question 10: What is the value of the t0 register in decimal? The answer should be a decimal number without a prefix.
+  <img src="/images/risc/riscv14.png" alt="" />
+    <blockquote>
+      <p>13</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Running the program until it finishes we’re lastly asked:</p>
+<ul>
+  <li>Question 11: What is the output of the program? The answer should be a decimal number without a prefix.
+  <img src="/images/risc/riscv15.png" alt="" />
+    <blockquote>
+      <p>144</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h1 id="exercise-3-using-memcheck">Exercise 3: Using Memcheck</h1>
+
+<p>In this exercise we’re asked to answer seven new questions for exercise 3, using memcheck.</p>
+
+<p>What is memcheck? These are basically two different modes for debugging our assembly level programs.</p>
+<blockquote>
+  <p>Normal mode: shows our invalid reads or writes to memory, if there is unfreed memory at the end of the program it will notify us of this size.
+Verbose mode: this also prints out invalid reads and writes to memory, however it now includes a list of blocks of memory not freed upon finishing the program.</p>
+</blockquote>
+
+<p>We will answer the questions again, here.</p>
+
+<p>First things first, we need to open ex3_memcheck.s in our Venus online editor and get a general idea of it’s behavior.
+After running the program, it looks like we’re running into an error message, and asked to:</p>
+<ul>
+  <li>Question 1: What address did the program try to access, but caused the error? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv16.png" alt="" />
+    <blockquote>
+      <p>0x10008058</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>We’re also asked:</p>
+<ul>
+  <li>Question 2: How many bytes was the program trying to access? The answer should be a decimal number without a prefix.
+    <blockquote>
+      <p>4 bytes</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Seeming like a memory error, we go ahead and turn on memcheck in Venus editor to get more details.</p>
+<ul>
+  <li>Question 3: What address did the program try to access, but caused the error? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv17.png" alt="" />
+    <blockquote>
+      <p>0x10008080</p>
+    </blockquote>
+  </li>
+  <li>Question 4: How many bytes were allocated in the block related to the error? The answer should be a number without units.
+    <blockquote>
+      <p>40</p>
+    </blockquote>
+  </li>
+  <li>Question 5: Which line of the source file caused this error? The answer should be a number.
+    <blockquote>
+      <p>Line 18</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Trying to debug this error and recalling that register t1 contains the loop counter we’re asked:</p>
+<ul>
+  <li>Question 6: What is the value of t1 based on the memcheck error message? The answer should be a decimal number.
+  <img src="/images/risc/riscv18.png" alt="" />
+    <blockquote>
+      <p>11</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>We’re asked to fix this error in the source code, and we know it was on line 18 so, lets try and find the bad actor:</p>
+
+<details>
+<summary>Original Source Code (with errors)</summary>
+  <pre>
+  <code class="language-assembly">
+  .import utils.s
+
+  .text
+  main:
+      # This program will fill an array of size 10 with 0's
+
+      # Allocate an array of size 10
+      li a0 40   # 10 ints, 4 bytes each
+      jal malloc # malloc is defined in utils.s
+      mv t0 a0   # the pointer is returned in a0
+
+      # Fill the array with 0's
+      li t1 0  # t1 is the index
+      li t2 10 # t2 is the size of the array
+
+  loop:
+      # Store 0 at the current index
+      sw x0 0(t0)
+      # Increment the index
+      addi t1 t1 1
+      # Increment the pointer
+      addi t0 t0 4
+      # Check if we are done
+      # If not, loop
+      bge t1 t2 loop
+
+      # Exit the program
+      li a0 0
+      jal exit
+  </code>
+  </pre>
+</details>
+<p><br /></p>
+
+<details>
+<summary>Fixed Source Code (for this step)</summary>
+  <pre>
+  <code class="language-assembly">
+  .import utils.s
+
+  .text
+  main:
+      # This program will fill an array of size 10 with 0's
+
+      # Allocate an array of size 10
+      li a0 40   # load immediate (const) 10 ints, 4 bytes each
+      jal malloc # malloc is defined in utils.s
+      mv t0 a0   # the pointer is returned in a0
+
+      # Fill the array with 0's
+      li t1 0  # t1 is the index
+      li t2 10 # t2 is the size of the array
+
+  loop:
+      # Store 0 at the current index
+      sw x0 0(t0)
+      # Increment the index
+      addi t1 t1 1
+      # Increment the pointer
+      addi t0 t0 4
+      # Check if we are done
+      # If not, loop
+      bge t1 t2 loop              #swapped because we need t1 (the i'th element)to be greater than or equal to t2 (the size).
+
+      # Exit the program
+      li a0 0
+      jal exit
+
+    </code>
+    </pre>
+</details>
+<p><br /></p>
+
+<p>After running our program again, we’re asked:</p>
+<ul>
+  <li>Question 7: How many bytes were not freed when the program exited? The answer should be a decimal number without units.
+  <img src="/images/risc/riscv19.png" alt="" />
+    <blockquote>
+      <p>40</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>Now we’re asked to run memcheck in verbose mode:</p>
+<ul>
+  <li>Question 8: What is the address of the block that was not freed? The answer should be a 32 bit hexadecimal number, with the 0x prefix.
+  <img src="/images/risc/riscv20.png" alt="" />
+    <blockquote>
+      <p>0x10008030 is the starting address of this memory blocks</p>
+    </blockquote>
+  </li>
+</ul>
+
+<p>We’re asked to fix This</p>
+
+<details>
+<summary>Original Source Code (from this step)</summary>
+  <pre>
+  <code class="language-assembly">
+  .import utils.s
+
+  .text
+  main:
+      # This program will fill an array of size 10 with 0's
+
+      # Allocate an array of size 10
+      li a0 40   # load immediate (const) 10 ints, 4 bytes each
+      jal malloc # malloc is defined in utils.s
+      mv t0 a0   # the pointer is returned in a0
+
+      # Fill the array with 0's
+      li t1 0  # t1 is the index
+      li t2 10 # t2 is the size of the array
+
+  loop:
+      # Store 0 at the current index
+      sw x0 0(t0)
+      # Increment the index
+      addi t1 t1 1
+      # Increment the pointer
+      addi t0 t0 4
+      # Check if we are done
+      # If not, loop
+      bge t1 t2 loop              #swapped because we need t1 (the i'th element)to be greater than or equal to t2 (the size).
+
+      # Exit the program
+      li a0 0
+      jal exit
+
+    </code>
+    </pre>
+</details>
+<p><br /></p>
+
+<details>
+<summary>Fixed Source Code (no errors)</summary>
+  <pre>
+  <code class="language-assembly">
+  .import utils.s
+
+  .text
+  main:
+      # This program will fill an array of size 10 with 0's
+
+      # Allocate an array of size 10
+      li a0 40   # load immediate (const) 10 ints, 4 bytes each
+      jal malloc # malloc is defined in utils.s
+      mv t0 a0   # the pointer is returned in a0
+
+      # Fill the array with 0's
+      li t1 0  # t1 is the index
+      li t2 10 # t2 is the size of the array
+
+  loop:
+      # Store 0 at the current index
+      sw x0 0(t0)
+      # Increment the index
+      addi t1 t1 1
+      # Increment the pointer
+      addi t0 t0 4
+      # Check if we are done
+      # If not, loop
+      bge t1 t2 loop              #swapped because we need t1 (the i'th element)to be greater than or equal to t2 (the size).
+
+      # Exit the program
+      jal free                    #must place before setting a0 to 0 because this creates something like a dangling ptr. or a memory leak bc it's not freed.
+      li a0 0
+      jal exit
+
+    </code>
+    </pre>
+</details>
+<p><br /></p>
+
+<p>This gives our code a successful run and zero bytes of memory in use at exit:
+<img src="/images/risc/riscv21.png" alt="" /></p>
+
+<h1 id="exercise-4-array-practice">Exercise 4: Array Practice</h1>
+
+<p>If we consider the discrete value function on integers in set {-3, -2, -1, 0, 1, 2, 3}. With the function definition:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>f(-3) = 6
+f(-2) = 61
+f(-1) = 17
+f(0) = -38
+f(1) = 19
+f(2) = 42
+f(3) = 5
+</code></pre></div></div>
+
+<p>We can implement a function ‘f:’ such that all output values stored in the output array go through register a1, AND we can index into ths array and get the correct associated output.</p>
+
+<details>
+<summary>Provided Code:</summary>
+  <pre>
+  <code class="language-assembly">
+  .import ex4_discrete_fn.s
+
+  .data
+  # asciiz is a directive used to store strings
+  # asciiz will automatically append a null terminator to the end of the string
+  neg3:   .asciiz "f(-3) should be 6, and it is: "
+  neg2:   .asciiz "f(-2) should be 61, and it is: "
+  neg1:   .asciiz "f(-1) should be 17, and it is: "
+  zero:   .asciiz "f(0) should be -38, and it is: "
+  pos1:   .asciiz "f(1) should be 19, and it is: "
+  pos2:   .asciiz "f(2) should be 42, and it is: "
+  pos3:   .asciiz "f(3) should be 5, and it is: "
+
+  output: .word   6, 61, 17, -38, 19, 42, 5
+
+  .text
+  main:
+  	######### evaluate f(-3), should be 6 #########
+      # load the address of the string located at neg3 into a0
+      # this will serve as the argument to print_str
+      la a0, neg3
+      # print out the string located at neg3
+      jal print_str
+      # load the first argument to f into a0
+      li a0, -3
+      # load the second argument of f into a1
+      # `output` is a pointer to an array that contains the possible output values of f
+      la a1, output
+      # execute f(-3)
+      jal f
+      # f will return the output of f(-3) into register a0
+      # to print out the return value, we will call print_int
+      # print_int expects the value that it's printing out to be in register a0
+      # the output of the function is already in a0, so we don't need to move it
+      jal print_int
+      # print a new line
+      jal print_newline
+
+  	######### evaluate f(-2), should be 61 ########
+      la a0, neg2
+      jal print_str
+      li a0, -2
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	######### evaluate f(-1), should be 17 ########
+      la a0, neg1
+      jal print_str
+      li a0, -1
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	######### evaluate f(0), should be -38 ########
+      la a0, zero
+      jal print_str
+      li a0, 0
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	######### evaluate f(1), should be 19 #########
+      la a0, pos1
+      jal print_str
+      li a0, 1
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	######### evaluate f(2), should be 42 #########
+      la a0, pos2
+      jal print_str
+      li a0, 2
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	######### evaluate f(3), should be 5 #########
+      la a0, pos3
+      jal print_str
+      li a0, 3
+      la a1, output
+      jal f
+      jal print_int
+      jal print_newline
+
+  	# passing 10 to ecall will terminate the program
+      li a0, 10
+      ecall
+
+  # prints out one integer
+  # input values: a0: the integer to print
+  # does not return anything
+  print_int:
+  	# to print an integer, we need to make an ecall with a0 set to 1
+      # the thing that will be printed is stored in register a1
+      # this line copies the integer to be printed into a1
+      mv a1, a0
+      # set register a0 to 1 so that the ecall will print
+      li a0, 1
+      # print the integer
+      ecall
+      # return to the calling function
+      jr    ra
+
+  # prints out a string
+  print_str:
+      mv a1, a0
+      li a0, 4 # tells ecall to print the string that a1 points to
+      ecall
+      jr    ra
+
+  print_newline:
+      li a1, '\n'
+      li a0, 11 # tells ecall to print the character in a1
+      ecall
+      jr    ra
+
+      </code>
+      </pre>
+</details>
+<p><br /></p>
+
+<details>
+<summary>Expected Code (Starting Point)</summary>
+  <pre>
+  <code class="language-assembly">
+  .globl f # this allows other files to find the function f
+
+  # f takes in two arguments:
+  # a0 is the value we want to evaluate f at
+  # a1 is the address of the "output" array (read the lab spec for more information).
+  # The return value should be stored in a0
+  f:
+      # Your code here
+
+      # This is how you return from a function. You'll learn more about this later.
+      # This should be the last line in your program.
+      jr ra
+
+  </code>
+  </pre>
+  </details>
+<p><br /></p>
+
+<details>
+<summary>Expected Code (Working)</summary>
+  <pre>
+  <code class="language-assembly">
+  .globl f # this allows other files to find the function f
+
+  # f takes in two arguments:
+  # a0 is the value we want to evaluate f at
+  # a1 is the address of the "output" array (read the lab spec for more information).
+  # The return value should be stored in a0
+  f:
+      # Your code here
+
+     addi t0 a0 3 #adding const 3 to index and storing in temp 0 (index = x + 3 in this case)
+     slli t1 t0 2 #shifting left logical immediate (multiply by 2^n, 4 in this case) and store it in temp 1, multiplying index by size of each element in array
+     add t1 t1 a1 #add this offset to address of array to get address of element we wish to read
+     lw a0, 0(t1) #reading element
+
+  #a0 index; a1 array base addy
+
+
+      # This is how you return from a function. You'll learn more about this later.
+      # This should be the last line in your program.
+      jr ra
+  </code>
+  </pre>
+</details>
+<p><br /></p>
+
+<p>Explanation:</p>
+<blockquote>
+  <p>The thought process is added in comments in the code snippets but essentially we added an immediate value 3 to the register a0 which holds our index to get to the correct starting point and stored it in a temp register t0. Then to multiply by 4 (size of a word) we can shift the bits left two times which gives us a multiplication of 2^2 so 4, and store this value t1. This is what we’ll add every time to register a1 (our base address for the values) to get to the next element. Then we load the element into memory so we can print it. This is essentially what we did here.</p>
+</blockquote>
+
+<h1 id="exercise-5-factorial">Exercise 5: Factorial</h1>
+
+<p>In this exercise we are implementing a factorial function in risc-v. Taking a single integer parameter n, and returning n!.</p>
+
+<details>
+<summary>Starting Code:</summary>
+  <pre>
+  <code class="language-assembly">
+  .globl factorial
+
+  .data
+  n: .word 8
+
+  .text
+  # Don't worry about understanding the code in main
+  # You'll learn more about function calls in lecture soon
+  main:
+      la t0, n
+      lw a0, 0(t0)
+      jal ra, factorial
+
+      addi a1, a0, 0
+      addi a0, x0, 1
+      ecall # Print Result
+
+      addi a1, x0, '\n'
+      addi a0, x0, 11
+      ecall # Print newline
+
+      addi a0, x0, 10
+      ecall # Exit
+
+  # factorial takes one argument:
+  # a0 contains the number which we want to compute the factorial of
+  # The return value should be stored in a0
+  factorial:
+      # YOUR CODE HERE
+
+      # This is how you return from a function. You'll learn more about this later.
+      # This should be the last line in your program.
+      jr ra
+  </code>
+  </pre>
+</details>
+<p><br /></p>
+
+<details>
+<summary>Working Code:</summary>
+  <pre>
+  <code class="language-assembly">
+  .globl factorial
+
+  .data
+  n: .word 5
+
+  .text
+  # Don't worry about understanding the code in main
+  # You'll learn more about function calls in lecture soon
+  main:
+      la t0, n
+      lw a0, 0(t0)
+      jal ra, factorial
+
+      addi a1, a0, 0
+      addi a0, x0, 1
+      ecall # Print Result
+
+      addi a1, x0, '\n'
+      addi a0, x0, 11
+      ecall # Print newline
+
+      addi a0, x0, 10
+      ecall # Exit
+
+  # factorial takes one argument:
+  # a0 contains the number which we want to compute the factorial of
+  # The return value should be stored in a0
+  factorial:
+      # YOUR CODE HERE
+      #n! = n * (n-1)*(n-2)*...*1
+
+      #base case if a0 == 0, we return 1
+      beqz a0, return_one
+
+      #initialize result to 1
+      li t0, 1        #t0 = 1 (holding result)
+
+  factorial_loop:
+      #multiply t0 (result) by current value in a0 (n)
+      mul t0, t0, a0 #t0 = t0 * a0
+
+      #decrement a0 (n) by 1
+      addi a0, a0, -1 #a0 = a0 - 1
+
+      #If a0 &gt; 0, continue (branch not equal zero)
+      bnez a0, factorial_loop
+
+      #return our result in register a0 before returning ()
+      mv a0, t0
+      jr ra
+
+  return_one:
+      li a0, 1
+      jr ra
+
+      #place return value in register a0 before returning ()
+
+      # This is how you return from a function. You'll learn more about this later.
+      # This should be the last line in your program.
+      jr ra
+  </code>
+  </pre>
+</details>
+<p><br /></p>
+
+<p>Explanation:</p>
+<blockquote>
+  <p>Essentially, this exercise tailored me to learn about a base case, if n = 0 we just return 1. Otherwise we needed to create a loop in risc-v to continiously multiply n by (n-1) by (n-2) until our n reached zero, breaking out of the loop; giving us n!. Again, each of my thought processes are again explained in the comments of the code.</p>
+</blockquote>
+
+<p>Testing 8!
+<img src="/images/risc/riscv22.png" alt="" /></p>
+<blockquote>
+  <p>40320 :)</p>
+</blockquote>
+
+
+        
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+
+
+
+
+      </footer>
+
+      
+
+<section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://twitter.com/intent/tweet?text=http://localhost:4000/portfolio/cs61cLab3/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/portfolio/cs61cLab3/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/portfolio/cs61cLab3/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+</section>
+
+      
+
+
+  <nav class="pagination">
+    
+      <a href="#" class="pagination--pager disabled">Previous</a>
+    
+    
+      <a href="http://localhost:4000/portfolio/debianProject/" class="pagination--pager" title="Debian Virtual Machine
+">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+
+    <div class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+<a href="/sitemap/">Sitemap</a>
+<!-- end custom footer snippets -->
+
+        
+
+
+<div class="page__footer-follow">
+  <ul class="social-icons">
+    
+      <li><strong>Follow:</strong></li>
+    
+    
+      <li><a href="http://github.com/BlueSpiderLily"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
+    
+    
+    
+    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
+    
+  </ul>
+</div>
+
+
+<div class="page__footer-copyright">
+  &copy; 2024 Noah VanDenBurg, Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
+  Site last updated 2024-12-21
+</div>
+
+      </footer>
+    </div>
+
+    <script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+  </body>
+</html>
+
