@@ -14,8 +14,8 @@ My research interest aligns in the synthesis and fabrication of nanomaterials, c
 
 I'm seeking for a PhD position relevant with materials, electronics and the field close to them.
 -----
-For more infomation about my publications, please refer to my CV (pdf version, March 2023).
-
+For more infomation about my publications, please refer to my CV (pdf version).
+[Open PDF in New Tab](https://github.com/hyluo7/hyluopage/raw/dev-2.0/files/hyluocv_new_dec.pdf){:target="_blank"}
 !!!Attention!!! For the latest CV, you can contact me to ask for it. I will reply all in 24 hours.
 
 News
