@@ -13,17 +13,10 @@ Can Yang is a PhD student in Chongqing University
 
 News
 =====
-**May. 2024:** One paper accepted by KDD, 2024.
+**May. 2024:** One paper accepted by.
 
-**Dec. 2023:** One paper accepted by Information Sciences, 2023.
+**Dec. 2023:** I Joined MSU as a visiting student!
 
-**Aug. 2023:**  One paper accepted by Information Sciences, 2023.
-
-**Jun. 2023:**  Begin my visiting at MSU！
-
-**Apr. 2023:**  One paper accepted by ICML, 2023.
-
-**Jun. 2022:**  One paper accepted by AAAI, 2022 (Oral 4.5%).
 
 
 <br />
