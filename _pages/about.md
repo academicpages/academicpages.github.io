@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a second-year PhD student from [The Hong Kong University of Science and Technology (GuangZhou)]([https://eecs.pku.edu.cn/https://www.hkust-gz.edu.cn/]). My research interests include corporate governance, sustainability, CSR, and innovation.
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+I am very fortunate to be advised by [Prof. Jinyu he]([https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=148]) 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](mailto:yzhang354@connect.hkust-gz.edu.cn) / [Github](KATHZHANG1999.github.io) 
