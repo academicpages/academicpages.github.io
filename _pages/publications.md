@@ -76,6 +76,6 @@ IEEE International Conference on Acoustics, Speech and Signal Processing (**IEEE
 - Wataru Nakata\*, **<u>Kazuki Yamauchi</u>**\*, Dong Yang, Hiroaki Hyodo, and Yuki Saito (\***Equal contribution**)<br>
 **UTDUSS: UTokyo-SaruLab System for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge**<br>
 Technical Report for Interspeech2024 Speech Processing Using Discrete Speech Unit Challenge, Mar. 2024.<br>
-🎉 **Ranked 1st in TTS (Acoustic+Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
+🎉 **Ranked 1st in TTS (Acoustic + Vocoder) track** \[[link](https://huggingface.co/spaces/discrete-speech/interspeech2024_discrete_speech_tts_full)\]<br>
 Presented at IEEE SLT 2024 Recent Breakthrough Results Session, Dec. 2024. \[Poster presentation\]<br>
 \[[arXiv](https://arxiv.org/abs/2403.13720)\] \[[code](https://huggingface.co/sarulab-speech/UTDUSS-Vocoder)\] \[[poster](/files/utduss24slt_poster.pdf)\]
