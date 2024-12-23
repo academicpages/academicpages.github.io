@@ -15,7 +15,7 @@ Can Yang is a PhD student in Chongqing University
 
 <div style="overflow-y: scroll; height: 250px; border: 1px solid #ddd; padding: 10px;">
   <ul>
-    <li><strong>May 2024:</strong> One paper accepted by KDD, 2024.</li>
+    <li><strong>May 2024:</strong> Ones paper accepted by KDD, 2024.</li>
     <li><strong>Dec 2023:</strong> One paper accepted by Information Sciences, 2023.</li>
     <li><strong>Aug 2023:</strong> One paper accepted by Information Sciences, 2023.</li>
     <li><strong>Jun 2023:</strong> Began my visiting at MSU!</li>
