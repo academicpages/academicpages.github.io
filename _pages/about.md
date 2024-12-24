@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a first year phd student from [Academy of Mathematics and Systems Science](https://amss.cas.cn/). My research interest includes semiparametric theory, semi-supervised learning.
 
-I obtained my bachelor degree from Taishan College at Shandong University in 2022, majored in mathematics and applied mathematics.
+I obtained my bachelor degree from [Taishan College](https://www.tsxt.sdu.edu.cn/) at Shandong University in 2022, majored in mathematics and applied mathematics.
 
 Honor
 ======
