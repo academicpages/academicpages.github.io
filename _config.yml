@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "IMG_7881.jpg"
   name             : "Babak Taheri"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  pronouns         : example: "He/his"  
+  bio              : "ECE Ph.D. @ Georgia Tech"
+  location         : "Atlanta, GA"
   employer         : "Georgia Institute of Technology"
   uri              : # URL
   email            : "btaheri6@gatech.edu" 
