@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Babak Taheri"
+title                    : "Babak's Homepage"
 title_separator          : "-"
 name                     : &name "Babak Taheri"
 description              : &description "personal description"
