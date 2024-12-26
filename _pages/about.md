@@ -182,7 +182,7 @@ Before joining Durable, I served as a post-doctoral researcher at the [Universit
    </ul>
       
 
-## Service
+## Academic Service
 <ul>
   <li>
     <strong>2025</strong>
@@ -190,6 +190,9 @@ Before joining Durable, I served as a post-doctoral researcher at the [Universit
       <li><strong>Program Committee</strong></li>
       <ul>
         <li><a href="https://iclr.cc/Conferences/2025"> International Conference on Learning Representations (ICLR)</a></li>
+      </ul>
+      <ul>
+        <li><a href="https://icml.cc/Conferences/2025"> International Conference on Machine Learning (ICML)</a></li>
       </ul>
     </ul>
   </li>
