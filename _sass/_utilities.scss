@@ -92,6 +92,15 @@ body:hover .visually-hidden button {
   text-align: center;
 }
 
+
+.text-center-members {
+  text-align: center;
+  table-layout: fixed;
+  img {
+    width: 200px;
+  }
+}
+
 .text-right {
   text-align: right;
 }
