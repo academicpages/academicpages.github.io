@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/19b2af58-3ffe-4895-83c4-b44c7e7ecf19)---
 permalink: /
 title: " "
 author_profile: true
@@ -16,13 +16,13 @@ He is dedicated to (1) Exploring the computational principles of the brain, with
 In the past five years, his work have been recognized in prestigious journals and top AI conferences, including ***Nature*** (cover paper), ***Science Robotics*** (cover paper), ***Nature Computational Science***, ***Nature Communications***, IEEE TNNLs and AAAI, with about 4.8k google scholar citations. Two of his works have been selected as ESI Top 1% Highly Cited Papers. Two papers have been selected as featured papers by Nature Communications. One of his papers was awarded Best Paper of the Year by the Journal of Control and Decision, and three of his related works have been successfully converted into patents. His participated Tianjic chip project was recognized as one of the top 10 sci-tech achievements in China in 2019.
 
 
-**Selected Ten Publications** <span style="font-size: small;">(updated as of November 2024)</span>
+**Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
-1. **Y. Wu**, W. Maass. "Memory structure created through behavioral time scale synaptic plasticity." **Nature Communications** (accepted in principle).
+1. **Y. Wu**, W. Maass. "A simple model for Behavioral Time Scale Synaptic Plasticity (BTSP) provides content addressable memory with binary synapses and one-shot learning." **Nature Communications**, 2025.
 
 2. **Y. Wu**, L. Deng, et al. "Adaptive spatiotemporal neural networks through complementary hybridization." **Nature Communications**, 2024, 15(1): 7355. (Featured papers)
 
-3. F. Yu# **Y. Wu#** (#Equal Contribution), et al. "NeuroGPR: Brain-inspired general place recognition with neuromorphic computing." **Science Robotics**, May 2023. (Cover paper)
+3. F. Yu# **Y. Wu#** (#Equal Contribution), M. Song#, et al. "Brain-inspired multimodal hybrid neural network for robot place recognition", **Science Robotics**, May 2023. (Cover paper)
 
 4. **Y. Wu**, R. Zhao, J. Zhu, et al. "Brain-inspired global-local learning incorporated with neuromorphic computing." **Nature Communications**, 2022, 13(1): 1-14.
 
@@ -36,15 +36,25 @@ In the past five years, his work have been recognized in prestigious journals an
 
 9. J. Pei, ..., **Y. Wu**, et al. "Towards artificial general intelligence with hybrid Tianjic chip architecture." **Nature**, 2019, 572(7767): 106-111. (Cover paper)
 
-10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8.
+10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8 (Cover runner-up paper).
 
 
 ### **Service Activities**
+- Guest Editor for NCE
 - Associate Editor for CIS-RAM 2024   
 - Review Editor for *Frontiers in Neuroscience*  
 - Technical Chair for PRSC 2024  
 - Program Committee Member for AAAI 2025  
 - Technical Program Committee Member for the IEEE GlobCon series
+
+### **Selected Talks**
+- December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot online learning, China Brain-Machine Intelligence Conference
+- November 2024, Yunnan, China. Brain-Inspired Hybrid Intelligence, International Youth Forum on Brain and Intelligence
+- October 2024, Xiamen, China. Brain-Inspired Hybrid Intelligence, Nanqiang Forum, Xiamen University
+- July 2024, Salzburg, Austria. One-Shot Learning and Robust Recall with BTSP, Graz University of Technology
+- January 2024, Hong Kong, China. Brain-Inspired Hybrid Global-Local Learning Methods, The Hong Kong Polytechnic University
+- May 2023, Beijing, China. Exploring brain-inspired local and local-global learning with neuromorphic computing, Institute of Automation, Chinese Academy of Sciences
+ 
 
 ### **Hiring**
 I am seeking motivated Post-Doctoral Fellows, Research Assistants, and Ph.D. students with a strong interest and experience in brain-inspired computing and computational neuroscience. If you are interested in joining my research team at PolyU, please email your CV (including research interests, GPA, publications, etc.) and transcript (required for Research Assistant and Ph.D. applicants).
