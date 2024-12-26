@@ -4,11 +4,66 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+<!-- 連結要改 -->
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar
-        profile</a>.</div>
-{% endif %}
+profile</a>.</div>
+{% endif %} -->
+<style>
+    .link-style {
+        font-size: 16pt; 
+        font-family: 'Helvetica', serif; 
+        color: #0000EE; 
+    }
+</style>
+<div>
+<div class="link-container" style="font-size:16.0pt">
+[<a class="link-style" href="/professor">Prof. Tong-Yee Lee</a>] [<a 
+class="link-style" href="/research_summary">Research Summary</a>] [<a 
+class="link-style" href="/publications#MajorPapers">Major Journal Papers</a>] [<a 
+class="link-style" href="/publications#OtherPapers">Selected Journal Papers</a>] [<a 
+class="link-style" href="/publications#RecentPapers">Recent International Conference Papers</a>]
+</div>
+
+<br>
+<div>
+<span style="font-size: 12.0pt; font-family: 'Helvetica', sans-serif; color: #666666;">●
+<img src="/images/new.gif">Ph.D students and postdoctoral positions in CS/CE/EE/Math/Applied Math background are available, please contact us. Experience with computer graphics, image/video processing, computer vision will be a “plus” but not a “must”. Foreign candidates are also very welcome!
+</span>
+</div>
+<br>
+<div>
+<span lang="EN-US">●
+<a class="link-style" href="http://graphics.csie.ncku.edu.tw/Tony/publication_list/tony_paper_list.pdf">Prof. Tong-Yee Lee’s (Tony) partial publication list</span>
+</a>
+</span>
+</div>
+<div>
+<span lang="EN-US">●
+<a class="link-style" href="http://graphics.csie.ncku.edu.tw/tony_research_summary_2018.htm">Research Summary</a>
+</span>
+</div>
+<div>
+<h2 style="text-align:justify;text-justify:inter-ideograph">
+<span lang="EN-US" style="font-size:12.0pt;font-family:Wingdings;color:#666666;font-weight:normal">l</span>
+<span lang="EN-US" style="font-size:12.0pt;font-family:'Helvetica',sans-serif;color:red">Welcome to contact us if you are interested in collaborating with us. Also, welcome some intern students to stay here</span>
+<span lang="EN-US" style="font-size:12.0pt;font-family:'Helvetica',sans-serif;color:#666666">.</span>
+</h2>
+</div>
+
+</div>
+
+
+<!-- <span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;color:windowtext">) 2022/08/01,<a href="http://graphics.csie.ncku.edu.tw/Tony/papers/AE_TVCG_note.pdf"> IEEE TVCG Editor Note</a>, 2023/04</span> -->
+<h2 style="text-align:justify;text-justify:inter-ideograph"><span lang="EN-US" style="font-size:12.0pt;font-family:'Helvetica Neue';color:windowtext;
+    background:white">Note</span><span lang="EN-US"><span style="mso-no-proof:yes"><img border="0" width="43" height="30" id="_x0000_i3266" src="/images/new.gif"></span></span><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="font-size:12.0pt;
+    font-family:'Helvetica Neue';color:windowtext;background:white">Prof. Tong-Yee Lee joins </span></i><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;color:windowtext">the </span></i><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;color:red"><a href="https://www.computer.org/csdl/journal/tg/about/107398?title=Editorial%20Board&amp;periodical=IEEE%20Transactions%20on%20Visualization%20and%20Computer%20Graphics">IEEE TVCG Editorial Board</a></span></i><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;
+    color:windowtext"> (</span></i><i style="mso-bidi-font-style:normal"><span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;
+    color:red">Impact Factor = 5.226, 2022</span></i><i style="mso-bidi-font-style:
+    normal"><span lang="EN-US" style="font-size:13.5pt;font-family:'Times New Roman',serif;
+    color:windowtext">) 2022/08/01,<a href="http://graphics.csie.ncku.edu.tw/Tony/papers/AE_TVCG_note.pdf"> IEEE TVCG Editor Note</a>, 2023/04</span></i><span lang="EN-US" style="font-size:12.0pt;
+    font-family:'Helvetica Neue';color:#C00000;background:white"><o:p></o:p></span></h2>
 
 {% include base_path %}
 
@@ -21,15 +76,15 @@ author_profile: false
 {% continue %}
 {% endif %}
 {% unless title_shown %}
-<h2>{{ category[1].title }}</h2>
+<h2 id={{category[0]}}>{{ category[1].title }}</h2>
 <hr />
 {% assign title_shown = true %}
 {% endunless %}
-{% include archive-single.html type="table" %}
+{% include archive-single-publications.html type="table" %}
 {% endfor %}
 {% endfor %}
 {% else %}
 {% for post in site.publications reversed %}
-{% include archive-single.html %}
+{% include archive-single-publications.html %}
 {% endfor %}
 {% endif %}

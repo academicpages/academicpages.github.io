@@ -21,7 +21,7 @@ repository               : "cgvsl-ncku.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "tony.jpeg"
+  avatar           : "tony.jpg"
   name             : "李同益"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -78,11 +78,28 @@ author:
 publication_category:
   books:
     title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  MajorPapers:
+    title: 'Major Journal Papers (ACM/IEEE Transactions/Journals)/SIGGRAPH/SIGGRAPH Asia/CVPR (2024/10/07)'    
+  OtherPapers:
+    title: 'Other Journal and arxiv Papers (2024/09/10)'
+  RecentPapers:
+    title: 'Recent International Conference Papers (2005~present)'
 
+research_summary_category:
+  Multimedia_Retargeting:
+    title: 'Multimedia Retargeting'
+  Surface_Modeling:
+    title: 'Surface Modeling/Texture Mapping/Geometrric Steganography/AGIM'
+  Non_photo_realistic:
+    title: 'Non-photo-realistic rendering (NPR) & Illusion'
+  Motion_Overview:
+    title: 'Motion Overview + Animation Generation + Music'
+  Focus_Context:
+    title: 'Focus + Context/Word and Image/Shape Cloud/Map Art/ Visualization'
+  Morphing:
+    title: 'Morphing, Shape Interpolation and its Medical Applications'
+
+  
 # Site Settings
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -224,6 +241,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  research_summary:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -260,7 +280,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: single-publications
       author_profile: true
       share: true
       comments: true

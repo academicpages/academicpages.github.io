@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 [2024 CG](http://localhost:4000/courses/2024CG)  
-[2023 CG](http://graphics.csie.ncku.edu.tw/)
-[2022 CG](http://graphics.csie.ncku.edu.tw/)
-[2021 CG](http://graphics.csie.ncku.edu.tw/)
-[2020 CG](http://graphics.csie.ncku.edu.tw/)
-[2019 CG](http://graphics.csie.ncku.edu.tw/)
-[2018 CG](http://graphics.csie.ncku.edu.tw/)
-[2016 CG](http://graphics.csie.ncku.edu.tw/)
+[2023 CG](http://graphics.csie.ncku.edu.tw/)  
+[2022 CG](http://graphics.csie.ncku.edu.tw/)  
+[2021 CG](http://graphics.csie.ncku.edu.tw/)  
+[2020 CG](http://graphics.csie.ncku.edu.tw/)  
+[2019 CG](http://graphics.csie.ncku.edu.tw/)  
+[2018 CG](http://graphics.csie.ncku.edu.tw/)  
+[2016 CG](http://graphics.csie.ncku.edu.tw/)  
 
 <!-- # Locations of key files/directories
 
