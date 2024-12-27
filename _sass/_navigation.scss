@@ -78,7 +78,7 @@
       margin-bottom: 0.25em;
       padding: 0.5em 1em;
       font-family: $serif;
-      font-size: 14px;
+      font-size: $type-size-5;
       font-weight: bold;
       line-height: 1.5;
       text-align: center;
@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
+  font-size: $type-size-4;
 
   ul {
     margin-bottom: 1em;
