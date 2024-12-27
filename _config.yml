@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : " PhD @FAU Erlangen, Germany | Former Data Analyst at Max Planck Institute for Human Cognitive and Brain Sciences | BSc.(H) Physics and M.Sc. Life Science Informatics."
   location         : "Erlangen, Germany"
-  employer         : "Friedrich Alexander University"
+  employer         : "Friedrich-Alexander-Universität Erlangen-Nüremberg"
   pubmed           :
   googlescholar    : 
-  email            : "kapoor@cbs.mpg.de"
+  email            : "shreya.kapoor@fau.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -215,7 +215,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: double
       author_profile: true
       share: true
       comments: true
@@ -245,6 +245,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
