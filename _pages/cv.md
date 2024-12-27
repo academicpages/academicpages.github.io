@@ -50,6 +50,7 @@ Work experience
       * Optics and Lasers in Engineering (2023) paper, [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179)
     * Defect Detection in Automobile Smart Manufacturing
   * 6D pose estimation for robotic manipulation
+    * MM'25 paper, [Geo6D: Geometric-Constraints-Guided Direct Object 6D Pose Estimation Network](https://github.com/Jianqiuer/Geo6D)
     * CVPR'22 oral paper, [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
     * AISTATS'23 paper, [Uni6Dv2: Noise Elimination for 6D Pose Estimation](https://arxiv.org/abs/2208.06416)
   * Person Reidentification

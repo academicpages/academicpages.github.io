@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 2024:
+- Jianqiu Chen, Mingshan Sun, Ye Zheng, Tianpeng Bao, Zhenyu He, Donghai Li2, Guoqiang Jin, Zhao Rui, Liwei Wu, **Xiaoke Jiang**, [Geo6D: Geometric-Constraints-Guided Direct Object 6D Pose Estimation Network](https://github.com/Jianqiuer/Geo6D), IEEE Transactions on Multimedia 2025.
 - Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, **Xiaoke Jiang**, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
 - Jiamin Wu, Kenkun Liu, Han Gao, **Xiaoke Jiang**(corresponding), Yuan Yao, Lei Zhang, [DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction](https://kenkunliu.github.io/DIG3D/)
 - Jiamin Wu, Kenkun Liu, Yukai Shi, **Xiaoke Jiang**(corresponding), Yuan Yao, Lei Zhang, [UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction](https://kenkunliu.github.io/UniG/)
