@@ -5,7 +5,7 @@ permalink: /posts/2024/08/the-limits-of-thinking/
 author_profile: false
 tags:
   - essays
-  - category 2
+  - cognition
 ---
 
 This essay discusses the mental concept of thinking in limits.
@@ -44,6 +44,8 @@ This can lead to misunderstandings about probability, such as gamblers believing
 
 Let's demonstrate the benefit of thinking in limits by applying it to a famous brain teaser that's based on an old game show scenario: the Monty Hall problem.
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "an optional title")
+
 ### The Monty Hall problem
 
 Here’s how it works: you’re a contestant facing three doors.
@@ -57,7 +59,7 @@ That’s because the host’s reveal actually changes the odds, making the switc
 Many people have the intuition that it doesn't matter if you switch; the probability of getting the car is 1/2.
 This feels intuitive because we’re used to thinking about equal chances when two options are left.
 
-### Scaling up to four doors
+### Scaling up to Four Doors
 
 If we scale up the Monty Hall problem to four doors, with one car and three goats, the dynamics change a bit.
 
@@ -73,7 +75,7 @@ The intuition that the probability of getting the car is 1/2 still holds; you st
 This is the key insight.
 Taking a single step towards the limit of infinite doors did not *fundamentally* change the nature of the brain teaser.
 
-### Scaling up to infinite doors
+### Scaling up to Infinite Doors
 
 If the nature of the problem has not changed, we can keep adding doors until we get to the limit of infinite doors.
 Imagine the Monty Hall problem, but with a **million** doors instead of just three.
@@ -89,8 +91,66 @@ This means switching gives you a near-certain 999,999 in a million chance of win
 In this extreme version of the Monty Hall problem, switching isn’t just a better strategy—it’s practically a guaranteed win!
 
 Now we return to the imagined person that intuitively did not consider switching doors in the three-door scenario to make a difference.
-We ask them to do the million-door scenario a few times.
-Would they intuitively think that they picked the car out of a million doors in 50% of those cases?
+In fact, they may still be intuitively confused about this situation.
+If there are two doors left, and one of them has a car, does that not still constitute a 50/50 situation?
+But now comes an important next step.
+We ask them to do the million-door scenario *multiple* times.
+If they follow their logic, they *should* expect to get the car half the times.
+But would they intuitively think that they picked the car out of a million doors in 50% of those cases?
+
+## Relevance for Cognition
+
+Applying this mental framework can be useful for dealing with probabilistic reasoning in the real world.
+But most people don't find themselves in such situations on a regular basis.
+Here I argue that the framework of thinking in limits can be applied to daily life as well.
+
+A common application of this principle is the ``What's the worst that can happen?'' trope.
+Your friend is trying to set you up on a blind date, but you are not really in the mood.
+You can explore the limits of this situation.
+The downside limit are manageable: in the worst case, you just have a mediocre conversation with someone and you're on your way home.
+The upside limit is much more significant: in the absolute best case you might meet the love of your life.
+Thinking in limits uncovers the assymetry of the situation, and may inform your decision to meet the person or not.
+
+Another application is in political thought.
+Oftentimes politicians or voters are concerned about a concrete problem, and they are looking for a quick win.
+But sometimes going for this has far reaching consequences.
+A secular society might impose a small restriction on one particular religion, for whatever practical reason.
+And maybe in isolation this seems like a good idea.
+Or a group of activists may want the government to ban fossil fuels completely.
+But what if we consider this step into its limit?
+What if this could cascade into a fundamental shift in the core of society, leading to an end result that no one would be satisfied with?
+Again, our intuition may kick in in the limit.
+The direct, here-and-now decision could make intuitive sense, but considering the decision in its limit does not make intuitive sense.
+This small mental exercise can be incredibly powerful in making more robust and principled political decisions.
+
+### Application to Mental Health
+
+A similar approach can help people with social anxiety.
+It is tempting for many to get stuck at an intermediate level of analysis.
+They might wonder if people in the metro are looking at them, or if their friends are actually not their friends and secretly despise them.
+What if we have the courage to go to the limit of this situation?
+Let's say all of your friends do indeed hate you.
+But they also spend a lot of time with you and sometimes buy you gifts or check in on you.
+That must mean they really have a manipulative plan to gain your trust, just so they can hurt you even more later.
+They dedicate a lot of time of their life just to spite you.
+And those people in the bus?
+They would all rather spend time looking at you and judging you, rather than talk to their friends or listen to some music.
+If we go to this limit, our intuition kicks back in to save us: this scenario seems incredibly unlikely.
+
+Thinking in limits could be interpreted as 'black and white thinking', where people lose sight of nuances in the real world.
+In fact, perhaps because this concept was inspired by them, mathematicians and physicists are often seen as such people.
+They bring their simple and elegant models from their labs to the real world, and failing to realize that these models are oversimplified they become frustrated with the real world.
+Therapists also often talk about the concept of 'catastrophizing', leading people to spiral.
+Your partner did not respond to your text for a few hours, and you start to think 'what if?', and before you know if you're having a panic attack.
+It's important to realize here that thinking in limits is not the end goal, and the most accurate way of seeing a situation.
+It is a mental tool that allows for exploration and understanding of a situation.
+
+
+
+
+
+
+
 
 ## Further Reading
 
