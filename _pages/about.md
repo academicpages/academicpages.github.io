@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am currently a staff engineer in the Search Ads team at Baidu Inc., working on developing large language models. Prior to that, I was an algorithm expert in the Ad Tech team at Alibaba Group, honored with "Alibaba-Star" ("阿里星"). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
+Hi! I am currently a staff engineer at Baidu Search Ads, leading a team working on personalized ad creative generation and ranking. Prior to that, I was an algorithm expert at Alibaba Ad Tech, honored with "Alibaba-Star" ("阿里星"). I received my Ph.D. degree in June 2021 from the Institute of Automation, Chinese Academy of Sciences (CASIA) and my B.Eng. degree in June 2016 from Wuhan University (WHU).  
 
 
 Research Interests
