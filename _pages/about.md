@@ -20,7 +20,11 @@ redirect_from:
 
 My Erdős number is 4.
 
-![Branched Flows](https://raphaelpellegrin.github.io/images/Burger.png)
+![Burger](https://raphaelpellegrin.github.io/images/Burger.png)
+
+![Branched Flow Gif](https://raphaelpellegrin.github.io/images/potential_evolution.png)
+
+![Graph](https://raphaelpellegrin.github.io/images/graph.png)
 
 
 
