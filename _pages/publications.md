@@ -11,16 +11,16 @@ author_profile: true
 
 {% include base_path %}
 2024:
-- Jianqiu Chen, Mingshan Sun, Ye Zheng, Tianpeng Bao, Zhenyu He, Donghai Li2, Guoqiang Jin, Zhao Rui, Liwei Wu, **Xiaoke Jiang**, [Geo6D: Geometric-Constraints-Guided Direct Object 6D Pose Estimation Network](https://github.com/Jianqiuer/Geo6D), IEEE Transactions on Multimedia 2025.
-- Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, **Xiaoke Jiang**, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
+- Jianqiu Chen, Mingshan Sun, Ye Zheng, Tianpeng Bao, Zhenyu He, Donghai Li2, Guoqiang Jin, Zhao Rui, Liwei Wu, **Xiaoke Jiang**, [Geo6D: Geometric-Constraints-Guided Direct Object 6D Pose Estimation Network](https://github.com/Jianqiuer/Geo6D), IEEE Transactions on Multimedia 2025(TMM).
+<!-- - Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, **Xiaoke Jiang**, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
 - Jiamin Wu, Kenkun Liu, Han Gao, **Xiaoke Jiang**(corresponding), Yuan Yao, Lei Zhang, [DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction](https://kenkunliu.github.io/DIG3D/)
 - Jiamin Wu, Kenkun Liu, Yukai Shi, **Xiaoke Jiang**(corresponding), Yuan Yao, Lei Zhang, [UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction](https://kenkunliu.github.io/UniG/)
 - Tianhe Ren, Qing Jiang, Shilong Liu, Zhaoyang Zeng, Wenlong Liu, Han Gao, Hongjie Huang, Zhengyu Ma, **Xiaoke Jiang**, Yihao Chen, Yuda Xiong, Hao Zhang, Feng Li, Peijun Tang, Kent Yu, Lei Zhang, [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
-- Tianhe Ren, Hongjie Huang, **Xiaoke Jiang**, blog [Grounding DINO 1.6](https://deepdataspace.com/blog/6), I'm in charge of Section "SPT: Supervised Prompt Tuning"
+- Tianhe Ren, Hongjie Huang, **Xiaoke Jiang**, blog [Grounding DINO 1.6](https://deepdataspace.com/blog/6), I'm in charge of Section "SPT: Supervised Prompt Tuning" -->
 
 2023:
 - Mingshan Sun, Ye Zheng, Tianpeng Bao, Jianqiu Chen, Guoqiang Jin, Liwei Wu, Rui Zhao, **Xiaoke Jiang**, Uni6Dv2: Noise Elimination for 6D Pose Estimation, Proceedings of The 26th International Conference on Artificial Intelligence and Statistics, PMLR 206:1832-1844, 2023.
-- JIngtian Guan, Jingjing Fei, Wei Li, **Xiaoke Jiang**, Liwei Wu, Yakun Liu, Juntong Xi, [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179), Optics and Lasers in Engineering 163 (2023): 107488
+- JIngtian Guan, Jingjing Fei, Wei Li, **Xiaoke Jiang**, Liwei Wu, Yakun Liu, Juntong Xi, [Defect classification for specular surfaces based on deflectometry and multi-modal fusion network](https://www.sciencedirect.com/science/article/pii/S0143816623000179), Optics and Lasers in Engineering 163 (2023) (Opt. Lasers Eng.): 107488
 
 2022: 
 - **Xiaoke Jiang**, Donghai Li, Hao Chen, Ye Zheng, Rui Zhao and Liwei Wu, Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation, The Conference on Computer Vision and Pattern Recognition (CVPR) Oral, 2022. Also presented by [Sensetime CVPR paper sharing program](https://zhuanlan.zhihu.com/p/525023076).
