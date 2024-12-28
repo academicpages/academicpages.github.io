@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Aathil Ducky / Aathil Ducky: Cybersecurity Specialist | Professional Portfolio of a Tech Enthusiast"
+title                    : "AATHIL DUCKY"
 title_separator          : "-"
 name                     : &name "Aathil Ducky"
 description              : &description "Showcasing Aathil Ducky's expertise in cybersecurity, Python development, and innovative tech solutions."
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Aathil Ducky"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Cyber Security Researcher | Python Programmer | CS student @ TCEUSL | Webdeveloper | CTFs | Solving Real-world Problems"
   location         : "Sri Lanka"
-  employer         : "Trincomalee Campus Eastern University of Srilanka"
+  employer         : "Trincomalee Campus \nEastern University of Srilanka"
   uri              : # URL
   email            : "aathilducky@gmail.com" 
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
