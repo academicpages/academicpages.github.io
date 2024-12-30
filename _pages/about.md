@@ -37,7 +37,7 @@ In the past five years, his work have been recognized in prestigious journals an
 
 9. J. Pei, ..., **Y. Wu**, et al. "Towards artificial general intelligence with hybrid Tianjic chip architecture." **Nature**, 2019, 572(7767): 106-111. (Cover paper)
 
-10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8 (Cover runner-up paper).
+10. L. He, Y. Xu, W. He, Y. Lin, Y. Tian, **Y. Wu**, et al. "Network model with internal complexity bridges artificial intelligence and neuroscience." **Nature Computational Science**, 2024, 4: 8 (Cover runner-up).
 
 
 ### **Service Activities**
