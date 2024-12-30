@@ -3,11 +3,11 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "Zichen Liu / Home Page"
 title_separator          : "-"
 name                     : &name "Zichen Liu"
@@ -21,21 +21,21 @@ repository               : "https://zichenliu22.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Zichen Liu"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"
   bio              : "A student in papers."
   location         : "Beijing"
   employer         : "Academy of Mathematics and Systems Science, CAS"
-  email            : "liuzichen22@mails.ucas.ac.cn" 
+  email            : "liuzichen22@mails.ucas.ac.cn"
 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
@@ -68,7 +68,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles'
   conferences:
     title: 'Conference Papers'
 
