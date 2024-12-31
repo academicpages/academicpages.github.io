@@ -8,20 +8,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Research Interests"
+    url: /Research Interests/     
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Positions and Membership of Professional Society"
+    url: /Positions and Membership of Professional Society/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Honors"
+    url: /Honors/
+
