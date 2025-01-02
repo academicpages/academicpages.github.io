@@ -18,8 +18,16 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[Data-centric Artificial Intelligence: A Survey]()
+</b><br> Daochen Zha, Zaid Pervaiz Bhat, Kwei-Herng Lai, Fan Yang, <b>Zhimeng Jiang</b>, Shaochen Zhong, Xia Hu. <br>
+ACM Computing Surveys(**ACM CSUR**), 2025
+
+<b>[Counterfactual Fairness on Graphs: Augmentations, Hidden Confounders, and Identifiability]()
+</b><br> Hongyi Ling, <b>Zhimeng Jiang</b>, Na Zou, Shuiwang Ji. <br>
+Transactions on Machine Learning Research(**TMLR**), 2025
+
 <b>[Gradient Rewiring for Editable Graph Neural Network Training]()
-</b><br> <b>Zhimeng Jiang</b>, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, Kaixiong Zhou., Na Zou, Xia Hu. <br>
+</b><br> <b>Zhimeng Jiang</b>, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, Kaixiong Zhou, Na Zou, Xia Hu. <br>
 Neural Information Processing Systems(**NeurIPS**), 2024
 
 <b>[GNNs Also Deserve Editing, and They Need It More Than Once]()

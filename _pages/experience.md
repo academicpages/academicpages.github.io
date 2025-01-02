@@ -58,8 +58,10 @@ Journal Reviewer:
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)
 * ACM Transactions on Knowledge Discovery in Data (TKDD)
 * ACM Transactions on Intelligent Systems and Technology (TIST)
+* IEEE Transactions on Cognitive and Developmental Systems (TCDS)
 * Data Mining and Knowledge Discovery (DAMI)
 * Neurocomputing
+* Entropy
 * IEEE Transactions on Information Forensics and Security (TIFS)
 * Digital Signal Processing (DSP)
 * IEEE Communications Letter (CL)

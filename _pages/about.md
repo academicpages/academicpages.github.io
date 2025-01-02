@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Staff Research Scientist at Visa Research. I received my Ph.D. in [Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), advised by [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in electrical engineering.
+* I am a Staff Research Scientist at Visa Research. I received my Ph.D. in [Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), working with [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in electrical engineering.
 
 * My research interests lie in the broad area of trustworthy machine learning, graph learning, efficient machine learning, and GenAI.
 
@@ -17,6 +17,8 @@ Email: zhimengj at tamu dot edu. Here is my [CV](http://zhimengj0326.github.io/f
 
 <h1>News</h1>
 <div style="height:550px;overflow:auto;background:#f6f6f6;">
+  <p><span style="color:darkred;">[2024/12]</span> One paper on [<a href="https://openreview.net/pdf?id=hJHf7PCuVt">Counterfactual Fairness</a>] is accepted by TMLR.</p>
+  <p><span style="color:darkred;">[2024/12]</span> Our [<a href="https://arxiv.org/abs/2303.10158">data-centric AI survey</a>] paper is accepted by ACM Computing Surveys.</p>
   <p><span style="color:darkred;">[2024/09]</span> One paper is accepted by NeurIPS 2024.</p>
   <p><span style="color:darkred;">[2024/07]</span> Our paper [<a href="https://arxiv.org/pdf/2310.01508">CODA</a>] won <a href="https://www.linkedin.com/posts/informs-quality-statistics-and-reliability-qsr_icqsr2024-industrialquality-productionoptimization-activity-7224142281002401793-sG72?utm_source=share&utm_medium=member_ios"><span style="color:red">INFORMS ICQSR’24 best paper competition award</span></a>. </p>
   <p><span style="color:darkred;">[2024/5]</span> Two papers are accepted by ICML 2024, where our spotlight (<span style="color:red;">3.5%</span>) paper [<a href="https://arxiv.org/abs/2401.01325">Self-Extend</a>]is highlighted during <a href="https://www.youtube.com/watch?v=TV7qCk1dBWA"><span style="color:red">Google I/O</span></a> session.</p>
