@@ -5,7 +5,6 @@ permalink: /Pax/
 author_profile: true
 ---
 
-<br> 
 <p style="text-align: justify; font-size: 11.5pt;"> "The Pax Narca Files" compila mis 13 artículos de investigación sobre un período crítico en la historia ecuatoriana: la salida de la Base de Manta en 2009. Mi análisis, que combina métodos estadísticos con narrativa periodística, revela consistentemente un doble fenómeno: el fortalecimiento de estructuras criminales y un esfuerzo sistemático por encubrir su impacto en las cifras oficiales. A través de mapeos geográficos, análisis temporales y estudios comparativos, documento cómo las muertes violentas "de intención no determinada" aumentaron significativamente en zonas clave del narcotráfico, mientras las estadísticas oficiales mostraban una aparente reducción de la violencia, sugiriendo un maquillaje institucional de la realidad criminal del país.</p>
   
   ![Figure 1](/images/PUERTOS-ARDUINO.jpg)
