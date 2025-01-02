@@ -21,3 +21,6 @@ My research interests lie at the intersection of machine learning and software e
 
 # Newest Posts
 {% include newposts.html %}
+
+# Service
+{% include service.html %}

@@ -1,0 +1,23 @@
+<div>
+    {% assign all_service = site.data.service | sort: "date" | reverse %}
+    <div class="recentservice-container">
+    {% for service in all_service %}
+      <div class="recentservice-item">
+        <div><div class="recentservice-index">{{ forloop.index }}.</div></div>
+        <div>
+            <div>
+              service.title
+            </div>
+            <div>
+              {% if post.service-type %}
+              <span class="service-type">
+                {{ post.service-type | replace: "-", " " | upcase }}
+              </span>
+              {% endif %}
+              <span class="recentservice-date">{{ service.date | date: "%a, %b %d, %Y" }}</span>
+            </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
+  </div>
