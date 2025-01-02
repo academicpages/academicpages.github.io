@@ -6,7 +6,7 @@ author_profile: true
 ---
 
   
-  ![Figure 1](/images/puertos-arduino.jpg)
+  ![Figure 1](/images/PUERTOS-ARDUINO.jpg)
 
 
 <br><strong>13. Rastros de polvo blanco: Puertos ecuatorianos en la mira </strong> <a href="https://periodismodeinvestigacion.com/2024/11/19/rastros-de-polvo-blanco-puertos-ecuatorianos-en-la-mira/">[Link]</a><br>
