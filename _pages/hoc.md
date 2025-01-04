@@ -155,6 +155,7 @@ Recommended Books and Papers (NB: I have not followed the latest research and th
   * William Aspray, *John von Neumann and the Origins of Modern Computing* 『ノイマンとコンピュータの起源』
   * Charles Petzold, *The Annotated Turing: A Guided Tour Through Alan Turing's Historic Paper on Computability and the Turing Machine* 『チューリングを読む：コンピュータサイエンスの金字塔を楽しもう』
   * Tara Abraham, *Rebel Genius: Warren S. McCulloch's Transdisciplinary Life in Science*, 2016
+  * Sara Turing, John Turing, Martin Davis, Lyn Irvine, *Alan M. Turing: Centenary Edition* 渡辺茂，丹波富士男訳『アラン・チューリング伝ー電算機の予言者』1969
   * Alan Turing's Systems of Logic: The Princeton Thesis, 2012, edited by Andrew W. Appel
     * Turing's 1938 Princeton PhD thesis
   
@@ -237,7 +238,7 @@ Primary Source
   * Mira numerorum omnium expressio per 1 et 0, repraesentans rerum originem ex Deo et Nihilo, seu Mysterium creationis, 1696「すべての数を1と0によって表す驚くべき表記法．これは事物が神と無から由来すること，すなわち創造の神秘，を表現している」
   * Brevis descriptio Machinae Arithmeticae, 1710「算術計算機についての概説」
   * 
-
+* Konrad Zuse, *Der Computer - Mein Lebenswerk*
 
 Useful Links
 ======
