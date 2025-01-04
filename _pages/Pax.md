@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <p style="text-align: justify; font-size: 11.5pt;"> "The Pax Narca Files" compila mis 13 artículos de investigación sobre un período crítico en la historia ecuatoriana: la salida de la Base de Manta en 2009. Mi análisis, que combina métodos estadísticos con narrativa periodística, revela consistentemente un doble fenómeno: el fortalecimiento de estructuras criminales y un esfuerzo sistemático por encubrir su impacto en las cifras oficiales. A través de mapeos geográficos, análisis temporales y estudios comparativos, documento cómo las muertes violentas "de intención no determinada" aumentaron significativamente en zonas clave del narcotráfico, mientras las estadísticas oficiales mostraban una aparente reducción de la violencia, sugiriendo un maquillaje institucional de la realidad criminal del país.</p>
+
+<br><p style="text-align: justify; font-size: 11.5pt;"> <strong>Cobertura en medios: </strong> <a href="https://www.infobae.com/america/america-latina/2024/09/08/los-asesinatos-ocultos-que-probarian-una-pax-narco-durante-el-gobierno-de-rafael-correa/">Infobae, </a>  <a href="https://www.expreso.ec/actualidad/7-mil-crimenes-rafael-correa-escondio-212067.html">Diario Expreso (1), </a><a href="https://www.expreso.ec/actualidad/estadisticas-seguridad-base-manta-correismo-daniel-noboa-narcotrafico-214393.html">Diario Expreso (2), </a> <a href="https://www.expreso.ec/opinion/columnas/roberto-aguilar-narcopolitica-nombre-212560.html">Diario Expreso (3), </a> </p> 
+
+
   
   ![Figure 1](/images/PUERTOS-ARDUINO.jpg)
 
