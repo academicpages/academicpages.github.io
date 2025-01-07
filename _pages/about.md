@@ -20,8 +20,6 @@ Prior to joining the HKUST, I spent 4 wonderful years at [Peking University](htt
 
 You can contact me via (yilun.jin \[at\] connect.ust.hk). 
 
-**I am on the job market for 2024 and 2025, looking for industrial positions on large language models (LLM), domain-specific LLMs, transfer learning, and graph machine learning.** Drop me a message if you are interested!
-
 News
 ======
 \[September 2024\] Shopping MMLU, the dataset used to organize [Amazon KDD Cup 2024](https://www.aicrowd.com/challenges/amazon-kdd-cup-2024-multi-task-online-shopping-challenge-for-llms), is accepted at **NeurIPS 2024 Datasets and Benchmarks Track**. Congratulations! 
