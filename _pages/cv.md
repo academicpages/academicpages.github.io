@@ -5,60 +5,30 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - /_docs/curriculum_vitae_deqing.pdf
 ---
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Here](/_docs/curriculum_vitae_deqing.pdf) is a detailed pdf version.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* University of Southern California, 2022 - 2027 (expected)
+  * Ph.D. in Computer Science
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* University of Chicago, 2020 - 2022
+  * M.S. in Statistics
+  
+* University of Chicago, 2016 - 2020
+  * B.S. _with Honors_ in Mathematics
+  * B.S. _with Honors_ in Computer Science  
+    * with Specialization in Machine Learning
+  * B.A. in Statistics
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional Experience
+* Summer 2024: Research Scientist Intern
+  * Meta
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Summer 2021, 2022, 2023: Intern
+  * Google

@@ -9,28 +9,151 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% include base_path %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .publication_body {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            line-height: 1.4;
+            margin: 20px;
+            color: #333;
+        }
+        .head1 {
+            color: maroon;
+            text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+        .head2 {
+            color: maroon;
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 10px;
+            border-bottom: 2px solid maroon;
+            padding-bottom: 5px;
+        }
+        .head3 {
+            color: maroon;
+            font-size: 16px;
+            margin-top: 10px;
+            margin-bottom: 5px;
+        }
+        .paper {
+            margin-bottom: 10px;
+        }
+        .authors {
+            font-style: italic;
+        }
+        .highlight {
+            font-weight: bold;
+        }
+        .equal-contribution {
+            font-size: 12px;
+            color: #555;
+        }
+        .mya {
+            color: maroon;
+            text-decoration: none;
+            font-size: 14px;
+        }
+        .mya:hover {
+            text-decoration: underline;
+        }
+        .sup {
+            vertical-align: super;
+            font-size: 0.8em;
+        }
+        .blue-text {
+            color: blue;
+        }
+        .red-text {
+            color: red;
+        }
+        .orange-text {
+            color: #ff5733;
+        }
+    </style>
+</head>
+<span class="publication_body">
+    <!-- Algorithmic Perspectives on LLMs/Transformers -->
+    <h2 class="head2">Algorithmic Perspectives on LLMs/Transformers</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+    <div class="paper">
+        <h3 class="head3">Transformers Learn to Achieve Second-Order Convergence Rates for In-Context Linear Regression</h3>
+        <span class="authors"><span class="highlight">Deqing Fu</span>, Tian-Qi Chen, Robin Jia, Vatsal Sharan</span><br>
+        <em>NeurIPS 2024</em><br>
+        <span>Previously titled: <em>Transformers Learn Higher-Order Optimization Methods for In-Context Learning: A Study with Linear Models</em><br>
+        <span class="orange-text">SoCalNLP Symposium 2023 Best Paper Award</span><br>
+        <a class="mya" href="https://arxiv.org/abs/2310.17086">Paper</a> | <a class="mya" href="https://github.com/DeqingFu/transformers-icl-second-order">Code</a>
+    </div>
+
+    <div class="paper">
+        <h3 class="head3">Pre-trained Large Language Models Use Fourier Features to Compute Addition</h3>
+        <span class="authors">Tianyi Zhou, <span class="highlight">Deqing Fu</span>, Vatsal Sharan, Robin Jia</span><br>
+        <em>NeurIPS 2024</em><br>
+        <a class="mya" href="https://arxiv.org/abs/2406.03445">Paper</a>
+    </div>
+
+    <div class="paper">
+        <h3 class="head3">Transformers Learn Low Sensitivity Functions: Investigations and Implications</h3>
+        <span class="authors">Bhavya Vasudeva<sup class="sup">‡</sup>, <span class="highlight">Deqing Fu</span><sup class="sup">‡</sup>, Tianyi Zhou, Elliot Kau, You-Qi Huang, Vatsal Sharan</span><br>
+        <em>arXiv 2024</em><br>
+        <a class="mya" href="https://arxiv.org/abs/2403.06925">Paper</a><br>
+        <span class="equal-contribution"><sup class="sup">‡</sup>Equal Contribution.</span>
+    </div>
+
+    <div class="paper">
+        <h3 class="head3">DeLLMa: Decision Making Under Uncertainty with Large Language Models</h3>
+        <span class="authors">Ollie Liu<sup class="sup">‡</sup>, <span class="highlight">Deqing Fu</span><sup class="sup">‡</sup>, Dani Yogatama, Willie Neiswanger</span><br>
+        <em>arXiv 2024</em><br>
+        <span class="equal-contribution"><sup class="sup">‡</sup>Equal Contribution.</span><br>
+        <a class="mya" href="https://arxiv.org/abs/2402.02392">Paper</a> | <a class="mya" href="https://github.com/DeLLMa/DeLLMa">Code</a> | <a class="mya" href="https://dellma.github.io/">Website</a>
+    </div>
+
+    <!-- Synthetic Data -->
+    <h2 class="head2">Synthetic Data and Multimodal Learning</h2>
+
+    <div class="paper">
+        <h3 class="head3">VisualLens: Personalization through Visual History</h3>
+        <span class="authors">Wang Bill Zhu, <span class="highlight">Deqing Fu</span>, Kai Sun, Yi Lu, Zhaojiang Lin, Seungwhan Moon, Kanika Narang, Mustafa Canim, Yue Liu, Anuj Kumar, Xin Luna Dong</span><br>
+        <em>arXiv 2024</em><br>
+        <a class="mya" href="https://arxiv.org/abs/2411.16034">Paper</a>
+    </div>
 
 
+    <div class="paper">
+        <h3 class="head3">TLDR: Token-Level Detective Reward Model for Large Vision Language Models</h3>
+        <span class="authors"><span class="highlight">Deqing Fu</span>, Tong Xiao, Rui Wang, Wang Zhu, Pengchuan Zhang, Guan Pang, Robin Jia, Lawrence Chen</span><br>
+        <em>arXiv 2024</em><br>
+        <a class="mya" href="https://arxiv.org/abs/2410.04734">Paper</a>
+    </div>
 
+    <div class="paper">
+        <h3 class="head3">IsoBench: Benchmarking Multimodal Foundation Models on Isomorphic Representations</h3>
+        <span class="authors"><span class="highlight">Deqing Fu</span><sup class="sup">‡</sup>, Ghazal Khalighinejad<sup class="sup">‡</sup>, Ollie Liu<sup class="sup">‡</sup>, Bhuwan Dhingra, Dani Yogatama, Robin Jia, Willie Neiswanger</span><br>
+        <em>COLM 2024</em><br>
+        <span class="equal-contribution">‡Equal Contribution.</span><br>
+        <a class="mya" href="https://arxiv.org/abs/2404.01266">Paper</a> | <a class="mya" href="isobench.github.io">Website</a>
+    </div>
+
+    <div class="paper">
+        <h3 class="head3">DreamSync: Aligning Text-to-Image Generation with Image Understanding Feedback</h3>
+        <span class="authors">Jiao Sun<sup class="sup">‡</sup>, <span class="highlight">Deqing Fu</span><sup class="sup">‡</sup>, Yushi Hu<sup class="sup">‡</sup>, Su Wang, Royi Rassin, Da-Cheng Juan, Dana Alon, Charles Herrmann, Sjoerd van Steenkiste, Ranjay Krishna, Cyrus Rashtchian</span><br>
+        <em>arXiv 2024</em><br>
+        <span class="equal-contribution"><sup class="sup">‡</sup>Equal Contribution.</span><br>
+        <a class="mya" href="https://arxiv.org/abs/2311.17946">Paper</a>
+    </div>
+    
+
+    <div class="paper">
+        <h3 class="head3">SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples</h3>
+        <span class="authors"><span class="highlight">Deqing Fu</span>, Ameya Godbole, Robin Jia</span><br>
+        <em>EMNLP 2023</em><br>
+        <a class="mya" href="https://arxiv.org/abs/2305.07984">Paper</a> | <a class="mya" href="https://github.com/DeqingFu/scene">Code</a>
+    </div>
+  </span>
+</html>
