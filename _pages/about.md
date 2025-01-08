@@ -32,7 +32,7 @@ Can Yang is a PhD student in Chongqing University
 
 Selected publication
 =====
-数字政府传播：概念、关键议题与体系建设 [J].电子政务,2024(05):2-11. <br />
+数字政府传播：概念、关键议题与体系建设 [J].电子政务,2024(05):2-11.<i>（CSSCI来源期刊）</i> <br />
 曾润喜, <b>杨璨</b>（导师一作，学生二作） <br/>		
 
 
