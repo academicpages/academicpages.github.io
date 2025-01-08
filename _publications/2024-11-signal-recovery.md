@@ -12,11 +12,10 @@ paperurl: 'https://arxiv.org/abs/2501.01840'
 We introduce the spiked mixture model (SMM) to address the problem of estimating a set of signals from many randomly scaled and noisy observations. Subsequently, we design a novel expectation-maximization (EM) algorithm to recover all parameters of the SMM. Numerical experiments show that in low signal-to-noise ratio regimes, and for data types where the SMM is relevant, SMM surpasses the more traditional Gaussian mixture model (GMM) in terms of signal recovery performance.
 
 [Download paper here](https://arxiv.org/abs/2501.01840)
-
-3
-
-<img src="https://pauldelacour.github.io/images/SMM/model_comparison_low_high_noise.png" alt="Illustration of the Spiked Mixture Model">
-![Illustration of the Spiked Mixture Model](https://pauldelacour.github.io/images/SMM/model_comparison_low_high_noise.png)
+<h3>Low noise \(\Sigma^2 = 0.01\)</h3>
+<img src="https://pauldelacour.github.io/_publications/image/model_comparison_low_noise_0.01.png" alt="Illustration of the Spiked Mixture Model">
+<h3>High noise \(\Sigma^2 = 0.5\)</h3>
+<img src="https://pauldelacour.github.io/images/SMM/model_comparison_high_noise_0.5.png" alt="Illustration of the Spiked Mixture Model">
 
 <!--
 Recommended citation: Delacour, Paul. (2024). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
