@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Austin's Personal Website"
+title                    : "Austin, Professional Website"
 title_separator          : "-"
 name                     : &name "Austin T. Barton"
 description              : &description "Personal website portfolio."
