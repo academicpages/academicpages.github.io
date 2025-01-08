@@ -44,5 +44,9 @@ Orthogonal graph neural networks<br />
 <b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
 <i>AAAI, 2022.</i><br />
 
-
+Talk
+=====
+<strong>Dec 2023:</strong> "数字政府传播研究前沿", MSU School of Communication.<br />
+<strong>Oct 2023:</strong> "Social Media and Government Communication", Chongqing University.<br />
+<strong>Jun 2023:</strong> "Understanding Digital Government Communication", Academic Symposium on Digital Government, Beijing.<br />
 
