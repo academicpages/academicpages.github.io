@@ -13,7 +13,7 @@ We introduce the spiked mixture model (SMM) to address the problem of estimating
 
 [Download paper here](https://arxiv.org/abs/2501.01840)
 
-2
+3
 
 <img src="https://pauldelacour.github.io/images/SMM/model_comparison_low_high_noise.png" alt="Illustration of the Spiked Mixture Model">
 ![Illustration of the Spiked Mixture Model](https://pauldelacour.github.io/images/SMM/model_comparison_low_high_noise.png)
