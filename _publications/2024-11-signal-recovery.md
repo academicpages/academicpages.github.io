@@ -13,9 +13,9 @@ We introduce the spiked mixture model (SMM) to address the problem of estimating
 
 [Download paper here](https://arxiv.org/abs/2501.01840)
 
-t
+1
 <img src="image/model-diagram.jpg" alt="Illustration of the Spiked Mixture Model">
-![Illustration of the Spiked Mixture Model](/_publications/image/model_comparison_low_high_noise.png)
+![Illustration of the Spiked Mixture Model](https://pauldelacour.github.io/_publications/image/model_comparison_low_high_noise.png)
 
 <!--
 Recommended citation: Delacour, Paul. (2024). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
