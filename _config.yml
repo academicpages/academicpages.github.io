@@ -24,15 +24,15 @@ author:
   avatar           : "profile_yc.png"
   name             : "Can Yang(杨璨)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "四年级博士生"
   location         : "China"
   employer         : "Chongqing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yc@ig.cq.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
