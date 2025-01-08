@@ -36,7 +36,7 @@ This paper examines the existence of an unwelcoming or stereotypical culture usi
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 -->
 
-- Does Team Diversity Matter? Evidence from Computer Scientists <br/> (with Antonio Coran, Francesca Miserocchi, and Savannah Noray)
+- Does Team Diversity Matter? Evidence from Computer Scientists <br/> (with <a href="https://sites.harvard.edu/antonio-coran/" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" target="_blank">Savannah Noray</a>)
 
 <!--
 - Does Trade Secret Litigation Increase Monopsony Power? Evidence from the Defend Trade Secrets Act <br/> (with <a href="https://www.evgeniifadeev.com" target="_blank">Evgenii Fadeev</a>) <a href="#/" onclick="visib('law')">Abstract</a> 
