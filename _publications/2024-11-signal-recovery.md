@@ -13,7 +13,7 @@ We introduce the spiked mixture model (SMM) to address the problem of estimating
 
 [Download paper here](https://arxiv.org/abs/2501.01840)
 <h3>Low noise \(\sigma^2 = 0.01\)</h3>
-<img src="https://pauldelacour.github.io/_publications/image/images/SMM/model_comparison_low_noise_0.01.png" alt="Illustration of the Spiked Mixture Model">
+<img src="https://pauldelacour.github.io/images/SMM/model_comparison_low_noise_0.01.png" alt="Illustration of the Spiked Mixture Model">
 <h3>High noise \(\sigma^2 = 0.5\)</h3>
 <img src="https://pauldelacour.github.io/images/SMM/model_comparison_high_noise_0.5.png" alt="Illustration of the Spiked Mixture Model">
 
