@@ -15,7 +15,8 @@ Can Yang is a PhD student in Chongqing University
 
 <div style="overflow-y: scroll; height: 250px; padding: 10px;">
   <ul>
-    <li><strong>May 2024:</strong> One paper accepted by KDD, 2024.</li>
+    <li><strong>Dec 2023:</strong> 开启在MSU传播系为期一年的博士生访学项目！ </li>
+    <li><strong>Dec 2023:</strong> 开启在MSU传播系为期一年的博士生访学项目！ </li>
     <li><strong>Dec 2023:</strong> One paper accepted by Information Sciences, 2023.</li>
     <li><strong>Aug 2023:</strong> One paper accepted by Information Sciences, 2023.</li>
     <li><strong>Jun 2023:</strong> Began my visiting at MSU!</li>
@@ -31,9 +32,9 @@ Can Yang is a PhD student in Chongqing University
 
 Selected publication
 =====
-Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
-<b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
-<i>KDD, 2024.</i><br />
+数字政府传播：概念、关键议题与体系建设 [J].电子政务,2024(05):2-11. <br />
+曾润喜, <b>杨璨</b>（导师一作，学生二作） <br/>		
+
 
 Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
 Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
