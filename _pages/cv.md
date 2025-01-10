@@ -54,6 +54,11 @@ University of Valladolid, Spain
 
 # RESEARCH grants and FELLOWSHIPS
 ===========
+
+### Research grant &quot;la Caixa&quot; Foundation 2025
+Flash Call to support research projects based on quantitative surveys - FS24-2B
+Project &quot;A Three-Wave Longitudinal Study on the Effects of Social Media on Adolescents’ Moral Disengagement 
+Principal Investigator
 ### Research Fellow: Ramon y Cajal
 Research grant from the Spanish State Research Agency
 01/01/2023 – 
@@ -230,7 +235,7 @@ Amsterdam School of Communication Research (ASCoR), University of Amsterdam (The
 ### Transitional characters in entertainment-education narratives designed to reduce prejudice against immigrants: Attributes, boundary conditions and explanatory mechanisms (TRANCHAR) 2022-2026
 Research project funded by Spanish Ministry of Science and Innovation (PID2021-122655NB-I00)
 Principal investigator: Dr. Juan José Igartua
-Research team member
+Work team member
 ### LGBTI+ representation in Spanish serial fiction and its effectiveness in reducing prejudices due to sexual orientation and gender identity (LGBTI+SCREENS). 2020-2024
 _(Representación LGBTI+ en la ficción seriada española y eficacia en la reducción de prejuicios por orientación sexual e identidad de género (LGBTIQ+ PANTALLAS)._ 
 Research project funded by Spanish Ministry of Science and Innovation (PID2019-110351RB-I00)
