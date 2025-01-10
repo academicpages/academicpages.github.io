@@ -100,7 +100,7 @@ Academic projects：
 
 Contact： 
 ziyin.li.Renee@outlook.com
-(如果是因为我给你的成绩太低，需要投诉，请右转院长办公室😊）
+(如果是因为我给你的成绩太低，需要投诉，请右转院长办公室😊）！
 
 
 
