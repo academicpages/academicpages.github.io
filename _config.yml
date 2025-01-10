@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/IMG_5355.PNG"
+  avatar           : "images/IMG_5355.png"
   name             : "About me"
   pronouns         : "she/her"  
   bio              : "Just Renee"
