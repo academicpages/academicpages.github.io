@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : RainFallsDown.github.io
+url                      : https://RainFallsDown.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
-  uri              : RainFallsDown.github.io
+  uri              : https://RainFallsDown.github.io
   email            : "none@example.org" 
 
   # Academic websites
