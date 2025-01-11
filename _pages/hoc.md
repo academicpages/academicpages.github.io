@@ -23,7 +23,7 @@ Under Construction!!!
 Last Updated: March 23, 2024
 <span style="color: red;">I am currently concentrating on research in computer science.</span>
 
-As a sophomore, I encountered huge difficulty in knowing which books or papers I should read when I started researching the history of computing. This field has a limited number of researchers, making it challenging for beginners to obtain sufficient information without taking significant initiative or encountering good fortune. (In Japan, there are about five researchers in this field... I am grateful to my academic adviser for granting me a high level of autonomy and offering me appropriate guidance, despite being far from his expertise.) I decided to write an introductory article for beginners to help those who are struggling, like myself at the time, and to increase awareness of the History of Computing field.  I will provide some comments for someone fluent in Japanese (such as the availability of Japanese translation). 
+As a sophomore, when I began researching the history of computing, I encountered huge difficulty in finding which books or papers to read. This field has a limited number of researchers, making it challenging for beginners to obtain sufficient information without taking significant initiative or encountering good fortune. (In Japan, there are about five researchers in this field... I am grateful to my academic adviser for granting me a high level of autonomy and offering me appropriate guidance, despite being far from his expertise.) I decided to write an introductory article for beginners to help those who are struggling, like myself at the time. I will provide some comments for someone fluent in Japanese (such as the availability of Japanese translation). 
 
 
 What is the History of Computing
@@ -249,6 +249,7 @@ Useful Links
   * [ALAN TURING maintained by Andrew Hodges](https://www.turing.org.uk/sitemap.html)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
   * [Academician A. Ershov’s archive](http://ershov.iis.nsk.su/en/index)
+  * [John McCarthy's Original Website](http://jmc.stanford.edu/index.html)
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
   * [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
 
