@@ -249,7 +249,8 @@ Useful Links
   * [ALAN TURING maintained by Andrew Hodges](https://www.turing.org.uk/sitemap.html)
   * [E. W. Dijkstra Archive](https://www.cs.utexas.edu/users/EWD/welcome.html)
   * [Academician A. Ershov’s archive](http://ershov.iis.nsk.su/en/index)
-  * [John McCarthy's Original Website](http://jmc.stanford.edu/index.html)
+  *[Professor John McCarthy Father of AI](http://jmc.stanford.edu/index.html)
+  * [John McCarthy's Original Website](https://www-formal.stanford.edu/jmc/)
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
   * [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
 
