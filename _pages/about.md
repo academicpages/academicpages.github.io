@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 # **ShanYu Rong**
 **Tel**: +86 136 8631 6826 (WeChat Available)  
 **Email**: shanyur@qq.com  
