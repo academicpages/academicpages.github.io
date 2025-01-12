@@ -23,7 +23,7 @@ Your browser does not support the video tag.
 </video> -->
 
 <video width="320" height="240" autoplay loop muted>
-  <source src="https://pauldelacour.github.io/images/SMM/synthetic_data_SMM.mp" type="video/mp4" />
+  <source src="https://pauldelacour.github.io/images/SMM/synthetic_data_SMM.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
 <!--
