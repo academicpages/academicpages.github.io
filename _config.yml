@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Christian Sewor"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name ""
 description              : &description "Christian Sewor, PhD Candidate, Department of Environmental and Radiological Health Sciences, Colorado State University"
 url                      : https://SeworChris.github.io/academicpages/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Christian Sewor"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate, Department of Environmental and Radiological Health Sciences, Colorado State University"
+  location         : "Fort Collins, Colorado"
+  employer         : "Colorado State University"
   uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=FKAAZQkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1155-4730"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
