@@ -17,11 +17,16 @@ We introduce the spiked mixture model (SMM) to address the problem of estimating
 <h3>High noise \(\sigma^2 = 0.5\)</h3>
 <img src="https://pauldelacour.github.io/images/SMM/model_comparison_high_noise_0.5.png" alt="high_noise_case">
 
-<video width="640" height="360" autoplay muted preload="auto" loop poster="https://pauldelacour.github.io/images/SMM/smm_poster.png">
+<!-- <video width="640" height="360" autoplay muted preload="auto" loop poster="https://pauldelacour.github.io/images/SMM/smm_poster.png">
 <source src="https://pauldelacour.github.io/images/SMM/synthetic_data_SMM.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video>
+</video> -->
 
+<video width="320" height="240" autoplay loop muted>
+  <source src="https://pauldelacour.github.io/images/SMM/synthetic_data_SMM.mp" type="video/mp4" />
+  Your browser does not support the video tag.
+</video>
 <!--
+<source src="movie.ogg" type="video/ogg" />
 Recommended citation: Delacour, Paul. (2024). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
