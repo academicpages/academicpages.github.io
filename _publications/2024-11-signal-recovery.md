@@ -23,6 +23,18 @@ text-align: center;
 </video>
 </div>
 
+<style>
+  .center {
+    text-align: center; /* Centers the video horizontally */
+    max-width: 100%; /* Ensures the container doesn’t exceed the page width */
+  }
+
+  video {
+    width: 100%; /* Makes the video responsive */
+    height: auto; /* Maintains the aspect ratio */
+  }
+</style>
+
 <h3>Low noise \(\sigma^2 = 0.01\)</h3>
 <img src="https://pauldelacour.github.io/images/SMM/model_comparison_low_noise_0.01.png" alt="low_noise_case">
 <h3>High noise \(\sigma^2 = 0.5\)</h3>
