@@ -27,6 +27,7 @@ Your browser does not support the video tag.
   Your browser does not support the video tag.
 </video>
 <!--
+s
 <source src="movie.ogg" type="video/ogg" />
 Recommended citation: Delacour, Paul. (2024). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 -->
