@@ -1,7 +1,8 @@
-// Bordered & Pulled
+// bordered + pulled icons
 // -------------------------
 
 .#{$fa-css-prefix}-border {
+<<<<<<< HEAD
   padding: .2em .25em .15em;
   border: solid .08em $fa-border-color;
   border-radius: .1em;
@@ -13,6 +14,23 @@
 .#{$fa-css-prefix} {
   &.#{$fa-css-prefix}-pull-left { margin-right: .3em; }
   &.#{$fa-css-prefix}-pull-right { margin-left: .3em; }
+=======
+  border-color: var(--#{$fa-css-prefix}-border-color, #{$fa-border-color});
+  border-radius: var(--#{$fa-css-prefix}-border-radius, #{$fa-border-radius});
+  border-style: var(--#{$fa-css-prefix}-border-style, #{$fa-border-style});
+  border-width: var(--#{$fa-css-prefix}-border-width, #{$fa-border-width});
+  padding: var(--#{$fa-css-prefix}-border-padding, #{$fa-border-padding});
+}
+
+.#{$fa-css-prefix}-pull-left {
+  float: left;
+  margin-right: var(--#{$fa-css-prefix}-pull-margin, #{$fa-pull-margin}); 
+}
+
+.#{$fa-css-prefix}-pull-right {
+  float: right;
+  margin-left: var(--#{$fa-css-prefix}-pull-margin, #{$fa-pull-margin}); 
+>>>>>>> 1acca92e64c8e345fdda983aca94f1ce0bbd3447
 }
 
 /* Deprecated as of 4.4.0 */

@@ -17,8 +17,16 @@
   footer {
     @include container;
     @include clearfix;
+<<<<<<< HEAD
     margin-top: 2em;
     padding: 0 1em 2em;
+=======
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1em;
+    max-width: 100%;
+    padding: 0 1em 1em;
+>>>>>>> 1acca92e64c8e345fdda983aca94f1ce0bbd3447
 
     @include breakpoint($x-large) {
       max-width: $x-large;
