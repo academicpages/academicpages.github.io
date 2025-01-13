@@ -14,5 +14,9 @@
 .container .content {
     display: none;
     padding : 5px;
+<<<<<<< HEAD
 
 {% highlight css %} .center { text-align: center; margin: 0 auto; } {% endhighlight %}
+=======
+}
+>>>>>>> 1acca92e64c8e345fdda983aca94f1ce0bbd3447

@@ -1,6 +1,10 @@
+// specific icon class definition
+// -------------------------
+
 /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
    readers do not read off random characters that represent icons */
 
+<<<<<<< HEAD
 .#{$fa-css-prefix}-glass:before { content: $fa-var-glass; }
 .#{$fa-css-prefix}-music:before { content: $fa-var-music; }
 .#{$fa-css-prefix}-search:before { content: $fa-var-search; }
@@ -731,3 +735,9 @@
 .#{$fa-css-prefix}-google-plus-official:before { content: $fa-var-google-plus-official; }
 .#{$fa-css-prefix}-fa:before,
 .#{$fa-css-prefix}-font-awesome:before { content: $fa-var-font-awesome; }
+=======
+@each $name, $icon in $fa-icons {
+  .#{$fa-css-prefix}-#{$name}::before { content: unquote("\"#{ $icon }\""); }
+}
+
+>>>>>>> 1acca92e64c8e345fdda983aca94f1ce0bbd3447

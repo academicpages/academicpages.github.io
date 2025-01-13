@@ -76,6 +76,8 @@
       {% endif %}
     </section>
   {% when "custom" %}
+    <h4 class="page__comments-title">{{ comments_label }}</h4>
     <section id="comments"></section>
+    {% include /comments-providers/scripts.html %}
   {% endcase %}
 </div>

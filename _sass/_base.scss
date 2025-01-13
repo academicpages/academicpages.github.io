@@ -4,7 +4,12 @@
 
 body {
   margin: 0;
+<<<<<<< HEAD
   padding: 0;
+=======
+  padding: $masthead-height 0 0;
+  padding-bottom: 9em;
+>>>>>>> 1acca92e64c8e345fdda983aca94f1ce0bbd3447
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
