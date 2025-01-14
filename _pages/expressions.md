@@ -7,7 +7,7 @@ author_profile: true
 * **Digital System Design Automation Laboratory** <br>Tehran, Iran
   * Job Description: Research Assistant
 
-* **<a href="https://d3h-group.com/" style="color: #0011DB; text-decoration: underline;"> D3H-Group</a>** <br>Abu Dhabi, UAE
+* **<a href="https://d3h-group.com/" style="color: #0011DB; text-decoration: underline;"> D3H-Group</a>** <br> Al Maryah Island, Abu Dhabi, UAE
   * Job Description: Biomedical Signal Processing Developer
 
 * **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> Radan Electronic</a>** <br>Mashhad, Iran
