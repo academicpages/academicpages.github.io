@@ -7,7 +7,7 @@ author_profile: true
 * **Digital System Design Automation Laboratory** <br>Tehran, Iran
   * Job Description: Research Assistant
 
-* **Fin Company**, <br>Tehran, Iran
+* **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> D3H-Group</a>** <br>Tehran, Iran
   * Job Description: Biomedical Signal Processing Developer
 
 * **<a href="https://www.linkedin.com/company/radan-electronics/" style="color: #0011DB; text-decoration: underline;"> Radan Electronic</a>** <br>Mashhad, Iran
