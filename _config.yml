@@ -163,6 +163,10 @@ incremental: false
 
 # Markdown Processing
 kramdown:
+ syntax_highlighter_opts:
+    block:
+      font-size: 1.2em
+      line-height: 1.6
   input: GFM
   hard_wrap: false
   auto_ids: true
