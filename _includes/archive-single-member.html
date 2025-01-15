@@ -1,7 +1,7 @@
 {% include base_path %}
 
 <style>
-  
+
 /* Adjust the profile picture */
 .member__photo {
   text-align: center;
@@ -65,15 +65,13 @@
 
     <!-- Member Details -->
     <h2 class="member__item-title" itemprop="name">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}({{ post.chinese_name }})</a>
     </h2>
 
-    <p class="member__chinese-name">中文名: {{ post.chinese_name }}</p>
-    <p class="member__year-entered">入学年份: {{ post.year_entered }}</p>
-    <p class="member__degree">学位: {{ post.degree }}</p>
-    <p class="member__email">电子邮件: <a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
+    <p class="member__year-entered">{{ post.year_entered }} {{ post.degree }}</p>
+    <p class="member__email">E-mail: <a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
     {% if post.webpage %}
-      <p class="member__webpage">个人主页: <a href="{{ post.webpage }}" target="_blank">{{ post.webpage }}</a></p>
+      <p class="member__webpage">personal webpage: <a href="{{ post.webpage }}" target="_blank">{{ post.webpage }}</a></p>
     {% endif %}
 
     <div class="member__description">
