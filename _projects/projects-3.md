@@ -1,6 +1,6 @@
 ---
 title: "HandsOn-SEA"
-excerpt: "HandsOn-SEA is a single-degree-of-freedom educational robot that features series elastic actuation and relies on closed loop force control to achieve the desired level of safety and transparency during physical interactions. HandsOn-SEA is designed for students to experience the performance trade-offs inherent in force control systems, due to the non-collocation between the force sensor and the actuator. 1<br/><img src='/images/HandsOnSEA.png'>"
+excerpt: "HandsOn-SEA is a single-degree-of-freedom educational robot that features series elastic actuation and relies on closed loop force control to achieve the desired level of safety and transparency during physical interactions. HandsOn-SEA is designed for students to experience the performance trade-offs inherent in force control systems, due to the non-collocation between the force sensor and the actuator. <br/><img src='/images/HandsOnSEA.png'>"
 collection: projects
 ---
 
