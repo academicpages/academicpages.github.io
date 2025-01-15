@@ -75,9 +75,9 @@
     </h2>
 
     <p class="member__year-entered">{{ post.year_entered }} - {{ post.degree }}</p>
-    <p class="member__email">E-mail: <a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
+    <p class="member__email"><a href="mailto:{{ post.email }}">{{ post.email }}</a></p>
     {% if post.webpage %}
-      <p class="member__webpage">Personal webpage: <a href="{{ post.webpage }}" target="_blank">{{ post.webpage }}</a></p>
+      <p class="member__webpage"><a href="{{ post.webpage }}" target="_blank">{{ post.webpage }}</a></p>
     {% endif %}
 
     <div class="member__description">
