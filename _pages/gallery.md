@@ -21,7 +21,7 @@ redirect_from:
 </script>
 
 {% include base_path %}
-{% include gallery %}
+{% include gallery.html %}
 
 <!--
 ![dipolar solvent](../images/dipolarsolvent.png "two models of dipolar solvent"){:width="400px"}
