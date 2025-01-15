@@ -41,5 +41,5 @@ Full publication list
   <!--
   <p style="display: inline;">{{ forloop.rindex }}. {% include archive-single.html %} </p>
   -->
-  <span style="display: inline;">{{ forloop.rindex }}. {% include archive-single.html %} </span>
+  <span style="display: inline;">{{ forloop.rindex }}.{% include archive-single.html %} </span>
 {% endfor %}
