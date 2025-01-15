@@ -1,14 +1,26 @@
 <style>
   .news-photos {
-    text-align: center;
-  }
+  display: grid;
+  gap: 20px; /* Adds space between the images */
+  justify-content: center; /* Centers the images horizontally */
+}
 
-  .news-photo {
-    width: 500px;
-    height: auto; /* Keeps the aspect ratio intact */
-    display: inline-block;
-    margin: 10px 0;
-  }
+.news-photo {
+  width: 500px;
+  height: auto; /* Keeps the aspect ratio intact */
+}
+
+.news-photos.one-photo {
+  grid-template-columns: 1fr; /* Only one column if there's one image */
+}
+
+.news-photos.two-three-photos {
+  grid-template-columns: repeat(3, 1fr); /* Up to 3 images in one row */
+}
+
+.news-photos.four-or-more-photos {
+  grid-template-columns: repeat(2, 1fr); /* Two images per row */
+}
 </style>
 
 
@@ -27,13 +39,13 @@
     <p class="news__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> News date:</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
 
     {% if post.photos %}
-      <div class="news-photos">
-        {% for photo in post.photos %}
-          <p>{{ photo }}</p> <!-- Debugging line -->
-          <img src="{{ photo | prepend: base_path }}" alt="News photo" class="news-photo">
-        {% endfor %}
-      </div>
-    {% endif %}
+  <div class="news-photos 
+    {% if post.photos.size == 1 %}one-photo{% elsif post.photos.size <= 3 %}two-three-photos{% else %}four-or-more-photos{% endif %}">
+    {% for photo in post.photos %}
+      <img src="{{ photo | prepend: base_path }}" alt="News photo" class="news-photo">
+    {% endfor %}
+  </div>
+{% endif %}
 
     
   </article>
