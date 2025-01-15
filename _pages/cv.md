@@ -85,6 +85,7 @@ Skills
     
 Publications
 ======
+<div class="wordwrap">Please can also find my publications <a href="https://aotaran.github.io/publications/"> here</a> or on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 <!-- 
 - (Forthcoming) Otaran A., Jiang Y., & Steimle J., "Sparsely actuated modular metamaterials for shape-changing interfaces", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
 - (Forthcoming) Sabnis N., Otaran A., Wittchen D., Didion J., Steimle J., \& Strohmeier P. "Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
