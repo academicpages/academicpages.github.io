@@ -12,6 +12,7 @@ Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploa
 
 Education
 ======
+<!--
 <p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022</summary>
 <ul style="list-style-type:circle">
   <li> Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</li>
@@ -35,9 +36,8 @@ Education
   <li>   Advisor: Prof. Volkan Patoglu </li>
 </ul>  
 </details> </p>
+-->
 
-
-<!--
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
     * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality, Advisor: Dr. Ildar Farkhatdinov
 * M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017
@@ -48,7 +48,6 @@ Education
     * GPA: 3.58/4 (4th out of 38)
     * Thesis: Design and Control of a Ballbot
     * Advisor: Prof. Volkan Patoglu 
--->
     
 Academic Work Experience
 ======
