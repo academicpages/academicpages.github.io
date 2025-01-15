@@ -130,7 +130,6 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202120162445@scut.edu.cn  </p>
   </div>
-
 </div>
 
 <div style="display:flex">
@@ -161,7 +160,6 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202220161884@mail.scut.edu.cn  </p>
   </div>
-
 </div>
 
 <div style="display:flex">
@@ -192,7 +190,6 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202320162302@scut.edu.cn  </p>
   </div>
-  
 </div>
 
 <div style="display:flex">
@@ -223,7 +220,6 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202030040265@mail.scut.edu.cn  </p>
   </div>
-  
 </div>
 
 <div style="display:flex">
@@ -236,7 +232,7 @@ redirect_from:
     <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
     Email: 202030040227@mail.scut.edu.cn  </p>
   </div>
-
+  
 </div>
 
 ## Alumni
