@@ -75,7 +75,9 @@ redirect_from:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   {% for post in site.members %}
+    <div style="width: 100%; margin-bottom: 30px;">
       {% include archive-single-member.html %}
+    </div>
   {% endfor %}
 </div>
 
@@ -84,7 +86,9 @@ redirect_from:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
   {% for post in site.alumni %}
+    <div style="width: 100%; margin-bottom: 30px;">
       {% include archive-single-member.html %}
+    </div>
   {% endfor %}
 </div>
 
