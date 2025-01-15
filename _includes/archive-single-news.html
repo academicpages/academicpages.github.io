@@ -1,6 +1,19 @@
-{% include base_path %}
+<style>
+  .news-photos {
+    text-align: center;
+  }
 
-<p>{{ post.title }}</p>
+  .news-photo {
+    width: 500px;
+    height: auto; /* Keeps the aspect ratio intact */
+    display: inline-block;
+    margin: 10px 0;
+  }
+</style>
+
+
+
+{% include base_path %}
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="news__item" itemscope itemtype="http://schema.org/CreativeWork">
@@ -16,7 +29,7 @@
     {% if post.photos %}
       <div class="news-photos">
         {% for photo in post.photos %}
-          <img src="{{ photo }}" alt="News photo" class="news-photo">
+          <img src="{{ photo | prepend: base_path }}" alt="News photo" class="news-photo">
         {% endfor %}
       </div>
     {% endif %}
