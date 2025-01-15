@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ata Otaran Github Page"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
