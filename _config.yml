@@ -188,6 +188,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  members:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
