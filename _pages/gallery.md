@@ -3,6 +3,8 @@ layout: archive
 title: "Gallery"
 permalink: /gallery/
 author_profile: true
+gallery:
+   - /gallery/dipolarsolvent.png
 redirect_from:
   - /gallery
 ---
@@ -20,4 +22,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
 ![dipolar solvent](../images/dipolarsolvent.png "two models of dipolar solvent"){:width="400px"}
+-->
+
