@@ -26,4 +26,3 @@ redirect_from:
 {% include gallery.html %}
 
 ![dipolar solvent](/gallery/dipolarsolvent.png "two models of dipolar solvent"){:width="400px"}
-
