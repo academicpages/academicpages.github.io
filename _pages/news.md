@@ -1,0 +1,15 @@
+---
+title: "News"
+collection: news
+permalink: /news/
+author_profile: false
+---
+
+{% include base_path %}
+
+News List
+=====
+
+{% for post in site.news reversed %}
+  <p style="display: inline;">{{ forloop.rindex }}. {% include archive-single-news.html %} </p>
+{% endfor %}

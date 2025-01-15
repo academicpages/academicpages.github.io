@@ -1,0 +1,24 @@
+{% include base_path %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="news__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <h2 class="news__item-title" itemprop="headline">
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+    </h2>
+
+    <p class="news__description">{{ post.description }}</p>
+
+    <p class="news__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
+
+    {% if post.photos %}
+      <div class="news-photos">
+        {% for photo in post.photos %}
+          <img src="{{ photo }}" alt="News photo" class="news-photo">
+        {% endfor %}
+      </div>
+    {% endif %}
+
+    
+  </article>
+</div>
