@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* PhD. in Computer Science, Ludwig Maximilian University of Munich, 2021 - Present
-* M.S. in Data Science, Ludwig Maximilian University of Munich, 2018 - 2021
-* B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, 2014 - 2018
+* Ph.D. in Computer Science, LMU Munich, Germany, 2021 - Present
+* M.S. in Data Science, LMU Munich, Germany, 2018 - 2021
+* B.S. in System Analysis, National Technical University of Ukraine ”Igor Sikorsky Kyiv Polytechnic Institute”, Ukraine, 2014 - 2018
 
 ## Publications
 ### Peer-reviewed
