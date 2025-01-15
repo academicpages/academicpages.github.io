@@ -4,7 +4,7 @@ title: "Gallery"
 permalink: /gallery/
 author_profile: true
 gallery:
-   - /gallery/dipolarsolvent.png
+  - /gallery/dipolarsolvent.png
 redirect_from:
   - /gallery
 ---
@@ -21,6 +21,7 @@ redirect_from:
 </script>
 
 {% include base_path %}
+{% include gallery %}
 
 <!--
 ![dipolar solvent](../images/dipolarsolvent.png "two models of dipolar solvent"){:width="400px"}
