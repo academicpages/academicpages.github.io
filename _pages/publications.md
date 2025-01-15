@@ -38,5 +38,5 @@ Full publication list
 
 
 {% for post in site.publications reversed %}
-  <p style="display: inline;">{{ forloop.rindex }}.{% include archive-single.html %} </p>
+  <span style="display: inline;">{{ forloop.rindex }}.{% include archive-single.html %} </span>
 {% endfor %}
