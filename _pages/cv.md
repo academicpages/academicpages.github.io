@@ -85,7 +85,7 @@ Skills
     
 Publications
 ======
- 
+<!-- 
 - (Forthcoming) Otaran A., Jiang Y., & Steimle J., "Sparsely actuated modular metamaterials for shape-changing interfaces", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
 - (Forthcoming) Sabnis N., Otaran A., Wittchen D., Didion J., Steimle J., \& Strohmeier P. "Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control", International Conference on Tangible, Embedded, and Embodied Interaction (TEI), 2025
 - Otaran, A., Farkhatdinov, I. Exploring User Preferences for Walking in Virtual Reality Interfaces Through an Online Questionnaire. Human Computer Interaction International (HCII), 2024
@@ -99,3 +99,5 @@ Publications
 - Otaran, A., Tokatli, O., & Patoglu, V. (2018, June). HandsOn-Computing: Promoting Algorithmic Thinking Through Haptic Educational Robots. In International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (pp. 564-574). Springer, Cham.
 - Otaran, A. (2017). Design, control and evaluation of educational devices with series elastic actuation (MSc dissertation).
 - Otaran, A., Tokatli, O., & Patoglu, V. ”Hands-On Learning with a Series Elastic Educational Robot”, in the Proceedings of the EuroHaptics as Lecture Notes in Computer Science, 2016.
+
+-->
