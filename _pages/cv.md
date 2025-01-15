@@ -21,7 +21,7 @@ Education
 </details> </p>
 
 
-<p><details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017, More ... </summary>
+<p><details> <summary> M.Sc. in Mechatronics, Sabanci University, Istanbul, 2015 - 2017 </summary>
 <ul style="list-style-type:circle">
   <li>  GPA: 3.90/4 </li>
   <li> Thesis: Design and Control of Series Elastic Actuated Educational Devices </li>
@@ -29,7 +29,7 @@ Education
 </ul>  
 </details> </p>
 
-<p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015, More ... </summary> 
+<p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary> 
 <ul style="list-style-type:circle">
   <li>  GPA: 3.58/4 (4th out of 38) </li>
   <li>  Thesis: Design and Control of a Ballbot </li>
