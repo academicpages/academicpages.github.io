@@ -191,6 +191,9 @@ collections:
   members:
     output: true
     permalink: /:collection/:path/
+  alumni:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/

@@ -73,30 +73,25 @@ redirect_from:
 
 ## Current members
 
-{% for post in site.members %}
-  <p style="display: inline;"> {% include archive-single-member.html %} </p>
-{% endfor %}
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  {% for post in site.members %}
+    <div style="width: 32%; margin-bottom: 30px;">
+      {% include archive-single-member.html %}
+    </div>
+  {% endfor %}
+</div>
+
 
 ## Alumni
 
-<div style="display:flex">
-  <div style="flex:1">
-    <img src="../images/HeJiatong.jpg" style="width: 150px; height:200px;">
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    何嘉桐 (Jiatong He)  </p>
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    2022 Undergraduate  </p>
-    <p style="font-size: 15px; line-height: 1; line-height: 0.5;font-weight:bold;"> 
-    Email: 202264641184@mail.scut.edu.cn  </p>
-  </div>
-  
-  <div style="flex:1">
-  </div>
-
-  <div style="flex:1">
-  </div>
-  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  {% for post in site.alumni %}
+    <div style="width: 32%; margin-bottom: 30px;">
+      {% include archive-single-member.html %}
+    </div>
+  {% endfor %}
 </div>
+
 
 ## Group snapshot on Sep 12, 2023
 
