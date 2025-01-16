@@ -5,7 +5,7 @@ permalink: /members/shangyu-lyu/
 year_entered: 2022
 degree: "Master"
 email: "202220161884@mail.scut.edu.cn"
-webpage: "https://shangyuswebsite.com"
+webpage: ""
 photo: "/members/shangyu.png"
 chinese_name: "吕尚禹"
 ---
