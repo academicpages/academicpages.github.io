@@ -93,7 +93,7 @@ redirect_from:
 </div>
 
 
-## Group photoes on Jun 26 , 2024
+## Group photos on Jun 26 , 2024
 
 <html> 
   <body>
