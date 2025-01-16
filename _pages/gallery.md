@@ -7,6 +7,7 @@ gallery:
   - image_path: /gallery/dipolarsolvent.png
     #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
     alt: "Dipolar solvent"
+    caption: "Two models of dipolar solvent."
 redirect_from:
   - /gallery
 ---
