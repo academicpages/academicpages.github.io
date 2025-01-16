@@ -9,4 +9,4 @@ webpage: ""
 photo: "/members/zixiao.jpg"
 chinese_name: "杨子霄"
 ---
-Zixiao joined lab in 2023 Spring. His research interests are mainly about application of machine learning in quantum chemistry, protein and macromolecules.
+Zixiao Yang joined lab in 2023 Spring. His research interests are mainly about application of machine learning in quantum chemistry, protein and macromolecules.
