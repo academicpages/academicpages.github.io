@@ -29,7 +29,7 @@
           {% if img.image_path contains "://" %}
             "{{ img.image_path }}"
           {% else %}
-            "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+            "{{ img.image_path | prepend: base_path }}"
           {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
@@ -38,7 +38,7 @@
         {% if img.image_path contains "://" %}
           "{{ img.image_path }}"
         {% else %}
-          "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+          "{{ img.image_path |  prepend: base_path }}"
         {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
