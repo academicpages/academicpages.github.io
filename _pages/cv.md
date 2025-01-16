@@ -73,7 +73,7 @@ Skills
   * MATLAB & Simulink
   * C++ & C#
   * Python
-* Design softwares
+* 3D Design & visualisation
   * Solidworks, Inventor
   * Blender
   * Unity
@@ -85,6 +85,10 @@ Skills
   * NI-DAQ
   * Quanser
   * dSPACE
+* FEA software
+  * Ansys
+  * Comsol
+
     
 Publications
 ======
