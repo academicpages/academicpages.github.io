@@ -1,5 +1,5 @@
 ---
-title: "guangyuan xu"
+title: "Guangyuan Xu"
 collection: members
 permalink: /members/guangyuan-xu/
 year_entered: 2024
