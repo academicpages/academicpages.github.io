@@ -9,4 +9,4 @@ webpage: ""
 photo: "/members/zhuorui.jpg"
 chinese_name: "康倬睿"
 ---
-Zhuorui Kang is a master student working on soft matter physics. His research focuses on materials science and nanotechnology.
+Zhuorui Kang is a master student working on Molecular Simulation and Theory. His research focuses on ionchannels.
