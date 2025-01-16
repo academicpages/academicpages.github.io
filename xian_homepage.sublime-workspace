@@ -277,6 +277,7 @@
 	],
 	"file_history":
 	[
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_members/2022_zixiao.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/news.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubsFromBib.py",
@@ -403,12 +404,11 @@
 		"/C/Users/exian/AppData/Local/Temp/scp58625/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_120_q_1.0_i_1/rdfxk.1.1.dat",
 		"/C/Users/exian/AppData/Local/Temp/scp02873/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_0.0_i_1/rdfxk.1.1.dat",
 		"/C/Users/exian/AppData/Local/Temp/scp02862/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_1.0_i_1/rdfxk.1.1.dat",
-		"/C/Users/exian/AppData/Local/Temp/scp02547/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_2.0_i_1/rdfxk.1.1.dat",
-		"/G/NUSLAB/POC/D_1_P_1_tip3p_100/msd.xvg"
+		"/C/Users/exian/AppData/Local/Temp/scp02547/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_2.0_i_1/rdfxk.1.1.dat"
 	],
 	"find":
 	{
-		"height": 39.3333333333
+		"height": 27.2
 	},
 	"find_in_files":
 	{
@@ -550,7 +550,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.3333333333
+		"height": 27.2
 	},
 	"input":
 	{
@@ -587,7 +587,7 @@
 	"project": "xian_homepage.sublime-project",
 	"replace":
 	{
-		"height": 50.6666666667
+		"height": 51.2
 	},
 	"save_all_on_build": true,
 	"select_file":
