@@ -9,4 +9,4 @@ webpage: "https://xueyingswebsite.com"
 photo: "/members/xueying.jpg"
 chinese_name: "袁雪迎"
 ---
-Yan Sui is a PhD student working on ******. Her research focuses on **.
+Yuan Xueying is a PhD student working on soft matter physics. Her research focuses on molecular simulation and machine learning for electrolyte engineering.
