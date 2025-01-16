@@ -98,16 +98,20 @@ redirect_from:
 
 <html> 
   <body> 
-    <img src="../images/group202309.jpg" alt="示例图片" width="1000" height="auto"> 
+    <div style="text-align: center;">
+    <img src="../images/group202309.jpg" alt="示例图片" width="600" height="auto"> 
+    </div>
   </body> 
 </html>
 
 ## Group photoes on Jun 26 , 2024
 
 <html> 
-  <body> 
-    <img src="../images/group202406_0.jpg" alt="示例图片" width="1000" height="auto"> 
-    <img src="../images/group202406_1.jpg" alt="示例图片" width="1000" height="auto">
+  <body>
+    <div style="text-align: center;">
+    <img src="../images/group202406_0.jpg" alt="示例图片" width="600" height="auto"> 
+    <img src="../images/group202406_1.jpg" alt="示例图片" width="600" height="auto">
+    </div>
   </body> 
 </html>
 
