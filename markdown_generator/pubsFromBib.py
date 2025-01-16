@@ -25,11 +25,19 @@ import string
 import html
 import os
 import re
+import sys
+
+if len(sys.argv) < 2:
+    print("No BibTeX file provided, using default 'pubs_202404.bib'")
+    bib_file = "pubs_202404.bib"  # Default BibTeX file
+else:
+    bib_file = sys.argv[1]  # Use the BibTeX file passed as the first argument
+
 
 #todo: incorporate different collection types rather than a catch all publications, requires other changes to template
 publist = {
     "journal":{
-        "file": "pubs_202404.bib",
+        "file": bib_file,
         "venuekey" : "journal",
         "venue-pretext" : "",
         "collection" : {"name":"publications",
