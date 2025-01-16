@@ -5,7 +5,7 @@ permalink: /members/guangyuan-xu/
 year_entered: 2024
 degree: "Master"
 email: "202420163113@mail.scut.edu.cn"
-webpage: "https://guangyuanswebsite.com"
+webpage: ""
 photo: "/members/guangyuan.jpg"
 chinese_name: "徐光远"
 ---
