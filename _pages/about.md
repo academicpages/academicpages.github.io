@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Austin T. Barton"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,4 +12,3 @@ I am an undergraduate student veteran double majoring in Mathematics and Compute
 
 In my free time I look to train crossfit and BJJ. I love the outdoors and sports/activities such as mountian biking, climbing, surfing, and snowboarding.
 
-[Resume](https://github.com/abarton51/Barton_Austin_T_Resume/Barton_Austin_T_Resume.pdf)
