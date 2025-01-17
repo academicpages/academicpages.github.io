@@ -17,7 +17,7 @@ My research interest is in the combination of Mathematics & Machine Learning
 
 Education
 ======
-* Ph.d in machine learning, Tu Delft, 2022-
+* Ph.d in machine learning, TU Delft, 2022-
 * MSc. in Data Science, ETH , 2019-2022
 * BSc. in Communication Systems, EPFL, 2016-2019
 
