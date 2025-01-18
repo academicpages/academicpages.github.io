@@ -273,16 +273,30 @@
 	"expanded_folders":
 	[
 		"/G/clouddrives/KongLab/daily/xianshine.github.io",
-		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages"
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks"
 	],
 	"file_history":
 	[
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/talkmap.py",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/sync_git.sh",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/talkmap/org-locations.js",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/talkmap/map.html",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-07-09-Guangzhou-MaterialsConference.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2025-01-12-Guangzhou-BayAreaSoftMatter.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-11-10-Guangzhou-SoftMatter.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single-highlightedPublications.html",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-10-19-Shanghai-ThermoTeaching.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-08-01-Kunming-China-Korea.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-08-27-Wuhan-ICMS.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-06-10-Chongqing-PP.md",
+		"/G/clouddrives/KongLab/daily/xianshine.github.io/_talks/2024-01-06-Songshanhu-SoftMatter.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_members/2022_zixiao.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/member.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/news.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/markdown_generator/pubsFromBib.py",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_members/shuangmei.md",
-		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/publications.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_pages/gallery.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_includes/gallery.html",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_members/2022_shangyu.md",
@@ -298,7 +312,6 @@
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_highlightedPublications/2019-01-01-Geometric-structure-guided-photo-driven-ion-current-through-asymmetric-graphene-oxide-membranes.md",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_data/navigation.yml",
 		"/G/clouddrives/KongLab/daily/xianshine.github.io/_publications/2024-03-01-Exploring-steric-and-electronic-effects-in-tailoring-lithium-ion-solvation-using-engineered-ether-solvents-through-molecular-dynamics-simulations.md",
-		"/G/clouddrives/KongLab/daily/xianshine.github.io/_includes/archive-single.html",
 		"/C/Windows/System32/drivers/etc/hosts",
 		"/D/files/wanghui_2nd/in/tops/C2.pdb",
 		"/D/files/wanghui_2nd/in/tops/C1.pdb",
@@ -391,20 +404,7 @@
 		"/D/clouddrives/xk/one2one/shangyu/in/codes/sys.ring.MC.in",
 		"/D/cmds/ssh_lab_xiupeng",
 		"/D/clouddrives/KongLab/startingInLab/01_计算资源.txt",
-		"/D/files/test/kunh.py",
-		"/C/Users/exian/AppData/Local/Temp/scp02496/share/home/xinqiang/xinqiang/proj3/out/ni_0_q_3.0_i_1/PARM.lammps",
-		"/C/Users/exian/AppData/Local/Temp/scp03855/share/home/xinqiang/xinqiang/proj3/out/ni_0_q_3.0_i_1/dipolar.txt",
-		"/D/stockmayer/Stockmayer.lmp",
-		"/D/stockmayer/PARM2.lammps",
-		"/D/stockmayer/convert.out",
-		"/C/Users/exian/AppData/Local/Temp/scp12906/share/home/xinqiang/xinqiang/proj3/out2/ni_600_q_0.0_i_1/log.lammps",
-		"/C/Users/exian/AppData/Local/Temp/scp12690/share/home/xinqiang/xinqiang/proj3/out3/ni_0_q_2.0_i_1/log.lammps",
-		"/C/Users/exian/AppData/Local/Temp/scp10650/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_2.0_i_1/log.lammps",
-		"/C/Users/exian/AppData/Local/Temp/scp58015/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_2400_q_1.0_i_1/rdfxk.1.1.dat",
-		"/C/Users/exian/AppData/Local/Temp/scp58625/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_120_q_1.0_i_1/rdfxk.1.1.dat",
-		"/C/Users/exian/AppData/Local/Temp/scp02873/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_0.0_i_1/rdfxk.1.1.dat",
-		"/C/Users/exian/AppData/Local/Temp/scp02862/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_1.0_i_1/rdfxk.1.1.dat",
-		"/C/Users/exian/AppData/Local/Temp/scp02547/share/home/xinqiang/xinqiang/proj3/out_dipole/ni_600_q_2.0_i_1/rdfxk.1.1.dat"
+		"/D/files/test/kunh.py"
 	],
 	"find":
 	{
