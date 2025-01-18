@@ -8,6 +8,14 @@ gallery:
     #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
     alt: "Dipolar solvent"
     caption: "Two models of dipolar solvent."
+  - image_path: /gallery/202404.jpg
+    #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
+    alt: "group gathering"
+    caption: "group gathering in April 2024"
+  - image_path: /gallery/202411.jpg
+    #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
+    alt: "group gathering"
+    caption: "group gathering in November 2024."
 redirect_from:
   - /gallery
 ---
