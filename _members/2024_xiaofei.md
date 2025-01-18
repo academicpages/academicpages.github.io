@@ -9,4 +9,4 @@ webpage: "https://xiaofeiswebsite.com"
 photo: "/members/xiaofei.jpg"
 chinese_name: "孙晓飞"
 ---
-Xiaofei Sun is a master student working on molecular dynamics simulation. Her research focuses on solid polymer electrolyte.
+Xiaofei Sun is a master student from Prof. Mingjun Huang's group working on molecular dynamics simulation. Her research focuses on solid polymer electrolyte.
