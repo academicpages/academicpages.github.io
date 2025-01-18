@@ -16,6 +16,10 @@ gallery:
     #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
     alt: "group gathering"
     caption: "group gathering in November 2024."
+- image_path: /gallery/yumaoqiu.jpg
+    #url: /gallery/dipolarsolvent.png  # Optional: if you want to link to a larger version of the image
+    alt: "group gathering"
+    caption: "group gathering 2023."
 redirect_from:
   - /gallery
 ---
