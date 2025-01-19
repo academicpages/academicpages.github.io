@@ -58,7 +58,6 @@ Greetings!! I'm a research scientist at CEA—French Atomic Energy and Alternati
 Current areas of research 
 ======
 
-
 <style>
   .container {
     display: flex;
@@ -225,4 +224,3 @@ Radiative transport in porous media
 
 Inverse problem for hypersonic flow
 ------
-
