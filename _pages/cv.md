@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-
 <script>
   window.location.href = "https://mohd-afeef-badri.github.io/online-resume/";
 </script>
