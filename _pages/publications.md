@@ -34,7 +34,8 @@ author_profile: true
 ### Conferences
 
 ------
-
+1. <span style="color:blue">N. Rechatin-Noël, P. Omnes, C. Bourcier, &  M.A. Badri,</span> "Adaptive polytopal meshing for numerical simulation." *POlytopal Element Methods in Mathematics and Engineering, POEMS 2024*, Paris, France, 3-6 December, (2024),  PRESENTATION
+1. <span style="color:blue">M.A. Badri, C. Bourcier, & E. Foerster,</span> "top-ii-vol: Massively Parallel Scalable Meshing for Seismic Risk Assessment of Nuclear Sites." *Joint International Conference on Supercomputing in Nuclear Applications + Monte Carlo (SNA + MC 2024)*, Paris, France, October, (2024),  PRESENTATION
 1. <span style="color:blue">M.A. Badri, & G. Rastiello,</span> "Field-Split preconditioning via Schur complement for phase-filed fracture mechanics with finite element method." *3rd International Workshop on Plasticity, Damage and Fracture of Engineering Materials, IWPDF-2023*, İstanbul, Türkiye, 4-6 October, (2023),  PRESENTATION
 1. <span style="color:blue">M.A. Badri, C. Bourcier, & E. Foerster,</span> "FEM-compliant meshing for massively parallel geophysics simulations." *The 8th international conference on Advanced COmputational Methods in ENgineering, ACOMEN-2022*, Liege, Belgium, 31 August–2 September, (2022),  PRESENTATION
 1. <span style="color:blue">M.A. Badri, & G. Rastiello,</span> "Parallel finite element solvers for phase-field modeling of fracture." *15th World Conference on Computational Mechanics - 8th Asian Pacific Congress on Computational Mechanics, WCCM-APCOM*, Yokohama, Japan, 31 July–5 August, (2022),  PRESENTATION 
