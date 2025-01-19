@@ -8,19 +8,20 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_blank"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a>   <br/>
 
-- <a href="/files/DiAddario_Wu_first.pdf" style="color:black" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" target="_blank">Sabrina Di Addario</a>) <br/> Draft Under Internal Review
+- <a href="/files/DiAddario_Wu_first.pdf" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" target="_blank">Sabrina Di Addario</a>) <br/> Draft Under Internal Review
 
 
 
 ### $\color{olive}{Publications}$ 
-- <a href="/files/wu_ejr_restat.pdf" style="color:black" target="_blank">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020.
+- <a href="/files/wu_ejr_restat.pdf" target="_blank">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020.
+
 <!-- <br/>
 <a href="#/" onclick="visib('ejr')">Abstract</a> \| <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLEBHI" target="_blank">Replication</a> 
 <div id='ejr' style="display: none; text-align: justify; line-height: 1.2" >
 This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession. </div>
 --> 
 
-- <a href="/files/gendered_language_2018.pdf" style="color:black" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018.  <a href="https://www.aeaweb.org/articles?id=10.1257/pandp.20181101" target="_blank">Replication</a>  
+- <a href="/files/gendered_language_2018.pdf" style="color:black" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
 
 ### $\color{olive}{Selected \space Works \space in \space Progress}$ 
@@ -29,7 +30,7 @@ This paper measures gender bias in what people say about women versus men in an 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 -->
 
-- Does Team Diversity Matter? Evidence from Computer Scientists <br/> (with <a href="https://sites.harvard.edu/antonio-coran/" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" target="_blank">Savannah Noray</a>)
+- Does Team Diversity Matter? Evidence from Computer Scientists (with <a href="https://sites.harvard.edu/antonio-coran/" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" target="_blank">Savannah Noray</a>)
 
 <!-- 
 <a href="#/" onclick="visib('jmp')">Abstract</a> \| 
