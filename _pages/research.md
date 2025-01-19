@@ -8,7 +8,7 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_blank"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a>   <br/>
 
-- <a href="/files/DiAddario_Wu_first.pdf" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" target="_blank">Sabrina Di Addario</a>) <br/> Draft Under Internal Review
+- <a href="/files/DiAddario_Wu_first.pdf" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" style="color:black" target="_blank">Sabrina Di Addario</a>)
 
 
 
@@ -21,16 +21,16 @@ author_profile: true
 This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession. </div>
 --> 
 
-- <a href="/files/gendered_language_2018.pdf" style="color:black" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
+- <a href="/files/gendered_language_2018.pdf" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
 
 ### $\color{olive}{Selected \space Works \space in \space Progress}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" target="_blank">Jacob Weber</a>)  
+- The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" style="color:black" target="_blank">Jacob Weber</a>)  
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 -->
 
-- Does Team Diversity Matter? Evidence from Computer Scientists (with <a href="https://sites.harvard.edu/antonio-coran/" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" target="_blank">Savannah Noray</a>)
+- Does Team Diversity Matter? Evidence from Computer Scientists (with <a href="https://sites.harvard.edu/antonio-coran/" style="color:black" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" style="color:black" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" style="color:black" target="_blank">Savannah Noray</a>)
 
 <!-- 
 <a href="#/" onclick="visib('jmp')">Abstract</a> \| 
@@ -47,7 +47,7 @@ We use the texts of legal complaints from trade secret litigation to study how f
 
 
 ### $\color{olive}{Resting}$
-- <a href="/files/social_skills.pdf" style="color:black" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/> 
+- <a href="/files/social_skills.pdf" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/> 
 
 
  
