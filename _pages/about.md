@@ -9,7 +9,7 @@ redirect_from:
 
 
 About me
-======
+============
 Hi there! I’m Sahana Anand, an engineer with an interest for all things automotive and embedded systems. I have recently completed my Master’s in Mechatronics and Cyber-Physical Systems, and I’m now diving even deeper into research (probably, with my PhD, not sure yet!!). Currently looking for oppurtunities to grow.
 
 I’ve always been curious about how things work, especially when it comes to cars and smart systems. Over the years, I’ve gained hands-on experience in the automotive industry, working on projects like Driver Monitoring Systems and automated parking assistance simulations. I also enjoy exploring exciting areas like machine learning, computer vision, and radar signal processing.
@@ -25,7 +25,7 @@ When I’m not busy coding or experimenting, you can find me learning German (I�
 Feel free to check out my projects and drop me a message(email, in this case) if you’d like to connect—I’m always open to collaborations! 😊
 
 #Selected Projects
-======
+============
 ##Automated Parking Assistance Simulation
 Developed a simulation environment for an automated parking system using Autoware, ROS 2, Gazebo, and Docker.
 GitHub Repository: Automated Parking System
