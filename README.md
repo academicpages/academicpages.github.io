@@ -52,6 +52,48 @@ Next, run the container:
 docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
 ```
 
+To run the `docker run` command on Windows, you need to adjust the syntax for the volume mapping (`-v`) as Windows uses different path formats. Here's how to run your command on Windows:
+
+### Steps for Windows:
+1. **Check Docker Installation**: Ensure Docker is installed and running.
+2. **Adjust Path for Volume Mapping**:
+
+   - On Windows, replace `$(pwd)` with the full absolute path to your current directory. For example:
+
+     ```bash
+     -v C:\path\to\your\site:/usr/src/app
+     ```
+
+### Full Command Example:
+```bash
+docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
+```
+
+### Things to Keep in Mind:
+1. **Use PowerShell**:
+   - If you are using PowerShell, you can use `${PWD}` for the current directory:
+     ```bash
+     docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
+     ```
+
+2. **Enable Docker File Sharing**:
+   - If your volume doesn't map correctly, ensure Docker has access to the drive where your project resides. To do this:
+     - Open Docker Desktop.
+     - Go to *Settings* → *Resources* → *File Sharing*.
+     - Add your drive (e.g., `C:`).
+
+3. **Run in Command Prompt or PowerShell**:
+   - In *Command Prompt*:
+   
+     ```bash
+     docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
+     ```
+   - In *PowerShell*:
+
+     ```bash
+     docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
+     ```
+
 # Maintenance
 
 Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
