@@ -37,7 +37,7 @@ Education
 </ul>  
 </details> </p>
 
-Robert College, Istanbul, 2006 - 2011
+<!-- Robert College, Istanbul, 2006 - 2011 -->
 
 <!--
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
