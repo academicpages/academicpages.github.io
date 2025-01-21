@@ -92,7 +92,7 @@ Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D Sound Power of Immers
 
 **Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_ Advance online publication. https://doi.org/10.1123/ijsc.2024-0156. 
 
-**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-X
+**Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-2
 
 Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody variations to improve cognitive processing in Alzheimer’s patients. Alzheimer's & Dementia, 19(S19). https://doi.org/10.1002/alz.075530
 
