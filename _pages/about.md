@@ -16,6 +16,8 @@ I’ve always been curious about how things work, especially when it comes to ca
 
 Beyond my professional life, I love tinkering with microcontrollers (yes, I have an STM32 at home!) and taking on hobby projects that challenge me to learn something new. Whether it’s building an object detection system or simulating autonomous parking, I find so much joy in turning ideas into reality.
 
+(/images/port_pic.webp)
+
 Right now, I’m excited about my research journey, which focuses on blending AI with automotive systems to make vehicles smarter and safer. My dream is to contribute to the future of autonomous driving and see how technology can transform the way we move.
 
 When I’m not busy coding or experimenting, you can find me learning German (I’m at B1 level!), exploring new tools, or just relaxing with a good book or some music.
