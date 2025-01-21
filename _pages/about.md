@@ -125,15 +125,7 @@ I have been actively searching for the right mentor and project as I am very eag
 </div>
 
 
-<div class="card">
-    <div style="flex: 0 0 180px; margin-right: 20px;">
-      <img src="images/2025_1.png" alt="2025_1">
-    </div>
-    <div style="flex: 1;">
-      <h3>Multi-Feature Guided Generalization: Tackling Domain Shifts in Semi-Supervised Medical Image Segmentation</h3>
-      <p>Yuheng Xu, <span class="author-bold">Tianyang Wang</span>, Taiping Zhang</p>
-    </div>
-</div>
+ 
 
 
 <div class="card">
@@ -164,7 +156,15 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-
+<div class="card">
+    <div style="flex: 0 0 180px; margin-right: 20px;">
+      <img src="images/2025_1.png" alt="2025_1">
+    </div>
+    <div style="flex: 1;">
+      <h3>Multi-Feature Guided Generalization: Tackling Domain Shifts in Semi-Supervised Medical Image Segmentation</h3>
+      <p>Yuheng Xu, <span class="author-bold">Tianyang Wang</span>, Taiping Zhang</p>
+    </div>
+</div>
 
 
 <div class="card">
