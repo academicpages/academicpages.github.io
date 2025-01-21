@@ -1,12 +1,12 @@
 ---
-title: "Zhuorui Kang"
+title: "Tianhao Long"
 collection: members
-permalink: /members/zhuorui-kang/
-year_entered: 2023
-degree: "Master"
-email: "mokangzr@mail.scut.edu.cn"
+permalink: /members/haotian-long/
+year_entered: 2022
+degree: "Undergraduate"
+email: "202030040265@mail.scut.edu.cn"
 webpage: ""
-photo: "/members/zhuorui.jpg"
-chinese_name: "康倬睿"
+photo: "/_alumni/LongHaotian.jpg"
+chinese_name: "龙浩天"
 ---
-Zhuorui Kang is a master student working on Molecular Simulation and Theory. His research focuses on ionchannels.
+Tianhao Long is a undergraduate student .
