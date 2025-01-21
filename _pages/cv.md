@@ -37,6 +37,8 @@ Education
 </ul>  
 </details> </p>
 
+Robert College, Istanbul, 2006 - 2011
+
 <!--
 *  Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022
     * Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality
@@ -73,10 +75,12 @@ Skills
   * MATLAB & Simulink
   * C++ & C#
   * Python
+  * ROS
 * 3D Design & visualisation
   * Solidworks, Inventor
   * Blender
   * Unity
+  * Gazebo
 * Embedded controllers
   * TI C2000 series
   * BeagleBone
