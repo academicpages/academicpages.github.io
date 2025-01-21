@@ -1,7 +1,7 @@
 ---
 title: "Seated VR Locomotion"
 excerpt: "This projects presents a seated VR locomotion system which allows users to control their avatar movement in VR using foot gestures and receive terrain-based haptic feedback 
-<br/><img src='/images/MetamatGif3.gif'>" 
+<br/><img src='/images/VRLocomotionGIF.gif'>" 
 collection: projects
 ---
 ## Project description
