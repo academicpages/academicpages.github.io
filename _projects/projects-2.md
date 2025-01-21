@@ -1,10 +1,11 @@
 ---
 title: "Seated VR Locomotion"
-excerpt: "This projects presents a seated VR locomotion system which allows users to control their avatar movement in VR using foot gestures and receive terrain-based haptic feedback <br/><img src='/images/SystemView_landscape.png'>"
+excerpt: "This projects presents a seated VR locomotion system which allows users to control their avatar movement in VR using foot gestures and receive terrain-based haptic feedback 
+<br/><img src='/images/MetamatGif3.gif'>" 
 collection: projects
 ---
 ## Project description
-
+<br/><img src='/images/SystemView_landscape.png'>"
 ## Academic works related to this project
 
 1. <sub> <ins>Ata Otaran</ins> and Ildar Farkhatdinov </sub> \
