@@ -24,3 +24,25 @@ When I’m not busy coding or experimenting, you can find me learning German (I�
 
 Feel free to check out my projects and drop me a message(email, in this case) if you’d like to connect—I’m always open to collaborations! 😊
 
+#Selected Projects
+======
+##Automated Parking Assistance Simulation
+Developed a simulation environment for an automated parking system using Autoware, ROS 2, Gazebo, and Docker.
+GitHub Repository: Automated Parking System
+
+##Obstacle Detection System
+Built an object detection system that identifies objects in images using TensorFlow, OpenCV, and NumPy.
+Used a training the model on image datasets and implemented it on macOS (M1 chip) using VM.
+GitHub Repository: Obstacle Detection System
+
+##Driver Monitoring System (DMS): Development, Validation and Verification
+Contributed to the development of a Driver Monitoring System for the automotive industry.
+Worked with ARM processors, Adaptive AUTOSAR, and ensured compliance with ISO 26262 safety standards.
+
+##Complex Signal Denoising for Automotive Radar Using CNNs
+Research project inspired by the paper "Complex Signal Denoising and Interference Mitigation for Automotive Radar Using Convolutional Neural Networks".
+Implemented CNN architectures to process radar signals and mitigate interference.
+
+##CAN Frame Simulation on macOS
+Simulated CAN bus frames on macOS using Python to test automotive communication protocols.
+Integrated these simulations into STM32 to mimic real-world scenarios.
