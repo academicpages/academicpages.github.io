@@ -124,6 +124,7 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
+
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
       <img src="images/2025_1.png" alt="2025_1">
@@ -134,9 +135,6 @@ I have been actively searching for the right mentor and project as I am very eag
     </div>
 </div>
 
-
-
- 
 
 <div class="card">
     <div style="flex: 0 0 180px; margin-right: 20px;">
