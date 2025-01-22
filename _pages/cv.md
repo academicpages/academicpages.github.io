@@ -186,7 +186,7 @@ body {
 </body>
 </html>
 
-
+<!--
 <p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022 </summary>
 <ul style="list-style-type:circle">
   <li> Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</li>
@@ -210,6 +210,7 @@ body {
   <li>   Advisor: Prof. Volkan Patoglu </li>
 </ul>  
 </details> </p>
+-->
 
 <!-- Robert College, Istanbul, 2006 - 2011 -->
 
