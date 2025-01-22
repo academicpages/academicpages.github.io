@@ -2,13 +2,14 @@
 title: "A Real-Time High-Precision Pedestrian Navigation Method, Device, and Related Components"
 collection: publications
 category: patents
-permalink: /publication/2024-12-24-indoor-navigation-patent
+permalink: /publications/2024-12-24-indoor-navigation-patent
 excerpt: 'My first granted patent (yay) that improves indoor pedestrian navigation without additional onsite hardware.'
 date: 2024-12-24
 venue: China National Intellectual Property Administration (CNIPA)
-paperurl: 'http://epub.cnipa.gov.cn/cred/CN112946323B'
 citation: 'Ren, J. (2024). A Real-Time High-Precision Pedestrian Navigation Method, Device, and Related Components. China National Intellectual Property Administration (CNIPA). Patent Number: CN112946323B.'
 ---
+
+[View on CNIPA website (Chinese)](http://epub.cnipa.gov.cn/cred/CN112946323B)
 
 This invention discloses a real-time dynamic high-precision pedestrian navigation method, device, and related components. The method includes:
 
@@ -18,4 +19,4 @@ This invention discloses a real-time dynamic high-precision pedestrian navigatio
 
 This invention generates the optimal pedestrian navigation route for users in indoor environments and adjusts and optimizes the navigation route based on the user's displacement information, thereby improving the accuracy of indoor pedestrian navigation.
 
-Google Patents hasn't pulled the granted status but the initial publication record (`CN112946323A`) in English can be found [here](https://patents.google.com/patent/CN112946323A/en).
+Google Patents hasn't pulled the granted version but the initial publication record (`CN112946323A`) in English can be found [here](https://patents.google.com/patent/CN112946323A/en).
