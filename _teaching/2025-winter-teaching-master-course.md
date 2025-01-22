@@ -16,6 +16,8 @@ Lectures
 
 [Link](https://pauldelacour.github.io/ "Homepage link for now") to the recordings.
 
+Additional support : 
+See [Lecture notes](https://www.math.umd.edu/~mariakc/AMSC660/LectureNotes/LinearAlgebra.pdf) on Linear Algebra by Maria Cameron Chapter 4.
 
 <!-- Test
 ======
