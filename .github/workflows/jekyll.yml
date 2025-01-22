@@ -34,11 +34,19 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
-        with:
-          ruby-version: '3.1' # Not needed with a .ruby-version file
-          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
-          cache-version: 0 # Increment this number if you need to re-download cached gems
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libssl-dev libreadline-dev zlib1g-dev
+          git clone https://github.com/rbenv/rbenv.git ~/.rbenv
+          echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.bashrc
+          echo 'eval "$(rbenv init -)"' >> ~/.bashrc
+          source ~/.bashrc
+          git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+          echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
+          source ~/.bashrc
+          rbenv install 3.1.4
+          rbenv global 3.1.4
+          ruby -v
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
@@ -50,6 +58,9 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+      - name: Post job cleanup
+        run: |
+          touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
 
   # Deployment job
   deploy:
