@@ -12,7 +12,7 @@ Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploa
 
 Education
 ======
-
+<!--
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -185,8 +185,9 @@ body {
 
 </body>
 </html>
+-->
 
-<!--
+
 <p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022 </summary>
 <ul style="list-style-type:circle">
   <li> Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</li>
@@ -210,7 +211,6 @@ body {
   <li>   Advisor: Prof. Volkan Patoglu </li>
 </ul>  
 </details> </p>
--->
 
 <!-- Robert College, Istanbul, 2006 - 2011 -->
 
