@@ -60,7 +60,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: #474e5d;
+  background-color: white;
   border: 4px solid #FF9F55;
   top: 15px;
   border-radius: 50%;
@@ -157,28 +157,38 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017 - 2022 </h2>
-      <p>Ph.D. in Computer Science <br> Queen Mary University of London</p>
-      <p>Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality</p>
-      <p>Advisor: Dr. Ildar Farkhatdinov</p>
+      <h2>2017</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="container right">
     <div class="content">
-      <h2> 2015 - 2017 </h2>
-      <p> M.Sc. in Mechatronics <br> Sabanci University, Istanbul
-      <p> GPA: 3.90/4 </p>
-      <p> Thesis: Design and Control of Series Elastic Actuated Educational Devices </p>
-      <p> Advisor: Prof. Volkan Patoglu </p>
+      <h2>2016</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="container left">
     <div class="content">
-      <h2>2011 - 2015 </h2>
-      <p> B.Sc. in Mechatronics with Minors in Mathematics <br>  Sabanci University, Istanbul </p> 
-      <p> GPA: 3.58/4 (4th out of 38) </p>
-      <p> Thesis: Design and Control of a Ballbot </p>
-      <p> Advisor: Prof. Volkan Patoglu </p>
+      <h2>2015</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2012</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>2011</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>2007</h2>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
 </div>
