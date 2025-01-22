@@ -11,12 +11,13 @@ date: 2025-01-01
 
 Master course for machine learning and Signal analysis. Involved in teaching the introduction and some mathematical guarantees of PCA.
 
-Lectures
+Recordings:
 ======
 
 [Link](https://pauldelacour.github.io/ "Homepage link for now") to the recordings.
 
-Additional support : 
+Lectre notes:
+======
 See [Lecture notes](https://www.math.umd.edu/~mariakc/AMSC660/LectureNotes/LinearAlgebra.pdf) on Linear Algebra by Maria Cameron Chapter 4.
 
 <!-- Test
