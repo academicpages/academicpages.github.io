@@ -23,7 +23,7 @@ Education
 }
 
 body {
-  background-color: #474e5d;
+  background-color: white;
   font-family: Helvetica, sans-serif;
 }
 
@@ -39,7 +39,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #474e5d;
   top: 0;
   bottom: 0;
   left: 50%;
@@ -61,7 +61,7 @@ body {
   width: 25px;
   height: 25px;
   right: -17px;
-  background-color: white;
+  background-color: #474e5d;
   border: 4px solid #FF9F55;
   top: 15px;
   border-radius: 50%;
@@ -196,6 +196,7 @@ body {
 
 </body>
 </html>
+
 
 <p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022 </summary>
 <ul style="list-style-type:circle">
