@@ -216,7 +216,8 @@ body {
 </ul>  
 </details> </p>
 
-<p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary> 
+<!--<p><details> <summary>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 </summary> -->
+<p><details>  B.Sc. in Mechatronics with Minors in Mathematics, Sabanci University, Istanbul, 2011 - 2015 
 <ul style="list-style-type:circle">
   <li>  GPA: 3.58/4 (4th out of 38) </li>
   <li>  Thesis: Design and Control of a Ballbot </li>
