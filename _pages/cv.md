@@ -41,7 +41,7 @@ body {
   background-color: #474e5d;
   top: 0;
   bottom: 0;
-  left: 50%;
+  left: 10%;
   margin-left: -3px;
 }
 
@@ -49,8 +49,8 @@ body {
 .container {
   padding: 10px 40px;
   position: relative;
-  background-color: inherit;
-  width: 50%;
+  background-color: #eeeeee;
+  width: 80%;
 }
 
 /* The circles on the timeline */
@@ -74,7 +74,7 @@ body {
 
 /* Place the container to the right */
 .right {
-  left: 50%;
+  left: 10%;
 }
 
 /* Add arrows to the left container (pointing right) */
@@ -155,12 +155,11 @@ body {
 <body>
 
 <div class="timeline">
-  <div class="container left">
+  <div class="container right">
     <div class="content">
-      <h2>2017 - 2022 </h2>
-      Ph.D. in Computer Science <br> Queen Mary University of London <br>
-      Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality <br>
-      Advisor: Dr. Ildar Farkhatdinov </p>
+      <h2>PhD</h2>
+      <h3>2017</h3>
+      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="container right">
@@ -169,7 +168,7 @@ body {
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
       <h2>2015</h2>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
@@ -181,7 +180,7 @@ body {
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container right">
     <div class="content">
       <h2>2011</h2>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
