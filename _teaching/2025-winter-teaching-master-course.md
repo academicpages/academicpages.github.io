@@ -20,8 +20,3 @@ Lecture notes:
 ======
 [Lecture notes](https://www.math.umd.edu/~mariakc/AMSC660/LectureNotes/LinearAlgebra.pdf) on Linear Algebra by Maria Cameron Chapter 4.
 
-<!-- Test
-======
-
-Heading 3
-====== -->
