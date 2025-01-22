@@ -12,7 +12,7 @@ Full CV in PDF version [available here](../files/AtaOtaranCV_12_2024.pdf) (uploa
 
 Education
 ======
-
+<!--
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -157,8 +157,10 @@ body {
 <div class="timeline">
   <div class="container left">
     <div class="content">
-      <h2>2017</h2>
-      <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
+      <h2>2017 - 2022 </h2>
+      Ph.D. in Computer Science <br> Queen Mary University of London <br>
+      Thesis: Ankle-Actuated Human-Machine Interface for Walking in Virtual Reality <br>
+      Advisor: Dr. Ildar Farkhatdinov </p>
     </div>
   </div>
   <div class="container right">
@@ -195,6 +197,7 @@ body {
 
 </body>
 </html>
+-->
 
 
 <p><details> <summary> Ph.D. in Computer Science, Queen Mary University of London, 2017 - 2022 </summary>
