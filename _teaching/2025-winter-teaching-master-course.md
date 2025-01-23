@@ -16,7 +16,7 @@ Recordings:
 ======
 
 [Link](https://pauldelacour.github.io/ "Homepage link for now") to the recordings.
-<a href={{ recordlink }} class="btn btn--youtube" title="{{default: 'Watch' }} Twitter"><i class="fab fa-youtube" aria-hidden="true"></i><span> Youtube</span></a>
+<a href={{ recordlink }} class="btn btn--youtube" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-youtube" aria-hidden="true"></i><span> Youtube</span></a>
 
 Lecture notes:
 ======
