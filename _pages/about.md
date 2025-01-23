@@ -29,12 +29,13 @@ Publications
         <span class="bullet">&#8226;</span> <!-- Bullet Point -->
         {% if post.link %}
           <a>{{ post.title }}</a> 
-          <!--
-          <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-          -->
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-          <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-arxiv" aria-hidden="true"></i><span> arxiv</span></a>
+          <!-- <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-arxiv" aria-hidden="true"></i><span> arxiv</span></a> -->
+          <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" 
+            title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">
+            <i class="fab fa-arxiv" aria-hidden="true" style="margin-right: 4px;"></i>arxiv
+          </a>
         {% endif %}
     </h2>
   </div>

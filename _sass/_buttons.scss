@@ -153,4 +153,18 @@
   &--small {
     font-size: $type-size-7;
   }
+
+  &--arxiv--small {
+    font-size: $type-size-8; /* Smaller than regular small */
+    padding: 0.3em 0.6em;  /* Adjust padding for better proportions */
+    margin-left: 10px;     /* Add spacing to separate from the title */
+    border: 1px solid #B31B1B; /* Ensure clear visibility with outline */
+    background-color: transparent; /* Transparent background */
+    color: #B31B1B;        /* Use ArXiv's signature color */
+  
+    &:hover {
+      background-color: #B31B1B; /* Filled on hover */
+      color: #fff;              /* White text on hover */
+    }
+  }
 }
