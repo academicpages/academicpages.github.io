@@ -11,15 +11,16 @@ author_profile: true
 <b>Guangji Bai</b>, Zheng Chai, Chen Ling, Shiyu Wang, Jiaying Lu, Nan Zhang, Tingwei Shi, Ziyang Yu, Mengdan Zhu, Yifei Zhang, Carl Yang, Yue Cheng, Liang Zhao.<br>
 [[paper](https://arxiv.org/abs/2401.00625)][[project page](https://github.com/tiingweii-shii/Awesome-Resource-Efficient-LLM-Papers)]<br>
 
-* <b>FedSpaLLM: Federated Pruning of Large Language Models</b>.<br>
-<b>Guangji Bai</b>, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim.<br>
-[[paper](https://arxiv.org/pdf/2410.14852v1)]<br>
-
 * <b>Distributed Graph Neural Network Training with Periodic Historical Embedding Synchronization</b>.<br>
 Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 [[paper](https://arxiv.org/abs/2206.00057)]<br>
 
 ## 2025
+* <b>FedSpaLLM: Federated Pruning of Large Language Models</b>.<br>
+<b>Guangji Bai</b>, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim.<br>
+<i>The North American Chapter of the Association for Computational Linguistics (NAACL 2025 main)</i>.<br>
+[[paper](https://arxiv.org/pdf/2410.14852v1)]<br>
+
 * <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
 <b>Guangji Bai</b>, Ziyang Yu, Zheng Chai, Yue Cheng, Liang Zhao.<br>
 <i>SIAM International Conference on Data Mining (SDM 2025)</i>.<br>
