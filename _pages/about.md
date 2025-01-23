@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,8 +14,6 @@ I am a student at Southwest Jiaotong University pursuing a Bachelor of Engineeri
 I have participated in many academic competitions in university, mainly in mathematical modeling and ACM, and won two national first prizes.
 
 With a foundation in mathematical modeling, machine learning, and algorithms, I would like to continue to study artificial intelligence in depth and work on using advanced technologies to solve real-world challenges.
-
-
 
 # Awards
 
@@ -59,12 +57,11 @@ With a foundation in mathematical modeling, machine learning, and algorithms, I 
 </details>
 </ul>
 
-
 # Honorary
 
 - Meritorious Student Leader Award, October 2022
 - First Class Comprehensive Scholarship, November 2022
-- December 2022: Silver Award in the Southwest Jiaotong University Extracurricular Technological Innovation Experiment Competition, 
+- December 2022: Silver Award in the Southwest Jiaotong University Extracurricular Technological Innovation Experiment Competition,
 - ACM Chengdu Chapter Outstanding College Student Award (Nomination), October 2023
 - Meritorious Student Award, October 2023
 - Sichuan Province Economic Scholarship (Comprehensive Category), November 2023

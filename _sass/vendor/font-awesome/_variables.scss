@@ -806,6 +806,7 @@ $fa-var-glass-martini: \f000;
 $fa-var-couch: \f4b8;
 $fa-var-cedi-sign: \e0df;
 $fa-var-italic: \f033;
+$fa-var-table-cells-column-lock: \e678;
 $fa-var-church: \f51d;
 $fa-var-comments-dollar: \f653;
 $fa-var-democrat: \f747;
@@ -1530,6 +1531,7 @@ $fa-var-assistive-listening-systems: \f2a2;
 $fa-var-tree-city: \e587;
 $fa-var-play: \f04b;
 $fa-var-font: \f031;
+$fa-var-table-cells-row-lock: \e67a;
 $fa-var-rupiah-sign: \e23d;
 $fa-var-magnifying-glass: \f002;
 $fa-var-search: \f002;
@@ -2032,6 +2034,7 @@ $fa-var-creative-commons-pd-alt: \f4ed;
 $fa-var-centercode: \f380;
 $fa-var-glide-g: \f2a6;
 $fa-var-drupal: \f1a9;
+$fa-var-jxl: \e67b;
 $fa-var-hire-a-helper: \f3b0;
 $fa-var-creative-commons-by: \f4e7;
 $fa-var-unity: \e049;
@@ -2133,6 +2136,7 @@ $fa-var-cc-mastercard: \f1f1;
 $fa-var-itunes-note: \f3b5;
 $fa-var-golang: \e40f;
 $fa-var-kickstarter: \f3bb;
+$fa-var-square-kickstarter: \f3bb;
 $fa-var-grav: \f2d6;
 $fa-var-weibo: \f18a;
 $fa-var-uncharted: \e084;
@@ -2277,6 +2281,7 @@ $fa-var-brave-reverse: \e63d;
 $fa-var-facebook-f: \f39e;
 $fa-var-square-google-plus: \f0d4;
 $fa-var-google-plus-square: \f0d4;
+$fa-var-web-awesome: \e682;
 $fa-var-mandalorian: \f50f;
 $fa-var-first-order-alt: \f50a;
 $fa-var-osi: \f41a;
@@ -2331,6 +2336,7 @@ $fa-var-palfed: \f3d8;
 $fa-var-superpowers: \f2dd;
 $fa-var-resolving: \f3e7;
 $fa-var-xbox: \f412;
+$fa-var-square-web-awesome-stroke: \e684;
 $fa-var-searchengin: \f3eb;
 $fa-var-tiktok: \e07b;
 $fa-var-square-facebook: \f082;
@@ -2367,6 +2373,7 @@ $fa-var-earlybirds: \f39a;
 $fa-var-trade-federation: \f513;
 $fa-var-autoprefixer: \f41c;
 $fa-var-whatsapp: \f232;
+$fa-var-square-upwork: \e67c;
 $fa-var-slideshare: \f1e7;
 $fa-var-google-play: \f3ab;
 $fa-var-viadeo: \f2a9;
@@ -2393,6 +2400,7 @@ $fa-var-yandex: \f413;
 $fa-var-readme: \f4d5;
 $fa-var-html5: \f13b;
 $fa-var-sellsy: \f213;
+$fa-var-square-web-awesome: \e683;
 $fa-var-sass: \f41e;
 $fa-var-wirsindhandwerk: \e2d0;
 $fa-var-wsh: \e2d0;
@@ -2405,6 +2413,7 @@ $fa-var-pinterest-p: \f231;
 $fa-var-apper: \f371;
 $fa-var-fort-awesome: \f286;
 $fa-var-waze: \f83f;
+$fa-var-bluesky: \e671;
 $fa-var-cc-jcb: \f24b;
 $fa-var-snapchat: \f2ab;
 $fa-var-snapchat-ghost: \f2ab;
@@ -3277,6 +3286,7 @@ $fa-icons: (
   "couch": $fa-var-couch,
   "cedi-sign": $fa-var-cedi-sign,
   "italic": $fa-var-italic,
+  "table-cells-column-lock": $fa-var-table-cells-column-lock,
   "church": $fa-var-church,
   "comments-dollar": $fa-var-comments-dollar,
   "democrat": $fa-var-democrat,
@@ -4001,6 +4011,7 @@ $fa-icons: (
   "tree-city": $fa-var-tree-city,
   "play": $fa-var-play,
   "font": $fa-var-font,
+  "table-cells-row-lock": $fa-var-table-cells-row-lock,
   "rupiah-sign": $fa-var-rupiah-sign,
   "magnifying-glass": $fa-var-magnifying-glass,
   "search": $fa-var-search,
@@ -4505,6 +4516,7 @@ $fa-brand-icons: (
   "centercode": $fa-var-centercode,
   "glide-g": $fa-var-glide-g,
   "drupal": $fa-var-drupal,
+  "jxl": $fa-var-jxl,
   "hire-a-helper": $fa-var-hire-a-helper,
   "creative-commons-by": $fa-var-creative-commons-by,
   "unity": $fa-var-unity,
@@ -4606,6 +4618,7 @@ $fa-brand-icons: (
   "itunes-note": $fa-var-itunes-note,
   "golang": $fa-var-golang,
   "kickstarter": $fa-var-kickstarter,
+  "square-kickstarter": $fa-var-square-kickstarter,
   "grav": $fa-var-grav,
   "weibo": $fa-var-weibo,
   "uncharted": $fa-var-uncharted,
@@ -4750,6 +4763,7 @@ $fa-brand-icons: (
   "facebook-f": $fa-var-facebook-f,
   "square-google-plus": $fa-var-square-google-plus,
   "google-plus-square": $fa-var-google-plus-square,
+  "web-awesome": $fa-var-web-awesome,
   "mandalorian": $fa-var-mandalorian,
   "first-order-alt": $fa-var-first-order-alt,
   "osi": $fa-var-osi,
@@ -4804,6 +4818,7 @@ $fa-brand-icons: (
   "superpowers": $fa-var-superpowers,
   "resolving": $fa-var-resolving,
   "xbox": $fa-var-xbox,
+  "square-web-awesome-stroke": $fa-var-square-web-awesome-stroke,
   "searchengin": $fa-var-searchengin,
   "tiktok": $fa-var-tiktok,
   "square-facebook": $fa-var-square-facebook,
@@ -4840,6 +4855,7 @@ $fa-brand-icons: (
   "trade-federation": $fa-var-trade-federation,
   "autoprefixer": $fa-var-autoprefixer,
   "whatsapp": $fa-var-whatsapp,
+  "square-upwork": $fa-var-square-upwork,
   "slideshare": $fa-var-slideshare,
   "google-play": $fa-var-google-play,
   "viadeo": $fa-var-viadeo,
@@ -4866,6 +4882,7 @@ $fa-brand-icons: (
   "readme": $fa-var-readme,
   "html5": $fa-var-html5,
   "sellsy": $fa-var-sellsy,
+  "square-web-awesome": $fa-var-square-web-awesome,
   "sass": $fa-var-sass,
   "wirsindhandwerk": $fa-var-wirsindhandwerk,
   "wsh": $fa-var-wsh,
@@ -4878,6 +4895,7 @@ $fa-brand-icons: (
   "apper": $fa-var-apper,
   "fort-awesome": $fa-var-fort-awesome,
   "waze": $fa-var-waze,
+  "bluesky": $fa-var-bluesky,
   "cc-jcb": $fa-var-cc-jcb,
   "snapchat": $fa-var-snapchat,
   "snapchat-ghost": $fa-var-snapchat-ghost,
