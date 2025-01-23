@@ -122,8 +122,8 @@
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
-  (arxiv, #B31B1B ),
-  (youtube , $youtube-color)
+  (youtube , $youtube-color),
+  (arxiv, #B31B1B )
   ;
 
   @each $socialnetwork, $color in $social {
