@@ -34,6 +34,7 @@ Publications
           -->
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+          <a href="https://twitter.com/intent/tweet?text={{ base_path }}{{ page.url }}" class="btn btn--arxiv" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
         {% endif %}
     </h2>
   </div>
