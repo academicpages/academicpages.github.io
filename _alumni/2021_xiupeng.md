@@ -9,4 +9,4 @@ webpage: ""
 photo: "/members/xiupeng.jpg"
 chinese_name: "陈修棚"
 ---
-Xiupeng Chen is a graduated master student and pursue PhD degree in Tsinghua University now. His research focuses on ionchannel.
+Xiupeng Chen holds a master’s degree and and is currently pursuing his PhD at Tsinghua University. His research focuses on ionchannel.

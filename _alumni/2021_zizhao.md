@@ -9,4 +9,4 @@ webpage: ""
 photo: "/members/zizhao.jpg"
 chinese_name: "李子昭"
 ---
-Zexin Zhang is a guraduated master student working on Molecular Simulation and Theory. His research focuses on lithum metal bettery.
+Zizhao Li holds a master’s degree with a research focus on molecular simulation of lithum metal bettery .
