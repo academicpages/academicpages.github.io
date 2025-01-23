@@ -31,11 +31,10 @@ Publications
           <a>{{ post.title }}</a> 
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-          <!-- <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter"><i class="fab fa-arxiv" aria-hidden="true"></i><span> arxiv</span></a> -->
-          <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" 
+          <!-- <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" 
             title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">
             <i class="fab fa-arxiv" aria-hidden="true" style="margin-right: 4px;"></i>arxiv
-          </a>
+          </a> -->
         {% endif %}
     </h2>
   </div>
