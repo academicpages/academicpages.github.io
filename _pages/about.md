@@ -13,7 +13,6 @@ redirect_from:
 I am a PhD student in Computational Molecular Biology at the [Center for Computational Molecular Biology at Brown](https://ccmb.brown.edu) advised by [Lorin Crawford, Ph.D.](http://www.lcrawlab.com/) and [Jeffrey Bailey, Ph.D, MD](https://baileylab.org/). My research interests are broadly at the **intersection of computational modeling, computer science, statistics, and biology**. Specifically, I am interested in **developing and applying mathematical models and machine learning methods to analyze complex biological data to understand disease mechanisms and the underpinnings of drug resistance**.  I have experience with researching both cancer and malaria.
 
 --- 
-
 # Key research projects
 
 ## Bayesian Regression for Predicting the Spread and Selection of Mutations Causing Antimalarial Drug Resistance
@@ -25,5 +24,6 @@ While the malaria parasite's genome (*Plasmodium falciparum*) shows limited over
 ## A Mathematical Approach to Understanding the Role of Human Mobility in the Spread of Antimalarial Drug Resistance
 Resistance to Artemisinin Combination Therapies (ACTs) is spreading in malaria-endemic regions, driven by parasites with K13 mutations. I am developing a Bayesian model to estimate the movement of ACT-resistant infections between regions via humans and mosquitoes. By integrating mutation prevalence and selection dynamics, this work identifies high-risk regions and predicts how resistance spreads via mobility. These insights will guide public health strategies to combat drug-resistant malaria and improve global intervention efforts.
 
-%While at Dana-Farber, I developed a evolutionary modeling framework aimed at characterizing the progression of cancer across various tumor types. This project focused on analyzing copy number variations from single-cell RNA sequencing data to estimate distinct evolutionary modes in tumors. By applying machine learning techniques, the model identified patterns of clonal evolution and adaptive mechanisms used by cancer cells, providing valuable insights into tumor heterogeneity. The findings contributed to a better understanding of how tumors evolve over time and respond to different treatment pressures.
+## Pancancer evolutionary model analyzing scRNAseq data
+While at Dana-Farber, I developed an evolutionary modeling framework aimed at characterizing the progression of cancer across various tumor types. This project focused on analyzing copy number variations from single-cell RNA sequencing data to estimate distinct evolutionary modes in tumors. By applying machine learning techniques, the model identified patterns of clonal evolution and adaptive mechanisms used by cancer cells, providing valuable insights into tumor heterogeneity. The findings contributed to a better understanding of how tumors evolve over time and respond to different treatment pressures.
 
