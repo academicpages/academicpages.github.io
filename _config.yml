@@ -21,7 +21,7 @@ repository               : "zyzoewang/zyzoewang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ziyue_profile.png"
+  avatar           : "profile.png"
   name             : "Ziyue Wang (王紫玥)"
   pronouns         : # "she/her"  
   bio              : ""
