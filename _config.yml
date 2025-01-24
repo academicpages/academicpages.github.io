@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Frida Mudsam | Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Frida Mudsam"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Frida Mudsam"
+  pronouns         : "she/her"  
+  bio              : "PhD Student in the Information Science Department at the University of Colorado - Boulder"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
