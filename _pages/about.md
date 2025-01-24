@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at UCSF in Dr. Feinberg's lab, focusing on sensorimotor transformation.    
+I am a postdoctoral researcher at UCSF in Dr. Evan Feinberg's lab, focusing on sensorimotor transformation.    
 During my Ph.D., under the supervision of Drs. Min Xu and Siyu Zhang, I conducted research in the field of sleep science.
 
 Education
