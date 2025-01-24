@@ -71,8 +71,8 @@ In my past research, I mainly focus on designing ultra-low bitrate image compres
           based on Kinect.
         </p>
         <p style="font-size: 18px;">
-          <a href="https://github.com/deoxyribonucleic-acid/Kinect-JumpJump" target="_blank">💾 Code</a> | 
-          <a href="#">▶️ Video</a>
+          💾 <a href="https://github.com/deoxyribonucleic-acid/Kinect-JumpJump" target="_blank">Code</a> | 
+          ▶️ <a href="https://github.com/user-attachments/assets/d8453c23-ac9d-4afa-8766-b3edb803c07c">Video</a>
         </p>
       </td>
     </tr>
