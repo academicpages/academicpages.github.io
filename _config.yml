@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_1344.png"
   name             : "Frida Mudsam"
   pronouns         : "she/her"  
-  bio              : "PhD Student in the Information Science Department at the University of Colorado - Boulder"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student in the Information Science"
+  location         : "Boulder, Colroado"
+  employer         : "University of Colorado - Boulder"
   uri              : # URL
   email            : "none@example.org" 
 
