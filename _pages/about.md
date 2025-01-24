@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Master’s student in Electrical and Computer Engineering** at the **University of Michigan, Ann Arbor**. 
+I am a **First-year M.S. student in Electrical and Computer Engineering** at the **University of Michigan, Ann Arbor**. 
 
 My research interest lies in **Generative Models**, **Multi-Modal AI** and their real world applications.
 
-I am actively seeking for **Internship / Summer Research / RA** opportunities and a PhD position starting in 26 Spring/Fall.
+📣 I am actively seeking for **Internship / Summer Research / RA** opportunities and a PhD position starting in 26 Spring/Fall.
 
 
 ## 📚 Education  
@@ -51,4 +51,30 @@ In my past research, I mainly focus on designing ultra-low bitrate image compres
 - Designed ablation experiments to optimize computational modules.  
 
 ## 🎮 Projects
-*Comming Soon~*
+<div align="center">
+  <table rules="none" style="border-collapse: collapse; border: none;">
+    <tr>
+      <!-- 左侧图像单元格 -->
+      <td style="border: none;">
+        <img src="../teaser_images/328.gif" style="zoom:100%; width: 95%; height: 100%; object-fit: cover;"/>
+      </td>
+      <!-- 右侧文本单元格 -->
+      <td style="border: none; vertical-align: middle;">
+        <strong style="font-size: 24px;">Jump Jump @ Kinect</strong>
+        <p style="font-size: 18px;">
+          A somatosensory replica of 
+          <strong>
+            <a href="https://zh.wikipedia.org/wiki/%E8%B7%B3%E4%B8%80%E8%B7%B3" target="_blank">
+              跳一跳
+            </a>
+          </strong> 
+          based on Kinect.
+        </p>
+        <p style="font-size: 18px;">
+          <a href="https://github.com/deoxyribonucleic-acid/Kinect-JumpJump" target="_blank">💾 Code</a> | 
+          <a href="#">▶️ Video</a>
+        </p>
+      </td>
+    </tr>
+  </table>    
+</div>
