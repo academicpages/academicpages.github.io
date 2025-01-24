@@ -15,12 +15,12 @@ Education
 2023.10 - present    
 Postdoctoral fellow  
               University of California, San Francisco  
-              Supervisor: Dr. Evan Feinberg  
+              Supervisor: [Dr. Evan Feinberg](https://neurograd.ucsf.edu/people/evan-feinberg-phd)  
               
 2018.9 - 2023.6   
 Ph.D. in Neuroscience  
                 Shanghai Jiao Tong University School of Medicine, China  
-                Supervisor: Drs. Min Xu and Siyu Zhang  
+                Supervisor: [Drs. Min Xu](http://www.cebsit.cas.cn/yjz/xm_/ry/) and [Siyu Zhang](https://www.shsmu.edu.cn/cbms/info/1104/4110.htm)  
                 
 2013.9 - 2018.6  
 B.S. in Forensic Science  
