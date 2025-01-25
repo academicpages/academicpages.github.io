@@ -72,7 +72,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #2f7f93;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -132,9 +132,9 @@ $x-large                    : 1280px !default;
    Grid
    ========================================================================== */
 
-$right-sidebar-width-narrow : 0px;
-$right-sidebar-width        : 0px;
-$right-sidebar-width-wide   : 0px;
+$right-sidebar-width-narrow : 200px !default;
+$right-sidebar-width        : 300px !default;
+$right-sidebar-width-wide   : 400px !default;
 
 $susy: (
   columns: 12,

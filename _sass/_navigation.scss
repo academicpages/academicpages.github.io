@@ -405,6 +405,7 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
+    text-decoration-line: none !important;
 
     &:hover {
       color: #000;
