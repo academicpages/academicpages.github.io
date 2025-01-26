@@ -11,4 +11,4 @@ redirect_from:
 
 About Me
 ------
-I am a Masters M1 student at Universite Paris-Saclay majoring in Nuclei, Particles & Universe and Lasers. I am interested in interdisciplinary aspects of Physics involving data science and mathematics. Apart from Physics I enjoy reading and journaling. 
+I am a Masters M2 student at Universite PSL majoring in Numerical and Observational Astrophysics. I am interested in interdisciplinary aspects of Astrophysics involving high performance computing and fluid dynamics. 
