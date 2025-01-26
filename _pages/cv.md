@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* August 2024 - Now: Exhibit technician
+  * Mission Science Workshop
+  * Duties include: Designing exhibits
+  * Supervisor: Sonia Gandiaga
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2024: Foreign Language Specialist
+  * Seoul Botanic Park
+  * Duties included: Leading multi-language botany tours, Children's garden curriculum curation 
+  * Supervisor: 동조선
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -61,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* [Brain Food Society](https://www.brainfoodsociety.org/) founder
+* [Cosmic Chronicle](https://www.cosmicchronicle.org/) cofounder
