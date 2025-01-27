@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuyang Du"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yuyang Du"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : #"Your Sidebar Name"
+  name             : "Yuyang Du"
   pronouns         : # example: "he/his"  
   bio              : "Ph.D student, Department of Information Engineering, Chinese University of Hong Kong"
   location         : #"Hong Kong"
