@@ -26,15 +26,15 @@ Publications <font size=3></font>  <font size=3>(* for equal contribution, # for
 * <font size=3>Shao, Y., Liew, S.C., Chen, H., **Du, Y.**, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
-* <font size=3><u>Wang, L.</u>*, Du, Y.*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." IEEE ICNC 2025.</font>
-* <font size=3><u>Zhang, F.</u>*, Du, Y.*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." IEEE/IFIP WiOpt 2024.</font>
-* <font size=3><u>Chen, K.</u>*, Du, Y.*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." IEEE ICRA 2024.</font>
-* <font size=3>Du, Y., Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." IEEE VTC 2024.</font>
-* <font size=3>Du, Y., Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." IEEE VTC 2023.</font>
-* <font size=3>Du, Y., Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.</font>
+* <font size=3><u>Wang, L., **Du, Y.**, Lin, J., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." IEEE ICNC 2025.</font>
+* <font size=3><u>Zhang, F., **Du, Y.**., Chen, K., Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." IEEE/IFIP WiOpt 2024.</font>
+* <font size=3><u>Chen, K., **Du, Y.**., You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." IEEE ICRA 2024.</font>
+* <font size=3>**Du, Y.**, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." IEEE VTC 2024.</font>
+* <font size=3>**Du, Y.**, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." IEEE VTC 2023.</font>
+* <font size=3>**Du, Y.**, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.</font>
 
 **<font size=3>Preprints</font>**
-* <font size=3><u>Zhang, Y.</u>, Chen, X., Chen, K., Du, Y.#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).</font>
-* <font size=3><u>Chen, K.</u>, Cao, H., Li, J., Du, Y.#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
-* <font size=3><u>Chen, K.</u>, Li, J., Wang, K., Du, Y.#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>
+* <font size=3><u>Zhang, Y., Chen, X., Chen, K., **Du, Y.**#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).</font>
+* <font size=3><u>Chen, K., Cao, H., Li, J., **Du, Y.**#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
+* <font size=3><u>Chen, K., Li, J., Wang, K., **Du, Y.**#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>
 
