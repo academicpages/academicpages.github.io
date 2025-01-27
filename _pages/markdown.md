@@ -9,6 +9,4 @@ redirect_from:
 
 News
 ------
-* [xxx-2025] xxxxxx
-* [xxx-2024] xxxxxx
-* [xxx-2024] xxxxxx
+* [Jan-2025] The new website is online!
