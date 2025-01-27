@@ -1,3 +1,4 @@
+<!--
 ---
 permalink: /
 title: "Self-introduction"
@@ -6,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+-->
 
 I am final-year PhD student at the Chinese University of Hong Kong (CUHK) supervised by Prof. [Soung Chang Liew](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). I received my bachelor’s degree in electronic engineering from Peking University (PKU) supervised by Prof. [Yiming Lei](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). I am currently a visiting scholar at Prof. Minlan Yu’s group at [Harvard SEAS](https://minlanyu.seas.harvard.edu/index.html). Before starting my PhD at CUHK, I worked as a communication engineer at 2012 Lab, Huawei, where I participated in the development of [Kirin9000 5G SoC](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000), with a focus on 5G modem power efficiency.
 
