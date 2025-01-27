@@ -7,58 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Mentorship
+------
+* Jul. 2024 - present, Shiqi Xu, Feifan Zhang, Jianfu Wangliu, Ph.D. students at CUHK (with Prof. Soung Liew)
+* Jun. 2024 – present, Yue Zhan, Jingqi Lin, Yining Du, research assistant at CUHK (with Prof. Soung Liew)
+* May. 2024 – present, Yunpeng Yang, Zhicong Zhang, Yifan Xiang, Xiaoran Yang, Xiaoyan Liu, Xinyi Long master student at CUHK (with Prof. Soung Liew)
+* Apr. 2024 – present, Haomin Qi, Undergraduate Student intern at CUHK (with Prof. Soung Liew)
+* Final Year Projects: Lik Hang Chan (2024), Yufan Huang (2024), WingHei Leung (2024), Chim Long You
+(2023)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Professional Service
+------
+* Invited journal reviewer for: IEEE Transactions on Communications (TCOM), IEEE Transactions on Wireless Communications (TWC), IEEE Transactions on Vehicular Technology (TVT), IEEE Wireless Communication Letter (WCL), and Digital Signal Processing (DSP)
+* Invited conference reviewer for: IEEE International Conference on Communications (ICC), IEEE Conference on Global Communications (GLOBECOM), and International Conference on Communications in China (ICCC)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* Teaching Assistant, Linear Algebra (ENGG1120), CUHK, 2021 Spring
+* Teaching Assistant, Computer Networks (IERG3310), CUHK, 2021 Fall /2023 Fall
+* Teaching Assistant, Basic Analog and Digital circuits (IERG2060), CUHK, 2024 Spring
+* Laboratory Tutor, Electronic Circuit Design Laboratory (IERG1810), CUHK, 2022 Fall/2023 Spring
+* Laboratory Tutor, Digital Circuit Experiment (EE312), PKU, 2018 Fall
