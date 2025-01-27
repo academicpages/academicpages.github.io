@@ -25,15 +25,29 @@ Work experience
   * Duties included: Leading multi-language botany tours, Children's garden curriculum curation 
   * Supervisor: 동조선
 
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Skills  
+======  
+* **Design and Engineering**  
+  * 3D modeling and printing  
+  * Exhibit design and maintenance  
+  * Robotics (AUV hulls, IoT terrariums)  
+  * Woodworking and tool usage  
+
+* **Communication and Leadership**  
+  * Multilingual proficiency (English, Korean, French, Spanish)  
+  * Science communication and storytelling  
+  * Team leadership and mentoring (training interns/employees)  
+  * Editorial experience (science journal editing and writing)  
+
+* **Research and Problem-Solving**  
+  * Fluid dynamics analysis and simulation (swim stroke comparisons)  
+  * Botany and marine biology fieldwork  
+  * Creative problem-solving (NASA hackathon challenges)  
+
+* **Teaching and Outreach**  
+  * STEM curriculum design and tutoring  
+  * Hands-on workshops for underserved youth  
+  * Public tour guidance and document translation  
 
 Publications
 ======
