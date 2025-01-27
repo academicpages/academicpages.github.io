@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-
+* **Balboa High School**
 
 Work experience
 ======
