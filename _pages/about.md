@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 
+
+
+
 # About Me 🌿
 
 Hi there! I'm Majid Rebouh, an exhibit technician with a passion for blending plant biology, technology, and AI to create innovative solutions for environmental restoration and education. 
