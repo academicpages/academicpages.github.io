@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>I am final-year PhD student at the Chinese University of Hong Kong (CUHK) supervised by Prof.</font>[<font size=3>Soung Chang Liew</font>](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). <font size=3>I received my bachelor’s degree in electronic engineering from Peking University (PKU) supervised by Prof.</font> [<font size=3>Yiming Lei</font>](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). <font size=3>I am currently a visiting scholar at Prof. Minlan Yu’s group at</font> [<font size=3>Harvard SEAS</font>](https://minlanyu.seas.harvard.edu/index.html). <font size=3>Before starting my PhD at CUHK, I worked as a communication engineer at 2012 Lab, Huawei, where I participated in the development of</font> [<font size=3>Kirin9000 5G SoC</font>](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000)<font size=3>, with a focus on 5G modem power efficiency.</font>  
+<font size=3>I am final-year PhD student at the Chinese University of Hong Kong (CUHK) supervised by Prof</font>. [<font size=3>Soung Chang Liew</font>](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). <font size=3>I received my bachelor’s degree in electronic engineering from Peking University (PKU) supervised by Prof.</font> [<font size=3>Yiming Lei</font>](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). <font size=3>I am currently a visiting scholar at Prof. Minlan Yu’s group at</font> [<font size=3>Harvard SEAS</font>](https://minlanyu.seas.harvard.edu/index.html). <font size=3>Before starting my PhD at CUHK, I worked as a communication engineer at 2012 Lab, Huawei, where I participated in the development of</font> [<font size=3>Kirin9000 5G SoC</font>](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000)<font size=3>, with a focus on 5G modem power efficiency.</font>  
 
 <font size=3>I have a comprehensive research interest, ranging from RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the interdisciplinary research on generative AIs and networking systems. Recently, I am highly interested in the efficient deployment and inference of MoE model at edge.</font>  
-
+<br>
 **<font size=3>I am on the job market and looking for research positions in both industry and academia.</font>**
 
 Publications
