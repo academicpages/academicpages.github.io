@@ -6,8 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to Fang Gong's Website欢迎来到我的个人网站
+======
+About Me
+======
+Hi, I'm Fang Gong. I recieved my Ph.D. degree in Control Science and Engineering from China University of Geosciences (CUG-Wuhan) in Dec 2022, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/zh_CN/). Currently, I'm a lecturer in School of Computer Science at Wuhan Institute of Technology. From Dec 2019 to Dec 2020, I visited at the Schulich School of Engineering Intelligent Geospatial Data Mining Lab in Department of Geomatics at University of Calgary, supervised by prof.[Xin Wang](https://profiles.ucalgary.ca/xin-wang). 
 
-I'm Fang Gong, born in Feb 1991, currently is an a professor in Wuhan Institute of Technology, master student's supervisor. I recieved my Ph.D. degree in Control Science and Engineering from China University of Geosciences (CUG-Wuhan) in Dec 2022, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/zh_CN/). HanThis is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Research Interest
+======
+Currently, I am broadly interested in data mining and machine learning.
+
+In particular, the goal is to develop machine learning-based algorithms for categorical data analysis, e.g., distance metric and representation learning. The difficulties in categorical data analysis is, but not limited to, how to represent the complex coupling relationships, how to handle the concept shift, and how to handle the imbalance data, which bring in the consiferable challanges. We wish to develop the effective and efficient methods about structure extension, multi-view learning, dynamic ensemble learning, few-shot learning to tackle these challenges. 
 
 A data-driven personal website
 ======
