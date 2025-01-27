@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to Fang Gong's Website欢迎来到我的个人网站"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Welcome to Fang Gong's Website欢迎来到我的个人网站
-======
+
 About Me
 ======
 Hi, I'm Fang Gong. I recieved my Ph.D. degree in Control Science and Engineering from China University of Geosciences (CUG-Wuhan) in Dec 2022, supervised by prof. [Liangxiao Jiang](https://grzy.cug.edu.cn/jlx/zh_CN/). Currently, I'm a lecturer in School of Computer Science at Wuhan Institute of Technology. From Dec 2019 to Dec 2020, I visited at the Schulich School of Engineering Intelligent Geospatial Data Mining Lab in Department of Geomatics at University of Calgary, supervised by prof.[Xin Wang](https://profiles.ucalgary.ca/xin-wang). 
