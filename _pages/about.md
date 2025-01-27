@@ -18,9 +18,20 @@ Currently, I am broadly interested in data mining and machine learning.
 
 In particular, the goal is to develop machine learning-based algorithms for categorical data analysis, e.g., distance metric and representation learning. The difficulties in categorical data analysis is, but not limited to, how to represent the complex coupling relationships, how to handle the concept shift, and how to handle the imbalance data, which bring in the consiferable challanges. We wish to develop the effective and efficient methods about structure extension, multi-view learning, dynamic ensemble learning, few-shot learning to tackle these challenges. 
 
-A data-driven personal website
+Selected Publication
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Fine-grained attribute weighted inverted specific-class distance measure for nominal attributes
+   Fang Gong, Xin wang, Liangxiao Jiang, Seyyed Mohammadreza Rahimi, Dianhong Wang
+   Information Sciences, 2021, 578: 848–869[Link](https://doi.org/10.1016/j.ins.2021.08.041)
+2. Gain ratio weighted inverted specific-class distance measure for nominal attributes
+   Fang Gong, Liangxiao Jiang, Huan Zhang, Dianhong Wang, Xingfeng Guo
+   International Journal of Machine Learning and Cybernetics, 2020, 11: 2237–2246[Link](https://doi.org/10.1007/s13042-020-01112-8)
+3. Using differential evolution for an attribute-weighted inverted specific-class distance measure for nominal attributes.
+   Fang Gong, Xingfeng Guo, Dianhong Wang
+   Data Mining and Knowledge Discovery, 2023, 37: 409–433[Link](https://doi.org/10.1007/s10618-022-00881-w)
+4. Averaged one dependence inverted specific class distance measure for nominal attributes
+   Fang Gong, Liangxiao Jiang, Dianhong Wang, Xingfeng Guo
+   Journal of Experimental & Theoretical Artificial Intelligence, 2019, 32(4): 651–663[Link](https://doi.org/10.1080/0952813X.2019.1661587)
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
