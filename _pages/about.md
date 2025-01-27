@@ -15,7 +15,7 @@ redirect_from:
 
 Publications <font size=3>(17 papers, with 16 first/co-first/corresponding authors)</font>
 ------
-**<font size=3>Journals</font>** (* for equal contribution, # for corresponding author, underline for junior PhD/RA supervised)
+**<font size=3>Journals</font>** <font size=3>(* for equal contribution, # for corresponding author, underline for junior PhD/RA supervised)</font>
 * <font size=3>Du, Y., Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
 * <font size=3><u>Cui, H.</u>*, Du, Y.*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
 * <font size=3>Du, Y., Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
