@@ -13,7 +13,7 @@ redirect_from:
 <br>
 **<font size=3>I am on the job market and looking for research positions in both industry and academia.</font>**
 
-Publications <font size=3>(17 papers, with 16 first/co-first/corresponding authors)</font>
+Publications <font size=3></font>
 ------
 **<font size=3>Journals</font>** <font size=3>(* for equal contribution, # for corresponding author, underline for junior PhD/RA supervised)</font>
 * <font size=3>Du, Y., Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
