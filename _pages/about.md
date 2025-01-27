@@ -7,43 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+The Eco Einsteins Club is a dynamic student organization dedicated to promoting environmental sustainability, fostering a culture of eco-consciousness, and inspiring   ositive change within our community. Comprised of passionate and committed individuals from diverse academic backgrounds, we strive to channel our collective energy and 
+ reativity toward addressing pressing environmental challenges and implementing innovative solutions. Our mission is to raise awareness about environmental issues, advocate for sustainable practices, and engage the community in initiatives that contribute to the well-being of our planet. Throughout the academic year 2023-2024, we have undertaken a range of activities and projects that reflect our commitment to making a meaningful impact. From organizing educational workshops and campaigns to
+participating in hands-on conservation efforts, the Eco Einsteins Club has been at the forefront of the sustainability movement on campus. Our members have collaborated on various interdisciplinary projects, leveraging their unique skills and perspectives to devise strategies for reducing our environmental footprint.
 
-A data-driven personal website
+How it all started?
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+The Eco Einsteins Club was born out of a shared vision to create a more sustainable and eco-friendly campus environment. The journey began in the fall of 2023 when a  group of environmentally conscious students, motivated by their growing concern for the planet, approached the Warden of the campus, Sri S Sai Manohar, with a proposal to establish a dedicated student organization focused on environmental sustainability. Sir S Sai Manohar, an ardent supporter of environmental initiatives and an
+advocate for student-led projects, was immediately on board with the idea. Recognizing the potential impact such a club could have on the campus and the broader community, he provided his full support and guidance to the founding members. During an initial meeting, he laid out a strategic framework for the club's operations and outlined three core instructions for the team leaders: 
+Promote Awareness: The warden emphasized the importance of raising awareness about environmental issues among the student body. He encouraged the team to organize seminars and guest lectures featuring experts in the field of sustainability. These educational initiatives would serve to inform and inspire students to adopt more
+eco-friendly practices in their daily lives. 
+Engage in Practical Action: The warden stressed that awareness alone was not enough; practical action was crucial. He advised the team leaders to develop and implement projects that directly contribute to environmental conservation. This included activities such as plogging, waste segregation and water conservation campaigns.
+Foster Community Involvement: He highlighted the importance of community engagement. By fostering a sense of collective responsibility, the club could create a ripple effect, inspiring others to join their cause.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+A small group of five individuals gradually expanded to a formidable team of sixty, now organized into five distinct groups: 
+Alpha, Beta, Gamma, Delta and Epsilon.
 
-Getting started
+Priority activities
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Implementation of Waste Segregation: Introduced designated bins across campus for dry waste, specifically targeting plastic bottles and wrappers.
+2. Water Conservation Initiatives: Initiated the use of paper plates during morning breakfast sessions to minimize water usage for dishwashing. Implemented a system to reuse water from RO plants for watering plants on campus. Installed aerators in taps for reducing water flow during summer.
+3. Educational Campaigns: Conducted workshops and awareness sessions to educate students and staff about the importance of waste segregation and water conservation.
+4. Partnerships with Recyclers: Established partnerships with local recyclers to ensure proper disposal and recycling of segregated waste materials, enhancing 
+ sustainability efforts.
+5. Monitoring and Feedback: Implemented regular monitoring and feedback mechanisms to assess the effectiveness of these initiatives and identify areas for improvement in environmental sustainability practices.
 
-Site-wide configuration
+Weekly Activity
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+In line with other initiatives demonstrating a commitment to environmental sustainability, the Eco Einsteins Club has launched a significant effort to promote waste segregation and eco-friendly practices among residents. A key aspect of this initiative is the installation of various waste segregation boxes, made from eco-friendly materials, throughout the hostel premises. The primary objective of this initiative is to encourage responsible waste management practices among residents and minimize the environmental impact associated with waste disposal. By providing convenient and clearly labeled segregation boxes made from eco-friendly materials, the goal is to streamline the waste disposal process and promote recycling and proper waste handling.
 
-Create content & metadata
+Benefits
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Promotion of Responsible Waste Management: The segregation boxes simplify the process for residents to sort their waste into different categories, promoting responsible waste management practices. Environmental Conservation: By encouraging recycling and proper waste disposal, this initiative helps conserve natural resources and reduces the strain on landfills and incineration facilities. Community Engagement: The initiative fosters a sense of community engagement and shared responsibility for environmental sustainability among hostel residents, cultivating a culture of eco-consciousness.
 
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+At the end of each week, members of the Eco Einsteins Club, along with volunteers from the hostel community, gather to collect and segregate the accumulated waste.
+The waste is sorted into distinct categories, including recyclables, organic waste, and non-recyclables, following the established guidelines and labeling on the
+segregation boxes.Once segregated, the waste is carefully transported to designated collection points within the hostel premises. There, it is prepared for
+disposal by being packaged and labeled according to waste type and disposal requirements. All the waste collected through our weekly segregation and
+disposal process was sent to a repository at SSSIHMS Whitefield. Under the guidance of Sri. B Satish Chandra, the waste was directed to a reputable recycling company
+called 'RECYKAL.' This company specializes in sustainable waste management solutions, focusing on recycling and resource recovery. By partnering with RECYKAL, we
+ensure that the recyclable waste generated within our hostel community is handled responsibly and diverted from landfills, contributing to the circular economy and reducing environmental impact. Additionally, plastic waste, which constitutes a significant portion of the waste stream, is sent to a local vendor
+specializing in plastic recycling. This vendor is equipped to process plastic waste efficiently and responsibly, ensuring it is recycled or repurposed rather than being disposed of in an environmentally harmful manner.
