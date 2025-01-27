@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "he/his"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Hong Kong"
-  employer         : Chinese University of HK
+  bio              : "Chinese University of Hong Kong"
+  location         : #"Hong Kong"
+  employer         : #Chinese University of HK
   uri              : https://www.cuhk.edu.hk/english/index.html
   email            : "dy020@ie.cuhk.edu.hk" 
 
