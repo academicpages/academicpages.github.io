@@ -13,24 +13,33 @@ redirect_from:
 <br>
 **<font size=3>I am on the job market and looking for research positions in both industry and academia.</font>**
 
-Publications (17 papers, with 16 first/co-first/corresponding authors)
+Publications <font size=3>(17 papers, with 16 first/co-first/corresponding authors)</font>
 ------
 **Journals**
-
+* Du, Y., Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and
+Optimization." IEEE Transactions on Vehicular Technology (2025).
+* Cui, H.*, Du, Y.*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).
+* Du, Y., Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).
+* Du, Y., Liew, S.C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).
+* Du, Y., Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." IEEE Transactions on Vehicular Technology (2023).
+* Du, Y., Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." Digital Signal Processing (2022).
+* Du, Y.*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." Digital Signal Processing (2021).
+* Shao, Y., Liew, S.C., Chen, H., Du, Y., "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).
 
 **Conferences**
-
+* Wang, L.*, Du, Y.*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." IEEE ICNC 2025.
+* Zhang, F.*, Du, Y.*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." IEEE/IFIP WiOpt 2024.
+* Chen, K.*, Du, Y.*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." IEEE ICRA 2024.
+* Du, Y., Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." IEEE VTC 2024.
+* Du, Y., Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with
+Clipping." IEEE VTC 2023.
+Du, Y., Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.
 
 **Preprints**
+* Zhang, Y., Chen, X., Chen, K., Du, Y.#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).
+* Chen, K., Cao, H., Li, J., Du, Y.#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).
+* Chen, K., Li, J., Wang, K., Du, Y.#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)
 
-
-
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
