@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuyang Du / Academic Pages"
+title                    : "Yuyang Du"
 title_separator          : "-"
 name                     : &name "Yuyang Du"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : #"Your Sidebar Name"
   pronouns         : # example: "he/his"  
-  bio              : "Ph.D Candidate, Chinese University of Hong Kong"
+  bio              : "Ph.D student, Department of Information Engineering, Chinese University of Hong Kong"
   location         : #"Hong Kong"
   employer         : #Chinese University of HK
   uri              : https://www.cuhk.edu.hk/english/index.html
