@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<font size=3>I am a final-year PhD student at The Chinese University of Hong Kong (CUHK), supervised by</font> [<font size=3>Prof. Soung Chang Liew</font>](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). <font size=3>I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), where I was supervised by </font> [<font size=3>Prof. Yiming Lei</font>](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). <font size=3>Currently, I am a visiting researcher at Harvard University, hosted by </font> [<font size=3>Prof. Minlan Yu</font>](https://minlanyu.seas.harvard.edu/index.html). <font size=3>Prior to starting my PhD at CUHK, I worked as a communication engineer at Huawei's 2012 Lab, where I contributed to the development of the </font> [<font size=3>Kirin9000 5G SoC</font>](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000)<font size=3>, focusing on the power efficiency of the 5G modem.</font>  
+<font size=3><center>I am a final-year PhD student at The Chinese University of Hong Kong (CUHK), supervised by</center></font> [<font size=3>Prof. Soung Chang Liew</font>](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). <font size=3><center>I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), where I was supervised by </center></font> [<font size=3>Prof. Yiming Lei</font>](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). <font size=3><center>Currently, I am a visiting researcher at Harvard University, hosted by </center></font> [<font size=3>Prof. Minlan Yu</font>](https://minlanyu.seas.harvard.edu/index.html). <font size=3><center>Prior to starting my PhD at CUHK, I worked as a communication engineer at Huawei's 2012 Lab, where I contributed to the development of the </center></font> [<font size=3>Kirin9000 5G SoC</font>](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000)<font size=3><center>, focusing on the power efficiency of the 5G modem.</center></font>  
 
 <font size=3><center>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</center></font>  
 <br>
@@ -15,27 +15,28 @@ redirect_from:
 
 Publications <font size=3></font>
 ------
-**<font size=3>Journals</font>** <br><font size=5>(* for equal contribution, # for corresponding author)</font>
-* <font size=3><b><u>Du, Y.</b></u>, Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
-* <font size=3>Cui, H.*, <b><u>Du, Y.</b></u>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
-* <font size=3><b><u>Du, Y.</b></u>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
-* <font size=3><b><u>Du, Y.</b></u>, Liew, S.C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>
-* <font size=3><b><u>Du, Y.</b></u>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." IEEE Transactions on Vehicular Technology (2023).</font>
-* <font size=3><b><u>Du, Y.</b></u>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." Digital Signal Processing (2022).</font>
-* <font size=3><b><u>Du, Y.</b></u>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." Digital Signal Processing (2021).</font>
-* <font size=3>Shao, Y., Liew, S.C., Chen, H., <b><u>Du, Y.</b></u>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
+**<font size=3>Journals</font>**  
+<font size=5>(* for equal contribution, # for corresponding author)</font>
+* <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., "Reliable Packet Detection for Random Access Networks: Analysis, Benchmark, and Optimization." IEEE Transactions on Vehicular Technology (2025).</font>
+* <font size=3>Cui, H.*, <b><u>Du, Y.</u></b>*, Yang, Q.*, Shao, Y., Liew, S. C., "LLMind: Orchestrating AI and IoT with LLMs for complex task execution." IEEE Communications Magazine (2024).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "Nonlinear Multi-Carrier System with Signal Clipping: Measurement, Analysis, and Optimization." IEEE Systems Journal (2024).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Liew, S.C., Shao, Y., "Efficient FFT computation in IFDMA transceivers." IEEE Transactions on Wireless Communications (2023).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "SER Optimization in OFDM-IM Systems with Nonlinear Power Amplifiers." IEEE Transactions on Vehicular Technology (2023).</font>
+* <font size=3><b><u>Du, Y.</u></b>, Lei, Y., McGrath, S., "SER optimization in transparent OFDM relay systems in the presence of dual nonlinearity." Digital Signal Processing (2022).</font>
+* <font size=3><b><u>Du, Y.</u></b>*, Chen, J.*, Lei, Y., Hao, X., "Performance analysis of nonlinear spatial modulation multiple-input multiple-output systems." Digital Signal Processing (2021).</font>
+* <font size=3>Shao, Y., Liew, S.C., Chen, H., <b><u>Du, Y.</u></b>, "Flow sampling: Network monitoring in large-scale software-defined IoT networks." IEEE Transactions on Communications (2021).</font>
 
 **<font size=3>Conferences</font>**
-* <font size=3>Wang, L.*, <b><u>Du, Y.</b></u>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." IEEE ICNC 2025.</font>
-* <font size=3>Zhang, F.*, <b><u>Du, Y.</b></u>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." IEEE/IFIP WiOpt 2024.</font>
-* <font size=3>Chen, K.*, <b><u>Du, Y.</b></u>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." IEEE ICRA 2024.</font>
-* <font size=3><b><u>Du, Y.</b></u>, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." IEEE VTC 2024.</font>
-* <font size=3><b><u>Du, Y.</b></u>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." IEEE VTC 2023.</font>
-* <font size=3><b><u>Du, Y.</b></u>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.</font>
+* <font size=3>Wang, L.*, <b><u>Du, Y.</u></b>*, Lin, J*., Chen, K., Liew, S. C. "Rephrase and Contrast: Fine-Tuning Language Models for Enhanced Understanding of Communication and Computer Networks." IEEE ICNC 2025.</font>
+* <font size=3>Zhang, F.*, <b><u>Du, Y.</u></b>*, Chen, K.*, Shao, Y., Liew, S. C., "Addressing Out-of-Distribution Challenges in Image Semantic Communication Systems with Multi-modal Large Language Models." IEEE/IFIP WiOpt 2024.</font>
+* <font size=3>Chen, K.*, <b><u>Du, Y.</u></b>*, You, T., Islam, M., Guo, Z., Jin, Y., Chen, G., Heng, P.A. "LLM-Assisted Multi-Teacher Continual Learning for Visual Question Answering in Robotic Surgery." IEEE ICRA 2024.</font>
+* <font size=3><b><u>Du, Y.</u></b>, Deng, H., Liew, S. C., Chen, K., Shao, Y., Chen, H., "The power of large language models for wireless communication system development: A case study on FPGA platforms." IEEE VTC 2024.</font>
+* <font size=3><b><u>Du, Y.</u></b>, Hao, L., Lei, Y., "SER Analysis and Joint Optimization in Nonlinear MIMO-OFDM Systems with Clipping." IEEE VTC 2023.</font>
+* <font size=3><b><u>Du, Y.</u></b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.</font>
 
 **<font size=3>Preprints</font>**
-* <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</b></u>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).</font>
-* <font size=3>Chen, K., Cao, H., Li, J., <b><u>Du, Y.</b></u>#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
-* <font size=3>Chen, K., Li, J., Wang, K., <b><u>Du, Y.</b></u>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>
+* <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</u></b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).</font>
+* <font size=3>Chen, K., Cao, H., Li, J., <b><u>Du, Y.</u></b>#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
+* <font size=3>Chen, K., Li, J., Wang, K., <b><u>Du, Y.</u></b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>
 
 
