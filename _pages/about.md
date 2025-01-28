@@ -9,9 +9,9 @@ redirect_from:
 
 <font size=3>I am a final-year PhD student at The Chinese University of Hong Kong (CUHK), supervised by</font> [<font size=3>Prof. Soung Chang Liew</font>](https://www.ie.cuhk.edu.hk/faculty/LIEW-Soung-Chang/). <font size=3>I received my bachelor’s degree in Electronic Engineering from Peking University (PKU), where I was supervised by </font> [<font size=3>Prof. Yiming Lei</font>](https://ele.pku.edu.cn/dzxxen/info/1023/1115.htm). <font size=3>Currently, I am a visiting researcher at Harvard University, hosted by </font> [<font size=3>Prof. Minlan Yu</font>](https://minlanyu.seas.harvard.edu/index.html). <font size=3>Prior to starting my PhD at CUHK, I worked as a communication engineer at Huawei's 2012 Lab, where I contributed to the development of the </font> [<font size=3>Kirin9000 5G SoC</font>](https://www.hisilicon.com/en/products/Kirin/Kirin-flagship-chips/Kirin-9000)<font size=3>, focusing on the power efficiency of the 5G modem.</font>  
 
-<font size=3>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</font>  
+<font size=3><center>My research interests span a wide range of topics, including RF circuit analysis, ultra-reliable low-latency communication (URLLC), and the intersection of generative AI and networking systems. Recently, I have been particularly interested in the efficient deployment and inference of Mixture-of-Experts (MoE) models at the edge.</center></font>  
 <br>
-**<font size=3>I am on the job market and looking for research positions in both industry and academia.</font>**
+**<font size=3><center>I am on the job market and looking for research positions in both industry and academia.</center></font>**
 
 Publications <font size=3></font>
 ------
