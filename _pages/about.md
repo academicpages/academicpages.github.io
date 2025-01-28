@@ -10,9 +10,9 @@ redirect_from:
 
 ## Presentation
 
-Hi! Based in Peru (LatAm), I am a seasoned AI/ML Engineer Tech Lead with a specialization and solid background (math and programming) in advanced artificial intelligence and machine learning solutions. I worked as a contractor with companies and startups across the USA and Europe (full-time).
+Hi! Based in Peru (LatAm), I am a seasoned Tech Lead AI/ML Engineer with a specialization and solid background (math and programming) in advanced artificial intelligence and machine learning solutions. I worked as a contractor with companies and startups across the USA and Europe (full-time).
 
-With over five years of experience, I specialize in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, (Deep) Reinforcement Learning, and Natural Language Processing (NLP). For the past 2.5 years, I have focused on Generative AI (LLMs), addressing complex commercial challenges. My solutions leverage Cloud Computing (AWS, GCP, Azure) and Edge Computing (NVIDIA Jetson Nano, Raspberry Pi).
+With over five years of experience, I specialize in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, (Deep) Reinforcement Learning, and Natural Language Processing (NLP). For the past 3 years, I have focused on Generative AI (LLMs), addressing complex commercial challenges. My solutions leverage Cloud Computing (AWS, GCP, Azure) and Edge Computing (NVIDIA Jetson Nano, Raspberry Pi).
 
 I have led numerous analytics and software projects across variety of sectors, including Retail, Banking, Telecommunications, Mining, Energy, and Education.
 

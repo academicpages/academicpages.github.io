@@ -14,13 +14,14 @@ redirect_from:
 <br/>Feb, 2024 – Present
 
 - Led the research and design a custom workflow of cycle agents using LangGraph and tracing/monitoring with LangSmith (LangStack) into Azure Cloud with serverless, microservices software approach and LLMOps.
-- Built naive RAG / agentic RAG systems supported into Azure Cloud (AI Studio, Functions, etc) to talk to agents about custom documents and share information.
-- Built integrations of databases (sql, no-sql), core business APIs, Whatsapp and CRMs with our smart agent to solve complex comercial problems and other business cases.
+- Built naive RAG and agentic RAG systems supported into Azure Cloud (AI Studio, Az. Functions, Cognitive Search, etc) to talk to agents about custom documents and share information.
+- Built integrations of databases (sql: PostreSQL, no-sql: MongoDB), core business APIs, Whatsapp and CRMs with our smart agent to solve complex comercial problems and other business cases.
 - Built text extraction for complex files as pdf, xlsx, csv, txt, images, etc using GPT-4o-mini Vision Capabilities for chunks, embeddings and indexing metadatas into Azure Cognitive Search - Vector Database.
 - Built better prompt performance (CoT, ToT, ReAct, FewShot, ZeroShot) using DSPy and Adalflow novel frameworks in GenAI.
 - Built custom evaluation of LLM performances using TruLens for our SaaS development.
 - Built OCR system for validate existence of textual data into diferent PDF files using Claude-3.5-oppus Vision Capabilities for SOI deppartment, removing repetitive human vision interventions.
-- Developed a smart agent twin using LangGraph to replace QA functionalities in Software Microservices Testing before deployment to Production. This solution identifies bugs throughout the pipeline process, enhancing efficiency and reliability.
+- I used fine-tuning techniques to implement a form of “transfer learning” on our custom dataset, optimizing and enhancing the behavior of agents’ responses.
+- Developed a smart multi-agents arquitecture (graphs) twin using LangGraph to replace QA functionalities in Software Microservices Testing before deployment to Production. This solution identifies bugs throughout the pipeline process, enhancing efficiency and reliability.
 
 **Deloitte (Canada)** – _Senior AI Engineer II_
 <br/>Nov, 2023 – March, 2024
