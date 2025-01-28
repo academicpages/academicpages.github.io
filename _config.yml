@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "<center>Yuyang Du</center>"
   pronouns         : # example: "he/his"  
-  bio              : "<center><font size=3>Ph.D student, Dept. of Information Engineering, CUHK</font></center>"
-  location         : "Hong Kong"
-  employer         : #Chinese University of<br>Hong Kong
+  bio              : "<center><font size=3>Ph.D student, Department of Information Engineering</font></center>"
+  location         : #"Hong Kong"
+  employer         : CUHK
   uri              : #https://www.cuhk.edu.hk/english/index.html
   email            : "duyuyang01@gmail.com" 
 
