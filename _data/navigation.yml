@@ -21,7 +21,7 @@ main:
 #    url: /year-archive/
     
   - title: "Activities"
-    url: /cv/
+    url: /activity/
     
   - title: "News"
     url: /news/
