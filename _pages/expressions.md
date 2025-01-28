@@ -20,7 +20,9 @@ author_profile: true
 
 ## Teaching Experience
 **Invited Lecturer** - Amirkabir University of Technology (Tehran Polytechnic) <br>
-* **CE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>
+* **CSE112: Computer Architecture Lab**, <a href="https://github.com/AUT-CALab/Spring-2025/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2025)</a>
+
+* **CSE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Spring-2024/tree/main" style="color: #0011DB; text-decoration: underline;">(Spring 2024)</a>
 * **CE201: Logic Circuit Lab**, <a href="https://github.com/AUT-LCLab/Fall-2023" style="color: #0011DB; text-decoration: underline;">(Fall 2023)</a>
 
 
