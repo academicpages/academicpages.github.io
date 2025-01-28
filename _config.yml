@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Euan Judd"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Researcher at EPFL"
+  bio              : "Senior Machine Learning Engineer at Xela Robotics"
   location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=ZlJG5XEAAAAJ&hl=en&oi=ao"
   email            : 
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  researchgate     : "https://www.researchgate.net/profile/Euan-Judd"
+  uri              : "https://euanjudd.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -102,7 +102,7 @@ author:
   instagram        : "euanjudd"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "euan-judd-phd-749b04116"
+  linkedin         : "euanjudd"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
