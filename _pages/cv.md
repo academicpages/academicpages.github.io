@@ -9,16 +9,16 @@ redirect_from:
 
 Professional Service
 ------
-* <font size=3>Invited journal reviewer for:
-**   IEEE Transactions on Communications (TCOM),
-**   IEEE Transactions on Wireless Communications (TWC),
-**   IEEE Transactions on Vehicular Technology (TVT),
-**   IEEE Wireless Communication Letter (WCL),
-**   Digital Signal Processing (DSP)</font>
-* <font size=3>Invited conference reviewer for:
-**   IEEE International Conference on Communications (ICC),
-**   IEEE Conference on Global Communications (GLOBECOM),
-**   International Conference on Communications in China (ICCC)</font>
+* <font size=3>Invited journal reviewer for:  
+**   IEEE Transactions on Communications (TCOM),  
+**   IEEE Transactions on Wireless Communications (TWC),  
+**   IEEE Transactions on Vehicular Technology (TVT),  
+**   IEEE Wireless Communication Letter (WCL),  
+**   Digital Signal Processing (DSP)</font>  
+* <font size=3>Invited conference reviewer for:  
+**   IEEE International Conference on Communications (ICC),  
+**   IEEE Conference on Global Communications (GLOBECOM),  
+**   International Conference on Communications in China (ICCC)</font>  
 
 Teaching
 ------
