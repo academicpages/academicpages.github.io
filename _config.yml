@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuyang Du"
+  name             : "<center>Yuyang Du</center>"
   pronouns         : # example: "he/his"  
-  bio              : "Ph.D student, Department of Information Engineering, Chinese University of Hong Kong"
+  bio              : "<center>Ph.D student, Department of Information Engineering, Chinese University of Hong Kong</center>"
   location         : #"Hong Kong"
   employer         : #Chinese University of HK
-  uri              : https://www.cuhk.edu.hk/english/index.html
+  uri              : #https://www.cuhk.edu.hk/english/index.html
   email            : "duyuyang01@gmail.com" 
 
   # Academic websites
