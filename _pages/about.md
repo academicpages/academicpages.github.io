@@ -34,7 +34,7 @@ Publications <font size=3></font>
 * <font size=3><b><u>Du, Y.</u></b>, Hao, L., Liu, Z., Chen, Y., Lei, Y., "Ergodic Rate Performance in Nonlinear Omnidirectional Coding MIMO-OFDM Systems." IEEE UEMCON 2019.</font>
 
 **<font size=3>Preprints</font>**
-* <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</u></b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.xxxxx (2025).</font>
+* <font size=3>Zhang, Y., Chen, X., Chen, K., <b><u>Du, Y.</u></b>#, Dang, X., et al, "The Dual-use Dilemma in LLMs: Do Empowering Ethical Capacities Make a Degraded Utility?." arXiv:2501.13952 (2025).</font>
 * <font size=3>Chen, K., Cao, H., Li, J., <b><u>Du, Y.</u></b>#, Guo, M., Zeng, X., et al, "An autonomous large language model agent for chemical literature data mining." arXiv:2402.12993 (2024).</font>
 * <font size=3>Chen, K., Li, J., Wang, K., <b><u>Du, Y.</u></b>#, Yu, J., Lu, J., et al, " Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis." arXiv:2311.10776 (2023)</font>
 
