@@ -19,17 +19,17 @@ author:
   pronouns         : "he/him"
   bio              : "Associate Professor of Applied Mathematics at UERJ. Researcher in nonlinear dynamical systems."
   location         : "Rio de Janeiro, Brazil"
-  employer         : "Rio de Janeiro State University (UERJ)"
+  employer         : "Rio de Janeiro State University"
   email            : "americo.cunha@uerj.br"
-  uri              : "https://americocunhajr.github.io"
+  uri              : "https://americocunha.org"
 
   # Academic Profiles
   googlescholar    : "https://scholar.google.com/citations?user=4r36RpoAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-8342-0363"
   researchgate     : "https://www.researchgate.net/profile/Americo-Cunha-Jr"
-  scopus           : "hhttps://www.scopus.com/authid/detail.uri?authorId=56068096100"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56068096100"
   semantic         : "https://www.semanticscholar.org/author/Americo-Cunha/47058383"
-  pubmed           : # Add if applicable
+  pubmed           : 
   hal              : "https://cv.hal.science/americo-cunha-jr"
   kudos            : "https://www.growkudos.com/profile/americo_cunha"
   webofscience     : "https://www.webofscience.com/wos/author/record/1767361"
@@ -41,11 +41,11 @@ author:
 
   # Social Media
   medium           : "https://medium.com/@americo.cunhajr"
-  linkedin         : "https://www.linkedin.com/in/americocunhajr"
+  linkedin         : "americocunhajr"
   twitter          : 
   mastodon         : 
   telegram         : 
-  youtube          : "https://www.youtube.com/@americocunhajr"
+  youtube          : "@americocunhajr"
   bluesky          : 
 
 # =====================================================
