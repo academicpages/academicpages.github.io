@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning (2022 Spring Archive)"
-collection: teaching
+collection: coursework
 type: "Undergraduate course"
-permalink: /teaching/deep-learning-2024
+permalink: /coursework/deep-learning-2024
 venue: "National Taiwan University"
 date: 2024-06-21
 location: "Taipei, Republic of China"
