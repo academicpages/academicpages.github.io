@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "<center>Yuyang Du</center>"
+  avatar           : "<center>profile.png</center>"
+  name             : "<center>A10Yuyang Du</center>"
   pronouns         : # example: "he/his"  
   bio              : "<center><font size=3>Ph.D student, Department of Information Engineering</font></center>"
   location         : #"Hong Kong"
