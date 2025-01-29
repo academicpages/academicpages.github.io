@@ -3,7 +3,10 @@
    ========================================================================== */
 
 $(document).ready(function(){
-   // Sticky footer
+  // These should be the same as the settings in _variables.scss
+  scssLarge = 925; // pixels
+
+  // Sticky footer
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
     },
@@ -20,57 +23,31 @@ $(document).ready(function(){
       bumpIt();
     }
   }, 250);
+  
   // FitVids init
-  $("#main").fitVids();
-
-  // init sticky sidebar
-  $(".sticky").Stickyfill();
-
-  var stickySideBar = function(){
-    var show = $(".author__urls-wrapper button").length === 0 ? $(window).width() > 1024 : !$(".author__urls-wrapper button").is(":visible");
-    // console.log("has button: " + $(".author__urls-wrapper button").length === 0);
-    // console.log("Window Width: " + windowWidth);
-    // console.log("show: " + show);
-    //old code was if($(window).width() > 1024)
-    if (show) {
-      // fix
-      Stickyfill.rebuild();
-      Stickyfill.init();
-      $(".author__urls").show();
-    } else {
-      // unfix
-      Stickyfill.stop();
-      $(".author__urls").hide();
-    }
-  };
-
-  stickySideBar();
-
-  $(window).resize(function(){
-    stickySideBar();
-  });
+  fitvids();
 
   // Follow menu drop down
-
   $(".author__urls-wrapper button").on("click", function() {
     $(".author__urls").fadeToggle("fast", function() {});
     $(".author__urls-wrapper button").toggleClass("open");
   });
 
-  // init smooth scroll
-  $("a").smoothScroll({offset: -20});
+  // Restore the follow menu if toggled on a window resize
+  jQuery(window).on('resize', function() {
+    if ($('.author__urls.social-icons').css('display') == 'none' && $(window).width() >= scssLarge) {
+      $(".author__urls").css('display', 'block')
+    }
+  });    
+
+  // init smooth scroll, this needs to be slightly more than then fixed masthead height
+  $("a").smoothScroll({offset: -65});
 
   // add lightbox class to all image links
   $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
-    // disableOn: function() {
-    //   if( $(window).width() < 500 ) {
-    //     return false;
-    //   }
-    //   return true;
-    // },
     type: 'image',
     tLoading: 'Loading image #%curr%...',
     gallery: {
