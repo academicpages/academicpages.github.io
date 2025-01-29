@@ -11,17 +11,21 @@ I'm a third year undergraduate student studying **Data Science** from the [Schoo
 
 Research Interest
 -----
-Currently, I'm exploring my research interest in topics of **Statistical Learning, Deep Learning and Large Language Models**, and I'm happy to share my progress with you on my personal page. 
+Currently, I'm working on speculative decoding for LLM and mixture-of-experts models. You can follow my research progress on my [blog posts](https://gongshukai.github.io/year-archive/).
+
+News
+-----
+ 🗓️ **Jan 2025**: *USPTO-LLM: A Large Language Model-Assisted Information-enriched Chemical Reaction Dataset* has been accepted to WWW 2025 resource track!
 
 Awards
 ----
-> **Academic Merit Scholarship**, Renmin University of China, 2023
+**Academic Merit Scholarship**, Renmin University of China, 2023
 
-> **The Jing Dong Premium Scholarship**, Renmin University of China, 2024
+**The Jing Dong Premium Scholarship**, Renmin University of China, 2024
 
-> **Beijing First Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2023
+**Beijing First Prize**, Contemporary Undergraduate Mathematical Contest in Modeling, 2023
 
-> **Meritorious Prize**, COMAP’s Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2023
+**Meritorious Prize**, COMAP’s Mathematical Contest in Modeling and Interdisciplinary Contest in Modeling, 2023
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5bhiqe95bae&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0" async="async"></script>
