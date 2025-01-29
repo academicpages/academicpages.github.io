@@ -16,7 +16,7 @@ repository               : "americocunhajr/academicpages.github.io" # Your GitHu
 author:
   avatar           : "americo.png"  # Update with your profile image filename in /images/
   name             : "Americo Cunha Jr"
-  pronouns         : "he/him"
+  pronouns         : 
   bio              : "Associate Professor of Applied Mathematics at UERJ. Researcher in nonlinear dynamical systems."
   location         : "Rio de Janeiro, Brazil"
   employer         : "Rio de Janeiro State University"
