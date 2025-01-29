@@ -18,7 +18,3 @@ This is an applied introductory course on **parallel computing** lectured by Yan
 | [Assignment 2: Satellite imagery computation accelerated with MPI](/files/parallel-computing-2024/hw2.pdf) | |
 | [Assignment 3: Satellite imagery processing accelerated with CUDA](/files/parallel-computing-2024/hw3.pdf) | |
 | [Project: Human-machine Collaborated Economic Development Measurement via Satellite Imagery](/files/parallel-computing-2024/final_report.pdf), [Slide](/files/parallel-computing-2024/final_slide.pdf) | |
-
-
-
-
