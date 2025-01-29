@@ -25,6 +25,7 @@ Teaching
 * <font size=3>Teaching Assistant, Linear Algebra (ENGG1120), CUHK, 2021 Spring</font>
 * <font size=3>Teaching Assistant, Computer Networks (IERG3310), CUHK, 2021 Fall /2023 Fall</font>
 * <font size=3>Teaching Assistant, Basic Analog and Digital circuits (IERG2060), CUHK, 2024 Spring</font>
+* <font size=3>Teaching Assistant, Information and Software Engineering Practice (IERG3080), CUHK, 2024 Fall</font>
 * <font size=3>Laboratory Tutor, Electronic Circuit Design Laboratory (IERG1810), CUHK, 2022 Fall/2023 Spring</font>
 * <font size=3>Laboratory Tutor, Digital Circuit (04811163), PKU, 2018 Fall</font>
 
