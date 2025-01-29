@@ -126,7 +126,7 @@ For NVIDIA A100 GPUs, MIG allows:
    - Containers see full GPU memory
    - Memory limits enforced by NVIDIA driver
 
-[Previous content remains the same...]
+
 
 ## Understanding the GPU Workflow in Kubernetes
 
@@ -211,7 +211,6 @@ Allocation → Usage → Release → Cleanup
    - GPU state reset
    - Resources marked available
 
-[Previous content remains the same...]
 
 ## Best Practices and Guidelines
 
