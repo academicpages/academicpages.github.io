@@ -26,15 +26,15 @@ author:
   avatar: "photo.png"
   github: "arduinotomasi"
   orcid: "http://orcid.org/0000-0001-5852-0728"
-  twitter: "ArduinoTomasi"
+  x: "ArduinoTomasi"  # Cambiado de twitter a X
 
-# Colecciones (solo necesarias para Research si usas colección)
+# Colecciones
 collections:
   research:
     output: true
     permalink: /research/:path/
 
-# Defaults (solo para páginas/posts)
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -64,18 +64,18 @@ social:
     - label: "ORCID"
       icon: "ai ai-orcid"
       url: "http://orcid.org/0000-0001-5852-0728"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/ArduinoTomasi"
+    - label: "X"  
+      icon: "fab fa-x-twitter"  
+      url: "https://x.com/ArduinoTomasi"
 
 google_site_verification: wIug60jUddg2K4FLuMzN-57Zea-AqH5K-AI4LzsSSzk
-twitter:
+x: 
   username: "ArduinoTomasi"
 
 # -------------------- #
 #    Estructura Final  #
 # -------------------- #
 # Páginas requeridas:
-# - _pages/research.md       -> /research/
-# - _pages/Pax.md            -> /Pax/
-# - _pages/year-archive.md   -> /year-archive/
+# - _pages/research.md
+# - _pages/Pax.md
+# - _pages/year-archive.md
