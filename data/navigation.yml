@@ -3,20 +3,9 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: ""
-    url: /talks/    
-
-  - title: ""
-    url: /teaching/    
+  - title: "The Pax Narca Files"
+    url: /Pax/    
     
-  - title: ""
-    url: /portfolio/
-        
   - title: "Blog"
     url: /year-archive/
     
-  - title: ""
-    url: /cv/
-    
-  - title: ""
-    url: /markdown/
