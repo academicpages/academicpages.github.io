@@ -188,9 +188,6 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
-  enemigo_del_estado:  
-    output: true       
-    permalink: /enemigo-del-estado/:path/  
 
 
 # Defaults
