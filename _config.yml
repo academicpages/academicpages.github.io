@@ -36,7 +36,7 @@ author: "Apil KC"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9313-040X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Apil-K-C"
   scopus           : # URL
 
@@ -58,7 +58,7 @@ author: "Apil KC"
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/apilkc/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author: "Apil KC"
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/arapilkc"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -130,7 +130,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : "https://x.com/arapilkc"
 facebook:
   username               :
   app_id                 :
