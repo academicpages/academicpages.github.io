@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "machine learning engineer. data scientist. researcher."
+title: "machine learning engineer."
 excerpt: "Who am I"
 author_profile: true
 redirect_from:
