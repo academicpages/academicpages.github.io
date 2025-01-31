@@ -119,7 +119,7 @@ Academic Work Experience
   
 Non-teaching part-time work experience
 ======
-* Developer for a virtual 3D laboratory learning environment for biomechanics courses at QMUL as a part of the Humanoid project, July-December 2021
+* Developer for a virtual 3D laboratory learning environment for biomechanics courses at Queen Mary University of London as a part of the Humanoid project, July-December 2021
 * Research engineer for developing a VR locomotion interface as a part of an EU funded project, May-July 2021
 * Research assistant in NCNR Project on user interfaces for robot teleoperation, 2019 and 2021
 
