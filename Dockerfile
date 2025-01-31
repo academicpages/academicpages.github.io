@@ -16,9 +16,6 @@ COPY Gemfile ./
 # Install bundler and dependencies
 RUN gem install bundler:2.3.26 && bundle install
 
-# Expose port 4000 for Jekyll server
-EXPOSE 4000
-
 # Command to serve the Jekyll site
-CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--watch"]
+CMD ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.yml,_config_docker.yml"]
 
