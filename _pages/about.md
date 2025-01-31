@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Earth observation data scientist"
-excerpt: "About me"
+title: "machine learning engineer. data scientist. researcher."
+excerpt: "Who am I"
 author_profile: true
 redirect_from:
   - /about/
