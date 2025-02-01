@@ -41,58 +41,13 @@ If you are running on Linux it may be necessary to install some additional depen
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
-Start by build the container:
+You can build and execute the container by running the following command in the repository:
 
 ```bash
-docker build -t jekyll-site .
+docker compose up
 ```
 
-Next, run the container:
-```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
-```
-
-To run the `docker run` command on Windows, you need to adjust the syntax for the volume mapping (`-v`) as Windows uses different path formats. Here's how to run your command on Windows:
-
-### Steps for Windows:
-1. **Check Docker Installation**: Ensure Docker is installed and running.
-2. **Adjust Path for Volume Mapping**:
-
-   - On Windows, replace `$(pwd)` with the full absolute path to your current directory. For example:
-
-     ```bash
-     -v C:\path\to\your\site:/usr/src/app
-     ```
-
-### Full Command Example:
-```bash
-docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
-```
-
-### Things to Keep in Mind:
-1. **Use PowerShell**:
-   - If you are using PowerShell, you can use `${PWD}` for the current directory:
-     ```bash
-     docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
-     ```
-
-2. **Enable Docker File Sharing**:
-   - If your volume doesn't map correctly, ensure Docker has access to the drive where your project resides. To do this:
-     - Open Docker Desktop.
-     - Go to *Settings* → *Resources* → *File Sharing*.
-     - Add your drive (e.g., `C:`).
-
-3. **Run in Command Prompt or PowerShell**:
-   - In *Command Prompt*:
-   
-     ```bash
-     docker run -p 4000:4000 --rm -v C:\path\to\your\site:/usr/src/app jekyll-site
-     ```
-   - In *PowerShell*:
-
-     ```bash
-     docker run -p 4000:4000 --rm -v ${PWD}:/usr/src/app jekyll-site
-     ```
+You should now be able to access the website from `localhost:4000`.
 
 # Maintenance
 
