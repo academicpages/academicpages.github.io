@@ -8,10 +8,13 @@ html {
 }
 
 body {
+  /* Set via _themes.scss */
+  color: var(--global-text-color);
+  background-color: var(--global-gb-color);
+
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
-  color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -64,7 +67,7 @@ p {
 u,
 ins {
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 1px solid var(--global-text-color);
   a {
     color: inherit;
   }
@@ -87,7 +90,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted $text-color;
+  border-bottom: 1px dotted var(--global-text-color);
 }
 
 /* blockquotes */
@@ -236,7 +239,7 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: var(--global-fig-caption-color);
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
