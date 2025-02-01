@@ -10,11 +10,11 @@ $light-gray                    : mix(#fff, $gray, 50%);
 $lighter-gray                  : mix(#fff, $gray, 90%);
 
 /* Color codes used for the site */
-$success-color              : #62c462;
-$warning-color              : #f89406;
 $danger-color               : #ee5f5b;
 $info-color                 : #2f7f93;
 $notice-color               : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
 
 /* Default light theme for the site */
 :root {
