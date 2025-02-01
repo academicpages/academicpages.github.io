@@ -164,7 +164,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--global-border-color);
 }
 
 
@@ -257,7 +257,7 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -281,7 +281,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      border-color: var(--global-border-color) transparent;
       display: block;
       z-index: 0;
     }
@@ -301,7 +301,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid var(--global-border-color);
 
       &:last-child {
         border-bottom: none;
@@ -363,7 +363,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid var(--global-border-color);
 }
 
 
@@ -377,7 +377,7 @@
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
-  border: 1px solid $border-color;
+  border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
@@ -404,7 +404,7 @@
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid var(--global-border-color);
     text-decoration-line: none !important;
 
     &:hover {
