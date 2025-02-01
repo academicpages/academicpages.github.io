@@ -88,7 +88,7 @@
       border-radius: 0;
 
       &:hover {
-        color: $link-color-hover;
+        color: var(--global-link-color-hover);
       }
 
       &.current {
@@ -136,7 +136,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      color: var(--global-link-color-hover);
     }
 
     &:first-child {

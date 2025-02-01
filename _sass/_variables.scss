@@ -49,8 +49,6 @@ $masthead-height            : 70px;
 $sidebar-screen-min-width   : 1024px;
 $sidebar-link-max-width     : 250px;
 
-
-
 /*
    Brand Colors
    ========================================================================== */
@@ -78,11 +76,6 @@ $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
-
-/* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
 
 /*
    Breakpoints

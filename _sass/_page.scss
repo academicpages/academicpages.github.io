@@ -272,7 +272,7 @@
 
   &:hover {
     text-decoration: none;
-    color: $link-color-hover;
+    color: var(--global-link-color-hover);
   }
 }
 
