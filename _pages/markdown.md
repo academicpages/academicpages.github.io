@@ -25,7 +25,7 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version GitHub built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -182,7 +182,7 @@ This is the regular text.[^1] This is more regular text.[^note]
 
 ### Anchor Tag (aka. Link)
 
-This is an example of a [link](http://github.com "Github").
+This is an example of a [link](http://github.com "GitHub").
 
 ### Abbreviation Tag
 
