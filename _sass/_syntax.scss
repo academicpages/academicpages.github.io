@@ -8,7 +8,7 @@ div.highlighter-rouge, figure.highlight {
   padding: 1em;
   border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
-  background-color: $code-background-color;
+  background-color: var(--global-code-background-color);
   box-shadow: $box-shadow;
   font-size: $type-size-4;
 

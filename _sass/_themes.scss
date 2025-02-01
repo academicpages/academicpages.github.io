@@ -11,8 +11,9 @@ $lighter-gray                  : mix(#fff, $gray, 90%);
 
 /* Default light theme for the site */
 :root {
-    --global-bg-color          : #fff;
-    --global-border-color      : #{$lighter-gray};
-    --global-fig-caption-color : mix(#fff,  #{$dark-gray}, 25%);
-    --global-text-color        : #{$dark-gray};
+    --global-bg-color                   : #fff;
+    --global-border-color               : #{$lighter-gray};
+    --global-code-background-color      : #fafafa;
+    --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-text-color                 : #{$dark-gray};
 }
