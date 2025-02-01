@@ -17,7 +17,7 @@
   font-weight: bold;
   text-align: center;
   text-decoration: none;
-  background-color: $primary-color;
+  background-color: var(--global-base-color);
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;

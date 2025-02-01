@@ -9,11 +9,21 @@ $darker-gray                   : mix(#000, $gray, 60%);
 $light-gray                    : mix(#fff, $gray, 50%);
 $lighter-gray                  : mix(#fff, $gray, 90%);
 
+/* Color codes used for the site */
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #2f7f93;
+$notice-color               : #7a8288;
+
 /* Default light theme for the site */
 :root {
+    --global-base-color                 : #{$gray};
     --global-bg-color                   : #fff;
     --global-border-color               : #{$lighter-gray};
     --global-code-background-color      : #fafafa;
     --global-fig-caption-color          : mix(#fff,  #{$dark-gray}, 25%);
+    --global-masthead-link-color        : #{$gray};
+    --global-masthead-link-color-hover  : mix(#000, #{$gray}, 25%);    
     --global-text-color                 : #{$dark-gray};
 }

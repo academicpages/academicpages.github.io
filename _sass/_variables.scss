@@ -52,16 +52,8 @@ $sidebar-link-max-width     : 250px;
 
 
 /*
-   Colors
+   Brand Colors
    ========================================================================== */
-
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #2f7f93;
-
-/* brands */
 $behance-color              : #1769FF;
 $bluesky-color              : #1184fe;
 $dribbble-color             : #ea4c89;
@@ -87,14 +79,10 @@ $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
 $xing-color                 : #006567;
 
-
 /* links */
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
-
 
 /*
    Breakpoints
