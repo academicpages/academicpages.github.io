@@ -3,32 +3,34 @@
 
 /*
  * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-
 @import 
+    "vendor/breakpoint/breakpoint",
+
     "themes",
     "variables",
+    
     "mixins",
     "vendor/susy/susy",
-
-    "reset",
-    "base",
-    
     "utilities",
-    "tables",
-    "buttons",
-    "notices",
-    "masthead",
-    "navigation",
-    "footer",
     "syntax",
-
-    "forms",
-    "page",
-    "archive",
-    "sidebar",
+    
+    "layout/archive",
+    "layout/base",
+    "layout/buttons",
+    "layout/footer",
+    "layout/forms",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/notices",
+    "layout/page",
+    "layout/reset",
+    "layout/sidebar",
+    "layout/tables",
     
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
