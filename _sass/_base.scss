@@ -308,10 +308,29 @@ nav {
   }
 }
 
-/*
-   Global animation transition
+/* ==========================================================================
+   ANIMATIONS
    ========================================================================== */
 
+   @-webkit-keyframes intro {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes intro {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+/* Global animation transition */
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
