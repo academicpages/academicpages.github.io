@@ -13,7 +13,7 @@
     "vendor/susy/susy",
     
     "themes",
-    "theme/default",
+    "theme/{{ site.site_theme | default: 'default' }}",
     "syntax",
 
     "include/mixins",
