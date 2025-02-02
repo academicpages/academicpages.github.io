@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: var(--global-text-color-light);
+      border: 1px solid var(var(--global-border-color));
       border-radius: 0;
 
       &:hover {
@@ -97,7 +97,7 @@
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: var(--global-text-color-light);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: var(--global-text-color-light);
+    border: 1px solid var(var(--global-border-color));
     border-radius: $border-radius;
 
     &:hover {
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: var(--global-text-color-light);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -373,7 +373,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: var(--global-text-color-light);
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -400,7 +400,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: var(--global-text-color-light);
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
@@ -409,7 +409,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: var(--global-link-color-hover);
     }
   }
 

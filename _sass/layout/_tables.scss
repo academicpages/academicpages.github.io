@@ -16,7 +16,7 @@ table {
 }
 
 thead {
-  background-color: $light-gray;
+  background-color: var(--global-border-color);
   border-bottom: 1px solid var(--global-border-color);
 }
 

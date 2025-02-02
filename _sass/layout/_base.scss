@@ -145,7 +145,7 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
   background: var(--global-code-background-color);
-  border: 1px solid $lighter-gray;
+  border: 1px solid var(--global-thead-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
   color: var(--global-code-text-color);
@@ -248,7 +248,7 @@ figcaption {
   a {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid var(--global-border-color );
     -webkit-transition: $global-transition;
     transition: $global-transition;
 

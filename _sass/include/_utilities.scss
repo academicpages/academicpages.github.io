@@ -485,7 +485,7 @@ body:hover .visually-hidden button {
 }
 
 a.reversefootnote {
-  color: $gray;
+  color: var(--global-text-color-light);
   text-decoration: none;
 
   &:hover {
