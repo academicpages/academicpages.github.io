@@ -335,3 +335,22 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ==========================================================================
+   PRINT STYLES
+   ========================================================================== */
+
+/*
+   Hide the following elements on print
+   ========================================================================== */
+
+   @media print {
+    .masthead,
+    .toc,
+    .page__share,
+    .page__related,
+    .ads,
+    .page__footer {
+      display: none;
+    }
+  }

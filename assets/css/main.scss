@@ -10,14 +10,14 @@
 
 @import 
     "vendor/breakpoint/breakpoint",
-
+    "vendor/susy/susy",
+    
     "themes",
     "variables",
-    
-    "mixins",
-    "vendor/susy/susy",
-    "utilities",
     "syntax",
+
+    "include/mixins",
+    "include/utilities",
     
     "layout/archive",
     "layout/base",
@@ -35,6 +35,5 @@
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands",
-    "vendor/magnific-popup/magnific-popup",
-    "print"
+    "vendor/magnific-popup/magnific-popup"
 ;
