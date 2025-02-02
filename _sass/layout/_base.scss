@@ -10,7 +10,7 @@ html {
 body {
   /* Set via _themes.scss */
   color: var(--global-text-color);
-  background-color: var(--global-gb-color);
+  background-color: var(--global-bg-color);
 
   margin: 0;
   padding: $masthead-height 0 0;
@@ -100,7 +100,7 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid var(--global-base-color);
+  border-left: 0.25em solid var(--global-border-color);
 
   cite {
     font-style: italic;
@@ -135,10 +135,11 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-p > code,
 a > code,
-li > code,
 figcaption > code,
+li > code,
+p > code,
+pre > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
@@ -147,6 +148,7 @@ td > code {
   border: 1px solid $lighter-gray;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
+  color: var(--global-code-text-color);
 
   &:before, &:after {
     letter-spacing: -0.2em;

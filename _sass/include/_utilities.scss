@@ -471,12 +471,12 @@ body:hover .visually-hidden button {
    ========================================================================== */
 
 .footnote {
-  color: mix(#fff, $gray, 25%);
+  color: var(--global-text-color-light);
   text-decoration: none;
 }
 
 .footnotes {
-  color: mix(#fff, $gray, 25%);
+  color: var(--global-text-color-light);
 
   ol, li, p {
     margin-bottom: 0;

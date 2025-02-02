@@ -4,7 +4,7 @@
 
 .masthead {
   position: fixed;
-  background: white;
+  background: var(--global-bg-color);
   border-bottom: 1px solid var(--global-border-color);
   height: $masthead-height;
   top: 0;
