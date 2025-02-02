@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: var(--global-primary-color);
+    background-color: var(--global-base-color);
     color: #fff;
     cursor: pointer;
     z-index: 100;
@@ -338,7 +338,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: var(--global-primary-color);
+    background: var(--global-base-color);
     border-radius: $border-radius;
 
     &:hover {
@@ -384,7 +384,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: var(--global-primary-color);
+    background: var(--global-base-color);
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
