@@ -18,6 +18,28 @@ Publications
 ---
 <ol>
   <li>
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">Accepted at <i>International Studies Quarterly</i></a>) 
+<details>
+  <summary><i>Abstract</i></summary>
+  
+  Technological breakthroughs often reshape patterns of international exchange and
+interdependence, posing unique challenges for governments. We argue that innovation
+reduces policy autonomy among national governments in two ways. First, lower barriers
+to entry create opportunities for forum-shopping by researchers,  rms, and other actors.
+This facilitates regulatory arbitrage as actors evade national rules by relocating to more
+permissive jurisdictions. Second, public unease about new technologies creates the
+potential for backlash against controversial applications. This backlash can spill across
+borders: accidents or misuse in one jurisdiction undermine support for research and
+commercial development elsewhere. Together, these processes can generate ine cient
+cycles of accelerated progress disrupted by damaging controversies. We test these
+mechanisms in the case of gene editing,  nding support for the theory in data on
+scienti c employment patterns and a survey experiment examining public backlash.
+Our results demonstrate that technological disruption increases interdependence and
+undermines states' ability to regulate in isolation.
+</details>
+</li>
+
+  <li>
     The possibilities and limits of international status: evidence from foreign aid and public opinion (with <a href="https://www.laurenleeferry.com/" >Lauren Ferry</a>) <i>Review of International Organizations</i> (<a href="https://link.springer.com/article/10.1007/s11558-024-09543-6">link</a>)  <a href="https://cobrienudry.github.io/files/status_Aug2023.pdf">ungated</a>
 <details>
   <summary><i>Abstract</i></summary>
@@ -41,28 +63,6 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
 <p>
   
 <h2 style="font-size:22px; ">Under review </h2>
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">Conditionally accepted at <i>International Studies Quarterly</i></a>) 
-<details>
-  <summary><i>Abstract</i></summary>
-  
-  Technological breakthroughs often reshape patterns of international exchange and
-interdependence, posing unique challenges for governments. We argue that innovation
-reduces policy autonomy among national governments in two ways. First, lower barriers
-to entry create opportunities for forum-shopping by researchers,  rms, and other actors.
-This facilitates regulatory arbitrage as actors evade national rules by relocating to more
-permissive jurisdictions. Second, public unease about new technologies creates the
-potential for backlash against controversial applications. This backlash can spill across
-borders: accidents or misuse in one jurisdiction undermine support for research and
-commercial development elsewhere. Together, these processes can generate ine cient
-cycles of accelerated progress disrupted by damaging controversies. We test these
-mechanisms in the case of gene editing,  nding support for the theory in data on
-scienti c employment patterns and a survey experiment examining public backlash.
-Our results demonstrate that technological disruption increases interdependence and
-undermines states' ability to regulate in isolation.
-</details>
-
-<p>
-<p>
   
 Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">Under review</a>) 
 <details>
@@ -127,12 +127,12 @@ How do politics map onto the environmental Kuznets curve (EKC)? According to the
 <p>
 <p>
   
-Gender and Opportunity in the Post-Carbon Economy (with <a href= "https://www.richardtclark.com/">Richard Clark</a> and <a href= "https://www.noahzucker.com/">Noah Zucker</a>)
+The personal and the personnel: how relationships between domestic and international bureaucratic shape foreign aid (with <a href= "http://lindsayrdolan.com/">Lindsay Dolan</a>)
 <details>
   <summary><i>Abstract</i></summary>
-  
-Women are typically more supportive of climate action than men. However, in fossil fuel communities, women align with men in resisting decarbonization. How can we make sense of this? We argue that differences in post-carbon economic opportunity explain variation in women's support for decarbonization. In areas reliant on fossil fuel industries intensive in low-skilled male labor, communities underinvest in education and gender-equitable welfare. This leaves women without the skills or time needed to find gainful employment as husbands in fossil fuel industries lose work, diminishing the appeal of decarbonization. Where investments of this sort are made, women are better able to find well-paying jobs as fossil fuel industries decline, increasing the appeal of the post-carbon economy. Men, who often see their social status as tied to the survival of local fossil fuel industries, are less swayed by changes in post-carbon economic opportunity. To support this argument, we combine local labor market data with original survey experiments fielded in coal, oil, and gas communities across the United States. Our findings shed light on the makeup of climate coalitions in advanced economies and highlight the importance of centering gender in just transition policymaking.
+The personal and the personnel: how relationships between domestic and international bureaucratic shape foreign aid
 
+International bureaucrats are mission-driven and cosmopolitan, representing the interests of their principals while implementing projects for international organizations. Yet, we know little about the counterparts of these individuals: the domestic bureaucrats in recipient countries partnering in the design and implementation of aid projects. Who are these actors? And how do the relationships between domestic and international bureaucrats affect aid? We collect novel data on proposed World Bank projects from the Bank’s Monthly Operational Summaries, including the name and position of domestic recipient government actors associated with the proposed projects. Mapping domestic bureaucrats across government offices over time, we test the association between prior experience with the World Bank and project outcomes.  We then analyze World Bank and domestic bureaucrat dyads to understand how working relationships between actors evolve across time, sector, and position. 
 
 </details>
 
