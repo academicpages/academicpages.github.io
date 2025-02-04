@@ -77,22 +77,21 @@ Research grant from the Government of Castile and Leon and the European Social F
 # PUBLICATIONS: Journal articles
 ===========
 
+Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (2025). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación, 15_(1), 125-151. https://doi.org/10.62008/ixc/15/01Pasaro
 
-Sáez-Linero, C., **Rodríguez-de-Dios, I.**, & Jiménez-Morales, M. (in press). Swipe or subscribe: Do youth really prefer an ad-free Instagram? _index.comunicación_
+Vinyals-Mirabent, S., Rodero, E., **Rodríguez-de-Dios, I.**, & Mas-Manchon, L. (2025). The impact of self-centered factors on skepticism towards CSR claims during large-scale external crises. _Communication & Society_ https://doi.org/10.15581/003.38.1.012
 
-Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (in press). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación_
-
-Vinyals-Mirabent, S., Rodero, E., **Rodríguez-de-Dios, I.**, & Mas-Manchon, L. (in press). The impact of self-centered factors on skepticism towards CSR claims during large-scale external crises. _Communication & Society_
-
-Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, Podcasts, and Music Streaming—An Electroencephalography and Physiological Analysis of Listeners’ Attitude, Attention, Memory, and Engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
+Bosshard, S., Rodero, E., **Rodríguez-de-Dios, I.**, &amp; Brickner, J. (2024). Radio, podcasts, and music streaming—An electroencephalography and physiological analysis of listeners’ attitude, attention, memory, and engagement. _Brain Sciences,14_(4), 330. https://doi.org/10.3390/brainsci14040330
 
 Rodero, E., Mas, L., Larrea, O. **Rodríguez-de-Dios, I.** &amp; de la Mota, C. (2024). The relevance of communication between Alzheimer’s patients and their caregivers. Effective prosody strategies to improve communication. _Health Communication,39_(12), 2906–2919. https://doi.org/10.1080/10410236.2023.2292830
 
-Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D Sound Power of Immersion Processing and Psychophysiological Effects of Binaural versus Stereo Audio Stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
+Rodero, E. &amp; **Rodríguez-de-Dios, I.** (2024). The 3D sound power of immersion processing and psychophysiological effects of binaural versus stereo audio stories. _Media Psychology, 27_(5),  715–736. https://doi.org/10.1080/15213269.2023.2281545
 
 **Rodríguez-de-Dios, I.** & González-de-Garay, B. (2024). Motherhood and sexuality in women’s football news: Effects on interest in the article, engagement and perception of the player. _International Journal of Sport Communication_ Advance online publication. https://doi.org/10.1123/ijsc.2024-0156. 
 
 **Rodríguez-de-Dios, I.** & Soto-Sanfiel, M. T. (2024). Reducing transphobia with the narratives of transgender youTubers. _Cyberpsychology: Journal of Psychosocial Research on Cyberspace, 18_(5). https://doi.org/10.5817/CP2024-5-2
+
+Vegas-Arenas, D. P. & **Rodríguez-de-Dios, I.** (2024). Redefiniendo la belleza: Efecto de las influencers de TikTok en la autoestima y la satisfacción corporal de las mujeres jóvenes. _ZER: Revista de Estudios de Comunicación, 29_(57), 127–146. https://doi.org/10.1387/zer.26781
 
 Rodero, E., **Rodríguez-de-Dios, I.**, Larrea, O. & Mas, L. (2023) Prosody variations to improve cognitive processing in Alzheimer’s patients. Alzheimer's & Dementia, 19(S19). https://doi.org/10.1002/alz.075530
 
@@ -143,6 +142,10 @@ Piñeiro-Naval, V., **Rodríguez-de-Dios, I.** &amp; Igartua, J. J. (2016). A du
 
 # Conference Papers and Poster Presentations
 ===========
+
+**Rodríguez-de-Dios, I.** (2024, October 23-25). From Scrolling to Learning: Exploring Social Media's Impact on Academic Performance Among Adolescents and Young People. [Paper presentation]. Teem’24 Technological Ecosystems for Enhancing Multiculturality, Alicante, Spain.
+
+Rodríguez-de-Dios, I. (2024, September 24-27). Social media and well-being in adolescents: A cross-sectional and longitudinal study. [Paper presentation]. 10th European Communication Conference ECREA, Ljubljana, Slovenia.
 
 **Rodríguez-de-Dios, I.** (2024, June 20-24). Social Media and Adolescents’ Well-being: The Role of Online Support, Online Victimization, and Personality Traits. [Paper presentation]. 74th Annual ICA Conference, Gold Coast, Australia.
 
