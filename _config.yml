@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. candidate ECD-UoA"
   location         : "Athens, Greece"
-  employer         : "National and Kapodistrian Unversity of Athens"
+  employer         : "UoA"
   uri              : # URL
   email            : "nikoskoul@ecd.uoa.gr" 
 
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/nickkoulopoulos1" 
+  linkedin         : "https://www.linkedin.com/in/nickkoulopoulos1/" 
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
