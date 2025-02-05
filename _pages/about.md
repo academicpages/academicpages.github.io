@@ -135,7 +135,7 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 ![](images/equidiff.gif){: .align-right width="200px"}
 **Equivariant Diffusion Policy**  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
-*CoRL 2024, Munich, Germany*, ***Best Paper Award Finalist***  
+*CoRL 2024, Munich, Germany*, ***Best Paper Award Finalist*** 🏆  
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2407.01812','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://youtu.be/xIFSx_NVROU?si=MaxsHmih6AnQKAVy','_blank')">Video</button>
