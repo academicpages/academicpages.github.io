@@ -5,32 +5,60 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## Journal Papers
+
 <ul>
-<li>CAP: Co-Adversarial Perturbation on Weights and Features for Improving Generalization of Graph Neural Networks<br />
-Haotian Xue, Kaixiong Zhou, Tianlong Chen, <b>Kai Guo</b>, Xia Hu, Yi Chang, Xin Wang<br /></li>
+<li>曾润喜,<b>杨璨</b>. 发展传播视域下算法媒介促进普惠数字乡村建设的机理与路径[J].西安交通大学学报(社会科学版),2024,44(06):121-129.<i>（CSSCI来源期刊）</i> <br /></li>
+<em>核心观点:</em> <span style="font-size: 0.9em;">普惠性是数字乡村建设的重要属性，算法媒介能够推动以机会平等和共同富裕为特征的普惠数字乡村建设。遵循媒介技术促进社会变革的发展传播逻辑，算法媒介从人、生产、生活和治理四个维度推动普惠数字乡村建设，实现了以人的全面延伸促进乡村主体数字融入，以万物互联加速乡村共享经济发展，以场景勾连助推乡村生活实践变迁，以关系重构催化乡村治理结构转型。</span>
+    </li>
+
+
+
+<li>曾润喜, <b>杨璨</b>. 数字政府传播：概念、关键议题与体系建设 [J].电子政务,2024(05):2-11.<i>（CSSCI来源期刊）</i> <br /></li>
+<em>核心观点:</em> <span style="font-size: 0.9em;">数字政府传播是数字政府在运行过程中的信息流动、主体互动及价值共享的活动与过程。数字政府传播与数字政府治理构成数字政府建设的两大内容，但数字政府传播研究一直处于被忽视的状态。面向数字政府建设新征程，数字政府传播应当在数字政府组织传播、数字政府人机传播、数字政府国际传播和数字政府公共关系等核心议题方面发挥建设性作用。做好数字政府传播工作，需要树立数字政府传播意识，打造数字政府战略传播体系，提升数字政府传播能力，增强数字政府整合传播效能。</span>
+    </li>
+
+
+
+<li>曾润喜, <b>杨璨</b>. 信息时代的政策茧房现象与政策传播效能提升路径研究 [J]. 中国行政管理, 2023, 39(09):132-141. <i>（CSSCI来源期刊）</i> <br /></li>
+<em>核心观点:</em> <span style="font-size: 0.9em;">政策茧房会阻碍或延缓政策的有效传播。从政策信息接触程度和政策合意程度两个维度可以将政策茧房的外在表现划分为“一无所知”“一知半解”“拒绝认知”和“反向认知”四种类型。政策茧房镶嵌于动态、整体和系统的政策传播过程，其生成机理受到复合因素的影响，包括政策传播主客体的编码解码行为，政策议题及其传播话语框架的建构方式，政策传播渠道及其传播效果差异，政策传播的政治环境与媒介技术环境等。在智能传播语境中，消解政策茧房提升政策传播效能有以下路径：优化政策传播机制模式，实施整合式政策传播，促进政策传播智能化转型，开展多层次政策科普等。</span>
+    </li>
+
+
+
+<li>曾润喜, <b>杨璨</b>. 数字政府传播: 赋能数字中国建设的新议程 [J]. 电子政务, 2023(6):15-18. <i>（CSSCI来源期刊）</i> <br /></li>
+<em>核心观点:</em> <span style="font-size: 0.9em;">数字政府传播是数字政府治理过程中的关键一环。在深度媒介化的数字社会，数字政府传播犹如数字政府的“血管”，决定着数字公共信息资源的流动配置效能，进而对政府与社会的关系乃至数字政府的整体运行状态都具有重要影响。当前，数字信息技术不断引发传播革命，数字政府建设面临全新的传播格局，需要深刻认识和理解数字政府传播的重要性，把握数字政府传播的核心议题，促进我国数字政府治理能力现代化，赋能数字中国建设。</span>
+    </li>
+
+
+
+<li>曾润喜, <b>杨璨</b>. 重建本地用户连接融入基层社会治理：县级融媒体发展路径研究 [J]. 新闻与写作, 2021(05):22-28. <i>（CSSCI来源期刊）</i> <br /></li>
+<em>核心观点:</em> <span style="font-size: 0.9em;">基层是县级融媒体和基层社会治理的同心圆,要加快推进县级融媒体融入基层社会治理。近40年,县级媒体历经辉煌又陷入衰落,关键在于与本地群众和基层政府失去连接。新时代县级融媒体的发展进路,在于重建本地用户连接、融入基层社会治理。不仅要从"喉舌"变成"喉舌"+"耳目"+"参谋"+"尖兵",更要从摇旗呐喊的"啦啦队"变成上场奔跑的"运动员"。基于媒体深度融合发展,实现基层社会治理模式创新,增强社会认同是基础、重塑服务体系是出路、提升社会参与是关键。</span>
+    </li>
 </ul>
 
 
-
-## Conference/Journal Papers (* indicates equal contributions)
-<ul>
-<li>Investigating Out-of-Distribution Generalization of GNNs: An Architecture Perspective<br />
-<b>Kai Guo</b>, Hongzhi Wen, Wei Jin, Yaming Guo, Jiliang Tang, Yi Chang.<br />		
-<i>KDD, 2024.</i><br /></li>
-
-<li>Breaking the Curse of Dimensional Collapse in Graph Contrastive Learning: A Whitening Perspective<br />
-Yang Tao, <b>Kai Guo</b>, Yizhen Zheng, Shirui Pan, Xiaofeng Cao, Yi Chang<br />
-<i>Information Sciences, 2023.</i><br /></li> 
-
-<li>Taming Over-Smoothing Representation on Heterophilic Graphs<br />
-<b>Kai Guo</b>, Xiaofeng Cao, Zhining Liu, Yi Chang.<br />
-<i>Information Sciences, 2023.</i><br /></li>
-
-<li>Out-of-Distribution Generalization of Federated Learning via Implicit Invariant Relationships<br />
-Yaming Guo*, <b>Kai Guo*</b>, Xiaofeng Cao, Tieru Wu, Yi Chang.<br />
-<i>ICML, 2023</i><br /></li>
-
-<li>Orthogonal graph neural networks<br />
-<b>Kai Guo</b>, Kaixiong Zhou, Xia Hu, Yu Li, Yi Chang, Xin Wang.<br />		
-<i>AAAI, 2022.</i><br /></li>
+## Research Reports 
 </ul>
+<li>曾润喜, <b>杨璨</b>. "县长抖音"政务短视频运营逻辑与新媒体社会责任研究 [R]. 新媒体社会责任蓝皮书：中国新媒体社会责任研究报告（2020-2021）, 北京: 社会科学文献出版社, 2021:133-152. <br /></li>
+</ul>
+
+
+## Conference Papers
+
+### 2024
+- ****Yang, C.**** *Transformation of Policy Communication Based on Artificial Intelligence.* Mobile Studies Congress 2024, University of Nottingham Ningbo China, Nov 17 (Online).
+
+### 2023
+- **曾润喜、**杨璨**** *算法媒介赋能普惠数字乡村建设的机理、挑战与发展路径.* 第五届中国政治传播研究学术论坛, May 12-14, 中国传媒大学 (北京 & 雄安).  
+  - 应邀参会: 2023中国国际大数据产业博览会, May 27-28, 贵阳.
+- **曾润喜、**杨璨**** *新媒体事件对地方政府注意力分配的影响模式研究.* 首届新闻传播学优秀博士生“弘毅学术论坛”, Dec 3, 获三等奖.
+
+### 2022
+- **Zeng, R., & **Yang, C.**** *Why does the public tend to misunderstand policy messages? ‘Policy Cocoon Effect’.* Mobile Studies Congress 2022, University of Nottingham Ningbo China, Dec 9-11 (Online).
+
+### 2021
+- **Zeng, R., & **Yang, C.**** *Internet Use and Internet Addiction among Chinese Elderly: Evidence from CGSS.* Mobile Studies Congress 2021, University of Nottingham Ningbo China, Nov 12-14 (Online).
+- **曾润喜、**杨璨**** *新媒体事件对地方政府注意力分配的影响模式研究.* 2021中国行政管理学会年会, Dec 4, 北京 (获优秀奖).
+
