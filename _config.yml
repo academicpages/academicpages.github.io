@@ -13,7 +13,7 @@ title                    : "Nikos Koulopoulos"
 title_separator          : "-"
 name                     : &name "Nikos Koulopoulos"
 description              : &description "Linguist-Ph.D. Candidate"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://nickkei187.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
