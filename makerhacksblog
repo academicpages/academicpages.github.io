@@ -1,0 +1,36 @@
+---
+title: 'Competing at Makerhacks'
+date: 2025-2-2
+permalink: /posts/2012/08/blog-post-2/
+tags:
+  - cool posts
+  - category1
+  - category2
+---
+
+# Makerhacks at Sentry: Building a Wi-Fi-Controlled Robot in 24 Hours  
+
+I competed in **Makerhacks**, hosted at Sentry, taking on the robotics challenge. With an **ESP32**, two **TT motors**, a **motor driver**, and a custom-designed **chassis modeled in SolidWorks**, I set out to build a **Wi-Fi-controlled robot**—all in just 24 hours.  
+
+## The Build  
+
+The core of my project was an **ESP32-based robot** that could be remotely controlled via a **web interface**. I wrote a server in C++ that allowed users to send movement commands using **WASD keys** in a browser. The ESP32 processed these commands and controlled the motors accordingly.  
+
+### Here’s a breakdown of how it worked:  
+
+- **Hardware:** ESP32, TT motors, motor driver, and a 3D-printed chassis.  
+- **Software:** A web server running on the ESP32, handling keyboard inputs for directional movement.  
+- **Controls:**  
+  - **"W"** to move forward  
+  - **"A"** to turn left  
+  - **"S"** to move backward  
+  - **"D"** to turn right  
+  - The robot stopped when no keys were pressed.  
+
+I coded **all night**, debugging **Wi-Fi connectivity issues** and fine-tuning **motor response times**. Despite the lack of sleep, I successfully got the robot working just in time for the demo.  
+
+## The Outcome  
+
+By the end of the hackathon, my robot was **fully functional**, responding smoothly to user input. Competing in the robotics challenge pushed my limits in both **hardware and software**, and the adrenaline of the deadline made it an **unforgettable experience**.  
+
+Would I do it again? **Absolutely.** Maybe with more sleep next time.  
