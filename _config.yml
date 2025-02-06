@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ac_profile.jpeg"
+  avatar           : "ac_profile.png"
   name             : "Nikos Koulopoulos"
   pronouns         :  
   bio              : "Ph.D. candidate ECD-UoA"
