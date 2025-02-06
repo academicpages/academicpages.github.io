@@ -22,9 +22,9 @@ repository               : "canyang66/canyang66.github.io"
 author:
   # Biographic information
   avatar           : "profile_yc.png"
-  name             : "Can Yang(杨璨)"
-  pronouns         : # example: "she/her"  
-  bio              : "四年级博士生"
+  name             : "Can Yang(杨 璨)
+  bio              : "PhD student"
+  research_interests : "communication of public policy"
   location         : "China"
   employer         : "Chongqing University"
   uri              : # URL
