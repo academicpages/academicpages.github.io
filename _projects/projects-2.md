@@ -1,5 +1,5 @@
 ---
-title: "Seated VR Locomotion"
+title: "Seated VR Locomotion (PhD Thesis)"
 excerpt: "Locomotion in VR is an important problem for enhancing the capabilities of VR interaction that is limited by factors such as workspace, motion sickness and motion tracking. This projects presents a seated VR locomotion system which allows users to control their avatar movement in VR using foot gestures and receive terrain-based haptic feedback 
 <br/><img src='/images/VRLocomotionGIF.gif'>" 
 collection: projects
