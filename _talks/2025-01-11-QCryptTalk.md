@@ -91,13 +91,85 @@ A simple case where partial information is leaked is if we reuse the one-time ba
 
 OTP is the only completely provably secure method of transmission which we have formed so far. We haven't even come across any other method which is provably secure. 
 
-This now brings us to QKD. The entire purpose of QKD is to transmit this one time pad from one party to another party or come up with some schemes such that both of them can construct the same one time pad. That is all the goal.
+This now brings us to QKD. The entire purpose of QKD is to transmit this one time pad from one party to another party or come up with some schemes such that both of them can construct the same one time pad. That is the goal.
 
-(Cont.)
+(Show TEMPEST slide)
+This is a slight detour, but it would give an example as to the kind of attacks you see in QKD as well. During WW2, the OTP and the plaintext were combined in an electromchanical manner. So these systems generated a considerable amount of electromagnetic waves. A few decades later, researcher were able to devise a system that extracted the plaintext just from the thermal radiation given off. This is similar to typing on smartphone and logging the user's keyboard using the accelerometer. I have attached a link to this paper too.
+
+Back on topic, So the way we go about provable security is by establishing impossibility proofs or no-go theorems. There are three of them which I'll be looking at today, which seem to be the most important and coincidentally the most basic. The first is the no-cloning theorem.
+
+(Show no-cloning slides)
+This is quite a simple proof that holds for pure states.
+However you have to show that it's not possible at all within the formalism of quantum information.
+
+We can extend it to mixed states via purification. What is purification? It is simply the method of converting a mixed state in a smaller space to a pure state in a larger space. So it can be done in the following manner.
+(Show purification slide)
+
+Finally, we can show that no non-unitary operator can satisfy this as well. We do this via Stinespring Dilation.
+(Show Stinespring slide)
+
+One thing to note is that this theorem does not hold if you have multiple copies of the same state. This will be important later, so just keep that in mind.
+
+Great, so the next no-go theorem we are going to look at is called the indistinguishability of non-orthogonal states on measurement.
+(Show slide)
+This basically means given two quantum states, if they are non-orthogonal, that is if their inner product is not zero (and not 1, trivially), then we cannot tell the state which we have received.
+
+The proof of this is slightly complicated. I could go into it if someone is interested, but I'll have to do that at the end of the talk if I have enough time.
+For those who already have taken the QCQI course, they would definitely know about the B92 protocol. The issue with B92 which depend on non-orthogonal states is that even though we cannot always be sure deterministically which state we have received or intercepted, we can always define an optimal set of POVMs that maximize our probability of guessing correctly. So it's called Helstrom measurement. I won't go into it but it is possible to do it with 93.3% probability for B92.
+
+The third no-go theorem states that non-orthogonal states cannot be distinguished without disturbance. So not only can we not distinguish them deterministically in the first place, if we were to even attempt to do so, that would bring about some changes in the output states. So in other words, there is no way of going about with the process of determination without affecting the states itself.
+(Show proof slide)
+The proof is quite simple as well, which is why I put it here. If there exists some unitary operation such that it can transfer information of one state from one system to another state of another system, then it must affect the first state as well in the first system. If it does not affect it, then there is no way of extracting information.
+
+So to summarize all of the no-go theorems in a very informal manner:
+(Show slide)
 
 
+Now that we have all the basics in place, we can look at the first ever QKD protocol and by far the most popular. It's called the BB84 protocol.
+(Show BB84 slide)
+Charles Bennett and Giles Brassard came up with the protocol and they presented in a conference in IISc. Here, I'll be just referring to the states as polarization of light.  I can characterize them as horizontal, vertical, diagonal, and anti-diagonal.
+I will call anti-diagonal as H plus V and diagonal as H minus V. Normalized of course. So these are the four states which we have.
+
+H and V means Z basis, A and D means X basis. For our purposes here, it's just nomenclature. And within these basis, H means 0, V means 1, A means 0, D means 1. So the way the protocol works is quite simple. Alice randomly decides to send a pulse in one state. This could be H, V, A, or D.
+Bob randomly guesses the basis in which Alice has sent the state in.
+Bob has access to two polarizing beamsplitters which work in the following manner.
+(Draw)
+Bob also has access to two detectors. The detectors do not move. All that Bob is doing is switching in and out the PBS. This is the way in which Bob is guessing what basis is the state sent by Alice in.
+We can also label it the detectors in the following manner. "This" denotes one and the other detector denotes zero. So the detection results are kept secret and only Bob knows about it. Alice and Bob also share another classical channel. This is an insecure channel. So the way the protocol works is the following.
+
+(Show sample run)
+First step is that Alice randomly generates a bit string. How does it generate a completely random bit string? It uses a quantum random number generator. What is a quantum random number generator? I will not go into it, but it uses and relies on quantum mechanical phenomena to randomly generate numbers. So, this could be for example, the shot noise of a very weak coherent force of light. I'll get back to this point shortly. 
+So after you've generated the bit string, Alice generates another bit string. This time for deciding which basis to send the string in. So we can let z for this new basis, for this new bit string, we can choose z to 0 to denote, let's say, the z and x to denote, let's say, 1. So with this system, Alice starts sending light buses encoding accordingly and sends them in a periodic manner. Bob has also in the meantime generated randomly a bit string and uses this bit string to choose which PBS to place. So they also use this classical communication channel to synchronize the system such that if Alice is, let's say, sending the fifth bit or the fifth state, Bob accordingly should be applying its fifth guess corresponding to his own bit string, okay? So this process goes on, Bob receives, applies a PBS, some detection is made, and keeps recording this process, okay?
+
+After this is done, Bob publicly declares what its basis choice selection sequence was, the sequence in which it applied the PBS. And Alice publicly declares which of the guesses by Bob were correct and not correct.
+And in this process, if their bases match, they keep this secret bit.
+This filtering process works because if the bases match, then whatever Bob has detected is exactly what Alice had sent. If it does not match, then through simple basis decomposition. So that is, you can write a state A as H plus V. It is a superposition of H and V, so you could have had either H click or V click. You did not know for sure. So you discard this. And the rest is kept.
+Now, Alice and Bob also want to figure out If there was an eavesdropper between the light pulse channel. This is verified by Bob randomly declaring some of the secret bits. If the secret bits do not match what Alice has sent even if the bases match, that means there has been some interference by attacker Eve due to the three no-go theorems which we have derived earlier.
+
+A simple attack is called the intercept and resend. So you have Eve who intercepts this light pulse which is being sent. Randomly guesses which basis it was sent in and records the state. It assumes that it has guessed correctly and prepares the same state corresponding to its measurement and sends it to Bob. So if Eve follows this process then it gets away with the probability (3/4)^N. N is for the number of secured bits which are revealed above. However as N gets large the probability of Eve not slipping up decreases exponentially and so with a high probability you can rule out the presence of Eve by this process.
+
+I have a simple question for you. Why should Bob measure in the first place? Once Bob receives the collection of qubits or photon pulses from Alice, Bob could simply store them until Alice declares the basis used for encoding after which Bob can make the measurements. That way, there would be no guessing which Bob has to do in the first place. So what is the issue with that? Take a minute
+
+(Wait, see if anyone answers)
+
+So the problem with this is that, since you have assumed Eve to be infinitely powerful, Eve can simply trap and store the light pulses sent when Alice sends the basis encoding through the classical channel. Eve immediately reads what is sent through the classical channel, applies the required measurement along the correct basis, on the light pulse, generates the desired photons matching the correct basis and sends it to Bob, such that there is no indiscernible time delay between both channels.
+
+One question you might have is how do both of the parties rule out Eve intercepting the data being sent in the classical channel? The simple answer is that you don't because that is not what the protocol is concerned with the first place. No cryptographic protocol can prevent this. Let's say you have the most secure cryptographic protocol possible. Eve can simply intercept what both parties are sending and resend whatever it wants to do. The original authors of the paper suggested a method is called the Wegman Carter Message Authentication Code to detect active eavesdropping in the classical channel, but it has some caveats such as both parties already sharing a secret key, so not useful here.
+
+So far I've been referring to the states as light pulses. For the complete security of this protocol, we have to be using single photons and single photons only to make sure it is provably secure. The reason is that if it is a multi-photon pulse, then Eve can simply use a beam splitter to extract some of the photons and store it. And when the basis declaration takes place, Eve can just measure in those bases.  
+
+Now this is where the practical constraints come into place. Let's say we want to implement BB84. I think at best what we have is SPDC or quantum dots. Now the issue is, it takes around 10 to the power of 6 versus to have a high probability of getting one such process taking place for SPDC. As a result, since the conversion rate is very low, the corresponding key rates which we're generating is also very low.
+
+Some terminology. Key rate or secure key rate is the number of secured bits generated per second, And this itself is derived from the ratio of secured bit generated per detected pulse. So we can get a rough estimate about the conversion rate if let's say our secured key rate is 1 bit per second and if our initial signal which was sending from Alice is let's say 1000 photons per second, or 1 per millisecond.
+
+Now the issue is to generate 1000 photons per second, you'll have to have a source which is pumping in photons at a much higher rate just to generate 1000 photons per second from the SPDC source. So that is the issue with single photon generators currently. The conversion rates themselves are quite low. This along the simple fact that our technology of optical fibers is not advanced enough such that a single photon can be transmitted over tens of kilometers without a high probability of it being absorbed. Means that if you're already having a force which generates photons at a very low rate, it would make our secure keyrate extremely low.
   
+We work around this by using sources which can already produce process at a high rate and then attenuating these pulses such that their intensities become very, very low. So in the end, we have a weak coherent pulse, WCP. The reason why we can still use this process is that weak coherent pulses can be modeled as a Poissonian source.
+(WCP slide)
+The way the intensity is modeled is using number states. So number states for our purposes here is just number of photons in each pulse and this is directly analogous to what you would have done in quantum harmonic oscillators with the raising and lowering operators. So 'a^dagger' is the creation operator, 'a' is the annihilation operator and every analysis you do that applies here. So number state operator is a^dagger a.
+Proof follows from coherent states being an eigenvector of the raising and lowering operators.
 
+Just to give you a general scale of how weak the pulse has to be, the mean photon number is set to around 0.5 photons per pulse. This is done through some numerical simulations to decide what is the best possible mean photon number to set. And 0.5 infers that roughly 90% of the time we do not see any pulse, in that time bin, 8% of time we see one photon and 2% of time we see multi-photon pulses. The only reason why we can use weak coherent forces which have quite a decent probability of emitting multi-photon pulses is due to something called the decoy state technique, which I can get to in the very end if I have time.
 
 
 
