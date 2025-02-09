@@ -125,7 +125,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </style>
 
 ![](images/haojie_match.png){: .align-right width="200px"}
-**MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies**  
+<a href="https://haojhuang.github.io/match_page/" style="text-decoration: none; color: inherit;"><strong>MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies</strong></a>  
 Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Platt<sup>†</sup>  
 *ICRA 2025, Atlanta, USA*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/match_page/','_blank')">Webpage</button>
@@ -133,7 +133,7 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 <br>
 
 ![](images/equidiff.gif){: .align-right width="200px"}
-**Equivariant Diffusion Policy**  
+<a href="https://equidiff.github.io/" style="text-decoration: none; color: inherit;"><strong>Equivariant Diffusion Policy</strong></a>  
 **Dian Wang**, Stephen Hart, David Surovik, Tarik Kelestemur, Haojie Huang, Haibo Zhao, Mark Yeatman, Jiuguang Wang, Robin Walters, Robert Platt  
 *CoRL 2024, Munich, Germany*, ***Best Paper Award Finalist*** 🏆  
 <button class="button-4" onclick="window.open('https://equidiff.github.io/','_blank')">Webpage</button>
@@ -144,7 +144,7 @@ Haojie Huang, Haotian Liu, **Dian Wang**, Robin Walter<sup>†</sup>, Robert Pla
 <br>
 
 ![](images/boce_orbit.png){: .align-right width="200px"}
-**OrbitGrasp: SE(3)-Equivariant Grasp Learning**  
+<a href="https://orbitgrasp.github.io" style="text-decoration: none; color: inherit;"><strong>OrbitGrasp: SE(3)-Equivariant Grasp Learning</strong></a>  
 Boce Hu, Xupeng Zhu\*, **Dian Wang\***, Zihao Dong\*, Haojie Huang\*, Chenghao Wang\*, Robin Walters, Robert Platt  
 *CoRL 2024, Munich, Germany*  
 <button class="button-4" onclick="window.open('https://orbitgrasp.github.io','_blank')">Webpage</button>
@@ -153,7 +153,7 @@ Boce Hu, Xupeng Zhu\*, **Dian Wang\***, Zihao Dong\*, Haojie Huang\*, Chenghao W
 <br>
 
 ![](images/haojie_imagine.png){: .align-right width="200px"}
-**IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies**  
+<a href="https://haojhuang.github.io/imagine_page/" style="text-decoration: none; color: inherit;"><strong>IMAGINATION POLICY: Using Generative Point Cloud Models for Learning Manipulation Policies</strong></a>  
 Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, Haotian Liu, Mingxi Jia, Robert Platt, Robin Walters  
 *CoRL 2024, Munich, Germany*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/imagine_page/','_blank')">Webpage</button>
@@ -162,21 +162,21 @@ Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, 
 <br>
 
 ![](images/mingxi_gem.png){: .align-right width="200px"}
-**Open-vocabulary Pick and Place via Patch-level Semantic Maps**  
+<a href="https://arxiv.org/pdf/2406.15677" style="text-decoration: none; color: inherit;"><strong>Open-vocabulary Pick and Place via Patch-level Semantic Maps</strong></a>  
 Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
 *Preprint*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
 <br>
 
 ![](images/arsh_offline.png){: .align-right width="200px"}
-**Equivariant Offline Reinforcement Learning**  
+<a href="https://arxiv.org/pdf/2406.13961" style="text-decoration: none; color: inherit;"><strong>Equivariant Offline Reinforcement Learning</strong></a>  
 Arsh Tangri, Ondrej Biza, **Dian Wang**, David Klee, Owen Howell, Robert Platt  
 *Preprint*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.13961','_blank')">PDF</button>
 <br>
 
 ![](images/haojie_iclr24.png){: .align-right width="200px"}
-**Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D**  
+<a href="https://haojhuang.github.io/fourtran_page/" style="text-decoration: none; color: inherit;"><strong>Fourier Transporter: Bi-Equivariant Robotic Manipulation in 3D</strong></a>  
 Haojie Huang, Owen Lewis Howell\*, **Dian Wang\***, Xupeng Zhu\*, Robert Platt<sup>†</sup>, Robin Walters<sup>†</sup>  
 *ICLR 2024, Vienna, Austria*  
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/fourtran_page/','_blank')">Webpage</button>
@@ -185,7 +185,7 @@ Haojie Huang, Owen Lewis Howell\*, **Dian Wang\***, Xupeng Zhu\*, Robert Platt<s
 <br>
 
 ![](images/haojie_ijrr.png){: .align-right width="200px"}
-**Leveraging Symmetries in Pick and Place**  
+<a href="https://arxiv.org/pdf/2308.07948.pdf" style="text-decoration: none; color: inherit;"><strong>Leveraging Symmetries in Pick and Place</strong></a>  
 Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *The International Journal of Robotics Research. 2023*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2308.07948.pdf','_blank')">PDF</button>
@@ -193,7 +193,7 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Pl
 <br>
 
 ![](images/ice_example.png){: .align-right width="200px"}
-**A General Theory of Correct, Incorrect, and Extrinsic Equivariance**  
+<a href="https://arxiv.org/pdf/2303.04745.pdf" style="text-decoration: none; color: inherit;"><strong>A General Theory of Correct, Incorrect, and Extrinsic Equivariance</strong></a>  
 **Dian Wang**, Xupeng Zhu, Jung Yeon Park, Mingxi Jia, Guanang Su, Robert Platt, Robin Walters  
 *NeurIPS 2023, New Orleans, Louisiana, USA*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2303.04745.pdf','_blank')">PDF</button>
@@ -202,7 +202,7 @@ Haojie Huang, **Dian Wang**, Arsh Tangri, Robin Walters<sup>†</sup>, Robert Pl
 <br>
 
 ![](images/hai_corl23.png){: .align-right width="200px"}
-**Equivariant Reinforcement Learning under Partial Observability**  
+<a href="https://sites.google.com/view/equi-rl-pomdp" style="text-decoration: none; color: inherit;"><strong>Equivariant Reinforcement Learning under Partial Observability</strong></a>  
 Hai Huu Nguyen, Andrea Baisero, David Klee, **Dian Wang**, Robert Platt, Christopher Amato  
 *CoRL 2023, Atlanta, Georgia, USA*  
 <button class="button-4" onclick="window.open('https://sites.google.com/view/equi-rl-pomdp','_blank')">Webpage</button>
@@ -211,7 +211,7 @@ Hai Huu Nguyen, Andrea Baisero, David Klee, **Dian Wang**, Robert Platt, Christo
 <br>
 
 ![](images/xupeng_ar.jpg){: .align-right width="200px"}
-**On Robot Grasp Learning Using Equivariant Models**  
+<a href="https://zxp-s-works.github.io/equivariant_grasp_site/" style="text-decoration: none; color: inherit;"><strong>On Robot Grasp Learning Using Equivariant Models</strong></a>  
 Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt  
 *Autonomous Robots. 2023*  
 <button class="button-4" onclick="window.open('https://zxp-s-works.github.io/equivariant_grasp_site/','_blank')">Webpage</button>
@@ -220,7 +220,7 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 <br>
 
 ![](images/iclr23.gif){: .align-right width="200px"}
-**The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry**  
+<a href="https://pointw.github.io/extrinsic_page/" style="text-decoration: none; color: inherit;"><strong>The Surprising Effectiveness of Equivariant Models in Domains with Latent Symmetry</strong></a>  
 **Dian Wang**, Jung Yeon Park, Neel Sortur, Lawson L.S. Wong, Robin Walters<sup>†</sup>, Robert Platt<sup>†</sup>  
 *ICLR 2023, Kigali, Rwanda,* ***Spotlight***  
 <span style="color:DarkGray"><em>NeurIPS 2023 Workshop on Symmetry and Geometry in Neural Representations</em></span>  
@@ -233,7 +233,7 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 <br>
 
 ![](images/mingxi_icra23.png){: .align-right width="200px"}
-**SEIL: Simulation-augmented Equivariant Imitation Learning**  
+<a href="https://saulbatman.github.io/project/seil/" style="text-decoration: none; color: inherit;"><strong>SEIL: Simulation-augmented Equivariant Imitation Learning</strong></a>  
 Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters, Robert Platt  
 *ICRA 2023, London, UK*  
 <span style="color:DarkGray"><em>CoRL 2022 Workshop on Sim-to-Real Robot Learning</em></span>  
@@ -243,7 +243,7 @@ Mingxi Jia\*, **Dian Wang\***, Guanang Su, David Klee, Xupeng Zhu, Robin Walters
 <br>
 
 ![](images/haojie_icra23.png){: .align-right width="200px"}
-**Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection**  
+<a href="https://haojhuang.github.io/edge_grasp_page/" style="text-decoration: none; color: inherit;"><strong>Edge Grasp Network: Graph-Based SE(3)-invariant Approach to Grasp Detection</strong></a>  
 Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt  
 *ICRA 2023, London, UK*  
 <span style="color:DarkGray"><em>CoRL 2022 Workshop on Sim-to-Real Robot Learning</em></span>  
@@ -254,7 +254,7 @@ Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt
 <br>
 
 ![](images/rss22.png){: .align-right width="200px"}
-**On-Robot Learning With Equivariant Models**  
+<a href="https://pointw.github.io/equi_robot_page/" style="text-decoration: none; color: inherit;"><strong>On-Robot Learning With Equivariant Models</strong></a>  
 **Dian Wang**, Mingxi Jia, Xupeng Zhu, Robin Walters, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
 <button class="button-4" onclick="window.open('https://pointw.github.io/equi_robot_page/','_blank')">Webpage</button>
@@ -265,7 +265,7 @@ Haojie Huang, **Dian Wang**, Xupeng Zhu, Robin Walters, Robert Platt
 <br>
 
 ![](images/hai_corl22.png){: .align-right width="200px"}
-**Leveraging Fully Observable Policies for Learning under Partial Observability**  
+<a href="https://sites.google.com/view/cosil-corl22" style="text-decoration: none; color: inherit;"><strong>Leveraging Fully Observable Policies for Learning under Partial Observability</strong></a>  
 Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt  
 *CoRL 2022, Auckland, New Zealand*  
 <button class="button-4" onclick="window.open('https://sites.google.com/view/cosil-corl22','_blank')">Webpage</button>
@@ -276,7 +276,7 @@ Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt
 <br>
 
 ![](images/bulletarm.png){: .align-right width="200px"}
-**BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework**  
+<a href="https://arxiv.org/pdf/2205.14292.pdf" style="text-decoration: none; color: inherit;"><strong>BulletArm: An Open-Source Robotic Manipulation Benchmark and Learning Framework</strong></a>  
 **Dian Wang\***, Colin Kohler\*, Xupeng Zhu, Mingxi Jia, Robert Platt  
 *ISRR 2022, Geneva, Switzerland*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2205.14292.pdf','_blank')">PDF</button>
@@ -284,7 +284,7 @@ Hai Huu Nguyen, Andrea Baisero, **Dian Wang**, Christopher Amato, Robert Platt
 <br>
 
 ![](images/equi_transporter.png){: .align-right width="200px"}
-**Equivariant Transporter Network**  
+<a href="https://haojhuang.github.io/etp_page/" style="text-decoration: none; color: inherit;"><strong>Equivariant Transporter Network</strong></a>  
 Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
 <span style="color:DarkGray"><em>RLDM 2022</em></span>  
@@ -295,7 +295,7 @@ Haojie Huang, **Dian Wang**, Robin Walters, Robert Platt
 <br>
 
 ![](images/rss_grasp.jpeg){: .align-right width="200px"}
-**Sample Efficient Grasp Learning Using Equivariant Models**  
+<a href="https://zxp-s-works.github.io/equivariant_grasp_site/" style="text-decoration: none; color: inherit;"><strong>Sample Efficient Grasp Learning Using Equivariant Models</strong></a>  
 Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt  
 *RSS 2022, New York City, New York, USA*  
 <span style="color:DarkGray"><em>ICRA 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
@@ -306,7 +306,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 <br>
 
 ![](images/iclr22_drawer.gif){: .align-right width="200px"}
-**SO(2)-Equivariant Reinforcement Learning**  
+<a href="https://pointw.github.io/equi_rl_page/" style="text-decoration: none; color: inherit;"><strong>SO(2)-Equivariant Reinforcement Learning</strong></a>  
 **Dian Wang**, Robin Walters, Robert Platt  
 *ICLR 2022, Virtual,* ***Spotlight***  
 <span style="color:DarkGray"><em>RLDM 2022</em></span>  
@@ -320,7 +320,7 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 <br>
 
 ![](images/corl21.png){: .align-right width="200px"}
-**Equivariant Q Learning in Spatial Action Spaces**  
+<a href="https://pointw.github.io/equi_q_page/" style="text-decoration: none; color: inherit;"><strong>Equivariant Q Learning in Spatial Action Spaces</strong></a>  
 **Dian Wang**, Robin Walters, Xupeng Zhu, Robert Platt  
 *CoRL 2021, London, UK*  
 <span style="color:DarkGray"><em>RSS 2022 Workshop on Scaling Robot Learning, Spotlight</em></span>  
@@ -333,14 +333,14 @@ Xupeng Zhu, **Dian Wang**, Ondrej Biza, Guanang Su, Robin Walters, Robert Platt
 <br>
 
 ![](images/Paladyn21.png){: .align-right width="200px"}
-**Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems**  
+<a href="https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html" style="text-decoration: none; color: inherit;"><strong>Design Guidelines for Human-Robot Interaction with Assistive Robot Manipulation Systems</strong></a>  
 Alexander Wilkinson, Michael Gonzales, Patrick Hoey, David Kontak, **Dian Wang**, Noah Torname, Amelia Sinclaire, Zhao Han, Jordan Allspaw, Robert Platt, Holly Yanco  
 *Paladyn, Journal of Behavioral Robotics. 2021*  
 <button class="button-4" onclick="window.open('https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0023/html','_blank')">Paper</button>
 <br>
 
 ![](images/aamas21.png){: .align-right width="200px"}
-**Action Priors for Large Action Spaces in Robotics**  
+<a href="https://arxiv.org/pdf/2101.04178.pdf" style="text-decoration: none; color: inherit;"><strong>Action Priors for Large Action Spaces in Robotics</strong></a>  
 Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Wong  
 *AAMAS 2021, London, UK*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2101.04178.pdf','_blank')">PDF</button>
@@ -348,7 +348,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <br>
 
 ![](images/asrse3.png){: .align-right width="200px"}
-**Policy learning in SE (3) action spaces**  
+<a href="https://pointw.github.io/asrse3-page/" style="text-decoration: none; color: inherit;"><strong>Policy learning in SE (3) action spaces</strong></a>  
 **Dian Wang**, Colin Kohler, Robert Platt  
 *CoRL 2020, Boston, Massachusetts, USA*  
 <button class="button-4" onclick="window.open('https://pointw.github.io/asrse3-page/','_blank')">Webpage</button>
@@ -359,7 +359,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <br>
 
 ![](images/scooter.png){: .align-right width="200px"}
-**Towards Assistive Robotic Pick and Place in Open World Environments**  
+<a href="https://pointw.github.io/scooter-page/" style="text-decoration: none; color: inherit;"><strong>Towards Assistive Robotic Pick and Place in Open World Environments</strong></a>  
 **Dian Wang**, Colin Kohler, Andreas ten Pas, Alexander Wilkinson, Maozhi Liu, Holly Yanco, Robert Platt  
 *ISRR 2019, Hanoi, Vietnam*  
 <button class="button-4" onclick="window.open('https://pointw.github.io/scooter-page/','_blank')">Webpage</button>
@@ -370,11 +370,11 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 \* indicates equal contribution; <sup>†</sup> indicates equal advising.  
 
 ## Service
-Organizer: RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
-Reviewer: IJRR2024. ICML 2024. ICLR 2023-2024. NeurIPS 2023. ICRA 2019, 2022-2024. CoRL 2022-2024. IROS
+**Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
+**Reviewer:** RSS 2025. IJRR 2024. ICML 2024. ICLR 2023-2025. NeurIPS 2023. ICRA 2019, 2022-2024. CoRL 2022-2024. IROS
 2021, 2023. RAL 2022-2024. T-RO 2022.
 
 ## Education
-+ (2020-Present) PhD student, Computer Science, Northeastern University, Boston, USA
++ (2020-Present) Ph.D., Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
 + (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
