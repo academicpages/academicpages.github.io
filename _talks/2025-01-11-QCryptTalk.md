@@ -20,17 +20,17 @@ In this talk I will be introducing the field of quantum cryptography: what it is
 Formally, I will be covering one time pads, BB84, DPS-QKD, MDI-QKD, the 3 no-go theorems which led to QKD, and anything else which may seem appropriate.
 
 **Transcript:**
-(Some details and context for the transcript: It may read in an overtly verbose manner since I prepared it while preparing for the talk. The talk was meant for a mixed audience- first and second years who do not have an idea of linear algebra or QM, 3rd and 4th years who have taken a course in FQM (Foundational QM) or QCQI (Quantum Computing and Quantum Information), and maybe 1-2 PhDs who have covered the full formalism of QKD. As a result, the talk branches out slowly and moves onto more advanced topics once the basics have been laid out. I intended to structure it in a manner that everyone gained something from the talk, while making it interactive as well. I've added the transcript since I thought it was a nifty way to cover everying. Feel free to use the material here for your own presentations.
+(Some details and context for the transcript: It may read in an overtly verbose manner since I prepared it while preparing for the talk. The talk was meant for a mixed audience- first and second years who do not have an idea of linear algebra or QM, 3rd and 4th years who have taken a course in FQM (Foundational QM) or QCQI (Quantum Computing and Quantum Information), and maybe 1-2 PhDs who have covered the full formalism of QKD. As a result, the talk branches out slowly and moves onto more advanced topics once the basics have been laid out. I intended to structure it in a manner that everyone gained something from the talk, while making it interactive as well. I've added the transcript since I thought it was a nifty way to cover everything. Feel free to use the material here for your presentations.
 PS. It's probably too long, and can be split into two talks.)
 
 
-Hey everyone, thank you for coming today. As the abstract states, I will be going through quantum cryptography, what it is, how it works, why it works, and how do we implement it.
+Hey everyone, thank you for coming today. As the abstract states, I will be going through quantum cryptography, what it is, how it works, why it works, and how we implement it.
 
 I'll also explain the structure of the talk itself.
 (Structure and pacing)
-So before we start off, I just want to have a general understanding of what the crowd is like.
+So before we start, I just want to have a general understanding of what the crowd is like.
 
-Just to make clear, I'm not here to come and talk on a stage. I will share the slides and there's nothing new in any of the information I'll be saying. So if you want to see it in YouTube video, you could very well do that. I'm pretty sure the person in the YouTube video will do a better job. What my advantage here is that I'm able to interact with you and vice versa. So there is no point if you aren't willing to interact. Hopefully a different person every time. And if you think they're any doubts that you have, no matter how bad or basic you may think them to be, be rest assured that I've struggled with it for a longer time. If you wish for me to elaborate on any point, please ask. I'll make it clear when I've just added something for illustration purposes here.
+Just to make clear, I'm not here to come and talk on a stage. I will share the slides and there's nothing new in any of the information I'll be saying. So if you want to see it in a YouTube video, you could very well do that. I'm pretty sure the person in the YouTube video will do a better job. My advantage here is that I'm able to interact with you and vice versa. So there is no point if you aren't willing to interact. Hopefully a different person every time. And if you think there are any doubts that you have, no matter how bad or basic you may think them to be, rest assured that I've struggled with it for a longer time. If you wish for me to elaborate on any point, please ask. I'll make it clear when I've just added something for illustration purposes here.
 
 So how many of you have a basic understanding of linear algebra and quantum mechanics? How many of you are familiar with bracket notation? How many of you know what cryptography is?\
 (Choose one person who raised for the last question and ask them to say what they think cryptography is.)\
@@ -50,52 +50,52 @@ Sure, now this seems like quite a specific constraint to put, so could there pos
 
 A different type of cryptographic protocol which does not involve encryption and decryption is the following. It's quite a basic and insecure one, but I think it does the job.
 (Diagram consists of a straight horizontal line from A to C, the line has a large gap in the middle. Above the gap is a horizontal line that fits perfectly, below the gap is a NOT gate. The gap region + the above and below components are labelled as B.)
-One party wishes to transfer to another some bit string of zeros and ones. And let's say the other party does not have any apparatus to measure it. But there is a third party which has the ability to measure it. So how does A communicate to B without C snooping? It can do in the following manner. A just sends it as it is, and B randomly decides to either let it pass as it is or apply a NOT gate. Let's say A is sending these bits one at a time and in some periodic manner it will. Then all that C has to do is declare the results. And C declares the results, A knows what B has done, and B knows what A has done. C has no info.
-Believe it or not some of the protocols we will be looking at today are kind of based on this matter, even though this particular one is hopelessly insecure since any person can snoop on to the message being transmitted from A to B.
+One party wishes to transfer to another some bit string of zeros and ones. And let's say the other party does not have any apparatus to measure it. But there is a third party that can measure it. So how does A communicate to B without C snooping? It can be done in the following manner. A just sends it as it is, and B randomly decides to either let it pass as it is or apply a NOT gate. Let's say A is sending these bits one at a time and in some periodic manner it will. Then all that C has to do is declare the results. And C declares the results, A knows what B has done, and B knows what A has done. C has no info.
+Believe it or not, some of the protocols we will be looking at today are kind of based on this matter, even though this particular one is hopelessly insecure since any person can snoop on the message being transmitted from A to B.
 
 
-Lastly, we have the Diffie-Hellman key exchange as well, in which two parties are able to agree on a shared key without them passing the common secret key to each other.
-This just serves for name dropping in case you're interested in checking it out later. I'll give a few moments just to stare at the screen.
+Lastly, we have the Diffie-Hellman key exchange as well, in which two parties can agree on a shared key without them passing the common secret key to each other.
+This just serves for name-dropping in case you're interested in checking it out later. I'll give a few moments just to stare at the screen.
 (Show Diffie-Hellman slide)
 
-So now we have seen two different processes in which there is no requirement for encryption and decryption, and one in which a key is obtained in an indirect manner.
+So now we have seen two different processes in which there is no requirement for encryption and decryption, and one in which a key is obtained indirectly.
 
-Why is this important? Because quantum cryptography relies on this in an indirect manner. I have not explained as to what cryptography is, so a basic definition of cryptography is communication or any method of facilitating communication between two or more parties in a secure manner such that it eliminates any possible probability of eavesdropping and if there are eavesdroppers they cannot decipher.
+Why is this important? Because quantum cryptography indirectly relies on this. I have not explained what cryptography is, so a basic definition of cryptography is communication or any method of facilitating communication between two or more parties in a secure manner such that it eliminates any possible probability of eavesdropping, and if there are eavesdroppers they cannot decipher.
 
-Majority of the current work is focused towards the third approach in which you have parties sharing a key. And we'll come to see why shortly. So before that, let us talk about prime factorization. If you haven't heard about it already, there's a simple rundown.
+Majority of the current work is focused on the third approach in which you have parties sharing a key. And we'll come to see why shortly. So before that, let us talk about prime factorization. If you haven't heard about it already, there's a simple rundown.
 
-Two primes p and q can be multiplied to get a larger number. That is easy to do. Trying to factorise any given number into these primes is tough to do. By easy it means it can be done polynomial time. By tough it means it cannot be done in polynomial time. So polynomial time is simply the number of steps for our understanding here. As numbers become bigger and bigger, we can simply choose a number which has a very low probability of being factorized even if, say, the entire Earth's computing power was used for thousands of years only for this purpose. The caveat here is that we have not found any classical solution which does not do it in non-polynomial time. It hasn't been a mathematical proof so far that there cannot exist a classical algorithm which is linear in time. Same problem with all other classical cryptographic protocols.
+Two primes p and q can be multiplied to get a larger number. That is easy to do. Trying to factorise any given number into these primes is tough to do. By easy it means it can be done polynomial time. By tough it means it cannot be done in polynomial time. So polynomial time is simply the number of steps for our understanding here. As numbers become bigger and bigger, we can simply choose a number that has a very low probability of being factorized even if, say, the entire Earth's computing power was used for thousands of years only for this purpose. The caveat here is that we have not found any classical solution that does not do it in non-polynomial time. There hasn't been a mathematical proof so far that there cannot exist a classical algorithm that is linear in time. Same problem with all other classical cryptographic protocols.
 
-About 20 years ago you had Shor's algorithm which factors in polynomial time. So that led to huge flurry in quantum computers and quite recently you had Apple and Signal implement post quantum cryptography, It was a modified version of the Diffie-Hellman protocol mentioned earlier. So PQC are algorithms or cryptographic protocols which cannot be cracked in a reasonable time using quantum computers.
+About 20 years ago you had Shor's algorithm which factors in polynomial time. So that led to a huge flurry in quantum computers and quite recently you had Apple and Signal implement post-quantum cryptography, It was a modified version of the Diffie-Hellman protocol mentioned earlier. So PQC are algorithms or cryptographic protocols that cannot be cracked in a reasonable time using quantum computers.
 
 QKD does not answer the same question.
 
 What I will be talking about today, that is QKD, will deal with none of these problems. In QKD, when testing a protocol, you might as well assume that the eavesdropper or snooper can perform 10^10^10^10 operations a second.
 
-If your protocol cannot withstand the attacks of an infinitely powerful entity who follows the laws of physics so far as you know it, the protocol fails. That is the objective in QKD. The incredible part is that we do have algorithms which can withstand such attacks.
+If your protocol cannot withstand the attacks of an infinitely powerful entity that follows the laws of physics so far as you know it, the protocol fails. That is the objective of QKD. The incredible part is that we do have algorithms that can withstand such attacks.
 
 So QKD, unlike classical cryptography and PQC does not rely on any hardness problems. All it relies on is that quantum mechanics is valid.
 
-Due to this approach, it also removes any possibility of backdoors. So some of you might have already heard about the dual encryption cryptography scandal in the mid 2000s. You have protocols which do not utilize QKD as well such as the Y-00 protocol but those are not unconditionally secure.
+Due to this approach, it also removes any possibility of backdoors. So some of you might have already heard about the dual encryption cryptography scandal in the mid-2000s. You have protocols that do not utilize QKD as well such as the Y-00 protocol but those are not unconditionally secure.
 
-Now for the reason why it is called quantum cryptography. Quantum cryptography is just classical cryptography protocols with some minor tinkering in terms of the formalism or some quantum mechanical implementation. That is all. It's not inherently different. If that is the case, then we need to have some classical technique which is provably secure and we do have that it's called a one-time pad. One-time pad is quite simple in understanding actually.
+Now for the reason why it is called quantum cryptography. Quantum cryptography is just a classical cryptography protocol with some minor tinkering in terms of formalism or some quantum mechanical implementation. That is all. It's not inherently different. If that is the case, then we need to have some classical technique that is provably secure and we do have that it's called a one-time pad. A one-time pad is quite simple to understand actually.
 
 (Show slide of OTP)
-So this is what the procedure of one-time pads are. Now the question arises as to how do you prove its security.
+So this is what the procedure of one-time pads is. Now the question arises as to how you prove its security.
 
 (Show slide of security)
 So this is how we're defining the condition for perfect security. And it makes intuitive sense as well. What we're trying to say is that just because we're trying to show that there is no correlation between the ciphertext and the message. If there is, then there is some way to maybe extract some information on what the message could possibly be, even if not completely.
-It is a nice exercise to prove this. You already know everything which is required, which goes into proving it, which is just simple probability and simple conditional probability. There are no complicated expressions and all, but you still have to come up with a way to construct the proof. So that is left as an exercise.
+It is a nice exercise to prove this. You already know everything that is required, which goes into proving it, which is just simple probability and simple conditional probability. There are no complicated expressions and all, but you still have to come up with a way to construct the proof. So that is left as an exercise.
 
 (Show reuse of OTP slide)
-A simple case where partial information is leaked is if we reuse the one-time bar. So, reusing the one-time bar would give you this. And this is because C1 XOR C2 is equal to M1 XOR M2. So, it is quite easy to make good guess as to what the first two messages were.
+A simple case where partial information is leaked is if we reuse the one-time bar. So, reusing the one-time bar would give you this. And this is because C1 XOR C2 is equal to M1 XOR M2. So, it is quite easy to make a good guess as to what the first two messages were.
 
-OTP is the only completely provably secure method of transmission which we have formed so far. We haven't even come across any other method which is provably secure. 
+OTP is the only completely provably secure method of transmission that we have formed so far. We haven't even come across any other method which is provably secure. 
 
-This now brings us to QKD. The entire purpose of QKD is to transmit this one time pad from one party to another party or come up with some schemes such that both of them can construct the same one time pad. That is the goal.
+This now brings us to QKD. The entire purpose of QKD is to transmit this one-time pad from one party to another party or come up with some schemes such that both of them can construct the same one-time pad. That is the goal.
 
 (Show TEMPEST slide)
-This is a slight detour, but it would give an example as to the kind of attacks you see in QKD as well. During WW2, the OTP and the plaintext were combined in an electromchanical manner. So these systems generated a considerable amount of electromagnetic waves. A few decades later, researcher were able to devise a system that extracted the plaintext just from the thermal radiation given off. This is similar to typing on smartphone and logging the user's keyboard using the accelerometer. I have attached a link to this paper too.
+This is a slight detour, but it would give an example of the kind of attacks you see in QKD as well. During WW2, the OTP and the plaintext were combined in an electromechanical manner. So these systems generated a considerable amount of electromagnetic waves. A few decades later, researchers were able to devise a system that extracted the plaintext just from the thermal radiation given off. This is similar to typing on a smartphone and logging the user's keyboard using the accelerometer. I have attached a link to this paper too.
 
 Back on topic, So the way we go about provable security is by establishing impossibility proofs or no-go theorems. There are three of them which I'll be looking at today, which seem to be the most important and coincidentally the most basic. The first is the no-cloning theorem.
 
