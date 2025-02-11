@@ -9,6 +9,11 @@ redirect_from:
 published: true
 ---
 
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+
+
 I am a Ph.D. candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at [Northeastern University](https://www.northeastern.edu). I am working in [The Helping Hands Lab](https://www2.ccs.neu.edu/research/helpinghands/) and [Geometric Learning Lab](http://www.robinwalters.com/index.html), advised by Professor [Robert Platt](https://www.khoury.northeastern.edu/people/robert-platt/) and Professor [Robin Walters](https://www.khoury.northeastern.edu/people/robin-walters/). My research interests include Machine Learning and Robotics. Recently, my research has focused on applying equivariant machine learning methods to robotic manipulation to improve learning efficiency.
 
 **I am currently on the job market, primarily seeking opportunities in academia. Please see my [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) and [Research Statement](dian_research_statement.pdf). If you believe I would be a good fit for your department, feel free to contact me at wang dot dian at northeastern dot edu.**
@@ -123,6 +128,20 @@ document.addEventListener("DOMContentLoaded", function() {
   display: none;
 }
 </style>
+
+![](images/haibo_hep.png){: .align-right width="200px"}
+<a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
+Haibo Zhao\*, **Dian Wang\*<sup><i class="fa-regular fa-envelope"></i></sup>**, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
+<br>
+
+![](images/xupeng_c2f.png){: .align-right width="200px"}
+<a href="https://arxiv.org/pdf/2502.01773" style="text-decoration: none; color: inherit;"><strong>Coarse-to-Fine 3D Keyframe Transporter</strong></a>  
+Xupeng Zhu, David Klee\*, **Dian Wang\***, Boce Hu, Haojie Huang, Arsh Tangri, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.01773','_blank')">PDF</button>
+<br>
 
 ![](images/haojie_match.png){: .align-right width="200px"}
 <a href="https://haojhuang.github.io/match_page/" style="text-decoration: none; color: inherit;"><strong>MATCH POLICY: A Simple Pipeline from Point Cloud Registration to Manipulation Policies</strong></a>  
@@ -367,7 +386,7 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=ZimZlsJTaTU','_blank')">Video</button>
 <br>
 
-\* indicates equal contribution; <sup>†</sup> indicates equal advising.  
+\* indicates equal contribution; <sup><i class="fa-regular fa-envelope"></i></sup> indicates corresponding author; <sup>†</sup> indicates equal advising.  
 
 ## Service
 **Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
