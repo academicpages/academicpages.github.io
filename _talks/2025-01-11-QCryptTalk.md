@@ -20,7 +20,8 @@ In this talk I will be introducing the field of quantum cryptography: what it is
 Formally, I will be covering one time pads, BB84, DPS-QKD, MDI-QKD, the 3 no-go theorems which led to QKD, and anything else which may seem appropriate.
 
 **Transcript:**
-(Some details and context for the transcript: It may read in an overtly verbose manner since I prepared it while preparing for the talk. The talk was meant for a mixed audience- first and second years who do not have an idea of linear algebra or QM, 3rd and 4th years who have taken a course in FQM (Foundational QM) or QCQI (Quantum Computing and Quantum Information), and maybe 1-2 PhDs who have covered the full formalism of QKD. As a result, the talk branches out slowly and moves onto more advanced topics once the basics have been laid out. I intended to structure it in a manner that everyone gained something from the talk, while making it interactive as well. I've added the transcript since I thought it was a nifty way to cover everying. Feel free to use the material here for your own presentations.)
+(Some details and context for the transcript: It may read in an overtly verbose manner since I prepared it while preparing for the talk. The talk was meant for a mixed audience- first and second years who do not have an idea of linear algebra or QM, 3rd and 4th years who have taken a course in FQM (Foundational QM) or QCQI (Quantum Computing and Quantum Information), and maybe 1-2 PhDs who have covered the full formalism of QKD. As a result, the talk branches out slowly and moves onto more advanced topics once the basics have been laid out. I intended to structure it in a manner that everyone gained something from the talk, while making it interactive as well. I've added the transcript since I thought it was a nifty way to cover everying. Feel free to use the material here for your own presentations.
+PS. It's probably too long, and can be split into two talks.)
 
 
 Hey everyone, thank you for coming today. As the abstract states, I will be going through quantum cryptography, what it is, how it works, why it works, and how do we implement it.
@@ -31,20 +32,20 @@ So before we start off, I just want to have a general understanding of what the 
 
 Just to make clear, I'm not here to come and talk on a stage. I will share the slides and there's nothing new in any of the information I'll be saying. So if you want to see it in YouTube video, you could very well do that. I'm pretty sure the person in the YouTube video will do a better job. What my advantage here is that I'm able to interact with you and vice versa. So there is no point if you aren't willing to interact. Hopefully a different person every time. And if you think they're any doubts that you have, no matter how bad or basic you may think them to be, be rest assured that I've struggled with it for a longer time. If you wish for me to elaborate on any point, please ask. I'll make it clear when I've just added something for illustration purposes here.
 
-So how many of you have a basic understanding of linear algebra and quantum mechanics? How many of you are familiar with bracket notation? How many of you know what cryptography is? 
-(Choose one person who raised for the last question and ask them to say what they think cryptography is.)
+So how many of you have a basic understanding of linear algebra and quantum mechanics? How many of you are familiar with bracket notation? How many of you know what cryptography is?\
+(Choose one person who raised for the last question and ask them to say what they think cryptography is.)\
 (Someone answers what it is. Ask the same person if they think that it always involves encryption and decryption.)
 
-Fine, okay. In that case, can anyone give me an example of a cryptographic scheme in which we do not have the process of encryption and decryption? Even if the scheme is horrendously insecure, I don't mind it. I just want to see if you can think of an example.
-(Give them a minute.) Take a minute. There's no hurry. I prefer if someone who doesn't already know it can do so but it's fine either way.
+Fine, okay. In that case, can anyone give me an example of a cryptographic scheme in which we do not have the process of encryption and decryption? Even if the scheme is horrendously insecure, I don't mind it. I just want to see if you can think of an example.\
+(Give them a minute.) Take a minute. There's no hurry. I prefer if someone who doesn't already know it can do so but it's fine either way.\
 (Let's see if yes or no, and if yes then ask them to come on the board and show.)
 
 I have two examples here. The first is what is called a zero-knowledge proof. So, a zero-knowledge proof is when you're trying to communicate to the other person reg. info about a particular statement. Namely, that the resulting statement is true or false without the other party learning anything else about the statement.
 
-So for example, let's see the following:
+So for example, let's see the following:\
 (Slides for ZKP. Explain and ask through them.)
 
-Sure, now this seems like quite a specific constraint to put, so could there possibly be any real-world applications?
+Sure, now this seems like quite a specific constraint to put, so could there possibly be any real-world applications?\
 (Show the Nature paper slide)
 
 A different type of cryptographic protocol which does not involve encryption and decryption is the following. It's quite a basic and insecure one, but I think it does the job.
@@ -171,7 +172,81 @@ Proof follows from coherent states being an eigenvector of the raising and lower
 
 Just to give you a general scale of how weak the pulse has to be, the mean photon number is set to around 0.5 photons per pulse. This is done through some numerical simulations to decide what is the best possible mean photon number to set. And 0.5 infers that roughly 90% of the time we do not see any pulse, in that time bin, 8% of time we see one photon and 2% of time we see multi-photon pulses. The only reason why we can use weak coherent forces which have quite a decent probability of emitting multi-photon pulses is due to something called the decoy state technique, which I can get to in the very end if I have time.
 
+This is the first practical problem we have seen so far. Another problem which we will be tackling now is the usage of polarization. The "ordinary" fibers used for telecom purposes are not polarization maintaining. Polarization maintaining fibers need to have birefringence modelled into their structure, making them much more expensive than telecom fibers. Since the goal is to use QKD over large distances, it becomes unfeasable to use pol-maintaining fibers. Also, it is currently a short term goal to incorporate QKD signals into the existing telecom infrastructure, so polarization encoding will simply not do.
 
+This gave rise to DPS QKD. DPS stands for differential phase shift.
+(Show T-12 slide)
+Here, we effectively send two pulses in quick succession (call it a pair) and the protocol involves Alice constantly sending such pair. Between the two pulses of a pair, we fix a certain phase shift. And similar to how we did in BB84, the phase shift is what can be considered as encoding the information. This here is the T-12 protocol implementation.
+If both the parties apply the phase shift corresponding to correct bases, Bob is able to deduce Alice's intended bit. It follows the same BB84 protocol process in which the bases are declared, common classical channel, etc. 
+
+(Show IM diagram)
+I don't know exactly how the intensity modulator works. It works on a principle called Quantum Confined Stark Effect in which an electric field incident onto the material causes the materials absorption and emission spectrum to change. Alternatively, we can model it as an interferometer setup where the phase in one of the arms is set to 0 or π and we use one of the output ports of the interferometer for the signal generation.
+We can call the part which is in the front the early pulse, and the part which is in the end as the late pulse. 
+Now through some clever engineering, we can choose any possible relationship between the early and the late pulse. So it basically becomes E + e^iθ L (normalized).
+(Write on the board the 4 states which are being used in T-12)
+The phase encoding is done using an EOPM (electro-optic phase modulator). The refractive index of the material changes when an electric field is applied to it.
+(Show slide of EOPM shift)
+This is a possible setup through which a phase shift of π/2 is encoded.
+
+The final detection is obtained after Bob applies a random phase shift (corresponding to the 4 chosen shifts) and then the pulses are "combined" and the final detection is obtained via interference. 
+(Show slide for interference)
+This is an example when the shifts match. As we can see, in the "middle" time-bin we see constructive interference at one detector, and destructive at another.
+There is a 50% probability that we'll get a detection in the first time bin or the third time bin and so we can't use those cases but if we get a detection in the second time bin then we know that it must be a resultant of guessing the basis correctly.  
+
+If the bases do not match, then in the middle time bin we will see the faces of the pulses differing by pi by 2 and pi by 2. And so as a result, there is not complete constructive or destructive interference. So Bob cannot backtrack and determine what was the secret bit which Alice wanted to communicate.  
+
+So that is it for DPS QKD. You also have entanglement based protocols but I won't be getting into it because generating entangled photon pairs in a reliable manner is still problematic.  
+
+So, then we should be done, right? Why do we need anything further? 
+The issue is that detectors leak a lot of information and they are very costly. 
+The attacks on detectors are quite interesting but I don't think I'll have time to get into it. I'll leave a link to the paper attached and if I have time I'll go back to it at the end of my talk.  
+
+So it would be beneficial to have a setup in which we can give the detectors away to an untrusted third party and even then you can have Alice and Bob communicate with each other. This is what measurement device independent QKD, MDI-QKD gives.  
+(Show MDI slide)
+
+So before this, just for completeness I'll explain the other parts of a QKD protocol run. If I get more time I'll cover them at the end.
+(Show post-processing slide)
+
+Going back to the MDI-QKD protcol.
+This protocol works on the basis of the HOM effect, the Hong-Ou Mandel effect, in which if you have two indistinguishable photons sent through a beam splitter, both the photons will come out of the same port. They cannot come out of different ports. They do not come out of different ports.  
+(Show the HOM effect slide) 
+
+If there are any variations in the parameters, it can be parametrised by a dip. 
+(Show HOM dip slide)
+For coherent states, the visibility is 50% and not 100% as seen here. Visibility is the difference between the coincidence probabilities divided by the highest prob.  
+
+Going back to the MDI slide, we can similarly split our photon pulse into "early" and "late" timebins, and we can see from caluclations that if two parties send the same state, then there is a 100% probability that both the photons will be detected at the same detector.
+So Alice and Bob prepares the states, the pulse pairs are passed trhough a beamsplitter, and Charlie detects the results.
+The only way this protocol differs slightly is that Charlie only announces singlet states. That is, when both the detectors click and at different time-bins. If this happens, then Charlie declares and both of the parties declare their bases as well. And if their bases match, then Bob flips his selection. 
+This can be shown by a simple example.
+(Show example via Z-basis matching on the board.)
+Because we have quantified their indistinguishability via the HOM dip, we know that Charlie cannot tell who sent which pulse/state.
+
+We have now come to the end of the talk: current obstacles.
+Firstly, security proofs. So, the BB84 was proved by Lo and Chau, I think, around eight years after it was conceived (so in 1992). The proof did not actually prove using BB84 directly. It boiled down BB84 into another protocol and then showed that that protocol's proof implies this protocol's proof. Similarly, Shor and Preskill's proof involed CSS codes. So proving the security of these protocols was quite difficult, and still is. You have protocols such as the COW protocol, the coherent one-way protocol, whose unconditional security has still not been determined.
+
+Next, there is no clear framework of analyzing the secure key rate as well as the security proofs for QKD protocols. There is no simplified or single framework which has been determined so far. You have a lot of different approaches and their efficiency depends on protocol to protocol.  
+For example, Renato's Renner thesis was on security of QKD protocols. It was published around in the mid-2000s. And that is one of the main frameworks which he used so far. And it is a 150-page tome. It dives headfirst into mathematics and cryptography, mainly.  
+(Show Renner slide)  
+This is for doing analysis for finite key length in the basic BB84 portals.  
+
+Until recently we did not even have good numerical methods to compute for arbitrary protocols. Those are still quite horrendous.
+(Show slide) 
+As you can see. 
+In the past few years semi-definite programming ahs been touted as a tool for calculating keyrates.
+
+Next, there are attacks possible for each component. DI-QKD attempts to make the protocols device independent, and this is done by having criteria of making the components self-testable. I haven't covered it cause it's quite complex and I don't know much about it, but this is an active area of research as well. Unfortunately the key rates are phenomenally low so far, something like 10^10 detections/pulses to generate one secure bit. So there is a long way to go here.
+
+Next, there is the single photon restriction. As stated earlier, all the protocols described so far require single-photon pulses, which puts a servere restraint on speed.
+
+There are also "hardware" problems. QKD is currently quite slow and expensive. Since it relies on OTP, for every message this process has to be followed. 
+Also, since the current goal is to incorporate QKD into the telecom infra, there are several implementation problems which are present. For example:
+(Show noise slide)
+This slide shows the optical loss VS distance for a typical telecom fiber. As we can see, the loss is minimum for 1550 nm and this is the wavelength which is currently used in telcom. Unfortunately, a lot of the detectors which we have currently (such as SPAD, QD) perform much better in the 800 nm range than at 1550 nm. SNSPDs perform well at 1550 nm but are very expensive. Even then, their efficiency (SNSPD has 98%) does not compare to the current telecom industry standards.
+
+There you have it! We've gone through the motivation for QKD, covered the basics that enable it, covered protocols, and covered the current challenges as well. That's all I have for you. 
+
+Questions?
 
 
 
