@@ -9,8 +9,8 @@ main:
   # - title: "Blog Posts"
   #   url: /posts/
 
-  - title: "Projects"
-    url: /projects/    
+  # - title: "Projects"
+  #   url: /projects/    
 
   # - title: "Teaching"
   #   url: /teaching/   

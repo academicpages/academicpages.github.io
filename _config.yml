@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Albert Kjøller Jacobsen" # / About Me"
 title_separator          : "-"
 name                     : &name "Albert Kjøller Jacobsen"
-description              : &description "MSc. Eng. Human-Centered AI @ DTU"
+description              : &description "Research Assistant @ DTU Compute (CogSys)"
 url                      : https://albertkjoller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "albertkjoller.github.io"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Albert Kjøller Jacobsen"
   avatar           : "me.jpg" #"profile.png"
-  bio              : "MSc. Eng. Human-Centered AI @ Technical University of Denmark"
+  bio              : "Research Assistant @ DTU Compute (CogSys)"
   location         : "Copenhagen, Denmark"
-  employer         :
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=4034kssAAAAJ&hl=da&oi=ao"
   email            : 

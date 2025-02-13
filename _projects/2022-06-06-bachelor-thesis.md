@@ -6,7 +6,7 @@ excerpt: "<p style='text-align: justify'>This thesis considers an exhaustive sta
 date: 2022-06-06
 venue: 'DTU, Department of Applied Mathematics and Computer Science'
 paperurl: 'https://findit.dtu.dk/en/catalog/62c6c822d4fccf03d747b3db'
-citation: ' Jacobsen, Albert Kjøller; Højbjerg, Phillip Chavarria; Jacobsen, Aron Djurhuus. (2022). &quot;Visual Question Answering with Knowledge-based Semantics.&quot; <i>DTU Department of Applied Mathematics and Computer Science </i>.'
+# citation: ' Jacobsen, Albert Kjøller; Højbjerg, Phillip Chavarria; Jacobsen, Aron Djurhuus. (2022). &quot;Visual Question Answering with Knowledge-based Semantics.&quot; <i>DTU Department of Applied Mathematics and Computer Science </i>.'
 ---
 
 Abstract 

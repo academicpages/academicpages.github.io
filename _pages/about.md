@@ -9,18 +9,19 @@ redirect_from:
   - /about.html
 ---
 
-<p style="text-align: justify">I am studying a MSc. <a href="https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence">Human-Centered Artificial Intelligence</a> at the Technical University of Denmark (DTU). I have a strong background in various aspects of machine learning and I am currently writing my thesis on optimization methods relying on differential geometry for improved generalization.<br><br>
+<p style="text-align: justify">As of March 1st 2025, I'm joining <a href="https://www2.compute.dtu.dk/~gear/">Georgios Arvanitidis</a>' team as a Research Assistant at the <a href="https://www.compute.dtu.dk/sections/cogsys">Section for Cognitive Systems</a> (CogSys) at the Technical University of Denmark (DTU). <br><br> 
 
-Before starting the MSc. I obtained my BSc. degree in <a href="https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/artificial-intelligence-and-data">Artificial Intelligence and Data</a> at DTU.</p>
+I recently graduated from my Master's in <a href="https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence">Human-Centered Artificial Intelligence</a> at DTU where I also obtained my Bachelor's degree in <a href="https://www.dtu.dk/english/education/undergraduate/undergraduate-programmes-in-danish/bsc-eng-programmes/artificial-intelligence-and-data">Artificial Intelligence and Data</a>. During my studies I was also abroad as a visiting student at <a href="https://www.epfl.ch/schools/ic/">École Polytechnique Fédérale de Lausanne (EPFL)</a>. I have a strong background in machine learning and my Master's Thesis focused on leveraging concepts from differential geometry in optimization for improving generalization performance.</p>
 
 My research interests
 ------
-<p style="text-align: justify">I'm particularly interested in the theoretical aspects of machine learning and deep learning. Currently, I'm focusing on the following topics:</p>
+<p style="text-align: justify">I'm particularly interested in the theoretical aspects of machine learning and deep learning. Currently, I'm focusing on gaining further knowledge on:</p>
 
-* Differental geometry for machine learning 
-* Deep learning theory
-* Explainability and interpretability of deep learning models
-* Probabilistic machine learning
+* differental geometry in machine learning 
+* approximate Bayesian inference
+* deep learning theory
+<!-- * Probabilistic machine learning -->
+<!-- * Explainability and interpretability of deep learning models -->
 
 Contact
 ------
