@@ -25,6 +25,8 @@ My Erdős number is 4.
 
 ![Graph](https://raphaelpellegrin.github.io/images/graph.png)
 
+![Hypergraph](https://raphaelpellegrin.github.io/images/hypergraph_random_walk.gif)
+
 
 
 
