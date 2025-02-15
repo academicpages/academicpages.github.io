@@ -8,11 +8,11 @@ excerpt: "Publications"
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
 1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
-<sub> (Forthcoming) Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
+<sub> (Forthcoming) [Sparsely actuated modular metamaterials for shape-changing interfaces](https://hci.cs.uni-saarland.de/projects/metamaterial/)  </sub> \
 <sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
 1. <sub> Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier </sub> \
-<sub>*(Forthcoming) Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control* </sub> \
+<sub> (Forthcoming) [Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control](https://hci.cs.uni-saarland.de/projects/foot-pedal-control/) </sub> \
 <sub>**International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
 
 1. <sub> <ins> Ata Otaran </ins> and Ildar Farkhatdinov </sub> \
