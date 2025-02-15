@@ -24,7 +24,7 @@ Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 * <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
 <b>Guangji Bai</b>, Ziyang Yu, Zheng Chai, Yue Cheng, Liang Zhao.<br>
 <i>SIAM International Conference on Data Mining (SDM 2025)</i>.<br>
-[[paper](https://arxiv.org/pdf/2308.13466)]<br>
+[[paper](https://arxiv.org/pdf/2308.13466)][[code](https://github.com/Ziyang-Yu/SAT)]<br>
 
 ## 2024
 * <b>*SparseLLM*: Towards Global Pruning for Pre-trained Language Models</b>.<br>
