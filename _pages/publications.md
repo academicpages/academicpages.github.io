@@ -19,7 +19,7 @@ Zheng Chai\*, <b>Guangji Bai</b>\*, Liang Zhao, Yue Cheng.<br>
 * <b>FedSpaLLM: Federated Pruning of Large Language Models</b>.<br>
 <b>Guangji Bai</b>, Yijiang Li, Zilinghan Li, Liang Zhao, Kibaek Kim.<br>
 <i>The North American Chapter of the Association for Computational Linguistics (NAACL 2025 main)</i>.<br>
-[[paper](https://arxiv.org/pdf/2410.14852v1)]<br>
+[[paper](https://arxiv.org/pdf/2410.14852v1)][[code](https://github.com/BaiTheBest/FedSpaLLM)]<br>
 
 * <b>Staleness-Alleviated Distributed GNN Training via Online Dynamic-Embedding Prediction</b>.<br>
 <b>Guangji Bai</b>, Ziyang Yu, Zheng Chai, Yue Cheng, Liang Zhao.<br>
