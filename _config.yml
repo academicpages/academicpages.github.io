@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Wang Donghai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "As long as you’ve tried everything，then you’ve done your job."
+  location         : "Bei Jin"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wangdonghai03@meituan.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
