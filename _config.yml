@@ -22,11 +22,11 @@ repository               : "kelsdoerksen/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "KelseyDoerksen_Headshot.png"
+  name             : "Kelsey Doerksen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Computer Science PhD Candidate"
+  location         : ""
   employer         : "University of Oxford"
   uri              : # URL
   email            : "kelsey.doerksen@cs.ox.ac.uk" 
