@@ -1,0 +1,13 @@
+/* Aumentar tamaño del código */
+pre, code {
+    font-size: 16px; /* Ajusta el tamaño según necesites */
+    line-height: 1.6;
+  }
+  
+  /* Opcional: fondo y bordes para resaltar */
+  pre {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+  }
