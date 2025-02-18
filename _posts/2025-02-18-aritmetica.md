@@ -1,5 +1,5 @@
 ---
-title: 'Aritmética de la ausencia: Niños desaparecidos del Ecuador, 2017-2024'
+title: 'Aritmética de la ausencia: niños desaparecidos en Ecuador, 2017-2024'
 date: 2025-02-18
 permalink: /posts/2025/02/aritmetica/
 tags:
@@ -82,7 +82,7 @@ HeatMapWithTime(
 mapa.save(r"\heatmap_diario_acumulativo.html")
 ```
 
-Con estos pasos —reproducibles desde la comodidad de su hogar— he parido este mapa audiovisual, coronado por el himno patrio como banda sonora de lo inexplicable: como estadística, en el período desde 2017 hasta 2024, contabilicé un total de 738 menores "desaparecidos" o "desaparecidos pero encontrados muertos (en circustancias no atribuibles a accidentes)". Un promedio de 92 desapariciones al año.
+Con estos pasos —reproducibles desde la comodidad de su hogar— he parido este mapa audiovisual, coronado por el himno patrio como banda sonora de lo inexplicable: como estadística, durante el período 2017-2024, contabilicé un total de 738 menores "desaparecidos" o "desaparecidos pero encontrados muertos (en circustancias no atribuibles a accidentes)". Un promedio de 92 desapariciones al año.
 
 *Prima facie*, las desapariciones de niños, niñas y adolescentes parecen coincidar con la conocida cartográfica del narcotráfico y del crimen organizado —coincidencias geográficas de las que ciertos políticos prefieren no quieren hablar. Pero, ¿qué sé yo, un simple esclavo de variables que no ha tenido mejor que hacer que transmutar *pequeñas ausencias* en pequeños píxeles?
 
@@ -96,5 +96,5 @@ Desaparecidos: Niños, niñas y adolescentes (2017-2024)
 </div>
 
 <video width="100%" controls>
-  <source src="assets/videos/desaparecidos.mp4" type="video/mp4">
+  <source src="arduinotomasi.github.io/assets/videos/desaparecidos.mp4" type="video/mp4">
 </video>
