@@ -94,7 +94,8 @@ Aquí la verdadera pregunta es ¿qué ve usted, querido conciudadano? ¿La danza
 Desaparecidos: Niños, niñas y adolescentes (2017-2024)
 </strong>
 </div>
-
+<div style="text-align: center;">
 <video width="100%" controls>
   <source src="https://arduinotomasi.github.io/assets/videos/desaparecidos.mp4" type="video/mp4">
 </video>
+</div>
