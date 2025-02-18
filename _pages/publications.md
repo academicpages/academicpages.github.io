@@ -5,17 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints:
-
-3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
-
-1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
-
 ## Conference Papers:
+20. Y. Du\*, Z. Li\*, **P. Cheng**, X. Wan, A. Gao, [Atoxia: Red-teaming Large Language Models with Target Toxic Answers
+](https://arxiv.org/abs/2408.14853), Findings of Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025
 
-6. **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du, X. Li, [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642), Neural Information Processing Systems (NeurIPS), 2024
+19. **P. Cheng**, T. Hu, H. Xu, Z. Zhang, Y. Dai, L. Han, N. Du, X. Li, [Self-playing Adversarial Language Game Enhances LLM Reasoning](https://arxiv.org/pdf/2404.10642), Neural Information Processing Systems (NeurIPS), 2024
 
-5. D. Zeng\*, Y. Dai\*, **P. Cheng**\*, T. Hu, W. Chen, N. Du, Z. Xu, [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/abs/2312.07401), Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+18. D. Zeng\*, Y. Dai\*, **P. Cheng**\*, T. Hu, W. Chen, N. Du, Z. Xu, [On Diversified Preferences of Large Language Model Alignment](https://arxiv.org/abs/2312.07401), Findings of Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 
 17. **P. Cheng**\*, Y. Yang\*, J. Li\*, Y. Dai, T. Hu, P. Cao, N. Du, X. Li, [Adversarial Preference Optimization: Enhancing Your Alignment via RM-LLM Games](https://arxiv.org/abs/2311.08045), Findings of the Association for Computational Linguistics (ACL), 2024
 
@@ -44,6 +40,12 @@ author_profile: true
 
 3. C. Liu, J. Zhuo, **P. Cheng**, R. Zhang, J. Zhu, and L. Carin, [Understand and Accelerate Particle-based Variational Inference](http://people.ee.duke.edu/~lcarin/AWGF.pdf), International Conference on Machine Learning (ICML), 2019
 
+## Technical Reports:
+
+3. **P. Cheng**, J. Xie, K. Bai, Y. Dai, and N. Du,  [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126), 2023
+
+1. **P. Cheng**, R. Li, [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf), 2022
+   
 
 ## Workshop Papers:
 
