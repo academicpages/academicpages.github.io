@@ -29,6 +29,8 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 			
 
 ## Timeline:
+- [2025/01/23] One LLM safety paper ([Atoxia](https://arxiv.org/abs/2408.14853)) got accepted by NAACL 2025.
+
 - [2024/09/26] One LLM self-play paper ([SPAG](https://arxiv.org/pdf/2404.10642)) got accepted by NeurIPS 2024.
 
 - [2024/09/22] One RLHF paper ([MORe](https://arxiv.org/abs/2312.07401)) got accepted by EMNLP 2024.
@@ -65,5 +67,5 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 
 - [2019/04/24] One [paper](https://arxiv.org/pdf/1807.01750.pdf) got accepted by ICML 2019.
 
-- [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted by NeurIPS 2018 Bayesian Deep Learning workshop as spotlight presentation.
+- [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted by NeurIPS 2018 Bayesian Deep Learning workshop as a spotlight presentation.
 
