@@ -84,7 +84,7 @@ mapa.save(r"\heatmap_diario_acumulativo.html")
 
 Con estos pasos —reproducibles desde la comodidad de su hogar— he parido este mapa audiovisual, coronado por el himno patrio como banda sonora de lo inexplicable: como estadística, durante el período 2017-2024, contabilicé un total de 738 menores "desaparecidos" o "desaparecidos pero encontrados muertos (en circustancias no atribuibles a accidentes)". Un promedio de 92 desapariciones al año.
 
-*Prima facie*, las desapariciones de niños, niñas y adolescentes parecen coincidar con la conocida cartográfica del narcotráfico y del crimen organizado —coincidencias geográficas de las que ciertos políticos prefieren no quieren hablar. Pero, ¿qué sé yo, un simple esclavo de variables que no ha tenido mejor que hacer que transmutar *pequeñas ausencias* en pequeños píxeles?
+*Prima facie*, las desapariciones de niños, niñas y adolescentes parecen coincidir con la conocida cartográfica del narcotráfico y del crimen organizado —coincidencias geográficas de las que ciertos políticos prefieren no hablar. Pero, ¿qué sé yo, un simple esclavo de variables que no ha tenido mejor que hacer que transmutar *pequeñas ausencias* en pequeños píxeles?
 
 Aquí la verdadera pregunta es ¿qué ve usted, querido conciudadano? ¿La danza salvaje del crimen organizado, o simples estadísticas sin patrón alguno?
 
