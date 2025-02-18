@@ -8,7 +8,7 @@ tags:
 ---
 
 
-En estos tiempos salvajemente tristes y tristemente grotescos, la disección de las heridas sociales mediante datos se ha convertido en quizá la única liturgia razonable para intenter hacer sentido de nuestra eterna catástrofe nacional. 
+En estos tiempos salvajemente tristes y tristemente grotescos, la disección de las heridas sociales mediante datos se ha convertido en quizá la única liturgia razonable para intentar hacer sentido de nuestra eterna catástrofe nacional. 
 
 En esta expedición analítica, me aventuro en la más perturbadora de las métricas sociales: la desaparición de niños. Para ello, me armo—y me protejo—con la objetividad impasible de *Python* y la reconfortante distancia que el código proporciona frente a esta tragedia.
 
