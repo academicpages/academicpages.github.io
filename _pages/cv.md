@@ -12,6 +12,9 @@ redirect_from:
 
 Education
 ======
+
+* M.S. in Computer Science, Arizona State University, 2025
+  * Specialization in Cybersecurity
 * B.E. in Computer Science, BITS Pilani, 2023 
 
 Work experience
