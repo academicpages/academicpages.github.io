@@ -138,9 +138,13 @@ International bureaucrats are mission-driven and cosmopolitan, representing the 
 
 <p>
 <p>
+<h2 style="font-size:22px; "> Public Commentary </h2>
+https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois
+"How will the end of federal funding to USAID impact institutions in Illinois?" The 21st Show. Illinois Public Media. February 18, 2025. (<a href=https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois>link</a>)
 
-
+  
 <h2 style="font-size:22px; "> Other Work </h2>
 
 "Less Stress, More Confidence": Supporting Junior Scholars Online at the Graduate Student International Political Economy Workshop. 2022, <span class="emphasize">PS: Political Science & Politics</span>. (with Alex Kirss and Paul Ko). (<a href= "https://cobrienudry.github.io/files/ps_gsipe.pdf">ungated</a>)
+
 
