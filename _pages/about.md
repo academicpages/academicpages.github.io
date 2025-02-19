@@ -8,10 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a first-year Ph.D. student in the School of Computer Science at Zhejiang University. My areas of interest include large language models, image AIGC, quantitative trading in crypto, and deep reinforcement learning. I welcome any opportunities to engage in discussions and collaborations.
+Hello, I am a second-year Ph.D. student in the School of Computer Science at Zhejiang University. My research primarily focuses on large language model inference. Besides academic research, I am also passionate about value investing and quantitative trading. I welcome any opportunities for collaboration and academic discussions.
 
 Publications
 ======
+- NeurIPS 2024: Enhancing LLM Reasoning via Vision-Augmented Prompting
+- ICLR 2024: Chain-of-Experts: When LLMs Meet Complex Operations Research Problems
+- ICPP 2024: PREACT: Predictive Resource Allocation for Bursty Workloads in a Co-located Data Center
 - VLDB 2023: DoveDB: A Declarative and Low-Latency Video Database
 - AAAI 2023: Solving Large-Scale Travelling Salesman Problem with Progressive Distillation
 - KAIS 2022: A Deep Reinforcement Learning Agent for Geometry Online Tutoring
