@@ -7,6 +7,11 @@ author_profile: true
 
 # 2024
 
+### El 99,4% de los y las adolescentes españolas encuentran apoyo en las redes sociales
+<i> CTXT </i> (June 2024).
+[https://ctxt.es/es/20240601/Firmas/46676/Observatorio-Fundacion-la-Caixa-redes-sociales-juventud-bienestar-adolescentes.html](https://ctxt.es/es/20240601/Firmas/46676/Observatorio-Fundacion-la-Caixa-redes-sociales-juventud-bienestar-adolescentes.html)
+
+
 ### El 99,4% de los jóvenes españoles encuentran apoyo en las redes sociales
 <i> La Nueva España </i> (June 2024).
 [https://www.lne.es/la-pizarra/2024/06/11/99-4-jovenes-espanoles-encuentran-103599055.html](https://www.lne.es/la-pizarra/2024/06/11/99-4-jovenes-espanoles-encuentran-103599055.html)
