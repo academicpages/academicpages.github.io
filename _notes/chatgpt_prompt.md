@@ -7,7 +7,7 @@ tags:
 ---
 
 
-
+ 
 
 # gudline
 ### principle 1 -> Write clear and specific instructions
