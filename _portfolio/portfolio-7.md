@@ -9,9 +9,12 @@ collection: portfolio
 
 
 As I continue my journey in the field of Data Science, I strive to document and replicate a diverse range of concepts. This repository serves as a valuable resource for my learning and growth. Currently, it includes:
-- PySpark code for data cleaning and manipulation
-- Lambda functions
-- *In Progress*: Logistic regression implementation using Spark MLlib
+- [PySpark code for data cleaning and manipulation](https://github.com/ryputtam/misc_learn_lab/tree/main/01_spark_df_basics)
+- Custom Transformer and Model Reusability in Spark ML Library
+- Lambda and apply basic functions explore in Python
+- Create bins using pandas .cut and .qcut functions
+- Natural Language Processing Basics
+  1. Generate Word Cloud
 
 I look forward to expanding this collection with more insights and projects in the future!
 
