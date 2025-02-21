@@ -29,41 +29,32 @@ author:
   location         : "Dhaka, Bangladesh"
   employer         : "Rajshahi University of Engineering & Technology"
   uri              : # URL
-  email            : "rabiul1812019@gmail.com" 
+  email            : "rabiul1812019@gmail.com, 1812019@student.ruet.ac.bd" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=uVDe5vkAAAAJ&hl=en&authuser=4"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-1061-9795"
-  semantic         : # URL
-  pubmed           : #url
   researchgate     : "https://www.researchgate.net/profile/Md-Hasan-344?ev=hdr_xprf"
-  scopus           : # URL
-  linkedin         : "https://www.linkedin.com/in/mhrabiul/"
-  github           : "https://github.com/mhsrabiul"
-  facebook           : "https://www.facebook.com/mhsrabiul"
-  instagram           : "https://www.instagram.com/rabiul.h4/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/mhsrabiul"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : "https://www.facebook.com/mhsrabiul"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/rabiul.h4/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/mhrabiul/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
