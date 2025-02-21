@@ -17,7 +17,8 @@ Using a loan prediction dataset, I perform exploratory data analysis to understa
     - Encoding categorical features using OneHotEncoder
     - Assembling input features into a vector using VectorAssembler
 
-I then build a logistic regression model and interpret the results. A pipeline is created, encompassing all preprocessing stages and model building steps. The final PipelineModel is used to save the model artifact, which can be reloaded to score new or unseen data without retraining.
+
+I then built a logistic regression model and interpreted the results. A pipeline was created, encompassing all preprocessing stages and model building steps. The final PipelineModel was used to save the model artifact, which I then successfully reloaded to score new/unseen data without retraining.
 
 This project showcases the flexibility of SparkML, the power of custom components, and the efficiency of model reusability in machine learning workflows.
 
