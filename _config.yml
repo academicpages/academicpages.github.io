@@ -22,24 +22,28 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Avatar.jpg"
   name             : "Md Rabiul Hasan"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  pronouns         : "He/Him" # example: "she/her"  
+  bio              : "Enthusiast learner"
+  location         : "Dhaka, Bangladesh"
+  employer         : "Rajshahi University of Engineering & Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "rabiul1812019@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=uVDe5vkAAAAJ&hl=en&authuser=4"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0004-1061-9795"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #url
+  researchgate     : "https://www.researchgate.net/profile/Md-Hasan-344?ev=hdr_xprf"
   scopus           : # URL
+  linkedin         : "https://www.linkedin.com/in/mhrabiul/"
+  github           : "https://github.com/mhsrabiul"
+  facebook           : "https://www.facebook.com/mhsrabiul"
+  instagram           : "https://www.instagram.com/rabiul.h4/"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
