@@ -1,17 +1,13 @@
 ---
-title: "Clustering Algorithms Project"
-excerpt: "Implementation of kmeans and kmeans++"
+title: "Tic Tac Toe"
+excerpt: "Object Oriented Programming Refresher with tic-tac-toe game implementation in python"
 collection: portfolio
 ---
-
 <div style="float: right; margin-left: 20px; width: 33%;">
-    <img src='/images/clustering.png' style="width: 100%;display: block;">
+    <img src='/images/tictactoemulti.png' style="width: 100%;display: block;">
 </div>
 
-Clustering is one of the important algorithms in unsupervised learning of machine learning. This project aims to implement the clustering algorithms: k-means and k-means++ from scratch in pyspark.
+This project serves as a refresher for Object Oriented Programming concepts - Abstraction, Encapsulation, Inheritance, and Polymorphism.
+In addition, a practice project on multi level tic-tac-toe board game is implemented in Python. Currently, the game can be played in the python console. Future versions may be deployed on Streamlit or any other GUI platform.
 
-- The dataset dimension is 4600x58
-- Distance metrics- Euclidean and Manhattan
-- Cost function: Sum of squared distances
-
-[Git Repository](https://github.com/ryputtam/Clustering-Algorithms-in-PySpark) 
+[Git Repository](https://github.com/ryputtam/oop_python) 
