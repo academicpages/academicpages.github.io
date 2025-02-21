@@ -32,7 +32,7 @@ jobs:
 
     - name: Run Jupyter Notebook
       run: |
-        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb -KernelSpecManager.kernel_name=python3
 
     - name: Commit changes
       run: |
