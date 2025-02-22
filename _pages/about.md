@@ -23,12 +23,13 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 |<image src="/images/papers/fig_DSP.png" width="480" height="300">| [Everyone Deserves A Reward: Learning Customized Human Preferences](https://arxiv.org/abs/2309.03126)| **P. Cheng**, J. Xie, K. Bai, Y. Dai, N. Du|2023|
 |<image src="/images/papers/Fig_RLM.png"  width ="480" height = "300">| [Replacing Language Model for Style Transfer](https://arxiv.org/pdf/2211.07343.pdf)|**P. Cheng**, R. Li|2022|
 | <image src="/images/papers/fig_FairFIL.png"  width="480" height="300"> |[FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders](https://openreview.net/forum?id=N6JECD-PI5w)|**P. Cheng**\*, W. Hao\*, S. Yuan, S. Si, L. Carin|2021|
-| <image src="/images/papers/fig_IDEVC.png"  width="480" height="300"> | [Improving Zero-Shot Voice Style Transfer via Disentangled Representation Learning](https://openreview.net/forum?id=TgSVWXw22FQ)| S. Yuan\*, **P. Cheng**\*, R. Zhang, W. Hao, Z. Gan, L. Carin|2021|
 | <image src="/images/papers/fig_CLUB.png"  width="480" height="300">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
 
 ## Timeline:
+- [2020/02/22] Began serving as an Area Chair (AC) for ARR 2025.
+
 - [2025/01/23] One LLM safety paper ([Atoxia](https://arxiv.org/abs/2408.14853)) got accepted by NAACL 2025.
 
 - [2024/09/26] One LLM self-play paper ([SPAG](https://arxiv.org/pdf/2404.10642)) got accepted by NeurIPS 2024.
