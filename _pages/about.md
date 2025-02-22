@@ -28,7 +28,7 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 			
 
 ## Timeline:
-- [2020/02/22] Began serving as an Area Chair (AC) for ARR 2025.
+- [2025/02/22] Began serving as an Area Chair (AC) for ARR 2025.
 
 - [2025/01/23] One LLM safety paper ([Atoxia](https://arxiv.org/abs/2408.14853)) got accepted by NAACL 2025.
 
