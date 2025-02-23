@@ -18,7 +18,7 @@ from geopy import Nominatim
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim(user_agent="tallsongpages/1.0")
+geocoder = Nominatim()
 location_dict = {}
 location = ""
 permalink = ""
