@@ -15,12 +15,30 @@ redirect_from:
 News
 ======
 <style>
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
 td, th {
-   border: none!important;
+    border: none;
+    padding: 8px;
+}
+td:first-child {
+    text-align: center;
+    font-weight: bold;
+    white-space: nowrap; /* Prevents date wrapping */
+}
+td:last-child {
+    text-align: justify;
 }
 </style>
-
-| <!-- -->    | <!-- -->    |
-|:----------:|-------------|
-| Jan 2024         | I am currently a PhD student in [Robotics and Autonomous Systems](https://msn.engineering.asu.edu/degrees/graduate/robotics-and-autonomous-systems-mechatronics-and-automation-phd/) at Arizona State University under [Dr. Xi Yu](https://search.asu.edu/profile/5170321) and Graduate Program Chair of Robotics [Dr. Sangram Redkar](https://search.asu.edu/profile/1114748). I am currently supported by Fulton Fellowship Program.         |
-| Mar 2023         | I successfully graduated with a Master's in Robotics in May 2024 with a full tuition award!!         |
+<table>
+    <tr>
+        <td>Jan 2024</td>
+        <td>I am currently a PhD student in <a href="https://msn.engineering.asu.edu/degrees/graduate/robotics-and-autonomous-systems-mechatronics-and-automation-phd/">Robotics and Autonomous Systems</a> at Arizona State University under <a href="https://search.asu.edu/profile/5170321">Dr. Xi Yu</a> and Graduate Program Chair of Robotics <a href="https://search.asu.edu/profile/1114748">Dr. Sangram Redkar</a>. I am currently supported by Fulton Fellowship Program.</td>
+    </tr>
+    <tr>
+        <td>Mar 2023</td>
+        <td>I successfully graduated with a Master's in Robotics in May 2024 with a full tuition award!!</td>
+    </tr>
+</table>
