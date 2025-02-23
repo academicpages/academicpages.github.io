@@ -1,6 +1,8 @@
 ---
 title: "3DoF Robot Arm"
-excerpt: "Aug 2021 – Dec 2021<br/>Designed Bluetooth Robot Arm with inbuilt Forward/Inverse Kinematics calculator to reach target location."
+excerpt: 
+    "Aug 2021 – Dec 2021<br/>
+    Designed Bluetooth Robot Arm with inbuilt Forward/Inverse Kinematics calculator to reach target location."
 collection: portfolio
 ---
 
