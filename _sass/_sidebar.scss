@@ -121,6 +121,15 @@
   font-size: $type-size-5;
 }
 
+.author__pronouns {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
 .author__bio {
   margin: 0;
 
