@@ -5,7 +5,6 @@ on:
     paths:
       - 'talks/**'
       - 'talkmap.ipynb'
-  workflow_dispatch:
 
 jobs:
   build:
@@ -23,8 +22,6 @@ jobs:
       run: |
         pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
         pip install getorg --upgrade
-        pip install ipykernel
-        pip install --upgrade jupyter jupyter-client ipykernel
 
     - name: Run Jupyter Notebook
       run: |
