@@ -22,7 +22,7 @@ repository               : "academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profiePic.jpg"
   name             : "Sai Srinivas Tatwik Meesala"
   pronouns         : # example: "she/her"  
   bio              : "Roboticist"
