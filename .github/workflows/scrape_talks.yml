@@ -33,7 +33,6 @@ jobs:
     - name: Run Jupyter Notebook
       run: |
         jupyter kernelspec list
-        python3 -c "from geopy.geocoders import Nominatim; geolocator = Nominatim(user_agent='tallsongpersonalpage'); location = geolocator.geocode('1600 Pennsylvania Ave NW, Washington, DC'); print(location.address)"
         jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb --ExecutePreprocessor.kernel_name=python3
 
     - name: Commit changes
