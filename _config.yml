@@ -5,71 +5,16 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Basic Site Settings
+# Site Settings
 locale                   : "en-US"
 remote_theme: pages-themes/minimal@v0.2.0
 title                    : "Ozlem Tuncel"
 title_separator          : "-"
 name                     : &name "Ozlem Tuncel"
-description              : &description "personal description"
+description              : &description "she/her/hers"
 url                      : https://ozlemtuncel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozlemtuncel/ozlemtuncel.github.io"
-
-# Site Author - The following control what appear as part of the author content on the side bar.
-#               If a field is blank the icon and link will not appear, otherwise it will be shown.
-#               Additional customization can be done by editing /_includes/author-profile.html
-author:
-  # Biographic information
-  name             : "Ozlem Tuncel"
-  avatar           : "profile_bio2.jpg"
-  pronouns         : "she/her"
-  bio              : "Ph.D. in Political Science, interested in elections, political parties, and electoral autocratic regimes."
-  location         : "Atlanta, GA, USA"
-  employer         : "Georgia State University"
-  email            : "otuncelgurlek1@gsu.edu"
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Q4RzaGMAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-8087-3511"
-  semantic         : # URL
-  pubmed           : # URL
-  researchgate     : # URL
-  scopus           : # URL
-  
-  # Repositories and software development
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  github           : "ozlemtuncel"
-  kaggle           :
-  stackoverflow    :
-
-  # Social media
-  bluesky          : "ozlemtuncel.bsky.social
-  flickr           :
-  facebook         :
-  foursquare       :
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "ozlem-tuncel"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "ozlem__tuncel"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -134,6 +79,45 @@ analytics:
   google:
     measurement_id       :
 
+# Site Author
+author:
+  name             : "Ozlem Tuncel"
+  avatar           : "profile_bio2.jpg"
+  bio              : "Ph.D. in Political Science, interested in elections, political parties, and electoral autocratic regimes."
+  pronouns         : "she/her"
+  location         : "Atlanta, GA, USA"
+  employer         : 
+  pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=Q4RzaGMAAAAJ&hl=en"
+  email            : "otuncelgurlek1@gsu.edu"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "ozlemtuncel"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "ozlem-tuncel"
+  orcid            : "https://orcid.org/0000-0001-8087-3511"
+  bluesky          : "ozlemtuncel.bsky.social"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "ozlem__tuncel"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
