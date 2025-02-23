@@ -37,7 +37,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "main" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -96,7 +96,7 @@ author:
   pronouns         : "they"
   bio              : "software engineer"
   location         : "Beijing"
-  employer         : "Runjian CO."
+  employer         : "Runjian Co."
   uri              : # URL
   email            : "a1249812431@gmail.com" 
 
