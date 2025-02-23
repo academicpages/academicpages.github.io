@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Gaosong Chen / Software Enginner"
+title                    : "Cedar Account"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "software engineer at Runjian Co"
@@ -23,7 +23,7 @@ repository               : "tallsong/tallsong.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "CHEN GAOSONG"
+  name             : "CHEN GAOSONG(Cedar)"
   pronouns         : "they" 
   bio              : "software engineer at Runjian Co, expert in software development"
   location         : "Beijing, China"
