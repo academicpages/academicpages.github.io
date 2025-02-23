@@ -2,10 +2,9 @@ name: Scrape Talk Locations
 
 on:
   push:
-    # paths:
-      #   - 'talks/**'
-      #   - 'notes/**'
-      #   - 'talkmap.ipynb'
+    paths:
+      - 'talks/**'
+      - 'talkmap.ipynb'
   workflow_dispatch:
 
 jobs:
@@ -27,13 +26,9 @@ jobs:
         pip install ipykernel
         pip install --upgrade jupyter jupyter-client ipykernel
 
-
-
-
     - name: Run Jupyter Notebook
       run: |
-        jupyter kernelspec list
-        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb --ExecutePreprocessor.kernel_name=python3
+        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
 
     - name: Commit changes
       run: |
