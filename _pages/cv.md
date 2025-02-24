@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<br />
+
 Experience
 ============
 **[Marinella Research](https://www.marinellaresearch.com/)** – Chandler, Arizona<br />
-**Robotics Researcher** <span style="float:right;"> May 2024 – Present</span>
+**Robotics Researcher** <span style="float:right;"> May 2024 – Dec 2024</span>
 *	Lead multidisciplinary research projects, focusing on robotics, industrial automation, digital twins, additive manufacturing, machine vision, and system engineering contributing to the next-gen industry.
 *	Conduct feasibility studies and engineering consulting for industrial applications.
 *	Develop innovative solutions for commercial viability, emphasizing grant proposals and internal projects.
