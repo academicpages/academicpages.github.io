@@ -4,33 +4,20 @@ title: Contact Me
 permalink: /contact/
 author_profile: true
 ---
+{% include base_path %}
 
 ## Reach Out
 
 Feel free to send me a message, and I'll get back to you as soon as possible.
 
 
-<!-- <form action="https://formspree.io/f/xeoebqlb" method="POST">
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name" required>
-    
-    <label for="email">Your email:</label>
-    <input type="email" id="email" name="email" required>
-    
-    <label for="message">Message:</label>
-    <textarea id="message" name="message" required></textarea>
-    
-    <button type="submit">Send</button>
-</form> -->
-
 <style>
-    /* Keep the form aligned while allowing the profile to show */
     .contact-container {
         display: flex;
         justify-content: center;
         align-items: center;
-        /* width: 100%; */
-        /* padding: 20px 0; */
+        width: 100%;
+        padding: 10px 0;
     }
 
     .contact-form {
