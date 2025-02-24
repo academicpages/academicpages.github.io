@@ -2,13 +2,15 @@
 layout: page
 title: Contact Me
 permalink: /contact/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## Reach Out
 
 Feel free to send me a message, and I'll get back to you as soon as possible.
 
-<br />
 
 <!-- <form action="https://formspree.io/f/xeoebqlb" method="POST">
     <label for="name">Name:</label>
@@ -24,7 +26,15 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </form> -->
 
 <style>
-    /* Scope styles to the contact form only */
+    /* Center the form without affecting the navbar */
+    .contact-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        padding: 20px 0;
+    }
+
     .contact-form {
         width: 100%;
         max-width: 500px;
@@ -81,17 +91,19 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
     }
 </style>
 
-<form class="contact-form" action="https://formspree.io/f/XYZ_123" method="POST">
-    <label for="name">Name</label>
-    <input type="text" id="name" name="name" placeholder="John Doe" required>
-    
-    <label for="email">Email</label>
-    <input type="email" id="email" name="email" placeholder="you@example.com" required>
-    
-    <label for="message">Message</label>
-    <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
-    
-    <button type="submit">Send Message</button>
-</form>
+<div class="contact-container">
+    <form class="contact-form" action="https://formspree.io/f/XYZ_123" method="POST">
+        <!-- <label for="name">Name</label> -->
+        <input type="text" id="name" name="name" placeholder="First Name & Last" required>
+        
+        <!-- <label for="email">Email</label> -->
+        <input type="email" id="email" name="email" placeholder="Email" required>
+        
+        <!-- <label for="message">Message</label> -->
+        <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
+        
+        <button type="submit">Send Message</button>
+    </form>
+</div>
 
 <br />
