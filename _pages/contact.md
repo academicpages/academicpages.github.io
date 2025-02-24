@@ -24,17 +24,16 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </form> -->
 
 <style>
-    /* Center the form */
-
-    /* form {
+    /* Align form to the left */
+    form {
+        width: 100%;
         max-width: 500px;
-        margin: 20px auto;
         padding: 20px;
         background: #f9f9f9;
         border-radius: 10px;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    } */
-     
+    }
+
     label {
         font-weight: bold;
         display: block;
@@ -81,13 +80,13 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </style>
 
 <form action="https://formspree.io/f/XYZ_123" method="POST">
-    <label for="name">Name</label>
+    <!-- <label for="name">Name</label> -->
     <input type="text" id="name" name="name" placeholder="First Name and Last" required>
     
-    <label for="email">Email</label>
+    <!-- <label for="email">Email</label> -->
     <input type="email" id="email" name="email" placeholder="you@example.com" required>
     
-    <label for="message">Message</label>
+    <!-- <label for="message">Message</label> -->
     <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
     
     <button type="submit">Send Message</button>
