@@ -7,4 +7,4 @@ collection: portfolio
 ---
 
 Designed Bluetooth Robot Arm with inbuilt Forward/Inverse Kinematics calculator to reach target location.<br/>
-[Link](https://github.com/Tatwik19/Tatwik19.github.io/tree/main/assets/Projects/3DoF%20Robot)
+[Link](https://github.com/Tatwik19/Tatwik19.github.io/tree/master/assets/Projects/3DoF%20Robot)

@@ -7,4 +7,4 @@ collection: portfolio
 ---
 
 Worked on a Rockwell PLC with industrial sensing technology, and industrial actuator and developed Supervisory control and data acquisition (SCADA) for the Human-machine interface (Machine: SMC HAS 200).<br/>
-[Link](https://github.com/Tatwik19/Tatwik19.github.io/tree/main/assets/Projects/HAS%20PLC)
+[Link](https://github.com/Tatwik19/Tatwik19.github.io/tree/master/assets/Projects/HAS%20PLC)
