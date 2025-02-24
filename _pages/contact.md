@@ -24,12 +24,10 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </form> -->
 
 <style>
-    /* Center the form without affecting the navbar */
+    /* Keep the form aligned while allowing the profile to show */
     .contact-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
         width: 100%;
+        max-width: 600px;
         padding: 20px 0;
     }
 
@@ -40,12 +38,6 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
         background: #f9f9f9;
         border-radius: 10px;
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-    }
-
-    .contact-form label {
-        font-weight: bold;
-        display: block;
-        margin: 10px 0 5px;
     }
 
     .contact-form input, 
@@ -90,18 +82,14 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </style>
 
 <div class="contact-container">
-    <form class="contact-form" action="https://formspree.io/f/XYZ_123" method="POST">
-        <!-- <label for="name">Name</label> -->
+    <form class="contact-form" action="https://formspree.io/f/xeoebqlb" method="POST">
         <input type="text" id="name" name="name" placeholder="First Name & Last" required>
-        
-        <!-- <label for="email">Email</label> -->
         <input type="email" id="email" name="email" placeholder="Email" required>
-        
-        <!-- <label for="message">Message</label> -->
         <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
-        
         <button type="submit">Send Message</button>
     </form>
 </div>
+
+<br />
 
 <br />
