@@ -26,9 +26,11 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 <style>
     /* Keep the form aligned while allowing the profile to show */
     .contact-container {
-        width: 100%;
-        max-width: 600px;
-        padding: 20px 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* width: 100%; */
+        /* padding: 20px 0; */
     }
 
     .contact-form {
@@ -64,7 +66,7 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 
     .contact-form button {
         display: block;
-        width: 100%;
+        width: 50%;
         padding: 12px;
         background: #007bff;
         color: white;
