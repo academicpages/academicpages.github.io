@@ -72,6 +72,11 @@ Extracurricular Activities
 
 *	Participated - IGU- South Zone Golf Championship (Category – B & A) <span style="float:right;">Hyderabad, Visakhapatnam, & Coorg</span>
 
+<br />
+<br />
+
+You may download my resume [here](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf).
+
 <!---
   
 Skills
