@@ -14,7 +14,11 @@ Designed two independent hoists to pick up and change copper rolls (700 lbs) use
 
 <br />
 
-https://github.com/user-attachments/assets/ee0afaa7-376b-4424-b353-ba5e18c106c2
+<video controls>
+  <source src="https://raw.githubusercontent.com/Tatwik19/24-Increasing-Changeover-Capabilities-at-Isola/main/OLD/384624749-ee0afaa7-376b-4424-b353-ba5e18c106c2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 <br />
