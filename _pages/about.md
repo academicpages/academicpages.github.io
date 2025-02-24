@@ -1,6 +1,6 @@
 ---
 permalink: /
-excerpt: "Homepage - Pengyu Cheng"
+title: "Homepage - Pengyu Cheng"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,9 @@ Welcome to Pengyu Cheng's homepage!
 
 I am a senior researcher at Tencent AI Lab, working on LLM training, AI agents, and dialogue systems. I have experience in research and projects related to controllable generation, interpretability, and fairness of NLP. Besides, I have broad interests in probabilistic and information-theoretic machine learning methods.
 
+
 I received my Ph.D. from the Department of Electric and Computer Engineering at Duke University in 2021. My Ph.D. advisor is Dr. [Lawrence Carin](http://people.ee.duke.edu/~lcarin/). I graduated with my B.S. from the Department of Mathematical Sciences at Tsinghua University in 2017.
+
 
 ## Selected Publications:
 
@@ -26,7 +28,6 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 | <image src="/images/papers/fig_CLUB.png"  width="480" height="300">|[CLUB: A Contrastive Log-ratio Upper Bound of Mutual Information](https://arxiv.org/abs/2006.12013)|**P. Cheng**, W. Hao, S. Dai, J. Liu, Z. Gan, L. Carin|2020|
 
 			
-
 ## Timeline:
 - [2025/02/22] Began serving as an Area Chair (AC) for ARR 2025.
 
@@ -69,4 +70,3 @@ I received my Ph.D. from the Department of Electric and Computer Engineering at 
 - [2019/04/24] One [paper](https://arxiv.org/pdf/1807.01750.pdf) got accepted by ICML 2019.
 
 - [2018/11/16] One [paper](http://bayesiandeeplearning.org/2018/papers/53.pdf) got accepted by NeurIPS 2018 Bayesian Deep Learning workshop as a spotlight presentation.
-
