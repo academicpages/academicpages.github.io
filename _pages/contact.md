@@ -24,8 +24,8 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </form> -->
 
 <style>
-    /* Align form to the left */
-    form {
+    /* Scope styles to the contact form only */
+    .contact-form {
         width: 100%;
         max-width: 500px;
         padding: 20px;
@@ -34,13 +34,14 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
         box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
     }
 
-    label {
+    .contact-form label {
         font-weight: bold;
         display: block;
         margin: 10px 0 5px;
     }
 
-    input, textarea {
+    .contact-form input, 
+    .contact-form textarea {
         width: 100%;
         padding: 10px;
         border: 1px solid #ccc;
@@ -49,18 +50,19 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
         transition: all 0.3s ease-in-out;
     }
 
-    input:focus, textarea:focus {
+    .contact-form input:focus, 
+    .contact-form textarea:focus {
         border-color: #007bff;
         outline: none;
         box-shadow: 0px 0px 8px rgba(0, 123, 255, 0.2);
     }
 
-    textarea {
+    .contact-form textarea {
         height: 150px;
         resize: vertical;
     }
 
-    button {
+    .contact-form button {
         display: block;
         width: 100%;
         padding: 12px;
@@ -74,19 +76,19 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
         margin-top: 10px;
     }
 
-    button:hover {
+    .contact-form button:hover {
         background: #0056b3;
     }
 </style>
 
-<form action="https://formspree.io/f/XYZ_123" method="POST">
-    <!-- <label for="name">Name</label> -->
-    <input type="text" id="name" name="name" placeholder="First Name and Last" required>
+<form class="contact-form" action="https://formspree.io/f/XYZ_123" method="POST">
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name" placeholder="John Doe" required>
     
-    <!-- <label for="email">Email</label> -->
+    <label for="email">Email</label>
     <input type="email" id="email" name="email" placeholder="you@example.com" required>
     
-    <!-- <label for="message">Message</label> -->
+    <label for="message">Message</label>
     <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
     
     <button type="submit">Send Message</button>
