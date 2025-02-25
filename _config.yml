@@ -22,7 +22,7 @@ repository               : "madelineladore/madelineladore.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Madeline Ladore"
   pronouns         : "she / her" 
   bio              : "Hello! I'm a current PhD candidate working on the semantics of plural morphology and the mass count distinction in select Niger-Congo; Kwa languages"
