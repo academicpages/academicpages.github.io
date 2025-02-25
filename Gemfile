@@ -6,6 +6,8 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-redirect-from'
   gem 'jemoji'
+  gem 'tzinfo', '2.0.6'
+  gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
   gem 'webrick', '~> 1.8'
 end
 
