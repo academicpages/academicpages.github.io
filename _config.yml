@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "floral"
+site_theme               : "dark"
 title                    : "Madeline Ladore"
 title_separator          : "-"
 name                     : &name "Madeline Ladore"
