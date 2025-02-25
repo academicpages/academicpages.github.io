@@ -1,9 +1,20 @@
 /* ==========================================================================
-   DEFAULT THEME
+   FLORAL THEME
    ========================================================================== */
 
+/* Extra Color Variables */
+$light-brown               :#DED1CF ;
+$light-green               :#E2E3DD ;
+$light-pink                :#F0DCDB ;
+$forest-green              :#232E21 ;
+$olive                     :#292120 ;
+$dark-purple               :#2F131E ;
+$dusty-pink-dark           :#9B6A6C ;
+$dusty-pink-light          :#AC8485 ;
+
+
 /* Color codes used for the theme */
-$gray                       : #AC8485;
+$gray                       : $light-pink;
 $dark-gray                  : #292120;
 $darker-gray                : mix(#000, $dark-gray, 20%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -13,8 +24,8 @@ $lighter-gray               : mix(#fff, $gray, 90%);
 $danger-color               : #ee5f5b;
 $info-color                 : #2f7f93;
 $notice-color               : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
+$success-color              : $forest-green;
+$warning-color              : $dusty-pink-dark;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
