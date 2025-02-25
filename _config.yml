@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anthony Hitchcock Thomas"
 title_separator          : "-"
 name                     : &name "Anthony Hitchcock Thomas"
-description              : &description "PhD Student in Computer Science and Engineering"
+description              : &description "Assistant Professor of Electrical and Computer Engineering at UC Davis"
 url                      : https://thomas9t.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "thomas9t.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Anthony Hitchcock Thomas"
   avatar           : "anthony_thomas.png"
   bio              : ""
-  location         : "San Diego, CA"
-  employer         : "UC San Diego"
+  location         : "Davis, CA"
+  employer         : "UC Davis"
   pubmed           : 
   googlescholar    : 
-  email            : "ahthomas@eng.ucsd.edu"
+  email            : "ahth@ucdavis.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
