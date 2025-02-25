@@ -23,21 +23,21 @@ repository               : "madelineladore/madelineladore.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Madeline Ladore"
   pronouns         : "she / her" 
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Hello! I'm a current PhD candidate working on the semantics of plural morphology and the mass count distinction in select Niger-Congo; Kwa languages"
+  location         : "Göttingen, Germany"
   employer         : "Georg-August Universität Göttingen"
   uri              : # URL
   email            : "madeline.ladore [at] uni-goettingen.de" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-1567-7553"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
 
@@ -45,7 +45,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
