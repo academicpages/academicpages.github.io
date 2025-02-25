@@ -5,7 +5,7 @@
 /* Color codes used for the theme */
 $gray                       : #AC8485;
 $dark-gray                  : #292120;
-$darker-gray                : mix(#000, $gray, 60%);
+$darker-gray                : mix(#000, $dark-gray, 20%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
