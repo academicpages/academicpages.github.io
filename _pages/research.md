@@ -139,7 +139,11 @@ International bureaucrats are mission-driven and cosmopolitan, representing the 
 <p>
 <p>
 <h2 style="font-size:22px; "> Public Commentary </h2>
-https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois
+
+"My Turn | How USAID funding cuts hurt Illinois" The News-Gazette. February 25, 2025. (<a href=https://www.news-gazette.com/opinion/guest-commentary/my-turn-how-usaid-funding-cuts-hurt-illinois/article_f6cc845c-f2f4-11ef-b9be-8fc09e427d47.html>link</a>)
+
+
+
 "How will the end of federal funding to USAID impact institutions in Illinois?" The 21st Show. Illinois Public Media. February 18, 2025. (<a href=https://will.illinois.edu/21stshow/story/how-will-ending-federal-funding-to-usaid-impact-institutions-in-illinois>link</a>)
 
   
