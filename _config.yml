@@ -25,7 +25,7 @@ author:
   avatar           : "portrait.jpg"
   name             : "Madeline Ladore"
   pronouns         : "she / her" 
-  bio              : "Hello! I'm a current PhD candidate working on the semantics of plural morphology and the mass count distinction in select Niger-Congo; Kwa languages"
+  bio              : #
   location         : "Göttingen, Germany"
   employer         : "Georg-August Universität Göttingen"
   uri              : # URL
