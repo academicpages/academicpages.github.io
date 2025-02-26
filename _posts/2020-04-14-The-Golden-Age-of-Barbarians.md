@@ -10,7 +10,8 @@ tags:
 
 ### Authors:  
 - **Sai Srinivas Tatwik Meesala**  
-- **Ethan Strait, Dylan McMillian**  
+- **Ethan Strait**
+- **Dylan McMillian**  
 - **Nolan Featherstun**  
 - **Benjamin Swartz**
 
