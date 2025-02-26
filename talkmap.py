@@ -9,6 +9,10 @@ import frontmatter
 import glob
 import getorg
 from geopy import Nominatim
+from geopy.exc import GeocoderTimedOut
+
+# Set the default timeout, in seconds
+TIMEOUT = 5
 
 # Collect the Markdown files
 g = glob.glob("_talks/*.md")
@@ -37,8 +41,15 @@ for file in g:
     description = f"{title}<br />{venue}; {location}"
 
     # Geocode the location and report the status
-    location_dict[description] = geocoder.geocode(location)
-    print(description, location_dict[description])
+    try:
+        location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)
+        print(description, location_dict[description])
+    except ValueError as ex:
+        print(f"Error: geocode failed on input {location} with message {ex}")
+    except GeocoderTimedOut as ex:
+        print(f"Error: geocode timed out on input {location} with message {ex}")
+    except Exception as ex:
+        print(f"An unhandled exception occurred while processing input {location} with message {ex}")
 
 # Save the map
 m = getorg.orgmap.create_map_obj()
