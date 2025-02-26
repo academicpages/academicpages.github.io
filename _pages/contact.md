@@ -24,9 +24,9 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
         width: 100%;
         max-width: 500px;
         padding: 20px;
-        background: #f9f9f9;
+        background: transparent; /* Remove the white background */
         border-radius: 10px;
-        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+        box-shadow: none; /* Optionally remove the shadow */
     }
 
     .contact-form input, 
