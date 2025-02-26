@@ -8,17 +8,25 @@ tags:
   - Ethics
 ---
 
+> *This Blog post is the AI improved version of the [Original Site](https://sites.google.com/maricopa.edu/roboticsinthemedicalindustry/home)*
+
+---
+
 ## Introduction
 
 Robots are revolutionizing the world, ushering in a new era of technology. Imagine a day in a hospital where a robot delivers a baby, while another performs a complex surgery with precision—just another routine day in healthcare. This future is not far off. Traditionally, engineering and medicine have been seen as separate fields. When people think of robots, they imagine automated butlers, cleaners, or construction bots, rarely considering their potential in medical science. However, trust is a critical factor in the intersection of humanity and technology. Can robots truly be trusted with human lives?
 
 For robots to be accepted in healthcare, they must exhibit— or at least simulate— empathy to gain patient trust. Human doctors possess essential social skills like communication and emotional intelligence, which robots currently lack (Tapus et al.). Yet, with rapid technological advancements, robots are entering the medical field, assisting healthcare professionals in diagnosis, treatment, and even surgery. Although it will take time to build trust in automated procedures, history has shown that integrating engineering with medicine leads to revolutionary inventions. Increasing public confidence in medical robotics could mark the beginning of a new era in healthcare.
 
+---
+
 ## How Robots and Humans Treat Each Other
 
 Public perception of robots varies. According to a Brookings survey, 61% of U.S. adults are uncomfortable with robots (West). Their mechanical appearance and lack of social skills make some people uneasy (Lin). Others fear them due to misconceptions, influenced by movies and media. However, robots play a crucial role in modern technology, continuously supporting humanity (Davids). As Dialani notes, "There is only a thin line distinction between what people can do and what robots can do."
 
 A significant concern is that robots will replace human jobs. However, rather than being threats, robots can serve as valuable assistants. In the corporate and healthcare sectors, robots enhance efficiency and safety. For instance, in factories, they improve productivity and assist in handling hazardous machinery, reducing risks for human workers (Davids). Instead of displacing jobs, robots complement human efforts, making workplaces safer and more efficient.
+
+---
 
 ## The Rise of Robotic Surgery
 
@@ -33,6 +41,8 @@ This system is used in various procedures, including cardiac, gynecological, uro
 
 Another groundbreaking robot, **Versius**, developed by a British company, rivals the da Vinci system with its compact, flexible design. Versius enhances surgical precision while minimizing patient discomfort and recovery time (Walsh). The continuous evolution of robotic surgery is proving its value, improving both patient outcomes and hospital efficiency.
 
+---
+
 ## Other Applications of Robots in the Medical Industry
 
 Beyond surgery, robots are transforming other areas of healthcare. Thoughtful integration of artificial intelligence (AI) and robotics can enhance hospital operations, streamline patient care, and improve efficiency.
@@ -42,17 +52,23 @@ Beyond surgery, robots are transforming other areas of healthcare. Thoughtful in
 - **Sanitation & Disinfection:** During pandemics, robots help disinfect hospital surfaces, preventing the spread of infections like **Ebola and COVID-19** (Crawford).
 - **Advanced Surgeries:** Robots assist in complex procedures like esophageal, pancreatic, and colorectal surgeries, improving precision and patient safety (Giulianotti et al.).
 
+---
+
 ## Improving Humanity’s Trust in Robots
 
 For robotics to thrive in healthcare, trust is essential. Certain criteria must be met for humans to accept robots as reliable partners. 
 
 Social phenomenology, as defined by Crossman, studies how human awareness shapes social interactions. Trust in robots should develop naturally, without coercion. Coeckelbergh emphasizes that for trust to exist, delegation must be voluntary, and the relationship should be free from excessive supervision (Coeckelbergh 56). Furthermore, social interactions play a crucial role in fostering confidence in robotics.
 
+---
+
 ## Interaction Between Robots and Their Environment
 
 Understanding robot-environment interaction is vital for their effective implementation in healthcare. A robot’s behavior is shaped by three key factors: **the robot, the task, and the environment** (Nehmzow and Walker). By analyzing human experiences with robots, engineers can program them to adapt to hospital environments, improving their integration into daily medical operations (Lin).
 
 Structural hospital features, such as room layouts and supply arrangements, influence how robots navigate and perform tasks. AI algorithms allow robots to locate and transport supplies efficiently, assisting in hospital logistics (Clipper et al.).
+
+---
 
 ## Conclusion
 
