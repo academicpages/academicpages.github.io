@@ -204,6 +204,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _resources
+  - scope:
+    path: ""
+    type: resources
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+      
 
 # Sass/SCSS
 sass:
