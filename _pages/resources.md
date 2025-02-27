@@ -57,7 +57,7 @@ The information below reflects my experience and opinions and is most helpful fo
 If you’ve been invited to interview—congratulations! Here’s what to expect (from my experience):
 
 ### Types of interviews
-- Pre Screening: Often required for coding-heavy roles. You’ll be given a time-limited technical challenge.Prepare using [Leetcode](https://leetcode.com/) or similar tools.
+- Pre Screening: Often required for coding-heavy roles. You’ll be given a time-limited technical challenge. Prepare using [Leetcode](https://leetcode.com/) or similar tools.
 - HR screening: A short (15-30 min) call to confirm your background, interests, and availability.
 - Hiring manager interview: The questions asked during this type of interview varies and can range from behavioral questions to more technical focused one. 
   - Introduce yourself with a concise elevator pitch.
@@ -88,16 +88,3 @@ If you have any questions or experiences to share, feel free to connect with me!
 - Microsoft Research Internship [Resource from Alex Lu (Senior Researcher at MSR)](https://www.alexluresearch.com/resources/internships/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-the internship application process in order to obtain more information. Here are some [resources for students at Brown University](https://oisss.brown.edu/international-students/currently-brown/f-1-students/employment/cpt).
