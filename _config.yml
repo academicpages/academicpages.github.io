@@ -11,7 +11,7 @@ site_theme               : "default"
 title                    : "Cecile Meier-Scherling Personal Website"
 title_separator          : "-"
 name                     : &name "Cecile Meier-Scherling"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Computational Biology"
 url                      : https://cecile-meier-scherling.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cecile-meier-scherling/cecile-meier-scherling.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "Headshot.jpg"
   name             : "Cecile Meier-Scherling"
   pronouns         : "she/her" 
-  bio              : "PhD Student in Computational Biology"
+  bio              : "PhD Candidate in Computational Biology"
   location         : "Providence, RI"
   employer         : "Brown University"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : https://orcid.org/0000-0002-7833-5164
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : https://pubmed.ncbi.nlm.nih.gov/38352505/
   researchgate     : # URL
   scopus           : # URL
 
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : https://bsky.app/profile/cmeierscherling.bsky.social 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
