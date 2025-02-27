@@ -1,7 +1,7 @@
 ---
 title: 'Image Synthesis'
 date: 2025-01-30
-permalink: /posts/2025/01/mixture-of-experts/
+permalink: /posts/2025/01/image-synthesis/
 tags:
   - image synthesis
   - diffusion
