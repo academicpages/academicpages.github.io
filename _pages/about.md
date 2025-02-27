@@ -14,7 +14,7 @@ published: true
 </head>
 
 
-I am a Ph.D. candidate in Computer Science at [Northeastern University](https://www.northeastern.edu), advised by Prof. [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and Prof. [Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve robot learning efficiency and generalization. During my Ph.D., I was fortunate to be supported by the J.P.Morgan Chase Ph.D. Fellowship in 2023.
+I am a Ph.D. candidate in Computer Science at [Northeastern University](https://www.northeastern.edu), advised by Prof. [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and Prof. [Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve the efficiency and generalization of robot learning. During my Ph.D., I was fortunate to be supported by the J.P.Morgan Chase Ph.D. Fellowship in 2023.
 
 **I am currently on the job market, primarily seeking opportunities in academia. Please see my [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) and [Research Statement](dian_research_statement.pdf). If you believe I would be a good fit for your department, feel free to contact me at wang dot dian at northeastern dot edu.**
 
