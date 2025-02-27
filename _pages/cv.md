@@ -36,12 +36,15 @@ Work experience
 ======
 * 2022 - now, [IDEA](https://www.idea.edu.cn/research/cvr.html), Senior CV Researcher
   * Open Set Detection, esp. prompt tuning to customize detection targets given labelled dataset and pretrained model, keypoint detection, etc.
-    * Report, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
-    * Report, [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
-    * Blog, [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
+    * keypoints detection section in Report, [DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding](https://arxiv.org/abs/2411.14347)
+    * supervised prompt tuning part in Blog, [Grounding DINO 1.6](https://deepdataspace.com/blog/6)
+    * edge model part in Report, [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://arxiv.org/abs/2405.10300)
+  * Keypoint Detection, esp. keypoints detection in the wild
+    * CVPR'25 paper: [HandOS: 3D Hand Reconstruction in One Stage](https://idea-research.github.io/HandOSweb/)
   * 3D reconstruction and Novel View Synthesis:
-    * paper: [DIG3D: Marrying Gaussian Splatting with Deformable Transformer for Single Image 3D Reconstruction](https://kenkunliu.github.io/DIG3D/)
+    * CVPR'25 paper: [LeanGaussian: Breaking Pixel or Point Cloud Correspondence in Modeling 3D Gaussians](https://kenkunliu.github.io/DIG3D/)
     * paper: [UniG: Modelling Unitary 3D Gaussians for View-consistent 3D Reconstruction](https://kenkunliu.github.io/UniG/)
+    * ongoing work: JocSplat:  Joint Optimization for Camera parameters and 3D Gaussians, which allows 3D reconstuction without the need for camera extrinsics and intrinsics
   * Inertial Navigation and Integrated Localization (IMU + GPS + wheel odom)
 
 * 2018 - 2022, [SenseTime](https://www.sensetime.com/), Senior Researcher. I was awarded the "Excellent Employee of SenseTime" in 2019. To cope with challenges in the AI-based manifuactor, I worked on the following topics:
