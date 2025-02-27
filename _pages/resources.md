@@ -9,6 +9,8 @@ As part of my Ph.D., I decided to do a 3-month internship after my third year. W
 
 The information below reflects my experience and opinions and is most helpful for Computational Biology or Computer Science (CS) students interested in the combination of tech and biology.
 
+---
+
 # Why do an internship?
 * Research and Technical Skills 
   - Gain hands-on experience working with cutting-edge tools and technologies that may not be available in academia.
@@ -32,6 +34,8 @@ The information below reflects my experience and opinions and is most helpful fo
 - Industry resumes are much shorter and concise (1-2 pages max)
 - Tailor your resume for each role you apply to—ensure keywords from the job description are included
 - I also recommend reaching out to your universities career center as most universities have mentors that can help tailor your academic CV to an industry resume
+
+---
 
 # How do I apply to internships?
 ## Preparation
@@ -62,6 +66,8 @@ If you’ve been invited to interview—congratulations! Here’s what to expect
   - Prepare to explain why you’re interested in this role and company.
 - Technical Interview: The technical interviews really depend on the role you are applying to. The format also varies from virtual live coding session to at home coding assessments. Again, [Leetcode](https://leetcode.com/) is a great resource to prepare for these kind of interviews.
 
+---
+
 # Things to keep in mind as an international student
 There are two work authorizations as part of an F1 visa that allow you to do an internship outside of the university where you are doing your PhD: 
   1. Curricular Practical Training (CPT): Must be completed before graduation and does NOT reduce your post-PhD OPT time.
@@ -69,6 +75,8 @@ There are two work authorizations as part of an F1 visa that allow you to do an 
 
 Why does this matter? If you plan to work in the U.S. after graduation, you might want to preserve OPT time by using CPT for your internship.  Always check with your university’s International Student Office before applying for internships!
 [Here is a guide for Brown University students.](https://oisss.brown.edu/international-students/currently-brown/f-1-students/employment/cpt)
+
+---
 
 # Final Thoughts
 
