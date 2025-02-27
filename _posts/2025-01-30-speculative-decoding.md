@@ -4,8 +4,7 @@ date: 2025-01-30
 permalink: /posts/2025/01/speculative-decoding/
 tags:
   - speculative decoding
-  - LLM
-  - deep learning
+  - image synthesis
 ---
 
-Speculative Decoding的笔记：
+
