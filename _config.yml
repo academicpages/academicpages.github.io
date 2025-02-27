@@ -197,6 +197,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _resources (New addition)
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: true
+      share: true
       
 
 # Sass/SCSS
