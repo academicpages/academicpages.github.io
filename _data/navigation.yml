@@ -7,7 +7,7 @@ main:
     url: /talks/      
         
   - title: "Internship Application Resources"
-    url: /resources/
+    url: "/resources/"
     
   # - title: "Guide"
   #   url: /markdown/

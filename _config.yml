@@ -266,7 +266,7 @@ defaults:
       comments: true
   # _resources
   - scope:
-      path: ""
+      path: _pages/resources.md
       type: resources
     values:
       layout: single
