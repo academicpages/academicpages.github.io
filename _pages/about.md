@@ -47,9 +47,9 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
-  <li>11/2024: Honored to receive the Outstanding Paper Award Finalist at CoRL 2024!</li>
+  <li>11/2024: <a href="https://equidiff.github.io/">Equivariant Diffusion Policy</a> is nominated as an Outstanding Paper Award Finalist at CoRL 2024!</li>
   <li>10/2024: Robin and I presented <a href="https://www.youtube.com/watch?v=MU6wpz_8kEA">Pushing the Limits of Equivariant Neural Networks</a> at the <a href="https://www.neurreps.org/speaker-series">NeurReps Speaker Series</a> at MIT.</li>
-  <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://arxiv.org/pdf/2407.01812">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
+  <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://equidiff.github.io/">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
   <li>09/2024: I had a great time visiting the UPenn GRASP lab and presenting at the GRASP SFI seminar. Recording of my talk: <a href="https://www.youtube.com/watch?v=dJG83-6CZMY">link</a>.</li>
   <li>07/2024: We are organizing the <a href="https://sites.google.com/view/gas-rl-rss2024">Workshop on Geometric and Algebraic Structure in Robot Learning</a> at RSS 2024.</li>
   <li>07/2024: Blogpost in GRAM Workshop @ ICML 2024: <a href="https://gram-blogposts.github.io/blog/2024/extrinsic/">Correct, Incorrect and Extrinsic Equivariance</a>.</li>
