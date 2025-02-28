@@ -250,6 +250,11 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
+# Assets compression to reduce page load times
+assets:
+  compress:
+    css: true
+    js: true
 
 # Outputting
 permalink: /:categories/:title/

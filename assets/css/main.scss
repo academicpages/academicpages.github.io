@@ -39,3 +39,13 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Mobile styles for masthead */
+@media (max-width: 600px) {
+  .masthead {
+    font-size: 12px; /* Adjust the font size as needed */
+  }
+
+
+}

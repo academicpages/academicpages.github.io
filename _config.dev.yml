@@ -7,7 +7,7 @@ analytics:
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
+    shortname            : "docker-dev"
 
 sass:
   style: expanded
