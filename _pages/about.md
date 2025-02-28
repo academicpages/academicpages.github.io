@@ -15,7 +15,7 @@ I am a PhD student in Computational Molecular Biology at the [Center for Computa
 --- 
 # Key research projects
 
-## Bayesian Regression for Predicting the Spread and Selection of Mutations Causing Antimalarial Drug Resistance
+## Bayesian Mixed-Effect for Predicting the Spread and Selection of Mutations Causing Antimalarial Drug Resistance
 Since 2014, resistance to Artemisinin combination therapies—the most common treatment for malaria—has been emerging in East Africa.  Artemisinin partial resistance (ART-R) is caused by mutations in the *Plasmodium falciparum* Kelch13 protein (K13) propeller domain. While the presence of K13 mutations driving this resistance is known, their selection dynamics remain unclear. To address this, I developed a Bayesian regression model that analyzes genomic data to estimate the spread of resistance-associated mutations and predict future trends. This model provides insights into how these mutations propagate across regions, enabling more precise forecasts and supporting public health strategies to mitigate the growing threat of drug-resistant malaria. By combining computational modeling and genomic data, this work contributes to safeguarding the efficacy of antimalarial treatments.
 
 ## A Statistical and Machine Learning Approach to Investigating Unmapped Regions of the Malaria Parasite Genome

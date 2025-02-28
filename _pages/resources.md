@@ -27,7 +27,7 @@ The information below reflects my experience and opinions and is most helpful fo
 - Bioinformatics Scientist: Develops algorithms, pipelines, and statistical models for analyzing biological data (e.g., genomics, transcriptomics, proteomics)
 - Computational Biologist: Applies computational techniques to study biological processes, often in drug discovery, functional genomics, and precision medicine
 - Machine Learning Scientist: Develops AI/ML models for drug discovery, biomarker discovery, medical imaging, or synthetic biology
-- Data Scientist: Applies data science and statistics to clinical trials, real-world patient data (RWD), electronic health records (EHR), and omics
+- Data Scientist: Applies data science and statistics to clinical trials, real-world patient data (RWD), electronic health records (EHR), and omics data.
 - Quantitative Researcher: Develops mathematical, statistical, and computational models to analyze and predict outcomes. This applies to biology, healthcare, and even finance.
 
 # Resume differences between industry vs academia
@@ -44,7 +44,7 @@ The information below reflects my experience and opinions and is most helpful fo
 - Update your CV/resume with recent projects and skills—this makes fine-tuning for each application easier.
 - Identify what you want from an internship. Do you want to improve ML skills, gain industry exposure, or work with large datasets? Knowing this helps filter opportunities.
 - Start preparing for technical assessments if you’re applying to computational roles; [Leetcode](https://leetcode.com/) or similar tools are very helpful.
-- Create a [LinkedIn](https://www.linkedin.com/feed/) profile if you do not already have one.  It’s great for finding internships, connecting with employees, and staying updated on opportunities.
+- Create a [LinkedIn](https://www.linkedin.com/feed/) profile if you do not already have one.  It’s great for finding internships, connecting with employees, and staying updated on opportunities. I also invested in a LinkedIn+ subscription, which allows you to message other LinkedIn users without being connected and provides insights into how well your profile aligns with specific roles.
 - Build a personal website. This helps showcase projects, skills, and publications. I use (academicpages.github.io)[https://github.com/academicpages/academicpages.github.io] (a free template).
 - Track your applications. Use a Google Sheet or Excel file to organize positions, deadlines, and statuses. You can view my tracking format  [here](https://docs.google.com/spreadsheets/d/1xePFswsmH7u2TVA-dDCfp3ZPI5q57kveig0F4LQX6_A/edit?usp=sharing).
 
