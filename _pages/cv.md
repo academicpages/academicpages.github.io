@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download resume](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf).
+
 <br />
 
 Experience
@@ -77,7 +79,7 @@ Extracurricular Activities
 <br />
 <br />
 
-You may download my resume [here](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf).
+
 
 <!---
   
