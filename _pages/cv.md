@@ -11,7 +11,7 @@ redirect_from:
 
 [Download resume](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf).
 
-<br />
+
 
 Experience
 ============
