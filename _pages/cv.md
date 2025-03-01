@@ -12,8 +12,10 @@ Professional Service
 * <font size=3>Invited journal reviewer for:</font>  
   + <font size=3>IEEE Transactions on Communications (TCOM),</font>  
   + <font size=3>IEEE Transactions on Wireless Communications (TWC),</font>  
-  + <font size=3>IEEE Transactions on Vehicular Technology (TVT),</font>  
-  + <font size=3>IEEE Wireless Communication Letter (WCL),</font>  
+  + <font size=3>IEEE Transactions on Vehicular Technology (TVT),</font>
+  + <font size=3>IEEE Communications Magazine,</font>  
+  + <font size=3>IEEE Wireless Communication Letter (WCL),</font>
+  + <font size=3>IEEE  Communication Letter (CL),</font>  
   + <font size=3>Digital Signal Processing (DSP)</font>  
 * <font size=3>Invited conference reviewer for:</font>  
   + <font size=3>IEEE International Conference on Communications (ICC),</font>  
