@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Tatwik Meesala"
 title_separator          : "-"
-name                     : &name "Sai Srinivas Tatwik Meesala"
-description              : &description "Roboticist"
+name                     : &name "Sai Srinivas Tatwik Meesala" # ʃͭᴍ
+description              : &description "Tatwik Meesala's Personal Website"
 url                      : https://tatwik19.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tatwik19/tatwik19.github.io"
@@ -40,7 +40,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
