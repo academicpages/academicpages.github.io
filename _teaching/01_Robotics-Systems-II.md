@@ -18,7 +18,7 @@ Course Links:
 This course covers the analysis and design of robotic systems, with a focus on:
 
 - Understanding and analysis of robotics system espically in Aerial Robots.
-- Software for robot simulation.
+- Software for robot simulation and deployment.
 
 ## Student Learning Outcomes
 

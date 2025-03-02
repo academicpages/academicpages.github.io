@@ -18,10 +18,12 @@ This course covers the analysis and design of robotic systems, with a focus on:
 
 - Kinematics and dynamics
 - Coordinate transformations
-- Modeling and simulation of robotic mechanisms
+- Modeling, simulation, and deployment of robotic mechanisms
 
 ## Student Learning Outcomes
 
-- Understand and apply kinematics and dynamics principles application to robotics
-- Understand engineering applications of robotic systems
-- Using software tools (MATLAB, Solidworks) for solving robotic systems
+- Apply kinematic and dynamic principles to robotic systems
+- Understand real-world engineering applications of robotics
+- Utilize software tools such as MATLAB and SolidWorks for robotic system analysis and design
+- Apply these concepts to industrial collaborative robots (Cobots)
+- Integrate perception concepts for enhanced robotic functionality
