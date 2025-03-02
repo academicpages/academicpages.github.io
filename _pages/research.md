@@ -8,7 +8,7 @@ author_profile: true
 ### Work in Progress
 
 - **"Should I Mail or Should I Go: Insights From a One-Time All-Postal Runoff Election"** (with [V. Lindlacher](http://www.lindlacher.com/)) <br>
-([Latest Version](http://www.lindlacher.com/upload/voting_all_postal.pdf) <br>
+([Latest Version](http://www.lindlacher.com/upload/voting_all_postal.pdf)) <br>
 Abstract: *We investigate how reducing information costs due to forced experimentation with postal voting affects voting behavior. Leveraging a natural experiment during the Bavarian 2020 Mayoral Elections, we employ an event study design. We find a transitory increase in total turnout and a persistent substitution from in-person to postal voting. Notably, municipalities with a higher turnout in the past show a larger effect. Investigating the distribution of the information costs shows an age gradient with the highest information costs for the oldest age group. The conservative governing party (CSU) gains persistently from higher postal turnout and other conservative parties' in-person voters.*
   
 - **"A Waiting Game: The Effect of Electoral Irregularities in the 2021 Berlin Elections on Voter Behavior"** <br>
