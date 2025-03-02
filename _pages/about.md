@@ -12,8 +12,8 @@ redirect_from:
 <br />
 
 
-News
-======
+## News
+
 <style>
 table {
     width: 100%;
