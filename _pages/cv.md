@@ -13,8 +13,8 @@ redirect_from:
 
 
 
-Experience
-============
+## Experience
+
 **[Marinella Research](https://www.marinellaresearch.com/)** – Chandler, Arizona<br />
 **Robotics Researcher** <span style="float:right;"> May 2024 – Dec 2024</span>
 *	Lead multidisciplinary research projects, focusing on robotics, industrial automation, digital twins, additive manufacturing, machine vision, and system engineering contributing to the next-gen industry.
@@ -41,8 +41,8 @@ Experience
 
 <br />
 
-Education
-============
+##  Education
+
 **Arizona State University – Mesa/Tempe, Arizona** <span style="float:right;"> **GPA: 4.00+**</span><br />
 PhD. Robotics and Autonomous Systems <span style="float:right;">Jan 2025</span><br />
 MS. Robotics and Autonomous Systems (SE) <span style="float:right;">Aug 2022 – May 2024</span><br />
@@ -50,14 +50,14 @@ BSE. Robotics <span style="float:right;">Aug 2019 – May 2023</span>
 
 <br />
 
-Awards
-============
+## Awards
+
 [Dean’s List · Certificate of Merit in ASU (2019 to 2022)](https://github.com/Tatwik19/Tatwik19.github.io/tree/master/files/Awards/00_Deans%20List)
 
 <br />
 
-Certifications
-==================
+## Certifications
+
 *	Coursera Robotics Aerial Robotics
 *	Coursera Robotics Perception
 *	Coursera Estimation and Learning
@@ -65,8 +65,8 @@ Certifications
 
 <br />
 
-Extracurricular Activities
-==============================
+## Extracurricular Activities
+
 *	Winner - HGA Golf Tournament (Category – A) <span style="float:right;"> March</span>
 
 *	Sponsorship For Emerging Talent in Golf 
@@ -83,8 +83,8 @@ Extracurricular Activities
 
 <!---
   
-Skills
-======
+## Skills
+
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
@@ -92,28 +92,28 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+## Service and leadership
+
 * Currently signed in to 43 different slack teams
 -->
-
+---
 <br />
 <br />
