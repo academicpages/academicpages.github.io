@@ -12,11 +12,9 @@ redirect_from:
 
 本Github账号主要运营对于Furry亚文化相关的事务与代码仓库
 
-## 联系我
-[FurryFandomClub 官网](https://furryfandomclub.cn/) 
+## About Me
+I'm Kachi, a Java Coder from mainland China and also a Furry enthusiast.
+I manage a non-profit community called **FurryFandomClub**. As of February 2025, our QQ group has exceeded **4,500** members. We are dedicated to fostering consensus within the mainland Furry subculture community, exploring the origins and historical development of the Furry fandom, and popularizing related knowledge among enthusiasts.
 
-[哔哩哔哩@咖麒](https://space.bilibili.com/42329168) 
+This GitHub account primarily manages Furry subculture-related affairs and code repositories.
 
-[腾讯QQ](https://qm.qq.com/q/NMtQ3rM0yS) 
-
-<kachivote@gmail.com>
