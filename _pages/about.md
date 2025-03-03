@@ -30,7 +30,7 @@ This GitHub account primarily manages Furry subculture-related affairs and code 
 ## Contact Me  
 
 [FurryFandomClub](https://furryfandomclub.cn/)  
-[Bilibili @Kaqi](https://space.bilibili.com/42329168)  
+[Bilibili @咖麒](https://space.bilibili.com/42329168)  
 [Tencent QQ](https://qm.qq.com/q/NMtQ3rM0yS)  
 
 
