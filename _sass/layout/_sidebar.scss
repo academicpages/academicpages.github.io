@@ -89,13 +89,24 @@
     height: auto;
   }
 
-  img {
-    max-width: 175px;
+  .avatar-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
     border-radius: 50%;
+    padding: 5px;
+    border: 1px solid var(--global-border-color);
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid var(--global-border-color);
+    img {
+      width: 100%;
+      height: 100%;
+      transition: transform 0.3s ease; // Add smooth transition
+      border-radius: 50%; // Ensure the image itself is rounded
+
+      &:hover {
+        transform: scale(1.5); // Add zoom effect on hover
+      }
     }
   }
 }
