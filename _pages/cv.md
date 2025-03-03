@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll Rajas, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Computer Science, University of Southern California,   *2024-2026*    (Expected)
+* B.Engg. in Computer Engineering, Savitribai Phule Pune University, *2019-2023*
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Graduate Research Assistant**  &emsp; *[Aug 2024 - Present]*
+  * [SLURM Lab](https://slurm-lab-usc.github.io/) at USC
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Machine Learning Engineer**  &emsp;&emsp; *[July 2023 - May 2024]*
+  * [Thelios AI](https://thelios.ai/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Machine Learning Intern**  &emsp;&emsp;&emsp; *[Aug 2022 - June 2023]*
+  * [Thelios AI](https://thelios.ai/)
+
+* **Research Intern**  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; *[June 2022 - July 2022]*
+  * AGB-Incubator, Great Lakes Institute of Management
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* <ins>Frameworks and libraries</ins>
+  * PyTorch, TensorFlow, Keras, fast.ai, MMAction2, Flask
+  * OpenCV, Pandas, NumPy, Scikit-learn
+* <ins>Programming Languages</ins>
+  * Python, C++, HTML/CSS, SQL, Shell-scripting
+* <ins>Others</ins>
+  * AWS, Apache Airflow, Docker, Autodesk Fusion360, Solidworks
+* <ins>Non-technical</ins>
+  * Communication, Problem-solving, Team Player, Detail-oriented
 
 Publications
 ======
@@ -47,18 +46,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+  {% endfor %}</ul>-->
+
+Leadership
 ======
 * Currently signed in to 43 different slack teams
