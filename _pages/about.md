@@ -22,6 +22,9 @@ My research interests include
 
 
 # News
+### 2025
+- 📙 [Jan 2024] 1 paper accepted at the ICLR 2025: [Differentially Private Learners for Heterogeneous Treatment Effects](https://valentyn1997.github.io/publications/2025-03-02-differentially-private-learners-for-heterogeneous-treatment-effects/) (poster) 
+
 ### 2024
 - ✈️ [Dec 2024] Attending [NeurIPS 2024](https://nips.cc/Conferences/2024) in Vancouver, Canada
 - 👨‍🏫 [Oct 2024] Designated as a co-director of a newly founded [Causal ML Lab](https://www.som.lmu.de/ai/en/research/causal-ml-lab/) at the Institute of AI in Management, LMU Munich  
