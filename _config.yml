@@ -13,9 +13,9 @@ title                    : "咖麒的Github"
 title_separator          : "-"
 name                     : &name "咖麒"
 description              : &description "用于管理与运营亚文化相关的Github"
-url                      : https://kachivte.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://github.com/KachiVote/kachivte.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "KachiVote/KachiVote/kachivote.github.io"
+repository               : "KachiVote/kachivote.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
