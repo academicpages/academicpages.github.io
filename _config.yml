@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kachi_avatar.jpg"
+  avatar           : "kachi_avatar.png"
   name             : "咖麒"
-  # pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "互联网老鼠"
   location         : "Earth/Internet"
   employer         : "FurryFandomClub"
