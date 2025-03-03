@@ -19,4 +19,4 @@ redirect_from:
 
 [腾讯QQ](https://qm.qq.com/q/NMtQ3rM0yS) 
 
-邮箱：kachivote@gmail.com
+<kachivote@gmail.com>
