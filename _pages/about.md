@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic personal websites for Lujiameng"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Lu Jiameng, currently studying in Macao University of Science and Technology, majoring in Biomedical Science, has published 6 SCI articles, including 4 first-authored articles, one authorized  patent. He was awarded the National Scholarship, Shandong University Master's Scholarship, Excellent Graduate of Shandong Province, Outstanding Graduate of Shandong University, Silver Prize of the Seventh “Internet+” National Finals, Gold Prize of “Internet+” Shandong Province, First Prize of ICAN National Innovation and Entrepreneurship Finals, First Prize of Shandong Province Internet of Things Finals, and First Prize of Shandong Province Internet of Things Finals. First Prize of ICAN National Innovation and Entrepreneurship Final, First Prize of Shandong Province Internet of Things Creativity Competition, and more than ten other awards.
 
 A data-driven personal website
 ======
