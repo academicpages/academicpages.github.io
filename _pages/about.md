@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Wang Yichen. I am currently studying Software Engineering at Yanshan University and will be pursuing a PhD in Computer Science and Technology at the National University of Defense Technology in 2025. My research interests lie in high-performance computing and other areas. Feel free to communicate with me. 
+Hello, my name is Wang Yichen. I am currently studying Software Engineering at [Yanshan University](https://ysu.edu.cn/) and will be pursuing a PhD in Computer Science and Technology at the [National University of Defense Technology](https://www.nudt.edu.cn/) in 2025. My research interests lie in high-performance computing and other areas. Feel free to communicate with me. 
+
+[Email](yichenwang2002@gmail.com) / [Github](https://github.com/wangyc2002) / [Wechat](../image/wechat.jpg)
 
 A data-driven personal website
 ======
