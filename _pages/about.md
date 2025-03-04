@@ -20,3 +20,7 @@ redirect_from:
 I am an Assistant Professor in the Political Science Department at the University of Illinois, Urbana-Champaign. Previously, I was the postdoctoral fellow at the Christopher H. Browne Center for International Relations at the University of Pennsylvania and I recieved my PhD in political science from Yale in 2023. My research agenda, broadly characterized as the international political economy of development, examines the domestic political consequences of foreign aid with particular attention to climate finance.
 
 My work has been published or accepted at journals such as <span class="emphasize">International Studies Quarterly</span>, <span class="emphasize">World Development</span>, and <span class="emphasize">Review of International Organizations</span>.
+
+
+
+Looking for information about political scientists' efforts to support foreign aid after the USAID funding cuts? Subscribe to \url{polisciUSAID@illinois.edu} by sending an email to sympa@lists.illinois.edu with the subject line "subscribe polisciUSAID Firstname Lastname."
