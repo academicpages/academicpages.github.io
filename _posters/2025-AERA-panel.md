@@ -1,10 +1,10 @@
 ---
-title: "<i>(under review)</i> Why Does Education Need AI?"
+title: "<b>(AERA Presidential Session)</b> AI and Educational Justice: A Critical Conversation"
 collection: publications
-date: 2025-03-21
+date: 2025-04-23
 venue: 'AERA'
-paperurl: 
+paperurl: https://tinyurl.com/2bsuusuf
 pdf: 
-citation: 'AERA 2025'
-excerpt: 'Artificial intelligence (AI) is profoundly transforming society. Why does education need AI, and what will AI mean for educational justice? At present, curiosity and optimism pervade the field. Researchers are studying and piloting AI-based interventions across multiple levels of the education system (e.g., Zhai et al., 2024). Education policymakers are executing high-stakes financial decisions related to AI.[1] Some researchers argue that the “train has left the station,” and that education stakeholders should shift focus away from considering the risks of AI to embracing its promise (Zhai, & Nehm, 2023). We strongly disagree with any unfettered optimism towards AI. We worry that researchers have not deeply considered the potential and documented harms of AI—especially towards minoritized students, their communities, and schools. We argue that serious appraisals of the downside risks of AI in education are our professional responsibility. The purpose of this session is to open needed dialogue about the harms of AI in education. We intentionally frame the session from a lens of robust skepticism. We do not assume that AI is necessary for education or for educational justice. We will discuss known harms documented across interdisciplinary literature, as well as engage in reasoned speculation about future harms.'
+citation: 'Shah, N., Stroupe, D., Schneider Kavanagh, S., Bernhard, T., Krist, C., Dyer, E. B., Cox, E. M., Rosenberg, J. M., Vakil, S., Logan, C., Caballero, M. D., Yadav, A., <b>Hu, A. D.</b>, Calosso, R. A., Reinholz, D., Li, T. (2025, April 23). <i>AI and Educational Justice: A Critical Conversation</i> [Presidential invited speaker session]. AERA 2025, Denver, CO, United States. https://tinyurl.com/2bsuusuf'
+excerpt: 'Why does education need artificial intelligence (AI), and what does AI mean for educational justice? While optimism surrounds the growing use of AI in education, we challenge this uncritical embrace. As yet, education researchers have not fully examined the potential and documented harms AI poses—particularly to minoritized students, their schools, and communities. This presidential session aims to open a research-based dialogue on the risks and potential benefits of AI in education, given what our limited evidence tells us thus far. Framed through a lens of rigorous skepticism, we question whether AI is truly necessary for advancing education or educational justice. We will explore both the well-documented harms from interdisciplinary research and engage in thoughtful speculation about future risks.'
 ---
