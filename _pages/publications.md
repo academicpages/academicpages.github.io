@@ -28,7 +28,7 @@ author_profile: true
 国际会议
 ======
 
-6\. **Ma K**. Development of a multi-dimensional scale of social compensation for older people in the context of smart home social media. *HCII2024*. **(EI检索)** (Accepted) 
+6\. **Ma K**, Gao M, He R. Constructing a Multi-dimensional Social Compensation Design Scale for Older People Within the Framework of Social Media for Smart Homes. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2024*. Cham: Springer Nature Switzerland (2024). p. 59–75 doi: 10.1007/978-3-031-61543-6_5. **(EI检索)** [(link)] (https://link.springer.com/chapter/10.1007/978-3-031-61543-6_5)
 
 5\. **Ma K**, Gao M, Guida FE, He R. Research on Influencing Factors of Elderly User Experience of Smart Home Social Software Based on Grounded Theory. In: Gao Q,  Zhou J, editors. *Human Aspects of IT for the Aged Population*. *HCII2023*. Lecture Notes in Computer Science, vol 14043. Cham: Springer Nature Switzerland (2023). p. 17–30 doi: 10.1007/978-3-031-34917-1_2. **(EI检索)** [[link]](https://link.springer.com/chapter/10.1007/978-3-031-34917-1_2)
 
