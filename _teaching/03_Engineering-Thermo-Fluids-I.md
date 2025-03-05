@@ -8,7 +8,7 @@ date: 2023-05-01
 location: "Arizona"
 ---
 
-Served as a Teaching Assistant for Thermo-Fluids I during the **Summer 2023** semester.  
+Served as a Grader for Thermo-Fluids I during the **Summer 2023** semester.  
 
 [Course Link](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=41258&searchType=all&term=2234#detailsOpen=41258-120545)
 

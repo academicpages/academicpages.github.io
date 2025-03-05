@@ -8,7 +8,8 @@ date: 2023-01-01
 location: "Arizona"
 ---
 
-Served as a Teaching Assistant for Robotic Systems II during the **Spring 2023 and Spring 2024** semesters. Assisted students in understanding key concepts and applications in robotics.  
+Served as a Teaching Assistant for Robotic Systems II during the **Spring 2023 and Spring 2024** semesters.  
+Assisted students in understanding key concepts and applications in robotics.  
 
 Course Links:
 - [Spring 2023](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=26986&searchType=all&term=2231#detailsOpen=26986-130856)
