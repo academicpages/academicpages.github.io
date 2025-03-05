@@ -7,26 +7,84 @@ redirect_from:
   - /about.html
 ---
 
-:wave: Hello! My name is Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf).
+:wave: Hello! I'm Nandan Thakur (नंदन ठाकुर / নন্দন ঠাকুর) [[CV]](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf). I'm a ~~(third)~~ fourth-year PhD student at [University of Waterloo](https://cs.uwaterloo.ca/) working on Information Retrieval (IR) and Natural Language Processing (NLP), building efficient embedding models and realistic evaluation benchmarks. I'm lucky to be advised by [Professor Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My PhD is partially supported by the David R. Cheriton Graduate Scholarship [[link](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)]. 
 
-I'm currently a ~~(second)~~ third-year PhD student in the [David R. Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the University of Waterloo in Canada, advised by [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). My research is supported by the [David R. Cheriton Graduate Scholarship](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship) (2024).
+My research is focused on three aspects: (i) Construct challenging \& realistic benchmarks, focusing on evaluation and benchmarking (ii) Building efficient retrieval systems, whose quality and cost can be optimized and generalize well to unseen challenging domains, and (iii) Standardize RAG evaluation, which builds trust within the IR \& NLP community. 
 
-My research is on "Heterogeneous benchmarking of Retrieval and RAG systems across diverse domains and languages". I developed the [BEIR benchmark](http://beir.io) in 2021, which has become an industry standard for measuring model generalization. I've been fortunate to be a part of [MIRACL](http://miracl.ai), [SWIM-IR](https://github.com/google-research-datasets/swim-ir) and similar datasets. Recently, I have been working on better evaluation of Retrieval-Augmented Generation (RAG) systems, where I am co-hosting the first ever RAG competition in TREC 2024: [TREC 2024 RAG](https://trec-rag.github.io).
-During my PhD, I've been involved in many research collaborations, including [SnowFlake AI](https://www.snowflake.com/en/), [Vectara](https://vectara.com/) and [Huawei](http://dev3.noahlab.com.hk/). I've also been fortunate to intern at [Google Research](https://research.google/). 
+To answer these questions, my research develops *new benchmarks* such as [BEIR](http://beir.io) or [MIRACL](http://miracl.ai) to enable realistic evaluations, and constructs *efficient models* with [GPL](https://arxiv.org/abs/2205.11498) \& [SWIM-IR](https://arxiv.org/abs/2311.05800). This accelerates [RAG systems](https://trec-rag.github.io) to help craft language model answers with reduced [hallucinations](https://aclanthology.org/2024.findings-emnlp.730/) and improved accuracy seen across [domains]() and [languages](https://arxiv.org/abs/2410.13716).
 
+I have previously interned at [Google](https://research.google/), [Vectara](https://vectara.com/) and [Databricks](https://www.databricks.com/research/mosaic). I've also collaborated with industry partners including Snowflake, Micrsoft and Huawei. Previously, I worked at [UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in TU Darmstadt advised by [Professor Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/), and KNOLSKAPE. I received my undergraduate degree from BITS Pilani KK Birla Goa Campus in 2018.
 
-Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017).
-
-
-If you wish to learn more about my research, visit [Research](/publications/) where I mention in depth and maintain a list of all my publications. For any questions, best way to reach out to me is via email: `nandan.thakur@uwaterloo.ca`, `nandant@gmail.com` or Twitter.
-
-
-<span style="color:red">I am actively looking for research internships in Fall 2024!</span>
+<!-- I've been fortunate to be a part of [MIRACL](http://miracl.ai), [SWIM-IR](https://github.com/google-research-datasets/swim-ir) and similar datasets. Recently, I have been working on better evaluation of Retrieval-Augmented Generation (RAG) systems, where I am co-hosting the first ever RAG competition in TREC 2024: [TREC 2024 RAG](https://trec-rag.github.io). -->
+<!-- During my PhD, I've been involved in many research collaborations, including [SnowFlake AI](https://www.snowflake.com/en/), [Vectara](https://vectara.com/) and [Huawei](http://dev3.noahlab.com.hk/). I've also been fortunate to intern at [Google Research](https://research.google/).  -->
+<!-- Before my PhD, I was a research assistant at the [UKP Lab (TU Darmstadt)](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) in Germany, supervised by Prof. [Iryna Gurevych](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp/index.en.jsp) and [Nils Reimers](https://www.nils-reimers.de/) (2019 - 2021). I received my undergraduate degree at [Birla Institute of Technology and Science, Pilani (BITS Pilani)](https://www.bits-pilani.ac.in/) in 2018. I also have industrial experience, working as a Data Scientist in [KNOLSKAPE](https://knolskape.com/) (2018 - 2019) and undergraduate internships at [EMBL Heidelberg](https://www.embl.org/sites/heidelberg/) (Summer 2018) and [Belong.co](https://belong.co/) (Fall & Winter 2017). -->
 
 
-## :fire: Recent News
+Visit [Research](/publications/) to learn more about my research. You can reach me at nandan.thakur@uwaterloo.ca or nandant@gmail.com. I'd love to hear from you!
 
-### 2024
+Curriculum Vitae: [CV](https://thakur-nandan.github.io/files/Nandan_Thakur_CV_latest.pdf)
+
+## :fire: Recent Updates
+<span style="color:red">I am looking for (remote) research internships in Summer 2025!</span>
+
+
+## :scroll: Papers
+
+<p><strong>MIRAGE-Bench: Automatic Multilingual Benchmark Arena for Retrieval-Augmented Generation Systems</strong><br>
+<u>N Thakur</u>, S Kazi, G Luo, J Lin, A Ahmad<br>
+<strong> NAACL 2025</strong> (to appear) | <a href="https://arxiv.org/abs/2410.13716">paper</a> | <a href=https://github.com/vectara/mirage-bench>code</a>
+</p>
+
+<p><strong>MMTEB: Massive Multilingual Text Embedding Benchmark</strong><br>
+K Enevoldsen, I Chung, ..., <u>N Thakur</u>, ..., N Muennighoff<br>
+<strong> ICLR 2025</strong> (to appear) | <a href="https://openreview.net/forum?id=zl3pfz4VCV">paper</a>
+</p>
+
+<p><strong>Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track</strong><br>
+R Pradeep*, <u>N Thakur*</u>, S Sharifymoghaddam, E Zhang, R Nguyen, D Campos, N Craswell, J Lin<br>
+<strong>ECIR 2025 (Findings)</strong> (to appear) | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+</p>
+
+<p><strong>Initial Nugget Evaluation Results for the TREC 2024 RAG Track with the AutoNuggetizer Framework</strong><br>
+R Pradeep, <u>N Thakur</u>, S Upadhyay, D Campos, N Craswell, J Lin<br>
+<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.09607">paper</a>
+</p>
+
+<p><strong>A Large-Scale Study of Relevance Assessments with Large Language Models: An Initial Look</strong><br>
+S Upadhyay, R Pradeep, <u>N Thakur</u>, D Campos, N Craswell, I Soboroff, H T Dang, J Lin<br>
+<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2411.08275">paper</a>
+</p>
+
+<p><strong>UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor</strong><br>
+S Upadhyay, R Pradeep, <u>N Thakur</u>, N Craswell, J Lin<br>
+<strong>Preprint 2024</strong> | <a href="https://arxiv.org/abs/2406.06519">paper</a>
+</p>
+
+<p><strong>“Knowing When You Don’t Know”: A Multilingual Relevance Assessment Dataset for Robust Retrieval-Augmented Generation</strong><br>
+<u>N Thakur</u>, L Bonifacio, X Zhang, O Ogundepo, E Kamalloo, D A Hermelo, X Li, Q Liu, B Chen, M Rezagholizadeh, J Lin<br>
+<strong>EMNLP 2024 (Findings)</strong> | <a href="https://aclanthology.org/2024.findings-emnlp.730/">paper</a>
+</p>
+
+<p><strong>Systematic Evaluation of Neural Retrieval Models on the Touché 2020 Argument Retrieval Subset of BEIR</strong><br>
+<u>N Thakur</u>, L Bonifacio, M Fröbe, A Bondarenko, E Kamalloo, M Potthast, M Hagen, J Lin<br>
+<strong>SIGIR 2024 (Repro)</strong> | <a href="https://dl.acm.org/doi/10.1145/3626772.3657861">paper</a>
+</p>
+
+<p><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
+<u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
+<strong>NAACL 2024</strong> | <a href="https://aclanthology.org/2024.naacl-long.426/">paper</a>
+</p>
+
+<p><strong>Leveraging LLMs for Synthesizing Training Data Across Many Languages in Multilingual Dense Retrieval</strong><br>
+<u>N Thakur</u>, J Ni, G H Abrego, J Wieting, J Lin, D Cer<br>
+<strong>NAACL 2024</strong> | <a href="https://aclanthology.org/2024.naacl-long.426/">paper</a>
+</p>
+
+
+## Old News
+
+
+<details markdown="1"><summary><b>2024</b></summary>
 
 - **[May 2024]** :trophy: I have been awarded the <span style="color:red">David R. Cheriton Graduate Scholarship</span> starting Fall 2024 for my scholastic excellence in my PhD! [[Link]](https://cs.uwaterloo.ca/current-graduate-students/funding-and-awards/david-r-cheriton-graduate-scholarship)
 - **[May 2024]** :handshake: Collaboration with Snowflake AI towards building better BEIRv2 and TREC-RAG [[blogpost]](https://www.snowflake.com/blog/snowflake-ai-research-joins-forces-with-the-university-of-waterloo/).
@@ -38,6 +96,7 @@ If you wish to learn more about my research, visit [Research](/publications/) wh
 - **[Feb 2024]** :bulb: Started part time research collaboration on improving multilingual RAG systems with [Vectara](https://vectara.com/).
 - **[Jan 2024]** :speaking_head: Gave two research talks on "Heterogeneous Benchmarking of Information Retrieval" in IIT-D (Delhi) and IIIT-Delhi [[presentation]](https://docs.google.com/presentation/d/1IxwfL8zZnq6hn6KFuYm8vm9uM8Zq4B8d/edit#slide=id.p1) [[video]](https://www.youtube.com/watch?v=5ujaTVx-AkI).
 
+</details>
 
 <details markdown="1"><summary><b>2023</b></summary>
 
