@@ -8,7 +8,7 @@ author_profile: true
 Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date%20desc%2C%20bibcode%20desc&p_=0) and here: [arXiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
 
 <div id="publications-api"></div>
-<div id="publications-fallback">
+<div id="publications-fallback" style="display:none;">
   {% include publications-list.html %}
 </div>
 
@@ -83,15 +83,49 @@ $(document).ready(function() {
       } else {
         // If no publications were found, show fallback
         $("#publications-fallback").show();
-        $("#publications-api").hide();
       }
     },
     error: function(jqXHR, textStatus, errorThrown) {
       // If there's an error, show fallback
       console.error("Error fetching publications:", textStatus, errorThrown);
       $("#publications-fallback").show();
-      $("#publications-api").hide();
     }
   });
 });
 </script>
+
+<style>
+.publications-list {
+  padding: 0;
+}
+
+.publication-item {
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #eee;
+}
+
+.publication-title {
+  font-weight: bold;
+  margin-bottom: 0.3em;
+}
+
+.publication-title a {
+  color: #2c3e50;
+  text-decoration: none;
+}
+
+.publication-title a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+.publication-authors {
+  font-style: italic;
+  margin-bottom: 0.3em;
+}
+
+.publication-journal {
+  color: #666;
+}
+</style>
