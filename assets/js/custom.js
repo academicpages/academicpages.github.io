@@ -4,6 +4,22 @@ $(document).ready(function() {
     // Get window width
     var windowWidth = $(window).width();
     
+    // Apply body padding for all screen sizes
+    $('body').css({
+      'padding-left': '5%',
+      'padding-right': '5%',
+      'max-width': '90%',
+      'margin': '0 auto'
+    });
+    
+    // Apply header and footer adjustments
+    $('.masthead, .page__footer').css({
+      'margin-left': '-5.5%',
+      'margin-right': '-5.5%',
+      'padding-left': '5.5%',
+      'padding-right': '5.5%'
+    });
+    
     if (windowWidth >= 1024) { // Large screens
       $('.sidebar').css({
         'position': 'relative',
@@ -11,7 +27,8 @@ $(document).ready(function() {
         'float': 'left',
         'width': '250px',
         'margin-left': '0',
-        'padding-left': '0'
+        'padding-left': '0',
+        'padding-right': '20px'
       });
       
       $('.page').css({
@@ -19,7 +36,8 @@ $(document).ready(function() {
         'width': 'calc(100% - 280px)',
         'margin-left': '0',
         'margin-right': '0',
-        'clear': 'none'
+        'clear': 'none',
+        'padding': '2em'
       });
       
       $('.archive, .page__related').css({
@@ -34,7 +52,8 @@ $(document).ready(function() {
         'float': 'left',
         'width': '200px',
         'margin-left': '0',
-        'padding-left': '0'
+        'padding-left': '0',
+        'padding-right': '20px'
       });
       
       $('.page').css({
@@ -42,7 +61,8 @@ $(document).ready(function() {
         'width': 'calc(100% - 220px)',
         'margin-left': '0',
         'margin-right': '0',
-        'clear': 'none'
+        'clear': 'none',
+        'padding': '1.5em'
       });
       
       $('.archive, .page__related').css({
@@ -51,17 +71,32 @@ $(document).ready(function() {
       });
     }
     else { // Small screens
+      $('body').css({
+        'padding-left': '3%',
+        'padding-right': '3%',
+        'max-width': '94%'
+      });
+      
+      $('.masthead, .page__footer').css({
+        'margin-left': '-3.2%',
+        'margin-right': '-3.2%',
+        'padding-left': '3.2%',
+        'padding-right': '3.2%'
+      });
+      
       $('.sidebar').css({
         'position': 'relative',
         'transform': 'none',
         'float': 'none',
-        'width': '100%'
+        'width': '100%',
+        'padding-right': '0'
       });
       
       $('.page').css({
         'float': 'none',
         'width': '100%',
-        'margin-left': '0'
+        'margin-left': '0',
+        'padding': '1em'
       });
       
       $('.archive, .page__related').css({
@@ -69,6 +104,16 @@ $(document).ready(function() {
         'float': 'none'
       });
     }
+    
+    // Ensure main container has proper spacing
+    $('#main').css({
+      'clear': 'both',
+      'margin-left': '0',
+      'padding-left': '0',
+      'display': 'flex',
+      'flex-wrap': 'wrap',
+      'margin-top': '2em'
+    });
   }
   
   // Run layout fix on page load

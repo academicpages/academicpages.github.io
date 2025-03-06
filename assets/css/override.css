@@ -3,6 +3,30 @@
    These rules use !important to ensure they take precedence
 */
 
+/* Move entire layout to the right */
+body {
+  padding-left: 5% !important;
+  padding-right: 5% !important;
+  max-width: 90% !important;
+  margin: 0 auto !important;
+}
+
+/* Header and footer adjustments */
+.masthead {
+  margin-left: -5.5% !important;
+  margin-right: -5.5% !important;
+  padding-left: 5.5% !important;
+  padding-right: 5.5% !important;
+}
+
+.page__footer {
+  margin-left: -5.5% !important;
+  margin-right: -5.5% !important;
+  padding-left: 5.5% !important;
+  padding-right: 5.5% !important;
+  clear: both !important;
+}
+
 /* Fix sidebar and main content positioning */
 .sidebar {
   position: relative !important;
@@ -11,6 +35,7 @@
   width: 250px !important;
   margin-left: 0 !important;
   padding-left: 0 !important;
+  padding-right: 20px !important;
   z-index: 10 !important;
 }
 
@@ -21,6 +46,7 @@
   margin-right: 0 !important;
   clear: none !important;
   position: relative !important;
+  padding: 1.5em !important;
 }
 
 #main {
@@ -29,6 +55,7 @@
   padding-left: 0 !important;
   display: flex !important;
   flex-wrap: wrap !important;
+  margin-top: 2em !important;
 }
 
 .layout--single {
@@ -42,11 +69,13 @@
   .sidebar {
     width: 250px !important;
     float: left !important;
+    padding-right: 20px !important;
   }
   
   .page {
     width: calc(100% - 280px) !important;
     float: right !important;
+    padding: 2em !important;
   }
   
   .archive, .page__related {
@@ -59,11 +88,13 @@
   .sidebar {
     width: 200px !important;
     float: left !important;
+    padding-right: 20px !important;
   }
   
   .page {
     width: calc(100% - 220px) !important;
     float: right !important;
+    padding: 1.5em !important;
   }
   
   .archive, .page__related {
@@ -73,14 +104,29 @@
 }
 
 @media (max-width: 48em) {
+  body {
+    padding-left: 3% !important;
+    padding-right: 3% !important;
+    max-width: 94% !important;
+  }
+  
+  .masthead, .page__footer {
+    margin-left: -3.2% !important;
+    margin-right: -3.2% !important;
+    padding-left: 3.2% !important;
+    padding-right: 3.2% !important;
+  }
+  
   .sidebar {
     width: 100% !important;
     float: none !important;
+    padding-right: 0 !important;
   }
   
   .page {
     width: 100% !important;
     float: none !important;
+    padding: 1em !important;
   }
   
   .archive, .page__related {
