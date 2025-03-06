@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-<div class="cv-container">
+<div class="cv-container" style="margin-top: -0.5em;">
   <iframe src="{{ base_path }}/files/CV1.pdf"></iframe>
 </div>
 
-<div style="margin-top: 20px; text-align: center;">
+<div style="margin-top: 10px; text-align: center;">
   <a href="{{ base_path }}/files/CV1.pdf" class="btn btn--primary" style="display: inline-block; margin: 0 auto; padding: 10px 20px; background-color: #3498db; color: white; text-decoration: none; border-radius: 4px; font-weight: bold;">
     <i class="fa fa-download" aria-hidden="true"></i> Download CV
   </a>

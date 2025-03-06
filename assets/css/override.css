@@ -133,4 +133,46 @@ body {
     width: 100% !important;
     float: none !important;
   }
+}
+
+/* CV page overrides */
+.layout--cv .sidebar {
+  width: 180px !important;
+  padding-right: 10px !important;
+}
+
+.layout--cv .page {
+  width: calc(100% - 190px) !important;
+  padding: 0.5em !important;
+}
+
+.layout--cv .page__title {
+  margin-top: 0 !important;
+  margin-bottom: 0.5em !important;
+}
+
+.layout--cv .page__content {
+  padding: 0 !important;
+}
+
+.cv-container {
+  padding-bottom: 170% !important;
+}
+
+@media (min-width: 64em) {
+  .cv-container {
+    padding-bottom: 190% !important;
+  }
+}
+
+@media (min-width: 48em) and (max-width: 64em) {
+  .cv-container {
+    padding-bottom: 200% !important;
+  }
+}
+
+@media (max-width: 48em) {
+  .cv-container {
+    padding-bottom: 220% !important;
+  }
 } 

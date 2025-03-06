@@ -15,11 +15,11 @@ layout: default
 {% endif %}
 
 <div id="main" role="main" style="display: flex; flex-wrap: wrap; clear: both; margin-top: 2em;">
-  <div class="sidebar" style="position: relative; float: left; width: 250px; margin-left: 0; padding-left: 0; padding-right: 20px;">
+  <div class="sidebar" style="position: relative; float: left; width: 200px; margin-left: 0; padding-left: 0; padding-right: 15px;">
     {% include sidebar.html %}
   </div>
 
-  <article class="page" itemscope itemtype="http://schema.org/CreativeWork" style="float: right; width: calc(100% - 280px); margin-left: 0; margin-right: 0; clear: none; padding: 1.5em;">
+  <article class="page" itemscope itemtype="http://schema.org/CreativeWork" style="float: right; width: calc(100% - 215px); margin-left: 0; margin-right: 0; clear: none; padding: 1em;">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
 
     <div class="page__inner-wrap">
@@ -29,7 +29,7 @@ layout: default
         </header>
       {% endunless %}
 
-      <section class="page__content" itemprop="text">
+      <section class="page__content" itemprop="text" style="padding: 0;">
         {{ content }}
       </section>
     </div>

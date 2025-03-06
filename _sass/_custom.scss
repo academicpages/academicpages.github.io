@@ -314,10 +314,26 @@ body {
   }
 }
 
+// Specialized layout for CV page
+.layout--cv {
+  .page {
+    padding: 0.5em;
+  }
+  
+  .page__title {
+    margin-top: 0;
+    margin-bottom: 0.5em;
+  }
+  
+  .page__content {
+    padding: 0;
+  }
+}
+
 // CV page styling
 .cv-container {
   position: relative;
-  padding-bottom: 130%;
+  padding-bottom: 150%; /* Increased from 130% to make it taller */
   height: 0;
   overflow: hidden;
   max-width: 100%;
@@ -338,19 +354,20 @@ body {
 // Responsive CV container
 @media (min-width: 64em) {
   .cv-container {
-    padding-bottom: 130%;
+    padding-bottom: 170%; /* Increased from 130% to make it taller on large screens */
+    margin: 0 auto;
   }
 }
 
 @media (min-width: 48em) and (max-width: 64em) {
   .cv-container {
-    padding-bottom: 140%;
+    padding-bottom: 180%; /* Increased from 140% for medium screens */
   }
 }
 
 @media (max-width: 48em) {
   .cv-container {
-    padding-bottom: 150%;
+    padding-bottom: 190%; /* Increased from 150% for small screens */
   }
 }
 
