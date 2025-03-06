@@ -24,10 +24,37 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+      
+      - name: Test ADS API token
+        id: test-token
+        run: |
+          echo "Testing ADS API token..."
+          python .github/scripts/test_ads_token.py
+        env:
+          ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
           
       - name: Fetch publications from ADS API
+        id: fetch
         run: |
+          echo "Starting to fetch publications from ADS API..."
           python .github/scripts/fetch_publications.py
+          
+          # Check if the JSON file was created and has content
+          if [ -f "assets/js/publications.json" ]; then
+            echo "Publications JSON file was created:"
+            cat assets/js/publications.json | head -20  # Print the first 20 lines for debugging
+            
+            # Check if the file has actual publications or only error info
+            if grep -q "\"error\":" "assets/js/publications.json"; then
+              echo "Error found in publications file:"
+              cat assets/js/publications.json
+              echo "::error::ADS API error occurred. See above for details."
+              exit 1
+            fi
+          else
+            echo "::error::The publications JSON file was not created."
+            exit 1
+          fi
         env:
           ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
           
@@ -36,11 +63,27 @@ jobs:
         run: |
           git diff --quiet assets/js/publications.json || echo "changes=true" >> $GITHUB_OUTPUT
           
-      - name: Commit and push if changed
+      - name: Create Pull Request
         if: steps.check-changes.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: Update publications from ADS API
+          branch: update-publications
+          delete-branch: true
+          title: "Automated: Update Publications from ADS API"
+          body: |
+            This is an automated PR created by the GitHub Action workflow.
+            It updates the publications list from the NASA ADS API.
+            
+            You can view the updated publications by checking out this branch or visiting your GitHub Pages site when this PR is merged.
+          labels: |
+            automated
+            publications
+        
+      - name: Show message if no changes were made
+        if: steps.check-changes.outputs.changes != 'true'
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add assets/js/publications.json
-          git commit -m "Update publications from ADS API"
-          git push 
+          echo "No changes were made to the publications file."
+          echo "This may indicate that there are no new publications or that the publications hadn't changed."
+          echo "Check the fetch step logs for details." 
