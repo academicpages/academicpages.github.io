@@ -1,4 +1,84 @@
 $(document).ready(function() {
+  // LAYOUT FIX: Force correct positioning of sidebar and main content
+  function fixLayout() {
+    // Get window width
+    var windowWidth = $(window).width();
+    
+    if (windowWidth >= 1024) { // Large screens
+      $('.sidebar').css({
+        'position': 'relative',
+        'transform': 'none',
+        'float': 'left',
+        'width': '250px',
+        'margin-left': '0',
+        'padding-left': '0'
+      });
+      
+      $('.page').css({
+        'float': 'right',
+        'width': 'calc(100% - 280px)',
+        'margin-left': '0',
+        'margin-right': '0',
+        'clear': 'none'
+      });
+      
+      $('.archive, .page__related').css({
+        'width': 'calc(100% - 280px)',
+        'float': 'right'
+      });
+    } 
+    else if (windowWidth >= 768 && windowWidth < 1024) { // Medium screens
+      $('.sidebar').css({
+        'position': 'relative',
+        'transform': 'none',
+        'float': 'left',
+        'width': '200px',
+        'margin-left': '0',
+        'padding-left': '0'
+      });
+      
+      $('.page').css({
+        'float': 'right',
+        'width': 'calc(100% - 220px)',
+        'margin-left': '0',
+        'margin-right': '0',
+        'clear': 'none'
+      });
+      
+      $('.archive, .page__related').css({
+        'width': 'calc(100% - 220px)',
+        'float': 'right'
+      });
+    }
+    else { // Small screens
+      $('.sidebar').css({
+        'position': 'relative',
+        'transform': 'none',
+        'float': 'none',
+        'width': '100%'
+      });
+      
+      $('.page').css({
+        'float': 'none',
+        'width': '100%',
+        'margin-left': '0'
+      });
+      
+      $('.archive, .page__related').css({
+        'width': '100%',
+        'float': 'none'
+      });
+    }
+  }
+  
+  // Run layout fix on page load
+  fixLayout();
+  
+  // Run layout fix on window resize
+  $(window).resize(function() {
+    fixLayout();
+  });
+  
   // Smooth scrolling for anchor links
   $('a[href*="#"]:not([href="#"])').click(function() {
     if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {

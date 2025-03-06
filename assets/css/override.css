@@ -1,0 +1,90 @@
+/* 
+   Direct CSS overrides to fix layout issues
+   These rules use !important to ensure they take precedence
+*/
+
+/* Fix sidebar and main content positioning */
+.sidebar {
+  position: relative !important;
+  transform: none !important;
+  float: left !important;
+  width: 250px !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  z-index: 10 !important;
+}
+
+.page {
+  float: right !important;
+  width: calc(100% - 280px) !important;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  clear: none !important;
+  position: relative !important;
+}
+
+#main {
+  clear: both !important;
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  display: flex !important;
+  flex-wrap: wrap !important;
+}
+
+.layout--single {
+  display: flex !important;
+  flex-direction: row !important;
+  flex-wrap: wrap !important;
+}
+
+/* Media queries for responsive layout */
+@media (min-width: 64em) {
+  .sidebar {
+    width: 250px !important;
+    float: left !important;
+  }
+  
+  .page {
+    width: calc(100% - 280px) !important;
+    float: right !important;
+  }
+  
+  .archive, .page__related {
+    width: calc(100% - 280px) !important;
+    float: right !important;
+  }
+}
+
+@media (min-width: 48em) and (max-width: 64em) {
+  .sidebar {
+    width: 200px !important;
+    float: left !important;
+  }
+  
+  .page {
+    width: calc(100% - 220px) !important;
+    float: right !important;
+  }
+  
+  .archive, .page__related {
+    width: calc(100% - 220px) !important;
+    float: right !important;
+  }
+}
+
+@media (max-width: 48em) {
+  .sidebar {
+    width: 100% !important;
+    float: none !important;
+  }
+  
+  .page {
+    width: 100% !important;
+    float: none !important;
+  }
+  
+  .archive, .page__related {
+    width: 100% !important;
+    float: none !important;
+  }
+} 

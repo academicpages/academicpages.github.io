@@ -78,9 +78,32 @@ body {
   }
 }
 
+// CRITICAL FIX: Force proper layout structure
+.sidebar__right {
+  display: none !important; // Hide right sidebar if present
+}
+
+#main {
+  clear: both;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.layout--single {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
 // Fix layout - prevent main content from overlapping with sidebar
 .sidebar {
   opacity: 1;
+  position: relative !important;
+  transform: none !important;
+  float: left;
+  margin-left: 0;
+  padding-left: 0;
+  width: 250px;
 }
 
 // Main content container
@@ -89,65 +112,83 @@ body {
   background-color: white;
   border-radius: 5px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  float: right;
+  width: calc(100% - 280px);
+  margin-left: 0;
+  margin-right: 0;
+  clear: none;
 }
 
 // For larger screens, ensure proper spacing
 @media (min-width: 64em) {
-  .page {
-    float: right;
-    width: calc(100% - 300px);
-    padding-right: 2em;
-    padding-left: 2em;
-    margin-left: 0;
-  }
-  
   .sidebar {
-    width: calc(300px - 1em);
+    width: 250px;
     float: left;
     opacity: 1;
+    position: relative !important;
+    transform: none !important;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
     padding-right: 1em;
   }
   
+  .page {
+    float: right;
+    width: calc(100% - 280px);
+    padding-right: 2em;
+    padding-left: 2em;
+    margin-left: 0;
+  }
+  
   .archive, .page__related {
-    width: calc(100% - 300px);
+    width: calc(100% - 280px);
     float: right;
   }
 }
 
 // For medium screens
 @media (min-width: 48em) and (max-width: 64em) {
+  .sidebar {
+    width: 200px;
+    float: left;
+    padding-right: 1em;
+    position: relative !important;
+    transform: none !important;
+  }
+  
   .page {
     float: right;
-    width: calc(100% - 250px);
+    width: calc(100% - 220px);
     padding-right: 1.5em;
     padding-left: 1.5em;
     margin-left: 0;
   }
   
-  .sidebar {
-    width: calc(250px - 1em);
-    float: left;
-    padding-right: 1em;
-  }
-  
   .archive, .page__related {
-    width: calc(100% - 250px);
+    width: calc(100% - 220px);
     float: right;
   }
 }
 
 // For smaller screens, stack content
 @media (max-width: 48em) {
+  .sidebar {
+    width: 100%;
+    float: none;
+    position: relative !important;
+    transform: none !important;
+  }
+  
   .page {
     width: 100%;
+    float: none;
     padding: 1em;
     margin-left: 0;
   }
   
   .archive, .page__related {
     width: 100%;
+    float: none;
   }
 }
 

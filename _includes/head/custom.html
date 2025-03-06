@@ -36,3 +36,59 @@
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
 
 <!-- end custom head snippets -->
+
+<!-- Custom responsive layout fixes -->
+<style>
+  /* Base layout fixes */
+  #main {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    clear: both !important;
+  }
+  
+  .sidebar {
+    position: relative !important;
+    transform: none !important;
+    float: left !important;
+    width: 250px !important;
+    margin-left: 0 !important;
+    padding-left: 0 !important;
+    z-index: 10 !important;
+  }
+  
+  .page {
+    float: right !important;
+    width: calc(100% - 280px) !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    clear: none !important;
+    position: relative !important;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 1024px) {
+    .sidebar {
+      width: 200px !important;
+    }
+    
+    .page {
+      width: calc(100% - 220px) !important;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    #main {
+      display: block !important;
+    }
+    
+    .sidebar {
+      width: 100% !important;
+      float: none !important;
+    }
+    
+    .page {
+      width: 100% !important;
+      float: none !important;
+    }
+  }
+</style>
