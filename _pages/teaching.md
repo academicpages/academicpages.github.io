@@ -1,8 +1,9 @@
 ---
 layout: archive
 title: "Teaching & Outreach"
-permalink: /teaching/
+permalink: /teaching-disabled/
 author_profile: true
+published: false
 ---
 
 Teaching
