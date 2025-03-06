@@ -78,6 +78,79 @@ body {
   }
 }
 
+// Fix layout - prevent main content from overlapping with sidebar
+.sidebar {
+  opacity: 1;
+}
+
+// Main content container
+.page {
+  padding: 1em;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+// For larger screens, ensure proper spacing
+@media (min-width: 64em) {
+  .page {
+    float: right;
+    width: calc(100% - 300px);
+    padding-right: 2em;
+    padding-left: 2em;
+    margin-left: 0;
+  }
+  
+  .sidebar {
+    width: calc(300px - 1em);
+    float: left;
+    opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.2s ease-in-out;
+    padding-right: 1em;
+  }
+  
+  .archive, .page__related {
+    width: calc(100% - 300px);
+    float: right;
+  }
+}
+
+// For medium screens
+@media (min-width: 48em) and (max-width: 64em) {
+  .page {
+    float: right;
+    width: calc(100% - 250px);
+    padding-right: 1.5em;
+    padding-left: 1.5em;
+    margin-left: 0;
+  }
+  
+  .sidebar {
+    width: calc(250px - 1em);
+    float: left;
+    padding-right: 1em;
+  }
+  
+  .archive, .page__related {
+    width: calc(100% - 250px);
+    float: right;
+  }
+}
+
+// For smaller screens, stack content
+@media (max-width: 48em) {
+  .page {
+    width: 100%;
+    padding: 1em;
+    margin-left: 0;
+  }
+  
+  .archive, .page__related {
+    width: 100%;
+  }
+}
+
 // Page content improvements
 .page__content {
   h1, h2, h3, h4, h5, h6 {
@@ -110,12 +183,30 @@ body {
   p {
     margin-bottom: 1.3em;
   }
+  
+  // Improve spacing for lists
+  ul, ol {
+    margin-bottom: 1.3em;
+    
+    li {
+      margin-bottom: 0.5em;
+    }
+  }
+  
+  // Improve blockquote styling
+  blockquote {
+    border-left: 4px solid $secondary-color;
+    padding-left: 1em;
+    font-style: italic;
+    color: lighten($dark-text, 15%);
+  }
 }
 
 // Footer improvements
 .page__footer {
   background-color: $primary-color;
   color: $light-text;
+  clear: both;
   
   a {
     color: lighten($secondary-color, 15%);
@@ -156,11 +247,31 @@ body {
   }
 }
 
-// Responsive improvements
-@media (min-width: 80em) {
-  .page {
-    width: 100%;
-    padding-right: 200px;
+// Back to top button
+.back-to-top {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  background-color: $secondary-color;
+  color: $light-text;
+  border-radius: 50%;
+  font-size: 20px;
+  text-decoration: none;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+  z-index: 9999;
+  opacity: 0.8;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background-color: darken($secondary-color, 10%);
+    color: $light-text;
+    opacity: 1;
+    text-decoration: none;
   }
 }
 
@@ -172,4 +283,44 @@ body {
 @keyframes fadeIn {
   0% { opacity: 0; transform: translateY(20px); }
   100% { opacity: 1; transform: translateY(0); }
+}
+
+// Animation classes
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+@keyframes pulse {
+  from {
+    transform: scale3d(1, 1, 1);
+  }
+
+  50% {
+    transform: scale3d(1.05, 1.05, 1.05);
+  }
+
+  to {
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.pulse {
+  animation-name: pulse;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
 } 
