@@ -13,40 +13,20 @@ Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/sea
 
 <noscript>
   <div class="publication-notice">
-    <p>JavaScript is required to view the publications list.</p>
+    <p>JavaScript is required to view the dynamic publications list.</p>
     <p>Please visit the direct links above to see the complete list of publications.</p>
   </div>
 </noscript>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-// Debug mode - set to true to enable console logging
-const DEBUG = true;
-
-function debugLog(message, data) {
-  if (DEBUG && console) {
-    if (data) {
-      console.log(message, data);
-    } else {
-      console.log(message);
-    }
-  }
-}
-
 $(document).ready(function() {
-  debugLog("Starting to load publications...");
-  
-  // Static URL as a fallback in case of template issues
-  const jsonUrl = "{{ site.baseurl }}/assets/js/publications.json";
-  const fallbackUrl = "/assets/js/publications.json";
-  
-  debugLog("Using JSON URL:", jsonUrl);
-  
-  // Load publications from the local JSON file
-  $.getJSON(jsonUrl)
-    .done(function(data) {
-      debugLog("Successfully loaded publications data:", data);
-      
+  // Simple approach: load the JSON file directly
+  $.ajax({
+    url: "/assets/js/publications.json",
+    dataType: "json",
+    cache: false,
+    success: function(data) {
       const lastUpdated = data.last_updated || "";
       const publications = data.publications || [];
       
@@ -59,9 +39,8 @@ $(document).ready(function() {
         // Add publications
         for (let i = 0; i < publications.length; i++) {
           const pub = publications[i];
-          debugLog(`Processing publication ${i+1}:`, pub);
           
-          // Format citation count
+          // Format citation count if available
           const citationBadge = pub.citation_count > 0 
             ? `<span class="citation-badge" title="Citation count">📄 ${pub.citation_count}</span>` 
             : '';
@@ -98,93 +77,25 @@ $(document).ready(function() {
         
         // Display publications
         $("#publications-container").html(html);
-        debugLog("Publications rendered successfully");
       } else {
-        debugLog("No publications found in data");
         $("#publications-container").html(`
           <div class="publication-notice">
-            <p>No publications found in the local cache.</p>
+            <p>No publications found.</p>
             <p>Please check back later or visit the direct links above.</p>
-            <p class="last-updated">Last attempted update: ${lastUpdated}</p>
           </div>
         `);
       }
-    })
-    .fail(function(jqXHR, textStatus, errorThrown) {
-      // Log the error
-      debugLog("Error loading JSON from primary URL:", textStatus);
-      debugLog("Error details:", jqXHR);
-      
-      // Try the fallback URL
-      debugLog("Trying fallback URL:", fallbackUrl);
-      $.getJSON(fallbackUrl)
-        .done(function(data) {
-          debugLog("Successfully loaded publications from fallback URL:", data);
-          // Repeat the same processing as above
-          // This is simplified for brevity
-          if (data.publications && data.publications.length > 0) {
-            let html = "<div class='publications-list'>";
-            html += `<p class="last-updated">Last updated: ${data.last_updated || ""}</p>`;
-            
-            for (let pub of data.publications) {
-              // Format citation count
-              const citationBadge = pub.citation_count > 0 
-                ? `<span class="citation-badge" title="Citation count">📄 ${pub.citation_count}</span>` 
-                : '';
-                
-              html += `
-                <div class="publication-item">
-                  <div class="publication-title">
-                    <a href="${pub.ads_link}" target="_blank">${pub.title}</a>
-                  </div>
-                  <div class="publication-authors">${pub.authors}</div>
-                  <div class="publication-journal">${pub.journal_info}</div>
-                  <div class="publication-metrics">
-                    ${citationBadge}
-                  </div>
-                </div>
-              `;
-            }
-            
-            html += "</div>";
-            $("#publications-container").html(html);
-          } else {
-            showError("No publications found in fallback data");
-          }
-        })
-        .fail(function(jqXHR2, textStatus2, errorThrown2) {
-          debugLog("Fallback also failed:", textStatus2);
-          showError(textStatus, errorThrown || errorThrown2 || "Unknown error");
-        });
-    });
-    
-  function showError(textStatus, errorThrown) {
-    $("#publications-container").html(`
-      <div class="publication-notice">
-        <p>Unable to load publications data.</p>
-        <p>Error: ${textStatus}${errorThrown ? ` - ${errorThrown}` : ''}</p>
-        <p>Please visit the direct links above to see the complete list of publications.</p>
-        <p><button id="debug-btn" class="btn">Show Debug Info</button></p>
-      </div>
-    `);
-    
-    // Add debug button functionality
-    $("#debug-btn").click(function() {
-      const debugInfo = `
-        <div class="debug-info">
-          <h3>Debug Information:</h3>
-          <p>Browser: ${navigator.userAgent}</p>
-          <p>URL tried: ${jsonUrl}</p>
-          <p>Fallback URL: ${fallbackUrl}</p>
-          <p>Error: ${textStatus}${errorThrown ? ` - ${errorThrown}` : ''}</p>
-          <p>Date/Time: ${new Date().toString()}</p>
+    },
+    error: function() {
+      // Simple error handling
+      $("#publications-container").html(`
+        <div class="publication-notice">
+          <p>Unable to load publications data.</p>
+          <p>Please visit the direct links above to see the complete list of publications.</p>
         </div>
-      `;
-      
-      $(this).after(debugInfo);
-      $(this).remove();
-    });
-  }
+      `);
+    }
+  });
 });
 </script>
 
@@ -265,16 +176,5 @@ $(document).ready(function() {
   padding: 1em;
   border-radius: 5px;
   text-align: center;
-}
-
-.debug-info {
-  text-align: left;
-  margin-top: 1em;
-  padding: 1em;
-  background-color: #f5f5f5;
-  border: 1px solid #ddd;
-  border-radius: 5px;
-  font-family: monospace;
-  font-size: 0.9em;
 }
 </style>
