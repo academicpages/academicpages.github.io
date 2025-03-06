@@ -1,4 +1,485 @@
 {
-  "last_updated": "2023-01-01 00:00:00",
-  "publications": []
-} 
+  "last_updated": "2025-03-06 21:23:57",
+  "publications": [
+    {
+      "title": "DESI 2024 VI: cosmological constraints from the measurements of baryon acoustic oscillations",
+      "authors": "Adame, A. G., Aguilar, J., Ahlen, S., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 021 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...02..021A/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03002"
+    },
+    {
+      "title": "Full Modeling and parameter compression methods in configuration space for DESI 2024 and beyond",
+      "authors": "Ramirez-Solano, S., Icaza-Lizaola, M., Noriega, H. E., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 129 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..129R/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.07268"
+    },
+    {
+      "title": "HOD-dependent systematics in Emission Line Galaxies for the DESI 2024 BAO analysis",
+      "authors": "Garcia-Quintero, C., Mena-Fernández, J., Rocher, A., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 132 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..132G/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03009"
+    },
+    {
+      "title": "HOD-dependent systematics for luminous red galaxies in the DESI 2024 BAO analysis",
+      "authors": "Mena-Fernández, J., Garcia-Quintero, C., Yuan, S., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 133 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..133M/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03008"
+    },
+    {
+      "title": "A comparison of effective field theory models of redshift space galaxy power spectra for DESI 2024 and future surveys",
+      "authors": "Maus, M., Lai, Y., Noriega, H. E., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 134 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..134M/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.07272"
+    },
+    {
+      "title": "Comparing Compressed and Full-Modeling analyses with FOLPS: implications for DESI 2024 and beyond",
+      "authors": "Noriega, H. E., Aviles, A., Gil-Marín, H., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 136 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..136N/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.07269"
+    },
+    {
+      "title": "An analysis of parameter compression and Full-Modeling techniques with Velocileptors for DESI 2024 and beyond",
+      "authors": "Maus, M., Chen, S., White, M., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 138 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..138M/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.07312"
+    },
+    {
+      "title": "A comparison between ShapeFit compression and Full-Modelling method with PyBird for DESI 2024 and beyond",
+      "authors": "Lai, Y., Howlett, C., Maus, M., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 139 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..139L/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.07283"
+    },
+    {
+      "title": "DESI 2024 IV: Baryon Acoustic Oscillations from the Lyman alpha forest",
+      "authors": "Adame, A. G., Aguilar, J., Ahlen, S., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 124 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..124A/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03001"
+    },
+    {
+      "title": "Optimal reconstruction of baryon acoustic oscillations for DESI 2024",
+      "authors": "Paillas, E., Ding, Z., Chen, X., et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2025, 142 (2025)",
+      "year": "2025",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2025JCAP...01..142P/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03005"
+    },
+    {
+      "title": "DESI 2024 V: Full-Shape Galaxy Clustering from Galaxies and Quasars",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2411.12021 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv241112021D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2411.12021"
+    },
+    {
+      "title": "DESI 2024 VII: Cosmological Constraints from the Full-Shape Modeling of Clustering Measurements",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2411.12022 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv241112022D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2411.12022"
+    },
+    {
+      "title": "DESI 2024 II: Sample Definitions, Characteristics, and Two-point Clustering Statistics",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2411.12020 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv241112020D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2411.12020"
+    },
+    {
+      "title": "Baryon acoustic oscillation theory and modelling systematics for the DESI 2024 results",
+      "authors": "Chen, S. -F., Howlett, C., White, M., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 534, 544 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.534..544C/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2402.14070"
+    },
+    {
+      "title": "Redshift evolution and covariances for joint lensing and clustering studies with DESI Y1",
+      "authors": "Yuan, Sihan, Blake, Chris, Krolewski, Alex, et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 533, 589 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.533..589Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2403.00915"
+    },
+    {
+      "title": "Bounds on galaxy stochasticity from halo occupation distribution modeling",
+      "authors": "Britt, Dylan, Gruen, Daniel, Friedrich, Oliver, Yuan, Sihan, Ried Guachalla, Bernardita",
+      "journal_info": "Astronomy and Astrophysics, 689, A253 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024A&A...689A.253B/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.04252"
+    },
+    {
+      "title": "The Early Data Release of the Dark Energy Spectroscopic Instrument",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "The Astronomical Journal, 168, 58 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06308"
+    },
+    {
+      "title": "SUNBIRD: a simulation-based model for full-shape density-split clustering",
+      "authors": "Cuesta-Lazaro, Carolina, Paillas, Enrique, Yuan, Sihan, et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 531, 3336 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.531.3336C/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2309.16539"
+    },
+    {
+      "title": "Generating mock galaxy catalogues for flux-limited samples like the DESI Bright Galaxy Survey",
+      "authors": "Smith, A., Grove, C., Cole, S., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 532, 903 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.532..903S/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2312.08792"
+    },
+    {
+      "title": "Systematic Effects in Galaxy-Galaxy Lensing with DESI",
+      "authors": "Lange, Johannes Ulf, Blake, C., Saulder, C., et al.",
+      "journal_info": "The Open Journal of Astrophysics, 7, 57 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024OJAp....7E..57L/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.09397"
+    },
+    {
+      "title": "Cosmological constraints from density-split clustering in the BOSS CMASS galaxy sample",
+      "authors": "Paillas, Enrique, Cuesta-Lazaro, Carolina, Percival, Will J., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 531, 898 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.531..898P/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2309.16541"
+    },
+    {
+      "title": "Precise cosmological constraints from BOSS galaxy clustering with a simulation-based emulator of the wavelet scattering transform",
+      "authors": "Valogiannis, Georgios, Yuan, Sihan, Dvorkin, Cora",
+      "journal_info": "Physical Review D, 109, 103503 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024PhRvD.109j3503V/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2310.16116"
+    },
+    {
+      "title": "The DESI one-per cent survey: exploring the halo occupation distribution of luminous red galaxies and quasi-stellar objects with ABACUSSUMMIT",
+      "authors": "Yuan, Sihan, Zhang, Hanyu, Ross, Ashley J., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 530, 947 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.530..947Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06314"
+    },
+    {
+      "title": "A Parameter-Masked Mock Data Challenge for Beyond-Two-Point Galaxy Clustering Statistics",
+      "authors": "Beyond-2pt Collaboration, :, Krause, Elisabeth, et al.",
+      "journal_info": "arXiv e-prints, arXiv:2405.02252 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv240502252B/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2405.02252"
+    },
+    {
+      "title": "DESI 2024 III: Baryon Acoustic Oscillations from Galaxies and Quasars",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2404.03000 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv240403000D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2404.03000"
+    },
+    {
+      "title": "PROVABGS: The Probabilistic Stellar Mass Function of the BGS One-percent Survey",
+      "authors": "Hahn, ChangHoon, Aguilar, Jessica Nicole, Alam, Shadab, et al.",
+      "journal_info": "The Astrophysical Journal, 963, 56 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024ApJ...963...56H/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Constraining primordial non-Gaussianity from the large scale structure two-point and three-point correlation functions",
+      "authors": "Brown, Z., Demina, R., Adame, A. G., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2403.18789 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024arXiv240318789B/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2403.18789"
+    },
+    {
+      "title": "Validation of the Scientific Program for the Dark Energy Spectroscopic Instrument",
+      "authors": "DESI Collaboration, Adame, A. G., Aguilar, J., et al.",
+      "journal_info": "The Astronomical Journal, 167, 62 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024AJ....167...62D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06307"
+    },
+    {
+      "title": "Robust cosmological inference from non-linear scales with k-th nearest neighbour statistics",
+      "authors": "Yuan, Sihan, Abel, Tom, Wechsler, Risa H.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 527, 1993 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.1993Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2310.04501"
+    },
+    {
+      "title": "The DESI One-Percent Survey: exploring a generalized SHAM for multiple tracers with the UNIT simulation",
+      "authors": "Yu, Jiaxi, Zhao, Cheng, Gonzalez-Perez, Violeta, et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 527, 6950 (2024)",
+      "year": "2024",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2024MNRAS.527.6950Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06313"
+    },
+    {
+      "title": "SUNBIRD: Neural-network-based models for galaxy clustering",
+      "authors": "Cuesta-Lazaro, Carolina, Paillas, Enrique, Yuan, Sihan, et al.",
+      "journal_info": "Astrophysics Source Code Library, ascl:2312.015 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023ascl.soft12015C/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Synthetic light-cone catalogues of modern redshift and weak lensing surveys waith ABACUSSUMMIT",
+      "authors": "Hadzhiyska, Boryana, Yuan, S., Blake, C., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 525, 4367 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.4367H/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2305.11935"
+    },
+    {
+      "title": "First detection of the BAO signal from early DESI data",
+      "authors": "Moon, Jeongin, Valcin, David, Rashkovetskyi, Michael, et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 525, 5406 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.525.5406M/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2304.08427"
+    },
+    {
+      "title": "Unraveling emission line galaxy conformity at z~1 with DESI early data",
+      "authors": "Yuan, Sihan, Wechsler, Risa H., Wang, Yunchong, et al.",
+      "journal_info": "arXiv e-prints, arXiv:2310.09329 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023arXiv231009329Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2310.09329"
+    },
+    {
+      "title": "The DESI One-Percent survey: exploring the Halo Occupation Distribution of Emission Line Galaxies with ABACUSSUMMIT simulations",
+      "authors": "Rocher, Antoine, Ruhlmann-Kleider, Vanina, Burtin, Etienne, et al.",
+      "journal_info": "Journal of Cosmology and Astroparticle Physics, 2023, 016 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023JCAP...10..016R/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06319"
+    },
+    {
+      "title": "2D k-th nearest neighbour statistics: a highly informative probe of galaxy clustering",
+      "authors": "Yuan, Sihan, Zamora, Alvaro, Abel, Tom",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 522, 3935 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.3935Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2304.10565"
+    },
+    {
+      "title": "The DESI One-Percent Survey: Modelling the clustering and halo occupation of all four DESI tracers with Uchuu",
+      "authors": "Prada, F., Ereza, J., Smith, A., et al.",
+      "journal_info": "arXiv e-prints, arXiv:2306.06315 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023arXiv230606315P/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06315"
+    },
+    {
+      "title": "PROVABGS: The Probabilistic Stellar Mass Function of the BGS One-Percent Survey",
+      "authors": "Hahn, ChangHoon, Aguilar, Jessica Nicole, Alam, Shadab, et al.",
+      "journal_info": "arXiv e-prints, arXiv:2306.06318 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023arXiv230606318H/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2306.06318"
+    },
+    {
+      "title": "Full forward model of galaxy clustering statistics with ABACUSSUMMIT light cones",
+      "authors": "Yuan, Sihan, Hadzhiyska, Boryana, Abel, Tom",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 520, 6283 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.6283Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2211.02068"
+    },
+    {
+      "title": "Consistent lensing and clustering in a low-S<SUB>8</SUB> Universe with BOSS, DES Year 3, HSC Year 1, and KiDS-1000",
+      "authors": "Amon, A., Robertson, N. C., Miyatake, H., et al.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 518, 477 (2023)",
+      "year": "2023",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.518..477A/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2202.07440"
+    },
+    {
+      "title": "Overview of the Instrumentation for the Dark Energy Spectroscopic Instrument",
+      "authors": "DESI Collaboration, Abareshi, B., Aguilar, J., et al.",
+      "journal_info": "The Astronomical Journal, 164, 207 (2022)",
+      "year": "2022",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2022AJ....164..207D/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2205.10939"
+    },
+    {
+      "title": "Stringent σ<SUB>8</SUB> constraints from small-scale galaxy clustering using a hybrid MCMC + emulator framework",
+      "authors": "Yuan, Sihan, Garrison, Lehman H., Eisenstein, Daniel J., Wechsler, Risa H.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 515, 871 (2022)",
+      "year": "2022",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..871Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2203.11963"
+    },
+    {
+      "title": "Illustrating galaxy-halo connection in the DESI era with ILLUSTRISTNG",
+      "authors": "Yuan, Sihan, Hadzhiyska, Boryana, Bose, Sownak, Eisenstein, Daniel J.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 512, 5793 (2022)",
+      "year": "2022",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.5793Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2202.12911"
+    },
+    {
+      "title": "Constructing high-fidelity halo merger trees in ABACUSSUMMIT",
+      "authors": "Bose, Sownak, Eisenstein, Daniel J., Hadzhiyska, Boryana, Garrison, Lehman H., Yuan, Sihan",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 512, 837 (2022)",
+      "year": "2022",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.512..837B/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2110.11409"
+    },
+    {
+      "title": "ABACUSHOD: a highly efficient extended multitracer HOD framework and its application to BOSS and eBOSS data",
+      "authors": "Yuan, Sihan, Garrison, Lehman H., Hadzhiyska, Boryana, Bose, Sownak, Eisenstein, Daniel J.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 510, 3301 (2022)",
+      "year": "2022",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.3301Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2110.11412"
+    },
+    {
+      "title": "Evidence for galaxy assembly bias in BOSS CMASS redshift-space galaxy correlation function",
+      "authors": "Yuan, Sihan, Hadzhiyska, Boryana, Bose, Sownak, Eisenstein, Daniel J., Guo, Hong",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 502, 3582 (2021)",
+      "year": "2021",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2021MNRAS.502.3582Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/2010.04182"
+    },
+    {
+      "title": "Towards Better Interpretation of the Small-Scale Structure of the Universe",
+      "authors": "Yuan, Sihan",
+      "journal_info": "Ph.D. Thesis (2021)",
+      "year": "2021",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2021PhDT.........2Y/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "s3PCF: Compute the 3-point correlation function in the squeezed limit",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel, Garrison, Lehman",
+      "journal_info": "Astrophysics Source Code Library, ascl:2005.009 (2020)",
+      "year": "2020",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2020ascl.soft05009Y/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Can assembly bias explain the lensing amplitude of the BOSS CMASS sample in a Planck cosmology?",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel J., Leauthaud, Alexie",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 493, 5551 (2020)",
+      "year": "2020",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2020MNRAS.493.5551Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1907.05909"
+    },
+    {
+      "title": "A Hybrid Deep Learning Approach to Cosmological Constraints from Galaxy Redshift Surveys",
+      "authors": "Ntampaka, Michelle, Eisenstein, Daniel J., Yuan, Sihan, Garrison, Lehman H.",
+      "journal_info": "The Astrophysical Journal, 889, 151 (2020)",
+      "year": "2020",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2020ApJ...889..151N/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1909.10527"
+    },
+    {
+      "title": "Decorrelating the errors of the galaxy correlation function with compact transformation matrices",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel J.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 486, 708 (2019)",
+      "year": "2019",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2019MNRAS.486..708Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1901.05019"
+    },
+    {
+      "title": "GRAND-HOD: GeneRalized ANd Differentiable Halo Occupation Distribution",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel J., Garrison, Lehman H.",
+      "journal_info": "Astrophysics Source Code Library, ascl:1812.011 (2018)",
+      "year": "2018",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2018ascl.soft12011Y/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Exploring the squeezed three-point galaxy correlation function with generalized halo occupation distribution models",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel J., Garrison, Lehman H.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 478, 2019 (2018)",
+      "year": "2018",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2018MNRAS.478.2019Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1802.10115"
+    },
+    {
+      "title": "Using galaxy pairs to investigate the three-point correlation function in the squeezed limit",
+      "authors": "Yuan, Sihan, Eisenstein, Daniel J., Garrison, Lehman H.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 472, 577 (2017)",
+      "year": "2017",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2017MNRAS.472..577Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1705.03464"
+    },
+    {
+      "title": "Erratum: Spectroscopic identification of type 2 quasars at z &lt; 1 in SDSS-III/BOSS",
+      "authors": "Yuan, Sihan, Strauss, Michael A., Zakamska, Nadia L.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 468, 1567 (2017)",
+      "year": "2017",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2017MNRAS.468.1567Y/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Recent Observations of AG Pegasi's Latest Outburst Phase by Harvard Observing Project",
+      "authors": "Espinel, Jose Luis, Lewis, John, Budreviciute, Rimute, et al.",
+      "journal_info": "American Astronomical Society Meeting Abstracts #229, 229, 243.07 (2017)",
+      "year": "2017",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2017AAS...22924307E/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Harvard Observing Project monitoring of Boyajian's Star (KIC 8462852)",
+      "authors": "Schumer, Clea F., Vanderburg, Andrew, Bieryla, Allyson, et al.",
+      "journal_info": "American Astronomical Society Meeting Abstracts #229, 229, 240.32 (2017)",
+      "year": "2017",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2017AAS...22924032S/abstract",
+      "arxiv_link": ""
+    },
+    {
+      "title": "Spectroscopic identification of type 2 quasars at z &lt; 1 in SDSS-III/BOSS",
+      "authors": "Yuan, Sihan, Strauss, Michael A., Zakamska, Nadia L.",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 462, 1603 (2016)",
+      "year": "2016",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2016MNRAS.462.1603Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1606.04976"
+    },
+    {
+      "title": "The physical nature of the most metal-poor damped Lyman α systems",
+      "authors": "Yuan, Sihan, Cen, Renyue",
+      "journal_info": "Monthly Notices of the Royal Astronomical Society, 457, 487 (2016)",
+      "year": "2016",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2016MNRAS.457..487Y/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1511.07060"
+    },
+    {
+      "title": "New light on 21 cm intensity fluctuations from the dark ages",
+      "authors": "Ali-Haïmoud, Yacine, Meerburg, P. Daniel, Yuan, Sihan",
+      "journal_info": "Physical Review D, 89, 083506 (2014)",
+      "year": "2014",
+      "ads_link": "https://ui.adsabs.harvard.edu/abs/2014PhRvD..89h3506A/abstract",
+      "arxiv_link": "https://arxiv.org/abs/1312.4948"
+    }
+  ]
+}
