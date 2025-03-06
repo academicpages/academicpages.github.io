@@ -42,7 +42,7 @@ def main():
         
         params = {
             "q": f"orcid:{ORCID}",
-            "fl": "title,author,year,bibcode,pub,volume,page,doi,arxiv_class,identifier",
+            "fl": "title,author,year,bibcode,pub,volume,page,doi,arxiv_class,identifier,citation_count,read_count",
             "rows": 200,
             "sort": "date desc"
         }
@@ -134,6 +134,10 @@ def main():
                 
                 arxiv_link = f"https://arxiv.org/abs/{arxiv_id}" if arxiv_id else ""
                 
+                # Get citation and read counts
+                citation_count = pub.get("citation_count", 0)
+                read_count = pub.get("read_count", 0)
+                
                 # Create publication entry
                 publication = {
                     "title": title,
@@ -141,7 +145,9 @@ def main():
                     "journal_info": journal_info,
                     "year": year,
                     "ads_link": ads_link,
-                    "arxiv_link": arxiv_link
+                    "arxiv_link": arxiv_link,
+                    "citation_count": citation_count,
+                    "read_count": read_count
                 }
                 
                 processed_publications.append(publication)
