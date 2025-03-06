@@ -1,0 +1,46 @@
+name: Update Publications
+
+on:
+  schedule:
+    # Run once a week on Sunday at midnight
+    - cron: '0 0 * * 0'
+  # Allow manual trigger from the GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  fetch-publications:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Fetch publications from ADS API
+        run: |
+          python .github/scripts/fetch_publications.py
+        env:
+          ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
+          
+      - name: Check for changes
+        id: check-changes
+        run: |
+          git diff --quiet assets/js/publications.json || echo "changes=true" >> $GITHUB_OUTPUT
+          
+      - name: Commit and push if changed
+        if: steps.check-changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add assets/js/publications.json
+          git commit -m "Update publications from ADS API"
+          git push 
