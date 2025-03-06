@@ -16,11 +16,19 @@ body {
   line-height: 1.8;
   color: $dark-text;
   background-color: $light-bg;
+  padding-left: 5%;
+  padding-right: 5%;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 // Header improvements
 .masthead {
   background-color: $primary-color;
+  margin-left: -5.5%;
+  margin-right: -5.5%;
+  padding-left: 5.5%;
+  padding-right: 5.5%;
   
   &__inner-wrap {
     padding: 0.8em 1em;
@@ -87,6 +95,7 @@ body {
   clear: both;
   margin-left: 0;
   padding-left: 0;
+  margin-top: 2em;
 }
 
 .layout--single {
@@ -103,12 +112,13 @@ body {
   float: left;
   margin-left: 0;
   padding-left: 0;
+  padding-right: 20px;
   width: 250px;
 }
 
 // Main content container
 .page {
-  padding: 1em;
+  padding: 1.5em;
   background-color: white;
   border-radius: 5px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.1);
@@ -129,14 +139,13 @@ body {
     transform: none !important;
     -webkit-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-    padding-right: 1em;
+    padding-right: 20px;
   }
   
   .page {
     float: right;
     width: calc(100% - 280px);
-    padding-right: 2em;
-    padding-left: 2em;
+    padding: 2em;
     margin-left: 0;
   }
   
@@ -151,7 +160,7 @@ body {
   .sidebar {
     width: 200px;
     float: left;
-    padding-right: 1em;
+    padding-right: 20px;
     position: relative !important;
     transform: none !important;
   }
@@ -159,8 +168,7 @@ body {
   .page {
     float: right;
     width: calc(100% - 220px);
-    padding-right: 1.5em;
-    padding-left: 1.5em;
+    padding: 1.5em;
     margin-left: 0;
   }
   
@@ -172,11 +180,25 @@ body {
 
 // For smaller screens, stack content
 @media (max-width: 48em) {
+  body {
+    padding-left: 3%;
+    padding-right: 3%;
+    max-width: 94%;
+  }
+  
+  .masthead, .page__footer {
+    margin-left: -3.2%;
+    margin-right: -3.2%;
+    padding-left: 3.2%;
+    padding-right: 3.2%;
+  }
+  
   .sidebar {
     width: 100%;
     float: none;
     position: relative !important;
     transform: none !important;
+    padding-right: 0;
   }
   
   .page {
@@ -248,6 +270,10 @@ body {
   background-color: $primary-color;
   color: $light-text;
   clear: both;
+  margin-left: -5.5%;
+  margin-right: -5.5%;
+  padding-left: 5.5%;
+  padding-right: 5.5%;
   
   a {
     color: lighten($secondary-color, 15%);
