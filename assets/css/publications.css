@@ -31,15 +31,11 @@
   font-weight: bold;
   margin-bottom: 0.15em;
   line-height: 1.2;
-  display: flex;
-  align-items: baseline;
-  gap: 0.5em;
 }
 
 .publication-title a {
   color: #2c3e50;
   text-decoration: none;
-  flex: 1;
 }
 
 .publication-title a:hover {
@@ -47,18 +43,24 @@
   text-decoration: underline;
 }
 
-.citation-count {
-  font-size: 0.85em;
-  color: #888;
-  font-weight: normal;
-  white-space: nowrap;
+.publication-info {
+  display: flex;
+  align-items: baseline;
+  gap: 1em;
+  margin-bottom: 0.15em;
+  line-height: 1.2;
 }
 
 .publication-authors {
   font-style: italic;
-  margin-bottom: 0.15em;
   font-size: 0.95em;
-  line-height: 1.2;
+  flex: 1;
+}
+
+.citation-count {
+  font-size: 0.85em;
+  color: #999;
+  white-space: nowrap;
 }
 
 .publication-journal {

@@ -80,20 +80,24 @@ function renderPublications(publications) {
     titleLink.target = '_blank';
     titleLink.textContent = pub.title;
     title.appendChild(titleLink);
+    item.appendChild(title);
+
+    var info = document.createElement('div');
+    info.className = 'publication-info';
+
+    var authors = document.createElement('div');
+    authors.className = 'publication-authors';
+    authors.textContent = pub.authors;
+    info.appendChild(authors);
 
     if (pub.citation_count && pub.citation_count > 0) {
       var citations = document.createElement('span');
       citations.className = 'citation-count';
       citations.textContent = pub.citation_count + ' citations';
-      title.appendChild(citations);
+      info.appendChild(citations);
     }
-    
-    item.appendChild(title);
 
-    var authors = document.createElement('div');
-    authors.className = 'publication-authors';
-    authors.textContent = pub.authors;
-    item.appendChild(authors);
+    item.appendChild(info);
 
     var journal = document.createElement('div');
     journal.className = 'publication-journal';
