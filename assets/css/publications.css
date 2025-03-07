@@ -11,8 +11,8 @@
 }
 
 .publication-item {
-  margin-bottom: 1em;
-  padding-bottom: 0.8em;
+  margin-bottom: 0.6em;
+  padding-bottom: 0.6em;
   border-bottom: 1px solid #eee;
   position: relative;
   padding-left: 2.5em;
@@ -29,13 +29,17 @@
 
 .publication-title {
   font-weight: bold;
-  margin-bottom: 0.2em;
-  line-height: 1.3;
+  margin-bottom: 0.15em;
+  line-height: 1.2;
+  display: flex;
+  align-items: baseline;
+  gap: 0.5em;
 }
 
 .publication-title a {
   color: #2c3e50;
   text-decoration: none;
+  flex: 1;
 }
 
 .publication-title a:hover {
@@ -43,18 +47,25 @@
   text-decoration: underline;
 }
 
+.citation-count {
+  font-size: 0.85em;
+  color: #888;
+  font-weight: normal;
+  white-space: nowrap;
+}
+
 .publication-authors {
   font-style: italic;
-  margin-bottom: 0.2em;
+  margin-bottom: 0.15em;
   font-size: 0.95em;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .publication-journal {
   color: #666;
-  margin-bottom: 0.2em;
+  margin-bottom: 0;
   font-size: 0.9em;
-  line-height: 1.3;
+  line-height: 1.2;
 }
 
 .publication-metrics {

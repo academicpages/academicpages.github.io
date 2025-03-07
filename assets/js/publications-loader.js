@@ -79,8 +79,15 @@ function renderPublications(publications) {
     titleLink.href = pub.ads_link;
     titleLink.target = '_blank';
     titleLink.textContent = pub.title;
-    
     title.appendChild(titleLink);
+
+    if (pub.citation_count && pub.citation_count > 0) {
+      var citations = document.createElement('span');
+      citations.className = 'citation-count';
+      citations.textContent = pub.citation_count + ' citations';
+      title.appendChild(citations);
+    }
+    
     item.appendChild(title);
 
     var authors = document.createElement('div');
