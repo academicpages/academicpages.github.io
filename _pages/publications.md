@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include head/custom.html %}
+
+<link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
+<script src="{{ '/assets/js/publications-loader.js' | relative_url }}" type="text/javascript"></script>
+
 Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0002-5992-7586&sort=date%20desc%2C%20bibcode%20desc&p_=0) and here: [arXiv](https://arxiv.org/search/?query=sihan+yuan&searchtype=all&source=header)
 
 <div id="publications-container">
@@ -17,79 +22,3 @@ Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/sea
     <p>This page requires JavaScript to display publications. Please enable JavaScript or use a different browser.</p>
   </div>
 </noscript>
-
-<!-- Load external JavaScript file -->
-<script src="/assets/js/publications-loader.js" type="text/javascript"></script>
-
-<style>
-.publications-list {
-  padding: 0;
-}
-
-.last-updated {
-  font-size: 0.8em;
-  color: #777;
-  margin-bottom: 1.5em;
-  text-align: right;
-}
-
-.publication-item {
-  margin-bottom: 1.5em;
-  padding-bottom: 1em;
-  border-bottom: 1px solid #eee;
-}
-
-.publication-title {
-  font-weight: bold;
-  margin-bottom: 0.3em;
-}
-
-.publication-title a {
-  color: #2c3e50;
-  text-decoration: none;
-}
-
-.publication-title a:hover {
-  color: #3498db;
-  text-decoration: underline;
-}
-
-.publication-authors {
-  font-style: italic;
-  margin-bottom: 0.3em;
-}
-
-.publication-journal {
-  color: #666;
-  margin-bottom: 0.3em;
-}
-
-.publication-metrics {
-  margin-bottom: 0.3em;
-}
-
-.citation-badge {
-  display: inline-block;
-  background-color: #f1f8ff;
-  color: #0366d6;
-  border: 1px solid #c8e1ff;
-  border-radius: 3px;
-  padding: 0.1em 0.5em;
-  font-size: 0.85em;
-  margin-right: 0.5em;
-}
-
-.publication-links {
-  font-size: 0.9em;
-  margin-top: 0.5em;
-}
-
-.pub-link {
-  color: #3498db;
-  text-decoration: none;
-}
-
-.pub-link:hover {
-  text-decoration: underline;
-}
-</style>
