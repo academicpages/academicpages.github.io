@@ -11,27 +11,6 @@ Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/sea
   <p>Loading publications...</p>
 </div>
 
-<div id="debug-info" style="background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 10px; margin-top: 20px; border-radius: 5px;">
-  <h4>Debug Information:</h4>
-  <div id="debug-status">No JavaScript executed yet</div>
-  
-  <div>
-    <button id="test-json-button" style="margin-top: 10px; padding: 5px 10px; background: #007bff; color: white; border: none; border-radius: 3px; cursor: pointer;">Test JSON Access</button>
-    <div id="json-test-result" style="margin-top: 10px;"></div>
-  </div>
-  
-  <div>
-    <button id="test-basic-button" style="margin-top: 10px; padding: 5px 10px; background: #28a745; color: white; border: none; border-radius: 3px; cursor: pointer;">Test Basic Script</button>
-  </div>
-</div>
-
-<noscript>
-  <div style="background-color: #dc3545; color: white; padding: 10px; margin-top: 20px; border-radius: 5px;">
-    <p><strong>JavaScript is disabled or not supported in your browser.</strong></p>
-    <p>This page requires JavaScript to display publications. Please enable JavaScript or use a different browser.</p>
-  </div>
-</noscript>
-
 <!-- Load external JavaScript file instead of inline script -->
 <script src="/assets/js/publications-loader.js" type="text/javascript"></script>
 
