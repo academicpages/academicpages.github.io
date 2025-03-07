@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : "Tatwik Meesala"
 title_separator          : "-"
 name                     : &name "Sai Srinivas Tatwik Meesala" # ʃͭᴍ
