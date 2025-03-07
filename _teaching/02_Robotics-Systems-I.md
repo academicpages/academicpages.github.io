@@ -9,7 +9,7 @@ location: "Arizona"
 ---
 
 Served as a Teaching Assistant for Robotic Systems I during the **Fall 2023** semester.  
-Assisted students in understanding key concepts and applications in robotics.  
+Prepared lab and assisted students in understanding key concepts and applications in robotics.  
 
 Course Links:
 - [Fall 2023](https://catalog.apps.asu.edu/catalog/classes/classlist?keywords=96295&searchType=all&term=2237#detailsOpen=96295-131765)
