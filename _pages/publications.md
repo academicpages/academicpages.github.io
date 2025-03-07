@@ -11,7 +11,14 @@ Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/sea
   <p>Loading publications...</p>
 </div>
 
-<!-- Load external JavaScript file instead of inline script -->
+<noscript>
+  <div style="background-color: #dc3545; color: white; padding: 10px; margin-top: 20px; border-radius: 5px;">
+    <p><strong>JavaScript is disabled or not supported in your browser.</strong></p>
+    <p>This page requires JavaScript to display publications. Please enable JavaScript or use a different browser.</p>
+  </div>
+</noscript>
+
+<!-- Load external JavaScript file -->
 <script src="/assets/js/publications-loader.js" type="text/javascript"></script>
 
 <style>
