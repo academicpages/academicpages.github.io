@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download resume](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf).
+[Download Resume](https://raw.githack.com/Tatwik19/Tatwik19.github.io/master/files/Socials/Resume.pdf)
 
 
 
