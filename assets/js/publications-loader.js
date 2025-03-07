@@ -93,27 +93,6 @@ function renderPublications(publications) {
     journal.textContent = pub.journal_info;
     item.appendChild(journal);
 
-    var links = document.createElement('div');
-    links.className = 'publication-links';
-    
-    var adsLink = document.createElement('a');
-    adsLink.href = pub.ads_link;
-    adsLink.target = '_blank';
-    adsLink.className = 'pub-link';
-    adsLink.textContent = 'ADS';
-    links.appendChild(adsLink);
-
-    if (pub.arxiv_link) {
-      links.appendChild(document.createTextNode(' | '));
-      var arxivLink = document.createElement('a');
-      arxivLink.href = pub.arxiv_link;
-      arxivLink.target = '_blank';
-      arxivLink.className = 'pub-link';
-      arxivLink.textContent = 'arXiv';
-      links.appendChild(arxivLink);
-    }
-
-    item.appendChild(links);
     list.appendChild(item);
   });
 

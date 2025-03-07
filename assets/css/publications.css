@@ -71,22 +71,4 @@
   padding: 0.1em 0.5em;
   font-size: 0.85em;
   margin-right: 0.5em;
-}
-
-.publication-links {
-  font-size: 0.85em;
-  margin-top: 0.3em;
-}
-
-.pub-link {
-  color: #3498db;
-  text-decoration: none;
-  padding: 0.1em 0.3em;
-  background: #f8f9fa;
-  border-radius: 3px;
-}
-
-.pub-link:hover {
-  text-decoration: underline;
-  background: #e9ecef;
 } 
