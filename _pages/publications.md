@@ -13,229 +13,172 @@ Full publication list can be found here: [ADS](https://ui.adsabs.harvard.edu/sea
 
 <div id="debug-info" style="background-color: #f8d7da; border: 1px solid #f5c6cb; padding: 10px; margin-top: 20px; border-radius: 5px;">
   <h4>Debug Information:</h4>
-  <div id="debug-status">Initializing debug...</div>
+  <div id="debug-status">No JavaScript executed yet</div>
   
-  <div style="margin-top: 15px;">
-    <button id="check-json-button" style="padding: 5px 10px; background: #007bff; color: white; border: none; border-radius: 3px; cursor: pointer;">Check JSON File Directly</button>
-    <div id="json-check-result" style="margin-top: 10px;"></div>
+  <div>
+    <button onclick="testJsonAccess()" style="margin-top: 10px; padding: 5px 10px; background: #007bff; color: white; border: none; border-radius: 3px; cursor: pointer;">Test JSON Access</button>
+    <div id="json-test-result" style="margin-top: 10px;"></div>
+  </div>
+  
+  <div>
+    <button onclick="testBasicScript()" style="margin-top: 10px; padding: 5px 10px; background: #28a745; color: white; border: none; border-radius: 3px; cursor: pointer;">Test Basic Script</button>
   </div>
 </div>
 
 <noscript>
-  <div class="publication-notice">
-    <p>JavaScript is required to view the dynamic publications list.</p>
-    <p>Please visit the direct links above to see the complete list of publications.</p>
+  <div style="background-color: #dc3545; color: white; padding: 10px; margin-top: 20px; border-radius: 5px;">
+    <p><strong>JavaScript is disabled or not supported in your browser.</strong></p>
+    <p>This page requires JavaScript to display publications. Please enable JavaScript or use a different browser.</p>
   </div>
 </noscript>
 
 <script>
-// Debug function to update both console and visible debug area
-function debug(message) {
-  console.log('DEBUG: ' + message);
-  document.getElementById('debug-status').innerHTML += '<div>' + message + '</div>';
-}
+// Immediately update the debug status to confirm script is running
+document.getElementById('debug-status').textContent = 'Script tag is executing!';
 
-// Initialize debugging
-debug('Page loaded at: ' + new Date().toLocaleString());
-debug('Testing if basic JavaScript works');
-
-// Check if required DOM elements exist
-if (document.getElementById('publications-container')) {
-  debug('Publications container found');
-} else {
-  debug('ERROR: Publications container not found');
-}
-
-// Check if browser supports fetch
-if (window.fetch) {
-  debug('Fetch API is supported');
-} else {
-  debug('WARNING: Fetch API not supported, will fall back to XMLHttpRequest');
-}
-
-// Function to load publications with fetch
-function loadPublications() {
-  debug('Starting to load publications data');
+// Test function that will be called by the button
+function testBasicScript() {
+  // Simple DOM manipulation to confirm JavaScript is working
+  const status = document.getElementById('debug-status');
+  status.textContent = 'Basic script test successful at ' + new Date().toLocaleString();
+  status.style.color = 'green';
+  status.style.fontWeight = 'bold';
   
-  const jsonUrl = '/assets/js/publications.json';
-  debug('JSON URL: ' + jsonUrl);
+  // Add some diagnostic information
+  const debugInfo = document.getElementById('debug-info');
+  debugInfo.innerHTML += '<div style="margin-top: 10px; border-top: 1px solid #ccc; padding-top: 10px;">' +
+    '<strong>Browser Information:</strong><br>' +
+    'User Agent: ' + navigator.userAgent + '<br>' +
+    'Platform: ' + navigator.platform + '<br>' +
+    '</div>';
+}
+
+// Function to manually test JSON access with button click
+function testJsonAccess() {
+  const resultDiv = document.getElementById('json-test-result');
+  resultDiv.innerHTML = 'Attempting to access publications.json...';
   
-  // First try with fetch API
-  fetch(jsonUrl)
-    .then(response => {
-      debug('Response received with status: ' + response.status);
-      if (!response.ok) {
-        throw new Error('Network response was not ok: ' + response.status);
-      }
-      return response.json();
-    })
-    .then(data => {
-      debug('Data successfully parsed as JSON');
-      processPublications(data);
-    })
-    .catch(error => {
-      debug('ERROR with fetch: ' + error.message);
-      debug('Falling back to XMLHttpRequest');
-      
-      // Fall back to XMLHttpRequest
-      const xhr = new XMLHttpRequest();
-      xhr.open('GET', jsonUrl);
-      
-      xhr.onload = function() {
-        if (xhr.status === 200) {
-          debug('XMLHttpRequest successful');
-          try {
-            const data = JSON.parse(xhr.responseText);
-            processPublications(data);
-          } catch (parseError) {
-            debug('ERROR: Failed to parse JSON: ' + parseError.message);
-            showError('JSON Parse Error: ' + parseError.message);
+  // Using XMLHttpRequest for maximum compatibility
+  const xhr = new XMLHttpRequest();
+  xhr.open('GET', '/assets/js/publications.json');
+  
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === 4) { // Request completed
+      if (xhr.status === 200) {
+        resultDiv.innerHTML = '<span style="color: green;">SUCCESS!</span> JSON file is accessible. First 50 characters:<br>' +
+          '<pre>' + xhr.responseText.substring(0, 50) + '...</pre>';
+        
+        // Try to parse it
+        try {
+          const data = JSON.parse(xhr.responseText);
+          resultDiv.innerHTML += '<div style="color: green;">JSON parsed successfully!</div>';
+          
+          // Show number of publications
+          if (data && data.publications) {
+            resultDiv.innerHTML += '<div>Found ' + data.publications.length + ' publications</div>';
+            
+            // Show first publication title
+            if (data.publications.length > 0) {
+              resultDiv.innerHTML += '<div>First publication: ' + data.publications[0].title + '</div>';
+              
+              // Now try to render the publication
+              loadFirstPublication(data.publications[0]);
+            }
           }
-        } else {
-          debug('XMLHttpRequest failed with status: ' + xhr.status);
-          showError('Failed to load data: ' + xhr.status);
+        } catch (e) {
+          resultDiv.innerHTML += '<div style="color: red;">Error parsing JSON: ' + e.message + '</div>';
         }
-      };
-      
-      xhr.onerror = function() {
-        debug('XMLHttpRequest error occurred');
-        showError('Network error occurred');
-      };
-      
-      xhr.send();
-    });
+      } else {
+        resultDiv.innerHTML = '<span style="color: red;">ERROR:</span> Failed to access JSON file. Status: ' + xhr.status;
+      }
+    }
+  };
+  
+  xhr.onerror = function() {
+    resultDiv.innerHTML = '<span style="color: red;">ERROR:</span> Network error occurred';
+  };
+  
+  xhr.send();
 }
 
-// Process publications data
-function processPublications(data) {
+// Function to load and display just the first publication
+function loadFirstPublication(pub) {
   try {
-    if (!data) {
-      debug('ERROR: data is null or undefined');
-      showError('Data is empty');
-      return;
+    const container = document.getElementById('publications-container');
+    
+    // Clear existing content
+    container.innerHTML = '';
+    
+    // Create elements manually for maximum compatibility
+    const item = document.createElement('div');
+    item.className = 'publication-item';
+    
+    const title = document.createElement('div');
+    title.className = 'publication-title';
+    
+    const titleLink = document.createElement('a');
+    titleLink.href = pub.ads_link;
+    titleLink.target = '_blank';
+    titleLink.textContent = pub.title;
+    
+    title.appendChild(titleLink);
+    item.appendChild(title);
+    
+    const authors = document.createElement('div');
+    authors.className = 'publication-authors';
+    authors.textContent = pub.authors;
+    item.appendChild(authors);
+    
+    const journal = document.createElement('div');
+    journal.className = 'publication-journal';
+    journal.textContent = pub.journal_info;
+    item.appendChild(journal);
+    
+    const links = document.createElement('div');
+    links.className = 'publication-links';
+    
+    const adsLink = document.createElement('a');
+    adsLink.href = pub.ads_link;
+    adsLink.target = '_blank';
+    adsLink.className = 'pub-link';
+    adsLink.textContent = 'ADS';
+    links.appendChild(adsLink);
+    
+    if (pub.arxiv_link) {
+      links.appendChild(document.createTextNode(' | '));
+      
+      const arxivLink = document.createElement('a');
+      arxivLink.href = pub.arxiv_link;
+      arxivLink.target = '_blank';
+      arxivLink.className = 'pub-link';
+      arxivLink.textContent = 'arXiv';
+      links.appendChild(arxivLink);
     }
     
-    debug('Data object properties: ' + Object.keys(data).join(', '));
+    item.appendChild(links);
+    container.appendChild(item);
     
-    const lastUpdated = data.last_updated || "";
-    debug('Last updated: ' + lastUpdated);
+    // Add notice that this is just one publication
+    const notice = document.createElement('p');
+    notice.style.marginTop = '20px';
+    notice.style.fontStyle = 'italic';
+    notice.textContent = 'Success! This is just the first publication as a test.';
+    container.appendChild(notice);
     
-    const publications = data.publications || [];
-    debug('Number of publications found: ' + publications.length);
-    
-    if (publications.length > 0) {
-      debug('Building HTML for publications');
-      let html = "<div class='publications-list'>";
-      
-      // Add last updated info
-      html += `<p class="last-updated">Last updated: ${lastUpdated}</p>`;
-      
-      // Add publications (first 5 for testing)
-      const displayCount = Math.min(publications.length, 5);
-      debug(`Rendering first ${displayCount} publications for testing`);
-      
-      for (let i = 0; i < displayCount; i++) {
-        const pub = publications[i];
-        
-        // Format citation count if available
-        const citationBadge = pub.citation_count > 0 
-          ? `<span class="citation-badge" title="Citation count">📄 ${pub.citation_count}</span>` 
-          : '';
-        
-        html += `
-          <div class="publication-item">
-            <div class="publication-title">
-              <a href="${pub.ads_link}" target="_blank">${pub.title}</a>
-            </div>
-            <div class="publication-authors">${pub.authors}</div>
-            <div class="publication-journal">${pub.journal_info}</div>
-            <div class="publication-metrics">
-              ${citationBadge}
-            </div>
-            <div class="publication-links">
-        `;
-        
-        // Add links
-        if (pub.ads_link) {
-          html += `<a href="${pub.ads_link}" target="_blank" class="pub-link">ADS</a>`;
-        }
-        
-        if (pub.arxiv_link) {
-          html += ` | <a href="${pub.arxiv_link}" target="_blank" class="pub-link">arXiv</a>`;
-        }
-        
-        html += `
-            </div>
-          </div>
-        `;
-      }
-      
-      if (publications.length > displayCount) {
-        html += `<p>... and ${publications.length - displayCount} more publications</p>`;
-      }
-      
-      html += "</div>";
-      
-      debug('Updating DOM with publications HTML');
-      document.getElementById('publications-container').innerHTML = html;
-      debug('DOM updated successfully');
-    } else {
-      debug('No publications found in the data');
-      showError('No publications found in the data');
-    }
+    // Update debug info
+    document.getElementById('json-test-result').innerHTML += '<div style="color: green;">✓ Successfully rendered first publication!</div>';
   } catch (e) {
-    debug('ERROR in processPublications: ' + e.message);
-    debug('Error stack: ' + e.stack);
-    showError('Error processing data: ' + e.message);
+    document.getElementById('json-test-result').innerHTML += '<div style="color: red;">Error rendering publication: ' + e.message + '</div>';
   }
 }
 
-// Show error message
-function showError(message) {
-  document.getElementById('publications-container').innerHTML = `
-    <div class="publication-notice">
-      <p>Unable to load publications data.</p>
-      <p>Error: ${message}</p>
-      <p>Please visit the direct links above to see the complete list of publications.</p>
-    </div>
-  `;
-}
-
-// Direct check of JSON file
-document.getElementById('check-json-button').addEventListener('click', function() {
-  const resultDiv = document.getElementById('json-check-result');
-  resultDiv.innerHTML = 'Checking JSON file directly...';
-  
-  const xhr = new XMLHttpRequest();
-  xhr.open('GET', '/assets/js/publications.json');
-  xhr.onload = function() {
-    if (xhr.status === 200) {
-      resultDiv.innerHTML = 'SUCCESS: JSON file exists and is accessible. First 100 characters:<br>' + 
-        '<pre>' + xhr.responseText.substring(0, 100) + '...</pre>';
-    } else {
-      resultDiv.innerHTML = 'ERROR: JSON file request failed with status: ' + xhr.status;
-    }
-  };
-  xhr.onerror = function() {
-    resultDiv.innerHTML = 'ERROR: Network error when trying to access the JSON file';
-  };
-  xhr.send();
-});
-
-// Start loading publications
-document.addEventListener('DOMContentLoaded', loadPublications);
+// Note: We're NOT automatically loading the publications on page load
+// We'll rely on the buttons for testing instead
 </script>
 
 <style>
 .publications-list {
   padding: 0;
-}
-
-.last-updated {
-  font-size: 0.8em;
-  color: #777;
-  margin-bottom: 1.5em;
-  text-align: right;
 }
 
 .publication-item {
@@ -269,23 +212,9 @@ document.addEventListener('DOMContentLoaded', loadPublications);
   margin-bottom: 0.3em;
 }
 
-.publication-metrics {
-  margin-bottom: 0.3em;
-}
-
-.citation-badge {
-  display: inline-block;
-  background-color: #f1f8ff;
-  color: #0366d6;
-  border: 1px solid #c8e1ff;
-  border-radius: 3px;
-  padding: 0.1em 0.5em;
-  font-size: 0.85em;
-  margin-right: 0.5em;
-}
-
 .publication-links {
   font-size: 0.9em;
+  margin-top: 0.5em;
 }
 
 .pub-link {
@@ -295,13 +224,5 @@ document.addEventListener('DOMContentLoaded', loadPublications);
 
 .pub-link:hover {
   text-decoration: underline;
-}
-
-.publication-notice {
-  background-color: #f8f9fa;
-  border: 1px solid #eee;
-  padding: 1em;
-  border-radius: 5px;
-  text-align: center;
 }
 </style>
