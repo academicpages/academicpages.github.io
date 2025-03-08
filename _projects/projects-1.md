@@ -1,15 +1,13 @@
 ---
 title: "Nature-inspired metamaterial-based shape-changing interfaces"
-excerpt: " Shape changing interfaces are robotic devices that can show notifications, physicalize data and provide a tangible entity to interact with and they can easily blend into everyday environments. This project proposes using sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. We explore the advantages of having the internal flexibility of the metamaterial structure as a design parameter for achieving multi degree-of-freedom curvilinear patterns through sparsely placed actuators. This project aims to help designers with design and simulation the presented structures to help improve the iterative fabrication process. 
-
-![image](https://github.com/user-attachments/assets/c74895b7-9545-4c25-bd9f-ed6040704a7b)
-
-<br/><img src='/images/MetamataterialGIF_Optimized.gif'>" 
+excerpt: " Shape changing interfaces are robotic devices that can show notifications, physicalize data and provide a tangible entity to interact with and they can easily blend into everyday environments. This project proposes using sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. We explore the advantages of having the internal flexibility of the metamaterial structure as a design parameter for achieving multi degree-of-freedom curvilinear patterns through sparsely placed actuators. This project aims to help designers with design and simulation the presented structures to help improve the iterative fabrication process. <br/><img src='/images/MetamataterialGIF_Optimized.gif'>" 
 collection: projects
 ---
 
 <br/><img src='/images/Teaser5.png'>
-<!-- ![](/images/MetamaterialGIF_Optimized.gif) <br><br> -->
+<!-- ![](/images/MetamaterialGIF_Optimized.gif) <br><br>
+![image](https://github.com/user-attachments/assets/c74895b7-9545-4c25-bd9f-ed6040704a7b)
+-->
 
 **[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
