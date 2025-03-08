@@ -6,7 +6,7 @@ collection: projects
 ---
 
 <br/><img src='/images/Teaser5.png'>
-<!-- ![](/images/MetamataterialGIF_Optimized.gif) <br><br> -->
+<!-- ![](/images/MetamaterialGIF_Optimized.gif) <br><br> -->
 
 **[Related Github repository](https://github.com/aotaran/MetamaterialDesignAndSimulation)**
 
