@@ -1,6 +1,7 @@
 ---
 title: "Nature-inspired metamaterial-based shape-changing interfaces"
-excerpt: "This project page shows sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. The presented structures are manufactured by 3D printing and enhanced by modular add-ons. This project aims to help designers to design and simulate the presented structures before construction and provide guidance on modular enhancements after construction. 
+excerpt: " Shape changing interfaces are robotic devices that can show notifications, physicalize data and provide a tangible entity to interact with and they can easily blend into everyday environments. This project proposes using sparsely actuated metamaterial systems for designing nature-inspired shape-changing interfaces. We explore the advantages of having the internal flexibility of the metamaterial structure as a design parameter for achieving multi degree-of-freedom curvilinear patterns through sparsely placed actuators. This project aims to help designers with design and simulation the presented structures to help improve the iterative fabrication process. ![image](https://github.com/user-attachments/assets/c74895b7-9545-4c25-bd9f-ed6040704a7b)
+
 <br/><img src='/images/MetamataterialGIF_Optimized.gif'>" 
 collection: projects
 ---
