@@ -16,7 +16,7 @@ title: "Research"
   
 </details>
 
-  * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** _Working Paper._
+  * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** Working Paper.
 
 <details><summary>Abstract</summary>
 
@@ -24,14 +24,14 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
   
 </details>
 
-* Carter, David, B. and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** _Working Paper._
+* Carter, David, B. and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
 <details><summary>Abstract</summary>
 
 The conventional view suggests that increased state presence in historically rugged and remote regions may face local resistance, as residents in these areas are often hostile toward the central government. However, we argue that individuals in these regions respond positively to contemporary state presence, particularly through infrastructural development, by exhibiting higher levels of trust than those in core areas. Two mechanisms explain this relationship: infrastructural development delivers more noticeable benefits to citizens in peripheral regions, and residents in rugged areas have had limited interactions with contemporary governments, making their political attitudes more malleable. We also highlight two important scope conditions of this relationship -- conflict history and resource extraction. Using geo-spatial data on terrain ruggedness, contemporary infrastructure, and individual-level surveys across three continents, we find evidence supporting our hypotheses. These findings underscore the strengths and limitations of infrastructural development as a crucial form of state presence in bolstering political control.
   
 </details>
 
-* Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** _Working Paper._
+* Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Working Paper.
   
   * Best Foreign Policy Paper Award, APSA (2022)
 <details><summary>Abstract</summary>
