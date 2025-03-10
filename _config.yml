@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Bo's Homepage"
+title                    : "title"
 title_separator          : "-"
 name                     : &name "name"
 description              : &description "personal description"
