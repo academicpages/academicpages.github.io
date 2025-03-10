@@ -11,10 +11,12 @@ collection: portfolio
 
 <br/>
 
-Check the website here [Link](https://ras598-2025-s-team03.github.io/)
+Check the website [here](https://ras598-2025-s-team03.github.io/)
 
 <br/>
 
 # AeroFusion
 
+The project aims to develop an integrated, sensor-driven framework that enables a Biologically-inspired, Lighter-than-air, Instructional, Mechatronics Program (BLIMP) UAV to operate autonomously in dynamic and uncertain environments.
 
+<br/>
