@@ -1,9 +1,11 @@
 ---
-title: "VCO2 VO2 Metabolic Monitor"
+title: "3DoF Robot Arm"
 excerpt: 
-    "Jan 2024 - April 2024<br/>
-    Designed and implemented a VCO2 and VO2 metabolic monitor, integrating CAD design, coding, and MATLAB interface with Bluetooth (BLE) connectivity for real-time data collection."
+    "Aug 2021 – Dec 2021<br/>
+    Designed Bluetooth Robot Arm with inbuilt Forward/Inverse Kinematics calculator to reach target location."
+# excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-Designed and implemented a VCO2 and VO2 metabolic monitor, integrating CAD design, coding, and MATLAB interface with Bluetooth (BLE) connectivity for real-time data collection.
+Designed Bluetooth Robot Arm with inbuilt Forward/Inverse Kinematics calculator to reach target location.<br/>
+[Link](https://github.com/Tatwik19/Tatwik19.github.io/tree/master/assets/Projects/3DoF%20Robot)

@@ -1,23 +1,27 @@
 ---
-title: "Wearable Robotics with Embedded System Control"
+title: "Semi-Autonomous Twin Hoist System"
 excerpt: 
-    "Jan 2022 – Apr 2022<br/>
-    Developed an Embedded System that uses data collected from sensors to control the actuators with wireless WiFi control to help stoke patients."
+    "Aug 2023 – May 2023<br/>
+    Designed two independent hoists to pick up and change copper rolls (700 lbs) used for PCB manufacturing."
 collection: portfolio
 ---
 
-Developed an Embedded System that uses data collected from sensors to control the actuators with wireless WiFi control to help stoke patients.<br/>
-[Link](https://github.com/Tatwik19/Team205-Watching-Distance)
+Designed two independent hoists to pick up and change copper rolls (700 lbs) used for PCB manufacturing.<br/>
+[Link](https://github.com/Tatwik19/24-Increasing-Changeover-Capabilities-at-Isola)
 
-# Watching-Distance
-Stroke patients can not perceive depth as a result of their stroke. The team hopes to solve this issue by giving stroke patients a wearable device that will tell them how far away objects are.
-For stroke patients that have motor skills yet can not perceive depth, this technology would be life-changing. Team 205 talked to an occupational therapist and found out that this is a project that they think would improve the lives of stroke patients in this category.
-This device will display distances in meters on a small led panel, as well as a gyro sensor that will only turn on the device when the user holds it up and points it at where they want to measure.
+# Increasing-Changeover-Capabilities-at-Isola
+![Innovation showcase poster pptx](https://github.com/Tatwik19/24-Increasing-Changeover-Capabilities-at-Isola/assets/67763638/7d936969-ee3f-4279-a3a5-ffb391c334be)
 
-The Following is the PCB schematic:
-[FINALSCHEMATICBRD.pdf](https://github.com/Tatwik19/Team205-Watching-Distance/files/8578224/FINALSCHEMATICBRD.pdf)
+<br />
 
-![20220430_104416](https://user-images.githubusercontent.com/96451759/166118037-aef595fe-bed9-4bc8-a2e5-96a3eada7e6c.jpg)
+<video width="700" controls>
+  <source src="https://raw.githubusercontent.com/Tatwik19/24-Increasing-Changeover-Capabilities-at-Isola/main/OLD/384624749-ee0afaa7-376b-4424-b353-ba5e18c106c2.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-Team Poaster  [Poster.pdf](https://github.com/Tatwik19/Team205-Watching-Distance/files/8597608/Poster.pdf)
+
+
+<br />
+
+The Isola Group is a global company that services the manufacturing industry by producing and supplying a range of products and raw materials. Their Chandler plant is designed specifically to produce copper-fiberglass laminate for PCBs, with a focus on high-speed turnaround low-volume custom substrate. Isola has identified the current copper foil roll changeover solution on their assembly line as a bottleneck. It is currently a slow, partially manual process, and speeding up this portion of the assembly line would allow them to take on more next-day clients, fill more orders, and generate more value. Team 24 has been tasked with designing a solution that can decrease the copper foil changeover time and remove the bottleneck in their line. The deliverables consist of a detailed mechanical and electrical design, a bill of materials (BOM) of the completed solution, and a budget for a completed solution. The solution’s scope is limited to the beginning of the process at the copper foil pallet staged at the machine and ending with loading the copper foil rolls onto the existing chucks.
 
