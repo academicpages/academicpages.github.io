@@ -253,6 +253,7 @@ Useful Links
   * [John McCarthy's Original Website](https://www-formal.stanford.edu/jmc/)
   * [Tony Hoare : Publications maintained by the University of Oxford](https://www.cs.ox.ac.uk/people/publications/date/Tony.Hoare.html)
   * [Online Historical Encyclopaedia of Programming Languages](http://hopl.info/)
+  * [SYMPOSIUM ON PHILOSOPHY OF COMPUTING](https://philcomp.org/)
 
 Others
 ======  
