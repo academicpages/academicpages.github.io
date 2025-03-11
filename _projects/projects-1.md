@@ -30,5 +30,5 @@ Sample design and simulation video of the gripper application (sped up by 4x)
 **Related Academic work**
 
 <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
-<sub> Sparsely actuated modular metamaterials for shape-changing interfaces  </sub> \
+<sub> [Sparsely actuated modular metamaterials for shape-changing interfaces](https://dl.acm.org/doi/10.1145/3689050.3704942)  </sub> \
 <sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
