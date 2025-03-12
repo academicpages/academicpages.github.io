@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal academic website. I am currently pursuing a Master of Philosophy in Data Science at **[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)**, advised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my B.Sc in Applied Psychology from **[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)**.  
+Welcome to my personal academic website. I am currently pursuing a Master of Philosophy in Data Science at **[The Chinese University of Hong Kong, Shenzhen, School of Data Science](https://sds.cuhk.edu.cn/)**, advised by [Prof. Tianshu Yu](https://mypage.cuhk.edu.cn/academics/yutianshu/). Before that, I received my B.Sc in Applied Psychology from **[The Chinese University of Hong Kong, Shenzhen, School of Humanities and Social Science](https://hss.cuhk.edu.cn/)**.  
 
 ## Research Interests
 ------
