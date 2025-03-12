@@ -34,7 +34,7 @@ $sidebar-link-max-width     : 250px;
 $sidebar-screen-min-width   : 1024px;
 
 /* Dark theme for the site */
-:root {
+html[data-theme="dark"] {
     --global-base-color                 : #{$background};
     --global-bg-color                   : #{$background};
     --global-border-color               : #{$background-light};
@@ -43,9 +43,9 @@ $sidebar-screen-min-width   : 1024px;
     --global-fig-caption-color          : #{$dark-gray};
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};    
+    --global-link-color-visited         : #{$link-light};
     --global-masthead-link-color        : #{$text};
-    --global-masthead-link-color-hover  : #{$background-light};    
+    --global-masthead-link-color-hover  : #{$background-light};
     --global-text-color                 : #{$text};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$background-lighter};
