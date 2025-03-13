@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alexa Homepage"
+title                    : "Alexa's Homepage"
 title_separator          : "-"
-name                     : &name "Alexa Smith"
+name                     : &name "Alexa N. Smith"
 description              : &description "personal description"
 url                      : https://alexasvt.github.io/alexa-Smith.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,14 +22,14 @@ repository               : "https://alexasvt.github.io/alexa-Smith.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "headshot.png"
+  name             : "Alexa N. Smith"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Sciencen (Human-Computer Interaction) Ph.D. Student"
+  location         : "Blacksburg, VA"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alexas@vt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
