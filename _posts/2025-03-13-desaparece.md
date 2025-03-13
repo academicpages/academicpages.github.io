@@ -28,7 +28,7 @@ No presenté denuncia alguna. ¿Para qué sumergirse voluntariamente en el laber
 
 Esta mañana, al afeitarme, noté que mi reflejo en el espejo comenzaba a difuminarse ligeramente en los bordes, como una idea que pierde convicción. Mis dedos, al teclear estas palabras, parecen cada vez más transparentes, quizás un preludio a mi propia transmutación hacia ese estado no observable de presencia que el Dr. García teorizaba con tanta seguridad.
 
-No siento miedo. Quizá cierta curiosidad taxonómica, ese afán tan humano de catalogar incluso nuestra propia disolución, como si al nombrar el abismo pudiéramos domesticarlo. ¿No es la clasificación el último refugio contra el terror de lo inexplicable?)
+No siento miedo. Quizá cierta curiosidad taxonómica, ese afán tan humano de catalogar incluso nuestra propia disolución, como si al nombrar el abismo pudiéramos domesticarlo. (¿No es la clasificación el último refugio contra el terror de lo inexplicable?)
 
 Me pregunto si alguien encontrará estas notas. Me pregunto si quedará alguien para encontrarlas o si la ciudad entera habrá completado ya su metamorfosis hacia la ausencia total, culminación perfecta de nuestra indiferencia colectiva.
 
