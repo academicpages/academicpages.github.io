@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Alexa's Homepage"
+title                    : "Alexa Homepage"
 title_separator          : "-"
 name                     : &name "Alexa Smith"
 description              : &description "personal description"
