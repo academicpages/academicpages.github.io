@@ -47,7 +47,7 @@ We use the texts of legal complaints from trade secret litigation to study how f
 
 
 ### $\color{olive}{Resting}$
-- <a href="/files/social_skills.pdf" target="_blank">Gender Differences in Returns to Social and Math Skills: The Role of Sorting and Employer Learning</a> May 2019. <br/> 
+- <a href="/files/social_skills.pdf" target="_blank">Gender Differences in Returns to Social Skills </a> May 2019. <br/> 
 
 
  
