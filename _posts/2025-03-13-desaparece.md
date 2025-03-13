@@ -3,7 +3,7 @@ title: 'Ontología de las desapariciones'
 date: 2025-03-13
 permalink: /posts/2025/03/desaparece/
 tags:
- -Algo
+ - Algo
 ---
 
 Comenzó con el vecino del 4B. Nadie advirtió su ausencia hasta que el correo se acumuló con tal perseverancia en su buzón que la administradora del edificio, la señora Zambrano —mujer de virtudes homeopáticas pero de curiosidad hipertrofiada—, decidió llamar a la policía. Los agentes, con una parsimonia burocrática propia de quienes han elevado la indiferencia a la categoría de método científico, redactaron un informe destinado a sumergirse en el océano anónimo de documentos igualmente insignificantes.
