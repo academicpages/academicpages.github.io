@@ -2,7 +2,7 @@
 title: "Semi-Autonomous Twin Hoist System"
 excerpt: 
     "Aug 2023 – May 2023<br/>
-    Designed two independent hoists to pick up and change copper rolls (700 lbs) used for PCB manufacturing.  
+    Designed two independent hoists to pick up and change copper rolls (700 lbs) used for PCB manufacturing.<br/>
     <img src='https://raw.githubusercontent.com/Tatwik19/Tatwik19.github.io/master/files/Semi-Autonomous-Twin-Hoist-System.gif' width='700' alt='Semi-Autonomous Twin Hoist System' />"
 collection: portfolio
 ---

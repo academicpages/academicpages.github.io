@@ -2,8 +2,8 @@
 title: "Mechatronics Device: Portable/Lightweight Gait Analysis"
 excerpt: 
     "Jan 2023 – May 2023<br/>
-    Developed compact and portable footwear for gait analysis to improve gait balance for patients at the Barrow Institute.  
-    <img src= 'https://raw.githubusercontent.com/Tatwik19/SoulTech-Portable-Gait-Analysis-Device/main/IMAGES/CAD-Design.png'  width= '70%' height= '70%'>"
+    Developed compact and portable footwear for gait analysis to improve gait balance for patients at the Barrow Institute.<br/>
+    <img src= 'https://raw.githubusercontent.com/Tatwik19/SoulTech-Portable-Gait-Analysis-Device/main/IMAGES/CAD-Design.png'>"
 collection: portfolio
 ---
 
