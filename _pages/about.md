@@ -12,7 +12,7 @@ p {
 }
 </style>
 
-# Professional Background
+## Professional Background
 
 I am a senior AI engineer at FPT Software, and before this, I served as a senior software engineer at LG Electronics. I obtained my engineering degree from Hanoi University of Science and Technology in 2018. In 2023, I completed my Master's in Electrical and Electronics Engineering from Hanyang University, Ansan, Korea.
 
@@ -45,6 +45,7 @@ I have completed 14 peer reviews for the following publications:
 
 I am delighted to work with my best friend, [Nguyen Van Thieu](https://www.linkedin.com/in/thieu1995/). Assistant Prof. Nguyen Van Dinh is my kind brother, and advisor.
 Updating ...
+
 
 
 
