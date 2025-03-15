@@ -43,7 +43,8 @@ I have completed 14 peer reviews for the following publications:
 
 ## Collaboration
 
-Updating.
+I am delighted to work with my best friend, [Nguyen Van Thieu](https://www.linkedin.com/in/thieu1995/). Assistant Prof. Nguyen Van Dinh is my kind brother, and advisor.
+Updating ...
 
 
 
