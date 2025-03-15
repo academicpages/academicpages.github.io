@@ -18,7 +18,7 @@ I am a senior AI engineer at FPT Software, and before this, I served as a senior
 
 My research interests lie in the realm of software engineering, particularly within the fields of edge/cloud computing and computer systems. In addition, my primary focuses include greedy algorithms, graph theory, and deep reinforcement learning (DRL).
 
-## Research Journey
+# Research Journey
 
 I started my research journey as a student at Hanoi University of Science and Technology. I worked with my labmate at the Motor Design Lab under the supervision of Prof. [Bui Minh Dinh](https://scholar.google.com/citations?hl=en&user=lACArY4AAAAJ) and the Chemical Processing Lab under the guidance of Prof. [Nguyen Dang Binh Thanh](https://scholar.google.com/citations?user=uu5VPhcAAAAJ&hl=vi&oi=sra). Here, I did research in numerical methods, computer systems, and motor design. This research then led me to receive third place in the student research competition at Hanoi University of Science and Technology.
 
