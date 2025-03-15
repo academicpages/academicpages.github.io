@@ -24,6 +24,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
+    "academic-pages": "file:",
     "fitvids": "^2.1.1",
     "jquery": "^3.7.1",
     "jquery-smooth-scroll": "^2.2.0",
