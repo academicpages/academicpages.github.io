@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ngoc Hung's Homepage"
+title                    : "Nguyen, Ngoc Hung's Homepage"
 title_separator          : "-"
 name                     : &name "Nguyen, Ngoc Hung"
 description              : &description "This is the personal website of NGUYEN, NGOC HUNG, a little boy of the mighty GOD"
-url                      : https://hung05bk.github.io/nnhung # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jos-hung.github.io/nnhung # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ngochungnguyenlg/nnhung"
 
