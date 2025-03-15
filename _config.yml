@@ -14,7 +14,7 @@ name                     : &name "Nguyen, Ngoc Hung"
 description              : &description "This is the personal website of NGUYEN, NGOC HUNG, a little boy of the mighty GOD"
 url                      : https://jos-hung.github.io/nnhung # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ngochungnguyenlg/nnhung"
+repository               : "jos-hung/nnhung"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
