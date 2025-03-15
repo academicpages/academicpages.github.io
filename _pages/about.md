@@ -12,7 +12,7 @@ p {
 }
 </style>
 
-## Professional Background
+# Professional Background
 
 I am a senior AI engineer at FPT Software, and before this, I served as a senior software engineer at LG Electronics. I obtained my engineering degree from Hanoi University of Science and Technology in 2018. In 2023, I completed my Master's in Electrical and Electronics Engineering from Hanyang University, Ansan, Korea.
 
@@ -24,24 +24,24 @@ I started my research journey as a student at Hanoi University of Science and Te
 
 I was a master's student at Hanyang University in Electronics under the supervision of Prof. [Sang-Woon Jeon](link). Thanks to Prof. Jeon's guidance, I developed a deeper understanding of research concepts and writing skills. During this time, I also explored AI fields, especially deep reinforcement learning, Markovian decision processes, and cloud systems which were instrumental in the completion of my [thesis](https://repository.hanyang.ac.kr/handle/20.500.11754/188311).
 
-## Research Interests
+# Research Interests
 
 The problem of Mobile Edge Computing and related issues attract me.
 
-## Current Works
+# Current Works
 
 Currently, I am a key member of the quantization teams at AI Center, FPT Software. This project has helped me gain a better understanding of AI compilers, model compression, and quantization.
 
 In addition, my collaboration with Prof. [Van-Dinh Nguyen](https://scholar.google.com/citations?user=wgsX_zIAAAAJ&hl=en&oi=ao) has allowed me to continue my interest in edge/cloud areas. The work is updated at [ITS research works](https://github.com/ngochungnguyenlg/ITS_paper).
 
-## Activity
+# Activity
 I have completed 14 peer reviews for the following publications:
 
 - Computer Networks Journal (Q1, Elsevier)
 - IEEE Internet of Things Journal (Q1, IEEE)
 - IEEE Communications Letters (Q1, IEEE)
 
-## Collaboration
+# Collaboration
 
 I am delighted to work with my best friend, [Nguyen Van Thieu](https://www.linkedin.com/in/thieu1995/). Assistant Prof. Nguyen Van Dinh is my kind brother, and advisor.
 Updating ...
