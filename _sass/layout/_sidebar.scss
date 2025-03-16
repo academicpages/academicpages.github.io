@@ -12,9 +12,9 @@
 
   @include clearfix();
   margin-bottom: 1em;
-   
+
   @media (orientation: portrait) {
-    margin-top: 5em;
+    margin-top: 1em;
   }
 
   @media screen and (min-width: $sidebar-screen-min-width) {
