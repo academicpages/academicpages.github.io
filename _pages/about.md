@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Staff Research Scientist at Visa Research. I received my Ph.D. in [Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), working with [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in electrical engineering.
+* I am a software engineer at Google. I was a Staff Research Scientist at Visa Research. I received my Ph.D. in [Department of Computer Science & Engineering](https://engineering.tamu.edu/cse/index.html) at [Texas A&M University](https://www.tamu.edu/), working with [Prof. Xia (Ben) Hu](http://faculty.cs.tamu.edu/xiahu/index.html). I received B.S. degree from [Harbin Institute of Technology (HIT)](http://en.hit.edu.cn/), and M.S. degree from [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/) in electrical engineering.
 
 * My research interests lie in the broad area of trustworthy machine learning, graph learning, efficient machine learning, and GenAI.
 
