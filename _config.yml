@@ -23,13 +23,13 @@ repository               : "ThineLord/ThineLord.github.io"
 author:
   # Biographic information
   avatar           : "XiaoCha.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Hanzhi You"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "夜阑卧听风吹雨，铁马冰河入梦来。"
+  location         : "GuangZhou"
+  employer         : "SCNU"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yhz2243920916@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
