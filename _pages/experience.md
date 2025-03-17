@@ -38,11 +38,11 @@ Services
 =====
 Conference Reviewer: 
 
-Senior PC Member: CIKM'23 (demo track)
+Senior PC Member: CIKM'23 (demo track), CIKM'25
 
 PC Member:
 * NeurIPS: 22-24
-* ICML: 22-24
+* ICML: 22-25
 * ICLR: 24-25
 * KDD: 23
 * LOG: 22-23
