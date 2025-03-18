@@ -9,6 +9,7 @@ redirect_from:
 
 This is Hanzhi You.
 
+<!--
 Publications
 ======
 
@@ -19,10 +20,10 @@ Activities
 CV
 ------
 
-
+-->
 Contact
 ------
-Email:yhz2243920916@gmail.com
+yhz2243920916@gmail.com
 
 
 
