@@ -1,3 +1,6 @@
 # Ignore the contents of the _site directory and other cache directories
 _site/
 *.ignore
+vendor/
+.vscode/
+.*
