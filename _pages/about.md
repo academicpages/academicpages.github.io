@@ -16,9 +16,8 @@ Publications
 Activities
 ======
 
-
 CV
-------
+======
 -->
 
 Contact
