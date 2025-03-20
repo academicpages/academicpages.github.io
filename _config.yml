@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rajas Chitale / MS Student"
-title_separator          : "-"
+title                    : "Rajas Chitale"
+title_separator          : ":"
 name                     : &name "Rajas Chitale"
 description              : &description "personal description"
 url                      : https://rajas1310.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "rajas_profile_pic.JPG"
   name             : "Rajas Chitale"
   pronouns         : # example: "she/her"  
-  bio              : "MS Student in Computer Science"
+  bio              : "MS in Computer Science"
   location         : "Los Angeles, CA"
   employer         : "University of Southern California"
   uri              : # URL
