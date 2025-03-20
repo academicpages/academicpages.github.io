@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <br/>
-I am a Peruvian economist with an MA in Latino and Latin American Studies from [UConn](https://uconn.edu/){:target="_blank"}-[El Instituto](https://elin.uconn.edu/){:target="_blank"}. My research interests include Regional Development, Regional Economics, Economic Geography, Urban Economics, Economic History, and Human Capital.
+Hi! I am Luis Palomino. I am a Peruvian economist with an MA in Latino and Latin American Studies from [UConn](https://uconn.edu/){:target="_blank"}-[El Instituto](https://elin.uconn.edu/){:target="_blank"}. My research interests include Regional Development, Regional Economics, Economic Geography, Urban Economics, Economic History, and Human Capital.
 
 I am a Research Specialist/Economic Analyst at UConn and an Economic Consultant for the Inter-American Development Bank (IADB). My work combines quantitative analysis, econometric modeling, and machine learning algorithms to generate insights for policy and research. I specialize in data innovation, leveraging satellite imagery, mobile phone data, news, and other unstructured data to create socioeconomic indicators with high spatial and temporal resolution.
 
