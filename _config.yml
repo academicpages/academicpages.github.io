@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 
-site_theme               : "default"
+site_theme               : "dark"
 title                    : "Paul Prevel"
 title_separator          : "-"
 name                     : ""
@@ -86,7 +86,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  profile.png
+teaser                   :  profile-2.png
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true

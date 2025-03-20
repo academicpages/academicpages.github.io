@@ -1,7 +1,9 @@
 ---
+layout: single
 title: "Human robot interaction for human aware navigation and multi-robot task allocation"
 excerpt: "Implentation and testing of human robot interactions (HRI) to improve the realisation of navigation tasks in a social environment <br/><img src='/images/hri_monarch.jpg'>"
 collection: portfolio
+category: student-project
 ---
 
 The integration of mobile robotic agents in a

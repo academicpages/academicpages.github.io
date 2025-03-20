@@ -1,9 +1,10 @@
 ---
+layout: single
 title: "Sensitivity analysis on reﬂex parameters
 of a bio-inspired locomotion controller
 and mimetism based optimisation"
 excerpt: "Study of the stability of a bio-inspired human locomotion model and development of an optimisation framework to reproduce pathological gaits<br/><img src='/images/biorob_cover.jpg'>"
-collection: portfolio
+category: student-project
 ---
 
 
