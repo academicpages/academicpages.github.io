@@ -1,0 +1,90 @@
+/* Research Section */
+.research-item {
+    position: relative;
+    margin-bottom: var(--spacing-lg);
+    padding: var(--spacing-lg);
+    border-radius: var(--radius-md);
+    background-color: var(--white);
+    box-shadow: var(--card-shadow);
+    transition: all var(--transition-normal);
+    border: 1px solid var(--border-color);
+    overflow: hidden;
+}
+
+.research-item:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--hover-shadow);
+    border-color: transparent;
+}
+
+.research-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background: linear-gradient(to right, var(--accent-color), var(--primary-color));
+}
+
+.research-logo {
+    position: absolute;
+    top: var(--spacing-md);
+    right: var(--spacing-md);
+    width: 40px;
+    height: 40px;
+    background-color: var(--light-bg);
+    border-radius: var(--radius-sm);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+.research-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+    margin-bottom: var(--spacing-xs);
+    padding-right: 50px;
+}
+
+.research-period {
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    display: inline-block;
+    background-color: rgba(110, 7, 243, 0.1);
+    padding: 0.2rem 0.6rem;
+    border-radius: var(--radius-full);
+    margin-bottom: var(--spacing-sm);
+}
+
+.professor {
+    font-weight: 600;
+    margin-bottom: var(--spacing-sm);
+    color: var(--accent-color);
+    font-size: 1rem;
+}
+
+.research-item ul {
+    padding-left: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+}
+
+.research-item li {
+    margin-bottom: var(--spacing-sm);
+    position: relative;
+    padding-left: 1.5rem;
+    font-size: 0.95rem;
+    list-style: none;
+}
+
+.research-item li::before {
+    content: "•";
+    position: absolute;
+    left: 0.5rem;
+    color: var(--accent-color);
+    font-size: 1.1rem;
+}

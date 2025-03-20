@@ -1,0 +1,43 @@
+/* CSS Variables */
+:root {
+    /* Refined color palette */
+    --primary-color: #2d5bff;
+    --primary-light: #edf0ff;
+    --secondary-color: #1a1e2a;
+    --accent-color: #6e07f3;
+    --success-color: #0cce6b;
+    --text-primary: #2d3748;
+    --text-secondary: #718096;
+    --text-light: #a0aec0;
+    --white: #ffffff;
+    --light-bg: #f7fafc;
+    --border-color: #e2e8f0;
+    --card-shadow: 0 10px 30px -15px rgba(2, 12, 27, 0.1);
+    --hover-shadow: 0 20px 30px -15px rgba(2, 12, 27, 0.2);
+    
+    /* Typography */
+    --font-main: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --font-heading: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-mono: 'Fira Code', 'Roboto Mono', 'SF Mono', Consolas, Monaco, monospace;
+    
+    /* Spacing */
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;
+    --spacing-md: 1rem;
+    --spacing-lg: 2rem;
+    --spacing-xl: 4rem;
+    --spacing-xxl: 8rem;
+    
+    /* Sizes */
+    --header-height: 90px;
+    --container-width: 1200px;
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+    --radius-full: 9999px;
+    
+    /* Transitions */
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s cubic-bezier(0.65, 0, 0.35, 1);
+}

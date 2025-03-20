@@ -1,0 +1,16 @@
+/* About Section - Simplified */
+.about-content {
+    display: flex;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about-content p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}
+
+.section-title {
+    margin-top: 12px;
+}

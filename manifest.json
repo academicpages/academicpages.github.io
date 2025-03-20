@@ -1,0 +1,21 @@
+{
+    "name": "Sumanth Reddy Cherupally - Portfolio",
+    "short_name": "Sumanth Portfolio",
+    "description": "Software Developer & AI Researcher Portfolio",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2d5bff",
+    "icons": [
+      {
+        "src": "images/favicon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "images/favicon-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }

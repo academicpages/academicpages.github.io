@@ -1,0 +1,49 @@
+/* Education Section */
+.education-item {
+    margin-bottom: var(--spacing-lg);
+}
+
+.education-title {
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+}
+
+.education-subtitle {
+    color: var(--primary-color);
+    font-weight: 600;
+    margin-bottom: var(--spacing-xs);
+}
+
+.education-period {
+    color: var(--text-secondary);
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    margin-bottom: var(--spacing-sm);
+}
+
+.coursework-title {
+    font-weight: 600;
+    color: var(--text-primary);
+    margin-top: var(--spacing-sm);
+    margin-bottom: var(--spacing-xs);
+}
+
+.coursework-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+}
+
+.course-item {
+    background-color: var(--light-bg);
+    padding: 0.2rem 0.6rem;
+    border-radius: var(--radius-full);
+    font-size: 0.85rem;
+    transition: all var(--transition-normal);
+}
+
+.course-item:hover {
+    background-color: var(--primary-light);
+    transform: translateY(-2px);
+}

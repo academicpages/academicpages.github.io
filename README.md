@@ -1,31 +1,103 @@
-A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
+# Sumanth Reddy Cherupally - Portfolio Website
 
-I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
+A clean, modern, and responsive portfolio website for Sumanth Reddy Cherupally, showcasing his skills, work experience, research, education, projects, and publications.
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Project Structure
 
-# Instructions
+```
+.
+├── index.html              # Main HTML file
+├── css/
+│   ├── variables.css       # CSS variables for consistent styling
+│   ├── base.css            # Base styling elements
+│   ├── header.css          # Header and navigation styling
+│   ├── hero.css            # Hero section styling
+│   ├── about.css           # About section styling
+│   ├── experience.css      # Work experience section styling
+│   ├── research.css        # Research experience section styling
+│   ├── education.css       # Education section styling
+│   ├── projects.css        # Projects section styling
+│   ├── publications.css    # Publications section styling
+│   ├── footer.css          # Footer styling
+│   ├── animations.css      # Animation keyframes and effects
+│   └── media-queries.css   # Responsive design breakpoints
+├── js/
+│   └── main.js             # Main JavaScript file for interactive elements
+└── images/                 # Directory for all images
+    ├── profile.jpg         # Profile picture
+    ├── barclays-logo.png   # Barclays company logo
+    ├── tusimple-logo.png   # TuSimple company logo
+    └── ...                 # Other image assets
+```
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Features
 
-See more info at https://academicpages.github.io/
+- Modern and clean design with smooth animations
+- Fully responsive layout that works on all devices
+- Modular CSS structure for better organization and maintainability
+- Intersection Observer API for scroll-based animations
+- Smooth scrolling navigation
+- Accessible and semantic HTML structure
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
+## Technologies Used
 
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Font Awesome for icons
+- Google Fonts for typography
 
-# Changelog -- bugfixes and enhancements
+## Getting Started
 
-There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
+1. Clone the repository or download the ZIP file
+2. Extract the files to your desired location
+3. Open `index.html` in your browser to view the website
 
-To support this, all changes to the underlying code appear as a closed issue with the tag 'code change' -- get the list [here](https://github.com/academicpages/academicpages.github.io/issues?q=is%3Aclosed%20is%3Aissue%20label%3A%22code%20change%22%20). Each issue thread includes a comment linking to the single commit or a diff across multiple commits, so those with forked repositories can easily identify what they need to patch.
+## Customization
+
+### Adding New Sections
+
+1. Create a new section in `index.html` following the existing pattern
+2. Create a new CSS file in the `css` directory for the section styling
+3. Import the new CSS file in the `<head>` section of `index.html`
+
+### Changing Colors
+
+1. Edit the color variables in `css/variables.css` to update the color scheme across the entire site
+2. Main colors to consider changing:
+   - `--primary-color`: Main brand color
+   - `--accent-color`: Secondary brand color
+   - `--secondary-color`: Dark background color
+
+### Adding New Projects
+
+1. In the projects section of `index.html`, copy an existing project card
+2. Update the content with your new project information
+3. Add any new tech stack items as needed
+
+## Browser Support
+
+The website is compatible with:
+- Chrome (latest)
+- Firefox (latest)
+- Safari (latest)
+- Edge (latest)
+- Opera (latest)
+
+## Deployment
+
+The website can be deployed to any web hosting service. Recommended options:
+- GitHub Pages
+- Netlify
+- Vercel
+- Any standard web hosting
+
+## License
+
+MIT License - Feel free to use this template for your own portfolio
+
+## Credits
+
+- Fonts: Google Fonts (Inter, Poppins, Fira Code)
+- Icons: Font Awesome
+- Inspiration: Various modern portfolio websites

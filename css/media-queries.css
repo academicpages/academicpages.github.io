@@ -1,0 +1,56 @@
+/* Media Queries */
+@media (max-width: 992px) {
+    .nav-links {
+        position: relative;
+        left: auto;
+        top: auto;
+        transform: none;
+        margin-left: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 14px;
+    }
+    
+    .hero {
+        padding-top: calc(var(--header-height) + var(--spacing-md));
+        min-height: 60vh;
+    }
+    
+    .hero h1 {
+        font-size: 2.2rem;
+    }
+    
+    .hero h2 {
+        font-size: 1.1rem;
+    }
+    
+    .hero-buttons {
+        flex-direction: column;
+    }
+    
+    .skills-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .experience-header {
+        flex-direction: column;
+    }
+    
+    .company-logo {
+        position: relative;
+        top: 0;
+        right: 0;
+        margin-bottom: var(--spacing-sm);
+    }
+    
+    .experience-item {
+        padding: var(--spacing-md);
+    }
+    
+    .projects-grid {
+        grid-template-columns: 1fr;
+    }
+}
