@@ -24,4 +24,4 @@ Languages
 ======
 - English
 - Hindi
-- Manrathi
+- Marathi
