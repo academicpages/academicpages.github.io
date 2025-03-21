@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Ebuka"
+  pronouns         : "He/Him"  
+  bio              : "Ebuka holds a Master of Engineering from KIT, South Korea. His research Interest surounds Cybersecurity of Cyberphysical Systems"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Kumoh National Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ebukankoro@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
