@@ -10,7 +10,9 @@ author_profile: true
 
 Feel free to send me a message, and I'll get back to you as soon as possible.
 
-<p>DEBUG: {{ site.forms_api }}</p>
+<!-- Debugging -->
+
+<p>DEBUG: {{ site.forms_api }}</p> 
 
 <p>DEBUG: {{ site.locale }}</p>
 
