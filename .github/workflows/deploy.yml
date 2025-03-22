@@ -26,6 +26,7 @@ jobs:
         FORMSPREE_API_URL: ${{ secrets.FORMSPREE_API_URL }}
       run: |
         echo "forms_api: $FORMSPREE_API_URL" >> _config.yml
+        echo "SECRET VALUE: $FORMSPREE_API_URL"
         echo "Injected Formspree URL into _config.yml"
 
     - name: Build Site with Jekyll
