@@ -12,6 +12,8 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 
 <p>DEBUG: {{ site.forms_api }}</p>
 
+<p>DEBUG: {{ site.locale }}</p>
+
 <style>
     .contact-container {
         display: flex;
