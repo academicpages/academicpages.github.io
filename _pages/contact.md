@@ -10,11 +10,6 @@ author_profile: true
 
 Feel free to send me a message, and I'll get back to you as soon as possible.
 
-<!-- Test -->
-
-<p>DEBUG: {{ site.forms_api }}</p> 
-
-<p>DEBUG: {{ site.locale }}</p>
 
 <style>
     .contact-container {
@@ -76,7 +71,7 @@ Feel free to send me a message, and I'll get back to you as soon as possible.
 </style>
 
 <div class="contact-container">
-    <form class="contact-form" action="{{ site.forms_api }}" method="POST">
+    <form class="contact-form" action="https://formspree.io/f/xeoebqlb" method="POST">
         <input type="text" id="name" name="name" placeholder="First Name & Last" required>
         <input type="email" id="email" name="email" placeholder="Email" required>
         <textarea id="message" name="message" placeholder="Write your message here..." required></textarea>
