@@ -5,27 +5,31 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout Repository
+      uses: actions/checkout@v3
 
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: 3.1
 
-    - name: Install Dependencies
+    - name: Install Bundler & Dependencies
       run: |
         gem install bundler
-        bundle install
+        bundle install || true
 
-    - name: Build Site
+    - name: Inject Secret into _config.yml
       env:
         FORMSPREE_API_URL: ${{ secrets.FORMSPREE_API_URL }}
       run: |
-        bundle exec jekyll build --trace
         echo "forms_api: $FORMSPREE_API_URL" >> _config.yml
+        echo "Injected Formspree URL into _config.yml"
+
+    - name: Build Site with Jekyll
+      run: bundle exec jekyll build --trace
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
