@@ -11,3 +11,6 @@ citation: 'Rajas Chitale, Ankit Vaidya, Aditya Kane, and Archana Ghotkar. "Task 
 ---
 
 We propose a computationally efficient approach for continual learning in vision-based transformers. Our method constructs a task-agnostic representation by performing task arithmetic on the weight-space vectors of disjoint tasks, continually trained on a LoRA-augmented Vision Transformer (ViT). To enforce alignment between task-specific and generalized representations, we optimize a weighted combination of cross-entropy loss and KL-divergence loss. Empirical analysis demonstrates that our approach significantly improves performance after few-shot fine-tuning, achieving near-perfect accuracy compared to offline training baselines. Moreover, it outperforms state-of-the-art continual learning methods (A-GEM and Experience Replay) while using 5× less computation.
+
+[Poster](https://drive.google.com/file/d/1OQjDbCpsHc3LW1OgPqk0KVLH7xmJsEi9/view)
+[Code](https://github.com/ankit-vaidya19/TA_for_CL)

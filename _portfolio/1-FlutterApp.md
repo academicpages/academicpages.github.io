@@ -1,6 +1,6 @@
 ---
 title: "Flutter App for Medical Clinics"
-excerpt: "Helps doctors manage appointments and patient records digitally.<br/><img src='/images/Doctor_journal_image.png'>"
+excerpt: "Helps doctors manage appointments and patient records digitally.<br/><img src='/images/portfolio_images/Doctor_journal_image.png'>"
 collection: portfolio
 ---
 
