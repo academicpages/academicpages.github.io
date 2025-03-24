@@ -12,6 +12,14 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* 19th March 2025: Lamb et al. 2025 - _Prompt Periodicity in the GRB 211211A Precursor: Black-hole or magnetar engine?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2503.15613).
+* 18th March 2025: Miller et al. 2025 - _The La Silla Schmidt Southern Survey_ submitted to PASP. Check it out on [arXiv](https://arxiv.org/abs/2503.14579).
+* 13th March 2025: Cooper et al. 2025 - _Joint Radiative and Kinematic Modelling of X-ray Binary Ejecta: Energy Estimate and Reverse Shock Detection_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2503.10804).
+* 11th March 2025: Brennan et al. 2025 - _Precursor Activity Preceding Interacting Supernovae I: Bridging the Gap with SN 2022mop_ submitted to A&A. Check it out on [arXiv](https://arxiv.org/abs/2503.08768).
+* 6th March 2025: Jiang et al. 2025 - _EP240801a/XRF 240801B: An X-ray Flash Detected by the Einstein Probe and Implications of its Multiband Afterglow_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2503.04306).
+* 2st March 2025: Srinivasaragavan et al. 2025 - _Multiwavelength analysis of AT 2023sva: a luminous orphan afterglow with evidence for a structured jet_ published in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2501.03337).
+* 1st March 2025: Rosswog, Sarin et al. 2025 - _Fast dynamic ejecta in neutron star mergers_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2411.18813).
+* 28th Feb 2025: Back to Stockholm from Australia. Time for some science.
 * December 16th: Omand, Sarin, and Lamb 2024 - _Multi-Peaked Non-Thermal Light Curves from Magnetar-Powered Gamma-Ray Bursts_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2412.12272).
 * November 27th: Rosswog, Sarin et al. 2024 - _Fast dynamic ejecta in neutron star mergers_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2411.18813).
 * November 12th: Li et al. 2024 - _The Nature of Optical Afterglows Without Gamma-ray Bursts: Identification of AT2023lcr and Multiwavelength Modeling_ submitted to ApJ. Check it out on [arXiv](https://arxiv.org/abs/2411.07973).
