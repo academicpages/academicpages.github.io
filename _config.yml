@@ -222,9 +222,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+ # talks:
+ #   output: true
+  #  permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -275,13 +275,13 @@ defaults:
       share: true
       comment: true
   # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+  #- scope:
+  #    path: ""
+   #   type: talks
+  #  values:
+   #   layout: talk
+   #   author_profile: true
+   #   share: true
 
 
 # Sass/SCSS
