@@ -5,8 +5,7 @@
 .masthead {
   position: fixed;
   background: var(--global-bg-color);
-  border-bottom: 1px solid var(--global-border-color);
-  height: $masthead-height;
+  height: fit-content;
   top: 0;
   width: 100%;
 
@@ -16,10 +15,19 @@
           animation-delay: 0.15s;
   z-index: 20;
 
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    height: 1px;
+    background: var(--global-border-color);
+    width: 100%;
+  }
+
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
 
     @include breakpoint($x-large) {

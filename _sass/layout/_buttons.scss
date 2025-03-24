@@ -50,7 +50,7 @@
   &--inverse {
     color: var(--global-text-color-light) !important;
     border: 1px solid var(--global-border-color) !important; /* override*/
-    background-color: #fff;
+    background-color: var(--global-bg-color);
 
     &:hover {
       color: #fff !important;
@@ -118,6 +118,7 @@
   /* social buttons */
 
   $social:
+  (bluesky, $bluesky-color),
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (google-plus, $google-plus-color),
