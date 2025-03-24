@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "个人简介"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,12 +14,12 @@ redirect_from:
   带领团队完成智慧校园，详情请看链接()
 
 - ​**四川省大学生工程实践与创新能力大赛 智能+赛道一等奖**​（2024年）  
-  *主办单位：四川省教育厅* | *角色：队长*  
+  *角色：队长*  
   主导开发智能物流搬运小车，详情请看链接()
 
 - ​**省级SRTP项目**​（2024年）  
-   *角色：队长*  
-  研究课题：[基于生成式AI的车联网通信系统设计与实现]，产出[论文/专利/原型]，详情请看链接()
+  *角色：队长*  
+  研究课题：基于生成式AI的车联网通信系统设计与实现，详情请看链接()
 
 ### 奖励与荣誉
 - ​**西南交通大学三好学生**​（2023-2024学年）  
