@@ -6,11 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## 荣誉与表彰
 
-I'm a third year undergraduate student from [School of EECS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+### 竞赛类荣誉
+- ​**第十三届中国软件杯大学生软件设计大赛 全国总决赛三等奖**​（2024年）  
+  *角色：队长*  
+  带领团队完成智慧校园，详情请看链接()
 
-I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
+- ​**四川省大学生工程实践与创新能力大赛 智能+赛道一等奖**​（2024年）  
+  *主办单位：四川省教育厅* | *角色：队长*  
+  主导开发智能物流搬运小车，详情请看链接()
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+- ​**省级SRTP项目**​（2024年）  
+   *角色：队长*  
+  研究课题：[基于生成式AI的车联网通信系统设计与实现]，产出[论文/专利/原型]，详情请看链接()
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233)  / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+### 奖励与荣誉
+- ​**西南交通大学三好学生**​（2023-2024学年）  
+  *颁发单位：西南交通大学学生处* | *获奖比例：约前5%*
+
+- ​**"拓及"专项奖学金**​（2023-2024学年）  
+  *颁发单位：西南交通大学教育基金会* | *获奖人数：全校4人*  
+ 
+
+## 学生工作经历
+
+### 西南交通大学创新创业中心 干事（2022-2023）
+- ​**活动组织**：牵头筹办三创赛，[三创赛](https://glxy.swjtu.edu.cn/info/1338/33144.htm),参与筹办创业设计大赛、互联网+和挑战杯等一系列校级双创比赛，累计参与1000+人次
