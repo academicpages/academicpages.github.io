@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 This is Hanzhi You.
+CSE MPhil student | Co-Founder of @YQuotient | Large Language Model, Optimization Algorithms and Robotic
+currently learning Recommendation Algorithms
 
 <!--
 Publications
