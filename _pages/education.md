@@ -10,15 +10,18 @@ author_profile: true
 **Amirkabir University of Technology (Tehran Polytechnic), Tehran, Iran** <br>
 Thesis: _FPGA-Based Hardware Acceleration of Remaining Useful Life Prediction of Rotating Machinery Using Transformer Neural Network_ <br>
 Advisor: <a href="https://scholar.google.com/citations?user=qMmvqUwAAAAJ&hl=en" style="color: #0011DB;"> Prof. Morteza Saheb Zamani</a> <br>
+GPA: 3.4/4
 
 ## Graduation
 * **B.Sc. in Electrical Engineering** <br>
 **Shahrood University of Technology, Shahrood, Iran** <br>
 Thesis: _Design Real Time Face Recognition Systems Based on LBP Features on Odroid-XU4 Embedded Computer Board_ <br>
 Advisor: <a href="https://scholar.google.com/citations?user=o7-0hSEAAAAJ&hl=en" style="color: #0011DB;">Prof. Alireza Ahmadyfard</a><br>
+GPA: 3.4/4
 
 * **Diploma in Mathematics and Physics Discipline** <br>
-Seyyed Ahmad Khomeini High School, Mashhad, Iran
+S.A. Khomeini High School, Mashhad, Iran
+GPA: 3.9/4
 
 
 
