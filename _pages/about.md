@@ -8,14 +8,20 @@ redirect_from:
 ---
 
 
-### **Biography**
-Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, a pioneer in spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology, from October 2021 to January 2024. During this period, he focused on brain-like computation and computational neuroscience. His doctoral research, conducted at Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu, centered on brain-inspired computing (2016-2021).
+### **Short Bio**
+Dr. Yujie Wu is currently a Research Assistant Professor at The Hong Kong Polytechnic University (PolyU). Prior to joining PolyU, he was a postdoctoral researcher collaborating with Prof. Wolfgang Maass, the father of spiking neural networks, at the Institute of Theoretical Computer Science, Graz University of Technology (October 2021 to January 2024). He received his Ph.D. from Tsinghua University under the supervision of Prof. Luping Shi and Prof. Jun Zhu (2016-2021).
 
-### **Featured research**
-He is dedicated to (1) Exploring the computational principles of the brain, with a specific emphasis on underlying learning mechanisms such as STDP and BTSP; (2) Leveraging these insights to develop brain-inspired general intelligence with exceptional computational and learning efficiency (such as robustness, adaptability, and few-shot learning capabilities)
+His previous works have been published in prestigious journals and top AI conferences, including **Nature** (Cover paper), **Science Robotics** (Cover paper), **Nature Computational Science** (Cover runner-up), **Nature Communications** (Featured articles), and **AAAI** (Spotlight), with more than 5,500 Google Scholar citations. Three of his publications have been selected as ESI Top 1% Highly Cited Papers. Four of his works have successfully been converted into patents. The Tianjic chip project in which he participated was recognized as one of the Top 10 Sci-tech Achievements in China in 2019.
 
-In the past five years, his work have been recognized in prestigious journals and top AI conferences, including ***Nature*** (Cover paper), ***Science Robotics*** (Cover paper), ***Nature Computational Science***(Cover runner-up), ***Nature Communications*** (Featured articles) and AAAI (Spotlight), with more than 5k google scholar citations. Two of his works have been selected as ESI Top 1% Highly Cited Papers. One of his papers was awarded Best Paper of the Year by the Journal of Control and Decision, and Four of his related works have been successfully converted into patents. His participated Tianjic chip project was recognized as one of the top 10 Sci-tech achievements in China in 2019.
 
+**Opening** 
+I am looking for highly self-motivated PhD students, PostDocs, and research assistants. If you are interested, please send me your CV. Thanks! (All CVs are carefully evaluated. Only matched candidates will be responded.)
+
+ **Research interests** 
+ * Brain-inspired AI algorithms 
+ * Neuromorphic computing and spiking neural networks
+ * Computational models for memory and synaptic plasticity
+ * Bioinspired robots
 
 **Selected Ten Publications** <span style="font-size: small;">(updated as of December 2024)</span>
 
@@ -41,12 +47,13 @@ In the past five years, his work have been recognized in prestigious journals an
 
 
 ### **Service Activities**
-- Guest Editor for NCE
-- Associate Editor for CIS-RAM 2024   
-- Review Editor for *Frontiers in Neuroscience*  
-- Technical Chair for PRSC 2024  
-- Program Committee Member for AAAI 2025  
-- Technical Program Committee Member for the IEEE GlobCon series
+* Guest Editor for *Nature Computational Science*  
+* Guest Editor for *IEEE Transactions on Cognitive and Developmental Systems*  
+* Associate Editor for CIS-RAM 2024  
+* Technical Chair for PRSC 2024  
+* Program Committee Member for AAAI 2025  
+* Technical Program Committee Member for IEEE GlobCon series  
+
 
 ### **Selected Talks**
 - December 2024, Hangzhou, China. Plasticity Models for Hippocampal One-shot online learning, China Brain-Machine Intelligence Conference
@@ -57,8 +64,7 @@ In the past five years, his work have been recognized in prestigious journals an
 - May 2023, Beijing, China. Exploring brain-inspired local and local-global learning with neuromorphic computing, Institute of Automation, Chinese Academy of Sciences
  
 
-### **Hiring**
-I am seeking motivated Post-Doctoral Fellows, Research Assistants, and Ph.D. students with a strong interest and experience in brain-inspired computing and computational neuroscience. If you are interested in joining my research team at PolyU, please email your CV (including research interests, GPA, publications, etc.) and transcript (required for Research Assistant and Ph.D. applicants).
+ 
 
 
 
