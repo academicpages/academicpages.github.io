@@ -1,0 +1,7 @@
+
+inname=$1
+
+filename=${inname%.*}
+suffix=${inname##*.}
+
+ris2xml $filename.ris | xml2bib -b > "${filename}.bib"
