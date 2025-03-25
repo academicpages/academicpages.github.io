@@ -20,7 +20,7 @@ Advisor: <a href="https://scholar.google.com/citations?user=o7-0hSEAAAAJ&hl=en" 
 GPA: 3.4/4
 
 * **Diploma in Mathematics and Physics Discipline** <br>
-S.A. Khomeini High School, Mashhad, Iran
+S.A. Khomeini High School, Mashhad, Iran <br>
 GPA: 3.9/4
 
 
