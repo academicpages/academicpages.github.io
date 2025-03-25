@@ -7,14 +7,11 @@
 main:
   - title: "About me"
     url: /about/
-
-  - title: "Research interests"
-    url: /research/    
     
   - title: "Publication"
     url: /publications/
     
-  - title: "Hiring"
+  - title: "Opening"
     url: /hiring/
 
   
