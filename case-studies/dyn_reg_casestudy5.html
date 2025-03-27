@@ -1,0 +1,855 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.2.475">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Kohns et al.&nbsp;(2025)">
+
+<title>Dynamic Regression Case Study</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+    color: #aaaaaa;
+  }
+pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+code span.al { color: #ff0000; font-weight: bold; } /* Alert */
+code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
+code span.at { color: #7d9029; } /* Attribute */
+code span.bn { color: #40a070; } /* BaseN */
+code span.bu { color: #008000; } /* BuiltIn */
+code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
+code span.ch { color: #4070a0; } /* Char */
+code span.cn { color: #880000; } /* Constant */
+code span.co { color: #60a0b0; font-style: italic; } /* Comment */
+code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
+code span.do { color: #ba2121; font-style: italic; } /* Documentation */
+code span.dt { color: #902000; } /* DataType */
+code span.dv { color: #40a070; } /* DecVal */
+code span.er { color: #ff0000; font-weight: bold; } /* Error */
+code span.ex { } /* Extension */
+code span.fl { color: #40a070; } /* Float */
+code span.fu { color: #06287e; } /* Function */
+code span.im { color: #008000; font-weight: bold; } /* Import */
+code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
+code span.kw { color: #007020; font-weight: bold; } /* Keyword */
+code span.op { color: #666666; } /* Operator */
+code span.ot { color: #007020; } /* Other */
+code span.pp { color: #bc7a00; } /* Preprocessor */
+code span.sc { color: #4070a0; } /* SpecialChar */
+code span.ss { color: #bb6688; } /* SpecialString */
+code span.st { color: #4070a0; } /* String */
+code span.va { color: #19177c; } /* Variable */
+code span.vs { color: #4070a0; } /* VerbatimString */
+code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
+</style>
+
+
+<script src="dyn_reg_casestudy5_files/libs/clipboard/clipboard.min.js"></script>
+<script src="dyn_reg_casestudy5_files/libs/quarto-html/quarto.js"></script>
+<script src="dyn_reg_casestudy5_files/libs/quarto-html/popper.min.js"></script>
+<script src="dyn_reg_casestudy5_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="dyn_reg_casestudy5_files/libs/quarto-html/anchor.min.js"></script>
+<link href="dyn_reg_casestudy5_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="dyn_reg_casestudy5_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="dyn_reg_casestudy5_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="dyn_reg_casestudy5_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="dyn_reg_casestudy5_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article toc-left">
+<div id="quarto-sidebar-toc-left" class="sidebar toc-left">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#tvp-r2" id="toc-tvp-r2" class="nav-link active" data-scroll-target="#tvp-r2">TVP-R2</a>
+  <ul class="collapse">
+  <li><a href="#intro-dynamic-regression" id="toc-intro-dynamic-regression" class="nav-link" data-scroll-target="#intro-dynamic-regression">Intro: Dynamic Regression</a></li>
+  <li><a href="#problems-with-standard-state-space-model-priors" id="toc-problems-with-standard-state-space-model-priors" class="nav-link" data-scroll-target="#problems-with-standard-state-space-model-priors">Problems with standard state-space model priors</a></li>
+  <li><a href="#review-of-r2-framework-for-stationary-state-space-models" id="toc-review-of-r2-framework-for-stationary-state-space-models" class="nav-link" data-scroll-target="#review-of-r2-framework-for-stationary-state-space-models">Review of R2 framework for stationary state space models</a>
+  <ul class="collapse">
+  <li><a href="#minnesota-prior" id="toc-minnesota-prior" class="nav-link" data-scroll-target="#minnesota-prior">Minnesota Prior</a></li>
+  <li><a href="#regularised-horseshoe-prior-rhs" id="toc-regularised-horseshoe-prior-rhs" class="nav-link" data-scroll-target="#regularised-horseshoe-prior-rhs">Regularised Horseshoe Prior (RHS)</a></li>
+  </ul></li>
+  <li><a href="#application-inflation-forecasting" id="toc-application-inflation-forecasting" class="nav-link" data-scroll-target="#application-inflation-forecasting">Application: Inflation forecasting</a>
+  <ul class="collapse">
+  <li><a href="#stan-model" id="toc-stan-model" class="nav-link" data-scroll-target="#stan-model">Stan Model</a></li>
+  <li><a href="#prior-predictive-analysis" id="toc-prior-predictive-analysis" class="nav-link" data-scroll-target="#prior-predictive-analysis">Prior Predictive Analysis</a></li>
+  <li><a href="#posterior-analysis" id="toc-posterior-analysis" class="nav-link" data-scroll-target="#posterior-analysis">Posterior Analysis</a></li>
+  </ul></li>
+  <li><a href="#conclusion-and-discussion" id="toc-conclusion-and-discussion" class="nav-link" data-scroll-target="#conclusion-and-discussion">Conclusion and Discussion</a></li>
+  </ul></li>
+  </ul>
+</nav>
+</div>
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Dynamic Regression Case Study</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Kohns et al.&nbsp;(2025) </p>
+          </div>
+  </div>
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="tvp-r2" class="level1">
+<h1>TVP-R2</h1>
+<p>This case study showcases how to apply the ARR2 prior of <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> for dynamic regression.</p>
+<section id="intro-dynamic-regression" class="level2">
+<h2 class="anchored" data-anchor-id="intro-dynamic-regression">Intro: Dynamic Regression</h2>
+<p>Dynamic regression, or time-varying parameter regression, relaxes the assumption of static (w.r.t. time) regression coefficients. Considering the nature of most time-series applications in social science, such as the response of economic output to financial conditions, it seems reasonable that coefficients should change over time. Indeed, fixing the law of motion for the regression parameters to independent univariate auto-regressive models (AR) has a long tradition (see <span class="citation" data-cites="chan2023bayesian">(<a href="#ref-chan2023bayesian" role="doc-biblioref">J. C. Chan and Strachan 2023</a>)</span> for a brief history of such models in econ) and good empirical performance <span class="citation" data-cites="huber2021inducing">(<a href="#ref-huber2021inducing" role="doc-biblioref">Huber, Koop, and Onorante 2021</a>)</span>.</p>
+<p>Consider a univariate target <span class="math inline">\(y_t \in \mathbb{R}\)</span> which is modeled via observed K-dimensional covariates <span class="math inline">\(x_t\)</span> and unknown regression parameters <span class="math inline">\(\beta_t \in \mathbb{R}^{K \times 1}\)</span> for <span class="math inline">\(t = 1,\dotsc,M\)</span>:</p>
+<p><span id="eq-TVP"><span class="math display">\[
+\begin{aligned}
+y_t &amp;= x_t^{T}\beta_t + \epsilon_t^y \\
+\beta_t &amp;= \Phi\beta_{t-1} + \epsilon_t^{\beta},
+\end{aligned}
+\tag{1}\]</span></span></p>
+<p>where <span class="math inline">\(\Phi \in \mathbb{R}^{K \times K}\)</span> describes the transition of regression parameters over time. <span class="math inline">\(\epsilon^{y}_t\)</span> and <span class="math inline">\(\epsilon^{\beta}_t\)</span> are normal stochastic innovation terms of the target and the parameter process respectively. Equation <a href="#eq-TVP">Equation&nbsp;1</a> in fact belongs to the family of discrete state-space models, or more commonly referred to as hidden Markov models. In this literature, <span class="math inline">\(y_t\)</span> is referred to as the observation equation while the <span class="math inline">\(\beta_t\)</span> equation is referred to as the state equation.</p>
+<p>To keep things simple, assume normal distributions for the observations noise, <span class="math inline">\(\epsilon_t^{y} \sim N(0,\sigma^2)\)</span>, state innovations, <span class="math inline">\(\epsilon_t^{\beta} \sim N(0,\Sigma_{\beta})\)</span> and that the only unknowns in the covariance are the diagonals <span class="math inline">\(\Sigma_{\beta} = \mathrm{diag}~(\sigma^2_{\beta,1},\dotsc,\sigma^2_{\beta,K})\)</span>. Assume further that the state transition matrix <span class="math inline">\(\Phi\)</span> is diagonal, <span class="math inline">\(\Phi = \mathrm{diag}~(\phi_1,\dotsc,\phi_K)\)</span>.</p>
+</section>
+<section id="problems-with-standard-state-space-model-priors" class="level2">
+<h2 class="anchored" data-anchor-id="problems-with-standard-state-space-model-priors">Problems with standard state-space model priors</h2>
+<p>It is standard in the state space literature to assume some form of conditionally conjugate inverse-gamma priors for the state innovation variance <span class="math inline">\(\sigma^2_{\beta,\cdot} \sim \mathrm{IG}(a,b)\)</span>. 2 problems arise from this:</p>
+<ol type="1">
+<li><p>The <span class="math inline">\(\mathrm{IG}\)</span> bounds the state variance away from 0, leading to over-estimation of the state-variance <span class="citation" data-cites="fruhwirth2010stochastic">(<a href="#ref-fruhwirth2010stochastic" role="doc-biblioref">Frühwirth-Schnatter and Wagner 2010</a>)</span>.</p></li>
+<li><p>Inflated variance in predictions</p></li>
+</ol>
+<p>While the first problem often causes the second problem, it’s also makes it harder to judge which parameters are truly varying over time. Those problems are poised to be exacerbated in higher dimensions.</p>
+<p>A symptom of over-estimating state noise of the state-process is that the variance of the predictor term <span class="math inline">\(\mathrm{var}(x_t^{T}\beta_t)\)</span>, dwarfs the variance of the observations noise, <span class="math inline">\(\sigma^2\)</span>, leading to high variance explained, <span class="math inline">\(R^2\)</span> .</p>
+</section>
+<section id="review-of-r2-framework-for-stationary-state-space-models" class="level2">
+<h2 class="anchored" data-anchor-id="review-of-r2-framework-for-stationary-state-space-models">Review of R2 framework for stationary state space models</h2>
+<p><span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> have extended the R2D2 framework of <span class="citation" data-cites="zhang_bayesian_2022">Zhang et al. (<a href="#ref-zhang_bayesian_2022" role="doc-biblioref">2022</a>)</span> to a large class of discrete time-series models, including stationary state-space models.</p>
+<p>Denote the location of the normal model at time point t as <span class="math inline">\(\mu_t\)</span>. Then, following <span class="citation" data-cites="gelman_r-squared_2019">Gelman et al. (<a href="#ref-gelman_r-squared_2019" role="doc-biblioref">2019</a>)</span> , <span class="math inline">\(R^2\)</span> is defined as</p>
+<p><span class="math display">\[
+R^2 = \frac{\mathrm{var}(\mu_t)}{\mathrm{var}(\mu_t) + \sigma^2_{y}}.
+\]</span></p>
+<p>For the dynamic regression in <a href="#eq-TVP">Equation&nbsp;1</a>, <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> show that the <span class="math inline">\(R^2\)</span> boils down to</p>
+<p><span class="math display">\[
+R^2 = \frac{\sigma^2_y\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i}}{\sigma^2_y\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i} + \sigma^2_y} = \frac{\tau^2}{\tau^2 + 1},
+\]</span></p>
+<p>where <span class="math inline">\(\tau^2 =\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i}\)</span> are the scaled sum of marginal variances of the dynamic regression components. Assuming <span class="math inline">\(R^2 \sim \mathrm{beta}(\mu_{R^2},\varphi_{R^2}^2)\)</span>, the ARR2 prior for each state at time t, conditional on the states up until t-1 is thus</p>
+<p><span class="math display">\[
+\beta_{t,i} \sim N(\phi_{i}\beta_{t-1,i},\sigma^2(1-\phi^2_i)\psi_i\tau^2).
+\]</span></p>
+<p><span class="math inline">\(\psi \sim \mathrm{Dir}(\alpha)\)</span> decomposes the variance explained to each of the K state components of the dynamic regression. The hyper-parameters <span class="math inline">\(\alpha\)</span> determine the correlation structure and sparsity a-priori among the states (lower <span class="math inline">\(\alpha\)</span> means higher degree of sparsity). See <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> for recommendations on how to set <span class="math inline">\(\alpha\)</span>.</p>
+<p>In this case-study, we will consider the two competing models showcased in <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span>, the Minnesota and regularised horseshoe models.</p>
+<section id="minnesota-prior" class="level3">
+<h3 class="anchored" data-anchor-id="minnesota-prior">Minnesota Prior</h3>
+<p>The Minnesota prior assumes that the starting conditions, <span class="math inline">\(\beta_{0,j} \sim N(0,\frac{\hat{\sigma}_y^2}{\hat{\sigma}_{x,i}^2}\kappa_i^2)\)</span>, where <span class="math inline">\(\kappa_i^2 \sim G(1,1/(0.04^2))\)</span> for <span class="math inline">\(i=1,\dotsc, K\)</span> <span class="citation" data-cites="giannone_prior_2012">Giannone, Lenza, and Primiceri (<a href="#ref-giannone_prior_2012" role="doc-biblioref">2012</a>)</span>. The variance-terms in the fraction appearing in the prior are estimated as the residual variance of univariate AR(4) models following <span class="citation" data-cites="chan_minnesota-type_2021">J. C. C. Chan (<a href="#ref-chan_minnesota-type_2021" role="doc-biblioref">2021</a>)</span>. For the state-standard deviation, we allow for modelling with a fat-tailed distribution, <span class="math inline">\(\beta_{t,i} \sim N(\phi_{i}\beta_{t-1,i},\lambda^2_{i})\)</span>, <span class="math inline">\(\lambda_i \sim C_+(0,1)\)</span>.</p>
+</section>
+<section id="regularised-horseshoe-prior-rhs" class="level3">
+<h3 class="anchored" data-anchor-id="regularised-horseshoe-prior-rhs">Regularised Horseshoe Prior (RHS)</h3>
+<p>The RHS prior assumes that the starting conditions <span class="math inline">\(\beta_{0,j} \sim N(0,\lambda^2_i\tau^2_{RHS})\)</span>, where <span class="math inline">\(\lambda_{i}\)</span> and <span class="math inline">\(\tau_{RHS}\)</span> follow the modified Cauchy priors as in <span class="citation" data-cites="piironen_hyperprior_2017">Piironen and Vehtari (<a href="#ref-piironen_hyperprior_2017" role="doc-biblioref">2017</a>)</span>. For the state-standard deviation, we allow for modelling with a fat-tailed distribution, <span class="math inline">\(\beta_{t,i} \sim N(\phi_{i}\beta_{t-1,i},\lambda^2_{i})\)</span>, <span class="math inline">\(\lambda_i \sim C_+(0,1)\)</span>. The expected number of non-zero coefficients in the <span class="math inline">\(\beta_0\)</span> are set to K/2 as explained in <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span>.</p>
+</section>
+</section>
+<section id="application-inflation-forecasting" class="level2">
+<h2 class="anchored" data-anchor-id="application-inflation-forecasting">Application: Inflation forecasting</h2>
+<p>We take the US monthly inflation example from <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> to showcase the TVP regressions.</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/packaged-and-functions_1e71d49dea00a47733e0f4b2ee924b4b">
+
+</div>
+<p>Now, let’s download the latest vintages of the data from the FRED-MD data base:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/data-prep_32f6ff89be33053800546033635b891d">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>subset <span class="ot">&lt;-</span> <span class="st">"subset"</span> <span class="co"># Set to 0 for full FRED-MD data-set</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>outfile <span class="ot">&lt;-</span> <span class="st">"output_location"</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="do">####----- User Choices -----####</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Forecast horizon</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>h <span class="ot">&lt;-</span> <span class="dv">1</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Degree of differening (dif = 2 adheres to Hauzenber et al., 2023)</span></span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>dif <span class="ot">&lt;-</span> <span class="dv">2</span></span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Number of lags</span></span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a>lags <span class="ot">&lt;-</span> <span class="dv">0</span></span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="co"># Covariate choice</span></span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a>frednames <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"INDPRO"</span>,<span class="st">"IPMANSICS"</span>,<span class="st">"CUMFNS"</span>,<span class="st">"HOUST"</span>,<span class="st">"PERMIT"</span>,<span class="st">"USGOOD"</span>,<span class="st">"MANEMP"</span></span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a>               ,<span class="st">"CES0600000007"</span>,<span class="st">"AWHMAN"</span>,<span class="st">"CUSR0000SAC"</span>,<span class="st">"M1SL"</span>,<span class="st">"NONBORRES"</span>,<span class="st">"REALLN"</span>,</span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a>               <span class="st">"COMPAPFFx"</span>,<span class="st">"TB3SMFFM"</span>,<span class="st">"TB6SMFFM"</span>,<span class="st">"T1YFFM"</span>,<span class="st">"T10YFFM"</span>,<span class="st">"AAAFFM"</span>,<span class="st">"BAAFFM"</span>)</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a><span class="do">####----- Preparation Steps -----####</span></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-20"><a href="#cb1-20" aria-hidden="true" tabindex="-1"></a><span class="do">## 1: Supply FRED mnemonics for data download.  We follow Hauzenber et al. (2023)</span></span>
+<span id="cb1-21"><a href="#cb1-21" aria-hidden="true" tabindex="-1"></a>filepath <span class="ot">&lt;-</span> <span class="st">"https://files.stlouisfed.org/files/htdocs/fred-md/monthly/2024-06.csv"</span></span>
+<span id="cb1-22"><a href="#cb1-22" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-23"><a href="#cb1-23" aria-hidden="true" tabindex="-1"></a>startdate <span class="ot">&lt;-</span> <span class="fu">as.Date</span>(<span class="st">"01/01/1980"</span>,<span class="st">"%m/%d/%Y"</span>)</span>
+<span id="cb1-24"><a href="#cb1-24" aria-hidden="true" tabindex="-1"></a>enddate <span class="ot">&lt;-</span> <span class="fu">as.Date</span>(<span class="st">"01/01/2024"</span>,<span class="st">"%m/%d/%Y"</span>)</span>
+<span id="cb1-25"><a href="#cb1-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-26"><a href="#cb1-26" aria-hidden="true" tabindex="-1"></a>data <span class="ot">&lt;-</span> <span class="fu">fredmd</span>(filepath, <span class="at">date_start =</span> startdate, <span class="at">date_end =</span> enddate, <span class="at">transform =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb1-27"><a href="#cb1-27" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-28"><a href="#cb1-28" aria-hidden="true" tabindex="-1"></a><span class="do">## 2: Format data into a data frame</span></span>
+<span id="cb1-29"><a href="#cb1-29" aria-hidden="true" tabindex="-1"></a>datevec <span class="ot">&lt;-</span> data<span class="sc">$</span>date</span>
+<span id="cb1-30"><a href="#cb1-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-31"><a href="#cb1-31" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (subset <span class="sc">==</span> <span class="st">"subset"</span>) {</span>
+<span id="cb1-32"><a href="#cb1-32" aria-hidden="true" tabindex="-1"></a>  data <span class="ot">&lt;-</span> data[,frednames]</span>
+<span id="cb1-33"><a href="#cb1-33" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb1-34"><a href="#cb1-34" aria-hidden="true" tabindex="-1"></a>  data <span class="ot">&lt;-</span> data[,<span class="dv">2</span><span class="sc">:</span><span class="fu">ncol</span>(data)]</span>
+<span id="cb1-35"><a href="#cb1-35" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-36"><a href="#cb1-36" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-37"><a href="#cb1-37" aria-hidden="true" tabindex="-1"></a><span class="do">## 3: Impute any missing values following Ercument Cahan, Jushan Bai, and Serena Ng (2021)</span></span>
+<span id="cb1-38"><a href="#cb1-38" aria-hidden="true" tabindex="-1"></a>data_est <span class="ot">&lt;-</span>  <span class="fu">tp_apc</span>(data, <span class="dv">4</span>, <span class="at">center =</span> <span class="cn">FALSE</span>, <span class="at">standardize =</span> <span class="cn">FALSE</span>, <span class="at">re_estimate =</span> <span class="cn">TRUE</span>)</span>
+<span id="cb1-39"><a href="#cb1-39" aria-hidden="true" tabindex="-1"></a>data_imp <span class="ot">&lt;-</span> data_est<span class="sc">$</span>data</span>
+<span id="cb1-40"><a href="#cb1-40" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-41"><a href="#cb1-41" aria-hidden="true" tabindex="-1"></a><span class="do">## 3: Get inflation data</span></span>
+<span id="cb1-42"><a href="#cb1-42" aria-hidden="true" tabindex="-1"></a><span class="fu">fredr_set_key</span>(<span class="st">"315410e54f1b6f2552a99cefd47e2344"</span>) <span class="co">#API key</span></span>
+<span id="cb1-43"><a href="#cb1-43" aria-hidden="true" tabindex="-1"></a>inflation <span class="ot">&lt;-</span> <span class="fu">fredr</span>(  <span class="at">series_id =</span> <span class="st">"CPIAUCSL"</span>,</span>
+<span id="cb1-44"><a href="#cb1-44" aria-hidden="true" tabindex="-1"></a>                     <span class="at">observation_start =</span> startdate,</span>
+<span id="cb1-45"><a href="#cb1-45" aria-hidden="true" tabindex="-1"></a>                     <span class="at">observation_end =</span> enddate,</span>
+<span id="cb1-46"><a href="#cb1-46" aria-hidden="true" tabindex="-1"></a>                     <span class="at">frequency =</span> <span class="st">"m"</span>) <span class="co">#percent change transformation </span></span>
+<span id="cb1-47"><a href="#cb1-47" aria-hidden="true" tabindex="-1"></a>inflation <span class="ot">&lt;-</span> inflation<span class="sc">$</span>value</span>
+<span id="cb1-48"><a href="#cb1-48" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-49"><a href="#cb1-49" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (dif <span class="sc">==</span> <span class="dv">2</span>) {</span>
+<span id="cb1-50"><a href="#cb1-50" aria-hidden="true" tabindex="-1"></a>  inflation <span class="ot">&lt;-</span> <span class="fu">log</span>(inflation[(h<span class="sc">+</span><span class="dv">2</span>)<span class="sc">:</span><span class="fu">length</span>(inflation)]<span class="sc">/</span>inflation[<span class="dv">2</span><span class="sc">:</span>(<span class="fu">length</span>(inflation)<span class="sc">-</span>h)]) <span class="sc">-</span> <span class="fu">log</span>(inflation[(<span class="dv">2</span>)<span class="sc">:</span>(<span class="fu">length</span>(inflation)<span class="sc">-</span>h)]<span class="sc">/</span>inflation[<span class="dv">1</span><span class="sc">:</span>(<span class="fu">length</span>(inflation)<span class="sc">-</span>h<span class="dv">-1</span>)])</span>
+<span id="cb1-51"><a href="#cb1-51" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> <span class="cf">if</span> (dif <span class="sc">==</span><span class="dv">1</span>) {</span>
+<span id="cb1-52"><a href="#cb1-52" aria-hidden="true" tabindex="-1"></a>  inflation <span class="ot">&lt;-</span> <span class="fu">log</span>(inflation[(h<span class="sc">+</span><span class="dv">2</span>)<span class="sc">:</span><span class="fu">length</span>(inflation)]<span class="sc">/</span>inflation[<span class="dv">2</span><span class="sc">:</span>(<span class="fu">length</span>(inflation)<span class="sc">-</span>h)])<span class="sc">*</span><span class="dv">100</span> <span class="co"># following Chan (2017) The Stochastic Volatility in Mean Model With TimeVarying Parameters</span></span>
+<span id="cb1-53"><a href="#cb1-53" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-54"><a href="#cb1-54" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-55"><a href="#cb1-55" aria-hidden="true" tabindex="-1"></a>X <span class="ot">&lt;-</span> <span class="fu">as.matrix</span>(data_imp[<span class="dv">2</span><span class="sc">:</span>(<span class="fu">dim</span>(data_imp)[<span class="dv">1</span>]<span class="sc">-</span>h),])</span>
+<span id="cb1-56"><a href="#cb1-56" aria-hidden="true" tabindex="-1"></a>T <span class="ot">&lt;-</span> <span class="fu">length</span>(inflation)</span>
+<span id="cb1-57"><a href="#cb1-57" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (subset <span class="sc">==</span> <span class="st">"subset"</span>) {</span>
+<span id="cb1-58"><a href="#cb1-58" aria-hidden="true" tabindex="-1"></a>  K <span class="ot">&lt;-</span> <span class="fu">length</span>(frednames)</span>
+<span id="cb1-59"><a href="#cb1-59" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb1-60"><a href="#cb1-60" aria-hidden="true" tabindex="-1"></a>  K <span class="ot">&lt;-</span> <span class="fu">ncol</span>(X)</span>
+<span id="cb1-61"><a href="#cb1-61" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-62"><a href="#cb1-62" aria-hidden="true" tabindex="-1"></a><span class="co"># Create matrix of lags</span></span>
+<span id="cb1-63"><a href="#cb1-63" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (lags <span class="sc">==</span> <span class="dv">0</span>){</span>
+<span id="cb1-64"><a href="#cb1-64" aria-hidden="true" tabindex="-1"></a>  X_all <span class="ot">&lt;-</span> <span class="fu">array</span>(<span class="dv">0</span>,<span class="fu">c</span>(T,K))</span>
+<span id="cb1-65"><a href="#cb1-65" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb1-66"><a href="#cb1-66" aria-hidden="true" tabindex="-1"></a>X_all <span class="ot">&lt;-</span> <span class="fu">array</span>(<span class="dv">0</span>,<span class="fu">c</span>(T<span class="sc">-</span>lags,K<span class="sc">*</span>lags))</span>
+<span id="cb1-67"><a href="#cb1-67" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-68"><a href="#cb1-68" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-69"><a href="#cb1-69" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (lags <span class="sc">&gt;</span> <span class="dv">0</span>){</span>
+<span id="cb1-70"><a href="#cb1-70" aria-hidden="true" tabindex="-1"></a><span class="cf">for</span> (j <span class="cf">in</span> <span class="dv">1</span><span class="sc">:</span>K){</span>
+<span id="cb1-71"><a href="#cb1-71" aria-hidden="true" tabindex="-1"></a>  lagtemp <span class="ot">&lt;-</span> <span class="fu">lagmatrix</span>(X[,j],<span class="dv">1</span><span class="sc">:</span>lags)</span>
+<span id="cb1-72"><a href="#cb1-72" aria-hidden="true" tabindex="-1"></a>  X_all[,(lags<span class="sc">*</span>(j<span class="dv">-1</span>)<span class="sc">+</span><span class="dv">1</span>)<span class="sc">:</span>(lags<span class="sc">*</span>j)] <span class="ot">&lt;-</span> lagtemp[((lags<span class="sc">+</span><span class="dv">1</span>)<span class="sc">:</span><span class="fu">dim</span>(lagtemp)[<span class="dv">1</span>]),]</span>
+<span id="cb1-73"><a href="#cb1-73" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-74"><a href="#cb1-74" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-75"><a href="#cb1-75" aria-hidden="true" tabindex="-1"></a><span class="do">####----- Save Data -----####</span></span>
+<span id="cb1-76"><a href="#cb1-76" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-77"><a href="#cb1-77" aria-hidden="true" tabindex="-1"></a><span class="co"># placeholder for data matrix</span></span>
+<span id="cb1-78"><a href="#cb1-78" aria-hidden="true" tabindex="-1"></a>y <span class="ot">&lt;-</span> <span class="fu">as.vector</span>(inflation[(lags<span class="sc">+</span><span class="dv">1</span>)<span class="sc">:</span><span class="fu">length</span>(inflation)])</span>
+<span id="cb1-79"><a href="#cb1-79" aria-hidden="true" tabindex="-1"></a>datevec <span class="ot">&lt;-</span> datevec[(lags<span class="sc">+</span><span class="dv">1</span>)<span class="sc">:</span><span class="fu">length</span>(inflation)]</span>
+<span id="cb1-80"><a href="#cb1-80" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span> (subset <span class="sc">==</span> <span class="st">"subset"</span>) {</span>
+<span id="cb1-81"><a href="#cb1-81" aria-hidden="true" tabindex="-1"></a>  Xnames <span class="ot">&lt;-</span> frednames</span>
+<span id="cb1-82"><a href="#cb1-82" aria-hidden="true" tabindex="-1"></a>} <span class="cf">else</span> {</span>
+<span id="cb1-83"><a href="#cb1-83" aria-hidden="true" tabindex="-1"></a>  Xnames <span class="ot">&lt;-</span> <span class="fu">colnames</span>(data_imp[<span class="dv">2</span><span class="sc">:</span><span class="fu">ncol</span>(data_imp)])</span>
+<span id="cb1-84"><a href="#cb1-84" aria-hidden="true" tabindex="-1"></a>}</span>
+<span id="cb1-85"><a href="#cb1-85" aria-hidden="true" tabindex="-1"></a>yname <span class="ot">&lt;-</span> <span class="st">"CPIAUCSL"</span></span>
+<span id="cb1-86"><a href="#cb1-86" aria-hidden="true" tabindex="-1"></a>lagstructure <span class="ot">&lt;-</span> <span class="fu">rep</span>(<span class="dv">1</span><span class="sc">:</span>lags,K)</span>
+<span id="cb1-87"><a href="#cb1-87" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-88"><a href="#cb1-88" aria-hidden="true" tabindex="-1"></a>emp_app <span class="ot">&lt;-</span> <span class="fu">list</span>(<span class="at">X =</span> X,</span>
+<span id="cb1-89"><a href="#cb1-89" aria-hidden="true" tabindex="-1"></a>                <span class="at">y =</span> y,</span>
+<span id="cb1-90"><a href="#cb1-90" aria-hidden="true" tabindex="-1"></a>                <span class="at">Xnames =</span> Xnames,</span>
+<span id="cb1-91"><a href="#cb1-91" aria-hidden="true" tabindex="-1"></a>                <span class="at">yname =</span> yname,</span>
+<span id="cb1-92"><a href="#cb1-92" aria-hidden="true" tabindex="-1"></a>                <span class="at">datevec =</span> datevec,</span>
+<span id="cb1-93"><a href="#cb1-93" aria-hidden="true" tabindex="-1"></a>                <span class="at">lagstructure =</span> lagstructure)</span>
+<span id="cb1-94"><a href="#cb1-94" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-95"><a href="#cb1-95" aria-hidden="true" tabindex="-1"></a><span class="co"># Get all objects in the environment</span></span>
+<span id="cb1-96"><a href="#cb1-96" aria-hidden="true" tabindex="-1"></a>all_objects <span class="ot">&lt;-</span> <span class="fu">ls</span>()</span>
+<span id="cb1-97"><a href="#cb1-97" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-98"><a href="#cb1-98" aria-hidden="true" tabindex="-1"></a><span class="co"># Identify functions</span></span>
+<span id="cb1-99"><a href="#cb1-99" aria-hidden="true" tabindex="-1"></a>function_objects <span class="ot">&lt;-</span> <span class="fu">sapply</span>(all_objects, <span class="cf">function</span>(x) <span class="fu">is.function</span>(<span class="fu">get</span>(x)))</span>
+<span id="cb1-100"><a href="#cb1-100" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-101"><a href="#cb1-101" aria-hidden="true" tabindex="-1"></a><span class="co"># Create a vector of objects to keep (emp_app and functions)</span></span>
+<span id="cb1-102"><a href="#cb1-102" aria-hidden="true" tabindex="-1"></a>objects_to_keep <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="st">"emp_app"</span>, <span class="fu">names</span>(function_objects)[function_objects])</span>
+<span id="cb1-103"><a href="#cb1-103" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-104"><a href="#cb1-104" aria-hidden="true" tabindex="-1"></a><span class="co"># Remove all objects except for those to keep</span></span>
+<span id="cb1-105"><a href="#cb1-105" aria-hidden="true" tabindex="-1"></a><span class="fu">rm</span>(<span class="at">list=</span><span class="fu">setdiff</span>(all_objects, objects_to_keep))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Let’s quickly plot the time-series.</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/quick-ts-plots_8aa176c49538782f8184f2cd65b89928">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert emp_app into a dataframe</span></span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>emp_app_df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">Time =</span> <span class="fu">as.Date</span>(emp_app<span class="sc">$</span>datevec),</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">Inflation =</span> <span class="fu">scale</span>(emp_app<span class="sc">$</span>y),</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="fu">scale</span>(emp_app<span class="sc">$</span>X)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a><span class="co"># Add appropriate column names</span></span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(emp_app_df)[<span class="dv">3</span><span class="sc">:</span><span class="fu">ncol</span>(emp_app_df)] <span class="ot">&lt;-</span> emp_app<span class="sc">$</span>Xnames</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a><span class="co"># Prep Data for plotting</span></span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a>dat <span class="ot">&lt;-</span> emp_app_df <span class="sc">%&gt;%</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(<span class="sc">-</span>Time, <span class="at">names_to =</span> <span class="st">"variable"</span>, <span class="at">values_to =</span> <span class="st">"value"</span>)</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the data</span></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>tsplot <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(dat, <span class="fu">aes</span>(Time, value)) <span class="sc">+</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(. <span class="sc">~</span> variable, <span class="at">scales =</span> <span class="st">"free_y"</span>, <span class="at">nrow =</span> <span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>  cowplot<span class="sc">::</span><span class="fu">theme_half_open</span>() <span class="sc">+</span></span>
+<span id="cb2-20"><a href="#cb2-20" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
+<span id="cb2-21"><a href="#cb2-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> <span class="fl">0.5</span>, <span class="at">size =</span> <span class="dv">12</span>),</span>
+<span id="cb2-22"><a href="#cb2-22" aria-hidden="true" tabindex="-1"></a>    <span class="at">legend.position =</span> <span class="st">"none"</span>,</span>
+<span id="cb2-23"><a href="#cb2-23" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.x =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb2-24"><a href="#cb2-24" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb2-25"><a href="#cb2-25" aria-hidden="true" tabindex="-1"></a>    <span class="at">strip.background =</span> <span class="fu">element_blank</span>(),  <span class="co"># Remove facet title box color</span></span>
+<span id="cb2-26"><a href="#cb2-26" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>),  <span class="co"># Decrease x-axis label font size</span></span>
+<span id="cb2-27"><a href="#cb2-27" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.y =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>)   <span class="co"># Decrease y-axis label font size</span></span>
+<span id="cb2-28"><a href="#cb2-28" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb2-29"><a href="#cb2-29" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggtitle</span>(<span class="st">"Simple time-series of all variables"</span>)</span>
+<span id="cb2-30"><a href="#cb2-30" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-31"><a href="#cb2-31" aria-hidden="true" tabindex="-1"></a><span class="co"># Print the plot</span></span>
+<span id="cb2-32"><a href="#cb2-32" aria-hidden="true" tabindex="-1"></a>tsplot</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/quick-ts-plots-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>A fairly quick check to investigate whether we should expect there to be variation in the coefficient process at all is to estimate a rolling window OLS regressions for each covariate separately. This won’t be a perfect indicator for joint variation, as correlation might cause many of the coefficient processes to be shrunk to zero. This will be expected given that macro data are typically highly correlated <span class="citation" data-cites="giannone2021economic">Giannone, Lenza, and Primiceri (<a href="#ref-giannone2021economic" role="doc-biblioref">2021</a>)</span>.</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/rolling-window-coefs_37c14aa50f58b13491fbfd4b0a2e63f4">
+<div class="sourceCode cell-code" id="cb3"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Calculate the rolling window coefficients</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>betas_df <span class="ot">&lt;-</span> <span class="fu">calculate_rolling_betas</span>(emp_app, <span class="dv">100</span>)</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="co"># Reshape the data for plotting</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a>betas_long <span class="ot">&lt;-</span> betas_df <span class="sc">%&gt;%</span></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>  <span class="fu">pivot_longer</span>(<span class="sc">-</span>Time, <span class="at">names_to =</span> <span class="st">"variable"</span>, <span class="at">values_to =</span> <span class="st">"value"</span>) <span class="sc">%&gt;%</span></span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>  <span class="fu">mutate</span>(<span class="at">Time =</span> <span class="fu">as.Date</span>(Time))</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the data</span></span>
+<span id="cb3-10"><a href="#cb3-10" aria-hidden="true" tabindex="-1"></a>tsplot <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(betas_long, <span class="fu">aes</span>(Time, value)) <span class="sc">+</span></span>
+<span id="cb3-11"><a href="#cb3-11" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span></span>
+<span id="cb3-12"><a href="#cb3-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span> variable, <span class="at">scales =</span> <span class="st">"free_y"</span>, <span class="at">nrow =</span> <span class="dv">6</span>) <span class="sc">+</span></span>
+<span id="cb3-13"><a href="#cb3-13" aria-hidden="true" tabindex="-1"></a>  cowplot<span class="sc">::</span><span class="fu">theme_half_open</span>() <span class="sc">+</span></span>
+<span id="cb3-14"><a href="#cb3-14" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
+<span id="cb3-15"><a href="#cb3-15" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> <span class="fl">0.5</span>, <span class="at">size =</span> <span class="dv">12</span>),</span>
+<span id="cb3-16"><a href="#cb3-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">legend.position =</span> <span class="st">"none"</span>,</span>
+<span id="cb3-17"><a href="#cb3-17" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.x =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb3-18"><a href="#cb3-18" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb3-19"><a href="#cb3-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">strip.background =</span> <span class="fu">element_blank</span>(),  <span class="co"># Remove facet title box color</span></span>
+<span id="cb3-20"><a href="#cb3-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>),  <span class="co"># Decrease x-axis label font size</span></span>
+<span id="cb3-21"><a href="#cb3-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.y =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>)   <span class="co"># Decrease y-axis label font size</span></span>
+<span id="cb3-22"><a href="#cb3-22" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb3-23"><a href="#cb3-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggtitle</span>(<span class="st">"Coefficients based on 100-month rolling window"</span>)</span>
+<span id="cb3-24"><a href="#cb3-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-25"><a href="#cb3-25" aria-hidden="true" tabindex="-1"></a><span class="co"># Print the plot</span></span>
+<span id="cb3-26"><a href="#cb3-26" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(tsplot)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/rolling-window-coefs-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>From simple OLS based on a 100-month window, it is apparent that there is some time-variation in the coefficients, hence, there is likely need for dynamic regression.</p>
+<p>For computational simplicity, we focus here on predicting only a single point out-of-sample, September-2005, at which point inflation took a nose-dive. This is observation 308 in the date-vector.</p>
+<section id="stan-model" class="level3">
+<h3 class="anchored" data-anchor-id="stan-model">Stan Model</h3>
+<p>Compile and estimate the following Stan models:</p>
+<ol type="1">
+<li>ARR2 prior</li>
+<li>Minnesota prior</li>
+<li>RHS prior</li>
+</ol>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/compile-models_842295b36f256432508d5b7fff64c0c0">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>arr2 <span class="ot">&lt;-</span> <span class="fu">cmdstan_model</span>(<span class="st">"stan/arr2_dynreg_v2.stan"</span>)</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a>minnesota <span class="ot">&lt;-</span> <span class="fu">cmdstan_model</span>(<span class="st">"stan/minnesota_dynreg.stan"</span>) </span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>rhs <span class="ot">&lt;-</span> <span class="fu">cmdstan_model</span>(<span class="st">"stan/rhs_dynreg.stan"</span>) </span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a><span class="co"># Helper function to create the minnesota model input</span></span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a>p <span class="ot">&lt;-</span> <span class="dv">4</span> <span class="co"># just needed in order to get the Minnesota estimates</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+</section>
+<section id="prior-predictive-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="prior-predictive-analysis">Prior Predictive Analysis</h3>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/gen-priors_9e5b329039ac31ef796a5aac7afca931">
+<div class="sourceCode cell-code" id="cb5"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="co"># data for stan models</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>dat <span class="ot">&lt;-</span> <span class="fu">list</span>(</span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">X =</span> <span class="fu">scale</span>(emp_app<span class="sc">$</span>X)[<span class="dv">1</span><span class="sc">:</span><span class="dv">307</span>,],</span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">Y =</span> <span class="fu">as.vector</span>(emp_app<span class="sc">$</span>y[<span class="dv">1</span><span class="sc">:</span><span class="dv">307</span>])<span class="sc">*</span><span class="dv">100</span>,</span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a>  <span class="at">Xf =</span> <span class="fu">as.vector</span>(<span class="fu">scale</span>(emp_app<span class="sc">$</span>X[<span class="dv">1</span><span class="sc">:</span><span class="dv">308</span>,])[<span class="dv">308</span>,]),</span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a>  <span class="at">yf =</span> (emp_app<span class="sc">$</span>y[<span class="dv">308</span>])<span class="sc">*</span><span class="dv">100</span>,</span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a>  <span class="at">K =</span> <span class="fu">dim</span>(emp_app<span class="sc">$</span>X)[<span class="dv">2</span>],</span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a>  <span class="at">T =</span> <span class="dv">307</span>,<span class="co">#dim(emp_app$X)[1],</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a>  <span class="at">mean_R2 =</span> <span class="dv">1</span><span class="sc">/</span><span class="dv">3</span>,</span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a>  <span class="at">prec_R2 =</span> <span class="dv">3</span>,</span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a>  <span class="at">alpha_sd =</span> <span class="dv">3</span>,</span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a>  <span class="at">var_x =</span> <span class="fu">rep</span>(<span class="dv">1</span>,<span class="fu">dim</span>(emp_app<span class="sc">$</span>X)[<span class="dv">2</span>]),</span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a>  <span class="at">cons =</span> <span class="fu">rep</span>(<span class="dv">1</span>,<span class="fu">dim</span>(emp_app<span class="sc">$</span>X)[<span class="dv">2</span>]),</span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a>  <span class="at">var_x_minn =</span> <span class="fu">as.numeric</span>(<span class="fu">minn_sig_create</span>(<span class="fu">scale</span>(emp_app<span class="sc">$</span>X),p)),</span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a>  <span class="at">var_y_minn =</span> <span class="fu">as.numeric</span>(<span class="fu">minn_sig_create</span>((emp_app<span class="sc">$</span>y<span class="sc">*</span><span class="dv">100</span>),p)),</span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a>  <span class="at">hs_df =</span> <span class="dv">3</span>,</span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a>  <span class="at">hs_df_global =</span> <span class="dv">1</span>,</span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a>  <span class="at">hs_df_slab =</span> <span class="dv">4</span>,</span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a>  <span class="at">hs_scale_global =</span> <span class="dv">1</span>,</span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a>  <span class="at">hs_scale_slab =</span> <span class="dv">2</span>,</span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a>  <span class="at">p0 =</span> <span class="fu">round</span>(<span class="fu">dim</span>(emp_app<span class="sc">$</span>X)[<span class="dv">2</span>]<span class="sc">/</span><span class="dv">2</span>),</span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a>  <span class="at">pp =</span> <span class="dv">1</span> <span class="co"># if 1, then the likelihood contribution is left out of the model block creating prior predictives</span></span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a>fit_arr2 <span class="ot">&lt;-</span> arr2<span class="sc">$</span><span class="fu">sample</span>(</span>
+<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a>  <span class="at">data =</span> dat,</span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a>  <span class="at">seed =</span> <span class="dv">123</span>,</span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a>  <span class="at">chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-29"><a href="#cb5-29" aria-hidden="true" tabindex="-1"></a>  <span class="at">adapt_delta =</span> <span class="fl">0.99</span>,</span>
+<span id="cb5-30"><a href="#cb5-30" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_treedepth =</span> <span class="dv">15</span>,</span>
+<span id="cb5-31"><a href="#cb5-31" aria-hidden="true" tabindex="-1"></a>  <span class="at">parallel_chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-32"><a href="#cb5-32" aria-hidden="true" tabindex="-1"></a>  <span class="at">refresh =</span> <span class="dv">0</span>,</span>
+<span id="cb5-33"><a href="#cb5-33" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_warmup =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-34"><a href="#cb5-34" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_sampling =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-35"><a href="#cb5-35" aria-hidden="true" tabindex="-1"></a>  <span class="at">show_messages =</span> <span class="cn">FALSE</span></span>
+<span id="cb5-36"><a href="#cb5-36" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb5-37"><a href="#cb5-37" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-38"><a href="#cb5-38" aria-hidden="true" tabindex="-1"></a>fit_minn <span class="ot">&lt;-</span> minnesota<span class="sc">$</span><span class="fu">sample</span>(</span>
+<span id="cb5-39"><a href="#cb5-39" aria-hidden="true" tabindex="-1"></a>  <span class="at">data =</span> dat,</span>
+<span id="cb5-40"><a href="#cb5-40" aria-hidden="true" tabindex="-1"></a>  <span class="at">seed =</span> <span class="dv">123</span>,</span>
+<span id="cb5-41"><a href="#cb5-41" aria-hidden="true" tabindex="-1"></a>  <span class="at">chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-42"><a href="#cb5-42" aria-hidden="true" tabindex="-1"></a>  <span class="at">adapt_delta =</span> <span class="fl">0.99</span>,</span>
+<span id="cb5-43"><a href="#cb5-43" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_treedepth =</span> <span class="dv">15</span>,</span>
+<span id="cb5-44"><a href="#cb5-44" aria-hidden="true" tabindex="-1"></a>  <span class="at">parallel_chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-45"><a href="#cb5-45" aria-hidden="true" tabindex="-1"></a>  <span class="at">refresh =</span> <span class="dv">0</span>,</span>
+<span id="cb5-46"><a href="#cb5-46" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_warmup =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-47"><a href="#cb5-47" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_sampling =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-48"><a href="#cb5-48" aria-hidden="true" tabindex="-1"></a>  <span class="at">show_messages =</span> <span class="cn">FALSE</span></span>
+<span id="cb5-49"><a href="#cb5-49" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb5-50"><a href="#cb5-50" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb5-51"><a href="#cb5-51" aria-hidden="true" tabindex="-1"></a>fit_rhs <span class="ot">&lt;-</span> rhs<span class="sc">$</span><span class="fu">sample</span>(</span>
+<span id="cb5-52"><a href="#cb5-52" aria-hidden="true" tabindex="-1"></a>  <span class="at">data =</span> dat,</span>
+<span id="cb5-53"><a href="#cb5-53" aria-hidden="true" tabindex="-1"></a>  <span class="at">seed =</span> <span class="dv">123</span>,</span>
+<span id="cb5-54"><a href="#cb5-54" aria-hidden="true" tabindex="-1"></a>  <span class="at">chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-55"><a href="#cb5-55" aria-hidden="true" tabindex="-1"></a>  <span class="at">adapt_delta =</span> <span class="fl">0.99</span>,</span>
+<span id="cb5-56"><a href="#cb5-56" aria-hidden="true" tabindex="-1"></a>  <span class="at">max_treedepth =</span> <span class="dv">15</span>,</span>
+<span id="cb5-57"><a href="#cb5-57" aria-hidden="true" tabindex="-1"></a>  <span class="at">parallel_chains =</span> <span class="dv">4</span>,</span>
+<span id="cb5-58"><a href="#cb5-58" aria-hidden="true" tabindex="-1"></a>  <span class="at">refresh =</span> <span class="dv">0</span>,</span>
+<span id="cb5-59"><a href="#cb5-59" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_warmup =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-60"><a href="#cb5-60" aria-hidden="true" tabindex="-1"></a>  <span class="at">iter_sampling =</span> <span class="dv">1000</span>,</span>
+<span id="cb5-61"><a href="#cb5-61" aria-hidden="true" tabindex="-1"></a>  <span class="at">show_messages =</span> <span class="cn">FALSE</span></span>
+<span id="cb5-62"><a href="#cb5-62" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>Now, let’s plot the prior predictive R2 distributions. Remember that <span class="math inline">\(y_t = x_t^T \beta_t + \epsilon^y_t\)</span>. Define <span class="math inline">\(\mu_t = x_t^T\beta_t\)</span>, and stack across all obervations as <span class="math inline">\(\mu = (\mu_1,\dotsc,\mu_T)\)</span>, then we define the prior predictive R2 as for each draw <span class="math inline">\((s)\)</span> of the prior as <span class="math inline">\(\mathrm{var}(\mu^{(s)})/(\mathrm{var}(\mu^{(s)}) + \sigma^{2,(s)}_{y})\)</span>.</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/prior-r2_12325d67c52bc10548cf0847fc939a5a">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="do">## Prior  R2 Graphs</span></span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Extract Marg_r2 values</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>r2_arr2 <span class="ot">&lt;-</span> fit_arr2<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>r2_minnesota <span class="ot">&lt;-</span> fit_minn<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb6-5"><a href="#cb6-5" aria-hidden="true" tabindex="-1"></a>r2_rhs <span class="ot">&lt;-</span> fit_rhs<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb6-6"><a href="#cb6-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-7"><a href="#cb6-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert draws to data frames</span></span>
+<span id="cb6-8"><a href="#cb6-8" aria-hidden="true" tabindex="-1"></a>df_arr2 <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_arr2) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"ARR2"</span>)</span>
+<span id="cb6-9"><a href="#cb6-9" aria-hidden="true" tabindex="-1"></a>df_minnesota <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_minnesota) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"Minnesota"</span>)</span>
+<span id="cb6-10"><a href="#cb6-10" aria-hidden="true" tabindex="-1"></a>df_rhs <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_rhs) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"RHS"</span>)</span>
+<span id="cb6-11"><a href="#cb6-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-12"><a href="#cb6-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Rename the column for consistency</span></span>
+<span id="cb6-13"><a href="#cb6-13" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_arr2)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb6-14"><a href="#cb6-14" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_minnesota)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb6-15"><a href="#cb6-15" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_rhs)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb6-16"><a href="#cb6-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-17"><a href="#cb6-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Combine data frames</span></span>
+<span id="cb6-18"><a href="#cb6-18" aria-hidden="true" tabindex="-1"></a>combined_df <span class="ot">&lt;-</span> <span class="fu">bind_rows</span>(df_arr2, df_minnesota, df_rhs)</span>
+<span id="cb6-19"><a href="#cb6-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-20"><a href="#cb6-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Create the plot</span></span>
+<span id="cb6-21"><a href="#cb6-21" aria-hidden="true" tabindex="-1"></a>p <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(combined_df, <span class="fu">aes</span>(<span class="at">x =</span> marg_r2, <span class="at">color =</span> model)) <span class="sc">+</span></span>
+<span id="cb6-22"><a href="#cb6-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_density</span>() <span class="sc">+</span></span>
+<span id="cb6-23"><a href="#cb6-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Prior R2 Distributions"</span>, <span class="at">y =</span> <span class="st">"Density"</span>, <span class="at">x =</span> <span class="st">"Marginal R2"</span>) <span class="sc">+</span></span>
+<span id="cb6-24"><a href="#cb6-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">xlim</span>(<span class="dv">0</span>, <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb6-25"><a href="#cb6-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() <span class="sc">+</span></span>
+<span id="cb6-26"><a href="#cb6-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span> model, <span class="at">scales =</span> <span class="st">"free_y"</span>, <span class="at">ncol =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb6-27"><a href="#cb6-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
+<span id="cb6-28"><a href="#cb6-28" aria-hidden="true" tabindex="-1"></a>    <span class="at">legend.position =</span> <span class="st">"none"</span>,</span>
+<span id="cb6-29"><a href="#cb6-29" aria-hidden="true" tabindex="-1"></a>    <span class="at">panel.grid =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb6-30"><a href="#cb6-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb6-31"><a href="#cb6-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.ticks.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb6-32"><a href="#cb6-32" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.x =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb6-33"><a href="#cb6-33" aria-hidden="true" tabindex="-1"></a>    <span class="at">panel.border =</span> <span class="fu">element_blank</span>()</span>
+<span id="cb6-34"><a href="#cb6-34" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb6-35"><a href="#cb6-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb6-36"><a href="#cb6-36" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(p)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/prior-r2-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>The ARR2 prior clearly adheres to the logic imposed by the prior framework, while the Minnesota and RHS models tend toward an <span class="math inline">\(R^2\)</span> of 1 due to the state variance drowning out the variance of the observation equation. This manifests as very erratic prior expected paths of the TVP process:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/prior-tvp-paths_156af6bb167f8473ee38b4b3d5b89dcd">
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/prior-tvp-paths-1.png" class="img-fluid" width="672"></p>
+</div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/prior-tvp-paths-2.png" class="img-fluid" width="672"></p>
+</div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/prior-tvp-paths-3.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+</section>
+<section id="posterior-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="posterior-analysis">Posterior Analysis</h3>
+<p>First, let’s estimate the models with the likelihood contribution included in the model block:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/run-models_ca9825f081dca0abb98e5e1739ef2b6c">
+
+</div>
+<p>Now, let’s look at the posterior of the overall R2:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/gen-posterior-r2_01fa4a824603fd7a26a4be1865f70f9e">
+<div class="sourceCode cell-code" id="cb7"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a><span class="do">## R2 Graphs</span></span>
+<span id="cb7-2"><a href="#cb7-2" aria-hidden="true" tabindex="-1"></a><span class="co"># Extract Marg_r2 values</span></span>
+<span id="cb7-3"><a href="#cb7-3" aria-hidden="true" tabindex="-1"></a>r2_arr2 <span class="ot">&lt;-</span> fit_arr2<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb7-4"><a href="#cb7-4" aria-hidden="true" tabindex="-1"></a>r2_minnesota <span class="ot">&lt;-</span> fit_minn<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>r2_rhs <span class="ot">&lt;-</span> fit_rhs<span class="sc">$</span><span class="fu">draws</span>(<span class="at">variables =</span> <span class="fu">c</span>(<span class="st">"R2_samp"</span>), <span class="at">format =</span> <span class="st">"matrix"</span>)</span>
+<span id="cb7-6"><a href="#cb7-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-7"><a href="#cb7-7" aria-hidden="true" tabindex="-1"></a><span class="co"># Convert draws to data frames</span></span>
+<span id="cb7-8"><a href="#cb7-8" aria-hidden="true" tabindex="-1"></a>df_arr2 <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_arr2) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"ARR2"</span>)</span>
+<span id="cb7-9"><a href="#cb7-9" aria-hidden="true" tabindex="-1"></a>df_minnesota <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_minnesota) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"Minnesota"</span>)</span>
+<span id="cb7-10"><a href="#cb7-10" aria-hidden="true" tabindex="-1"></a>df_rhs <span class="ot">&lt;-</span> <span class="fu">as.data.frame</span>(r2_rhs) <span class="sc">%&gt;%</span> <span class="fu">mutate</span>(<span class="at">model =</span> <span class="st">"RHS"</span>)</span>
+<span id="cb7-11"><a href="#cb7-11" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-12"><a href="#cb7-12" aria-hidden="true" tabindex="-1"></a><span class="co"># Rename the column for consistency</span></span>
+<span id="cb7-13"><a href="#cb7-13" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_arr2)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb7-14"><a href="#cb7-14" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_minnesota)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb7-15"><a href="#cb7-15" aria-hidden="true" tabindex="-1"></a><span class="fu">colnames</span>(df_rhs)[<span class="dv">1</span>] <span class="ot">&lt;-</span> <span class="st">"marg_r2"</span></span>
+<span id="cb7-16"><a href="#cb7-16" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-17"><a href="#cb7-17" aria-hidden="true" tabindex="-1"></a><span class="co"># Combine data frames</span></span>
+<span id="cb7-18"><a href="#cb7-18" aria-hidden="true" tabindex="-1"></a>combined_df <span class="ot">&lt;-</span> <span class="fu">bind_rows</span>(df_arr2, df_minnesota, df_rhs)</span>
+<span id="cb7-19"><a href="#cb7-19" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-20"><a href="#cb7-20" aria-hidden="true" tabindex="-1"></a><span class="co"># Create the plot</span></span>
+<span id="cb7-21"><a href="#cb7-21" aria-hidden="true" tabindex="-1"></a>p <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(combined_df, <span class="fu">aes</span>(<span class="at">x =</span> marg_r2, <span class="at">color =</span> model)) <span class="sc">+</span></span>
+<span id="cb7-22"><a href="#cb7-22" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_density</span>() <span class="sc">+</span></span>
+<span id="cb7-23"><a href="#cb7-23" aria-hidden="true" tabindex="-1"></a>  <span class="fu">labs</span>(<span class="at">title =</span> <span class="st">"Posterior R2 Distributions"</span>, <span class="at">y =</span> <span class="st">"Density"</span>, <span class="at">x =</span> <span class="st">"Marginal R2"</span>) <span class="sc">+</span></span>
+<span id="cb7-24"><a href="#cb7-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">xlim</span>(<span class="dv">0</span>, <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb7-25"><a href="#cb7-25" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme_minimal</span>() <span class="sc">+</span></span>
+<span id="cb7-26"><a href="#cb7-26" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span> model, <span class="at">scales =</span> <span class="st">"free_y"</span>, <span class="at">ncol =</span> <span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb7-27"><a href="#cb7-27" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
+<span id="cb7-28"><a href="#cb7-28" aria-hidden="true" tabindex="-1"></a>    <span class="at">legend.position =</span> <span class="st">"none"</span>,</span>
+<span id="cb7-29"><a href="#cb7-29" aria-hidden="true" tabindex="-1"></a>    <span class="at">panel.grid =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb7-30"><a href="#cb7-30" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb7-31"><a href="#cb7-31" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.ticks.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb7-32"><a href="#cb7-32" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.x =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb7-33"><a href="#cb7-33" aria-hidden="true" tabindex="-1"></a>    <span class="at">panel.border =</span> <span class="fu">element_blank</span>()</span>
+<span id="cb7-34"><a href="#cb7-34" aria-hidden="true" tabindex="-1"></a>  )</span>
+<span id="cb7-35"><a href="#cb7-35" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb7-36"><a href="#cb7-36" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(p)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/gen-posterior-r2-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>Clearly, the Minnesota prior regularises the variation in the coefficient processes less than the ARR2 prior, yielding larger marginal <span class="math inline">\(R^2\)</span> estimates. It is well known that inflation series are hard to predict <span class="citation" data-cites="stock_why_2006">Stock and Watson (<a href="#ref-stock_why_2006" role="doc-biblioref">2006</a>)</span> , and we would also expect to find a low <span class="math inline">\(R^2\)</span> estimates.</p>
+<p>Since the <span class="math inline">\(\beta\)</span> processes are functions of time, an estimate of time-variation in <span class="math inline">\(R^2\)</span> may be approximated by <span class="math inline">\(R^2_t = \frac{\beta_t^Tx_t^Tx_t^T\beta_t}{\beta_t^Tx_t^Tx_t^T\beta_t + \sigma^2_y}\)</span>. This is how the mean of this quantity varies for the two models over time:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/r2-overtime_9004c49e26a243eae3042b96b08b785f">
+<div class="sourceCode cell-code" id="cb8"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a>timevec <span class="ot">&lt;-</span> <span class="fu">as.Date</span>(emp_app<span class="sc">$</span>datevec[<span class="dv">1</span><span class="sc">:</span><span class="dv">307</span>])</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>betas1 <span class="ot">&lt;-</span> <span class="fu">extract_r2</span>(fit_arr2, <span class="st">"ARR2"</span>, timevec)</span>
+<span id="cb8-3"><a href="#cb8-3" aria-hidden="true" tabindex="-1"></a>betas2 <span class="ot">&lt;-</span> <span class="fu">extract_r2</span>(fit_minn, <span class="st">"Minnesota"</span>, timevec)</span>
+<span id="cb8-4"><a href="#cb8-4" aria-hidden="true" tabindex="-1"></a>betas3 <span class="ot">&lt;-</span> <span class="fu">extract_r2</span>(fit_rhs, <span class="st">"RHS"</span>, timevec)</span>
+<span id="cb8-5"><a href="#cb8-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-6"><a href="#cb8-6" aria-hidden="true" tabindex="-1"></a><span class="co"># Combine all R2_t data into one dataframe</span></span>
+<span id="cb8-7"><a href="#cb8-7" aria-hidden="true" tabindex="-1"></a>betas <span class="ot">&lt;-</span> <span class="fu">bind_rows</span>(betas1, betas2, betas3)</span>
+<span id="cb8-8"><a href="#cb8-8" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-9"><a href="#cb8-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-10"><a href="#cb8-10" aria-hidden="true" tabindex="-1"></a><span class="co"># Plot the data</span></span>
+<span id="cb8-11"><a href="#cb8-11" aria-hidden="true" tabindex="-1"></a>tsplot <span class="ot">&lt;-</span> <span class="fu">ggplot</span>(betas, <span class="fu">aes</span>(Time, R2_t)) <span class="sc">+</span></span>
+<span id="cb8-12"><a href="#cb8-12" aria-hidden="true" tabindex="-1"></a>  <span class="fu">geom_line</span>() <span class="sc">+</span></span>
+<span id="cb8-13"><a href="#cb8-13" aria-hidden="true" tabindex="-1"></a>  <span class="fu">facet_wrap</span>(<span class="sc">~</span> Model, <span class="at">scales =</span> <span class="st">"fixed"</span>,<span class="at">ncol =</span><span class="dv">1</span>) <span class="sc">+</span></span>
+<span id="cb8-14"><a href="#cb8-14" aria-hidden="true" tabindex="-1"></a>  cowplot<span class="sc">::</span><span class="fu">theme_half_open</span>() <span class="sc">+</span></span>
+<span id="cb8-15"><a href="#cb8-15" aria-hidden="true" tabindex="-1"></a>  <span class="fu">theme</span>(</span>
+<span id="cb8-16"><a href="#cb8-16" aria-hidden="true" tabindex="-1"></a>    <span class="at">plot.title =</span> <span class="fu">element_text</span>(<span class="at">hjust =</span> <span class="fl">0.5</span>, <span class="at">size =</span> <span class="dv">12</span>),</span>
+<span id="cb8-17"><a href="#cb8-17" aria-hidden="true" tabindex="-1"></a>    <span class="at">legend.position =</span> <span class="st">"none"</span>,</span>
+<span id="cb8-18"><a href="#cb8-18" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.x =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb8-19"><a href="#cb8-19" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.title.y =</span> <span class="fu">element_blank</span>(),</span>
+<span id="cb8-20"><a href="#cb8-20" aria-hidden="true" tabindex="-1"></a>    <span class="at">strip.background =</span> <span class="fu">element_blank</span>(),  <span class="co"># Remove facet title box color</span></span>
+<span id="cb8-21"><a href="#cb8-21" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.x =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>),  <span class="co"># Decrease x-axis label font size</span></span>
+<span id="cb8-22"><a href="#cb8-22" aria-hidden="true" tabindex="-1"></a>    <span class="at">axis.text.y =</span> <span class="fu">element_text</span>(<span class="at">size =</span> <span class="dv">8</span>)   <span class="co"># Decrease y-axis label font size</span></span>
+<span id="cb8-23"><a href="#cb8-23" aria-hidden="true" tabindex="-1"></a>  ) <span class="sc">+</span></span>
+<span id="cb8-24"><a href="#cb8-24" aria-hidden="true" tabindex="-1"></a>  <span class="fu">ggtitle</span>(<span class="st">"R2_t over time"</span>)</span>
+<span id="cb8-25"><a href="#cb8-25" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb8-26"><a href="#cb8-26" aria-hidden="true" tabindex="-1"></a><span class="co"># Print the plot</span></span>
+<span id="cb8-27"><a href="#cb8-27" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(tsplot)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/r2-overtime-1.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>The Minnesota and RHS models tend to favor more variation and larger magnitudes in <span class="math inline">\(R^2\)</span>. Let’s look at the posterior mean estimates of <span class="math inline">\(\beta_t\)</span> over time:</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/tvp-paths-posterior_477d2ff9026427483365993c90e72b4b">
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/tvp-paths-posterior-1.png" class="img-fluid" width="672"></p>
+</div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/tvp-paths-posterior-2.png" class="img-fluid" width="672"></p>
+</div>
+<div class="cell-output-display">
+<p><img src="dyn_reg_casestudy5_files/figure-html/tvp-paths-posterior-3.png" class="img-fluid" width="672"></p>
+</div>
+</div>
+<p>Finally, let’s have a quick look at the predictions for the held-out data point.</p>
+<div class="cell" data-hash="dyn_reg_casestudy5_cache/html/predictions_6dc9d68171f0cf65d29a9feda0f356b8">
+<div class="sourceCode cell-code" id="cb9"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>fit_objects <span class="ot">&lt;-</span> <span class="fu">list</span>(</span>
+<span id="cb9-2"><a href="#cb9-2" aria-hidden="true" tabindex="-1"></a>  <span class="at">arr2 =</span> fit_arr2,</span>
+<span id="cb9-3"><a href="#cb9-3" aria-hidden="true" tabindex="-1"></a>  <span class="at">minn =</span> fit_minn,</span>
+<span id="cb9-4"><a href="#cb9-4" aria-hidden="true" tabindex="-1"></a>  <span class="at">rhs =</span> fit_rhs</span>
+<span id="cb9-5"><a href="#cb9-5" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb9-6"><a href="#cb9-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb9-7"><a href="#cb9-7" aria-hidden="true" tabindex="-1"></a>comparison_table <span class="ot">&lt;-</span> <span class="fu">compare_elpd</span>(fit_objects)</span>
+<span id="cb9-8"><a href="#cb9-8" aria-hidden="true" tabindex="-1"></a><span class="fu">print</span>(comparison_table)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code># A tibble: 3 × 3
+  Model elpd_diff se_diff
+  &lt;chr&gt;     &lt;dbl&gt;   &lt;dbl&gt;
+1 arr2        0      0.06
+2 minn      -13.4    0.77
+3 rhs       -13.4    0.65</code></pre>
+</div>
+</div>
+<p>The ARR2 model also results in far better predictions.</p>
+</section>
+</section>
+<section id="conclusion-and-discussion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion-and-discussion">Conclusion and Discussion</h2>
+<p>Prior and posterior R2 distributions show the similar behaviour as to what <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span> have shown: the ARR2 prior is the only prior that allows by design to have direct control over the models prior predictive R2 distribution</p>
+<p>This leads to better predictions, at least for the out-of-sample observation under investigation, although in the future it would be better to do a full, expanding window predictions analysis as was done in <span class="citation" data-cites="kohns2025arr2">Kohns et al. (<a href="#ref-kohns2025arr2" role="doc-biblioref">2025</a>)</span>.</p>
+<p>Allowing some states to have large variance results in meaningful differences in the coefficients processes as well as the R2 over time.</p>
+<p>The non-centred state-space inference approach analysed in <span class="citation" data-cites="fruhwirth2010stochastic">Frühwirth-Schnatter and Wagner (<a href="#ref-fruhwirth2010stochastic" role="doc-biblioref">2010</a>)</span> would allow also non-ARR2 priors to exert stronger shrinkage on the state-standard deviations. It would be interesting derive the R2 prior for the non-centred formulation and then compare to non-centred versions of the competing priors here, too.</p>
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-chan_minnesota-type_2021" class="csl-entry" role="doc-biblioentry">
+Chan, Joshua C. C. 2021. <span>“Minnesota-Type Adaptive Hierarchical Priors for Large <span>Bayesian</span> <span>VARs</span>.”</span> <em>International Journal of Forecasting</em> 37 (3): 1212–26. <a href="https://doi.org/10.1016/j.ijforecast.2021.01.002">https://doi.org/10.1016/j.ijforecast.2021.01.002</a>.
+</div>
+<div id="ref-chan2023bayesian" class="csl-entry" role="doc-biblioentry">
+Chan, Joshua CC, and Rodney W Strachan. 2023. <span>“Bayesian State Space Models in Macroeconometrics.”</span> <em>Journal of Economic Surveys</em> 37 (1): 58–75.
+</div>
+<div id="ref-fruhwirth2010stochastic" class="csl-entry" role="doc-biblioentry">
+Frühwirth-Schnatter, Sylvia, and Helga Wagner. 2010. <span>“Stochastic Model Specification Search for <span>Gaussian</span> and Partial Non-<span>Gaussian</span> State Space Models.”</span> <em>Journal of Econometrics</em> 154 (1): 85–100.
+</div>
+<div id="ref-gelman_r-squared_2019" class="csl-entry" role="doc-biblioentry">
+Gelman, Andrew, Ben Goodrich, Jonah Gabry, and Aki Vehtari. 2019. <span>“R-Squared for <span>Bayesian</span> <span>Regression</span> <span>Models</span>.”</span> <em>The American Statistician</em> 73 (3): 307–9. <a href="https://doi.org/10.1080/00031305.2018.1549100">https://doi.org/10.1080/00031305.2018.1549100</a>.
+</div>
+<div id="ref-giannone_prior_2012" class="csl-entry" role="doc-biblioentry">
+Giannone, Domenico, Michele Lenza, and Giorgio Primiceri. 2012. <span>“Prior <span>Selection</span> for <span>Vector</span> <span>Autoregressions</span>.”</span> w18467. Cambridge, MA: National Bureau of Economic Research. <a href="https://doi.org/10.3386/w18467">https://doi.org/10.3386/w18467</a>.
+</div>
+<div id="ref-giannone2021economic" class="csl-entry" role="doc-biblioentry">
+Giannone, Domenico, Michele Lenza, and Giorgio E Primiceri. 2021. <span>“Economic Predictions with Big Data: The Illusion of Sparsity.”</span> <em>Econometrica</em> 89 (5): 2409–37.
+</div>
+<div id="ref-huber2021inducing" class="csl-entry" role="doc-biblioentry">
+Huber, Florian, Gary Koop, and Luca Onorante. 2021. <span>“Inducing Sparsity and Shrinkage in Time-Varying Parameter Models.”</span> <em>Journal of Business &amp; Economic Statistics</em> 39 (3): 669–83.
+</div>
+<div id="ref-kohns2025arr2" class="csl-entry" role="doc-biblioentry">
+Kohns, David, Noa Kallioinen, Yann McLatchie, and Aki Vehtari. 2025. <span>“The ARR2 Prior: Flexible Predictive Prior Definition for Bayesian Auto-Regressions.”</span> <em>Bayesian Analysis</em> 1 (1): 1–32.
+</div>
+<div id="ref-piironen_hyperprior_2017" class="csl-entry" role="doc-biblioentry">
+Piironen, Juho, and Aki Vehtari. 2017. <span>“On the <span>Hyperprior Choice</span> for the <span>Global Shrinkage Parameter</span> in the <span>Horseshoe Prior</span>.”</span> In <em>Proceedings of the 20th <span>International Conference</span> on <span>Artificial Intelligence</span> and <span>Statistics</span></em>, 905–13. PMLR.
+</div>
+<div id="ref-stock_why_2006" class="csl-entry" role="doc-biblioentry">
+Stock, James, and Mark Watson. 2006. <span>“Why <span>Has</span> <span>U</span>.<span>S</span>. <span>Inflation</span> <span>Become</span> <span>Harder</span> to <span>Forecast</span>?”</span> w12324. Cambridge, MA: National Bureau of Economic Research. <a href="https://doi.org/10.3386/w12324">https://doi.org/10.3386/w12324</a>.
+</div>
+<div id="ref-zhang_bayesian_2022" class="csl-entry" role="doc-biblioentry">
+Zhang, Yan Dora, Brian P. Naughton, Howard D. Bondell, and Brian J. Reich. 2022. <span>“Bayesian <span>Regression</span> <span>Using</span> a <span>Prior</span> on the <span>Model</span> <span>Fit</span>: <span>The</span> <span>R2</span>-<span>D2</span> <span>Shrinkage</span> <span>Prior</span>.”</span> <em>Journal of the American Statistical Association</em> 117 (538): 862–74. <a href="https://doi.org/10.1080/01621459.2020.1825449">https://doi.org/10.1080/01621459.2020.1825449</a>.
+</div>
+</div></section></div></main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>
