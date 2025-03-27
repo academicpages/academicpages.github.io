@@ -1,6 +1,9 @@
 ---
 title: "Dynamic Regression Case Study"
-author: "Kohns et al. (2025)"
+author: "David Kohns"
+date: 2025-03-27
+date-modified: today
+date-format: iso
 execute:
   cache: true
 format:
@@ -9,21 +12,26 @@ format:
     toc-location: left
     toc-depth: 3
     toc-collapse: true
-  pdf:
-    documentclass: article
-    toc: true
     number-sections: true
-    toc-depth: 3
+    smooth-scroll: true
+    theme: readable
+    code-copy: true
+    code-download: true
+    code-fold: true
+    code-tools: true
+    embed-resources: true
+    anchor-sections: true
+    html-math-method: katex
 editor: visual
 css: styles.css
 bibliography: references.bib
 ---
 
-# TVP-R2
+# Introduction
 
 This case study showcases how to apply the ARR2 prior of @kohns2025arr2 for dynamic regression.
 
-## Intro: Dynamic Regression
+# Background: Dynamic Regression
 
 Dynamic regression, or time-varying parameter regression, relaxes the assumption of static (w.r.t. time) regression coefficients. Considering the nature of most time-series applications in social science, such as the response of economic output to financial conditions, it seems reasonable that coefficients should change over time. Indeed, fixing the law of motion for the regression parameters to independent univariate auto-regressive models (AR) has a long tradition (see [@chan2023bayesian] for a brief history of such models in econ) and good empirical performance [@huber2021inducing].
 
@@ -86,11 +94,11 @@ The Minnesota prior assumes that the starting conditions, $\beta_{0,j} \sim N(0,
 
 The RHS prior assumes that the starting conditions $\beta_{0,j} \sim N(0,\lambda^2_i\tau^2_{RHS})$, where $\lambda_{i}$ and $\tau_{RHS}$ follow the modified Cauchy priors as in @piironen_hyperprior_2017. For the state-standard deviation, we allow for modelling with a fat-tailed distribution, $\beta_{t,i} \sim N(\phi_{i}\beta_{t-1,i},\lambda^2_{i})$, $\lambda_i \sim C_+(0,1)$. The expected number of non-zero coefficients in the $\beta_0$ are set to K/2 as explained in @kohns2025arr2.
 
-## Application: Inflation forecasting
+# Application: Inflation forecasting
 
-We take the US monthly inflation example from @kohns2025arr2 to showcase the TVP regressions.
+We take the US monthly inflation example from @kohns2025arr2 to showcase the TVP regressions. Let's firstly load all the required packages and functions needed throughout this project.
 
-```{r, echo = FALSE, message = FALSE, warning = FALSE,  packaged-and-functions}
+```{r, message = FALSE, warning = FALSE,  packaged-and-functions}
 rm(list = ls())
 # Packages
 library(fbi)
@@ -350,6 +358,7 @@ objects_to_keep <- c("emp_app", names(function_objects)[function_objects])
 rm(list=setdiff(all_objects, objects_to_keep))
 
 ```
+## Some Quick Visual Checks
 
 Let's quickly plot the time-series.
 
@@ -425,7 +434,7 @@ From simple OLS based on a 100-month window, it is apparent that there is some t
 
 For computational simplicity, we focus here on predicting only a single point out-of-sample, September-2005, at which point inflation took a nose-dive. This is observation 308 in the date-vector.
 
-### Stan Model
+## Stan Models
 
 Compile and estimate the following Stan models:
 
@@ -443,7 +452,7 @@ p <- 4 # just needed in order to get the Minnesota estimates
 
 ```
 
-### Prior Predictive Analysis
+## Prior Predictive Analysis
 
 ```{r,  message = FALSE, warning = FALSE, results = "hide", gen-priors}
 # data for stan models
@@ -583,7 +592,7 @@ print(tsplot3)
 
 ```
 
-### Posterior Analysis
+## Posterior Analysis
 
 First, let's estimate the models with the likelihood contribution included in the model block:
 
@@ -754,7 +763,7 @@ print(comparison_table)
 
 The ARR2 model also results in far better predictions.
 
-## Conclusion and Discussion
+# Conclusion and Discussion
 
 Prior and posterior R2 distributions show the similar behaviour as to what @kohns2025arr2 have shown: the ARR2 prior is the only prior that allows by design to have direct control over the models prior predictive R2 distribution
 
@@ -763,3 +772,8 @@ This leads to better predictions, at least for the out-of-sample observation und
 Allowing some states to have large variance results in meaningful differences in the coefficients processes as well as the R2 over time.
 
 The non-centred state-space inference approach analysed in @fruhwirth2010stochastic would allow also non-ARR2 priors to exert stronger shrinkage on the state-standard deviations. It would be interesting derive the R2 prior for the non-centred formulation and then compare to non-centred versions of the competing priors here, too.
+
+# Licenses {.unnumbered}
+ 
+* Code &copy; 2025, David Kohns, licensed under BSD-3.
+* Text &copy; 2025, David Kohns, licensed under CC-BY-NC 4.0.

@@ -7,12 +7,18 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-<!-- Add your new HTML file link -->
-<div class="post-preview">
-  <a href="/case-studies/dyn_reg_casestudy5.html">
-    <h2 class="post-title">
-     Dynamic Regression using the ARR2 Prior
-    </h2>
-  </a>
-  <p class="post-meta">Posted by David on {{ "now" | date: "%B %d, %Y" }}</p>
-</div>
+<!-- Loop through case studies data file -->
+{% assign case_studies = site.data.case_studies %}
+{% for case in case_studies %}
+  <div class="post-preview">
+    <a href="{{ case.url }}">
+      <h2 class="post-title">
+        {{ case.title }}
+      </h2>
+      <h3 class="post-subtitle">
+        {{ case.subtitle }}
+      </h3>
+    </a>
+    <p class="post-meta">Posted by {{ case.author }} on {{ case.date | date: "%B %d, %Y" }}</p>
+  </div>
+{% endfor %}
