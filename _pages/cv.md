@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.S. in Enginnering, Toyohashi University of Technology, 2022
-* B.S. in Engineering, Toyohashi University of Technology, 2020
+* Coursework Completed /wo Degree, Toyohashi University of Technology, Mar 2025
+* M.S. in Enginnering, Toyohashi University of Technology, Mar 2022
+* B.S. in Engineering, Toyohashi University of Technology, Mar 2020
 
 Publications
 ======
@@ -52,11 +53,6 @@ Programming Languages
 * C#: fundamental level+
 * Ruby: fundamental level+
 
-参加教育プログラム
-======
-* 2022/4-継続中	豊橋技術科学大学，技術科学教員プログラム．
-* 2020/4-継続中	豊橋技術科学大学，博士課程教育リーディングプログラム．
-
 留学・インターンシップ
 ======
 * 2023/10-2023/12	教育・研究指導実習 兼 博士後期課程実務訓練, 豊田工業高等専門学校．豊橋技術科学大学 技術科学教員プログラム および 同博士課程教育リーディングプログラム．
@@ -72,6 +68,7 @@ Programming Languages
 
 職歴
 ======
+* 2025/4-継続中 早稲田大学 人間科学学術院 助手
 * 2023/6-2024/3 早稲田大阪学園 非常勤職員
 * 2020/4-2022/3	リーディングプログラム RA
 * 2020/4-2020/6	IT活用教育センター RA
@@ -82,22 +79,23 @@ Programming Languages
 
 所属・活動
 ======
-* 2024/4-継続中	豊橋技術科学大学 情報・知能工学系 音声言語処理研究室
+* 2025/4-継続中 早稲田大学 人間科学学術院/研究科/学部 森田裕介研究室
+* 2024/4-2025/3	豊橋技術科学大学 情報・知能工学系 音声言語処理研究室
 * 2024/3-2024/9	Publicity Chair, The 11th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2024).
 * 2023/5-2024/3 早稲田大阪学園向陽台高等学校 指導助言者
   * 文部科学省「多様性に応じた新時代の学び充実支援事業」
   * 多様な児童生徒のための「小中高大」を貫くEdTechを活用した通信制教育の可能性の検討 ―本校と、北摂の教育委員会等との向陽台コンソーシアムによる、一人も取り残さない教育の在り方の検証―
 * 2022/3-2022/9	Publicity Co-chair, The 9th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2022).
-* 2020/11-継続中	教育システム情報学会 学生会員
+* 2020/11-継続中	教育システム情報学会（〜2025/3 学生会員）
 * 2020/1-2020/9	Publicity Co-chair, The 7th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2020).
 * 2019/4-2024/3	豊橋技術科学大学 情報・知能工学系 応用数理ネットワーク研究室
-* 2019/8-継続中	日本教育工学会 学生会員
+* 2019/8-継続中	日本教育工学会（〜2025/3 学生会員）
 
 研究プロジェクトなど
 ======
 * 2021/7-2022/3	豊橋技術科学大学，2021年度豊橋技術科学大学高専連携教育研究プロジェクト．高専での遠隔・反転授業を促進するビデオ教育環境の大学・高専・企業共同作業による構築（代表者：阿南工業高等専門学校 小林美緒）．
 * 2020/6-2021/3	豊橋技術科学大学，2020年度豊橋技術科学大学高専連携教育研究プロジェクト．高専での遠隔・反転授業を促進するビデオ教育環境の大学・高専・企業共同作業による構築（代表者：東京工業高等専門学校 市川裕子）．
-* 2020/4-継続中	豊橋技術科学大学，博士課程教育リーディングプログラム教育研究費．
+* 2020/4-2025/1	豊橋技術科学大学，博士課程教育リーディングプログラム教育研究費．
 
 受賞・表彰・助成
 ======
@@ -117,6 +115,11 @@ Programming Languages
 * 2022/5/20	動画「脳ラップ」を配信 豊橋技科大の院生2人．東愛知新聞朝刊1面．
 * 2022/5/19	脳科学をラップで学ぼう 技科大院生が入門教材制作しユーチューブで公開．東日新聞朝刊10面．
 * 2022/3/22	［教育ルネサンス］高専６０年＜１＞サイバー、経営…学科変遷．読売新聞朝刊11面．
+
+参加教育プログラム
+======
+* 2022/4-2025/3	豊橋技術科学大学，技術科学教員プログラム．
+* 2020/4-2025/1	豊橋技術科学大学，博士課程教育リーディングプログラム．
 
 その他（主に学生活動）
 ======
