@@ -8,4 +8,4 @@ email: "202421063653@mail.scut.edu.cn"
 photo: "/members/shikuan.jpg"
 chinese_name: "黄世宽"
 ---
-
+Shikuan Huang is a master student working on meachine learning conbined with battery aging.
