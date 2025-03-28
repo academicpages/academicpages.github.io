@@ -29,11 +29,11 @@ bibliography: references.bib
 
 # Introduction
 
-This case study showcases how to apply the ARR2 prior of @kohns2025arr2 for dynamic regression.
+This case study showcases how to apply the ARR2 prior of @kohns2025arr2 for dynamic regression. For details on the derivations presented in this case-study, please consult the the supplementary material @kohns2025arr2supp. Code for the case study can be found in my [repo](https://github.com/davkoh/davkoh.github.io/tree/master/case-studies/01_dyn_reg).
 
 # Background: Dynamic Regression
 
-Dynamic regression, or time-varying parameter regression, relaxes the assumption of static (w.r.t. time) regression coefficients. Considering the nature of most time-series applications in social science, such as the response of economic output to financial conditions, it seems reasonable that coefficients should change over time. Indeed, fixing the law of motion for the regression parameters to independent univariate auto-regressive models (AR) has a long tradition (see [@chan2023bayesian] for a brief history of such models in econ) and good empirical performance [@huber2021inducing].
+Dynamic regression, or time-varying parameter regression, relaxes the assumption of static (w.r.t. time) regression coefficients. Considering the nature of most time-series applications in social science, such as the response of economic output to financial conditions, it seems reasonable that coefficients change over time. Indeed, fixing the law of motion for the regression parameters to independent univariate auto-regressive models (AR) has a long tradition (see @chan2023bayesian for a brief history of such models in econ) and good empirical performance @huber2021inducing.
 
 Consider a univariate target $y_t \in \mathbb{R}$ which is modeled via observed K-dimensional covariates $x_t$ and unknown regression parameters $\beta_t \in \mathbb{R}^{K \times 1}$ for $t = 1,\dotsc,M$:
 
@@ -44,7 +44,7 @@ y_t &= x_t^{T}\beta_t + \epsilon_t^y \\
 \end{aligned}
 $$ {#eq-TVP}
 
-where $\Phi \in \mathbb{R}^{K \times K}$ describes the transition of regression parameters over time. $\epsilon^{y}_t$ and $\epsilon^{\beta}_t$ are normal stochastic innovation terms of the target and the parameter process respectively. Equation @eq-TVP in fact belongs to the family of discrete state-space models, or more commonly referred to as hidden Markov models. In this literature, $y_t$ is referred to as the observation equation while the $\beta_t$ equation is referred to as the state equation.
+where $\Phi \in \mathbb{R}^{K \times K}$ describes the transition of regression parameters over time. $\epsilon^{y}_t$ and $\epsilon^{\beta}_t$ are normal stochastic innovation terms of the target and the parameter process respectively. Equation @eq-TVP in fact belongs to the family of discrete state-space models, or more commonly referred to as hidden Markov models. In this literature, the process for $y_t$ is referred to as the observation equation while that for $\beta_t$ is referred to as the state equation.
 
 To keep things simple, assume normal distributions for the observations noise, $\epsilon_t^{y} \sim N(0,\sigma^2)$, state innovations, $\epsilon_t^{\beta} \sim N(0,\Sigma_{\beta})$ and that the only unknowns in the covariance are the diagonals $\Sigma_{\beta} = \mathrm{diag}~(\sigma^2_{\beta,1},\dotsc,\sigma^2_{\beta,K})$. Assume further that the state transition matrix $\Phi$ is diagonal, $\Phi = \mathrm{diag}~(\phi_1,\dotsc,\phi_K)$.
 
@@ -76,15 +76,15 @@ $$
 R^2 = \frac{\sigma^2_y\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i}}{\sigma^2_y\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i} + \sigma^2_y} = \frac{\tau^2}{\tau^2 + 1},
 $$
 
-where $\tau^2 =\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i}$ are the scaled sum of marginal variances of the dynamic regression components. Assuming $R^2 \sim \mathrm{beta}(\mu_{R^2},\varphi_{R^2}^2)$, the ARR2 prior for each state at time t, conditional on the states up until t-1 is thus
+where $\tau^2 =\sum_{i=1}^K \frac{\sigma^2_{\beta,i}}{1-\phi^2_i}$ are the scaled sum of marginal variances of the dynamic regression components. Assuming $R^2 \sim \mathrm{beta}(\mu_{R^2},\varphi_{R^2})$, the ARR2 prior for each state at time t, conditional on the states up until t-1 is thus
 
 $$
 \beta_{t,i} \sim N(\phi_{i}\beta_{t-1,i},\sigma^2(1-\phi^2_i)\psi_i\tau^2).
 $$
 
-$\psi \sim \mathrm{Dir}(\alpha)$ decomposes the variance explained to each of the K state components of the dynamic regression. The hyper-parameters $\alpha$ determine the correlation structure and sparsity a-priori among the states (lower $\alpha$ means higher degree of sparsity). See @kohns2025arr2 for recommendations on how to set $\alpha$.
+$\psi \sim \mathrm{Dir}(\alpha)$ decomposes the variance explained to each of the K state components of the dynamic regression. The hyper-parameters $\alpha$ determine the correlation structure and sparsity a-priori among the states (lower $\alpha$ means higher degree of sparsity). See @kohns2025arr2 for recommendations on how to set $\alpha$. We will also follow the recommendations of @kohns2025arr2 in setting the hyper-parameters of the prior on $R^2$ to weakly favour lower $R^2$ values a-priori, $(\mu_{R^2},\varphi_{R^2}) = (1/3,3)$.
 
-In this case-study, we will consider the two competing models showcased in @kohns2025arr2, the Minnesota and regularised horseshoe models.
+In this case-study, we will consider the two competing models showcased in @kohns2025arr2, the Minnesota and regularised horseshoe models. This will only differ in their priors on the initial conditions vector $\beta_0$. The prior for $\phi_i$ for all $i$ is assumed to be the same across all models, $(\phi_i+1)/2 \sim \mathrm{beta}(10,2)$ following @fruhwirth2010stochastic. This prior ensures stationarity of the state process, as well as positive correlation in the states.
 
 ### Minnesota Prior
 
@@ -358,6 +358,7 @@ objects_to_keep <- c("emp_app", names(function_objects)[function_objects])
 rm(list=setdiff(all_objects, objects_to_keep))
 
 ```
+
 ## Some Quick Visual Checks
 
 Let's quickly plot the time-series.
@@ -684,7 +685,7 @@ print(p)
 
 ```
 
-Clearly, the Minnesota prior regularises the variation in the coefficient processes less than the ARR2 prior, yielding larger marginal $R^2$ estimates. It is well known that inflation series are hard to predict @stock_why_2006 , and we would also expect to find a low $R^2$ estimates.
+Clearly, the Minnesota and RHS prior regularise the variation in the coefficient processes less than the ARR2 prior, yielding larger marginal $R^2$ estimates. It is well known that inflation series are hard to predict @stock_why_2006 , and we would also expect to find a low $R^2$ estimates.
 
 Since the $\beta$ processes are functions of time, an estimate of time-variation in $R^2$ may be approximated by $R^2_t = \frac{\beta_t^Tx_t^Tx_t^T\beta_t}{\beta_t^Tx_t^Tx_t^T\beta_t + \sigma^2_y}$. This is how the mean of this quantity varies for the two models over time:
 
@@ -774,6 +775,34 @@ Allowing some states to have large variance results in meaningful differences in
 The non-centred state-space inference approach analysed in @fruhwirth2010stochastic would allow also non-ARR2 priors to exert stronger shrinkage on the state-standard deviations. It would be interesting derive the R2 prior for the non-centred formulation and then compare to non-centred versions of the competing priors here, too.
 
 # Licenses {.unnumbered}
- 
-* Code &copy; 2025, David Kohns, licensed under BSD-3.
-* Text &copy; 2025, David Kohns, licensed under CC-BY-NC 4.0.
+
+-   Code © 2025, David Kohns, licensed under BSD-3.
+-   Text © 2025, David Kohns, licensed under CC-BY-NC 4.0.
+
+# Stan Models
+
+You can find the stan models used in this case-study here
+
+```{r, stan-models1}
+
+arr2$print()
+
+```
+
+```{r, stan-models2}
+
+minnesota$print()
+
+```
+
+```{r, stan-models3}
+
+rhs$print()
+
+```
+
+# Original Computing Environment
+
+```{r,print-compute-environment}
+sessionInfo()
+```
