@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "SukhwinS"
+title                    : "Sukhwins"
 title_separator          : "-"
 name                     : &name "Sukhwinder Singh"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Sukhwinder Singh"
   pronouns         : "he/him"
-  bio              : "AI Engineer | Python Developer | Django developer | IT NITJ"
+  bio              : "Software Engineer | Python Developer | Django developer | AI Engineer | IT NITJ"
   location         : "Noida, India"
   employer         : #"Red Brick University"
   uri              : # URL

@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI/ML Engineer with over 7 years of industry experience, specializing in designing and deploying large-scale, AI-driven systems. My expertise spans multiple domains, from backend development to advanced AI solutions. I’ve worked extensively with Python, machine learning frameworks, and cloud platforms, enabling me to deliver impactful software solutions in diverse industries, particularly healthcare.
+I am a software professional with experience of 8 years in software development. Highly Skilled in Back end development using both Java and Python, handling Big Data using PySpark ,Databases using Postgres, Snowflake and Elastic search and developing APIs using Python Frameworks- Django and Flask. A Very good communicator and have good experience of working directly with the client in Agile Environment.
 
-One of the most exciting projects I've led involved developing an AI-powered chatbot for a healthcare client. This system greatly enhanced patient interactions by facilitating appointment scheduling and query resolution. Additionally, I integrated Large Language Models (LLMs) into various solutions to improve data processing and automation, with a strong focus on compliance and efficiency in healthcare environments.
+One of the most exciting projects I've led involved developing of a Spark-based, AI/ML-powered, data pipelines to transform raw data into FHIR format for healthcare applications, utilizing technologies such as Kubernetes, AWS EMR, Kafka, SQS, Postgres, and Snowflake. Played a key role in integrating AI/ML models into the data pipeline to enhance the transformation process, enabling intelligent data processing, anomaly detection, and predictive analytics.
 
 My academic background includes a Bachelor’s in Information Technology from the National Institute of Technology, Jalandhar and a Master’s in Business Administration in IT from LPU, Jalandhar. This blend of technical and business knowledge has given me a unique edge in understanding both the engineering and strategic aspects of software development.
 
-Personally, I am deeply passionate about technology, constantly exploring new trends in AI and machine learning. I balance my professional life with interests in reading crime and thriller novels, as well as playing football, cricket, and badminton, keeping my mind and body active.
+Personally, I am deeply passionate about technology, constantly exploring new trends in Software industry, AI and data analysis technologies. I balance my professional life with interests in reading crime and thriller novels, as well as playing football, cricket, and badminton, keeping my mind and body active.
