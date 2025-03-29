@@ -1,9 +1,6 @@
 ---
 title: "Articles"
-excerpt: "Platforms"
+excerpt: "[Blog](https://ryputtam.substack.com/)"
 collection: articles
 ---
-
-
-[Blog](https://ryputtam.substack.com/)
 
