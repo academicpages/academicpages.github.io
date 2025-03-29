@@ -1,9 +1,9 @@
 ---
-title: "Hypothesis Testing"
-excerpt: "A brief intro to hypothesis testing"
+title: "Articles"
+excerpt: "Platforms"
 collection: articles
 ---
 
-Hypothesis testing and the underlying terms
 
-Stay tuned!
+[Blog](https://ryputtam.substack.com/)
+
