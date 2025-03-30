@@ -24,7 +24,7 @@ This paper measures gender bias in what people say about women versus men in an 
 - <a href="/files/gendered_language_2018.pdf" target="_self">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
 
-### $\color{olive}{Coming \space Soon}$ 
+### $\color{olive}{In \space Progress}$ 
 - The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" style="color:black" target="_blank">Jacob Weber</a>)  
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
