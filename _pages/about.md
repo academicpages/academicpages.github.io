@@ -9,7 +9,9 @@ redirect_from:
 
 About 
 ===== 
-Need to update this section.     
+I am a first-year PhD student in the Department of Computer Science at the **University of Illinois at Urbana-Champaign** (UIUC), where I work with Professors [Aishwarya Ganesan](https://aishwaryaganesan.github.io/){:target="_blank"} and [Ram Alagappan](https://ramalagappan.github.io/){:target="_blank"} at the [Distributed and Storage Systems Lab (DASSL)](https://dassl-uiuc.github.io/){:target="_blank"}.  <br>
+
+Before joining UIUC, I completed my bachelor's degree in Computer Science at the **Lahore University of Management Sciences** (LUMS). During my time at LUMS, I worked with [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/){:target="_blank"} and [Dr. Ihsan Ayyub Qazi](https://www.ihsanqazi.com/){:target="_blank"}, focusing on research assessing the affordability of mobile video streaming platforms.
 
 
 
