@@ -6,14 +6,14 @@ author_profile: true
 ---
 ### $\color{olive}{Working \space Papers}$ 
 
-- <a href="/files/Wu_employer_learning_in_CS.pdf" style="color:blue"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
+- <a href="/files/Wu_employer_learning_in_CS.pdf" style="color:blue" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
 
-- <a href="/files/DiAddario_Wu.pdf" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" style="color:black" target="_blank">Sabrina Di Addario</a>) March 2025. 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" style="color:black" target="_blank">Sabrina Di Addario</a>) March 2025. 
 
 
 
 ### $\color{olive}{Publications}$ 
-- <a href="/files/wu_ejr_restat.pdf" target="_blank">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020.
+- <a href="/files/wu_ejr_restat.pdf" target="_self">Gender Bias in Rumors Among Professionals: An Identity-based Interpretation</a> *Review of Economics and Statistics*, 102, 5, pp. 867-880. December 2020.
 
 <!-- <br/>
 <a href="#/" onclick="visib('ejr')">Abstract</a> \| <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BLEBHI" target="_blank">Replication</a> 
@@ -21,7 +21,7 @@ author_profile: true
 This paper measures gender bias in what people say about women versus men in an anonymous online professional forum. I study the content of posts that refer to each gender, and the transitions in the topics of discussion that occur between consecutive posts in a thread once attention turns to one gender or the other. I find that discussions about women tend to highlight their personal characteristics (such as physical appearance or family circumstances) rather than their professional accomplishments. Posts about women are also more likely to lead to deviations from professional topics than posts about men. I interpret these findings through a model that highlights posters’ incentives to boost their own identities relative to the underrepresented out-group in a profession. </div>
 --> 
 
-- <a href="/files/gendered_language_2018.pdf" target="_blank">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
+- <a href="/files/gendered_language_2018.pdf" target="_self">Gendered Language on the Economics Job Market Rumors Forum</a> *AEA Papers and Proceedings*, 108, pp. 175-179. May 2018. 
 
 
 ### $\color{olive}{Coming \space Soon}$ 
@@ -47,7 +47,7 @@ We use the texts of legal complaints from trade secret litigation to study how f
 
 
 ### $\color{olive}{Resting}$
-- <a href="/files/social_skills.pdf" target="_blank">Gender Differences in Returns to Social Skills </a> May 2019. <br/> 
+- <a href="/files/social_skills.pdf" target="_self">Gender Differences in Returns to Social Skills </a> May 2019. <br/> 
 
 
  
