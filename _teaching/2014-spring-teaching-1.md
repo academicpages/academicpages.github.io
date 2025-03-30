@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Fall 2024"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+# venue: "University 1, Department"
+date: 2024
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+-Principles of Programming (compulsory course for freshmen）
+-Introduction to Mathematics in Information Security (compulsory course for freshmen）
+-Blockchain Technology and Its Business Applications (optional course for master students) 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
