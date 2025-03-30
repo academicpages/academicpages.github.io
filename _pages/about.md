@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently an Associate Professor in the Software Engineering Institute at East China Normal University (ECNU). Before joining ECNU, I was a postdoctoral researcher in the Department of Computer Science at the University of Copenhagen (KU), supervised by Dr. Boris Düdder. I received my Bachelor degree in Computer Science and Ph.D degree in Computer Application Technology from Jiangsu University in 2014 and 2019, respectively, supervised by Dr. Liangmin Wang. During my Ph.D. study, I was supported by the CSC as a joint Ph.D. student joining in the School of Computing, Informatics, and Decision Systems Engineering at Arizona State University, supervised by Dr. Guoliang Xue.
+
+**I am actively looking for self-motivated master students to conduct research on data security and privacy protection, with a specific focus on crowdsourcing/mobile crowdsensing and cloud computing. Students who are interested in blockchain-based applications and federated learning are also super welcome!** If you are interested in my research topics, please email me your CV and supporting documents. I hope you have a good Math foundation, programming, and academic writing skills. 
 
 A data-driven personal website
 ======
