@@ -8,7 +8,7 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" style="color:$primary-color" target="_blank">Sabrina Di Addario</a>) March 2025. 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) March 2025. 
 
 
 
@@ -25,12 +25,12 @@ This paper measures gender bias in what people say about women versus men in an 
 
 
 ### $\color{olive}{In \space Progress}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with <a href="https://sites.google.com/view/jacob-weber/home" style="color:black" target="_blank">Jacob Weber</a>)  
+- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)  
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 -->
 
-- Learning about Coworkers: Evidence from Teams of Computer Scientists (with <a href="https://sites.harvard.edu/antonio-coran/" style="color:black" target="_blank">Antonio Coran</a>, <a href="https://www.francescamiserocchi.com/" style="color:black" target="_blank">Francesca Miserocchi</a>, and <a href="https://sites.google.com/view/savannahnoray" style="color:black" target="_blank">Savannah Noray</a>)
+- Learning about Coworkers: Evidence from Teams of Computer Scientists (with Antonio Coran, Francesca Miserocchi, and Savannah Noray)
 
 <!-- 
 <a href="#/" onclick="visib('jmp')">Abstract</a> \| 
