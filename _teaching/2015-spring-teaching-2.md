@@ -1,20 +1,12 @@
 ---
-title: "Teaching experience 2"
+title: "Spring 2024"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate course"
+# permalink: /teaching/2015-spring-teaching-1
+# venue: "University 1, Department"
+date: 2024
+# location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Blockchain Technology and Its Business Applications (optional course for master students) 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
