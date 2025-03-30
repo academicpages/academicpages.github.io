@@ -6,7 +6,7 @@ author_profile: true
 ---
 ### $\color{olive}{Working \space Papers}$ 
 
-- <a href="/files/Wu_employer_learning_in_CS.pdf" target="_blank"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
+- <a href="/files/Wu_employer_learning_in_CS.pdf" style="color:blue"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
 
 - <a href="/files/DiAddario_Wu.pdf" target="_blank">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with <a href="https://scholar.google.com/citations?user=IgkUsgIAAAAJ&hl=en" style="color:black" target="_blank">Sabrina Di Addario</a>) March 2025. 
 
