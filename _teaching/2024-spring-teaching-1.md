@@ -8,7 +8,7 @@ date: 2024
 # location: "City, Country"
 ---
 
--Principles of Programming (compulsory course for freshmen）
--Introduction to Mathematics in Information Security (compulsory course for freshmen）
--Blockchain Technology and Its Business Applications (optional course for master students) 
+- Principles of Programming (compulsory course for freshmen）
+- Introduction to Mathematics in Information Security (compulsory course for freshmen）
+- Blockchain Technology and Its Business Applications (optional course for master students) 
 
