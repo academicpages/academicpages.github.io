@@ -11,7 +11,7 @@ I am a **First-year M.S. student in Electrical and Computer Engineering** at the
 
 My research interest lies in **Generative Models**, **Multi-Modal AI** and their real world applications.
 
-📣 I am actively seeking for **Internship / Summer Research / RA** opportunities and a PhD position starting in 26 Spring/Fall.
+📣 I am actively seeking for PhD positions starting in 26 Spring/Fall.
 
 
 ## 📚 Education  
@@ -24,6 +24,9 @@ My research interest lies in **Generative Models**, **Multi-Modal AI** and their
 
 ## 🔬 Research  
 In my past research, I mainly focus on designing ultra-low bitrate image compression frameworks utilizing generative models (GANs, Diffusion Model, etc). Please refer to my [CV](http://deoxyribonucleic-acid.github.io/files/Ruijie_Chen_CV.pdf) and [Publications](https://scholar.google.com/citations?user=gF5htwwAAAAJ) for more details.
+
+**Mobility Transformation Lab**
+*University of Michigan, Ann Arbor | Research Intern (Feb 2025 - Ongoing)*
 
 **State Key Laboratory of Media Convergence and Communication**  
 *Communication University of China, Beijing | Research Assistant (Nov 2022 – Dec 2024)*  
