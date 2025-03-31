@@ -14,10 +14,10 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research & Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Community"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "For you"
     url: /markdown/
