@@ -12,6 +12,11 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***1st April 2025***
+> 
+> I will be visiting the [Piech lab](https://piechlab.stanford.edu/) until the end of June. 
+
+
 > ***2nd Ocotober 2024***
 > 
 > Our paper ["Evaluating Language Models for Generating and Judging Programming Feedback"](https://arxiv.org/abs/2407.04873) (first author) has been accepted [SIGCSE TS 2025](https://sigcse2025.sigcse.org/).
