@@ -9,14 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Omkar Jadhav"
+title                    : "Portfolio"
 title_separator          : "-"
 name                     : &name "Omkar Jadhav"
-subtitle                 : &subtitle "Senior Researcher at World Bank aided National Hydrology Project"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Geo-Data Scientist"
+url                      : https://omkarjadhav296.github.io/portfolio/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "omkarjadhav296.github.io/portfolio/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Omkar Jadhav"
+  pronouns         : # "he/him"
+  bio              : "Data Scientist with a focus on Geospatial Data Science and Machine Learning. I am a passionate data scientist with a strong background in geospatial analysis and machine learning. I have a keen interest in applying data-driven solutions to real-world problems, particularly in the field of geospatial data science."
+  location         : "Mumbai, India"
+  employer         : "World Bank"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "omkarjadhav296@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
