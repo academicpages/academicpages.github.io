@@ -9,9 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Omkar Jadhav"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Omkar Jadhav"
+subtitle                 : &subtitle "Senior Researcher at World Bank aided National Hydrology Project"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
