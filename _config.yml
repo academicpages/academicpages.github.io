@@ -27,7 +27,7 @@ author:
   avatar           : "profile.png"
   name             : "Omkar Jadhav"
   pronouns         : # "he/him"
-  bio              : "Machine Learning Engineer"
+  bio              : "GeoData Scientist"
   location         : "Mumbai, India"
   employer         : "World Bank"
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   dribbble         : # Username
   github           : "omkarjadhav296"
   kaggle           : # Username  
-  stackoverflow    : "Reflex_180"   
+  stackoverflow    : "reflex-180"   
 
   # Social media
   facebook         : # Username
