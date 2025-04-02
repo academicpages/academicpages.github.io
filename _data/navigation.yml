@@ -15,8 +15,8 @@ main:
     url: /publications/   
 
   - title: "Blogs"
-    url: /year-archive/  
-    
+    url: /your-archive/
+  
   - title: "Resume"
     url: files/OmkarJadhav-Resume.pdf
 

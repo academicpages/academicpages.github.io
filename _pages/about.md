@@ -19,4 +19,4 @@ redirect_from:
 
 * Committed to driving innovation in geospatial science through research, development, and application of cutting-edge machine learning/ deep learning techniques.
 
-![deep learning](/images/about-deep-learning.png)
+!['deep learning'](/images/about-deep-learning.png)
