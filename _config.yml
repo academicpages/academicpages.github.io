@@ -26,7 +26,7 @@ author:
   # Biographic information
   avatar           : 
     file           : "profile.png"
-    dimensions     : [ 60, 60 ]
+    dimensions     : "200x200"
   name             : "Omkar Jadhav"
   pronouns         : "he/him"
   bio              : "GeoData Scientist"
