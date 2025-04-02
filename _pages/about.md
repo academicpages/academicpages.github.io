@@ -18,3 +18,5 @@ redirect_from:
 * Experienced in diverse research applications, including air quality prediction, weather forecasting, disaster risk assessment, crop disease detection, and land-use classification. Strong background in statistical analysis, spatial data visualization, and database management.
 
 * Committed to driving innovation in geospatial science through research, development, and application of cutting-edge machine learning/ deep learning techniques.
+
+![deep learning](/images/about-deep-learning.png)
