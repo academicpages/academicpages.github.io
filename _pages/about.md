@@ -19,4 +19,4 @@ Experienced in diverse research applications, including air quality prediction, 
 
 Committed to driving innovation in geospatial science through research, development, and application of cutting-edge machine learning/ deep learning techniques.
 
-![ Illustration of satellite revolving around earth ](E:\portfolio.github.io\images\About.mp4){: .align-center width= "300px}
+![ Illustration of satellite revolving around earth ](/images/About.mp4){: .align-center width= "300px}
