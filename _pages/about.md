@@ -9,7 +9,7 @@ redirect_from:
 
 ### Geospatial Data Scientist | Remote Sensing & GIS Expert | AI-Expert
 
-* Passionate geospatial data scientist with expertise in remote sensing, GIS, and machine learning. Currently a Senior Research Fellow at Mahatma Phule Agricultural University, contributing to World Bank-aided projects focused on irrigation management and hydrology.
+* Passionate geospatial data scientist with expertise in remote sensing, GIS, and machine learning. Currently a GeoData Scientist at World Bank (India), contributing to  projects focused on irrigation management and benchmarking of irrigation schemes.
 
 * Holds an M.Sc. in Geoinformatics from the University of Twente and the Indian Institute of Remote Sensing, with a research focus on sugarcane crop monitoring using multi-parametric SAR datasets and machine learning.
 
