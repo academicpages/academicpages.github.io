@@ -26,34 +26,28 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Omkar Jadhav"
-  pronouns         : # "he/him"
+  pronouns         : "he/him"
   bio              : "GeoData Scientist"
   location         : "Mumbai, India"
-  employer         : "World Bank"
-  uri              : # URL
+  employer         : "GoM"
   email            : "omkarjadhav296@outlook.com" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : # URL
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "omkarjadhav296"
-  kaggle           : # Username  
-  stackoverflow    : "18486685"   
+  kaggle           : "omkaraj296"  
+  gisstackexchange : "207586"   
 
   # Social media
   facebook         : # Username
-  google_plus      : # Username
   instagram        : # Username
   linkedin         : # Username
-  medium           : # URL
-  twitter          : # Username for X / Twitter
+  medium           : "https://medium.com/@omkarajadhav42"
+  twitter          : "OmkarJa38388467"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -111,9 +105,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 'OmkarJa38388467'
+  username               : # Twitter username (without @)
 facebook:
-  username               :
+  username               : # Facebook username (without @)
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
