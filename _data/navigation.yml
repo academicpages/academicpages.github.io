@@ -20,8 +20,8 @@ main:
   - title: "Blogs"
     url: /year-archive/
     
-  - title: "Guide"
-    url: /markdown/
-
   - title: "Resume"
     url: files/OmkarJadhav-Resume.pdf
+
+  - title: "Guide"
+    url: /markdown/
