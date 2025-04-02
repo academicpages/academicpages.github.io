@@ -24,7 +24,9 @@ repository               : "omkarjadhav296.github.io/portfolio/"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
+    file           : "profile.png"
+    dimensions     : [ 60, 60 ]
   name             : "Omkar Jadhav"
   pronouns         : "he/him"
   bio              : "GeoData Scientist"
