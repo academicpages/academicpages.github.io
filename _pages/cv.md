@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+An extended CV can be found [here](https://sandeep-joy.github.io/_pages/CV_Sandeep_Joy.pdf).
 
 Education
 ======
