@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Research_1
 excerpt: 'Building a machine learning model for estimation of biophysical parameters of sugarcane for both planted and ratoon sugarcane'
-date: #YYYY-MM-DD
+date: 2009-10-01
 venue: 'Indian Institute of Remote Sensing- Indian Space Research Organization'
 slidesurl: #url
 paperurl: #url

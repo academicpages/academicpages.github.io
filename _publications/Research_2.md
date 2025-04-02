@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Research_1
 excerpt: ' Building an ETL pipeline using AWS Glue to extract, transform and 
 load geospatial data into Amazon Redshift for analysis'
-date: #YYYY-MM-DD
+date: 2009-10-01
 venue: 'University of Twente, Netherlands'
 slidesurl: #url
 paperurl: #url
