@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Experience"
-    url: /teaching/    
+  # - title: "Experience"
+  #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
