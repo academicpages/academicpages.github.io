@@ -63,7 +63,7 @@ Talks
 Certifications
 ======
 * May 2023: Google Data Analytics Professional Certificate
-  * Coursera | Commonwealth of Learning, British Columbia, Canada
+  * Coursera, Sponsered by Commonwealth of Learning, British Columbia, Canada
 
 * June 2022: Land in Focus: Agriculture and Food
   * EO College, European Space Agency
