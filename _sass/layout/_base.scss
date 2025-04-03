@@ -139,8 +139,8 @@ a > code,
 figcaption > code,
 li > code,
 p > code,
-pre > code,
 td > code {
+  color: var(--global-code-text-color);
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
@@ -148,12 +148,19 @@ td > code {
   border: 1px solid var(--global-thead-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
-  color: var(--global-code-text-color);
 
   &:before, &:after {
     letter-spacing: -0.2em;
     content: "\00a0"; /* non-breaking space*/
   }
+}
+
+a > code {
+    color: inherit;
+}
+
+pre > code {
+  color: var(--global-code-text-color);
 }
 
 /* horizontal rule */
