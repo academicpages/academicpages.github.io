@@ -26,11 +26,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "CV"
-  #   url: /cv/
-    
   - title: "CV"
-    url: /cv-json/
+    url: /cv/
+    
+  # - title: "CV"
+  #   url: /cv-json/
     
   - title: "Gallary"
     url: /markdown/
