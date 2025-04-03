@@ -4,7 +4,7 @@
 
 .page__footer {
   @include clearfix;
-  background-color: var(--global-bg-color);
+  background-color: var(--global-footer-bg-color);
   color: var(--global-text-color-light);
 
   float: left;
@@ -25,7 +25,7 @@
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
           animation-delay: 0.45s;
-  border-top: 1px solid var(var(--global-border-color));
+  border-top: 1px solid var(--global-dark-border-color);
 
   footer {
     @include clearfix;
