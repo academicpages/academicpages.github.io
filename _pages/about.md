@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Kai is a PhD candidate in the Mechanical and Aerospace Engineering Department at Monash University, specializing in fluid dynamics and Numerical methods. His research focuses on reaveal the physics behind coherent structures in different flow-regiem, with a strong interest in applying innovative engineering solutions to real-world challenges like Rotational-Detonation engine, jet noise masstransport in pipeflow or engine design, etc.. He has developed expertise in computational fluid dynamics (CFD) and Stability analysis, and has collaborated with Univeristy of Michigan to tackle complex engineering problems.
+Zhicheng Kai is a PhD candidate in the Mechanical and Aerospace Engineering Department at Monash University, specializing in fluid dynamics and Numerical methods. His research focuses on revealing the physics behind coherent structures in different flow regimes, with a strong interest in applying innovative engineering solutions to real-world challenges like the Rotational-Detonation engine, jet noise masstransport in pipeflow or engine design, etc.. He has developed expertise in computational fluid dynamics (CFD) and Stability analysis and has collaborated with the University of Michigan to tackle complex engineering problems.
 
-Zhicheng holds a Master's in Mechanical Engineering from University of Michigan, where he was a member of [Towne Flow Modelling and Control Lab](https://atowne.com/).
+Zhicheng holds a Master's in Mechanical Engineering from the University of Michigan, where he was a member of [Towne Flow Modelling and Control Lab](https://atowne.com/).
 
 Current Ongoing Research
 ======
