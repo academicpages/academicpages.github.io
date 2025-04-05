@@ -67,7 +67,7 @@ de esta casa que se convierte,
 con precisión arquitectónica,  
 en museo de la ausencia.
 
-En el cuarto de Arduino,  
+En el cuarto de Arduino I,  
 sus zapatillas deportivas —último bastión  
 de su materialidad adolescente—  
 se desvanecen con la misma cadencia  
