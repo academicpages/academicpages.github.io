@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Zhicheng Kai is a Master's student in the Department of Mechanical Engineering at the University of Michigan and a member of the Tau Beta Pi honor society. Before, joining UoM, he received a B.S. in Mechanical Engineering at Rose-Hulman Institute of Technology. 
+Zhicheng Kai is a PhD candidate in the Mechanical and Aerospace Engineering Department at Monash University, specializing in fluid dynamics and Numerical methods. His research focuses on reaveal the physics behind coherent structures in different flow-regiem, with a strong interest in applying innovative engineering solutions to real-world challenges like Rotational-Detonation engine, jet noise masstransport in pipeflow or engine design, etc.. He has developed expertise in computational fluid dynamics (CFD) and Stability analysis, and has collaborated with Univeristy of Michigan to tackle complex engineering problems.
+
+Zhicheng holds a Master's in Mechanical Engineering from University of Michigan, where he was a member of [Towne Flow Modelling and Control Lab](https://atowne.com/).
 
 Current Ongoing Research
 ======
-Zhicheng Kai is currently a member of [Towne Lab](https://www.researchgate.net/lab/Towne-Lab-Aaron-Towne), working on "Toward data-driven transient growth analysis" with Peter Frame and Aaron Towne.
+Zhicheng Kai is currently a member of [Shock Lab]([https://www.researchgate.net/lab/Towne-Lab-Aaron-Towne](https://daniel.edgington-mitchell.com/the-team/), working on "Harmonic resolvent analysis on periodic-shock-containing crossflow and jet interaction".
 
-Toward data-driven transient growth analysis
-------
