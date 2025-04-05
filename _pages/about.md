@@ -14,5 +14,5 @@ Zhicheng holds a Master's in Mechanical Engineering from University of Michigan,
 
 Current Ongoing Research
 ======
-Zhicheng Kai is currently a member of [Shock Lab]([https://www.researchgate.net/lab/Towne-Lab-Aaron-Towne](https://daniel.edgington-mitchell.com/the-team/), working on "Harmonic resolvent analysis on periodic-shock-containing crossflow and jet interaction".
+Zhicheng Kai is currently a member of [Shock Lab](https://daniel.edgington-mitchell.com/the-team/), working on "Harmonic resolvent analysis on periodic-shock-containing crossflow and jet interaction".
 
