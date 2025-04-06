@@ -12,7 +12,7 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 ## 2025 
 * **Achieving Fairness Generalizability for Learning-based Congestion Control with Jury**<br>
 Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
-To appear in *European Conference on Conputer Systems (EuroSys)*, 2025. 
+In *European Conference on Conputer Systems (EuroSys)*, 2025. 
 
 ## 2024
 * **Shopping MMLU: A Massive Multi-Task Online Shopping Benchmark for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.20745)\]\[[data](https://github.com/KL4805/ShoppingMMLU)\]\[[slides](https://kl4805.github.io/files/ShoppingMMLU.pdf)\]<br>
