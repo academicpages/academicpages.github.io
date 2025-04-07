@@ -47,6 +47,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
+  <li>03/2025: Invited talk at <a href="https://bostonsymmetry.github.io/">Boston Symmetry Day</a>.</li>
   <li>11/2024: <a href="https://equidiff.github.io/">Equivariant Diffusion Policy</a> is nominated as an Outstanding Paper Award Finalist at CoRL 2024!</li>
   <li>10/2024: Robin and I presented <a href="https://www.youtube.com/watch?v=MU6wpz_8kEA">Pushing the Limits of Equivariant Neural Networks</a> at the <a href="https://www.neurreps.org/speaker-series">NeurReps Speaker Series</a> at MIT.</li>
   <li>09/2024: Three papers are accepted at CoRL 2024, <a href="https://equidiff.github.io/">Equivariant Diffusion Policy</a> is accepted as an oral presentation.</li>
@@ -128,6 +129,13 @@ document.addEventListener("DOMContentLoaded", function() {
   display: none;
 }
 </style>
+
+![](images/boce_push_grasp.png){: .align-right width="200px"}
+<a href="https://arxiv.org/pdf/2504.03053" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
+Boce Hu\*, Heng Tian\*, **Dian Wang<sup><i class="fa-regular fa-envelope"></i></sup>**, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2504.03053','_blank')">PDF</button>
+<br>
 
 ![](images/haibo_hep.png){: .align-right width="200px"}
 <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
