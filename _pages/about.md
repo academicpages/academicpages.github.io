@@ -14,7 +14,7 @@ Here are my [Resume](https://zy199402.github.io/files/CV.pdf) and [Google Schola
 
 Contact Information
 ======
-My email address is "zy199402 _at_ live.com".
+My email address is "zy199402_at_ live.com".
 
 Research Interest
 ======
