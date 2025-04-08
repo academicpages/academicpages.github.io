@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a project researcher (postdoc) at Kavli IPMU, University of Tokyo. I will be in the job market for the tenure track positions this year. 
+I am an associate professor (tenure track) at Beijing Institute of Technology. 
 
 Here are my [Resume](https://zy199402.github.io/files/CV.pdf) and [Google Scholar](https://scholar.google.com/citations?user=Nl4q45AAAAAJ&hl=zh-CN&oi=sra), where detailed records of publications are also included. 
 
 Contact Information
 ======
-My email address is "yu.zhao _at_ ipmu.jp".
+My email address is "zy199402 _at_ live.com".
 
 Research Interest
 ======
