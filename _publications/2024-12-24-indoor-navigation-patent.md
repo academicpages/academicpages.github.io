@@ -11,6 +11,8 @@ citation: 'Ren, J. (2024). A Real-Time High-Precision Pedestrian Navigation Meth
 
 [View on CNIPA website (Chinese)](http://epub.cnipa.gov.cn/cred/CN112946323B)
 
+[View on Google Patents (English)](https://patents.google.com/patent/CN112946323A/en)
+
 This invention discloses a real-time dynamic high-precision pedestrian navigation method, device, and related components. The method includes:
 
 1. obtaining the user's starting position and target position in an indoor environment;
@@ -18,5 +20,3 @@ This invention discloses a real-time dynamic high-precision pedestrian navigatio
 3. and revising and optimizing the optimal walking route based on the displacement information until the user reaches the target position.
 
 This invention generates the optimal pedestrian navigation route for users in indoor environments and adjusts and optimizes the navigation route based on the user's displacement information, thereby improving the accuracy of indoor pedestrian navigation.
-
-Google Patents hasn't pulled the granted version but the initial publication record (`CN112946323A`) in English can be found [here](https://patents.google.com/patent/CN112946323A/en).
