@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Momina'a Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Momina L. Ali"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://github.com/MominaAli07.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MominaAli07/mominaliaqatali.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,29 +23,29 @@ repository               : "MominaAli07/mominaliaqatali.github.io"
 author:
   # Biographic information
   avatar           : "profilePic.png"
-  name             : "Momina L. Ali"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Computational and Data Science"
-  location         : "Tennessee, USA"
-  employer         : "Middle Tennessee State University"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  #email            : "none@example.org" 
+  email            : "none@example.org" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=FXrC-T4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0180-6965"
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Momina-Liaqat-Ali-2?ev=hdr_xprf"
+  researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MominaAli07"
+  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -59,9 +59,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/mominaliaqatali"
+  linkedin         : # Username
   mastodon         : # URL
-  medium           : "https://medium.com/@ma2mp"
+  medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
