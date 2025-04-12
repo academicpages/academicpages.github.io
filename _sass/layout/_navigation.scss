@@ -84,7 +84,7 @@
       text-align: center;
       text-decoration: none;
       color: var(--global-text-color-light);
-      border: 1px solid var(var(--global-border-color));
+      border: 1px solid var(--global-border-color);
       border-radius: 0;
 
       &:hover {
@@ -132,7 +132,7 @@
     text-align: center;
     text-decoration: none;
     color: var(--global-text-color-light);
-    border: 1px solid var(var(--global-border-color));
+    border: 1px solid var(--global-border-color);
     border-radius: $border-radius;
 
     &:hover {
@@ -409,7 +409,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: var(--global-text-color-light);
+    color: var(--global-code-text-color);
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
