@@ -7,10 +7,10 @@
 main:
 
   # - title: "Publications"
-    # url: /publications/
+  #   url: /publications/
 
-  # - title: "Essays"
-    # url: /year-archive/
+  - title: "Essays"
+    url: /year-archive/
 
   # - title: "Talks"
     # url: /talks/
