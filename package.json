@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://daviddhc20120601.github.io",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host 0.0.0.0",
     "build": "vite build",
     "lint": "eslint vite_refactor/academic-site --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
