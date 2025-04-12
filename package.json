@@ -27,9 +27,16 @@
     "fitvids": "^2.1.1",
     "jquery": "^3.7.1",
     "jquery-smooth-scroll": "^2.2.0",
-    "magnific-popup": "^1.2.0"
+    "magnific-popup": "^1.2.0",
+    "react-markdown": "^10.1.0",
+    "react-router-dom": "^7.5.0",
+    "rehype-raw": "^7.0.0",
+    "rehype-sanitize": "^6.0.0",
+    "remark-gfm": "^4.0.1",
+    "vite-plugin-markdown": "^2.2.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "onchange": "^7.1.0",
     "uglify-js": "^3.17.4"
   },
