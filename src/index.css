@@ -64,7 +64,7 @@ a:hover {
   box-shadow: var(--shadow-md);
   border-radius: 8px;
   overflow: hidden;
-  margin: 20px auto;
+  margin: 0 auto 20px; /* Changed from 20px auto to 0 auto 20px */
   background-color: white;
   contain: content;
 }
@@ -84,7 +84,7 @@ header {
   position: sticky;
   top: 0;
   z-index: 100;
-  margin-bottom: 20px;
+  margin-bottom: 0; /* Changed from 20px to 0 */
   contain: layout;
   will-change: transform;
 }
@@ -155,7 +155,7 @@ nav a.active {
 
 /* Enhanced Oval Profile Image */
 .profile-image {
-  width: 240px;
+  width: 120px;
   height: 180px;
   border-radius: 40%;
   object-fit: cover;
@@ -601,8 +601,8 @@ nav a.active {
   }
 
   .profile-image {
-    width: 200px;
-    height: 150px;
+    width: 160px;
+    height: 240px;
   }
 
   nav {
