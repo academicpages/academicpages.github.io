@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Sidebar from "./components/Sidebar";
 import Home from "./pages/Home";
 import MarkdownPage from "./components/MarkdownPage";
+import React from "react";
 
 function App() {
   return (
@@ -23,6 +24,10 @@ function App() {
           </Routes>
         </main>
       </div>
+        <footer className="footer">
+          <p>© 2025 Haidong Chen</p>
+          <p>All rights reserved.</p>
+        </footer>
     </BrowserRouter>
   );
 }

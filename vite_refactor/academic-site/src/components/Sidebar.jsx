@@ -7,30 +7,26 @@ export default function Sidebar() {
       <div className="sidebar-content">
         <img
           src="/profile.png"
-          alt="Profile"
+          alt="Haidong Chen"
           className="profile-image"
           onError={(e) => e.target.src = 'https://via.placeholder.com/200'}
         />
         <h2>Haidong Chen</h2>
-        <p className="title">AI engineer</p>
-          <p className="department">Haidong (David) Chen focuses on AIGC(Gen-AI) solutions and includes but not restricted to E-commerce Industry Solutions and Compliance, Cloud Native, and Data and Web3.0.</p>
-        {/*<p className="department">Department of Computer Science</p>*/}
-        {/*<p className="university">University of Science and Technology of China</p>*/}
-
-        {/*<div className="contact-info">*/}
-        {/*  <p><strong>Email:</strong> hchen@example.edu</p>*/}
-        {/*  <p><strong>Office:</strong> Science Building, Room 3112</p>*/}
-        {/*  <p><strong>Address:</strong><br />*/}
-        {/*     Department of Computer Science<br />*/}
-        {/*     University of Science and Technology<br />*/}
-        {/*     Hefei, Anhui 230026, China</p>*/}
-        {/*</div>*/}
+        <p className="title">Director of Solution Architecture</p>
+        <p className="bio-text">
+          Focused on Gen-AI solutions, E-commerce Industry Solutions,
+          Cloud Native, Data Infrastructure, and Web3.0 technologies.
+        </p>
 
         <div className="social-links">
-          <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <a href="">linkedin</a>
-          {/*<a href="https://scholar.google.com/" target="_blank" rel="noopener noreferrer">Google Scholar</a>*/}
-          {/*<a href="/files/cv.pdf" target="_blank" rel="noopener noreferrer">CV</a>*/}
+          <a href="https://github.com/daviddhc20120601" target="_blank" rel="noopener noreferrer" className="social-link">
+            <i className="social-icon github-icon"></i>
+            <span>GitHub</span>
+          </a>
+          <a href="https://www.linkedin.com/in/davidhaidongchen/" target="_blank" rel="noopener noreferrer" className="social-link">
+            <i className="social-icon linkedin-icon"></i>
+            <span>LinkedIn</span>
+          </a>
         </div>
       </div>
     </div>
