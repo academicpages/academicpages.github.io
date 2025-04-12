@@ -18,7 +18,7 @@ services:
     ports:
       - "5173:5173"
     command: >
-      ssh -c "mkdir -p src/components src/pages public/content/pages &&
+      ssh -c "
                     npm install &&
                     npm run dev -- --host 0.0.0.0 --port 5173"
     environment:
