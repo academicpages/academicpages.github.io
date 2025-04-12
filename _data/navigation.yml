@@ -9,6 +9,9 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
+  - title: "Bio"
+    url: /background/
+
   - title: "Essays"
     url: /year-archive/
 
