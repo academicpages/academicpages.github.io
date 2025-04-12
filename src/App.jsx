@@ -1,13 +1,13 @@
 // src/App.jsx
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import Header from "./components/Header";
-import Sidebar from "./components/Sidebar";
-import Home from "./pages/Home";
-import Publications from "./pages/Publications";
-import Publication from "./pages/Publication";
-import Talks from "./pages/Talks";
-import Talk from "./pages/Talk";
-import MarkdownPage from "./components/MarkdownPage";
+import Header from "./components/Header.jsx";
+import Sidebar from "./components/Sidebar.jsx";
+import Home from "./pages/Home.jsx";
+import Publications from "./pages/Publications.jsx";
+import Publication from "./pages/Publication.jsx";
+import Talks from "./pages/Talks.jsx";
+import Talk from "./pages/Talk.jsx";
+import MarkdownPage from "./components/MarkdownPage.jsx";
 import React from "react";
 
 function App() {

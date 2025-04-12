@@ -1,5 +1,5 @@
 ---
-title: "research"
+title: "Research"
 
 ---
 

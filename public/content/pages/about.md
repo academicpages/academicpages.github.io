@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Haidong Chen
+# haidong
 
 is a Director of Solution Architecture with over 7 years of experience in generative AI, infrastructure, data, security, and wallet. He has a proven track record of delivering successful projects and leading large teams, achieving exceptional results.
 

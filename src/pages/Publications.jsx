@@ -1,7 +1,7 @@
 // src/pages/Publications.jsx
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { getMarkdownFiles } from '../utils/MarkdownService';
+import { getMarkdownFiles } from '../utils/MarkdownService.js';
 
 export default function Publications() {
   const [publications, setPublications] = useState([]);

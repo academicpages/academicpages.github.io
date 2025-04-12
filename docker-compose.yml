@@ -1,10 +1,28 @@
 version: '3.8'
 
 services:
-  mywebsite:
-    build: .
-    ports:
-      - "4000:4000"
+#  # Production remote build
+#  prod:
+#
+#  # build gh-page with gh-pages -d dist
+#  web:
+#
+#
+
+  # Development service with hot reload
+  dev:
+    image: node:20-alpine
+    working_dir: /app
     volumes:
-      - .:/usr/src/app
-    command: ["jekyll", "serve", "-H", "0.0.0.0", "-w", "--config", "_config.dev.yml,_config.yml"]
+      - .:/app
+      - node_modules:/app/node_modules
+    ports:
+      - "5173:5173"
+    command: >
+      sh -c "      npm install &&
+                    npm run dev -- --host 0.0.0.0 --port 5173"
+    environment:
+      - NODE_ENV=development
+
+volumes:
+  node_modules:

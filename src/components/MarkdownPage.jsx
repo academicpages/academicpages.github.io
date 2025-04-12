@@ -11,6 +11,7 @@ export default function MarkdownPage({ filePath }) {
   const [parsedSections, setParsedSections] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState(null);
+  const [pageTitle, setPageTitle] = useState('');
   const contentRef = useRef(null);
   const location = useLocation();
 
@@ -28,9 +29,21 @@ export default function MarkdownPage({ filePath }) {
 
         let text = await response.text();
 
-        // Remove frontmatter before displaying content
+        // Extract frontmatter
         const frontmatterRegex = /^---\n([\s\S]*?)\n---/;
-        text = text.replace(frontmatterRegex, '');
+        const match = text.match(frontmatterRegex);
+
+        // Extract title from frontmatter if available
+        if (match) {
+          const frontmatter = match[1];
+          const titleMatch = frontmatter.match(/title:\s*["']?(.*?)["']?(\n|$)/);
+          if (titleMatch) {
+            setPageTitle(titleMatch[1].trim());
+          }
+
+          // Remove frontmatter before displaying content
+          text = text.replace(frontmatterRegex, '');
+        }
 
         setContent(text);
 
@@ -111,6 +124,12 @@ export default function MarkdownPage({ filePath }) {
   if (useStyledFormat) {
     return (
       <div ref={contentRef} className="home-container">
+        {pageTitle && (
+          <div className="page-header">
+            <h1 className="page-title">{pageTitle}</h1>
+          </div>
+        )}
+
         {parsedSections.map((section, index) => {
           if (section.type === 'bio-section') {
             return (
@@ -141,15 +160,22 @@ export default function MarkdownPage({ filePath }) {
     );
   }
 
-  // For non-styled pages, render as normal markdown
+  // For non-styled pages, render as normal markdown with title
   return (
-    <div ref={contentRef} className="markdown-content">
-      <ReactMarkdown
-        rehypePlugins={[rehypeRaw, rehypeSanitize]}
-        remarkPlugins={[remarkGfm]}
-      >
-        {content}
-      </ReactMarkdown>
+    <div>
+      {pageTitle && (
+        <div className="page-header">
+          <h1 className="page-title">{pageTitle}</h1>
+        </div>
+      )}
+      <div ref={contentRef} className="markdown-content">
+        <ReactMarkdown
+          rehypePlugins={[rehypeRaw, rehypeSanitize]}
+          remarkPlugins={[remarkGfm]}
+        >
+          {content}
+        </ReactMarkdown>
+      </div>
     </div>
   );
 }
