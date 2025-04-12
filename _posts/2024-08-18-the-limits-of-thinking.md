@@ -44,7 +44,7 @@ This can lead to misunderstandings about probability, such as gamblers believing
 
 Let's demonstrate the benefit of thinking in limits by applying it to a famous brain teaser that's based on an old game show scenario: the Monty Hall problem.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "an optional title")
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/3/3f/Monty_open_door.svg "Monty Hall setup")
 
 ### The Monty Hall problem
 
