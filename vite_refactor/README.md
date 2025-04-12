@@ -11,6 +11,8 @@ cd academic-site
 npm install
 ```
 
+- added credentials in remote
+
 ## 2. Add Markdown support
 
 ```bash
