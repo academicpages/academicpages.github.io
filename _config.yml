@@ -2,6 +2,7 @@
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
+
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. 
 # If you change this file, please restart the server process.
@@ -10,7 +11,7 @@
 locale                   : "en-US"
 title                    : "Onno Kampman"
 title_separator          : "-"
-name                     : &name "Onno Pepijn Kampman"
+name                     : &name "Onno Kampman"
 description              : &description "Cognitive Scientist"
 url                      : https://onnokampman.github.io  # the base hostname & protocol for your site
 baseurl                  : ""  # the subpath of your site, e.g. "/blog"
@@ -49,7 +50,7 @@ author:
 #  name             : "Onno Kampman"
   avatar           : "onno_cambridge.JPG"  # placed in /images/
 #  bio              : "Cognitive Scientist"
-#  location         : "Cambridge, United Kingdom"
+#  location         : "Singapore"
   email            : "opk20@cam.ac.uk"
   uri              :
 
@@ -62,6 +63,7 @@ author:
   # Repositories and software development
   github           : "OnnoKampman"
   gitlab           :
+  huggingface      : "OnnoKampman"
   stackoverflow    : "https://stackoverflow.com/users/5938762/onno-kampman"
 
   # Social media
