@@ -1,4 +1,8 @@
-# Research
+---
+title: "research"
+
+---
+
 
 My research focuses on developing novel visualization techniques for complex data analysis. I am particularly interested in the intersection of data visualization, human-computer interaction, and machine learning.
 

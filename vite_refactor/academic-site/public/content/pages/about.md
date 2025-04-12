@@ -1,6 +1,16 @@
+---
+title: "Haidong Chen"
+permalink: /
+excerpt: "About me"
+author_profile: true
+redirect_from:
+  - /about/
+  - /about.html
+---
+
 # Haidong Chen
 
-Haidong Chen is a Director of Solution Architecture with over 7 years of experience in generative AI, infrastructure, data, security, and wallet. He has a proven track record of delivering successful projects and leading large teams, achieving exceptional results.
+is a Director of Solution Architecture with over 7 years of experience in generative AI, infrastructure, data, security, and wallet. He has a proven track record of delivering successful projects and leading large teams, achieving exceptional results.
 
 Haidong led a team of 40 people at Alibaba Group responsible for data, security, and infrastructure, delivering the World Cup Cricket ICC T20 Livestream event on Daraz, and reducing hosting costs by 30%. He built and released the Generative AI product "Chat with PDF" (HaidongGPT) as an official product on Alibaba Cloud, and developed a data mid-platform for a world-leading automotive company at Capgemini.
 

@@ -5,16 +5,22 @@ import { Link, useLocation } from 'react-router-dom';
 export default function Header() {
   const location = useLocation();
 
+  // Function to determine active status with exact matching for home
+  const isActive = (path) => {
+    if (path === '/') {
+      return location.pathname === '/';
+    }
+    return location.pathname === path || location.pathname.startsWith(`${path}/`);
+  };
+
   return (
     <header>
       <nav>
-        <Link to="/" className={location.pathname === '/' ? 'active' : ''}>Home</Link>
-        <Link to="/about" className={location.pathname === '/about' ? 'active' : ''}>About</Link>
-        <Link to="/research" className={location.pathname === '/research' ? 'active' : ''}>Research</Link>
-        <Link to="/publications" className={location.pathname === '/publications' ? 'active' : ''}>Publications</Link>
-        <Link to="/teaching" className={location.pathname === '/teaching' ? 'active' : ''}>Teaching</Link>
-        <Link to="/talks" className={location.pathname === '/talks' ? 'active' : ''}>Talks</Link>
-        <Link to="/cv" className={location.pathname === '/cv' ? 'active' : ''}>CV</Link>
+        <Link to="/" className={isActive('/') ? 'active' : ''}>Home</Link>
+        <Link to="/about" className={isActive('/about') ? 'active' : ''}>About</Link>
+        <Link to="/publications" className={isActive('/publications') ? 'active' : ''}>Publications</Link>
+        <Link to="/talks" className={isActive('/talks') ? 'active' : ''}>Talks</Link>
+        <Link to="/research" className={isActive('/research') ? 'active' : ''}>Research</Link>
       </nav>
     </header>
   );
