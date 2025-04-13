@@ -10,7 +10,7 @@ redirect_from:
 
 <p style="text-align:justify"> I am a Quantitative Researcher in Cambridge, MA. I work at QLS Advisors, an investment manager that is dedicated to improving outcomes for both healthcare investors and patients. The company was founded in 2019 by MIT Professor Andrew W. Lo and Shomesh E. Chaudhuri. </p>
 
-<p style="text-align:justify"> Previously, I was a software engineer at Siemens Digital industries software working on computational geometry for the Parasolid geometric kernel used in many CAD/CAE/CAM packages.</p>
+<p style="text-align:justify"> I have previous experiences in software engineering, teaching and research. </p>
 
 <p style="text-align:justify"> I obtained a BSc in Mathematics at Imperial College London and an MSc in Mathematical Sciences at the University of Oxford. In England, my research interests were mostly in differential geometry, computational algebra and graph theory. I spent summers at CMAP (working on tropical geometry), at MIP MIS (working on SDPs) and "back home" at Imperial and Oxford.</p>
 
