@@ -9,56 +9,26 @@ redirect_from:
 
 {% include base_path %}
 
+Contact
+======
+**Emails:** <br />
+202200130240@mail.sdu.edu.cn <br />
+oiertangfuzhi@gmail.com <br />
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in [Computer Science and Technology](https://www.cs.sdu.edu.cn/), [Shandong University](https://bkjx.sdu.edu.cn/), 2022-present
 
-Work experience
+Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ICPC (The International Collegiate Programming Contest)
+  * The 2023 ICPC Asia Macau Regional Contest, Bronze Medal
+  * The 2023 ICPC Asia Hefei Regional Contest, Silver Medal
+* CCPC (China Collegiate Programming Contest)
+  * The 2024 CCPC Shandong Province Contest, Gold Medal
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  [DewaterGAN: A Physics-Guided Unsupervised Image Water Removal for UAV in Coastal Zone](https://ieeexplore.ieee.org/document/10720144) <br />IEEE Transactions on Geoscience and Remote Sensing<br />
+  Fengqin Yao, **Fuzhi Tang**, Xiandong Wang, Yuzhen Wang, Shengke Wang, Guoqiang Zhong, Jingfeng Zhang
