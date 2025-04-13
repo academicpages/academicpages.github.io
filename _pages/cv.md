@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV.pdf](https://THEWEAKEST.github.io/files/cv(Fuzhi Tang).pdf)
+[CV.pdf](https://THEWEAKEST.github.io/files/CV(Fuzhi Tang).pdf)
 
 Contact
 ======
