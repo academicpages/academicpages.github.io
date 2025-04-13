@@ -216,7 +216,6 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-@@ -221,129 +221,129 @@
     output: true
     permalink: /:collection/:path/
   talks:
