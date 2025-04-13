@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[CV.pdf](https://THEWEAKEST.github.io/files/cv(Fuzhi Tang).pdf)
+
 Contact
 ======
 **Emails:** <br />
@@ -23,8 +25,8 @@ Education
 Awards
 ======
 * ICPC (The International Collegiate Programming Contest)
-  * The 2023 ICPC Asia Macau Regional Contest, Bronze Medal
-  * The 2023 ICPC Asia Hefei Regional Contest, Silver Medal
+  * [The 2023 ICPC Asia Macau Regional Contest, Bronze Medal](https://THEWEAKEST.github.io/files/2024-ICPC Asia Macau RC-Tang Fuzhi-MEDAL.pdf)
+  * [The 2023 ICPC Asia Hefei Regional Contest, Silver Medal](https://THEWEAKEST.github.io/files/2024ICPCHefeiRegional.pdf)
 * CCPC (China Collegiate Programming Contest)
   * The 2024 CCPC Shandong Province Contest, Gold Medal
 
