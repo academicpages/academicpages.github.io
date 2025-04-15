@@ -13,7 +13,7 @@ Particular topics I have worked on include the effective field theory (EFT) of g
 What follows is a summary of my work, in roughly chronological order.
 To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
 
-# Infrared Causality
+### Infrared Causality
 
 As a field theory, GR is a non-renormalisable theory &mdash; this is source of the tension between QFT and GR. 
 It indicates that one should make sense of this within the EFT framework, with the Einstein-Hilbert action being the leading contribution to the full effective action.
@@ -37,7 +37,7 @@ Within the semiclassical approximation, it looks like stronger bounds on the Wil
 We consider this possibility by studying scattering on pp-wave backgrounds (which includes successive shockwaves). 
 We clarify that within the eikonal, semiclassical, and Born approximations the aforementioned tighter bounds are not possible within the regimes of validity of the respective approximations and the EFT itself.
   
-# Deformations of Extremal Black Holes
+### Deformations of Extremal Black Holes
 
 Black holes are ubiquitous objects in our universe, that (in four dimensions) can be characterised by their mass, charge, and angular momentum. 
 Physical black holes satisfy certain inequalities that put upper limits on their charge and angular momentum, and black holes saturating these are known as extremal black holes.
@@ -50,7 +50,7 @@ We clarify that the apparent UV sensitivity is not due to a breakdown of EFT, bu
 This is demonstrated by an example of a partial UV completion.
 We also discuss a speculative bound on EFT Wilson coefficients linked to the weak gravity conjecture.
 
-# Electromagnetic Duality and Higher-Spin Gravity
+### Electromagnetic Duality and Higher-Spin Gravity
 
 Maxwell theory in vacuum has a curious symmetry known as electromagnetic duality.
 Exchanging the electric and magnetic field exchanges the equation of motion and the Bianchi identity &mdash; this is therefore an on-shell symmetry.
@@ -65,7 +65,7 @@ In my work with Karapet Mkrtchyan, Euihun Joung, and Junggi Yoon, I use this to 
 These are boundary degrees of freedom of 3D higher-spin gravity after appropriate reduction. 
 Eventually, the goal is to achieve the same for gravity and higher-spins in $D=4$ and higher. 
 
-# Extremal Black Branes
+### Extremal Black Branes
 
 Black branes are extended versions of black holes in higher dimensions with translation-invariant horizons.
 These feature prominently as classical solutions within supergravity, and *e.g.* play a role in the microstate counting of black hole entropy in string theory.
@@ -78,7 +78,7 @@ We extend previous arguments to show that these determine the scaling of tidal d
 Furthermore, we use heuristic arguments to show that the spectrum also determines how transverse derivatives of mixed gravitational and higher-form perturbations on the horizon scale at in null time at late times.
 We are able to confirm that extremal black branes also suffer from the Aretakis instability even in the absence of additional fields, albeit generically less than the extremal black holes.
 
-# $T\overline{T} Deformations and JT Gravity
+### $T\overline{T} Deformations and JT Gravity
 
 Lower-dimensional systems offer unique opportunities for studying quantum aspects of gravity. 
 In ongoing work with Andrew J. Tolley, I am exploring $T\overline{T}$-deformed theories coupled to JT gravity.
