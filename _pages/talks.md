@@ -7,7 +7,7 @@ author_profile: true
 
 Below you can find some information on talks I have given in the past, in roughly anti-chronological order.
 
-## Covariant Actions for 2D Chiral Scalars
+### Covariant Actions for 2D Chiral Scalars
 
 Based on [2501.16463](https://arxiv.org/abs/2501.16463) in collaboration with K. Mkrtchyan, E. Joung, and J. Yoon.
 
@@ -23,7 +23,7 @@ I've had the chance to give this seminar on the following occasions:
 
 For the most recent slides on this, see [here](../files/talks/democracy_slides.pdf).
 
-## Extremal Black Holes 
+### Extremal Black Holes 
 
 Based on [2408.05549](https://arxiv.org/abs/2408.05549) in collaboration with C. de Rham and A. J. Tolley. 
 
@@ -41,7 +41,7 @@ I've had the chance to give this seminar on the following occasions:
 
 For the most recent slides on this, see [here](../files/talks/extremality_slides.pdf).
 
-## Stacking and Balancing Casual Causality
+### Stacking and Balancing Casual Causality
 
 Based on [2112.05031](https://arxiv.org/abs/2112.05031) and [2309.04534](https://arxiv.org/abs/2309.04534) in collaboration with C. de Rham, A. Margalit, and A. J. Tolley. 
 
@@ -64,7 +64,7 @@ I've had the chance to give this seminar on the following occasions:
 
 For the most recent slides on this, see [here](../files/talks/causality_slides.pdf).
 
-## A Cautionary Case of Casual Causality
+### A Cautionary Case of Casual Causality
 
 I also gave an earlier version of this talk, without the discussion on multiple sources, on the following occasions: 
 
@@ -73,7 +73,7 @@ I also gave an earlier version of this talk, without the discussion on multiple 
 - SCGSC 2022, University of Amsterdam, May 2022
 - Theory group PhD student seminar, Imperial College London, May 2022 
 
-## Miscellaneous
+### Miscellaneous
 
 I have also given (informal) introductory talks on topics that I find interesting, but am not working on directly (at the time!).
 Here are a few examples: 
