@@ -9,8 +9,8 @@ redirect_from:
 
 My research interests lie broadly in gravity and field theory, with a strong emphasis on formal theory. 
 Particular topics I have worked on include the effective field theory (EFT) of gravity, extremal black holes and black branes, electric-magnetic duality in gravity, and $T\overline{T}$-deformed theories.  
-What follows is a roughly chronological summary of my work.
 
+What follows is a summary of my work, in roughly chronological order.
 To see my latest publications, see [INSPIRE](https://inspirehep.net/authors/1993699).
 
 ## Infrared Causality
