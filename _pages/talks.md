@@ -5,7 +5,23 @@ permalink: /talks/
 author_profile: true
 ---
 
-Below you can find some information on talks I have given in the past.
+Below you can find some information on talks I have given in the past, in roughly anti-chronological order.
+
+## Covariant Actions for 2D Chiral Scalars
+
+Based on [2501.16463](https://arxiv.org/abs/2501.16463) in collaboration with K. Mkrtchyan, E. Joung, and J. Yoon.
+
+>**Abstract**: Theories enjoying electromagnetic duality and fields obeying (anti-)self-duality relations are intimately connected and ubiquitous in theoretical physics. Prominent examples are e.g. electromagnetism and gravity, and the 4-form in type-IIB supergravity. A long-standing problem has been to formulate actions describing such theories with manifest duality.
+>
+>In the first part of this talk, I will introduce electromagnetic duality and generalisations of it using familiar examples. I will review early action formulations with manifest duality at the expense of manifest covariance, and then present recent developments on actions with manifest duality and covariance.
+>
+>In the second part of this talk, I will focus on applying one such formulation to boundary degrees of freedom in AdS_3 (higher-spin) gravity. These are higher-order scalars, which also satisfy self-duality equations.
+
+I've had the chance to give this seminar on the following occasions:
+
+- String Theory Seminar, National Taiwan University, Apr 2025
+
+For the most recent slides on this, see [here](../files/talks/democracy_slides.pdf).
 
 ## Extremal Black Holes 
 
@@ -17,8 +33,9 @@ Based on [2408.05549](https://arxiv.org/abs/2408.05549) in collaboration with C.
 
 I've had the chance to give this seminar on the following occasions:
 
-- Research seminar, ITMP Moscow State University, Dec 2024
-- Theory Colloquium, Imperial College London, Jul 2024
+- [GAnG seminar](https://www.seresearch.qmul.ac.uk/cgag/events/4872/gang-seminar-calvin-chen-rescheduled-deformations-of-extremal-black-holes/), Queen Mary University London, Mar 2025
+- [Research seminar](https://www.youtube.com/watch?v=toqzB8xBpnw), ITMP Moscow State University, Dec 2024
+- [Theory Colloquium](https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/), Imperial College London, Jul 2024
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
 
@@ -36,14 +53,14 @@ Based on [2112.05031](https://arxiv.org/abs/2112.05031) and [2309.04534](https:/
 
 I've had the chance to give this seminar on the following occasions:
 
-- String Phenomenology Online Seminar Series, Feb 2024
-- Astrophysics Seminar, YITP Kyoto University, Nov 2023
+- [String Phenomenology Online Seminar Series](https://www.youtube.com/watch?v=EpC5f9V8IZ0), Feb 2024
+- [Astrophysics Seminar](https://www.yukawa.kyoto-u.ac.jp/seminar/s53207?lang=en-GB), YITP Kyoto University, Nov 2023
 - Group Seminar, Kindai University, Nov 2023
 - Research seminar, ITMP Moscow State University, Oct 2023
 - Theory seminar, Carnegie Mellon University, Oct 2023
-- Particle theory seminar, Case Western Reserve University, Sep 2023
+- [Particle theory seminar](https://physics.case.edu/events/calvin-y-chen-imperial-college-london/), Case Western Reserve University, Sep 2023
 - Group seminar, National Taiwan University, Aug 2023
-- GR seminar, University of Cambridge, May 2023 
+- [GR seminar](https://talks.cam.ac.uk/talk/index/199522), University of Cambridge, May 2023 
 
 For the most recent slides on this, see [here](../files/talks/causality_slides.pdf).
 
@@ -51,7 +68,7 @@ For the most recent slides on this, see [here](../files/talks/causality_slides.p
 
 I also gave an earlier version of this talk, without the discussion on multiple sources, on the following occasions: 
 
-- Copernicus Webinar series, Oct 2022
+- [Copernicus Webinar series](https://indico.global/event/10033/contributions/95772/), Oct 2022
 - Gravity, YITP Kyoto University, Jun 2022
 - SCGSC 2022, University of Amsterdam, May 2022
 - Theory group PhD student seminar, Imperial College London, May 2022 
