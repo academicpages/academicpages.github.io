@@ -78,7 +78,7 @@ We extend previous arguments to show that these determine the scaling of tidal d
 Furthermore, we use heuristic arguments to show that the spectrum also determines how transverse derivatives of mixed gravitational and higher-form perturbations on the horizon scale at in null time at late times.
 We are able to confirm that extremal black branes also suffer from the Aretakis instability even in the absence of additional fields, albeit generically less than the extremal black holes.
 
-### $T\overline{T} Deformations and JT Gravity
+### $T\overline{T}$ Deformations and JT Gravity
 
 Lower-dimensional systems offer unique opportunities for studying quantum aspects of gravity. 
 In ongoing work with Andrew J. Tolley, I am exploring $T\overline{T}$-deformed theories coupled to JT gravity.
