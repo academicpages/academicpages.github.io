@@ -8,7 +8,7 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025.  <br/>
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) March 2025. 
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) April 2025. 
 
 
 
@@ -25,7 +25,7 @@ This paper measures gender bias in what people say about women versus men in an 
 
 
 ### $\color{olive}{In \space Progress}$ 
-- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)  
+- The Labor Market Signaling Value of Open Source Contributions (with Jacob Weber)   
 <!-- 
 Does the rise in open-source software development provide an opportunity for software developers and engineers to signal their ability to potential employers, and is this signaling value higher for workers from less advantaged backgrounds? We answer this question by matching open-source contributions on GitHub to employment outcomes from LinkedIn. We investigate whether workers increase open-source contributions before changing jobs. In particular, we examine whether the effects of this activity on labor market outcomes, such as moving into a higher-paid job, are stronger for workers from less advantaged education and demographic backgrounds. </div>
 -->
