@@ -112,10 +112,10 @@ export default function MarkdownPage({ filePath }) {
   };
 
   if (isLoading) return (
-    <div className="loading-container">
-      <div className="loading-spinner"></div>
-      <p>Loading content...</p>
-    </div>
+      <div className="loading-container">
+        <div className="loading-spinner"></div>
+        <p>Loading content...</p>
+      </div>
   );
 
   if (error) return <div className="error-message">Error: {error}</div>;
@@ -123,59 +123,59 @@ export default function MarkdownPage({ filePath }) {
   // Render with Home.jsx-like styling for about/research pages
   if (useStyledFormat) {
     return (
-      <div ref={contentRef} className="home-container">
-        {pageTitle && (
-          <div className="page-header">
-            <h1 className="page-title">{pageTitle}</h1>
-          </div>
-        )}
+        <div ref={contentRef} className="home-container">
+          {pageTitle && (
+              <div className="page-header">
+                <h1 className="page-title">{pageTitle}</h1>
+              </div>
+          )}
 
-        {parsedSections.map((section, index) => {
-          if (section.type === 'bio-section') {
-            return (
-              <section key={index} className="bio-section">
-                <ReactMarkdown
-                  rehypePlugins={[rehypeRaw, rehypeSanitize]}
-                  remarkPlugins={[remarkGfm]}
-                >
-                  {section.content}
-                </ReactMarkdown>
-              </section>
-            );
-          } else {
-            return (
-              <section key={index} className={section.type}>
-                <h2>{section.title}</h2>
-                <ReactMarkdown
-                  rehypePlugins={[rehypeRaw, rehypeSanitize]}
-                  remarkPlugins={[remarkGfm]}
-                >
-                  {section.content}
-                </ReactMarkdown>
-              </section>
-            );
-          }
-        })}
-      </div>
+          {parsedSections.map((section, index) => {
+            if (section.type === 'bio-section') {
+              return (
+                  <section key={index} className="bio-section">
+                    <ReactMarkdown
+                        rehypePlugins={[rehypeRaw, rehypeSanitize]}
+                        remarkPlugins={[remarkGfm]}
+                    >
+                      {section.content}
+                    </ReactMarkdown>
+                  </section>
+              );
+            } else {
+              return (
+                  <section key={index} className={section.type}>
+                    <h2>{section.title}</h2>
+                    <ReactMarkdown
+                        rehypePlugins={[rehypeRaw, rehypeSanitize]}
+                        remarkPlugins={[remarkGfm]}
+                    >
+                      {section.content}
+                    </ReactMarkdown>
+                  </section>
+              );
+            }
+          })}
+        </div>
     );
   }
 
   // For non-styled pages, render as normal markdown with title
   return (
-    <div>
-      {pageTitle && (
-        <div className="page-header">
-          <h1 className="page-title">{pageTitle}</h1>
+      <div>
+        {pageTitle && (
+            <div className="page-header">
+              <h1 className="page-title">{pageTitle}</h1>
+            </div>
+        )}
+        <div ref={contentRef} className="markdown-content">
+          <ReactMarkdown
+              rehypePlugins={[rehypeRaw, rehypeSanitize]}
+              remarkPlugins={[remarkGfm]}
+          >
+            {content}
+          </ReactMarkdown>
         </div>
-      )}
-      <div ref={contentRef} className="markdown-content">
-        <ReactMarkdown
-          rehypePlugins={[rehypeRaw, rehypeSanitize]}
-          remarkPlugins={[remarkGfm]}
-        >
-          {content}
-        </ReactMarkdown>
       </div>
-    </div>
   );
 }
