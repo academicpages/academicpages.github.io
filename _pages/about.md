@@ -12,6 +12,9 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* 15th April 2025: Rob-Eyles et al. 2025 - _The kangaroo's first hop: the early fast cooling phase of EP250108a/SN 2025kg_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.08886).
+* 15th April 2025: Rastinejad et al. 2025 - _EP 250108a/SN 2025kg: Observations of the most nearby Broad-Line Type Ic Supernova following an Einstein Probe Fast X-ray Transient_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.08889).
+* 9th April 2025: Wallace and Sarin 2025 - _A detailed dive into fitting strategies for GRB afterglows with contamination: A case study with kilonovae_ accepted in MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2504.08887).
 * 31st March 2025: Li et al. 2025 - _The Nature of Optical Afterglows Without Gamma-ray Bursts: Identification of AT2023lcr and Multiwavelength Modeling_ accepted in ApJ. Check it out on [arXiv](https://arxiv.org/abs/2411.07973). 
 * 19th March 2025: Lamb et al. 2025 - _Prompt Periodicity in the GRB 211211A Precursor: Black-hole or magnetar engine?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2503.15613).
 * 18th March 2025: Miller et al. 2025 - _The La Silla Schmidt Southern Survey_ submitted to PASP. Check it out on [arXiv](https://arxiv.org/abs/2503.14579).
