@@ -1,49 +1,50 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+**Ying Zhou (周影)** is currently an Associate Researcher at the Advanced Institute of Natural Sciences, Beijing Normal University at Zhuhai. Before joining BNUZH, she was a postdoctoral research fellow at Department of Civil Engineering, The University of Hong Kong (2019-2022). She received her Ph.D. degree in environmental engineering from The University of Hong Kong in 2019. Her research is concerned with the decontamination of micropollutants in the soil-water environments, and nano adsorbent design and optimization for pollution control and resource recovery. Her research has been published in leading peer-reviewed journals, including ***Environmental Science & Technology, Journal of Hazardous Materials, Chemical Engineering Journal***, among others. Additionally, she has secured multiple research grants, including the National Natural Science Foundation of China (Youth Program), Foreign Expert Program as well as provincial-level funding.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## Research Interests:
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* Remediation Technologies for Heavy Metal Pollution Control in Soil-Water Environments
+* Mineral-Water Interface Processes and Their Environmental Effects
+* Environmental Materials and Green Low-Carbon Resource Recycling
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<style>
+p.highlight {
+  background-color: rgba(0, 0, 255, 0.1);
+  padding: 1em;
+  border-radius: 10px;
+}
+</style>
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<p class="highlight">
+<b><font color="red">Hiring:</font></b> I'm actively recruiting self-motivated Ph.D. and Master students (Fall 2026), and Research Assistants. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective Ph. D. students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
+<br>
+Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
+<br>
+</p>
 
-**Markdown generator**
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Selected Publications:
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* <b>Zhou Ying</b>, Zhang, J. L., Liao, C. Z., Chan, T. S., Lu, Y. R., Chuang, Y. C., Chang, C. K. & Shih, K. _Environmental Science & Technology_,  2020, 54, 11, 69376946.
+  - ><p style="color:#8A2BE2">Pb stabilization by a new chemically-durable orthophosphate phase: insights into molecular mechanism with X-ray structural analysis.</p>
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+* <b>Zhou Ying</b>, Ma, S., Lin, P., Liao, C., Kao, C., Chen, M., Su, M., & Shih, K. _Chemical Engineering Journal_, 2024, 500, 157456.
+  - ><p style="color:#8A2BE2">Eco-friendly synthesized zeolitic imidazolate framework-8 enables one-step cerium recovery from water.</p>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+* <b>Zhou Ying</b>, Tang, Y., Liao, C., Su, M. & Shih, K. _Journal of Hazardous Materials_, 2023, 448, 130977.
+  - ><p style="color:#8A2BE2">Recent advances toward structural incorporation for stabilizing heavy metal contaminants: A critical review.</p>
+
+* <b>Zhou Ying</b>, Liao, C. Z., Shih, K., Tan, GYA & Su, M. H. _Waste Management_, 2022, 143, 232-241.
+  - ><p style="color:#8A2BE2">Incorporation of lead into pyromorphite: effect of anion replacement on lead stabilization.</p>
+
+* <b>Zhou Ying</b>, Fan, Y. A., Zhang, J. L., Liao, C. Z., Su, M. H., Chan, T. S., Lu, Y. R., Chang, C. K., Tan, GYA. & Shih, K. _Separation and Purification Technology_, 2021, 278, 119595.
+  - ><p style="color:#8A2BE2">Topological tuning of two-dimensional polytriazine imides by halide anions for selective lead removal from wastewater.</p>
