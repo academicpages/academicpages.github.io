@@ -8,7 +8,7 @@ redirect_from:
   - /gmyh.html
 ---
 
-{% include base_path %}
+
 
 
 ------   
