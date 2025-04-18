@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Brief Intro"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**Ying Zhou (周影)** is currently an Associate Researcher at the Advanced Institute of Natural Sciences, Beijing Normal University at Zhuhai. Before joining BNUZH, she was a postdoctoral research fellow at Department of Civil Engineering, The University of Hong Kong (2019-2022). She received her Ph.D. degree in environmental engineering from The University of Hong Kong in 2019. Her research is concerned with the decontamination of micropollutants in the soil-water environments, and nano adsorbent design and optimization for pollution control and resource recovery. Her research has been published in leading peer-reviewed journals, including ***Environmental Science & Technology, Journal of Hazardous Materials, Chemical Engineering Journal***, among others. Additionally, she has secured multiple research grants, including the National Natural Science Foundation of China (Youth Program), Foreign Expert Program as well as provincial-level funding.
+**Ying Zhou (周影)** is currently an Associate Researcher at the [Advanced Institute of Natural Sciences](https://zkgyy.bnu.edu.cn/), [Beijing Normal University](https://www.bnu.edu.cn/) at Zhuhai. Before joining [BNUZH](https://www.bnuzh.edu.cn/), she was a postdoctoral research fellow at Department of Civil Engineering, The University of Hong Kong (2019-2022). She received her Ph.D. degree in environmental engineering from The University of Hong Kong in 2019. Her research is concerned with the decontamination of micropollutants in the soil-water environments, and nano adsorbent design and optimization for pollution control and resource recovery. Her research has been published in leading peer-reviewed journals, including ***Environmental Science & Technology, Journal of Hazardous Materials, Chemical Engineering Journal***, among others. Additionally, she has secured multiple research grants, including the National Natural Science Foundation of China (Youth Program), Foreign Expert Program as well as provincial-level funding.
 
 
 ## Research Interests:
@@ -27,7 +27,7 @@ p.highlight {
 <p class="highlight">
 <b><font color="red">Hiring:</font></b> I'm actively recruiting self-motivated Ph.D. and Master students (Fall 2026), and Research Assistants. If interested, please feel free to send an email with your information (e.g., resume, transcripts, research proposal, and publications if any). Perspective Ph. D. students are highly encouraged to apply to my Research Assistant positions first. You can have a close look at my research group, and we can also try to find common research interests before you start your research career.
 <br>
-Please read this <a href="/files/recruitment.pdf">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.pdf">此文件</a>以及<a href="https://mp.weixin.qq.com/s/kGbDvr4dETnFxBlCPOQ3vg">公众号文章</a>. 
+Please read this <a href="/files/recruitment.docx">file</a> for more details (in Chinese). 招聘详情请参考<a href="/files/recruitment.docx">此文件</a>. 
 <br>
 </p>
 
