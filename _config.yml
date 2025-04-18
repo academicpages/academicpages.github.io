@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default"
-title                    : "Zhejian Lai / Site Title"
+title                    : "Zhejian Lai's README"
 title_separator          : "-"
 name                     : &name "Zhejian Lai"
 description              : &description "personal description"
@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Zhejian Lai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "🎓 Master's student specializing in Natural Language Processing (NLP). 🔍 Research interests include large language models (LLMs) inference, synthetic data, and multilingual LLMs."
+  location         : "Nanjing, China"
   employer         : "Nanjing University"
-  uri              : # URL
+  uri              : "https://www.cnblogs.com/DreamW1ngs"
   email            : "laizj@smail.nju.edu.cn" 
 
   # Academic websites
