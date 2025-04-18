@@ -2,7 +2,7 @@
 layout: archive
 title: "GMYH"
 permalink: /gmyh/
-author_profile: true
+author_profile: false
 redirect_from:
   - /gmyh
   - /gmyh.html
