@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "GMYH"
+title: ""
 permalink: /gmyh/
 author_profile: false
 redirect_from:
