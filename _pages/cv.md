@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-<embed src="http://laizhejian.github.io/files/cv.pdf" type="application/pdf" width="100%" height="80vh">
+<embed src="http://laizhejian.github.io/files/cv.pdf" type="application/pdf" width="100%" height="100%">
