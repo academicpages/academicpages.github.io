@@ -73,5 +73,6 @@ redirect_from:
 30. 阳台上水、下水设置以及水管铺设图。  
 
 
+<iframe src="https://docs.google.com/viewer?url=https://github.com/lix19937/lix19937.github.io/raw/master/_pages/whgj_gs.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
 
 
