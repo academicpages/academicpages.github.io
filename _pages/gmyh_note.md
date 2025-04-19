@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-`业主代表每次6-12人左右（原则上采取不同的业主进行轮换）`
+**业主代表每次6-12人左右（原则上采取不同的业主进行轮换）**    
 
 1. 家书定期每月更新一次，公示工程进度、材料质量检验检查、下一步计划等内容。
 
@@ -72,7 +72,8 @@ redirect_from:
 
 30. 阳台上水、下水设置以及水管铺设图。  
 
-
+<!-- if you see here, you are the best! -->   
+<!-- 
 <iframe src="https://docs.google.com/viewer?url=https://github.com/lix19937/lix19937.github.io/blob/master/_pages/whgj_gs.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
-
-
+PDF Embed API使得用户可以在浏览器中直接预览PDF文档，无需下载文件。然而，它依赖于Google Docs Viewer，因此对于某些PDF文件可能会有兼容性问题      
+-->   
