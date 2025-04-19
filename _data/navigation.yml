@@ -9,8 +9,8 @@ main:
   - title: "Guide"
     url: /guide/  
 
-  #- title: "GMYH"
+  - title: "GMYH"
     url: /gmyh/    
     
   - title: "gmyh_note"
-    url:/gmyh_note/
+    url:/note/
