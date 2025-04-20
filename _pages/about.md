@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Zhejian Lai (赖哲剑)"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a Master's student at the [School of Computer Science](https://cs.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). I received my B.Sc. degree in 2023, and during my undergraduate years, I actively participated in several programming competitions such as <strong>ICPC</strong> and <strong>CCPC</strong>. Furthermore, I was honored to be admitted to pursue my M.Sc. degree at [Nanjing University](https://www.nju.edu.cn/) without entrance examination. Currently, I am a member of the [NJUNLP Group](http://nlp.nju.edu.cn/homepage/), working under the supervision of Prof. [Shujian Huang](http://nlp.nju.edu.cn/huangsj/).
+
+<div style="color: red; font-size: 1.5em; font-weight: bold; line-height: 1.4; margin-top: 30px;">   Looking for Ph.D. positions for Fall 2026!<br>   If you have any opportunities,<br>   please feel free to contact me. </div>
+
+Feel free to follow me on my social media platforms listed in the sidebar. If you're interested in collaborating, don’t hesitate to reach out!
 
 A data-driven personal website
 ======
