@@ -90,7 +90,29 @@ $(document).ready(function () {
   }); 
 
   // add lightbox class to all image links
-  $("a[href$='.jpg'],a[href$='.jpeg'],a[href$='.JPG'],a[href$='.png'],a[href$='.gif']").addClass("image-popup");
+  // Add "image-popup" to links ending in image extensions,
+  // but skip any <a> that already contains an <img>
+  $("a[href$='.jpg'],\
+  a[href$='.jpeg'],\
+  a[href$='.JPG'],\
+  a[href$='.png'],\
+  a[href$='.gif'],\
+  a[href$='.webp']")
+      .not(':has(img)')
+      .addClass("image-popup");
+
+  // 1) Wrap every <p><img> (except emoji images) in an <a> pointing at the image, and give it the lightbox class
+  $('p > img').not('.emoji').each(function() {
+    var $img = $(this);
+    // skip if it’s already wrapped in an <a.image-popup>
+    if ( ! $img.parent().is('a.image-popup') ) {
+      $('<a>')
+        .addClass('image-popup')
+        .attr('href', $img.attr('src'))
+        .insertBefore($img)   // place the <a> right before the <img>
+        .append($img);        // move the <img> into the <a>
+    }
+  });
 
   // Magnific-Popup options
   $(".image-popup").magnificPopup({
