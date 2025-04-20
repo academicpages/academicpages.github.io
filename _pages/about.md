@@ -36,12 +36,12 @@ Publications
 <strong>Note</strong>: * indicates the corresponding author.
 
 * Alleviating Distribution Shift in Synthetic Data for Machine Translation Quality Estimation
-  ([arxiv](https://arxiv.org/pdf/2502.19941))
+  ( [arxiv](https://arxiv.org/pdf/2502.19941) )
 * Why Not Transform Chat Large Language Models to Non-English
-  ([arxiv](https://arxiv.org/pdf/2405.13923))
+  ( [arxiv](https://arxiv.org/pdf/2405.13923) )
 * Unify word-level and span-level tasks: NJUNLP’s Participation for the WMT2023 Quality Estimation Shared Task
-  ([PDF](https://aclanthology.org/2023.wmt-1.71.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe))
+  ( [PDF](https://aclanthology.org/2023.wmt-1.71.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe) )
 * Improved pseudo data for machine translation quality estimation with constrained beam search, EMNLP 2023 Long Paper
-  ([PDF](https://aclanthology.org/2023.emnlp-main.764.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe))
+  ( [PDF](https://aclanthology.org/2023.emnlp-main.764.pdf)&ensp;[Code](https://github.com/NJUNLP/njuqe) )
 
 [Click here for details](http://resume.laizj.fun/publications/)
