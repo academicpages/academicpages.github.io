@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Philander Smith University, 2022 
+* M.S. in Human-Computer Interaction, Carnegie Mellon University, 2026 (expected)
+* Ph.D in Human-Computer Interaction, Carnegie Mellon University, 2027 (expected)
 
 Work experience
 ======
