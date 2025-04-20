@@ -3,9 +3,19 @@
    ========================================================================== */
 
 $(document).ready(function () {
-  // Set the theme on page load
+  // detect OS/browser preference
+  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
+    ? 'dark'
+    : 'light';
+
+  // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
-    const use_theme = theme || localStorage.getItem("theme") || $("html").attr("data-theme");
+    const use_theme =
+      theme ||
+      localStorage.getItem("theme") ||
+      $("html").attr("data-theme") ||
+      browserPref;
+
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
       $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
@@ -13,19 +23,28 @@ $(document).ready(function () {
       $("html").removeAttr("data-theme");
       $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
     }
-  }
+  };
+
   setTheme();
 
-  // Toggle the theme
+  // if user hasn't chosen a theme, follow OS changes
+  window
+    .matchMedia('(prefers-color-scheme: dark)')
+    .addEventListener("change", (e) => {
+      if (!localStorage.getItem("theme")) {
+        setTheme(e.matches ? "dark" : "light");
+      }
+    });
+
+  // Toggle the theme manually
   var toggleTheme = function () {
     const current_theme = $("html").attr("data-theme");
     const new_theme = current_theme === "dark" ? "light" : "dark";
     localStorage.setItem("theme", new_theme);
     setTheme(new_theme);
-  }
-  $('#theme-toggle').on('click', function () {
-    toggleTheme();
-  });
+  };
+
+  $('#theme-toggle').on('click', toggleTheme);
 
   // These should be the same as the settings in _variables.scss
   const scssLarge = 925; // pixels
