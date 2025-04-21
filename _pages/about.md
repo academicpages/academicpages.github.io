@@ -17,9 +17,10 @@ My research interests are in **Computational Advertising** and **Generative AI**
 
 News
 =====
-* Jul. 2024: [Creative] Our *GenAI-powered Ad Creative* team was named a Top-8 candidate for the 2024 Baidu Highest Award ("百度最高奖"候选Top8). 
-* Aug. 2023: [Ranking] Our paper about *multi-scenario pretraining* for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
-* May. 2023: [Strategy] A first-authored paper about *impression pacing* with reinforcement learning for brand ads was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
+* Jan. 2025: My paper about latent diffusion for diversifying ad text generation was accepted at WWW 2025 Companion.  
+* Jul. 2024: Our GenAI-powered Ad Creative team was named a Top-8 candidate for the 2024 Baidu Highest Award ("百度最高奖"候选Top8). 
+* Aug. 2023: Our paper about multi-scenario pretraining for ad ranking was accepted at CIKM 2023. <a href="https://arxiv.org/pdf/2302.02636.pdf" target="_blank">[Paper]</a>     
+* May. 2023: A first-authored paper about reinforcement learning for impression pacing in brand advertising was accepted at KDD 2023. <a href="https://arxiv.org/pdf/2302.02592.pdf" target="_blank">[Paper]</a>    
 
 
 Experience and Education
@@ -27,10 +28,10 @@ Experience and Education
 **[Experience](experience/)**  
 
 * **Sep. 2023 -- Present.** Staff MLE, Search Ads @ Baidu Inc.   
-Working on developing large language models to build Baidu's next-generation search ads system.
+Working on developing cutting-edge LLM technologies for ad creative generation with algorithm-system co-design, as well as exploring the next generation of creative ranking models.   
 
 * **Jul. 2021 -- Sep. 2023.** Algorithm Expert (Senior MLE), Ad Tech @ Alibaba Group.   
-Worked on large-scale retrieval, ranking and generation models to improve ad revenue.    
+Worked on debiased and calibrated ranking, billion-scale GNN-based retrieval and RL-based ad pacing.     
 
 **Education**  
 
@@ -68,4 +69,4 @@ Misc
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Sep. 2024_
+_Last Updated: Jan. 2025_
