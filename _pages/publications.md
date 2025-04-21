@@ -15,7 +15,7 @@ author_profile: true
 
 * **IDEATION: Diversifying Ad Text Generation in Sponsored Search with Latent Diffusion**  
 **Penghui Wei**  
-**WWW '25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper. Sydney, NSW, Australia, April 28-May 2, 2025.  
+**WWW ’25** Companion: Companion Proceedings of the ACM Web Conference 2025, Short Research Paper. Sydney, NSW, Australia, April 28-May 2, 2025.  
 
 * **CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning**  
 **Penghui Wei**, Xuanhua Yang, Shaoguo Liu, Liang Wang, Bo Zheng  
