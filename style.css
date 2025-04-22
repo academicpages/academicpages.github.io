@@ -138,8 +138,8 @@ h2 {
 
 .thumbnail {
   width: 100%;
-  max-width: 200px;
-  max-height: 120px;
+  max-width: 500px;
+  max-height: 300px;
   border-radius: 6px;
   object-fit: cover;
 }
