@@ -1,0 +1,113 @@
+:root {
+  --bg: #fdfdfd;
+  --text: #13294B; /* UIUC Blue */
+  --link: #FF5F05; /* UIUC Orange */
+  --highlight: #fef6f1;
+  --accent: #d44500;
+}
+[data-theme='dark'] {
+  --bg: #1e1e1e;
+  --text: #e0e0e0;
+  --link: #ff7f33;
+  --highlight: #2b2b2b;
+  --accent: #ff7f33;
+}
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  transition: background 0.3s, color 0.3s;
+}
+header {
+  background: var(--bg);
+  padding: 2rem;
+  text-align: center;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+header img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+header h1 {
+  margin-bottom: 0.25rem;
+}
+header p {
+  margin: 0.25rem 0;
+  color: var(--text);
+}
+nav {
+  margin-top: 1rem;
+}
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: var(--link);
+  font-weight: bold;
+}
+#toggle-theme {
+  cursor: pointer;
+  background: none;
+  border: 1px solid var(--link);
+  color: var(--link);
+  padding: 0.25rem 0.75rem;
+  border-radius: 6px;
+  margin-left: 10px;
+}
+section {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+h2 {
+  color: var(--text);
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+.highlight {
+  background: var(--highlight);
+  padding: 1rem;
+  border-left: 4px solid var(--link);
+  margin: 1rem 0;
+  border-radius: 10px;
+  transition: transform 0.3s;
+}
+.highlight:hover {
+  transform: scale(1.01);
+}
+.highlight img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+.button {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin-top: 1rem;
+  background: var(--link);
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.thumbnail {
+  width: 100%;
+  max-width: 120px;
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+}
+.news-item {
+  margin-bottom: 0.75rem;
+}
+#news-more {
+  display: none;
+}
+footer {
+  text-align: center;
+  padding: 2rem;
+  font-size: 0.9rem;
+  color: #aaa;
+}
