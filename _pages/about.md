@@ -33,6 +33,8 @@ Using various environmental sensors like the DHT11, attaching them to a plant po
 ### Jansen Linkage Walker 🚙
 An ESP32-powered robot that walks with legs (just like us!) using the famous Jansen linkage ratio.
 
+
+
 ## How I Can Help 👯
 
 **Technical Proficiencies:**
