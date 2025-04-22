@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* **Balboa High School**
+* **Balboa High School** 3.98 UW 4.18 W
+* **UC Berkeley** Genetics and Plant Biology Major
 
 Work experience
 ======
