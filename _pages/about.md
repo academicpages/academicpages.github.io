@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I'm Majid🌿"
+title: "🌿Majid Rebouh🌿"
 author_profile: true
 redirect_from: 
   - /about/
