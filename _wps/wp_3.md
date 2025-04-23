@@ -1,13 +1,16 @@
 ---
-title: "Flexible Bayesian MIDAS: time‑variation, group‑shrinkage and sparsity. [WP](https://www.bankofengland.co.uk/working-paper/2023/flexible-bayesian-midas-time-variation-group-shrinkage-and-sparsity)"
+title: "To-select-or-not. [WP]"
 collection: wps
-year: 'revise and resubmit at Journal of Business and Economic Statistics' 
+year: '2025' 
 excerpt: ''
-coauthors: "with G. Potjagailo"
-journal: 'Bank of England Staff WP Series'
-issue: ',2023'
+coauthors: "with A. Riha, Aki Vehtari"
+journal: 'tbd'
+issue: ',2025'
 ---
-<p align="justify"> <b>Abstract.</b> We propose a mixed‑frequency regression prediction approach that models a time‑varying trend, stochastic volatility and fat tails in the variable of interest. The coefficients of high‑frequency indicators are regularised via a shrinkage prior that accounts for the grouping structure and within‑group correlation among lags. A new sparsification algorithm on the posterior motivated by Bayesian decision theory derives inclusion probabilities over lag groups, thus making the results easy to communicate without imposing sparsity a priori. An empirical application on nowcasting UK GDP growth suggests that group‑shrinkage in combination with the time‑varying components substantially increases nowcasting performance by reading signals from an economically meaningful subset of indicators, whereas the time‑varying components help by allowing the model to switch between indicators. Over the data release cycle, signals initially stem from survey data and then shift towards few ‘hard’ real activity indicators. During the Covid pandemic, the model performs relatively well since it shifts towards indicators for the service and housing sectors that capture the disruptions from economic lockdowns.
+<p align="justify"> <b>Abstract.</b> Model selection is a commonly suggested approach for mitigating the risk of poor generalisation or overfitting in a range of modelling scenarios, especially when models of increasing complexity are investigated. 
+    Bayesian modelling workflows often require the consideration of different candidate models, and approaches for model selection in the Bayesian framework aim to support the modeller in navigating potential trade-offs between model complexity and generalisability of the results to yet unobserved data. 
+    In this work, we propose a change of perspective towards choosing generative priors, instead of relying on model selection after the fact.
+    We revisit the issue of overfitting, and clarify why model selection is not necessarily needed and can even be harmful in some modelling scenarios with finite data. 
+    When integrating over the posterior and using generatively consistent priors, even if those priors can be considered weakly informative, we can safely use flexible models with a large number of parameters.
+    We illustrate the relevance of appropriate prior choices, as well as the limitations and alternatives for model selection in different modelling tasks in simulated and real-data examples.
 </p>
-
-[**BoE - WP**](https://www.bankofengland.co.uk/working-paper/2023/flexible-bayesian-midas-time-variation-group-shrinkage-and-sparsity).
