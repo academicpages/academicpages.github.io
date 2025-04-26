@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "images/1711405648833.jfif"
+  name             : "Brandon"
+  pronouns         : # "he/him"  
+  bio              : "Im just trying to finish this assignment"
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "University of Houston"
+  uri              : # https://www.linkedin.com/in/brandon-miramontes-4796a12b3/
+  email            : "bymiramo@cougarnet.uh.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
