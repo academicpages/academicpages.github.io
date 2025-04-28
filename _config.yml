@@ -12,6 +12,7 @@ site_theme               : "default"
 title                    : "Mohammad Sediq Abazari Academic webpage"
 title_separator          : "-"
 name                     : &name "Mohammad.S Abazari"
+
 description              : &description "personal description"
 url                      : https://Mabazari.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +24,6 @@ repository               : "Mabazari/webpage.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Mohammad Sediq"
   pronouns         : "He/his"  
   bio              : "In Love With Family and Computer"
   location         : "Iran(For Now)"
@@ -74,6 +74,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
