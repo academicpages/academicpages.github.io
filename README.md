@@ -20,6 +20,11 @@ See more info at https://academicpages.github.io/
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
 1. Clone the repository and made updates as detailed above.
+
+### Using the DevContainer in VS Code
+If you are using VS Code you can use the DevContainer that comes with this Repository. Normally VS Code detects that a DevContainer Config is available and asks you if you want to use the DevContainer. If this doesn't happen you can manually start the DevContainer by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the Container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+
+### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
     
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
