@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am Mohammad Sediq Abazari, a Computer Engineering graduate specializing in Computer Networks from Ferdowsi University of Mashhad, one of Iran’s top five universities. I also hold a Bachelor's degree in Computer Software Engineering from Bojnourd University, where I graduated with an A GPA.
+
+My research interests include Communication Systems, Machine Learning, Artificial Intelligence, and Intent-Based Networking. For my Master's thesis, I focused on predicting power consumption in networks using machine learning techniques, contributing to the field of intent-based networking.
+
+I have two years of professional experience at SunAir Research Institute, where I worked on the simulation and implementation of drone communication systems and applied machine learning algorithms to optimize network performance and power prediction.
+
+With a strong passion for computer science, I am committed to advancing technology in intelligent communication networks and AI-driven solutions.
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
