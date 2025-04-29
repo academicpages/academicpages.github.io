@@ -18,7 +18,7 @@ Publications
 ---
 <ol>
   <li>
-Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) <i>International Studies Quarterly</i> (<a href = https://academic.oup.com/isq/article/69/2/sqaf032/8118923>link</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">ungated</a>) 
+Innovation and Interdependence: The Case of Gene-Editing Technology (with <a href="https://www.tylerbpratt.com/" >Tyler Pratt</a>) <i>International Studies Quarterly</i> (<a href = "https://academic.oup.com/isq/article/69/2/sqaf032/8118923">link</a>) (<a href= "https://cobrienudry.github.io/files/Genes_Oct24.pdf">ungated</a>) 
 <details>
   <summary><i>Abstract</i></summary>
   
