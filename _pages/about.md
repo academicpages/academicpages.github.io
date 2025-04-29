@@ -1,7 +1,8 @@
 ---
 permalink: /
-title: " "
-excerpt: " "
+
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +17,7 @@ Education
 2019 **PhD**, Neuroscience Center Zurich (ZNZ), University of Zurich and ETH Zurich, Switzerland<br>
 2014 **MS**, National Taiwan University, Taiwan<br>
 2010 **BS**, China Medical University, Taiwan
+
 
 
 Bio  <a href="https://drive.google.com/file/d/1wPsGIdhGPTzao9tjaeOibYhgvG0w3zLN/view?usp=sharing" style="color: black;">(CV)</a>
@@ -47,3 +49,4 @@ Hsu PH, Chiu YC, **Lin TF**, Jeng CJ\*. Ca2+-binding protein centrin 4 is a nove
 **Lin TF**, Jow GM, Fang HY, Fu SJ, Wu HH, Chiu MM, Jeng CJ\*. The eag domain regulates the voltage-dependent inactivation of rat eag1 k+ channels. *PLoS One*. 2014. <a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0110423&type=printable" style="color: black;">link</a>
 
 **Lin TF**, Lin IW, Chen SC, Wu HH, Yang CS, Fang HY, Chiu MM, Jeng CJ\*. The subfamily-specific assembly of Eag and Erg K+ channels is determined by both the amino and the carboxyl recognition domains. *J Biol Chem*. 2014. <a href="https://www.jbc.org/action/showPdf?pii=S0021-9258%2820%2933085-4" style="color: black;">link</a>
+

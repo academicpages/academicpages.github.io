@@ -1,0 +1,36 @@
+name: Scrape Talk Locations
+
+on:
+  push:
+    paths:
+      - 'talks/**'
+      - 'talkmap.ipynb'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.9'  # Specify the Python version you need
+
+    - name: Install dependencies
+      run: |
+        pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
+        pip install getorg --upgrade
+
+    - name: Run Jupyter Notebook
+      run: |
+        jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
+
+    - name: Commit changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Automated update of talk locations" || echo "No changes to commit"
+        git push
