@@ -23,4 +23,4 @@ My work has been published or accepted at journals such as <span class="emphasiz
 
 
 
-Looking for information about political scientists' efforts to support foreign aid after the USAID funding cuts? Subscribe to \url{polisciUSAID@illinois.edu} by sending an email to sympa@lists.illinois.edu with the subject line "subscribe polisciUSAID Firstname Lastname."
+Looking for information about political scientists' efforts to support foreign aid after the USAID funding cuts? Subscribe to <a href = "polisciUSAID@illinois.edu">polisciUSAID@illinois.edu</a> by sending an email to sympa@lists.illinois.edu with the subject line "subscribe polisciUSAID Firstname Lastname."
