@@ -21,9 +21,6 @@ When you are initially working on your website, it is very useful to be able to 
 
 1. Clone the repository and made updates as detailed above.
 
-### Using the DevContainer in VS Code
-If you are using VS Code you can use the DevContainer that comes with this Repository. Normally VS Code detects that a DevContainer Config is available and asks you if you want to use the DevContainer. If this doesn't happen you can manually start the DevContainer by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the Container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
 ### Using a different IDE
 1. Make sure you have ruby-dev, bundler, and nodejs installed
     
@@ -69,6 +66,10 @@ docker compose up
 ```
 
 You should now be able to access the website from `localhost:4000`.
+
+### Using the DevContainer in VS Code
+
+If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
 
 # Maintenance
 
