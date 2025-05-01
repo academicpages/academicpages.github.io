@@ -1,7 +1,7 @@
 title: "Anam Bashir"
 title_separator: "-"
 name: &name "Anam Bashir"
-description: &description "PhD student at UBC SCARP researching precarious rental housing in urban Canada."
+description: &description "PhD student at UBC SCARP researching rental housing in urban Canada."
 url: "https://anambashir.github.io"
 baseurl: ""
 repository: "anambashir/anambashir.github.io"
