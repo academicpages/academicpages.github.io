@@ -11,11 +11,11 @@ I am a computer science researcher passionate about developing robust large lang
 
 **What am I working on now?**
 
-Currently, I am a doctoral fellow at the Indian Institute of Technology, Delhi. My PhD thesis asks a crucial question: How can we counter harmful prompts and prevent language models from generating unsafe or damaging responses? My research delves deep into the vulnerabilities of natural language processing systems, seeking innovative solutions to make conversational AI more trustworthy and secure.
+Currently, I am a doctoral fellow under the guidance of [Prof. Tanmoy Chakraborty](https://tanmoychak.com/) at [Laboratory for Computational Social Systems (LCS2)](https://www.lcs2.in/), [Indian Institute of Technology, Delhi](https://home.iitd.ac.in/). My PhD thesis asks a crucial question: How can we counter harmful prompts and prevent language models from generating unsafe or damaging responses? My research delves deep into the vulnerabilities of natural language processing systems, seeking innovative solutions to make conversational AI more trustworthy and secure.
 
 **Where have I come from?**
 
-My academic journey began at Veer Surendra Sai University of Technology, Burla, where I earned my bachelor’s degree. I then pursued my master’s at ABV Indian Institute of Information Technology, Gwalior, where I was honored with the Best Postgraduate Merit Award by the Hon’ble President of India, Smt. Droupadi Murmu. Each step has fueled my commitment to impactful research and academic excellence.
+My academic journey began at [Veer Surendra Sai University of Technology, Burla](https://www.vssut.ac.in/), where I earned my bachelor’s degree. I then pursued my master’s at [ABV Indian Institute of Information Technology, Gwalior](https://www.iiitm.ac.in/index.php/en/), where I was honored with the Best Postgraduate Merit Award by the Hon’ble President of India, Smt. Droupadi Murmu. Each step has fueled my commitment to impactful research and academic excellence.
 
 **What’s next?**
 
