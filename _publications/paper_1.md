@@ -3,7 +3,7 @@ title: "An Efficient Correlated Gamma Wave-Based Lightweight Model for Schizophr
 collection: publications
 category: conferences
 permalink: /publication/paper_1
-excerpt: ' This work presents a lightweight Schizophrenia detection model with the help of Gamma wave extraction from the electroencephalogram brain waves'
+excerpt: ' This work presents a lightweight Schizophrenia detection model with the help of Gamma wave extraction from the electroencephalogram brain waves.'
 date: 2023-12-10
 venue: '2023 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)'
 #slidesurl: 

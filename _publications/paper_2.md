@@ -3,7 +3,7 @@ title: "Intent-conditioned and Non-toxic Counterspeech Generation using Multi-Ta
 collection: publications
 category: conferences
 permalink: /publication/paper_2
-excerpt: 'Intent-Conditioned counterspeech generation using Instruction tuning and RLAIF'
+excerpt: 'Intent-Conditioned counterspeech generation using Instruction tuning and RLAIF.'
 date: 2024-06-17
 venue: 'North American Chapter of the Association for Computational Linguistics (NAACL)'
 paperurl: 'https://aclanthology.org/2024.naacl-long.374/'
