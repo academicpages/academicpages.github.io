@@ -8,3 +8,4 @@ tags:
   - Distribution
 ---
 
+Read the full article here: [The concept of “Random Variable” in probability theory](https://medium.com/@aswinikumarpadhi1995/random-variable-article)
