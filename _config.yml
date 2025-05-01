@@ -217,6 +217,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  industry:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +255,15 @@ defaults:
   - scope:
       path: ""
       type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+    # _industry
+  - scope:
+      path: ""
+      type: industry
     values:
       layout: single
       author_profile: true
