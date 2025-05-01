@@ -1,5 +1,5 @@
 ---
-title: "LLM Alignment Towards AI Safty"
+title: "LLM Alignments Towards AI Safety"
 collection: talks
 type: "Talk"
 permalink: /talks/talk_1_IIITMGwalior
