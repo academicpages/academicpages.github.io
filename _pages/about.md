@@ -131,18 +131,18 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
+![](images/haibo_hep.png){: .align-right width="200px"}
+<a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
+Haibo Zhao\*, **Dian Wang\*<sup><i class="fa-regular fa-envelope"></i></sup>**, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
+*ICML 2025*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
+<br>
+
 ![](images/boce_push_grasp.png){: .align-right width="200px"}
 <a href="https://arxiv.org/pdf/2504.03053" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
 Boce Hu\*, Heng Tian\*, **Dian Wang<sup><i class="fa-regular fa-envelope"></i></sup>**, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt  
 *Preprint*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2504.03053','_blank')">PDF</button>
-<br>
-
-![](images/haibo_hep.png){: .align-right width="200px"}
-<a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
-Haibo Zhao\*, **Dian Wang\*<sup><i class="fa-regular fa-envelope"></i></sup>**, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
-*Preprint*  
-<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
 <br>
 
 ![](images/xupeng_c2f.png){: .align-right width="200px"}
