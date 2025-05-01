@@ -13,9 +13,9 @@ title                    : "My Homepage"
 title_separator          : "-"
 name                     : &name "Aswini Kumar Padhi"
 description              : &description "personal description"
-url                      : https://AswiniKumar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://AswiniNLP.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AswiniNLP/AswiniKumar.github.io"
+repository               : "AswiniNLP.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -29,7 +29,7 @@ author:
   location         : "New Delhi, India"
   employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "aswinikumarpadhi1995@gmail.com" 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
