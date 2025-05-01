@@ -22,7 +22,7 @@ repository               : "aswininlp/aswininlp.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_photo.jpg"
   name             : "Aswini Kumar Padhi"
   pronouns         : # example: "she/her" "He" 
   bio              : "Controllable-Text Generation | AI for Safety | LLMs | DiffusionLM | Music Intrumentalist"
