@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "My Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Aswini Kumar Padhi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://AswiniKumar.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "AswiniNLP/AswiniKumar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Aswini Kumar Padhi"
+  pronouns         : # example: "she/her" "He" 
+  bio              : "I am Aswini Kumar Padhi, a computer science researcher passionate about developing robust large language models (LLMs) and exploring the exciting potential of Diffusion Language Models. My curiosity drives me to push the boundaries of what AI can safely and reliably achieve."
+  location         : "New Delhi, India"
+  employer         : "Indian Institute of Technology, Delhi"
   uri              : # URL
   email            : "none@example.org" 
 
