@@ -2,7 +2,7 @@
 title: "Associate Consultant on Machine Learning for Client: VALE S.A."
 collection: job
 type: "Machine Learning Engineer"
-permalink: /industry/chevron
+permalink: /industry/vale
 venue: "Wipro Technologies"
 date: 2019-07-20
 location: "Hyderabad, India"
