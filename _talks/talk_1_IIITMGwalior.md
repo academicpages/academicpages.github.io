@@ -1,0 +1,11 @@
+---
+title: "LLM Alignment Towards AI Safty"
+collection: talks
+type: "Talk"
+permalink: /talks/talk_1_IIITMGwalior
+venue: "ABV Indian Institute of Information Technology and Management, Gwalior"
+date: 2025-04-01
+location: "Gwalior, Madhya Pradesh, India"
+---
+
+
