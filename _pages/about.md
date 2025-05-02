@@ -25,12 +25,11 @@ Beyond science, I enjoy exploring the intersections of chemistry and storytellin
 
 ## Education
 
+## Education
+
 <style>
 .edu-block img {
-  filter: none;
-  box-shadow: none;
-  background-color: transparent;
-  border: none;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.4));
 }
 @media (prefers-color-scheme: dark) {
   .edu-block div {
@@ -51,7 +50,7 @@ Beyond science, I enjoy exploring the intersections of chemistry and storytellin
   <div style="width: 150px;">
     <div><strong>M.Sc. Chemistry</strong><br/>2016</div>
     <a href="https://www.iitbbs.ac.in/" target="_blank" rel="noopener noreferrer">
-      <img src="images/Indian_Institute_of_Technology_Bhubaneswar_Logo.svg-2329274961-2.png" alt="IIT Bhubaneswar logo" style="height: 80px; width: auto; margin-top: 8px;" />
+      <img src="images/Indian_Institute_of_Technology_Bhubaneswar_Logo.svg-2329274961-2.png" alt="IIT Kolkata logo" style="height: 80px; width: auto; margin-top: 8px;" />
     </a>
   </div>
 
@@ -63,6 +62,8 @@ Beyond science, I enjoy exploring the intersections of chemistry and storytellin
   </div>
 
 </div>
+
+
 
 
 ## Education
