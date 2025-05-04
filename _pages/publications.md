@@ -19,7 +19,7 @@ author_profile: true
 
 ## Conference/Journal Papers
 <b>[Understanding and Mitigating Memorization in Diffusion Models for Tabular Data]()</b><br>
-Zhengyu Fang*, <b>Zhimeng Jiang</b>*, Huiyuan Chen, Xiao Li, Jing Li.<br>
+Zhengyu Fang\*, <b>Zhimeng Jiang</b>\*, Huiyuan Chen, Xiao Li, Jing Li.<br>
 International Conference on Machine Learning (<b>ICML</b>), 2025
 
 <b>[On Explaining Equivariant Graph Networks via Improved Relevance Propagation]()</b><br>
