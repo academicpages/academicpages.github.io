@@ -18,6 +18,14 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[Understanding and Mitigating Memorization in Diffusion Models for Tabular Data]()</b><br>
+Zhengyu Fang*, <b>Zhimeng Jiang</b>*, Huiyuan Chen, Xiao Li, Jing Li.<br>
+International Conference on Machine Learning (<b>ICML</b>), 2025
+
+<b>[On Explaining Equivariant Graph Networks via Improved Relevance Propagation]()</b><br>
+Hongyi Ling, Haiyang Yu, <b>Zhimeng Jiang</b>, Na Zou, Shuiwang Ji.<br>
+International Conference on Machine Learning (<b>ICML</b>), 2025
+
 <b>[Data-centric Artificial Intelligence: A Survey]()
 </b><br> Daochen Zha, Zaid Pervaiz Bhat, Kwei-Herng Lai, Fan Yang, <b>Zhimeng Jiang</b>, Shaochen Zhong, Xia Hu. <br>
 ACM Computing Surveys(**ACM CSUR**), 2025
