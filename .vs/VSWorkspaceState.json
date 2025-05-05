@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\markdown_generator",
     "\\talkmap",
+    "\\_drafts",
     "\\_pages",
-    "\\_portfolio"
+    "\\_portfolio",
+    "\\_publications"
   ],
-  "SelectedNode": "\\_portfolio\\portfolio-students.md",
   "PreviewInSolutionExplorer": false
 }
