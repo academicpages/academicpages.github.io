@@ -15,7 +15,7 @@ I am a PhD student in the Computer Vision Group at the University of Sheffield, 
 
 I hold a Master’s degree in Computer Science, with a focus on Computer Graphics, from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil.
 
-I also work as a Computer Scientist at Petrobras. My PhD is fully sponsored by the company, allowing me to dedicate full time to my research.
+I also work as a Computer Scientist at Petrobras. But my PhD is fully sponsored by the company, allowing me to dedicate full time to my research.
 
 ------
 <b>E-mail</b>: rszczerbacki1@sheffield.ac.uk
