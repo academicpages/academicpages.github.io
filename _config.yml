@@ -5,7 +5,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "minimal-mistakes"
+site_theme               : "jekyll-theme-slate"
 title                    : "Renjith Kumar Nair | GitHub"
 title_separator          : "-"
 name                     : &name "Renjith Kumar Nair"
