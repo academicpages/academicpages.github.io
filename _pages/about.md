@@ -16,8 +16,9 @@ Large-scale Vision Foundation Models (VFMs) have shown impressive performance ac
 
 This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
 
-<div style="text-align: center; margin: 2em 0;">
+<div style="display: flex; justify-content: center; gap: 20px; margin: 2em 0;">
   <img src="/images/vfm_clean.png" alt="Embedding space of a large-scale VFM with embeddings of multiple domains with increasing discrepancies" style="width: 300px; height: auto;" />
+  <img src="/images/tsne_chexpert.png" alt="Image 2" style="width: 300px; height: auto;" />
 </div>
 
 The research now is transition from the investigation of large-scale VFM feature spaces to the exploration of parameter-efficient approaches for a domain-aware adaptation of VFMs. 
