@@ -1,7 +1,7 @@
 ---
 title: '四大坐标系-内外参'
-date: 2025-05-04
-permalink: /posts/2025/0504/blog-post-1-zkm/
+date: 2000-05-04
+permalink: /posts/2000/0504/blog-post-1-zkm/
 tags:
   - 标定
   - 坐标系
