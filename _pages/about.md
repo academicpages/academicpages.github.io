@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Vision Foundation Models for Specialised Domains"
+title: "Efficient Vision Foundation Models for Specialised Domains"
 author_profile: true
 redirect_from: 
   - /about/
