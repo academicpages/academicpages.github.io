@@ -41,7 +41,7 @@ author_profile: true
 
 ### Under Review
 - [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper*
-- [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article*
+- [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R&R)*
 - Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
   
 ### Selected Working Papers
