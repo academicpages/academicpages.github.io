@@ -13,7 +13,7 @@ redirect_from:
 Large-scale Vision Foundation Models (VFMs) have shown impressive performance across general computer vision tasks. Trained on massive amounts of natural images, these models generate robust and generalisable representations. However, their effectiveness in specialised domains, such as geosciences, remote sensing, and medical imaging, is still limited.<p>
   
 <div style="float: right; margin: 0 0 1em 1em;">
-  <img src="images/vfm_clean.png" alt="[Embedding space of a large-scale VFM with embeddings of multiple domains with increasing discrepancies" style="width: 300px; height: auto;" />
+  <img src="/images/vfm_clean.png" alt="[Embedding space of a large-scale VFM with embeddings of multiple domains with increasing discrepancies" style="width: 300px; height: auto;" />
 </div>
 
 This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
