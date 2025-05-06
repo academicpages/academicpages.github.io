@@ -41,7 +41,7 @@ author_profile: true
 
 ### Under Review
 - [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper*
-- [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article*
+- [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
 - Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
   
 ### Selected Working Papers
@@ -50,8 +50,10 @@ author_profile: true
  
 ### Work-In-Progress
 - Authoritarian control through trusteeship: The case of Kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en))
+- Partisanship, political knowledge, and impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
 - Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
-- Partisanship, political knowledge, and impeachment attitudes in the US. *journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia)) 
+- When do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
+- University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/))
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
