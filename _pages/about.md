@@ -6,6 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="width: 100%; text-align: center; margin: 2em 0;">
+  <img src="/images/vfm.png" alt="VFM pipeline diagram" style="width: 100%; max-width: 100%; height: auto;" />
+  <p style="font-style: italic; font-size: 0.9em;">Figure: A vision foundation model pipeline.</p>
+</div>
+Large-scale Vision Foundation Models (VFMs) have shown impressive performance across general computer vision tasks. Trained on massive amounts of natural images, these models generate robust and generalisable representations. However, their effectiveness in specialised domains, such as geosciences, remote sensing, and medical imaging, is still limited. 
+
+This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
+
+The research now is transition from the investigation of large-scale VFM feature spaces to the exploration of parameter-efficient approaches for a domain-aware adaptation of VFMs. 
+
+While large-scale models dominate the current landscape in computer science, there is a rich and often overlooked frontier beyond that place. In that place, domains actually intersect and geoscientists, medical researchers, and remote sensing experts actually share similar challenges and opportunities. This project aims to contribute toward bridging that gap, by exploring how vision foundation models can be adapted to specialised domains where data is limited, expert knowledge is essential, and the potential for real-world impact is significant.
+
+
 This is 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
