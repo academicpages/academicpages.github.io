@@ -1,8 +1,8 @@
 ---
 layout:post
 title: '多尺度分析在实验力学中的应用与挑战'
-date: 2025-05-07
-permalink: /posts/2025/0507/blog-post-2-zkm/
+date: 2025-05-06
+permalink: /posts/2025/0506/blog-post-2-zkm/
 tags:
   - 实验技术
   - 力学
