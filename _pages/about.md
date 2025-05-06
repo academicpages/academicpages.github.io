@@ -18,10 +18,6 @@ This project investigates the representation robustness of large-scale VFMs to t
 
 The research now is transition from the investigation of large-scale VFM feature spaces to the exploration of parameter-efficient approaches for a domain-aware adaptation of VFMs. 
 
-This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
-
-The research now is transition from the investigation of large-scale VFM feature spaces to the exploration of parameter-efficient approaches for a domain-aware adaptation of VFMs. 
-
 While large-scale models dominate the current landscape in computer science, there is a rich and often overlooked frontier beyond that place. In that place, domains actually intersect and geoscientists, medical researchers, and remote sensing experts actually share similar challenges and opportunities. This project aims to contribute toward bridging that gap, by exploring how vision foundation models can be adapted to specialised domains where data is limited, expert knowledge is essential, and the potential for real-world impact is significant.
 
 
