@@ -1,46 +1,159 @@
-# Site settings
-title: "Renjith K Nair"
-email: "your.email@example.com"
-description: "Digital Transformation Graduate | Aspiring SOC Analyst"
-url: "https://renjithknair2203.github.io"  # Your GitHub Pages URL
-baseurl: "/"  # The base URL for your site
-logo: "/assets/images/logo.png"  # Optional: Add a logo image to the header
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
 
-# Social Media Links
-social_links:
-  - name: "LinkedIn"
-    url: "https://www.linkedin.com/in/renjithknair/"
-  - name: "GitHub"
-    url: "https://github.com/renjithknair2203"
-  - name: "Twitter"
-    url: "https://twitter.com/renjithknair"
-  - name: "Email"
-    url: "mailto:your.email@example.com"
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Renjith Kumar Nair | GitHub"
+title_separator          : "-"
+name                     : &name "Renjith Kumar Nair"
+description              : &description "I'm currently a Digital Transformation Graduate with a strong interest in cybersecurity. Having recently earned my CompTIA Security+ certification, I'm actively pivoting my career toward becoming a SOC Analyst. I'm passionate about threat detection, incident response, and building resilient digital systems, and I'm currently honing my skills in SIEM tools, network security, and real-world security operations."
+url                      : https://renjithknair.github.io # The base hostname & protocol for your site
+baseurl                  : "" # The subpath of your site, e.g. "/blog"
+repository               : "renjithknair2203/renjithknair.github.io"
 
-# Content settings
-paginate: 5  # Number of posts per page
-paginate_path: "/page:num"  # Pagination format
-show_excerpts: true  # Show excerpts of posts on the homepage
+# Site Author
+author:
+  avatar           : "profile.png"
+  name             : "Renjith Kumar Nair"
+  bio              : "Digital Transformation Graduate | Aspiring SOC Analyst"
+  location         : "United Kingdom"
+  employer         : "Pharmanovia"
+  uri              : "https://www.linkedin.com/in/renjith-k-nair/"
+  email            : "renjithknair2203@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  orcid            : "http://orcid.org/yourorcidurl" # Replace with your ORCID link
+  researchgate     : "https://www.researchgate.net/profile/Renjith-Kumar-Nair" # Optional, update if applicable
+  github           : "renjithknair2203"
 
-# Navigation menu settings
-navigation:
-  - title: "Home"
-    url: "/"
-  - title: "Blog"
-    url: "/blog"
-  - title: "About"
-    url: "/about"
-  - title: "Contact"
-    url: "/contact"
+# Publication Category
+publication_category:
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
 
-# Include specific content (optional)
-# Uncomment the lines below if you want to show the sections on your website
-# about: true
-# projects: true
-# talks: true
-# publications: true
-# teaching: true
+# Site Settings
+teaser                   : "500x300.png" # Optional: Add a fallback teaser image
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled" # If enabled, adds "Read more" links to excerpts
+comments:
+  provider               : false
+atom_feed:
+  hide                   : false
+  path                   : feed.xml
 
-# Optional settings for custom themes
-theme: "minimal-mistakes"  # Minimal Mistakes theme for styling
-theme_navigation: true  # Enable navigation menu in theme
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+alexa_site_verification  :
+yandex_site_verification :
+
+# Social Sharing
+twitter:
+  username               : "renjithknair" # Replace with your Twitter handle
+facebook:
+  username               : "renjithknair"
+og_image                 : "assets/images/og-image.png" # Optional: Set a default image for social sharing
+
+# Analytics
+analytics:
+  provider               : "false" # Set to "google" for Google Analytics
+  google:
+    tracking_id          : "" # Optional: Google Analytics tracking ID
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .github
+  - node_modules
+  - package.json*
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults for Pages and Posts
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Etc/UTC
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
