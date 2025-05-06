@@ -52,7 +52,7 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid var(--global-border-color);
   }
 
   p, li, dl {
@@ -198,7 +198,7 @@
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--global-border-color);
 
   @include breakpoint(max-width $small) {
     .btn span {
@@ -227,7 +227,7 @@
 
 .page__meta {
   margin-top: 2em;
-  color: mix(#fff, $gray, 25%);
+  color: var(--global-text-color-light);
   font-family: $sans-serif;
   font-size: $type-size-6;
 
@@ -267,12 +267,12 @@
   margin-bottom: 8px;
   padding: 5px 10px;
   text-decoration: none;
-  border: 1px solid $light-gray;
+  border: 1px solid var(--global-border-color);
   border-radius: $border-radius;
 
   &:hover {
     text-decoration: none;
-    color: $link-color-hover;
+    color: var(--global-link-color-hover);
   }
 }
 
@@ -290,13 +290,13 @@
   margin-bottom: 10px;
   padding-top: 2rem;
   font-size: $type-size-6;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--global-border-color);
   text-transform: uppercase;
 }
 
 .page__comments-form {
   padding: 1em;
-  background: $lighter-gray;
+  background: var(--global-border-color);
   transition: $global-transition;
 
   &.disabled {
@@ -318,7 +318,7 @@
   margin: 1em 0;
 
   &:not(:last-child) {
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid var(--global-border-color);
   }
 }
 
@@ -342,7 +342,7 @@
     width: 80px;
     height: 80px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 1px solid var(--global-border-color);
   }
 }
 
@@ -380,7 +380,7 @@
 .page__related {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--global-border-color);
   @include clearfix();
   float: left;
 

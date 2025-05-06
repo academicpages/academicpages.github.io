@@ -8,10 +8,13 @@ html {
 }
 
 body {
+  /* Set via _themes.scss */
+  color: var(--global-text-color);
+  background-color: var(--global-bg-color);
+
   margin: 0;
   padding: $masthead-height 0 0;
   padding-bottom: 9em;
-  color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
 
@@ -64,7 +67,7 @@ p {
 u,
 ins {
   text-decoration: none;
-  border-bottom: 1px solid $text-color;
+  border-bottom: 1px solid var(--global-text-color);
   a {
     color: inherit;
   }
@@ -87,7 +90,7 @@ abbr[title],
 abbr[data-original-title] {
   text-decoration: none;
   cursor: help;
-  border-bottom: 1px dotted $text-color;
+  border-bottom: 1px dotted var(--global-text-color);
 }
 
 /* blockquotes */
@@ -97,7 +100,7 @@ blockquote {
   padding-left: 1em;
   padding-right: 1em;
   font-style: italic;
-  border-left: 0.25em solid $primary-color;
+  border-left: 0.25em solid var(--global-border-color);
 
   cite {
     font-style: italic;
@@ -132,16 +135,17 @@ pre {
   overflow-x: auto; /* add scrollbars to wide code blocks*/
 }
 
-p > code,
 a > code,
-li > code,
 figcaption > code,
+li > code,
+p > code,
 td > code {
+  color: var(--global-code-text-color);
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
-  background: $code-background-color;
-  border: 1px solid $lighter-gray;
+  background: var(--global-code-background-color);
+  border: 1px solid var(--global-thead-color);
   border-radius: $border-radius;
   box-shadow: $box-shadow;
 
@@ -151,13 +155,21 @@ td > code {
   }
 }
 
+a > code {
+    color: inherit;
+}
+
+pre > code {
+  color: var(--global-code-text-color);
+}
+
 /* horizontal rule */
 
 hr {
   display: block;
   margin: 1em 0;
   border: 0;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid var(--global-border-color);
 }
 
 /* lists */
@@ -236,14 +248,14 @@ figure {
 
 figcaption {
   margin-bottom: 0.5em;
-  color: mix(#fff, $text-color, 25%);
+  color: var(--global-fig-caption-color);
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
   a {
     color: inherit;
     text-decoration: none;
-    border-bottom: 1px solid $light-gray;
+    border-bottom: 1px solid var(--global-border-color );
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
@@ -305,11 +317,49 @@ nav {
   }
 }
 
-/*
-   Global animation transition
+/* ==========================================================================
+   ANIMATIONS
    ========================================================================== */
 
+   @-webkit-keyframes intro {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  @keyframes intro {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+
+/* Global animation transition */
 b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a, tr, td, form button, input[type="submit"], .btn, .highlight, .archive__item-teaser {
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ==========================================================================
+   PRINT STYLES
+   ========================================================================== */
+
+/*
+   Hide the following elements on print
+   ========================================================================== */
+
+   @media print {
+    .masthead,
+    .toc,
+    .page__share,
+    .page__related,
+    .ads,
+    .page__footer {
+      display: none;
+    }
+  }

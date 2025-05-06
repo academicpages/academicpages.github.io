@@ -8,6 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default"
 title                    : "Dr. Mohd Afeef Badri"
 title_separator          : "-"
 name                     : &name "Mohd Afeef Badri"
@@ -31,6 +32,7 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
