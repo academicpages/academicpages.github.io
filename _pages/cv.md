@@ -18,7 +18,7 @@ I hold a Master’s degree in Computer Science, with a focus on Computer Graphic
 I also work as a Computer Scientist at Petrobras. But my PhD is fully sponsored by the company, allowing me to dedicate full time to my research.
 
 ------
-<b>E-mail</b>: rszczerbacki1@sheffield.ac.uk
+<b>E-mail</b>: rszczerbacki1@sheffield.ac.uk<br>
 <b>Supervisors</b>: Dr Jefersson Alex dos Santos and Prof Jungong Han
 
 
