@@ -1,4 +1,5 @@
 ---
+layout:post
 title: '实验技术选择与应用探讨'
 date: 2025-05-07
 permalink: /posts/2025/0507/blog-post-1-zkm/
