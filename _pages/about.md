@@ -20,5 +20,5 @@ While large-scale models dominate the current landscape in computer science, the
 
 
 ------
-Ricardo Szczerbacki is a PhD student at the University of Sheffield
+Ricardo Szczerbacki is a PhD student at the University of Sheffield <br>
 And Computer Scientist at Petrobras
