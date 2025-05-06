@@ -1,7 +1,7 @@
 ---
 title: '实验技术选择与应用探讨'
-date: 2023-02-04
-permalink: /posts/2023/0204/blog-post-2-zkm/
+date: 2025-05-07
+permalink: /posts/2025/0507/blog-post-1-zkm/
 tags:
   - 实验技术
   - 力学
