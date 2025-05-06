@@ -17,6 +17,7 @@ Large-scale Vision Foundation Models (VFMs) have shown impressive performance ac
 </div>
 
 <img src="/images/vfm_clean.png" alt="Clean VFM diagram" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 10px;" />
+![}(/images/images/vfm_clean.png){: .align-right width="300px"}
 
 
 This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
