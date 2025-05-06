@@ -10,7 +10,7 @@ redirect_from:
   <img src="/images/vfm.png" alt="VFM pipeline diagram" style="width: 100%; max-width: 100%; height: auto;" />
   <p style="font-style: italic; font-size: 0.9em;">Figure: A vision foundation model pipeline.</p>
 </div>
-Large-scale Vision Foundation Models (VFMs) have shown impressive performance across general computer vision tasks. Trained on massive amounts of natural images, these models generate robust and generalisable representations. However, their effectiveness in specialised domains, such as geosciences, remote sensing, and medical imaging, is still limited.<br>
+Large-scale Vision Foundation Models (VFMs) have shown impressive performance across general computer vision tasks. Trained on massive amounts of natural images, these models generate robust and generalisable representations. However, their effectiveness in specialised domains, such as geosciences, remote sensing, and medical imaging, is still limited.<p>
 
 This project investigates the representation robustness of large-scale VFMs to the increasing distribution discrepancies from natural images. Explore metrics, methods, and computationally efficient strategies to adapt or enhance the pre-training of  VFMs in this challenge scenario.
 
