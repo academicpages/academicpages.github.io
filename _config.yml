@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-remote_theme: pages-themes/minimal@v0.2.0
+site_theme               : "default"
 title                    : "Ozlem Tuncel"
 title_separator          : "-"
 name                     : &name "Ozlem Tuncel"
