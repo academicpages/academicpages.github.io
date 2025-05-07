@@ -10,8 +10,8 @@ tags:
 permalink: /posts/2025/05/06/experimental-techniques-selection/
 ---
 
-​**实验技术选择与应用探讨**​ 
-![光弹性涂层应用案例](/images/posts/ipJAi-0x480.png){: width="800" .optimized-image }
+​**实验技术选择与应用探讨**​ \\
+![光弹性涂层应用案例](/images/posts/ipJAi-0x480.png){: width="200" .optimized-image }
 
 > 收听：[🎧 康科德案例技术详解播客](https://monica.im/ai-podcast/share?id=59124708-9cac-4786-90c4-04d783701519){: target="_blank" }
 
