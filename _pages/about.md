@@ -11,6 +11,9 @@ redirect_from:
 Research Associate (Yusuke MORITA Laboratory), Faculty of Human Sciences, Waseda University, Japan \
 早稲田大学 人間科学学術院 助手（森田裕介研究室）
 
+Researcher (Spoken Language Processing Laboratory), Department of Computer Science and Engineering, Toyohashi University of Technology, Japan \
+豊橋技術科学大学 情報・知能工学系 研究員（音声言語処理研究室）
+
 # Bio
 After graduating from National Institute of Technology, Toyota College; I entered Toyohashi University of Technology.\
 豊田工業高等専門学校を卒業後，豊橋技術科学大学に進学．

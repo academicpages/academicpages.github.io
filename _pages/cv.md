@@ -79,6 +79,8 @@ Programming Languages
 
 所属・活動
 ======
+* 2025/5-継続中 早稲田大阪学園向陽台高等学校 実証研究 外部専門家委員
+* 2025/5-継続中 豊橋技術科学大学 情報・知能工学系 非常勤研究員（音声言語処理研究室）
 * 2025/4-継続中 早稲田大学 人間科学学術院/研究科/学部 森田裕介研究室
 * 2024/4-2025/3	豊橋技術科学大学 情報・知能工学系 音声言語処理研究室
 * 2024/3-2024/9	Publicity Chair, The 11th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA 2024).
