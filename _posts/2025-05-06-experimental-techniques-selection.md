@@ -1,13 +1,13 @@
 ---
-layout:post
+layout: post
 title: '实验技术选择与应用探讨'
 date: 2025-05-06
-permalink: /posts/2025/0506/blog-post-1-zkm/
+categories: [实验力学, 测量技术]
 tags:
-  - 实验技术
-  - 力学
-  - 应用
-  - 技术
+  - 光弹性涂层
+  - 热弹性应力分析
+  - 统计方法
+permalink: /posts/2025/05/06/experimental-techniques-selection/
 ---
 
 **实验技术选择与应用探讨** 
