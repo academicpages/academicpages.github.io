@@ -261,7 +261,6 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 # Plugins
 plugins:
-  - jekyll-sass-converter
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
