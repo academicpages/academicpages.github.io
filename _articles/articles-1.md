@@ -1,6 +1,6 @@
 ---
 title: "Articles"
-excerpt: "[Blog](https://ryputtam.substack.com/)"
+excerpt: "[MySubStack](https://ryputtam.substack.com/)"
 collection: articles
 ---
 
