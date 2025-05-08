@@ -22,3 +22,5 @@ My academic journey began at [Veer Surendra Sai University of Technology, Burla]
 As I continue my doctoral research, I am eager to collaborate, learn, and contribute to the evolving landscape of AI safety and language technologies.
 
 
+
+<a href="https://info.flagcounter.com/1dGf"><img src="https://s01.flagcounter.com/count2/1dGf/bg_FFFFFF/txt_000000/border_CC0808/columns_4/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
