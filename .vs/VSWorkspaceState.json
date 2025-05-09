@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images",
+    "\\assets",
+    "\\assets\\css",
     "\\talkmap",
     "\\_drafts",
-    "\\_posts"
+    "\\_posts",
+    "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2025-05-06-blog-post-2-zkm.md",
   "PreviewInSolutionExplorer": false
 }
