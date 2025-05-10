@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Keyser-Quad-Ames-Headshot.jpg"
-  name             : "Your Sidebar Name"
+  name             : "Ben Marlin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Purdue University"
   uri              : # URL
   email            : "none@example.org" 
 
