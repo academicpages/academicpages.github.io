@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yanyu Qian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I'm a fourth year undergraduate students from XJTU"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
