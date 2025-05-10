@@ -3,11 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\images",
+    "\\images\\posts",
     "\\talkmap",
     "\\_drafts",
     "\\_posts",
     "\\_sass"
   ],
-  "SelectedNode": "\\_posts\\2025-05-11-实验应力分析的实用指南.md",
+  "SelectedNode": "\\_posts\\2025-05-12-光学方法在应力分析中的应用.md",
   "PreviewInSolutionExplorer": false
 }
