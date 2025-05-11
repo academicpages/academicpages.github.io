@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "cy.png"
-  name             : caiyi lu"
+  name             : caiyi lu(卢采依)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "China"
+  employer         : #"Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "caiyilu8025@gmail.com" 
 
   # Academic websites
   academia         : # URL
