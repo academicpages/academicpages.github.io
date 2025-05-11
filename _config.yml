@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cy.png"
-  name             : caiyi lu(卢采依)"
+  avatar           : cy.png
+  name             : caiyi lu(卢采依)
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "caiyilu8025@gmail.com" 
+  email            : caiyilu8025@gmail.com
 
   # Academic websites
   academia         : # URL
