@@ -20,6 +20,7 @@ author_profile: true
 
 I'll fix the remaining typos soon. I may upload an article on continuation in programming languages later.
 
+Last Updated: March 23, 2024
 
 Derivatives of Regular Expression
 ======
