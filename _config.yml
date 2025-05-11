@@ -25,7 +25,7 @@ author:
   avatar           : cy.png
   name             : caiyi lu(卢采依)
   pronouns         : # example: "she/her"  
-  bio              : hi
+  bio              : #hi
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
