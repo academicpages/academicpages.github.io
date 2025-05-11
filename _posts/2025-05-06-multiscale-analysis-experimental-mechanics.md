@@ -1,5 +1,4 @@
 ---
-layout: post
 title: '多尺度分析在实验力学中的应用与挑战'
 date: 2025-05-06
 permalink: /posts/2025/05/06/multiscale-analysis/
@@ -7,8 +6,6 @@ categories: [实验力学, 多尺度分析]
 tags:
   - 实验技术
   - 力学
-  - 应用
-  - 技术
 ---
 
 **多尺度分析在实验力学中的应用与挑战** \\
