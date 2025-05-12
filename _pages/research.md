@@ -8,7 +8,8 @@ title: "Research"
 
 
 
-* Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review.
+* Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review.\
+\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
 
 <details><summary>Abstract</summary>
 
@@ -28,7 +29,9 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. [Working Paper.]
+* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
+\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+
 <details><summary>Abstract</summary>
 
 Conventional wisdom suggests that increased state presence in historically remote regions provokes local resistance. In contrast, we argue that residents in these areas respond positively to a critical yet under-explored form of state presence -- infrastructural development -- and exhibit higher levels of trust in national institutions than those in core regions. Two mechanisms explain this relationship: (1) limited prior interaction with the state makes political attitudes in remote areas more malleable, and (2) infrastructural development is both more novel and beneficial in peripheral regions. We also identify resource extraction and conflict history as scope conditions that moderate this relationship. Using large-scale geospatial data from 46 developing countries and a Difference-in-Differences design leveraging Tanzania’s rural electrification program, we find consistent support for our hypotheses. These results underscore both the promise and the constraints of infrastructural development as a tool for state building, particularly in historically underdeveloped areas.
