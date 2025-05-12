@@ -28,7 +28,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* Carter, David, B. and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. [Working Paper.]
+* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. [Working Paper.]
 <details><summary>Abstract</summary>
 
 Conventional wisdom suggests that increased state presence in historically remote regions provokes local resistance. In contrast, we argue that residents in these areas respond positively to a critical yet under-explored form of state presence -- infrastructural development -- and exhibit higher levels of trust in national institutions than those in core regions. Two mechanisms explain this relationship: (1) limited prior interaction with the state makes political attitudes in remote areas more malleable, and (2) infrastructural development is both more novel and beneficial in peripheral regions. We also identify resource extraction and conflict history as scope conditions that moderate this relationship. Using large-scale geospatial data from 46 developing countries and a Difference-in-Differences design leveraging Tanzania’s rural electrification program, we find consistent support for our hypotheses. These results underscore both the promise and the constraints of infrastructural development as a tool for state building, particularly in historically underdeveloped areas.
@@ -36,7 +36,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 <br>
 
-* Deng, Rex Weiye, Taishi Muraoka, and Margit Tavits. **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
+* Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
   
 <details><summary>Abstract</summary>
 
@@ -45,7 +45,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 <br>
 
-* Charaniya, Amaan, Rex Weiye Deng, Dahjin Kim, Gechun Lin, William Nomikos, and ˙Ipek Ece S¸ener.**Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.**
+* [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.**
   
   * Best Foreign Policy Paper Award, APSA (2022)
 <details><summary>Abstract</summary>
@@ -58,7 +58,8 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 ## Selected Work in Progress
 
 * Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.**
-* Deng, Rex Weiye and Haifeng Huang. **Cute Propaganda: A Blessing or A Curse?**
+
+* Deng, Rex Weiye and [Haifeng Huang](https://www.hhuang.org/). **Cute Propaganda: A Blessing or A Curse?**
 
 
 
