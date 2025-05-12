@@ -8,9 +8,7 @@ title: "Research"
 
 
 
-* Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review.\
-
-\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+* Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review.\ \[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
 
 <details><summary>Abstract</summary>
 
@@ -30,9 +28,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
-
-\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. \[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
 
 <details><summary>Abstract</summary>
 
