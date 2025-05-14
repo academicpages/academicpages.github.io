@@ -2,3 +2,9 @@ _site/
 .idea/
 
 /.vs/slnx.sqlite-journal
+# Visual Studio 临时文件
+.vs/
+*.suo
+*.user
+*.slnx.sqlite
+
