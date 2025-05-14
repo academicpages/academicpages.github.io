@@ -12,6 +12,10 @@ Hello! Welcome to my pages. My name is Charles, but everyone calls me Charlie. I
 
 ## News 
 
+> ***2nd May 2025***
+> 
+> I visited [Berkeley's ACE lab](https://acelab.berkeley.edu/) and presented my recent research on training small language models for programming feedback. 
+
 > ***1st April 2025***
 > 
 > I will be visiting the [Piech lab](https://piechlab.stanford.edu/) until the end of June. 
