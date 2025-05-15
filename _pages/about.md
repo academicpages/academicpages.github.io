@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. student at the CSE Department, the HKUST, advised by [Prof. Qiang Yang](http://www.cs.ust.hk/~qyang/) and co-advised by [Prof. Kai Chen](https://www.cse.ust.hk/~kaichen). My research interests lie in data mining algorithms for practical problems, including: 
+I received my Ph.D. degree in May 2025 from Department of CSE, HKUST, advised by [Prof. Qiang Yang](http://www.cs.ust.hk/~qyang/) and co-advised by [Prof. Kai Chen](https://www.cse.ust.hk/~kaichen). My research interests lie in data mining algorithms for practical problems, including: 
 - **Expressive Learning Models**
     - **Structure-Aware Models for Graph Data** \[GraLSP, AAAI'20; GraphSTONE, KDD'20; GraphMSE, AAAI'21; GSKN, WWW'21\]
     - **Temporal-Aware Models under Dynamic Data** \[EPNE, ECAI'20\]
