@@ -3,6 +3,6 @@ _site/
 
 /.vs/slnx.sqlite-journal
 # Visual Studio files
-*.suo
-*.slnx.sqlite
-VSWorkspaceState.json
+/.vs/zhangkmsjtu/v16/.suo
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
