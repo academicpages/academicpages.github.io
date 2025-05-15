@@ -310,4 +310,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: academicpages/academicpages.github.io
+remote_theme: mmistakes/minimal-mistakes@4.24.0
