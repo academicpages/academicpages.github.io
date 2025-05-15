@@ -2,9 +2,7 @@ _site/
 .idea/
 
 /.vs/slnx.sqlite-journal
-# Visual Studio 临时文件
-.vs/
+# Visual Studio files
 *.suo
-*.user
 *.slnx.sqlite
-
+VSWorkspaceState.json
