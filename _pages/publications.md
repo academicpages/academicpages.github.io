@@ -18,6 +18,15 @@ author_profile: true
 
 
 ## Conference/Journal Papers
+<b>[MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation]()</b><br>
+Chia-Yuan Chang, <b>Zhimeng Jiang</b>, Vineeth Rakesh, Menghai Pan, Chin-Chia Michael Yeh, Guanchu Wang, Mingzhi Hu, Zhichao Xu, Yan Zheng, Mahashweta Das, Na Zou.<br>
+Annual Meeting of the Association for Computational Linguistics (<b>ACL</b>), 2025
+
+<b>[CODA: Temporal Domain Generalization via Concept Drift Simulator]()</b><br>
+Chia-Yuan Chang, Yu-Neng Chuang, <b>Zhimeng Jiang</b>, Kwei-Herng Lai, Anxiao Jiang, Na Zou.<br>
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<b>KDD</b>), 2025
+<span style="color:red;"><b>INFORMS ICQSR’24 Best Paper Competition Award</b></span>
+
 <b>[Understanding and Mitigating Memorization in Diffusion Models for Tabular Data]()</b><br>
 Zhengyu Fang\*, <b>Zhimeng Jiang</b>\*, Huiyuan Chen, Xiao Li, Jing Li.<br>
 International Conference on Machine Learning (<b>ICML</b>), 2025
@@ -25,6 +34,10 @@ International Conference on Machine Learning (<b>ICML</b>), 2025
 <b>[On Explaining Equivariant Graph Networks via Improved Relevance Propagation]()</b><br>
 Hongyi Ling, Haiyang Yu, <b>Zhimeng Jiang</b>, Na Zou, Shuiwang Ji.<br>
 International Conference on Machine Learning (<b>ICML</b>), 2025
+
+<b>[You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time]()</b><br>
+Xiaotian Han, Tianlong Chen, Kaixiong Zhou, <b>Zhimeng Jiang</b>, Zhangyang Wang, Xia Hu.<br>
+Conference on Parsimony and Learning (<b>CPAL</b>) (Oral), 2025
 
 <b>[Data-centric Artificial Intelligence: A Survey]()
 </b><br> Daochen Zha, Zaid Pervaiz Bhat, Kwei-Herng Lai, Fan Yang, <b>Zhimeng Jiang</b>, Shaochen Zhong, Xia Hu. <br>
