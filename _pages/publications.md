@@ -10,6 +10,10 @@ You can also find my articles in [my Google Scholar](https://scholar.google.com/
 
 # Conference Papers
 ## 2025 
+* **Exploiting Student Parallelism for Low-latency GPU Inference of BERT-like Models in Online Services** <br>
+Weiyan Wang, **Yilun Jin**, Yiming Zhang, Victor Junqiu Wei, Han Tian, Li Chen, Jinbao Xue, Yangyu Tao, Di Wang, Kai Chen. <br>
+To appear in *the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2025.
+
 * **Achieving Fairness Generalizability for Learning-based Congestion Control with Jury** \[[pdf](https://dl.acm.org/doi/pdf/10.1145/3689031.3696065)\]<br>
 Han Tian, Xudong Liao, Decang Sun, Chaoliang Zeng, **Yilun Jin**, Junxue Zhang, Xinchen Wan, Zilong Wang, Yong Wang, Kai Chen. <br>
 In *European Conference on Conputer Systems (EuroSys)*, 2025. 
@@ -34,7 +38,7 @@ In *European Conference on Computer Systems (EuroSys)*, 2024.
 
 ## 2023
 * **Transferable Graph Structure Learning for Graph-based Traffic Forecasting across Cities** \[[pdf](https://kl4805.github.io/files/KDD23.pdf)\] <br>
-**Yilun Jin**, Kai Chen, Qiang Yang. <br> In *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023
+**Yilun Jin**, Kai Chen, Qiang Yang. <br> In *the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)*, 2023.
 
 * **Scalable and Efficient Full-Graph GNN Training for Large Graphs** \[[pdf](https://kl4805.github.io/files/g3-sigmod23.pdf)\]<br>
 Xinchen Wan, Kaiqiang Xu, Xudong Liao, **Yilun Jin**, Kai Chen, Xin Jin. <br> In *the ACM Conference on Management of Data (SIGMOD)*, 2023.
