@@ -1,5 +1,5 @@
-
-# 建议优化后的规则（支持递归忽略）：
-.vs/            # 忽略整个.vs目录
-*.suo           # 全局忽略所有.suo文件
-*.slnx.sqlite*  # 覆盖所有变种（含-journal后缀）
+# Visual Studio 工作区文件
+**/.vs/
+**/*.suo
+**/*.slnx.sqlite*
+**/VSWorkspaceState.json
