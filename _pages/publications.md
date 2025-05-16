@@ -36,24 +36,24 @@ author_profile: true
 ### Policy Papers and Other Publication:
 - **Tuncel, O.**. 2025. [Teaching literature reviews in the age of generative Artificial Intelligence (AI)](https://educate.apsanet.org/teaching-literature-reviews-in-the-age-of-generative-artificial-intelligence-ai). [*Political Science Educator*](https://educate.apsanet.org/political-science-educator-volume-28-issue-2), 28(2).
 - **Tuncel, O.**, Manning, C., & Smith, I. 2022. [Political integration and post-war elections](https://fba.se/en/about-fba/publications/political-integration-and-post-war-elections/). In the Political Dynamics of DDR Series. *The Folke Bernadotte Academy (FBA).*
-- McCoy, J., Press, B., Somer, M., & **Tuncel, O.** 2022, May 05. [Reducing Pernicious Polarization: A Comparative Historical Analysis of Depolarization](https://carnegieendowment.org/2022/05/05/reducing-pernicious-polarization-comparative-historical-analysis-of-depolarization-pub-87034). *Carnegie*.
+- McCoy, J., Press, B., Somer, M., & **Tuncel, O.** 2022, May 05. [Reducing pernicious polarization: A comparative historical analysis of depolarization](https://carnegieendowment.org/2022/05/05/reducing-pernicious-polarization-comparative-historical-analysis-of-depolarization-pub-87034). *Carnegie*.
 - Bakan, R. & **Tuncel, O.** 2019, July 04. [Women's struggle in Turkey](https://archive-yaleglobal.yale.edu/content/womens-struggle-turkey). *Yale Global*.
 
 ### Under Review
-- [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *job market paper*
+- [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
-- Elite interviewing in Political Science: Insights from leading journals. *journal article* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
+- Elite interviewing in Political Science: Insights from leading journals. *journal article (R & R)* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
   
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
-- Unseating Autocratizing Leaders: Electoral Success and Opposition Coalitions in Backsliding Democracies. *journal article* (will be presented at MPSA 2025) 
+- Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies. *journal article* (will be presented at APSA & MPSA 2025) 
  
 ### Work-In-Progress
 - Authoritarian control through trusteeship: The case of Kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en))
-- Partisanship, political knowledge, and impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
-- Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
-- When do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
+- Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
+- Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
 - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/))
+- Backsliding and the closing civil society space. *journal article* (with [Kelsey Martin-Morales](https://www.kelseymartinmorales.com/))
 - Do opposites attract? Evidence from a conjoint experiment on Turkish political party coalitions. *journal article*
 - Why do autocratic incumbents form pre-electoral coalitions? *journal article*
 - Electoral coordination of post-rebel electoral parties. *journal article*
