@@ -1,0 +1,53 @@
+{% if include.name %}
+  {% assign name = include.name %}
+{% else %}
+  {% assign name = "Contact" %}
+{% endif %}
+
+{% assign name_id = name | downcase | replace: " ", "-" %}
+
+{% if include.thanks_url %}
+  {% assign thanks_url = include.thanks_url %}
+{% else %}
+  {% assign thanks_url = "/thanks/" %}
+{% endif %}
+
+<form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="{{ thanks_url }}"
+  {% if include.netlify_form %}
+    netlify-honeypot="bot-field"
+    netlify
+  {% endif %}
+>
+  <fieldset class="fieldset  form__fieldset">
+    <legend class="legend form__legend">{{ name }}</legend>
+    <label class="label" for="name--{{ name_id }}">Name: <span class="required">*</span></label>
+    <input class="input" id="name--{{ name_id }}" type="text" name="name" value="" placeholder="Your Name" required="required" />
+
+    <label class="label" for="email--{{ name_id }}">Email Address: <span class="required">*</span></label>
+    <input class="input" id="email--{{ name_id }}" type="email" name="email" value="" placeholder="email@website.com" required="required" />
+
+    <label class="label" for="message--{{ name_id }}">Message: <span class="required">*</span></label>
+    <textarea class="textarea" id="message--{{ name_id }}" name="message" placeholder="Your message..." required="required"></textarea>
+
+    <input class="button" type="submit" value="Send message" />
+    <br/>
+    <small class="small"><span class="required">*</span> indicates a required field</small>
+
+    {% if include.netlify_form %}
+      <label  style="display:none">Don’t fill this out if you’re human: <input name="bot-field" /></label>
+    {% else %}
+      <input type="text" name="_gotcha" style="display:none">
+      <input type="hidden" name="_subject" value="{{ site.title }} submission from {{ name }}">
+      <input type="hidden" name="_next" value="{{ thanks_url }}" />
+    {% endif %}
+  </fieldset>
+</form>
+{% unless include.netlify_form %}
+  <script>
+    var email = "{{ site.email | split: "" | reverse | join: "" }}";
+    var unraveledEmail = email.split("").reverse().join("");
+    var form = document.querySelector(".form--{{ name_id }}");
+      form.setAttribute("action", "https://formspree.io/" + unraveledEmail);
+  </script>
+  <noscript>Please enable JavaScript to use the form.</noscript>
+{% endunless %}

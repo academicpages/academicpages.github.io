@@ -1,0 +1,54 @@
+{% if site.navigation_header %}
+<nav class="nav  nav--header">
+  <ul class="list  list--nav">
+    {% for item in site.navigation_header %}
+
+      {% if item.url contains '://' %}
+        {% assign url = item.url %}
+      {% else %}
+        {% assign url = item.url | relative_url %}
+      {% endif %}
+
+      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <button class="button  button--nav" aria-label="Menu toggle">
+    {% include icon.html id="nav" title="Menu" %}
+  </button>
+</nav>
+{% else %}
+  {% include nav-default.html %}
+{% endif %}
+
+<script type="text/javascript">
+  // Get list and button
+  const navList = document.querySelector('.header .list--nav')
+  const button  = document.querySelector('.header .button--nav')
+
+  // Hide nav and apply toggle
+  const collapseNav = () => {
+    if (document.body.clientWidth < 640) {
+      navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+    } else {
+      navList.removeAttribute('style')
+    }
+
+    button.onclick = () => {
+      navList.style.setProperty('transition', `margin .1s`)
+      if (navList.style.getPropertyValue('--listHeight')) {
+        navList.style.removeProperty('--listHeight')
+      } else {
+        navList.style.setProperty('--listHeight', `-${navList.offsetHeight}px`)
+      }
+    }
+  }
+
+  collapseNav()
+
+  // Check on resize if to collapse nav
+  window.addEventListener('resize', () => {
+    collapseNav()
+  })
+</script>

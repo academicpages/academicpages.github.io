@@ -1,0 +1,24 @@
+<div class="share">
+  {% for network in site.sharing_links %}
+    {% if network[1] != blank %}
+      {% assign name = network[0] %}
+      {% assign id = network[0] | downcase | remove: " " %}
+      {% assign url = site.url | append: site.baseurl | append: page.url %}
+      {% assign color = network[1] %}
+
+      {% capture share_link %}
+        {%- if id contains "twitter" %}https://twitter.com/intent/tweet/?url={{ url }}&text={{ page.title | uri_escape }}{% if site.twitter.username %}&via={{ site.twitter.username }}{% endif %}{% endif -%}
+        {%- if id contains "facebook" %}https://facebook.com/sharer/sharer.php?u={{ url }}{% endif -%}
+        {%- if id contains "pinterest" %}https://pinterest.com/pin/create/button/?url={{ url }}&description={{ page.title }}&media={{ page.image }}{% endif -%}
+        {%- if id contains "linkedin" %}https://www.linkedin.com/shareArticle?url={{ url }}&title={{ page.title }}&source={{ site.title }}&mini=true{% endif -%}
+        {%- if id contains "tumblr" %}https://tumblr.com/widgets/share/tool?canonicalUrl={{ url }}&tags={{ page.category }}&caption={{ page.title }}{% endif -%}
+        {%- if id contains "reddit" %}https://reddit.com/submit?url={{ url }}&title={{ page.title }}&resubmit=true{% endif -%}
+        {%- if id contains "hackernews" %}https://news.ycombinator.com/submitlink?u={{ url }}&t={{ page.title }}{% endif -%}
+        {%- if id contains "designernews" %}https://www.designernews.co/submit?url={{ url }}&title={{ page.title }}{% endif -%}
+        {%- if id contains "email" %}mailto:?subject={{ page.title }}&body={{ url | prepend: "Hey, check out this: "}}{% endif -%}
+      {% endcapture %}
+
+      {% include button.html text=name icon=id link=share_link color=color %}
+    {% endif %}
+  {% endfor %}
+</div>
