@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "vlsmensh"
+  github           : # "vlsmensh"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "/in/vladimir-menshikov/" # Username
+  linkedin         : "/vladimir-menshikov/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
