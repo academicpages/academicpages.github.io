@@ -3,12 +3,15 @@ layout: page
 title: "CV"
 permalink: /cv/
 ---
+
 <style>
-  main, .page-content {
-    padding-left: 40px;
-    padding-right: 40px;
-    max-width: 900px;
+  main {
+    max-width: 800px;
     margin: 0 auto;
+    padding: 0 20px;
+  }
+  section {
+    margin-bottom: 30px;
   }
 </style>
 
