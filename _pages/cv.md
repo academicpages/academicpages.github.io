@@ -1,3 +1,10 @@
+---
+layout: page
+title: "CV"
+permalink: /cv/
+---
+<main>
+
 <section id="about">
   <h1>Shilei Luo</h1>
   <p>
@@ -91,3 +98,5 @@
     <li><strong>Technical:</strong> Python, Julia, Stata, R (Fluent); experience with Matlab and C++</li>
   </ul>
 </section>
+
+</main>
