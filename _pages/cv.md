@@ -31,12 +31,12 @@ permalink: /cv/
   <h2>Education</h2>
   <ul>
     <li>
-      <strong>Olin Business School – Washington University in St. Louis, China</strong><br>
+      <strong>Olin Business School – Washington University in St. Louis</strong><br>
       Ph.D. Candidate in Quantitative Marketing <br>
       <em>2022 – Present</em>
     </li>
     <li>
-      <strong>Guanghua School of Management – Peking University, China</strong><br>
+      <strong>Guanghua School of Management – Peking University</strong><br>
       Bachelor in Economics <br>
       <em>2018 – 2022</em>
     </li>
