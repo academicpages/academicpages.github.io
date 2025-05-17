@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mechanical Engineering, Yonsei University, 2022.03 ~ 2028.02 (expected)
+* Gyeongi Science High School, 2019.03 ~ 2022.02
 
 Work experience
 ======
