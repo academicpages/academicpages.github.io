@@ -6,7 +6,7 @@ _site/
 local/
 
 # Ignore the Gemfile that is generated
-Gemfile.lock
+# Gemfile.lock
 
 # Ignore files created by npm
 node_modules
