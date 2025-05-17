@@ -5,6 +5,8 @@ permalink: /cv/
 ---
 <main>
 
+<div style="margin-left: 40px; max-width: 800px;">
+
 <section id="about">
   <h1>Shilei Luo</h1>
   <p>
@@ -98,5 +100,5 @@ permalink: /cv/
     <li><strong>Technical:</strong> Python, Julia, Stata, R (Fluent); experience with Matlab and C++</li>
   </ul>
 </section>
-
+</div>
 </main>
