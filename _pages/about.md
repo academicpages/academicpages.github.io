@@ -11,4 +11,3 @@ About me
 ======
 I am a postdoc at Steno Diabetes Center Aarhus based in Denmark. 
 
-
