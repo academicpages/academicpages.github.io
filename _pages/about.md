@@ -255,7 +255,7 @@ Xupeng Zhu, **Dian Wang**, Guanang Su, Ondrej Biza, Robin Walters, Robert Platt
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2211.09231.pdf','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://openreview.net/forum?id=P4MUGRM4Acu','_blank')">OpenReview</button>
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=US4uWndGx9I','_blank')">Video</button>
-<button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=QYSb_hueDHI','_blank')">Talk</button>
+<button class="button-4" onclick="window.open('https://slideslive.com/38998670/the-surprising-effectiveness-of-equivariant-models-in-domains-with-latent-symmetry','_blank')">Talk</button>
 <button class="button-4" onclick="window.open('https://github.com/pointW/extrinsic_equi','_blank')">Code</button>
 <br>
 
