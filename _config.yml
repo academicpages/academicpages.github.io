@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dian Wang"
 title_separator          : "-"
 name                     : &name "Dian Wang"
-description              : &description "PhD Candidate at Northeastern University"
+description              : &description "PhD at Northeastern University"
 url                      : https://pointw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pointW/pointw.github.io"
@@ -48,7 +48,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Dian Wang"
   avatar           : "profile.JPG"
-  bio              : "PhD Candidate at Northeastern University"
+  bio              : "PhD at Northeastern University"
   location         : "Boston, Massachusetts"
   employer         :
   pubmed           :
