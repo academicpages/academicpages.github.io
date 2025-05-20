@@ -18,7 +18,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 <br>
 
-* Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.**
+* Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** \[Manuscript upon request\]
   *    <span style="font-size: 90%">*Rebecca Morton Poster Award*, 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">*Timothy E. Cook Best Graduate Student Paper Award*, APSA 2024</span>
 
@@ -29,7 +29,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. [Manuscripy upon request]
+* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. \[Manuscript upon request\]
 
 <details><summary>Abstract</summary>
 
@@ -38,7 +38,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 <br>
 
-* Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**.
+* Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. \[Manuscript upon request\]
   
 <details><summary>Abstract</summary>
 
@@ -59,7 +59,7 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 
 ## Selected Work in Progress
 
-* Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.**
+* Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.** \[Manuscript upon request\]
 
 * Deng, Rex Weiye and [Haifeng Huang](https://www.hhuang.org/). **Cute Propaganda: A Blessing or A Curse?**
 
