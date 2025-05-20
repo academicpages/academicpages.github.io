@@ -13,12 +13,9 @@ published: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
-
 I am a Ph.D. candidate in Computer Science at [Northeastern University](https://www.northeastern.edu), advised by Prof. [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and Prof. [Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve the efficiency and generalization of robot learning. During my Ph.D., I was fortunate to be supported by the J.P.Morgan Chase Ph.D. Fellowship in 2023.
 
 Email: wang dot dian at northeastern dot edu / [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) / [Research Statement](dian_research_statement.pdf)
-
-<!-- **I am currently on the job market, primarily seeking opportunities in academia. Please see my [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) and [Research Statement](dian_research_statement.pdf). If you believe I would be a good fit for your department, feel free to contact me at wang dot dian at northeastern dot edu.** -->
 
 ## News
 <style>
@@ -132,22 +129,6 @@ document.addEventListener("DOMContentLoaded", function() {
   display: none;
 }
 
-/*.project-img-container {
-  width: 220px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  float: right;
-  margin-left: 1em;
-  margin-bottom: 0.5em;
-  background: transparent;
-}
-.project-img-container img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}*/
-
 .project-img-container {
   width: 220px;
   display: flex;
@@ -182,7 +163,6 @@ document.addEventListener("DOMContentLoaded", function() {
     height: auto;
   }
 }
-
 </style>
 
 <div class="project-img-container">
