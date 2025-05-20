@@ -76,14 +76,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  
+    tracking_id          :  ""
 
 
 # Site Author
 author:
-  name             : "Hannah-Marie Martiny"
+  name             : "Hannah-Marie Martiny, PhD"
   avatar           : "profile.JPG"
-  bio              : "Ph.D. in Bioinformatics with a focus on large-scale metagenomic analysis"
+  bio              : "PostDoc in Bioinformatics with a focus on large-scale metagenomic analysis"
   location         : "Copenhagen, Denmark"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=TKAOh3wAAAAJ&hl=en"
