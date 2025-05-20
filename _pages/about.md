@@ -97,7 +97,6 @@ document.addEventListener("DOMContentLoaded", function() {
   white-space: nowrap;
   word-wrap: break-word;
 }
-</style>
 
 .button-4:hover {
   background-color: #F3F4F6;
@@ -164,6 +163,7 @@ document.addEventListener("DOMContentLoaded", function() {
     height: auto;
   }
 }
+</style>
 
 <div class="project-img-container">
   <img src="images/rel_traj.png" alt="" style="width: 180px; height: auto;">
