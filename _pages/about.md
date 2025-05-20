@@ -12,6 +12,8 @@ I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and
 I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
 
 # Recent News
+* 17th-24th May 2025: This week I am in Rio de Janeiro, attending the [Shaping the future of time-domain astronomy in Rubin era](https://cbpf.br/rubin_transients2025/schedule) conference. I am giving a talk on interpreting transient data with modelling.
+* 29th April 2025: Schulze et al. 2025 - _A cosmic formation site of silicon and sulphur revealed by a new type of supernova explosion_ accepted in Nature. Check it out on [arXiv](https://arxiv.org/abs/2409.02054).
 * 24th April 2025: Srinivasaragavan et al. 2025 - _EP250108a/SN 2025kg: A Broad-Line Type Ic Supernova Associated with a Fast X-ray Transient Showing Evidence of Extended CSM Interaction_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.17516).
 * 15th April 2025: Rob-Eyles et al. 2025 - _The kangaroo's first hop: the early fast cooling phase of EP250108a/SN 2025kg_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.08886).
 * 15th April 2025: Rastinejad et al. 2025 - _EP 250108a/SN 2025kg: Observations of the most nearby Broad-Line Type Ic Supernova following an Einstein Probe Fast X-ray Transient_ submitted to ApJL. Check it out on [arXiv](https://arxiv.org/abs/2504.08889).
