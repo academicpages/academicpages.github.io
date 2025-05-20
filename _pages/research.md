@@ -20,6 +20,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.**
   *    <span style="font-size: 90%">*Rebecca Morton Poster Award*, 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
+  *    <span style="font-size: 90%">*Timothy E. Cook Best Graduate Student Paper Award*, APSA 2024</span>
 
 <details><summary>Abstract</summary>
 
