@@ -19,7 +19,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 <br>
 
 * Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.**
-  *    <span style="font-size: 80%">*Rebecca Morton Poster Award*, 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
+  *    <span style="font-size: 90%">*Rebecca Morton Poster Award*, 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
 
 <details><summary>Abstract</summary>
 
@@ -28,7 +28,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. \[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. [Manuscripy upon request]
 
 <details><summary>Abstract</summary>
 
@@ -48,7 +48,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 * [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.**
   
-  * *Best Foreign Policy Paper Award*, APSA 2022
+  * <span style="font-size: 90%">Best Foreign Policy Paper Award*, APSA 2022</span>
 <details><summary>Abstract</summary>
 
 The general public greeted news of the American withdrawal from Afghanistan, ending a two-decade long operation,  with mixed reactions. In this paper, we describe the real-time reactions to the American withdrawal on Twitter. We trace and describe online discussions specifically about the U.S. withdrawal from Afghanistan by collecting a unique dataset of 7 million tweets. Instead of relying on a pre-determined group of users, we collect all tweets in the United States sent between August and September of 2021 that mention a list of keywords related to the  withdrawal. This approach allows us to collect a comprehensive corpus of tweets related to the Afghan withdrawal. We  then apply a semi-supervised machine learning algorithm to measure sentiment toward both the Trump administration, which began the withdrawal, and the Biden administration, which concluded it.  We  find that social media reactions to  key events are rapid but transient. We observe no spikes but a steady increasing volume of negative Tweets after the United States completes the withdrawal process on August 31st. 
