@@ -132,6 +132,22 @@ document.addEventListener("DOMContentLoaded", function() {
   display: none;
 }
 
+/*.project-img-container {
+  width: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  background: transparent;
+}
+.project-img-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}*/
+
 .project-img-container {
   width: 220px;
   display: flex;
@@ -141,13 +157,32 @@ document.addEventListener("DOMContentLoaded", function() {
   margin-left: 1em;
   margin-bottom: 0.5em;
   background: transparent;
-  /* No height here */
 }
 .project-img-container img {
   max-width: 100%;
   height: auto;
   display: block;
 }
+
+/* Responsive fix for mobile devices */
+@media (max-width: 600px) {
+  .project-img-container {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .project-img-container img {
+    width: 90vw;
+    max-width: 320px; /* set a sensible maximum */
+    height: auto;
+  }
+}
+
 </style>
 
 <div class="project-img-container">
