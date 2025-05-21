@@ -89,11 +89,11 @@ collection: portfolio
 
 # 2020级
 
-<table style="width: 100%; max-width: 800px;">
+<table style="width: 50%; max-width: 400px;">
   <tr>
     <td style="text-align: center;">
-      <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
-      <img src="/images/students/epsilon_yy1.png" alt="科研" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
+      <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="max-width: 100%; max-height: 200px; object-fit: cover; object-position: center;" />
+      <img src="/images/students/epsilon_yy1.png" alt="科研" style="max-width: 100%; max-height: 200px; object-fit: cover; object-position: center;" />
       <p>2023毕业去向：上海****能源有限公司</p>
     </td>
   </tr>
