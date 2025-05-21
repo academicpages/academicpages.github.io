@@ -9,12 +9,18 @@ collection: portfolio
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
 |![姚佳俊](/images/students/姚佳俊1.jpg "姚佳俊")| ![叶镇](/images/students/叶镇1.jpg "叶镇")| ![慕成林](/images/students/慕成林1.jpg "慕成林")| ![胡浩](/images/students/胡浩1.jpg "胡浩")|
+|![科研](/images/students/姚佳俊_科研.png "科研")| ![科研](/images/students/叶镇_科研.png "科研")| ![科研](/images/students/慕成林_科研.png "科研")| ![科研](/images/students/胡浩_科研.png "科研")|
+|2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |
+
 
 # 2023级
 
 |陈春海| 彭俊翔| 
 |:-----------:|:----------:|
 |![陈春海](/images/students/陈春海1.jpg "陈春海")| ![彭俊翔](/images/students/彭俊翔1.jpg "彭俊翔")|
+|![科研](/images/students/陈春海_科研.png "科研")| ![曹宇](/images/students/彭俊翔_科研.png "科研")|
+|2026毕业去向： |2026毕业去向： |
+
 
 
 
@@ -23,6 +29,9 @@ collection: portfolio
 |俞聪|明士凯|石鹏|
 |:-------:|:-----------:|:-------------:|
 |![俞聪](/images/students/俞聪1.jpg "俞聪")|![明士凯](/images/students/明士凯1.jpg "明士凯")|![石鹏](/images/students/石鹏1.jpg "石鹏")|
+|![科研](/images/students/俞聪_科研.png "科研")| ![曹宇](/images/students/明士凯_科研.png "科研")| ![曹宇](/images/students/石鹏_科研.png "科研")|
+|2025毕业去向：上海****|2025毕业去向：深圳****技术有限公司|2025毕业去向：上海**制造有限公司|
+
 
 
 # 2021级
