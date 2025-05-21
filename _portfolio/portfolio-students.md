@@ -8,7 +8,7 @@ collection: portfolio
 
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
-| <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" width="200" height="auto" style="object-fit: contain; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" width="200" height="auto" style="object-fit: contain; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" width="200" height="auto" style="object-fit: contain; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
+| <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" width="200" height="auto" style="object-fit: contain; object-position: center;" />| <img src="/images/students/叶镇.jpg" alt="叶镇" width="200" height="auto" style="object-fit: contain; object-position: center;" />| <img src="/images/students/慕成林.png" alt="慕成林" width="auto" height="200" style="object-fit: contain; object-position: center;" />| <img src="/images/students/胡浩.jpeg" alt="胡浩" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
 | <img src="/images/students/姚佳俊_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/叶镇_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/慕成林_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/胡浩_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
 |2027毕业去向：待定  |2027毕业去向：待定  |2027毕业去向：待定  |2027毕业去向：待定  |
 
@@ -17,7 +17,7 @@ collection: portfolio
 
 | 陈春海 | 彭俊翔 |
 |:---------:|:---------:|
-| <img src="/images/students/陈春海.jpg" alt="陈春海" width="200" height="auto" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
+| <img src="/images/students/陈春海.jpg" alt="陈春海" width="auto" height="200" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
 | <img src="/images/students/陈春海_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" width="200" height="auto" style="object-fit: contain; object-position: center;" /> |
 | 2026毕业去向：待定 | 2026毕业去向：待定 |
 
