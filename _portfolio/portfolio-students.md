@@ -75,14 +75,18 @@ collection: portfolio
 <table style="width: 100%; max-width: 800px;">
   <tr>
     <td style="width: 50%; text-align: center;">
-      <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
-      <img src="/images/students/微信图片_于帝伟.png" alt="科研" style="max-width: 100%; height: 200px; object-fit: cover; object-position: center;" /> <!-- 设置高度为200px -->
-      <p>2024毕业去向：上海**微电子有限公司</p>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
+        <img src="/images/students/微信图片_于帝伟.png" alt="科研" style="max-width: 100%; height: 50%; object-fit: cover; object-position: center;" /> <!-- 使用高度的百分比 -->
+        <p>2024毕业去向：上海**微电子有限公司</p>
+      </div>
     </td>
     <td style="width: 50%; text-align: center;">
-      <img src="/images/students/曹宇.jpg" alt="曹宇" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
-      <img src="/images/students/微信图片_曹宇.png" alt="科研" style="max-width: 100%; height: 200px; object-fit: cover; object-position: center;" /> <!-- 设置高度为200px -->
-      <p>2024毕业去向：南京****科技有限公司</p>
+      <div style="display: flex; flex-direction: column; align-items: center;">
+        <img src="/images/students/曹宇.jpg" alt="曹宇" style="max-width: 100%; max-height: 400px; object-fit: cover; object-position: center;" />
+        <img src="/images/students/微信图片_曹宇.png" alt="科研" style="max-width: 100%; height: 50%; object-fit: cover; object-position: center;" /> <!-- 使用高度的百分比 -->
+        <p>2024毕业去向：南京****科技有限公司</p>
+      </div>
     </td>
   </tr>
 </table>
