@@ -8,7 +8,7 @@ collection: portfolio
 
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
-|![姚佳俊](/images/students/姚佳俊.jpg "姚佳俊"){: width="200" .optimized-image }| ![叶镇](/images/students/叶镇1.jpg "叶镇"){: width="200" .optimized-image }| ![慕成林](/images/students/慕成林.jpg "慕成林"){: width="200" .optimized-image }| ![胡浩](/images/students/胡浩.jpeg "胡浩"){: width="200" .optimized-image }|
+|![姚佳俊](/images/students/姚佳俊.jpg "姚佳俊"){: width="200" .optimized-image }| ![叶镇](/images/students/叶镇1.jpg "叶镇"){: width="200" .optimized-image }| ![慕成林](/images/students/慕成林.png "慕成林"){: width="200" .optimized-image }| ![胡浩](/images/students/胡浩.jpeg "胡浩"){: width="200" .optimized-image }|
 |![科研图片](/images/students/姚佳俊_科研.png "科研"){: width="200" .optimized-image }| ![科研图片](/images/students/叶镇_科研.png "科研"){: width="200" .optimized-image }| ![科研图片](/images/students/慕成林_科研.png "科研"){: width="200" .optimized-image }| ![科研](/images/students/胡浩_科研.png "科研"){: width="200" .optimized-image }|
 |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |
 
@@ -50,16 +50,16 @@ collection: portfolio
 |2023毕业去向：上海****能源有限公司|
 
 # 合影
-|2023毕业|
+|2023毕业| |
 |:-----------:|:----------:|
-|![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1"){: width="200" .optimized-image }|![202306毕业季2](/images/students/202306毕业季2.jpg "202306毕业季合影2")|
+|![202306毕业季1](/images/students/202306毕业季1.jpg "202306毕业季合影1"){: width="200" .optimized-image }|![202306毕业季2](/images/students/202306毕业季2.jpg "202306毕业季合影2"){: width="200" .optimized-image }|
 
-|2024毕业|
+|2024毕业| |
 |:-----------:|:----------:|
-|![202406毕业季1](/images/students/于曹2024-3.jpeg "202306毕业季合影1"){: width="200" .optimized-image }|![202406毕业季2](/images/students/于帝伟-曹宇2024.jpeg "202406毕业季合影2")|
-|![202406毕业季1](/images/students/于曹2024.jpeg "202306毕业季合影3"){: width="200" .optimized-image }|![202406毕业季2](/images/students/2024届.jpeg "202306毕业季合影4")|
+|![202406毕业季1](/images/students/于曹2024-3.jpeg "202306毕业季合影1"){: width="200" .optimized-image }|![202406毕业季2](/images/students/于帝伟-曹宇2024.jpeg "202406毕业季合影2"){: width="200" .optimized-image }|
+|![202406毕业季1](/images/students/于曹2024.jpeg "202306毕业季合影3"){: width="200" .optimized-image }|![202406毕业季2](/images/students/2024届.jpeg "202306毕业季合影4"){: width="200" .optimized-image }|
 
 
-|会议剪影|
+|会议剪影| |
 |:-----------:|
-|![202411沪港论坛](/images/students/第19届沪港力学.jpg "第19届沪港力学合影"){: width="200" .optimized-image }|
+|![202411沪港论坛](/images/students/第19届沪港力学.jpg "第19届沪港力学合影"){: width="200" .optimized-image }| |
