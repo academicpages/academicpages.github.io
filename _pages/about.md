@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0https://).
+I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels][def].
+
+My research combines large, multilevel data and rigorous causal analysis to reveal how individuals, businesses, and communities respond to climate shocks and natural disasters.
 
 A data-driven personal website
 ======
@@ -47,3 +49,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+[def]: https://sites.google.com/site/pieterserneels/about-me?authuser=0https://
