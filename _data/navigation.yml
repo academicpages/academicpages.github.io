@@ -1,22 +1,10 @@
-# main links links
+# main links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /teaching/
+  - title: "Open-Source"
+    url: /projects/
+  - title: "Group"
+    url: "https://catalyst.cs.cmu.edu/"
+  - title: "Google Scholar"
+    url: "https://scholar.google.com/citations?hl=en&user=7nlvOMQAAAAJ"

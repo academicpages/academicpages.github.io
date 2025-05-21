@@ -141,9 +141,9 @@ td > code {
   padding-bottom: 0.1rem;
   font-size: $type-size-6;
   background: $code-background-color;
-  border: 1px solid $lighter-gray;
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  /* border: 1px solid $lighter-gray; */ /* Removed for minimalist feel */
+  border-radius: $border-radius; /* Keeping border-radius for subtle code block styling */
+  box-shadow: $box-shadow; /* This will be none due to _variables.scss change */
 
   &:before, &:after {
     letter-spacing: -0.2em;
@@ -196,7 +196,7 @@ figure {
 
   img {
     width: 100%;
-    border-radius: $border-radius;
+    border-radius: 0; /* Removed for minimalist feel */
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }

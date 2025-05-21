@@ -10,8 +10,9 @@
   }
 
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
+    /* @include span(10 of 12 last); */ /* Removed for single-column */
+    /* @include prefix(0.5 of 12); */ /* Removed for single-column */
+    @include span(12 of 12 last); /* Make content full width */
   }
 
   a {
@@ -90,6 +91,7 @@
    ========================================================================== */
 
 .list__item {
+  /*
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -101,6 +103,7 @@
   @include breakpoint($x-large) {
     padding-right: $right-sidebar-width-wide;
   }
+  */ /* Removed for single-column */
 
   .page__meta {
     margin: 0 0 4px;

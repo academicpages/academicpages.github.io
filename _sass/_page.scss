@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 2em;
+  margin-top: 1em; /* Reduced for minimalist feel */
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -18,9 +18,10 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    /* @include span(10 of 12 last); */ /* Removed for single-column */
+    /* @include prefix(0.5 of 12); */ /* Removed for single-column */
+    /* @include suffix(2 of 12); */ /* Removed for single-column */
+    @include span(12 of 12 last); /* Make content full width */
   }
 
   .page__inner-wrap {
@@ -52,7 +53,7 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    /* border-bottom: 1px solid $border-color; */ /* Removed for minimalist feel */
   }
 
   p, li, dl {
@@ -198,7 +199,7 @@
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
+  /* border-top: 1px solid $border-color; */ /* Removed for minimalist feel */
 
   @include breakpoint(max-width $small) {
     .btn span {
@@ -290,7 +291,7 @@
   margin-bottom: 10px;
   padding-top: 2rem;
   font-size: $type-size-6;
-  border-top: 1px solid $border-color;
+  /* border-top: 1px solid $border-color; */ /* Removed for minimalist feel */
   text-transform: uppercase;
 }
 
@@ -380,7 +381,7 @@
 .page__related {
   margin-top: 2em;
   padding-top: 1em;
-  border-top: 1px solid $border-color;
+  /* border-top: 1px solid $border-color; */ /* Removed for minimalist feel */
   @include clearfix();
   float: left;
 
