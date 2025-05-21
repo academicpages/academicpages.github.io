@@ -8,7 +8,7 @@ collection: portfolio
 
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
-|![姚佳俊](/images/students/姚佳俊1.jpg "姚佳俊")| ![叶镇](/images/students/叶镇1.jpg "叶镇")| ![慕成林](/images/students/慕成林1.jpg "慕成林")| ![胡浩](/images/students/胡浩1.jpg "胡浩")|
+|![姚佳俊](/images/students/姚佳俊1.jpg "姚佳俊")| ![叶镇](/images/students/叶镇1.jpg "叶镇")| ![慕成林](/images/students/慕成林1.jpg "慕成林")| ![胡浩](/images/students/胡浩.jpeg "胡浩")|
 |![科研图片](/images/students/姚佳俊_科研.png "科研")| ![科研图片](/images/students/叶镇_科研.png "科研")| ![科研图片](/images/students/慕成林_科研.png "科研")| ![科研](/images/students/胡浩_科研.png "科研")|
 |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |
 
