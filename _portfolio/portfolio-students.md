@@ -8,7 +8,7 @@ collection: portfolio
 
 |姚佳俊| 叶镇| 慕成林| 胡浩| 
 |:-----------:|:----------:|:----------:|:----------:|
-|![姚佳俊](/images/students/姚佳俊.jpg "姚佳俊"){: width="200" .optimized-image }| ![叶镇](/images/students/叶镇1.jpg "叶镇"){: width="200" .optimized-image }| ![慕成林](/images/students/慕成林.png "慕成林"){: width="200" .optimized-image }| ![胡浩](/images/students/胡浩.jpeg "胡浩"){: width="200" .optimized-image }|
+| <img src="/images/students/姚佳俊.jpg" alt="姚佳俊" width="200" height="200" />| ![叶镇](/images/students/叶镇1.jpg "叶镇"){: width="200" .optimized-image }| ![慕成林](/images/students/慕成林.png "慕成林"){: width="200" .optimized-image }| ![胡浩](/images/students/胡浩.jpeg "胡浩"){: width="200" .optimized-image }|
 |![科研图片](/images/students/姚佳俊_科研.png "科研"){: width="200" .optimized-image }| ![科研图片](/images/students/叶镇_科研.png "科研"){: width="200" .optimized-image }| ![科研图片](/images/students/慕成林_科研.png "科研"){: width="200" .optimized-image }| ![科研](/images/students/胡浩_科研.png "科研"){: width="200" .optimized-image }|
 |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |2027毕业去向：  |
 
