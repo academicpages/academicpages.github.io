@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postgraduate student at [the School of Global Development, University of East Anglia] (https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede] and [Prof. Pieter Serneels] (https://sites.google.com/site/pieterserneels/about-me?authuser=0). 
+I am a postgraduate student at [the School of Global Development, University of East Anglia](https://www.uea.ac.uk/about/school-of-global-development) under the supervision of [Prof. Bereket Kebede](https://sites.google.com/view/bereket-kebede/profile) and [Prof. Pieter Serneels](https://sites.google.com/site/pieterserneels/about-me?authuser=0https://).
 
 A data-driven personal website
 ======
