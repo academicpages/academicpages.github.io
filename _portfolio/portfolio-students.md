@@ -57,8 +57,13 @@ collection: portfolio
 
 | 2024毕业 |  |
 |:-----------:|:----------:|
-| <img src="/images/students/于曹2024-3.jpeg" alt="202306毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/于帝伟-曹宇2024.jpeg" alt="202406毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/于曹2024.jpeg" alt="202306毕业季合影3" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/2024届.jpeg" alt="202306毕业季合影4" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/于曹2024-3.jpeg" alt="202406毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/于帝伟-曹宇2024.jpeg" alt="202406毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/于曹2024.jpeg" alt="20246毕业季合影3" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/2024届.jpeg" alt="202406毕业季合影4" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+
+| 2025毕业 |  |
+|:-----------:|:----------:|
+| <img src="/images/students/俞明石-2025合.jpeg" alt="202506毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/俞明石-2025.jpeg" alt="202506毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+
 
 | 会议剪影 |  |
 |:-----------:|:----------:|
