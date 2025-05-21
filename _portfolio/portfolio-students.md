@@ -17,8 +17,8 @@ collection: portfolio
 
 | 陈春海 | 彭俊翔 |
 |:---------:|:---------:|
-| <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/陈春海_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈春海.jpg" alt="陈春海" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/陈春海_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 2026毕业去向：待定 | 2026毕业去向：待定 |
 
 
@@ -37,8 +37,8 @@ collection: portfolio
 
 | 于帝伟 | 曹宇 |
 |:-----------:|:----------:|
-| <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/曹宇.jpg" alt="曹宇" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
-| <img src="/images/students/微信图片_于帝伟.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/微信图片_曹宇.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/于帝伟.jpg" alt="于帝伟" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/曹宇.jpg" alt="曹宇" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/微信图片_于帝伟.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/微信图片_曹宇.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 2024毕业去向：上海**微电子有限公司 | 2024毕业去向：南京****科技有限公司 |
 
 
@@ -46,20 +46,20 @@ collection: portfolio
 
 | 蔡雨生 |
 |:---------:|
-| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="科研" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/蔡雨生.jpg" alt="蔡雨生" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> <img src="/images/students/epsilon_yy1.png" alt="科研" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 | 2023毕业去向：上海****能源有限公司 |
 
 # 合影
 
 | 2023毕业 |  |
 |:-----------:|:----------:|
-| <img src="/images/students/202306毕业季1.jpg" alt="202306毕业季合影1" width="400" height="auto" /> | <img src="/images/students/202306毕业季2.jpg" alt="202306毕业季合影2" width="auto" height="400" style="object-fit: contain; object-position: center;" /> |
+| <img src="/images/students/202306毕业季1.jpg" alt="202306毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/202306毕业季2.jpg" alt="202306毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 
 | 2024毕业 |  |
 |:-----------:|:----------:|
-| <img src="/images/students/于曹2024-3.jpeg" alt="202306毕业季合影1" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/于帝伟-曹宇2024.jpeg" alt="202406毕业季合影2" width="auto" height="400" style="object-fit: contain; object-position: center;" /> |
-| <img src="/images/students/于曹2024.jpeg" alt="202306毕业季合影3" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> | <img src="/images/students/2024届.jpeg" alt="202306毕业季合影4" width="auto" height="400" style="object-fit: contain; object-position: center;" /> |
+| <img src="/images/students/于曹2024-3.jpeg" alt="202306毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/于帝伟-曹宇2024.jpeg" alt="202406毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/于曹2024.jpeg" alt="202306毕业季合影3" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/2024届.jpeg" alt="202306毕业季合影4" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 
 | 会议剪影 |  |
 |:-----------:|:----------:|
-| <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 200px; height: 200px; object-fit: cover; object-position: center;" /> |  |
+| <img src="/images/students/第19届沪港力学.jpg" alt="第19届沪港力学合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |  |
