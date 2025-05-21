@@ -16,11 +16,10 @@ collection: portfolio
 # 2023级
 
 | 陈春海 | 彭俊翔 |
-|:-----------:|:----------:|
-| <img src="/images/students/陈春海.jpg" alt="陈春海" width="200" height="200" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" width="200" height="200" /> |
-| <img src="/images/students/陈春海_科研.png" alt="科研" width="200" height="200" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" width="200" height="200" /> |
+|:---------:|:---------:|
+| <img src="/images/students/陈春海.jpg" alt="陈春海" width="150" height="150" /> | <img src="/images/students/彭俊翔.jpg" alt="彭俊翔" width="150" height="150" /> |
+| <img src="/images/students/陈春海_科研.png" alt="科研" width="150" height="150" /> | <img src="/images/students/彭俊翔_科研.png" alt="科研" width="150" height="150" /> |
 | 2026毕业去向：待定 | 2026毕业去向：待定 |
-
 
 
 
