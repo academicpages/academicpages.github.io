@@ -63,6 +63,7 @@ collection: portfolio
 | 2025毕业 |  |
 |:-----------:|:----------:|
 | <img src="/images/students/俞明石-2025合.jpeg" alt="202506毕业季合影1" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/俞明石-2025.jpeg" alt="202506毕业季合影2" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
+| <img src="/images/students/2025毕业合影.jpeg" alt="2025毕业合影" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> | <img src="/images/students/俞聪毕业.jpeg" alt="俞聪毕业" style="width: 400px; height: 400px; object-fit: cover; object-position: center;" /> |
 
 
 | 会议剪影 |  |
