@@ -1,0 +1,20 @@
+[
+  {
+    "name": "俞聪",
+    "image": "/images/students/俞聪.jpg",
+    "research": "/images/students/俞聪_科研.png",
+    "graduation_destination": "2025毕业去向：上海****"
+  },
+  {
+    "name": "明士凯",
+    "image": "/images/students/明士凯.jpg",
+    "research": "/images/students/明士凯_科研.png",
+    "graduation_destination": "2025毕业去向：深圳****技术有限公司"
+  },
+  {
+    "name": "石鹏",
+    "image": "/images/students/石鹏.jpg",
+    "research": "/images/students/石鹏_科研.png",
+    "graduation_destination": "2025毕业去向：上海**制造有限公司"
+  }
+]

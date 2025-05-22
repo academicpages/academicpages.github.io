@@ -1,0 +1,26 @@
+[
+  {
+    "name": "姚佳俊",
+    "image": "/images/students/姚佳俊.jpg",
+    "research": "/images/students/姚佳俊_科研.png",
+    "graduation_destination": "2027毕业去向：待定"
+  },
+  {
+    "name": "叶镇",
+    "image": "/images/students/叶镇.jpg",
+    "research": "/images/students/叶镇_科研.png",
+    "graduation_destination": "2027毕业去向：待定"
+  },
+  {
+    "name": "慕成林",
+    "image": "/images/students/慕成林.png",
+    "research": "/images/students/慕成林_科研.png",
+    "graduation_destination": "2027毕业去向：待定"
+  },
+  {
+    "name": "胡浩",
+    "image": "/images/students/胡浩.jpeg",
+    "research": "/images/students/胡浩_科研.png",
+    "graduation_destination": "2027毕业去向：待定"
+  }
+]
