@@ -11,30 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Pennsylvania, Summa Cum Laude (2016-2020)
+  * B.S.E. in Chemical Engineering
+  * B.A. in Physics (Concentration in Advanced Theory and Experimental Techniques)
+* California Institute of Technology (2020-Present)
+  * Ph.D. Candidate in Chemical Engineering
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Goddard Group, Caltech (2022-Present)
+* Miller Group, Caltech (2020-2022)
+* QuantumScape Corp (2019)
+* Rappe Group, University of Pennsylvania (2016-2020)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NSF Graduate Research Fellow (2020)
+* Barry Goldwater Fellowship Honorable Mention (2018)
 
 Publications
 ======
@@ -47,13 +40,12 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Skills
+======
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
