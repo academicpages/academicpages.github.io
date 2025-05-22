@@ -7,6 +7,10 @@ excerpt: "Publications"
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
+1.	S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle</sub> \
+<sub> [3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs](https://dl.acm.org/doi/10.1145/3689050.3704942)  </sub> \
+<sub> **CHI conference on Human Factors in Computing Systems 2025** 2025 </sub>
+
 1. <sub> <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle</sub> \
 <sub> [Sparsely actuated modular metamaterials for shape-changing interfaces](https://dl.acm.org/doi/10.1145/3689050.3704942)  </sub> \
 <sub> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025 </sub>
