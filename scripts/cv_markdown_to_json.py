@@ -306,34 +306,6 @@ def parse_talks(talks_dir):
     
     return talks
     
-    def parse_talks(code_dir):
-    """Parse talks from the _code directory."""
-    code = []
-    
-    if not os.path.exists(code_dir):
-        return code
-    
-    for talk_file in sorted(glob.glob(os.path.join(code_dir, "*.md"))):
-        with open(code_file, 'r', encoding='utf-8') as file:
-            content = file.read()
-        
-        # Extract front matter
-        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
-        if front_matter_match:
-            front_matter = yaml.safe_load(front_matter_match.group(1))
-            
-            # Extract talk details
-            talk_entry = {
-                "name": front_matter.get('title', ''),
-                "event": front_matter.get('venue', ''),
-                "date": front_matter.get('date', ''),
-                "location": front_matter.get('location', ''),
-                "description": front_matter.get('excerpt', '')
-            }
-            
-            talks.append(talk_entry)
-    
-    return code
 
 def parse_teaching(teaching_dir):
     """Parse teaching from the _teaching directory."""
