@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vignesh Bhethanabotla / Caltech"
 title_separator          : "-"
 name                     : &name "Vignesh C. Bhethanabotla"
-description              : &description "Ph.D. candidate in the Miller group @ Caltech"
+description              : &description "Ph.D. candidate in Chemical Engineering @ Caltech"
 url                      : https://vbhethan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vbhethan/vbhethan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Vignesh C. Bhethanabotla"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. candidate in the Miller Group @ Caltech"
+  bio              : "Ph.D. candidate in Chemical Engineering @ Caltech"
   location         : "Pasadena, CA"
   employer         :
   pubmed           : 
