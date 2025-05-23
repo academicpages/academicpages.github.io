@@ -8,12 +8,17 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+/* Force light theme */
+:root {
+    color-scheme: light;
+}
+
 @import
     "vendor/breakpoint/breakpoint",
 
     "themes",
     "theme/default",
-    "theme/dark",
+    // "theme/dark", // Commented out to disable dark theme
 
     "include/mixins",
     "vendor/susy/susy",
