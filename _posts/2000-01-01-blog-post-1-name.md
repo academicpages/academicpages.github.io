@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post template number 1'
 date: 2000-01-01
-permalink: /posts/2000/01/blog-post-1-name/
+permalink: /posts/2000/01/blog-post-1-name
 hidden:true
 tags:
   - cool posts

@@ -1,7 +1,7 @@
 ---
 title: '四大坐标系-内外参'
 date: 2023-02-04
-permalink: /posts/2023/0204/blog-post-1-zkm/
+permalink: /posts/2023/0204/blog-post-1-zkm
 tags:
   - 标定
   - 坐标系
