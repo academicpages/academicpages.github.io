@@ -165,7 +165,7 @@ document.addEventListener("DOMContentLoaded", function() {
 }
 </style>
 
-<div class="project-img-container">
+<div class="project-img-container" style="width: 220px">
   <img src="images/rel_traj.png" alt="" style="width: 180px; height: auto;">
 </div>
 <a href="https://arxiv.org/pdf/2505.13431" style="text-decoration: none; color: inherit;"><strong>A Practical Guide for Incorporating Symmetry in Diffusion Policy</strong></a>  
@@ -175,10 +175,19 @@ document.addEventListener("DOMContentLoaded", function() {
 <br><br>
 
 <div class="project-img-container">
+  <img src="images/boce_i2s.gif" alt="" style="width: 220px; height: auto;">
+</div>
+<a href="https://arxiv.org/pdf/2505.16969" style="text-decoration: none; color: inherit;"><strong>3D Equivariant Visuomotor Policy Learning via Spherical Projection</strong></a>  
+Boce Hu, **Dian Wang**, David Klee, Heng Tian, Xupeng Zhu, Haojie Huang, Robert Platt, Robin Walters  
+*Preprint*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2505.16969','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container">
   <img src="images/haibo_hep.png" alt="" style="width: 210px; height: auto;">
 </div>
 <a href="https://arxiv.org/pdf/2502.05728" style="text-decoration: none; color: inherit;"><strong>Hierarchical Equivariant Policy via Frame Transfer</strong></a>  
-Haibo Zhao\*, **Dian Wang\*<sup><i class="fa-regular fa-envelope"></i></sup>**, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
+Haibo Zhao\*, **Dian Wang\***, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao, Yaoyao Qian, Robin Walters, Robert Platt  
 *ICML 2025*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2502.05728','_blank')">PDF</button>
 <br>
@@ -187,7 +196,7 @@ Haibo Zhao\*, **Dian Wang\*<sup><i class="fa-regular fa-envelope"></i></sup>**, 
   <img src="images/boce_push_grasp.png" alt="" style="width: 220px; height: auto;">
 </div>
 <a href="https://arxiv.org/pdf/2504.03053" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
-Boce Hu\*, Heng Tian\*, **Dian Wang<sup><i class="fa-regular fa-envelope"></i></sup>**, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt  
+Boce Hu\*, Heng Tian\*, **Dian Wang**, Haojie Huang, Xupeng Zhu, Robin Walters, Robert Platt  
 *Preprint*  
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2504.03053','_blank')">PDF</button>
 <br>
@@ -485,7 +494,8 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=ZimZlsJTaTU','_blank')">Video</button>
 <br>
 
-\* indicates equal contribution; <sup><i class="fa-regular fa-envelope"></i></sup> indicates corresponding author; <sup>†</sup> indicates equal advising.  
+\* indicates equal contribution; <sup>†</sup> indicates equal advising.  
+<!-- <sup><i class="fa-regular fa-envelope"></i></sup> indicates corresponding author;  -->
 
 ## Service
 **Organizer:** RSS2023 Workshop on Symmetries in Robot Learning; RSS 2024 Workshop on Geometric and Algebraic Structure in Robot Learning  
