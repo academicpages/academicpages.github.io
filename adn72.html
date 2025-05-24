@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ADN Binario con Interacciones</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            background: #2d004b;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: monospace;
+            touch-action: none;
+        }
+        canvas {
+            display: block;
+            width: 100vw;
+            height: calc(100vh - 80px);
+        }
+        .controls {
+            position: fixed;
+            bottom: 10px;
+            display: flex;
+            gap: 8px;
+            padding: 5px;
+            z-index: 10;
+        }
+        button {
+            padding: 8px 16px;
+            font-size: calc(12px + 0.5vw);
+            font-family: monospace;
+            background: #1a1a1a;
+            color: #fff;
+            border: 2px solid #fff;
+            cursor: pointer;
+            transition: background 0.3s, color 0.3s;
+        }
+        button:hover {
+            background: #fff;
+            color: #2d004b;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <div class="controls">
+        <button onclick="setState('scatter')">Dispersar</button>
+        <button onclick="setState('adn')">ADN</button>
+        <button onclick="togglePause()">Pausar</button>
+    </div>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        function resizeCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight - 80;
+        }
+        resizeCanvas();
+
+        class BinaryParticle {
+            constructor(x, y, char) {
+                this.x = x;
+                this.y = y;
+                this.char = char;
+                this.targetX = x;
+                this.targetY = y;
+                this.speed = 0.02 + Math.random() * 0.03;
+                this.angle = 0;
+                this.randomOffset = Math.random() * 0.05;
+            }
+
+            update(t, rotationSpeed, isScattered) {
+                const dx = (this.targetX - this.x) * this.speed;
+                const dy = (this.targetY - this.y) * this.speed;
+                const speedFactor = isScattered ? 0.5 : 1;
+                this.x += (dx + (Math.random() - 0.5) * this.randomOffset) * speedFactor;
+                this.y += (dy + (Math.random() - 0.5) * this.randomOffset) * speedFactor;
+                this.angle = t * rotationSpeed;
+            }
+
+            applyDragForce(mouseX, mouseY, force) {
+                const dx = this.x - mouseX;
+                const dy = this.y - mouseY;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+                if (distance < 100) {
+                    const strength = (1 - distance / 100) * force;
+                    this.x += dx * strength;
+                    this.y += dy * strength;
+                }
+            }
+
+            scatterLocally(mouseX, mouseY) {
+                const dx = this.x - mouseX;
+                const dy = this.y - mouseY;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+                if (distance < 100) {
+                    const angle = Math.random() * 2 * Math.PI;
+                    const scatterDistance = (100 - distance) * 2;
+                    this.targetX = this.x + Math.cos(angle) * scatterDistance;
+                    this.targetY = this.y + Math.sin(angle) * scatterDistance;
+                }
+            }
+
+            draw(isADN = false, isSeven = false, adnChar = null) {
+                const depth = (this.y - canvas.height / 2) / (canvas.height / 2);
+                const scale = isADN ? 1.5 : 1 - depth * 0.3;
+                ctx.save();
+                ctx.translate(this.x, this.y);
+                ctx.scale(scale, scale);
+                ctx.fillStyle = isSeven ? '#b8860b' : '#fff';
+                ctx.font = `${Math.min(16, canvas.width * 0.04) * scale}px monospace`;
+                ctx.fillText(isADN ? adnChar : this.char, 0, 0);
+                ctx.restore();
+            }
+        }
+
+        const particles = [];
+        const numParticles = 200;
+        let radius = canvas.width * 0.2;
+        let helixHeight = canvas.height * 0.6;
+        const turns = 4;
+        const phaseShift = Math.PI;
+
+        const adnParticles = 4;
+        const adnPositions = [
+            {x: -Math.min(90, canvas.width * 0.2), y: 0, char: 'A'},
+            {x: -Math.min(30, canvas.width * 0.07), y: 0, char: 'D'},
+            {x: Math.min(30, canvas.width * 0.07), y: 0, char: 'N'},
+            {x: Math.min(90, canvas.width * 0.2), y: 0, char: '7'}
+        ];
+
+        for (let i = 0; i < numParticles; i++) {
+            const x = Math.random() * canvas.width * 1.5 - canvas.width * 0.25;
+            const y = Math.random() * canvas.height * 1.5 - canvas.height * 0.25;
+            const char = Math.random() > 0.5 ? '1' : '0';
+            particles.push(new BinaryParticle(x, y, char));
+        }
+
+        let time = 0;
+        let state = 'scatter';
+        let transitionStart = 0;
+        let rotationSpeed = 0.001;
+        let isPaused = false;
+        let isDragging = false;
+        let isScattering = false;
+        let mouseX = 0;
+        let mouseY = 0;
+        const transitionDuration = 3000;
+
+        function setDNAPositions(t) {
+            const progress = Math.min(t / transitionDuration, 1);
+            for (let i = 0; i < numParticles; i++) {
+                const t = (i / numParticles) * turns * 2 * Math.PI;
+                const strand = i % 2;
+                const offset = strand * phaseShift;
+                const targetX = canvas.width / 2 + radius * Math.cos(t + time * rotationSpeed + offset);
+                const targetY = canvas.height / 2 + (i / numParticles - 0.5) * helixHeight;
+                particles[i].targetX = particles[i].x + (targetX - particles[i].x) * progress;
+                particles[i].targetY = particles[i].y + (targetY - particles[i].y) * progress;
+            }
+        }
+
+        function setScatterPositions() {
+            for (let particle of particles) {
+                particle.targetX = Math.random() * canvas.width * 1.5 - canvas.width * 0.25;
+                particle.targetY = Math.random() * canvas.height * 1.5 - canvas.height * 0.25;
+            }
+        }
+
+        function setADNPositions(t) {
+            const progress = Math.min(t / transitionDuration, 1);
+            for (let i = 0; i < numParticles; i++) {
+                if (i < adnParticles) {
+                    const pos = adnPositions[i];
+                    const targetX = canvas.width / 2 + pos.x;
+                    const targetY = canvas.height / 2 - helixHeight / 2 - Math.min(40, canvas.height * 0.1);
+                    particles[i].targetX = particles[i].x + (targetX - particles[i].x) * progress;
+                    particles[i].targetY = particles[i].y + (targetY - particles[i].y) * progress;
+                } else {
+                    const t = ((i - adnParticles) / (numParticles - adnParticles)) * turns * 2 * Math.PI;
+                    const strand = i % 2;
+                    const offset = strand * phaseShift;
+                    const targetX = canvas.width / 2 + radius * Math.cos(t + time * rotationSpeed + offset);
+                    const targetY = canvas.height / 2 + (i / numParticles - 0.5) * helixHeight;
+                    particles[i].targetX = particles[i].x + (targetX - particles[i].x) * progress;
+                    particles[i].targetY = particles[i].y + (targetY - particles[i].y) * progress;
+                }
+            }
+        }
+
+        function setState(newState) {
+            if (state !== newState) {
+                state = newState;
+                transitionStart = time;
+            }
+        }
+
+        function togglePause() {
+            isPaused = !isPaused;
+            document.querySelector('button[onclick="togglePause()"]').textContent = isPaused ? 'Reanudar' : 'Pausar';
+        }
+
+        canvas.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+            if (state === 'adn') {
+                isScattering = true;
+            }
+        });
+
+        canvas.addEventListener('mousemove', (e) => {
+            if (isDragging) {
+                mouseX = e.clientX;
+                mouseY = e.clientY;
+            }
+        });
+
+        canvas.addEventListener('mouseup', () => {
+            isDragging = false;
+            isScattering = false;
+        });
+
+        canvas.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            isDragging = true;
+            mouseX = e.touches[0].clientX;
+            mouseY = e.touches[0].clientY;
+            if (state === 'adn') {
+                isScattering = true;
+            }
+        });
+
+        canvas.addEventListener('touchmove', (e) => {
+            e.preventDefault();
+            if (isDragging) {
+                mouseX = e.touches[0].clientX;
+                mouseY = e.touches[0].clientY;
+            }
+        });
+
+        canvas.addEventListener('touchend', () => {
+            isDragging = false;
+            isScattering = false;
+        });
+
+        function animate() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            if (!isPaused) {
+                time += 16.67;
+            }
+
+            if (isDragging) {
+                for (let i = 0; i < numParticles; i++) {
+                    if (isScattering && i >= adnParticles) {
+                        particles[i].scatterLocally(mouseX, mouseY);
+                    } else {
+                        particles[i].applyDragForce(mouseX, mouseY, 0.1);
+                    }
+                }
+            }
+
+            if (state === 'scatter') {
+                const progress = Math.min((time - transitionStart) / transitionDuration, 1);
+                setScatterPositions();
+                for (let particle of particles) {
+                    particle.update(time, rotationSpeed, true);
+                    particle.draw();
+                }
+            } else if (state === 'adn') {
+                setADNPositions(time - transitionStart);
+                for (let i = 0; i < numParticles; i++) {
+                    const isADN = i < adnParticles;
+                    const isSeven = isADN && i === 3;
+                    const adnChar = isADN ? adnPositions[i].char : null;
+                    particles[i].update(time, rotationSpeed, false);
+                    particles[i].draw(isADN, isSeven, adnChar);
+                }
+            }
+
+            requestAnimationFrame(animate);
+        }
+
+        window.addEventListener('resize', () => {
+            resizeCanvas();
+            radius = canvas.width * 0.2;
+            helixHeight = canvas.height * 0.6;
+            adnPositions.forEach(pos => {
+                pos.x = pos.char === 'A' ? -Math.min(90, canvas.width * 0.2) :
+                        pos.char === 'D' ? -Math.min(30, canvas.width * 0.07) :
+                        pos.char === 'N' ? Math.min(30, canvas.width * 0.07) :
+                        Math.min(90, canvas.width * 0.2);
+            });
+        });
+
+        animate();
+    </script>
+</body>
+</html>
