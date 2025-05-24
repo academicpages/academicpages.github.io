@@ -51,7 +51,6 @@
     <div class="controls">
         <button onclick="setState('scatter')">Dispersar</button>
         <button onclick="setState('adn')">ADN</button>
-        <button onclick="togglePause()">Pausar</button>
     </div>
     <script>
         const canvas = document.getElementById('canvas');
@@ -78,7 +77,7 @@
             update(t, rotationSpeed, isScattered) {
                 const dx = (this.targetX - this.x) * this.speed;
                 const dy = (this.targetY - this.y) * this.speed;
-                const speedFactor = isScattered ? 0.5 : 1;
+                const speedFactor = isScattered ? 0.3 : 1; 
                 this.x += (dx + (Math.random() - 0.5) * this.randomOffset) * speedFactor;
                 this.y += (dy + (Math.random() - 0.5) * this.randomOffset) * speedFactor;
                 this.angle = t * rotationSpeed;
@@ -92,6 +91,18 @@
                     const strength = (1 - distance / 100) * force;
                     this.x += dx * strength;
                     this.y += dy * strength;
+                }
+            }
+
+            scatterLocally(mouseX, mouseY) {
+                const dx = this.x - mouseX;
+                const dy = this.y - mouseY;
+                const distance = Math.sqrt(dx * dx + dy * dy);
+                if (distance < 100) {
+                    const angle = Math.random() * 2 * Math.PI;
+                    const scatterDistance = (100 - distance) * 2;
+                    this.targetX = this.x + Math.cos(angle) * scatterDistance;
+                    this.targetY = this.y + Math.sin(angle) * scatterDistance;
                 }
             }
 
@@ -131,11 +142,11 @@
         }
 
         let time = 0;
-        let state = 'scatter';
+        let state = 'adn';
         let transitionStart = 0;
         let rotationSpeed = 0.001;
-        let isPaused = false;
         let isDragging = false;
+        let isScattering = false;
         let mouseX = 0;
         let mouseY = 0;
         const transitionDuration = 3000;
@@ -155,8 +166,8 @@
 
         function setScatterPositions() {
             for (let particle of particles) {
-                particle.targetX = Math.random() * canvas.width * 1.5 - canvas.width * 0.25;
-                particle.targetY = Math.random() * canvas.height * 1.5 - canvas.height * 0.25;
+                particle.targetX = Math.random() * canvas.width * 2.25 - canvas.width * 0.60;
+                particle.targetY = Math.random() * canvas.height * 2.25 - canvas.height * 0.6;
             }
         }
 
@@ -188,15 +199,13 @@
             }
         }
 
-        function togglePause() {
-            isPaused = !isPaused;
-            document.querySelector('button[onclick="togglePause()"]').textContent = isPaused ? 'Reanudar' : 'Pausar';
-        }
-
         canvas.addEventListener('mousedown', (e) => {
             isDragging = true;
             mouseX = e.clientX;
             mouseY = e.clientY;
+            if (state === 'adn') {
+                isScattering = true;
+            }
         });
 
         canvas.addEventListener('mousemove', (e) => {
@@ -208,6 +217,7 @@
 
         canvas.addEventListener('mouseup', () => {
             isDragging = false;
+            isScattering = false;
         });
 
         canvas.addEventListener('touchstart', (e) => {
@@ -215,6 +225,9 @@
             isDragging = true;
             mouseX = e.touches[0].clientX;
             mouseY = e.touches[0].clientY;
+            if (state === 'adn') {
+                isScattering = true;
+            }
         });
 
         canvas.addEventListener('touchmove', (e) => {
@@ -227,17 +240,20 @@
 
         canvas.addEventListener('touchend', () => {
             isDragging = false;
+            isScattering = false;
         });
 
         function animate() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            if (!isPaused) {
-                time += 16.67;
-            }
+            time += 16.67;
 
             if (isDragging) {
-                for (let particle of particles) {
-                    particle.applyDragForce(mouseX, mouseY, 0.1);
+                for (let i = 0; i < numParticles; i++) {
+                    if (isScattering && i >= adnParticles) {
+                        particles[i].scatterLocally(mouseX, mouseY);
+                    } else {
+                        particles[i].applyDragForce(mouseX, mouseY, 0.1);
+                    }
                 }
             }
 
@@ -264,7 +280,7 @@
 
         window.addEventListener('resize', () => {
             resizeCanvas();
-            radius = canvas.width * 0.2;
+            radius = canvas.width * 0.05;
             helixHeight = canvas.height * 0.6;
             adnPositions.forEach(pos => {
                 pos.x = pos.char === 'A' ? -Math.min(90, canvas.width * 0.2) :
