@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ADN Binario con Interacciones</title>
+    <title>ADN7</title>
     <style>
         body {
             margin: 0;
@@ -280,7 +280,7 @@
 
         window.addEventListener('resize', () => {
             resizeCanvas();
-            radius = canvas.width * 0.05;
+            radius = canvas.width * 0.1;
             helixHeight = canvas.height * 0.6;
             adnPositions.forEach(pos => {
                 pos.x = pos.char === 'A' ? -Math.min(90, canvas.width * 0.2) :
