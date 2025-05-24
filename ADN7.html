@@ -213,7 +213,9 @@
             isDragging = true;
             mouseX = e.clientX;
             mouseY = e.clientY;
-            isScattering = true;
+            if (state === 'adn') {
+                isScattering = true;
+            }
         });
 
         canvas.addEventListener('mousemove', (e) => {
@@ -233,7 +235,9 @@
             isDragging = true;
             mouseX = e.touches[0].clientX;
             mouseY = e.touches[0].clientY;
-            isScattering = true;
+            if (state === 'adn') {
+                isScattering = true;
+            }
         });
 
         canvas.addEventListener('touchmove', (e) => {
@@ -255,9 +259,9 @@
                 time += 16.67;
             }
 
-            if (isDragging) {
+            if (isDragging && state === 'adn') {
                 for (let i = 0; i < numParticles; i++) {
-                    if (isScattering && i >= adnParticles) {
+                    if (i >= adnParticles && isScattering) {
                         particles[i].scatterLocally(mouseX, mouseY);
                     } else {
                         particles[i].applyDragForce(mouseX, mouseY, 0.1);
