@@ -121,7 +121,7 @@
 
         const particles = [];
         const numParticles = 200;
-        let radius = canvas.width * 0.1;
+        let radius = canvas.width * 0.05;
         let helixHeight = canvas.height * 0.6;
         const turns = 4;
         const phaseShift = Math.PI;
@@ -280,7 +280,7 @@
 
         window.addEventListener('resize', () => {
             resizeCanvas();
-            radius = canvas.width * 0.1;
+            radius = canvas.width * 0.2;
             helixHeight = canvas.height * 0.6;
             adnPositions.forEach(pos => {
                 pos.x = pos.char === 'A' ? -Math.min(90, canvas.width * 0.2) :
