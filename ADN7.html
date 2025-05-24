@@ -1,43 +1,4 @@
-<script type="text/javascript">
-        var gk_isXlsx = false;
-        var gk_xlsxFileLookup = {};
-        var gk_fileData = {};
-        function filledCell(cell) {
-          return cell !== '' && cell != null;
-        }
-        function loadFileData(filename) {
-        if (gk_isXlsx && gk_xlsxFileLookup[filename]) {
-            try {
-                var workbook = XLSX.read(gk_fileData[filename], { type: 'base64' });
-                var firstSheetName = workbook.SheetNames[0];
-                var worksheet = workbook.Sheets[firstSheetName];
-
-                // Convert sheet to JSON to filter blank rows
-                var jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1, blankrows: false, defval: '' });
-                // Filter out blank rows (rows where all cells are empty, null, or undefined)
-                var filteredData = jsonData.filter(row => row.some(filledCell));
-
-                // Heuristic to find the header row by ignoring rows with fewer filled cells than the next row
-                var headerRowIndex = filteredData.findIndex((row, index) =>
-                  row.filter(filledCell).length >= filteredData[index + 1]?.filter(filledCell).length
-                );
-                // Fallback
-                if (headerRowIndex === -1 || headerRowIndex > 25) {
-                  headerRowIndex = 0;
-                }
-
-                // Convert filtered JSON back to CSV
-                var csv = XLSX.utils.aoa_to_sheet(filteredData.slice(headerRowIndex)); // Create a new sheet from filtered array of arrays
-                csv = XLSX.utils.sheet_to_csv(csv, { header: 1 });
-                return csv;
-            } catch (e) {
-                console.error(e);
-                return "";
-            }
-        }
-        return gk_fileData[filename] || "";
-        }
-        </script><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -52,23 +13,25 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 110vh;
+            height: 100vh;
             font-family: monospace;
         }
         canvas {
             display: block;
-            max-width: 100%;
-            max-height: calc(100vh - 60px);
+            width: 100vw;
+            height: calc(100vh - 80px);
         }
         .controls {
             position: fixed;
-            bottom: 20px;
+            bottom: 10px;
             display: flex;
-            gap: 10px;
+            gap: 8px;
+            padding: 5px;
+            z-index: 10;
         }
         button {
-            padding: 10px 20px;
-            font-size: 16px;
+            padding: 8px 16px;
+            font-size: calc(12px + 0.5vw);
             font-family: monospace;
             background: #1a1a1a;
             color: #fff;
@@ -85,19 +48,19 @@
             flex-direction: column;
             align-items: center;
             gap: 5px;
-            padding: 10px;
+            padding: 8px;
             background: #1a1a1a;
             border: 2px solid #fff;
             position: absolute;
             bottom: 60px;
         }
         .speed-control input {
-            width: 150px;
+            width: calc(100px + 5vw);
             accent-color: #fff;
         }
         .speed-control label {
             color: #fff;
-            font-size: 14px;
+            font-size: calc(10px + 0.5vw);
         }
     </style>
 </head>
@@ -120,8 +83,8 @@
         const speedValue = document.getElementById('speedValue');
 
         function resizeCanvas() {
-            canvas.width = Math.min(window.innerWidth, window.innerHeight - 60);
-            canvas.height = Math.min(window.innerHeight - 60, window.innerWidth);
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight - 80;
         }
         resizeCanvas();
 
@@ -147,30 +110,30 @@
 
             draw(isADN = false, isSeven = false, adnChar = null) {
                 const depth = (this.y - canvas.height / 2) / (canvas.height / 2);
-                const scale = isADN ? 2 : 1 - depth * 0.3;
+                const scale = isADN ? 1.5 : 1 - depth * 0.3;
                 ctx.save();
                 ctx.translate(this.x, this.y);
                 ctx.scale(scale, scale);
                 ctx.fillStyle = isSeven ? '#b8860b' : '#fff';
-                ctx.font = `${20 * scale}px monospace`;
+                ctx.font = `${Math.min(16, canvas.width * 0.04) * scale}px monospace`;
                 ctx.fillText(isADN ? adnChar : this.char, 0, 0);
                 ctx.restore();
             }
         }
 
         const particles = [];
-        const numParticles = 300;
-        let radius = canvas.width * 0.2;
+        const numParticles = 200;
+        let radius = canvas.width * 0.1;
         let helixHeight = canvas.height * 0.6;
         const turns = 4;
         const phaseShift = Math.PI;
 
         const adnParticles = 4;
         const adnPositions = [
-            {x: -90, y: 20, char: 'A'},
-            {x: -30, y: 20, char: 'D'},
-            {x: 30, y: 20, char: 'N'},
-            {x: 90, y: 20, char: '7'}
+            {x: -Math.min(90, canvas.width * 0.2), y: 0, char: 'A'},
+            {x: -Math.min(30, canvas.width * 0.07), y: 0, char: 'D'},
+            {x: Math.min(30, canvas.width * 0.07), y: 0, char: 'N'},
+            {x: Math.min(90, canvas.width * 0.2), y: 0, char: '7'}
         ];
 
         for (let i = 0; i < numParticles; i++) {
@@ -211,8 +174,8 @@
             for (let i = 0; i < numParticles; i++) {
                 if (i < adnParticles) {
                     const pos = adnPositions[i];
-                    const targetX = canvas.width / 2 + pos.x * 1.2;
-                    const targetY = canvas.height / 2 - helixHeight / 2 - 80 + pos.y * 1.2;
+                    const targetX = canvas.width / 2 + pos.x;
+                    const targetY = canvas.height / 2 - helixHeight / 2 - Math.min(40, canvas.height * 0.1);
                     particles[i].targetX = particles[i].x + (targetX - particles[i].x) * progress;
                     particles[i].targetY = particles[i].y + (targetY - particles[i].y) * progress;
                 } else {
@@ -270,8 +233,14 @@
 
         window.addEventListener('resize', () => {
             resizeCanvas();
-            radius = canvas.width * 0.1;
-            helixHeight = canvas.height * 0.8;
+            radius = canvas.width * 0.2;
+            helixHeight = canvas.height * 0.6;
+            adnPositions.forEach(pos => {
+                pos.x = pos.char === 'A' ? -Math.min(90, canvas.width * 0.2) :
+                        pos.char === 'D' ? -Math.min(30, canvas.width * 0.07) :
+                        pos.char === 'N' ? Math.min(30, canvas.width * 0.07) :
+                        Math.min(90, canvas.width * 0.2);
+            });
         });
 
         animate();
