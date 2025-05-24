@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth year Economics PhD student at Indiana University.
+I am a PhD student in Economics at Indiana University.
