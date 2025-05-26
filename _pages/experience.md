@@ -6,19 +6,28 @@ author_profile: true
 redirect_from:
   - /internship
 ---
-# Research Experience
+# 🔬 Research Experience
+
+School of Statistics, Renmin University of China, Research Intern 
+---
+2025.02.11 – 2025.05.16
+
+Supervisor: [Prof. Feng Zhou](http://zhoufeng6288.github.io)
+
+Projects: 
+- **TPP-SD: Accelerating Transformer Point Process Sampling with Speculative Decoding**: Developed a novel framework that accelerates Transformer temporal point process sampling by adapting speculative decoding techniques from language models. Experiments on both synthetic and real datasets demonstrate that TPP-SD produces samples from identical distributions as standard autoregressive methods, but with 2-6 $\times$ speedup.
 
 GSAI, Renmin University of China, Research Intern 
 ---
-2024.03.08 – Now
+2024.03.08 – 2025.01.21
 
 Supervisor: [Prof. Hongteng Xu](https://hongtengxu.github.io)
 
 Projects: 
-- **USPTO-LLM (WWW 2025)**: Constructed the first chemical reaction dataset (USPTO-LLM, 247K entries) containing abundant reaction condition information by using LLM APIs to extract data from the USPTO patent database. Validated the dataset quality on graph-based and sequence-based retrosynthesis models. The dataset is open-sourced at [USPTO-LLM](https://zenodo.org/records/14396156).
+- **USPTO-LLM (WWW 2025)**: Constructed the first chemical reaction dataset (USPTO-LLM, 247K entries) containing abundant reaction condition information by using LLM APIs to extract data from the USPTO patent database. Validated the dataset quality on graph-based and sequence-based retrosynthesis models. The dataset is open-sourced at [https://zenodo.org/records/14396156](https://zenodo.org/records/14396156).
 
 
-# Industry Experience
+# 💼 Industry Experience
 
 Intuitive Fosun, R&D Intern
 ---
