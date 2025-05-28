@@ -18,9 +18,9 @@ My academic journey has been fueled by a strong passion for <span style="color:#
 
 ## Recent News 🗞️
 
-### December 9, 2024
+### April 25, 2025
 
-- 🎓 
+- 🎓 I have completed my Master's in Computer Science with major Intelligent Systems.
 
 ### December 9, 2024
 
