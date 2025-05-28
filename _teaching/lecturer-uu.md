@@ -8,7 +8,7 @@ date: February, 2024
 location: "Dhaka-1230, Bangladesh"
 ---
 
-🏢 **Organization:** Uttara University, 📅 **February, 2024 - Present**
+🏢 **Organization:** Uttara University, 📅 **January, 2024 - Present**
 
 ### **Responsibility:**
 
