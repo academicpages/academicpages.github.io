@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I have pursued my Master’s in Computer Science with a major in <span style="color:#1e88e5">Intelligent Systems</span> from the <span style="color:#1e88e5">American International University-Bangladesh (AIUB)</span>. My academic journey has been fueled by a strong passion for <span style="color:#1e88e5">Natural Language Processing (NLP)</span>, <span style="color:#1e88e5">Computer Vision</span>, and <span style="color:#1e88e5">Data Science</span>.
+🎓 I have pursued my Master’s in Computer Science with a major in <span style="color:#1e88e5">Intelligent Systems</span> from the <a href="https://www.aiub.edu/" target="_blank">
+  <span style="color:#1e88e5">American International University-Bangladesh (AIUB)</span>.</a>
+ My academic journey has been fueled by a strong passion for <span style="color:#1e88e5">Natural Language Processing (NLP)</span>, <span style="color:#1e88e5">Computer Vision</span>, and <span style="color:#1e88e5">Data Science</span>.
 
 🔍 My research has focused on solving real-world challenges—most notably through my master’s thesis on **multilingual offensive text classification**, which aims to bridge critical gaps in cross-lingual language processing and social media content moderation.
 
