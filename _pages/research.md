@@ -6,19 +6,10 @@ title: "Research"
   
 ## Working Papers
 
+\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** Job Market Paper.
 
+\[Manuscript upon request\]
 
-* Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review. \[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
-
-<details><summary>Abstract</summary>
-
-Historically, good governance in liberal democracies has been a critical driver for democratization. Yet, the growing visibility of social and political problems in liberal democracies, especially the U.S., offer autocrats an opportunity to undermine the liberal model and bolster their own legitimacy. I argue that by strategically amplifying these problems---a tactic I term \textit{negative propaganda}---autocrats can erode support for liberal democracies by selectively presenting ostensibly credible and fear-inducing information, although not necessarily increase support for the domestic regime. By analyzing over 900,000 Weibo posts from Chinese state media, I show that negative propaganda is widespread, garners substantial public attention, and frequently features seemingly credible and fear-inducing content. A survey experiment in China further demonstrates that exposure to such propaganda lowers evaluations of liberal democracies, but does not improve support for the domestic regime. These findings underscore the inherent tension between liberal democratic governance and authoritarian resilience.
-  
-</details>
-
-<br>
-
-* Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** \[Manuscript upon request\]
   *    <span style="font-size: 90%">*Rebecca Morton Poster Award*, 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">*Timothy E. Cook Best Graduate Student Paper Award*, APSA 2024</span>
 
@@ -29,7 +20,22 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 <br>
 
-* [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. \[Manuscript upon request\]
+
+\[2\] Deng, Rex Weiye. **Negative Propaganda and Regime Evaluations: Evidence from China.** Under review. 
+
+\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+
+<details><summary>Abstract</summary>
+
+Historically, good governance in liberal democracies has been a critical driver for democratization. Yet, the growing visibility of social and political problems in liberal democracies, especially the U.S., offer autocrats an opportunity to undermine the liberal model and bolster their own legitimacy. I argue that by strategically amplifying these problems---a tactic I term \textit{negative propaganda}---autocrats can erode support for liberal democracies by selectively presenting ostensibly credible and fear-inducing information, although not necessarily increase support for the domestic regime. By analyzing over 900,000 Weibo posts from Chinese state media, I show that negative propaganda is widespread, garners substantial public attention, and frequently features seemingly credible and fear-inducing content. A survey experiment in China further demonstrates that exposure to such propaganda lowers evaluations of liberal democracies, but does not improve support for the domestic regime. These findings underscore the inherent tension between liberal democratic governance and authoritarian resilience.
+  
+</details>
+
+<br>
+
+\[3\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. 
+
+\[Manuscript upon request\]
 
 <details><summary>Abstract</summary>
 
@@ -38,7 +44,9 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 <br>
 
-* Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. \[Manuscript upon request\]
+\[4\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
+
+\[Manuscript upon request\]
   
 <details><summary>Abstract</summary>
 
@@ -47,7 +55,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 <br>
 
-* [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.**
+\[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.**
   
   * <span style="font-size: 90%">*Best Foreign Policy Paper Award*, APSA 2022</span>
 <details><summary>Abstract</summary>
