@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching"
 permalink: /teaching/lecturer-uu
 venue: "Uttara University, Department of Computer Science and Engineering"
-date: February, 2024
+date: January, 2024
 location: "Dhaka-1230, Bangladesh"
 ---
 
