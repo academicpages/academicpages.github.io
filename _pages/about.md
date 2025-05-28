@@ -14,7 +14,8 @@ My research focuses on visual working memory (VWM), exploring its cognitive mech
 
 I hold a Bachelor’s in Applied Psychology from Southwest Medical University (China) and a Master’s in Psychology from Sichuan Normal University (China), where I developed a strong foundation in experimental design and statistical analysis. Passionate about open science, I aim to make my work reproducible and accessible.
 
-You can find my CV here: [ZhihuPan's Curriculum_Vitae](../assets/Curriculum_vitae.pdf).
+You can find my CV here: [ZhihuPan's Curriculum_Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Emai1](mailto:panzhihuzzz@163.com)/ [Githubl(https://github.com/ZhihuPan)/ [wechat](../image/wechat.jpg)
+[Email](mailto:panzhihuzzz@163.com)/ [Githubl(https://github.com/ZhihuPan)/ [wechat](../image/wechat.jpg)
 
+l
