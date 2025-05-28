@@ -7,6 +7,19 @@ excerpt: "Publications"
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
+<table >
+<tbody>
+<tr> <td style="width:120px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="/images/Teaser5.png" width="120px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle. <br> <strong> [Sparsely actuated modular metamaterials for shape-changing interfaces](https://dl.acm.org/doi/10.1145/3689050.3704942) </strong> <br>
+<i> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025  </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+
 1. <sub>	S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle</sub> \
 <sub> [3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs](https://dl.acm.org/doi/10.1145/3689050.3704942)  </sub> \
 <sub> **CHI conference on Human Factors in Computing Systems 2025** 2025 </sub>
