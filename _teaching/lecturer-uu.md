@@ -7,14 +7,19 @@ venue: "Uttara University, Department of Computer Science and Engineering"
 date: February, 2024
 location: "Dhaka-1230, Bangladesh"
 ---
+
 🏢 **Organization:** Uttara University, 📅 **February, 2024 - Present**
 
 ### **Responsibility:**
 
-➡️ Conducting classes.
+➡️ Conducting undergraduate classes, delivering lectures on foundational and intermediate topics, and ensuring
+interactive and engaging learning environments.
 
-➡️ Prepare course materials.
+➡️ Preparing comprehensive course materials, including lecture slides, assignments, quizzes, and practical exercises,
+aligned with the curriculum and academic standards.
 
-➡️ Advising student.
+➡️ Advising and mentoring students on academic performance, career planning, and fostering their professional
+growth and development.
 
-➡️ Others activities as per University policy.
+➡️ Engaging in administrative and departmental activities such as curriculum development and exam invigilation
+as per university policies.
