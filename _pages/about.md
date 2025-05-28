@@ -7,11 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-A final-year graduate student at the American International University-Bangladesh (AIUB), pursuing a master's degree in Computer Science with a major in Intelligent Systems. 🌟 My academic journey is fueled by a passion for research in **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Science**. 🎓 Currently, I am actively working on my master's thesis, focusing on multilingual offensive text classification, which aims to bridge gaps in language processing research.
+🎓 I have pursued my Master’s in Computer Science with a major in **Intelligent Systems** from the **American International University-Bangladesh (AIUB)**. My academic journey has been fueled by a strong passion for **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Science**.
 
-In addition to my studies, I serve as a **Lecturer (Adjunct)** at Uttara University, where I am dedicated to sharing knowledge and inspiring the next generation of computer science professionals. 🧑‍🏫✨
+🔍 My research has focused on solving real-world challenges—most notably through my master’s thesis on **multilingual offensive text classification**, which aims to bridge critical gaps in cross-lingual language processing and social media content moderation.
 
-My research endeavors include developing innovative solutions in NLP and computer vision, leveraging state-of-the-art machine learning and deep learning models to address complex real-world challenges. 🤖📊
+🧑‍🏫 In addition to my academic work, I serve as an **Adjunct Lecturer** in the **Department of Computer Science & Engineering** at **Uttara University**, where I am committed to sharing knowledge and inspiring the next generation of computer science professionals.
+
+🤖📊 My research interests lie in developing innovative solutions in NLP and computer vision by leveraging state-of-the-art machine learning and deep learning models to address complex, real-world problems.
+
 
 ## Recent News 🗞️
 
