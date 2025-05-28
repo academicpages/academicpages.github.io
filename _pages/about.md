@@ -16,6 +16,5 @@ I hold a Bachelor’s in Applied Psychology from Southwest Medical University (C
 
 You can find my CV here: [ZhihuPan's Curriculum_Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:panzhihuzzz@163.com)/ [Githubl(https://github.com/ZhihuPan)/ [wechat](../image/wechat.jpg)
+[Email](mailto:panzhihuzzz@163.com)/ [Githubl(https://github.com/ZhihuPan) /[wechat](../image/wechat.jpg)
 
-l
