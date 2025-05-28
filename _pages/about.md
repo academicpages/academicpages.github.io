@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-🎓 I have pursued my Master’s in Computer Science with a major in **Intelligent Systems** from the **American International University-Bangladesh (AIUB)**. My academic journey has been fueled by a strong passion for **Natural Language Processing (NLP)**, **Computer Vision**, and **Data Science**.
+🎓 I have pursued my Master’s in Computer Science with a major in <span style="color:#1e88e5">Intelligent Systems</span> from the <span style="color:#1e88e5">American International University-Bangladesh (AIUB)</span>. My academic journey has been fueled by a strong passion for <span style="color:#1e88e5">Natural Language Processing (NLP)</span>, <span style="color:#1e88e5">Computer Vision</span>, and <span style="color:#1e88e5">Data Science</span>.
 
 🔍 My research has focused on solving real-world challenges—most notably through my master’s thesis on **multilingual offensive text classification**, which aims to bridge critical gaps in cross-lingual language processing and social media content moderation.
 
-🧑‍🏫 In addition to my academic work, I serve as an **Adjunct Lecturer** in the **Department of Computer Science & Engineering** at **Uttara University**, where I am committed to sharing knowledge and inspiring the next generation of computer science professionals.
+🧑‍🏫 In addition to my academic work, I serve as an <span style="color:#1e88e5">Adjunct Lecturer</span> in the <span style="color:#1e88e5">Department of Computer Science & Engineering</span> at <span style="color:#1e88e5">Uttara University</span>, where I am committed to sharing knowledge and inspiring the next generation of computer science professionals.
 
-🤖📊 My research interests lie in developing innovative solutions in NLP and computer vision by leveraging state-of-the-art machine learning and deep learning models to address complex, real-world problems. <span style="color:#1e88e5"><strong>Natural Language Processing (NLP)</strong></span>
+🤖📊 My research interests lie in developing innovative solutions in NLP and computer vision by leveraging state-of-the-art machine learning and deep learning models to address complex, real-world problems.
 
 
 ## Recent News 🗞️
