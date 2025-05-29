@@ -30,6 +30,16 @@ excerpt: "Publications"
 </table>
 
 
+<table>
+<tbody>
+<tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_Pedals.png" width="200px" height="200px"> </td>
+<td style= "height:200px; vertical-align: top;border-style:none;"> <p>
+<ins> Nihar Sabnis, <ins> Ata Otaran</ins>, Dennis Wittchen, Johanna Didion, Jürgen Steimle and Paul Strohmeier. <br> <strong> Foot Pedal Control: The Role of Vibrotactile Feedback in Performance and Perceived Control </strong> <br>
+<i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025  <a href="https://dl.acm.org/doi/10.1145/3689050.3704937"> [DOI] </a> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
 
 <!--
 1. <sub>	S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle</sub> \
