@@ -7,29 +7,31 @@ excerpt: "Publications"
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-<table >
+<table>
+<tbody>
+<tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_3Hands.png" width="200px" height="200px"> </td>
+<td style= "height:200px; vertical-align: top;border-style:none;"> <p>
+<ins> S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle <br> <strong> Sparsely actuated modular metamaterials for shape-changing interfaces </strong> <br>
+<i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025  <a href="https://dl.acm.org/doi/10.1145/3706598.3713306"> [DOI] </a> </i>  </p> </td>
+</tr>
+</tbody>
+</table>
+
+
+
+<table>
 <tbody>
 <tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_Metamaterial.png" width="200px" height="200px"> </td>
 <td style= "height:200px; vertical-align: top;border-style:none;"> <p>
 <ins> Ata Otaran </ins>, Yu Jiang and Jürgen Steimle. <br> <strong> Sparsely actuated modular metamaterials for shape-changing interfaces </strong> <br>
-<i> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025  <a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [Publisher] </a> </i>  </p> </td>
-</tr>
-</tbody>
-</table>
-
-<table >
-<tbody>
-<tr> <td style="width:200px; height:200px; vertical-align: top; border-style:none;"> <img style="float: left; margin-right:10px" src="/images/thumbnail_3Hands.png" width="360px" height="200px"> </td>
-<td style= "height:200px; vertical-align: top;border-style:none;"> <p>
-<ins> S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle <br> <strong> Sparsely actuated modular metamaterials for shape-changing interfaces </strong> <br>
-<i> **International Conference on Tangible, Embedded, and Embodied Interaction (TEI)** 2025  <a href="https://dl.acm.org/doi/10.1145/3706598.3713306"> [Publisher] </a> </i>  </p> </td>
+<i> International Conference on Tangible, Embedded, and Embodied Interaction (TEI) 2025  <a href="https://dl.acm.org/doi/10.1145/3689050.3704942"> [DOI] </a> </i>  </p> </td>
 </tr>
 </tbody>
 </table>
 
 
 
-
+<!--
 1. <sub>	S. Abadian, Y. Liao,<ins> Ata Otaran </ins>, R. Dabral, M. Muehlhaus, C. Theobalt, M. Schmitz, J.Steimle</sub> \
 <sub> [3HANDS Dataset: Learning from Humans for Generating Naturalistic Handovers with Supernumerary Robotic Limbs](https://dl.acm.org/doi/10.1145/3706598.3713306)  </sub> \
 <sub> **CHI conference on Human Factors in Computing Systems 2025** 2025 </sub>
@@ -89,3 +91,4 @@ excerpt: "Publications"
 1. <sub> <ins> Ata Otaran </ins>, Ozan Tokatli and Volkan Patoglu </sub> \
 <sub> [Hands-On Learning with a Series Elastic Educational Robot](https://link.springer.com/chapter/10.1007/978-3-319-42324-1_1) </sub> \
 <sub> **International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (EuroHaptics)** 2016 </sub>
+-->
