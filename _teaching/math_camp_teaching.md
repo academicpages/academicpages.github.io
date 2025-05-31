@@ -2,7 +2,7 @@
 title: "Math Camp for PhD Economics students"
 collection: teaching
 type: "Associate Instructor (full teaching responsibility)"
-permalink: /teaching/math_camp_phd
+permalink: /teaching/math-camp-phd
 venue: "Indiana University, Department of Economics"
 date: August 2021
 location: "Bloomington, IN, US"
