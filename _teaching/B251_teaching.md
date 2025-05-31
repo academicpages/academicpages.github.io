@@ -11,6 +11,7 @@ location: "Bloomington, IN, US"
 Semesters taught: Spring 2022, 2023, 2024
 
 Course Description:
+
 This course is designed to teach students principal economic concepts and economic way of thinking.
 Students will examine the economic notions of demand and supply, elasticity, efficiency of
 markets and equity, taxes and subsidies, optimality of consumer choice, industry structures, and firm
