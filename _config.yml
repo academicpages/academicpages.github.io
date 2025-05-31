@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Main Homepage"
+title                    : "Main - Vladimir Menshikov"
 title_separator          : "-"
 name                     : &name "Vladimir Menshikov"
 description              : &description "personal description"
