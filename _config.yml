@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Nicole/fashion feedbacks"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Nicole"
+description              : &description "Hii im a 13 year old interested in fashion"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  avatar           : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxo29588Tg569a1B-GpZlr5-F_fynavtuQhw&s"
+  name             : "Nicole"
+  pronouns         : "she/her"  
+  bio              : "alive do not disturb"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "CHIJ St Nicholas Girls' School"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -51,9 +51,9 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
+  bluesky          : 
+  facebook         : 
+  flickr           : 
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
