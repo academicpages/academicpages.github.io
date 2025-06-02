@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher in the Department of Computer Science at Aalto University, currently completing my Ph.D. My dissertation explores how to automate programming feedback using open-source language models, with a focus on supporting novice programmers in large-scale learning environments.
+I'm a doctoral researcher in the Computer Science department at Aalto University. My Ph.D. dissertation contributes methods to automate programming feedback using open-source language models, with a focus on supporting novice programmers in large-scale learning environments where individual feedback is hard to scale.
 
-The broader goal is to move beyond systems that depend on large language models and instead build lightweight, locally deployable tools powered by small models. These systems are designed to assist teaching teams by identifying, explaining, and helping correct issues in student code—especially in settings where individual feedback is hard to scale.
+The broader goal of my research is to move beyond systems that rely on large language models and instead build lightweight, locally deployable learning tools powered by small models. My work blends reinforcement learning and source code modelling approaches with knowledge from programming education to effectively support students.
 
-To develop effective solutions, I draw inspiration from how teaching assistants interact with students: giving hints, nudging thinking, and fostering conceptual understanding. My work blends technical methods (e.g., reinforcement learning, program repair, small-model fine-tuning) with insights from programming education.
 
 ---
 
