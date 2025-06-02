@@ -83,12 +83,12 @@ author:
   name             : "Charlie"
   avatar           : "Aalto-Talent-Expo-20221161.JPG"
   bio              : "Doctoral researcher"
-  location         : "Espoo, Finland"
+  location         : 
   employer         : "Aalto University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zLF0XpAAAAAJ&hl=en&oi=ao"
-  email            : "charles.koutcheme@aalto.fi"
-  researchgate     : "https://www.researchgate.net/profile/Charles-Koutcheme-2"
+  email            : 
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,8 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "koutakch"
+  twitter          : 
+  huggingface      : "https://huggingface.co/koutch"
   vine             :
   weibo            :
   xing             :
