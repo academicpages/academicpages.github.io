@@ -2,7 +2,7 @@
   {% if post.image %}
     <div class="pub-image" style="flex-shrink: 0;">
 <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
-     style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;">
+     style="width: 100px; height: 100px; object-fit: contain; border-radius: 6px; border: 1px solid #ddd;">
     </div>
   {% endif %}
   <div class="pub-details">
