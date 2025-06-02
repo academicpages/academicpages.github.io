@@ -10,7 +10,18 @@
     </div>
   {% endif %}
   <div class="pub-details" style="flex: 1;">
-    <div style="margin-bottom: 0.2em;"><strong>{{ post.title }}</strong></div>
+    <div style="margin-bottom: 0.2em;">
+      <strong>
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank" style="text-decoration: none; color: inherit;">
+            {{ post.title }}
+          </a>
+        {% else %}
+          {{ post.title }}
+        {% endif %}
+      </strong>
+    </div>
+
     {% if post.authors %}
       <div style="margin-bottom: 0.2em;">{{ post.authors }}</div>
     {% endif %}
