@@ -5,4 +5,5 @@ collection: publications
 permalink: 
 date: 28-05-2025
 venue: '20th Workshop on Innovative Use of NLP for Building Educational Applications'
+image: 'images/papers/bea25_dro.png'
 ---
