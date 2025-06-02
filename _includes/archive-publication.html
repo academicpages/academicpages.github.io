@@ -1,7 +1,10 @@
 <div class="pub-entry" style="display: flex; gap: 1em; margin-bottom: 1.5em; align-items: flex-start;">
   {% if post.image %}
-    <div class="pub-image" style="flex: 0 0 15%; max-width: 120px; aspect-ratio: 1 / 1; display: flex; align-items: center; justify-content: center; background: #f9f9f9;">
-<img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
+    <div class="pub-image"
+         style="flex: 0 0 20%; aspect-ratio: 4 / 3; max-width: 160px;
+                display: flex; align-items: center; justify-content: center;
+                background: #f9f9f9;">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
      style="width: 100px; height: 100px; object-fit: contain; border-radius: 6px; border: 1px solid #ddd;">
     </div>
   {% endif %}
