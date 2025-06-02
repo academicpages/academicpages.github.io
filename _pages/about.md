@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Charles' personal pages"
+title: "Hello! I'm Charlie"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# Hello! I'm Charlie.
 
 I'm a doctoral researcher in the Department of Computer Science at Aalto University, currently completing my Ph.D. My dissertation explores how to automate programming feedback using open-source language models, with a focus on supporting novice programmers in large-scale learning environments.
 
