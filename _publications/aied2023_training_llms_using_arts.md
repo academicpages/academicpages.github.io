@@ -1,5 +1,6 @@
 ---
 title: 'Training Language Models for Programming Feedback Using Automated Repair Tools'
+authors: 'Charles Koutcheme'
 collection: publications
 permalink: 
 excerpt: 'In this paper, I introduce a simple strategy to instantiate language models for repairing student programs. The strategy consists in finetuning existing open models, such as those available on HuggingFace, using as ground truth the repairs found by Automated Repair Tools.'
