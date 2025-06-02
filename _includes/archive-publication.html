@@ -1,7 +1,8 @@
 <div class="pub-entry" style="display: flex; gap: 1em; margin-bottom: 1.5em; align-items: flex-start;">
   {% if post.image %}
     <div class="pub-image" style="flex-shrink: 0;">
-      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 100px; height: auto; border-radius: 6px; border: 1px solid #ddd;">
+<img src="{{ post.image | relative_url }}" alt="{{ post.title }}"
+     style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; border: 1px solid #ddd;">
     </div>
   {% endif %}
   <div class="pub-details">
