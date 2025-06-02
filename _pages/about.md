@@ -30,10 +30,3 @@ The broader goal of my research is to move beyond systems that rely on large lan
 > I'm currently visiting the [Piech Lab](https://piechlab.stanford.edu/) at Stanford University through June 2025.
 
 ---
-
-## A Bit of Background
-
-I hold a Master's degree in Computer Science from Aalto University, where I focused on intelligent systems (AI/ML). My master’s thesis, conducted with the [LeTech](https://research.cs.aalto.fi/LeTech/) research group, used data mining and predictive modeling to understand learning behavior in online programming courses. That work underscored how struggling with programming assignments is one of the strongest predictors of dropout—reinforcing the importance of timely, intelligent feedback.
-
-From my time as a teaching assistant in programming courses, I’ve seen firsthand how challenging it is to support every student. This challenge continues to drive my research.
-
