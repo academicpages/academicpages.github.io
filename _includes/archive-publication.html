@@ -9,10 +9,17 @@
                   border-radius: 4px; border: 1px solid #ccc;">
     </div>
   {% endif %}
-  <div class="pub-details">
-    <strong>{{ post.title }}</strong><br>
-    <em>{{ post.venue }}</em>, {{ post.date | date: "%B %Y" }}<br>
-    {{ post.excerpt }}<br>
+  <div class="pub-details" style="flex: 1;">
+    <div style="margin-bottom: 0.2em;"><strong>{{ post.title }}</strong></div>
+    {% if post.authors %}
+      <div style="margin-bottom: 0.2em;">{{ post.authors }}</div>
+    {% endif %}
+    <div style="margin-bottom: 0.5em;"><em>{{ post.venue }}</em>, {{ post.date | date: "%B %Y" }}</div>
+    
+    {% if post.excerpt %}
+      <div style="margin-bottom: 0.5em;">{{ post.excerpt }}</div>
+    {% endif %}
+    
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}">[Paper]</a>
     {% endif %}
