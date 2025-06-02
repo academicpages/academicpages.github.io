@@ -1,0 +1,15 @@
+<div class="pub-entry" style="display: flex; gap: 1em; margin-bottom: 1.5em; align-items: flex-start;">
+  {% if post.image %}
+    <div class="pub-image" style="flex-shrink: 0;">
+      <img src="{{ post.image | relative_url }}" alt="{{ post.title }}" style="width: 100px; height: auto; border-radius: 6px; border: 1px solid #ddd;">
+    </div>
+  {% endif %}
+  <div class="pub-details">
+    <strong>{{ post.title }}</strong><br>
+    <em>{{ post.venue }}</em>, {{ post.date | date: "%B %Y" }}<br>
+    {{ post.excerpt }}<br>
+    {% if post.paperurl %}
+      <a href="{{ post.paperurl }}">[Paper]</a>
+    {% endif %}
+  </div>
+</div>
