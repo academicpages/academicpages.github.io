@@ -9,7 +9,7 @@
 
 main:
   - title: "Publications"
-    url: "{{ site.baseurl }}/publications/"
+    url: /publications/
 
   - title: "Talks"
     url: "{{ site.baseurl }}/talks/"   
