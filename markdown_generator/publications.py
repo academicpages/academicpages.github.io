@@ -34,8 +34,8 @@ import pandas as pd
 
 # In[3]:
 
-publications = pd.read_csv("publications.tsv", sep="\t", header=0)
-publications
+theses = pd.read_csv("theses.tsv", sep="\t", header=0)
+theses
 
 
 # ## Escape special characters
@@ -62,7 +62,7 @@ def html_escape(text):
 # In[5]:
 
 import os
-for row, item in publications.iterrows():
+for row, item in theses.iterrows():
     
     md_filename = str(item.pub_date) + "-" + item.url_slug + ".md"
     html_filename = str(item.pub_date) + "-" + item.url_slug
@@ -70,30 +70,34 @@ for row, item in publications.iterrows():
     
     ## YAML variables
     
-    md = "---\ntitle: \""   + item.title + '"\n'
-    
-    md += """collection: publications"""
-    
-    md += """\npermalink: /publication/""" + html_filename
-    
+    md = "---\ntitle: \"" + item.title + '\"\n"
+    md += "collection: theses"
+    md += "\npermalink: /theses/" + html_filename + "/\n"
+
+    if "authors" in item and pd.notnull(item.authors):
+        md += "\nauthors: '" + html_escape(str(item.authors)) + "'" + "'\n"
+    if "supervisor" in item and pd.notnull(item.supervisor):
+        md += "\nsupervisor: '" + html_escape(str(item.supervisor)) + "'"+ "'\n"
+
     if len(str(item.excerpt)) > 5:
-        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
+        md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"+ "'\n"
     
-    md += "\ndate: " + str(item.pub_date) 
-    
-    md += "\nvenue: '" + html_escape(item.venue) + "'"
+    md += "\ndate: " + str(item.pub_date)+ "'\n"
+    md += "\nvenue: '" + html_escape(item.venue) + "'"+ "'\n"
     
     if len(str(item.paper_url)) > 5:
-        md += "\npaperurl: '" + item.paper_url + "'"
+        md += "\npaperurl: '" + item.paper_url + "'"+ "'\n"
     
-    md += "\ncitation: '" + html_escape(item.citation) + "'"
-    
+    md += "\ncitation: '" + html_escape(item.citation) + "'"+ "'\n"
     md += "\n---"
     
-    ## Markdown description for individual page
-    
+    md += "## Abstract\n\n" + html_escape(str(item.excerpt)) + "\n\n"
+    if "supervisor" in item and pd.notnull(item.supervisor):
+        md += "**Supervisor:** " + html_escape(str(item.supervisor)) + "\n\n"
+    if "authors" in item and pd.notnull(item.authors):
+        md += "**Author:** " + html_escape(str(item.authors)) + "\n\n"
     if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+        md += "[Download PDF](" + item.paper_url + ")\n\n" 
         
     if len(str(item.excerpt)) > 5:
         md += "\n" + html_escape(item.excerpt) + "\n"
@@ -102,7 +106,5 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
+    with open("../_theses/" + md_filename, 'w') as f:
         f.write(md)
-
-
