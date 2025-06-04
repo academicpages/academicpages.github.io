@@ -12,16 +12,16 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: "{{ site.baseurl }}/talks/"   
+    url: /talks/   
 
   - title: "Teaching"
-    url: "{{ site.baseurl }}/teaching/"
+    url: /teaching/
     
   - title: "Portfolio"
-    url: "{{ site.baseurl }}/portfolio/"
+    url: /portfolio/
         
   - title: "Blog Posts"
-    url: "{{ site.baseurl }}/blog/"
+    url: /blog/
     
   # - title: "CV"
   #   url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Guide"
-    url: "{{ site.baseurl }}/guide/"
+    url: /guide/
