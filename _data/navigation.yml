@@ -9,19 +9,19 @@
 
 main:
   - title: "Publications"
-    url: {{ site.baseurl }}/
+    url: "{{ site.baseurl }}/publications/"
 
   - title: "Talks"
-    url: {{ site.baseurl }}/    
+    url: "{{ site.baseurl }}/talks/"   
 
   - title: "Teaching"
-    url: {{ site.baseurl }}/    
+    url: "{{ site.baseurl }}/teaching/"
     
   - title: "Portfolio"
-    url: {{ site.baseurl }}/
+    url: "{{ site.baseurl }}/portfolio/"
         
   - title: "Blog Posts"
-    url: {{ site.baseurl }}/
+    url: "{{ site.baseurl }}/blog/"
     
   # - title: "CV"
   #   url: /cv/
@@ -30,4 +30,4 @@ main:
   #   url: /cv-json/
     
   - title: "Guide"
-    url: {{ site.baseurl }}/
+    url: "{{ site.baseurl }}/guide/"
