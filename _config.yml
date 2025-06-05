@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Hazem Elbaz / Site Title"
 title_separator          : "-"
 name                     : &name "Hazem Elbaz"
 description              : &description "personal description"
