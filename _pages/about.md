@@ -65,8 +65,8 @@ Services
 Misc
 ======
 * I am a yo-yo player, styles: 1A (Single Hand String Trick) and 5A (Counterweight). My favorite yo-yo performers are Hiroyuki Suzuki and Jake Elliott. 
-* [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
+* (Outdated) [Here](https://www.cnblogs.com/Determined22/) is my technology blog (in Chinese). I wrote some notes about machine learning and natural language processing techniques.
 * I love playing football and table tennis. I am a Real Madrid fan, and my favorite athlete is LIU Shiwen. 
 
 
-_Last Updated: Jan. 2025_
+_Last Updated: Jun. 2025_
