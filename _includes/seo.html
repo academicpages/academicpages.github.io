@@ -39,17 +39,12 @@
   {% assign seo_author_twitter = seo_author_twitter | replace: "@", "" %}
 {% endif %}
 
-<meta property="og:locale" content="{{ site.locale | default: "en" }}">
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+{% if page.date %}
+  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{% endif %}
 
 {% if seo_url %}
   <link rel="canonical" href="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
-{% endif %}
-
-{% if page.excerpt %}
-  <meta property="og:description" name="description" content="{{ seo_description }}">
 {% endif %}
 
 {% if site.twitter.username %}
@@ -83,33 +78,11 @@
   {% endif %}
 {% endif %}
 
-{% if page.header.image %}
-  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% elsif page.header.overlay_image %}
-  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
-{% endif %}
-
-{% if page.date %}
-  <meta property="og:type" content="article">
-  <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-{% endif %}
-
 {% if paginator.previous_page %}
   <link rel="prev" href="{{ paginator.previous_page_path | prepend: seo_url }}">
 {% endif %}
 {% if paginator.next_page %}
   <link rel="next" href="{{ paginator.next_page_path | prepend: seo_url }}">
-{% endif %}
-
-{% if site.og_image %}
-  <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "Organization",
-      "url": {{ seo_url | jsonify }},
-      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
-    }
-  </script>
 {% endif %}
 
 {% if site.social %}
@@ -137,3 +110,37 @@
   <meta name="yandex-verification" content="{{ site.yandex_site_verification }}">
 {% endif %}
 <!-- end SEO -->
+
+<!-- Open Graph protocol data (https://ogp.me/), used by social media -->
+<meta property="og:locale" content="{{ site.locale | default: "en" }}">
+<meta property="og:site_name" content="{{ site.title }}"> 
+<meta property="og:title" content="{{ page.title | default: site.title | markdownify | strip_html | strip_newlines | escape_once }}">
+{% if page.date %}
+  <meta property="og:type" content="article">
+{% endif %}
+{% if page.excerpt %}
+  <meta property="og:description" name="description" content="{{ seo_description }}">
+{% elsif site.og_description %}
+  <meta property="og:description" name="description" content="{{ site.og_description }}">
+{% endif %}
+{% if seo_url %}
+  <meta property="og:url" content="{{ page.url | prepend: seo_url | replace: "/index.html", "/" }}">
+{% endif %}
+
+{% if site.og_image %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": {{ seo_url | jsonify }},
+      "logo": {{ site.og_image | prepend: "/images/" | prepend: base_path | jsonify }}
+    }
+  </script>
+{% endif %}
+
+{% if page.header.image %}
+  <meta property="og:image" content="{% if page.header.image contains "://" %}{{ page.header.image }}{% else %}{{ page.header.image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% elsif page.header.overlay_image %}
+  <meta property="og:image" content="{% if page.header.overlay_image contains "://" %}{{ page.header.overlay_image }}{% else %}{{ page.header.overlay_image | prepend: "/images/" | prepend: base_path }}{% endif %}">
+{% endif %}
+<!-- end Open Graph protocol -->
