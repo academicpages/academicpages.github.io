@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* currently: Ph.D in Mathematical Statistics, Technical University of Munich, since 2020
+* currently: Ph.D. in Mathematical Statistics, Technical University of Munich, since 2020
 * M.Sc. Statistics, Humboldt University of Berlin, 2020
 * M.Sc. Economics (Math Major), Vienna University of Economics and Business, 2019
 * B.Sc. Economics, University of Heidelberg, 2016

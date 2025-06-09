@@ -1,7 +1,5 @@
 ---
-title: "causalAssembly: Generating Realistic Production Data for Benchmarking Causal Discovery
-
-"
+title: "causalAssembly: Generating Realistic Production Data for Benchmarking Causal Discovery"
 collection: publications
 permalink: /publication/causalassembly
 excerpt: 'Algorithms for causal discovery have recently undergone rapid advances and increasingly draw on flexible nonparametric methods to process complex data. With these advances comes a need for adequate empirical validation of the causal relationships learned by different algorithms. However, for most real and complex data sources true causal relations remain unknown. This issue is further compounded by privacy concerns surrounding the release of suitable high-quality data. To tackle these challenges, we introduce causalAssembly
