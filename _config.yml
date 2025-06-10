@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hazem Elbaz / Site Title"
-title_separator          : "-"
+title                    : "Hazem Elbaz / CyberSecurity with AI and LLM Researcher"
+title_separator          : "The Journy of a CyberSecurity with AI and LLM Researcher - Hazem Elbaz"
 name                     : &name "Hazem Elbaz"
-description              : &description "My journey from Cybersecurity to Artificial Intelligence."
-url                      : https://hazemelbaz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+description              : &description "Here I share my journey and experinces as a CyberSecurity with AI and LLM Researcher, including my research, projects, and insights into the field. Join me in exploring the intersection of cybersecurity and artificial intelligence, and discover how LLMs are shaping the future of security."
+url                      : https://elbazhazem.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : #"academicpages/academicpages.github.io"
+repository               : "elbazhazem/elbazhazem.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
