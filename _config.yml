@@ -23,13 +23,13 @@ repository               : "elbazhazem/elbazhazem.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Hazem Elbaz" # Name of the author
+  pronouns         :  example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Alaqsa University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "hazem_baz@alaqsa.edu.ps" 
 
   # Academic websites
   academia         : # URL
