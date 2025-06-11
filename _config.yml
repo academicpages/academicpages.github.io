@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yehong Zhang / Homepage"
+title                    : "Yehong Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Yehong Zhang"
-description              : &description "personal description"
+description              : &description ""
 url                      : https://wizeaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WIZeaz/wizeaz.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Yehong Zhang"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"
   bio              : #Short biography for the left-hand sidebar"
   location         : "Shanghai, China"
   employer         : "Fudan University"

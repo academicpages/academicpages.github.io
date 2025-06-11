@@ -4,11 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-rumono
 excerpt: "Fuzzing is a popular technique for detecting bugs, which can be extended to libraries by constructing executables that call library APIs, known as fuzz drivers. Automated fuzz driver synthesis has been an important research topic in recent years since it can facilitate the library fuzzing process. Nevertheless, existing approaches generally ignore generic APIs or simply treat them as non-generic APIs. As a result, they cannot generate effective fuzz drivers for generic APIs. \nThis paper explores the challenge of automating fuzz driver synthesis for Rust libraries with generic APIs. The problem is essential because Rust prioritizes security and generic APIs are widely employed in Rust libraries. We propose a novel approach and develop a prototype, RuMono, to tackle the problem. Our approach initially infers API reachability from the generic API dependency graph, discovering the reachable and valid monomorphic APIs within the library. Further, we apply a similarity-based filter to eliminate redundant monomorphic APIs. Experimental results from 29 popular open-source libraries demonstrate that RuMono can achieve promising generic API coverage with a low rate of invalid fuzz drivers. Besides, we have identified 23 bugs previously unknown in these libraries, with 18 related to generic APIs."
-date: 2023-12-17
-venue: Arxiv
+date: 2024-11-26
+venue: TOSEM
 slidesurl: 
-paperurl: 'https://arxiv.org/abs/2312.10676'
-citation: 'Zhang, Yehong, Jun Wu, and Hui Xu. "Fuzz Driver Synthesis for Rust Generic APIs." arXiv preprint arXiv:2312.10676 (2023).'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3709359/'
+citation: 'Yehong Zhang, Jun Wu, and Hui Xu. 2024. RuMono: Fuzz Driver Synthesis for Rust Generic APIs. ACM Trans. Softw. Eng. Methodol. Just Accepted (December 2024). https://doi.org/10.1145/3709359'
 ---
 
 Our tool and bug report are public available at GitHub! You can click the following links to visit:
