@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Chen HE is currently a lecturer in the [Department of Ariticial Intelligence of the College of Artificial Intelligen](https://ai.swu.edu.cn/xygk/jgsz/jxxb.htm) at Southwest University in Chongqing, China.
+Chen HE is currently a Lecturer in the [Department of Ariticial Intelligence of the College of Artificial Intelligence](https://ai.swu.edu.cn/xygk/jgsz/jxxb.htm) at Southwest University in Chongqing, China.
 
 He previously pursued his Ph.D. in the [Departement of Healthcare Engineering of the Centre for Biomedical and Healthcare Engineering](https://www.mines-stetienne.fr/en/research/5-research-academic-centers/center-biomedical-healthcare-engineering/) at [École des Mines de Saint-Étienne](https://www.mines-stetienne.fr/en/) in France, under the supervision of Professor [Xiaolan XIE](https://ieeexplore.ieee.org/author/37088069933) and mentorship of Assistant Professor [Benjamin DALMAS](http://www.bendalmas.com/).
 
