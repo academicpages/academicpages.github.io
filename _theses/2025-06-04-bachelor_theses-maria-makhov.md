@@ -1,13 +1,12 @@
 ---
 title: "Predicting University Course Bookings Via Machine Learning Classification "
 collection: theses
-# category: manuscripts
 excerpt: ""
 authors: "Maria Makhov"
-supervisor: "Radu Prodan"
+supervisor: "Univ.-Prof Radu Prodan"
 permalink:
 date: 2025-06-04
-venue: 'Bachelor Thesis'
+degree: 'Bachelor'
 ---
 
 ## Abstract 

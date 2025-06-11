@@ -36,3 +36,13 @@ td {
 tr, td, th {
   vertical-align: middle;
 }
+
+/* Custom style for thesis list */
+.theses-table thead {
+  background-color: var(--global-bg-color);
+}
+
+.theses-table th,
+.theses-table td {
+  text-align: center;
+}

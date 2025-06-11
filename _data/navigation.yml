@@ -11,17 +11,17 @@ main:
   - title: "Theses"
     url: /theses/
 
-  - title: "Talks"
-    url: /talks/   
+  - title: "People"
+    url: /people/   
 
-  - title: "Teaching"
-    url: /teaching/
+  # - title: "Teaching"
+  #   url: /teaching/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /blog/
+  # - title: "Blog Posts"
+  #   url: /blog/
     
   # - title: "CV"
   #   url: /cv/
@@ -29,5 +29,5 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /guide/
+  # - title: "Guide"
+  #   url: /guide/
