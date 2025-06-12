@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Debshikha Banerjee"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Knoxville, Tennessee, USA"
+  employer         : "University of Tennessee, knoxville"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "dbanerj5@vols.utk.edu" 
 
   # Academic websites
   academia         : # URL
