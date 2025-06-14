@@ -32,7 +32,11 @@ Shandong University of Technology, Zibo, China. (Advisor: Prof. Junyou Zhang), 0
 
 Publications
 ------
+•	Journal of Urban Planning and Development (1 Paper, 1 First-Authored).
+
 •	Transportation Letters (1 Paper, 1 First-Authored).
+
+•	Applied Sciences (1 Ppaer, Corresponding authored).
 
 •	Multimodal Transportation (1 Paper, 1 First-Authored).
 
