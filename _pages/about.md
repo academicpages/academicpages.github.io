@@ -1,13 +1,12 @@
 ---
 permalink: /
 title: "Apo's Homepage"
-subtitle:"👋🏼 Hello there, I’m Apo !"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+👋🏼 Hello there, I’m Apo !
 🎓 I’m an undergraduate student currently pursuing a double Bachelor’s degree in Mathematics and Physics at Université Paris-Saclay.
 
 🌌  My intellectual curiosity is rooted in the deep structures of physical reality. I’m especially drawn to theoretical/mathematical physics, cosmology and anything that blurs the line between mathematics and physics. Right now, I'm exploring how the universe might be accelerating under the influence of dark energy and I'm proposing a scalar field approach to explain this acceleration — and how we can model that from first principles.
