@@ -16,5 +16,6 @@ redirect_from:
 
 🌍 Multilingual and deeply international, I care about bridging ideas, cultures, and disciplines. I believe that science doesn’t happen in a vacuum, and neither should scientists.
 
+
 📄 Curious about the details? You can view my full [CV here](./files/CV.pdf). 
 
