@@ -34,11 +34,11 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : ""
+  orcid            : 
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
