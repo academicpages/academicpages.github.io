@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "fr-FR"
 site_theme               : "default"
-title                    : "Apostolos Bisas"
+title                    : "Apo's Homepage"
 title_separator          : "-"
 name                     : &name "Apostolos Bisas"
 description              : &description "personal description"
