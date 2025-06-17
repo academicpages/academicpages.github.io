@@ -9,25 +9,25 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Veritas's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Satyavrat Yadav"
+description              : &description "I am a Computer Science graduate passionate about software engineering and cybersecurity. Through this blog, I document my learning journey, projects, and experiences — both technical and personal — as I work toward building a career in tech. Whether it is writing about code, capturing a Capture the Flag challenge, or reflecting on life as an aspiring developer, this space is where I grow and share."
+url                      : https://sv-yadav.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sv-yadav/sv-yadav.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "https://pbs.twimg.com/profile_images/1929082684208480256/yjTgNds5_400x400.jpg"
+  name             : "Veritas"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A journey through software, cybersecurity, and everything between."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Student/Self-Learner"
   uri              : # URL
   email            : "none@example.org" 
 
