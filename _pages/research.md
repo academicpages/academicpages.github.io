@@ -64,7 +64,7 @@ Volume 178, June 2024, 106571 (<a href = "https://www.sciencedirect.com/science/
   
 <h2 style="font-size:22px; ">Under review </h2>
   
-Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">Under review</a>) 
+Aiding the energy transition? How greening foreign aid affects domestic politics (<a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">link</a>) 
 <details>
   <summary><i>Abstract</i></summary>
 
@@ -74,6 +74,15 @@ Renewable energy investment is a vital step in the fight against climate change.
 <p>
 <p>
 
+Giving a Green Light to the Global South: How International Chaos Puts Developing Countries at the Forefront of Climate Initiatives
+ (with Jon Pevehouse and Ed Mansfield) <a href= "https://cobrienudry.github.io/files/greening_aid_Oct24.pdf">link</a>
+ <details>
+  <summary><i>Abstract</i></summary>
+The twin threats to global economic stability of Russia’s invasion of Ukraine and President Donald Trump’s anti-green policies are likely to slow the renewable energy transition in rich, industrialized countries. Europe’s desire for energy security and rearmament in the face of Russian aggression and wavering support from the United States has redirected the attention of the traditionally environmentally inclined European parties away from energy and towards more pressing, existential concerns. The U.S. remains one of the largest carbon producers globally and the Trump Administration’s cuts to environmental protections and green energy credits are likely to stymie domestic efforts to reduce emissions. While the advanced economies have largely abandoned efforts to lead a global transition to green energy, the international instability that they currently face may accelerate renewable adoption in the Global South. Contrary to traditional theories of global change in international relations, a combination of existing policies—particularly China’s investment in renewable technologies—and pressure from trade competition is likely to enhance the green energy transition in developing countries. 
+  </details>
+
+<p>
+<p>
 
 <h2 style="font-size:22px; "> Working Papers</h2>
 <p>
@@ -109,19 +118,6 @@ Fishing for cooperation: how climate change affects international environmental 
 Governing mobile assets is a key task for international cooperation. Environmental and economic treaties organize national engagement with agriculture, herding, and aquaculture. As global warming changes the habitability of areas for different species, how does international cooperation respond to current and expected changes in asset mobility? Do international treaties broaden to accommodate new actors and geographies? How do states that previously were not covered by existing treaties interact with the environmental regulation regime? Using data from fish populations, we map changes in fish migration and breeding onto international environmental treaties to understand how the regulatory landscape responds to instability sparked climate change.
 
   </details>
-
-<p>
-<p>
-  
-The Politics of the Environmental Kuznets Curve (with <a href= "https://live-sas-www-polisci.pantheon.sas.upenn.edu/people/standing-faculty/edward-d-mansfield">Ed Mansfield</a>)
-<details>
-  <summary><i>Abstract</i></summary>
-  
-How do politics map onto the environmental Kuznets curve (EKC)? According to the EKC, as countries develop from low to middle-income, they specialize in industries with higher emissions. Both very low-income (pre-industrialized) and very high-income (de-industrialized) countries are comparatively more likely to specialize in low-emission sectors. We argue that countries on different locations of the EKC will vary in their domestic political cleavages. While populism and environmentalism are at odds in de-industrialized countries, newly industrialized countries will see parties unify the two concepts. Data from political party manifestos and public statements supports these conjectures. We then trace the evolution of support for environmental and populist policies amongst programmatic political parties in sub-Saharan Africa.  Using historical labor and public opinion data, we examine if political parties representing ethnic groups with labor concentration in newly exporting industries become more likely to oppose both environmental and populist policies. Concurrently, we look at when the international community begins to increase its support for environmentally friendly policies, these parties simultaneously become anti-international collaboration while maintaining pro-globalization positions.
-</details>
-
-<p>
-<p>
 
 
 <p>
