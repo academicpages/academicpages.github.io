@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/CV.pdf
+permalink: /files/Kim%20Jeesoo%20CV.pdf
 author_profile: true
 redirect_from:
   - /resume
