@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "student"
   location         : "South Korea"
-  employer         : "KAIST(Korea Advanced Institute of Technology)"
+  employer         : "KAIST"
   uri              : # URL
   email            : "eidophor@kaist.ac.kr" 
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
