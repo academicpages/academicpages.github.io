@@ -11,7 +11,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 title                    : "Ozlem Tuncel"
 title_separator          : "-"
 name                     : &name "Ozlem Tuncel"
-description              : &description "she/her/hers"
+description              : &description "she/her"
 url                      : https://ozlemtuncel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ozlemtuncel/ozlemtuncel.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Ozlem Tuncel"
   avatar           : "profile_bio2.jpg"
-  bio              : "(she/her/hers) Ph.D., Political Science from Georgia State University (GSU) interested in elections, political parties, and electoral autocratic regimes."
+  bio              : "(she/her) Ph.D., Political Science from GSU interested in autocratization, elections, political parties, and electoral autocracies."
   location         : "Atlanta, GA, USA"
   employer         : 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
