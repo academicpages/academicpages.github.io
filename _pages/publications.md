@@ -43,7 +43,7 @@ author_profile: true
 - [Uniting agains autocracy: Opposition coalitions in electoral authoritarian regimes](https://drive.google.com/file/d/1E0ttw_e1ObKUE0W5ISgWw_1ajN4i2agj/view?usp=sharing). *journal article (JMP)*
 - [Understanding opposition strategies through opposition learning: Example of Turkish opposition parties navigating the new electoral field](https://ozlemtuncel.github.io/publications/). *journal article (R & R)*
 - Elite interviewing in political science: Insights from leading journals. *journal article (R & R)* ([EMW project](https://sigla.georgetown.domains/emworkshop/))
-  
+
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
 - Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies. *journal article* (will be presented at APSA & MPSA 2025) 
