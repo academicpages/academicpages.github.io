@@ -1,9 +1,7 @@
 ---
 title: "MGT6705 Time-Series-Data-Analysis-and-Forecasting Mid-term Project"
-excerpt: "Physicochemical Properties Related to the Quality of Red Wines<br/>: Analyzing Numerical properties that affect the quality of red wines using ordered probit regression models<br/><img src='/images/500x300.png'>"
+excerpt: "Physicochemical Properties Related to the Quality of Red Wines<br/>: Analyzing Numerical properties that affect the quality of red wines using ordered probit regression models.<br/>"
 collection: portfolio
-permalink: /portfolio/wine-quality-analysis
-layout: single
 ---
 
 ## 📝 Project Overview
