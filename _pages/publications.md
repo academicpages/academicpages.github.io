@@ -47,9 +47,9 @@ author_profile: true
 ### Selected Working Papers
 - [Toward a new transition theory? Opposition dilemmas and how to resist and recover from democratic erosion](https://preprints.apsanet.org/engage/apsa/article-details/6360da3baca198ab89ed8f06). APSA Pre-print. (with Jennifer McCoy and Murat Somer) *journal article*
 - Unseating autocratizing leaders: Electoral success and opposition coalitions in backsliding democracies. *journal article* (will be presented at APSA & MPSA 2025) 
- 
+ - Authoritarian control through trusteeship: The case of Kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en), will be presented at APSA 2025)
+
 ### Work-In-Progress
-- Authoritarian control through trusteeship: The case of Kayyum in Turkey and implications for comparative authoritarianism. *journal article* (with [Elif Sari Genc](https://scholar.google.com/citations?user=qdnr6bEAAAAJ&hl=en))
 - Partisanship, political knowledge, and presidential impeachment attitudes in the US. *book chapter & journal article* (with [Flavia Batista da Silva](https://gvpt.umd.edu/gradprofile/batista-da-silva/flavia))
 - Why do opposition coalitions endure? Persistence and coordination under electoral authoritarianism. *journal article* (with [Oren Samet](https://www.orensamet.com/))
 - University expansion and political support in Turkey: Higher education’s role in autocratic consolidation. *journal article* (with [Felix Wiebrecht](https://www.felixwiebrecht.com/))
