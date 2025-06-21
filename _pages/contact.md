@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-If you’d like to request a letter of recommendation or reference from me, [please click here for more information](/files/letters.pdf).
+If you’d like to request a letter of recommendation or reference from me, [click here](/files/letters.pdf).
 
 ## To Reach Me
 
