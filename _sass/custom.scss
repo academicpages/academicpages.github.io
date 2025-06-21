@@ -52,3 +52,23 @@
   text-align: center;
   color: #1c1c1e;
 }
+
+.portfolio-card {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  height: 100%;
+}
+
+/* 👇 h2 안에 화살표 스타일 */
+.portfolio-entry h2 .arrow {
+  display: inline-block;
+  transition: transform 0.2s ease;
+  margin-left: 0.3rem;
+}
+
+/* 👇 hover 시 화살표가 살짝 이동 */
+.portfolio-entry:hover h2 .arrow {
+  transform: translateX(5px);
+}
+
