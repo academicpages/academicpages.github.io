@@ -1,0 +1,41 @@
+.portfolio-index {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.portfolio-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.portfolio-entry {
+  border-bottom: 1px solid #e0e0e0;
+  padding: 1.2rem 0;
+  transition: background-color 0.2s ease;
+}
+
+.portfolio-entry a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
+.portfolio-entry:hover {
+  background-color: #f9f9f9;
+}
+
+.entry-text h2 {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  color: #1a1a1a;
+}
+
+.entry-text p {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0;
+}
