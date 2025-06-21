@@ -29,7 +29,6 @@ These findings suggest that even without expert critic ratings, consumers and im
 
 ## 📎 Download Full Report
 
-[📄 Download PDF Report](../../files/wine_quality_report.pdf)
+[📄 Download PDF Report](/files/wine_quality_report.pdf)
+[🔍 View R Code Markdown Report (HTML)](/files/Midterm-Project.html)
 
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
