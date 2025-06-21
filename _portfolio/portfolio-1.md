@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "MGT6705 Time-Series-Data-Analysis-and-Forecasting"
+excerpt: "Mid-term project: Physicochemical Properties Related to the Quality of Red Wines<br/>:Analyzing Numerical properties that affect the quality of red wines using ordered probit regression models<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
