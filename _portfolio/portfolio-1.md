@@ -30,5 +30,6 @@ These findings suggest that even without expert critic ratings, consumers and im
 ## 📎 Download Full Report
 
 [📄 Download PDF Report](/files/wine-quality-report.pdf)
+
 [🔍 View R Code Markdown Report (HTML)](/files/Midterm-Project.html)
 
