@@ -1,5 +1,5 @@
 ---
-title: "MGT6705 Time-Series-Data-Analysis-and-Forecasting Mid-term Project"
+title: "MGT6705] Time Series Data Analysis and Forecasting Mid-term Project"
 excerpt: "Physicochemical Properties Related to the Quality of Red Wines<br/>: Analyzing Numerical properties that affect the quality of red wines using ordered probit regression models.<br/>"
 semester: "Spring-2024"
 collection: portfolio
