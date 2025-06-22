@@ -93,10 +93,10 @@
 
 .project-meta {
   font-size: 0.85rem !important;
-  font-weight: 600 !important;
-  color: #007aff !important;           /* 진한 파란색 (Apple 스타일) */
-  margin-top: 0.75rem !important;
+  font-weight: 500 !important;
+  color: #6e6e73 !important;           /* 진한 파란색 (Apple 스타일) */
+  margin-top: 0.40rem !important;
   font-style: normal !important;
-  letter-spacing: 0.03em !important;
-  text-transform: uppercase !important; /* 대문자 느낌 강조 (Spring 2024 → SPRING 2024 느낌) */
+  letter-spacing: 0.02em !important;
+  text-transform: none !important; /* 대문자 느낌 강조 (Spring 2024 → SPRING 2024 느낌) */
 }
