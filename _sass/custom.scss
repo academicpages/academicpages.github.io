@@ -72,8 +72,21 @@
   transform: translateX(5px);
 }
 
+
+/* 링크 기본 밑줄 제거 */
+.portfolio-entry a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* 제목(h2)만 다시 밑줄 주기 */
+.portfolio-entry h2 {
+  text-decoration: underline;
+}
+
+/* 설명과 학기에는 절대 밑줄 없게 */
 .portfolio-entry p {
-  text-decoration: none; // 💡 밑줄 제거
+  text-decoration: none;
 }
 
 .project-meta {
