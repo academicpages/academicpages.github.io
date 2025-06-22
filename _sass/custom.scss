@@ -72,11 +72,6 @@
   transform: translateX(5px);
 }
 
-.container {
-  max-width: unset !important;
-  padding: 0 !important;
-}
-
 .project-meta {
   font-size: 0.85rem;
   font-weight: 600;
@@ -86,3 +81,10 @@
   letter-spacing: 0.03em;
   text-transform: uppercase; // 대문자 느낌 강조 (Spring 2024 → SPRING 2024 느낌)
 }
+
+
+.container {
+  max-width: unset !important;
+  padding: 0 !important;
+}
+
