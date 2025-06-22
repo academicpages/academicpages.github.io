@@ -10,9 +10,9 @@ layout: default
     <li class="portfolio-entry">
       <a href="{{ item.url | relative_url }}">
         <div class="entry-text">
+          <p class="project-meta">{{ item.semester }}</p>
           <h2>{{ item.title }} <span class="arrow">🔗</span></h2>
           <p>{{ item.excerpt }}</p>
-          <p class="project-meta">{{ item.semester }}</p>
         </div>
       </a>
     </li>
