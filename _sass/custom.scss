@@ -1,6 +1,6 @@
 /* custom.scss */
 
-.portfolio-index {
+.portfolio-index.container {
   max-width: 1400px;
   margin: 4rem auto;
   padding: 0 1.5rem;
@@ -83,8 +83,4 @@
 }
 
 
-.container {
-  max-width: unset !important;
-  padding: 0 !important;
-}
 
