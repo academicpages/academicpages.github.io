@@ -36,7 +36,7 @@
   font-size: 1.4rem;
   font-weight: 600;
   color: #1c1c1e;
-  margin-top: 0.3rem; 
+  margin-top: 0.6rem; 
   margin-bottom: 0.3rem;
 }
 
@@ -100,4 +100,5 @@
   font-style: normal !important;
   letter-spacing: 0.02em !important;
   text-transform: none !important; /* 대문자 느낌 강조 (Spring 2024 → SPRING 2024 느낌) */
+  align-self: flex-end !important;
 }
