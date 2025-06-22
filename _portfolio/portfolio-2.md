@@ -6,11 +6,11 @@ collection: portfolio
 
 ## 📝 Project Overview
 
-This project aimed to forecast monthly Japanese tourist arrivals to Korea and identify the impact of Korea-related keyword trends on travel behavior. Using Google Trends data and actual tourist statistics, we developed interpretable models to enhance prediction accuracy and provide tourism policy insights.
+This project aimed to forecast monthly Japanese tourist arrivals to Korea and identify the impact of Korea-related keyword trends on travel behavior. Using Google Trends data and actual tourist statistics, we developed interpretable models to enhance prediction accuracy and provide tourism policy insights. Served as a team leader, responsible for topic proposal, data analysis, and report writing.
 
 ## 🔬 Methodology
 
-- Dataset: Monthly Japanese tourist arrivals (2010–2023) + 9 Korea-related search terms (e.g., "K-pop", "Samgyeopsal", "Myeongdong")
+- Dataset: Monthly Japanese tourist arrivals (2010–2023) + 9 Korea-related search terms (e.g., "K-pop", "Samgyeopsal", "Myeongdong" in Japanese)
 - Model: **SARIMA & SARIMAX** (with lagged external regressors)
 - Time Series Decomposition: STL to separate seasonal/trend components
 - Model Selection: Grid search over **15,625 SARIMAX lag combinations**
