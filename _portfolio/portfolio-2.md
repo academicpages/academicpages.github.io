@@ -12,7 +12,7 @@ This project aimed to forecast monthly Japanese tourist arrivals to Korea and id
 
 - Dataset: Monthly Japanese tourist arrivals (2010–2023) + 9 Korea-related search terms (e.g., "K-pop", "Samgyeopsal", "Myeongdong" in Japanese)
 - Model: **SARIMA & SARIMAX** (with lagged external regressors)
-- Time Series Decomposition: STL to separate seasonal/trend components
+- Time Series Decomposition: STL(Seasonal-Trend decomposition using Loess) to separate seasonal/trend components
 - Model Selection: Grid search over **15,625 SARIMAX lag combinations**
 - Evaluation Metric: Root Mean Squared Error (RMSE)
 - Final Selected Variables: `Samgyeopsal`, `K-pop`, `Myeongdong`, `Hangang`, `Dakgalbi` (with optimized lags)
