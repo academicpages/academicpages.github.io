@@ -1,5 +1,5 @@
 ---
-title: "CSE4110-Database-System Individual Projects"
+title: "[CSE4110] Database-Systems Individual Projects"
 excerpt: "Real Estate Database Management Program<br/>"
 semester: "Spring-2024"
 collection: portfolio
