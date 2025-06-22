@@ -274,7 +274,7 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: ture
+      author_profile: true
       share: true
       comment: true
   # _talks
