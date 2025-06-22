@@ -40,7 +40,7 @@ Led the individual project, responsible for ER schema design, data modeling, que
 - SQL Query processing using `snprintf` + `mysql_query()` + `mysql_store_result()`
 
 ## 📎 Download Project Documents
-📄 [Download Project2 Guide](/files/project2_system_guide(spring2024).pdf) 
-📄 [Download System Specification (project2_system_guide)](/files/project2_system_guide(spring2024).pdf)  
-📄 [Download Mid Report: Primary ER design of the Real Estate](/files/[project1]20190741.pdf)
-📄 [Download Final Report](/files/[project2]20190741.pdf)
+📄 [Download Project2 Guide](/files/project2(spring2024).pdf) <br/>
+📄 [Download System Specification (project2_system_guide)](/files/project2_system_guide(spring2024).pdf)  <br/>
+📄 [Download Mid Report: Primary ER design of the Real Estate](/files/[project1]20190741.pdf) <br/>
+📄 [Download Final Report](/files/[project2]20190741.pdf) <br/>
