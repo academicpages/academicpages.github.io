@@ -82,6 +82,8 @@
 /* 제목(h2)만 다시 밑줄 주기 */
 .portfolio-entry h2 {
   text-decoration: underline;
+  text-decoration-color: #0a9396;
+  text-underline-offset: 4px; // 살짝 띄워서 고급 느낌
 }
 
 /* 설명과 학기에는 절대 밑줄 없게 */
