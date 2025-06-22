@@ -1,7 +1,7 @@
 /* custom.scss */
 
 .portfolio-index {
-  max-width: 1600px;
+  max-width: 1480px;
   margin: 4rem auto;
   padding: 0 1.5rem;
 }
@@ -72,3 +72,7 @@
   transform: translateX(5px);
 }
 
+.container {
+  max-width: unset !important;
+  padding: 0 !important;
+}
