@@ -15,8 +15,13 @@ redirect_from:
 
 특히 장형수 교수님의 수업(이산구조, 자료구조, 알고리즘)들을 통해 교수님께서 영어 원서로 공부하는 것을 수업의 기준으로 제시해 주셨고, 시험에서도 이를 적극적으로 반영해주셔서 영어 원서 기반의 학습을 시작하게 되었고, 그 이후부터는 아래 사진과 같이 원서를 중심으로 꾸준히 학습했습니다.
 
-![원서 학습 사진 예시](/files/study-books.jpg)
-![원서 학습 사진 예시](/files/study-books2.jpg)
+<a href="/files/study-books.jpg" target="_blank">
+  <img src="/files/study-books.jpg" alt="원서 학습 사진 예시" style="max-width: 450px; height: auto; border-radius: 8px; margin-bottom: 1rem;" />
+</a>
+
+<a href="/files/study-books2.jpg" target="_blank">
+  <img src="/files/study-books2.jpg" alt="원서 학습 사진 예시 2" style="max-width: 450px; height: auto; border-radius: 8px;" />
+</a>
 
 또한, 교내 데이터사이언스 학회 **Parrot**에서 1년간 학회원 및 운영진으로 활동하며 다양한 전공의 학회원들과 함께 실제 Raw 데이터 기반의 프로젝트를 수행해 왔습니다.
 
