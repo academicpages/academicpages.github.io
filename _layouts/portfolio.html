@@ -6,7 +6,8 @@ layout: default
   <h1 class="page-title">{{ page.title }}</h1>
 
   <ul class="portfolio-list">
-    {% for item in site.portfolio %}
+    {% assign sorted_portfolio = site.portfolio | sort: 'semester_sort' | reverse %}
+    {% for item in sorted_portfolio %}
     <li class="portfolio-entry">
       <a href="{{ item.url | relative_url }}">
         <div class="entry-text">
