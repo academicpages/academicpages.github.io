@@ -2,6 +2,7 @@
 title: "[MGT6705] Time Series Data Analysis and Forecasting Final-term Project"
 excerpt: "Forecasting and Enhancing Japanese Tourism to Korea<br/>: Modeling Japanese tourist arrivals using SARIMA/SARIMAX with search trend-based external regressors.<br/>"
 semester: "Spring-2024"
+semester_sort: 202401
 collection: portfolio
 ---
 
