@@ -6,8 +6,7 @@ author_profile: true       # pulls your avatar & details from _config.yml
 classes: wide              # full-width; drops sidebar
 ---
 
-小叶
-=====
+------
 我是叶宇森，一个来自上海，现居西雅图的PhD学生。
 
 重度柴犬爱好者，梦想是将来可以住在一个大房子里养一只（贪心点的话，两只）柴犬。黑色柴犬>柴色柴犬。
