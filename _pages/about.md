@@ -14,19 +14,22 @@ classes: wide              # full-width; drops sidebar
 
 以后可能po一些乱七八糟的物理或者数学相关的东西，也可能po一些沙雕图。
 
-最近决定在这个个人网站上po一些自己的想法。
+最近决定在这个个人网站上放一些自己的想法。
 
 Recent Thoughts
 ------
 天天被馒头花卷凌晨两点半叫起来喂饭...人要没了...
 
-让我试试$\LaTeX$!
+让我试试$$\LaTeX$$!
 ------
 Relativistic Schrödinger equation reads:
+
 $$
 i\hbar \frac{\partial |\psi \rangle}{\partial t}=\left(c^2\hat{p}^2+m^2c^4\right)^{1/2}|\psi \rangle.
 $$
-Dirac equation for spin-$\displaystyle \frac{1}{2}$ particles (electrons, muons, protons, etc.)
+
+Dirac equation for spin-$$\frac{1}{2}$$ particles (electrons, muons, protons, etc.)
+
 $$
 i\hbar \frac{\partial |\psi \rangle}{\partial t}=\left(c\mathbf{\alpha} \cdot \mathbf{P}+\beta m c^2 \right)|\psi \rangle
 $$

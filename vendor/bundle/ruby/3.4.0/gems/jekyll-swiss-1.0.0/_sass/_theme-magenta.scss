@@ -1,0 +1,25 @@
+// Pink theme - links on inside pages?
+
+// Color variables
+$magenta: #CD2DA8;
+$black: #2F2323;
+$white: #fff;
+
+// Config
+$color-background: $magenta !default;
+$color-dot-accent: $black !default;
+$color-foreground: $white !default;
+$color-title: $white !default;
+$color-body-text: $black !default;
+$color-text-accent: $magenta !default;
+$color-code: $magenta !default;
+$color-nav-link: $black !default;
+$color-primary-link: $magenta !default;
+
+// Import sass partials (used in all themes)
+@import
+        "variables",
+        "base",
+        "components",
+        "utilities"
+;

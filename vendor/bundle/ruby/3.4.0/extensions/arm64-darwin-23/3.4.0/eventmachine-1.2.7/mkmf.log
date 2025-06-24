@@ -1,0 +1,836 @@
+pkg_config: checking for pkg-config for openssl... -------------------- not found
+
+package configuration for openssl is not found
+--------------------
+
+have_library: checking for -lcrypto... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lcrypto -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: 
+15: int t(void) { ; return 0; }
+/* end */
+
+--------------------
+
+have_library: checking for -lssl... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: 
+15: int t(void) { ; return 0; }
+/* end */
+
+--------------------
+
+have_header: checking for openssl/ssl.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <openssl/ssl.h>
+/* end */
+
+--------------------
+
+have_header: checking for openssl/err.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <openssl/err.h>
+/* end */
+
+--------------------
+
+have_var: checking for rb_trap_immediate in ruby.h,rubysig.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+conftest.c:4:10: fatal error: 'rubysig.h' file not found
+    4 | #include <rubysig.h>
+      |          ^~~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: #include <rubysig.h>
+ 5: 
+ 6: /*top*/
+ 7: extern int t(void);
+ 8: int main(int argc, char **argv)
+ 9: {
+10:   if (argc > 1000000) {
+11:     int (* volatile tp)(void)=(int (*)(void))&t;
+12:     printf("%d", (*tp)());
+13:   }
+14: 
+15:   return !!argv[argc];
+16: }
+17: int t(void) { const volatile void *volatile p; p = &(&rb_trap_immediate)[0]; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_thread_blocking_region()... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:14:57: error: use of undeclared identifier 'rb_thread_blocking_region'
+   14 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_thread_blocking_region; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_thread_blocking_region; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+Undefined symbols for architecture arm64:
+  "_rb_thread_blocking_region", referenced from:
+      _t in conftest-853533.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void rb_thread_blocking_region();
+15: int t(void) { rb_thread_blocking_region(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_thread_call_without_gvl() in ruby/thread.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby/thread.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_thread_call_without_gvl; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_thread_fd_select()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_thread_fd_select; return !p; }
+/* end */
+
+--------------------
+
+have_type: checking for rb_fdset_t in ruby/intern.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby/intern.h>
+4: 
+5: /*top*/
+6: typedef rb_fdset_t conftest_type;
+7: int conftestval[sizeof(conftest_type)?1:-1];
+/* end */
+
+--------------------
+
+have_func: checking for rb_wait_for_single_fd()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:14:57: error: use of undeclared identifier 'rb_wait_for_single_fd'
+   14 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_wait_for_single_fd; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_wait_for_single_fd; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void rb_wait_for_single_fd();
+15: int t(void) { rb_wait_for_single_fd(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_enable_interrupt()... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:14:57: error: use of undeclared identifier 'rb_enable_interrupt'
+   14 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_enable_interrupt; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_enable_interrupt; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+Undefined symbols for architecture arm64:
+  "_rb_enable_interrupt", referenced from:
+      _t in conftest-5a716a.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: extern void rb_enable_interrupt();
+15: int t(void) { rb_enable_interrupt(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_time_new()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_time_new; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for inotify_init() in sys/inotify.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:3:10: fatal error: 'sys/inotify.h' file not found
+    3 | #include <sys/inotify.h>
+      |          ^~~~~~~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <sys/inotify.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))inotify_init; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:3:10: fatal error: 'sys/inotify.h' file not found
+    3 | #include <sys/inotify.h>
+      |          ^~~~~~~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <sys/inotify.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void inotify_init();
+17: int t(void) { inotify_init(); return 0; }
+/* end */
+
+--------------------
+
+have_macro: checking for __NR_inotify_init in sys/syscall.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+conftest.c:6:3: error: 
+    6 | # error
+      |   ^
+conftest.c:7:1: error: expected identifier or '('
+    7 | |:/ === __NR_inotify_init undefined === /:|
+      | ^
+2 errors generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sys/syscall.h>
+4: /*top*/
+5: #ifndef __NR_inotify_init
+6: # error
+7: |:/ === __NR_inotify_init undefined === /:|
+8: #endif
+/* end */
+
+--------------------
+
+have_func: checking for writev() in sys/uio.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <sys/uio.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))writev; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for pipe2() in unistd.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:16:57: error: use of undeclared identifier 'pipe2'
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))pipe2; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <unistd.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))pipe2; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+Undefined symbols for architecture arm64:
+  "_pipe2", referenced from:
+      _t in conftest-049050.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <unistd.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void pipe2();
+17: int t(void) { pipe2(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for accept4() in sys/socket.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+conftest.c:16:57: error: use of undeclared identifier 'accept4'
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))accept4; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <sys/socket.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))accept4; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+Undefined symbols for architecture arm64:
+  "_accept4", referenced from:
+      _t in conftest-c4fd7a.o
+ld: symbol(s) not found for architecture arm64
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <sys/socket.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void accept4();
+17: int t(void) { accept4(); return 0; }
+/* end */
+
+--------------------
+
+have_const: checking for SOCK_CLOEXEC in sys/socket.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+conftest.c:7:34: error: use of undeclared identifier 'SOCK_CLOEXEC'
+    7 | conftest_type conftestval = (int)SOCK_CLOEXEC;
+      |                                  ^
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sys/socket.h>
+4: 
+5: /*top*/
+6: typedef int conftest_type;
+7: conftest_type conftestval = (int)SOCK_CLOEXEC;
+/* end */
+
+--------------------
+
+have_header: checking for sys/event.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sys/event.h>
+/* end */
+
+--------------------
+
+have_header: checking for sys/queue.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <sys/queue.h>
+/* end */
+
+--------------------
+
+have_func: checking for clock_gettime()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4  -lcrypto -lssl -lpthread  "
+ld: warning: ignoring duplicate libraries: '-lcrypto', '-lssl'
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: /*top*/
+ 4: extern int t(void);
+ 5: int main(int argc, char **argv)
+ 6: {
+ 7:   if (argc > 1000000) {
+ 8:     int (* volatile tp)(void)=(int (*)(void))&t;
+ 9:     printf("%d", (*tp)());
+10:   }
+11: 
+12:   return !!argv[argc];
+13: }
+14: int t(void) { void ((*volatile p)()); p = (void ((*)()))clock_gettime; return !p; }
+/* end */
+
+--------------------
+
+have_const: checking for CLOCK_MONOTONIC_RAW in time.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <time.h>
+4: 
+5: /*top*/
+6: typedef int conftest_type;
+7: conftest_type conftestval = (int)CLOCK_MONOTONIC_RAW;
+/* end */
+
+--------------------
+
+have_const: checking for CLOCK_MONOTONIC in time.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <time.h>
+4: 
+5: /*top*/
+6: typedef int conftest_type;
+7: conftest_type conftestval = (int)CLOCK_MONOTONIC;
+/* end */
+
+--------------------
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wall -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+2 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wextra -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:29:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/core.h:23:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/core/rarray.h:32:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/gc.h:827:46: warning: unused parameter 'obj' [-Wunused-parameter]
+  827 | static inline void rb_gc_force_recycle(VALUE obj){}
+      |                                              ^
+3 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wno-deprecated-declarations -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+2 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wno-ignored-qualifiers -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+2 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wno-unused-result -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+2 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -Wno-address -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+2 warnings generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main() {return 0;}
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang++ -std=gnu++11 -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lcrypto -lssl -lruby.3.4 -lstdc++ -lpthread  "
+clang++: warning: treating 'c' input as 'c++' when in C++ mode, this behavior is deprecated [-Wdeprecated]
+In file included from conftest.c:1:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby.h:38:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/ruby.h:27:
+In file included from /opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/internal/anyargs.h:83:
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:6: warning: 'RUBY_API_VERSION_MAJOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |      ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward/cxxanyargs.hpp:540:37: warning: 'RUBY_API_VERSION_MINOR' is not defined, evaluates to 0 [-Wundef]
+  540 | #if (RUBY_API_VERSION_MAJOR * 100 + RUBY_API_VERSION_MINOR) >= 301
+      |                                     ^
+conftest.c:5:35: warning: unused variable 'tuple' [-Wunused-variable]
+    5 |   int main(){ pair<const int,int> tuple = make_pair(1,2); }
+      |                                   ^~~~~
+3 warnings generated.
+ld: warning: ignoring duplicate libraries: '-lc++'
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3:   #include <utility>
+4:   using namespace std;
+5:   int main(){ pair<const int,int> tuple = make_pair(1,2); }
+/* end */
+

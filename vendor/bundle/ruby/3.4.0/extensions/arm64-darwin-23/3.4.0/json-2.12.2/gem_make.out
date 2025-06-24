@@ -1,0 +1,23 @@
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for rb_enc_interned_str() in ruby.h... yes
+checking for rb_hash_new_capa() in ruby.h... yes
+checking for rb_hash_bulk_insert() in ruby.h... yes
+checking for strnlen() in string.h... yes
+checking for whether -std=c99 is accepted as CFLAGS... yes
+creating Makefile
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-dovzzw sitelibdir\=./.gem.20250624-28969-dovzzw clean
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-dovzzw sitelibdir\=./.gem.20250624-28969-dovzzw
+compiling parser.c
+linking shared-object json/ext/parser.bundle
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-dovzzw sitelibdir\=./.gem.20250624-28969-dovzzw install
+/usr/bin/install -c -m 0755 parser.bundle ./.gem.20250624-28969-dovzzw/json/ext
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/json-2.12.2/ext/json/ext/parser
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-dovzzw sitelibdir\=./.gem.20250624-28969-dovzzw clean

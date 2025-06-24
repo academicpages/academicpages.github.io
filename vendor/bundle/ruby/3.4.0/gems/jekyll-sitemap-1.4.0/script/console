@@ -1,0 +1,35 @@
+#! /usr/bin/env ruby
+# frozen_string_literal: true
+
+def relative_to_root(path)
+  File.expand_path(path, File.dirname(__dir__))
+end
+
+require "jekyll"
+require relative_to_root("lib/jekyll-sitemap.rb")
+require "pry-debugger"
+
+SOURCE_DIR = relative_to_root("spec/fixtures")
+DEST_DIR   = relative_to_root("spec/dest")
+
+def source_dir(*files)
+  File.join(SOURCE_DIR, *files)
+end
+
+def dest_dir(*files)
+  File.join(DEST_DIR, *files)
+end
+
+def config(overrides = {})
+  Jekyll.configuration(
+    "source"      => source_dir,
+    "destination" => dest_dir,
+    "url"         => "http://example.org"
+  ).merge(overrides)
+end
+
+def site(configuration = config)
+  Jekyll::Site.new(configuration)
+end
+
+binding.pry

@@ -1,0 +1,73 @@
+#!/usr/bin/env ruby
+
+require 'mercenary'
+require_relative "../lib/github-pages"
+
+Mercenary.program(:"github-pages") do |p|
+  p.version GitHubPages::VERSION
+  p.description
+  p.syntax "github-pages <subcommand> options"
+
+  p.command(:versions) do |c|
+    c.syntax "versions"
+    c.description "lists the current gem dependency versions"
+    c.option "all", "--all", "Report all versions, not just ones we lock to (cannot be used with --gemfile)"
+    c.option "gemfile", "--gemfile", "use Gemfile formatting"
+    c.action do |args, options|
+      if options["gemfile"]
+        GitHubPages::Dependencies.gems.each { |g,v| puts "gem '#{g}', '#{v}'" }
+      else
+        require 'terminal-table'
+        versions = options['all'] ? GitHubPages::Dependencies.versions : GitHubPages::Dependencies.gems
+        puts Terminal::Table.new :rows => versions, :headings => ["Gem", "Version"]
+      end
+    end
+  end
+
+  p.command(:branch) do |c|
+    c.syntax "branch BRANCH"
+    c.description "Generates the gem dependency at given branch"
+    c.alias(:br)
+    c.action do |args, options|
+      puts [
+        "gem 'github-pages'",
+        ":branch => '#{args[0] || "master"}'",
+        ":git => 'git://github.com/github/pages-gem'"
+      ].join(", ")
+    end
+  end
+
+  p.command(:"health-check") do |c|
+    c.syntax "health-check"
+    c.description "Checks your GitHub Pages site for common DNS configuration issues"
+    c.action do |args, options|
+      require 'github-pages-health-check'
+      cname_path = File.expand_path "CNAME", Dir.pwd
+      raise "No CNAME file found in current directory" unless File.exist?(cname_path)
+      cname = File.open(cname_path).read.strip
+      check = GitHubPages::HealthCheck.check(cname)
+      puts "Checking domain #{cname}..."
+      if check.valid?
+        puts "Everything looks a-okay! :)"
+        exit 0
+      else
+        puts "Uh oh. Looks like something's fishy: #{check.reason}"
+        exit 1
+      end
+    end
+  end
+
+  p.command(:build) do |c|
+    c.syntax "build [options]"
+    c.description "Builds your Jekyll site"
+
+    c.option 'verbose', '--verbose', 'Verbose logging'
+    c.option 'source', '--source DIR', 'From where to collect the source files'
+    c.option 'destination', '--destination DIR', 'To where the compiled files should be written'
+    c.option 'future', '--future', 'Publishes posts with a future date'
+
+    c.action do |_, options|
+      Jekyll::Commands::Build.process(options)
+    end
+  end
+end

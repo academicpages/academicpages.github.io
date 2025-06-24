@@ -1,0 +1,9 @@
+language: ruby
+cache: bundler
+
+rvm:
+    - 2.3
+    - 2.7
+    - 3.0
+    - 3.3
+    - jruby

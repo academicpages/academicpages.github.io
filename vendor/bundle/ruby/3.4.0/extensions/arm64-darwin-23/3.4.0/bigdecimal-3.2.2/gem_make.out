@@ -1,0 +1,42 @@
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
+/opt/homebrew/opt/ruby/bin/ruby extconf.rb
+checking for __builtin_clz()... yes
+checking for __builtin_clzl()... yes
+checking for __builtin_clzll()... yes
+checking for float.h... yes
+checking for math.h... yes
+checking for stdbool.h... yes
+checking for stdlib.h... yes
+checking for x86intrin.h... no
+checking for intrin.h... no
+checking for labs() in stdlib.h... yes
+checking for llabs() in stdlib.h... yes
+checking for finite() in math.h... no
+checking for isfinite() in math.h... no
+checking for ruby/atomic.h... yes
+checking for ruby/internal/has/builtin.h... yes
+checking for ruby/internal/static_assert.h... yes
+checking for rb_rational_num() in ruby.h... yes
+checking for rb_rational_den() in ruby.h... yes
+checking for rb_complex_real() in ruby.h... yes
+checking for rb_complex_imag() in ruby.h... yes
+checking for rb_opts_exception_p() in ruby.h... yes
+checking for rb_category_warn() in ruby.h... yes
+checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
+creating Makefile
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-pjnaqs sitelibdir\=./.gem.20250624-28969-pjnaqs clean
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-pjnaqs sitelibdir\=./.gem.20250624-28969-pjnaqs
+compiling bigdecimal.c
+compiling missing.c
+linking shared-object bigdecimal.bundle
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-pjnaqs sitelibdir\=./.gem.20250624-28969-pjnaqs install
+/usr/bin/install -c -m 0755 bigdecimal.bundle ./.gem.20250624-28969-pjnaqs
+
+current directory: /Users/yeyusen/GitHub/YeYusen.github.io/vendor/bundle/ruby/3.4.0/gems/bigdecimal-3.2.2/ext/bigdecimal
+make DESTDIR\= sitearchdir\=./.gem.20250624-28969-pjnaqs sitelibdir\=./.gem.20250624-28969-pjnaqs clean

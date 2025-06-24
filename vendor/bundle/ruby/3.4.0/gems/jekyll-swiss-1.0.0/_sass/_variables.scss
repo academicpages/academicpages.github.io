@@ -1,0 +1,35 @@
+
+// Font family
+$body-font-family: "Helvetica Neue", Arial, sans-serif;
+$body-font-size: 16px;
+$prose-font-size: 20px;
+
+
+// Type scale
+$h0-mobile: 64px;
+$h0-desktop: 128px;
+
+$h1-size: 40px !default;
+$h2-size: 32px !default;
+$h3-size: 24px !default;
+$h4-size: 20px !default;
+$h5-size: 16px !default;
+$h6-size: 12px !default;
+
+// Default border color
+$color-border: #ddd !default;
+
+// Container width
+$container-width: 64em;
+
+// Large breakpoint
+$breakpoint-lg: 52em;
+
+// Spacing unit
+$spacer: 8px !default;
+
+// Spacing scale
+$spacer-1: $spacer !default; // 8px
+$spacer-2: ($spacer * 2) !default; // 16px
+$spacer-3: ($spacer * 4) !default; // 32px
+$spacer-4: ($spacer * 8) !default; // 64px

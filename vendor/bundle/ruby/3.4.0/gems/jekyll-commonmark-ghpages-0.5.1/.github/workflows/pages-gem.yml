@@ -1,0 +1,24 @@
+name: Publish Gem
+
+on:
+  release:
+    types: [released]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - name: Build gem
+        run: |
+          gem build jekyll-commonmark-ghpages.gemspec
+      - name: Publish gem
+        env:
+          GEM_HOST_API_KEY: ${{ secrets.PAGES_GEM_PUBLISH }}
+        run: |
+          gem push jekyll-commonmark-ghpages-*.gem

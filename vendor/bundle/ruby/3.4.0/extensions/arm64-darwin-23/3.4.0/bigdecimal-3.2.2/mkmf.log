@@ -1,0 +1,674 @@
+have_builtin_func: checking for __builtin_clz()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int foo;
+4: int main() { __builtin_clz(0); return 0; }
+/* end */
+
+--------------------
+
+have_builtin_func: checking for __builtin_clzl()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int foo;
+4: int main() { __builtin_clzl(0); return 0; }
+/* end */
+
+--------------------
+
+have_builtin_func: checking for __builtin_clzll()... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int foo;
+4: int main() { __builtin_clzll(0); return 0; }
+/* end */
+
+--------------------
+
+have_header: checking for float.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <float.h>
+/* end */
+
+--------------------
+
+have_header: checking for math.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <math.h>
+/* end */
+
+--------------------
+
+have_header: checking for stdbool.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <stdbool.h>
+/* end */
+
+--------------------
+
+have_header: checking for stdlib.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <stdlib.h>
+/* end */
+
+--------------------
+
+have_header: checking for x86intrin.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+In file included from conftest.c:3:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/x86intrin.h:15:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/immintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
+   14 | #error "This header is only meant to be used on x86 and x64 architecture"
+      |  ^
+In file included from conftest.c:3:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/x86intrin.h:15:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/immintrin.h:17:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/x86gprintrin.h:15:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/hresetintrin.h:42:27: error: invalid input constraint 'a' in asm
+   42 |   __asm__ ("hreset $0" :: "a"(__eax));
+      |                           ^
+In file included from conftest.c:3:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/x86intrin.h:15:
+In file included from /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/immintrin.h:21:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:14:2: error: "This header is only meant to be used on x86 and x64 architecture"
+   14 | #error "This header is only meant to be used on x86 and x64 architecture"
+      |  ^
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:54:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+   54 |     return (__m64)__builtin_ia32_vec_init_v2si(__i, 0);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:133:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  133 |     return (__m64)__builtin_ia32_packsswb((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:163:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  163 |     return (__m64)__builtin_ia32_packssdw((__v2si)__m1, (__v2si)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:193:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  193 |     return (__m64)__builtin_ia32_packuswb((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:220:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  220 |     return (__m64)__builtin_ia32_punpckhbw((__v8qi)__m1, (__v8qi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:243:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  243 |     return (__m64)__builtin_ia32_punpckhwd((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:264:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  264 |     return (__m64)__builtin_ia32_punpckhdq((__v2si)__m1, (__v2si)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:291:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  291 |     return (__m64)__builtin_ia32_punpcklbw((__v8qi)__m1, (__v8qi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:314:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  314 |     return (__m64)__builtin_ia32_punpcklwd((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:335:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  335 |     return (__m64)__builtin_ia32_punpckldq((__v2si)__m1, (__v2si)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:356:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  356 |     return (__m64)__builtin_ia32_paddb((__v8qi)__m1, (__v8qi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:377:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  377 |     return (__m64)__builtin_ia32_paddw((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:398:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  398 |     return (__m64)__builtin_ia32_paddd((__v2si)__m1, (__v2si)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:420:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  420 |     return (__m64)__builtin_ia32_paddsb((__v8qi)__m1, (__v8qi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:443:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  443 |     return (__m64)__builtin_ia32_paddsw((__v4hi)__m1, (__v4hi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/mmintrin.h:465:12: error: invalid conversion between vector type '__m64' (vector of 1 'long long' value) and integer type 'int' of different size
+  465 |     return (__m64)__builtin_ia32_paddusb((__v8qi)__m1, (__v8qi)__m2);
+      |            ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+fatal error: too many errors emitted, stopping now [-ferror-limit=]
+20 errors generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <x86intrin.h>
+/* end */
+
+--------------------
+
+have_header: checking for intrin.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+In file included from conftest.c:3:
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include/intrin.h:12:15: fatal error: 'intrin.h' file not found
+   12 | #include_next <intrin.h>
+      |               ^~~~~~~~~~
+1 error generated.
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <intrin.h>
+/* end */
+
+--------------------
+
+have_func: checking for labs() in stdlib.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <stdlib.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))labs; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for llabs() in stdlib.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <stdlib.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))llabs; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for finite() in math.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+conftest.c:16:57: error: call to undeclared library function 'finite' with type 'int (double)'; ISO C99 and later do not support implicit function declarations [-Wimplicit-function-declaration]
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))finite; return !p; }
+      |                                                         ^
+conftest.c:16:57: note: include the header <math.h> or explicitly provide a declaration for 'finite'
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))finite; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+conftest.c:16:13: error: expected identifier or '('
+   16 | extern void finite();
+      |             ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:7: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |       ^
+conftest.c:16:13: error: expected ')'
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:7: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |       ^
+conftest.c:16:13: note: to match this '('
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:5: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |     ^
+conftest.c:17:15: error: expected expression
+   17 | int t(void) { finite(); return 0; }
+      |               ^
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:15: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |               ^
+conftest.c:17:15: error: expected expression
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:65: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |                                                                 ^
+conftest.c:17:15: error: expected expression
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:157:15: note: expanded from macro 'isfinite'
+  157 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+      |               ^
+conftest.c:17:15: error: expected expression
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:157:66: note: expanded from macro 'isfinite'
+  157 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+      |                                                                  ^
+conftest.c:17:15: error: expected expression
+/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/missing.h:165:20: note: expanded from macro 'finite'
+  165 | # define finite(x) isfinite(x)
+      |                    ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:158:71: note: expanded from macro 'isfinite'
+  158 |                                   : __inline_isfinitel((long double)(x)))
+      |                                                                       ^
+7 errors generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void finite();
+17: int t(void) { finite(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for isfinite() in math.h... -------------------- no
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+conftest.c:16:57: error: use of undeclared identifier 'isfinite'
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))isfinite; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))isfinite; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+conftest.c:16:13: error: expected identifier or '('
+   16 | extern void isfinite();
+      |             ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:7: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |       ^
+conftest.c:16:13: error: expected ')'
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:7: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |       ^
+conftest.c:16:13: note: to match this '('
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:5: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |     ^
+conftest.c:17:15: error: expected expression
+   17 | int t(void) { isfinite(); return 0; }
+      |               ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:15: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |               ^
+conftest.c:17:15: error: expected expression
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:156:65: note: expanded from macro 'isfinite'
+  156 |     ( sizeof(x) == sizeof(float)  ? __inline_isfinitef((float)(x))       \
+      |                                                                 ^
+conftest.c:17:15: error: expected expression
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:157:15: note: expanded from macro 'isfinite'
+  157 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+      |               ^
+conftest.c:17:15: error: expected expression
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:157:66: note: expanded from macro 'isfinite'
+  157 |     : sizeof(x) == sizeof(double) ? __inline_isfinited((double)(x))      \
+      |                                                                  ^
+conftest.c:17:15: error: expected expression
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/math.h:158:71: note: expanded from macro 'isfinite'
+  158 |                                   : __inline_isfinitel((long double)(x)))
+      |                                                                       ^
+7 errors generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <math.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void isfinite();
+17: int t(void) { isfinite(); return 0; }
+/* end */
+
+--------------------
+
+have_header: checking for ruby/atomic.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby/atomic.h>
+/* end */
+
+--------------------
+
+have_header: checking for ruby/internal/has/builtin.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby/internal/has/builtin.h>
+/* end */
+
+--------------------
+
+have_header: checking for ruby/internal/static_assert.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby/internal/static_assert.h>
+/* end */
+
+--------------------
+
+have_func: checking for rb_rational_num() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_rational_num; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_rational_den() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_rational_den; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_complex_real() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_complex_real; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_complex_imag() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_complex_imag; return !p; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_opts_exception_p() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+conftest.c:16:57: error: use of undeclared identifier 'rb_opts_exception_p'
+   16 | int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_opts_exception_p; return !p; }
+      |                                                         ^
+1 error generated.
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_opts_exception_p; return !p; }
+/* end */
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: extern void rb_opts_exception_p();
+17: int t(void) { rb_opts_exception_p(); return 0; }
+/* end */
+
+--------------------
+
+have_func: checking for rb_category_warn() in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -o conftest -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe conftest.c -L. -L/opt/homebrew/Cellar/ruby/3.4.4/lib -L/opt/homebrew/opt/libyaml/lib -L/opt/homebrew/opt/openssl@3/lib -L. -fstack-protector-strong -L/opt/homebrew/Cellar/libyaml/0.2.5/lib -L/opt/homebrew/Cellar/openssl@3/3.5.0/lib  -arch arm64   -lruby.3.4  -lpthread  "
+checked program was:
+/* begin */
+ 1: #include "ruby.h"
+ 2: 
+ 3: #include <ruby.h>
+ 4: 
+ 5: /*top*/
+ 6: extern int t(void);
+ 7: int main(int argc, char **argv)
+ 8: {
+ 9:   if (argc > 1000000) {
+10:     int (* volatile tp)(void)=(int (*)(void))&t;
+11:     printf("%d", (*tp)());
+12:   }
+13: 
+14:   return !!argv[argc];
+15: }
+16: int t(void) { void ((*volatile p)()); p = (void ((*)()))rb_category_warn; return !p; }
+/* end */
+
+--------------------
+
+have_const: checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... -------------------- yes
+
+DYLD_LIBRARY_PATH=.:/opt/homebrew/Cellar/ruby/3.4.4/lib ASAN_OPTIONS=detect_leaks=0 "clang -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/arm64-darwin23 -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0/ruby/backward -I/opt/homebrew/Cellar/ruby/3.4.4/include/ruby-3.4.0 -I. -I/opt/homebrew/opt/libyaml/include -I/opt/homebrew/opt/openssl@3/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -fstack-protector-strong -U_FORTIFY_SOURCE -D_FORTIFY_SOURCE=2 -fdeclspec  -O3 -fno-fast-math -ggdb3 -Wall -Wextra -Wextra-tokens -Wdeprecated-declarations -Wdivision-by-zero -Wdiv-by-zero -Wimplicit-function-declaration -Wimplicit-int -Wpointer-arith -Wshorten-64-to-32 -Wwrite-strings -Wold-style-definition -Wmissing-noreturn -Wno-cast-function-type -Wno-constant-logical-operand -Wno-long-long -Wno-missing-field-initializers -Wno-overlength-strings -Wno-parentheses-equality -Wno-self-assign -Wno-tautological-compare -Wno-unused-parameter -Wno-unused-value -Wunused-variable -Wmisleading-indentation -Wundef -fno-common -pipe -arch arm64  -c conftest.c"
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: #include <ruby.h>
+4: 
+5: /*top*/
+6: typedef int conftest_type;
+7: conftest_type conftestval = (int)RB_WARN_CATEGORY_DEPRECATED;
+/* end */
+
+--------------------
+
