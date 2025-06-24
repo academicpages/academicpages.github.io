@@ -13,15 +13,6 @@ Each project used real-world Kaggle datasets, focusing on applying models to con
 The projects involved both **model development** and **interpretation** for marketing decision support.
 
 ## 🔬 Project Highlights
-
-### 1. Diabetes Classification (코딩과제1)
-- **Goal**: Predict whether a patient has diabetes based on medical data.
-- **Model**: Logistic Regression, Random Forest, XGBoost, SVM etc.
-- **Tools**: Scikit-learn, Pandas, Seaborn
-- **Findings**: Support vector classifier showed the highest ACC/Recall.
-
-📄 [Download: Diabetes Prediction Report (Korean)](/files/코딩과제1_김지수.pdf)
-
 ### 1. Diabetes Classification using SMOTE + Ensemble Models (코딩과제1)
 
 - **Goal**: Predict whether a patient has diabetes using clinical data from the Pima Indian dataset.
@@ -57,7 +48,6 @@ The projects involved both **model development** and **interpretation** for mark
   - Applied **data augmentation** (rotation, zoom, shift) to increase training robustness.  
   - Used **softmax probability averaging** (soft voting) to ensemble the predictions.  
   - Each CNN consisted of convolutional layers, batch normalization, dropout regularization, and dense output layers.  
-  - Monitored model training using `EarlyStopping` and `ReduceLROnPlateau`.
 
 - **Insights**:  
   - Individual CNNs achieved ~99.6% accuracy; the final **ensemble model reached 99.72% accuracy**.  
@@ -91,10 +81,10 @@ The projects involved both **model development** and **interpretation** for mark
   - **The model was also tested on cartoon characters (e.g., Luffy) to explore whether it could be generalized to entirely different facial domains—reflecting the growing need for emotion recognition models to perform robustly across diverse visual contexts.**
 
 - **Insights**:  
-  Performance was limited by the quality and quantity of the dataset. <br/>
-  Pretrained models (e.g., ResNet50/101) showed comparable accuracy but required significantly longer training time (~4–5 hours).   <br/>
-  Highlighted the importance of data diversity in facial expression recognition tasks.  <br/>
-  I referenced the code of a Kaggle Grandmaster, and found it unusual that they did not use a separate test set—only the training and validation sets were utilized. <br/>Later, I asked a professor of machine learning about this, and learned that in some cases—such as when writing a paper or when the dataset is sufficiently large—this approach can be acceptable. Although not theoretically proven, the professor mentioned that some papers have addressed this practice based on empirical grounds.
+  - Performance was limited by the quality and quantity of the dataset.
+  - Pretrained models (e.g., ResNet50/101) showed comparable accuracy but required significantly longer training time (~4–5 hours).
+  - Highlighted the importance of data diversity in facial expression recognition tasks.
+  - I referenced the code of a Kaggle Grandmaster, and found it unusual that they did not use a separate test set—only the training and validation sets were utilized. Later, I asked a professor of machine learning about this, and learned that in some cases—such as when writing a paper or when the dataset is sufficiently large—this approach can be acceptable. Although not theoretically proven, the professor mentioned that some papers have addressed this practice based on empirical grounds.
   
 📄 [Download: Emotion CNN Report (Korean)](/files/코딩과제3_김지수.pdf)
 
