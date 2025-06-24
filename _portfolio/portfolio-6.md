@@ -1,0 +1,115 @@
+---
+title: "[MGT4516] AI Marketing Individual Presentations"
+excerpt: "A series of Data Science analytics projects using Kaggle datasets<br/>: From Diabetes Classification to Recommendation Systems."
+semester: "Fall-2024"
+semester_sort: 202402
+collection: portfolio
+---
+
+## 📝 Project Overview
+
+This portfolio includes a series of **classic** data science projects developed as part of [**MKT4516 (AI Marketing)**] course.  
+Each project used real-world Kaggle datasets, focusing on applying models to consumer data, classification, clustering, and recommender systems.  
+The projects involved both **model development** and **interpretation** for marketing decision support.
+
+## 🔬 Project Highlights
+
+### 1. Diabetes Classification (코딩과제1)
+- **Goal**: Predict whether a patient has diabetes based on medical data.
+- **Model**: Logistic Regression, Random Forest, XGBoost, SVM etc.
+- **Tools**: Scikit-learn, Pandas, Seaborn
+- **Findings**: Support vector classifier showed the highest ACC/Recall.
+
+📄 [Download: Diabetes Prediction Report (Korean)](/files/코딩과제1_김지수.pdf)
+
+### 1. Diabetes Classification using SMOTE + Ensemble Models (코딩과제1)
+
+- **Goal**: Predict whether a patient has diabetes using clinical data from the Pima Indian dataset.
+- **Dataset**: `data-Lab-2-5-diabet.csv` — 800 samples with 9 clinical features.
+- **Preprocessing**:
+  - **SMOTE** (Synthetic Minority Over-sampling Technique) to address class imbalance (422 positives vs. 223 negatives).
+  - **Train-Test Split**: 85% training / 15% test set with `random_state=42`.
+  - **Feature Scaling**: `MinMaxScaler` for normalization.
+
+- **Models Used**:
+  - `Logistic Regression`
+  - `SVM (Support Vector Machine)`
+  - `Random Forest`
+  - `XGBoost Classifier`
+
+- **Evaluation Metrics**:
+  - Accuracy, Recall, Confusion Matrix (focus on medical diagnostics: recall is prioritized).
+  - Visualization with `Seaborn` heatmaps.
+
+- **Insights**:
+  - SVM showed the best performance at both recall and accuracy, particularly important in medical scenarios.
+  - For relatively simple classification which has structural format, classic **support vector machine** and **Logistic Regression** are still good. <br/> Using these models, there is a huge advantage that we could interpret the results. 
+  - SMOTE helped significantly reduce underfitting on minority class.
+
+📄 [Download: Diabetes Classification Report (Korean)](/files/코딩과제1_김지수.pdf)
+
+---
+
+### 2. CNN Ensemble Model using MNIST Dataset (코딩과제2)
+- **Goal**: Build a high-accuracy classification model using ensemble learning on the MNIST handwritten digits dataset.
+- **Method**:  
+  - Implemented 7 distinct CNN models using TensorFlow and Keras.  
+  - Applied **data augmentation** (rotation, zoom, shift) to increase training robustness.  
+  - Used **softmax probability averaging** (soft voting) to ensemble the predictions.  
+  - Each CNN consisted of convolutional layers, batch normalization, dropout regularization, and dense output layers.  
+  - Monitored model training using `EarlyStopping` and `ReduceLROnPlateau`.
+
+- **Insights**:  
+  - Individual CNNs achieved ~99.6% accuracy; the final **ensemble model reached 99.72% accuracy**.  
+  - Ensemble reduced overfitting and improved generalization.  
+  - Demonstrated the trade-off between model complexity and performance gain. We should choose the model considering the trade-off. 
+  - Emphasized importance of batch normalization and dropout for stabilizing training.
+
+📄 [Download: CNN Ensemble Report (Korean)](/files/코딩과제2_김지수.pdf)
+
+---
+
+### 3. Emotion Recognition via CNN (코딩과제3)
+
+- **Dataset**: [FER2013 - Facial Expression Recognition](https://www.kaggle.com/datasets/msambare/fer2013)  
+  48×48 grayscale facial images labeled across 7 emotion categories (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral)  
+  ~28,000 training images / ~3,500 testing images
+
+- **Model**: Custom CNN  
+  Composed of 4 convolutional blocks with batch normalization and dropout layers, followed by fully connected layers.  
+  Trained using **Adam optimizer (lr = 0.0001)** and categorical cross-entropy loss.
+
+- **Preprocessing & Augmentation**:  
+  - Image rescaling (`rescale=1./255`)  
+  - Data augmentation with **horizontal flip**, **10% width/height shifts**
+  - Train/Test Dataset split
+  - 20% of training data used as validation set
+
+- **Results**:  
+  - **Training Accuracy**: ~72.08%  
+  - **Validation Accuracy**: ~64.98%  
+  - **The model was also tested on cartoon characters (e.g., Luffy) to explore whether it could be generalized to entirely different facial domains—reflecting the growing need for emotion recognition models to perform robustly across diverse visual contexts.**
+
+- **Insights**:  
+  Performance was limited by the quality and quantity of the dataset. <br/>
+  Pretrained models (e.g., ResNet50/101) showed comparable accuracy but required significantly longer training time (~4–5 hours).   <br/>
+  Highlighted the importance of data diversity in facial expression recognition tasks.  <br/>
+  I referenced the code of a Kaggle Grandmaster, and found it unusual that they did not use a separate test set—only the training and validation sets were utilized. <br/>Later, I asked a professor of machine learning about this, and learned that in some cases—such as when writing a paper or when the dataset is sufficiently large—this approach can be acceptable. Although not theoretically proven, the professor mentioned that some papers have addressed this practice based on empirical grounds.
+  
+📄 [Download: Emotion CNN Report (Korean)](/files/코딩과제3_김지수.pdf)
+
+---
+
+### 4. Movie Recommendation System (코딩과제4)
+- **Data**: MovieLens (User ratings)
+- **Model**: Collaborative Filtering (Matrix Factorization)
+- **Outcome**: Personalized movie suggestions with RMSE evaluation.
+
+📄 [Download: Recommender System Report (Korean)](/files/코딩과제7_김지수.pdf)
+
+---
+
+## 🎓 Learning Outcome
+
+Through these projects, I gained practical experience in applying AI models to real consumer datasets, and enhanced my ability to deliver insights for marketing strategy and personalization.  
+I also deepened my understanding of model evaluation metrics like AUC, F1-score, and RMSE in the context of marketing AI systems.
