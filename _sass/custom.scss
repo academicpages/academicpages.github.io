@@ -97,6 +97,14 @@
   flex-direction: column;
 }
 
+.inner {
+  max-width: 1400px;  // ← 원하는 폭으로 조정 (기본은 1000px)
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
 .project-meta {
   font-size: 1.05rem !important;
   font-weight: 600 !important;
