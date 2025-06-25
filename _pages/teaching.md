@@ -8,6 +8,7 @@ author_profile: true
 # Instructor
 
 ### Fall 2023
+
 - **Fourier Analysis**  
   [Lecture Notes](http://lwmath.github.io/Teaching/23Fall/fourier.pdf) | 
   [Lecture 1](http://lwmath.github.io/Teaching/23Fall/Fourier0905.pdf) | 
@@ -35,7 +36,6 @@ author_profile: true
   [Lecture 7](http://lwmath.github.io/Teaching/23Spring/geometry0308.pdf) | 
   [Lecture 8](http://lwmath.github.io/Teaching/23Spring/geometry0315.pdf) | 
   [Homework](http://lwmath.github.io/Teaching/23Spring/Homework.pdf)
-
 - **Groups and Symmetries**  
   [Lecture Notes](http://lwmath.github.io/Teaching/23Spring/Groups_and_Symmetries.pdf) | 
   [Lecture 1](http://lwmath.github.io/Teaching/23Spring/groups0310.pdf) | 
@@ -82,7 +82,6 @@ author_profile: true
   [Lecture 7](http://lwmath.github.io/Teaching/23Fall/MA1228.pdf) | 
   [Midterms](http://lwmath.github.io/Teaching/23Fall/MA_Midterm_III.pdf) | 
   [Final](http://lwmath.github.io/Teaching/23Fall/MA_Final_III.pdf)
-
 - **Advanced Math B**  
   [Lecture 1](http://lwmath.github.io/Teaching/23Fall/B_1028.pdf) | 
   [Lecture 2](http://lwmath.github.io/Teaching/23Fall/B_1104.pdf) | 
@@ -117,7 +116,6 @@ author_profile: true
   [WAT](http://lwmath.github.io/files/WAT.pdf) | 
   [Fourier Series](http://lwmath.github.io/Teaching/23Spring/Fourier_series_integrals.pdf) | 
   [Final24](http://lwmath.github.io//Teaching/24Spring/MA-Final.pdf)
-
 - **Advanced Math B**  
   [Lecture 1](http://lwmath.github.io/Teaching/23Spring/B_0326.pdf) | 
   [Lecture 2](http://lwmath.github.io/Teaching/23Spring/B_0409.pdf) | 
@@ -148,7 +146,6 @@ author_profile: true
 ### Spring 2022
 - **Arithmetic of Elliptic Curves**  
   [Files](https://www.alipan.com/s/mvNExZUBrWV)
-  
 - **Diophantine Approximation**  
   [Files](https://www.alipan.com/s/x1piR7BLPrX)
 
