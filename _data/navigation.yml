@@ -7,26 +7,18 @@
 main:
   - title: "Home"
     url:   /
-
   - title: "Blog"
     url:   /year-archive/
-
   - title: "Publications"
     url: /publications/
-
   # - title: "Talks"
   #   url: /talks/    
-
   # - title: "Teaching"
   #   url: /teaching/    
-    
   # - title: "Portfolio"
   #   url: /portfolio/
-        
-    
   # - title: "CV"
-  #   url: /cv/
-    
+  #   url: /cv/ 
   # - title: "Guide"
   #   url: /markdown/
 
