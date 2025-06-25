@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+ 
+
 PORT=4000
 LRPORT=35729
 
@@ -9,6 +12,7 @@ if lsof -i tcp:"$LRPORT" >/dev/null 2>&1; then
 fi
 
 # --- launch Jekyll (foreground) ---
+bundle exec jekyll clean 
 bundle exec jekyll serve \
   --port "$PORT" \
   --livereload --livereload-port "$LRPORT" \
