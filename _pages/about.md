@@ -4,11 +4,6 @@ title: "小叶的个人网站"
 permalink: /               # keeps it on the homepage
 author_profile: true       # pulls your avatar & details from _config.yml
 classes: wide              # full-width; drops sidebar
----
-我是叶宇森，一个来自上海，现居西雅图的PhD学生。。
-<br>重度柴犬爱好者，梦想是将来可以住在一个大房子里养一只（贪心点的话，两只）柴犬。黑色柴犬>柴色柴犬。
-<br>以后可能po一些乱七八糟的物理或者数学相关的东西，也可能po一些沙雕图。
-<br>最近决定在这个个人网站上po一些自己的想法。
 
 ------
 我是叶宇森，一个来自上海，现居西雅图的PhD学生。
