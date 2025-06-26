@@ -67,10 +67,10 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 Academic Pages includes support for [Mermaid diagrams](https://mermaid.js.org/) and in addition to their [tutorials](https://mermaid.js.org/ecosystem/tutorials.html) and [GitHub documentation](https://github.com/mermaid-js/mermaid) the basic syntax is as follows:
 
 ```markdown
-  ```mermaid
-  graph LR
-  A-->B
-  ```
+    ```mermaid
+    graph LR
+    A-->B
+    ```
 ```
 
 Which produces the following plot:
