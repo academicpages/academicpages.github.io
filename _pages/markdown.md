@@ -63,6 +63,23 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 
 **Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772). In some cases, such as when you are including MathJax in a `citation` field for publications, it may be necessary to use `\(...\)` for inline delineation.
 
+## Mermaid diagrams
+Academic Pages includes support for [Mermaid diagrams](https://mermaid.js.org/) and in addition to their [tutorials](https://mermaid.js.org/ecosystem/tutorials.html) and [GitHub documentation](https://github.com/mermaid-js/mermaid) the basic syntax is as follows:
+
+```markdown
+  ```mermaid
+  graph LR
+  A-->B
+  ```
+```
+
+Which produces the following plot:
+
+```mermaid
+graph LR
+A-->B
+```
+
 ## Markdown guide
 
 Academic Pages uses [kramdown](https://kramdown.gettalong.org/index.html) for Markdown rendering, which has some differences from other Markdown implementations such as GitHub's. In addition to this guide, please see the [kramdown Syntax page](https://kramdown.gettalong.org/syntax.html) for full documentation.  
