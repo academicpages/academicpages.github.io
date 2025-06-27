@@ -5,6 +5,7 @@ permalink: /publication/Facebook-as-a-media-digest-user-engagement-and-party-ref
 date: 2022-01-01
 venue: 'Journal of Information Technology and Politics'
 citation: 'Ceron, A. and Pagano, G. and Bordignon, M., &quot;Facebook as a media digest: user engagement and party references to hostile and friendly media during an election campaign&quot;, Journal of Information Technology and Politics, 2022.'
+category: journal
 ---
 
 Ceron, A. and Pagano, G. and Bordignon, M., &quot;Facebook as a media digest: user engagement and party references to hostile and friendly media during an election campaign&quot;, Journal of Information Technology and Politics, 2022.
