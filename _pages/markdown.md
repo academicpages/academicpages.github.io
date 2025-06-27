@@ -93,7 +93,33 @@ graph TD;
 ```
 
 ## Plotly
+Academic Pages includes support for Plotly diagrams via a hook in the Markdown code elements, although those that are comfortable with HTML and JavaScript can also access it [via those routes](https://plotly.com/javascript/getting-started/).
 
+In order to render a Plotly plot via Markdown the relevant plot data need to be added as follows:
+
+```markdown
+    ```plotly
+    {
+      "data": [
+        {
+          "x": [1, 2, 3, 4],
+          "y": [10, 15, 13, 17],
+          "type": "scatter"
+        },
+        {
+          "x": [1, 2, 3, 4],
+          "y": [16, 5, 11, 9],
+          "type": "scatter"
+        }
+      ]
+    }
+    ```
+```
+
+**Important!** Since the data is parsed as JSON *all* of the keys will need to be quoted for the plot to render. The use of a tool like [JSONLint](https://jsonlint.com/) to check syntax is highly recommended.
+{: .notice}
+
+Which produces the following:
 ```plotly
 {
   "data": [
@@ -108,6 +134,87 @@ graph TD;
       "type": "scatter"
     }
   ]
+}
+```
+
+Essentially what is taking place is that the [Plotly attributes](https://plotly.com/javascript/reference/index/) are being taken from the code block as JSON data, parsed, and passed to Plotly along with a theme that matches the current site theme (i.e., a light theme, or a dark theme). This allows all plots that can be described via the `data` attribute to rendered with some limitations for the theme of the plot.
+
+```plotly
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5],
+      "y": [1, 6, 3, 6, 1],
+      "mode": "markers",
+      "type": "scatter",
+      "name": "Team A",
+      "text": ["A-1", "A-2", "A-3", "A-4", "A-5"],
+      "marker": { "size": 12 }
+    },
+    {
+      "x": [1.5, 2.5, 3.5, 4.5, 5.5],
+      "y": [4, 1, 7, 1, 4],
+      "mode": "markers",
+      "type": "scatter",
+      "name": "Team B",
+      "text": ["B-a", "B-b", "B-c", "B-d", "B-e"],
+      "marker": { "size": 12 }
+    }    
+  ],
+  "layout": {
+    "xaxis": {
+      "range": [ 0.75, 5.25 ]
+    },
+    "yaxis": {
+      "range": [0, 8]
+    },
+    "title": {"text": "Data Labels Hover"}
+  }
+}
+```
+
+```plotly
+{
+  "data": [{
+      "x": [1, 2, 3],
+      "y": [4, 5, 6],
+      "type": "scatter"
+    },
+    {
+      "x": [20, 30, 40],
+      "y": [50, 60, 70],
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "type": "scatter"
+  }],
+  "layout": {
+    "grid": {
+      "rows": 1,
+      "columns": 2,
+      "pattern": "independent"
+    },
+    "title": {
+      "text": "Simple Subplot"
+    }    
+  }
+}
+```
+
+```plotly
+{
+  "data": [{
+		"z": [[10, 10.625, 12.5, 15.625, 20],
+          [5.625, 6.25, 8.125, 11.25, 15.625],
+          [2.5, 3.125, 5.0, 8.125, 12.5],
+          [0.625, 1.25, 3.125, 6.25, 10.625],
+          [0, 0.625, 2.5, 5.625, 10]],
+		"type": "contour"
+	}],
+  "layout": {
+    "title": {
+      "text": "Basic Contour Plot"
+    }
+  }
 }
 ```
 
