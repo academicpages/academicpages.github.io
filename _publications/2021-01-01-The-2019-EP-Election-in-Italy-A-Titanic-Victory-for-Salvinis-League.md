@@ -8,7 +8,7 @@ citation: "Ceron, A. and Bordignon, M. and Pagano, G., \"The 2019 EP Election in
 category: bookchapter
 ---
 
+Ceron, A. and Bordignon, M. and Pagano, G., "The 2019 EP Election in Italy: A 'Titanic' Victory for Salvini's League", *Political Campaigning and Communication*, 2021.
 
-"Ceron, A. and Bordignon, M. and Pagano, G., &quot; The 2019 EP Election in Italy: A Titanic Victory for Salvini's League&quot;", Political Campaigning and Communication, 2021."
+Use [Google Scholar](https://scholar.google.com/scholar?q=The+2019+EP+Election+in+Italy:+A+%27Titanic%27+Victory+for+Salvini%27s+League){:target="_blank"}
 
-Use [Google Scholar](https://scholar.google.com/scholar?q=The+2019+EP+Election+in+Italy:+A+?Titanic?+Victory+for+Salvini?s+League){:target="_blank"}
