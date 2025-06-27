@@ -48,7 +48,7 @@ redirect_from:
 
 ## MathJax 
 
-Support for MathJax Version 3.0 is included in the template:
+Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/)) is included in the template:
 
 $$
 \displaylines{
@@ -64,7 +64,7 @@ The default delimiters of `$$...$$` and `\\[...\\]` are supported for displayed 
 **Note** that since Academic Pages uses Markdown which cases some interference with MathJax and LaTeX for escaping characters and new lines, although [some workarounds exist](https://math.codidact.com/posts/278763/278772#answer-278772). In some cases, such as when you are including MathJax in a `citation` field for publications, it may be necessary to use `\(...\)` for inline delineation.
 
 ## Mermaid diagrams
-Academic Pages includes support for [Mermaid diagrams](https://mermaid.js.org/) and in addition to their [tutorials](https://mermaid.js.org/ecosystem/tutorials.html) and [GitHub documentation](https://github.com/mermaid-js/mermaid) the basic syntax is as follows:
+Academic Pages includes support for [Mermaid diagrams](https://mermaid.js.org/) (version 11.* via [jsDelivr](https://www.jsdelivr.com/)) and in addition to their [tutorials](https://mermaid.js.org/ecosystem/tutorials.html) and [GitHub documentation](https://github.com/mermaid-js/mermaid) the basic syntax is as follows:
 
 ```markdown
     ```mermaid
@@ -73,11 +73,25 @@ Academic Pages includes support for [Mermaid diagrams](https://mermaid.js.org/) 
     ```
 ```
 
-Which produces the following plot:
+Which produces the following plot with the [default theme](https://mermaid.js.org/config/theming.html) applied:
 
 ```mermaid
 graph LR
 A-->B
+```
+
+While a more advanced plot with the `forest` theme applied looks like the following:
+
+```mermaid
+---
+config:
+  theme: 'forest'
+---
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
 ```
 
 ## Markdown guide
