@@ -5,6 +5,7 @@ permalink: /publication/Generational-gap-and-post-ideological-politics-in-Italy-
 date: 2023-01-01
 venue: 'ITALIAN POLITICAL SCIENCE'
 citation: 'De Sio, L. and Legnante, G. and Tuorto, D. and Vezzoni, C. and Angelucci, D. and Boldrini, M. and Bordignon, M. and Curini, L. and De Angelis, A. and Di Cocco, J. and Leofreddi, A. and Maggini, N. and Mannoni, E. and Marolla, F. and Pagano, G. and Pennucci, N. and Piacentini, A. and Piacentini, F., &quot;Generational gap and post-ideological politics in Italy (POSTGEN): A generation-aware analysis of ideological destructuring and political change in the Italian case&quot;, ITALIAN POLITICAL SCIENCE, 2023.'
+category: journal
 ---
 
 De Sio, L. and Legnante, G. and Tuorto, D. and Vezzoni, C. and Angelucci, D. and Boldrini, M. and Bordignon, M. and Curini, L. and De Angelis, A. and Di Cocco, J. and Leofreddi, A. and Maggini, N. and Mannoni, E. and Marolla, F. and Pagano, G. and Pennucci, N. and Piacentini, A. and Piacentini, F., &quot;Generational gap and post-ideological politics in Italy (POSTGEN): A generation-aware analysis of ideological destructuring and political change in the Italian case&quot;, ITALIAN POLITICAL SCIENCE, 2023.
