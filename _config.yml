@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.png"
   name             : "Giovanni Pagano"
   pronouns         : # example: "she/her"  
   bio              : "Post-Doctoral Research Fellow"
