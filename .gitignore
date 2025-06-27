@@ -15,3 +15,6 @@ package-lock.json
 # Ignore the vendor file and bundle for alternative installation
 vendor/
 .bundle/
+
+# Ignore folders related to IDEs
+.vscode/
