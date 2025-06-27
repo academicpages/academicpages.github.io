@@ -3,7 +3,7 @@ title: "Concepts and measures of bureaucratic constraints in European Union laws
 collection: publications
 permalink: /publication/Concepts-and-measures-of-bureaucratic-constraints-in-European-Union-laws-from-handcoding-to-machinelearning
 date: 2024-01-01
-venue: 'REGULATION &amp; GOVERNANCE'
+venue: 'Regulation &amp; Governance'
 citation: 'Franchino, F. and Migliorati, M. and Pagano, G. and Vignoli, V., &quot;Concepts and measures of bureaucratic constraints in European Union laws from hand‐coding to machine‐learning&quot;, Regulation &amp; Governance, 2024.'
 category: journal
 ---
