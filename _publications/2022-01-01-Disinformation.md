@@ -5,6 +5,7 @@ permalink: /publication/Disinformation
 date: 2022-01-01
 venue: 'Elgar Encyclopedia of Technology and Politics'
 citation: 'Bordignon, M. and Pagano, G., &quot;Disinformation&quot;, Elgar Encyclopedia of Technology and Politics, 2022.'
+category: bookchapter
 ---
 
 Bordignon, M. and Pagano, G., &quot;Disinformation&quot;, Elgar Encyclopedia of Technology and Politics, 2022.
