@@ -19,6 +19,9 @@ let determineComputedTheme = () => {
   return (userPref && userPref("(prefers-color-scheme: dark)").matches) ? "dark" : "light";
 };
 
+// detect OS/browser preference
+const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+
 // Set the theme on page load or when explicitly called
 let setTheme = (theme) => {
   const use_theme =
@@ -50,7 +53,7 @@ var toggleTheme = () => {
 
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
 // JSON data to be retrieve when the theme is switched.
-import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';       
+import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
 document.addEventListener("readystatechange", () => {
   if (document.readyState === "complete") {
     document.querySelectorAll("pre>code.language-plotly").forEach((elem) => {
@@ -60,7 +63,7 @@ document.addEventListener("readystatechange", () => {
 
       // Add the Plotly node
       let chartElement = document.createElement("div");
-      elem.parentElement.after(chartElement);      
+      elem.parentElement.after(chartElement);
 
       // Set the theme for the plot and render it
       const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
@@ -79,11 +82,6 @@ document.addEventListener("readystatechange", () => {
    ========================================================================== */
 
 $(document).ready(function () {
-  // detect OS/browser preference
-  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
-    ? 'dark'
-    : 'light';
-
   setTheme();
 
   // if user hasn't chosen a theme, follow OS changes
@@ -135,10 +133,10 @@ $(document).ready(function () {
   });
 
   // init smooth scroll, this needs to be slightly more than then fixed masthead height
-  $("a").smoothScroll({ 
+  $("a").smoothScroll({
     offset: -75, // needs to match $masthead-height
     preventDefault: false,
-  }); 
+  });
 
   // add lightbox class to all image links
   // Add "image-popup" to links ending in image extensions,
@@ -149,14 +147,14 @@ $(document).ready(function () {
   a[href$='.png'],\
   a[href$='.gif'],\
   a[href$='.webp']")
-      .not(':has(img)')
-      .addClass("image-popup");
+    .not(':has(img)')
+    .addClass("image-popup");
 
   // 1) Wrap every <p><img> (except emoji images) in an <a> pointing at the image, and give it the lightbox class
-  $('p > img').not('.emoji').each(function() {
+  $('p > img').not('.emoji').each(function () {
     var $img = $(this);
     // skip if it’s already wrapped in an <a.image-popup>
-    if ( ! $img.parent().is('a.image-popup') ) {
+    if (!$img.parent().is('a.image-popup')) {
       $('<a>')
         .addClass('image-popup')
         .attr('href', $img.attr('src'))
