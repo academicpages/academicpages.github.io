@@ -42,13 +42,11 @@ redirect_from:
 
 * Your CV can be written using either Markdown ([preview](https://academicpages.github.io/cv/)) or generated via JSON ([preview](https://academicpages.github.io/cv-json/)) and the layouts are slightly different. You can update the path to the one being used in `_data/navigation.yml` with the JSON formatted CV being hidden by default.
 
-## Resources
- * [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/)
- * [MathJax Documentation](https://docs.mathjax.org/en/latest/)
+ * The [Liquid syntax guide](https://shopify.github.io/liquid/tags/control-flow/) is a useful guide for those that want to add functionality to the template or to become contributors to the [template on GitHub](https://github.com/academicpages/academicpages.github.io).
 
 ## MathJax 
 
-Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/)) is included in the template:
+Support for MathJax (version 3.* via [jsDelivr](https://www.jsdelivr.com/), [documentation](https://docs.mathjax.org/en/latest/)) is included in the template:
 
 $$
 \displaylines{
