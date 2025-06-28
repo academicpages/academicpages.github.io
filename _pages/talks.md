@@ -7,7 +7,7 @@ author_profile: true
 
 # Conference Talks
 * ***Monge-Ampère type equations in two dimensions***    
-     📅 June 29-July 5, 2025 |📍Workshop on Geometric Analysis 2025 (30 minutes)   
+     📅 <span style="color: blue;">June 29-July 5, 2025</span> |📍Workshop on Geometric Analysis 2025 (30 minutes)   
      🏛️ Research Center for Mathematics and Interdisciplinary Sciences of Shandong University, Qingdao, China   
  * ***Flat level sets of Allen-Cahn equation in half-space***  
      📅 March 15, 2025 |📍Workshop on Geometric Analysis and Ricci Flow 2025  
