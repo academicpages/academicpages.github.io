@@ -9,8 +9,8 @@ main:
   - title: "Guide"
     url: /guide/  
 
-  - title: ""
-    url: /gmyh/    
+  - title: "代码生成"
+    url: /代码生成/    
     
-  - title: "GMYH_NOTE"
-    url: /gmyh_note/
+  - title: "J6推理"
+    url: /J6推理/
