@@ -6,11 +6,14 @@ main:
   # - title: "Resume"
   #   url: /resume/
    
-  - title: "Guide"
-    url: /guide/  
+  - title: "智能驾驶"
+    url: /智能驾驶/  
 
   - title: "代码生成"
     url: /代码生成/    
     
   - title: "J6推理"
     url: /J6推理/
+
+  - title: "Orin-X推理"
+    url: /Orin-X推理/  
