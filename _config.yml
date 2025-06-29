@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "neon" # # Or choose: air, contrast, dark, neon, default.
+site_theme               : "dafault" # # Or choose: air, contrast, dark, neon, default.
 title                    : "Giovanni Pagano"
 title_separator          : "-"
 name                     : &name "Giovanni"
@@ -16,6 +16,7 @@ description              : &description "personal description"
 url                      : https://giovapagano.github.io # the base hostname & protocol for the site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
+minimal_mistakes_skin    : neon
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
