@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my [CV (PDF)](/files/Giovanni_Pagano_CV.pdf).
+
 Current Appointments
 ======
 * March 2023 – Present  
