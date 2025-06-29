@@ -7,42 +7,47 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign journals = site.publications | where: "category", "journal" %}
+{% assign bookchapters = site.publications | where: "category", "bookchapter" %}
+{% assign books = site.publications | where: "category", "book" %}
+{% assign others = site.publications | reject: "category", "journal" | reject: "category", "bookchapter" | reject: "category", "book" %}
+
+{% if journals.size > 0 %}
 <h2>Journal Articles</h2>
 <hr />
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.category == "journal" %}
+  {% for post in journals reversed %}
     {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
+{% endif %}
 
+{% if bookchapters.size > 0 %}
 <h2>Book Chapters</h2>
 <hr />
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.category == "bookchapter" %}
+  {% for post in bookchapters reversed %}
     {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
+{% endif %}
 
+{% if books.size > 0 %}
 <h2>Books</h2>
 <hr />
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.category == "book" %}
+  {% for post in books reversed %}
     {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
+{% endif %}
 
+{% if others.size > 0 %}
 <h2>Other</h2>
 <hr />
 <ul>
-{% for post in site.publications reversed %}
-  {% if post.category == "other" or post.category == nil %}
+  {% for post in others reversed %}
     {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 </ul>
+{% endif %}
