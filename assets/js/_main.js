@@ -82,30 +82,26 @@ document.addEventListener("readystatechange", () => {
    ========================================================================== */
 
 $(document).ready(function () {
+  // SCSS SETTINGS - These should be the same as the settings in the relevant files 
+  const scssLarge = 925;          // pixels, from /_sass/_themes.scss
+  const scssMastheadHeight = 70;  // pixels, from the current theme (e.g., /_sass/theme/_default.scss)
+
+  // If the user hasn't chosen a theme, follow the OS preference
   setTheme();
+  window.matchMedia('(prefers-color-scheme: dark)')
+        .addEventListener("change", (e) => {
+          if (!localStorage.getItem("theme")) {
+            setTheme(e.matches ? "dark" : "light");
+          }
+        });
 
-  // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
-
+  // Enable the theme toggle
   $('#theme-toggle').on('click', toggleTheme);
 
-  // These should be the same as the settings in _variables.scss
-  const scssLarge = 925; // pixels
-
-  // Sticky footer
+  // Enable the sticky footer
   var bumpIt = function () {
     $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
-  },
-    didResize = false;
-
-  bumpIt();
-
+  }
   $(window).resize(function () {
     didResize = true;
   });
@@ -113,8 +109,9 @@ $(document).ready(function () {
     if (didResize) {
       didResize = false;
       bumpIt();
-    }
-  }, 250);
+    }}, 250);
+  var didResize = false;
+  bumpIt();
 
   // FitVids init
   fitvids();
@@ -132,9 +129,9 @@ $(document).ready(function () {
     }
   });
 
-  // init smooth scroll, this needs to be slightly more than then fixed masthead height
+  // Init smooth scroll, this needs to be slightly more than then fixed masthead height
   $("a").smoothScroll({
-    offset: -75, // needs to match $masthead-height
+    offset: -scssMastheadHeight,
     preventDefault: false,
   });
 
