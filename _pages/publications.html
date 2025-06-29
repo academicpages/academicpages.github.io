@@ -10,6 +10,8 @@ author_profile: true
 {% assign journals = site.publications | where: "category", "journal" %}
 {% assign bookchapters = site.publications | where: "category", "bookchapter" %}
 {% assign books = site.publications | where: "category", "book" %}
+{% assign workingpapers = site.publications | where: "category", "workingpaper" %}
+{% assign workinprogress = site.publications | where: "category", "workinprogress" %}
 {% assign others = site.publications | where: "category", "other" %}
 {% assign uncategorized = site.publications | where_exp: "post", "post.category == nil" %}
 
@@ -38,6 +40,26 @@ author_profile: true
 <hr />
 <ul>
   {% for post in books reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if workingpapers.size > 0 %}
+<h2>Working Papers</h2>
+<hr />
+<ul>
+  {% for post in workingpapers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
+{% endif %}
+
+{% if workinprogress.size > 0 %}
+<h2>Work in Progress</h2>
+<hr />
+<ul>
+  {% for post in workinprogress reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
