@@ -10,7 +10,8 @@ author_profile: true
 {% assign journals = site.publications | where: "category", "journal" %}
 {% assign bookchapters = site.publications | where: "category", "bookchapter" %}
 {% assign books = site.publications | where: "category", "book" %}
-{% assign others = site.publications | reject: "category", "journal" | reject: "category", "bookchapter" | reject: "category", "book" %}
+{% assign others = site.publications | where: "category", "other" %}
+{% assign uncategorized = site.publications | where_exp: "post", "post.category == nil" %}
 
 {% if journals.size > 0 %}
 <h2>Journal Articles</h2>
@@ -42,11 +43,12 @@ author_profile: true
 </ul>
 {% endif %}
 
-{% if others.size > 0 %}
+{% assign combined_other = others | concat: uncategorized %}
+{% if combined_other.size > 0 %}
 <h2>Other</h2>
 <hr />
 <ul>
-  {% for post in others reversed %}
+  {% for post in combined_other reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
