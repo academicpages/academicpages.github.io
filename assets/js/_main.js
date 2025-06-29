@@ -52,30 +52,34 @@ var toggleTheme = () => {
    ========================================================================== */
 
 // Read the Plotly data from the code block, hide it, and render the chart as new node. This allows for the 
-// JSON data to be retrieve when the theme is switched.
+// JSON data to be retrieve when the theme is switched. The listener should only be added if the data is 
+// actually present on the page.
 import { plotlyDarkLayout, plotlyLightLayout } from './theme.js';
-document.addEventListener("readystatechange", () => {
-  if (document.readyState === "complete") {
-    document.querySelectorAll("pre>code.language-plotly").forEach((elem) => {
-      // Parse the Plotly JSON data and hide it
-      var jsonData = JSON.parse(elem.textContent);
-      elem.parentElement.classList.add("hidden");
+let plotlyElements = document.querySelectorAll("pre>code.language-plotly");
+if (plotlyElements.length > 0) {
+  document.addEventListener("readystatechange", () => {
+    if (document.readyState === "complete") {
+      plotlyElements.forEach((elem) => {
+        // Parse the Plotly JSON data and hide it
+        var jsonData = JSON.parse(elem.textContent);
+        elem.parentElement.classList.add("hidden");
 
-      // Add the Plotly node
-      let chartElement = document.createElement("div");
-      elem.parentElement.after(chartElement);
+        // Add the Plotly node
+        let chartElement = document.createElement("div");
+        elem.parentElement.after(chartElement);
 
-      // Set the theme for the plot and render it
-      const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
-      if (jsonData.layout) {
-        jsonData.layout.template = (jsonData.layout.template) ? { ...theme, ...jsonData.layout.template } : theme;
-      } else {
-        jsonData.layout = { template: theme };
-      }
-      Plotly.react(chartElement, jsonData.data, jsonData.layout);
-    });
-  }
-});
+        // Set the theme for the plot and render it
+        const theme = (determineComputedTheme() === "dark") ? plotlyDarkLayout : plotlyLightLayout;
+        if (jsonData.layout) {
+          jsonData.layout.template = (jsonData.layout.template) ? { ...theme, ...jsonData.layout.template } : theme;
+        } else {
+          jsonData.layout = { template: theme };
+        }
+        Plotly.react(chartElement, jsonData.data, jsonData.layout);
+      });
+    }
+  });
+}
 
 /* ==========================================================================
    Actions that should occur when the page has been fully loaded
