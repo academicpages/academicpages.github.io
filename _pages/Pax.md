@@ -15,7 +15,7 @@ The Pax Narca Files generó un amplio debate nacional e impulsó acciones estata
 <br><br>
 • En <a href="https://www.vistazo.com/politica/nacional/2024-09-06-daniel-noboa-auditoria-7-000-muertes-violentas-gobierno-rafael-correa-GN7953558">septiembre de 2024</a>, el presidente <strong>Daniel Noboa ordenó una auditoría</strong> oficial de estadísticas de muertes violentas e instruyó investigaciones penales por posible manipulación de datos durante gobiernos anteriores.
 <br><br>
-• En <a href="https://periodismodeinvestigacion.com/2025/03/27/serrano-y-chiriboga-son-llamados-a-comparecer/">marzo de 2025</a>, la <strong>Comisión de Soberanía, Integración y Seguridad Integral aprobó un informe</strong> (con 5 votos a favor) que:
+• En <a href="https://periodismodeinvestigacion.com/2025/03/27/serrano-y-chiriboga-son-llamados-a-comparecer/">marzo de 2025</a>, la <strong>Comisión de Soberanía, Integración y Seguridad Integral de la Asamblea Nacional aprobó un informe</strong> de fiscalización que:
 <ul>
   <li>Confirmó <strong>prácticas sistemáticas de manipulación estadística, encubrimiento institucional y omisión dolosa</strong> en registros de muertes violentas, desapariciones y trata de personas (2008-2023)</li>
   <li>Determinó que el Estado incurrió en <strong>presunta responsabilidad internacional</strong> por alterar estadísticas oficiales</li>
