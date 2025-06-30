@@ -193,6 +193,15 @@ Haibo Zhao\*, **Dian Wang\***, Yizhe Zhu, Xupeng Zhu, Owen Howell, Linfeng Zhao,
 <br>
 
 <div class="project-img-container">
+  <img src="images/mingxi_gem.png" alt="" style="width: 220px; height: auto;">
+</div>
+<a href="https://arxiv.org/pdf/2406.15677" style="text-decoration: none; color: inherit;"><strong>Learning Efficient and Robust Language-conditioned Manipulation using Textual-Visual Relevancy and Equivariant Language Mapping</strong></a>  
+Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
+*RAL 2025*  
+<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
+<br>
+
+<div class="project-img-container">
   <img src="images/boce_push_grasp.png" alt="" style="width: 220px; height: auto;">
 </div>
 <a href="https://arxiv.org/pdf/2504.03053" style="text-decoration: none; color: inherit;"><strong>Push-Grasp Policy Learning Using Equivariant Models and Grasp Score Optimization</strong></a>  
@@ -253,15 +262,6 @@ Haojie Huang, Karl Schmeckpeper\*, **Dian Wang\***, Ondrej Biza\*, Yaoyao Qian, 
 <button class="button-4" onclick="window.open('https://haojhuang.github.io/imagine_page/','_blank')">Webpage</button>
 <button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.11740','_blank')">PDF</button>
 <button class="button-4" onclick="window.open('https://www.youtube.com/watch?v=EpYUDb8bUP4','_blank')">Video</button>
-<br>
-
-<div class="project-img-container">
-  <img src="images/mingxi_gem.png" alt="" style="width: 220px; height: auto;">
-</div>
-<a href="https://arxiv.org/pdf/2406.15677" style="text-decoration: none; color: inherit;"><strong>Open-vocabulary Pick and Place via Patch-level Semantic Maps</strong></a>  
-Mingxi Jia, Haojie Huang, Zhewen Zhang, Chenghao Wang, Linfeng Zhao, **Dian Wang**, Jason Xinyu Liu, Robin Walters, Robert Platt, Stefanie Tellex  
-*Preprint*  
-<button class="button-4" onclick="window.open('https://arxiv.org/pdf/2406.15677','_blank')">PDF</button>
 <br>
 
 <div class="project-img-container">
