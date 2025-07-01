@@ -37,4 +37,5 @@ We introduce the spiked mixture model (SMM) to address the problem of estimating
 <img src="https://pauldelacour.github.io/images/SMM/model_comparison_high_noise_0.5.png" alt="high_noise_case">
 
 Our Poster presentation for ASMS 2025 : 
+[Poster](https://pauldelacour.github.io/images/SMM/2025_05_30_asms2025_smm_clustering_delacour.pdf)
 <a href="https://pauldelacour.github.io/images/SMM/2025_05_30_asms2025_smm_clustering_delacour.pdf", rel="permalink">Poster</a>
