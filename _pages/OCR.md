@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "OCR"
 author_profile: true
 redirect_from:
-  - /wordpress/blog-posts/
+  - /OCR/
 ---
 
 {% include base_path %}
