@@ -17,15 +17,15 @@ The Pax Narca Files generó un amplio debate nacional e impulsó acciones estata
 <br><br>
 • En <a href="https://periodismodeinvestigacion.com/2025/03/27/serrano-y-chiriboga-son-llamados-a-comparecer/">marzo de 2025</a>, la <strong>Comisión de Soberanía, Integración y Seguridad Integral de la Asamblea Nacional aprobó un informe de fiscalización</strong> que:
 <ul>
-  <li>Confirmó indicios de <strong>prácticas sistemáticas de manipulación estadística, encubrimiento institucional y omisión dolosa</strong> en registros de muertes violentas, desapariciones y trata de personas (2008-2023)</li>
-  <li>Determinó que el Estado incurrió en <strong>presunta responsabilidad internacional</strong> por alterar estadísticas oficiales</li>
-  <li>Recomendó:
+  <li><p style="text-align: justify; font-size: 11.5pt;"> Confirmó indicios de <strong>prácticas sistemáticas de manipulación estadística, encubrimiento institucional y omisión dolosa</strong> en registros de muertes violentas, desapariciones y trata de personas (2008-2023)</p></li>
+  <li><p style="text-align: justify; font-size: 11.5pt;"> Determinó que el Estado incurrió en <strong>presunta responsabilidad internacional</strong> por alterar estadísticas oficiales</p></li>
+  <li><p style="text-align: justify; font-size: 11.5pt;"> Recomendó:</p>
     <ul>
-      <li>Investigar penalmente a exfuncionarios (José Serrano, Galo Chiriboga) por <strong>alteración de datos, encubrimiento y delitos de lesa humanidad</strong></li>
-      <li>Crear una <strong>Comisión por la Verdad</strong> para casos de 2008-2023</li>
-      <li><strong>Tipificar como delito</strong> la manipulación de estadísticas oficiales</li>
-      <li>Reabrir casos emblemáticos como el de David Romo</li>
-      <li>Establecer una <strong>base de datos nacional unificada e interoperable</strong> sobre violencia</li>
+      <li><p style="text-align: justify; font-size: 11.5pt;"> Investigar penalmente a exfuncionarios (José Serrano, Galo Chiriboga) por <strong>alteración de datos, encubrimiento y delitos de lesa humanidad</strong></p></li>
+      <li><p style="text-align: justify; font-size: 11.5pt;"> Crear una <strong>Comisión por la Verdad</strong> para casos de 2008-2023</p></li>
+      <li><p style="text-align: justify; font-size: 11.5pt;"> <strong>Tipificar como delito</strong> la manipulación de estadísticas oficiales</p></li>
+      <li><p style="text-align: justify; font-size: 11.5pt;"> Reabrir casos emblemáticos como el de David Romo</p></li>
+      <li><p style="text-align: justify; font-size: 11.5pt;"> Establecer una <strong>base de datos nacional unificada e interoperable</strong> sobre violencia</p></li>
     </ul>
   </li>
 </ul>
