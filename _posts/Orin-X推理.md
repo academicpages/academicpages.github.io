@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'Orin-X推理'
+date: 2025-08-14
+permalink: /posts/2025/07/blog-post-1/
 tags:
   - cool posts
   - category1
