@@ -1,0 +1,617 @@
+<!DOCTYPE html>  
+<html lang="es">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Esmeraldas: Crisis y Sueños - Basado en "Las voces de las niñas y los niños"</title>  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">  
+    <style>  
+        * {  
+            margin: 0;  
+            padding: 0;  
+            box-sizing: border-box;  
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+        }  
+        
+        body {  
+            background: linear-gradient(135deg, #0d1e2d, #1a3a4a);  
+            color: #f0f0f0;  
+            padding: 20px;  
+            min-height: 100vh;  
+            line-height: 1.6;  
+        }  
+        
+        .reportaje-base {
+            text-align: center;
+            margin-bottom: 20px;
+            padding: 15px;
+            background: rgba(26, 188, 156, 0.1);
+            border-radius: 8px;
+            border-left: 4px solid #1abc9c;
+            font-size: 1rem;
+            color: #aed9e0;
+        }
+        
+        .reportaje-base strong {
+            color: #f1c40f;
+            display: block;
+            margin-bottom: 5px;
+            font-size: 1.1rem;
+        }
+        
+        .container {  
+            max-width: 1200px;  
+            margin: 0 auto;  
+        }  
+        
+        header {  
+            text-align: center;  
+            padding: 20px 0 30px;  
+            margin-bottom: 20px;  
+            position: relative;  
+            overflow: hidden;  
+        }  
+        
+        .header-content {  
+            position: relative;  
+            z-index: 2;  
+            padding: 20px;  
+        }  
+        
+        h1 {  
+            font-size: 3.2rem;  
+            margin-bottom: 15px;  
+            color: #f8f9fa;  
+            text-shadow: 0 2px 8px rgba(0,0,0,0.6);  
+            background: linear-gradient(to right, #f1c40f, #1abc9c);  
+            -webkit-background-clip: text;  
+            -webkit-text-fill-color: transparent;  
+        }  
+        
+        .subtitle {  
+            font-size: 1.5rem;  
+            color: #aed9e0;  
+            max-width: 800px;  
+            margin: 0 auto 20px;  
+            line-height: 1.6;  
+        }  
+        
+        .header-description {  
+            font-size: 1.1rem;  
+            max-width: 800px;  
+            margin: 0 auto;  
+            color: #c8d6e5;  
+            background: rgba(0, 30, 40, 0.6);  
+            padding: 20px;  
+            border-radius: 12px;  
+            border-left: 4px solid #1abc9c;  
+        }  
+        
+        .stats-grid {  
+            display: grid;  
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  
+            gap: 25px;  
+            margin-bottom: 40px;  
+        }  
+        
+        .stat-card {  
+            background: rgba(255, 255, 255, 0.08);  
+            border-radius: 15px;  
+            padding: 25px;  
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.4);  
+            transition: transform 0.3s ease, background 0.3s ease;  
+            backdrop-filter: blur(10px);  
+            border: 1px solid rgba(255, 255, 255, 0.1);  
+            display: flex;  
+            flex-direction: column;  
+        }  
+        
+        .stat-card:hover {  
+            transform: translateY(-8px);  
+            background: rgba(255, 255, 255, 0.12);  
+        }  
+        
+        .card-header {  
+            display: flex;  
+            align-items: center;  
+            margin-bottom: 20px;  
+            padding-bottom: 15px;  
+            border-bottom: 1px solid rgba(255, 255, 255, 0.15);  
+        }  
+        
+        .card-icon {  
+            width: 60px;  
+            height: 60px;  
+            border-radius: 50%;  
+            background: linear-gradient(135deg, #3498db, #1abc9c);  
+            display: flex;  
+            align-items: center;  
+            justify-content: center;  
+            margin-right: 15px;  
+            font-size: 1.8rem;  
+        }  
+        
+        .card-title {  
+            font-size: 1.6rem;  
+            font-weight: 600;  
+            color: #1abc9c;  
+        }  
+        
+        .stat-item {  
+            margin: 20px 0;  
+            padding-left: 15px;  
+            border-left: 3px solid #3498db;  
+        }  
+        
+        .stat-label {  
+            font-size: 1.1rem;  
+            color: #bdc3c7;  
+            margin-bottom: 8px;  
+            display: flex;  
+            align-items: center;  
+        }  
+        
+        .stat-label i {  
+            margin-right: 10px;  
+            color: #f1c40f;  
+        }  
+        
+        .stat-value {  
+            font-size: 1.8rem;  
+            font-weight: 700;  
+            color: #f1c40f;  
+            margin-bottom: 5px;  
+        }  
+        
+        .stat-context {  
+            font-size: 1rem;  
+            color: #95a5a6;  
+            line-height: 1.5;  
+        }  
+        
+        .highlight {  
+            background: rgba(231, 76, 60, 0.2);  
+            padding: 3px 8px;  
+            border-radius: 5px;  
+            color: #e74c3c;  
+            font-weight: 600;  
+        }  
+        
+        .dreams-section {  
+            background: rgba(26, 188, 156, 0.1);  
+            border-radius: 15px;  
+            padding: 35px 30px;  
+            margin: 40px 0;  
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);  
+            border: 1px solid rgba(26, 188, 156, 0.3);  
+        }  
+        
+        .section-title {  
+            text-align: center;  
+            font-size: 2.2rem;  
+            margin-bottom: 35px;  
+            color: #1abc9c;  
+            position: relative;  
+        }  
+        
+        .section-title:after {  
+            content: '';  
+            display: block;  
+            width: 100px;  
+            height: 4px;  
+            background: linear-gradient(to right, #1abc9c, #f1c40f);  
+            margin: 15px auto 0;  
+            border-radius: 2px;  
+        }  
+        
+        .dreams-grid {  
+            display: grid;  
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));  
+            gap: 25px;  
+            margin-top: 30px;  
+        }  
+        
+        .dream-card {  
+            background: rgba(255, 255, 255, 0.05);  
+            border-radius: 12px;  
+            padding: 25px;  
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);  
+            border-left: 4px solid #f1c40f;  
+            transition: transform 0.3s ease;  
+        }  
+        
+        .dream-card:hover {  
+            transform: translateY(-5px);  
+            background: rgba(255, 255, 255, 0.08);  
+        }  
+        
+        .dream-header {  
+            display: flex;  
+            align-items: center;  
+            margin-bottom: 15px;  
+        }  
+        
+        .dream-icon {  
+            width: 50px;  
+            height: 50px;  
+            border-radius: 50%;  
+            background: rgba(241, 196, 15, 0.2);  
+            display: flex;  
+            align-items: center;  
+            justify-content: center;  
+            margin-right: 15px;  
+            font-size: 1.5rem;  
+            color: #f1c40f;  
+        }  
+        
+        .dream-name {  
+            font-size: 1.4rem;  
+            font-weight: 600;  
+            color: #f1c40f;  
+        }  
+        
+        .dream-text {  
+            font-size: 1.1rem;  
+            color: #e0e0e0;  
+            font-style: italic;  
+            margin: 15px 0;  
+            padding: 15px;  
+            background: rgba(0, 20, 30, 0.4);  
+            border-radius: 8px;  
+            border-left: 3px solid #3498db;  
+        }  
+        
+        .dream-aspiration {  
+            font-size: 1rem;  
+            color: #aed9e0;  
+        }  
+        
+        .symbol-section {  
+            display: flex;  
+            align-items: center;  
+            background: rgba(22, 160, 133, 0.1);  
+            border-radius: 15px;  
+            padding: 30px;  
+            margin: 40px 0;  
+            gap: 30px;  
+        }  
+        
+        .symbol-content {  
+            flex: 1;  
+        }  
+        
+        .symbol-title {  
+            font-size: 1.8rem;  
+            color: #1abc9c;  
+            margin-bottom: 20px;  
+        }  
+        
+        .symbol-text {  
+            font-size: 1.1rem;  
+            color: #c8d6e5;  
+            margin-bottom: 20px;  
+            line-height: 1.7;  
+        }  
+        
+        .symbol-image {  
+            flex: 0 0 200px;  
+            display: flex;  
+            align-items: center;  
+            justify-content: center;  
+            font-size: 8rem;  
+            color: #f1c40f;  
+            text-shadow: 0 0 20px rgba(241, 196, 15, 0.4);  
+        }  
+        
+        .community-section {  
+            background: rgba(52, 152, 219, 0.1);  
+            border-radius: 15px;  
+            padding: 35px 30px;  
+            margin: 40px 0;  
+            border: 1px solid rgba(52, 152, 219, 0.3);  
+        }  
+        
+        .community-grid {  
+            display: grid;  
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));  
+            gap: 25px;  
+            margin-top: 30px;  
+        }  
+        
+        .community-item {  
+            background: rgba(255, 255, 255, 0.05);  
+            border-radius: 12px;  
+            padding: 25px;  
+            text-align: center;  
+        }  
+        
+        .community-icon {  
+            font-size: 3.5rem;  
+            color: #3498db;  
+            margin-bottom: 20px;  
+        }  
+        
+        .community-title {  
+            font-size: 1.5rem;  
+            color: #3498db;  
+            margin-bottom: 15px;  
+        }  
+        
+        .community-text {  
+            font-size: 1.05rem;  
+            color: #c8d6e5;  
+        }  
+        
+        .source {  
+            text-align: center;  
+            margin-top: 40px;  
+            padding-top: 20px;  
+            border-top: 1px solid rgba(255, 255, 255, 0.15);  
+            color: #95a5a6;  
+            font-size: 0.95rem;  
+            line-height: 1.6;  
+        }  
+        
+        @media (max-width: 768px) {  
+            h1 {  
+                font-size: 2.4rem;  
+            }  
+            
+            .subtitle {  
+                font-size: 1.2rem;  
+            }  
+            
+            .section-title {  
+                font-size: 1.8rem;  
+            }  
+            
+            .symbol-section {  
+                flex-direction: column;  
+            }  
+            
+            .symbol-image {  
+                margin-top: 20px;  
+                font-size: 6rem;  
+            }  
+        }  
+    </style>
+</head>  
+<body>  
+    <div class="container">
+        <div class="reportaje-base">
+            <strong>Basado en el reportaje: "Las voces de las niñas y los niños: otros mundos posibles en Esmeraldas" <a href="https://laperiodica.net/voces/las-voces-de-las-ninas-y-los-ninos-otros-mundos-posibles-en-esmeraldas/"> (Link) </a></strong>
+            La Periódica | Dirección, reportería y escritura: Karol E. Noroña
+        </div>
+        
+        <header>  
+            <div class="header-content">  
+                <h1><i class="fas fa-seedling"></i> Esmeraldas: Crisis y Sueños</h1>  
+                <p class="subtitle">Entre la violencia estructural y la resistencia de su niñez</p>  
+                <div class="header-description">  
+                    En la provincia ecuatoriana de mayoría afrodescendiente, niños y niñas sueñan con jugar libremente mientras enfrentan la peor crisis de su historia: homicidios aumentados en 800%, desplazamiento forzado, derrames petroleros e inundaciones recurrentes.  
+                </div>  
+            </div>  
+        </header>  
+
+        <!-- Resto del contenido permanece igual -->
+        <!-- Estadísticas de la crisis -->  
+        <div class="stats-grid">  
+            <div class="stat-card">  
+                <div class="card-header">  
+                    <div class="card-icon">  
+                        <i class="fas fa-shield-alt"></i>  
+                    </div>  
+                    <h2 class="card-title">Violencia Extrema</h2>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-arrow-up"></i> Tasa de homicidios</div>  
+                    <div class="stat-value">+800%</div>  
+                    <div class="stat-context">De 16 (2020) a 144 (2023) por cada 100,000 habitantes</div>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-people-arrows"></i> Desplazados</div>  
+                    <div class="stat-value">476 personas</div>  
+                    <div class="stat-context">Asistidas por Cáritas en 2024 - Estado no reconoce crisis</div>  
+                </div>  
+                
+                
+            </div>  
+            
+            <div class="stat-card">  
+                <div class="card-header">  
+                    <div class="card-icon">  
+                        <i class="fas fa-tree"></i>  
+                    </div>  
+                    <h2 class="card-title">Emergencia Ambiental</h2>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-oil-well"></i> Derrame petrolero</div>  
+                    <div class="stat-value">86 km</div>  
+                    <div class="stat-context">Contaminación de ríos y costas (Marzo 2025)</div>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-users"></i> Personas afectadas</div>  
+                    <div class="stat-value">113,000</div>  
+                    <div class="stat-context">39% son niños (≈44,000) - UNICEF</div>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-house-flood-water"></i> Inundaciones</div>  
+                    <div class="stat-value">2,500 viviendas</div>  
+                    <div class="stat-context">Destruidas por el Río Teaone (2023)</div>  
+                </div>  
+            </div>  
+            
+            <div class="stat-card">  
+                <div class="card-header">  
+                    <div class="card-icon">  
+                        <i class="fas fa-hands-helping"></i>  
+                    </div>  
+                    <h2 class="card-title">Pobreza y Abandono</h2>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-chart-line"></i> Desempleo</div>  
+                    <div class="stat-value">#1 en Ecuador</div>  
+                    <div class="stat-context">Mayor tasa a nivel nacional</div>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-house-damage"></i> Reconstrucción</div>  
+                    <div class="stat-value">0 acciones</div>  
+                    <div class="stat-context">Gubernamentales post-inundaciones (2023-2025)</div>  
+                </div>  
+                
+                <div class="stat-item">  
+                    <div class="stat-label"><i class="fas fa-school"></i> Educación</div>  
+                    <div class="stat-value">Falta de oportunidades</div>  
+                    <div class="stat-context">Carreras como azafata no disponibles localmente</div>  
+                </div>  
+            </div>  
+        </div>  
+        
+        <!-- Símbolo de resistencia -->  
+        <div class="symbol-section">  
+            <div class="symbol-content">  
+                <h2 class="symbol-title">El Guayacán: Símbolo de Resistencia</h2>  
+                <p class="symbol-text">Árbol emblemático que florece como "milagro dorado en medio de la sequía". Representa la capacidad de resistencia del pueblo afroesmeraldeño ante la exclusión y violencia histórica.</p>  
+                <p class="symbol-text">"Las ramas del guayacán a lo mucho se doblan, pero no se quiebran" - Juan Montaño Escobar, escritor esmeraldeño.</p>  
+                <p class="symbol-text">Los niños juegan bajo estos árboles centenarios que sirven como "techos naturales" y símbolos vivientes de la lucha antiesclavista del siglo XX.</p>  
+            </div>  
+            <div class="symbol-image">  
+                <i class="fas fa-tree"></i>  
+            </div>  
+        </div>  
+        
+        <!-- Sueños de los niños -->  
+        <div class="dreams-section">  
+            <h2 class="section-title">Sueños de la Niñez en Medio de la Adversidad</h2>  
+            <div class="dreams-grid">  
+                <div class="dream-card">  
+                    <div class="dream-header">  
+                        <div class="dream-icon">  
+                            <i class="fas fa-futbol"></i>  
+                        </div>  
+                        <h3 class="dream-name">Dayer (12 años)</h3>  
+                    </div>  
+                    <p class="dream-text">"Quiero ser un delantero como Messi, no por los goles, sino porque lo que le importa es tocar el balón y compartirlo"</p>  
+                    <p class="dream-aspiration">Aspira a ser futbolista profesional para dar seguridad a su familia y comprar canilleras</p>  
+                </div>  
+                
+                <div class="dream-card">  
+                    <div class="dream-header">  
+                        <div class="dream-icon">  
+                            <i class="fas fa-graduation-cap"></i>  
+                        </div>  
+                        <h3 class="dream-name">Yaritza (14 años)</h3>  
+                    </div>  
+                    <p class="dream-text">"Tengo dos grandes sueños: ser profesora y azafata. Nací en Esmeraldas y de aquí voy para todo el mundo"</p>  
+                    <p class="dream-aspiration">Quiere enseñar la historia de Esmeraldas y viajar para conocer otras culturas</p>  
+                </div>  
+                
+                <div class="dream-card">  
+                    <div class="dream-header">  
+                        <div class="dream-icon">  
+                            <i class="fas fa-utensils"></i>  
+                        </div>  
+                        <h3 class="dream-name">Saoni (17 años)</h3>  
+                    </div>  
+                    <p class="dream-text">"Nuestra cultura esmeraldeña es espectacular. Mi sueño es ser chef para llevar nuestra gastronomía a todo el mundo"</p>  
+                    <p class="dream-aspiration">Busca estudiar gestión culinaria y preservar la tradición culinaria afroesmeraldeña</p>  
+                </div>  
+                
+                <div class="dream-card">  
+                    <div class="dream-header">  
+                        <div class="dream-icon">  
+                            <i class="fas fa-bolt"></i>  
+                        </div>  
+                        <h3 class="dream-name">Manuel (15 años)</h3>  
+                    </div>  
+                    <p class="dream-text">"Lo que quiero es dar luz. Que Esmeraldas tenga luz"</p>  
+                    <p class="dream-aspiration">Estudia para ser ingeniero electricista y reparar el sistema eléctrico de Esmeraldas</p>  
+                </div>  
+            </div>  
+        </div>  
+        
+        <!-- Acción comunitaria -->  
+        <div class="community-section">  
+            <h2 class="section-title">Resistencia Comunitaria</h2>  
+            <div class="community-grid">  
+                <div class="community-item">  
+                    <div class="community-icon">  
+                        <i class="fas fa-hands"></i>  
+                    </div>  
+                    <h3 class="community-title">Sistemas de Protección</h3>  
+                    <p class="community-text">"Toda la comunidad sabe quién sale por la mañana y quién entra por la tarde, activando alarmas si alguien no llega antes de las 9 PM"</p>  
+                </div>  
+                
+                <div class="community-item">  
+                    <div class="community-icon">  
+                        <i class="fas fa-utensils"></i>  
+                    </div>  
+                    <h3 class="community-title">Solidaridad Alimentaria</h3>  
+                    <p class="community-text">"Las vecinas cocinaban seco de pollo, tallarín, arroz y verde para todos en una olla que también era de todos" - Sailenis</p>  
+                </div>  
+                
+                <div class="community-item">  
+                    <div class="community-icon">  
+                        <i class="fas fa-music"></i>  
+                    </div>  
+                    <h3 class="community-title">Preservación Cultural</h3>  
+                    <p class="community-text">Talleres de marimba, trenzas ancestrales y juegos tradicionales como "la estrella" para mantener viva la identidad afroesmeraldeña</p>  
+                </div>  
+            </div>  
+        </div>  
+        
+        <div class="source">  
+            <p><strong>Fuente:</strong> Reportaje "Las voces de las niñas y los niños: otros mundos posibles en Esmeraldas" - La Periódica (2025)</p>  
+            <p>Datos recopilados con apoyo de UNICEF Ecuador, Pastoral Social Cáritas Esmeraldas y Nación de Paz</p>  
+        </div>  
+    </div>  
+    
+    <script>  
+        
+        document.addEventListener('DOMContentLoaded', function() {  
+            const observerOptions = {  
+                threshold: 0.1  
+            };  
+            
+            const observer = new IntersectionObserver((entries) => {  
+                entries.forEach(entry => {  
+                    if (entry.isIntersecting) {  
+                        entry.target.style.opacity = 1;  
+                        entry.target.style.transform = 'translateY(0)';  
+                    }  
+                });  
+            }, observerOptions);  
+            
+            
+            document.querySelectorAll('.stat-card, .dream-card, .community-item').forEach(card => {  
+                card.style.opacity = 0;  
+                card.style.transform = 'translateY(20px)';  
+                card.style.transition = 'opacity 0.6s ease, transform 0.6s ease';  
+                observer.observe(card);  
+            });  
+            
+            
+            const symbolSection = document.querySelector('.symbol-section');  
+            symbolSection.style.opacity = 0;  
+            symbolSection.style.transform = 'translateY(30px)';  
+            symbolSection.style.transition = 'opacity 0.8s ease, transform 0.8s ease';  
+            observer.observe(symbolSection);  
+            
+            
+            document.querySelectorAll('.section-title').forEach(title => {  
+                title.style.opacity = 0;  
+                title.style.transform = 'translateY(-20px)';  
+                title.style.transition = 'opacity 0.6s ease, transform 0.6s ease';  
+                observer.observe(title);  
+            });  
+        });  
+    </script>
+</body>  
+</html>

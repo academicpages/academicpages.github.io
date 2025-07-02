@@ -1,0 +1,680 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa de Corrupción Judicial en Ecuador</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background: linear-gradient(135deg, #0f1b33, #1c2e4a);
+            color: #eef2f7;
+            line-height: 1.6;
+            padding: 20px;
+            overflow-x: hidden;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            flex-direction: column;
+            gap: 25px;
+        }
+        
+        header {
+            background: rgba(10, 25, 47, 0.85);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(64, 156, 255, 0.2);
+            text-align: center;
+        }
+        
+        h1 {
+            color: #ff7e5f;
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 700;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+            font-family: 'Merriweather', serif;
+        }
+        
+        .subtitle {
+            font-size: 1.3rem;
+            color: #4ecdc4;
+            margin-bottom: 20px;
+            font-weight: 500;
+        }
+        
+        .source {
+            background: rgba(255, 126, 95, 0.15);
+            padding: 12px;
+            border-radius: 8px;
+            margin-top: 15px;
+            font-size: 0.95rem;
+            border: 1px solid rgba(255, 126, 95, 0.3);
+        }
+        
+        .source a {
+            color: #ff9e7d;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        
+        .source a:hover {
+            text-decoration: underline;
+        }
+        
+        .content {
+            display: flex;
+            gap: 25px;
+            flex-wrap: wrap;
+        }
+        
+        .legend-section {
+            flex: 1;
+            min-width: 300px;
+            background: rgba(10, 25, 47, 0.85);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(64, 156, 255, 0.2);
+        }
+        
+        .graph-section {
+            flex: 3;
+            min-width: 600px;
+            height: 700px;
+            background: rgba(10, 25, 47, 0.85);
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(64, 156, 255, 0.2);
+            overflow: hidden;
+            position: relative;
+        }
+        
+        h2 {
+            color: #4ecdc4;
+            border-bottom: 2px solid #ff7e5f;
+            padding-bottom: 12px;
+            margin-bottom: 20px;
+            font-size: 1.6rem;
+            font-weight: 600;
+        }
+        
+        .legend-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 15px;
+        }
+        
+        .legend-item {
+            display: flex;
+            align-items: center;
+            padding: 10px;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 8px;
+            transition: all 0.3s ease;
+        }
+        
+        .legend-item:hover {
+            background: rgba(255, 255, 255, 0.15);
+            transform: translateY(-3px);
+        }
+        
+        .legend-color {
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            margin-right: 12px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+        }
+        
+        .connections {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 25px;
+        }
+        
+        .connection-card {
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 10px;
+            padding: 18px;
+            transition: all 0.3s ease;
+            border-left: 4px solid #ff7e5f;
+        }
+        
+        .connection-card:hover {
+            background: rgba(255, 255, 255, 0.15);
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+        }
+        
+        .connection-card h3 {
+            margin-top: 0;
+            color: #ffd166;
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+        
+        .timeline {
+            background: rgba(10, 25, 47, 0.85);
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+            border: 1px solid rgba(64, 156, 255, 0.2);
+        }
+        
+        .timeline-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .timeline-item {
+            padding: 18px;
+            background: rgba(255, 255, 255, 0.08);
+            border-radius: 10px;
+            position: relative;
+            padding-left: 30px;
+            border-left: 3px solid #ff7e5f;
+            transition: all 0.3s ease;
+        }
+        
+        .timeline-item:hover {
+            background: rgba(255, 255, 255, 0.15);
+            transform: translateY(-3px);
+        }
+        
+        .timeline-date {
+            font-weight: 700;
+            color: #4ecdc4;
+            font-size: 1.1rem;
+            margin-bottom: 8px;
+        }
+        
+        .case-tag {
+            display: inline-block;
+            background: #6a0572;
+            color: white;
+            padding: 3px 10px;
+            border-radius: 20px;
+            font-size: 0.85rem;
+            margin: 5px 5px 5px 0;
+            font-weight: 500;
+        }
+        
+        .tooltip {
+            position: absolute;
+            background: rgba(10, 25, 47, 0.95);
+            border: 2px solid #ff7e5f;
+            border-radius: 8px;
+            padding: 15px;
+            max-width: 350px;
+            color: white;
+            font-size: 0.95rem;
+            pointer-events: none;
+            z-index: 100;
+            box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+        }
+        
+        .tooltip strong {
+            color: #ffd166;
+            font-size: 1.1rem;
+            display: block;
+            margin-bottom: 8px;
+            border-bottom: 1px solid #ff7e5f;
+            padding-bottom: 5px;
+        }
+        
+        .zoom-controls {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        
+        .zoom-btn {
+            width: 40px;
+            height: 40px;
+            background: rgba(10, 25, 47, 0.9);
+            border: 1px solid #4ecdc4;
+            border-radius: 50%;
+            color: #4ecdc4;
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.3);
+        }
+        
+        .zoom-btn:hover {
+            background: #4ecdc4;
+            color: #0f1b33;
+            transform: scale(1.1);
+        }
+        
+        .node-text {
+            font-size: 0.9rem;
+            font-weight: 600;
+            pointer-events: none;
+            text-shadow: 0 1px 3px rgba(0, 0, 0, 0.8);
+            fill: #fff;
+        }
+        
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 20px;
+            font-size: 0.95rem;
+            color: #89a;
+            border-top: 1px solid rgba(64, 156, 255, 0.2);
+        }
+        
+        .journalist-credit {
+            display: block;
+            margin-top: 10px;
+            font-weight: 600;
+            color: #ff9e7d;
+        }
+        
+        @media (max-width: 768px) {
+            .content {
+                flex-direction: column;
+            }
+            
+            .graph-section {
+                min-width: 100%;
+                height: 500px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Mapa de Corrupción Judicial en Ecuador</h1>
+            <div class="subtitle">Con Glas y Terán todas las tramas de corrupción se entrelazan</div>
+            
+            <div class="source">
+                <p>Análisis basado en la investigación periodística de <strong>Sara Ortiz</strong> publicada en Diario Expreso:</p>
+                <p><a href="https://x.com/saritortiz/status/1935887802022994383" target="_blank">https://x.com/saritortiz/status/1935887802022994383</a></p>
+            </div>
+        </header>
+        
+        <div class="content">
+            <div class="legend-section">
+                <h2>Leyenda del Mapa</h2>
+                
+                <div class="legend-grid">
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #E63946;"></div>
+                        <div>Operadores Clave</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #457B9D;"></div>
+                        <div>Jueces</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #F4A261;"></div>
+                        <div>Políticos</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #6A0572;"></div>
+                        <div>Narcotráfico</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #2A9D8F;"></div>
+                        <div>Abogados</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #1D3557;"></div>
+                        <div>Casos Judiciales</div>
+                    </div>
+                    <div class="legend-item">
+                        <div class="legend-color" style="background-color: #E9C46A;"></div>
+                        <div>Operaciones Clave</div>
+                    </div>
+                </div>
+                
+                <h2 style="margin-top: 30px;">Conexiones Clave</h2>
+                <div class="connections">
+                    <div class="connection-card">
+                        <h3>Liberación de Glas</h3>
+                        <p>Terán coordinó con jueces y abogados para liberar a Jorge Glas mediante fallos preescritos.</p>
+                        <span class="case-tag">#VidrioLibre</span>
+                    </div>
+                    <div class="connection-card">
+                        <h3>Vínculos con Narcos</h3>
+                        <p>Jueces como Curipallo y Guillén tenían conexiones con narcotraficantes como Leandro Norero.</p>
+                        <span class="case-tag">#Narcotentáculos</span>
+                        <span class="case-tag">#Metástasis</span>
+                    </div>
+                    <div class="connection-card">
+                        <h3>Manipulación de Nombramientos</h3>
+                        <p>Concursos arreglados para puestos clave en el sistema judicial.</p>
+                        <span class="case-tag">#CasoPantalla</span>
+                    </div>
+                    <div class="connection-card">
+                        <h3>Intento de Anulación</h3>
+                        <p>Plan para anular sentencia contra Correa coordinado en Brasil con jueces.</p>
+                        <span class="case-tag">#Sobornos</span>
+                        <span class="case-tag">#IndependenciaJudicial</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="graph-section" id="graph">
+                <div class="zoom-controls">
+                    <div class="zoom-btn" id="zoom-in">+</div>
+                    <div class="zoom-btn" id="zoom-out">-</div>
+                    <div class="zoom-btn" id="reset-zoom">↺</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="timeline">
+            <h2>Cronología de Eventos Clave</h2>
+            
+            <div class="timeline-grid">
+                <div class="timeline-item">
+                    <div class="timeline-date">26 Nov 2022</div>
+                    <div class="timeline-content">Reunión en Santo Domingo entre Terán, jueces Torres y Curipallo para coordinar liberación de Glas.</div>
+                    <span class="case-tag">#VidrioLibre</span>
+                    <span class="case-tag">#Metástasis</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">28 Nov 2022</div>
+                    <div class="timeline-content">Juez Curipallo firma fallo preescrito por Terán. Jorge Glas queda libre.</div>
+                    <span class="case-tag">#VidrioLibre</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">1 Dic 2022</div>
+                    <div class="timeline-content">Juez Byron Guillén pide renuncia de Iván Saquicela, presidente del CNJ.</div>
+                    <span class="case-tag">#CasoPantalla</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">29 Mar 2023</div>
+                    <div class="timeline-content">Jueces Guillén y Rivera viajan a Brasil para reunirse con Rafael Correa y coordinar anulación de sentencia.</div>
+                    <span class="case-tag">#Sobornos</span>
+                    <span class="case-tag">#IndependenciaJudicial</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">2023</div>
+                    <div class="timeline-content">Terán es nombrado presidente de la Judicatura. Bloquea destitución de Curipallo.</div>
+                    <span class="case-tag">#CasoPantalla</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Abr 2024</div>
+                    <div class="timeline-content">Xavier Muñoz revela plan para anular sentencia del caso Sobornos contra Correa.</div>
+                    <span class="case-tag">#IndependenciaJudicial</span>
+                    <span class="case-tag">#Sobornos</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">14 Dic 2023</div>
+                    <div class="timeline-content">Allanamiento a Byron Guillén en #CasoMetástasis por vínculos con narcos.</div>
+                    <span class="case-tag">#Metástasis</span>
+                    <span class="case-tag">#Narcotentáculos</span>
+                </div>
+                
+                <div class="timeline-item">
+                    <div class="timeline-date">Jun 2025</div>
+                    <div class="timeline-content">Juicio a Glas por malversación en Manabí (#Reconstrucción). Vinculación con Consermin.</div>
+                    <span class="case-tag">#Reconstrucción</span>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            Mapa de relaciones de corrupción judicial | Basado en la investigación periodística de Sara Ortiz
+            <span class="journalist-credit">Diario Expreso - @saritortiz</span>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const graphContainer = document.getElementById('graph');
+            const width = graphContainer.clientWidth;
+            const height = graphContainer.clientHeight;
+            
+            const svg = d3.select("#graph")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .attr("viewBox", [0, 0, width, height]);
+            
+            const zoomGroup = svg.append("g");
+            
+            const nodes = [
+                // Operadores
+                { id: "Wilman Terán", group: "operadores", desc: "Ex-presidente del Consejo de la Judicatura. Nexo central de las tramas de corrupción judicial" },
+                { id: "Rafael Correa", group: "operadores", desc: "Ex-presidente. Coordinó operaciones desde Brasil para anular sentencias" },
+                
+                // Jueces
+                { id: "Emerson Curipallo", group: "jueces", desc: "Juez CNJ. Firmó liberación de Glas con fallo preescrito por Terán. Vinculado a narcos" },
+                { id: "Anabel Torres", group: "jueces", desc: "Jueza 'Diamante'. Procesada en #CasoPantalla. Aliada de Terán en la liberación de Glas" },
+                { id: "Byron Guillén", group: "jueces", desc: "Juez CNJ. Vinculado a narcos. Viajó a Brasil para reunión con Correa. Allanado en #Metástasis" },
+                { id: "Luis Rivera", group: "jueces", desc: "Juez CNJ. Participó en plan para anular sentencia de Correa. Extendió su período" },
+                { id: "Joffre Rivera", group: "jueces", desc: "Juez de Chone. Recibió oferta para devolver derechos políticos a Correa" },
+                { id: "John Rodríguez", group: "jueces", desc: "Juez de Yaguachi. Restituyó derechos a Glas en 2022. No destituido por la Judicatura" },
+                
+                // Políticos
+                { id: "Jorge Glas", group: "politicos", desc: "Ex-vicepresidente. Liberado irregularmente en 2022. Procesado en #Reconstrucción por malversación" },
+                { id: "Andrés Arauz", group: "politicos", desc: "Político correísta. Mencionado en #CasoLigados para designación de Defensor Público" },
+                
+                // Narcotráfico
+                { id: "Leandro Norero", group: "narcos", desc: "Narco vinculado al abogado Helive Angulo, 'alias Estimado'. Contacto con Terán a través de Cristian Romero, abogado de Jorge Glas y Leandro Norero. Financiador de red judicial" },
+                { id: "Edison Loaiza", group: "narcos", desc: "Abogado de Glas. Sentenciado por narcotráfico. Intermediario en liberación de Glas" },
+                
+                // Abogados
+                { id: "Cristian Romero", group: "abogados", desc: "Defensor de Glas y Norero. Nexo entre narcos y sistema judicial. Contacto con Terán" },
+                { id: "Cristian Palacios", group: "abogados", desc: "Abogado de Glas. Recibió pendrive con fallo preescrito para liberación" },
+                { id: "Bibian Hernández", group: "abogados", desc: "Abogada. Procesada por lavado en #CasoAmistad. Presente en reunión en Brasil" },
+                
+                // Casos
+                { id: "#VidrioLibre", group: "casos", desc: "Caso sobre la liberación irregular de Jorge Glas" },
+                { id: "#Narcotentáculos", group: "casos", desc: "Red de jueces ligados al narco en Manabí" },
+                { id: "#Metástasis", group: "casos", desc: "Mega caso de corrupción judicial con vínculos al narcotráfico" },
+                { id: "#Sobornos", group: "casos", desc: "Caso contra Rafael Correa por cohecho agravado" },
+                { id: "#CasoPantalla", group: "casos", desc: "Concursos arreglados en el sistema judicial" },
+                { id: "#CasoLigados", group: "casos", desc: "Caso sobre designaciones irregulares en la Defensoría Pública" },
+                { id: "#Reconstrucción", group: "casos", desc: "Caso contra Glas por malversación en Manabí" },
+                
+                // Operaciones
+                { id: "Liberación Glas", group: "operaciones", desc: "Operación coordinada para liberar a Jorge Glas (Nov 2022)" },
+                { id: "Viaje a Brasil", group: "operaciones", desc: "Reunión con Correa para anular sentencia (Mar 2023)" },
+                { id: "Concursos Arreglados", group: "operaciones", desc: "Designaciones manipuladas en el sistema judicial" }
+            ];
+            
+            const links = [
+                { source: "Wilman Terán", target: "#VidrioLibre", value: "Orquestó" },
+                { source: "Wilman Terán", target: "Emerson Curipallo", value: "Protegió" },
+                { source: "Wilman Terán", target: "Anabel Torres", value: "Amistad/Romance" },
+                { source: "Wilman Terán", target: "#Narcotentáculos", value: "Vinculado" },
+                { source: "Wilman Terán", target: "Liberación Glas", value: "Coordinó" },
+                { source: "Wilman Terán", target: "Cristian Romero", value: "Amigo/Contacto" },
+                { source: "Wilman Terán", target: "Concursos Arreglados", value: "Implementó" },
+                
+                { source: "#VidrioLibre", target: "Jorge Glas", value: "Beneficiario" },
+                { source: "#VidrioLibre", target: "Emerson Curipallo", value: "Juez ejecutor" },
+                { source: "Liberación Glas", target: "Cristian Palacios", value: "Abogado coordinador" },
+                { source: "Liberación Glas", target: "Edison Loaiza", value: "Abogado de Glas" },
+                { source: "Liberación Glas", target: "John Rodríguez", value: "Restituyó derechos" },
+                
+                { source: "#Narcotentáculos", target: "Byron Guillén", value: "Juez vinculado" },
+                { source: "#Narcotentáculos", target: "Leandro Norero", value: "Financiador" },
+                { source: "#Narcotentáculos", target: "#Metástasis", value: "Caso relacionado" },
+                { source: "#Metástasis", target: "Cristian Romero", value: "Evidencia en chats" },
+                { source: "Cristian Romero", target: "Leandro Norero", value: "Defensor/Contacto" },
+                { source: "Emerson Curipallo", target: "Leandro Norero", value: "Liberó narcos" },
+                
+                { source: "Rafael Correa", target: "Viaje a Brasil", value: "Coordinó" },
+                { source: "Viaje a Brasil", target: "Byron Guillén", value: "Participante" },
+                { source: "Viaje a Brasil", target: "Luis Rivera", value: "Participante" },
+                { source: "Viaje a Brasil", target: "Bibian Hernández", value: "Presente en reunión" },
+                { source: "#Sobornos", target: "Rafael Correa", value: "Sentenciado" },
+                { source: "Rafael Correa", target: "Joffre Rivera", value: "Oferta derechos políticos" },
+                { source: "Cristian Romero", target: "Joffre Rivera", value: "Propuesta medidas cautelares" },
+                
+                { source: "Byron Guillén", target: "#CasoLigados", value: "Mencionado" },
+                { source: "Andrés Arauz", target: "#CasoLigados", value: "Mencionado" },
+                { source: "Concursos Arreglados", target: "Anabel Torres", value: "Favorecida" },
+                { source: "Jorge Glas", target: "#Reconstrucción", value: "Procesado" }
+            ];
+            
+            const simulation = d3.forceSimulation(nodes)
+                .force("link", d3.forceLink(links).id(d => d.id).distance(120))
+                .force("charge", d3.forceManyBody().strength(-300))
+                .force("center", d3.forceCenter(width / 2, height / 2))
+                .force("collision", d3.forceCollide().radius(50));
+            
+            const link = zoomGroup.append("g")
+                .attr("stroke", "#607D8B")
+                .attr("stroke-opacity", 0.7)
+                .selectAll("line")
+                .data(links)
+                .join("line")
+                .attr("stroke-width", 2);
+            
+            const node = zoomGroup.append("g")
+                .attr("stroke", "#fff")
+                .attr("stroke-width", 1.5)
+                .selectAll("circle")
+                .data(nodes)
+                .join("circle")
+                .attr("r", d => {
+                    if (d.group === "operadores") return 22;
+                    if (d.group === "casos") return 18;
+                    return 14;
+                })
+                .attr("fill", d => {
+                    switch(d.group) {
+                        case "operadores": return "#E63946";
+                        case "jueces": return "#457B9D";
+                        case "politicos": return "#F4A261";
+                        case "narcos": return "#6A0572";
+                        case "abogados": return "#2A9D8F";
+                        case "casos": return "#1D3557";
+                        case "operaciones": return "#E9C46A";
+                        default: return "#aaa";
+                    }
+                })
+                .call(drag(simulation));
+            
+            const text = zoomGroup.append("g")
+                .selectAll("text")
+                .data(nodes)
+                .join("text")
+                .attr("class", "node-text")
+                .text(d => d.id)
+                .attr("text-anchor", "middle")
+                .attr("dy", d => {
+                    if (d.group === "operadores") return -28;
+                    return -18;
+                })
+                .attr("fill", "#fff")
+                .attr("font-size", d => d.group === "operadores" ? "13px" : "11px");
+            
+            const tooltip = d3.select("body")
+                .append("div")
+                .attr("class", "tooltip")
+                .style("opacity", 0);
+            
+            node.on("mouseover", function(event, d) {
+                tooltip.transition()
+                    .duration(200)
+                    .style("opacity", 0.95);
+                tooltip.html(`<strong>${d.id}</strong><br>${d.desc}`)
+                    .style("left", (event.pageX + 15) + "px")
+                    .style("top", (event.pageY - 28) + "px");
+            })
+            .on("mouseout", function() {
+                tooltip.transition()
+                    .duration(500)
+                    .style("opacity", 0);
+            });
+            
+            simulation.on("tick", () => {
+                link
+                    .attr("x1", d => d.source.x)
+                    .attr("y1", d => d.source.y)
+                    .attr("x2", d => d.target.x)
+                    .attr("y2", d => d.target.y);
+                
+                node
+                    .attr("cx", d => d.x)
+                    .attr("cy", d => d.y);
+                
+                text
+                    .attr("x", d => d.x)
+                    .attr("y", d => d.y);
+            });
+            
+            const zoom = d3.zoom()
+                .scaleExtent([0.5, 5])
+                .on("zoom", (event) => {
+                    zoomGroup.attr("transform", event.transform);
+                });
+            
+            svg.call(zoom);
+            
+            document.getElementById("zoom-in").addEventListener("click", () => {
+                svg.transition().call(zoom.scaleBy, 1.5);
+            });
+            
+            document.getElementById("zoom-out").addEventListener("click", () => {
+                svg.transition().call(zoom.scaleBy, 0.75);
+            });
+            
+            document.getElementById("reset-zoom").addEventListener("click", () => {
+                svg.transition().call(zoom.transform, d3.zoomIdentity);
+            });
+            
+            function drag(simulation) {
+                function dragstarted(event) {
+                    if (!event.active) simulation.alphaTarget(0.3).restart();
+                    event.subject.fx = event.subject.x;
+                    event.subject.fy = event.subject.y;
+                }
+                
+                function dragged(event) {
+                    event.subject.fx = event.x;
+                    event.subject.fy = event.y;
+                }
+                
+                function dragended(event) {
+                    if (!event.active) simulation.alphaTarget(0);
+                    event.subject.fx = null;
+                    event.subject.fy = null;
+                }
+                
+                return d3.drag()
+                    .on("start", dragstarted)
+                    .on("drag", dragged)
+                    .on("end", dragended);
+            }
+        });
+    </script>
+</body>
+</html>
