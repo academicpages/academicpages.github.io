@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /post/OCR/
 title: "OCR"
 author_profile: true
 redirect_from:
