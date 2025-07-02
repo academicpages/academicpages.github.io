@@ -9,8 +9,6 @@ main:
   - title: "智能驾驶"
     url: /智能驾驶/  
 
-  - title: "OCR"
-    url: /OCR/  
     
   - title: "代码生成"
     url: /代码生成/    
