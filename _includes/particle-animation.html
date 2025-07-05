@@ -1,0 +1,31 @@
+<script>
+tsParticles.load("tsparticles", {
+  background: {
+    color: { value: "var(--global-bg-color)" } // Uses your theme's background color
+  },
+  particles: {
+    number: { value: 60 },
+    color: { value: "var(--global-link-color)" }, // Uses your theme's accent color
+    shape: { type: "circle" },
+    opacity: { value: 0.7 },
+    size: { value: 6, random: true },
+    move: { 
+      enable: true, 
+      speed: 2, 
+      direction: "none", 
+      outModes: "bounce" 
+    }
+  },
+  interactivity: {
+    events: {
+      onHover: { enable: true, mode: "repulse" },
+      onClick: { enable: true, mode: "push" }
+    },
+    modes: {
+      repulse: { distance: 100 },
+      push: { quantity: 4 }
+    }
+  },
+  detectRetina: true
+});
+</script>

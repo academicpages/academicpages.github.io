@@ -44,4 +44,16 @@ $sidebar-screen-min-width   : 1024px;
     --global-text-color                 : #{$dark-gray};
     --global-text-color-light           : #{$light-gray};
     --global-thead-color                : #{$lighter-gray};
+    --particle-bg			: var(--global-bg-color);     // Particle background color
+    --particle-color			: var(--global-link-color); // Particle color
 }
+
+[data-theme="dark"] {
+    --global-bg-color: #181a1b;
+    --global-text-color: #f5f5f5;
+    --global-link-color: #7fdbff;
+    --particle-bg: #181a1b;
+    --particle-color: #ff5555;
+    /* ...override other variables as needed... */
+}
+
