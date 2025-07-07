@@ -14,7 +14,7 @@ Abstract: *We investigate how reducing information costs due to forced experimen
 - **"Public Service Failures and Voter Participation:\\ Evidence from Court-Validated Electoral Disruptions"** <be> [[Latest Version](/files/Kroeper_2025_Public_Service_Failures_and_Voter_Participation.pdf)] <br>
 Abstract: *This paper studies how administrative failures on election day affect long-run political participation. I exploit court-validated disruptions during Berlin’s 2021 elections---such as ballot shortages and excessive queues---as a natural experiment. Using an event-study design across nine elections, I show that turnout in affected precincts fell by 1.2 percent and remained depressed for at least 4 years. Effects are largest among young voters and residents with migration backgrounds. Survey evidence suggests both trust erosion and disrupted civic habits. The findings underscore that competent electoral administration is essential for democratic inclusion and should be treated as core public infrastructure.*
 
-- **"Polarizing the Polls: Candidate Ideology and Electoral Engagement"** (with [V. Lindlacher](http://www.lindlacher.com/) & [K. Lehmann](https://www.ifo.de/lehmann-k)) <br>
+- **"From Forced Moves to Partisan Shifts: Political Assimilation After Climate-Induced Displacement"** <br>
   [Conceptualization]
 
 
