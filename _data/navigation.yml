@@ -4,25 +4,25 @@ main:
   - title: "About Me"
     url: /about/
     
-#  - title: "Research"
-#    url: /year-archive/
+ - title: "Research"
+   url: /year-archive/
     
-#  - title: "Publications"
-#    url: /publications/
+ - title: "Publications"
+   url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
 
-#  - title: "Teaching & Mentorship"
-#    url: /teaching/    
+ - title: "Teaching & Mentorship"
+   url: /teaching/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
         
 
     
-#  - title: "CV"
-#    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
 #   - title: "Guide"
 #     url: /markdown/
