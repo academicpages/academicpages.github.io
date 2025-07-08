@@ -10,9 +10,9 @@ redirect_from:
 <!--![github small](/images/JM_profile.jpg) -->
  <!-- <img src="/images/JM_profile.jpg" alt="drawing" width="200" height="235" style="float: left; padding-right:15px"/>  -->
 
-I am a postdoctoral fellow at UW-Madison Economics, and will become an assistant professor in August 2025. 
+I am an incoming Assistant Professor at the Department of Economics of UW Madison. I work on topics in labor, personnel, and innovation. 
 
-I work on topics in labor, personnel, and innovation. My recent papers investigate information frictions about workers in the labor market, signaling in tech industry, and the role of firms in identifying talent. 
+My current research investigates information frictions in the labor market and their implications for the sorting of workers across firms. 
 
 Here is my <a href="/files/AliceWu_CV.pdf" target="_blank">CV</a>. My email is <hwu526@wisc.edu>. 
 
