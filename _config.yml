@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr-FR"
+locale                   : "en-En"
 site_theme               : "default"
 title                    : "Apo's Homepage"
 title_separator          : "-"
