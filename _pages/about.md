@@ -1,5 +1,12 @@
 
-
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 I'm a first year master student from [Artificial Intelligence program](https://hkumath.hku.hk/web/mscai/mindex.php), [The University of Hong Kong](https://www.hku.hk/). My research interest includes computer vision, image generation, and interpretability in Multi-Modal LLM.
 
 I am very fortunate to be advised by [Prof. Qu](https://liangqiong.github.io/) from [School of Computing and Data Science](https://www.cds.hku.hk/), The University of Hong Kong. 
