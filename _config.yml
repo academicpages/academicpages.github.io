@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
 title                    : "Being Nosignal"
 title_separator          : "-"
 name                     : &name "Being Nosignal"
