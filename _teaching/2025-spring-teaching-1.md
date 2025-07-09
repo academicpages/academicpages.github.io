@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-teaching-1
 venue: "HKUST, Department of Mathematics"
-date: 2025 Spring
+date: 2025-02-12
 location: "Hong Kong"
 ---
 <!--
