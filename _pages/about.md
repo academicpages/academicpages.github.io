@@ -8,10 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Fellow at the Oskar Klein Center at Stockholm University and Nordita Institute where I was previously a Nordita Fellow. I work on several aspects of gravitational-wave multi-messenger astrophysics, neutron stars, and transients more broadly. I did my PhD at Monash working under the supervision of Paul Lasky and Greg Ashton which was conferred in October 2021.
-I am a member of the LIGO Scientific Collaboration (LSC), the Australian Research Council Centre of Excellence for gravitational-wave discovery, OzGrav, the Zwicky Transient Facility (ZTF) and the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST). 
+I am a Kavli Senior Fellow at the Kavli Institute for Cosmology at the University of Cambridge 
+and at the Institute of Astronomy, University of Cambridge. 
+Previously, I was a Nordita/OKC postdoctoral fellow at the Nordita Institute and the 
+Oskar Klein Center at Stockholm University. 
+I am a theoretical astrophysicist who works on modelling and closely with data where I utilise
+statistical techniques to interpret the observations of electromagnetic transients, 
+and gravitational waves involving neutron-star binaries. 
+I am particularly interested in the multi-messenger astrophysics of neutron star mergers, 
+and the lightcurves of electromagnetic transients like GRBs, supernovae, TDEs, and kilonovae,
+You may sometimes see me working on neutron star formation and evolution as well. 
+
+I am a member of numerous collaborations working on electromagnetic transients and gravitational waves, 
+including the LIGO Scientific Collaboration (LSC) and 
+the Transients and Variables group in the Vera C. Rubin Observatory.
 
 # Recent News
+* 25th June 2025: Das et al. 2025 - _Low-Luminosity Type IIP Supernovae from the Zwicky Transient Facility Census of the Local Universe. II: Lightcurve Analysis_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.20068)
 * 23th-27th June 2025: This week I am in Cork, attending the EAS meeting. I am giving an invited talk Fast X-ray transients, and another talk on kilonovae. 
 * 13th June 2025: Gangopadhyay et al. 2025 - _SN 2023xgo: Helium rich Type Icn or Carbon-Flash Type Ibn supernova?_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.10700).
 * 4th June 2025: Sarin et al. 2025 - _Surrogate models for lightcurves and photosphere properties of Type II supernovae_ submitted to MNRAS. Check it out on [arXiv](https://arxiv.org/abs/2506.02107).
