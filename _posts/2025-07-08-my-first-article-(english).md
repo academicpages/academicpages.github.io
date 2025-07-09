@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>"We Made It": A National Trauma in the First-Person Plural</title>
+    <title>"We made it": A national trauma in the first-person plural</title>
     <style>
         /* General Page Style */
         body {
@@ -105,15 +105,15 @@
     <main>
         <article class="article-container">
             
-            <h1>“We Made It”: A National Trauma in the First-Person Plural</h1>
+            <h1>“We Made It”: A national trauma in the first-person plural</h1>
             <div class="article-meta">Published: July 08, 2025</div>
             <hr>
 
             <p>Monday, June 2, 2025, Paris. Having finished the last exam of my finals two weeks ago, I now have all the time in the world to devote to the subject of my summer internship, which focuses on a fascinating amalgam of mathematical ideas and physical reality within the framework of General Relativity. And yet, as I begin to study, an inexplicable restlessness prevents my mind from concentrating. An unexpected anguish that, over time, morphs into a soul-crushing anxiety, rendering me incapable not only of soothing it, but more importantly, of rationalizing it, interpreting it, and identifying the mechanism that triggers it. Who would have thought that, after hours of contemplation and ruling out all possible culprits, a random glance at the date on my phone screen would provide the answer: it was the starting day of the Panhellenic Exams in Greece!</p>
 
-            <p>It would not be unreasonable for one to wonder how the administration of a Mathematics exam in Greece could negatively affect the psychological state of a university student in France. Someone who has no contact whatsoever with the Greek educational system and whose professional career is already far removed from Greece. Even more so when this person was, just the previous year, a top-scoring student of that very system, admitted to the highest-ranking department of his scientific field (the School of Electrical and Computer Engineering at the National Technical University of Athens). A school he decided not to attend, choosing instead to move abroad to pursue his dream in theoretical-mathematical physics research, at a university that is second to none (the University of Paris-Saclay, ranked no. 12 in the world on the 2024 Shanghai Ranking and contributing to 15% of France's research activity). Even if so many facts seem to contradict this reality, the reality persists: during the 2024 Panhellenic Exams, he did not feel the anxiety he feels now at the mere mention of them, at the thought of them, at the memory of their existence...</p>
+            <p>It would not be unreasonable for one to wonder how the administration of a Mathematics exam in Greece could negatively affect the psychological state of a university student in France. Someone who has no contact whatsoever with the Greek educational system and whose professional career is already far removed from Greece. Even more so when this person was, just the previous year, a top-scoring student of that very system, admitted to the highest-ranking department of his scientific field (the School of Electrical and Computer Engineering at the National Technical University of Athens). A school he decided not to attend, choosing instead to move abroad to pursue his dream in theoretical-mathematical physics research, at a university that is second to none (the University of Paris-Saclay, ranked no. 12 in the world on the 2024 Shanghai Ranking and contributing to 15% of France's research activity). Even if so many facts seem to contradict this reality, it persists: during the 2024 Panhellenic Exams, he did not feel the anxiety he feels now at the mere mention of them, at the thought of them, at the memory of their existence...</p>
             
-            <p>The "heavy and unbearable" name of the Panhellenic Exams haunts even the most talented and disciplined young Greeks—even the talented-and-disciplined who are, in theory, "invulnerable"—creating a nightmare in their minds over an institution that, if you think about it, is nothing more than a simple four-day examination process. Of course, the scar it leaves on their consciousness, etched by years of silent preparation, is so deep that it is no longer in their hands to not feel anxious, to not be terrified, whether they fail or succeed, whether the exams are approaching or are long past.</p>
+            <p>The "heavy and unbearable" name of the Panhellenic Exams haunts even the most talented and disciplined young Greek who are, in theory "invulnerable", creating a nightmare in their minds over an institution that, if you think about it, is nothing more than a simple four-day examination process. Of course, the scar it leaves on their consciousness, etched by years of silent preparation, is so deep that it is no longer in their hands to not feel anxious, to not be terrified, whether they fail or succeed, whether the exams are approaching or are long past.</p>
 
             <p>I could use frightening terms to describe this phenomenon, like "brainwashing" or "psychological manipulation," but I believe the one that best fits all the conditions is this:</p>
 
