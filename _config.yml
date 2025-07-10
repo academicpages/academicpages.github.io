@@ -180,11 +180,11 @@ collections:
 
   myposts:
     output: true
-    permalink: /mypost/:year/:month/:day/:title
+    permalink: /myposts/:year/:month/:day/:title
 
  mynon_skills:
     output: true
-    permalink: /mypost/:year/:month/:day/:title
+    permalink: /mynon_skills/:year/:month/:day/:title
     
 # Defaults
 defaults:
