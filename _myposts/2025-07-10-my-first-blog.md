@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "我的第一篇自定义博客"
+title: "hellokitty!"
 date: 2025-07-10
-excerpt: 这是摘要内容，显示在列表中。
+permalink: /myposts/2025/07/hello/
+tags:
+    - hellokitty
 ---
-正文内容从这里开始……
 
-
-
+Hello! Welcome to my personal homepage.
