@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
- mynonskills:
+  mynonskills:
     output: true
     permalink: /mynonskills/:year/:month/:day/:title
     
