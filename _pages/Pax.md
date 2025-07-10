@@ -33,7 +33,7 @@ The Pax Narca Files generó un amplio debate nacional e impulsó acciones estata
 </ul>
 </p>
 
-<strong>2.3.</strong> En <a href="https://www.corriere.it/esteri/25_luglio_06/una-base-militare-insieme-alla-ue-cosi-l-ecuador-puo-battere-i-narcos-4e26d266-0980-461b-9b83-d1cfac3c1xlk.shtml">junio de 2025</a>, la <strong>Asamblea Nacional</strong> aprobó un proyecto de reforma constitucional para eliminar la prohibición de instalación de bases militares extranjeras en territorio ecuatoriano. El referéndum correspondiente se realizará a finales de 2025.
+<p style="text-align: justify; font-size: 12pt;"><strong>2.3.</strong> En <a href="https://www.corriere.it/esteri/25_luglio_06/una-base-militare-insieme-alla-ue-cosi-l-ecuador-puo-battere-i-narcos-4e26d266-0980-461b-9b83-d1cfac3c1xlk.shtml">junio de 2025</a>, la <strong>Asamblea Nacional</strong> aprobó un proyecto de reforma constitucional para eliminar la prohibición de instalación de bases militares extranjeras en territorio ecuatoriano. El referéndum correspondiente se realizará a finales de 2025.</p>
 
 <hr>
 <br>
