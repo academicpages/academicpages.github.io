@@ -5,10 +5,8 @@ permalink: /Pax/
 author_profile: true
 ---
 
-<br>
-
 <div style="text-align: right; margin-bottom: 1em; font-size: 14px;">
-  <strong style="margin-right: 8px;">🌐 Translate:</strong>
+  <strong style="margin-right: 8px;"></strong>
   <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://arduinotomasi.github.io/Pax/" target="_blank" style="margin: 0 6px; text-decoration: none;">
     <img src="https://flagcdn.com/us.svg" width="20" style="vertical-align: middle;"> EN
   </a>
@@ -20,8 +18,6 @@ author_profile: true
   </a>
 </div>
 
-
-<br>
 
 
 <p style="text-align: justify; font-size: 12pt; line-height: 1.6;">
