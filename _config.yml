@@ -9,27 +9,27 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Lorenzo Cappiello"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Lorenzo"
+description              : &description "PhD Student in Computational Social Cognition"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Capplor/lorenzo-cappiello.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "IMG_1147.JPG"
+  name             : "Lorenzo Cappiello"
+  pronouns         : "he/him"  
+  bio              : "Just a researcher trying to understand how we understand each others"
+  location         : "London, UK"
+  employer         : "Kings College London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lorenzo.1.cappiello@kcl.ac.uk" 
 
   # Academic websites
   academia         : # URL
