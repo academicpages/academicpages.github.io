@@ -5,8 +5,27 @@ permalink: /Pax/
 author_profile: true
 ---
 
+<br>
+
+<div style="text-align: right; margin-bottom: 1em; font-size: 14px;">
+  <strong style="margin-right: 8px;">🌐 Translate:</strong>
+  <a href="https://translate.google.com/translate?hl=en&sl=es&u=https://arduinotomasi.github.io/Pax/" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://flagcdn.com/us.svg" width="20" style="vertical-align: middle;"> EN
+  </a>
+  <a href="https://translate.google.com/translate?hl=fr&sl=es&u=https://arduinotomasi.github.io/Pax/" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://flagcdn.com/fr.svg" width="20" style="vertical-align: middle;"> FR
+  </a>
+  <a href="https://translate.google.com/translate?hl=it&sl=es&u=https://arduinotomasi.github.io/Pax/" target="_blank" style="margin: 0 6px; text-decoration: none;">
+    <img src="https://flagcdn.com/it.svg" width="20" style="vertical-align: middle;"> IT
+  </a>
+</div>
+
+
+<br>
+
+
 <p style="text-align: justify; font-size: 12pt; line-height: 1.6;">
-"The Pax Narca Files" compila mis 13 artículos de investigación sobre un período crítico en la historia ecuatoriana: la expulsión de los Estados Unidos de la Base de Manta en 2009. Mi análisis, que combina métodos estadísticos con narrativa periodística, revela consistentemente un doble fenómeno: el fortalecimiento de estructuras criminales y un esfuerzo sistemático por encubrir su impacto en las cifras oficiales. A través de mapeos geográficos, análisis temporales y estudios comparativos, documento cómo las muertes violentas "de intención no determinada" aumentaron significativamente en zonas clave del narcotráfico, mientras las estadísticas oficiales mostraban una aparente reducción de la violencia, sugiriendo un maquillaje institucional de la realidad criminal del país. La investigación también evidencia otras dinámicas asociadas al crimen organizado, como el incremento sin precedentes en las denuncias de personas desaparecidas y casos de trata de personas tras el cierre de la base, fortaleciendo la tesis de un deterioro generalizado de la seguridad ciudadana bajo un manto de opacidad estadística.
+"The Pax Narca Files" compila mis 13 artículos de investigación sobre un período crítico en la historia ecuatoriana: la expulsión de los Estados Unidos de la Base de Manta en 2009. Mi análisis, que combina métodos estadísticos con narrativa periodística y literaria, revela consistentemente un doble fenómeno: el fortalecimiento de estructuras criminales y un esfuerzo sistemático por encubrir su impacto en las cifras oficiales. A través de mapeos geográficos, análisis temporales y estudios comparativos, documento cómo las muertes violentas "de intención no determinada" aumentaron significativamente en zonas clave del narcotráfico, mientras las estadísticas oficiales mostraban una aparente reducción de la violencia, sugiriendo un maquillaje institucional de la realidad criminal del país. La investigación también evidencia otras dinámicas asociadas al crimen organizado, como el incremento sin precedentes en las denuncias de personas desaparecidas y casos de trata de personas tras el cierre de la base, fortaleciendo la tesis de un deterioro generalizado de la seguridad ciudadana bajo un manto de opacidad estadística.
 </p>
 
 <hr style="margin: 2rem 0;">
