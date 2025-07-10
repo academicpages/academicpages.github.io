@@ -182,7 +182,10 @@ collections:
     output: true
     permalink: /mypost/:year/:month/:day/:title
 
-   
+ mynon_skills:
+    output: true
+    permalink: /mypost/:year/:month/:day/:title
+    
 # Defaults
 defaults:
   # _pages
