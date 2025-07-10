@@ -178,7 +178,7 @@ collections:
   publications:
     output: true
 
-  mypost:
+  myposts:
     output: true
     permalink: /mypost/:year/:month/:day/:title
 
