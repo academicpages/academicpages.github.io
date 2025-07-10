@@ -11,8 +11,28 @@ redirect_from:
 
 
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
+
+{% assign posts = site.publications | sort: 'date' | reverse %}
+{% assign years = "" | split: "" %}
+
+{% for post in posts %}
+  {% assign year = post.date | date: "%Y" %}
+  {% unless years contains year %}
+    <h2 id="{{ year }}">{{ year }}</h2>
+    {% assign years = years | push: year %}
+  {% endunless %}
+
+  <div class="blog-entry">
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
+    <p>
+      {% if post.excerpt %}
+        {{ post.excerpt | strip_html | truncatewords: 40 }}
+      {% else %}
+        {{ post.content | strip_html | truncatewords: 40 }}
+      {% endif %}
+    </p>
+    <hr>
+  </div>
 {% endfor %}
