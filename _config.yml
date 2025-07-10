@@ -177,7 +177,11 @@ kramdown:
 collections:
   publications:
     output: true
-    
+
+  mypost:
+    output: true
+    permalink: /mypost/:year/:month/:day/:title
+   
 # Defaults
 defaults:
   # _pages
