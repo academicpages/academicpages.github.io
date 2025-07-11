@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "马可的学术主页"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "马 可"
 description              : &description "博士"
