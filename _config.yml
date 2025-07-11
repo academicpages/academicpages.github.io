@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Juan Sebastian Rodriguez"
+  pronouns         : #he/him  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Cambride,MA"
+  employer         : "Harvard University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jrodriguez@hks.harvard.edu" 
 
   # Academic websites
   academia         : # URL
