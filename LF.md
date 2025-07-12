@@ -1,3 +1,11 @@
+---
+title: 'El antropófago'
+date: 2025-07-12
+permalink: /LF/
+tags:
+
+---
+
 Allí está, en la Penitenciaría, asomando por entre las rejas su cabeza grande y oscilante, el antropófago.
 
 Todos lo conocen. Las gentes caen allí como llovidas por ver al antropófago. Dicen que en estos tiempos es un fenómeno. Le tienen recelo. Van de tres en tres, por lo menos, armados de cuchillas, y cuando divisan su cabeza grande se quedan temblando, estremeciéndose al sentir el imaginario mordisco que les hace poner carne de gallina. Después le van teniendo confianza, los más valientes han llegado hasta a provocarle, introduciendo por un instante un dedo tembloroso por entre los hierros. Así repetidas veces como se hace con las aves enjauladas que dan picotazos.
