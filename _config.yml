@@ -178,27 +178,27 @@ collections:
   publications:
     output: true
 
-  orinposts:
+  myorinposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
-  j6posts:
+  myj6posts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
-  languageposts:
+  mylanguageposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
-  adposts:
+  myadposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
-  cgposts:
+  mycgposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
     
-  nonskills:
+  mynonskillposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
     
