@@ -178,7 +178,11 @@ collections:
   publications:
     output: true
 
-  myorinposts:
+  myadposts:
+    output: true
+    permalink: /myposts/:year/:month/:day/:title
+
+  mycgposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
 
@@ -189,19 +193,15 @@ collections:
   mylanguageposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
-
-  myadposts:
-    output: true
-    permalink: /myposts/:year/:month/:day/:title
-
-  mycgposts:
-    output: true
-    permalink: /myposts/:year/:month/:day/:title
     
   mynonskillposts:
     output: true
     permalink: /myposts/:year/:month/:day/:title
-    
+
+  myorinposts:
+    output: true
+    permalink: /myposts/:year/:month/:day/:title
+
 # Defaults
 defaults:
   # _pages

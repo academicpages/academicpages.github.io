@@ -1,18 +1,19 @@
+
 ---
 layout: archive
-title: "J6推理"
-permalink: /J6推理/
+title: "编程&工具"
+permalink: /编程&工具/
 author_profile: true
 redirect_from:
-  - /J6推理
-  - /J6推理.html
+  - /编程&工具
+  - /编程&工具.html
 
 
 ---
 
 {% include base_path %}
 {% capture written_year %}'None'{% endcapture %}
-{% for post in site.myj6posts %}
+{% for post in site.mylanguageposts %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
@@ -20,3 +21,7 @@ redirect_from:
   {% endif %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+
+
