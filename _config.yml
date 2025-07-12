@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : # "lix19937"
+  name             : "Jinwen Li"
   avatar           : "profile.png"
-  bio              : # "Keep learning"
-  #location         : "Shanghai"
-  employer         :
+  bio              : "Keep learning"
+  location         : "China"
+  employer         :  #
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "lix19937@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              :  https://lix19937.github.io
   bitbucket        :
   codepen          :
   dribbble         :
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
 
 
 # Reading Files
