@@ -2,7 +2,7 @@ var addressPoints = [
   [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.4893335,
-    -0.14405508452768728
+    -0.1440551
   ],
   [
     "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
