@@ -1,0 +1,105 @@
+/* ==========================================================================
+   SHARED THEME SETTINGS
+   ========================================================================== */
+
+/* ==========================================================================
+   TYPOGRAPHY
+   ========================================================================== */
+
+/* Used to set the size for <em> */
+$doc-font-size              : 16;
+
+/* Paragraph indention */
+$paragraph-indent           : false; // true, false (default)
+$indent-var                 : 1.3em;
+
+/* System typefaces */
+$serif                      : Georgia, Times, serif;
+$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+
+/* Sans serif typefaces */
+$sans-serif-narrow          : $sans-serif;
+$helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+
+/* Serif typefaces */
+$georgia                    : Georgia, serif;
+$times                      : Times, serif;
+$bodoni                     : "Bodoni MT", serif;
+$calisto                    : "Calisto MT", serif;
+$garamond                   : Garamond, serif;
+
+/* Type scale */
+$type-size-1                : 2.441em;  // ~39.056px
+$type-size-2                : 1.953em;  // ~31.248px
+$type-size-3                : 1.563em;  // ~25.008px
+$type-size-4                : 1.25em;   // ~20px
+$type-size-5                : 1em;      // ~16px
+$type-size-6                : 0.75em;   // ~12px
+$type-size-7                : 0.6875em; // ~11px
+$type-size-8                : 0.625em;  // ~10px
+
+$global-font-family         : $sans-serif;
+$header-font-family         : $sans-serif;
+$caption-font-family        : $serif;
+
+/* ==========================================================================
+   Breakpoints
+   ========================================================================== */
+
+@include breakpoint-set("to ems", true);
+
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 900px !default;
+$large                      : 925px !default;
+$x-large                    : 1280px !default;
+
+/* ==========================================================================
+   Grid
+   ========================================================================== */
+
+$right-sidebar-width-narrow : auto;
+$right-sidebar-width        : auto;
+$right-sidebar-width-wide   : auto;
+
+$susy: (
+    columns: 12,
+    column-width: 120px,
+    gutters: 1/4,
+    math: fluid,
+    output: float,
+    gutter-position: after,
+    container: $large,
+    global-box-sizing: border-box,
+);
+
+/* ==========================================================================
+   BRAND COLORS
+   ========================================================================== */
+
+$behance-color              : #1769FF;
+$bluesky-color              : #1184fe;
+$dribbble-color             : #ea4c89;
+$facebook-color             : #3b5998;
+$flickr-color               : #ff0084;
+$foursquare-color           : #0072b1;
+$github-color               : #171516;
+$google-plus-color          : #dd4b39;
+$instagram-color            : #517fa4;
+$kaggle-color               : #20c0ff;
+$lastfm-color               : #d51007;
+$linkedin-color             : #007bb6;
+$mastodon-color             : #6364ff;
+$orcid-color                : #a6ce39;
+$pinterest-color            : #cb2027;
+$rss-color                  : #fa9b39;
+$soundcloud-color           : #ff3300;
+$stackoverflow-color        : #fe7a15;
+$tumblr-color               : #32506d;
+$twitter-color              : #55acee;
+$vimeo-color                : #1ab7ea;
+$vine-color                 : #00bf8f;
+$youtube-color              : #bb0000;
+$xing-color                 : #006567;
+   
