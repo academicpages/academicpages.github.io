@@ -59,6 +59,20 @@ function toggleBibtex(articleid) {
 </li>
 
 
+<!-- Item: Tao2022ADVEI-->
+<li ><p>
+<b>Transformer-based hierarchical latent space VAE for interpretable remaining useful life prediction</b><br>
+<b>Tao Jing</b>, Pai Zheng, LIqiao Xia, Tianyuan Liu<br>
+
+<i>Advanced Engineering Informatics</i>,
+
+2022<br>
+<a href="javascript:toggleBibtex('Tao2022ADVEI')" class="textlink"></a>
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S1474034622002397" class="textlink" target="_blank">[link]</a>
+</p>
+</li>
+
+
 
 <!-- Item: Tao2021TII-->
 <li ><p>
