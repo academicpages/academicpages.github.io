@@ -1,56 +1,153 @@
+# Hello there, I'm [Your Name]!
+
+👤 I'm a 3rd-year undergraduate student at UIT, majoring in Computer Science..
+
+🔬 My research interests are in Large Language Model, AI-agent, chatbot and NLP field in general .
+
+<!-- 📚 I'm currently working towards my Master's Thesis in the field of [specific field] and [another specific area]. -->
+
+<!-- 🤝 I am also interested in assisting others on their path in the world of [your field] and academia. -->
+
+## Selected Experience
+
+<!-- ### 🌐 Open Source Contributions -->
+
+<!-- I have experience contributing to [Project Name] a large open-source project for [project description and purpose].
+
+Moreover, I have published a [publication type] at the [Conference/Journal Name] and in the [Journal/Publication Name]. -->
+
+<!-- (📝 Recently, I have submitted a second one.) -->
+
+### 📄 Reimplementing and Reproducing Papers
+
+I have experience with independent research through implementing fundamental deep learning architectures from scratch. I have implemented the **Transformer Architecture** from the seminal paper "Attention Is All You Need" by Vaswani et al. (2017), building every core component from basic PyTorch modules to understand the underlying mechanisms.
+
+**Key Implementation Features:**
+
+- **From-scratch development**: Built all components including Multi-Head Self-Attention, Positional Encoding, Encoder-Decoder layers, and masking mechanisms without using high-level abstractions
+- **End-to-end pipeline**: Implemented complete workflow from data preprocessing (Multi30k German-English dataset) to model training and inference
+- **Comprehensive documentation**: Provided detailed comments explaining tensor shapes, architectural decisions, and the purpose of each operation
+- **Practical application**: Demonstrated the model's effectiveness on neural machine translation tasks
+
+The implementation is contained in a well-structured Jupyter notebook that serves as both a learning resource and a functional translation system. This project showcases my ability to understand complex research papers and translate theoretical concepts into working code.
+
+**Repository**: [Transformer Architecture Implementation](https://github.com/nth4002/Transformer-Architecture-Implementation)
+
+To accompany this work, I have submitted a blog post to the [Notion blog](https://www.notion.so/Attention-is-all-you-need-explained-22de89630a7680f4a7b7feb57d52cff4?source=copy_link) communicating the paper's theory and my results.
+
+### 🤖 RAG Chatbot Application Development
+
+I have developed a comprehensive RAG (Retrieval-Augmented Generation) Chatbot application that demonstrates advanced conversational AI capabilities. This project features:
+
+- **Document-based conversation**: Users can upload documents that are indexed and stored in a vector database for contextual responses
+- **Chat history management**: Configured prompt engineering to maintain conversation context across multiple interactions
+- **Multi-model support**: Integration with Gemini-1.5-flash and other language models with easy model switching
+- **Full-stack implementation**:
+  - Frontend built with React.js running on localhost:3000
+  - Backend API server using FastAPI/Uvicorn on localhost:8000
+  - Docker containerization for easy deployment
+- **Vector search integration**: Documents are processed and stored in vectorstore for efficient retrieval during conversations
+- **Persistent chat sessions**: Users can create new conversations or return to previous chat histories
+
+The application combines retrieval-augmented generation with conversational memory, allowing for more contextually aware and document-grounded responses. This project showcases practical implementation of modern NLP techniques in a production-ready chatbot interface.
+
+**Repository**: [RAG-Chatbot](https://github.com/nth4002/RAG-Chatbot-App-Project)
+
+### 😃 End-to-End MLOps Pipeline Implementation
+
+I have developed a comprehensive MLOps project that demonstrates advanced machine learning operations capabilities through a complete sentiment analysis system. This project showcases the full ML lifecycle from development to production deployment with enterprise-grade monitoring and observability.
+
+**Project Architecture & Implementation:**
+
+- **ML Development & Experiment Tracking (Phase 1)**:
+
+  - Implemented multiple model architectures (Logistic Regression, SVM, Naive Bayes, Bidirectional LSTM)
+  - Achieved 91.30% accuracy with LSTM model on IMDB dataset
+  - Integrated MLflow for experiment tracking and model registry
+  - Implemented distributed training with Ray framework
+  - Automated hyperparameter optimization using Optuna (100+ trials)
+  - Data versioning and validation with DVC and Great Expectations
+
+- **Containerization & API Deployment (Phase 2)**:
+
+  - Built production-ready FastAPI service with interactive web interface
+  - Multi-stage Docker containerization for optimized deployment
+  - REST API endpoints with automatic documentation (Swagger UI)
+  - Docker Hub publishing with automated CI/CD deployment scripts
+  - Health checks and error handling for production reliability
+
+- **Monitoring & Observability (Phase 3)**:
+  - Complete monitoring stack: Prometheus + Grafana + Alertmanager
+  - Infrastructure monitoring: CPU, memory, disk I/O, network metrics via Node Exporter
+  - Application monitoring: Request rates, error rates, latency percentiles
+  - Model monitoring: Inference speed, confidence scores, prediction distributions
+  - Centralized logging: Loki + Promtail for multi-source log aggregation
+  - Automated alerting: Configurable thresholds for error rates, resource usage, model confidence
+
+**Technical Stack:**
+
+- **ML/Data**: TensorFlow, Scikit-learn, Pandas, NLTK, MLflow, Ray, Optuna
+- **API/Web**: FastAPI, Uvicorn, Jinja2, Docker, Docker Compose
+- **Monitoring**: Prometheus, Grafana, Loki, Promtail, Alertmanager, Node Exporter
+- **DevOps**: DVC, MinIO, Great Expectations, Docker Hub, Production deployment scripts
+
+**Key Features:**
+
+- Model comparison across traditional ML and deep learning approaches
+- Real-time traffic generation and testing capabilities
+- Comprehensive data quality validation and pipeline reproducibility
+- Production-grade observability with custom metrics and alerting
+- Interactive web interface for model testing and demonstration
+
+**Repository**: [MLOps Getting Started](https://github.com/PTD504/MLOps-getting-started)
+
+This project demonstrates practical implementation of modern MLOps practices, combining machine learning engineering with DevOps principles to create a robust, scalable, and maintainable ML system suitable for production environments.
+
+<!-- ## Professional Experience -->
+
+<!-- Additionally, I have professional experience working as an [Job Title] at the [Institution/Company Name]. -->
+<!-- There I work on [specific work description and technologies used]. -->
+
+<!-- ## Teaching and Community Contributions
+
+To further contribute to the [Field/Community Name], I have been involved in [teaching/mentoring activities] and [other contributions].
+
+I have experience in [specific teaching areas] and have helped [number] students with [specific subjects/areas]. -->
+
+## Skills and Expertise
+
+### Technical Skills
+
+- **Programming Languages**: Python, Javascript, C++, HTML, CSS
+- **Frameworks and Tools**: Pytorch, Langchain, MongoDB, node.js, react.js, docker, github
+<!-- - **Research Methods**: [Research methodologies] -->
+
+<!-- ### Research Areas -->
+
+<!-- - [Research Area 1] -->
+<!-- - [Research Area 2] -->
+<!-- - [Research Area 3] -->
+
+<!-- ## Publications and Presentations -->
+
+<!-- ### Recent Publications -->
+
+<!-- - [Publication Title]. _[Journal/Conference Name]_. [Year]. -->
+<!-- - [Another Publication Title]. _[Journal/Conference Name]_. [Year]. -->
+
+<!-- ### Conference Presentations -->
+
+<!-- - [Presentation Title]. [Conference Name], [Location], [Date]. -->
+<!-- - [Another Presentation Title]. [Conference Name], [Location], [Date]. -->
+
+## Contact Information
+
+📧 Email: [your.email@university.edu]
+🐦 Twitter: [@yourhandle]
+💼 LinkedIn: [Your LinkedIn Profile]
+🐙 GitHub: [Your GitHub Profile]
+📺 YouTube: [Your YouTube Channel]
+
 ---
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+_Currently based in [Your Location]_
