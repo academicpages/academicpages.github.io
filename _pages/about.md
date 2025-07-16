@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hello there, I'm [Your Name]!
+# Hello there, I'm Thanh Hung, my English name is Felix!
 
 👤 I'm a 3rd-year undergraduate student at UIT, majoring in Computer Science..
 
