@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Architects of Logic or Archaeologists of Truth?</title>
     <style>
         /* General Styles for the Body */
         body {
@@ -241,7 +240,7 @@
         <p>In the 19th century, however, mathematicians dared to do the unthinkable: they challenged the Parallel Postulate. What would happen if we changed it? What if we assume that "through a point not on a given line, no line parallel to it can be drawn"? The answer is simple: Spherical Geometry emerges, the geometry that holds on the surface of a sphere, like the Earth. Here, "straight lines" are great circles (like meridians), and the sum of the angles of a triangle is always greater than 180 degrees (I challenge you to find the nearest globe and draw a triangle on it yourself to see). Correspondingly, if we assume that "infinitely many parallel lines can be drawn," we get Hyperbolic Geometry (this is the geometry that corresponds, schematically, to a saddle). The most amazing thing is that these geometries are not "wrong." They are perfectly consistent mathematical systems with enormous practical applications. Spherical Geometry is the foundation of modern navigation, aviation, cartography, and astronomy, as it allows for the precise calculation of the shortest path on the curved surface of the Earth or other spherical bodies. The choice of the "correct" system, therefore, is not a matter of absolute truth, but a matter of the problem we are called to solve.</p>
         
         <figure class="article-image">
-            <img src="images/Screenshot 2025-07-17 204407.png" alt="Diagram comparing Spherical and Hyperbolic Geometry.">
+            <img src="https://i.namu.wiki/i/gzWc04honDQclk6xJR82wKHcwe0hBJ-zhalnY01bJhBur5XbLLMzxShf01DHlsmPjpscm1mmeN2ykPuzUPRi0izg6lyFzwfnzux-zx91mOFNeCUKrlrWyg3Uy1RbyCDbOHkNb7Rgf6GME3T2PWgKww.webp" alt="Diagram comparing Spherical and Hyperbolic Geometry.">
             <figcaption>A visual representation of Spherical Geometry (left) and Hyperbolic Geometry (right). Unlike flat Euclidean geometry, the properties of shapes change dramatically here: on a sphere, "parallel" lines eventually intersect and the sum of a triangle's angles exceeds 180°, while on a hyperbolic surface, "parallel" lines diverge and the sum is less than 180°.</figcaption>
         </figure>
 
