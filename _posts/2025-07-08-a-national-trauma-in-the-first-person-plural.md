@@ -105,7 +105,7 @@
     <main>
         <article class="article-container">
             
-            <h1>“We Made It”: A national trauma in the first-person plural</h1>
+           
             <div class="article-meta">Published: July 08, 2025</div>
             <hr>
 
