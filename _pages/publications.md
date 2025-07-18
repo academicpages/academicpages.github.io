@@ -7,6 +7,15 @@ author_profile: true
 
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=SIJPeoYAAAAJ&hl=en).
 <ol>
+<li><b> <a href="https://aclanthology.org/2024.emnlp-main.301/">Scaling Synthetic Logical Reasoning Datasets with Context-Sensitive Declarative Grammars</a></b> <br>
+<b>Damien Sileo</b><br>
+<i>Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing</i><br></li>
+<li><b> <a href="https://aclanthology.org/2024.lrec-main.1361/">The Data Provenance Initiative: A Large-Scale Audit of Dataset Licensing in AI</a></b> <br>
+Shayne Longpre, Robert Mahari, Anthony Chen, Naana Obeng-Marnu, <b>Damien Sileo</b>, William Brannon, Niklas Muennighoff, Nathan Khazam, Jad Kabbara, Kartik Perisetla, Xinyi (Alexis) Wu, Enrico Shippole, Kurt Bollacker, Tongshuang Wu, Luis Villa, Sandy Pentland, Sara Hooker<br>
+<i>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</i><br></li>
+<li><b> <a href="https://doi.org/10.1038/s42256-024-00878-8">A large-scale audit of dataset licensing and attribution in AI</a></b> <br>
+Shayne Longpre, Robert Mahari, Anthony Chen, Naana Obeng-Marnu, <b>Damien Sileo</b>, William Brannon, Niklas Muennighoff, Nathan Khazam, Jad Kabbara, Kartik Perisetla, Xinyi (Alexis) Wu, Enrico Shippole, Kurt Bollacker, Tongshuang Wu, Luis Villa, Sandy Pentland, Sara Hooker<br>
+<i>Nature Machine Intelligence</i><br></li>
 <li><b> <a href="https://arxiv.org/abs/2305.03353">MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic</a></b> <br> 
     <b>Damien Sileo</b>, Antoine Lernould<br> 
     <i>Proceeding of EMNLP2023 Findings</i><br></li>
