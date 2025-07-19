@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kadek Hengki Primayana"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher | Lecturer at @institutmpukuturan | Currently Focuses on Research about Elementary Education | Mendeley Advisor | figshare Ambassador"
+  location         : "Bali, Indonesia"
+  employer         : "Institut Agama Hindu Negeri Mpu Kuturan"
   uri              : # URL
   email            : "none@example.org" 
 
