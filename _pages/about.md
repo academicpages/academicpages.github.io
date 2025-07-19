@@ -10,7 +10,7 @@ redirect_from:
 
 
 马可，设计学博士，[重庆大学](https://www.cqu.edu.cn/)艺术学院设计学系讲师，[湖南大学设计艺术学院](http://design.hnu.edu.cn/)设计学博士，本硕博均毕业于[湖南大学](http://www.hnu.edu.cn/)，师从[何人可](http://design.hnu.edu.cn/info/1023/2729.htm)教授。曾获得国家留学基金委(CSC)资助，公派赴意大利[米兰理工大学设计学院](http://www.dipartimentodesign.polimi.it/en/)进行了为期一年的博士联合培养。此外，硕士期间曾赴中国[台湾实践大学设计学院](http://www.scdesign.usc.edu.tw/)进行了为期半年的交流学习。
-现担任SSCI 1区《International Journal of Human-Computer Interaction》、SSCI 1区《Psychology Research and Behavior Management》、SSCI 1区《Frontiers in Psychology》、SCI&SSCI 1区《Frontiers in Public Health》、SCI 2区《PLoS One》等期刊的审稿人。
+现担任SSCI 1区《International Journal of Human-Computer Interaction》、SSCI 1区《Psychology Research and Behavior Management》、SCI 1区《BMC Public Health》、SSCI 1区《Frontiers in Psychology》、SCI&SSCI 1区《Frontiers in Public Health》、SCI 2区《PLoS One》等期刊的审稿人。
 
 
 研究方向
