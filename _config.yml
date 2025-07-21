@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Qichen Guo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I worked as a Ph. D student in the department of Mehcanical Engineering, National University of Singapore. I previously worked as a master student in Zhejiang University, jointly at RMIT University. I received my bachelor's degree from Dalian University of Technology"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
