@@ -16,21 +16,36 @@ Education
 
 Work Experience
 ======
-* **Web Developer Student Assistant**, University of Texas at Arlington (Nov 2022 – May 2024)
-  - Managed content for 50+ university websites, ensuring adherence to branding and accessibility standards.
-  - Led over 10+ monthly tasks using ServiceNow to enhance operational efficiency.
-  - Supervisor: Director
 
-* **Backend Developer/Data Analyst**, Infosys (Jan 2021 – June 2022)
-  - Developed a cross-functional data visualization tool to monitor $11.5M in monthly revenue, enhancing financial oversight.
-  - Led migration efforts across 4 servers on Oracle Cloud Infrastructure, improving system scalability by 12%.
-  - Supervisor: Principal Architect
+* **Web Software Specialist I**, The University of Texas at Arlington (Apr 2025 – Present)
+  - Audited and remediated WCAG 2.1 AA issues across Sitecore and WordPress sites using Siteimprove, improving accessibility.
+  - Focused on user-centered design and component-based architecture.
 
-* **Software Developer Intern**, Winning Edge Labs (April 2019 – June 2019)
-  - Collaborated on chatbot development, reducing registration time by 25%.
-  - Performed advanced data analysis using Excel and VLOOKUP to generate reports weekly.
-  - Supervisor: Team Lead
+* **Lecturer in Computer Science**, Lincoln University of Missouri (Jan 2025 – Present)
+  - Created and delivered eight core computer science courses from scratch.
+  - Collaborated on "Computational Auditory Scene Analysis Using Spectral Clustering with Focal Templates."
+  - Partnered with the online learning team to integrate a Retrieval-Augmented Generation system.
+  - Mentored students on AI and database projects leading to successful presentations.
 
+* **Artificial Intelligence Researcher**, The University of Texas at Arlington (Sep 2024 – Jan 2025)
+  - Built nbgrader-ready labs for explainable AI, fairness, privacy, and adversarial ML.
+  - Bench-tested FGSM and DeepFool defenses, reducing adversarial error by 27%.
+  - Curated 30 recent papers into practice modules to keep coursework up to date.
+
+* **Student Assistant – Web Developer**, The University of Texas at Arlington (Nov 2022 – May 2024)
+  - Maintained 266 departmental WordPress sites, ensuring branding and accessibility.
+  - Led Python-driven theme migration, reaching 80% adoption in six months.
+  - Created layouts for research and event sites and fixed metadata across 400 PDFs.
+
+* **System Engineer**, Infosys (Jan 2021 – Jun 2022)
+  - Built a real-time revenue-insights dashboard, cutting reconciliation cycles from weekly to hourly.
+  - Migrated legacy mediation to a Linux cluster, boosting throughput 40% and reducing downtime 30%.
+  - Earned two "Insta Award" honors for delivery excellence.
+
+* **Software Engineer**, Winning Edge Labs Pvt. Ltd. (Apr 2019 – Nov 2020)
+  - Delivered Node/React features and mentored teammates on TDD and API design.
+  - Re-indexed MongoDB and PostgreSQL to reduce query latency from 800 ms to 150 ms.
+  - Introduced Selenium and Postman testing, reducing release bugs by 70%.
 Certifications
 ======
 * Oracle Cloud Infrastructure 2024 Generative AI Certified Professional
