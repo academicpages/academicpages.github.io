@@ -21,12 +21,13 @@ Education
 * MSc. in Data Science, ETH , 2019-2022
 * BSc. in Communication Systems, EPFL, 2016-2019
 
-<!-- Publications
+<!-- 
+Publications
 ====
 {% for post in site.publications reversed %}
   <div class="archive__item">
     <h2 class="archive__item-title" itemprop="headline">
-        <span class="bullet">&#8226;</span> <!-- Bullet Point -->
+        <span class="bullet">&#8226;</span>
         {% if post.link %}
           <a>{{ post.title }}</a> 
         {% else %}
@@ -34,7 +35,8 @@ Education
         {% endif %}
     </h2>
   </div>
-{% endfor %} -->
+{% endfor %} 
+-->
 
 
 <h1>Publications</h1>
