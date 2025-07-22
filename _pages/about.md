@@ -21,7 +21,7 @@ Education
 * MSc. in Data Science, ETH , 2019-2022
 * BSc. in Communication Systems, EPFL, 2016-2019
 
-Publications
+<!-- Publications
 ====
 {% for post in site.publications reversed %}
   <div class="archive__item">
@@ -31,14 +31,10 @@ Publications
           <a>{{ post.title }}</a> 
         {% else %}
           <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-          <!-- <a href="{{ post.paperurl }}" class="btn btn--arxiv--small" 
-            title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Twitter">
-            <i class="fab fa-arxiv" aria-hidden="true" style="margin-right: 4px;"></i>arxiv
-          </a> -->
         {% endif %}
     </h2>
   </div>
-{% endfor %}
+{% endfor %} -->
 
 
 <h1>Publications</h1>
@@ -85,6 +81,42 @@ Publications
     </div>
   {% endfor %}
 </div>
+
+<h1>Publications</h1>
+<div class="publications-list">
+  {% for post in site.publications reversed %}
+    <div class="archive__item">
+      <h2 class="archive__item-title" itemprop="headline">
+        <span class="bullet">&#8226;</span> {{ post.title }}
+      </h2>
+
+      <!-- Optional Metadata -->
+      <p class="archive__item-meta">
+        {{ post.authors }} — {{ post.venue }}{% if post.year %}, {{ post.year }}{% endif %}
+      </p>
+
+      <!-- Link Buttons -->
+      <p class="archive__item-extras">
+        {% if post.arxiv %}
+          <a href="{{ post.arxiv }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-alt"></i> arXiv
+          </a>
+        {% endif %}
+        {% if post.doi %}
+          <a href="https://doi.org/{{ post.doi }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-link"></i> DOI
+          </a>
+        {% endif %}
+        {% if post.pdf %}
+          <a href="{{ post.pdf }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-pdf"></i> PDF
+          </a>
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
 
 
 Contact 
