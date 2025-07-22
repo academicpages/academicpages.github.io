@@ -6,6 +6,8 @@ excerpt: 'We introduce the spiked mixture model (SMM) to address the problem of 
 date: 2025-01-03
 venue: 'preprint'
 paperurl: 'https://arxiv.org/abs/2501.01840'
+arxiv: "https://arxiv.org/abs/2501.01840"
+pdf: "/files/papers/smm_paul_delacour.pdf"
 #citation: 'Delacour, Paul. (2025). &quot;Signal Recovery Using a Spiked Mixture Model.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

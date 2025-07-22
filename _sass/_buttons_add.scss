@@ -1,0 +1,25 @@
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin: 4px 4px 0 0;
+  font-size: 0.9rem;
+  color: #fff;
+  background-color: #007acc;
+  border: none;
+  border-radius: 4px;
+  text-decoration: none;
+  transition: background-color 0.2s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #005fa3;
+}
+
+.btn--small {
+  font-size: 0.8rem;
+  padding: 4px 10px;
+}
+
+.btn i {
+  margin-right: 4px;
+}
