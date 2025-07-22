@@ -40,6 +40,53 @@ Publications
   </div>
 {% endfor %}
 
+
+<h1>Publications</h1>
+<div class="publications-list">
+  {% for post in site.publications reversed %}
+    <div class="archive__item">
+      <h2 class="archive__item-title" itemprop="headline">
+        <span class="bullet">&#8226;</span>
+        {% if post.paperurl %}
+          <a href="{{ post.paperurl }}" target="_blank" rel="noopener noreferrer">
+            {{ post.title }}
+            <i class="fas fa-external-link-alt" style="font-size: 0.8em; margin-left: 6px;" title="External Link"></i>
+          </a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">
+            {{ post.title }}
+          </a>
+        {% endif %}
+      </h2>
+
+      <!-- Optional Metadata -->
+      <p class="archive__item-meta">
+        {{ post.authors }} — {{ post.venue }}{% if post.year %}, {{ post.year }}{% endif %}
+      </p>
+
+      <!-- Optional Buttons -->
+      <p class="archive__item-extras">
+        {% if post.arxiv %}
+          <a href="{{ post.arxiv }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-alt" style="margin-right: 4px;"></i> arXiv
+          </a>
+        {% endif %}
+        {% if post.doi %}
+          <a href="https://doi.org/{{ post.doi }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-link" style="margin-right: 4px;"></i> DOI
+          </a>
+        {% endif %}
+        {% if post.pdf %}
+          <a href="{{ post.pdf }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-file-pdf" style="margin-right: 4px;"></i> PDF
+          </a>
+        {% endif %}
+      </p>
+    </div>
+  {% endfor %}
+</div>
+
+
 Contact 
 =====
  I like getting email. If you want to talk about something I do, send me an [email](mailto:p.l.delacour@tudelft.nl)
