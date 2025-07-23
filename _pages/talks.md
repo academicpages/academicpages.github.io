@@ -7,6 +7,22 @@ author_profile: true
 
 Below you can find some information on talks I have given in the past, in roughly anti-chronological order.
 
+### Extremal Black Branes
+
+Based on [2507.12529](https://arxiv.org/pdf/2507.12529) in collaboration with A. D. Kovacs.
+
+>**Abstract**: The Gregory-Laflamme instability is a small-wavelength instability in the s-wave sector of sub-extremal black branes. It is known that this disappears in the extremal limit. 
+>
+> In this talk, I will demonstrate that extremal black branes instead suffer from the so-called Aretakis instability &mdash; a classical instability already known to afflict extremal black holes. Our derivations of this uses the symmetries of the near-horizon geometry $AdS_{p+2} \times S^{D-p-2}$. In particular, the strength of the Aretakis instability, given by the number of transverse derivatives needed to see non-decay/blow-up at late null times, is determined by the scaling dimensions of fields with respect to the $AdS_{p+2}$-factor in the near-horizon geometry. To demonstrate that this is an instability of the black brane itself, we computed the Kaluza-Klein spectrum of mixed gravitational and form field perturbations in the near-horizon geometry, and confirm that the Aretakis instability is present for extremal black branes, although this is weaker than for extremal black holes.
+>
+> If time permits, I will discuss how the scaling dimensions determine static deformations to the near-horizon geometry of such extremal black branes, and how extremal black branes might (or might not) be subject to UV sensitivity.    
+
+I've had the chance to give this seminar on the following occasions:
+
+- GR24/Amaldi16, Glasgow, Jul 2025
+
+For the most recent slides on this, see [here](../files/talks/branes_slides.pdf).
+
 ### Covariant Actions for 2D Chiral Scalars
 
 Based on [2501.16463](https://arxiv.org/abs/2501.16463) in collaboration with K. Mkrtchyan, E. Joung, and J. Yoon.
@@ -23,7 +39,7 @@ I've had the chance to give this seminar on the following occasions:
 
 For the most recent slides on this, see [here](../files/talks/democracy_slides.pdf).
 
-### Extremal Black Holes 
+### Extremal Black Holes and UV Sensitivity
 
 Based on [2408.05549](https://arxiv.org/abs/2408.05549) in collaboration with C. de Rham and A. J. Tolley. 
 
@@ -38,6 +54,7 @@ I've had the chance to give this seminar on the following occasions:
 - [Theory Colloquium](https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/), Imperial College London, Jul 2024
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
+- Gravity beyond Riemannian Paradigm 2025, Sogang Unviersity, Jun 2025
 
 For the most recent slides on this, see [here](../files/talks/extremality_slides.pdf).
 
