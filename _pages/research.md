@@ -74,8 +74,10 @@ The charge and mass of these black branes are also subject to BPS bounds, which 
 Sub-extremal black branes are subject to the so-called Gregory-Laflamme instability, triggered by perturbations with sufficiently small wavelength. 
 This instability switches off in the extremal limit, which suggests that extremal black branes should be stable. 
 
-In work with A. D. Kovacs, I argue that extremal black branes suffer from a different classical instability &mdash; the so-called the Aretakis instability &mdash; which was already known to afflict extremal black holes.  
-We make the connection to the near-horizon geometry $AdS_{p+2} \times S^{D-p-2}$ explicit by deriving this using the symmetries of the near-horizon.
-In particular, the strength of the Aretakis instability, *i.e.* the number of transverse derivatives needed to see non-decay/blow-up of the fields, is related to their scaling dimensions within the $AdS_{p+2}$-factor.
-To demonstrate this instability even in the absence of additional fields, we compute the Kaluza-Klein spectrum of gravitational and form field perturbations within the near-horizon geometry of these black branes &mdash; we find that this is weaker for the extremal black branes.
-Furthermore, the scaling dimensions also determine the behaviour of static deformations to the near-horizon geometry of the black branes.
+In work with A. D. Kovacs, I argue that extremal black branes suffer from the so-called Aretakis instability, making explicit use of the symmetries of the near-horizon geometry $AdS_{p+2} \times S^{D-p-2}$. 
+This is a classical instability which was already known to afflict extremal black holes. In particular, the strength of the Aretakis instability, *i.e.* the number of transverse derivatives needed to see non-decay/blow-up of the fields, is related to their scaling dimensions of fields within the $AdS_{p+2}$-factor. 
+To demonstrate that this class of extremal black branes suffers from this instability even in the absence of additional fields, we compute the Kaluza-Klein spectrum of gravitational and form field perturbations of the near-horizon geometry of these black branes &mdash; we find that these indeed trigger the Aretakis instability, although this is weaker than for the extremal black branes.
+
+For black holes, it was shown that the Aretakis instability generically pushes extremal black holes to become sub-extremal. It would be interesting if this is the case also for extremal black branes, as these would then be subject to the Gregory-Laflamme instability &mdash; in this case, one would expect that the end-point of this evolution is an array of sub-extremal black holes.
+
+Finally, it is worth noting that the scaling dimensions also determine the behaviour of static deformations to the near-horizon geometry of extremal black branes. Parallel to the previous discussion on deformations of extremal black holes, the Aretakis instability will therefore allow for set-ups which are seemingly UV sensitive.
