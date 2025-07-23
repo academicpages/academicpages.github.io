@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Dian Wang"
 title_separator          : "-"
 name                     : &name "Dian Wang"
-description              : &description "PhD at Northeastern University"
+description              : &description "Postdoc at Stanford"
 url                      : https://pointw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pointW/pointw.github.io"
@@ -86,8 +86,8 @@ analytics:
 author:
   name             : "Dian Wang"
   avatar           : "profile.JPG"
-  bio              : "PhD at Northeastern University"
-  location         : "Boston, Massachusetts"
+  bio              : "Postdoc at Stanford"
+  location         : "Stanford, California"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=CckjtfQAAAAJ&hl=en&authuser=1"
