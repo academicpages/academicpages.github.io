@@ -11,6 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- Published (Journal) -->
+<h2>Published (Journal)</h2>
+{% assign journal_pubs = site.publications | where: "type", "journal" %}
+{% for post in journal_pubs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- Published (Conference) -->
+<h2>Published (Conference)</h2>
+{% assign conference_pubs = site.publications | where: "type", "conference" %}
+{% for post in conference_pubs reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- Submitted -->
+<h2>Submitted</h2>
+{% assign submitted_pubs = site.publications | where: "type", "submitted" %}
+{% for post in submitted_pubs reversed %}
   {% include archive-single.html %}
 {% endfor %}

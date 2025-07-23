@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhenghao Zhou / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Zhenghao Zhou"
+description              : &description "a first year master student from Shanghai Jiao Tong University"
 url                      : https://zachariahzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,15 +24,15 @@ author:
   avatar           : "me.png"
   name             : "Zhenghao Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "a ordinary boy"
-  location         : "Changsha,China"
+  bio              : "Shanghai Jiao Tong University"
+  location         : "Shanghai, China"
   employer         : # "Red Brick University"
   uri              : # URL
-  email            : "Zachariah_Zhou@163.com" 
+  email            : "Zhenghao.Zhou@sjtu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&gmla=AH8HC4w_RS8KVLkLIKkuqw1kxJtKUnyaeTip9H0d3_pu9Vbj92nx6soaob39Rzk9XhA-jgzIgc6dgv5BycyEwDKL6ko&user=dATRyDYAAAAJ"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/ZachariahZhou"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

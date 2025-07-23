@@ -16,7 +16,14 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem "jekyll", "~> 3.10.0"
+gem "github-pages", group: :jekyll_plugins
+gem "wdm", ">= 0.1.2" if Gem.win_platform?
+gem "tzinfo", "~> 1.2.11"
+gem "tzinfo-data"  
+gem 'bigdecimal'   
+gem 'liquid', '~> 4.0.4'
+  
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -26,3 +33,4 @@ group :jekyll_plugins do
   gem 'hawkins'
   gem "webrick", "~> 1.8"
 end
+

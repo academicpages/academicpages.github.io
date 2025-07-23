@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E.E. in Electrical Engineering, Shanghai Jiao Tong University, 2027(expected)
+* B.E. in Electrical Engineering, Hunan University, 2024
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023 - Now: Research Assistant and Master’s candidate
+  * Shanghai Jiao Tong University
+  * Topic: AI applications in power system
+  * Duties included: Coding and academic writing
+  * Supervisor: Asst.Prof.Yiyan Li
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Research Assistant
+  * Hunan University
+  * Topic: Wireless power transmission
+  * Duties included: Designing the PCB board and writing the control code
+  * Supervisor: Prof.Zhixing He
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +36,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Language: proficient in Python, C
+* Knowledge:
+  * Proficient in machine learning, including neural network and large language model
+  * Proficient in data synthetic and analysis in power system
+  * Proficient in hardware system design, including painting PCB board and writing a microcontroller program (power electronics)
+  * Competent to mechanical structure design
+  * Understand Linux, Windows
+* Tool: competent in PyCharm, Altium Designer, SolidWorks, Git, LaTeX, Keil and so on.
+
