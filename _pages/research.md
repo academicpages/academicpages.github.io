@@ -67,25 +67,15 @@ Eventually, the goal is to achieve the same for gravity and higher-spins in $D=4
 
 ### Extremal Black Branes
 
-Black branes are extended versions of black holes in higher dimensions with translation-invariant horizons.
+Black branes are extended versions of black holes in higher dimensions with non-compact horizons.
 These feature prominently as classical solutions within supergravity, and *e.g.* play a role in the microstate counting of black hole entropy in string theory.
 Just like black holes can be charged under a 1-form gauge field, black branes can be charged under higher-form fields.
 The charge and mass of these black branes are also subject to BPS bounds, which are saturated by extremal black branes.
+Sub-extremal black branes are subject to the so-called Gregory-Laflamme instability, triggered by perturbations with sufficiently small wavelength. 
+This instability switches off in the extremal limit, which suggests that extremal black branes should be stable. 
 
-In ongoing work in collaboration with A. C. Kovacs, I compute the Kaluza-Klein spectrum of gravitational and $(p+1)$-form perturbations within the $\mathrm{AdS}_{p+2} \times S^{D-p-2}$ near-horizon geometry of non-dilatonic extremal black $p$-branes.
-The reason for this is two-fold.
-We extend previous arguments to show that these determine the scaling of tidal deformations away from analytically known black branes, and confirm that marginal and singular deformations are also present for branes. 
-Furthermore, we use heuristic arguments to show that the spectrum also determines how transverse derivatives of mixed gravitational and higher-form perturbations on the horizon scale at in null time at late times.
-We are able to confirm that extremal black branes also suffer from the Aretakis instability even in the absence of additional fields, albeit generically less than the extremal black holes.
-
-### $T\overline{T}$ Deformations and JT Gravity
-
-Lower-dimensional systems offer unique opportunities for studying quantum aspects of gravity. 
-In ongoing work with Andrew J. Tolley, I am exploring $T\overline{T}$-deformed theories coupled to JT gravity.
-
-Quantum aspects of $2D$ field theory and JT gravity are remarkably well-understood and serve as testing grounds for more realistic settings. 
-For the latter is an example of a $2D$ dilaton-gravity model which has been of particular interest as the example for studying black hole information.
-Further, $T\overline{T}$-deformations have gained particular interest in recent years, as they are solvable deformations that preserve integrability despite being irrelevant. 
-It has also been understood that these are equivalent to coupling of the original theory to $2D$ massive gravity. 
-
-The combined set-up provides an excellent playground for probing both field theory and gravity. 
+In work with A. D. Kovacs, I argue that extremal black branes suffer from a different classical instability &mdash; the so-called the Aretakis instability &mdash; which was already known to afflict extremal black holes.  
+We make the connection to the near-horizon geometry $AdS_{p+2} \times S^{D-p-2}$ explicit by deriving this using the symmetries of the near-horizon.
+In particular, the strength of the Aretakis instability, *i.e.* the number of transverse derivatives needed to see non-decay/blow-up of the fields, is related to their scaling dimensions within the $AdS_{p+2}$-factor.
+To demonstrate this instability even in the absence of additional fields, we compute the Kaluza-Klein spectrum of gravitational and form field perturbations within the near-horizon geometry of these black branes &mdash; we find that this is weaker for the extremal black branes.
+Furthermore, the scaling dimensions also determine the behaviour of static deformations to the near-horizon geometry of the black branes.
