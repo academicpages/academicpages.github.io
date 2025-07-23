@@ -13,9 +13,9 @@ published: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
-I am a Ph.D. candidate in Computer Science at [Northeastern University](https://www.northeastern.edu), advised by Prof. [Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and Prof. [Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve the efficiency and generalization of robot learning. During my Ph.D., I was fortunate to be supported by the J.P.Morgan Chase Ph.D. Fellowship in 2023.
+I am a Postdoctoral researcher at Stanford University working with [Prof. Shuran Song](https://shurans.github.io) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I obtained my Ph.D. at Northeastern University with [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve the efficiency and generalization of robot learning. 
 
-Email: wang dot dian at northeastern dot edu / [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) / [Research Statement](dian_research_statement.pdf)
+Email: dianwang at stanford dot edu / [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) / [Research Statement](dian_research_statement.pdf)
 
 ## News
 <style>
@@ -46,6 +46,7 @@ document.addEventListener("DOMContentLoaded", function() {
 </script>
 
 <ul id="myList">
+  <li>07/2025: Super excited to start my postdoc at Stanford with Prof. Shuran Song and Prof. Jeannette Bohg!</li>
   <li>04/2025: Honored to receive <a href="https://academic-honors.provost.northeastern.edu/graduate-awards/graduate-research-awards/">Northeastern Outstanding Ph.D. Student Award in Research</a>!</li>
   <li>03/2025: Invited talk at <a href="https://bostonsymmetry.github.io/">Boston Symmetry Day</a>.</li>
   <li>11/2024: <a href="https://equidiff.github.io/">Equivariant Diffusion Policy</a> is nominated as an Outstanding Paper Award Finalist at CoRL 2024!</li>
@@ -503,6 +504,6 @@ Ondrej Biza, **Dian Wang**, Robert Platt, Jan-Willem van de Meent, Lawson LS Won
 2021, 2023, 2025. RAL 2022-2024. T-RO 2022.
 
 ## Education
-+ (2020-Present) Ph.D., Computer Science, Northeastern University, Boston, USA
++ (2020-2025) Ph.D., Computer Science, Northeastern University, Boston, USA
 + (2017-2019) M.S, Computer Science, Northeastern University, Boston, USA
 + (2013-2017) B.Eng, Computer Science & Technology, Sichuan University, Chengdu, China
