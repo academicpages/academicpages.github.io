@@ -54,7 +54,7 @@ I've had the chance to give this seminar on the following occasions:
 - [Theory Colloquium](https://www.imperial.ac.uk/events/179005/theoretical-physics-colloquium-sumer-jaitly-calvin-chen-tba/), Imperial College London, Jul 2024
 - UK Cosmomology Meeting/Ruth Fest, King's College London, May 2024
 - BritGrav24, Queen Mary University London, Apr 2024
-- Gravity beyond Riemannian Paradigm 2025, Sogang Unviersity, Jun 2025
+- [Gravity beyond Riemannian Paradigm 2025](https://sites.google.com/nyu.edu/gbrp2025/schedule-for-talks?authuser=0), Sogang Unviersity, Jun 2025
 
 For the most recent slides on this, see [here](../files/talks/extremality_slides.pdf).
 
