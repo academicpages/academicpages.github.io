@@ -13,9 +13,9 @@ published: true
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 </head>
 
-I am a Postdoctoral researcher at Stanford University working with [Prof. Shuran Song](https://shurans.github.io) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I obtained my Ph.D. at Northeastern University with [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on using geometric deep learning to improve the efficiency and generalization of robot learning. 
+I am a Postdoctoral researcher at Stanford University working with [Prof. Shuran Song](https://shurans.github.io) and [Prof. Jeannette Bohg](https://web.stanford.edu/~bohg/). I obtained my Ph.D. at Northeastern University with [Prof. Robert Platt](https://www2.ccs.neu.edu/research/helpinghands/people/) and [Prof. Robin Walters](http://www.robinwalters.com/). My research interests include machine learning and robotics, with a focus on improving sample efficiency and generalization of robot learning. 
 
-Email: dianwang at stanford dot edu / [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) / [Research Statement](dian_research_statement.pdf)
+Email: dianwang at stanford dot edu / [CV](https://pointw.github.io/CV/dian_wang_cv.pdf) / [Research Statement (Dec 2024)](dian_research_statement.pdf) 
 
 ## News
 <style>
