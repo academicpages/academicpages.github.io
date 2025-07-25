@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Armand Ras Dotsey IV",
+    "email": "ardotseyiv@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Mechanicsburg",
       "countryCode": "US",
-      "region": ""
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "ARDotsey4",
+        "url": "https://github.com/ardotsey4"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "ARDotseyIV",
+        "url": "https://linkedin.com/in/ardotseyiv"
       }
     ]
   },
