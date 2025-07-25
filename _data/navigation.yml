@@ -6,20 +6,19 @@ main:
   #- title: "Publications"
   #  url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/
 
   #- title: "Teaching"
-  #  url: /teaching/    
-    
+  #  url: /teaching/
+
   #- title: "Portfolio"
   #  url: /year-archive/
-        
-#   - title: "Blog (Maintenance)"
-#     url: /
-    
+
+  #   - title: "Blog (Maintenance)"
+  #     url: /
+
   - title: "CV"
     url: /cv/
-    
 #   - title: "Notes"
 #     url: https://notes.scriptr.dev/
