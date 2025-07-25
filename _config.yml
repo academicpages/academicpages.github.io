@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jacob Coffee"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Infrastructure Engineer. Perpetual Computer Science Student."
   location         : "Birmingham, AL"
   employer         : "Python Software Foundation"
