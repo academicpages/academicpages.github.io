@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jingzhang Sun and SMILab"
+title: "Jingzhang and SMILab"
 author_profile: true
 redirect_from: 
   - /about/
