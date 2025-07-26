@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Researcher at Hainan University, working on [Nuclear Medicine Imaging Processing, Medical Physics, and artificial intelligence-based Security] (https://scs.hainanu.edu.cn/info/1051/2659.htm) and hosted on GitHub pages. Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
+I am currently an Associate Researcher at Hainan University, working on [Nuclear Medicine Imaging Processing, Medical Physics, and Artificial Intelligence-based Security](https://scs.hainanu.edu.cn/info/1051/2659.htm). Prior to this, I obtained my Ph.D. from the University of Macau, advised by [Prof. Greta S.P. Mok](https://big.fst.um.edu.mo/) at Biomedical ImaginG Laboratory (BIG) in Department of Electrical and Computer Engineering.
 
 A data-driven personal website
 ======
