@@ -25,11 +25,11 @@ author:
   avatar           : "Profile.jpg"
   name             : "Jingzhang Sun"
   pronouns         : # example: "she/her"  
-  bio              : "     HNU SMILab PI"
+  bio              : "HNU SMILab PI"
   location         : "Haikou, Hainan, China"
   employer         : "Hainan University"
   uri              : # URL
-  email            : "jingzhangsun@hainanu.edu.cn" 
+  email            : jingzhangsun@hainanu.edu.cn
 
   # Academic websites
   # academia         : # URL
