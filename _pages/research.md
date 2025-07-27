@@ -8,7 +8,7 @@ author_profile: true
 
 - <a href="/files/Wu_employer_learning_in_CS.pdf" target="_self"> Reveal or Conceal? Employer Learning in the Labor Market for Computer Scientists</a> January 2025, Revise and Resubmit at *Econometrica* <br/>
 
-- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) April 2025, Submitted
+- <a href="/files/DiAddario_Wu.pdf" target="_self">Who Becomes an Inventor in Italy? The Role of Firms in Talent Discovery</a> (with Sabrina Di Addario) April 2025
 
 
 
