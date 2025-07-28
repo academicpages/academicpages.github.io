@@ -31,6 +31,3 @@ My Working Principles
 
 - As a generalist, I'm open to exploring new research directions, depending on my current bandwidth.
 
-Recent Publications
-======
-
