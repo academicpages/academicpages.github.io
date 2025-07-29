@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "CCNLAB"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "CCNLAB"
+description              : &description "Focusing on decision-making behavior under reinforcement learning and mental disorder analysis based on brain imaging"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "CCNLAB"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computational Cognitive Neuroscience Laboratory"
+  location         : "China"
+  employer         : "University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "contact@ccnlab.org" 
 
   # Academic websites
   academia         : # URL
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ccnlab"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -76,6 +76,58 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+
+# Lab Members Information
+lab_members:
+  - name: "Pengfei Xu"
+    position: "Associate Professor"
+    email: "TBD"
+    research: "Cognitive Neuroscience"
+    role: "PI"
+  - name: "Guangzhi Deng"
+    position: "PhD Student"
+    email: "TBD"
+    research: "Decision-making behavior under reinforcement learning"
+    role: "student"
+  - name: "Yuxuan Zhang"
+    position: "PhD Student"
+    email: "TBD"
+    research: "Mental health monitoring based on brain imaging"
+    role: "student"
+  - name: "Xiaochen Zhou"
+    position: "Research Assistant"
+    email: "TBD"
+    research: "Emotion recognition based on brain imaging"
+    role: "staff"
+
+# Research Areas
+research_areas:
+  - "Reinforcement Learning Decision-making"
+  - "Brain Imaging for Mental Disorders"
+  - "Emotion Recognition"
+
+# Selected Publications (Representative Papers)
+selected_publications:
+  - title: "Neural mechanisms of decision-making under uncertainty: A reinforcement learning approach"
+    authors: "Xu, P., Deng, G., & Zhang, Y."
+    journal: "Nature Neuroscience"
+    year: "2023"
+    doi: "10.1038/nn.2023.001"
+  - title: "Brain imaging biomarkers for depression detection using deep learning"
+    authors: "Zhang, Y., Zhou, X., & Xu, P."
+    journal: "NeuroImage"
+    year: "2023"
+    doi: "10.1016/j.neuroimage.2023.001"
+  - title: "Computational models of emotional processing in the human brain"
+    authors: "Zhou, X., Deng, G., Zhang, Y., & Xu, P."
+    journal: "Psychological Science"
+    year: "2022"
+    doi: "10.1177/psci.2022.001"
+  - title: "Reinforcement learning algorithms for understanding psychiatric disorders"
+    authors: "Deng, G., Xu, P., & Zhang, Y."
+    journal: "Journal of Computational Neuroscience"
+    year: "2022"
+    doi: "10.1007/jcn.2022.001"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
