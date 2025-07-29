@@ -7,7 +7,7 @@ date: 2025-01-03
 paperurl: 'https://arxiv.org/abs/2501.01840'
 arxiv: "https://arxiv.org/abs/2501.01840"
 pdf: "/files/papers/smm_paul_delacour.pdf"
-venue: "preprint"
+venue: "IEEE Transactions on Signal Processing"
 authors : "Delacour, Wahls, Spraggins, Migas, Van de Plas"
 year : 2025
 doi : 10.1109/TSP.2025.3593082
