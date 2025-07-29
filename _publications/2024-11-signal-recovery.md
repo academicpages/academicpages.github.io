@@ -10,6 +10,7 @@ pdf: "/files/papers/smm_paul_delacour.pdf"
 venue: "preprint"
 authors : "Delacour, Wahls, Spraggins, Migas, Van de Plas"
 year : 2025
+doi : 10.1109/TSP.2025.3593082
 #citation: 'Delacour, Paul. (2025). &quot;Signal Recovery Using a Spiked Mixture Model.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
