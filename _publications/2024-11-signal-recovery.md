@@ -4,13 +4,15 @@ collection: publications
 permalink: /publication/2024-11-signal-recovery
 excerpt: 'We introduce the spiked mixture model (SMM) to address the problem of estimating a set of signals from many randomly scaled and noisy observations'
 date: 2025-01-03
-paperurl: 'https://arxiv.org/abs/2501.01840'
-arxiv: "https://arxiv.org/abs/2501.01840"
-pdf: "/files/papers/smm_paul_delacour.pdf"
+#paperurl: 'https://arxiv.org/abs/2501.01840'
 venue: "IEEE Transactions on Signal Processing"
 authors : "Delacour, Wahls, Spraggins, Migas, Van de Plas"
 year : 2025
-doi : 10.1109/TSP.2025.3593082
+
+arxiv: "https://arxiv.org/abs/2501.01840"
+publication_url : "https://arxiv.org/abs/2501.01840"
+pdf: "/files/papers/smm_paul_delacour.pdf"
+#doi : 10.1109/TSP.2025.3593082
 #citation: 'Delacour, Paul. (2025). &quot;Signal Recovery Using a Spiked Mixture Model.&quot; <i>Journal 1</i>. 1(1).'
 ---
 

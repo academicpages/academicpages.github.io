@@ -61,9 +61,9 @@ Publications
             <i class="fas fa-file-alt"></i> arXiv
           </a>
         {% endif %}
-        {% if post.doi %}
-          <a href="https://doi.org/{{ post.doi }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
-            <i class="fas fa-link"></i> DOI
+        {% if post.publication_url %}
+          <a href="{{ post.publication_url }}" class="btn btn--small" target="_blank" rel="noopener noreferrer">
+            <i class="fas fa-link"></i> Publication
           </a>
         {% endif %}
         {% if post.pdf %}
