@@ -1,24 +1,14 @@
-# main links links
+# The following is the order of the links in the header of the website.
+#
 main:
   - title: "Home"
     url: /
 
-  #- title: "Publications"
-  #  url: /publications/
-
   - title: "Talks"
-    url: /talks/
+   url: /talks/
 
-  #- title: "Teaching"
-  #  url: /teaching/
-
-  #- title: "Portfolio"
-  #  url: /year-archive/
-
-  #   - title: "Blog (Maintenance)"
-  #     url: /
+  - title: "Posts"
+    url: /blog/
 
   - title: "CV"
     url: /cv/
-#   - title: "Notes"
-#     url: https://notes.scriptr.dev/
