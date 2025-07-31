@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv-json/
+title: "Contact Me"
+permalink: /contact/
 author_profile: false
 redirect_from:
   - /resume-json
@@ -26,12 +26,21 @@ redirect_from:
     }
   }
 
-  .cv-container {
-  margin-top:-1em;
+  .cv-section {
+    line-height:1.8em;
+  }
+
+  .cv-download-links {
+    margin-top:-0.6em;
+    line-height:1.5em;
+  }
+
+  .page__title {
+    margin-bottom:0.75em;
   }
 </style>
 
-{% include cv-template.html %}
+{% include contact-template.html %}
 
 <div class="cv-download-links">
   <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
