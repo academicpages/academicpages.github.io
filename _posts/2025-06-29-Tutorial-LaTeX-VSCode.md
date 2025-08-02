@@ -48,12 +48,12 @@ This blog is aggressively simplified from the much more thorough [installation g
 
 [TeX Live](https://www.tug.org/texlive/) is a LaTeX distribution compatible with and recommended by the LaTeX Workshop extension.
 
-* macOS: https://www.tug.org/mactex/mactex-download.html
-* Windows: https://www.tug.org/texlive/windows.html#install
+* macOS: [https://www.tug.org/mactex/mactex-download.html](https://www.tug.org/mactex/mactex-download.html)
+* Windows: [https://www.tug.org/texlive/windows.html#install](https://www.tug.org/texlive/windows.html#install)
 
 ## 2. Install VS Code
 
-Download it here: https://code.visualstudio.com/download
+Download it here: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
 ## 3. Install the LaTeX Workshop Extension for VS Code
 
