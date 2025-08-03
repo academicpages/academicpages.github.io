@@ -8,15 +8,16 @@ redirect_from:
 ---
 
 
-I am a **Computer Science** undergraduate at the **University of Virginia**, graduating in **May 2025**. Currently, I am applying to **PhD programs**, with a focus on leveraging AI and machine learning for scientific discovery.
+I am an **incoming Computer Science PhD student** at the **University of Virginia**, beginning in **Fall 2025**. My research focuses on **Graph Machine Learning** and **Large Language Models** to accelerate **AI for Science (AI4Science)** in biomedical and computational domains.
 
 ---
 
 ## Research Interests  
-I am passionate about applying **Graph Machine Learning** and **AI for Science (AI4Science)** to uncover new insights in biomedical and computational fields. My key areas of interest include:
+I am passionate about applying advanced machine learning techniques to uncover insights in complex scientific systems. My key areas of interest include:
 
-- 🔗 **Graph Machine Learning** – Modeling relationships in complex systems  
-- 🧬 **AI for Science** – Enhancing scientific discovery with AI-driven methods  
-- 🤖 **Explainability & Interpretability** – Making AI models more transparent and trustworthy  
+- 🔗 **Graph Machine Learning** – Modeling structured, relational data  
+- 🧠 **Large Language Models** – Scientific reasoning and knowledge representation  
+- 🧬 **AI for Science** – Enabling discovery in biomedical and computational fields  
+- 🤖 **Explainability & Interpretability** – Building transparent, trustworthy models  
 
 ---
