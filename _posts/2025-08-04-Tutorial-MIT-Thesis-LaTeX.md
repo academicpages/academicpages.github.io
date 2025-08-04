@@ -10,7 +10,7 @@ tags:
 
 MIT's libraries require theses to be deposited electronically using a strict format. To simplify formatting, the [**MIT thesis LaTeX template**](https://web.mit.edu/thesis/tex/) provides a class (`mitthesis.cls`) and a set of sample files that implement these requirements.
 
-This tutorial blog builds on top of my previous ["Tutorial: Use LaTeX Locally with VS Code"]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}). By following the previous tutorial, you are assumed to have the following in place:
+This tutorial blog builds on top of my previous ["Tutorial: Use LaTeX Locally with VS Code"]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}). By following that tutorial, you should already have::
 
 * **Visual Studio Code with LaTeX Workshop installed.** The extension provides core LaTeX features such as auto‑building to PDF, an integrated PDF viewer, SyncTeX navigation, Intellisense and log parsing. It automatically runs the sequence of tools needed to build your document and highlights errors in the editor.
 * **TeX Live 2022 or newer.** The MIT thesis class requires a recent LaTeX distribution; the README suggests November 2022 or later and is compatible back to 2020. A full TeX Live installation includes `pdflatex`, biber and other programs needed by the template.
@@ -23,17 +23,17 @@ Download it here: [https://mirrors.ctan.org/macros/latex/contrib/mitthesis.zip](
 <details>
 <summary>What's this website?</summary>
 
-MIT distributes the thesis template through the Comprehensive TeX Archive Network (CTAN). This URL is referenced by the official <a href="https://web.mit.edu/thesis/tex/" target="_blank"> MIT Thesis template website</a>
+MIT officially distributes their thesis template through the Comprehensive TeX Archive Network (CTAN). This URL is provided by the official <a href="https://web.mit.edu/thesis/tex/" target="_blank"> MIT Thesis Template website</a>
 
 </details>
 
-Then unzip the archive to a convenient folder. I would unzip it to the actual folder where I am going to write my thesis.
+Extract (i.e., "unzip") the archive to a convenient location—ideally the folder where you plan to write your thesis.
 
 ![Example view of the unzipped `mitthesis`](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/mitthesis-unzipped.png)
 
 ### Understand the contents
 
-It is always a good idea to actually read the `README.md` file. The README lists the files contained in the distribution. It notes that the archive includes a class file and a `MIT-thesis-template` folder containing all the pieces needed to start writing your thesis:
+It's always recommended to read the included `README.md`. This file lists the archive contents, notably a class file and a MIT-thesis-template folder containing everything you need to start writing:
 
 | File/Folder	| Purpose |
 |-------------|---------|
@@ -42,23 +42,23 @@ It is always a good idea to actually read the `README.md` file. The README lists
 | `abstract.tex`, `acknowledgments.tex`, `biosketch.tex` | Files where you insert your abstract, acknowledgments and optional biosketch |
 | `chapter1.tex`, `chapter...` | Sample chapters to use as templates |
 | `committee_members.tex` | Optional page listing your thesis committee |
-| `apendixa.tex`, `appendixb.tex` | Sample appendices showing code listing and long tables |
+| `appendixa.tex`, `appendixb.tex` | Sample appendices showing code listing and long tables |
 | `mitthesis-sample.bib` | Sample bibliography file with many entries |
 | `mydesign.tex` | Optional file where you can load packages to customise colours, margins or caption styles |
 | `fontsets/` | Subdirectory containing optional font definitions |
 
-Somehow, the `README.md` mentions the existence of a `MIT-Thesis.pdf`, being _a sample thesis from the template, using default fonts_, but in the unzipped folder, I could not find it.
+Interestingly, `README.md` mentions a `MIT-Thesis.pdf` sample document, but I couldn’t find it in the unzipped folder. Not a big deal because we will be able to create it later.
 {: .notice}
 
-Additionally, the `mitthesis-doc` directory contains detailed PDF documentation, while the examples directory provides sample theses in different fonts.
+Additionally, the `mitthesis-doc` directory contains detailed PDF documentation, and the examples directory provides sample theses showcasing different font options.
 
 After extraction, keep the directory structure intact; LaTeX will look for chapter files relative to the main file. You can rename the outer folder to reflect your project's name.
 
 ## 2. Opening the project in VS Code
 
-Launch **VS Code**, then choose **File → Open Folder…** and select the `MIT-thesis-template` folder (Not the outter `mitthesis` folder!).
+Launch **VS Code**, then choose **File → Open Folder…** and select the `MIT-thesis-template` folder (Not the outer `mitthesis` folder!).
 
-VS Code will treat this directory as the workspace.
+VS Code will treat this folder as the workspace.
 
 Open the `MIT-Thesis.tex` file as it is the root document.
 
@@ -66,44 +66,43 @@ Open the `MIT-Thesis.tex` file as it is the root document.
 
 ## 3. Trigger the build
 
-At this time, you should see a "TEX" badge representing the LaTeX Workshop extension showing up on the left-most pannel of your window.
+You should see a "TEX" badge from the LaTeX Workshop extension appearing in the leftmost panel of your window.
 
-Now trigger a file save via the usual key combinations on your system:
+Trigger a file save using standard shortcuts:
 * macOS: `command` + `S`
 * Windows: `Ctrl` + `S`
 
-As mentioned in the [previous tutorial]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}), the save should have triggered the LaTeX Workshop extension to start building your LaTeX project. At the bottom left corner of the VS Code window, you should see a spinning "🔄 Build" indicating that the build is still in progress. This could take a minute to complete.
+As explained in the [previous tutorial]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}), saving the file automatically triggers the LaTeX Workshop build process. You’ll notice a spinning "🔄 Build" icon in the bottom-left corner, indicating compilation in progress. This may take a minute.
 
-This is also a step that we likely could run into various issues, usually due to different local setups, somewhere / somehow. Please contact me with the error you run into and I could consolidate into quick fixes updated here. I also encourage you to try troubleshooting with your choice of GenAI tool. GitHub Copilot, if you have access to, is my go to choice.
+During compilation, local setup variations can cause errors. If you encounter an issue, please let me know so I can include quick fixes here. I also recommend troubleshooting with your preferred GenAI tool—my go-to choice is GitHub Copilot.
 {: .notice}
 
 ![Default MIT-Thesis compiled with resulting PDF displayed](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-first-compiled-VSCode.png)
 
-Scroll through the generated PDF file; it should closely match the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf) in formatting and structure.
+Scroll through the generated PDF file, `MIT-Thesis.pdf`; it should closely match the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf).
 
-Congratulations, by reaching here, you have your MIT Thesis LaTeX template ready.
+Congratulations, your MIT Thesis LaTeX template is now ready to use.
 
-## 4. Get familiarized with this template
+## 4. Familiarize yourself with the template
 
-We have to get comfortable with the structure of this template system -- there is no shortcut.
+The best way to get comfortable is to explore its structure -- no shortcuts here.
 
-**Please read the [official documentation](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/mitthesis-doc/mitthesis-doc.pdf) -- there is no shortcut**.
+**Please read the [official documentation](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/mitthesis-doc/mitthesis-doc.pdf) -- again, no shortcut**.
 
-If I could offer only one pointer, that would be: skim through `MIT-Thesis.tex`, and you should see that it includes many `\input{}` statements that pull in separate files for each section of the thesis. Those referenced files are all in your workspace such as `abstract.tex`, `chapter1.tex`. Make some minor edits to these files. re-build your PDF, and observe the result. Action learning at its best!
+One quick tip: skim through `MIT-Thesis.tex`. Notice the multiple `\input{}` statements pulling in separate files for different thesis sections, such as `abstract.tex` and `chapter1.tex`. Edit these files slightly, rebuild the PDF, and observe the results -- action learning at its finest!
 
-If you are a candidate in MIT's [Leaders for Global Operations (LGO)](https://lgo.mit.edu/), MS/MBA dual-degree program, please continue reading this post. Otherwise, you are all set.
+If you are a student in MIT's [Leaders for Global Operations (LGO)](https://lgo.mit.edu/) dual-degree program, continue to the next section. Otherwise, you're all set.
 
-## 5. Tweaks for an LGO thesis
+## 5. LGO Thesis tweaks
 
-The official template package comes with an example that is applicable to an LGO thesis: [`mitthesis/examples/cover_page_samples/latex_sources/One_author_two_degrees.tex`](https://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/cover_page_samples/latex_sources/One_author_two_degrees.tex). I've adapted it into a something that is hopefully easier to follow.
+The official package includes an example relevant for an LGO thesis: [`One_author_two_degrees.tex`](https://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/cover_page_samples/latex_sources/One_author_two_degrees.tex). I've adapted this example to simplify things.
 
-1. In your root document file (`MIT-Thesis.tex`), find the lines that goes
+1. In your `MIT-Thesis.tex`, locate:
     ```tex
     \begin{document}
     %%% edit the following commands to match your thesis %%%%%%%%%%
     ```
-    We need to edit the ensuing lines.
-2. Replace everything between `\title{...}` and `\ThesisDate{...}` (including these two commands) with the following content
+2. Replace the content from `\title{...}` to `\ThesisDate{...}` (inclusive) with this:
     ```tex
     \title{Simplify and Accelerate: An Awesome Dual-Degree Thesis Title}
 
@@ -139,13 +138,11 @@ The official template package comes with an example that is applicable to an LGO
     \ThesisDate{May 8, 2026}
     ```
 
-Not done yet -- the LGO program office also required:
+Per "Thesis Review and Submission Process", _LGO Handbook_ (accessed on August 3, 2025), we also need to include:
 
-> Please ensure that you include a statement recognizing that your thesis is submitted… “IN CONJUNCTION WITH THE LEADERS FOR GLOBAL OPERATIONS PROGRAM AT THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY”.
->
-> -- "Thesis Review and Submission Process", _LGO Handbook_ (accessed on August 3, 2025)
+> "IN CONJUNCTION WITH THE LEADERS FOR GLOBAL OPERATIONS PROGRAM AT THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY".
 
-To achieve this, we have to have our own version of the `mitthesis.cls` (remember it from the "outter" directory?)
+To achieve this, we have to have our own version of the `mitthesis.cls` (remember it from the "outer" directory?)
 
 1. Copy the `mitthesis.cls` file to your project workspace (i.e. same folder as your `MIT-Thesis.tex`)
 2. In your **copied** `mitthesis.cls` file, find the line that goes `at~the\par`. It should appear right after a line that goes `\__degree_block:`
@@ -168,11 +165,11 @@ By doing so, our LaTeX project build should pick up our copied and edited `mitth
 
 When the official template package is updated and we thought we've pulled the latest updates from CTAN, those new changes won't show up in our thesis workspace unless we merge the new version of `mitthesis.cls` into our local copy of `mitthesis.cls` while keeping the "in conjunction..." hot fix.
 
-My gut feeling: risk is trivial. We only work on our thesis for less than a year and then will never touch it after thesis submission, so we could not care less about getting the latest template updates...
+My gut feeling: this risk is minimal since your thesis work is short-term and static after submission.
 
 </details>
 
-Re-build your LaTeX project and you should see something like this:
+Rebuild your LaTeX project and you should see a cover page like this:
 
 ![An example of LGO thesis cover page rendered](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
 
@@ -181,5 +178,9 @@ Re-build your LaTeX project and you should see something like this:
 * `\SignatureBlockSize{\footnotesize}` in my example is to avoid a long department name like "Electrical Engineering and Computer Science" causing overflow; particularly, under "Authored by:", the line that shows both Sloan and EECS is too long and only `\footnotesize` could tame this loong (dragon).
     * I am searching for a solution that could add a line break and avoid such a small font size...
 
-Did I miss any other places in the templat that requires tweaking for an LGO thesis? Please let me know!
+If you find other required tweaks, please let me know!
 {: .notice}
+
+---
+
+Good luck with your thesis! Good luck to me too...
