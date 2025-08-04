@@ -6,6 +6,7 @@ tags:
   - tutorial
   - latex
   - vscode
+  - mit
 ---
 
 Let's setup MIT thesis LaTeX template locally!
