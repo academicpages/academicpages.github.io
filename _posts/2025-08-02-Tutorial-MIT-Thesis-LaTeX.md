@@ -58,6 +58,35 @@ After extraction, keep the directory structure intact; LaTeX will look for chapt
 
 Launch **VS Code**, then choose **File → Open Folder…** and select the `MIT-thesis-template` folder (Not the outter `mitthesis` folder!).
 
-VS Code will treat this directory as the workspace. The `MIT-Thesis.tex` file is the root document; LaTeX Workshop should automatically detect it.
+VS Code will treat this directory as the workspace.
+
+Open the `MIT-Thesis.tex` file as it is the root document.
 
 ![MIT-thesis-template folder opened in VS Code](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-template-VSCode.png)
+
+## 3. Trigger the build
+
+At this time, you should see a "TEX" badge representing the LaTeX Workshop extension showing up on the left-most pannel of your window.
+
+Now trigger a file save via the usual key combinations on your system:
+* macOS: `command` + `S`
+* Windows: `Ctrl` + `S`
+
+As mentioned in the [previous tutorial]({% post_url 2025-06-29-Tutorial-LaTeX-VSCode %}), the save should have triggered the LaTeX Workshop extension to start building your LaTeX project. At the bottom left corner of the VS Code window, you should see a spinning "🔄 Build" indicating that the build is still in progress. This could take a minute to complete.
+
+This is also a step that we likely could run into various issues, usually due to different local setups, somewhere / somehow. Please contact me with the error you run into and I could consolidate into quick fixes updated here. I also encourage you to try troubleshooting with your choice of GenAI tool. GitHub Copilot, if you have access to, is my go to choice.
+{: .notice}
+
+![Default MIT-Thesis compiled with resulting PDF displayed](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-first-compiled-VSCode.png)
+
+Scroll through the generated PDF file, you should see it being identical to the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf).
+
+Congratulations, by reaching here, you have your MIT Thesis LaTeX template ready.
+
+## 4. Get familiarized with this template
+
+We have to get comfortable with the structure of this template system -- there is no shortcut.
+
+**Please read the [official documentation](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/mitthesis-doc/mitthesis-doc.pdf) -- there is no shortcut**.
+
+If I could offer only one pointer, that would be: skim through `MIT-Thesis.tex`, and you should see that it includes many `\input{}` statements that pull in separate files for each section of the thesis. Those referenced files are all in your workspace such as `abstract.tex`, `chapter1.tex`. Make some minor edits to these files. re-build your PDF, and observe the result. Action learning at its best!
