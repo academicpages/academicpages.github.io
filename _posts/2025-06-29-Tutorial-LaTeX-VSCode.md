@@ -118,6 +118,6 @@ Please let me know if you encounter any other issues!
 I plan to write a mini-series of blogs on LaTeX, specifically in the context of writing a thesis at MIT. In the future, I plan to cover:
 
 * How to use `git` to track your progress and back up with GitHub
-* How to use the MIT thesis template with this local setup
+* [How to use the MIT thesis template with this local setup]({% post_url 2025-08-04-Tutorial-MIT-Thesis-LaTeX %})
 
 Meanwhile, please let me know if you have any suggestions for this tutorial or future topics.
