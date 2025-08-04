@@ -159,7 +159,7 @@ To achieve this, we have to have our own version of the `mitthesis.cls` (remembe
 4. So we end up with something like:
     ```
     \__degree_block:
-		in~conjunction~with~the~Leaders~for~Global~Operations~program\par
+    in~conjunction~with~the~Leaders~for~Global~Operations~program\par
     at~the\par
     ```
     (Leading indentation omitted to save some spaces here.)
