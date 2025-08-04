@@ -26,12 +26,8 @@ This tutorial blog builds on top of my previous ["Tutorial: Use LaTeX Locally wi
 
 Download it here: [https://mirrors.ctan.org/macros/latex/contrib/mitthesis.zip](https://mirrors.ctan.org/macros/latex/contrib/mitthesis.zip).
 
-<details>
-<summary>What's this website?</summary>
-
-MIT officially distributes their thesis template through the Comprehensive TeX Archive Network (CTAN). This URL is provided by the official <a href="https://web.mit.edu/thesis/tex/" target="_blank"> MIT Thesis Template website</a>
-
-</details>
+Comprehensive TeX Archive Network (CTAN) is a network of websites that serve as the central repository for TeX-related materials and software; it's legit and referenced by the official  [MIT thesis LaTeX template](https://web.mit.edu/thesis/tex/) website.
+{: .notice}
 
 Extract (i.e., "unzip") the archive to a convenient location—ideally the folder where you plan to write your thesis.
 
@@ -166,14 +162,9 @@ To achieve this, we have to have our own version of the `mitthesis.cls` (remembe
     (Leading indentation omitted to save some spaces here.)
 
 By doing so, our LaTeX project build should pick up our copied and edited `mitthesis.cls` file instead of the default `mitthesis.cls` provided by the template package.
-<details>
-<summary>This hot-fix comes with a tiny risk.</summary>
 
-When the official template package is updated and we thought we've pulled the latest updates from CTAN, those new changes won't show up in our thesis workspace unless we merge the new version of `mitthesis.cls` into our local copy of `mitthesis.cls` while keeping the "in conjunction..." hot fix.
-
-My gut feeling: this risk is minimal since your thesis work is short-term and static after submission.
-
-</details>
+**This is a hot fix.** When the official template package is updated and we thought we've pulled the latest updates from CTAN, those new changes won't show up in our thesis workspace unless we merge the new version of `mitthesis.cls` into our local copy of `mitthesis.cls` while keeping the "in conjunction..." line inserted. My take: this **risk is minimal** since your thesis work is short-term and static after submission.
+{: .notice}
 
 Rebuild your LaTeX project and you should see a cover page like this:
 
