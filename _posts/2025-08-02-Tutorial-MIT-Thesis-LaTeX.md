@@ -14,7 +14,7 @@ This tutorial blog builds on top of my previous ["Tutorial: Use LaTeX Locally wi
 
 * **Visual Studio Code with LaTeX Workshop installed.** The extension provides core LaTeX features such as auto‑building to PDF, an integrated PDF viewer, SyncTeX navigation, Intellisense and log parsing. It automatically runs the sequence of tools needed to build your document and highlights errors in the editor.
 * **TeX Live 2022 or newer.** The MIT thesis class requires a recent LaTeX distribution; the README suggests November 2022 or later and is compatible back to 2020. A full TeX Live installation includes `pdflatex`, biber and other programs needed by the template.
-* **Biber for bibliography management.** The template defaults to using biblatex with the biber backend[6]. Biber is part of TeX Live and will run automatically if configured in LaTeX Workshop.
+* **Biber for bibliography management.** The template defaults to using biblatex with the biber backend. Biber is part of TeX Live and will run automatically if configured in LaTeX Workshop.
 
 ## 1. Acquire the template
 
@@ -42,7 +42,7 @@ It is always a good idea to actually read the `README.md` file. The README lists
 | `abstract.tex`, `acknowledgments.tex`, `biosketch.tex` | Files where you insert your abstract, acknowledgments and optional biosketch |
 | `chapter1.tex`, `chapter...` | Sample chapters to use as templates |
 | `committee_members.tex` | Optional page listing your thesis committee |
-| `ppendixa.tex`, `appendixb.tex` | Sample appendices showing code listing and long tables |
+| `apendixa.tex`, `appendixb.tex` | Sample appendices showing code listing and long tables |
 | `mitthesis-sample.bib` | Sample bibliography file with many entries |
 | `mydesign.tex` | Optional file where you can load packages to customise colours, margins or caption styles |
 | `fontsets/` | Subdirectory containing optional font definitions |
@@ -79,7 +79,7 @@ This is also a step that we likely could run into various issues, usually due to
 
 ![Default MIT-Thesis compiled with resulting PDF displayed](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-first-compiled-VSCode.png)
 
-Scroll through the generated PDF file, you should see it being identical to the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf).
+Scroll through the generated PDF file; it should closely match the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf) in formatting and structure.
 
 Congratulations, by reaching here, you have your MIT Thesis LaTeX template ready.
 
