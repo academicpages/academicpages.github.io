@@ -90,3 +90,96 @@ We have to get comfortable with the structure of this template system -- there i
 **Please read the [official documentation](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/mitthesis-doc/mitthesis-doc.pdf) -- there is no shortcut**.
 
 If I could offer only one pointer, that would be: skim through `MIT-Thesis.tex`, and you should see that it includes many `\input{}` statements that pull in separate files for each section of the thesis. Those referenced files are all in your workspace such as `abstract.tex`, `chapter1.tex`. Make some minor edits to these files. re-build your PDF, and observe the result. Action learning at its best!
+
+If you are a candidate in MIT's [Leaders for Global Operations (LGO)](https://lgo.mit.edu/), MS/MBA dual-degree program, please continue reading this post. Otherwise, you are all set.
+
+## 5. Tweaks for an LGO thesis
+
+The official template package comes with an example that is applicable to an LGO thesis: [`mitthesis/examples/cover_page_samples/latex_sources/One_author_two_degrees.tex`](https://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/cover_page_samples/latex_sources/One_author_two_degrees.tex). I've adapted it into a something that is hopefully easier to follow.
+
+1. In your root document file (`MIT-Thesis.tex`), find the lines that goes
+    ```tex
+    \begin{document}
+    %%% edit the following commands to match your thesis %%%%%%%%%%
+    ```
+    We need to edit the ensuing lines.
+2. Replace everything between `\title{...}` and `\ThesisDate{...}` (including these two commands) with the following content
+    ```tex
+    \title{Simplify and Accelerate: An Awesome Dual-Degree Thesis Title}
+
+    % \Author{Author full name}{Author department}[Author's first PREVIOUS degree][Author's second PREVIOUS degree][...
+    % Note that third, fourth, fifth, and sixth arguments are optional [] and may be omitted
+
+    \Author{LGO Student Name}{MIT Sloan School of Management and Department of Electrical Engineering and Computer Science}[B.S. Previous Degree, Previous College, 2018]
+
+    % Use once for each degree fulfilled by thesis
+    % For two degrees from one department, leave the department argument blank for the second degree {}.
+    \Degree{Master of Business Administration}{MIT Sloan School of Management}
+    \Degree{Master of Science in Electrical Engineering and Computer Science}{Department of Electrical Engineering and Computer Science}
+
+    % If there is more than one supervisor, use the \Supervisor command for each.
+    \Supervisor{Sloan Advisor Name}{Professor of Operation Management}
+    \Supervisor{Engineering Advisor Name}{Professor of Electrical Engineering and Computer Science}
+
+    % Professor who formally accepts theses for your department (e.g., the Graduate Officer, Professor Sméagol,...)
+    % If you need to reduce vertical space, put the acceptor title in the second argument and leave the third blank {}.
+    \Acceptor{Engineering Acceptor Name}{Professor of Electrical Engineering and Computer Science}{Graduate Officer, Department of Electrical Engineering and Computer Science}
+    \Acceptor{Sloan Acceptor Name}{Assistant Dean}{MBA Program, Sloan School of Management}
+
+    % If your title page is overflowing (from too many names, degrees, etc.), you can scale 
+    %    down the Signature block at the bottom with this command, or use another creative solution...
+    \SignatureBlockSize{\footnotesize}
+    \AuthorNameSize{\normalsize}
+
+    % Usage: \DegreeDate{Month}{year}
+    % Valid degree months are September, February, or June.  
+    \DegreeDate{May}{2026}
+
+    % Date that final thesis is submitted to department
+    \ThesisDate{May 8, 2026}
+    ```
+
+Not done yet -- the LGO program office also required:
+
+> Please ensure that you include a statement recognizing that your thesis is submitted… “IN CONJUNCTION WITH THE LEADERS FOR GLOBAL OPERATIONS PROGRAM AT THE MASSACHUSETTS INSTITUTE OF TECHNOLOGY”.
+>
+> -- "Thesis Review and Submission Process", _LGO Handbook_ (accessed on August 3, 2025)
+
+To achieve this, we have to have our own version of the `mitthesis.cls` (remember it from the "outter" directory?)
+
+1. Copy the `mitthesis.cls` file to your project workspace (i.e. same folder as your `MIT-Thesis.tex`)
+2. In your **copied** `mitthesis.cls` file, find the line that goes `at~the\par`. It should appear right after a line that goes `\__degree_block:`
+3. Insert the following line in between `\__degree_block:` and `at~the\par`:
+    ```
+    in~conjunction~with~the~Leaders~for~Global~Operations~program\par
+    ```
+    Remember to maintain the same leading indentation as the two reference lines.
+4. So we end up with something like:
+    ```
+    \__degree_block:
+		in~conjunction~with~the~Leaders~for~Global~Operations~program\par
+    at~the\par
+    ```
+    (Leading indentation omitted to save some spaces here.)
+
+By doing so, our LaTeX project build should pick up our copied and edited `mitthesis.cls` file instead of the default `mitthesis.cls` provided by the template package.
+<details>
+<summary>This hot-fix comes with a tiny risk.</summary>
+
+When the official template package is updated and we thought we've pulled the latest updates from CTAN, those new changes won't show up in our thesis workspace unless we merge the new version of `mitthesis.cls` into our local copy of `mitthesis.cls` while keeping the "in conjunction..." hot fix.
+
+My gut feeling: risk is trivial. We only work on our thesis for less than a year and then will never touch it after thesis submission, so we could not care less about getting the latest template updates...
+
+</details>
+
+Re-build your LaTeX project and you should see something like this:
+
+![An example of LGO thesis cover page rendered](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
+
+### Known issues
+
+* `\SignatureBlockSize{\footnotesize}` in my example is to avoid a long department name like "Electrical Engineering and Computer Science" causing overflow; particularly, under "Authored by:", the line that shows both Sloan and EECS is too long and only `\footnotesize` could tame this loong (dragon).
+    * I am searching for a solution that could add a line break and avoid such a small font size...
+
+Did I miss any other places in the templat that requires tweaking for an LGO thesis? Please let me know!
+{: .notice}
