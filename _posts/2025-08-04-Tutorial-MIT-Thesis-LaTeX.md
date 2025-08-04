@@ -1,6 +1,6 @@
 ---
 title: "Tutorial: MIT Thesis LaTeX Template with VS Code"
-date: 2025-08-02
+date: 2025-08-04
 permalink: /posts/2025/08/MIT-Thesis-LaTeX/
 tags:
   - tutorial
@@ -29,7 +29,7 @@ MIT distributes the thesis template through the Comprehensive TeX Archive Networ
 
 Then unzip the archive to a convenient folder. I would unzip it to the actual folder where I am going to write my thesis.
 
-![Example view of the unzipped `mitthesis`](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/mitthesis-unzipped.png)
+![Example view of the unzipped `mitthesis`](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/mitthesis-unzipped.png)
 
 ### Understand the contents
 
@@ -62,7 +62,7 @@ VS Code will treat this directory as the workspace.
 
 Open the `MIT-Thesis.tex` file as it is the root document.
 
-![MIT-thesis-template folder opened in VS Code](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-template-VSCode.png)
+![MIT-thesis-template folder opened in VS Code](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-template-VSCode.png)
 
 ## 3. Trigger the build
 
@@ -77,7 +77,7 @@ As mentioned in the [previous tutorial]({% post_url 2025-06-29-Tutorial-LaTeX-VS
 This is also a step that we likely could run into various issues, usually due to different local setups, somewhere / somehow. Please contact me with the error you run into and I could consolidate into quick fixes updated here. I also encourage you to try troubleshooting with your choice of GenAI tool. GitHub Copilot, if you have access to, is my go to choice.
 {: .notice}
 
-![Default MIT-Thesis compiled with resulting PDF displayed](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-first-compiled-VSCode.png)
+![Default MIT-Thesis compiled with resulting PDF displayed](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/MIT-thesis-first-compiled-VSCode.png)
 
 Scroll through the generated PDF file; it should closely match the [official example PDF](http://mirrors.ctan.org/macros/latex/contrib/mitthesis/examples/font_samples/Lmodern_sample.pdf) in formatting and structure.
 
@@ -174,7 +174,7 @@ My gut feeling: risk is trivial. We only work on our thesis for less than a year
 
 Re-build your LaTeX project and you should see something like this:
 
-![An example of LGO thesis cover page rendered](/images/2025-08-02-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
+![An example of LGO thesis cover page rendered](/images/2025-08-04-Tutorial-MIT-Thesis-LaTeX/LGO-Thesis-Cover-Example.jpg)
 
 ### Known issues
 
